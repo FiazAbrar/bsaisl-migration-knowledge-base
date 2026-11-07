@@ -41,6 +41,61 @@ Merged from the per-topic notes in `findings-parts/`. Ledger ids like [W0012] po
 - RAISE: Observer 24 Dec 2025 (WB press release): WB approved $150.75M additional financing; RAISE registered >250,000 returnees for reintegration. RMMRU Dec 2025: cash incentive to 29,518 returnees; many left on waiting list.
 
 
+# Open questions from SA1
+
+Moved out of the doc (intro and company worker Step 1) during the length edit.
+
+- Whether BMET still charges Tk 250 for clearance and the smart card.
+- Whether the DEMO charges for giving fingerprints after OEP registration, and how long it takes.
+- Government's current maximum cost for going to Saudi Arabia: the last reported figure is Tk 1.65 lakh, set in 2016 [A0013]. Still listed in the doc as a Need to know.
+- What scams target workers at OEP registration (for example fake registration sites or shops charging extra).
+- What happens if a worker fails the TTC admission test or misses the fee deadline, for example whether they can apply for the next session.
+- Whether a worker can get the Saudi visa stamped without a Bangladeshi agency, and what the employer enters on the Saudi visa platform to authorise a Bangladeshi agency. (The doc now states the A0077 claim, from a DEMO official in 2024, as the rule.)
+- Which other agencies place workers in the promised Saudi job at a fair cost; there is no public rating of agencies.
+- Whether a paper complaint to BMET gets a receipt or complaint number, and how to follow it up.
+- Whether ILO or IOM in Dhaka take up an individual worker's complaint.
+
+Cut from the doc as research detail (no question, recorded for reference):
+- Average real cost about Tk 5 lakh, up to Tk 9 lakh [A0014]; many travel without knowing the company, job or wage [A0084].
+- TTC Mymensingh trade list [A0114]; session notice dates for TTC Gaibandha and TTC Magura.
+- Single visas need embassy attestation as well as group visas [A0087] (kept in Step 2).
+- OEP online complaint system launched July 2026 [A0039].
+
+
+# Open questions from SA2
+
+Moved from the company-worker Steps 2-9 during the length edit. None blocks a step on its own.
+
+- Step 2: whether forged embassy attestations on Saudi demand letters have been reported.
+- Step 3: whether fake Takamol certificates are being sold.
+- Step 4: the Gulf Health Council's current fax number for complaints.
+- Step 9: whether the labour ministry hotline 19911 has a Bangla option is back in the draft as a Need to know (the rights-at-work section cites it as Arabic and English, C0050).
+
+
+# Open questions from SA3
+
+Moved out of the company-worker sections (rights at work through scams) during the length edit; still open.
+
+- Friendly settlement: whether an interpreter or the embassy labour wing may join the Webex session with the worker.
+- Labour wing: how soon it answers the online service request form.
+- Labour wing: whether it will file and attend a claim for a worker as attorney, and how a worker gives it a power of attorney.
+- Health insurance check (chi.gov.sa): which number the check asks for (iqama or passport) and what the result shows.
+- Changing employer: whether any official service matches foreign workers already in Saudi Arabia with employers.
+- Wage insurance: how long Al-Etihad takes to pay a claim.
+
+
+# Open questions from SA4
+
+Moved out of the doc (lines 357-506: domestic worker through other visas) during the length edit. All other open questions from this stretch were restored to the draft as "Need to know" lines after the independent check.
+
+- Domestic worker, pay: some reports give SR 1,000 for women, against the SR 800 in the recruitment agreement [D0193].
+
+
+# Open questions from SA5
+
+All gaps moved out of the doc (Changing visa type through Contacts) during the length edit were restored inline after the independent check. No open questions remain outside the doc for this part.
+
+
 # Findings, part A: intro, Work visa: company worker steps 1-3
 
 Draft: `drafts/SA1.md`. Ledger rows A0001-A0110 in `ledger-parts/A.csv`. Researched 7 Nov 2026.

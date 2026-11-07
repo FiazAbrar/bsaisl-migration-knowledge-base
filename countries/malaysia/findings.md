@@ -3,6 +3,133 @@
 Merged from the per-topic notes in `findings-parts/`. Ledger ids like [W0012] point to rows in ledger.csv.
 
 
+# Open questions from MY1
+
+Moved out of the doc (PLKS intro and Step 1) during the length edit; none blocks an action on its own.
+
+- OEP hotline 09614445271: its hours and call charge [G0036, B0144].
+- BMET head office visa and demand-letter check: which desk does it, its hours, and what the worker gets back [B0005, B0032, B0033].
+- BMET complaint cell at 89/2 Kakrail: its room and office hours [B0034, G0026].
+- PKB migration loan: where to complain about PKB [B0018].
+- Cut as non-actionable detail: witnesses from the village often cannot come to BMET's hearing in Dhaka [G0017]; Malaysia's list counts 338 Bangladeshi agencies (BOESL, 25 processing, 312 recruiting) [Z0144]; BKTTC trade list also includes electrical installation, automotive mechanics, and refrigeration and air conditioning [G0006]; the BOESL example circular was for 112 men with a shortlist of 300 [W0001, W0004].
+
+
+# Open questions from MY2
+
+Moved from the PLKS Steps 2 to 7 (malaysia.src.md lines 170-362) during the length edit.
+
+- Step 2: how long the medical test takes, and what paper the centre gives back (the medical-or-VDR order, the passport question and the MiGRAMS check stay in the doc as one Need to know).
+- Step 2: where the Ministry posts its own list of approved medical centres for the 2026 recruitment (until then the FWCMS list is used) [W0009].
+- Step 2: how a worker asks for a mobile court [B0047].
+- Step 2: how a worker can see their own Bio-Medical result.
+- Step 3: whether and how an employer can appeal a refused VDR.
+- Step 3: how long the High Commission's authorised visa agencies take for worker visas, and their addresses.
+- Step 4: whether a GD (general diary) has a fee.
+- Step 4: how long a police clearance certificate takes.
+- Step 6: whether every BMET training institute charges Tk 200 for the PDO (Tk 200 is Feni TTC's fee) [I0027].
+- Step 6: whether the contract-before-clearance condition is in every Malaysia permission letter (removed from the doc as a Need to know; the doc states the rule) [W0030].
+- Step 6: how to get money back from a fake MDAC site, and where to report it.
+- Step 7: the FOMEMA appeal fee [Z0131], and whether recruitment money is refunded to a worker sent home unfit (Step 7 keeps the passport-return gap as its one Need to know).
+- Step 7: whether the "work permit document" needed to register a SIM means the i-Kad.
+- Step 7: the current SPIKPA annual cover limit [I0019, I0020].
+- Step 7: how long the EPF Leaving Country Withdrawal payment takes.
+- Cut from the doc as narration or statistics, kept here for the record: FWCMS centres are registered locally and audited by Bestinet [W0010]; TIB's head said passport applicants face harassment and bribes at every step [I0046]; FOMEMA urges registration within 72 hours, and a FOMEMA payment is valid 30 days [Z0128, Z0127]; employers keeping passports is still widespread [F0084]; workers have arrived with valid permits to find no job [A0095, A0014]; the EPF 2% rate for foreign workers started October 2025 [I0014].
+
+
+# Open questions from MY3
+
+Moved out of the doc (PLKS rights at work through scams, and domestic worker) during the length edit; none blocks an action on its own.
+
+- Minimum wage: whether the Minimum Wages Order setting RM2,000 from June 2027 has been made [R0002]. Cut as background: the rate is set by a Minimum Wages Order under the National Wages Consultative Council Act 2011 [J0106].
+- Housing: whether the RM100 a month rent limit has been changed since 2020 [J0090].
+- Probash pension: the full list of details the registration form asks for [J0078, J0086].
+- PLKS renewal: where Bangladeshi workers' renewals are processed now that work-pass applications go through FWCMS [Z0002].
+- Detention: whether the Immigration visiting-permission letter costs anything and how long it takes [L0179, L0180].
+- WFW app: how long a complaint takes to be handled [L0165, L0166].
+- High Commission labour wing: how long it takes to reply and whether it charges anything [L0021, B0048].
+- Change of employer: how long it takes [M0121, M0132].
+- EPF Leaving Country Withdrawal: how long payment takes [J0023, J0029].
+- Going home on leave: Immigration's own written rules on the multiple-entry visa given with the PLKS renewal [H0027, H0028].
+- Cut as non-actionable: Employment Act 1955 is the main labour law in Peninsular Malaysia [L0107]; the passport-holding offence may be used to prosecute an employer or agent [J0082]; fake e-PLKS copies sell for about RM150 and fake police reports for about RM70 [D0045]; Immigration has 13 depots [L0181]; Immigration broke one forged-passport ring for FOMEMA resits [D0035, N0035].
+
+
+# Open questions from MY4
+
+Moved out of the doc (Student visa and Tourist visa) during the length edit; none blocks an action on its own.
+
+- Student: ISAC at KLIA also gives tips on transport into town [O0061, O0062].
+- Student (fact cut as not needed to act): MDAC exemption also covers permanent residents [V0060].
+- Tourist: whether a genuine eVISA carries a QR code [V0067].
+
+
+# Open questions from MY5
+
+Moved out of the doc (family visit VDR, business, medical, PVP, transit, Employment Pass) during the length edit; none blocks an action on its own.
+
+- Family visit (VDR): whether the sponsor can take the notarial certificate to Wisma Putra themselves [P0051].
+- Family visit (VDR): which counter hours the Visa, Pass and Permit Division keeps for VDR submissions [C0008, P0005].
+- Family visit (VDR): scams on this route, such as fake sponsors or brokers charging for a "family VDR".
+- Medical visit: scams on the Malaysia medical-visa route.
+- Medical visit: how long a hospital or MHTC takes to issue the appointment letter.
+- Professional Visit Pass: any case of a "PVP" sold to general workers as a work visa.
+- Professional Visit Pass: how long a standard PVP decision takes.
+- Employment Pass: what MSC Malaysia status is and how a company gets it [C0013].
+- Employment Pass: the High Commission of Malaysia in Dhaka's fee and processing time for certifying certificates [P0065].
+- Employment Pass: BMET emigration branch's opening hours, and where to buy the Tk 300 non-judicial stamp paper [B0029].
+- Cut as non-actionable or duplicated: the list of other bodies that approve Employment Passes in some sectors and regions (MIDA, Multimedia Development Corporation, Bank Negara Malaysia, Securities Commission, Public Services Department, ECERDC, IRDA) [E0007, C0013, Z0063, Z0090]; MyVISA's weekday 9 am to 5 pm window for Bangladesh, already in Tourist visa, Step 2 [V0025]; the suspended 120-hour visa-free transit, already in the table of visas not open to Bangladeshis [V0082].
+
+
+# Open questions from MY6
+
+Moved out of the doc (family passes, MM2H, DE Rantau, other passes) during the length edit; none blocks an action on its own.
+
+- Employment Pass family: how long an LTSVP for parents, older children or a common-law spouse is approved for at a time.
+- Bangladesh High Commission, Kuala Lumpur: counter hours for attestation and how long it takes.
+- Conditions under which a Category I Employment Pass holder's spouse may work on the Dependant Pass from 1 January 2027, once published.
+- Permission to Study for a Dependant Pass spouse: fee, processing time and what the holder receives.
+- Any official warning about scams in family-pass applications.
+- Pass-confirmation form before marrying a Malaysian: fee and processing time.
+- Spouse work permission: whether it can also be applied for at Immigration headquarters in Putrajaya or the nearest state office; its fee and processing time.
+- Residence Pass: processing time and whether a refusal can be appealed.
+- Other relatives' LTSVP: whether these pass holders may work; fee for categories other than dependant or guardian, and whether a refusal can be appealed.
+- How long SISPAA complaints take to answer, and whether the Bangladesh High Commission helps with family-pass cases.
+- MM2H: whether MOTAC has ever recovered money for an applicant cheated by an agent.
+- DE Rantau: cost, documents and processing time of a VDR; any official warning about DE Rantau scams.
+- MTEP: processing time, whether a refusal can be appealed, and whether any nationality restriction applies to Bangladeshis.
+- Investor Pass: whether a refusal can be appealed, and whether any nationality restriction applies to Bangladeshis.
+- PVIP: how long an application takes and whether a refusal can be appealed.
+- PLS@XPATS: whether a refusal can be appealed.
+- MACS: the fee and processing time.
+- Cut as duplicate detail: in DE Rantau Step 3, the eVISA cost and time for a Bangladeshi (RM20 visa fee, RM105 processing, 0.8% card or 1.7% e-wallet charge, none refunded, 2 to 7 working days) [V0016, V0017, V0019, V0012], now referred to Tourist visa, Step 2. Spouse LTSVP: only Chinese and African nationals must apply at Immigration headquarters [Z0047].
+
+
+# Open questions from MY7
+
+Moved out of the doc (changing visa type to bans after you leave) during the length edit; none blocks an action on its own.
+
+- Act A1752 (citizenship for children born in Malaysia): whether it has come into force [K0005].
+- The Bangladesh Bank circular that sets this year's 2.5% remittance incentive [B0103, B0104].
+- Opening hours of the PRM 2.0 Immigration offices other than Seremban [T0038].
+- Ministry of Expatriates' Welfare repatriation request: whether it acknowledges an application and how the family can check progress [B0052].
+- Cut as non-actionable detail: Malaysia is not a party to the 1951 Refugee Convention [S0101]; BNM's licensee list shows Agrani Remittance House licensed for remittance, head office No. 33 Jalan Tun Tan Siew Sin, Kuala Lumpur [B0101]; the Seremban office serves about 150 people a day [H0009]; PLS@Xpats details (company documents, free, 3 working days, letter valid 30 days, one entry, no extension) dropped from the visa-change table as they repeat Business visit, Step 3 [P0025, P0027, P0028].
+
+
+# Open questions from MY8
+
+Moved out of the doc (death, injury, lost job, insurance, coming home, destination, contacts) during the length edit; none blocks an action on its own.
+
+- PERKESO: the address of the nearest branch for a given worker, and how long PERKESO takes to decide an injury claim [U0022, U0071].
+- Labour Court: how long a case takes (the "If you aren't paid" section already gives about 1 to 3 months) [J0041].
+- Tenaganita: whether it charges workers for its help [J0007].
+- Welfare Board treatment grant (up to Tk 2 lakh): how the money is paid; the application asks for a bank statement [B0071].
+- Malaysian compensation: how long PERKESO takes to pay a death claim filed through the High Commission.
+- Insurance: how Jiban Bima Corporation pays the money (bank transfer or cheque).
+- JPP (Industrial Relations Department): whether the dismissal representation form can be filed online.
+- Customs in Bangladesh: whether BMET card holders abroad at least 6 months may bring 2 new phones a year duty-free.
+- Cut as non-actionable detail: a documented worker's body usually comes home within a reasonable time, an undocumented worker's can take much longer [F0073]; the ILO does not take complaints from individual workers [G0027]; in 2025, 130,603 undocumented migrants registered under Malaysia's repatriation programme and 51,100 foreigners were arrested for immigration offences [U0058]; the Probashi Lounge at Shahjalal airport gives free wifi, calls and food at up to 30% off on proof of clearance or membership [B0082].
+- Citation check: the passport emergency-contact sentence in "If a worker dies" carries [U0088], which the ledger records as Bank Negara's BNMTELELINK, not body tracing; kept as found, needs checking.
+
+
 # Findings, part A: recruitment and real costs (practical pass)
 
 Researched 6 Nov 2026. Ledger ids are in `ledger-parts/A.csv` (A0001-A0112). Every row is a news, NGO or research source: status `unofficial` (what happens in practice, to be written as "unofficial, not verified") or `conflict` (3 rows, each naming the official row that is the rule). None of these rows may be the basis of a fee, eligibility, document, processing-time or legal rule. Sources older than 6 Nov 2025 are marked with their year; 2024 items were kept only where nothing newer was found (complaint outcomes, debt survey, 2024 refund process).
