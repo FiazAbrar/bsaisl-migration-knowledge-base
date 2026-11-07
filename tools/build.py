@@ -76,7 +76,7 @@ def load_sources():
         tag = f" ({pd[:4]})" if pd and pd != "undated" and int(pd[:4]) < 2025 else ""
         return stem, official, tag, ref_line(stem)
 
-    return r"[A-Z]\d{4}", resolve
+    return r"[A-Z]{1,2}\d{4}", resolve
 
 
 # ---------- build ----------

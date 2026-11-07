@@ -16,7 +16,7 @@ Every fact in doc.md needs a row in facts.csv, backed by a source saved in sourc
       [--visa PLKS --field validity --value "12 months"]   (structured fields the chatbot can use)
       [--note "free text, e.g. conflicts with W0012"]
       [--no-quote-check --note "why"]                     (only for garbled Bangla PDF text: quote by page)
-  It prints the new id (e.g. W0013); cite it in doc.md as [W0013]. --prefix is any capital letter;
+  It prints the new id (e.g. W0013); cite it in doc.md as [W0013]. --prefix is one or two capital letters;
   when several people or agents work at once, give each its own letter so ids never clash.
 
 Status:
@@ -76,8 +76,8 @@ def write_row(path, cols, row):
 
 
 def add(a):
-    if not re.fullmatch(r"[A-Z]", a.prefix):
-        sys.exit("--prefix must be one capital letter")
+    if not re.fullmatch(r"[A-Z]{1,2}", a.prefix):
+        sys.exit("--prefix must be one or two capital letters")
     if a.status not in STATUSES:
         sys.exit(f"status must be one of {sorted(STATUSES)}")
     log = fetchlog()
@@ -112,7 +112,7 @@ def add(a):
         sys.exit("an official source should be verified, possibly-outdated or conflict")
     if any([a.visa, a.field, a.value]) and not all([a.visa, a.field, a.value]):
         sys.exit("give all of --visa --field --value, or none")
-    n = max([int(r["id"][1:]) for r in rows(FACTS) if r["id"].startswith(a.prefix)] or [0]) + 1
+    n = max([int(r["id"][len(a.prefix):]) for r in rows(FACTS) if re.fullmatch(a.prefix + r"\d{4}", r["id"])] or [0]) + 1
     fid = f"{a.prefix}{n:04d}"
     write_row(FACTS, FCOLS, {"id": fid, "claim": a.claim, "quote": a.quote, "saved_file": ";".join(files),
                              "url": log[a.name]["url"], "page_date": pd, "access_date": log[a.name]["access_date"],
@@ -139,7 +139,7 @@ def cited(a):
     start, end = a.start or 1, a.end or len(lines)
     seen = []
     for ln in lines[start - 1:end]:
-        for grp in re.findall(r"\[([A-Z]\d{4}(?:, ?[A-Z]\d{4})*)\]", ln):
+        for grp in re.findall(r"\[([A-Z]{1,2}\d{4}(?:, ?[A-Z]{1,2}\d{4})*)\]", ln):
             for i in (x.strip() for x in grp.split(",")):
                 if i not in seen:
                     seen.append(i)
