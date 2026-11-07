@@ -81,7 +81,7 @@ pandoc "<Country>.md" -o "<Country>.docx"
 python3 fixbullets.py "<Country>.docx"
 ```
 
-`build.py` renumbers citations in order of first use, adds the year to pre-2025 sources, links each citation to its reference and builds the Contents list. It stops if a citation key has no reference. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit the source and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
+`build.py` renumbers citations in order of first use, adds the year to pre-2025 sources, links each citation to its reference and builds the Contents list. It also writes `README.md`, the same text with anchors GitHub can render, so the doc reads with working links when you open the country folder on GitHub. Commit it with the .docx. It stops if a citation key has no reference. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit the source and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
 
 ## Firecrawl (web scraping that gets past many blocks)
 

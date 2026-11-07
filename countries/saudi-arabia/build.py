@@ -45,5 +45,7 @@ def build(inp,out):
     toc='## Contents\n\n'+''.join('- [%s](#%s)\n'%(h,slug(h)) for h in heads)+'\n'
     i=s.index('\n## ')+1; s=s[:i]+toc+s[i:]
     open(out,'w').write(s); print(out,len(om),len(nm))
+    # GitHub copy: GitHub doesn't render pandoc's []{#id} anchors, so use HTML anchors
+    open('README.md','w').write(re.sub(r'\[\]\{#(\w+)\}',r'<a id="\1"></a>',s))
 build('saudi.src.md','Saudi Arabia.md')
 #build('lb.src.md','Leaving Bangladesh.md')
