@@ -2917,3 +2917,165 @@ Researched 7 Nov 2026 for `drafts/background.md` (replaces and absorbs the intro
 - BOESL Malaysia numbers: A0030 ("about 1,500" in 2022) conflicts with A0059/Z0084 (1,381, Oct 2022 to May 2024); doc keeps 1,381.
 - Still "lead", now marked as reported in the doc: E0143 (S-MM2H), H0029 (employer at exit point, minister's May 2025 announcement in FMT, Astro Awani and others; no KDN release found), H0045 (Bangladesh Bank hundi notice as reported by bdnews24).
 - Page we could not download: https://mtcp.sarawak.gov.my/web/subpage/webpage_view/262 (MTCP Sarawak, S-MM2H requirements): curl failed and Firecrawl hit a proxy error. Needs a teammate to save it in a browser.
+
+## Step 1 "Which agencies" (7 Nov 2026, YC)
+
+- Built from `agencies/` (agencies.csv, doc.md, facts.csv); every cited fact re-logged here as YC0001-YC0027, with three sources copied in from `agencies/sources/` (kk-3-licences-forfeit-fc-c, ds-no-grading-system-2026 (dated 29 Oct 2026 on the page), fe-acc-13-agencies-2025).
+- The eight of the 25 with a Malaysia record are found by elimination: Prothom Alo (2 Sep 2026) names the 17 without one; the rest of the FWCMS 25 (W0008) are General Trading, United Gulf, Al-Shupto, Rifa, Brothers Trading, Country Employment, Neighbour Associates and The Anchor Care. Prothom Alo confirms General Trading, Rifa ("have sent some") and The Anchor Care (11) directly.
+- Address mismatches FWCMS vs OEP: Rifa (Banani vs Purana Paltan), The Anchor Care (Savar DOHS vs Dhamrai), Brothers Trading & Contracting (Kamal Ataturk Avenue, Banani vs Shahid Sayed Nazrul Islam Sarani, Shantinagar/Ramna; YC0028, YC0023), Goodness Services (House 79, Block J, Banani vs 67 Naya Paltan; YC0029, YC0026). Not resolved; doc gives one line listing all four.
+- FWCMS lists associates by name only, with no RL number. RS International = RL1428 and T S Overseas = RL1755 rest on name match (each name is unique on the OEP list) plus Kaler Kantho's RL numbers (YC0011); no source ties the FWCMS entry to the RL directly.
+- Fixes after independent check (7 Nov 2026): Prothom Alo's 1,612 covers January 2004 to 23 August 2026, not "before 2026"; Z0148 says the 25 "provide necessary assistance" with calling visa and e-visa, so the doc says "handle" not "alone file"; associates cannot send directly per Prothom Alo (YC0030); lead-in no longer implies wrongdoing for Brothers Trading, Country Employment and Neighbour Associates.
+- No agency has outside evidence of fair treatment for Malaysia; Bonanza Overseas' ILO pilot evidence is Qatar only, so no agency is named as better.
+- Old-round top senders by BMET letters 2023-25 (Stanford, Trans Asia, Al Farah, Jannat, Catharsis) are cancelled; Future International, Deshari, SOS, Al-Bhokhari are Active but not on the 2026 FWCMS list; left to the agencies folder.
+
+# Background part 1 research
+
+7 Nov 2026, prefix YD (YD0001-YD0016). Draft: `drafts/bg-1.md` (doc.md not edited, not committed). Firecrawl was out of credits all session; searches ran through WebSearch and pages were saved with fetch.py (curl).
+
+**Status (as of 7 Nov 2026).** Newest sources: bdnews24 and Ajker Patrika on the minister's 5 Nov meeting with FWCMS-listed agents (YD0005-YD0007; Ajker Patrika registered, not cited: it adds that demand letters must be filed online with Malaysian HR ministry attestation and an agency job-guarantee undertaking, which belongs in part 2 or Step 1). TBS 4 Nov: the two foreign ministers discussed joint inspection and monitoring at CHOGM (`yd-tbs-joint-monitoring-2026-11`, saved, not registered: no bearing on the reader).
+
+**Conflict: is the 10,000 really zero cost?** Minister Ariful Haque Chowdhury, 5 Nov: "not a single taka" (YD0006). State Minister Nurul Haque Nur, late Oct (Daily Star): workers still pay airfare, medical and a small BOESL service charge (YD0008). Ministry 28 Aug said "including airfare" (Z0154). Both statements kept in the draft, attributed and dated. The Daily Star article (`yd-star-leave-early-nov`) carries no date in the saved copy; dated 29 Oct by content (Nur's estimates of 28 Oct were given "yesterday").
+
+**Rank and share.** Computed from BMET's OEP country-clearance JSON (already saved): 2nd in 2023 (350,633 of 1,302,488, 26.9%) and 2024 (93,562 of 1,010,908); 19th in 2025; 26th in 2026 to 6 Nov. OEP figures differ slightly from BMET's annual table (351,683 and 93,632 in B0091); the draft uses OEP figures for rank and year counts there.
+
+**Malaysia-side freeze.** The Edge (20 May 2024): freeze on new foreign-worker applications since March 2023, extended, "no new quota" (YD0013). Malay Mail (30 Dec 2025): KDN special window 19 Jan-31 Mar 2026 for sectors approved 1 Oct 2025; existing applications accepted to 31 Dec 2025 (YD0014). An agency page says the 31 Mar deadline was later removed (not saved: agency site, unconfirmed). The Star (7 Jul 2026): eQuota only (YD0015; R0001 is the RTM version). Which sectors were approved on 1 Oct 2025 is not yet found; an agency page (apandaraya.com) says construction only for government projects and manufacturing only for new MIDA investments; not used (unverified).
+
+**CLAB.** NST Feb 2026: about 800 Bangladeshis accepted Dec 2025-Jan 2026 (YD0016). No cumulative count of how many of the 7,873 left-behind workers have gone; searched Bangla and English news.
+
+**Women.** No BMET country-by-sex table for Malaysia found (searched BMET, Prothom Alo "Anatomy of overseas employment", FE). Only N0028 (UNB report of the HC KL notice, Jan 2025: no agreement for women). Risingbd copy of the same warning blocked (403). Written as "Need to know".
+
+**Skill test.** IMI's worker conditions (W0041, W0073) list age, health and sector only; construction needs CIDB SKKP (G0007). Asif Nazrul's 2025 objection to Malaysia's "about a dozen" conditions concerns agency selection (part 2), not worker skills. The Daily Star Bangla URL fetched (`yd-starbn-asif-nazrul-conditions`) turned out to be a tag listing page; not registered.
+
+**Not used:** Ittefaq "30 workers leave for Malaysia" (`yd-ittefaq-30-workers-2026-07`) is the Nov 2022 first BOESL batch (United Plantations), not 2026; not registered.
+
+**Pages we could not download:** https://www.risingbd.com/national/news/592806 (403); https://www.prothomalo.com/opinion/column/qe74cyxutl (curl failed; Firecrawl out of credits).
+
+# Background part 4 research
+
+Draft: `drafts/bg-4.md` ("What ties you to the employer"). New facts YG0001-YG0027. Firecrawl was out of credits (resets 8 Nov 2026); searched with WebSearch, saved with fetch.py, and used wayback.py for blocked pages.
+
+## Findings
+- **Renewal cost in practice.** CPD's Mustafizur Rahman (Daily Star Bangla, about Oct 2025): workers pay RM2,500-3,200 a year to renew, often borrowing at 10% a month (YG0001). Case: Tk 92,000 for one renewal (YG0002). The official cost falls on the employer: levy RM1,850 or RM640, plus RM60, RM125 and RM20 (M0226-M0228, L0068). The IOM study also found renewal fees "extortionate" (YG0012). US TIP 2026: levies deducted from wages (F0082).
+- **Passport retention.** Old surveys: Verité 2014, 94% surrendered and 71% couldn't get them back (YG0009); IOM 2022 data, 40 of 40 (YG0011). Newer sources: SUHAKAM (J0069) and TIP 2026 (F0084). Ransom cases: Tk 1.7-1.8 lakh (YG0003, 2024) and RM6,000 (YB0018). Danwatch (Nepali workers, about 2019): EUR 400-970 to get a passport and a ticket back. Saved but not cited, because it is a Nepali case.
+- **How people become undocumented.** IOM study (BHRRC summary, Aug 2023; IOM PDF itself not found): all 40 entered legally and left because of exploitation; debt keeps them in Malaysia (YG0010, YG0013). Lawyer Sumitha Shaanthinni: a legal job change is almost impossible (YG0015). Working outside the company named on the permit is an offence: Ops Mahir, Ipoh, 4 Sep 2026, 175 detained, mostly Bangladeshi (YG0005, YG0006).
+- **Terms.** পারমিট for PLKS (YG0001 quote); অবৈধ (YG0004); কলিং ভিসা / 'ফ্রি ভিসা' (YG0007); PATI = Pendatang Asing Tanpa Izin (YG0008).
+- **Outsourcing.** Abolished from 31 Mar 2019 (YG0025, The Star). But in Nov 2023 a MIDEQ researcher said some workers still end up with outsourcing companies that farm them out informally (YG0026). The IMI page still mentions outsourcing companies moving workers within a sector (L0082, undated). Whether any outsourcing permits exist in 2026 is open.
+- **Legalisation markets (historical).** 2016-18 rehiring: agents charged RM6,000-10,000 against an RM3,900 official maximum, and at most 20% got permits (YG0018-YG0020). Fake RTK 2.0 agents charged RM7,000 (Feb 2024) and RM1,500-2,000 (Mar 2024) (YG0021, YG0022). A fake-renewal ring charged RM2,500-3,000 (Dec 2023) (YG0023). Fake PLKS stickers sold for RM5,000-6,000 (Jan 2023) (YG0024).
+- **Reused.** Exit and bond: M0216, M0228, M0229, H0029. Quitting: L0145, J0035, M0066. Sarawak licence: L0168, L0170, L0173. Sabah has no MoU: N0029. Domestic work excluded: L0194, Z0141, J0012. Leave deposit RM2,500: F0033.
+
+## Logged but not used
+- YG0014 (IOM: 36 of 40 had no way to report abuse), YG0016 and YG0017 (Danwatch), YG0027 (2023 ministerial statement on outsourcing). These were cut for length or because they repeat other facts. YG0014 may suit part 5 (what goes wrong).
+
+## Pages we could not download
+- jugantor.com/exile/1144375 (calling visa explainer): 403, and no Wayback copy.
+- prothomalo.com "মালয়েশিয়ায় প্রবাসী বাংলাদেশিরা আতঙ্কে": fetch failed. It reportedly gives undocumented pay as Tk 60-80 an hour against Tk 160-200 for legal workers. That is useful for part 3 or 5 if someone downloads it.
+- The IOM report PDF ("Assessment of causes and contributing factors to migrant workers becoming undocumented in Malaysia") was not located; only the BHRRC summary was saved.
+
+## Open (in the draft as Need to know)
+- How many days a worker whose pass was cancelled has to leave, and whether he can get the Check-Out Memo without the employer.
+- 2026 street cost when renewal is passed on to the worker, and the Bangla word for it.
+- Whether shell or outsourcing companies still sell PLKS "free visas" in 2026, and at what price.
+- How long the blacklist lasts for a worker reported as lari who was not deported.
+
+# Background part 2 research
+
+7 Nov 2026, prefix YE (YE0001-YE0037). Draft: `drafts/bg-2.md` ("How a job reaches you, and who takes a cut"); doc.md not edited, nothing committed. Firecrawl was out of credits for the day, so searches ran through web search and pages were saved with fetch.py (curl). Searches, English, Bangla and Malay: quota selling and quota bribery in Malaysia; KESUMA eQuota/OSC 2026; demand-letter (চাহিদাপত্র, কলিং ভিসা) prices; sub-agent/dalal cuts (মালয়েশিয়া দালাল কমিশন, সাব-এজেন্ট); High Commission demand attestation 2026 (হাইকমিশন ডিমান্ড সত্যায়ন); Verité/Tenaganita/ITUC cost breakdowns; kuota pekerja asing dijual.
+
+## The chain as found
+
+- **Root (quota).** From 6 Jul 2026 KESUMA runs the OSC, all quota applications through FWCMS, no case-by-case; MYFutureJobs advert and s.60K approval first; KDN keeps pass authority; minister says KESUMA owns the FWCMS source code (YE0001-YE0005, Malay Mail; matches R0001). Quotas granted on paper eligibility (YE0013, 2023 HR Ministry). Quota bribery: Apr 2023 MACC arrested the HR minister's aide plus a businessman described as "runner and bagman" for agencies obtaining quotas; five officers sacked May 2023 (YE0010, YE0011); outcome of any prosecution not found. A-to-B ring (Oct 2026): false company info, RM3,800-5,000 profit a head, run by two Bangladeshi men (YE0007-YE0009; D0046 is the same raid via bdnews24). Malaysian employment agencies' association: agents apply for 100 when 10 are needed (YE0014).
+- **Demand letter.** RM8,000-10,000 now, some say RM10,000-12,000, was RM2,000-3,000 (G0013, YE0027, Amar Desh Oct 2026); 2022-24 middlemen in Malaysia Tk 1.6-2 lakh (W0070, YE0019). Big agencies buy demand and pay middlemen (YE0029). Employer may use a Malaysian agent (YE0036, 2022 process document). Who exactly sells demand in KL: not found; written as Need to know.
+- **Attestation.** U0044 (no demand accepted without HC attestation), W0059 (2023 employer commitment letter). HC admitted in 2019 it can't check every case (YE0035). Nothing found on the 2026 attestation checks or fee; Need to know.
+- **Processing agencies (choke point).** 338 = BOESL + 25 + 312 associates (Z0144, W0008); NOC for BMET clearance (Z0149). BAIRA ex-leaders: demand for separate FWCMS ID/password for each of the 312 (YE0023, Daily Star Bangla 17 Sep 2026); "makes them sub-agencies", only difference is BMET clearance under own licence (YE0025, YE0026, Daily Star Bangla 16 Oct 2026). Toll: 2022-24 Tk 1.07-1.52 lakh (A0002, A0028); 2026 Tk 6,000 (A0019, Observer) vs RM5,500 alleged (A0026, Prothom Alo): conflict, both kept with attribution. 2016-18 precedent: associates did 80-90% of the business, the 10 did processing; "five to six levels of brokers" (YE0016, YE0017, Daily Star 2018). BOESL's Tk 1 lakh "visa purchase" (A0056).
+- **Control.** Bestinet RM100 per worker with no formal contract (YE0021, PAC/Auditor-General via Malaysiakini reprint; D0024 for the MiGRAMS fee). Amin's "highway" line (YE0022). Names kept: Amin and Swapan (central to who controls the gate, insiders will check), Mangrove and Al-Shupto owners (2026 list). Each allegation attributed and dated; denials included.
+- **Village.** ITUC 2023: 78% used a sub-agent (YE0033). Unauthorised middlemen Tk 50,000-1 lakh (YE0018, 2024). Malaysiakini split: Tk 142,000 to agents in Bangladesh, Tk 150,000 to syndicate-linked parties in Malaysia per visa (YE0020; the reprint is undated, article is after the Nov 2025 Dhaka court ruling, page date logged as 2025-12). Neighbour-as-broker and 1,000 passports collected (YE0028, YE0030, Amar Desh). Ministry officials: Tk 78,990 cap left ~Tk 30,000 agency profit (YE0031). Former Malaysian minister Zuraida: "village leaders, district officers" (YE0032).
+
+## Logged but not used in the draft
+
+- YE0006 (minister: don't contact us to expedite quotas): rhetoric, no bearing.
+- YE0012 (2023 HR Ministry blames Bangladeshi agencies for over-sending): overlaps YE0013/YE0014.
+- YE0015 (agents make money on any approval): overlaps YE0014.
+- YE0034 (2019 Malaysiakini: HC tasked with checking demand): YE0035 carries the point.
+- YE0037 (2022 "Quota Auto Allocation to BRA" section): historical detail.
+- Saved and registered, no fact used: ye-ittefaq-lifts-quota-cap-2026 (actually 19 Aug 2025: calling-visa quota reopened, only sector-based official agencies may apply; not registered), ye-ann-something-rotten-kl (2023 column, not registered), ye-star-manpower-export-old (2007 Tenaganita report on sub-agents; too old, not registered).
+
+## Conflicts
+
+- 2026 processing toll: Tk 6,000 (A0019) vs RM5,500 (A0026). Both in the draft, attributed.
+- Demand-letter price: RM8,000-10,000 (G0013) vs RM10,000-12,000 (YE0027, same article) vs RM8,000-9,000 (A0026) vs about RM7,000 (A0003). Draft gives G0013 and YE0027.
+
+## Still open (in the draft as Need to know)
+
+- Who sells demand letters in Malaysia and how the money moves.
+- What the High Commission checks before attesting a 2026 demand, and how long it takes.
+- A village broker's 2026 cut per Malaysia worker, and who pays it.
+- Whether Bangladeshis in Malaysia sell demand from their own employers to relatives at home, and the price (also asked in Step 1, item 4).
+
+## Pages we could not download
+
+- https://www.bharian.com.my/berita/kes/2026/02/1505836/bhplus (Berita Harian, Feb 2026, "Badul" syndicate selling foreign-worker quotas to third parties, reportedly RM3,000-8,000 per application): 403 to curl; Firecrawl out of credits. Needs a teammate to save it in a browser.
+
+## For the doc writer
+
+- The draft points to Step 1 item 5 (permission letter) and "Before paying" (registered sub-agents) instead of repeating them. Step 1 item 4 "What happens in practice" and its relatives line overlap the broker paragraph; the PLKS intro "How a job reaches you" paragraph (Z0145, A0035, W0038, Z0147...) repeats this part and could shrink to a pointer.
+- The old Background paragraphs "The syndicate" and "The people named and the cases" are absorbed here in compressed form; the ACC/CID case detail (YA0027-YA0031, YA0033-YA0039) is cut to one sentence.
+
+# Background part 3 research
+
+Researched 7 Nov 2026 for `drafts/bg-3.md` ("What you pay, and what you earn and keep"). Facts YF0001-YF0047 (prefix YF). Reused: R0008, R0009, W0027, W0028, W0034, W0035, A0001, A0061, A0064, A0066, A0097, B0017, B0093, B0124, D0021, G0009, G0011, G0012, G0013, G0039, G0040, J0059, J0067, J0090, M0001, M0050, F0031, F0038, F0039, F0046, F0082, YA0002, YA0009, YA0029, YA0036, YA0066, YB0018, YD0007, YD0010, YE0018, YG0001, Z0137, Z0164, R0002.
+
+Searches (English and Bangla): Verité FFACT report; BBS Cost of Migration Survey 2020; Winrock/USAID Asia CTIP BD-MY corridor study; DOSM wages of non-citizens; Daily Star Bangla "ঋণের ফাঁদে" (Oct 2025); জমি বন্ধক / সুদে ঋণ / মহাজন / এনজিও ঋণ + মালয়েশিয়া; বেতন ওভারটাইম রিঙ্গিত; খরচের হিসাব ভিসা কেনা মেডিকেল দালাল.
+
+New sources: winrock-jdr3-bd-malaysia-corridor-2023 and winrock-jdr3-policy-brief-2023 (survey of 568 men who went legally 2015-2020, data collected Mar-May 2021; two-column PDF text, some quotes continue on interleaved lines, see facts notes); news-star-migrants-day-cost-high-pay-low-2021 and news-tbs-bbs-176-months-recoup (BBS 2020); news-dt-highest-costs-lowest-returns (Dec 2025); news-prothomaloen-hapless-workers-lose-all (Jun 2024); news-globalvoices-cost-reforms-2026-10; dosm-wages-noncitizen-csv and dosm-salaries-wages-2025 (official); news-prothomaloen-tops-labour-market (Dec 2025); news-star-distressed-in-malaysia (Mar 2024); news-melforce-96pc-debt-2024. Fetched but not used: verite-ffact-bd-my-report-2024 (Bangla PDF, text layer garbled), news-ekhon-record-remittance-grievance, news-citizensvoice-malaysia-hardship (op-ed; repeats known figures), news-24update-malaysia-wages (secondary; DOSM used directly), news-star-overseas-touts-jack-up (2016, Saudi/Qatar), verite-aslam-debt-case (form only), news-fe-extra-cost-minister-faulty (empty text).
+
+Findings and judgments:
+- Cost levels: BBS Tk 4.04 lakh (2015-18), Winrock USD 3,940 (2015-20), FFACT Tk 5.44 lakh (2022-24). BBS's Tk 25,600 monthly income and "17-18 months" recovery are all-destination averages, not Malaysia; only the Malaysia cost (Tk 4.04 lakh) and the 2.5x multiple are Malaysia-specific. Men's average recovery (over 19 months) is all-destination; used as such.
+- Prothom Alo English (Dec 2025) gives Malaysia remittance as USD 10-28 billion a year: clearly all-country totals mislabelled; not used. Bangladesh Bank figure B0093 used instead.
+- DOSM non-citizen wages are for all foreign employees in Malaysia (not Bangladeshis only) and are gross monthly salaries & wages from the establishment survey; take-home after deductions is not published.
+- Interest: only Malaysia-specific rate found is 10% a month on loans to renew permits (CPD's Mustafizur Rahman, YG0001). No 2026 source on moneylender, NGO or land-mortgage terms for the recruitment loan itself; written as Need to know. The 2016 Daily Star 30-60% interest is Qatar/ILO, not used.
+- Dhaka Tribune's 2016 cap (Tk 1.6 lakh construction, Tk 1.4 lakh agriculture, YF0023) conflicts in framing with G2G Plus's Tk 37,000 (YA0002) for the same years; left out of the draft.
+- WARBE chairman's "indebted two to three years" (YF0025) is from the ANN/Daily Star May 2024 story.
+- Overtime: "up to four hours a day" is from Prothom Alo (YF0043); the official overtime ceiling (Employment (Limitation of Overtime Work) Regulations) is not in facts (M0005 notes the Act leaves it to regulations). Not researched further; belongs in "Your rights at work".
+- For the doc writer: once part 3 is in, the old Background paragraph "What workers pay" is replaced; Step 1 "What happens in practice" and "Before paying" already point to Background and keep their own cap/PKB details.
+
+Open questions (in the draft as Need to know): monthly interest of a village moneylender or NGO loan for Malaysia in 2026 and land-mortgage terms; what the 2026 Tk 5-7 lakh চুক্তি includes and when each part is paid; plantation take-home after food in 2026.
+
+Could not download: prothomalo.com/bangladesh/urcbo2rebo (curl 000; Bangla story "মালয়েশিয়া যেতে কেউ জমি বন্ধক রেখেছেন, কেউ গরু বিক্রি করেছেন"; English version used); admin.sdg.gov.bd SDG 10.7.1 indicator page (curl 000; official recruitment cost as share of income); focusmalaysia.my (403; Melforce reprint used); verite.org English FFACT PDF (403/not linked) and its infographic flipbook (no text). Firecrawl credits were exhausted for the day, so these were not retried with Firecrawl; ask a teammate to save them in a browser.
+
+# Background part 5 research
+
+7 Nov 2026, prefix YH (YH0001-YH0023). Draft: `drafts/bg-5.md` (doc.md not edited, not committed). Firecrawl was out of credits all session; used curl (fetch.py) and WebSearch. Searches in English, Bangla and Malay: complaint breakdowns (WFW, JTK, BMET, 16135, High Commission), "বিনা খরচে মালয়েশিয়া প্রতারণা", "ভিজিট ভিসায় ... ওয়ার্ক পারমিট", "বৈধ হওয়ার সুযোগ গুজব আরটিকে ৩.০", Thailand-Cambodia smuggling route, KLIA NTL and counter setting.
+
+## Complaint shares found
+
+- No Bangladeshi-specific complaint breakdown with shares exists online. Closest: WFW app totals (NST, Mar 2024, all workers): unpaid salaries 6,393 of 34,156, salary cuts 2,895, termination without notice 2,768, minimum wage 2,424, no overtime/termination benefits 2,298, no contract 1,577 (YH0001-2); SUHAKAM 40% unpaid wages/illegal deductions (J0067). High Commission: ~450 complaints since 2022 (wages, renewal, recruitment, job disputes), types without counts (F0022). HC Jan-Jun 2026: 6,853 travel passes (1,319 to detainees) vs ~400 given labour/legal help (H0022, H0026).
+- Bangladesh side: BMET 2022-23 3,044 complaints, 693 resolved (RMMRU citing BMET annual report, YH0003); 2023: 865 of 2,380 (A0074); RMMRU 5,400-household survey: half experienced fraud (YH0004; the figure's 49/19/32 labels are ambiguous, so only the text "half" is used). Not Malaysia-specific.
+- JTKSM Annual Report 2025 (https://jtksm.mohr.gov.my/sites/default/files/2026-04/LAPORAN%20TAHUNAN%202025%20V2.pdf) may have complaint types and foreign-worker counts (search snippet: 19,001 labour cases, 11,129 complaints, 97% resolved). Could not download: curl timed out, WebFetch connection refused, Firecrawl out of credits. Needs a teammate to save it.
+- Still open (Need to know in draft): share of BMET and 16135 Malaysia complaints by type. Per the user, asking BRAC for its call logs is not an option; the question is left for insiders.
+
+## Beliefs used, with source for belief and fact
+
+1. Paid, so a job is waiting: belief YH0005 (Jugantor, workers), A0014; facts YB0016, YB0018, L0191.
+2. Tourist visa then permit: belief O0032 (CID case, Paltan agency, Oct 2026), N0024 (2023); facts V0104, S0090, N0013.
+3. Legalisation coming: belief YH0014 (RTK 3.0 rumour, Probash News Jan 2025); facts YH0015, YB0014, YG0021, L0113. Part 4 (bg-4) already covers RTK prices and fake agents, so part 5 only points to it.
+4. Student visa lets you work: S0135 vs S0012, S0013, S0039, O0019.
+5. Facebook agency list: W0021 (official).
+- Dropped: zero-cost means you pay nothing (YD0006 vs YD0008), because bg-1 already sets out the minister vs state minister conflict. Passport-holding belief dropped: bg-4 covers it fully.
+
+## Irregular routes
+
+- Cambodia-Thailand-Kelantan overland route: FE/bdnews24 via Bangkok Post, Apr 2026, Tk 7 lakh each, Chana resort (YH0009, YH0010, YH0019, YH0020); FMT Jul 2026 "Karim Gang", RM15,000, RM3.2m since Jan, Cheras, Putrajaya depot (YH0006-8, YH0021-22). Search snippets also cited Thai reports of 100,000-150,000 baht per person (2023-24, Khaosod, 403 on fetch; not used).
+- Counter setting at KLIA: The Edge, Sep 2024 (YH0011-13, YH0023). The Star Aug 2025 (two more KLIA officers, RM400,000) is saved but not logged: adds nothing new for a migrant.
+- KLIA NTL refusals: existing N0009-N0014, V0109-V0111. A search snippet cited "MCBA denies entry to over 10,000 travellers at KLIA in first half of 2025" (klia2.info) without a nationality split; not saved.
+- Conflict: RTK 2.0 end date. YB0014 (Migrant Times): ended 31 Dec 2023. YH0016 (Probash News quoting Immigration): ran 27 Jan 2023 to 30 Jun 2024. Likely registration closed end-2023 and processing ran to mid-2024. Not in the draft (it doesn't change what anyone does).
+
+## Logged but not cited in the draft
+
+- YH0017 (কলিং ভিসা used by Jugantor for the legal work visa) and YH0018 (PATI): bg-4 already explains both terms. Note bg-4 groups "calling visa" with "free visa"; Jugantor uses "calling visa" for the legal route ("বৈধভাবে কলিং ভিসায়"). Whoever merges should check the term isn't presented as only a scam.
+- YH0016: conflict row, see above.
+
+## Not saved
+
+- HRW, 26 Nov 2025 (saved as yh-hrw-rampant-abuses-2025, not registered): restates the UN experts' list with no numbers.
+- bartabazar (yh-bartabazar-rtk-closed-2026, not registered): undated, says over 1 million Bangladeshis are in Malaysia and 400 employers demand RTK 3.0; no date, so not used.
+- Khaosod 2024 and MalaysiaNow Oct 2026 "Trapped in Malaysia": 403.

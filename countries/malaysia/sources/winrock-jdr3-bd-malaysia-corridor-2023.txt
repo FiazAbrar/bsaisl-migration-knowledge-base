@@ -1,0 +1,2353 @@
+                   A Study on
+
+
+
+       The Hidden Costs of Migration:
+Evaluating the Bangladesh-Malaysia Corridor
+
+
+
+                 Submitted to:
+              Winrock International
+
+
+                    Authors:
+              Mutasim Billah Mubde
+                 Afraim Karim
+               Raha Binte Rashid
+                Mahir Faisal
+                  Sadia Karim
+                  Rafid Anjum
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+Acknowledgements
+We would like to express our special thanks and gratitude to USAID Asia CTIP and Winrock
+International who provided us with the opportunity to conduct this JDR3 research and helped us
+understand the context of migration in the Bangladesh-Malaysia corridor.
+
+We would like to extend special thanks to Kyril Sukklin, for the constant assistance and support to
+navigate through the different challenges of this project. Mr. Sukklin has provided invaluable
+assistance in coordinating communications with various stakeholders and assisted in the planning
+and logistic of the study. We would also like to thank Michaelle Tausan and Sara Piazzano for the
+valuable feedback on the research. We also want to acknowledge the efforts of Datuk Lok for
+coordinating and mediating the communication with the Ministry of Human Resources and Ministry
+of Home Affairs of Malaysia.
+
+We send our heartiest gratitude to the representatives of Ministry of Home Affairs, Government of
+Malaysia; Ministry of Human Resources, Government of Malaysia; and the Bureau of Manpower,
+Employment and Training, Government of Bangladesh who provided us with valuable information
+and discussions which led to the successful completion of the research.
+
+We also thank Dhaka University-Institute of Health Economics (IHE) for providing us with the
+Institutional Review Board (IRB) clearance certificate.
+
+We thank Winrock International, Bangladesh and Winrock International, Thailand for procuring and
+providing the research team with tablets for data collection. The logistical support has been
+incredibly helpful in conducting the research amidst constraints formed by the Covid-19 pandemic.
+
+Finally, we would like to acknowledge the invaluable support of our enumerators who provided
+tremendous and careful effort in data collection. We acknowledge the efforts of Md. Nazmul Islam
+Ovi, Anika Bushra, Tasnuva Naz, Nowshin Noor, Easha Khan, Afsana Akter, Mehedi Hasan Himel,
+Ashib-al-Galib, Rashik Bin Masud and Shafika Ferdous in data collection in Bangladesh. As for data
+collection in Malaysia, we acknowledge the efforts of Promi Jarin Tasnim, Zubayer Rahman Abir, Md
+Sariful Islam, Tasnim Rafia and Nayef Azmi.
+
+This work is supported by the USAID Asia Counter Trafficking in Persons (Asia CTIP) Program under
+[Contract no: 6794-21-ICA-02] and implemented by Winrock International.
+
+
+
+                                                                                        ii | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+Executive Summary
+Malaysia has been employing millions of Bangladeshi migrant workers since the 1980s. In 2012, the
+governments of Malaysia and Bangladesh signed a memorandum of understanding (MoU) on labor
+migration. The memorandum, known as the G2G (government to government) program, allowed
+Bangladesh to send migrant workers to Malaysia’s plantation sector. The G2G program was later
+reformed into the G2G Plus program in 2015 which expanded to include several other sectors.
+However, reports of corruption, malpractice, and exorbitant recruitment fees in the migration
+process of Bangladeshi migrants resulted in the Malaysia Government abolishing the MoU in 2018.
+
+This study examines the costs of migration for Bangladeshi workers in the Bangladesh-Malaysia
+corridor. It does so by investigating the relationship between international recruiting agencies
+(IRAs), Bureau of Manpower, Employment and Training (BMET), Bangladeshi immigration
+intermediaries, migrant workers, and other stakeholders involved in the migration process. It also
+analyzes the structural conditions of the migration corridor, identify areas of improvement for
+migrants in the migration process, and suggests policy recommendations for the new MoU between
+the two nations.1
+
+Along with literature review, data for this study were collected using a mixed-method approach. A
+quantitative survey was administered to 403 returned and 187 current male semi-skilled and
+unskilled migrant workers.2 After data cleaning and consistency checks, final analyses were
+conducted on 390 returned migrants and 179 current workers. Additionally, data was also collected
+from key informant interviews (KIIs) to collect qualitative information on the Bangladesh-Malaysia
+migration corridor. These KII participants were unsuccessful migrants, undocumented migrant
+workers, and migrant workers who legally went to Malaysia and became undocumented due to
+employer-employee conflicts. The authors also consulted the BMET and the Ministry of Expatriates’
+Overseas Employment to obtain a holistic understanding of the formal migration process.
+
+Findings show that migrant workers’ recruitment fees are around 3900 USD on average, whereas the
+G2G Plus program was designed to restrict the recruitment costs to 420 USD. Further, the average
+monthly earnings of migrant workers were found to be around 250 USD. This signifies that it takes
+
+1
+  A new G2G agreement was signed on December 9, 2021 between the governments of Bangladesh and Malaysia. At the
+time of publication, the agreement is not yet publicly available, and our findings and recommendations are based on data
+gathered between March and May of 2021
+2 Due to multiple prohibition on female migration in the Bangladesh-Malaysia migration corridor in the last decade enough
+
+female respondents could not be reached.
+
+
+
+                                                                                                           iii | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+between one and a half to two years for the migrant workers to earn and equivalent of how much
+they paid to migrate to Malaysia.
+
+Secondary desk research reveals that more than 96% of migrant workers recruitment agencies are
+located in Dhaka city, and current Bangladeshi licensing policy for IRAs restricts them from operating
+in locations other than one listed in the license. As such, IRAs have severely limited geographical
+reach to other parts of Bangladesh to enlist and recruit prospective migrant workers. To increase
+their recruitment abilities, IRAs rely on unregulated migration intermediaries, known locally as
+dalals, to enlist and recruit migrant workers from outside of Dhaka city. The unregulated presence
+of the dalals is directly linked to high and unregulated recruitment fees, smuggling, undocumented
+migrations, and trafficking. Identification of gaps in the migration process is vital for understanding
+the point of entry for these dalals and their influence in the migration market.
+
+This study shows that for 80 percent of the respondents, dalals are the first point of contact for
+potential migrant workers to the migration market, and the data suggests that information presented
+to the migrant workers by dalals are fabricated or misleading. For instance, potential migrants were
+told of expected salary in Malaysia that was much higher than their eventual compensation.
+Additionally, District Employment and Manpower Offices (DEMO), under the Bangladesh’s Bureau of
+Manpower, Employment, and Training (BMET), are found to have insufficient coverage in
+information dissemination in the outer districts of Bangladesh, thus allowing the dalals to mislead
+prospective migrant workers into paying exorbitant recruitment fees.
+
+Further, the study also investigates the living and working conditions of current migrant workers,
+almost 55% of the respondents were found to not hold visas in Malaysia. Furthermore, around 72%
+of respondents do not have access to their passports as their employers are withholding them.
+Migrant workers reported that without their passports, they face difficulty in accessing healthcare or
+banking services. Furthermore, migrant workers reported working more than 60 hours per week,
+including overtime, a violation of Malaysia’s labor law. Around 50% of the respondents reported
+facing discrimination in the workplace and roughly 25% reported facing discrimination in the social
+setting as well.
+
+Based on these findings, recommendations were formulated to concerned government agencies in
+both countries, as well as the private sector, recruiting agencies, and CSOs. For Bangladesh, policy
+recommendations include increasing cooperation with the Government of Malaysia, creation of a
+central job portal, increasing the reach of BMET and its agencies, and augmenting the capacity of
+technical training centers. For Malaysia, the recommendations suggest increasing the monitoring and
+
+                                                                                           iv | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+enforcement of existing Malaysian labor laws, reduce costs where possible for migrants, and increase
+cooperation with the Government of Bangladesh.
+
+
+
+
+                                                                                         v|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+Table of Contents
+Acknowledgements................................................................................................................................................................... 2
+Executive Summary .................................................................................................................................................................. 3
+List of Tables ................................................................................................................................................................................ 8
+List of Figures .............................................................................................................................................................................. 9
+I. Introduction ............................................................................................................................................................................. 1
+II. The Bangladesh-Malaysia Migration Corridor......................................................................................................... 3
+    II.1 The Bangladesh-Malaysia G2G Programs (2012-2018)............................................................................... 3
+III. Research Design .................................................................................................................................................................. 5
+    III.1 Research Objectives ................................................................................................................................................... 5
+    III.2 Sampling Strategy ....................................................................................................................................................... 5
+    III.3 Data Collection Instruments and Plan ................................................................................................................ 7
+    III.4 Data analysis plan ....................................................................................................................................................... 8
+    III.5 Ethical code of conduct for the study ................................................................................................................. 8
+    III.6 Limitations ..................................................................................................................................................................... 9
+IV. Conceptual Framework MBM ..................................................................................................................................... 10
+    IV.1 The Bangladesh-Malaysia Migration Process............................................................................................... 10
+         IV.1.i Recruitment of Migrants ................................................................................................................................ 12
+         IV.1.ii Information Flow ............................................................................................................................................. 15
+    IV.2 Migration Costs – Variants, Components, and Influencing Factors .................................................... 16
+         IV.2.ii Factors that Influence each Dimension .................................................................................................. 16
+V. The Labor Migration Scene............................................................................................................................................ 19
+    V.1 Spatial distribution of migrant workers and IRAs ....................................................................................... 19
+    V.2 Migration Cost, Channel, and Income in Malaysia ....................................................................................... 20
+    V.3 Financing Migration .................................................................................................................................................. 23
+    V.4 Living and Work Conditions of Migrant Workers ........................................................................................ 24
+    V.5 Migrant Vulnerability ............................................................................................................................................... 29
+VI. Information Asymmetry on Migration Costs ....................................................................................................... 33
+VII. Narrative on Migration: Perspectives of Migrant Workers .......................................................................... 36
+VIII. Policy Recommendations .......................................................................................................................................... 39
+         For Bangladesh ................................................................................................. Error! Bookmark not defined.
+         For Malaysia ....................................................................................................... Error! Bookmark not defined.
+References.................................................................................................................................................................................. 41
+Acronyms ................................................................................................................................................................................... 45
+
+                                                                                                                                                                            vi | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Glossary....................................................................................................................................................................................... 46
+Annex ........................................................................................................................................................................................... 49
+    IRB Ethical Clearance Certificate.................................................................................................................................... 1
+
+
+
+
+                                                                                                                                                                             vii | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+List of Tables
+Table 1: Stakeholders consulted, by country ................................................................................................................. 7
+Table 2: Factors of migrant vulnerabilities and some sources .......................................................................... 18
+Table 3: Regression results ........................................................................................................................................ Annex
+                                                                                                                                                                             Commented [YR1]: The table numbers are correct, but
+                                                                                                                                                                             the page numbers are off
+
+
+
+
+                                                                                                                                                     viii | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+List of Figures                                                                                                                                                                    Commented [YR2]: Same here, figure number is
+                                                                                                                                                                                   correct, but page number is off
+Figure 1: Sampling Strategy .................................................................................................................................................. 6
+Figure 2: Conceptual Framework .................................................................................................................................... 10
+Figure 3: Recruitment of migrant workers.................................................................................................................. 13
+Figure 4: Information flow to prospective migrant workers............................................................................... 15
+Figure 5: Heatmap of migrant worker distribution ................................................................................................. 19
+Figure 6: Recruiting fees (USD) ........................................................................................................................................ 20
+Figure 7: Average monthly income from migrant work ........................................................................................ 21
+Figure 8: Migrants’ first point of contact ...................................................................................................................... 21
+Figure 9: Informants of migrating to Malaysia .......................................................................................................... 22
+Figure 10: Land ownership ................................................................................................................................................ 23
+Figure 11: Sources of migration financing ................................................................................................................... 23
+Figure 12: Visa status and category ................................................................................................................................ 24
+Figure 13: Who arranged migrants’ accommodation in Malaysia..................................................................... 25
+Figure 14: Aspects where discrimination was faced ............................................................................................... 26
+Figure 15: Methods of sending remittance .................................................................................................................. 27
+Figure 16: Reason for saving ............................................................................................................................................. 28
+Figure 17: Informed about expected earnings ........................................................................................................... 29
+Figure 18: Actual earnings vs expected earnings ..................................................................................................... 29
+Figure 19: Employment contracts and language used in contract .................................................................... 30
+Figure 20: Percentage of migrants who understanding contract details .............................................................
+Figure 21: Aspects on which migrant workers had prior knowledge on ....................................................... 31
+Figure 22: Migrant work history of family members .............................................................................................. 33
+Figure 23: Whether any community member worked overseas ....................................................................... 34
+Figure 24: Difference in migration costs incurred due to different information channels .................... 35
+Figure 25: Juxtaposition of recruitment and information flow .............................................................. Annex 1
+
+
+
+
+                                                                                                                                                            ix | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+I. Introduction
+Bangladesh has a growing and abundant labor force, and overseas employment within the
+Bangladeshi labor market is a major source of employment (ADB Brief, 2016), with approximately 7
+million migrant workers from Bangladesh currently working overseas (UNDESA 2019). The GDP of
+Bangladesh is also highly dependent on remittances, only second to income from the export of ready-
+made garments (ADB Brief, 2016). Middle Eastern and Southeast Asian countries such as the United
+Arab Emirates, Malaysia, and Thailand are popular hubs for hosting Bangladeshi migrants (Shrestha,
+Mobarak, & Sharif, 2019). A formal agreement for the systematic transfer of workers has existed
+between the Malaysian and Bangladeshi government since 1992 (Abdul-Aziz, 2001). However, the
+absence of proper monitoring, severe malpractice, improper governance, and reports of
+undocumented migration, labor exploitation, and fraudulent brokers led to the latest agreement
+being abolished in 2018. The goal of this research study is to understand the Bangladesh-Malaysia
+migration corridor to contribute to the formulation of a new memorandum of understanding (MoU)
+that will reduce both financial and non-financial costs for potential migrant workers in this corridor.3
+The non-financial costs can incur in the form of psychological and social impacts, as elaborated later
+in this section.
+
+Since the abolition of the MoU, migrants can only migrate using private channels, which can include
+private recruitment agencies or middlemen, also popularly known as dalals, dealing directly with
+employers in Malaysia to supply workers without governmental supervision. These private channels
+also subject migrants to the same, if not higher, level of vulnerability and exploitation. The existence
+of multiple stakeholders in the process of migration also leads to high costs of migration brought on
+by high recruitment fees and charges by intermediaries.
+
+Migrating through private channels can cost upwards of 4,650 USD (Shrestha, Mobarak, & Sharif,
+2019). This is due to the nature of the recruitment market, where a void in information to migrant
+workers exists and is exploited by recruitment agencies (Shrestha, Mobarak, & Sharif, 2019).
+Furthermore, lack of appropriate protective policies in place and unchecked labor migration for the
+unskilled labor market of low-income groups can increase their vulnerability and make them more
+susceptible to exploitation by employers and increase their risk to smuggling and human trafficking.
+As such, legal, safe, and affordable migration policies are vital to fill gaps in the labor market and
+
+3 A new G2G agreement was signed on December 9, 2021 between the governments of Bangladesh and Malaysia. At the time of
+
+publication, the agreement is not yet publicly available, and our findings and recommendations are based on data gathered
+between March and May of 2021.
+
+
+                                                                                                            1|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+protect the vulnerable section of the labor force in Bangladesh, thus contributing to overall
+prosperity within the country.
+
+Human rights violations are not the only obstacle to ensuring safe and affordable migration. The cost
+incurred by migrants are not all financial in nature but can also be non-financial costs borne before
+departing from Bangladesh, after arriving in Malaysia and in many cases, after returning to
+Bangladesh. According to previous research on how low-income groups fund their migration costs,
+most potential migrants often either incur significant financial debt or sell and mortgage their
+household and land assets (Md, H., Ghani, A., et.al., 2020; Khan, S.A., Mahi, M., et.al., 2020; Das, N.,
+et.al., 2018; Amnesty International, 2010), creating additional psychological costs during the
+migration process.
+
+The goal of this research is to provide evidence-based recommendations for a system that reduces
+migrant workers’ vulnerability to debt bondage, forced labor, and other forms of exploitation by
+providing transparent means for Bangladeshi workers to safely migrate to Malaysia with minimal
+costs. One of the primary goals of the system should be to reduce the costs of migration for this
+vulnerable group of potential migrants by raising awareness about the legal and safe process of
+migration to protect them from exploitation and high costs charged by intermediaries.
+
+
+
+
+                                                                                             2|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+II. The Bangladesh-Malaysia Migration Corridor
+The 1980s marked the decade when Malaysia began authorizing large-scaled recruitment of foreign
+workers from neighboring nations, including Bangladesh (Nah, 2012); and Bangladeshi private
+recruitment agencies have been operating in the Bangladesh-Malaysia migration corridor ever since.
+After the Gulf Wars, the fall in base salary and the disillusionment with the Middle East redirected
+migrants’ interest towards South and Southeast Asia (Ahsan Ullah, 2009). However, high demand for
+Bangladeshi workers in Malaysia and higher interest in migrating to Malaysia, coupled with poor
+governance, resulted in undocumented migration and human trafficking. Porous borders and
+extensive waterways, both under poor monitoring, provide a geographical advantage for human
+trafficking in South and Southeast Asia (Blackburn, Taylor & Davis, 2010).
+
+Devadason & Meng (2014) report that in 1995, failing to combat the increased flow of illegal
+migrants, the Malaysian government stopped recruitment from private recruitment agencies and
+established a task force on foreign labor. The study also notes that the task force was disbanded
+within two years following the proposition of recruitment through a government to government
+(G2G) agreement, which was formalized in 2002. Ahsan Ullah (2016) reports that only 15% of
+Bangladeshi migrants in Malaysia during May to June of 2005 held work permits, with 36% holding
+tourist visas, 33% without visas, 9% without passports and 7% with study permits, demonstrating
+the extent of poor governance and malpractice. Malaysia later again banned worker recruitment from
+Bangladesh in 2008 as a result of rampant exploitative practices.
+
+In 2012, Malaysia and Bangladesh signed a new G2G memorandum of understanding (MoU) that
+allowed the governments to mediate the process and resume foreign worker migration (CGD, 2021).
+The following section examines how this agreement has evolved over the past decade.
+
+II.1 The Bangladesh-Malaysia G2G Programs (2012-2018)
+There were two G2G agreements (MoUs) between Bangladesh and Malaysia between 2012 and 2018.
+The first was the G2G program, which operated from 2012 to 2015. Only the plantation industry of
+Malaysia was under the purview of this first MoU. In 2015, the G2G Plus program followed, replacing
+the G2G program and adding seven other Malaysian industries to the migration MoU.
+
+The first G2G agreement between Malaysia and Bangladesh began pilot activities in early 2013 with
+a plan to include 30,000 workers. More than 1.4 million applicants registered nationwide, facilitated
+by the Bangladesh’s Bureau of Manpower, Employment, and Training (BMET). However, the
+government bodies could not regulate the high influx of registration because of their limited capacity.
+
+                                                                                            3|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+The program became unpopular in 2014–15, when fewer than 10,000 workers were able to access
+training and obtain a work visa. The governments had not successfully engaged with the private
+sector to ensure that everyone selected for the program would receive job placement (CGD, 2021),
+thus failing to manage the large number of migrant workers from Bangladesh.
+
+Following the unpopularity of the G2G program, in 2015 both government bodies signed a new MoU,
+known as the G2G Plus program. Under the G2G Plus program, the private sector handled recruitment
+with only 10 recruitment firms in Bangladesh managing all recruitment for Malaysia employers, with
+the government providing regulatory oversight. These 10 recruiting agencies had, and have4,
+monopoly on the migration market, resulting in increased costs for migrants. Wickramasekara
+(2016) notes that the Bangladesh Association of International Recruiting Agencies (BAIRA) was
+vehemently opposed to the G2G Plus mechanism from its inception, in which only 10 IRAs could
+operate in the corridor. The agreement was also further criticized for the lack of transparency and
+increased costs that migrants had to pay, which could reach up to 4,620 USD, compared to the 420
+USD outlined in the G2G Plus MoU (Azad, R.I., 2018).
+
+As a result of these controversies and migrant exploitation, in September 2018, the Malaysian
+government banned the recruitment of Bangladeshi workers, dissolving the G2G Plus agreement.
+
+
+
+
+4
+ According to the BMET website, migrant workers continue to migrate to Malaysia under the G2G Plus
+program, despite its abolishment by Malaysia in 2018.
+
+                                                                                           4|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+III. Research Design
+The research design of this study is formulated to identify and assess the financial and non-financial
+costs that are incurred by migrants. The design employs a mixed-methods approach of collecting
+both quantitative and qualitative data using different data collection instruments, along with
+necessary desk review. This section discusses the initial plan and how the study was adapted to
+adjust to and navigate the constraints posed by the COVID-19 pandemic.
+
+III.1 Research Objectives
+The primary objective of this research is to identify financial and non-financial costs incurred by
+migrant workers from Bangladesh to Malaysia in order to inform new policy recommendations. The
+research was designed to explore the main areas of concern through three research questions:
+
+1) What are the economic, social and psychological costs of migration? What factors contribute
+    directly and indirectly to these costs?
+2) What are the possible factors that may determine migrant workers’ vulnerability to debt
+    bondage, forced labor, undocumented migration (without the knowledge of the migrant), and
+    other types of exploitation?
+3) What role do asymmetric information and social networks play in terms of migration costs?
+
+III.2 Sampling Strategy
+In the beginning, quantitative samples were intended to be drawn from international recruitment
+agencies’ (IRAs) list of migrant workers that they have facilitated to travel to Malaysia. The contact
+information of the IRAs in Bangladesh and Malaysia were drawn from Bangladesh Association of
+International Recruiting Agencies (BAIRA) and Persatuan Agency Pembantu Rumah (PAPA) which
+are trade associations of recruiting agencies for each respective country. After the recruiting agencies
+were contacted, only two from BAIRA were willing to share a list of migrants that were sent to
+Malaysia before 2018. The majority of the IRAs informed our team that their agency has not been
+involved with sending migrants to Malaysia since the G2G Plus process was enacted, as only a group
+of 10 agencies were legally permitted to do so. Agencies listed on PAPA refused to communicate with
+data collectors as they refused to be involved in any migration facilitation from Bangladesh for the
+last 10 years.
+
+Given the lack of information obtained from recruiting agencies, we consulted one recruiting agency
+to understand the process of migration in the Bangladesh-Malaysia corridor in the last five years. The
+recruiting agency directed us to the Bangladesh Bureau of Manpower, Employment, and Training
+
+
+                                                                                             5|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+(BMET) and disclosed that a list of potential and successful migrants to Malaysia can be obtained
+from BMET.
+
+Following the consultation, a list of migrants sent to Malaysia from BMET was requested and
+obtained. The list contained 350,000 migrants who registered under BMET to migrate to Malaysia.
+Since all legal labor migration requires the authorization of BMET, the sample drawn from this list is
+representative of Bangladeshi migrant workers who legally migrated to Malaysia from 2015-2020.
+From the list, the researchers attempted to identify female migrants based on their names and were
+successful in identifying only 36 female migrants. The list was randomized and approximately 10,000
+numbers were contacted by a team of 15 enumerators over a period of approximately six weeks.
+Ultimately, 403 returned migrants and 187 current migrants in Malaysia were surveyed, resulting in
+a total respondent count of 590. The sampling design is depicted in figure 1.
+
+Figure 1: Sampling Strategy
+
+
+
+
+To conduct the key informant interviews (KIIs), personal networks of the surveyed migrants were
+examined, with the migrants’ consent, to connect data collectors to undocumented migrants. The
+group of undocumented migrants were contacted through phones. While recording the interviews,
+their names and any identifiable information were eliminated to ensure safety. The interview was
+made accessible only to the principal investigators of the study who obtained ethical clearance.
+Ultimately, 10 interviews were successfully conducted.
+
+
+                                                                                           6|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+III.3 Data Collection Instruments and Plan
+Due to COVID-19, the survey had to be conducted over the phone. The survey questionnaire was
+initially designed in English and later translated in Bangla by the team of researchers. The
+quantitative survey was then administered in Bangla with the migrants.
+
+The quantitative survey was carried out by a team of enumerators who were hired and selected
+through a competitive process. The quantitative survey was only conducted with potential and
+successful legal migrants, as the list obtained from BMET did not contain undocumented or failed
+migrants. As a result, there was not a representative sample of illegal or failed migrants for this
+quantitative survey.
+
+Data on undocumented and failed migrants was collected through KIIs which were conducted by the
+principal investigators. The interviews were designed to collect information on the migration
+experience of those who did not or could not access a legal channel of migration to inform our
+recommendations. Furthermore, consultations and short interviews were also conducted with
+government institutions in Bangladesh, which were the Bureau of Manpower, Employment, and
+Training (BMET) and one District Employment and Manpower Office (DEMO), and in Malaysia, the
+Ministry of Human Resources (MoHR) and the Ministry of Home Affairs (MoHA). Table 1 illustrates
+the stakeholders with whom consultations were conducted. The primary activities of the
+organizations are also mentioned in the table to better illustrate their relevance in the migration
+market.
+Table 1: Stakeholders consulted, by country
+
+ Country    Organization                      Primary area of activities
+            Bureau of Manpower,               Primary organization that deals with enforcing
+            Employment and                    migration policies and authorizes migration of migrant
+            Training (BMET)                   workers.
+            International Recruiting          Private organizations that enlist, train, recruit and send
+ Bangladesh
+            Agencies (IRA)                    migrant workers for foreign work.
+            District Employment and           District level offices of the BMET that enforce migration
+            Manpower Office                   policies and ensure safe recruitment of migrant
+            (DEMO)                            workers.
+            Ministry of Human                 A ministry that deals with the formulation and
+            Resources (MoHR)                  enforcement of labor policies.
+  Malaysia  Ministry of Home Affairs          A ministry which oversees the safety of migrant
+            (MoHA)                            workers in Malaysia in regard to accommodation,
+                                              workplace safety.
+
+
+
+                                                                                              7|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+                Tenaganita                  An activist organization that works on protection of
+                                            migrant workers’ rights.
+
+
+III.4 Data analysis plan
+The collected data was cleaned and only the completed observations were taken into consideration
+for analysis. From the quantitative data, we analyzed migration costs, migration decisions, migration
+processes, the various motivations for migration, demographic conditions, housing conditions,
+workplace conditions, migration financing, migration history and migrant vulnerabilities. In order to
+understand the impact of information asymmetry on migration costs, a rudimentary regression
+analysis was conducted where the null hypothesis is that variations in information channels do not
+impact migration costs, with all other things holding constant. A rudimentary regression analysis
+allows researchers to examine a number of factors at the same time and determine the effect of each
+of these factors on the dependent variable, which in this case is the cost of migration (Bales, 2007).
+In other words, regression analysis tells us the relative influence of the different information
+channels on the cost of migration. It also tells us if the variations in information channels do or do
+not affect the cost of migration.
+
+All quantitative analyses were conducted using Stata version 14. The results were exported to
+Microsoft Excel to create more visually appealing graphs and tables.
+
+III.5 Ethical code of conduct for the study
+Prior to conducting the study, the researchers obtained IRB ethical approval from the Institute of
+Health Economics at the University of Dhaka.
+
+According to the ethical guidelines followed, personal identifiable information of all respondents
+contacted through this survey has been removed from the dataset. The dataset, without any
+identifiable information, has only been made accessible to Winrock and the principal investigators
+for analysis.
+
+The enumerators were also trained by the principal investigators for two days on both the survey
+and census (where IRAs from BAIRA and PAPA were initially contracted, outlined in section III.2)
+before administering them. The training included a detailed explanation of the questions in the
+survey, guidelines on how to introduce the project, proper manners to communicate with each
+respondent and how to politely steer the conversation with the respondents in case of breakdowns
+in communication. The training also included the enumerators conducting demonstration interviews
+in front of the principal investigators, ensuring that the enumerators were well prepared before the
+
+                                                                                           8|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+survey or census was administered. The enumerators were also trained on a detailed consent note
+that was read out to each respondent, reassuring them about the security of their data and providing
+them details on why the study was being carried out and by whom. The team of enumerators was
+also provided with helpline numbers that they could share with the respondents in case they sounded
+distressed or asked for help or assistance. The training for enumerators was conducted online.
+
+III.6 Limitations
+The pandemic posed the biggest limitations to this research, introducing barriers in terms of reaching
+respondents, government organizations, or relevant organizations for further collaborative research.
+The initial sampling strategy had to be revised as field data collection could not be held. There were
+several challenges when engaging with respondents over the phone. As a result of being surveyed
+over phone, some respondents were unwilling to communicate due to the lack of trust and fear of
+scams, The study was also unable to identify a sufficient number of failed migrants over the phone,
+limiting the capacity of this study to formulate policy recommendations for that group of people.
+
+Different sets of challenges in both countries posed limitations to the study, but one common and
+major hurdle was in identification of working or active IRAs in both Malaysia and Bangladesh. BAIRA
+for Bangladesh and PAPA for Malaysia both have an outdated list of IRAs with phone numbers last
+updated five to six years prior to the study. This posed an obstacle in connecting to the IRAs that are
+currently in business and as a result, limiting the ability to obtain a sample of migrants that is
+representative of both genders. Moreover, the IRAs that were still active in both Malaysia and
+Bangladesh showed very little willingness to communicate or share any information for the
+Bangladesh-Malaysia corridor, as many claimed this has mostly led to a loss since the MoU was
+abolished.
+
+Despite these limitations, the team has attempted to reach out to as many stakeholders as possible
+and obtain further necessary information through means of extensive desk research.
+
+
+
+
+                                                                                            9|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+IV. Conceptual Framework MBM
+This section details the conceptual framework of the migration processes in the Bangladesh-Malaysia
+corridor, the interlinkages between the various stakeholders in the migration market, and the
+process of scouting and recruiting.5 This section also outlines the information asymmetry in the
+migration channels and the process of information transfer to prospective and repeated migrant
+workers.
+
+IV.1 The Bangladesh-Malaysia Migration Process
+The following conceptual framework outlines the different stakeholders and their relationships. It
+also illustrates the points and factors that contribute to costs for migrants– both direct and indirect.
+The asymmetry of information between migration intermediaries and prospective migrants directly
+influences the migration cost. As such, a detailed breakdown of current avenues in the migration
+process will inform analysis and allow for formulation of strategies and policies towards a more
+Figure 2: Conceptual Framework
+
+
+
+
+5 The conceptual framework outlines the more legal migration processes in use currently. Undocumented
+
+migration channels are numerous and cannot be effectively outlined and categorized in this figure for analyses.
+
+                                                                                                 10 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+transparent and accessible migration mechanism. Figure 2 illustrates an overview of points of
+interest, factors, and mechanisms compiled from multiple literature that are discussed in the next
+paragraphs.
+
+The most common factors that motivate international migration in the low-skilled labor markets are
+termed as the “push and pull” factors, i.e., factors that pull laborers to the international labor market
+and factors that push laborers out of the local labor market. The well-established factors include
+income differentials across different countries (Simpson, 2017). We hypothesize in our study that
+these income differentials are driven by perception rather than guaranteed increases in wages for
+low-skilled labor migrants. As discussed in further detail later in this review, migrants with lower
+educational qualifications, less access to information, or no network base can easily be misinformed
+about the wage structure and mislead to migrate internationally. This is also established by Simpson
+(2017) in his study, as he describes that decision to migrate serves as a form of insurance for
+households through remit earnings from abroad. Remittance as the source of income also increases
+the social status of families within their communities, and the desire for a higher social status serves
+as a pull factor.
+
+Past literature has also established the role of a strong network base in motivating international
+migration (Dolfin & Genicot, 2010; McKenzie & Rapport, 2010; Malit Jr. & Naufal, 2016; Simpson
+2017). Migrants who have existing networks either in the host or origin country are motivated to
+migrate usually by the people in these networks, or by their communities or families (McKenzie &
+Rapport, 2010; Mahmud, 2020).
+
+The Bangladeshi migratory workforce comprises two categories of migrants: (1) repeated migrants
+(migrants who have a previous experience of successful migration), and (2) first-time migrants
+(migrants who have no experience of successful migration). The categorization of the migratory
+workforce into two distinct groups is necessary due to differences in behavior, social migration
+network and access to information. As such, each group is disproportionately influenced by the
+various push and pull factors.
+
+From consultations and discussions with recruiting agencies and relevant government agencies, the
+study finds that three avenues of migration exist in the Bangladesh-Malaysia corridor, with varying
+degrees of interlinkages between the stakeholders.
+
+•   Through government agencies, migrants proactively enroll with sub-government agencies to
+    start the migration process. They go through training centers and recruiting agencies to seek
+
+
+                                                                                            11 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+    work. After which, recruiting agencies assist them with passport issuance and other necessary
+    services before connecting them with travel agencies to locate housing and arrange travel.6 The
+    last steps are the visa issuance from the embassy and travel.
+•   Through private agencies,7 Initial contact is typically established by agents who scout and
+    recruit potential migrants. While the rest of the process remains the same as the G2G process,
+    multiple intermediaries enter the process at various stages. A longer migration process and
+    increased number of stakeholder participation result in higher costs compared to the G2G
+    process.
+•   In the undocumented process, potential migrants are scouted and recruited by agents.
+    Potential migrants are provided with fraudulent documents and visas. This process holds the
+    largest share of migration failure.
+
+For legal migration process through private agencies, the costs of migration change with both
+workers demand (in Malaysia) and supply (in Bangladesh). Conversely, in the G2G process the labor
+demand is market-determined but the corresponding supply is inflexible as MoUs between the two
+governments limit and control migration. Further, in undocumented migration process, migrants
+may be given non-work permit visas (such as student visas, tourist visas, etc.) or misclassified work
+permit visas (highlighted in light red block in Figure 2), with varying degrees of migration success.
+
+IV.1.i Recruitment of Migrants
+There is a symbiotic relationship between migration intermediaries, sometimes referred to as dalals,
+and the IRAs in Bangladesh. Approximately 96% of all IRAs are located in Dhaka city and 3% in
+Chittagong city. None of the IRAs in these two cities reportedly have any offices or contact points in
+the other 62 districts. Hence, the scouting and initial enrollment of majority of the prospective
+migrants fall upon (1) the IRA representatives, who are selected dalals working under the IRAs,
+(despite dalals being illegal to operate in this migration market,); (2) free agents (dalals)8, who have
+no organizational ties with IRAs and often lead prospective migrants towards undocumented
+migration route; or (3) Technical Training Centers (TTC)/District Employment and Manpower
+
+
+
+
+6 Passport issuance is only applicable for first-time migrants if they do not hold a passport already. Passport
+
+renewal, obtaining police clearance certificates, obtaining travel authorization from the Ministry of Home
+Affairs and other public services are common to both repeated and first-time migrants.
+7 Only legal migration is considered under private agency route. Any undocumented migration, whether they
+
+originate from private agencies, G2G mandate, or other means are delegated to the third category.
+8 For the rest of the report, this category of ‘dalals’ will be termed as ‘free agents’ to differentiate them from the
+
+IRA representatives who are also dalals and often work interchangeably.
+
+                                                                                                        12 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Offices (DEMO), that are financed and operated under Bureau of Manpower, Employment and
+Training (BMET). The recruitment process is iterated in Figure 3.
+
+Figure 3: Recruitment of migrant workers
+
+
+
+
+                                Free Agents
+                                  (Dalals)
+
+
+
+
+                                                                                                Migrant Workforce
+                                                        Non-G2G IRAs
+
+
+
+
+                                                                                  BMET
+     Prospective                   IRA                     G2G IRAs
+       Migrant                Representatives
+      Workers
+
+
+
+                                TTC/DEMO
+
+In Figure 3, the blue arrows indicate the channels through which prospective migrants are recruited,                Commented [YR3]: Please feel free to play with the
+                                                                                                                    arrows and colors. I do think that this figure is overly
+the red arrows indicate undocumented migration, the green arrows indicate legal migration and                       complicated.
+orange arrows indicate a possible flow of migrants. The red circles indicate points of exploitation,
+misinformation flow, and rent extraction, and orange circles indicate potential points where the same
+may be observed.
+
+Although the G2G program was abolished in 2018, the 10 IRAs that were selected for the G2G
+program (G2G IRAs) still hold market power and are sending the majority of Bangladeshi migrant
+workers to Malaysia. Various IRAs consulted for this research reported that that were not selected
+for the G2G program and that they cannot bypass this coalition and send migrant workers to
+Malaysia. Eventually, the practice became that IRAs that were not selected under the G2G program
+send prospective migrants to the G2G IRAs if the prospective migrants wish to migrate to Malaysia.
+Hence, this addition of a middleman in the process has increases the migration costs as non-G2G IRAs
+often charge a commission to transfer the migrant to G2G IRAs.
+
+
+
+
+                                                                                         13 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Keeping the relationship between the G2G and non-G2G IRAs in consideration, the prospective
+migrants may be enrolled through TTC/DEMO which guide them to the selected IRAs under the G2G
+program. The prospective migrants can also be scouted by the IRA representatives, who may then
+forward them to G2G IRAs or non-G2G IRAs. Prospective migrant workers can also directly approach
+the IRAs and be recruited for migrant work. However, if they directly approach a non-G2G IRA, they
+may be charged a commission to be referred to the G2G IRAs.
+
+Afterwards, the only legal way of migrating is through BMET, where the migrant workers must make
+BMET smart cards, which holds the biometric and identification information of the migrant workers,
+without which the migrant workers cannot cross immigration check posts. However, bypassing this,
+many migrant workers may migrate through undocumented processes to Malaysia through
+dangerous routes. Overall, there is a direct relationship between the length of the process of
+recruitment and migration costs where longer process leads to higher costs.
+
+
+
+
+                                                                                      14 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+IV.1.ii Information Flow
+Figure 4: Information flow to prospective migrant workers
+
+    Returned                                        Intermediaries
+    Migrants                                            (Dalals)
+
+
+
+
+     Family                                                                   IRAs (Non-
+                                                                                G2G)
+
+
+      Friends/
+
+                                                                                                   BMET
+     Relatives/               Prospective                IRA                 IRAs (G2G)
+    Community                   Migrant             Representative
+  (within country)             Workers                    s
+
+      Friends/
+     Relatives/
+    Community                                         TTC/DEMO
+ (outside country)
+
+
+
+
+                              Migration
+                             Campaigns &
+                              Advocacy
+
+Figure 49 outlines the information flow in the migration market, where the four vertically aligned
+boxes on the left represent the social migratory network10 that may be accessible to the prospective
+migrants. Other sources of information are free agents or IRA representatives, IRAs and BMET,
+including TTC and DEMO. It is to be noted that the information flow from BMET and its subsidiaries
+are mostly through above-the-line advocacy campaigns via newspapers, television, and radio
+commercials.
+
+Given that prospective migrants receive information on migration from multiple non-official sources,
+the validity and reliability of these information are of paramount concern. If potential migrants
+
+
+9 Figure 3 shows the recruitment structure of prospective migrants and Figure 4 demonstrates information
+
+flow to prospective migrants. These two figures are juxtaposed for a comprehensive overview of migration
+recruitment in Bangladesh in figure 39, presented in annex A1.
+10 Social migratory network includes current or returned migrant workers accessible to the prospective
+
+migrant workers, family members, friends, relatives, community members within and outside the country.
+
+                                                                                           15 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+receive information on migration costs from current or returned migrants who themselves paid
+exorbitant cost for migration through dalals, it may lead the potential migrants to believe that this is
+the only channel in which they can migrate and that the high cost is to be expected.
+
+IV.2 Migration Costs – Variants, Components, and Influencing Factors
+IV.2.i.a Recruitment Costs and Financing the Costs of Migration
+One of the research objectives is to estimate the financial and non-financial costs incurred by
+migrants in the Bangladesh-Malaysia migration corridor and this study hypothesizes that high
+migration costs are due to the lack of transparency in the migration process and information
+asymmetry between immigration intermediaries and migrants. Further, although numerous studies
+investigated the financial costs incurred by low-skilled migrant workers throughout the process of
+migration across different channels, little attention has been devoted to other aspects of migration
+costs such as social and psychological costs.
+
+Further, according to IOM (2017), low-skilled migrants pay over 1,000 USD and incur high debts
+during the process of migration to only earn in hundreds of USD once they reach their destination
+country, resulting in a debt burden for an elongated period. KNOMAD (2014) substantiates this claim
+in a survey on migration costs of low-skilled migrants, which report migrants incur migration costs
+equivalent to two- or three-years’ worth of income at the destination country.
+
+One of the most common sources of funds for migration are household assets (Kikkawa, A & Otsuka,
+K., 2020). The debt burdens coupled with relatively low returns on their migration investment are
+expected to have a psychological impact on the migrants as these financial pressure transfers into
+psychological stress.
+
+IV.2.i.b Psychosocial Aspect of Migration Financing and Migration Procedure
+As established above, low-skilled migrants are exploited with high costs by migration middlemen,
+recruiting agencies, and moneylenders. After reaching their destination country, migrants are also
+subjected to various forms of exploitation (Barkat et.al. 2014). Living and working conditions abroad
+may also add stress. The treatment of migrants by employers and local residents may also further
+induce discomfort.
+
+IV.2.ii Factors that Influence each Dimension
+The costs borne by migrants depend on multiple factors as identified by a study from the University
+of Malaya and BRAC University (Khan et al., 2020). The factors include: (a) skill level of potential
+migrants; (b) the sector of employment for the migrant; (c) immigration status of migrant, i.e.,
+
+                                                                                           16 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+documented, undocumented, or another visa; (d) travel routes taken for migration to Malaysia; (e)
+IRAs used (G2G or non-G2G); (f) funding sources; (g) gender; and (h) recuperation and social costs
+incurred by migrants. Additionally, multiple studies established that both psychological and financial
+costs of migration tend to be lower for individuals with higher educational qualifications, as they can
+navigate through the process of migration more easily compared to individuals with lower
+educational qualifications (Dolfin & Genicot, 2010; McKenzie & Rapport, 2010; Malit & Naufal, 2016;
+Kikkawa & Otsuka, 2020).
+
+IV.2.ii.a Network Effects and Information Asymmetry
+The benefits of having a network base have been established by many studies on migration costs. The
+existence of migration networks not only reduce financial costs by reducing financial limitations, but
+it also decreases migrants’ risks by providing information on safe avenues of migration, i.e.,
+mechanisms to avoid smugglers or fraudulent subagents and other crucial information on housing
+and the job market in the destination country (Massey, 1988; Orrenius, 1999; Orrenius & Zavodny,
+2005; Dolfin & Genicot, 2010). Another major role of networks is to bypass the information
+asymmetry that arises at multiple points during the migration process. Information flows and market
+uncertainties arise mainly between five key stakeholders: labor-receiving governments, labor-
+sending governments, recruitment agencies, sponsors (employers), and social networks. Several
+factors contribute to asymmetric information and create market vulnerabilities for workers. (Malit
+Jr. & Naufal, 2016).
+
+Although most studies have found the presence of a network base to be beneficial in the migration
+market, Nowotni & Pennerstorfer (2017) found plausible negative network effects. Social capital
+growth in the destination country is an important determining factor of migration11, where network
+and social capital increases incrementally with each new migrant (Haug, 2008). These increments, in
+turn, reinforce the prevalent migration narrative dispersed by the diaspora networks to prospective
+migrants. These narratives might include false promises such as a better life and earning, or
+exaggerated improvements in social hierarchy, status, or income. As such, we argue, trafficking and
+exploitation become easier if diaspora networks facilitate the spread of misinformation. Lastly, herd
+behavior is another network factor that increase the vulnerability among migrant workers (Epstein,
+2008). The author illustrated a phenomenon where prospective migrant workers identify a
+
+
+
+11 Subjective expected net utility of migration exceeding the expected net utility of remaining in source country
+
+determines the migration decisions (Haug, 2008). This subjective expected net utility is reinforced by the social
+ties and migration network available at the destination country.
+
+                                                                                                   17 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+destination country based on the amount of people from their community who had had migrated to
+that country.
+
+IV.2.ii.b Migrant Vulnerability
+A multitude of factors contributes to migrants’ vulnerability during and after the process of
+migration. Currently, there is no established quantitative measure for estimating the level of
+vulnerability of these migrants, our study aims to establish an index of relative, estimated levels of
+vulnerability of migrants based on various factors, which is discussed in detail in section V.5.
+
+An IOM’s document titled The Determinants of Migrant Vulnerability outlines the various sources of
+migrant vulnerability and categorizes them into 4 groups of factors: the individual, the household
+and family, the community, and the structural factors. A non-exhaustive list of the sources of
+vulnerability that is relevant to this research is extracted from the IOM document and provided in
+Table 2.
+
+Table 2: Factors of migrant vulnerabilities and some sources
+
+ Categories                                           Examples of sources
+ Individual factors               Age, sex, racial and/or ethnic identity, sexual orientation, etc.
+ Household and                Household size, family structure, socioeconomic status, migration
+ family factors                      histories, employment condition, education levels, etc.
+ Community factors        Access to healthcare, access to resources, access to livelihood and income-
+                                                  generating opportunities, etc.
+ Structural factors        Histories of colonization, conflicts, political systems, migration policies
+                                                       and governance, etc.
+
+
+IOM, however, posits that these factors can be both risk or protective factors that may increase or
+decrease migrant vulnerability respectively, dependent upon context. Structural factors also include,
+beyond those listed in Table 4, the process of migration itself and the various channels available for
+migration.
+
+
+
+
+                                                                                              18 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+V. The Labor Migration Scene
+After data cleaning, the final sample size was 560, of which 381 were returned migrants and 179 are
+current migrants. Returned migrants are those who worked in Malaysia from 2015-2020 and have
+returned to Bangladesh, whereas current migrants are those who are currently working in Malaysia.
+The analyses congruent to the discussions of the objectives of the research are presented in this
+section.
+
+V.1 Spatial distribution of migrant workers and IRAs
+The geographical spread of the migrant workers, as per BMET’s database of almost 300,000 workers,
+is presented in Figure 5. The majority of migrant workers come from outside Dhaka City, however,
+96 percent of all IRAs, approximately Figure 5: map of migrant worker distribution
+2,000 agencies, are located in Dhaka.
+The heavy concentration of IRAs is
+due to a policy of non-transference of
+manpower licenses. As the result,
+IRAs are not able to set up branches in
+other districts across Bangladesh; nor
+can they operate at a separate
+location in Dhaka.
+
+As the result, IRAs rely on free agents,
+representatives, and dalals, each of
+whom       can   be   associated     with
+multiple IRAs at once, to extend their
+geographical     reach   and       recruit
+potential migrant workers.
+
+
+
+
+                                                                                       19 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+V.2 Migration Cost, Channel, and Income in Malaysia
+The average migration fees of migrants for returned and current migrants are presented in Figure 6
+in US Dollars (USD).12 The average recruitment fees was found to be approximately 3,900 USD.
+Current migrants reported incurring lower recruitment fees when compared to their returned
+counterparts. This may be because Figure 6: Recruiting fees (USD)
+recruitment fees were higher for the
+latter group, or misreporting due to recall                       Recruiting fee (USD)
+                                                       4500
+bias, or false reporting due to a fear of
+                                                       4000
+deportation and other consequences for                 3500
+                                                       3000
+those currently in Malaysia. These
+                                                       2500
+reasonings on recruitment fees disparity         USD   2000
+for the two groups are also substantiated              1500
+                                                       1000
+from our consultation sessions with                     500
+BMET and GoM, as well as data collected                   0
+                                                                 Returned          Current             All
+from KIIs where they reported that                                               Migrant type
+migrant workers prefer not to disclose                    Recruiting fees paid        Recruiting fee as per G2G
+the true extent of hardships or fees
+during their time in Malaysia to avoid unwarranted attention or interest which might potentially
+hamper their employment prospects. All data presented in this report must be considered with this
+phenomenon involved as current migrants are cognizant of threats (or perceived threats) to their
+contract, employment, or their stay in Malaysia. Although current migrants on average reported
+incurring lower migration costs, the discrepancy is approximately 500 USD. Considering that the G2G
+Plus MoU was designed with the primary objective of binding the recruitment fees to USD 420, the
+current cost is roughly 9 times higher than the agreement amount.
+
+Further, if migration is considered as an investment where migration cost is the investment value,
+then migrants’ monthly earnings can be examined to understand the returns on the investment.
+Figure 7 presents the average income per month in USD and shows that current migrants receive
+higher wages when compared to returned migrants. Current migrants report higher average
+earnings per month at approximately 286 USD. At this income level, it would take, on average, at least
+12-13 months to meet their recruitment expense with their income. This calculation is misleading as
+
+
+
+
+12 The following exchange rates were considered to derive USD values: 1 USD = 83.33 BDT.
+
+
+                                                                                                     20 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+it does not consider the migrant workers’ expenses in Malaysia. In fact, our data shows that more
+than 40% of migrants’ monthly income is Figure 7: Average monthly income from migrant work
+spent on accommodation, commute, food,
+                                                                       Average monthly income
+and            other    necessary    living    expenses.
+                                                                 350
+Factoring this expense in, it would take                         300
+migrant workers 21-22 months on average                          250
+
+to meet their recruitment costs through                          200
+                                                           USD   150
+remittance earnings, assuming the amount
+                                                                 100
+they save is sent back as remittance.                            50
+                                                                  0
+Figure 8 reports on the first migration point                           Returned      Current        All
+of contact for the migrant workers. For
+
+Figure 8: Migrants’ first point of contact                        returned migrants, more than 80% were first
+                                                                  connected to a dalal, who then transferred
+                       First point of contact
+                                                                  them to IRAs, after which they went through
+               90
+               80                                                 the established legal process.
+               70
+               60                                                 As previously discussed in the conceptual
+
+  Percentage
+               50
+               40                                                 framework section, we argue that recruitment
+               30                                                 fees increase with each level of middlemen
+               20
+               10                                                 involved in the migration process. As dalals
+                0
+                                                                  were the connectors for these individuals in
+                       Returned      Current         All
+                                                                  the migration process, their services incurred
+                            Dalal   G2G   Private
+                                                                  costs. Further, the amount charged by the
+dalals are not recorded by IRAs and as such more investigation is needed to understand the costs of
+these migration middlemen’s services. Another finding of note is the number of people who were
+connected to a private IRA first, and not the G2G Plus IRAs. As only 10 IRAs can send migrants under
+the G2G Plus agreement, those who were connected with private IRAs in the beginning must have
+also been referred to the 10 G2G Plus IRAs. Our data also indicates that respondents who have
+migrated to Malaysia multiple times also employed the services of private IRAs in their later journeys.
+This is because migrants do not know what they were paying for as evidenced in our result. The
+survey instruments included questions to capture the disaggregated migration expenses in terms of
+service and almost no respondent was able to provide meaningful breakdown of expenses, indicating
+that they did not know what they were paying for (whether it be visa or passport or BMET smart
+card), or for whom they were paying for (dalals, IRAs, private IRAs, travel agency, etc.), and what the
+
+                                                                                                    21 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+general expenses are for these services. For example, passport issuance or renewal costs
+approximately BDT 3,000, but one respondent reported that it cost him BDT 50,000 to get his
+passport issued. Until 2018, dalals in passport offices were very common, which would often add to
+these expenses. Although government efforts have been able to eradicate dalals from passport
+services, other areas such as the recruitment of migrant workers have not seen such improvement
+(Shibli, 2020; Chowdhury, 2021).
+
+To understand the information flow to the migrant workers, we asked them to identify how they
+received information regarding migration to Malaysia, which is reported in Figure 9. The
+
+Figure 9: Informants of migrating to Malaysia                   respondents from all categories can be seen
+                                                                to rely heavily on social networks, which
+                      Migration informants                      includes    family     members,       friends,
+               90
+                                                                neighbors, returned migrants in the same
+               80
+               70                                               village and community and relatives from
+               60
+                                                                both within and outside the source country.
+
+  Percentage
+               50
+               40                                               The lowest contributing information source
+               30                                               is   the   BMET      above-the-line    (ATL)
+               20
+               10
+                                                                marketing and advocacy. Further, key
+               0                                                informants interviewed reported that they
+                     Social   BMET ATL        IRAs      Dalal
+                    network   Marketing                         do not have access to television, radio or
+
+                        Returned    Current     Total           other communication devices. We also
+                                                                argue that ATL marketing may not be the
+most effective method of migration information dissemination as low-skilled workers represent a
+group with limited literacy. As such, potential migrants rely heavily on first-hand information
+received from either their social migratory network or free agents, dalals, and IRA representatives.
+
+
+
+
+                                                                                                22 | P a g e
+ Hidden Costs of Migration: BD-MY Corridor
+
+
+ V.3 Financing Migration
+ With high and recursive recruitment fees, Figure 11: Land ownership
+ we examined how migrants financed their
+                                                                                               Land ownership
+ migration.          First,      landownership            is
+                                                                               70
+ considered, where land is divided into
+                                                                               60
+ agricultural        and      non-agricultural      land.                      50
+
+
+
+                                                                  Percentage
+ Figure 10 reports land ownership across                                       40
+ migrant groups. More than 50% of migrant                                      30
+
+ workers, across all categories, are observed                                  20
+
+ to     own      both      agricultural       and   non-                       10
+                                                                               0
+ agricultural land. This implies that these
+                                                                                     Both agri & Only agri   Only non-    No land
+ respondents have a higher asset valuation                                          non-agri land land       agri land
+
+ compared to the other migrants. We                                                        Returned    Current   Total
+
+ conclude that land-owning Bangladeshi
+ thus become a target for exploitation because of the property asset they hold. 25% of respondents
+ from each category that has no land ownership are more likely to apply for loans from various
+ sources to finance their migration costs increasing migrants’ risks to debt bondage, as the next
+ section shows.
+Figure 10: Sources of migration financing
+
+
+      Selling Land or productive assets
+
+                     Loan from family
+
+                        Savings/Dowry
+
+                              Mortgage
+
+                              Bank loan
+
+ Loan from migration intermediaries
+
+                                          0          10                    20              30           40          50              60
+                                                                                       Percentages
+
+                                                    Total      Current              Returned
+
+ Figure 11 presents the source of migration financing. The broad categories of interest are loans,
+ savings, land sales, mortgage, and dowry. Loans from family, land sales, and savings occupy almost
+
+
+
+                                                                                                                         23 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+equal proportion in migration financing. We also find bank loans to constitute a relatively small
+source of migration financing.
+
+However, in the case of repeated migrants, the majority reported land sales as the primary funding
+source. This may be because they had previously used their savings or loans from the family in the
+prior migrations. As multiple funding sources were allowed, repeated migrants may have diversified
+their funding sources. Selling off assets, such as land or productive assets, is riskier than borrowing
+or using savings. In the case of a migration failure, the loss incurred in capital assets outweighs losses
+in liquid assets. This risk weighs into the migrants’ vulnerability and into the mental health of the
+migrant workers while they are in Malaysia.
+
+V.4 Living and Work Conditions of Migrant Workers
+Conditions of the migrant workers in Malaysia are also important in the discourse of migration and
+its costs as it illustrates the standard of living they receive in exchange for the exorbitant migration
+costs.     All      results Figure 12: Visa status and category
+reported         in    this
+                                                                1.68%     2.23%
+subsection are based
+on data collected from
+current migrants only.
+                                                            33.52%
+Figure 12 presents the
+distribution of the visa                                                      54.75%
+
+conditions of migrant
+workers. More than                                      7.82%
+
+half     report        not
+                                   Unaware of visa status     No visa                  Unaware of visa category
+currently holding any
+                                   Work visa                  Non-work visa
+visa, effectively being
+in undocumented status in Malaysia. A little over 34% hold work visas and less than two percent hold
+non-work visas, such as tourist and student visas. Around 10% are unaware of either their visa status
+or their visa category. When respondents were asked why they did not renew their work visas or try
+to get the correct category of visas, almost all reported fear of deportation and high prices. More
+importantly, over 72% of all current migrants reported that their passports were with their employer
+and they do not have access to it. Withholding of passports and other identifying documents is a
+major hindrance to migrant workers as this limits their ability to access essential services. More than
+
+
+
+
+                                                                                                      24 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+40% of respondents reported facing trouble accessing healthcare, and more than 30% reported
+facing difficulties in accessing financial services.
+
+Next, we investigate the working conditions of migrant workers. We found, across all categories,
+migrant workers work longer than 10 hours every day, resulting in more than 60 hours per week.
+Current migrant workers reported giving 12 more labor hours per week on average, when compared
+to returned migrants. This may be due to the introduction of overtime with pay, which was less
+common for those who returned. Around 40% of current migrants report not having to do overtime,
+while 50% report doing paid overtime work. Around 10% of current migrants reported doing unpaid
+overtime work, which may be because they are unaware to the fact that overtimes are legally
+required in Malaysia. Around 33% of current migrant workers also reported not having paid or sick
+leaves.
+
+Next, we investigate the accommodation conditions of current migrant workers. Figure 13 reports
+on how current migrant workers arranged their accommodation. While 47% reported having their
+accommodation arranged by employers, around 21% reported seeking accommodation themselves,
+and almost 18% relied on the IRAs for arranging accommodation. According to Worker’s Minimum
+Standards of Housing and Amenities Act, 1966 (amended in 1990 and 2019), it is the employer’s
+responsibility to find and arrange accommodation for migrant workers.
+
+Figure 13: Who arranged migrants’ accommodation in Malaysia
+
+                                                       1%
+
+                                              13%
+                                                                  21%
+
+
+
+                                     18%
+
+
+
+
+                                                            47%
+
+
+
+
+          Other     Personally   Employer     Recruiting/Manpower Agency   Other Bangladeshi Migrants
+
+
+
+
+                                                                                               25 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+First-time current migrant workers reported sharing a room with five others on average and
+repeated current migrants reported sharing the room with seven others on average. Thus, our data
+shows that bunk beds and cramped living space are a very common scenarios in migrants’
+accommodation, which may put them at increased health risks from communicable diseases.
+
+We then investigated the social life of the migrant workers and asked whether they were subject to
+any form of discrimination or abuse. We define discrimination as unequal treatment faced under the
+categorization of gender, race, Figure 14: Aspects where discrimination was faced
+ethnicity, or nationality in the
+workplace,            social,      and
+                                                                       8% 4%
+interpersonal settings, which is a
+                                                                13%
+slightly modified version of the
+definition stated by Shen & Dhanani
+(2015). 29% of current migrants                                                         48%
+                                                            25%
+reported     facing     discrimination.
+Figure 14 presents the areas where
+the migrant workers have received                                      2%
+discrimination from. Almost 50% of
+                                                  Other               workplace         Living space
+those current migrants that faced                 Social life         Health services   Legal services
+discrimination reported facing it at
+the workplace. Among those facing discrimination in the workplace, 54% reported receiving it from
+the employers and 23% reported receiving it from upper management. The second area examined
+was in the migrant workers’ social life, where 20% of first-time migrants and 35% of repeated
+migrants reported facing discrimination. Among those who face discrimination in social life, 60%
+reported facing it from the local residents, 20% reported facing it from law enforcement authorities,
+and 10% from non-Bangladeshi migrants.
+
+
+
+
+                                                                                                       26 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Figure 15: Methods of sending remittance                                       Lastly, we investigated the
+                                                                             financial aspect of migrant
+                                                                             workers in Malaysia. In terms
+                             13.06%                                          of remittance, around 85% of
+                                                                             respondents reported sending
+                        13.06%             47.75%
+                                                                             remittance. However, more
+                        9.46%
+                                                                             than 16% of current migrants
+                             16.67%
+                                                                             reported using hundi13 to send
+                                                                             money home, as seen in Figure
+     Through bank    Hundi    Friend/Relative   Western Union   Others       15. Usage of hundi channels
+                                                                             deprives both source and
+destination country governments of accurately estimating transaction flows and valuation. Extra
+charges are required to send money through hundi channels that results in a significant portion of
+the migrants’ money being lost as transaction fees. While hundis present an opportunity for migrants’
+exploitation, migrants employ them because of two factors: (1) Our data indicates that for over 72%
+of respondents, identifying documents such as migrants’ passports are seized or withheld by
+employers which restricts their ability to access banking services and (2) banking channels are more
+rigorous and regulated and requires knowledge of one of Malaysia’s languages to effectively navigate.
+
+
+
+
+13 Hundi refers to international money transfer that either bypass formal banking channels or money transfer
+
+that takes place through a third party for an additional fee. The latter form of hundi encompasses both physical
+transfer of money from one to another using middlemen, and also bank transfer where the bank account holder
+provides this service for an additional fee.
+
+                                                                                                  27 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Figure 16: Reason for saving
+
+                                                     5.48%
+
+                                                             11.42%
+
+
+                                            26.03%
+                                                                      22.83%
+
+
+
+
+                                                      34.25%
+
+
+
+
+          Repay loans taken for migration       Repay other loans     Start a business   Buy land   Marry
+
+
+
+
+Further, approximately 45% of current migrant workers reported saving up in Malaysia. Figure 16
+reports the reasons for saving. Across categories, starting a business at the source country is the
+primary reason cited for saving. The proportion is higher for repeated migrants as they might be
+more inclined to not opt for migratory work again. The secondary reason cited is to buy land. This is
+linked to migration financing as land sales are reported as the biggest source of migration costs.
+Around 12% of first-time migrants and 30% of repeated migrants reported saving to repay the loans
+taken to finance migration. Additionally, around 30% reported saving to pay off other loans; about
+5% also reported saving to finance their future marriage.
+
+
+
+
+                                                                                                     28 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+V.5 Migrant Vulnerability
+This section will focus on the discussion of vulnerabilities that arise for migrants in the Bangladesh-
+Malaysia migration corridor.
+
+The first source of vulnerability we identified is Figure 17: Informed about expected earnings
+whether the prospective migrants were informed of
+any expected earnings or not. Figure 17 reports the
+distribution of those who were informed of expected                     22%
+earnings and those who weren’t. Information on
+expected earnings may increase migrants’ risk of
+exploitation by increasing their willingness to pay a
+higher cost to migrate.
+                                                                                          78%
+
+From the results reported in the figure 17, 78% of
+surveyed migrants reported being informed of
+expected earnings. All migrants who received                        Informed of expected earnings
+                                                                    Not informed of expected earnings
+information on expected earnings received them
+from dalals and IRAs, both G2G and non-G2G.
+
+Figure 18 presents the value of informed expected earnings juxtaposed with the actual income
+received after migrating to Malaysia. We find Figure 18: Actual earnings vs expected earnings
+that in all categories of migrant workers, the           450
+informed expected earning was larger than                400
+                                                         350
+their actual income when in Malaysia. Another
+                                                         300
+pattern captured in the data is the difference           250
+between expected and actual income is larger       USD   200
+                                                         150
+for first-time migrants relative to those of
+                                                         100
+repeated    migrants,     meaning     repeated
+                                                         50
+migrants gain a better idea of job prospects              0
+                                                                Returned        Current             All
+and income levels in Malaysia because, most
+                                                           Average monthly income     Expected earning
+likely, their past experiences in Malaysia had
+informed their income expectations.
+
+The second source of migrant vulnerability is the employment contract and the associated details.
+The language of the employment contracts is also of importance as the majority of the respondents
+have limited literacy and cannot understand languages other than Bangla. Figure 19 reports whether
+
+                                                                                                29 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+employment contracts were provided to migrants or not, and which language it was it written in. We
+find that more than 50% of migrants were not offered an employment contract before migration. Few
+did not know the language of the contracts and some reported receiving it in English, which is slightly
+more than those receiving it in Bangla. It is explicitly mentioned in the Bangladesh’s Migration Act of
+Figure 19: Employment contracts and language used in contract
+               60
+
+               50
+
+               40
+
+
+  Percentage
+               30
+
+               20
+
+               10
+
+                  0
+                       Offered contract in    Offered contract in   Offered contract but    Was not offered     Does not know
+                             Bangla                 English          did not know the          contract       whether contract was
+                                                                         language                                offered or not
+
+                                                           Returned      Current    Total
+
+2013 that IRAs assume responsibility for conveying the employment contract details to migrant
+workers in a language they can understand. Next, we investigate whether the migrant workers
+understood the employment contracts they were given. Figure 20 reports the distribution of those
+who understood and those who did not understand the details of the employment contracts.
+
+Figure 20: Percentage of Migrants who understand contract details
+
+                  90                                                The results shown are only among those who reported
+                  80                                                receiving an employment contract. The majority of the
+                  70                                                respondents stated understanding the contract
+                  60
+                                                                    details, while some do not know what their contract
+
+     Percentage
+                  50
+                                                                    details were, and some did not know. Thus, it can be
+                  40
+                                                                    said for certain that the regulations set forth in the
+                  30
+                                                                    Migration Act of 2013 are not properly enforced. This
+                  20
+                                                                    adds to the vulnerability of migrants because terms
+                  10
+                  0                                                 and clauses in the contract may be exploitative, and
+                       Do not know      Yes           No            the migrant workers had agreed to it unwillingly
+                            Returned     Current                    before migrating to Malaysia.
+
+
+
+                                                                                                                       30 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+
+The third source of vulnerability we identify was whether prior information of the destination
+
+Figure 21: Aspects on which migrant workers had prior knowledge on
+
+               120
+
+               100
+
+               80
+
+
+  Percentage
+               60
+
+               40
+
+               20
+
+                0
+                     Job Market   Health services       Housing          Legal rights of   Banking/financial   Other
+                                                       conditions          migrants            transfer
+
+                                                    Returned   Current       Total
+
+country was given to migrants. Knowledge of destination country is important as it informs what to
+expect and how to navigate their lives once there. More than 80% reported having some knowledge
+of Malaysia before migrating there. Lack of adequate knowledge of the destination country create an
+information vacuum for first-time migrant workers. This increases their vulnerability by presenting
+an opportunity for exploitation by dalals in the source country and employers/service providers in
+the destination country. We further investigate this point by examining knowledge of various aspects
+of their future employment and working conditions in which they had prior to migrating to Malaysia.
+Figure 21 reports on this distribution. We find that an overwhelming majority had prior knowledge
+or learned about the job market in Malaysia prior to migrating. Small number report knowing about
+banking, health, or housing conditions.
+
+The final factor being considered is the language of the destination country and whether the migrant
+workers understand or had training on that language. Communication difficulty can also form a
+barrier between employers and employees and between local residents and migrants, which may
+lead to discrimination or other forms of mistreatment over time. More than half of the respondents
+reported not receiving any language training or understanding any Malaysia languages in neither
+spoken nor written form. 20% of the migrant workers reported understanding the language and
+having received training on it. For returned migrants, the proportion is higher relative to the current
+
+
+
+                                                                                                                31 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+migrants as returned migrants have already accumulated familiarity with the language in their
+previous migrations to Malaysia.
+
+
+
+
+                                                                                  32 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+VI. Information Asymmetry on Migration Costs
+This section provides the results of our investigation on the effects of information channels on
+migration costs. A multivariate regression analysis was conducted to see the effects of information
+channels on migration costs. The relevant results are presented in Figure 26, and the regression
+results are presented in Table 2 in the Annex. The dependent variable is the log form of total
+migration costs paid by respondents. The log form is used to stabilize the variance of the dependent
+variable, at the cost of changes in the interpretation. Individual, household, and community level
+control variables were included to account for variances. Individual-level controls include the age of
+the respondent, migrant type (i.e., first-time migrant or repeat migrant), whether the respondent
+previously worked in Malaysia, whether migrants were informed of expected earnings, and the
+selected migration process. Household-level controls include household size, permanent residence
+in Bangladesh (divisional districts vs. other districts), whether any family member worked overseas,
+and whether any family member worked in Malaysia before. Community-level controls include
+whether any village member worked overseas, whether any village member worked in Malaysia
+before, and community perception towards migratory work. A vulnerability index was formulated,
+and the migrants were placed in one of two groups: relatively less vulnerable or relatively more
+vulnerable. Information channels were included as a categorical variable where migration
+informants were either the IRA representatives or the respondent’s social network. Finally, year of
+migration (time) were included to control for year-to-year variance.
+
+Before discussing the regression results, a few discussions are required. Firstly, the distributions of
+whether any family members worked overseas or
+                                              Figure 22: Migrant work history of family
+in Malaysia are presented in Figure 24. It is members
+observed that more than 60% of respondents had                      80
+                                                                    70
+no family member who had engaged in overseas                        60
+
+
+                                                       Percentage
+work. Around 20% reported having family                             50
+                                                                    40
+members who had explicitly worked in Malaysia                       30
+before, whereas for the rest, some family                           20
+                                                                    10                                                   Commented [YR4]: This figure has grammatical
+members worked in countries other than                               0                                                   mistakes that we can’t fixed.
+                                                                            Returned       Current          Total
+Malaysia. In Figure 25, we looked at the                                                                                 Please change for us as followed:
+                                                                    Yes, to Malaysia   Yes, but not to Malaysia     No     a.10% does not know if anyone from the village
+distribution of the community members who had                                                                              migrated abroad
+                                                                                                                           b.11% knows someone who migrated abroad, but
+worked overseas. More than 60% of the respondents reported knowing someone from the                                        cannot specify the destination country
+                                                                                                                           c.67% knows someone who migrated to Malaysia
+village/community who had migrated to Malaysia for work.                                                                   d.6% knows someone who did not migrate to Malaysia
+                                                                                                                           e.6% knows no one who migrated abroad
+
+                                                                                                          33 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Figure 23: Whether any community member worked overseas
+
+
+
+                                                     6%       10%
+                                             6%
+
+                                                                        11%
+
+
+
+
+                                                  67%
+
+
+
+
+                       Does not know if anyone from the village migrated abroad
+                       Knows someone migrated abroad, but cannot specify the destination country
+                       Knows someone migrated to Malaysia
+                       Knows someone who did not migrate to Malaysia
+                       Knows none migrated abroad
+
+After specifying the distribution of their social network, we discuss the results from the regression
+analysis on the effect of information channels on migration costs. Figure 26 reports whether migrants
+face higher migration costs if the primary migration informant is the IRA representative vs. their
+social network. The results are disaggregated according to migrant type (first-time migrant vs. repeat
+migrants) and the selected migration process (G2G vs. private IRAs vs. dalals). We find the following
+results:
+
+    1. For those who selected the G2G process, the ones who were primarily informed by their social
+           network faced higher migration costs. This is likely because IRA representatives are aware
+           that the G2G Plus agreement dictate low migration costs, whereas the social network was not.
+    2. For first time migrants who went to Malaysia through the private IRAs, those informed by
+           their social network incurred marginally lower migration costs compared to those who were
+           informed by the IRA representatives. This indicates that information received from social
+           networks allowed migrants to negotiate a relatively lower migration price, albeit being
+           marginally small.
+    3. For migrants going to Malaysia through private IRAs, we observe first-time migrant workers
+           paying relatively more. This may be because repeated migrants are more familiar with the
+
+                                                                                                   34 | P a g e
+  Hidden Costs of Migration: BD-MY Corridor
+
+
+          migration market, when compared to first-time migrants, and are therefore able to negotiate
+          a lower cost.
+      4. For those going through the dalal-involved process, there was no significant difference
+          between being informed by social networks as opposed to the IRA representatives.
+
+
+Figure 24: Difference in migration costs incurred due to different information channels
+
+
+
+
+  Note: The graphs can be interpreted by observing whether the slope of the line is increasing or decreasing as
+  it moves from the left to the right in each of the six graphs. Going from left to right signifies moving from being
+  informed by dalals and IRAs to being informed by the social network. An increasing slope then means that
+  migration costs are rising with this shift in information source and a decreasing slope signifies that migration
+  costs are falling with the shift in information source.
+
+
+
+
+                                                                                                       35 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+VII. Narrative on Migration: Perspectives of Migrant Workers
+The KIIs were conducted with unsuccessful migrants or undocumented migrants who have been
+identified through the means of snowball sampling. During our quantitative survey, we requested
+that respondents share contact details of unsuccessful or undocumented migrants within their
+network. Although most respondents were not comfortable with sharing details of their network, we
+collected and finalized a sample of 10 interviewees.
+
+The bigger challenge was identifying a female key informant. As all our respondents for the
+quantitative survey were male, except two, and only shared details of male unsuccessful migrants.
+The two female respondents chose not to share any network information.
+
+In this document, we highlight the most important themes that have emerged from our interviews
+and provide an overview of the unsuccessful migration scenario in the Bangladesh-Malaysia corridor.
+
+ Theme: Migration motivation and source of information
+
+
+Based on the 10 interviews conducted, most interviewees described their primary reason for
+deciding to migrate as a means of obtaining a proper source of income. These migrants were unable
+to get any proper source of income in Bangladesh and thus perceived migrating for laborious work
+in a foreign destination as a secure source of income.
+
+While some interviewees failed to migrate and incurred costs and debt that they are still repaying,
+some interviewees migrated under false contracts or promises made by their agents and companies
+connected with the agents. One of our interviewees, during his interview, said:
+
+       “I had expected to earn a good living, which I felt was not possible in Bangladesh but
+       abroad. Me along with the other 15 persons fled to their friends’ or relatives’ home in
+       Malaysia because police were catching people with no valid visa and none of us had a
+       valid visa. While many eloped, still some people owing a debt as much as 2 lac BDT
+       (2,320 USD) tried to flee from there. So even when they returned home, they had to hide,
+       while some are still working there and hiding like we used to.”
+Many interviewees were also unsure of the process they used to migrate, as they completely relied
+on the dalals to communicate all information and did not have sufficient knowledge to verify them.
+
+ Theme: Migration financing and cost
+
+
+The average amount paid by all interviewees was found to range from BDT 300,000 to 400,000
+(3,490-4,659 USD) or more. Furthermore, not all the money spent by migrants has resulted in
+
+                                                                                          36 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+migration. Some interviewees had been scammed and provided with fake visas and air tickets, only
+to find out about the scam after they had spent all their money and reached the airport.
+
+ Theme: Living and working experience in Malaysia
+
+As supported by our desk research, potential migrants are recruited from the most rural or
+segregated areas and sent to Malaysia with inaccurate information about their working and financial
+conditions. This finding has been highlighted for almost all interviewees in our KII, where migrants
+who claimed to have been promised high salary before they move to Malaysia did not receive that
+amount when they arrived.
+
+When asked if any of their debt amounts could be earned back once they migrated, all the
+interviewees responded that the money earned did not help cover 50 percent of the debt they
+incurred during the process of migration. Many interviewees also described that the salary earned
+by working in Malaysia was insufficient to pay back any debt or send money back to Bangladesh as
+most of the money earned was spent on living costs in Malaysia. One of our interviewees described
+the expenses incurred and inability to remit in detail:
+
+       “Our mess and food costs were 250 MYR, a card for mobile costs around 30 MYR. In total
+       around 300 is already spent. The remaining 150 is equal to only 3000 BDT (35 USD). So,
+       it would take a lot of years of work there to earn that 3 lac 20 thousand back (3,725
+       USD) that was taken as debt to migrate.”
+When workers demanded the promised salaries, they were either fired or given further hope for a
+future increase in pay if they kept working overtime. Although these interviewees were promised
+incremental pay on overtime, they were rarely paid that incremental pay despite 10-12 hours of
+work, which was equivalent to 2-4 hours of overtime more than their allocated hours.
+
+       “We told him that we will not go to work and will not do the job if we did not get
+       promised money. The board sat with us and we told them that there was an amount
+       written in the contract, that we signed”
+Not receiving the promised salary was not the only hurdle faced by the interviewees— they also
+remained in hiding when they migrated irregularly. Although the Malaysian government mandates
+that employers provide housing for their workers, there were interviewees who had to live inside
+the factory because they did not have any housing, without any basic amenities and without receiving
+proper medical care.
+
+
+
+
+                                                                                           37 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+       “I went on a company visa. They received us from the airport and kept us with the
+       company, but they were not giving the salary properly. After 6-7 months of this, the
+       immigration police caught us and sent us back.”
+Due to long working hours, the burden of intensive labor, hard working conditions and lack of
+occupational safety equipment, migrant workers are more prone to getting sick.
+
+ Theme: Some final comments from interviewees
+
+
+       “I am not illiterate; I am a graduate. Then I had to stop studying and had to focus on
+       my family. There is no hope.”
+
+Interviewees were asked to comment on their overall experience, and most warned against migrating
+in the manner that they did. The interviewees realized how they had been exploited and abused, and
+strongly recommended that the government take initiatives to educate the poor about the process of
+migration. The interviewees also claimed that companies are exploitative and abusive in nature only
+because migrants are not aware of their rights and are scared of being detained or deported.
+
+
+
+
+                                                                                        38 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+VIII. Policy Recommendations
+         On December 19, 2021, the governments of Bangladesh and Malaysia had signed a new
+memorandum of understanding on the recruitment of Bangladeshi workers. This MoU is currently not
+publicly available. As such, our recommendations cannot take into consideration the content of the new
+MoU.
+For Bangladesh
+
+
+    1. Create a central online employment portal for Bangladeshis seeking employment abroad and for
+       employers to select candidates directly. The portal should include prospective migrants from the
+       existing Bureau of Manpower, Employment and Training (BMET) database and updated to include
+       women job seekers. Recruiting agencies can assist migrants in creating profiles and management
+       of their accounts. Simultaneously, this employment portal should serve as an online information
+       hub for migrants, where they can check the status of their application and find information on
+       how to obtain needed documents. By having employer-employee relationship facilitated through
+       the portal, migrants will be protected from receiving false documents and contracts, as all
+       relevant documents will have their source automatically recorded in BMET database.
+       Government of Malaysia (GoM) should be given access to information of migrants who have
+       formally started an application to work in Malaysia. Once in Malaysia, the portal can serve as a
+       database of migrant workers and allow relevant authorities to monitor and enforce labor
+       regulations and workplace safety. Migrants in Malaysia can also obtain necessary information,
+       such as finance, healthcare, and immigration regulations through this portal as well. The system
+       should also allow for reporting of grievance, abuse, and misuse, where each user will have an
+       ability to file a complaint that maybe investigated by BMET as necessary. The complaint system
+       will allow BMET to remove unscrupulous actors more effectively from the migration market.
+
+    2. Increase reach of recruiting agencies, BMET, and its subagencies to disseminate accurate
+       information on migration. Government of Bangladesh (GoB) should expand existing public service
+       infrastructure to include providing information on labor migration. In each union digital center,
+       where migrant registration is already a routine task, returned migrants from the community should
+       be empowered with information and allowed to provide accurate information to interested
+       people. Similarly, District Employment and Manpower Offices and Expat Welfare Desks (under the
+       supervision of the Ministry of Public Administration) at the District Commissioner Offices should
+       expand their services and reach. In parallel, CSOs should be allowed in government offices
+       mentioned above to assist in providing accurate information to migrants. Lastly, IRAs should be
+       allowed to register in multiple addresses so that they can legally recruit workers in districts around
+       Bangladesh, reducing reliance on migration intermediaries.
+
+    3. Improve pre-departure training in technical training centers (TTCs). BMET should increase and
+       augment the capacity of its TTCs instructors. BMET should also ensure that all centers have
+       dedicated training for migrants who are going to Malaysia by providing and updating a
+       standardized curriculum to instructors on necessary knowledge of the destination country,
+       including healthcare, finance, and legal and labor rights. BMET should consider allowing CSOs to
+       assist in pre-departure training in TTCs. Returned migrants, who have knowledge of Malay should
+
+
+                                                                                                39 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+       be empowered to teach language classes. BMET should also cooperate with recruiting agencies
+       with TTC capability to ensure that their curriculums and standardized.
+For Malaysia
+
+
+   1. Increase cooperation with GoB. Request GoB to share migrant’s data to verify visas and spot-
+      check employers. GoM should support the creation of an online employment portal outlined
+      above which will allow it to have better access to information of Bangladeshi workers in the
+      country. The use of this portal will also allow GoM to monitor migrant workers’ contracts and
+      ensure their validity. As a destination country, Malaysia’s government should cooperate with
+      employers and GoB to monitor and ensure that incoming migrants received appropriate pre-
+      departure training, including crucial training on healthcare, finance, language, and workers’
+      rights.
+
+   2. Increase monitor and enforcement of existing labor regulations. GoM should work with
+      employers to ensure that minimum standards are met in migrants’ workplace. GoM should also
+      ensure that employers do not withhold migrants’ passports and that accommodation of low-
+      skilled and semi-skilled migrant workers are provided by employers, locations of which should be
+      registered with the government. Inspections should be periodically carried out to check if
+      minimum standards are being maintained on these premises. GoM should also ensure that
+      workers are paid no less than minimum wage with appropriate overtime pay and create an online
+      mechanism where workers can file complaints anonymously if they suspect exploitation or
+      discrimination.
+
+   3. Reduce costs for migrant workers in Malaysia. Ensure that employers provide free
+      accommodations to workers. Reduce barriers for workers to access formal financial system, such
+      as encouraging banks to provide mobile banking services to migrants in Bangla. CSOs should work
+      with employers to conduct outreach activities to workers and provide them with up-to-date
+      information on healthcare, finances, and labor regulations and ensure that migrants have
+      necessary information to incur as little cost as possible to obtain these services. Migrants should
+      also understand how to dispute employer-employee issues and where to access legal assistance.
+
+   4. In order to change behaviors and attitudes towards migrant workers, GoM and the private sector
+      must work together to identify effective ways to reduce stigmatization and discrimination of
+      migrant workers, both in the workplace and social settings.
+
+
+
+
+                                                                                            40 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+References
+        AA News Desk. (2021, Jun 16). 13 brokers arrested from Agargaon passport office. The Asian Age.
+https://dailyasianage.com/news/264201/13-brokers-arrested-from-agargaon-passport-office
+        Abdul-Aziz, A. R. (2001). Bangladeshi migrant workers in Malaysia's construction sector. Asia Pacific
+Population Journal, 16(1), 3-22.
+         Abella, M., & Martin, P. (2015). Measuring and reducing migration costs; presentation prepared for
+the International Conference Harnessing Migration, Remittances and Diaspora, New York, May. 26-27.
+        Agunias, D. (2010). Migration’s Middlemen: Regulating the Recruitment Agencies in the Philippines
+United Arab Emirates Corridor. Migration Policy Institute.
+       Ahsan Ullah, A. (2009). Theoretical rhetoric about migration networks: A case of a journey of
+Bangladeshi workers to Malaysia. International Migration, 51(3), 151–168. doi: 10.1111/j.1468-
+2435.2009.00579.
+        Amnesty International. (2010). Trapped the Exploitation of Migrant Workers in Malaysia. Amnesty
+International.
+       Asian Development Bank. (2016). SOCIAL PROTECTION BRIEF Social Welfare Support Program in
+Mongolia (No. 59). https://www.adb.org/sites/default/files/publication/185618/social-welfare-
+mongolia.pdf
+        Azad, A. (2018). Recruitment of Migrant Workers in Bangladesh: Elements of Human Trafficking for
+Labor Exploitation. Journal of Human Trafficking.
+        Bales, K. (2007). What predicts human trafficking?. International journal of comparative and applied
+criminal justice, 31(2), 269-279.
+        Barkat, A., Hossain, M. I., and Hoque, E. (2014). The cost: causes of and potential redress for high
+recruitment and migration costs in Bangladesh. International Labour Organization, ILO Country Office for
+Bangladesh.
+       Battistella, G. and Asis, M.M.B. (2009) Spousal Control and Intra-Household Decision Making: An
+Experimental Study in the Philippines, American Economic Review, 99(4): 1245–127.
+       Bélanger, D., & Rahman, M. (2013). Migrating against all the odds: International labour migration of
+Bangladeshi women. Current Sociology, 61(3), 356-373.
+         Bhattacherjee, A. (2013), Malaysia: MoU with Bangladesh on Manpower Export. Institute of Peace and
+Public Studies. http://ipcs.org/comm_select.php?articleNo=3801.
+         Blackburn, A. G., Taylor, R. W., and Davis, J. E. (2010). Understanding the Complexities of Human
+Trafficking and Child Sexual Exploitation: The Case of Southeast Asia. Women & Criminal Justice, 20, 105-126.
+        Boyd, M., & Grieco, E. (2003). Women and migration: Incorporating gender into international
+migration theory. Migration Policy Institute.
+        Bhuyan, O. U. (2019). Labour migration equals trafficking in Bangladesh. Retrieved from NewAgeBD:
+https://www.newagebd.net/article/84369/labour-migration-equals-trafficking-in-bangladesh
+       Chowdhury, Z. (2021, Dec 28). Not fast, nor hassle-free: The online passport debacle. The Business
+Standard. https://www.tbsnews.net/bangladesh/not-fast-nor-hassle-free-online-passport-debacle-349207
+        Dannecker, P. (2005). Transnational migration and the transformation of gender relations: The case
+of Bangladeshi labour migrants. Current sociology, 53(4), 655-674.
+        Das, N., de Janvry, A., Mahmood, S., & Sadoulet, E. (2019). Migration as a risky enterprise: A diagnostic
+for Bangladesh. International Migration Review, 53(3), 900-929.
+
+
+
+                                                                                                    41 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+          Devadason, E. S., & Meng, C. W. (2014). Policies and laws regulating migrant workers in Malaysia: A
+critical appraisal. Journal of Contemporary Asia, 44(1), 19-35.
+        Dolfin, S., & Genicot, G. (2010). What do networks do? The role of networks on migration and
+“coyote” use. Review of Development Economics, 14(2), 343-359.
+       Douglas, M and Zenteno, R (1999): The Dynamics of Mass Migration, in Proceedings of the National
+Academy of Sciences of the United States of America.5328–35.
+        Epstein, G. S. (2008). Herd and Network Effects in Migration Decision-Making. Journal of Ethnic and
+Migration Studies, 34(4), 567-583.
+
+
+        Financial Express. (2021). Drive Against Intermediaries. Retrieved from The Financial Express:
+https://thefinancialexpress.com.bd/editorial/drive-against-intermediaries-1631115987
+       Haque, Md & Abdul Ghani, Norizan. (2020). The Effect of Migration and Community on Quality of Life;
+Bangladeshi Construction Workers in Malaysia. Global Journal of Human-Social Science. 15-21. doi:
+10.34257/GJHSSCVOL20IS4PG15.
+         Haug, S. (2008). Migration Networks and Migration Decision-Making. Journal of Ethnic and Migration
+Studies, 34(4), 585-605.
+       Huda, S. (2006). Sex Trafficking in South Asia. International Journal of Gynaecology and Obstetrics, 94,
+374-381.
+        ICE (2013). Human Trafficking and Smuggling. US Immigration and Customs Enforcement.
+        Islam, Z. (2018). Workers Tricked, Trafficked: Sold in Algeria, waiting for rescue. The Daily Star.
+Retrieved from https://www.thedailystar.net/frontpage/news/workers-tricked-trafficked-sold-algeria-
+waiting-rescue-2051197
+
+        Jahan, N. (2020). High cost of migration and the woes of our workers. Retrieved from The Daily Star:
+https://www.thedailystar.net/opinion/news/high-cost-migration-and-the-woes-our-workers-2013101
+        Kamal S (2019) Threats force people to leave the country. Manabzamin.
+        Khan, S. A., Mahi, M., Zainuddin, M., & Islam, E. (2020). At what costs? A proposal for estimating
+migration costs in the Bangladesh-Malaysia corridor. Center for Open Science.
+        Kikkawa, A., & Otsuka, K. (2020). The changing landscape of international migration: evidence from
+rural households in Bangladesh, 2000–2014. Oxford Development Studies, 48(3), 222-239.
+        Klaus Nowotny & Dieter Pennerstorfer (2019) Network migration: do neighbouring regions matter?
+Regional Studies, 53(1), 107-117. doi: 10.1080/00343404.2017.1380305
+         London School of Hygiene and Tropical medicine. (2016). Safer labour migration and community-
+based prevention of exploitation: The state of the evidence for programming. The Freedom Fund. Available at
+http://freedomfund.org/wp-content/uploads/FF_SAFERMIGRATION_WEB.pdf
+       Mahmud, H. (2020), From individual motivations to social determinants: towards a sociology of
+migrants’ remittances. International Social Science Journal, 70:175-188. doi: 10.1111/issj.12247
+       Mahmud, H. (2020). From individual motivations to social determinants: towards a sociology of
+migrants’ remittances. International Social Science Journal, 70(237-238), 175-188.
+        Malit Jr, F. T., & Naufal, G. (2016). Asymmetric information under the Kafala sponsorship system:
+Impacts on foreign domestic workers’ income and employment status in the GCC countries. International
+Migration, 54(5), 76-90.
+        Massey, D. S. (1988), 'Economic Development and International Migration in Comparative
+Perspective', Population and Development Review, 14(3) (Sept.), 383-414.
+
+
+
+                                                                                                   42 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+        McKenzie David & Rapport Hillel (2010). Self-Selection Patterns in Mexico-U.S. Migration: The Role of
+Migration Networks. The Review of Economics and Statistics, November 2010, 92(4): 811–821
+       Migration Data Portal. (2021). Migrant Recruitment Costs. Migration Data Portal: Migration &
+Development.
+        Nah, A. M. (2012). Globalisation, sovereignty and immigration control: The hierarchy of rights for
+migrant workers in Malaysia. Asian Journal of Social Science, 40(4), 486-508.
+       Neelim, A. and Siddiqui, T. (2015). Situation Analysis of Migration Context and Policy Framework in
+Bangladesh. Bangladesh Migration Law and Policies.
+        Nowotny, K., & Pennerstorfer, D. (2019). Network migration: do neighbouring regions matter?
+Regional Studies, 53(1), 107-117.
+       Orrenius, P. M. (1999). The role of family networks, coyote prices and the rural economy in migration
+from Western Mexico: 1965-1994 (No. 9910). Dallas: Federal Reserve Bank of Dallas.
+         Palma, P. (2021). Workers’ Migration to Malaysia: Some old issues still remain. Retrieved from The
+Daily Star: https://www.thedailystar.net/nrb/migration/news/workers-migration-malaysia-some-old-
+issues-still-remain-2925476.
+        Paul, M., Alam, K., & Islam, M. S. (2019). Behind Successful and Unsuccessful Overseas Migration:
+What Matters? A Case Study of Bangladesh. Innovative Issues and Approaches in Social Sciences, 12(1), 99.
+https://doi.org/10.12959/issn.1855-0541.iiass-2019-no1-art6.
+         Pia, O and Zavodny, M., (2005). Self-Selection among Undocumented Immigrants from Mexico,
+Journal of Development Economics 78, 215–40.
+        Rahman, M. M. (2011). Bangladeshi migrant workers in the UAE: gender-differentiated patterns of
+migration experiences. Middle Eastern Studies, 47(2), 395-411.
+       Rakotonarivo, A. (2020). Who are the women on the move? A portrait of female migrant workers.
+ILOSTAT.
+        Sarker, R. (2016). Migration and employment: A study of Bangladeshi male migrant workers in
+Malaysia. International Migration in Southeast Asia (pp. 125-148). Springer, Singapore.
+       Shen, W., & Dhanani, L. (2015). Measuring and defining discrimination. The Oxford handbook of
+workplace discrimination, 297-314.
+        Shibli, A. (2020, Dec 6). The ‘dalals’: How essential are they? Are bribes an economic and
+administrative lubricant? The Daily Star. https://www.thedailystar.net/opinion/open-dialogue/news/the-
+dalals-how-essential-are-they-2006461
+       Shrestha, M., Mobarak, A. M., & Sharif, I. A. (2019). Migration and Remittances: The impacts of a
+government intermediated international migration program (No. 139686, pp. 1-84). The World Bank.
+       Siddiqui, T. (2022). Dalals: Demons or merchants of short-term international migration? Retrieved
+from The Daily Star: https://www.thedailystar.net/supplements/building-modern-economy/dalals-demons-
+or-merchants-short-term-international-migration
+        Tasneem Siddiqui, C. R. (2019). Making Dalals Visible: Towards Transparency in Recruitment .
+Dhaka: Refugee and Migratory Movements Research Unit (RMMRU).
+
+
+
+
+                                                                                                 43 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+        Siddiqui, T. (2009). Migration and Gender in Asia. In Emerging issues on international migration and
+development in Asia and the Pacific.
+
+
+        Simpson, Nicole B. (2017) Demographic and economic determinants of migration. IZA World of
+Labor: 373 doi: 10.15185/izawol
+       Sisk DT (2017) Migration, Multiculturalism and Democracy. Stockholm: International Institute for
+Democracy and Electoral Assistance.
+        Ullah, A. A. (2016). Rationalizing migration decisions: labour migrants in East and South-East Asia.
+Routledge.
+        Ullah, A. A., & Huque, A. S. (2020). Demoralization-led migration in Bangladesh: A sense of insecurity-
+based decision-making model. Asian Journal of Comparative Politics, 5(4), 351-370.
+       UN High Commissioner for Refugees (UNHCR). (June, 2017). 'Migrants in vulnerable situations'
+UNHCR's perspective. Available at: https://www.refworld.org/docid/596787174.html.
+        United Nations Department of Economics and Social Science, (2019). Population Division:
+International Migration. UNDESA.
+       Wickramasekara, P. (2016). Review of the government-to-government mechanism for the
+employment of Bangladeshi workers in the Malaysian plantation sector. International Labour Organization.
+       Yi, S., Abella, M., & Martin, P. (2015). Labor migration costs – Too high for low-skilled workers. The
+World Bank Blog.
+        Younis, A., & Wu, W. (2015). Information asymmetry in the low-wage migrant worker labor market
+in Singapore. In Urban Labour Employment Policy Conference. MIT.
+        Zimmerman, C., McAlpine, A., & Kiss, L. (2016). Safer labour migration and community-based
+prevention of exploitation: The state of the evidence for programming. London: United Kingdom.
+         Zolkepli, F. (2021). Rehiring agent conned us of RM1.8mil, claim Bangladeshi workers | The Star. The
+Star. Retrieved from https://www.thestar.com.my/news/nation/2018/08/12/rehiring-agent-conned-us-of-
+rm1_8mil-claim-bangladeshi-workers/
+
+
+
+
+                                                                                                   44 | P a g e
+ Hidden Costs of Migration: BD-MY Corridor
+
+
+
+ Acronyms
+Acronym      Full Form
+ATL          Above the Line
+BAIRA        Bangladesh Association of International Recruiting Agencies
+BD           Bangladesh
+BDT          Bangladeshi Taka
+BMET         Bureau of Manpower Employment and Training
+COVID-19     Coronavirus disease of 2019
+DEMO         District Employment and Manpower Offices
+GoB          Government of Bangladesh
+GoM          Government of Malaysia
+G2G          Government to Government
+GDP          Gross Domestic Product
+HSC          Higher School Certificate
+IOM          International Organization for Migration
+IRA          International Recruiting Agency
+KII          Key Informant Interview
+LGI          Local Government Institutions
+MoEWOE       Ministry of Expatriates' Welfare and Overseas Employment, Government of Bangladesh
+MoHA         Ministry of Home Affairs, Government of Malaysia
+MoHR         Ministry of Human Resources, Government of Malaysia
+MoU          Memorandum of Understanding
+MY           Malaysia
+MYR          Malaysian Ringit
+PAPA         Persatuan Agensi Pekerjaan Malaysia, Malaysian Association of Foreign Worker
+             Agencies
+PI           Principal Investigators
+SSC          Secondary School Certificate
+TTC          Technical Training Centres
+UN           United Nations
+USD          United States Dollar
+
+
+
+
+                                                                                        45 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+Glossary
+ Terms                Definition
+ Advocacy             Advocacy is an activity by an individual or group that aims to influence
+                      decisions within political, economic, and social institutions
+ Basic amenities      Basic amenities are essential foundation for a decent living, and they also
+                      enhance economic growth and quality of life. The scope of basic
+                      amenities includes safe drinking water, sanitation, housing, access to proper
+                      roads, electrification, fuel, connectivity, healthcare centre, school,
+                      playground, recreational facilities, and others.
+ Bilateral            An agreement between two parties
+ agreement
+ Biometric            Biometric information includes, but is not limited to, imagery of the iris,
+ information          retina, fingerprint, face, hand, palm, vein patterns, and voice recordings,
+                      from which an identifier template, such as a faceprint, a minutiae template,
+                      or a voiceprint can identify the biometric information
+ Census               Data collection or interviews conducted on a full set of observation
+                      belonging to a given population
+ Covid-19             Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-
+                      CoV-2 virus
+ Current migrants     Workers who are living in a foreign country at present
+ Dalal                Middlemen working in the migration process, ostensibly to help
+                      prospective migrants migrate. In practice, this unregulated service almost
+                      always increases the cost burden of the migrants
+ Debt bondage         Debt bondage is the pledge of a person's services as security for the
+                      repayment for a debt or other obligations where the terms of the repayment
+                      are not clearly or reasonably stated, and the person who is holding the debt
+                      thus has control over the worker
+ Decentralization     Decentralization is the transfer of authority and responsibility for public
+                      functions from the central government to subordinate or quasi-independent
+                      government organizations and/or the private sector. In this research,
+                      decentralization refers to the transfer of international recruiting agencies to
+                      the rural and remote geographical locations of Bangladesh so that potential
+                      migrants can have better access to them
+
+
+                                                                                               46 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+ Diaspora network     Diaspora network refers to a population whose origin lies in another
+                      geographic locale
+ Discrimination       Practice of unfairly treating a person or group of people differently from
+                      other people or groups of people based on their race, sex, ethnicity, or
+                      religion
+ Domestic work        Work performed in or for a household or households
+ Dowry                A dowry is a form of payment or gift, such as property or money, paid by the
+                      bride's family to the groom or his family at the time of marriage
+ Economic             A person who leaves their home country purely for economic reasons that
+ migrants             are not related to any other factors but to improve their livelihood
+ Unsuccessful         An individual involved in the migration process who failed to migrate
+ migrant
+ Forced labor         Any work relation in which a person is employed against their will with the
+                      threat of destitution, detention, violence, or other forms of extreme hardship
+                      to either themselves or members of their families
+ Fraudulent           A broker who is involved in an act of deception
+ broker
+ Human trafficking    The unlawful act of transporting or coercing people to benefit from their
+                      work or service, typically in the form of forced labour or sexual exploitation
+ Hundi                Hundi is an informal system of international money transfer that is illegal as
+                      the money exchange takes place outside regulated channels
+ Undocumented         Someone who lives or works in a country where they do not have the legal
+ migrants             sanction to do so
+ Intertemporal        Intertemporal cost is an economic term that reflects to how costs incurred in
+ cost                 present can affect the costs borne in the future. The costs are not strictly
+                      monetary in nature and can also be psychological or social costs.
+ IRA                  Representatives of an international recruiting agency
+ representatives
+ Labor agreement      Any written agreement that a seller party has entered, or by which it is
+                      bound, with any union, works council or collective bargaining agent with
+                      respect to terms and conditions of employment of such seller party’s
+                      Employees
+
+
+
+
+                                                                                             47 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+ Manpower             A legal document provided to private agencies to run their organizations
+ license
+ Migration            Migration intermediaries are middlemen that connect potential migrants to
+ intermediaries       the migration market. Migration intermediaries can take many different
+                      forms: smugglers, brokers, employment agencies, and travel agencies
+ Migratory            Migrant networks are webs of social ties that connect individuals in a
+ network              sending country to others in a destination country
+ Minimum wage         The minimum amount of pay against the service provided as required by law
+ Potential migrant    A potential candidate trying to migrate internationally
+ Private channel      Migration process that is facilitated through private recruiting agencies or
+                      middlemen
+ Psychological        Psychological cost is a form of social cost that is incurred psychologically due
+ costs                to stress or loss of quality of life.
+ Recruitment          A business that is paid to find suitable migrant workers for international
+ agency               companies and organizations
+ Recruitment fees     Fees of any category, including charges, costs, assessments or other financial
+                      obligations that are associated with the recruiting process
+ Remittance           A remittance is a non-commercial transfer of money by a foreign worker, a
+                      member of a diaspora community, or a person who lives in a foreign country,
+                      for household income in their country of origin.
+ Rohingya             The Rohingya people are a stateless Indo-Aryan ethnic group who
+                      predominantly follow Islam and reside in Rakhine State, Myanmar
+ Syndicate            A group of individuals or organizations colluding under common interest to
+                      increase their market share or profits or monopolistic control of the market
+
+
+
+
+                                                                                           48 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+Annex
+Table 3: Regression results
+
+ VARIABLES                                                                      Log of Migration Cost
+
+ Age                                                                                  -0.00255
+                                                                                     (0.00566)
+ Previously worked at MY14                                                             0.0149
+                                                                                       (0.134)
+ Household Size                                                                        0.00710
+                                                                                      (0.0129)
+ Residence at Divisional District15                                                    0.204**
+                                                                                      (0.0926)
+ Family member worked overseas16                                                       0.0683
+                                                                                       (0.117)
+ Village member worked overseas17                                                      -0.0594
+                                                                                       (0.105)
+ Family member worked overseas##Village member worked overseas18                       -0.0588
+                                                                                       (0.141)
+ Family member worked at MY19                                                           -0.337
+                                                                                       (0.392)
+ Village member worked at MY20                                                         -0.140*
+                                                                                      (0.0818)
+ Family member worked at MY##Village member worked at MY21                               0.361
+                                                                                       (0.408)
+ Community perception on overseas work                                                 -0.0402
+                                                                                      (0.0411)
+ Social Network is the primary Migration Informant22                                  0.435***
+                                                                                       (0.119)
+ Vulnerability Index                                                                   -0.0255
+                                                                                      (0.0690)
+ Repeated migrants23                                                                    -0.103
+                                                                                       (0.119)
+ Selected Migration Process, Private IRA24                                               0.135
+                                                                                       (0.185)
+ Selected Migration Process, Dalal24                                                   0.0510
+                                                                                       (0.163)
+ Log of Expected Earnings                                                             0.448***
+
+14 In reference to not previously working at MY
+15 In reference to residence being at other districts
+16 In reference to no family members worked overseas
+17 In reference to no village members worked overseas
+18 In reference to no family or village members worked overseas
+19 In reference to no family members working at MY
+20 In reference to no village members working at MY
+21 In reference to no family or village members working at MY
+22 In reference to IRA representatives being the primary migration informants
+23 In reference to 1st time migrants
+24 In reference to selected migration process being G2G
+
+
+                                                                                          49 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+                                                                         (0.130)
+ Year = 201625                                                           0.407**
+                                                                         (0.175)
+ Year = 201725                                                            0.279
+                                                                         (0.192)
+ Year = 201825                                                            0.132
+                                                                         (0.204)
+ Year = 201925                                                            0.172
+                                                                         (0.216)
+ Year = 202025                                                            0.138
+                                                                         (0.305)
+ Current Migrants26                                                      -0.195*
+                                                                         (0.108)
+ Constant                                                                7.784***
+                                                                         (1.445)
+ Observations                                                              351
+ R-squared                                                                0.204
+                                 Robust standard errors in parentheses
+                                     *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+25 In reference to year of migration being 2015
+26 In reference to returned migrants
+
+
+                                                                             50 | P a g e
+Hidden Costs of Migration: BD-MY Corridor
+
+
+Figure 25: Juxtaposition of recruitment and information flow
+
+
+
+
+                                                               1|Page
+Hidden Costs of Migration: BD-MY Corridor
+
+
+
+IRB Ethical Clearance Certificate                    Commented [MBM5]: Include the PDF certificate of the
+                                                     IHE-IRB ethical clearance
+
+
+
+
+                                            1|Page
+
