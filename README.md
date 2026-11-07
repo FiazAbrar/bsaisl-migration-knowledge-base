@@ -1,5 +1,3 @@
-# Country migration guides
-
 Step-by-step guides for people in Bangladesh who want to work abroad, one doc per destination country. Each doc covers every visa open to Bangladeshis, the steps in the order a worker takes them, what each step costs, how to check papers are real, the scams to watch for, and where to complain. Every sentence is cited.
 
 ## Countries
