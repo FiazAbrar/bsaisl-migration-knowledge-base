@@ -1,0 +1,19 @@
+#lhc_container_v2 #lhc_widget_v2{
+height:190px!important;
+width:75px!important;
+box-shadow:none!important;
+border:none !important;
+border-radius:none!important;
+
+}
+#lhc_container_v2 #lhc_status_widget_v2{
+min-height: 190px!important;
+min-width: 75px!important;
+max-height: 190px!important;
+max-width: 75px!important;
+width: 75px!important;
+height: 190px!important;
+box-shadow:none!important;
+border:none !important;
+border-radius:none!important;
+}

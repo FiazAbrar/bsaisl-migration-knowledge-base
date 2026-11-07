@@ -1,0 +1,29 @@
+/**
+ * @file
+ * Styles for Bootstrap Barrio's image buttons.
+ */
+
+.image-button.is-disabled:hover,
+.image-button.is-disabled:active,
+.image-button.is-disabled:focus,
+.image-button.is-disabled {
+  background: transparent;
+  opacity: 0.5;
+  cursor: default;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:32 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:51 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.349
+  load_resource: 229.645
+  PetaboxLoader3.resolve: 146.815
+  PetaboxLoader3.datanode: 28.369
+*/

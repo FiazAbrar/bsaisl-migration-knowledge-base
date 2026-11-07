@@ -1,0 +1,183 @@
+            FREQUENTLY ASKED QUESTIONS (FAQs)
+
+   The Commission Determination on the Mandatory Standards for the
+        Registration of End-Users of Prepaid Public Cellular Services
+
+The Malaysian Communications and Multimedia Commission ("Commission") has
+issued the Commission Determination on the Mandatory Standards for the
+Registration of End-Users of Prepaid Public Cellular Services, Determination No. 1 of
+2026 ("Mandatory Standards").
+
+These Mandatory Standards establish a legally binding framework governing the
+conduct of prepaid SIM registration in Malaysia. They aim to protect consumers
+against identity misuse, fraudulent registration, and unauthorised use of personal data.
+
+About the Commission Determination on the Mandatory Standards for the
+Registration of End-Users of Prepaid Public Cellular Services, Determination
+No.1 of 2026
+
+1. Who can register for a prepaid SIM card?
+
+     All users, regardless of nationality, are required to register their prepaid SIM cards
+     if they are subscribers to Malaysian Prepaid Public Cellular Services.
+
+     Prepaid SIM card registration applies to the following categories:
+
+       (a) Malaysian citizens;
+       (b) Permanent Residents;
+       (c) Temporary Residents;
+       (d) Non-Malaysian (workers or students);
+       (e) Non-Malaysian (tourists) who are visiting Malaysia for less than three (3)
+
+                months;
+       (f) Non-Malaysian - IMM13 Document Holder; and
+       (g) Non-Malaysian - Dokumen Pendaftaran Pelarian Holder (or any
+
+                equivalent terms).
+
+                                                                                                                1
+2. What Identification Documents are required for Prepaid SIM card
+    registration?
+
+    Service Providers and authorised Dealers are required to verify the identity of
+    users against their original Identification Documents during the registration
+    process.
+
+    The accepted Identification Documents depend on the user's category and must
+    be presented in original form for verification purposes:
+
+Category of Users        Original Identification Documents Required
+
+Malaysian citizens       National Registration Identity Card ("MyKad") /
+Permanent Residents            Malaysia Armed Forces Identity Card
+                                               ("MyTentera")
+
+                          Permanent Resident Identity Card ("MyPR")
+
+Temporary Residents      Temporary Resident Identity Card ("MyKAS")
+
+Non-Malaysian (workers   a) Passport from their country of origin; and
+or students)             b) Work permit identification document; or
+                         c) Student pass.
+
+Non-Malaysian (tourist)  a) Passport from their country of origin; and
+                         b) Visa Document (if applicable).
+
+Non-Malaysian -IMM13     a) Original IMM 13 document (certified by IDM)
+document holder
+
+Non-Malaysian -Dokumen a) Original Dokumen Pendaftaran Pelarian
+Pendaftaran Pelarian
+                         (issued by IDM)
+Holder
+
+You are required to bring your original Identification Document during registration.
+Photocopies, photos, or scanned copies cannot be used for registration or
+verification.
+
+                                                                          2
+3. How is the registration carried out?
+
+                      Malaysian citizens  MyKad reader with biometric
+                           /Permanent      authentication (fingerprint)
+
+                    Residents/Temporary
+                            Residents
+
+      Assisted      Non-Malaysian         Passport reader with biometric
+Registration (at a                              authentication (facial
+service centre or                                     recognition)
+
+       Dealer)      IMM 13 document       Verification against the original
+                            holder                IMM 13 document
+
+                    Dokumen Pendaftaran    Biometric authentication (if
+                         Pelarian holder    applicable) or verification
+                                          against the original Dokumen
+
+                                               Pendaftaran Pelarian
+
+Self-registration   Identification Document Scanning & Verification of
+                                    identity using MyDigital ID
+
+4. What is the age requirement to register for a prepaid SIM card?
+
+Below 12 years old                  Not allowed to register
+12 to 17 years old
+                    Parents or guardians must register for the child
+                       (Your child's name will still be listed as the
+                                                user)
+
+5. Can someone else register a SIM card on my behalf?
+
+    No. The SIM card must be registered by the user. However, for children aged
+    twelve (12) to seventeen (17) years old, registration must be carried out by a
+    parent or guardian, and the child must be present during the registration
+    process.
+
+                                                                         3
+6. What is the limit on the number of SIM cards an individual can register?
+
+ Malaysian citizens/ Permanent  Maximum five (5) SIM cards
+Residents/ Temporary Residents   with each Service Provider
+
+            Non-Malaysian       Maximum two (2) SIM cards
+                                 with each Service Provider
+
+*Note: This does not affect users who registered more than the limit before the
+Mandatory Standards came into effect.
+
+7. Are pre-activated SIM cards allowed?
+
+    No. Prepaid SIM cards are not allowed to be activated before registration.
+    If you receive a SIM card that is already active before you register, it should not
+    be used, as this is not permitted.
+
+8. How long does it take for my SIM card to be activated?
+
+    The activation status of your SIM card will be notified within 12 hours after
+    your registration is completed and verified.
+
+9. I am a tourist. How long can I use my SIM card?
+
+    You can use the SIM card for a maximum period of three (3) months from the
+    date of successful registration. Upon expiry of the threemonth period, the SIM
+    card will be automatically terminated.
+
+10. Can Service Providers or Dealers reuse my Identification Document for
+       SIM registration or other purposes?
+
+       No. Copies of Identification Documents used for that SIM registration must be
+       watermarked and cannot be reused for any other registration. This measure
+       helps protect your identity from misuse or fraud.
+
+                                                                                   4
+11. How do I replace my SIM card?
+       SIM card replacement can only be done through your Service Provider. You
+       may be required to perform identity verification and provide specific
+       information to confirm that the number is registered under your name.
+
+Additional FAQs for Subscriber Vigilance
+
+12. What should I do to stay safe when registering a prepaid SIM?
+       Always ensure that your SIM registration is done through authorised channels
+       such as the Service Provider's official app, website, or an authorised Dealer.
+       Never share your Identification Documents, photos, MyDigital ID or One-Time
+       Password (OTP) with anyone claiming to "assist" with registration.
+
+13. How can I avoid becoming a victim of fraudulent or unauthorised SIM
+       registrations?
+       Be cautious of individuals offering to register SIM cards on your behalf or
+       requesting your personal details for "faster processing". These are common
+       methods used in scams. Only provide your details directly to Service Provider
+       platforms or authorised Dealers.
+
+14. How do I check if a SIM card has been registered under my name without
+       my knowledge?
+       Your Service Provider has provided a free-of-charge mechanism that enables
+       you to check and view all active prepaid SIMs registered under your identity.
+       If you notice any numbers you did not register, contact your Service Provider
+       immediately.
+
+                                                                                                            5
+

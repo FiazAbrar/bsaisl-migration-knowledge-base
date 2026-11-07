@@ -1,0 +1,42 @@
+#### MALAYSIA HEALTHCARE STRENGTHENS ENGAGEMENT IN BANGLADESH AHEAD OF MALAYSIA HEALTHCARE WEEK IN DHAKA
+
+Wednesday 18/03/2026
+
+\
+**KUALA LUMPUR, March 18 (Bernama) --** Bangladesh’s medical travel landscape is evolving as patients increasingly explore alternative destinations for specialised treatment abroad. For many years, Bangladeshi patients travelled primarily to India for medical care due to its proximity and established referral pathways. However, recent visa restrictions affecting Bangladeshi travellers have disrupted this long-standing treatment corridor, prompting patients and healthcare facilitators to explore new healthcare destinations across the region.\
+ \
+In response to this shift, the Malaysia Healthcare Travel Council (MHTC) is strengthening its engagement with Bangladesh as part of the ongoing initiatives under the Malaysia Year of Medical Tourism 2026 (MYMT 2026), which was officially launched in July 2025. Guided by its “***Healing Meets Hospitality***” positioning, Malaysia Healthcare brings together internationally accredited hospitals, specialised medical expertise and patient-centred care to offer Bangladeshi patients a trusted destination for quality treatment abroad.\
+ \
+As part of these efforts, Malaysia Healthcare will bring its healthcare ecosystem closer to Dhaka through Malaysia Healthcare Week in Dhaka, a series of engagements designed to connect Bangladeshi healthcare facilitators, travel partners and prospective patients directly with Malaysia’s leading medical institutions. The initiative aims to strengthen collaboration, build referral networks and enhance awareness of Malaysia as a trusted medical travel destination. Malaysia’s healthcare travel industry continues to demonstrate strong growth and international confidence. In 2025, the sector generated RM3.34 billion in healthcare travel revenue and welcomed 1.84 million healthcare travellers, reflecting Malaysia’s strong reputation as a leading medical travel destination in the region. This growth underscores the country’s ability to deliver high-quality care supported by internationally accredited hospitals, advanced medical technologies and a patient-centred healthcare ecosystem.\
+ \
+Hence, Malaysia Healthcare’s engagement in Dhaka seeks to further strengthen ties with Bangladesh’s growing medical travel ecosystem. By connecting local healthcare facilitators and industry partners with Malaysian hospitals, the initiative aims to expand referral networks and increase access for Bangladeshi patients seeking trusted healthcare options abroad. Mr. Suriaghandi Suppiah, Chief Executive Officer of Malaysia Healthcare Travel Council, said Malaysia is committed to strengthening healthcare collaboration with Bangladesh as demand for quality medical care abroad continues to grow.\
+ \
+“*Bangladesh remains an important market for Malaysia Healthcare, and we are seeing growing interest from Bangladeshi patients seeking trusted and high-quality treatment overseas. We also congratulate Bangladesh on the formation of its new government and look forward to strengthening Malaysia–Bangladesh relations under the new Prime Minister's leadership. Healthcare and medical tourism present strong opportunities for collaboration between our two countries. Through initiatives such as Malaysia Healthcare Week in Dhaka, we aim to bring Malaysia’s healthcare ecosystem closer to local partners and patients, strengthen referral networks, and showcase Malaysia’s medical expertise and patient-centred care. As part of the Malaysia Year of Medical Tourism 2026 initiatives, Malaysia continues to expand healthcare collaboration across the region while ensuring patients have access to reliable, high-quality and compassionate care,*” added Suriaghandi.\
+ \
+Demand for overseas medical care among Bangladeshi patients remains strong, driven by the need for specialised procedures, advanced medical technologies and faster access to treatment. Complex areas such as cardiology, oncology, organ transplantation, and advanced surgeries continue to drive outbound medical travel, with patients increasingly comparing regional healthcare destinations, including Thailand, Singapore, and Malaysia. Within this competitive landscape, Malaysia offers a compelling value proposition that combines internationally trained specialists, modern healthcare infrastructure and competitive treatment costs. Strong air connectivity between Dhaka and Kuala Lumpur, supported by multiple daily flights, further enhances Malaysia’s accessibility for Bangladeshi patients and their families seeking reliable healthcare abroad.\
+ \
+As Malaysia drives the momentum of the Malaysia Year of Medical Tourism 2026 (MYMT 2026), initiatives such as Malaysia Healthcare Week in Dhaka reflect the nation’s commitment to bringing the spirit of “***Healing Meets Hospitality***” to patients and partners across the region. By combining high-quality medical care with Malaysia’s renowned warmth, compassion and cultural understanding, Malaysia Healthcare continues to strengthen cross-border healthcare collaboration while building enduring partnerships that expand patient access to trusted treatment and elevate healthcare standards across the region.\
+\
+**About Malaysia Healthcare Travel Council**\
+ \
+Malaysia Healthcare Travel Council (MHTC), established in 2009 under the purview of the Ministry of Health (MOH) Malaysia, is entrusted with developing and nurturing the “Malaysia Healthcare” brand. MHTC enhances, coordinates, and promotes Malaysia’s healthcare travel industry by fostering industry collaborations and building valuable public-private partnerships both domestically and internationally. With 80 member hospitals nationwide, MHTC continues to elevate the healthcare travel ecosystem through strong branding, seamless patient experiences, and strategic market initiatives. In line with these efforts, MHTC is spearheading the Malaysia Year of Medical Tourism (MYMT) 2026, the nation’s first dedicated year to celebrate and advance healthcare travel. MYMT 2026 serves as a milestone initiative to showcase Malaysia’s world-class healthcare offerings, strengthen its position as the premier global healthcare destination, and highlight the industry’s significant contribution to the national economy.\
+ \
+More information can be found at <https://malaysiahealthcare.org/>. \
+\
+**SOURCE: Malaysia Healthcare Travel Council (MHTC)\
+\
+FOR MORE INFORMATION PLEASE CONTACT:  \
+Name: Mohamad Shahizam Fauzi                                                    \
+Head, Communications\
+Tel: +603 8776 6168                     \
+Email: <shahizam.f@mhtc.org.my>\
+ \
+Name: Muhammad Rasydan Ma’at                                       \
+Asst. Manager, Communications\
+Tel: +603 8776 6168         \
+Email: <rasydan.m@mhtc.org.my> \
+\
+--BERNAMA**\
+ 
+
+[![](assets/img/gallery/MyASEAN2025-Logo-Color-ENG.jpg)](https://myasean2025.my/)

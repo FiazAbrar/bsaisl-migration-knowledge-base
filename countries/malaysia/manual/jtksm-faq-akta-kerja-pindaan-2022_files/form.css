@@ -1,0 +1,46 @@
+/**
+ * @file
+ * Visual styles for Bootstrap Barrio's form components.
+ */
+
+.form-required::after {
+  content: '';
+  vertical-align: super;
+  display: inline-block;
+  background-image: url(/web/20260402042936im_/https://jtksm.mohr.gov.my/themes/contrib/bootstrap_barrio/images/required.svg);
+  background-repeat: no-repeat;
+  background-size: 7px 7px;
+  width: 7px;
+  height: 7px;
+  margin: 0 0.3em;
+}
+
+form .form-actions {
+  align-self: flex-end;
+}
+
+form .filter-wrapper {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+form .form-type-textarea {
+  margin-bottom: 0;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:36 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:47 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.44
+  load_resource: 117.343
+  PetaboxLoader3.datanode: 19.203
+*/

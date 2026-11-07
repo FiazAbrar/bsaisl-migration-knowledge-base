@@ -1,0 +1,46 @@
+/**
+ * @file
+ * Styles for the system status counter component.
+ */
+
+.system-status-counter__status-icon {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+.system-status-counter__status-icon:before {
+  display: block;
+  width: 100%;
+  height: 100%;
+  content: "";
+  background-repeat: no-repeat;
+  background-position: center 2px;
+  background-size: 16px;
+}
+
+.system-status-counter__status-icon--error:before {
+  background-image: url(/web/20260402042928im_/https://jtksm.mohr.gov.my/core/misc/icons/e32700/error.svg);
+}
+.system-status-counter__status-icon--warning:before {
+  background-image: url(/web/20260402042928im_/https://jtksm.mohr.gov.my/core/misc/icons/e29700/warning.svg);
+}
+.system-status-counter__status-icon--checked:before {
+  background-image: url(/web/20260402042928im_/https://jtksm.mohr.gov.my/core/misc/icons/73b355/check.svg);
+}
+
+/*
+     FILE ARCHIVED ON 04:29:28 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:43 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.438
+  load_resource: 75.402
+  PetaboxLoader3.resolve: 25.778
+  PetaboxLoader3.datanode: 11.583
+*/

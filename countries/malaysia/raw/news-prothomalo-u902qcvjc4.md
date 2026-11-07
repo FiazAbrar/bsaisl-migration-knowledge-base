@@ -1,0 +1,157 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/u902qcvjc4)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/u902qcvjc4)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Bangladesh](https://en.prothomalo.com/bangladesh)
+
+## Labour market
+
+# Malaysia recruitment syndicate resurfaces with new tactics
+
+Workers were supposed to be sent from September. The process is not finalised yet, so the ministry has warned against making any transactions.
+
+[Mohiuddin](/author/md-mohiuddin)
+
+Dhaka
+
+Updated: 02 Sep 2026, 03: 43
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fu902qcvjc4)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fu902qcvjc4&text=Malaysia%20recruitment%20syndicate%20resurfaces%20with%20new%20tactics&hashtags=)
+
+Expatriate Workers at a construction siteFile photo
+
+Bhaluka Overseas, which obtained a recruiting agency licence in 2022, has received approval to send 235 workers till 23 August. None of these workers are destined for Malaysia. However, the organisation is on the list of 25 agencies selected to send workers to Malaysia.
+
+Md Abu Sohag Khan, the proprietor of Bhaluka Overseas, told Prothom Alo that he previously sent over a thousand workers to Malaysia under different agencies.
+
+Similarly, he sent workers to Saudi Arabia. This time, he secured the opportunity to send workers directly and was automatically selected from Malaysia. He did not need to pay anyone for this.
+
+Like Bhaluka Overseas, a total of 25 agencies have secured the opportunity to send workers to Malaysia this time around. Some members of the organisation of recruiting agency owners, BAIRA (Bangladesh Association of International Recruiting Agencies), stated that the names of previous agencies are not on the list this time. Unlike before, there are no direct names of ministers or parliament members' establishments.
+
+However, the old masterminds behind the syndicates are now hiding behind unknown agencies. They have formed a new syndicate using different tactics, which may lead workers to spend Tk 600,000–700,000 to go to Malaysia.
+
+A study by five organisations, including the US-based non-governmental development organisation Verité Incorporated, revealed that previously, each worker spent an average of Tk 544,000.
+
+Prothom Alo collected data from the chosen 25 agencies for almost 23 years (from January 2004 to 23 August). Analysing these data from the Bangladesh Bureau of Manpower, Employment, and Training (BMET) shows that 17 of the 25 agencies have no experience in sending workers to Malaysia.
+
+The remaining eight agencies collectively sent 1,612 workers. Of these, five agencies sent workers in numbers like 11, 74, 100, 150, and 202, while the other three sent 436, 333, and 306 workers respectively.
+
+Malaysia has not specified any particular criteria while finalising the agencies. The opportunity has been seized by Bestinet, the owner of the Foreign Workers Centralised Management System (FWCMS) software Migrant, for Malaysian worker recruitment.
+
+Aminul Islam bin Abdul Noor, a Bangladeshi-origin Malaysian citizen, also known as Amin Noor, owns it.
+
+There are allegations that Amin Noor remotely controls the entire worker-sending business from Malaysia. Ruhul Amin alias Swapan, former secretary-general of BAIRA, acts as his representative in Bangladesh. Together, they have determined who will be in the syndicate. As before, they have also shared a portion of this with a group within the current government.
+
+Swapan has been in hiding abroad following the fall of the Awami League in the mass uprising of 2024. His agency’s licence has been revoked, and he is facing a lawsuit with corruption investigations ongoing by the ACC.
+
+Speaking about this, Expatriates' Welfare and Overseas Employment Ministry State Minister, Md Nurul Haque, told Prothom Alo that the interim government sent a list of 423 agencies. From these, Malaysia selected 25 on their own. An additional 338 agencies have been given a chance to cooperate at the government’s request, making this a more positive step than before.
+
+He further said that the ministry will set a limit to send workers at a lower cost. If any agency accused of trafficking or corruption is on the list, Malaysia will be informed, and their licences will be withdrawn.
+
+## Accused also on the list
+
+There are 17 agencies, like Tania Trade, Satkhira International, A-Plus, Al Hayat Overseas, Valley Trade, Khan Jahan Ali Overseas, Bengal Human Resource, Earth Smart, Ath Taqwa, Motherland, Mangrove, Jewel Rinku Enterprise, Bangladesh One Overseas, Anwesha Air, Chandpur International, Godness Services, and Bhaluka Overseas, without any experience in sending workers to Malaysia.
+
+The agency named The Anchor Care Global Migration and Consultant has received clearance for only 371 workers, with 11 going to Malaysia. Bangladesh One Overseas Limited has received total clearance for 795 workers, with no experience in sending any to Malaysia. These two agencies are on this year's list of 25 agencies.
+
+United Gulf Services is on the list, owned by Laila Arjumand Banu. Previously, her husband Abdul Hai's company, Greenland Overseas, was in the syndicate. It is now run by their daughter, Rehana Arjumand Hai. Attempts to contact Laila Arjumand Banu were unsuccessful as she did not answer calls, nor did her daughter.
+
+The ACC sent a letter to BMET on 23 July, asking for information on 57 agencies as part of a lawsuit claiming these agencies amassed illegal wealth through trafficking women abroad using forged documents in collusion with corrupt BMET officials.
+
+Among these, three agencies—Godness Service Limited, General Trading Company, and Rifa International—are selected to send workers to Malaysia this time. Godness has no experience in sending workers to Malaysia, while the other two have sent some.
+
+Despite several attempts, the owners of these three agencies did not answer calls. One person stated that they would inform the owner, but failed to respond further.
+
+BAIRA members said that this time, the syndicate fee has to be 5,500 Malaysian ringgit (Tk 168,000). However, each visa must be purchased by securing a worker request for 8,000–9,000 ringgit (Tk 265,000–275,000). Thus, more than Tk 430,000 per worker will be siphoned off to Malaysia.
+
+## Malaysia selects the agencies
+
+On 28 August, the Ministry of Expatriates' Welfare and Overseas Employment in a statement said that agency verification and selection were done by a high-level joint committee formed with the Human Resources Ministry, Foreign Ministry, Home Ministry, anti-corrution commission, and law enforcement agencies in Malaysia. There is no involvement of the Bangladesh government.
+
+According to the notification, an MoU was signed between Bangladesh and Malaysia on 18 December 2022, assigning the responsibility of selecting recruiting agencies solely to the Malaysian government. This reflects the submissive foreign policy of the Awami League government. The agreement expires on 31 December, making it challenging to alter terms in Bangladesh's favour, but the government has attempted to negotiate. The government hopes that the new MoU will protect Bangladesh's interests in agency approval.
+
+Previously, during the Awami League government, it was also stated that Malaysia selected the agencies. Even after the market closure, a press conference by 100 agencies reiterated the same claim.
+
+The interim government held multiple meetings with Malaysia to reopen the labour market. Malaysia set 10 conditions for listing agencies. Applications were received from agencies based on these conditions, initially qualifying 163 agencies. After deliberations, three conditions were relaxed initially, then another, resulting in a final list of 423 agencies sent to Malaysia by the Ministry of Expatriates' Welfare.
+
+## Another strategy: Partner agencies
+
+Workers are sent to Malaysia from 14 countries including Bangladesh. However, except for Bangladesh, no other country had such syndicate arrangements.
+
+Although this time, 25 recruiting agencies each from Nepal and Bangladesh, and 10 each for India, Pakistan, and Myanmar have been approved. Yet, recruiting agency owners from these four countries have protested, demanding an open system providing equal opportunities for all instead of a syndicate-controlled limited agency privilege.
+
+Sri Lanka and the Philippines were fully approved based on submitted lists. Nepal has initiated an investigation into the list of 25 agencies.
+
+The Malaysia syndicate is a system where not all recruiting agencies are given the opportunity to send workers to Malaysia, but only a few. Initially, 25 agencies were part of the syndicate, later increasing to 100 in three phases.
+
+There are accusations that large sums were taken from each agency to get their name on the syndicate list, and agencies in the syndicate collected at least Tk 150,000 as 'syndicate fees' per worker.
+
+This allegation is currently under investigation by the ACC. Additionally, due to a lawsuit, 49 recruiting agency licences were revoked by the Ministry of Expatriates' Welfare and Overseas Employment.
+
+The Ministry states that the approved 25 recruiting agencies are among the 423 agency list formulated by the interim government. Malaysia's cabinet finalised 25 from this list, and following requests from the Bangladesh government, an additional 312 agencies are being allowed to send workers as 'Associate Recruiting Agencies.'
+
+Recruiting agencies not on the list had previously sent workers to Malaysia. Four agency owners told Prothom Alo that their business of sending workers to Malaysia is long-standing. That is why they receive demands from companies there. They then contacted listed syndicate agencies, paying Tk 152,000 per worker as 'syndicate fees' last time. Associate agencies will work similarly. They cannot send workers directly or be identified by Malaysian employers as the approved agencies without experience.
+
+Immediate-past senior vice president of BAIRA, Riazul Islam, told Prothom Alo that while a syndicate has been formed this time as well, a slightly new strategy is implemented.
+
+According to him, if there were proper verification, unfamiliar agency names would not have been included in the list. This will increase worker expenses.
+
+He further said that no applications were made for associate agencies; they were made associates without interest. Requests will not come directly to associates, but to the 25 agencies. In the past, over 817 agencies sent workers by paying fees. The number of associates has now reduced.
+
+BAIRA members mention that 10 associates per main agency and 62 agencies under the government BOESL have been kept as associates for the current 25 main agencies. This is not a syndicate-free setup; it is merely a restructured presentation of the old system. During the past, nearly 1,400 agencies were listed with FWCMS, but starting with 10 in 2016 and 25 in 2022, it eventually approved 100.
+
+## Opportunity to send workers for free
+
+The notice of the Expatriates' Welfare Ministry mentioned that following multiple ministerial meetings and discussions with Malaysian counterparts during Prime Minister Tarique Rahman’s first foreign visit with Malaysia’s Prime Minister Anwar Ibrahim and Sultan Ibrahim Iskandar Raja, a vast potential for opening labour markets emerged.
+
+According to the notice, following Bangladesh's special request, Malaysia agreed in principle to take 10,000 workers for free. The labour market will restart through the Ministry's BOESL by sending people to Malaysia.
+
+In 2022, the government recruiting agency BOESL received demand orders to send over 10,000 workers to Malaysia but sent only about 1,500. Two responsible officials from BOESL said that workers were sent at no cost through BOESL, covered by the employer. That is there were obstacles from many. Consequently, more workers could not be sent, and BOESL incurred costs to obtain employment orders at the employer's expense.
+
+The Expatriates' Welfare Ministry has urged caution against brokers and fraudulent syndicates to prevent the activities of intermediaries, stating that the process of sending workers to Malaysia is not finalised and is still in progress. The ministry will notify through a notice in due course and has warned against making any transactions beforehand.
+
+## Repeated syndicates, workers deceived
+
+After being closed for nearly four years, when Malaysia's labour market opened in July 2022, Malaysia took over the responsibility of selecting recruiting agencies to send workers.
+
+The Expatriates' Welfare Ministry sent a list of 1,520 recruiting agencies to them, and Malaysia made selections based on this list. Agencies of three MPs and an MP's family member during the Awami League era, along with Awami League leaders and City Corporation councilor’s agencies, entered the syndicate engaging in business.
+
+They openly admitted having not sent any worker themselves, instead allowing other agencies to send workers in their name.
+
+During the Awami League's 15 years, Malaysia's labour market was closed thrice. Each time, issues of syndicate formation for sending workers arose. Subsequently, allegations of irregularities, corruption, and bribery against the syndicate surfaced.
+
+Malaysia's labour market first closed in 2009, reopened in late 2016, and closed again in September 2018 due to corruption and irregularities, reopening in August 2022 by forming a syndicate and closing back in June 2024.
+
+Shariful Hasan, the Associate Director and Head of Migration Programme at BRAC, told Prothom Alo that the selection of 25 agencies proves that syndicates are stronger than the governments of both countries, leading to corruption, irregularities, and worker deception, not closing the recruitment system.
+
+He further said that the recruitment continues through Amin Noor's system, signifying a significant failure of both governments. The agreement could have been amended, or new ones made, to send workers from the next year. Otherwise, reopening the labour market only for thousands of deceived workers does not make sense.
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Bangladesh](https://en.prothomalo.com/bangladesh)
+
+- [Exclusive](/topic/Exclusive)
+- [Syndicate](/topic/syndicate)
+- [Remittance](/topic/Remittance)
+- [Malaysia](/topic/Malaysia)
+- [Labour Migration](/topic/labour-migration)

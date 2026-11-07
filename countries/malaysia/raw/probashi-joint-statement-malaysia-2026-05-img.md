@@ -1,0 +1,1 @@
+IMAGE FILE, NO TEXT LAYER. The source is the image probashi-joint-statement-malaysia-2026-05-img.jpg (also saved as probashi-joint-statement-malaysia-2026-05-img.html, the original download). Quotes for this source were transcribed from the image and are recorded in the ledger rows that cite it (status note: --no-quote-check).

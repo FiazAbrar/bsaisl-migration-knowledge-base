@@ -1,0 +1,124 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/ms35nsib27)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/ms35nsib27)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Bangladesh](https://en.prothomalo.com/bangladesh)
+
+## Death of expat workers
+
+# Over 14 bodies return home every day on average
+
+Mohiuddin
+
+Updated: 06 Oct 2026, 03: 29
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fms35nsib27)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fms35nsib27&text=Over%2014%20bodies%20return%20home%20every%20day%20on%20average&hashtags=)
+
+Bodies of the eight Bangladeshis, who lost their lives in the Mediterranean while moving to Italy from Libya, were flown from Libya to Hazrat Shahjalal International Airport on 3 May, 2024Prothom Alo
+
+Al Amin from Pabna worked at a tile factory in Cambodia. He died after being crushed under more than 100 tiles while at work. His body was brought back to Bangladesh on 27 September. He died on 12 April, 2025, meaning it took nearly a year and a half for his body to return home.
+
+After learning of his death, Al Amin’s brother-in-law, Masum Khan, came to Dhaka and applied to the Wage Earners’ Welfare Board with assistance from the BRAC migration programme.
+
+He told Prothom Alo that Bangladesh has no embassy in Cambodia. The Welfare Board forwarded the application to Thailand. The embassy could not locate where the body was being kept. After learning this, Masum collected the phone number of the local police through expatriate Bangladeshis and helped the Welfare Board contact them.
+
+Such difficulties in bringing back the bodies of migrant workers are not uncommon. The BRAC migration programme says deaths among Bangladeshi migrant workers abroad are increasing. Some workers who die in Saudi Arabia are buried locally.
+
+Most families, however, want the bodies brought home. When a worker is documented and employed legally, the body generally returns within a reasonable period. But if a worker becomes undocumented for any reason, bringing the body home can take a long time.
+
+When a Bangladeshi migrant worker dies abroad, the Wage Earners’ Welfare Board under the Ministry of Expatriates’ Welfare and Overseas Employment takes responsibility for bringing the body home.
+
+Officials of the board say that in Middle Eastern countries, approval has to be obtained from several agencies before a body can be repatriated. This takes some time. The process has become faster than before, they said, but bringing bodies home from countries where Bangladesh does not have an embassy takes longer.
+
+According to data from the Wage Earners’ Welfare Board, the bodies of 3,651 expatriates were brought back to Bangladesh in 2019. The number fell to 3,140 in 2020, mainly because many families chose to have their relatives buried locally during the Covid-19 pandemic.
+
+The number of bodies returning to Bangladesh began to rise from 2021. Outside the pandemic period, less than 1 per cent of deceased migrant workers are generally buried in their destination countries.
+
+From January to 30 September this year—a total of 273 days—4,060 bodies were brought back to Bangladesh. That means more than 14 bodies returned home every day on average.
+
+The highest number of migrant workers died in Saudi Arabia. Nearly 2,000 workers died there this year. Saudi Arabia is also Bangladesh’s largest overseas labour market, and it received the highest number of Bangladeshi workers this year.
+
+Malaysia ia next in the list. However, recruitment of Bangladeshi workers to Malaysia has remained suspended for about two and a half years.
+
+Officials of NGOs and research organisations that regularly work on migration issues say the country where a worker dies sends a document stating the cause of death. In most cases, the cause is recorded as illness or natural death.
+
+There have been allegations of workplace abuse, murder and workers being driven to suicide, but Bangladesh does not independently verify the causes of migrant workers’ deaths abroad. Describing the cause of death in such a perfunctory manner is disrespectful to the families, they said.
+
+Ariful Haque Choudhury, minister for expatriates’ welfare and overseas employment, told Prothom Alo on 1 October that medical assistance for expatriates had been increased since the BNP (Bangladesh Nationalist Party) government took office. Steps had also been taken to bring bodies home quickly.
+
+The government is also giving due importance to bringing back the bodies of undocumented workers, he said. The government will determine what needs to be done to verify the causes of deaths abroad.
+
+The Wage Earners’ Welfare Board says families have to apply after a worker’s death. If a worker travelled abroad after obtaining clearance from the Bangladesh Bureau of Manpower, Employment and Training (BMET), or registered as a member with a Bangladeshi embassy after going abroad, the Welfare Board bears the cost of repatriating the body. Even if neither condition applies, the family can still apply to the board.
+
+In such cases, the board sends a proposal to the Ministry of Expatriates’ Welfare and Overseas Employment. The ministry provides the money needed to bring the body home, with funds allocated in the annual budget for this purpose.
+
+## Over 16pc died in accidents
+
+Data from the Ministry of Expatriates’ Welfare and Overseas Employment show that in the past, documents accompanying around 70 per cent of repatriated bodies stated natural causes as the cause of death.
+
+During the first nine months of this year, 66 per cent of deaths were recorded as natural, while the remaining 34 per cent were attributed to accidents and other causes.
+
+An analysis of the causes of death shows that more than 16 per cent of migrant workers who died this year died in road accidents, workplace accidents, fires, falls from buildings or electrocution.
+
+In 2023, the Wage Earners’ Welfare Board analysed five years of data on migrant workers who died abroad. From 2018 to 2022, the bodies of 18,166 workers were brought back to Bangladesh. Of them, 3,698 died in road accidents, workplace accidents, fires, falls from buildings or electric shocks. The highest number—2,649—died in road accidents.
+
+Overall, more than 20 per cent of expatriate workers died in various accidents related to their work, according to officials familiar with the matter. Such accidents occur while travelling to and from work and during working hours, they said.
+
+Foyez Ahmed of Noakhali had been working in Saudi Arabia for 10 years. His younger brother Sujon Ahmed had joined him at the same workplace seven months earlier. The two brothers worked together transporting dates in the same vehicle. They died in a road accident on 16 July. Their bodies arrived in Bangladesh on 28 July.
+
+Their father, Abdul Malek, told Prothom Alo, “Everything suddenly came to an end.” The Welfare Board provided Tk 35,000 for each body for burial, a total of Tk 70,000.
+
+The Welfare Board provides Tk 35,000 in cash for the burial of every deceased worker whose body is brought back to Bangladesh. Families are then given a financial grant of Tk 300,000.
+
+In addition, workers’ families now receive life-insurance benefits, while any compensation owed abroad is recovered through the embassy. Embassies also take steps to recover any unpaid wages or other dues owed to deceased workers.
+
+According to Welfare Board data, Tk 94.5 million was provided for the burial of bodies during the first six months of this year, while Tk 615.6 million was distributed as financial grants. More than Tk 440 million was provided in insurance benefits. Around Tk 750 million in compensation, unpaid dues and insurance claims was recovered from abroad and paid to families.
+
+There are various complaints regarding the recovery of financial grants, compensation and insurance benefits for migrant workers. People involved in the sector say applicants often have to make repeated visits to the Welfare Board for days on end.
+
+In some cases, families become financially distressed by the time they receive assistance. Undocumented workers who return after losing everything abroad do not receive these government benefits, they said.
+
+Migration-sector research organisations say a large proportion of Bangladeshi workers in the Middle East are employed mainly in infrastructure construction. They have to work outdoors in extreme heat during the day. Heat-related illnesses can damage not only the kidneys but also every organ in the body, including the brain. Temperatures in these countries are also rising because of climate change.
+
+Extreme heat is increasing the risk of death among Bangladeshi migrant workers in the Middle East. Prolonged exposure to extreme heat and sunlight creates long-term health risks, potentially requiring lifelong medical care. Rising temperatures during both day and night place increasing stress on the body and can worsen respiratory illnesses, heart disease, diabetes and kidney disease. These conditions can also lead to premature death.
+
+## Knowing the causes could help reduce deaths
+
+Officials of the Ministry of Expatriates’ Welfare and Overseas Employment say BMET provides training before workers are sent abroad. The training gives departing workers an overview of the destination country’s rules, customs and safety practices. However, it is only a three-day workshop, in which little can be taught properly.
+
+Workers should receive training on the nature and environment of work in their destination country, ways of coping with workplace pressure and working hours, and how to stay healthy while adapting to a different environment, they said.
+
+Shariful Hasan, head of the BRAC migration programme, told Prothom Alo that the number of deaths is increasing every year. Young people aged 25 to 30 are also dying. More than 70 per cent of the bodies come from the Middle East, with the highest number from Saudi Arabia.
+
+“The cause of every death should be investigated. Knowing the causes could help the government take steps to reduce deaths. Women who go abroad are fighting to improve their lives, so the causes of their suicides must be thoroughly investigated,” he said.
+
+He added that there should be no delay in bringing bodies home. “The state must take responsibility for bringing back the bodies even when the worker was undocumented,” he said.
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Bangladesh](https://en.prothomalo.com/bangladesh)
+
+- [Exclusive](/topic/Exclusive)
+- [Expatriate](/topic/expatriate)
+- [Expatriate Workers](/topic/expatriate-workers)
+- [Migrant Tragedies](/topic/migrant-tragedies)

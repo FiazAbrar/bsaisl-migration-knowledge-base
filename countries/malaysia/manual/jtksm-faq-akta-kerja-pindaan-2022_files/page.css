@@ -1,0 +1,27 @@
+/**
+ * @file
+ * Styles for Bootstrap Barrio page.
+ */
+
+/* Hack for .placeholder issue https://www.drupal.org/project/drupal/issues/3233533 */
+em.placeholder {
+  vertical-align: unset!important;
+  cursor: unset!important;
+  background-color: unset!important;
+  opacity: unset!important;
+}
+/*
+     FILE ARCHIVED ON 04:29:32 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:47 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.582
+  load_resource: 285.417
+  PetaboxLoader3.resolve: 231.008
+  PetaboxLoader3.datanode: 36.582
+*/

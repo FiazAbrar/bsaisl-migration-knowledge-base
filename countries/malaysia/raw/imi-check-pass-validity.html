@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>e-Services</title>
+        <link rel="icon" href="/eservices/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <!-- CSS -->
+        <!-- Bootstrap CSS  -->
+        <link href="/eservices/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+      <!--<link href="/eservices/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />-->
+      <!--<link rel="stylesheet" type="text/css" href="/eservices/plugins/cubeportfolio/css/cubeportfolio.min.css">-->
+        <link href="/eservices/css/nivo-lightbox.css" rel="stylesheet" />
+        <link href="/eservices/css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+        <link href="/eservices/css/owl.carousel.css" rel="stylesheet" media="screen" />
+        <link href="/eservices/css/owl.theme.css" rel="stylesheet" media="screen" />
+        <link href="/eservices/css/animate.css" rel="stylesheet" />
+        <link href="/eservices/css/style.css" rel="stylesheet">
+        <link rel="stylesheet" href="/eservices/css/bootstrap.css" type="text/css" media="screen" />
+
+
+        <!-- JS File -->
+        <script src="/eservices/js/jquery.min.js"></script>	 
+        <script src="/eservices/js/bootstrap.min.js"></script>
+        <script src="/eservices/js/jquery.easing.min.js"></script>
+        <script src="/eservices/js/wow.min.js"></script>
+        <script src="/eservices/js/jquery.scrollTo.js"></script>
+        <script src="/eservices/js/jquery.appear.js"></script>
+        <script src="/eservices/js/stellar.js"></script>
+        <!--<script src="/eservices/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>-->
+        <script src="/eservices/js/owl.carousel.min.js"></script>
+        <script src="/eservices/js/nivo-lightbox.min.js"></script>
+        <script src="/eservices/js/custom.js"></script>
+        <script type="text/javascript" src="/eservices/js/clock.min.js"></script>
+        <link rel="stylesheet" href="/eservices/css/datepicker.min.css" />
+        <!--<link rel="stylesheet" href="/eservices/css/datepicker3.min.css" />-->
+        <!--<link rel="stylesheet" href="/eservices/css/datetimepicker.css" />-->
+        <script src="/eservices/js/bootstrap-datepicker.min.js"></script>
+        <!--<script src="/eservices/js/moment.min.js"></script>-->
+        <!--<script src="/eservices/js/bootstrap-datetimepicker.min.js"></script>-->
+        <link rel="stylesheet" type="text/css" href="/eservices/css/dataTables.css" />
+        <script src="/eservices/js/dataTables.bootstrap.min.js"></script>
+        <script src="/eservices/js/jquery.dataTables.min.js"></script>
+        <script src="/eservices/js/formatCurrency.js"></script>
+        <script type="text/javascript" src="/eservices/js/jquery.blockUI.js"></script>
+        <script type="text/javascript" src="/eservices/js/BaseCommon.js?v=3"></script>
+        <script type="text/javascript" src="/eservices/js/validation.js"></script>
+
+        <script type="text/javascript">
+            $(function () {
+                $("#clock").clock();
+            });
+
+
+
+            function validateNumber(elmnt, content) {
+                //if it is character, then remove it..
+                if (isNaN(content)) {
+                    elmnt.value = removeNonNumeric(content);
+                    return;
+                }
+            }
+
+            function convert(val) {
+                var amaun = CurrencyFormatted(val);
+                amaun = CommaFormatted(amaun);
+                return amaun;
+            }
+
+            function removeNonNumeric(strString)
+            {
+                var strValidCharacters = "1234567890+-";
+                var strReturn = "";
+                var strBuffer = "";
+                var intIndex = 0;
+                // Loop through the string
+                for (intIndex = 0; intIndex < strString.length; intIndex++)
+                {
+                    strBuffer = strString.substr(intIndex, 1);
+                    // Is this a number
+                    if (strValidCharacters.indexOf(strBuffer) > -1)
+                    {
+                        strReturn += strBuffer;
+                    }
+                }
+                return strReturn;
+            }
+
+            $(document).ready(function () {
+                $("ul#nav li").attr("onclick", "return true");
+                $('form').submit(function () {
+                });
+
+                $('.uppercase').each(function () {
+                    $(this).blur(function () {
+                        $(this).val($(this).val().toUpperCase());
+                    });
+                });
+
+            });
+
+
+
+        </script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        <link rel="stylesheet" href="/eservices/css/slidercaptcha.css">
+        <script type="text/javascript">
+            var captcha;
+            let verifyResult = null;
+            $(function() {
+                $('#submit').attr("disabled", true);
+                
+                $(this).bind("contextmenu", function(e) {
+                    e.preventDefault();
+                });
+                
+                captcha = sliderCaptcha({
+                    id: 'captcha',
+                    height: 155,
+                    PI: Math.PI,
+                    sliderL: 42,
+                    sliderR: 9,
+                    offset: 5, 
+                    loadingText: 'Loading...',
+                    failedText: 'Try It Again',
+                    barText: 'Slide the Puzzle',
+                    maxLoadCount: 3,
+                    remoteUrl: '/eservices/captcha',
+                    setSrc:function () {
+                        return '/eservices/images/slider/' + Math.round(Math.random() * 4) +'.jpg';
+                    },
+                    onSuccess: function () {
+                      $('#submit').attr("disabled", false);
+                      verifyResult = true;
+                    },
+                    onFail: function () {
+                      $('#submit').attr("disabled", true);
+                      verifyResult = null;
+                    },
+                    onRefresh: function () {
+                      $('#submit').attr("disabled", true);
+                      verifyResult = null;
+                    }
+                });
+            }); 
+            
+            function fnStatusSemakan2() {
+                if(!validateSubmit())
+                    return false;
+                
+                var epassNo = $('#epassNo').val();
+                var docNo = $('#docNo').val();  
+                var natCd = $('#natCd').val();
+                 
+                    form = $('form')[0]; 
+                    var url = "/eservices/checkEpassValid?semakanAJAXePass&" + "_epassNo=" + epassNo + "&_docNo=" + docNo + "&_natCd=" + natCd;
+                    $.get(url,
+                            function (data) {
+                                console.log(data);
+                                if (!$.isEmptyObject(data)){
+                                    if (!$.isEmptyObject(data.msrStkrNo)){
+                                        document.getElementById("name").value = data.msrNm;
+                                        document.getElementById("nat").value = data.msrNatCd;
+                                        document.getElementById("passType").value = data.msrPasTypCd;
+                                        document.getElementById("passExpDt").value = data.msrPasExpDt;
+                                        $('#myModal-semakan').modal('toggle');
+                                    } else {
+                                        var content = document.createElement('div');
+                                        content.innerHTML = "Pas Tidak Sah, Sila Rujuk Pejabat Imigresen Malaysia Yang Berdekatan.";
+                                        swal({
+                                            title: '',
+                                            content: content,
+                                            icon: "error",
+                                        });
+                                    }
+                                } else {
+                                    var content = document.createElement('div');
+                                    content.innerHTML = "Tiada Maklumat. Sila Rujuk Pejabat Imigresen Malaysia Yang Berdekatan.";
+                                    swal({
+                                        title: '',
+                                        content: content,
+                                        icon: "error",
+                                    });
+                                }
+                                resetField();
+                            });
+                return true;
+            }
+            
+            function validateSubmit()
+            {
+                var errorMsg = "";
+                var validate = true;
+
+                if ($("#epassNo").val() === '' && $("#docNo").val() === '' && $("#natCd").val() === '')
+                {
+                    $("#epassNo").focus();
+                    validate = false;
+                    errorMsg = "Sila Isikan Nombor ePass atau No Dokumen dan Warganegara.";
+                } else if ($("#docNo").val() !== '' && $("#natCd").val() === '') {
+                    $("#docNo").focus();
+                    validate = false;
+                    errorMsg = "Sila Isikan Nombor Dokumen dan Warganegara";
+                } if(verifyResult === null){                    
+                    validate = false;
+                    errorMsg = "Sila sahkan captcha sebelum meneruskan transaksi.";
+                } 
+
+                if (!validate) {
+                   swal("", errorMsg, "error");
+                }
+
+                return validate;
+            }
+            
+            function resetField() {
+                document.getElementById("epassNo").value = '';
+                document.getElementById("docNo").value = '';
+                document.getElementById("natCd").value = '';
+                
+                verifyResult = null;
+                if(captcha){
+                    captcha.reset();
+                }
+                
+                $('#submit').attr("disabled", true);
+            }
+            
+        </script>
+    <!-- boxed bg -->
+        <link id="bodybg" href="/eservices/bodybg/bg1.css" rel="stylesheet" type="text/css" />
+        <!-- template skin -->
+        <link id="t-colors" href="/eservices/color/default.css" rel="stylesheet" />
+    </head>
+
+    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+        <img src="/eservices/images/ajax-loader.gif" id="displayBox" style="display: none"/>
+        <div id="wrapper">
+
+            <!-- Start Header Section -->          
+
+
+            <!-- Start Navigation Section -->
+            <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+                <div class="top-area top-padding" style="background-color: white !important; background-image: url('img/new/bg2.png');background-repeat: repeat-x;">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-6">
+                                <div>
+                                    <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="ms">
+                                    <div style="float:left"> <img src="/eservices/img/new/jata.png" width="80px" height="auto" alt="" class="img-responsive"></div>
+                                    <div style="float:left; margin-left: 10px;"><img src="/eservices/img/new/jim.png" width="80px" height="auto" alt="" class="img-responsive"></div>
+                                    <div style="float:left; margin-left: 10px;"><img src="/eservices/img/new/headerText.png" width="240px" height="auto" alt="" class="img-responsive"></div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6">
+                                <p class="bold text-right">                    
+                                    <span id="clock" style="color: black"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-menu">
+                    <div class="container navigation" >
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                                <i class="glyphicon glyphicon-list"></i>
+                            </button>
+                            <a class="navbar-brand" href="index.html">
+                                <!--<img src="/eservices/img/logo.png" alt="" width="50" height="56" />-->
+                            </a>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse navbar-left navbar-main-collapse" >
+                                <ul class="nav navbar-nav">
+                                    <li class="active"><a href="/eservices/main"><span class="glyphicon glyphicon-home">&nbsp;</span>Home</a></li>
+                                    <li class="active"><a href="/eservices/main?logMasuk"><span class="glyphicon glyphicon-list">&nbsp;</span>Login</a></li>
+                                </ul>
+                            </div>
+                            <!-- /.navbar-collapse -->
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <!-- /.container -->
+
+        <footer>
+            <!-- Section: intro -->
+            <section id="intro" class="intro">                
+                <div class="intro-content">
+                    
+        <form method="post" action="/eservices/checkEpassValid;jsessionid=3ACCC72EEF903DCF63FE52E50610B86C.worker203"><div class="row"> 
+                <div class="col-md-12">
+                    <div class="welcome-text-2">
+                        <div class="content-section">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h3 class="text-center"><u>Semakan Maklumat ePass</u></h3>
+                                    </div>
+                                    <div class=" col-lg-offset-4 col-lg-4">
+                                        <h5 class="text-center">Laman web ini adalah untuk kemudahan pihak berkuasa atau agensi yang ingin menyemak maklumat ePass.</h5>
+                                    </div>
+                                </div>
+                                <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="en" />
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s" align="left">
+                                                <div class="panel-body">
+                                                    <div class="panel panel-skin">
+                                                        <!-- Toggle Heading -->
+                                                        <div class="panel-heading">
+                                                            <h4 class="panel-title" style="text-align:center " >
+                                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
+                                                                    <i class="fa fa-angle-up control-icon"></i>ePASS
+                                                                </a>
+                                                            </h4>
+                                                        </div>
+                                                        <!--end panel heading-->
+                                                        <div id="collapse-1" class="panel-collapse collapse in ui-select">
+                                                            <div class="panel-body">
+                                                                <br/>
+                                                                <div class="form-horizontal">
+                                                                    <div class="row form-group">
+                                                                        <label class="control-label col-lg-3 col-sm-3" for="epassNo">No ePass<em>*</em> :</label>
+                                                                        <div class="col-lg-6 col-sm-6">
+                                                                            <input maxlength="20" name="epassNo" id="epassNo" type="text" class="form-control uppercase" /></div>
+                                                                        <div class="col-lg-3 col-sm-3">
+                                                                            <small>(Contoh : EP141011C23105313148)</small>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row form-group">
+                                                                        <label class="control-label col-lg-3 col-sm-3" for="docNo">No Dokumen<em>*</em> :</label>
+                                                                        <div class="col-lg-6 col-sm-6">
+                                                                            <input maxlength="15" name="docNo" id="docNo" type="text" class="form-control uppercase" /></div>
+                                                                        <div class="col-lg-3 col-sm-3">
+                                                                            <small>(Contoh : A1234567)</small>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row form-group">
+                                                                        <label class="control-label col-lg-3 col-sm-3" for="natCd">Warganegara<em>*</em> :</label>
+                                                                        <div class="col-lg-6 col-sm-6">
+                                                                            <select name="natCd" id="natCd" class="form-control col-sm-3"><option value="">Sila Pilih</option><option value="AFG">AFGHANISTAN                             </option><option value="ALB">ALBANIA                                 </option><option value="DZA">ALGERIA                                 </option><option value="ASM">AMERICAN SAMOA                          </option><option value="AND">ANDORRA                                 </option><option value="AGO">ANGOLA                                  </option><option value="AIA">ANGUILLA                                </option><option value="ATA">ANTARCTICA                              </option><option value="ATG">ANTIGUA AND BARBUDA                     </option><option value="ARG">ARGENTINA                               </option><option value="ARM">ARMENIA                                 </option><option value="ABW">ARUBA                                   </option><option value="AUS">AUSTRALIA                               </option><option value="AUT">AUSTRIA                                 </option><option value="AZE">AZERBAIJAN                              </option><option value="BHS">BAHAMAS                                 </option><option value="BHR">BAHRAIN                                 </option><option value="BGD">BANGLADESH                              </option><option value="BRB">BARBADOS                                </option><option value="BLR">BELARUS                                 </option><option value="BEL">BELGIUM                                 </option><option value="BLZ">BELIZE                                  </option><option value="BEN">BENIN                                   </option><option value="BMU">BERMUDA                                 </option><option value="BTN">BHUTAN                                  </option><option value="BOL">BOLIVIA                                 </option><option value="BIH">BOSNIA AND HERZEGOVINA                  </option><option value="BWA">BOTSWANA                                </option><option value="BVT">BOUVET ISLAND                           </option><option value="BRA">BRAZIL                                  </option><option value="IOT">BRITISH INDIAN OCEAN TERRITORY          </option><option value="GBN">BRITISH NATIONAL OVERSEAS               </option><option value="GBO">BRITISH OVERSEAS CITIZENS               </option><option value="GBP">BRITISH PROTECTED PERSON                </option><option value="GBS">BRITISH SUBJECT                         </option><option value="BRN">BRUNEI DARUSSALAM                       </option><option value="BGR">BULGARIA                                </option><option value="BFA">BURKINA FASO                            </option><option value="BDI">BURUNDI                                 </option><option value="KHM">CAMBODIA                                </option><option value="CMR">CAMEROON                                </option><option value="CAN">CANADA                                  </option><option value="CPV">CAPE VERDE                              </option><option value="CYM">CAYMAN ISLANDS                          </option><option value="CAF">CENTRAL AFRICAN REPUBLIC                </option><option value="TCD">CHAD                                    </option><option value="CHL">CHILE                                   </option><option value="CHN">CHINA                                   </option><option value="CXR">CHRISTMAS ISLAND                        </option><option value="CCK">COCOS ISLANDS                           </option><option value="COL">COLOMBIA                                </option><option value="COM">COMOROS                                 </option><option value="COG">CONGO                                   </option><option value="COK">COOK ISLANDS                            </option><option value="CRI">COSTA RICA                              </option><option value="CIV">COTE D'IVOIRE                           </option><option value="HRV">CROATIA                                 </option><option value="CUB">CUBA                                    </option><option value="CYP">CYPRUS                                  </option><option value="CZE">CZECH REPUBLIC                          </option><option value="DPR">DEMOCRATIC PEOPLES REPUBLIC OF KOREA    </option><option value="COD">DEMOCRATIC REPUBLIC OF THE CONGO        </option><option value="DNK">DENMARK                                 </option><option value="DJI">DJIBOUTI                                </option><option value="DMA">DOMINICA                                </option><option value="DOM">DOMINICAN REPUBLIC                      </option><option value="ECU">ECUADOR                                 </option><option value="EGY">EGYPT                                   </option><option value="SLV">EL SALVADOR                             </option><option value="GNQ">EQUATORIAL GUINEA                       </option><option value="ERI">ERITREA                                 </option><option value="EST">ESTONIA                                 </option><option value="ETH">ETHIOPIA                                </option><option value="EUE">EUROPEAN UNION LAISSER PASSER           </option><option value="FLK">FALKLAND ISLAND (MALVINAS)              </option><option value="FRO">FAROE ISLANDS                           </option><option value="FJI">FIJI                                    </option><option value="FIN">FINLAND                                 </option><option value="FXX">FINLAND, METROPOLITAN                   </option><option value="FRA">FRANCE                                  </option><option value="GUF">FRENCH GUIANA                           </option><option value="PYF">FRENCH POLYNESIA                        </option><option value="ATF">FRENCH SOUTHERN TERRITORIES             </option><option value="GAB">GABON                                   </option><option value="GMB">GAMBIA                                  </option><option value="GEO">GEORGIA                                 </option><option value="DGR">GERMANY                                 </option><option value="DEU">GERMANY                                 </option><option value="GHA">GHANA                                   </option><option value="GIB">GIBRALTAR                               </option><option value="GRC">GREECE                                  </option><option value="GRL">GREENLAND                               </option><option value="GRD">GRENADA                                 </option><option value="GLP">GUADELOUPE                              </option><option value="GUM">GUAM                                    </option><option value="GTM">GUATEMALA                               </option><option value="GNB">GUIENA-BISSAU                           </option><option value="GIN">GUINEA                                  </option><option value="GUY">GUYANA                                  </option><option value="HTI">HAITI                                   </option><option value="HMD">HEARD AND MCDONALD ISLANDS              </option><option value="VAT">HOLY SEE (VATICAN CITY STATE)           </option><option value="HND">HONDURAS                                </option><option value="HKG">HONG KONG SAR                           </option><option value="HUN">HUNGARY                                 </option><option value="ISL">ICELAND                                 </option><option value="IND">INDIA                                   </option><option value="IDN">INDONESIA                               </option><option value="IRN">IRAN                                    </option><option value="IRQ">IRAQ                                    </option><option value="IRL">IRELAND                                 </option><option value="ITA">ITALY                                   </option><option value="JAM">JAMAICA                                 </option><option value="JPN">JAPAN                                   </option><option value="001">JOHOR                                   </option><option value="JOR">JORDAN                                  </option><option value="KAZ">KAZAKHSTAN                              </option><option value="002">KEDAH                                   </option><option value="003">KELANTAN                                </option><option value="KEN">KENYA                                   </option><option value="KIR">KIRIBATI                                </option><option value="KWT">KUWAIT                                  </option><option value="KGZ">KYRGYZSTAN                              </option><option value="LAO">LAO PDR                                 </option><option value="LVA">LATVIA                                  </option><option value="LBN">LEBANON                                 </option><option value="LSO">LESOTHO                                 </option><option value="LBR">LIBERIA                                 </option><option value="LBY">LIBYA                                   </option><option value="LIE">LIECHTENSTEIN                           </option><option value="LTU">LITHUANIA                               </option><option value="LUX">LUXEMBOURG                              </option><option value="MAC">MACAO SAR                               </option><option value="MDG">MADAGASCAR                              </option><option value="MWI">MALAWI                                  </option><option value="MYS">MALAYSIA                                </option><option value="MDV">MALDIVES                                </option><option value="MLI">MALI                                    </option><option value="MLT">MALTA                                   </option><option value="MHL">MARSHALL ISLANDS                        </option><option value="MTQ">MARTINIQUE                              </option><option value="MRT">MAURITANIA                              </option><option value="MUS">MAURITIUS                               </option><option value="MYT">MAYOTTE                                 </option><option value="004">MELAKA                                  </option><option value="MEX">MEXICO                                  </option><option value="FSM">MICRONESIA,FEDERATED STATES OF          </option><option value="MCO">MONACO                                  </option><option value="MNG">MONGOLIA                                </option><option value="MNE">MONTENEGRO                              </option><option value="MSR">MONTSERRAT                              </option><option value="MAR">MOROCCO                                 </option><option value="MOZ">MOZAMBIQUE                              </option><option value="MMR">MYANMAR                                 </option><option value="NAM">NAMIBIA                                 </option><option value="NRU">NAURU                                   </option><option value="NNS">NEGARA-NEGARA SUMBER                    </option><option value="005">NEGERI SEMBILAN                         </option><option value="NPL">NEPAL                                   </option><option value="NLD">NETHERLANDS                             </option><option value="ANT">NETHERLANDS ANTILLES                    </option><option value="NTZ">NEUTRAL ZONE                            </option><option value="NCL">NEW CELEDONIA                           </option><option value="NZL">NEW ZEALAND                             </option><option value="NIC">NICARAGUA                               </option><option value="NER">NIGER                                   </option><option value="NGA">NIGERIA                                 </option><option value="ZZD">NIL                                     </option><option value="NIU">NIUE                                    </option><option value="NFK">NORFOLK ISLAND                          </option><option value="MNP">NORTHERN MARIANA ISLANDS                </option><option value="NOR">NORWAY                                  </option><option value="OMN">OMAN                                    </option><option value="006">PAHANG                                  </option><option value="PAK">PAKISTAN                                </option><option value="PLW">PALAU                                   </option><option value="PAL">PALESTINE                               </option><option value="PSE">PALESTINE                               </option><option value="PAN">PANAMA                                  </option><option value="PNG">PAPUA NEW GUINEA                        </option><option value="PRY">PARAGUAY                                </option><option value="008">PERAK                                   </option><option value="009">PERLIS                                  </option><option value="PER">PERU                                    </option><option value="PHL">PHILIPPINES                             </option><option value="PCN">PITCAIRN ISLAND                         </option><option value="POL">POLAND                                  </option><option value="PRT">PORTUGAL                                </option><option value="PRI">PUERTO RICO                             </option><option value="007">PULAU PINANG                            </option><option value="QAT">QATAR                                   </option><option value="XXC">REFUGEE                                 </option><option value="XXB">REFUGEE ARTICLE 1/1951                  </option><option value="MDA">REP OF MOLDOVA                          </option><option value="RKS">REP. KOSOVO                             </option><option value="KOR">REPUBLIC OF KOREA                       </option><option value="KOS">REPUBLIC OF KOSOVO                      </option><option value="MKD">REPUBLIC OF MACEDONIA                   </option><option value="ROS">REPUBLIC OF SOMALILAND                  </option><option value="SSD">REPUBLIC OF SOUTH SUDAN                 </option><option value="REU">REUNION                                 </option><option value="ROM">ROMANIA                                 </option><option value="ROU">ROMANIA                                 </option><option value="RUS">RUSSIA                                  </option><option value="RWA">RWANDA                                  </option><option value="012">SABAH                                   </option><option value="SHN">SAINT HELENA                            </option><option value="KNA">SAINT KITTS AND NEVIS                   </option><option value="LCA">SAINT LUCIA                             </option><option value="SPM">SAINT PIERRE AND MIQUELON               </option><option value="VCT">SAINT VINCENT AND THE GRENADINES        </option><option value="WSM">SAMOA                                   </option><option value="SMR">SAN MARINO                              </option><option value="STP">SAO TOME AND PRINCIPE                   </option><option value="013">SARAWAK                                 </option><option value="SAU">SAUDI ARABIA                            </option><option value="010">SELANGOR                                </option><option value="SEN">SENEGAL                                 </option><option value="SER">SERBIA                                  </option><option value="SRB">SERBIA                                  </option><option value="SCG">SERBIA AND MONTENEGRO                   </option><option value="SYC">SEYCHELLES                              </option><option value="SLE">SIERRA LEONE                            </option><option value="SGP">SINGAPORE                               </option><option value="049">SINGAPURA                               </option><option value="SVK">SLOVAKIA                                </option><option value="SVN">SLOVENIA                                </option><option value="SLB">SOLOMON ISLANDS                         </option><option value="SOM">SOMALIA                                 </option><option value="ZAF">SOUTH AFRICA                            </option><option value="SGS">SOUTH GEORGIA &amp; THE SOUTH SANDWICH IS   </option><option value="ESP">SPAIN                                   </option><option value="LKA">SRI LANKA                               </option><option value="ZZA">STATELESS                               </option><option value="XXA">STATELESS PERSON ARTICLE 1/1954         </option><option value="SDN">SUDAN                                   </option><option value="SUR">SURINAME                                </option><option value="SJM">SVALBARD AND JAN MAYEN ISLANDS          </option><option value="SWZ">SWAZILAND                               </option><option value="SWE">SWEDEN                                  </option><option value="CHE">SWITZERLAND                             </option><option value="SYR">SYRIA                                   </option><option value="TWN">TAIWAN                                  </option><option value="TJK">TAJIKISTAN                              </option><option value="TZA">TANZANIA                                </option><option value="011">TERENGGANU                              </option><option value="THA">THAILAND                                </option><option value="FYR">THE FORMER YUGOSLAV REP. OF MACEDONIA   </option><option value="ZZB">TIDAK DINYATAKAN OLEH KLN               </option><option value="TLS">TIMOR LESTE                             </option><option value="TMP">TIMOR LESTE                             </option><option value="TGO">TOGO                                    </option><option value="TKL">TOKELAU                                 </option><option value="TON">TONGA                                   </option><option value="TTO">TRINIDAD AND TOBAGO                     </option><option value="TUN">TUNISIA                                 </option><option value="TUR">TURKIYE                                 </option><option value="TKM">TURKMENISTAN                            </option><option value="TCA">TURKS AND CAICOS ISLANDS                </option><option value="TUV">TUVALU                                  </option><option value="UGA">UGANDA                                  </option><option value="GBD">UK-DEPENDENT                            </option><option value="UKR">UKRAINE                                 </option><option value="UNA">UN SPECIALIZED AGENCY                   </option><option value="UNH">UNHCR                                   </option><option value="ARE">UNITED ARAB EMIRATES                    </option><option value="GBR">UNITED KINGDOM                          </option><option value="UNO">UNITED NATIONS ORGANIZATION             </option><option value="UMI">UNITED STATES MINOR OUTLYING ISLANDS    </option><option value="ZZZ">UNKNOWN                                 </option><option value="ESH">UNKNOWN / UNSPECIFIED NATIONALITY       </option><option value="XXX">UNSPECIFIED NATIONALITY                 </option><option value="URY">URUGUAY                                 </option><option value="USA">USA                                     </option><option value="UZB">UZBEKISTAN                              </option><option value="VUT">VANUATU                                 </option><option value="VEN">VENEZUELA                               </option><option value="VNM">VIETNAM                                 </option><option value="VGB">VIRGIN ISLANDS (BRITISH)                </option><option value="VIR">VIRGIN ISLANDS (USA)                    </option><option value="WLF">WALLIS AND FUTURA ISLANDS               </option><option value="014">WP KUALA LUMPUR                         </option><option value="015">WP LABUAN                               </option><option value="016">WP PUTRAJAYA                            </option><option value="YEM">YEMEN                                   </option><option value="YUG">YUGOSLAVIA                              </option><option value="ZAR">ZAIRE                                   </option><option value="ZMB">ZAMBIA                                  </option><option value="ZWE">ZIMBABWE                                </option><option value="ZIM">ZIMBABWE                                </option></select></div>
+                                                                        <div class="col-lg-3 col-sm-3">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row form-group">
+                                                                        <label class="col-md-4 control-label">&nbsp;</label>
+                                                                        <div class="col-md-12" style="text-align: left;">
+                                                                            <div class="form-group">
+    <div class="col-md-12">
+        <input name="sliderCapture" id="sliderCapture" type="hidden" value="" /><center>
+        <div class="slidercaptcha card">
+            <div class="card-header">
+              <span>Drag To Verify</span>
+            </div>
+            <div class="card-body">
+              <div id="captcha" required></div>
+            </div>
+          </div>
+        </center>
+        <script src="/eservices/js/longbow.slidercaptcha.js"></script>
+    </div>
+</div></div>
+                                                                    </div>
+                                                                    <div class="row form-group">
+                                                                        <div class="col-lg-6 col-lg-offset-3 col-sm-6 col-sm-offset-3">
+                                                                            <button id="submit" type="button" class="btn btn-primary" onclick="return fnStatusSemakan2();">SEMAKAN</button>
+                                                                            <!--<input onclick="return validateSubmit();" name="statusSemakan" type="submit" class="btn btn-primary toggle-loading" value="SEMAKAN" />&nbsp;-->
+                                                                            <button type="button" class="btn btn-info" onclick="resetField();">SET SEMULA</button>
+                                                                            <!--<button type="button" class="btn btn-info" onclick="fnStatusSemakan();">TEST SEMAKAN</button>-->
+                                                                            <!--<button type="button" class="btn btn-info" onclick="fnStatusSemakan2();">TEST SEMAKAN 2</button>-->
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                                            
+            <div id="myModal-semakan" class="modal fade" role="dialog">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title">
+                                <div>SEMAKAN</div>
+                            </h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="">
+                                <div class="panel panel-skin">
+                                    <div class="panel-heading">
+                                        Maklumat ePass
+                                    </div>
+                                    <div class="panel-body form-horizontal">
+                                        <div class="row form-group">
+                                            <div class=""><label class="control-label col-lg-3" for="name">Nama : </label></div>
+                                            <div class="col-lg-8"><input type="text" class="form-control" id="name" disabled></div>
+                                        </div>
+                                        <div class="row form-group">
+                                            <div class=""><label class="control-label col-lg-3" for="nat">Warganegara : </label></div>
+                                            <div class="col-lg-8"><input type="text" class="form-control" id="nat" disabled></div>
+                                        </div>
+                                        <div class="row form-group">
+                                            <div class=""><label class="control-label col-lg-3" for="passType">Jenis Pas : </label></div>
+                                            <div class="col-lg-8"><input type="text" class="form-control" id="passType" disabled></div>
+                                        </div>
+                                        <div class="row form-group">
+                                            <div class=""><label class="control-label col-lg-3" for="passExpDt">Tarikh Tamat Pas : </label></div>
+                                            <div class="col-lg-8"><input type="text" class="form-control" id="passExpDt" disabled></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div style="display: none;"><input type="hidden" name="_sourcePage" value="668jZ-Rv5_iXY58ay591Au2pgstgKvDw8OVv3jK1v26aUMt7KdsaFHqwEerT6XFK" /><input type="hidden" name="__fp" value="SqZTHO1eTVG2SkIMPUAnSg==" /></div></form><br>
+                </div>
+            </section>
+        </footer>
+        <!-- End Navigation Section --> 
+        <div class="sub-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="wow fadeInLeft">
+                            <div class="text-left">
+                                <p ><strong>MyIMMs - eServices | &copy; Jabatan Imigresen Malaysia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keperluan Laman Web | Pelayar yang disyorkan : Firefox 30+,Safari 7+, Internet Explorer 11+</strong></p>                                  
+                            </div>
+                            <div class="text-right">
+                                <p><strong><br></strong></p>                            
+                            </div>
+                        </div>
+                    </div>
+                </div>	
+            </div>
+        </div>
+        <!-- End Copyright Section -->
+        <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+    </body>
+    <div class="modal" id="deleteModal">
+        <form data-toggle="validator" role="form">
+            <div class="modal-dialog" style="border: 1px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">
+                            <div>Validation</div>
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        Are you sure want to Log Out?
+                    </div>
+                    <div class="modal-footer">
+
+                        <a href="/eservices/logout" class="btn btn-primary" style="width:100px;">Yes</a>&nbsp;
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="No" id="cancelBtn" style="width:100px;"/>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </form>
+    </div>
+    <div class="modal" id="deleteModalPmt">
+        <form data-toggle="validator" role="form">
+            <div class="modal-dialog" style="border: 1px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">
+                            <div>Validation</div>
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        Anda pasti untuk Log Keluar?
+                    </div>
+                    <div class="modal-footer">
+
+                        <a href="/eservices/logoutPmt" class="btn btn-primary" style="width:100px;">Yes</a>&nbsp;
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="No" id="cancelBtn" style="width:100px;"/>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </form>
+    </div>
+</html>
+

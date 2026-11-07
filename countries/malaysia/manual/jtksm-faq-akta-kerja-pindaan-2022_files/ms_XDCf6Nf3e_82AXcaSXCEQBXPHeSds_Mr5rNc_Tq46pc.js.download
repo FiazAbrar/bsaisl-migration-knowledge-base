@@ -1,0 +1,27 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+window.drupalTranslations = {"strings":{"":{"Jun":"Jun","Home":"Laman Utama","Close":"Tutup","Next":"Seterusnya","Thu":"Kha","File":"Fail","Cancel":"Batal","Fri":"Jum","Friday":"Jumaat","New revision":"Penyemakan semula yang baharu","Enabled":"Dibolehkan","Disabled":"Dinyahbolehkan","Sat":"Sab","Saturday":"Sabtu","Sunday":"Ahad","Monday":"Isnin","Tuesday":"Selasa","Wednesday":"Rabu","Thursday":"Khamis","Sun":"Aha","Mon":"Isn","Oct":"Okt","Tue":"Sel","Wed":"Rab","Done":"Selesai","Prev":"Sebelum","May":"Mei","Today":"Hari ini","Jan":"Jan","Feb":"Feb","Mar":"Mac","Apr":"Apr","Jul":"Jul","Aug":"Ogo","Sep":"Sep","Nov":"Nov","Dec":"Dis","Su":"Ah","Mo":"Is","Tu":"Se","We":"Ra","Th":"Kh","Fr":"Ju","Sa":"Sa","mm\/dd\/yy":"mm\/dd\/yy"},"Long month name":{"October":"Oktober","September":"September","November":"November","January":"Januari","February":"Februari","March":"Mac","April":"April","May":"Mei","June":"Jun","July":"Julai","August":"Ogos","December":"Disember"}},"pluralFormula":{"1":0,"default":1}};
+}
+
+/*
+     FILE ARCHIVED ON 04:29:38 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:58 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.366
+  load_resource: 123.528
+  PetaboxLoader3.resolve: 86.269
+  PetaboxLoader3.datanode: 13.096
+*/

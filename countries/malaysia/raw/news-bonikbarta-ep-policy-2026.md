@@ -1,0 +1,69 @@
+1.  [Bangladesh](/bangladesh)
+
+## Malaysia to reduce foreign workforce at 5%; Thousands of Bangladeshis face uncertainty
+
+[Staff Correspondent](/sources/S34Cc9jupKQ8iQ8s)
+
+[](https://facebook.com/sharer/sharer.php?u=http://en.bonikbarta.com/bangladesh/eeCDFIQR06g6VwiK/&quote=Malaysia%20to%20reduce%20foreign%20workforce%20at%205%25;%20Thousands%20of%20Bangladeshis%20face%20uncertainty)
+
+[](https://x.com/intent/tweet/?text=Malaysia%20to%20reduce%20foreign%20workforce%20at%205%25;%20Thousands%20of%20Bangladeshis%20face%20uncertainty&hashtags=&via=&related=&url=http://en.bonikbarta.com/bangladesh/eeCDFIQR06g6VwiK/)
+
+[](whatsapp://send?text=Malaysia%20to%20reduce%20foreign%20workforce%20at%205%25;%20Thousands%20of%20Bangladeshis%20face%20uncertainty%20http://en.bonikbarta.com/bangladesh/eeCDFIQR06g6VwiK/)
+
+[](https://telegram.me/share/url?text=Malaysia%20to%20reduce%20foreign%20workforce%20at%205%25;%20Thousands%20of%20Bangladeshis%20face%20uncertainty&url=http://en.bonikbarta.com/bangladesh/eeCDFIQR06g6VwiK/)
+
+[](https://www.linkedin.com/sharing/share-offsite/?url=http://en.bonikbarta.com/bangladesh/eeCDFIQR06g6VwiK/)
+
+[](/cdn-cgi/l/email-protection#efd09c9a8d858a8c9bd2a28e838e969c868ecadddf9b80cadddf9d8a8b9a8c8acadddf89809d8a868881cadddf98809d8489809d8c8acadddf8e9bcadddfdacadddad4cadddfbb87809a9c8e818b9ccadddf8089cadddfad8e8188838e8b8a9c87869ccadddf898e8c8acadddf9a818c8a9d9b8e86819b96c98e829fd48d808b96d2ae8c8c809d8b868188cadddf9b80cadddf9b878acadddfad8e8188838e8b8a9c87cadddfa7868887cadddfac808282869c9c868081cadddf8681cadddfa28e838e969c868ecadddf8e818bcadddf998e9d86809a9ccadddf9d8a838e9b8a8bcadddf9c809a9d8c8a9cc3cadddf82809d8acadddf9b878e81cadddfd7dfdfc3dfdfdfcadddfad8e8188838e8b8a9c87869ccadddf8e9d8acadddf8c9a9d9d8a819b8396cadddf8a829f8380968a8bcadddf8681cadddf9b878acadddf8c809a819b9d96c1cadddfae8b8b869b8680818e838396c3cadddf9c8a998a9d8e83cadddf879a818b9d8a8bcadddf9b87809a9c8e818bcadddf82809d8acadddf8e9d8acadddf8a9c9b86828e9b8a8bcadddf9b80cadddf8d8acadddf9d8a9c868b868188cadddf9b878a9d8acadddf98869b87809a9bcadddf998e83868bcadddf8b808c9a828a819b8e9b868081c1cadddf879b9b9fd5c0c08a81c18d808186848d8e9d9b8ec18c8082c08d8e8188838e8b8a9c87c08a8aacaba9a6bebddfd988d9b99886a4c0)
+
+According to the Bangladesh High Commission in Malaysia and various related sources, more than 800,000 Bangladeshis are currently employed in the country. Additionally, several hundred thousand more are estimated to be residing there without valid documentation.
+
+Malaysia, an emerging economy in Southeast Asia, has initiated a plan to reduce its reliance on foreign labour, aiming to cut the proportion of overseas workers from the current 14 percent to just 5 percent of the total workforce. The primary objective is to increase the participation of local citizens in the job market. If the plan is implemented, thousands of Bangladeshi workers will have to leave the country along with other foreigners. In addition, relevant people warn that this policy may potentially block future recruitment of general labourers from Bangladesh.
+
+According to the Bangladesh High Commission in Malaysia and various related sources, more than 800,000 Bangladeshis are currently employed in the country. Additionally, several hundred thousand more are estimated to be residing there without valid documentation. While a large portion works as general labourers, a significant number of professionals are employed across various sectors under the Employment Pass (EP) visa. Recruitment of Bangladeshi workers has been suspended since 2024. Although the interim government has taken several initiatives to resume the visa process, Malaysia has yet to provide a positive response. Amid this situation, the new policy has triggered deep concern and uncertainty among the Bangladeshi workers and professionals.
+
+The new recruitment policy for expatriate workers will take effect on June 1. Under the new rules, the minimum salary threshold for obtaining a visa has nearly doubled. Furthermore, the duration of stay has been restricted to between five and ten years across three distinct categories. These measures are designed to curb the foreign workforce while boosting local employment and income levels. Consequently, this policy leaves thousands of Bangladeshis with an uncertain future. As per the categories, if the conditions are not met, they will have to return to the country or choose alternate destinations after the stipulated time.
+
+Under the new regulations, the minimum monthly salary thresholds for the three categories of Employment Passes (EP) have been significantly revised. For Category-1, the minimum salary requirement has been doubled from 10,000 Ringgit to 20,000 Ringgit. For Category-2, the threshold has been increased from 10,000 Ringgit to 19,999 Ringgit. The maximum visa duration for both these categories is set at 10 years. Additionally, for Category-3, the salary range has been fixed between 5,000 and 9,999 Ringgit, with a maximum stay of five years. In addition to limiting the duration of stay, employers are now required to present plans for hiring local workers once an expatriate’s term expires.
+
+In its national Five-Year Plan published in 2025, the Malaysian government warned that continuous reliance on low-skilled foreign labour has slowed the country's economic momentum. The 13th Malaysia Plan noted that this dependence has led to a prevalence of low-wage, low-skill jobs and sluggish productivity growth.
+
+As of 2024, foreign workers accounted for 14.1 percent of the total workforce. A Home Ministry statement in January emphasized that stricter conditions would be imposed on high-salaried expatriates to ensure sustainable economic growth and foster local talent. To raise domestic employment, the government aims to bring the foreign labour ratio down to 5 percent by 2035.
+
+Data from the Malaysian media outlet *The Star* suggests that there were 803,332 documented Bangladeshi workers as of June last year. However, members of the Bangladeshi community claim the actual number is nearly double. Many who entered on student visas remained in the country after their studies.
+
+Speaking to *Bonik Barta*, Dr Md Imtiaz Hossain, a lecturer at Sunway University in Malaysia, expressed the anxiety felt by the professional community. "Those of us working as professionals are very concerned. My colleagues are worried too. I had planned to stay here for the long term. Honestly, planned to stay for life, but that is no longer possible. We have to look for alternatives," he said.
+
+He added, “It may not be possible to understand the overall impact immediately of the Malaysian government's new policy. Because HR doesn’t inform us of anything. Even if it does affect all sectors, many will lose their job. It may have happened gradually. Local talents take these jobs, and foreigners may have to return home.”
+
+Dr Imtiaz Hossain also noted that implementing the new salary structure would be difficult for small and medium enterprises (SMEs), except for large organizations, likely forcing them to hire locals over foreigners.
+
+Shahriar, who works at a financial institution in Malaysia, told *Bonik Barta*, "The new immigration policy will have a massive impact. Unless someone is exceptionally qualified, employers won’t retain Bangladeshis. They will opt for locals at relatively lower wages. Because there are job crisis here. But employers aren’t satisfied with high salary demands from locals."
+
+According to Bangladesh Bank, Malaysia is currently the fourth-largest source of remittances. In the first seven months of the 2025-26 fiscal year (July-January), expatriates in Malaysia sent around \$2.03 billion. In the previous 2024-25 fiscal year, the total remittance from Malaysia stood at around \$2.80 billion, ranking it fifth on the list of top remittance-sending countries.
+
+Migration expert Asif Munier told *Bonik Barta* that unless professionals possess high-level skills, they may be forced to return. "Employers will consider hiring locals at a lower salary. This will shrink the workspace for Bangladeshis. The government needs to adopt a strategy now to find alternative destinations for our professional category workers," he said.
+
+Editor and Publisher: Dewan Hanif Mahmud
+
+BDBL Building (Level 17), 12 Kazi Nazrul Islam Avenue, Kawran Bazar, Dhaka-1215
+
+News & Editorial Department: Phone: 55014301-06, E-mail: [\[email protected\]](/cdn-cgi/l/email-protection), [\[email protected\]](/cdn-cgi/l/email-protection) (Online)
+
+Advertising and Circulation Department: Phone: 55014308-14, Fax: 55014315
+
+### আরও
+
+[](/)
+
+Editor & Publisher: Dewan Hanif Mahmud
+
+BDBL Building (Level 17), 12 Kazi Nazrul Islam Avenue, Karwan Bazar, Dhaka-1215
+
+News & Editorial Department: Phone: 55014301-06, E-mail: [\[email protected\]](/cdn-cgi/l/email-protection), [\[email protected\]](/cdn-cgi/l/email-protection) (Online)
+
+Advertising and Circulation Department: Phone: 55014308-14, Fax: 55014315
+
+[![](/icons/facebook.svg)](https://www.facebook.com/dailybonikbarta "Facebook") [![](/icons/youtube.svg)](https://www.youtube.com/@DailyBonikbartanews/ "YouTube") [![](/icons/x.svg)](https://x.com/bonikbartadaily/ "X") [![](/icons/instagram.svg)](https://www.instagram.com/dailybonikbarta/ "Instagram")
+
+Copyright © 2011-2026 Bonik Barta

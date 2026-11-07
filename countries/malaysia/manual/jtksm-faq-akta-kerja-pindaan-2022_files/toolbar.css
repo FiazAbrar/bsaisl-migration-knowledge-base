@@ -1,0 +1,31 @@
+body.toolbar-horizontal #navbar-top.fixed-top,
+body.toolbar-vertical #navbar-top.fixed-top,
+body.toolbar-vertical.toolbar-tray-open #navbar-top.fixed-top,
+body.toolbar-horizontal #navbar-main.fixed-top,
+body.toolbar-vertical #navbar-main.fixed-top,
+body.toolbar-vertical.toolbar-tray-open #navbar-main.fixed-top {
+  top: 40px;
+}
+body.toolbar-horizontal.toolbar-tray-open #navbar-top.fixed-top,
+body.toolbar-horizontal.toolbar-tray-open #navbar-main.fixed-top {
+  top: 80px;
+}
+body.toolbar-fixed .toolbar-oriented .toolbar-bar {
+  z-index: 1040;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:34 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:45 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.467
+  load_resource: 124.943
+  PetaboxLoader3.resolve: 83.834
+  PetaboxLoader3.datanode: 26.452
+*/

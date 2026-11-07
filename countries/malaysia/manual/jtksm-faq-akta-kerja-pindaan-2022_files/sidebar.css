@@ -1,0 +1,52 @@
+/* ------------------ Sidebar ----------------- */
+
+.sidebar .block {
+  border-style: solid;
+  border-width: 1px;
+  padding: 15px 15px;
+  margin: 0 0 20px;
+}
+
+.sidebar h2 {
+  margin: 0 0 0.5em;
+  border-bottom: 1px solid #d6d6d6;
+  padding-bottom: 5px;
+  text-shadow: 0 1px 0 #fff;
+  font-size: 1.071em;
+  line-height: 1.2;
+}
+
+.sidebar .block .content {
+  font-size: 0.914em;
+  line-height: 1.4;
+}
+
+.sidebar tbody {
+  border: none;
+}
+
+.sidebar .even,
+.sidebar .odd {
+  background: none;
+  border-bottom: 1px solid #d6d6d6;
+}
+
+.sidebar nav .nav {
+  margin: 0 -1rem;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:32 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:52 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.447
+  load_resource: 85.167
+  PetaboxLoader3.resolve: 40.146
+  PetaboxLoader3.datanode: 43.663
+*/

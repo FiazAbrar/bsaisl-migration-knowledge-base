@@ -1,0 +1,1 @@
+IMAGE FILE, NO TEXT LAYER. The source is the image imi-mdac-infographic-bm-2023.jpg (also saved as imi-mdac-infographic-bm-2023.html, the original download). Quotes for this source were transcribed from the image and are recorded in the ledger rows that cite it (status note: --no-quote-check).

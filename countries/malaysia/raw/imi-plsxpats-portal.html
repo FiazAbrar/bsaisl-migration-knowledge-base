@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PLS@Xpats</title>
+        <link rel="icon" href="/plsXpats/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <!-- CSS -->
+        <!-- Bootstrap CSS  -->
+        <link href="/plsXpats/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <!--<link href="/plsXpats/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />-->
+        <!--<link rel="stylesheet" type="text/css" href="/plsXpats/plugins/cubeportfolio/css/cubeportfolio.min.css">-->
+        <link href="/plsXpats/css/nivo-lightbox.css" rel="stylesheet" />
+        <link href="/plsXpats/css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+        <link href="/plsXpats/css/owl.carousel.css" rel="stylesheet" media="screen" />
+        <link href="/plsXpats/css/owl.theme.css" rel="stylesheet" media="screen" />
+        <link href="/plsXpats/css/animate.css" rel="stylesheet" />
+        <link href="/plsXpats/css/style.css" rel="stylesheet">
+        <link rel="stylesheet" href="/plsXpats/css/bootstrap.css" type="text/css" media="screen" />
+
+
+        <!-- JS File -->
+        <script src="/plsXpats/js/jquery.min.js"></script>	 
+        <script src="/plsXpats/js/bootstrap.min.js"></script>
+        <script src="/plsXpats/js/jquery.easing.min.js"></script>
+        <script src="/plsXpats/js/wow.min.js"></script>
+        <script src="/plsXpats/js/jquery.scrollTo.js"></script>
+        <script src="/plsXpats/js/jquery.appear.js"></script>
+        <script src="/plsXpats/js/stellar.js"></script>
+        
+        <script src="/plsXpats/js/jquery.userTimeout.js" type="text/javascript"></script>
+        
+        <!--<script src="/plsXpats/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>-->
+        <script src="/plsXpats/js/owl.carousel.min.js"></script>
+        <script src="/plsXpats/js/nivo-lightbox.min.js"></script>
+        <script src="/plsXpats/js/custom.js"></script>
+        <script type="text/javascript" src="/plsXpats/js/clock.min.js"></script>
+        <link rel="stylesheet" href="/plsXpats/css/datepicker.min.css" />
+        <!--<link rel="stylesheet" href="/plsXpats/css/datepicker3.min.css" />-->
+        <!--<link rel="stylesheet" href="/plsXpats/css/datetimepicker.css" />-->
+        <script src="/plsXpats/js/bootstrap-datepicker.min.js"></script>
+        <!--<script src="/plsXpats/js/moment.min.js"></script>-->
+        <!--<script src="/plsXpats/js/bootstrap-datetimepicker.min.js"></script>-->
+        <link rel="stylesheet" type="text/css" href="/plsXpats/css/dataTables.css" />
+        <script src="/plsXpats/js/dataTables.bootstrap.min.js"></script>
+        <script src="/plsXpats/js/jquery.dataTables.min.js"></script>
+        <script src="/plsXpats/js/formatCurrency.js"></script>
+        <script type="text/javascript" src="/plsXpats/js/jquery.blockUI.js"></script>
+
+        <script type="text/javascript">
+            $(function () {
+                $("#clock").clock();
+            });
+
+
+
+            function validateNumber(elmnt, content) {
+                //if it is character, then remove it..
+                if (isNaN(content)) {
+                    elmnt.value = removeNonNumeric(content);
+                    return;
+                }
+            }
+
+            function convert(val) {
+                var amaun = CurrencyFormatted(val);
+                amaun = CommaFormatted(amaun);
+                return amaun;
+            }
+
+            function removeNonNumeric(strString)
+            {
+                var strValidCharacters = "1234567890+-";
+                var strReturn = "";
+                var strBuffer = "";
+                var intIndex = 0;
+                // Loop through the string
+                for (intIndex = 0; intIndex < strString.length; intIndex++)
+                {
+                    strBuffer = strString.substr(intIndex, 1);
+                    // Is this a number
+                    if (strValidCharacters.indexOf(strBuffer) > -1)
+                    {
+                        strReturn += strBuffer;
+                    }
+                }
+                return strReturn;
+            }
+
+            $(document).ready(function () {
+                $("ul#nav li").attr("onclick", "return true");
+                $('form').submit(function () {
+                });
+
+                $('.uppercase').each(function () {
+                    $(this).blur(function () {
+                        $(this).val($(this).val().toUpperCase());
+                    });
+                });
+
+            });
+
+
+
+        </script>
+        
+        
+        <link rel="icon" href="/plsXpats/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <script type="text/javascript">
+
+        </script>
+        <style>
+            .rcorners1 {
+                color: black;
+                border-radius: 5px;
+                background: lightgray;
+                /*background-image: lightgray;*/
+                padding: 20px; 
+                width: 100%;
+                height: 100%;  
+            }
+
+            .btn-primary {
+                font-size: large;
+                color: #fff;
+                background-color: tomato;
+                border-color: white;
+                width: 100px;
+                height: 40px;
+            }
+        </style>
+    <!-- boxed bg -->
+        <link id="bodybg" href="/plsXpats/bodybg/bg1.css" rel="stylesheet" type="text/css" />
+        <!-- template skin -->
+        <link id="t-colors" href="/plsXpats/color/default.css" rel="stylesheet">
+    </head>
+
+    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+        <img src="/plsXpats/images/ajax-loader.gif" id="displayBox" style="display: none"/>
+        <div id="wrapper">
+
+            <!-- Start Header Section -->          
+
+
+            <!-- Start Navigation Section -->
+            <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+                <div class="top-area">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-6">
+                                <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="ms" />
+                                <img src="/plsXpats/img/header.png" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-6 col-md-6">
+                                <p class="bold text-right">                    
+                                    <span id="clock"></span>
+                                </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="container navigation">
+
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" href="index.html">
+                            <!--<img src="/plsXpats/img/logo.png" alt="" width="50" height="56" />-->
+                        </a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-left navbar-main-collapse" >
+                            <ul class="nav navbar-nav">
+                                <li class="active"><a href="/plsXpats/main"><span class="glyphicon glyphicon-home"> </span>Home&nbsp;&nbsp;&nbsp;</a></li>
+                                <li><a href="/plsXpats/semakan"><span class="glyphicon glyphicon-check"> </span>Check Application Status&nbsp;&nbsp;&nbsp;</a></li>
+                            </ul>
+                        </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container -->
+            </nav>
+            <br>
+            <footer>
+                <!-- Section: intro -->
+                <section id="intro" class="intro">
+                    <div class="intro-content">
+                        <div class="container">
+                            <div class="row">
+                                <br/>
+                                
+        <form method="post" name="login" action="/plsXpats/main;jsessionid=DBD47E6B025CFC90BA7C887B4A764755.worker101"><div class="row">
+                <div class="col-md-12">
+                    <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="ms" />
+                    <div class="welcome-text-2">
+                        <div class="content-section" >
+                            <div class="container" >
+                                <div class="row" >
+                                    <div class="col-md-12">
+                                        <div class="form-wrapper" >
+                                            <div class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s" align="center">
+
+                                                <div class="panel panel-skin">
+                                                    <div class="panel-heading">
+                                                        <h3 class="panel-title"><span class="fa fa-pencil-square-o">PLS@XPATS APPLICATIONS</span></h3>
+                                                    </div>
+                                                    <div class="panel-body">
+                                                        <div class="form-horizontal">    
+                                                            <br/>
+                                                            <div class="form-group">
+                                                                <div class="col-md-3"></div>
+                                                                <div class="col-md-6" style="text-align: center">
+                                                                    <a href="/plsXpats/main?termConditionPLS" class="toggle-loading">
+                                                                        <p class="rcorners1">
+                                                                            <strong>APPLICATION FORM</strong>
+                                                                            <br/>
+                                                                        </p>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="col-md-3"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>				
+
+                                            </div>
+                                        </div>
+
+                                    </div> <!-- /.col-md-8 -->
+
+                                </div> <!-- /.row -->
+
+                            </div> <!-- /.container -->
+                        </div> <!-- /.content-section -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- End Copyright Section -->
+            <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+            <div style="display: none;"><input type="hidden" name="_sourcePage" value="SntDyzlZecBJL01TA-uayPG0p7nnm8-NyD_6ffQNgp4=" /><input type="hidden" name="__fp" value="2mX3TFQuaH0=" /></div></form></div>		
+                        </div>
+                        <br>
+                    </div>
+                </section>
+            </footer>
+            <!-- End Navigation Section --> 
+            <div class="sub-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="wow fadeInLeft">
+                                    <div class="col-md-5 col-sm-7">
+                                        <div class="footer-address">
+                                            <h4>Contact Us</h4>
+                                            <address>
+                                                Any inquiries regarding the PLS@Xpats application can be directed to: -
+                                                <br><br>
+                                                <strong><a target="_blank" href="http://eapp.imi.gov.my/tanya/create">http://eapp.imi.gov.my/spo</a></strong>
+                                            </address>                              
+                                        </div>
+                                    </div>
+                                    <div class="col-md-5 col-sm-7">
+                                        <div class="footer-address">
+                                            <h4>Desktop View | Recommended Browser </h4>
+                                            <address>
+                                                Firefox 30+,<br>
+                                                Safari 7+, Internet Explorer 11+ <br>
+                                            </address>
+                                        </div>
+                                        <div class="text-left">
+                                        </div>                                  
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>	
+                    </div>
+                </div>
+            <div class="sub-footer">
+                <div class="container">
+
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="wow fadeInLeft">
+                            <div class="text-left">
+                                <p ><strong>PLS@Xpats | © Jabatan <a href="/plsXpats/main?logMasuk">Imigresen</a> Malaysia</strong></p>                                  
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>    
+
+        </div>
+
+
+        <!-- End Copyright Section -->
+        <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+    </body>
+    <div class="modal" id="deleteModal">
+        <form data-toggle="validator" role="form">
+            <div class="modal-dialog" style="border: 1px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">
+                            <div>Confirmation</div>
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        Are you sure you want to Log Out?
+                    </div>
+                    <div class="modal-footer">
+
+                        <a href="/plsXpats/logout" class="btn btn-primary" style="width:100px;">Ya</a>&nbsp;
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="Tidak" id="cancelBtn" style="width:100px;"/>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </form>
+    </div>
+</html>
+

@@ -1,0 +1,47 @@
+                                      Multiple Entry Visa Fee Table
+
+Country                               Multiple Entry Visa Fee (RM)
+Argentina                                                            20.15
+Bolivia                                                                  11
+Brazil                                                                   17
+Brunei                                                                    0
+Bulgaria                                                             21.90
+Chile                                                                24.50
+China                                                                    30
+Costa Rica                                                                9
+Czech Republic                                                       19.30
+Slovakia                                                             19.30
+Denmark                                                                   6
+Dominican Republic                                                   12.90
+Ecuador                                                                   7
+Finland                                                                   7
+France                                                               12.90
+Haiti                                                                    16
+Hungary                                                              21.45
+India                                                                    50
+Indonesia                                                                15
+Israel                                                                9.70
+Italy                                                                 9.50
+Japan                                                                     0
+Liberia                                                                  13
+Mexico                                                               17.50
+Myanmar(Burma)                                                       19.50
+Panama                                                               14.50
+Philippines                                                              36
+Poland                                                               26.20
+Portugal                                                              6.50
+Saudi Arabia                                                         17.20
+Singapore                                                                 0
+Slovakia                                                             19.30
+South Korea                                                              30
+Sri Lanka                                                                15
+Sudan                                                                12.90
+Thailand                                                                 20
+Uruguay                                                              13.50
+USA                                                                       6
+Venezuela                                                                18
+Vietnam                                                                  13
+All other countries not listed above                                     20
+
+Multiple_Entry_Visa_Fee_Table_v1.3
+

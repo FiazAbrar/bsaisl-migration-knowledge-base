@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ESD</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<link rel="icon" type="image/x-icon" href="/portal/favicon.ico">
+
+	<!-- Include Jquery -->
+	<script src="https://esd.imi.gov.my/portal/js/jquery.js"></script>
+	<script src="https://esd.imi.gov.my/portal/js/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/css/jquery-ui.css">
+
+	<!-- Include Bootstrap -->
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" >
+	<link href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<!-- <script src="/assets/vendor/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="/assets/vendor/respond/1.4.2/respond.min.js"></script> -->
+
+    <!-- Include Bootstrap datepicker -->
+	<link href="https://esd.imi.gov.my/portal/css/datepicker.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap-datepicker.js"></script>
+
+	<!-- Include Fancybox -->
+	<script type="text/javascript" src="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+
+	<!-- Include CSS -->
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/styles2.css">
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/mobile.css">
+
+	<!-- Include Slideer -->
+    <script src="https://esd.imi.gov.my/portal/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="https://esd.imi.gov.my/portal/js/jssor.slider.mini.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/bootstrapValidator.min.css">
+    <script src="https://esd.imi.gov.my/portal/js/bootstrapValidator.min.js"></script>
+
+    <!-- Include Back to top -->
+    <script src="https://esd.imi.gov.my/portal/js/main.js"></script>
+    <script src="https://esd.imi.gov.my/portal/js/modernizr.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).on('load',function(){
+				$('#autopopup').modal('show');
+			});
+
+			// Detact height
+			var wHeight = $(window).height();
+			$( ".mobile-menu" ).click(function() {
+			    $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			    $( ".overlayheight" ).toggle();
+				$( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$( ".overlayheight" ).click(function() {
+			   $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".overlayheight" ).hide();
+			   $( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$(".menu-top .right ul").on('click', 'li', function(e){
+			    $('.menu-top .right ul li').removeClass('active');
+			    $(this).addClass('active');
+			});
+
+			$( ".menu-top .right ul li.login" ).click(function() {
+			   $( ".login-wrapper" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".search-wrapper" ).hide();
+			});
+
+			$( ".menu-top .right ul li.search" ).click(function() {
+			   $( ".search-wrapper" ).toggle("slide", { direction: "up" }, 300);
+			   $( ".login-wrapper" ).hide();
+			});
+
+			$('.datepicker').datepicker()
+
+			// Menu
+		    $(".main-menu li").hover(function () {
+		        $(this).children("ul.sub-menu").show();
+		    }, function () {
+		        $(this).children("ul.sub-menu").hide();
+		    });
+
+		    $( "ul.main-menu li" ).has( "li.active" ).addClass( "active" );
+		    $( "ul.main-menu > li.active " ).find( ".sub-menu" ).addClass( "show-sub" );
+			// var pathname = window.location.pathname; // Returns path only
+			// var url      = window.location.href;     // Returns full URL
+			// $( "ul.main-menu li" ).click(function() {
+			    // if (pathname === url) {
+					// $( "ul.main-menu li" ).addClass( "active" );
+				// };
+			// });
+
+			 // $(".main-menu li").each(function(){
+		        // if($(this).attr("href")==pathname)
+		            // $(this).addClass("active");
+		    // })
+			// console.log(x);
+			// http://stackoverflow.com/questions/406192/get-current-url-in-javascript
+
+
+			// Load more
+		    size_li = $("#myList li").size();
+		    x=3;
+
+		    $("#myList li").hide();
+		    $('#myList li:lt('+x+')').show();
+
+		    $('#loadMore').click(function () {
+		        x= (x+3 <= size_li) ? x+3 : size_li;
+		        $('#myList li:lt('+x+')').show();
+		        $('#showLess').show();
+		        if(x == size_li){
+		            $('#loadMore').hide();
+		        }
+		    });
+
+			//alert login message
+						
+		});
+
+		function formTab(tab){
+			$('.choose-form-content .form-desktop').hide();
+			$('.'+tab+'-detail').show();
+		}
+	</script>
+
+	<style>
+		/* Target the element by its ID */
+		#loginBtn {
+		color: #B3B3B3; /* Initial color */
+		text-decoration: none; /* Optional: remove underline */
+		transition: color 0.3s ease; /* Smooth transition for color change */
+		}
+
+		/* Change color to white on hover */
+		#loginBtn:hover {
+		color: white;
+		}
+	</style>
+
+	<script src="https://www.google.com/recaptcha/api.js?render=6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC"></script>
+	<script>
+		grecaptcha.ready(function() {
+			grecaptcha.execute('6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC', {action: 'submit'}).then(function(token) {
+				var recaptchaField = document.getElementById('g-recaptcha-response');
+				if (recaptchaField) {
+					recaptchaField.value = token;
+				}
+			});
+		});
+	</script>
+	<!-- Hold-to-show eye on password fields -->
+	<script src="/assets/js/password-eye.js?v=20261031"></script>
+</head>
+
+<body>
+	<div class="main-wrapper cd-container">
+		<div class="menu-wrapper">
+						<div class="menu-top">
+				<div class="left">
+					<div class="logo"></div>
+					<div class="esd-title">
+						<h1>Expatriate<br />Services<br />Division</h1>
+						<h4>Bahagian Khidmat Ekspatriat</h4>
+						<small>IMMIGRATION DEPARTMENT OF MALAYSIA</small>
+					</div>
+				</div>
+				<div class="right">
+					<ul>
+												<li class="login">Login</li>
+													<li style="pointer-events: none; cursor: default;">/</li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+						<!-- <li>/</li>
+						<li class="search">Search</li> -->
+						<div style="clear: both;"></div>
+					</ul>
+					<div class="search-wrapper" style="display: none;">
+						<form>
+							<input type="text" name="search" placeholder="SEARCH">
+							<input type="submit" value="Search">
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+										<style>
+						.login-wrapper { background: #1F1E2C; z-index: 50; }
+						@media (min-width: 769px) { .login-wrapper { padding: 4px 14px 14px; margin-right: -14px; box-shadow: 0 8px 18px rgba(0, 0, 0, .45); border-radius: 0 0 4px 4px; } }
+						#passkeyLogin { position: relative; }
+						#passkeyLogin::after { content: attr(aria-label); position: absolute; right: 0; bottom: calc(100% + 6px); display: none; padding: 5px 8px; background: #000; color: #fff; font-size: 11px; line-height: 1.3; white-space: nowrap; border-radius: 3px; pointer-events: none; z-index: 60; }
+						#passkeyLogin:hover::after, #passkeyLogin:focus-visible::after { display: block; }
+					</style>
+					<div class="login-wrapper" style="display: none;">
+						<form name="frmLogin2" id="frmLogin2" method="post" action="/esd/controllers/AccessController.php">
+							<input type="hidden" name="access" id="access" value="login">
+							<input type="text" name="username" id="username" placeholder="LOGIN ID" autocomplete="false" required>
+							<br>
+							<input type="password" name="password" id="password" placeholder="PASSWORD" autocomplete="false" required>
+							<br>
+							<a href="https://esd.imi.gov.my/portal/forgot-password/">Forgot password?</a>
+							 <input type="submit" value="Log In">
+																					<button type="button" id="passkeyLogin" aria-label="Login with a passkey" style="display: none; float: right; width: 34px; height: 28px; margin-right: 6px; padding: 0; background: #009BB5; color: #fff; border: 1px solid #4D4D4D; cursor: pointer;">
+								<svg id="passkeyIconFinger" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M12 10a2 2 0 0 0-2 2c0 1.02-.1 2.51-.26 4"/><path d="M14 13.12c0 2.38 0 6.38-1 8.88"/><path d="M17.29 21.02c.12-.6.43-2.3.5-3.02"/><path d="M2 12a10 10 0 0 1 18-6"/><path d="M2 16h.01"/><path d="M21.8 16c.2-2 .131-5.354 0-6"/><path d="M5 19.5C5.5 18 6 15 6 12a6 6 0 0 1 .34-2"/><path d="M8.65 22c.21-.66.45-1.32.57-2"/><path d="M9 6.8a6 6 0 0 1 9 5.2v2"/></svg>
+								<svg id="passkeyIconFace" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none; vertical-align: middle;"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><path d="M9 9h.01"/><path d="M15 9h.01"/></svg>
+							</button>
+							<div id="passkeyLoginError" style="display: none; clear: both; color: #ffd2cc; font-size: 12px; padding-top: 6px;"></div>
+						</form>
+						<script src="/assets/js/officer-passkey.js?v=20261105b"></script>
+						<script>
+							(function () {
+								if (!window.esdPasskey || !esdPasskey.supported()) {
+									return;
+								}
+								var btn = document.getElementById("passkeyLogin"), err = document.getElementById("passkeyLoginError");
+								if (esdPasskey.faceDevice()) {
+									document.getElementById("passkeyIconFinger").style.display = "none";
+									document.getElementById("passkeyIconFace").style.display = "";
+								}
+								// Shown only while the Password Policy allows passkeys for officers or administrators (asked once in 5 minutes)
+								esdPasskey.available("/esd/officer_passkey.php", function (yes) { btn.style.display = yes ? "block" : "none"; });
+								btn.addEventListener("click", function () {
+									err.style.display = "none";
+									esdPasskey.login("/esd/officer_passkey.php", document.getElementById("username").value.trim(), function (msg) {
+										err.textContent = msg;
+										err.style.display = "block";
+									});
+								});
+							})();
+						</script>
+						<p class="note">
+							Enter your Login ID and Password to access the ESD system.<br />
+							If your company does not have a Login ID, please Register.
+						</p>
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div class="overlayheight" style="display: none;"></div>
+			<div class="mobile-menu rmm-button"  style="display: none;">
+				<h4 class="white">Menu</h4>
+				<div class="menu-line">
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<ul class="main-menu" style="display: ;">
+				<li class=""><a href="https://esd.imi.gov.my/portal/">home</a></li>
+				<li class="" ><a style=" cursor: default;" href="#">About Us</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/esd/">ESD</a></li>
+						<!-- <li class="" ><a href="about-us/testimonials">Testimonials</a></li> -->
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/contact-us">Contact Us</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Employers</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/employers/">Overview</a></li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Expatriates</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="active" ><a style=" cursor: default;" href="#">MYXpats</a>
+						    <ul class="sub-menu three" style="display: none ;">
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Overview </a></li>
+								<li class="active" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/">Key Services </a>
+									<ul class="sub-menu four" style="display: none ;">
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/">Employment Pass</a>
+											<ul class="sub-menu five" style="display:  none ;">
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/">Dependant Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/long-term-social-visit-pass/">Long-Term Social Visit Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/social-visit/">Social Visit (Temporary Employment) - Foreign Maid</a></li>
+											</ul>
+										</li>
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/professional-visit-pass/">Professional Visit Pass</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Latest News</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/news/">News</a>
+                        </li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/announcement/">Announcement</a>
+							<!--
+                            <ul class="sub-menu three" style="display: none ;">
+                            	<li class="" ><a href="latest-news/announcement/message-from-the-director-general-of-immigration-malaysia/">Message from the Director General</a></li>
+                                <li class="" ><a href="latest-news/announcement/message-from-the-chief-executive-officer-of-talentcorp/">Message from the Chief Executive Officer</a></li>
+							 	<li class="" ><a href="latest-news/announcement/roll-out-session/">Roll Out Session </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-firms/">Notice to all firms </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-professional-visit-pass-application/">Notice of Professional<br />Visit Pass Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-renewal-of-employment-pass/">Notice of Renewal of Employment Pass </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-dependent-application/">Notice of Dependent Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-esd-closure/">Notice of ESD Closure </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-third-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-second-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-in-the-oil-gas-energy-sectors/">Notice to all companies in the oil, gas & energy sectors </a></li>
+							</ul>
+                            -->
+						</li>
+                        <!-- <li class="" ><a href="latest-news/newsletter/">Newsletter</a></li> -->
+						<!-- <li class="" ><a href="latest-news/publications/">Publications</a></li> -->
+					</ul>
+				</li>
+				<li class="" ><a style="width: 75px;" href="https://esd.imi.gov.my/portal/faq/">FAQ</a>
+					<ul class="sub-menu" style="display: none; left: -19px; width: 110px;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/esd-company-registration/">ESD – Company Registration </a></li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/myxpats/">MYXpats</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/xpats-gateway/">Xpats Gateway</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/investor-pass/">Investor Pass</a></li>
+					</ul>
+				</li>
+				<li class=""><a href="https://esd.imi.gov.my/portal/downloads">downloads</a></li>
+				<div style="clear: both;"></div>
+			</ul>
+		</div>
+		<div class="content-wrapper">
+        		<div class="breadcrumb-wrapper ">
+				</div>
+        <script>
+function do_login() {
+	if ( (document.frmLogin2.username.value == "") || (document.frmLogin2.password.value=="") ) {
+		alert('Please enter Login ID and Password !');
+		return;
+	} else {
+		document.frmLogin2.submit();
+	}
+}
+</script>
+<div class="key-services-wrapper page-content-wrapper">
+	<h2 class="title">Key services</h2>
+	<div class="line"></div>
+	<div class="content">
+		<div class="left">
+			<p>MYXpats Centre will provide all services related to the processing and issuance of the expatriate Employment Pass and all related documents.</p>
+			<br />
+			<p>Expatriate Employment Pass applications in the following sectors or regions will still be under the purview of the following Approving Authorities:</p>
+			<br />
+			<ul>
+				<li>• Manufacturing (Malaysian Investment Development Authority)</li>
+				<li>• MSC Malaysia status & ICT (Multimedia Development Corporation)</li>
+				<li>• Banking, Finance & Insurance (Bank Negara Malaysia)</li>
+				<li>• Capital market (Securities Commission of Malaysia)</li>
+				<li>• Government Contractual Posts (Public Services Department)</li>
+				<li>• Expatriate jobs in the ECERDC Region (East Coast Economic Region Development Council)</li>
+				<li>• Expatriate jobs in the IRDA Region (Iskandar Regional Development Authority)</li>
+			</ul>
+		</div>
+		<div class="right">
+			<div class="top">
+				 <h3>TESTIMONIALS</h3>
+				 <div class="line"></div>
+				 <div class="testimonials-banner">
+				 	  <p>“Thanks to these wonderful neighbours, our culture shock was short-lived.”<a href="https://esd.imi.gov.my/portal/about-us/testimonials/">read more +</a></p>
+					  <img src="https://esd.imi.gov.my/portal/images/TESTI11-William-Donald-Duncan.jpg" />
+				 </div>
+			</div>
+			<div class="bottom">
+				
+<h3>F.A.Q</h3>
+<div class="line"></div> 
+<div class="faq-banner">
+
+<div id="faq-container">
+        <p id="title"></p>
+        <p id="desc"></p>
+        <a href="https://esd.imi.gov.my/portal/faq/">read more +</a>
+    </div>
+
+
+  <script>
+        $(document).ready(function() {
+            
+            function displayFAQs(faqs, index) {
+                var title = faqs[index].title;
+                var desc = faqs[index].desc;
+
+                $('#title').html('<b>Q:<br /> ' + title + '</b></p><br />');
+                $('#desc').html('A:<br />' + desc + '');
+                
+            }
+
+            $.ajax({
+                url: '/portal/include/ajax-faq.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(response) {
+                    if (response.status === 'success') {
+                        var faqs = response.data;
+                        var index = 0;
+                        var faqCount = faqs.length;
+
+                        
+                        displayFAQs(faqs, index);
+
+                       
+                        var timer = setInterval(function() {
+                            index = (index + 1) % faqCount;
+                            displayFAQs(faqs, index);
+                        }, 5000); 
+                    } else {
+                        $('#faq-container').text('Error: ' + response.message);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.log(error);
+                }
+            });
+        });
+    </script>
+			</div>
+		</div>
+		<div style="clear: both;"></div>
+	</div>   
+</div>
+		</div><!-- end content-wrapper -->
+		<div class="footer-wrapper">
+			<div class="left">
+				<div class="backtop" style="display: none;">
+					<a href="#0" class="cd-top">Back Top</a>
+				</div>
+				<div class="copyright">
+					<h1>Expatriate Services Division</h1>
+					<h2>IMMIGRATION DEPARTMENT OF MALAYSIA<br />BAHAGIAN KHIDMAT EKSPATRIAT JABATAN IMIGRESEN MALAYSIA</h2>
+					<small>© 2026 Expatriate Services Division. All Rights Reserved.</small>
+				</div>
+				<div class="bottom-menu">
+					<ul>
+						<li><a class="" href="https://esd.imi.gov.my/portal/">Home</a></li>
+						<li><a class=""  href="https://esd.imi.gov.my/portal/about-us/esd/">About Us</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/employers">Employers</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Expatriates</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/latest-news/news/">Latest News</a></li>
+                        <li><a class="" href="https://esd.imi.gov.my/portal/faq/">F.A.Q</a></li>
+						<div style="clear: both;"></div>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<ul class="top" style="display:block;">
+					<!-- <li class=""><a href="faq/">F.A.Q</a></li>
+					 <li><a href="#">T&C</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Useful Links</a></li> -->
+				</ul>
+				<!-- <ul class="bottom">
+					<li><a class="fb" href="#"> fb </a></li>
+					<li><a class="twi" href="#"> twi </a></li>
+					<li><a class="in" href="#"> in </a></li>
+					<li><a class="youtube" href="#"> youtube </a></li>
+					<div style="clear: both;"></div>
+				</ul> -->
+			</div>
+			<div style="clear: both;"></div>
+			<p class="mobile-copyright" style="display: none;">© 2026 Expatriate Services Division. All Rights Reserved.</p>
+		</div> 
+	</div> <!-- end main-wrapper -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-62607230-1', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+</body>
+</html>

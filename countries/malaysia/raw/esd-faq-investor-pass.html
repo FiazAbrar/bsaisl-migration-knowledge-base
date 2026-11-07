@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ESD</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<link rel="icon" type="image/x-icon" href="/portal/favicon.ico">
+
+	<!-- Include Jquery -->
+	<script src="https://esd.imi.gov.my/portal/js/jquery.js"></script>
+	<script src="https://esd.imi.gov.my/portal/js/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/css/jquery-ui.css">
+
+	<!-- Include Bootstrap -->
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" >
+	<link href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<!-- <script src="/assets/vendor/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="/assets/vendor/respond/1.4.2/respond.min.js"></script> -->
+
+    <!-- Include Bootstrap datepicker -->
+	<link href="https://esd.imi.gov.my/portal/css/datepicker.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap-datepicker.js"></script>
+
+	<!-- Include Fancybox -->
+	<script type="text/javascript" src="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+
+	<!-- Include CSS -->
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/styles2.css">
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/mobile.css">
+
+	<!-- Include Slideer -->
+    <script src="https://esd.imi.gov.my/portal/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="https://esd.imi.gov.my/portal/js/jssor.slider.mini.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/bootstrapValidator.min.css">
+    <script src="https://esd.imi.gov.my/portal/js/bootstrapValidator.min.js"></script>
+
+    <!-- Include Back to top -->
+    <script src="https://esd.imi.gov.my/portal/js/main.js"></script>
+    <script src="https://esd.imi.gov.my/portal/js/modernizr.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).on('load',function(){
+				$('#autopopup').modal('show');
+			});
+
+			// Detact height
+			var wHeight = $(window).height();
+			$( ".mobile-menu" ).click(function() {
+			    $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			    $( ".overlayheight" ).toggle();
+				$( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$( ".overlayheight" ).click(function() {
+			   $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".overlayheight" ).hide();
+			   $( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$(".menu-top .right ul").on('click', 'li', function(e){
+			    $('.menu-top .right ul li').removeClass('active');
+			    $(this).addClass('active');
+			});
+
+			$( ".menu-top .right ul li.login" ).click(function() {
+			   $( ".login-wrapper" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".search-wrapper" ).hide();
+			});
+
+			$( ".menu-top .right ul li.search" ).click(function() {
+			   $( ".search-wrapper" ).toggle("slide", { direction: "up" }, 300);
+			   $( ".login-wrapper" ).hide();
+			});
+
+			$('.datepicker').datepicker()
+
+			// Menu
+		    $(".main-menu li").hover(function () {
+		        $(this).children("ul.sub-menu").show();
+		    }, function () {
+		        $(this).children("ul.sub-menu").hide();
+		    });
+
+		    $( "ul.main-menu li" ).has( "li.active" ).addClass( "active" );
+		    $( "ul.main-menu > li.active " ).find( ".sub-menu" ).addClass( "show-sub" );
+			// var pathname = window.location.pathname; // Returns path only
+			// var url      = window.location.href;     // Returns full URL
+			// $( "ul.main-menu li" ).click(function() {
+			    // if (pathname === url) {
+					// $( "ul.main-menu li" ).addClass( "active" );
+				// };
+			// });
+
+			 // $(".main-menu li").each(function(){
+		        // if($(this).attr("href")==pathname)
+		            // $(this).addClass("active");
+		    // })
+			// console.log(x);
+			// http://stackoverflow.com/questions/406192/get-current-url-in-javascript
+
+
+			// Load more
+		    size_li = $("#myList li").size();
+		    x=3;
+
+		    $("#myList li").hide();
+		    $('#myList li:lt('+x+')').show();
+
+		    $('#loadMore').click(function () {
+		        x= (x+3 <= size_li) ? x+3 : size_li;
+		        $('#myList li:lt('+x+')').show();
+		        $('#showLess').show();
+		        if(x == size_li){
+		            $('#loadMore').hide();
+		        }
+		    });
+
+			//alert login message
+						
+		});
+
+		function formTab(tab){
+			$('.choose-form-content .form-desktop').hide();
+			$('.'+tab+'-detail').show();
+		}
+	</script>
+
+	<style>
+		/* Target the element by its ID */
+		#loginBtn {
+		color: #B3B3B3; /* Initial color */
+		text-decoration: none; /* Optional: remove underline */
+		transition: color 0.3s ease; /* Smooth transition for color change */
+		}
+
+		/* Change color to white on hover */
+		#loginBtn:hover {
+		color: white;
+		}
+	</style>
+
+	<script src="https://www.google.com/recaptcha/api.js?render=6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC"></script>
+	<script>
+		grecaptcha.ready(function() {
+			grecaptcha.execute('6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC', {action: 'submit'}).then(function(token) {
+				var recaptchaField = document.getElementById('g-recaptcha-response');
+				if (recaptchaField) {
+					recaptchaField.value = token;
+				}
+			});
+		});
+	</script>
+	<!-- Hold-to-show eye on password fields -->
+	<script src="/assets/js/password-eye.js?v=20261031"></script>
+</head>
+
+<body>
+	<div class="main-wrapper cd-container">
+		<div class="menu-wrapper">
+						<div class="menu-top">
+				<div class="left">
+					<div class="logo"></div>
+					<div class="esd-title">
+						<h1>Expatriate<br />Services<br />Division</h1>
+						<h4>Bahagian Khidmat Ekspatriat</h4>
+						<small>IMMIGRATION DEPARTMENT OF MALAYSIA</small>
+					</div>
+				</div>
+				<div class="right">
+					<ul>
+												<li class="login">Login</li>
+													<li style="pointer-events: none; cursor: default;">/</li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+						<!-- <li>/</li>
+						<li class="search">Search</li> -->
+						<div style="clear: both;"></div>
+					</ul>
+					<div class="search-wrapper" style="display: none;">
+						<form>
+							<input type="text" name="search" placeholder="SEARCH">
+							<input type="submit" value="Search">
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+										<style>
+						.login-wrapper { background: #1F1E2C; z-index: 50; }
+						@media (min-width: 769px) { .login-wrapper { padding: 4px 14px 14px; margin-right: -14px; box-shadow: 0 8px 18px rgba(0, 0, 0, .45); border-radius: 0 0 4px 4px; } }
+						#passkeyLogin { position: relative; }
+						#passkeyLogin::after { content: attr(aria-label); position: absolute; right: 0; bottom: calc(100% + 6px); display: none; padding: 5px 8px; background: #000; color: #fff; font-size: 11px; line-height: 1.3; white-space: nowrap; border-radius: 3px; pointer-events: none; z-index: 60; }
+						#passkeyLogin:hover::after, #passkeyLogin:focus-visible::after { display: block; }
+					</style>
+					<div class="login-wrapper" style="display: none;">
+						<form name="frmLogin2" id="frmLogin2" method="post" action="/esd/controllers/AccessController.php">
+							<input type="hidden" name="access" id="access" value="login">
+							<input type="text" name="username" id="username" placeholder="LOGIN ID" autocomplete="false" required>
+							<br>
+							<input type="password" name="password" id="password" placeholder="PASSWORD" autocomplete="false" required>
+							<br>
+							<a href="https://esd.imi.gov.my/portal/forgot-password/">Forgot password?</a>
+							 <input type="submit" value="Log In">
+																					<button type="button" id="passkeyLogin" aria-label="Login with a passkey" style="display: none; float: right; width: 34px; height: 28px; margin-right: 6px; padding: 0; background: #009BB5; color: #fff; border: 1px solid #4D4D4D; cursor: pointer;">
+								<svg id="passkeyIconFinger" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M12 10a2 2 0 0 0-2 2c0 1.02-.1 2.51-.26 4"/><path d="M14 13.12c0 2.38 0 6.38-1 8.88"/><path d="M17.29 21.02c.12-.6.43-2.3.5-3.02"/><path d="M2 12a10 10 0 0 1 18-6"/><path d="M2 16h.01"/><path d="M21.8 16c.2-2 .131-5.354 0-6"/><path d="M5 19.5C5.5 18 6 15 6 12a6 6 0 0 1 .34-2"/><path d="M8.65 22c.21-.66.45-1.32.57-2"/><path d="M9 6.8a6 6 0 0 1 9 5.2v2"/></svg>
+								<svg id="passkeyIconFace" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none; vertical-align: middle;"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><path d="M9 9h.01"/><path d="M15 9h.01"/></svg>
+							</button>
+							<div id="passkeyLoginError" style="display: none; clear: both; color: #ffd2cc; font-size: 12px; padding-top: 6px;"></div>
+						</form>
+						<script src="/assets/js/officer-passkey.js?v=20261105b"></script>
+						<script>
+							(function () {
+								if (!window.esdPasskey || !esdPasskey.supported()) {
+									return;
+								}
+								var btn = document.getElementById("passkeyLogin"), err = document.getElementById("passkeyLoginError");
+								if (esdPasskey.faceDevice()) {
+									document.getElementById("passkeyIconFinger").style.display = "none";
+									document.getElementById("passkeyIconFace").style.display = "";
+								}
+								// Shown only while the Password Policy allows passkeys for officers or administrators (asked once in 5 minutes)
+								esdPasskey.available("/esd/officer_passkey.php", function (yes) { btn.style.display = yes ? "block" : "none"; });
+								btn.addEventListener("click", function () {
+									err.style.display = "none";
+									esdPasskey.login("/esd/officer_passkey.php", document.getElementById("username").value.trim(), function (msg) {
+										err.textContent = msg;
+										err.style.display = "block";
+									});
+								});
+							})();
+						</script>
+						<p class="note">
+							Enter your Login ID and Password to access the ESD system.<br />
+							If your company does not have a Login ID, please Register.
+						</p>
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div class="overlayheight" style="display: none;"></div>
+			<div class="mobile-menu rmm-button"  style="display: none;">
+				<h4 class="white">Menu</h4>
+				<div class="menu-line">
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<ul class="main-menu" style="display: ;">
+				<li class=""><a href="https://esd.imi.gov.my/portal/">home</a></li>
+				<li class="" ><a style=" cursor: default;" href="#">About Us</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/esd/">ESD</a></li>
+						<!-- <li class="" ><a href="about-us/testimonials">Testimonials</a></li> -->
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/contact-us">Contact Us</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Employers</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/employers/">Overview</a></li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Expatriates</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a style=" cursor: default;" href="#">MYXpats</a>
+						    <ul class="sub-menu three" style="display: none ;">
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Overview </a></li>
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/">Key Services </a>
+									<ul class="sub-menu four" style="display: none ;">
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/">Employment Pass</a>
+											<ul class="sub-menu five" style="display:  none ;">
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/">Dependant Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/long-term-social-visit-pass/">Long-Term Social Visit Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/social-visit/">Social Visit (Temporary Employment) - Foreign Maid</a></li>
+											</ul>
+										</li>
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/professional-visit-pass/">Professional Visit Pass</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Latest News</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/news/">News</a>
+                        </li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/announcement/">Announcement</a>
+							<!--
+                            <ul class="sub-menu three" style="display: none ;">
+                            	<li class="" ><a href="latest-news/announcement/message-from-the-director-general-of-immigration-malaysia/">Message from the Director General</a></li>
+                                <li class="" ><a href="latest-news/announcement/message-from-the-chief-executive-officer-of-talentcorp/">Message from the Chief Executive Officer</a></li>
+							 	<li class="" ><a href="latest-news/announcement/roll-out-session/">Roll Out Session </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-firms/">Notice to all firms </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-professional-visit-pass-application/">Notice of Professional<br />Visit Pass Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-renewal-of-employment-pass/">Notice of Renewal of Employment Pass </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-dependent-application/">Notice of Dependent Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-esd-closure/">Notice of ESD Closure </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-third-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-second-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-in-the-oil-gas-energy-sectors/">Notice to all companies in the oil, gas & energy sectors </a></li>
+							</ul>
+                            -->
+						</li>
+                        <!-- <li class="" ><a href="latest-news/newsletter/">Newsletter</a></li> -->
+						<!-- <li class="" ><a href="latest-news/publications/">Publications</a></li> -->
+					</ul>
+				</li>
+				<li class="" ><a style="width: 75px;" href="https://esd.imi.gov.my/portal/faq/">FAQ</a>
+					<ul class="sub-menu" style="display: none; left: -19px; width: 110px;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/esd-company-registration/">ESD – Company Registration </a></li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/myxpats/">MYXpats</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/xpats-gateway/">Xpats Gateway</a></li>
+                        <li class="active" ><a href="https://esd.imi.gov.my/portal/faq/investor-pass/">Investor Pass</a></li>
+					</ul>
+				</li>
+				<li class=""><a href="https://esd.imi.gov.my/portal/downloads">downloads</a></li>
+				<div style="clear: both;"></div>
+			</ul>
+		</div>
+		<div class="content-wrapper">
+        		<div class="breadcrumb-wrapper ">
+				</div>
+        <script>
+function do_login() {
+	if ( (document.frmLogin2.username.value == "") || (document.frmLogin2.password.value=="") ) {
+		alert('Please enter Login ID and Password !');
+		return;
+	} else {
+		document.frmLogin2.submit();
+	}
+}
+</script>
+
+<div class="faq-box">
+	<form class="search" name="search">
+
+		<button class="btn-faq" onclick="performSearch()"><img class="faq-icon" src="https://esd.imi.gov.my/portal/images/glass.png" /></button>
+		<input type="text" class="input-faq" placeholder="Type to Search..." name='query' id='query2'>
+	</form>
+
+	</div>
+<div class="faq-wrapper page-content-wrapper">
+	<h2 class="title">FAQs – INVESTOR PASS &nbsp;&nbsp;<a class="faq-registration-icon" href="https://esd.imi.gov.my/portal/pdf/FAQs_INVESTOR_PASS_V3.pdf" target="_blank"><img class="print-icon" src="https://esd.imi.gov.my/portal/images/print-icon.png" title="Download PDF"/></h2></a>
+	<div class="line"></div>
+	<div class="content">
+		<div class="left">
+		
+			<h5 style='margin-bottom:2%'>GENERAL</h5>
+				
+			<ul>
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is the Xpats Gateway?</h3>
+					<p style='margin-top:-2%'><p>A seamless, end-to-end solution that enables effective communication with relevant partner agencies throughout the application process, ensuring a smooth and hassle-free experience for both applicants and partner agencies. All decisions are issued electronically via Xpats Gateway, allowing for a more efficient processing by partner agencies and well-time approvals. </p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>2. What is the Investor Pass?</h3>
+					<p style='margin-top:-2%'><p>The Investor Pass is a multiple-entry visa (MEV) facility introduced for business visitors or foreign investors to facilitate their business activities, particularly for those who have committed to investing in Malaysia through investment agencies or relevant authorities.<br /><br/> Investor Pass holders are permitted to enter Malaysia for a period of<strong> six (6) months</strong>, with the option to extend for an <strong>additional six (6) months</strong>, subject to the applicants justification and requirements.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>3. Who is eligible to apply for the Investor Pass?</h3>
+					<p style='margin-top:-2%'><p>Business visitors or foreign investors who fall under any of the following three (3) categories are eligible to apply for the Investor Pass: <br><strong>i. New Investor:</strong> Potential investors who have not had any investment record in Malaysia.<br> <strong>ii. Investor in Pipeline:</strong> Potential investors who have been identified as interested in making investments in Malaysia, are currently in negotiations with the Malaysian Government, or have applied to MIDA for project approvals. <br></p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>4. Who is NOT eligible to apply for the Investor Pass?</h3>
+					<p style='margin-top:-2%'><p>Investors who already own a company in Malaysia or hold a position as a company director are not eligible to apply, as this falls outside the scope of the Investor Pass policy. <br/><br/>Such investors are advised to consider applying for an Employment Pass (EP) or a Professional Visit Pass (PVP), subject to the prevailing requirements and guidelines. <br></p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>5. How do I apply for the Investor Pass?</h3>
+					<p style='margin-top:-2%'><p>The Investor Pass can be applied through <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>6. Can I use my personal email address to apply for the Investor Pass?</h3>
+					<p style='margin-top:-2%'><p>Applicants must use a business email address. Please note that public email domains such as @gmail.com, @yahoo.com, @hotmail.com, @outlook.com, @live.com, @msn.com, @aol.com, @icloud.com, @me.com, @mac.com, @protonmail.com, @proton.me, @zoho.com, @gmx.com, @gmx.net, @yandex.com, @yandex.ru, @mail.com, @fastmail.com, and @tutanota.com are not eligible for registration.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>7. Can I apply for the Investor Pass while I am in Malaysia?</h3>
+					<p style='margin-top:-2%'><p>Applicants must be located outside of Malaysia at the time of applying for the Investor Pass.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>8. Is the Investor Pass facility applicable throughout Malaysia?</h3>
+					<p style='margin-top:-2%'><p>The Investor Pass facility is only applicable in Peninsular Malaysia and the Federal Territory of Labuan, excluding Sabah and Sarawak.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>9. What documents do I need to prepare prior to the submission of the Investor Pass application?</h3>
+					<p style='margin-top:-2%'><p> <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;"> <thead> <tr> <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid #000;">No</th> <th rowspan="2" style="border: 1px solid #000;">Documents</th> <th colspan="2" style="border: 1px solid #000;">Type of Investor</th> </tr> <tr> <th style="border: 1px solid #000;">New Investor</th> <th style="border: 1px solid #000;">Investor in Pipeline</th> </tr> </thead> <tbody> <tr> <td style="text-align: center; border: 1px solid #000;">1</td> <td style="border: 1px solid #000;"> Official invitation document from:<br> - Ministry; or<br> - Government Agency; or<br> - Registration of Company in Malaysia (ROC) </td> <td style="text-align: center; border: 1px solid #000;">Optional</td> <td style="text-align: center; border: 1px solid #000;">Optional</td> </tr> <tr> <td style="text-align: center; border: 1px solid #000;">2</td> <td style="border: 1px solid #000;">Copy Of Passport: All Pages (Full Booklet with Front & Back Pages) with 12 months validity</td> <td style="text-align: center; border: 1px solid #000;">/</td> <td style="text-align: center; border: 1px solid #000;">/</td> </tr> <tr> <td style="text-align: center; border: 1px solid #000;">3</td> <td style="border: 1px solid #000;">Certificate of Incorporation of Parent Company</td> <td style="text-align: center; border: 1px solid #000;">/</td> <td style="text-align: center; border: 1px solid #000;">/</td> </tr> <tr> <td style="text-align: center; border: 1px solid #000;">4</td> <td style="border: 1px solid #000;">Latest Audited Financial Statement of Parent Company</td> <td style="text-align: center; border: 1px solid #000;">n/a</td> <td style="text-align: center; border: 1px solid #000;">/</td> </tr> <tr> <td style="text-align: center; border: 1px solid #000;">5</td> <td style="border: 1px solid #000;">Confirmation document from MIDA Regional Offices/ Malaysian Embassy / High Commission or Consulate General</td> <td style="text-align: center; border: 1px solid #000;">n/a</td> <td style="text-align: center; border: 1px solid #000;">Optional</td> </tr> <tr> <td style="text-align: center; border: 1px solid #000;">6</td> <td style="border: 1px solid #000;">Other documents</td> <td style="text-align: center; border: 1px solid #000;">Optional</td> <td style="text-align: center; border: 1px solid #000;">Optional</td> </tr> </tbody> </table> </p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>10. What additional document is required prior to the submission of the Investor Pass RENEWAL application? </h3>
+					<p style='margin-top:-2%'><p> <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;"> <thead> <tr> <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid #000;">No</th> <th rowspan="2" style="border: 1px solid #000;">Documents</th> <th colspan="2" style="border: 1px solid #000;">Type of Investor</th> </tr> <tr> <th style="border: 1px solid #000;">New Investor</th> <th style="border: 1px solid #000;">Investor in Pipeline</th> </tr> </thead> <tbody> <tr> <td style="text-align: center; border: 1px solid #000;">1</td> <td style="border: 1px solid #000;"> Document of Contract / Agreement / Letter of Intent / Letter of Project Confirmation </td> <td style="text-align: center; border: 1px solid #000;">/</td> <td style="text-align: center; border: 1px solid #000;">/</td> </tr></tbody> </table> </p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>11. What if my original documents are not in English?</h3>
+					<p style='margin-top:-2%'><p>Documents that are not originally in English must be translated accordingly by the respective countrys authorised translation agencies.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>12. How long does it take to process and approve the Investor Pass application?</h3>
+					<p style='margin-top:-2%'><p>Once all required documents have been submitted, all applications will be processed within <strong> five (5) working days</strong>.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>13. Is the applicant eligible to bring a dependant/apply for a Dependant Pass?</h3>
+					<p style='margin-top:-2%'><p>No, applicants are not eligible to bring a dependant or apply for a Dependant Pass.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>14. Can an applicant apply for a Visa with Reference together when submitting the application?</h3>
+					<p style='margin-top:-2%'><p>An application for a Visa with Reference can be made upon receiving the pass approval from the Immigration Department of Malaysia. Applicants will be notified in the system upon approval of the application, together with the Approval Letter and VDR (Visa Dengan Rujukan) Letter.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>15. How will I know if my application is approved or rejected?</h3>
+					<p style='margin-top:-2%'><p>You will be notified via the system. If approved, the approval letter will be issued and can be printed directly from the Xpats Gateway.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>16. How do I request for amendment of passport or visa details after the application has been approved?</h3>
+					<p style='margin-top:-2%'><p>Please send an email to ppp_invest@imi.gov.my to inform us of the changes together with all necessary supporting documents.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>17. Can I change my Investor Pass to other type of passes?</h3>
+					<p style='margin-top:-2%'><p>Investor Pass holders can convert their current pass to other long-term passes issued by the Immigration Department of Malaysia subject to approval.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>18. When can I submit a renewal application?</h3>
+					<p style='margin-top:-2%'><p>Applicants may submit a renewal application through the Xpats Gateway THREE (3) month before the pass expiry.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>19. Once I receive a notification to make payment, how long is the duration given for me to complete it?</h3>
+					<p style='margin-top:-2%'><p>Applicants may complete the payment within six (6) months from the date of notification issuance.</p></p>
+
+
+				
+							<li>
+					<h3 style='margin-bottom:-2%; margin-top:-2%'>20. How long is the validity of the Approval Letter?</h3>
+					<p style='margin-top:-2%'><p>The Approval Letter is valid for <strong>six (6) months</strong> from the date of issuance. Applicants must complete the payment within the given period, or the approval will be revoked.</p></p>
+
+
+				
+			
+			<h5 style='margin-bottom:2%'>PASS ENDORSEMENT, ePASS</h5>
+				
+				<ul>
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is the ePASS?</h3>
+						<p style='margin-top:-2%'><p>The ePASS, introduced in December 2022, is an electronic pass issued for approved applications (Employment Pass, Dependent Pass, Long Term Social Visit Pass, Professional Visit Pass).</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>2. What is the purpose of the ePASS?</h3>
+						<p style='margin-top:-2%'><p>The purpose of the ePASS is to ease the endorsement process and reduce the number of pages used in the Passport.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What is the process to have my ePASS completely endorsed?</h3>
+						<p style='margin-top:-2%'><p>There are two options for the ePASS endorsement<br></p> <strong> Option 1: Endorsement of ePASS via the Expatriate Satellite Centre (ESC) KLIA Terminal 1 or Terminal 2 </strong> <p>i. Applicant obtains the Approval Letter for Investor Pass.</p> <p>ii. Applicant to obtain Visa with Reference (VDR) <strong>if applicable.</strong></p> <p>iii. Applicant purchases the necessary flight ticket for the purpose of entry into Malaysia.</p> <p>iv. Applicant initiates Endorsement submission via Xpats Gateway and uploads the required documents as per checklist.</p> <p>v. Submit the Endorsement application.</p> <p>vi. Immigration processes the Endorsement application.</p> <p>vii. Applicant completes the payment for the Endorsement.</p> <p>viii. Applicant may enter Malaysia and proceed to ESC KLIA Terminal 1 or Terminal 2 for the ePASS endorsement. No appointment needed.</p> <p>ix. Applicant obtains the ePASS.</p> <p>x. If applicant is unable to obtain the ePASS endorsement at ESC KLIA Terminal 1 or Terminal 2 due to unforeseen circumstances, the location of the ePASS endorsement must be changed to<strong> Others point of entry.</strong></p> <p>xi. If applicant is unable to be present at ESC KLIA Terminal 1 or Terminal 2 as per the flight date submitted, applicant must contact Immigration at ppp_invest@imi.gov.my to request for the application to be returned. After receiving the returned application, the company can resubmit the endorsement request by changing the details of entry to <strong>Others point of entry.</strong> </p> <strong>Option 2: Endorsement of ePASS via Online (Xpats Gateway)</strong> <p>i. Applicant obtains the Approval Letter for Investor Pass.</p> <p>ii. Applicant to obtain Visa with Reference (VDR) if applicable.</p> <p>iii. Applicant may enter Malaysia via any entry point (air, land or sea).</p> <p>iv. Applicant initiates Endorsement submission via Xpats Gateway and upload the required documents as per checklist.</p> <p>v. Submit the Endorsement application.</p> <p>vi. Immigration processes the Endorsement application.</p> <p>vii. Applicant completes the payment for the Endorsement.</p> <p>viii. The ePASS will be endorsed via Xpats Gateway and a button to generate the ePASS will appear in the user account.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>4. I have selected to endorse my Investor Pass at the ESC KLIA Terminal 1 / Terminal 2. However, I have mistakenly exited the Arrival Area and am no longer able to go to the ESC counter. How do I proceed with my Investor Pass endorsement?</h3>
+						<p style='margin-top:-2%'><p>In this situation, applicants must contact us to inform us that they have exited the arrival area and are no longer allowed to re-enter. Hence, MYXpats officers will return the applications for them to update accordingly and resubmit for processing.</p> <p>However, if MYXpats officers do not receive any information from the applicant, the application will be returned after <strong>three (3) days</strong> from the flight arrival date into Malaysia.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>5. How long will the processing of ePASS take after payment is made?</h3>
+						<p style='margin-top:-2%'><p>Upon payment, it will take one <strong>(1) working day</strong> for the ePASS to be processed and reflected in the Xpats Gateway.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>6. Is the ePASS a valid document to be shown when entering or exiting Malaysia?</h3>
+						<p style='margin-top:-2%'><p>Applicants can enter and exit Malaysia using the ePASS with a valid passport registered on the ePASS.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>7. Is the ePASS valid to be shown upon entry at the Malaysian airport?</h3>
+						<p style='margin-top:-2%'><p>Yes, it is valid to be shown upon entry at the Malaysian airport.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>8. Is it possible for an applicant with an ePASS to travel within Malaysia without a passport?</h3>
+						<p style='margin-top:-2%'><p>No, the ePASS must always be presented together with the applicants passport.</p></p>
+	
+	
+					
+				
+				<h5 style='margin-bottom:2%'>ENDORSEMENT</h5>
+				
+				<ul>
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>1. Where can I download the ePASS?</h3>
+						<p style='margin-top:-2%'><p>The ePASS can be downloaded from the Xpats Gateway.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>2. What should the applicant do if they did not receive the email to download the ePASS?</h3>
+						<p style='margin-top:-2%'><p>Applicant may log in to the Xpats Gateway to download the ePASS. From the APPLICATION tab, click on the PRINT ePASS button.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>3. If the ePASS cannot be printed from the Xpats Gateway or the PRINT ePASS button does not display the pass, how can I report the problem?</h3>
+						<p style='margin-top:-2%'><p>Applicant may send an email to MYXpats Helpdesk at helpdesk@myxpats.com.my to report the issue. Applicant will be notified when the issue has been resolved.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What steps should be taken if an information error is found in the ePASS, and how can it be corrected?</h3>
+						<p style='margin-top:-2%'><p>Applicant may send an email to Immigration at ppp_invest@imi.gov.my together with the required documents for amendment. The updated ePASS will be available within five (5) working days.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>5. Is it necessary to attach the ePASS to the passport? If so, what is the proper procedure for doing so?</h3>
+						<p style='margin-top:-2%'><p>The ePASS should be kept together with the passport. There is no requirement to affix it inside the passport; however, applicants must ensure that the ePASS is readily available with the passport should any verification be required by the relevant authorities.</p> <p>ePASS holders are also recommended to keep a digital copy of their ePASS in their mobile devices.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>6. How can the authenticity of the ePASS be confirmed?</h3>
+						<p style='margin-top:-2%'><p>The ePASS will be issued with a QR code. Authorities representatives may scan the QR code to verify the ePASS authenticity.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>7. Can the ePASS be printed in case applicants are unable to access it from their mobile devices?</h3>
+						<p style='margin-top:-2%'><p>Yes, the ePASS can be printed for verification purposes if a device is unable to access it.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>8. What is the function of the ePASS QR Code?</h3>
+						<p style='margin-top:-2%'><p>The ePASS QR Code displays the information of the ePASS holder and it is used to verify that all the information indicated in the ePASS is valid.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>9. How do I get the ePASS validation that may be requested from the Embassy or Foreign Agency/Authorities?</h3>
+						<p style='margin-top:-2%'><p>Applicant may request the Embassy or Foreign Agency/Authorities to check the ePASS validation through the Immigration Official Website via the link: <a href="https://imigresen-online.imi.gov.my/eservices/epass?semakan">https://imigresen-online.imi.gov.my/eservices/epass?semakan</a></p> <p>OR</p> <p>The company may request the Embassy or Foreign Agency/Authorities to email Immigration at ppp_invest@imi.gov.my for direct validation.</p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>10. What is the fee for submitting an Investor Pass application?</h3>
+						<p style='margin-top:-2%'><p>You can find the fee structure for the Investor Pass submission below:</p> <h4>i. Investor Pass Application Processing Fee:</h4> <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;"> <thead> <tr> <th style="border: 1px solid #000;">Xpats Gateway Application Fee</th> <th style="border: 1px solid #000;">Fee</th> <th style="border: 1px solid #000;">With SST (8%)</th> </tr> </thead> <tbody> <tr> <td style="border: 1px solid #000;">Investor Pass</td> <td style="border: 1px solid #000;">RM 1,200.00</td> <td style="border: 1px solid #000;">RM 1,296.00</td> </tr> </tbody> </table> <h4>ii. Investor Pass Immigration Fee:</h4> <ul> <li><strong>Pass Fee:</strong> RM 90.00 (6 months)</li> <li><strong>Process Fee:</strong> RM 500.00</li> <li><strong>*Visa Fee:</strong> Amount is as per applicants Nationality</li> <li> <strong>*Visa Table Link:</strong> <a href="https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/kadar-bayaran-visa/" target="_blank" rel="noopener noreferrer"> https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/kadar-bayaran-visa/ </a> </li> </ul> <h4>Example:</h4> <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;"> <thead> <tr> <th style="border: 1px solid #000;">Approved Duration</th> <th style="border: 1px solid #000;">Currency</th> <th style="border: 1px solid #000;">6 Months</th> </tr> </thead> <tbody> <tr> <td style="border: 1px solid #000;">Investor Pass Fee</td> <td style="border: 1px solid #000;">RM</td> <td style="border: 1px solid #000;">90</td> </tr> <tr> <td style="border: 1px solid #000;">Processing Fee</td> <td style="border: 1px solid #000;">RM</td> <td style="border: 1px solid #000;">500</td> </tr> <tr> <td style="border: 1px solid #000;"><em>Visa (If applicable)</em></td> <td style="border: 1px solid #000;">RM</td> <td style="border: 1px solid #000;">30</td> </tr> <tr> <td style="border: 1px solid #000;"><strong>Total</strong></td> <td style="border: 1px solid #000;"><strong>RM</strong></td> <td style="border: 1px solid #000;"><strong>620</strong></td> </tr> </tbody> </table> </p></p>
+	
+	
+					
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>11. What should I do if I there is a duplicate / double payment in my process while applying for the Investor Pass?</h3>
+						<p style='margin-top:-2%'><p> In the event of a duplicate or double payment, you are entitled for a refund. Please proceed to send an email to our helpdesk at <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a> for further details on the refund process. </p></p>
+	
+	
+					
+				
+				<h5 style='margin-bottom:2%'>USEFUL INFORMATION</h5>
+				
+				<ul>
+									<li>
+						<h3 style='margin-bottom:-2%; margin-top:-2%'>1. Who should I contact if I have any issues related to the Investor Pass?</h3>
+						<p style='margin-top:-2%'><p>i. For processing-related inquiries, please reach out to the Expatriate Services Division (ESD) at: ppp_invest@imi.gov.my</p> <p>ii. For further clarification related to documents and agency requirements, kindly contact the Malaysian Investment Development Authority (MIDA) at: investorpass@mida.gov.my</p> <p>iii. For Xpats Gateway technical assistance, please get in touch with the MYXpats Helpdesk at: helpdesk@myxpats.com.my</p></p>
+	
+	
+					
+							
+				
+			<br />
+			
+		</div>
+		<div class="right">
+		<div class="topr text-prompter-container">
+		
+			<div class="text-prompter" >
+			<h3 class="text" style='font-size: 18px; line-height: 24px;'><b>F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026			&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 
+			&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026			&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026			&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026			&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026		</b></h3>
+	</div>
+			
+			</div>
+			<div class="bottom">
+				
+<h3>F.A.Q</h3>
+<div class="line"></div> 
+<div class="faq-banner">
+
+<div id="faq-container">
+        <p id="title"></p>
+        <p id="desc"></p>
+        <a href="https://esd.imi.gov.my/portal/faq/">read more +</a>
+    </div>
+
+
+  <script>
+        $(document).ready(function() {
+            
+            function displayFAQs(faqs, index) {
+                var title = faqs[index].title;
+                var desc = faqs[index].desc;
+
+                $('#title').html('<b>Q:<br /> ' + title + '</b></p><br />');
+                $('#desc').html('A:<br />' + desc + '');
+                
+            }
+
+            $.ajax({
+                url: '/portal/include/ajax-faq.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(response) {
+                    if (response.status === 'success') {
+                        var faqs = response.data;
+                        var index = 0;
+                        var faqCount = faqs.length;
+
+                        
+                        displayFAQs(faqs, index);
+
+                       
+                        var timer = setInterval(function() {
+                            index = (index + 1) % faqCount;
+                            displayFAQs(faqs, index);
+                        }, 5000); 
+                    } else {
+                        $('#faq-container').text('Error: ' + response.message);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.log(error);
+                }
+            });
+        });
+    </script>
+			</div>
+			<div >
+				<br>
+				<p style='color: #009bb5'>For a comprehensive FAQ by the Department of Labour Peninsular Malaysia (JTKSM) and MYFutureJobs, please visit:</p>
+					
+						<p>1.	<a href='https://www.eppax.gov.my/eppax/portal/images/manual/FAQ_EXPATRIATE.pdf' style='text-decoration:underline' target="_blank">JTKSM</a></p>
+						<p>2.	<a href='https://www.perkeso.gov.my/pengiklanan-mufuturejjobs-bagi-penggajian-pegawai-dagang.html' style='text-decoration:underline' target="_blank">MYFutureJobs</a></p>
+				<br>
+				<p style='color: #009bb5'>Useful Information:</p>
+				<p>1.	<a href='https://esd.imi.gov.my/portal/pdf/xpats-gateway-manual.pdf' style='text-decoration:underline'  target="_blank">Xpats Gateway User Manual</a></p>
+				<p>2.	<a href='https://esd.imi.gov.my/portal/pdf/Xpats-Gateway-User-Manual-[MDEC].pdf' style='text-decoration:underline'  target="_blank">Xpats Gateway User Manual (MDEC)</a></p>
+
+			</div>
+			<div class="backtop-desktop" style="display: ;">
+				<a href="#0" class="cd-top">Back Top</a>
+			</div>
+		</div> 
+		</div> 
+		<div style="clear: both;"></div>
+	</div>
+</div>
+
+
+<script>
+window.addEventListener('DOMContentLoaded', function() {
+  var containerWidth = document.querySelector('.right').offsetWidth;
+  var textWidth = document.querySelector('.text-prompter .text').offsetWidth;
+  var animationDuration = (textWidth + containerWidth) * 30; // Adjust speed as needed
+
+  document.querySelector('.text-prompter').style.width = textWidth + 'px';
+
+  function animateTextPrompter() {
+    var prompterElement = document.querySelector('.text-prompter');
+    prompterElement.style.transform = 'translateX(' + containerWidth + 'px)';
+    prompterElement.animate([
+      { transform: 'translateX(' + containerWidth + 'px)' },
+      { transform: 'translateX(-' + textWidth + 'px)' }
+    ], {
+      duration: animationDuration,
+      easing: 'linear',
+      iterations: Infinity
+    });
+  }
+
+  animateTextPrompter();
+});
+
+</script>
+<script>
+        function performSearch() {
+            var searchQuery = document.getElementById("query").value;
+            window.location.href = "/portal/faq/xpats-gateway/index.php?query=" + encodeURIComponent(searchQuery);
+        }
+</script>
+
+
+		</div><!-- end content-wrapper -->
+		<div class="footer-wrapper">
+			<div class="left">
+				<div class="backtop" style="display: none;">
+					<a href="#0" class="cd-top">Back Top</a>
+				</div>
+				<div class="copyright">
+					<h1>Expatriate Services Division</h1>
+					<h2>IMMIGRATION DEPARTMENT OF MALAYSIA<br />BAHAGIAN KHIDMAT EKSPATRIAT JABATAN IMIGRESEN MALAYSIA</h2>
+					<small>© 2026 Expatriate Services Division. All Rights Reserved.</small>
+				</div>
+				<div class="bottom-menu">
+					<ul>
+						<li><a class="" href="https://esd.imi.gov.my/portal/">Home</a></li>
+						<li><a class=""  href="https://esd.imi.gov.my/portal/about-us/esd/">About Us</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/employers">Employers</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Expatriates</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/latest-news/news/">Latest News</a></li>
+                        <li><a class="" href="https://esd.imi.gov.my/portal/faq/">F.A.Q</a></li>
+						<div style="clear: both;"></div>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<ul class="top" style="display:block;">
+					<!-- <li class=""><a href="faq/">F.A.Q</a></li>
+					 <li><a href="#">T&C</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Useful Links</a></li> -->
+				</ul>
+				<!-- <ul class="bottom">
+					<li><a class="fb" href="#"> fb </a></li>
+					<li><a class="twi" href="#"> twi </a></li>
+					<li><a class="in" href="#"> in </a></li>
+					<li><a class="youtube" href="#"> youtube </a></li>
+					<div style="clear: both;"></div>
+				</ul> -->
+			</div>
+			<div style="clear: both;"></div>
+			<p class="mobile-copyright" style="display: none;">© 2026 Expatriate Services Division. All Rights Reserved.</p>
+		</div> 
+	</div> <!-- end main-wrapper -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-62607230-1', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+</body>
+</html>

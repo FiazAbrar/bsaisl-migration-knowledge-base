@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ESD</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<link rel="icon" type="image/x-icon" href="/portal/favicon.ico">
+
+	<!-- Include Jquery -->
+	<script src="https://esd.imi.gov.my/portal/js/jquery.js"></script>
+	<script src="https://esd.imi.gov.my/portal/js/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/css/jquery-ui.css">
+
+	<!-- Include Bootstrap -->
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" >
+	<link href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<!-- <script src="/assets/vendor/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="/assets/vendor/respond/1.4.2/respond.min.js"></script> -->
+
+    <!-- Include Bootstrap datepicker -->
+	<link href="https://esd.imi.gov.my/portal/css/datepicker.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap-datepicker.js"></script>
+
+	<!-- Include Fancybox -->
+	<script type="text/javascript" src="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+
+	<!-- Include CSS -->
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/styles2.css">
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/mobile.css">
+
+	<!-- Include Slideer -->
+    <script src="https://esd.imi.gov.my/portal/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="https://esd.imi.gov.my/portal/js/jssor.slider.mini.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/bootstrapValidator.min.css">
+    <script src="https://esd.imi.gov.my/portal/js/bootstrapValidator.min.js"></script>
+
+    <!-- Include Back to top -->
+    <script src="https://esd.imi.gov.my/portal/js/main.js"></script>
+    <script src="https://esd.imi.gov.my/portal/js/modernizr.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).on('load',function(){
+				$('#autopopup').modal('show');
+			});
+
+			// Detact height
+			var wHeight = $(window).height();
+			$( ".mobile-menu" ).click(function() {
+			    $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			    $( ".overlayheight" ).toggle();
+				$( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$( ".overlayheight" ).click(function() {
+			   $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".overlayheight" ).hide();
+			   $( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$(".menu-top .right ul").on('click', 'li', function(e){
+			    $('.menu-top .right ul li').removeClass('active');
+			    $(this).addClass('active');
+			});
+
+			$( ".menu-top .right ul li.login" ).click(function() {
+			   $( ".login-wrapper" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".search-wrapper" ).hide();
+			});
+
+			$( ".menu-top .right ul li.search" ).click(function() {
+			   $( ".search-wrapper" ).toggle("slide", { direction: "up" }, 300);
+			   $( ".login-wrapper" ).hide();
+			});
+
+			$('.datepicker').datepicker()
+
+			// Menu
+		    $(".main-menu li").hover(function () {
+		        $(this).children("ul.sub-menu").show();
+		    }, function () {
+		        $(this).children("ul.sub-menu").hide();
+		    });
+
+		    $( "ul.main-menu li" ).has( "li.active" ).addClass( "active" );
+		    $( "ul.main-menu > li.active " ).find( ".sub-menu" ).addClass( "show-sub" );
+			// var pathname = window.location.pathname; // Returns path only
+			// var url      = window.location.href;     // Returns full URL
+			// $( "ul.main-menu li" ).click(function() {
+			    // if (pathname === url) {
+					// $( "ul.main-menu li" ).addClass( "active" );
+				// };
+			// });
+
+			 // $(".main-menu li").each(function(){
+		        // if($(this).attr("href")==pathname)
+		            // $(this).addClass("active");
+		    // })
+			// console.log(x);
+			// http://stackoverflow.com/questions/406192/get-current-url-in-javascript
+
+
+			// Load more
+		    size_li = $("#myList li").size();
+		    x=3;
+
+		    $("#myList li").hide();
+		    $('#myList li:lt('+x+')').show();
+
+		    $('#loadMore').click(function () {
+		        x= (x+3 <= size_li) ? x+3 : size_li;
+		        $('#myList li:lt('+x+')').show();
+		        $('#showLess').show();
+		        if(x == size_li){
+		            $('#loadMore').hide();
+		        }
+		    });
+
+			//alert login message
+						
+		});
+
+		function formTab(tab){
+			$('.choose-form-content .form-desktop').hide();
+			$('.'+tab+'-detail').show();
+		}
+	</script>
+
+	<style>
+		/* Target the element by its ID */
+		#loginBtn {
+		color: #B3B3B3; /* Initial color */
+		text-decoration: none; /* Optional: remove underline */
+		transition: color 0.3s ease; /* Smooth transition for color change */
+		}
+
+		/* Change color to white on hover */
+		#loginBtn:hover {
+		color: white;
+		}
+	</style>
+
+	<script src="https://www.google.com/recaptcha/api.js?render=6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC"></script>
+	<script>
+		grecaptcha.ready(function() {
+			grecaptcha.execute('6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC', {action: 'submit'}).then(function(token) {
+				var recaptchaField = document.getElementById('g-recaptcha-response');
+				if (recaptchaField) {
+					recaptchaField.value = token;
+				}
+			});
+		});
+	</script>
+	<!-- Hold-to-show eye on password fields -->
+	<script src="/assets/js/password-eye.js?v=20261031"></script>
+</head>
+
+<body>
+	<div class="main-wrapper cd-container">
+		<div class="menu-wrapper">
+						<div class="menu-top">
+				<div class="left">
+					<div class="logo"></div>
+					<div class="esd-title">
+						<h1>Expatriate<br />Services<br />Division</h1>
+						<h4>Bahagian Khidmat Ekspatriat</h4>
+						<small>IMMIGRATION DEPARTMENT OF MALAYSIA</small>
+					</div>
+				</div>
+				<div class="right">
+					<ul>
+												<li class="login">Login</li>
+													<li style="pointer-events: none; cursor: default;">/</li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+						<!-- <li>/</li>
+						<li class="search">Search</li> -->
+						<div style="clear: both;"></div>
+					</ul>
+					<div class="search-wrapper" style="display: none;">
+						<form>
+							<input type="text" name="search" placeholder="SEARCH">
+							<input type="submit" value="Search">
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+										<style>
+						.login-wrapper { background: #1F1E2C; z-index: 50; }
+						@media (min-width: 769px) { .login-wrapper { padding: 4px 14px 14px; margin-right: -14px; box-shadow: 0 8px 18px rgba(0, 0, 0, .45); border-radius: 0 0 4px 4px; } }
+						#passkeyLogin { position: relative; }
+						#passkeyLogin::after { content: attr(aria-label); position: absolute; right: 0; bottom: calc(100% + 6px); display: none; padding: 5px 8px; background: #000; color: #fff; font-size: 11px; line-height: 1.3; white-space: nowrap; border-radius: 3px; pointer-events: none; z-index: 60; }
+						#passkeyLogin:hover::after, #passkeyLogin:focus-visible::after { display: block; }
+					</style>
+					<div class="login-wrapper" style="display: none;">
+						<form name="frmLogin2" id="frmLogin2" method="post" action="/esd/controllers/AccessController.php">
+							<input type="hidden" name="access" id="access" value="login">
+							<input type="text" name="username" id="username" placeholder="LOGIN ID" autocomplete="false" required>
+							<br>
+							<input type="password" name="password" id="password" placeholder="PASSWORD" autocomplete="false" required>
+							<br>
+							<a href="https://esd.imi.gov.my/portal/forgot-password/">Forgot password?</a>
+							 <input type="submit" value="Log In">
+																					<button type="button" id="passkeyLogin" aria-label="Login with a passkey" style="display: none; float: right; width: 34px; height: 28px; margin-right: 6px; padding: 0; background: #009BB5; color: #fff; border: 1px solid #4D4D4D; cursor: pointer;">
+								<svg id="passkeyIconFinger" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M12 10a2 2 0 0 0-2 2c0 1.02-.1 2.51-.26 4"/><path d="M14 13.12c0 2.38 0 6.38-1 8.88"/><path d="M17.29 21.02c.12-.6.43-2.3.5-3.02"/><path d="M2 12a10 10 0 0 1 18-6"/><path d="M2 16h.01"/><path d="M21.8 16c.2-2 .131-5.354 0-6"/><path d="M5 19.5C5.5 18 6 15 6 12a6 6 0 0 1 .34-2"/><path d="M8.65 22c.21-.66.45-1.32.57-2"/><path d="M9 6.8a6 6 0 0 1 9 5.2v2"/></svg>
+								<svg id="passkeyIconFace" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none; vertical-align: middle;"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><path d="M9 9h.01"/><path d="M15 9h.01"/></svg>
+							</button>
+							<div id="passkeyLoginError" style="display: none; clear: both; color: #ffd2cc; font-size: 12px; padding-top: 6px;"></div>
+						</form>
+						<script src="/assets/js/officer-passkey.js?v=20261105b"></script>
+						<script>
+							(function () {
+								if (!window.esdPasskey || !esdPasskey.supported()) {
+									return;
+								}
+								var btn = document.getElementById("passkeyLogin"), err = document.getElementById("passkeyLoginError");
+								if (esdPasskey.faceDevice()) {
+									document.getElementById("passkeyIconFinger").style.display = "none";
+									document.getElementById("passkeyIconFace").style.display = "";
+								}
+								// Shown only while the Password Policy allows passkeys for officers or administrators (asked once in 5 minutes)
+								esdPasskey.available("/esd/officer_passkey.php", function (yes) { btn.style.display = yes ? "block" : "none"; });
+								btn.addEventListener("click", function () {
+									err.style.display = "none";
+									esdPasskey.login("/esd/officer_passkey.php", document.getElementById("username").value.trim(), function (msg) {
+										err.textContent = msg;
+										err.style.display = "block";
+									});
+								});
+							})();
+						</script>
+						<p class="note">
+							Enter your Login ID and Password to access the ESD system.<br />
+							If your company does not have a Login ID, please Register.
+						</p>
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div class="overlayheight" style="display: none;"></div>
+			<div class="mobile-menu rmm-button"  style="display: none;">
+				<h4 class="white">Menu</h4>
+				<div class="menu-line">
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<ul class="main-menu" style="display: ;">
+				<li class=""><a href="https://esd.imi.gov.my/portal/">home</a></li>
+				<li class="" ><a style=" cursor: default;" href="#">About Us</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/esd/">ESD</a></li>
+						<!-- <li class="" ><a href="about-us/testimonials">Testimonials</a></li> -->
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/contact-us">Contact Us</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Employers</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/employers/">Overview</a></li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Expatriates</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a style=" cursor: default;" href="#">MYXpats</a>
+						    <ul class="sub-menu three" style="display: none ;">
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Overview </a></li>
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/">Key Services </a>
+									<ul class="sub-menu four" style="display: none ;">
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/">Employment Pass</a>
+											<ul class="sub-menu five" style="display:  none ;">
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/">Dependant Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/long-term-social-visit-pass/">Long-Term Social Visit Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/social-visit/">Social Visit (Temporary Employment) - Foreign Maid</a></li>
+											</ul>
+										</li>
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/professional-visit-pass/">Professional Visit Pass</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Latest News</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/news/">News</a>
+                        </li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/announcement/">Announcement</a>
+							<!--
+                            <ul class="sub-menu three" style="display: none ;">
+                            	<li class="" ><a href="latest-news/announcement/message-from-the-director-general-of-immigration-malaysia/">Message from the Director General</a></li>
+                                <li class="" ><a href="latest-news/announcement/message-from-the-chief-executive-officer-of-talentcorp/">Message from the Chief Executive Officer</a></li>
+							 	<li class="" ><a href="latest-news/announcement/roll-out-session/">Roll Out Session </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-firms/">Notice to all firms </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-professional-visit-pass-application/">Notice of Professional<br />Visit Pass Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-renewal-of-employment-pass/">Notice of Renewal of Employment Pass </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-dependent-application/">Notice of Dependent Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-esd-closure/">Notice of ESD Closure </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-third-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-second-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-in-the-oil-gas-energy-sectors/">Notice to all companies in the oil, gas & energy sectors </a></li>
+							</ul>
+                            -->
+						</li>
+                        <!-- <li class="" ><a href="latest-news/newsletter/">Newsletter</a></li> -->
+						<!-- <li class="" ><a href="latest-news/publications/">Publications</a></li> -->
+					</ul>
+				</li>
+				<li class="active" ><a style="width: 75px;" href="https://esd.imi.gov.my/portal/faq/">FAQ</a>
+					<ul class="sub-menu" style="display: none; left: -19px; width: 110px;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/esd-company-registration/">ESD – Company Registration </a></li>
+						<li class="active" ><a href="https://esd.imi.gov.my/portal/faq/myxpats/">MYXpats</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/xpats-gateway/">Xpats Gateway</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/investor-pass/">Investor Pass</a></li>
+					</ul>
+				</li>
+				<li class=""><a href="https://esd.imi.gov.my/portal/downloads">downloads</a></li>
+				<div style="clear: both;"></div>
+			</ul>
+		</div>
+		<div class="content-wrapper">
+        		<div class="breadcrumb-wrapper ">
+				</div>
+        <script>
+function do_login() {
+	if ( (document.frmLogin2.username.value == "") || (document.frmLogin2.password.value=="") ) {
+		alert('Please enter Login ID and Password !');
+		return;
+	} else {
+		document.frmLogin2.submit();
+	}
+}
+</script>
+<div class="faq-box">
+    <form class="search" name="search">
+        <button class="btn-faq" onclick="performSearchX()"><img class="faq-icon" src="https://esd.imi.gov.my/portal/images/glass.png" /></button>
+        <input type="text" class="input-faq" placeholder="Type to Search..." name='query' id='query2'>
+    </form>
+</div>
+
+<div class="faq-wrapper page-content-wrapper">
+    <h2 class="title">FAQs – MYXpats Centre &nbsp;&nbsp;<a class="faq-registration-icon" href="https://esd.imi.gov.my/portal/pdf/FAQs_MYXpats_Centre(2025-1).pdf" target="_blank"><img class="print-icon" src="https://esd.imi.gov.my/portal/images/print-icon.png" title="Download PDF"/></a></h2>
+
+    <div class="line"></div>
+
+    <div class="content">
+        <div class="left">
+            <h5 style='margin-bottom:2%'>About MYXpats Centre</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is MYXpats Centre?                    </h3>
+                    <p style='margin-top:-2%'><p>Malaysia Expatriate Services Centre Sdn. Bhd. (MYXpats) provides employers and expatriates with Employment Pass and related pass services. It processes and issues the Employment Pass and related passes for eligible expatriates wanting to work in Malaysia.</p>
+					<p>It is a joint initiative between Talent Corporation Malaysia Berhad (TalentCorp) and the Immigration Department of Malaysia, and is overseen by the Ministry of Home Affairs.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. What are the services offered at the MYXpats Centre?                    </h3>
+                    <p style='margin-top:-2%'><p>Companies already registered with the Expatriate Service Division (ESD) can make use of the MYXpats Centre to:</p> <ul class="sub-list" > <li>- Apply for relevant passes for their expatriate employees</li> <li>- Seek assistance during the document submission process</li> <li>- Submission and delivery of endorsement via delivery by Pos Malaysia or collection at ESC, KLIA Terminal 1 or ESC, KLIA Terminal 2 of Immigration passes </li> </ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. How do I apply for an Employment Pass?                    </h3>
+                    <p style='margin-top:-2%'><p>Expatriates are not allowed to apply for their own immigration passes. The application must be done by the company that intends to hire the expatriate.</p>
+					<p>Firstly, company need to be registered with the ESD before they can apply for an expatriate Employment Pass or other expatriate related immigration pass.  Applications for these passes can be made online at esd.imi.gov.my </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. What are the documents that I need to complete and where can I get them?                    </h3>
+                    <p style='margin-top:-2%'><p>The checklist is made available in the <a href="https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V5_2024_(240924).pdf" target="_blank" >ESD Online Guidebook.</a></p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. How long will it take to process and approve the Employment Pass application?                    </h3>
+                    <p style='margin-top:-2%'><p>Once all required documents have been submitted, all applications will be processed within five (5) working days.</p></p>
+                </li>
+            </ul>
+
+            <h5 style='margin-bottom:2%'>Expatriate Pass Applications</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. Does the company need to submit hardcopies of uploaded documents after the application is submitted?                    </h3>
+
+                    <p style='margin-top:-2%'><p>The company does not need to submit hardcopies unless there is a request from MYXpats Centre to view the original documents.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can the expatriate applicant submit dependants together when submitting the application?                    </h3>
+
+                    <p style='margin-top:-2%'><p>Yes, the expatriate applicant may submit the dependants' application together when submitting the application.</p>
+					<p>The applicant may also add the dependant/s later once the principal's application is approved.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. Can the applicant apply for a Visa with Reference together when submitting the application?                    </h3>
+
+                    <p style='margin-top:-2%'><p>If the applicant is out of the country, an application for a Visa with Reference can be made together when submitting the application.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. How will I know if the application is approved or rejected?                    </h3>
+
+                    <p style='margin-top:-2%'><p>You will be notified via the system. If approved, the approval letter will also be issued and can be printed directly from the system.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. How will the Visa with Reference be issued?                    </h3>
+
+                    <p style='margin-top:-2%'><p>There are two ways for the Visa with Reference to be issued:</p>
+					<ul class="sub-list" >
+						<li>- You can get it issued by presenting the approval letter at the MYXpats Centre counter.</li>
+						<li>- The Visa with Reference will also be made available through the system soon. </li>
+					</ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>6. How do I change the passport or visa details if the application has already been approved?                    </h3>
+
+                    <p style='margin-top:-2%'><p>Please provide an official letter to inform the MYXpats Centre of the changes together with necessary supporting documents.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>7. How long will it take for my company's new position request submission to be processed?                    </h3>
+
+                    <p style='margin-top:-2%'><p>Under the Client Charter, it will take 5 working days to process submissions.</p></p>
+                </li>
+            </ul>
+
+            <!-- <h5 style='margin-bottom:2%'>Guidelines - Endorsement Procedure At The ESD Satellite Centre (ESC), Kuala Lumpur International Airport 1 (KLIA 1)</h5>
+            <ul>
+            </ul> -->
+
+            <!-- <h5 style='margin-bottom:2%'>Guidelines - Delivery Of Endorsed Pass</h5>
+            <ul>
+            </ul> -->
+
+            <!-- <h5 style='margin-bottom:2%'>ESD System New Feature - Pass Endorsement, New Enhancement Feature For Re-Tour Pass</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is the ESD system's new feature update for re-tour pass?                      </h3>
+                    <p style='margin-top:-2%'><p>The retour pass is when the sticker was unable to proceed to be endorsed on physical passport and returned back to MYXpats office.</p>
+					<p>The company will have the option to self-collection at MYXpats counter with company's referral date or second attempt delivery via the ESD system.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. Who is the authorized person to receive the package?                    </h3>
+                    <p style='margin-top:-2%'><p>The package can only be received able to receive by the six (6) names listed in the Letter of Undertaking (LOU). </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. When can the company request for a second delivery?                    </h3>
+                    <p style='margin-top:-2%'><p>The company can request for a second attempt delivery if the first attempt failed, and the package has been returned to MYXpats.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. How can the company initiate the second attempt at delivery?                    </h3>
+                    <p style='margin-top:-2%'><p>The company may initiate a second delivery at the ESD system's application, under the Pass Delivery Pass Pending Re-Attempt. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. How much will the second delivery cost?                    </h3>
+                    <p style='margin-top:-2%'><p>The charge will be RM50 per new attempt delivery (excluding SST). </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>6. What is the charter time for re-attempt delivery requests?                    </h3>
+                    <p style='margin-top:-2%'><p>The delivery charter is as below:</p> <br> <table class="faq-equity"> <tr> <td>Klang Valley</td> <td>Two (2) working days</td> </tr> <tr> <td>Other States</td> <td>Three (3) working days</td> </tr> <tr> <td>Federal Territory of Labuan </td> <td>Five (5) working days</td> </tr> </table></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>7. Which address will be used to send the parcel?                    </h3>
+                    <p style='margin-top:-2%'><p>Currently, the system has been enhanced and has allowed for the company to select the preferred address, either between the business address or the correspondence address. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>8. Is there any limitation of re-attempt delivery requests?                    </h3>
+                    <p style='margin-top:-2%'><p>No, however, there will be additional delivery charges, RM50 pre-tax for each request. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>9. What will happen to the uncollected sticker by the company?                    </h3>
+                    <p style='margin-top:-2%'><p>If the returned sticker remains uncollected and there is no action from the company on this matter within 30 days from the issuance date, the sticker will be automatically cancelled and there will be no refund. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>10. If there are any amendments that need to be done on stickers, what will the company need to do?                    </h3>
+                    <p style='margin-top:-2%'><p>The company may go to MYXpats counter and make a manual amendment with a complete document as a checklist. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>11. What action does the company need to take if the application was returned at the PASS PRINTING stage?                    </h3>
+                    <p style='margin-top:-2%'><p>The only option the company has is the manual endorsement at MYXpats counter. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>12. What is the function of the "Received" button appearing in the Endorsement system request?                    </h3>
+                    <p style='margin-top:-2%'><p>It is a part of the sticker parcel delivery enhancement, as proof of digital acknowledgement of acceptance from the company for the delivered sticker parcel. </p></p>
+                </li>
+            </ul> -->
+
+            <h5 style='margin-bottom:2%'>ESD System - Pass Endorsement, ePASS</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is ePASS?                    </h3>
+                    <p style='margin-top:-2%'><p>ePASS, introduced in December 2022, is an electronic pass issued for the approved applications (Employment Pass, Dependent Pass, Long Term Social Visit Pass, Professional Visit Pass).</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. What is the purpose of the ePASS?                    </h3>
+                    <p style='margin-top:-2%'><p>The purpose of the ePASS is to ease the ENDORSEMENT process AND reduce the number of pages used on the Passport. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. What types of passes will be included under ePASS?                    </h3>
+                    <p style='margin-top:-2%'><ul class="sub-list"> <li>i. Employment Pass (EP) (New and Renewal Applications)</li> <li>ii. Dependent Pass (DP) </li> <li>iii. Long Term Social Visit Pass (LTSVP) </li> <li>iv. Professional Visit Pass (PVP)</li> </ul> <p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. How is the process to have my ePASS completely endorsed?                    </h3>
+                    <p style='margin-top:-2%'><p>There are two options for the ePASS endorsement</p> <p><strong>Option 1: Endorsement of ePASS via Expatriate Satellite Centre (ESC) KLIA Terminal 1 or Terminal 2</strong></p> <p>i. Company obtained Approval Letter for EP/DP/LTSVP/PVP.</p> <p>ii. Company informs applicant to obtain Visa with Reference (VDR) if applicable.</p> <p>iii. Purchase flight ticket for the purpose of entry into Malaysia.</p> <p>iv. Company initiates Endorsement submission via ESD Online and upload the required documents as per checklist.</p> <p>v. Submit Endorsement application.</p> <p>vi. MYXpats and JIM will process the Endorsement application.</p> <p>vii. Company will perform the payment for the Endorsement.</p> <p>viii. Applicant may enter Malaysia and proceed to ESC KLIA Terminal 1 or Terminal 2 for the ePASS endorsement. No appointment needed.</p> <p>ix. Applicant will obtain the ePASS and i-KAD (if applicable).</p> <p>x. If applicant is unable to obtain ePASS endorsement at ESC KLIA Terminal 1 or Terminal 2 due to unforeseen circumstances, the location of the ePASS endorsement has to be changed to MYXpats Centre.</p> <p>xi. If applicant is unable to be present at ESC KLIA Terminal 1 or Terminal 2 as per flight date submitted, the company should contact MYXpats through the Helpdesk to request the application to be returned. After receiving the returned application, the company can resubmit the endorsement request by changing the endorsement location to MYXpats Centre.</p> <p><strong>Option 2: Endorsement of ePASS via MYXpats Centre Surian Tower</strong></p> <p>i. Company obtained Approval Letter for EP/DP/LTSVP/PVP.</p> <p>ii. Company informs applicant to obtain Visa with Reference (VDR) if applicable.</p> <p>iii. Applicant may enter Malaysia via any entry point (air or land).</p> <p>iv. Company initiates Endorsement submission via ESD Online and upload the required documents as per checklist.</p> <p>v. Submit Endorsement application.</p> <p>vi. MYXpats and JIM will process the Endorsement application.</p> <p>vii. Company will perform the payment for the Endorsement.</p> <p>viii. ePASS will be endorsed via ESD Online and a button to generate the ePASS will appear at the company ESD Online account.</p> <p>ix. i-KAD will be delivered by POS Malaysia to the selected company address during the endorsement initiation (if applicable).</p> <p>x. Applicant will obtain the ePASS and i-KAD. Please note that i-KAD will only be issued to EP holder.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. How many working days will it take for the ePASS to process after payment is 
+made?                     </h3>
+                    <p style='margin-top:-2%'><p>Upon payment, it will take one (1) working day for the ePASS to be processed and reflected in the ESD Online. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>6. Can I shorten the ePASS?                    </h3>
+                    <p style='margin-top:-2%'><p>Yes, the ePASS can be shortened for the following reasons:</p> <p>i. Change of employer</p> <p>ii. Change of position title</p> <p>iii. Change of approval agency</p> <p>iv. Change of pass type</p> <p>v. End of Service</p> <p>vi. Death of ePASS holder</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>7. Does ePASS follow the validity of an approved application?                    </h3>
+                    <p style='margin-top:-2%'><p>The validity of the ePASS will follow the approval and validity of the applicants passport. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>8. Is the ePASS a valid document to be shown when entering or exiting Malaysia?                     </h3>
+                    <p style='margin-top:-2%'><p>The applicant can enter and exit Malaysia using the ePASS with a valid passport registered on the ePASS. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>9. Is the ePASS valid to show upon entry at the airport?                    </h3>
+                    <p style='margin-top:-2%'><p>Yes, it is valid to show upon entry at the airport. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>10. Is it possible for an applicant holding an ePASS to travel within Malaysia without a passport?                    </h3>
+                    <p style='margin-top:-2%'><p>No, the ePASS must always be presented together with the applicants passport. </p></p>
+                </li>
+            </ul>
+
+            <!-- added new FAQ 2025 syed -->
+            <h5 style='margin-bottom:2%'>Endorsement</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. Where can I find the ePASS?                    </h3>
+                    <p style='margin-top:-2%'><p>The ePASS can be downloaded from the ePASS section in the ESD Online. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. What should the company do if they do not receive the email to download the ePASS?                     </h3>
+                    <p style='margin-top:-2%'><p> Company may log in to the ESD Online System to download the ePASS. From the tab ENDORSEMENT -> PASS ENDORSEMENT -> ePASS on the left sidebar of the ESD Online system. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. If I cannot print the ePASS from the ESD Online or the button for the ePASS printout does not show the pass, how do I report the problem and what supporting documents should I share?                    </h3>
+                    <p style='margin-top:-2%'><p> Company may contact MYXpats helpdesk to report the issue, and there are no supporting documents needed. Our team will get back to you after the issue has been resolved. <p>Please be informed that only registered LOU personnel may contact us regarding the issue.</p> </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. What steps should be taken if there is an error found in the ePASS, and how can it be corrected?                    </h3>
+                    <p style='margin-top:-2%'><p> The company may email MYXpats helpdesk or walk-in to MYXpats Centre together with the required documents for amendment. The updated ePASS will be available within 3-5 working days. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. If the applicant was issued a new passport, is it necessary to make a Transfer of Endorsement (TOE) / Take-Up Balance (TUB) in the Sub-Product module?                    </h3>
+                    <p style='margin-top:-2%'><p> Yes, it is compulsory for company to apply the TOE/TUB via Sub-Product module in the ESD Online. After the TOE/TUB process has been completed, an updated ePASS will be issued to the applicant. </p><p> Please note that if the applicant has received a new passport and has not completed the TOE/TUB, immigration authorities have the right to deny them permission to leave the country. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>6. Is it necessary to attach the ePASS to the passport? If so, what is the proper procedure for doing so?                    </h3>
+                    <p style='margin-top:-2%'><p> The ePASS should be kept together with the passport. There is no requirement to affix it inside the passport; however, the applicant must ensure that the ePASS is readily available with the passport should any verification is required by the relevant authorities. </p><p> ePASS holder is also recommended to keep a digital copy of their ePASS in their mobile devices. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>7. How can the validity of the ePASS be confirmed?                    </h3>
+                    <p style='margin-top:-2%'><p> The ePASS will be issued with a QR code. Authorities and company representatives may scan the QR code to verify the ePASS authenticity. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>8. Can the ePASS be printed in case the applicants are unable to access it from their devices?                    </h3>
+                    <p style='margin-top:-2%'><p> Yes, the ePASS may still be printed for verification purposes if the devices cannot be accessed. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>9. What is the function of the ePASS QR Code?                    </h3>
+                    <p style='margin-top:-2%'><p> The QR Code will be displaying the information of the ePASS holder, to verify that the information indicated in the ePASS is valid. </p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>10. Is the ePASS accepted as a valid document for opening a bank account in Malaysia?                     </h3>
+                    <p style='margin-top:-2%'><p>Yes, the ePASS can be used to open a bank account. If the bank requires further verification, the company may request the bank to verify the ePASS validation through the Immigration Official Website via the link: <a href="https://imigresen-online.imi.gov.my/eservices/epass?semakan">https://imigresen-online.imi.gov.my/eservices/epass?semakan</a>.</p> <p><strong>OR</strong></p> <p>Please request the ePASS Validation Letter sample from the MYXpats Centre, steps as below:</p> <p>i. Cover Letter from the bank stating the intent to confirm the ePASS authenticity from immigration. (You may download the template from the ESD Online Downloads section or request it from the MYXpats Helpdesk)</p> <p>ii. Email to MYXpats Helpdesk (<a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a>) and attach the Cover Letter from the Bank.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>11. How do I get the ePASS validation which may be requested from the Embassy or Foreign Agency/Authorities?                    </h3>
+                    <p style='margin-top:-2%'><p>The company may request the Embassy or Foreign Agency/Authorities to check the ePASS validation through the Immigration Official Website via the link: <a href="https://imigresen-online.imi.gov.my/eservices/epass?semakan">https://imigresen-online.imi.gov.my/eservices/epass?semakan</a>.</p> <p><strong>OR</strong></p> <p>The company may request the Embassy or Foreign Agency/Authorities to contact ESD Putrajaya via <a href="mailto:esdhelpdesk@imi.gov.my">esdhelpdesk@imi.gov.my</a> for direct validation. The charter time will be one (1) working day for the Immigration Department's validation process.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>12. For Public Universities and Government Agencies, will they also receive ePASS for their expatriates?                    </h3>
+                    <p style='margin-top:-2%'><p>No. Expatriates for Public Universities and Government Agencies will continue to follow the current endorsement process which is manually at Immigration Department of Malaysia HQ or State offices, until further notice. </p></p>
+                </li>
+            </ul>
+
+            <h5 style='margin-bottom:2%'>Refund</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. When can a company request a refund?                    </h3>
+                    <p style='margin-top:-2%'><p></p><ul class="sub-list"><li>- A company can request a refund within fourteen (14) days of an unsuccessful/rejected application without an appeal.</li><li>- For non-rejected applications (e.g.: double payment), a company could request a refund within six (6) months of the application submission date.</li></ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. What happens if a company submits a refund request after six (6) months?                    </h3>
+                    <p style='margin-top:-2%'><p></p><ul class="sub-list"><li>- Refund for non-rejected applications requested after six (6) months duration will not be entertained.</li><li>- For unsuccessful/rejected applications, the button to initiate refund in the ESD Online will not be available after (14) days of the rejection date.</li></ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. How much is the amount to be refunded?                    </h3>
+                    <p style='margin-top:-2%'><p></p><ul class="sub-list"><li>- For any unsuccessful/rejected applications at the Approval Stage, MYXpats shall refund 75% of Expatriate Processing Fees, subject to MYXpats Terms and Conditions.</li><li>- In cases where an appeal is submitted, a refund will not be applicable.</li></ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. How to request a refund?                    </h3>
+                    <p style='margin-top:-2%'><p></p><ul class="sub-list"><li>- For rejected applications, the company can submit a refund request through the Expatriate Services Division (ESD) online system by clicking the 'Refund' button in the list of rejected applications.</li><li>- For non-rejected applications (e.g.: double payment), the company could drop an e-mail to <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a></li></ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. What is the required documentation for a refund request?                    </h3>
+                    <p style='margin-top:-2%'><p>- For unsuccessful/rejected applications at the approval stage, the following documentation is required:</p><ul class="sub-list"><li>i. Bank statement of the transaction</li><li>ii. MYXpats Invoice/Receipt (from ESD Online)</li><li>iii. <a href="https://esd.imi.gov.my/portal/pdf/Online_ESD_Refund_Request_Form_V3_2026.pdf" target="_blank">Refund Request Form (Rejected Application)</a></li><li>iv. Notification e-mail of rejection (sent to the Endorser's and Login ID User's email address)</li></ul><p>- For non-rejected applications (e.g.: double payment), the following documentation is required:</p><ul class="sub-list"><li>i. Bank statement of the transaction(s)</li><li>ii. MYXpats Invoice/Receipt (from ESD Online)</li><li>iii. <a href="https://esd.imi.gov.my/portal/pdf/Manual_ESD_Refund_Request_Form_V3_2026.pdf" target="_blank">Refund Request Form</a></li></ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>6. What is the required information in the bank statement?                    </h3>
+                    <p style='margin-top:-2%'><p>The bank statement must show the bank name, account number / credit card number, the account holder's name, and the transaction/payment deducted.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>7. Who should sign the Refund Request form?                    </h3>
+                    <p style='margin-top:-2%'><p>The company's Endorser or Director listed in SSM will need to sign the Refund Request Form.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>8. What if there is more than one application for the refund request?                    </h3>
+                    <p style='margin-top:-2%'><p>For multiple applications that are paid via the same transaction/ MYXpats invoice, please fill in all the applicants' full names and passport numbers in one (1) Refund Request Form.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>9. Which account will the refund be credited to?                    </h3>
+                    <p style='margin-top:-2%'><p>The refund will be credited to the same account used for the transaction/payment.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>10. What happens if the bank account used for the transaction/payment is closed/cancelled?                    </h3>
+                    <p style='margin-top:-2%'><p>The company may request for the refund to be credited into a different bank account with valid reason(s), subject to MYXpats' discretion. The company will need to provide additional documentation: the company's official letter to explain the circumstances leading to a refund request to a different bank account.</p></p>
+                </li>
+            </ul>
+
+            <h5 style='margin-bottom:2%'>Appeal</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is the Appeal Module?                    </h3>
+                    <p style='margin-top:-2%'><p>The Appeal Module is an online feature within the Expatriate Services Division (ESD) online system that enables companies to submit and track appeals for rejected Employment Pass (EP) or Professional Visit Pass (PVP) applications.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. Who is eligible to submit an appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>Only authorised company representatives with valid access to the ESD online system can initiate and submit appeals for rejected EP or PVP applications.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. Is there a deadline for submitting an appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>Yes. Appeals must be initiated and submitted within fourteen (14) days from the date of rejection by the Expatriate Committee (EC).</p><p>Appeal submissions will not be accepted after the 14-day period.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. Are there any fees or charges imposed for the appeal application?                    </h3>
+                    <p style='margin-top:-2%'><p>There are no additional fees imposed for appeal applications. However, once an appeal has been initiated, the application fee is non-refundable.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>5. Can a company request a refund after initiating or submitting an appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>No. Refunds are not applicable once an appeal has been initiated.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>6. How can a company submit an appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>To submit an appeal, please follow the steps below:
+<br/>
+- Log in to the ESD system<br/>
+- Navigate to the Rejected bin and click Appeal<br/>
+- Upload the required supporting documents<br/>
+- Read and acknowledge the disclaimer<br/>
+- Click Submit Appeal<br/>
+</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>7. What documents are required for an appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>The following documents are mandatory for every appeal:<br/>
+- Justification Letter (signed by the authorised endorser)<br/>
+- Latest Organisational Chart (specific to branch, if applicable)<br/>
+- Employer's EPF Contribution Statement<br/>
+<br/>
+Additional supporting documents may be required depending on the case, such as:<br/>
+- Letter of Award (LOA)<br/>
+- Sales Track Record<br/>
+- SOCSO Contribution Statement<br/>
+- Business Plan (5-year projection)<br/>
+- Supporting Letter from the relevant Approving Agency, etc.
+</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>8. Can the company edit the appeal application after submission?                    </h3>
+                    <p style='margin-top:-2%'><p>No. Once the appeal is submitted, it cannot be edited.<br/>
+If the appeal is returned due to insufficient/incomplete documents or information, the company will be notified to upload the required documents and resubmit within the stipulated timeframe.<br/>
+Please note that documents previously submitted to the Expatriate Committee (EC) during the initial application are not editable during the appeal stage.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>9. How long does the appeal process take?                    </h3>
+                    <p style='margin-top:-2%'><p>The appeal review process may take up to 30 working days, subject to the submission of a complete appeal application.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>10. What happens if the appeal documents are incomplete?                    </h3>
+                    <p style='margin-top:-2%'><p>If the appeal submission is incomplete, the application will be returned, and the company will be notified to provide the required documents or information for resubmission.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>11. Can the company withdraw the appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>Yes. To withdraw an appeal, the company is required to email the MYXpats Helpdesk (helpdesk@myxpats.com.my) with a cover letter (signed by the authorised endorser) stating the intention to withdraw the appeal.<br/>
+<br/>
+The Expatriate Committee - Appeal (EC-A) will then reject the appeal application under the reason of withdrawal.
+</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>12. Who makes the final decision on the appeal?                    </h3>
+                    <p style='margin-top:-2%'><p>The final decision on appeal applications is made by the Expatriate Committee - Appeal (EC-A).</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>13. Can the appeal status be tracked?                    </h3>
+                    <p style='margin-top:-2%'><p>Yes. The ESD online system provides appeal status updates, and companies will receive automated notifications.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>14. What happens if the appeal is approved?                    </h3>
+                    <p style='margin-top:-2%'><p>The company will receive an approval notification, and an official approval letter will be issued via the ESD online system.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>15. Can a second appeal be submitted if the first appeal is rejected?                    </h3>
+                    <p style='margin-top:-2%'><p>For Employment Pass (EP) applications rejected by EC-A, the company may refer the matter to the Ministry of Home Affairs (MOHA), Immigration Affairs Division, subject to their procedures and discretion. Please visit:<a href="https://www.moha.gov.my/utama/index.php/ms/bahagian-hal-ehwal-imigresen/perkhidmatan-bahagian" target="_blank"> https://www.moha.gov.my/utama/index.php/ms/bahagian-hal-ehwal-imigresen/perkhidmatan-bahagian</a></p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>16. Who should I contact if I encounter issues with the appeal submission?                    </h3>
+                    <p style='margin-top:-2%'><p>For assistance, please contact the MYXpats Helpdesk:
+<br/>- Email: helpdesk@myxpats.com.my<br/>- Telephone: +603 7839 7171
+</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>17. What should I do if I do not receive any appeal status updates?                    </h3>
+                    <p style='margin-top:-2%'><p>If no update is received within thirty (30) working days from the appeal submission date, please contact the MYXpats Helpdesk for further clarification.</p></p>
+                </li>
+            </ul>
+
+            <h5 style='margin-bottom:2%'>Useful Information</h5>
+            <ul>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>1. Where is the MYXpats Centre located?                    </h3>
+                    <p style='margin-top:-2%'><p>MYXpats Centre is located at:</p><p>Level 4, Surian Tower<br />No 1 Jalan PJU 7/3<br />Mutiara Damansara<br />47810 Petaling Jaya<br />Selangor Darul Ehsan</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>2. What are MYXpats Centre's operating hours?                    </h3>
+                    <p style='margin-top:-2%'><p>MYXpats Centre's operating hours are from 9:00 am to 5:00 pm from Mondays to Fridays.</p></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>3. How do I get to the MYXpats Centre?                    </h3>
+                    <p style='margin-top:-2%'><ul> <li> <p><b>i. By Car or Cab/Taxi:</b></p> <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3983.7872272960885!2d101.58746099999999!3d3.1507489999999994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4f2965246bef%3A0xa1e2370df21cc14f!2sMalaysia+Expatriate+Talent+Service+-+Centre+(MyXpats)!5e0!3m2!1sen!2smy!4v1430997819303" width="400" height="250" frameborder="0" style="border:0"></iframe> <p>GPS Coordinate: N3 09.484 E101 36.79</p> <p>Surian Tower can be accessed by the Lebuhraya Damansara-Puchong (LDP), the New Klang Valley Expressway (NKVE) and the SPRINT Highway's Penchala Link.</p> <br /> <p><b>ii. By Public Bus:</b></p> <p>You may take the U82 RapidKL bus from KL Sentral to Bandar Utama, Damansara. </p> <p>From Bandar Utama, take U86 RapidKL bus to The Curve, Mutiara Damansara.</p> <br /> <p><b>iii. By Public Train:</b></p> <p>You may take the MRT (Kwasa Damansara - Kajang Line) and to disembark at Mutiara Damansara Station, Mutiara Damansara</p> </li> </ul></p>
+                </li>
+                <li>
+                    <h3 style='margin-bottom:-2%; margin-top:-2%'>4. Where can I go for more information about MYXpats Centre?                    </h3>
+                    <p style='margin-top:-2%'><ul class="sub-list">
+						<li>Download the <a href="https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V4_2023(2024-1).pdf" target="_blank">ESD Online Guidebook</a> </li>
+						<li>Visit the Expatriate Services Division (ESD) website at <a href="//esd.imi.gov.my" target="_blank">esd.imi.gov.my</a></li>
+						<li>Contact us at +603 7839 7171 or email <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a></li>
+					</ul></p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="right">
+            <div class="topr text-prompter-container">
+                <div class="text-prompter" style="max-width:500px">
+                <h3 class="text" style='font-size: 18px; line-height: 24px;'>
+                    <b>
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026 &nbsp;
+                        F.A.Q Latest Update: 06/11/2026                    </b>
+                </h3>
+            </div>
+
+            </div>
+            <div class="bottom">
+                
+<h3>F.A.Q</h3>
+<div class="line"></div> 
+<div class="faq-banner">
+
+<div id="faq-container">
+        <p id="title"></p>
+        <p id="desc"></p>
+        <a href="https://esd.imi.gov.my/portal/faq/">read more +</a>
+    </div>
+
+
+  <script>
+        $(document).ready(function() {
+            
+            function displayFAQs(faqs, index) {
+                var title = faqs[index].title;
+                var desc = faqs[index].desc;
+
+                $('#title').html('<b>Q:<br /> ' + title + '</b></p><br />');
+                $('#desc').html('A:<br />' + desc + '');
+                
+            }
+
+            $.ajax({
+                url: '/portal/include/ajax-faq.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(response) {
+                    if (response.status === 'success') {
+                        var faqs = response.data;
+                        var index = 0;
+                        var faqCount = faqs.length;
+
+                        
+                        displayFAQs(faqs, index);
+
+                       
+                        var timer = setInterval(function() {
+                            index = (index + 1) % faqCount;
+                            displayFAQs(faqs, index);
+                        }, 5000); 
+                    } else {
+                        $('#faq-container').text('Error: ' + response.message);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.log(error);
+                }
+            });
+        });
+    </script>
+            </div>
+
+            <div >
+                <br/>
+                <p style='color: #009bb5'>For a comprehensive FAQ on the Revised Expatriate Salary Policy, Pass Endorsement - ePASS, fee revision, and Professional Visit Pass (PVP).</p>
+
+                <p>1.	<a href='/portal/pdf/Revised_Expatriate_Salary_Policy_FAQ.pdf' style='text-decoration:underline' target="_blank">Revised Expatriate Salary Policy FAQ</a></p>
+                <p>2.	<a href='/portal/latest-news/announcement/myxpats-epass-briefing-2022/FREQUENTLY-ASKED-QUESTIONS-EPASS-(FAQ)-LATEST230926.pdf' style='text-decoration:underline' target="_blank">ePASS FAQ</a></p>
+                <!-- <p>1.	<a href='/portal/faq/FAQ_REVISION_FEE.pdf' style='text-decoration:underline' target="_blank">ePASS FAQ</a></p> -->
+                <p>3.	<a href='/portal/faq/FAQ_REVISION_FEE.pdf' style='text-decoration:underline' target="_blank">Fee Revision FAQ</a></p>
+                <p>4.	<a href='/portal/faq/LAMPIRAN-A-F.A.Q-PLIK-PAKAR.pdf' style='text-decoration:underline' target="_blank">Professional Visit Pass (PVP) FAQ</a></p>
+            </div>
+
+            <div class="backtop-desktop" style="display: ;">
+                <a href="#0" class="cd-top">Back Top</a>
+            </div>
+        </div>
+    </div>
+
+    <div style="clear: both;"></div>
+</div>
+
+<script>
+    window.addEventListener('DOMContentLoaded', function() {
+        var containerWidth = document.querySelector('.right').offsetWidth;
+        var textWidth = document.querySelector('.text-prompter .text').offsetWidth;
+        var animationDuration = (textWidth + containerWidth) * 30; // Adjust speed as needed
+
+        document.querySelector('.text-prompter').style.width = textWidth + 'px';
+
+        function animateTextPrompter() {
+            var prompterElement = document.querySelector('.text-prompter');
+            prompterElement.style.transform = 'translateX(' + containerWidth + 'px)';
+            prompterElement.animate([
+                { transform: 'translateX(' + containerWidth + 'px)' },
+                { transform: 'translateX(-' + textWidth + 'px)' }
+            ], {
+                duration: animationDuration,
+                easing: 'linear',
+                iterations: Infinity
+            });
+        }
+
+        animateTextPrompter();
+    });
+</script>
+
+<script>
+    function performSearchX() {
+        var searchQuery = document.getElementById("query2").value;
+        window.location.href = "/portal/faq/myxpats/index.php?query=" + encodeURIComponent(searchQuery);
+    }
+</script>
+
+		</div><!-- end content-wrapper -->
+		<div class="footer-wrapper">
+			<div class="left">
+				<div class="backtop" style="display: none;">
+					<a href="#0" class="cd-top">Back Top</a>
+				</div>
+				<div class="copyright">
+					<h1>Expatriate Services Division</h1>
+					<h2>IMMIGRATION DEPARTMENT OF MALAYSIA<br />BAHAGIAN KHIDMAT EKSPATRIAT JABATAN IMIGRESEN MALAYSIA</h2>
+					<small>© 2026 Expatriate Services Division. All Rights Reserved.</small>
+				</div>
+				<div class="bottom-menu">
+					<ul>
+						<li><a class="" href="https://esd.imi.gov.my/portal/">Home</a></li>
+						<li><a class=""  href="https://esd.imi.gov.my/portal/about-us/esd/">About Us</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/employers">Employers</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Expatriates</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/latest-news/news/">Latest News</a></li>
+                        <li><a class="active" href="https://esd.imi.gov.my/portal/faq/">F.A.Q</a></li>
+						<div style="clear: both;"></div>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<ul class="top" style="display:block;">
+					<!-- <li class=""><a href="faq/">F.A.Q</a></li>
+					 <li><a href="#">T&C</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Useful Links</a></li> -->
+				</ul>
+				<!-- <ul class="bottom">
+					<li><a class="fb" href="#"> fb </a></li>
+					<li><a class="twi" href="#"> twi </a></li>
+					<li><a class="in" href="#"> in </a></li>
+					<li><a class="youtube" href="#"> youtube </a></li>
+					<div style="clear: both;"></div>
+				</ul> -->
+			</div>
+			<div style="clear: both;"></div>
+			<p class="mobile-copyright" style="display: none;">© 2026 Expatriate Services Division. All Rights Reserved.</p>
+		</div> 
+	</div> <!-- end main-wrapper -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-62607230-1', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+</body>
+</html>

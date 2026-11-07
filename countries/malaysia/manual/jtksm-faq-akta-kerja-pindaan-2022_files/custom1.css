@@ -1,0 +1,1558 @@
+@import url("https://web.archive.org/web/20260402042935cs_/https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+@import url("https://web.archive.org/web/20260402042935cs_/https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap");
+@font-face {
+  src: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/fonts/impact.ttf");
+}
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+}
+
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+  }
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #09091C;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1080px;
+  width: 100%;
+}
+
+/* Default Styling */
+h1.jtksm {
+  font-size: 48px;
+  line-height: 52px;
+}
+
+h2.jtksm {
+  font-size: 30px;
+  line-height: 45px;
+}
+
+h3.jtksm {
+  color: #1E3067;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 39px;
+  text-transform: uppercase;
+}
+
+h4.jtksm {
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.bg-bc1 {
+  background-color: #000F8A;
+}
+
+.bg-bc2 {
+  background-color: #E99C22;
+}
+
+.bg-bc3 {
+  background-color: #F1F5F7;
+}
+
+.text-color-t1 {
+  color: #000000;
+}
+
+.text-color-t2 {
+  color: #303030;
+}
+
+.text-color-t3 {
+  color: #6E6E6E;
+}
+
+.text-color-t4 {
+  color: #000F8A;
+}
+
+.text-color-t5 {
+  color: #FFFFFF;
+}
+
+.jtksm.font-bold {
+  font-weight: 700;
+}
+.jtksm.font-medium {
+  font-weight: 500;
+}
+.jtksm.font-regular {
+  font-weight: 300;
+}
+.jtksm.primary-btn {
+  background-color: #FBAC00;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 30px;
+  /*border: 1px solid #FBAC00;*/
+}
+.jtksm.primary-btn:hover {
+  color: #000;
+}
+.jtksm.primary-btn.outline {
+  background-color: #153B89;
+  color: #fff;
+}
+.jtksm.primary-btn.outline:hover {
+  background-color: #1E3067;
+}
+.jtksm.secondary-btn {
+  background-color: #000F8A;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 30px;
+  border: 1px solid #000F8A;
+  border-radius: 30px;
+}
+.jtksm.secondary-btn:hover {
+  background-color: #fff;
+  color: #000F8A;
+}
+.jtksm.secondary-btn.outline {
+  background-color: #fff;
+  color: #000F8A;
+  border: 1px solid #000F8A;
+}
+.jtksm.secondary-btn.outline:hover {
+  background-color: #000F8A;
+  color: #fff;
+}
+
+/* Welcome Page */
+.path-frontpage #content {
+  display: block !important;
+  padding: 0;
+}
+
+.user-logged-in.page-node-1 footer {
+  bottom: auto;
+}
+
+.page-node-1 {
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/Welcome page@2x.png") no-repeat top center;
+  background-size: cover;
+  background-attachment: fixed;
+  /*footer {
+  	position: absolute;
+  	width: 100%;
+  	background: transparent linear-gradient(168deg, #00AAEB 0%, #1C1872 100%) 0% 0%;
+  	color: #fff;
+  	bottom: 0;
+  	padding: 10px 15px;
+  	opacity: 0.9;
+
+  	.site-footer__bottom,
+  	.site-footer__bottom .region {
+  		margin: 0;
+  		border-top: 0;
+
+  		.content {
+  			padding: 0;
+
+  			a {
+  				text-decoration: none;
+  			}
+  		}
+  	}
+  }*/
+}
+.page-node-1 #page {
+  background: transparent;
+}
+.page-node-1 .container {
+  max-width: 1136px;
+}
+.page-node-1 #header,
+.page-node-1 .title {
+  display: none;
+}
+.page-node-1 div#block-welcomepageheader {
+  padding: 25px 0 20px;
+}
+.page-node-1 div#block-welcomepageheader .header-date-wrapper {
+  font-size: 16px;
+}
+.page-node-1 div#block-welcomepageheader .header-date-wrapper ul {
+  list-style: none;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.page-node-1 div#block-welcomepageheader .header-date-wrapper ul li {
+  color: #212121;
+  font-style: normal;
+  font-weight: 500;
+}
+.page-node-1 div#block-welcomepageheader .header-date-wrapper ul li:nth-last-child(1) {
+  display: none;
+}
+.page-node-1 div#main-wrapper {
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/Welcome page@2x.png") no-repeat top center;
+  background-size: cover;
+  background-attachment: fixed;
+  /*height: calc(100vh - 71px);
+  border-radius: 50px;*/
+  height: 100vh;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.page-node-1 div#main-wrapper .node__content {
+  margin-top: 0;
+}
+.page-node-1 div#main-wrapper .node__content .wc-center {
+  padding: 0 15px;
+}
+.page-node-1 div#main-wrapper .node__content .wc-center .wc-jata {
+  margin-top: 30px;
+}
+
+.font-montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.font-impact {
+  font-family: "impact", sans-serif;
+}
+
+.wc-title-color-1 {
+  color: #fff;
+}
+
+.wc-title-color-2 {
+  color: #176190;
+}
+
+.wc-title-1 {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 61px;
+  text-shadow: 0px 2px 10px #000000AD;
+}
+
+.wc-title-2 {
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 21px;
+  text-shadow: 0px 2px 10px #000000AD;
+}
+
+.wc-title-3 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 14px;
+}
+
+.wc-title-4 {
+  font-size: 14px;
+}
+
+.welcome-page {
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/welcome-bg.png") no-repeat top center;
+  background-size: cover;
+}
+
+.wc-link-wrapper {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 128px;
+  height: 149px;
+  padding: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 15px;
+}
+.wc-link-wrapper > a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+.wc-link-wrapper:hover .wc-link + p {
+  font-weight: 700;
+}
+.wc-link-wrapper:hover .wc-link:before {
+  transform: rotate(180deg);
+}
+.wc-link-wrapper:hover .wc-link:after {
+  transform: rotate(-90deg);
+  top: 20px;
+  left: 18px;
+}
+.wc-link-wrapper .wc-link {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  margin: 0 auto;
+}
+.wc-link-wrapper .wc-link:before {
+  content: "";
+  position: absolute;
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/ring.svg") no-repeat;
+  width: 90px;
+  height: 90px;
+  transition: all ease 1s;
+}
+.wc-link-wrapper .wc-link:after {
+  content: "";
+  position: absolute;
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/Blue Triangle.svg") no-repeat;
+  width: 53.99px;
+  height: 55.37px;
+  top: 17px;
+  left: 15px;
+  transition: all ease 500ms;
+}
+
+#search-block-form {
+  position: relative;
+}
+#search-block-form input#edit-keys {
+  width: 300px;
+  border-radius: 30px;
+}
+#search-block-form div#edit-actions {
+  position: absolute;
+  width: 50px;
+  right: 10px;
+}
+#search-block-form div#edit-actions input#edit-submit,
+#search-block-form div#edit-actions button#edit-submit {
+  background: url(/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/search-outline.svg) no-repeat center;
+  background-size: 20px;
+  background-color: transparent;
+  color: transparent;
+  border-radius: 30px;
+  border-color: transparent;
+}
+
+/* Top Header */
+header#header {
+  /*background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/Rectangle 8266.svg") no-repeat top center;
+  background-size: contain;*/
+}
+header#header #navbar-top,
+header#header #navbar-main {
+  background-color: transparent;
+  margin-bottom: -3px;
+  padding-bottom: 0;
+}
+header#header #navbar-top .region-top-header,
+header#header #navbar-main .region-top-header {
+  margin: 0;
+}
+header#header #navbar-main {
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+nav#navbar-top.navbar {
+  display: block;
+}
+nav#navbar-top.navbar div#block-topheader {
+  padding: 0 15px 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+nav#navbar-top.navbar div#block-topheader .container {
+  position: relative;
+}
+nav#navbar-top.navbar div#block-topheader .container div {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+nav#navbar-top.navbar div#block-topheader .container div .wc3 {
+  background-color: #FBAC00;
+  padding: 10px;
+  margin-right: 15px;
+  font-size: 14px;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size {
+  color: #757A8A;
+  font-size: 12px;
+  margin-right: 5px;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y {
+  width: auto;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y .a11y-control img,
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y .a11y-control label {
+  display: none;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y .a11y-control {
+  background: transparent;
+  border: 0;
+  margin: 3px;
+  padding: 0;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y button#a11y-textsize-decrease:before {
+  content: "-A";
+  font-size: 14px;
+  font-weight: 700;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y button#a11y-textsize-reset:before {
+  content: "A";
+  font-size: 14px;
+  font-weight: 700;
+}
+nav#navbar-top.navbar div#block-topheader .container div .text-size .block-a11y button#a11y-textsize-increase:before {
+  content: "+A";
+  font-size: 14px;
+  font-weight: 700;
+}
+nav#navbar-top.navbar div#block-topheader .container div .w3c-div {
+  font-size: 14px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+nav#navbar-top.navbar div#block-topheader .container div .w3c-div:nth-last-child(1) {
+  margin-right: 15px;
+}
+nav#navbar-top.navbar div#block-topheader .container div .lang-swithcer {
+  background-color: #fff;
+  padding: 0px 10px 4px;
+  border: 1px solid #1E3067;
+  border-radius: 30px;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .nav-link {
+  padding: 0 5px;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .nav-link a {
+  color: #BBBBBB;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .nav-link a.is-active {
+  color: #1E3067;
+  font-weight: 500;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .nav-link:nth-child(1):after {
+  position: absolute;
+  content: "|";
+  color: #1E3067;
+  left: 50%;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .ms.nav-link a {
+  position: relative;
+  color: transparent !important;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .ms.nav-link a:before {
+  position: absolute;
+  content: "BM";
+  color: #BBBBBB;
+  top: -2px;
+}
+nav#navbar-top.navbar div#block-topheader .container div#block-languageswitcherlangcode .ms.nav-link a.is-active:before {
+  color: #1E3067;
+}
+nav#navbar-top.navbar div#block-brandingheader {
+  /*padding: 28px 15px 20px;*/
+  padding: 10px;
+}
+nav#navbar-top.navbar div#block-brandingheader img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+nav#navbar-top.navbar div#block-brandingheader img.last {
+  margin-left: 15px;
+}
+nav#navbar-top.navbar div#block-brandingheader .pipe {
+  display: inline-block;
+  color: #E5E5E5;
+  font-size: 42px;
+  line-height: 42px;
+  vertical-align: sub;
+  margin-right: 10px;
+}
+nav#navbar-top.navbar div#block-brandingheader h1 {
+  display: inline-block;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 18px;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+nav#navbar-top.navbar div#block-brandingheader h1 span {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+nav#navbar-top.navbar div#block-brandingheader .warga {
+  display: inline-block;
+  background-color: #153B89;
+  /*margin-right: 15px;*/
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 2px;
+}
+nav#navbar-top.navbar div#block-brandingheader .warga.logout {
+  display: none;
+  padding: 7px;
+}
+nav#navbar-top.navbar div#block-brandingheader .warga:hover {
+  background-color: #1E3067;
+}
+nav#navbar-top.navbar div#block-brandingheader .warga a {
+  color: #fff;
+  text-decoration: none;
+}
+nav#navbar-top.navbar div#block-brandingheader .pautan {
+  display: inline-block;
+  padding: 10px 0 10px;
+  vertical-align: middle;
+}
+nav#navbar-top.navbar div#block-brandingheader .pautan a {
+  display: inline-block;
+  width: 40px;
+  color: #000;
+  font-size: 8px;
+  text-align: center;
+  line-height: normal;
+  margin-right: 10px;
+  text-decoration: none;
+}
+nav#navbar-top.navbar div#block-brandingheader .pautan a img, nav#navbar-top.navbar div#block-brandingheader .pautan a:nth-last-child(1) {
+  margin-right: 0;
+}
+
+.user-logged-in nav#navbar-top.navbar div#block-brandingheader .warga.logout {
+  display: inline-block;
+}
+
+/* W3C */
+.header-w3c-wrapper {
+  display: inline-block;
+  cursor: pointer;
+}
+.header-w3c-wrapper > span {
+  display: inline-block;
+  background-color: #fff;
+  width: 16px;
+  height: 16px;
+  text-align: center;
+  /*margin-right: 10px;*/
+  cursor: pointer;
+}
+.header-w3c-wrapper > span .mea-icon.cc-normal {
+  background-position: -268px -23px;
+  width: 13px;
+  height: 13px;
+}
+.header-w3c-wrapper > span .mea-icon.cc-grey {
+  background-position: -268px -23px;
+  width: 13px;
+  height: 13px;
+}
+.header-w3c-wrapper > span .mea-icon.cc-black {
+  background-position: -114px -69px;
+  width: 13px;
+  height: 13px;
+}
+.header-w3c-wrapper > span .mea-icon.cc-blue {
+  background-position: -268px -23px;
+  width: 13px;
+  height: 13px;
+}
+.header-w3c-wrapper > span .mea-icon.font-plus {
+  background-position: -312px -24px;
+  width: 15px;
+  height: 11px;
+}
+.header-w3c-wrapper > span .mea-icon.font-normal {
+  background-position: -83px -70px;
+  width: 15px;
+  height: 11px;
+}
+.header-w3c-wrapper > span .mea-icon.font-minus {
+  background-position: -358px -24px;
+  width: 14px;
+  height: 11px;
+}
+.header-w3c-wrapper.warna > span:nth-child(1) {
+  background-color: #d0cba5 !important;
+  /*margin-left: 30px;*/
+}
+.header-w3c-wrapper.warna > span:nth-child(2) {
+  background-color: #000 !important;
+}
+.header-w3c-wrapper.warna > span:nth-child(3) {
+  background-color: #448cd9 !important;
+}
+.header-w3c-wrapper.warna > span:nth-child(4) {
+  background-color: #fff !important;
+  /*margin-right: 30px;*/
+  border: 1px solid #000;
+}
+.header-w3c-wrapper > span:nth-last-child(1) {
+  margin-right: 0;
+}
+
+div#collapsew3c {
+  position: absolute;
+  width: 235px;
+  background-color: #f1f3f5;
+  /*border: 1px solid #000;*/
+  padding: 5px;
+  z-index: 99;
+  /*right: calc(50% - 320px);*/
+  top: 0;
+  right: 48px;
+  box-shadow: 0px 3px 6px #00000029;
+}
+div#collapsew3c .aturan-title {
+  background-color: #153B89;
+  color: #fff;
+  padding: 10px;
+}
+
+.collapsing {
+  -webkit-transition: none;
+  transition: none;
+  display: none;
+}
+
+/* Main Menu */
+div#block-mainnavigation {
+  /*margin-top: 20px;*/
+}
+div#block-mainnavigation .navbar {
+  background: transparent;
+  padding: 0;
+  margin: 0;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li {
+  padding: 10px;
+  /*&:nth-child(1) {
+  	padding-left: 0;
+  }*/
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li > a {
+  text-transform: uppercase;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li:hover {
+  background-color: #153B89;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li:hover > a {
+  color: #fff;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li a {
+  background: transparent;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  /*text-transform: uppercase;*/
+  text-decoration: none;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li a:before {
+  display: none;
+  right: -15px;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li.active {
+  background-color: #153B89;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li.active > a {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  /*border-bottom: 2px solid #000F8A;*/
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li.dropdown-menu .we-mega-menu-submenu .nav.nav-tabs.subul {
+  display: block;
+  padding-left: 10px;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li.dropdown-menu .we-mega-menu-submenu .nav.nav-tabs.subul .we-mega-menu-li {
+  padding: 3px 0;
+}
+div#block-mainnavigation .navbar .we-mega-menu-ul > .we-mega-menu-li.normal a {
+  text-transform: none !important;
+}
+
+div#block-mainnavigation-2 {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Search */
+.search-container.active {
+  position: relative;
+  background: transparent;
+}
+
+#search-icon {
+  cursor: pointer;
+}
+#search-icon.active img.open {
+  display: none;
+}
+#search-icon.active img.closed {
+  display: block !important;
+}
+
+#search-wrapper {
+  display: none;
+  position: absolute;
+  width: 310px;
+  right: 0;
+  padding: 5px;
+  z-index: 1;
+  visibility: hidden;
+  opacity: 0;
+}
+#search-wrapper .search-form {
+  padding: 0;
+}
+#search-wrapper .form-group {
+  margin-bottom: 0;
+}
+#search-wrapper .form-search {
+  width: 248px;
+}
+#search-wrapper .form-actions button,
+#search-wrapper .form-actions input {
+  display: none;
+}
+#search-wrapper.active {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Floating */
+div#block-floatleftwidget {
+  position: fixed;
+  left: 0;
+  top: 280px;
+  z-index: 99;
+}
+div#block-floatleftwidget .float-left-widget {
+  background: #153B89;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+div#block-floatleftwidget .float-left-widget li {
+  padding: 10px;
+  border-bottom: 1px solid #69799A;
+}
+
+div#block-floatrightwidget {
+  position: fixed;
+  right: 0;
+  top: 280px;
+  z-index: 99;
+}
+div#block-floatrightwidget .float-right-widget {
+  background: #153B89;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+div#block-floatrightwidget .float-right-widget li {
+  padding: 10px;
+  border-bottom: 1px solid #69799A;
+}
+div#block-floatrightwidget .float-right-widget li:nth-child(1) img {
+  /*margin-left: 5px;*/
+}
+div#block-floatrightwidget .float-right-widget li:nth-last-child(1) img {
+  margin-left: 5px;
+}
+
+/* Main Banner */
+div#block-views-block-main-banner-block-1 {
+  /*background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/BG Banner.svg") top left;
+  margin: 0 -15px;
+  padding: 30px 0 0;*/
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner {
+  /*max-width: 1200px;*/
+  max-width: 100%;
+  margin: 0 auto;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-item img {
+  width: 100vw;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-theme .owl-controls {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-theme .owl-controls .owl-dots .owl-dot span {
+  background: #fff;
+  border: 1px solid #1E3067;
+  margin: 5px 5px;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-theme .owl-controls .owl-dots .owl-dot.active span {
+  width: 24px;
+  background: #1E3067;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-pagination .owl-page span {
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  border: 1px solid #1E3067;
+  margin: 5px 5px;
+  opacity: 1;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-pagination .owl-page span:hover {
+  background: #1E3067;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-pagination .owl-page.active span {
+  width: 25px;
+  background: #1E3067;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .views-field.views-field-body {
+  position: absolute;
+  color: #fff;
+  width: 40%;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .views-field.views-field-body .banner-divider {
+  color: #A944B9;
+  transition: all ease 0.5s;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .views-field.views-field-body .banner-title1 {
+  font-size: 46px;
+  line-height: 52px;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .views-field.views-field-body .banner-box {
+  display: inline-block;
+  background-color: #1644D6;
+  box-shadow: 0px 3px 6px #5D0A0A66;
+  padding: 5px;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .views-field.views-field-body a {
+  color: #fff;
+  text-decoration: none;
+}
+div#block-views-block-main-banner-block-1 .view.view-main-banner .views-field.views-field-body a:hover span {
+  margin-left: 5px;
+}
+
+/* Pengumuman */
+div#block-pengumumanfront {
+  margin: 30px 0;
+}
+div#block-pengumumanfront .pengumuman-box {
+  background-color: #153B89;
+  color: #fff;
+  padding: 15px 10px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  vertical-align: middle;
+  box-shadow: 0px 3px 6px #00000029;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman {
+  display: inline-block;
+  width: calc(100% - 152px);
+  margin-left: -5px;
+  padding: 11px 10px;
+  border: 1px solid #F0F0F0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  vertical-align: middle;
+  box-shadow: 0px 3px 6px #00000029;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman a {
+  color: #303030;
+  text-decoration: none;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman span {
+  color: #6E6E6E;
+  margin-right: 15px;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-nav {
+  position: absolute;
+  margin: 0;
+  top: -15px;
+  right: 10px;
+  font-size: 30px;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-nav button {
+  margin: 0;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-nav button:nth-child(1) {
+  margin-right: 5px;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-nav button:hover {
+  background: none;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-nav button span {
+  margin-right: 0;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-controls {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  margin-top: 0;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-controls .owl-prev {
+  background: transparent;
+  color: transparent;
+  opacity: 1;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-controls .owl-prev:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/left caret.svg") no-repeat center center;
+  width: 6.88px;
+  height: 11.98px;
+  margin-right: 10px;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-controls .owl-next {
+  background: transparent;
+  color: transparent;
+  opacity: 1;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman .owl-controls .owl-next:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/right caret.svg") no-repeat center center;
+  width: 6.88px;
+  height: 11.98px;
+}
+
+/* Perkhidmatan Kami */
+div#block-perkhidmatanfront h1 {
+  font-size: 26px;
+  line-height: 30px;
+}
+div#block-perkhidmatanfront .owl-item {
+  padding: 5px;
+}
+div#block-perkhidmatanfront .owl-item > div {
+  /*background: linear-gradient(180deg, #A944B9, #851996);*/
+  background: #153B89;
+  padding: 3px 3px;
+  border-radius: 5px;
+}
+div#block-perkhidmatanfront .owl-item > div .views-field.views-field-title {
+  background: #fff;
+  border-radius: 5px;
+  text-align: center;
+  min-height: 90px;
+}
+div#block-perkhidmatanfront .owl-item > div .views-field.views-field-title:hover {
+  background: #153B89;
+}
+div#block-perkhidmatanfront .owl-item > div .views-field.views-field-title:hover a {
+  color: #fff;
+}
+div#block-perkhidmatanfront .owl-item > div .views-field.views-field-title a {
+  position: absolute;
+  width: 100%;
+  color: #000;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  text-decoration: none;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav {
+  position: absolute;
+  top: 30px;
+  margin: 0;
+  padding: 0;
+  width: calc(100% - 24px);
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev {
+  position: absolute;
+  top: 0;
+  left: -25px;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/left arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev span {
+  display: none;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev:hover {
+  background: transparent;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev.disabled {
+  opacity: 0.8;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next {
+  position: absolute;
+  top: 0;
+  right: -25px;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/right arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next span {
+  display: none;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next:hover {
+  background: transparent;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next.disabled {
+  opacity: 0.8;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls {
+  position: absolute;
+  width: calc(100% - 25px);
+  top: 20px;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-prev {
+  position: absolute;
+  background: transparent;
+  color: transparent;
+  top: 0;
+  left: -30px;
+  opacity: 1;
+  font-size: 0;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-prev:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/left arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-next {
+  position: absolute;
+  background: transparent;
+  color: transparent;
+  top: 0;
+  right: -30px;
+  opacity: 1;
+  font-size: 0;
+}
+div#block-perkhidmatanfront .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-next:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/right arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+
+/* Perkhidmatan Kami Page */
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan {
+  margin-left: -25px;
+  margin-right: -25px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan h1 {
+  font-size: 26px;
+  line-height: 30px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-item {
+  padding: 5px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-item > div {
+  /*background: linear-gradient(180deg, #A944B9, #851996);*/
+  background: #153B89;
+  padding: 3px 3px;
+  border-radius: 5px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-item > div .views-field.views-field-title {
+  background: #fff;
+  border-radius: 5px;
+  text-align: center;
+  min-height: 90px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-item > div .views-field.views-field-title:hover {
+  background: #153B89;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-item > div .views-field.views-field-title:hover a {
+  color: #fff;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-item > div .views-field.views-field-title a {
+  position: absolute;
+  width: 100%;
+  color: #000;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  text-decoration: none;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav {
+  position: absolute;
+  top: 30px;
+  margin: 0;
+  padding: 0;
+  width: calc(100% - 24px);
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev {
+  position: absolute;
+  top: 0;
+  left: -25px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/left arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev span {
+  display: none;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev:hover {
+  background: transparent;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-prev.disabled {
+  opacity: 0.8;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next {
+  position: absolute;
+  top: 0;
+  right: -25px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/right arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next span {
+  display: none;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next:hover {
+  background: transparent;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-nav button.owl-next.disabled {
+  opacity: 0.8;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls {
+  position: absolute;
+  width: calc(100% - 25px);
+  top: 20px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-prev {
+  position: absolute;
+  background: transparent;
+  color: transparent;
+  left: -30px;
+  opacity: 1;
+  font-size: 0;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-prev:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/left arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-next {
+  position: absolute;
+  background: transparent;
+  color: transparent;
+  right: -30px;
+  opacity: 1;
+  font-size: 0;
+}
+div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan .owl-controls .owl-next:before {
+  content: "";
+  display: block;
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/right arrow.svg") no-repeat center center;
+  background-color: #fff;
+  width: 20px;
+  height: 15.46px;
+  padding: 15px;
+  border-radius: 50px;
+}
+
+.perkhidmatan-kami.even {
+  background-color: #fff;
+  margin-left: -15px !important;
+  margin-right: -15px !important;
+}
+.perkhidmatan-kami.odd {
+  background-color: #ECEEEF;
+  margin-left: -15px !important;
+  margin-right: -15px !important;
+}
+.perkhidmatan-kami.odd.ptp {
+  /*background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/perkhidmatan/BG page@2x.png") no-repeat top center;
+  background-size: cover;*/
+  background-color: #ECEEEF;
+}
+.perkhidmatan-kami.odd.ptp h3.jtksm {
+  color: #1E3067;
+  font-size: 30px;
+  line-height: 39px;
+}
+.perkhidmatan-kami.odd.ptp h3.jtksm:before, .perkhidmatan-kami.odd.ptp h3.jtksm:after {
+  display: none;
+}
+.perkhidmatan-kami h3.jtksm {
+  position: relative;
+  /*&:before {
+  	content: "";
+  	position: absolute;
+     background: #000F8A;
+  	width: 130px;
+     height: 2px;
+     bottom: 0;
+  }
+
+  &:after {
+  	content: "";
+  	position: absolute;
+     background: #009BDF;
+  	width: 130px;
+     height: 2px;
+     left: 130px;
+     bottom: 0;
+  }*/
+}
+.perkhidmatan-kami .box-ptp {
+  position: relative;
+  display: inline-block;
+  background-color: #fff;
+  color: #fff;
+  width: 169.07px;
+  height: 186.21px;
+  padding: 15px;
+  /*border-radius: 30px;*/
+  font-family: "Poppins", sans-serif;
+  vertical-align: top;
+  /*&.b1 {
+  	background: transparent linear-gradient(64deg, #FFD94F 0%, #FF42C6 100%);
+  }
+
+  &.b2 {
+  	background: transparent linear-gradient(59deg, #45BBF0 0%, #2A7BFF 100%);
+  }
+
+  &.b3 {
+  	background: transparent linear-gradient(59deg, #6AEFDC 0%, #13C7AA 100%);
+  }
+
+  &.b4 {
+  	background: transparent linear-gradient(64deg, #CF57E2 0%, #742B80 100%);
+  }*/
+}
+.perkhidmatan-kami .box-ptp:hover:after {
+  display: block;
+}
+.perkhidmatan-kami .box-ptp:after {
+  display: none;
+  background: #153B89;
+  position: absolute;
+  content: "Selanjutnya";
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 82px;
+  padding: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.perkhidmatan-kami .box-ptp a {
+  color: #fff;
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99;
+}
+.perkhidmatan-kami .box-ptp span {
+  font-size: 20px;
+  margin-right: 20px;
+  vertical-align: top;
+}
+.perkhidmatan-kami .box-ptp p {
+  color: #1E3067;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  margin-top: 30px;
+  /*margin-left: 15px;*/
+}
+.perkhidmatan-kami .box-ptp:hover span {
+  font-size: 24px;
+  margin-right: 5px;
+}
+.perkhidmatan-kami .box-ptp:hover p {
+  font-size: 20px;
+}
+
+:lang(en) .perkhidmatan-kami .box-ptp:after {
+  content: "More";
+}
+
+/* Perkhidmatan Kami Pertanyaan */
+div#block-adapertanyaanmengenaiperkhidmatanjtksm {
+  color: #fff;
+  background-color: #2580C3;
+  padding: 25px;
+}
+
+/* Content Page */
+div#block-contentheaderdefault {
+  background: transparent linear-gradient(271deg, #1E3067 0%, #035B90 100%);
+  margin: 0 -15px;
+  padding: 10px;
+}
+div#block-contentheaderdefault div#block-jtksm-breadcrumbs .breadcrumb {
+  margin-bottom: 10px;
+}
+div#block-contentheaderdefault div#block-jtksm-breadcrumbs .breadcrumb .breadcrumb-item {
+  color: #fff;
+  font-size: 14px;
+}
+div#block-contentheaderdefault div#block-jtksm-breadcrumbs .breadcrumb .breadcrumb-item:before {
+  background: url("/web/20260402042935im_/https://jtksm.mohr.gov.my/themes/jtksm/images/Right caret breadcrumb.svg") no-repeat center;
+  color: transparent;
+  width: 6px;
+  height: 9px;
+  margin: 6px;
+}
+div#block-contentheaderdefault div#block-jtksm-breadcrumbs .breadcrumb .breadcrumb-item a {
+  color: #fff;
+  text-decoration: none;
+  /*pointer-events: none;*/
+}
+div#block-contentheaderdefault .page-title .title {
+  color: #fff;
+  margin-bottom: 0;
+  font-size: 26px;
+  line-height: 32px;
+  text-transform: uppercase;
+}
+div#block-contentheaderdefault .kongsikan {
+  color: #fff;
+  font-size: 14px;
+}
+div#block-contentheaderdefault div#block-addtoanybuttons {
+  display: inline-block;
+}
+div#block-contentheaderdefault div#block-addtoanybuttons .a2a_button_facebook span,
+div#block-contentheaderdefault div#block-addtoanybuttons .a2a_button_twitter span {
+  background-color: transparent !important;
+}
+
+.highlighted nav.tabs,
+main#content {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.content-full main#content {
+  max-width: unset;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+/* Kalendar */
+.view-kalendar-aktiviti .fc-body .fc-widget-content .fc-scroller {
+  overflow: hidden !important;
+  height: auto !important;
+  /*font-size: 0.875em !important;*/
+}
+.view-kalendar-aktiviti .fc-body .fc-day-grid .fc-row {
+  min-height: auto;
+  height: auto !important;
+}
+.view-kalendar-aktiviti .fc-body .fc-day-grid .fc-row .fc-bg {
+  display: none;
+}
+.view-kalendar-aktiviti .fc-body .fc-day-grid .fc-row .fc-content-skeleton table {
+  margin: 0;
+}
+.view-kalendar-aktiviti .fc-unthemed td {
+  background: #fff;
+  border: 0;
+}
+.view-kalendar-aktiviti .fc-view-container table tr thead {
+  border-color: transparent;
+  border: none;
+}
+.view-kalendar-aktiviti .fc-head table thead tr th {
+  background: #fff;
+  border: 0;
+  color: #222;
+  /*text-transform: uppercase;*/
+}
+.view-kalendar-aktiviti .fc-day-number {
+  float: none !important;
+  text-align: center;
+  display: block;
+  padding: 5px;
+}
+.view-kalendar-aktiviti .fc-event-container .fc-day-grid-event .fc-time {
+  display: none;
+}
+.view-kalendar-aktiviti .fc-day-grid-event .fc-content {
+  white-space: pre-line;
+}
+
+/* MISC */
+button#widgetIcon .df-chat-icon {
+  width: 75px;
+  height: 56px;
+  left: 0px;
+  top: 0px;
+}
+
+.cawangan .view-cawangan .view-content .views-row > div p > strong {
+  display: none;
+}
+
+.gray-table.view-senarai-penginapan .view-filters .js-form-type-cshs {
+  width: 30%;
+}
+
+.gray-table.view-senarai-penginapan .view-filters .js-form-type-cshs .select-wrapper {
+  width: 40%;
+}
+
+.poll dt.choice-title,
+.poll .percent,
+.poll .btn:hover,
+.poll .total {
+  color: #000;
+}
+
+small.description {
+  display: block;
+  margin-left: 225.33px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .row.justify-content-md-center {
+    justify-content: center;
+  }
+
+  div#main-wrapper {
+    height: auto !important;
+  }
+
+  .wc-center .col-2 {
+    width: 100%;
+  }
+
+  div#block-mainnavigation .navbar .we-mega-menu-ul .we-mega-menu-li {
+    width: 100%;
+  }
+  div#block-mainnavigation .navbar .we-mega-menu-ul .we-mega-menu-li:nth-child(1) > a {
+    padding-left: 15px;
+  }
+
+  .region-we-mega-menu {
+    margin-bottom: 0;
+  }
+
+  .search-container {
+    background: #efefef;
+    padding: 8px 13px;
+  }
+  .search-container.active {
+    background: #efefef;
+    padding: 8px 13px;
+  }
+
+  div#block-pengumumanfront .pengumuman-box {
+    display: block;
+    border-radius: 5px;
+  }
+
+  div#block-pengumumanfront .view.view-pengumuman.view-id-pengumuman {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  div#block-jtksm-content .view.view-perkhidmatan.view-id-perkhidmatan {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  /*.page-node-1 footer {
+  	position: relative;
+  }*/
+  /*div#collapsew3c {
+  	right: unset;
+  	left: 30px;
+  }*/
+  .perkhidmatan-kami.even, .perkhidmatan-kami.odd {
+    margin-right: 15px !important;
+    margin-left: 15px !important;
+  }
+
+  div#block-views-block-main-banner-block-1 .view.view-main-banner .owl-theme .owl-controls {
+    bottom: 0;
+  }
+
+  small.description {
+    margin-left: 0;
+  }
+}
+
+/*# sourceMappingURL=custom1.css.map */
+
+/*
+     FILE ARCHIVED ON 04:29:35 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:51 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.433
+  load_resource: 136.703
+  PetaboxLoader3.resolve: 32.058
+  PetaboxLoader3.datanode: 103.817
+*/

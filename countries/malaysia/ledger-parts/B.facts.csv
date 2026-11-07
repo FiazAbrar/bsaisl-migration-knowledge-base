@@ -1,0 +1,48 @@
+visa_type,field,value,ledger_id
+Work permit (PLKS),skill_test,"CIDB skill test before going; at Khulna TTC (Dhaka, Chattogram, Rajshahi to follow)",B0001
+All work routes (Bangladesh side),insurance_premium,"Tk 1,000 one-time; cover 5 years; Tk 10 lakh",B0008
+All,hotline,16135 (toll free); from abroad +880 9610102030,B0011
+All work routes (Bangladesh side),pkb_migration_loan_eligibility,"Bangladeshi, age 18-60, applicant and guarantor permanent residents of branch area, no loan default",B0013
+All work routes (Bangladesh side),pkb_migration_loan_documents,"form, 3 photos, NID, passport, visa, BMET card, 3 signed MICR cheques + statement, PKB savings a/c min Tk 500",B0014
+All work routes (Bangladesh side),pkb_migration_loan_terms,"max Tk 3 lakh, 9% simple, up to 3 years incl. grace, 7 working days",B0017
+All work routes (Bangladesh side),pkb_migration_loan_fees,"0.5%+VAT processing, 0.5%+VAT documentation, Tk 900/lakh risk cover, 16x Tk10 revenue stamps, 3x Tk100 adhesive per guarantor",B0018
+Returnees,pkb_rehabilitation_loan,"max Tk 50 lakh (Tk 3 lakh unsecured), up to 10 years, 9% simple, 15 working days",B0021
+All work routes (Bangladesh side),bmet_clearance_time,3 working days,B0026
+All work routes (Bangladesh side),clearance_fees,"welfare 3500 + insurance 1000; clearance fee 250; income tax single 400/250, group 1200 skilled/800 unskilled",B0028
+All work routes (Bangladesh side),own_visa_clearance_documents,"application, visa copy, contract if any, attested OEP registration card, Tk 300 stamp declaration, welfare+insurance pay-order; BMET Dhaka or DEMO Chattogram; 3 working days",B0029
+All work routes (Bangladesh side),smart_card_fee_own_visa,Tk 250,B0030
+All work routes (Bangladesh side),visa_check_bmet,"free, 3 working days; bring visa and passport page with visa stamp; online check only for KSA, Qatar, Bahrain, Singapore, UAE",B0032
+All work routes (Bangladesh side),complaint_bmet,application + proof to DG BMET; inquiry + hearing; free; 30 working days,B0034
+All work routes (Bangladesh side),pdo,"compulsory 3-day PDO at 70 institutes; fee set by institute, money receipt",B0036
+All,airport_desk_services,"smart card check; Tk 5,000 to women returning within 1 year after abuse; ambulance; Tk 35,000 cheque for body transport/burial",B0038
+All work routes (Bangladesh side),welfare_fee,"Tk 5,500 from 1 Oct 2026 (was Tk 3,500)",B0043
+All work routes (Bangladesh side),complaint_ministry,"application + proof + agency RL no. to sasenforcement@probashi.gov.bd; start 3-5 working days, settle 30 working days; free",B0044
+All work routes (Bangladesh side),wewb_membership_abroad,"online at portal.wewb.gov.bd via labour wing; passport + work permit; Tk 6,500 equivalent in local currency incl. life insurance",B0057
+All work routes (Bangladesh side),death_grant,Tk 3 lakh to family; needs BMET clearance or WEWB membership,B0060
+All work routes (Bangladesh side),death_grant_documents,"family certificate (countersigned by UNO), Tk 400 stamp indemnity, embassy NOC/death certificate, bank certificate with routing no., photos, passport copy",B0064
+All,body_transport_cheque,"Tk 35,000 at airport; collect within 3 months",B0066
+All,airport_desk_contacts,Dhaka +8802 8901040 / 01404 413388; Chattogram 031-2500957 / 01913631797,B0070
+Returnees,injury_illness_aid,up to Tk 2 lakh; apply within 1 year of return; needs BMET clearance or WEWB membership,B0071
+All,wage_earners_centre,Borua near HSIA; Tk 100 admission + Tk 200/night; wec.wewb.gov.bd; 01310350555,B0080
+All,hotline_wewb,"16135 (toll free, 24/7); +8809610102030 from abroad",B0083
+Corridor,bmet_clearances_malaysia_2023,"350,633 (OEP) / 351,683 (BMET table)",B0086
+Corridor,bmet_clearances_malaysia_2024,"93,562 (OEP) / 93,632 (BMET table)",B0087
+Corridor,bmet_clearances_malaysia_2025,"3,451",B0088
+Corridor,bmet_clearances_malaysia_2026ytd,"1,592 (1 Jan-6 Nov 2026)",B0089
+Corridor,bmet_workers_malaysia_by_year,"2022 50,090; 2023 351,683; 2024 93,632; 2025 to May 2,486",B0091
+Corridor,remittance_from_malaysia_2026q3,USD 666.73 million Jul-Sep 2026 (5th),B0093
+Corridor,remittance_from_malaysia_fy,"FY22 USD 1,021.85m; FY23 USD 1,125.86m",B0094
+Remittance,cost_malaysia_bb,up to USD 200: 3.19% (Apr-Jun 2026); overall 1.12%,B0095
+Remittance,cost_malaysia_worldbank,"7.51% for MYR 610; 6.30% for MYR 1,530 (Q3 2025)",B0096
+Remittance,check_licensed_remitter,BNM list of MSB licensees and approved agents (bnm.gov.my/regulations/fsp-directory/msb-licensees),B0098
+Remittance,bkash_partners_malaysia,"Ria, CBL, Mycash, Merchantrade, Wise, NBL, WorldRemit, Placid, Touch 'n Go, Western Union, MoneyGram, others",B0102
+All work routes (Bangladesh side),police_clearance_fee,"Tk 1,500 (portal) vs Tk 500 (police.gov.bd guidance)",B0105
+All work routes (Bangladesh side),police_clearance_documents,"online form, attested passport data page scan, NID/birth cert if MRP lacks address, fee challan",B0106
+Coming home,duty_free_allowance,"100 g gold jewellery, 200 g silver, 2 used + 1 new phone/year, 200 cigarettes",B0111
+Coming home,gold_bar,"max 117 g (10 tola)/year, Tk 5,000 per tola, declare",B0112
+All,bdhc_kl_labour_wing,+603 2604 0934 ministermalaysia@probashi.gov.bd; +601 2290 3252 counselorkl@probashi.gov.bd; +603 2604 0929,B0117
+All,bdhc_kl_contacts,consular +60326040949; passport +60104303020; PABX 603-26040946/48/49,B0118
+All,malaysian_hc_dhaka,+88 02 4108 1892; visa +88 02 4108 1918; mwdhaka@kln.gov.my,B0121
+All work routes (Bangladesh side),oep_registration_how,"employee.oep.gov.bd, OTP, NID details, pay by bKash/Nagad, download card",B0139
+Work permit (PLKS) - BOESL G2G,boesl_dhl_job_order_2026_11,"112 jobs, RM 1,700 basic, age 22-35, apply 8 Nov 2026 10:00-16:00 on OEP, zero cost",B0141
+All,oep_hotline,09614445271,B0144

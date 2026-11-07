@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ESD</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<link rel="icon" type="image/x-icon" href="/portal/favicon.ico">
+
+	<!-- Include Jquery -->
+	<script src="https://esd.imi.gov.my/portal/js/jquery.js"></script>
+	<script src="https://esd.imi.gov.my/portal/js/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/css/jquery-ui.css">
+
+	<!-- Include Bootstrap -->
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" >
+	<link href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<!-- <script src="/assets/vendor/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="/assets/vendor/respond/1.4.2/respond.min.js"></script> -->
+
+    <!-- Include Bootstrap datepicker -->
+	<link href="https://esd.imi.gov.my/portal/css/datepicker.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap-datepicker.js"></script>
+
+	<!-- Include Fancybox -->
+	<script type="text/javascript" src="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+
+	<!-- Include CSS -->
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/styles2.css">
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/mobile.css">
+
+	<!-- Include Slideer -->
+    <script src="https://esd.imi.gov.my/portal/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="https://esd.imi.gov.my/portal/js/jssor.slider.mini.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/bootstrapValidator.min.css">
+    <script src="https://esd.imi.gov.my/portal/js/bootstrapValidator.min.js"></script>
+
+    <!-- Include Back to top -->
+    <script src="https://esd.imi.gov.my/portal/js/main.js"></script>
+    <script src="https://esd.imi.gov.my/portal/js/modernizr.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).on('load',function(){
+				$('#autopopup').modal('show');
+			});
+
+			// Detact height
+			var wHeight = $(window).height();
+			$( ".mobile-menu" ).click(function() {
+			    $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			    $( ".overlayheight" ).toggle();
+				$( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$( ".overlayheight" ).click(function() {
+			   $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".overlayheight" ).hide();
+			   $( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$(".menu-top .right ul").on('click', 'li', function(e){
+			    $('.menu-top .right ul li').removeClass('active');
+			    $(this).addClass('active');
+			});
+
+			$( ".menu-top .right ul li.login" ).click(function() {
+			   $( ".login-wrapper" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".search-wrapper" ).hide();
+			});
+
+			$( ".menu-top .right ul li.search" ).click(function() {
+			   $( ".search-wrapper" ).toggle("slide", { direction: "up" }, 300);
+			   $( ".login-wrapper" ).hide();
+			});
+
+			$('.datepicker').datepicker()
+
+			// Menu
+		    $(".main-menu li").hover(function () {
+		        $(this).children("ul.sub-menu").show();
+		    }, function () {
+		        $(this).children("ul.sub-menu").hide();
+		    });
+
+		    $( "ul.main-menu li" ).has( "li.active" ).addClass( "active" );
+		    $( "ul.main-menu > li.active " ).find( ".sub-menu" ).addClass( "show-sub" );
+			// var pathname = window.location.pathname; // Returns path only
+			// var url      = window.location.href;     // Returns full URL
+			// $( "ul.main-menu li" ).click(function() {
+			    // if (pathname === url) {
+					// $( "ul.main-menu li" ).addClass( "active" );
+				// };
+			// });
+
+			 // $(".main-menu li").each(function(){
+		        // if($(this).attr("href")==pathname)
+		            // $(this).addClass("active");
+		    // })
+			// console.log(x);
+			// http://stackoverflow.com/questions/406192/get-current-url-in-javascript
+
+
+			// Load more
+		    size_li = $("#myList li").size();
+		    x=3;
+
+		    $("#myList li").hide();
+		    $('#myList li:lt('+x+')').show();
+
+		    $('#loadMore').click(function () {
+		        x= (x+3 <= size_li) ? x+3 : size_li;
+		        $('#myList li:lt('+x+')').show();
+		        $('#showLess').show();
+		        if(x == size_li){
+		            $('#loadMore').hide();
+		        }
+		    });
+
+			//alert login message
+						
+		});
+
+		function formTab(tab){
+			$('.choose-form-content .form-desktop').hide();
+			$('.'+tab+'-detail').show();
+		}
+	</script>
+
+	<style>
+		/* Target the element by its ID */
+		#loginBtn {
+		color: #B3B3B3; /* Initial color */
+		text-decoration: none; /* Optional: remove underline */
+		transition: color 0.3s ease; /* Smooth transition for color change */
+		}
+
+		/* Change color to white on hover */
+		#loginBtn:hover {
+		color: white;
+		}
+	</style>
+
+	<script src="https://www.google.com/recaptcha/api.js?render=6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC"></script>
+	<script>
+		grecaptcha.ready(function() {
+			grecaptcha.execute('6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC', {action: 'submit'}).then(function(token) {
+				var recaptchaField = document.getElementById('g-recaptcha-response');
+				if (recaptchaField) {
+					recaptchaField.value = token;
+				}
+			});
+		});
+	</script>
+	<!-- Hold-to-show eye on password fields -->
+	<script src="/assets/js/password-eye.js?v=20261031"></script>
+</head>
+
+<body>
+	<div class="main-wrapper cd-container">
+		<div class="menu-wrapper">
+						<div class="menu-top">
+				<div class="left">
+					<div class="logo"></div>
+					<div class="esd-title">
+						<h1>Expatriate<br />Services<br />Division</h1>
+						<h4>Bahagian Khidmat Ekspatriat</h4>
+						<small>IMMIGRATION DEPARTMENT OF MALAYSIA</small>
+					</div>
+				</div>
+				<div class="right">
+					<ul>
+												<li class="login">Login</li>
+													<li style="pointer-events: none; cursor: default;">/</li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+						<!-- <li>/</li>
+						<li class="search">Search</li> -->
+						<div style="clear: both;"></div>
+					</ul>
+					<div class="search-wrapper" style="display: none;">
+						<form>
+							<input type="text" name="search" placeholder="SEARCH">
+							<input type="submit" value="Search">
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+										<style>
+						.login-wrapper { background: #1F1E2C; z-index: 50; }
+						@media (min-width: 769px) { .login-wrapper { padding: 4px 14px 14px; margin-right: -14px; box-shadow: 0 8px 18px rgba(0, 0, 0, .45); border-radius: 0 0 4px 4px; } }
+						#passkeyLogin { position: relative; }
+						#passkeyLogin::after { content: attr(aria-label); position: absolute; right: 0; bottom: calc(100% + 6px); display: none; padding: 5px 8px; background: #000; color: #fff; font-size: 11px; line-height: 1.3; white-space: nowrap; border-radius: 3px; pointer-events: none; z-index: 60; }
+						#passkeyLogin:hover::after, #passkeyLogin:focus-visible::after { display: block; }
+					</style>
+					<div class="login-wrapper" style="display: none;">
+						<form name="frmLogin2" id="frmLogin2" method="post" action="/esd/controllers/AccessController.php">
+							<input type="hidden" name="access" id="access" value="login">
+							<input type="text" name="username" id="username" placeholder="LOGIN ID" autocomplete="false" required>
+							<br>
+							<input type="password" name="password" id="password" placeholder="PASSWORD" autocomplete="false" required>
+							<br>
+							<a href="https://esd.imi.gov.my/portal/forgot-password/">Forgot password?</a>
+							 <input type="submit" value="Log In">
+																					<button type="button" id="passkeyLogin" aria-label="Login with a passkey" style="display: none; float: right; width: 34px; height: 28px; margin-right: 6px; padding: 0; background: #009BB5; color: #fff; border: 1px solid #4D4D4D; cursor: pointer;">
+								<svg id="passkeyIconFinger" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M12 10a2 2 0 0 0-2 2c0 1.02-.1 2.51-.26 4"/><path d="M14 13.12c0 2.38 0 6.38-1 8.88"/><path d="M17.29 21.02c.12-.6.43-2.3.5-3.02"/><path d="M2 12a10 10 0 0 1 18-6"/><path d="M2 16h.01"/><path d="M21.8 16c.2-2 .131-5.354 0-6"/><path d="M5 19.5C5.5 18 6 15 6 12a6 6 0 0 1 .34-2"/><path d="M8.65 22c.21-.66.45-1.32.57-2"/><path d="M9 6.8a6 6 0 0 1 9 5.2v2"/></svg>
+								<svg id="passkeyIconFace" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none; vertical-align: middle;"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><path d="M9 9h.01"/><path d="M15 9h.01"/></svg>
+							</button>
+							<div id="passkeyLoginError" style="display: none; clear: both; color: #ffd2cc; font-size: 12px; padding-top: 6px;"></div>
+						</form>
+						<script src="/assets/js/officer-passkey.js?v=20261105b"></script>
+						<script>
+							(function () {
+								if (!window.esdPasskey || !esdPasskey.supported()) {
+									return;
+								}
+								var btn = document.getElementById("passkeyLogin"), err = document.getElementById("passkeyLoginError");
+								if (esdPasskey.faceDevice()) {
+									document.getElementById("passkeyIconFinger").style.display = "none";
+									document.getElementById("passkeyIconFace").style.display = "";
+								}
+								// Shown only while the Password Policy allows passkeys for officers or administrators (asked once in 5 minutes)
+								esdPasskey.available("/esd/officer_passkey.php", function (yes) { btn.style.display = yes ? "block" : "none"; });
+								btn.addEventListener("click", function () {
+									err.style.display = "none";
+									esdPasskey.login("/esd/officer_passkey.php", document.getElementById("username").value.trim(), function (msg) {
+										err.textContent = msg;
+										err.style.display = "block";
+									});
+								});
+							})();
+						</script>
+						<p class="note">
+							Enter your Login ID and Password to access the ESD system.<br />
+							If your company does not have a Login ID, please Register.
+						</p>
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div class="overlayheight" style="display: none;"></div>
+			<div class="mobile-menu rmm-button"  style="display: none;">
+				<h4 class="white">Menu</h4>
+				<div class="menu-line">
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<ul class="main-menu" style="display: ;">
+				<li class=""><a href="https://esd.imi.gov.my/portal/">home</a></li>
+				<li class="" ><a style=" cursor: default;" href="#">About Us</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/esd/">ESD</a></li>
+						<!-- <li class="" ><a href="about-us/testimonials">Testimonials</a></li> -->
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/contact-us">Contact Us</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Employers</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/employers/">Overview</a></li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Expatriates</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a style=" cursor: default;" href="#">MYXpats</a>
+						    <ul class="sub-menu three" style="display: none ;">
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Overview </a></li>
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/">Key Services </a>
+									<ul class="sub-menu four" style="display: none ;">
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/">Employment Pass</a>
+											<ul class="sub-menu five" style="display:  none ;">
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/">Dependant Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/long-term-social-visit-pass/">Long-Term Social Visit Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/social-visit/">Social Visit (Temporary Employment) - Foreign Maid</a></li>
+											</ul>
+										</li>
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/professional-visit-pass/">Professional Visit Pass</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Latest News</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/news/">News</a>
+                        </li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/announcement/">Announcement</a>
+							<!--
+                            <ul class="sub-menu three" style="display: none ;">
+                            	<li class="" ><a href="latest-news/announcement/message-from-the-director-general-of-immigration-malaysia/">Message from the Director General</a></li>
+                                <li class="" ><a href="latest-news/announcement/message-from-the-chief-executive-officer-of-talentcorp/">Message from the Chief Executive Officer</a></li>
+							 	<li class="" ><a href="latest-news/announcement/roll-out-session/">Roll Out Session </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-firms/">Notice to all firms </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-professional-visit-pass-application/">Notice of Professional<br />Visit Pass Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-renewal-of-employment-pass/">Notice of Renewal of Employment Pass </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-dependent-application/">Notice of Dependent Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-esd-closure/">Notice of ESD Closure </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-third-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-second-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-in-the-oil-gas-energy-sectors/">Notice to all companies in the oil, gas & energy sectors </a></li>
+							</ul>
+                            -->
+						</li>
+                        <!-- <li class="" ><a href="latest-news/newsletter/">Newsletter</a></li> -->
+						<!-- <li class="" ><a href="latest-news/publications/">Publications</a></li> -->
+					</ul>
+				</li>
+				<li class="" ><a style="width: 75px;" href="https://esd.imi.gov.my/portal/faq/">FAQ</a>
+					<ul class="sub-menu" style="display: none; left: -19px; width: 110px;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/esd-company-registration/">ESD – Company Registration </a></li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/myxpats/">MYXpats</a></li>
+                        <li class="active" ><a href="https://esd.imi.gov.my/portal/faq/xpats-gateway/">Xpats Gateway</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/investor-pass/">Investor Pass</a></li>
+					</ul>
+				</li>
+				<li class=""><a href="https://esd.imi.gov.my/portal/downloads">downloads</a></li>
+				<div style="clear: both;"></div>
+			</ul>
+		</div>
+		<div class="content-wrapper">
+        		<div class="breadcrumb-wrapper ">
+				</div>
+        <script>
+function do_login() {
+	if ( (document.frmLogin2.username.value == "") || (document.frmLogin2.password.value=="") ) {
+		alert('Please enter Login ID and Password !');
+		return;
+	} else {
+		document.frmLogin2.submit();
+	}
+}
+</script>
+
+<div class="faq-box">
+	<form class="search" name="search">
+
+		<button class="btn-faq" onclick="performSearch()"><img class="faq-icon" src="https://esd.imi.gov.my/portal/images/glass.png" /></button>
+		<input type="text" class="input-faq" placeholder="Type to Search..." name='query' id='query2'>
+	</form>
+
+</div>
+<div class="faq-wrapper page-content-wrapper">
+	<h2 class="title">FAQs – XPATS GATEWAY &nbsp;&nbsp;<a class="faq-registration-icon" href="https://esd.imi.gov.my/portal/pdf/FAQs_XPATS_GATEWAY_V3.pdf" target="_blank"><img class="print-icon" src="https://esd.imi.gov.my/portal/images/print-icon.png" title="Download PDF" /></h2></a>
+	<div class="line"></div>
+	<div class="content">
+		<div class="left">
+			
+					<p>The FAQ listed herein cover four (4) primary sections. Please scroll down to the respective section(s):</p>
+
+  <ol>
+      <p><b>[1] <a href="#general">General</a> Xpats Gateway FAQs</b></p><br>
+      <ol type="a">
+        <li>About Xpats Gateway</li>
+        <li>Department of Labour Peninsular Malaysia (JTKSM) approval under Section 60K Employment Act 1955 (Act 265)</li>
+        <li>MYFutureJobs Advertisement Acknowledgement Letter under Social Security Organisation (PERKESO)</li>
+        <li>Support Letter Application under Approving Agency / Regulatory Body</li>
+      </ol><br>
+      <p><b>[2] Xpats Gateway FAQs related to <a href="#esd">ESD Companies</a></b></p><br>
+      <ol type="a">
+        <li>Using Xpats Gateway</li>
+        <li>MYFutureJobs Advertisement Acknowledgement</li>
+        <li>Agency Support Letter</li>
+      </ol><br>
+      <p><b>[3] Xpats Gateway FAQs related to <a href="#mdec">MDEC (eXpats) Companies</a></b></p><br>
+      <ol type="a">
+        <li>Using Xpats Gateway</li>
+        <li>MYFutureJobs Advertisement Acknowledgement</li>
+        <li>MDEC Applications via Xpats Gateway</li>
+      </ol><br>
+      <p><b>[4] Xpats Gateway FAQs related to <a href="#irda">IRDA (XPATNOVA) Companies</a></b></p><br>
+      <ol type="a">
+        <li>Using Xpats Gateway</li>
+        <li>MYFutureJobs Advertisement Acknowledgement</li>
+        <li>Agency Support Letter</li>
+        <li>IRDA Applications via Xpats Gateway</li>
+      </ol><br>
+	  <p><b>[4] Xpats Gateway FAQs related to <a href="#mida">MIDA (MES) Companies</a></b></p><br>
+      <ol type="a">
+        <li>Using Xpats Gateway</li>
+        <li>MYFutureJobs Advertisement Acknowledgement</li>
+        <li>Agency Support Letter</li>
+        <li>IRDA Applications via Xpats Gateway</li>
+      </ol><br>
+  </ol>
+					<p>Please scroll down to the respective sections.</p>
+					
+					<p><h5 id="general" style='margin-bottom:2%'>GENERAL</h5></p>
+					<p><b>a) About XPATS GATEWAY</b></p>
+
+					<ul>
+													<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>1. What is the Xpats Gateway?</h3>
+								<p style='margin-top:-2%'><p>Xpats Gateway is an end-to-end, seamless platform that facilitates interaction between employers and relevant government agencies throughout the Employment Pass (EP) and Professional Visit Pass (PVP) application processes. All decisions are issued electronically via the platform, enabling more efficient processing and timely approvals.</p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>2. What application services are available through Xpats Gateway? </h3>
+								<p style='margin-top:-2%'><p><h10>Xpats Gateway currently supports the following services:</h10> <ol type="i"> <li>Approval from the Department of Labour Peninsular Malaysia (JTKSM) under Section 60K of the Employment Act 1955 (Act 265)</li> <li>MYFutureJobs Advertisement Acknowledgement Letter under the Social Security Organisation (PERKESO)</li> <li>Support Letter application from the relevant approving agency or regulatory body</li> <li>Investor Pass application (please refer to the <a href="https://esd.imi.gov.my/portal/faq/investor-pass/" target="_blank">Investor Pass FAQ</a> for details) </li> </ol></p></p>
+
+
+
+							
+						<p><b>b) JTKSM Approval under Section 60K – Employment Act 1955 (Act 265)</b></p>
+
+					<ul>
+													<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How does the Xpats Gateway integration affect the requirement for JTKSM approval under Act 265? </h3>
+								<p style='margin-top:-2%'><p>Effective 1 July 2025, employers that require JTKSM approval under Section 60K for new Employment Pass (EP) and Professional Visit Pass (PVP) applications must submit their applications via Xpats Gateway. The platform allows registration, submission, and real-time status tracking. The same application and approval can be used for both EP and PVP applications.</p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Is prior approval from JTKSM mandatory to all employers? </h3>
+								<p style='margin-top:-2%'><p>Yes. Following amendments to the Employment Act 1955 effective 1 January 2023, private sector employers in Peninsular Malaysia and Labuan are required to obtain prior approval from JTKSM before hiring foreign workers. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>3. Do all Employment Pass (EP) and Professional Visit Pass (PVP) applications require JTKSM approval?</h3>
+								<p style='margin-top:-2%'><p><h10>JTKSM approval is required for new EP &amp; PVP applications, except in the following cases:</h10> <ul> <li>EP / PVP renewals</li> <li>Government sector / Public Universities</li> <li>Change of position or category within the same company (provided the applicant is already in Malaysia) - applicable for EP only</li> </ul></p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What if an international company is setting up a Representative Office in Malaysia?</h3>
+								<p style='margin-top:-2%'><p>Yes, approval is still required. If the company is not yet established in Malaysia, the employer must fill in company registration no. (no. rujukan SSM) by using the MIDA Ref. No. (RERO/2023/00000). </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>5. What are the penalties for non-compliance? </h3>
+								<p style='margin-top:-2%'><p>An employer who fails to obtain JTKSM approval under Section 60K is liable to a fine of up to RM100,000, imprisonment of up to five years, or both. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>6. Who can submit an application?</h3>
+								<p style='margin-top:-2%'><p>Only a company director or authorized representatives (company employees as listed in EPF statement or Private Employment Agency) cam submit the application. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>7. How do I apply for JTKSM approval via Xpats Gateway? </h3>
+								<p style='margin-top:-2%'><p>Log in to <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>, click on 'Section 60K Application' in the left-hand menu, then select 'Apply for Section 60K Approval'. Complete the required information and upload the necessary documents before submitting. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>8. What are the documents required?</h3>
+								<p style='margin-top:-2%'><p> The document checklist is listed in the online form. <br> Please contact <a href="mailto:eppax@mohr.gov.my">JTKSM</a> directly for enquiries related to the documentation. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>9. If an employer has multiple vacancies for different positions, is a separate application needed for each?  </h3>
+								<p style='margin-top:-2%'><p><p>No. Employers are advised to submit one application per company.</p></p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>10. What is the processing time? </h3>
+								<p style='margin-top:-2%'><p>JTKSM processes applications within ten (10) working days. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>11. How can I check the application status? </h3>
+								<p style='margin-top:-2%'><p>Log in to <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>, go to 'Section 60K Application', then click on 'List of Application' to view status updates. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>12. How long is the approval valid? </h3>
+								<p style='margin-top:-2%'><p>JTKSM approvals are valid for twelve (12) months from the date of issuance.</p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>13. Is there a cooling-off period if an application is rejected?</h3>
+								<p style='margin-top:-2%'><p>Currently, no cooling-off period is required to reapply. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>14. Who can I contact for help? </h3>
+								<p style='margin-top:-2%'><p><h10>For application-related enquiries:</h10> <p> <b>Department of Labour Peninsular Malaysia (JTKSM)</b><br> E-mail: <a href="mailto:eppax@mohr.gov.my">eppax@mohr.gov.my</a><br> Tel: 03-8000 8000<br> Address: Aras 5, Setia Perkasa 3, Kompleks Setia Perkasa, Pusat Pentadbiran Kerajaan Persekutuan, 62530 Putrajaya </p> <h3>For Xpats Gateway technical support or other enquiries:</h3> <p> <b>MYXpats Helpdesk</b><br> E-mail: <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a><br> Tel: 03-7839 7171 </p></p></p>
+
+
+
+							
+						<p><b>c) MYFutureJobs Advertisement Acknowledgement Letter (PERKESO)</b></p>
+
+					<ul>
+													<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How does the Xpats Gateway integration affect the requirement for the MYFutureJobs Advertisement Acknowledgement Letter? </h3>
+								<p style='margin-top:-2%'><p> Effective 1 July 2025, employers required to obtain a MYFutureJobs Advertisement Acknowledgement Letter before applying for a new Employment Pass (EP) must do so via the <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>. The system allows users to check advertisement status and download the acknowledgement letter directly. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Do all EP applications require a MYFutureJobs Advertisement Acknowledgement Letter? </h3>
+								<p style='margin-top:-2%'><p><p>The Acknowledgement Letter is required for all new EP applications, <b>except</b> for: </p> <ul> <li> Positions listed under <a href="https://www.perkeso.gov.my/pengiklanan-myfuturejobs-bagi-penggajian-pegawai-dagang.html" target="_blank"> PERKESO's exemption list </a> </li> <li>EP renewals</li> <li>Change of position or category within the same company (if the applicant is in Malaysia)</li> </ul></p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What are the advertisement conditions to obtain the Acknowledgement Letter?</h3>
+								<p style='margin-top:-2%'><p>Employers must comply with PERKESO's MYFutureJobs advertising guidelines. Please refer directly to PERKESO for the latest requirements.</p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>4. Who makes the decision and issues the MYFutureJobs Acknowledgement Letter?</h3>
+								<p style='margin-top:-2%'><p>The decision and issuance of the Acknowledgement Letter are handled by PERKESO. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>5. Who can I contact for help?</h3>
+								<p style='margin-top:-2%'><p><h10>For application-related enquiries:</h10> <p> <b>Social Security Organisation (PERKESO)</b><br> E-mail: <a href="mailto:enquiry.papd@perkeso.gov.my ">enquiry.papd@perkeso.gov.my </a><br> Tel: 1300-22-8000 <br> Address: Menara PERKESO Putrajaya, No. 6, Persiaran Perdana, Presint 2, 62100 Putrajaya </p> <h3>For Xpats Gateway technical support or other enquiries:</h3> <p> <b>MYXpats Helpdesk</b><br> E-mail: <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a><br> Tel: 03-7839 7171 </p></p></p>
+
+
+
+							
+						<p><b>d) Support Letter Application under Approving Agency / Regulatory Body</b></p>
+
+					<ul>
+													<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>1. Can I request a Support Letter physically from the respective agencies? </h3>
+								<p style='margin-top:-2%'><p> No. Effective 15 June 2023, all Support Letter applications must be submitted online via <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Do all expatriate applications require a Support Letter?</h3>
+								<p style='margin-top:-2%'><p> A Support Letter is required for companies under the purview of a specific approving agency or regulatory body. Please refer to the <a href="https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf" target="_blank"> ESD Online Guidebook </a> (page 19-20) for the full list of agencies. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>3. If my company is not under the purview of any agency, do I still need a Support Letter?</h3>
+								<p style='margin-top:-2%'><p>If your company falls under the following sectors, you may proceed directly with the Employment Pass (EP) application in ESD Online (<a href="https://esd.imi.gov.my/portal/">esd.imi.gov.my</a>) without a Support Letter.<br><br><li>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Business Services</li><li>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Wholesale & Retail</li><li>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Oil, Gas & Energy</li><li>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Logistics</li><li>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Electrical & Electronics</li><li>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. Automotive</li><br>The Expatriate Committee and Immigration Department of Malaysia reserves the right to request for a Support Letter at a later stage, if necessary.<br><br></p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What documents are required to apply for a Support Letter?</h3>
+								<p style='margin-top:-2%'><p>The required documents vary by agency. Employers should refer to their respective agencies for the latest list.</p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>5. How do I check the status of the Support Letter application? </h3>
+								<p style='margin-top:-2%'><p>Employers can log in to <a href="https://xpatsgateway.com.my">Xpats Gateway</a> to track the status of the application. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>6. What is the validity of a Support Letter?</h3>
+								<p style='margin-top:-2%'><p>A Support Letter is valid for six (6) months from the date of issuance. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>7. Can I reuse a Support Letter for a renewal application?</h3>
+								<p style='margin-top:-2%'><p>No. A Support Letter is only valid for a single application and cannot be reused for renewals. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>8. Who makes the decision on Support Letter applications?</h3>
+								<p style='margin-top:-2%'><p>The decision lies with the respective agency listed in your application. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>9. If my Support Letter application is "Not Supported", is there a cooling-off period before I can reapply?</h3>
+								<p style='margin-top:-2%'><p>No. There is currently no cooling-off period. Employers may reapply at any time. </p>
+</p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>10. Can I appeal if my Support Letter application is "Not Supported"?</h3>
+								<p style='margin-top:-2%'><p>Each agency sets its own criteria. Employers may submit a new application with updated or additional information for reconsideration. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>11. How do I cancel a Support Letter application in Xpats Gateway?</h3>
+								<p style='margin-top:-2%'><p>To cancel a Support Letter application, please contact MYXpats Helpdesk at<a href=" mailto:helpdesk@myxpats.com.my " target="_blank"> helpdesk@myxpats.com.my </a></p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>12. Is a Support Letter required for Professional Visit Pass (PVP) applications?</h3>
+								<p style='margin-top:-2%'><p>Support Letters are only required for PVP applications in the following two sectors: </p><ul class="sub-list" > <li>a.	Aviation: Civil Aviation Authority of Malaysia (CAAM)</li> <li>b. Mining: Department of Mineral and Geoscience Malaysia (JMG)</li></ul><p>Employers must obtain the letter directly from the respective agency and upload it to ESD Online during PVP submission. PVP applications in other sectors do not require a Support Letter. </p></p>
+
+
+
+														<li>
+								<h3 style='margin-bottom:-2%; margin-top:-2%'>13. Who can I contact for help?</h3>
+								<p style='margin-top:-2%'><p>For agency-specific enquiries, please contact the relevant approving agency (contact information is available on the Xpats Gateway "Contact Us" page). </p> <p> For Xpats Gateway technical support or other enquiries:<br> <b>MYXpats Helpdesk</b><br> E-mail: <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a><br> Tel: 03-7839 7171 </p></p>
+
+
+
+							
+							<h5 id="esd" style='margin-bottom:2%'>ESD Companies</h5>
+							<p><b>a) Using Xpats Gateway</b></p>
+
+							<ul>
+																	<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How to login to Xpats Gateway?</h3>
+										<p style='margin-top:-2%'><p>Employers can access <strong>Xpats Gateway</strong> via <a href="https://esd.imi.gov.my" target="_blank" rel="noopener noreferrer">ESD Online</a> by clicking on the <strong>Xpats Gateway</strong> icon. Log in using the 'Company Login' option with the same ID and password registered on ESD Online. </p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can an employer access Xpats Gateway without an ESD account?</h3>
+										<p style='margin-top:-2%'><p>No. Employers must have an active ESD Online account to access Xpats Gateway. </p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What if an employer has forgotten their ESD Online password?</h3>
+										<p style='margin-top:-2%'><p>Click 'Forgot Password' on the <a href="https://esd.imi.gov.my" target="_blank" rel="noopener noreferrer">ESD Online</a> login page. A reset link will be sent to the company's registered email address.<br><br> If you have forgotten the user ID or need to update the registered email, please contact the Inspectorate Unit at the Immigration Department of Malaysia (Putrajaya) via e-mail: <a href="inspektorat.esd@imi.gov.my" target="_blank" rel="noopener noreferrer">inspektorat.esd@imi.gov.my</a></p></p>
+
+
+
+									
+									<p><b>b) MYFutureJobs Advertisement Acknowledgement</b></p>
+
+							<ul>
+																	<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I check the status of the MYFutureJobs Acknowledgement via Xpats Gateway?</h3>
+										<p style='margin-top:-2%'><p>In the 'Support Letter Application' section of Xpats Gateway, fill in all required details until the 'Employment Details' step. If the application type is 'NEW', the MYFutureJobs checklist will appear. Insert the vacancy link and click 'Check' to retrieve the status.</p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I download the Acknowledgement Letter from Xpats Gateway?</h3>
+										<p style='margin-top:-2%'><p>Yes. If the MYFutureJobs status is listed as 'Completed-Approved' or 'Completed-Rejected', you can click 'Download Acknowledgement Letter'. It will also be auto-uploaded under the 'Proof of MYFutureJobs Advertisement' section in Supporting Documents.</p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What if the Acknowledgement Letter is not available in Xpats Gateway? </h3>
+										<p style='margin-top:-2%'><p>You may download it directly from the MYFutureJobs system or your email and upload it manually to the 'Proof of MYFutureJobs Advertisement' field in the Supporting Documents section. </p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What if the position is exempted from MYFutureJobs advertisement?</h3>
+										<p style='margin-top:-2%'><p>You can select the applicable exemption reason from the list provided in Xpats Gateway. </p></p>
+
+
+
+									
+									<p><b>c) Agency Support Letter</b></p>
+
+							<ul>
+																	<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>1. Do I need to apply for a quota or projection before applying for a Support Letter?</h3>
+										<p style='margin-top:-2%'><p>No. A quota or projection is not required before submitting a Support Letter application.</p>
+</p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Will the Employment Pass (EP) and Professional Visit Pass (PVP) applications be automatically approved once the Support Letter is issued?
+</h3>
+										<p style='margin-top:-2%'><p>No. The Support Letter is one of the required documents. All EP and PVP applications must still be submitted via ESD Online and are subject to approval by the Immigration Department of Malaysia. </p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What is company tiering, and how is it determined?</h3>
+										<p style='margin-top:-2%'><p>Company tiering is an internal classification system used in ESD Online to rank companies from Tier 1 (highest) to Tier 5 (lowest). It is auto-generated based on data from Companies Commission of Malaysia (SSM), Inland Revenue Board of Malaysia (LHDN), and other integrated agencies. The five key indicators are: </p><ul class="sub-list" > <li>a. Alignment with the Twelfth Malaysia Plan (RMK-12)</li> <li>b. Company Lifecycle Stage</li> <li>c. Revenues</li> <li>d. Issued Capital</li> <li>e. Track Record</li> </ul></p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What defines Fast Track and Normal Track companies?</h3>
+										<p style='margin-top:-2%'><p></p><ul class="sub-list" ><li>-	Fast Track: Tier 1, Tier 2, and companies in critical sectors</li><li>-	Normal Track: Tier 3 to Tier 5 companies</li></ul></p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>5. What is the processing time for Support Letter applications?</h3>
+										<p style='margin-top:-2%'><p></p><ul class="sub-list"><li>-	Fast Track: Within 3 working days.</li><li>-	Normal Track: Within 10 working days.</li></ul><br><p>Note: The following Agencies are excluded from the processing charter:</p><ul class="sub-list"><li>a. Malaysia Nursing Board, Ministry of Health (MOH)</li><li>b. Allied Health Science Division, Ministry of Health (MOH)</li></ul></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>6. What is critical sector?</h3>
+										<p style='margin-top:-2%'><p>Companies that are identified by the respective agency as a critical sector are based on the company's projects, investment value, niche skills and technologies, and newly critical industries in the current market. </p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>7. Where can I view my company's tiering status?</h3>
+										<p style='margin-top:-2%'><p>Where can I view my company's tiering status?</p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>8. What if the selected Primary Sector or Agency is incorrect? </h3>
+										<p style='margin-top:-2%'><p>Contact <b>MYXpats Helpdesk</b> at <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a> or 03-7839 7171 for assistance in updating your company's primary sector or agency. </p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>9. What if I'm unsure of my Primary Sector or Agency?</h3>
+										<p style='margin-top:-2%'><p>You may contact MYXpats Helpdesk via e-mail or phone for clarification.</p></p>
+
+
+
+																		<li>
+										<h3 style='margin-bottom:-2%; margin-top:-2%'>10. What should I do after receiving a Support Letter via Xpats Gateway? </h3>
+										<p style='margin-top:-2%'><p>Log in to <a href="https://esd.imi.gov.my/" target="_blank">ESD Online</a> and go to the "List of Supporting Letter Application" tab. Proceed to complete the EP application for final review and approval by the Immigration Department of Malaysia. </p></p>
+
+
+
+									
+									<h5 id="mdec" style='margin-bottom:2%'>MDEC Companies</h5>
+									<p><b>a) Using Xpats Gateway</b></p>
+
+									<ul>
+																					<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I log in to Xpats Gateway?</h3>
+												<p style='margin-top:-2%'><p>Open your web browser and go to <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>, then select 'eXpats' under Company Login. Use the same login credentials as your MDEC eXpats account. Note that new employers must register an eXpats account with MDEC before accessing Xpats Gateway. </p></p>
+
+
+
+											
+											<p><b>b) MYFutureJobs Advertisement Acknowledgement</b></p>
+
+									<ul>
+																					<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I check the status of the MYFutureJobs Acknowledgement via Xpats Gateway? </h3>
+												<p style='margin-top:-2%'><p>In the 'Application' section, click on 'Apply for EP Application'. If the application type is 'NEW', the MYFutureJobs checklist will appear. Enter the vacancy link and click 'Check' to view the status. </p></p>
+
+
+
+																						<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I download the Acknowledgement Letter from Xpats Gateway?</h3>
+												<p style='margin-top:-2%'><p>Yes. If the MYFutureJobs status is listed as 'Completed-Approved' or 'Completed-Rejected', you may click 'Download Acknowledgement Letter' for reference. </p></p>
+
+
+
+																						<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What if the Acknowledgement Letter is not available in Xpats Gateway? </h3>
+												<p style='margin-top:-2%'><p>You can download it directly from the MYFutureJobs system or from your registered email and upload it manually to your MDEC eXpats application.</p></p>
+
+
+
+																						<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What if the position is exempted from MYFutureJobs advertisement? </h3>
+												<p style='margin-top:-2%'><p>You may select the relevant exemption reason from the dropdown list available in Xpats Gateway.</p></p>
+
+
+
+											
+											<p><b>c) MDEC Applications via Xpats Gateway</b></p>
+
+									<ul>
+																					<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>1. Must all applications under MDEC's purview be submitted through Xpats Gateway? </h3>
+												<p style='margin-top:-2%'><p>Yes. Effective <b>24 April 2024</b>, all new and renewal Employment Pass (EP) applications under MDEC must be submitted via <a href="https://xpatsgateway.com.my" target="_blank">Xpats Gateway</a>. </p></p>
+
+
+
+																						<li>
+												<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I edit an application after it has been submitted to the MDEC eXpats System?</h3>
+												<p style='margin-top:-2%'><p>No. Once the application has been forwarded to the MDEC eXpats System, it can no longer be edited in Xpats Gateway. To make changes, please contact MDEC directly. </p></p>
+
+
+
+											
+											<h5 id="irda" style='margin-bottom:2%'>IRDA Companies</h5>
+											<p><b>a) Using Xpats Gateway</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I login to Xpats Gateway?</h3>
+														<p style='margin-top:-2%'><p>Open your web browser and go to <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>, then select 'Iskandar Regional Development Authority' under Company Login. Use the same login credentials as your IRDA XPATNOVA account. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>2. My company is already registered on ESD Online. Do I still need to register with IRDA's XPATNOVA system?</h3>
+														<p style='margin-top:-2%'><p>Yes. Companies must register and activate their accounts in XPATNOVA to apply for Employment Passes (EP). Your company address must be within the Iskandar Malaysia region - check eligible postcodes <a href="https://xpatnova.com.my/irda/service/companyregistration" target="_blank">here</a>. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>3. How do I register for XPATNOVA?</h3>
+														<p style='margin-top:-2%'><p>Visit the <a href="https://xpatnova.com.my/irda/" target="_blank">XPATNOVA system</a>, create an account, fill in the required company information, and submit the form. IRDA will notify you once the registration is approved. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>4. Do I need to wait for registration approval before submitting an EP application?</h3>
+														<p style='margin-top:-2%'><p>Yes. Only approved companies can apply for passes in the XPATNOVA system.  </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>5. How long does company registration take? </h3>
+														<p style='margin-top:-2%'><p>If all required information is complete, IRDA typically processes registrations within 3 - 5 working days. </p></p>
+
+
+
+													
+													<p><b>b) MYFutureJobs Advertisement Acknowledgement</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I check the status of the MYFutureJobs Acknowledgement?</h3>
+														<p style='margin-top:-2%'><p>In Xpats Gateway, go to 'Apply for EP Application'. If the application type is 'NEW', the MYFutureJobs checklist will appear. Insert the vacancy link and click 'Check'. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I download the Acknowledgement Letter from Xpats Gateway?</h3>
+														<p style='margin-top:-2%'><p>Yes. If the status is 'Completed-Approved' or 'Completed-Rejected', you can download the letter for reference. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What if the Acknowledgement Letter isn't available in Xpats Gateway?</h3>
+														<p style='margin-top:-2%'><p>You may retrieve it from the MYFutureJobs system or your email, then upload it to the XPATNOVA system.</p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What if the position is exempted from MYFutureJobs advertisement? </h3>
+														<p style='margin-top:-2%'><p>You may select the relevant exemption reason from the dropdown list available in Xpats Gateway to proceed. </p></p>
+
+
+
+													
+													<p><b>c) Agency Support Letter</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I apply for a Support Letter? </h3>
+														<p style='margin-top:-2%'><p>Submit your Support Letter request through <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>. If your agency is not listed, contact <a href="mailto:helpdesk@myxpats.com.my">helpdesk@myxpats.com.my</a> to request for it to be added. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>2. What happens after the Support Letter is approved? </h3>
+														<p style='margin-top:-2%'><p>You'll be notified via email. The application will be auto-routed to <a href="https://xpatnova.com.my/irda/" target="_blank">XPATNOVA</a> along with the letter. Log in to XPATNOVA to proceed with your Employment Pass application. </p></p>
+
+
+
+													
+													<p><b>d) IRDA Applications via Xpats Gateway</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How long does it take for an EP application to be approved in XPATNOVA?</h3>
+														<p style='margin-top:-2%'><p>Typically 3 - 5 working days, if all required details are complete and no additional information is requested. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I use XPATNOVA for other pass applications?</h3>
+														<p style='margin-top:-2%'><p>Yes. For Professional Visit Pass (PVP), Dependant Pass (DP), and other services, go to <a href="https://xpatnova.com.my/irda/" target="_blank"><b>XPATNOVA</b></a>. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>3. Where can I get more information?</h3>
+														<p style='margin-top:-2%'><p>Visit the IRDA website or contact:<br> <b>E-mail</b> : <a href="mailto:expat@irda.com.my">expat@irda.com.my</a><br> <b>Tel</b> : 07-233 3019 </p></p>
+
+
+
+													
+												<h5 id="mida" style='margin-bottom:2%'>MIDA Companies</h5>
+											<p><b>a) Using Xpats Gateway</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I login to Xpats Gateway?</h3>
+														<p style='margin-top:-2%'><p>Open your web browser and go to <a href="https://xpatsgateway.com.my/" target="_blank">Xpats Gateway</a>, then select 'Malaysian Investment Development Authority' under Company Login. Click 'Login via InvestMalaysia'. Use the same login credentials as your MIDA MES account. </p></p>
+
+
+
+													
+													<p><b>b) MYFutureJobs Advertisement Acknowledgement</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. How do I check the status of the MYFutureJobs Acknowledgement via Xpats Gateway? </h3>
+														<p style='margin-top:-2%'><p>In the 'Application' section, click on 'Apply for EP Application'. If the application type is 'NEW', the MYFutureJobs checklist will appear. Enter the vacancy link and click 'Check' to view the status. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I download the Acknowledgement Letter from Xpats Gateway?</h3>
+														<p style='margin-top:-2%'><p>Yes. If the MYFutureJobs status is listed as 'Completed-Approved' or 'Completed-Rejected', you may click 'Download Acknowledgement Letter' for reference. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>3. What if the Acknowledgement Letter is not available in Xpats Gateway? </h3>
+														<p style='margin-top:-2%'><p>You can download it directly from the MYFutureJobs system or from your registered email and upload it manually to your MIDA MES application.</p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>4. What if the position is exempted from MYFutureJobs advertisement? </h3>
+														<p style='margin-top:-2%'><p>You may select the relevant exemption reason from the dropdown list available in Xpats Gateway.</p></p>
+
+
+
+													
+
+													<p><b>d) MIDA Applications via Xpats Gateway</b></p>
+
+											<ul>
+																									<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>1. Must all applications under MIDA's purview be submitted through Xpats Gateway? </h3>
+														<p style='margin-top:-2%'><p>All Employment Pass (EP) must be submitted through the <a href="https://xpatsgateway.com.my" target="_blank">Xpats Gateway</a> using InvestMalaysia ID and password via Single Sign-on (SSO), and will be processed in MES. </p></p>
+
+
+
+																										<li>
+														<h3 style='margin-bottom:-2%; margin-top:-2%'>2. Can I edit an application after it has been submitted to the MIDA MES System?</h3>
+														<p style='margin-top:-2%'><p>No. Once the application has been forwarded to the MIDA MES System, it can no longer be edited in Xpats Gateway. To make changes, please contact MIDA directly. </p></p>
+
+
+
+													
+												
+												<br />
+
+		</div>
+		<div class="right">
+			<div class="topr text-prompter-container">
+
+				<div class="text-prompter">
+					<h3 class="text" style='font-size: 18px; line-height: 24px;'><b>F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026							&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026							&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026							&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026							&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026							&nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026 &nbsp; F.A.Q Latest Update: 06/11/2026						</b></h3>
+				</div>
+
+			</div>
+			<div class="bottom">
+				
+<h3>F.A.Q</h3>
+<div class="line"></div> 
+<div class="faq-banner">
+
+<div id="faq-container">
+        <p id="title"></p>
+        <p id="desc"></p>
+        <a href="https://esd.imi.gov.my/portal/faq/">read more +</a>
+    </div>
+
+
+  <script>
+        $(document).ready(function() {
+            
+            function displayFAQs(faqs, index) {
+                var title = faqs[index].title;
+                var desc = faqs[index].desc;
+
+                $('#title').html('<b>Q:<br /> ' + title + '</b></p><br />');
+                $('#desc').html('A:<br />' + desc + '');
+                
+            }
+
+            $.ajax({
+                url: '/portal/include/ajax-faq.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(response) {
+                    if (response.status === 'success') {
+                        var faqs = response.data;
+                        var index = 0;
+                        var faqCount = faqs.length;
+
+                        
+                        displayFAQs(faqs, index);
+
+                       
+                        var timer = setInterval(function() {
+                            index = (index + 1) % faqCount;
+                            displayFAQs(faqs, index);
+                        }, 5000); 
+                    } else {
+                        $('#faq-container').text('Error: ' + response.message);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.log(error);
+                }
+            });
+        });
+    </script>
+			</div>
+			<div>
+				<br>
+				<p style='color: #009bb5'>For a comprehensive FAQ, please visit:</p>
+
+				<p>1. <a href='https://www.eppax.gov.my/eppax/portal/images/manual/FAQ_EXPATRIATE.pdf' style='text-decoration:underline' target="_blank">JTKSM</a></p>
+				<p>2. <a href='https://www.perkeso.gov.my/pengiklanan-myfuturejobs-bagi-penggajian-pegawai-dagang.html' style='text-decoration:underline' target="_blank">MYFutureJobs</a></p>
+				<p>3. <a href='https://esd.imi.gov.my/portal/pdf/FAQ_MIDA.pdf' style='text-decoration:underline' target="_blank">MIDA MES</a></p>
+				<br>
+				<p style='color: #009bb5'>Useful Information:</p>
+				<p>1. <a href='https://esd.imi.gov.my/portal/pdf/xpats-gateway-manual.pdf' style='text-decoration:underline' target="_blank">Xpats Gateway User Manual</a></p>
+				<p>2. <a href='https://esd.imi.gov.my/portal/pdf/Xpats-Gateway-User-Manual-[MDEC].pdf' style='text-decoration:underline' target="_blank">Xpats Gateway User Manual (MDEC)</a></p>
+				<p>3. <a href='https://esd.imi.gov.my/portal/pdf/USER_MANUAL_JTKSM_60K_Xpats_Gateway.pdf' style='text-decoration:underline' target="_blank">Xpats Gateway User Manual (JTKSM 60K)</a></p>
+				<p>4. <a href='https://esd.imi.gov.my/portal/pdf/USER_MANUAL_MYFutureJobs_Xpats_Gateway.pdf' style='text-decoration:underline' target="_blank">Xpats Gateway User Manual (MYFutureJobs)</a></p>
+
+			</div>
+			<div class="backtop-desktop" style="display: ;">
+				<a href="#0" class="cd-top">Back Top</a>
+			</div>
+		</div>
+	</div>
+	<div style="clear: both;"></div>
+</div>
+</div>
+
+
+<script>
+	window.addEventListener('DOMContentLoaded', function() {
+		var containerWidth = document.querySelector('.right').offsetWidth;
+		var textWidth = document.querySelector('.text-prompter .text').offsetWidth;
+		var animationDuration = (textWidth + containerWidth) * 30; // Adjust speed as needed
+
+		document.querySelector('.text-prompter').style.width = textWidth + 'px';
+
+		function animateTextPrompter() {
+			var prompterElement = document.querySelector('.text-prompter');
+			prompterElement.style.transform = 'translateX(' + containerWidth + 'px)';
+			prompterElement.animate([{
+					transform: 'translateX(' + containerWidth + 'px)'
+				},
+				{
+					transform: 'translateX(-' + textWidth + 'px)'
+				}
+			], {
+				duration: animationDuration,
+				easing: 'linear',
+				iterations: Infinity
+			});
+		}
+
+		animateTextPrompter();
+	});
+</script>
+<script>
+	function performSearch() {
+		var searchQuery = document.getElementById("query").value;
+		window.location.href = "/portal/faq/xpats-gateway/index.php?query=" + encodeURIComponent(searchQuery);
+	}
+</script>
+
+
+		</div><!-- end content-wrapper -->
+		<div class="footer-wrapper">
+			<div class="left">
+				<div class="backtop" style="display: none;">
+					<a href="#0" class="cd-top">Back Top</a>
+				</div>
+				<div class="copyright">
+					<h1>Expatriate Services Division</h1>
+					<h2>IMMIGRATION DEPARTMENT OF MALAYSIA<br />BAHAGIAN KHIDMAT EKSPATRIAT JABATAN IMIGRESEN MALAYSIA</h2>
+					<small>© 2026 Expatriate Services Division. All Rights Reserved.</small>
+				</div>
+				<div class="bottom-menu">
+					<ul>
+						<li><a class="" href="https://esd.imi.gov.my/portal/">Home</a></li>
+						<li><a class=""  href="https://esd.imi.gov.my/portal/about-us/esd/">About Us</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/employers">Employers</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Expatriates</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/latest-news/news/">Latest News</a></li>
+                        <li><a class="" href="https://esd.imi.gov.my/portal/faq/">F.A.Q</a></li>
+						<div style="clear: both;"></div>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<ul class="top" style="display:block;">
+					<!-- <li class=""><a href="faq/">F.A.Q</a></li>
+					 <li><a href="#">T&C</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Useful Links</a></li> -->
+				</ul>
+				<!-- <ul class="bottom">
+					<li><a class="fb" href="#"> fb </a></li>
+					<li><a class="twi" href="#"> twi </a></li>
+					<li><a class="in" href="#"> in </a></li>
+					<li><a class="youtube" href="#"> youtube </a></li>
+					<div style="clear: both;"></div>
+				</ul> -->
+			</div>
+			<div style="clear: both;"></div>
+			<p class="mobile-copyright" style="display: none;">© 2026 Expatriate Services Division. All Rights Reserved.</p>
+		</div> 
+	</div> <!-- end main-wrapper -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-62607230-1', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+</body>
+</html>

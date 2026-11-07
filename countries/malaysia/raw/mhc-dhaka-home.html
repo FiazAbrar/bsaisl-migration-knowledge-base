@@ -1,0 +1,703 @@
+<!-- dynamic layout main/microsite -->
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ministry of Foreign Affairs Malaysia - Dhaka</title>
+
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS v4 via CDN -->
+    <link rel="preload" as="style" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" /><link rel="modulepreload" as="script" href="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" /><link rel="stylesheet" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" data-navigate-track="reload" /><script type="module" src="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" data-navigate-track="reload"></script>    <link rel="stylesheet" href="https://www.kln.gov.my/assets/chat-embed/css/chat-embed.css">
+
+    </head>
+
+<body class="min-h-screen flex flex-col m-0 font-sans bg-[#f8f9fa] text-[#495057]">
+
+<header class="shadow-[0_2px_5px_rgba(0,0,0,0.1)] relative z-1000">
+
+    <!-- Top Bar -->
+<div class="bg-[#032054] text-white py-2 text-[12px]">
+    <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-wrap justify-center sm:justify-between items-center gap-x-4 gap-y-1.5">
+
+        <div class="flex items-center gap-3">
+                            <a href="https://www.facebook.com/HCMalaysiaDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Facebook">
+                                            <i class="ri-facebook-box-fill text-base leading-none"></i>
+                                    </a>
+                            <a href="https://twitter.com/MYHCDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Twitter">
+                                            <i class="ri-twitter-x-line text-base leading-none"></i>
+                                    </a>
+                    </div>
+
+        <div class="flex flex-wrap justify-center items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/flag-malaysia.png" alt="Malaysia" class="h-4 rounded-xs" title="Malaysia">
+
+            <span class="text-white tabular-nums font-semibold"
+                  x-data="clock({ timezone: 'Asia/Kuala_Lumpur' })" x-text="displayDateTime"></span>
+
+                            <img src="https://www.kln.gov.my/uploads/office/01KWXPQ95W6R0QTX49HHSM9XRC/flag" alt="Bangladesh" class="h-4 rounded-xs" title="Bangladesh">
+            
+
+
+
+                            <span class="text-white tabular-nums font-semibold"
+                      x-data="clock({ timezone: 'Asia/Dhaka' })" x-text="displayDateTime"></span>
+            
+            <a href="https://kln.spab.gov.my/"
+               target="_blank" rel="noopener noreferrer"
+               class="bg-[#FFC72C] text-[#032054] font-bold px-3 py-1 rounded-[5px] no-underline text-[12px] hover:opacity-90 transition-opacity duration-200">
+                Feedback Us
+            </a>
+        </div>
+    </div>
+</div>
+
+    <!-- Main Nav -->
+<div class="bg-white py-[15px]">
+    <div class="max-w-[1600px] mx-auto px-10 flex justify-between items-center">
+
+        <!-- Hidden checkbox for mobile menu (no-JS toggle) -->
+        <input type="checkbox" id="menu-toggle-check" class="peer/menu sr-only">
+
+        <!-- Logo -->
+        <div class="flex items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="hidden h-12 md:block">
+            <div class="flex flex-col">
+                <span class="font-bold text-[18px] text-[#032054] leading-tight">
+                                            High Commission of Malaysia,
+                                        Dhaka
+                </span>
+                <span class="text-[14px] text-[#6c757d]">Ministry of Foreign Affairs, Malaysia</span>
+            </div>
+        </div>
+
+        <!-- Hamburger label (mobile) -->
+        <label for="menu-toggle-check" class="lg:hidden bg-transparent border-none cursor-pointer p-2.5" aria-label="Open menu">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" class="fill-[#333]">
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </label>
+
+        <!-- Nav Menu -->
+        <nav class="hidden peer-checked/menu:flex lg:flex flex-col lg:flex-row absolute lg:static top-full left-0 w-full lg:w-auto bg-white lg:bg-transparent shadow-md lg:shadow-none z-[1000]">
+            <ul class="flex flex-col lg:flex-row items-center list-none m-0 p-0 w-full lg:w-auto">
+
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#C8102E]">
+                            Home
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            About Us
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/history">
+                                            History
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/client_charter">
+                                            Client Charter
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/honorary_consul">
+                                            Honorary Consul(s)
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/location_map">
+                                            Location Map
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/holidays">
+                                            Public Holidays
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Staff
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/head_mission">
+                                            Head of Mission
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/home-based-staff">
+                                            Home Based Staff
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/agencies">
+                                            Agencies
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Services
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/mysafe-travel">
+                                            MySafe Travel
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/passport_renewal">
+                                            Consular Services
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/requirement_malaysians">
+                                            Visa Requirement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/news-from-mission"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            News
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Resources
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/documents">
+                                            Documents
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/forms">
+                                            Forms
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Notice
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/job_vacancy">
+                                            Job Vacancy
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/procurement">
+                                            Procurement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+<!-- /PART 1 END -->
+
+<main class="grow flex flex-col">
+        <section class="relative text-white pb-[120px]">
+            <div class="absolute inset-0 overflow-hidden z-[1]">
+                <video autoplay muted loop playsinline
+                       class="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2">
+                    <source src="https://www.kln.gov.my/malawakil/images/background-video.mp4" type="video/mp4">
+                </video>
+                <div class="absolute inset-0" style="background: linear-gradient(to bottom, rgba(3,32,84,0.2), rgba(3,32,84,0.4));"></div>
+            </div>
+
+            <div class="relative z-[3] max-w-[1200px] mx-auto px-5 lg:px-10 pt-[30px] pb-[50px] text-center">
+                <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png"
+                     alt="Jata Negara"
+                     class="h-[90px] mx-auto mb-4"
+                     style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+                <h1 class="text-[24px] md:text-[32px] font-black m-0 uppercase" style="text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
+                                            High Commission of Malaysia,
+                                        Dhaka
+                </h1>
+                <h2 class="text-[16px] md:text-[18px] font-normal mt-[5px] mb-0 opacity-90">
+                    MINISTRY OF FOREIGN AFFAIRS, MALAYSIA
+                </h2>
+                <p class="text-[16px] leading-[1.7] max-w-[650px] mx-auto mt-6 mb-0 opacity-90">
+                    
+                </p>
+                            </div>
+        </section>
+
+        <section class="bg-[#032054] relative overflow-hidden pt-[150px] pb-[100px] -mt-[150px]">
+
+            <div class="absolute inset-0 z-0"
+                 style="background-image: url('https://www.kln.gov.my/malawakil/images/operation-rotate-scaled.png'); background-size: cover; background-position: center; opacity: 0.2;"></div>
+
+            <div class="relative z-[1] max-w-[1200px] mx-auto px-5 lg:px-10 -mt-[125px]">
+                                    <div class="flex flex-col md:flex-row gap-[30px] justify-center">
+                                                    <div class="bg-white/[0.95] backdrop-blur-sm rounded-[15px] p-[25px] shadow-[0_10px_30px_rgba(0,0,0,0.15)] flex-1 text-[#333333] border border-white/30">
+                                <div class="text-[14px] leading-[1.6]">
+                                    <h3><strong>Address</strong></h3>
+<p>House No. 19
+Road No. 6,
+Baridhara Diplomatic Enclave
+Dhaka</p>
+                                </div>
+                            </div>
+                                                    <div class="bg-white/[0.95] backdrop-blur-sm rounded-[15px] p-[25px] shadow-[0_10px_30px_rgba(0,0,0,0.15)] flex-1 text-[#333333] border border-white/30">
+                                <div class="text-[14px] leading-[1.6]">
+                                    <h3><strong>Contact Us</strong></h3>
+<p>Email : mwdhaka@kln.gov.my / dhaka@imi.gov.my (Visa Section)</p>
+<p>Phone : +88 02 4108 1892 ;
++88 02 4108 1918 (VISA related matters) ;
++88 017 8665 2466 (Emergency for Malaysian Nationals only)</p>
+<p>Fax : +88 02 4108 1893</p>
+                                </div>
+                            </div>
+                                                    <div class="bg-white/[0.95] backdrop-blur-sm rounded-[15px] p-[25px] shadow-[0_10px_30px_rgba(0,0,0,0.15)] flex-1 text-[#333333] border border-white/30">
+                                <div class="text-[14px] leading-[1.6]">
+                                    <h3><strong>Operation Hours</strong></h3>
+<p>Sunday - Thursday<br />
+8.30 a.m - 4.30 p.m (Lunch Break: 12.30 pm - 1.30 pm)<br />
+CLOSED : Friday & Saturday</p>
+                                </div>
+                            </div>
+                                            </div>
+                            </div>
+
+            <!-- Wave SVG divider -->
+            <div class="absolute bottom-[-1px] left-0 w-full overflow-hidden leading-none z-10">
+                <svg class="relative block w-[calc(100%+1.3px)] h-[40px]"
+                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M0,80 C200,20 1000,20 1200,80 L1200,120 L0,120 Z" fill="#f8f9fa"></path>
+                </svg>
+            </div>
+        </section>
+        <!-- /PART 3 END -->
+
+        <section class="py-[60px] bg-white shadow-[0_10px_30px_rgba(0,0,0,0.07)]">
+            <div class="max-w-[1200px] mx-auto px-5 lg:px-10">
+
+                <!-- Two-column layout: Social (35%) | News grid (flex-1) -->
+                <div class="flex flex-col lg:flex-row gap-6 lg:gap-10 lg:items-stretch mt-[10px]">
+
+                    <!-- Left: Single social media card (full height) -->
+                    <div class="w-full lg:basis-[35%] lg:shrink-0 lg:grow-0 flex flex-col min-h-[300px] lg:min-h-0">
+
+                        <div class="text-center">
+                            <h2 class="text-[28px] font-black text-[#090909] mt-0 mb-[10px] uppercase tracking-[1px]">
+                                <span class="text-[#C8102E]">SOCIAL</span> MEDIA
+                            </h2>
+                            <div class="w-[100px] h-[3px] mx-auto mb-10 bg-[linear-gradient(to_right,#032054_50%,transparent_0%)] bg-bottom bg-[length:8px_2px] bg-repeat-x"></div>
+                        </div>
+
+                        <div class="flex-1 flex items-stretch">
+                                                            <a href="https://www.facebook.com/HCMalaysiaDhaka" target="_blank" rel="noopener noreferrer"
+                                   class="w-full h-full rounded-[10px] overflow-hidden bg-white shadow-[0_3px_12px_rgba(0,0,0,0.08)] no-underline flex flex-col transition-all duration-200 hover:-translate-y-[4px] hover:shadow-[0_8px_20px_rgba(0,0,0,0.12)]">
+                                    <div class="flex-1 overflow-hidden bg-[#f8f9fa]">
+                                        <img src="https://www.kln.gov.my/uploads/social-media/01KZFSMK6CD11N2BME805KCQ9J/feature"
+                                             alt="Facebook"
+                                             class="w-full h-full object-cover">
+                                    </div>
+                                    <div class="h-[50px] shrink-0 flex items-center px-[14px] gap-[10px] text-[13px] bg-white">
+                                                                                    <i class="ri-facebook-box-fill text-[22px]"></i>
+                                                                                <span class="font-semibold text-[#333]">Facebook</span>
+                                    </div>
+                                </a>
+                                                    </div>
+                    </div>
+
+                    <div class="flex-1">
+
+                        <div class="flex-1 text-center">
+                            <h2 class="text-[28px] font-black text-[#090909] mt-0 mb-[10px] uppercase tracking-[1px] inline-block">
+                                <span class="text-[#C8102E]">NEWS</span> FROM MISSION
+                            </h2>
+                            <div class="w-[100px] h-[3px] mx-auto mb-10 bg-[linear-gradient(to_right,#032054_50%,transparent_0%)] bg-bottom bg-[length:8px_2px] bg-repeat-x"></div>
+                        </div>
+
+                        <div class="flex flex-col gap-1.5">
+                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/post/hari-sukan-negara-2026"
+                                                                      class="group flex items-start gap-4 p-4 bg-white rounded-lg border border-[#e9ecef]
+                                      hover:border-[#032054] hover:shadow-md transition-all duration-200 no-underline text-[#333] uppercase">
+                                    <div class="shrink-0 text-center min-w-[70px]">
+                                        <span class="block text-[22px] font-black text-[#032054] leading-tight">
+                                            11
+                                        </span>
+                                        <span class="block text-[11px] font-semibold text-[#C8102E] uppercase tracking-wide leading-none">
+                                            Oct 2026
+                                        </span>
+                                    </div>
+                                    <div class="w-px self-stretch bg-[#e0e0e0] shrink-0"></div>
+                                    <p class="m-0 text-[14px] font-medium leading-snug group-hover:text-[#032054] transition-colors duration-200 line-clamp-2">
+                                        HARI SUKAN NEGARA 2026
+                                    </p>
+                                </a>
+                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/post/launching-ceremony-of-tealive-in-dhaka-bangladesh"
+                                                                      class="group flex items-start gap-4 p-4 bg-white rounded-lg border border-[#e9ecef]
+                                      hover:border-[#032054] hover:shadow-md transition-all duration-200 no-underline text-[#333] uppercase">
+                                    <div class="shrink-0 text-center min-w-[70px]">
+                                        <span class="block text-[22px] font-black text-[#032054] leading-tight">
+                                            08
+                                        </span>
+                                        <span class="block text-[11px] font-semibold text-[#C8102E] uppercase tracking-wide leading-none">
+                                            Oct 2026
+                                        </span>
+                                    </div>
+                                    <div class="w-px self-stretch bg-[#e0e0e0] shrink-0"></div>
+                                    <p class="m-0 text-[14px] font-medium leading-snug group-hover:text-[#032054] transition-colors duration-200 line-clamp-2">
+                                        Launching Ceremony of Tealive in Dhaka, Bangladesh 
+                                    </p>
+                                </a>
+                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/post/courtesy-call-by-the-newly-elected-board-of-directors-of-bmcci"
+                                    target="_blank"                                    class="group flex items-start gap-4 p-4 bg-white rounded-lg border border-[#e9ecef]
+                                      hover:border-[#032054] hover:shadow-md transition-all duration-200 no-underline text-[#333] uppercase">
+                                    <div class="shrink-0 text-center min-w-[70px]">
+                                        <span class="block text-[22px] font-black text-[#032054] leading-tight">
+                                            15
+                                        </span>
+                                        <span class="block text-[11px] font-semibold text-[#C8102E] uppercase tracking-wide leading-none">
+                                            Jul 2026
+                                        </span>
+                                    </div>
+                                    <div class="w-px self-stretch bg-[#e0e0e0] shrink-0"></div>
+                                    <p class="m-0 text-[14px] font-medium leading-snug group-hover:text-[#032054] transition-colors duration-200 line-clamp-2">
+                                        COURTESY CALL BY THE NEWLY ELECTED BOARD OF DIRECTORS OF BMCCI 
+                                    </p>
+                                </a>
+                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/post/engagement-between-jakim-and-bmcci-on-the-halal-industry"
+                                    target="_blank"                                    class="group flex items-start gap-4 p-4 bg-white rounded-lg border border-[#e9ecef]
+                                      hover:border-[#032054] hover:shadow-md transition-all duration-200 no-underline text-[#333] uppercase">
+                                    <div class="shrink-0 text-center min-w-[70px]">
+                                        <span class="block text-[22px] font-black text-[#032054] leading-tight">
+                                            15
+                                        </span>
+                                        <span class="block text-[11px] font-semibold text-[#C8102E] uppercase tracking-wide leading-none">
+                                            Jul 2026
+                                        </span>
+                                    </div>
+                                    <div class="w-px self-stretch bg-[#e0e0e0] shrink-0"></div>
+                                    <p class="m-0 text-[14px] font-medium leading-snug group-hover:text-[#032054] transition-colors duration-200 line-clamp-2">
+                                        ENGAGEMENT BETWEEN JAKIM AND BMCCI ON THE HALAL INDUSTRY
+                                    </p>
+                                </a>
+                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/post/meeting-with-the-president-of-the-bangladesh-semiconductor-industry-association-bsia"
+                                    target="_blank"                                    class="group flex items-start gap-4 p-4 bg-white rounded-lg border border-[#e9ecef]
+                                      hover:border-[#032054] hover:shadow-md transition-all duration-200 no-underline text-[#333] uppercase">
+                                    <div class="shrink-0 text-center min-w-[70px]">
+                                        <span class="block text-[22px] font-black text-[#032054] leading-tight">
+                                            15
+                                        </span>
+                                        <span class="block text-[11px] font-semibold text-[#C8102E] uppercase tracking-wide leading-none">
+                                            Jul 2026
+                                        </span>
+                                    </div>
+                                    <div class="w-px self-stretch bg-[#e0e0e0] shrink-0"></div>
+                                    <p class="m-0 text-[14px] font-medium leading-snug group-hover:text-[#032054] transition-colors duration-200 line-clamp-2">
+                                        MEETING WITH THE PRESIDENT OF THE BANGLADESH SEMICONDUCTOR INDUSTRY ASSOCIATION (BSIA)
+                                    </p>
+                                </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="relative py-[60px] overflow-hidden bg-white
+                    before:content-[''] before:absolute before:inset-0
+                    before:bg-[url('/malawakil/images/operation-rotate-scaled.png')] before:bg-cover before:bg-center
+                    before:opacity-25 before:z-[1]">
+            <div class="relative z-[2] max-w-[1400px] mx-auto px-5 lg:px-10">
+
+                <h2 class="text-center text-[28px] font-black text-[#090909] mt-0 mb-[10px] uppercase tracking-[1px]">
+                    MFA <span class="text-[#C8102E]">INFO</span>
+                </h2>
+                <div class="w-[100px] h-[3px] mx-auto mb-10 bg-[linear-gradient(to_right,#032054_50%,transparent_0%)] bg-bottom bg-[length:8px_2px] bg-repeat-x"></div>
+
+                
+            </div>
+        </section>
+    </main>
+
+<!--
+      Scroll to Top Button
+      - fixed bottom-5 left-5: positions it from the bottom left (away from the chatbot avatar)
+      - transition-all duration-300: smooth animation
+      - Default state (hidden): opacity-0, translate-y-10 (moved down), pointer-events-none (cannot be clicked)
+    -->
+<button
+    id="scrollToTopBtn"
+    class="fixed bottom-5 left-5 bg-brand-dark text-white p-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform translate-y-10 opacity-0 pointer-events-none flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-brand-orange focus:ring-offset-2 z-50 group"
+    aria-label="Scroll to top"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:-translate-y-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+</button>
+
+<footer class="relative z-[5]">
+
+    <!-- Main Footer (video background) -->
+    <div class="relative py-[60px] text-white overflow-hidden">
+        <div class="absolute inset-0 z-[1] overflow-hidden">
+            <video autoplay muted loop playsinline
+                   class="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover">
+                <source src="https://www.kln.gov.my/malawakil/images/Portal-KLN-Design-1.mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0" style="background: linear-gradient(to right, rgba(3,32,84,0.4), rgba(3,32,84,0.6));"></div>
+        </div>
+
+                                <div class="relative z-[3] max-w-[1600px] mx-auto px-5 lg:px-10">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-start">
+
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">Quick links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.miti.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Ministry of Investment, Trade and Industry (MITI)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.imi.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Immigration Department of Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.matrade.gov.my/en"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia External Trade Development Corporation (MATRADE)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.mida.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysian Investment Development Authority (MIDA)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysia.travel"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Tourism Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysiaairlines.com/en/home.html"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia Airlines</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">MFA Links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">MFA Official Portal</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/overseas-missions"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Embassies &amp; High Commissions</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/deputy-foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Deputy Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/secretary-general"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Secretary General</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                            
+                                                                                                        <div class="flex items-center gap-5 mt-2">
+                                            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="h-[70px]">
+                                            <div class="flex flex-col">
+                                                <span class="text-[18px] font-bold leading-[1.4] block">
+                                                                                                            High Commission of Malaysia,
+                                                                                                        Dhaka
+                                                </span>
+                                                <span class="text-[14px] opacity-80 block">Ministry of Foreign Affairs, Malaysia</span>
+                                            </div>
+                                        </div>
+                                                                                                </div>
+                    
+                </div>
+            </div>
+            </div>
+
+    <!-- Sub-footer -->
+    <div class="bg-[#021438] text-[#adb5bd] py-[15px] text-[12px]">
+        <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-col md:flex-row justify-between items-center gap-2 text-center md:text-left">
+            <div>
+                <p class="m-0">Best Viewed: Microsoft Edge, Google Chrome &amp; Mozilla Firefox latest version</p>
+                <p class="m-0">Last Updated: 06 November, 2026</p>
+            </div>
+            <div>
+                <p class="m-0">© 2026 Ministry of Foreign Affairs, Malaysia. All Rights Reserved.</p>
+            </div>
+            <div>
+                <p class="m-0">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/faqs"                                class="text-[#adb5bd] no-underline hover:underline">FAQs</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"                                class="text-[#adb5bd] no-underline hover:underline">Privacy Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"                                class="text-[#adb5bd] no-underline hover:underline">Security Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/site_map"                                class="text-[#adb5bd] no-underline hover:underline">Site Map</a>
+                                                                                        </p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<!-- /PART 6 END -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+        // Listen for scroll events on the window
+        window.addEventListener('scroll', () => {
+            // Show button when page is scrolled down 300px
+            if (window.scrollY > 300) {
+                // Remove hidden state classes
+                scrollToTopBtn.classList.remove('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Add visible state classes
+                scrollToTopBtn.classList.add('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            } else {
+                // Add hidden state classes
+                scrollToTopBtn.classList.add('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Remove visible state classes
+                scrollToTopBtn.classList.remove('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            }
+        });
+
+        // Smooth scroll to top when button is clicked
+        scrollToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+
+<script src="https://www.kln.gov.my/assets/chat-embed/js/chat-embed.js"></script>
+<div
+        x-data="chatEmbed({ storageKey: 'chat-embed-open:bgd_dhaka' })"
+        x-on:keydown.escape.window="setOpen(false)"
+        class="chat-embed"
+    >
+        <div x-show="open" x-cloak id="chat-embed-frame" class="chat-embed-frame">
+            <template x-if="loaded">
+                <iframe
+                    src="https://www.kln.gov.my/chat?site=bgd_dhaka"
+                    title="Putra"
+                    
+                    sandbox="allow-scripts allow-forms allow-same-origin allow-top-navigation-by-user-activation"
+                    referrerpolicy="same-origin"
+                    loading="lazy"
+                ></iframe>
+            </template>
+        </div>
+
+                    
+            <button
+                type="button"
+                x-show="! open"
+                x-ref="avatarLauncher"
+                @click="openAndFocus()"
+                aria-expanded="false"
+                aria-controls="chat-embed-frame"
+                aria-label="Ask Putra"
+                class="chat-embed-launcher"
+            >
+                <img src="https://www.kln.gov.my/uploads/chatbot/full-avatar?v=1789465108" alt="Putra" class="chat-embed-avatar">
+            </button>
+
+            <button
+                type="button"
+                x-show="open"
+                x-cloak
+                x-ref="closeLauncher"
+                @click="closeAndFocus()"
+                aria-expanded="true"
+                aria-controls="chat-embed-frame"
+                aria-label="Close"
+                class="chat-embed-close"
+            >
+                                    <img src="https://www.kln.gov.my/uploads/chatbot/avatar?v=1789465108" alt="Close">
+                            </button>
+            </div>
+
+</body>
+</html>

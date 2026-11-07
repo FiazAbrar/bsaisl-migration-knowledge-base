@@ -1,0 +1,744 @@
+<!-- dynamic layout main/microsite -->
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ministry of Foreign Affairs Malaysia - Chennai</title>
+
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS v4 via CDN -->
+    <link rel="preload" as="style" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" /><link rel="modulepreload" as="script" href="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" /><link rel="stylesheet" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" data-navigate-track="reload" /><script type="module" src="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" data-navigate-track="reload"></script>    <link rel="stylesheet" href="https://www.kln.gov.my/assets/chat-embed/css/chat-embed.css">
+
+    </head>
+
+<body class="min-h-screen flex flex-col m-0 font-sans bg-[#f8f9fa] text-[#495057]">
+
+<header class="shadow-[0_2px_5px_rgba(0,0,0,0.1)] relative z-1000">
+
+    <!-- Top Bar -->
+<div class="bg-[#032054] text-white py-2 text-[12px]">
+    <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-wrap justify-center sm:justify-between items-center gap-x-4 gap-y-1.5">
+
+        <div class="flex items-center gap-3">
+                            <a href="https://www.facebook.com/mwchennai.chennai" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Facebook">
+                                            <i class="ri-facebook-box-fill text-base leading-none"></i>
+                                    </a>
+                            <a href="https://twitter.com/MYCGChennai" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Twitter">
+                                            <i class="ri-twitter-x-line text-base leading-none"></i>
+                                    </a>
+                    </div>
+
+        <div class="flex flex-wrap justify-center items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/flag-malaysia.png" alt="Malaysia" class="h-4 rounded-xs" title="Malaysia">
+
+            <span class="text-white tabular-nums font-semibold"
+                  x-data="clock({ timezone: 'Asia/Kuala_Lumpur' })" x-text="displayDateTime"></span>
+
+                            <img src="https://www.kln.gov.my/uploads/office/01KWXPQ94DDWSAGTRGKRGEZZYW/flag" alt="India" class="h-4 rounded-xs" title="India">
+            
+
+
+
+                            <span class="text-white tabular-nums font-semibold"
+                      x-data="clock({ timezone: 'Asia/Kolkata' })" x-text="displayDateTime"></span>
+            
+            <a href="https://kln.spab.gov.my/"
+               target="_blank" rel="noopener noreferrer"
+               class="bg-[#FFC72C] text-[#032054] font-bold px-3 py-1 rounded-[5px] no-underline text-[12px] hover:opacity-90 transition-opacity duration-200">
+                Feedback Us
+            </a>
+        </div>
+    </div>
+</div>
+
+    <!-- Main Nav -->
+<div class="bg-white py-[15px]">
+    <div class="max-w-[1600px] mx-auto px-10 flex justify-between items-center">
+
+        <!-- Hidden checkbox for mobile menu (no-JS toggle) -->
+        <input type="checkbox" id="menu-toggle-check" class="peer/menu sr-only">
+
+        <!-- Logo -->
+        <div class="flex items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="hidden h-12 md:block">
+            <div class="flex flex-col">
+                <span class="font-bold text-[18px] text-[#032054] leading-tight">
+                                            Consulate General of Malaysia,
+                                        Chennai
+                </span>
+                <span class="text-[14px] text-[#6c757d]">Ministry of Foreign Affairs, Malaysia</span>
+            </div>
+        </div>
+
+        <!-- Hamburger label (mobile) -->
+        <label for="menu-toggle-check" class="lg:hidden bg-transparent border-none cursor-pointer p-2.5" aria-label="Open menu">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" class="fill-[#333]">
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </label>
+
+        <!-- Nav Menu -->
+        <nav class="hidden peer-checked/menu:flex lg:flex flex-col lg:flex-row absolute lg:static top-full left-0 w-full lg:w-auto bg-white lg:bg-transparent shadow-md lg:shadow-none z-[1000]">
+            <ul class="flex flex-col lg:flex-row items-center list-none m-0 p-0 w-full lg:w-auto">
+
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/ind_chennai/home"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#C8102E]">
+                            Home
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            About Us
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/history">
+                                            History
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/client_charter">
+                                            Client Charter
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/honorary_consul">
+                                            Honorary Consul(s)
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/location_map">
+                                            Location Map
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/holidays">
+                                            Public Holidays
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Staff
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/head_mission">
+                                            Head of Mission
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/home-based-staff">
+                                            Home Based Staff
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/agencies">
+                                            Agencies
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Services
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/mysafe-travel">
+                                            MySafe Travel
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/passport_renewal">
+                                            Consular Services
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/requirement_malaysians">
+                                            Visa Requirement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/ind_chennai/news-from-mission"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            News
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Resources
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/documents">
+                                            Documents
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/forms">
+                                            Forms
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Notice
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/job_vacancy">
+                                            Job Vacancy
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/ind_chennai/procurement">
+                                            Procurement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+<!-- /PART 1 END -->
+
+<!-- post lists -->
+    <main class="grow flex flex-col">
+
+        <section class="relative bg-[#032054] overflow-hidden" style="min-height: 140px;">
+
+            <!-- Floral/pattern overlay -->
+            <div class="absolute inset-0 bg-cover bg-center opacity-15 z-0"
+                 style="background-image: url('https://www.kln.gov.my/portal-kln/images/operation-rotate-scaled.png');"></div>
+
+            <!-- Diagonal accent stripe -->
+            <div class="absolute inset-0 z-0 overflow-hidden">
+                <div
+                    class="absolute -right-20 top-0 bottom-0 w-[45%] bg-[#C8102E]/20 skew-x-[-12deg] origin-top-right"></div>
+            </div>
+
+            <!-- Content -->
+            <div class="relative z-10 max-w-[1500px] mx-auto px-5 lg:px-10 py-10 flex flex-col justify-center gap-3">
+
+                <!-- Breadcrumb -->
+                <nav class="flex items-center gap-1.5 text-white/70 text-[13px]" aria-label="Breadcrumb">
+                    <a href="https://www.kln.gov.my/web/ind_chennai/home"
+                       class="hover:text-white transition-colors duration-200 no-underline flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 576 512">
+                            <path
+                                d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                        </svg>
+                        <span>
+                            Home                        </span>
+                    </a>
+                                            <svg class="w-3 h-3 fill-current opacity-50 shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 320 512">
+                            <path
+                                d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                        </svg>
+                        <span class="text-white font-medium">
+                        Our Services
+                    </span>
+                                    </nav>
+
+                <!-- Page Title -->
+                <div class="flex items-center gap-4">
+                    <div class="w-1 h-10 bg-[#C8102E] rounded-full shrink-0"></div>
+                    <h1 class="m-0 text-white text-[28px] md:text-[34px] font-black uppercase tracking-wide leading-tight">
+                        for foreigners
+                    </h1>
+                </div>
+
+            </div>
+
+            <!-- Bottom wave divider -->
+            <div class="absolute -bottom-px left-0 w-full overflow-hidden leading-none z-10">
+                <svg class="relative block w-[calc(100%+1.3px)] h-[30px]"
+                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M0,60 C300,100 900,20 1200,60 L1200,120 L0,120 Z" class="fill-[#f8f9fa]"></path>
+                </svg>
+            </div>
+        </section>
+        <!-- /PART 2 END -->
+
+        <section class="py-10 bg-[#f8f9fa] flex-1">
+            <div class="max-w-[1500px] mx-auto px-5 lg:px-10">
+                <div class="flex flex-col lg:flex-row gap-8 items-start">
+
+                                            <aside class="w-full lg:w-60 shrink-0">
+    <div
+        class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden sticky top-[90px]">
+
+        <!-- Sidebar Header -->
+        <div class="bg-[#032054] px-5 py-4">
+            <h3 class="m-0 text-white text-[14px] font-bold uppercase tracking-wider flex items-center gap-2">
+                <svg class="w-4 h-4 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 512 512">
+                    <path
+                        d="M40 48C26.7 48 16 58.7 16 72v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V72c0-13.3-10.7-24-24-24H40zM192 64c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zM16 232v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V232c0-13.3-10.7-24-24-24H40c-13.3 0-24 10.7-24 24zM40 368c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V392c0-13.3-10.7-24-24-24H40z"/>
+                </svg>
+                Our Services
+            </h3>
+        </div>
+
+        <!-- Item List -->
+        <ul class="list-none m-0 p-0">
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/ind_chennai/mysafe-travel"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        MySafe Travel
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                    <div x-data="{ open: false }">
+                            <div class="flex items-stretch text-[14px] text-[#495057] font-medium">
+                                                                    <button type="button"
+                                            @click="open = !open"
+                                            :aria-expanded="open.toString()"
+                                            aria-expanded="false"
+                                            aria-controls="sidebar-children-01KWXPQG8JFM3PEZKZST1FZ5WV"
+                                            class="flex flex-1 items-center justify-between px-5 py-3.5 bg-transparent border-none cursor-pointer text-left text-inherit transition-colors duration-200 hover:bg-[#f8f9fa] hover:text-[#032054]">
+                                        <span class="flex items-center gap-2">
+                                                                                        Consular Services
+                                        </span>
+                                        <svg class="w-3 h-3 fill-current shrink-0 opacity-50 transition-transform duration-200"
+                                             :class="open && 'rotate-90'"
+                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                            <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                        </svg>
+                                    </button>
+                                                            </div>
+
+                            <ul id="sidebar-children-01KWXPQG8JFM3PEZKZST1FZ5WV"
+                                x-show="open"
+                                x-collapse
+                                 x-cloak                                 class="list-none m-0 p-0 bg-[#fafbfc] border-t border-[#f0f0f0]">
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <a href="https://www.kln.gov.my/web/ind_chennai/passport_renewal"
+                                               class="flex items-center justify-between pl-9 pr-5 py-3 text-[#495057] hover:bg-[#f1f3f5] hover:text-[#032054] text-[13px] font-medium no-underline transition-colors duration-200 group">
+                                                <span class="flex items-center gap-2">
+                                                                                                        Passport Renewal
+                                                </span>
+                                                <svg
+                                                    class="w-2.5 h-2.5 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </a>
+                                                                            </li>
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <a href="https://www.kln.gov.my/web/ind_chennai/birth_marriage_cert"
+                                               class="flex items-center justify-between pl-9 pr-5 py-3 text-[#495057] hover:bg-[#f1f3f5] hover:text-[#032054] text-[13px] font-medium no-underline transition-colors duration-200 group">
+                                                <span class="flex items-center gap-2">
+                                                                                                        Birth/Marriage Registration
+                                                </span>
+                                                <svg
+                                                    class="w-2.5 h-2.5 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </a>
+                                                                            </li>
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <a href="https://www.kln.gov.my/web/ind_chennai/malaysian_reg"
+                                               class="flex items-center justify-between pl-9 pr-5 py-3 text-[#495057] hover:bg-[#f1f3f5] hover:text-[#032054] text-[13px] font-medium no-underline transition-colors duration-200 group">
+                                                <span class="flex items-center gap-2">
+                                                                                                        Registrations of Malaysians (Online)
+                                                </span>
+                                                <svg
+                                                    class="w-2.5 h-2.5 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </a>
+                                                                            </li>
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <a href="https://www.kln.gov.my/web/ind_chennai/travel_advisory"
+                                               class="flex items-center justify-between pl-9 pr-5 py-3 text-[#495057] hover:bg-[#f1f3f5] hover:text-[#032054] text-[13px] font-medium no-underline transition-colors duration-200 group">
+                                                <span class="flex items-center gap-2">
+                                                                                                        Travel Advisory
+                                                </span>
+                                                <svg
+                                                    class="w-2.5 h-2.5 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </a>
+                                                                            </li>
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <a href="https://www.kln.gov.my/web/ind_chennai/other_information"
+                                               class="flex items-center justify-between pl-9 pr-5 py-3 text-[#495057] hover:bg-[#f1f3f5] hover:text-[#032054] text-[13px] font-medium no-underline transition-colors duration-200 group">
+                                                <span class="flex items-center gap-2">
+                                                                                                        Other Information
+                                                </span>
+                                                <svg
+                                                    class="w-2.5 h-2.5 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </a>
+                                                                            </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                    <div x-data="{ open: true }">
+                            <div class="flex items-stretch text-[14px] text-[#495057] font-medium">
+                                                                    <button type="button"
+                                            @click="open = !open"
+                                            :aria-expanded="open.toString()"
+                                            aria-expanded="true"
+                                            aria-controls="sidebar-children-01KWXPQG8M8VXEBWPH4RNJHRZP"
+                                            class="flex flex-1 items-center justify-between px-5 py-3.5 bg-transparent border-none cursor-pointer text-left text-inherit transition-colors duration-200 hover:bg-[#f8f9fa] hover:text-[#032054] text-[#032054] font-semibold">
+                                        <span class="flex items-center gap-2">
+                                                                                        Visa Requirement
+                                        </span>
+                                        <svg class="w-3 h-3 fill-current shrink-0 opacity-50 transition-transform duration-200"
+                                             :class="open && 'rotate-90'"
+                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                            <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                        </svg>
+                                    </button>
+                                                            </div>
+
+                            <ul id="sidebar-children-01KWXPQG8M8VXEBWPH4RNJHRZP"
+                                x-show="open"
+                                x-collapse
+                                                                class="list-none m-0 p-0 bg-[#fafbfc] border-t border-[#f0f0f0]">
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <a href="https://www.kln.gov.my/web/ind_chennai/requirement_malaysians"
+                                               class="flex items-center justify-between pl-9 pr-5 py-3 text-[#495057] hover:bg-[#f1f3f5] hover:text-[#032054] text-[13px] font-medium no-underline transition-colors duration-200 group">
+                                                <span class="flex items-center gap-2">
+                                                                                                        for Malaysian
+                                                </span>
+                                                <svg
+                                                    class="w-2.5 h-2.5 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </a>
+                                                                            </li>
+                                                                                                        <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                                    <span
+                                                class="flex items-center justify-between pl-9 pr-5 py-3 bg-[#C8102E] text-white text-[13px] font-semibold cursor-default">
+                                                <span class="flex items-center gap-2">
+                                                                                                        for Foreigners
+                                                </span>
+                                                <svg class="w-2.5 h-2.5 fill-current shrink-0"
+                                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                                </svg>
+                                            </span>
+                                                                            </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                    </ul>
+    </div>
+</aside>
+                    
+                                                                        
+                                
+                                <div class="flex-1 min-w-0 space-y-6">
+                                                                            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                                                                                        <div class="p-6">
+                                                                                                    <div class="ck-content"><p> </p> <p style="margin: 0cm 5.5pt 0.0001pt 0cm; line-height: 15.75pt; background: white; text-align: center;"><strong><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">GUIDELINES FOR VISA APPLICATION EFFECTIVE 1 APRIL 2022</span></span></u></strong></p> <p style="margin-top:0cm;margin-right:5.5pt;margin-bottom:7.5pt;margin-left:0cm;text-align:justify;line-height:15.75pt;background:white;"> </p> <p style="margin-top:0cm;margin-right:5.5pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:15.75pt;background:white;"><span style="color:black;"><span style="font-family:helvetica,sans-serif;">Please note that all visa <strong>application must be made through online platform (eVISA) </strong>(</span></span><a href="https://malaysiavisa.imi.gov.my/"><span style="background:white;text-decoration:none;text-underline:none;"><span style="color:black;"><span style="font-family:helvetica,sans-serif;">https://malaysiavisa.imi.gov.my</span></span></span></a><span style="color:black;"><span style="font-family:helvetica,sans-serif;">) (for certain categories of visa only<em>) </em>or Authorised Visa Application Agency. In this regard, the Immigration of Malaysia in Chennai is pleased to announce that a visa application through online platform (<strong>eVISA</strong>) is now made available for foreign nationals from certain countries, including India, for the following visa categories:</span></span></p> <p style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-left:18.0pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-left:18.0pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">      Social Visit Pass;</span></span></p> <p style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-left:-18.0pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">                  Student Pass;</span></span></p> <p style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-left:-18.0pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">                  Expatriate (Employment Pass, Professional Visit Pass (Talent), Resident Pass (Talent), Dependent Pass);</span></span><span style="font-family: arial, sans-serif; color: rgb(78, 78, 78);">and</span></p> <p style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-left:-18.0pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">                  Medical Treatment Purpose.</span></span></p> <p style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-left:-18.0pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-top:0cm;margin-right:5.5pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:15.75pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">As such, all <strong>visa application for the above-mentioned categories</strong> is <strong>required</strong> to be <strong>submitted through eVISA,</strong> subject to the terms and conditions issued by the Government of Malaysia, including the following:</span></span></p> <p style="margin-top:0cm;margin-right:5.5pt;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:15.75pt;background:white;"> </p> <ul> <li style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">All visa application will be considered on the merits, and the Immigration of Malaysia in Chennai  has the right to seek additional information at any stage of processing;</span></span></li> <li style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">The Immigration  of Malaysia in Chennai reserves the right to refuse a visa application without providing any reason;</span></span></li> <li style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">The fact that an application for a visa is received through the Immigration of Malaysia in Chennai will not guarantee that the visa will be issued; and</span></span></li> <li style="margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;">Submission of a visa application through a third-party website or an agent is at the applicant’s risk.</span></span></li> </ul> <p style="margin-top:0cm;margin-right:5.5pt;margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:justify;line-height:15.75pt;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><strong><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">VISA REQUIREMENTS</span></span></span></u></strong></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">The requirements for visa application</span></span></span></strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;"> as follows:</span></span></span></p> <table border="0" cellpadding="0" cellspacing="0" style="width:642px;background:white;border-collapse:collapse;" width="642"> <tbody> <tr style="height:10px;"> <td style="width:319px;border:solid windowtext 1.0pt;background:#DFDFDF;padding:0cm 5.4pt 0cm 5.4pt;height:10px;vertical-align:top;"> <p style="margin-bottom:0cm;margin-bottom:.0001pt;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa without Reference (Social Visit) MEV</span></span></span></strong></p> </td> <td style="width:323px;border:solid windowtext 1.0pt;border-left:none;background:#DFDFDF;padding:0cm 5.4pt 0cm 5.4pt;height:10px;vertical-align:top;"> <p style="margin-bottom:0cm;margin-bottom:.0001pt;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa with Reference (VDR)</span></span></span></strong></p> </td> </tr> <tr style="height:37px;"> <td style="width:319px;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:37px;vertical-align:top;"> <ol> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Original Passport;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Photocopy of passport (passport pages that contain personal details and detail of previous passport, if any);</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Duly completed visa application form;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Two (2) passport-sized photos;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Return flight ticket;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Recent 6 months bank statement with a letter of solvency;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Hotel Reservation copy; and/or</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Additional documents (where applicable):</span></span></span></li> </ol> <ul> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Invitation letter from organizer or sponsor in Malaysia;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Photocopy of business registration (for business proprietor);</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">and</span></span></span></li> <li style="margin-bottom:.0001pt;"><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">*Other documents that processing officer may require”</span></span></span></em></li> </ul> </td> <td style="width:323px;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:37px;vertical-align:top;"> <ol> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Original passport;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Photocopy of passport (passport pages that contain personal details and detail of previous passport, if any);</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Duly completed visa application form;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Two (2) passport-sized photos;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Approval letter from the Immigration Department of Malaysia;</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Flight ticket; and</span></span></span></li> <li style="margin-bottom:.0001pt;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Other documents that processing officer may require.</span></span></span></li> </ol> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:12.1pt;"> </p> </td> </tr> </tbody> </table> <p style="margin-bottom:7.5pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><strong><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Malaysia Visa Application Centre (Malaysia VAC) </span></span></span></u></strong><strong><u><span style="color:red;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">*new as of 6 August 2022</span></span></span></u></strong></p> <ol> <li style="margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">To ensure a smooth applications of eVisa to enter Malaysia, Malaysia Visa Application Centre (Malaysia VAC) has started the operations since 6 August 2022.</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Applications eVisa for category <u>Foreign Worker</u> will only be accepted through <strong>Malaysia Visa Application Centre (Malaysia VAC) only.</strong></span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Meanwhile, applications eVisa for other categories are applicable via Malaysia VAC and website: </span></span></span><span style="color:#4E4E4E;"><span style="font-size:10.5pt;"><a href="https://malaysiavisa.imi.gov.my/evisa/evisa.jsp"><span style="text-decoration:none;text-underline:none;"><span style="color:black;"><span style="font-family:arial,sans-serif;">https://malaysiavisa.imi.gov.my/evisa/evisa.jsp</span></span></span></a></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Further information can be obtained through website: <a href="http://www.malaysiavac.com/"><span style="text-decoration:none;text-underline:none;"><span style="color:black;">www.malaysiavac.com</span></span></a> </span></span></span></li> </ol> <p style="margin-bottom:7.5pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><strong><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Transit Without Visa (TWOV) </span></span></span></u></strong><strong><span style="color:red;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">(remain currently suspended)</span></span></span></strong></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">1. TWOV facility is offered only to Indian Sub Continental Countries citizens.</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">2. TWOV cannot be given to visitors who do not possess vi</span></span></span></span><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">sa from the 3rd country of destination as follows:</span></span></span></p> <ol style="list-style-type:lower-roman;"> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Australia</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">New Zealand</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">United States of America</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Japan</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">China</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Taiwan</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">South Korea</span></span></span></li> </ol> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">3. TWOV facility cannot exceed more than 120 hours (5 days).</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">4. TWOV facility is <strong><u>only available</u></strong> at the entry point of Kuala Lumpur International Airport (KLIA) and Kuala Lumpur International Airport 2 (KLIA2)</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">5. TWOV cannot be offered to passengers sponsored by airlines other than <strong>Malaysia Airlines, Air Asia, and Malindo Air</strong>. At present only these 3 airlines have agreed and accepted all terms and conditions imposed by the Malaysian Government. </span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">6. TWOV cannot be given to visitors who do not meet the following requirement: </span></span></span></p> <ol style="list-style-type:lower-roman;"> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Valid national passport or internationally recognized travel document;</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Travel documents valid for more than six (6) months from the date of entry;</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A return ticket to country of origin/confirmed ticket to third country; and</span></span></span></li> <li style="margin-bottom:.0001pt;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Not listed in the Immigration Department’s suspected list.</span></span></span></li> </ol> <p style="margin-bottom:7.5pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">7. There will be no extension of TWOV facility.</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">8. Permanent residents and long-term pass holders are not bound to any of the TWOV regulations and conditions stipulated above.</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">9. TWOV will be issued free of charge at the Visa on Arrival counter at the immigration clearance upon arrival.</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><strong><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa on Arrival (VOA)</span></span></span></u></strong></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa on Arrival facility is available for citizens of the PRC and<strong> India</strong> with the following conditions : </span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">i) Visitors arriving in Malaysia via Singapore, Thailand, Indonesia, or Brunei only (with a valid visa from either country)</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">ii) Visitors coming in from either four countries through the entrance as follows:</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Air Route</span></span></span></u></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">a) Kuala Lumpur International Airport (KLIA)</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">b) Kuala Lumpur International Airport 2 (KLIA2)</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">c) Bayan Lepas International Airport, Pulau Pinang</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">d) Sultan Ismail, Senai Airport, Johor</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">e) Kota Kinabalu International Airport, Sabah</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">f) Kuching International Airport, Sarawak</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">g) Langkawi International Airport, Kedah</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">h) Miri Airport, Sarawak</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">i) Sultan Abdul Aziz Shah Airport, Selangor</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Land Route</span></span></span></u></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">a) Tuas (Singapore)- Sultan Abu Bakar Complex (Second Link)(Malaysia) </span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">b) Immigration Control Post, Sungai Tujoh, Sarawak</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">c) Immigration, Customs, Quarantine and Security Complex (ICQS) Bukit Kayu Hitam, Kedah</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Sea Route</span></span></span></u></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Immigration Control Post, Labuan International Terminal Ferry <strong>ONLY</strong></span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">VOA fees is RM200.00 and visitors must show that they have at least USD500 cash (or equivalent in Ringgit Malaysia) and a confirmed return ticket. </span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visitors are only allowed to stay for 15 days. Enforcement action based on the Immigration Act and Regulations will be taken against those who stay beyond the allowed duration.</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;background:white;"><strong><u><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Transit Visa </span></span></span></u></strong></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Kindly be informed that you do not need any visa during transit if your flights are booked under a <u>single PNR</u> and you have no plans to leave the transit hall. </span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Should the bookings made under <u>separate PNR</u>, and you need to go through custom and immigration checks to check in for your next flight/luggage in Kuala Lumpur / change airport from KLIA to KLIA2/ leave the airport/boarding area; then you need to apply for Malaysia visa before travelling.</span></span></span></p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Changing terminals within the same airport (KLIA/KLIA2) is fine as you do not need to go through immigration clearance.</span></span></span></p> <p style="margin-bottom:7.5pt;line-height:normal;background:white;"> </p> <p><strong>UPDATE ON 17AUGUST 2022</strong></p></div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+
+                                                                        
+                </div>
+            </div>
+        </section>
+        <!-- /PART 3 END -->
+    </main>
+
+<!--
+      Scroll to Top Button
+      - fixed bottom-5 left-5: positions it from the bottom left (away from the chatbot avatar)
+      - transition-all duration-300: smooth animation
+      - Default state (hidden): opacity-0, translate-y-10 (moved down), pointer-events-none (cannot be clicked)
+    -->
+<button
+    id="scrollToTopBtn"
+    class="fixed bottom-5 left-5 bg-brand-dark text-white p-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform translate-y-10 opacity-0 pointer-events-none flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-brand-orange focus:ring-offset-2 z-50 group"
+    aria-label="Scroll to top"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:-translate-y-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+</button>
+
+<footer class="relative z-[5]">
+
+    <!-- Main Footer (video background) -->
+    <div class="relative py-[60px] text-white overflow-hidden">
+        <div class="absolute inset-0 z-[1] overflow-hidden">
+            <video autoplay muted loop playsinline
+                   class="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover">
+                <source src="https://www.kln.gov.my/malawakil/images/Portal-KLN-Design-1.mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0" style="background: linear-gradient(to right, rgba(3,32,84,0.4), rgba(3,32,84,0.6));"></div>
+        </div>
+
+                                <div class="relative z-[3] max-w-[1600px] mx-auto px-5 lg:px-10">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-start">
+
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">Quick links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.miti.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Ministry of Investment, Trade and Industry (MITI)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.imi.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Immigration Department of Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.matrade.gov.my/en"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia External Trade Development Corporation (MATRADE)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.mida.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysian Investment Development Authority (MIDA)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysia.travel"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Tourism Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysiaairlines.com/en/home.html"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia Airlines</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">MFA Links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">MFA Official Portal</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/overseas-missions"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Embassies &amp; High Commissions</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/deputy-foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Deputy Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/secretary-general"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Secretary General</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                            
+                                                                                                        <div class="flex items-center gap-5 mt-2">
+                                            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="h-[70px]">
+                                            <div class="flex flex-col">
+                                                <span class="text-[18px] font-bold leading-[1.4] block">
+                                                                                                            Consulate General of Malaysia,
+                                                                                                        Chennai
+                                                </span>
+                                                <span class="text-[14px] opacity-80 block">Ministry of Foreign Affairs, Malaysia</span>
+                                            </div>
+                                        </div>
+                                                                                                </div>
+                    
+                </div>
+            </div>
+            </div>
+
+    <!-- Sub-footer -->
+    <div class="bg-[#021438] text-[#adb5bd] py-[15px] text-[12px]">
+        <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-col md:flex-row justify-between items-center gap-2 text-center md:text-left">
+            <div>
+                <p class="m-0">Best Viewed: Microsoft Edge, Google Chrome &amp; Mozilla Firefox latest version</p>
+                <p class="m-0">Last Updated: 06 November, 2026</p>
+            </div>
+            <div>
+                <p class="m-0">© 2026 Ministry of Foreign Affairs, Malaysia. All Rights Reserved.</p>
+            </div>
+            <div>
+                <p class="m-0">
+                                                                        <a href="https://www.kln.gov.my/web/ind_chennai/faqs"                                class="text-[#adb5bd] no-underline hover:underline">FAQs</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/ind_chennai/privacy-policy"                                class="text-[#adb5bd] no-underline hover:underline">Privacy Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/ind_chennai/security-policy"                                class="text-[#adb5bd] no-underline hover:underline">Security Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/ind_chennai/site_map"                                class="text-[#adb5bd] no-underline hover:underline">Site Map</a>
+                                                                                        </p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<!-- /PART 6 END -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+        // Listen for scroll events on the window
+        window.addEventListener('scroll', () => {
+            // Show button when page is scrolled down 300px
+            if (window.scrollY > 300) {
+                // Remove hidden state classes
+                scrollToTopBtn.classList.remove('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Add visible state classes
+                scrollToTopBtn.classList.add('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            } else {
+                // Add hidden state classes
+                scrollToTopBtn.classList.add('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Remove visible state classes
+                scrollToTopBtn.classList.remove('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            }
+        });
+
+        // Smooth scroll to top when button is clicked
+        scrollToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+
+<script src="https://www.kln.gov.my/assets/chat-embed/js/chat-embed.js"></script>
+<div
+        x-data="chatEmbed({ storageKey: 'chat-embed-open:ind_chennai' })"
+        x-on:keydown.escape.window="setOpen(false)"
+        class="chat-embed"
+    >
+        <div x-show="open" x-cloak id="chat-embed-frame" class="chat-embed-frame">
+            <template x-if="loaded">
+                <iframe
+                    src="https://www.kln.gov.my/chat?site=ind_chennai"
+                    title="Putra"
+                    
+                    sandbox="allow-scripts allow-forms allow-same-origin allow-top-navigation-by-user-activation"
+                    referrerpolicy="same-origin"
+                    loading="lazy"
+                ></iframe>
+            </template>
+        </div>
+
+                    
+            <button
+                type="button"
+                x-show="! open"
+                x-ref="avatarLauncher"
+                @click="openAndFocus()"
+                aria-expanded="false"
+                aria-controls="chat-embed-frame"
+                aria-label="Ask Putra"
+                class="chat-embed-launcher"
+            >
+                <img src="https://www.kln.gov.my/uploads/chatbot/full-avatar?v=1789465108" alt="Putra" class="chat-embed-avatar">
+            </button>
+
+            <button
+                type="button"
+                x-show="open"
+                x-cloak
+                x-ref="closeLauncher"
+                @click="closeAndFocus()"
+                aria-expanded="true"
+                aria-controls="chat-embed-frame"
+                aria-label="Close"
+                class="chat-embed-close"
+            >
+                                    <img src="https://www.kln.gov.my/uploads/chatbot/avatar?v=1789465108" alt="Close">
+                            </button>
+            </div>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+FULL TEXT EXTRACT (incl. forms; option lists removed) of mdac-register-form.html
+Malaysia Digital Arrival Card - MDAC
+Toggle navigation
+Home
+Registration
+Check Registration
+Check Visit Pass
+Check Egate Eligibility Status
+Malaysia Digital Arrival Card (MDAC)
+Registration
+Personal Information
+* Name :
+* Passport No. :
+* Date of Birth :
+* Nationality / Citizenship :
+* Place of Birth :
+* Sex :
+* Date of Passport Expiry :
+* Email Address :
+* Confirm Email Address :
+* Country / Region Code :
+* Mobile No. :
+Traveling Information
+** Please note that your trip must be within 3 days (including the date of submission)
+* Date of Arrival :
+* Date of Departure :
+* Flight / Vessel / Transportation No. :
+* Mode of Travel :
+* Last Port of Embarkation before Malaysia:

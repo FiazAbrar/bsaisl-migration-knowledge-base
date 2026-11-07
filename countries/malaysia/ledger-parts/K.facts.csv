@@ -1,0 +1,14 @@
+visa_type,field,value,ledger_id
+Citizenship of a child born in Malaysia,eligibility,"Citizen by operation of law only if at least one parent is a Malaysian citizen or permanent resident at the time of birth (or the child is born stateless); a child of two non-citizen, non-PR Bangladeshi parents is not a Malaysian citizen by birth",K0002
+Entry without a valid pass,penalty,"Fine up to RM10,000 or up to 5 years' prison or both, plus up to 6 strokes of whipping (Immigration Act s.6(3))",K0008
+Entry ban (blacklist),legal-basis,Director General may bar entry for a stated period or permanently (Immigration Act s.9(1)(a)); a person whose pass is cancelled is removed and thereafter prohibited from entering (s.9(4)),K0012
+Overstay,penalty,"Fine of not less than RM10,000 or up to 5 years' prison or both (Immigration Act s.15(4))",K0015
+Overstay,removal,Removed (deported) by order of the Director General whether or not prosecuted; no appeal where the pass expired or was cancelled (Immigration Act s.33),K0018
+Unlawful return after removal,penalty,"Fine up to RM10,000 or up to 5 years in prison or both, plus up to 6 strokes of whipping, and removal again (Immigration Act s.36)",K0022
+Employer of a worker without a valid pass,penalty,"Fine RM10,000-50,000 or up to 12 months in prison or both, per worker; more than 5 such workers at once: 6 months-5 years in prison plus up to 6 strokes (Immigration Act s.55B)",K0024
+Breach of pass conditions,legal-effect,The pass ceases to be valid when any of its terms and conditions is contravened (Immigration Act s.55B(2)),K0025
+Forged visa or pass,penalty,"Making/forging/altering a visa, permit or pass: fine RM30,000-100,000 and 5-10 years in prison and up to 6 strokes (s.55D); using or possessing a forged pass, or getting a pass by a false statement: fine up to RM10,000 or up to 5 years (s.56(1)(k),(l))",K0028
+Drug trafficking (Dangerous Drugs Act s.39B),penalty,Death still possible; Act 846 cut minimum whipping (if not sentenced to death) from 15 to 12 strokes and deleted s.39B(2A)-(2B); alternative prison term not stated in Act 846,K0041
+Murder (Penal Code s.302),penalty,"Death or 30-40 years in prison; if not sentenced to death, at least 12 strokes of whipping (as amended by Act 846)",K0043
+Passport withholding,penalty,"Keeping another person's passport without lawful authority: fine up to RM10,000 or up to 5 years in prison or both (Passports Act 1966 s.12(1)(f))",K0045
+Forged passport,penalty,"Forging/using/possessing a forged passport: fine up to RM10,000 or up to 5 years or both (s.12(1)(a)); making a false passport: fine RM15,000-100,000 and 2-10 years and up to 6 strokes (s.12B)",K0048

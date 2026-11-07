@@ -1,0 +1,537 @@
+TEXT COPY of mqa-mqr-search.html (all text incl. tables/options; made with h2t.py)
+
+Search for Qualifications
+ | 
+Header
+ | 
+ | 
+ BAHASA MELAYU 
+| 
+ MQA Portal  
+ | 
+ | 
+ | 
+ | 
+ | 
+ Date : 
+ Time :  
+ | 
+Malaysian Qualifications Register (MQR)
+Information on Accreditation
+Recognition Of Qualification
+Search for Qualifications
+Public/Government Institutions
+University
+Polytechnic
+College/Institution
+Private Institutions
+University
+University College
+College/Institution
+Malaysian Skills Qualifications
+Applications
+Search by Keyword
+Search by Keyword
+Guide
+Search Guide
+Print Guide On Accreditation Status
+Permohonan Pengemaskinian MQR
+Takwim
+Borang L
+ Salinan Cetakan Akreditasi MQA
+Glossary
+ |   
+ | 
+ | 
+ | 
+  Tel No : 03-86881900
+  E-mail : Sistem Pengurusan Pertanyaan & Aduan 
+ |   
+ | 
+ |   
+ | 
+ | 
+ | 
+ |  
+Should you fail to obtain the information for the programme searched at this portal, you may also check the programme through the portal on the Provisional Accreditation http://www2.mqa.gov.my/pasp for the status of Provisional Accreditation. 
+ Search result that shows 'No such record of the information in the database' is likely due to one of the following reasons: 
+ (a) Programme has obtained Provisional Accreditation, however has yet to reach the level of maturity for the Higher Education Provider (HEP) to apply for Full Accreditation; or
+ (b) HEP did not apply for Provisional Accreditation and/or Full Accreditation; or 
+ (c) Programme was conducted before 1997; or 
+ (d) Programme failed to achieve Full Accreditation.
+ONLY ACCREDITED PROGRAMMES offered by the Higher Education Provider (HEP) in Malaysia are listed in the MQR and it DOES NOT INCLUDE the offshore deliveries unless stated otherwise.
+For dual awards, ONLY THE ACCREDITED QUALIFICATIONS AWARDED BY THE HEP IN MALAYSIA are listed in the MQR. The award conferred by the partner institution will neither be evaluated nor registered in the MQR.
+Accreditation is granted BASED ON THE LOCATION where the programme is conducted by the HEP unless stated otherwise. Programmes conducted at other locations that are not specified in the MQR are therefore NOT ACCREDITED.
+Effective from January 1, 2017, the Government recognition for the purpose of appointment into the public service sector is under the purview of MQA. [Prior to that date, it is under the purview of The Permanent Committee on Assessment and Recognition of Qualifications (JTPPK), Ministry of Higher Education]. 
+To check on the status of Government recognition for the purpose of appointments into the public service sector before January 1, 2017, please refer to the Civil Service Qualification Recognition System (esisraf) http://www2.mqa.gov.my/esisraf. 
+To check on the status of Government recognition for the purpose of appointment into the public service sector starting from January 1, 2017, please refer to this portal on the status information of programs under the statement of 'Equivalency for Public Services'. 
+ACCREDITATION STATUS OF MALAYSIA PUBLIC UNIVERSITIES' POSTGRADUATE PROGRAMMES PRIOR TO 2013. 
+We wish to inform that Malaysian Qualifications Register (MQR) gradually registering the accreditation status of Malaysian Public Universities postgraduate programmes (Master’s Degree, Level 7 and Doctorate Degree, Level 8 of the Malaysian Qualifications Framework, MQF) starting from 2013. This is largely due to the audit exercise on those postgraduate programmes undertaken by MQA in 2013.
+Prior to the registration, the programmes were conducted based on the existing rules and regulations applicable at that time as stipulated by the Ministry of Higher Education. As such, they are deemed to have satisfied all the requirements pertaining to the quality and standards recognized by the government.
+ | 
+  Guide
+ |  
+ | 
+Search can be done using a keyword or a combination of keywords
+ Example of search : Diploma in Computer Science program
+ (1) Type Computer Science in the Name of Qualification column
+ (2) Choose Diploma at Type of Qualification column
+ (3) Click on Search button
+ | 
+ | 
+  Versi Bahasa Melayu
+ | 
+ Searching by keyword 
+ :-
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+Reference Number
+ | : 
+ | 
+Part of Programme Code
+Programme Code
+ | 
+(e.g : A1234 
+ ; AA1234 ; MQA/FA1234 ; TVET/QF1462)
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Name of Qualification
+ | 
+ : 
+ | 
+Part of Qualification Name
+Name of Qualification
+ | 
+ | 
+ | 
+ | 
+ | 
+ Name of the Institution
+ | 
+ : 
+ | 
+Part of Institution Name
+Name of the Institution
+ | 
+ | 
+ | 
+ | 
+ | 
+ NEC Field (National Education Code) 
+ | 
+ : 
+ | 
+- All NEC Field (National Education Code) -
+0000 (Generic programmes and qualifications not further defined)
+0011 (Basic programmes and qualifications)
+0021 (Literacy and numeracy)
+0031 (Personal skills)
+0099 (Generic programmes and qualifications not elsewhere classified)
+010 (Basic / broad, general programmes)
+0110 (Education not further defined)
+0111 (Education science)
+0112 (Training for pre-school teachers)
+0113 (Educator training without subject specialization)
+0114 (Educator training with subject specialisation )
+0119 (Programmes and qualifications involving education not elsewhere classified)
+0188 (Inter-disciplinary programmes and qualifications involving education)
+0200 (Arts and humanities not further defined)
+0210 (Arts not further defined)
+0211 (Audio-visual techniques and media production)
+0212 (Fashion, interior and industrial design)
+0213 (Fine arts)
+0214 (Craft skills)
+0215 (Music and performing arts)
+0216 (Film, Television and Screen Studies)
+0219 ( Arts not elsewhere classified)
+0220 (Humanities (except languages) not further defined)
+0221 (Religion and theology )
+0222 (History and archaeology )
+0223 (Philosophy and ethics)
+0224 (Islamic studies)
+0229 (Humanities (except languages) not elsewhere classified)
+0230 (Languages not further defined)
+0231 (Language acquisition )
+0232 (Literature and linguistics)
+0233 (National Language )
+0239 (Languages not elsewhere classified)
+0288 (Inter-disciplinary programmes and qualifications involving arts and humanities )
+0299 (Arts and humanities not elsewhere classified)
+0300 (Social sciences, journalism and information not further defined)
+0310 (Social and behavioural sciences not further defined)
+0311 (Economics )
+0312 (Political sciences and public policy)
+0313 (Psychology )
+0314 (Sociology and cultural studies )
+0319 ( Social and behavioural sciences not elsewhere classified)
+0320 (Journalism, information and communication not further defined)
+0321 (Journalism and reporting )
+0322 (Library, information and archival studies )
+0323 (Media and communications)
+0329 (Journalism, information and communication not elsewhere classified)
+0388 (Inter-disciplinary programmes and qualifications involving social sciences, journalism and information)
+0399 (Social sciences, journalism and information not elsewhere classified)
+0400 (Business, administration and law not further defined)
+0410 (Business and administration not further defined)
+0411 (Accounting, auditing and taxation)
+0412 (Finance, banking and insurance )
+0413 (Islamic banking and finance )
+0414 (Management and administration )
+0415 (Marketing and advertising )
+0416 (Secretarial and office studies)
+0417 (Work skills)
+0419 (Business and administration not elsewhere classified)
+0421 (Law)
+0488 (Inter-disciplinary programmes and qualifications involving business, administration and law)
+0499 (Business, administration and law not elsewhere classified)
+0500 (Natural sciences, mathematics and statistics not further defined)
+0510 ( Biological and related sciences not further defined)
+0511 (Biology )
+0512 (Biochemistry)
+0519 (Biological and related sciences not elsewhere classified)
+0520 (Environment not further defined)
+0521 (Environmental sciences )
+0522 (Natural environments and wildlife )
+0529 (Environment not elsewhere classified)
+0530 (Physical sciences not further defined)
+0531 (Chemistry)
+0532 (Earth sciences)
+0533 (Physics)
+0539 (Physical sciences not elsewhere classified)
+0540 (Mathematics and statistics not further defined)
+0541 (Mathematics)
+0542 (Statistics )
+0588 (Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics)
+0599 (Natural sciences, mathematics and statistics not elsewhere classified)
+0610 (Information and communication technologies (ICTs) not further defined)
+0611 (Information technology and information system)
+0612 (Software engineering)
+0613 (Computer Science)
+0614 (Computer Use)
+0619 (Information and Communication Technologies (ICTs) not elsewhere classified)
+0688 (Inter-disciplinary programmes and qualifications involving information and communication technologies)
+0700 (Engineering, manufacturing and construction not further defined)
+0710 (Engineering and engineering trades not further defined)
+0711 (Chemical engineering and processes)
+0712 (Electricity and energy)
+0713 (Electronics and automation )
+0714 (Mechanics and metal trades )
+0715 (Motor vehicles, ships and aircraft )
+0716 (Civil engineering)
+0717 (Environmental protection technology)
+0719 (Engineering and engineering trades not elsewhere classified )
+0720 (Manufacturing and processing not further defined)
+0721 (Food processing )
+0722 (Materials (glass, paper, plastic and wood))
+0723 (Textiles (clothes, footwear and leather))
+0724 (Mining and extraction)
+0729 (Manufacturing and processing not elsewhere classified)
+0730 (Architecture, surveying and town planning not further defined)
+0731 (Architecture)
+0732 (Urban and Regional Planning)
+0733 (Building and Construction)
+0734 (Surveying)
+0741 (Engineering technology )
+0788 (Inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction)
+0799 (Engineering, manufacturing and construction not elsewhere classified)
+0800 (Agriculture, forestry, fisheries and veterinary not further defined)
+0810 (Agriculture not further defined)
+0811 (Crop and livestock production)
+0812 (Horticulture)
+0819 (Agriculture not elsewhere classified)
+0821 (Forestry)
+0831 (Fisheries)
+0841 (Veterinary)
+0888 (Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary)
+0899 (Agriculture, forestry, fisheries and veterinary not elsewhere classified)
+0900 (Health and welfare not further defined)
+0910 (Health not further defined)
+0911 (Dental studies)
+0912 (Medicine)
+0913 (Nursing, midwifery and medical assistance)
+0914 (Medical diagnostic and treatment technology )
+0915 (Therapy and rehabilitation )
+0916 (Pharmacy)
+0917 (Traditional and complementary medicine and therapy)
+0919 (Health not elsewhere classified)
+0920 (Welfare not further defined)
+0921 (Care of elderly and of disabled adults)
+0922 (Child care and youth services )
+0923 (Social work and counselling )
+0929 (Welfare not elsewhere classified)
+0988 (Inter-disciplinary programmes and qualifications involving health and welfare)
+0999 (Health and welfare not elsewhere classified)
+1000 (Services not further defined)
+1010 (Personal services not further defined)
+1011 (Domestic services )
+1012 (Hair and beauty services )
+1013 (Hotel, restaurants and catering )
+1014 (Sports )
+1015 (Travel, tourism and leisure)
+1019 (Personal services not elsewhere classified)
+1020 (Hygiene and occupational health services not further defined)
+1021 (Community sanitation )
+1022 (Occupational health and safety)
+1029 (Hygiene and occupational health services not elsewhere classified)
+1030 (Security services not further defined)
+1031 (Military and defence )
+1032 (Protection of persons and property )
+1039 (Security services not elsewhere classified)
+1041 (Transport services )
+1088 (Inter-disciplinary programmes and qualifications involving services )
+1099 (Services not elsewhere classified)
+140 (Teacher training and education science (Broad progammes))
+141 (Teaching and Training)
+142 (Education science)
+143 (Training for preschool teachers)
+144 (Training for teachers at basic levels)
+145 (Training for teachers with subject specialisation)
+146 (Training for teachers of vocational subjects)
+210 (Arts (broad programmes))
+211 (Fine Arts)
+212 (Music and Performing Arts)
+213 (Audio-visual techniques and media production)
+214 (Design)
+215 (Craft Skills)
+220 (Humanities (broad programmes))
+221 (Religion)
+222 (Languages)
+223 (National Language)
+224 (Other Languages)
+225 (History and Archaelogy)
+226 (Philosophy and Ethics)
+227 (History, philosophy and related subjects)
+310 (Social and Behavioural Science)
+311 (Psychology)
+312 (Sociology and Cultural Studies)
+313 (Political science and civics)
+314 (Economics)
+321 (Journalism and reporting)
+322 (Library, information, archive)
+340 (Business and Administration)
+341 (Wholesale and retail sales)
+342 (Marketing and Advertising)
+343 (Finance, banking, insurance)
+344 (Accounting and Taxation)
+345 (Management and Administration)
+346 (Secretarial and office work)
+347 (Working Life)
+380 (Law)
+381 (Syariah Law)
+421 (Biology and biochemistry)
+422 (Environmental Science)
+440 (Physical Science (broad programmes))
+441 (Physics)
+442 (Chemistry)
+443 (Earth Science)
+461 (Mathematics)
+462 (Statistics)
+481 (Computer Science)
+482 (Computer Use)
+520 (Engineering and engineering trades (broad programmes))
+521 (Mechanics and Metal Work)
+522 (Electricity and Energy)
+523 (Electronics and Automation)
+524 (Chemical and Process)
+525 (Motor vehicles, ships and aircraft)
+526 (Civil Engineering)
+527 (Material Engineering)
+540 (Manufacturing and processing (broad programmes))
+541 (Food Processing)
+542 (Textiles, clothes, footwear and leather)
+543 (Materials (wood, paper, plastic and glass))
+544 (Mining and extraction)
+545 (Applied science)
+580 (Architecture and building)
+581 (Architecture and town planning)
+582 (Building)
+620 (Agriculture, forestry and fishery (broad programmes))
+621 (Crop and livestock production)
+622 (Horticulture)
+623 (Forestry)
+624 (Fisheries)
+640 (Veterinary)
+720 (Health (broad programmes))
+721 (Medicine)
+722 (Medical Services)
+723 (Nursing and caring)
+724 (Dental Studies)
+725 (Medical diagnostic and treatment technology)
+726 (Therapy and rehabilitation)
+727 (Pharmacy)
+761 (Child care and youth services)
+762 (Social work and counselling)
+80 (Literacy and Numeracy)
+810 (Personal services (broad programmes))
+811 (Hotel, restaurant and catering)
+812 (Travel, tourism and leisure)
+813 (Sports)
+814 (Domestic Services)
+815 (Hair and beauty services)
+840 (Transport services)
+850 (Environmental protection (broad programmes))
+851 (Environmental protection technology)
+852 (Natural environments and wildlife)
+853 (Community sanitation services)
+860 (Security services (broad programmes))
+861 (Protection of persons and property)
+862 (Occupational health and safety)
+863 (Military and defence)
+90 (Personal Skills)
+900 (Engineering Technology)
+9999 (Field unknown)
+ | 
+ | 
+ | 
+ | 
+ Mode of Delivery 
+ | 
+ : 
+ | 
+Conventional
+Open and Distance Learning
+- All Modes -  
+ | 
+ | 
+ | 
+ | 
+ Mode of Study 
+ | 
+ : 
+ | 
+Full Time
+Part Time
+Full Time and Part Time
+- All Modes -  
+ | 
+ | 
+ | 
+ | 
+Type of Qualification
+ | 
+ : 
+ | 
+American Degree Transfer Program (ADTP)
+Degree Transfer Programme (DTP)
+Foundation Programme
+Masters Degree
+Doctoral Degree
+Post Basic Nursing
+A-Level
+Pre-Diploma
+Certificate
+Certificate
+-
+Certificate
+Diploma
+Advanced Diploma
+Graduate Certificate
+Graduate Diploma
+Bachelors Degree
+Postgraduate Certificate
+Postgraduate Diploma
+- All Types - 
+ | 
+ | 
+ | 
+ | 
+Level of Qualification 
+ | 
+ : 
+ | 
+-
+1
+2
+3
+4
+5
+6
+7
+8
+This qualification enable students to progress to higher level.
+- All Levels - 
+ | 
+ | 
+ | 
+ | 
+ Location 
+ | 
+ : 
+ | 
+Perlis
+Pahang
+Terengganu
+Kelantan
+Sabah
+Sarawak
+WP Labuan
+Wilayah Persekutuan Putrajaya
+Oversea
+Others
+United Kingdom
+Kedah
+India
+Penang
+Perak
+Selangor
+Negeri Sembilan
+Wilayah Persekutuan Kuala Lumpur
+Malacca
+Johor
+- All States - 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ |  
+ |  
+ | 
+ |  
+ | 
+ |  
+footer
+ | 
+ | 
+ DISCLAIMER: The Malaysian Government and 
+ the Malaysian Qualifications Agency shall not be liable for any loss or 
+ damage howsoever arising from the use of any information contained herein.  
+ | 
+ Best viewed with Mozilla Firefox with 1024x768 pixel resolution.
+ All rights reserved © 2009 - Malaysian 
+ Qualifications Register, MQA - 
+ | 

@@ -1,0 +1,36 @@
+#### MALAYSIA HEALTHCARE DEEPENS BANGLADESH PRESENCE AS MEDICAL TOURISM DEMAND GROWS
+
+Monday 21/09/2026
+
+\
+**CHATTOGRAM, Sept 21 (Bernama) -- **Malaysia Healthcare Travel Council (MHTC) deepened its engagement in Bangladesh through Malaysia Healthcare Week in Bangladesh, held from 16 to 21 September, bringing Malaysian hospitals and healthcare stakeholders together across Dhaka and Chattogram as demand for healthcare travel from Bangladesh continues to grow. The programme marked MHTC’s expansion beyond Dhaka to Chattogram, where it conducted its first Malaysia Healthcare activation in the city.\
+\
+Malaysia Healthcare’s engagement with the Bangladesh market has gained strong momentum in recent years. In 2025, close to 70,000 Bangladeshi healthcare travellers visited Malaysia, generating approximately RM50 million in healthcare travel revenue, a 24% increase from the previous year. The continued growth reinforces the importance of strengthening the professional networks, referral pathways and corporate relationships that connect Bangladeshi patients with healthcare providers in Malaysia.\
+\
+The programme was structured across two cities, with Dhaka serving as the main platform for corporate and consumer engagement, while Chattogram extended Malaysia Healthcare’s reach to healthcare professionals, media and corporate stakeholders in a new market area. The Dhaka programme began with a corporate networking dinner on 16 September, held in conjunction with Malaysia Day and in collaboration with the High Commission of Malaysia in Bangladesh, connecting participating Malaysian hospitals with corporate stakeholders, healthcare referral agencies and industry representatives. From 17 to 19 September, the hospitals continued their engagement with the public and industry stakeholders at the 13th Asian Tourism Fair at the International Convention City Bashundhara (ICCB) in Dhaka, showcasing their medical specialities and services.\
+\
+The programme then moved to Chattogram on 20 September, marking Malaysia Healthcare’s first activation in the city. The two-day engagement opened with a media session and networking dinner, followed on 21 September by a luncheon with doctors and healthcare professionals, and a corporate networking dinner with the PHP Family. MHTC CEO Dato' Suriaghandi Suppiah said: “The growth of healthcare travel from Bangladesh shows that patients are increasingly looking beyond their home country when they require specialised treatment. Our role is to build the connections that make that journey more informed and coordinated, from the referring doctor and healthcare professional to the hospital and corporate network. By engaging both Dhaka and Chattogram, we strengthened our understanding of the market while making Malaysia Healthcare more accessible to patients who are considering treatment in Malaysia.”\
+\
+Five Malaysian hospitals took part. Alpha IVF, IHH Healthcare, KL Fertility and Sunway Medical Centre joined the programme in both cities, while KPJ Ampang Puteri Specialist took part in Dhaka.\
+\
+Malaysia Healthcare Week in Bangladesh was part of Malaysia Year of Medical Tourism 2026 (MYMT 2026), themed Healing Meets Hospitality, which brings together Malaysia’s healthcare expertise and patient experience to reinforce its positioning as a preferred healthcare destination. The Bangladesh programme reflected this approach by combining clinical engagement with the professional relationships and support networks that shape the healthcare traveller’s journey.\
+\
+Photo link:\
+[https://drive.google.com/drive/folders/10AzLpq9bue6XIhyX-d36lQsp4iuq-lw5?usp=drive_link](https://drive.google.com/drive/folders/10AzLpq9bue6XIhyX-d36lQsp4iuq-lw5?usp=drive_link)\
+\
+**SOURCE: Malaysia Healthcare Travel Council (MHTC)\
+ \
+FOR MORE INFORMATION, PLEASE CONTACT:\
+Name: Muhammad Rasydan Ma’at\
+Head of Unit, Communications\
+Tel: +603 8776 6168\
+Email: <rasydan.m@mhtc.org.my> \
+ \
+Name: Mohamad Shahizam Fauzi\
+Head, Communications\
+Tel: +603 8776 6168\
+Email: <shahizam.f@mhtc.org.my>  \
+\
+--BERNAMA**
+
+[![](assets/img/gallery/MyASEAN2025-Logo-Color-ENG.jpg)](https://myasean2025.my/)

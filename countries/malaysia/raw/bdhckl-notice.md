@@ -1,0 +1,1 @@
+[![](https://www.bdhckl.gov.bd/wp-content/uploads/2022/07/Screenshot_2.jpg)](https://www.bdhckl.gov.bd/notice/screenshot_2-2/)[![](https://www.bdhckl.gov.bd/wp-content/uploads/2021/07/Passport-scaled.jpg)](https://www.bdhckl.gov.bd/notice/passport-3/)[![](https://www.bdhckl.gov.bd/wp-content/uploads/2020/10/Reissue-Notice.jpg)](https://www.bdhckl.gov.bd/notice/reissue-notice/)

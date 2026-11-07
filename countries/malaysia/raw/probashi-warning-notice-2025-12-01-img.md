@@ -1,0 +1,1 @@
+IMAGE FILE, NO TEXT LAYER. The source is the image probashi-warning-notice-2025-12-01-img.jpg (also saved as probashi-warning-notice-2025-12-01-img.html, the original download). Quotes for this source were transcribed from the image and are recorded in the ledger rows that cite it (status note: --no-quote-check).

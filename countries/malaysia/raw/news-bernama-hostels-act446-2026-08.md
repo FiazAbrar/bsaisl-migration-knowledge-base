@@ -1,0 +1,365 @@
+PAGE META: article:published_time: 27/08/2026 02:40 PM \| article:modified_time: 27/08/2026 02:40 PM
+
+[BERNAMA.com](https://bernama.com/bm/index.php)
+
+\|
+
+[BERNAMA TV](https://bernama.com/tv/index.php)
+
+\|
+
+[BERNAMA Radio](https://bernama.com/radio/index.php)
+
+\|
+
+[BERNAMA Images](https://images.bernama.com)
+
+\|
+
+[BLIS](https://blis.bernama.com)
+
+\|
+
+[NewsLink5](http://newslink5.bernama.com)
+
+[](https://www.facebook.com/bernamaofficial/)
+
+[](https://twitter.com/bernamadotcom)
+
+[](https://www.instagram.com/bernamaofficial/)
+
+[](https://www.youtube.com/channel/UCSNmIInJrvJlCI6OempnYrg/)
+
+[](https://www.tiktok.com/@bernamaofficial)
+
+![BERNAMA](https://bernama.com/en/assets/img/bernama.png)
+
+[English](https://bernama.com/en/index.php)
+
+[Malay](https://bernama.com/bm/index.php)
+
+[中文](https://bernama.com/man/index.php)
+
+[Arabic](https://bernama.com/ar/index.php)
+
+[Español](https://bernama.com/es/index.php)
+
+[தமிழ்](https://bernama.com/tam/index.php)
+
+ FEATURES
+
+# Cramped 'Hostels' A Reality For Foreign Workers
+
+27/08/2026 02:40 PM
+
+The situation inside a foreign worker's home during a raid in Larkin, Johor
+
+Among the apartment units that have been renovated to create more rooms to accommodate more tenants
+
+MSOSH president, Datuk Ahmad Fakhrul Anuar Ismail
+
+Among the rental rooms that do not comply with Act 446, during a raid by the Labour Department in an apartment that was used for foreign workers in Jalan Maluri
+
+Perumahan Awam Seri Sarawak at Jalan Hang Tuah here, which is a public housing scheme under Kuala Lumpur City Hall (DBKL)
+
+Perumahan Awam Seri Sarawak Association chairman, Azmi Zakaria (Pix by SOON LI WEI)
+
+National House Rental Association president, Prakash P. Kalivanan (Pix credit to Prakash P. Kalivanan)
+
+Sumitha Shaanthinni Kishna, director and founder of migrant rights NGO Our Journey (Pix credit: Sumitha Shaanthinni Kishna)
+
+[](#topstory) [](#topstory)
+
+![](https://web14.bernama.com//storage/authors//2d228774e6232af8e3e061eb9ed623e96a8fc9b3b0b09)
+
+**From Soon Li Wei & Wan Muhammad Aslah Wan Razali**
+
+D***espite the enforcement of amendments to the Employees’ Minimum Standards of Housing, Accommodation and Amenities Act 1990 since September 2020, many employers continue to house their foreign workers in “hostels” that do not comply with the stipulated requirements.***
+
+***The first article in this two-part series provides an overview of the issue.***
+
+ 
+
+For four years, Fatin, an Indonesian national who worked in a factory in Penang 12 years ago, endured the discomfort of living with eight other fellow Indonesians in a cramped terrace house that had been converted into a workers’ “hostel” by her employer.
+
+The 30-year-old woman, who is now a homemaker and resides in Setiawangsa here, said they slept on bunk beds and shared two bathrooms, while the employer did not provide kitchen facilities, leaving them unable to cook at home.
+
+“We were able to cope with the living conditions because we worked different shifts, so it was rare for all of us to be at home at the same time. However, problems arose when some of the occupants secretly brought their family members home to sleep in the living room.
+
+“At those times, the house became really crowded, especially when we were getting ready for work or trying to rest after a tiring day. It was certainly uncomfortable,” she told Bernama.
+
+\
+
+The situation inside a foreign worker's home during a raid in Larkin, Johor
+
+Fatin’s case is not an isolated one. News reports estimated Malaysia’s migrant workforce at 2.14 million as of August 2025, with many workers living in cramped conditions in flats or houses rented by their employers.
+
+Recognising the problems surrounding workers’ accommodation, the government subsequently amended the Employees’ Minimum Standards of Housing, Accommodations and Amenities Act 1990 (Act 446) to require employers to provide accommodation that meets prescribed standards and offers a safe, clean and conducive living environment.
+
+The amendments were enforced in stages, beginning Sept 1, 2020, in Peninsular Malaysia and Labuan, before being gazetted under the Emergency Ordinance on Feb 25, 2021, to extend enforcement to Sabah and Sarawak.
+
+Six years after the amended provisions came into full force, some workers still do not have access to basic accommodation facilities. Diwarq, a Nepalese national who has been working as a security guard at a condominium in Subang, Selangor, for the past three years, lives in a low-cost flat near his workplace provided by his employer. He shares the unit with six of his fellow Nepalese security guards.
+
+“I don’t mind where I stay as long as I have somewhere to sleep and shower; that is enough,” Diwarq (not his real name) told Bernama.
+
+“We are provided with free accommodation and a monthly food allowance of RM800 because there are no kitchen facilities in the house. Even on our days off, we usually go out and rarely stay home because each of us is only provided with a bed. We return to the house mainly to sleep and rest.”
+
+\
+
+Among the apartment units that have been renovated to create more rooms to accommodate more tenants
+
+**BASIC FACILITIES**
+
+Foreign workers are usually housed in low-cost flats, shop lots and terrace houses, but, more recently, medium-cost apartments are also being used as workers’ hostels.
+
+Despite the enforcement of amendments to Act 446, some employers continue to rent vacant residential units, leaving workers to obtain their own beds and kitchen equipment.
+
+Malaysian Society for Occupational Safety and Health president Datuk Ahmad Fakhrul Anuar Ismail said accommodation conditions are closely linked to workers’ safety, health and welfare.
+
+He said an employer’s responsibility towards workers should not end when they return home after work, more so when the accommodation is provided by the employer as it serves as a place for them to rest and recuperate before returning to work the following day.
+
+“Employers must ensure that workers remain safe not only at the workplace but also when they return to their accommodation,” he told Bernama.
+
+\
+
+MSOSH president, Datuk Ahmad Fakhrul Anuar Ismail
+
+He said this underscored the importance of minimum standards for workers’ accommodation as stipulated under Act 446.
+
+The Act, enforced by the Department of Labour of Peninsular Malaysia, provides for penalties of up to RM50,000 for each offence against employers or operators of workers’ hostels found to be in breach of its requirements.
+
+Ahmad Fakhrul said the detailed standards were important as the quality of accommodation has a direct impact on workers’ ability to rest and their overall health.
+
+“As stipulated (under the Act), apart from basic facilities such as beds, toilets and kitchens, even mattress thickness is taken into consideration, with a minimum thickness of four inches (10.2 cm). Each bed must also occupy a minimum space of 1.7 square metres, while adequate electricity and water supplies must be provided.
+
+“The building structure must also meet fire safety requirements and have proper ventilation. When workers are healthy and able to sleep comfortably, this directly contributes to higher productivity.
+
+“Therefore, providing proper facilities should not be viewed as an additional cost or burden to employers, but rather as an investment in their workforce,” he said.
+
+\
+
+Among the rental rooms that do not comply with Act 446, during a raid by the Labour Department in an apartment that was used for foreign workers in Jalan Maluri
+
+ 
+
+**FLATS, APARTMENTS TURNED INTO HOSTELS** 
+
+Flats, particularly the older ones, built under the federal government’s People’s Housing Programme (PPR) have been among the types of accommodation used by employers in an attempt to comply with the requirements under Act 446.
+
+An older PPR unit, usually measuring about 600 to 700 square feet and intended to accommodate a maximum of five people, may instead be crammed with between eight and 10 workers.
+
+The presence of large numbers of migrant workers in some PPR schemes has also created other problems for residents, most of whom are Malaysians from the B40 group.
+
+\
+
+Perumahan Awam Seri Sarawak at Jalan Hang Tuah here, which is a public housing scheme under Kuala Lumpur City Hall (DBKL)
+
+“Many migrant workers live in some of these units,” said PA Seri Sarawak Association chairman Azmi Zakaria when met by Bernama. (PA Seri Sarawak is a high-rise public housing scheme in Kuala Lumpur.)
+
+“In our public housing scheme, it led to various social problems (and incidents) such as smashed car windows and theft, and a lack of cleanliness.”
+
+\
+
+Perumahan Awam Seri Sarawak Association chairman, Azmi Zakaria (Pix by SOON LI WEI)
+
+He said the problems were particularly widespread before the COVID-19 pandemic but were brought under control after the association lodged complaints with Kuala Lumpur City Hall (DBKL).
+
+“The issue was that the units were being rented out by the original owners or tenants. So, when we lodged complaints with DBKL, the migrant workers were evicted and the units were repossessed (by the government),” he said.
+
+Firm action by local authorities, including repossessing the units or terminating tenancy agreements when occupants are found to have sublet them to third parties, has helped reduce the concentration of migrant workers in most PPR and public housing schemes.
+
+ 
+
+**RESIDENTIAL TENANCY ACT**
+
+Although the number of PPR units rented out to foreign workers has declined in recent years, National House Rental Association president Prakash P. Kalivanan said he did not rule out the possibility that some PPR units and low-cost flats are still being used as hostels for foreign workers.
+
+He said some owners have partitioned their units into smaller spaces to accommodate more than 10 people. These units are then rented out to employers, allowing the landlords to reap easy profits.
+
+According to Prakash, the situation can be largely attributed to the lack of specific legislation governing residential rentals, resulting in widespread misuse of rental properties, including their conversion into shared accommodation or even premises for criminal activities.
+
+pic-8
+
+He also said there were cases where original tenants had sublet or converted the premises without the owners’ knowledge, particularly when they engage agents to manage the rental arrangements.
+
+“This situation exposes homeowners to the risk of legal action even though they may be unaware of the activities being carried out by their tenants,” he said.
+
+Prakash also urged the government to expedite the drafting and implementation of the Residential Tenancy Act (RTA) to safeguard the rights and interests of both homeowners and tenants.
+
+“At present, the measures in place are limited to tenancy agreements as well as regular or surprise inspections by property owners. However, these measures are still insufficient to address the misuse of rental premises,” he said, adding that the proposed Act should provide for an official registration platform for landlords and tenants to strengthen monitoring and accountability on both sides and prevent units from being converted into shared accommodation or workers’ hostels without permission.
+
+On Aug 4, Deputy Housing and Local Government Minister Datuk Aiman Athirah Sabu said during a question-and-answer session in the Dewan Negara that the Residential Tenancy Bill is currently being finalised.
+
+ 
+
+**IMPROVE ENFORCEMENT**
+
+Meanwhile, migrant rights non-governmental organisation Asylum Access Malaysia’s director of operations Sivaranjani Manickam said PPR and apartment units should not be allowed to turn into *rumah kongsi* (shared housing) for foreign workers.
+
+She said it is clearly stated in Act 446 that employers must provide proper accommodation to their workers, but questions remain over whether employers and accommodation providers are being monitored closely enough.
+
+“We are very suspicious about the extent to which employers are following the law because (currently) the (housing) conditions (for migrant workers) are still bad. The existence of overcrowding and poorly maintained accommodation indicates that some employers and housing providers are not being monitored effectively.
+
+“If this is still happening, it means enforcement has to be improved,” she said. 
+
+Sumitha Shaanthinni Kishna, director and founder of migrant rights NGO Our Journey, acknowledged that stronger enforcement and the development of more employer-provided and centralised accommodations have led to a reduction in the number of migrant workers living in PPR flats.
+
+pic-9
+
+“There could be cases where the (PPR) owner rents a unit to a local tenant, who then sublets it to foreign workers without the owner’s knowledge. Hence, enforcement must also cover those who rent the unit from the owner and then sublet it to others,” she told Bernama in a Zoom interview.
+
+ 
+
+*The project received support from the Thomson Reuters Foundation as part of its global work aiming to strengthen free, fair and informed societies. The content of this article belongs solely to the author and is not endorsed by or associated with the Thomson Reuters Foundation, Thomson Reuters, Reuters, nor any other affiliates.*\
+ 
+
+Your browser does not support the video tag.
+
+------------------------------------------------------------------------
+
+BERNAMA provides up-to-date authentic and comprehensive news and information which are disseminated via BERNAMA Wires; www.bernama.com; BERNAMA TV on Astro 502, unifi TV 631 and MYTV 121 channels and BERNAMA Radio on FM93.9 (Klang Valley), FM107.5 (Johor Bahru), FM107.9 (Kota Kinabalu) and FM100.9 (Kuching) frequencies.\
+\
+Follow us on social media :\
+Facebook : @bernamaofficial, @bernamatv, @bernamaradio\
+Twitter : @bernama.com, @BernamaTV, @bernamaradio\
+Instagram : @bernamaofficial, @bernamatvofficial, @bernamaradioofficial\
+TikTok : @bernamaofficial\
+
+ KEYWORDS
+
+[ministry of housing and local government](search.php?cat1=all&terms=ministry+of+housing+and+local+government&submit=cari)[ppr](search.php?cat1=all&terms=ppr&submit=cari)[foreign workers](search.php?cat1=all&terms=foreign+workers&submit=cari)[act 446](search.php?cat1=all&terms=act+446&submit=cari)[hostel](search.php?cat1=all&terms=hostel&submit=cari)[social](search.php?cat1=all&terms=social&submit=cari)
+
+ RELATED NEWS
+
+###### [KBS Grants Conditional Approval For HYROX Kuala Lumpur 2026](news.php?id=2630918)
+
+9h ago
+
+###### [KKDW Diverts RM200 Mln From Rural Housing Programme To Settle Rural Road Arrears](news.php?id=2630692)
+
+1d ago
+
+###### [Western Fleet CIMIC 2026 Collects 2.55 Tonnes Of Waste In Pulau Pangkor](news.php?id=2629603)
+
+3d ago
+
+ MORE NEWS
+
+###### [Bank Rakyat Website Experiences Temporary Disruption](general/news.php?id=2631181)
+
+45m ago
+
+###### [Agricultural Modernisation Key To Strengthening Food Security – Mohamad](general/news.php?id=2631180)
+
+45m ago
+
+###### [Nation Needs Proactive Approach To Counter Cyber Threats - Anwar](general/news.php?id=2631177)
+
+57m ago
+
+#### ![](https://bernama.com/en/assets/img/kerjaya.png)
+
+BERNAMA, Pertubuhan Berita Nasional Malaysia merupakan Peneraju dalam perkhidmatan berita dan maklumat mempelawa calon warganegara Malaysia yang layak untuk menyertai kami :
+
+Sila layari portal kerjaya BERNAMA di <https://kerjaya.bernama.com> untuk maklumat lanjut. Permohonan hendaklah dibuat secara atas talian melalui portal kerjaya BERNAMA.
+
+BERNAMA has never appointed any agent or individual for the purpose of recruiting its staff.       
+
+#### Maklum Balas Pelanggan 2025
+
+Para Pelanggan Yang Dihormati,
+
+Dimaklumkan bahawa soal selidik ini bertujuan untuk mendapatkan maklum balas pelanggan berhubung tahap pengamalan nilai-nilai murni di jabatan/agensi Kerajaan yang memberikan perkhidmatan kepada tuan/puan.
+
+Berdasarkan pengalaman atau pemerhatian semasa berurusan dengan BERNAMA, sila beri maklum balas kepada pernyataan-pernyataan yang berikut dalam konteks semasa. Kami menghargai maklum balas yang jujur dan rasional daripada anda.
+
+Maklum balas yang diberikan adalah SULIT.
+
+Terima kasih kerana sudi meluangkan masa untuk mengisi soal selidik ini.
+
+![](https://bernama.com/en/assets/img/popup.jpeg)
+
+Sila klik pautan berikut:
+
+<https://insan.jpa.gov.my/survey/agency/f90b1f53-f177-4760-82c7-f5f9d30200c6>
+
+#### ![](https://bernama.com/en/assets/img/bnr-hubungi-kami.jpg)
+
+|                   |                                 |
+|-------------------|---------------------------------|
+|  General Line     | +603 2631 1000 / +603 2693 9933 |
+|  Bernama.com      | +601 6415 2766                  |
+|  Wires            | +603 2631 1535 / 1252           |
+|  Digital Services | +603 2631 1112                  |
+|  PR/MREM Services | +603 2631 1123                  |
+|  Subscription     | +603 2631 1510                  |
+|  Bernama TV       | +603 2631 1635                  |
+|  Bernama Radio    | +603 2692 9739                  |
+
+![](https://bernama.com/en/assets/img/fotoBERNAMA-eng.png)
+
+![](https://bernama.com/en/assets/img/bernama.png)
+
+###### Malaysian National News Agency
+
+Wisma BERNAMA\
+No.28 Jalan BERNAMA\
+Off Jalan Tun Razak\
+50400 Kuala Lumpur\
+Malaysia
+
+ [\[click here\]](#)\
+ helpdesk\[at\]bernama.com
+
+[](https://www.facebook.com/bernamaofficial) [](https://twitter.com/bernamadotcom) [](https://www.instagram.com/bernamaofficial/) [](https://www.youtube.com/channel/UCSNmIInJrvJlCI6OempnYrg) [](https://bernama.com/en/rssfeed.php) [](https://www.tiktok.com/@bernamaofficial)
+
+###### Categories
+
+• [General](https://bernama.com/en/general/)\
+• [BernamaBiz](https://bernamabiz.com/index-bm.php)\
+• [Crime & Courts](https://bernama.com/en/crime_courts/)\
+• [Politics](https://bernama.com/en/politics/)\
+• [Sports](https://bernama.com/en/sports/)\
+• [Lifestyle](https://lifestyle.bernama.com/)\
+• [World](https://bernama.com/en/world/)\
+• [Infographics](https://bernama.com/en/infographics/)\
+• [Videos](https://bernama.com/en/videos/)\
+• [Exclusive Press](https://bernama.com/en/press/)\
+• [Archived](https://bernama.com/en/archive.php)
+
+###### Microsite
+
+• [Negeri Sembilan Polls 2026](https://prn.bernama.com/n9/index-en.php)\
+• [Glasgow 2026 Commonwealth Games](https://commonwealthgames.bernama.com/index.php)\
+• [Maju Johor](https://majujohor.bernama.com)\
+• [HAWANA 2026](https://www.hawana.my/)\
+• [CPI](https://cpi.bernama.com/)\
+• [MAPO](http://mapo.bernama.com/)\
+• [MCMC](https://mcmc.bernama.com/)\
+• [JPA](https://jpa.bernama.com/)\
+• [Fokus BERNAMA](https://bernama.com/en/bfokus/)\
+• [Thoughts](https://bernama.com/en/thoughts/)\
+• [MyCheck](https://www.mycheck.my/)\
+• [fotoBERNAMA](https://foto.bernama.com/)\
+• [Garasi](https://garasi.bernama.com/)\
+
+###### Region
+
+• [Central](https://bernama.com/en/region/index.php?s=1)\
+• [Northern](https://bernama.com/en/region/index.php?s=2)\
+• [Southern](https://bernama.com/en/region/index.php?s=3)\
+• [East](https://bernama.com/en/region/index.php?s=4)\
+• [Sabah](https://bernama.com/en/region/index.php?s=5)\
+• [Sarawak](https://bernama.com/en/region/index.php?s=6)
+
+###### About BERNAMA
+
+• [Corporate Site](https://bernama.com/corporate/index.php)\
+• [Contact Us](https://bernama.com/corporate/contactus.php)\
+• [BERNAMA Services](https://bernama.com/corporate/services.php)\
+• [Kerjaya@BERNAMA](#)\
+• [Quotation / Tender](https://bernama.com/misc/sebutharga_tender/)\
+• [Maklum Balas Pelanggan 2025](#)\
+• [Kajian Peranan Bernama Radio Sebagai Platform Penyampaian Maklumat Dalam Era Digital](https://docs.google.com/forms/d/e/1FAIpQLSdf6hDuiPAmIsJpfxsWNpVp7lRBFmO1wG5HkgOabEmPhBm_ZQ/viewform)
+
+© 2026 BERNAMA   • [Disclaimer](https://bernama.com/en/copyrights.php#a)   • [Privacy Policy](https://bernama.com/en/copyrights.php#b)   • [Security Policy](https://bernama.com/en/copyrights.php#c)  
