@@ -1,6 +1,6 @@
 # Malaysia research protocol (binding for every researcher)
 
-Read `../../CLAUDE.md` in full first, then `claude-addendum.md` in this folder (the Malaysia addendum, which wins over the shared rules for Malaysia). Then read this. Today is **6 November 2026**.
+Read `../../CLAUDE.md` in full first. Then read this. Today is **6 November 2026**.
 
 ## Source rule (Malaysia addendum, revised 6 Nov 2026)
 
