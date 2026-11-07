@@ -45,7 +45,7 @@ Two drafts exist: Saudi Arabia (`countries/saudi-arabia/`) and Malaysia (`countr
 - H2 per visa. Under it, H3 "Step 1", "Step 2"... in the order a worker acts, written as numbered actions. Then procedures for problems: if you aren't paid, changing employer, being reported absent (or the country's equivalent), leaving at the end of the job, going home on leave, bringing family, scams.
 - After the visas: changing visa type; asylum; sending money home; going home without valid papers; if a worker dies, is injured or loses the job; coming home; contacts.
 - Sections a migrant needs even though no source frames them that way: rights at work, how long you can stay, what can get you jailed.
-- Sharp writing: every line earns its place, and says the most in the fewest words. Use bold labels with bullets, nested where it shows structure (a list of options, a timeline, who is named), and short paragraphs only where reasoning needs to flow. No tables.
+- Sharp writing: every line earns its place, and says the most in the fewest words. Write prose by default, in short paragraphs under bold labels. Use bullets only when the content really is a list (options, a timeline, the people named, steps), nested where that shows structure; never bullets for their own sake. No tables.
 - Explain every term, acronym, organisation and platform inline the first time it appears. No glossary.
 - Every sentence is cited. `[n]` is an official source. `[Nn]` is news, an NGO, a guide or another third party, listed under "Needs an official source". A source older than 2025 shows its year, like `[N3 (2022)]`. Prefer official sources; don't cite news where an official source exists.
 - No conclusions, opinions or advice of our own.
