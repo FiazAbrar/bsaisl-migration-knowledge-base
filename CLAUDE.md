@@ -28,7 +28,7 @@ Saudi Arabia is finished as the worked example (`countries/saudi-arabia/`). Matc
 ## What's in this repo
 
 - `countries/saudi-arabia/Saudi Arabia.docx`: the finished Saudi doc. Read it in full before writing anything.
-- `countries/saudi-arabia/`: also its markdown source (`saudi.src.md`), reference lists (`saudi-ref-list.md`, `refs_extra.py`), build scripts (`build.py`, `fixbullets.py`), the built markdown (`Saudi Arabia.md`) and the research notes (`findings.md`).
+- `countries/saudi-arabia/`: also its markdown source (`saudi.src.md`), reference lists (`saudi-ref-list.md`, `refs_extra.py`), build scripts (`build.py`, `fixbullets.py`), the readable copy of the doc (`README.md`, which GitHub shows when you open the folder) and the research notes (`findings.md`).
 - `official-pdfs/`: official Bangladesh-side documents. Most apply to every country: the Ministry of Expatriates' Welfare citizen charter, the Wage Earners' Welfare Board citizen charter and annual report, the Probashi Kallyan Bank (PKB) loan page and charter, and BMET's safe migration leaflet. The rest are Saudi-specific BMET notices (skill test, permission letter, Takamol warning), useful as examples of what to look for.
 - `data/oep-agency-list-2026-10-28.csv`: BMET's full recruiting-agency licence list (licence, name, address, phone, status, expiry), pulled 28 Oct 2026.
 
@@ -76,12 +76,12 @@ Saudi Arabia is finished as the worked example (`countries/saudi-arabia/`). Matc
 Needs Python 3 and pandoc (`brew install pandoc` on a Mac). For a new country, copy the scripts from `countries/saudi-arabia/` into `countries/<country>/`. Write `<country>.src.md` with citation keys (`[12]` official, `[N104]` news, several as `[N2, N108, 14]`). Put your own references in a ref-list file with the same structure as `saudi-ref-list.md`: official entries as `12. Publisher. [Title](url)`, then "### Needs an official source" with `- N104. ...` entries. Adapt `build.py`: it reads `saudi-ref-list.md`, loads `refs_extra.py` and has a few Saudi overrides hard-coded, so strip those and point it at your files. Then, inside that folder:
 
 ```
-python3 build.py                              # <country>.src.md -> <Country>.md
-pandoc "<Country>.md" -o "<Country>.docx"
+python3 build.py                              # <country>.src.md -> pandoc.md and README.md
+pandoc pandoc.md -o "<Country>.docx"
 python3 fixbullets.py "<Country>.docx"
 ```
 
-`build.py` renumbers citations in order of first use, adds the year to pre-2025 sources, links each citation to its reference and builds the Contents list. It also writes `README.md`, the same text with anchors GitHub can render, so the doc reads with working links when you open the country folder on GitHub. Commit it with the .docx. It stops if a citation key has no reference. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit the source and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
+`build.py` renumbers citations in order of first use, adds the year to pre-2025 sources, links each citation to its reference and builds the Contents list. It writes two copies of the text: `pandoc.md`, a build file pandoc turns into the .docx (not committed), and `README.md`, which GitHub displays with working links when you open the country folder. Commit `README.md` with the .docx. It stops if a citation key has no reference. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit the source and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
 
 ## Firecrawl (web scraping that gets past many blocks)
 

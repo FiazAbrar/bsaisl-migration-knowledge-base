@@ -47,5 +47,5 @@ def build(inp,out):
     open(out,'w').write(s); print(out,len(om),len(nm))
     # GitHub copy: GitHub doesn't render pandoc's []{#id} anchors, so use HTML anchors
     open('README.md','w').write(re.sub(r'\[\]\{#(\w+)\}',r'<a id="\1"></a>',s))
-build('saudi.src.md','Saudi Arabia.md')
+build('saudi.src.md','pandoc.md')
 #build('lb.src.md','Leaving Bangladesh.md')
