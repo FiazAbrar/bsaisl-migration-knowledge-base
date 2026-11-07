@@ -1,0 +1,99 @@
+Reliable Brokers
+
+Online Investing
+
+Alerts & Analysis
+
+Easy Trading
+
+# Qatar deports Bangladeshi migrant workers over wage protests
+
+It comes despite Bangladeshis paying the highest recruitment fees among migrant workers to secure jobs in Qatar
+
+\
+
+Tribune Desk
+
+Publish : 23 Aug 2022, 06:00 PMUpdate : 24 Aug 2022, 01:12 AM
+
+Ahead of the football World Cup slated to be held from November onwards, the Qatari government reportedly deported Bangladeshi migrant workers for staging a rare protest against unpaid wages as per a labour rights group said on Monday.
+
+It comes despite Bangladeshis paying the highest recruitment fees among migrant workers to secure jobs in Qatar.
+
+Bangladeshis migrating to the Gulf country are likely to have paid about \$1.5 billion in fees, and possibly as high as \$2 billion, between 2011 and 2020, The Guardian reported in April.
+
+During the protest earlier this month in Doha, at least 60 workers -- including some who had reportedly not been paid for seven months -- held up traffic outside the Al Bandary company, AFP reported citing Equidem, a London-based labour rights campaign organization.
+
+"We have spoken to workers involved in the protests (including) one who has been deported back to Nepal, and confirmed he has returned," said Equidem head Mustafa Qadri said.
+
+"Others from Nepal, Bangladesh, India, Egypt and the Philippines have also been deported," he added.
+
+One detained worker, who called Equidem from the detention centre where he was taken to, described seeing as many as 300 of his colleagues there from Bangladesh, Egypt, India, Nepal and the Philippines.
+
+Qadri said police later arrested the protesters and held them in a detention center where some described being in a stifling heat without air conditioning. Doha’s temperature this week reached around 41 degrees Celsius.
+
+Qadri described police telling those held that if they can strike in hot weather, they can sleep without air conditioning.
+
+Gas-rich Qatar has a population of about 2.8 million, including 1.7 million foreign laborers, according to Amnesty International, which earlier this year urged the country to protect thousands of security guards, including those from Bangladesh, from "forced labour".
+
+According to official data, 821,856 Bangladeshi workers are employed in Qatar as of July.
+
+At least 24,400 migrant workers, mostly from Bangladesh, Nepal and India, were abused in 211 incidents linked to the World Cup projects between 2016 and 2022, a study previously revealed. 
+
+Qatar's government, which has faced an intense spotlight over the treatment of migrants, has confirmed that some of the workers who took part in the August 14 protest were detained, but has given no details as to whether they have been expelled.
+
+Qatar's government said on Sunday that "a number of protesters were detained for breaching public security laws." 
+
+It added that "a minority of protesters who failed to remain peaceful and acted in breach of Qatar's public security laws face deportation by court order."
+
+However, it did not give details of how many workers it involved.
+
+The Labour Ministry said it is paying salaries and benefits owed to Al Bandary workers. It added that "further action" was being taken against the company, which was already under investigation for failing to pay wages. 
+
+Migrant workers in Qatar are governed by an exploitative labor system that can leave them vulnerable to forced labor by trapping them in employment situations in which their rights to fair wages, overtime pay, adequate housing, freedom of movement, and access to justice are at risk, says the Human Rights Watch.
+
+Qatar has faced accusations of under-reporting deaths among migrant workers and of not doing enough to alleviate harsh conditions. Unpaid wages have also been frequently raised.
+
+An investigation by The Guardian revealed at least 1,018 migrant workers from Bangladesh have died in Qatar till early last year since it won the right to host the Fifa World Cup in 2010. 
+
+The FIFA World Cup starts in the tiny energy-rich state on November 20.
+
+Data compiled by The Guardian showed an average of 12 migrant workers from Bangladesh, India, Pakistan, Nepal and Sri Lanka have died each week in the period between 2011 and 2020.
+
+On Sunday, Qatari Labour Minister Dr Ali bin Saeed bin Al Samikh Al Marri on Sunday said the gulf nation is going to take more workers from Bangladesh in the field of nursing, hospitality, construction, service, and IT sectors. 
+
+In a meeting with Expatriates' Welfare and Overseas Employment Minister Imran Ahmad, Marri expressed his satisfaction with the Bangladeshi expatriate workers in Qatar and appreciated their role.
+
+#### Topics:
+
+[**Qatar**](https://www.dhakatribune.com/topic/qatar)[**Bangladeshi Migrant Workers**](https://www.dhakatribune.com/topic/bangladeshi-migrant-workers)
+
+[Read More](//www.dhakatribune.com/world)
+
+## [Qatar says US, Iran still in talks to end war](//www.dhakatribune.com/world/middle-east/421467/qatar-says-us-iran-still-in-talks-to-end-war "Qatar says US, Iran still in talks to end war")
+
+## [Iran says still open to diplomacy as war with US hits six months](//www.dhakatribune.com/world/middle-east/418520/iran-says-still-open-to-diplomacy-as-war-with-us "Iran says still open to diplomacy as war with US hits six months")
+
+## [Iran, Qatar hold Hormuz talks as US blockade chokes Iran oil imports](//www.dhakatribune.com/world/middle-east/418457/iran-qatar-hold-hormuz-talks-as-us-blockade "Iran, Qatar hold Hormuz talks as US blockade chokes Iran oil imports")
+
+## [Iran warns oil tankers to follow approved routes in Strait of Hormuz](//www.dhakatribune.com/world/middle-east/414201/iran-warns-oil-tankers-to-follow-approved-routes "Iran warns oil tankers to follow approved routes in Strait of Hormuz")
+
+## [US, Iran to hold indirect talks after exchanges of fire](//www.dhakatribune.com/world/middle-east/414080/us-iran-to-hold-indirect-talks-after-exchanges-of "US, Iran to hold indirect talks after exchanges of fire")
+
+## [Talks in Qatar after US-Iran deal: What we know](//www.dhakatribune.com/world/middle-east/414043/talks-in-qatar-after-us-iran-deal-what-we-know "Talks in Qatar after US-Iran deal: What we know")
+
+[Latest News](javascript:)
+
+## [New Zealand’s political future in the balance as main parties slump](//www.dhakatribune.com/world/pacific-oceania/423954/new-zealand%E2%80%99s-political-future-in-the-balance-as "New Zealand’s political future in the balance as main parties slump")
+
+## [PM announces salary rise, mobile allowance for Gram Police](//www.dhakatribune.com/bangladesh/423953/pm-announces-salary-rise-mobile-allowance-for "PM announces salary rise, mobile allowance for Gram Police")
+
+## [National Revolution and Solidarity Day observed in Nepal](//www.dhakatribune.com/bangladesh/foreign-affairs/423952/national-revolution-and-solidarity-day-observed-in "National Revolution and Solidarity Day observed in Nepal")
+
+## [KCC administrator condemns defacement of Tagore mural in Khulna](//www.dhakatribune.com/bangladesh/nation/423951/kcc-administrator-condemns-defacement-of-tagore "KCC administrator condemns defacement of Tagore mural in Khulna")
+
+## [Import exceeds export as current account deficit widens](//www.dhakatribune.com/business/423950/import-exceeds-export-as-current-account-deficit "Import exceeds export as current account deficit widens")
+
+Top Brokers
+
+![Dhaka Tribune Bangla](https://ecdn.dhakatribune.net/contents/themes/public/style/images/logo.png)[বাংলা হোমপেজ](javascript:)

@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>NHRC-Home</title>
+    <link rel="icon" type="image/x-icon"
+          href="https://www.nhrc-qa.org/assets/img/favicon/favicon.png" />
+    <link rel="stylesheet"
+          href="https://www.nhrc-qa.org/front/css/bootstrap-rtl.min.css">
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/css/jquery-ui/jquery-ui.min.css">
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/build/css/intlTelInput.css">
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/css/all.min.css">
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/css/style.css">
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/css/toastr.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <style>
+        .inactiveLink {
+            pointer-events: none;
+            cursor: default;
+        }
+    </style>
+    <link rel="stylesheet" href="https://www.nhrc-qa.org/front/css/custom.css">
+    <script>
+        let storedHomeFont = localStorage.getItem("bodyFont");
+        document.getElementsByTagName("html")[0].style.fontSize = storedHomeFont ?
+            storedHomeFont + 'px' : '16px';
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T8V423XC9E"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-T8V423XC9E');
+    </script>
+    <style>
+        .owl-carousel .animated {
+            transition: unset !important;
+            animation-duration: 4000ms !important;
+        }
+
+        .fix-contrast {
+            color: DimGray !important;
+        }
+
+        .fix-white-contrast {
+            font-weight: bold;
+            
+        }
+      	.main-slider .owl-dots .owl-dot, .news-slider .owl-dots .owl-dot {
+        	height: 7px !important;
+      	}
+    </style>
+</head>
+
+<body>
+  
+  <!--============================== start desktop header ============================-->
+<header class="header">
+    <div class="container">
+        <div class="inner">
+            <a href="https://www.nhrc-qa.org" class="logo">
+                <img src="https://www.nhrc-qa.org/front/img/static/logo.svg" width="100%" height="100%"   alt="الصفحه الرئيسية لحقوق الانسان الدولية" class="light">
+                <img src="https://www.nhrc-qa.org/front/img/static/logo-dark.svg" width="100%" height="100%"  alt="الصفحه الرئيسية لحقوق الانسان الدولية" class="dark">
+            </a>
+            <div class="right">
+                <div class="part">
+                    <form action="https://www.nhrc-qa.org/search" class="">
+                        <label type="submit" class="search-icon" for="search_input">
+                          	<span style="display:none;">search</span>
+                            <input type="text" id="search_input" class="search" name="keyword" placeholder="ابحث هنا ..">
+                      	</label>
+                      <button type="submit" class="btn submit_search" aria-label="search button">
+                        <i class="fas fa-search"></i> 
+                        <span style="display:none;">search</span>
+                      </button>
+                    </form>
+                </div>
+                <div class="part">
+                    <div class="dropdown setting-drop">
+                        <button class="icon" type="button" id="setting_menu" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                            <i class="fas fa-cog"></i>
+                            الاعدادات
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="setting_menu">
+                            <div class="line">
+                                <p class="title">
+                                    حجم الخط
+                                </p>
+                                <div class="controls">
+                                    <button class="font min">
+                                        A-
+                                    </button>
+                                    <button class="font plus">
+                                        A+
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="line">
+                                <p class="title">
+                                    الوضع الليلى
+                                </p>
+                                <label class="switch contrast">
+                                    <input type="checkbox" class="d-none">
+                                    <span class="check-mark"></span>
+                                                                           <span class="visually-hidden">Label for the input</span>
+
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="part">
+                    <a href="https://www.nhrc-qa.org/#contact" class="icon">
+                        <i class="far fa-comments"></i>
+                        تواصل معنا
+                    </a>
+                </div>
+                <div class="part">
+                                            <a href="https://www.nhrc-qa.org/lang?localization=en" class="icon" lang="en">
+                            <i class="fas fa-globe"></i>
+                            English
+                        </a>
+                                    </div>
+                                        <div class="part signupPart">
+                      	<span>مستخدم جديد؟</span>
+                        <a href="https://www.nhrc-qa.org/register" class="signup">
+                            انشاء حساب                        </a>
+                    </div>
+                    <a href="https://www.nhrc-qa.org/login" class="login">
+                        تسجيل الدخول
+                    </a>
+                                            </div>
+        </div>
+    </div>
+</header>
+<div class="resp-header">
+    <div class="container">
+        <div class="inner">
+            <a href="https://www.nhrc-qa.org" class="logo">
+              <span style="display:none;">logo</span>
+                <img src="https://www.nhrc-qa.org/front/img/static/logo.svg" alt="National Human Rights Committee, Homepage" class="light">
+                <img src="https://www.nhrc-qa.org/front/img/static/logo-dark.svg" alt="National Human Rights Committee, Homepage, dark" class="dark">
+            </a>
+            <div class="menu-btn dis-f1">
+                <i class="fas fa-search search-btn"></i>
+                <div class="main-nav-btn dis-f1">
+                        <span class="hint">
+                            القائمة
+                        </span>
+                    <button class="nav-btn"><span></span><span></span><span></span><span style="display:none;">nav btn</span></button>
+                </div>
+            </div>
+
+            <form action="" class="form-groub">
+                    <span class="input-filter">
+                        <i class="fas fa-times i-x"></i>
+                    </span>
+                <div class="group">
+                     <label id="searchLabel" for="sealab"/>
+                    <input type="text" placeholder=" Search here…" class="input" id='sealab'>
+                    <button class="btn-search"><i class="fas fa-search"></i><span style="display:none;">search</span></button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="header-sidebar" aria-haspopup="false" aria-expanded="false">
+        <div class="head-bar dis-f1">
+            <span class="hint">إغلاق القائمة</span>
+            <i class="fad fa-times icon"></i>
+        </div>
+        <div class="dis-f links-group mt-3 with-br">
+                        <a href="https://www.nhrc-qa.org/register" class="theme-btn primary-btn rd-bgc">انشاء حساب</a>
+            <a href="https://www.nhrc-qa.org/login" class="theme-btn primary-btn">تسجيل الدخول</a>
+                    </div>
+
+        <ul class="list accordion" id="accordionExample">
+                                                <li class="with-br">
+                        <a href="https://www.nhrc-qa.org" class="link">الرئيسية</a>
+                    </li>
+                                                                <li class="with-br">
+                        <div class="card">
+                            <button class="card-header collapsed" data-toggle="collapse" data-target="#collaps-1">
+                                من نحن
+                                <i class="fas fa-chevron-down"></i>
+                              <span style="display:none;">title</span>
+                            </button>
+                            <div id="collaps-1" class="collapse" data-parent="#accordionExample">
+                                <div class="card-body">
+                                                                            <a class="anchor" href="https://www.nhrc-qa.org/about/who-we-are">من نحن</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/about/members">الأعضاء</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/about/organizational-chart">الهيكل التنظيمى</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/about/strategy">الإسترتيجية</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/about/achievement">الإنجازات</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/about/vision-and-mission">الرؤية والرسالة</a>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                <li class="with-br">
+                        <div class="card">
+                            <button class="card-header collapsed" data-toggle="collapse" data-target="#collaps-2">
+                                الأخبار
+                                <i class="fas fa-chevron-down"></i>
+                              <span style="display:none;">title</span>
+                            </button>
+                            <div id="collaps-2" class="collapse" data-parent="#accordionExample">
+                                <div class="card-body">
+                                                                            <a class="anchor" href="https://www.nhrc-qa.org/news/committee-news">أخبار اللجنة</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/news/international-human-rights-news">أخبار حقوق الإنسان العالمية</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/news/all">كل الأخبار</a>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                <li class="with-br">
+                        <div class="card">
+                            <button class="card-header collapsed" data-toggle="collapse" data-target="#collaps-3">
+                                المركز الإعلامى
+                                <i class="fas fa-chevron-down"></i>
+                              <span style="display:none;">title</span>
+                            </button>
+                            <div id="collaps-3" class="collapse" data-parent="#accordionExample">
+                                <div class="card-body">
+                                                                            <a class="anchor" href="https://www.nhrc-qa.org/image-galleries">معرض الصور</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/video-galleries/all">معرض الفيديو</a>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                <li class="with-br">
+                        <div class="card">
+                            <button class="card-header collapsed" data-toggle="collapse" data-target="#collaps-4">
+                                الأنشطة الدولية
+                                <i class="fas fa-chevron-down"></i>
+                              <span style="display:none;">title</span>
+                            </button>
+                            <div id="collaps-4" class="collapse" data-parent="#accordionExample">
+                                <div class="card-body">
+                                                                            <a class="anchor" href="https://www.nhrc-qa.org/international_activities/cooperation-with-human-rights-councils">التعاون مع الآليات الدولية</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/international_activities/regional-international-partnerships">شراكات إقليمية ودولية</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/international_activities/memorandums-of-understanding">مذكرات التفاهم</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/international_activities/reports-participations">التقارير والمشاركات</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/international_activities/the-arab-working-group">الفريق العربى</a>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                <li class="with-br">
+                        <div class="card">
+                            <button class="card-header collapsed" data-toggle="collapse" data-target="#collaps-5">
+                                الأنشطة والفعاليات
+                                <i class="fas fa-chevron-down"></i>
+                              <span style="display:none;">title</span>
+                            </button>
+                            <div id="collaps-5" class="collapse" data-parent="#accordionExample">
+                                <div class="card-body">
+                                                                            <a class="anchor" href="https://www.nhrc-qa.org/events">الفعاليات</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/activities/committee-awards">جوائز اللجنة</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/activities/workshops-training-courses">الورش والدورات التدريبية</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/activities/conferences-forums">المؤتمرات والندوات</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/activities/health-in-the-work-shop">الصحة فى أماكن العمل</a>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                <li class="with-br">
+                        <div class="card">
+                            <button class="card-header collapsed" data-toggle="collapse" data-target="#collaps-6">
+                                المطبوعات
+                                <i class="fas fa-chevron-down"></i>
+                              <span style="display:none;">title</span>
+                            </button>
+                            <div id="collaps-6" class="collapse" data-parent="#accordionExample">
+                                <div class="card-body">
+                                                                            <a class="anchor" href="https://www.nhrc-qa.org/publications/studies">الدراسات والأبحاث</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/publications/publications">مطبوعات</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/publications/annual-reports">التقارير السنوية</a>
+                                                                                <a class="anchor" href="https://www.nhrc-qa.org/publications/publications?category=33">مجلة الصحيفة</a>
+                                                                        </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                <li class="with-br">
+                        <a href="https://www.nhrc-qa.org/statements/committee-statements" class="link">بيانات اللجنة</a>
+                    </li>
+                                                                <li class="with-br">
+                        <a href="https://www.nhrc-qa.org/kids-start" class="link">ركن الأطفال</a>
+                    </li>
+                                    </ul>
+
+
+        <div class="switch-sec">
+            <div class="item">
+                <div class="main">
+                    <p class="hint">العربية</p>
+                    <label class="switch">
+                      	<span style="display:none;">switch</span>
+                        <input type="checkbox" class="switch_lang">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="item">
+                <div class="main">
+                    <p class="hint">حجم الخط</p>
+                    <label class="switch">
+                        <p class="f-size dis-f">
+                            <span class="font min">A-</span>
+                            <span class="font plus">A+</span>
+                        </p>
+                    </label>
+                </div>
+                <div class="main">
+                    <p class="hint">الوضع الليلى</p>
+                    <label class="switch contrast">
+                        <input type="checkbox">
+                      	<span style="display:none;">checkbox</span>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="overlay-body"></div>
+</div>
+<!--================================================ end-desktop header ============================================-->
+
+
+
+
+
+
+
+
+
+
+    <!-- ============================ start content ========================== -->
+    <section class="content">
+        <!-- desktop navbar -->
+        <!-- home main - slider -->
+        <section class="main-slider">
+            <div class="owl-carousel owl-theme main-slide">
+                                                            <div class="item">
+                            <img src="https://www.nhrc-qa.org/storage/banners/file_6aa25b5d58c50_1789025117.jpeg" alt="banner image"
+                                 class="w-100">
+                            <div class="info">
+                                <div class="container">
+                                    
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                                </div>
+        </section>
+        <!-- desktop navbar -->
+<nav class="main-nav">
+    <div class="container">
+        <ul class="list">
+                                                <li class="active">
+                        <a href="https://www.nhrc-qa.org" class="link">الرئيسية</a>
+                    </li>
+                                                                <li class="">
+                        <div class="dropdown">
+                            <button class="link" type="button" id="nav-1" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                                من نحن
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="nav-1">
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/about/who-we-are">من نحن</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/about/members">الأعضاء</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/about/organizational-chart">الهيكل التنظيمى</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/about/strategy">الإسترتيجية</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/about/achievement">الإنجازات</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/about/vision-and-mission">الرؤية والرسالة</a>
+                                                            </div>
+                        </div>
+                    </li>
+                                                                <li class="">
+                        <div class="dropdown">
+                            <button class="link" type="button" id="nav-1" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                                الأخبار
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="nav-1">
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/news/committee-news">أخبار اللجنة</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/news/international-human-rights-news">أخبار حقوق الإنسان العالمية</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/news/all">كل الأخبار</a>
+                                                            </div>
+                        </div>
+                    </li>
+                                                                <li class="">
+                        <div class="dropdown">
+                            <button class="link" type="button" id="nav-1" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                                المركز الإعلامى
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="nav-1">
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/image-galleries">معرض الصور</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/video-galleries/all">معرض الفيديو</a>
+                                                            </div>
+                        </div>
+                    </li>
+                                                                <li class="">
+                        <div class="dropdown">
+                            <button class="link" type="button" id="nav-1" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                                الأنشطة الدولية
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="nav-1">
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/international_activities/cooperation-with-human-rights-councils">التعاون مع الآليات الدولية</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/international_activities/regional-international-partnerships">شراكات إقليمية ودولية</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/international_activities/memorandums-of-understanding">مذكرات التفاهم</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/international_activities/reports-participations">التقارير والمشاركات</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/international_activities/the-arab-working-group">الفريق العربى</a>
+                                                            </div>
+                        </div>
+                    </li>
+                                                                <li class="">
+                        <div class="dropdown">
+                            <button class="link" type="button" id="nav-1" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                                الأنشطة والفعاليات
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="nav-1">
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/events">الفعاليات</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/activities/committee-awards">جوائز اللجنة</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/activities/workshops-training-courses">الورش والدورات التدريبية</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/activities/conferences-forums">المؤتمرات والندوات</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/activities/health-in-the-work-shop">الصحة فى أماكن العمل</a>
+                                                            </div>
+                        </div>
+                    </li>
+                                                                <li class="">
+                        <div class="dropdown">
+                            <button class="link" type="button" id="nav-1" data-toggle="dropdown" aria-expanded="false" aria-haspopup="false">
+                                المطبوعات
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="nav-1">
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/publications/studies">الدراسات والأبحاث</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/publications/publications">مطبوعات</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/publications/annual-reports">التقارير السنوية</a>
+                                                                    <a class="dropdown-item" href="https://www.nhrc-qa.org/publications/publications?category=33">مجلة الصحيفة</a>
+                                                            </div>
+                        </div>
+                    </li>
+                                                                <li class="">
+                        <a href="https://www.nhrc-qa.org/statements/committee-statements" class="link">بيانات اللجنة</a>
+                    </li>
+                                                                <li class="">
+                        <a href="https://www.nhrc-qa.org/kids-start" class="link">ركن الأطفال</a>
+                    </li>
+                                    </ul>
+    </div>
+</nav>
+            <!-- news slider -->
+    <section class="news-slider pt pb" aria-label="news slider section">
+        <div class="container">
+            <div class="section-head">
+                <h1 class="section-dash-title" id="all_news" aria-label="latest news">
+                    آخر الأخبار
+                </h1>
+                <a href="https://www.nhrc-qa.org/news/all"
+                   class="theme-btn primary-btn" aria-labelledby="all_news" aria-label="all news">
+                    عرض الكل
+                </a>
+            </div>
+
+            <div class="owl-carousel owl-theme news-slide">
+                                                            <a href="https://www.nhrc-qa.org/news/nhrc-holds-dialogue-session-with-naufar-centre-on-human-rights-of-people-with-substance-use-disorders-participants-qatar-has-taken-multiple-measures-to-address-global-threats-related-to-drug-trafficking-and-substance-abusenhrcXujf/page" aria-label="news box">
+                            <div class="item">
+                                <div class="news-box">
+                                    <img src="https://www.nhrc-qa.org/storage/news/file_6aeb60629b177_1793810530.jpeg"
+                                         alt="اللجنة الوطنية لحقوق الإنسان تنظم جلسة حوارية بالشراكة مع مركز نوفر ومشاركون:  قطر تتخذ تدابير متعددة لمواجهة التهديدات العالمية المرتبطة بظاهرتي الاتجار وتعاطي المخدرات والمؤثرات العقلية"
+                                         class="img">
+                                    <div class="info">
+                                        <p class="date fix-contrast">
+                                          2026-Nov-04
+
+                                            أخبار اللجنة
+                                        </p>
+                                        <p class="title">
+                                            اللجنة الوطنية لحقوق الإنسان تنظم جلسة حوارية بالشراكة مع مركز نوفر ومشاركون:  قطر تتخذ تدابير متعددة لمواجهة التهديدات العالمية المرتبطة بظاهرتي الاتجار وتعاطي المخدرات والمؤثرات العقلية
+                                        </p>
+                                        <p class="desc fix-contrast">
+                                            &amp;nbsp;الدوحة &amp;ndash; 4...
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                                            <a href="https://www.nhrc-qa.org/news/nhrc-and-iom-extend-mou-until-2028nhrcYFbo/page" aria-label="news box">
+                            <div class="item">
+                                <div class="news-box">
+                                    <img src="https://www.nhrc-qa.org/storage/news/file_6adc9fe5b736d_1792843749.jpeg"
+                                         alt="اللجنة الوطنية لحقوق الإنسان والمنظمة الدولية للهجرة تمددان مذكرة التفاهم حتى 2028"
+                                         class="img">
+                                    <div class="info">
+                                        <p class="date fix-contrast">
+                                          2026-Oct-21
+
+                                            أخبار اللجنة
+                                        </p>
+                                        <p class="title">
+                                            اللجنة الوطنية لحقوق الإنسان والمنظمة الدولية للهجرة تمددان مذكرة التفاهم حتى 2028
+                                        </p>
+                                        <p class="desc fix-contrast">
+                                            مريم العطية:...
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                                            <a href="https://www.nhrc-qa.org/news/on-the-sidelines-of-global-security-forum-maryam-al-attiyah-discusses-strengthening-partnership-with-un-office-of-counter-terrorismnhrcxAcI/page" aria-label="news box">
+                            <div class="item">
+                                <div class="news-box">
+                                    <img src="https://www.nhrc-qa.org/storage/news/file_6ad8e325dbc39_1792598821.jpeg"
+                                         alt="علي هامش استضافة قطر  لمنتدى الأمن العالمي.. مريم العطية تبحث تعزيز الشراكة مع مكتب الأمم المتحدة لمكافحة الإرهاب في نيويورك"
+                                         class="img">
+                                    <div class="info">
+                                        <p class="date fix-contrast">
+                                          2026-Oct-21
+
+                                            أخبار اللجنة
+                                        </p>
+                                        <p class="title">
+                                            علي هامش استضافة قطر  لمنتدى الأمن العالمي.. مريم العطية تبحث تعزيز الشراكة مع مكتب الأمم المتحدة لمكافحة الإرهاب في نيويورك
+                                        </p>
+                                        <p class="desc fix-contrast">
+                                            الدوحة: أكتوبر...
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                                            <a href="https://www.nhrc-qa.org/news/5th-samarkand-international-human-rights-forum-calls-for-first-regional-action-plan-on-women-peace-and-security-for-central-asianhrc9O3E/page" aria-label="news box">
+                            <div class="item">
+                                <div class="news-box">
+                                    <img src="https://www.nhrc-qa.org/storage/news/file_6acb92431da88_1791726147.jpeg"
+                                         alt="منتدى سمرقند الدولي الخامس لحقوق الإنسان يدعو لوضع أول خطة عمل إقليمية بشأن المرأة والسلام والأمن لمنطقة آسيا الوسطى"
+                                         class="img">
+                                    <div class="info">
+                                        <p class="date fix-contrast">
+                                          2026-Oct-11
+
+                                            أخبار اللجنة
+                                        </p>
+                                        <p class="title">
+                                            منتدى سمرقند الدولي الخامس لحقوق الإنسان يدعو لوضع أول خطة عمل إقليمية بشأن المرأة والسلام والأمن لمنطقة آسيا الوسطى
+                                        </p>
+                                        <p class="desc fix-contrast">
+                                            الكواري: تعزيز...
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                                            <a href="https://www.nhrc-qa.org/news/during-his-participation-in-the-63rd-session-of-the-un-human-rights-council-in-geneva-al-jamali-we-remain-committed-to-addressing-gender-based-discriminationnhrcW2LN/page" aria-label="news box">
+                            <div class="item">
+                                <div class="news-box">
+                                    <img src="https://www.nhrc-qa.org/storage/news/file_6ac27aa351069_1791130275.jpeg"
+                                         alt="خلال مشاركته في أعمال الدورة 63 لمجلس الأمم المتحدة لحقوق الإنسان بجنيف: الجمّالي: ملتزمون بمواصلة دورنا في التصدي للتمييز القائم على النوع الاجتماعي"
+                                         class="img">
+                                    <div class="info">
+                                        <p class="date fix-contrast">
+                                          2026-Oct-04
+
+                                            أخبار اللجنة
+                                        </p>
+                                        <p class="title">
+                                            خلال مشاركته في أعمال الدورة 63 لمجلس الأمم المتحدة لحقوق الإنسان بجنيف: الجمّالي: ملتزمون بمواصلة دورنا في التصدي للتمييز القائم على النوع الاجتماعي
+                                        </p>
+                                        <p class="desc fix-contrast">
+                                            أكد سعادة السيد...
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                                            <a href="https://www.nhrc-qa.org/news/during-an-intervention-at-the-63rd-session-of-the-un-human-rights-council-in-geneva-al-hashimi-the-national-human-rights-committee-has-never-been-subjected-to-intimidation-for-carrying-out-its-mandatenhrcVg0q/page" aria-label="news box">
+                            <div class="item">
+                                <div class="news-box">
+                                    <img src="https://www.nhrc-qa.org/storage/news/file_6abbeadb5a144_1790700251.jpg"
+                                         alt="خلال مداخلة بالدورة 63 لمجلس الأمم المتحدة لحقوق الإنسان بجنيف: الهاشمي: لم يسبق وأن تعرضت اللجنة الوطنية لحقوق الإنسان للترهيب بسبب ممارستها لمهامها"
+                                         class="img">
+                                    <div class="info">
+                                        <p class="date fix-contrast">
+                                          2026-Sep-29
+
+                                            أخبار اللجنة
+                                        </p>
+                                        <p class="title">
+                                            خلال مداخلة بالدورة 63 لمجلس الأمم المتحدة لحقوق الإنسان بجنيف: الهاشمي: لم يسبق وأن تعرضت اللجنة الوطنية لحقوق الإنسان للترهيب بسبب ممارستها لمهامها
+                                        </p>
+                                        <p class="desc fix-contrast">
+                                            جنيف: سبتمبر...
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                                                </div>
+        </div>
+    </section>
+
+    <!-- home contact -->
+    <section class="home-contact pb" id="contact" aria-label="contact section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <div class="left">
+                        <h3 class="section-dash-title mb-2" aria-label="contact us title">
+                            تواصل معنا                        </h3>
+                        <p class="sub-title fix-contrast" aria-label="contact us desc">
+                            يسعدنا أن نسمع منك ، إذا كان لديك أي أسئلة ، فلا تتردد في الاتصال بنا.                        </p>
+                        <a href="https://www.nhrc-qa.org/complaint" class="link" aria-label="submit complaint">
+                            <i class="far fa-file-alt"></i>
+                            <span class="info">
+                                <span class="title">
+                                    إرسال شكوى                                </span>
+                                <span class="desc fix-contrast">
+                                    هل لديك اي قلق او مشكلة؟ دعنا نعرف                                </span>
+                            </span>
+                        </a>
+                        <a href="#complain" class="link tab" aria-label="call us">
+                            <i class="fas fa-phone-alt"></i>
+                            <span class="info">
+                                <span class="title">
+                                    اتصل بنا                                </span>
+                                <span class="desc fix-contrast">
+                                    44048844 , 66626663, 33296666
+                                </span>
+                            </span>
+                        </a>
+                      	<a href="tel:8002222" class="link" aria-label="hotline">
+                            <i class="fas fa-phone-alt"></i>
+                            <span class="info">
+                                <span class="title">
+                                    الخط الساخن                                </span>
+                                <span class="desc fix-contrast">
+                                     8002222
+                                </span>
+                            </span>
+                        </a>
+                        <a href="mailto:c@nhrc.org.qa" class="link" aria-label="send us email">
+                            <i class="far fa-envelope"></i>
+                            <span class="info">
+                                <span class="title">
+                                    ارسل لنا بريد الكتروني                                </span>
+                                <span class="desc fix-contrast">
+                                    c@nhrc.org.qa
+                                </span>
+                            </span>
+                        </a>
+                        <a href="#location" class="link tab" aria-label="our location">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span class="info">
+                                <span class="title">
+                                    موقعنا                                </span>
+                                <span class="desc fix-contrast">
+                                    عرض الموقع على الخريطة                                </span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="right active" id="complain" aria-label="complain section">
+                        <div class="top">
+                            <h4 class="head" aria-label="complain section title">
+                                يمكنك تقديم شكوى من خلال                            </h4>
+                            <div class="links">
+                                <a href="" class="link" aria-label="email address complain">
+                                    <span class="title">
+                                        <i class="fas fa-at"></i>
+                                        البريد الإلكترونى                                    </span>
+                                    <span class="desc">
+                                        c@nhrc.org.qa
+                                    </span>
+                                </a>
+                                <a href="" class="link" aria-label="phone call complain">
+                                    <span class="title">
+                                        <i class="fas fa-phone-alt"></i>
+                                        اتصال هاتفي                                    </span>
+                                    <span class="desc">
+                                        44048844 , 66626663, 33296666
+                                    </span>
+                                </a>
+                                <a href="" class="link" aria-label="fax complain">
+                                    <span class="title">
+                                        <i class="fas fa-print"></i>
+                                        فاكس                                    </span>
+                                    <span class="desc">
+                                        44444013
+                                    </span>
+                                </a>
+                                <a href="https://www.nhrc-qa.org/storage/settings/file_62fa190d9c6b1_1660557581.pdf"
+                                   class="link" target="_blank" aria-label="in person complain">
+                                    <span class="title">
+                                        <i class="far fa-user"></i>
+                                        بشكل شخصي                                    </span>
+                                    <span class="desc">
+                                        اطبع نموذج الشكوى واملأه.                                    </span>
+                                </a>
+                                <a href="https://www.nhrc-qa.org/complaint"
+                                   class="link" aria-label="online complain">
+                                    <span class="title">
+                                        <i class="fas fa-desktop"></i>
+                                        عبر الانترنت                                    </span>
+                                    <span class="desc">
+                                        الرجاء استخدام هذا النموذج عبر الإنترنت (يتطلب تسجيل الدخول)                                    </span>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="down" aria-label="complaint steps section">
+                            <h4 class="title" aria-label="complaint steps title">
+                                يرجى اتباع الخطوات التالية لتقديم شكواك                            </h4>
+                            <div class="desc">
+                                1. كتابة شكواك بشكل واضح.                                <br>
+                                2. قدم معلومات الاتصال الخاصة بك ، بما في ذلك: رقم الهاتف والبريد الإلكتروني والعنوان                                <br>
+                                3. إرفاق نسخة من بطاقة الهوية الخاصة بك (للقطريين) ونسخة من جواز السفر أو التأشيرة (لغير القطريين) وإرفاق أي مستندات لدعم شكواك                                <br>
+                                4. أرسل شكواك عبر الفاكس أو البريد الإلكتروني                            </div>
+                        </div>
+                    </div>
+                    <div class="right" id="location" aria-label="map location section">
+                        <div id="map" aria-label="map location"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- social-channels -->
+    <section class="social-channels" aria-label="social channels section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6" aria-label="social media channels section">
+                    <div class="inner">
+                        <div class="info">
+                            <h3 class="title fix-white-contrast" aria-label="social media channels title">
+                                قنوات التواصل الاجتماعى                            </h3>
+                        </div>
+                        <div class="social" aria-label="social media section">
+                            <a href="https://www.facebook.com/QatarNhrc"
+                               class="link" target="_blank" aria-label="facebook link">
+                                <i class="fab fa-facebook"></i>
+                                Facebook
+                            </a>
+                            <a href="https://www.twitter.com/QatarNhrc" class="link"
+                               target="_blank" aria-label="twitter link">
+
+                                <i class="fab fa-x" style="font-size:large"></i>
+                                Twitter
+
+                            </a>
+                            <a href="https://www.instagram.com/QatarNhrc"
+                               class="link" target="_blank" aria-label="instagram link">
+                                <i class="fab fa-instagram"></i>
+                                Instagram
+                            </a>
+
+                            <a href="https://www.youtube.com/NhrcQatar"
+                               class="link" target="_blank" aria-label="youtube link">
+                                <i class="fab fa-youtube"></i>
+                                Youtube
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3" aria-label="Browse the library section">
+                    <div class="inner">
+                        <div class="info">
+                            <h3 class="title" aria-label="library Browse title">
+                                المكتبة                            </h3>
+                        </div>
+                        <div class="social">
+                                                            <a href="https://nhrc.portal.medad.com/en/" target="_blank"
+                                   class="link" aria-label="browse our library">
+                                    <i class="fas fa-book-open"></i>
+                                    تصفح المكتبة                                </a>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3" aria-label="important links">
+                    <div class="inner">
+                        <div class="info">
+                            <h3 class="title" aria-label="important links title">
+                                روابط مهمة                            </h3>
+                        </div>
+                        <div class="social">
+                                                            <a href="https://www.nhrc-qa.org/important-links" class="link">
+                                    <i class="fas fa-link"></i>
+                                    عرض الروابط                                </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- events-section -->
+    <section class="home-options pt pb" aria-label="events section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-4 mb-3" aria-label="upcoming events">
+                    <div class="home-option">
+                        <div class="head no-border">
+                            <h4 class="title" id="upcoming_events" aria-label="upcoming events title">
+                                الاحداث القادمة                            </h4>
+                        </div>
+                        <div class="body pt-0">
+                            <div id="datepicker"></div>
+                        </div>
+                        <div class="foot">
+                            <a href="https://www.nhrc-qa.org/events"
+                               class="theme-btn primary-btn w-100"
+                               aria-labelledby="upcoming_events" aria-label="upcoming events calendar">
+                                استعراض الاحداث                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="col-12 col-md-4 mb-3" aria-label="our newsletter">
+                    <div class="home-option">
+                        <div class="head">
+                            <h4 class="title" aria-label="our newsletter title">
+                                نشرتنا الإخبارية                            </h4>
+                        </div>
+                        <form action="https://www.nhrc-qa.org/subscribe-email" method="post">
+                            <input type="hidden" name="_token" value="0pxqpg9xZA7ZCgdnVzUWuLQhUgN0XenhBYvbvIAf" autocomplete="off">                            <div class="body opinion">
+                                <h4 class="title" aria-label="subscribe email massage title">
+                                    أدخل عنوان بريدك الإلكتروني وسنطلعك على أحدث إصداراتنا                                </h4>
+                                <p class="subtitle fix-contrast">
+                                    نحن لا نشارك بريدك الالكتروني مع أي شخص                                </p>
+                                <div class="d-flex align-items-center">
+                                    <span class="ml-2 mr-2">
+                                        <i class="far fa-envelope"></i>
+                                    </span>
+                                   <label class="w-100" for="newsletter">
+                                     <span class="d-none">email</span>
+                                     <input type="text" class="newsletter w-100" aria-label="subscribe email massage input" name="email" id="newsletter" placeholder="أدخل عنوان بريدك الالكتروني">
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="foot">
+                                <button class="theme-btn primary-btn w-100 btnSubmitForm" aria-label="massage submit">
+                                    اشترك في النشرة الإخبارية                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    </section>
+    <!--========================================= end content ==================================================-->
+
+    <!--========================= start footer ===============================-->
+<footer class="footer">
+    <div class="container">
+        <div class="inner">
+            <div class="left">
+                <a href="https://www.nhrc-qa.org" class="logo">
+                    <img src="https://www.nhrc-qa.org/front/img/static/logo.svg"  width="127px" height="60px" alt="الصفحه الرئيسية لحقوق الانسان الدولية">
+                </a>
+                <p class="copy">
+                    جميع حقوق الطبع محفوظة للجنة الوطنية لحقوق الإنسان © 2026
+                    <br>
+
+                </p>
+            </div>
+            <div class="right">
+                <div class="social">
+                    <a href="https://www.facebook.com/QatarNhrc" target="_blank"><i class="fab fa-facebook"></i><span style="display:none;">facebook</span></a>
+                    <a href="https://www.twitter.com/QatarNhrc" target="_blank"><i class="fab fa-twitter"></i><span style="display:none;">twitter</span></a>
+                    <a href="https://www.instagram.com/QatarNhrc" target="_blank"><i class="fab fa-instagram"></i><span style="display:none;">instagram</span></a>
+                </div>
+                <div class="links">
+                    <a href="https://www.nhrc-qa.org/terms" class="link" target="_blank">
+                        الشروط والأحكام
+                    </a>
+                    <a href="https://www.nhrc-qa.org/privacy" class="link" target="_blank">
+                        سياسة الخصوصية
+                    </a>
+                </div>
+                <a href="" class="link back-top">
+                    الرجوع إلى الأعلى
+                    <i class="fas fa-arrow-up"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--========================== end footer =================================-->
+
+
+
+
+    <script src="https://www.nhrc-qa.org/front/js/jquery-3.5.1.min.js"></script>
+      <script type="text/javascript">
+        document.getElementById("link_div").onclick = function () {
+            location.href = "";
+        };
+    </script>
+    <script>
+        if ($('.header').length > 0 && $('.main-slider').length == 0) {
+            if ($(window).width() > 1024) {
+                $('body').css('padding-top', 106)
+            } else {
+                $('body').css('padding-top', 70)
+            }
+        }
+        let storedHomeContrast = localStorage.getItem("bodyContrast");
+
+        $('body').addClass(storedHomeContrast ? storedHomeContrast : 'light-theme')
+        if (storedHomeContrast == 'dark-theme') {
+            $('.header .switch input, .switch-sec .contrast input').prop('checked', true);
+        }
+    </script>
+    <script src="https://www.nhrc-qa.org/front/js/popper.min.js"></script>
+    <script
+            src="https://www.nhrc-qa.org/front/js/bootstrap-rtl.min.js">
+    </script>
+    <script src="https://www.nhrc-qa.org/front/js/owl.carousel.min.js"></script>
+    <script src="https://www.nhrc-qa.org/front/js/jquery-ui.min.js"></script>
+    <script src="https://www.nhrc-qa.org/front/build/js/intlTelInput.min.js"></script>
+    <script src="https://www.nhrc-qa.org/front/js/main2.js"></script>
+    <script src="https://www.nhrc-qa.org/front/js/main.js"></script>
+    <script src="https://www.nhrc-qa.org/front/js/custom.js"></script>
+    <script src="https://www.nhrc-qa.org/front/js/toastr.min.js"></script>
+    <script>
+        $(document).ready(function() {
+                            $('.switch_lang').prop('checked', true)
+                        $(document).on('change', '.switch_lang', function() {
+                if ($('.switch_lang').is(':checked')) {
+                    location.href = 'https://www.nhrc-qa.org/lang?localization=ar'
+                } else {
+                    location.href = 'https://www.nhrc-qa.org/lang?localization=en'
+                }
+            })
+        })
+    </script>
+        <script>
+        // return comming date with new format if dateText undefined return today
+        function getNewDateFormat(dateText) {
+            if (dateText) {
+                var date = new Date(dateText);
+            } else {
+                var date = new Date();
+            }
+
+            var month = date.getMonth() + 1;
+            var year = date.getFullYear();
+            var day = date.getDate();
+
+            // Change format of date
+            return day + "-" + month + '-' + year;
+
+        }
+
+        var _dates = `11-11-2026`
+        var events_dates = _dates.split(',');
+
+        //const date = new Date();
+        $("#datepicker").datepicker({
+            beforeShowDay: function(dateText) {
+                var newDate = getNewDateFormat(dateText);
+
+                // Check date in Array
+                if (jQuery.inArray(newDate, events_dates) !== -1) {
+                    return [true, "booked", ""];
+                }
+
+                return [true];
+            },
+            onSelect: function(dateText, inst) {
+                var newDate = getNewDateFormat(dateText);
+                var _datesIDs = `30`
+                var events_IDs = _datesIDs.split(',');
+                if ($.inArray(newDate, events_dates) !== -1) {
+                    window.location = `https://www.nhrc-qa.org/events/`+ events_IDs[events_dates.indexOf(newDate)];
+                }
+            }
+        });
+    </script>
+    <script>
+        function initMap() {
+            var latlng = new google.maps.LatLng("25.27816121250249",
+                "51.528005699814116");
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: latlng,
+                zoom: 16,
+                disableDefaultUI: true,
+                animation: google.maps.Animation.DROP,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            });
+
+            var marker = new google.maps.Marker({
+                position: latlng,
+                map: map,
+            });
+        }
+    </script>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSdyoCcCy9NtfBk8vqS5EO3A_hlu17fIk&callback=initMap">
+    </script>
+    </body>
+
+</html>
+
+
+
+
+

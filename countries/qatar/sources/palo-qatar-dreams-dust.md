@@ -1,0 +1,219 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/bangladesh-in-world-media/g2avbvucw7)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/bangladesh-in-world-media/g2avbvucw7)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Bangladesh in World Media](https://en.prothomalo.com/bangladesh/bangladesh-in-world-media)
+
+## FIFA World Cup 2022
+
+# Dreams of wealth turn to dust for Bangladeshi workers in Qatar
+
+AFP
+
+Sreepur, Gazipur
+
+Updated: 17 Nov 2022, 05: 55
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fbangladesh-in-world-media%2Fg2avbvucw7)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fbangladesh-in-world-media%2Fg2avbvucw7&text=Dreams%20of%20wealth%20turn%20to%20dust%20for%20Bangladeshi%20workers%20in%20Qatar&hashtags=)
+
+In this photograph taken on 6 November, 2022, former migrant worker Babu Sheikh, who lost his sight after a work accident at a construction site in Qatar, walks at his house in SadarpurAFP
+
+Hundreds of thousands of people have flocked to Qatar in recent years to work on giant construction schemes as it boosted its infrastructure ahead of the World Cup.
+
+Drawn by the prospect of making more money than they could ever hope to at home, migrants make up nearly 90 per cent of Qatar's population of 2.8 million.
+
+Most come from the Bangladesh, India and the Philippines. Others hail from African nations including Kenya and Uganda.
+
+The Gulf state has faced harsh criticism over deaths, injuries, and unpaid wages of foreign labourers.
+
+Qatar has introduced major reforms to improve workers' safety and punish employers who violate the rules.
+
+It has also paid hundreds of millions of dollars in compensation for lost wages and injuries.
+
+Rights groups have said the changes were too little, too late.
+
+Ahead of the world's biggest single-sport tournament, AFP spoke to migrant workers in India, Bangladesh, and the Philippines, as well as their families, about their experiences.
+
+Here are their stories:
+
+## The debtor
+
+The gleaming marble in Doha's Khalifa International Stadium, which will host eight World Cup matches, was in part installed by Bangladeshi mason Aupon Mir.
+
+But he returned home from four years in Qatar with nothing to show for his efforts after being fleeced of his pay, he told AFP.
+
+"What a beautiful stadium it is! It is unbelievably beautiful," he said.
+
+"But the sad part is, even being a part of this gigantic beautiful construction, we did not get paid. My foreman took away our time sheets and withdrew all our money and fled."
+
+Mir left his home in Sreepur in rural western Bangladesh and went to Qatar in 2016, hoping to make enough money to transform his life.
+
+He paid for his trip with his savings and loans from his father and other relatives.
+
+He worked for an Indian construction company in seven of the World Cup stadiums, but because he did not have a valid work permit, he was arrested in 2020 and deported.
+
+In this photograph taken on 6 November, 2022, Aupon Mir, who migrated to Qatar to work in construction, makes tea at his tea stall in Sreepur
+
+AFP
+
+"I spent nearly 700,000 taka (\$7,000) to go to Qatar to change my fate," the 33-year-old said. I returned home with 25 rials (\$8). This is how much Qatar has contributed in my life," the father of two said in front of his home and tea shop.
+
+"I dreamt of building a better house, living a better life, sending my children to better schools. But none of those hopes came true. I only gathered a pile of debts and now carry the burden around."
+
+> I spent nearly 700,000 taka (\$7,000) to go to Qatar to change my fate," the 33-year-old said. I returned home with 25 rials (\$8). This is how much Qatar has contributed in my life
+
+Aupon Mir, a Bangladeshi migrant worker
+
+Mir said he would wake in the early hours to take the bus to his construction site, then work for 10 hours in scorching heat.
+
+He would go for days without food when he had no money, and at times slept on the beach when he could not pay his rent.
+
+"We sweated from top-to-toe every day at work," he said.
+
+"Blood has turned into sweat in our bodies to construct the stadiums. But only for us to be kicked out without money and honour."
+
+## The blind man
+
+On a construction site near Doha, Bangladeshi worker Babu Sheikh fell four metres (14 feet) to the ground and fractured his skull.
+
+He spent four months in a coma in hospital. When he came to, he was blind.
+
+"When I regained consciousness, I could not see anything," he said. "I asked my brother whether the place was dark. He told me it was well-lit. I could not believe that I lost my sight.
+
+"I had no idea of how four months passed by and how it all happened."
+
+It took 18 months before he could leave hospital, with the bills paid by his family.
+
+> All I want is my eyesight back. I want to see my son. Does he have my complexion? Does he look like me?
+
+Babu Sheikh, a migrant worker who lost his eyesight after a work accident in Qatar
+
+Qatari authorities prosecuted his employer but the case was dismissed and he never received any compensation, he said.
+
+Most of the time, Sheikh sits quietly in the front yard of his home. On some days, his son leads him to the nearby bazaar or to the tea stall in the late afternoon where he chats with his childhood friends.
+
+In this photograph taken on 6 November, 2022, former migrant worker Babu Sheikh, who lost his sight after a work accident at a construction site in Qatar, sits at the front yard of his home in Sadarpur
+
+AFP
+
+"I don't want to live like this," he said. "I want to work. I can't sleep throughout the night being worried about the future of my family, my son and my wife."
+
+The boy, now five, was born while he was in Qatar, and Sheikh has never seen him.
+
+"All I want is my eyesight back. I want to see my son. Does he have my complexion? Does he look like me?"
+
+## The bereaved son
+
+Migrant work is often a family affair, and Sravan Kalladi and his father Ramesh both worked for the same company building roads leading to the World Cup stadiums.
+
+But only Sravan returned home to India. After yet another long shift, his 50-year-old father collapsed and died at the camp where they lived.
+
+"The day my father died, his chest pain started when he was working," Kalladi said.
+
+"We took him to the hospital... I told the doctors to try again and again to revive him," the 29-year-old said, his voice breaking.
+
+The working conditions were "not good at all," he said, describing long working hours and underpaid overtime.
+
+His father, a driver, "used to go to work at 3:00 am and come back at 11.00pm," he said.
+
+They were among six to eight people living in a room at the camp where "even four people could not sit properly if they wanted to," he added.
+
+"We had to work in extreme weather conditions and the food we got was not good."
+
+The duo went to the Gulf state hoping to build a better life for themselves.
+
+But after taking his father's body back home to the southern Indian state of Telangana, Kalladi never returned to Qatar.
+
+With only a month's salary as compensation from the company, an unfinished house now lies as a stark reminder of the family's unfulfilled dreams and crippled finances.
+
+In the six years since, Kalladi has helped other families bring back the remains of relatives who have died in Gulf countries -- but he is now looking to return to make enough money to finish the house.
+
+"We are the company's when we are alive but not when we are dead," he said. "We trusted them and that's why we left our homes and went to work for them, and they let us down."
+
+## The builder
+
+The labourers who flock to Qatar and other Gulf countries do so in hope of earning far more money than they could ever aspire to in their home countries. For some, those dreams come true.
+
+Abu Yusuf -- who asked for his real name not to be used as he plans to return to the World Cup host next month -- paid 680,000 Bangladeshi taka for his trip to Qatar.
+
+There, he worked as a driver, construction worker and welder, including several months on a fire station within a stadium.
+
+He made around \$700 a month and was "more than happy" with his pay, he said.
+
+"They are good people. Many Qataris helped me."
+
+One contractor stole some of his wages but the 32-year-old still praised Qatari authorities.
+
+He returned last month to the central Bangladesh town of Sadarpur, where he was raised by a single mother in extreme poverty.
+
+Now he is building a two-storey home and has bought a sleek new motorbike with his Qatari earnings, while covering the expenses of seven people including his mother and the family of his blind brother.
+
+A die-hard Argentina supporter, he wishes he could watch a match at the Al-Bayt stadium, where he worked as a welder.
+
+"It is a beautiful stadium. I felt proud I was among the workers who built the stadium. I wish I could watch a match there," he said, adding that he hopes to work for another 10 years in Qatar.
+
+"I was treated well," he said.
+
+## Hungry and homesick
+
+When Filipino construction worker Jovanie Cario's employer stopped paying him in 2018, he deliberately got arrested so he could eat a free meal in jail.
+
+Cario, who spent six years in Qatar, said it was a common tactic among Filipino migrants struggling to survive.
+
+Hungry workers would show outdated documents to Qatari police, who would lock them up for a night, feed them and then let them go.
+
+"In the facility there was so much food," Cario, 49, told AFP.
+
+"When we were released and returned to our accommodation our stomachs were full."
+
+Cario arrived in Qatar in 2012, two years after the country was named as the World Cup host.
+
+He installed glass and aluminium panels on several construction projects, including the 80,000-seat Lusail Stadium near Doha, where the final will be held on 18 December.
+
+The monthly pay in Qatar was more than his basic salary as a Nestle products salesman in the Philippines -- and it went up the longer he was there.
+
+This photo taken on 15 November, 2022 shows Jovanie Cario, a Filipino construction worker who previously worked in Qatar, showing a mobile phone photograph of himself while at work in the Gulf state, during an interview with AFP in Manila
+
+AFP
+
+He wired most of it back to his family in the central province of Negros Occidental.
+
+But there were times when his wages were delayed for months and he was forced to borrow money from friends, relatives, or loan sharks.
+
+At the beginning of 2018, Cario's pay suddenly stopped again. He kept working, oblivious to the fact his employer had gone bankrupt.
+
+After three months, Cario managed to get compensation from Qatar's labour ministry, and he flew home.
+
+In the six years he was away, Cario said he saw his two children once. Despite being homesick, he wanted to save more money before returning to the Philippines.
+
+"The body is yearning to go home, but the pocket isn't deep enough," he said.
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Bangladesh in World Media](https://en.prothomalo.com/bangladesh/bangladesh-in-world-media)
+
+- [Human Rights Violation](/topic/Human-Rights-Violation)
+- [Qatar](/topic/Qatar)
+- [FIFA World Cup 2022](/topic/FIFA--World-Cup-2022)
+- [Human rights](/topic/Human-rights)
+- [Amnesty International](/topic/amnesty-international)

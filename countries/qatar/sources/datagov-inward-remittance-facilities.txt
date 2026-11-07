@@ -1,0 +1,108 @@
+
+
+Inward remittance facilities data | Bangladesh Open Data
+
+Skip to main content
+
+Home
+
+Topics
+
+Datasets
+
+Stories
+
+About Us
+
+English
+
+Bengali
+
+Business
+
+Economy
+
+Environment
+
+Local-Govt
+
+Society
+
+Technology
+
+Transport
+
+Education
+
+Finance
+
+Health
+
+Infrastructure
+
+Agriculture
+
+ Home
+Home
+Datasets
+Inward remittance facilities data
+
+      License    
+
+    License Not Specified  
+
+      Other Access    
+
+    The information on this page (the dataset metadata) is also available in these formats.
+ MetaData on JSON
+
+      Social    
+
+ Twitter
+
+ LinkedIn
+
+ Reddit
+
+ Google+
+
+ Facebook
+
+      Inward remittance facilities data    
+
+Economy
+You can find Foreign Banks, Exchange Houses and Subsidiaries / Overseas Branches of Bangladeshi Scheduled Banks which have drawing arrangements / remittance facilities with different banks in Bangladesh.
+
+Data and Resources
+Inward remittance facilities data
+249
+ Go to resource
+
+remittance
+Remittance Facilities
+NRB
+Dataset Info
+These fields are compatible with 
+DCAT
+, an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
+Field
+Value
+
+Modified Date
+2018-05-09
+Release Date
+2018-05-09
+Identifier
+fbd06fc1-5167-4881-afcc-9a35a501053a
+License
+License Not Specified
+
+Terms of Use
+FAQs
+Privacy Policy
+Site Map
+
+          Planning and Implementation: PMO, Cabinet, BCC,BBS and SID
+
+          Technical Support:
+

@@ -1,0 +1,1451 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>	<!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+    <title>
+        SDG Tracker:
+        PublicReports    </title>
+    <link href="/favicon.ico" type="image/x-icon" rel="icon"/><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+        	<link rel="stylesheet" href="/css/themes/bootstrap.min.css"/>		
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	
+	<link rel="stylesheet" href="/css/themes/animate.min.css"/>	<link rel="stylesheet" href="/css/themes/select2.min.css"/>
+	<link rel="stylesheet" href="/css/themes/dataTables.bootstrap.min.css"/>	<link rel="stylesheet" href="/css/themes/buttons.bootstrap.min.css"/>	<link rel="stylesheet" href="/css/themes/fixedHeader.bootstrap.min.css"/>	<link rel="stylesheet" href="/css/themes/responsive.bootstrap.min.css"/>    <link rel="stylesheet" href="/css/themes/scroller.bootstrap.min.css"/>    <link rel="stylesheet" href="/css/themes/jquery-ui.css"/>	<!--?= $this->Html->css('themes/bootstrap.colorpickersliders.css') ?-->
+	
+	<link rel="stylesheet" type="text/css"
+              href="/assets/global/plugins/bootstrap-datepicker/css/datepicker.css"/>
+    <link rel="stylesheet" type="text/css"
+              href="/assets/global/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/assets/global/plugins/bootstrap-toastr/toastr.min.css"/>
+	
+	<link rel="stylesheet" type="text/css"
+              href="/assets/global/plugins/jstree/dist/themes/default/style.min.css"/>
+			  
+    <link rel="stylesheet" href="/css/themes/theme.custom.min.css"/>    <link rel="stylesheet" href="/css/custom/authstyle.css"/>	<link rel="stylesheet" href="/css/themes/custom.css"/>	<link rel="stylesheet" href="/css/custom/common.css"/>
+
+	<script src="/js/themes/jquery.min.js"></script>	<script src="/js/themes/select2.full.min.js"></script>
+            	
+	<!--[if lt IE 9]>
+	<script src="../assets/js/ie8-responsive-file-warning.js"></script>
+	<![endif]-->
+	 
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+    <script type="text/javascript">
+        var base_url = 'http://admin.sdg.gov.bd/';
+		var js_wb_root = '/';
+		var sdgSystemLogin = '';
+    </script>
+
+    <style type="text/css">
+    	
+		#ajaxLoader {
+    		display: none;
+			position: fixed;
+			left: 0;
+			top: 0;
+			width: 100%;
+		    height: 100%;
+			z-index: 999999;	
+			background: url(http://admin.sdg.gov.bd/img/static/portal/Preloader_3.gif) center no-repeat;
+        }
+
+         .btn-modified{
+                font-weight: bold;
+                padding: 2px 5px;
+            }
+
+            .table > tbody > tr > td{
+                padding:4px 0px 2px 6px;
+            }
+
+            .nav-pills > li{
+                margin:3px 0px 3px 0px;
+            }
+
+            .nav > li > a{
+                padding: 5px 10px 6px;
+            }
+
+            .x_title{padding: 0px;margin-bottom:0px;}
+
+            h4{color: #fff}
+
+            .pull-left{
+               margin:2px 0px 0px 0px;
+            }
+
+    </style>
+</head>
+<body class="nav-md adminbd">
+	<div id="ajaxLoader" style="display: block;"></div>
+
+    <div class="container body ">
+	   <div class="main_container">
+<!--
+    <nav class="top-bar expanded" data-topbar role="navigation">
+        <ul class="title-area large-3 medium-4 columns">
+            <li class="name">
+                <h1><a href=""><? //= $this->fetch('title') ?></a></h1>
+            </li>
+        </ul>
+        <div class="top-bar-section">
+            <ul class="right">
+                <li><a target="_blank" href="http://book.cakephp.org/3.0/"> FF Documentation</a></li>
+                <li><a target="_blank" href="http://api.cakephp.org/3.0/">API </a></li>
+            </ul>
+        </div>
+    </nav>
+    <//? //= $this->Flash->render() ?>
+    <div class="container clearfix">
+        <//? //= $this->fetch('content') ?>
+    </div>
+    <footer>
+    </footer>
+	-->
+		
+		
+		<!-- top navigation -->
+		
+<style type="text/css">
+	body {
+		background:none;
+	}
+	.nav-md .container.body .col-md-3.left_col {
+		top: 68px;
+	}
+	.main_container .top_nav {
+		
+		margin-left:0px;
+	}
+	.adlogo {
+		float:left;
+		padding:6px 6px;
+		/*background:#fff;*/
+	}
+
+	.adlogo {
+		width: 82%;
+	}
+
+		.nav_menu {
+		background: #683090 none repeat scroll 0 0;
+
+	}
+
+	.main_container .top_nav {
+		left: 0;
+		position: fixed;
+		right: 0;
+		z-index: 900;
+	}
+
+	.nav.navbar-nav > li > a {
+		color: #000 !important;
+	}
+	.toggle a i {
+		color:#fff;
+	}
+
+	.left_col {
+		background: #fff;
+	}
+	.nav.side-menu > li.current-page, .nav.side-menu > li.active {
+		border-right: 0px solid #1abb9c;
+	}
+	.nav-md .container.body .col-md-3.left_col {
+		position: relative;
+	}
+
+
+	.page-top .top-menu .nav .menu-toggler {
+		display: none;
+	}
+
+
+	.nav.side-menu > li.active > a {
+		background: #ccc none repeat scroll 0 0;
+		color:#000;
+	
+	}
+	.nav.side-menu > li > a:hover {
+		color: #434343 !important;
+		background:#f7f7f7;
+	}
+	.nav.side-menu > li.active > a {
+		text-shadow:none;
+		font-size: 14px;
+		background:#f7f7f7;
+		box-shadow:none;
+		border-bottom:1px #e3e3e3 solid;
+	}
+
+	.main_menu span.fa {
+		color: #000;
+
+	}
+	.nav > li:hover, .nav > li:focus {
+		
+	}
+	.nav-md ul.nav.child_menu li:hover {
+		background:#f7f7f7;
+		color: #000 !important;
+	}
+	.nav-md ul.nav.child_menu li a:hover {
+		
+		color: #000 !important;
+	}
+	.nav.child_menu > li > a {
+		color: #000;
+
+	}
+	.nav li li.current-page a {
+		color: #000;
+	}
+
+	.nav.side-menu > li > a, .nav.child_menu > li > a {
+		color: #000;
+		font-weight: 500;
+	}
+	.x_title {
+		background:#8cc63e;
+	}
+	.x_title h3 {
+		color:#fff;
+	}
+	.panel_toolbox > li > a {
+		color:#fff;
+	}
+	.top_nav .navbar-right {
+
+		width: 46%;
+	}
+	.user-profile img {
+		border:3px #fff solid;
+	}
+	.nav-sm .adlogo {
+		display:none;
+	}
+	.adlogo { 
+		padding:15px 0px 10px 10px;
+	}
+	.adlogo a img {
+		width:80%;
+	}
+	.top_nav .nav > li > a:focus, .top_nav .nav > li > a:hover, .top_nav .nav .open > a, .top_nav .nav .open > a:focus, .top_nav .nav .open > a:hover {
+		background:none;
+	}
+	.nav_menu nav .navbar-right li .user-profile {
+		color:#fff !important;
+	}
+	.topbar-leftbr {
+		width:282px; 
+		float:left
+	}
+
+	.barbtn {
+		float: left;
+		margin-top: 15px;
+		display: none;
+	}
+	.barbtn .fa {
+		font-size: 30px;
+		color: #fff;
+	}
+	.notification-hearder {
+		background: #ccc none repeat scroll 0 0;
+		overflow: hidden;
+		padding: 0;
+		position: fixed;
+		width: 21%;
+		z-index: 999;
+		padding: 5px 9px;
+
+	}
+	#menu1 {
+		overflow: hidden;
+	}
+
+	#menu1 li {
+		position: relative;
+		
+	}
+	#menu1 .notification-hearder li {
+		float: left !important;
+		width: 50% !important;
+		padding:0px  10px;
+		margin: 0px;
+		background: none;
+	}
+
+	@media (max-width: 1038px) { 
+	.topbar-leftbr {
+		float: left;
+		width: 233px;
+	}
+	}
+
+
+	@media (max-width: 991px) { 
+		.nav-sm .container.body .right_col {
+		padding-top: 75px !important;
+	}
+	.adlogo {
+		width: 75%;
+	}
+	.topbar-leftbr {
+		width: 206px;
+	}
+	.toggle a {
+		padding: 0 6px;
+	}
+	.nav_menu .toggle {
+		float: right;
+	}
+	.nav_menu .toggle {
+		max-width: 36px;
+	}
+	.adlogo a img {
+		width: 100%;
+	}
+	.btn-group-md .btn {
+		padding-right:3px; 
+		padding-left:3px; 
+		font-size: 12px;
+	}
+	.top-menu .nav > li > a {
+		display: block;
+		padding: 13px 5px 12px;
+		}
+	}
+
+	@media (max-width: 800px) { 
+
+			.barbtn {
+		display:block;
+		cursor: pointer;
+	}
+	.topbar-dt-entry {
+		display: none !important;
+	}
+	.top-menu {
+		position: relative;
+	}
+	.page-top .top-menu .nav .active{
+		display: block !important;
+		position: absolute;
+		right: 0px;
+		top: 40px;
+	}
+	.btn-group-md .btn {
+		width: 78%;
+	}
+	}
+	@media (max-width: 768px) { 
+		.page-top .top-menu ul {
+			float: none;
+		}
+		.adlogo {
+			display:none;
+		}
+		.page-top .top-menu .nav {
+			margin: 0px;
+		}
+		.nav-sm .container.body .right_col {
+		padding-top: 75px !important;
+	} 
+
+	.page-top {
+		width: 47%;
+	}
+	.topbar-leftbr {
+		width:235px; 
+		float:left
+	}
+	.nav_menu .toggle {
+		float: left;
+		padding-left: 20px;
+	}
+	.btn-group-md .btn {
+		width: 78%;
+	}
+	}
+	@media (max-width: 510px) { 
+		.page-top {
+		width: 60%;
+	}
+	.topbar-leftbr {
+		width:82px; 
+	}
+	}
+
+	@media (max-width:461px) { 
+		.nav-md .container.body .right_col {
+			top: 20px; 
+		}
+	}
+
+	@media (max-width:443px) { 
+		.page-top {
+		width: 67%;
+	}
+	}
+
+	.unread-notification {
+		background-color: #FF0000 !important;
+	}
+
+	li.unread-notification a {
+		color: #FFFFFF !important;
+	}
+
+	li.unread-notification a:hover {
+		color: #000000 !important;
+	}
+
+	.read-notification {
+		background-color: #F6F6F7 !important;
+	}
+
+	.user-title-control{
+		float: left; color: white; margin: 20px 0px 0px 10px; font-size: 16px;
+	}
+	/*@media only screen and (min-width: 1200px) {
+	    .user-title-control {
+	       float: left; color: white; margin: 20px 0px 0px 10px; font-size: 14px;
+	    }
+	}*/
+
+	@media only screen and (max-width: 960px) {
+	    .user-title-control {
+	       float: left; color: white; margin: 20px 0px 0px -60px; font-size: 13px;
+	    }
+
+	    .top-menu .nav > li > a{
+	    	margin: 0px 4px 0px 0px
+	    }
+
+	    .barbtn{
+	    	margin-right: 4px;
+	    }
+
+	    .username{
+	    	display: none;
+	    }
+	}
+</style>
+
+
+
+<script>
+$(document).ready(function(){
+    $(".barbtn").click(function(){
+        $(".topbar-dt-entry").toggleClass("active");
+    });
+});
+</script>
+
+
+
+ <!-- top navigation -->
+<div class="top_nav">
+  <div class="nav_menu">
+	<nav>
+		<div class="topbar-leftbr">
+			
+		<div class="adlogo">
+		<div class="nav-sm">
+			<a href="/dashboard"><img src="/img/static/sdg-logo-3.png" alt="Blank Image"/></a>
+		</div>
+		</div>
+	  <div class="nav toggle">
+		<a id="menu_toggle"><i class="fa fa-bars"></i></a>
+	  </div>
+	  </div>
+	  
+	  <div class="page-top">
+	  		<div class="user-title-control" >
+
+			  	&nbsp;&nbsp;&nbsp;
+			</div>
+            <div class="top-menu">
+            	<div class="barbtn"><i class="fa fa-bars"></i></div>
+                <ul class="nav navbar-nav text-right">
+
+                    <li class="topbar-dt-entry">
+                       
+                        <div class="clearfix">
+                            <div class="btn-toolbar margin-bottom-10">
+                                <div class="btn-group btn-group-md  ">
+                                                                    </div>
+                            </div>
+                        </div>
+                    </li> 
+					
+					&nbsp;&nbsp;&nbsp;
+					
+					
+				                    <!--                    <li class="dropdown dropdown-extended quick-sidebar-toggler">
+                                                <i class="icon-logout"></i>
+                                        </li>-->
+                    <!-- END USER LOGIN DROPDOWN -->
+                    <li>
+                        <!-- BEGIN RESPONSIVE MENU TOGGLER -->
+                        <a href="javascript:;" class="menu-toggler responsive-toggler" data-toggle="collapse" data-target=".navbar-collapse">
+                        </a>
+                        <!-- END RESPONSIVE MENU TOGGLER -->
+                    </li>
+                </ul>
+            </div>
+            <!-- END PAGE TOP -->
+        </div>
+	<!--
+	  <ul class="nav navbar-nav navbar-right">
+		<li class="">
+		  <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+			<img src="images/img.png" alt=""> Mr AH
+			<span class=" fa fa-angle-down"></span>
+		  </a>
+		  <ul class="dropdown-menu dropdown-usermenu pull-right">
+			
+			<li><a href="javascript:;"> Profile</a></li>
+			
+			<li>
+			  <a href="javascript:;">
+				<span class="badge bg-red pull-right">50%</span>
+				<span>Settings</span>
+			  </a>
+			</li>
+			<li><a href="javascript:;">Help</a></li>
+			
+			<li><a href="Users/logout"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+		  </ul>
+		</li>
+	-->
+		<!--li role="presentation" class="dropdown">
+		  <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
+			<!--<i class="fa fa-envelope-o"></i>
+			<span class="badge bg-green">6</span>
+		  </a>
+		  -->
+		  <!--
+		  <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
+			<li>
+			  <a>
+				<span class="image">
+				
+								</span>
+				<span>
+				  <span>John Smith</span>
+				  <span class="time">3 mins ago</span>
+				</span>
+				<span class="message">
+				  Film festivals used to be do-or-die moments for movie makers. They were where...
+				</span>
+			  </a>
+			</li>
+			<li>
+			  <a>
+				<span class="image">
+								</span>
+				<span>
+				  <span>John Smith</span>
+				  <span class="time">3 mins ago</span>
+				</span>
+				<span class="message">
+				  Film festivals used to be do-or-die moments for movie makers. They were where...
+				</span>
+			  </a>
+			</li>
+			<li>
+			  <a>
+				<span class="image"></span>
+				<span>
+				  <span>John Smith</span>
+				  <span class="time">3 mins ago</span>
+				</span>
+				<span class="message">
+				  Film festivals used to be do-or-die moments for movie makers. They were where...
+				</span>
+			  </a>
+			</li>
+			<li>
+			  <a>
+				<span class="image"></span>
+				<span>
+				  <span>John Smith</span>
+				  <span class="time">3 mins ago</span>
+				</span>
+				<span class="message">
+				  Film festivals used to be do-or-die moments for movie makers. They were where...
+				</span>
+			  </a>
+			</li>
+			<li>
+			  <div class="text-center">
+				<a>
+				  <strong>See All Alerts</strong>
+				  <i class="fa fa-angle-right"></i>
+				</a>
+			  </div>
+			</li>
+		  </ul>
+		 
+		</li>
+	  </ul>
+ -->
+	  <!--<div style="font-size:24px;line-height:26px;float:right;margin: 0;padding-top: 16px;">SDGMS
+	  </div>-->
+
+	</nav>
+  </div>
+</div>
+<!-- /top navigation -->
+
+<script type="text/javascript">
+                                                    
+var TOB_BAR_MANAGER =
+		{
+			loadModuleWiseMenu: function (module_id) {
+				PROJAPOTI.ajaxSubmitDataCallback('/ModuleMenus/loadModuleWiseMenu', {"module_id": module_id}, 'json', function (response) {
+					window.location = '/sdgTracker';
+				});
+			},
+			switchLanguage: function (lang_code) {
+				PROJAPOTI.ajaxSubmitDataCallback('/ModuleMenus/switchLanguage', {"lang_code": lang_code}, 'json', function (response) {
+
+					window.location = '/';
+				});
+			}
+		};
+</script>		<!-- /top navigation -->
+		<!-- side bar -->
+		
+<!-- BEGIN SIDEBAR -->
+<style type="text/css">
+
+	.nav-md .container.body .col-md-3.left_col {
+		
+		min-height: auto;
+	}
+	.nav-sm .nav.side-menu li a {
+        font-size: 13px;
+
+    }
+
+    .profile_info span {
+        color: #000;
+    }
+    .profile_info h2 {
+        color: #000;
+    }
+    .menu_section h3 {
+        color:#383838;
+        text-shadow:none;
+    }
+    #sidebar-menu {
+        padding-bottom:20px;
+    }
+
+    .x_panel {
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:0px;
+    }
+    .x_content {
+        padding-left:17px;
+        padding-right:17px;
+    }
+
+    .nav.side-menu > li.active > a {
+        background: #e9ffcc!important;
+    }
+
+    .nav-md .container.body .col-md-3.left_col {
+        display:inline-;
+    }
+    .nav-md ul.nav.child_menu li:hover {
+        background: #e9ffcc!important;
+    }
+
+    .nav.side-menu > li > a:hover {
+        background: #e9ffcc!important;
+    }
+
+
+
+
+
+
+</style>
+
+<div class="col-md-3 left_col">
+  <div class="left_col scroll-view">
+	<div class="clearfix"></div>
+
+	<!-- sidebar menu -->
+	<div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+	  <div class="menu_section">
+
+		<ul class="nav side-menu"> 
+			
+			
+                                <li>
+                        <a>
+                            <i class="fa fa-bars" aria-hidden="true"></i>
+                            <strong> <span class="title"> Reports</span></strong>	
+                            <span class="fa fa-chevron-down"></span>
+                        </a>
+                        <ul class="nav child_menu" style="display: block;">
+                            <li> <small>Reports</small> </li>
+
+                                                        <li>
+                                <a href="/publicReports/reportingStatus" target="_self">
+                                    <span class="title">Data Status Report</span>
+                                    <span class="arrow"></span>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/publicReports/ministryWiseSummary" target="_self">
+                                    <span class="title">Ministry wise Report</span>
+                                    <span class="arrow"></span>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/publicReports/sourceWiseSummary" target="_self">
+                                    <span class="title">Source wise Report</span>
+                                    <span class="arrow"></span>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </li>
+                    
+                    		</ul>
+
+	  </div>
+
+	</div>
+	<!-- /sidebar menu -->
+
+	<!-- /menu footer buttons -->
+  </div>
+</div>		<!-- /side bar -->
+	    
+
+		
+		<!-- page content -->
+		<div class="right_col" role="main">
+ 
+    <div class="">
+		
+		<!--
+        <div class="page-title">
+            <div class="title_left">
+                <h3>
+                    Plain Page <small>Page subtile </small>
+                </h3>
+            </div>
+ 
+            <div class="title_right">
+                <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+                    <div class="input-group">
+                        <input class="form-control" placeholder="Search for..." type="text">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">Go!</button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+		-->
+        <div id="flashMessage">
+		          </div>
+        <div class="row">
+            				
+            <!-- content starts here -->
+            <link rel="stylesheet" href="/css/reports/extra1.css"/>
+<style>
+.chartdiv {
+    width: 100%;
+    height: 600px;
+    font-size: 12px;
+    border:1px solid #ddd;
+ }
+</style>
+<div id="main-content" class="container reportingstatus" style="padding:20px">
+<style>
+th {
+    background-color: #3F7E44;
+    color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:hover {background-color: #95BAE4 /*#FFFF00 #f5f5f5;*/}
+</style>
+
+<div class="goals index large-9 medium-8 columns content">
+
+
+		
+	<hr/>
+	<br/>
+
+	<div class="row">
+
+		<div class="col-md-6 col-sm-12 col-xs-12">
+			<table border="1" cellpadding="0" cellspacing="0" class="table table-bordered" width="100%">
+				<tr class=""  align="left">
+					<th scope="row">Indicator </th>
+					<th colspan="2">
+					   					   					   10.7.1 - Recruitment cost borne by employee as a  percentage of yearly income earned in country of  destination					   
+					</th>
+				</tr>
+				<tr align="left">
+					<th scope="row">Goal</th>
+					<td colspan="2">
+						10 - Reduce inequality within and among countries					</td>
+				</tr>
+				<tr align="left">
+					<th scope="row">Target</th>
+					<td colspan="2">
+						10.7 - Facilitate orderly, safe, regular and responsible  migration and mobility of people, including through the  implementation of planned and well-managed migration  policies					</td>
+				</tr>
+				<tr align="left">
+					<th scope="row">Unit</th>
+					<td colspan="2">
+					   %					</td>
+				</tr>
+					<tr align="left">
+						<th scope="row">Short Title</th>
+						<td colspan="2">						</td>
+					</tr>
+					<!-- <tr class = 'icon_img'>
+						<th scope="row">Lead Ministry</th>
+						<td colspan="2">
+												</td>
+					</tr>
+					<tr class='icon_img'>
+						<th scope="row">Co-Lead Ministry</th>
+						<td colspan="2">
+						   						</td>
+					</tr>   
+						<tr>
+						<th scope="row">Associate Ministry</th>
+							<td colspan="2">
+															</td>
+						</tr>  --> 
+					<tr align="left">
+						<th scope="row">Weightage</th>
+						<td colspan="2">12</td>
+					</tr>
+					<!--
+					<tr align="left">
+						<th scope="row"></th>
+						<td colspan="2"></td>
+					</tr>
+					-->
+			</table>
+		</div>
+		<div class="col-md-6 col-sm-12 col-xs-12">
+				<link rel="stylesheet" href="/css/../assets/global/plugins/amcharts/export.css"/>		<script src="/js/../assets/global/plugins/amcharts/amcharts.js"></script>		<script src="/js/../assets/global/plugins/amcharts/serial.js"></script>		<script src="/js/../assets/global/plugins/amcharts/export.min.js"></script>		<script src="/js/../assets/global/plugins/amcharts/light.js"></script>			<div id="chartdiv117" class="chartdiv"></div>
+			<script type="text/javascript">
+				var chart = AmCharts.makeChart("chartdiv117", {
+				"hideCredits":true,
+				"type": "serial",
+				"theme": "light",
+				"categoryField": "year",
+				"rotate": true,
+				"startDuration": 1,
+				"categoryAxis": {
+					"gridPosition": "start",
+					"position": "left"
+				},
+				"trendLines": [],
+				"graphs": [
+					{
+						"balloonText": "Target:[[value]]",
+						"fillAlphas": 0.8,
+						"id": "AmGraph-1",
+						"lineAlpha": 0.2,
+						"title": "Target",
+						"type": "column",
+						"valueField": "target"
+					},
+					{
+						"balloonText": "Status:[[value]]",
+						"fillAlphas": 0.8,
+						"fillColors": "#2664D6",
+						"id": "AmGraph-2",
+						"lineAlpha": 0.2,
+						"title": "Status",
+						"type": "column",
+						"valueField": "status"
+					}
+				],
+				"guides": [],
+				"valueAxes": [
+					{
+						"id": "ValueAxis-1",
+						"position": "top",
+						"axisAlpha": 0
+					}
+				],
+				"allLabels": [],
+				"balloon": {},
+				"titles": [],
+				"dataProvider": [{"year":"2023","target":null,"status":"11.7000"},{"year":"2022","target":null,"status":"14.6000"},{"year":"2020","target":null,"status":"17.6000"}],
+				/*[
+					{
+						"year": 2005,
+						"target": 23.5,
+						"status": 18.1
+					},
+					{
+						"year": 2006,
+						"target": 26.2,
+						"status": 22.8
+					},
+					{
+						"year": 2007,
+						"target": 30.1,
+						"status": 23.9
+					},
+					{
+						"year": 2008,
+						"target": 29.5,
+						"status": 25.1
+					},
+					{
+						"year": 2009,
+						"target": 24.6,
+						"status": 25
+					}
+				],*/
+				"export": {
+					"enabled": true
+				 }
+				});
+			</script>
+				</div>
+	</div>
+	
+	<div class="row">
+		<br/>
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<table class="table">
+				<colgroup>
+					<col width="20%">
+					<col width="20%">
+					<col width="20%">
+					<col width="20%">
+					<col width="20%">
+				</colgroup>
+				<thead>
+					<tr>
+						<th>Year</th>
+						<th>Disaggregation</th>
+						<th>Source</th>
+						<th style="text-align: right;">Target Value</th>
+						<th style="text-align: right;">Status Value/Description</th>
+					</tr>
+				</thead>
+				<tbody>
+												<tr>
+								<td>2023</td>
+								<td>Total</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">11.7000 </td>
+							</tr>
+													<tr>
+								<td>2023</td>
+								<td>Male</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">11.8000 </td>
+							</tr>
+													<tr>
+								<td>2023</td>
+								<td>Female</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">10.0000 </td>
+							</tr>
+													<tr>
+								<td>2022</td>
+								<td>Total</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">14.6000 </td>
+							</tr>
+													<tr>
+								<td>2022</td>
+								<td>Male</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">15.1000 </td>
+							</tr>
+													<tr>
+								<td>2022</td>
+								<td>Female</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">7.8000 </td>
+							</tr>
+													<tr>
+								<td>2022</td>
+								<td>Age 15-24 years</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">18.4000 </td>
+							</tr>
+													<tr>
+								<td>2022</td>
+								<td>Age 25-64 years</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">14.1000 </td>
+							</tr>
+													<tr>
+								<td>2022</td>
+								<td>Age 65 years and older</td>
+								<td>QLFS, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">9.7000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Total</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">17.6000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Male</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">19.1000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Female</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">5.6000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>15-24</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">18.4000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>25-34</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">18.5000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>35-44</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">16.4000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>45-54</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">16.2000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>55-64</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">9.5000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Type of Education->No class passed</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">14.8000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Type of Education->Primary</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">17.8000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Type of Education->Secondary</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">18.4000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Type of Education->Higher Secondary or diploma</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">16.5000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Type of Education->Tertiary</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">12.8000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Type of Education->Others</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">19.5000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Skills type->Skilled</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">14.5000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Skills type->Un-skilled</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">20.2000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Skills type->Domestic worker</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">7.1000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Country of destination->Saudi Arabia</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">19.7000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Country of destination->Oman</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">16.1000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Country of destination->Malaysia</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">16.9000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Country of destination->Qatar</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">18.1000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Country of destination->Singapore</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">15.1000 </td>
+							</tr>
+													<tr>
+								<td>2020</td>
+								<td>Country of destination->Other countries</td>
+								<td>Cost of Migration Survey, BBS,  SID</td>
+								<td style="text-align: right;"></td>
+								<td style="text-align: right;">16.7000 </td>
+							</tr>
+										</tbody>
+			</table>
+						<div class="cancel_button">
+				  				  				  <a href="http://admin.sdg.gov.bd/reports/goal-wise/10" class="btn btn-primary"> Back </a>
+				  			</div>
+					</div>
+	</div>
+
+ 
+ </div>	
+</div>            <!-- content ends here -->
+
+        </div>
+    </div>
+</div>		<!-- /page content -->
+		
+		
+        </div>
+		
+    </div>
+	<!-- footer content -->
+        <style type="text/css">
+	/*footer {
+    background: #8cc63e;
+	margin-left:0px;
+
+}
+footer .container {
+    width: 1170px;
+}
+footer {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	padding-bottom:0px;
+	z-index: 99999;
+	margin-left: 0px!important;
+}
+*/
+
+</style>
+
+
+<!-- footer content .auth-form-box .auth-btn
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 text-left">				
+				<p><a href="http://a2i.pmo.gov.bd">Powered by a2i</a></p>
+			</div>
+			<div class="col-md-6 text-right">				
+				<p><a href="http://iecl-bd.net">Developed by IECL</a></p>			
+			</div>
+		</div>
+  	</div>
+</footer>
+<!-- /footer content -->
+
+<section class="auth-foter admin-ft">
+		<div class="<!-- mkcontainer --> container-fluid">
+			<div class="row">
+				<div class="col-md-7 auth-footer-left">
+					<p>Copyrights © 2025 All Rights Reserved</p>
+					<p class="auth-foot-left-p">a2i, ICT Division</p>
+				</div>
+				<div class="col-md-1 auth-footer-left ">					
+				</div>
+				<div class="col-md-4 auth-footer-right d">	
+									
+						<a href="">
+						<img src="/img/static/auth-foot-a2i-logo.png" alt=""/>						</a>
+					<p class="auth-foot-right-p text-right">
+					
+						<img src="/img/static/republic_logo-01.svg" alt=""/>					
+					</p>						
+						
+				</div>
+			</div>		
+	</section>        <!-- /footer content -->
+	
+	
+	
+	<script src="/js/themes/bootstrap.min.js"></script>	<script src="/js/themes/jquery-ui.min.js"></script>	<script src="/js/themes/icheck.min.js"></script>	<script src="/js/themes/bootstrap-wysiwyg.min.js"></script>	<script src="/js/themes/prettify.js"></script>	<script src="/js/themes/switchery.min.js"></script>	
+	<script src="/js/themes/jquery.autocomplete.min.js"></script>
+	<script src="/js/themes/jquery.dataTables.min.js"></script>	<script src="/js/themes/dataTables.bootstrap.min.js"></script>	<script src="/js/themes/dataTables.buttons.min.js"></script>	<script src="/js/themes/buttons.bootstrap.min.js"></script>	<script src="/js/themes/buttons.flash.min.js"></script>	<script src="/js/themes/buttons.html5.min.js"></script>	<script src="/js/themes/buttons.print.min.js"></script>    <script src="/js/themes/pdfmake.min.js"></script>		
+
+	<script src="/assets/global/plugins/jquery.blockui.min.js"
+        type="text/javascript"></script>
+		
+	<script type="text/javascript" src="/assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+	<script src="/assets/global/plugins/bootstrap-toastr/toastr.min.js"></script>
+    <script src="/assets/admin/pages/scripts/ui-toastr.js"></script>
+    <script type="text/javascript"
+        src="/assets/global/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script>
+	<script src="/assets/global/scripts/metronic.js" type="text/javascript"></script>
+	<script src="/assets/global/plugins/jstree/dist/jstree.min.js"></script>
+	<script src="/assets/admin/projapoti/scripts/projapoti_ajax.js"
+        type="text/javascript"></script>
+	<script src="/assets/admin/projapoti/scripts/layer_setup.js"
+        type="text/javascript"></script>
+	<script src="/assets/admin/projapoti/scripts/office_setup.js" type="text/javascript"></script>
+	<script src="/assets/admin/projapoti/scripts/umupdate.js" type="text/javascript"></script>
+	
+		
+    <script src="/js/themes/theme.custom.min.js"></script>    
+    <script src="/js/themes/custom.js"></script>	<script src="/js/common.js"></script>	<script src="/assets/admin/sdg/scripts/sdg_tracker_ajax.js"></script>	<script src="/js/zuk.js"></script>	<script src="/assets/admin/sdg/scripts/common.js"></script>
+    <script type="text/javascript">
+        var $loading = $('#ajaxLoader');
+
+		$(document).ready(function() { 
+            if ($loading != undefined && $loading != null) {
+                $loading.hide();
+            }
+            
+			$(".select2_single").select2({ 
+	            allowClear: true
+	        });
+
+	        $('.single-notification').on('click', function(event) {
+                event.preventDefault();
+
+                var url = $(this).attr('href');
+
+                var _this = $(this);
+
+                loadModal(url);
+
+                _this.parent('li').css('background-color', '#F6F6F7');
+                _this.parent('li').removeClass('unread-notification');
+                _this.parent('li').addClass('read-notification');
+
+                var total = $('.unread-notification').length;
+
+                $('.notific-count').text(total);
+
+                // $.ajax({
+                //     url: url,
+                //     type: 'get',
+                //     dataType: 'json',
+                //     beforeSend: function() {
+
+                //     }
+                // }).done(function(response) {
+                //     alertify.alert('Notification', response.message, function(){ alertify.success('Ok'); });
+
+                //     _this.parent('li').remove();
+
+                //     var total = $('.single-notification').length;
+
+                //     $('.notific-count').text(total);
+
+                //     //console.log(response.message);
+                // }).fail(function(response) {
+
+                // });
+            });
+
+            $('.mark-all-as-read').on('click', function(event) { 
+                event.preventDefault();                
+
+                var url = $(this).attr('href');
+
+                $.ajax({
+                    url: url,
+                    type: 'get',
+                    dataType: 'json',
+                    beforeSend: function() {
+
+                    }
+                }).done(function(response, statusTxt, xhr) {
+                    console.log(response);
+                }).fail(function(response) {
+
+                });
+
+                $('.unread-notification').each(function() {
+                    $(this).css("background-color", "#E4E9F2");
+                    $(this).removeClass('unread-notification');
+                    $(this).addClass('read-notification');
+
+                    //console.log($(this).find('a.single-notification').attr('data-notification-id'));
+                });
+
+
+                
+
+
+                var total = $('.unread-notification').length;
+
+                $('.notific-count').text(total);
+
+            });
+			
+			if(sdgSystemLogin != 11) {
+				widget.init({ 
+					"widgetColor": "light",       
+					"widgetSize": "20px",
+					"appPermissionURL" : base_url + 'getWidgetData'
+				});
+			}
+			
+		});
+
+                        
+            $(document).ajaxStart(function () {
+                $loading.show();
+            }).ajaxStop(function () {
+                $loading.hide();
+            });
+
+        
+		//CKEDITOR.config.font_names = 'Arial/Arial, Helvetica, sans-serif;' + 'Comic Sans MS/Comic Sans MS, cursive;' + 'Courier New/Courier New, Courier, monospace;' + 'Georgia/Georgia, serif;' + 'Lucida Sans Unicode/Lucida Sans Unicode, Lucida Grande, sans-serif;' + 'Nikosh;' + 'NikoshBAN;' + 'open_sansregular;' + 'robotoregular;' + 'Tahoma/Tahoma, Geneva, sans-serif;' + 'Times New Roman/Times New Roman, Times, serif;' + 'Trebuchet MS/Trebuchet MS, Helvetica, sans-serif;' + 'Verdana/Verdana, Geneva, sans-serif';
+
+
+		function loadModal(url = '')
+        {
+            if (url != '' && url != undefined) {
+
+                $.ajax({
+                    method: "GET",
+                    url: url,
+                    cache: false
+                }).done(function(response) {
+                    $('#commonModal').modal({
+                      'show': true,
+                      'backdrop': 'static',
+                      'keyboard': false
+                    });
+                    
+                    $("div#common-modal-body").html(response);
+                });
+            }
+        }
+		
+		$('.datepicker').datepicker({
+			format: 'dd-mm-yyyy',
+			//startDate: '-3d'
+		});
+		
+		
+
+	</script>
+
+	<!-- Modal -->
+    <div id="commonModal" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title" id="common-modal-title"></h4>
+                </div>
+
+                <div class="modal-body" id="common-modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>E-Tourist Visa</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="qatar visas,visas,doha visas,qatar,doha,qatar airways,qatar " />
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" sizes="16x16">
+  <link href="css/select2.css" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css">
+ <script type="text/JavaScript" src="js/jquery.min.js"></script>
+  <!--[if IE 9]>
+    <script src="js/media.match.min.js"></script>
+  <![endif]-->
+
+</head>
+
+<body>
+    
+    <div id="preloader"></div>
+    
+<div id="main-wrapper">
+
+   <header id="header">
+    <div class="header-top-bar">
+      <div class="container">
+        <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 pull-right">
+            <div class="toprightDiv pull-right">
+            
+                <ul class="list-inline">
+                   <li><a href="../qatarvisasar">العربية</a></li>
+                   <li class="vdevider remover">&nbsp;</li>
+                   <li class="social-menu"><a href="https://www.facebook.com/moigovqatar.en" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+                   <li class="social-menu"><a href="https://twitter.com/moi_qataren" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+                   <li class="social-menu"><a href="https://www.youtube.com/user/moigovqa" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                   <li class="social-menu"><a href="https://www.instagram.com/moi_qatar/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                   
+                   <li class="links"><i class="fa fa-chevron-right"></i> <a href="https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices/visitvisaextension"  target="_blank">Visa-Free Stay Extension</a></li>
+                    
+                   <li class="links"><i class="fa fa-chevron-right"></i> <a href="https://qatar.vfsevisa.com/Qatar-Online/QROnline/VisaCategoryAndPricingDetails/DisplayVisaCategoryAndPricingDetails/#no-back" target="_blank">e-Visas</a></li>
+                   <li class="links"><i class="fa fa-chevron-right"></i> <a href="faq.html">FAQs</a></li>
+                   <li class="links-last"><i class="fa fa-chevron-right"></i> <a href="help.html">Help</a></li>
+                </ul>
+            
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-2 col-xs-12 pull-left padnone topdiv">
+            <div class="header-call-to-action">
+                <div class="header-logo">
+                                       <a target="_blank" href="https://portal.moi.gov.qa/wps/portal/MOIInternet/MOIHome/!ut/p/a1/dc1BC4JAEAXgX-PVGTVEum0GrasRoaDtJVbYVslcWzcP_fpMulVze4_vMcChAt6LqVXCtroX3Tvz8MzoNsEgx3SXhQGSPNvHfnxExBByYaAEvrCERCvqoZdGFKOZFazYHGIf0fsA_HMEgQFXna6XlyfS10GkgBt5kUYa92HmurF2GNcOOjhoY0Xn3nTrKj25d-Hgr1WjRwvVF4bhyugzk-UL705q1w!!/dl5/d5/L0lHSkovd0RNQUprQUVnQSEhLzRKU0UvZW5fVVM!/"><img src="img/logo_en.png">
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-search slider-home">
+      <div class="header-search-bar">
+        <form action="visadetails.html" method="GET">  
+          <div class="container">
+            
+            <div class="search-value">
+                
+           
+               
+                <a href="index.html" class="toggle-btn btn-lang"><i class="fa fa-home"></i></a> 
+                
+                <div class="select-location">
+                  <select  name="ctr" data-placeholder="-Select Country-" id="country">
+                      <option value="-1">-Select Nationality-</option>
+
+                  </select>
+                </div>
+                <div class="category-search">
+                  <select name="res" data-placeholder="-Select Residence-" id="res">
+                    <option value="-1">-Select Residence-</option>
+
+                  </select>
+                </div>
+               
+                <script type="text/JavaScript">
+                    
+                    var $country = $('#country');
+                    var $res = $('#res');
+                    $.getJSON('data/countrydata.json', function(data){
+                       $country.html('');
+                       $res.html('');
+                       $country.append('<option value="-1">-Select Nationality-</option>');
+                       $res.append('<option value="-1">-Select Residence-</option>');
+                       $.each(data.countries, function(key, val){ 
+                        $country.append('<option value="' + val.id + '" id="' + val.id + '">' + val.name + '</option>');
+                        $res.append('<option value="' + val.id + '" id="' + val.id + '">' + val.name + '</option>');
+                      })
+                      
+                    });
+                    
+                </script>
+            
+            </div>
+              
+             <button class="search-btn" type="submit"><i class="fa fa-search"></i></button>
+             
+             </form>
+          </div> 
+       
+      </div> 
+
+        <div class="page-heading about-us-heading">
+            <span></span> 
+                <div class="container">
+                
+                <h1>FAQs</h1>
+                
+               </div>
+            </div> 
+        </div> 
+        
+    </div> 
+
+  </header> 
+
+  <div id="page-content">
+    <div class="container bg">
+      <div class="row">
+        <div class="col-md-9 col-md-push-3">
+          <div class="page-content company-profile">
+              <div class="company-text">
+                <h3>Tourist visas by hotels and approved travel agencies</h3>
+                    <p>This visa is granted to the hotels and travel agencies accredited by Qatar National Tourism Council.</p>
+                    <p><strong>Terms of submission:</strong></p>
+                    <p>Fill the application form and submitting it after signature by the concerned hotel.</p>
+                    <p>Attach a clear copy of the passport of the coming person and give the required details (name - date of birth - passport number - expiry date - sex - nationality).</p>
+                    <p>A copy of valid registration of the company.</p>
+                    <p>A copy of the hotel reservation request.</p>
+                    <p>A fee (QR 100) by credit card.</p>
+                    <p>The application form (attached copy) shall be submitted by the hotel manager or his representative.</p>
+                
+                <h3>Online Tourist Visa</h3>
+                    <p>Individuals not eligible for visa-free entry or ETA can apply for a Tourist Visa online.&nbsp; Visitors to Qatar travelling on board any airline may apply for a Tourist Visa through the&nbsp;<a href="https://qatar.vfsevisa.com/Qatar-Online/QROnline/VisaCategoryAndPricingDetails/DisplayVisaCategoryAndPricingDetails/#no-back" target="_blank">Qatar Visa Service</a>.&nbsp; The cost of the Qatar Tourist Visa is QAR 100.&nbsp; Tourist Visa holders are allowed to stay in Qatar for up to 30 days on a single trip.</p>
+                    <p>To submit a request for a Qatar Tourist Visa, visitors are required to:</p>
+                    <ul>
+                        <li>Complete an online form.</li>
+                        <li>Upload required documents (including passport scans &amp; personal photographs).</li>
+                        <li>Provide an airline booking reservation.</li>
+                        <li>Make an online payment using a valid Visa or Mastercard.</li>
+                    </ul>
+                    <p>Once the application is complete, visitors will be contacted via e-mail with a response to their visa application(<em>All visas are approved and issued at the sole discretion of Qatar&#39;s Ministry of Interior</em>)</p>
+                    <p><a href="https://qatar.vfsevisa.com/Qatar-Online/QROnline/VisaCategoryAndPricingDetails/DisplayVisaCategoryAndPricingDetails/#no-back" target="_blank">Click here</a>&nbsp;to be redirected to the Qatar Visa Service website.</p>
+                    <p><strong>Note:&nbsp;</strong>Visitors travelling to Qatar with <strong>Qatar Airways</strong>, may select &#39;<strong><em>Apply for a visa</em></strong>&#39; after logging in to &#39;<strong><em>My Trips</em></strong>&#39; on the airline&#39;s website. This automatically directs them to the Qatar Visa Service website, where they can start the Qatar Tourist Visa application process for themselves and any accompanying travellers under the same booking.</p>
+                </div>
+            </div> 
+
+        </div> 
+
+        <div class="col-md-3 col-md-pull-9 category-toggle">
+          <button><i class="fa fa-briefcase"></i></button>
+          <div class="page-sidebar company-sidebar">
+
+
+            <div class="contact-details">
+              <h2>For more details:</h2>
+
+              <ul class="list-unstyled"> 
+                
+                <li><a href="e-touristvisa.html">E-Tourist Visa</a></li>
+                <li><a href="https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices/visitvisaextension/!ut/p/a1/jZBbb4JAEIX_EXuWi1keR1phuYpaofvSYIJIi6ylxP79ojG-2XbeJvm-zDnDFCuZ6qtz21Rjq_uqu-xq9iYpkTBtxNlWeKCFQ3a6iuDnzgS8TkDqgribIRLLVICCxXYlkyWHi__5koQdcPBIBJj89SbczDPPBPhffsHUFbknyCA46DmSPLfI8n1-A8LgScJaI_LjmTWdiBPP9HLgDvzW4ZbiccgrgAdDYCFTTad300cLjyldhmr-felO_c4SDVNDva-HejAO-mtk5UkPY9UZR90ajT4bnxU7HV9KtPLd-SjoByEtGEw!/dl5/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzRKVXBDQSEhL2VuX1VT/" target="_blank">Visa-Free Stay Extension</a></li>
+                                
+                <li><a href="https://qatar.vfsevisa.com/Qatar-Online/QROnline/VisaCategoryAndPricingDetails/DisplayVisaCategoryAndPricingDetails/#no-back" target="_blank">e-Visas</a></li>
+                   
+                <li><a href="https://www.visitqatar.qa" target="_blank">Tourism in Qatar</a></li>
+                
+             
+              </ul>
+              
+             
+              
+            </div>
+
+          </div> 
+        </div> 
+      </div> 
+
+    </div> 
+
+  </div> 
+    
+   
+
+  <footer id="footer">
+    <div class="copyright">
+      <div class="container">
+        <p>All Rights Reserved © 2018 Ministry of Interior.</p>
+
+        <ul class="list-inline">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices/visitvisaextension/!ut/p/a1/jZBbb4JAEIX_EXuWi1keR1phuYpaofvSYIJIi6ylxP79ojG-2XbeJvm-zDnDFCuZ6qtz21Rjq_uqu-xq9iYpkTBtxNlWeKCFQ3a6iuDnzgS8TkDqgribIRLLVICCxXYlkyWHi__5koQdcPBIBJj89SbczDPPBPhffsHUFbknyCA46DmSPLfI8n1-A8LgScJaI_LjmTWdiBPP9HLgDvzW4ZbiccgrgAdDYCFTTad300cLjyldhmr-felO_c4SDVNDva-HejAO-mtk5UkPY9UZR90ajT4bnxU7HV9KtPLd-SjoByEtGEw!/dl5/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzRKVXBDQSEhL2VuX1VT/" target="_blank">Visa-Free Stay Extension</a></li>
+                <li><a href="https://qatar.vfsevisa.com/Qatar-Online/QROnline/VisaCategoryAndPricingDetails/DisplayVisaCategoryAndPricingDetails/#no-back" target="_blank">e-Visas</a></li>
+                <li id="listLink"></li>                
+                <li><a href="https://www.visitqatar.qa" target="_blank">Tourism in Qatar</a></li>              
+        </ul>
+      </div> 
+    </div> 
+  </footer> 
+
+</div> 
+
+
+<script src="js/jquery.min1.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.js"></script>
+<script src="js/select2.min.js"></script>
+<script src="js/scripts.js"></script>
+
+</body>
+</html>

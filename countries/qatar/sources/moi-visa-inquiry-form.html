@@ -1,0 +1,1648 @@
+<!DOCTYPE html>
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+<html lang="ar" dir="rtl"> 
+  
+
+   
+<head>
+<meta charset="UTF-8"> 
+
+
+
+ 
+<script type="text/javascript">  
+	var mandatoryVisaNum = 'الرجاء إدخال رقم السمة بشكل صحيح';
+	var mandatoryPassportNum = 'الرجاء ادخال رقم جواز صحيح ';
+	var mandatoryAppNum = 'الرجاء ادخال رقم طلب صحيح';
+ 	var mandatoryAppDate = 'الرجاء ادخال تاريخ الطلب ';
+ 	var mandatorySponsorId = 'الرجاء ادخال رقم  الكفيل';
+	var mandatoryNatCode = 'الرجاء اختيار الجنسية ';
+	var mandatoryCaptcha = 'الرجاء إدخال رمز التحقق'; 
+	var mandatoryAppRadioSelection = 'يرجى اختيار تاريخ الطلب أو رقم الكفيل ';
+</script>
+	
+		 
+	
+
+
+
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge" />
+	  
+  	<title>
+  		
+  			
+	  			تمديد السمة / دفع الغرامة
+	  		
+	  		
+  		
+  	</title>
+	
+	
+	 
+	<!-- MDB icon -->
+	<link rel="icon" href="/moipay/assets/img/fav.ico?v=2.0.2.2" type="image/x-icon" />
+	
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/moipay/assets/css/icons-rtl.min.css?v=2.0.2.2" />
+	  
+	<!-- MDB -->
+	
+		
+			<link rel="stylesheet" href="/moipay/assets/css/mdb.rtl.min.css?v=2.0.2.2" />
+		
+		
+	
+	<link rel="stylesheet" href="/moipay/assets/css/select2.min.css?v=2.0.2.2" />
+	
+	<!-- Added on 15Mar2026 -->
+	<link href="/moipay/assets/js/datepickerMOI/daterangepicker.css?v=2.0.2.2" rel="stylesheet" />
+	
+	<link rel="stylesheet" href="/moipay/assets/css/style.css?v=2.0.2.2" />
+	<script src="/moipay/assets/js/mdb.min.js?v=2.0.2.2"></script>
+	
+	<!-- JQuery-->
+	<script src="/moipay/assets/js/jquery.min.js?v=2.0.2.2"></script>
+	
+	<!-- Added on 15Mar2026 -->
+	<script type="text/javascript" src="/moipay/assets/js/popper.min.js?v=2.0.2.2"></script>
+	
+	<script src="/moipay/assets/lib/jquery-ui/jquery-ui.js?v=2.0.2.2"></script>
+	
+	<!-- Bootstrap core JavaScript -->
+	<script type="text/javascript" src="/moipay/assets/js/bootstrap.min.js?v=2.0.2.2"></script>
+	
+	<!-- Added on 15Mar2026 -->
+	
+	<script type="text/javascript" src="/moipay/assets/js/datepickerMOI/moment.min.js?v=2.0.2.2"></script>
+  	<script type="text/javascript" src="/moipay/assets/js/datepickerMOI/daterangepicker.min.js?v=2.0.2.2"></script>
+  
+	<!-- Common js-->
+	<script type="text/javascript" src="/moipay/assets/custom/js/common.js?v=2.0.2.2"></script>
+	
+	<!-- Sweet Alerts JS -->
+	<link href="/moipay/assets/lib/sweet-alert/sweet-alert.css?v=2.0.2.2" rel="stylesheet" type="text/css"/>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/moipay/assets/css/custom.css?v=2.0.2.2">
+	 
+	<script> 
+        var isArabicLang = 'true';
+    </script>
+	
+	<script src="/moipay/assets/lib/sweet-alert/sweet-alert.min.js?v=2.0.2.2"></script>
+	<script src="/moipay/assets/custom/js/app.js?v=2.0.2.2"></script>
+		<script src="/moipay/assets/custom/js/app-ar.js?v=2.0.2.2"></script>
+	
+	
+	<!-- Added on 06May2026 -->
+	<script type="text/javascript" src="/moipay/assets/custom/js/recaptcha.js?v=2.0.2.2"></script>
+	
+	<script type="text/javascript">  
+	var ctx = '/moipay';
+	var captchaAudio = 'الانتقال إلى الصوت';
+	var captchaImage = 'الانتقال إلى الصورة';
+ 	var error = '';
+ 	var invalidSession = '';
+ 	
+	function getCaptchaURL(){ 
+		var captchaURL = '/moipay/captchaImage?_=' + Math.random()+'&captcha_id=captcha_key_inquiry'
+		return captchaURL;
+	} 
+	function getCaptchaAudioURL(){ 
+		var captchaURL = '/moipay/captchaAudio?_=' + Math.random()+'&captcha_id=captcha_key_inquiry'
+		return captchaURL;
+	} 
+	
+	function getPaymentCaptchaURL(){
+			var captchaURL = '/moipay/captchaImage?_=' + Math.random()+'&captcha_id=captcha_key_payment'
+			return captchaURL;
+		} 
+	function getPaymentCaptchaAudioURL(){ 
+		var captchaURL = '/moipay/captchaAudio?_=' + Math.random()+'&captcha_id=captcha_key_payment'
+		return captchaURL;
+	} 
+</script>
+  
+</head>
+ 
+
+
+
+
+
+
+<body class="">
+<div id="loading"></div> 
+	<!-- Start your project here-->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <header>
+    <div class="top-nav">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="social-icons">
+              <a href="http://www.facebook.com/moigovqatar" class="text-reset">
+	            <i class="fab fa-facebook-f"></i>
+	          </a>
+	          <a href="http://twitter.com/moi_qatar" class="text-reset">
+	            <i class="fab fa-twitter"></i>
+	          </a>
+	          <a href="http://instagram.com/moi_qatar" class="text-reset">
+	            <i class="fab fa-instagram"></i>
+	          </a>
+	          <a href="http://www.youtube.com/user/moigovqa" class="text-reset">
+	            <i class="fab fa-youtube"></i>
+	          </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="mid-nav">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <a href="">
+             	<img class="main-logo" src="/moipay/assets/img/logo.svg?v=2.0.2.2"/>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <script type="text/javascript">
+    	var changeLocaleURL = "/moipay/changeLocale";
+    </script>
+
+	
+      
+      
+		
+		
+		
+       
+     
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg">
+      <!-- Container wrapper -->
+      <div class="container">
+        <!-- Toggle button -->
+        <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+          data-mdb-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <i class="fas fa-bars"></i>
+        </button>
+
+		<form id="frm-goto-inquiry-menu-link" action="/moipay/redirectToInquiryPage"  method="POST" autocomplete="off" >
+	        <input type="hidden" id="reqType"  name="reqType" value="L"/>
+	        <input type="hidden" id="viewId"  name="viewId" value="home"/>
+	        <input type="hidden" id="ovdRefType"  name="ovdRefType" value="3"/>
+
+	        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	          <!-- Navbar brand -->
+	          
+		          <a class="navbar-brand mt-2 mt-lg-0 " id="trafficViolationTab" href="#" onclick="redirectToInquiryPage('frm-goto-inquiry-menu-link');">
+		           الاستعلام عن المخالفات المرورية
+		          </a>
+	          
+	          
+		          <a class="navbar-brand mt-2 mt-lg-0 " id="overtstayTab" href="#" onclick="redirectToOVDInquiryPage('frm-goto-inquiry-menu-link');">
+		           الاستعلام عن المطالبات المالية
+		          </a>
+	          
+	          
+		          <a class="navbar-brand mt-2 mt-lg-0 selected" id="extendVisaTab" href="#" onclick="redirectToVisaPage('frm-goto-inquiry-menu-link');">
+		           خدمات التأشيرات
+		          </a>
+	          
+	        </div>
+	    </form>
+        <!-- Collapsible wrapper -->
+
+        <!-- Right elements -->  
+        <div class="d-flex align-items-center">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          	
+			
+	            <li class="nav-item">
+	              <a class="nav-link border  rounded waves-effect waves-effect pb-0" href="#" 
+	              		 onclick="changeLocale(); return false;" class="lang-chn">
+	              	<i class="fas fa-language"></i>
+	                English</a>
+	            </li>
+	            <input type="hidden" id="lang"  name="lang" value="en"/>
+             
+            
+            
+          </ul>
+        </div>
+        <!-- Right elements -->
+      </div>
+      <!-- Container wrapper -->
+    </nav>
+    <!-- Navbar -->
+  </header>
+   
+  
+	<div class="main-content bg-custom">
+		<!-- Header Banner -->
+ 		<div class="jumbotron text-left" id="sub-banner">
+      		<div class="container">
+	        <!-- Title -->
+	        <h1 class="h1-responsive"> الاستعلام عن السمات </h1>
+	        <!-- Subtitle -->
+	      </div>
+	    </div>
+    
+		<!-- Container--> 
+		<div class="container-fluid" id="bg-navy">
+      <div class="v-spacer2"></div>
+      <div class="container mt-2 pb-2">
+
+        <div class="form-sectionvisa">
+          
+          <div class="row">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8">
+                  <ul class="nav nav-pills nav-justified navtop">
+                    <li class="nav-item">
+
+                      <a class="nav-link active" href="#menu1" data-toggle="tab">
+                        <span class="indicator"></span>
+                        <img class="nacbill-icon" src="/moipay/assets/img/icons/icon3.svg" />
+                        استعلام وتمديد
+                        <p class="text-sm">خدمة الاستعلام وطباعة وتمديد السمات</p>
+                      </a>
+                    </li>
+
+                    <li class="nav-item">
+                      <a class="nav-link" href="#menu3" data-toggle="tab">
+                        <span class="indicator"></span>
+                        <img class="nacbill-icon" src="/moipay/assets/img/icons/icon2.svg" />
+                        المساعدة
+                        <p class="text-sm">المساعدة والتواصل</p>
+                      </a>
+                    </li>
+
+                  </ul>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8">
+                <form id="frmVisaInquiry" name="frmVisaInquiry" action="/moipay/visa/inquiry" method="post">
+                
+                  <div class="tab-content float-right vehicle-content">
+                    <div class="tab-pane active" role="tabpanel" id="menu1">
+                      <div class="row">
+                        <div class="col-md-12">
+                          <h5 class="inner-subtitle text-center"> استعلام عن السمات</h5>
+                        </div>
+                        <div class="col"></div>
+                        <div class="col-lg-9">
+
+                          <div class="row">
+                            <div class="col-md-6">
+                              <div class="mb-2">
+                                <label for="searchBy" class="form-label">استعلام بـ</label>
+                                <select id="searchBy" name="searchBy" class="form-select form-select-lg mb-3" aria-label="Large select example">
+                                  <option value="0" selected="selected">رقم الطلب</option>
+                                  <option value="1">رقم السمة</option>
+                                  <option value="2">رقم جواز السفر</option>
+                                </select>
+                              </div>
+                            </div>
+                            <div class="col-md-6">
+                              <div class="mb-2"  id="visaNoDiv">
+                                <label for="visaNumber" class="form-label">رقم السمة</label>
+                                <input id="visaNumber" name="visaNumber" class="form-control text-center number" type="text" value="" maxlength="12"/>
+                                
+                                <span class="errorMsg" id="visaNumberErrMsg"></span>
+                              </div>
+                            
+                              <div class="mb-2" id="passportNoDiv">
+                                <label for="passportNumber" class="form-label">رقم جواز السفر</label>
+                                <input id="passportNumber" name="passportNumber" type="text" class="form-control text-center" value="" maxlength="20"/>
+                                
+                                <span class="errorMsg" id="passportNumberErrMsg"></span>
+                              </div>
+                              
+                              <div class="mb-2" id="appNoDiv">
+                                <label for="applicationNumber" class="form-label">رقم الطلب</label>
+                                <input id="applicationNumber" name="applicationNumber" class="form-control text-center" type="text" value="" maxlength="12"/>
+                                
+                                <span class="errorMsg" id="applicationNumberErrMsg"></span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="fsselect" id="nationalityDiv">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <div class="mb-4">
+                                  <label for="natCode" class="form-label"> الجنسية </label>
+                                  <select id="natCode" name="natCode" class="js-states form-control form-select  selectcountries">
+                                  	<option value="">اختر الجنسية</option>
+                                    
+										<option data-code="aw" value="533">
+											 أروبا</option>
+											
+									
+										<option data-code="et" value="230">
+											 اثيوبيا</option>
+											
+									
+										<option data-code="az" value="031">
+											 اذريبيجان</option>
+											
+									
+										<option data-code="am" value="051">
+											 ارمينيا</option>
+											
+									
+										<option data-code="er" value="080">
+											 اريتريا</option>
+											
+									
+										<option data-code="es" value="724">
+											 اسبانيا</option>
+											
+									
+										<option data-code="au" value="036">
+											 استراليا</option>
+											
+									
+										<option data-code="ee" value="233">
+											 استونيا</option>
+											
+									
+										<option data-code="il" value="376">
+											 اسرائيل</option>
+											
+									
+										<option data-code="cf" value="140">
+											 افريقيا الوسطي</option>
+											
+									
+										<option data-code="af" value="004">
+											 افغانستان</option>
+											
+									
+										<option data-code="e" value="906">
+											 الاتحاد الاوروبي</option>
+											
+									
+										<option data-code="tf" value="260">
+											 الاراضي ج الفرنسية</option>
+											
+									
+										<option data-code="ar" value="032">
+											 الارجنتين</option>
+											
+									
+										<option data-code="jo" value="400">
+											 الاردن</option>
+											
+									
+										<option data-code="ec" value="218">
+											 الاكوادور</option>
+											
+									
+										<option data-code="ae" value="784">
+											 الامارات</option>
+											
+									
+										<option data-code="un" value="888">
+											 الامم المتحدة</option>
+											
+									
+										<option data-code="uy" value="858">
+											 الاوروجواي</option>
+											
+									
+										<option data-code="al" value="008">
+											 البانيا</option>
+											
+									
+										<option data-code="bh" value="048">
+											 البحرين</option>
+											
+									
+										<option data-code="br" value="076">
+											 البرازيل</option>
+											
+									
+										<option data-code="pt" value="620">
+											 البرتغال</option>
+											
+									
+										<option data-code="ba" value="544">
+											 البوسنة والهرسك</option>
+											
+									
+										<option data-code="me" value="499">
+											 الجبل الأسود</option>
+											
+									
+										<option data-code="dz" value="012">
+											 الجزائر</option>
+											
+									
+										<option data-code="dk" value="208">
+											 الدنمارك</option>
+											
+									
+										<option data-code="sv" value="222">
+											 السالفادور</option>
+											
+									
+										<option data-code="sa" value="682">
+											 السعودية</option>
+											
+									
+										<option data-code="sn" value="686">
+											 السنغال</option>
+											
+									
+										<option data-code="sd" value="736">
+											 السودان</option>
+											
+									
+										<option data-code="se" value="752">
+											 السويد</option>
+											
+									
+										<option data-code="so" value="706">
+											 الصومال</option>
+											
+									
+										<option data-code="iq" value="368">
+											 العراق</option>
+											
+									
+										<option data-code="ga" value="266">
+											 الغابون</option>
+											
+									
+										<option data-code="va" value="336">
+											 الفاتيكان</option>
+											
+									
+										<option data-code="ph" value="608">
+											 الفلبين</option>
+											
+									
+										<option data-code="cm" value="120">
+											 الكاميرون</option>
+											
+									
+										<option data-code="cd" value="180">
+											 الكونغو الديمقراطية</option>
+											
+									
+										<option data-code="kw" value="414">
+											 الكويت</option>
+											
+									
+										<option data-code="de" value="280">
+											 المانيا</option>
+											
+									
+										<option data-code="hu" value="348">
+											 المجر</option>
+											
+									
+										<option data-code="ma" value="504">
+											 المغرب</option>
+											
+									
+										<option data-code="mx" value="484">
+											 المكسيك</option>
+											
+									
+										<option data-code="at" value="040">
+											 النمسا</option>
+											
+									
+										<option data-code="no" value="578">
+											 النورويج</option>
+											
+									
+										<option data-code="ne" value="562">
+											 النيجر</option>
+											
+									
+										<option data-code="in" value="356">
+											 الهند</option>
+											
+									
+										<option data-code="us" value="840">
+											 الولايات المتحدة</option>
+											
+									
+										<option data-code="jp" value="392">
+											 اليابان</option>
+											
+									
+										<option data-code="ye" value="886">
+											 اليمن</option>
+											
+									
+										<option data-code="gr" value="300">
+											 اليونان</option>
+											
+									
+										<option data-code="aq" value="010">
+											 انتاركتيكا</option>
+											
+									
+										<option data-code="gray" value="996">
+											 انتربول</option>
+											
+									
+										<option data-code="ag" value="028">
+											 انتيجوا و باربودا</option>
+											
+									
+										<option data-code="ao" value="024">
+											 انجولا</option>
+											
+									
+										<option data-code="ad" value="020">
+											 اندورا</option>
+											
+									
+										<option data-code="id" value="360">
+											 اندونيسيا</option>
+											
+									
+										<option data-code="uz" value="860">
+											 اوزبكستان</option>
+											
+									
+										<option data-code="ug" value="800">
+											 اوغندا</option>
+											
+									
+										<option data-code="ua" value="804">
+											 اوكرانيا</option>
+											
+									
+										<option data-code="ir" value="364">
+											 ايران</option>
+											
+									
+										<option data-code="ie" value="372">
+											 ايرلندا</option>
+											
+									
+										<option data-code="is" value="352">
+											 ايسلاندا</option>
+											
+									
+										<option data-code="it" value="380">
+											 ايطاليا</option>
+											
+									
+										<option data-code="pg" value="598">
+											 بابوا نيو غينيا</option>
+											
+									
+										<option data-code="py" value="600">
+											 باراجواي</option>
+											
+									
+										<option data-code="bb" value="052">
+											 باربادوس </option>
+											
+									
+										<option data-code="pk" value="586">
+											 باكستان</option>
+											
+									
+										<option data-code="bm" value="060">
+											 برمودا</option>
+											
+									
+										<option data-code="bn" value="096">
+											 بروناي دار السلام</option>
+											
+									
+										<option data-code="bi" value="108">
+											 بروندي</option>
+											
+									
+										<option data-code="gb" value="826">
+											 بريطانيا</option>
+											
+									
+										<option data-code="d" value="903">
+											 بريطانيا وطني الخارج</option>
+											
+									
+										<option data-code="be" value="056">
+											 بلجيكا</option>
+											
+									
+										<option data-code="bg" value="100">
+											 بلغاريا</option>
+											
+									
+										<option data-code="bd" value="050">
+											 بنغلاديش </option>
+											
+									
+										<option data-code="pa" value="590">
+											 بنما</option>
+											
+									
+										<option data-code="bs" value="044">
+											 بهاماس </option>
+											
+									
+										<option data-code="bt" value="064">
+											 بوتان</option>
+											
+									
+										<option data-code="bw" value="072">
+											 بوتسوانا</option>
+											
+									
+										<option data-code="pr" value="630">
+											 بورتوريكو</option>
+											
+									
+										<option data-code="bf" value="854">
+											 بوركينافاسو</option>
+											
+									
+										<option data-code="pw" value="585">
+											 بولا</option>
+											
+									
+										<option data-code="pl" value="616">
+											 بولندا</option>
+											
+									
+										<option data-code="pf" value="258">
+											 بولنيسياالفرنسية</option>
+											
+									
+										<option data-code="bo" value="068">
+											 بوليفيا</option>
+											
+									
+										<option data-code="pn" value="612">
+											 بيتكيرن</option>
+											
+									
+										<option data-code="pe" value="604">
+											 بيرو</option>
+											
+									
+										<option data-code="by" value="112">
+											 بيلاروس </option>
+											
+									
+										<option data-code="bz" value="084">
+											 بيليز</option>
+											
+									
+										<option data-code="bj" value="204">
+											 بينين</option>
+											
+									
+										<option data-code="th" value="764">
+											 تايلاند</option>
+											
+									
+										<option data-code="t" value="901">
+											 تايوان ، الصين</option>
+											
+									
+										<option data-code="tm" value="795">
+											 تركمانستان</option>
+											
+									
+										<option data-code="tr" value="792">
+											 تركيا</option>
+											
+									
+										<option data-code="tt" value="780">
+											 ترينادا وتوباجو</option>
+											
+									
+										<option data-code="td" value="148">
+											 تشاد</option>
+											
+									
+										<option data-code="cz" value="200">
+											 تشيك</option>
+											
+									
+										<option data-code="cl" value="152">
+											 تشيلي</option>
+											
+									
+										<option data-code="tz" value="834">
+											 تنزانيا</option>
+											
+									
+										<option data-code="tg" value="768">
+											 توغو</option>
+											
+									
+										<option data-code="tv" value="798">
+											 توفالو</option>
+											
+									
+										<option data-code="to" value="776">
+											 تونجا</option>
+											
+									
+										<option data-code="tn" value="788">
+											 تونس </option>
+											
+									
+										<option data-code="tl" value="626">
+											 تيمور الشرقية</option>
+											
+									
+										<option data-code="cn" value="156">
+											 ج .الصين الشعبية</option>
+											
+									
+										<option data-code="gi" value="292">
+											 جبل طارق</option>
+											
+									
+										<option data-code="gd" value="308">
+											 جرينادا</option>
+											
+									
+										<option data-code="gl" value="304">
+											 جرينلند</option>
+											
+									
+										<option data-code="gray" value="830">
+											 جزر القنال الانجليزي</option>
+											
+									
+										<option data-code="mv" value="462">
+											 جزر المالديف</option>
+											
+									
+										<option data-code="io" value="086">
+											 جزر المحيط الهندي</option>
+											
+									
+										<option data-code="mh" value="584">
+											 جزر المرشال</option>
+											
+									
+										<option data-code="um" value="581">
+											 جزر الولايات النائية</option>
+											
+									
+										<option data-code="bv" value="074">
+											 جزر بوفت</option>
+											
+									
+										<option data-code="hm" value="334">
+											 جزر دونالد</option>
+											
+									
+										<option data-code="sb" value="090">
+											 جزر سليمان</option>
+											
+									
+										<option data-code="fk" value="238">
+											 جزر فوكلند</option>
+											
+									
+										<option data-code="vi" value="850">
+											 جزر فيرجن</option>
+											
+									
+										<option data-code="cx" value="162">
+											 جزر كرسمس </option>
+											
+									
+										<option data-code="ck" value="184">
+											 جزر كوك</option>
+											
+									
+										<option data-code="cc" value="166">
+											 جزر كوكوس </option>
+											
+									
+										<option data-code="ky" value="136">
+											 جزر كيمان</option>
+											
+									
+										<option data-code="mp" value="580">
+											 جزر مريانا</option>
+											
+									
+										<option data-code="wf" value="876">
+											 جزر والس وفوتونا</option>
+											
+									
+										<option data-code="tc" value="796">
+											 جزرالترك وكايكو</option>
+											
+									
+										<option data-code="ai" value="660">
+											 جزيرة أنجويلا</option>
+											
+									
+										<option data-code="ax" value="248">
+											 جزيرة أولند</option>
+											
+									
+										<option data-code="je" value="832">
+											 جزيرة جيرزي</option>
+											
+									
+										<option data-code="gg" value="831">
+											 جزيرة جيزنزي</option>
+											
+									
+										<option data-code="im" value="833">
+											 جزيرة مان</option>
+											
+									
+										<option data-code="yt" value="175">
+											 جزيرة مايوت</option>
+											
+									
+										<option data-code="nf" value="574">
+											 جزيرة نورفوك</option>
+											
+									
+										<option data-code="jm" value="388">
+											 جمايكا</option>
+											
+									
+										<option data-code="km" value="174">
+											 جمهورية القمرالمتحدة</option>
+											
+									
+										<option data-code="cg" value="178">
+											 جمهورية الكونغو</option>
+											
+									
+										<option data-code="do" value="214">
+											 جمهورية دومنيكان</option>
+											
+									
+										<option data-code="mk" value="807">
+											 جمهورية شمال مقدونيا</option>
+											
+									
+										<option data-code="gray" value="991">
+											 جمهورية كوسوفو</option>
+											
+									
+										<option data-code="cv" value="132">
+											 جمهورية الرأس الاخضر</option>
+											
+									
+										<option data-code="za" value="710">
+											 جنوب افريقيا</option>
+											
+									
+										<option data-code="ss" value="728">
+											 جنوب السودان</option>
+											
+									
+										<option data-code="gt" value="320">
+											 جواتيمالا</option>
+											
+									
+										<option data-code="gp" value="312">
+											 جواديلوب</option>
+											
+									
+										<option data-code="ge" value="268">
+											 جورجيا</option>
+											
+									
+										<option data-code="gs" value="239">
+											 جورجيا ج وساندويتش </option>
+											
+									
+										<option data-code="dj" value="262">
+											 جيبوتي</option>
+											
+									
+										<option data-code="dm" value="212">
+											 دومينيكا</option>
+											
+									
+										<option data-code="rw" value="646">
+											 رواندا</option>
+											
+									
+										<option data-code="ru" value="643">
+											 روسيا</option>
+											
+									
+										<option data-code="ro" value="642">
+											 رومانيا</option>
+											
+									
+										<option data-code="re" value="638">
+											 ريونيون</option>
+											
+									
+										<option data-code="zm" value="894">
+											 زامبيا</option>
+											
+									
+										<option data-code="zw" value="716">
+											 زمبوابوي</option>
+											
+									
+										<option data-code="st" value="678">
+											 سافوتوم و برنسيت</option>
+											
+									
+										<option data-code="mf" value="663">
+											 سالت مارتن</option>
+											
+									
+										<option data-code="ws" value="882">
+											 ساموا</option>
+											
+									
+										<option data-code="as" value="016">
+											 ساموا الامريكية</option>
+											
+									
+										<option data-code="bl" value="652">
+											 سان بارتليمي</option>
+											
+									
+										<option data-code="sm" value="674">
+											 سان مارينو</option>
+											
+									
+										<option data-code="kn" value="659">
+											 سانت كيتس ونيفيس </option>
+											
+									
+										<option data-code="sx" value="534">
+											 سانت مارتن</option>
+											
+									
+										<option data-code="lk" value="144">
+											 سريلانكا</option>
+											
+									
+										<option data-code="sj" value="744">
+											 سفالبارد وجان ماين</option>
+											
+									
+										<option data-code="sk" value="703">
+											 سلوفكيا</option>
+											
+									
+										<option data-code="si" value="705">
+											 سلوفنيا</option>
+											
+									
+										<option data-code="pm" value="666">
+											 سنت بير وميكليون</option>
+											
+									
+										<option data-code="vc" value="670">
+											 سنت فينسنت</option>
+											
+									
+										<option data-code="lc" value="662">
+											 سنت لوسيا</option>
+											
+									
+										<option data-code="sh" value="654">
+											 سنت هيلانا</option>
+											
+									
+										<option data-code="sg" value="702">
+											 سنغافورة</option>
+											
+									
+										<option data-code="sz" value="748">
+											 سوازيلاند</option>
+											
+									
+										<option data-code="sy" value="760">
+											 سوريا</option>
+											
+									
+										<option data-code="sr" value="740">
+											 سورينام</option>
+											
+									
+										<option data-code="ch" value="756">
+											 سويسرا</option>
+											
+									
+										<option data-code="sl" value="694">
+											 سيراليون</option>
+											
+									
+										<option data-code="sc" value="690">
+											 سيشيل</option>
+											
+									
+										<option data-code="rs" value="688">
+											 صربيا</option>
+											
+									
+										<option data-code="tj" value="762">
+											 طاجكستان</option>
+											
+									
+										<option data-code="tk" value="772">
+											 طوكيلاو</option>
+											
+									
+										<option data-code="om" value="512">
+											 عمان</option>
+											
+									
+										<option data-code="gm" value="270">
+											 غامبيا</option>
+											
+									
+										<option data-code="gh" value="288">
+											 غانا</option>
+											
+									
+										<option data-code="gu" value="316">
+											 غوامي</option>
+											
+									
+										<option data-code="gf" value="254">
+											 غيانا الفرنسية</option>
+											
+									
+										<option data-code="gy" value="328">
+											 غيانيا</option>
+											
+									
+										<option data-code="gn" value="324">
+											 غينيا</option>
+											
+									
+										<option data-code="gq" value="226">
+											 غينيا الاستوائية</option>
+											
+									
+										<option data-code="gw" value="624">
+											 غينيا بيساو</option>
+											
+									
+										<option data-code="fo" value="234">
+											 فارو</option>
+											
+									
+										<option data-code="vu" value="548">
+											 فانواتو</option>
+											
+									
+										<option data-code="vg" value="092">
+											 فرجين البريطانية</option>
+											
+									
+										<option data-code="fr" value="250">
+											 فرنسا</option>
+											
+									
+										<option data-code="ps" value="999">
+											 فلسطين</option>
+											
+									
+										<option data-code="fi" value="246">
+											 فنلندا</option>
+											
+									
+										<option data-code="ve" value="862">
+											 فنيزويلا</option>
+											
+									
+										<option data-code="vn" value="704">
+											 فيتنام</option>
+											
+									
+										<option data-code="fj" value="242">
+											 فيجي</option>
+											
+									
+										<option data-code="cy" value="196">
+											 قبرص </option>
+											
+									
+										<option data-code="gray" value="997">
+											 قبرص التركية</option>
+											
+									
+										<option data-code="kg" value="417">
+											 قرغيزستان</option>
+											
+									
+										<option data-code="qa" value="634">
+											 قطر</option>
+											
+									
+										<option data-code="hr" value="191">
+											 كرواتيا</option>
+											
+									
+										<option data-code="ki" value="296">
+											 كريباتي</option>
+											
+									
+										<option data-code="kz" value="398">
+											 كزخستان</option>
+											
+									
+										<option data-code="kh" value="116">
+											 كمبوديا</option>
+											
+									
+										<option data-code="ca" value="124">
+											 كندا</option>
+											
+									
+										<option data-code="cu" value="192">
+											 كوبا</option>
+											
+									
+										<option data-code="ci" value="384">
+											 كوت ديفوار</option>
+											
+									
+										<option data-code="cw" value="531">
+											 كوراساو</option>
+											
+									
+										<option data-code="kr" value="410">
+											 كوريا الجنوبية</option>
+											
+									
+										<option data-code="kp" value="408">
+											 كوريا الشمالية</option>
+											
+									
+										<option data-code="cr" value="188">
+											 كوستاريكا</option>
+											
+									
+										<option data-code="co" value="170">
+											 كولومبيا</option>
+											
+									
+										<option data-code="ke" value="404">
+											 كينيا</option>
+											
+									
+										<option data-code="lv" value="428">
+											 لاتفيا</option>
+											
+									
+										<option data-code="la" value="418">
+											 لاو</option>
+											
+									
+										<option data-code="lb" value="422">
+											 لبنان</option>
+											
+									
+										<option data-code="lt" value="440">
+											 لتوانيا</option>
+											
+									
+										<option data-code="lu" value="442">
+											 لكسمبورج</option>
+											
+									
+										<option data-code="ly" value="434">
+											 ليبيا</option>
+											
+									
+										<option data-code="lr" value="430">
+											 ليبيريا</option>
+											
+									
+										<option data-code="ls" value="426">
+											 ليسوتو</option>
+											
+									
+										<option data-code="li" value="438">
+											 ليشتنشين</option>
+											
+									
+										<option data-code="mq" value="474">
+											 مارتنيك</option>
+											
+									
+										<option data-code="mo" value="446">
+											 ماكاو</option>
+											
+									
+										<option data-code="mw" value="454">
+											 مالاوي</option>
+											
+									
+										<option data-code="mt" value="470">
+											 مالطا</option>
+											
+									
+										<option data-code="ml" value="466">
+											 مالي</option>
+											
+									
+										<option data-code="my" value="458">
+											 ماليزيا</option>
+											
+									
+										<option data-code="mg" value="450">
+											 مداغاسكر</option>
+											
+									
+										<option data-code="eg" value="818">
+											 مصر</option>
+											
+									
+										<option data-code="fm" value="583">
+											 مكرونسيا</option>
+											
+									
+										<option data-code="md" value="498">
+											 ملدوفيا</option>
+											
+									
+										<option data-code="mn" value="496">
+											 منغوليا</option>
+											
+									
+										<option data-code="mr" value="478">
+											 موريتانيا</option>
+											
+									
+										<option data-code="mu" value="480">
+											 موريشوس </option>
+											
+									
+										<option data-code="mz" value="508">
+											 موزامبيق</option>
+											
+									
+										<option data-code="mc" value="492">
+											 موناكو</option>
+											
+									
+										<option data-code="ms" value="500">
+											 مونتسرات</option>
+											
+									
+										<option data-code="mm" value="104">
+											 ميانمار</option>
+											
+									
+										<option data-code="na" value="516">
+											 ناميبيا</option>
+											
+									
+										<option data-code="nr" value="520">
+											 نورو</option>
+											
+									
+										<option data-code="np" value="524">
+											 نيبال</option>
+											
+									
+										<option data-code="ng" value="566">
+											 نيجيريا</option>
+											
+									
+										<option data-code="ni" value="558">
+											 نيكواراجوا</option>
+											
+									
+										<option data-code="nu" value="570">
+											 نيو</option>
+											
+									
+										<option data-code="nc" value="540">
+											 نيو كاليدونيا</option>
+											
+									
+										<option data-code="nz" value="554">
+											 نيوزيلاندا</option>
+											
+									
+										<option data-code="ht" value="332">
+											 هايتي</option>
+											
+									
+										<option data-code="nl" value="528">
+											 هولندا</option>
+											
+									
+										<option data-code="hn" value="340">
+											 هوندوراس </option>
+											
+									
+										<option data-code="hk" value="344">
+											 هونغ كونغ</option>
+											
+									
+                                  </select>
+                                  
+                                  <span class="errorMsg" id="natCodeErrMsg"></span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="tselect" id="appliationSelectDiv">
+                          	<!-- Sponsor QID Selection -->
+                          	<div class="row">
+                              <div class="col-md-4">
+                                <div class="mb-4">
+                                  <div class="form-check mt-3">
+                                    <input id="appRadioSelection1" name="appRadioSelection" checked="true" class="form-check-input" type="radio" value="bySponsorId"/>
+                                    <label class="form-check-label number" for="appRadioSelection1"> الرقم الشخصي للمستقدم أو المندوب أو المفوض </label>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-8">
+                                <div class="mb-2">
+                                  <input id="sponsorId" name="sponsorId" placeholder="الرجاء ادخل الرقم الشخصي" class="form-control text-center number" type="text" value="" maxlength="11"/>
+                                </div>
+                                
+                                <span class="errorMsg" id="sponsorIdErrMsg"></span>
+                              </div>
+                            </div>
+                            
+                            <!-- Application Date Selection -->
+                            
+                            <div class="row">
+                              <div class="col-md-4">
+                                <div class="mb-4">
+                                  <div class="form-check mt-3">
+                                    <input id="appRadioSelection2" name="appRadioSelection" autocomplete="false" class="form-check-input" type="radio" value="byDate"/>
+                                    <label class="form-check-label" for="appRadioSelection2"> تاريخ تقديم الطلب </label>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-8">
+                                <div class="mb-2">
+                                  <input id="applicationDate" name="applicationDate" placeholder="الرجاء ادخل تاريخ تقديم الطلب" class="form-control text-center moidate" type="text" value="" autocomplete="off"/>
+                                </div>
+                                
+                                <span class="errorMsg" id="applicationDateErrMsg"></span>
+                              </div>
+                            </div>
+                            
+                            <span class="errorMsg" id="appRadioSelectionErrMsg"></span>
+                          </div>
+                          
+						<!--Start: CAPTCHA Image (Canvas) -->               
+                          <div class="row">
+                            <div class="col-md-12">
+                              <div class=" d-flex align-items-center gap-2 p-3">
+                                <img id="captchaImgVisa"  style="width: 150px; height: 40px;"/>
+                                <div class="w-100">
+									<div id="captcha-wrap">
+										<div  id="captcha-box"></div>
+									</div>
+								</div>
+                                <!-- Text Input -->
+                                <input id="captchaInput" name="captchaInput" style="max-width: 140px;" placeholder="ادخل الرمز" class="form-control text-center captcha-input" type="text" value="" maxlength="5"/>
+                                <button type="button" id="refreshLink" onclick="refreshVisaInquiryCaptcha();" 
+											title='اعادة تحديث الصورة' 
+                                  class="btn btn-outline-secondary btn-floating btn-lg ripple-surface-dark refreshCaptcha">
+                                  <i class="fas fa-sync-alt"></i>
+                                </button>
+                                	<a href="javascript:void(0)" id="textAudioLink" onclick='toggleInquiryAudioCaptcha($("#text-audio-refresh"), $("#captchaInput"))'>
+										<img src="/moipay/assets/img/audio.png" alt='الانتقال إلى الصوت'
+											title='الانتقال إلى الصوت' class="audio" id="text-audio-refresh"
+											  style="height: 24px;"/>
+									</a>
+                              </div>
+                            </div>
+							
+                            <div class="col-lg-12">
+                               
+						 	   <span class="errorMsg" id="captchaResponseErrMsg"></span>
+						 	</div>
+                          </div>
+						<!--END: CAPTCHA Image (Canvas) -->
+                          <div class="row ">
+                            <div class="col-md-12">
+                              <hr>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-md-6">
+                              <button type="button" class="btn btn-primary btn-lg btn-block mb-2" onclick="formSubmitVisaInquiry()">استعلم</button>
+                            </div>
+                            <div class="col-md-6">
+                              <button type="reset" onclick="resetSearchFields();" class="btn btn-light btn-lg btn-block mb-2">مسح</button>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col"></div>
+                      </div>
+
+                    </div>
+                    <div class="tab-pane" role="tabpanel" id="menu3">
+                      <div class="row">
+                        <div class="col-md-12">
+                          <h5 class="inner-subtitle text-center"> استعلام عن السمات </h5>
+                        </div>
+                        <div class="col-lg-2"></div>
+                      </div>
+                      <!-- New List Start-->
+                      <div class="col-lg-8">
+                        <p class="card-text">تمكنك هذه الخدمة من القيام بـ
+                        <ul>
+                          <li>متابعة الموافقة على طلب السمات (عمل أو زيارة) باستخدام رقم الطلب وطباعة أو إعادة طباعة بيانات السمات المصدرة مباشرة من الموقع.</li>
+                          <li>دفع رسوم تمديد السمات.</li>
+                        </ul>
+                        </p>
+                      </div>
+                      <!-- New List End-->
+                    </div>
+                  </div>
+                  
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="v-spacer1"></div> 
+        
+
+
+
+<!-- FOOTER -->
+    <!-- Footer -->
+    <footer class="text-center text-lg-start bg-primary text-muted">
+      <!-- Section: Social media -->
+      <section class="d-flex justify-content-center  p-4  bg-gold top-footer">
+        <!-- Left -->
+        <div class="me-5 d-none d-lg-block">
+          <span>ابق على تواصل</span>
+        </div>
+        <!-- Left -->
+
+        <!-- Right -->
+        <div>
+          <a href="http://www.facebook.com/moigovqatar" class="me-4 text-reset">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="http://twitter.com/moi_qatar" class="me-4 text-reset">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="http://instagram.com/moi_qatar" class="me-4 text-reset">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="http://www.youtube.com/user/moigovqa" class="me-4 text-reset">
+            <i class="fab fa-youtube"></i>
+          </a>
+
+        </div>
+        <!-- Right -->
+      </section>
+      <!-- Section: Social media -->
+
+      <!-- Section: Links  -->
+      <section class="">
+        <div class="container text-center text-md-start mt-5">
+          <!-- Grid row -->
+          <div class="row mt-3">
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+              <!-- Content -->
+              <h6 class="text-uppercase fw-bold mb-4">
+                <i class="mdi mdi-rhombus"></i>خدمات وزارة الداخلية
+              </h6>
+              <p>
+              أهلا بكم في بوابة دفع المخالفات المرورية
+              </p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase fw-bold mb-4">
+                <i class="mdi mdi-rhombus"></i> الأقسام
+              </h6>
+              <p>
+                <a href="https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries" target="_blank" class="text-reset">الاستعلامات و الطلبات 
+                </a>
+              </p>
+              <p>
+                <a href="https://eservices.moi.gov.qa/eservices-portal/" target="_blank" class="text-reset"> الخدمات الإلكترونية
+                </a>
+              </p>
+              <p>
+                <a href="https://portal.moi.gov.qa/wps/portal/MOIInternet/deptformsindex" target="_blank" class="text-reset"> نماذج المعاملات
+                </a>
+              </p>
+              <p>
+                <a href="https://portal.moi.gov.qa/qatarvisasar/" target="_blank" class="text-reset">سمات (تأشيرات) الدخول
+                </a>
+              </p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase fw-bold mb-4">
+                <i class="mdi mdi-rhombus"></i>  روابط ذات علاقة
+              </h6>
+              <p>
+                <a href="https://www.diwan.gov.qa/" target="_blank" class="text-reset"> الديوان الأميري</a>
+              </p>
+              <p>
+                <a href="https://portal.moi.gov.qa/wps/portal/MOIInternet/MOIHome" target="_blank" class="text-reset"> وزارة الداخلية</a>
+              </p>
+              <p>
+                <a href="https://www.gco.gov.qa/ar/" target="_blank" class="text-reset">مكتب الاتصال الحكومي</a>
+              </p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase fw-bold mb-4"> <i class="mdi mdi-rhombus"></i>  للتواصل والمساعدة</h6>
+              <p><i class="fas fa-home me-3"></i>وزارة الداخلية, الدوحة - قطر</p>
+              <p>
+                <i class="fas fa-envelope me-3"></i>
+                info@moi.gov.qa
+              </p>
+              <p><i class="fas fa-phone me-3"></i> 974-2342000+ </p>
+              <p><i class="fas fa-print me-3"></i> 974-44323339+ </p>
+            </div>
+            <!-- Grid column -->
+          </div>
+          <!-- Grid row -->
+        </div>
+      </section>
+      <!-- Section: Links  -->
+
+      <!-- Copyright -->
+      <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+        &#169 <script type="text/javascript"> document.write(new Date().getFullYear()) </script> جميع الحقوق محفوظة:
+        <a class="text-reset fw-bold" href="https://portal.moi.gov.qa/wps/portal/ar">وزارة الداخلية</a>
+      </div>
+      <!-- Copyright -->
+    </footer>
+    <!-- Footer -->  
+                
+		<!-- End your project here-->
+		<script type="text/javascript" src="/moipay/assets/js/select2.min.js?v=2.0.2.2"></script>	
+		<script src="/moipay/assets/custom/js/visa/visaInquiry.js?v=2.0.2.2"></script>
+	</div>
+	<!-- main-content div ended -->  
+</body>  
+</html>
+
+ 

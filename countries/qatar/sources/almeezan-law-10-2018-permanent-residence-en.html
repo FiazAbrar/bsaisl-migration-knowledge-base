@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
+    <title>Al Meezan - Qatar Legal Portal</title>
+
+    <!-- SEO & Social Sharing Meta Tags -->
+    <meta name="description" content="بوابة الميزان التشريعية - Al Meezan Qatar Legal Portal" />
+
+    <!-- Open Graph (Facebook, LinkedIn, WhatsApp) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://almeezan.qa/" />
+    <meta property="og:site_name" content="Al Meezan - بوابة الميزان" />
+    <meta property="og:title" content="Al Meezan - Qatar Legal Portal" />
+    <meta property="og:description" content="بوابة الميزان التشريعية - Al Meezan Qatar Legal Portal" />
+    <meta property="og:image" content="https://almeezan.qa/assets/img/logo-colored.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Al Meezan - Qatar Legal Portal" />
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Al Meezan - Qatar Legal Portal" />
+    <meta name="twitter:description" content="بوابة الميزان التشريعية - Al Meezan Qatar Legal Portal" />
+    <meta name="twitter:image" content="https://almeezan.qa/assets/img/logo-colored.png" />
+
+    <!-- Preconnect to CDN to eliminate cold-connection latency -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
+
+    <!-- Google Analytics - loaded dynamically from runtime config -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      // Load GA after runtime-config.js is available
+      function initGA() {
+        var cfg = window.__RUNTIME_CONFIG__ || {};
+        var id = cfg.VITE_GA_MEASUREMENT_ID || 'G-1GE5N76H89';
+        if (!id || id.indexOf('%') === 0) return;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+        document.head.appendChild(s);
+        gtag('config', id);
+      }
+      // Try immediately (runtime-config.js may already be loaded), else retry after DOM ready
+      if (window.__RUNTIME_CONFIG__) { initGA(); }
+      else { document.addEventListener('DOMContentLoaded', initGA); }
+    </script>
+
+    <!-- Critical CSS: fonts + bootstrap RTL + main styles (needed for initial paint) -->
+    <link rel="stylesheet" href="/assets/css/fonts.css" />
+    <link id="bootstrap-css" rel="stylesheet" href="/assets/css/bootstrap.min-rtl.css" />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+
+    <!-- Non-critical CSS: deferred via media="print" swap pattern -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="/assets/css/all.min.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="/assets/css/minor.css" media="print" onload="this.media='all'" />
+
+    <!-- Fallback for browsers with JS disabled -->
+    <noscript>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+      <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" />
+      <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css" />
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
+      <link rel="stylesheet" href="/assets/css/all.min.css" />
+      <link rel="stylesheet" href="/assets/css/minor.css" />
+    </noscript>
+    <script type="module" crossorigin src="/assets/index-DnNl0r9L.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-tiptap-DRhLXTlY.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-yu3LuKb8.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-i18n-C69vtfPX.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-state-DSvf5b8G.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-mui-DcYTWQfO.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-dates-BOLf8KPl.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-CbXGKYkY.css">
+  </head>
+  <body>
+      <div id="root"></div>
+      <script src="/runtime-config.js"></script>
+
+      <script src="/assets/js/jquery-3.6.0.min.js" defer></script>
+      <script src="/assets/js/bootstrap.bundle.min.js" defer></script>
+      <script src="/assets/js/owl.carousel.min.js" defer></script>
+      <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js" defer></script>
+      <script src="/assets/js/script.js" defer></script>
+
+      <!--<script>(function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init(); }; h.appendChild(s); })();</script>-->
+       <script src="https://cdn.userway.org/widget.js" data-account="H0KfpWj7GD"></script>
+
+  </body>
+</html>

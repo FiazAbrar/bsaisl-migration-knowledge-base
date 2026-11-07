@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <title>Universal Pension</title>
+
+    <meta name="description" content="National Pension Authority, Government of the People&#x27;s Republic of Bangladesh. Register for the Universal Pension Scheme, manage your account and pay contributions online.">
+<link rel="canonical" href="http://www.upension.gov.bd/">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/public/img/favicon/favicon-32x32.png?v=10">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/public/img/favicon/favicon-16x16.png?v=10">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/assets/public/img/favicon/apple-touch-icon.png?v=10">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#006837">
+
+<meta property="og:site_name" content="Universal Pension">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Universal Pension">
+<meta property="og:description" content="National Pension Authority, Government of the People&#x27;s Republic of Bangladesh. Register for the Universal Pension Scheme, manage your account and pay contributions online.">
+<meta property="og:url" content="http://www.upension.gov.bd/">
+<meta property="og:image" content="http://www.upension.gov.bd/assets/public/img/core-img/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="bn_BD">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Universal Pension">
+<meta name="twitter:description" content="National Pension Authority, Government of the People&#x27;s Republic of Bangladesh. Register for the Universal Pension Scheme, manage your account and pay contributions online.">
+<meta name="twitter:image" content="http://www.upension.gov.bd/assets/public/img/core-img/og-image.png">
+
+
+
+    <link rel="stylesheet" href="/assets/public/css/style.css?v=10">
+    <link rel="stylesheet" href="/assets/public/css/custom.css?v=10">
+    <link rel="stylesheet" href="/assets/public/css/media.css?v=10">
+    <link rel="stylesheet" href="/assets/public/js/toast/toastr.min.css?v=10">
+
+    
+   
+    <style>
+        .col-5 {
+            flex: 0 0 auto;
+            width: 20%;
+        }
+
+        .singleNoticeWrapper span {
+            margin-bottom: 12px;
+        }
+
+        .ytp-chrome-top.ytp-show-cards-title {
+            display: none;
+        }
+
+        .videoSection .nav-link {
+            border: 1px solid #008767;
+        }
+
+        .owl-carousel {
+            width: 100%;
+            /*height: 400px;*/
+        }
+
+            .owl-carousel img {
+                /*max-height: auto;*/
+            }
+
+        .owl-dots {
+            display: flex !important;
+            justify-content: center !important;
+            position: absolute;
+            bottom: 5%;
+            width: 100%;
+        }
+
+        .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+            background: #008767;
+        }
+
+        .owl-dots {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .owl-dot.active {
+            background: #008767;
+        }
+
+        .owl-dot {
+            width: 10px; 
+            height: 10px; 
+            border-radius: 50%;
+            margin: 0 5px;
+            background-color: #fff; 
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        @media (min-width: 768px) {
+            .owl-dot {
+                width: 15px;
+                height: 15px;
+            }
+        }
+    </style>
+
+    <style>
+        .latestUpdateTitle {
+            font-family: 'SolaimanLipi';
+            font-size: 26px;
+            color: white;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            margin-bottom: 0;
+        }
+
+        .latestUpdate {
+            font-family: 'SolaimanLipi';
+            font-size: 22px;
+            color: white;
+            padding: 0px 15px;
+            margin-bottom: 0;
+        }
+
+        .latestUpdateSection a {
+            font-size: 22px;
+            font-family: 'SolaimanLipi';
+            color: white;
+        }
+
+        .noticeTitle {
+            font-family: "SolaimanLipi";
+            font-size: 24px;
+            color: #1a5c3a;
+            font-weight: 700;
+            padding-left: 14px;
+            border-left: 4px solid #008767;
+            margin-bottom: 0;
+            line-height: 1.3;
+        }
+
+        .noticeTitleWrapper {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 12px;
+            margin-bottom: 0;
+        }
+
+        .singleNoticeWrapper {
+            background-color: #ffffff;
+            border: 1px solid #e8e8e8;
+            border-radius: 8px;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .notice-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 16px;
+            border-bottom: 1px solid #f0f0f0;
+            transition: background-color 0.2s ease;
+            text-decoration: none !important;
+            color: #333 !important;
+        }
+
+        .notice-item:last-child {
+            border-bottom: none;
+        }
+
+        .notice-item:hover {
+            background-color: #f0faf5;
+            color: #008767 !important;
+        }
+
+        .notice-icon {
+            flex-shrink: 0;
+            width: 28px;
+            height: 28px;
+            background-color: #e8f5f0;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #008767;
+            font-size: 10px;
+            margin-right: 14px;
+            transition: background-color 0.2s ease, color 0.2s ease;
+        }
+
+        .notice-item:hover .notice-icon {
+            background-color: #008767;
+            color: #fff;
+        }
+
+        .notice-text {
+            flex: 1;
+            font-family: "SolaimanLipi";
+            font-size: 15px;
+            line-height: 1.5;
+        }
+
+        .notice-pdf-badge {
+            flex-shrink: 0;
+            font-size: 10px;
+            font-family: Arial, sans-serif;
+            color: #888;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            padding: 1px 5px;
+            margin-left: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .service-item {
+            border-top: 1px solid #F4F4F4;
+            border-right: 1px solid #F4F4F4;
+            transition: 0.3s;
+            position: relative;
+            z-index: 10;
+        }
+
+        .service-box {
+            border: 2px solid white;
+            padding: 12px;
+            border-radius: 10px;
+        }
+
+        .service-item {
+            border-top: 1px solid #F4F4F4;
+            border-right: 1px solid #F4F4F4;
+            transition: 0.3s;
+            position: relative;
+            z-index: 10;
+        }
+
+        .service-icon img {
+            margin: 25px 0px;
+            height: 170px;
+            width: auto;
+        }
+
+        .service-icon {
+            border-radius: 10px;
+        }
+
+        .serviceTitle {
+            font-size: 26px;
+            font-family: "SolaimanLipi";
+            color: #008767;
+        }
+
+        .serviceSubTitle {
+            font-family: "SolaimanLipi";
+            font-size: 18px;
+            color: #404040 !important;
+            font-weight: 400
+        }
+
+        .update-left {
+            width: 20%;
+        }
+
+        .update-right {
+            width: 80%;
+        }
+    </style>
+    <style>
+        .ticker-wrap {
+            width: 100%;
+            overflow: hidden;
+            background-color: #0a392e;
+            padding: 1rem 0;
+            color: #fff;
+        }
+
+        .ticker-track {
+            display: flex;
+            white-space: nowrap;
+            will-change: transform;
+            animation: ticker-scroll 40s linear infinite;
+        }
+
+        .ticker-wrap:hover .ticker-track {
+            animation-play-state: paused;
+        }
+
+        .ticker-item {
+            display: inline-flex;
+            align-items: center;
+            flex-shrink: 0;
+        }
+
+            .ticker-item a {
+                font-size: 22px;
+                font-family: 'SolaimanLipi';
+                color: white;
+                text-decoration: none;
+            }
+
+            .ticker-item a:hover {
+                text-decoration: underline;
+            }
+
+        .ticker-sep {
+            margin: 0 30px;
+            color: white;
+            font-size: 18px;
+            flex-shrink: 0;
+            align-self: center;
+            user-select: none;
+        }
+
+        @keyframes ticker-scroll {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+    </style>
+    <link href="/assets/Media/lightbox.min.css" rel="stylesheet" />
+
+    <style>
+        .fixed-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- ##### Preloader ##### -->
+    <div id="preloader">
+        <i class="circle-preloader"></i>
+    </div>
+
+    <div class="main-content">
+
+        <!-- ##### Header Area Start ##### -->
+
+        <header class="header-area">
+            <!-- Navbar Area -->
+            <div class="cryptos-main-menu">
+                <div class="classy-nav-container breakpoint-off">
+                    <div class="container-fluid full-width-header">
+                        <!-- Menu -->
+                        <nav class="classy-navbar justify-content-between" id="pensionNav">
+
+                            <!-- Logo -->
+                            <a class="nav-brand" href="/Public">
+
+                                <img src="/assets/public/img/core-img/uPensionLogo.svg" alt="Universal Pension Logo" />
+                            </a>
+
+                            <!-- Navbar Toggler -->
+                            <div class="classy-navbar-toggler">
+                                <span class="navbarToggler"><span></span><span></span><span></span></span>
+                            </div>
+
+                            <!-- Menu -->
+                            <div class="classy-menu">
+
+                                <!-- close btn -->
+                                <div class="classycloseIcon">
+                                    <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                                </div>
+
+                                <!-- Nav Start -->
+                                <div class="classynav">
+                                    <ul>
+                                        <li>
+                                            <a href="#">সর্বজনীন পেনশন সম্পর্কে</a>
+                                            <div class="megamenu">
+                                                <div class="cn-col-6 megaMenu-col">
+                                                    <ul class="single-mega">
+                                                        <h5 class="megaMenu-title mb-2 pt-2">সর্বজনীন পেনশন ধারণা</h5>
+                                                        <li><a href="/Public/About" class="megaMenu-item"> পটভূমি ও উল্লেখযোগ্য বৈশিষ্ট্য </a></li>
+                                                        <li><a href="/Public/Benefits" class="megaMenu-item"> সর্বজনীন পেনশন স্কিমের সুবিধা </a></li>
+                                                    </ul>
+                                                    <ul class="single-mega">
+                                                        <h5 class="megaMenu-title mb-2 pt-2">আইন ও বিধি</h5>
+                                                        <li><a href="/Public/Laws" class="megaMenu-item">আইন ও বিধিমালা</a></li>
+                                                    </ul>
+                                                </div>
+
+
+                                                <div class="cn-col-6 megaMenu-col">
+                                                    <h5 class="megaMenu-title mb-2 pt-2">সর্বজনীন পেনশন ব্যবস্থাপনা</h5>
+                                                    <ul class="single-mega cn-col-6" style="padding: 0; padding-right: 10px;">
+                                                        <li><a href="/Public/BoardOfDirectors" class="megaMenu-item">পেনশন পরিচালনা পর্ষদ</a></li>
+                                                        <li><a href="/Public/Authority" class="megaMenu-item">জাতীয় পেনশন কর্তৃপক্ষ</a></li>
+                                                        <li><a href="/assets/public/files/UPS Brief Bangla.pdf?v=10" target="_blank" class="megaMenu-item">সর্বজনীন পেনশন স্কিম ব্রিফ</a></li>
+
+                                                    </ul>
+
+                                                </div>
+
+
+                                            </div>
+                                        </li>
+
+                                        <li><a href="/Public/Packages">স্কিমসমূহ</a></li>
+
+
+                                        <li>
+                                            <a href="#">ডাউনলোড</a>
+                                            <ul class="dropdown">
+                                                <li><a href="/Public/Newsletter">সর্বজনীন পেনশন বার্তা</a></li>
+                                                <li><a href="/Public/AnnualReport">বার্ষিক প্রতিবেদন</a></li>
+                                                <li><a href="/Public/Flyer">ফ্লায়ার</a></li>
+
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li><a href="/Public/HelpDesk">হেল্প ডেস্ক/সচরাচর জিজ্ঞাসিত প্রশ্ন</a></li>
+
+
+                                        <li><a href="/Public/CompanyRegistration" style="background: #663131; color: white; border-radius: 4px">প্রগতি রেজিস্ট্রেশন</a></li>
+
+
+                                        <li class="d-md-none"><a href="/Public/Login">পেনশনার লগইন</a></li>
+                                        <li class="d-md-none"><a href="/Public/Registration" style="background: #008767; color:white ">পেনশনার রেজিস্ট্রেশন</a></li>
+
+                                    </ul>
+
+
+
+                                </div>
+                                <!-- Nav End -->
+
+
+                            </div>
+
+                            <!-- Button -->
+                                <div class="header-buttons d-none d-md-block">
+                                    <a href="/Public/Login" class="btn btn-login btn-menu">লগইন</a>
+                                    <a href="/Public/Registration" class="btn btn-pension btn-menu" style="padding: 12px 24px;">পেনশনার রেজিস্ট্রেশন</a>
+                                </div>
+
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- ##### Header Area End ##### -->
+        <div class="innerContent">
+
+
+
+            
+
+
+
+
+<!-- ##### Hero Area Start ##### -->
+<section class="container-fluid hero-area" style="padding:0px; margin:0px">
+    <div class="owl-carousel owl-theme">
+
+        <div class="item">
+            <img src="/assets/public/img/slider/s1.jpg?v=10" alt="" height="300px">
+        </div>
+
+
+
+        <div class="item">
+            <img src="/assets/public/img/slider/s3.jpg?v=10" alt="" height="300px">
+        </div>
+
+
+        <div class="item">
+            <img src="/assets/public/img/slider/s4.jpg?v=10" alt="" height="300px">
+        </div>
+
+        <div class="item">
+            <img src="/assets/public/img/slider/s5.jpg?v=10" alt="" height="300px">
+        </div>
+
+    </div>
+</section>
+
+<!-- ##### Hero Area End ##### -->
+<!-- ##### Latest Update Start ##### -->
+<section class="latestUpdateSection mt-5">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="update-left text-center d-flex align-items-center justify-content-center" style="background-color: #008767;">
+                <h2 class="latestUpdateTitle">সর্বশেষ আপডেট</h2>
+            </div>
+            <div class="update-right d-flex align-items-center justify-content-left" style="background-color: #0A392E;">
+
+                <div class="ticker-wrap">
+                    <div class="ticker-track">
+
+                            <span class="ticker-item"><a href="#" target="_blank">&#x9B8;&#x9B0;&#x9CD;&#x9AC;&#x99C;&#x9A8;&#x9C0;&#x9A8; &#x9AA;&#x9C7;&#x9A8;&#x9B6;&#x9A8;&#x9C7;&#x9B0; &#x9EA;&#x99F;&#x9BF; &#x9B8;&#x9CD;&#x995;&#x9BF;&#x9AE;&#x9C7; &#x9AE;&#x9CB;&#x99F; &#x9A8;&#x9BF;&#x9AC;&#x9A8;&#x9CD;&#x9A7;&#x9A8;&#x995;&#x9BE;&#x9B0;&#x9C0; &#x9E9; &#x9B2;&#x995;&#x9CD;&#x9B7; &#x9EE;&#x9E6; &#x9B9;&#x9BE;&#x99C;&#x9BE;&#x9B0; &#x9E7; &#x9B6;&#x9A4; &#x9ED;&#x9EE; &#x99C;&#x9A8; (&#x9E6;&#x9EB; &#x9A8;&#x9AD;&#x9C7;&#x9AE;&#x9CD;&#x9AC;&#x9B0; &#x9E8;&#x9E6;&#x9E8;&#x9EC; &#x9AA;&#x9B0;&#x9CD;&#x9AF;&#x9A8;&#x9CD;&#x9A4;)</a></span>
+                            <span class="ticker-sep">&#8226;</span>
+                            <span class="ticker-item"><a href="#" target="_blank">&#x9B8;&#x9B0;&#x995;&#x9BE;&#x9B0;&#x9C0; &#x99F;&#x9CD;&#x9B0;&#x9C7;&#x99C;&#x9BE;&#x9B0;&#x9BF; &#x9AC;&#x9A8;&#x9CD;&#x9A1;&#x9C7; &#x9B8;&#x9B0;&#x9CD;&#x9AC;&#x9AE;&#x9CB;&#x99F; &#x9AC;&#x9BF;&#x9A8;&#x9BF;&#x9AF;&#x9BC;&#x9CB;&#x997;&#x9C7;&#x9B0; &#x9AA;&#x9B0;&#x9BF;&#x9AE;&#x9BE;&#x9A3; &#x9E9;&#x9E9;&#x9EC; &#x995;&#x9CB;&#x99F;&#x9BF; &#x9EC;&#x9E8; &#x9B2;&#x995;&#x9CD;&#x9B7; &#x9EC;&#x9EC; &#x9B9;&#x9BE;&#x99C;&#x9BE;&#x9B0; &#x9E7; &#x9B6;&#x9A4; &#x9EA;&#x9E9; &#x99F;&#x9BE;&#x995;&#x9BE; (&#x9B8;&#x9B0;&#x9CD;&#x9AC;&#x9B6;&#x9C7;&#x9B7; &#x9AC;&#x9BF;&#x9A8;&#x9BF;&#x9AF;&#x9BC;&#x9CB;&#x997; &#x9E6;&#x9EA; -&#x9E7;&#x9E7;-&#x9E8;&#x9E6;&#x9E8;&#x9EC; &#x996;&#x9CD;&#x9B0;&#x9BF;. &#x9A4;&#x9BE;&#x9B0;&#x9BF;&#x996;&#x9C7; &#x9E7; &#x995;&#x9CB;&#x99F;&#x9BF; &#x9ED; &#x9B9;&#x9BE;&#x99C;&#x9BE;&#x9B0; &#x9EA; &#x9B6;&#x9A4; &#x9E8;&#x9EC; &#x99F;&#x9BE;&#x995;&#x9BE; )</a></span>
+                            <span class="ticker-sep">&#8226;</span>
+
+
+                        <span class="ticker-item"><a href="#" target="_blank">৩০ জুন ২০২৫ তারিখ পর্যন্ত জমাকৃত অর্থের উপর মুনাফা প্রদান করা হয়েছে । চাঁদাদাতাগণের মোট জমাকৃত অর্থের বিনিয়োগ সময়কাল বিবেচনায় নিয়ে মুনাফার পরিমাণ নির্ধারণ করা হয়েছে । ২০২৪-২০২৫ অর্থবছরে সর্বোচ্চ মুনাফা প্রাপ্তির হার ১১.৬১%</a></span>
+                        <span class="ticker-sep">&#8226;</span>
+
+                        <span class="ticker-item"><a href="#" target="_blank">জাতীয় পেনশন কর্তৃপক্ষের হেল্পডেস্ক নম্বর, ১৬১৩১, +৮৮ ০৯৬১০ ৯০০৮০০ এই নম্বরে বাংলাদেশ সময় সকাল ৯টা থেকে বিকাল ৫টা পর্যন্ত সেবা পাওয়া যাবে</a></span>
+                        <span class="ticker-sep">&#8226;</span>
+
+                        <span class="ticker-item"><a href="/assets/public/files/IncomeTaxReturn.pdf?v=10" target="_blank">সর্বজনীন পেনশন স্কিমে প্রদত্ত মাসিক জমার উপর আয়কর রেয়াত</a></span>
+                        <span class="ticker-sep">&#8226;</span>
+                        <span class="ticker-item"><a href="#" target="_blank">সর্বজনীন পেনশনের ৪টি স্কিমের – সমতা, সুরক্ষা, প্রগতি, প্রবাস নিবন্ধন কার্যক্রম চলমান আছে । সর্বজনীন পেনশন স্কিমে নিবন্ধন করুন এবং আপনার ভবিষ্যৎ আর্থিক নিরাপত্তা নিশ্চিত করুন</a></span>
+                        <span class="ticker-sep">&#8226;</span>
+                        <span class="ticker-item"><a href="#" target="_blank">এখন থেকে সর্বজনীন পেনশন স্কিমে নিবন্ধনে যাঁদের ব্যাংক অ্যাকাউন্ট নেই তারা মোবাইল ফিনান্সিয়াল একাউন্ট এর মাধ্যমেও নিবন্ধন করতে পারবেন</a></span>
+                        <span class="ticker-sep">&#8226;</span>
+                        <span class="ticker-item"><a href="#" target="_blank">"প্রবাস" স্কিমে অংশগ্রহণকারীগণ ক্রেডিট কার্ড/ডেবিট কার্ড, অনলাইন ব্যাংকিং গেটওয়ে ব্যবহার করে বৈদেশিক মুদ্রায় অথবা বাংলাদেশে তিনি যে ব্যাংক একাউন্টে রেমিটেন্স প্রেরণ করেন, সে একাউন্ট হতে মাসিক চাঁদা পরিশোধ করতে পারবেন</a></span>
+                        <span class="ticker-sep">&#8226;</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- ##### Latest Update End ##### -->
+<!-- ##### Notice Start ##### -->
+<section class="noticeSection mt-5">
+    <div class="container bg-white">
+        <div class="row">
+            <div class="col-lg-12 col-md-12  padding-40">
+
+                <div class="noticeTitleWrapper mb-3">
+                    <h1 class="noticeTitle">নোটিশ বোর্ড</h1>
+                </div>
+
+                <div class="singleNoticeWrapper mb-3">
+
+                    <a class="notice-item" target="_blank" href="/assets/public/files/5a942172-5e77-4f39-b83e-40c6951a5782.pdf?v=10">
+                        <span class="notice-icon"><i class="fa fa-chevron-right"></i></span>
+                        <span class="notice-text">জাতীয় পেনশন কর্তৃপক্ষের ৫ম থেকে ৯ম গ্রেড পর্যন্ত ০৯ (নয়) ক্যাটাগরির মোট ১১ (এগারো) টি শূন্য পদের নিয়োগ বিজ্ঞপ্তি</span>
+                        <span class="notice-pdf-badge">PDF</span>
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ##### Notice End ##### -->
+<!-- ##### Package Start ##### -->
+<section class="schemeSection mt-5">
+    <div class="container">
+
+        <div class="row mb-4">
+            <div class="col">
+                <h3 class="text-center">স্কিমসমূহ</h3>
+            </div>
+        </div>
+
+        
+<div class="row" id="packagesRow">
+
+        <div class="col-lg-3 col-md-6 service-item packageItem" data-scheme-type="conventional" style="">
+            <div class="service-box text-center mb-3">
+                <div class="service-icon" style="background-color: #478072;">
+                    <img src="/assets/public/img/icon/1.png?v=10" alt="">
+                </div>
+                <h3 class="serviceTitle mt-3">&#x9AA;&#x9CD;&#x9B0;&#x9AC;&#x9BE;&#x9B8;</h3>
+                <p class="serviceSubTitle">(&#x9AA;&#x9CD;&#x9B0;&#x9AC;&#x9BE;&#x9B8;&#x9C0; &#x9AC;&#x9BE;&#x982;&#x9B2;&#x9BE;&#x9A6;&#x9C7;&#x9B6;&#x9BF;)</p>
+                <a class="btn btn-package mb-3 w-90" href="/Public/Packages?p=1">আরো জানুন</a>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 service-item packageItem" data-scheme-type="conventional" style="">
+            <div class="service-box text-center mb-3">
+                <div class="service-icon" style="background-color: #663131;">
+                    <img src="/assets/public/img/icon/2.png?v=10" alt="">
+                </div>
+                <h3 class="serviceTitle mt-3">&#x9AA;&#x9CD;&#x9B0;&#x997;&#x9A4;&#x9BF;</h3>
+                <p class="serviceSubTitle">(&#x9AC;&#x9C7;&#x9B8;&#x9B0;&#x995;&#x9BE;&#x9B0;&#x9BF; &#x995;&#x9B0;&#x9CD;&#x9AE;&#x99A;&#x9BE;&#x9B0;&#x9C0;/&#x9AA;&#x9CD;&#x9B0;&#x9A4;&#x9BF;&#x9B7;&#x9CD;&#x9A0;&#x9BE;&#x9A8;)</p>
+                <a class="btn btn-package mb-3 w-90" href="/Public/Packages?p=2">আরো জানুন</a>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 service-item packageItem" data-scheme-type="conventional" style="">
+            <div class="service-box text-center mb-3">
+                <div class="service-icon" style="background-color: #4a3f8b;">
+                    <img src="/assets/public/img/icon/4.png?v=10" alt="">
+                </div>
+                <h3 class="serviceTitle mt-3">&#x9B8;&#x9C1;&#x9B0;&#x995;&#x9CD;&#x9B7;&#x9BE;</h3>
+                <p class="serviceSubTitle">(&#x9B8;&#x9CD;&#x9AC;&#x995;&#x9B0;&#x9CD;&#x9AE; &#x993; &#x985;-&#x9AA;&#x9CD;&#x9B0;&#x9BE;&#x9A4;&#x9BF;&#x9B7;&#x9CD;&#x9A0;&#x9BE;&#x9A8;&#x9BF;&#x995; &#x995;&#x9B0;&#x9CD;&#x9AE;&#x9C0;)</p>
+                <a class="btn btn-package mb-3 w-90" href="/Public/Packages?p=4">আরো জানুন</a>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 service-item packageItem" data-scheme-type="conventional" style="">
+            <div class="service-box text-center mb-3">
+                <div class="service-icon" style="background-color: #9B8449;">
+                    <img src="/assets/public/img/icon/5.png?v=10" alt="">
+                </div>
+                <h3 class="serviceTitle mt-3">&#x9B8;&#x9AE;&#x9A4;&#x9BE;</h3>
+                <p class="serviceSubTitle">(&#x9B8;&#x9CD;&#x9AC;&#x9B2;&#x9CD;&#x9AA; &#x986;&#x9DF;&#x9C7;&#x9B0; &#x9AC;&#x9CD;&#x9AF;&#x995;&#x9CD;&#x9A4;&#x9BF;)</p>
+                <a class="btn btn-package mb-3 w-90" href="/Public/Packages?p=5">আরো জানুন</a>
+            </div>
+        </div>
+
+
+</div>
+
+<style>
+    #packagesRow .packageItem {
+        transition: opacity 0.4s ease, transform 0.4s ease;
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+    #packagesRow .packageItem.scheme-fade-out {
+        opacity: 0;
+        transform: translateY(10px) scale(0.96);
+    }
+
+    .scheme-toggle {
+        position: relative;
+        display: inline-flex;
+        width: 100%;
+        max-width: 340px;
+        background: #eef2f1;
+        border-radius: 999px;
+        padding: 4px;
+        box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
+    }
+
+    .scheme-toggle input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+        pointer-events: none;
+    }
+
+    .scheme-toggle label {
+        position: relative;
+        z-index: 1;
+        flex: 1;
+        margin: 0;
+        padding: 9px 10px;
+        border-radius: 999px;
+        text-align: center;
+        font-size: 13.5px;
+        font-weight: 600;
+        color: #5f6b68;
+        cursor: pointer;
+        white-space: nowrap;
+        transition: color 0.25s ease;
+    }
+
+    .scheme-toggle input[type="radio"]:checked + label {
+        color: #fff;
+    }
+
+    .scheme-toggle input[type="radio"]:focus-visible + label {
+        box-shadow: 0 0 0 2px #ffffff, 0 0 0 4px #008767;
+    }
+
+    .scheme-toggle-glider {
+        position: absolute;
+        z-index: 0;
+        top: 4px;
+        left: 4px;
+        bottom: 4px;
+        width: calc(50% - 4px);
+        border-radius: 999px;
+        background: linear-gradient(135deg, #00a884, #008767);
+        box-shadow: 0 3px 8px rgba(0, 135, 103, 0.35);
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    #schemeTypeConventionalHome:checked ~ .scheme-toggle-glider {
+        transform: translateX(0);
+    }
+
+    #schemeTypeIslamicHome:checked ~ .scheme-toggle-glider {
+        transform: translateX(100%);
+    }
+
+    @media (max-width: 480px) {
+        .scheme-toggle label {
+            font-size: 12px;
+            padding: 8px 6px;
+        }
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var radios = document.querySelectorAll('input[name="schemeTypeHome"]');
+        var items = document.querySelectorAll('#packagesRow .packageItem');
+
+        radios.forEach(function (radio) {
+            radio.addEventListener('change', function () {
+                var schemeType = radio.value;
+
+                items.forEach(function (item) {
+                    item.classList.add('scheme-fade-out');
+                });
+
+                setTimeout(function () {
+                    items.forEach(function (item) {
+                        item.style.display = (item.getAttribute('data-scheme-type') === schemeType) ? '' : 'none';
+                    });
+
+                    // Force reflow so the fade-in transition plays
+                    void items[0].offsetWidth;
+
+                    items.forEach(function (item) {
+                        item.classList.remove('scheme-fade-out');
+                    });
+                }, 300);
+            });
+        });
+    });
+</script>
+
+        
+    </div>
+</section>
+
+<!-- ##### Package End ##### -->
+<!-- ##### Video Start ##### -->
+
+<section class="videoSection mt-5 mb-5">
+    <div class="container">
+
+    </div>
+</section>
+
+
+        </div>
+
+
+    </div>
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area pt-3 pb-3" style="background-color: #262C35; margin-top: 40px; ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <div class="d-flex mt-4 align-items-center justify-content-center">
+                            <a href="/">
+                                <img loading="prelaod" decoding="async" class="img-fluid" src="/assets/public/img/core-img/footerLogo.svg" alt="Universal Pension Logo" width="160">
+                            </a>
+
+                        </div>
+                        <div class="footer-social-info text-center mt-3">
+                            <a href="https://www.youtube.com/channel/UCCAQmiKrad2YLR0jAsyaFSA" target="_blank"><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.facebook.com/npa.gov.bd" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </div>
+                    </div>
+
+                    <!-- Footer Widget Area -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="footer-widget mt-3 footer-menu rightDivier">
+                            <h4 class="footerColor">সর্বজনীন পেনশন সম্পর্কে</h4>
+                            <ul class="list-unstyled">
+                                <li class="mb-2">
+                                    <a href="/Public/About">পটভূমি</a>
+                                </li>
+
+                                <li class="mb-2">
+                                    <a href="/Public/Packages">স্কিমসমূহ</a>
+                                </li>
+                                
+                                <li class="mb-2">
+                                    <a href="/Public/HelpDesk">হেল্প ডেস্ক</a>
+                                </li>
+                                
+
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="footer-widget mt-3 text-left d-flex flex-column rightDivier">
+                            <div class="flex-fill">
+                                <h4 class="footerColor">জাতীয় পেনশন কর্তৃপক্ষ</h4>
+                                <div class="footerColor mt-1">
+                                    <address class="mb-0">
+                                        ৪৩, কাকরাইল, <br />
+                                        ৪ আঞ্জুমান মুফিদুল ইসলাম রোড, ঢাকা- ১০০০
+                                    </address>
+                                    <p class="mb-0">ইমেইল: support@upension.gov.bd</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-lg-4">
+
+                        <div class="footer-widget mt-3 text-left d-flex flex-column">
+                            <div class="flex-fill">
+                                <h4 class="footerColor">যোগাযোগ</h4>
+                                <div class="footerColor mt-1">
+                                    <p class="mb-0"><a href="tel:+8816131">১৬১৩১</a></p>
+                                    <p class="mb-0"><a href="tel:+8809610900800">+৮৮ ০৯৬১০ ৯০০৮০০</a></p>
+                                    <h5 class="fs-16 mb-0 footerColor">(বাংলাদেশ সময় সকাল ৯টা থেকে বিকাল ৫টা)</h5>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <!-- Bottom Footer Area -->
+        <div class="bottom-footer-area d-none">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center justify-content-center">
+                    <div class="col-12">
+                        <p class="text-white">
+                            Copyright &copy;
+                            <script>document.write(new Date().getFullYear());</script> Ministry of Finance
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+    <!-- ##### All Javascript Script ##### -->
+    <script src="/assets/baseURL.js?v=10"></script>
+    <!-- jQuery-2.2.4 js -->
+    <!--<script src="/assets/public/js/jquery/jquery-2.2.4.min.js?v=10"></script>-->
+    <!-- Popper js -->
+    <!--<script src="/assets/public/js/bootstrap/popper.min.js?v=10"></script>-->
+    <!-- Bootstrap js -->
+    <!--<script src="/assets/public/js/bootstrap/bootstrap.min.js?v=10"></script>-->
+    <!-- All Plugins js -->
+    <!--<script src="/assets/public/js/plugins/plugins.js?v=10"></script>-->
+    <!-- Active js -->
+    <!--<script src="/assets/public/js/active.js?v=10"></script>-->
+    <script src="/assets/public/js/toast/toastr.min.js?v=10"></script>
+    <script src="/Scripts/Common/ajaxRequest.js?v=10"></script>
+    <script src="/Scripts/Common/alert.js?v=10"></script>
+    <script src="/bundles/publicJS"></script>
+
+
+    
+    <script src="/assets/public/js/toast/toastr.min.js?v=10"></script>
+    <script src="/assets/public/js/owl.carousel/owl.carousel.min.js?v=10"></script>
+    <script src="/assets/Media/lightbox.min.js?v=10"></script>
+    <script>
+        $(document).ready(function () {
+
+
+
+            $('.owl-carousel').owlCarousel({
+                loop: true,
+                margin: 10,
+                nav: false,
+                dots: true,
+                items: 1,
+                autoplay: true,
+                autoplayTimeout: 10000
+            });
+
+            var track = document.querySelector('.ticker-track');
+            if (track) track.innerHTML += track.innerHTML;
+
+        });
+    </script>
+
+
+
+    <script>
+        $(window).scroll(function () {
+            if ($(window).scrollTop() >= 300) {
+                $('nav').addClass('fixed-header');
+                $('nav div').addClass('visible-title');
+            }
+            else {
+                $('nav').removeClass('fixed-header');
+                $('nav div').removeClass('visible-title');
+            }
+        });
+        function showLoader() {
+            $("#preloader").show()
+        }
+        function hideLoader() {
+            $("#preloader").hide()
+        }
+    </script>
+
+
+</body>
+
+</html>

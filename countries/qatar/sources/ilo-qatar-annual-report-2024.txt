@@ -1,0 +1,1088 @@
+ Progress report on the technical
+  cooperation programme between the
+  Government of Qatar and the ILO
+
+     ILO Project Office for the State of Qatar
+
+      February 2025
+ Progress report on the technical cooperation programme between the Government of Qatar and the ILO      2
+
+ Contents
+
+ Background                                                                                          3
+
+ The context in 2024                                                                                 4
+
+ Pillar 1: Workforce policies                                                                        6
+
+Labour market information system (LMIS)                                                              6
+
+Skills and lifelong learning                                                                         6
+
+Small and medium-sized enterprises (SMEs)                                                            7
+
+Gender equality and non-discrimination                                                               7
+
+Labour mobility                                                                                      8
+
+Attracting and retaining talent                                                                      10
+
+Fair recruitment                                                                                     10
+
+Artificial intelligence (AI) and decent work                                                         11
+
+ Pillar 2: Labour market governance                                                                  12
+
+Labour inspection                                                                                    12
+
+Responsible business conduct (RBC)                                                                   14
+
+Community engagement                                                                                 16
+
+Dispute resolution                                                                                   16
+
+Domestic work                                                                                        17
+
+Social protection                                                                                    18
+
+Social dialogue                                                                                      18
+
+ Pillar 3: International cooperation and exchange of experience                                      21
+
+Bilateral exchanges with other States                                                                21
+
+Cooperation at the regional and global level                                                         21
+
+Advancing the decent work agenda in the region and globally                                          21
+ Progress report on the technical cooperation programme between the Government of Qatar and the ILO  3
+
+ Background
+
+1. An annual progress report on the technical cooperation programme (TCP) between the ILO and the
+       Government of Qatar has been published every year since 2018, and these reports are accessible on the ILO
+       Qatar website.1
+
+2. The objective of the annual progress report is to present key developments and priorities and keep interested
+       parties informed about the broad scope of work undertaken by the ILO Project Office in Doha. This report
+       covers the period from November 2023 to December 2024. In the past, the report was published around
+       November each year to align with the sessions of the ILO's Governing Body. From now, it will be published in
+       January to provide coverage for the full calendar year.
+
+3. To further deepen the impact of the labour reforms adopted in recent years and to strengthen labour market
+       institutions and policies, the TCP transitioned from Phase 2 (2021-2024) to Phase 3 (2024-2028). In March 2024,
+       a Joint Work Programme (JWP) was signed by the ILO Director General and the Minister of Labour of Qatar.
+       This four-year programme includes three strands: (i) Phase 3 of the TCP; (ii) a dedicated project to support the
+       work of the international trade unions in Qatar; and (iii) a secondment programme for Ministry of Labour
+       (MOL) officials to the ILO.2
+
+4. Phase 3 of the TCP is in alignment with the recently launched National Development Strategy (2024­2030) and
+       the Qatar National Vision (QNV) 2030, and also reflects the findings of an independent final evaluation of
+       Phase 2 carried out in 2023. Phase 3 covers three pillars, which also form the structure of this report:
+
+                      Pillar 1. Workforce policies
+                      Pillar 2. Labour market governance
+                      Pillar 3. International cooperation and exchange of experience
+
+5. The administrative data presented in this report comes from Government of Qatar sources unless specified
+       otherwise. Some elements of this report also reflect developments that are not strictly part of the TCP between
+       the ILO and the Government of Qatar. However, they are included to provide further context on the progress
+       of the labour reforms.
+
+1 The previous annual reports can be found here: 2023, 2022, 2021, 2020, 2019, and 2018.
+
+2 Phase 3 of the TCP is ongoing while the dedicated project with the international trade unions is still being finalized with an anticipated starting
+date in early 2025. More details on the JWP can be found here.
+ The context in 2024  4
+
+ The context in 2024
+
+6. The work of the TCP in 2024 has been shaped by a number of factors. Most importantly, by the third National
+       Development Strategy (NDS3) for 2024-2030, which was published in January 2024.
+
+                    In reflecting on the previous period and the goals outlined in the QNV 2030, the NDS3
+                        refers to the labour reforms in the section on Human Development: "Notable progress has
+                        also been made towards a more fair and equitable labour market, with the introduction of
+                        reforms that set a minimum wage and improve worker mobility and protection."3
+
+                    The NDS3 includes a strategic national outcome on a "Future-Ready Workforce" and labour
+                        market goals are prominent throughout the entire strategy. The emphasis is on fostering
+                        a more skilled and productive workforce by attracting and retaining talent from abroad,
+                        upskilling Qatari nationals, and increasing the number of nationals in the private sector.
+                        In addition, the NDS3 highlights the importance of reforms to immigration policy, enabling
+                        new ways of working and further facilitating labour mobility.
+
+                    There are also relevant objectives in the outcome on "Sustainable Economic Growth,"
+                        which identifies target sectors for diversification and focuses on creating an enabling
+                        environment including through creating a "level playing field," more "transparent and
+                        enforceable laws," and ensuring "quality and efficiency" in government services.4 These
+                        points are mentioned in the context of creating a more business-friendly environment, but
+                        would also benefit workers and employers.
+
+7. The National Planning Council (NPC) was established in May 2024 and will play a central role in overseeing
+       and monitoring implementation of the ND3, including through endorsing and supporting national strategies
+       and plans. This body replaces the Planning and Statistics Authority (PSA).
+
+8. Moreover, a Workforce Planning Committee (WPC) was formed with the Minister of Labour as the Chair, and
+       the President of the Civil Service and Government Development Bureau (CGB) and Secretary General of the
+       NPC as the Vice Chair. The Committee includes representatives from the Ministries of Labour, Education and
+       Higher Education, Commerce, Interior, Defense, Finance, the NPC, and the CGB. It also includes Qatar Central
+       Bank and Qatar Energy. The Committee will support coordination for effective workforce planning in the
+       public and private sector and identify challenges and set priorities to address them.
+
+9. In November 2024, the Ministry of Labour launched the National Strategy for an Efficient and Highly
+       Productive Workforce (2024-2030). The event was held under the patronage and presence of the Prime
+       Minister and Minister of Foreign Affairs of the State of Qatar. The Strategy is in harmony with the NDS3 and
+       focuses on (i) enhancing the efficiency and productivity of the workforce; (ii) empowering citizens and
+       increasing their participation in the labour market; and (iii) improving the working environment and
+       conditions in Qatar. The Strategy also prioritizes the enhancement of the Ministry's institutional performance
+       and effectiveness, including by improving the use of technology and digital transformation.
+
+10. The legislative framework is evolving. A law on job localization in private sector was adopted in October 2024,
+       reflecting a top national priority. The NDS3 also sets a clear target for Qatari women and men to make up 20
+       per cent of the workforce in the private and semi-private sector. Another significant piece of legislation under
+       consideration would make joint committees mandatory for companies. This would greatly enhance workers'
+       voice, strengthen relations between workers and management at the enterprise level, and also establish a
+       basis for social dialogue at the sectoral and national level.
+
+3 Third Qatar National Development Strategy 2024­2030 (NDS3). Pp. 10.
+4 NDS3. Pp. 15-20; 32.
+ The context in 2024  5
+
+11. Reflecting on the suite of legislation that was adopted between 2018 and 2021, there is broad acceptance of
+       the legislation on the minimum wage, on occupational heat stress, and on the removal of exit permits. While
+       there is increased recognition of the value of labour mobility, including in the NDS3, it is far from universal,
+       and there is still resistance to it from many employers. Continued practices that contribute to restricting
+       mobility risk undermining its positive impact for workers, employers and the economy overall. In particular,
+       concerns have been raised on the extent to which domestic workers can change jobs or leave the country
+       without their employers' permission; and, relatedly, the high costs that employers incur when recruiting
+       domestic workers.
+
+12. In line with the NDS3, a number of structural reviews are underway to identify gaps in the labour law related
+       to implementation and the quality of services. Assessments are underway or planned in the areas of labour
+       mobility, the labour inspection and occupational safety and health systems, dispute resolution systems,
+       employment contracts, and social protection. The recommendations that emerge could inform labour laws
+       and policies, and also the adoption of operating systems and procedures across MOL departments and units
+       to ensure the consistency and quality of services.
+
+13. These reviews also seek to further digitalize the work of the MOL and enhance online services, an area that
+       has seen a major step forward in the past year. The digital transformation is an explicit policy of the MOL and
+       the Government more broadly, as set out in the NDS3. This is evident in the ongoing development of the
+       Labour Market Information System (LMIS), the launch of several online job-matching platforms, and
+       revamping of the various e-services on the MOL website.
+
+14. An encouraging feature of 2024 has been the significant increase in engagement with migrant community
+       leaders by the MOL and the Workers' Support and Insurance Fund (WSIF). The community leaders are
+       associated with embassies, the National Human Rights Committee (NHRC), international trade unions, and
+       NGOs, among other institutions. This heightened community outreach has increased awareness among
+       migrant workers of their rights and obligations, as well as the range of services available to them. It has also
+       enabled greater cooperation with the various government and non-government entities by creating
+       opportunities for feedback from the community leaders and workers' representatives to the MOL and others.
+
+15. The MOL continues to engage with international trade unions on a range of issues. Under the JWP, a dedicated
+       project to support workers' activities is being finalized with the unions and is expected to begin in early 2025
+       (see paragraph 3).
+
+16. Discussions are ongoing about the ILO Project Office in Doha becoming an ILO Country Office. The functions
+       of the Country Office would build on the JWP with the MOL and seek to enhance partnerships with Qatar-
+       based institutions to further advance the decent work agenda in the country, in the region, and globally.
+ Pillar 1: Workforce policies  6
+
+Pillar 1: Workforce policies
+
+Labour market information system (LMIS)
+
+17. The Ministry of Labour has prioritized the development of a labour market information system (LMIS), which
+       will be a tool to anticipate labour market changes and inform policymaking. It will draw on a wide range of
+       data sources to enable informed and impactful employment policies.
+
+18. In May 2024, the MOL invited the ILO and other partners, including the United Nations Economic and Social
+       Commission for Western Asia (ESCWA), to participate in a two-week workshop to discuss the development of
+       the LMIS platform. The discussion covered the application of the various use cases of the LMIS, labour market
+       indicators, strategies, and best practices for conducting surveys and structuring questionnaires. Progress
+       updates on the LMIS are presented to the Workforce Planning Committee.
+
+19. The ILO continues to work closely with the MOL's Information and Labour Market Research Department and
+       the Transformation Management Office on two main inputs to the LMIS:
+
+                    The first Establishment Skills Survey (ESS) in Qatar, which will provide critical insights into
+                        Qatar's current and future workforce needs. The ESS is a comprehensive survey designed
+                        to collect data directly from employers across various sectors to identify existing skills
+                        gaps, shortages, and anticipate short-term future demands. This information is crucial for
+                        enhancing workforce capabilities and shaping effective labour market policies, supporting
+                        NDS3 goals related to economic diversification and the creation of a highly skilled
+                        workforce. In December 2024, the MOL and ILO organized a workshop titled "Shaping the
+                        Future Workforce: A Quick Dive into the Establishment Skills Survey (ESS)" facilitated by the
+                        International Training Center of the ILO (ITC-ILO) to begin work on the design of the survey
+                        instrument and methodology.
+
+                    The TCP is working with the Qatar Financial Centre (QFC) on a sectoral study on skills in
+                        Qatar's financial sector that complements the broader ESS. While the ESS covers a wide
+                        range of sectors, this study zeroes in on the financial industry, identifying current and
+                        short-term future skills requirements, particularly considering the ongoing digital
+                        transformation. This data-driven approach will enable targeted upskilling strategies and
+                        align education and training programs with industry demands.
+
+20. Another key input to the LMIS is the labour force survey. Representatives from the MOL and the National
+       Planning Council participated in an online training course on designing a labour force survey in May and June
+       2024 delivered by the ITC-ILO. Officials from the MOL also participated in an online course on LMIS by the ITC-
+       ILO in June 2024. While the ESS provides insights into employers' skills demand, the labour force survey serves
+       as a valuable tool for understanding the skills supply, among other key aspects. The LMIS acts as the
+       framework through which these data points are effectively communicated to their intended audiences,
+       whether it is the Government for policymaking or other entities for information and dissemination purposes.
+
+21. The ILO has been sharing tools, approaches, and international good practices with the Higher Education
+       Department of Qatar Foundation (QF) as they work on a tracer study of QF graduates. QF has already
+       presented the approach to other higher education institutions in the country and found that there is interest
+       in replicating it.
+
+Skills and lifelong learning
+
+22. In April 2024, UNESCO and the ILO partnered with UDST and the Ministry of Education and Higher Education
+       (MOEHE) to organize the "International Symposium on Education and Skills for a Future-Ready Workforce:
+       STEM and TVET for a Sustainable and Resilient Society." The objective of the symposium was to initiate a
+ Pillar 1: Workforce policies  7
+
+       dialogue among education institutions, industry stakeholders, and policymakers on forward-looking
+       academic initiatives to activate a responsive government and education industry ecosystem, drawing on
+       regional and international best practice. The symposium resulted in the Doha Declaration on Education and
+       Skills for Future Jobs consisting concrete recommendations from the participants that can be used to inform
+       the development of institutional, national, and regional plans.
+
+23. The ILO is working with the MOL to further develop the Qatar National Occupation Classification (QNOC)
+       system from occupation-based classifications (aligned with ISCO-08) to a more detailed, skills-based
+       framework providing deeper insights into job requirements and skills gaps. With support from the European
+       Commission, the TCP will work to align QNOC with the ESCO (European multilingual classification of Skills,
+       Competences and Occupations) occupations pillar. The collaboration will follow a two-phase approach: an
+       initial automated mapping in early 2025 followed by a more comprehensive one-to-one mapping by the
+       second quarter of 2025.
+
+24. The ILO designed and conducted a capacity building training on occupational classification systems in March
+       2024. The two-day online training provided the technical skills and knowledge needed to develop, use, and
+       maintain a national occupation classification system to around 20 representatives from different departments
+       of the MOL.
+
+25. The ILO presented on the process and value of alignment of the QNOC with ISCO and international
+       frameworks at the Doha Data Forum in October 2024.
+
+Small and medium-sized enterprises (SMEs)
+
+26. In 2024, the TCP supported the mapping of pro-productivity organizations, networks, and programmes in
+       Qatar as part of a regional ILO research initiative covering the Middle East and North Africa (MENA). This
+       assessment will inform a workshop on SME productivity measurement and analysis for National Productivity
+       Organizations in 2025.
+
+27. In May 2024, the ILO participated in a roundtable discussion titled "Self-Employment Drivers and Its Socio-
+       Economic Environment in Qatar and the Region," hosted by the Qatar Chamber of Commerce and Industry
+       (QCCI) and co-organized with the Center for Entrepreneurship & Organizational Excellence (CEOE) at Qatar
+       University's College of Business and Economics (QUCBE).
+
+28. The ILO, MOL and the WSIF are partnering with Nama, an entity of Qatar Social Work under the Ministry of
+       Social Development and Family (MSDF) to roll out the ILO Gender and Entrepreneurship Together (GET Ahead)
+       training program. The training will target migrant women workers who are beneficiaries of the Fund's
+       recreational programmes. The Memorandum of Understanding (MoU) between the entities is currently being
+       finalized, with the training of lead trainers planned in 2025.
+
+29. In November 2024, the ILO co-organized a panel discussion alongside the CEOE and the QCCI on the topic of
+       "Responsible business practices: Sharing practical knowledge to promote a new generation of responsible
+       business leaders within the Arab countries" at the ROWAD Entrepreneurship Conference and the Arab SMEs
+       Summit (ASMES) that took place in Qatar.
+
+Gender equality and non-discrimination
+
+30. The Government of Qatar has ratified Convention No. 111 and is required to report periodically to the ILO
+       Committee of Experts on the Application of Conventions and Recommendations (CEACR) on the measures it
+       has taken for its implementation in law and practice. In October 2024, Qatar submitted its report to the CEACR,
+       responding to the Committee's observations adopted in 2022. The work of the TCP aligns with this Convention,
+       and also the targets on "Social Cohesion" set out in NDS3 and the MOL's National Strategy for 2024-2030, such
+ Pillar 1: Workforce policies  8
+
+       as to have 35 per cent of leadership positions occupied by women and a 30 per cent participation rate of
+       persons with disabilities in the labour force."5
+
+31. In July 2024, the Office of the United Nations High Commissioner for Human Rights (OHCHR)'s Regional Office
+       for the Middle East and North Africa, the Arab Network for National Human Rights Institutions (ANNHRI), and
+       Qatar's NHRC organized a two-day regional dialogue titled "Promoting Equality and Combating
+       Discrimination, including in the Context of Migration," inviting representatives from different GCC National
+       Human Rights Institutions (NHRIs). During the event, the ILO presented on the Discrimination (Employment
+       and Occupation) Convention (No. 111) and facilitated a discussion between the NHRIs and QF's Worker Welfare
+       Department. The discussion focused on the collaboration between QF, the MOL, and the ILO on ways public
+       procurement processes can integrate protections against discrimination in employment for migrant workers,
+       emphasizing the importance of workers' voice and gender-responsive grievance mechanisms.
+
+32. In August 2024, the WSIF in partnership with the ILO, the Ministry of Public Health (MOPH), Qatar Red Crescent
+       (QRC), and the Building and Wood Workers' International (BWI) launched a series of training sessions for
+       companies focused on workplace mental health. The sessions have been delivered to companies in the
+       hospitality and telecommunications sectors, with approximately 125 workers' and management
+       representatives participating. The WSIF plans to expand the training to around 60 companies across the
+       hospitality, telecommunications, and construction sectors on a rolling basis. The ILO's contribution to these
+       trainings includes an introduction to the Violence and Harassment Convention (No.190). The session equips
+       companies with the tools to conduct risk assessments in the workplace and implement strategies and policies
+       to mitigate the identified risks of violence and harassment.
+
+33. In August 2024, the MOL and the ILO organized a four-day workshop on International Labour Standards (ILS),
+       the ILO's supervisory mechanism, and Member States' reporting obligations. The workshop was attended by
+       staff from the MOL's International Cooperation Department and other technical departments. A significant
+       portion of the discussions focused on improving reporting practices related to Convention No. 111. The
+       workshop also emphasized the role of Member States in the global standard-setting process, with a particular
+       focus on the upcoming discussions during the International Labour Conference (ILC) in 2025 and 2026 on
+       decent work in the platform economy.
+
+34. The TCP is actively supporting the MOL in implementing gender-sensitive programming. MOL officials
+       participated in the ITC-ILO Gender Academy in Turin in November 2023. The TCP also supported the WSIF in
+       organizing an event to mark the International Day of Women in Diplomacy on 1 July 2024. The event featured
+       a panel of women engaged in labour diplomacy in Qatar including: (i) grassroots leaders from the Women
+       Migrant Community Leaders' Forum; (ii) international civil servants who facilitate Government-to-Government
+       knowledge exchanges with the WSIF; (iii) labour attachés from embassies who bridge the WSIF and their
+       communities in Qatar; and (iv) representatives from UN agencies facilitating technical exchanges with the
+       WSIF. The panel discussion culminated in the announcement of the launch of the Get Ahead Programme (see
+       paragraph 28).
+
+Labour mobility
+
+35. It has been four years since the adoption of the legislation removing the legal requirement for workers to
+       obtain permission from their employers, in the form of a No Objection Certificate (NOC), to change jobs. This
+       has resulted in greater labour mobility with workers able to find new and better opportunities, and employers
+       able to identify and recruit workers more easily within Qatar.
+
+                      Until the end of September 2024, 50,127 men and 10,124 women have had their
+                        applications to change jobs approved. As in previous years, the overall proportion of
+                        women who changed jobs in this period mirrors the overall proportion of women in the
+                        workforce (16.8 per cent).
+
+5 More information on the strategic outcomes of the NDS3 can be found here.
+ Pillar 1: Workforce policies  9
+
+                      In 2024, there were 3,399 approved applications to change jobs from domestic workers,
+                        with 60 per cent of the applications coming from men.
+
+                      The highest number of workers changing jobs continues to be in the construction sector
+                        (approximately one-third), which is reflective of the overall size of the sector in the labour
+                        market.
+
+36. Throughout 2024, the ILO and MOL collaborated with Strategy Hub to assess the kafala reforms, with a focus
+         on the labour mobility reforms. This study examined the impact of the reforms on the labour market, on
+         workers, and on employers of different sizes in different sectors in Qatar. The study draws from different
+         sources of information:
+
+                      MOL and Ministry of Interior (MOI) data from September 2018 to August 2023 including
+                        on employment change, labour permits, employment contracts, and QID cancellation.
+                        Employment change approvals for workers increased by around 830 per cent in a year
+                        since the reforms were adopted in September 2020 until August 2021, in comparison to
+                        the year before the reforms. The data analysed showed that there has been a gradual
+                        steady increase in number of female workers who have applied to change jobs.
+
+                      An enterprise survey, which was administered through multiple channels to ensure broad
+                        participation from companies across various sectors. The survey was disseminated by the
+                        MOL, various international business councils, and associations of human resources (HR)
+                        professionals. It assessed factors such as recruitment practices, job matching, cost
+                        implications, and investments in skills development of workers before and after the
+                        reforms were adopted in September 2020 to offer a comparative view. The survey findings
+                        highlighted that although respondents were aware of the labour reforms, a significant
+                        majority of employers asked for NOCs or equivalent documents when recruiting workers
+                        locally.
+
+                      The two main reasons provided for this requirement were to mitigate delays in the process
+                        of employment transfer, and to avoid potential conflicts with the former employer. The
+                        findings also reflected that while large enterprises still relied mainly on recruiting workers
+                        from abroad,6 SMEs reported a 20 per cent decrease in their cross-border hiring between
+                        2019-2023. The enterprise survey also looked at the retention rate amongst workers
+                        recruited locally versus workers recruited from abroad during the period.
+
+37. The MOL launched a new revised version of the electronic employment change platform in May 2024. The
+         new system enables both workers and new employers to initiate the employment change (EC) application.
+         Upon the submission of the application by the new employer, the system notifies the worker for his/her
+         approval. The system no longer requires the submission of the EC paper form which previously needed to
+         be filled, signed, and uploaded into the previous system by the worker. This aims to enhance efficiency,
+         reduce the burden on workers, and address challenges related to omissions or inaccurate information filled
+         in the paper form. This is substantial as omissions or technical problems were among the main reasons for
+         rejection of the EC application in the old system.
+
+38. Under this system, the new employer needs to input the working and living conditions including the contract
+         period, job title, probation period, basic monthly wage and other financial entitlements. The worker then is
+         able to review the information and approve or reject the application. This avoids any changes made to the
+         terms and conditions of the new job after the EC application has been approved. The platform is now
+         functioning more efficiently than when the system was first introduced. In September, the average number
+         of days to process an EC application was 9, compared to 6 in September 2023, but down from 22 days in
+         August 2021.
+
+39. The MOL has published user guides on the new system for employers and workers in Arabic and English. The
+         MOL also presented the new platform to the community liaison officers (CLOs) of international trade unions
+
+6 With the lead up to the FIFA World Cup in 2022, an increase in the total workforce of the country could be observed.
+ Pillar 1: Workforce policies  10
+
+         as a part of its efforts to raise awareness. Under the TCP, the ILO plans to coordinate with the MOL to conduct
+         further awareness raising activities in the coming months.
+
+40. Since the adoption of Law No. 13 of 2018 and Ministerial Decision No. 95 of 2019 by the Ministry of Interior,
+         migrant workers have had the right to leave the country either temporarily or permanently without prior
+         approval from their employers. An exception was created for five per cent of a company's workforce,
+         restricted to certain senior positions and for which approval would need to be granted. During 2024, there
+         were 4,759 requests for exit permits. The majority of the requests came from the following sectors:
+         construction, retail, transport, cleaning, and manufacturing. In comparison, there were 13,282 requests for
+         exit permits between January and October 2023.
+
+Attracting and retaining talent
+
+41. The ILO and the MOL collaborated with Fragomen in Qatar to initiate a study to assess whether the
+         immigration and work permit systems address the current and future needs of the labour market. In early
+         2024, companies of various sizes and across sectors were consulted in a roundtable including: (i) local Qatari
+         enterprises; (ii) foreign business councils and their members; and (iii) semi-governmental entities and
+         relevant government entities.
+
+ 42. A comprehensive benchmarking and comparative analysis were conducted to understand the differences
+         and similarities between immigration systems worldwide. This also included analyzing regional and global
+         jurisdictions focusing on long-term residency schemes, nationalization policies, remote working schemes,
+         intracompany transfers, and trusted employer schemes.
+
+                      In line with QNV 2030, the study puts forward a set of 26 main recommendations revolving
+                        around economic growth and retention of workers, addressing the unique challenges and
+                        opportunities within Qatar's labour and immigration frameworks. Some of the key
+                        recommendations include improving pre-departure immigration processes, ensuring
+                        effective and transparent employment change process, and introducing flexible visa quota
+                        requirements.
+
+                      One recommendation of the study is to establish a `Trusted Employer Scheme' in Qatar
+                        through which eligible enterprises that have demonstrated compliance with national
+                        legislation, including labour and immigration laws, can be incentivized through
+                        streamlined immigration processes. Beneficiaries could see reduced visa processing times
+                        and facilitated recruitment and transfer of employees across borders. They would also be
+                        required to demonstrate adherence to laws, with periodic reviews to ensure that they
+                        maintain compliance. The scheme would also promote transparency by maintaining up-
+                        to-date records on workers' legal status, wages, and working conditions, with real-time
+                        reporting to build trust with regulatory bodies. The design of the Trusted Employer
+                        Scheme is currently underway with a view to initiating a pilot phase in 2025.
+
+Fair recruitment
+
+ 43. The ILO has been providing technical inputs to the MOL to review the legal framework on regulating private
+         recruitment agencies in Qatar. In 2024, the ILO conducted a comprehensive review of the Ministerial Decision
+         No. 8 of 2005 regarding the conditions and procedures for obtaining a license to recruit foreign workers for
+         others, and Ministerial Decision No. 21 of 2021 amending certain provisions of Ministerial Decision No. 8 of
+         2005 in line with international labour standards and good practices. Some key recommendations include:
+
+                      Expanding the criteria to obtain a license to recruit workers to require that applicants have
+                        the necessary qualifications and are not involved in crimes related to fraud, violence,
+                        forced labour and trafficking in persons.
+
+                      Requiring the applicant to submit documents related to internal company policies and
+                        systems to ensure compliance with relevant national legislation.
+ Pillar 1: Workforce policies  11
+
+                      To address concerns of workers and employers, it has also been recommended to include
+                        a legal provision on mandatory inspection of the accommodation of private recruitment
+                        agencies.
+
+ 44. The MOL continues to monitor private recruitment agencies. In 2024, the Ministry has revoked the license of
+         8 agencies, and has also published a list of registered recruitment agencies on their website. Under the TCP,
+         the MOL and ILO are looking to develop concrete licensing standards and a standardized process of issuing
+         and renewing licenses for private recruitment agencies in Qatar. In 2025, the MOL will initiate an overall
+         assessment of the labour inspection framework (see paragraph 51), including the existing process of
+         inspecting private recruitment agencies in Qatar.
+
+ 45. In 2024, the MOL took up the role of co-chair at the ILO Fair Recruitment Initiative Advisory Committee. This
+         Committee was established in 2022 to provide advice on strategic priorities and areas of action to the ILO's
+         global strategy on fair recruitment. The State of Qatar has been a member of the committee since its
+         inception.
+
+Artificial intelligence (AI) and decent work
+
+ 46. As is the case worldwide, there is great interest in Qatar on the impact of generative artificial intelligence (AI)
+         on jobs. The ILO co-chaired a track on the subject at the Qatar University College of Business and Economics
+         (QUCBE)'s Center for Entrepreneurship and Organizational Excellence (CEOE)'s seventh annual conference
+         on Entrepreneurship for Sustainability & Impact (ESI) in November 2024, titled "Redefining Business in the
+         Era of AI Revolution."
+
+ 47. In October 2024, the ILO participated in a panel discussion at a Human Resource Symposium hosted by the
+         University of Doha for Science and Technology (UDST) on "Synergy at Work: Unlocking Peak Productivity
+         through Well-Being and Engagement in the Era of Generative AI."
+
+ 48. The ILO presented at an event organized by Georgetown University in Qatar in December 2024 on the subject
+         of "AI Uprising: Opportunities and Challenges for the Future of Work and Its Impact on the Environment."
+
+ 49. Also in December, the MOL and the ILO co-organized a high-level panel on the future of work, including
+         examining the impact of technology, at the annual Doha Forum.
+ Pillar 3: International cooperation and exchange of experience  12
+
+Pillar 2: Labour market governance
+
+Labour inspection
+
+ 50. Up until September 2024, the MOL's Labour Inspection Department inspected 23,438 companies, 12,094
+         worksites (i.e. construction sites), and 5,063 accommodation sites.
+
+ 51. The MOL is initiating a comprehensive review of the labour inspection framework, with the view to
+         establishing an `intelligence-based system' that leverages technology and best practice. Procedures will be
+         re-engineered to enhance compliance with the labour laws to protect workers' rights, providing a clear and
+         consistent regulatory environment, and reducing administrative burdens. The inspection functions cover
+         working conditions, occupational safety and health, accommodation, recruitment agencies, and compliance
+         with the new nationalization law. The ILO has provided inputs on the scope of the review and will be working
+         closely with the MOL throughout the process in 2025.
+
+ 52. A series of trainings are planned in collaboration with the International Organization for Migration (IOM) on
+         the subject of forced labour and trafficking in persons (FL/TIP) for MOL officials. The trainings aimed at
+         providing the MOL and other officers, including inspectors, with the necessary technical knowledge to
+         identify and investigate possible cases of FL/TIP and refer those to the mandated public prosecution bodies
+         in Qatar.
+
+Occupational safety and health (OSH)
+
+53. The Ministry of Labour has initiated the establishment of a National OSH Committee that would have a
+       number of responsibilities, including enhancing coordination on OSH matters among government and private
+       sector entities. The Committee could look into reviewing OSH legislation, the accreditation of OSH
+       professionals in the country, and also the possible ratification of ILO OSH conventions. One of the outstanding
+       priorities remains the collection and analysis of data on occupational injuries and diseases.
+
+54. The ILO is supporting the MOL in the comprehensive review of OSH legislation. This includes a gap analysis
+       of the national legal framework against ILO conventions and recommendations. The report presents a
+       number of recommendations for legal amendments. A second gap analysis was also conducted focusing on
+       regulating the production and use of chemical agents in Qatar. There are plans for field research of the
+       production and use of chemicals in collaboration with UDST starting in 2025.
+
+55. The TCP has continued to support capacity building in the MOL's OSH Department. A training plan comprising
+       different aspects of OSH operational capacities for inspectors was adopted and is under implementation. It
+       includes specialized trainings on specific categories of hazards and risks (e.g., ergonomics, chemicals,
+       construction and others), as well as accidents' investigations, data collection, analysis of occupational
+       accidents, and the planning of operations.
+
+56. In February 2024, a training was conducted on managing risks and risk assessments for OSH professionals
+       from Ashghal as well as workers' and management representatives from joint committees in the retail,
+       hospitality, manufacturing, and facilities maintenance sectors in Qatar. The training was supported by the TCP
+       and the Embassy of the United Kingdom in Qatar and was delivered by a trainer certified by the UK-based
+       National Examination Board in Occupational Safety and Health (NEBOSH). Over 50 participants received an
+       internationally recognized certification on OSH after passing the post-training exam.
+
+57. In the framework of the programme on a gender-responsive labour inspectorate developed with the Swedish
+       Work Environment Authority (SWEA), a technical exchange visit to Sweden took place in December 2024. The
+       exchange was on the subject of ergonomic hazards and risks with a special focus on sectors in which women
+ Pillar 3: International cooperation and exchange of experience  13
+
+       are more likely to be working in Qatar. The mission included technical workshops, inspection visits, and the
+       development of a checklist on inspection of ergonomic hazards and risks for field inspectors.
+
+58. The ILO, in collaboration with the MOL and MOI, developed awareness raising materials on "Road Safety," a
+       major cause of occupational injuries in Qatar. A number of consultations were held with delivery riders, the
+       International Transport Workers' Federation (ITF), and relevant stakeholders (delivery and other companies in
+       the transport sector, academia, the traffic police, embassies and others) in order to develop and to promote
+       the materials.
+
+                       An animation video was produced in multiple languages in May 2024, portraying the
+                         main causes of road accidents and good practices in promoting road safety for workers.
+                         The animation has been disseminated through different channels including through
+                         community leaders, embassies, and the Qatar Red Crescent for viewing at their network
+                         of clinics.
+
+                       Another awareness raising event on road safety was organized in November 2024 in
+                         collaboration with the Ghanaian Embassy in Qatar and the WSIF targeting workers in
+                         the delivery sector. It involved over 300 riders and drivers, and was facilitated by the
+                         food delivery companies, MOL, MOI, migrant community leaders, and the ILO.
+
+59. The MOL conducted a campaign to protect workers from heat stress. The campaign involved targeted
+       inspection visits, focusing on construction worksites, the agricultural sector, delivery companies, and others.
+       This led to 368 worksites being shut down for non-compliance with the legislation. In the same context of the
+       annual heat stress campaign, the ILO participated in numerous awareness raising activities in collaboration
+       with BWI and other partners targeting workers and management of companies in the manufacturing,
+       construction, and security sectors.
+
+60. Following the international conference on occupational heat stress organized by the Government of Qatar
+       and the ILO in 2023, the ILO launched a "Heat and OSH Policy Brief: Best practices in the GCC region and
+       beyond" in June 2024. The brief presents a summary of discussions and outcomes from the international
+       conference regarding policy actions to tackle workplace heat stress.
+
+Wages
+
+61. The Wage Protection System (WPS) enables the Government of Qatar to monitor salaries and allowances paid
+       to workers, and to detect violations. The system can reduce wage disputes and alleviate some of the workload
+       of the Dispute Resolution Department and the Labour Dispute Settlement Committees. In September 2024,
+       102,786 companies sent their salary information files to the WPS.
+
+62. A block is automatically imposed on a company when the system detects that a worker has not been paid or
+       has been paid less than the minimum wage (the system cannot yet detect whether the wage paid according
+       to the salary information file is less than specified by the employment contract). Sometimes these events are
+       administrative reporting errors on the part of the company. In such instances, the MOL will communicate with
+       the company to obtain additional information. If the violation is confirmed and not immediately rectified, a
+       violation notice is issued. A legislative amendment is currently being considered to automatically issue fines
+       in case of non-payment of wages.
+ Pillar 3: International cooperation and exchange of experience                                      14
+
+ Table 1: Enforcement of the WPS by the MOL (2019 ­ 30 September 2024)
+
+Period          Number of companies blocked by WPS               Number of violation notices issued
+
+2019            48,328                                                  2,318
+
+2020            25,200                                                  3,360
+
+2021            27,441                                                  3,102
+
+2022            28,266                                                  7,769
+
+2023            19,445                                                  4,595
+
+2024 (up to 30  18,802                                                  5,667
+ September)
+
+63. The TCP has provided inputs to a report by the ILO Regional Office for the Arab States (ROAS) entitled "Wage
+       Protection Systems in the Gulf Council Cooperation Countries: a regional analysis." The ILO has submitted a
+       set of recommendations on both immediate and mid-term interventions to enhance the efficiency of the WPS.
+
+64. The MOL's Law No. 17 of 2020 on Setting the Minimum Wage for Workers and Domestic Workers established
+       the Minimum Wage Commission. The commission reviews the minimum wage amount on a periodic basis.
+       The TCP is promoting the collection and analysis of wage-related data, and also the participation of workers
+       in the consultations on the minimum wage.
+
+Responsible business conduct (RBC)
+
+65. To promote compliance with national labour laws and regulations, the TCP has strengthened its engagement
+       with business schools and other stakeholders in Qatar. Additionally, the TCP has increased its participation in
+       local and international conferences focused on responsible business conduct, climate change, corporate
+       social responsibility, and Environmental, Social, and Governance (ESG) issues.
+
+Engagement with businesses
+
+66. The TCP has engaged with various networks of human resources (HR) professionals in Qatar including the
+       Qatar HR Forum (QHRF) which brings together over 400 HR professionals from sectors such as banking, retail,
+       and education; the Philippine Human Resource Practitioners - Qatar (PHRPQ), a network of more than 370
+       Filipino HR professionals working across different industries in Qatar; and the Schools' HR Practitioners'
+       Network in Qatar, comprising 60 HR professionals from private schools.
+
+                      In January 2024, the TCP delivered a workshop to over 80 members of the different
+                         Qatar HR communities on grievance management in line with the labour law.
+
+                      In June 2024, the TCP co-hosted a discussion with the QHRF on "The Role of HR in
+                         Shaping Organizational Culture," emphasizing the importance of social dialogue and
+                         joint committees in creating safe and inclusive workplaces.
+
+Engagement with business schools
+
+67. In 2023, the TCP partnered with Qatar University's College of Business and Economics (QUCBE) to develop a
+       Casebook on Business and Human Rights. The casebook includes context-specific case studies documenting
+       challenges and opportunities for responsible business conduct in both the private and public sectors in Qatar.
+       Eight case studies have been finalized and are currently under review, with publication and an executive
+       training launch planned in collaboration with the Center for Entrepreneurship and Excellence (CEOE) at QUCBE
+       for April-May 2025.
+ Pillar 3: International cooperation and exchange of experience  15
+
+68. In the context of the development of the Casebook, the TCP facilitated exchanges between the Global Business
+       School Network (GBSN), the NYU Stern Center for Business and Human Rights, the Geneva School of
+       Economics and Management at the University of Geneva, and the QUCBE in 2023. This has led to the QUCBE
+       joining the GBSN and participating in the GBSN for Business and Human Rights Impact Community 7th Annual
+       Meeting in November 2023. This collaboration will continue with further discussions on how to mainstream
+       human rights into business education in the region.
+
+69. In October 2023, the QUCBE launched the MENA Business Schools Alliance for Sustainability (MEBAS), a
+       network of 14 business schools across eight countries in the Middle East and North Africa (MENA) region. The
+       ILO is a supporting partner for this initiative.7 The network includes institutions such as the University of Dubai,
+       Ajman University, Ecole de Management (Morocco), Prince Sultan University, UAE University, Princess Sumaya
+       University for Technology, Kuwait University, the University of Cyprus, and more. In the United Nations
+       Responsible Business and Human Rights Forum, an Asia regional meeting which took place in Bangkok in
+       September 2024, the MEBAS example of adapting and developing locally relevant teaching material for
+       business and human rights was discussed as a best practice.
+
+70. On the margins of the QCSR Summit in April 2024 (see paragraph 73), the ILO in collaboration with MEBAS
+       organized a workshop on decent work and sustainable chain management for business, logistics, and supply
+       chain professors from the MEBAS network institutions. Following this course, the TCP co-created teaching
+       materials on "Decent Work in Sustainable Supply Chains" with the ILO Helpdesk for Business and the attending
+       MEBAS professors. In July 2024, the TCP organized a webinar to discuss and validate the draft teaching
+       materials and exchange ideas on region-specific case studies and activities for inclusion in later versions.
+
+71. In 2025, the TCP is planning a workshop in Qatar to expand the use of these materials locally, bringing
+       together academics from various disciplines including business education, supply chain logistics, corporate
+       law, and others to discuss how to integrate these concepts into local classrooms. Simultaneously, the TCP will
+       be organizing a workshop using the teaching materials as a basis for joint committee management
+       representatives in a number of sectors including facilities management, manufacturing, retail, etc. in
+       collaboration with QF's Worker Welfare Department.
+
+72. In February 2024, the TCP was invited to join the Human Resource Management (HRM) Program Advisory
+       Committee Meeting of the UDST to provide suggestions for its Bachelor of Business Administration in HRM
+       and Master of Science in HRM programs, considering new labour market and industry trends.
+
+Participation in conferences to raise the profile of labour rights in RBC
+
+73. At the 2024 Qatar Corporate Social Responsibility (QCSR) Summit, the theme was "The Future of CSR in a
+       Circular Economy." The ILO, in collaboration with the MOL, the QUCBE, and MEBAS, organized three panels
+       featuring 18 international and national experts on the circular economy. The discussions addressed key topics
+       such as government policies for transitioning to a circular economy, companies adopting circular business
+       models, converting waste into value, the potential for industrial symbiosis in Qatar, and leveraging academic
+       expertise to advance circularity. Outcomes from the panels include:
+
+                    A report drafted by the TCP and Hamad Bin Khalifa University (HBKU)'s College of Public
+                      Policy on the circular economy in Qatar. This will serve as a foundation for multi-stakeholder
+                      discussions at HBKU on topics including circularity, occupational health and safety, skills,
+                      and social dialogue in 2025.
+
+                    A Masterclass on the circular economy in the region, in the process of finalisation by the
+                      ITC-ILO. It documents the key interventions made by the panellists over the three days of
+                      the QCSR Summit. The masterclass consists of 13 videos with international and Qatar-based
+                      experts on the circular economy and responsible business conduct (RBC) and will be publicly
+                      accessible on the ITC-ILO website once live.
+
+7 For more information, please see this article.
+ Pillar 3: International cooperation and exchange of experience  16
+
+74. On 2 April at the QCSR Summit, the TCP further collaborated with the embassies of the Netherlands, Sweden,
+       Switzerland, and the EU Delegation in Doha to organize a panel on responsible business conduct. The event
+       focused on discussing the implications of the European Union Corporate Sustainability Reporting Directive
+       and the Corporate Sustainability Due Diligence Directive for businesses operating in Qatar. The event also
+       brought together representatives from local business development service providers and academia to explore
+       building an ecosystem that promotes RBC in Qatar, supporting companies in aligning their practices with
+       Qatar's Labour Law and these new international guidelines.
+
+75. This discussion continued in September 2024 in the form of a roundtable with representatives ranging from
+       local human resources practitioners, international business councils, embassies, business school professors,
+       NGOs, and the MOL. The event was organized in collaboration with the Embassy of the Kingdom of the
+       Netherlands in Qatar and the Gulf Sustain Initiative of the Institute for Human Rights and Business (IHRB) and
+       focused on existing knowledge and skills gaps in meeting the new requirements in Qatar. This initiative will
+       be the first of a series of engagements with the listed stakeholders to expand the inclusion of labour and
+       human rights into local business practices, starting in 2025.
+
+76. The ILO participated in the inaugural Dialogue on Business and Human Rights in the Arab States Region co-
+       organized by the NHRC, the ANNHRI, Global Alliance of National Human Rights Institutions (GANHRI), the UN
+       Working Group on Business and Human Rights, OHCHR, and the UNDP in October 2024. The TCP also
+       moderated the closing plenary panel of the event entitled "The Way Forward."
+
+77. The ILO delivered opening remarks and participated at the ESG Qatar Conference in October 2024, focusing
+       on strengthening social reporting among businesses, particularly on labour rights, through ESG reporting.
+
+Community engagement
+
+78. One of the highlights of 2024 has been the enhanced community engagement by the MOL and the WSIF.
+       There has been extensive engagement with BWI, NHRC, embassies and different community groups
+       throughout the year.
+
+79. As part of the MOU signed by the MOL and Migrant Forum Asia (MFA) in October 2022, a series of trainings
+       have been carried out for migrant community leaders. Four training sessions were held in 2024, with
+       presentations from the MOL, WSIF, MOI, the Ministry of Public Health (MOPH), and others. The training
+       sessions have covered all aspects of the labour law in Qatar, issues of workers' mental health as well as other
+       relevant national policies and legislation (such as on migration, social services, and police operations).
+
+80. In January 2024, an online workshop was organized by the ILO, MOL and the Embassy of Mexico on the Labour
+       Rights of Foreign Workers in Qatar, to inform the Mexican resident community and the wider Spanish-
+       speaking community in Qatar about their rights, obligations, and available resources according to the local
+       labour law.
+
+81. To mark International Labour Day in May 2024, the TCP collaborated with the WSIF and the 3-2-1 Qatar
+       Olympic and Sports Museum to organize an event for workers to enjoy the exhibitions at the museum.
+
+Dispute resolution
+
+82. The MOL will shortly commence a review of the national legislation, policies, and mechanisms on dispute
+       resolution with a view to introducing more effective processes and procedures. The ILO has worked closely
+       with MOL on the scope of the review and in identifying challenges that migrant workers face in getting access
+       to justice. Some recommendations are relatively easy to implement, while others require extensive capacity
+       building or a legislative amendment.
+
+83. The TCP, the CLOs of the international trade unions, and community leaders have continued to receive queries
+       from workers, which are then referred to the MOL for action. This provides insight into the issues faced by
+       migrant workers, and where implementation challenges remain. Through 2024, most of the queries received
+       by the TCP involved unpaid wages and end-of-service benefits, as well as challenges in the process of changing
+ Pillar 3: International cooperation and exchange of experience                                                     17
+
+       employers. Although employer retaliation remains an issue, the number of such cases received by the ILO has
+       declined substantially compared to previous years.
+
+84. In 2024, there has continued to be a decline in activity in the construction sector, as major infrastructure and
+       building projects were completed ahead of the World Cup in 2022. While many of these workers have returned
+       home, many other still have ongoing claims for due wages and end-of-service benefits. Unpaid wages and
+       benefits continue to be the primary cause for complaints lodged at the MOL. Some workers manage to change
+       employment, and therefore have an income while they are waiting for their cases to be resolved. Others may
+       not find work, and therefore struggle, or in some cases leave Qatar without their due wages and benefits.
+
+85. The number of complaints received by the MOL in 2024 ­ primarily through the online complaints and
+       whistleblower portal ­ can be found below. Between January and September 2024, the online platform
+       received 22,158 complaints. A quarter of these are referred to the Dispute Settlement Committees, which
+       leads to a long period for workers to wait to have their cases heard.
+
+ Table 2: Labour complaints and outcomes (2022 ­ September 2024)
+
+Period               2022                                        2023                                       Up to 30 September 2024
+
+Number of            31,549                                      28,808                                     22,158
+complaints            80%                                        75.2%                                      72.8%
+                     19.5%                                       24.8%                                       25%
+Proportion of         0.5%                                        <1%                                        2.2%
+complaints settled
+during conciliation
+
+Proportion of
+complaints sent to
+DSCs
+
+Proportion of
+complaints under
+review
+
+Domestic work
+
+86. The TCP continues to engage with various communities of domestic workers. In July 2024, the Assistant
+       Undersecretary for Migrant Labour Affairs at the MOL met with domestic workers' community leaders
+       representing the Ghanaian, Kenyan, and Filipino domestic workers in Qatar. Discussions were held around
+       access to health cards, the wage protection system, referral mechanisms, and regulation of cleaning
+       companies placing workers in private households. As a follow-up, an outreach and training plan will be
+       developed for further engagement and support to domestic workers in Qatar.
+
+87. The TCP continued to disseminate the Know Your Rights booklet for domestic workers in Qatar in 12
+       languages,8 and the Guide to Employing a Migrant Domestic Worker in Qatar booklet for employers in two
+       languages,9 developed in partnership with Migrant-Rights.org.
+
+88. A booklet for private recruitment agencies has been developed and published by MOL and ILO in partnership
+       with The Fair Hiring Initiative. The booklet aims to raise awareness about the relevant legislation on domestic
+       work and to equip private recruitment agencies with concrete steps they can take to facilitate an employment
+       relationship that is mutually beneficial for domestic workers and their employers.
+
+89. The MOL is planning to initiate an assessment and amendment to the Ministry's labour dispute management
+       system (see paragraph 82). The scope of work will also include evaluating the current labour compliant
+
+8 Arabic, Bahasa, Bengali, English, Hindi, Malayalam, Nepali, Sinhala, Swahili, Tagalog, Telegu, and Urdu.
+9 Arabic and English.
+ Pillar 3: International cooperation and exchange of experience                                18
+
+systems and processes available for domestic workers. The TCP will provide technical inputs and
+complementary support.
+
+ Table 3: Complaints by or involving domestic workers (2021 ­ September 2024)
+
+Period                    2021                                   2022  2023    Up to 30 Sept.
+                                                                                     2024
+
+Number of complaints      622                                    1530  577     317
+
+Proportion of complaints
+
+settled before reaching   83%                                    89%   92%     86%
+Dispute Settlement
+
+Committees (DSCs)
+
+Proportion of complaints  16%                                    9%    8%      10%
+sent to DSCs
+
+Proportion of complaints  1%                                     1%    0       4%
+under review
+
+90. The ILO collaborated with the IOM to draft and launch a "Code of Conduct for UN Employers of Domestic
+       Workers in Qatar" in October 2024. The code is a voluntary commitment by UN staff in Qatar that
+       demonstrates a shared responsibility to promote and protect the rights of domestic workers in both their
+       professional and personal lives. The launch event was attended by UN staff in Qatar and domestic workers'
+       community leaders along with MOL, Ministry of Foreign Affairs (MOFA), and representatives of diplomatic
+       missions in Qatar. Information sessions aimed at supporting UN staff to implement the code have been rolled
+       out starting November 2024.
+
+Social protection
+
+91. The ILO continues to engage with the MOL on policy discussions around a comprehensive social insurance
+       scheme in Qatar. In line with international social security standards, possible key components of a benefit
+       package, including but not limited to, employment injury and death compensation, unemployment benefits,
+       sick leave and maternity and paternity leave; have been discussed.
+
+92. Initial discussions on institutional arrangements for planning and implementing insurance schemes were also
+       held. In August and September 2024, social protection specialists from the ILO Regional Office for the Arab
+       States met with various relevant government and non-government entities to discuss the existing systems
+       and schemes, and the needs of the labour market. In the coming year, the TCP will work on designing a
+       potential social insurance package for workers in Qatar.
+
+Social dialogue
+
+93. Discussions are ongoing about legislative amendments that would make joint committees mandatory for
+       companies in Qatar. Proposed revisions to Ministerial Decision No. 21 of 2019 include adjusting the threshold
+       for establishing a committee, the term of joint committee members, the number of worker representatives,
+       and the introduction of non-retaliation clauses and sanctions for non-compliant companies.
+
+94. Lessons learned from the 73 joint committee pilots conducted by the MOL and ILO from 2019 to 2023 have
+       informed key considerations for the MOL in the future rollout of mandatory joint committees. The short-term
+       objectives include raising awareness of the forthcoming mandatory rollout of joint committees, exploring
+ Pillar 3: International cooperation and exchange of experience  19
+
+        sector-specific representation models, and identifying collective concerns. In the long term, the goal is to
+        establish a national platform for social dialogue, build engagement with the Qatar Chamber of Commerce
+        and Industry, and foster information-sharing and consultation on upcoming labour laws, regulations, and
+        guidelines.
+
+95. In preparation for the mandatory rollout of joint committees, information sessions were held in November
+        2023 for representatives from the education and banking sectors. These sessions presented electoral models
+        suitable for schools and gathered information about existing grievance mechanisms commonplace in these
+        sectors.
+
+96. While all new joint committee elections are on hold pending the decisions on legislative amendments that
+        would make joint committees mandatory, the TCP has supported the re-election of joint committees in several
+        companies.
+
+97. Recommendations also include improvements to the MOL's e-service platform to facilitate the registration
+        and referral of collective disputes. The formation of an interdepartmental oversight team comprising of
+        Inspection, Labour Relations, and Dispute Resolution departments has been suggested. A national rollout of
+        a training program delivered through six modules via learning and development institutions is also proposed,
+        with indicators recommended to monitor the effectiveness of joint committees.
+
+Sectoral engagements
+
+98. Discussions between the MOL and ILO are underway to establish either sectoral working groups consisting of
+        management representatives, or Central Labour-Management Consultation Committees (CLMCCs), which
+        would include both management and elected worker representatives. The decision on whether to form a
+        working group or a CLMCC will depend on the prevalence of joint committees in the given sector. The CLMCC
+        is preferred in sectors where a critical mass of joint committees has already been established, for example in
+        transport, retail, and hospitality.
+
+99. Meanwhile, sectoral engagement to promote joint committees is ongoing, with recent efforts focused on the
+        education and banking sectors. Since 2022, the ILO has been working with the retail sector to promote
+        enterprise-level social dialogue. In November 2023, the ILO and MOL organized a training session for
+        participants from nine major retail companies on grievance handling. The training covered practical case
+        studies, role-playing exercises, and introduced the Examination of Grievances Recommendation (No.130).
+
+100. For the fifth consecutive year, the TCP supported the meetings of QF's CLMCC, also known as Tashawor, a
+        platform bringing together workers' and management representatives from QF's supplier community.
+        Meetings have been held in February, March, and July.
+
+101. Following the rollout of the joint committee Module 4 training on Convention No. 111, elected workers'
+        representatives from Qatar Foundation suppliers expressed interest in ensuring fair and transparent
+        distribution of overtime hours among male and female workers, as well as workers of different nationalities
+        and ethnicities. In response, QF's Tashawor formed an overtime subcommittee comprised of five workers' and
+        seven management representatives in October 2023 to address the issue in detail.
+
+102. The overtime subcommittee held its first meeting in December 2023, where the ILO provided guidance on
+        equitable overtime distribution and comprehensive working hour monitoring systems. Sample company
+        policy clauses on OT distribution were shared, and the role of workers' representatives in enforcing these
+        policies was emphasized. The outcome of the meeting was an action plan set by the subcommittee to survey
+        the wider QF supplier network, especially those management representatives responsible for overtime and
+        payroll at the company, to gauge the successes and challenges in working hour management and overtime
+        distribution.
+
+103. Based on this, a survey was conducted in March 2024 targeting human resources, payroll, operations, and
+        other management staff working in QF supplier companies. Input from workers' representatives was gathered
+        via focus group discussions in a Tashawor meeting in March 2024. In total, ten companies responded to the
+ Pillar 3: International cooperation and exchange of experience  20
+
+       survey and the combined findings of the management survey and workers' focus group discussions were
+       shared with the wider Tashawor meeting in July 2024.
+
+Capacity-building programmes
+
+104. Following a capacity building training on gender-specific workplace issues including discrimination, violence,
+       and harassment, the ILO and MOL facilitated consultations with the women's subcommittee to develop a
+       grievance escalation procedure that women suppliers can use when confronted with discrimination, violence
+       or harassment by other suppliers, visitors, students, staff or faculty on campus.
+
+105. In collaboration with Qatar Foundation, the TCP delivered a Training of Trainers (TOT) program to
+       management and workers' representatives from across Qatar's joint committee community between
+       September and October 2024. The objective of the TOT is to enhance the efficiency of organizing and
+       delivering trainings by considering the changes to the structure and membership of JCs throughout Qatar. It
+       also aimed to test the TOT methodology, identify potential lead trainers who could assist learning and
+       development service providers in implementing the training program at the national level once joint
+       committees become mandatory, and build the capacity of lead trainers to review evaluation methodologies
+       for the TOT and JCs in collaboration with the MOL and other partners.
+
+106. The TOT in September and October 2024 covered Modules One (on the roles and responsibilities of joint
+       committee members) and Two (on employee participation rights) and was divided into three parts:
+
+                       An introduction to the content, including basic training and public speaking skills;
+                       a practice session where participants role-played delivering the training; and
+                       the actual delivery of the training to other JC representatives.
+
+       The Module 1 TOT had 24 participants, of which 15 were certified as lead trainers. The Module 2 TOT had a
+       total of 23 participants with 20 certified as lead trainers.
+
+107. In the context of an MOU between the Government of Qatar, the Netherlands, and the ILO on exchanges
+       regarding social dialogue and collective dispute resolution, the ILO facilitated an exchange between the MOL
+       and Dutch institutions. Ten officials from the MOL participated in the study tour in February 2024, meeting
+       with Dutch ministries, the Social and Economic Council, the Netherlands Trade Union Confederation (FNV),
+       and the Netherlands Enterprise Agency (RVO).
+
+108. Based on the exchange, the ILO has facilitated two additional engagements between Dutch institutions and
+       the MOL in Qatar. In October, the TCP worked with the MOL and SBI Formaat to organize consultations on the
+       development of a joint committee training for occupational safety and health. The consultations included over
+       40 participants, ranging from joint committee management and workers' representatives from the retail,
+       hospitality, transport, private security, manufacturing, and facilities maintenance sectors to OSH specialists
+       and vocational trainers. The exchange also included site visits of MOL officials and the SBI Formaat to the
+       workplaces of three companies with joint committees in different sectors.
+
+109. Also in October, the TCP exchanged with the Ministry of Social Affairs and Employment in the Netherlands to
+       discuss developing confidentiality and non-retaliation standard operating procedures for joint committees.
+       The exchange included workshops with MOL officials in Qatar on employee participation rights, confidentiality
+       policies, and non-retaliation in the joint committee context. The exchange concluded with the pilot of the
+       Module 2 (on employee participation rights) training delivered by joint committee workers' and management
+       representatives as per the TOT programme (see paragraph 106).
+ Pillar 3: International cooperation and exchange of experience  21
+
+Pillar 3: International cooperation and exchange of
+  experience
+
+Bilateral exchanges with other States
+
+ 110. In recent years, a number of MOUs have been signed between Qatar, the ILO and other countries (France,
+         Netherlands, and Sweden) ­ to facilitate the sharing of expertise and experience on a range of labour-related
+         matters. In 2024, these exchanges continued, and specific activities are highlighted throughout the progress
+         report.
+
+ 111. In addition, there have been exchanges with other countries, including Singapore. In 2023, Singapore
+         received a delegation from the WSIF, and in April 2024 a high-level delegation visited Qatar to exchange with
+         the MOL and ILO on measures that Qatar has adopted to mitigate occupational heat stress.
+
+Cooperation at the regional and global level
+
+ 112. This year has seen a further deepening of cooperation at the GCC level. The ILO Regional Office has
+         collaborated closely with the GCC Executive Bureau on a number of initiatives which the TCP has also
+         contributed to. This includes support to an online regional meeting on the standard-setting process on
+         decent work in the platform economy in July, and the Symposium on Education and Skills for a Future-Ready
+         Workforce in April in Doha (see paragraph 49). Moreover, the TCP provided inputs on regional studies on
+         wage protection systems, on social protection, and on absconding.
+
+ 113. In May 2024, the MOL and the African Union Commission launched the Doha Dialogue ­ an inter-regional
+         consultative process on labour mobility between the GCC, Jordan, Lebanon and the African Union member
+         states. The ILO Regional Director for the Arab States presented an overview on effective labour migration
+         governance and highlighted three key areas related to fair recruitment, skills development and recognition,
+         and extension of social protection to migrant workers.
+
+ 114. The MOL and ILO have participated in a number of meetings to share Qatar's experiences with other
+         countries. For example, the TCP presented Qatar's experiences in promoting fair recruitment during the ITC
+         training course on "Establishing Fair Recruitment Processes" in October 2024.
+
+Advancing the decent work agenda in the region and globally
+
+ 115. In 2024, the relationship between the ILO and various Qatari institutions has deepened significantly,
+         reinforcing Qatar's commitment to advancing the decent work agenda nationally, regionally, and globally.
+         This strengthening of ties is grounded in Qatar's broader commitment to multilateral cooperation, as
+         explicitly mentioned in NDS3. During his address at the UN Summit of the Future in New York in September
+         2024, Qatar's Prime Minister emphasized Qatar's dedication to multilateralism and its role in supporting
+         global development through the UN system.
+
+ 116. Further at the Summit, the ILO invited QFFD to participate in the Youth Action Day multi-stakeholder panel
+         titled "YouthLead: Innovative Solutions in Humanitarian Response - Youth-led Action in Forced Displacement
+         and Humanitarian Emergencies," which spotlighted youth-driven responses to crises. Meanwhile, Silatech
+         was invited to join a roundtable co-hosted by Microsoft Philanthropies on "AI Skills and Capacity Building in
+         Hard-to-Reach Communities," focusing on leveraging artificial intelligence to empower marginalized
+         communities.
+
+ 117. In the scope of youth engagement, the ILO contributed to a conference in Doha organized by the Education
+         Above All (EAA) Foundation on "Youth Empowerment in Climate Conflict" in April 2024. Following this, the ILO
+         participated in a side event entitled "Education to Combat the Climate Crisis" in July 2024 during the High-
+         Level Political Forum (HLPF) under the auspices of the UN Economic and Social Council (ECOSOC).
+ Pillar 3: International cooperation and exchange of experience  22
+
+118. In June 2024, the Ministry of Foreign Affairs (MOFA) organized a landmark event bringing together UN
+       agencies and over 60 national ministries and entities. This gathering aimed to enhance mutual
+       understanding of the national and international mandates of UN agencies operating in Qatar and to foster
+       greater cooperation across sectors.
+
+119. Following the ILO's successful organization of two side events with the UN at the Doha Forum 2023, the ILO
+       also supported two high-level events during the Forum in December 2024. The first was on the future of work
+       co-organized with the MOL; and the other, co-organized by the ILO and QFFD, focused on "Women and Girls
+       in Conflict and Post-Conflict Situations." This followed a joint webinar held in July 2024 between the ILO and
+       QFFD on the ILO's work at the intersection of the humanitarian, development, and peacebuilding nexus.
+
+120. The JWP signed between the ILO and the MOL includes a component on secondments. Currently, two MOL
+       officials are temporarily assigned to departments in the ILO in Geneva. MOFA also has a Junior Professional
+       Officer (JPO) programme. In June 2024, the ILO participated in a briefing alongside other UN agencies to
+       introduce potential JPOs to the ILO's mandate and operations.
+
+121. In February 2024, the MOL and the ILO co-hosted a high-level event to mark the World Day for Social Justice,
+       the first such celebration in Doha.
+
+122. In 2025, Qatar will host the second World Summit for Social Development (WSSD), a milestone event for the
+       ILO and the global development community.
+
+Contact details  International Labour Organization Project       T: +974 4141 5205
+                 Office for the State of Qatar                   E: doha@ilo.org
+                 3rd Floor, United Nations House
+                 Zone No. 69; St. No. 100; Bldg. No. 334                © International Labour Organization 2025
+                 P.O Box 18685
+                 Lusail, Qatar
+
