@@ -1,7 +1,12 @@
 Step-by-step guides for people in Bangladesh who want to work abroad, one doc per destination country. Every sentence is cited.
 
+Countries:
+
 - [Saudi Arabia](countries/saudi-arabia/) (draft, under review)
 - [Malaysia](countries/malaysia/) (draft, under review)
+
+For all countries:
+
 - [Recruiting agencies](agencies/): the most active licensed agencies, by country, with cited red flags
 
 Each country folder has the same files:

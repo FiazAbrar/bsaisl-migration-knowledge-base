@@ -2,6 +2,16 @@
 
 This list shows which licensed recruiting agencies hold the most job orders approved by BMET (the Bureau of Manpower, Employment and Training) for each country, counted from the permission letters BMET posted between May 2023 and December 2025 [P0001, A0110]. Where one BMET posting covers several agencies, each agency's part counts as one letter [P0001]. A high count shows activity, not fair treatment: several of the busiest agencies face corruption cases [N0053, C0013].
 
+## How the numbers were counted
+
+The letter and worker counts in this list are our own count; no one publishes them. We downloaded every permission letter BMET posted at bmet.gov.bd/pages/miscellaneous-infos, from 7 June 2023 to 10 December 2025, and read each one: 3,045 letters once reposts are removed [P0001]. A permission letter is BMET's approval for an agency to process clearance for a set number of workers for a named employer [A0112, P0004]. So:
+
+- **Letters** are the permission letters naming the agency for that country. A posting that covers several agencies counts once for each.
+- **Workers** are the posts those letters approve, not people who actually went. A permission BMET posted twice is counted once.
+- **Gaps:** BMET posts only some of its approvals, and its list stops in December 2025. About 100 letters, mostly 2023 scans, couldn't be read for a country or a worker number and are left out of the country counts.
+
+The data is in `agencies/activity.csv`, one row per letter with a link to its PDF; `tools/agency_counts.py` recounts every figure here from it.
+
 ## How to check an agency
 
 1. **Check the licence on OEP.** Open oep.gov.bd/agencies (the agent list on the Overseas Employment Platform, BMET's online system) and find the agency by its RL number, the recruiting licence number written RL plus four digits; the list gives name, address, office phone, licence status and validity date [A0109]. Compare these with the office you visited. An Active licence is not a clean record: Greenland Overseas and Navira, both in the ACC's (Anti-Corruption Commission's) Sep 2025 cases, still show Active [N0053, A0001, A0031].
