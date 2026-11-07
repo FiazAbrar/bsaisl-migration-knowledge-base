@@ -1,0 +1,157 @@
+## Editor's Pick
+
+##### [How can Bangladesh build a thriving creative economy?](/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621)
+
+6 November 2026 • Wisdom
+
+##### [Opinion  / US midterm results: What it means for Bangladesh’s trade and economic challenges](/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206)
+
+5 November 2026 • Business
+
+##### [Could Trump's electoral defeat make the world less secure?](/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666)
+
+5 November 2026 • Geopolitical Insights
+
+##### [Padma Barrage: Why Bangladesh needs it and the challenges ahead](/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946)
+
+5 November 2026 • Big Picture
+
+##### [A 93rd birthday tribute / How Amartya Sen changed the way we understand development](/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976)
+
+4 November 2026 • Big Picture
+
+# Malaysia-bound workers may leave from early Nov
+
+Medical tests from Oct 31; govt yet to fix recruitment costs; agencies warn expenses could reach Tk 6 lakh
+
+Published : 29 October 2026
+
+•
+
+Updated : 29 October 2026, 12:19
+
+• [BANGLADESH](/news/bangladesh)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgICAgICAgICA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz4KICAgICAgICAgICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNsaXBwYXRoIGlkPSJjbGlwMF8zNDE5XzM5Ij48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIiAvPjwvY2xpcHBhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICAgICAgPC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://x.com/intent/tweet?text=Malaysia-bound%20workers%20may%20leave%20from%20early%20Nov&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fmalaysia-bound-workers-may-leave-early-nov-4310326) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fmalaysia-bound-workers-may-leave-early-nov-4310326) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fmalaysia-bound-workers-may-leave-early-nov-4310326&title=Malaysia-bound%20workers%20may%20leave%20from%20early%20Nov)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)
+
+![Mohammad Jamil Khan](/sites/default/files/styles/thumbnail/public/images/author/jamil_khan_0.jpg)
+
+Mohammad Jamil Khan
+
+[Mohammad Jamil Khan](/author/mohammad-jamil-khan)
+
+![Bangladeshi migrants workers rights in Malaysia](/sites/default/files/styles/big_1/public/images/2023/11/07/labour-migration-sector.jpg)
+
+**Bangladeshi workers may begin travelling to Malaysia in the first week of November, with medical tests set to start on October 31. However, uncertainty persists over recruitment costs, with private agencies warning that actual expenses could far exceed preliminary estimates.**
+
+The government is yet to finalise recruitment costs, with initial estimates of Tk 3–4 lakh through private agencies and Tk 1.55–1.60 lakh through state-run Bangladesh Overseas Employment and Services Limited (BOESL). The government-fixed rate during the previous recruitment period was Tk 78,990.
+
+[Tap here to add The Daily Star as a trusted source ![google-preferred-source-badge](/themes/custom/swallow/images/google_preferred_source_badge_dark.webp)](https://www.google.com/preferences/source?q=thedailystar.net)
+
+State Minister for Expatriates’ Welfare and Overseas Employment Nurul Haque Nur disclosed the estimates yesterday, clarifying that the figure for private agencies was his personal assessment, not an official rate, while the BOESL estimate was based on preliminary discussions.
+
+An owner of a recruiting agency approved under Malaysia’s recruitment system told The Daily Star, “The government may fix the cost at Tk 3–4 lakh, but we are paying around 10,000 ringgits \[around Tk 3.04 lakh\] in commission against each work order. Once airfare and medical expenses are added, the cost will be no less than Tk 6 lakh.”
+
+The agency owner, whose firm has received job orders for around 15,000 workers, expects to complete recruitment procedures by the first week of November.
+
+Meanwhile, questions have emerged over the government’s much-publicised plan to send 10,000 workers, selected according to Malaysia’s skill requirements, through BOESL at zero migration cost, as they will still have to pay for airfare, medical tests and a small service charge.
+
+Migration expert Asif Munier said the lack of clarity over the zero-cost promise could create confusion and opportunities for exploitation.
+
+He urged the government to disclose and justify the actual costs, as was done under the previous government-to-government arrangement, and clarify how workers would be selected for the BOESL initiative.
+
+**‘ZERO-COST’ RECRUITMENT**
+
+Asked about the zero-cost initiative, Nur acknowledged that workers would still have to bear some expenses.
+
+“It would not be right to call it completely free,” he said, adding that workers would have to pay for airfare, medical examinations and a small BOESL service charge.
+
+He said workers could travel at minimal cost but did not specify how much they would have to pay under the initiative.
+
+Explaining the higher estimated recruitment costs through private agencies, Nur said they incurred expenses securing job orders and maintaining ties with foreign employers, unlike BOESL, whose staff salaries and operating costs were government-funded.
+
+He described the previous government-fixed recruitment rate as unrealistic, saying it was not followed in practice.
+
+Asked whether recruitment costs through private agencies could exceed Tk 5 lakh, he said there was no reason to assume so, as the government would set a rate and try to ensure agencies complied with it.
+
+A survey by US-based non-profit Verité found that workers spent an average of Tk 5.44 lakh to secure jobs in Malaysia during 2022–2024, against the government-fixed rate of Tk 78,990.
+
+**MEDICAL TESTS TO BEGIN OCT 31**
+
+In a statement yesterday, the expatriates’ welfare ministry said medical examinations for prospective Malaysia-bound workers would begin on October 31 at government-approved centres.
+
+Tests conducted before that date would not be accepted for immigration clearance, it warned.
+
+The ministry said a list of authorised medical centres would soon be published on its website. Nur said Malaysian authorities were expected to finalise the list by October 31 following bilateral discussions.
+
+#### [![Google News Link](/themes/custom/swallow/images/google_news.svg)For all latest news, follow The Daily Star's Google News channel.](https://news.google.com/publications/CAAiECW73usLivqPCSeQRsSUvRQqFAgKIhAlu97rC4r6jwknkEbElL0U)
+
+The ministry also warned that middlemen and unscrupulous recruiting agencies were trying to collect passports and money from jobseekers by offering unauthorised medical tests.
+
+It urged workers to avoid such offers and verify the authorisation of agencies and medical centres before handing over passports or money.
+
+No medical centre or recruiting agency would be allowed to conduct or arrange tests without government approval.
+
+Until further notice, recruiting agencies seeking clearance from the Bureau of Manpower, Employment and Training must submit the required documents, including Visa With Reference (VDR) papers, to authorised medical centres for examinations.
+
+Violations could lead to the closure of medical centres, suspension of recruitment activities or cancellation of government authorisation, the ministry warned.
+
+Workers were also urged to report unauthorised medical tests, with supporting details and evidence, to [\[email protected\]](/cdn-cgi/l/email-protection).
+
+**WHEN CAN WORKERS LEAVE?**
+
+Nur expressed hope that recruitment procedures would be ready by November 1, allowing workers to travel to Malaysia after completing medical examinations.
+
+The first workers could depart within two to four days of undergoing the tests, provided the remaining formalities were completed, he said.
+
+Recruitment would begin through BOESL, with private agencies also expected to start sending workers in the first week of November. However, Nur acknowledged that some formalities remained incomplete.
+
+Malaysia has approved 338 recruiting entities under the new arrangement: 25 principal agencies, 312 associate agencies and BOESL.
+
+Associate agencies must work through principal agencies or BOESL for key recruitment procedures, raising concerns among agency owners and migration experts over the continued dominance of a limited number of agencies.
+
+Nur said Malaysian employers had begun submitting demand letters through the Foreign Workers Centralised Management System and the Bangladesh mission’s electronic services.
+
+However, the mission had yet to attest the letters, without which no job demand would be accepted.
+
+Malaysia suspended new recruitment from Bangladesh on May 31, 2024, following allegations of irregularities and excessive migration costs. The government announced the labour market’s reopening earlier this month, but recruitment procedures and costs remain unsettled.
+
+[BANGLADESHI WORKERS](/tags/bangladeshi-workers) [MIGRANTS](/tags/migrants) [MALAYSIA-BOUND WORKERS](/tags/malaysia-bound-workers) [MALAYSIA WORK VISA UPDATE FOR BANGLADESHIS](/tags/malaysia-work-visa-update-bangladeshis)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz48ZGVmcz48Y2xpcHBhdGggaWQ9ImNsaXAwXzM0MTlfMzkiPjxyZWN0IHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0id2hpdGUiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://x.com/intent/tweet?text=Malaysia-bound%20workers%20may%20leave%20from%20early%20Nov&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fmalaysia-bound-workers-may-leave-early-nov-4310326) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fmalaysia-bound-workers-may-leave-early-nov-4310326) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fmalaysia-bound-workers-may-leave-early-nov-4310326&title=Malaysia-bound%20workers%20may%20leave%20from%20early%20Nov)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)
+
+[Click to comment](javascript:void(0))
+
+#### Comments
+
+[Comments Policy](/comment-policy)
+
+## Related News
+
+##### [HSC re-scrutiny deadline extended until 12pm tomorrow](/news/education/news/hsc-re-scrutiny-deadline-extended-until-12pm-tomorrow-4317826)
+
+1 SEC(s) • Education
+
+##### [New mass protests in France as police thwart banned rally](/news/world/news/new-mass-protests-france-police-thwart-banned-rally-4317811)
+
+0 SEC(s) • World
+
+##### [2 killed in dump truck-pickup collision in Mymensingh](/news/accidents-and-fires/news/2-killed-dump-truck-pickup-collision-mymensingh-4317796)
+
+1 SEC(s) • Accidents and Fires
+
+##### [Govt will provide a ticket if necessary, but come back to Bangladesh and face trial, Yasser Khan tells Hasina](/news/news/govt-will-provide-ticket-if-necessary-come-back-bangladesh-and-face-trial-yasser-khan-tells-hasina-4317786)
+
+1 SEC(s) • News
+
+##### [BGB foils BSF 'push-in attempt' along Moulvibazar border](/news/news/bgb-foils-bsf-push-attempt-along-moulvibazar-border-4317781)
+
+1 SEC(s) • News

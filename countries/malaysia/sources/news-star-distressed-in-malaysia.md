@@ -1,0 +1,149 @@
+## Editor's Pick
+
+##### [How can Bangladesh build a thriving creative economy?](/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621)
+
+6 November 2026 • Wisdom
+
+##### [Opinion  / US midterm results: What it means for Bangladesh’s trade and economic challenges](/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206)
+
+5 November 2026 • Business
+
+##### [Could Trump's electoral defeat make the world less secure?](/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666)
+
+5 November 2026 • Geopolitical Insights
+
+##### [Padma Barrage: Why Bangladesh needs it and the challenges ahead](/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946)
+
+5 November 2026 • Big Picture
+
+##### [A 93rd birthday tribute / How Amartya Sen changed the way we understand development](/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976)
+
+4 November 2026 • Big Picture
+
+# Distressed in Malaysia
+
+Thousands of Bangladeshi migrants jobless, unpaid or underpaid
+
+Published : 9 March 2024
+
+•
+
+Updated : 10 March 2024, 09:24
+
+• [WORK AND MIGRATION](/news/work-and-migration)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgICAgICAgICA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz4KICAgICAgICAgICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNsaXBwYXRoIGlkPSJjbGlwMF8zNDE5XzM5Ij48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIiAvPjwvY2xpcHBhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICAgICAgPC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://x.com/intent/tweet?text=Distressed%20in%20Malaysia&url=https%3A%2F%2Fwww.thedailystar.net%2Fnrb%2Fmigration%2Fnews%2Fdistressed-malaysia-3562991) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnrb%2Fmigration%2Fnews%2Fdistressed-malaysia-3562991) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnrb%2Fmigration%2Fnews%2Fdistressed-malaysia-3562991&title=Distressed%20in%20Malaysia)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)
+
+![Porimol Palma](/sites/default/files/styles/thumbnail/public/images/author/528482_10151178335788820_1099470828_n.jpg)
+
+Porimol Palma
+
+[Porimol Palma](/author/porimol-palma)
+
+![Representational image of Bangladeshi migrant workers.](/sites/default/files/styles/big_1/public/images/2022/07/05/migrants.jpg)
+
+Representational image of Bangladeshi migrant workers. File Photo: Reuters
+
+For aspiring migrant workers in Bangladesh, Malaysia's reopening of the labour market in 2022 for 15 source countries including Bangladesh to jumpstart its economy from the ravages of the pandemic -- was a godsend.
+
+The Southeast Asian nation had frozen recruitment from Bangladesh in September 2018 following allegations of labour exploitation and high migration costs.
+
+[Tap here to add The Daily Star as a trusted source ![google-preferred-source-badge](/themes/custom/swallow/images/google_preferred_source_badge_dark.webp)](https://www.google.com/preferences/source?q=thedailystar.net)
+
+[![Justice for stranded Bangladeshi workers in Malaysia](https://www.thedailystar.net/sites/default/files/media/api_images/2024/02/08/migrant-malaysia.jpg)](/nrb/migration/news/justice-stranded-bangladeshi-workers-malaysia-3539471)
+
+[Read more](/nrb/migration/news/justice-stranded-bangladeshi-workers-malaysia-3539471)
+
+### [Justice for stranded Bangladeshi workers in Malaysia](/nrb/migration/news/justice-stranded-bangladeshi-workers-malaysia-3539471)
+
+Hoping to change the lives of their families for the better, tens of thousands of men borrowed lakhs to fund the migration process. However, a rude awakening awaited the Bangladeshi migrants in Malaysia: there was no work for them.
+
+![Struggles of Bangladeshi Migrants in Malaysia](/sites/default/files/styles/big_1/public/images/2024/03/10/malaysia-text.jpg)
+
+More than 400,000 Bangladeshis went to Malaysia since the reopening of the labour market, according to the Bureau of Manpower Employment and Training. In fact, Malaysia recruited the highest number of workers from Bangladesh -- more than 351,000 workers only in 2023.
+
+Many of them are now jobless, unpaid or underpaid.
+
+One such optimistic migrant was Jahirul Islam from Netrokona, who spent Tk 5 lakh to go to Malaysia seven months ago, taking advantage of the relaxed recruitment policy for foreign workers introduced by the Southeast Asian nation in January last year.
+
+Under the special scheme, employers were allowed to hire workers based on their current needs and abilities without having to go through "hiring prerequisites and qualification quotas".
+
+The only requirement was that the foreign workers would be paid a minimum wage of 1,500 Malaysian ringgit (about Tk 35,000 or \$320).
+
+The 30-year-old Jahirul got a construction job at Beaks SDN BHD in Kuala Lumpur, where he would be paid the minimum monthly wage of RM 1500 that could double with overtime and other allowances.
+
+"But there was no work and no pay. We are provided food twice a day -- it's just rice and lentils," he told The Daily Star on March 2 over the phone from a Kuala Lumpur hotel where he and some 50 other Bangladeshis are staying.
+
+The company hired about 600 Bangladeshis but they were not provided with any job. For a few weeks, some of them were assigned to work for other companies with lumpsum or no pay.
+
+What is more cold-hearted is that the company is taking away the passports of foreign workers. Upon furnishing Tk 1.7-1.8 lakh, they could have their most precious identification document back.
+
+If anyone leaves the hotel, he is not allowed to return and thus becomes illegal. In other words, the foreign workers are held hostage in the hotel.
+
+Shakil Khan from Jahirul's cohort was intrepid enough to venture out of the hotel to look for jobs. With no passport on him, he had no luck with the job hunt.
+
+The 29-year-old from Magura has rented a room with the money his family has sent from Bangladesh by borrowing.
+
+"I was supposed to pay back the loan I took to come here with my earnings, but I am plunging further into debt just to survive here. What could be more tragic?"
+
+Compounding his worries is the death of his father months after he migrated to Malaysia, meaning his mother, wife and two-year son have to fend for themselves and also manage money for him.
+
+Shakil along with six others filed a complaint with Malaysia's Labour Department and is awaiting a verdict.
+
+#### [![Google News Link](/themes/custom/swallow/images/google_news.svg)For all latest news, follow The Daily Star's Google News channel.](https://news.google.com/publications/CAAiECW73usLivqPCSeQRsSUvRQqFAgKIhAlu97rC4r6jwknkEbElL0U)
+
+"I will be undocumented if I cannot renew my work permit in the next two months," he said.
+
+Like Shakil and Jahirul, more than 100,000 Bangladeshis are now jobless, unpaid, underpaid and indebted in Malaysia, according to the estimates of Andy Hall, a migrant rights activist and researcher.
+
+Hall documented dozens of cases where Bangladeshi migrants were denied jobs even though they followed all the procedures.
+
+Another Kuala Lumpur-based migrant rights researcher said the number of such Bangladeshis would be around 200,000.
+
+This raises the question of who is to blame for the Bangladeshi migrant workers' plight in Malaysia.
+
+Researchers said numerous bogus companies applied for foreign workers taking advantage of the relaxed rules. The companies brought the foreign workers to the Malaysian shore only to make money out of the process.
+
+Though the relaxed recruitment was for manufacturing and services sectors, many construction companies snuck in foreign workers too.
+
+This relaxed policy led to an excess of foreign workers in the manufacturing and service sectors, according to the Malaysian home ministry.
+
+On October 23 last year, Malaysian newspaper The Star reported that a total of 667,418 foreign workers had entered Malaysia compared to the forecast of 518,000 since the reopening of the labour market in 2022.
+
+Officials at the Bangladesh High Commission in Malaysia and the Bangladesh Association of International Recruiting Agencies (BAIRA) also admit that there was surplus recruitment of workers and that many are unemployed.
+
+They, however, say that the number would be a few thousand -- which the independent researchers rejected.
+
+As per the memorandum of understanding, the Malaysian government is responsible for ensuring that all workers have jobs and rights, said Ali Haider Chowdhury, secretary general of BAIRA.
+
+"I hope the Malaysian authorities will probe the complaints and take necessary actions to put the workers in jobs."
+
+An official at the Bangladesh High Commission in Kuala Lumpur said the mission takes up complaints of joblessness, nonpayment or underpayment with employers.
+
+"In case of failures, the high commission engages the Malaysian authorities for addressing the complaints," he said on the condition of anonymity as he is not authorised to speak with media.
+
+Jahirul though remains sceptical of the support provided by the Bangladesh mission.
+
+The Bangladesh high commission officials visited their hotel three months back and pledged to solve the problems.
+
+"Nothing happened since then."
+
+[BANGLADESHI MIGRANTS](/tags/bangladeshi-migrants) [BANGLADESHI MIGRANTS IN MALAYSIA](/tags/bangladeshi-migrants-malaysia) [BANGLADESHI MIGRANT WORKERS](/tags/bangladeshi-migrant-workers)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz48ZGVmcz48Y2xpcHBhdGggaWQ9ImNsaXAwXzM0MTlfMzkiPjxyZWN0IHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0id2hpdGUiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://x.com/intent/tweet?text=Distressed%20in%20Malaysia&url=https%3A%2F%2Fwww.thedailystar.net%2Fnrb%2Fmigration%2Fnews%2Fdistressed-malaysia-3562991) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnrb%2Fmigration%2Fnews%2Fdistressed-malaysia-3562991) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnrb%2Fmigration%2Fnews%2Fdistressed-malaysia-3562991&title=Distressed%20in%20Malaysia)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)
+
+[Click to comment](javascript:void(0))
+
+#### Comments
+
+[Comments Policy](/comment-policy)
+
+## Related News

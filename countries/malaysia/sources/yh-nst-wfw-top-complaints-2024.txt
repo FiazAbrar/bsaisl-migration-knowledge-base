@@ -1,0 +1,1217 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ Top Human Resources Ministry digital app complaints: Unpaid wages and WFH ban | New Straits Times 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+{
+ "@context": "http://schema.org",
+ "@type": "NewsArticle",
+ "headline": "Top Human Resources Ministry digital app complaints: Unpaid wages and WFH ban",
+ "image": ["https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/sim123_NSTfield_image_listing_featured_v2.var_1710218933.jpg"],
+ "datePublished": "2024-03-12T12:48:57+08:00",
+ "dateModified": "2025-08-09T17:31:25+08:00",
+ "description": "KUALA LUMPUR: The most common complaints the Human Resources Ministry's Working for Workers (WFW) application received is over unpaid salaries.",
+ "author": [
+ {
+ "@type": "Person",
+ "name": "Adib Povera"
+ } ],
+ "mainEntityOfPage":{
+ "@type":"WebPage",
+ "@id":"https://www.nst.com.my/news/nation/2024/03/1024599/top-human-resources-ministry-digital-app-complaints-unpaid-wages-and-wfh"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "New Straits Times",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://assets.nst.com.my/sites/all/themes/custom/nst_v2/logo.png",
+ "width": "703",
+ "height": "64"
+ }
+ }
+}
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-TF3NG6'); 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ var _portalId = "564892845";
+ var _propId = "565041263";
+ var _AP_REGION='ap2';
+ 
+
+ var _ATM_TRACKING_ASSOCIATE_UTM = 0;
+ var _CDP_GA_ACCOUNT_TRACKING_ID = "G-81X23X7WB2";
+ var _cdpEnableDomainBridge = true;
+
+ var _cdp365Analytics = {
+ default_event: 0,
+ first_party_domain: ".nst.com.my",
+ dims: {
+ users: {
+ origin_source: "nst.com.my"
+ }
+ }
+ };
+
+ (function() {
+ var w = window;
+ if (w.web_event) return;
+ var a = window.web_event = function() {
+ a.queue.push(arguments);
+ }
+ a.propId = _propId;
+ a.track = a;
+ a.queue = [];
+ var e = document.createElement("script");
+ e.type = "text/javascript", e.async = !0, e.src = "//st-a.cdp.asia/insight.js";
+ var t = document.getElementsByTagName("script")[0];
+ t.parentNode.insertBefore(e, t)
+ })(); 
+
+ 
+
+ 
+
+ (function() {
+ var purl = window.location.href;
+ var url = '//ads.pubmatic.com/AdServer/js/pwt/121793/360';
+ var profileVersionId = '';
+ if(purl.indexOf('pwtv=')>0){
+ var regexp = /pwtv=(.*?)(&|$)/g;
+ var matches = regexp.exec(purl);
+ if(matches.length >= 2 && matches[1].length > 0){
+ profileVersionId = '/'+matches[1];
+ }
+ }
+ var wtads = document.createElement('script');
+ wtads.async = true;
+ wtads.type = 'text/javascript';
+ wtads.src = url+profileVersionId+'/pwt.js';
+ var node = document.getElementsByTagName('script')[0];
+ node.parentNode.insertBefore(wtads, node);
+ })();
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ window.googletag = window.googletag || { cmd: [] };
+
+ // ============================================================
+ // NST_STO FAST-TRACK IIFE
+ // Loads NST_STO as soon as its DOM element is available,
+ // independently of the main GPT setup.
+ // ============================================================
+ (function () {
+ var ID = 'div-gpt-ad-1397716172626-0';
+ var PATH = '/1009103/NST_STO_780x585';
+ var SIZE = [1, 1];
+ var _queued = false;
+
+ function queueNstStoCmd() {
+ if (_queued) return;
+ _queued = true;
+
+ googletag.cmd.push(function () {
+ if (window._nstStoLoaded) return;
+
+ var el = document.getElementById(ID);
+ if (!el) return;
+
+ // Set up global services if the main cmd hasn't done it yet
+ if (!window._nstGlobalConfigured) {
+ googletag.pubads().collapseEmptyDivs(true);
+ googletag.pubads().enableSingleRequest();
+ googletag.pubads().disableInitialLoad();
+ googletag.pubads().set('page_url', 'www.nst.com.my');
+ googletag.enableServices();
+ window._nstGlobalConfigured = true;
+ }
+
+ var slot = googletag.defineSlot(PATH, SIZE, ID);
+ if (!slot) return;
+
+ slot.addService(googletag.pubads())
+ .setTargeting('site', 'nst')
+ .setTargeting('section', 'nation')
+ .setTargeting('segment', 'ArtsandEntertainment/TVandVideo/TVShowsandPrograms')
+ .setTargeting('emotion', 'anger')
+ .setTargeting('sentiment', '')
+ .setTargeting('pos', 'article')
+ .setTargeting('key', ["Malaysia","Steven Sim","Human Resource Ministry","unpaid wages","malaysian news","Digital App","Top Complaints","WFH ban","HumanResourcesMinistryWorkingforWorkers","willmanaged80Labouroffices","NewStraitsTimesPressMBhd","TheWFWapplication","typescomplaints","PARLIAMENT","saravanan","PressM","WFW","StevenSim"]);
+
+ window._nstStoLoaded = true;
+ window._nstStoSlot = slot;
+ googletag.display(ID);
+ googletag.pubads().refresh([slot]);
+ console.log('NST_STO: fast-track loaded');
+ });
+ }
+
+ // Element already in DOM
+ if (document.getElementById(ID)) {
+ queueNstStoCmd();
+ return;
+ }
+
+ var obs = new MutationObserver(function () {
+ if (document.getElementById(ID)) {
+ obs.disconnect();
+ obs = null;
+ queueNstStoCmd();
+ }
+ });
+ obs.observe(document.documentElement, { childList: true, subtree: true });
+
+ // Final safety net
+ document.addEventListener('DOMContentLoaded', function () {
+ if (obs) { obs.disconnect(); obs = null; }
+ queueNstStoCmd();
+ }, { once: true });
+ })();
+
+ // ==========================================
+ // MAIN GPT SETUP — all other ad slots
+ // ==========================================
+ googletag.cmd.push(function () {
+ let definedSlotIds = new Set();
+
+ function getPlatform() {
+ return window.matchMedia('(max-width: 768px)').matches ? 'mobile' : 'desktop';
+ }
+
+ let currentPlatform = getPlatform();
+
+ // NST_STO reference — reuse slot if already defined by fast-track
+ let nstStoSlot = window._nstStoSlot || null;
+
+ const NST_STO = {
+ id: 'div-gpt-ad-1397716172626-0',
+ path: '/1009103/NST_STO_780x585',
+ size: [1, 1]
+ };
+
+ const adSlots = [
+ {
+ id: 'div-gpt-ad-1565318969398-0',
+ path: '/1009103/NST_Outofpage',
+ type: 'outOfPage',
+ },
+ {
+ id: 'div-gpt-ad-1397706555683-0',
+ path: '/1009103/NST_300x250',
+ size: [300, 250],
+ platform: 'desktop',
+ },
+ {
+ id: 'div-gpt-ad-1397706611337-0',
+ path: '/1009103/NST_300x250_b',
+ size: [300, 250],
+ platform: 'desktop',
+ },
+ {
+ id: 'div-gpt-ad-1463538534546-0',
+ path: '/1009103/NST_1x1',
+ size: [1, 1],
+ },
+ {
+ id: 'div-gpt-ad-1463538766750-0',
+ path: '/1009103/NST_Island_Ad_400x200',
+ size: [[1, 1], [400, 200], [300, 250]],
+ platform: 'desktop',
+ },
+ {
+ id: 'div-gpt-ad-1397706669649-0',
+ path: '/1009103/970x250_NST',
+ size: [[970, 250], [970, 90], [728, 90]],
+ platform: 'desktop',
+ },
+ {
+ id: 'div-gpt-ad-1497838820026-0',
+ path: '/1009103/NST_Multisize_HouseAds',
+ size: [[300, 250], [300, 600]],
+ platform: 'desktop',
+ },
+ {
+ id: 'div-gpt-ad-1752643376343-0',
+ path: '/1009103/NST_Multisize_HouseAds_Mobile',
+ size: [[300, 250], [300, 600]],
+ platform: 'mobile',
+ },
+ {
+ id: 'div-gpt-ad-1572338498636-0',
+ path: '/1009103/NST_pixel',
+ size: [1, 1],
+ },
+ {
+ id: 'div-gpt-ad-1397033892304-0',
+ path: '/1009103/Mobile_300x250',
+ size: [300, 250],
+ platform: 'mobile',
+ },
+ {
+ id: 'div-gpt-ad-1643101035317-0',
+ path: '/1009103/NST_320x50',
+ size: [[320, 50], [320, 100]],
+ platform: 'mobile',
+ },
+ {
+ id: 'div-gpt-ad-1557469993516-0',
+ path: '/1009103/NST_Mobile_Banner',
+ size: [[320, 50], [300, 250], [320, 100]],
+ platform: 'mobile',
+ },
+ {
+ id: 'div-gpt-ad-1582165888223-0',
+ path: '/1009103/NST_HP_Sticky_Leaderboard',
+ size: [320, 50],
+ platform: 'mobile',
+ },
+ {
+ id: 'div-gpt-ad-1636353417147-0',
+ path: '/1009103/NST_Mobile_Banner_b',
+ size: [[1, 1], [300, 250], [320, 50], [320, 100]],
+ platform: 'mobile',
+ },
+ {
+ id: 'div-gpt-ad-1535527649803-0',
+ path: '/1009103/NST_1x1_Programmatic',
+ size: [1, 1],
+ },
+ {
+ id: 'div-gpt-ad-1691483495449-0',
+ path: '/1009103/NST_1x1_MG',
+ size: [[1, 1], [300, 250], [320, 480]],
+ platform: 'mobile',
+ },
+ ];
+
+ function toggleSlotVisibility(newPlatform) {
+ adSlots.forEach(({ id, platform }) => {
+ const el = document.getElementById(id);
+ if (!el) return;
+ el.style.display = (platform && platform !== newPlatform) ? 'none' : '';
+ });
+ }
+
+ // Shared targeting helper — applied to every slot
+ function applyTargeting(slot) {
+ slot.addService(googletag.pubads())
+ .setTargeting('site', 'nst')
+ .setTargeting('section', 'nation')
+ .setTargeting('segment', 'ArtsandEntertainment/TVandVideo/TVShowsandPrograms')
+ .setTargeting('emotion', 'anger')
+ .setTargeting('sentiment', '')
+ .setTargeting('pos', 'article')
+ .setTargeting('key', ["Malaysia","Steven Sim","Human Resource Ministry","unpaid wages","malaysian news","Digital App","Top Complaints","WFH ban","HumanResourcesMinistryWorkingforWorkers","willmanaged80Labouroffices","NewStraitsTimesPressMBhd","TheWFWapplication","typescomplaints","PARLIAMENT","saravanan","PressM","WFW","StevenSim"]);
+ }
+
+ // ==========================================
+ // GPT GLOBAL SERVICES — configured once
+ // Respects flag set by the NST_STO fast-track
+ // ==========================================
+ function ensureGlobalConfig() {
+ if (window._nstGlobalConfigured) return;
+ googletag.pubads().collapseEmptyDivs(true);
+ googletag.pubads().enableSingleRequest();
+ googletag.pubads().disableInitialLoad();
+ googletag.pubads().set('page_url', 'www.nst.com.my');
+ googletag.enableServices();
+ window._nstGlobalConfigured = true;
+ }
+
+ // ==========================================
+ // NST_STO FALLBACK
+ // Fast-track handles this in the normal flow
+ // ==========================================
+ function tryInitNstSto() {
+ if (window._nstStoLoaded || nstStoSlot) return true;
+
+ const el = document.getElementById(NST_STO.id);
+ if (!el) return false;
+
+ ensureGlobalConfig();
+
+ nstStoSlot = googletag.defineSlot(NST_STO.path, NST_STO.size, NST_STO.id);
+ if (nstStoSlot) {
+ applyTargeting(nstStoSlot);
+ definedSlotIds.add(NST_STO.id);
+ window._nstStoLoaded = true;
+ window._nstStoSlot = nstStoSlot;
+ googletag.display(NST_STO.id);
+ googletag.pubads().refresh([nstStoSlot]);
+ console.log('NST_STO: loaded (fallback)');
+ }
+ return true;
+ }
+
+ // Mark NST_STO as already defined if fast-track ran first
+ if (window._nstStoLoaded) {
+ definedSlotIds.add(NST_STO.id);
+ } else if (!tryInitNstSto()) {
+ const nstStoObserver = new MutationObserver(() => {
+ if (tryInitNstSto()) nstStoObserver.disconnect();
+ });
+ nstStoObserver.observe(document.documentElement, { childList: true, subtree: true });
+ document.addEventListener('DOMContentLoaded', () => {
+ nstStoObserver.disconnect();
+ tryInitNstSto();
+ }, { once: true });
+ }
+
+ // ==========================================
+ // SHARED INTERSTITIAL COOLDOWN
+ // Covers: NST_1x1 + NST_Interstitial
+ // ==========================================
+ const INTERSTITIAL_FREQUENCY_CAP_ENABLED = true;
+ 
+ const COOLDOWN_MINUTES = 3;
+ const INTERSTITIAL_COOLDOWN_KEY = 'nst:interstitial:last_rendered_at';
+ const INTERSTITIAL_COOLDOWN_MS = COOLDOWN_MINUTES * 60 * 1000;
+ const INTERSTITIAL_SLOT_IDS = new Set(['div-gpt-ad-1463538534546-0']); // NST_1x1
+ const INTERSTITIAL_AD_PATH = '/1009103/NST_Interstitial';
+
+ function isInterstitialBlocked() {
+ if (!INTERSTITIAL_FREQUENCY_CAP_ENABLED) return false;
+ try {
+ const lastSeen = localStorage.getItem(INTERSTITIAL_COOLDOWN_KEY);
+ return !!lastSeen && (Date.now() - Number(lastSeen) {
+ if (id === NST_STO.id) return; // handled by the fast-track IIFE
+ if (definedSlotIds.has(id)) return;
+
+ const matchesPlatform = !platform || platform === currentPlatform;
+ if (!matchesPlatform) return;
+
+ // cooldown applies to NST_1x1 only
+ if (interstitialBlocked && INTERSTITIAL_SLOT_IDS.has(id)) return;
+
+ const el = document.getElementById(id);
+ if (!el) return;
+
+ const slot = type === 'outOfPage'
+ ? googletag.defineOutOfPageSlot(path, id)
+ : googletag.defineSlot(path, size, id);
+
+ if (!slot) return;
+
+ applyTargeting(slot);
+ definedSlotIds.add(id);
+ googletag.display(id);
+ slotsToRefresh.push(slot);
+ });
+
+ // ---- NST_Interstitial ----
+ if (!interstitialBlocked) {
+ try {
+ const fmt = googletag.enums
+ && googletag.enums.OutOfPageFormat
+ && googletag.enums.OutOfPageFormat.INTERSTITIAL;
+
+ if (fmt) {
+ const interstitialSlot = googletag.defineOutOfPageSlot(
+ INTERSTITIAL_AD_PATH,
+ fmt
+ );
+
+ if (interstitialSlot) {
+ applyTargeting(interstitialSlot);
+ googletag.display(interstitialSlot);
+ slotsToRefresh.push(interstitialSlot);
+
+ if (
+ window.adsTypes &&
+ window.adsTypes.now &&
+ Array.isArray(window.adsTypes.now)
+ ) {
+ window.adsTypes.now.push('interstitialSlot');
+ }
+
+ console.log(
+ '[Ads] NST_Interstitial defined with section:',
+ interstitialSlot.getTargeting('section')
+ );
+ }
+ } else {
+ console.warn(
+ '[Ads] Web interstitial format unavailable in this GPT build'
+ );
+ }
+ } catch (e) {
+ console.error(
+ '[Ads] Interstitial setup failed (other slots unaffected):',
+ e
+ );
+ }
+ } else {
+ console.log('[Cooldown] NST_Interstitial skipped — cooldown active');
+ }
+ 
+ if (slotsToRefresh.length > 0) {
+ pwtRequestBids(slotsToRefresh);
+ }
+
+ scheduleLateSlotPass();
+ }
+
+ function scheduleLateSlotPass() {
+ let done = false;
+
+ const run = () => {
+ if (done) return;
+ done = true;
+
+ const late = [];
+ adSlots.forEach(({ id, path, size, type, platform }) => {
+ if (id === NST_STO.id || definedSlotIds.has(id)) return;
+ if (platform && platform !== currentPlatform) return;
+ if (isInterstitialBlocked() && INTERSTITIAL_SLOT_IDS.has(id)) return;
+
+ const el = document.getElementById(id);
+ if (!el) return;
+
+ const slot = type === 'outOfPage'
+ ? googletag.defineOutOfPageSlot(path, id)
+ : googletag.defineSlot(path, size, id);
+ if (!slot) return;
+
+ applyTargeting(slot);
+ definedSlotIds.add(id);
+ googletag.display(id);
+ late.push(slot);
+ });
+
+ if (late.length) {
+ console.log('[Ads] Late pass picked up ' + late.length + ' slot(s)');
+ pwtRequestBids(late);
+ }
+ };
+
+ if (document.readyState === 'complete') {
+ setTimeout(run, 1500);
+ } else {
+ window.addEventListener('load', () => setTimeout(run, 1500), { once: true });
+ }
+ }
+
+ function pwtRequestBids(definedSlots) {
+ if (!definedSlots || definedSlots.length === 0) return;
+
+ var refreshCalled = false;
+
+ function bidsBackHandler(adUnits) {
+ if (refreshCalled) return;
+ refreshCalled = true;
+
+ if (window.PWT && typeof PWT.setTargeting === 'function') {
+ PWT.setTargeting(adUnits || []);
+ }
+
+ googletag.pubads().refresh(definedSlots);
+ console.log('[PWT] bidsBackHandler fired — GPT refresh sent',
+ adUnits ? adUnits.length : 0, 'ad unit(s)');
+ }
+
+ var pwtTimeout = setTimeout(function() {
+ if (!refreshCalled) {
+ console.warn('[PWT] Timeout (1000ms) — firing GPT refresh without PWT bids');
+ bidsBackHandler([]);
+ }
+ }, 1000);
+
+ if (window.PWT && typeof PWT.requestBids === 'function') {
+ var adUnits = definedSlots
+ .filter(function(slot) { return typeof slot.getSlotElementId === 'function'; })
+ .map(function(slot) {
+ var id = slot.getSlotElementId();
+ var sizes = slot.getSizes
+ ? slot.getSizes().map(function(s) {
+ return typeof s.getWidth === 'function'
+ ? [s.getWidth(), s.getHeight()]
+ : s;
+ })
+ : [];
+ return { code: id, mediaTypes: { banner: { sizes: sizes } }, bids: [] };
+ });
+
+ PWT.requestBids(adUnits, function(filledAdUnits) {
+ clearTimeout(pwtTimeout);
+ bidsBackHandler(filledAdUnits);
+ }, 1000);
+ } else {
+ clearTimeout(pwtTimeout);
+ console.warn('[PWT] PWT not available — firing GPT refresh directly');
+ bidsBackHandler([]);
+ }
+ }
+
+ if (document.readyState === 'loading') {
+ document.addEventListener('DOMContentLoaded', initAds, { once: true });
+ } else {
+ initAds();
+ }
+
+ // ==========================================
+ // RESPONSIVE — toggle visibility on resize
+ // ==========================================
+ let resizeTimer;
+ window.addEventListener('resize', () => {
+ clearTimeout(resizeTimer);
+ resizeTimer = setTimeout(() => {
+ const newPlatform = getPlatform();
+ if (newPlatform !== currentPlatform) {
+ currentPlatform = newPlatform;
+ toggleSlotVisibility(currentPlatform);
+ }
+ }, 300);
+ });
+ });
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ {
+ const hasCookie = document.cookie.split(';').some(c => c.trim().startsWith('_auth_ready='));
+ const ssoLogin = document.getElementById('sso-login');
+
+ if (hasCookie && ssoLogin) {
+ ssoLogin.innerHTML = `
+ 
+ Loading... 
+ 
+ `;
+ location.reload();
+ }
+ });
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIVE 
+ SUBSCRIBE NOW 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ LIVE 
+ SUBSCRIBE NOW 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Nation 
+ Melaka Polls 
+ ASEAN 
+ Business Times 
+ Life & Times 
+ Sports 
+ World 
+ Heard The News? 
+ 180 Years -->
+ 
+ 
+ 
+ More 
+ 
+ Opinion 
+ NST TV 
+ NST Podcast 
+ PLUS 
+ Vouchers 
+ 
+ 
+ 1Klassifieds 
+ 
+ 
+ 
+ Get Audio+ 
+ 
+ 
+ 
+ HOT FM 
+ 
+ 
+ 
+ Kool FM 
+ 
+ 
+ 
+ Eight FM 
+ 
+ 
+ 
+ FLY FM 
+ 
+ 
+ 
+ MOLEK FM 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Nation 
+ 
+ Nation 
+ NST Special 
+ Regional 
+ NST Viral 
+ View All 
+ 
+ 
+
+ Melaka Polls 
+
+ Asean 
+
+ 
+ Business Times 
+ 
+ Home 
+ Corporate 
+ Economy 
+ Feature 
+ Insight 
+ Property 
+ Car Bikes Trucks 
+ SME 
+ ESG 
+ View All 
+ 
+ 
+
+ 
+ Life & Times 
+ 
+ Groove 
+ Sunday Vibes 
+ JOM! 
+ Heal 
+ BOTS 
+ Flair 
+ View All 
+ 
+ 
+
+ 
+ Sports 
+ 
+ Football 
+ Badminton 
+ Racquet Sports 
+ Cycling 
+ eSPORTS 
+ Motor Sports 
+ Golf 
+ Hockey 
+ Cricket 
+ Others 
+ View All 
+ 
+ 
+ World 
+
+ Heard The News? 
+ 180 Years -->
+ 
+
+ NST TV 
+
+ 
+ Opinion 
+ 
+ Leader 
+ Letters 
+ Columnists 
+ View All 
+ 
+ 
+
+ 
+ More 
+ 
+ NST Podcast 
+ PLUS 
+ Vouchers 
+ 
+ 
+ 1Klassifieds 
+ 
+ 
+ 
+ Get Audio+ 
+ 
+ 
+ 
+ HOT FM 
+ 
+ 
+ 
+ Kool FM 
+ 
+ 
+ 
+ Eight FM 
+ 
+ 
+ 
+ FLY FM 
+ 
+ 
+ 
+ MOLEK FM 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nation 
+ NST Special 
+ Regional 
+ NST Viral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ -->
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KUALA LUMPUR: The most common complaints the Human Resources Ministry's Working for Workers (WFW) application received\u00a0is over unpaid salaries.
+ Its minister Steven Sim said of the total 34,156 complaints lodged with the digital platform as of Feb 25 this year, 6,393 cases were from workers who did not receive their salaries.
+ The WFW application, he said, also received 3,095 complaints from workers who were not allowed to work from home, 2,895 cases involving salary cuts not according to laws, 2,768 cases involving workers terminated without notice and 2,424 complaints of employers who failed to comply with minimum wage implementation.
+ He added that other complaints received by the digital platform included no overtime payment and termination benefits (2,298 cases) and the absence of employment contract (1,577 cases).
+ \"The application is still active and is being used to enable workers to lodge complaints as well as issues related to labour matters.
+ \"As of Feb 24 this year, a total of 34,156 complaints have been received by the application since it was launched in May 2021.
+ \"Of the total, actions taken involved 33,093 complaints while 687 cases are being inspected. We are also in the process of verifying 280 of the total complaints received,\" he said in a written parliamentary reply which was published on Parliament's website last night.
+ He was responding to a question from Datuk Seri M. Saravanan (BN - Tapah) who asked about the status of the WFW application.
+ The WFW application is a digital platform that allows more than 15 million workers, including foreign workers, to submit complaints related to labour issues.
+ The identity of the complainants would be confidential and that the complaints received via the application would be addressed between three and seven days.
+ The WFW application allows workers to report 14 types of complaints online that will be managed by 80 Labour offices nationwide.
+ \u00a9 New Straits Times Press (M) Bhd
+","field_youtube_smart":false,"field_force_ads":[],"field_article_author":{"tid":1084,"name":"Adib Povera","email":null,"photo":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/author/ADIB-POVERA.png","internal_url":"/authors/adib-povera"},"field_article_authors":[{"tid":1084,"name":"Adib Povera","email":null,"photo":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/author/ADIB-POVERA.png","internal_url":"/authors/adib-povera"}],"field_article_topic":{"tid":1,"name":"Nation"},"field_article_collection":[{"tid":1048,"name":"News"}],"field_tags":[{"tid":202,"name":"Malaysia","auto_generated":false},{"tid":94078,"name":"Steven Sim","auto_generated":false},{"tid":20391,"name":"Human Resource Ministry","auto_generated":false},{"tid":133087,"name":"unpaid wages","auto_generated":false},{"tid":410119,"name":"malaysian news","auto_generated":false},{"tid":419810,"name":"Digital App","auto_generated":false},{"tid":419811,"name":"Top Complaints","auto_generated":false},{"tid":419812,"name":"WFH ban","auto_generated":false},{"tid":420238,"name":"HumanResourcesMinistryWorkingforWorkers","auto_generated":true},{"tid":420239,"name":"willmanaged80Labouroffices","auto_generated":true},{"tid":286342,"name":"NewStraitsTimesPressMBhd","auto_generated":false},{"tid":420240,"name":"TheWFWapplication","auto_generated":true},{"tid":420241,"name":"typescomplaints","auto_generated":true},{"tid":1000,"name":"PARLIAMENT","auto_generated":false},{"tid":791,"name":"saravanan","auto_generated":false},{"tid":288503,"name":"PressM","auto_generated":false},{"tid":200547,"name":"WFW","auto_generated":false},{"tid":292162,"name":"StevenSim","auto_generated":false}],"field_article_images":[{"nid":1024598,"url":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/StevenSim_28.02_1710218925.jpg","caption":"\u00a0","gn4id":"nst-49929491"}],"field_article_images_filtered":[{"nid":1024598,"url":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/StevenSim_28.02_1710218925.jpg","caption":"\u00a0","gn4id":"nst-49929491"}],"field_article_videos":null,"field_image_featured_lifestyle":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/sim123_NSTfield_image_featured_lifestyle.var_1710218936.jpg","field_image_socialmedia":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/sim123_NSTfield_image_socialmedia.var_1710218932.jpg","field_image_listing_featured":"https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/sim123_NSTfield_image_listing_featured_v2.var_1710218933.jpg","field_article_lead":"KUALA LUMPUR: The most common complaints the Human Resources Ministry's Working for Workers (WFW) application received\u00a0is over unpaid salaries.","word_count":291,"body_with_inline":" KUALA LUMPUR: The most common complaints the Human Resources Ministry's Working for Workers (WFW) application received is over unpaid salaries.
+
+ Its minister Steven Sim said of the total 34,156 complaints lodged with the digital platform as of Feb 25 this year, 6,393 cases were from workers who did not receive their salaries.
+
+ The WFW application, he said, also received 3,095 complaints from workers who were not allowed to work from home, 2,895 cases involving salary cuts not according to laws, 2,768 cases involving workers terminated without notice and 2,424 complaints of employers who failed to comply with minimum wage implementation.
+
+ He added that other complaints received by the digital platform included no overtime payment and termination benefits (2,298 cases) and the absence of employment contract (1,577 cases).
+
+ \"The application is still active and is being used to enable workers to lodge complaints as well as issues related to labour matters.
+
+ \"As of Feb 24 this year, a total of 34,156 complaints have been received by the application since it was launched in May 2021.
+
+ \"Of the total, actions taken involved 33,093 complaints while 687 cases are being inspected. We are also in the process of verifying 280 of the total complaints received,\" he said in a written parliamentary reply which was published on Parliament's website last night.
+
+ He was responding to a question from Datuk Seri M. Saravanan (BN - Tapah) who asked about the status of the WFW application.
+
+ The WFW application is a digital platform that allows more than 15 million workers, including foreign workers, to submit complaints related to labour issues.
+
+ The identity of the complainants would be confidential and that the complaints received via the application would be addressed between three and seven days.
+
+ The WFW application allows workers to report 14 types of complaints online that will be managed by 80 Labour offices nationwide.
+
+ ","premium":false,"premium_type":null,"field_video_link":null,"og_description":"KUALA LUMPUR: The most common complaints the Human Resources Ministry's Working for Workers (WFW) application received is over unpaid salaries."}"
+ :nid="1024599"
+ :subscript-status="''"
+ :login-status="''"
+ bitmovin="disabled"
+ :bitmovin-key=""34a49c54-19ea-45e1-a196-cda7e07caeb3""
+ :bitmovin-adurl=""https://pubads.g.doubleclick.net/gampad/ads?iu=/1009103/NST_instream_player&description_url=https%3A%2F%2Fwww.nst.com.my%2F&tfcd=0&npa=0&sz=640x360&gdfp_req=1&unviewed_position_start=1&output=vast&ad_rule=1&env=vp&impl=s&vpa=auto&vpmute=1&plcmt=2&correlator=""
+ :is-sponsered="false"
+ :show-news-summary='true'
+ :news-summary-banner-html='""'
+ > 
+
+ 
+ What To Read Next 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured Video 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Latest 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What To Read Next 
+ 
+ 
+
+
+ 
+ Branded Content 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Subscribe to our FREE newsletter! 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+
+ 
+ 2026 © New Straits Times, New Straits Times Press (M) Bhd (Co. No. 196101000449 / 4485 H). A part of Media Prima Group. 
+ 
+ 
+ Subscribe 
+ Disclaimer 
+ Personal Data Protection Act 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(function () {
+ if (window.__locationFetched) return;
+ window.__locationFetched = true;
+
+
+ // ✅ Inject from Laravel (Cloudflare headers)
+ const locationData = {
+ event: "user_location",
+ city: "Dhaka",
+ country: "BD",
+ latitude: "23.71040",
+ longitude: "90.40744"
+ };
+
+ pushToDataLayer(locationData);
+
+ function pushToDataLayer(data) {
+ window.dataLayer = window.dataLayer || [];
+ window.dataLayer.push({
+ event: "user_location",
+ city: data.city,
+ country: data.country,
+ latitude: data.latitude,
+ longitude: data.longitude
+ });
+ }
+})();
+ 
+;
+
+ 
+(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a56e32f51ba5d880',t:'MTc5NDA3NDAyMw=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a56e32f51ba5d880',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})(); 
+ 
+ 

@@ -1,0 +1,155 @@
+## Editor's Pick
+
+##### [How can Bangladesh build a thriving creative economy?](/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621)
+
+6 November 2026 • Wisdom
+
+##### [Opinion  / US midterm results: What it means for Bangladesh’s trade and economic challenges](/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206)
+
+5 November 2026 • Business
+
+##### [Could Trump's electoral defeat make the world less secure?](/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666)
+
+5 November 2026 • Geopolitical Insights
+
+##### [Padma Barrage: Why Bangladesh needs it and the challenges ahead](/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946)
+
+5 November 2026 • Big Picture
+
+##### [A 93rd birthday tribute / How Amartya Sen changed the way we understand development](/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976)
+
+4 November 2026 • Big Picture
+
+# Illegal trafficking, legal means
+
+7 victims, who returned from Kyrgyzstan after 8-month-long captivity, share their ordeal
+
+Published : 17 August 2022
+
+•
+
+Updated : 18 August 2022, 00:44
+
+• [CRIME & JUSTICE](/news/crime-justice)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgICAgICAgICA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz4KICAgICAgICAgICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNsaXBwYXRoIGlkPSJjbGlwMF8zNDE5XzM5Ij48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIiAvPjwvY2xpcHBhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICAgICAgPC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://x.com/intent/tweet?text=Illegal%20trafficking%2C%20legal%20means&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fcrime-justice%2Fnews%2Fillegal-trafficking-legal-means-3097501) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fcrime-justice%2Fnews%2Fillegal-trafficking-legal-means-3097501) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fcrime-justice%2Fnews%2Fillegal-trafficking-legal-means-3097501&title=Illegal%20trafficking%2C%20legal%20means)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)
+
+![Mohammad Jamil Khan](/sites/default/files/styles/thumbnail/public/images/author/jamil_khan_0.jpg)
+
+Mohammad Jamil Khan
+
+![Dipan Nandy](/sites/default/files/styles/thumbnail/public/images/author/355885917_295126149576824_4639694772242038850_n.jpg)
+
+Dipan Nandy
+
+[Mohammad Jamil Khan](/author/mohammad-jamil-khan) and [Dipan Nandy](/author/dipan-nandy)
+
+![human_trafficking_18.jpg](/sites/default/files/styles/big_1/public/images/2021/07/08/human_trafficking_18.jpg)
+
+They had valid visas, training and work permits.
+
+But they were either sold out or held captive by the employer once they reached a foreign land.
+
+[Tap here to add The Daily Star as a trusted source ![google-preferred-source-badge](/themes/custom/swallow/images/google_preferred_source_badge_dark.webp)](https://www.google.com/preferences/source?q=thedailystar.net)
+
+These fortune seekers were promised by the recruiting agency that they will be paid a monthly salary of Tk 55,000 for working in factories for seven to eight hours with food and accommodation facilities.
+
+However, the reality was not as beautiful as the promises. They were forced to work for 17 to 18 hours, for a monthly payment of Tk 10,000. If anyone failed to meet the 17-18 work hours for a day, they would be physically assaulted and subjected to unbearable torture.
+
+The horrific tales came to the fore after seven Bangladeshis, who returned from Kyrgyzstan after eight-month-long captivity, shared their experiences. They managed to return last month with support from Rights Jashore and Refugee and Migratory Movements Research Unit (RMMRU).
+
+These seven victims are now passing days in misery due to pressure from lenders to return the money they borrowed to go abroad.
+
+Amir Hamza, a Narayanganj resident, went to Kyrgyzstan by paying Tk 3.10 lakh to the agency, which he gathered by selling land and borrowing money from relatives.
+
+"I have no money left. I don't know where to go with my wife and one-year-old child," Hamza told The Daily Star yesterday.
+
+"Moreover, I am receiving threats from the agency members to not file a complaint. I feel utterly helpless."
+
+Like Hamza, 14 other Bangladeshis left the country for Kyrgyzstan to change their fortune.
+
+Only seven of them have managed to return home, while seven others still suffer in the foreign land.
+
+Another fortune seeker Md Waliullah, who was also in Kyrgyzstan, said he had a valid visa, work permit and even a smart card issued by the Bureau of Manpower Employment and Training (BMET).
+
+"But upon reaching Kyrgyzstan, we came to know that the recruiting agency sold us for USD 8,300 to the garment factory owner there. When we refused to work for long hours and tried to return to the country, Md Ibrahim, the factory owner, told us that he will only allow that if we pay him back," he said.
+
+This newspaper tried to contact Ibrahim or locate the factory, but none of the returnees was able to provide any relevant information.
+
+Mehedi Hasan, an auto-rickshaw driver in Brahmanbaria, said he sold out his mother's jewellery and three cattle to collect the money to go to Kyrgyzstan.
+
+"But I have lost everything in the process," he lamented.
+
+Seven other Bangladeshis, who are still in captivity in Kyrgyzstan, were identified as Shariful Islam, Alamgir Hossain, Delower Hossain, Abu Musa, Jahangir Alam, Shamsul Islam and Nuruzzaman.
+
+Tohidul Islam, additional deputy commissioner of CTTC's transnational crime unit, told this newspaper that they were unaware of the trafficking syndicate in Kyrgyzstan.
+
+"But as a case has been filed, we will look into the issue," he said.
+
+A victim named Sajal Mia filed a case with a Kishoregnaj court after returning home a month ago. The case is now under investigation by the district's detective branch.
+
+#### [![Google News Link](/themes/custom/swallow/images/google_news.svg)For all latest news, follow The Daily Star's Google News channel.](https://news.google.com/publications/CAAiECW73usLivqPCSeQRsSUvRQqFAgKIhAlu97rC4r6jwknkEbElL0U)
+
+The victims' documents show that they were sent to Kyrgyzstan by M/S Makkah Madina Trade Int (RL no-810) and M/S Al-Jabeen Establishment Ltd (RL no-884) as garment workers.
+
+This newspaper tried to contact the agency proprietors but failed despite repeated attempts as their numbers were found switched off.
+
+Rights Jashore's executive director Binoy Krishna Mallick said government agencies, including the Bangladesh mission in Kyrgyzstan and BMET, cannot deny their responsibility in certifying the agencies' documents.
+
+"Even these workers went to the country taking approval from BMET," he said.
+
+Mallick also claimed that he has received calls from the recruiting agency on multiple occasions, offering to negotiate with the victims.
+
+In another incident, two Bangladeshis from Jhenidah went to Dubai spending Tk 6 lakh some six months ago with working permits and valid visas. One of them named Rubel Islam has managed to return home from captivity with support from Rights Jashore. However, the other one, Jahidul Islam, remains under the captivity of the traffickers.
+
+"We were received by a representative of the employer at the airport. They took us to an isolated place and confined us to a room. They used to torture us and ask for money," said Rubel.
+
+The employers even took away their passports and BMET-issued smart cards. Rubel, somehow, managed to come out of captivity and return to Bangladesh with an outpass.
+
+After returning to the country, he filed a case with a Jhenaidah court, which is now under investigation by the Police Bureau of Investigation (PBI).
+
+Masud Rana, sub-inspector of PBI Jhenaidah, also the case's investigation officer, yesterday said they are yet to find any lead to catch any suspect.
+
+RMMRU executive director CR Abrar termed the agencies' act a kind of labour trafficking through a legal channel. "The government should bring all those responsible to book and ensure justice to the victims," he said.
+
+Mir Khairful Alam, additional director general (administration & Training) of BMET, said they only provide BMET smart cards if the card receivers get training conducted through their accredited training centre and authorised agencies.
+
+"If any irregularities are found in this process, actions will be taken," he said.
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz48ZGVmcz48Y2xpcHBhdGggaWQ9ImNsaXAwXzM0MTlfMzkiPjxyZWN0IHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0id2hpdGUiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://x.com/intent/tweet?text=Illegal%20trafficking%2C%20legal%20means&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fcrime-justice%2Fnews%2Fillegal-trafficking-legal-means-3097501) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fcrime-justice%2Fnews%2Fillegal-trafficking-legal-means-3097501) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fcrime-justice%2Fnews%2Fillegal-trafficking-legal-means-3097501&title=Illegal%20trafficking%2C%20legal%20means)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)
+
+[Click to comment](javascript:void(0))
+
+#### Comments
+
+[Comments Policy](/comment-policy)
+
+## Related News
+
+##### [HSC re-scrutiny deadline extended until 12pm tomorrow](/news/education/news/hsc-re-scrutiny-deadline-extended-until-12pm-tomorrow-4317826)
+
+1 SEC(s) • Education
+
+##### [New mass protests in France as police thwart banned rally](/news/world/news/new-mass-protests-france-police-thwart-banned-rally-4317811)
+
+0 SEC(s) • World
+
+##### [2 killed in dump truck-pickup collision in Mymensingh](/news/accidents-and-fires/news/2-killed-dump-truck-pickup-collision-mymensingh-4317796)
+
+1 SEC(s) • Accidents and Fires
+
+##### [Govt will provide a ticket if necessary, but come back to Bangladesh and face trial, Yasser Khan tells Hasina](/news/news/govt-will-provide-ticket-if-necessary-come-back-bangladesh-and-face-trial-yasser-khan-tells-hasina-4317786)
+
+1 SEC(s) • News
+
+##### [BGB foils BSF 'push-in attempt' along Moulvibazar border](/news/news/bgb-foils-bsf-push-attempt-along-moulvibazar-border-4317781)
+
+1 SEC(s) • News
