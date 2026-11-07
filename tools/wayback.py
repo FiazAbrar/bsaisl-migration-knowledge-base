@@ -1,6 +1,6 @@
 """Get an archived copy of a blocked page from the Wayback Machine (web.archive.org) and save it to raw/.
 
-  python tools/wayback.py <original-url> <name> <official|news>
+  python3 ../../tools/wayback.py <original-url> <name> <official|news>
 
 It asks the Wayback CDX index for the newest capture with HTTP 200 (trying the URL with and without "www."),
 downloads the original bytes of that capture (the "id_" form, without the archive's toolbar), and saves and

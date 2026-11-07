@@ -1,19 +1,19 @@
-"""Fetch one URL into countries/malaysia/raw/ and log it, so nothing is fetched twice.
+"""Fetch one URL into raw/ in the current country folder and log it, so nothing is fetched twice.
 
 Usage (run from anywhere):
-  python fetch.py <url> <name>            fetch with curl, save raw/<name>.html|.pdf, plus a text copy
-  python fetch.py --log <url> <name> <method>
+  python3 ../../tools/fetch.py <url> <name>            fetch with curl, save raw/<name>.html|.pdf, plus a text copy
+  python3 ../../tools/fetch.py --log <url> <name> <method>
                                           only log a file you saved yourself (e.g. a Firecrawl
                                           scrape written to raw/<name>.md); method = firecrawl|manual
-  python fetch.py --find <text>           search the fetch log for a URL or name
+  python3 ../../tools/fetch.py --find <text>           search the fetch log for a URL or name
 
 Text copies: HTML -> raw/<name>.md (pandoc, gfm), PDF -> raw/<name>.txt (pdftotext -layout).
 Quotes in the ledger must be copied from the text copy (or the .md you saved).
 """
 import csv, datetime, os, re, subprocess, sys
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = os.path.normpath(os.path.join(HERE, "..", "raw"))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import RAW  # noqa: E402
 LOG = os.path.join(RAW, "_fetchlog.csv")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 TODAY = datetime.date.today().isoformat()

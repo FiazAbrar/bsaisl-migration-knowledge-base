@@ -1,4 +1,4 @@
-"""Print ledger claims for ids cited in a text range: python tools/claims.py malaysia.src.md [start_line] [end_line]"""
+"""Print ledger claims for ids cited in a text range: python3 ../../tools/claims.py <country>.src.md [start_line] [end_line]"""
 import csv, re, sys
 L = {r["id"]: r for r in csv.DictReader(open("ledger.csv", encoding="utf-8", newline=""))}
 lines = open(sys.argv[1], encoding="utf-8").read().splitlines()

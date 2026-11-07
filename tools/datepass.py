@@ -7,13 +7,12 @@ For each such source in sources.csv it looks in the saved file for page-level da
 Dates within 2 days of the access date are reported but flagged "same-day", since many servers generate them.
 
 Writes raw/_datepass.csv (one row per source and candidate) for review. It changes nothing else.
-  python tools/datepass.py
+  python3 ../../tools/datepass.py
 """
 import csv, datetime, email.utils, os, re, subprocess, sys
 
-BASE = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-RAW = os.path.join(BASE, "raw")
-CUTOFF = "2025-11-06"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE, RAW, CUTOFF  # noqa: E402
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 BN = str.maketrans("০১২৩৪৫৬৭৮৯", "0123456789")
 BN_MONTHS = {"জানুয়ারি": 1, "ফেব্রুয়ারি": 2, "মার্চ": 3, "এপ্রিল": 4, "মে": 5, "জুন": 6, "জুলাই": 7, "আগস্ট": 8,

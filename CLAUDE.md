@@ -23,12 +23,12 @@ The country docs are the knowledge base behind part 2. Readers, in order:
 
 So each doc is an extensive, practical, step-by-step guide, not a summary and not a research dump.
 
-Saudi Arabia is finished as the worked example (`countries/saudi-arabia/`). Match its format, depth and citation style. Each country gets its own folder under `countries/`.
+Two drafts exist: Saudi Arabia (`countries/saudi-arabia/`) and Malaysia (`countries/malaysia/`). Both are directionally right but not finished, so neither is a standard to copy. The rules below are the standard. Each country gets its own folder under `countries/`.
 
 ## What's in this repo
 
-- `countries/saudi-arabia/Saudi Arabia.docx`: the finished Saudi doc. Read it in full before writing anything.
-- `countries/saudi-arabia/`: also its markdown source (`saudi.src.md`), reference lists (`saudi-ref-list.md`, `refs_extra.py`), build scripts (`build.py`, `fixbullets.py`), the readable copy of the doc (`README.md`, which GitHub shows when you open the folder) and the research notes (`findings.md`).
+- `countries/<country>/`: one folder per country. Each has the doc's source (`<name>.src.md`), the built doc (`README.md`, which GitHub shows when you open the folder, and `<Country>.docx`), the research notes (`findings.md`) and the evidence (`raw/`, `sources.csv`, `ledger.csv`, `facts.csv`). Saudi's draft predates the evidence rule, so it has a plain reference list (`refs.md`) instead.
+- `tools/`: the shared scripts every country uses (build, fetch, ledger, merge, wayback, datepass, claims). Run them from inside your country folder.
 - `official-pdfs/`: official Bangladesh-side documents. Most apply to every country: the Ministry of Expatriates' Welfare citizen charter, the Wage Earners' Welfare Board citizen charter and annual report, the Probashi Kallyan Bank (PKB) loan page and charter, and BMET's safe migration leaflet. The rest are Saudi-specific BMET notices (skill test, permission letter, Takamol warning), useful as examples of what to look for.
 - `data/oep-agency-list-2026-10-28.csv`: BMET's full recruiting-agency licence list (licence, name, address, phone, status, expiry), pulled 28 Oct 2026.
 
@@ -49,7 +49,7 @@ Saudi Arabia is finished as the worked example (`countries/saudi-arabia/`). Matc
 
 ## Quality rules
 
-- **Say how.** Every instruction ("go to", "ask", "check", "apply") says how: where exactly, what to bring, what to type or say, what it costs, and what you get back. "Ask relatives whether their company is hiring" or "go to the agency's office" is useless on its own. "Check the agency is on OEP" is weak too: most agencies are listed, and listed agencies also cheat. If you can't find the how, write a "Need to know", never a bare instruction. See Saudi step 1 for the standard (the relative's-company route, the BMET permission letter, paying by cheque, the complaint route).
+- **Say how.** Every instruction ("go to", "ask", "check", "apply") says how: where exactly, what to bring, what to type or say, what it costs, and what you get back. "Ask relatives whether their company is hiring" or "go to the agency's office" is useless on its own. "Check the agency is on OEP" is weak too: most agencies are listed, and listed agencies also cheat. If you can't find the how, write a "Need to know", never a bare instruction. Saudi step 1 shows the idea (the relative's-company route, the BMET permission letter, paying by cheque, the complaint route).
 - **Actionable, not a dump.** Keep only what a migrant needs to act, or to understand how the system works. Cut statistics, anecdotes, studies, history and "source X says" lines unless they change what someone would do. Finding something is no reason to include it. The exception is the destination section, which carries the corridor numbers.
 - **A guide, not cited facts.** The doc tells someone what to do, in order. A list of facts with citations misses the point.
 - **No lazy gaps.** "No source gives X" is not acceptable. Before writing any "Need to know", search official sites, Bangla news, agency guides, NGO reports and embassy pages.
@@ -64,7 +64,7 @@ Saudi Arabia is finished as the worked example (`countries/saudi-arabia/`). Matc
 1. **Split the research by topic:** the main work route; every other visa (visit, family, tourist, student, pilgrimage and so on), visa change, asylum and children; the Bangladesh side and corridor numbers; scams and how to check each document is real. Subagents can run these in parallel.
 2. **Keep the evidence.** Save a copy of every page and PDF you use in `countries/<country>/raw/` and commit it; links break and pages change. Log every fact in `countries/<country>/ledger.csv`: id, claim, exact quote, URL, access date, saved file, page date, official or news, status (verified, possibly outdated, conflict, unofficial). Copy quotes from the saved file, never from memory. A page older than 12 months or with no visible date is "possibly outdated" until you find its date or a newer source. Also keep `facts.csv`, one row per fact (visa, field, value, ledger id, official or news, date checked), so the chatbot can tell official facts from news.
 3. **Check every fact against official sites,** and cross-check conflicts between sources. Keep the newer or official one, and record unresolved conflicts as "Need to know".
-4. **Practical pass:** Bangla news, government surveys, NGO and research reports, agency guides and worker forums, in five areas: recruitment and real costs; tests and documents; life and problems in the country; leaving and coming home; non-work visas. Keep notes in a `findings.md` like Saudi's.
+4. **Practical pass:** Bangla news, government surveys, NGO and research reports, agency guides and worker forums, in five areas: recruitment and real costs; tests and documents; life and problems in the country; leaving and coming home; non-work visas. Keep notes in `findings.md`.
 5. **Official documents.** Start with the PDFs in `official-pdfs/`. BMET posts its permission letters for each job order (agency, employer, job, salary, the most the agency may take) at bmet.gov.bd/pages/miscellaneous-infos; search there for your country. Ministry and BMET PDFs hosted on objectstorage.ap-dcc-gazipur-1.oraclecloud15.com download directly; find them by searching "office-bmet" or "office-wewb".
 6. **Destination-side sources:** the country's labour and immigration ministries, its visa portal, the medical-check operator, the Bangladesh embassy's labour wing, and other countries' embassy labour pages (in Saudi, the Indian Embassy's were the most complete).
 7. **Sites that block automated reading** (several .gov.bd sites, some visa and test portals, some news sites): try Firecrawl. If that fails, ask a teammate to download the page or PDF in a browser. Never skip a source because it's blocked.
@@ -73,17 +73,16 @@ Saudi Arabia is finished as the worked example (`countries/saudi-arabia/`). Matc
    - From the migrant's questions: how long can I stay, what will I earn, what are my rights at work, what gets me jailed, bank account and SIM, pension, can my family come, what can I bring home.
    - Against the original aim: (1) per visa: types, requirements, where to apply, cost, processing time, appeal if refused, scams both ways (done to the migrant and tried by the migrant), can the holder work, claim asylum, have a child, bring a spouse; (2) changing visa type; (3) asylum, written to discourage; (4) corridor information: Bangladesh numbers compared with other countries, bans, growth opportunities.
 
-## Building the .docx
+## Tools and building the doc
 
-Needs Python 3 and pandoc (`brew install pandoc` on a Mac). For a new country, copy the scripts from `countries/saudi-arabia/` into `countries/<country>/`. Write `<country>.src.md` with citation keys (`[12]` official, `[N104]` news, several as `[N2, N108, 14]`). Put your own references in a ref-list file with the same structure as `saudi-ref-list.md`: official entries as `12. Publisher. [Title](url)`, then "### Needs an official source" with `- N104. ...` entries. Adapt `build.py`: it reads `saudi-ref-list.md`, loads `refs_extra.py` and has a few Saudi overrides hard-coded, so strip those and point it at your files. Then, inside that folder:
+Needs Python 3 and pandoc (`brew install pandoc` on a Mac). Every script is in `tools/` and runs from inside your country folder, for example `cd countries/<country>` then `python3 ../../tools/build.py`. Each script explains its options at the top of the file.
 
-```
-python3 build.py                              # <country>.src.md -> pandoc.md and README.md
-pandoc pandoc.md -o "<Country>.docx"
-python3 fixbullets.py "<Country>.docx"
-```
+- `fetch.py <url> <name>`: saves a page or PDF to `raw/` with a text copy, and refuses a URL already fetched. `wayback.py` gets an archived copy of a page that won't load.
+- `ledger.py`: registers a source in `sources.csv` and adds a fact to the ledger, checking the quote against the saved file. Parallel research writes to `ledger-parts/`, `findings-parts/` and `blocked-parts/`; `merge.py` joins them into `ledger.csv`, `facts.csv`, `findings.md` and `blocked.md`.
+- `datepass.py` looks for real dates on undated or old sources; `claims.py` prints the ledger claims behind a stretch of the source, for checking.
+- `build.py` turns `<name>.src.md` into `README.md` and `<Country>.docx`. In the source, cite ledger ids, like `[W0012]` or `[W0012, L0003]`. The build maps each to its source, numbers sources in order of first use (official `[n]`, others `[Nn]`), adds the year to sources older than 2025, links each citation to its reference, writes the reference list and the Contents list, and stops if a citation has no source.
 
-`build.py` renumbers citations in order of first use, adds the year to pre-2025 sources, links each citation to its reference and builds the Contents list. It writes two copies of the text: `pandoc.md`, a build file pandoc turns into the .docx (not committed), and `README.md`, which GitHub displays with working links when you open the country folder. Commit `README.md` with the .docx. It stops if a citation key has no reference. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit the source and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
+Commit `README.md` and the .docx with the source. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit the source and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
 
 ## Firecrawl (web scraping that gets past many blocks)
 
@@ -98,4 +97,4 @@ Restart Claude Code after logging in.
 
 ## Version control
 
-This folder is a git repository. Commit after each meaningful change (a section researched, a batch of sources added, a rebuild) with a message that says what changed. Commit the source, the reference list, findings.md and the rebuilt .docx together, so they never drift apart. Never commit passwords or personal data about migrants.
+This folder is a git repository. Commit after each meaningful change (a section researched, a batch of sources added, a rebuild) with a message that says what changed. Commit the source, the evidence files, findings.md, README.md and the rebuilt .docx together, so they never drift apart. Never commit passwords or personal data about migrants.

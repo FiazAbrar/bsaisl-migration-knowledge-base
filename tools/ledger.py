@@ -4,7 +4,7 @@ Each research topic writes its own part file (ledger-parts/<P>.csv) so parallel 
 merge.py later joins them into ledger.csv and facts.csv.
 
 Add a row (the quote is checked against the saved raw file; the run fails if it is not found):
-  python ledger.py add --part W --raw imi-plks-2026 \
+  python3 ../../tools/ledger.py add --part W --raw imi-plks-2026 \
       --claim "PLKS is valid for up to 12 months at a time" \
       --quote "exact words copied from raw/imi-plks-2026.md" \
       --page-date 2026-03-01|undated \
@@ -14,13 +14,13 @@ Add a row (the quote is checked against the saved raw file; the run fails if it 
       [--no-quote-check --note "why"]                     (only for garbled Bangla PDF text: quote by page)
 
 Register a source once (publisher/title feed the reference list):
-  python ledger.py source --raw imi-plks-2026 --publisher "Immigration Department of Malaysia" \
+  python3 ../../tools/ledger.py source --raw imi-plks-2026 --publisher "Immigration Department of Malaysia" \
       --title "Temporary Employment Visit Pass" --official yes|no|archived|news-archived [--page-date 2026-03-01|undated]
   (archived = an official page saved from the Wayback Machine by tools/wayback.py; source_type official-archived)
 
 Status rules:
-  verified            official source, page dated on/after 2025-11-06
-  possibly-outdated   official source, page dated before 2025-11-06 or undated
+  verified            official source, page dated within the last 12 months
+  possibly-outdated   official source, page older than 12 months or undated
   conflict            official sources disagree: add a row for EACH source with status conflict and a note naming the other id
   lead                news/NGO/agency fact, used only after an official search failed; cited as [N] under
                       "Needs an official source". Never for exact facts (fees, eligibility, documents, processing
@@ -29,19 +29,17 @@ Status rules:
                       unofficially; written in the doc labelled "unofficial, not verified"
   source_type (official/news) is filled in from sources.csv: register the source BEFORE adding rows
 
-  python ledger.py show --part W        list a part
+  python3 ../../tools/ledger.py show --part W        list a part
 """
 import argparse, csv, html, os, re, sys, unicodedata
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-BASE = os.path.normpath(os.path.join(HERE, ".."))
-RAW = os.path.join(BASE, "raw")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE, RAW, CUTOFF  # noqa: E402
 PARTS = os.path.join(BASE, "ledger-parts")
 LCOLS = ["id", "claim", "quote", "url", "access_date", "raw_file", "page_date", "source_type", "status", "note"]
 FCOLS = ["visa_type", "field", "value", "ledger_id"]
 SCOLS = ["raw", "url", "publisher", "title", "official", "page_date", "access_date"]
 STATUSES = {"verified", "possibly-outdated", "conflict", "unofficial", "lead"}
-CUTOFF = "2025-11-06"
 
 
 def norm(s):
@@ -109,7 +107,7 @@ def add(a):
         sys.exit(f"page date {pd} is undated or before {CUTOFF}: status must be possibly-outdated")
     src = [r for r in rows(os.path.join(BASE, "sources.csv"), SCOLS) if r["raw"] == a.raw]
     if not src:
-        sys.exit(f"register the source first: python tools/ledger.py source --raw {a.raw} ...")
+        sys.exit(f"register the source first: python3 ../../tools/ledger.py source --raw {a.raw} ...")
     o = src[0]["official"].lower()
     stype = ("official" if o.startswith("y") else "official-archived" if o == "archived"
              else "news-archived" if o == "news-archived" else "news")

@@ -421,7 +421,7 @@ Overstaying any visa can mean a fine of up to SR 50,000, up to 6 months in jail,
 
 ### Needs an official source
 
-These facts come only from news or third-party sites. Each needs an official source, or a reviewer's confirmation, before the Navigator uses it.
+These facts come only from news or third-party sources. Each needs an official source, or a reviewer's confirmation, before the Navigator uses it.
 
 - <a id="n1"></a>N1. Dhaka Tribune, Oct 2020. [The Saudi free visa](https://www.dhakatribune.com/bangladesh/227247/inside-the-dangerous-world-of-the-saudi-free-visa)
 - <a id="n2"></a>N2. Saudi Jabo (agency guide), 23 Jun 2026. [Saudi work visa processing step by step](https://saudijabo.com/blog/saudi-work-visa-processing-2026)
