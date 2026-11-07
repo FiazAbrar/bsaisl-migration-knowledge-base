@@ -2,6 +2,7 @@ Step-by-step guides for people in Bangladesh who want to work abroad, one doc pe
 
 - [Saudi Arabia](countries/saudi-arabia/) (draft, under review)
 - [Malaysia](countries/malaysia/) (draft, under review)
+- [Recruiting agencies](agencies/): the most active licensed agencies, by country, with cited red flags
 
 Each country folder has the same files:
 
