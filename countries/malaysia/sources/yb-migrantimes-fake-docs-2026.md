@@ -1,0 +1,69 @@
+[← Front Page](/)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLXR3aXR0ZXIiPjwhLS1bLS0+PCEtLS0tPjxwYXRoIGQ9Ik0yMiA0cy0uNyAyLjEtMiAzLjRjMS42IDEwLTkuNCAxNy4zLTE4IDExLjYgMi4yLjEgNC40LS42IDYtMkMzIDE1LjUuNSA5LjYgMyA1YzIuMiAyLjYgNS42IDQuMSA5IDQtLjktNC4yIDQtNi42IDctMy44IDEuMSAwIDMtMS4yIDMtMS4yeiI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld2JveD0iMCAwIDIwIDIwIiBjbGFzcz0iZmlsbC1jdXJyZW50Ij48ZyBpZD0iUGFnZS0xIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIj48ZyBpZD0iRHJpYmJibGUtTGlnaHQtUHJldmlldyIgZmlsbD0iY3VycmVudENvbG9yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMzAwIC03NTk5KSI+PGcgaWQ9Imljb25zIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NiAxNjApIj48cGF0aCBpZD0id2hhdHNhcHAtWyMxMjhdIiBkPSJNMjU5LjgyMSA3NDUzLjEyMWMtLjI0MS42ODItMS4xOTkgMS4yNDctMS45NjMgMS40MTItLjUyMy4xMS0xLjIwNS4xOTktMy41MDMtLjc1NC0yLjU4MS0xLjA2OS02LjE2NS00Ljg3OC02LjE2NS03LjQxMyAwLTEuMjkuNzQ0LTIuNzkzIDIuMDQ1LTIuNzkzLjYyNiAwIC43NjQuMDEyLjk3LjUwNy4yNDEuNTgyLjgyOSAyLjAxNi44OTkgMi4xNjMuMjg5LjYwMy0uMjk0Ljk1Ni0uNzE3IDEuNDgyLS4xMzUuMTU4LS4yODguMzI5LS4xMTcuNjIzLjE3LjI4OC43NTggMS4yNDYgMS42MjIgMi4wMTUgMS4xMTYuOTk1IDIuMDIxIDEuMzEyIDIuMzQ1IDEuNDQ3LjI0MS4xLjUyOS4wNzcuNzA1LS4xMTEuMjIzLS4yNDEuNS0uNjQxLjc4Mi0xLjAzNS4xOTktLjI4My40NTItLjMxOC43MTctLjIxOC4xNzkuMDYyIDIuNDU0IDEuMTE5IDIuNTUgMS4yODguMDcxLjEyMy4wNzEuNzA1LS4xNyAxLjM4N00yNTQuMDAyIDc0MzloLS4wMDVjLTUuNTEzIDAtOS45OTcgNC40ODUtOS45OTcgMTAgMCAyLjE4Ny43MDUgNC4yMTUgMS45MDQgNS44NmwtMS4yNDYgMy43MTcgMy44NDMtMS4yMjlhOS45MiA5LjkyIDAgMCAwIDUuNTAxIDEuNjUyYzUuNTEzIDAgOS45OTgtNC40ODUgOS45OTgtMTBzLTQuNDg1LTEwLTkuOTk4LTEwIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLWZhY2Vib29rIj48IS0tWy0tPjwhLS0tLT48cGF0aCBkPSJNMTggMmgtM2E1IDUgMCAwIDAtNSA1djNIN3Y0aDN2OGg0di04aDNsMS00aC00VjdhMSAxIDAgMCAxIDEtMWgzeiI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLWxpbmstMiBoLTQgdy00Ij48IS0tWy0tPjwhLS0tLT48cGF0aCBkPSJNOSAxN0g3QTUgNSAwIDAgMSA3IDdoMiI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLS0tPjxwYXRoIGQ9Ik0xNSA3aDJhNSA1IDAgMSAxIDAgMTBoLTIiPjwhLS0tLT48L3BhdGg+PCEtLS0tPjwhLS0tLT48bGluZSB4MT0iOCIgeDI9IjE2IiB5MT0iMTIiIHkyPSIxMiI+PCEtLS0tPjwvbGluZT48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==)
+
+Migration & Policy
+
+# Malaysia Moves To Dismantle Syndicate Behind Fake Immigration Documents
+
+Home minister Saifuddin Nasution Ismail says authorities are targeting those manipulating the foreign worker system and producing fraudulent immigration documents.
+
+Published 19 September 2026 • Updated 18 September 2026
+
+M
+
+Written by [Migrant Times Team](/columnist/migrant-times-team)
+
+![blur fallback](/_app/immutable/assets/blur-placeholder.C4yQSMA8.jpg) ![Malaysia Moves To Dismantle Syndicate Behind Fake Immigration Documents](https://media.migrantimes.com/uploads/news/1789644210875_809386666_1634660514694089_4379555027685108055_n.jpg)
+
+Home Minister Saifuddin Nasution Ismail. Photo: Saifuddin Nasution Ismail (Facebook)
+
+**PUTRAJAYA** — The Home Ministry has pledged to dismantle syndicates involved in manipulating Malaysia’s foreign worker system and producing fraudulent documents, with enforcement efforts focused on the groups’ operations at their source.
+
+Home Minister Saifuddin Nasution Ismail said the Immigration Department had shifted from a defensive approach to more aggressive action aimed at disrupting syndicates involved in such activities, as reported by Free Malaysia Today.
+
+He said the government would not tolerate attempts to exploit the country’s immigration system, adding that administrative powers must be used decisively to protect national security.
+
+The latest action came during Ops Serkap on September 14, when Immigration Department officers simultaneously raided 11 premises in the Jalan Chan Sow Lin commercial area in Kuala Lumpur.
+
+The operation resulted in the arrest of 30 foreign nationals, including 11 Bangladeshis suspected of being the masterminds behind the syndicate, comprising 10 men and one woman.
+
+Another 19 foreign nationals were detained for various immigration offences, including 16 Bangladeshis, one Myanmar national and two Indonesians.
+
+Authorities also seized 18 laptops, 21 printers and scanners, three mobile phones and 10 Bangladeshi passports during the raids.
+
+The seized materials included printed copies of fraudulent electronic Temporary Employment Visit Passes (e-PLKS) and fake police reports.
+
+According to Saifuddin, the syndicate allegedly sold the fake e-PLKS for RM150 each and fraudulent police reports for RM70.
+
+He said such activities not only compromised the country’s immigration administration but could also threaten public safety by creating avenues for foreigners to enter Malaysia illegally.
+
+\#Migrant Times\#Malaysia\#Home Ministry\#Immigration Department\#foreign workers\#immigration offences\#fake documents\#Bangladesh\#Kuala Lumpur\#Ops Serkap
+
+### Reader Conversation
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUtaWNvbiBsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlIGgtNCB3LTQiPjwhLS1bLS0+PCEtLS0tPjxwYXRoIGQ9Ik0yLjk5MiAxNi4zNDJhMiAyIDAgMCAxIC4wOTQgMS4xNjdsLTEuMDY1IDMuMjlhMSAxIDAgMCAwIDEuMjM2IDEuMTY4bDMuNDEzLS45OThhMiAyIDAgMCAxIDEuMDk5LjA5MiAxMCAxMCAwIDEgMC00Ljc3Ny00LjcxOSI+PCEtLS0tPjwvcGF0aD48IS0tLS0+PCEtLV0tLT48IS0tLS0+PCEtLS0tPjwvc3ZnPg==) Comments
+
+THE DISPATCH
+
+## Stay Informed Across Borders
+
+Weekly field reporting, accountability investigations, and regional migration policy analysis delivered directly to your inbox every Thursday.
+
+Email address
+
+Subscribe
+
+CONTRIBUTIONS & PITCHES
+
+## Contribute to Migrant Times
+
+We commission reporting, investigative manuscripts, data analyses, and first-person dispatches from journalists, researchers, students, and community advocates across Asia Pacific.
+
+[Pitch a Story →](/contact#pitch)

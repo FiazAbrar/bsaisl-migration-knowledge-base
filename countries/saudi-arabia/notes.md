@@ -595,3 +595,65 @@ Merged from the per-topic notes in `blocked-parts/`. Ledger ids like [W0012] poi
 - https://my.gov.sa/en/services/263551 : all Firecrawl engines failed. Wanted: official transit visa terms (fee, whether work is allowed).
 - https://help.unhcr.org/ksa/en/contact-us/ and https://migrantprotection.iom.int/.../prottasha-leaflet.pdf : curl 403; read with Firecrawl (saved as *-fc.md).
 - https://www.bb.org.bd/en/index.php/services/cipc_procedure : curl copy is a captcha page; read with Firecrawl (bb-cipc-procedure-fc.md).
+
+# Background research
+
+7 Nov 2026, for the new Background section (draft in `drafts/background.md`, facts SB0001-SB0044). It replaces and absorbs "Saudi Arabia as a destination".
+
+**New sources.** Bonik Barta 3 Oct 2026 (already saved) mined for the visa supply chain, TIB findings, sub-agents, BBS cost split, state minister's plan. TBS 27 Sep 2024 "alliance of predatory syndicates" (no formal Saudi syndicate; 2015 peak Tk 10 lakh; BBS 2020 Tk 4.17 lakh / 17.6 months; Oman, UAE, Bahrain closures; Malaysia 100-agency syndicate names: Mustafa Kamal's family, Nizam Uddin Hazari, Abul Bashar, Ruhul Amin Swapan/Catharsis; Kazi Papul in Kuwait). TBS 9 Jun 2024 (BBS SDS 2023: 34.63% of Saudi-bound paid Tk 4-5 lakh; 58.24% borrowed; 52.03% paid brokers). TBS 18 Dec 2024 (caps dated 2017; TBS vs Bonik Barta 2016: doc says "2016-2017"). TBS 18 Dec 2025 (Oman/UAE/Bahrain still closed; agencies 900 to 2,500). Reuters and Gulf Business 11 Aug 2016 (Firecrawl; 2008 ban reasons). SPA 6 Oct 2025 (official, first general recruitment agreement; text not public). Business in Bangladesh 6 Oct 2025 (earlier 2015 DW and 2022 skills agreements). Nazaha 7 Mar 2023 (official statement, names). Corporate Immigration Partners 6 Jun 2025 (Hajj-season pause on Qiwa block visas). Netra News registered in sources.csv (was fetched but unregistered).
+
+**Searched, not found.** Outcome of the Nazaha case (English and Bangla searches): nothing after March 2023; Dhaka Post 6 Mar 2023 says ACC would look into the Bangladeshi side only if specific complaints came (not saved, not used). Kept as one Need to know. No source names the owners of the Gulf medical-centre syndicate. Exact reason for the 2008 ban stays disputed: Saudi side said "equalise flows"; Bangladeshi officials said recruitment anomalies. Both stated, attributed.
+
+**Pruned from Background (logged or known, left out on purpose).**
+- Market size Tk 30,000 crore a year (SB0011), agency count 2,860 vs India 1,988 (SB0014), agency growth 900 to 2,500 (SB0029), BAIRA court suspension (SB0023): context with no bearing on a decision.
+- Malaysia syndicate names: belong in the Malaysia doc; Saudi Background keeps only the contrast (SB0018, SB0020).
+- December 2024 89% share (E0122 kept only for Malaysia's suspension); 66% share (SB0030) duplicates the 2025 numbers.
+- BBS 2020 average and 14% of remittances on debt: kept only the 17.6-month payback.
+- Remittance share (19.2% Jul-Sep 2026): no bearing on a migrant's decision.
+- BMET mining training: trivia.
+- Insider items that belong in other sections, not Background: abuse and deaths of women domestic workers (Netra: 250 bodies 2021-June 2026) for the Domestic worker section; deaths and heat, executions and the Oct 2026 case, crackdowns and the harbouring offence, amnesties, expat levy, kafala "abolition" claim, wage-theft collapses (Saudi Oger, Binladin, Sendan), Hajj 2024 deaths, COVID returns, Rohingya passports.
+
+**For the merge into doc.md.** The Scams bullet "Saudi embassy officials in Dhaka have been arrested for selling work visas [C0135]" now repeats Background; trim it to a pointer or drop it. The "Saudi Arabia as a destination" section is replaced in full.
+
+# Insider gap research
+
+Run of 7 Nov 2026, prefix SG (SG0001-SG0044). Inserts drafted in `drafts/inserts.md`; doc.md not edited. The 47-item gap list collapsed to about 30 topics (heat x3, deportation centres x3, attestation x2, free-visa renewal x2, agency cancellations x2, fake visa/ads x3, gold x2, Musaned cost x2 were duplicates). Rule applied: insert only what changes what a migrant does at that step; corridor statistics and syndicate stories are left to the Background agent.
+
+**Inserted**
+- Step 1 brokers: sub-agents outside oversight (Bonik Barta 3 Oct 2026, SG0003); s.14A of the 2013 Act (inserted by the 2023 amendment): agency may appoint only registered sub-agents (bdlaws, SG0005). The rules are the "Recruiting Agent Licence and Sub-agent Registration and Conduct Rules 2025" (gazette 14 Jan 2025, saved as gazette-ra-subagent-rules-2025; text layer is Bijoy-garbled, not read page by page yet: TODO read pages for the registration procedure, ID card and any public list). FE 2023: rules were to decide whether sub-agents register with government or agencies. No public sub-agent register found (searched English and Bangla). Need to know kept.
+- Free visa: SR 5,000-6,000 extra to sponsor at each iqama renewal (SG0002). Levy pass-through covered by citing C0020; TBS 2024 iqama cost already at Step 9.
+- Step 2: TIB 2017 (Daily Star 9 Mar 2017): some mission labour-wing officials party to visa-trade corruption (SG0001). The specific "attest without checks" wording isn't in the article; sentence written to what it says. BAIRA protest over single-visa attestation left in notes (no bearing on what a worker does).
+- Step 4/5 old names: Wafid replaced GAMCA (SG0041, SG0042); MOFA visa platform called Enjaz (SG0043). Mudad and Nazaha not added: no step where the worker uses them.
+- Step 7: stranded-worker visa extension under negotiation (Prothom Alo English, Oct 2026, SG0036): Need to know.
+- Step 8: worker fare USD 360 base (G0022/G0023 from the parallel agent's Arab News source). Ticket syndicate story left to Background.
+- Hours: sun-ban breaches reportable on 19911 or MHRSD app (NCOSH 2025 notice, SG0026); heat stroke/exhaustion signs and first aid from CDC NIOSH (SG0027-29, SG0044); no Saudi official symptom page found (NCOSH guide PDFs exist but are employer-facing).
+- How long you can stay: e-passport via passportriyadh.com "E-Passport Service" (14 branches); embassy instructions page (online form, NID or English online BRC accepted at missions, show old passport); fees SR 125/190/210 from ITV 21 Sep 2024 (no embassy fee page found; the embassy home page links "ePassport fees & requirements" to epassport.html, which has no fees). Embassy lists Expatriates Digital Center (EDC, run by Al Mamal Logistic Service) branches (bdemb-riyadh-edc-branches.pdf, saved, not cited: what EDCs do and charge is only on Facebook; SR 20 application, SR 25 delivery per their page).
+- NID: mission rules from the Stockholm mission page (new NID only if 16+ and never registered; no correction at missions; online form at services.nidw.gov.bd then biometrics at mission); BSS Jul 2025: NID issuance begun in Saudi Arabia. Saudi missions' own NID page not found; Riyadh embassy Facebook post exists (not scraped).
+- What can get you jailed: diya SR 300,000 per death, uninsured driver jailed until paid (Gulf News Dec 2012, old but the only case report found with an amount); SAMA unified compulsory motor policy (Liva copy, 2020): SR 10m cover, insurer's right of recovery against unlicensed/expired-licence driver (Article 8). Raw text copy saved as liva-unified-motor-policy.raw.txt because the layout text interleaves columns. Arrest: G0004-G0006 (parallel agent, Daily Star memo); labour wing form "jail" type (E0089).
+- Leaving: travel ban check on Absher / Najiz; new Enforcement Law from 29 Oct 2026 caps bans at 3 years per order (Saudi Life Guide, SG0037-40). Official MOJ text not fetched.
+- Scams: contract handed over at the airport (SG0004) as a named scam with the Qiwa comparison. SIM registered under your iqama: my.gov.sa service 25757 "inquire about my numbers" blocked curl and Firecrawl; Need to know.
+- Domestic worker: Musaned recruitment cost ceiling SR 11,750 for Bangladesh (HRSD 15 Jan 2024, SG0030). Sexual abuse: MHRSD 1919 abuse reporting centre (SG0006-07); US State 2023 report: extramarital pregnancy, including from rape, reportable to police (SG0008-09). Prothom Alo 2021: worker raped by employer's son, sent to jail by employer when pregnant, gave birth in jail (SG0010) logged but NOT inserted: SG0008 already carries the rule; anecdote. BRAC/Welfare Board help for women returning with children (SG0011, 2021) inserted. No source found on birth registration or travel papers for a baby born outside marriage (searched English and Bangla).
+- Deportation: Guardian 2024 (held 1-2 weeks, sent home with nothing, SG0032-34); claiming wages after leaving via wage insurance and Welfare-1. Shumaisi/Al-Kharj conditions (G0027, Amnesty 2022) not inserted: conditions don't change what the worker does.
+- Permit regularisation by end 2026 (G0014-16, parallel agent). Domestic-worker absence grace period (G0010-13) ended 11 May 2026; not inserted.
+- Mental health: MOH 920033360 (SG0031). No Bangla-language line found in Saudi Arabia.
+
+**Dropped as fluff or covered**
+- Takamol 27% fail rate, 447,572 tested; visa issuance rate about 5%; 52 licences cancelled Oct 2026; 2,860 agencies / 252 new licences; hundi Tk 5,234 crore for visa purchases (TIB 2016); BMET settling about a third of complaints: statistics, no step changes. Existing steps already say: retake costs full fee, check visa before final payment, check licence status on OEP.
+- Named cancelled agencies: OEP status check (Step 1 item 4) already shows Cancelled; a static list would go stale.
+- Fake visa + ticket (Alokito 2025, B0081): already logged; Step 8 ticket and Step 7 visa checks are the action. Facebook/TikTok job ads: searches found only the ads themselves, no news report or official warning on the pattern; not inserted.
+- Gold carrying by returnees: searches found only crew and airport-staff smuggling cases; no evidence of migrants being recruited as carriers. "Carry no packet" (Step 8) and Coming home goods rules stand.
+- Safe homes (2 vs 3) still pending Abrar's go-ahead on the Netra check; not touched.
+- Labour camps, Batha, living conditions, women's returnee stigma, women's migration policy history, Hajj 2024 heat deaths, Hajj agency cancellations, amnesty history: Background or no action. Living costs: no reliable source for low-wage workers (only Instagram/Quora/expat averages); Need to know added at Step 9.
+
+**Pages we could not download (this run)**
+- https://my.gov.sa/en/services/25757 (SIM numbers under your ID): curl 403, Firecrawl failed.
+- https://www.jugantor.com/national/1152668 (expat passport/NID services): curl 403, not retried.
+- https://en.banglanews24.com/banglanews-special/news/bd/195393.details (expat NID applications): curl 403, not retried.
+- Riyadh embassy Facebook posts on NID and e-passport fees: not scraped (Facebook).
+
+## Fact-check fixes, 7 Nov 2026 (prefix SG)
+
+- Left out on purpose: BMET mining training (E0120; no course, place or how to apply found); Takamol share of 2025 departures (E0120; no bearing on a decision); BBS 3.9% (a share of people, not of cost, so it can't sit beside the 52.3% cost share; A0015 and SB0015 claims corrected); A0045 (one woman's undated MFA case, not a pattern); D0067 in Background (covered in the domestic-worker section); BRAC Centre address (E0112; no migration service there found; the airport BRAC Information Center is the contact).
+- Ticket syndicate: the BD Today report's sentence tying the GSA monopoly to Ahmed Yousuf Walid of Galaxy Group is garbled ("monopoly over ticket distribution by Mr. Ahmed Yousuf Walid"); the doc says the report "ties" it to him. No official probe report found to confirm the name.
+- Expat levy: HRW (2024) gives SR 800 a month since 2020 (SG0054). Not found: a source on whether sponsors who sell visas pass the levy on to the worker.
+- Remittances: Bangladesh Bank top-10 table (SG0045, SG0046), July-September 2026; the curl copy had no table text, the Firecrawl copy does.

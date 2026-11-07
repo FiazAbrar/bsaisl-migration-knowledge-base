@@ -2831,3 +2831,89 @@ curl times out on jtksm.mohr.gov.my, mohr.gov.my, ssp.mohr.gov.my, minimumwages.
 
 
 - https://drive.google.com/drive/folders/1cnNg9Gkr4nN7ifE-7jxao7ydUtiR92De?usp=drive_link -> manual/imi-entry-permit-criteria-ebook.pdf : IMI's Entry Permit (permanent residence) criteria e-book, linked from imi-permit-masuk; needed for the "Permanent residence" Need to know (Other passes).
+
+# Background research
+
+Researched 7 Nov 2026 for `drafts/background.md` (replaces and absorbs the intro-level context and "Malaysia as a destination"). Facts YA0001-YA0071 (prefix YA). Most sources had already been fetched and registered earlier on 7 Nov with no facts logged; two added: news-newage-acc-60-agencies (11 Dec 2025), news-bssbn-ruhul-amin-property-attached (20 Aug 2025). Searches in English and Bangla (দুদক, সিন্ডিকেট, রুহুল আমিন স্বপন, অভিযোগপত্র).
+
+## What the draft absorbs from "Malaysia as a destination" and what it drops
+
+- Kept: PLKS holders by nationality (U0057), departures 2023-2026 and the closure collapse (B0091, B0088, B0089), 9.30% share vs Saudi (B0092), closures (U0042 plus new history), 2026 structure (Z0144, W0008, Z0155), cost vs Indonesia/Nepal (A0070), CLAB (W0019, D0042), 3D jobs (U0046).
+- Dropped as fluff or duplicates: remittance ranking (B0093; no bearing on a decision); sectors open to Bangladeshis (already in the PLKS intro, W0041/W0042); BOESL DHL circular (already in Step 1); minimum wage rise to RM2,000 (already in "Your rights at work > Pay", R0002); High Commission attestation of demand letters (already in the PLKS intro); the 2007/2010 clearance figures.
+- For the doc writer, once Background is in: Step 1 item 4 "What happens in practice" first clause repeats the Tk 5.44 lakh vs Tk 78,990 figure and the "agencies Malaysia had selected" point; FWCMS/Bestinet and PLKS are now defined first in Background, so the later inline definitions become repeats.
+
+## Findings behind the draft
+
+- **G2G Plus (2016-18).** 10 agencies from 10 Mar 2016, about 2 lakh workers, Tk 3-4 lakh against Tk 37,000; Mahathir's government cancelled it by order of 21 Aug 2018, effective 1 Sep, calling it monopolistic (YA0001-YA0004). The system was SPPA, developed by Synerflux (YA0005, YA0006), not Bestinet as one insider item claimed; the Daily Star opinion (Aug 2026) says FWCMS was also central then. Synerflux kept out of the draft (detail with no bearing on a decision).
+- **Earlier rounds.** 2006-09: Tk 2 lakh+ against Tk 84,000; 2009 freeze after exploitation reports; many undocumented (YA0009-YA0011). 2012 G2G: only about 10,000 got jobs (YA0008); 1.4 million applied (G0029, 2013). Bangla Stream (Jun 2026) gives the 2012 G2G cost as Tk 33,000 and says the 25 agencies of 2022 were mostly owned by MPs, politicians and relatives; not logged (news commentary; the named agencies are covered by Prothom Alo/New Age).
+- **2022-24 syndicate.** Malaysia selected 25 then about 100/101 of Bangladesh's 1,520 licensed agencies (YA0016, YA0017, YA0023). Syndicate fee: Tk 1.07 lakh against a Tk 2,700 registration fee, Tk 1 lakh allegedly to Bestinet (Prothom Alo via CNA; Bestinet denies) (YA0048-YA0050); Tk 1.5 lakh per worker demanded of a non-listed agency (court complaint, YA0032). UN experts' Mar 2024 letter: bribery for fake quotas in Malaysia's HR and Home ministries, then the Bangladesh High Commission and agents (YA0025, YA0026); Apr 2024 release: high-level officials in both governments reportedly involved (YA0060).
+- **People and case status (as of the latest source).** Amin (Aminul Islam bin Abdul Nor): Bestinet founder, Malaysian citizen, chairman until Jul 2023, still shareholder (YA0047); Interpol request Oct 2024 (YA0045); Malaysian police "handling" it, G2G/P2P (Oct 2025, YA0053); not extradited or charged (Bloomberg, Apr 2026, YA0055); denies (YA0046, YA0056); Bestinet and Amin suing 10 media outlets for over RM1 billion (YA0059, logged, cut from draft as not decision-relevant). Swapan: Catharsis owner, ex-BAIRA SG (YA0007, YA0042); ACC case Tk 130.43 crore from 7,787 workers (YA0035); CID money-laundering case Aug 2025 (YA0042); about Tk 500 crore property attached Aug 2025 (YA0043); licence cancelled Jul 2026 (YA0021). His arrest status: not found; CNA (2024) said he was last sighted in Kuala Lumpur.
+- **ACC cases.** 12 cases, 32 people, Tk 1,128 crore (Mar 2025, YA0033/YA0034); 13 agencies, Tk 1,159 crore (Sep 2025, YA0037); 6 cases, 10 people, Tk 525.22 crore (6 Nov 2025, YA0039); decision to sue 60 more agencies, 124 people, Tk 4,545 crore, 2,67,276 workers (Dec 2025, YA0038). No charge sheet or verdict found in searches up to Nov 2026. A0085 (64 people, 25 agencies, Tk 2,288 crore) is an older running total.
+- **Trafficking case (Altab Khan, Afia Overseas) against Imran Ahmad, ex-secretary Ahmed Munirus Saleheen and 101 agencies.** CID final report 15 Jul 2025 cleared them (YA0027), three months after Malaysia's HR Ministry letter of 23 Apr 2025 asking Bangladesh to review or withdraw the cases (YA0028). Tribunal ordered Detective Branch reinvestigation, report due 7 Jan 2026 (YA0030). Outcome of the reinvestigation: not found. Daily Sun calls a co-accused "former IGP Benazir Ahmed"; other outlets name ex-MP Benazir (Benjir) Ahmed of Ahmed International. The draft does not name him in this case.
+- **49 licences cancelled** by Ministry gazette (Prothom Alo, 20 Jul 2026) after court accepted complaints; includes Orbital Enterprises, Orbital International, Ahmed International, Snigdha Overseas, Five M International, Unique Eastern, Catharsis (YA0019-YA0021). The full list is in the source; it includes Amin Tours and Travels, one of whose permission letters the doc cites as an example (the insider audit flagged this; the doc should not use a cancelled agency as its example). The doc's Step 1 RL status check (oep.gov.bd/agencies) covers cancelled licences.
+- **2026.** Ministry officials: Malaysia chose the 25, Bangladesh had little part; state minister: a new syndicate "could not be ruled out" (YA0063, YA0064). Minister Ariful Haque Chowdhury (5 Nov 2026): departures hoped from December, first 2-3 flights free; private-agency cost Tk 2.5-3 lakh, as agencies proposed; wants all licensed agencies to take part; new MoU to be signed 31 Dec (YA0065-YA0068). TURAP (Bestinet's direct-hiring platform) proposed, then dropped from the Cabinet agenda in Apr 2026 (YA0057, YA0058).
+- **Malaysian policy.** Cap of 2.5 million foreign workers, target 10% of workforce by 2030 from about 15%, multi-tier levy in 2026 (The Edge, Jul 2025; YA0069, YA0070). No official MTLM rate schedule found (also noted in part W).
+- **Irregular routes.** 2012-15 boat crisis and Wang Kelian graves (YA0012, YA0014); Thailand's 2017 convictions of 62 over trafficking Rohingya and Bangladeshis (YA0015, logged, cut from draft). 2026 smuggling via a third country and Kelantan (F0052, F0053).
+
+## Logged but left out of the draft, with reason
+
+- Top Glove paid over USD 30 million in remediation after a US CBP forced-labour import ban (YA0071, CBP 2021). Left out: the source doesn't say Bangladeshi workers were paid, and it changes nothing a migrant does before going. Could fit "If you aren't paid" with a source naming Bangladeshi recipients.
+- KLIA "counter setting" immigration bribery (news-star-klia-counter-setting-2025, news-edge-counter-setting-focal-person; registered, not logged): belongs under tourist-visa scams, not Background.
+- US TIP 2026: Malaysia on Tier 2 (tip-2026-malaysia-state); no bearing on a decision.
+- June-July 2025 arrests of Bangladeshis over an alleged Islamic State-linked network: Reuters blocked (401); not used.
+- COVID-era raids, Rayhan Kabir deportation, MM2H laundering stories: not researched; outside the Background scope set by CLAUDE.md.
+- Estimate of undocumented Bangladeshis: no reliable figure found (CNA 2024 says only "several thousands more" enter illegally; the Independent 2018 quotes the High Commission's estimate of one million Bangladeshis in Malaysia in total).
+
+## Conflicts
+
+- Stranded workers: 17,777 (Ministry, W0018) vs at least 16,970 (Daily Star opinion, Aug 2026). Draft uses the official figure.
+- 2026 associates: 312 (Ministry Z0144, FWCMS W0008) vs 250 (Daily Star opinion). Draft uses the official figure.
+- 2022-24 workers: about 450,000 (Prothom Alo, Daily Star) vs about 480,000 (Daily Star Aug 2025) vs 4,76,672 (Bangla Stream). Draft gives no total.
+
+## Blocked
+
+- Bloomberg "Everyone Gets a Cut" original (403); used Andy Hall's reprint (ngo-andyhall-bloomberg-everyone-gets-a-cut-2026) and A0069 (Daily Star summary).
+- OHCHR Nov 2025 UN experts release (yb-ohchr-un-experts-2025 saved by another part; A0060-A0062 cover it via FMT).
+- Reuters (IS network 2025; limbo 2023): 401.
+
+# Insider gap research
+
+7 Nov 2026, prefix YB (YB0001-YB0020). Draft text: `drafts/inserts.md` (doc.md not edited, not built, not committed). Several gaps in the brief overlapped (ghost employers / quota trading / jobless arrivals; passport collection x2; medical racket x2; complaint outcomes x3); merged into one insert each.
+
+**Sub-agents (dalals).** The amendment that brought sub-agents under the law is the 2023 one, not 2024: s.14A of the 2013 Act, inserted by Act 41 of 2023, lets an agency appoint only a registered sub-agent [YB0001]. The rules are the Recruiting Agent Licence and Sub-agent Registration and Conduct Rules 2025 (SRO 316, gazette 14 Jul 2025, `yb-baira-rules-2025-b`), amended by SRO 02-Law/2026 (`yb-mowe-sro-rules-amend-2026`; associate recruiters, agency deposit cut). The gazette text layer is garbled (SutonnyMJ), so PDF pages 12-18 were read as images and quotes transcribed (rows marked --no-quote-check with page numbers): agency publishes its sub-agent list on its website and recruits only through registered sub-agents [YB0002]; agency office displays migration cost and wage [YB0003]; joint liability [YB0004]; sub-agent office signboard and certificate [YB0005]; BMET/DEMO publish sub-agent details [YB0006]; Tk 3 lakh security pays worker compensation [YB0007]; registration cancelled if a worker's complaint is proved [YB0008]. A0093 (ILO, "endorsed Nov 2024") refers to the interim government's Ordinance No. 13 of 2024, which TRW says Act 42 of 2026 repealed (`yb-trw-subagent-rules-2026`, law-firm guide, not registered). BSS 9 Jul 2026: the minister cites the 2025 rules as bringing brokers under a legal framework (`yb-bss-subagent-rules-2025`, not registered). Open: whether any sub-agent has been registered or any list published (searched BMET, Bangla news "সাব-এজেন্ট নিবন্ধন"; nothing found).
+
+**Ghost employers, quota trading, jobless arrivals.** ILO TRIANGLE QBN Jul-Dec 2023: services intake 142,204 vs 20,000 needed, manufacturing 197,213 vs 50,000; quotas obtained with fake documents (Malaysiakini) [YB0016]; 171 Bangladeshis arrested at Kota Tinggi when trying to report their agent, 20 Dec 2023 [YB0017]. BHRRC/FMT Mar 2024: 161 workers, seven months no work, passports held for RM6,000 [YB0018]; JTK HQ told employer to pay and send home or find new employers [YB0019]. Reused A0071, G0013, A0086 (Meranti, Tenaganita), A0088 (Pengerang). Reuters May 2023 piece blocked (401).
+
+**BOESL.** OHCHR primary release saved [YB0015] (matches A0060 via FMT). Used A0030 rather than A0059/Z0084 (older).
+
+**Medical.** Reused D0021 (Tk 11,000 vs 6,500), D0022 (5x), D0017 (Paltan sealing), D0015 (sealed centre still on FWCMS list, Nov 2026). Open: whether the Ministry publishes its own approved-centre list.
+
+**Complaint outcomes.** Reused A0074, A0076, A0079 (2023-24 data, newest found). A0078 (licence suspended after six months) left out: one official's remark, no decision value.
+
+**Sabah and Sarawak.** Official JTK Sarawak pages saved: complaint channels [YB0009], complaint details [YB0010], HQ [YB0011], Labour Court claim [YB0012]. JTK Sabah blocked (jtksabah.gov.my and /aduan: Firecrawl tunnel error); Wayback home page only [YB0013; the SISPAA part of its claim rests on the page's menu link, not the quote]. The KK office page archive had no contacts. Negaraku guide (`yb-negaraku-sabah-sarawak`, AI-assisted, not registered) says Cap. 67 and Cap. 76 amended by Acts A1753/A1754 from 1 May 2025. Pages we could not download: jtksabah.gov.my/aduan, jtksabah.gov.my office list.
+
+**Legalisation.** RTK ended 31 Dec 2023 [YB0014, Migrant Times]. No 2026 legalisation found; probashiapp guide says none (not used). Open: an official IMI statement that none is planned.
+
+**Age doctoring.** Only general evidence: Mar 2025 Home Ministry circular allowing age correction up to 8 years on reissue abroad [YB0020]; Kuwait-corridor Dhaka Post story (not Malaysia). Searched Bangla "বয়স বাড়িয়ে পাসপোর্ট মালয়েশিয়া", HC KL Facebook; only social posts. Written as Need to know.
+
+**Relatives selling calling visas.** Searched Bangla news and Facebook ("আত্মীয় ভিসা বিক্রি কলিং ভিসা"); only unsourced social posts. Written as a check-the-offer line plus Need to know.
+
+**Gaps judged covered or fluff (no insert):**
+- Contract substitution: covered by A0082 (Step 1) and J0070 (Your rights at work); insert only adds why the contract matters for a claim (M0113).
+- Student route used for work: covered (Student visa > Scams, S0135; Can students work?). S0138 is 2017.
+- Fake UNHCR cards, Rohingya on Bangladeshi passports, fake refugees: Asylum section already cites N0049 and discourages; Rohingya passports don't change what a Bangladeshi migrant does.
+- Tourist visa routes: covered (N0028, N0029, O0032). The 2023 MACC High Commission bribery case (N0025) stays out: a 2023 Background item, no step changes.
+- MTLM: still not in force (The Edge, Jul 2025, `yb-edge-mtlm-2026`; FMM Jul 2026 still pushing for it). Employer-side; levy deduction complaint already in Step 3.
+- Worker deaths numbers (H0024, H0036): corridor statistics with no bearing on the procedure; Background if anywhere.
+- Remittance incentive: already in Sending money home (B0103, B0104); hundi prevalence is Background.
+- Recruitment debt: one line kept (A0066, no record of informal payments); A0065 survey percentages left out.
+
+## Independent-check fixes (7 Nov 2026, YB)
+
+- Multi-tier levy (YA0069): FMM's 7 Jul 2026 statement (fmm.org.my newsroom) still urged the government to implement the MTLM "without further delay", so it had not taken effect by July 2026; current levy RM1,850. The doc clause was cut as not changing what a migrant does.
+- MACC on Bestinet: investigated in 2022 over the selection of 25 agencies; classified "no further action" in Sep 2024 (YB0021, YB0022, FMT Nov 2024).
+- Owners of the 2026 list of 25 (New Age, Aug 2026): Mangrove Career Link (wife of a Juba Dal central vice-president; he denies a business link), M/S Al-Shupto Overseas (HAAB secretary general Farid Ahmed Mazumder); allegation of proxy companies (Hasnat Abdullah); Prothom Alo: alleged Amin and Swapan decided who joined (YB0024-YB0028, YB0030). Other owners not reported. BAIRA's current leadership not yet researched.
+- High Commission recoveries: RM492,667 (H0025) is condolence money only and conflicts in scope with Jago News' RM5.89 million on 1,381 claims for Jan-Jun 2026 (YB0029); the doc now uses the Jago News figure.
+- BOESL Malaysia numbers: A0030 ("about 1,500" in 2022) conflicts with A0059/Z0084 (1,381, Oct 2022 to May 2024); doc keeps 1,381.
+- Still "lead", now marked as reported in the doc: E0143 (S-MM2H), H0029 (employer at exit point, minister's May 2025 announcement in FMT, Astro Awani and others; no KDN release found), H0045 (Bangladesh Bank hundi notice as reported by bdnews24).
+- Page we could not download: https://mtcp.sarawak.gov.my/web/subpage/webpage_view/262 (MTCP Sarawak, S-MM2H requirements): curl failed and Firecrawl hit a proxy error. Needs a teammate to save it in a browser.

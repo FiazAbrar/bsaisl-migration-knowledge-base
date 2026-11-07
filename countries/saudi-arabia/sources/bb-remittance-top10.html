@@ -1,0 +1,606 @@
+<html>
+
+<head>
+<script type="text/javascript">
+(function(){
+window["loaderConfig"] = "/TSPD/?type=21";
+})();
+
+</script>
+
+<script type="text/javascript" src="/TSPD/?type=18"></script>
+
+
+
+<title>bop</title>
+
+
+
+
+<!-----------------for the highlighting menu-------------------------->
+<script type="text/javascript">
+<!--
+	var primaryMenu = "tabeconomicdata";
+    //var secondaryMenu = "Bangladesh balance of payments";
+	var secondaryMenu = "Balance of payments";
+// -->
+</script>
+<link href="../../homejscs/bbmenu.css" type="text/css" rel="stylesheet"/>
+<script type="text/javascript" src="../../homejscs/bbmenu.js"></script>
+<!-----------------end of highlighting menu-------------------------->
+
+
+<script language="javascript" src="../../js/common.js"></script>
+<script language="javascript">
+
+
+	
+	function currentData(mode) 
+{
+	document.getElementById("txtPeriod").value=mode;
+	document.getElementById("ddlYear").value="-1";
+	document.getElementById("UsersList").value="-1";
+	document.getElementById("SelectPeriod").value="";
+	
+	LoadData(1);
+	
+}
+function LoadData(loadmode, prmode) {//prmode=1 for quarterly, prmode=2 for yearly loadmode=1 for initial load, loadmode=2 for search
+	var mode=document.getElementById("txtPeriod").value;
+	
+	if(mode==1)
+	{
+		document.getElementById("search1").style.display='none';
+		document.getElementById("search2").style.display='none';
+	}
+	else
+	{
+		document.getElementById("search1").style.display='none';
+		document.getElementById("search2").style.display='none';
+	}
+	
+	if(loadmode==2){
+		//if(mode==1)
+		SelectValidate('UsersList','- Please Select Month');
+	    SelectValidate('ddlYear','- Please Select Year');
+	}
+
+
+	if (count == 0)
+	{ 
+	var baseurl="";
+	
+	var ddlYear=document.getElementById("ddlYear").value;	
+	
+	var UsersList=document.getElementById("UsersList").value;
+	
+	var SelectPeriod=document.getElementById("SelectPeriod").value;
+	
+	var isshowed=document.getElementById("isshowed").value;
+	var txtPeriod=document.getElementById("txtPeriod").value;
+	
+	
+	if(loadmode==1)
+	{
+		document.getElementById("ddlYear").options[document.getElementById("ddlYear").selectedIndex].value="-1";
+	}
+		if(mode==1){
+			baseurl="bop_remittance_flatdata.php?ddlYear="+ddlYear+"&UsersList="+UsersList+"&SelectPeriod="+SelectPeriod+"&isshowed="+isshowed+"&loadmode=1&txtPeriod="+mode+"&prmode="+mode;
+			
+		}
+		else if(mode==2)
+			baseurl="bop_remittance_flatdata.php?ddlYear="+ddlYear+"&UsersList="+UsersList+"&SelectPeriod="+SelectPeriod+"&isshowed="+isshowed+"&loadmode=1&txtPeriod="+mode+"&prmode="+mode;
+		//alert(baseurl);
+
+				var xmlDoc = doXMLHTTPGet(baseurl);
+				
+	}
+	else{ 
+		//user is prompted with error message
+		ShowAllAlertMsg();		
+		return false;
+	}
+}
+
+function SetPeriodValue(){	
+      
+	document.getElementById("SelectPeriod").value=document.getElementById("ddlYear").options[document.getElementById("ddlYear").selectedIndex].value +
+	 "-"+ document.getElementById("UsersList").options[document.getElementById("UsersList").selectedIndex].value ;
+	document.getElementById("isshowed").value='Yes';
+   
+}
+
+
+
+////////for Ajix Maincontent/////
+	
+	var httpObj;                //stores the XMLHTTPRequest
+	var errormessage = "There has been an error displaying the data:<br />";
+	
+	function doXMLHTTPGet(baseurl)
+	{
+		var returnData = "";
+		if (window.XMLHttpRequest)
+		{
+			//We are in a non-IE browser
+			httpObj=new XMLHttpRequest()
+		}
+		else if (window.ActiveXObject)
+		{
+			//We are in IE
+			httpObj=new ActiveXObject("Microsoft.XMLHTTP")
+		}
+	
+		//Return the XML document when it has finished loading
+		httpObj.onreadystatechange= function()
+			{
+				if (httpObj.readyState==4)//if 1
+				{
+					if (httpObj.status==200)//if 2
+					{					
+						returnData=httpObj.responseText;
+						//alert(returnData);
+						if(returnData.length>0)
+							document.getElementById("maincontent").innerHTML=returnData;//"<img src='homeimages/icoOnlineServ.gif' border='0'>";
+						else
+							document.getElementById("maincontent").innerHTML="No information available.";
+						//displayData(httpObj.responseText);						
+					}//end of if 2
+					else	//else of if 2
+					{
+						alert("Problem retrieving data:" + httpObj.statusText)
+					}		//end of else of if 2
+				}			//end of if 1
+			}
+	
+		//Request the XML document	
+		httpObj.open("GET",baseurl,true)
+		httpObj.send(null);
+	}
+	//////end for Ajix Maincontent///////
+
+</script>
+
+
+
+<link href="../../js/common.css" rel="StyleSheet" type="text/css">
+
+
+</head>
+
+
+<body bgcolor="#FFFFFF"  topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" onLoad="mainOnLoad();">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">      
+   		<tr><!--Banner-->
+            <td valign="top"><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Website Banner</title>
+  <style>
+    .banner {
+      background-color: #004080; /* Dark blue background */
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 30px;
+      font-family: Arial, sans-serif;
+    }
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+    .banner a {
+      color: #FFD700; /* Gold link color */
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .banner a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <div class="logo"><img src="../../../../images/bbmono.ico"></div>
+	 
+    <a href="https://www.bb.org.bd"> <span>Bangladesh Bank</span></a>
+  </div>
+</body>
+</html>
+
+</td>
+        </tr>
+        <tr><!--menu-->
+            <td valign="top">            </td>
+        </tr>
+        <tr>
+    	<td valign="top" width="100%" >
+			<table width="100%" border="0">
+                    <tr>
+                        <td valign="middle">
+                        <img src="../../homeimages/icopagenavigation.gif"> <a href="../index.php" class="breadcrumbs">Home</a>
+                        <img src="../../homeimages/icopagenavigation.gif"><a href="index.php"  class="breadcrumbs">Economic data</a>
+                        <img src="../../homeimages/icopagenavigation.gif"><a href="bopindex.php" class="breadcrumbs">Balance of payments</a>
+                        <img src="../../homeimages/icopagenavigation.gif"><a href="bop_remittance.php" class="breadcrumbslink"> Wage Earners' Remittances Inflows </a></td>
+                     </tr>
+                    <tr>
+                       <td background="../../homeimages/dotedborder.jpg" height="2" width="100%"></td> 
+                    </tr>
+                </table></td>
+        </tr>
+         <tr>
+            <td>
+                <table width="100%" border="0">
+                    <tr>
+                        <td id="maincontent" valign="top">
+                        	<!--table width="100%" border="0">
+                                <tr>
+                                    <td align="center" valign="top">
+                                       <table CELLSPACING="0" BORDER="0" CELLPADDING="3"  WIDTH="96%">
+                                             <tr>
+                                                <td width="100%" class='pageHeader' align="center">Services and income account<br><br></td>
+                                            </tr>
+                                            <tr>
+                                            <td width="100%" align="center">  
+                                               <table border="1"  width="75%" class="standardcellborder" >
+                                                    <tr>
+                                                        <td width="100%"  colspan=6 align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">(In million US$)</font></td>
+                                                    </tr>
+                                                    <tr class=tableSubHeader>
+                                                    <th>Items</th>
+                                                    <th>2009-10<br>
+                                                      July-Apr</th>
+                                                    <th>2010-11R<br>
+                                                      July-Mar</th>
+                                                    <th>2010-11P<br>
+                                                      July-Apr</th>
+                                                    
+                                                    <th>% Changes<br>(4 over 2)</th></tr>
+                                                    <tr class=tableHeader><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+                                               
+                                                    <tr class=even>
+                                                    	<td class=tableDataLeftAlign><strong>
+                                                        Services (Net)
+                                                      </strong></td>
+                                                    	<td  class='tableDataRightAlign' style='padding-right:7px'><strong>-1442.8</strong></td>
+                                                    	<td class='tableDataRightAlign' style='padding-right:7px'><strong>-1810.0</strong></td>
+                                                    	<td class='tableDataRightAlign' style='padding-right:7px'><strong>-1993.2</strong></td>
+                                                    	<td class='tableDataRightAlign' style='padding-right:7px'><strong>38.16</strong></td>
+                                                    	</tr>
+                                                        <tr>
+                                                            <td width="240"><strong>&nbsp;&nbsp;Receipts</strong></td>
+                                                            <td class='tableDataRightAlign' style='padding-right:7px'><strong>1577.4</strong></td>
+                                                            <td class='tableDataRightAlign' style='padding-right:7px'><strong>1849.3</strong></td>
+                                                            <td class='tableDataRightAlign' style='padding-right:7px'><strong>2094.1</strong></td>
+                                                            <td class='tableDataRightAlign' style='padding-right:7px'><strong>32.76</strong></td>
+                                                          </tr>
+                                                          <tr  class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;1. Transportation</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">123.3</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">137.3</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">154.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;2. Travel</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">67.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">68.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">73.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;3. Other business services</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">394.9</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">483.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">536.4</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;4. Government services</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">736.9</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">856.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">997.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;5. Others</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">255.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">304.3</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">332.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                         
+                                                          <tr>
+                                                            <td><strong>&nbsp;&nbsp;Payments</strong></td>
+                                                            <td  class='tableDataRightAlign' style='padding-right:7px'><strong>-3020.2</strong></td>
+                                                            <td  class='tableDataRightAlign' style='padding-right:7px'><strong>-3659.3</strong></td>
+                                                            <td  class='tableDataRightAlign' style='padding-right:7px'><strong>-4087.3</strong></td>
+                                                            <td  class='tableDataRightAlign' style='padding-right:7px'><strong>35.34</strong></td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;1. Transportation</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-2335.4</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-2982.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-3335.7</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;2. Travel</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-235.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-208.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-226.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of which : Medical related services</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-1.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-0.9</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-1.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education related services</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-102.7</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-69.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-73.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;3. Other business services</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-181.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-242.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-275.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;4. Government services</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-175.7</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-139.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-153.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;5.. Others</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-91.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-87.4</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-96.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                           <tr>
+                                                            <td>&nbsp;</td>
+                                                            <td align="center"><div align="center"></div></td>
+                                                            <td align="center"><div align="center"></div></td>
+                                                            <td align="center"><div align="center"></div></td>
+                                                            <td align="center"><div align="center"></div></td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                             <td><strong>Income (Net)</strong></td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px"><strong>-1141.1</strong></td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px"><strong>-925.6</strong></td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px"><strong>-1033.6</strong></td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px"><strong>-9.42</strong></td>
+                                                          </tr>
+                                                          
+                                                          <tr>
+                                                            <td><strong>&nbsp;&nbsp;Receipts</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>45.6</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>140.0</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>151.6</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>232.46</strong></td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                             <td>&nbsp;&nbsp;&nbsp;&nbsp;1. Investment Income</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">36.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">131.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">141.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Direct and portfolio investment</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">0.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">0.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">0.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other investment</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">36.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">131.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">141.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of which interest</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">32.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">127.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">137.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;2. Others</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">9.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">9.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">10.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                         
+                                                          <tr>
+                                                            <td><strong>&nbsp;&nbsp;Payments</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>-1186.7</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>-1065.6</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>-1185.2</strong></td>
+                                                            <td class="tableDataRightAlign" style="padding-right:7px"><strong>-0.13</strong></td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                             <td>&nbsp;&nbsp;&nbsp;&nbsp;1. Investment Income</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-898.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-801.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-891.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Direct and portfolio investment</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-663.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-594.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-662.1</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other investment</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-235.2</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-206.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-229.7</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of which interest</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-184.3</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-167.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-186.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr class=even>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;2. Others</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-8.5</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-14.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-15.6</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td>&nbsp;&nbsp;&nbsp;&nbsp;3. Reinvested Earnings</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-280.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-250.0</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">-277.8</td>
+                                                             <td class="tableDataRightAlign" style="padding-right:7px">&nbsp;</td>
+                                                          </tr>
+                                               </table>
+                                             </td>
+                                           </tr>
+                                           <tr class="tableSmallData">
+                                            <td><font color="#800000">Source: Statistics Department , Bangladesh Bank, &nbsp;<font color="#800000"> P : Provisional</font></font>        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                 </tr>
+                              </table-->
+                        </td>
+                        <td width="1%"></td>
+                        <td valign="top" style="width:261px;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td id="rightmenuflat">
+                                        <h1>Related links</h1>
+                                        <div class="rpanel">
+                                            <table style="padding-left:8px;padding-right:8px;width:100%">
+                                            	<tr>
+                                                   <td style="border-bottom:1px solid #D8D6C5;padding:0px 4px 4px 4px;">							
+                                                        <img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="../bop.php?txtPeriod=1">Balance of payments</a><br/>
+                                                        
+                                                       <!-- <img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="bop_epb.php">Export shipments reported by EPB</a><br/>
+                                                        
+                                                        <img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="bop_bb.php">Export receipts recorded by BB</a><br/>-->
+                                                        
+                                                        <img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="exp_rcpt_merchandise.php?txtPeriod=1">Commodity wise export shipments</a><br/>
+                                                        <!--<img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="bop_summarized.php">Summarized import statistics</a><br/>-->
+                                                        <img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="imp_pay_marchandise.php">Commodity wise import payments</a>
+                                                        <!--<br/>
+                                                        <img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a class="homepagelink1" href="bop_summarized_imp.php">Summarized import payments</a>-->
+                                                    </td>
+                                                   </tr>
+                                            	<tr>
+                                                   <td style="border-bottom:1px solid #D8D6C5;padding:0px 4px 4px 4px;">							
+                                                        <img src="../../homeimages/rpanel-arrow.gif">
+                                                       <a href="../import/imprtindex.php">Import payments</a><br/>
+                                                     
+                                                    <img src="../../homeimages/rpanel-arrow.gif">
+                                                   <a href="export/exprtindex.php">Export receipts</a>
+                                                   </td>
+                                                   </tr>
+                                                    <tr>
+                                                    <td style="border-bottom:0px solid #D8D6C5;padding:4px 4px 4px 4px;color:#404041;">
+                                                        <img src="../../homeimages/rpanel-arrow.gif"><font class="pageBodyText">view data &nbsp;</font>
+                                                       <a onclick=currentData(1); class="itemLink" style="cursor:hand">[Monthly]</a>&nbsp;<a  href="../bop_remittance_yearly.php" class="itemLink" style="cursor:hand">[Yearly]</a>
+                                                      </td>
+                                                 </tr>
+                                                  <tr style="display:none;" height="0">
+                                                    <td>
+                                                         
+                                                        <table border="0">
+                                                           <tr>
+                                                                <td valign="top"  style="padding:0px 4px 0px 4px;">
+                                                                <div id="search1" style="display:none;">
+                                                                <SELECT NAME="UsersList" ID="UsersList"  class="webComboBox">
+                                                                <option value="-1">--Please Select--</option> 								
+                                                                <option value="July-Aug">July-Aug</option>
+                                                                <option value="July-Sep">July-Sep</option>
+                                                                <option value="July-Oct">July-Oct</option>
+                                                                <option value="July-Nov">July-Nov</option>
+                                                                <option value="July-Dec">July-Dec</option>
+                                                                <option value="July-Jan">July-Jan</option>
+                                                                <option value="July-Feb">July-Feb</option>
+                                                                <option value="July-Mar">July-Mar</option>
+                                                                <option value="July-Apr">July-Apr</option>
+                                                                <option value="July-May">July-May</option>
+                                                                <option value="July-June">July-June</option>								
+                                                                                                                        
+                                                            </SELECT>
+                                                                 </div>   
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign="top"  align="center"  style="padding:0px 4px 0px 4px;">
+                                                               
+                                                                <input type="hidden" id="SelectPeriod" name="SelectPeriod">
+                                                                <input type="hidden" id="isshowed" name="isshowed"/>
+                                                                <input type="hidden" id="txtPeriod" name="txtPeriod" value="1"/>
+                                                               <div id="search2" style="display:none;">
+                                                                <SELECT id="ddlYear" name="ddlYear" class="webComboBox"> 
+                                                                    <option value="-1">--Select Year--</option> 
+                                                                    <OPTION value=2026-27>2026-27</OPTION><OPTION value=2025-26>2025-26</OPTION><OPTION value=2024-25>2024-25</OPTION>                                                                </SELECT>&nbsp;<img src="../../images/go_red.jpg"  border="0" style="cursor:pointer"  onClick="SetPeriodValue();LoadData(2);">
+                                                                 </div>
+                                                               
+                                                                </td>
+                                                            </tr>
+                                               </table></td></tr>
+                                                <tr>
+                                                    <td style="padding:0px 4px 0px 4px;color:#404041;"><img src="../../homeimages/rpanel-arrow.gif">
+                                                        <a href="javascript:window.print()" title="Print this page" class="homePageLink">Print this page</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <!--/ul-->
+                                        </div>
+                                        <br style="height:8px;">
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
+
+<script language="javascript">
+
+	SetPeriodValue();
+	LoadData(1,1);
+	
+</script>
