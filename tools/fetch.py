@@ -1,14 +1,14 @@
-"""Fetch one URL into raw/ in the current country folder and log it, so nothing is fetched twice.
+"""Fetch one URL into sources/ in the current country folder and log it, so nothing is fetched twice.
 
 Usage (run from anywhere):
-  python3 ../../tools/fetch.py <url> <name>            fetch with curl, save raw/<name>.html|.pdf, plus a text copy
+  python3 ../../tools/fetch.py <url> <name>            fetch with curl, save sources/<name>.html|.pdf, plus a text copy
   python3 ../../tools/fetch.py --log <url> <name> <method>
                                           only log a file you saved yourself (e.g. a Firecrawl
-                                          scrape written to raw/<name>.md); method = firecrawl|manual
+                                          scrape written to sources/<name>.md); method = firecrawl|manual
   python3 ../../tools/fetch.py --find <text>           search the fetch log for a URL or name
 
-Text copies: HTML -> raw/<name>.md (pandoc, gfm), PDF -> raw/<name>.txt (pdftotext -layout).
-Quotes in the ledger must be copied from the text copy (or the .md you saved).
+Text copies: HTML -> sources/<name>.md (pandoc, gfm), PDF -> sources/<name>.txt (pdftotext -layout).
+Quotes in facts.csv must be copied from the text copy (or the .md you saved).
 """
 import csv, datetime, os, re, subprocess, sys
 
@@ -67,7 +67,7 @@ def fetch(url, name):
     if not status.startswith("2") or not os.path.exists(tmp) or os.path.getsize(tmp) == 0:
         if os.path.exists(tmp):
             os.remove(tmp)
-        print(f"FAILED {status} {p.stderr.strip()[:200]} -> try Firecrawl scrape, then report as blocked")
+        print(f"FAILED {status} {p.stderr.strip()[:200]} -> try Firecrawl scrape, then list it under "Pages we could not download" in notes.md")
         append_log({"name": name + "-FAILED", "url": url, "access_date": TODAY, "http_status": status,
                     "content_type": ctype, "method": "curl", "files": ""})
         return
@@ -128,7 +128,7 @@ def log_only(url, name, method):
     check_name(name)
     files = sorted(f for f in os.listdir(RAW) if f.startswith(name + "."))
     if not files:
-        sys.exit(f"no file raw/{name}.* found; save it first")
+        sys.exit(f"no file sources/{name}.* found; save it first")
     append_log({"name": name, "url": url, "access_date": TODAY, "http_status": "200",
                 "content_type": "", "method": method, "files": ";".join(files)})
     print("logged", files)

@@ -1,3 +1,0 @@
-- http://ovijog.bmet.gov.bd/ComplaineForm -> manual/bmet-ovijog-complaint-form.html : does BMET's online complaint form still work, and its current fields (Wayback copy of 23 Jan 2025 used meanwhile)
-- https://panchthubiup.comilla.gov.bd/en/site/page/nxCR-গ্রাম-আদালত -> (404 on curl and Firecrawl; any Union Parishad or Local Government Division page on how to file at a village court and its fee would do) manual/village-court-procedure.pdf : where to apply, fee, claim limit
-- https://warbe.org/ -> manual/warbe-contact.html : WARBE's phone/address for complaints (number only in HTML footer)

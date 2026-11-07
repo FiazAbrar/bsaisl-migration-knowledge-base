@@ -2,16 +2,13 @@
 
   cd countries/<country> && python3 ../../tools/build.py
 
-It reads the one <name>.src.md in the folder and writes:
+It reads doc.md and writes:
   README.md        the doc as GitHub shows it (commit it)
   <Country>.docx   the editable Word file, named from the "# <Country>: ..." title (commit it)
   pandoc.md        a build file pandoc turns into the .docx (not committed)
 
-Citations in the source take one of two forms, depending on what the folder has:
-  ledger.csv present  cite ledger ids, e.g. [W0012] or [W0012, L0003]. Each id maps to its saved source
-                      (raw file -> sources.csv); official sources become [n], others [Nn].
-  otherwise           cite keys from refs.md, e.g. [12] (official) or [N104] (news).
-Either way the build numbers sources in order of first use, adds the year to sources dated before 2025
+In doc.md, cite fact ids from facts.csv, e.g. [W0012] or [W0012, L0003]. Each id maps to its saved source
+(sources.csv); official sources become [n], others [Nn]. The build numbers sources in order of first use, adds the year to sources dated before 2025
 (e.g. [N3 (2022)]), links each citation to its reference, writes the reference list and the Contents
 list, and stops if a citation has no source.
 """
@@ -30,12 +27,12 @@ def load(p):
         return list(csv.DictReader(f))
 
 
-# ---------- ledger mode ----------
+# ---------- sources ----------
 
-def ledger_sources():
-    L = {r["id"]: r for r in load("ledger.csv")}
-    S = {r["raw"]: r for r in load("sources.csv")}
-    WB = {r["name"]: r for r in load("raw/_wayback.csv")} if os.path.exists("raw/_wayback.csv") else {}
+def load_sources():
+    L = {r["id"]: r for r in load("facts.csv")}
+    S = {r["name"]: r for r in load("sources.csv")}
+    WB = {r["name"]: r for r in load("sources/_wayback.csv")} if os.path.exists("sources/_wayback.csv") else {}
 
     def nice(d):
         if not d or d == "undated":
@@ -62,11 +59,11 @@ def ledger_sources():
         return f"{s['publisher']}{', ' + date if date else ''}. [{s['title']}]({s['url']}). Accessed {acc}.{arch}{flag}"
 
     def resolve(key, errors):
-        """ledger id -> (source key, official?, year tag, reference text)"""
+        """fact id -> (source key, official?, year tag, reference text)"""
         if key not in L:
-            errors.append(f"unknown ledger id {key}")
+            errors.append(f"unknown fact id {key}")
             return None
-        f = L[key]["raw_file"].split(";")[0]
+        f = L[key]["saved_file"].split(";")[0]
         cands = [k for k in S if f.startswith(k + ".")]
         if not cands:
             errors.append(f"{key}: source for '{f}' not registered in sources.csv")
@@ -82,37 +79,14 @@ def ledger_sources():
     return r"[A-Z]\d{4}", resolve
 
 
-# ---------- refs.md mode ----------
-
-def refs_sources():
-    text = open("refs.md", encoding="utf-8").read()
-    off, news = text.split("## Needs an official source")
-    O = {m.group(1): m.group(2) for m in re.finditer(r"^(\d+)\. (.*)$", off, re.M)}
-    N = {m.group(1): m.group(2) for m in re.finditer(r"^- N(\d+)\. (.*)$", news, re.M)}
-
-    def tag(t):
-        m = re.search(r"\b(19|20)\d\d\b", t.split("[")[0])
-        return f" ({m.group(0)})" if m and int(m.group(0)) < 2025 else ""
-
-    def resolve(key, errors):
-        d, k = (N, key[1:]) if key.startswith("N") else (O, key)
-        if k not in d:
-            errors.append(f"citation [{key}] has no entry in refs.md")
-            return None
-        return key, not key.startswith("N"), tag(d[k]), d[k]
-
-    return r"N?\d+", resolve
-
-
 # ---------- build ----------
 
 def main():
-    srcs = glob.glob("*.src.md")
-    if len(srcs) != 1:
-        sys.exit(f"expected one *.src.md in this folder, found {srcs}")
-    text = open(srcs[0], encoding="utf-8").read()
+    if not os.path.exists("doc.md"):
+        sys.exit("no doc.md here; run this from inside a country folder")
+    text = open("doc.md", encoding="utf-8").read()
     country = re.match(r"# ([^:\n]+)", text).group(1).strip()
-    pat, resolve = ledger_sources() if os.path.exists("ledger.csv") else refs_sources()
+    pat, resolve = load_sources()
 
     om, nm, ref, errors = [], [], {}, []
 

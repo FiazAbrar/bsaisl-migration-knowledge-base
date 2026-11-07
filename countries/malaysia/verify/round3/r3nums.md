@@ -1,5 +1,0 @@
-# r3nums: number check (whole doc), FAIL/UNSUPPORTED only
-
-- L405 | UNSUPPORTED | partly-supported | "The compound is RM500 for being without a valid pass, RM500 for overstaying or RM300 for breaking pass conditions, plus RM20 for each special pass (Pas Khas: ... [L0013]) [C0040]" | cited: C0040 | source says: "Pas Khas: RM100.00" (imi-lost-passport.md; C0040 is the lost-passport Special Pass, which has nothing on PRM 2.0 compounds or the RM20 pass). The figures are in "Masuk dan Tinggal di Malaysia Tanpa Pas atau Permit yang Sah: RM500.00 ... Tinggal Lebih Masa di Malaysia: RM500.00 ... Kesalahan Melanggar Syarat Pas: RM300.00 ... BAYARAN PAS KHAS SEBANYAK RM20.00 BAGI SETIAP PENGELUARAN" (imi-prm2-poster2-2026-09.md / .jpg), which the doc cites only on the next clause, about payment methods | fix: cite the amounts to [L0120, L0121, L0122, L0123] in place of [C0040], and keep [L0119] for "pay by debit or credit card or Touch 'n Go eWallet only". Otherwise a reader sees RM20 and RM100 Special Pass fees and can't tell which source gives which.
-
-Checked 252 sentences: 251 PASS, 0 FAIL, 1 UNSUPPORTED.

@@ -1,5 +1,0 @@
-- https://amiprobashi.com/brac-service : DNS failure (curl 000, Firecrawl DNS error). Wanted: BRAC returnee services and the 16768 helpline. Ask a teammate to save the page.
-- https://www.facebook.com/bcgjksa/ : Firecrawl doesn't support Facebook. Wanted: Jeddah consulate address and main phone (consulate site's address page is not_found).
-- https://my.gov.sa/en/services/263551 : all Firecrawl engines failed. Wanted: official transit visa terms (fee, whether work is allowed).
-- https://help.unhcr.org/ksa/en/contact-us/ and https://migrantprotection.iom.int/.../prottasha-leaflet.pdf : curl 403; read with Firecrawl (saved as *-fc.md).
-- https://www.bb.org.bd/en/index.php/services/cipc_procedure : curl copy is a captcha page; read with Firecrawl (bb-cipc-procedure-fc.md).

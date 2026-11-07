@@ -6,7 +6,7 @@ For each such source in sources.csv it looks in the saved file for page-level da
 "সাইটটি শেষ হাল-নাগাদ" is ignored)), and asks the server for the Last-Modified header (HEAD only, no re-download).
 Dates within 2 days of the access date are reported but flagged "same-day", since many servers generate them.
 
-Writes raw/_datepass.csv (one row per source and candidate) for review. It changes nothing else.
+Writes sources/_datepass.csv (one row per source and candidate) for review. It changes nothing else.
   python3 ../../tools/datepass.py
 """
 import csv, datetime, email.utils, os, re, subprocess, sys
@@ -82,7 +82,7 @@ def main():
             or (s["page_date"] + "-01-01"[len(s["page_date"]) - 4:]) < CUTOFF]
     rows = []
     for i, s in enumerate(todo):
-        files = [f for f in os.listdir(RAW) if f.startswith(s["raw"] + ".")]
+        files = [f for f in os.listdir(RAW) if f.startswith(s["name"] + ".")]
         cands = []
         for f in files:
             if f.endswith((".html", ".md", ".txt")):
@@ -91,7 +91,7 @@ def main():
         if lm:
             cands.append(("http-last-modified", lm, "Last-Modified header", ""))
         if not cands:
-            rows.append({"raw": s["raw"], "current": s["page_date"], "kind": "", "date": "", "flag": "", "evidence": "", "file": ""})
+            rows.append({"name": s["name"], "current": s["page_date"], "kind": "", "date": "", "flag": "", "evidence": "", "file": ""})
         seen = set()
         for k, d, ev, f in cands:
             if (k, d) in seen:
@@ -102,13 +102,13 @@ def main():
                 same = abs((datetime.date.fromisoformat(d) - acc).days) <= 2
             except ValueError:
                 continue
-            rows.append({"raw": s["raw"], "current": s["page_date"], "kind": k, "date": d,
+            rows.append({"name": s["name"], "current": s["page_date"], "kind": k, "date": d,
                          "flag": "same-day" if same else "", "evidence": ev.replace("\n", " "), "file": f})
-        print(f"{i + 1}/{len(todo)} {s['raw']}: {len(cands)} candidates", file=sys.stderr)
+        print(f"{i + 1}/{len(todo)} {s['name']}: {len(cands)} candidates", file=sys.stderr)
     with open(os.path.join(RAW, "_datepass.csv"), "w", encoding="utf-8", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=["raw", "current", "kind", "date", "flag", "evidence", "file"])
+        w = csv.DictWriter(fh, fieldnames=["name", "current", "kind", "date", "flag", "evidence", "file"])
         w.writeheader(); w.writerows(rows)
-    print(f"{len(todo)} sources checked; see raw/_datepass.csv")
+    print(f"{len(todo)} sources checked; see sources/_datepass.csv")
 
 
 if __name__ == "__main__":

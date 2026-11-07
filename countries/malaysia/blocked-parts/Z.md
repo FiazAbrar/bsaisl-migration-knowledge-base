@@ -1,1 +1,0 @@
-- https://drive.google.com/drive/folders/1cnNg9Gkr4nN7ifE-7jxao7ydUtiR92De?usp=drive_link -> manual/imi-entry-permit-criteria-ebook.pdf : IMI's Entry Permit (permanent residence) criteria e-book, linked from imi-permit-masuk; needed for the "Permanent residence" Need to know (Other passes).

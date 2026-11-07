@@ -1,15 +1,15 @@
-"""Get an archived copy of a blocked page from the Wayback Machine (web.archive.org) and save it to raw/.
+"""Get an archived copy of a blocked page from the Wayback Machine (web.archive.org) and save it to sources/.
 
   python3 ../../tools/wayback.py <original-url> <name> <official|news>
 
 It asks the Wayback CDX index for the newest capture with HTTP 200 (trying the URL with and without "www."),
 downloads the original bytes of that capture (the "id_" form, without the archive's toolbar), and saves and
-converts it exactly like fetch.py (raw/<name>.pdf + .txt, or .html + .md + .txt).
+converts it exactly like fetch.py (sources/<name>.pdf + .txt, or .html + .md + .txt).
 
 Logging:
-  raw/_fetchlog.csv  url = the ORIGINAL url, method = "wayback:<archive timestamp>"
-  raw/_wayback.csv   name, original_url, archive_url, archive_date, source_type (official-archived / news-archived)
-Register the source afterwards with ledger.py source --official archived (or news-archived).
+  sources/_fetchlog.csv  url = the ORIGINAL url, method = "wayback:<archive timestamp>"
+  sources/_wayback.csv   name, original_url, archive_url, archive_date, source_type (official-archived / news-archived)
+Register the source afterwards with facts.py source --official archived (or news-archived).
 """
 import csv, json, os, subprocess, sys, urllib.parse
 
