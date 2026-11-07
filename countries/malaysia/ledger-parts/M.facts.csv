@@ -1,0 +1,54 @@
+visa_type,field,value,ledger_id
+PLKS,overtime_rate_normal_day,at least 1.5 x hourly rate of pay (Employment Act s.60A(3)),M0001
+PLKS,normal_hours,max 8 hours a day and 45 hours a week; break of 30 min after 5 hours (Employment Act s.60A(1)),M0003
+PLKS,max_hours_per_day,"12 hours including overtime, except emergencies (Employment Act s.60A(7))",M0004
+PLKS,rest_day,one whole rest day a week (Employment Act s.59),M0009
+PLKS,rest_day_pay_daily_rated,up to half normal hours: 1 day's wages; more than half: 2 days' wages (s.60(3)(a)),M0011
+PLKS,rest_day_pay_monthly_rated,up to half normal hours: half day's pay; more than half: 1 day's pay (s.60(3)(b)),M0012
+PLKS,overtime_rate_rest_day,at least 2 x hourly rate for hours beyond normal hours on a rest day (s.60(3)(c)),M0013
+PLKS,paid_public_holidays,"11 gazetted public holidays a year, 5 fixed (National Day, King's Birthday, state Ruler's Birthday/FT Day, Workers' Day, Malaysia Day) (s.60D(1))",M0014
+PLKS,public_holiday_work_pay,2 days' wages in addition to holiday pay (s.60D(3)(a)),M0019
+PLKS,overtime_rate_public_holiday,at least 3 x hourly rate (s.60D(3)(aa)),M0020
+PLKS,annual_leave,"8 days (<2 yrs), 12 days (2-5 yrs), 16 days (5+ yrs) (s.60E)",M0021
+PLKS,sick_leave,"14/18/22 days a year by length of service, plus 60 days hospitalisation (s.60F)",M0023
+PLKS,wage_payment_deadline,by the 7th day after the end of the wage period (max 1 month) (s.19(1)),M0029
+PLKS,overtime_payment_deadline,by the last day of the next wage period (s.19(2)),M0030
+PLKS,wage_payment_method,into a bank account in the worker's own name (s.25),M0034
+PLKS,wage_deductions,only deductions allowed by Employment Act s.24; total max 50% of monthly wages,M0044
+PLKS,housing_deduction,only with the worker's written request and the Labour Director General's prior written permission (EA s.24(4)(e)); Act 446 s.24G also allows rent deductions under Ministerial conditions,M0048
+PLKS,notice_period,"as in written contract, else 4/6/8 weeks by service (s.12)",M0052
+PLKS,abscond_report_to_labour_dept,employer must inform JTKSM within 14 days (EA s.60KA(2)),M0066
+PLKS,forced_labour_penalty,"employer fine up to RM100,000 and/or up to 2 years' jail (EA s.90B)",M0073
+PLKS,labour_court_claim,"Director General of Labour (JTKSM) hears wage and payment claims under EA s.69, no upper limit",M0081
+PLKS,dismissal_claim_time_limit,60 days from being told of a misconduct dismissal (EA s.69(3)),M0083
+PLKS,labour_court_documents,"passport, employer name/address, payslips, appointment letter/contract, termination letter (if any)",M0113
+PLKS,labour_court_appeal,appeal to the High Court within 14 days of receiving the decision (JTKSM brochure 2017),M0115
+PLKS,change_employer_process,"employers apply, not the worker: both register on ePPAx (JTKSM), old employer applies, new employer uploads documents within 7 days, JTK investigates, then OSC/BPPA at KESUMA",M0121
+PLKS,change_employer_conditions,"only if employer bankrupt, closed, hit by calamity, restructured, renamed, or died (MOHR BPPA form 2024)",M0123
+PLKS,change_employer_sector,new employer must be in the same sector; frozen sectors not allowed,M0126
+PLKS,change_employer_ineligible,"6P, PKPP, Rehiring, RTK, domestic helpers, non-PLKS, and PLKS in 10th year or later",M0127
+PLKS,change_employer_pass_validity,PLKS must be valid for at least 3 more months at application,M0130
+PLKS,change_employer_who_applies,the original employer (or heir) and new employer; not the worker,M0132
+PLKS,change_employer_where,"BPPA counter, KESUMA, Level 5 Setia Perkasa 3, Putrajaya, 03-8886 6501, Mon-Thu 8.30am-4.30pm",M0134
+PLKS,change_employer_worker_documents,copy of passport front page and active PLKS sticker; name on list of workers,M0139
+PLKS,change_employer_form_fee,form marked free (PERCUMA); no fee stated,M0142
+PLKS,passport_retention,"employer must not hold or keep the worker's passport (MOHR policy, Passports Act 1966)",M0143
+PLKS,fomema_cost,paid by the employer; within 1 month of entry (MOHR policy),M0144
+PLKS,housing_provider,employer provides housing meeting Act 446 (MOHR policy),M0146
+PLKS,death_repatriation_cost,employer bears funeral and repatriation of a deceased worker (MOHR policy),M0148
+PLKS,return_ticket_cost,employer pays at contract end or if employer terminates; worker pays if dismissed for misconduct or resigns (MOHR policy),M0149
+PLKS,epf_contribution_rate,proposed 2% worker + 2% employer (MOHR statement 3 Feb 2025); start date not stated,M0163
+PLKS,socso_schemes,Employment Injury Scheme (since 1 Jan 2019) and Invalidity Scheme (since 1 Jul 2024),M0166
+PLKS,socso_invalidity_start,1 July 2024,M0168
+PLKS,socso_contribution,employer 1.25% EI + 0.5% invalidity = 1.75%; worker 0.5% invalidity (PERKESO flyer Feb 2026),M0170
+PLKS,socso_non_work_death_repatriation,"up to RM4,500 reimbursed on receipt (PERKESO brochure 2022, subject to conditions)",M0177
+PLKS,socso_contact,"1-300-22-8000, perkeso@perkeso.gov.my",M0179
+PLKS,socso_funeral_benefit_work_death,"RM6,500 if body repatriated; RM2,000 if buried in Malaysia (PERKESO FAQ 2019)",M0187
+PLKS,socso_claim_form,"Foreign Worker Claim Notification Form (Appendix C, Employer's Circular 3/2018)",M0188
+PLKS,housing_certificate,employer housing must have a Certificate for Accommodation (Act 446 s.24D),M0193
+PLKS,housing_after_termination,may stay up to 4 weeks if terminated with less than 4 weeks' notice (Act 446 s.24M),M0205
+PLKS,abscond_definition,leaving without notifying the employer intending to escape; or not returning to work after a trip home (IMI),M0213
+PLKS,abscond_consequence,blacklisted by Immigration; employer's security bond confiscated (IMI),M0216
+PLKS,spikpa,"SPIKPA hospital insurance policy needed for PLKS extension, except plantation (IMI)",M0220
+PLKS,fomema_deadline,within 30 days of arrival; PLKS only after FOMEMA fit (IMI),M0223
+PLKS,labour_court_fee,free (JTKSM brochure 2017); EA s.74 no fee for summonses,M0232

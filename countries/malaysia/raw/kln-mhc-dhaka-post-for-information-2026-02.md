@@ -1,0 +1,92 @@
+Mission News
+
+# For information :
+
+15 February 2026 627 views
+
+How long does it take to obtain an eVISA?
+
+It takes 2 - 7 working days to process.
+
+The processing period for an eVISA is 2 to 7 working days, excluding weekends, Malaysian public holidays, any other specific countries holidays, and does not include applications that are incomplete, require additional documentation (query process), or are subject to an interview process.
+
+The 2 - 7 working days processing time also does not include unforeseen or uncontrollable events including, but not limited to, system maintenance downtime, Internet Service Provider (ISP) equipment failure, host equipment failure, communications network failure, power failure, natural events or acts of war.
+
+How long should I apply for an eVISA before my travel date?
+
+It is recommended to apply for your eVISA at least 30 days before your intended departure to Malaysia.<https://malaysiavisa.imi.gov.my/faq>
+
+ 
+
+<https://www.facebook.com/share/p/1CwTMhVZTh/>
+
+Share: [](# "Share on Facebook") [](# "Share on X") [](# "Share on WhatsApp") [](# "Copy Link")
+
+Link copied to clipboard
+
+[Back](https://www.kln.gov.my)
+
+### Latest
+
+- [ 1 ](https://www.kln.gov.my/web/bgd_dhaka/post/hari-sukan-negara-2026)
+  HARI SUKAN NEGARA 2026
+
+  11 Oct 2026 628
+- [ 2 ](https://www.kln.gov.my/web/bgd_dhaka/post/launching-ceremony-of-tealive-in-dhaka-bangladesh)
+  Launching Ceremony of Tealive in Dhaka, Bangladesh
+
+  08 Oct 2026 184
+- [ 3 ](https://www.kln.gov.my/web/bgd_dhaka/post/meeting-with-the-president-of-the-bangladesh-semiconductor-industry-association-bsia)
+  MEETING WITH THE PRESIDENT OF THE BANGLADESH SEMICONDUCTOR INDUSTRY ASSOCIATION (BSIA)
+
+  15 Jul 2026 293
+- [ 4 ](https://www.kln.gov.my/web/bgd_dhaka/post/courtesy-call-by-the-newly-elected-board-of-directors-of-bmcci)
+  COURTESY CALL BY THE NEWLY ELECTED BOARD OF DIRECTORS OF BMCCI
+
+  15 Jul 2026 300
+- [ 5 ](https://www.kln.gov.my/web/bgd_dhaka/post/virtual-briefing-on-malaysias-investment-outlook-opportunities-in-green-technology-and-renewable-energy)
+  VIRTUAL BRIEFING ON MALAYSIA'S INVESTMENT OUTLOOK: OPPORTUNITIES IN GREEN TECHNOLOGY AND RENEWABLE ENERGY
+
+  15 Jul 2026 95
+
+[View All Articles](https://www.kln.gov.my/web/bgd_dhaka/posts/mission-news)
+
+## Related Articles
+
+You may also be interested in
+
+[](https://www.kln.gov.my/web/bgd_dhaka/post/hari-sukan-negara-2026)
+
+![HARI SUKAN NEGARA 2026](https://www.kln.gov.my/uploads/post/01M4MTWY963T21BC4H88FQG1CG)
+
+Mission News
+
+### HARI SUKAN NEGARA 2026
+
+DHAKA, October 10, 2026 – The High Commission of Malaysia, Dhaka, has organized the celebration of the National Sports Day 2026 (HSN 2026) at Metroplex Sporting, Dhaka. 🏸⚽🏐🏏 Various sports events such as badminton, futsal, sepak takraw, and cricket have livened up the celebration, gathering members of the High Commission and the Malaysian community in Bangladesh. More than just sports activities, this program serves as a platform to promote a healthy lifestyle, strengthen bonds, and foster a spirit of togetherness among Malaysians in the diaspora. Malaysia Far from the eyes, close to the heart. Sports unite us!
+
+11 October 2026 Read More
+
+[](https://www.kln.gov.my/web/bgd_dhaka/post/launching-ceremony-of-tealive-in-dhaka-bangladesh)
+
+![Launching Ceremony of Tealive in Dhaka, Bangladesh ](https://www.kln.gov.my/uploads/post/01M4SSYW8FRTG8XV179NYGA4DZ)
+
+Mission News
+
+### Launching Ceremony of Tealive in Dhaka, Bangladesh
+
+A milestone worth celebrating! 💜🧋 Tealive Bangladesh officially opened its Banani 11 and Gulshan 2 outlets on 8 October, with the presence of Mr. Hazwan Hasnol, Charge d’Affaires, High Commission of Malaysia in Bangladesh, alongside members of both Malaysian and Bangladeshi community. Here’s a look back at the celebration as we bring Malaysia’s favourite bubble tea experience to Bangladesh!
+
+08 October 2026 Read More
+
+[](https://www.kln.gov.my/web/bgd_dhaka/post/meeting-with-the-president-of-the-bangladesh-semiconductor-industry-association-bsia)
+
+No Image
+
+Mission News
+
+### MEETING WITH THE PRESIDENT OF THE BANGLADESH SEMICONDUCTOR INDUSTRY ASSOCIATION (BSIA)
+
+MEETING WITH THE PRESIDENT OF THE BANGLADESH SEMICONDUCTOR INDUSTRY ASSOCIATION (BSIA) His Excellency Mohd Shuhada Othman met with Mr. Mohammed A. Jabbar, President of the Bangladesh Semiconductor Industry Association (BSIA) for a constructive discussion on strengthening Malaysia–Bangladesh cooperation in the semiconductor sector. The meeting provided an opportunity to exchange views on the rapidly evolving global semiconductor landscape and to explore avenues for enhanced collaboration in areas such as investment, talent development, technology exchange and industry partnerships. The engagement reflects the shared commitment of Malaysia and Bangladesh to fostering a resilient and competitive semiconductor ecosystem through strategic cooperation, knowledge sharing and mutually beneficial initiatives. The discussion also reaffirmed the importance of sustaining the positive momentum generated by the recent successful official visit of the Honourable Prime Minister Tarique Rahman to Malaysia, while ensuring continued collaboration in translating the outcomes of the visit into tangible initiatives that benefit both countries.
+
+15 July 2026 Read More

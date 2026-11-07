@@ -1,0 +1,1532 @@
+<!-- dynamic layout main/microsite -->
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ministry of Foreign Affairs Malaysia - Dhaka</title>
+
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS v4 via CDN -->
+    <link rel="preload" as="style" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" /><link rel="modulepreload" as="script" href="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" /><link rel="stylesheet" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" data-navigate-track="reload" /><script type="module" src="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" data-navigate-track="reload"></script>    <link rel="stylesheet" href="https://www.kln.gov.my/assets/chat-embed/css/chat-embed.css">
+
+    </head>
+
+<body class="min-h-screen flex flex-col m-0 font-sans bg-[#f8f9fa] text-[#495057]">
+
+<header class="shadow-[0_2px_5px_rgba(0,0,0,0.1)] relative z-1000">
+
+    <!-- Top Bar -->
+<div class="bg-[#032054] text-white py-2 text-[12px]">
+    <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-wrap justify-center sm:justify-between items-center gap-x-4 gap-y-1.5">
+
+        <div class="flex items-center gap-3">
+                            <a href="https://www.facebook.com/HCMalaysiaDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Facebook">
+                                            <i class="ri-facebook-box-fill text-base leading-none"></i>
+                                    </a>
+                            <a href="https://twitter.com/MYHCDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Twitter">
+                                            <i class="ri-twitter-x-line text-base leading-none"></i>
+                                    </a>
+                    </div>
+
+        <div class="flex flex-wrap justify-center items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/flag-malaysia.png" alt="Malaysia" class="h-4 rounded-xs" title="Malaysia">
+
+            <span class="text-white tabular-nums font-semibold"
+                  x-data="clock({ timezone: 'Asia/Kuala_Lumpur' })" x-text="displayDateTime"></span>
+
+                            <img src="https://www.kln.gov.my/uploads/office/01KWXPQ95W6R0QTX49HHSM9XRC/flag" alt="Bangladesh" class="h-4 rounded-xs" title="Bangladesh">
+            
+
+
+
+                            <span class="text-white tabular-nums font-semibold"
+                      x-data="clock({ timezone: 'Asia/Dhaka' })" x-text="displayDateTime"></span>
+            
+            <a href="https://kln.spab.gov.my/"
+               target="_blank" rel="noopener noreferrer"
+               class="bg-[#FFC72C] text-[#032054] font-bold px-3 py-1 rounded-[5px] no-underline text-[12px] hover:opacity-90 transition-opacity duration-200">
+                Feedback Us
+            </a>
+        </div>
+    </div>
+</div>
+
+    <!-- Main Nav -->
+<div class="bg-white py-[15px]">
+    <div class="max-w-[1600px] mx-auto px-10 flex justify-between items-center">
+
+        <!-- Hidden checkbox for mobile menu (no-JS toggle) -->
+        <input type="checkbox" id="menu-toggle-check" class="peer/menu sr-only">
+
+        <!-- Logo -->
+        <div class="flex items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="hidden h-12 md:block">
+            <div class="flex flex-col">
+                <span class="font-bold text-[18px] text-[#032054] leading-tight">
+                                            High Commission of Malaysia,
+                                        Dhaka
+                </span>
+                <span class="text-[14px] text-[#6c757d]">Ministry of Foreign Affairs, Malaysia</span>
+            </div>
+        </div>
+
+        <!-- Hamburger label (mobile) -->
+        <label for="menu-toggle-check" class="lg:hidden bg-transparent border-none cursor-pointer p-2.5" aria-label="Open menu">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" class="fill-[#333]">
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </label>
+
+        <!-- Nav Menu -->
+        <nav class="hidden peer-checked/menu:flex lg:flex flex-col lg:flex-row absolute lg:static top-full left-0 w-full lg:w-auto bg-white lg:bg-transparent shadow-md lg:shadow-none z-[1000]">
+            <ul class="flex flex-col lg:flex-row items-center list-none m-0 p-0 w-full lg:w-auto">
+
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#C8102E]">
+                            Home
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            About Us
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/history">
+                                            History
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/client_charter">
+                                            Client Charter
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/honorary_consul">
+                                            Honorary Consul(s)
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/location_map">
+                                            Location Map
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/holidays">
+                                            Public Holidays
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Staff
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/head_mission">
+                                            Head of Mission
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/home-based-staff">
+                                            Home Based Staff
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/agencies">
+                                            Agencies
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Services
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/mysafe-travel">
+                                            MySafe Travel
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/passport_renewal">
+                                            Consular Services
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/requirement_malaysians">
+                                            Visa Requirement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/news-from-mission"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            News
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Resources
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/documents">
+                                            Documents
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/forms">
+                                            Forms
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Notice
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/job_vacancy">
+                                            Job Vacancy
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/procurement">
+                                            Procurement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+<!-- /PART 1 END -->
+
+<!-- post lists -->
+    <main class="grow flex flex-col">
+
+        <section class="relative bg-[#032054] overflow-hidden" style="min-height: 140px;">
+
+            <!-- Floral/pattern overlay -->
+            <div class="absolute inset-0 bg-cover bg-center opacity-15 z-0"
+                 style="background-image: url('https://www.kln.gov.my/portal-kln/images/operation-rotate-scaled.png');"></div>
+
+            <!-- Diagonal accent stripe -->
+            <div class="absolute inset-0 z-0 overflow-hidden">
+                <div
+                    class="absolute -right-20 top-0 bottom-0 w-[45%] bg-[#C8102E]/20 skew-x-[-12deg] origin-top-right"></div>
+            </div>
+
+            <!-- Content -->
+            <div class="relative z-10 max-w-[1500px] mx-auto px-5 lg:px-10 py-10 flex flex-col justify-center gap-3">
+
+                <!-- Breadcrumb -->
+                <nav class="flex items-center gap-1.5 text-white/70 text-[13px]" aria-label="Breadcrumb">
+                    <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                       class="hover:text-white transition-colors duration-200 no-underline flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 576 512">
+                            <path
+                                d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                        </svg>
+                        <span>
+                            Home                        </span>
+                    </a>
+                                            <svg class="w-3 h-3 fill-current opacity-50 shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 320 512">
+                            <path
+                                d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                        </svg>
+                        <span class="text-white font-medium">
+                        Hyperlinks
+                    </span>
+                                    </nav>
+
+                <!-- Page Title -->
+                <div class="flex items-center gap-4">
+                    <div class="w-1 h-10 bg-[#C8102E] rounded-full shrink-0"></div>
+                    <h1 class="m-0 text-white text-[28px] md:text-[34px] font-black uppercase tracking-wide leading-tight">
+                        Site Map
+                    </h1>
+                </div>
+
+            </div>
+
+            <!-- Bottom wave divider -->
+            <div class="absolute -bottom-px left-0 w-full overflow-hidden leading-none z-10">
+                <svg class="relative block w-[calc(100%+1.3px)] h-[30px]"
+                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M0,60 C300,100 900,20 1200,60 L1200,120 L0,120 Z" class="fill-[#f8f9fa]"></path>
+                </svg>
+            </div>
+        </section>
+        <!-- /PART 2 END -->
+
+        <section class="py-10 bg-[#f8f9fa] flex-1">
+            <div class="max-w-[1500px] mx-auto px-5 lg:px-10">
+                <div class="flex flex-col lg:flex-row gap-8 items-start">
+
+                                            <aside class="w-full lg:w-60 shrink-0">
+    <div
+        class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden sticky top-[90px]">
+
+        <!-- Sidebar Header -->
+        <div class="bg-[#032054] px-5 py-4">
+            <h3 class="m-0 text-white text-[14px] font-bold uppercase tracking-wider flex items-center gap-2">
+                <svg class="w-4 h-4 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 512 512">
+                    <path
+                        d="M40 48C26.7 48 16 58.7 16 72v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V72c0-13.3-10.7-24-24-24H40zM192 64c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zM16 232v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V232c0-13.3-10.7-24-24-24H40c-13.3 0-24 10.7-24 24zM40 368c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V392c0-13.3-10.7-24-24-24H40z"/>
+                </svg>
+                Hyperlinks
+            </h3>
+        </div>
+
+        <!-- Item List -->
+        <ul class="list-none m-0 p-0">
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/faqs"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        FAQs
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Privacy Policy
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Security Policy
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <span
+                                class="flex items-center justify-between px-5 py-3.5 bg-[#C8102E] text-white text-[14px] font-semibold cursor-default">
+                                <span class="flex items-center gap-2">
+                                                                        Site Map
+                                </span>
+                                <svg class="w-3 h-3 fill-current shrink-0"
+                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </span>
+                                                            </li>
+                    </ul>
+    </div>
+</aside>
+                    
+                                            <div class="flex-1 min-w-0">
+    <section class="bg-[#f8f9fa]">
+        <div class="max-w-[1500px] mx-auto px-5 lg:px-10 space-y-6">
+
+            
+            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                <div class="px-5 py-4 bg-[#032054] flex items-center gap-3">
+                    <svg class="w-4 h-4 fill-white shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+                        <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/>
+                    </svg>
+                    <span class="text-white text-[14px] font-bold uppercase tracking-wider">Pages</span>
+                </div>
+                <div class="p-5">
+                                                                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-2.5">
+                                                <a href="https://www.kln.gov.my/web/bgd_dhaka/agencies"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Agencies</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/archives"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Archives</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/birth_marriage_cert"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Birth/Marriage Registration</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/client_charter"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Client Charter</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/documents"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">DOCUMENTS</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/faqs"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">FAQs</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/requirement_foreigner"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">for foreigners</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/requirement_malaysians"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">for malaysian</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/forms"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">FORMS</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/head_mission"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Head of Mission</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/history"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">History</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/home-based-staff"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Home Based Staff</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/honorary_consul"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Honorary Consul(s)</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/job_vacancy"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Job Vacancy</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/location_map"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Location Map</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/mysafe-travel"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">MySafe Travel</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/news-from-mission"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">News From Mission</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/organisational_chart"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Organisational Chart</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/other_information"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Other Information</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/passport_renewal"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Passport Renewal</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Privacy Policy</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/procurement"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Procurement</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/holidays"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Public Holidays</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/malaysian_reg"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Registration of Malaysians (Online)</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Security Policy</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/site_map"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Site Map</span>
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/travel_advisory"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Travel Advisory</span>
+                        </a>
+                                                    </div>
+                                                            </div>
+            </div>
+
+            
+            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                <div class="px-5 py-4 bg-[#032054] flex items-center gap-3">
+                    <svg class="w-4 h-4 fill-white shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path d="M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H156.2c1.2-5.1 1.8-10.5 1.8-16l0-.2c44.5-7.6 78.4-46.4 78.4-93.1c0-17.7-14.3-32-32-32H160V288h32c17.7 0 32-14.3 32-32s-14.3-32-32-32H96V96zM0 416c0 53 43 96 96 96s96-43 96-96s-43-96-96-96S0 363 0 416z"/>
+                    </svg>
+                    <span class="text-white text-[14px] font-bold uppercase tracking-wider">Posts</span>
+                </div>
+                <div class="p-5">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-2.5">
+                                                    <a href="https://www.kln.gov.my/web/bgd_dhaka/posts/standard"
+                               class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                                <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                                <span class="truncate">Others</span>
+                            </a>
+                                                    <a href="https://www.kln.gov.my/web/bgd_dhaka/posts/speeches-statements"
+                               class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                                <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                                <span class="truncate">Speeches &amp; Statements</span>
+                            </a>
+                                                    <a href="https://www.kln.gov.my/web/bgd_dhaka/posts/press-releases"
+                               class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                                <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                                <span class="truncate">Press Releases</span>
+                            </a>
+                                                    <a href="https://www.kln.gov.my/web/bgd_dhaka/posts/mission-news"
+                               class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                                <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                                <span class="truncate">Mission News</span>
+                            </a>
+                                                    <a href="https://www.kln.gov.my/web/bgd_dhaka/posts/mfa-news"
+                               class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                                <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                                <span class="truncate">MFA News</span>
+                            </a>
+                                            </div>
+                </div>
+            </div>
+
+            
+            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                <div class="px-5 py-4 bg-[#032054] flex items-center gap-3">
+                    <svg class="w-4 h-4 fill-white shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path d="M0 80C0 53.5 21.5 32 48 32h96c26.5 0 48 21.5 48 48V176c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80zM0 336c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48v96c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V336zM320 80c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48V176c0 26.5-21.5 48-48 48H368c-26.5 0-48-21.5-48-48V80zm0 256c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48v96c0 26.5-21.5 48-48 48H368c-26.5 0-48-21.5-48-48V336z"/>
+                    </svg>
+                    <span class="text-white text-[14px] font-bold uppercase tracking-wider">Categories</span>
+                </div>
+                <div class="p-5">
+                                                                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-2.5">
+                                                <a href="https://www.kln.gov.my/web/bgd_dhaka/category/other-information"
+                           class="group flex items-center gap-2 text-[14px] text-[#495057] hover:text-[#C8102E] no-underline transition-colors duration-150">
+                            <svg class="w-2.5 h-2.5 fill-[#adb5bd] group-hover:fill-[#C8102E] shrink-0 transition-colors duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                            </svg>
+                            <span class="truncate">Other Information</span>
+                        </a>
+                                                    </div>
+                                                            </div>
+            </div>
+
+            
+            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                <div class="px-5 py-4 bg-[#032054] flex items-center gap-3">
+                    <svg class="w-4 h-4 fill-white shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path d="M0 80V229.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0L418.7 317.3c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7H48C21.5 32 0 53.5 0 80zm112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/>
+                    </svg>
+                    <span class="text-white text-[14px] font-bold uppercase tracking-wider">Tags</span>
+                </div>
+                <div class="p-5">
+                                                                        <div class="flex flex-wrap gap-2">
+                                                <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/agencies"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #agencies
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/agm-bmcci"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #agm bmcci
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/aidiladha"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #aidiladha
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/aidilfitri"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #aidilfitri
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/airasia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #airasia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ambassador-lecture-series"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ambassador lecture series
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ann2006"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ann2006
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ann2007"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ann2007
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ann2008"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ann2008
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ann2009"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ann2009
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ann2010"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ann2010
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/announcement"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #announcement
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/army-field-commander"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #army field commander
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/arrival"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #arrival
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/asean-day"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #asean day
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/asean-dhaka"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #asean dhaka
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/axiata"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #axiata
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/bangladesh"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #bangladesh
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/bangladeshmalaysiarelations"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #bangladeshmalaysiarelations
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/beximco"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #beximco
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/bitte"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #bitte
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/bmcci"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #bmcci
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/celebration"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #celebration
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/chief-of-army-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #chief of army malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/combined-military-hospital"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #combined military hospital
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/condolence"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #condolence
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/courtesy-call"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #courtesy call
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/covid-19"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #covid-19
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/covid19"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #covid19
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/culturaldiplomacy"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #culturaldiplomacy
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/dhaka"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #dhaka
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/dhaka-travel-mart"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #dhaka travel mart
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/diplomat"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #diplomat
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/dscsc"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #dscsc
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/e2006"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #e2006
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/e2007"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #e2007
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/e2008"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #e2008
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/e2009"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #e2009
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/e2010"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #e2010
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/edotco"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #edotco
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/education-expo"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #education expo
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/event"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #event
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/farewell"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #farewell
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/guidelines"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #guidelines
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/hal-ehwal-konsular"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #hal ehwal konsular
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/hari-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #hari malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/hari-sukan-negara-2022"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #hari sukan negara 2022
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/high-commission-of-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #high commission of malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/high-commission-of-malaysia-in-dhaka"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #high commission of malaysia in dhaka
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/high-commissioner-of-malaysia-to-bangladesh"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #high commissioner of malaysia to bangladesh
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/homc9"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #homc9
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ifr-2022"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ifr 2022
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/immigration"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #immigration
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/independence-day-of-bangladesh"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #independence day of bangladesh
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/international-women-peace-and-security-seminar"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #international women peace and security seminar
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/interpa"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #interpa
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/iora"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #iora
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ipams"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ipams
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/iranian-ambassador"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #iranian ambassador
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/iut"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #iut
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/malakoff"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #malakoff
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/malayan-tigress"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #malayan tigress
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/malaysian-food-festival"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #malaysian food festival
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/malaysians"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #malaysians
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/malaysians-in-bangladesh"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #malaysians in bangladesh
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/matrade"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #matrade
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/media-interview"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #media interview
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/medical-healthcare"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #medical healthcare
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/merdeka"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #merdeka
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/mhtc"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #mhtc
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/mtcp"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #mtcp
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/myanmar"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #myanmar
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/n2006"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #n2006
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/n2007"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #n2007
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/n2008"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #n2008
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/n2009"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #n2009
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/n2010"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #n2010
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/national-day-of-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #national day of malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/national-defence-college-bangladesh"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #national defence college bangladesh
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ndc-graduation"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ndc graduation
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/news"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #news
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/notice"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #notice
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/padma-bridge"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #padma bridge
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/permanent-mission-of-malaysia-to-asean"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #permanent mission of malaysia to asean
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/perodua"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #perodua
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/petronas"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #petronas
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/pilihanraya-dun-johor"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #pilihanraya dun johor
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/pilihanraya-dun-melaka"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #pilihanraya dun melaka
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/pilihanraya-dun-sarawak"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #pilihanraya dun sarawak
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/pilihanraya-umum"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #pilihanraya umum
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/pmrm"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #pmrm
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/pru15"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #pru15
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ps2006"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ps2006
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ps2007"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ps2007
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ps2008"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ps2008
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ps2009"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ps2009
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ps2010"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ps2010
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/public-holidays"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #public holidays
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/qualitas"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #qualitas
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/raya"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #raya
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/rmco"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #rmco
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/robi-axiata"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #robi axiata
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/rohingya"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #rohingya
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/s2006"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #s2006
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/s2007"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #s2007
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/s2008"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #s2008
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/s2009"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #s2009
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/s2010"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #s2010
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/seminar-on-investment"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #seminar on investment
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/shooting-incident"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #shooting incident
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/tourism-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #tourism malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/trade"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #trade
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/travel-to-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #travel to malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/ucsi-university"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #ucsi university
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/upsi"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #upsi
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/vaccines"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #vaccines
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/visa-application"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #visa application
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/visa-malaysia"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #visa malaysia
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/webinar-on-business"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #webinar on business
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/wief"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #wief
+                        </a>
+                                                                                            <a href="https://www.kln.gov.my/web/bgd_dhaka/tag/working-visit"
+                           class="inline-flex items-center text-[13px] text-[#495057] bg-[#f8f9fa] border border-[#dee2e6] rounded-full px-3 py-1 no-underline
+                                  hover:bg-[#032054] hover:text-white hover:border-[#032054] transition-colors duration-150">
+                            #working visit
+                        </a>
+                                                    </div>
+                                                            </div>
+            </div>
+
+        </div>
+    </section>
+</div>
+                    
+                </div>
+            </div>
+        </section>
+        <!-- /PART 3 END -->
+    </main>
+
+<!--
+      Scroll to Top Button
+      - fixed bottom-5 left-5: positions it from the bottom left (away from the chatbot avatar)
+      - transition-all duration-300: smooth animation
+      - Default state (hidden): opacity-0, translate-y-10 (moved down), pointer-events-none (cannot be clicked)
+    -->
+<button
+    id="scrollToTopBtn"
+    class="fixed bottom-5 left-5 bg-brand-dark text-white p-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform translate-y-10 opacity-0 pointer-events-none flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-brand-orange focus:ring-offset-2 z-50 group"
+    aria-label="Scroll to top"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:-translate-y-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+</button>
+
+<footer class="relative z-[5]">
+
+    <!-- Main Footer (video background) -->
+    <div class="relative py-[60px] text-white overflow-hidden">
+        <div class="absolute inset-0 z-[1] overflow-hidden">
+            <video autoplay muted loop playsinline
+                   class="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover">
+                <source src="https://www.kln.gov.my/malawakil/images/Portal-KLN-Design-1.mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0" style="background: linear-gradient(to right, rgba(3,32,84,0.4), rgba(3,32,84,0.6));"></div>
+        </div>
+
+                                <div class="relative z-[3] max-w-[1600px] mx-auto px-5 lg:px-10">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-start">
+
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">Quick links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.miti.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Ministry of Investment, Trade and Industry (MITI)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.imi.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Immigration Department of Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.matrade.gov.my/en"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia External Trade Development Corporation (MATRADE)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.mida.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysian Investment Development Authority (MIDA)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysia.travel"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Tourism Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysiaairlines.com/en/home.html"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia Airlines</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">MFA Links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">MFA Official Portal</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/overseas-missions"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Embassies &amp; High Commissions</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/deputy-foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Deputy Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/secretary-general"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Secretary General</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                            
+                                                                                                        <div class="flex items-center gap-5 mt-2">
+                                            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="h-[70px]">
+                                            <div class="flex flex-col">
+                                                <span class="text-[18px] font-bold leading-[1.4] block">
+                                                                                                            High Commission of Malaysia,
+                                                                                                        Dhaka
+                                                </span>
+                                                <span class="text-[14px] opacity-80 block">Ministry of Foreign Affairs, Malaysia</span>
+                                            </div>
+                                        </div>
+                                                                                                </div>
+                    
+                </div>
+            </div>
+            </div>
+
+    <!-- Sub-footer -->
+    <div class="bg-[#021438] text-[#adb5bd] py-[15px] text-[12px]">
+        <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-col md:flex-row justify-between items-center gap-2 text-center md:text-left">
+            <div>
+                <p class="m-0">Best Viewed: Microsoft Edge, Google Chrome &amp; Mozilla Firefox latest version</p>
+                <p class="m-0">Last Updated: 06 November, 2026</p>
+            </div>
+            <div>
+                <p class="m-0">© 2026 Ministry of Foreign Affairs, Malaysia. All Rights Reserved.</p>
+            </div>
+            <div>
+                <p class="m-0">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/faqs"                                class="text-[#adb5bd] no-underline hover:underline">FAQs</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"                                class="text-[#adb5bd] no-underline hover:underline">Privacy Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"                                class="text-[#adb5bd] no-underline hover:underline">Security Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/site_map"                                class="text-[#adb5bd] no-underline hover:underline">Site Map</a>
+                                                                                        </p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<!-- /PART 6 END -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+        // Listen for scroll events on the window
+        window.addEventListener('scroll', () => {
+            // Show button when page is scrolled down 300px
+            if (window.scrollY > 300) {
+                // Remove hidden state classes
+                scrollToTopBtn.classList.remove('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Add visible state classes
+                scrollToTopBtn.classList.add('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            } else {
+                // Add hidden state classes
+                scrollToTopBtn.classList.add('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Remove visible state classes
+                scrollToTopBtn.classList.remove('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            }
+        });
+
+        // Smooth scroll to top when button is clicked
+        scrollToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+
+<script src="https://www.kln.gov.my/assets/chat-embed/js/chat-embed.js"></script>
+<div
+        x-data="chatEmbed({ storageKey: 'chat-embed-open:bgd_dhaka' })"
+        x-on:keydown.escape.window="setOpen(false)"
+        class="chat-embed"
+    >
+        <div x-show="open" x-cloak id="chat-embed-frame" class="chat-embed-frame">
+            <template x-if="loaded">
+                <iframe
+                    src="https://www.kln.gov.my/chat?site=bgd_dhaka"
+                    title="Putra"
+                    
+                    sandbox="allow-scripts allow-forms allow-same-origin allow-top-navigation-by-user-activation"
+                    referrerpolicy="same-origin"
+                    loading="lazy"
+                ></iframe>
+            </template>
+        </div>
+
+                    
+            <button
+                type="button"
+                x-show="! open"
+                x-ref="avatarLauncher"
+                @click="openAndFocus()"
+                aria-expanded="false"
+                aria-controls="chat-embed-frame"
+                aria-label="Ask Putra"
+                class="chat-embed-launcher"
+            >
+                <img src="https://www.kln.gov.my/uploads/chatbot/full-avatar?v=1789465108" alt="Putra" class="chat-embed-avatar">
+            </button>
+
+            <button
+                type="button"
+                x-show="open"
+                x-cloak
+                x-ref="closeLauncher"
+                @click="closeAndFocus()"
+                aria-expanded="true"
+                aria-controls="chat-embed-frame"
+                aria-label="Close"
+                class="chat-embed-close"
+            >
+                                    <img src="https://www.kln.gov.my/uploads/chatbot/avatar?v=1789465108" alt="Close">
+                            </button>
+            </div>
+
+</body>
+</html>

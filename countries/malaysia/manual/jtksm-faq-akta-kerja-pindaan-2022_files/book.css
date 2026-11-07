@@ -1,0 +1,29 @@
+/**
+ * @file
+ * Bootstrap Barrio specific styling for the Book module.
+ */
+
+.book-navigation .menu {
+  border-top: 1px solid #d6d6d6;
+}
+.book-navigation .book-pager {
+  border-bottom: 1px solid #d6d6d6;
+  border-top: 1px solid #d6d6d6;
+  margin: 0;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:31 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:47 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.404
+  load_resource: 302.255
+  PetaboxLoader3.resolve: 239.232
+  PetaboxLoader3.datanode: 41.634
+*/

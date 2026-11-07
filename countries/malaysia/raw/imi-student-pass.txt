@@ -1,0 +1,721 @@
+TEXT COPY of imi-student-pass.html (all text incl. tables/options; made with h2t.py)
+
+Pas Pelajar – Jabatan Imigresen Malaysia
+MYHRMIS Mobile
+MYHRMIS Mobile
+splwpk-electronic-archive
+splwpk-publicising
+splwpk-w3c
+Feedback Form
+Carian Laman
+Carian Laman
+splwpk-boradcast
+splwpk-about-us
+splwpk-client-charter
+splwpk-news
+splwpk-faq
+splwpk-contact-details
+splwpk-procurement
+splwpk-online-e-participation
+ Skip to content
+Utama
+Profil JIM
+Pengenalan Jabatan
+Sejarah Jabatan
+Carta Organisasi
+Carta Organisasi Jabatan
+Atase Imigresen Malaysia
+Pencapaian & e-Penghargaan
+Piagam Pelanggan
+Piagam Pelanggan
+Pencapaian Piagam Pelanggan
+Lagu & Ikrar Jabatan
+Perkhidmatan Utama
+Pekerja Asing
+Penguatkuasaan
+Pasport / Dokumen Perjalanan
+Pasport Malaysia Antarabangsa
+Pejabat Penerima dan Pengeluar Pasport
+Pasport Terhad Ke Brunei
+Pasport Menyeberang Sempadan (Malaysia-Indonesia)
+Pas Sempadan Malaysia – Thailand
+Surat Akuan Pengenalan
+Dokumen Perjalanan Terhad
+Dokumen Gantian Perjalanan
+Sijil Perakuan Cemas (SPC)
+Visa
+Keperluan Visa Mengikut Negara
+Visa Dengan Rujukan (VDR)
+Kadar Bayaran Visa
+Kadar Bayaran Security Bond
+Pembantu Rumah Asing
+Endosmen Pengecualian Seksyen 66
+Syarat Kemasukan ke Malaysia
+Imigran-Imigran Larangan
+Kesalahan sering dilakukan
+Penumpang Anak Kapal (Pelaut)
+Permit Masuk
+Ekspatriat
+Pas
+MACS
+Pas Lawatan Kerja
+Pas Penggajian
+Pas Lawatan Sosial
+Pas Lawatan Sosial Jangka Panjang
+Pas Lawatan Sosial Jangka Pendek
+Pas Lawatan Ikhtisas
+Pas Lawatan Ikhtisas – Pakar
+Pas Pelajar
+Pas Residen
+Dokumen yang Diperlukan Mengikut Kategori
+Syarat Berlepas dari Malaysia
+Perjalanan Antarabangsa
+Perjalanan Dalam Negeri (Domestik)
+Kad Perjalanan Perniagaan APEC
+Pengenalan
+Pemohon Yang Layak
+Agensi Kawal Selia
+Senarai Semak Permohonan
+Borang Permohonan
+Pautan Penting
+Malaysia Rumah Kedua Ku (MM2H)
+Program Istimewa
+Hubungi Kami
+Alamat & Lokasi
+Waktu Urusan
+Direktori Staf
+Ketua Pegawai Digital
+ATASE Imigresen Malaysia
+Soalan Lazim
+Jumaat : November 06, 2026 - 3.53 pm
+Utama
+Profil JIM
+Pengenalan Jabatan
+Sejarah Jabatan
+Carta Organisasi
+Carta Organisasi Jabatan
+Atase Imigresen Malaysia
+Pencapaian & e-Penghargaan
+Piagam Pelanggan
+Piagam Pelanggan
+Pencapaian Piagam Pelanggan
+Lagu & Ikrar Jabatan
+Perkhidmatan Utama
+Pasport / Dokumen Perjalanan
+Pasport Malaysia Antarabangsa
+Pejabat Penerima dan Pengeluar Pasport
+Pasport Terhad Ke Brunei
+Pasport Menyeberang Sempadan (Malaysia-Indonesia)
+Pas Sempadan Malaysia – Thailand
+Surat Akuan Pengenalan
+Dokumen Perjalanan Terhad
+Dokumen Gantian Perjalanan
+Sijil Perakuan Cemas (SPC)
+Visa
+Keperluan Visa Mengikut Negara
+Visa Dengan Rujukan (VDR)
+Kadar Bayaran Visa
+Kadar Bayaran Security Bond
+Pas
+MACS
+Pas Lawatan Kerja
+Pas Penggajian
+Pas Lawatan Sosial
+Pas Lawatan Sosial Jangka Panjang
+Pas Lawatan Sosial Jangka Pendek
+Pas Lawatan Ikhtisas
+Pas Lawatan Ikhtisas – Pakar
+Pas Pelajar
+Pas Residen
+Dokumen yang Diperlukan Mengikut Kategori
+Pekerja Asing
+Pembantu Rumah Asing
+Permit Masuk
+Kad Perjalanan Perniagaan APEC
+Pengenalan
+Pemohon Yang Layak
+Agensi Kawal Selia
+Senarai Semak Permohonan
+Borang Permohonan
+Pautan Penting
+Endosmen Pengecualian Seksyen 66
+Ekspatriat
+Malaysia Rumah Kedua Ku (MM2H)
+Syarat Kemasukan ke Malaysia
+Imigran-Imigran Larangan
+Kesalahan sering dilakukan
+Penumpang Anak Kapal (Pelaut)
+Syarat Berlepas dari Malaysia
+Perjalanan Antarabangsa
+Perjalanan Dalam Negeri (Domestik)
+Program Istimewa
+Penguatkuasaan
+Hubungi Kami
+Alamat & Lokasi
+Waktu Urusan
+Direktori Staf
+Ketua Pegawai Digital
+ATASE Imigresen Malaysia
+Soalan Lazim
+ Menu
+Utama
+Profil JIM
+Pengenalan Jabatan
+Sejarah Jabatan
+Carta Organisasi
+Carta Organisasi Jabatan
+Atase Imigresen Malaysia
+Pencapaian & e-Penghargaan
+Piagam Pelanggan
+Piagam Pelanggan
+Pencapaian Piagam Pelanggan
+Lagu & Ikrar Jabatan
+Perkhidmatan Utama
+Pasport / Dokumen Perjalanan
+Pasport Malaysia Antarabangsa
+Pejabat Penerima dan Pengeluar Pasport
+Pasport Terhad Ke Brunei
+Pasport Menyeberang Sempadan (Malaysia-Indonesia)
+Pas Sempadan Malaysia – Thailand
+Surat Akuan Pengenalan
+Dokumen Perjalanan Terhad
+Dokumen Gantian Perjalanan
+Sijil Perakuan Cemas (SPC)
+Visa
+Keperluan Visa Mengikut Negara
+Visa Dengan Rujukan (VDR)
+Kadar Bayaran Visa
+Kadar Bayaran Security Bond
+Pas
+MACS
+Pas Lawatan Kerja
+Pas Penggajian
+Pas Lawatan Sosial
+Pas Lawatan Sosial Jangka Panjang
+Pas Lawatan Sosial Jangka Pendek
+Pas Lawatan Ikhtisas
+Pas Lawatan Ikhtisas – Pakar
+Pas Pelajar
+Pas Residen
+Dokumen yang Diperlukan Mengikut Kategori
+Pekerja Asing
+Pembantu Rumah Asing
+Permit Masuk
+Kad Perjalanan Perniagaan APEC
+Pengenalan
+Pemohon Yang Layak
+Agensi Kawal Selia
+Senarai Semak Permohonan
+Borang Permohonan
+Pautan Penting
+Endosmen Pengecualian Seksyen 66
+Ekspatriat
+Malaysia Rumah Kedua Ku (MM2H)
+Syarat Kemasukan ke Malaysia
+Imigran-Imigran Larangan
+Kesalahan sering dilakukan
+Penumpang Anak Kapal (Pelaut)
+Syarat Berlepas dari Malaysia
+Perjalanan Antarabangsa
+Perjalanan Dalam Negeri (Domestik)
+Program Istimewa
+Penguatkuasaan
+Hubungi Kami
+Alamat & Lokasi
+Waktu Urusan
+Direktori Staf
+Ketua Pegawai Digital
+ATASE Imigresen Malaysia
+Soalan Lazim
+F.A.Q
+Hubungi Kami
+SISPAA
+Peta Laman
+Whistleblowing
+E-Penyertaan
+Tender & Sebut Harga
+Statistik Transaksi Perkhidmatan
+e-Patuh
+Warga Imigresen
+ X
+EN
+ Search
+ Close
+PENGURUSAN PAS PELAJAR
+Pengurusan Pas Pelajar Kemudahan Pas Pelajar diberikan kepada pelajar warganegara asing yang ingin mengikuti pengajian di Malaysia di peringkat prasekolah, sekolah, institusi pengajian tinggi atau institusi pendidikan lain yang diiktiraf oleh Kerajaan Malaysia, tertakluk kepada syarat, kelayakan dan peraturan yang sedang berkuat kuasa.
+1. Kelayakan Permohonan
+1.1. Pelajar di Institusi Pengajian Tinggi (UA / IPTS)/ Pusat Bahasa, Pusat Latihan/Kemahiran dan Pusat Bertauliah
+Kemudahan Pas Pelajar bagi kategori ini diberikan kepada pelajar warganegara asing yang memenuhi syarat berikut:
+a) Mendapat tawaran pengajian daripada Universiti Awam (UA);
+b) Mendapat tawaran pengajian daripada Institusi Pengajian Tinggi Swasta (IPTS) yang telah mendapat kelulusan penubuhan dan pendaftaran program pengajian daripada Kementerian Pendidikan Tinggi (KPT), serta program pengajian berkenaan telah mendapat akreditasi daripada Agensi Kelayakan Malaysia (MQA). IPTS tersebut hendaklah turut mendapat kebenaran pengambilan pelajar antarabangsa daripada Kementerian Dalam Negeri (KDN);
+c) Mendapat tawaran pengajian daripada Pusat Bahasa, Pusat Latihan/Kemahiran atau Pusat Bertauliah yang telah berdaftar serta mendapat kelulusan penubuhan dan pengendalian kursus daripada Kementerian Pendidikan Malaysia (KPM) dan Kementerian Sumber Manusia (KESUMA) atau agensi berkaitan, serta mempunyai kebenaran pengambilan pelajar antarabangsa daripada Kementerian Dalam Negeri (KDN);
+d) Pemohon HENDAKLAH BERADA DI LUAR MALAYSIA semasa permohonan Pas Pelajar dikemukakan;
+e) Permohonan Pas Pelajar boleh dikemukakan oleh institusi atau pelajar secara dalam talian melalui Sistem STARS yang dikendalikan oleh Education Malaysia Global Services (EMGS) melalui portal rasmi berikut: https://visa.educationmalaysia.gov.my;
+f) Pihak EMGS akan melaksanakan semakan akademik serta mengeluarkan surat Approval to Study for International Student kepada pemohon yang memenuhi syarat yang ditetapkan;
+g) Permohonan yang lengkap, teratur dan memenuhi syarat akademik akan dikemukakan oleh EMGS kepada Unit Pas Pelajar, Bahagian Visa, Pas dan Permit, Ibu Pejabat Jabatan Imigresen Malaysia bagi pertimbangan kelulusan eVAL, tertakluk kepada semakan dokumen perjalanan dan tapisan keselamatan;
+h) Setelah memperoleh kelulusan e-VAL, pemohon daripada negara yang memerlukan visa hendaklah medapatkan Visa Kemasukan Sekali (Single Entry Visa) melalui https://malaysiavisa.imi.gov.my;
+i) Maklumat keperluan visa boleh diperoleh melalui pautan https://www.imi.gov.my/index.php/perkhidmatan-utama/visa/keperluan-visa-mengikut-negara/;
+j) Permohonan eVISA boleh dibuat dari seluruh dunia, kecuali dari Malaysia, Israel dan Korea Utara https://malaysiavisa.imi.gov.my/faq;
+k) Setelah tiba di Malaysia, pelajar hendaklah hadir ke institusi yang dipohon dan menjalani pemeriksaan kesihatan selepas ketibaan (Post-Arrival Medical Examination) dalam tempoh tujuh (7) hari; dan
+l) Setelah disahkan lulus pemeriksaan kesihatan dan memperoleh surat sokongan daripada pihak EMGS, pihak institusi boleh mengemukakan permohonan pengeluaran Pas Pelajar di Pejabat Imigresen yang mempunyai bidang kuasa mengikut alamat institusi.
+1.2. Pelajar di Peringkat Sekolah
+Kemudahan Pas Pelajar bagi kategori sekolah diberikan kepada pelajar warganegara asing yang memenuhi syarat berikut:
+a) Mendapat tawaran belajar di Sekolah kerajaan atau bantuan kerajaan di bawah kawal selia Bahagian Pengurusan Sekolah Harian, Kementerian Pendidikan Malaysia (KPM);
+b) Mendapat tawaran belajar di Sekolah Antarabangsa, Sekolah Ekspatriat, Sekolah Rendah dan Menengah Akademik Swasta, Sekolah Rendah dan Menengah Agama Swasta atau Sekolah Menengah Persendirian Cina yang berdaftar dan diluluskan oleh Bahagian Pendidikan Swasta, Kementerian Pendidikan Malaysia (KPM);
+c) Bagi Sekolah Antarabangsa, pengambilan pelajar warganegara asing hendaklah mendapat kebenaran pengambilan pelajar antarabangsa daripada Kementerian Dalam Negeri (KDN);
+d) Permohonan boleh dikemukakan oleh wakil yang dilantik secara sah oleh sekolah, ibu bapa atau penjaga yang sah; dan
+e) Permohonan baharu dan lanjutan Pas Pelajar boleh dikemukakan di Unit Pas Pelajar, Bahagian Visa, Pas dan Permit, Ibu Pejabat Jabatan Imigresen Malaysia, Bahagian Visa, Pas dan Permit Negeri atau Pejabat Imigresen Cawangan yang menawarkan perkhidmatan Pas Pelajar berdasarkan alamat sekolah pemohon.
+2. Kemudahan
+2.1. Tanggungan kepada Pemegang Pas Pelajar
+Kemudahan Pas Lawatan (Sosial) Jangka Panjang sebagai tanggungan boleh dipertimbangkan kepada ahli keluarga pemegang Pas Pelajar yang mengikuti pengajian di Universiti Awam (UA) atau Institusi Pengajian Tinggi Swasta (IPTS) di peringkat Ijazah Sarjana (Master) atau Ijazah Kedoktoran (PhD).
+Kategori tanggungan yang layak dipertimbangkan adalah seperti berikut:
+a) Suami atau isteri;
+b) Anak kandung, anak tiri atau anak angkat yang berumur di bawah lapan belas (18) tahun;
+c) Anak kurang upaya tanpa had umur yang disahkan oleh pengamal perubatan berdaftar;
+d) Ibu dan bapa kandung; dan
+e) Ibu dan bapa mertua.
+Syarat-syarat
+i. Kemudahan tanggungan hanya diberikan kepada pemegang Pas Pelajar yang mengikuti pengajian di peringkat Ijazah Sarjana (Master) atau Ijazah Kedoktoran (PhD).
+ii. Pemegang Pas Pelajar bagi kategori Pusat Bahasa, Pusat Latihan/Kemahiran dan Pusat Bertauliah TIDAK LAYAK membawa tanggungan.
+iii. Tanggungan TIDAK DIBENARKAN bekerja, menjalankan perniagaan, menyampaikan syarahan politik, ucapan, ceramah atau melibatkan diri dalam sebarang aktiviti politik.
+2.2. Pengiring kepada Pemegang Pas Pelajar
+Kemudahan Pas Lawatan (Sosial) Jangka Panjang sebagai pengiring boleh dipertimbangkan kepada ahli keluarga pemegang Pas Pelajar yang mengikuti pengajian di peringkat sekolah.
+Kategori pengiring yang layak dipertimbangkan adalah seperti berikut:
+a) Ibu dan bapa kandung;
+b) Penjaga yang sah;
+c) Ibu dan bapa angkat;
+d) Adik-beradik pelajar yang berumur di bawah tujuh tahun.
+Syarat-syarat
+i. Pengiring TIDAK DIBENARKAN bekerja, menjalankan perniagaan, menyampaikan syarahan politik, ucapan, ceramah, atau melibatkan diri dalam sebarang kegiatan politik.
+2.3. Kebenaran Bekerja Secara Sambilan
+Kemudahan bekerja secara sambilan diberikan kepada pemegang Pas Pelajar kategori Universiti Awam (UA) dan Institusi Pengajian Tinggi Swasta (IPTS) tertakluk kepada syarat-syarat berikut:
+i. Kemudahan ini TIDAK LAYAK DIBERIKAN kepada pemegang Pas Pelajar Pusat Bahasa, Pusat Latihan/Kemahiran dan Pusat Bertauliah;
+ii. Pemegang Pas Pelajar dibenarkan bekerja secara sambilan semasa cuti semester, cuti perayaan bagi tempoh tidak melebihi dua puluh (20) jam seminggu di premis yang dibenarkan seperti berikut:
+a) Restoran
+b) Stesen minyak
+c) Pasar mini
+d) Hotel
+e) Kawasan universiti atau kolej;
+iii. Pelajar tidak dibenarkan menjalankan tugas melibatkan kerja-kerja front desk selaras dengan dasar semasa penggajian pekerja asing;
+iv. Pelajar juga tidak dibenarkan bertindak sebagai agen pengambilan atau perekrutan pelajar;
+v. Permohonan yang lengkap boleh dikemukakan di Unit Pas Pelajar, Bahagian Visa, Pas dan Permit, Ibu Pejabat Imigresen Malaysia / Pejabat Imigresen Negeri dengan mengemukakan dokumen berikut:
+a) Surat tawaran pekerjaan;
+b) Surat sokongan daripada institusi yang mengesahkan permohonan kebenaran bekerja serta menyatakan jadual dan tempoh cuti semester;
+c) Laporan prestasi akademik pelajar/pemohon;
+d) Laporan kehadiran pelajar/pemohon;
+e) Salinan pasport pemohon (muka surat biodata dan Pas Pelajar yang masih sah); dan
+f) Salinan kelulusan yang diperoleh oleh majikan daripada Jabatan Tenaga Kerja selaras dengan peruntukan Seksyen 60K Akta Kerja 1955 [Akta 265] bagi tujuan penggajian pekerja asing.
+vi. Kelulusan kebenaran bekerja adalah tertakluk kepada semakan dokumen dan pertimbangan Jabatan Imigresen Malaysia; dan
+vii. Jabatan Imigresen Malaysia berhak membatalkan Pas Pelajar sekiranya pemegang pas didapati melanggar mana-mana syarat atau peraturan yang ditetapkan.
+3. Bayaran
+ | Perkhidmatan
+ | Kadar Bayaran
+ | Pas Pelajar
+ | RM60.00
+ | Pas Lawatan (Sosial) Jangka Panjang bagi Tanggungan/Pengiring
+ | RM90.00
+ | Visa
+ | Mengikut kadar yang ditetapkan berdasarkan kewarganegaraan pemohon Pautan Kadar Visa
+4. Senarai Semak Permohonan
+Dokumen yang diperlukan bagi permohonan Pas Pelajar dan Pas Lawatan (Sosial) Jangka Panjang adalah seperti berikut:
+4.1. Pas Pelajar (Institusi Pengajian Tinggi, Pusat Bahasa, Pusat Latihan/Kemahiran dan Pusat Bertauliah)
+A. Permohonan Baharu
+ | Bil.
+ | Dokumen
+ | √
+ | 1.
+ | Borang IMM.14
+ | 
+ | 2.
+ | Surat Kelulusan Pengambilan Pelajar Antarabangsa daripada Kementerian Dalam Negeri (KDN) yang masih berkuat kuasa.
+ | 
+ | 3.
+ | Surat Sokongan daripada Education Malaysia Global Services (EMGS) [Acceptance Declaration (AD)].
+ | 
+ | 4.
+ | Surat tawaran pengajian daripada Universiti Awam (UA), Institusi Pengajian Tinggi Swasta (IPTS), Pusat Bahasa, Pusat Latihan/Kemahiran atau Pusat Bertauliah.
+ | 
+ | 5.
+ | Gambar berukuran pasport (3.5 cm × 5.0 cm) berlatar belakang putih.
+ | 
+ | 6.
+ | Salinan pasport (semua muka surat termasuk kulit hadapan) dengan tempoh sah laku sekurang-kurangnya lapan belas (18) bulan.
+ | 
+ | 7.
+ | Salinan keputusan akademik dan transkrip.
+ | 
+ | 8.
+ | Surat Kebenaran daripada institusi (Sarawak sahaja).
+ | 
+ | 9.
+ | Surat iringan daripada institusi (Sarawak sahaja).
+ | 
+ | 10.
+ | Pre-VAL Medical Report atau laporan pemeriksaan kesihatan dari negara asal (Sarawak sahaja).
+ | 
+Nota
+Permohonan hendaklah dikemukakan melalui Sistem STARS, EMGS.
+Salinan dokumen hendaklah jelas, lengkap dan mudah dibaca.
+Hanya permohonan yang lengkap akan diproses.
+Sekiranya dokumen tambahan diperlukan, dokumen tersebut hendaklah dikemukakan dalam tempoh empat belas (14) hari bekerja dari tarikh permohonan dipulangkan oleh EMGS.
+B. Pengeluaran Pelekat Tahun Pertama Pas Pelajar
+ | Bil.
+ | Dokumen
+ | √
+ | 1.
+ | Pasport asal pemohon.
+ | 
+ | 2.
+ | Surat permohonan pengeluaran pelekat daripada institusi.
+ | 
+ | 3.
+ | Surat Sokongan Pengeluaran Pelekat daripada EMGS.
+ | 
+ | 4.
+ | Borang Personal Bond yang telah dimatikan setem (permohonan baharu sahaja).
+ | 
+ | 5.
+ | Polisi Insurans Kesihatan Malaysia yang diiktiraf di Malaysia dengan tempoh perlindungan sekurang-kurangnya dua belas (12) bulan dan masih berkuat kuasa sepanjang tempoh pengajian.
+ | 
+ | 6.
+ | Resit pembayaran Pas dan Visa secara dalam talian (jika berkaitan).
+ | 
+Nota
+Permohonan hendaklah dikemukakan melalui Sistem STARS, EMGS.
+Salinan dokumen hendaklah jelas, lengkap dan mudah dibaca.
+Semua dokumen hendaklah lengkap sebelum dikemukakan.
+C. Permohonan Lanjutan Pas Pelajar
+ | Bil.
+ | Dokumen
+ | √
+ | 1.
+ | Borang IMM.14.
+ | 
+ | 2.
+ | Salinan pasport (muka surat biodata dan Pas Pelajar terkini).
+ | 
+ | 3.
+ | Salinan surat tawaran pengajian terdahulu.
+ | 
+ | 4.
+ | Surat Sokongan Permohonan Pembaharuan Pas Pelajar daripada EMGS.
+ | 
+ | 5.
+ | Surat sokongan daripada institusi.
+ | 
+ | 6.
+ | Surat Sokongan Jabatan Pendidikan Tinggi (JPT) atau surat sokongan rayuan permohonan pembaharuan Pas Pelajar (jika berkaitan).
+ | 
+ | 7.
+ | Keputusan akademik semester terdahulu.
+ | 
+ | 8.
+ | Rekod kehadiran terkini.
+ | 
+ | 9.
+ | Polisi Insurans Kesihatan Malaysia atau Polisi Insurans Antarabangsa yang diiktiraf di Malaysia dengan tempoh perlindungan sekurang-kurangnya dua belas (12) bulan dan masih berkuat kuasa sepanjang tempoh pengajian.
+ | 
+Nota
+Permohonan hendaklah dikemukakan melalui Sistem STARS, EMGS.
+Salinan dokumen hendaklah jelas, lengkap dan mudah dibaca.
+Hanya permohonan yang lengkap akan diproses.
+4.2. Pas Pelajar Kategori Sekolah
+Permohonan Baharu dan Lanjutan
+Pemohon hendaklah mengemukakan dokumen seperti berikut:
+ | Bil.
+ | Dokumen
+ | √
+ | 1.
+ | Borang IMM.14
+ | 
+ | 2.
+ | Borang IMM.38
+ | 
+ | 3.
+ | Surat Kelulusan Pengambilan Pelajar Antarabangsa daripada Kementerian Dalam Negeri (KDN) yang masih berkuat kuasa (Sekolah Antarabangsa sahaja).
+ | 
+ | 4.
+ | Surat Kelulusan Pengambilan Pelajar Antarabangsa daripada Kerajaan Negeri Sabah atau Sarawak yang masih berkuat kuasa (jika berkaitan).
+ | 
+ | 5.
+ | Salinan Perakuan Pendaftaran Institusi Pendidikan Swasta yang masih berkuat kuasa daripada Bahagian Pendidikan Swasta, Kementerian Pendidikan Malaysia (KPM).
+ | 
+ | 6.
+ | Surat Sokongan Permohonan Pas Pelajar Murid Antarabangsa daripada Bahagian Pendidikan Swasta, KPM (Semenanjung Malaysia dan Sabah) atau Jabatan Pendidikan Negeri (JPN) Sarawak, mengikut kategori sekolah.
+ | 
+ | 7.
+ | Surat Kelulusan Permohonan Pas Pelajar daripada Jabatan Pendidikan Negeri (JPN) atau Pejabat Pendidikan Daerah (PPD) bagi Sekolah Kerajaan dan Sekolah Bantuan Kerajaan.
+ | 
+ | 8.
+ | Surat pelantikan wakil daripada pihak sekolah (jika berkaitan).
+ | 
+ | 9.
+ | Salinan pasport pemohon semua muka surat termasuk kulit hadapan pasport. Tempoh sah laku pasport MESTILAH lapan belas (18) bulan atau lebih. (Permohonan BAHARU)
+Salinan pasport pemohon (muka surat biodata dan pas semasa) dengan tempoh sah laku sekurang-kurangnya lapan belas (18) bulan. (Permohonan LANJUTAN)
+ | 
+ | 10.
+ | Gambar berukuran pasport (3.5 cm × 5.0 cm) berlatar belakang putih.
+ | 
+ | 11.
+ | Polisi Insurans Kesihatan Malaysia atau Polisi Insurans Antarabangsa yang diiktiraf di Malaysia dengan tempoh perlindungan sekurang-kurangnya dua belas (12) bulan dan masih berkuat kuasa sepanjang tempoh pengajian.
+ | 
+ | 12.
+ | Borang Personal Bond yang telah dimatikan setem (Permohonan Baharu sahaja).
+ | 
+ | 13.
+ | Dokumen sokongan lain yang berkaitan (jika berkaitan), seperti berikut:
+ | 
+Dokumen Sokongan Berkaitan
+Salinan Sijil Lahir Malaysia atau Sijil Lahir Luar Negara berserta terjemahan yang disahkan (jika berkaitan).
+Salinan Perintah Mahkamah berkaitan hak penjagaan (jika berkaitan).
+Salinan Sijil Nikah atau Daftar Perkahwinan ibu bapa (bagi tujuan pengesahan pertalian).
+Salinan dokumen pengenalan atau pasport ibu dan bapa serta pas yang sah (jika berkaitan).
+Salinan Sijil Perceraian, Sijil Pendaftaran Perceraian atau Sijil Kematian (jika berkaitan).
+Salinan Sijil Pengangkatan atau Perintah Pengangkatan bagi anak angkat (jika berkaitan).
+Nota
+Permohonan hendaklah dikemukakan di Pejabat Imigresen yang mempunyai bidang kuasa mengikut alamat sekolah.
+Semua dokumen asal hendaklah dibawa semasa mengemukakan permohonan bagi tujuan semakan.
+Salinan dokumen hendaklah jelas, lengkap dan, jika berkaitan, disahkan oleh Notari Awam negara masing-masing.
+Hanya permohonan yang lengkap akan diproses.
+4.3. Pas Lawatan (Sosial) Jangka Panjang bagi Tanggungan /Pengiring kepada Pas Pelajar
+Permohonan Baharu dan Lanjutan
+Pemohon hendaklah mengemukakan dokumen seperti berikut:
+ | Bil.
+ | Dokumen
+ | √
+ | 1.
+ | Borang IMM.12
+ | 
+ | 2.
+ | Borang IMM.38
+ | 
+ | 3.
+ | Surat pelantikan wakil daripada institusi atau sekolah (jika berkaitan).
+ | 
+ | 4.
+ | Surat rasmi permohonan tanggungan/pengiring daripada institusi atau sekolah.
+ | 
+ | 5.
+ | Surat pengesahan status Pas Pelajar (prinsipal) daripada institusi atau sekolah.
+ | 
+ | 6.
+ | Salinan Pasport pemohon semua muka surat termasuk kulit hadapan pasport. Tempoh sah laku pasport MESTILAH lapan belas (18) bulan atau lebih. (Permohonan BAHARU)
+Salinan pasport pemohon (muka surat biodata dan pas semasa) dengan tempoh sah laku sekurang-kurangnya lapan belas (18) bulan. (Permohonan LANJUTAN)
+ | 
+ | 7.
+ | Salinan pasport prinsipal (pemegang Pas Pelajar) yang mengandungi muka surat biodata dan Pas Pelajar terkini.
+ | 
+ | 8.
+ | Gambar berukuran pasport (3.5 cm × 5.0 cm) berlatar belakang putih.
+ | 
+ | 9.
+ | Polisi Insurans Kesihatan Malaysia atau Polisi Insurans Antarabangsa yang diiktiraf di Malaysia dengan tempoh perlindungan sekurang-kurangnya dua belas (12) bulan dan masih berkuat kuasa.
+ | 
+ | 10.
+ | Borang Personal Bond yang telah dimatikan setem (Permohonan Baharu sahaja).
+ | 
+ | 11.
+ | Bukti kemampuan kewangan untuk menanggung perbelanjaan diri dan keluarga seperti penyata kewangan tiga (3) bulan terkini, surat tajaan biasiswa atau surat tajaan daripada kedutaan (jika berkaitan).
+ | 
+ | 12.
+ | Dokumen sokongan lain yang berkaitan seperti di bawah.
+ | 
+Dokumen Sokongan Berkaitan
+Pemohon hendaklah mengemukakan dokumen berkaitan bagi membuktikan hubungan dengan pemegang Pas Pelajar (prinsipal), seperti berikut:
+Salinan Sijil Lahir Malaysia atau Sijil Lahir Luar Negara berserta terjemahan yang disahkan (jika berkaitan).
+Salinan Perintah Mahkamah berkaitan hak penjagaan (jika berkaitan).
+Salinan Sijil Nikah atau Daftar Perkahwinan bagi tujuan pengesahan pertalian.
+Salinan Sijil Perceraian, Sijil Pendaftaran Perceraian atau Sijil Kematian (jika berkaitan).
+Salinan Sijil Pengangkatan atau Perintah Pengangkatan bagi anak angkat (jika berkaitan).
+Nota
+Bagi tanggungan kepada pemegang Pas Pelajar kategori Institusi Pengajian Tinggi (IPT): Permohonan hendaklah dikemukakan melalui Sistem STARS, Education Malaysia Global Services (EMGS).
+Bagi pengiring kepada pelajar kategori sekolah: Permohonan hendaklah dikemukakan di Pejabat Imigresen yang mempunyai bidang kuasa mengikut alamat sekolah.
+Bagi semua permohonan:
+Semua dokumen asal hendaklah dikemukakan semasa permohonan bagi tujuan semakan.
+Salinan dokumen hendaklah jelas, lengkap dan mudah dibaca.
+Hanya permohonan yang lengkap akan diproses.
+4.4. Pengesahan Dokumen Bukti Pertalian
+Dokumen bukti pertalian yang dikemukakan hendaklah disahkan seperti berikut:
+Pejabat perwakilan / Kedutaan Asing di Malaysia sekiranya pemohon berada di Malaysia;
+Bagi Negara yang tidak mempunyai Pejabat Perwakilan di Malaysia, dokumen hendaklah disahkan oleh Pejabat Perwakilan negara berkenaan yang berhampiran atau di negara asal;
+Dokumen yang bukan dalam Bahasa Melayu atau Bahasa Inggeris hendaklah disertakan bersama terjemahan yang disahkan oleh:
+Pejabat Perwakilan atau Kedutaan Asing;
+Institut Terjemahan & Buku Malaysia (ITBM); atau
+Mana-mana pusat penterjemahan yang berdaftar dengan Persatuan Penterjemah Malaysia (PPM).
+Terjemahan yang dibuat di negara asal hendaklah disahkan oleh Pejabat Perwakilan / Kedutaan Asing di Malaysia;
+Bagi warganegara Republik Rakyat China (PRC), dokumen bukti pertalian hendaklah disahkan oleh Pejabat Perwakilan Malaysia di Republik Rakyat China (PRC).
+Permohonan bagi anak angkat hendaklah disertakan dengan dokumen hak penjagaan (Custody Letter) dan pengesahan daripada kedutaan. Sekiranya permohonan dibuat di luar negara, dokumen tersebut hendaklah disahkan oleh Kementerian Luar Negeri negara berkenaan atau Pejabat Perwakilan Malaysia di luar negara.
+Notis Penting
+Jabatan Imigresen Malaysia berhak untuk meminta apa-apa dokumen sokongan atau maklumat tambahan yang difikirkan perlu bagi tujuan memproses permohonan.
+Semua permohonan adalah tertakluk kepada peruntukan Akta Imigresen 1959/63 [Akta 155], Peraturan-Peraturan Imigresen 1963, serta dasar, arahan dan garis panduan semasa yang berkuat kuasa dari semasa ke semasa.
+Jabatan Imigresen Malaysia berhak meluluskan atau menolak mana-mana permohonan berdasarkan peruntukan undang-undang dan dasar yang sedang berkuat kuasa.
+F.A.Q MALAYSIA- CHINA VISA EXEMPTION AGREEMENT
+Kini Lebih Mudah dengan NIISe
+Page Under Maintenance
+Utama
+Profil JIM
+ Menu Toggle
+Pengenalan Jabatan
+Sejarah Jabatan
+Carta Organisasi Jabatan
+Atase Imigresen Malaysia
+Pencapaian & ePenghargaan
+Piagam Pelanggan
+Pencapaian Piagam Pelanggan
+Lagu & Ikrar Jabatan
+Perkhidmatan Utama
+ Menu Toggle
+Visa
+Keperluan Visa Mengikut Negara
+Kadar Bayaran Visa
+Kadar Bayaran Security Bond
+Pas
+MACS
+Pas Lawatan
+Pas Lawatan Kerja
+Pas Lawatan Sosial
+Pas Lawatan Sosial Jangka Panjang
+Pas Lawatan Sosial Jangka Pendek
+Ekspatriat
+Endosmen Pengecualian Seksyen 66
+Pas Lawatan Ikhtisas
+Pas Lawatan Ikhtisas – Pakar
+Pas Penggajian
+Pas Pelajar
+Pas Residen
+Dokumen yang Diperlukan Mengikut Kategori
+Tatacara Memohon Endorsemen Kebenaran Kerja
+Pas Sempadan / Lintas Batas
+Pekerja Asing
+Pembantu Rumah Asing
+Permit Masuk
+Kad Perniagaan Perjalanan APEC
+Pengenalan
+Pemohon Yang Layak
+Agensi Kawal Selia
+Senarai Semak
+Borang Permohonan
+Pautan Penting
+Dokumen Perjalanan
+Syarat Kemasukan ke Malaysia
+Seksyen 8 Akta Imigresen 1959/1963
+Imigran-Imigran Larangan
+Kesalahan sering dilakukan
+Syarat-syarat Kemasukan Bagi Penumpang Anak Kapal (Pelaut)
+Malaysia Rumah Kedua Ku (MM2H)
+Perjalanan Antarabangsa
+Perjalanan Dalam Negeri (Domestik)
+Program Istimewa
+Penguatkuasaan
+ Menu Toggle
+Tindakan Kompaun
+Hilang Pasport/Dokumen Perjalanan
+Imigran-Imigran Larangan
+WARGA IMIGRESEN
+Hubungi Kami
+ Menu Toggle
+ALAMAT DAN LOKASI
+Soalan Lazim
+FAQ – Pas Lawatan (Sosial) Graduan
+ATASE Imigresen Malaysia
+Direktori Staf
+Kedah
+Johor
+Negeri Sembilan
+Melaka
+Kelantan
+Pahang
+Pulau Pinang
+Perak
+Perlis
+Terengganu
+Selangor
+Wilayah Persekutuan Kuala Lumpur
+Sabah
+Sarawak
+Ketua Pegawai Digital
+Dasar Privasi
+Dasar Keselamatan
+E-Penyertaan
+Penafian
+Pengumuman
+Bantuan
+Tender & Sebut Harga
+Statistik Transaksi Perkhidmatan
+ Menu Toggle
+Statistik Transaksi Perkhidmatan Tahun 2011
+Statistik Transaksi Perkhidmatan Tahun 2012
+Statistik Transaksi Perkhidmatan Tahun 2013
+Statistik Transaksi Perkhidmatan Tahun 2014
+Statistik Transaksi Perkhidmatan Tahun 2015
+Statistik Transaksi Perkhidmatan Tahun 2016
+Statistik Transaksi Perkhidmatan Tahun 2017
+Statistik Transaksi Perkhidmatan Tahun 2018
+Statistik Transaksi Perkhidmatan Tahun 2019
+Statistik Transaksi Perkhidmatan Tahun 2020
+Statistik Transaksi Perkhidmatan Tahun 2021
+Statistik Transaksi Perkhidmatan Tahun 2022
+STATISTIK TRANSAKSI PERKHIDMATAN TAHUN 2023
+STATISTIK TRANSAKSI PERKHIDMATAN TAHUN 2024
+STATISTIK TRANSAKSI PERKHIDMATAN TAHUN 2025
+STATISTIK TRANSAKSI PERKHIDMATAN TAHUN 2026
+Permohonan Dalam Talian
+Muat Turun Borang
+Borang Pertanyaan
+e-Buletin dan Penerbitan
+Galeri Gambar
+Keratan Akhbar
+Permohonan Baru Isteri Atau Suami Kepada Warganegara
+Permohonan Lanjutan Bagi Suami/Isteri Kepada Warganegara
+Peta Laman
+Pusat Kelulusan Setempat
+LandingPage-BM
+Semakan Dalam Talian
+Syarat dan Peraturan Kebenaran Bekerja Pasangan Warganegara
+Visa Dengan Rujukan (VDR)
+Tutorial Sistem Online
+Waktu Urusan
+Dokumen Perjalanan Terhad
+Pasport Malaysia Antarabangsa
+Pasport Menyeberang Sempadan Malaysia – Indonesia
+Sijil Perakuan Cemas (SPC)
+Pas Sempadan Malaysia – Thailand
+Pejabat Penerima dan Pengeluar Pasport
+Dokumen Gantian Perjalanan
+Pejabat Terhad Ke Brunei
+Malaysian Country Signing CA (CSCA)
+Surat Akuan Pengenalan
+eNTRI BAGI WARGA INDIA
+Ibu Pejabat Jabatan Imigresen Malaysia
+(Kementerian Dalam Negeri)
+No. 15, Tingkat 1-7, (Podium)
+Persiaran Perdana, Presint 2,
+62550 Putrajaya.
+T : 03-8000 8000 (MyGCC)
+ Hakcipta © 2021 | Jabatan Imigresen Malaysia (Kementerian Dalam Negeri)
+Paparan terbaik menggunakan pelayar terkini: Mozilla Firefox 4, Google Chrome atau Internet Explorer 10.0 ke atas, dengan resolusi melebihi 1024 x 768 
+Dasar Privasi
+Dasar Keselamatan
+Polisi Keselamatan Siber
+Penafian
+Bantuan
+Dasar Privasi
+Dasar Keselamatan
+Polisi Keselamatan Siber
+Penafian
+Bantuan
+ Laman Sosial : 
+ Skip to content
+ Open toolbar
+ Alat Kebolehcapaian
+Alat Kebolehcapaian
+ Besarkan TeksBesarkan Teks 
+ Kecilkan TeksKecilkan Teks 
+ Skala kelabuSkala kelabu 
+ Kontras tinggiKontras tinggi 
+ Kontras NegatifKontras Negatif 
+ Latarbelakang CerahLatarbelakang Cerah 
+ Pautan BergarisPautan Bergaris 
+ Font Boleh dibacaFont Boleh dibaca 
+ Reset
+ Reset

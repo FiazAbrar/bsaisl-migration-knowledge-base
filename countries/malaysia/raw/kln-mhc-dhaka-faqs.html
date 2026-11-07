@@ -1,0 +1,638 @@
+<!-- dynamic layout main/microsite -->
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ministry of Foreign Affairs Malaysia - Dhaka</title>
+
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS v4 via CDN -->
+    <link rel="preload" as="style" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" /><link rel="modulepreload" as="script" href="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" /><link rel="stylesheet" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" data-navigate-track="reload" /><script type="module" src="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" data-navigate-track="reload"></script>    <link rel="stylesheet" href="https://www.kln.gov.my/assets/chat-embed/css/chat-embed.css">
+
+    </head>
+
+<body class="min-h-screen flex flex-col m-0 font-sans bg-[#f8f9fa] text-[#495057]">
+
+<header class="shadow-[0_2px_5px_rgba(0,0,0,0.1)] relative z-1000">
+
+    <!-- Top Bar -->
+<div class="bg-[#032054] text-white py-2 text-[12px]">
+    <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-wrap justify-center sm:justify-between items-center gap-x-4 gap-y-1.5">
+
+        <div class="flex items-center gap-3">
+                            <a href="https://www.facebook.com/HCMalaysiaDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Facebook">
+                                            <i class="ri-facebook-box-fill text-base leading-none"></i>
+                                    </a>
+                            <a href="https://twitter.com/MYHCDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Twitter">
+                                            <i class="ri-twitter-x-line text-base leading-none"></i>
+                                    </a>
+                    </div>
+
+        <div class="flex flex-wrap justify-center items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/flag-malaysia.png" alt="Malaysia" class="h-4 rounded-xs" title="Malaysia">
+
+            <span class="text-white tabular-nums font-semibold"
+                  x-data="clock({ timezone: 'Asia/Kuala_Lumpur' })" x-text="displayDateTime"></span>
+
+                            <img src="https://www.kln.gov.my/uploads/office/01KWXPQ95W6R0QTX49HHSM9XRC/flag" alt="Bangladesh" class="h-4 rounded-xs" title="Bangladesh">
+            
+
+
+
+                            <span class="text-white tabular-nums font-semibold"
+                      x-data="clock({ timezone: 'Asia/Dhaka' })" x-text="displayDateTime"></span>
+            
+            <a href="https://kln.spab.gov.my/"
+               target="_blank" rel="noopener noreferrer"
+               class="bg-[#FFC72C] text-[#032054] font-bold px-3 py-1 rounded-[5px] no-underline text-[12px] hover:opacity-90 transition-opacity duration-200">
+                Feedback Us
+            </a>
+        </div>
+    </div>
+</div>
+
+    <!-- Main Nav -->
+<div class="bg-white py-[15px]">
+    <div class="max-w-[1600px] mx-auto px-10 flex justify-between items-center">
+
+        <!-- Hidden checkbox for mobile menu (no-JS toggle) -->
+        <input type="checkbox" id="menu-toggle-check" class="peer/menu sr-only">
+
+        <!-- Logo -->
+        <div class="flex items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="hidden h-12 md:block">
+            <div class="flex flex-col">
+                <span class="font-bold text-[18px] text-[#032054] leading-tight">
+                                            High Commission of Malaysia,
+                                        Dhaka
+                </span>
+                <span class="text-[14px] text-[#6c757d]">Ministry of Foreign Affairs, Malaysia</span>
+            </div>
+        </div>
+
+        <!-- Hamburger label (mobile) -->
+        <label for="menu-toggle-check" class="lg:hidden bg-transparent border-none cursor-pointer p-2.5" aria-label="Open menu">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" class="fill-[#333]">
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </label>
+
+        <!-- Nav Menu -->
+        <nav class="hidden peer-checked/menu:flex lg:flex flex-col lg:flex-row absolute lg:static top-full left-0 w-full lg:w-auto bg-white lg:bg-transparent shadow-md lg:shadow-none z-[1000]">
+            <ul class="flex flex-col lg:flex-row items-center list-none m-0 p-0 w-full lg:w-auto">
+
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#C8102E]">
+                            Home
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            About Us
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/history">
+                                            History
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/client_charter">
+                                            Client Charter
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/honorary_consul">
+                                            Honorary Consul(s)
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/location_map">
+                                            Location Map
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/holidays">
+                                            Public Holidays
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Staff
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/head_mission">
+                                            Head of Mission
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/home-based-staff">
+                                            Home Based Staff
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/agencies">
+                                            Agencies
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Services
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/mysafe-travel">
+                                            MySafe Travel
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/passport_renewal">
+                                            Consular Services
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/requirement_malaysians">
+                                            Visa Requirement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/news-from-mission"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            News
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Resources
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/documents">
+                                            Documents
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/forms">
+                                            Forms
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Notice
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/job_vacancy">
+                                            Job Vacancy
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/procurement">
+                                            Procurement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+<!-- /PART 1 END -->
+
+<!-- post lists -->
+    <main class="grow flex flex-col">
+
+        <section class="relative bg-[#032054] overflow-hidden" style="min-height: 140px;">
+
+            <!-- Floral/pattern overlay -->
+            <div class="absolute inset-0 bg-cover bg-center opacity-15 z-0"
+                 style="background-image: url('https://www.kln.gov.my/portal-kln/images/operation-rotate-scaled.png');"></div>
+
+            <!-- Diagonal accent stripe -->
+            <div class="absolute inset-0 z-0 overflow-hidden">
+                <div
+                    class="absolute -right-20 top-0 bottom-0 w-[45%] bg-[#C8102E]/20 skew-x-[-12deg] origin-top-right"></div>
+            </div>
+
+            <!-- Content -->
+            <div class="relative z-10 max-w-[1500px] mx-auto px-5 lg:px-10 py-10 flex flex-col justify-center gap-3">
+
+                <!-- Breadcrumb -->
+                <nav class="flex items-center gap-1.5 text-white/70 text-[13px]" aria-label="Breadcrumb">
+                    <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                       class="hover:text-white transition-colors duration-200 no-underline flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 576 512">
+                            <path
+                                d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                        </svg>
+                        <span>
+                            Home                        </span>
+                    </a>
+                                            <svg class="w-3 h-3 fill-current opacity-50 shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 320 512">
+                            <path
+                                d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                        </svg>
+                        <span class="text-white font-medium">
+                        Hyperlinks
+                    </span>
+                                    </nav>
+
+                <!-- Page Title -->
+                <div class="flex items-center gap-4">
+                    <div class="w-1 h-10 bg-[#C8102E] rounded-full shrink-0"></div>
+                    <h1 class="m-0 text-white text-[28px] md:text-[34px] font-black uppercase tracking-wide leading-tight">
+                        FAQs
+                    </h1>
+                </div>
+
+            </div>
+
+            <!-- Bottom wave divider -->
+            <div class="absolute -bottom-px left-0 w-full overflow-hidden leading-none z-10">
+                <svg class="relative block w-[calc(100%+1.3px)] h-[30px]"
+                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M0,60 C300,100 900,20 1200,60 L1200,120 L0,120 Z" class="fill-[#f8f9fa]"></path>
+                </svg>
+            </div>
+        </section>
+        <!-- /PART 2 END -->
+
+        <section class="py-10 bg-[#f8f9fa] flex-1">
+            <div class="max-w-[1500px] mx-auto px-5 lg:px-10">
+                <div class="flex flex-col lg:flex-row gap-8 items-start">
+
+                                            <aside class="w-full lg:w-60 shrink-0">
+    <div
+        class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden sticky top-[90px]">
+
+        <!-- Sidebar Header -->
+        <div class="bg-[#032054] px-5 py-4">
+            <h3 class="m-0 text-white text-[14px] font-bold uppercase tracking-wider flex items-center gap-2">
+                <svg class="w-4 h-4 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 512 512">
+                    <path
+                        d="M40 48C26.7 48 16 58.7 16 72v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V72c0-13.3-10.7-24-24-24H40zM192 64c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zM16 232v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V232c0-13.3-10.7-24-24-24H40c-13.3 0-24 10.7-24 24zM40 368c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V392c0-13.3-10.7-24-24-24H40z"/>
+                </svg>
+                Hyperlinks
+            </h3>
+        </div>
+
+        <!-- Item List -->
+        <ul class="list-none m-0 p-0">
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <span
+                                class="flex items-center justify-between px-5 py-3.5 bg-[#C8102E] text-white text-[14px] font-semibold cursor-default">
+                                <span class="flex items-center gap-2">
+                                                                        FAQs
+                                </span>
+                                <svg class="w-3 h-3 fill-current shrink-0"
+                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </span>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Privacy Policy
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Security Policy
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/site_map"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Site Map
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                    </ul>
+    </div>
+</aside>
+                    
+                                                                        
+                                
+                                <div class="flex-1 min-w-0 space-y-6">
+                                                                            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                                                                                        <div class="p-6">
+                                                                                                    <div class="ck-content"><p align="center" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-height:normal;background:white;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Frequently Asked Questions (FAQs)</span></span></span></strong></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <ol> <li style="margin-bottom:.0001pt;text-align:justify;background:white;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Prior to Application</span></span></span></strong></li> </ol> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q1:         I hold a Bangladesh passport and would like to visit Malaysia. Do I need a visa?</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A1:         Yes, a citizen of Bangladesh who seeks to enter Malaysia on a regular Bangladesh passport <strong>requires a visa</strong> to enter Malaysia. For more information on visa requirement for nationals of other countries, please check the website of Immigration Department of Malaysia at </span></span></span><span style="color:black;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;"><a href="http://www.imi.gov.my/"><span style="text-decoration:none;text-underline:none;"><span style="color:black;">www.imi.gov.my</span></span></a></span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q2:         Does holder of diplomatic/official passport of Bangladesh require a visa to go to Malaysia?</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A2:         Malaysia and Bangladesh have bilateral Agreement on Partial Abolition of Visa Requirement for Holders of Diplomatic and Official Passports dated 2014. Therefore, the holders of diplomatic and official passports of Bangladesh <strong>are exempted</strong> from visa requirement. The visit pass is issued on arrival in Malaysia for a stay of <strong><u>not exceeding 30 days</u></strong>. However, visa is still required in cases where visitor is going for other than social visit purpose such as for studies or to undertake work or training programs in Malaysia.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <ol> <li style="margin-bottom:.0001pt;text-align:justify;background:white;" value="2"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Submission of Visa Application</span></span></span></strong></li> </ol> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q1:         How do I apply for visa Malaysia? Is it necessary to go to the High Commission of Malaysia in Dhaka to apply for a visa?</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A1:         Visa application can be submitted through the Authorised Visa Application Agencies, which have been appointed by the Government of Malaysia to receive visa application on its behalf. Therefore there is <strong><u>no direct submission to the High Commission</u></strong>.  List of Authorised Visa Application Agencies and their contact details can be obtained from the website of High Commission of Malaysia in Dhaka. </span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q2:         What are Visa Without Reference and Visa With Reference (VDR)</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A2:         <strong>Visa without reference (VTR)</strong> is issued and approved by the High Commission of Malaysia for a non-citizen to enable visitor to enter Malaysia for a social visit purpose. Upon arrival, visitors will be given a social visit pass for a stay of not exceeding 30 days. A social visit pass is only for <strong><u>social visit purpose and it does not allow visitors to undertake any work, or work-related training programs or studies</u></strong> in Malaysia.</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa with reference (VDR</span></span></span></strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">) is issued by the High Commission of Malaysia to a non-citizen to enable visitor to enter Malaysia after the application is being referred and approved by the Immigration Department of Malaysia. It is required for students, expatriates, dependants and professionals on a visit pass.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q3:         What are the documents required for the application of visa?</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A3:         Documents required for visa application are as follows:</span></span></span></p> <table border="0" cellpadding="0" cellspacing="0" style="width:618px;margin-left:41.4pt;background:white;border-collapse:collapse;" width="0"> <tbody> <tr style="height:10px;"> <td style="width:300px;border:solid windowtext 1.0pt;background:#00B0F0;padding:0in 5.4pt 0in 5.4pt;height:10px;vertical-align:top;"> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa without Reference (Social Visit)</span></span></span></strong></p> </td> <td style="width:318px;border:solid windowtext 1.0pt;border-left:none;background:#00B0F0;padding:0in 5.4pt 0in 5.4pt;height:10px;vertical-align:top;"> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa with Reference (VDR)</span></span></span></strong></p> </td> </tr> <tr style="height:354px;"> <td style="width:300px;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:354px;vertical-align:top;"> <ol style="list-style-type:lower-roman;"> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Original Passport;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Photocopy of passport pages that contain personal details and detail of previous passport (if any);</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Duly completed visa application form;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Two (2) passport-sized photos;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Return flight ticket;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Recent 6 months bank statement with a letter of solvency;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Hotel reservation copy; and/or</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Additional documents (where applicable):</span></span></span></li> </ol> <ul> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Invitation letter from organizer or sponsor in Malaysia;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Photocopy of business registration (for business proprietor);</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Marriage certificate;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Birth Certificate (for minor applicants); and</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Other documents that processing officer may require.</span></span></span></li> </ul> </td> <td style="width:318px;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:354px;vertical-align:top;"> <p style="margin-bottom:8.0pt;text-align:justify;line-height:11.25pt;"> </p> <ol style="list-style-type:lower-roman;"> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Original passport;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Photocopy of passport pages that contain personal details and detail of previous passport (if any);</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Duly completed visa application form;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Two (2) passport-sized photos;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">VDR Approval letter from the Immigration Department of Malaysia;</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Flight ticket; and</span></span></span></li> <li style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;text-align:justify;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Other documents that processing officer may require.</span></span></span></li> </ol> <p style="margin-bottom:8.0pt;text-align:justify;line-height:11.25pt;"> </p> </td> </tr> </tbody> </table> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q4:         I would like to travel to Malaysia for a vacation, what is the type of visa that I need to apply for?               </span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A4:         You may apply for visa without reference (social visit). Upon arrival, visitors will be given a social visit pass for a stay of not exceeding 30 days. Bear in mind that a social visit pass is only for social visit purpose and it does not allow visitors to undertake any work, or work-related training programmes or studies in Malaysia.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q5:         I would like to attend a training program in Malaysia, is it possible for me to go using the social visit visa?</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A5:         No. Social visit pass does not allow visitors to undertake any work, or work-related training programs or studies in Malaysia. Organizers of any professional training programmes to be held in Malaysia must apply for the relevant professional training pass prior to the entry of the applicant into the country. Once the approval letter has been obtained from the Immigration Department of Malaysia, the applicant may submit their application for visa with reference to the High Commission of Malaysia.</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Note: Visit Pass (Professional) are issued to foreign nationals who wish to remain and provide specific professional visit for a short period in Malaysia.</span></span></span></strong></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q6:         I already have an approval letter to further study in Malaysia, how do I apply for entry visa?</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A6:         Applicants may apply for visa with reference (VDR) and submit the application to the Authorised Visa Application Agencies. Applicant must provide the original visa approval letter from Immigration Department of Malaysia through Education Malaysia Global Services (EMGS) and other documents as required.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q7:         I would like to go to Malaysia for a medical treatment, does the High Commission issue visa for that purpose?</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A7:         Visitor from Bangladesh who wishes to go to Malaysia for a medical treatment may apply for visa without reference (social visit) and submit application to the authorised official partners of Malaysian Healthcare Travel Council (MHTC) by providing appointment letter from the medical services provider in Malaysia that are registered with the MHTC (apart from regular documents required for visa application). The list of authorised partners of MHTC and their contact details can be obtained from the website of High Commission of Malaysia in Dhaka.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa without reference (VTR) for a social visit purpose will be issued for eligible applicant. Upon arrival, visitors will be given a social visit pass for a stay of not exceeding 30 days.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q8:         How much do I need to pay for a visa application and what is the payment mode?</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A8:         Fee and charges for visa application and the payment mode are as follows:</span></span></span></p> <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;"> <tbody> <tr> <td style="width:638px;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;vertical-align:top;"> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;"> *Visa Fee: according to the nationality</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Processing Fee: RM105</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">**Authorised Visa Application Agencies Fee:</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">***OSC Fee: </span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;background:white;"> </p> </td> </tr> <tr> <td style="width:638px;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;vertical-align:top;"> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Convenience Fee:  a. e-Commerce / Mastercard Payment (0.8% from the transaction amount)</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">                               b. eWallet: Alipay / WechatPay / UnionPay (1.7% from the transaction amount)</span></span></span></p> </td> </tr> </tbody> </table> <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Note: </span></span></span></em></strong></p> <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">*</span></span></span></em></strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Visa fee for Bangladesh passport is <strong>BDT600</strong>. Visa fee may vary according to nationality of the applicant</span></span></span></em></p> <p style="margin-top:3.75pt;margin-right:0in;margin-bottom:3.75pt;margin-left:0in;text-align:justify;line-height:normal;background:white;"><strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">**</span></span></span></em></strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">At the discretion of the Authorised Visa Application Agencies</span></span></span></em></p> <p style="margin-top:3.75pt;margin-right:0in;margin-bottom:3.75pt;margin-left:0in;text-align:justify;line-height:normal;background:white;"><strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">***</span></span></span></em></strong><em><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">OSC Fee amounted BDT2,300 is no longer applicable effective 14 February 2022</span></span></span></em></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q9:         What is the approval process for visa? </span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A9:         All visa applications are subject to the decision by the Immigration Department of Malaysia. Applicants may be required to supply additional information and/or extra documents in addition to the information/documents indicated as necessary or be called for an interview as part of the due diligence process before a decision can be made by the Immigration Department.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">In certain cases, a visa application may be rejected in the event that it does not meet the full </span></span></span><span style="color:black;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;"><a href="https://www.mofa.go.jp/j_info/visit/visa/procedure/issuance.html"><span style="text-decoration:none;text-underline:none;"><span style="color:black;">criteria for visa issuance</span></span></a></span></span></span><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">. The decision is fully at the <strong><u>discretion of the Immigration Department and the decision is final</u></strong>.</span></span></span></p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"> </p> <ol> <li style="margin-bottom:.0001pt;text-align:justify;background:white;" value="4"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Prior to Entering Malaysia</span></span></span></strong></li> </ol> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q1:         I want to postpone my trip to Malaysia.  Until when is my visa valid?       </span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A1:         There are two (2) types of visa; Single Entry Visa (SEV) and Multiple Entry Visa (MEV). SEV is valid for a single entry only and for a period of three (3) months from the date of issue. The visa becomes invalid as soon as the visitor enters Malaysia.  If a traveler is unable to perform the visit within three months, he or she will need to make a fresh visa application.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">MEV is valid for multiple entries and its validity is based on period as given ranging from three (3) months to twelve (12) months from the date of issue. Each entry is for a stay of not exceeding 30 days and the extension is not allowed. MEV may be issued to visitor who needs to travel to Malaysia on a frequent basis for a specific reason mainly for business purpose, government-to-government matters or for a long-term medical treatment in Malaysia etc. Applicant needs to request for MEV by stating valid reason of why MEV is necessary and provide relevant supporting documents. The issuance of MEV is to be considered on case-by-case basis and subject to the discretion of the High Commission of Malaysia.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q2:         Why was I denied entry to Malaysia even though I had a valid visa?</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A2:         As per international practice, a visa is only one of the requirements for visitors to gain entry into another country.  Therefore a visa does not guarantee entry into Malaysia and the Immigration officer at the entry point has the final authority to allow or deny entry to visitors.   There are cases whereby the person who makes the landing application is different from the person whose name is recorded on the visa. There are also cases where travelers are unable to provide satisfactory explanation to the Immigration officer concerning the activities they plan to engage upon entering Malaysia.</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:0in;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white;"><strong><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">5.            Other</span></span></span></strong></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"> </p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">Q1:         How do I contact the High Commission for further inquiries/clarification or complaints (if any) in relation to visa application?</span></span></span></p> <p style="margin-bottom:7.5pt;text-align:justify;line-height:normal;background:white;"><span style="color:#4E4E4E;"><span style="font-family:arial,sans-serif;"><span style="font-size:10.5pt;">A1:         Should applicants require further inquiries/clarification or complaints regarding visa application, they may contact the High Commission via email at dhaka@imi.gov.my.</span></span></span></p> <p> </p> <p style="text-align:justify;"> </p></div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+
+                                                                        
+                </div>
+            </div>
+        </section>
+        <!-- /PART 3 END -->
+    </main>
+
+<!--
+      Scroll to Top Button
+      - fixed bottom-5 left-5: positions it from the bottom left (away from the chatbot avatar)
+      - transition-all duration-300: smooth animation
+      - Default state (hidden): opacity-0, translate-y-10 (moved down), pointer-events-none (cannot be clicked)
+    -->
+<button
+    id="scrollToTopBtn"
+    class="fixed bottom-5 left-5 bg-brand-dark text-white p-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform translate-y-10 opacity-0 pointer-events-none flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-brand-orange focus:ring-offset-2 z-50 group"
+    aria-label="Scroll to top"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:-translate-y-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+</button>
+
+<footer class="relative z-[5]">
+
+    <!-- Main Footer (video background) -->
+    <div class="relative py-[60px] text-white overflow-hidden">
+        <div class="absolute inset-0 z-[1] overflow-hidden">
+            <video autoplay muted loop playsinline
+                   class="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover">
+                <source src="https://www.kln.gov.my/malawakil/images/Portal-KLN-Design-1.mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0" style="background: linear-gradient(to right, rgba(3,32,84,0.4), rgba(3,32,84,0.6));"></div>
+        </div>
+
+                                <div class="relative z-[3] max-w-[1600px] mx-auto px-5 lg:px-10">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-start">
+
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">Quick links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.miti.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Ministry of Investment, Trade and Industry (MITI)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.imi.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Immigration Department of Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.matrade.gov.my/en"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia External Trade Development Corporation (MATRADE)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.mida.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysian Investment Development Authority (MIDA)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysia.travel"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Tourism Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysiaairlines.com/en/home.html"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia Airlines</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">MFA Links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">MFA Official Portal</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/overseas-missions"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Embassies &amp; High Commissions</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/deputy-foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Deputy Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/secretary-general"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Secretary General</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                            
+                                                                                                        <div class="flex items-center gap-5 mt-2">
+                                            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="h-[70px]">
+                                            <div class="flex flex-col">
+                                                <span class="text-[18px] font-bold leading-[1.4] block">
+                                                                                                            High Commission of Malaysia,
+                                                                                                        Dhaka
+                                                </span>
+                                                <span class="text-[14px] opacity-80 block">Ministry of Foreign Affairs, Malaysia</span>
+                                            </div>
+                                        </div>
+                                                                                                </div>
+                    
+                </div>
+            </div>
+            </div>
+
+    <!-- Sub-footer -->
+    <div class="bg-[#021438] text-[#adb5bd] py-[15px] text-[12px]">
+        <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-col md:flex-row justify-between items-center gap-2 text-center md:text-left">
+            <div>
+                <p class="m-0">Best Viewed: Microsoft Edge, Google Chrome &amp; Mozilla Firefox latest version</p>
+                <p class="m-0">Last Updated: 06 November, 2026</p>
+            </div>
+            <div>
+                <p class="m-0">© 2026 Ministry of Foreign Affairs, Malaysia. All Rights Reserved.</p>
+            </div>
+            <div>
+                <p class="m-0">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/faqs"                                class="text-[#adb5bd] no-underline hover:underline">FAQs</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"                                class="text-[#adb5bd] no-underline hover:underline">Privacy Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"                                class="text-[#adb5bd] no-underline hover:underline">Security Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/site_map"                                class="text-[#adb5bd] no-underline hover:underline">Site Map</a>
+                                                                                        </p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<!-- /PART 6 END -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+        // Listen for scroll events on the window
+        window.addEventListener('scroll', () => {
+            // Show button when page is scrolled down 300px
+            if (window.scrollY > 300) {
+                // Remove hidden state classes
+                scrollToTopBtn.classList.remove('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Add visible state classes
+                scrollToTopBtn.classList.add('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            } else {
+                // Add hidden state classes
+                scrollToTopBtn.classList.add('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Remove visible state classes
+                scrollToTopBtn.classList.remove('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            }
+        });
+
+        // Smooth scroll to top when button is clicked
+        scrollToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+
+<script src="https://www.kln.gov.my/assets/chat-embed/js/chat-embed.js"></script>
+<div
+        x-data="chatEmbed({ storageKey: 'chat-embed-open:bgd_dhaka' })"
+        x-on:keydown.escape.window="setOpen(false)"
+        class="chat-embed"
+    >
+        <div x-show="open" x-cloak id="chat-embed-frame" class="chat-embed-frame">
+            <template x-if="loaded">
+                <iframe
+                    src="https://www.kln.gov.my/chat?site=bgd_dhaka"
+                    title="Putra"
+                    
+                    sandbox="allow-scripts allow-forms allow-same-origin allow-top-navigation-by-user-activation"
+                    referrerpolicy="same-origin"
+                    loading="lazy"
+                ></iframe>
+            </template>
+        </div>
+
+                    
+            <button
+                type="button"
+                x-show="! open"
+                x-ref="avatarLauncher"
+                @click="openAndFocus()"
+                aria-expanded="false"
+                aria-controls="chat-embed-frame"
+                aria-label="Ask Putra"
+                class="chat-embed-launcher"
+            >
+                <img src="https://www.kln.gov.my/uploads/chatbot/full-avatar?v=1789465108" alt="Putra" class="chat-embed-avatar">
+            </button>
+
+            <button
+                type="button"
+                x-show="open"
+                x-cloak
+                x-ref="closeLauncher"
+                @click="closeAndFocus()"
+                aria-expanded="true"
+                aria-controls="chat-embed-frame"
+                aria-label="Close"
+                class="chat-embed-close"
+            >
+                                    <img src="https://www.kln.gov.my/uploads/chatbot/avatar?v=1789465108" alt="Close">
+                            </button>
+            </div>
+
+</body>
+</html>

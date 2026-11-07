@@ -1,0 +1,28 @@
+/**
+ * @file
+ * Styles for Bootstrap Barrio affix effect.
+ */
+
+.affix {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1035;
+  left: 0;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:31 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:53 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.412
+  load_resource: 1454.391
+  PetaboxLoader3.resolve: 1425.246
+  PetaboxLoader3.datanode: 18.877
+*/

@@ -1,0 +1,491 @@
+PAGE META: DC.date: 2026-05-19 \| EM.effectiveDateStart: 2026-05-19 \| EM.effectiveDateEnd:
+
+### GEN 1.3  ENTRY, TRANSIT AND DEPARTURE OF PASSENGER AND CREW
+
+**PENINSULAR MALAYSIA**
+
+#### 1.3.1  CUSTOMS REQUIREMENTS
+
+1.3.1.1 Customs formalities are conducted in conformity with standard international procedures and, as far as possible, in accordance with the standard and recommended practices laid down by the World Customs Organization.
+
+1.3.1.2 Visitors entering Malaysia through the various entry points are required to declare all dutiable or prohibited goods in their possession. They are also required to open, unpack, and repack their luggage to facilitate customs inspection. This ruling applies to visitors arriving in Malaysia at first points of entry only. There are no customs duties for travel between Peninsular Malaysia and Sabah and Sarawak. The islands of Labuan in Sabah and Pulau Langkawi in Kedah are excluded from any customs duties because of their duty free status. No customs duties is payable on any goods imported into Labuan or Pulau Langkawi except rubber, marble, anchovies and petroleum products.
+
+1.3.1.3 Malaysian customs regulations provide stiff penalties for those who are found guilty of making false declarations or for concealing any dutiable or prohibited goods.
+
+1.3.1.4 At certain airports where the Green Channel System is being practised, visitors who are not in possession of any dutiable or prohibited goods except those allowed under the duty free allowances may go through the Green Channel. Visitors who are in possession of any prohibited or dutiable goods in excess of the duty free allowances to which they are entitled are advised to go through the normal channel and make their declaration to the Customs Officer on duty.
+
+1.3.1.5 Visitors must pay customs duties on all dutiable goods at the rate of 30% ad valorem that the goods are imported on or with the person entering Malaysia or in the baggage of such person intended for non-commercial use.
+
+1.3.1.6 In case of alcoholic beverages, tyres and tubes, spirit, tobacco and cigarettes and motor vehicles, the rate of duty will be the prevailing rate at the time of importation.
+
+1.3.1.7 The following are some goods which are dutiable in import:
+
+1.  Talcum powder and face powder.
+
+2.  Products for the care of hair (e.g. hair cream, shampoo, hair dyes).
+
+3.  Sound recorders and reproducers including record players and tape decks.
+
+4.  Radio broadcast receivers including those incorporating sound recorders or reproducers for motor.
+
+5.  Radio broadcast receivers whether or not incorporating sound recorders and reproducers.
+
+6.  Ball point pens of artificial plastic material.
+
+7.  Carpets other than those made of jute.
+
+8.  Textile articles.
+
+9.  Typewriters.
+
+10. Glassware.
+
+11. Telephones.
+
+12. Electric smoothing irons.
+
+13. Video cassette recorders.
+
+14. Slide projectors.
+
+15. Electric lamps and light fittings.
+
+16. Food grinders and mixers.
+
+17. Rice cooker.
+
+18. Electric kettles.
+
+19. Gramophone records.
+
+20. Razors and razor blades.
+
+21. Kitchen knives.
+
+22. Locks and padlocks.
+
+23. Lamp shades.
+
+24. Handbags.
+
+25. Playing cards.
+
+26. Fruits (fresh and preserved).
+
+27. Chocolates.
+
+28. Ginseng.
+
+29. Calendars.
+
+30. Car accessories.
+
+31. Footwear.
+
+32. Golf balls.
+
+1.3.1.8 The following goods do not attract any type of customs duties:
+
+1.  Fountain pens.
+
+2.  Cigarette lighters (except of plastic).
+
+3.  Printed books, newspapers and journals.
+
+4.  Perfumeries.
+
+5.  Cosmetics (except face powder) and skincare products e.g. lipsticks, eye shadows, moisturisers, skin tonics.
+
+6.  Manicure preparations e.g. nail polishers and varnishers, varnish removers.
+
+7.  Portable radios incorporating sound recorder or reproducers (weighing less than 10 kg, with handles/straps and
+
+8.  AC/DC powered.
+
+9.  Pocket watches, wrist watches and clocks.
+
+10. Carpets made of jute.
+
+11. Photographic cameras, photographic flashbulbs, photographic flashlight apparatus and films in rolls.
+
+12. Video tapes (blank or recorded)
+
+13. Cinematography cameras, projectors, sound recorder and sound reproducers, for films of less than 16 mm width including cameras for double 8 mm film.
+
+14. Video cameras and television cameras.
+
+15. Calculators
+
+16. Gold coins
+
+17. Computers
+
+18. Fishing equipment (eg. fishing rods, hooks etc)
+
+19. Golf clubs (complete)
+
+20. Racquets eg. tennis, badminton etc.
+
+21. Used personal effects
+
+1.3.1.9 Malaysians or visitors may import some goods duty free if they satisfy the following conditions;
+
+That the visitor satisfies the Customs Officer that he is not normally resident in Malaysia and intends to visit Malaysia for a period of not less than 72 hours. In the case of Malaysians, that the person had left the country for a period of not less than 72 hours. (For Federal Territory of Labuan, the period is 24 hours and Langkawi, the period is 48 hours).
+
+The allowances are:
+
+1.  Wine, spirits or malt liqour not exceeding 1 litre in all.
+
+2.  Tobacco not exceeding 225 grams (equivalent to 200 cigarettes)
+
+3.  Matches not exceeding 100 sticks.
+
+4.  Cosmetics, soaps and dentifrices, in open containers to a total value not exceeding RM200.
+
+5.  New wearing apparels not exceeding 3 pieces.
+
+6.  New footwear not exceeding one pair.
+
+7.  Portable electrically and battery operated appliances for personal care and hygiene not exceeding 1 unit each.
+
+8.  Dutiable food preparations to a total value not exceeding RM75.
+
+9.  Gifts and souvenirs to a total value not exceeding RM200 (except goods from Langkawi and Labuan, total value not exceeding RM500)
+
+10. Portable goods and equipment for private use.
+
+1.3.1.10 Malaysians or visitors who bring in more than the quantity allowed as specified above are required to pay full customs duties on the excess at 30% of the value.
+
+1.3.1.11 Visitors cannot transfer the benefit of their duty free allowances to another person. Duty free allowances cannot be pooled with the intention of importing articles in excess of the quantity allowed to an individual.
+
+1.3.1.12 Foreign travel writers and journalists may import equipment that are normally used by travel writers and journalists duty free provided. That the goods are identifiable to be normally used by travel writers and journalists in the course of their work. That the goods are exported immediately after the completion of such work.
+
+1.3.1.13 Visitor or tourist may import one motor vehicle or motorcycle duty free, subject to the following conditions:
+
+- That the vehicle has been registered by the authority responsible for registering or licensing such motor vehicles.
+
+- That in the case of a vehicle registered in a foreign country, it shall be exported within three months from the date from import.
+
+- Any other conditions the Director General of Customs may deem fit to impose.
+
+1.3.1.14 Visitors may bring in duty free trade samples that are not for sale and of no commercial value. They will, however, be required to justify the importation of such samples to the Customs Officer on duty.
+
+1.3.1.15 Visitors in possession of dutiable goods for personal use which are not exempted from customs duties, may deposit with the customs the amount equivalent to the customs duties payable at the rate 30% on such goods. Such depostis are refundable upon the visitors departure from the country, provided that the goods are reexported within three months from the date of importation. The goods are required to be produced at the time of departure to the Customs Officer on duty at the point of exit together with the deposit receipt.
+
+1.3.1.16 Duty Free Shops are found in most airports and selected major towns in Malaysia. A wide variety of goods are sold at these shops at very competitive prices. Duty free complexes are also found at most entry points. Visitors may purchase duty free items at these complexes but for purchases by arriving visitors the quantity is restricted to the duty free allowances that they are entitled to (see para 1.3.1.9). When buying at duty free shops other than at entry points visitors are required to produce their passports and other travel documents.
+
+1.3.1.17 The importation of the following goods is absolutely prohibited to protect certain industries, prevent the introduction of pests, plant and animal diseases and to control controversial publications:
+
+1.  Any article bearing the imprint or reproduction of any currency note, bank note, or coin which are current or have at any time been issued or current in any country.
+
+2.  Any emblem or device in circumstances which raise a reasonable presumption that such emblem or devise was intended or was likely to be used in a manner prejudicial to the interest of the Federation or to promote or foster a purpose prejudicial to or incompatible with peace, welfare or good order in the Federation.
+
+3.  Cocoa pods, rambutans, pulasan, longan, and nam-nam fruits from the Philippines and Indonesia.
+
+4.  Indecent or obscene prints, paintings, photographs, books, cards, lithographic or other engravings, films, video tapes, laser discs, colour slides, computer diskettes and any other media (including unprocessed films) or any other indecent or obscene articles.
+
+5.  All goods from Haiti.
+
+6.  All genus of Piranha fish.
+
+7.  Turtle eggs.
+
+8.  Daggers and flick knives.
+
+9.  Sodium arsenite.
+
+10. Intoxicating liquors containing any lead or compound of lead of more than 3.46 milligrams per litre, whether in the form of copper or any compound of copper.
+
+11. Broadcast receivers capable of receiving radio communication within the ranges (68-87) MHz and (108- 174) MHz except those designed to receive meteorological broadcasts at spot frequencies (except those for the use of the telecommunication authorities).
+
+12. Pens, pencils and other articles resembling syringes.
+
+13. Poisonous chemicals i.e. crocidolite, Polybrominated Biphenyls, Poly-chlorinated Biphenyls, Polychlorinated Terphenyls and Tris (2,3 - dibromopropyl) Phosphate.
+
+14. Cloth bearing the imprint or reproduction of any verses of the Quran.
+
+15. All multicolour copying machines including Rank Xerox 6500, Canon NP Colour T and Ricoh Colour 500.
+
+1.3.1.18 The importation of goods specified below is prohibited except under and by virtue of an import licence:
+
+1.  Any animal or bird, other than a domestic animal or domestic fowl, whether alive or dead or any part thereof including all animals and birds specified in any written law in Federation.
+
+2.  Meat extracts and meat juices.
+
+3.  Domestic animal, alive or dead or any part thereof, including edible meat offals.
+
+4.  Video machines, excluding game watches and video games for use with television receivers.
+
+5.  Rice and padi including rice flour, rice polishing, rice bran and rice vermicelli.
+
+6.  Radio communications apparatus capable of being used for telecommunication in the frequency band lower than 3000 GHz.
+
+7.  Fireworks (including fire crackers).
+
+8.  Imitation arms including toy guns and toy pistols.
+
+9.  Imitation hand grenades.
+
+10. Arms and ammunition as defined under the Arms Act 1960, other than personal arms and ammunition imported by bonafide travellers.
+
+11. Bullet-proof vests, steel helmets and other articles of clothing as protection against attack.
+
+12. Pests including any vertebrate or invertebrate animal.
+
+13. Soil including earth, ground or other natural occuring organic and mineral in which plants may be grown.
+
+14. Sugars.
+
+15. Safety helmets (except as worn by motor-cyclist or motorcycle pillion riders).
+
+16. Apparatus or equipment to be attached to or connected to a Public Telecommunication network or system.
+
+17. Household and agricultural pesticides.
+
+18. Electrical apparatus for domestic use operating at 50 volts or 120 volts DC and above such as Hi Fi sets, electric smoothing irons, food mixers, hair dryers, rice cookers, television sets, electric kettles etc.
+
+19. Motor vehicles.
+
+20. Cabbages (round).
+
+21. Batik sarong.
+
+22. Saccharin and its salts.
+
+23. Eggs in the shell.
+
+24. Poultry.
+
+25. Explosives.
+
+26. Live fish.
+
+27. Parabolic antennae for outdoor use.
+
+28. Pests and organisms which are capable of being injurious to plants.
+
+29. Milk and milk products.
+
+30. Animal oils and fats.
+
+31. Plants including any species of plant or any part thereof whether live or dead.
+
+32. Toxic and/or hazardous wastes.
+
+33. Corals, alive or dead.
+
+34. Apparatus/equipment for the brewing of beer in the home.
+
+The above list is not exhaustive. Kindly consult the Customs Officer on duty if you have any enquiries. Import licences may be obtained from the authorities as stated under the headings Customs (Prohibition of Imports) Order 1998 and Customs (Prohibition of Exports) Order 1998.
+
+1.3.1.19 Importation of films, laser discs, video tapes and CD Roms requires approval permits from the Film Censorship Board and subject to payment of fees to the National Film Development Corporation (FINAS). After such permit is obtained and fee is paid, Customs will release the goods to be sent to the Film Censorship Board for censorship purposes.
+
+1.3.1.20 Passengers via air importing films, laser discs, video tapes and CD Roms for personal viewing are not required to follow the above procedure. However, importation of these items are subject to screening by customs before release.
+
+1.3.1.21 The following can be contacted for further details:
+
+Post:
+
+Film Censorship Unit,\
+Ministry of Home Affairs,\
+Section ‘C’, 12th. Floor, AMDB Building, No.1 Damai Complex,\
+Jalan Lumut,\
+50400 Kuala Lumpur, Malaysia.
+
+Tel:  (+60) 3 4436122
+
+Fax:  (+60) 3 4437564
+
+Post:
+
+National Film Development Corporation (FINAS),\
+Merdeka Studio, Lot 1662,\
+Batu 6, Hulu Kelang,\
+68000 Ampang,\
+Selangor, Malaysia.
+
+Tel:  (+60) 3 4085722
+
+Fax:  (+60) 3 4075216
+
+1.3.1.22 Dangerous drugs (i.e. morphine, heroin, opium, ganja, etc.) are prohibited from both import and export. The punishment for drug smuggling is the death penalty. Dangerous drugs can only be imported into the country/exported from the country by virtue of a licence issued by the Ministry of Health, Malaysia.
+
+1.3.1.23 There is generally no restriction on the export of goods usually purchased by visitors such as wine, spirits, tobacco, cigarettes, cigars, perfume, watches, jewellery, wearing apparels, souvenirs and foodstuff. The following, however, are absolutely prohibited from export:
+
+1.  Turtle eggs.
+
+2.  Rattan from Peninsular Malaysia.
+
+1.3.1.24 The following are some of the goods prohibited from export except by virtue of an export licence:
+
+1.  Any animal or bird, other than a domestic animal or domestic fowl, whether dead or alive or any part thereof, including all animals and birds specified in any written law in Malaysia.
+
+2.  Collections and collectors pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, ethnographic or numismatic interest.
+
+3.  Poultry.
+
+4.  Sugars.
+
+5.  Cockles.
+
+6.  Live prawns/shrimps/fish.
+
+7.  Skins and other parts of birds.
+
+8.  Domestic animal, alive or dead, or any part thereof, including edible meat offals.
+
+9.  Any species of plant or any part thereof.
+
+10. Vegetables, fresh, chilled or frozen in excess of 3 kilograms per consignment.
+
+11. All oil palm living tissues.
+
+12. Military clothing and equipment.
+
+13. Arms and ammunition.
+
+14. Antiquities as defined or stated in any written law in Malaysia.
+
+15. Meat extracts and meat juices.
+
+16. All goods to Israel.
+
+17. Corals alive or dead.
+
+18. Eggs.
+
+19. Rice and padi.
+
+20. Toxic and hazardous wastes.
+
+The above list again is not exhaustive. Kindly check with the Customs Officer on duty should you have any doubts.
+
+#### 1.3.2  IMMIGRATION REQUIREMENTS
+
+1.3.2.1 Immigration into Peninsular Malaysia is governed by the Immigration Act 1959/1963 and the Regulations made thereunder and the Passports Act 1966. Enforcement is in the hands of the Department of Immigration.
+
+1.3.2.2 All passengers require passports or other internationally recognised travel documents except:
+
+1.  Members of any visiting forces within the meaning of any law for the time being in force regulating visiting forces present in the Federation;
+
+2.  Bonafide Muslim pilgrims permanently resident in Malaysia, Singapore and Brunei returning from Saudi Arabia.
+
+1.3.2.3 Flight crew members will be accorded temporary admission during an acft stay in any airport on production of either licences or valid crew member certificates issued by the State or Registry to the aircraft.
+
+1.3.2.4 All passengers, whether intending to remain in Peninsular Malaysia permanently, visiting or in transit (other than direct transit as indicated in para 1.3.2.4 below), require visas except:
+
+1.  Citizens from Commonwealth countries or British protectorate or citizens of the Republic of Ireland; (except Bangladesh, India, Pakistan and Sri Lanka).
+
+2.  Those persons exempted under para 1.3. 2.2 above;
+
+3.  Nationals of Liechtenstein, Netherlands, San Marino and Switzerland;
+
+4.  Nationals of Albania, Argentina, Austria, Belgium, Bosnia-Herzegovina, Czech Republic, Slovakia, Denmark, France, Finland, Germany, Hungary, Iceland, Italy, Japan, Kyrgyzstan, Luxembourg, Norway, Peru, South Korea, Sweden, Tunisia, Turkmenistan and Spain entering in transit or for a temporary stay not exceeding three months other than for employment;
+
+5.  Citizens of the United States of America arriving for a temporary stay or for any purpose other than employment.
+
+6.  Citizens of Asian countries from Indonesia, Philippines and Thailand (except Singapore and Brunei) for stay not exceeding one (1) month for social and business purpose;
+
+7.  Citizens of West Asia countries from Algeria, Bahrain, United Arab Emirates, Jordan, Kuwait, Lebanon, Egypt, Morocco, Oman, Qatar, Saudi Arabia, Turkey and Yemen entering in transit, visiting not exceeding three (3) months while citizen from Afghanistan, Iran, Libya and Syria for a period not exceeding fourteen (14) days;
+
+8.  Citizens from Bulgaria, Romania, Latvia, Lithuania, Estonia, Georgia, Russia, Belarus, Ukraine, Uzbekistan, Kazakhstan, Kyrgyzstan, Tajikistan, Azerbaijan and Moldovia entering for short visit not exceeding seven (7) days;
+
+9.  Citizens not classified in the countries stated above (except Bangladesh, Bhutan, Cuba, India, North Korea, Myanmar, Nepal, Pakistan, Peoples Republic of China, Sri Lanka, Taiwan and Vietnam) entering in transit, social visit for a stay not exceeding one (1) month;
+
+10. Passengers in transit to the third country entering Malaysia for duration of not more than 72 hours entering and leaving through same Airport (point of entry);
+
+1.3.2.5 Passengers in direct transits (i.e. proceeding through Peninsular Malaysia by the same aircraft) do not require visas.
+
+1.3.2.6 The examining Immigration Officer may refuse permission to land any person not in possession of a valid travel document and visa as specified in the preceding paragraphs.
+
+Note: Airline companies, in their own interests, should not book passengers unless they are in possession of the necessary documents as they will be held responsible for the maintenance and removal from Peninsular Malaysia of any person refused permission to land.
+
+1.3.2.7 The Immigration Officer may require any arriving passenger to show evidence of means of support and onward passage to a destination outside Malaysia.
+
+#### 1.3.3  PUBLIC HEALTH REQUIREMENTS
+
+1.3.3.1 Strict compliance with the provisions of the International Health Regulations, 1969 and Prevention and Control Of Infectious Diseases Act 1988, Regulations 1993 to prevent the entry of infectious diseases into Malaysia.
+
+1.3.3.2 The pilot-in-command of an aircraft landing at a Peninsular Malaysia Airport shall furnish the Airport Health Officer with one copy of the General Declaration Form, and if passengers are manifested separately, one copy of the Passenger Manifest signed by the pilot-in- command.
+
+1.3.3.3 Disembarking passengers are not required to present vaccinations certificates except when coming directly or indirectly from an area infected with Yellow Fever.
+
+1.3.3.4 On departure, no health formalities are required.
+
+1.3.3.5 The pilot-in-command must ensure that all aircraft on international flights from yellow fever epidemic countries are adequately disinfected prior to arrival at Malaysian Airports using either the 'blocks away' method or the Dichlorvous Vapour System for the Disinfecting of Aircraft, and must furnish evidence that this has been done. The Health Authority may disinfect aircraft on landing before passengers are allowed to disembark, if disinfection has not been done to the satisfaction of the Airport Health Officer.
+
+1.3.3.6 The Health Authority does not require a passenger on an International voyage to have a valid certificate of vaccination against cholera. If a case of cholera has occurred on board, the Health Authority may apply surveillance or isolation of suspects among the passengers or crew for a period not exceeding five days reckoned from the date of disembarkation.
+
+1.3.3.7 Any person, coming through or from a Yellow Fever epidemic area, or infected local area, who is not in possession of a valid certificate of vaccination against Yellow Fever will be quarantined for a period of not more than six days reckoned from the date of the last possible exposure. A child below 1 year of age is excluded from this requirement.
+
+1.3.3.8 The validity of international Certificate of Vaccination against Yellow Fever is as follows:
+
+A period of 10 years, beginning ten days after the date of vaccination, or in the event of a revaccination within such period of ten years, from the date of that revaccination.
+
+1.3.3.9 The Health Authority may subject to medical examination any person or aircraft on arrival, or prior to departure, on an international voyage. The Health Authority may also take such samples as may be necessary for the purpose of determining the state of health of such person or the sanitary condition of the aircraft.
+
+1.3.3.10 Problematic use of psychoactive substances.
+
+1.3.3.10.1 No person whose function is critical to the safety of aviation (safety-sensitive personnel) shall undertake that function while under the influence of any psychoactive substance, by reason of which human performance is impaired. No such person shall engage in any kind of problematic use of substances.
+
+#### 1.3.4  PLANT QUARANTINE REQUIREMENTS
+
+1.3.4.1 Passengers are kindly requested to declare to the Plant Quarantine officers or to the Custom Officers, any plant or parts of a plant (dead or alive) such as seeds, flowers, stems, roots and fruits, soil samples rooting / growing media compost, organic fertilisers, cultures of fungi, bacteria and viruses, insects or any other vertebrate animals in their possession, upon arrival. An import permit is required for most of these items.
+
+1.3.4.2 Passengers who arrive from, or during the last 30 days were on visits to any country in the American Tropics, the Caribbean and Central Africa are kindly requested to report to the Plant Quarantine office at the airport upon arrival.
+
+1.3.4.3 Bringing in of the fruits of rambutan, pulasan, longan, nam-nam and cocoa pods from Philippines, Indonesia, Sabah, Sarawak and Labuan, is absolutely prohibited.
+
+1.3.4.4 Bringing in of soils, pests, plant materials and products from West Africa, American Tropics and the Caribbean, is strictly prohibited except for the purpose of research / with prior approval.
+
+1.3.4.5 All agricultural products and produce brought in by passengers are subject to plant quarantine inspection and clearance.
+
+1.3.4.6 Any agricultural products / produce that is found to be infested with pests / diseases / soil upon inspection will be subjected to either treatments, entry being refused or destruction by the Plant Quarantine Authority.
+
+1.3.4.7 Any person who contravenes any provision of the Plant Quarantine Regulations 1981, is liable for prosecution and if guilty of an offence shall be fined not exceeding RM10,000 (Ringgit Malaysia Ten Thousand) or imprisonment not exceeding six months or both.
+
+Note: The Airline Crew is to notify or hand over all agricultural items left by passengers on board the plane to the Plant Quarantine Authority for the purpose of destruction.
+
+#### 1.3.5  Currency Control Requirements
+
+1.3.5.1 Import and Export of Currency by Travellers
+
+1.3.5.1.1 All travellers are required to complete Traveller Declaration Forms (TDF) at the Customs check-point or carry valid Traveller Declaration Pass upon leaving or arriving at Malaysia.
+
+1.3.5.1.2 Resident and non-resident travellers are allowed to carry ringgit notes up to RM1,000 (Ringgit Malaysia One Thousand) on person or in their baggage, upon arrival in or departure from Malaysia.
+
+1.3.5.1.3 A resident traveller is freely allowed to take out foreign currency notes, including traveller’s cheques, up to the equivalent of RM10,000 (Ringgit Malaysia Ten Thousand) per person.
+
+1.3.5.1.4 Non-resident traveller is allowed to take out foreign currency notes, including traveller’s cheques, up to amount brought into Malaysia.
+
+1.3.5.1.5 Resident and non-resident travellers are allowed to bring in any amount of foreign currency notes, including traveller’s cheques, upon their arrival in Malaysia.
+
+1.3.5.1.6 Prior permission of the Controller of Foreign Exchange is required for:
+
+1.  a traveller to export or import ringgit notes, or to export foreign currency exceeding the permitted limits; and
+
+2.  any person other than a traveller to export or import foreign currency or ringgit notes irrespective of amount.
+
+**SABAH / SARAWAK (EAST MALAYSIA)**
+
+#### 1.3.6  CUSTOMS REQUIREMENTS
+
+1.3.6.1 The Custom requirements for entry into Sabah and Sarawak are the same as those required for entry into Peninsular Malaysia. The Customs Act 1967 and Order made thereunder will apply.
+
+1.3.6.2 All passengers and crew, except transit passengers who do not leave the transit wing, must present themselves together with their baggage to Customs and make verbal declarations. All goods are liable to examination prior to release. Goods requiring a licence will be detained by Customs pending production of the licence.
+
+#### 1.3.7  IMMIGRATION REQUIREMENTS
+
+1.3.7.1 The Immigration requirements for entry into Sabah and Sarawak are the same as those required for entry into Peninsular Malaysia. The Immigration Act 1959/1963 and the Regulations and Orders made thereunder and the Passports Act 1966 will apply. In addition, the Immigration Act 1959/1963 provides, as an immigration special law, to control inter-state travelling within Peninsular Malaysia, Sabah and Sarawak. Enforcement is in the hands of the Department of Immigration.
+
+1.3.7.2 Travelling between the States of Sabah, Sarawak and Peninsular Malaysia requires valid passports but no visas are required.
+
+#### 1.3.8  PUBLIC HEALTH REQUIREMENTS
+
+1.3.8.1 The Health requirements for the State of Sabah and Sarawak are similar to those of Peninsular Malaysia.
+
+\
+![](../../graphics/ID_143616.gif)
+
+\
+![](../../graphics/ID_143619.gif)

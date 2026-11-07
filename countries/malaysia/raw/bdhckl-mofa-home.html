@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+html{
+--color-primary-bg:#00A63E;
+--color-primary-light:#2DAB5B;
+--color-primary-dark:#008532;
+--color-primary-text:#ffffff;
+--color-secondary-bg:#DC2626;
+--color-secondary-light:#FEF2F2;
+--color-secondary-dark:#ED3131;
+--color-secondary-text:#ffffff;
+--color-normal-bg:#ffffff;
+--color-normal-light:#f0f0f0;
+--color-normal-dark:#e0e0e0;
+--color-normal-text:#000000;
+--color-dark-bg:#000000;
+--color-dark-light:#202020;
+--color-dark-dark:#404040;
+--color-dark-text:#ffffff;
+--color-success-bg:#28a745;
+--color-success-text:#ffffff;
+--color-danger-bg:#dc3545;
+--color-danger-text:#dc3545;
+--color-warning-bg:#FF6600;
+--color-warning-text:#FF6600;
+--color-info-bg:#17a2b8;
+--color-info-text:#ffffff;
+--color-link-normal:#1568b2;
+--color-link-dark:#1b81dd;
+--color-border-normal:#d0d0d0;
+--color-border-dark:#909090;
+--color-widget-title:#202B5D;
+--color-widget-subtitle:#62718D;
+--color-content-dark:#1E202C;
+--color-content-normal:#313545;
+--background-primary-image:url(/site-assets/images/bg.png);
+--background-primary-repeat:repeat;
+--background-primary-position:center center;
+--background-primary-color:#ffffff;
+--background-secondary-image:url(/site-assets/images/bg.png);
+--background-secondary-repeat:repeat;
+--background-secondary-position:center center;
+--background-secondary-color:#ffffff;
+--container-small:600px;
+--container-medium:900px;
+--container-large:1200px;
+--spacing-small:8px;
+--spacing-medium:16px;
+--spacing-large:24px;
+--radius-small:4px;
+--radius-medium:8px;
+--radius-large:16px;
+--shadow-small:0px 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium:0px 4px 8px rgba(0, 0, 0, 0.1);
+--shadow-large:0px 8px 16px rgba(0, 0, 0, 0.1);
+--text-small:0.75rem;
+--text-medium:0.9rem;
+--text-large:1.25rem;
+--font-heading-en:Roboto-Regular, sans-serif;
+--font-heading-bn:NotoSansBengali-Regular, sans-serif;
+--font-primary-en:Roboto-Regular, sans-serif;
+--font-primary-bn:NotoSansBengali-Regular, sans-serif;
+--font-secondary-en:Roboto-Regular, sans-serif;
+--font-secondary-bn:NotoSansBengali-Regular, sans-serif;
+--typography-h1-font-family:var(--font-heading);
+--typography-h1-font-weight:700;
+--typography-h1-font-size:32px;
+--typography-h1-line-height:1.2;
+--typography-h2-font-family:var(--font-heading);
+--typography-h2-font-weight:700;
+--typography-h2-font-size:28px;
+--typography-h2-line-height:1.2;
+--typography-h3-font-family:var(--font-heading);
+--typography-h3-font-weight:600;
+--typography-h3-font-size:24px;
+--typography-h3-line-height:1.5;
+--typography-h4-font-family:var(--font-heading);
+--typography-h4-font-weight:500;
+--typography-h4-font-size:20px;
+--typography-h4-line-height:1.5;
+--typography-h5-font-family:var(--font-heading);
+--typography-h5-font-weight:500;
+--typography-h5-font-size:18px;
+--typography-h5-line-height:1.5;
+--typography-h6-font-family:var(--font-heading);
+--typography-h6-font-weight:400;
+--typography-h6-font-size:16px;
+--typography-h6-line-height:1.5;
+--typography-body-font-family:var(--font-primary);
+--typography-body-font-weight:400;
+--typography-body-font-size:14px;
+--typography-body-line-height:1.2;
+--typography-p-font-family:var(--font-primary);
+--typography-p-font-weight:400;
+--typography-p-font-size:14px;
+--typography-p-line-height:1.2;
+--typography-a-font-family:var(--font-secondary);
+--typography-a-font-weight:400;
+--typography-a-font-size:14px;
+--typography-a-line-height:1.2;
+}
+html,html[lang="en"]{
+--font-heading:Roboto-Regular, sans-serif;
+--font-primary:Roboto-Regular, sans-serif;
+--font-secondary:Roboto-Regular, sans-serif;
+}
+html[lang="bn"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+
+/* ===== CONTAINER ===== */
+body{overflow-x:hidden;}
+.col{flex:0 0 auto;}
+.container-row,.widget-container-row{
+  --col-gutter-x: var(--spacing-medium);
+  --col-gutter-y:0;
+  /*
+  --col-gutter-y: var(--spacing-medium);
+  */
+  display:flex;
+  flex-wrap:wrap;
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-right:calc(-.5 * var(--col-gutter-x));
+  margin-left:calc(-.5 * var(--col-gutter-x))
+  /*
+  width:calc(100% + var(--col-gutter-x));
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-left:calc(-1 * var(--col-gutter-x));
+  */
+}
+.container-row>*,.widget-container-row>*{
+  box-sizing:border-box;
+  flex-shrink:0;
+  width:100%;
+  max-width:100%;
+  padding-right:calc(var(--col-gutter-x) * .5);
+  padding-left:calc(var(--col-gutter-x) * .5);
+  margin-top:var(--col-gutter-y)
+  /*
+  width:calc(100% - var(--col-gutter-x));
+  max-width:calc(100% - var(--col-gutter-x));
+  margin-top:var(--col-gutter-y);
+  margin-left:var(--col-gutter-x);
+  */
+}
+
+@media (min-width:600px) {
+  .container-col-1{width:8.3333%;}
+  .container-col-2{width:16.666%;}
+  .container-col-3{width:25%;}
+  .container-col-4{width:33.333%;}
+  .container-col-5{width:41.666%;}
+  .container-col-6{width:50%;}
+  .container-col-7{width:58.333%;}
+  .container-col-8{width:66.666%;}
+  .container-col-9{width:75%;}
+  .container-col-10{width:83.333%;}
+  .container-col-11{width:91.666%;}
+  .container-col-12{width:100%;}
+}
+
+  </style>
+  <!-- analytics script -->
+  <!-- Matomo Id n/a -->
+  <script defer data-domain="kualalumpur.mofa.gov.bd" src="https://analytics-plausible.portal.gov.bd/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <link rel="stylesheet" href="/site-assets/css/phosphor.css">
+  <link rel="stylesheet" href="/site-assets/css/phosphor-fill.css">
+  <link rel="stylesheet" href="/site-assets/css/index.css">
+  <link rel="stylesheet" href="/widget-assets/css/SimpleHeaderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/LanguageSwitcherWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusSliderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EmbassyBannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/BannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MofaAmbassadorWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MofaDynamicServiceBoxWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MofaLatestNewsWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ThumbnailPhotoGalleryVersionTwoWidget">
+  <link rel="stylesheet" href="/widget-assets/css/AccessibilityWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GoToTopWidget">
+  <link rel="stylesheet" href="/widget-assets/css/NewLandingFooterWidget">
+  <style>/* END */</style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+
+  <!-- RENDERING 6922f81a003631e6b5c0eaf9 : 1793971304242 -->
+  <title>Home | High Commission for the People’s Republic of Bangladesh, Kuala Lumpur</title>
+  <meta name="description" content=""/>
+  <meta name="keywords" content="Home, High Commission for the People’s Republic of Bangladesh, Kuala Lumpur, http://kualalumpur.mofa.gov.bd, Bangladesh, Bangladesh National Portal, Government of the People's Republic of Bangladesh, গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <link rel="canonical" href="http://kualalumpur.mofa.gov.bd/"/>
+  <link rel="icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/png" href="/site-assets/images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="http://kualalumpur.mofa.gov.bd/site-assets/images/favicon.png"/>
+  <meta name="author" content="High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"/>
+  <meta property="fb:app_id" content="..............."/>
+  <meta property="og:url" content="http://kualalumpur.mofa.gov.bd/"/>
+  <meta property="og:site_name" content="High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:article:section" content="Home | High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"/>
+  <meta property="og:article:author" content="High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"/>
+  <meta property="og:article:tag" content="High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"/>
+  <meta property="og:article:tag" content="Bangladesh"/>
+  <meta property="og:article:tag" content="Bangladesh National Portal"/>
+  <meta property="og:article:tag" content="Government of the People's Republic of Bangladesh"/>
+  <meta property="og:article:tag" content="গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <meta property="og:title" content="Home | High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="687"/>
+  <meta property="og:image:height" content="570"/>
+  <meta property="og:image:secure_url" content="http://kualalumpur.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta property="og:image" content="http://kualalumpur.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div class="container">
+  <div class="header"><div data-section_type="header" class="droppable">
+        
+         <div data-widget_type="widget" data-widget_name="SimpleHeaderWidget" class="widget simple-header-widget"> <div class="simple-header-container"> <div class="simple-header-left"> <a href="/" class="logo-link"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-title-wrapper"> <a class="header-title" href="/" title="High Commission for the People’s Republic of Bangladesh, Kuala Lumpur"> <span class="title-text"> High Commission for the People’s Republic of Bangladesh, Kuala Lumpur </span> </a> </div> </div> <div class="simple-header-right"> <div class="date-section"> <i class="ph ph-calendar-dots"></i> <span class="date-text">06 / 11 / 2026, 09:21 pm</span> </div> <div class='widget language-switcher-widget'> <input type="hidden" name="lang" id="8565049701" value="en" /> <button type="button" id="574892719" data-type="en" class="btn-lang-change" onclick="window.toggleLanguage('574892719', '8565049701')"> বাংলা </button> </div> </div> </div> </div> 
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="MenusSliderWidget" class="widget menus-slider-widget max-view"> <div class="expand-btn home-btn" style="display: none"> <a href="/" title="Home"><i class="ph ph-house"></i></a> </div> <div class="expand-btn prev-btn" style="display: none"> <span title="Previous"><i class="ph ph-arrow-fat-left"></i></span> </div> <div class="menus-widget-container" style="--home-label:'Home';"> <section class="widget menu-widget"> <span id="menu-toggle" class="hamburger-menu-block"> <icon class="hamburger-menu ph ph-list"></icon> <span>Select Menu</span> </span> <ul class="menu-list menu-parent-unordered-list custom-items-center"> <li class="megamenu-link "> <a class="menu-parent-list-link home-link" href="/"> </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" About Us" href="" class="menu-parent-list-link"> About Us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" About Us" class="menu-child-title"> <a title="About Us" href="#"> <div>About Us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" High Commissioner" class="menu-sub-child-link" href="/pages/static-pages/high-commissioner-9bd8a4-6952667235ce18e1c05a92d0" > <div>High Commissioner</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Officers In the High commission" class="menu-sub-child-link" href="/pages/static-pages/695266af35ce18e1c05aac77" > <div>Officers In the High commission</div> </a> </li> <li class="menu-sub-child-list"> <a title=" List of Holidays" class="menu-sub-child-link" href="/pages/static-pages/6952668535ce18e1c05a9c39" > <div>List of Holidays</div> </a> </li> <li class="menu-sub-child-list"> <a title=" About Bangladesh" class="menu-sub-child-link" href="" > <div>About Bangladesh</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Bilateral Relation" href="" class="menu-parent-list-link"> Bilateral Relation <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Bilateral Relation" class="menu-child-title"> <a title="Bilateral Relation" href="#"> <div>Bilateral Relation</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" BANGLADESH - MALAYSIA BILATERAL RELATIONS" class="menu-sub-child-link" href="/pages/static-pages/6952667435ce18e1c05a939a" > <div>BANGLADESH - MALAYSIA BILATERAL RELATIONS</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Labour Wing" href="" class="menu-parent-list-link"> Labour Wing <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Labour Wing" class="menu-child-title"> <a title="Labour Wing" href="#"> <div>Labour Wing</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Travel Permit (TP) ENG &amp; BANG" class="menu-sub-child-link" href="/pages/static-pages/695266b235ce18e1c05aad3c" > <div>Travel Permit (TP) ENG &amp; BANG</div> </a> </li> <li class="menu-sub-child-list"> <a title=" NOC for the repatriation of mortal remains ENG &amp; BAN" class="menu-sub-child-link" href="/pages/static-pages/6952669235ce18e1c05aa1de" > <div>NOC for the repatriation of mortal remains ENG &amp; BAN</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Contract Form of Employment Under MOU 2021" class="menu-sub-child-link" href="/pages/files/69526641a31054345f102f90" > <div>Contract Form of Employment Under MOU 2021</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Important Notice for Employers 2023" class="menu-sub-child-link" href="/pages/static-pages/695266a635ce18e1c05aa952" > <div>Important Notice for Employers 2023</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Checklist/Required Documents and Information for Attestation" class="menu-sub-child-link" href="/pages/files/69526646a31054345f1031f1" > <div>Checklist/Required Documents and Information for Attestation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" FAQ: শ্রম কল্যাণ উইং এর সেবা সংক্রান্ত বিভিন্ন প্রশ্নের উত্তর :" class="menu-sub-child-link" href="/pages/static-pages/6952668235ce18e1c05a9aab" > <div>FAQ: শ্রম কল্যাণ উইং এর সেবা সংক্রান্ত বিভিন্ন প্রশ্নের উত্তর :</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Consular Service" href="" class="menu-parent-list-link"> Consular Service <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Consular Service" class="menu-child-title"> <a title="Consular Service" href="#"> <div>Consular Service</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Consular Services &amp; Fees" class="menu-sub-child-link" href="/pages/static-pages/695266a235ce18e1c05aa7d5" > <div>Consular Services &amp; Fees</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Visa" class="menu-child-title"> <a title="Visa" href="#"> <div>Visa</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Visa Information" class="menu-sub-child-link" href="/pages/static-pages/6952668535ce18e1c05a9c49" > <div>Visa Information</div> </a> </li> <li class="menu-sub-child-list"> <a title=" How to Apply for Visa" class="menu-sub-child-link" href="/pages/static-pages/6952669135ce18e1c05aa1a7" > <div>How to Apply for Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Requirements for Visa Application" class="menu-sub-child-link" href="/pages/static-pages/695266af35ce18e1c05aac4e" > <div>Requirements for Visa Application</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Visa Fee and payment method" class="menu-sub-child-link" href="/pages/static-pages/6952667a35ce18e1c05a96ee" > <div>Visa Fee and payment method</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Tourist visa" class="menu-sub-child-link" href="/pages/static-pages/695266aa35ce18e1c05aaa7e" > <div>Tourist visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Tabligh (Ijtema) Visa" class="menu-sub-child-link" href="/pages/static-pages/6952667935ce18e1c05a9663" > <div>Tabligh (Ijtema) Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Business visa" class="menu-sub-child-link" href="/pages/static-pages/695266ae35ce18e1c05aac22" > <div>Business visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Employment/Work visa" class="menu-sub-child-link" href="/pages/static-pages/6952667d35ce18e1c05a9867" > <div>Employment/Work visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Family Visa" class="menu-sub-child-link" href="/pages/static-pages/6952667a35ce18e1c05a96d4" > <div>Family Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" NGO Visa" class="menu-sub-child-link" href="/pages/static-pages/6952667135ce18e1c05a9225" > <div>NGO Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" No Visa Required (NVR)" class="menu-sub-child-link" href="/pages/static-pages/695266a435ce18e1c05aa85c" > <div>No Visa Required (NVR)</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Student Visa" class="menu-sub-child-link" href="/pages/static-pages/695266ab35ce18e1c05aaaf5" > <div>Student Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Investor Visa" class="menu-sub-child-link" href="" > <div>Investor Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Missionary Visa" class="menu-sub-child-link" href="/pages/static-pages/695266a235ce18e1c05aa7c5" > <div>Missionary Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Diplomatic and Official Visa" class="menu-sub-child-link" href="/pages/static-pages/695266a935ce18e1c05aaa33" > <div>Diplomatic and Official Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Media personnel/ Journalist Visa" class="menu-sub-child-link" href="/pages/static-pages/695266aa35ce18e1c05aaa64" > <div>Media personnel/ Journalist Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Research/Internship/Training" class="menu-sub-child-link" href="/pages/static-pages/6952669c35ce18e1c05aa584" > <div>Research/Internship/Training</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Passport" class="menu-child-title"> <a title="Passport" href="#"> <div>Passport</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Newborn Baby - E-Passport (ePP) এর জন্য আবেদন সংক্রান্ত তথ্যঃ" class="menu-sub-child-link" href="/pages/static-pages/6952667535ce18e1c05a9403" > <div>Newborn Baby - E-Passport (ePP) এর জন্য আবেদন সংক্রান্ত তথ্যঃ</div> </a> </li> <li class="menu-sub-child-list"> <a title=" E- Passport (ই-পাসপোর্ট) Information" class="menu-sub-child-link" href="/pages/static-pages/6952667a35ce18e1c05a96a3" > <div>E- Passport (ই-পাসপোর্ট) Information</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Commercial wing" class="menu-child-title"> <a title="Commercial wing" href="#"> <div>Commercial wing</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Legalization of Commercial Documents" class="menu-sub-child-link" href="/pages/static-pages/6952669f35ce18e1c05aa679" > <div>Legalization of Commercial Documents</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" e-Consular" class="menu-child-title"> <a title="e-Consular" href="#"> <div>e-Consular</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Book an Appointment" class="menu-sub-child-link" href="" > <div>Book an Appointment</div> </a> <ul class="menu-sub-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-sub-child-list"> <a title=" Passport" class="menu-sub-sub-child-link" href="/pages/static-pages/695266a835ce18e1c05aa9be" > <div>Passport</div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" Visa" class="menu-sub-sub-child-link" href="" > <div>Visa</div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" Other Services" class="menu-sub-sub-child-link" href="" > <div>Other Services</div> </a> </li> </ul> </li> <li class="menu-sub-child-list"> <a title=" Check Status" class="menu-sub-child-link" href="" > <div>Check Status</div> </a> <ul class="menu-sub-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-sub-child-list"> <a title=" Passport" class="menu-sub-sub-child-link" href="" > <div>Passport</div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" Visa" class="menu-sub-sub-child-link" href="/pages/static-pages/695266a435ce18e1c05aa873" > <div>Visa</div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" Other Services" class="menu-sub-sub-child-link" href="" > <div>Other Services</div> </a> </li> </ul> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Welfare Services" class="menu-child-title"> <a title="Welfare Services" href="#"> <div>Welfare Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Wewb Membership Registration" class="menu-sub-child-link" href="/pages/static-pages/6952668035ce18e1c05a99f1" > <div>Wewb Membership Registration</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Repatriation of Dead Body" class="menu-sub-child-link" href="" > <div>Repatriation of Dead Body</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Important Notices" class="menu-child-title"> <a title="Important Notices" href="#"> <div>Important Notices</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Travel Advisories" class="menu-sub-child-link" href="" > <div>Travel Advisories</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Download Forms" class="menu-child-title"> <a title="Download Forms" href="#"> <div>Download Forms</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Passport Application Form" class="menu-sub-child-link" href="/pages/static-pages/6952668335ce18e1c05a9b0d" > <div>Passport Application Form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Travel Permit Application Form (TP)" class="menu-sub-child-link" href="/pages/files/69526645a31054345f10318a" > <div>Travel Permit Application Form (TP)</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Visa Application Form (MRV FORM)" class="menu-sub-child-link" href="/pages/files/6952663fa31054345f102e68" > <div>Visa Application Form (MRV FORM)</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Notice" href="" class="menu-parent-list-link"> Notice <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Notice" class="menu-child-title"> <a title="Notice" href="#"> <div>Notice</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" General Notice" class="menu-sub-child-link" href="/pages/static-pages/6952667535ce18e1c05a9415" > <div>General Notice</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Tender" class="menu-sub-child-link" href="/pages/static-pages/6952667d35ce18e1c05a9807" > <div>Tender</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Circular" class="menu-sub-child-link" href="/pages/static-pages/6952667235ce18e1c05a92a9" > <div>Circular</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Photo Gallery" href="/pages/photo-galleries" class="menu-parent-list-link"> Photo Gallery </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" Video Gallery" href="/pages/photo-galleries" class="menu-parent-list-link"> Video Gallery </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" Contact Us" href="" class="menu-parent-list-link"> Contact Us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Contact Us" class="menu-child-title"> <a title="Contact Us" href="#"> <div>Contact Us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Our address and Location" class="menu-sub-child-link" href="/pages/static-pages/6952669a35ce18e1c05aa49d" > <div>Our address and Location</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Write to (Ambassador/High-Commissioner/Consular General)" class="menu-sub-child-link" href="/pages/web-forms/6952650cb71fc04b6148292a" > <div>Write to (Ambassador/High-Commissioner/Consular General)</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" FAQ" class="menu-child-title"> <a title="FAQ" href="#"> <div>FAQ</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" শ্রম কল্যাণ উইং এর সেবা সংক্রান্ত বিভিন্ন প্রশ্নের উত্তর:" class="menu-sub-child-link" href="/pages/static-pages/6952668235ce18e1c05a9aab" > <div>শ্রম কল্যাণ উইং এর সেবা সংক্রান্ত বিভিন্ন প্রশ্নের উত্তর:</div> </a> </li> <li class="menu-sub-child-list"> <a title=" পাসপোর্ট সেবা সংক্রান্ত বিভিন্ন প্রশ্নের উত্তর (ফেসবুক কমেন্টে প্রাপ্ত):" class="menu-sub-child-link" href="/pages/static-pages/6952668935ce18e1c05a9de6" > <div>পাসপোর্ট সেবা সংক্রান্ত বিভিন্ন প্রশ্নের উত্তর (ফেসবুক কমেন্টে প্রাপ্ত):</div> </a> </li> <li class="menu-sub-child-list"> <a title=" কাগজপত্র সত্যায়নের জন্য যাযা প্রয়োজন:" class="menu-sub-child-link" href="/pages/static-pages/6952668135ce18e1c05a9a75" > <div>কাগজপত্র সত্যায়নের জন্য যাযা প্রয়োজন:</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" NID Service" href="/pages/files/69526637a31054345f1021c1" class="menu-parent-list-link"> NID Service </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" Travel Advisory for Sabah Visit" href="/pages/static-pages/6952669935ce18e1c05aa418" class="menu-parent-list-link"> Travel Advisory for Sabah Visit </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" July Revival" href="/pages/video-galleries" class="menu-parent-list-link"> July Revival </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" Election 2026" href="/pages/static-pages/695266ad35ce18e1c05aab88" class="menu-parent-list-link"> Election 2026 </a> </li> </ul> </section> </div> <div class="expand-btn next-btn" style="display: none"> <span title="Next"><i class="ph ph-arrow-fat-right"></i></span> </div> </section> 
+            </div>
+        </div>
+        <div data-widget_type="widget" data-widget_name="EmbassyBannerSliderImageWidget" class="widget embassy-banner-slider-image-widget"> <div class="widget banner-slider-image-widget"> <div class="home-carousel"> <a class="slider images" target="_blank"> <img class="slider-image" src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-central-mofa/2024/12/09fc0d8006f34741810847cca5097d98.jpg " alt="MoFA"> </a> <div class="slider-overlay widget-container-row"> <div class="slider-left container-col-4"> <a href="/"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-left-section"> <h1><a style="text-decoration: none" href="/" class="office-title"> High Commission for the People’s Republic of Bangladesh, Kuala Lumpur </a></h1> <!--<p class="office-subtitle">Government of the People's Republic of Bangladesh</p>--> <p class="office-subtitle"></p> </div> </div> <!-- <div class="container-col-4">--> <!-- <p class="office-caption">--> <!-- </p>--> <!-- </div>--> <div class="slider-controls container-col-4"> <button class="nav-btn slider-previous"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.7868L1.79976 6.88151L6.70508 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> <button class="nav-btn slider-play"> <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6445 20.8813C13.2967 20.8813 15.8402 19.8278 17.7156 17.9524C19.591 16.0771 20.6445 13.5335 20.6445 10.8813C20.6445 8.22918 19.591 5.68564 17.7156 3.81028C15.8402 1.93492 13.2967 0.881348 10.6445 0.881348C7.99237 0.881348 5.44883 1.93492 3.57346 3.81028C1.6981 5.68564 0.644531 8.22918 0.644531 10.8813C0.644531 13.5335 1.6981 16.0771 3.57346 17.9524C5.44883 19.8278 7.99237 20.8813 10.6445 20.8813ZM10.0883 7.34135C9.90003 7.21575 9.68121 7.14361 9.45518 7.13263C9.22914 7.12165 9.00436 7.17224 8.80482 7.27901C8.60529 7.38577 8.43848 7.5447 8.32219 7.73884C8.2059 7.93298 8.1445 8.15504 8.14453 8.38135V13.3813C8.1445 13.6077 8.2059 13.8297 8.32219 14.0239C8.43848 14.218 8.60529 14.3769 8.80482 14.4837C9.00436 14.5905 9.22914 14.641 9.45518 14.6301C9.68121 14.6191 9.90003 14.5469 10.0883 14.4213L13.8383 11.9213C14.0095 11.8072 14.1498 11.6525 14.2469 11.4711C14.344 11.2897 14.3948 11.0871 14.3948 10.8813C14.3948 10.6756 14.344 10.473 14.2469 10.2916C14.1498 10.1102 14.0095 9.9555 13.8383 9.84135L10.0883 7.34135Z" fill="currentColor" /> </svg> </button> <button class="nav-btn slider-next"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.58447 11.7868L6.48979 6.88151L1.58447 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> </div> </div> </div> </div> </div>
+        
+    </div></div>
+  <div class="wrapper">
+    <div class="body"><div data-section_type="body" class="droppable">
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                 <div data-widget_type="widget" data-widget_name="MofaAmbassadorWidget" class="widget-mofa-ambassador-widget"> <div class="mofa-ambassador-container"> <!-- Left Side: Profile Card --> <div class="mofa-ambassador-profile-card"> <!-- Green Quotation Badge --> <div class="mofa-ambassador-badge"> <img src="/site-assets/images/quote.svg" alt="quote" /> </div> <!-- Image Wrapper --> <div class="mofa-ambassador-image-wrapper"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/152829a9e19245f2980fbe1557ddb3f1.jpeg" alt="H.E. Mr. Manjurul Karim Khan Chowdhury" class="mofa-ambassador-image" /> <!-- Overlay Info --> <div class="mofa-ambassador-overlay-info"> <div class="overlay-content"> <div class="title-wrapper"> <div class="mofa-ambassador-title">High Commissioner</div> </div> <div class="name-wrapper"> <a href="/pages/static-pages/695266b435ce18e1c05aae24" style="text-decoration: none; color: inherit;"> <div class="mofa-ambassador-name">H.E. Mr. Manjurul Karim Khan Chowdhury</div> </a> </div> </div> </div> </div> </div> <!-- Right Side: Content Card --> <!-- todo: has css issue have to fix --> <div class="mofa-ambassador-content-card"> <div style="padding:40px 40px 0px 40px"> <div class="mofa-ambassador-text-content"> <div class="mofa-ambassador-message-text"> <div class="clamped-message-inner"> Welcome Message from HE High Commissioner Welcome to the official website of the High Commission for the People’s Republic of Bangladesh to Malaysia. In this website, we offer all possible information on bilateral relations between Bangladesh and Malaysia including multifarious services provided by the High Commission. We have also made an effort to depict a few aspects of Bangladesh and its social, cultural and economic emancipation. It is our attempt to make the website user-friendly and, with that in view, we are in the process of continuous improvement. We welcome any constructive suggestions to make the website more effective, accessible and functional. </div> </div> <div class="mofa-ambassador-btn-wrapper"> <button class="mofa-ambassador-read-more" style="display: none"> ... See More </button> <button class="mofa-ambassador-read-less" style="display: none"> See Less </button> </div> </div> </div> <div style="padding: 0px 40px 40px"> <div class="mofa-ambassador-signature-block"> <div class="signature-greeting-wrapper"> <div class="mofa-ambassador-signature-greeting"> With warm regards, </div> </div> <div class="signature-name-wrapper"> <!--<div class="mofa-ambassador-signature-name">High Commissioner of Bangladesh</div>--> <div class="mofa-ambassador-signature-name">High Commissioner</div> </div> </div> </div> </div> </div> </div> 
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                 <section data-widget_type="widget" data-widget_name="MofaDynamicServiceBoxWidget" class="widget mofa-dynamic-service-box-widget"> <div class="mofa-header-container"> <div class="mofa-header-title-container"> <div class="mofa-header-title">Explore Our Services</div> <div class="mofa-header-subtitle">Official embassy services designed to serve the public efficiently</div> </div> <div class="mofa-dynamic-service-box-container"> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/6058eb57396b4d4d9f7d8cdce7ba4c33.png" alt="VISA" /> </div> <div class="mofa-card-title">VISA</div> </div> <div class="mofa-card-list"> <a href="https://www.visa.gov.bd/Img/MRV_FORM.pdf" class="mofa-card-list-item" title="Visa form download"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Visa form download</div> </a> <a href="/pages/static-pages/695266a935ce18e1c05aaa33" class="mofa-card-list-item" title="Diplomatic and Official Visa"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Diplomatic and Official Visa</div> </a> <a href="/pages/static-pages/6952669c35ce18e1c05aa584" class="mofa-card-list-item" title="Research/Internship/Training"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Research/Internship/Training</div> </a> <a href="/pages/static-pages/695266ab35ce18e1c05aaaf5" class="mofa-card-list-item" title="Student Visa"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Student Visa</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663da31054345f102a66%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/0d3679fd938a42c29ad26c52ef46d1ad.jpg" alt="PASSPORT" /> </div> <div class="mofa-card-title">PASSPORT</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952668335ce18e1c05a9b0d" class="mofa-card-list-item" title="Reissue/Information Alteration/Correction Application Form"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Reissue/Information Alteration/Correction Application Form</div> </a> <a href="https://appointment.bdhckl.gov.bd/" class="mofa-card-list-item" title="Appointment for passport collection"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Appointment for passport collection</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663aa31054345f102683%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/ff0a31ff6e1647a0ba6be24931a9612b.png" alt="Press Releases" /> </div> <div class="mofa-card-title">Press Releases</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952667535ce18e1c05a9412" class="mofa-card-list-item" title="Diplomatic Reception held in Malaysia on the Occasion of 54th Independence Anniversary of Bangladesh"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Diplomatic Reception held in Malaysia on the Occasion of 54th Independence Anniversary of Bangladesh</div> </a> <a href="/pages/static-pages/6952667435ce18e1c05a93cd" class="mofa-card-list-item" title="মহান স্বাধীনতার ৫৪-তম বার্ষিকী উপলক্ষ‍্যে মালয়েশিয়ায় কূটনৈতিক সংবর্ধনা অনুষ্ঠিত"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">মহান স্বাধীনতার ৫৪-তম বার্ষিকী উপলক্ষ‍্যে মালয়েশিয়ায় কূটনৈতিক সংবর্ধনা অনুষ্ঠিত</div> </a> <a href="/pages/static-pages/6952667135ce18e1c05a91cd" class="mofa-card-list-item" title="বাংলাদেশ বিশ্ববিদ্যালয় মঞ্জুরী কমিশন (UGC) এবং এডুকেশন মালয়েশিয়া গ্লোবাল সার্ভিসেস-এর মধ্যে সমঝোতা স্মারক স্বাক্ষর"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">বাংলাদেশ বিশ্ববিদ্যালয় মঞ্জুরী কমিশন (UGC) এবং এডুকেশন মালয়েশিয়া গ্লোবাল সার্ভিসেস-এর মধ্যে সমঝোতা স্মারক স্বাক্ষর</div> </a> <a href="/pages/static-pages/6952669135ce18e1c05aa19c" class="mofa-card-list-item" title="Malaysian Prime Minister Anwar Ibrahim telephones Chief Adviser"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Malaysian Prime Minister Anwar Ibrahim telephones Chief Adviser</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526638a31054345f102327%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/070f561ea90e4d3f8f1a83083a371c37.jpg" alt="Gallery" /> </div> <div class="mofa-card-title">Gallery</div> </div> <div class="mofa-card-list"> <a href="/pages/photo-galleries" class="mofa-card-list-item" title="Videos"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Videos</div> </a> <a href="/pages/photo-galleries" class="mofa-card-list-item" title="Photo Gallery"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Photo Gallery</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663ea31054345f102c50%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/0fc684bfea9d466baab8466f853a5d5d.jpg" alt="Notices" /> </div> <div class="mofa-card-title">Notices</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952668335ce18e1c05a9b48" class="mofa-card-list-item" title="মলয়েশিয়ায় বিভিন্ন প্রদেশে ই-পাসপোর্টের আবেদন গ্রহণ ও বিতরণ সংক্রান্ত বিজ্ঞপ্তি"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">মলয়েশিয়ায় বিভিন্ন প্রদেশে ই-পাসপোর্টের আবেদন গ্রহণ ও বিতরণ সংক্রান্ত বিজ্ঞপ্তি</div> </a> <a href="/pages/static-pages/6952669635ce18e1c05aa336" class="mofa-card-list-item" title="প্রবাসী কর্মীর প্রতিবন্ধী সন্তানদের ‘প্রতিবন্ধী ভাতা’ প্রদানের জন্য দরখাস্ত আহবান"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">প্রবাসী কর্মীর প্রতিবন্ধী সন্তানদের ‘প্রতিবন্ধী ভাতা’ প্রদানের জন্য দরখাস্ত আহবান</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663ea31054345f102d4e%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/8d43d297f47b4ed88c0781105a5ecdce.png" alt="Mission Dispatch" /> </div> <div class="mofa-card-title">Mission Dispatch</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952668235ce18e1c05a9aa1" class="mofa-card-list-item" title="Sept - Oct 2024 - Mission Dispatch"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Sept - Oct 2024 - Mission Dispatch</div> </a> <a href="/pages/static-pages/695266aa35ce18e1c05aaa6c" class="mofa-card-list-item" title="Jul-Aug 2024 - Mission Dispatch"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Jul-Aug 2024 - Mission Dispatch</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526638a31054345f102313%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/2c7c00281a554d73a825d74026208131.png" alt="Citizen&#39;s Charter" /> </div> <div class="mofa-card-title">Citizen&#39;s Charter</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952667435ce18e1c05a93e0" class="mofa-card-list-item" title="Citizen&#39;s Charter"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Citizen&#39;s Charter</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663aa31054345f1026b7%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/59be7511084e4782858af29b5ab9f27c.jpg" alt="LABOR &amp; WELFARE" /> </div> <div class="mofa-card-title">LABOR &amp; WELFARE</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/695266b235ce18e1c05aad3c" class="mofa-card-list-item" title="Travel Permit Application Information &amp; Application form"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Travel Permit Application Information &amp; Application form</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663da31054345f102b2d%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/f2bb6e25ebb84d0081bfee3c7581b2a2.jpg" alt="Annual performance agreement (APA)" /> </div> <div class="mofa-card-title">Annual performance agreement (APA)</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952667835ce18e1c05a95e9" class="mofa-card-list-item" title="Annual performance agreement"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Annual performance agreement</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526637a31054345f102150%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://file.mofa.gov.bd/uploads/70db2c2c-4eeb-4024-bdb5-a9a95f2bb843//65b/1e1/b74/65b1e1b741895236858787.png" alt="Grievance Redress System" /> </div> <div class="mofa-card-title">Grievance Redress System</div> </div> <div class="mofa-card-list"> <a href="/pages/static-pages/6952669a35ce18e1c05aa49d" class="mofa-card-list-item" title="If you have any grievance please email us to mission.kualalumpur@mofa.gov.bd"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">If you have any grievance please email us to mission.kualalumpur@mofa.gov.bd</div> </a> <a href="/pages/web-forms/6952650cb71fc04b6148292a" class="mofa-card-list-item" title="Write to ambassador"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Write to ambassador</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526638a31054345f10221f%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> </div> </div> </section> 
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                 <div data-widget_type="widget" data-widget_name="MofaLatestNewsWidget" class="container-fluid mofa-latest-news-widget" style="--widget-theme-color: #098a5b; --widget-bg-color: #f6fdf6; --widget-title-color: #202b5d; --widget-subtitle-color: #62718d; --widget-button-bg: #098a5b; --widget-check-color: #098a5b; --widget-arrow-color: #283a8a; --widget-date-color: #919191;"> <div class="mofa-news-header"> <div class="mofa-news-title-section"> <h2 class="mofa-news-title">Latest News</h2> </div> <a href="pages/news" class="mofa-all-news-btn"> All News </a> </div> <div class="mofa-news-separator"></div> <ul class="mofa-news-list"> </ul> </div> 
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <div data-widget_type="widget" data-widget_name="ThumbnailPhotoGalleryVersionTwoWidget" class="widget thumbnail-photo-gallery-v2-widget"> <div class="thumbnail-photo-gallery-v2-header-section"> <h3 class="photo-gallery-title">PHOTO GALLERY</h3> <p class="photo-gallery-subtitle">Highlights of embassy programs, meetings, and ceremonies</p> </div> <div class="gallery-container "> <div class="gallery-column"> <div class="gallery-image-wrapper" style="height: 405px"> <a href="/pages/photo-galleries/কুয়ালামপুরস্থ-বাংলাদেশ-হাইকমিশন-পরিদর্শন-করেছেন-পররাষ্ট্র-সচিব-5e0092-6952663e35ce18e1c05a8bfc" title="কুয়ালামপুরস্থ বাংলাদেশ হাইকমিশন পরিদর্শন করেছেন পররাষ্ট্র সচিব মোঃ জসীম উদ্দিন"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/9a919ba88c4c4597991724a23913bfbb.jpg" alt="কুয়ালামপুরস্থ বাংলাদেশ হাইকমিশন পরিদর্শন করেছেন পররাষ্ট্র সচিব মোঃ জসীম উদ্দিন" /> </a> </div> <div class="gallery-image-wrapper" style="height: 405px"> <a href="/pages/photo-galleries/bangladesh-high-commission-explores-economic-collaboration-in-sarawak-2fb7d6-6952663d35ce18e1c05a8b7e" title="Bangladesh High Commission Explores Economic Collaboration In Sarawak"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/6e874bdd71584d33883be6bef56dd0d2.jpg" alt="Bangladesh High Commission Explores Economic Collaboration In Sarawak" /> </a> </div> </div> <div class="gallery-column"> <div class="gallery-image-wrapper" style="height: 546px"> <a href="/pages/photo-galleries/high-commissioner-of-bangladesh-in-malaysia-interacts-with-the-bangladeshi-workers-in-yty-company-in-perak-malaysia-80418d-6952664235ce18e1c05a8e10" title="High Commissioner of Bangladesh in Malaysia interacts with the Bangladeshi workers in YTY company in Perak, Malaysia"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/8ba9f78d5ba14907b3ee7ad32471f90d.jpg" alt="High Commissioner of Bangladesh in Malaysia interacts with the Bangladeshi workers in YTY company in Perak, Malaysia" /> </a> </div> <div class="gallery-image-wrapper" style="height: 265px"> <a href="/pages/photo-galleries/বিশেষ-ব্যবস্থায়-মালয়েশিয়ায়-সপ্তাহব্যাপী-পাসপোর্ট-বিতরণ-29a6eb-6952663f35ce18e1c05a8cd6" title="বিশেষ ব্যবস্থায় মালয়েশিয়ায় সপ্তাহব্যাপী পাসপোর্ট বিতরণ"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/2cb6c529c00747ff93c48de8847b14b8.jpg" alt="বিশেষ ব্যবস্থায় মালয়েশিয়ায় সপ্তাহব্যাপী পাসপোর্ট বিতরণ" /> </a> </div> </div> <div class="gallery-column"> <div class="gallery-image-wrapper" style="height: 265px"> <a href="/pages/photo-galleries/diplomatic-reception-held-in-malaysia-on-the-occasion-of-54th-independence-anniversary-of-bangladesh-959b85-6952663e35ce18e1c05a8bfa" title="Diplomatic Reception held in Malaysia on the Occasion of 54th Independence Anniversary of Bangladesh"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/6ae056cf36404abeaf5a602bd66b44da.jpg" alt="Diplomatic Reception held in Malaysia on the Occasion of 54th Independence Anniversary of Bangladesh" /> </a> </div> <div class="gallery-image-wrapper" style="height: 546px"> <a href="/pages/photo-galleries/মালয়েশিয়ায়-টি-২০-বিশ্বকাপ-টুর্নামেন্টে-খেলতে-আসা-বাংলাদেশ-48d04c-6952663e35ce18e1c05a8c0f" title="মালয়েশিয়ায় টি-২০ বিশ্বকাপ টুর্নামেন্টে খেলতে আসা বাংলাদেশ অনূর্ধ্ব-১৯ নারী ক্রিকেট দলকে সংবর্ধনা দিয়েছে মালয়েশিয়াস্থ বাংলাদেশ হাইকমিশন।"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kualalumpur-mofa/2024/12/c12d09cdf5e144eb8dd547adf4b02ced.jpg" alt="মালয়েশিয়ায় টি-২০ বিশ্বকাপ টুর্নামেন্টে খেলতে আসা বাংলাদেশ অনূর্ধ্ব-১৯ নারী ক্রিকেট দলকে সংবর্ধনা দিয়েছে মালয়েশিয়াস্থ বাংলাদেশ হাইকমিশন।" /> </a> </div> </div> </div> <div class="thumbnail-photo-gallery-v2-btn-container"> <a href="pages/photo-galleries" class="thumbnail-photo-gallery-v2-all-btn"> All Photo Gallery </a> </div> </div> 
+            </div>
+        </div>
+        
+    <div data-widget_type="widget" data-widget_name="AccessibilityWidget" class="widget accessibility-widget"> <div class="accessibility-float fab-icon" id="accessibility-btn" title="Accessibility"> <i class="ph ph-wheelchair-motion"></i> </div> <div class="accessibility-card" id="accessibility-card"> <h3 id="accessibility-card-title" tabindex="0">Accessibility</h3> <div id="accessibility-close" tabindex="0" title="Close"> <icon class="ph ph-x-circle"></icon> </div> <div class="item"> <button id="font-increase">Font Increase</button> <button id="font-decrease">Font Decrease</button> </div> <div class="item"> <input type="checkbox" id="monochrome" title="Monochrome" /> <label for="monochrome">Monochrome</label> </div> <div class="item"> <input type="checkbox" id="inverted" title="Invert" /> <label for="inverted">Invert</label> </div> <div class="item"> <input type="checkbox" id="bigCursor" title="Big Cursor" /> <label for="bigCursor">Big Cursor</label> </div> <div class="item"> <input type="checkbox" id="highlightLinks" title="Highlight Links" /> <label for="highlightLinks">Highlight Links</label> </div> <div class="item"> <input type="checkbox" id="highlightHeadings" title="Highlight Headings" /> <label for="highlightHeadings">Highlight Headings</label> </div> <div class="item"> <input type="checkbox" id="readingGuideCheckbox" title="Reading Guide" /> <label for="readingGuideCheckbox">Reading Guide</label> </div> <div class="item"> <button class="accessibility-reset">Reset</button> </div> <a class='screen-reader' target="_blank" rel="noreferrer" href="https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe">Download Screen Reader</a> </div> <!-- TODO: [naeemur] add some more tab navigate options --> <div class="tab-menu"> <a href="#main-content" class="skip-link">Skip to content</a> <a href="#accessibility-card-title" class="skip-link menu-href">Go to accessibility menu</a> </div> </div> 
+<div data-widget_type="widget" data-widget_name="GoToTopWidget" class="widget go-to-top-widget"> <div class="go-to-top-float x-fab-icon" id="go-to-top-btn" title="Go to top"> <i class="ph ph-caret-up"></i> </div> </div> 
+</div></div>
+  </div>
+  <div class="footer"><div data-section_type="footer" class="droppable">
+         <footer data-widget_type="widget" data-widget_name="NewLandingFooterWidget" class="widget new-landing-footer-widget"> <div class="footer-decoration"> <div class="decorative-left"> <img src="/site-assets/images/left-footer.png" alt="Decorative Left"> </div> <div class="decorative-right"> <img src="/site-assets/images/right-footer.png" alt="Decorative Right"> </div> </div> <div class="footer-disclaimer"> All information published on this website is regularly updated by the respective government office. The office makes every effort to ensure that the information is accurate, correct, and reliable. </div> <div class="footer-content container"> <div class="footer-left"> <ul class="footer-links"> <li> <a href="/pages/external-links/passport-queries-847uxm-6971d27e16af4e9291af4981">12</a> </li> </ul> <div class="copyright"> <p> &copy; 2026 All Rights Reserved to bangladesh.gov.bd(National Portal) </p> <p class="last-updated"> Site last updated: Tuesday, October 13, 2026 at 14:59:45 </p> </div> </div> <div class="footer-right"> <div class="planning-section"> <p class="planning-title">Planning and implementation</p> <div class="planning-logos"> <img src="/site-assets/images/a2iset.png" alt="a2i"> </div> </div> </div> </div> </footer> 
+        
+    </div></div>
+</div>
+<script>const _window=window; const _document=document;</script>
+<script src="/site-assets/js/index.js"></script>
+<script src="/widget-assets/js/SimpleHeaderWidget"></script>
+<script src="/widget-assets/js/LanguageSwitcherWidget"></script>
+<script src="/widget-assets/js/MenusSliderWidget"></script>
+<script src="/widget-assets/js/MenusWidget"></script>
+<script src="/widget-assets/js/EmbassyBannerSliderImageWidget"></script>
+<script src="/widget-assets/js/BannerSliderImageWidget"></script>
+<script src="/widget-assets/js/MofaAmbassadorWidget"></script>
+<script src="/widget-assets/js/MofaDynamicServiceBoxWidget"></script>
+<script src="/widget-assets/js/MofaLatestNewsWidget"></script>
+<script src="/widget-assets/js/ThumbnailPhotoGalleryVersionTwoWidget"></script>
+<script src="/widget-assets/js/AccessibilityWidget"></script>
+<script src="/widget-assets/js/GoToTopWidget"></script>
+<script src="/widget-assets/js/NewLandingFooterWidget"></script>
+
+<script src="/assets/js/index.js"></script>
+</body>
+</html>

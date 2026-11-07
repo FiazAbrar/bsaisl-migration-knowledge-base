@@ -1,0 +1,39 @@
+/* table style column align */
+.views-align-left {
+  text-align: left;
+}
+.views-align-right {
+  text-align: right;
+}
+.views-align-center {
+  text-align: center;
+}
+/* Grid style column align. */
+.views-view-grid .views-col {
+  float: left;
+}
+.views-view-grid .views-row {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+/* Provide some space between display links. */
+.views-display-link + .views-display-link {
+  margin-left: 0.5em;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:30 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:52 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.376
+  load_resource: 68.582
+  PetaboxLoader3.resolve: 51.356
+  PetaboxLoader3.datanode: 15.886
+*/

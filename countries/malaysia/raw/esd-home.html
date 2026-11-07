@@ -1,0 +1,1181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ESD</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<link rel="icon" type="image/x-icon" href="/portal/favicon.ico">
+
+	<!-- Include Jquery -->
+	<script src="https://esd.imi.gov.my/portal/js/jquery.js"></script>
+	<script src="https://esd.imi.gov.my/portal/js/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/css/jquery-ui.css">
+
+	<!-- Include Bootstrap -->
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" >
+	<link href="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<!-- <script src="/assets/vendor/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="/assets/vendor/respond/1.4.2/respond.min.js"></script> -->
+
+    <!-- Include Bootstrap datepicker -->
+	<link href="https://esd.imi.gov.my/portal/css/datepicker.css" rel="stylesheet">
+	<script src="https://esd.imi.gov.my/portal/js/bootstrap-datepicker.js"></script>
+
+	<!-- Include Fancybox -->
+	<script type="text/javascript" src="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" href="https://esd.imi.gov.my/portal/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+
+	<!-- Include CSS -->
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/styles2.css">
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/mobile.css">
+
+	<!-- Include Slideer -->
+    <script src="https://esd.imi.gov.my/portal/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript" src="https://esd.imi.gov.my/portal/js/jssor.slider.mini.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="https://esd.imi.gov.my/portal/css/bootstrapValidator.min.css">
+    <script src="https://esd.imi.gov.my/portal/js/bootstrapValidator.min.js"></script>
+
+    <!-- Include Back to top -->
+    <script src="https://esd.imi.gov.my/portal/js/main.js"></script>
+    <script src="https://esd.imi.gov.my/portal/js/modernizr.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).on('load',function(){
+				$('#autopopup').modal('show');
+			});
+
+			// Detact height
+			var wHeight = $(window).height();
+			$( ".mobile-menu" ).click(function() {
+			    $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			    $( ".overlayheight" ).toggle();
+				$( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$( ".overlayheight" ).click(function() {
+			   $( ".menu-wrapper ul.main-menu" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".overlayheight" ).hide();
+			   $( ".mobile-menu h4.white" ).toggleClass('green');
+			});
+
+			$(".menu-top .right ul").on('click', 'li', function(e){
+			    $('.menu-top .right ul li').removeClass('active');
+			    $(this).addClass('active');
+			});
+
+			$( ".menu-top .right ul li.login" ).click(function() {
+			   $( ".login-wrapper" ).toggle("slide", { direction: "up" }, 700);
+			   $( ".search-wrapper" ).hide();
+			});
+
+			$( ".menu-top .right ul li.search" ).click(function() {
+			   $( ".search-wrapper" ).toggle("slide", { direction: "up" }, 300);
+			   $( ".login-wrapper" ).hide();
+			});
+
+			$('.datepicker').datepicker()
+
+			// Menu
+		    $(".main-menu li").hover(function () {
+		        $(this).children("ul.sub-menu").show();
+		    }, function () {
+		        $(this).children("ul.sub-menu").hide();
+		    });
+
+		    $( "ul.main-menu li" ).has( "li.active" ).addClass( "active" );
+		    $( "ul.main-menu > li.active " ).find( ".sub-menu" ).addClass( "show-sub" );
+			// var pathname = window.location.pathname; // Returns path only
+			// var url      = window.location.href;     // Returns full URL
+			// $( "ul.main-menu li" ).click(function() {
+			    // if (pathname === url) {
+					// $( "ul.main-menu li" ).addClass( "active" );
+				// };
+			// });
+
+			 // $(".main-menu li").each(function(){
+		        // if($(this).attr("href")==pathname)
+		            // $(this).addClass("active");
+		    // })
+			// console.log(x);
+			// http://stackoverflow.com/questions/406192/get-current-url-in-javascript
+
+
+			// Load more
+		    size_li = $("#myList li").size();
+		    x=3;
+
+		    $("#myList li").hide();
+		    $('#myList li:lt('+x+')').show();
+
+		    $('#loadMore').click(function () {
+		        x= (x+3 <= size_li) ? x+3 : size_li;
+		        $('#myList li:lt('+x+')').show();
+		        $('#showLess').show();
+		        if(x == size_li){
+		            $('#loadMore').hide();
+		        }
+		    });
+
+			//alert login message
+						
+		});
+
+		function formTab(tab){
+			$('.choose-form-content .form-desktop').hide();
+			$('.'+tab+'-detail').show();
+		}
+	</script>
+
+	<style>
+		/* Target the element by its ID */
+		#loginBtn {
+		color: #B3B3B3; /* Initial color */
+		text-decoration: none; /* Optional: remove underline */
+		transition: color 0.3s ease; /* Smooth transition for color change */
+		}
+
+		/* Change color to white on hover */
+		#loginBtn:hover {
+		color: white;
+		}
+	</style>
+
+	<script src="https://www.google.com/recaptcha/api.js?render=6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC"></script>
+	<script>
+		grecaptcha.ready(function() {
+			grecaptcha.execute('6Lcgm10rAAAAAB1YqT2wbg8g4KT0tVGWL9iHBKdC', {action: 'submit'}).then(function(token) {
+				var recaptchaField = document.getElementById('g-recaptcha-response');
+				if (recaptchaField) {
+					recaptchaField.value = token;
+				}
+			});
+		});
+	</script>
+	<!-- Hold-to-show eye on password fields -->
+	<script src="/assets/js/password-eye.js?v=20261031"></script>
+</head>
+
+<body>
+	<div class="main-wrapper cd-container">
+		<div class="menu-wrapper">
+						<div class="menu-top">
+				<div class="left">
+					<div class="logo"></div>
+					<div class="esd-title">
+						<h1>Expatriate<br />Services<br />Division</h1>
+						<h4>Bahagian Khidmat Ekspatriat</h4>
+						<small>IMMIGRATION DEPARTMENT OF MALAYSIA</small>
+					</div>
+				</div>
+				<div class="right">
+					<ul>
+												<li class="login">Login</li>
+													<li style="pointer-events: none; cursor: default;">/</li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+						<!-- <li>/</li>
+						<li class="search">Search</li> -->
+						<div style="clear: both;"></div>
+					</ul>
+					<div class="search-wrapper" style="display: none;">
+						<form>
+							<input type="text" name="search" placeholder="SEARCH">
+							<input type="submit" value="Search">
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+										<style>
+						.login-wrapper { background: #1F1E2C; z-index: 50; }
+						@media (min-width: 769px) { .login-wrapper { padding: 4px 14px 14px; margin-right: -14px; box-shadow: 0 8px 18px rgba(0, 0, 0, .45); border-radius: 0 0 4px 4px; } }
+						#passkeyLogin { position: relative; }
+						#passkeyLogin::after { content: attr(aria-label); position: absolute; right: 0; bottom: calc(100% + 6px); display: none; padding: 5px 8px; background: #000; color: #fff; font-size: 11px; line-height: 1.3; white-space: nowrap; border-radius: 3px; pointer-events: none; z-index: 60; }
+						#passkeyLogin:hover::after, #passkeyLogin:focus-visible::after { display: block; }
+					</style>
+					<div class="login-wrapper" style="display: none;">
+						<form name="frmLogin2" id="frmLogin2" method="post" action="/esd/controllers/AccessController.php">
+							<input type="hidden" name="access" id="access" value="login">
+							<input type="text" name="username" id="username" placeholder="LOGIN ID" autocomplete="false" required>
+							<br>
+							<input type="password" name="password" id="password" placeholder="PASSWORD" autocomplete="false" required>
+							<br>
+							<a href="https://esd.imi.gov.my/portal/forgot-password/">Forgot password?</a>
+							 <input type="submit" value="Log In">
+																					<button type="button" id="passkeyLogin" aria-label="Login with a passkey" style="display: none; float: right; width: 34px; height: 28px; margin-right: 6px; padding: 0; background: #009BB5; color: #fff; border: 1px solid #4D4D4D; cursor: pointer;">
+								<svg id="passkeyIconFinger" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M12 10a2 2 0 0 0-2 2c0 1.02-.1 2.51-.26 4"/><path d="M14 13.12c0 2.38 0 6.38-1 8.88"/><path d="M17.29 21.02c.12-.6.43-2.3.5-3.02"/><path d="M2 12a10 10 0 0 1 18-6"/><path d="M2 16h.01"/><path d="M21.8 16c.2-2 .131-5.354 0-6"/><path d="M5 19.5C5.5 18 6 15 6 12a6 6 0 0 1 .34-2"/><path d="M8.65 22c.21-.66.45-1.32.57-2"/><path d="M9 6.8a6 6 0 0 1 9 5.2v2"/></svg>
+								<svg id="passkeyIconFace" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none; vertical-align: middle;"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><path d="M9 9h.01"/><path d="M15 9h.01"/></svg>
+							</button>
+							<div id="passkeyLoginError" style="display: none; clear: both; color: #ffd2cc; font-size: 12px; padding-top: 6px;"></div>
+						</form>
+						<script src="/assets/js/officer-passkey.js?v=20261105b"></script>
+						<script>
+							(function () {
+								if (!window.esdPasskey || !esdPasskey.supported()) {
+									return;
+								}
+								var btn = document.getElementById("passkeyLogin"), err = document.getElementById("passkeyLoginError");
+								if (esdPasskey.faceDevice()) {
+									document.getElementById("passkeyIconFinger").style.display = "none";
+									document.getElementById("passkeyIconFace").style.display = "";
+								}
+								// Shown only while the Password Policy allows passkeys for officers or administrators (asked once in 5 minutes)
+								esdPasskey.available("/esd/officer_passkey.php", function (yes) { btn.style.display = yes ? "block" : "none"; });
+								btn.addEventListener("click", function () {
+									err.style.display = "none";
+									esdPasskey.login("/esd/officer_passkey.php", document.getElementById("username").value.trim(), function (msg) {
+										err.textContent = msg;
+										err.style.display = "block";
+									});
+								});
+							})();
+						</script>
+						<p class="note">
+							Enter your Login ID and Password to access the ESD system.<br />
+							If your company does not have a Login ID, please Register.
+						</p>
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div class="overlayheight" style="display: none;"></div>
+			<div class="mobile-menu rmm-button"  style="display: none;">
+				<h4 class="white">Menu</h4>
+				<div class="menu-line">
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+					<span>&nbsp;</span>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<ul class="main-menu" style="display: ;">
+				<li class="active"><a href="https://esd.imi.gov.my/portal/">home</a></li>
+				<li class="" ><a style=" cursor: default;" href="#">About Us</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/esd/">ESD</a></li>
+						<!-- <li class="" ><a href="about-us/testimonials">Testimonials</a></li> -->
+						<li class="" ><a href="https://esd.imi.gov.my/portal/about-us/contact-us">Contact Us</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Employers</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/employers/">Overview</a></li>
+						<li class="register "><a href="https://esd.imi.gov.my/portal/employers/registration/">Register</a></li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Expatriates</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a style=" cursor: default;" href="#">MYXpats</a>
+						    <ul class="sub-menu three" style="display: none ;">
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Overview </a></li>
+								<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/">Key Services </a>
+									<ul class="sub-menu four" style="display: none ;">
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/">Employment Pass</a>
+											<ul class="sub-menu five" style="display:  none ;">
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/dependant-pass/">Dependant Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/long-term-social-visit-pass/">Long-Term Social Visit Pass</a></li>
+												<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/employment-pass/social-visit/">Social Visit (Temporary Employment) - Foreign Maid</a></li>
+											</ul>
+										</li>
+										<li class="" ><a href="https://esd.imi.gov.my/portal/expatriates/myxpats/key-services/professional-visit-pass/">Professional Visit Pass</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="" ><a style=" cursor: default;" href="#">Latest News</a>
+					<ul class="sub-menu" style="display: none ;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/news/">News</a>
+                        </li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/latest-news/announcement/">Announcement</a>
+							<!--
+                            <ul class="sub-menu three" style="display: none ;">
+                            	<li class="" ><a href="latest-news/announcement/message-from-the-director-general-of-immigration-malaysia/">Message from the Director General</a></li>
+                                <li class="" ><a href="latest-news/announcement/message-from-the-chief-executive-officer-of-talentcorp/">Message from the Chief Executive Officer</a></li>
+							 	<li class="" ><a href="latest-news/announcement/roll-out-session/">Roll Out Session </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-firms/">Notice to all firms </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-professional-visit-pass-application/">Notice of Professional<br />Visit Pass Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-renewal-of-employment-pass/">Notice of Renewal of Employment Pass </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-dependent-application/">Notice of Dependent Application </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-of-esd-closure/">Notice of ESD Closure </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-third-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-second-phase/">Notice to all companies </a></li>
+								<li class="" ><a href="latest-news/announcement/notice-to-all-companies-in-the-oil-gas-energy-sectors/">Notice to all companies in the oil, gas & energy sectors </a></li>
+							</ul>
+                            -->
+						</li>
+                        <!-- <li class="" ><a href="latest-news/newsletter/">Newsletter</a></li> -->
+						<!-- <li class="" ><a href="latest-news/publications/">Publications</a></li> -->
+					</ul>
+				</li>
+				<li class="" ><a style="width: 75px;" href="https://esd.imi.gov.my/portal/faq/">FAQ</a>
+					<ul class="sub-menu" style="display: none; left: -19px; width: 110px;">
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/esd-company-registration/">ESD – Company Registration </a></li>
+						<li class="" ><a href="https://esd.imi.gov.my/portal/faq/myxpats/">MYXpats</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/xpats-gateway/">Xpats Gateway</a></li>
+                        <li class="" ><a href="https://esd.imi.gov.my/portal/faq/investor-pass/">Investor Pass</a></li>
+					</ul>
+				</li>
+				<li class=""><a href="https://esd.imi.gov.my/portal/downloads">downloads</a></li>
+				<div style="clear: both;"></div>
+			</ul>
+		</div>
+		<div class="content-wrapper">
+        		<div class="breadcrumb-wrapper home">
+				</div>
+        <script>
+function do_login() {
+	if ( (document.frmLogin2.username.value == "") || (document.frmLogin2.password.value=="") ) {
+		alert('Please enter Login ID and Password !');
+		return;
+	} else {
+		document.frmLogin2.submit();
+	}
+}
+</script>
+
+<style type="text/css">
+
+.submit-button a {
+    background: #009bb5;
+    color: white;
+    text-decoration: none;
+    width: 85%;
+    display: block;
+    text-align: center;
+    padding: 4px 0px;
+    margin-top: 7px;
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+/* Quick-links row: real flex layout + <img> tags, not background-image
+   sizing tricks — those broke every time the title text wrapped to a
+   different number of lines and changed the tile's height. */
+.quicklinks-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    width: 100%;
+}
+.quicklink-tile {
+    background: #fff;
+    box-shadow: 0px 0px 5px #797B7B;
+    display: flex;
+    height: 190px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.quicklink-tile .quicklink-text {
+    flex: 1 1 auto;
+    padding: 16px 14px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+.quicklink-tile .quicklink-title {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.quicklink-tile .quicklink-text h4 {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.3;
+    color: #55565a;
+}
+.quicklink-tile .quicklink-photo {
+    flex: 0 0 100px;
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    margin-right: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quicklink-tile .quicklink-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+.quicklink-tile .quicklink-photo.crop-right img {
+    object-fit: cover;
+    object-position: right center;
+}
+.quicklink-btn {
+    background: #009bb5;
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 4px 0;
+    margin-top: 7px;
+    font-size: 15px;
+}
+
+#autopopup .announcement-popup-dialog {
+    width: 82%;
+    max-width: 540px;
+    margin: 28px auto;
+}
+
+#autopopup .announcement-popup {
+    background: #fff;
+    border: 0;
+    border-radius: 12px;
+    box-shadow: 0 18px 55px rgba(0, 0, 0, 0.32);
+    margin: 0;
+    max-height: calc(100vh - 56px);
+    min-height: 0;
+    overflow: hidden;
+    padding: 18px 20px 24px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Only the announcement list scrolls; logo header and Read More stay fixed. */
+#autopopup .announcement-popup-scroll {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin: 0 -6px;
+    padding: 0 6px;
+}
+
+#autopopup .announcement-popup-close.close {
+    background: transparent;
+    border: 0;
+    color: #c85d5d;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 1;
+    opacity: 1;
+    position: absolute;
+    right: 12px;
+    text-shadow: none;
+    top: 10px;
+    z-index: 10;
+}
+
+#autopopup .announcement-popup-close.close:hover,
+#autopopup .announcement-popup-close.close:focus {
+    color: #9e3d3d;
+    outline: none;
+}
+
+#autopopup .announcement-popup-header {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 22px;
+    max-width: 490px;
+    padding-right: 28px;
+}
+
+#autopopup .announcement-popup-header img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+#autopopup .announcement-popup-section {
+    margin: 0 auto 22px;
+    max-width: 520px;
+    text-align: center;
+}
+
+#autopopup .announcement-popup-title {
+    background: transparent;
+    color: #fff;
+    display: inline-block;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.25;
+    margin: 0 0 10px;
+    padding: 8px 30px;
+    position: relative;
+    text-transform: uppercase;
+    width: 95%;
+    z-index: 1;
+}
+
+#autopopup .announcement-popup-title:before {
+    background: #2d48a2;
+    bottom: 0;
+    content: "";
+    left: 8px;
+    position: absolute;
+    right: 8px;
+    top: 0;
+    transform: skewX(-45deg);
+    z-index: -1;
+}
+
+#autopopup .announcement-popup-title:after {
+    display: none;
+}
+
+#autopopup .announcement-popup-copy {
+    color: #8dbfc8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.24;
+    margin: 0 auto;
+    max-width: 520px;
+}
+
+#autopopup .announcement-popup-action {
+    background: #62b6c8;
+    border-radius: 999px;
+    box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.35);
+    color: #fff;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 8px auto 0;
+    max-width: 260px;
+    padding: 9px 18px 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#autopopup .announcement-popup-copy .announcement-popup-read-more {
+    color: #1f5f92;
+    text-decoration: none;
+}
+
+#autopopup .announcement-popup-copy .announcement-popup-read-more:hover,
+#autopopup .announcement-popup-copy .announcement-popup-read-more:focus {
+    color: #17486f;
+    text-decoration: underline;
+}
+
+#autopopup .announcement-popup-action:hover,
+#autopopup .announcement-popup-action:focus {
+    background: #4fa8bb;
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    #autopopup .announcement-popup-dialog {
+        margin: 16px auto;
+        width: 92%;
+    }
+
+    #autopopup .announcement-popup {
+        max-height: calc(100vh - 32px);
+        min-height: 0 !important;
+        padding: 18px 14px 22px;
+    }
+
+    #autopopup .announcement-popup-close.close {
+        font-size: 32px;
+        right: 11px;
+        top: 9px;
+    }
+
+    #autopopup .announcement-popup-header {
+        margin-bottom: 20px;
+        padding-right: 28px;
+    }
+
+    #autopopup .announcement-popup-section {
+        margin-bottom: 20px;
+    }
+
+    #autopopup .announcement-popup-title {
+        font-size: 13px;
+        padding: 8px 12px;
+        width: 84%;
+    }
+
+    #autopopup .announcement-popup-title:before {
+        left: -10px;
+        right: -10px;
+    }
+
+    #autopopup .announcement-popup-title:after {
+        display: none;
+    }
+
+    #autopopup .announcement-popup-copy {
+        font-size: 12px;
+    }
+
+    #autopopup .announcement-popup-action {
+        font-size: 16px;
+        max-width: 240px;
+        padding: 9px 18px 10px;
+    }
+}
+</style>
+
+<div class="home-wrapper">
+    <div class="slide-wrapper">
+        <div id="slider1_container">
+            <!-- Slides Container -->
+            <div class="slides" u="slides">
+
+                <div>
+                    <a href="https://esd.imi.gov.my/portal/pdf/Revised_Expatriate_Salary_Policy_FAQ.pdf" target="_blank"><img u="image" src="images/salary_revision.jpg" /></a>
+
+                </div>
+
+                <!--<div>
+                    <a href="https://esd.imi.gov.my/portal/latest-news/announcement/myxpats-centre-committed-to-strengthening-enforcement-oversight-of-expatriate-immigration-services/" target="_blank"><img u="image" src="https://esd.imi.gov.my/portal/images/ESD_Banner9.jpg" /></a>
+                </div>-->
+
+                <!--<div>
+                    <a href="<#?php echo $baseurl; ?>pdf/TalentCorp-Press-Release-DPM-officially-opens-MYXpats-Centre-Final.pdf" target="_blank"><img u="image" src="images/banner5.jpg" /></a>
+                </div>-->
+
+                <!--<div>
+                    <img u="image" src="images/esd_banner3.jpg" />
+                </div>-->
+
+                <!--<div>
+                    <a href="https://esd.imi.gov.my/portal/latest-news/announcement/announcement-on-new-vdr-issuance-procedures/"><img u="image" src="images/banner2-02.jpg" /></a>
+                </div>-->
+
+                <div>
+                    <!-- <a href="https://esd.imi.gov.my/portal/pdf/TC-ESD-Quick-Guide-V3-September-2017.pdf" target="_blank"><img u="image" src="images/banner_guidebook.jpg" /></a> -->
+
+                    <a href="https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf" target="_blank"><img u="image" src="images/ESD-Banner-Desktop.png" /></a>
+                </div>
+
+
+                <!--<div>
+                    <a href="https://www.youtube.com/watch?v=x9Wy2H6pK9g&t=16s" target="_blank"><img u="image" src="images/ESD_Banner_15032022.jpg" /></a>
+                </div>-->
+
+                <div>
+                    <a href="https://youtu.be/9bc7LoHRI9c" target="_blank"><img u="image" src="images/XPats Gateway-Banner _Main-Video.png" /></a>
+                </div>
+
+                <div>
+                    <a href="https://youtu.be/BMzBh3gdfgY" target="_blank"><img u="image" src="images/XPats-Gateway-Banner _Tutorial-Video.png" /></a>
+                </div>
+
+                <div>
+                    <a href="https://xpatsgateway.com.my/" target="_blank"><img u="image" src="images/Xpats-Gateway_Banner_Investor-Pass.png" /></a>
+                </div>
+                <div>
+                    <a href="https://esd.imi.gov.my/portal/latest-news/announcement/announcement-252-eppax-mfj/" target="_blank"><img u="image" src="images/Banner-eppax-mfj.png" /></a>
+                </div>
+            </div>
+
+            <!-- bullet navigator container -->
+            <div u="navigator" class="jssorb05">
+                <div u="prototype"></div>
+            </div>
+
+            <!-- Arrow Left/Right -->
+            <!-- <span u="arrowleft" class="jssora11l" style="top: 123px; left: 8px;">
+            </span>
+            <span u="arrowright" class="jssora11r" style="top: 123px; right: 8px;">
+            </span> -->
+        </div>
+    </div>
+
+    <div class="home-content">
+        <div class="top top-left" style="display:block; ">
+            <div class="left">
+                <span class="left-line"></span>
+                <p>The Expatriate Services Division (ESD) is the first point of contact for companies who wish to employ eligible expatriates. All companies will need to register with the ESD as a first step. <a href="https://esd.imi.gov.my/portal/about-us/esd/"> Read More</a>
+                <br/>
+                <br/>
+                The MYXpats Centre focuses on the processing of passes for individuals. <a href="https://esd.imi.gov.my/portal/expatriates/myxpats/"> Read More</a></p>
+            </div>
+        </div>
+
+
+        <div class="top top-open-day" style="display:block; ">
+            <div class="open-day" >
+            <div class="submit-button"  style="width:100px">
+                <p><h3 style="font-size:15px; margin-bottom:10px; margin-top:10px; margin-left:-10%">MYXpats<br/> Open Day 2026 Registration</h3>
+                <a href="https://esd.imi.gov.my/portal/latest-news/announcement/myxpats-open-day-2026/registration.php"  style="margin-left:-10%"> Click Here</a></p>
+            </div>
+            </div>
+        </div>
+
+               <div class="quicklinks-grid">
+
+    <div class="quicklink-tile">
+        <div class="quicklink-text">
+            <div class="quicklink-title"><h4>Check Application Status</h4></div>
+            <a href="https://esd.imi.gov.my/portal/application-status/" class="quicklink-btn">Click Here</a>
+        </div>
+        <div class="quicklink-photo">
+            <img src="https://esd.imi.gov.my/portal/images/home-top-img.png" alt="">
+        </div>
+    </div>
+
+    <div class="quicklink-tile">
+        <div class="quicklink-text">
+            <div class="quicklink-title"><h4>Verify Photo Requirement</h4></div>
+            <a href="https://esd.imi.gov.my/portal/photo-requirements/" class="quicklink-btn">Click Here</a>
+        </div>
+        <div class="quicklink-photo crop-right">
+            <img src="https://esd.imi.gov.my/portal/images/photo_veri.png" alt="">
+        </div>
+    </div>
+
+    <div class="quicklink-tile">
+        <div class="quicklink-text">
+            <div class="quicklink-title"><h4>Revised Expatriate Salary Policy FAQ</h4></div>
+            <a href="https://esd.imi.gov.my/portal/pdf/Revised_Expatriate_Salary_Policy_FAQ.pdf" target="_blank" class="quicklink-btn">Click Here</a>
+        </div>
+        <div class="quicklink-photo">
+            <img src="https://esd.imi.gov.my/portal/images/salary_revision_logo.png" alt="">
+        </div>
+    </div>
+
+    <div class="quicklink-tile">
+        <div class="quicklink-text">
+            <div class="quicklink-title"><h4>Xpats Gateway</h4></div>
+            <a href="https://xpatsgateway.com.my/" target="_blank" class="quicklink-btn">Click Here</a>
+        </div>
+        <div class="quicklink-photo">
+            <img src="https://esd.imi.gov.my/portal/images/single-windows.png" alt="">
+        </div>
+    </div>
+
+</div>
+
+
+                <div style="clear:both;"></div>
+        <div class="bottom">
+            <ul class="main">
+                                <li class="one">
+                                        <h3>LATEST NEWS</h3>
+                    <div class="line">line</div>
+                                        <div class="content">
+                        <div class="date"><span>icon</span>09 September 2026</div>
+                        <div class="sub-title">MYIMMS SYSTEM DISRUPTION AFFECTING MYXPATS CENTRE SERVICES</div>
+                        <p>Please be informed that the Immigration Department of Malaysia's MyIMMS system is currently experiencing a temporary service disruption due to technical issues affecting the supporting infrastructure. <br/>...</p>
+                        <a href="https://esd.imi.gov.my/portal/latest-news/announcement-2026/MYIMMS-SYSTEM-DISRUPTION/">READ MORE +</a>
+                    </div>
+                    <div class="img" style="background: url(https://esd.imi.gov.my/portal/images/home-bottom/two.png) Center center no-repeat;"></div>
+                </li>
+
+                                <li class="two">
+                                        <h3></h3>
+                    <div class=""></div>
+                                        <div class="content">
+                        <div class="date"><span>icon</span>29 October 2026</div>
+                        <div class="sub-title">MYXPATS OPEN DAY 2026: SCHEDULE & REGISTRATION</div>
+                        <p><p align="justify">We are pleased to inform you that the <b>Malaysia Expatriate Services Centre (MYXpats)</b> will be organising a series of <b>Open Day sessions throughout 2026</b>.</p> <br/>...</p>
+                        <a href="https://esd.imi.gov.my/portal/latest-news/announcement-2026/myxpats-open-day-2026/">READ MORE +</a>
+                    </div>
+                    <div class="img" style="background: url(https://esd.imi.gov.my/portal/images/home-bottom/ann_pic_03.jpg) Center center no-repeat;"></div>
+                </li>
+
+                                <li class="three">
+                                        <h3></h3>
+                    <div class=""></div>
+                                        <div class="content">
+                        <div class="date"><span>icon</span>03 September 2026</div>
+                        <div class="sub-title">IMPORTANT: UPDATE ORGANISATION DETAILS IN ESD ONLINE</div>
+                        <p>As part of our ongoing efforts to enhance the efficiency of applications for the Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) Approval Letter under Section 60K of the Employment Act 1955, organisations are required to ensure that the relevant details of all listed authorised personnel in the organisation are complete and up to date in the ESD Online. <br/>...</p>
+                        <a href="https://esd.imi.gov.my/portal/latest-news/announcement-2026/UPDATE-ORGANISATION-DETAILS/">READ MORE +</a>
+                    </div>
+                    <div class="img" style="background: url(https://esd.imi.gov.my/portal/images/home-bottom/three.png) Center center no-repeat;"></div>
+                </li>
+
+                                <div style="clear: both;"></div>
+            </ul>
+
+            <ul class="main" id="important_announcement" style="padding-top:10px;">
+                                <li class="one">
+                                        <h3>IMPORTANT ANNOUNCEMENT</h3>
+                    <div class="line">line</div>
+                    
+
+                    <div class="content">
+                        <!--<div class="date"><span>icon</span><#?php echo date_format($date2,"d F Y");?></div>-->
+                        <div class="sub-title" style="min-height:50px !important">MYIMMS SYSTEM DISRUPTION AFFECTING MYXPATS CENTRE SERVICES</div>
+                        <p>Please be informed that the Immigration Department of Malaysia's MyIMMS system is currently experiencing a temporary service disruption due to technical issues affecting the supporting infrastructure. <br/>...</p>
+                        <a href="https://esd.imi.gov.my/portal/latest-news/announcement/MYIMMS-SYSTEM-DISRUPTION/">READ MORE +</a>
+                    </div>
+                </li>
+
+                                <li class="two">
+                                        <h3></h3>
+                    <div class=""></div>
+                    
+
+                    <div class="content">
+                        <!--<div class="date"><span>icon</span><#?php echo date_format($date2,"d F Y");?></div>-->
+                        <div class="sub-title" style="min-height:50px !important">MYXPATS OPEN DAY 2026: SCHEDULE & REGISTRATION</div>
+                        <p><p align="justify">We are pleased to inform you that the <b>Malaysia Expatriate Services Centre (MYXpats)</b> will be organising a series of <b>Open Day sessions throughout 2026</b>.</p> <br/>...</p>
+                        <a href="https://esd.imi.gov.my/portal/latest-news/announcement/myxpats-open-day-2026/">READ MORE +</a>
+                    </div>
+                </li>
+
+                                <li class="three">
+                                        <h3></h3>
+                    <div class=""></div>
+                    
+
+                    <div class="content">
+                        <!--<div class="date"><span>icon</span><#?php echo date_format($date2,"d F Y");?></div>-->
+                        <div class="sub-title" style="min-height:50px !important">IMPORTANT: UPDATE ORGANISATION DETAILS IN ESD ONLINE</div>
+                        <p>As part of our ongoing efforts to enhance the efficiency of applications for the Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) Approval Letter under Section 60K of the Employment Act 1955, organisations are required to ensure that the relevant details of all listed authorised personnel in the organisation are complete and up to date in the ESD Online. <br/>...</p>
+                        <a href="https://esd.imi.gov.my/portal/latest-news/announcement/UPDATE-ORGANISATION-DETAILS/">READ MORE +</a>
+                    </div>
+                </li>
+
+                                <div style="clear: both;"></div>
+            </ul>
+
+            <ul class="main">
+                <li class="one">
+                    <div class="download-wrapper">
+                        <h3>VIDEO</h3>
+                        <div class="line">line</div>
+                        <h3></h3>
+                        <div class=""></div>
+                        <div class="play-content">
+                            <ul>
+                                <li>
+                                    <p class="xg"><span>An Overview of <br>the Xpats Gateway</span><a class= "pvs" href="https://youtu.be/cleqnqHXgSo" target="_blank">Watch Video</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </li>
+
+                <li class="two">
+                    <div class="play-wrapper">
+                        <h3></h3>
+                        <div class=""></div>
+                        <div class="play-content">
+                            <ul>
+                                <li>
+                                    <p class="pv"><span>User Guide for Section 60K & MYFutureJobs</span><a class= "pvs" href="https://youtu.be/u05Zd3tiGps" target="_blank">Watch Video</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <div style="clear: both;"></div>
+            </ul>
+            <ul class="main">
+                <li class="one">
+                    <div class="download-wrapper">
+                        <h3>DOWNLOAD</h3>
+                        <div class="line">line</div>
+                        <div class="download-content">
+                            <ul>
+                                <li>
+                                    <!-- <p class="gb"><span>ESD Online Guidebook V3.1 (effective 1st September 2017)</span><a href="https://esd.imi.gov.my/portal/pdf/TC-ESD-Quick-Guide-V3-September-2017.pdf" target="_blank">Download PDF</a></p> -->
+
+                                    <p class="gb"><span>ESD Online Guidebook V6 2025</span><a href="https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf" target="_blank">Download PDF</a></p>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="two">
+                    <div class="play-wrapper">
+                        <h3></h3>
+                        <div class=""></div>
+                        <div class="download-content">
+                            <ul>
+                                <li>
+                                    <p class="xg"><span>Xpats Gateway <br /> User Manual</span><a href="https://esd.imi.gov.my/portal/pdf/xpats-gateway-manual.pdf" target="_blank">Download PDF</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="three">
+                    <div class="play-wrapper">
+                        <h3></h3>
+                        <div class=""></div>
+                        <div class="download-content">
+                            <ul>
+                                <li>
+                                    <p class="rsp"><span>Revised Expatriate<br/>Salary Policy</span><a href="https://esd.imi.gov.my/portal/pdf/Revised_Expatriate_Salary_Policy.pdf" target="_blank">Download PDF</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <div style="clear: both;"></div>
+            </ul>
+        </div>
+    </div>
+</div><!-- End bottom-wrapper -->
+
+<!-- Modal -->
+
+<!--    <div id="autopopup" class="modal fade" role="dialog">
+         <div class="modal-dialog">
+<a href="https://esd.imi.gov.my/portal/latest-news/announcement/projection-ep-for-year-2023-opens-07oct2022/">
+                <div class="modal-content" style="background-size: contain !important; background:url(https://esd.imi.gov.my/portal/images/Projection2023-Popup.jpg) top center no-repeat; background-color:#FFFFFF;  ">
+                     <button type="button" class="close" data-dismiss="modal">&times;</button>
+                     <div class="modal-body" style="padding:0;">   -->
+
+                    <!--
+                        esd-pop-up-october-20180928-open.jpg
+                    <div class="list-date-wrapper text-left">
+                        <div class="col-md-2">
+                            <h5>Date</h5>
+                        </div>
+                        <div class="col-md-5">
+                            <ul>
+                                <li>Thurs, 14 Sept 2017 </li>
+                                <li>Thurs, 12 Oct 2017</li>
+                                <li>Thurs, 9 Nov 2017</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-5">
+                            <ul>
+                                <li>Thurs, 28 Sept 2017 </li>
+                                <li>Wed, 25 Oct 2017</li>
+                                <li>Thurs, 23 Nov 2017</li>
+                            </ul>
+                        </div><div class="clearfix"></div>
+                    </div>
+
+                    <div class="text-center">
+                        <a href="latest-news/announcement/myxpats-open-day/">click HERE to RSVP now!'</a><br />
+                        <small>*First-come-first-served basis.</small>
+                    </div>
+                    -->
+<!--
+                </div>
+            </div>
+</a>
+        </div>
+    </div> -->
+
+             <!-- DISABLE AUTO POP UP -->
+        <div id="autopopup" class="modal fade" role="dialog">
+            <div class="modal-dialog announcement-popup-dialog">
+                <div class="modal-content announcement-popup">
+                    <button type="button" class="close announcement-popup-close" data-dismiss="modal" aria-label="Close">
+                        &times;
+                    </button>
+
+                    <div class="announcement-popup-header">
+                        <img src="https://esd.imi.gov.my/portal/images/myxpats-new-logo-2023.png" alt="Immigration Department of Malaysia in collaboration with MYXpats by TalentCorp">
+                    </div>
+
+                    <div class="announcement-popup-scroll">
+                                        <div class="announcement-popup-section">
+                        <h2 class="announcement-popup-title">STANDARDISATION OF PASSPORT PHOTO BACKGROUND REQUIREMENT FOR EXPATRIATE APPLICATIONS</h2>
+                        <p class="announcement-popup-copy">
+                            Dear Valued Clients,
+Further to our previous announcement regarding the enhancement of the Photo Verification feature, please be informed of an upcoming update to the passport photo requirements for expatriate applications. Effective 1 December 2026, all passport photos submitted via Xpats Gateway and ESD Online must have a white background.                        </p>
+                    </div>
+                                        <div class="announcement-popup-section">
+                        <h2 class="announcement-popup-title">SECOND REMINDER: MyNext Onboarding and Internship Fulfilment under the 1:3 Internship Policy</h2>
+                        <p class="announcement-popup-copy">
+                            Following our previous communication in May 2026, we would like to remind all companies employing expatriates to complete their onboarding on MyNext, TalentCorp�s internship placement and 1:3 Internship Policy monitoring platform and take the necessary steps to fulfil their internship requirements                        </p>
+                    </div>
+                                        <div class="announcement-popup-section">
+                        <h2 class="announcement-popup-title">MYXPATS OPEN DAY 2026: SCHEDULE &amp; REGISTRATION</h2>
+                        <p class="announcement-popup-copy">
+                            We are pleased to inform you that the Malaysia Expatriate Services Centre (MYXpats) will be organising a series of Open Day sessions throughout 2026.                        </p>
+                    </div>
+                                        <div class="announcement-popup-section">
+                        <h2 class="announcement-popup-title">ESD ONLINE ENHANCEMENT: PERMISSION TO STUDY AND PERMISSION TO WORK AT A SECOND LOCATION</h2>
+                        <p class="announcement-popup-copy">
+                            Dear Valued Clients,
+
+Following our announcement on 15 August 2024 on the redeployment of Sub-Product services via ESD Online, additional enhancements have been implemented to further streamline the application process and better facilitate employers in meeting the needs of their expatriates.                        </p>
+                    </div>
+                                        </div>
+
+
+                                        <a class="announcement-popup-action" href="https://esd.imi.gov.my/portal/latest-news/announcement/">
+                        Read More
+                    </a>
+                                    </div>
+            </div>
+        </div>
+
+
+    
+    <!-- <div id="autopopup" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+<a href="https://esd.imi.gov.my/portal/latest-news/announcement/entry-hold-my-permission-updates/">
+            <div class="modal-content" style="background:url(https://esd.imi.gov.my/portal/images/hold-announcement-updates.png) top center no-repeat; background-color:#FFFFFF; min-height:520px">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <div class="modal-body" style="padding:0;">  -->
+
+                    <!-- <div class="list-date-wrapper text-left">
+                        <div class="col-md-2">
+                            <h5>Date</h5>
+                        </div>
+                        <div class="col-md-5">
+                            <ul>
+                                <li>Thurs, 14 Sept 2017 </li>
+                                <li>Thurs, 12 Oct 2017</li>
+                                <li>Thurs, 9 Nov 2017</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-5">
+                            <ul>
+                                <li>Thurs, 28 Sept 2017 </li>
+                                <li>Wed, 25 Oct 2017</li>
+                                <li>Thurs, 23 Nov 2017</li>
+                            </ul>
+                        </div><div class="clearfix"></div>
+                    </div> -->
+
+                    <!-- <div class="text-center">
+                        <a href="latest-news/announcement/myxpats-open-day/">click HERE to RSVP now!'</a><br />
+                        <small>*First-come-first-served basis.</small>
+                    </div>
+                    -->
+
+                <!-- </div>
+            </div>
+</a>
+        </div>
+    </div> -->
+    
+
+
+<script>
+    jQuery(document).ready(function ($) {
+        var options = {
+            $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+            $AutoPlaySteps: 1,                                  //[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1
+            $AutoPlayInterval: 2000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+            $PauseOnHover: 1,                                   //[Optional] Whether to pause when mouse over if a slider is auto playing, 0 no pause, 1 pause for desktop, 2 pause for touch device, 3 pause for desktop and touch device, 4 freeze for desktop, 8 freeze for touch device, 12 freeze for desktop and touch device, default value is 1
+
+            $ArrowKeyNavigation: true,   			            //[Optional] Allows keyboard (arrow key) navigation or not, default value is false
+            $SlideEasing: $JssorEasing$.$EaseOutQuint,          //[Optional] Specifies easing for right to left animation, default value is $JssorEasing$.$EaseOutQuad
+            $SlideDuration: 800,                                //[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
+            $MinDragOffsetToSlide: 20,                          //[Optional] Minimum drag offset to trigger slide , default value is 20
+            //$SlideWidth: 600,                                 //[Optional] Width of every slide in pixels, default value is width of 'slides' container
+            //$SlideHeight: 300,                                //[Optional] Height of every slide in pixels, default value is height of 'slides' container
+            $SlideSpacing: 0, 					                //[Optional] Space between each slide in pixels, default value is 0
+            $DisplayPieces: 1,                                  //[Optional] Number of pieces to display (the slideshow would be disabled if the value is set to greater than 1), the default value is 1
+            $ParkingPosition: 0,                                //[Optional] The offset position to park slide (this options applys only when slideshow disabled), default value is 0.
+            $UISearchMode: 1,                                   //[Optional] The way (0 parellel, 1 recursive, default value is 1) to search UI components (slides container, loading screen, navigator container, arrow navigator container, thumbnail navigator container etc).
+            $PlayOrientation: 1,                                //[Optional] Orientation to play slide (for auto play, navigation), 1 horizental, 2 vertical, 5 horizental reverse, 6 vertical reverse, default value is 1
+            $DragOrientation: 1,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+
+            $ArrowNavigatorOptions: {                           //[Optional] Options to specify and enable arrow navigator or not
+                $Class: $JssorArrowNavigator$,                  //[Requried] Class to create arrow navigator instance
+                $ChanceToShow: 2,                               //[Required] 0 Never, 1 Mouse Over, 2 Always
+                $AutoCenter: 2,                                 //[Optional] Auto center arrows in parent container, 0 No, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+                $Steps: 1,                                      //[Optional] Steps to go for each navigation request, default value is 1
+                $Scale: false                                   //Scales bullets navigator or not while slider scale
+            },
+
+            $BulletNavigatorOptions: {                                //[Optional] Options to specify and enable navigator or not
+                $Class: $JssorBulletNavigator$,                       //[Required] Class to create navigator instance
+                $ChanceToShow: 2,                               //[Required] 0 Never, 1 Mouse Over, 2 Always
+                $AutoCenter: 1,                                 //[Optional] Auto center navigator in parent container, 0 None, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+                $Steps: 1,                                      //[Optional] Steps to go for each navigation request, default value is 1
+                $Lanes: 1,                                      //[Optional] Specify lanes to arrange items, default value is 1
+                $SpacingX: 12,                                   //[Optional] Horizontal space between each item in pixel, default value is 0
+                $SpacingY: 4,                                   //[Optional] Vertical space between each item in pixel, default value is 0
+                $Orientation: 1,                                //[Optional] The orientation of the navigator, 1 horizontal, 2 vertical, default value is 1
+                $Scale: false                                   //Scales bullets navigator or not while slider scale
+            }
+        };
+
+        //Make the element 'slider1_container' visible before initialize jssor slider.
+        $("#slider1_container").css("display", "block");
+        var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+        //responsive code begin
+        //you can remove responsive code if you don't want the slider scales while window resizes
+        function ScaleSlider() {
+            var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
+            if (parentWidth) {
+                jssor_slider1.$ScaleWidth(parentWidth - 0);
+            }
+            else
+                window.setTimeout(ScaleSlider, 50);
+        }
+        ScaleSlider();
+
+        $(window).bind("load", ScaleSlider);
+        $(window).bind("resize", ScaleSlider);
+        $(window).bind("orientationchange", ScaleSlider);
+        //responsive code end
+    });
+</script>
+		</div><!-- end content-wrapper -->
+		<div class="footer-wrapper">
+			<div class="left">
+				<div class="backtop" style="display: none;">
+					<a href="#0" class="cd-top">Back Top</a>
+				</div>
+				<div class="copyright">
+					<h1>Expatriate Services Division</h1>
+					<h2>IMMIGRATION DEPARTMENT OF MALAYSIA<br />BAHAGIAN KHIDMAT EKSPATRIAT JABATAN IMIGRESEN MALAYSIA</h2>
+					<small>© 2026 Expatriate Services Division. All Rights Reserved.</small>
+				</div>
+				<div class="bottom-menu">
+					<ul>
+						<li><a class="active" href="https://esd.imi.gov.my/portal/">Home</a></li>
+						<li><a class=""  href="https://esd.imi.gov.my/portal/about-us/esd/">About Us</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/employers">Employers</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/expatriates/myxpats/">Expatriates</a></li>
+						<li><a class="" href="https://esd.imi.gov.my/portal/latest-news/news/">Latest News</a></li>
+                        <li><a class="" href="https://esd.imi.gov.my/portal/faq/">F.A.Q</a></li>
+						<div style="clear: both;"></div>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<ul class="top" style="display:block;">
+					<!-- <li class=""><a href="faq/">F.A.Q</a></li>
+					 <li><a href="#">T&C</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Useful Links</a></li> -->
+				</ul>
+				<!-- <ul class="bottom">
+					<li><a class="fb" href="#"> fb </a></li>
+					<li><a class="twi" href="#"> twi </a></li>
+					<li><a class="in" href="#"> in </a></li>
+					<li><a class="youtube" href="#"> youtube </a></li>
+					<div style="clear: both;"></div>
+				</ul> -->
+			</div>
+			<div style="clear: both;"></div>
+			<p class="mobile-copyright" style="display: none;">© 2026 Expatriate Services Division. All Rights Reserved.</p>
+		</div> 
+	</div> <!-- end main-wrapper -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-62607230-1', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+</body>
+</html>

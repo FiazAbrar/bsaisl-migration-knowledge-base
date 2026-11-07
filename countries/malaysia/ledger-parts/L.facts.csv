@@ -1,0 +1,47 @@
+visa_type,field,value,ledger_id
+Travel Permit (BD High Commission),eligibility,"Bangladeshis whose passport expired, was lost or damaged, to return to Bangladesh",L0001
+Travel Permit (BD High Commission),validity,3 months from issue,L0002
+Travel Permit (BD High Commission),documents,In person; copy of past BD passport; copy of NID or online BRC; 2 colour photos; contact number,L0003
+Travel Permit (BD High Commission),fee,RM 38,L0006
+Travel Permit (BD High Commission),processing_time,At least 1-2 working days; longer if background verification needed,L0012
+Travel Permit (BD High Commission),processing_time,"Same day: apply 9:30-1:00, collect after 4 pm",L0016
+Travel Permit (BD High Commission),fee,Free for people held in immigration detention camps,L0018
+Wage Earners' Welfare Board membership (from Malaysia),fee,RM 155,L0019
+NOC for repatriation of remains (BD High Commission),documents,Passport of deceased; receiver details in BD; police report+NOC for abnormal death; original death certificate; funeral company letter; employer letter; copy of PERKESO form PA-F101R1,L0023
+NOC for repatriation of remains (BD High Commission),documents_undocumented,Original passport or police lost-passport report; receiver details; police report with NOC; original death certificate; funeral company letter; employer name and contact,L0026
+BD High Commission KL labour wing,contact,"counselorkl@probashi.gov.bd, +601 2290 3252; ministermalaysia@probashi.gov.bd, +603 2604 0934; +603 2604 0929",L0028
+BD High Commission KL,contact,"No 8 Lorong Yap Kwan Seng, 50450 KL; +603 2604 0946/48/49; consular +603 2604 0949",L0032
+PLKS (Temporary Employment Visit Pass),medical_after_arrival,FOMEMA exam within 30 days of arrival,L0042
+PLKS (Temporary Employment Visit Pass),validity,12 months per issue; renew from 3 months before expiry,L0044
+PLKS (Temporary Employment Visit Pass),renewal_documents,Passport valid >12 months; employer letter and ID; security bond/guarantee 18 months; SPIKPA slip (not plantation); SPPA slip; FOMEMA fit (2nd/3rd year),L0046
+PLKS (Temporary Employment Visit Pass),max_total_stay,10 years (6P-registered workers: 3 years),L0050
+PLKS (Temporary Employment Visit Pass),visa_fee_and_bond_bangladesh,Visa RM 20; security bond RM 500 (employer pays),L0052
+PLKS (Temporary Employment Visit Pass),can_bring_family,No,L0053
+PLKS (Temporary Employment Visit Pass),change_employer,Not allowed (IMI foreign worker page); see JTK/KDN transfer rules,L0055
+PLKS (Temporary Employment Visit Pass),marriage,Not allowed while on PLKS,L0056
+PLKS (Temporary Employment Visit Pass),id_card,"i-Kad, valid with the PLKS, no extra cost, grey, collected by employer",L0062
+PLKS (Temporary Employment Visit Pass),age,18-45 at application,L0064
+PLKS (Temporary Employment Visit Pass),exit_documents,Check-Out Memo form; worker's original passport; ticket home (employer applies),L0071
+Foreign domestic helper (PRA),source_countries,"Indonesia, Thailand, Cambodia, Philippines, Sri Lanka, India, Vietnam, Laos; Bangladesh not listed",L0076
+PLKS (Temporary Employment Visit Pass),overstay_penalty,"Fine up to RM10,000 and/or up to 5 years jail, or compound up to RM3,000 (s.15(4))",L0086
+PLKS (Temporary Employment Visit Pass),working_hours,"Max 45 normal hours a week (Employment Act, Peninsular Malaysia)",L0108
+PLKS (Temporary Employment Visit Pass),annual_leave,"8 days (<2 yrs), 12 days (2-5 yrs), 16 days (5+ yrs)",L0109
+PLKS (Temporary Employment Visit Pass),sick_leave,14/16/22 days by service; hospitalisation 60 days,L0110
+Program Repatriasi Migran 2.0 (undocumented migrants going home),dates,1 May 2026 - 31 May 2027 (current phase),L0113
+Program Repatriasi Migran 2.0 (undocumented migrants going home),how_to_apply,Walk in to one of 14 Immigration Enforcement offices in Peninsular Malaysia and Labuan; hotline 03-8880 1269,L0114
+Program Repatriasi Migran 2.0 (undocumented migrants going home),documents,Valid passport or travel document; ticket home within 14 days,L0116
+Program Repatriasi Migran 2.0 (undocumented migrants going home),payment,Debit/credit card or Touch 'n Go eWallet only,L0119
+Program Repatriasi Migran 2.0 (undocumented migrants going home),compound,RM500 no valid pass; RM500 overstay; RM300 breach of pass conditions; plus RM20 special pass,L0120
+PLKS (Temporary Employment Visit Pass),i-Kad,Free; no application; employer collects 7 days after notification email; must be carried at all times,L0126
+Contract of Employment under BD-Malaysia MoU 2021,wage,"Basic wage in RM, must meet Malaysian minimum wage",L0130
+Contract of Employment under BD-Malaysia MoU 2021,pay_day,"Monthly, by the 7th of the following month",L0131
+Contract of Employment under BD-Malaysia MoU 2021,rest_day,1 per week,L0135
+Contract of Employment under BD-Malaysia MoU 2021,deductions,"Max 50% a month, for recovery of advances",L0137
+Contract of Employment under BD-Malaysia MoU 2021,housing,Employer provides reasonable accommodation with basic amenities,L0138
+Contract of Employment under BD-Malaysia MoU 2021,ticket_home,"Employer pays on completion, on termination by employer, on termination by worker for employer breach, on serious work injury/illness; otherwise worker pays",L0141
+Contract of Employment under BD-Malaysia MoU 2021,notice,2 months either side (or 2 months' wages); employer-terminated: employer pays fare; worker-terminated: worker pays fare,L0144
+Contract of Employment under BD-Malaysia MoU 2021,passport,"Employer may not keep it; worker hands it over only for medical, PLKS, i-Kad and renewal, then gets it back",L0149
+Labour complaint (Peninsular Malaysia),online_channel,"Working for Workers (WFW) app, Android/iOS, 24/7; portal workforworkers.com.my",L0163
+PLKS (Temporary Employment Visit Pass),renewal_where_bangladeshi,Immigration HQ Putrajaya only (2021 FAQ),L0174
+Lost passport (foreigner in Malaysia),procedure,"Report to Immigration Enforcement with old passport number/copy, new passport/travel document, police report, ticket within 7 days; Special Pass RM100",L0182
+Foreign domestic helper (PRA),source_countries_prapage,"Indonesia, Vietnam, Thailand, Philippines, Cambodia, Laos, India, Sri Lanka, Nepal; not Bangladesh",L0194

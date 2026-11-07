@@ -1,0 +1,157 @@
+Reliable Brokers
+
+Online Investing
+
+Alerts & Analysis
+
+Easy Trading
+
+# Visa hurdles intensify for Bangladeshis across countries
+
+Visa rejection and suspension in several countries have left Bangladeshi travellers and the tourism business in distress
+
+File image of passport. Photo: Collected
+
+[![Saddif Ovee](https://www.dhakatribune.com/profile/19694/picture/)](https://www.dhakatribune.com/author/saddif-ovee)[Saddif Ovee](https://www.dhakatribune.com/author/saddif-ovee)
+
+Publish : 24 Sep 2025, 07:24 PMUpdate : 24 Sep 2025, 07:51 PM
+
+Mamun Chowdhury said he has travelled to Thailand twice, both for business and personal purposes. However, his third visa application was recently rejected, leaving him surprised. He said he was not informed of the reason for the rejection.
+
+Not only in Thailand, but Bangladeshis are also facing growing visa complications in Asia, Europe, and the Middle East. The rate of visa rejections has also gone up.
+
+Through speaking to several frequent travellers and people involved in the tourism business, it emerged that visa difficulties for Bangladeshis have persisted for the past two to two-and-a-half years. Over the past year, rejection rates have risen significantly, they said.
+
+Countries with the highest rejection rates for Bangladeshi applicants include Singapore, Thailand, Malaysia, the United Arab Emirates, Turkey, and Egypt, among many others.
+
+## **India’s tourism visa suspended**
+
+Since August 5 last year, India has suspended the issuance of all types of visas. After remaining suspended for several weeks, only medical visas and limited double-entry visas were resumed. These two categories remain the only ones available to date.
+
+Recently, however, on the occasion of Durga Puja, the Indian High Commission in Dhaka has started issuing some additional visas.
+
+## **Impact of India’s visa suspension on European countries**
+
+Several European countries do not have embassies in Dhaka. Their visas are issued through embassies in New Delhi. Applicants are required to appear in person for interviews at those embassies for which a double-entry Indian visa is necessary.
+
+For student visas, some embassies require multiple interviews, meaning applicants often have to stay in India for extended periods. While most Western European countries issue visas directly from Dhaka, many Eastern European countries require applicants to apply through New Delhi.
+
+With Indian visas being restricted and alternative arrangements lacking, Bangladeshi students and job seekers are facing major difficulties, stakeholders said.
+
+Recently, Belgium was added to this list. Until September 16, Belgian visas were issued by the Swedish Embassy in Dhaka. Since then, however, the process has been suspended. Now, Belgian visas will only be issued from New Delhi, requiring in-person submissions at the VFS centre there.
+
+## **No progress in relocating European visa centres**
+
+In December last year, Chief Adviser Prof Muhammad Yunus met with ambassadors of 19 EU countries to address the visa crisis. He suggested relocating visa centres from New Delhi to Dhaka or another neighbouring country, saying it would benefit both Bangladesh and the EU.
+
+At the meeting, Foreign Adviser Md Touhid Hossain informed the ambassadors that Bulgaria had shifted its visa centres for Bangladeshis to Indonesia and Vietnam. He urged other countries to follow suit.
+
+However, since the Covid-19 pandemic, Indonesia has suspended on-arrival visas for Bangladeshis and limited sticker visas. Vietnam has also stopped issuing visas without prior notice.
+
+In June, Indonesia’s Deputy Foreign Minister Arrmanatha Christiawan Nasir visited Dhaka and met the foreign affairs adviser. He stated that Indonesia had launched a new visa review process after the pandemic and promised to raise Bangladesh’s case with relevant authorities to ease visa access.
+
+The Foreign Ministry said efforts are ongoing to arrange visa facilities in third countries. For example, Romanians can apply in Thailand or Vietnam, Bulgarians in Vietnam, Pakistan, or Kazakhstan, while Kazakhstan visas are being issued from Bangkok.
+
+A senior Foreign Ministry official said: “If a country does not want to issue visas, there’s little the ministry can do. Issuing visas is a country’s sovereign matter. We can only urge or request them to resume the process.”
+
+Another official, however, admitted there has been little progress in relocating visa centres. Several countries have indicated that setting up new offices is time- and cost-intensive.
+
+## **UAE visa hurdles since 2012**
+
+The UAE stopped issuing all types of visas to Bangladeshis in 2012, citing growing criminal activity among citizens of certain countries, including Bangladesh. The restriction continues, with work visas still suspended for Bangladeshis.
+
+Many Bangladeshis attempted to enter the UAE on visit visas for employment purposes. This loophole has since been closed, with visit-to-work visa conversions suspended.
+
+Last year, after some Bangladeshi expatriates protested in support of the July Movement, the UAE halted all visas for Bangladeshis. Currently, only skilled or high-profile work visas remain available.
+
+A former diplomat stationed in the UAE told Bangla Tribune that the Emirati government never makes formal announcements or publishes lists of visa bans. Online applications remain open, but are ultimately rejected.
+
+In June, Major General Suhail Saeed Al Khaili of the UAE government highlighted the challenges again in a meeting with the Chief Adviser’s Special Assistant for International Affairs, Lutfey Siddiqi.
+
+In a Facebook post on June 17, Lutfey Siddiqi said: “Bangladeshis account for over 25% of visa violations in the UAE, though they constitute only 8% of the country’s foreign population.”
+
+## **Why visa hurdles are growing**
+
+Officials at the Foreign Ministry, Home Ministry and Ministry of Expatriates’ Welfare and Overseas Employment, and tour operators identified two main types of visa hurdles: restrictions on tourist visas and suspension of work visas.
+
+For Bangladeshis, many countries have tightened tourist visa scrutiny, adding lengthy verification processes. Meanwhile, work visas have long been suspended in several countries, with no clarity on when they might resume.
+
+Travel operator Faruk Hasan told Bangla Tribune that many countries have reduced their visa ratio, mainly due to fake documents and overstaying. He said some also use tourist visas to work abroad or to travel illegally to third countries. This, he noted, has made Malaysia’s immigration stricter, increased rejection rates in Thailand, and led Indonesia and Vietnam to suspend visas. These nearby and relatively affordable destinations have now become difficult for Bangladeshis, causing the travel business to suffer.
+
+He added: “Visa ratios in European countries are also poor. For high-demand countries, applicants have to go to India, which is a form of harassment. Germany, for example, takes up to two years to call for interviews.”
+
+A former South Asia-based diplomat said: “Our citizens’ biggest issue is overstaying or moving illegally to third countries. When a country issues a visa, the primary condition is that the person must return home after his or her visit. Many do not.
+
+“Either they stay beyond their visa term, or they cross into another country illegally. This harms the issuing country. Vietnam and Indonesia, for example, stopped giving us on-arrival visas for this very reason. Others have reported widespread use of fake documents by Bangladeshis.”
+
+## **Thai embassy warns against fake documents**
+
+Amid rising fraudulent visa applications, the Thai Embassy in Dhaka recently issued a warning. “Applications with fake documents will be rejected or cancelled,” it said in a notice.
+
+## **Egypt adds conditions to on-arrival visas**
+
+Egypt previously offered on-arrival visas to Bangladeshis under certain conditions. Now, stricter requirements have been added.
+
+The Egyptian Embassy in Dhaka issued a notice stating: “Bangladeshi passport holders can get on-arrival visas only if their passports are valid for at least six months, they hold valid and used visas of the US, Schengen states, Australia, the UK, Japan, Canada, or New Zealand, and have return tickets along with a bank account of at least \$5,000.”
+
+It added: “Bangladeshi passport holders residing in Gulf countries may also apply if their residency permits are valid for at least six months and they are employed in white-collar jobs, subject to proof.
+
+“All applicants must pay \$25 after verification at Cairo International Airport.”
+
+Earlier, the only requirement was a valid visa from the US, Schengen countries, Australia, the UK, Japan, Canada, or New Zealand.
+
+## **Work visa restrictions in other countries**
+
+Beyond the UAE, several countries have barred Bangladeshi workers.
+
+In Bahrain, the labour market was closed to Bangladeshis after a Bangladeshi national murdered a local imam on August 4, 2018. Since then, many Bangladeshis have been repatriated.
+
+Malaysia shut its labour market in 2018 following corruption allegations. It reopened in December 2021 through a new agreement, with recruitment resuming in August 2022. But due to syndicate corruption, the market was suspended again on May 31 last year, leaving 16,990 workers unable to migrate despite having clearance. Currently, only plantation workers are being recruited.
+
+Italy suspended its labour market for Bangladeshis on October 17 last year due to widespread document fraud. A notice from the Italian Embassy in Dhaka said all work permits issued to Bangladeshis up to October 11, 2023, had been suspended pending verification.
+
+In 2024, the Italian government issued “Law Decree No. 145,” suspending all work permits issued before October 22, 2024.
+
+Under the new law, the Italian Embassy in Dhaka can only issue visas after provincial authorities grant clearance. So far, over 8,000 of around 40,000 pending applications have been processed. Another 20,000 are expected to be reviewed soon. Permits issued after October 22, 2024, are not affected, and hundreds of Bangladeshis have already received visas under Italy’s 2025 Flussi Decree.
+
+Oman also suspended worker visas for Bangladeshis in 2023. In June 2024, the Omani government announced exemptions for certain categories, including family visas, visit visas for Bangladeshis with Gulf residency, and work visas for doctors, nurses, engineers, teachers, and accountants. Investors, official delegations, and high-income tourists may also apply.
+
+Currently, Libya, Sudan, Brunei, Mauritius, and Iraq also have limited or suspended work visas for Bangladeshis.
+
+## **Foreign Ministry response**
+
+Asked about visa complications, Foreign Affairs Adviser Md Touhid Hossain told a press briefing: “Visa issuance is a sovereign decision of each country. Our government cannot dictate this. But we regularly request embassies to ease access.”
+
+#### Topics:
+
+[**Muhammad Yunus**](https://www.dhakatribune.com/topic/dr-muhammad-yunus)[**Visa**](https://www.dhakatribune.com/topic/visa)[**Md Touhid Hossain**](https://www.dhakatribune.com/topic/md-touhid-hossain)
+
+[Read More](//www.dhakatribune.com/bangladesh)
+
+## [Minister: Bangladeshi workers with expired iqamas to be allowed enter Saudi Arabia](//www.dhakatribune.com/bangladesh/422983/minister-bangladeshi-workers-with-expired-iqamas "Minister: Bangladeshi workers with expired iqamas to be allowed enter Saudi Arabia")
+
+## [SC stays Tk 666cr tax order against Yunus-founded Grameen Kalyan](//www.dhakatribune.com/bangladesh/court/422367/grameen-kalyan-appeals-hc-verdict-on-tk666-crore "SC stays Tk 666cr tax order against Yunus-founded Grameen Kalyan")
+
+## [Ex-advisers condemn harassment of Prof Yunus at New York airport](//www.dhakatribune.com/bangladesh/422041/ex-advisers-condemn-harassment-of-prof-yunus-at "Ex-advisers condemn harassment of Prof Yunus at New York airport")
+
+## [Prof Yunus’ harassment in US: New York Mission asked to take due legal action](//www.dhakatribune.com/bangladesh/foreign-affairs/422025/prof-yunus%E2%80%99-harassment-in-us-new-york-mission "Prof Yunus’ harassment in US: New York Mission asked to take due legal action")
+
+## [Jamaat leader Taher condemns harassment of Prof Yunus at US airport](//www.dhakatribune.com/bangladesh/politics/422014/jamaat-leader-taher-condemns-harassment-of-prof "Jamaat leader Taher condemns harassment of Prof Yunus at US airport")
+
+## [Zahed: Legal action to be taken over harassment of Dr Yunus in US](//www.dhakatribune.com/bangladesh/421990/zahed-legal-action-to-be-taken-over-harassment-of "Zahed: Legal action to be taken over harassment of Dr Yunus in US")
+
+[Latest News](javascript:)
+
+## [Barman, Koch families allegedly left out of govt ethnic minority survey despite gazette recognition](//www.dhakatribune.com/bangladesh/423913/barman-koch-families-allegedly-left-out-of-govt "Barman, Koch families allegedly left out of govt ethnic minority survey despite gazette recognition")
+
+## [Bus set on fire in Baridhara](//www.dhakatribune.com/bangladesh/dhaka/423912/bus-set-on-fire-in-baridhara "Bus set on fire in Baridhara")
+
+## [Zahid: Govt working to ensure free primary healthcare for all](//www.dhakatribune.com/bangladesh/nation/423911/zahid-govt-working-to-ensure-free-primary "Zahid: Govt working to ensure free primary healthcare for all")
+
+## [The pink bus experience: A smoother ride, if you can catch it](//www.dhakatribune.com/bangladesh/423910/the-pink-bus-experience-a-smoother-ride-if-you "The pink bus experience: A smoother ride, if you can catch it")
+
+## [Employment minister hospitalised in Sylhet after falling ill](//www.dhakatribune.com/bangladesh/government-affairs/423909/employment-minister-hospitalised-in-sylhet-after "Employment minister hospitalised in Sylhet after falling ill")
+
+Top Brokers
+
+![Dhaka Tribune Bangla](https://ecdn.dhakatribune.net/contents/themes/public/style/images/logo.png)[বাংলা হোমপেজ](javascript:)

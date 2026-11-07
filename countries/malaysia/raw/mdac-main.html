@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Malaysia Digital Arrival Card - MDAC</title>
+        <link rel="icon" href="/mdac/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <!-- CSS -->
+        <!-- Bootstrap CSS  -->
+        <script type="text/javascript" src="/mdac/ruxitagentjs_ICA7NVfqrux_10345260810170330.js" data-dtconfig="app=5ba58ee1c8b94002|srtbv=4|owasp=1|featureHash=ICA7NVfqrux|rdnt=1|uxrgce=1|cuc=y443g7iv|mel=100000|expw=1|dpvc=1|lastModification=1793412759880|postfix=y443g7iv|tp=500,50,0|srbbv=3|agentUri=/mdac/ruxitagentjs_ICA7NVfqrux_10345260810170330.js|reportUrl=/mdac/rb_a9e63cf0-cf74-4b3f-ba9d-4d64d785fdd0|rid=RID_1807334657|rpid=1342045282|domain=imi.gov.my"></script><link href="/mdac/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <!--<link href="/mdac/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />-->
+        <!--<link rel="stylesheet" type="text/css" href="/mdac/plugins/cubeportfolio/css/cubeportfolio.min.css">-->
+        <link href="/mdac/css/nivo-lightbox.css" rel="stylesheet" />
+        <link href="/mdac/css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+        <link href="/mdac/css/owl.carousel.css" rel="stylesheet" media="screen" />
+        <link href="/mdac/css/owl.theme.css" rel="stylesheet" media="screen" />
+        <link href="/mdac/css/animate.css" rel="stylesheet" />
+        <link href="/mdac/css/style.css" rel="stylesheet">
+        <link rel="stylesheet" href="/mdac/css/bootstrap.css" type="text/css" media="screen" />
+
+
+        <!-- JS File -->
+        <script src="/mdac/js/jquery.min.js"></script>	 
+        <script src="/mdac/js/bootstrap.min.js"></script>
+        <script src="/mdac/js/jquery.easing.min.js"></script>
+        <script src="/mdac/js/wow.min.js"></script>
+        <script src="/mdac/js/jquery.scrollTo.js"></script>
+        <script src="/mdac/js/jquery.appear.js"></script>
+        <script src="/mdac/js/stellar.js"></script>
+        <!--<script src="/mdac/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>-->
+        <script src="/mdac/js/owl.carousel.min.js"></script>
+        <script src="/mdac/js/nivo-lightbox.min.js"></script>
+        <script src="/mdac/js/custom.js"></script>
+        <script type="text/javascript" src="/mdac/js/clock.min.js"></script>
+        <link rel="stylesheet" href="/mdac/css/datepicker.min.css" />
+        <!--<link rel="stylesheet" href="/mdac/css/datepicker3.min.css" />-->
+        <!--<link rel="stylesheet" href="/mdac/css/datetimepicker.css" />-->
+        <script src="/mdac/js/bootstrap-datepicker.min.js"></script>
+        <!--<script src="/mdac/js/moment.min.js"></script>-->
+        <!--<script src="/mdac/js/bootstrap-datetimepicker.min.js"></script>-->
+        <link rel="stylesheet" type="text/css" href="/mdac/css/dataTables.css" />
+        <script src="/mdac/js/dataTables.bootstrap.min.js"></script>
+        <script src="/mdac/js/jquery.dataTables.min.js"></script>
+        <script src="/mdac/js/formatCurrency.js"></script>
+        <script type="text/javascript" src="/mdac/js/jquery.blockUI.js"></script>
+
+        <script type="text/javascript">
+            $(function () {
+                $("#clock").clock();
+            });
+
+
+
+            function validateNumber(elmnt, content) {
+                //if it is character, then remove it..
+                if (isNaN(content)) {
+                    elmnt.value = removeNonNumeric(content);
+                    return;
+                }
+            }
+
+            function convert(val) {
+                var amaun = CurrencyFormatted(val);
+                amaun = CommaFormatted(amaun);
+                return amaun;
+            }
+
+            function removeNonNumeric(strString)
+            {
+                var strValidCharacters = "1234567890+-";
+                var strReturn = "";
+                var strBuffer = "";
+                var intIndex = 0;
+                // Loop through the string
+                for (intIndex = 0; intIndex < strString.length; intIndex++)
+                {
+                    strBuffer = strString.substr(intIndex, 1);
+                    // Is this a number
+                    if (strValidCharacters.indexOf(strBuffer) > -1)
+                    {
+                        strReturn += strBuffer;
+                    }
+                }
+                return strReturn;
+            }
+
+            $(document).ready(function () {
+                $("ul#nav li").attr("onclick", "return true");
+                $('form').submit(function () {
+                });
+
+                $('.uppercase').each(function () {
+                    $(this).blur(function () {
+                        $(this).val($(this).val().toUpperCase());
+                    });
+                });
+
+            });
+
+
+
+        </script>
+        <style>
+            .navbar-toggle {
+                padding: 4px 6px; 
+                font-size: 18px;
+                color: #000; 
+            }
+        </style>
+        
+        
+        <link rel="icon" href="/mdac/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <style>
+
+            .rcorners1 {
+                color: black;
+                border-radius: 5px;
+                background: lightgray;
+                padding: 20px;   
+                height: 600px;
+                overflow: hidden !important;
+            }
+
+            .rcorners2 {
+                color: black;
+                border-radius: 5px;
+                background: lightgray;
+                padding: 20px;
+                padding-top: 10px;
+                height: 600px;
+                overflow: hidden !important;
+            }
+
+            .rcorners2 h3{
+                padding-top: 100px;
+            }
+
+            .btn-primary {
+                font-size: large;
+                color: #fff;
+                background-color: tomato;
+                border-color: white;
+                /*width: 350px;*/
+                height: 40px;
+            }
+
+
+            .info1{
+                font-size: 18px; 
+                font-weight: bold; 
+                text-decoration: underline;
+            }
+            .info2{
+                font-size: 18px; 
+                font-weight: bold; 
+                text-decoration: underline;
+            }
+
+            /*            
+            */          .carousel-inner img {
+                margin: auto;
+            }
+            .modal-content{
+                margin: auto;
+                height: auto;
+                max-height: 100%;
+                width: auto;
+                max-width: 100%;
+            }
+            .modal-header{
+                background-color: red;
+            }
+            .modal-body{
+                height: auto;
+                max-height: 100%;
+            }
+
+            .carousel-inner{
+                background-color: white;
+            }
+            .modal-dialog{
+                width: 600px;
+            }
+
+
+            .modal{
+                -ms-overflow-style: none;
+                scrollbar-width: none;
+            }
+
+            .modal::-webkit-scrollbar{
+                display: none;
+            }
+
+            .carousel slide a{
+                color: black;
+            }
+
+            #box1{
+                height: 350px;
+            }
+            #box3{
+                height: 350px;
+            }
+
+
+            @media only screen and (max-width: 600px) {
+
+
+                .modal-dialog{
+                    padding-top: 100px;
+                    margin-left: 30px;
+                    width: 100%;
+                    height: 100%;
+                }
+
+                .rcorners1{
+                    height:700px;
+                }
+            }
+
+        </style>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#myModal").modal('show');
+            });
+        </script>
+    <!-- boxed bg -->
+        <link id="bodybg" href="/mdac/bodybg/bg1.css" rel="stylesheet" type="text/css" />
+        <!-- template skin -->
+        <link id="t-colors" href="/mdac/color/default.css" rel="stylesheet">
+    </head>
+
+    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+        <img src="/mdac/images/ajax-loader.gif" id="displayBox" style="display: none"/>
+        <div id="wrapper">
+
+            <!-- Start Header Section -->          
+
+
+            <!-- Start Navigation Section -->
+            <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+                <div class="top-area">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-6">
+                                <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="ms" />
+                                <img src="/mdac/img/header.png" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-6 col-md-6">
+                                <p class="bold text-right">                    
+                                    <span id="clock"></span>
+                                </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="container navigation">
+                    <div class="navbar-header">
+                        <button type="button" data-target=".navbar-main-collapse" data-toggle="collapse" class="navbar-toggle">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="glyphicon glyphicon-th-large"></span>
+<!--                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>-->
+                        </button>
+                        <!--<a href="#" class="navbar-brand" href="index.html"><img src="/mdac/img/logo.png" alt="" width="40" height="46" /></a>-->
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-left navbar-main-collapse" >
+                            <ul class="nav navbar-nav">
+                                <li class="active"><a href="/mdac/main"><span class="glyphicon glyphicon-home"> </span>Home&nbsp;&nbsp;&nbsp;</a></li>
+                                <li><a href="/mdac/main?registerMain"><span class="glyphicon glyphicon-th-list"> </span>Registration&nbsp;&nbsp;&nbsp;</a></li>
+                                <li><a href="/mdac/register?viewRegistration"><span class="glyphicon glyphicon-check"> </span>Check Registration&nbsp;&nbsp;&nbsp;</a></li>
+                                <li><a href="/mdac/register?viewVisitPass"><span class="glyphicon glyphicon-list-alt"> </span>Check Visit Pass&nbsp;&nbsp;&nbsp;</a></li>
+                                <li><a href="/mdac/egate"><span class="glyphicon glyphicon-list-alt"> </span>Check Egate Eligibility Status&nbsp;&nbsp;&nbsp;</a></li>
+                            </ul>
+                        </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container -->
+            </nav>
+            <br>
+            <footer>
+                <!-- Section: intro -->
+                <section id="intro" class="intro">
+                    <div class="intro-content">
+                        <div class="container">
+                            <div class="row">
+                                
+        <form method="post" name="login" action="/mdac/main;jsessionid=0361A917F57E2185ECBB2C65130EF035.worker204"><br/>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="ms" />
+                    <div class="welcome-text-2">
+                        <div class="content-section" >
+                            <div class="container" >
+                                <div class="row" >
+                                    <div class="col-md-12">
+                                        <div class="form-wrapper" >
+                                            <div class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s" align="center">
+                                                <div class="panel panel-skin">
+                                                    <div class="panel-heading">
+                                                        <h3 class="panel-title"><span class="fa fa-pencil-square-o">Malaysia Digital Arrival Card (MDAC)</span></h3>
+                                                    </div>
+                                                    <div class="panel-body">
+                                                        <!--                                                        <h3 class="panel-title"><span class="fa fa-pencil-square-o">MDAC is required to be submitted by these 2 categories :</span></h3>-->
+                                                        <br>
+                                                        <div class="form-horizontal">                                                            
+                                                            <!--<center class="homebg">
+                                                                <img src="/mdac/img/landing.png" height="100%" width="100%"/>
+                                                            </center>-->
+                                                            <!--                                                                <div class="col-md-6" style="text-align: left">
+                                                                                                                                <div class="rcorners1">
+                                                                                                                                    <div id="box1">
+                                                                                                                                    <h4><center><b>MALAYSIA AUTOGATE FACILITIES<br>FOR FOREIGNERS</b></center></h4>
+                                                                                                                                    
+                                                                                                                                        <ol>
+                                                                                                                                            <li>MACS Holder</li>
+                                                                                                                                            <li>Long-Term Pass Holder</li>
+                                                                                                                                            <li>Visitor from:</li>
+                                                                                                                                            <ul>
+                                                                                                                                                <li style="list-style-type:disc">Australia</li>
+                                                                                                                                                <li style="list-style-type:disc">Brunei</li>
+                                                                                                                                                <li style="list-style-type:disc">Germany</li>
+                                                                                                                                                <li style="list-style-type:disc">Japan</li>
+                                                                                                                                                <li style="list-style-type:disc">Korea</li>
+                                                                                                                                                <li style="list-style-type:disc">New Zealand</li>
+                                                                                                                                                <li style="list-style-type:disc">Saudi Arabia</li>
+                                                                                                                                                <li style="list-style-type:disc">Singapore</li>
+                                                                                                                                                <li style="list-style-type:disc">United States</li>
+                                                                                                                                                <li style="list-style-type:disc">United Kingdom</li>
+                                                                                                                                            </ul>
+                                                                                                                                        </ol>
+                                                                                                                                    </div>
+                                                                                                                                    <div id="box2">
+                                                                                                                                        <p class="info1">Infographic</fp>
+                                                                                                                                        <a target="_blank" href="/mdac/img/landing.png"><font style="font-size: 18px;">Infographic.</font></a>
+                                                                                                                                        
+                                                                                                                                        <ul>
+                                                                                                                                            <li>Foreign Travellers arrived at KLIA1 and KLIA2 International Airports and all Gazetted International Checkpoints - Click for <a target="_blank" href="/mdac/img/klia1klia2.jpeg">Infographic.</a></li>
+                                                                                                                                            <li>Travellers arrived at Bangunan Sultan Iskandar Immigration, Customs, Quarantine and Security (ICQS) Complex, Sultan Abu Bakar Immigration, Customs, Quarantine and Security (ICQS) and Johor Bahru Sentral  - Click for <a target="_blank" href="/mdac/img/bsi-icqs.jpeg">Infographic.</a></li>
+                                                                                                                                        </ul>
+                                                                                                                                    </div>
+                                                                                                                                </div>
+                                                                                                                            </div>-->
+                                                            <div class="col-md-20" style="text-align: left;">
+                                                                <div class="rcorners2" style="height: 350px;">
+                                                                    <div id="box3" style="margin-top: -90px;">
+                                                                        <!--                                                                        <h3><center><b>FOREIGN VISITOR</b><br>(Other Countries)</center></h3>-->
+                                                                        <h3><center><b>FOREIGN VISITOR</b></center></h3>
+                                                                    </div>
+                                                                    <div id="box4" style="text-align: center; margin-top: -170px;" >
+                                                                        <p class="info2">Infographic</p>
+                                                                            <!--<a target="_blank" href="/mdac/img/landing.png"><font style="font-size: 18px;">Infographic.</font></a>-->
+
+                                                                        <ul style="display: inline-block; text-align: left;">
+                                                                            <li>How to register Malaysia Digital Arrival Card (MDAC) - Click for <a target="_blank" href="/mdac/img/infographic_1.png">Infographic.</a></li>
+                                                                            <li>Who is eligible to register Malaysia Digital Arrival Card (MDAC)  - Click for <a target="_blank" href="/mdac/img/infographic_2.png">Infographic.</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <div id="box5" style="text-align: center; margin-top: 20px;">
+                                                                           <p class="info2">Reminder</p>
+                                                                       <ul style="display: inline-block; text-align: left;">
+                                                                            <li>Travellers carrying cash or bearer negotiable instruments more than USD 10,000 equivalent must declare to customs.</li>
+                                                                            <li>Travellers are not allowed to carry Malaysian Ringgit more than USD 10,000 equivalent without permission from Bank Negara Malaysia. For further information, please click <a target="_blank" href=https://www.customs.gov.my/en/tp/Pages/tp_ppel.aspx>here.</a></li>
+                                                                        </ul>
+                                                                       
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group">
+                                                                <div class="col-md-12" style="text-align: center"></div>
+                                                            </div>
+                                                            <div class="form-group">
+                                                                <div class="col-md-12" style="text-align: center">
+                                                                    <a href="/mdac/main?registerMain" class="btn btn-primary toggle-loading">Register</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>				
+
+                                            </div>
+                                        </div>
+
+                                    </div> <!-- /.col-md-8 -->
+
+                                </div> <!-- /.row -->
+
+                            </div> <!-- /.container -->
+                        </div> <!-- /.content-section -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal" id="myModal" role="dialog" tabindex="-1">
+                <div class="modal-dialog" style="padding-right: 70px;">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title" style="color:white;"><b>ANNOUNCEMENT<b></h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <div id="mdac-carous" class="carousel slide" data-ride="carousel">
+                                                <ol class="carousel-indicators">
+                                                    <li data-target="#mdac-carous" data-slide-to="0" class="active"></li>
+                                                    <li data-target="#mdac-carous" data-slide-to="1"></li>
+                                                    <!--                                    <li data-target="#mdac-carous" data-slide-to="2"></li>
+                                                                                        <li data-target="#mdac-carous" data-slide-to="3"></li>-->
+                                                </ol>
+
+                                                <div class="carousel-inner" role="listbox">
+                                                    <div class="item active">
+                                                        <img id="img1" src="/mdac/img/infographic_popup.png">
+                                                    </div>
+                                                    <div class="item">
+                                                        <img id="img2" src="/mdac/img/infographic_popup2.png">
+                                                    </div>
+                                                    <!--                                    <div class="item">
+                                                                                            <img id="img3" src="/mdac/img/infographic_popup3_1.jpeg">
+                                                                                        </div>
+                                                                                        <div class="item">
+                                                                                            <img id="img3" src="/mdac/img/infographic_popup3_2.jpeg">
+                                                                                        </div>-->
+                                                </div>
+                                                <a class="left carousel-control" href="#mdac-carous" role="button" data-slide="prev">
+                                                    <span class="icon-prev" aria-hidden="true"></span>
+                                                </a>
+                                                <a class="right carousel-control" href="#mdac-carous" role="button" data-slide="next">
+                                                    <span class="icon-next" aria-hidden="true"></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        </div>
+                                        </div>
+
+                                        <!-- End Copyright Section -->
+                                        <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+                                        <div style="display: none;"><input type="hidden" name="_sourcePage" value="GlvETMdiXBXzphtSr9utJAWONnquQ_Bb7_wmIm24ldc=" /><input type="hidden" name="__fp" value="V3ZeIKvkX4I=" /></div></form></div>		
+                        </div>
+                        <br>
+                    </div>
+                </section>
+            </footer>
+            <!-- End Navigation Section --> 
+            <div class="sub-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="wow fadeInLeft">
+                                    <div class="col-md-5 col-sm-7">
+                                        <div class="footer-address">
+                                            <h4>Contact Us</h4>
+                                            <address>
+                                                Any inquiries regarding the Malaysia Digital Arrival Card (MDAC) application can be directed to: -
+                                                <br><br>
+                                                <strong><a target="_blank" href="http://eapp.imi.gov.my/tanya/create">http://eapp.imi.gov.my/spo</a></strong>
+                                            </address>                              
+                                        </div>
+                                    </div>
+                                    <div class="col-md-5 col-sm-7">
+                                        <div class="footer-address">
+                                            <h4>Desktop View | Recommended Browser </h4>
+                                            <address>
+                                                Firefox 30+,<br>
+                                                Safari 7+, Internet Explorer 11+ <br>
+                                            </address>
+                                        </div>
+                                        <div class="text-left">
+                                        </div>                                  
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>	
+                    </div>
+                </div>
+            <div class="sub-footer">
+                <div class="container">
+
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="wow fadeInLeft">
+                            <div class="text-left">
+                                <p ><strong>Malaysia Digital Arrival Card (MDAC) | © Jabatan Imigresen Malaysia</strong></p>                                  
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>    
+
+        </div>
+
+
+        <!-- End Copyright Section -->
+        <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+    </body>
+    <div class="modal" id="deleteModal">
+        <form data-toggle="validator" role="form">
+            <div class="modal-dialog" style="border: 1px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">
+                            <div>Confirmation</div>
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        Are you sure you want to Log Out?
+                    </div>
+                    <div class="modal-footer">
+
+                        <a href="/mdac/logout" class="btn btn-primary" style="width:100px;">Ya</a>&nbsp;
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="Tidak" id="cancelBtn" style="width:100px;"/>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </form>
+    </div>
+</html>
+

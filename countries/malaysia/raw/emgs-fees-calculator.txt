@@ -1,0 +1,416 @@
+TEXT COPY of emgs-fees-calculator.html (all text incl. tables/options; made with h2t.py)
+
+Education Malaysia Global Services
+ Register 
+ Log In 
+ EMGS
+Student Visa
+Apply Student Visa Online
+Track My Application
+Calculate Application Fees
+Apply for Online Distance Learning
+Apply for Graduate Pass
+Graduate Pass
+Guidelines
+Required Documents
+Medical Screening
+Registered Malaysian Clinic
+Insurance - New
+Insurance - Old
+Online Photo Checker
+Passport Photo Guidelines
+SEV Required Countries
+Policies
+Refund Policy
+Privacy Policy
+Website Terms of Use
+ Menu 
+Student Visa
+Apply Student Visa Online
+Track My Application
+Calculate Application Fees
+Apply for Online Distance Learning
+Apply for Graduate Pass
+Graduate Pass
+Guidelines
+Required Documents
+Medical Screening
+Registered Malaysian Clinic
+Insurance - New
+Insurance - Old
+Online Photo Checker
+Passport Photo Guidelines
+SEV Required Countries
+Policies
+Refund Policy
+Privacy Policy
+Website Terms of Use
+ Register 
+ Log In 
+ Calculate Your Application Fee
+ MYR0.00 
+Application Fees
+Please wait...
+*Institution Type
+-- Please Select --
+Private Higher Education Institute (IPTS) 
+Private Education Institute (IPS) 
+International Accreditation Centers (IAC) 
+Public Higher Educational Institutions (IPTA) 
+*Application Type
+-- Please Select --
+New Application for IPTS +MYR1,728.00
+New Application for IPTS (Short Course) +MYR864.00
+New Mobility Application for IPTS +MYR270.00
+Renewal Application for IPTS +MYR270.00
+New Application for IPS +MYR540.00
+Renewal Application for IPS +MYR150.80
+New Application for IAC +MYR864.00
+New Application for IAC (Short Course) +MYR270.00
+Renewal Application for IAC +MYR151.20
+New Application for IPTA +MYR1,728.00
+New Application for IPTA (Short Course) +MYR864.00
+Renewal Application for IPTA +MYR270.00
+New Mobility Application for IPTA +MYR270.00
+New Application for IPTP +MYR1,080.00
+Renewal Application for IPTP +MYR151.20 
+*Medical Screening Fee
+-- Please Select --
+Standard +MYR340.00
+Standard (Sarawak) +MYR350.00
+Standard +MYR250.00
+Not Required 
+Public University Clinics 
+*Student Pass Fee
+-- Please Select --
+Standard +MYR60.00 
+*eVAL Fee
+-- Please Select --
+eVAL (Standard Fee) +MYR159.00 
+*Health Insurance
+-- Please Select --
+EFTB - Medical Card Plan2 Age 18-70 +MYR498.00
+EFTB - Medical Card Plan3 Age 18-70 +MYR567.00
+GETB - Medical Card Regular Age 16-70 +MYR547.00
+GETB - Medical Card Premium Age 16-70 +MYR640.00
+TPIB - Medical Gold Age 16-70 +MYR551.00
+TPIB - Medical Premium Age 16-70 +MYR644.00
+Own Insurance Policy (contact your Educational Institution) 
+*i-Kad
+-- Please Select --
+i-Kad (Self-collect at EMGS) +MYR50.00
+i-Kad (Courier to Institute) +MYR60.60 
+*Multiple Entry Visa Fee
+-- Please Select --
+Afghanistan +MYR20.00
+Akrotiri +MYR20.00
+Albania +MYR20.00
+Algeria +MYR20.00
+American Samoa +MYR20.00
+Andorra +MYR20.00
+Angola +MYR20.00
+Anguilla +MYR20.00
+Antigua and Barbuda +MYR20.00
+Argentina +MYR20.15
+Armenia +MYR20.00
+Aruba +MYR20.00
+Ashmore and Cartier Islands +MYR20.00
+Australia +MYR20.00
+Austria +MYR20.00
+Azerbaijan +MYR20.00
+Bahamas, The +MYR20.00
+Bahrain +MYR20.00
+Bangladesh +MYR20.00
+Barbados +MYR20.00
+Bassas da India +MYR20.00
+Belarus +MYR20.00
+Belgium +MYR20.00
+Belize +MYR20.00
+Benin +MYR20.00
+Bermuda +MYR20.00
+Bhutan +MYR20.00
+Bolivia +MYR11.00
+Bosnia +MYR20.00
+Botswana +MYR20.00
+Bouvet Island +MYR20.00
+Brazil +MYR17.00
+British Indian Ocean Territory +MYR20.00
+British Virgin Islands +MYR20.00
+Brunei 
+Bulgaria +MYR21.90
+Burkina Faso +MYR20.00
+Burundi +MYR20.00
+Cambodia +MYR20.00
+Cameroon +MYR20.00
+Canada +MYR20.00
+Cape Verde +MYR20.00
+Cayman Islands +MYR20.00
+Central African Republic +MYR20.00
+Chad +MYR20.00
+Chile +MYR24.50
+China +MYR30.00
+Christmas Island +MYR20.00
+Clipperton Island +MYR20.00
+Cocos (Keeling) Islands +MYR20.00
+Colombia +MYR20.00
+Comoros +MYR20.00
+Congo, Democratic Republic of the +MYR20.00
+Congo, Republic of the +MYR20.00
+Cook Islands +MYR20.00
+Coral Sea Islands +MYR20.00
+Costa Rica +MYR9.00
+Cote d Ivoire +MYR20.00
+Croatia +MYR20.00
+Cuba +MYR20.00
+Cyprus +MYR20.00
+Czech & Slovak +MYR19.50
+Denmark +MYR6.00
+Dhekelia +MYR20.00
+Djibouti +MYR20.00
+Dominica +MYR20.00
+Dominican Republic +MYR12.90
+Ecuador +MYR7.00
+Egypt +MYR20.00
+El Salvador +MYR20.00
+Equatorial Guinea +MYR20.00
+Eritrea +MYR20.00
+Estonia +MYR20.00
+Ethiopia +MYR20.00
+Europa Island +MYR20.00
+Falkland Islands (Islas Malvinas) +MYR20.00
+Faroe Islands +MYR20.00
+Fiji +MYR20.00
+Finland +MYR7.00
+France +MYR12.90
+French Guiana +MYR20.00
+French Polynesia +MYR20.00
+French Southern and Antarctic Lands +MYR20.00
+Gabon +MYR20.00
+Gambia, The +MYR20.00
+Gaza Strip +MYR20.00
+Georgia +MYR20.00
+Germany +MYR20.00
+Ghana +MYR20.00
+Gibraltar +MYR20.00
+Glorioso Islands +MYR20.00
+Greece +MYR20.00
+Greenland +MYR20.00
+Grenada +MYR20.00
+Guadeloupe +MYR20.00
+Guam +MYR20.00
+Guatemala +MYR20.00
+Guernsey +MYR20.00
+Guyana +MYR20.00
+Haiti +MYR16.00
+Heard Island and McDonald Islands +MYR20.00
+Honduras +MYR20.00
+Hong Kong +MYR20.00
+Hungary +MYR21.45
+Iceland +MYR20.00
+India +MYR50.00
+Indonesia +MYR15.00
+Iran +MYR20.00
+Iraq +MYR20.00
+Isle of Man +MYR20.00
+Italy +MYR9.50
+Jamaica +MYR20.00
+Jan Mayen +MYR20.00
+Japan 
+Jersey +MYR20.00
+Jordan +MYR20.00
+Juan de Nova Island +MYR20.00
+Kazakhstan +MYR20.00
+Kenya 
+Kiribati +MYR20.00
+Kosovo +MYR20.00
+Kuwait +MYR20.00
+Kyrgyz Republic +MYR20.00
+Kyrgyzstan +MYR20.00
+Laos +MYR20.00
+Latvia +MYR20.00
+Lebanon +MYR20.00
+Lesotho +MYR20.00
+Liberia +MYR13.00
+Libya +MYR20.00
+Liechtenstein +MYR20.00
+Lithuania +MYR20.00
+Luxembourg +MYR20.00
+Macau +MYR20.00
+Macedonia +MYR20.00
+Madagascar +MYR20.00
+Malawi 
+Maldives 
+Mali +MYR20.00
+Malta +MYR20.00
+Marshall Islands +MYR20.00
+Martinique +MYR20.00
+Mauritania +MYR20.00
+Mauritius 
+Mayotte +MYR20.00
+Mexico +MYR17.50
+Micronesia, Federated States of +MYR20.00
+Moldova +MYR20.00
+Monaco +MYR20.00
+Mongolia +MYR20.00
+Montserrat +MYR20.00
+Morocco +MYR20.00
+Mozambique +MYR20.00
+Myanmar +MYR19.50
+Namibia +MYR20.00
+Nauru +MYR20.00
+Navassa Island +MYR20.00
+Nepal +MYR20.00
+Netherlands +MYR20.00
+Netherlands Antilles +MYR20.00
+New Caledonia +MYR20.00
+New Zealand +MYR20.00
+Nicaragua +MYR20.00
+Niger +MYR20.00
+Nigeria +MYR20.00
+Niue +MYR20.00
+Norfolk Island +MYR20.00
+North Korea +MYR30.00
+Northern Mariana Islands +MYR20.00
+Norway +MYR20.00
+Oman +MYR20.00
+Pakistan +MYR20.00
+Palau +MYR20.00
+Palestine +MYR20.00
+Panama +MYR14.50
+Papua New Guinea +MYR20.00
+Paracel Islands +MYR20.00
+Paraguay +MYR20.00
+Peru +MYR20.00
+Philippines +MYR36.00
+Pitcairn Islands +MYR20.00
+Poland +MYR26.20
+Portugal +MYR6.50
+Puerto Rico +MYR20.00
+Qatar +MYR20.00
+Reunion +MYR20.00
+Romania +MYR20.00
+Russia +MYR20.00
+Rwanda +MYR20.00
+Saint Helena +MYR20.00
+Saint Kitts and Nevis +MYR20.00
+Saint Lucia +MYR20.00
+Saint Pierre and Miquelon +MYR20.00
+Saint Vincent and the Grenadines +MYR20.00
+Samoa +MYR20.00
+San Marino +MYR20.00
+Sao Tome and Principe +MYR20.00
+Saudi Arabia +MYR17.20
+Senegal +MYR20.00
+Serbia +MYR20.00
+Seychelles +MYR20.00
+Sierra Leone +MYR20.00
+Singapore 
+Slovakia +MYR20.00
+Slovenia +MYR20.00
+Solomon Islands +MYR20.00
+Somalia +MYR20.00
+South Africa +MYR20.00
+South Georgia and the South Sandwich Islands +MYR20.00
+South Korea +MYR30.00
+Spain +MYR11.60
+Spratly Islands +MYR20.00
+Sri Lanka +MYR15.00
+Sudan +MYR12.90
+Suriname +MYR20.00
+Svalbard +MYR20.00
+Swaziland +MYR20.00
+Sweden +MYR20.00
+Switzerland +MYR20.00
+Syria +MYR20.00
+Taiwan +MYR20.00
+Tajikistan +MYR20.00
+Tanzania 
+Thailand 
+Timor-Leste +MYR20.00
+Togo +MYR20.00
+Tokelau +MYR20.00
+Tonga +MYR20.00
+Trinidad and Tobago +MYR20.00
+Tromelin Island +MYR20.00
+Tunisia +MYR20.00
+Turkey +MYR20.00
+Turkmenistan +MYR20.00
+Turks and Caicos Islands +MYR20.00
+Tuvalu +MYR20.00
+Uganda +MYR20.00
+Ukraine +MYR20.00
+United Arab Emirates +MYR20.00
+United Kingdom +MYR20.00
+United States of America +MYR6.00
+Upper Volta +MYR20.00
+Uruguay +MYR13.50
+Uzbekistan +MYR20.00
+Vanuatu +MYR20.00
+Vatican City +MYR20.00
+Venezuela +MYR18.00
+Vietnam +MYR13.00
+Virgin Islands +MYR20.00
+Wake Island +MYR20.00
+Wallis and Futuna +MYR20.00
+West Bank +MYR20.00
+Western Sahara +MYR20.00
+Yemen +MYR20.00
+Zambia 
+Zimbabwe 
+* Required Fields
+ MYR0.00 
+ Create Application
+ Student Visa
+Apply Student Visa Online
+Track My Application
+Calculate Application Fees
+Apply for Online Distance Learning
+Apply for Graduate Pass
+Disclaimer
+These fees do not include course fees or any other fees required by individual institutions of higher education. Medical Insurance may be purchased either through EMGS or directly through your education institution.
+Students applying to study in Public Universities (UA) have the option of attending the Medical Screening at their university or at EMGS Panel clinics.
+With effect from 1st March 2024, an 8% Service Tax will be imposed on the processing fees for all applications submitted through the Education Malaysia public website
+ Note: 
+1. iKad will not be applicable for international students' applications from Institutions in Sarawak.
+2. Insurance fees will vary based on the duration of the visa.
+Student Visa
+Apply Student Visa Online
+Track My Application
+Calculate Application Fees
+Apply for Online Distance Learning
+Apply for Graduate Pass
+Guidelines
+Required Documents
+Medical Screening
+Registered Malaysian Clinic
+Insurance - New
+Insurance - Old
+Online Photo Checker
+Passport Photo Guidelines
+SEV Required Countries
+Policies
+Refund Policy
+Privacy Policy
+Website Terms of Use
+Student Visa
+Apply Student Visa Online
+Track My Application
+Calculate Application Fees
+Apply for Online Distance Learning
+Apply for Graduate Pass
+Guidelines
+Required Documents
+Medical Screening
+Registered Malaysian Clinic
+Insurance - New
+Insurance - Old
+Online Photo Checker
+Passport Photo Guidelines
+SEV Required Countries
+Policies
+Refund Policy
+Privacy Policy
+Website Terms of Use
+Education Malaysia Global Services is a Company Limited by Guarantee (“CLBG”) under 
+the purview of the Ministry of Higher Education Malaysia
+© EMGS. All Rights Reserved. Terms and Conditions

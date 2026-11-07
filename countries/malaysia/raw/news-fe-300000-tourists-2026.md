@@ -1,0 +1,25 @@
+![logo](https://thefinancialexpress.com.bd/img/logo.png)
+
+# Malaysia targets 300,000 Bangladeshi tourists in 2026: Envoy
+
+Sunday, 7 December 2025
+
+------------------------------------------------------------------------
+
+\
+Malaysian High Commissioner Mohd Shuhada Othman on Saturday said Malaysia aims to attract 300,000 Bangladeshi tourists in 2026 under its Visit Malaysia Year campaign, stressing that stronger tourism ties and proper use of the official e-Visa system will ensure smoother travel, reports BSS.\
+The envoy made the remarks while launching the Malaysia Tourism Fair and the Visit Malaysia Year 2026 promotional campaign at the InterContinental Dhaka's Crystal Ballroom.\
+"Bangladesh remains one of Malaysia's strongest and fastest-growing tourist markets," Shuhada said, noting that the tourism revival strategy includes targeted outreach to Bangladeshi travelers.\
+Addressing reports of travelers being turned back at Malaysian immigration, the High Commissioner said the e-Visa process is "systematic and straightforward" when applicants use the official portal.\
+He warned that discrepancies arising from third-party applications may lead to complications, including blacklisting.\
+He urged citizens to apply directly through the official e-Visa platform, the link to which is regularly posted on the High Commission's Facebook page.\
+"Please feel free to reach out to us for advice," he added, assuring assistance where needed.\
+Shuhada also inaugurated Festival Malaysia during the programme.
+
+### Editor : Shamsul Huq Zahid
+
+Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th floor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208.
+
+Telephone : PABX : 9553550 (Hunting), 9513814, 7172017 and 7172012 Fax : 880-2-9567049
+
+Email : [\[email protected\]](/cdn-cgi/l/email-protection#71141518051e033105191417181f101f1218101d140901031402025f121e1c5f1315), [\[email protected\]](/cdn-cgi/l/email-protection#3650534e4644534545000e76515b575f5a1855595b)

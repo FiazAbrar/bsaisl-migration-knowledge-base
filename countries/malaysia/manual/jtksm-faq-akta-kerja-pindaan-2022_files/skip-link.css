@@ -1,0 +1,40 @@
+/**
+ * @file
+ * Styles for the skip link.
+ */
+
+.skip-link {
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  z-index: 50;
+  background: #444;
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 0.94em;
+  line-height: 1.7em;
+  padding: 1px 10px 2px;
+  border-radius: 0 0 10px 10px;
+  border-bottom-width: 0;
+  outline: 0;
+}
+.skip-link.visually-hidden.focusable:focus {
+  position: absolute !important;
+  color: #fff;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:33 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:43 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.329
+  load_resource: 188.89
+  PetaboxLoader3.resolve: 118.254
+  PetaboxLoader3.datanode: 37.612
+*/

@@ -1,0 +1,34 @@
+/**
+ * @file
+ * Visual styles for a nested tree child.
+ */
+
+div.tree-child {
+  background: url(/web/20260402042929im_/https://jtksm.mohr.gov.my/core/misc/tree.png) no-repeat 11px center; /* LTR */
+}
+div.tree-child-last {
+  background: url(/web/20260402042929im_/https://jtksm.mohr.gov.my/core/misc/tree-bottom.png) no-repeat 11px center; /* LTR */
+}
+[dir="rtl"] div.tree-child,
+[dir="rtl"] div.tree-child-last {
+  background-position: -65px center;
+}
+div.tree-child-horizontal {
+  background: url(/web/20260402042929im_/https://jtksm.mohr.gov.my/core/misc/tree.png) no-repeat -11px center;
+}
+
+/*
+     FILE ARCHIVED ON 04:29:29 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:48 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.994
+  load_resource: 191.837
+  PetaboxLoader3.resolve: 151.188
+  PetaboxLoader3.datanode: 29.526
+*/

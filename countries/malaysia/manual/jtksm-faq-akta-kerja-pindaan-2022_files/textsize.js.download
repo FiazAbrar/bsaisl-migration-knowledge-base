@@ -1,0 +1,102 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+/**
+ * @file
+ * Attaches next behavior for textsize functionality.
+ */
+
+(function (Drupal, drupalSettings) {
+
+  let init = false;
+
+  Drupal.behaviors.a11y_textsize = {
+    attach: function (context, settings) {
+      let b = this;
+
+      if (!init) {
+        init = true;
+
+        b.init();
+
+        let inputs = document.querySelectorAll('.a11y-textsize-control') || [];
+        inputs.forEach(function(input) {
+          input.addEventListener('click', (e) => {
+            b.dispatcher(e, b);
+          });
+        })
+      }
+    },
+
+    init: function () {
+      let b = this;
+      let body  = document.querySelector('body');
+      let factor = Cookies.get('a11y_textsize');
+
+      if (factor !== undefined) {
+        body.style.zoom = factor;
+      }
+      else {
+        body.style.zoom = 1;
+      }
+    },
+
+    dispatcher: function (context, b) {
+      let input = context.currentTarget;
+      let body  = document.querySelector('body');
+      let factor = parseFloat(Cookies.get('a11y_textsize'));
+
+      if (isNaN(factor)) {
+        factor = 1;
+      }
+
+      if (b.getAttr(input) === 'decrease') {
+        factor -= 0.025;
+      }
+      else if (b.getAttr(input) === 'reset') {
+        factor = 1;
+      }
+      else if (b.getAttr(input) === 'increase') {
+        factor += 0.025;
+      }
+      else {
+        factor = 1;
+      }
+
+      body.style.zoom = factor;
+
+      Cookies.set(`a11y_textsize`, factor, {path: '/'});
+    },
+
+    getAttr: function(input) {
+      return input.getAttribute('data-a11y-action');
+    }
+
+  }
+
+})(Drupal, drupalSettings);
+
+}
+
+/*
+     FILE ARCHIVED ON 04:31:03 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:24:07 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.422
+  load_resource: 270.885 (2)
+  PetaboxLoader3.resolve: 111.295 (2)
+  PetaboxLoader3.datanode: 107.097 (2)
+  revisit.resolve: 132.342
+*/

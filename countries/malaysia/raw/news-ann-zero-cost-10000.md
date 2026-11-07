@@ -1,0 +1,57 @@
+Malaysian employers have started issuing demand letters, while a delegation from the country is expected to visit Bangladesh next week to discuss the types of workers, skills and experience required. PHOTO: COURTESY OF THE DAILY STAR
+
+October 5, 2026
+
+**DHAKA** – Bangladesh is preparing to send 10,000 workers to Malaysia at zero migration cost, with recruitment to focus on skills, experience and employers’ requirements as the two countries move ahead with restarting labour migration.
+
+Malaysian employers have started issuing demand letters, while a delegation from the country is expected to visit Bangladesh next week to discuss the types of workers, skills and experience required.
+
+Labour and Employment Minister Ariful Haque Chowdhury, who is also the expatriates’ welfare and overseas employment minister, said Malaysia had agreed to receive 10,000 workers initially and that the process would begin with workers being sent free of migration costs.
+
+Speaking to reporters at the labour and employment ministry’s conference room yesterday, he said workers would be trained according to employers’ requirements before selection and sent through Bangladesh Overseas Employment and Services Limited (BOESL) and other recruiting agencies.
+
+Ariful said the Malaysian labour market had reopened following discussions between the two countries, but the government wanted to prevent a repeat of the problems workers had faced under syndicate-based recruitment.
+
+“For a long time, people going abroad have faced different forms of harassment through syndicates,” he said, adding that the government has set conditions while discussing the reopening of the market.
+
+According to officials from the expatriates’ welfare ministry and recruiting agency owners, Malaysian employers have begun issuing demand letters and enrolling workers in the Foreign Workers Centralised Management System (FWCMS) through levy payments.
+
+The Bangladesh High Commission in Kuala Lumpur has also begun attesting to demand letters from Malaysian employers.
+
+Last week, the high commission attested a demand for 28 Bangladeshi workers from the Malaysian supermarket chain NSK Trade City under Goodness Services Limited.
+
+Officials said priority would be given to sending the 10,000 workers through BOESL at zero migration cost.
+
+Mohammad Rashedul Haque, managing director of BOESL, told The Daily Star yesterday that workers with the required expertise, experience and fitness would be selected from among the 10,000.
+
+“We want to leave the selection criteria entirely to the recruiter — who they want, what kind of workers they need and what qualifications they are looking for,” he said.
+
+Rashedul said a Malaysian delegation was expected to visit Bangladesh next week to discuss recruitment criteria.
+
+He said a clearer timeframe would emerge after the delegation’s visit and once employers’ demand became known.
+
+Before sending new workers, however, BOESL plans to complete the migration of workers who could not travel to Malaysia before the market was closed for Bangladesh on May 31, 2024.
+
+That process is expected to be completed by October 16.
+
+A BOESL official said around 120 to 150 of the previously stranded workers were still waiting to travel to Malaysia. The agency would write to their employers to complete the process.
+
+Recruiting agencies, meanwhile, said they had yet to receive specific guidelines on when and how worker selection, medical examinations, training and other procedures would begin after receiving demand letters.
+
+Ariful said the medical examination process had not yet been approved and the government would provide details once arrangements were finalised.
+
+There are currently 17 approved medical centres for Bangladeshi workers.
+
+On October 1, the authorities sealed Human Diagnostic and Medical Centre on Box Culvert Road in Paltan after finding that it had been conducting medical tests and issuing reports for Malaysia-bound workers without approval.
+
+At yesterday’s briefing, Prime Minister’s Adviser and PMO spokesperson Mahdi Amin said the government was working to reopen the Malaysian labour market while giving Bangladesh’s interests the highest priority.
+
+Without giving further details, he said the process was subject to certain conditions and that some complications remained because of the existing memorandum of understanding and the structure put in place under the previous government.
+
+Mahdi said the expatriates’ welfare ministry was working on the issues and would brief the media once an effective decision was reached.
+
+- [Business](https://asianews.network/tag/business/)
+- [Economic Affairs](https://asianews.network/tag/economic-affairs/)
+- [Policy Matters](https://asianews.network/tag/policy-matters/)
+- [Region](https://asianews.network/tag/region/)
+- [Society](https://asianews.network/tag/society/)

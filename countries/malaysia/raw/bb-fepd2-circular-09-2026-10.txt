@@ -1,0 +1,1169 @@
+FEPD-2 Circular No.09  Foreign Exchange Policy Department-2
+                                      Bangladesh Bank
+
+                                                Head Office
+                                                   Dhaka
+
+                                              www.bb.org.bd
+
+                                                                     Date: 29 October 2026
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+            Consolidated circular on foreign exchange regulations ­foreign exchange
+                                        management and operations
+
+Dear Sirs,
+
+         Foreign exchange management and operations are regulated by the Foreign Exchange
+Regulation Act (FERA), 1947 and subsequent circulars issued thereagainst. To streamline
+foreign exchange management and operations, the existing regulations compiled at one place
+with modifications as necessitated are attached herewith. Existing instructions regarding foreign
+exchange management and operations available in the Guidelines for Foreign Exchange
+Transactions-2018 (GFET), Vol.-1 and its subsequent circulars will stand repealed with issuance
+of this circular excepting monthly reporting instructions contained in GFET, Vol.-2.
+
+         2. This circular is issued with the authority vested to Bangladesh Bank under Section
+20(3) of FER Act, 1947.
+
+         3. The instructions of this circular will remain valid for one year from the date of its issue.
+However, instructions to be issued within this period will be read with this circular.
+
+         Please bring the instructions to the notice of your constituents.
+
+                                Yours faithfully,
+
+Encl. As stated.
+
+                                 (Munira Islam)
+                                Director (FEPD-2)
+
+                                 Phone: 9530119
+                                               Table of Contents
+Part-A: EXCHANGE RATE AND REPORTING ....................................................................................... 1
+Part-B: BANGLADESH BANK'S TRANSACTIONS WITH ADs............................................................. 2
+Part-C: PAYMENT SETTLEMENT THROUGH ACU MECHANISM.................................................. 3-4
+Part-D: CLEARING ARRANGEMENT WITH BANGLADESH BANK .................................................. 5
+Part-E: FOREIGN CURRENCY (NOSTRO) ACCOUNTS OF ADs AND PURCHASE AND SALE OF
+FOREIGN CURRENCY .............................................................................................................................. 6
+
+   1. Accounts in foreign currency................................................................................................................ 6
+   2. Foreign currency held by ADs at the disposal of Bangladesh Bank..................................................... 6
+   3. Open position ........................................................................................................................................ 6
+   4. Overbought/oversold position in excess of prescribed limits ............................................................... 6
+   5. Purchase of one currency against another............................................................................................. 6
+   6. Short term loans and overdrafts ............................................................................................................ 7
+   7. Reconciliation of nostro accounts ......................................................................................................... 7
+Part-F: FORWARD DEALINGS IN FOREIGN EXCHANGE ................................................................... 8
+   1. General.................................................................................................................................................. 8
+   2. Forward sale and purchase.................................................................................................................... 8
+   3. Swap Transactions ................................................................................................................................ 9
+   4. Cross currency forward and swap......................................................................................................... 9
+   5. Keeping records and submission of statements .................................................................................... 9
+   6. Two way quotation ............................................................................................................................... 9
+Part-G: HEDGING OF COMMODITY PRICE RISK FOR IMPORT TRADES IN INTERNATIONAL
+MARKETS ................................................................................................................................................. 10
+Part-H: PROHIBITION REGARDING VIRTUAL ASSETS, VIRTUAL CURRENCIES AND
+FACILITATING THEIR EXCHANGE/TRANSFER/TRADING....................................11
+
+ENCLOSURES
+
+Enclosure-A: FEPD-1 Circular No. 34, dated September 13, 2026
+
+Enclosure-B: FE Circular No. 24, dated September 15, 2022
+
+Enclosure-C: BRPD Circular Letter No. 40, dated October 12, 2022
+
+Enclosure-D: DFIM Circular Letter No. 24, dated November 10, 2022
+                                                      Part-A
+                                EXCHANGE RATE AND REPORTING
+1. Authorized Dealers (ADs) are allowed to purchase and sell foreign currency from/to their
+customers and other dealers at freely negotiated rates.
+2. ADs shall provide information twice on each business day for all foreign exchange
+transactions at or above 1.00 lac US dollar or equivalent through Foreign Exchange Market
+(FXM) Module. ADs shall, before 11:30 am, report for transactions executed till 11:00 am. In the
+afternoon, ADs shall provide information of transactions executed from 11:00 am to 5:00 pm
+before 5:30 pm.
+3. Bangladesh Bank will publish a daily reference benchmark exchange rate, defined as the
+weighted average of freely quoted exchange rates in market transactions with customers and
+other dealers. To facilitate the benchmark reference exchange rate, the corresponding guideline is
+available in Bangladesh Bank website.
+4. Bangladesh Bank has launched `Foreign Exchange Intervention Strategy and Operations for
+the Bangladesh Bank' (available in Bangladesh Bank website) to ensure the smooth functioning
+of existing exchange rate regime.
+5. Exchange rates of a business day need to be displayed on digital screens/display boards visible
+to customers of ADs as well as on the top of their websites.
+
+                                                               1
+                                                      Part-B
+                      BANGLADESH BANK'S TRANSACTIONS WITH ADs
+1. Buying and selling
+Bangladesh Bank's purchase and sales from and to ADs are in approved foreign currencies as per
+notification issued by Bangladesh Bank from time to time. All such transactions with Bangladesh
+Bank are required to be in multiples of USD 10,000 or equivalent other approved foreign
+currencies, subject to a minimum of USD 50,000 or equivalent other approved foreign
+currencies. ADs are free to quote their own rates for transactions in the interbank market and
+with their customers.
+
+                                                               2
+                                                      Part-C
+                  PAYMENT SETTLEMENT THROUGH ACU MECHANISM
+
+1. The central banks of Bangladesh, India, Iran, Nepal, Pakistan, Sri Lanka, Myanmar, Bhutan
+and Maldives have an agreement to settle current transactions between these countries through
+the Asian Clearing Union (ACU) mechanism. All such payments to the ACU member countries
+excepting those covered by loan/credit agreements are accordingly settled through the ACU
+mechanism in "Asian Monetary Units" which may be referred to in the abbreviated form as
+"AMUs". The Asian Monetary Units shall be denominated as 'ACU Dollar', 'ACU Euro' and
+`ACU JPY' which shall be equivalent in value to one US Dollar, one Euro and one JPY
+respectively. In response to the Central Bank of Sri Lanka (CBSL)'s decision to remain
+temporarily suspended from ACU mechanism with effect from October 14, 2022; all ADs are
+advised not to do any trade and trade related transactions with Sri Lanka through ACU
+mechanism.
+
+2. The ACU Agreement referred to above provides for settlement of the following types of
+payments:
+(a) Payments from residents in the territory of one participating country to residents in the
+territory of another participating country;
+(b) Payments for current international transactions as defined by the Articles of Agreement of the
+International Monetary Fund;
+(c) Payments permitted by the country in which the payer resides.
+
+Besides, payments arising on account of import/export transactions on deferred payment terms
+will also be considered as eligible payments for being settled under ACU mechanism. However,
+payments not related to import and export of goods and services, except to the extent mutually
+agreed between two or more participants will be considered as ineligible payments for being
+settled under ACU mechanism.
+
+The minimum threshold amount to be routed through ACU member central banks under ACU
+arrangement has been set at 500 (Five hundred) ACU Dollar, ACU Euro or ACU JPY.
+
+Transactions considered as ineligible for being settled under ACU mechanism may be settled
+bilaterally (as settlements take place other than under ACU mechanism) and shall be reported
+under Statement S-1 (or other relevant statements as the case may be), Guidelines for Foreign
+Exchange Transactions, Vol-2.
+
+3. ADs shall maintain nostro accounts in AMUs (ACU Dollar, ACU Euro, ACU JPY) with their
+correspondent banks in ACU member countries for the purpose of settlements through ACU.
+Similarly accounts in AMUs (ACU Dollar, ACU Euro and ACU JPY) may be opened by ADs in
+their books in the names of their correspondents in ACU member countries. ADs may pay
+interest on the balance of nostro accounts in AMUs as per mutually agreed terms and conditions
+with the correspondent(s).
+
+                                                               3
+4. An AD needing to fund its AMU nostro account with a correspondent bank in an ACU
+member country shall do so through Bangladesh Bank against surrender of the required amount
+in AMU, or of equivalent Taka at Bangladesh Bank's selling rate.
+Bangladesh Bank will advise the central bank of the concerned ACU member country to make
+the amount available to the transferee bank in that country. After making the payment, the central
+bank of the recipient ACU member country shall advise the Secretary General of the ACU
+Secretariat to credit its account by debit to Bangladesh Bank's account.
+5. For repatriating funds from an AMU nostro account with a correspondent bank in an ACU
+member country, an AD shall advise the correspondent bank to route the payment through the
+central bank of that country, which will advise Bangladesh Bank to make the amount available to
+the recipient AD. Bangladesh Bank on receipt of the advice, shall make the fund available to the
+recipient AD (either in AMU or in equivalent Taka at BB's buying rate, at AD's option) and shall
+advise the Secretary General of the ACU Secretariat to credit its account by debit to the account
+of the central bank of the transferor ACU member country.
+
+                                                               4
+                                                      Part-D
+                  CLEARING ARRANGEMENT WITH BANGLADESH BANK
+1. Bangladesh Bank operates a foreign currency clearing system enabling AD banks to settle
+their mutual claims in US Dollar, Pound Sterling, Euro, Japanese Yen, Canadian Dollar and
+Chinese Yuan Renminbi (CNY) arising from interbank transactions; to economize the time and
+cost involved in settlements through correspondents abroad. Under this arrangement, AD banks
+maintain clearing accounts with the Bangladesh Bank in US Dollar, Pound Sterling, Euro,
+Japanese Yen, Canadian Dollar and Chinese Yuan Renminbi (CNY). Apart from the purpose of
+settlement with other ADs, these accounts may also be used for transfers to and from
+correspondents abroad.
+2. Settlement of the balances lying in each of the clearing accounts takes place at the end of each
+month. Bangladesh Bank charges interest on the debit balance in an account on daily product
+basis and debits the bank's account at the end of each working day and pays interest on the
+amount of credit balance at the rates prescribed from time to time.
+3. Payment against inland foreign currency LCs and inland back to back LCs in foreign currency
+as mentioned in paragraph 2. Part-F and paragraph 3, Part-G of FEPD-1 Circular No. 30, dated
+August 13, 2026 shall be settled through Bangladesh Bank FC clearing accounts of the concerned
+AD banks.
+4. Operation of the clearing system is centralized in the Forex Reserve and Treasury
+Management Department-1 of Bangladesh Bank, Head Office, Dhaka; but ADs in other centers
+may transfer funds to other banks through their Head/Principal Office in Dhaka.
+
+                                                               5
+                                                      Part-E
+                    FOREIGN CURRENCY (NOSTRO) ACCOUNTS OF ADs
+                    AND PURCHASE AND SALE OF FOREIGN CURRENCY
+
+1. Accounts in foreign currency
+
+ADs may maintain accounts in freely convertible/usable currencies with their
+correspondents/branches abroad. However, maintaining relationship, opening of nostro accounts
+and transactions with correspondents shall be subject to compliance with AML-CFT regulations
+of Bangladesh Bank/ other competent authorities.
+
+2. Foreign currency held by ADs at the disposal of Bangladesh Bank
+
+The foreign currencies held by ADs shall at all time be deemed to be held at the disposal of
+Bangladesh Bank. Bangladesh Bank, through Foreign Exchange Policy Department-2, may give
+such instructions with regard to the disposal of such currencies as it may deem necessary and
+expedient.
+
+3. Open position
+
+Bangladesh Bank sets prudential limits on each AD bank's open (overbought/oversold) exchange
+position. An AD should ensure that the prescribed open position limit is not exceeded. If an AD
+exceeds the prescribed limit and fails to furnish satisfactory explanation for the same, it may be
+asked to sell the excess amount ready and to cover its position by buying forward for deliveries
+corresponding to the maturities of its own forward obligations.
+
+4. Overbought/oversold position in excess of prescribed limits
+
+ADs are required to work out their open exchange position (overbought/oversold) daily as at the
+close of the business on each working day and report to the Bangladesh Bank at the subsequent
+working day through RIT in the web portal of Bangladesh Bank (paragraph 22, chapter 2, GFET,
+Vol.-2). If for reasons beyond control the overbought/oversold position during the period under
+report is in excess of the prescribed limit, the daily statement must be accompanied by a letter
+explaining the circumstances. A hard copy of the daily exchange position statement prepared as
+per Appendices 49A & 49B, GFET, Vol-2), duly signed by responsible officials of the respective
+AD, shall have to be preserved for at least five years for eventual utilization/inspection by
+Bangladesh Bank.
+
+5. Purchase of one currency against another
+
+ADs may enter into transactions for sale or purchase of foreign currencies both ready and
+forward with other ADs, foreign correspondents and overseas branches provided that all such
+transactions must be reported to Bangladesh Bank in the appropriate Returns (chapter 2, GFET,
+Vol-2), daily exchange position statement (pargrapah-22) and daily interbank transaction
+statement through online (paragraph-26).
+
+                                                               6
+6. Short term loans and overdrafts
+ADs may obtain short term loans and overdrafts for a period not exceeding seven days at a time
+from overseas branches and correspondents at the going market rates to meet their short term
+needs. If these loans or overdrafts require collateral in Bangladesh or abroad prior approval must
+be obtained from Bangladesh Bank. Short term loans and overdrafts taken under the authority of
+this paragraph may be remitted by ADs without prior approval of Bangladesh Bank, but subject
+to report.
+7. Reconciliation of nostro accounts
+In pursuance to the 'Foreign Exchange Risk Management Guidelines' (as prescribed by FE
+Circular Letter No. 12, dated February 20, 2025 and subsequent amendments) to be followed in
+case of foreign exchange risks for reconciliation of nostro accounts, Head Offices/Principle
+Offices of ADs are required to submit comprehensive review of all nostro accounts containing a
+complete list of all un-reconciled entries at the end of each quarter of the year; the list to be
+prepared by officials who have no involvement in the transaction and approval process of the
+nostro accounts. Banks are also required to make provisions periodically for debit entries
+remaining un-reconciled for more than six months as per schedule issued by Bangladesh Bank
+from time to time. In addition, June and December end reviews must be accompanied with
+certification of the External Auditor of the bank concerned on correctness of the status of the un-
+reconciled entries mentioned on the review.
+Besides, banks are also required to submit summary of un-reconciled nostro account entries at
+the end of each month through online web portal (paragraph 26, chapter 2 of GFET-2). However,
+quarter-end statement will include summary of un-reconciled entries as per format given in
+Appendix 50, GFET, Vol-2.
+
+                                                               7
+                                          Part-F
+            FORWARD DEALINGS IN FOREIGN EXCHANGE
+
+1. General
+
+ADs may engage in forward sales only against bona fide need of the customers/counterparty
+banks. In all cases, ADs must ensure that the cover is intended to neutralize the risks arising from
+such transactions. ADs may purchase forward from banks and non-bank customers like
+exporters, foreign currency account holders including retention quota accounts of exporters,
+foreign currency accounts of specialized zones (export processing industrial areas such as EPZ,
+HTP, EPA of Invest Bangladesh Authority), exchange houses abroad etc. Be it forward sale or
+purchase, ADs must cover their own risk within the shortest possible time.
+
+2. Forward sale and purchase
+
+(a) All forward contracts should be treated as firm and should be closed out on expiry. In such
+cases, ADs should charge the difference between the contracted (booked) rate and the TT clean
+spot buying or TT spot selling rate, as the case may be, ruling on the date the contract is closed
+out. The forward contract should be closed without charging any difference if the rate moves in
+favor of the customer on the date of the closure. In other words, in case of a forward purchase by
+an AD no difference will be charged if the TT spot selling rate on the date of closure is at par or
+lower (i.e., inferior from the point of view of the customer) than the booked rate. Similarly, no
+difference should be charged for closing out a forward sale contract if the TT clean spot buying
+rate on the date of closure is at par or higher (i.e., costlier than the booked rate from the point of
+view of the customer) than the booked rate.
+
+(b) With a view to bringing operational flexibility, forward contracts may be renewed/rolled
+over/extended for the new delivery period at the prevailing market rate, provided ADs are
+satisfied with documentary evidences that customers are unable to perform the contracts due to
+changes in the actual requirements or other valid exigencies. In such cases, when both the
+cancellation and re-booking of forward contracts are undertaken simultaneously, gain to
+customers, if any thereon, to be passed on to customers at the time of entering into new
+arrangement. Such gains favoring customers shall be retained in margin accounts of customers
+till the close of the underlying transactions. Balances held in this account may be utilized by ADs
+for realizing dues from the customers for this purpose.
+
+(c) Forward contracts may be executed on outright full settlement or net settlement on non-
+deliverable basis in conformity with the principle of satisfying bona fide needs of the resident
+business entities. Hence, it is permissible to book short term non-deliverable forward contracts
+with roll-over flexibility till maturity for ultimate settlement on deliverable basis against
+underlying transactions having long tenor. In the context of settlement of gain/loss in favor of
+customers during the split tenor of the contracts, the procedure as stated above shall apply.
+
+(d) Forward premium calculation
+(i) A calculation of forward selling exchange rate is presented in the below table containing
+determination of forward premium:
+
+            8
+Spot  Tenor in     T-Bill rate  Benchmark   Differential    Forward        Forward
+                   (c)          rate in FC  (e)= (c) ­ (d)  Premium        Rate
+selling rate Days               (d)                         (f) = (a)*(e)  (g)=
+                                                            *(b)/360       (a)+(f)
+(a)   (b)
+
+(ii) With regard to forward buying rate, ADs shall consider spot buying rate to calculate the
+desired rate on adjustment of forward premium.
+
+3. Swap Transactions
+
+ADs may undertake swap transactions in line with their counterparty limit in accordance with the
+core risk management guidelines issued by Bangladesh Bank to cover their risks arising from
+forward transactions and manage cash flow mismatch arising out of day to day transactions.
+However, they are advised to refrain from taking speculative positions through swap
+transactions.
+
+4. Cross currency forward and swap
+
+Cross currency swap and forward, not backed by underlying customers' transactions, can be
+undertaken only if the 'Foreign Exchange Risk Management Guidelines' (as prescribed by FE
+Circular Letter No. 12, dated February 20, 2025 and subsequent amendments) are implemented
+to the satisfaction of Bangladesh Bank.
+
+5. Keeping records and submission of statements
+
+All documents (copy of LCs, contracts etc.) relating to forward contracts and swap transactions
+must be preserved for subsequent inspection by Bangladesh Bank. Besides, ADs shall report all
+the interbank transactions on daily basis through online as instructed in paragraph 26, chapter 2
+of GFET (Vol-2).
+
+6. Two way quotation
+
+ADs are advised to quote both sale and purchase rate while quoting/asking for any spot/forward
+transaction in the interbank market.
+
+                                9
+                                                      Part-G
+                          HEDGING OF COMMODITY PRICE RISK FOR
+                       IMPORT TRADES IN INTERNATIONAL MARKETS
+ADs are permitted to facilitate and offer commodity price risk hedging products to eligible
+importers, irrespective of whether such importers operate within designated specialized zones or
+outside such zones, within a structured, transparent, and supervised framework, subject to the
+terms and conditions set out in FEPD-1 Circular No. 34, dated September 13, 2026 (Enclosure-
+A).
+
+                                                              10
+                                                      Part-H
+       PROHIBITION REGARDING VIRTUAL ASSETS, VIRTUAL CURRENCIES
+
+             AND FACILITATING THEIR EXCHANGE/TRANSFER/TRADING
+Foreign Exchange Policy Department of Bangladesh Bank (now Foreign Exchange Policy
+Department-2) has imposed restriction on virtual assets and virtual currencies, including
+activities facilitating their exchange, transfer or trading vide FE Circular No. 24, dated
+September 15, 2022 (Enclosure-B). Similar prohibitions were subsequently reiterated through
+BRPD Circular Letter No. 40, dated October 12, 2022 and DFIM Circular Letter No. 24,
+November 10, 2022 (Enclosure-C and D) addressed to all scheduled banks, and financial
+institutions. The restrictions remain in force, and the concerned parties are required to comply
+with the applicable instructions issued by Bangladesh Bank.
+
+                                                              11
+                                                        Enclosure-A
+
+                  Foreign Exchange Policy Department-1
+                               Bangladesh Bank
+                                  Head Office
+                                      Dhaka
+                                www.bb.org.bd
+
+FEPD-1 Circular No. 34          Date: September 13, 2026
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Hedging of Commodity Price Risk for Import Trades in International Markets
+
+Dear Sirs,
+
+         In view of the evolving dynamics of global commodity markets, which highlight
+the importance of effective price risk management for importers in Bangladesh, the
+adoption of appropriate risk management practices may facilitate better cost planning
+and enhance business competitiveness.
+
+         02. Bangladesh Bank, in exercise of the powers conferred under Section 20(3) of
+the Foreign Exchange Regulation (FER) Act, 1947, hereby issues enclosed the
+Guidelines on Hedging of Commodity Price Risk for import trades in international
+markets to promote prudent risk management practices and align with international
+standards.
+
+         03. Authorized Dealers (ADs) are permitted to facilitate and offer commodity
+price risk hedging products to eligible importers, irrespective of whether such importers
+operate within designated specialized zones or outside such zones, within a structured,
+transparent, and supervised framework, subject to the terms and conditions set out in
+these guidelines.
+
+         04. In light of the above decision, the instructions contained at paragraph 14,
+chapter 4 of the Guidelines for Foreign Exchange Transactions (GFET)-2018, Vol-1,
+shall stand amended.
+
+         Please bring the contents of this circular to the notice of all concerned.
+
+Encl. As stated.                            Yours faithfully,
+
+                                   (Dr. Md. Abu Bakkar Siddique)
+                                Director (FEPD-1) (Current Charge)
+
+                                            Phone: 9530092
+                                            Guidelines on
+
+Hedging of Commodity Price Risk for Import Trades in International Markets
+
+In exercise of the powers conferred under Section 20(3) of the FER Act, 1947,
+Bangladesh Bank hereby issues the following Guidelines.
+
+1. Short title
+
+These instructions shall be known as the Guidelines on Hedging of Commodity Price
+Risk for Import Trades in International Markets, 2026. These instructions shall come
+into force with immediate effect.
+
+2. Definitions
+
+(a) Exposure to commodity price risk
+
+"Exposure to Commodity Price Risk" means any direct or indirect exposure to
+fluctuations in commodity prices arising from import transactions in international
+markets.
+
+    (i) Direct exposure ­ An importer shall be deemed to have direct exposure where
+    the imported commodity, or any component thereof, is priced based on an
+    internationally recognized benchmark.
+
+    (ii) Indirect exposure ­ An importer shall be deemed to have indirect exposure
+    where the imported product contains a commodity that is not explicitly benchmark-
+    linked but whose price remains subject to price.
+
+(b) Hedging ­ "Hedging" means the activity of entering into a derivative transaction to
+mitigate an identifiable and measurable commodity price risk.
+
+(c) Eligible importers ­ "Eligible Importers" means importers who meet the criteria set
+out in paragraph 3 of these guidelines.
+
+(d) Hedge classification ­
+
+    (i) Procurement hedge ­ A hedge undertaken prior to import or purchase in order
+    to manage the risk of an increase in commodity price.
+
+    (ii) Structured hedge ­ A hedge undertaken by using a combination of permitted
+    hedging instruments in order to improve cost efficiency or define a price band,
+    without creating net open speculative exposure.
+
+3. Eligible importers
+
+Eligibility shall be established on the basis of verifiable underlying exposure supported
+by confirmed import orders, letters of credit, or purchase agreements denominated in
+foreign currency. Eligible importers include:
+
+                                                         1
+(a) Importers of raw materials or intermediate goods such as crude oil, edible oil,
+metals, grains, fertilizer, and other primary commodities;
+
+(b) Importers of essential commodities for domestic consumption; and
+
+(c) Public sector entities engaged in strategic or large-scale import operations.
+
+4. Permissible hedging instruments
+
+Eligible importers may undertake hedging transactions linked to their underlying import
+exposures using the following instruments:
+
+(a) Commodity futures on internationally recognized exchanges (Schedule-I);
+
+(b) Forward contracts linked to reference commodity indices (Schedule-II);
+
+(c) Commodity swaps to lock in price differentials (Schedule-III);
+
+(d) Commodity options and permitted option structures for price protection (Schedule-
+IV).
+
+5. Operational modality
+
+Eligible importers having exposure to commodity price risk for any permissible
+commodity may hedge such exposure in international markets through Authorized
+Dealers (ADs) using any of the permitted instruments in accordance with the provisions
+contained in Schedules I to IV. ADs may arrange hedging and related foreign exchange
+transactions under the following conditions:
+
+(a) The instruments shall be used strictly for hedging genuine exposures and not for
+speculative or leveraged trading;
+
+(b) The notional amount and tenor of the hedge shall not exceed the value or maturity of
+the underlying import transaction;
+
+(c) Importers may use fixed-for-floating swaps to lock in a fixed price while receiving a
+floating market price;
+
+(d) Importers may purchase call options to cap the maximum purchase price for
+procurement-related exposures;
+
+(e) Importers may use collar structures, including zero-cost collars, provided such
+structures are linked to underlying import exposure and do not create net open
+speculative positions;
+
+(f) In any structure involving a written option, including collars, the written leg shall be
+fully covered by the corresponding underlying exposure and shall not exceed the
+quantity or tenor of the hedgeable exposure;
+
+                                                         2
+(g) Importers shall furnish documentary evidence of underlying exposure, including
+LCs, import contracts, or confirmed purchase orders specifying commodity type,
+quantity, quality, and expected shipment/delivery dates;
+
+(h) In case of over-the-counter (OTC) derivative contracts, justification for using OTC
+instruments instead of exchange-traded products shall be properly documented;
+
+(i) Where hedging uses a benchmark price different from the underlying commodity,
+justification including the economic rationale and basis relationship shall be properly
+documented;
+
+(j) Proxy hedging using a correlated internationally recognized benchmark may be
+permitted where direct hedging instruments are not available or not liquid, subject to
+proper documentation and internal approval;
+
+(k) Hedging shall be undertaken under a Board-approved Risk Management Policy of
+the importer;
+
+(l) All margin, premium, and settlement payments related to hedging transactions shall
+be routed through the concerned AD in compliance with existing foreign exchange
+regulations, including deduction and payment of applicable tax/VAT;
+
+(m) ADs shall maintain full documentation for each hedge transaction, including deal
+ticket, confirmation, underlying documents, premium or margin remittances, and
+settlement records;
+
+(n) ADs shall ensure margin practices following accepted international norms, including
+daily mark-to-market valuation and reconciliation of outstanding positions;
+
+(o) ADs shall transact only with internationally recognized exchanges, brokers, or
+counterparties having acceptable credit standing and operational capability;
+
+(p) ADs shall obtain an annual certificate from the importer's statutory auditors
+confirming:
+
+    (i) Hedge transactions align with underlying exposures;
+
+    (ii) Margin and premium remittances are consistent with such exposures;
+
+    (iii) The risk management policy and exposure-calculation methodology are
+    appropriate;
+
+(q) ADs may issue Standby Letters of Credit or Guarantees on behalf of clients in lieu
+of margin remittance for hedging transactions, subject to:
+
+    (i) Maximum validity of one year;
+
+    (ii) Use strictly for hedging-related margin obligations;
+
+                                                         3
+(r) Where necessary for effective risk mitigation, ADs may facilitate associated foreign
+exchange transactions in accordance with existing regulations;
+
+(s) ADs shall ensure that importers are made aware of potential mark-to-market,
+premium, margin, settlement, and contingent liability implications before execution of
+any hedging transaction.
+
+6. Hedge limits
+
+Importers may hedge up to 100 percent of their underlying commodity exposure,
+including partial coverage where appropriate. Multiple hedge contracts may be executed
+provided the aggregate value does not exceed the import exposure. ADs shall ensure
+that each hedge is closely matched in terms of timing, quantity, and contract
+specifications with the underlying transaction, as the case may be.
+
+7. Prudential and documentation requirements
+
+(a) Importers shall maintain detailed records of each hedging transaction including:
+
+    (i) Contract details: notional amount, maturity, strike price, settlement terms;
+    benchmark, and premium where applicable;
+
+    (ii) Evidence of corresponding import exposure;
+
+    (iii) Hedge classification as procurement hedge and/or structured hedge;
+
+    (iv) Internal approvals and risk management policy references.
+
+(b) Importers shall submit to ADs a written declaration confirming that the hedge has
+been undertaken solely for risk mitigation and not for speculative gain.
+
+(c) ADs shall retain all related records for inspection by Bangladesh Bank and for
+compliance with prudential supervision.
+
+(d) ADs shall ensure that hedge effectiveness is demonstrable through price correlation,
+economic offset or other appropriate internal methodology.
+
+8. Accounting and valuation
+
+(a) Hedging gains or losses shall be accounted for in accordance with International
+Financial Reporting Standards (IFRS-9), where applicable.
+
+(b) Hedging gains or losses shall be properly recognized in financial statements in line
+with the matched exposure principle in the importer's financial statements.
+
+(c) Importers are responsible for accounting treatment in their financial statements
+consistent with applicable local regulations and auditing requirements.
+
+                                                         4
+9. Supervisory and reporting arrangements
+
+(a) ADs shall report all importer-linked hedging transactions to Bangladesh Bank on a
+monthly basis as per Annexure I, detailing commodity type, hedge classification,
+instrument, amount, maturity, and counterparties.
+
+(b) Any irregularity, default, speculative use or misuse of these instructions will be
+reported immediately to Bangladesh Bank.
+
+(c) Non-compliance may result in suspension of hedging facility or other regulatory
+actions.
+
+10. Risk awareness
+
+ADs shall advise importers that hedging is a risk-management tool and not a profit-
+generating mechanism. It reduces uncertainty but cannot eliminate market risk. Adverse
+price movements opposite to the hedged position may result in losses. Importers shall,
+therefore, fully understand product features, premium, margin requirements, potential
+mark-to-market obligations, contingent liabilities under written options, and settlement
+procedures before entering into any contract.
+
+11. Internal systems and controls
+
+ADs shall align their internal risk management systems, due diligence procedures and
+control mechanisms with best international standards for commodity derivative
+transactions.
+
+12. Client accommodation
+
+ADs shall accommodate importers' hedging requests upon receipt of the required
+documentation, along with importers' internal approvals.
+
+13. Periodic return
+
+ADs shall submit a quarterly report to Foreign Exchange Policy Department-1,
+Bangladesh Bank, in the prescribed format (Annexure II). In case of no transactions, a
+"Nil" report shall be submitted.
+
+14. Prior concurrence of Bangladesh Bank
+
+ADs intending to offer commodity price hedging services under this circular shall
+obtain prior concurrence from Bangladesh Bank by submitting Board-
+approved specification of the proposed products, along with the standard operating
+procedures (SOP).
+
+                                                         5
+                                         Annexure I: Monthly returns
+
+Table 1: Customer-wise hedging position
+
+Sl Name Sector Hedge                   Underlying Exposure            Hedge  Hedge Tenor Start Maturity
+
+    of                Classification Commodity Amount                 Instrument Amount                 Date Date
+
+    Client                                   (USD/Equivalent)
+
+Table 2: Instrument-wise details       Exchange/ Counterparty  Contract      Notional    Strike /       Premium
+                                       OTC                     Reference     Amount      Fixed          Paid/Net
+Sl Client Instrument Type                                                                Price          Premium
+        Name (Futures/Options/
+                   SWAP/Forwards)
+
+Table 3: Hedge effectiveness and coverage
+
+Sl             Client Name Underlying        Hedge Amount Hedge Ratio        Effectiveness              Basis Risk
+                                                                   (%)       Status                     (Y/N)
+                                   Exposure
+
+Table 4: Exception/red flag reporting
+
+Sl                      Client Name          Nature of Exception Details                 Action Taken
+
+Table 5: Top exposures (Top 10 Clients)
+
+Rank                  Client Name        Total Exposure     Total Hedge      Instrument Type Risk Category
+
+Declaration:
+
+We hereby confirm that:
+      · All hedging transactions reported above were undertaken against genuine underlying import exposures;
+      · The notional amount and maturity of each hedge are aligned with the corresponding import transaction, as
+            applicable; and
+      · No speculative or leveraged transactions have been conducted.
+
+Certification
+
+Authorized Signatory    : __________________________
+Name                    : __________________________
+Designation             : __________________________
+Signature & Seal        : __________________________
+Date                    : __________________________
+
+Submission instruction
+
+This statement shall be submitted within 10 days from the end of each month to Foreign Exchange Policy
+Department-1, Bangladesh Bank, Head Office, Dhaka.
+(In case of no transactions, a "Nil" statement shall be submitted.)
+
+                                             6
+                                     Annexure II: Quarterly returns
+
+Table 1: Aggregate exposure
+
+Total Underlying       Total Hedged  Net Open Exposure % Hedged      Remarks
+Exposure               Exposure
+
+Table 2: Instrument mix
+Futures
+Options
+SWAPs
+Forwards
+Others
+
+Table 3: Sectoral distribution
+Energy
+Agriculture
+Metals
+Others
+
+Table 4: MTM position
+Total MTM Gain
+Total MTM Loss
+Net MTM
+Remarks
+
+Certification:
+
+We hereby certify that:
+      The above information is true and correct to the best of our knowledge.
+      The reported hedging transactions were undertaken strictly against genuine import exposures.
+      All transactions were conducted in compliance with prevailing foreign exchange regulations of Bangladesh
+            Bank.
+
+Authorized Signatory     : __________________________
+Name                     : __________________________
+Designation              : __________________________
+Signature & Seal         : __________________________
+Date                     : __________________________
+Place                    : __________________________
+
+Submission instruction
+
+This statement shall be submitted within 15 days of the end of each quarter to Foreign Exchange Policy Department-
+1. Bangladesh Bank, Head Office, Dhaka
+(In case of no transactions, a "Nil" statement shall be submitted.)
+
+                                     7
+                                  Schedule I
+                            Commodity Futures
+
+Description:
+
+Commodity futures are standardized contracts traded on exchanges that enable
+importers to lock in a future price for a commodity. To manage the risk of price
+fluctuations between the contract date and the shipment or payment date, the importer or
+its bank takes a futures position.
+
+Operational flow:
+
+(a) Importer signs commodity purchase contract with exporter.
+(b) Importer requests LC from a Bangladeshi commercial bank, where applicable.
+(c) AD bank issues the LC through international banking networks.
+(d) Importer requests price hedging through the AD bank.
+(e) AD bank executes a futures contract through an international broker or exchange
+
+    member.
+(f) Futures position is held until shipment or price exposure period ends.
+(g) Gains or losses from futures offset commodity price movement.
+
+Operational flowchart (LC-linked):
+
+Importer
+
+Import contract with the overseas supplier
+
+LC issuing bank
+
+         LC opening and application for futures
+         contract
+International futures broker
+
+Commodity futures exchange
+
+OFpuetruaretisopnraolfFit/lloowsschoaffrste(tsWimithpoourttpLriCceLriisnkk):
+                                                         8
+Operational flowchart (Without LC linkage):
+ Importer
+          Commodity purchase contract
+ International futures broker
+
+ Commodity futures exchanges
+
+ Futures profit/loss offsets import price risk
+Example:
+A Bangladeshi importer has agreed to purchase 10,000 tons of wheat at the market price
+in three months. The current market price is USD 350 per ton. To secure this price, the
+importer, through its bank, buys wheat futures at USD 350 per ton.
+Outcome:
+
+     If the price rises to USD 420 per ton, the import cost will increase, but the
+         futures will gain approximately USD 70 per ton, which helps offset the increase.
+
+     If the price falls to USD 320 per ton, the importer will buy the wheat at a lower
+         price but will incur a loss on the futures, which helps stabilize the total cost.
+
+                                                         9
+                                              Schedule II
+                                 Commodity Forward Contracts
+Description:
+A commodity forward contract is a customized agreement between two parties to buy or
+sell a commodity at a predetermined price on a specific future date. Unlike futures
+contracts, which are standardized and traded on exchanges, forwards are typically
+traded over-the-counter (OTC) through banks and are tailored to meet the specific needs
+of the importer.
+Operational flow:
+    (a) Importer signs commodity purchase agreement with the supplier.
+    (b) Importer asks the AD bank to lock the future commodity price.
+    (c) AD Bank quotes forward price.
+    (d) Forward contract is agreed.
+    (e) AD Bank offsets risk in the international market, where applicable.
+    (f) Importer financing and LC opening (optional).
+    (g) Commodity delivery and forward contract settlement take place on the agreed
+         date
+
+Operational flowchart (LC-linked):
+ Importer
+          Import contract
+
+ LC Issuing Bank
+
+          LC opening and forward contract agreement
+
+ International commodity supplier/bank counterparty
+
+ Commodity delivered at pre-agreed forward price
+
+                                                        10
+Operational flowchart (Without LC linkage):
+ Importer
+          Import contract
+ International commodity supplier/bank counterparty
+
+ Commodity delivered at pre-agreed forward price
+Example:
+A Bangladeshi importer has agreed to import 5,000 tons of wheat in three months. The
+current market price is USD 360 per ton. To manage future price fluctuations, the
+importer has entered into a forward contract with a bank at a price of USD 365 per ton.
+Outcome:
+
+     If the market price rises to USD 420 per ton, the importer will still be able to
+         purchase the wheat for the agreed price of USD 365 under the forward contract,
+         thereby avoiding the higher market price.
+
+     If the market price falls to USD 330 per ton, the importer is still obligated to buy
+         at USD 365, which provides protection against price increases but does not
+         allow the importer to benefit from price decreases.
+
+                                                        11
+                                             Schedule III
+                                         Commodity Swaps
+Description:
+Commodity swaps are over-the-counter agreements between an importer and a financial
+institution in which the importer exchanges a floating market price for a fixed price.
+These swaps are commonly used to hedge against price risks for various commodities
+purchased from overseas markets.
+Operational flow:
+    (a) Importer signs longterm commodity purchase agreement.
+    (b) Importer opens LC for shipment payments, where applicable.
+    (c) Importer enters commodity swap agreement through the AD.
+    (d) Importer pays fixed commodity price under the swap.
+    (e) Swap counterparty pays floating market price.
+    (f) Net payment offsets price fluctuations.
+
+Operational flowchart (LC-linked):
+ Importer
+          Commodity purchase contract
+ LC Issuing Bank
+          LC opening and SWAP arrangement
+ International commodity SWAP
+ Bank
+
+ Settlement based on commodity price index
+
+                                                        12
+Operational flowchart (Without LC linkage):
+ Importer
+          SWAP agreement
+ International bank/swap dealer
+
+ Commodity price index settlement
+Example:
+An importer plans to purchase fuel linked to a global benchmark. The current market
+price is USD 80 per barrel. The importer enters into a swap contract with a bank,
+agreeing to a fixed price of USD 80 per barrel.
+Outcome:
+
+     If the market price rises to USD 100, the swap counterparty pays the difference
+         of USD 20 per barrel.
+
+     If the market price falls to USD 70, the importer pays the difference of USD 10
+         per barrel.
+
+                                                        13
+                                             Schedule IV
+                                        Commodity Options
+Description:
+Commodity options provide price protection. The importer purchases the right, but not
+the obligation, to buy or sell the commodity at a predetermined strike price. To obtain
+this protection, the importer pays an option premium except where the structure has
+been arranged on a zero-cost basis through a permitted collar strategy.
+Types of Option-Based Hedging Structures:
+(a) Procurement hedge using call option
+A call option may be used by an importer to hedge against an increase in commodity
+prices prior to procurement. This enables the importer to secure a maximum purchase
+price while retaining the benefit of any price decline.
+(b) Zero-Cost collar structure
+A collar structure involves the simultaneous purchase of a call option and sale of a put
+option, or such other permitted combination of option legs, in order to reduce or
+eliminate upfront premium cost. The structure shall be constructed such that it provides
+a defined price band and does not result in speculative exposure.
+Operational flow:
+    (a) Importer signs commodity supply contract.
+    (b) Importer opens LC with issuing bank, where applicable.
+    (c) Importer requests a call option, put option, or collar structure through the AD
+         bank depending on the nature of exposure.
+    (d) AD bank executes the option transaction through an international derivatives
+         broker, exchange, or bank counterparty.
+    (e) If market price moves adversely (increase), the option payoff offsets the increase
+         in procurement cost, as the case may be.
+    (f) If market prices move favorably (decrease), the importer may benefit from
+         market movement subject to the premium paid or collar range agreed.
+
+                                                        14
+Operational flowchart (LC-linked):
+ Importer
+          Import contract
+ LC issuing bank
+          LC opening and option contract agreement
+ International derivatives broker/bank
+ Settlement of gain/loss arising from option contract
+
+Operational flowchart (Without LC linkage):
+ Importer
+          Option contract (cap/call)
+ International commodity supplier/bank counterparty
+ Commodity delivered at pre-agreed forward price
+
+                                                        15
+Example 1: Procurement hedge using call option
+An importer plans to purchase crude oil in three months. Current market price: USD 82
+per barrel. The importer purchases a call option with a strike price of USD 82 by paying
+a premium of USD 2.
+Outcome:
+
+     If the market price rises to USD 100 per barrel, the importer exercises the option
+         and effectively caps the purchase price at USD 82.
+
+     If the market price falls to USD 70 per barrel, the importer purchases at market
+         price and only incurs loss of the premium cost USD 2.
+
+Operational flowchart for zero-cost collar hedge structure:
+
+Importer
+
+        Importer enter into a Call Option contract and simultaneously a Put Option contract
+
+International commodity supplier/bank counterparty
+
+Commodity delivered at pre-agreed forward price
+
+Example 2: Zero-Cost collar structure
+
+An importer plans to import copper in three months. Current market price: USD 9,000
+per ton. The importer purchases a call option at USD 9,200 and simultaneously sells a
+put option at USD 8,800. The premium received from the put option offsets the cost of
+the call option, resulting in zero net premiums.
+
+Outcome:      Effective price          Outcome
+Market price  USD 9,200                Importers are protected (Price capped)
+USD 10,000
+
+USD 9,000     USD 9,000                Market price applies
+
+USD 8,000     USD 8,800                Importers must buy at USD 8,800 per ton
+                                       (Floor) (minimum obligation)
+
+                                       16
+                    Foreign Exchange Policy Department                Enclosure-B
+                                Bangladesh Bank         Date: September 15, 2022
+                              Head Office, Dhaka
+                                 www.bb.org.bd
+
+FE Circular No. 24
+
+Managing Directors/CEOs
+All Scheduled Banks/ Authorized Dealers of Foreign Exchange
+/MFS Providers/Financial Institutions/Other Concerns and
+All stakeholders associated with
+Foreign Exchange dealings in Bangladesh
+
+Dear Sirs,
+
+                       "Prohibition regarding virtual assets, virtual currencies and
+                                  facilitating their exchange/transfer/trading
+
+         Refer to Bangladesh Bank public notice no. DCP(PR)1/2021-7/5 dated July 29, 2021 where
+all persons and institutions concerned were repeatedly cautioned about various risks associated in
+dealing with virtual currencies/crypto currencies.
+
+         2. The definition of "currency" given in section 2(b)(i) of the Foreign Exchange Regulation
+(FER) Act, 1947 does not recognize virtual currencies. Virtual currencies [subset of virtual assets] are
+neither approved foreign exchange/currency nor approved form of transactions/investments in
+accordance with section- 2(aa) and 2(bb) of the FER Act, 1947. Virtual currencies or virtual assets
+have no financial claim embedded and neither issued by any sovereign nor guaranteed by any
+jurisdiction. Thus, their value is highly volatile and associated with high financial risks. Nonetheless,
+borderless transactions of unregulated virtual currencies are growing fast and being exchanged with
+some other foreign currencies, thus treated as an alternative form of foreign exchange transactions
+which is contravention of the FER Act, 1947.
+
+         3. The Financial Action Task Force (FATF) has defined virtual assets as a digital
+representation of value that can be digitally traded, or transferred, and can be used for payment or
+investment purposes. Point to be noted that, virtual assets do not include digital representations of fiat
+currencies, securities and other financial assets, recognized by Bangladesh Bank.
+
+         4. Retention of export proceeds abroad in any form without limiting to equity/portfolio
+investment, purchase of physical assets/virtual assets, maintenance of accounts regardless of
+currencies including crypto currencies constitutes contravention of the FER Act, 1947 and is subject
+to cognizance under Section 23(1) of the said act as mentioned in FE Circular No. 39 of November
+18, 2021. Any transactions made in/from/to Bangladesh for obtaining virtual assets (as defined in
+paragraph 3) or its subset- virtual currencies, are not permitted by Bangladesh Bank. As well as
+
+                    1
+providing any kind of facilitation in favor of doing business, activities, and operations associated with
+exchange/transfer/trading of virtual assets or virtual currencies, are not permitted by Bangladesh
+Bank.
+
+         5. Any violation of the aforementioned instructions (as defined in paragraph 4) constitutes
+contravention of Section 5(1)(e) of the FER Act, 1947 and is subject to cognizance under Section
+23(1) of the said Act as per SRO No. 59-LAW/2021 dated March 08, 2021. Therefore, all
+individuals/entities/institutions operating in Bangladesh shall refrain from dealing in virtual assets,
+virtual currencies and providing any kind of facilitation in favor of doing business, activities, and
+operations associated with exchange/transfer/trading of virtual assets or virtual currencies.
+
+         6. This circular is issued in exercise of the power conferred under section- 20(3) of the
+Foreign Exchange Regulation (FER) Act, 1947.
+
+         Please bring the contents of this circular to the notice of your clientele for awareness on
+virtual assets.
+
+                                                                                        Yours faithfully,
+
+                                                                                     (Md. Sarwar Hossain)
+                                                                                        Director (FEPD)
+                                                                                        Phone: 9530123
+
+                                                                                    2
+                                         evsjv`k e¨vsK                    Enclosure-C
+
+                                                cÖavb Kvh©vjq     e¨vswKs cÖwewa I bxwZ wefvM
+                                            gwZwSj, XvKv-1000
+
+                                                 evsjv`k|
+
+                                          website: www.bb.org.bd
+
+weAviwcwW mvKz©jvi jUvi bs-40                                           12 A±vei 2022
+                                                                  ZvwiL: -----------------
+e¨e¯'vcbv cwiPvjK/cÖavb wbe©vnx Kg©KZv©
+evsjv`k Kvh©iZ mKj Zdwmwj e¨vsK                                           27 Avwk¦b 1429
+
+wcÖq gnv`q,
+
+              fvPz©qvj m¤c` (Virtual asset) I fvP©zqvj g`y vª (Virtual currency) jb`b Ges Zv`i
+                wewbgq/¯'vbvsÍi/evwYR¨ (Exchange/Transfer/Trading) msµvsÍ wblavÁv cÖm½|
+
+        wkivbvgv³ welq ·e`wkK g`y ªv bxwZ wefvM KZ©K... 15 mÞ¤^i 2022 ZvwiL RvwiK,,Z GdB mvKjz© vi bs-24
+Gi cÖwZ Avcbv`i `,,wó AvKl©Y Kiv hv"Q|
+
+         2| m~ Îv³ mvKjz© vii gva¨g fvP©zqvj m¤c` (Virtual asset) I fvPz©qvj gy`vª (Virtual currency) jb`b Ges
+Zv`i wewbgq/¯'vbvsÍi/evwYR¨i (Exchange/Transfer/Trading) mv_ hy³ e¨emv I G msµvsÍ hKvb aibi Kvh©µg
+mnvqZv cÖ`vb nZ weiZ _vKvi Rb¨ wb`©kbv `Iqv nqQ| m¤cÖwZ j¶ Kiv hv"Q h, wewfboe we`kx Virtual Asset
+Service Provider (VASP) Zv`i IqemvBU/A¨vci gva¨g evsjv`k Kvh©iZ Kvb Kvb Zdwmwj e¨vsKi MÖvnK
+GKvD>U e¨envi Ki Virtual currency/Crypto currency, Foreign currency BZ¨vw`i jb`b, µq-weµq, cybtweµq,
+P2P wewbgq/¯v' bvsÍi/evwYR¨ Kvh©µg cwiPvjbv KiQ|
+
+         3| G¶Y, fvP©zqvj m¤c` (Virtual asset) I fvPz©qvj gy`ªvi (Virtual currency/Crypto currency) jb`b
+Ges Zv`i wewbgq/¯'vbvsÍi/evwYR¨ Kvh©µgi KviY m¤¢ve¨ Avw_©K I AvBbMZ SzuwK cwinvii jÿ¨ wb¤oeewY©Z wb`©kbv
+cÖ`vb Kiv njvt
+
+         K) MÖvnKi e¨vsK GKvD>U e¨envi Ki VASP Gi gva¨g Virtual currency/Crypto currency, Foreign
+             currency BZ¨vw`i jb`b, µq-weµq, cby tweµq, P2P wewbgq/¯v' bvsÍi/evwYR¨ msµvsÍ Kvh©µg A_ev
+             Gic hKvb aibi Kvh© mnvqZv cÖ`vb Awej¤^ eÜi cvkvcvwk G welq h_vh_ mZK©Zv Aej¤^bc~e©K
+             gwbUwis Kvh©µg ew,, × KiZ ne;
+
+         L) GdB mvKjz© vi bs-24/2022 Gi gva¨g cÖ`Ë wb`©kbv e¨vsKi cÖavb Kvh©vjq, mKj kvLv, DckvLv I
+             GR>U e¨vswKs AvDUjUmg~ ni `k©bxq ¯'vb RbmvaviYi AeMwZi j¶¨ Zv`i evaMg¨ Ki bvwUk
+             evW© cÖ`k©b Ges IqemvBUi nvg cBR-G cÖKvk wbwðZ Kivmn mKj cÖwk¶Y cÖvMÖvg
+             cÖwk¶Yv_©x`iK mvK©jz viwUi welqe¯` AeMZKiYi wbwgË cÖqvRbxq e¨e¯'v MÖnY KiZ ne|
+
+         4| e¨vsK Kv¤úvbx AvBb, 1991 Gi 45 avivq cÖ`Ë ÿgZvej G wb`©kbv Rvwi Kiv njv|
+
+                                                                  Avcbv`i wek^¯,Í
+
+                                                                     (gvKm`y v eMg)
+                                                                  cwiPvjK (weAviwcwW)
+
+                                                                    dvbt 9530252
+                                   Avw_K© cÖwZôvb I evRvi wefvM                Enclosure-D
+                                          evsjv`k e¨vsK
+                                           cÖavb Kvh©vjq                     25 KvwZ©K 1429
+                                               XvKv|               ZvwiLt
+
+                                           Website: www.bb.org.bd            10 bf¤^i 2022
+
+wWGdAvBGg mvK©jy vi jUvi bs-24
+
+e¨e¯'vcbv cwiPvjK/cÖavb wbe©vnx Kg©KZ©v
+evsjv`k Kvh©iZ mKj Avw_©K cÖwZôvb|
+
+wcÖq gnv`q,
+                fvP©zqvj m¤c` (Virtual asset) I fvP©zqvj g`y ªv (Virtual Currency) jb`b
+
+        Ges Zv`i wewbgq/¯'vbvsÍi/evwYR¨ (Exchange/Transfer/Trading) msµvsÍ wblavÁv cÖm½|
+        wkivbvgv³ welq ^e`wkK g`y ªv bxwZ wefvM KZ©...K 15 mÞ¤^i 2022 ZvwiL RvwiK,,Z GdB mvK©jz vi bs-
+24 Gi cÖwZ Avcbv`i `w,, ó AvKl©Y Kiv hv"Q|
+
+        2| m¤cÖwZ j¶¨ Kiv hv"Q h, wewfboe we`kx Virtual Asset Service Provider (VASP) Zv`i
+IqemvBU/A¨vci gva¨g evsjv`k Kvh©iZ Kvb Kvb Zdwmwj e¨vsKi MvÖ nK GKvD>U I MFS GKvD>U e¨envi
+Ki Virtual currency/Crypto currency, Foreign currency BZ¨vw`i jb`b, µq-weµq, cybtweµq, P2P
+wewbgq/¯v' bvsÍi/evwYR¨ Kvh©µg cwiPvjbv KiQ| fvPz©qvj m¤c` (Virtual Asset) I fvPz©qvj gy`ªv (Virtual
+Currency) jb`b Ges Zv`i wewbgq/¯v' bvsÍi/evwYR¨i (Exchange/Transfer/Trading) mv_ h³y e¨emv I
+G msµvsÍ h Kvb aibi Kvh©µg mnvqZv cÖ`vb nZ weiZ _vKvi Rb¨ m~ Îv³ mvK©zjvii gva¨g evsjv`k Kvh©iZ
+mKj Zdwmwj e¨vsK, Avw_©K cÖwZôvb Ges ^e`wkK gy`ªv jb`bi mv_ m¤ú³,, ÷Knvìvi`iK wb`©kbv cÖ`vb
+Kiv nqQ|
+
+        3| GgZve¯'vq, e`wkK g`y ªv bxwZ wefvM KZ...©K RvwiK...Z GdB mvK©jy vi bs-24, ZvwiLt 15/09/2022-G
+cÖ`Ë wb`©kbv Avcbv`i cÖwZôvbi cÖavb Kvh©vjq Ges kvLvmg~ni `k©bxq ¯'vb RbmvaviYi evaMg¨ Ki cÖ`k©b,
+cÖwZôvbi IqemvBU cÖKvk wbwðZ Kivmn Avcbv`i h Kvb Uªwbs cÖvMvÖ g cÖwkÿYv_©x`iK mvK©jy viwUi welqe¯`
+AewnZKiYi cÖ qvRbxq e¨e¯v' MÖnYi Rb¨ Avcbv`iK wb`©kbv cÖ`vb Kiv njv|
+
+        4| Avw_©K cÖwZôvb AvBb, 1993 Gi 18(Q) avivq cÖ`Ë ÿgZvej Rb¯^v_© G Av`k Rvwi Kiv njv|
+
+                                                                   Avcbv`i wek¦¯,Í
+
+                                                                     (gvt Avwgi DwÏb)
+                                                                   cwiPvjK (wWGdAvBGg)
+
+                                                                      dvbt 9530178
+

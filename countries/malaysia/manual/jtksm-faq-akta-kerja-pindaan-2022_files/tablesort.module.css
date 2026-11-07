@@ -1,0 +1,35 @@
+/**
+ * @file
+ * Table sort indicator.
+ *
+ * @see tablesort-indicator.html.twig
+ */
+
+.tablesort {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-size: 100%;
+}
+.tablesort--asc {
+  background-image: url(/web/20260402042928im_/https://jtksm.mohr.gov.my/core/misc/icons/787878/twistie-down.svg);
+}
+.tablesort--desc {
+  background-image: url(/web/20260402042928im_/https://jtksm.mohr.gov.my/core/misc/icons/787878/twistie-up.svg);
+}
+
+/*
+     FILE ARCHIVED ON 04:29:28 Apr 02, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:23:44 Nov 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.532
+  load_resource: 109.772
+  PetaboxLoader3.resolve: 90.376
+  PetaboxLoader3.datanode: 18.031
+*/

@@ -1,0 +1,625 @@
+<!-- dynamic layout main/microsite -->
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ministry of Foreign Affairs Malaysia - Dhaka</title>
+
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS v4 via CDN -->
+    <link rel="preload" as="style" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" /><link rel="modulepreload" as="script" href="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" /><link rel="stylesheet" href="https://www.kln.gov.my/build/assets/portal-C2PAXGjc.css" data-navigate-track="reload" /><script type="module" src="https://www.kln.gov.my/build/assets/portal-CxDQN0R_.js" data-navigate-track="reload"></script>    <link rel="stylesheet" href="https://www.kln.gov.my/assets/chat-embed/css/chat-embed.css">
+
+    </head>
+
+<body class="min-h-screen flex flex-col m-0 font-sans bg-[#f8f9fa] text-[#495057]">
+
+<header class="shadow-[0_2px_5px_rgba(0,0,0,0.1)] relative z-1000">
+
+    <!-- Top Bar -->
+<div class="bg-[#032054] text-white py-2 text-[12px]">
+    <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-wrap justify-center sm:justify-between items-center gap-x-4 gap-y-1.5">
+
+        <div class="flex items-center gap-3">
+                            <a href="https://www.facebook.com/HCMalaysiaDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Facebook">
+                                            <i class="ri-facebook-box-fill text-base leading-none"></i>
+                                    </a>
+                            <a href="https://twitter.com/MYHCDhaka" target="_blank" rel="noopener noreferrer"
+                   class="w-5 h-5 flex justify-center items-center text-white hover:-translate-y-0.5 transition-transform duration-200"
+                   title="Twitter">
+                                            <i class="ri-twitter-x-line text-base leading-none"></i>
+                                    </a>
+                    </div>
+
+        <div class="flex flex-wrap justify-center items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/flag-malaysia.png" alt="Malaysia" class="h-4 rounded-xs" title="Malaysia">
+
+            <span class="text-white tabular-nums font-semibold"
+                  x-data="clock({ timezone: 'Asia/Kuala_Lumpur' })" x-text="displayDateTime"></span>
+
+                            <img src="https://www.kln.gov.my/uploads/office/01KWXPQ95W6R0QTX49HHSM9XRC/flag" alt="Bangladesh" class="h-4 rounded-xs" title="Bangladesh">
+            
+
+
+
+                            <span class="text-white tabular-nums font-semibold"
+                      x-data="clock({ timezone: 'Asia/Dhaka' })" x-text="displayDateTime"></span>
+            
+            <a href="https://kln.spab.gov.my/"
+               target="_blank" rel="noopener noreferrer"
+               class="bg-[#FFC72C] text-[#032054] font-bold px-3 py-1 rounded-[5px] no-underline text-[12px] hover:opacity-90 transition-opacity duration-200">
+                Feedback Us
+            </a>
+        </div>
+    </div>
+</div>
+
+    <!-- Main Nav -->
+<div class="bg-white py-[15px]">
+    <div class="max-w-[1600px] mx-auto px-10 flex justify-between items-center">
+
+        <!-- Hidden checkbox for mobile menu (no-JS toggle) -->
+        <input type="checkbox" id="menu-toggle-check" class="peer/menu sr-only">
+
+        <!-- Logo -->
+        <div class="flex items-center gap-4">
+            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="hidden h-12 md:block">
+            <div class="flex flex-col">
+                <span class="font-bold text-[18px] text-[#032054] leading-tight">
+                                            High Commission of Malaysia,
+                                        Dhaka
+                </span>
+                <span class="text-[14px] text-[#6c757d]">Ministry of Foreign Affairs, Malaysia</span>
+            </div>
+        </div>
+
+        <!-- Hamburger label (mobile) -->
+        <label for="menu-toggle-check" class="lg:hidden bg-transparent border-none cursor-pointer p-2.5" aria-label="Open menu">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" class="fill-[#333]">
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </label>
+
+        <!-- Nav Menu -->
+        <nav class="hidden peer-checked/menu:flex lg:flex flex-col lg:flex-row absolute lg:static top-full left-0 w-full lg:w-auto bg-white lg:bg-transparent shadow-md lg:shadow-none z-[1000]">
+            <ul class="flex flex-col lg:flex-row items-center list-none m-0 p-0 w-full lg:w-auto">
+
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#C8102E]">
+                            Home
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            About Us
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/history">
+                                            History
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/client_charter">
+                                            Client Charter
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/honorary_consul">
+                                            Honorary Consul(s)
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/location_map">
+                                            Location Map
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/holidays">
+                                            Public Holidays
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Staff
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/head_mission">
+                                            Head of Mission
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/home-based-staff">
+                                            Home Based Staff
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/agencies">
+                                            Agencies
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Our Services
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/mysafe-travel">
+                                            MySafe Travel
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/passport_renewal">
+                                            Consular Services
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/requirement_malaysians">
+                                            Visa Requirement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="https://www.kln.gov.my/web/bgd_dhaka/news-from-mission"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            News
+                                                    </a>
+
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group lg:after:content-[''] lg:after:absolute lg:after:right-0 lg:after:top-1/2 lg:after:-translate-y-1/2 lg:after:h-[25px] lg:after:border-r-[1.8px] lg:after:border-dashed lg:after:border-[#e57373] lg:after:opacity-50">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Resources
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/documents">
+                                            Documents
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/forms">
+                                            Forms
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                                    
+                    <li class="relative w-full lg:w-auto border-b lg:border-none border-[#f0f0f0] group">
+                        <a href="#"
+                           class="block py-[15px] px-[22px] font-semibold text-[15px] no-underline transition-colors duration-300 text-[#495057] hover:text-[#C8102E]">
+                            Notice
+                                                            <span class="inline-block border-r-[1.5px] border-b-[1.5px] border-current p-[2.5px] ml-1.5 rotate-45 relative -top-[2px]"></span>
+                                                    </a>
+
+                                                    <ul class="hidden lg:group-hover:block group-focus-within:block absolute lg:top-full left-0 bg-white border border-[#e0e0e0] shadow-[0_4px_8px_rgba(0,0,0,0.1)] list-none py-2.5 m-0 min-w-[220px] z-[1001] rounded-[4px] before:content-[''] before:absolute before:-top-[10px] before:left-0 before:w-full before:h-[10px] before:bg-transparent">
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/job_vacancy">
+                                            Job Vacancy
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a class="block py-2.5 px-5 text-[#495057] hover:bg-[#f5f5f5] hover:text-[#C8102E] no-underline text-[14px] font-medium whitespace-nowrap"
+                                           href="https://www.kln.gov.my/web/bgd_dhaka/procurement">
+                                            Procurement
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+<!-- /PART 1 END -->
+
+<!-- post lists -->
+    <main class="grow flex flex-col">
+
+        <section class="relative bg-[#032054] overflow-hidden" style="min-height: 140px;">
+
+            <!-- Floral/pattern overlay -->
+            <div class="absolute inset-0 bg-cover bg-center opacity-15 z-0"
+                 style="background-image: url('https://www.kln.gov.my/portal-kln/images/operation-rotate-scaled.png');"></div>
+
+            <!-- Diagonal accent stripe -->
+            <div class="absolute inset-0 z-0 overflow-hidden">
+                <div
+                    class="absolute -right-20 top-0 bottom-0 w-[45%] bg-[#C8102E]/20 skew-x-[-12deg] origin-top-right"></div>
+            </div>
+
+            <!-- Content -->
+            <div class="relative z-10 max-w-[1500px] mx-auto px-5 lg:px-10 py-10 flex flex-col justify-center gap-3">
+
+                <!-- Breadcrumb -->
+                <nav class="flex items-center gap-1.5 text-white/70 text-[13px]" aria-label="Breadcrumb">
+                    <a href="https://www.kln.gov.my/web/bgd_dhaka/home"
+                       class="hover:text-white transition-colors duration-200 no-underline flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 576 512">
+                            <path
+                                d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+                        </svg>
+                        <span>
+                            Home                        </span>
+                    </a>
+                                            <svg class="w-3 h-3 fill-current opacity-50 shrink-0" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 320 512">
+                            <path
+                                d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                        </svg>
+                        <span class="text-white font-medium">
+                        Our Staff
+                    </span>
+                                    </nav>
+
+                <!-- Page Title -->
+                <div class="flex items-center gap-4">
+                    <div class="w-1 h-10 bg-[#C8102E] rounded-full shrink-0"></div>
+                    <h1 class="m-0 text-white text-[28px] md:text-[34px] font-black uppercase tracking-wide leading-tight">
+                        Agencies
+                    </h1>
+                </div>
+
+            </div>
+
+            <!-- Bottom wave divider -->
+            <div class="absolute -bottom-px left-0 w-full overflow-hidden leading-none z-10">
+                <svg class="relative block w-[calc(100%+1.3px)] h-[30px]"
+                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M0,60 C300,100 900,20 1200,60 L1200,120 L0,120 Z" class="fill-[#f8f9fa]"></path>
+                </svg>
+            </div>
+        </section>
+        <!-- /PART 2 END -->
+
+        <section class="py-10 bg-[#f8f9fa] flex-1">
+            <div class="max-w-[1500px] mx-auto px-5 lg:px-10">
+                <div class="flex flex-col lg:flex-row gap-8 items-start">
+
+                                            <aside class="w-full lg:w-60 shrink-0">
+    <div
+        class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden sticky top-[90px]">
+
+        <!-- Sidebar Header -->
+        <div class="bg-[#032054] px-5 py-4">
+            <h3 class="m-0 text-white text-[14px] font-bold uppercase tracking-wider flex items-center gap-2">
+                <svg class="w-4 h-4 fill-current shrink-0" xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 512 512">
+                    <path
+                        d="M40 48C26.7 48 16 58.7 16 72v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V72c0-13.3-10.7-24-24-24H40zM192 64c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zm0 160c-17.7 0-32 14.3-32 32s14.3 32 32 32H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H192zM16 232v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V232c0-13.3-10.7-24-24-24H40c-13.3 0-24 10.7-24 24zM40 368c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24H88c13.3 0 24-10.7 24-24V392c0-13.3-10.7-24-24-24H40z"/>
+                </svg>
+                Our Staff
+            </h3>
+        </div>
+
+        <!-- Item List -->
+        <ul class="list-none m-0 p-0">
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/head_mission"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Head of Mission
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/home-based-staff"
+                               class="flex items-center justify-between px-5 py-3.5 text-[#495057] hover:bg-[#f8f9fa] hover:text-[#032054] text-[14px] font-medium no-underline transition-colors duration-200 group">
+                                <span class="flex items-center gap-2">
+                                                                        Home Based Staff
+                                </span>
+                                <svg
+                                    class="w-3 h-3 fill-current shrink-0 opacity-30 group-hover:opacity-70 transition-opacity"
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </a>
+                                                            </li>
+                                            <li class="border-b border-[#f0f0f0] last:border-none">
+                                                                        <span
+                                class="flex items-center justify-between px-5 py-3.5 bg-[#C8102E] text-white text-[14px] font-semibold cursor-default">
+                                <span class="flex items-center gap-2">
+                                                                        Agencies
+                                </span>
+                                <svg class="w-3 h-3 fill-current shrink-0"
+                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                    <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
+                                </svg>
+                            </span>
+                                                            </li>
+                    </ul>
+    </div>
+</aside>
+                    
+                                                                        
+                                
+                                <div class="flex-1 min-w-0 space-y-6">
+                                                                            <div class="bg-white rounded-xl shadow-[0_2px_12px_rgba(0,0,0,0.07)] overflow-hidden">
+                                                                                        <div class="p-6">
+                                                                                                    <div class="ck-content"><p><!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:TargetScreenSize>800x600</o:TargetScreenSize> </o:OfficeDocumentSettings> </xml><![endif]--></p> <p><!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves /> <w:TrackFormatting /> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF /> <w:LidThemeOther>MS</w:LidThemeOther> <w:LidThemeAsian>X-NONE</w:LidThemeAsian> <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> <w:SplitPgBreakAndParaMark /> <w:EnableOpenTypeKerning /> <w:DontFlipMirrorIndents /> <w:OverrideTableStyleHps /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> <m:mathPr> <m:mathFont m:val="Cambria Math" /> <m:brkBin m:val="before" /> <m:brkBinSub m:val="&#45;-" /> <m:smallFrac m:val="off" /> <m:dispDef /> <m:lMargin m:val="0" /> <m:rMargin m:val="0" /> <m:defJc m:val="centerGroup" /> <m:wrapIndent m:val="1440" /> <m:intLim m:val="subSup" /> <m:naryLim m:val="undOvr" /> </m:mathPr></w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false" DefSemiHidden="false" DefQFormat="false" DefPriority="99" LatentStyleCount="371"> <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal" /> <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 2" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 3" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 4" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 5" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 6" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 7" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 8" /> <w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 9" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 6" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 7" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 8" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 9" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 1" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 2" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 3" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 4" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 5" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 6" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 7" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 8" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 9" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Indent" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote text" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation text" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="header" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footer" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index heading" /> <w:LsdException Locked="false" Priority="35" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="caption" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="table of figures" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope address" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope return" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote reference" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation reference" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="line number" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="page number" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote reference" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote text" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="table of authorities" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="macro" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="toa heading" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 5" /> <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Closing" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Signature" /> <w:LsdException Locked="false" Priority="0" SemiHidden="true" UnhideWhenUsed="true" Name="Default Paragraph Font" /> <w:LsdException Locked="false" Priority="0" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Message Header" /> <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Salutation" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Date" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First Indent" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First Indent 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Note Heading" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Block Text" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Hyperlink" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="FollowedHyperlink" /> <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong" /> <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Document Map" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Plain Text" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="E-mail Signature" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Top of Form" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Bottom of Form" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal (Web)" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Acronym" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Address" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Cite" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Code" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Definition" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Keyboard" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Preformatted" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Sample" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Typewriter" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Variable" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Table" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation subject" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="No List" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 6" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 7" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 8" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 4" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 5" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 6" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 7" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 8" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Contemporary" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Elegant" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Professional" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 1" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 2" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 3" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Balloon Text" /> <w:LsdException Locked="false" Priority="39" Name="Table Grid" /> <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Theme" /> <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text" /> <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading" /> <w:LsdException Locked="false" Priority="61" Name="Light List" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3" /> <w:LsdException Locked="false" Priority="70" Name="Dark List" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1" /> <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1" /> <w:LsdException Locked="false" SemiHidden="true" Name="Revision" /> <w:LsdException Locked="false" Priority="34" QFormat="true" Name="List Paragraph" /> <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote" /> <w:LsdException Locked="false" Priority="30" QFormat="true" Name="Intense Quote" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1" /> <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2" /> <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2" /> <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3" /> <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3" /> <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4" /> <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4" /> <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5" /> <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5" /> <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5" /> <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6" /> <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6" /> <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6" /> <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6" /> <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6" /> <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6" /> <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6" /> <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6" /> <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6" /> <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6" /> <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6" /> <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6" /> <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6" /> <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6" /> <w:LsdException Locked="false" Priority="19" QFormat="true" Name="Subtle Emphasis" /> <w:LsdException Locked="false" Priority="21" QFormat="true" Name="Intense Emphasis" /> <w:LsdException Locked="false" Priority="31" QFormat="true" Name="Subtle Reference" /> <w:LsdException Locked="false" Priority="32" QFormat="true" Name="Intense Reference" /> <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title" /> <w:LsdException Locked="false" Priority="37" SemiHidden="true" UnhideWhenUsed="true" Name="Bibliography" /> <w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="TOC Heading" /> <w:LsdException Locked="false" Priority="41" Name="Plain Table 1" /> <w:LsdException Locked="false" Priority="42" Name="Plain Table 2" /> <w:LsdException Locked="false" Priority="43" Name="Plain Table 3" /> <w:LsdException Locked="false" Priority="44" Name="Plain Table 4" /> <w:LsdException Locked="false" Priority="45" Name="Plain Table 5" /> <w:LsdException Locked="false" Priority="40" Name="Grid Table Light" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 1" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 1" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 1" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 2" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 2" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 2" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 3" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 3" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 3" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 4" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 4" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 4" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 5" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 5" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 5" /> <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light Accent 6" /> <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6" /> <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6" /> <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6" /> <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6" /> <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 6" /> <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 6" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 1" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 1" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 1" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 2" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 2" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 2" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 3" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 3" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 3" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 4" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 4" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 4" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 5" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 5" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 5" /> <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 6" /> <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6" /> <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6" /> <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6" /> <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6" /> <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Accent 6" /> <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful Accent 6" /> </w:LatentStyles> </xml><![endif]--><!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman",serif;} </style> <![endif]--></p> <p align="center" class="MsoFooter" style="text-align:center;tab-stops:35.4pt"> </p> <p> </p> <p class="MsoFooter" style="text-align: center;"><span style="font-size: large;"><b><u><span lang="EN-GB" style='font-family: "Arial",sans-serif;'>TOURISM MALAYSIA MARKETING OFFICE IN DHAKA, BANGLADESH</span></u></b></span></p> <p class="MsoFooter" style="text-align: center;"> </p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">Tourism Malaysia (Dhaka Office)</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">House No. 19, Road No. 6</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">Baridhara Diplomatic Enclave</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">Dhaka-1212, Bangladesh</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"> </p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:helvetica,sans-serif;"><span style="font-size:12.0pt;">Tel:      </span></span></span><strong><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">00-88-02-985 8395 (DL)</span></span></span></strong></p> <p style="margin-bottom: 0.0001pt; text-indent: 0.5in; line-height: normal; text-align: center;"><strong><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;"> 00-88-02-984 7759 / 60 (Ext. 22)</span></span></span></strong></p> <p style="margin-bottom: 0.0001pt; text-indent: 0.5in; line-height: normal; text-align: center;"><span style="text-indent: 0.5in; text-align: center; font-size: 12pt; font-family: arial, sans-serif;">Fax:     </span><strong style="text-indent: 0.5in; text-align: center; font-size: 12pt; font-family: arial, sans-serif;">00-88-02-985 8395</strong></p> <p style="margin-bottom: 7.5pt; line-height: normal; text-align: center;"> </p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">Mr. Mohammad Shoeb</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:helvetica,sans-serif;"><span style="font-size:12.0pt;">Marketing Manager</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:helvetica,sans-serif;"><span style="font-size:12.0pt;">E-mail: </span></span></span><span style="color:blue;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">mshoeb@tourism.gov.my</span></span></span></p> <p style="margin-bottom: 7.5pt; line-height: normal; text-align: center;"> </p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:helvetica,sans-serif;"><span style="font-size:12.0pt;">Mr. Gazi Sharafuddin Hasan</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:helvetica,sans-serif;"><span style="font-size:12.0pt;">Marketing Executive</span></span></span></p> <p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="color:#555555;"><span style="font-family:helvetica,sans-serif;"><span style="font-size:12.0pt;">E-mail: </span></span></span><span style="color:blue;"><span style="font-family:arial,sans-serif;"><span style="font-size:12.0pt;">gazi@tourism.gov.my</span></span></span></p></div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+
+                                                                        
+                </div>
+            </div>
+        </section>
+        <!-- /PART 3 END -->
+    </main>
+
+<!--
+      Scroll to Top Button
+      - fixed bottom-5 left-5: positions it from the bottom left (away from the chatbot avatar)
+      - transition-all duration-300: smooth animation
+      - Default state (hidden): opacity-0, translate-y-10 (moved down), pointer-events-none (cannot be clicked)
+    -->
+<button
+    id="scrollToTopBtn"
+    class="fixed bottom-5 left-5 bg-brand-dark text-white p-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform translate-y-10 opacity-0 pointer-events-none flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-brand-orange focus:ring-offset-2 z-50 group"
+    aria-label="Scroll to top"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:-translate-y-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+</button>
+
+<footer class="relative z-[5]">
+
+    <!-- Main Footer (video background) -->
+    <div class="relative py-[60px] text-white overflow-hidden">
+        <div class="absolute inset-0 z-[1] overflow-hidden">
+            <video autoplay muted loop playsinline
+                   class="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover">
+                <source src="https://www.kln.gov.my/malawakil/images/Portal-KLN-Design-1.mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0" style="background: linear-gradient(to right, rgba(3,32,84,0.4), rgba(3,32,84,0.6));"></div>
+        </div>
+
+                                <div class="relative z-[3] max-w-[1600px] mx-auto px-5 lg:px-10">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-start">
+
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">Quick links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.miti.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Ministry of Investment, Trade and Industry (MITI)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.imi.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Immigration Department of Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.matrade.gov.my/en"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia External Trade Development Corporation (MATRADE)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.mida.gov.my/"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysian Investment Development Authority (MIDA)</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysia.travel"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Tourism Malaysia</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.malaysiaairlines.com/en/home.html"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Malaysia Airlines</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                                                            <h4 class="relative pb-[15px] mb-[25px] text-white text-[16px] font-bold uppercase mt-0
+                                           before:content-[''] before:absolute before:bottom-0 before:left-0 before:w-full before:h-px
+                                           before:bg-[linear-gradient(to_right,#FFC72C_45%,transparent_45%,transparent_55%,#FFC72C_55%)]
+                                           after:content-['⏷'] after:text-[20px] after:text-[#C8102E] after:absolute after:-bottom-[10px]
+                                           after:left-1/2 after:-translate-x-1/2 after:px-[10px]">MFA Links</h4>
+                            
+                                                                <ul class="list-none p-0 m-0 flex flex-col gap-2.5 mt-2">
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">MFA Official Portal</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/overseas-missions"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Embassies &amp; High Commissions</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/deputy-foreign-minister"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Deputy Foreign Minister</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="https://www.kln.gov.my/web/guest/secretary-general"
+                                                        target="_blank" rel="noopener"                                                        class="text-[#e9ecef] text-[14px] no-underline hover:text-white transition-colors duration-300">Secretary General</a>
+                                                                                            </li>
+                                                                            </ul>
+                                                            </div>
+                                            <div>
+                            
+                            
+                                                                                                        <div class="flex items-center gap-5 mt-2">
+                                            <img src="https://www.kln.gov.my/malawakil/images/jata-negara.png" alt="Jata Negara" class="h-[70px]">
+                                            <div class="flex flex-col">
+                                                <span class="text-[18px] font-bold leading-[1.4] block">
+                                                                                                            High Commission of Malaysia,
+                                                                                                        Dhaka
+                                                </span>
+                                                <span class="text-[14px] opacity-80 block">Ministry of Foreign Affairs, Malaysia</span>
+                                            </div>
+                                        </div>
+                                                                                                </div>
+                    
+                </div>
+            </div>
+            </div>
+
+    <!-- Sub-footer -->
+    <div class="bg-[#021438] text-[#adb5bd] py-[15px] text-[12px]">
+        <div class="max-w-[1600px] mx-auto px-5 lg:px-10 flex flex-col md:flex-row justify-between items-center gap-2 text-center md:text-left">
+            <div>
+                <p class="m-0">Best Viewed: Microsoft Edge, Google Chrome &amp; Mozilla Firefox latest version</p>
+                <p class="m-0">Last Updated: 06 November, 2026</p>
+            </div>
+            <div>
+                <p class="m-0">© 2026 Ministry of Foreign Affairs, Malaysia. All Rights Reserved.</p>
+            </div>
+            <div>
+                <p class="m-0">
+                                                                        <a href="https://www.kln.gov.my/web/bgd_dhaka/faqs"                                class="text-[#adb5bd] no-underline hover:underline">FAQs</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/privacy-policy"                                class="text-[#adb5bd] no-underline hover:underline">Privacy Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/security-policy"                                class="text-[#adb5bd] no-underline hover:underline">Security Policy</a>
+                             |                                                     <a href="https://www.kln.gov.my/web/bgd_dhaka/site_map"                                class="text-[#adb5bd] no-underline hover:underline">Site Map</a>
+                                                                                        </p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<!-- /PART 6 END -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+        // Listen for scroll events on the window
+        window.addEventListener('scroll', () => {
+            // Show button when page is scrolled down 300px
+            if (window.scrollY > 300) {
+                // Remove hidden state classes
+                scrollToTopBtn.classList.remove('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Add visible state classes
+                scrollToTopBtn.classList.add('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            } else {
+                // Add hidden state classes
+                scrollToTopBtn.classList.add('translate-y-10', 'opacity-0', 'pointer-events-none');
+                // Remove visible state classes
+                scrollToTopBtn.classList.remove('translate-y-0', 'opacity-100', 'pointer-events-auto');
+            }
+        });
+
+        // Smooth scroll to top when button is clicked
+        scrollToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+
+<script src="https://www.kln.gov.my/assets/chat-embed/js/chat-embed.js"></script>
+<div
+        x-data="chatEmbed({ storageKey: 'chat-embed-open:bgd_dhaka' })"
+        x-on:keydown.escape.window="setOpen(false)"
+        class="chat-embed"
+    >
+        <div x-show="open" x-cloak id="chat-embed-frame" class="chat-embed-frame">
+            <template x-if="loaded">
+                <iframe
+                    src="https://www.kln.gov.my/chat?site=bgd_dhaka"
+                    title="Putra"
+                    
+                    sandbox="allow-scripts allow-forms allow-same-origin allow-top-navigation-by-user-activation"
+                    referrerpolicy="same-origin"
+                    loading="lazy"
+                ></iframe>
+            </template>
+        </div>
+
+                    
+            <button
+                type="button"
+                x-show="! open"
+                x-ref="avatarLauncher"
+                @click="openAndFocus()"
+                aria-expanded="false"
+                aria-controls="chat-embed-frame"
+                aria-label="Ask Putra"
+                class="chat-embed-launcher"
+            >
+                <img src="https://www.kln.gov.my/uploads/chatbot/full-avatar?v=1789465108" alt="Putra" class="chat-embed-avatar">
+            </button>
+
+            <button
+                type="button"
+                x-show="open"
+                x-cloak
+                x-ref="closeLauncher"
+                @click="closeAndFocus()"
+                aria-expanded="true"
+                aria-controls="chat-embed-frame"
+                aria-label="Close"
+                class="chat-embed-close"
+            >
+                                    <img src="https://www.kln.gov.my/uploads/chatbot/avatar?v=1789465108" alt="Close">
+                            </button>
+            </div>
+
+</body>
+</html>
