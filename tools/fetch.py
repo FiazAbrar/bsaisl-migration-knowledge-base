@@ -67,7 +67,7 @@ def fetch(url, name):
     if not status.startswith("2") or not os.path.exists(tmp) or os.path.getsize(tmp) == 0:
         if os.path.exists(tmp):
             os.remove(tmp)
-        print(f"FAILED {status} {p.stderr.strip()[:200]} -> try Firecrawl scrape, then list it under "Pages we could not download" in notes.md")
+        print(f"FAILED {status} {p.stderr.strip()[:200]} -> try Firecrawl scrape, then list it under 'Pages we could not download' in notes.md")
         append_log({"name": name + "-FAILED", "url": url, "access_date": TODAY, "http_status": status,
                     "content_type": ctype, "method": "curl", "files": ""})
         return
