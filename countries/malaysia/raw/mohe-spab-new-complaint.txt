@@ -1,0 +1,5 @@
+Unauthorized Access
+Unauthorized Access
+You do not have right to access the requested page, this may cause by
+1. Your browser session has been expired, please try to re-login.
+2. You or your user group do not have right to access this page.

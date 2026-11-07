@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+
+<html translate="no">
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="google" content="notranslate">
+    <meta charset="utf-8">
+    <title>Home - Online GD</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+
+    <link href="/CustomSelectOption/select2.min.css" rel="stylesheet" />
+
+    <link href="/SweetAlert/sweetalert2.css" rel="stylesheet" />
+    <!-- Custom fonts for this template-->
+    <link href="/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom Date Picker-->
+    <link href="https://unpkg.com/gijgo@1.9.11/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+
+    <!-- Custom styles for this page -->
+    <link href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="/css/sb-admin-2.min.css" rel="stylesheet">
+
+    <link href="/loading-bar/dist/loading-bar.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="/css/site.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" as="style" onload="this.onload = null;this.rel = 'stylesheet'" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" as="style" onload="this.onload = null;this.rel = 'stylesheet'" rel="preload">
+
+    <link href="https://fonts.maateen.me/kalpurush/font.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+        body {
+            font-size: 11pt !important;
+            /*font-family: "SolaimanLipi" !important;*/
+            /*font-family: 'Roboto', sans-serif;*/
+            font-family: 'Kalpurush', sans-serif !important;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            overflow-x: hidden;
+        }
+
+        /*for tab control*/
+        div.login-logout-tab div.card-header {
+            padding: 0px 0px 12px 0px;
+        }
+
+        div.login-logout-tab ul.nav-tabs {
+            margin: 0px 0px -12px 0px;
+        }
+
+        div.login-logout-tab li.nav-item {
+            width: 50%;
+        }
+
+        div.login-logout-tab a.nav-link {
+            font-size: 25px;
+            color: #495057;
+            text-align: center;
+        }
+
+        div.card-content {
+            padding: 10px 20px;
+        }
+
+        /*login form*/
+        div.login-form-icon {
+            text-align: center;
+        }
+
+        /* Wrapping element */
+        /* Set some basic padding to keep content from hitting the edges */
+        .body-content {
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        /* Carousel */
+        .carousel-caption p {
+            font-size: 20px;
+            line-height: 1.4;
+        }
+
+        /* Make .svg files in the carousel display properly in older browsers */
+        .carousel-inner .item img[src$=".svg"] {
+            width: 100%;
+        }
+
+        li {
+            /*font-weight: bold;*/
+        }
+
+        .btn_common_cls {
+            /*background: black;
+                    height: 30px;
+                    margin-top: 45%;
+                    color: white;
+                    border-radius: 16px;
+                    text-align: center;*/
+        }
+
+        #userDropdown_01:hover {
+            background-color: lightskyblue !important;
+            height: 30px !important;
+            margin-top: 45% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_02:hover {
+            background-color: lightskyblue !important;
+            height: 30px !important;
+            margin-top: 25% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_03:hover {
+            background-color: lightskyblue !important;
+            height: 30px !important;
+            margin-top: 25% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_04:hover {
+            background-color: lightskyblue !important;
+            height: 30px !important;
+            margin-top: 20% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_05:hover {
+            background-color: lightskyblue !important;
+            height: 30px !important;
+            margin-top: 15% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_05 {
+            height: 30px !important;
+            margin-top: 13% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_06:hover {
+            background-color: lightskyblue !important;
+            height: 30px !important;
+            margin-top: 25% !important;
+            color: white !important;
+            border-radius: 16px !important;
+            text-align: center !important;
+            position: relative !important;
+        }
+
+        #userDropdown_07 {
+            background-color: darkgreen !important;
+            height: 30px !important;
+            margin-top: 30% !important;
+            color: white !important;
+            border-radius: 5px !important;
+            text-align: center !important;
+            position: relative !important;
+            /*margin-left: 0px;*/
+        }
+
+        .mainMenu {
+            font-size: 13pt;
+        }
+
+        @media screen and (max-width: 1000px) {
+            .mobileUserHide {
+                display: none
+            }
+
+            .mobileUserShow span {
+                display: inline !important;
+            }
+
+            #sidebarToggleTop {
+                display: none !important;
+            }
+        }
+
+        @media screen and (max-width: 680px) {
+            .mobileUserHide {
+                display: none
+            }
+
+            .mobileUserShow1 span {
+                display: inline !important;
+            }
+
+            #sidebarToggleTop {
+                display: none !important;
+            }
+        }
+
+
+    </style>
+
+
+    <style>
+        .marquee-container {
+            width: 600px;
+            overflow: hidden;
+            margin-left: 10px; /* distance after button */
+        }
+
+        .marquee {
+            white-space: nowrap;
+            display: inline-block;
+            animation: scroll 10s linear infinite;
+            font-size: 30px;
+            color: #FF5722;
+            font-weight: bold;
+            font-family: 'Kalpurush','SolaimanLipi','Noto Sans Bengali',sans-serif;
+        }
+
+        @keyframes scroll {
+            from
+
+        {
+            transform: translateX(100%);
+        }
+
+        to {
+            transform: translateX(-100%);
+        }
+
+        }
+    </style>
+    <style>
+        .lng_btn_cls {
+            background: none;
+            font-size: 27px;
+            font-weight: bold;
+            color: white;
+        }
+    </style>
+
+    
+    <script src="//rum-static.pingdom.net/pa-6476d4573f48c700120001bc.js" async></script>
+</head>
+<body>
+
+    <!-- Topbar -->
+    <nav class="navbar navbar-expand navbar-light topbar static-top shadow" style="background: linear-gradient(-45deg, #FF5722 56%, white 20%);">
+        <img src="/images/L&FLOG.PNG" height="60" width="80" />
+
+        <!-- Sidebar Toggle (Topbar) -->
+        <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+            <i class="fa fa-bars"></i>
+        </button>
+
+        <div class="marquee-container">
+            <div class="marquee">
+                অনলাইন জিডি এপ্লিকেশনে আপনাকে স্বাগতম
+            </div>
+        </div>
+
+
+        <ul class="navbar-nav ml-auto">
+            <!-- Nav Item - Alerts -->
+            <li class="nav-item">
+                <a class="nav-link btn_common_cls mobileUserShow mobileUserShow1" id="userDropdown_01" href="/auth/PublicUser">
+                    <span class="mr-2 d-none d-sm-inline mainMenu" id="Home" style="color: white;">হোম </span>
+                </a>
+            </li>
+
+
+            <li class="nav-item">
+                <a class="nav-link btn_common_cls mobileUserHide" id="userDropdown_03" href="/auth/PublicUser/Contact">
+                    <span class="mr-2 d-none d-lg-inline mainMenu" id="contact" style="color: white;">যোগাযোগ</span>
+                </a>
+            </li>
+            <li class="nav-item dropdown no-arrow mx-1 mr-2 mobileUserHide" style="margin-right: 0">
+                <a style="color: white" class="nav-link dropdown-toggle mainMenu btn_common_cls" href="#" id="userDropdown_04" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    ব্যবহার নির্দেশিকা
+                </a>
+                <!-- Dropdown - Alerts -->
+                <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="alertsDropdown" style="left:-50px">
+                    <a class="dropdown-item d-flex align-items-center mainMenu btn_common_cls" href="/auth/PublicUser/Videotutorial">
+                        ভিডিও নির্দেশিকা
+                    </a>
+                    <a class="dropdown-item d-flex align-items-center mainMenu btn_common_cls" href="/UserManual/অনলাইন জিডি ইউজার ম্যানুয়াল.pdf" target="_blank">
+                        পিডিএফ নির্দেশিকা
+                    </a>
+                    <a class="dropdown-item d-flex align-items-center mainMenu btn_common_cls" target="_blank" href="https://play.google.com/store/apps/details?id=com.opus_bd.lostandfound" download>
+                        অ্যাপস্‌ ডাইনলোড করুন
+                    </a>
+                    <a class="dropdown-item d-flex align-items-center mainMenu btn_common_cls" href="/Auth/Home/FirstPage">
+                        অ্যাপস্‌
+                    </a>
+                </div>
+            </li>
+            <li class="nav-item mobileUserShow mobileUserShow1">
+                <a class="nav-link btn_common_cls " id="userDropdown_05" href="/Auth/Account/Login">
+                    <span class="mr-2 d-none d-lg-inline mainMenu" style="color: white;">প্রবেশ করুন(লগইন)</span>
+                </a>
+            </li>
+            <li class="nav-item mobileUserShow mobileUserShow1" style="color: white">
+                <a class="nav-link btn_common_cls" href="/auth/PublicUser/GDApplicationUse">
+                    <span class="mr-2 d-none d-lg-inline mainMenu" id="register" style="color: white;">রেজিস্ট্রেশন</span>
+                </a>
+            </li>
+            <li class="nav-item mobileUserHide ml-2" style="color: white">
+                <a class="nav-link btn_common_cls" href="#" id="userDropdown_07">
+                    <span class="mr-2 d-none d-lg-inline mainMenu" id="register" style="color: white;">ENG</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- End of Topbar -->
+    
+<link href="/fonts/solaimanLipi.css" rel="stylesheet" />
+<link href="/fonts/kalpurush.css" rel="stylesheet">
+<style>
+    .font_style {
+        /*font-family: "SolaimanLipiNormal" !important;*/
+        font-family: 'Kalpurush', sans-serif !important;
+    }
+
+    .input-container {
+        display: -ms-flexbox; /* IE10 */
+        display: flex;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .icon {
+        padding: 10px;
+        background: #FF5722;
+        color: white;
+        min-width: 50px;
+        text-align: center;
+    }
+
+    .input-field {
+        width: 100%;
+        padding: 10px;
+        outline: none;
+    }
+
+        .input-field:focus {
+            border: 2px solid #FF5722;
+        }
+
+    /* Set a style for the submit button */
+    .btn {
+        background-color: #FF5722;
+        color: white;
+        padding: 15px 20px;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        opacity: 0.9;
+    }
+
+        .btn:hover {
+            opacity: 1;
+        }
+
+    body {
+        /*background: url('/images/background_05.jpg');*/
+        display: block;
+        position: relative;
+    }
+
+    .videoTest {
+        
+        color: black;
+        font-size: 24px;
+        margin-top: 10px;
+        margin-left: 10px;
+        font-weight: bolder
+    }
+
+    a {
+        color: #FF5722;
+        text-decoration: none;
+    }
+
+        a:hover {
+            color: black;
+            text-decoration: none;
+        }
+
+    p {
+        font-size: 12px;
+    }
+
+    li {
+        font-weight: bold;
+    }
+
+    .navClass {
+        background-color: lightskyblue !important;
+        height: 30px !important;
+        margin-top: 45% !important;
+        color: white !important;
+        border-radius: 16px !important;
+        text-align: center !important;
+        position: relative !important;
+    }
+</style>
+
+<div class="row">
+    <div class="col-12">
+        <img src="/images/bodyImage.png" class="img-responsive" height="519" width="100%" />
+    </div>
+    <div class="col-sm-7">
+        <h1 class="videoTest">বিশেষ নির্দেশিকা  : </h1>
+        <ul>
+            <li>আপনার হারানো ও প্রাপ্তি সংক্রান্ত জানমালের বিষয়সহ যে কোন বিষয়ে পুলিশের নিকট অভিযোগ করতে এই ওয়েব সাইট ব্যবহার করুন।।</li>
+            <li>সংশ্লিষ্ট থানা হতে আপনার অভিযোগের ধরন অনুসারে ব্যাবস্থা নেওয়া হবে এবং আপনাকে অবগত করা হবে।</li>
+            <li>অভিযোগের বিষয়টি যদি জিডির যোগ্য হয় তাহলে সেটি জিডি নং এবং তদন্তকারী অফিসারের বিবরণীসহ আপনাকে ডিজিটাল জিডির কপি প্রেরন করা হবে।</li>
+            <li>অভিযোগের বিষয়টি যদি মামলার যোগ্য (আমলযোগ্য অপরাধ) হয় সেক্ষেত্রে অভিযোগের প্রিন্ট কপি অথবা অভিযোগের কোড নং সহ আপনাকে থানায় উপস্থিত থাকতে হবে।</li>
+        </ul>
+
+        <h1 class="videoTest">অভিযোগ করার জন্য যা প্রয়োজন  : </h1>
+        <ul>
+            <li>আপনার জাতীয় পরিচয়পত্র নম্বর।</li>
+            <li>আপনার সচল মোবাইল।</li>
+            <li>আপনার লাইভ ছবি।</li>
+        </ul>
+
+        <h1 class="videoTest">অনলাইন জিডি অ্যাপস্‌ এবং ওয়েব পোর্টালের সুবিধা সমূহ  : </h1>
+        <ul>
+            <li>খুব সহজে আপনার অভিযোগটি পুলিশকে জানাতে পারবেন।</li>
+            <li>আপনার অভিযোগের সর্বশেষ অবস্থা জানতে পারবেন।</li>
+            <li>আপনার অভিযোগের তদন্তকারী অফিসারের সহিত অনলাইনে যোগাযোগ করতে পারবেন।</li>
+            <li>অনলাইনে আপনার অভিযোগ (জিডি) কপি ডাউনলোডসহ ডিজিটাল কপি কাউকে প্রেরন করতে পারবেন।</li>
+        </ul>
+    </div>
+
+    <div class="col-sm-5" style="margin-bottom:300px">
+        <h1 class="videoTest" style="margin-left:-25px;">ব্যবহারে নিয়মাবলী  : </h1>
+
+
+        <!--Accordion wrapper-->
+        <div class="accordion md-accordion accordion-5" id="accordionEx5" role="tablist"
+             aria-multiselectable="true">
+
+            <!-- Accordion card -->
+            <div class="card mb-4">
+
+                <!-- Card header -->
+                <div class="card-header p-0 z-depth-1" role="tab" id="heading30">
+                    <a data-toggle="collapse" data-parent="#accordionEx5" href="#collapse30" aria-expanded="true"
+                       aria-controls="collapse30">
+                        <i class="fas fa-cloud fa-2x p-3 mr-4 float-left black-text" aria-hidden="true"></i>
+                        <h4 class="text-uppercase white-text mb-0 py-3 mt-1">
+                            প্রথম ধাপ :
+                        </h4>
+                    </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapse30" class="collapse show" role="tabpanel" aria-labelledby="heading30"
+                     data-parent="#accordionEx5">
+                    <div class="card-body rgba-black-light white-text z-depth-1">
+                        <img src="/images/lostRegister.jpg" class="img-responsive" data-target="#sectionModal1" data-toggle="modal" height="300" width="500" />
+                        <p style="font-size:10pt">রেজিষ্ট্রেশনে ক্লিক করুন>আপনার জাতীয়পরিচয়পত্র নম্বর লিখুন>আপনার বর্তমান ঠিকানাটি লিখুন>আপনার লাইভ ছবি তুলুন>আপনার সচল মোবাইল(পরবর্তীতে আপনার ইউজার নেম) ও ইমেল (যদি থাকে) এবং পাসওয়ার্ড প্রদান করুন।</p>
+                        <p style="font-size:10pt">আপনার পরিচয় নিশ্চিত করার জন্য এসএমএস এর মাধ্যমে একটি কোড (ওটিপি) আপনার দেওয়া মোবাইল নম্বরে পাঠানো হবে।</p>
+                        <p style="font-size:10pt">কোডটি (ওটিপি) যথাস্থানে সঠিকভাবে লিখুন।</p><br />
+                        <p style="font-size:10pt">লগইন পেইজে ইউজারের ঘরে আপনার মোবাইল নম্বর এবং পূর্বে প্রদানকৃত পাসওয়ার্ড দিয়ে লগইন-এ ক্লিক করুন।</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card mb-4">
+
+                <!-- Card header -->
+                <div class="card-header p-0 z-depth-1" role="tab" id="heading31">
+                    <a data-toggle="collapse" data-parent="#accordionEx5" href="#collapse31" aria-expanded="true"
+                       aria-controls="collapse31">
+                        <i class="fas fa-comment-alt fa-2x p-3 mr-4 float-left black-text" aria-hidden="true"></i>
+                        <h4 class="text-uppercase white-text mb-0 py-3 mt-1">
+                            দ্বিতীয় ধাপ :
+                        </h4>
+                    </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapse31" class="collapse" role="tabpanel" aria-labelledby="heading31"
+                     data-parent="#accordionEx5">
+                    <div class="card-body rgba-black-light white-text z-depth-1">
+                        <p style="font-size:10pt">
+                            অভিযোগের ধরন এবং আপনার কি হারিয়েছে অথবা কি খুজে পেয়েছেন তা নির্বাচন করুন এবং কোন জেলায় ও কোন থানায় জিডি করতে চান তা নির্বাচন করুন ঘটনার সময় ও স্থান লিখে “ পরবর্তী” ধাপ বাটনে ক্লিক করুন।
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card mb-4">
+
+                <!-- Card header -->
+                <div class="card-header p-0 z-depth-1" role="tab" id="heading32">
+                    <a data-toggle="collapse" data-parent="#accordionEx5" href="#collapse32" aria-expanded="true"
+                       aria-controls="collapse32">
+                        <i class="fas fa-cogs fa-2x p-3 mr-4 float-left black-text" aria-hidden="true"></i>
+                        <h4 class="text-uppercase white-text mb-0 py-3 mt-1">
+                            তৃতীয় ধাপ :
+                        </h4>
+                    </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapse32" class="collapse" role="tabpanel" aria-labelledby="heading32"
+                     data-parent="#accordionEx5">
+                    <div class="card-body rgba-black-light white-text z-depth-1">
+                        <p style="font-size:10pt">আপনার বর্তমান ঠিকানা ও ঘটনা সম্পর্কে আরও বিস্তারিত লিখুন</p>
+                        <p style="font-size:10pt">অভিযোগ সম্পর্কিত কোন ডকুমেন্ট থাকলে সেগুলো যুক্ত করুন। “সাবমিট” বাটনে ক্লিক করে জমা দিন অথবা এডিট বাটনে ক্লিক করে ফর্ম পূরনে কোন সমস্যা হলে তা সমাধান করুন।</p>
+                        <p style="font-size:10pt">আবেদন সম্পন্ন হলে পরবর্তীতে লগইন করে আপনি আপনার জিডিএর সর্বশেষ অবস্থা জানতে পারবেন।</p>
+                        <a class="btn btn-sm ml-2" target="_blank" href="https://play.google.com/store/apps/details?id=com.opus_bd.lostandfound" style="width:75%;background-color:#FF5722;margin-right:15px;margin-bottom:30px;font-size:14pt; color:white;border-radius:5px;float:right">অভিযোগ করতে অ্যাপস্‌ থেকে রেজিস্ট্রেশন করুন</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+        </div>
+        <!--/.Accordion wrapper-->
+    </div>
+</div>
+
+
+<div class="modal fade" id="sectionModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="row" style="width:100%;">
+                    <div class="col-11">
+                        <h3 class="modal-title text-center" id="exampleModalLabel" style="font-size: 20px;padding-top: 14px; color:black">রেজিস্ট্রেশন প্রবাহ চিত্র </h3>
+                    </div>
+                    <div class="col-1">
+                        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-body">
+                <img src="/images/lostRegister.jpg" class="img-thumbnail img-responsive" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="ValidatModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content" style="width:1040px;">
+            <div class="modal-header">
+                <label class="modal-title pull-left" id="myModalLabel" style="color:rgb(9, 7, 161);font-size:1em;">
+                    Thana Wise Performance <span id="UserId"></span>
+                </label>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <br />
+            </div>
+            <div class="modal-body">
+                <table class="table table-bordered table-striped" id="NomineeTable">
+                    <thead>
+                        <tr>
+                            <th>ক্রমিক নং</th>
+                            <th>থানার নাম </th>
+                            <th>জিডি সংখ্যা </th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <nav class="bg-warning fixed-bottom" style="background-color:midnightblue!important;line-height:1!important">
+        <div class="row text-center" style="font-family:'Times New Roman', Times, serif">
+            <div class="col-lg-3 col-md-3 col-sm-12">  <img src="/images/bn.png" style="height: 80px;width: 300px; margin-top: 10px;" /></div>
+            <div class="col-lg-6 col-md-6 col-sm-12 bottomNav">
+                <h5 class="text-center" style="color:white">Contact Us</h5>
+                <div style="color:white;font-size:16px;" class="text-center">
+                    <b class="m-2">Email :</b><span>gd@police.gov.bd</span>
+                    <b class="m-2">Mobile :</b><span>01320001428(WhatsApp)</span>
+                    <b class="m-2">Address :</b><span> 6, Phoenix Road, Fulbaria Dhaka - 1000 </span><br />
+                    <span class="text-center" style="color:white">All rights reserved | Copyright © 2026 Bangladesh Police | <br /></span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12">
+                <h5 class="text-center bottomNav" style="color:white">Mobile Apps</h5>
+                <center style="margin-bottom:-10px"><a href="https://play.google.com/store/apps/details?id=com.opus_bd.lostandfound" target="_blank"><img src="/images/en_badge_web_generic.png" width="200" height="80" /></a></center>
+            </div>
+        </div>
+    </nav>
+    <!-- End of Page Wrapper -->
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+    <!-- Bootstrap core JavaScript-->
+    <script src="/vendor/jquery/jquery.min.js"></script>
+
+
+
+
+
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Page level plugins -->
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <!-- Page level custom scripts -->
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min.js"></script>
+
+    <script src="/CustomSelectOption/select2.min.js"></script>
+    <script src="/loading-bar/dist/loading-bar.js"></script>
+    <!-- Custom Date Picker-->
+    <script src="https://unpkg.com/gijgo@1.9.11/js/gijgo.min.js" type="text/javascript"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="/js/sb-admin-2.min.js"></script>
+    <!-- parsly Validation -->
+    <script src="/js/parsly.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.min.js"></script>
+    <script src="/SweetAlert/sweetalert2.common.js"></script>
+    <script src="/SweetAlert/sweetalert2.js"></script>
+    <script>
+        const originalSwal = swal;
+        window.swal = function (title, text, icon) {
+            const swalPromise = originalSwal(title, text, icon);
+
+            document.addEventListener('keydown', function disableEscKey(event) {
+                if (event.key === 'Escape') {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+            });
+
+            swalPromise.catch((err) => {
+                console.warn('Swal modal was closed with Esc, but we handled it.', err);
+            });
+
+            return swalPromise;
+        };
+    </script>
+    <script src="/js/jquery.autocomplete.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/canvas/jquery.canvasjs.min.js"></script>
+    <script type="text/javascript" src="/qrcode/jquery-qrcode-0.17.0.js"></script>
+    <script type="text/javascript" src="/qrcode/jquery-qrcode-0.17.0.min.js"></script>
+    <script type="text/javascript" src="/qrcode/scripts.js"></script>
+    <!-- Comon Ajax Lib -->
+    <script type="text/javascript" src="/js/common.js"></script>
+    <script type="text/javascript" src="/js/jquery.number.js"></script>
+    <script type="text/javascript" src="/js/jquery.number.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script type="text/javascript" src="/js/qrcode/qrcode.js"></script>
+    <script type="text/javascript">
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            location.reload(true);
+        }
+
+        function getCookie(name) {
+            var re = new RegExp(name + "=([^;]+)");
+            var value = re.exec(document.cookie);
+            return (value != null) ? unescape(value[1]) : null;
+        }
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+            var lang = getCookie('lang');
+            if (lang == 'en') {
+                $('#userDropdown_07').html('বাংলা').css('color', '#11f607');
+            } else {
+                $('#userDropdown_07').html('ENG').css('color', '#07379b');
+            }
+            $('[data-toggle="tooltip"]').tooltip();
+            $('#userDropdown_07').click(function () {
+                if (lang == 'en') {
+                    setCookie('lang', 'bn', 30);
+                    $('#userDropdown_07').html('বাংলা').css('color', '#11f607');
+                } else {
+                    setCookie('lang', 'en', 30); 
+                    $('#userDropdown_07').html('ENG').css('color', '#07379b');
+                }
+
+            });
+            var lang = getCookie('lang');
+            $("#chatbot-chat").hide();
+            $("#btnclose").hide();
+            var BaseUrl = "";
+            var ip = location.host;
+            if (ip == 'localhost:23999') {
+                BaseUrl = 'http://localhost:23999/CustoomChatBox?lang=' + lang;
+            }
+            else {
+                BaseUrl = 'http://103.134.88.13:122/CustoomChatBox?lang=' + lang;
+            }
+            var i = 0;
+            $("#test").click(function () {
+                if (i % 2 == 0) {
+                    $('#chatbot-chat-frame').prop('src', BaseUrl);
+                    $("#chatbot-chat").show();
+                    $("#btnclose").show();
+                } else {
+                    $('#chatbot-chat-frame').removeAttr('src');
+                    $("#chatbot-chat").hide();
+                    $("#btnclose").hide();
+                }
+                i++;
+            });
+
+            $("#btnclose").click(function () {
+                window.location.reload();
+                $("#btnclose").hide();
+            });
+            if (/Mobi/.test(navigator.userAgent)) {
+                $('.bottomNav').hide();
+            }
+            $('.customSelect').select2();
+            $(".errorMessage").hide();
+        });
+        function ClearLocalStorage() {
+            window.localStorage.clear();
+        }
+        var BaseUrl = location.host;
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.0.0.min.js" type="text/javascript"></script>
+    
+
+    
+    <script type="text/javascript">
+
+
+        function handleClick(cb) {
+            if (cb.checked == true) {
+                $('#customCheck').val(true);
+            } else {
+                $('#customCheck').val(false);
+            }
+        }
+        $(document).ready(function () {
+            var lang = getCookie('Modal');
+            if (lang == "set") {
+
+            } else {
+                $('#sectionModal').modal('show');
+            }
+
+            $('#CloseBtn').click(function () { setCookie('Modal', 'set', 30); });
+
+            Common.Ajax('GET', '/globalApi/Public/GetThanaWiseGDCountFromTable', [], 'json', GetData, true);
+
+            $('#userDropdown_01').addClass('navClass');
+        });
+        function GetData(data) {
+            //console.log(data)
+            if (data != null || data != 'error') {
+                $('#listLoader').hide();
+                $('#listTbl').show();
+                var listData = '';
+                $.each(data, function (i, v) {
+                    listData += `<tr><td>${i + 1}</td><td>${v.thanaName}</td><td>${v.total}</td></tr>`;
+                });
+                $('#listTbl tbody').empty();
+                $('#listTbl tbody').append(listData);
+            }
+            else if (data == 'error') {
+                console.log('SP error');
+            }
+            else {
+                console.log('Null');
+            }
+        }
+        function Details() {
+            Common.Ajax('GET', '/api/Account/GetTotalGDByThana/', [], 'json', GetTokenDateRange, false);
+        }
+
+        function GetTokenDateRange(res) {
+            //console.log(response);
+            $("#NomineeTable").DataTable().destroy();
+            if (res == null) {
+                return false;
+            }
+            $("#NomineeTable tbody").empty();
+            var table = $("#NomineeTable tbody");
+            table.empty();
+            for (var i = 0; i < res.length; i++) {
+
+                table.append('<tr id="trId' + i + '">' +
+                    '<td>' + (i + 1) + '</td>'
+                    + '<td>' + res[i].thanaName + '</td>'
+                    + '<td>' + res[i].total + '</td></tr >');
+
+            }
+            $("#NomineeTable").DataTable();
+            $('#ValidatModal').modal('show');
+        }
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,611 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8" />
+        
+        <meta name="csp-nonce" content="JGD7Vsou0alMnJrRJNc9QQ" />
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            (function () {
+                try {
+                    var params = new URLSearchParams(window.location.search);
+                    var tenant = params.get("tenant");
+                    if (tenant === "twk") {
+                        try { window.localStorage.setItem("tenant", "twk"); } catch (e) { /* storage off */ }
+                    } else if (tenant) {
+                        // Deliberate safety divergence from AEM (which only ever
+                        // SET twk): any other explicit ?tenant= value clears the
+                        // sticky mode, so ?tenant=default un-bricks a browser
+                        // that once followed a crafted ?tenant=twk link.
+                        try { window.localStorage.removeItem("tenant"); } catch (e) { /* storage off */ }
+                    }
+                    var theme = params.get("theme");
+                    if (theme === "dark") {
+                        try { window.localStorage.setItem("theme", "dark"); } catch (e) { /* storage off */ }
+                    } else if (theme) {
+                        // Same un-brick rule as tenant: an explicit non-dark
+                        // ?theme= clears the sticky dark mode.
+                        try { window.localStorage.removeItem("theme"); } catch (e) { /* storage off */ }
+                    }
+                    var stored = null;
+                    var storedTheme = null;
+                    try { stored = window.localStorage.getItem("tenant"); } catch (e) { /* storage off */ }
+                    try { storedTheme = window.localStorage.getItem("theme"); } catch (e) { /* storage off */ }
+                    if (tenant === "twk" || (!tenant && stored === "twk")) {
+                        document.documentElement.classList.add("twk-mode");
+                        // AEM gates dark mode on TWK mode (its head.html only
+                        // stamps `dark` inside the isTWKMode branch) — mirror
+                        // that: no standalone site-wide dark theme.
+                        if (theme === "dark" || (!theme && storedTheme === "dark")) {
+                            document.documentElement.classList.add("dark");
+                        }
+                    }
+                } catch (e) { /* embed detection is best-effort */ }
+            })();
+        </script>
+        
+        
+        
+        
+        
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://cdn.consentmanager.net" />
+        <link rel="preconnect" href="https://delivery.consentmanager.net" />
+        
+
+        
+        <link rel="preload" href="/static/frontend/fonts/saudiSans/SaudiSans-VF.woff2" as="font" type="font/woff2" fetchpriority="low" crossorigin media="(min-width: 1024px)" />
+        <link rel="preload" href="/static/frontend/fonts/saudiSerif/SaudiSerif-VF.woff2" as="font" type="font/woff2" fetchpriority="low" crossorigin media="(min-width: 1024px)" />
+
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            window.dataLayer = window.dataLayer || [];
+            window.adobeDataLayer = window.adobeDataLayer || [];
+            window.appEventData = window.appEventData || [];
+            window.appEventData.push({
+                event: "Data Layer Established",
+                page: {
+                    canonicalURL: location.protocol + "//" + location.host + "/en/campaigns/package\u002Dvisa",
+                    siteLanguage: "en",
+                    lastModifiedDate: "2026\u002D10\u002D14T09:41:38Z",
+                    authoredByManifest: ""
+                }
+            });
+        </script>
+
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            window.digitalData = {
+                page: {
+                    server: "www.visitsaudi.com:443",
+                    channel: "",
+                    pageType: "contentPage",
+                    pageName: "Discover Saudi in One Package",
+                    siteCountry: "BD",
+                },
+                userinfo: {
+                    loggedIn: "guest",
+                    userID: "",
+                    countryCode: "en",
+                    language: "en",
+                },
+            };
+        </script>
+
+        
+        
+
+        
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != "dataLayer" ? "&l=" + l : "";
+                j.async = true;
+                // Network priority only (no timing change): on a slow link the
+                // 200 KB container otherwise shares bandwidth with the hero's
+                // LCP image and the brand fonts. GTM still starts immediately.
+                j.fetchPriority = "low";
+                j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, "script", "dataLayer", "GTM\u002DPQKR2QZ");
+        </script>
+
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            (function () {
+                // Outer try/catch covers the entire event-emit path. A
+                // malformed userData sessionStorage entry (string instead of
+                // object), a cross-origin iframe context that throws on
+                // document.cookie access, or a custom Object.prototype hack
+                // on a partner site can crash property reads and silently
+                // drop BOTH the pageMetaData AND page_load events with no
+                // console signal. console.warn keeps the bailout visible to
+                // QA without hard-failing the page.
+                try {
+                    var eventProperties = {};
+                    eventProperties.city = "BD";
+                    
+                    var language = "en";
+                    eventProperties.language = language;
+
+                    var user = null;
+                    try {
+                        var raw = window.sessionStorage.getItem("userData");
+                        var parsed = raw ? JSON.parse(raw) : null;
+                        // Reject non-object payloads (a stringified primitive
+                        // would otherwise pass JSON.parse and explode on
+                        // property reads below).
+                        if (parsed && typeof parsed === "object") {
+                            user = parsed;
+                        }
+                    } catch (e) {
+                        user = null;
+                    }
+                    var user_id = user && user.ssid ? user.ssid : "";
+                    var sub_id = user && user.sub ? user.sub : "";
+                    var hasAccessToken = false;
+                    var cookies = [];
+                    try {
+                        cookies = document.cookie ? document.cookie.split(";") : [];
+                    } catch (e) {
+                        cookies = [];
+                    }
+                    for (var i = 0; i < cookies.length; i++) {
+                        var c = cookies[i].trim();
+                        if (c.indexOf("access_token=") === 0) {
+                            hasAccessToken = !!c.split("=")[1];
+                            break;
+                        }
+                    }
+                    var loginStatus = hasAccessToken && user ? "Logged-In" : "Logged-Out";
+
+                    var host = document.location.host
+                        .replace("www.", "")
+                        .replace("https://", "")
+                        .replace(".com", "");
+                    var parts = document.location.pathname.split("/");
+                    var colonPageName = host;
+                    for (var j = 1; j < parts.length; j++) {
+                        colonPageName += ":" + parts[j];
+                    }
+
+                    window.dataLayer.push(
+                        {
+                            event: "pageMetaData",
+                            event_properties: eventProperties,
+                            user_properties: { user_id: "", user_visa: "" }
+                        },
+                        {
+                            event: "page_load",
+                            event_name: "page_meta_data",
+                            adb_user_properties: {
+                                user_id: user_id,
+                                sub_id: sub_id,
+                                login_status: loginStatus
+                            },
+                            adb_page_properties: {
+                                page_name: colonPageName,
+                                page_title: "Discover Saudi in One Package",
+                                page_path: "/en/campaigns/package\u002Dvisa",
+                                page_type: "contentPage",
+                                site_section: "",
+                                site_subSection: "",
+                                language: language
+                            }
+                        }
+                    );
+                } catch (e) {
+                    if (window.console && window.console.warn) {
+                        window.console.warn("pageMetaData/page_load emit failed:", e);
+                    }
+                    // Surface the failure to GTM / Adobe Launch dashboards so ops
+                    // can detect silent regressions without requiring devtools.
+                    // The inner try/catch prevents a broken dataLayer from causing
+                    // a second uncaught error in the outer catch handler.
+                    try { (window.dataLayer = window.dataLayer || []).push({event: "pageMetaData_emit_failed", error: e && e.message ? e.message : String(e)}); } catch (e2) {}
+                    /*
+                     * NOTE — pageMetaData_emit_failed runtime test (re-review Sug #3):
+                     * A jsdom/vitest test for this catch path was evaluated and
+                     * rejected.  This IIFE executes in <head> during the initial HTML
+                     * parse, before the webpack bundle is loaded (bundle is injected
+                     * at end of <body> via render_bundle_with_nonce).  Extracting the
+                     * IIFE into a webpack module would require either moving the bundle
+                     * to <head> (render-blocking regression) or restructuring the emit
+                     * as a deferred callback (significant template churn for a 1-line
+                     * catch body that has zero template-variable dependencies).
+                     * Structural correctness is verified at template-source level by:
+                     *   apps/core/tests/test_context_processors.py
+                     *   ::TestGTMAnalytics::test_pagemetadata_emit_failed_event_pushed_on_template_error
+                     * Production signal comes from GTM/Adobe Launch rules listening for
+                     * the "pageMetaData_emit_failed" event in the dataLayer.
+                     */
+                }
+            })();
+        </script>
+        
+
+        
+        
+
+        
+        
+        <!-- Microsoft Clarity Tracking Code -->
+        <script type="text/javascript" nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.fetchPriority="low";t.src="https://www.clarity.ms/tag/"+i;
+                (l.head||l.body).appendChild(t);
+            })(window, document, "clarity", "script", "x49j444pm8");
+        </script>
+        
+        <title>Saudi in One Package Flights, Hotels &amp; Tourist eVisa - Visit Saudi Official Website</title>
+        
+        
+        
+        
+        <meta name="description" content="Book Saudi travel packages with flights, hotels, and tourist eVisa. Book now to explore Riyadh, Jeddah, AlUla, and The Red Sea." />
+        <meta property="og:title" content="Saudi in One Package Flights, Hotels &amp; Tourist eVisa" />
+        <meta property="og:description" content="Book Saudi travel packages with flights, hotels, and tourist eVisa. Book now to explore Riyadh, Jeddah, AlUla, and The Red Sea." />
+        <meta property="og:image" content="https://www.visitsaudi.com/images/visa-packages-banner.2e16d0ba.fill-1200x630.jpg" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.visitsaudi.com/en/campaigns/package-visa" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:description" content="Book Saudi travel packages with flights, hotels, and tourist eVisa. Book now to explore Riyadh, Jeddah, AlUla, and The Red Sea." />
+        <meta name="twitter:image" content="https://www.visitsaudi.com/images/visa-packages-banner.2e16d0ba.fill-1200x630.jpg" />
+        
+        
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
+
+        
+        
+        
+        <meta name="robots" content="index, follow" />
+        
+
+        
+        
+        <link rel="canonical" href="https://www.visitsaudi.com/en/campaigns/package-visa" />
+        
+
+        
+        
+
+        
+        <script type="application/ld+json">{"itemListElement": [{"@type": "ListItem", "position": 1, "name": "Discover Saudi Arabia: Culture, Nature & More", "item": "https://www.visitsaudi.com/en"}, {"@type": "ListItem", "position": 2, "name": "Campaigns", "item": "https://www.visitsaudi.com/en/campaigns"}, {"@type": "ListItem", "position": 3, "name": "Discover Saudi in One Package", "item": "https://www.visitsaudi.com/en/campaigns/package-visa"}], "@context": "http://schema.org", "@type": "BreadcrumbList"}</script>
+
+        
+        
+        
+        
+        
+        
+        <link rel="alternate" hreflang="ar" href="https://www.visitsaudi.com/ar/campaigns/package-visa" />
+        
+        
+        
+        <link rel="alternate" hreflang="de" href="https://www.visitsaudi.com/de/campaigns/package-visa" />
+        
+        
+        
+        <link rel="alternate" hreflang="zh" href="https://www.visitsaudi.cn/zh/campaigns/package-visa" />
+        
+        
+        
+        <link rel="alternate" hreflang="ru" href="https://www.visitsaudi.com/ru/campaigns/package-visa" />
+        
+        
+        
+        <link rel="alternate" hreflang="ja" href="https://www.visitsaudi.com/ja/campaigns/package-visa" />
+        
+        
+        
+        <link rel="alternate" hreflang="fr" href="https://www.visitsaudi.com/fr/campaigns/package-visa" />
+        
+        
+        
+        <link rel="alternate" hreflang="es" href="https://www.visitsaudi.com/es/campaigns/package-visa" />
+        
+        
+        <link rel="alternate" hreflang="en" href="https://www.visitsaudi.com/en/campaigns/package-visa" />
+        <link rel="alternate" hreflang="x-default" href="https://www.visitsaudi.com/en/campaigns/package-visa" />
+        
+
+        
+        
+
+        
+        <a href="#main-content" class="skip-link">Skip to main content</a>
+
+        
+        <link href="/static/frontend/css/site-9c64313a-3f007833.css" rel="stylesheet"/>
+<link href="/static/frontend/css/site-22d3d801-83cf334e.css" rel="stylesheet"/>
+
+        
+
+        
+        
+        
+
+        
+        
+    </head>
+
+    <body class="" data-cmp-data-layer-enabled="" data-theme-name="Default Theme" data-page-theme="purple" data-is-default-theme="true" data-is-global-theme="false" data-primary-color="#78006e" data-secondary-color="#be008d" style="--color-theme-100: 120 0 110; --color-theme-200: 190 0 141; --ornament-authority-info: url('https://www.visitsaudi.com/images/ornament-h-m1-24-8290.original.png'); --ornament-brush: url('https://www.visitsaudi.com/images/01-8291.original.png'); --ornament-community-participation: url('https://www.visitsaudi.com/images/ornament-h-m1-24-8290.original.png'); --ornament-desktop-page-banner: url('https://www.visitsaudi.com/images/ornament-page-banner-desktop-h-m2-24-8292.original.png'); --ornament-desktop-separator-visa: url('https://www.visitsaudi.com/images/ornament-h-m3-80-8293.original.svg'); --ornament-dropdown-section-desktop-visa: url('https://www.visitsaudi.com/images/ornament-h-m-133-8294.original.svg'); --ornament-dropdown-section-mobile-visa: url('https://www.visitsaudi.com/images/ornament-h-m-133-resp-8295.original.svg'); --ornament-footer: url('https://www.visitsaudi.com/images/ornament-h-g4-dark-48-8296.original.svg'); --ornament-gcc-horizontal-visa: url('https://www.visitsaudi.com/images/gcc-h-ornament-8297.original.svg'); --ornament-gcc-vertical-visa: url('https://www.visitsaudi.com/images/gcc-v-ornament-8298.original.svg'); --ornament-help-widget: url('https://www.visitsaudi.com/images/ornament-h-g4-dark-48-8296.original.svg'); --ornament-imac-brush: url('https://www.visitsaudi.com/images/01-8299.original.png'); --ornament-information-list-widget: url('https://www.visitsaudi.com/images/ornament-h-g4-dark-48-8296.original.svg'); --ornament-links-list-widget: url('https://www.visitsaudi.com/images/mobile-footer-ornament-8300.original.png'); --ornament-main-menu: url('https://www.visitsaudi.com/images/ornament-h-g2-light-48-8301.original.svg'); --ornament-metrics-cards: url('https://www.visitsaudi.com/images/metric-cards-colored-ornament-8302.original.svg'); --ornament-mobile-banner-slide: url('https://www.visitsaudi.com/images/promotional-ornament-hero-8303.original.png'); --ornament-mobile-brush: url('https://www.visitsaudi.com/images/012x.original.png'); --ornament-mobile-page-banner: url('https://www.visitsaudi.com/images/ornament-page-banner-mobile-h-m1-24-8305.original.png'); --ornament-mobile-popup-visa: url('https://www.visitsaudi.com/images/ornament-h-p1-80-8306.original.svg'); --ornament-mobile-section-visa: url('https://www.visitsaudi.com/images/ornament-v-p1-dark-80-8307.original.svg'); --ornament-mobile-separator-visa: url('https://www.visitsaudi.com/images/ornament-h-m3-48-8308.original.svg'); --ornament-other-mobile-visa: url('https://www.visitsaudi.com/images/other-sections-ornament-8309.original.svg'); --ornament-price-widget: url('https://www.visitsaudi.com/images/ornament-h-m5-48-8310.original.svg'); --ornament-side-image: url('https://www.visitsaudi.com/images/ornament-h-m-133-8294.original.svg'); --ornament-side-sheet: url('https://www.visitsaudi.com/images/side-sheet-ornament-8311.original.svg'); --ornament-special-show-widget: url('https://www.visitsaudi.com/images/ornament-h-g4-dark-48-8296.original.svg'); --ornament-survey-side: url('https://www.visitsaudi.com/images/survey-v-pattern-8312.original.png'); --ornament-survey-top: url('https://www.visitsaudi.com/images/survey-h-pattern-8313.original.png'); --ornament-tabs: url('https://www.visitsaudi.com/images/tab-top-ornament-8314.original.png'); --ornament-top-stories-metrics-cards: url('https://www.visitsaudi.com/images/metric-cards-colorless-ornament-8315.original.svg'); --ornament-tutorial: url('https://www.visitsaudi.com/images/tutorial-pattern-8316.original.png');"  >
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            (function () {
+                try {
+                    var root = document.documentElement;
+                    if (root.classList.contains("twk-mode") && root.classList.contains("dark")) {
+                        document.body.setAttribute("data-page-theme", "dark");
+                    }
+                } catch (e) { /* best-effort, mirrors the head script */ }
+            })();
+        </script>
+        
+        <script nonce="JGD7Vsou0alMnJrRJNc9QQ">
+            (function () {
+                // U+00A0 NBSP, U+202F narrow NBSP, U+2007 figure space, U+FEFF
+                // zero-width no-break space: none collapse like ASCII whitespace,
+                // so a lone one in normal flow generates a stray line box.
+                var NON_COLLAPSING = /[\u00A0\u202F\u2007\uFEFF]/;
+                function isOrphan(node) {
+                    return node.nodeType === 3 &&
+                        node.parentNode === document.body &&
+                        node.nodeValue != null &&
+                        /^\s*$/.test(node.nodeValue) &&        // whitespace-only: safe to drop
+                        NON_COLLAPSING.test(node.nodeValue);   // ...and an actual offender
+                }
+                function sweep() {
+                    var n = document.body.firstChild, next;
+                    while (n) {
+                        next = n.nextSibling;
+                        if (isOrphan(n)) document.body.removeChild(n);
+                        n = next;
+                    }
+                }
+                sweep();
+                new MutationObserver(function (records) {
+                    for (var i = 0; i < records.length; i++) {
+                        var added = records[i].addedNodes;
+                        for (var j = 0; j < added.length; j++) {
+                            if (isOrphan(added[j])) {
+                                added[j].parentNode.removeChild(added[j]);
+                            }
+                        }
+                    }
+                }).observe(document.body, { childList: true });
+            })();
+        </script>
+        
+        
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM\u002DPQKR2QZ"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        
+
+        
+
+        
+
+        
+        <script id="global-nav-props" type="application/json">{"saudiLogoUrlPath": "/en", "spiritualLogo": "/content/dam/sauditourism/header/icon/logo1/logo1-en-gold.svg", "spiritualMobileLogo": "/content/dam/sauditourism/header/icon/logo1/logo1-mobile-gold.svg", "logo": {"desktopImage": "/content/dam/sauditourism/header/icon/logo1/logo1-en.svg", "mobileImage": "/content/dam/sauditourism/header/icon/logo1/logo1-mobile.svg", "isTransparent": false}, "mainMenuOrnament": "https://www.visitsaudi.com/original_images/ornament-h-g2-light-48.svg", "data": [{"title": "Destinations", "ctaLink": "/en/destinations", "data": [{"ctaLabel": "Riyadh", "ctaLink": "/en/riyadh", "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/destinations-riyadh.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/destinations-riyadh.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/destinations-riyadh.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/destinations-riyadh.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/destinations-riyadh.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/destinations-riyadh.original.png", "isTransparent": true}}, {"ctaLabel": "AlUla", "ctaLink": "/en/alula", "image": {"fileReference": "/content/dam/wvs/pop-up-images/alUla.png", "mobileImageReference": "/content/dam/wvs/pop-up-images/alUla.png", "alt": "", "s7fileReference": "/content/dam/wvs/pop-up-images/alUla.png", "s7mobileImageReference": "/content/dam/wvs/pop-up-images/alUla.png", "desktopImage": "/content/dam/wvs/pop-up-images/alUla.png", "mobileImage": "/content/dam/wvs/pop-up-images/alUla.png", "isTransparent": true}}, {"ctaLabel": "Jeddah", "ctaLink": "/en/jeddah", "image": {"fileReference": "/content/dam/wvs/pop-up-images/Jeddah-cutout.png", "mobileImageReference": "/content/dam/wvs/pop-up-images/Jeddah-cutout.png", "alt": "", "s7fileReference": "/content/dam/wvs/pop-up-images/Jeddah-cutout.png", "s7mobileImageReference": "/content/dam/wvs/pop-up-images/Jeddah-cutout.png", "desktopImage": "/content/dam/wvs/pop-up-images/Jeddah-cutout.png", "mobileImage": "/content/dam/wvs/pop-up-images/Jeddah-cutout.png", "isTransparent": true}}, {"ctaLabel": "Eastern Province", "ctaLink": "/en/eastern-province", "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/dammam-2.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/dammam-2.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/dammam-2.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/dammam-2.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/dammam-2.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/dammam-2.original.png", "isTransparent": true}}, {"ctaLabel": "Hail", "ctaLink": "/en/hail", "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/hail-1.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/hail-1.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/hail-1.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/hail-1.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/hail-1.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/hail-1.original.png", "isTransparent": true}}, {"ctaLabel": "Diriyah", "ctaLink": "/en/diriyah", "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/deriyah-1.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/deriyah-1.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/deriyah-1.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/deriyah-1.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/deriyah-1.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/deriyah-1.original.png", "isTransparent": true}}], "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/default-destinations_crop-1920x1080.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/default-destinations_crop-1920x1080.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/default-destinations_crop-1920x1080.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/default-destinations_crop-1920x1080.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/default-destinations_crop-1920x1080.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/default-destinations_crop-1920x1080.original.png", "isTransparent": true}, "childPaths": ["/en/riyadh", "/en/alula", "/en/jeddah", "/en/eastern-province", "/en/hail", "/en/diriyah", "/en/destinations/al-baha", "/en/destinations/alula", "/en/destinations/aseer", "/en/destinations/diriyah", "/en/destinations/eastern-province", "/en/destinations/hail", "/en/destinations/makkah", "/en/destinations/qassim", "/en/destinations/riyadh", "/en/destinations/al-ahsa", "/en/destinations/al-jubail", "/en/destinations/al-khobar", "/en/destinations/dhahran", "/en/destinations/jazan", "/en/destinations/jeddah", "/en/destinations/kaec", "/en/destinations/madinah", "/en/destinations/najran", "/en/destinations/rafhaa", "/en/destinations/sakaka", "/en/destinations/tabuk", "/en/destinations/taif", "/en/destinations/the-red-sea", "/en/destinations/yanbu"], "viewAllLabel": "View All", "viewAllLink": "/en/destinations"}, {"title": "Plan Your Trip", "ctaLink": "/en/plan-your-trip", "data": [{"ctaLabel": "About Saudi Arabia", "ctaLink": "/en/about-saudi", "image": {"fileReference": "/content/dam/wvs/pictograms-png/new/7-about-saudi.png", "mobileImageReference": "/content/dam/wvs/pictograms-png/new/7-about-saudi.png", "alt": "", "s7fileReference": "/content/dam/wvs/pictograms-png/new/7-about-saudi.png", "s7mobileImageReference": "/content/dam/wvs/pictograms-png/new/7-about-saudi.png", "desktopImage": "/content/dam/wvs/pictograms-png/new/7-about-saudi.png", "mobileImage": "/content/dam/wvs/pictograms-png/new/7-about-saudi.png", "isTransparent": true}}, {"ctaLabel": "Travel Guide", "ctaLink": "/en/plan-your-trip/travel-guide", "image": {"fileReference": "/content/dam/wvs/pictograms-png/new/2-travel-guide.png", "mobileImageReference": "/content/dam/wvs/pictograms-png/new/2-travel-guide.png", "alt": "", "s7fileReference": "/content/dam/wvs/pictograms-png/new/2-travel-guide.png", "s7mobileImageReference": "/content/dam/wvs/pictograms-png/new/2-travel-guide.png", "desktopImage": "/content/dam/wvs/pictograms-png/new/2-travel-guide.png", "mobileImage": "/content/dam/wvs/pictograms-png/new/2-travel-guide.png", "isTransparent": true}}, {"ctaLabel": "Getting Around Saudi Arabia", "ctaLink": "/en/getting-around", "image": {"fileReference": "/content/dam/wvs/pictograms-png/new/4-getting-around.png", "mobileImageReference": "/content/dam/wvs/pictograms-png/new/4-getting-around.png", "alt": "", "s7fileReference": "/content/dam/wvs/pictograms-png/new/4-getting-around.png", "s7mobileImageReference": "/content/dam/wvs/pictograms-png/new/4-getting-around.png", "desktopImage": "/content/dam/wvs/pictograms-png/new/4-getting-around.png", "mobileImage": "/content/dam/wvs/pictograms-png/new/4-getting-around.png", "isTransparent": true}}], "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/3-section-cover_crop-1920x1080.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/3-section-cover_crop-1920x1080.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/3-section-cover_crop-1920x1080.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/3-section-cover_crop-1920x1080.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/3-section-cover_crop-1920x1080.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/3-section-cover_crop-1920x1080.original.png", "isTransparent": true}, "childPaths": ["/en/about-saudi", "/en/plan-your-trip/travel-guide", "/en/getting-around"], "viewAllLabel": "View All", "viewAllLink": "/en/plan-your-trip"}, {"title": "Things To Do", "ctaLink": "/en/things-to-do", "data": [], "image": {"fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/menu-things-to-do-1x_crop-1920x1080.original.png", "mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/menu-things-to-do-1x_crop-1920x1080.original.png", "alt": "", "s7fileReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/menu-things-to-do-1x_crop-1920x1080.original.png", "s7mobileImageReference": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/menu-things-to-do-1x_crop-1920x1080.original.png", "desktopImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/menu-things-to-do-1x_crop-1920x1080.original.png", "mobileImage": "https://objectstorage.me-jeddah-1.oraclecloud.com/p/grF3YSbjQwaNWqpTsZwQjMU0oBqOZ2HfivSSDJmU_PjdpRqKAB5npc6x_YuCnsPa/n/axhvq5trx9bo/b/VSW-Wagtail-Prod-ObjectStorage/o/images/menu-things-to-do-1x_crop-1920x1080.original.png", "isTransparent": true}}, {"title": "Saudi Offers", "ctaLink": "/en/offers", "data": []}, {"title": "Saudi Calendar", "ctaLink": "/en/saudi-calendar", "data": []}, {"title": "Interactive Map", "ctaLink": "https://map.visitsaudi.com/en", "data": []}], "languages": {"label": "Language", "data": [{"ctaLabel": "Ar- \u0627\u0644\u0639\u0631\u0628\u064a\u0629", "ctaLink": "/ar", "ctaAltLink": "/en", "unAvailableLanMessage": "\u0647\u0630\u0647 \u0627\u0644\u0635\u0641\u062d\u0629 \u063a\u064a\u0631 \u0645\u062a\u0648\u0641\u0631\u0629 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629", "unAvailableLanLink": "/ar", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "\u0625\u0630\u0647\u0628 \u0625\u0644\u0649 \u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u0633\u064a\u0629", "isSelected": false, "flagIcon": "/static/frontend/flags/ar.svg"}, {"ctaLabel": "En- English", "ctaLink": "/en", "ctaAltLink": "/en", "unAvailableLanMessage": "This page is not available in English", "unAvailableLanLink": "/en", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "Go to English homepage", "isSelected": true, "flagIcon": "/static/frontend/flags/en.svg"}, {"ctaLabel": "Zh- \u4e2d\u6587", "ctaLink": "/zh", "ctaAltLink": "/en", "unAvailableLanMessage": "\u8be5\u9875\u9762\u6ca1\u6709\u4e2d\u6587\u7248", "unAvailableLanLink": "https://www.visitsaudi.cn/zh", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "\u8f6c\u5230\u4e3b\u9875", "isSelected": false, "flagIcon": "/static/frontend/flags/zh.svg"}, {"ctaLabel": "De- Deutsch", "ctaLink": "/de", "ctaAltLink": "/en", "unAvailableLanMessage": "Diese Seite ist nicht auf Deutsch verf\u00fcgbar", "unAvailableLanLink": "/de", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "Zur Homepage gehen", "isSelected": false, "flagIcon": "/static/frontend/flags/de.svg"}, {"ctaLabel": "Ru- P\u0443\u0441\u0441\u043a\u0438\u0439", "ctaLink": "/ru", "ctaAltLink": "/en", "unAvailableLanMessage": "\u042d\u0442\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430 \u043d\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435.", "unAvailableLanLink": "/ru", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u044e\u044e \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443", "isSelected": false, "flagIcon": "/static/frontend/flags/ru.svg"}, {"ctaLabel": "Fr- Fran\u00e7ais", "ctaLink": "/fr", "ctaAltLink": "/en", "unAvailableLanMessage": "Cette page n\u2019est pas disponible en langue fran\u00e7aise", "unAvailableLanLink": "/fr", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "Aller \u00e0 la page d'accueil", "isSelected": false, "flagIcon": "/static/frontend/flags/fr.svg"}, {"ctaLabel": "Es- Espa\u00f1ol", "ctaLink": "/es", "ctaAltLink": "/en", "unAvailableLanMessage": "Esta p\u00e1gina no est\u00e1 disponible en alem\u00e1n", "unAvailableLanLink": "/es", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "Ir a la p\u00e1gina de inicio", "isSelected": false, "flagIcon": "/static/frontend/flags/es.svg"}, {"ctaLabel": "Ja- \u65e5\u672c\u8a9e", "ctaLink": "/ja", "ctaAltLink": "/en", "unAvailableLanMessage": "\u3053\u306e\u30da\u30fc\u30b8\u306f\u65e5\u672c\u8a9e\u3067\u306f\u5229\u7528\u3067\u304d\u307e\u305b\u3093", "unAvailableLanLink": "/ja", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u3078\u79fb\u52d5 \u3059\u308b", "isSelected": false, "flagIcon": "/static/frontend/flags/ja.svg"}, {"ctaLabel": "Tr- T\u00fcrk\u00e7e", "ctaLink": "/tr", "ctaAltLink": "/en", "unAvailableLanMessage": "Bu sayfa T\u00fcrk\u00e7e dilinde mevcut de\u011fil", "unAvailableLanLink": "/tr", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "Anasayfaya git", "isSelected": false, "flagIcon": "/static/frontend/flags/tr.svg"}, {"ctaLabel": "It - Italiano", "ctaLink": "/it", "ctaAltLink": "/en", "unAvailableLanMessage": "Questa pagina non \u00e8 disponibile in Italiano", "unAvailableLanLink": "/it", "unAvailableLanAltLink": "", "unAvailableLanLinkLabel": "Vai alla homepage", "isSelected": false, "flagIcon": "/static/frontend/flags/it.svg"}]}, "evisa": {"title": "Get Your Visa", "link": "/en/plan-your-trip/visa-regulations"}, "userMenu": {"registerLabel": "Log In / Sign Up", "signOutLabel": "Sign Out", "welcomeLabel": "Welcome", "viewProfileLabel": "View Profile", "viewProfileCTA": "https://sso.visitsaudi.com/individual/account-settings?ui_locales=en", "helloLabel": "Hello", "userApi": {"ssidLoginUrl": "/bin/api/v2/ssid/login-url", "ssidUserInfo": "/bin/api/v2/ssid/userInfo", "ssidLogoutUrl": "/bin/api/v3/ssid/logout", "getProfile": "/bin/api/v2/user/get.profile", "getTripPlansEndpoint": "/bin/api/v2/user/get.trips", "updateProfile": "/bin/api/v2/user/update", "getFavorites": "/bin/api/v2/user/get.favorites", "domain": "sso.visitsaudi.com", "clientId": "visitsaudi"}, "subMenu": [{"iconName": "userCircle", "url": "https://sso.visitsaudi.com/individual/account-settings?ui_locales=en", "altUrl": "", "label": "Personal Information"}]}, "searchBox": {"suggestionsEndpoint": "/bin/api/v3/solr/search", "searchPagePath": "/en/search", "searchModalTitle": "Looking for destinations, things to do\u2026", "searchHeaderLabel": "Search", "searchLabel": "Looking for destinations, things to do\u2026", "searchPlaceholder": "Type what you are looking for", "cancelLabel": "Cancel", "clearLabel": "Clear", "clearHistoryLabel": "Clear History", "recentSearchLabel": "Recent Search"}, "accessibilityMenuLabels": {"title": "Accessibility Features", "increaseFontSizeLabel": "Larger Text", "decreaseFontSizeLabel": "Smaller Text", "invertColorsLabel": "Classic Invert", "grayHuesLabel": "Gray Hues / Grayscale", "underlineLinksLabel": "Underline Links", "textToSpeechLabel": "Text-to-Speech", "speechToTextLabel": "Speech-to-Text", "readingGuideLabel": "Reading Guide", "bigCursorLabel": "Big Cursor /Large Mouse Pointer", "disableAnimationsLabel": "Reduce Motion / Disable Animation Effects.", "unsupportedFeatureLabel": "Unsupported Feature", "resetSettingsLabel": "Reset Settings"}, "showLoginCta": true}</script>
+        <script id="global-footer-props" type="application/json">{"fragmentNewsletter": {"title": "SUBSCRIBE TO OUR NEWSLETTER", "placeholder": "Your email address", "ctaLabel": "Join", "invalidEmailMessage": "Invalid Email Address.", "successMessage": "Subscribed successfully.", "failureMessage": "Something went wrong.", "apiUrl": "/bin/api/subscription"}, "fragmentDownloads": {"title": "DOWNLOAD VISIT SAUDI APP", "ctaImageList": [{"ctaImage": "/content/dam/footer-images/Button GooglePlay White.svg", "ctaLink": "https://play.google.com/store/apps/details?id=sa.gov.apps.sauditourism\u0026pcampaignid=web_share", "isOpenInNewTab": true}, {"ctaImage": "/content/dam/footer-images/Button Appstore White.svg", "ctaLink": "https://apps.apple.com/us/app/visit-saudi-%D8%B1%D9%88%D8%AD-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/id818179871", "isOpenInNewTab": true}, {"ctaImage": "/content/dam/footer-images/Store Badges - Website.svg", "ctaLink": "https://appgallery.huawei.com/app/C101699859?sharePrepath=ag\u0026locale=en_US\u0026source=appshare\u0026subsource=C101699859\u0026shareTo=com.Slack\u0026shareFrom=appmarket\u0026shareIds=71b67a2fd8684bdf933520b72c27743f_com.Slack\u0026callType=SHARE", "isOpenInNewTab": true}], "joinCta": "CTA"}, "fragmentGroup": {"orientation": "Horizontal", "patternType": "1"}, "fragmentBranding": {"visitSaudiLogo": "/content/dam/sauditourism/footer/icon/logo3/en.svg", "visitSaudiLogoLink": "/en", "poweredBy": "Powered by", "staLogo": "/content/dam/sauditourism/footer/icon/logo2/grey.png", "staLogoLink": "https://www.sta.gov.sa/en/home", "visitSaudiDgaStampLogo": "/content/dam/sauditourism/footer/icon/dga/visitsaudi-dga-logo.png", "visitSaudiDgaStampLogoLink": "https://raqmi.dga.gov.sa/platforms/platforms/dcf0a4ef-a48f-48b8-1769-08dda26b699f/platform-license"}, "fragmentInternalLinks": {"titleLink": "Discover Saudi", "ctaList": [{"ctaLabel": "Saudi Rewards", "ctaLink": "/en/saudi-rewards", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Destinations", "ctaLink": "/en/destinations", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Things To Do", "ctaLink": "/en/things-to-do", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Plan Your Trip", "ctaLink": "/en/plan-your-trip", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Saudi Calendar", "ctaLink": "/en/saudi-calendar", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Saudi Map", "ctaLink": "https://map.visitsaudi.com/en", "isOpenInNewTab": false, "ctaIcon": ""}]}, "fragmentExternalLinks": {"titleLink": "Saudi Partner", "ctaList": [{"ctaLabel": "Content Hub", "ctaLink": "https://partner.visitsaudi.com/en/content-hub/home", "isOpenInNewTab": true, "ctaIcon": ""}, {"ctaLabel": "Partner Tools", "ctaLink": "https://partner.visitsaudi.com/en/partner-tools/home", "isOpenInNewTab": true, "ctaIcon": ""}, {"ctaLabel": "Tourism Exchange", "ctaLink": "https://partner.visitsaudi.com/en/tourism-exchange/home", "isOpenInNewTab": true, "ctaIcon": ""}]}, "fragmentContact": {"titleLink": "Related Links", "ctaList": [{"ctaLabel": "About VisitSaudi", "ctaLink": "/en/about-us", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "FAQs", "ctaLink": "/en/help-center", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Open Data", "ctaLink": "/en/open-data", "isOpenInNewTab": false, "ctaIcon": ""}, {"ctaLabel": "Istitlaa Platform", "ctaLink": "https://istitlaa.ncc.gov.sa/en/Transportation/NDMO/Pages/default.aspx", "isOpenInNewTab": true, "ctaIcon": ""}, {"ctaLabel": "Tafaul Platform", "ctaLink": "https://eparticipation.my.gov.sa/en/", "isOpenInNewTab": true, "ctaIcon": ""}, {"ctaLabel": "AI Connector", "ctaLink": "/en/ai-connector", "isOpenInNewTab": false, "ctaIcon": ""}]}, "fragmentSupport": {"titleLink": "Call Center", "ctaList": [{"ctaLabel": "Contact Us", "ctaLink": "/en/contact-us", "isOpenInNewTab": false, "ctaIcon": "/content/dam/sauditourism/DGA%20Agent%20Web.svg"}]}, "fragmentAccessibility": {}, "ctaListIcon": [{"iconLabel": "whatsapp", "iconLink": "https://api.whatsapp.com/send?phone=966114907617", "isOpenInNewTab": true}, {"iconLabel": "facebook", "iconLink": "https://www.facebook.com/VisitSaudi", "isOpenInNewTab": true}, {"iconLabel": "instagram", "iconLink": "https://www.instagram.com/visitsaudi/", "isOpenInNewTab": true}, {"iconLabel": "twitter", "iconLink": "https://twitter.com/VisitSaudi", "isOpenInNewTab": true}, {"iconLabel": "youtube", "iconLink": "https://www.youtube.com/channel/UCmFRhhc6Gt8b4bSUmTzNIoA", "isOpenInNewTab": true}], "fragmentContainer": {"copyrights": "Copyrights \u00a92026 All rights reserved. Saudi Tourism Authority", "upArrowCta": "Back To Top", "ctaList": [{"ctaLabel": "Principles of secure use", "ctaLink": "/en/principles-secure-use", "isOpenInNewTab": false}, {"ctaLabel": "Terms and Conditions", "ctaLink": "/en/terms-and-conditions", "isOpenInNewTab": false}, {"ctaLabel": "Privacy policy", "ctaLink": "/en/privacy-policy", "isOpenInNewTab": false}, {"ctaLabel": "Freedom of Information Policy", "ctaLink": "/en/freedom-of-information-policy", "isOpenInNewTab": false}, {"ctaLabel": "Sitemap", "ctaLink": "/en/sitemap", "isOpenInNewTab": false}]}, "fragmentLabels": {"modifiedOnLabel": "Updated on"}, "publishedDate": "THURSDAY, 16/07/2026", "lastModifiedDate": "THURSDAY, 16/07/2026", "showPublishedDate": false, "showLastModifiedDate": true, "footerOrnament": "https://www.visitsaudi.com/content/dam/sauditourism/ornaments/previously-static-ornaments/ornament-h-g4-dark-48.svg"}</script>
+        
+        
+        <script id="global-breadcrumbs-props" type="application/json">{"items": [{"title": "Homepage", "link": {"hideMap": false, "url": "/en", "targetInNewWindow": false}}, {"title": "Discover Saudi in One Package", "link": {"hideMap": false, "url": "/en/campaigns/package-visa", "targetInNewWindow": false}}]}</script>
+        
+        
+        
+
+        
+        
+        
+        
+        <div data-component="TutorialWrapper" data-props='{"tutorialOrnament":"https://www.visitsaudi.com/images/tutorial\u002Dpattern\u002D8316.original.png"}'></div>
+        
+        
+        
+        
+        <div data-component="Formbricks" data-props='{"survicateType":"Overall Quality","csatSuppressed":false,"surveyTopOrnament":"https://www.visitsaudi.com/images/survey\u002Dh\u002Dpattern\u002D8313.original.png","surveySideOrnament":"https://www.visitsaudi.com/images/survey\u002Dv\u002Dpattern\u002D8312.original.png"}'></div>
+
+        
+        
+        
+        
+        <div data-component="RetargetBanner" data-props='{"titleTemplate": "Continue exploring {title}", "description": "", "ctaLabel": "Continue", "closeLabel": "Close", "destinations": {"alula": {"title": "AlUla Stayed With You", "description": "Ancient tombs, desert landscapes, and stories carved into every corner of AlUla.", "ctaLabel": "Return to AlUla", "mobileTitle": "AlUla Calls Again", "mobileDescription": "Ancient stories await", "image": "/images/alula-banner-new.2e16d0ba.fill-240x230.jpg"}, "jeddah": {"title": "Jeddah Called You Back", "description": "Red Sea sunsets, Al Balad streets, and a city that always feels alive.", "ctaLabel": "Back to Jeddah", "mobileTitle": "Return to Jeddah", "mobileDescription": "Sea breeze, old streets", "image": "/images/jeddah-banner.2e16d0ba.fill-240x230.jpg"}, "riyadh": {"title": "Riyadh Made an Impression", "description": "Riyadh keeps evolving, from heritage districts to late-night dining and events.", "ctaLabel": "Back to Riyadh", "mobileTitle": "Riyadh Stood Out", "mobileDescription": "Culture meets energy", "image": "/images/riyadh-banner-new.2e16d0ba.fill-240x230.jpg"}, "al-ahsa": {"title": "Al Ahsa Left Its Mark", "description": "Palm groves, hidden caves, and a slower pace make Al Ahsa worth revisiting.", "ctaLabel": "Explore Al Ahsa", "mobileTitle": "Al Ahsa Stood Out", "mobileDescription": "Palms, caves, calm", "image": "/images/new-alahsa-banner.2e16d0ba.fill-240x230.jpg"}, "makkah": {"title": "Makkah Stays With You", "description": "A spiritual journey filled with reflection, meaning, and unforgettable moments.", "ctaLabel": "Continue Journey", "mobileTitle": "Makkah is With You", "mobileDescription": "Beyond place and time", "image": "/images/New-makkah-view-homepage.2e16d0ba.fill-240x230.jpg"}, "eastern-province": {"title": "The East Caught Your Eye", "description": "Coastal escapes, city energy, and culture come together in the Eastern Province.", "ctaLabel": "Explore the East", "mobileTitle": "The East is Waiting", "mobileDescription": "Cities and coastlines", "image": "/images/eastern-province-ramadan-banner.2e16d0ba.fill-240x230.jpg"}, "aseer": {"title": "Continue exploring Aseer", "description": "Mountain Heritage in the South", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/about-abha_hero_banner_desktop-1.2e16d0ba.fill-240x230.jpg"}, "the-red-sea": {"title": "Continue exploring The Red Sea", "description": "Nature’s Beauty Along the Coastline", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/the-red-sea-luxury.2e16d0ba.fill-240x230.jpg"}, "kaec": {"title": "Continue exploring KAEC", "description": "A vibrant place for work and leisure", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/KAEC-banner.2e16d0ba.fill-240x230.jpg"}, "madinah": {"title": "Continue exploring Madinah", "description": "A place of peace and spirituality", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/New-about-madinah_hero_banner_desk-3566.2e16d0ba.fill-240x230.jpg"}, "taif": {"title": "Continue exploring Taif", "description": "Where roses, mountains, and cool breezes meet", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/Taif-banner-new.2e16d0ba.fill-240x230.jpg"}, "diriyah": {"title": "Continue exploring Diriyah", "description": "Where History Meets Authenticity", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/diriyah-banner-new.2e16d0ba.fill-240x230.jpg"}, "tabuk": {"title": "Continue exploring Tabuk", "description": "From beaches to mountains, and innovative cities to ancient castles", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/New-Tabuk_Image-Banner.2e16d0ba.fill-240x230.jpg"}, "yanbu": {"title": "Continue exploring Yanbu", "description": "Saudi’s scuba diving capital", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/yanbu-new-hero-banner.2e16d0ba.fill-240x230.jpg"}, "al-baha": {"title": "Continue exploring Al Baha", "description": "Between tranquil mountains and natural beauty", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/Albaha-banner.2e16d0ba.fill-240x230.jpg"}, "jazan": {"title": "Continue exploring Jazan", "description": "A mix of coastal beauty and historical charm", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/about-jazan_hero_banner_desktop-3.2e16d0ba.fill-240x230.jpg"}, "hail": {"title": "Continue exploring Hail", "description": "The Mountain Heart of Northern Saudi", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/hail-hero-banner.2e16d0ba.fill-240x230.jpg"}, "al-jubail": {"title": "Continue exploring Al Jubail", "description": "A beautiful industrial city on the water", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/New-about-al-jubail_hero_banner_de-1262.2e16d0ba.fill-240x230.jpg"}, "najran": {"title": "Continue exploring Najran", "description": "Home to archaeological treasures", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/New-Najran-Banner-Image.2e16d0ba.fill-240x230.jpg"}, "qassim": {"title": "Continue exploring Qassim", "description": "For food, history, and beauty that has inspired poetry", "ctaLabel": "", "mobileTitle": "", "mobileDescription": "", "image": "/images/palaces-in-qassim.2e16d0ba.fill-240x230.jpg"}}}'></div>
+        
+        
+
+        
+        <header id="main-header">
+            <div data-component="MainMenu" data-props-id="global-nav-props"></div>
+        </header>
+
+        
+        
+        
+        
+
+<div data-component="Breadcrumbs" data-props-id="global-breadcrumbs-props"></div>
+
+
+        
+        
+
+        
+        <main id="main-content" class="!h-auto">
+        
+
+
+
+
+    
+        
+        
+        
+        
+
+
+<div data-component="PromotionalBanner"
+     data-props='{"componentId": "PromotionalBannerWrapperId", "type": "HomeBanner", "height": "large", "showArrows": false, "isNotOnTop": false, "removeBottomMargin": false, "hideImageBrush": "false", "cards": [{"title": "Discover Saudi in One Package", "type": "video", "description": "", "subTitle": "", "tag": "", "replaceTitleWithLogo": false, "isTransparency": false, "location": "", "video": {"videoFileReference": "https://www.visitsaudi.com/content/dam/sauditourism/videos/scth/saudi-arabia-visa-packages.mp4", "autoplay": true, "autorerun": true}, "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}, "showSilentIndicator": true}], "desktopPageBannerOrnament": "https://www.visitsaudi.com/content/dam/sauditourism/ornaments/ornament-page-banner-desktop-h-m2-24.png", "mobilePageBannerOrnament": "https://www.visitsaudi.com/content/dam/sauditourism/ornaments/ornament-page-banner-mobile-h-m1-24.png", "thumbs": {"moreLabel": "more", "gallery": [{"type": "video", "typeLabel": "Video", "location": "", "video": {"videoFileReference": "https://www.visitsaudi.com/content/dam/sauditourism/videos/scth/saudi-arabia-visa-packages.mp4", "autoplay": true, "autorerun": true}, "showSilentIndicator": true}]}}'>
+</div>
+
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="Anchors"
+     data-props='{"componentId": "AnchorsWrapperId", "title": "Jump To", "line": true, "links": [{"number": "02", "scroll": true, "hideMap": false, "url": "travel-packages", "urlWithExtension": "travel-packages", "urlSlingExporter": "travel-packages", "targetInNewWindow": false, "text": "Explore Travel Packages", "appType": "external"}, {"number": "03", "scroll": true, "hideMap": false, "url": "visa-application-guide", "urlWithExtension": "visa-application-guide", "urlSlingExporter": "visa-application-guide", "targetInNewWindow": false, "text": "Visa Application Guide", "appType": "external"}, {"number": "04", "scroll": true, "hideMap": false, "url": "explore-destinations", "urlWithExtension": "explore-destinations", "urlSlingExporter": "explore-destinations", "targetInNewWindow": false, "text": "Explore Destinations", "appType": "external"}, {"number": "04", "scroll": true, "hideMap": false, "url": "faqs", "urlWithExtension": "faqs", "urlSlingExporter": "faqs", "targetInNewWindow": false, "text": "FAQs", "appType": "external"}], "showInResponsive": true, "isStickyOnDesktop": true, "isTopPanel": true, "isInsideComposite": false}'>
+</div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div class="about-section">
+    <div data-component="AboutSection"
+         data-props='{"componentId": "AboutSectionWrapperId", "enableManualAuthoring": false, "aboutTitle": "", "aboutDescription": "\u003Cp\u003EGet your instant tourist eVisa through complete travel packages that include flights, accommodation from our official travel agents. Start planning your trip and discover a range of destinations, from the Red Sea coast and \u003Ca href=\"/en/destinations/riyadh\"\u003ERiyadh\u003C/a\u003E to Qiddiya City and \u003Ca href=\"/en/destinations/alula\"\u003EAlUla\u003C/a\u003E. \u003C/p\u003E\u003Cp\u003EThis service is currently available exclusively to citizens and passport holders of India, Pakistan, Bangladesh, Indonesia, Egypt, Jordan, and Mexico.  \u003C/p\u003E", "hideReadMore": false, "readMoreLabel": "Read More", "readLessLabel": "Read Less", "hideFavorite": true, "hideShare": true, "shareAltLabel": "Share", "updateFavUrl": "/bin/api/v2/user/update.favorites", "deleteFavUrl": "/bin/api/v2/user/delete.favorites", "getFavUrl": "/bin/api/v2/user/get.favorites", "favId": "", "categoriesTags": []}'>
+    </div>
+</div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="TextImageSection" data-props='{"componentId": "travel-packages", "title": "Discover Travel Partners", "whiteBackground": false, "skipMargin": false, "description": "", "position": "left", "image": {"isTransparent": false}, "logo": {"isTransparent": false}, "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}, "link": {"hideMap": false, "targetInNewWindow": false, "appType": "external"}}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="TextImageSection" data-props='{"componentId": "", "title": "Reserval", "whiteBackground": false, "skipMargin": false, "description": "\u003Cp\u003EBuild your trip step-by-step and secure your booking instantly.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EInstant \u0026amp; Seamless:\u003C/b\u003E Get your automated tourist eVisa delivered directly to your inbox.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEasy Step-by-Step Booking:\u003C/b\u003E Simply select your preferred destination, choose your accommodation, and customize your number of nights.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EFast Issuance:\u003C/b\u003E Specify your nationality, complete your secure payment, and receive your visa via email within 24 hours. \u003Cbr/\u003E\u003C/li\u003E\u003C/ul\u003E", "position": "top", "image": {"fileReference": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/reserval-new.jpg", "desktopImage": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/reserval-new.jpg", "mobileImage": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/reserval-new.jpg", "isTransparent": false, "breakpoints": [{"srcset": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/reserval-new.jpg 375w", "media": "(max-width: 768px)"}, {"srcset": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/reserval-new.jpg 660w"}]}, "logo": {"isTransparent": false}, "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}, "link": {"hideMap": false, "url": "https://www.reserval.com/packagevisa", "targetInNewWindow": true, "text": "Visit Partner website", "appType": "external"}}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="TextImageSection" data-props='{"componentId": "", "title": "Almosafer", "whiteBackground": false, "skipMargin": false, "description": "\u003Cp\u003EDesign a personalized travel experience tailored to your plans.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EMulti-Destination Journeys\u003C/b\u003E: Book custom itineraries spanning multiple cities and destinations across Saudi Arabia.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003ESeparate Booking Flexibility\u003C/b\u003E: Select and book your flights and hotels independently.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003ECustomized Itineraries:\u003C/b\u003E Craft your own personalized travel schedule and enrich your trip by adding curated activities and events.\u003C/li\u003E\u003C/ul\u003E", "position": "top", "image": {"fileReference": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/almosafer-new.jpg", "desktopImage": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/almosafer-new.jpg", "mobileImage": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/almosafer-new.jpg", "isTransparent": false, "breakpoints": [{"srcset": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/almosafer-new.jpg 375w", "media": "(max-width: 768px)"}, {"srcset": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/almosafer-new.jpg 660w"}]}, "logo": {"isTransparent": false}, "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}, "link": {"hideMap": false, "url": "http://web-almosafer.onelink.me/RbEc/f1k0bx5v", "targetInNewWindow": true, "text": "Visit Partner website", "appType": "external"}}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="TextImageSection" data-props='{"componentId": "", "title": "webook.com", "whiteBackground": false, "skipMargin": false, "description": "\u003Cp\u003EGet ready for your trip to Saudi with ease.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EFlight and hotel:\u003C/b\u003E Book your flight and hotel to your destination in Saudi in one seamless booking experience.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EInstant tourist visa:\u003C/b\u003E Get your tourist eVisa instantly when you book your flight and hotel through WeBook.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEvents and experiences:\u003C/b\u003E Explore a variety of events, activities, and experiences to make the most of your trip to Saudi.\u003C/li\u003E\u003C/ul\u003E", "position": "top", "image": {"fileReference": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/webook.jpg", "desktopImage": "https://www.visitsaudi.com/images/webook-9332.729b4e16.fill-660x337.jpg", "mobileImage": "https://www.visitsaudi.com/images/webook-9332.729b4e16.fill-375x280.jpg", "alt": "WeBook", "isTransparent": false, "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/webook-9332.729b4e16.fill-375x280.jpg 375w, https://www.visitsaudi.com/images/webook-9332.729b4e16.fill-750x560.jpg 750w", "media": "(max-width: 768px)"}, {"srcset": "https://www.visitsaudi.com/images/webook-9332.729b4e16.fill-660x337.jpg 660w, https://www.visitsaudi.com/images/webook-9332.729b4e16.fill-1320x674.jpg 1320w"}]}, "logo": {"isTransparent": false}, "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}, "link": {"hideMap": false, "url": "https://webook.com/en/e-visa", "targetInNewWindow": false, "text": "Visit Partner website", "appType": "external"}}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="TextImageSection" data-props='{"componentId": "", "title": "Almatar", "whiteBackground": false, "skipMargin": false, "description": "\u003Cp\u003EExplore Saudi with options for travel, stays, and getting around.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EDiverse travel options:\u003C/b\u003E Choose from a wide range of hotels and flights to suit your travel plans.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003ESeamless booking:\u003C/b\u003E Select your destination and travel dates, choose the flights and hotels that suit you, and complete your booking with ease.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EAn all-in-one experience:\u003C/b\u003E Book your stay and flights and rent a car in one place and get ready for your trip to Saudi.\u003C/li\u003E\u003C/ul\u003E", "position": "top", "image": {"fileReference": "https://www.visitsaudi.com/content/dam/wvs/campaigns/visa-packages/almatar-new.jpg", "desktopImage": "https://www.visitsaudi.com/images/almatar-new.dc702a26.fill-660x337.jpg", "mobileImage": "https://www.visitsaudi.com/images/almatar-new.dc702a26.fill-375x280.jpg", "alt": "Almatar", "isTransparent": false, "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/almatar-new.dc702a26.fill-375x280.jpg 375w, https://www.visitsaudi.com/images/almatar-new.dc702a26.fill-750x560.jpg 750w", "media": "(max-width: 768px)"}, {"srcset": "https://www.visitsaudi.com/images/almatar-new.dc702a26.fill-660x337.jpg 660w, https://www.visitsaudi.com/images/almatar-new.dc702a26.fill-1320x674.jpg 1320w"}]}, "logo": {"isTransparent": false}, "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}, "link": {"hideMap": false, "url": "https://almatar.com/en/?visaType=tourist-visa", "targetInNewWindow": true, "text": "Visit Partner website", "appType": "external"}}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="Cards" data-props='{"componentId": "visa-application-guide", "type": "DestinationGuideCards", "title": "Visa Application Guide", "subTitle": "\u003Cp\u003EStart your journey to Saudi with a simple booking experience. From choosing your package and uploading documents to receiving your visa, every step is designed to make planning your trip easier.\u003C/p\u003E", "haveBackgroundImage": false, "background": {"breakpoints": [], "isTransparent": false}, "link": {"hideMap": false, "targetInNewWindow": false, "appType": "external"}, "cards": [{"title": "Choose Your Package", "type": "text", "description": "\u003Cp\u003ESelect a ready-made package or customize your trip based on your preferences. \u003C/p\u003E", "link": {"hideMap": false, "targetInNewWindow": false, "appType": "external"}, "logo": {"fileReference": "https://www.visitsaudi.com/original_images/Packages-4.png", "mobileImageReference": "https://www.visitsaudi.com/original_images/Packages-4.png", "alt": "Choose Your Package", "s7fileReference": "https://www.visitsaudi.com/original_images/Packages-4.png", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/Packages-4.png", "desktopImage": "https://www.visitsaudi.com/original_images/Packages-4.png", "mobileImage": "https://www.visitsaudi.com/original_images/Packages-4.png", "breakpoints": [], "isTransparent": true}}, {"title": "Upload Documents", "type": "text", "description": "\u003Cp\u003EUpload your passport details and personal photo quickly and easily. \u003C/p\u003E", "link": {"hideMap": false, "targetInNewWindow": true, "appType": "external"}, "logo": {"fileReference": "https://www.visitsaudi.com/original_images/document.png", "mobileImageReference": "https://www.visitsaudi.com/original_images/document.png", "alt": "Upload Documents", "s7fileReference": "https://www.visitsaudi.com/original_images/document.png", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/document.png", "desktopImage": "https://www.visitsaudi.com/original_images/document.png", "mobileImage": "https://www.visitsaudi.com/original_images/document.png", "breakpoints": [], "isTransparent": true}}, {"title": "Complete Payment", "type": "text", "description": "\u003Cp\u003ESecure your booking through a simple and seamless payment process. \u003C/p\u003E", "link": {"hideMap": false, "targetInNewWindow": true, "appType": "external"}, "logo": {"fileReference": "https://www.visitsaudi.com/original_images/visa-1.png", "mobileImageReference": "https://www.visitsaudi.com/original_images/visa-1.png", "alt": "Complete Payment", "s7fileReference": "https://www.visitsaudi.com/original_images/visa-1.png", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/visa-1.png", "desktopImage": "https://www.visitsaudi.com/original_images/visa-1.png", "mobileImage": "https://www.visitsaudi.com/original_images/visa-1.png", "breakpoints": [], "isTransparent": true}}, {"title": "Verification", "type": "text", "description": "\u003Cp\u003EYour eligibility and submitted information will be reviewed automatically. \u003C/p\u003E", "link": {"hideMap": false, "targetInNewWindow": false, "appType": "external"}, "logo": {"fileReference": "https://www.visitsaudi.com/original_images/icon-verification.png", "mobileImageReference": "https://www.visitsaudi.com/original_images/icon-verification.png", "alt": "Verification", "s7fileReference": "https://www.visitsaudi.com/original_images/icon-verification.png", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/icon-verification.png", "desktopImage": "https://www.visitsaudi.com/original_images/icon-verification.png", "mobileImage": "https://www.visitsaudi.com/original_images/icon-verification.png", "breakpoints": [], "isTransparent": true}}, {"title": "Explore Saudi", "type": "text", "description": "\u003Cp\u003EReceive your instant eVisa and get ready to discover Saudi. \u003Cbr/\u003E\u003C/p\u003E", "link": {"hideMap": false, "targetInNewWindow": false, "appType": "external"}, "logo": {"fileReference": "https://www.visitsaudi.com/original_images/map-2.png", "mobileImageReference": "https://www.visitsaudi.com/original_images/map-2.png", "alt": "Explore Saudi", "s7fileReference": "https://www.visitsaudi.com/original_images/map-2.png", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/map-2.png", "desktopImage": "https://www.visitsaudi.com/original_images/map-2.png", "mobileImage": "https://www.visitsaudi.com/original_images/map-2.png", "breakpoints": [], "isTransparent": true}}], "weatherItems": [{"itemTitle": "", "subTitle": "", "weatherTitle": "", "lowTemp": null, "highTemp": null, "lowTempIcon": "", "highTempIcon": ""}]}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="OffersAndDeals" data-props='{"componentId": "explore-destinations", "title": "Explore Destinations", "type": "offer", "isWithOrnament": false, "removePadding": false, "link": {"hideMap": false, "url": "", "urlWithExtension": "", "urlSlingExporter": "", "text": "", "targetInNewWindow": false, "appType": "external"}, "cards": [{"title": "Riyadh", "description": "Discover Riyadh through cultural experiences, entertainment, and a city atmosphere that blends tradition with modern life.", "title2": null, "description2": null, "image": {"fileReference": "https://www.visitsaudi.com/original_images/riyadh-13.jpg", "mobileImageReference": "https://www.visitsaudi.com/original_images/riyadh-13.jpg", "alt": "Family enjoying Riyadh’s lively atmosphere and illuminated digital screens at night", "s7fileReference": "https://www.visitsaudi.com/original_images/riyadh-13.jpg", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/riyadh-13.jpg", "desktopImage": "https://www.visitsaudi.com/images/riyadh-13.2e16d0ba.fill-600x600.jpg", "mobileImage": "https://www.visitsaudi.com/images/riyadh-13.2e16d0ba.fill-600x600.jpg", "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/riyadh-13.2e16d0ba.fill-600x600.jpg 600w", "sizes": "(max-width: 767px) 180px, (max-width: 1023px) 17vw, 20vw"}], "isTransparent": false}, "link": {"hideMap": false, "url": "/en/destinations/riyadh", "urlWithExtension": "/en/destinations/riyadh", "urlSlingExporter": "/en/destinations/riyadh", "targetInNewWindow": false, "appType": "internal"}, "cta": {"hideMap": false, "text": "Discover More", "url": "/en/destinations/riyadh", "targetInNewWindow": false, "appType": "internal"}, "cardCtaData": {"ctaEventName": null, "pageCategory": null, "pageSubCategory": null, "sectionName": null}}, {"title": "Jeddah", "description": "Explore Jeddah’s historic heritage, waterfront experiences, and coastal atmosphere.", "title2": null, "description2": null, "image": {"fileReference": "https://www.visitsaudi.com/original_images/jeddah-16.jpg", "mobileImageReference": "https://www.visitsaudi.com/original_images/jeddah-16.jpg", "alt": "Visitors enjoying Jeddah’s blend of heritage and modern surroundings", "s7fileReference": "https://www.visitsaudi.com/original_images/jeddah-16.jpg", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/jeddah-16.jpg", "desktopImage": "https://www.visitsaudi.com/images/jeddah-16.2e16d0ba.fill-600x600.jpg", "mobileImage": "https://www.visitsaudi.com/images/jeddah-16.2e16d0ba.fill-600x600.jpg", "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/jeddah-16.2e16d0ba.fill-600x600.jpg 600w", "sizes": "(max-width: 767px) 180px, (max-width: 1023px) 17vw, 20vw"}], "isTransparent": false}, "link": {"hideMap": false, "url": "/en/destinations/jeddah", "urlWithExtension": "/en/destinations/jeddah", "urlSlingExporter": "/en/destinations/jeddah", "targetInNewWindow": false, "appType": "internal"}, "cta": {"hideMap": false, "text": "Discover More", "url": "/en/destinations/jeddah", "targetInNewWindow": true, "appType": "internal"}, "cardCtaData": {"ctaEventName": null, "pageCategory": null, "pageSubCategory": null, "sectionName": null}}, {"title": "AlUla", "description": "Experience cultural landmarks, heritage sites, and remarkable natural landscapes.", "title2": null, "description2": null, "image": {"fileReference": "https://www.visitsaudi.com/original_images/alula-12.jpg", "mobileImageReference": "https://www.visitsaudi.com/original_images/alula-12.jpg", "alt": "Family exploring AlUla’s historic landmarks and rock formations", "s7fileReference": "https://www.visitsaudi.com/original_images/alula-12.jpg", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/alula-12.jpg", "desktopImage": "https://www.visitsaudi.com/images/alula-12.2e16d0ba.fill-600x600.jpg", "mobileImage": "https://www.visitsaudi.com/images/alula-12.2e16d0ba.fill-600x600.jpg", "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/alula-12.2e16d0ba.fill-600x600.jpg 600w", "sizes": "(max-width: 767px) 180px, (max-width: 1023px) 17vw, 20vw"}], "isTransparent": false}, "link": {"hideMap": false, "url": "/en/destinations/alula", "urlWithExtension": "/en/destinations/alula", "urlSlingExporter": "/en/destinations/alula", "targetInNewWindow": false, "appType": "internal"}, "cta": {"hideMap": false, "text": "Discover More", "url": "/en/destinations/alula", "targetInNewWindow": false, "appType": "internal"}, "cardCtaData": {"ctaEventName": null, "pageCategory": null, "pageSubCategory": null, "sectionName": null}}, {"title": "The Red Sea", "description": "Discover beautiful islands, luxury resorts, and experiences along the Red Sea coast.", "title2": null, "description2": null, "image": {"fileReference": "https://www.visitsaudi.com/original_images/the-red-sea-12.webp", "mobileImageReference": "https://www.visitsaudi.com/original_images/the-red-sea-12.webp", "alt": "Visitors enjoying a luxury stay and scenic views in the Red Sea", "s7fileReference": "https://www.visitsaudi.com/original_images/the-red-sea-12.webp", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/the-red-sea-12.webp", "desktopImage": "https://www.visitsaudi.com/images/the-red-sea-12.2e16d0ba.fill-600x600.png", "mobileImage": "https://www.visitsaudi.com/images/the-red-sea-12.2e16d0ba.fill-600x600.png", "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/the-red-sea-12.2e16d0ba.fill-600x600.png 600w", "sizes": "(max-width: 767px) 180px, (max-width: 1023px) 17vw, 20vw"}], "isTransparent": false}, "link": {"hideMap": false, "url": "/en/destinations/the-red-sea", "urlWithExtension": "/en/destinations/the-red-sea", "urlSlingExporter": "/en/destinations/the-red-sea", "targetInNewWindow": false, "appType": "internal"}, "cta": {"hideMap": false, "text": "Discover More", "url": "/en/destinations/the-red-sea", "targetInNewWindow": false, "appType": "internal"}, "cardCtaData": {"ctaEventName": null, "pageCategory": null, "pageSubCategory": null, "sectionName": null}}, {"title": "Diriyah", "description": "Discover At-Turaif, a UNESCO World Heritage Site, and experience Diriyah’s rich heritage atmosphere.", "title2": null, "description2": null, "image": {"fileReference": "https://www.visitsaudi.com/original_images/diriyah-10.jpg", "mobileImageReference": "https://www.visitsaudi.com/original_images/diriyah-10.jpg", "alt": "Family exploring Diriyah’s heritage and historic landmarks", "s7fileReference": "https://www.visitsaudi.com/original_images/diriyah-10.jpg", "s7mobileImageReference": "https://www.visitsaudi.com/original_images/diriyah-10.jpg", "desktopImage": "https://www.visitsaudi.com/images/diriyah-10.2e16d0ba.fill-600x600.jpg", "mobileImage": "https://www.visitsaudi.com/images/diriyah-10.2e16d0ba.fill-600x600.jpg", "breakpoints": [{"srcset": "https://www.visitsaudi.com/images/diriyah-10.2e16d0ba.fill-600x600.jpg 600w", "sizes": "(max-width: 767px) 180px, (max-width: 1023px) 17vw, 20vw"}], "isTransparent": false}, "link": {"hideMap": false, "url": "/en/destinations/diriyah", "urlWithExtension": "/en/destinations/diriyah", "urlSlingExporter": "/en/destinations/diriyah", "targetInNewWindow": false, "appType": "internal"}, "cta": {"hideMap": false, "text": "Discover More", "url": "/en/destinations/diriyah", "targetInNewWindow": true, "appType": "internal"}, "cardCtaData": {"ctaEventName": null, "pageCategory": null, "pageSubCategory": null, "sectionName": null}}], "ctaData": {"ctaEventName": "", "pageCategory": "", "pageSubCategory": "", "sectionName": ""}}'></div>
+
+        
+        
+    
+
+    
+        
+        
+        
+        
+<div data-component="InformationSection" data-props='{"title": "FAQs", "description": "", "bgColor": "teal", "requiresLogin": false, "componentId": "faqs", "hideReadMore": false, "readMoreLabel": "Read More", "readLessLabel": "Read Less", "data": [{"question": "What is the Package Visa?", "answer": "\u003Cp data-block-key=\"3boi7\"\u003EThis service allows citizens and passport holders of India, Pakistan, Bangladesh, Indonesia, Egypt, Jordan, and Mexico to obtain an instant electronic tourist visa (eVisa) to visit the Kingdom of Saudi Arabia upon purchasing a complete travel package that includes confirmed accommodation and flight bookings from a travel service provider approved by the Ministry of Tourism. \u003C/p\u003E"}, {"question": "Who is eligible for this service?", "answer": "\u003Cp data-block-key=\"us64i\"\u003Ecitizens and passport holders of India, Pakistan, Bangladesh, Indonesia, Egypt, Jordan, and Mexico are eligible to benefit from this service when purchasing an integrated tourism package through a travel and tourism service provider approved by the Ministry of Tourism. \u003C/p\u003E"}, {"question": "What is the difference between this service and a standard visa?", "answer": "\u003Cp data-block-key=\"h3lb9\"\u003EThe visa is issued electronically and instantly upon completing the purchase of the tourism package, without the need to visit an embassy or submit a separate application.\u003C/p\u003E"}, {"question": "What are the minimum requirements for the tourism package?", "answer": "\u003Cp data-block-key=\"hpihs\"\u003EAt a minimum, the package must include confirmed accommodation at a Ministry-licensed hotel with a rating of no less than 4 stars, a confirmed round-trip flight booking, and the visa application. The package value must be a minimum of ⃁ 4,000 per adult for the first two days combined, with an additional ⃁ 1,000 for each consecutive day thereafter.\u003Cbr/\u003E\u003C/p\u003E"}, {"question": "What are the minimum and maximum duration limits for the package?", "answer": "\u003Cul\u003E\u003Cli data-block-key=\"95363\"\u003EThe minimum duration for a package is two days.\u003Cbr/\u003E\u003C/li\u003E\u003Cli data-block-key=\"e0wfc\"\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp data-block-key=\"kojxx\"\u003EThe maximum duration for a package is 88 days.\u003C/p\u003E\u003Cul\u003E\u003Cli data-block-key=\"jw7ua\"\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp data-block-key=\"8avpe\"\u003EThe accommodation stay within the tourism package must match the flight itinerary fully, covering the duration between the arrival and departure dates specified in the flight booking.\u003C/p\u003E"}, {"question": "What is the minimum booking window prior to travel?", "answer": "\u003Cp data-block-key=\"7kno2\"\u003EThe period between the purchase completion date and the trip departure date must not be less than \u003Cb\u003E48 hours\u003C/b\u003E.\u003C/p\u003E"}, {"question": "Can dependent minors be added to the package?", "answer": "\u003Cp data-block-key=\"ooyoj\"\u003EYes, dependent under the age of 18 (minors) may be added to the package. up to a maximum of five (5) minors per package. Minors are exempt from the minimum package value requirment of ⃁ 4,000.\u003C/p\u003E"}, {"question": "Can additional services be included in the package?", "answer": "\u003Cp data-block-key=\"io91b\"\u003EYes, additional services and activities such as event tickets and other leisure excursions may be integrated into the package in addition to the mandatory core services. \u003C/p\u003E"}, {"question": "What is the processing time for visa issuance?", "answer": "\u003Cp data-block-key=\"jpc72\"\u003EThe visa is issued electronically upon the completion of the tourism package purchase and subsequent data verification. Processing is finalized within a maximum of (48) hours from the time of purchase completion. \u003C/p\u003E"}, {"question": "What is the validity period of the visa?", "answer": "\u003Cp data-block-key=\"2qk9k\"\u003EThe visa is valid for a duration of three (3) months from the scheduled departure date. This is a single-entry visa.\u003C/p\u003E"}, {"question": "Can the package be cancelled once the visa has been issued?", "answer": "\u003Cp data-block-key=\"grghk\"\u003EThe package cannot be canceled independently once the visa is issued. If a package is cancelled, the associated visa will be revoked automatically. \u003C/p\u003E"}, {"question": "Can the visa information be changed after issuance?", "answer": "\u003Cp data-block-key=\"yq7he\"\u003EModifications to visa data are strictly prohibited post-issuance. Applicants are urged to thoroughly verify the accuracy of all information prior to finalizing the purchase transaction. \u003C/p\u003E"}, {"question": "What is the total visa fee?", "answer": "\u003Cp data-block-key=\"r53w8\"\u003EThe total visa fee is ⃁ 402.21, including the visa issuance fee and mandatory health insurance.\u003C/p\u003E"}, {"question": "What is the refund policy if a visa application is declined?", "answer": "\u003Cp data-block-key=\"sz1nl\"\u003EShould the visa application be rejected, the authorized travel and tourism service provider is required to refund the value of the refundable services included in the tourism package. This refund does not include visa issuance service fees and health insurance policy premiums. \u003C/p\u003E"}, {"question": "Can I perform Umrah with this travel package?", "answer": "\u003Cp data-block-key=\"310at\"\u003EThese packages do not include any services or activities offered in the holy cities of Makkah or Madinah. However, they include a tourist visa that permits entry into Saudi. Once in Saudi, visa holders may travel to any city, including Makkah and Madinah.\u003C/p\u003E"}, {"question": "How can I contact support if I encounter an issue?", "answer": "\u003Cp data-block-key=\"jddbn\"\u003EPlease contact the authorized travel and tourism service provider from whom you purchased the package. If your issue remains unresolved, you may contact the Unified Tourism Contact Center by calling 930.\u003C/p\u003E"}, {"question": "What information should the travel provider give me when I purchase the package?", "answer": "\u003Cp data-block-key=\"8381t\"\u003EThe service provider is required to provide all details of the tourism package and notify you of the e-visa issued under your name.\u003C/p\u003E"}, {"question": "Can I change my travel dates after the visa has been issued?", "answer": "\u003Cp data-block-key=\"bicru\"\u003EYes. The flight and accommodation bookings within your tourism package can be changed. However, any changes must be made strictly through the authorized travel and tourism service provider from whom you purchased the package.\u003C/p\u003E"}, {"question": "What happens in the event of force majeure?", "answer": "\u003Cp data-block-key=\"f9jjr\"\u003EIf any services included in the package are canceled by airlines or tourism accommodation providers due to force majeure, the refund and modification policies approved by the authorized travel and tourism service provider shall apply, in accordance with the applicable laws and regulations of Saudi Arabia.\u003C/p\u003E"}], "link": {"title": "", "url": "", "targetInNewWindow": false}}'></div>
+
+        
+        
+    
+
+
+
+        </main>
+
+        
+        
+        
+        
+        
+
+        
+        <footer id="main-footer">
+            <div data-component="Footer" data-props-id="global-footer-props"></div>
+        </footer>
+
+        
+        <script src="/static/frontend/js/576-31834ffe.js" nonce="JGD7Vsou0alMnJrRJNc9QQ"></script>
+<script src="/static/frontend/js/site-53027715-6e49efc9.js" nonce="JGD7Vsou0alMnJrRJNc9QQ"></script>
+<script src="/static/frontend/js/site-205b23bb-927fdb08.js" nonce="JGD7Vsou0alMnJrRJNc9QQ"></script>
+        
+        
+        
+
+        
+        <div data-component="GrowthBookProvider" data-props='{"exposures": [], "visitorId": null, "site": "www.visitsaudi.com", "config": {"apiHost": "https://target.visitsaudi.com/gb-api", "clientKey": "sdk-DhvDzaeGdMo2k1b"}}'></div>
+
+        
+        
+    </body>
+</html>

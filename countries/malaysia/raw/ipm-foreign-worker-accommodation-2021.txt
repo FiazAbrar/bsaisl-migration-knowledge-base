@@ -1,0 +1,136 @@
+REQUIREMENTS FOR FOREIGN WORKER'S ACCOMMODATION
+Author: Ir. Dr. Justin LAI Woon Fatt | 29 December, 2020
+
+
+INTRODUCTION
+
+In recent news, well-known factories have been fined RM50, 000 on each foreign worker due to
+overcrowded dormitories and unqualified requirements. This has sparked awareness among the
+industries and employers to review their workers' accommodation, to ensure it complies with the
+regulations.
+
+For all workers' accommodations built to comply with the regulations, industries must submit their
+workers' accommodations design to the local authority. Some local authorities may even request
+for the submission of the Temporary Development Order due to the integration of the residential
+elements in the industrial land. The approval of the local authority for workers' accommodations is
+a part of the requirement of Jabatan Tenaga Kerja (JTK) to acquire the Accommodation Certificate.
+
+If the workers are staying at a permanent building, the prerequisites to get the Accommodation
+Certificate is to have a Certificate of Completion and Compliance (CCC) for the building. Since
+most workers' quarters are cabin or modular type of accommodations, it would have been classified
+as a temporary building. Therefore, the prerequisite is to have a Temporary Building Permit before
+getting the Accommodation Certificate [1]. A Temporary Building Permit issued by the local authority
+is intended to allow temporary buildings to exist only for a period of time. The permit duration will
+be dependent on the condition imposed by the local authority. For this Temporary Building Permit,
+only the relevant local departments such as the Local Authority Building Department and Local
+Authority Engineering Department will be involved, while external departments such as Firefighting
+Department from each state (Jabatan Bomba dan Penyelamat Negeri) may get involved if
+necessary [2].
+
+REGULATION GUIDELINES
+
+What are the other elements required from the regulations provided by the guidelines?
+
+                                     GUIDELINES
+ Employees’ Minimum Standards of Housing,  Guidelines for Setting the Minimum Standards
+ Accommodations and Amenities              for the Accommodation of Foreign Workers
+ (Accommodation and Centralized            2018 [3]
+                                 [1]
+ Accommodation) Regulations 2020
+
+         Separate accommodations for the                     Separate accommodations for the
+          employees of the opposite sex shall be               employees of the opposite sex shall be
+          provided.                                            provided.
+         Sleeping area with floor area not less              The area of enclosed space for a
+          than 3m2 per employee shall be                       worker should be 4.5m2; or the
+          provided.                                            sleeping area shall not less than 3m2.
+         Shared spaces consist of rest area,                 One toilet and one bathroom shall be
+          kitchen, living room, and 1 bathroom                 provided for every 15 workers; or one
+          and toilet (whether separated or                     toilet and one separate bathroom with
+          together) per 15 employees.                          a urinal should be provided for every
+         Sufficient first aid kits and fire                   25 workers.
+          extinguishers must be installed.                    Living spaces such as kitchen,
+         Provide gas stove, dustbin, clean                    bathroom, toilet, and other commonly
+          water supply & electricity supply.                   used areas shall remain to use as their
+         Fan for each rest area, dining area and              original purpose and shall not be
+          sleeping area.                                       changed.
+         Lamp for each rest area, dining area,                    Have adequate ventilation and natural
+          sleeping area, kitchen area, bathroom                     light according to By-Law 39, Uniform
+          and toilet.                                               Building By-Laws 1984.
+         One area to hang out clothes.                            Sufficient first aid kits and fire
+                                                                    extinguishers must be installed.
+                                                                   Provide gas stove, dustbin, clean
+                                                                    water supply & electricity supply.
+                                                                   Provide bed, mattress, pillow, and
+                                                                    wardrobe.
+
+
+**Take note that the above-listed requirements do not cover everything from the guidelines. It covers some parts
+of the planning and design for the submission of the dormitory's Temporary Building Permit.
+
+
+
+                               AN EXAMPLE OF A SUITABLE LAYOUT
+
+
+
+
+                                          Figure 1. Example of Floor Plan
+
+
+As shown in Figure 1, the example floor plan has 4 workers quarters, where each of them has an
+area of 21 square meters. The suitable number of workers that can stay in one room is calculated
+as follows:
+
+
+                                                     𝑎𝑟𝑒𝑎 𝑜𝑓 𝑟𝑜𝑜𝑚
+          𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑤𝑜𝑟𝑘𝑒𝑟𝑠 𝑠𝑡𝑎𝑦𝑖𝑛𝑔 𝑖𝑛 𝑜𝑛𝑒 𝑟𝑜𝑜𝑚 =                 (𝑓𝑜𝑟 𝑑𝑜𝑟𝑚𝑖𝑡𝑜𝑟𝑖𝑒𝑠)[1]
+                                                           3
+                                                                   21
+                          𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑤𝑜𝑟𝑘𝑒𝑟𝑠 𝑠𝑡𝑎𝑦𝑖𝑛𝑔 𝑖𝑛 𝑜𝑛𝑒 𝑟𝑜𝑜𝑚 =
+                                                                    3
+                       𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑤𝑜𝑟𝑘𝑒𝑟𝑠 𝑠𝑡𝑎𝑦𝑖𝑛𝑔 𝑖𝑛 𝑜𝑛𝑒 𝑟𝑜𝑜𝑚 = 7 (𝑤𝑜𝑟𝑘𝑒𝑟𝑠)
+
+
+
+Since there are 4 workers quarters, the total number of workers staying under one roof would be
+7 4 which is 28 workers.
+
+In Figure 1, two toilets have been provided, where the toilets shown here have integrated bathroom
+facilities as well. Following Act 446 [1], every 15 workers should have been provided with 1 toilet,
+therefore there will be a maximum of 30 workers for the usage of the 2 toilets, which is sufficient
+for the 28 workers estimated.
+The kitchen and dining area have been provided as well, while the garbage disposal area is located
+outside of the building, which is not shown in Figure 1. Finally, first aid kits and fire extinguishers
+should be installed near the exits and other locations to cover the whole building.
+
+Important notes of workers’ accommodation:
+  i. All facilities and space shall be used for the original intended purpose only, and it cannot be
+     modified [3].
+ ii. Any changes related to the occupancy capacity will need to obtain new approval from local
+     authorities [3].
+
+CONCLUSION
+
+These requirements are vital to ensure the well-being of the foreign workers staying in these
+accommodations as well. Hence, to ensure well-designed workers' accommodations that comply
+with the regulations, employers should seek professional advice from qualified architects and
+engineers to avoid unnecessary fines.
+
+
+Ir. Dr. Justin LAI Woon Fatt
+CEO/ Founder
+IPM Group
+
+
+References:
+[1] Employees’ Minimum Standards of Housing, Accommodations and Amenities (Accommodation and Centralized
+Accommodation)           Regulations       2020).        Retrieved      on        15th       December          2020   from
+http://jtksm.mohr.gov.my/images/akta446/9_Penginapanberpusat.pdf
+                                                                                                            th
+[2] Ir. Dr. Justin LAI Woon Fatt (2020, May 09). Building Plan vs Temporary Building Permit. Retrieved on 17 December 2020
+from https://ipm.my/building-plan-vs-temporary-building-permit/
+[3] Garis Panduan Penetapan Standard Minimum Penginapan Pekerja Asing 2018. Retrieved on 17th December 2020 from
+http://jtksm.mohr.gov.my/images/pdf/Garis_Panduan/garis_panduan_penetapan_standard_minimum_penginapan_pekerja_asi
+ng_2018.pdf
+

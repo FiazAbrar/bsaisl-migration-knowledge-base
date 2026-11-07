@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SRS </title>
+	<!-- Bootstrap core CSS -->
+<link href="https://www.bangladeshembassy.org.sa/srspub/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap theme -->
+<link href="https://www.bangladeshembassy.org.sa/srspub/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+<script src="https://www.bangladeshembassy.org.sa/srspub/bootstrap/js/jquery-3.1.0.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://www.bangladeshembassy.org.sa/srspub/bootstrap/js/bootstrap.min.js"></script>
+<!-- End -->
+<!--Date Picker-->
+<link type="text/css" href="https://www.bangladeshembassy.org.sa/srspub/jd/css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="stylesheet" />	
+<script type="text/javascript" src="https://www.bangladeshembassy.org.sa/srspub/jd/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="https://www.bangladeshembassy.org.sa/srspub/jd/js/jquery-ui-1.8.18.custom.min.js"></script>
+<!--End-->
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub/js/printInv2.js"></script>
+
+
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub/js/updateRec5.js"></script>
+<link href="https://www.bangladeshembassy.org.sa/srspub/css/admin.css" media="all" rel="stylesheet" type="text/css" />
+
+<!--End-->
+	
+	<style type="text/css">
+    form{
+        margin: 5px 0;
+    }
+    form input, button{
+        padding: 0px;
+    }
+    table #hdTb{
+        width: 60%;
+        margin-bottom: 0px;
+		border-collapse: collapse;
+    }
+    table #hdTb, th, td{
+        border: 0px solid #cdcdcd;
+    }
+    table #hdTb th, table td{
+        padding: 0px;
+        text-align: left;
+    }
+	 .thHd{
+	  padding-left: 5px;
+	  vertical-align:top;
+	 }
+	 .thHd2{
+	  padding-left: 5px;
+	  vertical-align:top;
+	 }
+ 
+ #dmRow tr:nth-child(even){background-color: #f2f2f2}
+ 
+ .btnDel {background-color: #CD413D;border-radius: 4px; border-color:#CD413D; color:#FFFFFF;} /* Red */ 
+ 
+ 
+ .inputClass
+  {
+  	background-color:#a2a0a5;
+  	height:2.5em;
+  	
+  
+  }
+ 
+</style>
+
+<!-- Sweet Alert-->
+
+
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//swalert/sweetalert.min.js"></script>
+
+
+<!--Auto Complte Other Items -->
+
+  
+  <script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//codeLib/jquery-ui.css"></script>
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//codeLib/jquery-1.12.4.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//codeLib/jquery-ui.js"></script>
+  
+  
+<!--End Auto Complte Other Items -->
+<script>
+  $( function() {
+  $( "#rcvDate" ).datepicker();
+    $( "#tntDate" ).datepicker();
+  } );
+  </script>
+</head>
+
+<body style="background-color:#D5D1C5">
+
+
+<form name="form1" id="form1" action="https://www.bangladeshembassy.org.sa/srs/index.php/newrecord/do_upload_Edit" method="post"  enctype="multipart/form-data" >
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#D5D1C5;" >
+  <tr>
+  
+  	<td width="10%" >&nbsp;</td>
+	<td width="80%" style="padding-top:5px;">
+	
+<table width="100%" border="0" cellspacing="0" cellpadding="0"   align="center" >
+ 
+ 
+   <tr class="appnm" style="background-color:rgb(142,88,60); font-size:35px;" >
+    <td align="left" width="100px" >
+      </td>
+	<td  colspan="2" style=" text-align:center" align="center">
+  Online Service Request System
+ 
+  </td>
+  </tr>
+      <tr   class="appnmHd" >
+    <td colspan="3" style="background-color:blue; text-align:center" align="center"> &nbsp; </td>
+  </tr>
+  
+  
+ 
+  
+  <tr bgcolor="#353128">
+  	<td colspan="3">
+    	<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+     <!--  <div class="navbar-header">
+      <a class="navbar-brand" href="#">Home</a>
+    </div> -->
+	
+	
+ <!-- <ul class="nav navbar-nav">
+		<li class="active"><a href="https://www.bangladeshembassy.org.sa/srspub/index.php/main/viewrecord/">Search</a></li>
+	
+     
+          
+    </ul>
+   <ul class="nav navbar-nav navbar-right">
+      <li><a href="#"><span class="glyphicon glyphicon-user"></span> </a></li>
+		<li><a href="#">07-11-2026</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Logout</a></li>
+    </ul> -->
+  </div>
+</nav>
+	
+	</td> </tr>
+ 
+  <tr bgcolor="#f5f5ff">
+    <!-- Left Menu-->
+	<td style="vertical-align:top" colspan="3" >
+
+<div class="container" >
+
+<input type="hidden" name="loginUserId"  id="loginUserId" value=""  readonly class="txtInptDt"/>
+<input type="hidden" id="loginUserLabel" name="loginUserLabel" value=""  readonly class="txtInptDt"/>
+  
+<input type="hidden" id="updtFld" name="updtFld" value=""  readonly class="txtInptDt"  />
+
+<br/>
+<table border="0"  width="60%"  cellpadding="10" cellspacing="10"> 
+<tr>
+	<td style="padding-left:5px;"><label >Search By</label> </td>
+    <td><div class="col-sm-10">
+								<select id="slSrchBy" name="slSrchBy" class="form-control">
+									<option value="">--Select One--</option><option value="InvNo">Reference Number</option><option value="IdNo">Iqama Number</option><option value="byMob">Mobile No</option>               
+								
+								</select>
+							</div></td>
+						
+						<td style="padding-left:5px;"> <div class="col-sm-10">
+		<input class="form-control" id="txtSrchValue" name="txtSrchValue"  type="text" value="" maxlength="10"  >
+							</div></td>
+	<td>&nbsp;
+	
+	</td>
+   
+</tr>
+
+<tr>
+    <td style="padding-bottom:5px;" colspan="2">&nbsp;
+	
+	</td>
+	<td>&nbsp; </td>
+    <td align="right" style="padding-right:5px;padding-left:5px; padding-top:10px;"> <input type="button" tabindex="11" class="add-row btn btn-primary" value="Search" id="srchBtn" > </td>
+</tr>
+
+<tr style="padding-top:0px">
+			
+<td colspan="3" align="center"><div id="rsltContent"  style="visibility:hidden"><img src="https://www.bangladeshembassy.org.sa/srspub/images/LoadingBar.gif"  align="left"/></div></td>
+					  </tr>
+</table>
+
+<div id="txtHint202" > </div>
+
+<div id="txtHint203" > </div>
+
+
+</div>	
+
+
+</td> </tr> </table>
+
+	
+</td>
+	<td width="10%">&nbsp;</td>
+</tr></table>
+
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//swalert/sweetalert.min.js"></script>
+</body>
+</html>

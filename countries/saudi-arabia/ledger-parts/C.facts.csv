@@ -1,0 +1,12 @@
+visa_type,field,value,ledger_id
+Work visa: company worker,hours,"8 a day, 48 a week",C0001
+Work visa: company worker,overtime,actual hourly wage + 50% of basic hourly wage,C0005
+Work visa: company worker,annual-leave,21 days; 30 after 5 years,C0007
+Work visa: company worker,sick-leave,"30 days full, 60 days 3/4, 30 days unpaid",C0011
+Work visa: company worker,probation,up to 180 days,C0017
+Work visa: company worker,end-of-service,"half month/year first 5 yrs, 1 month/year after",C0031
+Work visa: company worker,complaint-deadline,12 months,C0035
+Work visa: company worker,transfer-fee-worker,free,C0051
+Work visa: company worker,transfer-during-contract,"after 12 months, 90 days notice",C0053
+Work visa: company worker,wage-insurance-cap,"SR 17,500 + ticket up to SR 1,000",C0074
+Work visa: company worker,midday-ban,"12-3 pm, 15 Jun-15 Sep",C0108

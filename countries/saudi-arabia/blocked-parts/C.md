@@ -1,0 +1,3 @@
+- https://www.prothomalo.com/bangladesh/fc49bzl96y -> manual/prothomalo-visa-trading-2023.pdf : Prothom Alo 27 Mar 2023 on visa trading and unverified appointment letters (curl failed; not retried with Firecrawl because Bonik Barta 2024 covers the same scam)
+- https://www.amnesty.org/fr/wp-content/uploads/2024/11/MDE2386872024ENGLISH.pdf -> manual/amnesty-saudi-2024.pdf : downloaded but no text layer (5 bytes); need a readable copy for reality check on wage insurance
+- https://www.chi.gov.sa/en/ServicesDirectory/Pages/Eservices-CheckInsurance.aspx?servicename=checkinsurance -> manual/chi-check-insurance.pdf : live page and Firecrawl failed; Wayback copy (Jan 2026) saved, but it does not show which ID the form asks for

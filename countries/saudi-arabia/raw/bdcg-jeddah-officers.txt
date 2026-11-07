@@ -1,0 +1,13 @@
+SOURCE: https://jeddah.mofa.gov.bd/pages/officers-profile | fetched by curl 2026-11-07 | text extracted from the saved html table (pandoc md dropped the table)
+
+ |  |  | 
+Diplomatic Wing |  |  | 
+Mr. Md. Shakhawat Hossain | Consul General |  | 
+Mr. Md. Mehebub Zaman | Counsellor and Head of Chancery | hoc.jeddah@mofa.gov.bd | +966126881740
+Mr. ASM Shayem | Counsellor (Consular) | consular.jeddah@mofa.gov.bd | +966508636943
+Mr. Md Nurul Alam | Third Secretary | alammofa72@gmail.com | +966508225699
+Commercial Wing |  |  | 
+Syeda Nahida Habiba | Commercial Counsellor | commerce.jeddah@mofa.gov.bd | +966531475523
+Labor Welfare Wing |  |  | 
+Mr. Khondakar Serajus Saleqin | Counsellor (Labor) | counselorjeddah@probashi.gov.bd | +966501365198
+Mr. Md. Nazmul Hasan | First Secretary (Labor) | fsjeddah@probashi.gov.bd | +966126335082

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SRS </title>
+  
+  
+  	<!-- Bootstrap core CSS -->
+<link href="https://www.bangladeshembassy.org.sa/srspub/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap theme -->
+<link href="https://www.bangladeshembassy.org.sa/srspub/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+<script src="https://www.bangladeshembassy.org.sa/srspub/bootstrap/js/jquery-3.1.0.min.js"></script>
+
+<script src="https://www.bangladeshembassy.org.sa/srspub/bootstrap/js/bootstrap.min.js"></script>
+<!-- End -->
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//codeLib/jquery-ui.css"></script>
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//codeLib/jquery-1.12.4.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//codeLib/jquery-ui.js"></script>
+
+
+
+
+<script type="text/javascript" language="javascript" src="https://www.bangladeshembassy.org.sa/srspub//js/pdsNew5.js"></script>
+</style>
+
+<!-- Sweet Alert-->
+<script src="https://www.bangladeshembassy.org.sa/srspub//swalert/sweetalert.min.js"  ></script>
+
+<!-- Mk-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  color:#000000
+ 
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+</style>
+
+<!-- Sweet Alert-->
+<script src="https://www.bangladeshembassy.org.sa/srspub//swalert/sweetalert.min.js"  ></script>
+
+<script src='https://www.bangladeshembassy.org.sa/srspub/js/captcha2.js'></script>
+</head>
+
+
+<body style="background-color:#D5D1C5">
+<form name="form1" id="form1" action="https://www.bangladeshembassy.org.sa/srspub/index.php/newrecord/do_upload"  method="post" enctype="multipart/form-data" class="icon" style="max-width:15cm; margin:auto"  >
+
+
+
+<h2>      <i class="fa fa-user icon"></i>শ্রম কল্যাণ উইং, বাংলাদেশ দূতাবাস, রিয়াদ, সৌদি আরব (Online service)</h2>
+	
+<div class="input-container">
+<input type="hidden" name="loginUserId"  id="loginUserId" value=""  readonly class="txtInptDt"/>
+</div>
+<div class="input-container">
+<input type="hidden" id="loginUserLabel" name="loginUserLabel" value=""  readonly class="txtInptDt"/>
+</div>
+<div class="input-container">
+  <input type="text" tabindex="1" id="appName" name="appName"  value="" maxlength="400" class="input-field" placeholder="اسم/Name/নাম*">
+  </div>
+  <div class="input-container">
+  <input class="input-field" type="text" placeholder="جوال /Mobile/মোবাইল*" tabindex="1" name="appMob" id="appMob" value="" maxlength="10">
+   </div>
+
+  <div class="input-container">
+  <input class="input-field" type="text" placeholder=" مدينة /City/শহর*" tabindex="1" name="appCity" id="appCity" value="" maxlength="200">
+   </div>
+
+  <div class="input-container">
+	<input class="input-field" type="text" placeholder="رقم الهوية  / Iqama/Border No- ইকামা/বর্ডার নং" tabindex="1" id="IdNo" name="IdNo"  value="" maxlength="10">
+    </div>
+
+  <div class="input-container">
+	<input class="input-field" type="text" placeholder="رقم الجواز /Passport No./পাসপোর্ট নং" tabindex="1" id="passportNo" name="passportNo"  value="" maxlength="400">
+    </div>
+
+    <div class="input-container">
+    <select  id='ddlPType'  name='ddlPType' class='selectMenu' tabindex='1' style='background-color:#1f8fff;width:20.45em;height:2em;height:2.5em;'   ><option value='0'>--সমস্যার কথা সংক্ষেপে সিলেক্ট করুন--</option><option value='1'>হুরুব প্রাপ্ত- দেশে যেতে চাই</option><option value='2'>-----------</option><option value='3'>আসার পর ইকামা ইস্যু হয়নি- দেশে যেতে চাই</option><option value='4'>সফর জেল সংক্রান্ত</option><option value='5'>দেশে যাওয়া সংক্রান্ত সমস্যা</option><option value='6'>ইকামা সমস্যা</option><option value='7'>শ্রম/অন্যান্য আদালত সংক্রান্ত সমস্যা</option><option value='8'>প্রবাসী কল্যাণ কার্ড বিষয়ক</option><option value='9'>অসুস্থ রোগী সংক্রান্ত</option><option value='10'>মৃত ব্যক্তি বিষয়ক</option><option value='11'>মৃত্যুজনিত ক্ষতিপূরণ বিষয়ক</option><option value='12'>বিশেষ এক্সিট পোগ্রাম</option><option value='13'>সাধারণ ক্ষমা</option><option value='14'>কোভিড-১৯</option><option value='15'>গৃহকর্মী সংক্রান্ত সমস্যা</option><option value='16'>থাকা খাওয়া বেতন জনিত সমস্যা</option><option value='17'>জেলে আটক বন্দী সংক্রান্ত সমস্যা</option><option value='18'>-------------</option></select>      </div>      
+	
+      <div class="input-container">
+    <fieldset>
+            <div align="left">
+   <legend> <span style='color:#ffffff;font-size:16px;' > সমস্যার কথা বিস্তারিত লিখুন বাংলা অথবা ইংরেজীতে </span></legend>
+	  <textarea tabindex='1'  name="causeDetails" id="causeDetails" value="" maxlength="200" class="input-field" style="color:#000000;">
+  </textarea>
+                          </fieldset>
+
+  </div>
+	 
+
+
+<div>
+
+
+<div class="input-container" style="display:none;">
+
+<table border="0" width="70%">
+   <tr>
+      <td><input tabindex="1"  type="file" name="fileToUpload" id="fileToUpload" > 
+                          </td>
+                          <td> Iqama copy
+                          </td>
+                          </tr>
+                          <tr>
+      <td><input tabindex="1"   type="file" name="fileToUpload" id="fileToUpload">
+                          </td>
+                          <td>   Passport copy
+                          </td>
+                          </tr>                   
+                        </table>
+</div>
+
+
+                   
+                 
+                  
+
+                  
+                   
+                
+                
+                </p>
+                 
+</div>
+
+
+
+<div id="custom_captcha"></div>
+
+
+
+
+ <input type="button" tabindex="1" id="btnSub" class="add-row btn btn-primary"  value="Submit/সাবমিট করুন"  > 
+
+
+
+</body>
+</html>

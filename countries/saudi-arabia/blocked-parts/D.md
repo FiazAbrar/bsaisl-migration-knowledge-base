@@ -1,0 +1,5 @@
+- https://www.arabianbusiness.com/abnews/saudi-family-visa-new-rules-2026 -> manual/arabianbusiness-family-visa-rules-2026.html : curl 403, Firecrawl not tried; not needed (official SPA text used), kept for completeness
+- https://thefinancialexpress.com.bd/national/haab-announces-three-private-hajj-packages -> manual/fe-hajj-2027-private-packages.html : saved HTML has no article text; need the three private Hajj 2027 package prices
+- HRSD "File a domestic labour lawsuit" (رفع دعوى عمالة منزلية) service page -> manual/hrsd-domestic-labour-lawsuit.html : URL not found by search; need the link, steps and whether a worker without Absher can file
+- https://vc.tasheer.com/static/visafees -> manual/tasheer-visa-fees.html : curl 403; Firecrawl returned only the cookie banner (JS page); need Tasheer's Bangladesh fee table (service fee per visa type: family residence, family visit, business, student)
+- https://probashi.gov.bd/pages/notices -> manual/probashi-notices.html : Firecrawl returns empty JS shell; need the ministry's notice list to find all approval orders for agencies sending women domestic workers

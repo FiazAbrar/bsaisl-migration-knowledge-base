@@ -1,0 +1,10 @@
+# Part P blocked / incomplete sources (family VDR, business, medical, PVP, transit, Employment Pass)
+
+- https://www.imi.gov.my/index.php/faq_bvpp/bahagian-visa/ -> manual/imi-faq-visa-pass-permit.pdf : FAQ body loads by JavaScript; curl and Firecrawl return only menus. Need the Visa, Pass and Permit FAQ text, especially where a citizen sponsor submits a social VDR (HQ Putrajaya only, or state offices), whether a deposit is taken for non-China/Nigeria relatives, and any appeal route.
+- https://www.jagonews24.com/en/international/news/95751 -> manual/news-jagonews-mev-bangladesh-2026.html : 403 to curl. Lead only on MEV for Bangladesh; covered by VisasNews and Observer copies.
+- https://mdec.my/malaysiadigital -> manual/mdec-malaysia-digital.pdf : JavaScript page; Firecrawl returned only a heading. Need MDEC's definition of Malaysia Digital status and what happened to MSC Malaysia status.
+- https://indianhighcommission.com.my/advisory_professionals.html -> manual/hci-kl-advisory-professionals.html : domain no longer resolves; only a 2017 Wayback copy exists (raw/hci-kl-advisory-professionals). Need the current Indian High Commission KL advisory for professionals, if moved to a new domain, as a model for Employment Pass scam warnings.
+- https://www.imi.gov.my/wp-content/uploads/2023/08/SENARAI-SEMAK-Borang-VDR.pdf : saved (raw/imi-vdr-social-checklist-2023.pdf) but scanned with no text layer; quotes were transcribed from page images. A typed copy is not needed.
+- https://www.sprm.gov.my/index.php?page_id=100&language=en and https://portaladuan.sprm.gov.my/ : connection closed for curl and Firecrawl (7 Nov 2026). Used the Wayback copy of 24 Jun 2024 (raw/sprm-report-corruption-en-wb). A current live copy would confirm the MACC hotline and portal are unchanged.
+- https://ereporting.rmp.gov.my/index.aspx -> manual/pdrm-ereporting.html : curl 000, Firecrawl proxy error. Need what PDRM e-Reporting accepts (foreigners, which offences) to add it as an option next to "police station".
+- https://malaysiahealthcare.org/contact-us : 404. Need MHTC's complaint or contact channel other than the WhatsApp concierge.

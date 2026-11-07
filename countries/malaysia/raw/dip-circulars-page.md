@@ -1,0 +1,474 @@
+[বাংলাদেশ জাতীয় তথ্য বাতায়ন](http://bangladesh.gov.bd "বাংলাদেশ জাতীয় তথ্য বাতায়ন")
+
+অফিসের ধরণ নির্বাচন করুন স্বায়ত্তশাসিত মন্ত্রণালয় মন্ত্রণালয় বিভাগ অধিদপ্তর কর্পোরেশন কমিশন কোম্পানি কর্তৃপক্ষ/অথরিটি এজেন্সী কাউন্সিল ট্রাস্ট জাদুঘর ফাউন্ডেশন একাডেমি দপ্তর/সংস্থা বোর্ড ইনস্টিটিউট ফেডারেশন ব্যুরো এডুকেশন বোর্ড ব্যাংক / বীমা / আর্থিক প্রতিষ্ঠান বিভাগীয় পোর্টাল জেলা পোর্টাল পৌরসভা পোর্টাল উপজেলা পোর্টাল ইউনিয়ন পোর্টাল রেজাল্ট প্রকল্প/কর্মসূচী বিদেশী দূতাবাস/মিশন জেলা পরিষদ পোর্টাল সিটি কর্পোরেশন পোর্টাল প্রশিক্ষণ শিক্ষা প্রতিষ্ঠান সরকারি মাঠ পর্যায়ের অফিস অন্যান্য
+
+দেখুন
+
+অনুসন্ধান
+
+English
+
+![ডিআইপি টেস্ট ব্যানার](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dip/2024/12/0a6965df13814dd4b8bebf1ae41b0728.jpg%20) ![মেশিন](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dip/2024/12/a8880db5200047a290fb3568869697be.jpg%20)
+
+[![Office Logo](/site-assets/images/logo.png)](/)
+
+# [ইমিগ্রেশন ও পাসপোর্ট অধিদপ্তর](/)
+
+গণপ্রজাতন্ত্রী বাংলাদেশ সরকার
+
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSIxMyIgdmlld2JveD0iMCAwIDggMTMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxwYXRoIGQ9Ik02LjcwNTA4IDExLjc4NjhMMS43OTk3NiA2Ljg4MTUxTDYuNzA1MDggMS45NzYyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+IDwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjEiIGhlaWdodD0iMjEiIHZpZXdib3g9IjAgMCAyMSAyMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC42NDQ1IDIwLjg4MTNDMTMuMjk2NyAyMC44ODEzIDE1Ljg0MDIgMTkuODI3OCAxNy43MTU2IDE3Ljk1MjRDMTkuNTkxIDE2LjA3NzEgMjAuNjQ0NSAxMy41MzM1IDIwLjY0NDUgMTAuODgxM0MyMC42NDQ1IDguMjI5MTggMTkuNTkxIDUuNjg1NjQgMTcuNzE1NiAzLjgxMDI4QzE1Ljg0MDIgMS45MzQ5MiAxMy4yOTY3IDAuODgxMzQ4IDEwLjY0NDUgMC44ODEzNDhDNy45OTIzNyAwLjg4MTM0OCA1LjQ0ODgzIDEuOTM0OTIgMy41NzM0NiAzLjgxMDI4QzEuNjk4MSA1LjY4NTY0IDAuNjQ0NTMxIDguMjI5MTggMC42NDQ1MzEgMTAuODgxM0MwLjY0NDUzMSAxMy41MzM1IDEuNjk4MSAxNi4wNzcxIDMuNTczNDYgMTcuOTUyNEM1LjQ0ODgzIDE5LjgyNzggNy45OTIzNyAyMC44ODEzIDEwLjY0NDUgMjAuODgxM1pNMTAuMDg4MyA3LjM0MTM1QzkuOTAwMDMgNy4yMTU3NSA5LjY4MTIxIDcuMTQzNjEgOS40NTUxOCA3LjEzMjYzQzkuMjI5MTQgNy4xMjE2NSA5LjAwNDM2IDcuMTcyMjQgOC44MDQ4MiA3LjI3OTAxQzguNjA1MjkgNy4zODU3NyA4LjQzODQ4IDcuNTQ0NyA4LjMyMjE5IDcuNzM4ODRDOC4yMDU5IDcuOTMyOTggOC4xNDQ1IDguMTU1MDQgOC4xNDQ1MyA4LjM4MTM1VjEzLjM4MTNDOC4xNDQ1IDEzLjYwNzcgOC4yMDU5IDEzLjgyOTcgOC4zMjIxOSAxNC4wMjM5QzguNDM4NDggMTQuMjE4IDguNjA1MjkgMTQuMzc2OSA4LjgwNDgyIDE0LjQ4MzdDOS4wMDQzNiAxNC41OTA1IDkuMjI5MTQgMTQuNjQxIDkuNDU1MTggMTQuNjMwMUM5LjY4MTIxIDE0LjYxOTEgOS45MDAwMyAxNC41NDY5IDEwLjA4ODMgMTQuNDIxM0wxMy44MzgzIDExLjkyMTNDMTQuMDA5NSAxMS44MDcyIDE0LjE0OTggMTEuNjUyNSAxNC4yNDY5IDExLjQ3MTFDMTQuMzQ0IDExLjI4OTcgMTQuMzk0OCAxMS4wODcxIDE0LjM5NDggMTAuODgxM0MxNC4zOTQ4IDEwLjY3NTYgMTQuMzQ0IDEwLjQ3MyAxNC4yNDY5IDEwLjI5MTZDMTQuMTQ5OCAxMC4xMTAyIDE0LjAwOTUgOS45NTU1IDEzLjgzODMgOS44NDEzNUwxMC4wODgzIDcuMzQxMzVaIiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+IDwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSIxMyIgdmlld2JveD0iMCAwIDggMTMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxwYXRoIGQ9Ik0xLjU4NDQ3IDExLjc4NjhMNi40ODk3OSA2Ljg4MTUxTDEuNTg0NDcgMS45NzYyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+IDwvc3ZnPg==)
+
+মেনু নির্বাচন করুন
+
+- [](/)
+- [আমাদের সম্পর্কে](# " আমাদের সম্পর্কে")
+  ###### [](#)
+
+  - [](/pages/static-pages/6922e09e933eb65569e27dd6 " সংক্ষিপ্ত ইতিহাস")
+    সংক্ষিপ্ত ইতিহাস
+  - [](/pages/static-pages/6922e033933eb65569e25f86 " সিটিজেন চার্টার")
+    সিটিজেন চার্টার
+  - [](/pages/officers " কর্মকর্তাবৃন্দ")
+    কর্মকর্তাবৃন্দ
+  - [](/pages/files/6922da94933eb65569e057ef " কর্মকর্তাদের অনাপত্তি সনদ")
+    কর্মকর্তাদের অনাপত্তি সনদ
+  - [](/pages/files/6922dc2b933eb65569e0ec13 " কর্মচারীদের অনাপত্তি সনদ")
+    কর্মচারীদের অনাপত্তি সনদ
+  - [](/pages/news " নিউজ কর্ণার")
+    নিউজ কর্ণার
+  - [](/pages/static-pages/6922dcc3933eb65569e11e57 " নাগরিক ই-সেবাসমূহের তালিকা ")
+    নাগরিক ই-সেবাসমূহের তালিকা
+- [পাসপোর্ট সম্পর্কিত](# " পাসপোর্ট সম্পর্কিত")
+  ###### [](# " ")
+
+  - [](https://www.epassport.gov.bd/ " ই-পাসপোর্ট")
+    ই-পাসপোর্ট
+  - [](/pages/static-pages/6922dfe6933eb65569e24921 " মেশিন রিডেবল পাসপোর্ট (নতুন আবেদন)")
+    মেশিন রিডেবল পাসপোর্ট (নতুন আবেদন)
+  - [](/pages/forms/6922d9f6933eb65569e015fe " মেশিন রিডেবল পাসপোর্ট (রি-ইস্যু)")
+    মেশিন রিডেবল পাসপোর্ট (রি-ইস্যু)
+  - [](/pages/static-pages/6922de43933eb65569e1968a " মেশিন রিডেবল ভিসা (এমআরভি)")
+    মেশিন রিডেবল ভিসা (এমআরভি)
+  - [](https://www.epassport.gov.bd/landing/csca " BGD-CSCA (Country Signing Certificate Authority)")
+    BGD-CSCA (Country Signing Certificate Authority)
+- [অফিসসমূহ](# " অফিসসমূহ")
+  ###### [](# "রাজশাহী বিভাগ")
+
+  রাজশাহী বিভাগ
+
+  - [](https://passport.rajshahi.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস, রাজশাহী।")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস, রাজশাহী।
+  - [](https://passport.bogra.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, বগুড়া")
+    আঞ্চলিক পাসপোর্ট অফিস, বগুড়া
+  - [](https://passport.chapainawabganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস চাঁপাইনবাবগঞ্জ।")
+    আঞ্চলিক পাসপোর্ট অফিস চাঁপাইনবাবগঞ্জ।
+  - [](https://passport.naogaon.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নওগাঁ।")
+    আঞ্চলিক পাসপোর্ট অফিস, নওগাঁ।
+  - [](https://passport.joypurhat.gov.bd/ " আঞ্চলিক পাসপোর্ট, অফিস, জয়পুরহাট।")
+    আঞ্চলিক পাসপোর্ট, অফিস, জয়পুরহাট।
+  - [](https://passport.sirajganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, সিরাজগঞ্জ।")
+    আঞ্চলিক পাসপোর্ট অফিস, সিরাজগঞ্জ।
+  - [](https://passport.pabna.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, পাবনা।")
+    আঞ্চলিক পাসপোর্ট অফিস, পাবনা।
+  - [](https://passport.natore.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নাটোর।")
+    আঞ্চলিক পাসপোর্ট অফিস, নাটোর।
+
+  ###### [](# "রংপুর বিভাগ")
+
+  রংপুর বিভাগ
+
+  - [](https://passport.rangpurdiv.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস, রংপুর।")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস, রংপুর।
+  - [](https://passport.nilphamari.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নীলফামারি")
+    আঞ্চলিক পাসপোর্ট অফিস, নীলফামারি
+  - [](https://passport.lalmonirhat.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, লালমনিরহাট।")
+    আঞ্চলিক পাসপোর্ট অফিস, লালমনিরহাট।
+  - [](https://passport.kurigram.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, কুড়িগ্রাম।")
+    আঞ্চলিক পাসপোর্ট অফিস, কুড়িগ্রাম।
+  - [](https://passport.gaibandha.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, গাইবান্ধা।")
+    আঞ্চলিক পাসপোর্ট অফিস, গাইবান্ধা।
+  - [](https://passport.panchagarh.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, পঞ্চগড়।")
+    আঞ্চলিক পাসপোর্ট অফিস, পঞ্চগড়।
+  - [](https://passport.dinajpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, দিনাজপুর।")
+    আঞ্চলিক পাসপোর্ট অফিস, দিনাজপুর।
+  - [](https://passport.thakurgaon.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ঠাকুরগাঁও")
+    আঞ্চলিক পাসপোর্ট অফিস, ঠাকুরগাঁও
+
+  ###### [](# "সিলেট বিভাগ")
+
+  সিলেট বিভাগ
+
+  - [](https://passport.sylhetdiv.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস, সিলেট")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস, সিলেট
+  - [](https://passport.moulvibazar.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, মৌলভীবাজার।")
+    আঞ্চলিক পাসপোর্ট অফিস, মৌলভীবাজার।
+  - [](https://passport.habiganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, হবিগঞ্জ।")
+    আঞ্চলিক পাসপোর্ট অফিস, হবিগঞ্জ।
+  - [](https://passport.sunamganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, সুনামগঞ্জ।")
+    আঞ্চলিক পাসপোর্ট অফিস, সুনামগঞ্জ।
+
+  ###### [](# "বরিশাল বিভাগ")
+
+  বরিশাল বিভাগ
+
+  - [](https://passport.barisal.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস, বরিশাল")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস, বরিশাল
+  - [](https://passport.patuakhali.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, পটুয়াখালী")
+    আঞ্চলিক পাসপোর্ট অফিস, পটুয়াখালী
+  - [](https://passport.pirojpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, পিরোজপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, পিরোজপুর
+  - [](https://passport.bhola.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ভোলা")
+    আঞ্চলিক পাসপোর্ট অফিস, ভোলা
+  - [](https://passport.barguna.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, বরগুনা")
+    আঞ্চলিক পাসপোর্ট অফিস, বরগুনা
+  - [](https://passport.jhalakathi.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ঝালকাঠি")
+    আঞ্চলিক পাসপোর্ট অফিস, ঝালকাঠি
+
+  ###### [](# "ঢাকা বিভাগ")
+
+  ঢাকা বিভাগ
+
+  - [](https://passport.dhakadiv.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস ঢাকা")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস ঢাকা
+  - [](https://diputtara.dhaka.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস উত্তরা")
+    আঞ্চলিক পাসপোর্ট অফিস উত্তরা
+  - [](https://dipkeraniganj.dhaka.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস কেরাণীগঞ্জ")
+    আঞ্চলিক পাসপোর্ট অফিস কেরাণীগঞ্জ
+  - [](https://dipwest.dhaka.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস ঢাকা পশ্চিম (মোহাম্মদপুর)")
+    আঞ্চলিক পাসপোর্ট অফিস ঢাকা পশ্চিম (মোহাম্মদপুর)
+  - [](https://dipeast.dhaka.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস ঢাকা পূর্ব (আফতাবনগর )")
+    আঞ্চলিক পাসপোর্ট অফিস ঢাকা পূর্ব (আফতাবনগর )
+  - [](https://dipsecretariat.dhaka.gov.bd/ " পাসপোর্ট অফিস, বাংলাদেশ সচিবালয়, ঢাকা")
+    পাসপোর্ট অফিস, বাংলাদেশ সচিবালয়, ঢাকা
+  - [](https://dkcantonment.dip.gov.bd/ " পাসপোর্ট অফিস, ঢাকা সেনানিবাস")
+    পাসপোর্ট অফিস, ঢাকা সেনানিবাস
+  - [](https://passport.narsingdi.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নরসিংদী")
+    আঞ্চলিক পাসপোর্ট অফিস, নরসিংদী
+  - [](https://passport.gazipur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, গাজীপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, গাজীপুর
+  - [](https://passport.shariatpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, শরীয়তপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, শরীয়তপুর
+  - [](https://passport.narayanganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নারায়ণগঞ্জ")
+    আঞ্চলিক পাসপোর্ট অফিস, নারায়ণগঞ্জ
+  - [](https://passport.tangail.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, টাঙ্গাইল")
+    আঞ্চলিক পাসপোর্ট অফিস, টাঙ্গাইল
+  - [](https://passport.kishoreganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, কিশোরগঞ্জ")
+    আঞ্চলিক পাসপোর্ট অফিস, কিশোরগঞ্জ
+  - [](https://passport.manikganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, মানিকগঞ্জ")
+    আঞ্চলিক পাসপোর্ট অফিস, মানিকগঞ্জ
+  - [](https://passport.munshiganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, মুন্সীগঞ্জ")
+    আঞ্চলিক পাসপোর্ট অফিস, মুন্সীগঞ্জ
+  - [](https://passport.rajbari.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, রাজবাড়ী")
+    আঞ্চলিক পাসপোর্ট অফিস, রাজবাড়ী
+  - [](https://passport.madaripur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, মাদারীপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, মাদারীপুর
+  - [](https://passport.gopalganj.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, গোপালগঞ্জ")
+    আঞ্চলিক পাসপোর্ট অফিস, গোপালগঞ্জ
+  - [](http://passport.faridpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস ফরিদপুর")
+    আঞ্চলিক পাসপোর্ট অফিস ফরিদপুর
+
+  ###### [](# "চট্টগ্রাম বিভাগ")
+
+  চট্টগ্রাম বিভাগ
+
+  - [](https://passport.chittagongdiv.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস, মনসুরাবাদ, চট্টগ্রাম।")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস, মনসুরাবাদ, চট্টগ্রাম।
+  - [](https://passport.chittagong.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, চাঁদগাঁও, চট্টগ্রাম।")
+    আঞ্চলিক পাসপোর্ট অফিস, চাঁদগাঁও, চট্টগ্রাম।
+  - [](https://passport.chandpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, চাঁদপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, চাঁদপুর
+  - [](https://passport.comilla.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, কুমিল্লা")
+    আঞ্চলিক পাসপোর্ট অফিস, কুমিল্লা
+  - [](https://passport.feni.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ফেনী")
+    আঞ্চলিক পাসপোর্ট অফিস, ফেনী
+  - [](https://passport.lakshmipur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, লক্ষ্মীপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, লক্ষ্মীপুর
+  - [](https://passport.noakhali.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নোয়াখালী।")
+    আঞ্চলিক পাসপোর্ট অফিস, নোয়াখালী।
+  - [](https://passport.brahmanbaria.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ব্রাহ্মণবাড়িয়া")
+    আঞ্চলিক পাসপোর্ট অফিস, ব্রাহ্মণবাড়িয়া
+  - [](https://passport.rangamati.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, রাঙ্গামাটি।")
+    আঞ্চলিক পাসপোর্ট অফিস, রাঙ্গামাটি।
+  - [](https://passport.coxsbazar.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, কক্সবাজার।")
+    আঞ্চলিক পাসপোর্ট অফিস, কক্সবাজার।
+  - [](https://passport.bandarban.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, বান্দরবান")
+    আঞ্চলিক পাসপোর্ট অফিস, বান্দরবান
+  - [](https://passport.khagrachhari.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, খাগড়াছড়ি")
+    আঞ্চলিক পাসপোর্ট অফিস, খাগড়াছড়ি
+
+  ###### [](# "খুলনা বিভাগ")
+
+  খুলনা বিভাগ
+
+  - [](https://passport.khulna.gov.bd/ " বিভাগীয় পাসপোর্ট ও ভিসা অফিস খুলনা")
+    বিভাগীয় পাসপোর্ট ও ভিসা অফিস খুলনা
+  - [](https://passport.jessore.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, যশোর")
+    আঞ্চলিক পাসপোর্ট অফিস, যশোর
+  - [](https://passport.magura.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস মাগুরা")
+    আঞ্চলিক পাসপোর্ট অফিস মাগুরা
+  - [](https://passport.bagerhat.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, বাগেরহাট।")
+    আঞ্চলিক পাসপোর্ট অফিস, বাগেরহাট।
+  - [](https://passport.satkhira.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস সাতক্ষীরা।")
+    আঞ্চলিক পাসপোর্ট অফিস সাতক্ষীরা।
+  - [](https://passport.kushtia.gov.bd/ " .আঞ্চলিক পাসপোর্ট অফিস, কুষ্টিয়া।")
+    .আঞ্চলিক পাসপোর্ট অফিস, কুষ্টিয়া।
+  - [](https://passport.jhenaidah.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ঝিনাইদহ।")
+    আঞ্চলিক পাসপোর্ট অফিস, ঝিনাইদহ।
+  - [](https://passport.meherpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস মেহেরপুর।")
+    আঞ্চলিক পাসপোর্ট অফিস মেহেরপুর।
+  - [](https://passport.chuadanga.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, চুয়াডাঙ্গা।")
+    আঞ্চলিক পাসপোর্ট অফিস, চুয়াডাঙ্গা।
+  - [](https://passport.narail.gov.bd/ " আঞ্চলিক পাসপোর্ট, অফিস, নড়াইল।")
+    আঞ্চলিক পাসপোর্ট, অফিস, নড়াইল।
+
+  ###### [](# "ময়মনসিংহ বিভাগ")
+
+  ময়মনসিংহ বিভাগ
+
+  - [](https://passport.mymensingh.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, ময়মনসিংহ")
+    আঞ্চলিক পাসপোর্ট অফিস, ময়মনসিংহ
+  - [](https://passport.sherpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, শেরপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, শেরপুর
+  - [](https://passport.jamalpur.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, জামালপুর")
+    আঞ্চলিক পাসপোর্ট অফিস, জামালপুর
+  - [](https://passport.netrokona.gov.bd/ " আঞ্চলিক পাসপোর্ট অফিস, নেত্রকোণা")
+    আঞ্চলিক পাসপোর্ট অফিস, নেত্রকোণা
+- [(ভিসা সংক্রান্ত) Visa Related](# " (ভিসা সংক্রান্ত) Visa Related")
+  ###### [](#)
+
+  - [](/pages/forms/6922d9fc933eb65569e0195e " MRV Application Form")
+    MRV Application Form
+  - [](/pages/static-pages/6922de7b933eb65569e1aeb6 " Apply MRV Online")
+    Apply MRV Online
+  - [](/pages/static-pages/6922dc4c933eb65569e0f934 " Instructions To Fill MRV Form")
+    Instructions To Fill MRV Form
+  - [](/pages/static-pages/6922df3d933eb65569e20c97 " Types and Essential Documents of Visa")
+    Types and Essential Documents of Visa
+- [ইমিগ্রেশন সংক্রান্ত (Immigration Related)](# " ইমিগ্রেশন সংক্রান্ত (Immigration Related)")
+  ###### [](#)
+
+  - [](/pages/static-pages/6922db73933eb65569e0a2f9 " Visa Processing")
+    Visa Processing
+  - [](/pages/static-pages/6922dcea933eb65569e12b93 " Document Verification")
+    Document Verification
+  - [](/pages/static-pages/6922e044933eb65569e26425 " Border Control Management (E-Gate)")
+    Border Control Management (E-Gate)
+  - [](/pages/static-pages/6922dffc933eb65569e24ed8 " Route Change")
+    Route Change
+  - [](/pages/static-pages/6922deb4933eb65569e1cc08 " Illegal Immigrant Registration")
+    Illegal Immigrant Registration
+  - [](/pages/static-pages/6922dcb5933eb65569e119fb " Policy Implementation")
+    Policy Implementation
+- [ফরম ও ফি](# " ফরম ও ফি")
+  ###### [](# "ফরম")
+
+  ফরম
+
+  - [](/pages/forms/6922da11933eb65569e0240a " পাসপোর্টের তথ্য সংশোধনী অঙ্গীকারনামা (ফরম)")
+    পাসপোর্টের তথ্য সংশোধনী অঙ্গীকারনামা (ফরম)
+  - [](/pages/forms/6922d9fa933eb65569e0180d " AFIS/ABIS Rejected আইডি যাচাই সংক্রান্ত অঙ্গীকারনামা (ফরম)")
+    AFIS/ABIS Rejected আইডি যাচাই সংক্রান্ত অঙ্গীকারনামা (ফরম)
+  - [](/pages/forms/6922d9df933eb65569e00bb8 " এমআরপি পাসপার্টের আবেদন ফরম")
+    এমআরপি পাসপার্টের আবেদন ফরম
+  - [](/pages/forms/6922d9fc933eb65569e0195e " এমআরভি ভিসা আবেদন ফরম")
+    এমআরভি ভিসা আবেদন ফরম
+  - [](/pages/forms/6922d9e0933eb65569e00be9 " নমুনা এনওসি ফরম ")
+    নমুনা এনওসি ফরম
+  - [](/pages/forms/6922d9f6933eb65569e015fe " রি-ইস্যু/তথ্য পরিবর্তন/সংশোধন আবেদন ফরম ")
+    রি-ইস্যু/তথ্য পরিবর্তন/সংশোধন আবেদন ফরম
+  - [](/pages/forms/6922d9c9933eb65569e00220 " ট্রাভেল পারমিট ( টি পি)")
+    ট্রাভেল পারমিট ( টি পি)
+  - [](/pages/forms/6922da1e933eb65569e0294a " অতিরিক্ত তথ্য সংযোজন ফরম")
+    অতিরিক্ত তথ্য সংযোজন ফরম
+
+  ###### [](# "ফি")
+
+  ফি
+
+  - [](/pages/static-pages/6922e0b6933eb65569e284b0 " এমআরপি ফি (বাংলাদেশ)")
+    এমআরপি ফি (বাংলাদেশ)
+  - [](/pages/static-pages/6922dcb5933eb65569e11a1e " এমআরপি ফি (আন্তর্জাতিক)")
+    এমআরপি ফি (আন্তর্জাতিক)
+  - [](/pages/static-pages/6922e110933eb65569e29f81 " এমআরভি ফি")
+    এমআরভি ফি
+  - [](/pages/static-pages/6922e0bd933eb65569e2868c " ই-পাসপোর্ট ফি")
+    ই-পাসপোর্ট ফি
+- [আইন/বিধি](# " আইন/বিধি")
+  ###### [](# "আইন/বিধি")
+
+  আইন/বিধি
+
+  - [](/pages/static-pages/6922e0de933eb65569e28f11 " বাংলাদেশ পাসপোর্ট আদেশ, ১৯৭৩")
+    বাংলাদেশ পাসপোর্ট আদেশ, ১৯৭৩
+  - [](/pages/static-pages/6922db9a933eb65569e0b2fc " বাংলাদেশ পাসপোর্ট বিধিমালা, ১৯৭৪")
+    বাংলাদেশ পাসপোর্ট বিধিমালা, ১৯৭৪
+  - [](/pages/policies " ভিসা নীতিমালা")
+    ভিসা নীতিমালা
+  - [](/pages/static-pages/6922e10f933eb65569e29f1f " অন এরাইভাল ভিসা")
+    অন এরাইভাল ভিসা
+  - [](/pages/static-pages/6922e0a4933eb65569e27fcb " অফিসিয়াল পাসপোর্ট প্রাপ্তি")
+    অফিসিয়াল পাসপোর্ট প্রাপ্তি
+  - [](/pages/static-pages/6922dc6f933eb65569e105ca " বিদেশ ভ্রমণের অনুমতি ও অনুসরণীয় আনুষঙ্গিক বিষয়াদি ")
+    বিদেশ ভ্রমণের অনুমতি ও অনুসরণীয় আনুষঙ্গিক বিষয়াদি
+
+  ###### [](# "পাসপোর্টের তথ্য সংশোধন")
+
+  পাসপোর্টের তথ্য সংশোধন
+
+  - [](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dip/2024/12/6865f2a2b73c4ac6a747007d7cc62a07.pdf " পাসপোর্টে প্রদত্ত তথ্য সংশোধনপূর্বক দেশে ও বিদেশে পাসপোর্ট রি-ইস্যুর আবেদনসমূহ নিষ্পত্তিকরণ")
+    পাসপোর্টে প্রদত্ত তথ্য সংশোধনপূর্বক দেশে ও বিদেশে পাসপোর্ট রি-ইস্যুর আবেদনসমূহ নিষ্পত্তিকরণ
+  - [](/pages/forms/6922da11933eb65569e0240a " পাসপোর্টের তথ্য সংশোধনী অঙ্গীকারনামা (ফরম)")
+    পাসপোর্টের তথ্য সংশোধনী অঙ্গীকারনামা (ফরম)
+- [প্রকল্প](# " প্রকল্প")
+  ###### [](# "চলমান ")
+
+  চলমান
+
+  - [](/pages/static-pages/6922e0b4933eb65569e283fd " চলমান প্রকল্পসমূহ ")
+    চলমান প্রকল্পসমূহ
+
+  ###### [](# "সমাপ্ত")
+
+  সমাপ্ত
+
+  - [](/pages/static-pages/6922e067933eb65569e26dfe " সমাপ্ত প্রকল্পসমূহ")
+    সমাপ্ত প্রকল্পসমূহ
+- [গ্যালারী](# " গ্যালারী")
+  ###### [](#)
+
+  - [](/pages/photo-galleries " ফটো")
+    ফটো
+  - [](/pages/video-galleries " ভিডিও")
+    ভিডিও
+- [পাসপোর্ট পেতে করণীয়](/pages/static-pages/6922dc55933eb65569e0fc65 " পাসপোর্ট পেতে করণীয়")
+- [যোগাযোগ](# " যোগাযোগ")
+  ###### [](# "যোগাযোগ")
+
+  যোগাযোগ
+
+  - [](/pages/static-pages/6922ddd3933eb65569e167ef " ফোকাল পয়েন্ট")
+    ফোকাল পয়েন্ট
+  - [](/pages/static-pages/6922df8d933eb65569e22baf " অফিস (প্রধান কার্যালয়)")
+    অফিস (প্রধান কার্যালয়)
+  - [](/pages/static-pages/6922dc4a933eb65569e0f844 " Immigration Section")
+    Immigration Section
+  - [](/pages/static-pages/6922e063933eb65569e26ce8 " বিভাগীয় অফিসে যোগাযোগ")
+    বিভাগীয় অফিসে যোগাযোগ
+  - [](/pages/static-pages/6922dfa1933eb65569e231e4 " আঞ্চলিক অফিসে যোগাযোগ")
+    আঞ্চলিক অফিসে যোগাযোগ
+
+  ###### [](# "হটলাইন")
+
+  হটলাইন
+
+  - [](# " পাসপোর্ট বাতায়ন - ১৬৪৪৫")
+    পাসপোর্ট বাতায়ন - ১৬৪৪৫
+  - [](# " তথ্য সেবা-৩৩৩")
+    তথ্য সেবা-৩৩৩
+  - [](# " জরুরি সেবা-৯৯৯")
+    জরুরি সেবা-৯৯৯
+  - [](# " দুদক-১০৬")
+    দুদক-১০৬
+  - [](# " হেল্প ডেস্ক-০১৭৩৩৩৯৩৩৯৯")
+    হেল্প ডেস্ক-০১৭৩৩৩৯৩৩৯৯
+
+আরও সংক্ষিপ্ত
+
+এই কনটেন্টটি শেয়ার করতে ক্লিক করুন
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Ym94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICAgICAgICAgICAgICAgPGcgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAwOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiBub25lOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjQwNjU5MzQwNjU5MzQwMTYgMS40MDY1OTM0MDY1OTM0MDE2KSBzY2FsZSgyLjgxIDIuODEpIj4KICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTSA2My4zNTcgMjQuODc3IGMgLTEuMjQzIC0xLjE0NyAtNi4yNjQgLTQuNzkyIC0xNy40NDggLTQuODQxIGMgMCAwIC0xMy4xODkgLTAuNzk2IC0xOS42MTggNS4xMDIgYyAtMy41NzkgMy41OCAtNC44MzggOC44MTggLTQuOTcgMTUuMzEyIGMgLTAuMTMzIDYuNDk0IC0wLjMwNSAxOC42NjQgMTEuNDI2IDIxLjk2NCBoIDAuMDExIGwgLTAuMDA3IDUuMDM1IGMgMCAwIC0wLjA3NSAyLjAzOCAxLjI2NyAyLjQ1NCBjIDEuNjI0IDAuNTA0IDIuNTc3IC0xLjA0NSA0LjEyNyAtMi43MTYgYyAwLjg1MSAtMC45MTcgMi4wMjYgLTIuMjY0IDIuOTExIC0zLjI5MyBjIDguMDIzIDAuNjc1IDE0LjE5NCAtMC44NjggMTQuODk0IC0xLjA5NiBjIDEuNjIgLTAuNTI1IDEwLjc4NyAtMS43IDEyLjI3NyAtMTMuODY5IEMgNjkuNzY2IDM2LjM4NyA2Ny40ODMgMjguNDUzIDYzLjM1NyAyNC44NzcgeiBNIDU2LjYxNCA1Mi4xMzEgYyAwIDAuMDA1IC0wLjAwNCAwLjAxNCAtMC4wMDQgMC4wMTkgYyAtMC41MTcgMC44OTYgLTEuMTcyIDEuNzAzIC0xLjk0MyAyLjM5MiBjIC0wLjAwOSAwLjAwNCAtMC4wMDkgMC4wMDkgLTAuMDE3IDAuMDEzIGMgLTAuNjY5IDAuNTU5IC0xLjMyNyAwLjg3NyAtMS45NzMgMC45NTQgYyAtMC4wOTUgMC4wMTcgLTAuMTkyIDAuMDIzIC0wLjI4OCAwLjAxOCBjIC0wLjI4NSAwLjAwMyAtMC41NjggLTAuMDQxIC0wLjgzOSAtMC4xMjkgbCAtMC4wMjEgLTAuMDMxIGMgLTAuOTk1IC0wLjI4MSAtMi42NTYgLTAuOTgzIC01LjQyMyAtMi41MDkgYyAtMS42MDEgLTAuODczIC0zLjEyNSAtMS44NzkgLTQuNTU2IC0zLjAwOSBjIC0wLjcxNyAtMC41NjYgLTEuNDAxIC0xLjE3MyAtMi4wNDkgLTEuODE3IGwgLTAuMDY5IC0wLjA2OSBsIC0wLjA2OSAtMC4wNjkgbCAtMC4wNjkgLTAuMDY5IGMgLTAuMDIzIC0wLjAyMiAtMC4wNDYgLTAuMDQ2IC0wLjA2OSAtMC4wNjkgYyAtMC42NDQgLTAuNjQ4IC0xLjI1MSAtMS4zMzIgLTEuODE3IC0yLjA0OSBjIC0xLjEzIC0xLjQzMSAtMi4xMzcgLTIuOTU0IC0zLjAwOSAtNC41NTUgYyAtMS41MjYgLTIuNzY3IC0yLjIyOCAtNC40MjcgLTIuNTA5IC01LjQyMyBsIC0wLjAzMSAtMC4wMjEgYyAtMC4wODggLTAuMjcxIC0wLjEzMSAtMC41NTQgLTAuMTI4IC0wLjgzOSBjIC0wLjAwNSAtMC4wOTYgMC4wMDEgLTAuMTkzIDAuMDE3IC0wLjI4OCBjIDAuMDgxIC0wLjY0NSAwLjM5OSAtMS4zMDMgMC45NTUgLTEuOTc0IGMgMC4wMDQgLTAuMDA4IDAuMDA5IC0wLjAwOCAwLjAxMyAtMC4wMTcgYyAwLjY4OSAtMC43NzEgMS40OTcgLTEuNDI2IDIuMzkyIC0xLjk0MiBjIDAuMDA0IDAgMC4wMTMgLTAuMDA0IDAuMDE5IC0wLjAwNCBjIDAuOTAxIC0wLjQ2OSAxLjc1NCAtMC4zMSAyLjMzNSAwLjM3NSBjIDAuMDA0IDAuMDA0IDEuMjA5IDEuNDUxIDEuNzI2IDIuMTU3IGMgMC41MzIgMC43NDkgMS4wMjcgMS41MjMgMS40ODEgMi4zMjIgYyAwLjU5MyAxLjA2MyAwLjIyMSAyLjE1MiAtMC4zNjEgMi42MDEgbCAtMS4xNzQgMC45MzMgYyAtMC41OTMgMC40NzkgLTAuNTE0IDEuMzY4IC0wLjUxNCAxLjM2OCBzIDEuNzM5IDYuNTgzIDguMjM4IDguMjQyIGMgMCAwIDAuODg5IDAuMDc1IDEuMzY4IC0wLjUxNSBsIDAuOTMzIC0xLjE3NCBjIDAuNDUgLTAuNTgyIDEuNTM3IC0wLjk1NCAyLjYwMSAtMC4zNjEgYyAwLjc5NyAwLjQ1NCAxLjU3MSAwLjk0OSAyLjMxOSAxLjQ4MSBjIDAuNzA2IDAuNTE5IDIuMTUyIDEuNzI2IDIuMTU2IDEuNzI2IEMgNTYuOTI0IDUwLjM3NiA1Ny4wODMgNTEuMjMgNTYuNjE0IDUyLjEzMSB6IE0gNTEuMjM4IDM1Ljg4OSBjIC0xLjMxNiAtMS40MzYgLTMuMTE5IC0yLjIxOSAtNS41MTEgLTIuMzk0IGMgLTAuMzQ4IC0wLjAyNiAtMC42MSAtMC4zMjkgLTAuNTg0IC0wLjY3NyBjIDAuMDI2IC0wLjM0OCAwLjMzIC0wLjYxMSAwLjY3NyAtMC41ODQgYyAyLjY5MiAwLjE5NyA0LjgyOSAxLjE0IDYuMzUyIDIuODAyIGMgMS41MjYgMS42NjggMi4yNzMgMy43NjUgMi4yMTkgNi4yMzMgYyAtMC4wMDcgMC4zNDQgLTAuMjg5IDAuNjE5IC0wLjYzMiAwLjYxOSBjIC0wLjAwNCAwIC0wLjAwOSAwIC0wLjAxNCAwIGMgLTAuMzQ5IC0wLjAwOCAtMC42MjYgLTAuMjk3IC0wLjYxOSAtMC42NDYgQyA1My4xNzMgMzkuMDc4IDUyLjU1NiAzNy4zMjggNTEuMjM4IDM1Ljg4OSB6IE0gNTEuMTQ1IDQwLjEzNSBjIDAuMDE3IDAuMzQ5IC0wLjI1MiAwLjY0NiAtMC42MDEgMC42NjMgYyAtMC4wMTEgMC4wMDEgLTAuMDIxIDAuMDAxIC0wLjAzMiAwLjAwMSBjIC0wLjMzNSAwIC0wLjYxNCAtMC4yNjMgLTAuNjMxIC0wLjYwMSBjIC0wLjEwNyAtMi4xNDkgLTEuMTE3IC0zLjIwMSAtMy4xODEgLTMuMzA4IGMgLTAuMzQ5IC0wLjAxOCAtMC42MTcgLTAuMzE2IC0wLjU5OSAtMC42NjQgYyAwLjAxOCAtMC4zNDkgMC4zMTQgLTAuNjE4IDAuNjY0IC0wLjU5OSBDIDQ5LjQ5MSAzNS43NjkgNTEuMDA2IDM3LjMyNyA1MS4xNDUgNDAuMTM1IHogTSA1Ny4wODYgNDMuMTg2IGMgLTAuMDAyIDAgLTAuMDAzIDAgLTAuMDA1IDAgYyAtMC4zNDcgMCAtMC42MyAtMC4yOCAtMC42MzIgLTAuNjI4IGMgLTAuMDI5IC0zLjgxNiAtMS4xNzQgLTYuODUzIC0zLjQwNCAtOS4wMjcgYyAtMi4yMzQgLTIuMTc4IC01LjA1NyAtMy4yOTQgLTguMzkgLTMuMzE3IGMgLTAuMzQ5IC0wLjAwMiAtMC42MzEgLTAuMjg4IC0wLjYyOCAtMC42MzcgYyAwLjAwMiAtMC4zNDggMC4yODUgLTAuNjI4IDAuNjMyIC0wLjYyOCBjIDAuMDAyIDAgMC4wMDMgMCAwLjAwNCAwIGMgMy42NzIgMC4wMjYgNi43ODkgMS4yNjIgOS4yNjQgMy42NzYgYyAyLjQ4MSAyLjQxOCAzLjc1NCA1Ljc1NyAzLjc4NiA5LjkyMyBDIDU3LjcxNSA0Mi44OTggNTcuNDM0IDQzLjE4MyA1Ny4wODYgNDMuMTg2IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7c3Ryb2tlLXdpZHRoOiAxO3N0cm9rZS1kYXNoYXJyYXk6IG5vbmU7c3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7c3Ryb2tlLWxpbmVqb2luOiBtaXRlcjtzdHJva2UtbWl0ZXJsaW1pdDogMTA7ZmlsbDojNjY1Y2FjO2ZpbGwtcnVsZTogbm9uemVybztvcGFjaXR5OjE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgogICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgIDwvc3ZnPg==)
+
+ 
+
+আপনার মতামত প্রদান করুন
+
+### আপনার মতামত প্রদান করুন
+
+আপনার নাম নাম অবশ্যই দিতে হবে
+
+আপনার ইমেইল সঠিক ইমেইল দিন
+
+আপনার যোগাযোগ নম্বর সঠিক ফোন নম্বর দিন (যেমন 017XXXXXXXX)
+
+আপনার মতামত
+
+মতামত কমপক্ষে ২০ অক্ষরের হতে হবে
+
+Attachment (jpg, jpeg, png, pdf • max 2 MB) Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+
+জমা দিন
+
+কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: সোমবার, ১৯ মে, ২০২৫ এ ০৪:২৪ PM
+
+## পরিপত্র/নির্দেশনা
+
+কন্টেন্ট: পাতা
+
+[TABLE]
+
+ 
+
+এই কনটেন্টটি শেয়ার করতে ক্লিক করুন
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Ym94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICAgICAgICAgICAgICAgPGcgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAwOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiBub25lOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjQwNjU5MzQwNjU5MzQwMTYgMS40MDY1OTM0MDY1OTM0MDE2KSBzY2FsZSgyLjgxIDIuODEpIj4KICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTSA2My4zNTcgMjQuODc3IGMgLTEuMjQzIC0xLjE0NyAtNi4yNjQgLTQuNzkyIC0xNy40NDggLTQuODQxIGMgMCAwIC0xMy4xODkgLTAuNzk2IC0xOS42MTggNS4xMDIgYyAtMy41NzkgMy41OCAtNC44MzggOC44MTggLTQuOTcgMTUuMzEyIGMgLTAuMTMzIDYuNDk0IC0wLjMwNSAxOC42NjQgMTEuNDI2IDIxLjk2NCBoIDAuMDExIGwgLTAuMDA3IDUuMDM1IGMgMCAwIC0wLjA3NSAyLjAzOCAxLjI2NyAyLjQ1NCBjIDEuNjI0IDAuNTA0IDIuNTc3IC0xLjA0NSA0LjEyNyAtMi43MTYgYyAwLjg1MSAtMC45MTcgMi4wMjYgLTIuMjY0IDIuOTExIC0zLjI5MyBjIDguMDIzIDAuNjc1IDE0LjE5NCAtMC44NjggMTQuODk0IC0xLjA5NiBjIDEuNjIgLTAuNTI1IDEwLjc4NyAtMS43IDEyLjI3NyAtMTMuODY5IEMgNjkuNzY2IDM2LjM4NyA2Ny40ODMgMjguNDUzIDYzLjM1NyAyNC44NzcgeiBNIDU2LjYxNCA1Mi4xMzEgYyAwIDAuMDA1IC0wLjAwNCAwLjAxNCAtMC4wMDQgMC4wMTkgYyAtMC41MTcgMC44OTYgLTEuMTcyIDEuNzAzIC0xLjk0MyAyLjM5MiBjIC0wLjAwOSAwLjAwNCAtMC4wMDkgMC4wMDkgLTAuMDE3IDAuMDEzIGMgLTAuNjY5IDAuNTU5IC0xLjMyNyAwLjg3NyAtMS45NzMgMC45NTQgYyAtMC4wOTUgMC4wMTcgLTAuMTkyIDAuMDIzIC0wLjI4OCAwLjAxOCBjIC0wLjI4NSAwLjAwMyAtMC41NjggLTAuMDQxIC0wLjgzOSAtMC4xMjkgbCAtMC4wMjEgLTAuMDMxIGMgLTAuOTk1IC0wLjI4MSAtMi42NTYgLTAuOTgzIC01LjQyMyAtMi41MDkgYyAtMS42MDEgLTAuODczIC0zLjEyNSAtMS44NzkgLTQuNTU2IC0zLjAwOSBjIC0wLjcxNyAtMC41NjYgLTEuNDAxIC0xLjE3MyAtMi4wNDkgLTEuODE3IGwgLTAuMDY5IC0wLjA2OSBsIC0wLjA2OSAtMC4wNjkgbCAtMC4wNjkgLTAuMDY5IGMgLTAuMDIzIC0wLjAyMiAtMC4wNDYgLTAuMDQ2IC0wLjA2OSAtMC4wNjkgYyAtMC42NDQgLTAuNjQ4IC0xLjI1MSAtMS4zMzIgLTEuODE3IC0yLjA0OSBjIC0xLjEzIC0xLjQzMSAtMi4xMzcgLTIuOTU0IC0zLjAwOSAtNC41NTUgYyAtMS41MjYgLTIuNzY3IC0yLjIyOCAtNC40MjcgLTIuNTA5IC01LjQyMyBsIC0wLjAzMSAtMC4wMjEgYyAtMC4wODggLTAuMjcxIC0wLjEzMSAtMC41NTQgLTAuMTI4IC0wLjgzOSBjIC0wLjAwNSAtMC4wOTYgMC4wMDEgLTAuMTkzIDAuMDE3IC0wLjI4OCBjIDAuMDgxIC0wLjY0NSAwLjM5OSAtMS4zMDMgMC45NTUgLTEuOTc0IGMgMC4wMDQgLTAuMDA4IDAuMDA5IC0wLjAwOCAwLjAxMyAtMC4wMTcgYyAwLjY4OSAtMC43NzEgMS40OTcgLTEuNDI2IDIuMzkyIC0xLjk0MiBjIDAuMDA0IDAgMC4wMTMgLTAuMDA0IDAuMDE5IC0wLjAwNCBjIDAuOTAxIC0wLjQ2OSAxLjc1NCAtMC4zMSAyLjMzNSAwLjM3NSBjIDAuMDA0IDAuMDA0IDEuMjA5IDEuNDUxIDEuNzI2IDIuMTU3IGMgMC41MzIgMC43NDkgMS4wMjcgMS41MjMgMS40ODEgMi4zMjIgYyAwLjU5MyAxLjA2MyAwLjIyMSAyLjE1MiAtMC4zNjEgMi42MDEgbCAtMS4xNzQgMC45MzMgYyAtMC41OTMgMC40NzkgLTAuNTE0IDEuMzY4IC0wLjUxNCAxLjM2OCBzIDEuNzM5IDYuNTgzIDguMjM4IDguMjQyIGMgMCAwIDAuODg5IDAuMDc1IDEuMzY4IC0wLjUxNSBsIDAuOTMzIC0xLjE3NCBjIDAuNDUgLTAuNTgyIDEuNTM3IC0wLjk1NCAyLjYwMSAtMC4zNjEgYyAwLjc5NyAwLjQ1NCAxLjU3MSAwLjk0OSAyLjMxOSAxLjQ4MSBjIDAuNzA2IDAuNTE5IDIuMTUyIDEuNzI2IDIuMTU2IDEuNzI2IEMgNTYuOTI0IDUwLjM3NiA1Ny4wODMgNTEuMjMgNTYuNjE0IDUyLjEzMSB6IE0gNTEuMjM4IDM1Ljg4OSBjIC0xLjMxNiAtMS40MzYgLTMuMTE5IC0yLjIxOSAtNS41MTEgLTIuMzk0IGMgLTAuMzQ4IC0wLjAyNiAtMC42MSAtMC4zMjkgLTAuNTg0IC0wLjY3NyBjIDAuMDI2IC0wLjM0OCAwLjMzIC0wLjYxMSAwLjY3NyAtMC41ODQgYyAyLjY5MiAwLjE5NyA0LjgyOSAxLjE0IDYuMzUyIDIuODAyIGMgMS41MjYgMS42NjggMi4yNzMgMy43NjUgMi4yMTkgNi4yMzMgYyAtMC4wMDcgMC4zNDQgLTAuMjg5IDAuNjE5IC0wLjYzMiAwLjYxOSBjIC0wLjAwNCAwIC0wLjAwOSAwIC0wLjAxNCAwIGMgLTAuMzQ5IC0wLjAwOCAtMC42MjYgLTAuMjk3IC0wLjYxOSAtMC42NDYgQyA1My4xNzMgMzkuMDc4IDUyLjU1NiAzNy4zMjggNTEuMjM4IDM1Ljg4OSB6IE0gNTEuMTQ1IDQwLjEzNSBjIDAuMDE3IDAuMzQ5IC0wLjI1MiAwLjY0NiAtMC42MDEgMC42NjMgYyAtMC4wMTEgMC4wMDEgLTAuMDIxIDAuMDAxIC0wLjAzMiAwLjAwMSBjIC0wLjMzNSAwIC0wLjYxNCAtMC4yNjMgLTAuNjMxIC0wLjYwMSBjIC0wLjEwNyAtMi4xNDkgLTEuMTE3IC0zLjIwMSAtMy4xODEgLTMuMzA4IGMgLTAuMzQ5IC0wLjAxOCAtMC42MTcgLTAuMzE2IC0wLjU5OSAtMC42NjQgYyAwLjAxOCAtMC4zNDkgMC4zMTQgLTAuNjE4IDAuNjY0IC0wLjU5OSBDIDQ5LjQ5MSAzNS43NjkgNTEuMDA2IDM3LjMyNyA1MS4xNDUgNDAuMTM1IHogTSA1Ny4wODYgNDMuMTg2IGMgLTAuMDAyIDAgLTAuMDAzIDAgLTAuMDA1IDAgYyAtMC4zNDcgMCAtMC42MyAtMC4yOCAtMC42MzIgLTAuNjI4IGMgLTAuMDI5IC0zLjgxNiAtMS4xNzQgLTYuODUzIC0zLjQwNCAtOS4wMjcgYyAtMi4yMzQgLTIuMTc4IC01LjA1NyAtMy4yOTQgLTguMzkgLTMuMzE3IGMgLTAuMzQ5IC0wLjAwMiAtMC42MzEgLTAuMjg4IC0wLjYyOCAtMC42MzcgYyAwLjAwMiAtMC4zNDggMC4yODUgLTAuNjI4IDAuNjMyIC0wLjYyOCBjIDAuMDAyIDAgMC4wMDMgMCAwLjAwNCAwIGMgMy42NzIgMC4wMjYgNi43ODkgMS4yNjIgOS4yNjQgMy42NzYgYyAyLjQ4MSAyLjQxOCAzLjc1NCA1Ljc1NyAzLjc4NiA5LjkyMyBDIDU3LjcxNSA0Mi44OTggNTcuNDM0IDQzLjE4MyA1Ny4wODYgNDMuMTg2IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7c3Ryb2tlLXdpZHRoOiAxO3N0cm9rZS1kYXNoYXJyYXk6IG5vbmU7c3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7c3Ryb2tlLWxpbmVqb2luOiBtaXRlcjtzdHJva2UtbWl0ZXJsaW1pdDogMTA7ZmlsbDojNjY1Y2FjO2ZpbGwtcnVsZTogbm9uemVybztvcGFjaXR5OjE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgogICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgIDwvc3ZnPg==)
+
+ 
+
+আপনার মতামত প্রদান করুন
+
+### আপনার মতামত প্রদান করুন
+
+আপনার নাম নাম অবশ্যই দিতে হবে
+
+আপনার ইমেইল সঠিক ইমেইল দিন
+
+আপনার যোগাযোগ নম্বর সঠিক ফোন নম্বর দিন (যেমন 017XXXXXXXX)
+
+আপনার মতামত
+
+মতামত কমপক্ষে ২০ অক্ষরের হতে হবে
+
+Attachment (jpg, jpeg, png, pdf • max 2 MB) Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+
+জমা দিন
+
+### এক্সেসিবিলিটি
+
+ফন্ট বৃদ্ধি
+
+ফন্ট হ্রাস
+
+মনোক্রোম
+
+ইনভার্ট
+
+বড় কার্সর
+
+লিঙ্ক হাইলাইট
+
+শিরোনাম হাইলাইট
+
+পড়ার গাইড
+
+রিসেট
+
+[স্ক্রিন রিডার ডাউনলোড করুন](https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe)
+
+[কন্টেন্টে চলে যান](#main-content) [এক্সেসিবিলিটি মেনুতে যান](#accessibility-card-title)
+
+এই ওয়েবসাইটে প্রকাশিত সকল তথ্য সংশ্লিষ্ট দপ্তর কর্তৃক নিয়মিত হালনাগাদ করা হয়। তথ্যের যথার্থতা, নির্ভুলতা ও নির্ভরযোগ্যতা নিশ্চিত করতে সংশ্লিষ্ট দপ্তর সর্বদা সচেষ্ট।
+
+- [যোগাযোগ](/pages/static-pages/6922df8d933eb65569e22baf)
+- [সাইট ম্যাপ](/views/sitemap)
+
+সাইটটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৫ নভেম্বর, ২০২৬ এ ১০:৩৯:১৮
+
+পরিকল্পনা এবং বাস্তবায়ন: মন্ত্রিপরিষদ বিভাগ, এটুআই, বিসিসি, ডিওআইসিটি ও বেসিস।
+
+কারিগরি সহায়তা
+
+![np-logo-set](/site-assets/images/technical-support.svg)

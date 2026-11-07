@@ -1,0 +1,7 @@
+visa_type,field,value,ledger_id
+Dependant Pass,can_work,No; needs own Employment Pass,Q0001
+Entry Permit (PR),eligibility,Not open to PLKS holders,Q0014
+Entry Permit (PR),fee,RM120,Q0030
+Residence Pass-Talent,fee,"RM540 application (non-refundable) + RM5,400 processing on approval + RM500 Immigration",Q0099
+Residence Pass-Talent,processing_time,"21 + 10 working days (approval), 7 + 7 working days (endorsement and pass)",Q0101
+Residence Pass-Talent,appeal,No appeal since 1 June 2023; reapply after 1 year,Q0102

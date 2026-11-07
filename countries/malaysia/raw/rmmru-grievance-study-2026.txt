@@ -1,0 +1,2764 @@
+In-depth Study to Assess the Grievance Management System
+and Explore Opportunities to Institutionalise the Community
+                          Response
+
+
+
+©RMMRU 2024
+Dhaka, Bangladesh
+                ACRONYMS
+AC      Advisory Committee
+ADR     Alternative Dispute Resolution
+BMET    Bureau of Manpower, Employment and Training
+DEMO    District Employment and Manpower Office
+DFID    Department of Foreign Investment and Development
+FGD     Focus Group Discussion
+GMS     Grievance Management System
+GMC     Grievance Management Committee
+ILO     International Labour Organization
+IOM     International Organization for Migration
+MEWOE   Ministry of Expatriates Welfare and Overseas Employment
+MLAA    Madaripur Legal Aid Association
+MoWCA   Ministry of Women and Children Affairs
+NGO     Non-Government Organisation
+NLASO   National Legal Aid Services Organization
+PD      Pre-departure Training
+RMMRU   Refugee and Migratory Movements Research Unit
+TTC     Technical Training Centre
+WARBE   Welfare Association for the Rights of Bangladeshi Emigrants
+YVG     Youth Volunteer Committee
+Table of Contents
+CHAPTER ONE ......................................................................................................................................... 5
+ABOUT THE RESEARCH............................................................................................................................ 5
+   1.1 Background of the Problem .......................................................................................................... 5
+   1.2. Rationale of the Study.................................................................................................................. 8
+   1.3 Objectives of the Research .......................................................................................................... 9
+   1.4 Scope of the Research Work ........................................................................................................ 9
+   1.5 Research Methodology ................................................................................................................ 9
+   1.6 Analytical Framework to Assess the Migration Grievance Management System ...................... 11
+   1.7 Structure of the Research Report ............................................................................................... 13
+CHAPTER TWO ...................................................................................................................................... 15
+Unfrtsnfing The Context: Prevailing Adr Practices Under the Grievance Management System for
+Migrant Workers in Bangladesh ........................................................................................................... 15
+   2.1 MIGRANT WORKERS’ GRIEVANCE MANAGEMENT SYSTEM IN THIS STUDY ............................... 15
+   2.2 BMET—A FORMAL AUTHORITY FOR ENSURING MIGRANT WORKERS’ WELFARE IN
+   BANGLADESH .................................................................................................................................... 15
+       2.2.1 Alternative Dispute Resolution (ADR) for Migrant Workers at BMET ................................. 17
+       2.2.2 Strengths and Weaknesses of BMET ADR Practices ........................................................... 20
+   2.2 RMMRU—A Policy Research Institute for Enhanced Welfare of Migrant Workers at the
+   Grassroots Level ................................................................................................................................ 21
+       2.3.1 The RMMRU Approach to Migration Grievance Management: .......................................... 22
+       2.3.2 Alternative Dispute Resolution Process through Tier GMS ................................................. 24
+       2.3.3 Strengths and Weaknesses of the RMMRU ADR Practices .................................................. 26
+   2.4 WARBE- An Association of Returned Migrants for Advocating and Protecting Migrants’ Rights
+   .......................................................................................................................................................... 27
+       2.4.1 The WARBE Approach to Migration Grievance Management ............................................. 27
+       2.4.2 Strengths and Weaknesses of the WARBE ADR Practices ................................................... 29
+CHAPTER THREE .................................................................................................................................... 30
+Institutionalising Community Responses on Migration Dispute Resolution in Bangladesh ................. 30
+   3.1 Institutionalising Community Responses on Migration Dispute Resolution .............................. 30
+       3.1.1 Institutionalisation—Meaning and Process ......................................................................... 30
+       3.1.2          Community Involvement in Migration Dispute Resolution .......................................... 31
+   3.2: Approaches to Institutionalise Community Responses in the Migration Dispute Resolution
+   Process .............................................................................................................................................. 32
+       3.2.1 The Bottom-UP Approach to Integrate Community Responses .......................................... 32
+       3.2.2 Resolving Disputes under the Village Courts Act 2006: A Bottom-up Approach................. 34
+
+
+                                                                                                                                                              2
+       3.2.3 A Top-Down Approach to Integrate Community Responses: The Indian CPC in Perspective
+       ...................................................................................................................................................... 35
+   3.3 Institutionalising Community Responses to Migration Dispute Resolution in Bangladesh—A
+   Suggestive Model .............................................................................................................................. 37
+   3.4 Institutionalising Community Responses to the Migration Dispute Resolution Process in
+   Bangladesh—Prospects and Challenges ........................................................................................... 38
+CHAPTER FOUR ..................................................................................................................................... 40
+Bridging The Inclusion Gap to Access Gms —Sharing Experience From Selective Asian Countries ..... 40
+   4.1: Factors Inhibiting Migrant Workers’ Inclusion in the Grievance Management System ............ 40
+   4.2: Identification of Access Gap in the Context of Grievance Management for Migration Workers
+   in Bangladesh .................................................................................................................................... 42
+   4.3: Good Practices in Migration Grievance Management: Experience from Asia .......................... 43
+CHAPTER FIVE ....................................................................................................................................... 44
+A Comprehensive Migration Grievance Management System Integrating Community Responses: Role
+of Nalso and Mowca in Perspective ...................................................................................................... 44
+   5.1 NLASO—A Potential Organization for Creating Synergy in the Migration Dispute Resolution
+   Process .............................................................................................................................................. 44
+   5.2: Strengths and Weaknesses of NLASO ADR Practices ................................................................. 46
+   5.3 MoWCA- A Potential Big Player Ensuring Inclusion and Effective Grievance Management for
+   Female Migrant Workers .................................................................................................................. 47
+   5.4 An Integrated Grievance Management System Institutionalising Community Responses
+   Alleviating the Inclusion Gap through NLASO Legal Aid ................................................................... 49
+   5.5 Potential Inclusion of MoWCA Counseling Services to develop a pro-women Grievance
+   Management System for Migrant Workers in Bangladesh............................................................... 50
+CHAPTER SIX.......................................................................................................................................... 51
+Recommendations ................................................................................................................................ 51
+   6.1: Recommendations for an Inclusive and Effective Grievance Management System
+   Institutionalising Community Responses .......................................................................................... 51
+       6.1.1 Establish a Standing Committee for Dispute Resolution ..................................................... 52
+       6.1.2 Include Expatriate Representatives and Community Organizations in the Policy Forum ... 52
+       6.1.3 Strengthen Collaboration Between BMET and Grassroots Organizations .......................... 52
+       6.1.4 Provide Legal Aid Access for Returnee Migrant Workers .................................................... 52
+       6.1.7. Follow a Mediation Rule for a Commonly Shared Understanding of Procedural Details... 53
+       6.1.8. Develop a Theory of Change with Common and Shared Responsibilities Among
+       Stakeholders ................................................................................................................................. 53
+   6.2 Future Research Niche ................................................................................................................ 53
+REFERENCES .......................................................................................................................................... 54
+
+
+
+
+                                                                                                                                                              3
+           LIST OF POLICY, STATUTES, RULES & CONVENTIONS
+Overseas Employment and Migrants Act, 2013 [Bangladesh]
+Governs the fair recruitment process, protects migrant workers' rights, preventing fraud and
+exploitation, grievance redress mechanisms, and reintegration support for returning migrants
+to promote safe, orderly, and dignified migration.
+
+Overseas Employment and Migrants Management Rule 2017 [Bangladesh]
+The rule was established to regulate and facilitate overseas employment and ensure the welfare
+of migrants. It aims to create a transparent and efficient system for overseas labour migration
+while safeguarding the rights and interests of migrant workers serving abroad.
+
+Expatriates' Welfare and Overseas Employment Policy, 2016
+Focuses on ensuring safe, orderly, and regular migration, and protecting the rights of migrant
+workers.
+The Wage Earners’ Welfare Board Act, 2018
+Established the Wage Earners’ Welfare Board (WEWB) to support and assist Bangladeshi
+workers abroad and their families.
+International Labour Organization (ILO) Conventions:
+Bangladesh has ratified several ILO conventions, including:
+   ● ILO C-97: Migration for Employment Convention (Revised), 1949.
+   ● ILO C-143: Migrant Workers (Supplementary Provisions) Convention, 1975.
+Global Compact for Safe, Orderly, and Regular Migration (GCM), 2018:
+Bangladesh is a signatory to this non-binding agreement aimed at improving international
+migration governance.
+
+
+
+
+                                                                                             4
+                                         CHAPTER ONE
+
+
+                                  ABOUT THE RESEARCH
+
+
+1.1 Background of the Problem
+
+Bangladesh—a labour-surplus country, plays a significant role in the supply side of the global
+labour market1. Since 2000, over 200,000 people have migrated annually from Bangladesh as
+short-term contract workers, with this number steadily increasing 2. Notably, in 2007 alone,
+more than 800,000 individuals migrated to various countries across the globe3. The migration
+of Bangladeshi labourers, primarily to technologically advanced and economically developed
+countries, facilitates a valuable transfer of skills, ideas, and knowledge. It also fosters
+interpersonal networks, which contribute to the economic development of both home and host
+nations4. Remittances, in particular, serve as a critical measure of contribution by the migrant
+workers to home country development5. In 2022, global remittance flows amounted to $794
+billion, with $626 billion directed to low- and middle-income countries—approximately two
+and a half times the value of official development assistance to these nations6.
+
+Labour migration has been integral to Bangladesh's development strategy since 19767.
+However, it was only in the late 1990s that successive governments began recognizing the
+transformative potential of remittances, leading to various reforms in national migration
+policies. Despite these advancements, migration-related fraud remains pervasive. Every year
+the country loses nearly 2700 crore taka due to fraud and cheating in migration.8 Aspirant
+migrants frequently fall prey to exploitative practices by local agents and brokers, leaving them
+1
+  World Bank Group. ‘Bangladesh: A Step towards Better Employability’ (14 June 2017)
+<https://www.worldbank.org/en/news/feature/2017/06/14/a-step-towards-better-employability> accessed 12
+June 2024
+2
+  BMET (Bureau of Manpower, Employment and Training). ‘Overseas Employment and Remittances (1997-
+2023)’ <old.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=16> accessed 10 June 2024
+3
+  ibid
+4
+  M. Aslam Chaudhary and S. Near H. Hamden, ‘Return Migrants and International Transfer of Technology: A
+Case Study of Azad, Jammu and Kashmir’ (2002) 17(2) Journal of Economic Integration 339
+5
+  ‘Remittances are a private source of capital that’s over three times the amount of official development
+assistance (ODA) and foreign direct investment (FDI) combined. United Nations’, see Christine Nesbitt,
+‘Remittances matter: 8 facts you don’t know about the money migrants send back home’ (UN News, 15 June
+2019) <https://news.un.org/en/story/2019/06/1040581> accessed 18 May 2024; ‘Remittances are more than
+money: they encompass social capital, objects, ideas, values, and norms. They bring new attitudes toward
+learning, well-being and health-seeking behavior, gender roles, and political participation. ‘see also,
+SilkeMeyer, ‘Theorizing Remittances — Social Positioning and the Making of Migrant Subjectivity’ in Silke
+Meyer and Claudius Ströhle Remittances as Social Practices and Agents of Change (eds), (Palgrave Macmillan
+2023)
+6
+  World Bank/KNOMAD. ‘Remittances Brave Global Headwinds’ (2022) 37 Migration and Development Brief
+<https://www.knomad.org/sites/default/files/publication-
+doc/migration_and_development_brief_37_nov_2022.pdf> accessed 12 May 2024
+7
+  RMMRU. ‘The Case for Ratification: 1990 UN Convention on the Protection of Migrant Workers’ Rights’
+(Policy Brief no 3, Refugee and Migratory Movement Research Unit, 2007) Dhaka, P1.
+8
+  Owasim Uddin Bhuyan, ‘Bangladesh loses Tk 2,700cr annually due to cheating, fraud in migration ’ Business
+Insider (Bangladesh, 24 August 2022)
+<https://www.businessinsiderbd.com/economy/news/27186/bangladesh-loses-tk-2700cr-
+annually-due-to-cheating-fraud-in-migration> accessed 22 September 2024
+                                                                                                    Page 5
+vulnerable and often in dire circumstances9. A significant policy shift in 2006 resulted in a
+notable increase in the number of female migrants from Bangladesh 10. Within a decade from
+2009 to 2018 the percentage of female migrants to total migrants in Bangladesh raised from
+4.67 percent to 13.85 percent.11 While this marks progress toward gender inclusion in labour
+migration, it also highlights the need for more robust safeguards to protect migrants—
+particularly women—from exploitation, trafficking, and exploitation abroad. Comprehensive
+policy measures and stringent regulatory frameworks are essential to ensure that migration
+serves as a genuine tool for development and empowerment.
+
+Figure 1.1: Increasing trend of overseas workers’ remittance flow, in Bangladesh
+
+
+
+
+Source: BMET, "Statistics: Employment and Remittances (2004- October 2024)."12
+
+In comparison with their male counterparts, female migrant workers, especially those in low-
+paid, low-skill occupations, are among the most vulnerable groups during their migration
+tenure, often facing a range of special challenges for decent work and social protection.13 These
+issues include non-payment or irregular payment of wages, as well as physical, verbal, and
+even sexual exploitation. In many cases, women are compelled to escape abusive employers,
+
+9
+  Sadia Karim, ‘The Plight of Migrant Workers and the Reforms they Need’ The Financial Express, (Dhaka, 14
+Dec 2021)
+10
+   RMMRU. ‘Migration, Remittances, and Development’ (Policy Brief no 4, Refugee and Migratory Movement
+Research Unit, 2008) Dhaka, P1
+11
+   Heila Sha and Mohammad Rashed Alam Bhuiyan, ‘“Amar beton khub e kom": The Role of Commercial
+Recruitment Intermediaries in Reinforcing Gendered and Racialised Inequalities’ (2022) 5(1&2) The Journal of
+Critical Global South Studies 164
+12
+   BMET, ‘Overseas Employment & Remittances (1976-2023) ’
+<old.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=24
+13
+   Mary Romero, and Nancy Pérez, ‘Conceptualizing the Foundation of Inequalities in Care Work’ (2016) 60(2)
+American Behavioral Scientist 172; see also, Janice Joseph, ‘The Plight of Female Migrant Domestic Workers
+in the Gulf States’ In Mally Shechory, Sarah Ben David and Dan Soen, (eds.) Who Pays the Price? (Nova
+Science Publishers 2010); see more, IOM and CREST, Addressing Women Migrant Workers Vulnerabilities in
+International Supply Chains <https://roasiapacific.iom.int/sites/g/files/tmzbdl671/files/documents/addressing-
+women-migrant-worker-vulnerabilities.pdf> accessed 20 December2024
+                                                                                                       Page 6
+only to find themselves in even more precarious situations. Such runaways are often
+apprehended by predatory groups, exposing them to further exploitation. One earlier study
+revealed an alarming finding that 90 percent of female domestic workers return with various
+forms of mental stress or trauma, while another 44 percent of female migrant workers face
+food, water, and sleep deprivation causing mental disorders along with other physical pain and
+diseases.14 Mental stress on physical and sexual exploitation at workplaces may haunt female
+migrants even long after their return. Such stresses are even exacerbated through social stigma
+and cause a permanent deprivation of their well-being, if not treated early.15 A lowered sense
+of self-worth may lead them to remain silent about the event instead of pursuing justice through
+available channels.16
+
+While well-planned recruitment processes could mitigate these hazards, the exploitative
+practices of unscrupulous, profit-driven manpower sub-agents in Bangladesh perpetuate this
+vicious cycle of deprivation.17 Social stigmas, the exorbitant costs of litigation, and the absence
+of accessible alternative dispute resolution (ADR) mechanisms exacerbate the plight of these
+migrants, leaving them both economically disempowered and socially marginalized.18 This
+highlights an urgent need to develop an effective ADR scheme tailored to resolving migration
+disputes in Bangladesh.
+
+Given the significant number of labourers migrating from Bangladesh annually, the Bureau of
+Manpower, Employment, and Training (BMET) shoulders a monumental responsibility. Its
+mandate includes processing foreign labour demands, identifying new employment markets,
+regulating private recruiting agents, issuing emigration clearances, and providing institution-
+based vocational training in employable trades.19 Despite these extensive duties, BMET is also
+tasked with resolving disputes when migrant workers are exploited by local agents or overseas
+employers.20 Therefore, it is often claimed by stakeholders that the centralized BMET dispute
+resolution system at Dhaka is struggling to meet the demand of a burgeoning number of
+disputes with an increasing number of migrant workers each year.
+
+The challenges faced by BMET underline the pressing need for a robust, accessible, and cost-
+effective dispute resolution system. Such a system would not only address the grievances of
+migrant workers but also institutionalize community-driven solutions to migration-related
+disputes. This chapter aims to underscore the importance of such an ADR framework,
+
+14
+   OKUP, ‘Living with Violence: Mental Health Consequences of Women Migrant Workers’ (2010) Migrants’
+Rights are Human Rights (Special Issue, 10 December 2021) < https://www.okup.org.bd/wp-
+content/uploads/2021/12/Living-with-Violence-Mental-Health-Consequences-of-Women-Migrant-Workers-
+2.pdf> accessed 12 December 2024
+15
+   Ibid; see also, Lawton K. Swan, Martin Heesacker, and Kelly M.King, ‘Are some descriptions of
+psychotherapy perceived as more (or less) stigmatizing than others? A preliminary investigation’ (2016) 1(4)
+Stigma and Health 263
+16
+   Rachel A. DiComo, and Matthew Mychailyszyn, ‘The Relationship Between Stigma and Helping-
+Seeking Behaviors Among Refugee, Asylum Seeker, Immigrant (RASI) Populations Specifically of
+Muslim Origin’ (2021) 15(2) Journal of Muslim Mental Health 1
+17
+   Ashraful Azad, ‘Recruitment of Migrant Workers in Bangladesh: Elements of Human Trafficking for
+Labour Exploitation’(2018) 5(2) Journal of Human Trafficking 1
+18
+   UNRBHR, ‘Justice in a Mobile World: Removing barriers to remedy for migrant workers’ Penal
+Discussion (online, 25 September 2024) < https://www.rbhrforum.com/justice-mobile-world> accessed 30
+November 2024
+19
+  BMET, ‘Major Functions’ < https://old.bmet.gov.bd/BMET/aboutAction> accessed 22 November 2024
+20
+  Aminul Haque Tushar, ‘The Migration Grievance Redress Mechanism’ The Financial Express (Online, 19
+January 2019) < https://thefinancialexpress.com.bd/views/analysis/the-migration-grievance-redress-mechanism-
+1547821416> accessed 20 November 2024
+                                                                                                      Page 7
+addressing a critical gap in the protection and empowerment of Bangladeshi migrant workers,
+particularly women.
+
+1.2. Rationale of the Study
+
+A detailed analysis of field-level survey data gathered by RMMRU from 5,400 migrant
+households reveals a concerning reality: half of these labourers reported experiencing some
+form of fraud during their migration attempts (see Figure 2). This pervasive exploitation
+highlights systemic vulnerabilities in the migration process and underscores the critical need
+for comprehensive reforms. To protect migrant workers and uphold their rights, existing
+dispute resolution mechanisms must be restructured to ensure they are not only accessible but
+also effective in addressing these systemic challenges. A robust and inclusive framework is
+essential to dismantle exploitative practices and provide migrant labourers with the justice and
+support they deserve.
+
+Table 1.1: Resolution of Migration Disputes at BMET, 2022-23
+ Complaints received            Complaints resolved         Compensation recovered
+             3044                      693 (22.77%)              Tk. 4,30,02,390
+Source: BMET Annual Report, 2022-23
+The data in Table 1.1 exposes a weaker grievance management system with a very low rate of
+resolution. This stark contrast underscores a critical shortfall in the formal grievance
+mechanism established by BMET. While the system may appear robust on paper, its practical
+reach and impact still remain low. The statistic explored through a RMMRU survey further
+clarified the issue.
+Figure 1.2: Different forms of migration fraud experienced in Bangladesh
+60%         Not experienced                                         Could not migrate
+40%
+                                          Experience fraud
+20%
+
+ 0%
+                  49%                          19%                           32%
+
+Source: RMMRU
+
+Currently, with the absence of any structured framework, migration and overseas employment-
+related disputes may be resolved in three ways. It could be a formal process through BMET.
+The ADR process remains formal with BMET, which is a formal authority and conducts
+arbitration following relevant sections of OEMA 2013 and Rule 2017. BMET may also conduct
+the mediation in the shadow of the relevant laws mentioned above. However, as indicated in
+earlier studies, most of the migration contracts in our country are arranged through migration
+brokers who work at the grassroots level. Therefore, these informal agents may remain out of
+the purview of a migration dispute resolution system if they cannot be presented before an
+informal dispute resolution mechanism in their village or other remote areas where it is hard
+for formal authorities to reach their control.
+
+To address the challenges, RMMRU has developed a community-based grievance management
+approach titled Grievance Management System (GMS), which incorporates Alternative
+
+                                                                                         Page 8
+Dispute Resolution (ADR) through a three-tier committee structure to resolve migration-
+related disputes locally. Over the years it has conducted several mediations in three districts of
+Bangladesh and helped to recover almost 4.5 crore taka for the affected migrants and family
+members. The BMET also plays a vital role in supporting migrant workers, particularly in
+grievance management. It has decentralized its grievance management system by extending
+services to District Employment and Manpower Offices (DEMOs).
+
+By documenting best practices and identifying challenges, this study aims to offer actionable
+recommendations to improve transparency, accountability, and the overall effectiveness of
+grievance management and ADR systems for migrant workers in Bangladesh.
+
+1.3 Objectives of the Research
+
+   ● Examine the strengths and weaknesses of two existing ADR practices of BMET and
+     NLASO.
+   ● Examine the strengths and weaknesses of the mediation practices of WARBE and
+     RMMRU.
+   ● Develop recommendations to improve all types of ADR practices for resolving
+     migration grievances and explore opportunities to institutionalise the community
+     response.
+
+1.4 Scope of the Research Work
+
+The Consultant/Researcher will be responsible for the following tasks.
+   ●   Literature Review: Examination of ADR practices for resolving migration disputes in
+       Bangladesh and similar contexts worldwide focusing on migrants’ legal rights
+   ●   Data Collection and Analysis: Conduct interviews, focus group discussions, and
+       surveys involving key stakeholders, including GMC members, NLASO, MLAA,
+       BMET, WARBE, and migrant workers. Special attention will be given to gender-
+       specific challenges faced by women and marginalized genders.
+   ●   Sharing Good Practices: Study grievance management systems in labour-exporting
+       countries, such as Sri Lanka, Philippines, and Nepal, to identify the scope of
+       improvement of grievance management system
+   ●   Evaluation of Local Networks: Review the operation of arbitration/ mediation
+       networks and analyse grievance reduction impact through RMMRU, WARBE, BMET
+   ●   Suggest Improvements: Based on Good Practices sharing from Asia recommend the
+       inclusion of other potential stakeholders e.g. NLASO legal aid and MoWCA services
+       to improve the Grievance Management System for Migrant workers in Bangladesh
+
+1.5 Research Methodology
+
+This socio-legal research seeks to address the pressing issue of migration disputes by
+developing effective legal solutions rooted in evidence and practical applicability. To achieve
+this, a robust mixed-method approach will be employed, combining quantitative and qualitative
+                                                                                           Page 9
+insights. Quantitative data, drawn primarily from authoritative sources such as government
+statistics and published reports, will provide a solid empirical foundation. Additionally, critical
+insights from unpublished NGO data and Key Informant Interviews will enrich the analysis,
+provided such information is accessible. For instance, the strengths and weaknesses of the
+dispute resolution process followed by various government and non-government organizations
+involved with migration workers will be highlighted by juxtaposing their respective models
+with the IOM operational guideline for dispute resolution depicted in Figure 1.3.
+Qualitative research will delve deeply into existing laws and dispute resolution practices in
+Bangladesh while exploring innovative ADR models successfully implemented in South and
+East Asian countries like the Philippines. By leveraging desk reviews, and Key Informant
+Interviews (KII) with stakeholders this study goes beyond theoretical frameworks to offer
+actionable recommendations. Though the Madaripur Legal Aid Association (MLAA) is
+working with community mediation and Village Courts, only less than five percent of total
+disputes dealt with by MLAA comprise migration issues.21 Therefore a detailed MLAA
+mediation procedure is not discussed in this research. Nevertheless, the successful MLLA
+mediation model has a close similarity with the RMMRU migration mediation model, as
+initially, RMMRU built their model as a shadow of MLLA mediation model.22
+Figure 1.3: Operational Guidelines for Businesses on Remediation of Migrant Worker
+Grievances
+
+
+
+
+     Source: IOM, Malaysia, https://mbhr.iom.int/en/resources/tools/operational-guidelines-
+     businesses-remediation-migrant-worker-grievances
+This comprehensive, multi-layered methodology not only ensures the validity of the research
+but also positions it as a transformative step towards fair migration practices in Bangladesh. To
+ensure the findings are both credible and contextually relevant, insights are gathered from ADR
+practitioners in grassroots organizations, legal scholars, BMET arbitrators, and other
+
+21
+   Jamila A Chowdhury, Phone Interview with Khan Md. Shahid, Chief Coordinator and Mediator (Madaripur
+Legal Aid Association, 27 January 2025)
+22
+   Jamila A Chowdhury, Phone Interview with Ms Marina Sultana, Program Director (RMMRU, 25 January
+2025); See more, Madaripur Legal Aid Association, Mediation Manual (MLLA, March 2004)
+                                                                                              Page 10
+government officials involved in migration dispute resolution, and recommendations are made
+in a way that aligns with Bangladesh’s socio-economic realities.
+
+1.6 Analytical Framework to Assess the Migration Grievance Management System
+
+The Grievance Management System for migrant workers is operated by various government
+and non-government participants in combination, their respective contributions and strengths
+and weaknesses are assessed in this study using the analytical framework as shown in Figure
+1.4 below. Grievance management typically refers to the process by which an organization
+addresses complaints or concerns raised by its employees, clients, or stakeholders. These
+grievances may involve dissatisfaction with working conditions, policies, or management
+actions, but they do not always escalate into formal disputes. Effective grievance management
+plays a critical role in preventing conflicts from becoming formal disputes. By addressing
+concerns early and offering a clear path for stakeholders to express their issues, organizations
+can often resolve matters before they escalate into major conflicts. However, in this context of
+migration a Grievance Management System must begin at the pre-departure stage and extend
+well beyond the workers' return. It continues until meaningful rehabilitation and reintegration’s
+into society are achieved, ensuring that migrant workers are not only heard but supported in
+their journey toward justice and social restoration. The purpose is to minimize their grievance
+as much as possible, not only manage the grievance from escalation.
+Figure 1.4: Migration Grievance Management Continuum
+
+
+
+    Inter           Social              INCLUSI        Counseling;     Legal Aid;       Social
+  national         Awareness                            Therapy       Legal Advice   Reintegration
+                                          ON
+ Conventions
+                      Pre-                             INFOR QUASI FORM COUR          Alternate
+  National
+
+
+
+                                   ACCESS TO JUSTICE
+                   Migration                            MAL FORM AL        T            Income
+  Laws and                                                                            Generation
+   Rules          Screening &                           ADR   AL    ADR TRIAL
+                  Workshops                            RMMR ADR- NLAS     &           Link with
+ Research &                                              U, BMET, O, CPC DECR            Govt.
+  Capacity            Skill                            WARB VC            EE           Welfare
+  Building                                               E
+                     Training                                                          Facilities
+
+   Prevention        Precaution                               Resolution              Rehabilitation
+          Pre-Departure            Post-Departure                          or           After Return
+
+The Migration Grievance Management Continuum, as illustrated in Figure 1.4, clearly
+demonstrates the interconnected roles of government and non-government organisations in
+fostering a safe migration environment and minimizing fraud and associated grievances among
+migrant workers. This continuum illustrates that the protection of migrant workers, or aspiring
+migrant workers, against fraud, is achieved through a robust framework of national and
+international laws, as well as the promotion of best practices within the sector. Grassroots
+organizations, along with national and international NGOs, play a pivotal role in pre-departure
+grievance management through advocacy. Their efforts drive the enactment or amendment of
+migration laws and the ratification of international conventions that safeguard migrant workers'
+                                                                                              Page 11
+rights. Such legal frameworks are instrumental in shielding workers from fraudulent activities
+or preventing misconduct by recruiting agents, thereby reducing the likelihood of grievances
+and ensuring a more secure migration process.
+
+The protection of migrant workers from fraudulent activities remains incomplete unless
+potential migrant workers, particularly those aspiring to work abroad, are fully aware of their
+rights and equipped with the necessary skills for their employment. Ensuring careful scrutiny
+of pre-departure documentation is crucial in minimizing fraud and preventing the grievances
+that often arise while workers are abroad. Without such precautionary measures, poorly crafted
+migration contracts can entrap workers into inhumane working and living conditions, forcing
+them to return home prematurely. To mitigate these risks, many organizations conduct pre-
+departure workshops that educate aspiring migrant workers about their rights, provide
+emergency contact information, and offer guidance on navigating potential challenges abroad.
+These proactive, preventive measures at the pre-departure stage are essential in reducing the
+likelihood of grievances during the migrant worker's time abroad. However, even after their
+return, unresolved issues may persist unless they are properly addressed through available
+dispute-resolution mechanisms. Without such intervention, these grievances can continue to
+affect the lives of migrant workers long after they have returned home.
+
+When returnee migrant workers return to their local communities to reunite with family and
+friends and share their grievances against migration sub-agents etc., disputes often arise,
+prompting resolution efforts by grassroots organisations. These initiatives are typically
+informal, as these organisations are not legally mandated to provide dispute resolution services.
+However, when these grassroots’ efforts fall short, migrant workers can turn to semi-formal or
+quasi-formal dispute resolution mechanisms, such as the Bureau of Manpower, Employment,
+and Training (BMET). BMET, which has a legal mandate to resolve migration-related disputes,
+conducts these resolutions in a more formal setting, but outside the court system. If BMET’s
+efforts prove unsuccessful, workers can seek redress through formal courts, and in some cases,
+BMET may refer disputes to criminal courts for further trial. Moreover, Section 28 of the
+Overseas Employment and Migrants Act, 2013 allows aggrieved workers to pursue civil suits
+under the Civil Procedure Code (CPC), in addition to criminal cases.
+
+However, despite these avenues for resolution, there is no guarantee that aggrieved workers
+will have access to these forums. Subjective and objective barriers—such as high legal costs,
+delays in processing, social stigma, mental stress or trauma, and lack of legal aid—often
+prevent workers from pursuing their grievances. Though counseling service or therapy, and
+legal advice are provided by a number of NGOs including Ahsania Mission, OKUP, CCDA,
+and BRAC to physically exploited female migrant workers; this service is not yet
+institutionalized in the overall grievance management framework, rather provided in an ad-hoc
+basis. As a result, many issues remain unresolved, leaving migrant workers without proper
+recourse, and their grievances continue to go unnoticed. The grievances of migrant workers
+may never be fully resolved, even after exhausting all available forums, if the worker perceives
+the outcome as unfair. Ultimately, migrant workers migrate with the goal of improving their
+livelihoods, so rehabilitation efforts must go beyond procedural formalities in the grievance
+management process. These initiatives need to offer tangible, impactful alternatives that
+enhance the well-being of returnee migrant workers. This can be achieved through targeted
+skill training, entrepreneurship development, and direct access to essential government welfare
+services.
+
+
+
+                                                                                         Page 12
+While rehabilitation may not address criminal offenses or provide restitution for personal
+injustices, it can still play a crucial role in alleviating other civil liabilities and offering a
+meaningful path toward economic empowerment and social reintegration. By providing
+workers with the tools they need to rebuild their lives, rehabilitation becomes an integral part
+of the grievance management process, helping to restore dignity and opportunity to those
+affected. Therefore, this study, as outlined in the title, focuses on the migration grievance
+management systems implemented by grassroots organizations. These organizations play a
+pivotal role in addressing the grievances of migrant workers through various means. However,
+in line with the specific objectives of the research, an in-depth analysis of the Alternative
+Dispute Resolution (ADR) systems employed by these organizations forms the core of this
+study, along with an evaluation of their strengths and weaknesses. This analysis aims to
+uncover effective practices, identify areas for improvement, and provide recommendations for
+enhancing the support systems available to migrant workers.
+
+Expected Outcome
+   ● Recommendations to institutionalise migration mediation model within the Village
+     Court
+   ● Recommendations to set a dedicated women-focused mediation mechanism under the
+     Department of Women Affairs, Ministry of Women and Children Affairs
+   ● Recommendations to decentralise the arbitration system of BMET at the community
+     level more effectively
+   ● Policy suggestions aimed at strengthening governance frameworks and accountability
+     mechanisms to institutionalize the community-driven grievance management system
+
+1.7 Structure of the Research Report
+
+The final report, structured into six comprehensive chapters, aims to provide actionable insights
+into improving the grievance management system for migrant workers in Bangladesh. The
+introductory chapter sets the stage by addressing the critical gaps in the existing system,
+underscoring the necessity of fresh research to emphasize stakeholder collabouration for
+institutionalising community responses and improving the social welfare of migrant workers.
+It details the research objectives, methodology, and expected outcomes, and ultimately
+concludes with a roadmap for navigating the report’s findings and recommendations.
+Chapter Two delves into the current Alternative Dispute Resolution (ADR) practices of BMET,
+a pivotal player in migration dispute resolution, alongside key organizations like RMMRU and
+WARBE. By analysing their mediation processes through desk reviews and empirical data, the
+chapter identifies their strengths and uncovers weaknesses—chiefly, the fragmented efforts
+that undermine community voice and participation in resolving migration disputes. This sets
+the stage for a compelling case for a more unified approach to resolving migration disputes in
+Bangladesh.
+To address these challenges, Chapter Three proposes pathways for embedding community
+responses into the dispute resolution process. Drawing from successful examples within
+Bangladesh and across Asia, it offers a robust theoretical and practical framework for
+institutionalizing these efforts. The chapter culminates in a suggested model for an effective
+National Referral Mechanism, ensuring community voices are systematically integrated into
+the dispute resolution ecosystem.
+Recognizing the interplay between grievance management and dispute resolution, Chapter
+Four shifts the focus to factors that inhibit migrant workers from engaging in the process. Issues
+                                                                                          Page 13
+such as social stigma, economic barriers, and gendered power disparities are critically
+examined, supported by insights from countries like Sri Lanka, the Philippines, and Vietnam.
+This chapter highlights innovative tools and strategies to overcome these challenges, paving
+the way for a more inclusive and effective system.
+Building on these insights, Chapter Five explores the integration of NLASO and MoWCA
+activities into the grievance management framework. It emphasizes the long-term destabilizing
+effects of unresolved grievances and discusses the transformative potential of incorporating
+these mechanisms into the system. The chapter also considers the challenges and implications
+of such an integration, offering a nuanced perspective on its feasibility and impact.
+Finally, the report concludes with a forward-looking integrated model to institutionalize
+community-driven grievance management. Chapter Six presents recommendations that include
+embedding migration mediation within Village Courts, decentralizing BMET’s arbitration
+processes to community levels, introducing women-focused pre-mediation support under the
+Ministry of Women and Children Affairs, and strengthening governance frameworks through
+need analysis, capacity assessment, and developing a theory of change. These policy
+suggestions are designed to not only address current gaps but also establish a sustainable,
+accountable, and inclusive grievance management system for migrant workers in Bangladesh.
+By weaving together practical recommendations, theoretical insights, and cross-country
+comparisons, this report aspires to redefine how migration-related grievances are managed,
+fostering more resilient and institutionalized community involvement in the migrant workers’
+dispute resolution and grievance management process.
+
+
+
+
+                                                                                     Page 14
+                                    CHAPTER TWO
+
+
+  Unfrtsnfing The Context: Prevailing Adr Practices Under the Grievance
+         Management System for Migrant Workers in Bangladesh
+
+2.1 MIGRANT WORKERS’ GRIEVANCE MANAGEMENT SYSTEM IN THIS
+STUDY
+
+The grievance management system for migrant workers in Bangladesh involves a collaborative
+effort between various government, non-government, and international partner organizations,
+all working toward the ultimate goal of maximizing the welfare of migrant workers by
+minimizing grievances throughout the migration process. Among the numerous government
+ministries and departments engaged in labour migration, the Bureau of Manpower,
+Employment, and Training (BMET) under the Ministry of Expatriates' Welfare and Overseas
+Employment (MoEWOE) stands out as the key organization leading practical changes in this
+sector. Within the NGO and civil society sector, a few key partners, such as the Refugee and
+Migratory Movement Research Unit (RMMRU) and WARBE play a central role in addressing
+migrant worker grievances, and their activities are highlighted in this study. While these two
+organizations are emphasized, it is important to acknowledge that the contributions of other
+similar organizations also remain crucial to the ongoing development of the migration sector
+in Bangladesh. As discussed in Chapter One, while the overall Grievance Management
+Systems (GMS) of various key stakeholders are detailed in this chapter, the primary focus is
+on the Alternative Dispute Resolution (ADR) systems employed by these organizations. As
+discussed in Chapter One, ADR is a part of GMS and the success of ADR and GMS are
+interlinked. This study delves into the strengths and weaknesses of these ADR systems,
+providing a comprehensive analysis of how they impact the grievance management process
+and contribute to the broader goal of safeguarding migrant workers' rights and welfare. Further,
+though this study analysis touched the base of network activities between international
+organizations with grassroots NGOs, a detailed discussion on the impact of such activities on
+grievance management remains out of the scope of this assignment.
+
+2.2 BMET—A FORMAL AUTHORITY FOR ENSURING MIGRANT WORKERS’
+WELFARE IN BANGLADESH
+
+The Ministry of Expatriates' Welfare and Overseas Employment (MoEWOE) is the key
+government wing to take care of migrant workers and their welfare issues in Bangladesh.
+Nevertheless, at present the ministry remains the ultimate authority for planning and
+implementation of fair migration policies while BMET remains a key implementing agency of
+MoEWOE to oversee, regulate, and implement ministerial policies in this regard. Therefore,
+receiving complaints and resolving migration-related disputes are also part of the functions
+conducted by BMET.
+BMET was established as an attached department of the then Ministry of Manpower
+Development and Social Welfare in 1976. The Government of the People's Republic of
+Bangladesh established BMET to recruit and send migrant workers overseas. At present,
+BMET is engaged in the overall planning and implementation of the strategies for regulating
+the migration process, promoting migrant workers' rights and skill development proper
+
+                                                                                        Page 15
+utilization of migrant workers of the country. It is contributing immensely to the government
+services for migrant communities, job seekers, and other stakeholders.
+Figure 2.1: Disposal of Migration Disputes and Realization of Compensation at BMET
+ 6                                                                                                                     2500
+
+ 5                                                                                        4.87
+                                                                                                                       2000
+
+
+
+
+                                                                                                  Number of Disputes
+                                                                                          crore
+ 4
+                                                                                                                       1500
+
+
+      Crore Taka
+ 3                  2.56 crore
+                                  2.4 crore
+                                                 1.82 crore                                                            1000
+ 2
+                                                                     1.6 crore                                         500
+ 1
+
+ 0                                                                                                                     0
+                   2019          2020            2021                2022              2023
+
+                                  Compensation          Complaints          Settled
+
+
+Considering the number of labourers who migrate from Bangladesh each year, the volume of
+work performed by BMET is enormous. This bureau is assigned to processing foreign demands
+for Bangladeshi workers, seeking prospective labour markets for Bangladeshi workers, and
+regulating and monitoring private recruiting agents. It also controls and holds emigration
+clearance for recruited workers in overseas employment, providing institution-based vocational
+and technical training in different employable trades. Over and above, the agency is still
+assigned to resolve disputes when migrant labourers are deprived by their local migration
+agents or overseas employers.
+As demonstrated in Figure 2.1 above, both the number of migration-related complaints and the
+amount of compensation realized through the BMET dispute resolution process increased over
+the year. For instance, as depicted in the right vertical axis the number of complaints received
+by BMET increased from a value below 800 to around 2400 in 2023. Against this threefold
+increase in the number of complaints received at BMET, the amount realized through BMET
+dispute resolution over the years also increased more than proportionately. As indicated in the
+left vertical axis, the amount realized increased from 2.56 crore in 2019 to 4.87 crore in 2023.
+This positive trend sets in especially after 2022. A closer look however indicates that the
+number of unresolved pending cases is also increasing at BMET. However, one major
+limitation of BMET resolution of migration disputes is that the rules of disposal and their
+respective authorities are clearly defined and remain very brief.23 Therefore, in this chapter,
+we have suggested some possible improvements in the BMET dispute resolution system and
+possibilities for close cooperation with other civil service organizations dealing with similar
+disputes in Bangladesh. A similar has been urged by IOM in 2020.24
+Under the current legal framework in Bangladesh migration and overseas employment-related
+disputes in Bangladesh may be resolved in three ways. It could be a formal process through
+BMET. The ADR process remains Quasi-formal with BMET, which has the legal authority to
+resolve migration labour disputes following section 41 of OEMA 2013 and rule 15 of the
+
+23
+   IOM, Bangladesh ‘THE IMPLEMENTATION OF BANGLADESH’S OVERSEAS EMPLOYMENT AND
+MIGRANTS ACT OF 2013 AND THE PREVENTION AND SUPPRESSION OF HUMAN TRAFFICKING
+ACT OF 2012’ Policy Brief (January 2020) <https://publications.iom.int/system/files/pdf/policy-brief-on-
+eoma.pdf> accessed 20 November 2024
+24
+   ibid
+                                                                                                     Page 16
+Overseas Employment & Migration Management Rules 2017. Further, though there is no
+formal framework for involvement yet BMET may collaborate with other NGOs and civil
+society organizations involved in the informal resolution of migration disputes. It may also
+recourse to other quasi-formal processes such as Village Courts or NLASOs to accelerate the
+dispute resolution process and enhance community justice against migration frauds before
+advising clients to file cases in the relevant subordinate courts of Bangladesh. All these
+possibilities and their possible linkages will be discussed in this chapter.
+2.2.1 Alternative Dispute Resolution (ADR) for Migrant Workers at BMET
+
+BMET in Bangladesh has a dispute resolution process to address conflicts or grievances arising
+in the context of migration, particularly regarding overseas employment. This mechanism is
+designed to protect the rights of migrant workers and ensure accountability from recruitment
+agencies and other stakeholders involved in the migration process. The process is designed to
+provide a legal and structured mechanism to help migrant workers seek justice or appropriate
+compensation. BMET dispute resolution process starts with receiving complaints from
+defrauded or aggrieved migrant labourers and ends with a follow-up of the resolved disputes.
+a) Filing of Migration Relayed Complaints at BMET
+According to Section 4.1 of the Overseas Migration and Employment Act 2013, any victim
+may file a complaint along with other allegations to the Government against any person
+including a recruiting agent for fraud, receiving money illegally, or violation of the
+employment contract. Section 2.9 of the Overseas Migration and Employment Act 2013 further
+defined fraud as to deceive induce or mislead by deliberate or irresponsible speech, action,
+conduct, written agreement, or document as to an event or law, and any deception caused
+based on the willingness of the deceptor or any other person and includes the expression
+"fraud" as is defined in section 17 of the Contract Act, 1872 (Act No. IX of 1872)25. Moreover,
+according to Section 22(2) of the Overseas Migration and Employment Act 2013 the recruiting
+agent shall be deemed to be the representative of the foreign employer, and the recruiting agent
+and the employer shall be jointly and individually responsible for the contractual obligations.
+Section 29(3) imposes an additional responsibility on recruiting agents that if a migrant worker
+is in distress due to negligence or illegal activities of a recruiting agent, the Government may
+direct the concerned recruiting agent to bear the cost of repatriation of the emigrant worker.
+Therefore, issues of complaints to BMET may include
+   ● Fraudulent and unethical recruitment practices
+   ● Breach of contract by recruitment agencies or overseas employers
+   ● Failure to provide promised salaries, benefits, or working conditions,
+   ● Any exploitation, harassment, abuse, or misconduct experienced, especially by the
+       female worker, during their stay abroad
+
+
+
+
+25
+  According to Sec 17 of the Contract Act 18"Fraud" means and includes any of the following acts
+committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another
+party thereto or his agent, or to induce him to enter into the contract:-
+(1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true;
+(2) the active concealment of a fact by one having knowledge or belief of the fact;
+(3) a promise made without any intention of performing it;
+(4) any other act fitted to deceive; and
+(5) any such act or omission as the law specially declares to be fraudulent.
+                                                                                                   Page 17
+Migrant workers can lodge complaints at BMET offices, overseas welfare desks, or online
+platforms. Once a complaint is received the further task is to investigate the matter and verify
+documents to check the genuineness of the complaint.
+b) Preliminary Investigation and Documentation Review: While filing a complaint aggrieved
+person has to submit a number of documents such as a Copy of a National ID or Passport for
+identification, an Employment Contract as proof of employment, Visa, NOC or Work Permit
+(if applicable), any correspondence with the employer or recruitment agency e.g. emails,
+letters, audio/video recording, etc., any proof of payment or remittance i.e. evidence of
+financial transactions with the agent or agency, and Police reports or legal documents (if the
+complaint involves criminal issues). Upon receiving a complaint, BMET carries out a
+preliminary investigation to verify the worker’s claims. BMET may contact the recruitment
+agency, foreign employers, or relevant stakeholders to gather information and confirm the
+nature of the dispute. It reviews the migrant worker’s contract, recruitment documents, and
+other evidence to determine whether the employer or recruitment agency has violated any legal
+or contractual obligations. If a violation is found, BMET can proceed with further steps to
+resolve the issue.
+c) Dispute Resolution through Arb-Med-Arb at BMET: The Overseas Migration and
+Employment Act 2013 briefly discussed the dispute resolution process to be followed in
+resolving disputes between a recruitment agency and its agent. According to Section 41 of the
+act for any fraud committed by the recruiting agent, receiving money illegally, or violation of
+the employment contract an aggrieved worker may file a complaint to the Government. As the
+Government authorized BMET to deal with such complaints, BMET is the government
+authority that takes the initiative to resolve such complaints.
+
+
+
+
+                                                                                        Page 18
+Figure 2.2: BMET Dispute Resolution Process
+
+
+
+                                        Complaint Received
+
+            Complainant                                                Recruitment
+              worker                        Investigate                   Agent
+
+
+                                   Gather Evidence to veify
+                                         complaint
+
+
+
+                                        Invite to arbitration
+
+
+
+              Recruitment agent found               Arbitration decision
+                      at fault      Complaint Lodged cannot be reached
+
+       Agent                Agent              Agreement         Arrange               NO
+      agrees to           refuses to            Reached         Mediation           Agreement
+     reimburse            reimburse
+
+                                               Cost Refunded
+  Cost Refunded                                 by the agent            Conduct            Request
+                           Deduction
+   by the agent                                                           further           further
+                              from
+                                                                        investiga          evidence
+                            security
+                                                                            tion             from
+                           to pay the
+                                                                         through             both
+                              party
+                                                                          DMEO              parties
+
+
+                                                                            Arrange Arbitration
+
+                   DISPUTE SETTLED
+                                                                         Recruitment agent found
+                                                                                 at fault
+
+
+                                                                    MoEWOE              Deduction
+                                                                   with DEMO              from
+                  MEWOE/BMET                   Court                 or local            security
+                   Records the             judgment and             Police file          deposit
+                    outcome                   penalty                criminal
+                                           against agent               case
+                                            found guilty
+
+
+
+
+                                                                                                Page 19
+According to Section 41(2) and 41(3) of the Overseas Migration and Employment Act 2013,
+BMET has to complete an investigation of any complaint within 30 days of its receipt and has
+to settle the complaint through arbitration or directly through executive order within 3 months
+from the date of completion of such investigation.
+As indicated in Figure 2.2 above, once preliminary investigation indicates the cognizable
+grounds for lodging a complaint, BMET proceeds with an invitation of arbitration to both the
+aggrieved worker and the concerned agent. Such arbitrations are usually held at the BMET
+office in Dhaka. If the arbitration tribunal finds a recruiting agent guilty of committing fraud or
+receiving money illegally it may order the agent to reimburse the money taken illegally or
+fraudulently from the aggrieved worker. As mentioned earlier, making such an order is
+permitted under Section 41.3 of the Overseas Migration and Employment Act 2013. A dispute
+is settled if the concerned agent agrees to reimburse accordingly. According to Rule 11.5 of
+the Foreign Employment and Migrant (Recruiting Agent License and Conduct) Rules, 2019
+recruiting agents shall abide by the arbitration decision made under Section 41.3 of the Act
+mentioned above. Therefore, in cases, where recruiting agents refuse to pay, BMET may deduct
+the required money from the security deposit maintained by recruiting agents during their
+registration.
+However, if due to lack of evidence or otherwise any dispute cannot be resolved through
+arbitration BMET may invite the disputant parties to settle amicably through mediation. The
+dispute is settled once an agreement is reached through mediation and the amount is reimbursed
+by the recruiting agent to the aggrieved migrant worker. However, if parties fail to reach an
+agreement through mediation, BMET arranges further rigorous investigation through the
+District Employment and Manpower Office (DMEO) at the concerned district and asks parties
+to submit further evidence (if required) based on the Bureau inviting parties to attend a final
+award arbitration. If the arbitral tribunal finds a recruiting agent guilty, the required amount for
+reimbursement is deducted from their security deposit. According to Section 3 of the Overseas
+Migration and Employment (Amendment) Act 2023 any penalty not less than Tk.50,000 and
+not greater than Tk. 200,000 may be imposed on a recruiting agent guilty of committing such
+an offense in violation of Rule 11 of the Overseas Employment and Migrant (Recruiting Agent
+License and Conduct) Rules, 2019. However, in case of criminal matters BMET along with the
+Ministry of Expatriate’s Welfare and Overseas Employment (MoEWOE) file cases against
+concerned recruiting agents or transfer the complaint to the local police station for filing a
+police case. According to Section 41.1 of the Overseas Employment and Migration Act 2013
+aggrieved parties also have a right to file cases in a court even though their complaints are dealt
+with through BMET arbitration. Once the court judgment arrives, BMET or MoEWOE records
+the outcome for further reference.
+
+2.2.2 Strengths and Weaknesses of BMET ADR Practices
+The foremost strength of BMET ADR rests with its formal authoritative position having the
+power to sanction deviant recruitment agents causing problems to aggrieved migrant workers.
+In certain cases, it has the power to recommend a suspension or cancellation of a license to
+recruiting agents. Therefore, migrant agents have a tendency to abide by the fair arbitral awards
+made by it. The authoritative position also creates a positive assurance in the minds of
+aggrieved migrant workers who may attend arbitration or mediation to resolve their disputes
+through BMET. As Bangladeshi people belong to a high-context, high-power-distance society
+they are culturally prone to accept arbitration awards coming from a government authority like
+                                                                                            Page 20
+BMET. Further, the Arb-Med-Arb formation of the BMET dispute resolution process ensures
+higher flexibility and more party control on the outcome than using arbitration as a standalone
+technique to resolve disputes. The opportunity of BMET to conduct a field-level investigation
+through DMEOs adds further possibility to derive more informed and fair decisions through
+the BMET ADR process. Other procedural advantages include the online receipt of
+applications that can be accessed by migrant workers even from abroad. A complaint can be
+submitted by the aggrieved worker or anyone on behalf of him/her.
+However, the major limitation of the BMET ADR process is its lack of formal linkage with
+informal mediation held at the local level. For instance, if any community mediation is
+conducted by RMMRU or any other local NGO there is no enforceability of such mediation
+agreements and aggrieved migrant workers have to file a fresh complaint to BMET, in cases
+where alleged migration agents are not willing to abide by the decision made through
+community mediation. It causes delay and a possibility of constrained justice as the community
+people who may participate in grassroots mediation and assist the aggrieved workers to justify
+their claims through testimony may not be allowed or able to attend BMET mediation held at
+Dhaka. On the other hand, even if BMET can file cases in formal court against migration
+fraudulence experienced by migrant workers, respective workers may not be in a position to
+carry on such cases due to their weaker socio-economic condition and lack of access to legal
+aid. Nevertheless, the grievance may continue in a covert form.
+
+2.2 RMMRU—A Policy Research Institute for Enhanced Welfare of Migrant Workers
+at the Grassroots Level
+
+Refugee and Migratory Movements Research Unit, popularly known as RMMRU is a
+prominent research and advocacy organization based in Bangladesh. It specializes in issues
+related to migration, displacement, and refugee populations. Established in 1995, RMMRU
+operates as a center under the University of Dhaka, blending academic research with practical
+initiatives to address the challenges of migration and human mobility. In 2006, RMMRU got
+directly involved in providing services at the grassroots. Since then, it has been operating in 27
+districts. It is delivering 26 types of services in different project areas. Besides policy research
+and publications, RMMRU is also actively involved in policy advocacy and played a pivotal
+role in shaping migration-related policies in Bangladesh including the drafting of the Overseas
+Employment and Migration (Amendment) Act 2023. The organization also provides training
+and carry-on awareness programs for government officials, NGO activists, and aspirant
+migrants to promote fair migration in Bangladesh.
+According to RMMRU research, 51% of migrant workers or aspirant migrant workers in
+Bangladesh face various fraudulence consequences from migration agents or their local sub-
+agents. To address the challenges, RMMRU has developed a community-based grievance
+management approach titled Grievance Management System (GMS), which incorporates
+Alternative Dispute Resolution (ADR) through a three-tier committee structure to resolve
+migration-related disputes locally. Over the years it has conducted several mediations in three
+districts of Bangladesh and helped to recover almost 3.4 crore taka for the affected migrants
+and family members. The BMET also plays a vital role in supporting migrant workers,
+particularly in grievance management. It has decentralized its grievance management system
+by extending services to District Employment and Manpower Offices (DEMOs).
+
+                                                                                            Page 21
+2.3.1 The RMMRU Approach to Migration Grievance Management: RMMRU contributes
+to all stages of migration grievance management as depicted in Figure 1.4. RMMRU (Refugee
+and Migratory Movements Research Unit) has made significant contributions to the field of
+migration research and advocacy since its establishment.
+a) Research, Advocacy, and Capacity Building: The think tank has conducted over 100
+original research studies, with around 25 of them being published as books. In addition,
+RMMRU has produced 52 working papers, 12 annual migration trends reports, 19 occasional
+papers, and 37 policy briefs on migration, along with 8 additional policy briefs focusing on
+climate change and migration. The research findings from these studies have been vital in
+driving policy advocacy to improve the welfare of migrant workers.
+
+A standout achievement of RMMRU was its pivotal role in the development of Bangladesh’s
+Overseas Employment Policy in 2006, making Bangladesh the first country in South Asia to
+develop such a policy. RMMRU’s advocacy efforts also led to the Prime Minister of
+Bangladesh advising the Ministry of Expatriates' Welfare and Overseas Employment (EWOE)
+in 2019 to provide identity cards to sub-agents, a campaign that the organization had long
+championed. In a related vein, RMMRU contributed to the passing of the Overseas
+Employment and Migrants (Amendment) Bill, 2023 as well as develop the rules for Sub-agents
+under this act. The think tank has also developed various strategic documents for key
+organizations such as BMET (Bureau of Manpower, Employment, and Training), WEWB
+(Welfare and Employment of Bangladeshi Workers), and BOESL (Bangladesh Overseas
+Employment and Services Limited), contributing to the improvement of labour migration
+systems in Bangladesh. RMMRU’s contributions extend to empowering female migrant
+workers. Since the lifting of the ban on female migration in 2003, over 918,000 women have
+sought overseas employment, with their percentage share in the total migration flow increasing
+from less than 0.5% before 2003 to 13.6% in 2019. RMMRU has been instrumental in
+advocating for policies that enable and support female migration.
+
+The organization also focuses on capacity building, organizing numerous training programs for
+stakeholders such as government officials, journalists, and grassroots NGO staff. In addition to
+this, RMMRU has trained around 1,200 bank officials to improve their services to migrants.
+The think tank has also been a key player in developing online complaint mechanisms and
+arbitration models to help migrant workers seek justice.
+
+b) Social Awareness, Training, and Verification of Pre-departure Documents: One of
+RMMRU’s most impactful innovations is the creation of the Migrant Rights Protection
+Committee (MRPC), a community-based initiative at the union level. The MRPC plays a vital
+role in empowering migrant workers and their families by disseminating critical information,
+enhancing knowledge on safe migration practices and remittance management, and actively
+working to reduce vulnerabilities. The committee raises awareness through a variety of
+engaging methods, such as courtyard meetings, haat sabha, miking, rallies, street theater, video
+screenings, and the distribution of leaflets. By 2021, approximately 1,000 community members
+were actively involved in MRPCs, demonstrating the broad reach and influence of this
+initiative. MRPC members have become key advocates for migrant rights at the grassroots
+                                                                                        Page 22
+level, supporting migrants with essential services such as securing passports, verifying visas,
+registering for jobs at the DEMO office, opening bank accounts, and assisting with migration
+loan processing. This hands-on support fosters greater access to resources and opportunities
+for migrant workers, ensuring their rights are protected.
+
+RMMRU’s media presence has also been a powerful tool in advocating for migrant rights,
+particularly through its live TV program Obhibashir Adalat (Migrant’s Court). This program
+offers crucial legal advice and solutions to migrant workers, having aired 120 episodes as of
+January 2025 and successfully addressed over 2,300 migrant grievances. Further, the Legal
+Cell of RMMRU provides legal counseling and aid when the issue remains unresolved through
+their community migration effort. Through its innovative approaches, RMMRU continues to
+be a driving force in promoting the rights and well-being of migrant workers.
+
+c) Alternative Dispute Resolution through Community Mediation: The Youth Volunteer
+Group of RMMRU assists aggrieved migrant workers in filing complaints to get migration
+mediation support for RMMRU. A detailed process of the RMMRU migration mediation
+model and its strengths and weaknesses will be discussed in the next two sections. The
+organization also refers migration disputes to BMET, files cases in courts, and provides legal
+counseling as required.
+
+d) Emergency Support and Rehabilitation: In addition to its impactful research and policy
+initiatives, RMMRU runs a Migrant Service Centre (MSC) in Dakshinkhan, Dhaka, offering
+critical services such as emergency shelter, medical care, legal assistance, and reintegration
+support to returned migrants, particularly those who have experienced abuse or trauma. The
+MSC’s role became even more vital during the COVID-19 pandemic, as it ensured that returnee
+migrants received immediate, comprehensive support during a time of widespread uncertainty
+and hardship. RMMRU further strengthened its support system with the establishment of a
+Legal Support Cell in 2018, which has proven essential in providing timely legal assistance to
+migrant workers in distress. In 2020 alone, RMMRU reached over 200,000 individuals—
+including migrant aspirants, returnees, and left-behind family members—offering them
+emergency assistance, vital information, referrals, legal support, and counseling services. This
+extensive reach highlights RMMRU’s unwavering commitment to the well-being and rights of
+migrant communities, providing them with the resources needed to overcome challenges and
+rebuild their lives.
+Through its research, policy advocacy, training programs, and direct services, RMMRU
+remains a pivotal force in the comprehensive grievance management of migrant workers. From
+preventing grievances before they arise to facilitating the successful reintegration of
+prematurely returned migrants into their communities, RMMRU ensures that migrant workers
+receive the full spectrum of support needed to address their challenges. This holistic approach
+not only empowers migrant workers but also fosters a more sustainable and supportive
+environment for their long-term well-being and integration.
+
+
+
+
+                                                                                        Page 23
+2.3.2 Alternative Dispute Resolution Process through Tier GMS: RMMRU has developed
+a three-tier dispute resolution system known as the Grievance Management System (GMS) to
+settle disputes of migration workers at the grassroots level.
+FIGURE 2.3: RMMRU Grievance Management System (GSM)
+
+
+
+
+Source: Sumaiya Khair, Migration Disputes Mediation Manual (RMMRU, 2007)
+
+a) Complaints Received by the Youth Volunteer Committee: RMMRU operates the GMS
+to effectively resolve disputes related to migration fraud and other associated issues through a
+structured mediation process. This comprehensive mediation is carried out in three distinct
+stages, ensuring that each case is handled with thoroughness and attention to detail. The process
+begins when the Youth Volunteer Committee (YVC) receives complaints about migration
+fraud from grassroots communities. These complaints are then forwarded to the Advisory
+Committee (AC) for careful scrutiny. The YVC, made up of dedicated volunteers aged 15 to
+25, not only plays a crucial role in collecting and submitting these complaints but also takes
+responsibility for post-mediation follow-up activities, ensuring that resolutions are upheld and
+further issues are addressed. Once the AC has conducted an initial review and is satisfied with
+the merits of the case, it issues a formal notice to each member of the Grievance Mediation
+Committee (GMC), providing them with detailed information about the dispute. This process
+ensures that the GMC is fully informed and prepared to engage in mediation, facilitating a fair
+and informed resolution.
+
+b) Dispute Resolution through Grievance Mediation Committee: The GMC at RMMRU is
+made up of 9 to 11 highly diverse members, including local government representatives, local
+leaders, and community members of the local community. This includes key figures such as
+
+                                                                                         Page 24
+local government officials, local leaders, social workers, and business leaders, teachers etc.
+This diversity ensures that a broad range of perspectives and expertise are brought to bear on
+each case.
+
+Figure 2.4: RMMRU Migration Mediation Model
+
+
+
+
+                                                                                                    Grass-root people
+                                                       Sent for      7-9 member
+                                                                                     Inform the     facing migration
+                                    5-7 member -        Initial    Youth Volunteer
+                                                                                      Grievance     disputes
+                                                      Screening      Committee
+                                      Advisory
+                                     Committee
+
+
+
+
+                                       Referred to
+
+
+
+                                                                                                       Monitor Implementation
+                                    9-11 member
+
+
+
+
+     Referred back to
+                                      Grievance       Select from President and
+                                     Management      GMC Members    Mediator
+                                   Committee (GMC      Grievance
+                                          )
+                                          Serve                            Preside
+
+                                         notice to
+                                     Parties of      Attend         Mediation                     Agreement                     Abide by
+                                    the dispute                     session(s)                     Reached
+
+
+
+                        Refer to
+                                     Court Trial
+
+                                      BMET                                                                                      Resolved
+                                                                       Not                           Non
+                                                                     Resolved                      Abidance
+
+
+
+
+When Youth Volunteer Corps (YVCs) submit a migration-related complaint to the GMC, the
+committee promptly issues a notice to the involved parties, requiring them to attend a mediation
+session. The notice also specifies the time, date, and venue for the meeting, ensuring
+transparency and clarity in the process. As shown in Figure 3.1, at the start of each mediation
+session, the GMC appoints a chairperson from among its members and designates another
+member to facilitate the mediation. During the session, the mediator plays a critical role in
+explaining the relevant laws to help the parties fully understand their legal rights and
+responsibilities. The mediator also ensures that both parties have the opportunity to present
+their case, submit supporting evidence, and engage in a constructive dialogue. This process
+empowers the parties to work towards a mutually acceptable solution, fostering understanding
+and collaboration in resolving their disputes.
+c) Further Referral for Unresolved Disputes: The mediator offers additional time if parties
+are struggling to reach a consensual resolution to their dispute. Should the issue remain
+
+                                                                                                                                 Page 25
+unresolved, the mediator escalates the matter to the Advisory Committee (AC) for further
+action. As the highest authority in the RMMRU GMS process, the AC plays a critical role in
+ensuring fair and informed decisions. Comprised of 5 to 7 distinguished individuals with
+extensive experience and expertise in dispute resolution and migration, the AC members
+representing of District Employment and Manpower Office (DEMO), Technical Training
+Centre (TTC), Journalists, and Lawyers are highly educated, each holding at least a graduate
+degree. In contrast to the GMC, the AC brings a level of knowledge and authority that is vital
+for resolving complex matters. Upon referral by the GMC, the AC carefully reviews all
+documentation related to the dispute. If necessary, the AC can escalate unresolved issues to
+court or the Bureau of Manpower, Employment, and Training (BMET) based on the parties'
+requests. This rigorous process guarantees that disputes are handled with the utmost
+professionalism and thoroughness, ensuring fair outcomes for all involved.
+
+2.3.3 Strengths and Weaknesses of the RMMRU ADR Practices
+As discussed, the RMMRU GMS model works to bridge the gaps between migrants' needs and
+institutional responses, supporting migrant communities through more accessible access to
+justice at their doorsteps. However, as far as the Grievance Management and Dispute
+Resolution are concerned it is important to have a clear distinction between these two for
+understanding the strength and weakness of RMMRU mode within its capacity. Briefly
+speaking, a grievance is a form of dissatisfaction due to perceived unfair treatment or violation
+of rights. In response to their grievance, a person may or may not raise a complaint, however,
+the grievance continues. For instance, women may have grievances against domestic violence
+but may keep silent without making any overt complaint to others. Grievance detected at the
+early stage may also be resolved internally. On the other hand, a dispute is an escalated form
+and a more active and ongoing disagreement that usually requires negotiation, mediation, or
+legal action to resolve. Therefore, considering the nature of migration disputes managed by
+RMMRU and the method of resolution applied this section discusses the strengths and
+weaknesses of the RMMRU dispute resolution model. A more detailed discussion on
+Grievance Management and further doings required for effective grievance management of
+migrant workers is discussed in Chapter Four.
+As RMMRU strives to resolve migration disputes at the grassroots level without having any
+formal authority and not following any legally defined procedure the dispute resolution by
+RMMRU falls in the realm of informal ADR. Nevertheless, the first and foremost strength of
+the RMMRU Mediation model is its attachment to that grassroots level that allows the
+organization to collect authentic firsthand information about a dispute from its inception
+through YVC up to the final disposal through AC. Further, the community mediation model
+applied by RMMRU empowers deprived migrant workers who may attend mediation sessions
+with their peer group to testify too many unwritten agreements and financial transactions that
+generally take place in our social settings. Once again the high power distance culture in our
+society bestows a general agreement towards the mediation agreement made under the
+guidance of socially dignified members of the GMC.
+Nevertheless, there is no guarantee that both parties, especially the socially and politically
+powerful migration agents/sub-agents would abide by the agreement made through RMMRU
+mediation that does not have any legal enforceability. Therefore, in cases where any of the
+                                                                                         Page 26
+parties abstain from abiding by the mediation agreement, the aggrieved parties need to file a
+fresh complaint and are not able to bring all the evidence generated through community
+mediation conducted at the grassroots level. Due to their poor socio-economic condition,
+migrant workers may not be able to file further complaints to BMET or civil and criminal
+courts. Therefore, the grievance may continue in the form of a covert dispute. Although
+RMMRU puts hard effort into detecting and resolving migration-related disputes, due to its
+limited resources the ability to track the long-term outcomes and sustainability of its
+interventions may be limited. Without continuous monitoring, it can be difficult to assess
+whether the mediation efforts are truly improving migrants’ lives in a lasting way.
+
+2.4 WARBE- An Association of Returned Migrants for Advocating and Protecting
+Migrants’ Rights
+
+The WARBE Development Foundation (Welfare Association for the Rights of Bangladeshi
+Emigrants) is a prominent non-profit organization in Bangladesh dedicated to promoting the
+rights of migrant workers and fostering safe migration practices. Starting its operation
+informally in Saudi Arabia in 1986 WARBW was established as a welfare organization in
+Bangladesh in 1987 by returnee migrant workers, WARBE primarily operates at the grassroots
+level to address migration challenges and advocate for migrants' welfare.26 Considering the
+different geographical contexts and migration trends, WARBE Development Foundation
+exponentially started its grassroots-level activities in eleven districts. Having its central office
+located at New DOHS, Mohakhali, Dhaka WARBE has 11 MISC (Migration Information and
+Support Centers) in 11 districts.27 Following the return of migrant workers either through the
+regular course of a contract or due to forced eviction or hardship WARBE provides support for
+community reintegration through livelihood training, counseling, and legal aid. The
+organization also provides legal counseling and provides arbitration services to migrants and
+their families.
+
+2.4.1 The WARBE Approach to Migration Grievance Management: WARBE plays a
+significant role in migration grievance management, particularly in cases involving recruitment
+malpractice, wage disputes, and abuse or exploitation in host countries. Unlike RMMRU most
+of the activities of WARBE DF are concentrated on the prevention of grievance at the pre-
+departure stage including the promulgation of national laws and policies for labour migration,
+social awareness on safe migration, and training to prospective migrants on workable skills,
+and cost-benefit analysis for migration. Once a dispute is received at WARBE, the organization
+tries to resolve it through arbitration. However, if sufficient supporting documents are not
+
+26
+   WARBE Development Foundation, ‘about WARBE’ (WARBE, 2023) <https://warbe.org/about/history/1>
+accessed 3 January 2025
+27
+   Information shared during the KII at WARBE head office in Mohakhali, Dhaka on 9 January 2025; specific
+work areas of WARE are located at Sreepur Centre at Gazipur, Dohar Centre at Dhaka, Naria Centre at Shariatpur,
+Keraniganz Centre at Dhaka, Bandar Centre at Narayanganz, Rupsha Centre at Khulna, Sadar Centre at Rangpur,
+Sadar Centre at Comilla, Muktagacha Centre at Mymensing, Sadar Centre at Bramhanbaria, Gouronodi Centre
+at Barishal, Rupganj Centre at Narayanganj, Sadar Centre at Norshindi, Fultala Centre at Khulna, Mithapukur
+Centre at Rangpur, and Sadar Centre at Tangail. See, Abdul Awal (ed), ‘UN Convention on the Protection and
+the Rights of All Migrant Workers and Members of their Families’ (Bengali Translation, Warbe Development
+Foundation, 2012)
+                                                                                                      Page 27
+available, WARBE arranges mediation to attain an amicable solution. To resolve disputes
+WARBE forms Grievance Management Committees comprising 12 members comprising of
+UP Chairman, UNO, retired principal, headmaster, media personality, Advocate, NGO worker,
+Human rights activists, returnee migrants, magistrates, and any eligible female UP member.
+Though WARBE DF does not have a rigorous dispute resolution system for migrant workers
+like RMMRU, it provides legal aid advice to migrant workers and their families and has an
+information-sharing program with law enforcement agencies to ensure fair treatment and
+access to justice for deprived migrant workers. These services are often facilitated through their
+Migration Information Support Centers (MISCs), which operate in multiple districts of
+Bangladesh.
+
+a) Advocacy and Capacity Building for Safe Migration: WARBE Development Foundation
+serves as a powerful advocacy group championing safe migration and the rights of migrant
+workers in Bangladesh. To amplify the voices calling for safe migration practices and the
+welfare of migrant workers WARBE has made significant contributions to migration
+governance in Bangladesh, such as helping establish the Migrants' Welfare Bank, securing
+mandatory pre-departure training for migrants, and raising awareness about the voting rights
+of migrants. Furthermore, its advocacy was instrumental in the national recognition of
+December 18th as International Migrants Day, a milestone achieved in 2008.
+
+A key focus of WARBE's capacity-building efforts is training local government
+representatives, particularly Union Parishad Chairmen and members. As the lowest
+administrative tier directly serving the community, Union Parishads play a crucial role in
+addressing community-based issues, including migration. By equipping local government
+bodies with knowledge and awareness about migration, WARBE ensures that they can more
+effectively govern and plan for their communities. As a result, local authorities are becoming
+increasingly aware of migrant issues and are more committed to supporting both current and
+prospective migrants with accurate information about safe migration practices.
+b) Pre-departure Training and Meeting: Besides awareness campaigns, WARBE
+Development Foundation is committed to empowering prospective migrants through its
+comprehensive, three-day pre-departure training programs, which are held periodically. These
+training sessions are designed for individuals who are either planning to migrate or are in the
+process of completing emigration and overseas employment procedures. The goal of these
+training sessions is to provide participants with essential knowledge and practical guidance on
+various aspects of migration. Topics covered include safe migration practices, identifying and
+avoiding recruitment agency malpractices, understanding financial costs and risks, the benefits
+of migration, navigating administrative procedures, as well as adapting to living and working
+conditions in foreign countries. Additionally, the training addresses the crucial aspect of
+reintegration into the community upon returning.
+The Ministry of Expatriates Welfare and Overseas Employment (MEWOE) of Bangladesh has
+recognized and approved the Pre-departure Training (PT) curricula and materials developed by
+WARBE, validating the foundation’s commitment to delivering high-quality, reliable training
+to migrant workers. This endorsement underscores the credibility and relevance of WARBE’s
+                                                                                          Page 28
+programs, which ensure that participants are well-prepared for their migration journey. To
+further enhance the support for potential migrant workers, WARBE also offers vocational
+training programs in high-demand skills such as electrical and equipment installation and
+handicraft production. These programs provide valuable alternatives for those seeking
+additional livelihood opportunities or aiming to build skills that can be useful both abroad and
+at home.
+WARBE does not offer pre-departure document-checking services, it rather organizes pre-
+decision meeting at the field level, engaging at least 25 participants. These sessions serve as an
+essential platform for providing detailed, practical information on how to safely navigate the
+migration process. The meetings focus on helping participants make well-informed decisions
+on whether to migrate or not, minimizing the risks and challenges associated with migration,
+and preventing potential grievances.
+c) Debt Dispute Resolution through Community Mediation: Fair resolution of disputes can
+reduce or in ideal cases relieve the grievance from the mind of aggrieved migration workers.
+WARBE, however, does not take part in resolving migration disputes caused by fraudulent
+transactions or false promises made by local sub-agents, etc. through arbitration or mediation.
+Instead, WARBE has a program for debt dispute resolution for migrant workers in Bangladesh.
+Nevertheless, WARBE works closely with the national police force to share information about
+migration frauds at the community level and also invests in the capacity building of government
+officials dealing with labour migration and other relevant issues.
+
+2.4.2 Strengths and Weaknesses of the WARBE ADR Practices
+The strength of WARBE’s migration grievance management system lies in its rigorous
+approach, focusing on both grievance prevention and protection. Through active engagement
+in national and international advocacy, WARBE works to create a safe migration environment
+by promoting legal and institutional reforms. These efforts help prevent fraudulent and illegal
+activities, safeguarding migrant workers and aspirants from the grievances that often arise from
+such practices. In addition, WARBE plays a pivotal role in raising community awareness about
+migrant workers' rights and providing essential skill training to prospective migrants. These
+initiatives protect not only the individual workers but also the broader community, preventing
+them from falling prey to fraudulent or illegal migration schemes often perpetrated by local
+sub-agents. By equipping workers with the knowledge and skills needed to navigate the
+migration process safely, WARBE ensures they can perform their jobs effectively while
+abroad, reducing the likelihood of exploitation or abuse.
+
+
+
+
+                                                                                          Page 29
+                                        CHAPTER THREE
+
+
+ Institutionalising Community Responses on Migration Dispute Resolution
+                                            in Bangladesh
+
+3.1 Institutionalising Community Responses on Migration Dispute Resolution
+
+3.1.1 Institutionalisation—Meaning and Process
+Institutionalization refers to the process by which a practice, norm, behavior, or system
+becomes embedded, standardized, and accepted within a specific organization, culture, or
+society.28 It transforms informal or ad-hoc procedures into formal and structured practices that
+are consistently followed over time.29 Institutionalization ensures stability, continuity, and
+legitimacy for policies, behaviors, or practices,30 making them less dependent on specific
+individuals or transient conditions.
+
+Institutionalization occurs through deliberate efforts to integrate practice into the fabric of an
+organization or society.31 Though this research may provide a guideline or roadmap of how
+community responses can be institutionalized in the dispute resolution process of migrant
+workers in Bangladesh, the following steps need to be followed to make it effective and
+sustainable in the long run. These are,
+a) Establishing Clear Goals and Values: For effective institutionalisation of any concept or
+idea into practice an organization has to clearly define the purpose, principles, and outcomes
+that the institutionalized practice or system seeks to achieve. It must be aligned with the broader
+mission or vision of the organisation;
+b) Developing Formal Policies and Procedures: We need to document our rules, guidelines,
+and standards that govern institutionalised practice. For better results, we need to create
+protocols that specify how the practice should be carried out consistently;
+c) Providing Training and Awareness: The real beneficiaries or stakeholders, in this case,
+the migrant worker community needs to be aware of the importance and expected outcome of
+such institutionalisation. Relevant stakeholders, in this case, BMET officials, RMMRU
+mediators, and village court members should get adequate training to make sure everyone
+involved understands their roles and responsibilities properly;
+d) Securing Leadership Commitment: Leaders in a sector that goes through
+institutionalizing some practice must get support from policymakers and endeavour to set
+examples and provide necessary resources to make the process successful.
+
+
+28
+   Adesina Osho, Iyalla Essien-Abasi, and Felix Ekweli, ‘Institutionalization: A Contemporary Perspective of
+the Old and New Institutionalism for Managers’ (2018) 5(2) International Journal of Healthcare Sciences, 624;
+see also, Andrew Whitworth, Radical Information Literacy (Chandos Publishing 2014)
+29
+   Ibid, Osho, Abasi and Ekweli
+30
+   Pamela S. Tolbert, Robert J. David, and Wesley D. Sine, ‘Studying Choice and Change: The Intersection of
+Institutional Theory and Entrepreneurship Research’ (2011) 22(5) Organization Science, 1332
+31
+   Erica Wiseman, ‘The Institutionalization of Organizational Learning: A Neoinstitutional Perspective’
+(Learning Fusion Conference, University of Warwick, 2007)
+<https://warwick.ac.uk/fac/soc/wbs/conf/olkc/archive/olkc2/papers/wiseman.pdf> accessed 12 January 2025
+                                                                                                     Page 30
+e) Embedding the Practice into Organizational Structures: To monitor the
+institutionalization process an organization must assign accountability to individuals to oversee
+its execution and integrate the process in the organizational workflow.32
+f) Creating Supportive Cultures: To attain a good pace in the institutionalization process
+an organization shall create an environment where the practice of such institutionalisation is
+valued and encouraged. The required behaviour may be promoted through incentives,
+recognitions, and sanctions;33
+g) Implementing Mechanisms for Monitoring and Evaluation: To follow up the
+institutionalization process an organization must regularly review and adapt the system
+based on feedback and changing circumstances.
+h) Ensuring Sustainability: To make an institutionalization effort sustainable means to
+make it resilient to leadership changes, resource variations, or external disruptions. Further, to
+build institutional memory through documentation and knowledge-sharing.34
+
+By following these steps, organizations or societies can ensure that practices or systems
+become enduring, integral parts of their operation or culture.
+
+3.1.2 Community Involvement in Migration Dispute Resolution
+In Bangladesh, community-based approaches to resolving migration-related disputes have
+emerged as a powerful tool to combat pressing challenges such as debt bondage, migration
+fraud, and social tensions between host communities and migrants.35 These grassroots
+responses, rooted in the social capital migrant workers build within their communities, offer a
+formidable shield against fraudulent migration brokers (dalals) and other intermediaries who
+often occupy positions of significant power in rural society.36 Reports from various national
+and international organizations highlight several promising areas for intervention37, including:
+    a) mediating debt disputes for returnee migrants,
+    b) addressing fraud in migration processes,
+    c) fostering social cohesion between host communities and returnee migrants, and
+    d) raising awareness and providing training for better migration management.
+These efforts have proven vital in enabling migrant workers to secure fair justice and reclaim
+their rights to fair migration.
+
+32
+   Easy Sociology, ‘Institutionalization: An Overview’ (Easy Sociology, 7 September 2024)
+<https://easysociology.com/general-sociology/institutionalization-an-
+overview/#:~:text=Organizational%20institutionalization%20refers%20to%20the%20process%20through%20w
+hich,and%20structures%20become%20standardized%20and%20embedded%20within%20organizations.>
+accessed 20 December 2024
+33
+   LynneG. Zucker, ‘Institutional theories of organization’ (1987) 13 Annual Review of Sociology 443
+34
+   ibid
+35
+   Sumaiya Khair, Migration Disputes Mediation Manual (Refugee and Migratory Movements Research Unit,
+RMMRU 2017, 7)
+36
+   Nicola Nixon, ‘Going legitimate? Tackling migration scams in Bangladesh’ (From Poverty to Power, May
+15, 2024) <https://frompoverty.oxfam.org.uk/going-legitimate-tackling-migration-scams-in-bangladesh/>
+accessed 5 January 2025
+37
+     RMMRU, ‘Corruption behind shrinking overseas labour market’ (The Daily Star, Dhaka, 29 December 2024)
+< https://www.thedailystar.net/top-news/news/corruption-behind-shrinking-overseas-labour-market-3786786>
+accessed 2 January 2024; see also, IOM, World Migration Report 2024 (UN Migration 2024)
+                                                                                                   Page 31
+For instance, the International Organization for Migration (IOM) has spearheaded initiatives
+to support returnee migrants burdened by debt incurred during migration.38 Many migrants in
+Bangladesh take out loans from local moneylenders, often pledging their land as collateral,
+which exposes them to the risk of debt bondage and forced labour.39 To tackle this issue, the
+IOM, in collaboration with the Government of Bangladesh and Civil Society Organizations,
+has focused on building capacity to manage these financial liabilities, facilitating the
+reintegration of returnees into society with dignity and stability. WARBE DS, a community-
+based national NGO is also working on debt mediation for migration workers. Similarly, the
+Refugee and Migratory Movement Research Unit (RMMRU) has introduced mediation
+programs aimed at resolving cases of migration fraud. These initiatives provide an accessible
+and effective mechanism for addressing disputes, empowering migrants to challenge fraudulent
+practices and claim justice.
+Along with the disposal of migration-related disputes, local NGOs and community-based
+organizations play an indispensable role in formulating Bangladesh’s migration policies,
+extending their reach to potential migrants. These organizations also educate potential migrants
+and their families about the social and economic dimensions of migration, guide them in
+navigating the migration process safely, and offer training on effective remittance management.
+Collectively, these efforts enhance grievance management by equipping prospective migrants
+with the knowledge and resilience to face future challenges, identify and counteract migration
+fraud, and access justice when needed.
+Therefore, institutionalizing community responses within the dispute resolution process can
+mitigate power disparities, enhance inclusion, and provide robust evidence to support migrant
+workers in claiming fair justice. Through community organizations deal with varieties of
+migration-related issues, focusing on alternative dispute resolution (ADR) mechanisms
+primarily for addressing migration fraud, and debt management this research seeks to explore
+how strengthening the GMS on migration and institutionalizing community responses in ADR
+Bangladesh can build a more equitable system and a just society that upholds the rights and
+dignity of its migrant population.
+
+3.2: Approaches to Institutionalise Community Responses in the Migration Dispute
+Resolution Process—Experience in Bangladesh and Sharing Lessons from India
+
+3.2.1 The Bottom-UP Approach to Integrate Community Responses
+As community responses stem from grassroots levels, their integration into dispute resolution
+processes inherently suggests a bottom-up approach. This assumption holds true when
+organizations like the Refugee and Migratory Movement Research Unit (RMMRU), which
+operates at the grassroots level, receive complaints of migration fraud and address them
+through community mediation. In these mediations, community members often participate
+voluntarily, offering their voices or free testimonies to uphold justice for their peers. This
+participatory mechanism not only fosters local empowerment but also reinforces social
+solidarity. However, as discussed in Chapter Two, there are instances where RMMRU cannot
+resolve disputes through community mediation alone. In such cases, they refer the unresolved
+
+38
+  Ibid, 254
+39
+  ICT Division, ‘Post-COVID-19 ICT Roadmap: The Labour Migration and Remittance sector’ (Government of
+Bangladesh, nd) <
+http://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/page/6c9773a2_7556_4395_bbec_f132b9
+d819f0/ICT%20Roadmap_two-
+pager_The%20Labour%20Migration%20and%20Remittance%20sector%20%281%29.pdf> accessed 22
+December 2024
+                                                                                                  Page 32
+disputes to the BMET, a formal authority at a higher tier of the dispute resolution hierarchy.
+This referral demonstrates a bottom-up approach40, wherein grassroots efforts are escalated to
+formal institutional mechanisms when the community or organizations like RMMRU lack
+sufficient control over a fraudulent migration agent.
+Despite this promising synergy, the process remains informal and unstructured, as no
+standardized method or legal mandate exists for transferring cases from RMMRU to BMET.
+Even when unresolved disputes are referred by RMMRU to BMET, the absence of a formal
+linkage forces BMET to begin the process from scratch, rendering all the efforts invested by
+RMMRU and the community through previous mediation attempts futile. Moreover, many
+community members who participated in these mediations may face significant challenges in
+traveling to BMET's office in Dhaka, leading to the loss of crucial community input. This issue
+is particularly concerning as many migration transactions are conducted in cash, without proper
+documentation. In such cases, the testimony and involvement of community members are
+essential to ensure that justice is fairly served. Therefore, institutionalizing this process, along
+with a sharing of evidence generated through grassroots mediation, would drastically improve
+the effectiveness of ADR by formally recognizing the vital contributions of grassroots voices
+in resolving migration disputes. Such a shift would foster a more inclusive and effective
+approach to migration justice, benefiting all parties involved.
+Another notable example of a bottom-up approach in Bangladesh is the resolution of rural
+disputes through village courts, as established under the Village Courts Act 2006. These five-
+member ad-hoc tribunals address petty civil and criminal offenses, with monetary penalties
+capped at Tk 300,000. The composition of village courts includes the Union Parishad (UP)
+Chairman, two UP members (one selected by each party), and two additional members chosen
+by the parties from among their friends and families. These courts serve as open forums,
+allowing some integration of community responses into their decision-making process.
+Moreover, if a party found at fault fails to comply with the court’s decision, the UP Chairman
+can recover the due amount as an arrear in UP tax and transfer it to the aggrieved party. For
+further recourse, the aggrieved party can appeal to the Assistant Judge courts in their respective
+jurisdictions.
+
+While village courts provide a platform for community participation, their quasi-formal
+structure imposes some degree of procedural barriers that may inhibit free and spontaneous
+expression. This contrasts with the more informal and flexible community mediations
+conducted by RMMRU, where participants can voice their concerns openly. Despite these
+limitations, village courts represent a critical opportunity to institutionalize community
+engagement in dispute resolution, bridging the gap between grassroots initiatives and formal
+legal frameworks.
+
+
+40
+   “A bottom-up approach to conflict resolution might shift the focus from divisions that increase conflicts to
+identifying commonalities and connectors among communities that promote peace”, see, ACCORD, ‘Bottom-up
+approaches to peace: a holistic approach to conflict prevention and peace building’ (Conflict & Resilience
+Monitor, 20 December 2021) < https://www.accord.org.za/analysis/bottom-up-approaches-to-peace-a-holistic-
+approach-to-conflict-prevention-and-peacebuilding/> accessed 12 December 2024; “This perspective appreciates
+that peace is not a top-down, one-size-fits all policy or outcome, but rather an emergent result of exercising diverse
+micro-level skills that need to be continually discovered, cultivated, and adapted through time. This view elevates
+the individual as the central source of peacemaking. It emphasizes cooperative power through horizontal
+relationship between equals as compared to coercive power via the vertical relationships that define top-down
+peacemaking.”, see also, Christopher J. Coyne , ‘Peacemaking: Top-Down vs. Bottom-up’ (2023) GMU Working
+Paper in Economics 23-42, 1 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4566357> accessed 22
+December 2024
+                                                                                                            Page 33
+Therefore, to fully realize the potential of bottom-up approaches in resolving migration-related
+disputes, there is a pressing need to institutionalize mechanisms that integrate community
+responses into formal systems. Establishing structured protocols for collabouration between
+grassroots organizations like RMMRU and formal authorities such as BMET or village courts
+can ensure a more equitable, accessible, and effective dispute resolution process. By doing so,
+Bangladesh can harness the power of its communities to uphold justice and address the power
+imbalances that often undermine the rights of vulnerable populations.
+
+3.2.2 Resolving Disputes under the Village Courts Act 2006: A Bottom-up Approach
+
+The formal court system in Bangladesh is grappling with an overwhelming backlog of
+approximately half a million pending cases41. This daunting caseload renders access to justice
+a distant dream for countless citizens, particularly those who cannot afford the prohibitive costs
+of litigation or navigate the intricate formal legal processes.42 Many of these disputes, often
+straightforward in nature, could be resolved more effectively and affordably at the local level.
+
+To address this critical challenge, the Ministry of Local Government Division of Bangladesh,
+in collaboration with the UNDP and the European Commission, has launched an innovative
+initiative titled Activating Village Courts in Bangladesh. The [Local Government Division]
+LGD has been leading the activation of Village Courts in new 3041 UPs and providing support
+to maintain VCs in the 1,416 UPs already activated under pilot and second phases of the
+project.43 Complementary motivation programs will also raise public awareness about the
+benefits of the local justice system, fostering trust and participation at the grassroots level.
+
+Moreover, the enactment of the Village Courts Act 2006 has further reinforced the integration
+of Alternative Dispute Resolution (ADR) into the local justice framework, making justice more
+accessible, inclusive, and efficient. Hence, this section delves into the critical aspects of village
+courts—an indispensable component of Bangladesh’s statutory local justice system. By
+shedding light on this quasi-formal ADR mechanism, it seeks to enhance readers’
+understanding of how the existing grassroots initiatives to resolve migration disputes may fit
+into the quasi-formal structure of village courts.
+
+a) Constitution of Village Courts
+The Village Courts Act 2006 outlines the structure and mandate for establishing village courts
+in Bangladesh. Unlike formal courts, which are presided over by a single judge, village courts
+follow a traditional shalish model where a panel of jurors, who are not legal experts but
+community members, decides disputes. Each village court is constituted separately for each
+case. Aggrieved parties may apply to the Union Parishad (UP) Chairman for the establishment
+of a village court within 30 days for criminal matters or 60 days for civil disputes. Once
+approved, a village court is constituted with five members including the UP Chairman, and
+four members nominated by the parties in dispute, with two members selected by each party.44
+One member selected by each of the parties must be a UP member unless waived by the
+
+41
+   Supreme Court of Bangladesh, Annual report of the judiciary, 2007 (Supreme Court of Bangladesh, 2008, 85)
+42
+   Jamila A Chowdhury, ‘ADR Theories and Practices: A Glimpse on Access to Justice and ADR in Bangladesh’
+(4th Edition, London College of Legal Studies (South) 2022, 182)
+43
+    UNDP Bangladesh, ‘Activating Village Courts in Bangladesh Phase III’ (UNDP, 1 July 2022) <
+https://www.undp.org/bangladesh/projects/activating-village-courts-bangladesh-phase-iii>    accessed      12
+December 2024
+44
+   Village Court Act 2006, sec 5(1)
+                                                                                                   Page 34
+Chairman.45 If the parties cannot agree on nominees, the Chairman has the authority to make
+the decision. The court can still function if a member is absent46, and the Chairman may be
+replaced if biased or unavailable.47
+
+b) Operation of Village Courts
+The village court can try petty criminal and civil matters, with the authority to order
+compensation or penalties not exceeding 300,000 taka. It can also order the return of movable
+or immovable property if the value does not exceed this Tk. 300,000 limit.48 Though the term
+migration disputes is not specifically mentioned in the act, according to the 1st schedule of the
+Act “any lawsuit for the recovery of dues based on any contract, receipt, or document” can be
+dealt with by village courts.49 Therefore, migration disputes can be brought under the purview
+of this Act as far as payments are made against a receipt or contract, etc.
+
+Though not operating like other formal courts, village courts can issue summons for witnesses
+and documents, though certain exceptions apply, such as for confidential government
+documents or individuals living far from the court's jurisdiction, unless expenses are covered.50
+In comparison with other formal courts village courts follow a simplified process, exempting
+some formalities including the following.
+
+             o    Physical appearance may be waived under specific conditions
+             o    Confidential documents are exempt from submission
+             o    Summons may not be issued if unreasonable costs or delays are expected
+
+Further, village courts are exempt from the formal rules of evidence under the Evidence Act
+1872, and the provisions of the Penal Code, CPC, and CrPC.51 Lawyers are also restricted from
+representing parties, ensuring direct communication between juries and disputing parties.52
+Hence, besides grassroots initiatives, this can be one additional forum to institutionalise
+grassroots initiatives and make the consensual agreements binding and enforceable with a
+minimum of time, effort, and money.53
+
+3.2.3 A Top-Down Approach to Integrate Community Responses: The Indian CPC in
+Perspective
+An alternative yet contrasting approach to attain grassroots justice is the top-down approach54,
+wherein a formal authority refers disputes to a lower tier for resolution. This method ensures a
+low-cost, more accessible mechanism for resolving disputes at the community level. As
+illustrated in Figure 3.1, an exemplary model can be found in the Indian Code of Civil
+Procedure (CPC), which allows courts to delegate disputes to lower-tier institutions, such as
+Lok Adalats or other appropriate bodies. Lok Adalats in India function similarly to Village
+
+45
+   ibid, sec 5(4)
+46
+   ibid, sec 5(5)
+47
+   ibid, sec 5(2)
+48
+   ibid, Schedule I
+49
+   ibid, sec 3(1)
+50
+   ibid, sec 10
+51
+   ibid, sec 13
+52
+   Ibid, sec 14
+53
+   Ibid, sec 12
+54
+   A dominant approach that defines peace as an absence of large-scale violence, and a result of state action; see,
+Coyne, above n 40
+                                                                                                          Page 35
+Courts in Bangladesh, addressing minor civil and criminal disputes, particularly those related
+to monetary matters.
+However, unlike Village Courts, Lok Adalats do not have the authority to impose
+imprisonment. Despite their efficacy, a critical distinction exists: the integration of such
+mechanisms within the formal judiciary is explicitly permitted under the Indian CPC, whereas
+the CPC in Bangladesh lacks similar provisions. Hence, a later part of this chapter will examine
+the potential integration of this bottom-up approach using a different route available in the
+migrant dispute resolution system in Bangladesh.
+As indicated in Figure 2.5, civil courts are applying much authority by determining the terms
+of a possible solution and referring to the appropriate mode of ADR. Though this model of
+court-connected ADR Scheme may not be readily applicable in our country, apart from its
+general applicability to reduce case backlog in our civil courts, we may draw some valuable
+lessons from this court-connected ADR scheme to strengthen our intended ADR Scheme for
+resolution migration-related disputes. Further, due to the absence of any procedural law on
+conciliation in Bangladesh, relevant sections of the Arbitration and Conciliation Act 1994 India
+could be instrumental in our out-of-court ADR scheme-building process.
+Figure 3.1: Court-connected ADR Scheme in India: court referral to reduce case backlog
+
+
+
+                                       Case filing in court
+                                                                           If it appears
+                                                                           to the Court
+                                  Elements of settlement exist
+                                                                            Court shall
+                                                                            formulate
+                                       Terms of settlement
+
+
+                     Feedback      Provide observation to parties
+                   from parties
+                                                                             may
+                         Reformulate Terms for possible settlement
+
+
+                                       Refer the case for               Judicial
+                  Arbitration                                                              Lok Adalot
+  Resolved by                                                        settlement by
+                                                                                            or other
+  parties out
+                  Conciliation                                                               suitable
+   of court,
+                                            In-court                                       institution
+   following
+                                           Mediation                                       under the
+  Arbitration
+                                                                                              Legal
+      and
+                                                                                            Services
+  Conciliation
+                                                                                            Authority
+   Act 1996
+                                                                                            Act 1987
+
+
+
+Source: Adapted from Civil Procedure Code, India
+
+                                                                                                 Page 36
+It rather focused on the top-down integration possibility with BMET and other lower-tier
+forums such as village courts and NGOs and other grassroots civil society organizations like
+RMMRU. As discussed in Chapter 2, BMET may receive its complaints on labour grievances
+from three different channels. Firstly, the aggrieved migrant labourers may file their complaints
+through a) the PROBASHI KALLYAN Desk at airports, b) the online portal of BMET to lodge
+complaints and c) by visiting the BMET Office physically. Whatever may be the case, there is
+a possibility that after initial screening BMET may transfer some cases to informal forums like
+RMMRU or other NGOs that remain out of court and do not have their procedural law to
+conduct ADR. Alternatively, BMET may transfer some disputes to quasi-formal forums like
+Village Courts that remain out of the realm of formal court but have their procedural law. The
+following section will discuss the possibility of institutionalizing community responses at all
+stages of the dispute resolution process by making proper linkages between BMET, Village
+Courts, RMMRU, WARBE, and other informal and quasi-formal organizations involved in the
+process.
+
+3.3 Institutionalising Community Responses to Migration Dispute Resolution in
+Bangladesh—A Suggestive Model
+
+In Chapter Two we discussed various natures of migration dispute resolution applied by
+government agencies and NGOs in Bangladesh. The earlier part of this chapter further
+elabourated on how top-down and bottom-up approaches may be applied to integrate the
+migration dispute resolution efforts of various informal and quasi-formal bodies operating in
+this sector.
+The integration of community-based dispute resolution aims to maximize the use of local
+knowledge and efforts to ensure that migration disputes are resolved quickly, fairly, and at an
+affordable cost, all while maintaining the convenience of resolving issues within the
+community. As illustrated in Figure 3.2, when disputes are addressed through community
+mediation at RMMRU, the parties involved do not automatically acquire legal rights to claim
+compensation. To give legal weight to the agreements reached through community mediation,
+RMMRU may advise clients to submit these consensual agreements to the courts for a legally
+binding decision.
+
+
+
+
+                                                                                         Page 37
+Figure 3.2: Institutionalizing Community Response by Integration of Formal, Quasi-formal,
+and Informal Dispute Resolution Processes
+
+
+
+
+    No
+ Agreeme
+    nt
+                                                                  BMET
+                                                                                    Not Abide by
+                            Resolved           Abide by
+                                                                                     or criminal
+                                                                                       matter
+
+
+
+
+     RMMRU                  Agreeme             Village
+     Mediation                 nt                               Not Abide by          Court Trial
+                                                Court
+      process               reached                               or out of
+                                                                 jurisdiction
+
+                                                                                       Decree
+
+
+
+
+If one of the parties refuses to formalize the agreement through village courts or denies liability
+before the court, RMMRU may guide the aggrieved party to submit their claim to the BMET.
+Requesting the parties to legalize agreements through the village court serves as an important
+reality check, helping mediators assess the feasibility and practicality of the settlement before
+pushing for further legal intervention. In cases where parties are unwilling to legalize the
+agreement through the village court, or if the nature of the dispute falls outside the jurisdiction
+of the village court, the case may be referred directly to BMET. Should BMET attempt to
+resolve the dispute through arbitration and any party refuses to comply with its decree, BMET
+may recommend that the parties take their case to civil court.
+
+This multi-tiered approach ensures that the parties have access to various means of resolution,
+while also ensuring that their rights are protected and upheld through legal channels, if
+necessary.
+
+3.4 Institutionalising Community Responses to the Migration Dispute Resolution
+Process in Bangladesh—Prospects and Challenges
+
+Considering the current legal framework for migration dispute resolution in Bangladesh, the
+top-down approach outlined above presents a valuable opportunity for BMET to enhance its
+effectiveness by partnering with grassroots organizations, such as RMMRU (Refugee and
+Migratory Movements Research Unit). As the licensing authority, BMET holds significant
+leverage over migration agents and sub-agents and can encourage compliance with decisions
+reached through grassroots mediation processes. This centralized power enables BMET to
+guide the resolution of migration-related disputes, ensuring that decisions made at community
+levels are implemented effectively if not voluntarily.
+
+                                                                                            Page 38
+While RMMRU has the potential to help bridge the gap between community-based mediation
+and BMET’s arbitration processes, the institution of village courts can also play a crucial role
+in enforcing consensual agreements. RMMRU agreements can be presented before the village
+courts to secure a legally enforceable decree, which can then be pursued further in the assistant
+judge or first-class magistrate courts. This process provides a formal pathway to uphold
+mediation agreements and ensure justice for migrant workers and their families. However, it is
+important to note that institutionalizing community responses through BMET may not always
+be feasible, particularly when the disputes are unrelated to migration agents or sub-agents, such
+as land ownership transfers or the repayment of debts related to migration expenses. BMET’s
+mandate does not extend to resolving civil matters of this nature, limiting its ability to address
+broader community concerns.
+
+However, a significant challenge to fully realizing this linkage lies in the absence of laws
+permitting such a connection. Political influence within village courts, which are usually
+composed of at least three local union council members, could also skew decisions in favor of
+more powerful, politically affiliated, or affluent migration sub-agents or mahajons, potentially
+undermining the fairness of the resolution process.55 To mitigate this risk, it is essential to
+ensure that community responses are fairly mediated through RMMRU and other grassroots
+organizations before being taken to village courts. This ensures that mediation agreements are
+fair and just, minimizing the impact of political influence on the outcome.
+
+Moreover, the Village Courts Act 2006 provides an added layer of protection for community
+members by imposing a strict three-month deadline for resolving complaints.56 If a dispute is
+not resolved within this timeframe, the ad-hoc village court is automatically dissolved.57 This
+sunset clause helps safeguard against prolonged delays in dispute resolution, ensuring that
+community members can achieve timely justice without undue obstruction. On the other hand,
+BMET may also revert some cases to RMMRU and other grassroots organizations when
+limited documentation makes the disputes complex and requires strong community support and
+testimony to establish the facts. No matter whether the flow is top-down or bottom-up,
+legalizing grassroots mediation agreements through village courts could be an effective avenue
+to institutionalize community responses for developing an effective grievance management
+system for migrant workers in Bangladesh.
+
+In conclusion, while challenges exist in institutionalizing migration-related dispute resolution
+through BMET and village courts, the potential for collaboration between community
+organizations, local courts, and BMET remains strong. By addressing political biases and
+leveraging the strengths of both BMET and village courts, we can create a more effective and
+accessible system for resolving migration disputes and supporting the rights of vulnerable
+migrant workers and their families.
+
+
+
+
+55
+   Strong political connection of local migration brokers or sub-agents remain a big challenge for grassroots
+organizatins in mediating migration disputes; Key Informant Interview with Syed Saiful Haque, Chairman &
+Founder Member, WARBE DF (WARBE DF, 5 January 2025)
+56
+   Village Court Act 2006, sec 6(c)2
+57
+   ibid, sec 6(c)3
+                                                                                                    Page 39
+                                        CHAPTER FOUR
+
+
+     Bridging The Inclusion Gap to Access Gms —Sharing Experience From
+                                   Selective Asian Countries
+
+
+4.1: Factors Inhibiting Migrant Workers’ Inclusion in the Grievance Management
+System
+
+Migrant workers, often moving to foreign countries in search of better economic opportunities,
+frequently face a range of challenges, including disputes with employers or labour recruiters.
+Unfortunately, many migrants are unable to access the Grievance Management System
+effectively, resulting in prolonged exploitation, injustice, and even physical harm. Several
+factors inhibit their access to these systems, making it more difficult for them to resolve
+grievances and assert their rights.58 The purpose of this chapter is to highlight the primary
+factors inhibiting migrant workers' access to dispute resolution systems. As earlier chapters
+explained various initiatives of the government and other civil society organizations in
+protecting migrant workers' rights factors identified in this chapter are important to recognize
+the gaps for which we may gather good practice examples from other Asian countries.
+      •   Lack of Awareness of Rights and Mechanisms: A significant barrier for migrant
+          workers is their limited awareness of their rights and the dispute-resolution
+          mechanisms available to them.59
+      •   Lack of Pre-departure training: As observed in Nepal, insufficient training causes
+          migrant workers’ lack of understanding of how to access grievance systems once they
+          are employed abroad.60
+      •      Language Barriers: Migrant workers in Asia are often employed in countries where
+          they do not speak the local language, which complicates their ability to navigate legal
+          systems.61
+      •   Communication difficulties: Even when grievance mechanisms are available, the
+          inability to communicate effectively with legal bodies, embassies, or labour
+          department’s makes it challenging for workers to raise issues or seek redress for their
+          problems.62
+
+
+
+
+58
+   IOM UN Migration, ‘Operational Guidelines for Businesses on Remediation of Migrant Worker Grievance’
+(Migration, Business and Human Rights, 6 June 2023) < https://mbhr.iom.int/en/resources/tools/operational-
+guidelines-businesses-remediation-migrant-worker-grievances> accessed 7 January 2025
+59
+   ibid
+60
+   Prajesh Aryal and Arjun Kharel, ‘Does Pre-departure Orientation Protect Labour Migrants? Examining Pre-
+departure Interventions in Nepal’ (2023) 10 AGRUMING Policy Brief Series , 5
+61
+   Migrant Forum ASIA, ‘Challenges on Access to Justice for Migrants’
+<https://mfasia.org/migrantforumasia/wp-content/uploads/2018/05/Access-to-justice-is_MFA.pdf> accessed
+6 January 2025
+62
+   ibid
+
+                                                                                                  Page 40
+     •   Fear of Retaliation: Migrant workers often face the fear of retaliation from their
+         employers, especially when they work in countries with weak labour protections or high
+         levels of employer control.63.
+     •   Vulnerability to exploitation: This fear is heightened for undocumented workers or
+         those with expired visas, as they are often reluctant to approach authorities due to fear
+         of being deported or blacklisted.64
+     •   Bureaucratic Challenges and Complex Legal Processes: In many countries, the
+         grievance process can be complex, bureaucratic, and time-consuming.
+     •   Inaccessibility of support services: Migrants often struggle to find the right contacts
+         for support or face delays in getting assistance due to the overload of cases in the
+         grievance management systems.
+     •   Insufficient Legal Protection: In some migrant-receiving countries, there are
+         insufficient legal frameworks in place to protect migrant workers.
+     •   Weak enforcement: In many cases, even if a dispute is resolved through the grievance
+         mechanism, migrant workers may not receive compensation or be protected from
+         further retaliation, leading to a lack of confidence in the system.
+     •   Discrimination and Social Exclusion: Migrant workers, especially those from
+         marginalized or minority communities may face discrimination within the legal system.
+     •   Bias and inequality: Discrimination from authorities, legal professionals, or even
+         fellow workers can contribute to migrant workers feeling unsupported or unwelcome
+         within dispute resolution systems.
+     •   Financial barriers: The inability to afford legal assistance or navigate the complex
+         and costly legal processes is a major factor preventing migrant workers from effectively
+         resolving their disputes.
+     •   Limited Access to Legal Aid: Many migrant workers in developing Asian countries
+         including Nepal, Vietnam, and Sri-Lanka do not have access to affordable legal
+         assistance or cannot afford the legal fees associated with dispute resolution.
+     •   Lack of Support Systems and Advocacy: In many countries, there is a lack of
+         effective advocacy groups or support networks to assist migrant workers with their
+         grievances.
+     •   Corruption and Lack of Accountability: In some countries, corruption within legal
+         systems, government agencies, or labour departments may prevent migrant workers
+         from accessing justice.
+     •   Undue influence on legal outcomes: Corruption within the system can distort the
+         fairness of dispute resolution, making it difficult for migrants to trust that their
+         complaints will be addressed in an impartial manner.
+     •   Economic Dependency and Lack of Options: Migrant workers, especially women
+         and those in low-wage or informal sectors, often face economic pressures that force
+         them to endure substandard working conditions or exploitative practices.
+     •   Dependence on income: Migrants may fear the economic consequences of challenging
+         their employers, particularly when they depend on their earnings to support families
+         back home.
+     •   Governments, employers, NGOs, and international organizations must work together
+         to address these challenges by providing education on workers' rights, improving legal
+
+63
+   UNRBHR Forum Asia Pacific, ‘Justice in a Mobile World: Removing barriers to remedy for migrant workers’,
+Panel Discussion (25 September 2024) <https://www.rbhrforum.com/justice-mobile-world> accessed 6
+January 2025
+64
+   Migrant Forum ASIA, above n 62
+
+                                                                                                    Page 41
+       frameworks, increasing access to legal aid, and strengthening support networks for
+       migrant workers. Bridging these gaps will help ensure that migrant workers can
+       effectively resolve grievances, access justice, and protect their rights in both their host
+       countries and home countries.
+
+4.2: Identification of Access Gap in the Context of Grievance Management for
+Migration Workers in Bangladesh
+
+When considering the factors inhibiting migrant workers' grievance management in general
+and access to dispute resolution in particular, as discussed in various initiatives by stakeholders
+in this report, a few key barriers emerge. These barriers are significantly hindering migrant
+workers' ability to resolve disputes and, in some cases, contribute to protracted processes that
+fail to deliver lasting solutions.
+
+Firstly, various stakeholders have taken significant steps to raise awareness among prospective
+migrants and society about workers’ rights and the standard processes for making complaints
+(such as completing medical checkups, applying for an ID card, or checking visa status online).
+The Bureau of Manpower, Employment, and Training (BMET) has implemented language
+training courses to help workers overcome communication barriers abroad, and regular skill
+development programs are offered locally to prepare workers for skill-based employment
+opportunities overseas. Additionally, the Ministry of Foreign Affairs, alongside other relevant
+ministries, remains vigilant in negotiating with host countries to safeguard migrant rights and
+ensure that foreign governments do not expel workers under retaliation policies. Nevertheless,
+there are still notable challenges.
+
+For instance, many workers continue to face fraud, exploitation, and mistreatment before,
+during, and after migration. Some are expelled or forced to return home without compensation.
+Returnee migrant workers often struggle with bureaucratic hurdles and lengthy processes to
+file complaints, frequently lacking knowledge of the correct procedures or contacts for lodging
+grievances. To streamline this process, the government has established one-stop cells to register
+complaints from migrant workers. Yet, as a BRAC study highlights, many returnees, both male
+and female, experience psychological distress stemming from factors such as discrimination,
+harassment, lost wages, and the social stigma associated with returning home empty-handed.
+Hostile attitudes often strain family relationships, sometimes leading to separation or divorce.
+Additionally, the overwhelming financial burden caused by unpaid debts incurred during the
+migration process further exacerbates the psychological pressures returnee workers face.
+Unfortunately, counseling services provided by psychotherapists remain insufficient and are
+often unavailable to support these workers. Many returnee migrants face significant financial
+constraints, which hinder their ability to access dispute resolution forums, including BMET
+and formal courts.
+
+Furthermore, financial assistance, alongside proper training, is critical for rehabilitating
+returnee workers who may not receive adequate compensation and are left vulnerable with
+unresolved grievances. Several reports indicate that expatriate workers often receive little
+support from Bangladeshi government officials when confronting adverse working conditions
+or medical issues in host countries. Although this study primarily focuses on the role of
+stakeholders in securing migrant rights in Bangladesh, it is evident that many grievances could
+be addressed more effectively if workers received timely intervention from Bangladeshi
+government officials abroad to negotiate on their behalf with foreign employers. With the
+objective of drawing lessons, the following section discusses the mode of interventions and
+
+                                                                                           Page 42
+assistance made by various Asian governments to soothe constraints and facilitate migrant
+workers’ access to the Grievance Management System.
+
+4.3: Good Practices in Migration Grievance Management: Experience from Asia
+
+Though many countries in Asia are still struggling in developing an effective grievance
+management system for migrant workers and upholding their rights still there are many good
+practices that can be shared from other Asian countries to improve the grievance management
+system or migrant workers in Bangladesh. In this regards, this section briefly introduce a
+number of good practices observed in Sri-Lanka, Vietnam, and the Philippines that can be
+instrumental for Bangladesh.
+
+In Sri Lanka, human rights organizations work in collaboration with Sri Lanka Bureau of
+Foreign Employment (SLBFE) and the Sri Lankan government to advocate for workers' rights,
+addressing the challenges faced by migrant workers, particularly in cases of exploitation, abuse,
+and other legal issues. Therefore, rights of migrant workers are treated as human rights. In
+Philippines a number of government agencies including the Overseas Workers Welfare
+Administration, Philippine Overseas Employment Administration, Department of Foreign
+Affairs, National Labour Relations Commission, and Philippine Overseas Labour Offices
+collaborate to ensure safe migration and upholding their rights both at home and abroad. As
+the volume of migrant workers is increasing in Bangladesh over the years, specialized service
+and strong co-ordination of various government agencies may improve the overall grievance
+management for migrant workers in Bangladesh. In case of Vietnam all recruitment agencies
+are regulated by the government, and they must provide workers with clear, legally binding
+contracts. These contracts should outline the rights and responsibilities of the migrant worker
+and employer. The government ensures that these agencies inform workers about their legal
+options in case of disputes. As vague and brief contracts sometimes make it difficult for migrant
+workers in Bangladesh to claim their rights, detailed and transparent migration contracts could
+be a key to reduce migration grievance in Bangladesh.
+
+
+
+
+                                                                                         Page 43
+                                          CHAPTER FIVE
+     A Comprehensive Migration Grievance Management System Integrating
+        Community Responses: Role of Nalso and Mowca in Perspective
+
+
+5.1 NLASO—A Potential Organization for Creating Synergy in the Migration Dispute
+Resolution Process
+
+Accessing justice should not be limited by one's financial situation, and NLASO is dedicated
+to ensuring that individuals in need receive the legal support they deserve.65 As illustrated in
+Figure 5.1 below, the NLASO legal aid Alternative Dispute Resolution (ADR) process begins
+with a straightforward application, where applicants provide case details and demonstrate their
+financial inability to afford legal representation.66 After receiving an application through
+NLASO or directly at his office a legal aid officer conducts a thorough eligibility assessment,
+taking into account both the applicant’s financial situation and the legal nature of the case. If
+the applicant meets the criteria, they are promptly assigned a qualified lawyer or a team of
+lawyers to represent them in the relevant legal forum or court.67 Before proceeding with
+litigation, however, the Legal Aid Officer first encourages the applicant to attempt resolving
+their dispute through mediation,68 which may take place at the officer’s office or any other
+mutually convenient location.69 Once the applicant agrees, the Legal Aid Officer (LAO)
+proceeds to serve notice to the opposing party, specifying the date, time, and venue for the
+mediation session.70 Mediation begins only if both parties consent to participate.
+During the mediation session, the Legal Aid Officer does not impose a decision on the parties
+but instead fosters an environment conducive to open participation.71 The officer explains the
+process to both parties, listens to their cases, and identifies the key issues causing the dispute.72
+The mediator facilitates communication between the parties and assists in developing options
+that lead to a mutually beneficial solution, remaining neutral and impartial throughout the
+process. If an agreement is not reached during the first session, the Legal Aid Officer may
+postpone the session, scheduling a follow-up within no more than seven days.73 Should the
+parties come to a resolution through mediation, the Legal Aid Officer records the terms of the
+agreement, ensures both parties understand the document and facilitates their signatures.74 The
+officer then signs the document and affixes the official seal. A copy of the signed agreement is
+
+65
+   Jamila A Chowdhury, ‘Legal Aid and Women's Access to Justice in Bangladesh: A Drizzling in the Desert’ (2012)
+1(3) International Research Journal of Social Sciences, 8 <https://www.researchgate.net/profile/Jamila-
+Chowdhury/publication/299445630_Legal_Aid_and_Women%27s_Access_to_Justice_in_Bangladesh_A_Drizzli
+ng_in_the_Desert/links/56f7f72608ae7c1fda307165/Legal-Aid-and-Womens-Access-to-Justice-in-Bangladesh-
+A-Drizzling-in-the-Desert.pdf>
+66
+   Legal Aid Services Act 2000, sec 16
+67
+   Legal Aid (Legal Advice and Alternative Dispute Resolution) Rule 2015, r 3(3)
+68
+   ibid r3(4)(a)
+69
+   ibid r(5)
+70
+   ibid r 6,7
+71
+   ibid r11
+72
+   ibid
+73
+   ibid r10
+74
+   ibid, r13(1)
+
+                                                                                                       Page 44
+sent to both parties and the legal aid committee within five days. 75 If the mediation does not
+result in an agreement, a failure report is prepared and sent in the same manner and timeframe.76
+Figure 5.1: NLASO ADR Process to Access Legal Aid
+                                          Easy Application Process
+                                          • Case details
+                                          • Demonstrate financial
+           Assessment for                                                  Legal Aid Officer
+                                            incapacity
+           Eligibility                                                          (LAO)
+           • Financial
+           condition
+                                              Eligible for Legal Aid      Invite the
+           • Nature of a case
+                                                                         applicant to
+                                                                          Mediation
+                Ineligible          1st Party
+                                                                         1st Party Not
+                                   Agreed to                                                      Prepare
+                                                                          agreed to
+                                   Mediation                                                     report on
+                                                                          Mediation
+                                                                                                 failure of
+                                                                                                mediation
+                     Invite the other party                              2nd Party Not
+                                                                                                and advice
+                                                                           agreed to
+                                                                                                to proceed
+                                                                          Mediation
+                                                                                               for trial with
+            2nd Party              Attend              No Agreement
+                                                                                                  legal aid
+            Agreed to             Mediation               reached
+            Mediation
+
+                                                        Signed by the
+                                   Agreem
+                                                       parties and the
+                                     ent
+                                                       LAO Mediator
+
+
+
+
+                                                                                            Legal Aid
+                                                         Copy sent to                      Committee
+                                                            (legal
+                                                          document)
+
+
+
+As an efficient and cost-effective alternative to lengthy court proceedings, NLASO's mediation
+process is particularly effective in resolving family and civil disputes, fostering amicable
+solutions that benefit all parties involved. Even if the parties do not choose to resolve their
+disputes through legal aid, NLASO continues to offer comprehensive legal support, assisting
+with document preparation and court representation. Once a case reaches a resolution, NLASO
+follows up diligently to ensure that clients receive any compensation or benefits awarded.
+Whether the dispute is settled through mediation or other ADR methods, NLASO works to
+ensure the enforcement of these agreements, providing lasting peace of mind to all parties.
+Therefore, for offering comprehensive legal aid services, NLASO has a mandate to ensure that
+justice remains accessible, fair, and within reach for individuals, regardless of their financial
+circumstances.
+
+
+
+75
+     ibid, r13(3)
+76
+     Ibid, r13(2)
+
+                                                                                                            Page 45
+5.2: Strengths and Weaknesses of NLASO ADR Practices
+
+As discussed, the National Legal Aid Services Organization (NLASO) in Bangladesh is a vital
+force in ensuring that marginalized communities, especially distressed returnee migrants, have
+access to justice. With its extensive network extending to the upazila level, NLASO provides
+legal aid and Alternative Dispute Resolution (ADR) services where they are needed most,
+empowering migrants who often face exploitation or unfulfilled agreements by local sub-
+agents. Migrants can connect to NLASO’s helpline to access crucial legal advice and
+assistance, giving them the confidence and tools they need to address disputes effectively. For
+financially vulnerable migrant workers, NLASO’s free legal services are not just a
+convenience—they are a lifeline. By offering legal advice at no cost, NLASO ensures that these
+individuals understand their rights, breaking the barriers that prevent them from pursuing
+justice. This knowledge not only alleviates the stress of navigating the legal system but also
+empowers workers to continue their legal journey despite financial hardships.
+
+Perhaps most importantly, NLASO’s approach to mediation and ADR helps to level the playing
+field, providing migrants with the support needed to negotiate fair outcomes. With expert legal
+advice and strategic mediation, they are better equipped to advocate for themselves, ensuring
+that they don’t just accept unjust outcomes but fight for their rightful share. This empowerment
+ultimately helps to restore trust in the legal system, demonstrating that everyone—regardless
+of their financial situation—can access justice and fair resolution. Furthermore, the Legal Aid
+ADR rule enables LAOs to follow a standard mediation procedure that can be applied.
+
+By offering accessible, affordable, and efficient legal support, NLASO is not only resolving
+disputes but also strengthening the resilience and dignity of migrant workers, enabling them to
+hold powerful parties accountable and build a better future for themselves and their families.
+
+Table 5.1: Government Legal Aid Services: 2009- 2024 (up to November)
+Service provider         Legal advice     Legal Aid to resolve     ADR services (Pre- Service through
+office                                    through trial            case and Post-     hotline (before
+                                                                   case)              the helpline)
+                                          No of cases Cases        Initiated Resolved
+                                          received     resolved    for ADR through
+                                          LA           through LA            ADR
+Supreme Court            25,137                  3,225       2,275 146,480 133,515
+Legal Aid Office
+District Legal Aid       226,699                402,233          204,294     3,299     1,912    17328
+Office
+Dhaka &                  21,257                   4,407             795
+Chittagong
+Labour Aid Cell
+Helpline                 180,765
+Total                                           409,865       207,364      149,779    135,427
+(%)                                              (100%)      (50.60%)       (100%)   (90.42%)
+Source: NLASO, Ministry of Law, Justice and Parliamentary Affairs77
+
+
+77
+     NLASO, Ministry of Law, Justice and Parliamentary Affairs
+
+                                                                                                Page 46
+As indicated in Table 5.1, Alternative Dispute Resolution (ADR) has a significantly higher
+potential for resolving cases compared to formal trial procedures. For example, while legal aid
+through trial cases shows an effective resolution rate of 50.60%, mediation services achieve a
+resolution rate of over 90%. However, a recent study across several legal aid offices in
+Bangladesh reveals that ADR initiatives face challenges such as low client awareness, lack of
+motivation from lawyers, and inadequate training for judges and legal aid officers in
+conducting effective ADR sessions.
+
+For migration workers, two specific limitations further hinder the success of NLASO ADR.
+First, there is no referral service to guide and motivate prospective migrant clients to access
+free ADR services or subsequent legal aid. Therefore, despite having their unappeased
+grievances, migrant workers may stop to proceed further, due to their constrained financial
+condition. Second, NLASO’s ADR services are restricted to clients who are mentally and
+physically stable enough to participate in mediation. This is a particular challenge for returnee
+migrants, especially female migrant workers who have suffered physical or sexual harassment
+abroad. These women often experience severe mental stress, hindering their ability to engage
+effectively in mediation. Many remain silent, entering mediation with a mindset of "low reward
+expectation." It is essential that such women receive proper counseling or therapy before
+participating in mediation to ensure their effective involvement in the process. The next section
+will explore how the Ministry of Women and Children Affairs can help fill this gap through
+counseling services.
+
+5.3 MoWCA- A Potential Big Player Ensuring Inclusion and Effective Grievance
+Management for Female Migrant Workers
+
+The Ministry of Women and Children Affairs (MoWCA) in Bangladesh works to protect the
+rights and well-being of women and children, addressing issues like domestic violence, child
+marriage, and exploitation. The central office of MoWCA and NLASO are situated in the same
+premise in Dhaka, similar to their close physical location MoWCA works closely with NLASO
+to provide legal support to female victims of gender violence. As the NLASO initiatives and
+procedures have already been discussed in this Chapter, the remaining discussion is dedicated
+to explaining how MoWCA is re-empowering women under stress and trauma after
+experiencing various forms of violence.
+
+The Ministry of Women and Children Affairs (MoWCA) has undertaken a series of pivotal
+initiatives aimed at empowering and supporting destitute women, especially those who have
+suffered from violence, trauma, and abuse. Through counseling, psychosocial training, and a
+range of support services, MoWCA has been providing crucial assistance to help women not
+only overcome their past experiences but also regain the strength to rebuild their lives.
+One of the cornerstone initiatives of MoWCA is its network of One-Stop Crisis Centres
+(OCCs), which are strategically located in Public Medical College Hospitals across the country.
+These centers offer comprehensive, multi-faceted support under one roof, ensuring that women
+victims of violence and rape receive the care and attention they deserve. Services at these
+centres include healthcare, police assistance, DNA testing, social services, legal assistance,
+
+
+
+
+                                                                                         Page 47
+psychosocial counseling, and shelter.78 As a result, victims can access immediate, coordinated,
+and holistic care, effectively addressing both their physical and emotional needs.
+The journey of the One-Stop Crisis Centres began in 2001, in collaboration with the
+Government of Denmark, as a pilot project. The first two OCCs were established at Dhaka and
+Rajshahi Medical College Hospitals. Since then, the network has expanded to 14 OCCs across
+Bangladesh, with centres in major cities such as Chittagong, Sylhet, Barisal, and Khulna. By
+2011, additional centres were established in Rangpur and Faridpur, and to date, over 18,000
+women and children have benefited from these services, providing evidence of the tremendous
+impact and success of this initiative.
+In addition to these 14 One-Stop Crisis Centres, MoWCA has extended its reach by establishing
+47 One-Stop Crisis Cells at district hospitals and 20 cells at Upazila health complexes, ensuring
+that women and children across the country have access to support in times of need.
+Furthermore, MoWCA runs National and Regional Trauma Counseling Centres to offer long-
+term healing through psychosocial counseling. These centers provide women and children with
+the mental and emotional support needed to recover from their experiences and move forward
+with their lives.
+For women in need of immediate support, MoWCA offers a toll-free national helpline (109),
+available 24/7, ensuring that help is always within reach. Additionally, to ensure the safety and
+security of women who may be in danger during trials or in need of temporary residence,
+MoWCA operates shelter homes in six locations. These homes provide not only safe refuge
+but also essential services such as meals, clothing, healthcare, and primary education for
+children. Women and their children are given the opportunity to rebuild their lives, often
+receiving training in various skills that enable them to become self-reliant.
+The Ministry's commitment to women’s rights extends beyond direct services. MoWCA has
+been an advocate for significant legal reforms, including the Women and Children Repression
+Prevention (Amendment) Act, 2020, which imposes harsh penalties on perpetrators of rape.
+Furthermore, the establishment of 101 tribunals ensures that cases of gender-based violence
+are expedited, helping victims achieve justice swiftly and efficiently. At the grassroots level,
+MoWCA has built a vast network to raise awareness of gender violence and advocate for the
+rights of women and children at every tier of society, from the central to the union level.
+However, despite these extensive efforts to combat gender-based violence and empower
+women, there is a critical gap: MoWCA currently lacks formal partnerships with government
+and non-governmental organizations to assist female migrant victims. These women, who are
+vulnerable and in need of immediate support, are often left without the necessary shelter or
+services they are entitled to. Bridging this gap is essential for ensuring that all women,
+regardless of their background or status, have access to the protection and services they need
+to heal and thrive.
+In conclusion, MoWCA’s initiatives have already made a profound difference in the lives of
+thousands of women and children across Bangladesh. With a commitment to legal advocacy,
+
+78
+  Government of Bangladesh, ‘Implementation of the Convention on the Rights of the Child’ Written Reply to
+the Fifth Periodic Report, reply no. 23(27) <
+https://mowca.portal.gov.bd/sites/default/files/files/mowca.portal.gov.bd/page/6768565c_9b45_4aed_b390
+_919a52462d6c/CRC_draft_final_15.6.2015_bn.pdf> accessed 28 December 2024
+
+                                                                                                  Page 48
+comprehensive crisis support, and long-term healing, MoWCA has established itself as a
+champion for women’s rights. To further its mission, it is imperative that formal linkages are
+created with organizations serving female migrant victims, ensuring that no woman is left
+behind in the fight for justice and dignity.
+
+5.4 An Integrated Grievance Management System Institutionalising Community
+Responses Alleviating the Inclusion Gap through NLASO Legal Aid
+
+Building on the model proposed in Figure 3.2 to institutionalize community-based responses
+through village courts, Figure 5.2 illustrates how migrant workers, who remain excluded from
+the grievance management system due to economic hardship can be effectively integrated into
+the system using NLASO legal aid to ensure that their rights are protected. For this stakeholders
+involved in migration ADR practice need to build an effective partnership and an
+institutionalized referral mechanism in this regard.
+As shown in Figure 5.2, integrating counseling services, potentially in collaboration with
+MoWCA, can provide vital support to women experiencing mental distress, enabling them to
+engage effectively in the dispute resolution process. Additionally, incorporating NLASO legal
+aid and NLASO ADR mechanisms offers an added layer of protection, ensuring migrant
+workers have the resources and support necessary to secure their rights
+Figure 5.2: Inclusive Model Institutionalising Community Responses and NLASO Legal
+Aid for Migration Dispute Resolution
+
+
+
+     No
+  Agreeme
+     nt
+                                                                  BMET
+                                                                                   Not Abide by
+                            Resolved           Abide by
+                                                                                    or criminal
+                                                                                      matter
+
+
+
+
+      RMMRU                 Agreeme             Village                               NLASO
+      Mediation                nt                               Not Abide by          Mediati
+                                                Court
+                            reached                               or out of             on
+       process
+                                                                 jurisdiction
+
+
+
+                                                                          Resolv
+                                                                                    Not Resolved
+                                                                            ed
+
+
+
+                                                                         Decree         Court
+                                                                                        Trial
+
+
+
+
+                                                                                          Page 49
+5.5 Potential Inclusion of MoWCA Counseling Services to develop a pro-women
+Grievance Management System for Migrant Workers in Bangladesh
+
+Building on the model proposed in Figure 3.2 to institutionalize community-based responses
+through village courts, Figure 5.3 illustrates how female migrant workers, who remain
+excluded from the grievance management system due to economic hardship or mental distress,
+can be effectively integrated into the system to ensure that their rights are protected.
+
+
+Figure 5.3: Pro-women ADF Model Institutionalising Community Responses, Legal Aid
+and MoWCA Counseling Services for Migration Dispute Resolution
+
+
+
+     No
+  Agreeme
+     nt
+                                                               BMET
+                                                                                Not Abide by
+                           Resolved          Abide by
+                                                                                 or criminal
+            MoWCA                                                                  matter
+            Counselin
+            g service
+
+
+
+
+     RMMRU                 Agreeme            Village                              NLASO
+     Mediation                nt                             Not Abide by          Mediati
+                                              Court
+                           reached                             or out of             on
+      process
+                                                              jurisdiction
+
+
+
+                                                                       Resolv
+                                                                                 Not Resolved
+                                                                         ed
+
+
+
+                                                                      Decree         Court
+                                                                                     Trial
+
+
+As shown in Figure 5.3, integrating counseling services, potentially in collaboration with
+MoWCA, can provide vital support to women experiencing mental distress, enabling them to
+engage effectively in the dispute-resolution process. Additionally, incorporating NLASO legal
+aid and NLASO ADR mechanisms offers an added layer of protection, ensuring migrant
+workers have the resources and support necessary to secure their rights.
+
+
+
+
+                                                                                       Page 50
+                                      CHAPTER SIX
+
+
+                                    Recommendations
+
+
+6.1: Recommendations for an Inclusive and Effective Grievance Management System
+Institutionalising Community Responses
+
+Grievance management plays a crucial role in ensuring the well-being and protection of
+migrant workers, particularly in countries like Bangladesh, where the migration of workers for
+employment abroad is a significant aspect of the economy. Migrant workers often face
+numerous challenges, including exploitative labour conditions, lack of legal protection, and
+inadequate access to support mechanisms, which can lead to grievances that remain unresolved
+or poorly addressed. An effective grievance management system is vital in providing workers
+with a safe and accessible channel to voice their concerns during ADR sessions, seeking justice,
+and securing their rights.
+
+This chapter outlines critical recommendations for improving grievance management systems
+for Bangladeshi migrant workers. The goal is not only to enhance existing mechanisms but also
+to introduce innovative strategies that empower workers, protect their rights, and hold
+employers and intermediaries accountable—especially during mediation and arbitration
+processes. By addressing these recommendations, the government, employers, recruitment
+agencies, and civil society organizations can foster a more supportive, just, and equitable
+environment for resolving disputes and soothing grievances for migrant workers. This, in turn,
+will significantly contribute to their well-being and drive the social and economic progress of
+Bangladesh.
+
+Considering the GMS for various government and non-government organizations discussed
+throughout this report, and a gap analysis and good practice sharing from other Asian countries
+in Chapter Four, this report identified two primary concerns that have emerged as pivotal to
+advancing migrant workers' welfare: ensuring effective access to dispute resolution systems
+and creating a secure environment that curtails the grievance of migrant workers against illegal
+activities of local sub-agents, and various other related issues. These are providing legal aid to
+returnee migrant workers unable to access the dispute resolution forums or remain mentally
+distressed and not able to attend mediation or arbitration without having effective counseling
+services beforehand. Another key focus is raising awareness within society and among aspiring
+migrant workers regarding their rights and duties. It is also crucial for the government to
+introduce or amend laws and build capacity to protect its citizens from foreseeable fraudulent
+activities, preventing the escalation of grievances. By acting on these recommendations, we
+can pave the way for a just migration environment, supported by institutional responses and
+legal protections.
+
+The following key recommendations are essential for developing an effective grievance
+management system that institutionalise community responses in the overall grievance
+management system, and particularly in the dispute resolution practices through various modes
+of ADR.
+
+                                                                                          Page 51
+6.1.1 Establish a Standing Committee for Dispute Resolution
+
+
+The Ministry of Expatriates’ Welfare and Overseas Employment (MoEWOE) should develop
+a Standing Committee for grievance management under the BMET as a dedicated mechanism
+for dispute resolution. The Standing Committee may comprise representatives from BMET,
+relevant government agencies, recruiting agencies, civil society organizations, and legal
+experts, DEMO members as well as GMCs from grassroots.
+
+6.1.2 Include Expatriate Representatives and Community Organizations in the Policy
+Forum
+
+The government should appoint one or two members from expatriate communities or
+organizations dedicated to migrant workers’ welfare. Including representatives from the
+migrant community and grassroots organisations like RMMRU will guarantee that their voices
+are reflected in shaping policies that directly affect them, fostering more inclusive and relevant
+policy-making processes.
+
+6.1.3 Strengthen Collaboration Between BMET and Grassroots Organizations
+It is crucial to formalize partnerships between BMET and grassroots organizations like
+RMMRU. These collaborations will enhance the Alternative Dispute Resolution (ADR)
+process, ensuring that the valuable work of grassroots organizations is not undermined or lost
+as disputes are transferred from grassroots to BMET or formal courts. However, to influence
+BMET or the court to recognize the documents generated at the grassroots, these organizations
+need to standardise dispute resolution templates that can foster greater understanding and
+cooperation across all stakeholders, improving the effectiveness of grievance management.
+6.1.4 Provide Legal Aid Access for Returnee Migrant Workers
+A significant barrier for returnee migrant workers is the lack of financial resources to pursue
+justice. To address this, grassroots organizations should have direct access to the district legal
+aid committees. By including a representative from these organizations, migrant workers can
+receive timely legal assistance, ensuring they can seek justice through BMET or the courts
+without financial constraints.
+6.1.5 Decentralize BMET ADR Services to Reach All Migrant Workers
+BMET has already taken steps to decentralize its ADR services through DEMO at district level
+to make them accessible to migrant workers who face financial and logistical barriers to
+accessing services in Dhaka. Further, local BMET offices should be equipped to handle
+arbitration services effectively, with representatives from grassroots organizations ensuring the
+process remains objective. In the interim, BMET can offer online arbitration services,
+conducted at local offices, to facilitate greater accessibility and minimize the burden on migrant
+workers.
+6.1.6. Extend MoWCA Counseling Services to Female Migrant Workers
+The Ministry of Women and Children Affairs (MoWCA) currently provides counseling to
+destitute women, and this initiative should be expanded to support returnee female migrant
+workers who may be experiencing emotional distress. By referring these women to MoWCA
+services, organizations like RMMRU can help them regain emotional stability, empowering
+them to engage in the dispute-resolution process with confidence. If space in MoWCA’s safe
+
+                                                                                          Page 52
+homes is limited, these services could also be offered online, ensuring continued support for
+these vulnerable women.
+6.1.7. Follow a Mediation Rule for a Commonly Shared Understanding of Procedural
+Details
+Organizations continue to express the importance of the dispute resolution process, including
+questions such as: Who will receive complaints? Who should be on the mediation committee?
+How should a mediation agreement be summarized? And what actions should be taken if
+parties fail to comply with an agreement? While these aspects are commonly addressed with
+slightly varied forms, the procedural details regarding how a mediator can establish initial trust
+and confidence among parties, as well as the dos and don’ts to ensure fairness in the mediation
+process, remain largely unspoken. These procedures are typically followed informally, with
+varied interpretations by different mediators. However, to foster effective collaboration, there
+must be a shared understanding of the procedural framework, preferably a clearly defined
+mediation rule.
+6.1.8. Develop a Theory of Change with Common and Shared Responsibilities Among
+Stakeholders
+Grassroots organizations such as RMMRU and relevant right- based organisations focus on
+providing services to migrant workers, including social awareness, skills training, and
+assistance with pre-departure formalities. However, these efforts often overlap and, in many
+cases, remain insufficient when measured against the national demand for such services. The
+same can be said for other entities like BMET, NLASO, Village Courts, and MoWCA. To
+develop a comprehensive, long-term strategy, it is crucial for all relevant stakeholders to
+collaborate in conducting a needs assessment and gap analysis. This will enable the
+development of a shared theory of change, with clearly defined roles and responsibilities. The
+Sustainable Development Goals (SDGs) and their associated monitoring mechanisms can play
+a pivotal role in guiding this collaborative effort.
+By adopting these strategic recommendations, Bangladesh can take a major step forward in
+creating a more equitable migration environment. These measures will empower migrant
+workers, protect their rights, and strengthen the systems designed to support them, ultimately
+contributing to the overall development and prosperity of the nation.
+
+6.2 Future Research Niche
+
+To activate the proposed integrated GMS model, the first step, after achieving general
+consensus among key stakeholders, including the government and donors, should be
+conducting a thorough needs assessment and capacity analysis. This should be followed by
+the development of a robust theory of change, outlining shared and common responsibilities
+aimed at meeting targets aligned with long-term objectives, ideally the SDGs.
+
+Further research will be essential to effectively carry out these tasks. A crucial area of this
+research would focus on developing a comprehensive mediation rule, complete with clear
+procedural guidelines and documentation templates. These tools would enable grassroots
+organizations to follow a structured approach to dispute resolution and to escalate issues to
+higher forums when necessary.
+
+
+
+
+                                                                                          Page 53
+                                    REFERENCES
+ACCORD, ‘Bottom-up approaches to peace: a holistic approach to conflict prevention and
+      peace building’ (Conflict & Resilience Monitor, 20 December 2021) <
+      https://www.accord.org.za/analysis/bottom-up-approaches-to-peace-a-holistic-
+      approach-to-conflict-prevention-and-peacebuilding/> accessed 12 December 2024
+Adesina Osho, Iyalla Essien-Abasi, and Felix Ekweli, ‘Institutionalization: A Contemporary
+       Perspective of the Old and New Institutionalism for Managers’ (2018) 5(2)
+       International Journal of Healthcare Sciences, 624; see also, Andrew Whitworth,
+       Radical Information Literacy (Chandos Publishing 2014)
+Aminul Haque Tushar, ‘The Migration Grievance Redress Mechanism’ The Financial Express
+       (Online, 19 January 2019) < https://thefinancialexpress.com.bd/views/analysis/the-
+       migration-grievance-redress-mechanism-1547821416> accessed 20 November 2024
+Ashraful Azad, ‘Recruitment of Migrant Workers in Bangladesh: Elements of Human
+       Trafficking for Labour Exploitation’ (2018) 5(2) Journal of Human Trafficking 1
+BMET (Bureau of Manpower, Employment and Training). ‘Overseas Employment and
+       Remittances (1997-2023)’
+       <old.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=16> accessed 10 June
+       2024
+BMET, ‘Major Functions’ < https://old.bmet.gov.bd/BMET/aboutAction> accessed 22
+       November 2024
+BMET,          ‘Overseas      Employment        &      Remittances        (1976-2023)’     <
+       https://old.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=16> accessed 30
+       December 2024
+Chandan Kumar Mandal and Sangam Prasin, ‘Nepal: Supreme Court orders Gov't to use
+       welfare fund to repatriate migrant workers in vulnerable conditions immediately’, The
+       Kathmandu Post (Kathmandu, 16 Jun 2020) < https://www.business-
+       humanrights.org/en/latest-news/nepal-supreme-court-orders-govt-to-use-welfare-fund-
+       to-repatriate-migrant-workers-in-vulnerable-conditions-immediately> accessed 15
+       May2024
+Christine Nesbitt, ‘Remittances matter: 8 facts you don’t know about the money migrants
+       send back home’ (UN News, 15 June 2019)
+       <https://news.un.org/en/story/2019/06/1040581> accessed 18 May 2024;
+Christopher J. Coyne , ‘Peacemaking: Top-Down vs. Bottom-up’ (2023) GMU Working
+      Paper in Economics 23-42, 1
+      <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4566357> accessed 22
+      December 2024
+Easy Sociology, ‘Institutionalization: An Overview’ (Easy Sociology, 7 September 2024)
+      <https://easysociology.com/general-sociology/institutionalization-an-overview/>
+      accessed 20 December 2024
+Erica Wiseman, ‘The Institutionalization of Organizational Learning: A Neoinstitutional
+      Perspective’ (Learning Fusion Conference, University of Warwick, 2007) <
+      https://warwick.ac.uk/fac/soc/wbs/conf/olkc/archive/olkc2/papers/wiseman.pdf>
+      accessed 12 January 2025
+Foreign Employment Act 2007 [Nepal], sec 77(a)
+
+
+                                                                                    Page 54
+Government of Bangladesh, ‘Implementation of the Convention on the Rights of the Child’
+       Written Reply to the Fifth Periodic Report, reply no. 23(27) <
+       https://mowca.portal.gov.bd/sites/default/files/files/mowca.portal.gov.bd/page/676856
+       5c_9b45_4aed_b390_919a52462d6c/CRC_draft_final_15.6.2015_bn.pdf> accessed 28
+       December 2024
+Heila Sha and Mohammad Rashed Alam Bhuiyan, ‘“Amar beton khub e kom": The Role of
+       Commercial Recruitment Intermediaries in Reinforcing Gendered and Racialised
+       Inequalities’ (2022) 5(1&2) The Journal of Critical Global South Studies 164
+ICT Division, ‘Post-COVID-19 ICT Roadmap: The Labour Migration and Remittance sector’
+      (Government of Bangladesh, nd) <
+      http://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/page/6c9773a2_7556
+      _4395_bbec_f132b9d819f0/ICT%20Roadmap_two-
+      pager_The%20Labour%20Migration%20and%20Remittance%20sector%20%281%29.
+      pdf> accessed 22 December 2024
+IOM and CREST, Addressing Women Migrant Workers Vulnerabilities in International Supply
+       Chains
+       <https://roasiapacific.iom.int/sites/g/files/tmzbdl671/files/documents/addressing-
+       women-migrant-worker-vulnerabilities.pdf> accessed 20 December2024
+IOM UN Migration, ‘Operational Guidelines for Businesses on Remediation of Migrant
+       Worker Grievance’ (Migration, Business and Human Rights, 6 June 2023) <
+       https://mbhr.iom.int/en/resources/tools/operational-guidelines-businesses-remediation-
+       migrant-worker-grievances> accessed 7 January 2025
+IOM. ‘Emergency Repatriation Fund’ <https://micicinitiative.iom.int/emergency-repatriation-
+       fund> accessed 12 May 2024; see also, Overseas Workers Welfare Administration.
+       ‘Repatriation Assistance Program’<https://owwa.gov.ph/?page_id=143 5> accessed 12
+       May 2024
+Jamila A Chowdhury, ‘ADR Theories and Practices: A Glimpse on Access to Justice and
+      ADR in Bangladesh’ (4th Edition, London College of Legal Studies (South) 2022, 182)
+Jamila A Chowdhury, ‘Legal Aid and Women's Access to Justice in Bangladesh: A Drizzling
+       in the Desert’ (2012) 1(3) International Research Journal of Social Sciences, 8
+       <https://www.researchgate.net/profile/Jamila-
+       Chowdhury/publication/299445630_Legal_Aid_and_Women%27s_Access_to_Justice
+       _in_Bangladesh_A_Drizzling_in_the_Desert/links/56f7f72608ae7c1fda307165/Legal-
+       Aid-and-Womens-Access-to-Justice-in-Bangladesh-A-Drizzling-in-the-Desert.pdf>
+Jamila A Chowdhury, Key Informant Interview with Syed Saiful Haque, Chairman & Founder
+      Member, WARBE DF (WARBE DF, 5 January 2025)
+Lawton K. Swan, Martin Heesacker, and Kelly M.King, ‘Are some descriptions of
+      psychotherapy perceived as more (or less) stigmatizing than others? A preliminary
+      investigation’ (2016) 1(4) Stigma and Health 263
+Legal Aid (Legal Advice and Alternative Dispute Resolution) Rule 2015
+Legal Aid Services Act 2000 [Bangladesh]
+LynneG. Zucker, ‘Institutional theories of organization’ (1987) 13 Annual Review of
+      Sociology 443
+
+
+
+
+                                                                                       Page 55
+M. Aslam Chaudhary and S. Nisar H. Hamdani, ‘Return Migrants and International Transfer
+       of Technology: A Case Study of Azad, Jammu and Kashmir’ (2002) 17(2) Journal of
+       Economic Integration 339
+Mary Romero, and Nancy Pérez, ‘Conceptualizing the Foundation of Inequalities in Care
+       Work’ (2016) 60(2) American Behavioral Scientist 172
+Migrant Forum ASIA, ‘Challenges on Access to Justice for Migrants’
+       <https://mfasia.org/migrantforumasia/wp-content/uploads/2018/05/Access-to-justice-
+       is_MFA.pdf> accessed 6 January 2025
+Nicola Nixon, ‘Going legitimate? Tackling migration scams in Bangladesh’ (From Poverty to
+       Power, May 15, 2024) <https://frompoverty.oxfam.org.uk/going-legitimate-tackling-
+       migration-scams-in-bangladesh/> accessed 5 January 2025
+NLASO, Ministry of Law, Justice and Parliamentary Affairs
+OKUP, ‘Living with Violence: Mental Health Consequences of Women Migrant Workers’
+       (2010) Migrants’ Rights are Human Rights (Special Issue, 10 December 2021) <
+       https://www.okup.org.bd/wp-content/uploads/2021/12/Living-with-Violence-Mental-
+       Health-Consequences-of-Women-Migrant-Workers-2.pdf> accessed 12 December
+       2024
+Owasim Uddin Bhuyan, ‘Bangladesh loses Tk 2,700cr annually due to cheating, fraud in
+       migration’       Business      Insider     (Bangladesh,     24      August      2022)
+       <https://www.businessinsiderbd.com/economy/news/27186/bangladesh-loses-tk-
+       2700cr-annually-due-to-cheating-fraud-in-migration> accessed 22 September 2024
+Pamela S. Tolbert, Robert J. David, and Wesley D. Sine, ‘Studying Choice and Change: The
+      Intersection of Institutional Theory and Entrepreneurship Research’ (2011) 22(5)
+      Organization Science, 1332
+Prajesh Aryal and Arjun Kharel, ‘Does Pre-departure Orientation Protect Labour Migrants?
+       Examining Pre-departure Interventions in Nepal’ (2023) 10 AGRUMING Policy Brief
+       Series, 5
+Rachel A. DiComo, and Matthew Mychailyszyn, ‘The Relationship between Stigma and
+       Helping-Seeking Behaviors among Refugee, Asylum Seeker, Immigrant (RASI)
+       Populations Specifically of Muslim Origin’ (2021) 15(2) Journal of Muslim Mental
+       Health
+RMMRU, ‘Corruption behind shrinking overseas labour market’ (The Daily Star, Dhaka, 29
+       December 2024) < https://www.thedailystar.net/top-news/news/corruption-behind-
+       shrinking-overseas-labour-market-3786786> accessed 2 January 2024; see also, IOM,
+       World Migration Report 2024 (UN Migration 2024)
+RMMRU. ‘Migration, Remittances, and Development’ (Policy Brief no 4, Refugee and
+       Migratory Movement Research Unit, 2008) Dhaka, P1.
+RMMRU. ‘The Case for Ratification: 1990 UN Convention on the Protection of Migrant
+       Workers’ Rights’ (Policy Brief no 3, Refugee and Migratory Movement Research
+       Unit, 2007) Dhaka, P1.
+SilkeMeyer, ‘Theorizing Remittances — Social Positioning and the Making of Migrant
+       Subjectivity’ in Silke Meyer and Claudius Ströhle Remittances as Social Practices and
+       Agents of Change (eds), (Palgrave Macmillan 2023)
+
+
+
+                                                                                    Page 56
+Sumaiya Khair, Migration Disputes Mediation Manual (Refugee and Migratory Movements
+      Research Unit, RMMRU 2017)
+Supreme Court of Bangladesh, Annual report of the judiciary, 2007 (Supreme Court of
+      Bangladesh, 2008)
+UNDP Bangladesh, ‘Activating Village Courts in Bangladesh Phase III’ (UNDP, 1 July
+      2022) < https://www.undp.org/bangladesh/projects/activating-village-courts-
+      bangladesh-phase-iii> accessed 12 December 2024
+UNRBHR Forum Asia Pacific, ‘Justice in a Mobile World: Removing barriers to remedy for
+       migrant workers’, Panel Discussion (25 September 2024)
+       <https://www.rbhrforum.com/justice-mobile-world> accessed 6 January 2025
+UNRBHR, ‘Justice in a Mobile World: Removing barriers to remedy for migrant workers’
+       Penal Discussion (online, 25 September 2024) < https://www.rbhrforum.com/justice-
+       mobile-world> accessed 30 November 2024
+Village Court Act 2006 [Bangladesh] <http://bdlaws.minlaw.gov.bd/act-details-938.html>
+      accessed 2 December 2024
+World Bank Group. ‘Bangladesh: A Step towards Better Employability’ (14 June 2017)
+       <https://www.worldbank.org/en/news/feature/2017/06/14/a-step-towards-better-
+       employability> accessed 12 June 2024
+World Bank/KNOMAD. ‘Remittances Brave Global Headwinds’ (2022) 37 Migration and
+       Development Brief <https://www.knomad.org/sites/default/files/publication-
+       doc/migration_and_development_brief_37_nov_2022.pdf> accessed 12 May 2024
+
+
+
+
+                                                                                 Page 57
+

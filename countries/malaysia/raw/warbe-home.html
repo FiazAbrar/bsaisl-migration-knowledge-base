@@ -1,0 +1,2150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="WARBE Development Foundation - Promoting safe migration and protecting the rights of migrant workers." />
+    <title>WARBE Development Foundation - Home</title>
+    <link rel="icon" type="image/svg+xml" href="images/logo.svg" />
+    <link rel="preload" as="image" href="images/home/hero/slider1.webp" />
+    <!-- Tailwind CSS -->
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- Google Font: Inter -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js" defer></script>
+    <!-- YouTube IFrame API -->
+    <script src="https://www.youtube.com/iframe_api" defer></script>
+
+    <style>
+      /* Base styles */
+      body {
+        font-family: "Inter", sans-serif;
+        color: #333;
+      }
+
+      /* ----- Main Hero Slider ----- */
+      .hero-slider-container {
+        position: relative;
+        width: 100%;
+        height: 70vh; /* 70% of the viewport height */
+        overflow: hidden;
+      }
+      .hero-slide {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        background-size: cover;
+        background-position: center;
+      }
+      .hero-slide.active {
+        opacity: 1;
+      }
+      /* Dark overlay for better text readability */
+      .hero-slide::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(
+          0deg,
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.1)
+        );
+      }
+      .hero-slide-content {
+        position: absolute;
+        bottom: 15%;
+        left: 5%;
+        z-index: 10;
+        color: white;
+        max-width: 60%;
+      }
+
+      /* Hero Slider Arrows */
+      .hero-slider-arrow {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 10;
+        background-color: rgba(0, 0, 0, 0.3);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 44px;
+        height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      .hero-slider-arrow:hover {
+        background-color: rgba(0, 0, 0, 0.6);
+      }
+      .hero-slider-arrow.prev {
+        left: 1.5rem;
+      }
+      .hero-slider-arrow.next {
+        right: 1.5rem;
+      }
+
+      /* Hero Slider Dots */
+      .hero-slider-dots {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 10;
+        display: flex;
+        gap: 8px;
+      }
+      .hero-slider-dots .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: rgba(255, 255, 255, 0.5);
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      .hero-slider-dots .dot.active {
+        background-color: white;
+      }
+
+      /* ----- Dropdown Menu ----- */
+      .dropdown:hover .dropdown-menu {
+        display: block;
+      }
+      .dropdown-menu {
+        display: none;
+      }
+
+      /* ----- YouTube Embed Aspect Ratio ----- */
+      .aspect-video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+        height: 0;
+      }
+      .aspect-video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      /* Scrollbar Hiding */
+      .scrollbar-hide::-webkit-scrollbar {
+        display: none;
+      }
+      .scrollbar-hide {
+        -ms-overflow-style: none; /* IE and Edge */
+        scrollbar-width: none; /* Firefox */
+      }
+
+      /* ----- What We Do (Tabbed Section) ----- */
+      .what-we-do-section {
+        position: relative;
+        width: 100%;
+        height: 60vh;
+        min-height: 500px;
+        overflow: hidden;
+        color: white;
+      }
+      .what-we-do-bg-image-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+      }
+      .what-we-do-bg-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        opacity: 0;
+        transition: opacity 0.5s ease-in-out;
+      }
+      .what-we-do-bg-image.active {
+        opacity: 1;
+      }
+      /* Enhanced Dark overlay for readability */
+      .what-we-do-bg-image-container::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(
+          to bottom,
+          rgba(0, 0, 0, 0.7) 0%,
+          rgba(0, 0, 0, 0.5) 50%,
+          rgba(0, 0, 0, 0.8) 100%
+        );
+        z-index: 2;
+      }
+      .what-we-do-content {
+        position: relative;
+        z-index: 10;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 4rem 1rem;
+      }
+      .what-we-do-tabs {
+        display: flex;
+        justify-content: center;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        margin-bottom: 3rem;
+      }
+      .what-we-do-tab {
+        cursor: pointer;
+        padding: 1rem 1.5rem;
+        border-bottom: 3px solid transparent;
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-decoration: none;
+        opacity: 0.7;
+      }
+      .what-we-do-tab:hover,
+      .what-we-do-tab.active {
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0.05);
+        border-bottom-color: #3b82f6;
+      }
+      .what-we-do-tab .tab-icon {
+        margin-bottom: 0.5rem;
+      }
+      .what-we-do-tab .tab-title {
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        text-align: center;
+        color: white;
+      }
+
+      /* Description Area Styling */
+      .what-we-do-descriptions {
+        position: relative;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        flex-grow: 1;
+      }
+      .wwd-desc-item {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        opacity: 0;
+        transform: translateY(20px);
+        transition: all 0.5s ease-in-out;
+        pointer-events: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .wwd-desc-item.active {
+        opacity: 1;
+        transform: translateY(0);
+        pointer-events: auto;
+      }
+      .wwd-desc-item h3 {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        color: white;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+      }
+      .wwd-desc-item ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+      .wwd-desc-item ul li {
+        font-size: 1.125rem;
+        line-height: 1.8;
+        color: rgba(255, 255, 255, 0.9);
+        margin-bottom: 0.75rem;
+        background: rgba(0, 0, 0, 0.3);
+        padding: 0.5rem 1rem;
+        border-radius: 9999px;
+        display: inline-block;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+      }
+
+      /* Campaign Section Specifics */
+      .campaign-poster-card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        height: 100%;
+      }
+      .campaign-poster-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1),
+          0 8px 10px -6px rgba(0, 0, 0, 0.1);
+      }
+      /* IMRF Section Tile Equalizer */
+      .imrf-tile {
+        height: 345px !important;
+      }
+      .imrf-tile-title {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        height: 3rem;
+        line-height: 1.5rem;
+      }
+    </style>
+  </head>
+  <body class="bg-white">
+    <!--
+      ==================================================
+      HEADER & NAVIGATION
+      ==================================================
+    -->
+    <nav id="main-nav" class="bg-white shadow-md sticky top-0 z-50 w-full">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-20">
+          <!-- 1. Logo and Organization Name -->
+          <div class="flex-shrink-0 flex items-center">
+            <a href="index.html" class="flex items-center">
+              <img loading="lazy" class="h-12 w-auto"
+                src="images/logo.svg"
+                alt="WARBE Logo"
+                onerror="this.onerror=null;this.src='https://placehold.co/150x50/333333/FFFFFF?text=WARBE';"
+              />
+              <span
+                class="font-bold text-lg md:text-xl ml-3 text-gray-800 hidden sm:block"
+                >WARBE Development Foundation</span
+              >
+            </a>
+          </div>
+
+          <!-- 2. Desktop Navigation Links -->
+          <div class="hidden md:flex md:items-center md:space-x-1">
+            <!-- About Dropdown -->
+            <div class="relative dropdown">
+              <a
+                href="about-us/index.html"
+                class="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-100 flex items-center"
+              >
+                About <i data-lucide="chevron-down" class="w-4 h-4 ml-1"></i>
+              </a>
+              <div
+                class="dropdown-menu absolute left-0 mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50"
+              >
+                <a
+                  href="about-us/who-we-are.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Who We Are</a
+                >
+                <a
+                  href="about-us/what-we-do.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >What We Do</a
+                >
+                <a
+                  href="about-us/history.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Our History</a
+                >
+                <a
+                  href="about-us/social-structure.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Social Structure</a
+                >
+                <a
+                  href="about-us/team.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Our Team</a
+                >
+              </div>
+            </div>
+
+            <!-- Projects Dropdown -->
+            <div class="relative dropdown">
+              <a
+                href="projects/index.html"
+                class="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-100 flex items-center"
+              >
+                Projects <i data-lucide="chevron-down" class="w-4 h-4 ml-1"></i>
+              </a>
+              <div
+                class="dropdown-menu absolute left-0 mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50"
+              >
+                <a
+                  href="projects/ongoing.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Ongoing Projects</a
+                >
+                <a
+                  href="projects/remarkable.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Remarkable Projects</a
+                >
+                <a
+                  href="projects/partners.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Partners & Network</a
+                >
+              </div>
+            </div>
+
+            <!-- Advocacy Dropdown -->
+            <div class="relative dropdown">
+              <a
+                href="advocacy/index.html"
+                class="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-100 flex items-center"
+              >
+                Advocacy & Campaigns
+                <i data-lucide="chevron-down" class="w-4 h-4 ml-1"></i>
+              </a>
+              <div
+                class="dropdown-menu absolute left-0 mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50"
+              >
+                <a
+                  href="advocacy/day-observations.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Day Observations</a
+                >
+                <a
+                  href="advocacy/campaign.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Campaign</a
+                >
+                <a
+                  href="advocacy/advocacy.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Advocacy</a
+                >
+                <a
+                  href="advocacy/activity.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Activity</a
+                >
+              </div>
+            </div>
+
+            <!-- Engagements Dropdown -->
+            <div class="relative dropdown">
+              <a
+                href="engagements/index.html"
+                class="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-100 flex items-center"
+              >
+                International Engagements
+                <i data-lucide="chevron-down" class="w-4 h-4 ml-1"></i>
+              </a>
+              <div
+                class="dropdown-menu absolute left-0 mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50"
+              >
+                <a
+                  href="engagements/gfmd.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >GFMD</a
+                >
+                <a
+                  href="engagements/gcm.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >GCM</a
+                >
+                <a
+                  href="engagements/ecosoc.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >ECOSOC</a
+                >
+                <a
+                  href="engagements/unhld.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >UNHLD</a
+                >
+                <a
+                  href="engagements/unhlpf-sdg.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >UNHLPF & SDG</a
+                >
+                <a
+                  href="engagements/pga.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >PGA</a
+                >
+                <a
+                  href="engagements/wsfm.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >WSFM</a
+                >
+                <a
+                  href="engagements/others.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Others</a
+                >
+              </div>
+            </div>
+
+            <!-- Resources Dropdown -->
+            <div class="relative dropdown">
+              <a
+                href="resources/index.html"
+                class="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-100 flex items-center"
+              >
+                Resource & Publications
+                <i data-lucide="chevron-down" class="w-4 h-4 ml-1"></i>
+              </a>
+              <div
+                class="dropdown-menu absolute left-0 mt-0 w-56 bg-white rounded-md shadow-lg py-1 z-50"
+              >
+                <a
+                  href="resources/laws-policies.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Migration Laws & Policies</a
+                >
+                <a
+                  href="resources/conventions-treaties.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >International Conventions & Treaties</a
+                >
+                <a
+                  href="resources/publications.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Publications</a
+                >
+                <a
+                  href="resources/reports.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Reports</a
+                >
+                
+              </div>
+            </div>
+
+            <!-- Get Involved Dropdown -->
+            <div class="relative dropdown">
+              <a
+                href="involved/index.html"
+                class="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-100 flex items-center"
+              >
+                Get Involved
+                <i data-lucide="chevron-down" class="w-4 h-4 ml-1"></i>
+              </a>
+              <div
+                class="dropdown-menu absolute right-0 mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50"
+              >
+                <a
+                  href="involved/internship.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Internship</a
+                >
+                <a
+                  href="involved/career.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Career</a
+                >
+                <a
+                  href="involved/donation.html"
+                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                  >Donation</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <!-- 3. Donate Button & Mobile Menu Toggle -->
+          <div class="flex items-center">
+            <div class="hidden md:block ml-2">
+              <a
+                href="involved/donation.html"
+                class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+              >
+                Donate
+              </a>
+            </div>
+            <div class="md:hidden ml-2">
+              <button
+                id="mobile-menu-button"
+                type="button"
+                class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
+              >
+                <span class="sr-only">Open main menu</span>
+                <i
+                  data-lucide="menu"
+                  class="block h-6 w-6"
+                  id="menu-icon-open"
+                ></i>
+                <i
+                  data-lucide="x"
+                  class="hidden h-6 w-6"
+                  id="menu-icon-close"
+                ></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mobile Menu -->
+            <div class="md:hidden hidden" id="mobile-menu">
+        <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+          <a href="about-us/index.html" class="text-gray-700 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium">About</a>
+          <a href="projects/index.html" class="text-gray-700 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium">Projects</a>
+          <a href="advocacy/index.html" class="text-gray-700 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium">Advocacy & Campaigns</a>
+          <a href="engagements/index.html" class="text-gray-700 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium">International Engagements</a>
+          <a href="resources/index.html" class="text-gray-700 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium">Resource & Publications</a>
+          <a href="involved/index.html" class="text-gray-700 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium">Get Involved</a>
+        </div>
+        <div class="px-5 py-3">
+          <a href="involved/donation.html" class="block w-full text-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700">Donate</a>
+        </div>
+      </div>
+    </nav>
+
+    <!--
+      ==================================================
+      MAIN CONTENT (HOMEPAGE)
+      ==================================================
+    -->
+    <main>
+      <!--
+        Section 1: Hero Image Slider
+      -->
+      <section class="hero-slider-container">
+        <!-- Slide 1 -->
+        <div
+          class="hero-slide active"
+          style="background-image: url('images/home/hero/slider1.webp')"
+        >
+          <div class="hero-slide-content">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">
+              Empowering Migrant Workers
+            </h1>
+            <p class="text-lg md:text-xl mb-6">
+              Promoting safe migration and protecting the rights of workers and
+              their families.
+            </p>
+            <a
+              href="about-us/what-we-do.html"
+              class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-md font-medium text-white"
+              >Learn More</a
+            >
+          </div>
+        </div>
+        <!-- Slide 2 -->
+        <div
+          class="hero-slide"
+          style="background-image: url('images/home/hero/slider2.webp')"
+        >
+          <div class="hero-slide-content">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">
+              Advocacy for Fair Migration Policy
+            </h1>
+            <p class="text-lg md:text-xl mb-6">
+              We campaign for policy changes to ensure decent work and social
+              justice.
+            </p>
+            <a
+              href="advocacy/advocacy.html"
+              class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-md font-medium text-white"
+              >Learn More</a
+            >
+          </div>
+        </div>
+        <!-- Slide 3 -->
+        <div
+          class="hero-slide"
+          style="background-image: url('images/home/hero/slider3.webp')"
+        >
+          <div class="hero-slide-content">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">
+              International Engagement
+            </h1>
+            <p class="text-lg md:text-xl mb-6">
+              Collaborating with global partners to address migration
+              challenges.
+            </p>
+            <a
+              href="engagements/index.html"
+              class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-md font-medium text-white"
+              >Global Forums</a
+            >
+          </div>
+        </div>
+        <!-- Slide 4 -->
+        <div
+          class="hero-slide"
+          style="background-image: url('images/home/hero/slider4.webp')"
+        >
+          <div class="hero-slide-content">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">
+              Support Our Projects
+            </h1>
+            <p class="text-lg md:text-xl mb-6">
+              Your contribution helps us provide vital services to migrant
+              communities.
+            </p>
+            <a
+              href="projects/index.html"
+              class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-md font-medium text-white"
+              >Learn More</a
+            >
+          </div>
+        </div>
+        <!-- Slide 5 -->
+        <div
+          class="hero-slide"
+          style="background-image: url('images/home/hero/slider5.webp')"
+        >
+          <div class="hero-slide-content">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">
+              Join Our Campaigns
+            </h1>
+            <p class="text-lg md:text-xl mb-6">
+              Uniting voices to advocate for policies that protect the rights
+              and dignity of migrant workers worldwide.
+            </p>
+            <a
+              href="advocacy/campaign.html"
+              class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-md font-medium text-white"
+              >Learn More</a
+            >
+          </div>
+        </div>
+
+        <!-- Arrows -->
+        <button
+          id="hero-prev"
+          class="hero-slider-arrow prev"
+          aria-label="Previous slide"
+        >
+          <i data-lucide="chevron-left" class="w-6 h-6"></i>
+        </button>
+        <button
+          id="hero-next"
+          class="hero-slider-arrow next"
+          aria-label="Next slide"
+        >
+          <i data-lucide="chevron-right" class="w-6 h-6"></i>
+        </button>
+
+        <!-- Dots -->
+        <div class="hero-slider-dots">
+          <span class="dot active" data-slide-to="0"></span>
+          <span class="dot" data-slide-to="1"></span>
+          <span class="dot" data-slide-to="2"></span>
+          <span class="dot" data-slide-to="3"></span>
+          <span class="dot" data-slide-to="4"></span>
+        </div>
+      </section>
+
+      <!--
+        ==================================================
+        Section 2: Highlights (UPDATED: COMPACT & PROFESSIONAL)
+        ==================================================
+      -->
+      <section class="pt-12 pb-16 bg-gray-50">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 class="text-3xl font-bold text-center text-gray-900 mb-10">
+            Latest News & Activities
+          </h2>
+
+          <div
+            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-10"
+          >
+            <!-- Highlight Card 1 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden"
+            >
+              <a
+                href="advocacy/activity/2025_11_26.html"
+                class="block relative h-48 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/activity/2025_11_26/1.webp"
+                  alt="Activity Cover"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"
+                ></div>
+              </a>
+              <div class="p-5">
+                <a href="advocacy/activity/2025_11_26.html">
+                  <h3
+                    class="font-bold text-gray-900 text-md leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                  >
+                    Multi-Stakeholder Consultation on Policy Advocacy for TTCs
+                  </h3>
+                </a>
+                <a
+                  href="advocacy/activity/2025_11_26.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Read More
+                  <i data-lucide="arrow-right" class="w-4 h-4 ml-1"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Highlight Card 2 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden"
+            >
+              <a
+                href="advocacy/activity/2025_11_10_trade_union.html"
+                class="block relative h-48 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/activity/2025_11_10/1.webp"
+                  alt="Activity Cover"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"
+                ></div>
+              </a>
+              <div class="p-5">
+                <a href="advocacy/activity/2025_11_10_trade_union.html">
+                  <h3
+                    class="font-bold text-gray-900 text-md leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                  >
+                    Launching of the Trade Union–Civil Society Action Alliance
+                  </h3>
+                </a>
+                <a
+                  href="advocacy/activity/2025_11_10_trade_union.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Read More
+                  <i data-lucide="arrow-right" class="w-4 h-4 ml-1"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Highlight Card 3 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden hidden md:block"
+            >
+              <a
+                href="advocacy/activity/2025_10_26_national_wewb.html"
+                class="block relative h-48 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/activity/2025_10_26/1.webp"
+                  alt="Activity Cover"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"
+                ></div>
+              </a>
+              <div class="p-5">
+                <a href="advocacy/activity/2025_10_26_national_wewb.html">
+                  <h3
+                    class="font-bold text-gray-900 text-md leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                  >
+                    National Consultation to Include Migrant Women’s Rights
+                  </h3>
+                </a>
+                <a
+                  href="advocacy/activity/2025_10_26_national_wewb.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Read More
+                  <i data-lucide="arrow-right" class="w-4 h-4 ml-1"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Highlight Card 4 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden hidden md:block"
+            >
+              <a
+                href="advocacy/activity/2025_09_30_multi_stakeholder.html"
+                class="block relative h-48 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/activity/2025_09_30/1.webp"
+                  alt="Activity Cover"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"
+                ></div>
+              </a>
+              <div class="p-5">
+                <a href="advocacy/activity/2025_09_30_multi_stakeholder.html">
+                  <h3
+                    class="font-bold text-gray-900 text-md leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                  >
+                    Multi-StakeHolder Consultation on Functions of MoEWOE
+                  </h3>
+                </a>
+                <a
+                  href="advocacy/activity/2025_09_30_multi_stakeholder.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Read More
+                  <i data-lucide="arrow-right" class="w-4 h-4 ml-1"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- SEE ALL BUTTON (Centered at Bottom) -->
+          <div class="flex justify-center">
+            <a
+              href="advocacy/activity.html"
+              class="inline-flex items-center px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-full shadow-md transition-all transform hover:-translate-y-0.5 hover:shadow-lg"
+            >
+              See All
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!--
+        ==================================================
+        Section: Towards IMRF 2026
+        ==================================================
+      -->
+      <section
+        id="towards-imrf"
+        class="relative py-16 bg-[#0f172a] bg-no-repeat bg-top"
+        style="background-image: linear-gradient(rgba(15, 23, 42, 0.88), rgba(15, 23, 42, 0.82)), url('images/home/towards-imrf/gcm-objectives-overview.png'); background-size: 100% auto;"
+      >
+        <div class="relative container mx-auto px-4 sm:px-6 lg:px-8">
+          <!-- Section Heading -->
+          <div class="text-center mb-10">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-white tracking-tight">
+              Towards IMRF 2026
+            </h2>
+          </div>
+
+          <!-- 4x2 Grid of Tiles -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 [grid-auto-rows:1fr]">
+            <!-- Tile 1: IMRF 2026 Poster -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/imrf-poster.html"
+                class="block relative flex-1 overflow-hidden"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/imrf-poster.jpg"
+                  alt="IMRF 2026 Poster"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+            </div>
+
+            <!-- Tile 2: Progress Declaration -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/progress-declaration.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/progress-declaration-2026.webp"
+                  alt="Progress Declaration of the International Migration Review Forum (IMRF)-2026"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/progress-declaration.html"
+                  class="flex-1 flex flex-col justify-between"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    Progress Declaration of the International Migration Review Forum (IMRF)-2026
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/progress-declaration.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <!-- Tile 3: Civil Society Line Against Regression -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/civil-society-line.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/civil-society-line.webp"
+                  alt="IMRF 2026-A Civil Society Line Against Regression Recommitting to Rights-Based Multilateralism"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/civil-society-line.html"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    IMRF 2026-A Civil Society Line Against Regression Recommitting to Rights-Based Multilateralism
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/civil-society-line.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <!-- Tile 4: Multi-Stakeholder Shadow Report on GCM -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/shadow-report.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/shadow-report-bangladesh.webp"
+                  alt="Multi-Stakeholder Shadow Report on GCM Implementation in Bangladesh: Towards IMRF 2026"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/shadow-report.html"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    Multi-Stakeholder Shadow Report on GCM Implementation in Bangladesh: Towards IMRF 2026
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/shadow-report.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <!-- Tile 5: Policy Brief on Bangladesh Multi-Stakeholder Shadow Report -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/policy-brief.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/policy-brief.webp"
+                  alt="Policy Brief on Bangladesh Multi-Stakeholder Shadow Report on GCM 2026"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/policy-brief.html"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    Policy Brief on Bangladesh Multi-Stakeholder Shadow Report on GCM 2026
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/policy-brief.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <!-- Tile 6: 4th National Consultation -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/4th-national-consultation.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/4th-national-consultation.webp"
+                  alt="IMRF Report 2026-01-15"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/4th-national-consultation.html"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    4th National Consultation for Shadow Report on GCM Implementation
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/4th-national-consultation.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <!-- Tile 7: 3rd National Consultation -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/3rd-national-consultation.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/3rd-national-consultation.webp"
+                  alt="IMRF Report 2026-01-12"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/3rd-national-consultation.html"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    3rd National Consultation for Shadow Report on GCM Implementation
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/3rd-national-consultation.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            <!-- Tile 8: 2nd National Consultation -->
+            <div class="group bg-white rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden flex flex-col imrf-tile">
+              <a
+                href="resources/towards-imrf/2nd-national-consultation.html"
+                class="block relative h-48 overflow-hidden bg-gray-100"
+              >
+                <img
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/towards-imrf/2nd-national-consultation.webp"
+                  alt="Shadow Report 2026"
+                />
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-300"></div>
+              </a>
+              <div class="p-5 flex-1 flex flex-col justify-between">
+                <a
+                  href="resources/towards-imrf/2nd-national-consultation.html"
+                >
+                  <h3 class="font-bold text-gray-900 text-base leading-snug mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 h-12">
+                    2nd National Consultation for Shadow Report on GCM Implementation
+                  </h3>
+                </a>
+                <a
+                  href="resources/towards-imrf/2nd-national-consultation.html"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors mt-auto"
+                >
+                  Read More
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Learn More Button (Centered at Bottom) -->
+          <div class="mt-10 flex justify-center">
+            <a
+              href="engagements/towards-imrf-2026.html"
+              class="inline-flex items-center px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-semibold text-base rounded-full shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+            >
+              Learn More
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!--
+        ==================================================
+        Section 3: What We Do
+        ==================================================
+      -->
+      <section class="pt-8 bg-gray-50">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
+            Empowering Communities
+          </h2>
+        </div>
+
+        <!-- Full-width visual section -->
+        <div class="what-we-do-section bg-gray-900">
+          <div class="what-we-do-bg-image-container">
+            <!-- Images -->
+            <div
+              id="wwd-img-default"
+              class="what-we-do-bg-image active"
+              style="background-image: url('images/home/middle/0.webp')"
+            ></div>
+            <div
+              id="wwd-img-1"
+              class="what-we-do-bg-image"
+              style="background-image: url('images/home/middle/1.webp')"
+            ></div>
+            <div
+              id="wwd-img-2"
+              class="what-we-do-bg-image"
+              style="background-image: url('images/home/middle/2.webp')"
+            ></div>
+            <div
+              id="wwd-img-3"
+              class="what-we-do-bg-image"
+              style="background-image: url('images/home/middle/3.webp')"
+            ></div>
+            <div
+              id="wwd-img-4"
+              class="what-we-do-bg-image"
+              style="background-image: url('images/home/middle/4.webp')"
+            ></div>
+            <div
+              id="wwd-img-5"
+              class="what-we-do-bg-image"
+              style="background-image: url('images/home/middle/5.webp')"
+            ></div>
+          </div>
+
+          <div
+            class="what-we-do-content container mx-auto px-4 sm:px-6 lg:px-8"
+          >
+            <!-- Tabs -->
+            <div id="what-we-do-tabs" class="what-we-do-tabs">
+              <a href="#" class="what-we-do-tab" data-target="wwd-img-1">
+                <i
+                  data-lucide="users"
+                  class="tab-icon w-6 h-6 text-white mb-2"
+                ></i>
+                <span class="tab-title">Community Engagement</span>
+              </a>
+              <a href="#" class="what-we-do-tab" data-target="wwd-img-2">
+                <i
+                  data-lucide="shield-check"
+                  class="tab-icon w-6 h-6 text-white mb-2"
+                ></i>
+                <span class="tab-title">Safe Migration</span>
+              </a>
+              <a href="#" class="what-we-do-tab" data-target="wwd-img-3">
+                <i
+                  data-lucide="scale"
+                  class="tab-icon w-6 h-6 text-white mb-2"
+                ></i>
+                <span class="tab-title">Policy Advocacy</span>
+              </a>
+              <a href="#" class="what-we-do-tab" data-target="wwd-img-4">
+                <i
+                  data-lucide="handshake"
+                  class="tab-icon w-6 h-6 text-white mb-2"
+                ></i>
+                <span class="tab-title">Partnerships</span>
+              </a>
+              <a href="#" class="what-we-do-tab" data-target="wwd-img-5">
+                <i
+                  data-lucide="briefcase"
+                  class="tab-icon w-6 h-6 text-white mb-2"
+                ></i>
+                <span class="tab-title">Reintegration</span>
+              </a>
+            </div>
+
+            <!-- Description Text -->
+            <div class="what-we-do-descriptions">
+              <div id="desc-wwd-img-1" class="wwd-desc-item">
+                <ul>
+                  <li>
+                    Providing counselling, legal aid, safe migration
+                    information, and reintegration support.
+                  </li>
+                  <li>
+                    Mobilizing migrants, returnees, and families through local
+                    outreach.
+                  </li>
+                  <li>
+                    Strengthening platforms for migrant leadership and community
+                    advocacy.
+                  </li>
+                </ul>
+              </div>
+              <div id="desc-wwd-img-2" class="wwd-desc-item">
+                <ul>
+                  <li>
+                    Awareness campaigns on safe, rights-based, and
+                    gender-responsive migration.
+                  </li>
+                  <li>
+                    Supporting victims of fraud, abuse, wage theft, and contract
+                    violations.
+                  </li>
+                  <li>
+                    Coordinating with government and partners to improve
+                    protection mechanisms.
+                  </li>
+                </ul>
+              </div>
+              <div id="desc-wwd-img-3" class="wwd-desc-item">
+                <ul>
+                  <li>
+                    Influencing policies at local, national, regional, and
+                    global levels.
+                  </li>
+                  <li>
+                    Engaging ministries, parliamentarians, and institutions to
+                    strengthen governance.
+                  </li>
+                  <li>
+                    Advancing migrants’ representation in national dialogues.
+                  </li>
+                </ul>
+              </div>
+              <div id="desc-wwd-img-4" class="wwd-desc-item">
+                <ul>
+                  <li>
+                    Civil society, human rights groups, trade unions, NGOs, and
+                    private sector.
+                  </li>
+                  <li>
+                    Government agencies and local authorities to improve service
+                    delivery.
+                  </li>
+                  <li>
+                    International organizations to align national systems with
+                    global standards.
+                  </li>
+                </ul>
+              </div>
+              <div id="desc-wwd-img-5" class="wwd-desc-item">
+                <ul>
+                  <li>
+                    Economic and social reintegration support for returnee
+                    migrants.
+                  </li>
+                  <li>
+                    Skills-building and livelihood strengthening to reduce
+                    vulnerability.
+                  </li>
+                  <li>
+                    Promoting migration as a driver of sustainable development.
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--
+        ==================================================
+        Section 4: Civil Society Campaign (REDESIGNED)
+        ==================================================
+      -->
+      <section class="pt-10 pb-0 bg-gradient-to-br from-gray-50 to-blue-50">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center mb-10">
+            <h4 class="text-blue-600 font-bold tracking-wider uppercase mb-2">
+              Civil Society Campaign
+            </h4>
+            <h2 class="text-3xl font-bold text-center text-gray-900 mb-6">
+              Migrant Rights Are Human Rights
+            </h2>
+            <div
+              class="flex flex-wrap justify-center gap-4 text-xl md:text-2xl font-bold"
+            >
+              <span class="text-red-600">#Resist</span>
+              <span class="text-gray-400">•</span>
+              <span class="text-yellow-600">#Reclaim</span>
+              <span class="text-gray-400">•</span>
+              <span class="text-green-600">#Realise</span>
+            </div>
+          </div>
+
+          <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-stretch">
+            <!-- Left Column: Text & Horizontal Cards -->
+            <div class="flex flex-col justify-center">
+              <div class="mb-8">
+                <h3
+                  class="text-2xl font-bold text-gray-800 border-l-4 border-blue-600 pl-4 mb-4"
+                >
+                  Human Rights are Non-Negotiable!
+                </h3>
+                <p class="text-lg text-gray-700 leading-relaxed">
+                  Despite global commitments, migrant rights violations continue
+                  to escalate across various regions. Civil society and migrant
+                  voices are increasingly silenced. The time has come to reclaim
+                  power, demand accountability, and ensure justice for all
+                  migrants.
+                </p>
+              </div>
+
+              <!-- Compact Horizontal Cards Row -->
+              <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+                <!-- Resist Card -->
+                <div
+                  class="bg-white rounded-xl shadow-sm border border-gray-100 p-4 flex flex-col items-center text-center hover:shadow-md transition-shadow duration-300 border-t-4 border-t-red-500 h-full"
+                >
+                  <div class="flex items-center justify-center gap-3 mb-3">
+                    <div
+                      class="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center text-red-600"
+                    >
+                      <i data-lucide="shield-alert" class="w-5 h-5"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-900">Resist</h3>
+                  </div>
+                  <p class="text-gray-700 text-lg leading-relaxed">
+                    Stand against criminalisation & exploitation.
+                  </p>
+                </div>
+
+                <!-- Reclaim Card -->
+                <div
+                  class="bg-white rounded-xl shadow-sm border border-gray-100 p-4 flex flex-col items-center text-center hover:shadow-md transition-shadow duration-300 border-t-4 border-t-yellow-500 h-full"
+                >
+                  <div class="flex items-center justify-center gap-3 mb-3">
+                    <div
+                      class="w-10 h-10 bg-yellow-100 rounded-full flex items-center justify-center text-yellow-600"
+                    >
+                      <i data-lucide="megaphone" class="w-5 h-5"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-900">Reclaim</h3>
+                  </div>
+                  <p class="text-gray-700 text-lg leading-relaxed">
+                    Reclaim dignity & representation in governance.
+                  </p>
+                </div>
+
+                <!-- Realise Card -->
+                <div
+                  class="bg-white rounded-xl shadow-sm border border-gray-100 p-4 flex flex-col items-center text-center hover:shadow-md transition-shadow duration-300 border-t-4 border-t-green-500 h-full"
+                >
+                  <div class="flex items-center justify-center gap-3 mb-3">
+                    <div
+                      class="w-10 h-10 bg-green-100 rounded-full flex items-center justify-center text-green-600"
+                    >
+                      <i data-lucide="check-circle-2" class="w-5 h-5"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-900">Realise</h3>
+                  </div>
+                  <p class="text-gray-700 text-lg leading-relaxed">
+                    Transform commitments into concrete action.
+                  </p>
+                </div>
+              </div>
+
+              <!-- Join the Movement Button (Moved from posters) -->
+              <div class="flex justify-center md:justify-start">
+                <a
+                  href="https://resistreclaimrealise.org/"
+                  target="_blank"
+                  class="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-md hover:bg-blue-700 transition-colors shadow-sm"
+                >
+                  Join the Movement
+                  <i data-lucide="arrow-right" class="w-4 h-4 ml-2"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Right Column: Poster Grid (Replaces Big Image) -->
+            <div>
+              <div class="grid grid-cols-2 md:grid-cols-3 gap-3 h-full">
+                <!-- Slot 1: Main Campaign Image (Restored) -->
+                  <div id="campaign-carousel" class="relative w-full h-full">
+                    <!-- English Logo (Default: Visible) -->
+                    <img loading="lazy" id="campaign-logo-en"
+                      src="images/home/campaign/Campaign Logo_English.png"
+                      alt="Campaign Logo English"
+                      class="w-full h-full object-contain absolute inset-0 transition-opacity duration-1000 opacity-100"
+                    />
+                    <!-- Bangla Logo (Default: Hidden) -->
+                    <img loading="lazy" id="campaign-logo-bn"
+                      src="images/home/campaign/Campaign Logo_bangla.png"
+                      alt="Campaign Logo Bangla"
+                      class="w-full h-full object-contain absolute inset-0 transition-opacity duration-1000 opacity-0"
+                    />
+                  </div>
+                <!-- Poster 1 -->
+                <div
+                  class="campaign-poster-card rounded-lg overflow-hidden shadow-md"
+                >
+                  <img loading="lazy"
+                    src="images/home/campaign/1.webp"
+                    alt="Poster 1"
+                    class="w-full h-full object-cover"
+                  />
+                </div>
+                <!-- Poster 2 -->
+                <div
+                  class="campaign-poster-card rounded-lg overflow-hidden shadow-md"
+                >
+                  <img loading="lazy"
+                    src="images/home/campaign/2.webp"
+                    alt="Poster 2"
+                    class="w-full h-full object-cover"
+                  />
+                </div>
+                <!-- Poster 3 -->
+                <div
+                  class="campaign-poster-card rounded-lg overflow-hidden shadow-md"
+                >
+                  <img loading="lazy"
+                    src="images/home/campaign/3.webp"
+                    alt="Poster 3"
+                    class="w-full h-full object-cover"
+                  />
+                </div>
+                <!-- Poster 4 -->
+                <div
+                  class="campaign-poster-card rounded-lg overflow-hidden shadow-md"
+                >
+                  <img loading="lazy"
+                    src="images/home/campaign/4.webp"
+                    alt="Poster 4"
+                    class="w-full h-full object-cover"
+                  />
+                </div>
+                <!-- Poster 5 -->
+                <div
+                  class="campaign-poster-card rounded-lg overflow-hidden shadow-md"
+                >
+                  <img loading="lazy"
+                    src="images/home/campaign/5.webp"
+                    alt="Poster 5"
+                    class="w-full h-full object-cover"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--
+        ==================================================
+        Section 5: YouTube Embeds (REDESIGNED as Grid)
+        ==================================================
+      -->
+      <section class="pt-16 pb-16 bg-white">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8 relative">
+          <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
+            Engagements
+          </h2>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            <!-- Video Card 1 (Latest) -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden"
+            >
+              <a
+                href="https://youtu.be/8wXS-cZTl4o?si=dvXoDkymoS74cSyE"
+                target="_blank"
+                class="block relative h-56 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="https://img.youtube.com/vi/8wXS-cZTl4o/maxresdefault.jpg"
+                  alt="Video Thumbnail"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-all duration-300 flex items-center justify-center"
+                >
+                  <div
+                    class="w-12 h-12 bg-white/90 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transform scale-75 group-hover:scale-100 transition-all duration-300 shadow-md"
+                  >
+                    <i
+                      data-lucide="play"
+                      class="w-5 h-5 text-blue-600 fill-current"
+                    ></i>
+                  </div>
+                </div>
+              </a>
+              <div class="p-6">
+                <h3
+                  class="font-bold text-gray-900 text-lg leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                >
+                  ‘আইনি সহায়তার অভাব ও তথ্য ব্যবস্থার দুর্বলতায় অভিবাসীদের ঝুঁকি’ | Migration Review Forum | Ekhon TV
+                </h3>
+                <a
+                  href="https://youtu.be/8wXS-cZTl4o?si=dvXoDkymoS74cSyE"
+                  target="_blank"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Watch Video
+                  <i data-lucide="play-circle" class="w-4 h-4 ml-2"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Video Card 2 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden"
+            >
+              <a
+                href="https://www.youtube.com/watch?v=gvwM2CUiHXA"
+                target="_blank"
+                class="block relative h-56 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="https://img.youtube.com/vi/gvwM2CUiHXA/maxresdefault.jpg"
+                  alt="Video Thumbnail"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-all duration-300 flex items-center justify-center"
+                >
+                  <div
+                    class="w-12 h-12 bg-white/90 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transform scale-75 group-hover:scale-100 transition-all duration-300 shadow-md"
+                  >
+                    <i
+                      data-lucide="play"
+                      class="w-5 h-5 text-blue-600 fill-current"
+                    ></i>
+                  </div>
+                </div>
+              </a>
+              <div class="p-6">
+                <h3
+                  class="font-bold text-gray-900 text-lg leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                >
+                  আন্তর্জাতিক অভিবাসী দিবসে ওয়্যারবীর পথপরিক্রমা | WARBE
+                </h3>
+                <a
+                  href="https://www.youtube.com/watch?v=gvwM2CUiHXA"
+                  target="_blank"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Watch Video
+                  <i data-lucide="play-circle" class="w-4 h-4 ml-2"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Video Card 3 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden"
+            >
+              <a
+                href="https://www.facebook.com/reel/2136595443830902"
+                target="_blank"
+                class="block relative h-56 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/fb_reel_thumb_1.jpg"
+                  alt="Facebook Video Thumbnail"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-all duration-300 flex items-center justify-center"
+                >
+                  <div
+                    class="w-12 h-12 bg-white/90 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transform scale-75 group-hover:scale-100 transition-all duration-300 shadow-md"
+                  >
+                    <i
+                      data-lucide="play"
+                      class="w-5 h-5 text-blue-600 fill-current"
+                    ></i>
+                  </div>
+                </div>
+              </a>
+              <div class="p-6">
+                <h3
+                  class="font-bold text-gray-900 text-lg leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                >
+                  আর্ন্তজাতিক অভিবাসন দিবস উপলক্ষে শুভেচ্ছা বক্তব্য ও WARBE - এর সম্পর্কে তথ্য ও ধারনা প্রদান করেন পরিচালক জাছিয়া খাতুন।
+                </h3>
+                <a
+                  href="https://www.facebook.com/reel/2136595443830902"
+                  target="_blank"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Watch Video
+                  <i data-lucide="play-circle" class="w-4 h-4 ml-2"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Video Card 4 -->
+            <div
+              class="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 overflow-hidden"
+            >
+              <a
+                href="https://www.facebook.com/reel/1575169240596253"
+                target="_blank"
+                class="block relative h-56 overflow-hidden"
+              >
+                <img loading="lazy"
+                  class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                  src="images/home/fb_reel_thumb_2.jpg"
+                  alt="Facebook Video Thumbnail"
+                />
+                <div
+                  class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-all duration-300 flex items-center justify-center"
+                >
+                  <div
+                    class="w-12 h-12 bg-white/90 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transform scale-75 group-hover:scale-100 transition-all duration-300 shadow-md"
+                  >
+                    <i
+                      data-lucide="play"
+                      class="w-5 h-5 text-blue-600 fill-current"
+                    ></i>
+                  </div>
+                </div>
+              </a>
+              <div class="p-6">
+                <h3
+                  class="font-bold text-gray-900 text-lg leading-tight mb-3 group-hover:text-blue-600 transition-colors"
+                >
+                  ১৮-ডিসেম্বর-২০২৫, ওয়্যারবে ডেভেলপমেন্ট ফাউন্ডেশনের আয়োজনে আন্তর্জাতিক অভিবাসী দিবস উপলক্ষে ন্যায্য ও নৈতিক নিয়োগ বিষয়ে নীতিগত পরামর্শ সভা অনুষ্ঠিত হয়
+                </h3>
+                <a
+                  href="https://www.facebook.com/reel/1575169240596253"
+                  target="_blank"
+                  class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Watch Video
+                  <i data-lucide="play-circle" class="w-4 h-4 ml-2"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!--
+      ==================================================
+      FOOTER
+      ==================================================
+    -->
+    <footer class="bg-gray-800 text-gray-300">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-16">
+        <div
+          class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[23%_1fr_1fr_1fr_1fr_23%] gap-6"
+        >
+          <div>
+            <h4 class="text-md font-semibold text-white uppercase mb-4">
+              WARBE Development Foundation
+            </h4>
+            <p class="text-sm text-gray-400 mb-4">
+              WARBE Development Foundation is a migrant-led, community-based non-profit organization working on migration and development issues.
+            </p>
+            <div class="flex space-x-4">
+              <a
+                href="https://www.facebook.com/warbedf/"
+                class="text-gray-400 hover:text-white"
+                target="_blank"
+                ><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg></a>
+              <a
+                href="https://x.com/WarbeDF"
+                class="text-gray-400 hover:text-white"
+                target="_blank"
+                ><svg
+                  class="w-5 h-5"
+                  fill="currentColor"
+                  viewBox="0 0 16 16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.06l3.52 4.639L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"
+                  /></svg
+              ></a>
+              <a
+                href="https://www.instagram.com/warbe.df/"
+                class="text-gray-400 hover:text-white"
+                target="_blank"
+                ><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z" clip-rule="evenodd" /></svg></a>
+              <a
+                href="https://linkedin.com/company/warbedf"
+                class="text-gray-400 hover:text-white"
+                target="_blank"
+                ><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" clip-rule="evenodd" /></svg></a>
+              <a
+                href="https://www.youtube.com/@warbedf"
+                class="text-gray-400 hover:text-white"
+                target="_blank"
+                ><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" clip-rule="evenodd" /></svg></a>
+            </div>
+          </div>
+                    <div>
+            <h4 class="text-md font-semibold text-white uppercase mb-4">
+              Quick Links
+            </h4>
+            <ul class="space-y-2">
+              <li>
+                <a
+                  href="about-us/index.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >About</a
+                >
+              </li>
+              <li>
+                <a
+                  href="projects/index.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >Projects</a
+                >
+              </li>
+              <li>
+                <a
+                  href="advocacy/index.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >Advocacy</a
+                >
+              </li>
+              <li>
+                <a
+                  href="engagements/index.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >International</a
+                >
+              </li>
+              <li>
+                <a
+                  href="resources/index.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >Publications</a
+                >
+              </li>
+            </ul>
+          </div>
+                    <div>
+            <h4 class="text-md font-semibold text-white uppercase mb-4">
+              Get Involved
+            </h4>
+            <ul class="space-y-2">
+              <li>
+                <a
+                  href="involved/career.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >Career</a
+                >
+              </li>
+              <li>
+                <a
+                  href="involved/internship.html"
+                  class="text-sm text-gray-400 hover:text-white"
+                  >Internship</a
+                >
+              </li>
+              <li>
+                <a
+                  href="involved/donation.html"
+                  class="text-sm text-blue-400 hover:text-white font-medium"
+                  >Donate Now</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4 class="text-md font-semibold text-white uppercase mb-4">
+              Visitors
+            </h4>
+            <a href="https://info.flagcounter.com/uXpq"
+              ><img loading="lazy"
+                src="https://s05.flagcounter.com/count2/uXpq/bg_222937/txt_FFFFFF/border_CCCCCC/columns_1/maxflags_7/viewers_3/labels_1/pageviews_0/flags_0/percent_0/"
+                alt="Flag Counter"
+                border="0"
+            /></a>
+          </div>
+          <div>
+            <h4 class="text-md font-semibold text-white uppercase mb-4">
+              Location
+            </h4>
+            <div class="border border-gray-600 rounded-md overflow-hidden">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d58415.537796398865!2d90.398122!3d23.784043!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c742075ca855%3A0x168a984203762999!2sWARBE%20Development%20Foundation!5e0!3m2!1sen!2sbd!4v1763151335034!5m2!1sen!2sbd"
+                width="100%"
+                height="125"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+          <div>
+            <h4 class="text-md font-semibold text-white uppercase mb-4">
+              Contact Us
+            </h4>
+            <ul class="space-y-2 text-sm text-gray-400">
+              <li class="flex items-start">
+                <i
+                  data-lucide="map-pin"
+                  class="w-4 h-4 mr-2 mt-1 flex-shrink-0"
+                ></i>
+                <span
+                  >House No. 170 (2nd Floor, Lift-2), Road No. 03, New DOHS, Mohakhali, Dhaka-1206, Bangladesh.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <i data-lucide="phone" class="w-4 h-4 mr-2"></i>
+                <span>+880 1735-892019</span>
+              </li>
+              <li class="flex items-center">
+                <i data-lucide="mail" class="w-4 h-4 mr-2"></i>
+                <span>warbe.df@gmail.com</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="bg-gray-900 py-4">
+        <div
+          class="container mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm text-gray-500"
+        >
+          © <span id="current-year"></span> WARBE Development Foundation. All
+          Rights Reserved.
+        </div>
+      </div>
+    </footer>
+
+    <!--
+      ==================================================
+      JAVASCRIPT
+      ==================================================
+    -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // --- Set Current Year ---
+        const currentYearEl = document.getElementById("current-year");
+        if (currentYearEl) {
+          currentYearEl.textContent = new Date().getFullYear();
+        }
+
+        // --- Mobile Menu Toggle ---
+        const menuButton = document.getElementById("mobile-menu-button");
+        const mobileMenu = document.getElementById("mobile-menu");
+        const iconOpen = document.getElementById("menu-icon-open");
+        const iconClose = document.getElementById("menu-icon-close");
+
+        if (menuButton) {
+          menuButton.addEventListener("click", () => {
+            mobileMenu.classList.toggle("hidden");
+            iconOpen.classList.toggle("hidden");
+            iconClose.classList.toggle("hidden");
+          });
+        }
+
+        // --- Hero Image Slider ---
+        const slides = document.querySelectorAll(".hero-slide");
+        const dots = document.querySelectorAll(".hero-slider-dots .dot");
+        const heroPrevBtn = document.getElementById("hero-prev");
+        const heroNextBtn = document.getElementById("hero-next");
+        let currentSlide = 0;
+        const slideInterval = 5000;
+        let heroSliderTimer;
+
+        function showHeroSlide(index) {
+          if (slides.length === 0) return;
+          slides.forEach((slide, i) => {
+            slide.classList.remove("active");
+            if (dots[i]) dots[i].classList.remove("active");
+          });
+          slides[index].classList.add("active");
+          if (dots[index]) dots[index].classList.add("active");
+        }
+
+        function nextHeroSlide() {
+          if (slides.length === 0) return;
+          currentSlide = (currentSlide + 1) % slides.length;
+          showHeroSlide(currentSlide);
+        }
+
+        function prevHeroSlide() {
+          if (slides.length === 0) return;
+          currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+          showHeroSlide(currentSlide);
+        }
+
+        function resetHeroInterval() {
+          clearInterval(heroSliderTimer);
+          heroSliderTimer = setInterval(nextHeroSlide, slideInterval);
+        }
+
+        if (slides.length > 0) {
+          heroSliderTimer = setInterval(nextHeroSlide, slideInterval);
+          dots.forEach((dot) => {
+            dot.addEventListener("click", () => {
+              currentSlide = parseInt(dot.getAttribute("data-slide-to"));
+              showHeroSlide(currentSlide);
+              resetHeroInterval();
+            });
+          });
+          if (heroNextBtn) {
+            heroNextBtn.addEventListener("click", () => {
+              nextHeroSlide();
+              resetHeroInterval();
+            });
+          }
+          if (heroPrevBtn) {
+            heroPrevBtn.addEventListener("click", () => {
+              prevHeroSlide();
+              resetHeroInterval();
+            });
+          }
+        }
+
+        // --- What We Do Tabs ---
+        const wwdTabContainer = document.getElementById("what-we-do-tabs");
+        const wwdTabs = document.querySelectorAll(".what-we-do-tab");
+        const wwdImages = document.querySelectorAll(".what-we-do-bg-image");
+        const wwdDescriptions = document.querySelectorAll(".wwd-desc-item");
+        const wwdDefaultImage = document.getElementById("wwd-img-default");
+
+        if (
+          wwdTabContainer &&
+          wwdTabs.length > 0 &&
+          wwdImages.length > 0 &&
+          wwdDefaultImage
+        ) {
+          function setWwdDefaultState() {
+            wwdTabs.forEach((t) => t.classList.remove("active"));
+            wwdImages.forEach((img) => img.classList.remove("active"));
+            wwdDescriptions.forEach((desc) => desc.classList.remove("active"));
+            wwdDefaultImage.classList.add("active");
+          }
+          setWwdDefaultState();
+
+          wwdTabs.forEach((tab) => {
+            tab.addEventListener("mouseenter", () => {
+              const targetId = tab.dataset.target;
+              wwdTabs.forEach((t) => t.classList.remove("active"));
+              wwdImages.forEach((img) => img.classList.remove("active"));
+              wwdDescriptions.forEach((desc) =>
+                desc.classList.remove("active")
+              );
+
+              tab.classList.add("active");
+              const targetImage = document.getElementById(targetId);
+              if (targetImage) targetImage.classList.add("active");
+              const targetDesc = document.getElementById("desc-" + targetId);
+              if (targetDesc) targetDesc.classList.add("active");
+            });
+            tab.addEventListener("click", (e) => e.preventDefault());
+          });
+        }
+
+        // Initialize first slide
+        showHeroSlide(0);
+
+        // Lucide Icons
+        if (window.lucide && window.lucide.createIcons) {
+          lucide.createIcons();
+        }
+      });
+    </script>
+              <script>
+      // Global Navigation Active State Auto-Highlighter
+      document.addEventListener("DOMContentLoaded", function() {
+        const currentPath = window.location.pathname;
+        const navLinks = document.querySelectorAll("nav a, #mobile-menu a");
+        
+        navLinks.forEach(link => {
+          // SKIP if it's the CTA button (has bg-blue-600)
+          if (link.classList.contains("bg-blue-600")) return;
+          
+          // SKIP if it's the Logo link (contains an image)
+          if (link.querySelector("img")) return;
+          
+          if (link.href === window.location.href) {
+            link.classList.remove("text-gray-700", "hover:bg-gray-100", "hover:bg-gray-50", "text-gray-900");
+            
+            if (link.closest("#mobile-menu")) {
+               link.classList.add("bg-gray-100", "text-gray-900");
+            } else {
+               link.classList.add("text-blue-700", "bg-blue-50", "font-medium");
+               const parentDropdown = link.closest(".dropdown");
+               if (parentDropdown) {
+                  const trigger = parentDropdown.querySelector("a");
+                  if (trigger) trigger.classList.add("text-blue-700", "font-medium");
+               }
+            }
+          }
+        });
+      });
+    </script>
+    <script>
+      // Campaign Poster Auto-Change Script
+      document.addEventListener("DOMContentLoaded", function() {
+        const enLogo = document.getElementById("campaign-logo-en");
+        const bnLogo = document.getElementById("campaign-logo-bn");
+        
+        if (enLogo && bnLogo) {
+          setInterval(() => {
+            // Toggle Opacity
+            if (enLogo.classList.contains("opacity-100")) {
+              enLogo.classList.remove("opacity-100");
+              enLogo.classList.add("opacity-0");
+              
+              bnLogo.classList.remove("opacity-0");
+              bnLogo.classList.add("opacity-100");
+            } else {
+              enLogo.classList.remove("opacity-0");
+              enLogo.classList.add("opacity-100");
+              
+              bnLogo.classList.remove("opacity-100");
+              bnLogo.classList.add("opacity-0");
+            }
+          }, 3000); // Change every 3 seconds
+        }
+      });
+    </script>
+<script src="js/active-nav.js"></script>
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+    <link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon">
+    <meta content="#da532c" name="msapplication-TileColor">
+    <meta content="#ffffff" name="theme-color">
+    <meta http-equiv="Content-Security-Policy" id="csp-meta" content="">
+
+    <!-- Dynamic Open Graph meta tags -->
+    <meta property="og:title" content="SVPI" />
+    <meta property="og:url" content="https://svp-international.qiwa.sa" />
+    <meta property="og:image" content="https://svp-international.qiwa.sa/tenants/svp-international/link-preview-svp.png" />
+
+    <script nonce="727e1dc7d883cbf111b7de858be2a193c913c1c26cecb4c554d1a74cc9dbfd06">
+        const tenants = {
+            OMAN: 'svp-international-oman',
+            BAHRAIN: 'svp-international-bahrain',
+            SVPI: 'svp-international'
+        };
+
+        const tenantDomainSubstrings = {
+            [tenants.BAHRAIN]: ['bahrain', 'occup-licenses.mol.gov.bh'],
+            [tenants.OMAN]: ['oman', 'emssuskills-assessment.opaloman.om'],
+            [tenants.SVPI]: ['svpi']
+        };
+
+        const tabTitles = {
+            [tenants.BAHRAIN]: {
+                en: 'Occupational Licenses',
+                ar: 'الرخص المهنية'
+            },
+            [tenants.OMAN]: {
+                en: 'Skill Certification',
+                ar: 'الكفاءة المهنية'
+            },
+            [tenants.SVPI]: {
+                en: 'SVPI',
+                ar: 'الفحص المهني'
+            }
+        };
+
+        function getTenant(host) {
+            const entry = Object.entries(tenantDomainSubstrings).find(
+            ([, substrings]) => substrings?.some(substring => host.includes(substring)));
+
+            return entry ? entry[0] : tenants.SVPI;
+        }
+
+        const tenant = getTenant(window.location.hostname);
+
+        (function () {
+            try {
+                const lang = localStorage.getItem('lang') || 'en';
+                document.title = tabTitles[tenant][lang];
+            } catch {};
+        })();
+    </script>
+
+    <style>.app-spinner-holder{box-sizing:border-box;width:100vw;height:100vh;transition:all .5s;position:fixed;top:0}[dir=ltr] .app-spinner-holder{left:0}[dir=rtl] .app-spinner-holder{right:0}.app-spinner{box-sizing:border-box;width:160px;height:160px;position:absolute;top:50%}[dir=ltr] .app-spinner{margin:-80px 0 0 -80px;left:50%}[dir=rtl] .app-spinner{margin:-80px -80px 0 0;right:50%}.app-spinner .app-spinner-inner{box-sizing:border-box;position:absolute;top:0;bottom:0}[dir=ltr] .app-spinner .app-spinner-inner,[dir=rtl] .app-spinner .app-spinner-inner{left:0;right:0}.app-spinner:before,.app-spinner:after,.app-spinner .app-spinner-inner:before,.app-spinner .app-spinner-inner:after{content:"";box-sizing:border-box;width:100%;height:100%;position:absolute;top:0}[dir] .app-spinner:before,[dir] .app-spinner:after,[dir] .app-spinner .app-spinner-inner:before,[dir] .app-spinner .app-spinner-inner:after{border:20px solid #0000;border-top-color:#8394a8;border-radius:50%}[dir=ltr] .app-spinner:before,[dir=ltr] .app-spinner:after,[dir=ltr] .app-spinner .app-spinner-inner:before,[dir=ltr] .app-spinner .app-spinner-inner:after{animation:1.2s cubic-bezier(.5,0,.5,1) infinite app-spinner-ltr;left:0}[dir=rtl] .app-spinner:before,[dir=rtl] .app-spinner:after,[dir=rtl] .app-spinner .app-spinner-inner:before,[dir=rtl] .app-spinner .app-spinner-inner:after{animation:1.2s cubic-bezier(.5,0,.5,1) infinite app-spinner-rtl;right:0}[dir=ltr] .app-spinner:before,[dir=rtl] .app-spinner:before{animation-delay:-.45s}[dir=ltr] .app-spinner .app-spinner-inner:after,[dir=rtl] .app-spinner .app-spinner-inner:after{animation-delay:-.3s}[dir=ltr] .app-spinner .app-spinner-inner:before,[dir=rtl] .app-spinner .app-spinner-inner:before{animation-delay:-.15s}@keyframes app-spinner-ltr{0%{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes app-spinner-rtl{0%{transform:rotate(0)}to{transform:rotate(-360deg)}}</style>
+  <script type="module" crossorigin src="/assets/index-DtEQ9eab.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-Bjp52BOI.js">
+  <link rel="stylesheet" crossorigin href="/assets/style-D_J502Ha.css">
+</head>
+<body>
+    <div id="app">
+        <div class="app-spinner-holder">
+            <div class="app-spinner">
+                <span class="app-spinner-inner"></span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

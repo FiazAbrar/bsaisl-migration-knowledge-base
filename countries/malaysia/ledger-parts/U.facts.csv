@@ -1,0 +1,7 @@
+visa_type,field,value,ledger_id
+PLKS,perkeso-non-employment-injury,from 1 June 2026,U0002
+PLKS,perkeso-funeral-benefit,"RM7,500 (RM4,500 repatriation + RM3,000 dependants); RM3,000 if buried in Malaysia",U0008
+PLKS,perkeso-accident-report-deadline,"employer: immediately, at most 30 days",U0021
+all,cash-out-of-malaysia,"ringgit up to USD10,000 equivalent; declare over USD10,000",U0032
+all,bd-customs-jewellery,"100 g gold OR 200 g silver jewellery, once a year",U0036
+PLKS,holders-by-nationality-2025-12-31,"Bangladesh 798,973 (37.59%) of 2,125,587",U0057

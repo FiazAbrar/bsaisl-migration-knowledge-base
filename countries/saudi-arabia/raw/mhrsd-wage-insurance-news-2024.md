@@ -1,0 +1,217 @@
+![شعار انجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flanding_large%2Fpublic%2F2023-08%2FEnglish%20Logo.png%3Fitok%3DYaA3vaog&w=1920&q=75)
+
+The Ministry of Human Resources and Social Development and the Insurance Authority today launched the "Insurance Product" to cover the entitlements of expatriate workers in private sector establishments when they default, with the aim of protecting them and reducing the impact of their failure to obtain their financial rights, in the event that the establishments default and fail to commit to paying wages for a specified period.
+
+The "insurance product", which is provided through insurance companies in the Kingdom, covers the payment of the dues of expatriate workers in the event that the owners of the establishments fail to pay their wages, in accordance with the conditions and benefits covered and determined by the insurance policy in accordance with the policies and procedures governing it. These benefits include, for example, a ticket if the expatriate worker wishes to return to his country.
+
+The launch of the "Insurance Product" comes within the framework of efforts aimed at developing the labor market in the Kingdom of Saudi Arabia through policies and legislation, preserving contractual rights between workers and employers, and increasing the attractiveness and efficiency of the labor market at the local and international levels. The "insurance product" is also consistent with the package of regulations and procedures developed by the Ministry of Human Resources and Social Development to preserve the rights of the parties to the labor relationship, including the Wages Protection System, and the documentation of contracts.
+
+The Ministry of Human Resources and Social Development has issued a guide that explains all the procedures for the insurance product, which can be found by accessing the Ministry's website. It should be noted that the coverage for expatriate workers covered by the insurance product will start from today; October 6, 2024 AD.
+
+Authored on
+
+12-Rabi’ Al-Thani-1446-15-October-2024
+
+Sector
+
+business sector
+
+Beneficiaries
+
+Businessmen
+
+,
+
+Individuals
+
+,
+
+Employment rights in the Kingdom of Saudi Arabia
+
+## Share this Page
+
+[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgb3BhY2l0eT0iMC41Ij48L2NpcmNsZT48L3N2Zz4=)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hrsd.gov.sa%2Fen%2Fn%2F5571536)[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgb3BhY2l0eT0iMC41Ij48L2NpcmNsZT48L3N2Zz4=)](https://twitter.com/intent/tweet?text=Ministry+of+Human+Resources+and+Social+Development+and+the+Insurance+Authority+launch+the+%22Insurance+Product%22+to+cover+the+entitlements+of+expatriate+workers+in+private+sector+establishments+when+they+default+https%3A%2F%2Fwww.hrsd.gov.sa%2Fen%2Fn%2F5571536)[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgb3BhY2l0eT0iMC41Ij48L2NpcmNsZT48L3N2Zz4=)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.hrsd.gov.sa%2Fen%2Fn%2F5571536)[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgb3BhY2l0eT0iMC41Ij48L2NpcmNsZT48L3N2Zz4=)](https://wa.me/?text=https%3A%2F%2Fwww.hrsd.gov.sa%2Fen%2Fn%2F5571536)[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgb3BhY2l0eT0iMC41Ij48L2NpcmNsZT48L3N2Zz4=)](mailto:?subject=Ministry+of+Human+Resources+and+Social+Development+and+the+Insurance+Authority+launch+the+%22Insurance+Product%22+to+cover+the+entitlements+of+expatriate+workers+in+private+sector+establishments+when+they+default&body=https%3A%2F%2Fwww.hrsd.gov.sa%2Fen%2Fn%2F5571536)[![](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJjdXJyZW50Q29sb3IiIGFyaWEtbGFiZWw9IkNvcHkgbGluayB0byBjbGlwYm9hcmQiIHZpZXdib3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE2IDFINGMtMS4xIDAtMiAuOS0yIDJ2MTRoMlYzaDEyem0zIDRIOGMtMS4xIDAtMiAuOS0yIDJ2MTRjMCAxLjEuOSAyIDIgMmgxMWMxLjEgMCAyLS45IDItMlY3YzAtMS4xLS45LTItMi0ybTAgMTZIOFY3aDExeiIgLz48L3N2Zz4=)](#)
+
+## Stay always informed
+
+Join our newsletter mailing list to stay in touch with us
+
+Subscribe now
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgZmlsbD0ibm9uZSIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJJbmZvcm1hdGlvbiBpY29uIj48cGF0aCBmaWxsPSIjRjlGQUZCIiBkPSJNMCAyMEMwIDguOTU0IDguOTU0IDAgMjAgMHMyMCA4Ljk1NCAyMCAyMC04Ljk1NCAyMC0yMCAyMFMwIDMxLjA0NiAwIDIwIiAvPjxwYXRoIGZpbGw9IiMxNjE2MTYiIGQ9Im0xOS41NzYgMTkuNzkzLS4yMDgtLjAwMWEuNjI1LjYyNSAwIDEgMSAwLTEuMjVoLjAyOWMuMTcxIDAgLjM1NiAwIC41MTIuMDIuMTgzLjAyNS40MTYuMDg4LjYxMy4yODUuMTk2LjE5Ni4yNi40My4yODQuNjEzLjAyLjE1Ni4wMi4zNC4wMi41MTF2NC4xOTZhLjYyNS42MjUgMCAwIDEtMS4yNSAwem0uNDE3LTMuOTZhLjgzMy44MzMgMCAxIDAgMCAxLjY2N2guMDA4YS44MzMuODMzIDAgMSAwIDAtMS42Njd6IiAvPjxwYXRoIGZpbGw9IiMxNjE2MTYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTExLjA0MiAyMGE4Ljk1OCA4Ljk1OCAwIDEgMCAxNy45MTYgMCA4Ljk1OCA4Ljk1OCAwIDAgMC0xNy45MTYgME0yMCAyNy43MDhhNy43MDggNy43MDggMCAxIDEgMC0xNS40MTYgNy43MDggNy43MDggMCAwIDEgMCAxNS40MTYiIGNsaXAtcnVsZT0iZXZlbm9kZCIgLz48L3N2Zz4=)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0ibm9uZSIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDbG9zZSI+PHBhdGggZmlsbD0iIzE2MTYxNiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNC41NTggNC41NThhLjYyNS42MjUgMCAwIDEgLjg4NCAwTDEwIDkuMTE2bDQuNTU4LTQuNTU4YS42MjUuNjI1IDAgMSAxIC44ODQuODg0TDEwLjg4NCAxMGw0LjU1OCA0LjU1OGEuNjI1LjYyNSAwIDEgMS0uODg0Ljg4NEwxMCAxMC44ODRsLTQuNTU4IDQuNTU4YS42MjUuNjI1IDAgMSAxLS44ODQtLjg4NEw5LjExNiAxMCA0LjU1OCA1LjQ0MmEuNjI1LjYyNSAwIDAgMSAwLS44ODQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgLz48L3N2Zz4=)
+
+Newsletter
+
+full_name
+
+email
+
+your_interest_list
+
+announcement
+
+events
+
+news_newsletter
+
+training_workshop
+
+submit
+
+## Related News
+
+![شعار الوزارة إنجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2024-12%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3DWOWjPOsm&w=992&q=75)
+
+## [Ministry of Human Resources and Social Development Detects 10 Establishments Operating Recruitment and Labor Services Without a License](/en/media-center/news/%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%8A%D8%A9)
+
+17-Rabi’ Al-Thani-1448-28-September-2026
+
+Beneficiaries
+
+Businessmen
+
+Individuals
+
+employment
+
+business sector
+
+[](/en/media-center/news/%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%8A%D8%A9)
+
+![شعار الوزارة إنجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2024-12%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3DWOWjPOsm&w=992&q=75)
+
+## [Ministry of Human Resources and Social Development Opens Registration for the 6th Edition of the Labor Award](/en/media-center/news/%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%C2%A0%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9-%D9%85%D9%86-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84)
+
+17-Rabi’ Al-Thani-1448-28-September-2026
+
+Beneficiaries
+
+Businessmen
+
+Business
+
+Individuals
+
+business sector
+
+[](/en/media-center/news/%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%C2%A0%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9-%D9%85%D9%86-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84)
+
+![نائب وزير الموارد البشرية والتنمية الاجتماعية للعمل يرأس وفد المملكة المشارك في أعمال الدورة الـ52 لمؤتمر العمل العربي بالقاهرة](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2026-09%2Fphoto-2026-09-13-19-12-23.jpg%3Fh%3D1c9b88c9%26itok%3DhpP0Dj8X&w=992&q=75)
+
+## [Vice Minister of Human Resources and Social Development for Labor Leads the Kingdom’s Delegation to the 52nd Session of the Arab Labour Conference in Cairo](/en/media-center/news/%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%8052-%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)
+
+17-Rabi’ Al-Thani-1448-28-September-2026
+
+Beneficiaries
+
+Employment rights in the Kingdom of Saudi Arabia
+
+The labor system in the Kingdom of Saudi Arabia
+
+business sector
+
+[](/en/media-center/news/%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%8052-%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)
+
+![وزير الموارد البشرية والتنمية الاجتماعية يستقبل وزير شؤون العمالة المهاجرة في جمهورية الفلبين](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2026-09%2Fphoto-2026-09-16-14-02-40.jpg%3Fh%3D1c9b88c9%26itok%3DSDV-CuvE&w=992&q=75)
+
+## [Minister of Human Resources and Social Development Receives Philippine Minister of Migrant Workers](/en/media-center/news/%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86)
+
+05-Rabi’ Al-Thani-1448-16-September-2026
+
+Beneficiaries
+
+employment
+
+Employment rights in the Kingdom of Saudi Arabia
+
+business sector
+
+[](/en/media-center/news/%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86)
+
+![الشعار انجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2023-09%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3D4lxSOIYp&w=992&q=75)
+
+## [Ministry of Human Resources and Social Development and National Council for Occupational Safety and Health Announce Conclusion of the 2026 Ban Work Under Direct Sunlight Implementation Period](/en/media-center/news/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1%C2%A0%D9%81%D8%AA%D8%B1%D8%A9%C2%A0%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%C2%A0%D9%82%D8%B1%D8%A7%D8%B1%C2%A0%D8%AD%D8%B8%D8%B1%C2%A0%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%AD%D8%AA%C2%A0%D8%A3%D8%B4%D8%B9%D8%A9%C2%A0%D8%A7%D9%84%D8%B4%D9%85%D8%B3%C2%A0)
+
+04-Rabi’ Al-Thani-1448-15-September-2026
+
+Beneficiaries
+
+Businessmen
+
+Business
+
+Individuals
+
+business sector
+
+[](/en/media-center/news/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1%C2%A0%D9%81%D8%AA%D8%B1%D8%A9%C2%A0%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%C2%A0%D9%82%D8%B1%D8%A7%D8%B1%C2%A0%D8%AD%D8%B8%D8%B1%C2%A0%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%AD%D8%AA%C2%A0%D8%A3%D8%B4%D8%B9%D8%A9%C2%A0%D8%A7%D9%84%D8%B4%D9%85%D8%B3%C2%A0)
+
+![شعار الوزارة إنجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2024-12%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3DWOWjPOsm&w=992&q=75)
+
+## [Ministry of Human Resources and Social Development Participates in the Fifth Edition of the LEAP 2026 Technology Conference](/en/media-center/news/%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A-%D9%84%D9%8A%D8%A8-2026)
+
+27-Rabi’ Al-Awwal-1448-09-September-2026
+
+Shared services sector
+
+business sector
+
+Social Development Sector
+
+[](/en/media-center/news/%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A-%D9%84%D9%8A%D8%A8-2026)
+
+![شعار الوزارة إنجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2024-12%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3DWOWjPOsm&w=992&q=75)
+
+## [Easier Recruitment and Preserved Rights: Musaned Continues to Enhance the Efficiency of the Domestic Labor Recruitment Sector in H1 2026](/en/media-center/news/%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85-%D8%A3%D8%B3%D9%87%D9%84-%D9%88%D8%AD%D9%82%D9%88%D9%82-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9)
+
+27-Rabi’ Al-Awwal-1448-09-September-2026
+
+Beneficiaries
+
+Businessmen
+
+Business
+
+Individuals
+
+business sector
+
+[](/en/media-center/news/%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85-%D8%A3%D8%B3%D9%87%D9%84-%D9%88%D8%AD%D9%82%D9%88%D9%82-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9)
+
+![شعار الوزارة إنجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2024-12%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3DWOWjPOsm&w=992&q=75)
+
+## [More Than 419,000 Employment Contracts Notarized and More Than 258,000 Saudis Join Qiwa in Q2 2026](/en/media-center/news/%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%85%D9%86%D8%B5%D8%A9-%D9%82%D9%88%D9%89-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A)
+
+27-Rabi’ Al-Awwal-1448-09-September-2026
+
+Beneficiaries
+
+Businessmen
+
+Job seekers
+
+localization
+
+business sector
+
+[](/en/media-center/news/%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%85%D9%86%D8%B5%D8%A9-%D9%82%D9%88%D9%89-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A)
+
+![شعار الوزارة إنجليزي](/_next/image?url=%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fscale_and_crop_464x250%2Fpublic%2F2024-12%2FEnglish%20Logo.png%3Fh%3D8396fa2d%26itok%3DWOWjPOsm&w=992&q=75)
+
+## [Ministry of Human Resources and Social Development Announces Decision to Raise the Saudization Rate for Project Management Professions to 70% in Partnership with the Ministry of Municipalities and Housing](/en/media-center/news/%D8%B1%D9%81%D8%B9-%D9%86%D8%B3%D8%A8-%D8%AA%D9%88%D8%B7%D9%8A%D9%86-%D9%85%D9%87%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9)
+
+27-Rabi’ Al-Awwal-1448-09-September-2026
+
+Beneficiaries
+
+Businessmen
+
+Individuals
+
+Job seekers
+
+business sector
+
+[](/en/media-center/news/%D8%B1%D9%81%D8%B9-%D9%86%D8%B3%D8%A8-%D8%AA%D9%88%D8%B7%D9%8A%D9%86-%D9%85%D9%87%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9)

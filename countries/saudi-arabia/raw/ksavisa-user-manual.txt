@@ -1,0 +1,447 @@
+                                            2022
+
+
+
+
+The Unified National Visa Platform
+            User Guide
+       Individuals and authorized offices
+Table of Contents
+
+
+1. Homepage…………………………………………………………………………………………………………………………………2
+
+2. Individuals login ............................................................................................................................ 3
+
+ 2.1 The available services to the individual users when accessing through the National Single
+ Sign-On (Nafath) ........................................................................................................................................6
+
+ 2.1.1. Citizens .................................................................................................................................... 6
+
+ 2.1.2. GCC Citizens .......................................................................................................................... 20
+
+ 2.1.3. Resident ................................................................................................................................ 24
+
+3. Services for visitors .................................................................................................................... 32
+
+4. Government agencies and business sector login ................................................................... 40
+
+ 4.1 Companies outside the kingdom ................................................................................................... 41
+
+
+
+
+                                                                         1
+1. Homepage
+
+  The visa applications and inquiries about (invitation request – issued
+  invitation number – visa application) can be made through the main page
+  by entering the following link: https://visa.mofa.gov.sa
+
+
+
+
+                                   2
+2. Individuals login
+  For the individuals login, go to the top of the page and click on “login”
+  then click on “individuals login”
+
+
+
+
+                                      3
+The user can enter either through the National Single Sign-On (Nafath) for both
+citizens and residents, or by entering through using the account of the unified
+national visa platform for individual visitors to the kingdom of Saudi Arabia
+
+
+
+
+                                       4
+The services for each individual (citizen – resident – visitor) will appear after
+that to the user
+
+
+
+
+                                        5
+2.1 The available services to the individual users when
+      accessing through the National Single Sign-On (Nafath)
+
+
+2.1.1. Citizens
+
+
+• Family visit visa for citizens
+
+   Click on ‘Apply’ to apply for a family visit visa for first-degree relatives
+
+
+
+
+                                      6
+Fill in the personal and the company information and add the wanted to visit
+by clicking on “add” then read and approve the agreement and click on “save”
+
+
+
+
+And the request will be submitted and will be ready for print
+
+
+
+                                      7
+• Personal Visit Visa
+
+ Click on ‘Apply’ to apply for a personal visit visa (non-family and non-
+ business-related visits)
+
+
+
+
+                                  8
+Fill in the requesting party and the company information and add the wanted
+to visit by clicking on “add” then read and approve the agreement and click on
+“save”
+
+
+
+
+And the request will be submitted and will be ready for print
+
+
+
+
+                                      9
+   • Ratify individuals applications
+
+    Click on ‘Apply’ to ratify applications for residents visit visa for first-
+    degree relatives
+
+
+
+
+You can search for the application by entering the application number and click
+on “search” then “ratification”
+
+
+
+
+                                       10
+• Visa delegations
+
+ Click on ‘Apply’ to delegate representative offices for follow up with the
+ Saudi mission for work visas
+
+
+
+
+                                  11
+Read the online e-payment services agreement then click on “Agree”
+
+
+
+
+                                    12
+Then enter the required information and click on “search”
+
+
+
+
+                                     13
+• Work visa delegations (Musaned)
+
+
+  Click on ‘Apply’ to delegate Musaned contract for work visas and send it
+  to the embassy
+
+
+
+
+                                  14
+Read the online e-payment services agreement then click on “Agree”
+
+
+
+
+                                    15
+Then enter the required information and click on “search”
+
+
+
+
+                                     16
+  • Re-entry visa extension
+
+    Click on ‘Apply’ to apply for the extension of expired re-entry visas for their
+    sponsored parties
+
+
+
+
+Fill in the personal and the company information then read and approve the
+agreement and click on “save”
+
+
+
+
+                                        17
+  • Inquiries and suggestions
+
+    Click on ‘Apply’ to submit an inquiry or suggestion related to visas
+
+
+
+
+To inquire about a previous inquiry or suggestion, enter the inquiry or
+suggestion number then click on “Inquire”
+
+To add a new inquiry or suggestion click on “Add new inquiry or suggestion”
+
+
+
+
+                                      18
+Choose the type of the request and write the details then click on “send
+request”
+
+
+
+
+                                   19
+2.1.2. GCC Citizens
+
+
+• Add a new application and search for a previous application
+
+
+  Enter the application and the passport number then click on “search” to
+  find a previous application
+
+
+
+
+  You can add a new application by clicking on “add a new application”
+
+
+
+
+                                 20
+Read the online e-payment services agreement then click on “Agree”
+
+
+
+
+                              21
+Then read the agreement and click on “Agree”
+
+
+
+
+                              22
+Enter all the required information and click on “save” then choose an
+insurance company and complete the payment process
+
+
+
+
+                                 23
+2.1.3. Resident
+
+
+• Family visit visa for citizens:
+
+   Click on ‘Apply’ to apply for a family visit visa for first-degree relatives
+
+
+
+
+                                     24
+Fill in the personal and the company information and add the wanted to visit
+by clicking on “add” then read and approve the agreement and click on “save”
+
+
+
+
+And the request will be submitted and will be ready for print
+
+
+
+
+                                      25
+  • Re-entry visa extension
+
+    Click on ‘Apply’ to enable the residents to apply for the extension of
+    expired re-entry visas for their sponsored parties
+
+
+
+
+Fill in the personal and the company information then read and approve the
+agreement and click on “save”
+
+
+
+
+                                     26
+• Work visa delegations (Musaned)
+  Click on ‘Apply’ to delegate Musaned contract for work visas and send it
+  to the embassy
+
+
+
+
+                                  27
+Read the online e-payment services agreement then click on “Agree”
+
+
+
+
+                              28
+Then enter the required information and click on “search”
+
+
+
+
+                               29
+  • Inquiries and suggestions
+
+    Click on ‘Apply’ to submit an inquiry or suggestion related to visas
+
+
+
+
+To inquire about a previous inquiry or suggestion, enter the inquiry or
+suggestion number then click on “Inquire”
+
+To add a new inquiry or suggestion click on “Add new inquiry or suggestion”
+
+
+
+
+                                      30
+Choose the type of the request and write the details then click on “send
+request”
+
+
+
+
+                                   31
+3. Services for visitors
+
+  The user can access to the visitor services through the main page
+
+
+
+
+                                 32
+• Visa Application from Saudi missions abroad
+
+ Click on ‘Apply’ to apply for a visa for entry to the kingdom
+
+
+
+
+                                    33
+Enter the application and the passport number then click on “search” to find
+a previous application
+
+
+
+
+You can add a new application by clicking on “add a new application”
+
+
+
+
+                                    34
+Read the online e-payment services agreement then click on “Agree”
+
+
+
+
+                                  35
+Then read the agreement and click on “Agree”
+
+
+
+
+                                  36
+Enter all the required information and click on “save” then choose an
+insurance company and complete the payment process
+
+
+
+
+                                 37
+ • Hajj and Umrah eVisa application form
+
+  Click on ‘Apply’ to apply for Hajj and Umrah form
+
+
+
+
+Enter MOFA ID or MOHaj ID, the passport number, the nationality, and the
+image code then click on “continue” and fill in all the required information
+then send it to the embassy
+
+
+
+
+                                    38
+• Verification of health certificate issuance
+
+ Click on ‘Apply’ to allow verification of health certificate issuance from the
+ medical center
+
+
+
+
+   Enter the application and passport number and the image code then click
+   on “search”
+
+
+
+
+                                    39
+4. Government agencies and business sector login
+Go to the top of the page to login and click on “login”, then select
+“government agencies and business sector”
+
+
+
+
+                                    40
+4.1 Companies outside the kingdom
+
+
+
+Authorized offices can login through selecting “companies outside the
+kingdom”, where the login information is obtained after the reviewing of the
+representative of the Custodian of the Tow Holy Mosques in the host country
+
+
+
+
+                                      41
+The data of the electronic wallet number and the IBAN number of the
+authorized office are reviewed through this page. The electronic wallet can
+be fed through bank transfer to make payments for the requests, where the
+wallet owner can benefit from:
+
+  • Operations account statement
+  • Entering a visa
+  • Pay the fees
+  • Medical insurance payment
+
+
+
+
+                                      42
+     Version - 01
+
+
+
+
+43
+

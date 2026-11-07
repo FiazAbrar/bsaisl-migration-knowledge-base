@@ -1,0 +1,5 @@
+visa_type,field,value,ledger_id
+PLKS (Bangladesh side),OEP/BMET registration fee,Tk 200,G0001
+TTC training,short course fee (BKTTC example),"Tk 1,484 (6 months), Tk 748 (3 months)",G0003
+PLKS,construction skills certificate,"SKKP from source country, plus eSICW, from Jan 2025",G0007
+PLKS (Bangladesh side),OEP registration inputs,"English name, mobile, NID number, date of birth, division, district (all as on NID)",G0035

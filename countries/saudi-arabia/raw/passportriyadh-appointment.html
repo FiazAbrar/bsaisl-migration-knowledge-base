@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="7zgiSLSlPUE3c3ZB7YBEeLxIuxdk8gY7kiO6Y45y">
+    <title>Book an Appointment</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#eff6ff', 100: '#dbeafe', 500: '#2563eb',
+                            600: '#1d4ed8', 700: '#1e40af', 900: '#1e3a8a',
+                        }
+                    },
+                    fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui'] }
+                }
+            }
+        }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="icon" href="/appointment/static/images/favicon.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        /* Bumps the root rem base from 16px to 18px, which scales every Tailwind
+           text-*, spacing, and sizing utility proportionally site-wide since they
+           are all defined in rem units — a single, consistent way to make the
+           whole system read larger without touching every class individually. */
+        html { font-size: 112.5%; }
+        body { font-family: 'Inter', sans-serif; }
+        [x-cloak] { display: none !important; }
+    </style>
+    <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
+    <nav class="receipt-print-area bg-white border-b border-slate-200 sticky top-0 z-30">
+        <div class="grid items-center py-3">
+            <div></div>
+
+            <a href="https://passportriyadh.com/appointment"
+                class="flex items-center gap-2 font-bold text-brand-900 justify-self-center whitespace-nowrap">
+                <img src="/appointment/static/images/logo.png?v=1794050830" style="height: 70px;" />
+                <div>
+                    <p style="font-size: 28px;"> বাংলাদেশ দূতাবাস </p>
+                    <p style="font-size: 15px; color: black;"> রিয়াদ, সৌদি আরব </p>
+                </div>
+            </a>
+        </div>
+    </nav>
+
+    <main class="flex-1">
+        <div class="max-w-6xl mx-auto px-6 py-8">
+            <!--              -->
+                <div wire:snapshot="{&quot;data&quot;:{&quot;step&quot;:1,&quot;name&quot;:&quot;&quot;,&quot;phone&quot;:&quot;&quot;,&quot;passport_number&quot;:&quot;&quot;,&quot;oid_number&quot;:&quot;&quot;,&quot;selectedBranch&quot;:null,&quot;selectedAppointmentService&quot;:1,&quot;selectedService&quot;:null,&quot;selectedBranchName&quot;:&quot;&quot;,&quot;selectedServiceName&quot;:&quot;&quot;,&quot;branches&quot;:[[[{&quot;id&quot;:0,&quot;title&quot;:&quot;Riyadh (Bangladesh Embassy)&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:1,&quot;title&quot;:&quot;Al Hasa&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:2,&quot;title&quot;:&quot;Al Kharj&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:3,&quot;title&quot;:&quot;Arar&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:4,&quot;title&quot;:&quot;Buraidah&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:5,&quot;title&quot;:&quot;Dammam&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:6,&quot;title&quot;:&quot;Dawadmi&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:7,&quot;title&quot;:&quot;Hafar Al Baten&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:8,&quot;title&quot;:&quot;Hail&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:9,&quot;title&quot;:&quot;Jubail&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:10,&quot;title&quot;:&quot;Quraiyat&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:11,&quot;title&quot;:&quot;Sakaka&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:12,&quot;title&quot;:&quot;Tabarjol&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:13,&quot;title&quot;:&quot;Wadi Al Dawasir&quot;},{&quot;s&quot;:&quot;arr&quot;}]],{&quot;s&quot;:&quot;arr&quot;}],&quot;selectedServices&quot;:[[[{&quot;id&quot;:1,&quot;title&quot;:&quot;E-Passport Service&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:2,&quot;title&quot;:&quot;Consular &amp; Welfare Service&quot;},{&quot;s&quot;:&quot;arr&quot;}]],{&quot;s&quot;:&quot;arr&quot;}],&quot;allServices&quot;:[[[{&quot;id&quot;:4,&quot;title&quot;:&quot;(SEP) Hurub&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:3,&quot;title&quot;:&quot;(SEP) Iqama Expire&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:11,&quot;title&quot;:&quot;Attestation&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:12,&quot;title&quot;:&quot;Bangladesh Visa&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:15,&quot;title&quot;:&quot;Birth Certificate&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:10,&quot;title&quot;:&quot;Compensation Cases&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:17,&quot;title&quot;:&quot;Consular Letter&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:5,&quot;title&quot;:&quot;Death Related&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:8,&quot;title&quot;:&quot;Demand Letter Verification&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:9,&quot;title&quot;:&quot;House Maid Related&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:6,&quot;title&quot;:&quot;Legal Advice&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:19,&quot;title&quot;:&quot;Legal Documents&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:13,&quot;title&quot;:&quot;MRP Passport Renewal&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:16,&quot;title&quot;:&quot;NID&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:21,&quot;title&quot;:&quot;Passport Delivery&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:14,&quot;title&quot;:&quot;Police Clearance&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:20,&quot;title&quot;:&quot;Power of Attorney&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:23,&quot;title&quot;:&quot;Sonali Bank Service&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:18,&quot;title&quot;:&quot;Travel Permit&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:22,&quot;title&quot;:&quot;Visitor &amp; Other Service&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:7,&quot;title&quot;:&quot;WEWB Membership&quot;},{&quot;s&quot;:&quot;arr&quot;}]],{&quot;s&quot;:&quot;arr&quot;}],&quot;selectedDate&quot;:null,&quot;slots&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}],&quot;selectedSlotId&quot;:null,&quot;selectedSlotLabel&quot;:null,&quot;createdAppointmentRef&quot;:null,&quot;barcode&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;lcBJyhgcUQc2TwGm7bui&quot;,&quot;name&quot;:&quot;booking.booking-wizard&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;release&quot;:&quot;a-a-a&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;en&quot;},&quot;checksum&quot;:&quot;95529d698916452cc295c66d63297c70a407a81d1358ca82152da74bdb74a547&quot;}" wire:effects="[]" wire:id="lcBJyhgcUQc2TwGm7bui">
+    <style>
+        .fc-day-selected .fc-daygrid-day-frame {
+            background-color: #dbeafe;
+            border-radius: 0.5rem;
+        }
+        .fc-day-selected .fc-daygrid-day-number {
+            color: #1d4ed8;
+            font-weight: 600;
+        }
+        #wizard-calendar .fc-daygrid-day:hover {
+            background-color: #eff6ff;
+            cursor: pointer;
+            border-radius: 0.5rem;
+        }
+
+        #wizard-calendar .fc-daygrid-day-frame {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 2.75rem;
+        }
+        #wizard-calendar .fc-daygrid-day-top {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            flex-direction: row;
+        }
+        #wizard-calendar .fc-daygrid-day-number {
+            float: none;
+            padding: 0;
+            font-size: 0.875rem;
+        }
+        #wizard-calendar .fc-daygrid-day-events {
+            display: none;
+        }
+    </style>
+
+    <div class="instruction-message bg-emerald-50 border border-emerald-200 px-4 py-3 text-justify rounded-lg text-sm gap-3 mb-8 max-w-lg mx-auto">
+        বাংলাদেশ দূতাবাস এবং দূতাবাসের আওতাধীন সকল এলাকা সমূহে আপনার সুবিধাজনক স্থানে ই-পাসপোর্টের বায়োমেট্রিক (ফিঙ্গারপ্রিন্ট) প্রদান করার জন্য অনুগ্রহ করে নিম্নোক্ত তথ্যসমূহ যেমন আবেদনকারীর পূর্ণ নাম , মোবাইল নম্বর, পাসপোর্ট নম্বর, OID নম্বর (ই-পাসপোর্ট এর অনলাইন  করার পরে আবেদন ফর্মের বারকোডে সম্বলিত নাম্বার) দিয়ে বাংলাদেশ দূতাবাস, রিয়াদ অথবা দূতাবাসের আওতাধীন এলাকা সমূহ নির্বাচন করে আপনার আসার তারিখ ও সময় নির্ধারন করুন। বারকোর্ড আসার পরে মোবাইলে একটি ছবি তুলে রাখুন। নির্ধারিত সময়ের ৩০ মিনিট পূর্বে আসুন। আপনার নেয়া নির্ধারিত সময়ে আপনাকে সেবা দেয়া আমাদের লক্ষ্য।  
+    </div>
+    <div class="flex items-center gap-3 mb-8 max-w-lg mx-auto">
+        <!--[if BLOCK]><![endif]-->            <div class="flex items-center gap-2 flex-1">
+                <div class="w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold
+                    bg-emerald-500 text-white">
+                    <!--[if BLOCK]><![endif]--> 1 <!--[if ENDBLOCK]><![endif]-->                </div>
+                <span class="text-sm text-slate-700 font-medium">Your Info</span>
+                <!--[if BLOCK]><![endif]--><div class="flex-1 h-px bg-slate-200"></div><!--[if ENDBLOCK]><![endif]-->            </div>
+                    <div class="flex items-center gap-2 flex-1">
+                <div class="w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold
+                    bg-slate-200 text-slate-400">
+                    <!--[if BLOCK]><![endif]--> 2 <!--[if ENDBLOCK]><![endif]-->                </div>
+                <span class="text-sm text-slate-400">Choose Time</span>
+                <!--[if BLOCK]><![endif]--><div class="flex-1 h-px bg-slate-200"></div><!--[if ENDBLOCK]><![endif]-->            </div>
+                    <div class="flex items-center gap-2 flex-1">
+                <div class="w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold
+                    bg-slate-200 text-slate-400">
+                    <!--[if BLOCK]><![endif]--> 3 <!--[if ENDBLOCK]><![endif]-->                </div>
+                <span class="text-sm text-slate-400">Confirm</span>
+                <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->            </div>
+        <!--[if ENDBLOCK]><![endif]-->    </div>
+
+    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->
+
+    <!--[if BLOCK]><![endif]-->        <div class="bg-white border border-slate-200 rounded-2xl shadow-sm p-8 max-w-lg mx-auto">
+            <h1 class="text-xl font-bold text-slate-900 mb-1">Book an Appointment</h1>
+            <p class="text-slate-500 text-sm mb-6">Please provide your details to begin.</p>
+
+            <div class="space-y-4">
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">What Service Do You Need?</label>
+                    <div class="space-y-2">
+                        <!--[if BLOCK]><![endif]-->                            <label class="flex items-center gap-3">
+                                <input
+                                    type="radio"
+                                    value="1"
+                                    wire:model.live="selectedAppointmentService"
+                                    class="form-radio text-brand-600 focus:ring-brand-500"
+                                    required
+                                >
+                                <span>E-Passport Service</span>
+                            </label>
+                                                    <label class="flex items-center gap-3">
+                                <input
+                                    type="radio"
+                                    value="2"
+                                    wire:model.live="selectedAppointmentService"
+                                    class="form-radio text-brand-600 focus:ring-brand-500"
+                                    required
+                                >
+                                <span>Consular &amp; Welfare Service</span>
+                            </label>
+                        <!--[if ENDBLOCK]><![endif]-->                    </div>
+                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+                <!--[if BLOCK]><![endif]-->                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">Branch</label>
+                        <select wire:model="selectedBranch" class="w-full border border-slate-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 outline-none transition" required autofocus>
+                            <option value="">Select a branch</option>
+                            <!--[if BLOCK]><![endif]-->                                <option value="0">Riyadh (Bangladesh Embassy)</option>
+                                                            <option value="1">Al Hasa</option>
+                                                            <option value="2">Al Kharj</option>
+                                                            <option value="3">Arar</option>
+                                                            <option value="4">Buraidah</option>
+                                                            <option value="5">Dammam</option>
+                                                            <option value="6">Dawadmi</option>
+                                                            <option value="7">Hafar Al Baten</option>
+                                                            <option value="8">Hail</option>
+                                                            <option value="9">Jubail</option>
+                                                            <option value="10">Quraiyat</option>
+                                                            <option value="11">Sakaka</option>
+                                                            <option value="12">Tabarjol</option>
+                                                            <option value="13">Wadi Al Dawasir</option>
+                            <!--[if ENDBLOCK]><![endif]-->                        </select>
+                        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                    </div>
+                <!--[if ENDBLOCK]><![endif]-->                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Full Name</label>
+                    <input type="text" wire:model="name" class="w-full border border-slate-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 outline-none transition" required autofocus>
+                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Phone Number</label>
+                    <input type="text" wire:model="phone" class="w-full border border-slate-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 outline-none transition" required autofocus>
+                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Passport Number</label>
+                    <input type="text" wire:model="passport_number" class="w-full border border-slate-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 outline-none transition" required autofocus>
+                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+                
+                <!--[if BLOCK]><![endif]-->                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">OID Number</label>
+                    <input type="text" wire:model="oid_number" class="w-full border border-slate-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 outline-none transition" required autofocus>
+                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+                <!--[if ENDBLOCK]><![endif]-->            </div>
+
+            <button wire:click="goToStepTwo" wire:loading.attr="disabled"
+                class="mt-6 w-full bg-brand-600 text-white font-medium px-5 py-2.5 rounded-lg hover:bg-brand-700 transition disabled:opacity-50">
+                <span wire:loading.remove wire:target="goToStepTwo">Continue</span>
+                <span wire:loading wire:target="goToStepTwo">Please wait...</span>
+            </button>
+        </div>
+    <!--[if ENDBLOCK]><![endif]-->
+    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->
+    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->
+    
+    <script>
+        (function () {
+
+            let wizardCalendar = null;
+
+            function destroyWizardCalendar() {
+                if (wizardCalendar) {
+                    wizardCalendar.destroy();
+                    wizardCalendar = null;
+                }
+            }
+
+            function initWizardCalendar(initialDateStr) {
+                const el = document.getElementById('wizard-calendar');
+                if (!el) return;
+
+                // Always tear down any previous instance first. This matters
+                // because clicking "Back" removes #wizard-calendar from the
+                // DOM entirely, but the old wizardCalendar JS reference stays
+                // alive until we explicitly destroy it — without this, coming
+                // back to step 2 would silently no-op and render nothing.
+                destroyWizardCalendar();
+
+                wizardCalendar = new FullCalendar.Calendar(el, {
+                    initialView: 'dayGridMonth',
+                    height: 'auto',
+                    // aspectRatio: 1.5,
+                    // contentHeight: 320,
+                    // headerToolbar: { left: 'prev', center: 'title', right: 'next' },
+                    initialDate: initialDateStr,
+                    validRange: { start: new Date().toISOString().slice(0, 10) },
+                    selectable: true,
+                    initialDate: initialDateStr,
+                    validRange: { start: new Date().toISOString().slice(0, 10) },
+                    selectable: true,
+                    dateClick: function (info) {
+                        document.querySelectorAll('#wizard-calendar .fc-daygrid-day').forEach(function (day) {
+                            day.classList.remove('fc-day-selected');
+                        });
+                        info.dayEl.classList.add('fc-day-selected');
+                        window.Livewire.find('lcBJyhgcUQc2TwGm7bui').set('selectedDate', info.dateStr);
+                    },
+                    dayCellDidMount: function (info) {
+                        if (info.dateStr === initialDateStr) {
+                            info.el.classList.add('fc-day-selected');
+                        }
+                    }
+                });
+                wizardCalendar.render();
+            }
+
+            document.addEventListener('livewire:initialized', function () {
+                Livewire.on('step-two-shown', function (data) {
+                    const selectedDate = Array.isArray(data) ? data[0]?.selectedDate : data.selectedDate;
+                    requestAnimationFrame(function () {
+                        initWizardCalendar(selectedDate);
+                    });
+                });
+
+                Livewire.on('step-one-shown', function () {
+                    destroyWizardCalendar();
+                });
+            });
+        })();
+    </script>
+</div>        </div>
+    </main>
+
+    <footer class="print-hide border-t border-slate-200 py-4 text-center text-xs text-slate-400">
+        &copy; 2026 Appointment System. All rights reserved.
+    </footer>
+            <script src="/appointment/static/livewire/livewire.js" data-update-uri="https://passportriyadh.com/appointment/livewire/update"></script>
+        <!-- Livewire Scripts -->
+<script src="/livewire/livewire.js?id=42cd7fd5"   data-csrf="7zgiSLSlPUE3c3ZB7YBEeLxIuxdk8gY7kiO6Y45y" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+                           USER MANUAL
+                              OF
+                     E-DEMAND ATTESTATION
+
+
+    Employer’s Registration:
+
+ Please register at this link:
+    https://beriyadh.org/employers/create
+
+
+
+
+ Select Type of Entity:  Company or  Saudi Recruitment Office
+ Incert 10 digit CR number
+ Enter mobile number
+ Click on send otp
+
+
+
+
+   Pls enter otp;
+ Enter the information bellow:
+
+
+
+
+ Upload the following: (pdf only 512 kb max)
+
+     CR Copy
+     National Adress
+     Sponsor ID
+
+ Click on submit;
+ Your Registration is successful
+
+
+
+
+ Click here to login
+  New Demand Submission:
+ Click on Visa Documents and create the following documents:
+   Demand Letter (edit only red marked box)
+ Power of Attorny; (edit only red marked box)
+ Employment Contract; (edit only red marked box)
+ Click on Letter of Guaranty; (edit only red marked box)
+ Letter of Undertaking (edit only red marked box)
+ Click on New Demand:
+
+
+
+
+ Enter the following information:
+
+
+
+
+Project/Workplace:
+Project Title:                  Duration:                           Site Location:
+
+Project Manager:                Name:                               Cell:               Email:
+
+Workers’ Villa Location         Camp In charge:                     Cell:               Email:
+
+Workers’ List (at least 10);
+ SL                Name        Profession         Date of Joining   Passport         Iqama       Mobile
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ Upload the following the documents:
+
+    Demand Letter;
+    Power of Attorny;
+    Employment Contract;
+    Letter of Undertaking;
+    Letter of Guaranty;
+    Project/Contract Paper to engage workers;
+
+    Wage Protection certificate;
+
+                                                  Submit
+
+
+  Your Demand has been submitted successfully!!
+

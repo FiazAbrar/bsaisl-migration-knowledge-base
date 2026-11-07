@@ -1,0 +1,387 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>Al Etihad - Employers Delinquency Portal</title>
+<link rel="icon" href="assets/images/logo/favicon.png?v=1.84.2" type="image/x-icon">
+<link rel="stylesheet" href="assets/css/my-task.style.min.css?v=1.84.2">
+<link rel="stylesheet" href="assets/css/custom.css?v=1.84.2"></head>
+
+<body data-mytask="theme-Mariner">
+
+  <div id="mytask-layout">
+    <div class="main">
+
+      <header class="p-3 header-main position-relative header-main-aletihad" style="background-color: #1e4397; direction: ltr;">
+        <div class="container">
+          <div class="d-flex align-items-center justify-content-between w-100">
+            <div class="text-start">
+              <a href="index.php"><img src="assets/images/logo-aletihad-white.png" style="max-width: 150px;" /></a>
+            </div>
+            <div class="text-end">
+              <select id="LanguageID" name="LanguageID" class="text-center form-control" style="max-width: 90px; float: inline-end;">
+                <option value="en" selected>English</option>
+                <option value="ar" >Arabic</option>
+                <option value="ud" >Urdu</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="home-hero-section">
+        <div class="container">
+
+          <div class="row g-0">
+            <div class="col-sm-12 mt-5 text-center">
+              <h2 class="text-primary" style="color: #1e4397; font-weight: 600; line-height: 1.5em; font-size: calc(2em + 0.8vw);">Insurance Policy for the Rights and Dues of Non-Saudi Employees in the Private Sector Institutions</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center g-5 mt-3">
+            <div class="col-xl-4 col-md-6 col-sm-12 d-flex1 justify-content-center1 mt-5 border-0 rounded">
+              <div class="p-2 p-md-3 card">
+                <div class="card-body">
+                  <!-- Form -->
+                  <form id="frmdata0" action="" method="post" class="row g-1">
+                    <div class="col-12 text-center mb-lg-4">
+                      <h1 class="mb-3" style="font-size: 1.8rem;">Coverage Check</h1>
+                      <div id="div-error-notfound0" class="alert alert-danger mb-3" role="alert" style="display: none;">Provided ID number not covered.</div>
+                      <div id="div-success-national-id" class="alert alert-success mb-3" role="alert" style="display: none;"></div>
+                    </div>
+                    <div id="div-id0" class="col-12">
+                      <div class="mb-3" dir="ltr">
+                        <label class="form-label " >Iqama Number / Border Number</label>
+                        <input type="number" id="NationalID0" name="NationalID0" class="form-control form-control-lg" placeholder="Iqama or Border Number" value="">
+                      </div>
+                    </div>
+                    <div id="div-msg0" class="col-12 mb-3 d-none">
+                      <div id="div-msg-eligibe" class="alert alert-success" role="alert" style="display: none; font-size: 1.3rem;" dir="ltr">Employee is Covered.<br /><span>ID:  <span id="sp-id1"></span></span></div>
+                      <div id="div-msg-noteligibe" class="alert alert-danger" role="alert" style="display: none; font-size: 1.3rem;" dir="ltr">Employee is not Covered.<br /><span>ID:  <span id="sp-id2"></span></span></div>
+                      <div class="text-center">
+                        <a href="index.php" class="btn-submition btn btn-primary border lift text-uppercase1 mb-3" style="min-width: 150px; padding: .7rem 1rem;">New Check</a>
+                      </div>
+                    </div>
+                    <div class="col-12 text-center mb-3">
+                      <div id="div-loader0" class="spinner-border text-dark" role="status" style="display: none;">
+                        <span class="visually-hidden">Loading...</span>
+                      </div>
+                      <input type="hidden" id="g-recaptcha-response0" name="g-recaptcha-response0">
+                      <button type="submit" id="btnSubmit0" name="btnSubmit0" class="btn btn-primary lift text-uppercase" style="padding: .7rem 1rem;" disabled>CHECK</button>
+                    </div>
+                  </form>
+                  <!-- End Form -->
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-4 col-md-6 col-sm-12 d-flex justify-content-center mt-5 border-0 rounded">
+              <div class="p-2 p-md-3 card border-0 bg-dark text-light">
+                <div class="card-body">
+
+                  
+                  <!-- Form Flow -->
+                  <form id="frmdata3" action="" method="post" class="row g-1">
+                    <div class="col-12 text-center mb-lg-4">
+                      <h1 class="mb-3" style="font-size: 1.8rem;">Worker Portal</h1>
+                      <p class="mb-3 d-none" style="font-size: 1.2rem;">(Submit Claim, Print Certificate, etc.)</p>
+                      <div id="div2-error1" class="alert alert-warning mt-5 d-none" role="alert" style="font-size: 18px;">
+                        Beneficiary is not eligible for the claim till date                      </div>
+                      <div id="div-error3" class="alert alert-danger mb-3" role="alert" style="display: none;">Mobile ownership not verified.</div>
+                      <div id="div3-error4" class="alert alert-danger mb-3" role="alert" style="display: none;">reCAPTCHA faild. try again.</div>
+                      <div id="div3-error5" class="alert alert-danger mb-3" role="alert" style="display: none;">Beneficiary is not covered in policy.</div>
+                    </div>
+                    <div class="col-12 mb-3 ctlr">
+                      <label class="form-label " >Did you exit the Kingdom?</label>
+                      <select id="IsInKingdom" name="IsInKingdom" class="form-control form-control-lg">
+                        <option value="0" selected>No</option>
+                        <option value="1">Yes</option>
+                      </select>
+                    </div>
+                    <div class="col-12 mb-3 ctlr mob-local">
+                      <label class="form-label " >Is your mobile number registered in Absher?</label>
+                      <select id="IsMobileRegister" name="IsMobileRegister" class="form-control form-control-lg">
+                        <option value="1" selected>Yes</option>
+                        <option value="0">No</option>
+                      </select>
+                    </div>
+                    <div class="col-12 mb-3 ctlr">
+                      <div class="" dir="ltr">
+                        <label for="NationalID3" class="form-label " >Iqama Number / Border Number</label>
+                        <input type="number" id="NationalID3" name="NationalID3" class="form-control form-control-lg" placeholder="Iqama or Border Number" value="">
+                      </div>
+                    </div>
+                    <div class="col-12 mb-2 ctlr mob-local">
+                      <label class="form-label " >Mobile Number</label>
+                      <div class="input-group" dir="ltr" style="border-radius: .375rem; overflow: hidden">
+                        <span class="input-group-text" id="basic-addon1">+966</span>
+                        <input type="number" id="Mobile3" name="Mobile3" class="form-control form-control-lg" placeholder="5xxxxxxxx" value="">
+                      </div>
+                      <label id="Mobile3-error" class="error" for="Mobile3"></label>
+                    </div>
+                    <div class="col-12 mb-2 ctlr mob-intenational">
+                      <label class="form-label " >Mobile Number</label>
+                      <input type="number" id="Mobile4" name="Mobile4" class="form-control form-control-lg" placeholder="With Country Code" value="">
+                      <label id="Mobile4-error" class="error" for="Mobile4"></label>
+                    </div>
+                    <div class="col-12 text-center ctlr">
+                      <div id="div-loader3" class="spinner-border text-light" role="status" style="display: none;">
+                        <span class="visually-hidden">Loading...</span>
+                      </div>
+                      <input type="hidden" id="g-recaptcha-response3" name="g-recaptcha-response3">
+                      <button type="submit" id="btnSubmit3" name="btnSubmit3" class="btn btn-light lift text-uppercase" style="padding: .7rem 1rem;" disabled>PROCEED</button>
+                    </div>
+                  </form>
+                  <!-- End Form -->
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="d-flex flex-wrap align-items-center justify-content-center mt-5 mx-auto justify-content-center">
+            <div class="me-3" dir="ltr">
+              <a href="https://www.aletihad.sa/customer-care?lang=en" target="_blank" class="btn-submition btn btn-primary border lift text-uppercase1 mb-3" style="min-width: 150px; padding: .7rem 1rem;"><i class="icofont-phone"></i> Customer Care</a>
+            </div>
+            <div class="me-3" dir="ltr">
+              <a href="assets/docs/20241006-guideline-en-v2.pdf" target="_blank" class="btn-submition btn btn-primary border lift text-uppercase1 mb-3" style="min-width: 120px; padding: .7rem 1rem;"><i class="icofont-question"></i> Guideline</a>
+            </div>
+            <div class="me-3" dir="ltr">
+              <a href="assets/docs/20241004-manual-en.pdf" target="_blank" class="btn-submition btn btn-primary border lift text-uppercase1 mb-3" style="min-width: 150px; padding: .7rem 1rem;"><i class="icofont-page"></i> User Manual</a>
+            </div>
+            <div class="d-none" dir="ltr">
+              <a href="https://aletihad.sa/service-employees-rights-duties-insurance?lang=en" target="_blank">More details...</a>
+            </div>
+          </div>
+
+          <div class="text-center d-flex align-content-center justify-content-center">
+            For more information Please            <a class="ps-1 d-inline-flex text-primary" style="font-weight: 600;" href="https://aletihad.sa/service-employees-rights-duties-insurance?lang=en" target="_blank">Click Here!</a>
+          </div>
+
+          <div class="text-center d-none">
+            <p class="d-none">For more information, You may visit</p>
+            <p><a href="https://www.aletihad.sa/customer-care?lang=en" target="_blank"></a></p>
+          </div>
+
+        </div>
+      </div>
+
+      <footer class="text-body-secondary pt-5 pb-3" dir="ltr">
+    <div class="container">
+        <hr />
+        <div class="row">
+            <div class="col-md-4 col-sm-12 text-sm-center text-xs-center mb-sm-4 mb-xs-4"><img src="assets/images/logo.png" /></div>
+            <ul class="col-md-8 col-sm-12 text-end text-sm-center text-xs-center">
+                <li class="mb-1">Al Abdulkarim Tower, King Fahad bin Abdulaziz Road</li>
+                <li class="mb-1">Al-Qashlah District, Dhahran 34232-4233</li>
+                <li class="mb-1"><a href="/cdn-cgi/l/email-protection#adc4c3cbc2edccc1c8d9c4c5ccc983decc"><span class="__cf_email__" data-cfemail="82ebece4edc2e3eee7f6ebeae3e6acf1e3">[email&#160;protected]</span></a> | <a href="tel:800 3040 110">800 3040 110</a></li>
+            </ul>
+            <div class="col-sm-12 text-center text-sm-center text-xs-center mt-2" dir="ltr">&copy; 2024 Al-Etihad Co-Operative Insurance Co. | All Rights Reserved.</div>
+        </div>
+    </div>
+</footer>
+    </div>
+  </div>
+
+  <!-- Jquery Core Js -->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/bundles/libscripts.bundle.js?v=1.84.2"></script>
+  <script src="assets/plugin/js.cookie/js.cookie.min.js?v=1.84.2"></script>
+  <script src="assets/plugin/jquery-validation-1.19.5/jquery.validate.min.js?v=1.84.2"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6Lfz73giAAAAAEGx2nHBTBB6jIYLRHosM-Mhpe4T"></script>
+
+  <script>
+    function SetCaptchaToken() {
+      grecaptcha.execute('6Lfz73giAAAAAEGx2nHBTBB6jIYLRHosM-Mhpe4T', {
+          action: 'validate_captcha'
+        })
+        .then(function(token) {
+          if (document.getElementById('g-recaptcha-response0')) {
+            document.getElementById('g-recaptcha-response0').value = token;
+            $('button#btnSubmit0').prop('disabled', false);
+          }
+          /*if (document.getElementById('g-recaptcha-response1')) {
+              document.getElementById('g-recaptcha-response1').value = token;
+              $('button#btnSubmit1').prop('disabled', false);
+          }
+          if (document.getElementById('g-recaptcha-response2')) {
+              document.getElementById('g-recaptcha-response2').value = token;
+              $('button#btnSubmit2').prop('disabled', false);
+          }*/
+          if (document.getElementById('g-recaptcha-response3')) {
+            document.getElementById('g-recaptcha-response3').value = token;
+            $('button#btnSubmit3').prop('disabled', false);
+          }
+        });
+    }
+
+    grecaptcha.ready(function() {
+      SetCaptchaToken();
+      setInterval(function() {
+        SetCaptchaToken();
+      }, 1 * 60 * 1000); // Refresh token every minute
+    });
+
+    $(document).ready(function() {
+      // Mobile number custom validation
+      $.validator.addMethod("startsWith5", function(value, element) {
+        return this.optional(element) || value.startsWith("5");
+      }, "Mobile number must start with 5");
+
+      // Validate the first form (frmdata0)
+      $('form#frmdata0').validate({
+        rules: {
+          NationalID0: {
+            required: true,
+            digits: true,
+            minlength: 10,
+            maxlength: 10
+          }
+        },
+        submitHandler: function(form) {
+          $('input#NationalID0').prop('disabled', true);
+          $('button#btnSubmit0').prop('disabled', true).hide();
+          $('div#div-loader0').show();
+          $('span#sp-id1').html($('input#NationalID0').val());
+          $('span#sp-id2').html($('input#NationalID0').val());
+
+          $.ajax({
+            url: 'assets/ws/index.php',
+            method: 'POST',
+            data: {
+              CheckID: 1,
+              NationalID: $('input#NationalID0').val(),
+              GCaptcha: $('input#g-recaptcha-response0').val()
+            },
+            dataType: 'json',
+            success: function(data) {
+              console.log(data);
+              if (data.Status == 1) {
+                $('div#div-msg-eligibe').show();
+              } else {
+                $('div#div-msg-noteligibe').show();
+              }
+              $('div#div-id0').hide();
+              $('div#div-msg0').removeClass('d-none');
+              $('div#div-loader0').hide();
+            },
+            error: function(error) {
+              console.log("Error submitting the form", error);
+            }
+          });
+        }
+      });
+
+      
+      // Validate the second form (frmdata1)
+      $('form#frmdata3').validate({
+        rules: {
+          NationalID3: {
+            required: true,
+            digits: true,
+            minlength: 10,
+            maxlength: 10
+          },
+          Mobile3: {
+            required: true,
+            digits: true,
+            minlength: 9,
+            maxlength: 9,
+            startsWith5: true
+          }
+        },
+        messages: {
+          Mobile1: {
+            startsWith5: "Mobile number must start with the digit 5."
+          }
+        },
+        submitHandler: function(form) {
+
+          $('select#IsInKingdom').prop('disabled', true);
+          $('select#IsMobileRegister').prop('disabled', true);
+          $('input#NationalID3').prop('disabled', true);
+          $('input#Mobile3').prop('disabled', true);
+          $('input#Mobile4').prop('disabled', true);
+          $('button#btnSubmit3').prop('disabled', true).hide();
+          $('div#div-loader3').show();
+
+          $('div#div3-error4').hide();
+          $('div#div3-error5').hide();
+          //$('div#div3-error3').hide();
+          //$('div#div3-error4').hide();
+
+          $.ajax({
+            url: 'assets/ws/index.php',
+            method: 'POST',
+            data: {
+              Login4: 1,
+              IsInKingdom: $('select#IsInKingdom option:selected').val(),
+              IsMobileRegister: $('select#IsMobileRegister option:selected').val(),
+              NationalID: $('input#NationalID3').val(),
+              Mobile1: $('input#Mobile3').val(),
+              Mobile2: $('input#Mobile4').val(),
+              GCaptcha: $('input#g-recaptcha-response3').val()
+            },
+            dataType: 'json',
+            success: function(data) {
+              //console.log(data);
+
+              switch (data.Status) {
+                case 3:
+                  $('div#div-error3').show();
+                  setTimeout(function() {
+                    location.reload();
+                  }, 10000);
+                  break;
+                case 4:
+                  $('div#div3-error4').show();
+                  setTimeout(function() {
+                    location.reload();
+                  }, 5000);
+                  break;
+                case 5: // Provided ID number not covered
+                  $('div#div3-error5').show();
+                  setTimeout(function() {
+                    location.reload();
+                  }, 10000);
+                  break;
+                case 6: // Success .. OTP sent
+                  window.location.replace("otp.php");
+                  break;
+                default:
+                  break;
+              }
+            },
+            error: function(error) {
+              console.log("Error submitting the form", error);
+            }
+          });
+
+        }
+      });
+
+      $(document).on('change', 'select#IsInKingdom', function() {
+        if ($('select#IsInKingdom option:selected').val() == 0) {
+          $('div.mob-local').removeClass('d-none');
+          $('div.mob-intenational').addClass('d-none');
+        } else {
+          $('div.mob-local').addClass('d-none');
+          $('div.mob-intenational').removeClass('d-none');
+        }
+        $('select#IsMobileRegister').val(1);
+      });
+      $('select#IsInKingdom').trigger('change');
+
+      // Update language selection in cookies and reload page
+      $(document).on('change', 'select#LanguageID', function() {
+        Cookies.set('LABOR_Language', $('select#LanguageID option:selected').val());
+        location.reload();
+      });
+    });
+  </script>
+</body>
+
+</html>

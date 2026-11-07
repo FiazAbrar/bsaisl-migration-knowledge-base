@@ -1,0 +1,665 @@
+This file has been cleaned of potential threats.
+
+
+
+
+To view the reconstructed contents, please SCROLL DOWN to next page.
+                                          User Guide
+
+
+
+           Wedi System
+Friendly Settlement Service (Labor/Establishment)
+
+
+
+
+                  Classification: Strict ٍ‫مقيد‬
+Table of Contents
+
+1             Introduction ....................................................................................................................3
+       1.1                                Purpose of the Document .............................................................. 3
+       1.2                                About the Work Cycle..................................................................... 3
+2             Turn on the system and log in ........................................................................................5
+3             Use Cases for Labor ........................................................................................................5
+       3.1                                File New Claim ................................................................................ 5
+       3.2                                Requirements for Remote Claim .................................................... 6
+       3.3                                The possibility of adding an international mobile number when
+       creating a claim                   16
+4             View user’s claims details .............................................................................................18
+       4.1                                Steps to attend the session remotely .......................................... 18
+5             Use Cases for Establishment ........................................................................................19
+       5.1                                File New Claim .............................................................................. 19
+       5.2                                View user’s claims details ............................................................ 24
+6             How to submit a request as a local attorney ...............................................................25
+7             How to submit a request as an external attorney........................................................26
+8             How to submit a request as an embassy attorney .......................................................27
+9             How to submit a request as a worker ..........................................................................28
+10            How to submit a request to a government authority ..................................................29
+11            How to submit a request to a non-government authority ...........................................29
+12            My claim page ..............................................................................................................29
+       12.1                               My negotiation cases.................................................................... 30
+       12.2                               My settlement cases..................................................................... 30
+       12.3                               My archived claims ....................................................................... 30
+       12.4                               My registered cases of non-appearance ...................................... 31
+       12.5                               My rejected requests and respondent’s claims........................... 31
+
+
+
+
+                                                                                                                                                   Page|2
+                                                        Classification: Strict ٍ‫مقيد‬
+1      Introduction
+
+ 1.1     Purpose of the Document
+
+The purpose of this document is to explain in detail how to use the screens of the labor dispute
+settlement system and how to apply the rules to facilitate operation for users.
+
+
+ 1.2     About the Work Cycle
+
+The work cycle of the labor amicable settlement begins with filing the claim by the client, who
+files this claim through electronic service delivery channels such as the service portal . Then,
+the claim is registered and transferred to the friendly settlement system through the current
+integration platform at the Ministry of Labor.
+
+
+
+
+                                                                                                   Page|3
+                                    Classification: Strict ٍ‫مقيد‬
+                               Page|4
+Classification: Strict ٍ‫مقيد‬
+2     Turn on the system and log in
+
+    1. Open a web browser.
+    2. Type the address of the services portal in the browser and confirm the entry by
+         pressing “Enter”.
+
+
+    3. Type the "user name" and "password” of the user in the field provided and click on
+         "Login" button.
+
+
+
+
+    4. Then, the system takes the user to the home page.
+
+3     Use Cases for Labor
+
+3.1     File New Claim
+
+    1. Log in to the Ministry's services portal.
+    2. Select Individual Portal
+
+
+                                                                                            Page|5
+                                      Classification: Strict ٍ‫مقيد‬
+  3. Select file a claim from the list of friendly settlement services available in the side
+      navigation bar.
+
+
+
+
+  4. The system opens the screen of the claim form.
+
+  5. The data of the logged in user automatically appears in the claimant's data section.
+       I.   If the user is an attorney of the claimant, "Attorney” can be selected in
+            "Claimant's Capacity". In this case, the data of the logged in user appears in
+            the attorney's data. Then, the user enters the POA data in the "POA Number"
+            field.
+                  i. To enter the POA data, the user enters the POA data in the “POA
+                      Number” field. Then, the system automatically completes the POA
+                      data through integration with the systems of MOJ.
+
+
+3.2   Requirements for Remote Claim
+
+  1- Show the ID card to the conciliator.
+  2- Adhere to the specified time of the session.
+  3- Use smart communication devices supporting the use of microphone and camera.
+
+
+                                                                                               Page|6
+                                 Classification: Strict ٍ‫مقيد‬
+4-   Use high-speed internet.
+5-   Lack of interpretation service for non-Arabic speakers.
+6-   The session takes place via Webex Meetings Software.
+7-   The minutes are authenticated via a verification code sent as a text message.
+8-   Both parties to the dispute can download and print the minutes of the session
+     through the electronic portal by going to “My Claims” page, finding the required
+     claim, and clicking on the button indicated in the following screenshot:
+
+
+
+
+NOTE:
+     Now, all settlement sessions take place remotely. The button has become non-
+     clickable as shown in the screenshot:
+
+
+
+
+                                                                                        Page|7
+                                Classification: Strict ٍ‫مقيد‬
+               ii. To enter the claimant’s data, the user enters the ID number and the
+                   date of birth. Then, the system automatically completes the
+                   claimant’s data through integration with the systems of MOI.
+
+
+
+
+6. Select the establishment against which the claim is filed from the list of
+   establishments. Then, the system automatically displays the establishment’s data
+   through integration with the systems of the Ministry of Human Resources and Social
+   Development.
+      I.   The system only displays a list of the establishments in which the labor has
+           previously registered.
+     II.   The user can select “Another Establishment” and manually enter the
+           establishment’s data.
+7. Enter the required data of work.
+
+
+
+                                                                                          Page|8
+                              Classification: Strict ٍ‫مقيد‬
+8. Click on the “Next” Button at the end of the screen after completing the data.
+9. Furthermore, the claimant can file a claim against a government entity that only
+    schedules one reconciliation session, by selecting the name of the government entity
+    from the drop-down list.
+
+
+
+
+10. The system takes the user to a screen for selecting the subjects of the claim.
+
+
+
+
+11. Select “Main Category” and “Sub-Category” for the subject of the claim to be added
+     and then click on “Add” button.
+      I.    Only subjects available to the labor are shown.
+      II.   After selecting the main category, the system provides the subcategory
+            option from the list of subcategories relevant to the main category selected.
+
+
+
+
+                                                                                            Page|9
+                                Classification: Strict ٍ‫مقيد‬
+12. The system opens a pop-up screen to complete the data on the subject of the claim.
+      I.   The legal text and terms related to each subject of the claim are displayed to
+           know the terms and conditions.
+13. Complete the data and click on “Submit” button.
+
+
+
+
+                                                                                            Page|10
+                              Classification: Strict ٍ‫مقيد‬
+14.    The system displays a summary of the lawsuit data entered in the "Requests" table
+       I.    User can add more than one subject to the claim.
+      II.    User can view and amend the data entered in the details of the lawsuit subject
+             by clicking on the "Edit" shape next to the data of the lawsuit subject.
+      III.   User can delete the claim subject after entering by clicking on the shape
+             "Delete" next to the data of the claim subject.
+
+
+
+15. Click on the "Next" button at the end of the screen after you finish adding the claim
+      subjects.
+16. The system takes the user to the screen of attaching documents that support the
+      claim subject.
+
+
+
+
+17. Attach documents by clicking on the "Attach File" button and selecting the file from
+      the user's computer.
+
+
+
+
+                                                                                              Page|11
+                                Classification: Strict ٍ‫مقيد‬
+       I.   Attachments must have one of the following extensions (PDF, JPG, JPEG, TIF,
+            PNG)
+      II.   Single file size should not exceed 5 megabyte (5MB)
+18. Click on the "Next" button at the end of the screen after adding the attachments.
+19. The system takes the user to the screen of acknowledging the non-vexatious claim
+
+
+
+
+20. Approving the decision by clicking on the "I acknowledge to accept the terms and
+      conditions" checkbox after reading the acknowledgment.
+       I.   The acknowledgment appears translated into multiple languages.
+      II.   The acknowledgment must be accepted to continue.
+21. Click on the “Next” Button at the end of the screen.
+22.   The system takes the user to the "Review Request" screen to review the data before
+      approving the request.
+
+
+
+
+                                                                                           Page|12
+                               Classification: Strict ٍ‫مقيد‬
+    23. Approving the request by clicking on the "Submit Claim" button
+           I.    The claim is approved and the electronic claim number is displayed as a
+                 reference for the applicant.
+          II.    Then a notification appears to register the claim
+          III.   After approving the request, the system transfers the request to the review
+                 stage and the claimant is notified of the result of the review within 48 hours
+                 of submitting the request.
+
+
+  Note:
+- When you click on “next” in the "Enter Claim Data" stage, the system will verify the
+claimant's ID number (principal / attorney) and the ID number of the establishment's
+representatives or the owner of the establishment, which is restored by linking with the
+Human Resources and Social Development System as follows:
+ A- Matching the claimant's ID number (principal/attorney) with the identity of one of the
+establishment's representatives and providing the presence of other representatives for the
+establishment
+The system will allow filing claim to be completed.
+
+ B- Matching the claimant's ID number (principal/attorney) with the identity of the sole
+representative of the establishment the system will not allow the completion of filing
+claim and an error message will appear as follows:
+"Sorry, it is not allowed to complete the claim filing procedure because the claimant is
+registered as a representative to the establishment. Please visit the nearest labor office to
+cancel the authorization of the current representative of the establishment in order to allow
+the completion of the procedures for filing the claim”
+
+ C. Matching the claimant's ID number (principal/attorney) with the identity of the sole
+owner of the establishment the system will not allow the completion of filing claim and
+an error message will appear as follows:
+“Sorry, it is not allowed to complete the claim filing procedure because the claimant's ID
+number matches tje ID No. of the sole owner of the establishment”
+
+
+
+
+                                                                                                  Page|13
+                                    Classification: Strict ٍ‫مقيد‬
+24 – The claimant will eventually be referred to the evaluation page to express his opinion.
+
+
+
+
+The review team will then study the request and take action as follows:
+
+
+
+A- Rejection of the request, at which point a letter will be sent to the applicant rejecting the
+application.
+
+
+
+
+B- Acceptance of the claim, the claimant and the respondent will be notified of the
+acceptance of the claim. An SMS will be sent to the claimant and respondent's mobile
+phone, as shown in the following image:
+
+
+
+
+                                                                                                   Page|14
+                                    Classification: Strict ٍ‫مقيد‬
+Note: This letter will be sent if the reviewer approves the request or sent directly in the event
+that the case is opened by the office manager
+
+
+
+The date and time of the hearing will then be determined and the claimant and respondent
+will be notified.
+
+
+
+
+It is also preferable to attend some time before the start of the session to prepare for the
+session.
+
+
+
+If the respondent does not attend, another session will be scheduled and an SMS will be sent
+as follows:
+
+
+
+
+In the event that the claimant does not attend, the sessions will be canceled and the claim will
+be dismissed, noting that it can be reopened through my claims page by clicking on the
+required claim and clicking on the reopen the claim button.
+
+
+
+
+                                                                                                    Page|15
+                                    Classification: Strict ٍ‫مقيد‬
+ 3.3   The possibility of adding an international mobile number when creating a claim
+
+ The system allows the user to enter an international mobile number by specifying the country
+key and then entering the mobile number. This number will be used to send messages related
+to the claim to the user
+
+Action Steps:
+
+           Select the key for the country where the user is located
+           Enter International Mobile Number
+           The button will appear to send credential codes for the number we click on
+           Then receive a text message with the verification code that we enter
+           Click on authentication
+
+
+
+
+                                                                                                Page|16
+                                   Classification: Strict ٍ‫مقيد‬
+NOTE:
+
+If you enter the international key number of a country that is not on the list of countries
+currently available on the system, the system will show an error message and not allow
+entering the international mobile number.
+
+
+
+
+                                                                                              Page|17
+                                  Classification: Strict ٍ‫مقيد‬
+     4     View user’s claims details
+
+          1. Log in to the portal of the services of the Ministry of Human Resources and Social
+              Development.
+          2. Select Individual Portal.
+
+
+
+
+          3. Select the link of my claims list.
+          4. Claims list is displayed to the user.
+          5. The user clicks on the desired claim number as shown on the following screen:
+
+
+
+
+          6. Details of the claim is displayed to the user.
+
+     4.1     Steps to attend the session remotely
+
+When choosing my remote settlement claims, the system will show the details of the claim and
+the link to enter the remote session as shown through the following steps:
+        Step 1: Choose the claim appears below My Remote Settlement Claims
+
+
+
+
+                                                                                                  Page|18
+                                          Classification: Strict ٍ‫مقيد‬
+       Step 2: The details of the claim will appear, where you must go down as shown on the next
+        screen
+       Step 3: Below the session data, a “ Enter Remote Session Link" button will appear as shown
+        in the following image:
+
+
+
+
+       Step 4: After clicking on the "Enter Remote Session Link" button, a website will be opened
+        to attend the session remotely as the following screen appears, where the user can
+        download the CISCO Webex system or attend the session through the Internet browser as
+        shown on the following screen:
+
+
+
+
+    5      Use Cases for Establishment
+
+    5.1      File New Claim
+
+                 1. The representative of the establishment logs in to the electronic portal of the
+                    services of the Ministry of Human Resources and Social Development.
+                 2. Choosing the establishment for which he wishes to open a claim.
+
+
+
+
+                                                                                                      Page|19
+                                           Classification: Strict ٍ‫مقيد‬
+3. The applicant chooses to file a claim from the list of amicable settlement services.
+4. The system takes the user to a screen for claim registration form.
+
+
+
+
+5. The establishment data appears automatically in the section on the claimant's
+    data.
+6. Complete the required data.
+7. Enter the data of respondent (worker)
+  I.    User enters the ID number and of date of birth, then, the system
+        automatically completes the respondent’s data through integration with the
+        systems of MOI.
+  II.   It is not allowed to complete the application if the labor relationship between
+        the establishment and the worker is not proven – the labor relationship is
+        verified through integration with the databases of the Ministry of Human
+        Resources and Social Development.
+8. Enter the work data in the designated place
+9. Click on the “Next” Button at the end of the screen after completing the data
+10. The system takes the user to the screen of the subjects of the claim.
+
+
+
+
+                                                                                          Page|20
+                           Classification: Strict ٍ‫مقيد‬
+11. Select “Main Category” and “Sub-Category” for the subject of the claim to be added
+     and then click on “Add” button.
+      I.     Subjects available are shown to the employer only.
+      II.    After selecting the main category, the system provides the subcategory
+             option from the list of subcategories relevant on which the main category
+             selected.
+
+
+12. The system opens a pop-up screen to complete the data on the subject of the claim.
+      I. The legal text and terms related to each subject of the claim are displayed to
+            know the terms and conditions.
+13. Complete the data and click on “Submit” button.
+
+
+
+
+                                                                                          Page|21
+                                Classification: Strict ٍ‫مقيد‬
+14. The system displays a summary of the lawsuit data entered in the "Requests" table
+      I.    User can add more than one subject to the lawsuit.
+      II.   User can view and amend the data entered in the details of the lawsuit subject
+            by clicking on the "Edit" shape next to the data of the lawsuit subject.
+     III.   User can delete the lawsuit subject after entering by clicking on the shape
+            "Delete" next to the data of the lawsuit subject.
+
+
+
+
+15. Click on the "Next" button at the end of the screen after you finish adding the lawsuit
+     subjects.
+16. The system takes the user to the screen of attaching documents that support the
+     lawsuit subject.
+
+
+
+
+17. Attach documents by clicking on the "Attach File" button and selecting the file from
+     the user's computer.
+
+
+
+
+                                                                                              Page|22
+                                Classification: Strict ٍ‫مقيد‬
+      I. Attachments must have one of the following extensions (PDF, JPG, JPEG, TIF,
+         PNG)
+      II. Single file size should not exceed 5 megabyte (5MB)
+18. Click on the "Next" button at the end of the screen after adding the required
+     attachments.
+19. The system takes the user to the screen of acknowledging the non-vexatious claim
+
+
+
+
+20. Approving the decision by clicking on the "I acknowledge to accept the terms and
+     conditions" checkbox after reading the acknowledgment.
+      I. The acknowledgment appears translated into multiple languages.
+      II. The acknowledgment must be accepted to continue.
+21. Click on the “Next” Button at the end of the screen.
+22. The system takes the user to the "Review Request" screen to review the data before
+     approving the request.
+
+
+
+
+23. Approving the request by clicking on the "Submit Claim" button
+
+
+
+
+                                                                                         Page|23
+                              Classification: Strict ٍ‫مقيد‬
+         I. The claim is approved and the electronic claim number is displayed as a
+            reference for the applicant.
+        II. Then a notification appears to register the claim
+        III. After approving the request, the system transfers the request to the review
+            stage and the claimant is notified of the result of the review within 48 hours of
+            submitting the request.
+
+5.2   View user’s claims details
+
+  1. The representative of the establishment logs in to the electronic portal of the services
+      of the Ministry of Human Resources and Social Development.
+  2. Select the establishment name.
+
+
+
+
+  3. Select the link of my claims list.
+  4. Claims list is displayed to the user.
+  5. User clicks on the desired claim number.
+  6. Details of the claim is displayed to the user.
+
+
+
+
+                                                                                                Page|24
+                                   Classification: Strict ٍ‫مقيد‬
+6   How to submit a request as a local attorney
+
+As shown above but along with these changes
+
+
+
+
+                                                                Page|25
+                                 Classification: Strict ٍ‫مقيد‬
+7   How to submit a request as an external attorney
+
+As shown above but along with these changes
+
+
+
+
+                                                                Page|26
+                                 Classification: Strict ٍ‫مقيد‬
+8   How to submit a request as an embassy attorney
+
+As shown above but along with these changes
+
+
+
+
+                                                                Page|27
+                                 Classification: Strict ٍ‫مقيد‬
+9   How to submit a request as a worker
+
+As shown above but along with these changes
+
+
+
+
+                                                                Page|28
+                                 Classification: Strict ٍ‫مقيد‬
+10 How to submit a request to a government authority
+
+As shown above but along with these changes
+
+
+
+
+11 How to submit a request to a non-government authority
+
+As shown above but along with these changes
+
+
+
+
+12 My claim page
+
+You can find this page as it appears in the following image:
+
+
+
+
+                                                                   Page|29
+                                    Classification: Strict ٍ‫مقيد‬
+Through which the user can access all claims related to the user according to the following
+addresses:
+ 12.1   My negotiation cases
+
+A person's negotiation cases can be viewed in this table.
+
+
+
+
+ 12.2 My settlement cases
+
+A person's settlement cases can be viewed in this table.
+
+
+
+
+ 12.3 My archived claims
+
+The user’s archived claims can be viewed in this table.
+
+
+
+
+                                                                                              Page|30
+                                    Classification: Strict ٍ‫مقيد‬
+ 12.4 My registered cases of non-appearance
+
+Person’s registered claims of non-appearance can be viewed in this table.
+
+
+
+
+ 12.5 My rejected requests and respondent’s claims
+
+Rejected requests and the person's respondent claims can be viewed in these tables
+
+
+
+
+                                                                                     Page|31
+                                   Classification: Strict ٍ‫مقيد‬
+         Thank you
+
+
+
+
+https://www.hrsd.gov.sa/
+
+
+
+
+                                 Page|32
+  Classification: Strict ٍ‫مقيد‬
+

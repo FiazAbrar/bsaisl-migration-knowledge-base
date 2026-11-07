@@ -1,0 +1,2009 @@
+Public Disclosure Authorized
+
+
+
+
+                                   SAUDI
+Public Disclosure Authorized
+                                   ­ARABIA’S
+                                    ­L ABOR
+                                     ­MOBILITY
+                                      REFORMS
+Public Disclosure Authorized
+                                                                         A NEW ERA FOR
+                                                                     FOREIGN WORKERS AND
+                                                                       THE ­LABOR MARKET
+
+
+Public Disclosure Authorized
+
+
+
+
+                               1   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+2   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Cover photo credit: © iStock / Hris
+    SAUDI
+    ARABIA’S A NEW ERA
+    LABOR    FOR FOREIGN
+    MOBILITY WORKERSAND
+    REFORMS THE ­LABOR
+    Aleisa Mohannad | Bartolj Tjaša | Chartouni Carole | Dominko Miha                           MARKET
+    ABSTRACT
+    Saudi Arabia’s Labor Reform Initiative represents an important step toward
+    a more flexible, competitive labor market with greater worker autonomy.
+    Introduced in March 2021 as part of Vision 2030 and the National Trans-
+    formation Program, the reform eased key restrictions on expatriate work-
+    ers’ mobility by allowing eligible workers to change employers and manage
+    exit and re-entry procedures with greater autonomy. This report examines
+    how the reform has shaped labor mobility, worker outcomes, and employer
+    behavior in Saudi Arabia’s private sector, drawing on administrative data,
+    surveys, and qualitative interviews. The findings indicate that removing ob-
+    stacles to expatriate mobility increased job-to-job transitions, particularly
+    among low-skilled expatriate workers, and was associated with improved
+    earning prospects for expatriates who changed jobs. Survey and interview
+    evidence further suggests that the reform has strengthened workers’ bar-
+    gaining position and increased competition among firms for expatriate la-
+    bor, prompting some employers to adjust retention practices and working
+    conditions. The analysis also points to opportunities to strengthen the re-
+    form’s impact by helping smaller and labor-intensive firms adapt to a more
+    mobile labor market, including through better workforce planning, stronger
+    human resource practices, improved access to skills, and incentives to invest
+    in training and worker retention. Overall, the Labor Reform Initiative offers
+    important lessons for advancing labor market flexibility, worker protection,
+    and Saudi Arabia’s long-term economic transformation.
+
+
+3   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+    DISCLAIMER
+    © [2026] The World Bank, 1818 H Street NW, Washington DC 20433
+    Telephone: 202-473-1000; Internet: www.worldbank.org
+    Some rights reserved.
+
+    This work was prepared by The World Bank at the request of the Ministry
+    of Human Resources and Social Development in Saudi Arabia. The findings,
+    interpretations, and conclusions expressed in this work do not necessarily
+    reflect the views of the Executive Directors of The World Bank or the gov-
+    ernments they represent.
+    The World Bank does not guarantee the accuracy of the data included in
+    this work and does not assume responsibility for any errors, omissions, or
+    discrepancies in the information, or liability with respect to the use of or
+    failure to use the information, methods, processes, or conclusions set forth.
+    The boundaries, colors, denominations, links/footnotes and other informa-
+    tion shown in this work do not imply any judgment on the part of The World
+    Bank concerning the legal status of any territory or the endorsement or ac-
+    ceptance of such boundaries. The citation of works authored by others does
+    not mean the World Bank endorses the views expressed by those authors or
+    the content of their works.
+    Nothing herein shall constitute or be construed or considered to be a limita-
+    tion upon or waiver of the privileges and immunities of The World Bank, all
+    of which are specifically reserved.
+
+
+
+    RIGHTS AND PERMISSIONS
+    The material in this work is subject to copyright. Because The World Bank
+    encourages dissemination of its knowledge, this work may be reproduced,
+    in whole or in part, for noncommercial purposes as long as full attribution
+    to this work is given.
+
+    Attribution—Please cite the work as follows:
+    Aleisa, Mohannad; Bartolj, Tjaša; Chartouni, Carole; Dominko, Miha. 2026.
+    Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and
+    the Labor Market. Washington, DC: World Bank. © World Bank.
+
+    All queries on rights and licenses, including subsidiary rights, should be
+    addressed to:
+    World Bank Publications, The World Bank, 1818 H Street NW, Washington,
+    DC 20433, USA; fax: 202-522-2625; e-mail: ­pubrights@­worldbank.org.
+
+    Cover photo: © Pexels / arthousestudio
+    Photo credit: © Ami Vitale / Panos Pictures. Used with the permission of
+    Ami Vitale / Panos Pictures. Further permission required for reuse.
+
+
+4   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+           CONTENTS
+
+1. Introduction / 9
+
+2. Exploring the Evidence: Literature Insights
+on Labor Mobility and its Economic Effects / 13
+
+3. Saudi Arabia’s Private Sector Labor Market / 17
+
+4. Overview of the Labor Reform Initiative / 20
+
+5. Workforce on the Move:
+Labor Mobility Trends Over Time / 23
+Mapping Workforce Transitions:
+Who transitioned, and where did they go? / 26
+
+How Did the Labor Reform Initiative Affect Employers and Expatriates? / 31
+
+
+6. An Evaluation of the Labor Reform Initiative / 35
+
+7. Conclusion / 40
+
+Appendix A: Synthesis of Results from
+Administrative, Survey and Interview Data / 44
+
+
+
+References / 46
+
+
+
+
+Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+LIST OF FIGURES, BOXES AND TABLES
+
+Figure 3.1. Number of ­Workers by Nationality – Absolute Values (Share of Workers by ­Nationality in Data Labels) / 17
+Figure 3.2. Skill Structure of the Saudi Arabian Labor Market, 2024 / 18
+Figure 5.1. Definitions of Labor Mobility Indicators / 23
+Figure 5.2. Labor Market Entry for Saudi Men and Women and Non–Saudis from 2018 to 2024 / 24
+Figure 5.3. Labor Market Dynamics for Saudi Men and Women and Non–Saudis from 2018 to 2024 / 24
+Figure 5.4. International ­Comparison of Transition Rates in 2014 and 2022 / 25
+Figure 5.5. Key Findings on Worker ­Transition Trends / 26
+Figure 5.6. ­Transition Rates by Skill Level for Saudi Men and Women and Expatriates from 2018 to 2024 / 27
+Figure 5.7. ­Average Age by Labor Market Status in 2024 / 27
+Figure 5.8. Transition Rates by Firm Size / 28
+Figure 5.9. Labor Mobility Flows by Firm Size, 2024 / 29
+Figure 5.10. Intraregional Mobility and Workforce ­Distribution Across Saudi Arabia / 29
+Figure 5.11. Sectoral Inflows and Outflows of Expatriate Workers Due to Transitions, Q4 2024 / 30
+Figure 5.12. Top 5 Industry Flows of Expatriate Workers, Q4 2024 / 30
+Figure 5.13. Percent of ­Expatriate Workers ­Experiencing Wage Decrease, Increase, or No Change in Wage when
+Transitioning by Gender and Nationality / 32
+Figure 5.14. Average ­Percentage Gain in Wage Increases for Expatriate Job Switchers Compared to Stayers (Among
+Those Who Received a Raise) by Skill Level, June 2024 / 32
+Figure 5.15. Percentage Distribution of Skill Levels among Expatriate Job Switchers and Stayers Who a ­Received
+Wage Increase, June 2024 / 32
+Figure B6.1. Differences in Job-to-Job Transitions Before and After the LRI / 36
+Figure 6.1. Labor Reform Initiative Impact on Expatriate Mobility Rates in Saudi Arabia / 37
+
+
+
+Box 4.1. Eligibility Criteria for Expatriate Labor Mobility / 20
+Box 6.1. The Difference-in-Differences (DiD) Approach / 36
+
+
+
+Table 6.1. Regression Results on the Impact of the LRI on Wages / 38
+Table A.1. Transition Rates Results / 44
+Table A.2. Wages Results / 45
+
+
+
+
+6                Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+ACKNOWLEDGMENTS
+
+This report is the product of collaboration between            The authors are thankful to World Bank peer
+Saudi Arabia’s Ministry of Human ­Resources and                reviewers Andras Bodor (Senior Economist,
+Social Development (MHRSD, Labor) and the                      World Bank) and Javier Sanchez-Reaza (Senior
+World Bank under the Technical Cooperation                     Economist, World Bank) for their valuable com-
+Program with the Saudi Arabia Government.                      ments and suggestions. The report benefited
+The authors are Mohannad Aleisa (Deputy                        from the technical insights and strategic guid-
+­Minister for Labor Market Policies, MHRSD),                   ance of Cristobal Ridao–Cano (Practice Manager,
+ Tjaša ­Bartolj (Labor Market Expert, World Bank),             Social Policy, Middle East and North Africa,
+ Carole ­Chartouni (Senior Economist and Task                  Pakistan, and Afghanistan, World Bank), and
+ Team Leader, World Bank), and Miha Dominko                    Steffen Soulejman Janus (Riyadh Regional Hub
+ (Labor Market Expert, World Bank).                            Manager MENAAP region, World Bank).
+
+The World Bank team is thankful for the contri-                The World Bank task team expresses its sin-
+butions of an extended team, including Ekaterina               cere appreciation for those involved in the
+Pankratova (Senior Social Protection Specialist,               World Bank’s long-standing partnership with
+World Bank), Johannes Koettl (Senior Economist,                MHRSD Labor, who provided guidance and val-
+World Bank), Dana Alrayess (Labor Economist,                   uable insights for this report: H.E. Dr. Abdullah
+World Bank) and Nayib Rivera (Economist, World                 Abuthnain (Vice Minister of Human Resources
+Bank). Manuel Gache (Designer, World Bank)                     and Social Development for Labor), Dr. Ahmed
+contributed to the design of the report. Yasmine               Alzahrani (Deputy Minister for Skills and
+Khaled Jaiser (Arabizing Expert, World Bank)                   Training, MHRSD), Mr. Youssef Alharbi (General
+translated the report into Arabic for wide dis-                Manager of Labor Market Policies Evaluation,
+semination to the Arabic-speaking audiences.                   MHRSD), Dr. Mohammed Ansari (Adviser for
+                                                               Labor Market Policies Deputyship, MHRSD), Mr.
+                                                               Ahmed Humedi (Director, Skills and Training
+                                                               Deputyship, MHRSD) and Ms. Fetoon A. Almaliki
+                                                               (Project Manager for Labor Market Policies
+                                                               Deputyship, MHRSD).
+
+
+
+
+7            Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+8   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Photo credit: © MHRSD
+    INTRODUCTION
+
+
+    Labor mobility refers to the ability of workers to move freely between
+    jobs, occupations, industries, or geographic locations in search of em-
+    ployment opportunities. Several factors determine the extent of a country’s
+    labor mobility, including economic incentives, social conditions, individual
+    circumstances, and regulatory environments. For example, areas with strong
+    economic growth and high labor demand can attract more workers. Family
+    and friends can either encourage relocation through connections in new
+    areas or act as a constraint. Additional considerations like climate, health
+    care, and access to education may affect the decision to relocate. Finally,
+    restrictive policies may also influence employers’ or employees’ readiness
+    and ability to move.
+
+    In March 2021, the Saudi Arabian government introduced the Labor Reform
+    Initiative (LRI), removing some legal restrictions on expatriate workers’
+    labor mobility. As part of the National Transformation Program and Vision
+    2030, the policy aimed to attract high–skilled foreign talent, improve the
+    working environment, and boost productivity, which is crucial for achieving
+    economic goals. The LRI enables expatriate workers to change jobs and exit
+    or re–enter the country without their current employer’s prior consent, sig-
+    nificantly improving their autonomy and working conditions. The LRI was
+    introduced alongside a series of policy reforms, including initiatives to attract
+    and retain talent in the country, such as visas for highly skilled individuals
+    and investors under the premium residency system.
+
+    International evidence suggests that enhanced labor mobility for expatri-
+    ate workers could profoundly improve Saudi Arabia’s economic landscape
+    by benefiting both employees and firms. The literature demonstrates that
+    reallocating workers to sectors and regions with higher demand increases
+    competitiveness and strengthens economic resilience (Castellanos and
+    Heutel 2024). For expatriates, the freedom to switch employers under the
+    LRI enables them to find positions that better match their skills and exper-
+    tise, resulting in higher productivity and greater job satisfaction (Boschma,
+    Eriksson, and Lindgren 2014). This flexibility also motivates workers to invest
+
+
+9   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Introduction
+
+
+
+
+     in their professional development, cultivating a more dynamic and skilled
+     workforce. As workers gain more autonomy in choosing their employment
+     opportunities, the labor market becomes more competitive, driving higher
+     wages and improved working conditions for all participants (Danninger
+     2016). For businesses, enhanced labor mobility serves as a catalyst for great-
+     er efficiency and innovation (Braunerhjelm, Ding, and Thulin 2020). With
+     access to a larger, more competitive talent pool, firms can better align their
+     workforce with their specific needs, particularly in specialized sectors.
+     Empirical evidence shows that the shortage of specialized labor is one of
+     the main barriers to adopting more efficient technologies (Carroni, Delogu,
+     and Pulina 2023). By intensifying competition for talent, firms are pushed to
+     attract and retain the specialized workers needed to implement these tech-
+     nologies, thereby encouraging modernization of their operations. As firms
+     overcome labor constraints and adopt advanced technologies, they achieve
+     higher productivity levels and enhance the long–term competitiveness of
+     Saudi Arabian industries.
+
+     Although the LRI is in place and international studies suggest that greater
+     labor mobility can improve worker and firm outcomes, there is limited
+     empirical evidence establishing a causal relationship between the reform
+     and foreign workers’ mobility and wages. This paper aims to address this
+     empirical gap and contribute to the literature by providing novel causal
+     evidence on the subject. The paper uses administrative data1 to explore the
+     labor mobility trends in Saudi Arabia over the past few years and analyze the
+     impact of the LRI on worker mobility and wages. It also complements the
+     findings from the administrative data analysis with evidence from employer
+     and employee surveys and qualitative interviews.2
+
+     The paper applies the difference–in–differences approach3 to isolate
+     the impact of the LRI on mobility and wages. It compares labor market
+     outcomes before and after the reform for two distinct groups: those affect-
+     ed by the reform and those not influenced due to ineligibility (specifically,
+     workers who have been in the Kingdom for less than one year). By ensuring
+     that both groups are similar in other relevant characteristics, any observed
+     changes from the pre–LRI to post–LRI period (such as differences in labor
+     mobility) can be attributed directly to the reform itself via the difference–
+     in–differences approach.
+
+
+
+     1. The administrative data used in this study include microdata on workers and firms from the General Organization for Social Insurance (GOSI) and
+     data from the Ministry of Human Resources and Social Development’s (MHRSD) Nitaqat initiative for the period 2017—2024.
+     2. A survey of private–sector employers who experienced expatriate mobility was conducted in May 2024. Out of 438 respondents who initiated the sur-
+     vey, 234 provided responses. The survey captured insights from both origin and destination firms. Additionally, an online survey targeting employees
+     who transferred under the new policy was conducted by the Qiwa platform in July 2024, receiving responses from over 49,000 participants. Finally, 48
+     in–depth interviews with employers were carried out in June 2024 to provide further qualitative insights.
+     3. The paper applies a difference–in–differences approach to isolate the impact of the reform on mobility and wages. While the strategy follows
+     standard practice and includes robustness checks, the estimates should be interpreted with the usual caution regarding potential unobserved factors.
+     Throughout the paper, we refer to these estimates as impacts of the reform.
+
+
+
+10   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Introduction
+
+
+
+
+     The paper presents several conclusions. It shows that the rate at which
+     nationals and expatriates switch jobs increased over the years. Job–to–job
+     transitions for expatriate workers over the past five years were most frequent in
+     microfirms and among low–skilled workers. Although most workers remained
+     in the same region after transitioning jobs, many found employment across
+     different economic sectors. The paper also concludes, based on the impact
+     evaluation, that the LRI had its greatest positive effect on labor mobility
+     among expatriate workers with lower skill levels. Additionally, regression
+     analysis shows a positive relationship between the LRI and the wages of
+     workers experiencing job transitions. Finally, qualitative analysis supports the
+     quantitative results. Interviews indicated that expatriate workers can explore
+     better opportunities with the LRI and that they are asking for higher pay and
+     negotiating with their employers. This has created more competition among
+     firms for expatriate workers. Firms also highlighted the increased flexibility
+     to hire relevant talent with local experience at lower recruitment costs and
+     shorter waiting times, providing indictive evidence that the LRI may have
+     facilitated the retention of skilled expatriate talent within the Saudi market,
+     though these insights might be shaped by respondent selection or changing
+     labor–market conditions.
+
+     The paper is organized into seven sections. This section provided an intro-
+     duction to labor mobility in Saudi Arabia. Section two explores the literature
+     on the economic effects of labor mobility. Sections three and four provide a
+     comprehensive overview of the Saudi Arabian private–sector labor market
+     as well as the LRI and the legislative changes it introduced. Section five
+     portrays labor market trends as well as the characteristics of workers who
+     are more likely to switch jobs and their labor market outcomes. Section six
+     presents the estimated causal effects of the policy, section seven sums up the
+     authors’ conclusions.
+
+
+
+
+11   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Introduction
+
+
+
+
+12   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Photo credit: © iStock / Olaser
+      EXPLORING
+     THE EVIDENCE
+          LITERATURE INSIGHTS ON LABOR MOBILITY
+                AND ITS ECONOMIC EFFECTS
+     Empirical and theoretical studies have identified multiple positive effects
+     of labor mobility on workers and the economy. Understanding the intricate
+     mechanisms driving labor mobility, as well as its underlying causes and effects,
+     is crucial not only for comprehending the functioning of labor markets but
+     also for formulating effective policies to enhance economic efficiency and
+     individual welfare. This section presents empirical evidence on the effects
+     of labor mobility on economic growth, productivity, innovation, resilience,
+     and wages.
+
+     Labor mobility facilitates economic growth and productivity. It allows
+     workers to move to regions or industries where their skills are in higher
+     demand, thereby enabling a more efficient use of human resources. This
+     improved labor allocation can enhance economic output and productivity.
+     Estimates for Indonesia show a 22 percent increase in labor productivity gain
+     if all barriers are removed and an 8 percent increase if the migration costs
+     are reduced to the United States level (Bryan and Morten 2019). However, the
+     effects on productivity are not homogeneous. In Sweden a study has found
+     that intraregional labor mobility between skill–related industries increases
+     labor productivity and employment growth more than intraindustry mobility
+     and mobility across unrelated industries (Boschma, Eriksson, and Lindgren
+     2014). In addition, a study of 12 European Union (EU) countries revealed that
+     workers moving from high–tech and medium–tech industries tend to create
+     positive productivity effects for the receiving industry. However, those coming
+     from low–tech industries have no significant impact, or may even produce
+     negative results (Foster–McGregor and Pöschl 2016).
+
+     Labor mobility boosts creativity and technological advancements by accel-
+     erating the exchange of diverse skills and ideas. As workers relocate, they
+     bring unique experiences and perspectives, which can lead to the development
+     of new solutions and innovative practices. Braunerhjelm, Ding, and Thulin
+     (2020) used a matched Swedish employer—employee dataset and firm–level
+     econometric models to show that when skilled workers move between firms,
+     especially innovative ones, patenting significantly increases through knowledge
+
+
+13   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     transfer. Similarly, Kaiser, Kongsted, and Rønde (2015) demonstrated that
+     mobility between patent–active firms substantially raises total innovation,
+     as incoming workers from such firms are far more productive in generating
+     new patents. These findings are supported by Xu et al. (2024), who used a
+     sample of Chinese workers to emphasize the role of knowledge diffusion as
+     a mediator through which labor mobility enhances firm innovation. Finally,
+     Jia et al. (2022) studied the effect of top management’s labor mobility experi-
+     ence on firm innovation. Their findings suggest that job mobility experience
+     is positively associated with a firm’s engagement in exploratory innovation
+     strategies that generate new knowledge.
+
+     Labor mobility enhances country resilience to both external and internal
+     shocks. The recent financial crisis, which erupted in 2008, allowed scholars
+     to investigate whether labor mobility could influence a country’s ability to
+     withstand and recover from economic shocks. Håkansson and Bejaković (2020)
+     studied the role of labor mobility’s in reducing labor market bottlenecks and
+     increasing resilience in Croatia. They find that due to low levels of residential
+     mobility, the Croatian labor market adapts poorly not only to recession, but
+     also an economic boom. In Latvia, Fadejeva and Opmane (2016) found that
+     internal labor market mobility supported postcrisis recovery by enabling rapid
+     worker reallocation across jobs, sectors, and contract types. This flexibility
+     helped restore competitiveness without currency devaluation, cushioned
+     unemployment through part–time and temporary work, and strengthened
+     the economy’s capacity to adapt to future internal and external shocks.
+
+     Finally, a mobile labor market has crucial implications for resilience not
+     just to external but also to internal shocks, such as specific policies, par-
+     ticularly in the context of climate change. Castellanos and Heutel (2024) used
+     a computable general equilibrium model of the United States to study the
+     effects of a carbon tax on aggregate unemployment. They found that under
+     the perfect immobility assumption, a US$45–per–ton carbon tax increases
+     unemployment in the coal sector by 13 percentage points. Therefore, labor
+     mobility is a key factor in mitigating the adverse impacts of both external
+     and internal economic adjustments.
+
+     Studies generally agree that workers who switch jobs experience wage
+     increase (Bernard, Finnie, and St–Jean 2008; Campbell 2001; Danninger
+     2016; Pavlopoulos et al. 2007; Perticara 2004; Yankov 2022). However,
+     numerous challenges arise for scholars when analyzing mobility for various
+     reasons. Mobility is a dynamic process involving workers who are often self–
+     selected; movers tend to be more ambitious, more willing to take risks, and
+     possess better skills and abilities than nonmovers. Ideally, researchers should
+     isolate the impact of mobility by examining changes in the situation of the
+     same individuals before and after they move and comparing these changes
+     with those of “stayers” who have similar observable characteristics, which
+     is rarely an option. Despite these challenges, scholars have made significant
+
+
+14   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     progress in understanding labor mobility’s positive effects on wages and
+     welfare due to advanced statistical methods and longitudinal data. However,
+     it is important to highlight that these positive effects on wages are stronger
+     for early–career workers than for mid– and late–career workers (Lam, Ng,
+     and Feldman 2012). Moreover, Davia (2005), who studied the effect of labor
+     mobility on the wages of young workers across Europe, found that job mo-
+     bility pays, even for involuntary movers. The effects also depend on the job
+     and sector. In a study conducted in the United States, Gius (2004) found that
+     changing jobs within the same industry or occupation leads to an increase
+     in a person’s earnings. However, a job change that involves both a shift in
+     industry and occupation results in a reduction in earnings. Munich, Terrell,
+     and Svejnar (2002), who studied the effect of labor mobility on wages in the
+     Czech Republic, also found that the relationship between mobility and wages
+     varies by type of separation and the movers’ sectors of destination. Finally,
+     studies suggest that workers who move experience gains not only in earnings,
+     but also in education and health (Abella 2013).
+
+
+
+
+15   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+16   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market Photo credit: © iStock / PixelCatchers
+            SAUDI ARABIA’S
+            PRIVATE SECTOR
+            LABOR MARKET
+
+                          The labor market in Saudi Arabia has undergone a significant transfor-
+                          mation in recent years. The labor force participation rate rose from 42 per-
+                          cent in 2018 to 51 percent in 2024, primarily due to increased participation
+                          among women. During the same period, unemployment rates decreased by
+                          around 6 percentage points. This translated into an expansion of the private
+                          sector workforce. The number of workers in the private sector increased from
+                          approximately 9 million in 2018 to almost 11 million in 2024. The share of
+                          expatriates among private–sector workers declined slightly after COVID–19
+                          but remained stable over the 2018—2024 period at around 80 percent. The
+                          representation of Saudi women increased, rising from 6.5 percent in 2018 to
+                          8.7 percent in 2024, while the share of Saudi men decreased from 13.8 percent
+                          to 12.4 percent. In absolute terms, both groups experienced growth, with
+                          around 100,000 more Saudi men and 350,000 more Saudi women employed
+                          in the private sector in 2024 compared to 2018 (see figure 3.1).
+
+
+
+Figure 3.1. Number of             12,000,000
+
+­Workers by Nationality –
+ Absolute Values
+ (Share of Workers by             10,000,000
+
+ ­Nationality in Data Labels)
+
+     Expatriates                   8,000,000
+     Saudi women
+     Saudi men                                                                                                               78.9%
+                                                                                                                  77.7%
+                                   6,000,000
+                                                  79.8%                                              77.3%
+                                                               79.3%        78.8%       76.9%
+
+                                   4,000,000
+                                                  59.6%                     59.6%                    59.6%
+
+
+                                   2,000,000                                                                      8.9%       8.7%
+                                                   6.5%                                  8.2%         8.6%
+                                                               6.6%         7.0%
+Source: Original calculations                     13.8%        14.0%        14.1%       14.9%        14.1%        13.4%      12.4%
+based on GOSI and Nitaqat                 0
+2018-2024 data.                                    2018         2019         2020        2021         2022            2023   2024
+
+
+
+17                        Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                          Saudi Arabia’s Private Sector Labor Market
+
+
+
+
+                          To further support labor market transformation, it is also important
+                          to consider changes in the distribution of skill levels among expatriate
+                          workers. While high–skilled workers represent more than a third of all Saudi
+                          workers, with the share reaching around 40 percent among Saudi women,
+                          only a small share of expatriates works in occupations requiring high skill
+                          levels. In 2024, the share of high–skilled expatriates was 9 percent, with more
+                          than half employed in elementary occupations and possessing low skill levels
+                          (figure 3.2). In contrast, the majority of nationals worked in middle–skilled
+                          jobs such as clerical support workers or service and sales workers.4 Although
+                          it is not uncommon for a country to have fewer skilled expatriates than its
+                          national workforce, the share of expatriates in the total labor force—as well
+                          as Vision 2030’s goal to diversify the economy into technology, healthcare,
+                          and renewable energy sectors—has highlighted the need to attract global
+                          skilled talent and boost productivity.
+
+
+
+Figure 3.2. Skill Structure                       100%
+of the Saudi Arabian Labor                                                                                   9.4%
+Market, 2024                                        90%
+                                                                                                             6.2%
+                                                    80%             35.4%
+     High–skilled                                                                                40.6%
+     Medium–high–skilled
+                                                    70%
+     Medium–low–skilled                                                                                     34.1%
+     Low–skilled                                    60%
+
+                                                                    19.4%
+                                                    50%                                          15.1%
+
+                                                    40%                                                                  Note: Workers are divided into skill level
+                                                                                                                         groups by their occupations: medium–low–
+                                                                                                                         skilled: clerical support workers; service
+                                                    30%
+                                                                                                            59.6%        and sales workers; skilled agricultural,
+                                                                    40.9%                                   50.4%        forestry, and fishery workers; craft and
+                                                    20%                                          42.0%
+                                                                                                                         related trade workers; and plant
+                                                                                                                         and machine operators and assemblers;
+                                                    10%                                                                  medium–high–skilled: technicians and
+Source: Original calculations                                                                                            associate professionals; high–skilled:
+based on GOSI and Nitaqat                            0%              4.2%                       2.3%                     managers and professionals; low–skilled:
+2024 data.                                                         Saudi men                 Saudi women   Expatriates   elementary occupations.
+
+
+
+
+                          4. See the note next to figure 3.2 for a definition of skill levels.
+
+
+
+18                        Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+19   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Photo credit: © MHRSD
+            OVERVIEW
+               OF THE ­
+          LABOR ­REFORM
+            ­INITIATIVE
+              Recognizing the importance of a dynamic and flexible labor market
+              for boosting productivity and attracting skilled talent, the government
+              introduced the LRI in March 2021. The LRI eased some labor mobility re-
+              strictions for expatriate workers. Under the LRI, expatriates can transfer the
+              sponsorship of their work and residence permits to a new employer without
+              needing consent from their current company, subject to certain eligibility
+              criteria (see box 4.1).
+
+
+
+
+     BOX 4.1. ELIGIBILITY CRITERIA FOR EXPATRIATE LABOR MOBILITY
+     MAIN ELIGIBILITY CRITERIA                                Additionally, the LRI outlines exceptions in which
+     • The worker must be an expatriate who is                expatriates may transfer to new employers with-
+       working under the Saudi labor system.                  out adhering to the previously mentioned eligibility
+     • The worker must complete a total of one                criteria.
+       calendar year of service for the current
+       employer, beginning from the date of entry             EXCEPTIONS TO THE MAIN
+       to the Kingdom.                                        ELIGIBILITY CRITERIA
+     • The worker must have a valid, duly attested            • Not receiving a salary for three consecutive
+       employment contract, which is document-                  months.
+       ed in the Qiwa platform.                               • If the employer is absent due to travel, impris-
+     • The worker must be presented with a job                  onment, death, or any other reason.
+       offer by the new employer through the                  • If the expatriate’s work permit or visa expires.
+       Qiwa portal.                                           • If the worker reports a commercial cover–up
+     • The worker must submit a notice of the                   by the employer, provided the worker is not
+       transfer request to the current employer,                involved.
+       taking into consideration the notice period.           • If the current employer approves the expatri-
+                                                                ate worker’s transfer.
+
+
+
+
+20            Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Overview of the Labor ­Reform ­Initiative
+
+
+
+
+     The LRI also introduced important changes regarding exit and re–entry, as
+     well as final exit visas for expatriate workers. Under this reform, expatriates
+     can independently apply for exit and re–entry visas through the Absher portal
+     during the validity of their employment contract, allowing them the flexibility
+     to leave and return to Saudi Arabia without relying on employer approval.
+     Additionally, the LRI enables expatriate workers to submit an electronic ap-
+     plication for final exit visas through Absher, granting them the freedom to
+     exit the country at the end of their contract. However, both services require
+     workers to meet certain conditions to qualify for these options.5
+
+     The process for transition to a new employer has also been significantly
+     enhanced under the LRI. Previously, transferring employment required the
+     new employer to initiate the process in person at labor offices. However, under
+     the LRI, the transfer request is now initiated through a platform called Qiwa.
+     Moreover, the current employer now only receives a notification and no longer
+     has the authority to reject or object to the request. Before the implementation
+     of the LRI, the transfer process was contingent on the original employer’s
+     explicit approval, which had to be submitted with the request. Labor office
+     decisions were based primarily on this approval. Now, the process places
+     greater emphasis on worker autonomy. The employee accepts the offer from
+     the new employer and begins the notice period, unless waived by the current
+     employer. Once the notice period is complete, the new employer finalizes the
+     residency transfer via the Absher platform, enabling the employee to start
+     their new job.
+
+
+
+
+     5. To obtain the automatic exit and re–entry visa service, the worker must: be an expatriate who is working under the Saudi labor
+     system; have a valid residency visa; have a duly attested employment contract; pay the requisite fees; not have any outstanding fees
+     or fines; and declare through the Absher portal that they fully understand the measures entailed by their failure to return before the
+     leave period approved by their employer ends. To obtain the automatic exit visa service, the worker must meet the same criteria,
+     except for a different declaration in the Absher portal: the worker must declare that they understand the measures entailed by their
+     decision to exit the Kingdom before fulfilling their contract or applying through the platform (MHRSD 2020).
+
+
+
+21   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+22   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market Photo credit: © iStock / Johnny Greig
+                               WORKFORCE
+                               ON THE MOVE
+                                                 LABOR MOBILITY TRENDS OVER TIME
+
+
+                           An examination of labor market dynamics based on administrative data
+                           covering all private–sector workers suggests that mobility increased fol-
+                           lowing the introduction of the LRI. Quantitative analysis was conducted
+                           using data from the General Organization for Social Insurance (GOSI) and the
+                           Nitaqat program, covering the period from January 2017 to September 2024.
+                           The dataset provides detailed information on individual workers, including
+                           age, gender, nationality, occupation, wages, and other relevant variables.
+                           Additionally, it includes employer data such as firm size, sector, and region.
+                           Key indicators such as transitions, stay, as well as exit and entry rates defined
+                           in figure 5.1, all indicated increases in labor market dynamics.
+
+
+
+Figure 5.1. Definitions of Labor
+                                                                                                                     TR
+Mobility Indicators                                                                                                       AN
+                                                                                                                               S
+                                                                                                            AY                 IT
+                                                                                                          ST                       IO
+                                                                                                                =6                 N=
+                                                                                                                0%                  25 %
+                                                      Year = t–1                                     Year = t
+
+
+                                                                         25%
+                                                           60%           change
+                                                                         jobs in
+                                                           stay in the
+                                                           same job      the next
+                                                           in the next   year
+                                                           year
+
+                                                                         15%                                                            30%
+Note: Transition, stay, and exit rates                                   not                                                            not employed in
+are calculated as a percentage of initial                                ­employed                                                      the previous year
+                                                                          in the
+population (t–1), while entry rates were                                  next year                                                     ENTRY = 30%
+calculated as a percentage of current
+population (t). Therefore, the transition rate
+                                                   Employed
+in the figure equals 25 percent, stay rate 60
+percent, and exit rate 15 percent. As more
+                                                   Unemployed or
+people enter the labor market in period t          nonparticipants                    XI
+                                                                                      E
+than exit, the number of employed persons                                                  T
+                                                                                               =1
+increases. Thus, stayers represent only 50                                                          5%                                   Group C
+percent, those with job–to–job transitions
+20 percent, and entrants 30 percent of the
+current population (t).
+.
+
+
+23                         Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                        Workforce on the Move
+
+
+
+
+                        Labor market dynamics have increased since 2020, reaching their peak
+                        in 2022. Saudi labor market entry rates have risen since 2018. Entry rates for
+                        Saudi men increased from 5.9 percent in 2018 to 11.6 percent in 2022, then
+                        fell to 8.3 percent in 2024. Saudi women saw a sharper rise, going from 8.7
+                        percent in 2018 to 18.3 percent in 2021 and 18.0 percent in 2022, before drop-
+                        ping to 12.1 percent in 2024. The upward trend reflects rising participation
+                        of women, and overall, the expansion of Saudi private–sector employment.
+                        Expatriate labor market entry was steadier, rising from 2.0 percent in 2018 to
+                        8.3 percent in 2022, and decreasing to 5.9 percent in 2024 (figure 5.2). At the
+                        same time, exit rates from private–sector employment, particularly among
+                        Saudi nationals, decreased during the period from 2018 to 2024 (figure 5.3).
+
+
+
+Figure 5.2. Labor Market Entry           20.0
+for Saudi Men and Women and                                                              18.3         18.0
+Non–Saudis from 2018 to 2024
+                                         16.0
+
+     Saudi women
+     Saudi men                           12.0                 11.2                                    11.6
+     Expatriates                                                                         9.6                              12.1            12.1
+                                                 8.7                                                  8.3                                  8.3
+                                          8.0                              10.4                                           7.8
+                                                              7.1
+                                                 5.9
+
+                                          4.0                 3.7           6.2          3.9
+                                                                                                                          5.5             5.9
+                                                 2.0
+                                                                            1.3
+
+Source: Original calculations based       0.0
+on GOSI and Nitaqat 2017-2024 data.              2018         2019         2020          2021         2022                2023            2024
+
+
+
+
+Figure 5.3. Labor Market                2018                               85.9%                                 5.5%     8.5%
+
+Dynamics for Saudi Men and              2019                                87.8%                                   5.4% 6.8%
+
+Women and Non–Saudis from               2020                                88.8%                                   4.2% 7.0%
+
+2018 to 2024                            2021                               85.5%                                 7.8%     6.7%        Saudi men
+                                        2022                              82.6%                               8.2%       9.2%
+
+                                        2023                               85.8%                                 7.7%      6.5%
+     Stay
+                                        2024                                 89.1%                                   5.5% 5.4%
+     Transition
+     Exit                               2018                              82.0%                              5.7%     12.3%
+
+                                        2019                              83.7%                               6.4%       9.9%
+
+                                        2020                               84.2%                              5.3%      10.5%
+
+                                        2021                             80.3%                               9.8%        9.9%        Saudi women
+                                        2022                            77.5%                            10.5%        12.1%
+
+                                        2023                              81.8%                               9.1%       9.1%
+
+                                        2024                                86.7%                                5.5% 7.8%
+
+
+                                        2018                                    91.6%                                   3.2% 5.2%
+
+                                        2019                                     92.9%                                  4.1% 3.1%
+
+                                        2020                                     93.1%                                   3.3% 3.6%
+
+                                        2021                                    92.1%                                   4.5% 3.4%    Expatriates
+                                        2022                                    91.2%                                 5.1% 3.7%
+
+Source: Original calculations based     2023                                     92.8%                                  4.2% 3.0%
+
+on GOSI and Nitaqat 2017-2024 data.     2024                                     92.9%                                  4.2% 2.9%
+
+
+
+
+24                      Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                          Workforce on the Move
+
+
+
+
+                          Transition rates increased for both nationals and expatriates following the
+                          LRI in March 2021. The share of transitioning expatriate workers increased
+                          from 4.5 percent in 2021 to 5.1 percent in 2022—the highest rate on record.
+                          Saudis’ labor mobility also increased between 2021 and 2022, with the share
+                          of men and women moving to other jobs growing by 0.4 and 0.7 percentage
+                          points, respectively. Similarly, as with expatriate workers, the transition rates
+                          in 2022 represent the highest levels observed throughout the entire period
+                          under study. However, transition rates started decreasing from 2022 onwards,
+                          but remained higher than 2018 for expatriate workers (figure 5.3).
+
+                          From an international perspective, Saudi Arabia continues to display
+                          relatively high job-to-job transition rates compared to EU countries.
+                          In 2024, the annual average job-to-job transition rates for Saudi men and
+                          women in the private sector outpaced those of workers in all EU countries.
+                          Meanwhile, job-to-job transition rates for expatriates in the private sector
+                          also ranked high by international comparison, with expatriate workers sur-
+                          passing most EU countries included in the analysis. Compared to 2018, ex-
+                          patriates’ relative position improved substantially over the period (figure 5.4).
+                          It should be highlighted that GOSI data cover only the private sector, whereas
+                          the figures for other countries also include the public sector. This difference
+                          may make transition rates for Saudi Arabia appear much higher than in other
+                          countries, since private-sector rates are typically higher. The literature does
+                          not point to an ideal transition rate; however, countries should aim to achieve
+                          productivity-enhancing labor mobility that can generate the positive effects
+                          outlined in the previous section.
+
+
+
+Figure 5.4. International ­Comparison of Transition Rates in 2018 and 2024
+                                                                                 2018                                                            2024
+                                                                                Sweden                                            KSA - Saudi Men
+                                                               KSA - Saudi women                                               KSA - Saudi women
+                                                                  KSA - Saudi Men                                                        Netherlands
+                                                                              Denmark                                                            Iceland
+                                                                                 Finland                                                      Denmark
+                                                                         Netherlands                                             KSA - Expatriates
+                                                                                 Iceland                                                         Finland
+                                                                                 Estonia                                                       Belgium
+                                                                                    Spain                         European Union - 27 countries (from 2020)
+                                                                              Lithuania                                                           Ireland
+                                                                 KSA - Expatriates                                                                France
+                                                  European Union - 27 countries (from 2020)                                                       Cyprus
+                                                                                  Ireland                                                      Portugal
+                                                                                  France                                                         Estonia
+                                                                                  Cyprus                                                            Spain
+                                                                               Portugal                                                         Sweden
+                                                                                 Austria                                                         Croatia
+Source: Original calculations based on GOSI                                        Latvia                                                            Italy
+and Nitaqat and Eurostat data.6                                                Belgium                                                         Hungary
+                                                                                 Croatia                                                         Austria
+                                                                                     Italy                                                    Lithuania
+Note: The comparison between the two years                                     Hungary                                                         Bulgaria
+                                                                                Czechia                                                           Greece
+shows the change in the relative position of                                      Poland                                                      Romania
+                                                                               Slovakia                                                        Slovenia
+Saudi Arabia from 2018 to 2024. Reported                                       Bulgaria                                                         Czechia
+are the annual averages of quarterly transition                                   Greece                                                          Poland
+                                                                              Romania                                                          Slovakia
+rates. KSA = Kingdom of Saudi Arabia.                                          Slovenia                                                            Latvia
+
+                                                                                              0%   2%   4%   6%                                               0%   2%   4%   6%
+
+
+6. https://ec.europa.eu/eurostat/databrowser/view/lfsi_long_e07__custom_22053737/
+
+
+
+25                        Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                           Workforce on the Move
+
+
+
+
+MAPPING WORKFORCE TRANSITIONS:
+WHO TRANSITIONED AND WHERE DID THEY GO?
+
+                           The transition rates differed among skill groups, with the most significant
+                           increase observed among low skilled workers. Among expatriates, low–
+                           skilled workers, who make up the largest share (50 percent in 2024), exhibited
+                           the highest transition rates across all skill levels in 2022, but then decreased
+                           thereafter, though remaining higher than the 2018 rates. Conversely, medium–
+                           low–skilled expatriate workers had the lowest job–to–job transition rates. For
+                           Saudis, high–skilled workers generally had the highest job–to–job transition
+                           rates. However, it was the low–skilled Saudis who saw the most significant
+                           increase in transition rates compared to 2018 (figure 5.6), but they represent
+                           a small portion of the Saudi workforce, accounting for only 4 percent of men
+                           and 2 percent of women in 2024.
+
+
+
+Figure 5.5. Key Findings on Worker ­Transition Trends
+
+
+
+                                               Understanding Expatriate Job Transition Dynamics
+
+
+
+
+                                         AGE                               SKILLS                           REGIONS
+                                     Younger workers               Low-skilled workers                  Two-thirds stayed
+                                    transitioned more            increased their transition              within the same
+                                        frequently.                  rates significantly.                    region.
+
+
+
+
+                                                        FIRM SIZE                       INDUSTRY
+                                                     Micro firms had                    Many workers
+                                                  the highest transition                transitioned to
+                                                          rates.                       different sectors.
+
+
+
+Source: Original for this publication.
+
+
+
+
+26                         Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                         Workforce on the Move
+
+
+
+
+Figure 5.6. ­Transition Rates by Skill Level for Saudi Men and Women and Expatriates from 2018 to 2024
+
+
+     High–skilled                12%                                                                                                                     12%
+     Medium–high–skilled
+     Medium–low–skilled          10%                                                                                                                     10%
+     Low–skilled
+                                     8%                                                                                                                  8%
+
+
+                                     6%                                                                                                                  6%
+
+
+                                     4%                                                                                                                  4%
+
+
+                                     2%                                                                                                                  2%
+
+
+Source: Original                     0%                                                                                                                  0%
+­calculations based on GOSI
+                                          2018 2019 2020 2021 2022 2023 2024   2018 2019 2020 2021 2022 2023 2024   2018 2019 2020 2021 2022 2023 2024
+ and ­Nitaqat 2017-2024
+ data.                                                 Saudi Men                            Saudi Women                             Expatriates
+
+
+
+
+                         Workers transitioning to other jobs were, on average, younger than those
+                         who remained with the same employer. The average age of Saudi women
+                         and expatriates who experienced job–to–job transitions was approximately
+                         two years lower than of those who stayed in the same job. For Saudi men, the
+                         difference was even greater, with an average age gap of four years between
+                         the two groups (figure 5.7). This trend is not surprising, as younger workers
+                         are more likely to explore different career paths, seek better opportunities,
+                         and find employment in industries or occupations with less job stability. In
+                         addition, younger people often begin their careers in lower–paid, less stable
+                         jobs and then move to better positions as they gain skills and experience.
+                         This could be attributed to labor demand, as technological and gig economy
+                         jobs with higher turnover rates often target younger employees, or to labor,
+                         as younger workers may lack financial responsibilities that would otherwise
+                         encourage job stability.
+
+
+
+Figure 5.7. ­Average Age by Labor Market Status in 2024
+
+                                                               Saudi Men                  Saudi Women                 Expatriates
+
+                              Entry                                28.3                      31.9                        31.6
+
+
+                              Exit                                 30.5                      33.2                        37.0
+
+Source: Original
+                              Transition                           30.3                      33.0                        36.5
+calculations
+based on GOSI
+and ­Nitaqat 2024             Stay                                 34.3                      34.5                        38.3
+data.
+
+
+
+
+27                       Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                        Workforce on the Move
+
+
+
+
+                        Transition rates decline as firm size increases, with the highest rates
+                        observed in microfirms. Microsized firms, with their flat organizational
+                        structures and vulnerability to economic fluctuations, offer limited career
+                        opportunities and higher job insecurity. However, they are often at the fore-
+                        front of innovation and provide the kind of flexible environment that workers
+                        may use as a stepping stone to new ventures or even their own businesses. All
+                        these factors contributed to the fact that microsized firms had the highest
+                        transition shares in the observed period (figure 5.8).
+
+
+
+Figure 5.8. Transition Rates            22%
+by Firm Size
+                                        20%
+     Micro
+                                        18%
+     Small
+     Medium
+                                        16%
+     Large
+     Giant                              14%
+
+                                        12%
+
+                                        10%
+
+                                         8%
+
+                                         6%
+
+                                         4%
+
+                                         2%
+
+
+Source: Original calculations based      0%
+on GOSI and Nitaqat 2017-2024 data.              2018         2019         2020          2021         2022          2023   2024
+
+
+
+
+                        Typically, approximately half of workers who transition move to firms of
+                        similar size, apart from Saudis initially employed in microfirms. Approxi-
+                        mately 46 percent to 49 percent of employees who start at medium–sized
+                        firms subsequently find employment at other medium–sized firms. Among
+                        expatriates and Saudi women who move from medium–sized firms to other
+                        sizes, 35 percent and 30 percent join smaller firms, respectively. In contrast,
+                        30 percent of Saudi men employed at medium–sized firms transition to larger
+                        firms. Saudis employed in micro–firms also tend to move to larger firms, with
+                        only 25 percent remaining employed in microfirms (figure 5.9). Transitioning
+                        from smaller to larger firms can be an indication of a reallocation towards more
+                        productive firms; however, even remaining in same–sized firms can generate
+                        positive effects if the move is associated with reduced skills mismatches and
+                        improved firm efficiency.
+
+
+
+
+28                      Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                         Workforce on the Move
+
+
+
+
+Figure 5.9. Labor Mobility Flows by firm size, 2024
+
+           Lower
+           share of                                     Transitions of Saudi Men by firms size          Transitions of Saudi Women by firms size          Transitions of Expatriates by firms size
+           transitions
+                                                                      DESTINATION                                   DESTINATION                                      DESTINATION
+                                                      Micro        Small Medium Large     Giant         Micro    Small Medium Large        Giant         Micro    Small Medium Large          Giant
+
+                                           Micro       25          48     19        5       3           24       53       16       5        2             43      33        16         6        2
+
+                                           Small       12          52     24        8       4           11       57       25       5        2             24       47       21         6        2
+           Higher
+                                 ORIGIN
+           share of                       Medium        4          20     46       20      10            4       26       49      16        5             14       21       47       13         5
+           transitions
+                                           Large        3          11     30       40      16            4       15       34      34       13             10       10       27       40        13
+Source: Original
+­calculations based on GOSI                 Giant       3          11     25       26      35            2       13       24      26       35             10        7       19       20        43
+ and Nitaqat 2024 data.
+
+
+
+
+                         Approximately two–thirds of workers transitioning to new jobs remain
+                         within the same region. This is primarily due to the concentration of em-
+                         ployment in three regions: Riyadh, Eastern Province, and Mecca (figure 5.10).
+                         That being said, workers from regions with more limited job opportunities,
+                         despite their relatively small numbers, are more inclined to relocate to regions
+                         with higher labor demand during their transitions. Overall, most transitions
+                         occur toward the three regions with the highest employment levels.
+
+                         On the other hand, cross–sectoral movements upon transitioning to another
+                         job are more common. Around 65 percent of expatriate workers who changed
+                         jobs changed sectors. Similar to movements across regions, the largest flows of
+                         workers in absolute terms were directed to economic activities with the largest
+                         employee base, namely construction and wholesale and retail (figures 5.11 and 5.12).
+
+
+
+
+Figure 5.10. Intraregional                             Riyadh                                                                                46%                                               74%
+Mobility and Workforce                      Eastern Province                                      18%                                                                    62%
+­Distribution Across Saudi                             Mecca                                      18%                                                             57%
+ Arabia
+                                                       Al Jouf          1%                                                                                        57%
+                                                       Medina                4%                                                                           53%
+     Share of Expatriate
+     Workers Transitioning to                          Qassim                4%                                                                          52%
+     a Job in the Same Region,                              Asir             4%                                                                          51%
+     Q4 2024                                            Tabuk           1%                                                                         47%
+     Structure of Expatriate                              Hail          1%                                                                         47%
+     Workers by Region,
+                                                    N. Borders       0%                                                                            46%
+     Q4 2024
+                                                         Jizan          2%                                                                  43%
+                                                       Najran           1%                                                           39%
+Source: Original
+                                                       Albaha        0%                                                              39%
+­calculations based on GOSI
+ and Nitaqat 2024 data.                                            0%             10%             20%           30%            40%                 50%           60%             70%                 80%
+
+
+
+29                       Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                          Workforce on the Move
+
+
+
+
+Figure 5.11. Sectoral Inflows                    120,000                                                                                      Construction
+and Outflows of Expatriate
+Workers Due to Transitions,
+Q4 2024
+                                                                                                                                                  ti
+                                                 100,000                                                                                             nf
+                                                                                                                                          to            lo
+                                                                                                                                                          w
+                                                                                                                                       ne   ut
+                                                                                                                                    ith       flo
+                                                                                                                                   w             w
+                                                                                                                            ct              ne
+                                                                                                                              ors         ith
+                                                                                                                          Se           w
+                                                                                                                                   ct
+                                                  80,000                                                                             ors
+                                                                                                                               Se
+
+                                                                                                             Wholesale
+                                                                                                             and retail
+
+                                       Inflow     60,000
+
+
+
+                                                                              Manufacturing
+
+                                                                    Accommodation
+                                                  40,000               and food
+
+                                                                  Administrative
+                                                                  and support s.
+
+                                                        Professional,                       Transportation
+                                                       sci., technical a.
+                                                  20,000
+
+                                                 Finance                      Other services
+                                                insurance
+                                        Mining and                            Agriculture
+                                        quarrying
+                                                                         Health
+                                                      0           ICT Education
+                                                                  Utilities
+                                                           0   Other        20,000           40,000           60,000      80,000                100,000       120,000
+Source: Original ­calculations based
+on GOSI and Nitaqat 2024 data.                                                                                  Outflow
+
+
+
+
+Figure 5.12. Top 5
+­Industry Flows of
+ ­Expatriate Workers,
+  Q4 2024
+                                                                                         13
+                                                                                        thousand                                       Construction
+                                                Wholesale and retail
+
+
+
+                                                                                                             11.8
+                                                                                                              thousand                 Manufacturing
+
+
+
+
+                                                  Construction
+                                                                                            11.6
+                                                                                             thousand                              Wholesale and retail
+
+
+
+
+                                                                                                             8.7
+                                                                                                             thousand
+                                                                                                                                       Construction
+
+
+
+Source: Original                                 Transportation
+                                                                                                      8.6
+                                                                                                  thousand
+calculations based on
+GOSI/Nitaqat 2024 data.                                                                                                                Administration
+
+
+
+
+30                        Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+       Workforce on the Move
+
+
+
+
+HOW DID THE LABOR REFORM INITIATIVE AFFECT
+EMPLOYERS AND EXPATRIATES?
+
+       As evidenced in the literature, higher labor mobility in Saudi Arabia is
+       associated with higher wages. Administrative data reveal that an increasing
+       share of expatriates has experienced wage increases upon job transitions over
+       the past few years. The percentage more than doubled between January 2018
+       and 2022 (figure 5.13). By the end of 2022, there was a noticeable reduction in
+       the share of workers experiencing no wage adjustment upon job transition,
+       which may be linked to electronic contracts being made mandatory through
+       Qiwa in May 2022. When focusing solely on workers who received wage raises,
+       those who transitioned generally gained more than those who remained with
+       the same employer. The difference was most pronounced for medium–high–
+       skilled workers (see figure 5.14), but they are only a small share of those who
+       received wage raises (figure 5.15).
+
+       Employer interviews and employee and employer surveys also report a pos-
+       itive effect of the LRI on wages, indicating that workers gained enhanced
+       negotiating power with the policy. The interviews reveal that the increased
+       negotiating power of expatriate workers led to heightened market competition,
+       which, in turn, has motivated expatriate talent to remain in Saudi Arabia and
+       seek improved opportunities. As one employer aptly stated:
+
+         “We strive to retain them by addressing their concerns and,
+          on occasion, offering salary increases. For instance, last
+          month, I successfully retained an employee by implementing
+          a salary adjustment.”
+
+       A survey of origin firms (firms experiencing a workforce outflow) and
+       destination firms (firms experiencing a workforce inflow) corroborates
+       these interviews. Notably, 45 percent of destination firms reported offering
+       higher salaries, while 91 percent of origin firms actively sought to retain their
+       workers by providing pay raises. An online survey of over 49,000 expatriate
+       workers revealed that 52 percent transferred for favorable opportunities, such
+       as higher pay or a promotion, while 32 percent transferred due to negative
+       experiences, like misalignment with their employer or dissatisfaction with
+       their role.
+
+
+
+
+31     Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                          Workforce on the Move
+
+
+
+
+Figure 5.13. Percent                  100%                                                                            250,000
+of ­Expatriate Workers
+­Experiencing Wage Decrease,            90%
+ Increase, or No Change in
+                                        80%                                                                           200,000
+ Wage when Transitioning by
+ Gender and Nationality
+                                        70%
+
+                                        60%                                                                           150,000
+     Wage decrease
+     No change in wage                  50%
+     Wage increase
+                                        40%                                                                           100,000
+     No. of transitions
+                                        30%
+
+                                        20%                                                                           50,000
+
+                                        10%
+
+                                        0%     1-2018
+                                               3-2018                                                                 0
+Source: Original calculations based
+                                               5-2018
+                                               7-2018
+                                               9-2018
+                                              11-2018
+                                               1-2019
+                                               3-2019
+                                               5-2019
+                                               7-2019
+                                               9-2019
+                                              11-2019
+                                               1-2020
+                                               3-2020
+                                               5-2020
+                                               7-2020
+                                               9-2020
+                                              11-2020
+                                               1-2021
+                                               3-2021
+                                               5-2021
+                                               7-2021
+                                               9-2021
+                                              11-2021
+on GOSI and Nitaqat 2024 data.
+                                               1-2022
+                                               3-2022
+                                               5-2022
+                                               7-2022
+                                               9-2022
+                                              11-2022
+                                               1-2023
+                                               3-2023
+                                               5-2023
+                                               7-2023
+                                               9-2023
+                                              11-2023
+                                               1-2024
+                                               3-2024
+                                               6-2024
+
+
+
+
+Figure 5.14. Average ­Percentage              100%
+Gain in Wage Increases for Expatriate
+Job Switchers Compared to Stayers             80%
+                                                                          93%
+(Among Those Who Received a Raise)
+by Skill Level, June 2024                     60%
+
+
+                                              40%
+                                                                                              49%
+
+                                              20%          37%                                               38%
+
+
+
+Source: Original calculations based            0%
+on GOSI and Nitaqat 2024 data.                             High         Medium–high         Medium–low        Low
+
+
+
+
+Figure 5.15. Percentage Distribution
+of Skill Levels among Expatriate Job
+                                                                            21%
+Switchers and Stayers Who ­Received                                         High
+Wage Increase, June 2024
+                                                     38%
+                                                     Low
+                                                                                      11%
+                                                                                  Medium
+                                                                                   –high
+
+
+                                                                    30%
+Source: Original calculations based                               Medium–low
+on GOSI and Nitaqat 2024 data.
+
+
+
+32                        Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Workforce on the Move
+
+
+
+
+     The LRI policy was perceived to offer numerous significant advantages of
+     recruiting expatriates. Interviews and surveys conducted with firms revealed
+     a diverse array of reasons for hiring expatriate workers through the mobility
+     policy rather than recruiting from overseas. Key advantages included better
+     skills among expatriates with Saudi labor market experience, a faster and
+     more streamlined process, and lower overall costs for recruitment. As one
+     employer noted:
+
+        “ The main one being the ease of transferring labor
+         internally within the Kingdom, saving time, and the effort
+         that HR might exert in recruiting talents from within
+         and outside the Kingdom.”
+
+     The enhanced mobility of the workforce has also provided employers with a
+     greater ability to evaluate talent before hiring, as prospective employees are
+     conveniently located within the country. In a 2025 3LMS study,7 65 percent of
+     employers reported that the LRI had a positive impact on their organization,
+     while only 2 percent perceived it as having a negative effect. Furthermore, 58
+     percent stated that the LRI facilitated the retention of expatriate employees,
+     whereas 3 percent believed it made retention more challenging. The remaining
+     respondents indicated that the reform had no significant impact.
+
+     The LRI policy also had indirect effects on firms’ compliance with other
+     regulations. For example, firms that are not compliant with other regula-
+     tions, such as the Wage Protection System,8 cannot take advantage of the LRI.
+
+
+
+
+     7. The three labor market surveys of nationals, expatriates, and firms (3LMS) in Saudi Arabia were conducted betwen October 2024
+     and February 2025. They included more than 5,000 Saudis, 4,000 expatriates, and 3,000 firms.
+     8. The Wage Protection System ensures fair payment of wages to all employees of private sector organizations, protecting workers.
+
+
+
+33   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Workforce on the Move
+
+
+
+
+34   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Photo credit: © MHRSD
+     AN ­EVALUATION
+      OF THE ­L ABOR
+         ­REFORM
+       ­INITIATIVE
+     Descriptive statistics are essential for understanding broad patterns and
+     differences among groups. They help highlight trends and provide context
+     for the data. However, while useful, these summaries alone cannot determine
+     whether the LRI directly caused the observed changes. For example, differ-
+     ences in wages or job transitions may result from other factors unrelated to
+     the reform.
+
+     To estimate the specific impact of the LRI, the paper employs a differ-
+     ence–in–differences (DiD) approach, comparing changes in labor mobility
+     between groups affected by the reform and those that were not. The LRI,
+     implemented in March 2021, applied only to expatriates who had been residing
+     in Saudi Arabia for at least one year, thereby excluding newer expatriates.
+     This eligibility rule allows for a clear identification strategy, defining the
+     treatment group as expatriates with more than one year of tenure in Saudi
+     Arabia and the control group as expatriates with less than one year of resi-
+     dence. The paper measures job–to–job transitions over the 2018—2024 period,
+     which covers three pre-reform years (2018—2020) and four post-reform years
+     (2021—2024). The DiD estimator captures how these outcomes changed for
+     long–term expatriates (treatment group) relative to short–term expatriates
+     (control group) after the reform’s introduction. By contrasting these trends
+     before and after March 2021, the paper isolates the causal effect of the LRI
+     on expatriate labor mobility, controling for broader labor market dynamics
+     and year–specific shocks (box 6.1). Since randomized controlled trials are
+     not feasible in this setting, the LRI provides a valuable natural experiment
+     enabling credible causal inference.
+
+
+
+
+35   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                       An ­Evaluation of the ­Labor ­Reform ­Initiative
+
+
+
+
+     BOX 6.1. THE DIFFERENCE-IN-DIFFERENCES (DiD) APPROACH
+     CONCEPT
+     The difference-in-differences (DiD) approach compares how outcomes change over time for a group af-
+     fected by a reform (treatment group) and a group not affected (control group). By observing both groups
+     before and after the reform, we can isolate the reform’s causal effect from other external influences.
+
+
+     —————————————————————————————————————————————————————
+     APPLICATION
+     ———
+     LABOR MOBILITY
+     • Treatment group: Expatriates in Saudi Arabia for more than one year, who became eligible under
+       the LRI to change employers without prior consent
+     • Control group: Expatriates in the country for less than one year, who were not yet eligible
+     • Comparison: Differences in job-to-job transitions before and after the reform (see figures B6.1.1
+       and B6.1.2).
+
+
+      Figure B6.1. Differences in Job-to-Job Transitions Before and After the LRI.
+
+                                                               Comparison                                                          Expatriates
+                                                               group                                                               who are in the
+                                                                                                                                   KSA for less
+                                                                                                                                   than 1 year
+                                                               Policy impact
+
+      Mobility                                                                       Mobility
+                                                               Treatment                                                           Expatriates
+                                                               group                                                               who are in the
+                                                                                                                                   KSA for more
+                                                               Comparison                                                          than 1 year
+                                                               group trend
+
+                 year –2    year –1          year 0   year 1                                    2019   2020          2021   2022
+
+                                      Time                                                                    Time
+
+
+
+     ———
+     WAGES
+     • Treatment group: Workers who switched jobs
+     • Control group: Workers who remained with the same employer
+     • Comparison: Differences in wage changes before and after the reform
+     • Placebo test: Wage patterns of Saudi men and women—who were unaffected by the reform—
+       were also examined to ensure wage effects were not driven by unrelated external shocks.
+
+
+     —————————————————————————————————————————————————————
+     CONTROLS
+     Additional covariates (for example, occupation, firm size, sector, and region) were included in the models
+     to account for other factors that might influence labor mobility or wages, enhancing the ­robustness
+     of the estimates.
+
+
+
+
+36                     Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                         An ­Evaluation of the ­Labor ­Reform ­Initiative
+
+
+
+
+                         DiD results confirm that the LRI increased the labor mobility of low–skilled
+                         expatriate workers. The likelihood of switching jobs among this group was
+                         19 percent higher after the policy change than before. Specifically, due to the
+                         LRI, the job–to–job transitions for low–skilled expatriate workers increased
+                         from 3.7 percent to 4.4 percent (figure 6.1). This pronounced effect can be at-
+                         tributed to the relatively low bargaining power of low–skilled workers, which
+                         made them more responsive to the removal of mobility restrictions. Signifi-
+                         cantly, this evidence does not suggest that the reform led to a deterioration
+                         in workforce quality. Firms most likely retained the more capable individuals
+                         within the low–skilled segment, suggesting a positive selection effect. While
+                         the impact was strongest among low–skilled workers, high–skilled expatriates
+                         also experienced a statistically significant increase in mobility, underscoring
+                         the broad reach of the reform.
+
+
+
+Figure 6.1. Labor Reform                  a. Transition Rates for Expatriates                      b. Percentage Change in Labor Mobility Due
+Initiative Impact on Expatriate                                                                    to the Policy Reform
+Mobility Rates in Saudi Arabia            6.0%
+
+
+     Not due to policy                    5.0%                                                      25.0%
+
+     Policy effect
+                                          4.0%                                                      20.0%
+     Transition rates in 2020
+     (before the policy)                                                                                    18.9%
+                                          3.0%                                                      15.0%
+
+                                          2.0%                                                      10.0%
+
+                                                                                                                                                 9.2%
+Source: Original calculations based       1.0%                                                       5.0%
+on GOSI Nitaqat 2017-2024 data.
+                                          0.0%                                                       0.0%
+Note: Results remain consistent                                                                                          –2.0%
+when the impact of the LRI on labor      –1.0%                                                     –5.0%
+mobility is analyzed separately for                                                                                                  –8.5%
+periods before and after May 2022,       –2.0%                                                     –10.0%
+when electronic contracts via Qiwa                    Low      Medium–low Medium–        High                 Low      Medium–low Medium–        High
+became mandatory.                                   –skilled    –skilled high–skilled   –skilled            –skilled    –skilled high–skilled   –skilled
+
+
+
+
+                         The LRI also contributed to reducing the wage gap between Saudis and
+                         expatriate workers. The analysis revealed a significant positive relation-
+                         ship between the LRI and the real wages of expatriates who changed jobs,
+                         corroborating the trends described in section 3. Specifically, expatriates
+                         who transitioned earned slightly lower wages (–0.3 percent) than similar
+                         nontransitioning workers before the reform, but after, the wages were 16.2
+                         percent higher compared to expatriates who stayed with the same employer
+                         (see table 6.1). The period after the LRI was, on average, associated with a
+                         16.6 percent increase in expatriate wages upon transition. Not surprisingly,
+                         the wages of Saudi men and women were not significantly affected by the
+                         LRI. As a result, the LRI helped narrow the wage gap between nationals and
+                         expatriates. Without it, we would have observed an even higher increase in
+                         the pay disparity between nationalities.
+
+
+37                       Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                          An ­Evaluation of the ­Labor ­Reform ­Initiative
+
+
+
+
+Table 6.1. Regression Results on the Impact of the LRI on Wages
+
+                                                                                                              Saudi Men                         Saudi Women                         Expatriates
+
+     Transition vs. nontransition, before LRI                                                                  0.2%                                3.2%                              –0.3%
+
+
+     Transition vs. nontransition, after LRI                                                                   1.0%                                3.0%                              16.2%
+
+
+     The “impact” of LRI on transitioning workers                                                              0.8%                               –0.2%                              16.6%
+
+
+Source: Original calculations based on GOSI Nitaqat 2017-2024 data.
+
+Note: The mandatory adoption of electronic contracts via Qiwa may affect observed wage dynamics, as official records now accurately reflect actual wages rather than “declared” figures. To assess
+the impact of the LRI on transitioning workers, we conducted regression analysis for the periods before and after May 2022. Our findings indicate that the effect of the LRI on expatriates’ wages was
+greater prior to Qiwa’s compulsory use of electronic contracts (23.4 percent) compared to after its implementation (8.5 percent), though the effect remained positive and statistically significant.
+
+
+
+
+                          Given the absence of appropriate data, it is hard to determine the impact
+                          on productivity and indirect benefits. If wages are assumed to be a proxy
+                          for productivity, then transitioning seems to be productivity–enhancing,
+                          especially for low–skilled expatriates. The higher wages might result from
+                          reduced rents among employers who previously benefited from restricting
+                          worker mobility, leading to upward adjustments in wages as these rents de-
+                          cline. Transitioning workers were also moving across sectors. The LRI could
+                          therefore help ensure that labor flows to more productive sectors, which is
+                          an important contribution to productivity growth. There are also possible
+                          indirect benefits of increased labor mobility. The employees who can move
+                          more easily are more resilient to shocks and can spur innovation by spreading
+                          ideas and skills. The high–mobility environment, now offering competitive
+                          salaries and opportunities for career advancement (even for expatriates), may
+                          attract highly skilled professionals, entrepreneurs, and innovators from the
+                          expatriate community. Lastly, reduced mobility restrictions will likely lower
+                          the number of labor disputes. As salaries converge across worker groups, the
+                          reform may encourage greater localization, making it easier for nationals to
+                          compete for roles previously dominated by expatriates.
+
+
+
+
+38                        Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     An ­Evaluation of the ­Labor ­Reform ­Initiative
+
+
+
+
+39   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Photo credit: © iStock / MHRSD
+        CONCLUSION
+
+     With the LRI, the Saudi Arabian government has taken a significant step
+     toward a flexible labor market. The results of this study show that remov-
+     ing the obstacles for expatriate mobility has increased workers’ job–to–job
+     transitions and improved their earning prospects. As a result of the policy,
+     firms are changing their planning practices and improving working condi-
+     tions to retain employees. All of this was also recognized by the international
+     community and led to the improvement of the Kingdom’s ranking in labor
+     market indices. Since 2020, Saudi Arabia has improved its overall Internation-
+     al Institute for Management Development (IMD) Competitiveness ranking
+     from 24th to 16th place (IMD 2024). Moreover, its Labor Rights Index score
+     increased from 58 to 62.5.9 In 2024, Saudi Arabia also ranked second in the
+     InterNations Working Abroad Index.10
+
+     As a result of the heightened competition for workers, expected changes
+     will not only benefit employees but also strengthen the broader econo-
+     my. Higher wages and improved benefits to retain workers will boost their
+     purchasing power, driving greater consumer demand and fueling economic
+     growth. Enhanced investments in training and skill development could lead
+     to a more capable and innovative workforce, raising productivity across
+     sectors. The potential adoption of flexible work arrangements and emphasis
+     on well–being might create a healthier, more satisfied labor force, reducing
+     turnover and fostering stability. Over time, these adjustments could promote
+     a more dynamic labor market in which economic efficiency and innovation
+     thrive. If these trends continue, the economy could become more equitable,
+     resilient, and better equipped to sustain long–term growth in an increasingly
+     competitive global landscape.
+
+
+
+
+     9. See https://labourrightsindex.org/.
+     10. See https://www.internations.org/expat–insider/2024/working–abroad–index–40453.
+
+
+
+40   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Conclusion
+
+
+
+
+     The LRI has also received widespread international recognition, contrib-
+     uting significantly to Saudi Arabia’s improved global competitiveness.
+     Since its introduction, the Kingdom has achieved notable progress across
+     several key indicators. Saudi Arabia’s ranking in the Labor Regulation Index
+     has risen 23 places, while the Skilled Labor Index ranking has improved by 22
+     places. Additionally, the Labor Force Productivity Index ranking has climbed
+     18 places, and the Immigration Laws Index advanced by 12 places. These
+     advancements highlight the success of the LRI in fostering a more dynamic
+     and competitive labor market.
+
+     Nonetheless, some challenges persist. Smaller firms are disproportionately
+     affected by the LRI and may thus experience more adjustment burdens than
+     larger firms, as well as concerns about retaining their labor force. To remain
+     competitive, these firms can adopt labor–saving technologies and automation,
+     thereby reducing their dependence on manual labor for repetitive, low–skilled
+     tasks. In addition, investing in workforce upskilling fosters resilience and ad-
+     aptability. For example, artificial intelligence—powered platforms can deliver
+     personalized training modules to new hires, reducing the time and cost of
+     onboarding. Furthermore, such technologies not only enhance operational
+     efficiency but also empower employees with relevant skills, contributing to
+     long–term organizational stability. Further improvements in recruitment
+     support and access to talent may also gradually ease hiring pressures.
+
+     While the LRI has successfully enhanced labor mobility, some employers
+     have raised concerns about its potential negative impacts. Many are frus-
+     trated by the unexpected nature of transfers, often discovering an employee
+     has left only when they are urgently needed for a project. Others argue that
+     the ease of transfer undermines contractual agreements, making it difficult
+     to retain skilled workers. As a result, companies are hesitant to invest in
+     employee training, fearing that workers may transfer to other companies
+     after just a year or two. Dissatisfaction is most common among businesses
+     with weaker human resources practices and less attractive environments;
+     however, low–skill, labor–intensive sectors are particularly affected due to
+     high transfer volumes. Policies that help microfirms hire needed skills can
+     turn this dissatisfaction into increased value added and profitability. These
+     policies reduce hiring costs, mitigate employment risk, improve matching
+     efficiency, and alleviate administrative and financial constraints. In terms of
+     training, the government began to incentivize firms to train their employees.
+     A policy was implemented in 2023 that required firms with more than 50
+     employees to report their annual training activities through Qiwa (that is,
+     training hours, number of trainees, and training budgets). Providing firms
+     with information is important, as many undertrain because they are unsure
+     about the returns on their investment.
+
+
+
+
+41   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Conclusion
+
+
+
+
+     Finally, evidence suggests that low–skilled expatriates have experienced
+     the greatest impact from the LRI compared to other groups. The policy has
+     primarily reshaped employment dynamics in labor–intensive sectors, with
+     relatively less influence on middle–skilled professions. Further exploration is
+     needed to fully understand the reasons behind these findings, which could be
+     due to limited formal job intermediation services for these skills. Interviews
+     suggest thus far that workers are relying on personal networks or directly
+     applying to firms when seeking new opportunities: “Laborers often come to
+     the industrial area, especially industrial employees, they come and apply to every
+     factory.” To facilitate intermediation, skills credentialling systems can be put
+     in place. A skills passport can allow job seekers to indicate which skills they
+     have acquired and which qualifications they have obtained to better stream-
+     line job applications.
+
+
+
+
+42   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Conclusion
+
+
+
+
+43   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market   Photo credit:
+                                                                                                        Photo© credit:
+                                                                                                                  xXxxx©/ Xxxxxxx
+                                                                                                                          MHRSD
+                                   APPENDIX A
+                                               SYNTHESIS OF RESULTS FROM
+                                                ­ADMINISTRATIVE, SURVEY,
+                                                   AND INTERVIEW DATA
+Table A.1. Transition Rates Results
+
+
+     ADMINISTRATIVE                      INTERVIEWS                                                                     SURVEY                     SYNTHESIS
+     DATA RESULTS                                                                                                       RESULTS
+                                         QUOTES                                          IMPLICATIONS
+
+
+     The share of transitioning expa-    “Hiring locally is easier and faster: …the      Expatriate workers are le-     The largest group          The LRI appears to
+     triate workers increased from 4.5   ease of transferring labor internally within    veraging personal networ-      of respondents (34         have increased tran-
+     percent in 2021 to 5.1 percent in   the Kingdom, saving time, and the effort        ks to actively seek better     percent) had both          sition rates. However,
+     2022, reaching the highest rate     that HR might exert…”                           opportunities while being      expatriates coming         the observed results
+     compared to previous years.                                                         on the job in Saudi Arabia,    in and leaving their       also reflect two off-
+                                         “Employers have more options to choose
+                                                                                         especially lower-skilled       establishments through     setting mechanisms:
+                                         from. We can assess them for a month
+                                                                                         workers going to factories     the expatriate mobility    some employers
+     Among expatriates, low-skilled      without high costs, and if they meet our
+                                                                                         to seek other jobs.            policy; 17 percent did     actively hinder
+     workers exhibited the highest       standards, we transfer their sponsorship.”
+                                                                                                                        not report any instance    worker transitions
+     transition rates across all skill                                                   Destination firms are
+                                         “Employers prefer transferring expatriates to                                  of expatriate mobility;    (negative contribu-
+     levels in 2022.                                                                     diligent to avoid situations
+                                         recruiting from abroad. The main one being                                     and 30 percent did not     tion), while others
+                                                                                         where the worker has
+                                         the ease of transferring labor internally wi-                                  complete the survey        facilitate them (posi-
+                                                                                         violations or is blocked
+     The likelihood of switching jobs    thin the Kingdom, saving time, and the effort                                  after starting it.         tive ­contribution).
+                                                                                         on the system. Many still
+     among low-skilled expatriates       that HR might exert in recruiting talents
+                                                                                         seek original employer         Sixty-two percent of
+     was 19 percent higher after the     from within and outside the Kingdom.”
+                                                                                         approval even if it is not     the expatriate transfers
+     policy change than before the
+                                         “Expatriate workers are actively seeking        required.                      were not pushed for by
+     introduction of the LRI.
+                                         transfers. Laborers often come to the indus-                                   the original employer
+                                                                                        Violations made by the
+                                         trial area, especially industrial employees,                                   and would not have
+                                                                                        original employer impact
+                                         they come and apply to every factory.”                                         been possible before
+                                                                                        the transfer.
+                                                                                                                        the expatriate mobility
+                                         “Original employers attempt to block the
+                                                                                                                        policy.
+                                         transfer. If that establishment issues a final
+                                         exit, it’s like they close the door on me. I
+                                         can’t complete the process and transfer the
+                                         sponsorship to me even though he meets
+                                         the conditions.”
+
+cont.
+
+
+
+
+44                       Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+                           Appendix A
+
+
+
+
+cont.
+
+
+
+
+     The average age of expatriates           “Expatriate mobility is unfair to employers. I        Unsatisfied employers are             Firms that did not           The largest gains
+     who experienced job-to-job tran-         have a contract with him that hasn’t ended,           generally the ones with               benefit from the             are observed among
+     sitions was approximately two            and it’s documented in Qiwa and everything.           poor human resource ma-               expatriate mobility          low-skilled workers
+     years lower than that of those           Then, he can just file a transfer request             nagement (HRM) practices              policy (71 percent)          and workers in mi-
+     who stayed in the same job.              and move within 90 days. Thanks to you, he            and less attractive work              have more concerns           crosized firms. Con-
+                                              moved from my company.”                               environments.                         related to retaining their   versely, microsized
+                                                                                                                                          expatriate workers than      firms (which often
+     Microsized firms had the highest         “Expatriate mobility is damaging to original          Low-skill, labor-intensive
+                                                                                                                                          those that did hire an       have inadequate or
+     transition shares in the observed        employers. I train a person in sales and              sectors are more likely to
+                                                                                                                                          expatriate through the       weak HRM practices)
+     period.                                  other skills, and then they transfer their            be dissatisfied with the
+                                                                                                                                          policy (63 percent).         and low-skilled sec-
+                                              sponsorship without any reason, without any           policy given the volume of
+                                                                                                                                                                       tors were the most
+                                              justification. I lost a lot in this process.”         transfers.                            Only 15 percent
+     Approximately two-thirds of                                                                                                                                       dissatisfied with the
+                                                                                                                                          rated the policy and its
+     workers transitioning to new jobs                                                                                                                                 reform.
+                                                                                                                                          implementation as poor
+     remain within the same region.
+                                                                                                                                          or very poor.
+
+     Workers from regions with more
+     limited job opportunities are
+     more inclined to relocate to
+     regions with higher labor demand
+     during their transitions.
+
+Source: Original for this publication.
+
+Note: HR = human resources; LRI = Labor Reform Initiative.
+
+
+
+Table A.2. Wages Results
+
+
+     ADMINISTRATIVE                           INTERVIEWS                                                                                  SURVEY                       SYNTHESIS
+     DATA RESULTS                                                                                                                         RESULTS
+                                              QUOTES                                                IMPLICATIONS
+
+
+     The percentage of expatriates who        “Expatriate mobility gives workers                    Competition for talent is             Ten percent of destina-      The reform appears
+     received wage raises after job-to-       negotiating power. We try to retain them by           driving overall wages and             tion firms reported offe-    to have raised wages
+     job transitions more than doubled        discussing their concerns and sometimes               benefits for expatriate               ring higher positions,       for transitioners as
+     between January 2018 and 2022.           offering a salary increase. For example, last         workers to improve.                   indicating minimal           well as for workers
+                                              month, I managed to keep an employee by                                                     career progression im-       employers attempted
+                                              increasing his salary.”                                                                     pact from the expatriate     to keep, suggesting
+     When focusing solely on workers
+                                                                                                                                          mobility policy, but 45      upward pressure
+     who received wage raises, those
+                                                                                                                                          percent report higher        on wages through
+     who transitioned generally gained
+                                                                                                                                          salaries.                    both mobility and
+     more than those who remained
+                                                                                                                                                                       retention channels.
+     with the same employer.                                                                                                              Ninety-one percent of
+                                                                                                                                          origin employers at-
+                                                                                                                                          tempting to retain their
+     The period after the LRI was, on
+                                                                                                                                          workers offered a pay
+     average, associated with a 16.6
+                                                                                                                                          raise or better working
+     percent increase in expatriate
+                                                                                                                                          conditions.
+     wages upon transition.
+
+Source: Original for this publication.
+
+Note:     indicates descriptive empirical approach, whereas   denotes difference-in-differences finding. LRI = Labor Reform Initiative.
+
+
+
+45                         Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+REFERENCES
+
+Abella, M. 2013. “Effects of Labour Mobility.”                  Davia, M. A. 2005. “Job Mobility and Wage
+International Indigenous Policy Journal 4(3): 1—40.             Mobility at the Beginning of the Working
+                                                                Career: A Comparative View across Europe.”
+Bernard, A., R. Finnie, and B. St–Jean. 2008.                   ISER Working Paper Series, Institute for Social
+“Interprovincial Mobility and Earnings.”                        and Economic Research, Essex.
+Perspectives on Labour and Income 9(10):15—25.
+                                                                Fadejeva, L., and I. Opmane. 2016. “Internal
+Boschma, R., R. H. Eriksson, and U. Lindgren.                   Labour Market Mobility in 2005—2014 in Latvia:
+2014. “Labour Market Externalities and Regional                 The Micro Data Approach.” Baltic Journal of
+Growth in Sweden: The Importance of Labour                      Economics 16(2): 152—174.
+Mobility between Skill–Related Industries.”
+Regional Studies 48(10): 1669—1690.                             Foster–McGregor, N., and J. Pöschl. 2016.
+                                                                “Productivity Effects of Knowledge Transfers
+Braunerhjelm, P., D. Ding, P. Thulin. 2020.                     Through Labour Mobility.” Journal of Productivity
+“Labour Market Mobility, Knowledge Diffusion                    Analysis 46(2): 169—184.
+and Innovation.” European Economic Review 123:
+103386.                                                         Gius, M. 2014. “The Impact of Job Mobility on
+                                                                Earnings: Using Occupational and Industrial
+Bryan, G., and M. Morten. 2019. “The                            Classifications to Identify Job Changes.”
+Aggregate Productivity Effects of Internal                      International Review of Applied Economics 28(2):
+Migration: Evidence from Indonesia.” Journal of                 181—190.
+Political Economy 127(5): 2229—2268.
+                                                                Håkansson, P. G., and P. Bejakovic. 2020.
+Campbell, D. 2001. “Estimating the Wage                         “Labour Market Resilience, Bottlenecks and
+Effects of Job Mobility in Britain.” Department                 Spatial Mobility in Croatia.” Eastern Journal of
+of Economics Discussion Paper, University of                    European Studies 11(2): 5—25.
+Kent, Canterbury.
+                                                                IMD (International Institute for Management
+Carroni, E., M. Delogu, and G. Pulina. 2023.                    Development). 2024. IMD World Competitiveness
+“Technology Adoption and Specialized Labor.”                    Yearbook 2024. Lausanne: IMD World
+International Economics 173: 249—259.                           Competitiveness Center.
+
+Castellanos, K., and G. Heutel. 2024.                           Jia, J., Z. Li, Y. Hu, and B. Tao. 2022. “Does Top
+“Unemployment, Labor Mobility, and Climate                      Management Team’s Job Mobility Experience
+Policy.” Journal of the Association of Environmental            Matter for Corporate Innovation?” Pacific
+and Resource Economists 11(1): 1—40.                            Accounting Review 34(3): 426—450.
+
+Danninger, M. S. 2016. “What’s Up with US                       Kaiser, U., H. C. Kongsted, and T. Rønde.
+Wage Growth and Job Mobility?” Working                          2015. “Does the Mobility of R&D Labor Increase
+Paper, International Monetary Fund,                             Innovation?” Journal of Economic Behavior &
+Washington, DC.                                                 Organization 110: 91—105.
+
+
+
+
+46            Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+Lam, S. S., T. W. Ng, D. C. Feldman. 2012. “The                Rivera Guivas, N., C. Chartouni,
+Relationship Between External Job Mobility and                 E. Pankratova, J. Koettl–Brodmann,
+Salary Attainment across Career Stages.” Journal               T. Bartolj, M. Dominko, S. Bilo, A. Alzahrani,
+of Vocational Behavior 80(1): 129—136.                         and A. Humedi 2026. A Decade of
+                                                               Progress: Inside Saudi Arabia’s Labor Market
+MHRSD (Ministry of Human Resources                             Transformation. World Bank, Washington, DC.
+and Social Development). 2020. LRI Services
+Guidebook. Riyadh, MHRSD.                                      World Bank. 2018. “Impacts of Increased
+                                                               Expatriate Worker Mobility on Firms in Saudi
+Munich, D., K. Terrell, and J. Svejnar. 2002.                  Arabia: What Can Theory and the Available
+“The Returns to Job Mobility During the                        Evidence Tell us to Expect?” Policy Note, World
+Transition: Evidence from Czech Retrospective                  Bank, Washington, DC.
+Data.” Discussion Paper, William Davidson
+Institute at the University of Michigan—                       Xu, T., Y. Xuan, S. Yang, and C. J. Ding. 2024.
+University of Michigan.                                        “Labour Market Mobility, Knowledge Diffusion,
+                                                               and Firm Innovation: Empirical Evidence from
+Pavlopoulos, D., D. Fouarge, R. Muffels, and                   Chinese Industrial Enterprise.” Technology
+J. K. Vermunt. 2007. “Job Mobility and Wage                    Analysis & Strategic Management 1—14.
+Mobility of High– and Low–Paid Workers.”
+Journal of Contextual Economics—Schmollers                     Yankow, J. J. 2022. “The Effect of Cumulative
+Jahrbuch 1: 47—58.                                             Job Mobility on Early‐Career Wage
+                                                               Development: Does Job Mobility Actually Pay?”
+Perticara, M. C. 2004. “Wage Mobility Through                  Social Science Quarterly 103(3): 709—723.
+Job Mobility.” Latin American Institute for
+Doctrine and Social Studies Working Paper,
+Georgetown University, Washington, DC.
+
+
+
+
+47           Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+     Appendix A
+
+
+
+
+48   Saudi Arabia’s Labor Mobility Reforms: A New Era for Foreign Workers and the Labor Market
+

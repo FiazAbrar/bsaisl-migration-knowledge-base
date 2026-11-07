@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="_token" content="hO6nGZiKRRpC9PcnRND9HCiNwWl3hkILk9bhAu6u" url="https://training.oep.gov.bd"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="example, demo">
+    <meta name="description" content="example meta description">
+    <link rel="shortcut icon" href="https://training.oep.gov.bd/uploadfiles/AcjqJkTxDmsh5ftgLuj165pq0hqE1lRBPXeRTqCL.png?v=9.1">
+
+    <title>
+        BMET LMS
+    </title>
+
+    <script src="https://training.oep.gov.bd/lib/jquery-3.6.0.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/translate/translate.js?v=9.1"></script>
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet"/>
+    <!-- Fonts and icons -->
+    <script src="https://training.oep.gov.bd/lib/webfont/webfont.min.js?v=9.1"></script>
+    <script>
+        WebFont.load({
+            google: {
+                "families": ["Lato:300,400,700,900"]
+            },
+            custom: {
+                "families": ["Font Awesome 5 Solid", "Font Awesome 5 Regular",
+                    "Font Awesome 5 Brands"
+                ],
+                urls: ["https://training.oep.gov.bd/lib/webfont/css/fonts.css"]
+            },
+            active: function () {
+                sessionStorage.fonts = true;
+            }
+        });
+    </script>
+    <style>
+        :root {
+            --theam-color: linear-gradient(310deg, #2152ff 0%, #21d4fd 100%);
+            --theam-color-form-control-border: #d2d6da;
+            --theam-color-form-control-box-shadow: #8ec7ff;
+        }
+    </style>
+
+
+    <link rel="stylesheet" href="https://training.oep.gov.bd/lib/flatpicker/flatpickr.css?v=9.1"/>
+    <link href="https://training.oep.gov.bd/devsteed-ums/js/assets/css/soft-ui-dashboard.css?v=9.1" rel="stylesheet"/>
+    <link href="https://training.oep.gov.bd/lib/css/theam-color-settings.css?v=9.1" rel="stylesheet"/>
+
+    <link href="https://training.oep.gov.bd/lib/select2/css/select2.min.css?v=9.1" rel="stylesheet"/>
+    <link href="https://training.oep.gov.bd/lib/select2/css/override-select2.css?v=9.1" rel="stylesheet"/>
+    <link href="https://training.oep.gov.bd/lib/sweet-alert/sweetalert2.min.css?v=9.1" rel="stylesheet"/>
+
+    <!-- file pond -->
+    <link href="https://training.oep.gov.bd/lib/filepond/filepond.min.css?v=9.1" rel="stylesheet"/>
+    <link href="https://training.oep.gov.bd/lib/filepond/filepond-plugin-image-preview.min.css?v=9.1" rel="stylesheet"/>
+
+    <!-- summer note-->
+    <link href="https://training.oep.gov.bd/lib/summernote/summernote.min.css?v=9.1" rel="stylesheet"/>
+    <script src="https://training.oep.gov.bd/lib/summernote/summernote.min.js?v=9.1"></script>
+
+    <!-- site style -->
+    <link href="https://training.oep.gov.bd/site/default/css/site-style.css?v=9.1" rel="stylesheet"/>
+
+    <script src="https://training.oep.gov.bd/devsteed-ums/js/assets/js/core/popper.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/devsteed-ums/js/assets/js/core/bootstrap.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/devsteed-ums/js/assets/js/plugins/perfect-scrollbar.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/devsteed-ums/js/assets/js/plugins/smooth-scrollbar.min.js?v=9.1"></script>
+
+    <!-- file pond js -->
+    <script src="https://training.oep.gov.bd/lib/filepond/filepond.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/filepond/filepond-plugin-image-preview.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/filepond/filepond-plugin-file-validate-type.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/filepond/filepond.jquery.js?v=9.1"></script>
+
+    <script src="https://training.oep.gov.bd/lib/flatpicker/flatpickr.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/moment.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/bootstrap-toast.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/sweet-alert/sweetalert2.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/js-manager.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/js-message.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/select2/js/select2.full.min.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/lib/utility.js?v=9.1"></script>
+    <script src="https://training.oep.gov.bd/devsteed-ums/js/assets/js/soft-ui-dashboard.js?v=9.1"></script>
+
+    <link href="https://training.oep.gov.bd/updated-css/admin-style.css" rel="stylesheet"/>
+
+</head>
+
+<body class="">
+
+<div class="container-fluid position-sticky z-index-sticky top-0">
+    <div class="row">
+        <div class="col-12">
+            <!-- Navbar -->
+            <nav class="top-menu navbar navbar-expand-lg  blur top-0 z-index-fixed shadow position-absolute py-2 start-0 end-0">
+                <div class="container">
+                    <a class="navbar-brand font-weight-bolder ms-sm-3 p-0" href="https://training.oep.gov.bd/login" target="_self"
+                       rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
+                        <img class="logo-img" src="https://training.oep.gov.bd/uploadfiles/4Z0Zwp08PK5yC1i2y3w7Iolq7ezoPmcaVYJFVJSm.png?v=9.1" alt="not found"/>
+                        <span class="font-weight-bold" style="font-size: 18px !important;
+                                    margin-left: 10px !important;
+                                    padding-top: 10px !important;
+                                    font-weight: bold;">
+                            <strong style="color: #2F2584;">BMET LMS</strong>
+                        </span>
+                    </a>
+                    <button class="navbar-toggler shadow-none ms-2 collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false"
+                            aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon mt-2">
+                                <span class="navbar-toggler-bar bar1"></span>
+                                <span class="navbar-toggler-bar bar2"></span>
+                                <span class="navbar-toggler-bar bar3"></span>
+                            </span>
+                    </button>
+                    <div class="navbar-collapse pt-3 pb-2 py-lg-0 w-100 collapse" id="navigation">
+
+
+                        <ul class="ms-lg-5 navbar-nav navbar-nav-hover w-100">
+
+                            <li class="nav-item">
+
+                                <div class="w-100 position-relative search-div">
+                                    <button type="button" id="nav-btn-search"
+                                            class="btn bg-gradient-primary position-absolute"><i
+                                                class="fas fa-search"></i></button>
+                                    <input type="text" class="form-control search-input" id="nav-input-search"
+                                           placeholder="Search....">
+                                    <div class="list-group search-results shadow d-none">
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="nav-item dropdown dropdown-hover mx-2">
+                                <a role="button"
+                                   class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center "
+                                   data-bs-toggle="dropdown" aria-expanded="false">
+                                    Download <i class="fas fa-chevron-down icon-down mx-2"></i>
+
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-animation border-radius-md p-3 mt-0">
+
+                                    <ul class="list-group">
+                                        <li class="nav-item dropdown dropdown-hover dropdown-subitem list-group-item border-0 p-0">
+                                            <a class="dropdown-item border-radius-md ps-3 d-flex align-items-center justify-content-between mb-1"
+                                               id="dropdown-1" href="https://training.oep.gov.bd/pdo-certificate">Download
+                                                Certificate</a>
+                                        </li>
+                                        <li class="nav-item dropdown dropdown-hover dropdown-subitem list-group-item border-0 p-0">
+                                            <a class="dropdown-item border-radius-md ps-3 d-flex align-items-center justify-content-between mb-1"
+                                               id="dropdown-2" href="https://training.oep.gov.bd/pdo-enrollment-card">Download
+                                                Enrollment Card</a>
+                                        </li>
+                                    </ul>
+
+
+                                </div>
+                            </li>
+
+
+                            <li class="nav-item dropdown dropdown-hover mx-2 d-none">
+                                <a role="button"
+                                   class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center "
+                                   id="dropdownMenuAccount" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Category <i class="fas fa-chevron-down icon-down mx-2"></i>
+
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-animation border-radius-md p-3 mt-0 mt-lg-3"
+                                     aria-labelledby="dropdownMenuAccount">
+
+                                    <ul class="list-group pe-0">
+
+                                        
+                                        
+                                        
+
+                                    </ul>
+
+
+                                </div>
+                            </li>
+
+
+                            <li class="nav-item mx-2 d-none">
+                                <a href="https://training.oep.gov.bd/contact-us"
+                                   class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center">
+                                    Contact Us
+                                </a>
+                            </li>
+
+                            <li class="nav-item my-auto ms-3 ms-auto">
+
+                            <li class="mx-2">
+                                <form id="language-change-form" action="" method="POST">
+                                    <input type="hidden" name="_token" value="hO6nGZiKRRpC9PcnRND9HCiNwWl3hkILk9bhAu6u">                                    <select id="cmbLang" class="form-control mt-1" name="lang_id">
+                                                                                    <option selected value=1>English</option>
+                                                                            </select>
+                                </form>
+                            </li>
+                                                            <li>
+                                    
+                                    <a href="https://training.oep.gov.bd/user-login"
+                                       class="bg-gradient-primary btn btn-sm px-3 mt-1">Login</a>
+                                </li>
+                                                    </ul>
+                    </div>
+
+
+                </div>
+            </nav>
+
+            <!-- End Navbar -->
+        </div>
+    </div>
+</div>
+<main class="main-content  mt-0">
+    
+     <div class=" min-vh-10">
+     </div>
+     <!-- signup instractor -->
+     <section class="" style="margin-top: 5rem">
+        <div class="container mt-5">
+            <div class="row bg-gray-100 border-radius-md p-3">
+
+                <form id="certificateSearchForm" class="form-horizontal needs-validation" novalidate="novalidate">
+
+                    <div class="col-md-12">
+                        <div class="row justify-content-center ">
+                            <div class="col-md-6">
+                                <h6>Please enter your "passport / NID" number and the captcha to download your certificate.</h6>
+                            </div>
+                        </div>
+                        <div class="row justify-content-center ">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="passport_number">Passport Number <span class="text-danger">*</span> </label>
+                                    <input class="form-control" type="text" name="passport_number" id="last-admission-date" required autocomplete="off">
+                                    <div class="invalid-feedback">
+                                        Passport Number is required
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+
+                        <div class="row justify-content-center">
+                            <div class="col-md-6">
+                                <div class="form-group">
+
+                                <div class="row">
+                                    <label for="captcha">Captcha</label>
+                                    <div class="col-md-6 col-sm-12">
+                                        <div class="captcha d-flex align-items-center gap-2 mb-2">
+                                            
+                                            <span><img src="https://training.oep.gov.bd/captcha/alphanumeric?USFltrks" ></span>
+                                            <button type="button" class="btn btn-success btn-refresh">
+                                                <i class="fas fa-sync-alt"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12">
+                                        <input 
+                                        id="captcha" 
+                                        type="text" 
+                                        class="form-control " 
+                                        name="captcha" 
+                                        placeholder="Enter Captcha"
+                                    >
+                                    </div>
+                                </div>
+                                    
+                                    
+                                                                    </div>
+                            </div>
+                            
+                        </div>
+
+                        <div class="row justify-content-center">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <a id="searchBtn" class="btn btn-md bg-gradient-primary w-100" type="button">Search</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </form>
+
+                <div class="bg-gray-100 mt-5" id="CertificationsInfoDiv">
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    
+
+    <script type="text/javascript">
+
+        $('.btn-refresh').click(function() {
+            $.ajax({
+                type: 'GET',
+                url: 'reload-captcha',
+                success: function(data) {
+                    $(".captcha span").html(data.captcha);
+                }
+            });
+        });
+
+    </script>
+    <script src="https://training.oep.gov.bd/site/default/js/home/pdo-certificate.js"></script>
+    
+</main>
+
+
+<section>
+    <div class=" mt-5 w-100" style="background-image: linear-gradient(310deg, #718099 100%, #718099 100%);">
+        <div class="container d-none">
+            <div class="row py-5">
+                <div class="col-md-3">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img width="80" src="https://training.oep.gov.bd/uploadfiles/4Z0Zwp08PK5yC1i2y3w7Iolq7ezoPmcaVYJFVJSm.png?v=9.1" alt="not found">
+                        </div>
+                        <div class="col-md-12">
+                            <p class="text-white text-justify fw-light text-sm">BMET service</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-3 ps-md-7">
+                    <div class="col-md-12">
+                        <h4 class="text-white mt-xs-4 fw-bold">Pages</h4>
+
+
+                    </div>
+                    <div class="col-md-12 pt-3">
+                        <a href="https://training.oep.gov.bd/contact-us" class="text-white text-sm">Supports</a>
+                    </div>
+
+                    <div class="col-md-12 pt-3 d-none">
+                        <a href="https://training.oep.gov.bd/all-course"
+                           class="text-white  text-sm">All Courses</a>
+                    </div>
+
+                </div>
+                <div class="col-md-3">
+                    <div class="col-md-12">
+                        <h4 class="text-white mt-xs-4 fw-bold">Useful Links</h4>
+
+                    </div>
+                    
+                    <div class="col-md-12 pt-3">
+                        <a href="https://employee.oep.gov.bd/employee/"
+                           class="text-white text-sm">Signup as Student</a>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="col-md-12">
+                        <h4 class="text-white mt-xs-4 fw-bold">Contact Info</h4>
+
+
+                    </div>
+                    <div class="col-md-12 pt-3">
+                        <p class="text-white text-sm text-justify"><img width="15"
+                                                                        src="https://training.oep.gov.bd/site/default/img/location.svg?v=9.1"/>
+                            example address
+                        </p>
+                    </div>
+                    <div class="col-md-12 ">
+                        <p class="text-white text-sm"><img width="15"
+                                                           src="https://training.oep.gov.bd/site/default/img/telephone.svg?v=9.1"/> 01700000000
+                        </p>
+                    </div>
+                    <div class="col-md-12 ">
+                        <p class="text-white text-sm"><img width="15" class="mt-n1"
+                                                           src="https://training.oep.gov.bd/site/default/img/email.svg?v=9.1"/> example
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="background-image: linear-gradient(310deg, #dddddd 100%, #dddddd 100%);">
+    <div class="container">
+        <div class="row p-5">
+            <div class="col-md">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h6>Payment Methods</h6>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="row ">
+                            <div class="col-md-auto">
+                                                                    <img class="payment-thum  border border-radius-sm mt-xs-1"
+                                         src="https://www.sonalipay.co.uk/assets/img/home/logo_footer.png?v=9.1"/>
+
+                                
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-auto mt-xs-4">
+                <div class="row">
+                    <div class="col">
+                        <h6>Follow Us</h6>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <a href="example">
+                            <i class="fab fa-facebook-square fa-2x" style="color: #0f3e8f;"></i>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="example">
+                            <i class="fab fa-youtube-square fa-2x" style="color: #ca3116;"></i>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="example">
+                            <i class="fab fa-google-plus-square fa-2x" style="color: #dd2808;"></i>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="example">
+                            <i class="fab fa-instagram fa-2x" style="color: #c92c97;"></i>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="example">
+                            <i class="fab fa-twitter-square fa-2x" style="color: #36aaf2;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="footer pb-5" style="background-image: linear-gradient(310deg, #dddddd 100%, #dddddd 100%);">
+    <div class="container">
+        <div class="row">
+            <div class="col-8 mx-auto text-center">
+                <p class="mb-0 text-secondary">
+                    Copyright ©
+                    <script>
+                        document.write(new Date().getFullYear())
+                    </script> BMET LMS
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</body>
+
+</html>
+<script src="https://training.oep.gov.bd/site/default/js/site-layout.js?v=9.1"></script>
+<script>
+
+</script>
