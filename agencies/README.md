@@ -1,44 +1,50 @@
+<a id="recruiting-agencies"></a>
+
 # Recruiting agencies
 
 Sources checked up to 8 Nov 2026.
 
 This doc covers the licensed recruiting agencies named on the job orders BMET (the Bureau of Manpower, Employment and Training) posted publicly, who is behind them, the gatekeepers above them, and what has been alleged or found against them <sup>[1](#o1)</sup>. The posted job orders cover a small share of the people who actually left: about 259,000 workers on the letters from June 2023 to December 2025, against 1,011,969 departures in 2024 and about 1.12 million in 2025 alone <sup>[1](#o1), [N1](#n1)</sup>. So the lists below show who holds the most posted job orders, not who sends the most people. A high count shows activity, not fair treatment: several of the agencies with the most letters face corruption cases, and only one agency has outside evidence of fair recruitment <sup>[N2](#n2), [N3](#n3), [N4 (2022)](#n4)</sup>. BRAC Probashbandhu Ltd (BPL, RL1199), which appears in this list, is a recruiting agency owned by BRAC, the organisation behind this guide <sup>[N5](#n5), [2](#o2)</sup>.
 
+<a id="contents"></a>
+
 ## Contents
 
-- [How to use this list](#how-to-use-this-list)
-- [How the numbers were counted](#how-the-numbers-were-counted)
-- [Who is behind the agencies](#who-is-behind-the-agencies)
-- [Saudi Arabia](#saudi-arabia)
-- [Malaysia](#malaysia)
-- [UAE](#uae)
-- [Russia](#russia)
-- [Jordan](#jordan)
-- [South Korea](#south-korea)
-- [Libya](#libya)
-- [Other corridors](#other-corridors)
-- [Agencies with red flags](#agencies-with-red-flags)
-  - [Malaysia syndicate](#malaysia-syndicate)
-  - [Saudi Arabia and the Gulf: women domestic workers](#saudi-arabia-and-the-gulf-women-domestic-workers)
-  - [Saudi Arabia, UAE, Kuwait, Singapore and Jordan: men](#saudi-arabia-uae-kuwait-singapore-and-jordan-men)
-  - [Russia war front](#russia-war-front)
-  - [Other corridors](#other-corridors-1)
-  - [Unconfirmed name matches (do not cite against an RL)](#unconfirmed-name-matches-do-not-cite-against-an-rl)
-- [Agencies with evidence of fair recruitment](#agencies-with-evidence-of-fair-recruitment)
+- [1 How to use this list](#how-to-use-this-list)
+- [2 How the numbers were counted](#how-the-numbers-were-counted)
+- [3 Who is behind the agencies](#who-is-behind-the-agencies)
+- [4 Saudi Arabia](#saudi-arabia)
+- [5 Malaysia](#malaysia)
+- [6 UAE](#uae)
+- [7 Russia](#russia)
+- [8 Jordan](#jordan)
+- [9 South Korea](#south-korea)
+- [10 Libya](#libya)
+- [11 Other corridors](#other-corridors)
+- [12 Agencies with red flags](#agencies-with-red-flags)
+  - [12.1 Malaysia syndicate](#malaysia-syndicate)
+  - [12.2 Saudi Arabia and the Gulf: women domestic workers](#saudi-arabia-and-the-gulf-women-domestic-workers)
+  - [12.3 Saudi Arabia, UAE, Kuwait, Singapore and Jordan: men](#saudi-arabia-uae-kuwait-singapore-and-jordan-men)
+  - [12.4 Russia war front](#russia-war-front)
+  - [12.5 Other corridors](#other-corridors-1)
+  - [12.6 Unconfirmed name matches (do not cite against an RL)](#unconfirmed-name-matches-do-not-cite-against-an-rl)
+- [13 Agencies with evidence of fair recruitment](#agencies-with-evidence-of-fair-recruitment)
 - [References](#references)
 
-## How to use this list
+<a id="how-to-use-this-list"></a>
+
+## 1 How to use this list
 
 **Who you are actually dealing with.** Most people never meet an agency first: 78% of returnees in a survey by the ITUC (International Trade Union Confederation) heard of their job through a sub-agent or broker (দালাল) <sup>[N6](#n6)</sup>. Since 2023 an agency may appoint only a person registered under the rules as its sub-agent <sup>[3 (2023)](#o3)</sup>. **Need to know:** is there a public list of registered sub-agents a worker can check a broker's name against? The agency whose licence files your BMET papers is often not the one that sold you the visa <sup>[N7](#n7), [N8](#n8)</sup>. A Saudi worker who paid a broker Tk 5.5 lakh found no company and no iqama (residence card), and the licensed agency's owner told Channel 24 "they bought the visa from Saiful of Maulana Overseas; we only processed it" <sup>[N7](#n7)</sup>. Many routes into irregular work do not touch a recruiting licence at all: they run through travel agencies on tourist or visit visas, such as the Dubai tourist visa that starts the Libya route and the UAE visit visas sold with BMET smart cards in 2021-22 (see Libya and the UAE red flags) <sup>[N9](#n9), [N10 (2022)](#n10)</sup>. OEP's agency list covers recruiting licences only, so it will not show these travel agencies <sup>[2](#o2)</sup>. BMET's complaint form asks for the agency's name, RL number and address, or the broker's name, age, parents' names and address, so write down the broker, the agency you paid and the agency on your BMET papers <sup>[4](#o4)</sup>.
 
 **Before you pay anything:**
 
-1. **Get the agency's RL number and check its licence.** The RL number is the recruiting licence number, written RL plus four digits <sup>[2](#o2)</sup>. Open oep.gov.bd/agencies (the agent list on the Overseas Employment Platform, BMET's online system) and compare its name, address, office phone, status and validity date with what you were told <sup>[2](#o2)</sup>. An Active licence is not a clean record: Greenland Overseas and Navira, both in the ACC's (Anti-Corruption Commission's) Sep 2025 cases, show Active, and so do agencies whose owners were arrested over girls who died in Saudi Arabia <sup>[N2](#n2), [2](#o2), [N11 (2020)](#n11)</sup>.
-2. **Ask for the BMET permission letter for your job (নিয়োগানুমতি).** BMET issues one for each job order it approves: it names the agency and RL, the employer with its visa and demand numbers, each job with posts and salary, the contract length, what the employer pays, and the most the agency may take from you (সর্বোচ্চ অভিবাসন ব্যয়), payable only by cheque, bank draft or pay order <sup>[5](#o5), [6](#o6)</sup>. The cap differs by job order: Tk 58,610 on Bonanza Overseas' Sep 2025 Saudi construction letter, Tk 19,560 on its Nov 2024 Qatar hospitality letter <sup>[5](#o5), [7 (2024)](#o7)</sup>. One Saudi letter lets the agency collect only once the visa, BMET clearance and flight are confirmed, and makes it give each worker a Bangla translation of the contract <sup>[6](#o6)</sup>. BMET posted letters at bmet.gov.bd/pages/miscellaneous-infos until 10 Dec 2025 <sup>[1](#o1)</sup>. Most Saudi-bound workers go on single visas, which come one at a time and are processed without a bulk job order (see [Saudi Arabia](#saudi-arabia)) <sup>[N12 (2023)](#n12), [N13](#n13)</sup>. **Need to know:** does BMET clearance on a Saudi single visa produce a permission letter the worker can see, and if not, which document shows the most the agency may take? **Need to know:** where can a worker see a permission letter issued after Feb 2026?
-3. **Check the visa and contract.** BMET says there is no such thing as a "free visa" (ফ্রি ভিসা) and asks workers to have any visa offered checked at BMET in Dhaka or the district manpower office (DEMO), and to see the demand letter and a contract attested by the destination's embassy <sup>[8](#o8)</sup>. In Saudi Arabia a citizen can get a visa to hire one worker for SR 2,000 with no check that the job exists, then sell it on; BMET's director general said in 2023 that more than half of Saudi visas come one at a time and only the visa's authenticity is checked <sup>[N12 (2023)](#n12)</sup>. **Need to know:** is the SR 2,000 the Saudi labour ministry's non-refundable work-visa issuance fee, or a refundable deposit as Prothom Alo reported? In 2026 the state minister said BMET can verify visas for only four or five countries, and airport immigration found one Oman spouse-visa approval used for five women on different passports <sup>[N14](#n14)</sup>.
-4. **If you are a woman going as a domestic worker, you should pay nothing.** An agency approved to send women domestic workers may take no migration cost from her <sup>[9](#o9)</sup>. In 2019 agency owners said they paid a broker Tk 40,000-50,000 for each woman and the Saudi recruitment office deposited at least USD 2,000 in the Bangladeshi agency's account once she arrived <sup>[N15 (2019)](#n15)</sup>. So the money flows to whoever delivers her, and the documented lure is a promise, not a charge: RAB (the Rapid Action Battalion, an elite police unit) said Concorde Apex lured women with high pay and a free Hajj <sup>[N16 (2022)](#n16)</sup>. If she comes back before the contract ends, the agency owes the Saudi employer a replacement worker or USD 2,000 <sup>[N17 (2021)](#n17)</sup>. **Need to know:** in 2026, do brokers hand women or their families cash to sign, how much, and what do they promise? **Need to know:** what does a Saudi office pay a Bangladeshi agency per woman in 2026? Anyone who offers to change your age on the passport or use another woman's passport number is using the trick at the centre of ACC cases (below) <sup>[N18](#n18), [N17 (2021)](#n17)</sup>.
-5. **Pay through the bank, and record every cash payment too.** BMET advises paying the agency through the bank and keeping the receipt <sup>[8](#o8)</sup>. But agencies typically take Tk 4-5 lakh against an official Tk 1.2-1.5 lakh and give no written receipt for the rest, and visa payments above the cap are usually made outside the banking channel <sup>[N19 (2024)](#n19), [N20 (2022)](#n20)</sup>. A bank receipt for the capped amount only proves the capped amount; a complaint can only recover what you can prove <sup>[N19 (2024)](#n19)</sup>. So for every cash payment, note who took it, when, where and how much, and keep a witness or a bKash or Nagad (mobile-money) trail <sup>[N19 (2024)](#n19), [4](#o4)</sup>. **Need to know:** at a BMET hearing in 2026, what does a worker with no receipt get: the permission-letter figure, or nothing?
-6. **Government routes cost less, but brokers work there too.** BOESL (Bangladesh Overseas Employment and Services Ltd, the state-owned agency) charges candidates no fee, police say, though its routes carry costs: about USD 900 for Korea, Tk 2.31 lakh for Romania in 2023 <sup>[N21](#n21), [N22 (2023)](#n22), [N23 (2023)](#n23)</sup>. Brokers sell access to BOESL's selection: one woman paid a broker Tk 65,000 to get through BOESL's sewing test for Jordan, a worker alleged brokers bribe BOESL interviewers and mark their candidates with a nail-polish colour on a set finger, and in Oct 2026 a mobile court sentenced 12 brokers caught outside the Bangladesh-Korea Technical Training Centre who took Tk 40,000 to Tk 10 lakh promising jobs and exam passes <sup>[N24 (2018)](#n24), [N21](#n21)</sup>. BOESL is also among the 57 agencies whose records the ACC sought in its Jul 2026 inquiry into sending women to the Middle East on fake "returnee" passports <sup>[N25](#n25)</sup>. For Malaysia's 2026 zero-cost jobs, BOESL picks candidates by software lottery from online applications and then the employer tests them <sup>[N26](#n26)</sup>.
+1. <a id="how-to-use-this-list-item-1"></a>**Get the agency's RL number and check its licence.** The RL number is the recruiting licence number, written RL plus four digits <sup>[2](#o2)</sup>. Open oep.gov.bd/agencies (the agent list on the Overseas Employment Platform, BMET's online system) and compare its name, address, office phone, status and validity date with what you were told <sup>[2](#o2)</sup>. An Active licence is not a clean record: Greenland Overseas and Navira, both in the ACC's (Anti-Corruption Commission's) Sep 2025 cases, show Active, and so do agencies whose owners were arrested over girls who died in Saudi Arabia <sup>[N2](#n2), [2](#o2), [N11 (2020)](#n11)</sup>.
+2. <a id="how-to-use-this-list-item-2"></a>**Ask for the BMET permission letter for your job (নিয়োগানুমতি).** BMET issues one for each job order it approves: it names the agency and RL, the employer with its visa and demand numbers, each job with posts and salary, the contract length, what the employer pays, and the most the agency may take from you (সর্বোচ্চ অভিবাসন ব্যয়), payable only by cheque, bank draft or pay order <sup>[5](#o5), [6](#o6)</sup>. The cap differs by job order: Tk 58,610 on Bonanza Overseas' Sep 2025 Saudi construction letter, Tk 19,560 on its Nov 2024 Qatar hospitality letter <sup>[5](#o5), [7 (2024)](#o7)</sup>. One Saudi letter lets the agency collect only once the visa, BMET clearance and flight are confirmed, and makes it give each worker a Bangla translation of the contract <sup>[6](#o6)</sup>. BMET posted letters at bmet.gov.bd/pages/miscellaneous-infos until 10 Dec 2025 <sup>[1](#o1)</sup>. Most Saudi-bound workers go on single visas, which come one at a time and are processed without a bulk job order (see [Saudi Arabia](#saudi-arabia)) <sup>[N12 (2023)](#n12), [N13](#n13)</sup>. **Need to know:** does BMET clearance on a Saudi single visa produce a permission letter the worker can see, and if not, which document shows the most the agency may take? **Need to know:** where can a worker see a permission letter issued after Feb 2026?
+3. <a id="how-to-use-this-list-item-3"></a>**Check the visa and contract.** BMET says there is no such thing as a "free visa" (ফ্রি ভিসা) and asks workers to have any visa offered checked at BMET in Dhaka or the district manpower office (DEMO), and to see the demand letter and a contract attested by the destination's embassy <sup>[8](#o8)</sup>. In Saudi Arabia a citizen can get a visa to hire one worker for SR 2,000 with no check that the job exists, then sell it on; BMET's director general said in 2023 that more than half of Saudi visas come one at a time and only the visa's authenticity is checked <sup>[N12 (2023)](#n12)</sup>. **Need to know:** is the SR 2,000 the Saudi labour ministry's non-refundable work-visa issuance fee, or a refundable deposit as Prothom Alo reported? In 2026 the state minister said BMET can verify visas for only four or five countries, and airport immigration found one Oman spouse-visa approval used for five women on different passports <sup>[N14](#n14)</sup>.
+4. <a id="how-to-use-this-list-item-4"></a>**If you are a woman going as a domestic worker, you should pay nothing.** An agency approved to send women domestic workers may take no migration cost from her <sup>[9](#o9)</sup>. In 2019 agency owners said they paid a broker Tk 40,000-50,000 for each woman and the Saudi recruitment office deposited at least USD 2,000 in the Bangladeshi agency's account once she arrived <sup>[N15 (2019)](#n15)</sup>. So the money flows to whoever delivers her, and the documented lure is a promise, not a charge: RAB (the Rapid Action Battalion, an elite police unit) said Concorde Apex lured women with high pay and a free Hajj <sup>[N16 (2022)](#n16)</sup>. If she comes back before the contract ends, the agency owes the Saudi employer a replacement worker or USD 2,000 <sup>[N17 (2021)](#n17)</sup>. **Need to know:** in 2026, do brokers hand women or their families cash to sign, how much, and what do they promise? **Need to know:** what does a Saudi office pay a Bangladeshi agency per woman in 2026? Anyone who offers to change your age on the passport or use another woman's passport number is using the trick at the centre of ACC cases (below) <sup>[N18](#n18), [N17 (2021)](#n17)</sup>.
+5. <a id="how-to-use-this-list-item-5"></a>**Pay through the bank, and record every cash payment too.** BMET advises paying the agency through the bank and keeping the receipt <sup>[8](#o8)</sup>. But agencies typically take Tk 4-5 lakh against an official Tk 1.2-1.5 lakh and give no written receipt for the rest, and visa payments above the cap are usually made outside the banking channel <sup>[N19 (2024)](#n19), [N20 (2022)](#n20)</sup>. A bank receipt for the capped amount only proves the capped amount; a complaint can only recover what you can prove <sup>[N19 (2024)](#n19)</sup>. So for every cash payment, note who took it, when, where and how much, and keep a witness or a bKash or Nagad (mobile-money) trail <sup>[N19 (2024)](#n19), [4](#o4)</sup>. **Need to know:** at a BMET hearing in 2026, what does a worker with no receipt get: the permission-letter figure, or nothing?
+6. <a id="how-to-use-this-list-item-6"></a>**Government routes cost less, but brokers work there too.** BOESL (Bangladesh Overseas Employment and Services Ltd, the state-owned agency) charges candidates no fee, police say, though its routes carry costs: about USD 900 for Korea, Tk 2.31 lakh for Romania in 2023 <sup>[N21](#n21), [N22 (2023)](#n22), [N23 (2023)](#n23)</sup>. Brokers sell access to BOESL's selection: one woman paid a broker Tk 65,000 to get through BOESL's sewing test for Jordan, a worker alleged brokers bribe BOESL interviewers and mark their candidates with a nail-polish colour on a set finger, and in Oct 2026 a mobile court sentenced 12 brokers caught outside the Bangladesh-Korea Technical Training Centre who took Tk 40,000 to Tk 10 lakh promising jobs and exam passes <sup>[N24 (2018)](#n24), [N21](#n21)</sup>. BOESL is also among the 57 agencies whose records the ACC sought in its Jul 2026 inquiry into sending women to the Middle East on fake "returnee" passports <sup>[N25](#n25)</sup>. For Malaysia's 2026 zero-cost jobs, BOESL picks candidates by software lottery from online applications and then the employer tests them <sup>[N26](#n26)</sup>.
 
 **How to read activity and flags.** "Letters" and "workers" below show job orders BMET approved and posted, not workers who went and not how they were treated (see [How the numbers were counted](#how-the-numbers-were-counted)) <sup>[1](#o1)</sup>. A red flag is an allegation, an investigation or an official action; unless a court verdict is named, nothing is proven, and denials are given where reported <sup>[N27](#n27), [N28 (2024)](#n28)</sup>. Flags reflect which cases the ACC, police and press have taken up so far, mostly against owners tied to the Awami League government that fell on 5 Aug 2024; no flag does not mean an agency active now is clean <sup>[N3](#n3), [N2](#n2), [N29 (2024)](#n29), [N30](#n30)</sup>. An Active status says nothing about old flags: HA International, suspended in 2019 over women's deaths and sued by the ACC in 2025, shows Active <sup>[N15 (2019)](#n15), [N18](#n18), [2](#o2)</sup>. No official grading of agencies exists, and the state minister said he could not confidently recommend any agency <sup>[N31](#n31)</sup>. OEP shows each licence as Active, Expired, Suspended, Cancelled or Server Locked <sup>[2](#o2)</sup>. A BMET director said in Jan 2024 that BMET had locked many agencies' servers (সার্ভার লক), meaning their system access, over serious complaints <sup>[N32 (2024)](#n32)</sup>. **Need to know:** while an agency is Server Locked, can it still get clearances through another licence, and what must it do to be unlocked?
 
@@ -46,7 +52,9 @@ This doc covers the licensed recruiting agencies named on the job orders BMET (t
 
 What actually happens: BMET writes to the agency and calls both sides to a hearing (শুনানি); agencies often ignore the letter or skip hearings, and the hearing ends in a negotiated settlement (আপস, which workers call সালিশ) <sup>[N35](#n35), [N19 (2024)](#n19), [N36 (2021)](#n36)</sup>. In 2025 BMET received 4,900 complaints, settled 2,054 and recovered Tk 9.92 crore <sup>[N35](#n35)</sup>; over 90% of 2025 complaints were about Saudi Arabia: no iqama, no work, late pay <sup>[N37](#n37)</sup>. Over 2019-23, 61% of complainants got no remedy <sup>[N19 (2024)](#n19)</sup>. Of 38 settled cases of returnee women that OKUP followed, 54% got Tk 5,000-20,000, because BMET counts unpaid salary as the compensation and not the migration cost <sup>[N38 (2021)](#n38)</sup>; OKUP's chair says proven cases settle for Tk 30,000-40,000 for women and Tk 50,000-60,000 for men, against Tk 3-5 lakh paid <sup>[N39](#n39)</sup>. At one hearing the agency's representative told a woman, in front of the BMET officer, to come to the agency's office to settle <sup>[N38 (2021)](#n38)</sup>. Where BMET does act, money comes back: after relatives of five Cumilla cleaners left without work or iqama in Saudi Arabia complained, BMET had them moved to another company and recovered Tk 1.3 lakh each from Arabian Services Company in Oct 2023 <sup>[N32 (2024)](#n32)</sup>. Since late 2021 police may not arrest a licensed agent directly on a trafficking victim's case; it goes to BMET for negotiation first <sup>[N17 (2021)](#n17)</sup>. **Need to know:** is that BMET-first rule still applied by police in 2026?
 
-## How the numbers were counted
+<a id="how-the-numbers-were-counted"></a>
+
+## 2 How the numbers were counted
 
 The letter and worker counts in this list are our own count; no one publishes them <sup>[1](#o1)</sup>. We downloaded every permission letter BMET posted at bmet.gov.bd/pages/miscellaneous-infos, from 7 June 2023 to 10 December 2025, and read each one: 3,045 letters once reposts are removed, naming 618 agencies and approving about 259,000 posts <sup>[1](#o1)</sup>. A permission letter is BMET's approval for an agency to process clearance for a set number of workers for a named employer <sup>[5](#o5), [14](#o14)</sup>. So:
 
@@ -64,7 +72,9 @@ The data is in `agencies/activity.csv`, one row per letter with a link to its PD
 
 **Other counts in `activity-other.csv`.** It holds the ACC's per-agency worker counts for 22 agencies (allegations of overcharging), Kaler Kantho's and Prothom Alo's counts from BMET clearance data, Japan's list of approved sending organisations, and the 45 licences cancelled on 30 Oct 2025 <sup>[N40 (2024)](#n40), [N8](#n8), [15](#o15), [16](#o16), [N43](#n43)</sup>.
 
-## Who is behind the agencies
+<a id="who-is-behind-the-agencies"></a>
+
+## 3 Who is behind the agencies
 
 **One licence each, on paper.** The 2025 licence rules bar anyone from holding more than one licence or a share in more than one; a family member (spouse, parents, dependent children, full siblings) may get a separate licence only with an office in a separate building, their own income, trade licence and staff <sup>[17](#o17)</sup>. A licence cannot be transferred, and no share or director may change without government approval <sup>[17](#o17)</sup>. Two Kakrail owners told Naya Diganta in Aug 2025 that they each held two licences; one said BMET server-locked one after complaints and he now trades on the other <sup>[N44](#n44)</sup>. A white-paper committee member says it recommended removing licences from people holding four or five, and the Ministry's senior secretary called granting licences "mainly a political decision" <sup>[N45](#n45)</sup>.
 
@@ -95,7 +105,9 @@ The data is in `agencies/activity.csv`, one row per letter with a link to its PD
 
 **Who the big players are, by the government's own measure.** Since 2021 the Ministry can name up to 20 recruiting agents a year CIP (foreign employment), and the main test is volume: at least 2,000 workers sent in the period assessed <sup>[N47 (2021)](#n47)</sup>. The list is published as a gazette <sup>[N47 (2021)](#n47)</sup>. **Need to know:** which agency owners were named CIP (foreign employment) in 2022-26, and where is the gazette?
 
-## Saudi Arabia
+<a id="saudi-arabia"></a>
+
+## 4 Saudi Arabia
 
 Posted letters cover about 5% of the flow: 70,145 workers on letters over 2.5 years, against about 628,000 departures in 2024 and 752,715 in 2025 <sup>[1](#o1), [N71](#n71), [N1](#n1)</sup>. So the letters cannot show who the big Saudi senders are.
 
@@ -113,7 +125,9 @@ In March 2023 Saudi Arabia's anti-corruption authority, Nazaha, arrested the for
 
 **Agencies with posted Saudi letters and a flag.** The posted letters name 370 agencies <sup>[1](#o1)</sup>. Greenland Overseas (RL0040) has the most posted Saudi workers, 7,421, and Career Overseas Consultants (RL0403) and United Gulf Services (RL1036) are also among the top ten; all three have Malaysia flags <sup>[1](#o1), [N2](#n2), [N76](#n76), [N77](#n77)</sup>. Bonanza Overseas (RL0579) has 1,642 posted Saudi workers; its fair-recruitment evidence is for Qatar only <sup>[1](#o1), [N4 (2022)](#n4)</sup>. Saudi complaints against named agencies are under red flags.
 
-## Malaysia
+<a id="malaysia"></a>
+
+## 5 Malaysia
 
 Posted letters cover about a fifth of the last round: 102,451 workers on 1,092 letters from 155 agencies, against about 476,672 who went between Aug 2022 and May 2024 <sup>[1](#o1), [N78 (2024)](#n78)</sup>.
 
@@ -145,7 +159,9 @@ BRAC Probashbandhu, BRAC's own agency, is listed as an associate under Motherlan
 - **Al-Bhokhari International (RL0301)**: 24 letters, 1,220 workers <sup>[1](#o1)</sup>.
 - **Greenland Overseas (RL0040)**: 21 letters, 1,166 workers <sup>[1](#o1)</sup>; see red flags.
 
-## UAE
+<a id="uae"></a>
+
+## 6 UAE
 
 The UAE letters approve 31,081 posts, more than the 13,713 Bangladeshis who went to the UAE in 2025 <sup>[1](#o1), [N93](#n93)</sup>. Much UAE traffic has run outside job orders: in 2021-22 BMET smart cards were sold to brokers who sent people on visit visas with no job (see red flags) <sup>[N10 (2022)](#n10)</sup>. Matco Enterprise and Al Saad Labour Supply run from one office and are linked to an MP; see Who is behind the agencies <sup>[2](#o2), [N62](#n62)</sup>.
 
@@ -158,7 +174,9 @@ The UAE letters approve 31,081 posts, more than the 13,713 Bangladeshis who went
 - **Navira Limited (RL0712)**: 4 letters, 1,491 workers <sup>[1](#o1)</sup>; see red flags.
 - **Al Sourav Overseas (RL1028)**: 4 letters, 1,155 workers <sup>[1](#o1)</sup>.
 
-## Russia
+<a id="russia"></a>
+
+## 7 Russia
 
 84 letters for 8,084 workers, from 37 agencies <sup>[1](#o1)</sup>. Several agencies on this route lost their licences in 2026 over sending young men to Russia's war front; see red flags <sup>[N94](#n94)</sup>.
 
@@ -169,21 +187,29 @@ The UAE letters approve 31,081 posts, more than the 13,713 Bangladeshis who went
 - **BOESL (RL0147)**: 1 letter, 675 workers <sup>[1](#o1)</sup>.
 - **Manispower Corporation (RL0973)**: 5 letters, 53 workers <sup>[1](#o1)</sup>; Cancelled on OEP, revoked in the Jul 2026 gazette <sup>[2](#o2), [N92](#n92)</sup>.
 
-## Jordan
+<a id="jordan"></a>
+
+## 8 Jordan
 
 Posted letters approve 15,684 posts, almost all BOESL's, against 12,268 who went to Jordan in 2025 <sup>[1](#o1), [N93](#n93)</sup>. BOESL's site carries a current notice for Jordan garment jobs <sup>[20](#o20)</sup>. Women recruited through BOESL for Jordan's garment factories told the ILO (International Labour Organization) in 2018 they paid Tk 14,000-25,000 in all, covering BOESL's fee, passport, medical and fingerprints, though brokers also sell places in BOESL's selection; see [How to use this list](#how-to-use-this-list), step 6 <sup>[N24 (2018)](#n24)</sup>. The trick on this route is a "garments visa" sold in a real factory's name by someone with no licence; see red flags <sup>[N95](#n95)</sup>.
 
-## South Korea
+<a id="south-korea"></a>
+
+## 9 South Korea
 
 South Korea hires through EPS (Employment Permit System), a government-to-government scheme run on the Bangladesh side by BOESL; one BOESL letter covers 10,000 workers <sup>[21 (2024)](#o21), [20](#o20)</sup>. EPS workers pay about USD 900, against over USD 4,000 for the same destination through private agencies <sup>[N22 (2023)](#n22)</sup>. Brokers sell "guaranteed" places and exam passes on it; see [How to use this list](#how-to-use-this-list), step 6 <sup>[N21](#n21)</sup>. Thirteen private agencies hold small Korea letters, 567 posts in all; two of them, The Gazipur Air International (RL0891) and RRC Human Resource Services (RL1307), have flags <sup>[1](#o1)</sup>.
 
-## Libya
+<a id="libya"></a>
+
+## 10 Libya
 
 Libya is the first leg of the boat route to Italy. Bangladeshis made up 2,510 of the 8,489 crossings Frontex (the EU border agency) recorded on the Central Mediterranean route in Jan-Apr 2026, nearly one in three, and 20,259 Bangladeshis reached Europe by the Mediterranean in 2025 <sup>[N9](#n9), [N96](#n96)</sup>. The usual path is a tourist visa to Dubai, then Egypt, then Benghazi; many were told they were going to Kuwait or Malaysia and found out in Dubai or Cairo <sup>[N9](#n9)</sup>. People who enter Libya legally by air are promised work while they wait for a "next visa" to Italy, then lose their passports and are sold on <sup>[N97](#n97)</sup>. A full Italy package costs USD 10,000-14,000 and reaches USD 15,000-17,000 with charges inside Libya; on Facebook and TikTok it is sold as "Full Italy package Tk14 lakh" and the crossing is called a "game", and people told they can pay on arrival in Italy are held in Libya while their families are asked for Tk 25-30 lakh <sup>[N9](#n9), [N96](#n96)</sup>. After 26 Bangladeshis were killed at Mizda, Libya, in 2020, the CID arrested a recruiting agency's chairman, Sheikh Mahbubur Rahman, and his brother, its MD, and seized about 300 passports from two agencies <sup>[N98 (2020)](#n98)</sup>.
 
 BMET's posted Libya letters approve 1,209 posts across 13 agencies, led by Godhuli Overseas (RL1092, 385) and Arabian Overseas (RL2435, 370); Rabbi International (RL0258, 165) is a revoked Malaysia-syndicate agency <sup>[1](#o1), [2](#o2), [N92](#n92)</sup>. **Need to know:** are the employers on these Libya letters real, and how many of the workers cleared for Libya in 2023-25 are now in Italy?
 
-## Other corridors
+<a id="other-corridors"></a>
+
+## 11 Other corridors
 
 Where the letters cover a small share of the flow, or name one or two agencies, they show little; each corridor in one line:
 
@@ -197,11 +223,15 @@ Where the letters cover a small share of the flow, or name one or two agencies, 
 - **Oman**: Oman has a suspension on general worker visas and women domestic workers; one Oman spouse-visa approval was used for five women <sup>[N14](#n14)</sup>.
 - **Romania and Europe**: private agencies charged Tk 6-8 lakh for Romania in 2023 against BOESL's Tk 2.31 lakh, and a Romania-Bangladesh chamber leader handled at least 200 cases of workers who got no job or a lower salary on arrival <sup>[N23 (2023)](#n23)</sup>. The CEO of Infinity HCM (RL1981, the only agency on the posted Romania letters) said Bangladeshis already in Romania recruit through brokers and get BMET approval through Bangladeshi agencies, so workers do not know the agency's name; the Bangladesh ambassador said agencies process any file that pays more, including people who mean to move on to Italy or France <sup>[1](#o1), [N23 (2023)](#n23)</sup>. **Need to know:** what does a Romania, Serbia or Croatia work permit sell for in 2026, and what share of permits paid for never arrive?
 
-## Agencies with red flags
+<a id="agencies-with-red-flags"></a>
+
+## 12 Agencies with red flags
 
 Unless a court is named, each item is an allegation, an investigation or an administrative action, not a verdict <sup>[N27](#n27)</sup>. OEP status is as of 7 Nov 2026 <sup>[2](#o2)</sup>. An RL number is given only where the source prints it or an address matches; name-only matches are listed separately at the end.
 
-### Malaysia syndicate
+<a id="malaysia-syndicate"></a>
+
+### 12.1 Malaysia syndicate
 
 The ACC alleges that agency owners used their posts in BAIRA to form a syndicate that charged Malaysia-bound workers nearly five times the government rate of Tk 78,990 <sup>[N2](#n2)</sup>. It approved cases against 12 agencies in Mar 2025, filed cases against 13 more in Sep 2025, added more in Nov 2025, and on 10 Dec 2025 filed a case against 124 people from 60 unnamed agencies <sup>[N3](#n3), [N2](#n2), [N41](#n41), [N42](#n42), [N101](#n101)</sup>. Owners of three agencies outside the 2022-24 syndicate told Prothom Alo in May 2024 they paid syndicate agencies Tk 152,000-165,000 per worker to send workers in their name <sup>[N28 (2024)](#n28)</sup>. On 19 Jul 2026 the Ministry revoked 49 licences by gazette after a court accepted the charge sheet <sup>[N92](#n92)</sup>. The High Court stayed the revocation on writs by New Edge International and others; the Appellate Division chamber judge stayed those orders by 4 Oct 2026, so the revocation stands <sup>[N102](#n102)</sup>. In the separate Paltan trafficking case (103 accused), the CID filed a final report on 15 Jul 2025 finding no evidence, and the plaintiff challenged it <sup>[N27](#n27)</sup>. BAIRA members allege a supplementary charge sheet dropped Ruhul Amin Swapan's name so he could send workers to Malaysia again (Desh Rupantor, Aug 2026) <sup>[N30](#n30)</sup>.
 
@@ -251,7 +281,9 @@ In 2016-18 Malaysia picked 10 agencies from 745 Bangladesh proposed, without giv
 
 The 19 Jul 2026 gazette also revoked 26 other licences with no other flag found; they are listed in `agencies.csv` <sup>[N92](#n92)</sup>.
 
-### Saudi Arabia and the Gulf: women domestic workers
+<a id="saudi-arabia-and-the-gulf-women-domestic-workers"></a>
+
+### 12.2 Saudi Arabia and the Gulf: women domestic workers
 
 The tricks that recur in these cases are a girl's age raised on her passport to reach the minimum, a woman's age lowered to fit the age limit, a first-timer passed off as a returnee (ফেরত কর্মী), and women sent without the required training or medical test <sup>[N17 (2021)](#n17), [N15 (2019)](#n15), [N18](#n18)</sup>. In 2019 the age band for women going to Saudi Arabia was 25 to 45 <sup>[N15 (2019)](#n15)</sup>. BMET officials said in 2019 that brokers hired by agencies bribed Technical Training Centres for certificates without the training <sup>[N15 (2019)](#n15)</sup>. In Sep 2020 the convener of an agency owners' group protested outside an agency during a RAB raid, saying agency owners cannot be arrested as traffickers <sup>[N114 (2020)](#n114)</sup>. **Need to know:** what came of the 2019 suspensions: were they lifted after a hearing, fined, or deposits forfeited?
 
@@ -264,7 +296,9 @@ The tricks that recur in these cases are a girl's age raised on her passport to 
 - **Suspended on 31 Oct 2019 after 16 women sent to Saudi Arabia died by suicide or were killed** (Prothom Alo, Dec 2019; names as printed, no RL given): Ummul Qura Overseas, Rabah International, The Gazipur Air International, Habib Associates, Al-Jabeen Establishment, Saudia Recruiting Agency, Universal Overseas, Al-Rahat Air International, Al Mobarak International, HA International, Top Ten Overseas, Amir Aviation, Airway International, NMSS International and Al Sikder International <sup>[N15 (2019)](#n15)</sup>. Universal Overseas' proprietor told Prothom Alo he had sent 1,400 women in three years <sup>[N15 (2019)](#n15)</sup>. Joti Trade International and Ruposhi Bangla Overseas were suspended over Sumi Akter, who came back abused <sup>[N15 (2019)](#n15)</sup>.
 - **Named in the Bangladesh embassy in Riyadh's letter of 21 Nov 2019** (Prothom Alo; names as printed, no RL given); BMET then suspended 13 of the 14 age-fraud agencies pending inquiry, without saying which one was spared <sup>[N15 (2019)](#n15)</sup>. Age raised: Concorde Apex, Al-Hasib Overseas, Barcelona Overseas, Model Aviation, East West Trade Linkers, Al-Mass International <sup>[N15 (2019)](#n15)</sup>. Age lowered below the limit: Tania Trade International, ATB Overseas, Vely Trade International, Mother Overseas Systems, Rifa International, Maruf International and Winter Overseas <sup>[N15 (2019)](#n15)</sup>. Without proper training or a medical test: Mohona Overseas, Concorde Apex, Madani Travels, Masum Brothers Syndicate, East West Trade Linkers, Brahmanbaria Export, Taslim Air International, Al-Abedin International, Top Ten Overseas, The Gazipur Air International, Neighbour Associates, A. Halim International, The Kazi Rich Overseas, Probashi International, Al-Zubaidi International, Al Mahmud Trade International, Rose Aviation System, Al Mamun Overseas <sup>[N15 (2019)](#n15)</sup>. Without proper training: Maas Trade International, Barcelona Overseas, Al-Najah Overseas, Leeds HR Solutions, Shandhany Overseas, Model Aviation, S M International, M H Trade International, Adeb Air Travels & Tours, Runway International, Oparajita Overseas, Nemira Overseas <sup>[N15 (2019)](#n15)</sup>. The Gazipur Air International and Top Ten Overseas denied sending women without a medical test <sup>[N15 (2019)](#n15)</sup>. **Need to know:** which agency was the 14th, the one BMET did not suspend?
 
-### Saudi Arabia, UAE, Kuwait, Singapore and Jordan: men
+<a id="saudi-arabia-uae-kuwait-singapore-and-jordan-men"></a>
+
+### 12.3 Saudi Arabia, UAE, Kuwait, Singapore and Jordan: men
 
 - **New Hope International Overseas (RL2424).** A Khulna man paid Tk 4.2 lakh for a Saudi motorbike food-delivery job and got no work; his father's BMET complaint of Sep 2023 alleges the owner asked Tk 2 lakh more for a new visa, while the owner, Habibur Rahman, says the worker kept failing the Saudi driving test (Inqilab) <sup>[N32 (2024)](#n32)</sup>.
 - **Arabian Services Company (RL0783).** BMET recovered Tk 1.3 lakh each for five cleaners it sent to a Saudi company that gave them no work or iqama (Inqilab, Jan 2024) <sup>[N32 (2024)](#n32)</sup>.
@@ -273,7 +307,9 @@ The tricks that recur in these cases are a girl's age raised on her passport to 
 - **Singapore: the Weltec test centre.** A complaint to the Ministry said The Gazipur Air International (RL0891), Al Jannat Overseas (RL0926), RX Care International (RL1240) and Welltech Employments Services (RL1254) kept sending workers through the Weltec skills-test centre after Singapore's BCA cancelled its approval, and hid it; Ittefaq reported in Mar 2023 that a Ministry inquiry found evidence of fraud and no action was taken <sup>[N100 (2022)](#n100), [N118 (2023)](#n118)</sup>. Sources also told Ittefaq that The Gazipur Air International submitted fake BCA approval certificates to renew its test-centre licence from 2018 to 2022 <sup>[N118 (2023)](#n118)</sup>. BMET show-caused "Oasis Overseas Services" for taking clearance for 3,037 workers to Singapore after it was dropped from the sending list <sup>[N100 (2022)](#n100)</sup>.
 - **Jordan: Surah Travels and Traders (no licence).** CID arrested three at its North Badda office in Jun 2026 and seized 55 passports and 16 job agreements on stamp paper; CID says it used the name and seal of Jerash Garments of Amman without permission and took about Tk 2 lakh per worker for Jordan visas, and the case surfaced when the company complained through the Bangladesh embassy in Jordan <sup>[N95](#n95)</sup>.
 
-### Russia war front
+<a id="russia-war-front"></a>
+
+### 12.4 Russia war front
 
 - **RS International (RL1428)**, Cancelled on OEP <sup>[2](#o2)</sup>. Licence cancelled and security deposit forfeited on 1 Jun 2026 over allegedly sending young men to Russia's war front or risky work <sup>[N94](#n94)</sup>.
 - **Jabal-E-Noor International Ltd (RL2505)**, Cancelled on OEP <sup>[2](#o2)</sup>. Licence cancelled and security deposit forfeited on 1 Jun 2026 over allegedly sending young men to Russia's war front or risky work <sup>[N94](#n94)</sup>. The Bangladesh Embassy's labour wing in Moscow refused to attest its May 2026 request to send 70 workers to Russia <sup>[N119](#n119)</sup>.
@@ -281,7 +317,9 @@ The tricks that recur in these cases are a girl's age raised on her passport to 
 - **Banna Bijoy Overseas Ltd (RL1314)**, Server Locked on OEP <sup>[2](#o2)</sup>. Prothom Alo reports a human trafficking case against it and allegations over Algeria and Russia (Oct 2026), while clearances continue in its name <sup>[N119](#n119)</sup>.
 - **Dream Home Travels & Tours Ltd** (a travel agency, not a recruiting licence). The Civil Aviation Ministry cancelled its travel-agency registration in Aug 2025 after a CID probe into sending young men to Russia's war front; a partner was arrested <sup>[N120](#n120)</sup>. The UK sanctioned it in May 2026 for allegedly trafficking people to fight for Russia <sup>[N121](#n121)</sup>.
 
-### Other corridors
+<a id="other-corridors-1"></a>
+
+### 12.5 Other corridors
 
 - **Makkah Madina Trade International (RL0810)**, Active on OEP <sup>[2](#o2)</sup>. Workers sent to Kyrgyzstan as garment workers told the Daily Star in 2022 they were promised Tk 55,000 a month and sold to a factory owner for USD 8,300; documents show this agency sent them <sup>[N122 (2022)](#n122)</sup>.
 - **Al-Jabeen Establishment Ltd (RL0884)**, Active on OEP <sup>[2](#o2)</sup>. Workers sent to Kyrgyzstan as garment workers told the Daily Star in 2022 they were promised Tk 55,000 a month and sold to a factory owner for USD 8,300; documents show this agency sent them <sup>[N122 (2022)](#n122)</sup>. 14 workers sent to a Kyrgyz company told TBS in 2022 the promised pay of Tk 57,000 a month was not given; the MD says they failed to work as the employer demanded <sup>[N123 (2022)](#n123)</sup>. It is in the ACC's 57-agency inquiry <sup>[N25](#n25)</sup>.
@@ -292,7 +330,9 @@ The tricks that recur in these cases are a girl's age raised on her passport to 
 
 On 30 Oct 2025 the Ministry also cancelled 45 licences for not sending 100 workers since licensing, an administrative step rather than a fraud finding <sup>[N43](#n43)</sup>. **Need to know:** 14 of the 45 show Active on OEP; were they reinstated, or is OEP out of date <sup>[N43](#n43), [2](#o2)</sup>?
 
-### Unconfirmed name matches (do not cite against an RL)
+<a id="unconfirmed-name-matches-do-not-cite-against-an-rl"></a>
+
+### 12.6 Unconfirmed name matches (do not cite against an RL)
 
 These reports name an agency without an RL number or address, and the name matches more than one possible licence or only one by spelling. They are not tied to any licence here.
 
@@ -302,7 +342,9 @@ These reports name an agency without an RL number or address, and the name match
 - **"Soul Associate"**: a Tangail worker paid it Tk 3.5 lakh in May 2023 for Saudi Arabia and got no job, pay or iqama; his wife complained to BMET in Jul 2023 and the agency did not answer BMET's letter (Bonik Barta) <sup>[N19 (2024)](#n19)</sup>.
 - **"Airway International"**: a 2020 government probe into the death of Abiron in Saudi Arabia recommended cancelling its licence, among other allegations for renting it out <sup>[N126 (2020)](#n126)</sup>.
 
-## Agencies with evidence of fair recruitment
+<a id="agencies-with-evidence-of-fair-recruitment"></a>
+
+## 13 Agencies with evidence of fair recruitment
 
 Only one private agency has outside evidence of fair recruitment <sup>[N4 (2022)](#n4), [N127](#n127)</sup>.
 
@@ -310,7 +352,11 @@ Only one private agency has outside evidence of fair recruitment <sup>[N4 (2022)
 
 No Bangladeshi agency appears on the list of recruiters that have applied for IOM's IRIS ethical-recruitment certification <sup>[N127](#n127)</sup>. **Where costs did fall, the channel was the government's.** Under the 2012 Malaysia G2G (government-to-government) plantation scheme, BMET put the cost at Tk 32,100 per worker, about Tk 40,000 with passport and trips to Dhaka, against Tk 2.5-3 lakh through private agencies; it raised migrants' three-year net earnings by 87%, but only 7,616 went by Jun 2015 out of 1.45 million registered <sup>[N129 (2016)](#n129), [N22 (2023)](#n22)</sup>. Korea EPS through BOESL costs about USD 900, and Jordan garments through BOESL cost women Tk 14,000-25,000, though brokers sell places in BOESL's selection ([How to use this list](#how-to-use-this-list), step 6) <sup>[N22 (2023)](#n22), [N24 (2018)](#n24)</sup>. BOESL itself received demand for over 10,000 Malaysia workers in 2022 and sent about 1,500 <sup>[N8](#n8)</sup>. Prof. C R Abrar of RMMRU (the Refugee and Migratory Movements Research Unit) says the employer-pays principle has never been implemented in Bangladesh <sup>[N130](#n130)</sup>.
 
+<a id="references"></a>
+
 ## References
+
+<a id="official-sources"></a>
 
 ### Official sources
 
@@ -335,6 +381,8 @@ No Bangladeshi agency appears on the list of recruiters that have applied for IO
 19. <a id="o19"></a>BMET, 21 Sep 2025. [Malaysia emigration approval, Al Islam Overseas RL-0106 (160 workers)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/7a454bdff1204a4dbf9ea89edf3aada5.pdf). Accessed 7 Nov 2026. Possibly outdated.
 20. <a id="o20"></a>Bangladesh Overseas Employment and Services Ltd (BOESL). [BOESL home page: current recruitment notices](https://boesl.gov.bd/). Accessed 7 Nov 2026. Undated: possibly outdated.
 21. <a id="o21"></a>Bureau of Manpower, Employment and Training (BMET), 25 Jan 2024. [Recruitment Permission Details KR-RL0147-2024-0011365 (BOESL, South Korea)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bmet/2024/12/c1bba870f72b4744ac3499853d68186f.pdf). Accessed 7 Nov 2026. Possibly outdated.
+
+<a id="needs-an-official-source"></a>
 
 ### Needs an official source
 

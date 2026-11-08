@@ -139,19 +139,29 @@ def main():
     s = s[:i] + "## Contents\n\n\x00TOC\x00\n\n" + s[i:]
 
     # Heading ids as GitHub makes them (duplicates get -1, -2, ...); pandoc gets the same ids explicitly.
+    # Section numbers (2, 2.1, 2.1.1 ...) down to NUMBER_DEPTH heading levels below H1; 0 turns them off.
+    depth = int(os.environ.get("NUMBER_DEPTH", "3"))
     lines, heads, used, inref = s.split("\n"), [], {}, False
+    count = [0] * 7
     for n, ln in enumerate(lines):
         m = re.match(r"^(#{1,6}) (.+?)\s*$", ln)
         if not m:
             continue
-        base = re.sub(r"[^\w\- ]", "", m.group(2).lower()).replace(" ", "-")
-        k = used.get(base, 0)
-        used[base] = k + 1
-        hid = base if k == 0 else f"{base}-{k}"
         lvl = len(m.group(1))
         if lvl == 2:
             inref = m.group(2) == "References"
-        heads.append({"n": n, "lvl": lvl, "text": m.group(2), "id": hid, "ref": inref})
+        shown = m.group(2)
+        if depth and 2 <= lvl <= depth + 1 and not inref and m.group(2) != "Contents":
+            count[lvl] += 1
+            for k in range(lvl + 1, 7):
+                count[k] = 0
+            shown = ".".join(str(count[k]) for k in range(2, lvl + 1)) + " " + m.group(2)
+            lines[n] = m.group(1) + " " + shown
+        base = re.sub(r"[^\w\- ]", "", m.group(2).lower()).replace(" ", "-")  # stable: numbers never change the link
+        k = used.get(base, 0)
+        used[base] = k + 1
+        hid = base if k == 0 else f"{base}-{k}"
+        heads.append({"n": n, "lvl": lvl, "text": m.group(2), "shown": shown, "id": hid, "ref": inref})
 
     # Section of each line: index of the H2 it sits under.
     h2_of, cur = [], -1
@@ -207,10 +217,10 @@ def main():
                 return m.group(0)
             if m.group(2) and (h["id"], m.group(2)) in items:
                 aid, label = items[(h["id"], m.group(2))]
-                return f"[Step {m.group(1)}, item {m.group(2)}: {label}](#{aid})"
+                return f"[Step {m.group(1)}, item {m.group(2)}{m.group(3) or ''}: {label}](#{aid})"
             title = h["text"] if m.group(2) is None else f"Step {m.group(1)}, item {m.group(2)}"
             return f"[{title}](#{h['id']})"
-        seg = re.sub(r"\bStep (\d+)(?:, item (\d+))?\b", step, seg)
+        seg = re.sub(r"\bStep (\d+)(?:, item (\d+)((?:\.\d+)*))?\b", step, seg)
         def named_item(m):
             hid = find(m.group(1), sec)
             if hid and (hid, m.group(2)) not in items:
@@ -220,12 +230,12 @@ def main():
                 subs = [g["id"] for g in heads if h0["n"] < g["n"] < end and (g["id"], m.group(2)) in items]
                 if len(subs) == 1:
                     aid, label = items[(subs[0], m.group(2))]
-                    return f"[{m.group(1)}, item {m.group(2)}: {label}](#{aid})"
+                    return f"[{m.group(1)}, item {m.group(2)}{m.group(3)}: {label}](#{aid})"
             if hid and (hid, m.group(2)) in items:
                 aid, label = items[(hid, m.group(2))]
-                return f"[{m.group(1)}, item {m.group(2)}: {label}](#{aid})"
+                return f"[{m.group(1)}, item {m.group(2)}{m.group(3)}: {label}](#{aid})"
             return m.group(0)
-        seg = re.sub(r"(?<![\[\w])([A-Z][^,;()\[\]]{2,60}?), item (\d+)\b", named_item, seg)
+        seg = re.sub(r"(?<![\[\w])([A-Z][^,;()\[\]]{2,60}?), item (\d+)((?:\.\d+)*)\b", named_item, seg)
         def see(m):
             hid = find(m.group(2), sec) or (len(m.group(2)) >= 15 and find(m.group(2), sec, prefix=True))
             return f"{m.group(1)}[{m.group(2)}](#{hid})" if hid else m.group(0)
@@ -245,14 +255,13 @@ def main():
         out.append(link_refs(ln[last:], h2_of[n]))
         lines[n] = "".join(out)
 
-    toc = "".join("  " * (h["lvl"] - 2) + f"- [{h['text']}](#{h['id']})\n"
+    toc = "".join("  " * (h["lvl"] - 2) + f"- [{h['shown']}](#{h['id']})\n"
                   for h in heads if h["lvl"] in (2, 3, 4) and h["text"] != "Contents" and not (h["ref"] and h["lvl"] > 2))
 
     def render(gh):
         out = list(lines)
-        if not gh:
-            for h in heads:
-                out[h["n"]] = out[h["n"]] + f" {{#{h['id']}}}"
+        for h in heads:
+            out[h["n"]] = (f'<a id="{h["id"]}"></a>\n\n' + out[h["n"]]) if gh else (out[h["n"]] + f" {{#{h['id']}}}")
         t = "\n".join(out).replace("\x00TOC\x00", toc.rstrip("\n"))
         def c(m):
             items = cites[int(m.group(1))]

@@ -928,29 +928,24 @@ Your terms may be no worse than the Employment Act 1955 (the main labour law in 
 
 #### Pay and deductions
 
-##### Pay
-
+**Pay**
 Wages are paid monthly by the 7th of the next month into your own bank account (After you arrive, item 5); overtime, rest-day and holiday pay by the end of the next wage period [L0131, M0034, M0030]. Your basic wage must meet the minimum wage and equal a local worker's for the same job [L0130, M0152, M0153]. The employer may not dictate where, how or with whom you spend it [M0038]. The minimum is RM1,700 a month or RM8.72 an hour (by the day: RM65.38 on a 6-day week, RM78.46 on 5 days, RM98.08 on 4) [Z0137], for every employer, including for piece, task, trip or commission pay [Z0138, Z0139, Z0140]. It is to rise to RM2,000 a month from June 2027, with micro, small and medium businesses selling under RM50 million a year exempt [R0002].
 
 > **Need to know**
 > - Has the Minimum Wages Order setting RM2,000 been made?
 
-##### Deductions
-
+**Deductions**
 Only what the Employment Act allows [L0107, M0044]. Rent, food or payments to anyone else need your written request and Labour Department approval, given for rent and food only if they benefit you [M0047, M0049]. All deductions together may not exceed half a month's wages [M0050, L0137]. In Sarawak nothing may be deducted for recruitment or repatriation, and foreign workers get local workers' rate [L0170, L0169].
 
 #### Hours, rest and leave
 
-##### Hours and overtime
-
+**Hours and overtime**
 At most 8 hours a day and 45 a week, no more than 5 hours in a row without a 30-minute break, and never over 12 hours a day except in emergencies [M0003, M0004, L0092]. Overtime is only at the employer's request with your agreement, paid at least 1.5 times the hourly rate (for monthly pay: the monthly wage divided by 26, then by your normal daily hours) [L0134, M0001, M0007].
 
-##### Rest days and holidays
-
+**Rest days and holidays**
 One rest day a week, on which you can't be made to work except in continuous shift work or emergencies [L0135, M0010]. Work on it within normal hours pays, on monthly pay, half a day's pay for up to half the normal hours and a full day's for more, on top of the monthly wage, and on daily pay one or two days' wages; beyond normal hours, at least 2 times the hourly rate [M0012, M0011, M0013]. 11 paid public holidays a year; working one earns 2 extra days' wages, and overtime that day at least 3 times the hourly rate [M0014, M0019, M0020]. Absence without consent on the working day before or after a holiday loses that holiday's pay unless you have a reasonable excuse [M0018].
 
-##### Leave
-
+**Leave**
 Paid annual leave is 8, 12 or 16 days a year (under 2, 2 to 5, over 5 years' service) [L0109]; paid sick leave 14, 18 or 22 days on the same bands, plus up to 60 days if a doctor certifies hospital care [M0023, M0239]; it needs a doctor's certificate and notice to the employer within 48 hours, or it counts as absence [M0025]. Maternity leave is 98 days [L0112]. A married man gets 7 days' paid paternity leave per birth, up to 5 births, after 12 months' service, if he tells the employer at least 30 days before the expected birth [L0095].
 
 #### Housing, food and health care
@@ -992,8 +987,7 @@ What you get back: after 10 years of unbroken payments, a monthly pension into y
 
 #### How long you can stay and renewing
 
-##### 12 months at a time, up to 10 years
-
+**12 months at a time, up to 10 years**
 The PLKS lasts 12 months [L0044]. Only the employer renews it, from 3 months before expiry, and pays any late penalty [L0079, L0139]. Renewal needs a passport valid over 12 months, a FOMEMA medical every year, and SPIKPA hospital insurance (except in plantations) [L0047, Z0130, M0220]. A new 48-page, 5-year e-passport from the High Commission in Kuala Lumpur costs a worker RM172 (RM140 fee plus a RM32 ESKL charge for the appointment, enrolment and delivery) [Z0020]; Bangladesh missions charge workers USD 50 for 10 years (express USD 45 for 5 years, USD 75 for 10) [D0052]. A renewal filed after expiry counts as overstay [L0045]. The limit is 10 years in total, or 3 for workers registered under the 6P legalisation programme [L0050, M0229, M0157].
 
 **If the employer doesn't renew,** you risk arrest [K0015]. Check your pass on Immigration's ePass check (Step 5) [W0066]; if it is near expiry and unrenewed, email the labour wing and contact Tenaganita (If you aren't paid) [L0021, J0007].
@@ -1011,16 +1005,14 @@ The yearly PLKS renewal includes a multiple-entry visa for Bangladeshi workers, 
 
 #### Bringing your family
 
-PLKS workers can't bring family (see [No family, marriage or permanent residence](#no-family-marriage-or-permanent-residence)) [L0053, E0138]. For professionals' routes, see Family passes; for registering a birth [S0114], see Having a child in Malaysia.
+PLKS workers can't bring family [L0053, E0138]. For professionals' routes, see Family passes; for registering a birth [S0114], see Having a child in Malaysia.
 
 PLKS workers can't bring family or marry in Malaysia (Spouse of a Malaysian citizen) [E0138, E0139], and can't apply for permanent residence; PLKS years don't count toward it [Q0014, Q0015].
 
-##### No family, marriage or permanent residence
-
+**No family, marriage or permanent residence**
 PLKS holders can't bring family, may not marry a Malaysian or another foreigner while on the pass, can't apply for permanent residence, and must go home when the pass ends [L0053, L0056, E0138, E0139, J0055, J0056].
 
-##### Pregnancy and the work pass
-
+**Pregnancy and the work pass**
 The yearly FOMEMA medical includes a pregnancy test for women [Z0126, Z0130]. Confirmed pregnancy means unfit, with no appeal, and the worker is sent home with a Check-Out Memo [Z0134, L0043].
 
 > **Need to know**
@@ -1143,12 +1135,10 @@ If your pass ends mid-case: take a Labour Office letter showing the pending case
 
 #### If you are abused, denied food or medical care, or your passport is taken
 
-##### Forced labour
-
+**Forced labour**
 An employer who threatens, deceives or forces you to work and stops you leaving can be fined up to RM100,000, jailed up to 2 years, or both [L0100, L0101]. Call the 24-hour emergency line of Tenaganita (a Malaysian NGO for migrant workers), the labour wing or SUHAKAM (If you aren't paid) [J0010, L0021, J0094].
 
-##### Sexual harassment
-
+**Sexual harassment**
 Report it to the Labour Department's Director General, who can direct the employer to inquire [M0078]. A woman worker or a close relative in Bangladesh can also apply free to the Ministry, aswelfare@probashi.gov.bd, with passport, smart card and residence-permit copies, the agency's details and the accused person's contacts; it acts within 7 working days [B0049].
 
 > **Need to know**
@@ -1158,16 +1148,13 @@ Report it to the Labour Department's Director General, who can direct the employ
 
 #### If your employer reports you absent (lari)
 
-##### What counts
-
+**What counts**
 Leaving the workplace without telling the employer, intending to escape, or not returning on the agreed date after a trip home [L0057, L0058, M0213].
 
-##### What follows
-
+**What follows**
 The employer reports you to Immigration with its ID, your passport copy, the runaway form and a police report, and tells the Labour Department within 14 days [L0059, M0215, L0099, M0066]. You are blacklisted and its security bond is forfeited [L0060, L0061, M0216]. Immigration normally cancels a quitting worker's pass at once, leaving you without a valid pass [J0035]. False reports are filed near the contract's end to avoid the fare home, or after a complaint [J0065, J0066].
 
-##### What you can do
-
+**What you can do**
 1. Keep photos of your pass, payslips and attendance records, and details of any WFW or Labour Office complaint [M0113, L0166].
 2. If you leave over abuse or unpaid wages, file at the Labour Office and email the labour wing [L0037, L0021]; the pending-case letter usually gets you a Special Pass (If you aren't paid, route 3) [J0033].
 3. If you are arrested, family can call Tenaganita's 24-hour line and email the labour wing [J0010, L0021].
@@ -1178,8 +1165,7 @@ The employer reports you to Immigration with its ID, your passport copy, the run
 
 #### Where to complain, in Malaysia and from Bangladesh
 
-##### Free help in Malaysia
-
+**Free help in Malaysia**
 Unrepresented workers in the 2024 Pengerang mediation settled for about half their RM2.1 million claim, while 74 workers helped by Tenaganita won a Labour Office order for RM1.54 million [A0088, A0089, A0086]. The Welfare Board has no safe house in Malaysia [B0079].
 
 - Tenaganita (an NGO that takes migrant workers' cases, and helps gather the documents a Labour Department claim needs): 12 Jalan 6/11, 46000 Petaling Jaya, Selangor, +603 7770 3671 or 3691, Monday to Friday 9:30 to 6:00, general@tenaganita.net; 24-hour emergency lines for abuse, rescue, arrest or detention +6012 335 0512 and +6012 339 5350 [J0007, J0008, J0009, J0010, J0044].
@@ -1207,12 +1193,10 @@ What you get back: within 7 working days the Ministry asks the labour wing or th
 
 #### If you want to change employer
 
-##### You can't apply yourself
-
+**You can't apply yourself**
 PLKS holders may not change employer or sector on their own, and the agreement contract bars it [L0055, W0052, L0146]. Only the employer or its appointed company representative deals with Immigration; using an agent is an offence [J0062, J0061].
 
-##### When it is allowed
-
+**When it is allowed**
 Only if all of these hold:
 
 - the employer is bankrupt, closed, has suffered a disaster such as a fire or economic crisis and can't keep its workers, has been restructured or renamed, or has died [M0123, M0124];
@@ -1224,8 +1208,7 @@ Not open in your 10th year or later, to workers legalised through 6P, RTK (Labou
 > **Need to know**
 > - Are cross-sector moves now possible, given Immigration says they need Home Ministry (KDN) permission [J0063] but they have been reported as allowed [F0077]?
 
-##### How the employers do it
-
+**How the employers do it**
 1. Both employers register on ePPAx (eppax.gov.my, the Labour Department's employer system); the old employer applies naming the new one, which uploads its documents within 7 days [M0121, Z0010].
 2. The Labour Department investigates and issues a support letter [M0121, M0128].
 3. The old employer (or heir) submits the free Ministry of Human Resources form and documents at the foreign workers division, Level 5, Setia Perkasa 3, Kompleks Setia Perkasa, 62546 Putrajaya, 03-8886 6501, Monday to Thursday 8.30 am to 4.30 pm, queue numbers 8.30 am to noon only [M0132, M0134, M0142].
