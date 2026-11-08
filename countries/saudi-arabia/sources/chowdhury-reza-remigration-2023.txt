@@ -1,0 +1,668 @@
+Social and Humanities Studies
+Volume 2, Issue 2, 2023
+https://sci-hall.com/
+https://doi.org/10.56388/jshs
+
+
+Article
+
+
+
+Return and Re-migration Challenges for Bangladeshi Female
+Migrants in the Middle East during the COVID Pandemic
+Soujannita Chowdhury1, Selim Reza2*
+
+          1 Research Associate, BRAC Institute of Governance and Development (BIGD), BRAC University, Dhaka, Bangladesh. Email:
+          soujannita.chowdhury@g.bracu.ac.bd
+          2 Associate Professor, Department of Political Science and Sociology, North South University, Dhaka, Bangladesh. Email:
+
+          selimreza@northsouth.edu
+          * Corresponding author: Selim Reza; Email: selimreza@northsouth.edu
+
+Article History                             Abstract: Every year many Bangladeshi females migrate overseas to work as domestic workers in
+Received: 03 June 2023                      the Middle Eastern houses and few females migrate to other job sectors. During the COVID-19
+Accepted: 23 June 2023                      pandemic, many female migrants returned home voluntarily and involuntarily. While involuntary
+Published: 08 July2023                      return created various forms of stress and hardship, pandemic-induced complexities and restrictions
+                                            made it difficult for the returnee female migrants to re-migrate. This paper aims to empirically explore
+Citation                                    the return and re-migration journey of Bangladeshi female migrants during the COVID-19 pandemic.
+Chowdhury, S. & Reza, S., (2023). Return    Empirical evidence was collected through in-depth interviewing of 25 female returnee migrants and
+and Re-migration Challenges for             five key informants. The findings confirm the knowledge gap regarding the multi-layered recruitment
+Bangladeshi Female Migrants in the          process, presence, and domination of various actors in the female migrants’ migration journey, and
+Middle East during the COVID Pandemic.      unclear laws and policies as the most critical challenges that made re-migration difficult for the female
+                                            returnee migrants. The COVID-19 pandemic created numerous difficulties like visa expiration,
+Journal of Social and Humanities Studies,
+                                            cancellation of flights, vaccination problems, financial difficulties for quarantine, and passport
+2(2), 11-21.
+                                            renewal issues. All these difficulties contributed to precarious conditions through intensifying the
+https://doi.org/10.56388/jshs230708
+                                            stress in work life and social life and thus augmented Bangladeshi female migrants’ sufferings upon
+                                            their return from the Middle Eastern countries. The new knowledge offered by this paper calls for
+Copyright
+                                            effective policy actions and labour protection for the returnee female migrants during a pandemic
+This is an open access article under the
+                                            situation.
+terms of CC BY 4.0, which permits use,
+distribution, and reproduction in any
+                                            Keywords: migration; re-migration; female migrant; COVID-19; Bangladesh.
+medium, provided the original work is
+properly cited. © 2023 The Authors.
+
+Publisher’s Note
+Sci-hall press Inc. stays neutral with
+regard to jurisdictional claims in
+published     maps   and   institutional
+affiliations.
+
+
+
+1. Introduction
+      Research on overseas migration of workers from South Asian countries clearly supports that in developing countries, people
+mostly migrate for livelihood reasons, and they go for short-term employment mostly in the Middle Eastern countries. Although, in
+the past, very few female workers used to migrate for short-term employment, in recent years this number has increased. However,
+in many cases, they become victims of forced return from their workplace. Despite uncertainties and tortures in their workplace, they
+often think of re-migration, as there is a lack of employment and reintegration facilities for returnee migrants in countries like
+Bangladesh. Therefore, along with migration, re-migration is a coping strategy for the short-term international migrant workers to
+run their livelihood.
+      This paper discusses various reasons for re-migration and obstacles of returnee female migrants of Bangladesh during the
+COVID-19 pandemic. It analyses deep-rooted causes behind their re-migration challenges, apart from COVID-19 induced
+difficulties and restrictions. This paper finds out the contexts and circumstances that necessitate re-migration for the Bangladeshi
+female returnee migrants. In doing this, the paper argues that various forms of difficulties and uncertainties fueled by the COVID-
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                               12
+
+
+
+
+19 pandemic created precarious conditions and thus augmented Bangladeshi female migrants’ sufferings upon their return from the
+Middle Eastern countries. The new knowledge offered by this paper calls for effective policy actions and labour protection for the
+returnee female migrants during a pandemic situation.
+
+2. Materials and Methods
+     This study followed a qualitative research method. Primary data was collected through telephone interviewing of 25 female
+returnee migrants and five key informants. Two separate sets of semi-structured questionnaires were built to conduct the interviews.
+Data was      collected from August to October 2021. The interview timing was from 11:00 am to 1:00 pm and 4:00 pm to 6:00 pm
+Bangladesh time, depending of the availability of the participants, and the duration of the interviews was between 20 minutes and
+70 minutes. The age of the participants varied from 24 to 50 years. Although most of them did not have institutional education, some
+of them completed primary education. Among 25 respondents, three were garments workers and all others worked as domestic
+workers or cleaners overseas. The female migrants were from Dhaka, Savar, Manikganj, Narayanganj, Rupganj, Keraniganj,
+Narsingdi, Kishoreganj, Comilla, Munshiganj, Faridpur, Barisal, Nabiganj, Fenchuganj, and Sylhet. Among the returnee migrants,
+eight returned from Lebanon, seven from Saudi Arabia, five from Oman, four from Jordan, and one from the United Arab Emirates.
+22 of the female migrants were from rural areas and only three of them were from urban areas. To select and reach out to the
+participants for data collection, purposive and snowball sampling methods were used. Female migrants who returned to Bangladesh
+from the Middle East during the COVID-19 pandemic between January 2020 to August 2021 were interviewed. Moreover, five key
+informant interviews were conducted with migration experts from the “Bureau of Manpower Employment and Training (BMET)”,
+“Bangladeshi Ovhibashi Mohila Sramik Association (BOMSA)”, “BRAC Migration Programme”, “Bangladesh Nari Sramik Kendra
+(BNSK)” and “Welfare Association for the Rights of Bangladeshi Emigrants (WARBE) Development Foundation”, who have
+substantially contributed in Bangladesh’s migration sector for a long time and have a deeper understanding about the migration
+phenomenon, particularly in Bangladesh context. Moreover, various research reports and publications on the migration of
+Bangladeshi workers served as secondary data sources for the study.
+
+3. Findings and Analysis
+      It is very prominent in the findings that although some female workers migrated overseas multiple times, they did not have
+proper knowledge on the process and cost of migration. They relied on intermediaries or local agents for processing their overseas
+migration and many of them became victims of fraudulence and exploitation. Very few female returnee migrants were aware of the
+fact that female workers’ migration from Bangladesh to the Middle Eastern countries was declared as free. It was also revealed that
+often the local agents were their close family members or relatives, but female migrants were charged a fee for processing their
+migration. Along with other problems, female migrants were vulnerable during the COVID-19 pandemic. Due to their lack of
+knowledge on pandemic-related obstacles, they experienced severe difficulties and hardships to reintegrate into society, re-migrate,
+and return to their workplaces.
+
+3.1 Reasons for Re-migration Decision
+      The re-migration decision of Bangladeshi female returnee migrants was mainly economic. As most of the female returnee
+migrants were divorced, single mothers, widowed, or their husbands married other women, they wished to be self-sufficient and thus
+create a safe and secure future for their children who could later become responsible to run their family. Other than that, lack of
+income opportunities, no savings from their previous migration, lack of loan facilities and expertise to start a small business and lack
+of reintegration facilities helped them take the decision to re-migrate. Among the 25 participants, three had started their re-migration
+process, while eight wanted to re-migrate but had not started their process yet as they could not decide their desired country for re-
+migration. Moreover, four reported that they would return to their previous employer where they used to work before returning to
+Bangladesh during the COVID-19 pandemic. Two said that they did not wish to re-migrate, but they would consider it due to harsher
+economic reasons. On the other hand, eight migrants stated that they would not like to re-migrate in the future.
+      Out of the 25 participants, 13 reported that they were the sole income person for their family and the rest reported that there
+were other earning persons in their family, but the earnings were not adequate to run their family. Most of them stated that if they
+could get a job with a decent salary or get some loan facilities to start a business over here in Bangladesh, they would wish to stay
+in here with their family. While some female returnees did not wish to borrow a loan as they feared a financial loss in business and
+inability to repay the loans, their first choice was a paid job but for this group, re-migration was a choice only in case of unavailability
+of a suitable paid job. Moreover, some returnees noted that their family members wanted them to re-migrate for the improvement of
+their income although they did not wish to migrate again. Similarly, there were a few instances where the family members did not
+want them to re-migrate anyway.
+3.1.1 Unavailability of Work for Female Returnees in Bangladesh
+     Bangladeshi female workers generally migrate overseas as unskilled domestic workers and cleaners for houses and hospitals in
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                            13
+
+
+
+
+the Middle Eastern countries. Most of them worked in Bangladesh either as a domestic worker or in other unskilled job sectors or as
+homemakers before migrating overseas. Upon their return, it became difficult for them to find employment in Bangladesh as the job
+sector for the unskilled workforce was limited for the returnee migrants. With a deep frustration, five said that they had tried to get
+employment in Bangladesh but could not get a suitable job. Five other returnees mentioned that they had not tried to get employment
+after returning. Six returnees said that they were either expecting to start a small business or small-scale cattle farming to make a
+livelihood. However, one of them said that she had got a job as a domestic worker in her village. Due to the COVID-19 pandemic,
+getting a job in the domestic sector was difficult as no one allowed domestic workers due to the risks of spreading virus from humans.
+On the other hand, three returnee migrants who worked as garments workers at overseas garments manufacturing companies said
+that after their return, they got an employment offer from the garments companies where they used to work before migrating to the
+Middle East. Therefore, the job opportunities for migrant domestic workers were quite scarce in comparison with the female migrants
+from other job sectors.
+      However, as the interviewed migrants were mostly from rural areas, domestic work or other unskilled work was limited in those
+areas. A returnee woman from Saudi Arabia said she came to visit her mother and could not return to her work during the pandemic.
+Her economic condition improved a little after migration, but the COVID-19 pandemic made her fall into the vicious cycle 1 of
+poverty.
+      She said:
+             “I tried to get employed in Bangladesh but due to the pandemic, no one wants to hire a domestic worker. I do
+            not have the savings to start a business here. I must return to my workplace as soon as possible to earn some
+            money which is not possible in Bangladesh for illiterate people like me. Now I do not have money to mitigate
+            my hunger and even if someone buys me some rice, it would be a great help.”
+      As per the participants’ responses, having some skills or education is important to get a job in Bangladesh. According to another
+migrant’s response, to get a job in Bangladesh, it is required to have good connections with powerful people, and she does not have
+that. Moreover, two of the respondents reported that no one was hiring them because of their old age.
+3.1.2 Lack of Savings
+     After years of working abroad, most of the female returnee migrants did not have any savings to start a small business in
+Bangladesh. Many of them were indebted. In order to repay those loans, they were planning to re-migrate. Among 25 respondents,
+21 reiterated this point and out of them, only two had little savings. Five had little savings in the past but spent all the money during
+the COVID-19 pandemic to run their livelihood as they had no viable income source. A female migrant returned from Lebanon as
+her employer was unable to pay her during the pandemic. She was thinking of re-migrating            due to economic obstacles, although
+she had not decided on the destination yet.
+     According to her response:
+            “I migrated by taking a loan with compound          interest. With my earnings I could have managed to build a
+            big house, but my children spent the money recklessly without thinking about the future. Later, I was tricked
+            by a fraud. I paid BDT150,000 in advance for my husband’s migration purpose but my husband could not
+            migrate. For that, I lost all my savings and now I am indebted to people. Now I have no options but to re-
+            migrate. If I had some savings, I would have bought a cow and a calf…. Now I have nothing to run my livelihood
+            and I made a loan of BDT100,000 in the last nine months. I am in a miserable condition now”.
+     Bangladeshi female migrants remit a substantial proportion of their earnings to their families and cannot save for future purposes.
+Sometimes they become a victim of fraudulence, wage theft, and lose their money. They have the responsibility to repay their
+family’s loans and bear their family expenses. During the COVID-19 pandemic, many of them returned to Bangladesh and lost
+income sources. To fulfill their dire economic needs many of them considered re-migration.
+3.1.3 Lack of Reintegration Facilities in Bangladesh
+      Almost all the female returnee migrants covered by this study reported that they would like to stay in Bangladesh if they had
+an income source. The lack of proper reintegration facilities made them consider re-migration. Among all the respondents, one said
+that she wanted to re-migrate as she thought she could earn better by re-migrating only. Two of the respondents said that they were
+afraid of taking loans as they do not have any knowledge regarding starting and running a business. One of the migrants from Saudi
+Arabia who would return to her previous employer said:
+            “If I take a loan and cannot repay, they will put me in jail which will be a shame on me. If I can work
+            somewhere, I will do it, otherwise not. If I had savings of my own to start a small business, I would have
+            considered not going abroad. Many people got incentives from the government during lockdown, but we did
+            not get anything, not even some rice or financial assistance.”
+      Findings show that female migrants who received financial incentive or loan facilities from the government or NGOs during
+the pandemic were able to repay their debts partially. Moreover, some female migrants invested some of the received money in
+
+1 A chain of negative events, in which one difficulty creates several more.
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                           14
+
+
+
+
+buying sewing machines or cattle farming and had little earnings during the pandemic lockdown in absence of other earning resources.
+However, due to social barriers, shyness and lack of awareness migrants often find it difficult to look for a job or seek help from the
+government, NGOs, or local authorities upon their return. Most of them did not get any social protection from the government or
+NGOs to overcome their vulnerability. While some of them said that sometimes they attended meetings and programmes of NGOs
+regarding safe migration and got a little sum of money which was a great help for them. Some also said that as they came from
+abroad it was perceived as shameful for them to ask for help.
+      Upon return, many Bangladeshi migrants live in uncertainty regarding re-integrating socially and economically. In the case of
+social reintegration, the sufferings are more for the female migrants than for male migrants. The reason behind this is the conservative
+patriarchal social structure where females are considered to stay at home and preserve their family prestige. Four of the interviewed
+female migrants said that they were in fear of social stigma and two of them said they did not visit anywhere after returning from
+abroad      as they knew that people might behave differently as they were migrants. Moreover, one of the migrants said that people
+often consider female migration bad in her village. She commented that:
+             “In my village, usually women do not migrate, and people consider me a bad woman for that. I had no other
+             option except for overseas migration, as I had no money to feed my family and meet my family expenses. Men
+             are migrating frequently, but no one considers them bad. I did not tell anyone before my migration as I was
+             indebted to people and going overseas for work is not considered good.”
+      Although all female migrants did not face social discrimination after their return, working in the Middle East is often not
+considered respectable for females. Many times, the harassment of female migrants starts at the airport when they return home. Often,
+they do not get welcoming behaviour from the immigration officers. People do not behave nicely with them as people think these
+workers are victims of sexual abuse. Such a mindset of people when they return home is a huge obstacle to the social reintegration
+of the female migrants.
+      Regarding the economic reintegration, a migration expert said, reintegrating into society and starting some economic activities
+for their livelihood in Bangladesh is sometimes challenging for the female returnee migrants. The migration expert said:
+             “Probashi Kallayan Bank (PKB) provides some loans after the return of a migrant. However, the process of
+             availing this loan requires many formalities. These make things difficult for the migrants to avail themselves
+             of the loan and the amount is not adequate. If they have some savings of their own and they borrow some loans
+             from PKB, they can start a small business in Bangladesh. In most cases, they are unaware of the loan facilities
+             and even if they heard about it, the long processing and documentation process discouraged them. That is why
+             many female returnees want to re-migrate. It is very common that if someone has experience of migrating, he
+             or she would like to re-migrate upon return. The reason behind this is, that their fear of overseas migration
+             lessens by that time, and they decide for re-migration if they are physically well enough to migrate again. Some
+             female returnee migrants do not migrate as their families might discourage them from migration.”
+      It was found that female migrants migrated with a hope for better income and get rid of their vulnerable economic situation.
+Female migrants in Bangladesh face many obstacles after they return to their home country. Social reintegration, economic
+reintegration, and psychosocial counseling all are important when they come back home. It is important for them to get proper
+assistance during their stay overseas. After their return they should give proper counseling to make them mentally well by building
+confidence and providing guidance and economic support to start a small business. Apart from that, it is needed to ensure that no
+one points a finger at them. However, these are largely unavailable for them.
+3.1.4 Reintegration Problem and Re-migration Decision of Female Migrants
+      According to International Organization for Migration (IOM), globally, the number of remittances sent by female migrants is
+almost the same as male migrants’ remittances and they send a higher proportion of their income on a regular basis than men (IOM
+et al., 2007 as cited in IOM, n.d.). It raises the question of why the highest proportion of income-sending female migrants do not get
+reintegration facilities when they return. From the findings of this study, it is evident that they do not have control over their
+remittances and the money they remit is utilised for their families’ consumption, children’s education, and future purposes. The IOM
+(n.d.) report stated that female migrants and especially single female migrants might get extra pressure from their extended family
+side to send a bigger portion of their earnings to support them. Because of such pressure and their responsibility back home, female
+migrants may accept difficult working and living conditions overseas. Rashid (2016) in her paper developed “poststructuralist
+theorisation of gender as an act of performance to describe the ways in which male and female in patriarchal society occupy different
+fluid subject positions as remitters, receivers, providers and managers of remittances in the course of remittance practices” (p.3). She
+demonstrated analysis of gender and remittance behaviour in the villages of Bangladesh, where migration has been a common
+phenomenon in relation to the earning source.
+      Furthermore, returnee migrants do not get job facilities as they are mostly unskilled migrant workers. Along with job scarcity
+in rural areas, social barriers stop them from finding employment in their home country. The challenges for the female migrant
+workers for re-integrating socially and economically are much more than the male migrants. Females do not get support from their
+family to do the same job in their home country that they used to do overseas and thus cannot use their skills (CEDAW, n.d.). Apart
+from that, during any crisis, female and vulnerable groups in society face the most challenges. Regarding the world economic
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                         15
+
+
+
+
+catastrophe of 2008, the major effect of that economic disaster on females and girls have been reported by UNAIDS (2012) and the
+obstacles it created all over the world for the equality of gender (Ansar et al, 2021). As these females are from the grassroots, they
+do not have information about the facilities that the government is providing for the returnee migrants and in many cases, the female
+migrants do not have proper documents that are needed to apply for a loan. A report revealed that some of the returnee female
+migrants did not get any government relief, as they do not hold any Voter ID card or any other ID proof for the location they are
+residing in (UN Women, 2020).
+     Along with that, the migration decision of a person depends on various push and pull factors. In general, the push and pull
+factors might be the same for male and females but females in our society predominantly face more vulnerability and have fewer
+earning opportunities. Considering the situation of the respondents of this study, most of them were unemployed or rearing poultry
+and livestock in their home before migrating and some were working as domestic workers. In this context, Belanger and Rahman
+(2013) quoted “economic ‘push’ and ‘pull’ factors are the important driving forces for international labour migration and especially
+temporary labour migration in Asia” (Haque, 2005; Stahl, 2003, p.357). Besides, migrants have earned some respect in their society
+as they have worked overseas and most of the migrants want to do a respectable job or small business in Bangladesh because of their
+social position. Re-migration can provide economic support and create a social status itself for the migrants.
+
+3.2 Re-migration Challenges for the Female Migrants
+      The foremost challenge female migrants face in Bangladesh, when they decide to migrate overseas for work, is the information
+gap. During the COVID-19 pandemic, the female migrants trying to re-migrate or return to their previous workplace said that they
+were facing various hassles related to passport renewal, visa processing, vaccination, fee payment, and other difficulties, which made
+their re-migration difficult. Most of them said that those difficulties were created by the pandemic and if the pandemic were not
+there, they might have re-migrated sooner.
+3.2.1 Money and Information Gap
+      While the COVID-19 pandemic created many obstacles for the returnee female migrants, the intermediaries took advantage of
+the situation, particularly from the migrants who did not have adequate knowledge regarding migration procedures. Many migrants
+were asked by the dalal2 to pay some advance money and the total amount was unknown to them. Five participants said that their
+re-migration processing was delayed due to their economic hardships.
+      A returnee migrant from Lebanon who was re-migrating to Saudi Arabia said that her brother-in-law was the agent, and he was
+doing all the processing for her. She said:
+            “I have to pay money to my brother, as nobody will take me without money. If no money were needed for
+            migration, I would have migrated earlier. I will pay him after I migrate and I still do not know when I will be
+            asked for money, it might be before migration or after. My processing is completed but I do not know how
+            much I have to pay.”
+      Female migrants often become the victim of fraudulence through their close relatives and family members due to the lack of
+assistance and information. There were instances that even if female migrants knew that they could migrate for free, but
+intermediaries were showing additional costs like medical fee, fingerprint and additional costs and thus taking money from the
+female migrant workers. A migration expert explained this:
+            “Female migrants do not need to pay for migration. If a woman migrates to Saudi Arabia, her recruiting
+            agency gets $2000 from her Saudi employer. Even the local agents or dalals are paid by the recruiting agencies
+            to recruit a migrant but in some cases, dalals take money from the migrant women as well. In most cases, local
+            agents are their family members or close relatives. In that case, migrants do not wish to complain and in many
+            cases, the money taken from them is not a big amount, so they do not complain. If anyone takes money from a
+            female migrant worker, she can complain to the Bureau of Manpower Employment and Training
+            (BMET). Often the money that is taken from the female migrant workers are transferred unofficially and thus
+            it remains undocumented. In absence of proof, it becomes difficult to take legal actions.”
+      Information gap related to migration is a huge backdrop. Some of the migrants said that previously they did not know that
+female migrants do not need money for their migration but now they are aware of that. Some of them said that they attended some
+meetings in their village organized by NGOs, which made them aware of safe migration. One of the returnee migrants from Lebanon
+who was in an irregular status in Lebanon said that she had visited the local WARBE office for her re-migration and she would like
+to take help from them after deciding on re-migration.
+3.2.2 Renewal of Passport
+    Many female migrants had returned home during COVID-19 after facing different harsh circumstances abroad. Among them,
+some faced passport-related difficulties, and their re-migration or return to their workplaces was delayed. For example, they did not
+
+2 Sub-agent/local agent/middleman/intermediary
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                           16
+
+
+
+
+receive their renewed passport for several months, they could not renew passport due to economic difficulties, they could not present
+proper identity documents for renewing their passport, and in some cases the passport office was shut down during lockdown etc.
+     A returnee migrant from Oman who worked there for two years and before that worked in Saudi Arabia for two years did not
+have the capacity to renew her passport. Her financial situation got worse during the pandemic, and she was in trouble returning to
+her workplace. She said that her employer sent her money for passport renewal, but she had to use that money for consumption
+purposes during the pandemic in the face of the financial crisis. Moreover, some said that they applied for passport renewal months
+before through the help of a dalal but did not receive their passport till date due to COVID-19 induced lockdown and shutdown of
+offices.
+     A migrant returnee from Lebanon, who worked there for 11 years in total and eight years in an irregular status, came back with
+government assistance in the hope of migrating to a new place with a valid visa. She was told that she could not make a new passport
+and re-migrate at this age. Apart from that, intermediaries were taking advantage of the pandemic situation.
+     A woman migrant commented on this:
+           “I renewed my passport during the pandemic. Normally it takes BDT7,000 to BDT8,000 but at that time I had
+           to pay BDT32,000, otherwise, the officer would not put endorse the seal on my passport. I had to organise the
+           seal through giving them money.”
+     The above statements clearly show how the intermediaries were taking advantage of the pandemic and unnecessarily charging
+the female migrants. Other than that, from the observation of activities outside the passport office3 and talking with some migrants
+it was found that most of them applied for their passport renewal through an intermediary. A migrant said that she came to receive
+her passport, which she applied for renewal on an urgent basis (express delivery)4 but received it after few weeks (regular delivery).
+She said she had provided BDT12,000 for the passport renewal for 10 years validity, but her passport receipt showed that the
+intermediary registered her passport for five years validity for BDT4,065. She reported that she did not know anything as her brother
+did everything and later, she said her brother was the dalal. Therefore, the victimisation of female migrants starts with their own
+family members and relatives.
+3.2.3 Vaccination
+     Female migrants did not have proper information on vaccination along with misinformation regarding the after-effects of
+vaccination. Findings from field data show that some female migrants were asked for money to register and get the vaccine shots.
+Along with that, authorities in Saudi Arabia and Kuwait were asking for specific vaccination5, and without that Saudi government
+imposed seven days of quarantine restrictions on migrants with their own cost, which is BDT70,000-80,000. Later, the Bangladesh
+government announced that they would pay BDT20,000-25,000 as the financial support for the workers going to Saudi Arabia.6
+However, as females faced information constraints, in most cases, they were not aware of this and faced several difficulties. Along
+with other difficulties, taking vaccine shots was a huge struggle for them.
+     A migrant reported:
+           “I could not return to my workplace due to the vaccine issue. Earlier I did not know where to go for registration
+           and how to get it. I heard that it takes a huge amount of money to register and get the vaccination card. Without
+           a vaccine, I have to stay in quarantine which is costly. That is why my employer did not take me back earlier.
+           Now I am vaccinated and will return soon. I had to give BDT360 to get my vaccination certificate.”
+     A respondent returning to her previous employer said that her flight date was in a few days, but she could not get her second
+dose of vaccine as her first dose was given in Saudi Arabia before coming to Bangladesh. She was told that she would not be able to
+take her second dose of the vaccine here in Bangladesh. As she did not have the financial ability to stay in a hotel for quarantine, she
+was worried about the financial crisis, and she was not sure if she could not get on the flight and migrate. Moreover, she did not
+know where she could go for reliable information and help regarding this.
+     Apart from that, long waiting queues outside the vaccination centres and the unavailability of the desired vaccine were an
+important issue. The same respondent outside the passport office said that she was not jabbed and would take the vaccine before her
+departure. She said that expatriates were allowed take both vaccine shots within an interval of two days but in reality, the second
+dose is given after a month or two (depending on the vaccine) of the first dose. She said that a close relative of hers had taken
+vaccination this way and she would do the same to cut down the hassles of going to the capital city Dhaka, as specific centres were
+providing specific vaccination for the migrant workers. Her experience shows that in the near future some disastrous consequences
+of health hazards might occur due to misinformation regarding vaccination.
+
+
+
+3 District passport office, Habiganj, Bangladesh
+4 e-Passport with 48 pages and 10 years validity-Regular delivery: TK 5,750; Express delivery: TK 8,050
+5 Pfizer, Moderna, AstraZeneca, Johnson and Johnson
+6 Govt. to pay quarantine rent for Saudi Arabia-bound workers. (2021b, May 29). Dhaka Tribune.
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                           17
+
+
+
+
+3.2.4 COVID-19 Related Other Restrictions
+     There were cases of visa expiration due to delays in flights and shutdown of all offices during the pandemic and people could
+not do their processing for migration. Moreover, less demand for work overseas, the shutdown of flights, price hike of tickets, and
+COVID-19 negative test reports under 24 hours created a difficult situation for the migrants. Moreover, Gulf Countries had made it
+mandatory for COVID negative results to be done, not before six hours of departure from a PCR test to enter the country. 7 Initially,
+the unavailability of a PCR test lab at the airport, not enough testing lab compared to the demand, and sometimes delay in test reports
+made it difficult for the migrant workers to fulfill the requirements. Apart from that, some female migrants were told by their
+employer to bear their own costs if they had an intention to return home, which made the migrants fall under a huge economic burden.
+3.2.5 Sufferings of Female Migrants
+     According to a report by ILO (2016), female workers from poor countries and their low educational quality intrinsically related
+to the lack access to accurate information regarding the overall migration process which puts migrants at risks of deception by
+unscrupulous recruitment agents and traffickers. Silver (2009) argued that due to the legal gaps in labour code, female transnational
+workers have fewer rights. In most cases, female workers do not know their employer’s information, wages, and other information
+regarding their migration. According to Rashid and Ashraf (2018), there are more than 1200 licensed private recruiting agencies and
+only 35 percent of the work visas are processed through them, and more than 60 percent visas are processed by relatives, friends, or
+family members of migrants. As the dalals or intermediaries are not officially documented, the scope of fraudulence is higher and
+female migrants seldom take action against them. Existing laws and regulatory frameworks offer a provision for legal action against
+the recruiting agencies if any fraudulence is proved against them. However, there is no such provision for their sub-agents, and they
+are unregistered agents of recruiting agencies. Although it was proposed      several times to bring the sub-agents under registration
+and rule, it never became successful.8
+     By taking advantage of the pandemic, female migrants were exploited more in the face of the imposed conditions by their
+employers and intermediaries. The migration governance is centralized and there are authoritative and administrative shortcomings
+in DEMO offices and other authorities involved who are working at the rural level. This clearly shows the reason for the vulnerability
+of migrants (Ansar et al, 2021). To achieve the goals of SDG regarding safe migration and favourable workplace and migration, the
+implementation of policies and dissemination of proper information on every aspect is important.
+     Along with law and policy implementation lacking, migrant female workers’ identity as a “female” made them easy to exploit.
+In Bangladesh, due to social barriers and various discrimination on gender roles, the road to overseas migration is harder for females
+than males. For these reasons, female migrants face various struggles in their migration processing, pre-departure stage, working
+period, and even after returning to their home country (CEDAW, n.d). COVID-19 has shown their obstacles from a different angle.
+Although many steps were taken by the government of Bangladesh regarding vaccination, quarantine, and other measures, female
+migrants were still unaware regarding these procedures. As a result, the intermediaries took advantage of the situation.
+
+3.3 Re-migration Difficulties Apart from COVID-19 Induced Crisis
+     Workplace experiences were a huge challenge for female migrants to make decisions regarding re-migration. While most of the
+female migrants said they had to re-migrate due to their economic obstacles, some of the female migrants reported that they would
+not want to migrate again.
+3.3.1 Traumatic Experiences and Deciding Not to Re-Migrate
+       While migration is a livelihood choice, some of the female migrants said that they would not re-migrate because of their previous
+migration experience. Two of them said they would not re-migrate even if they were given fifty-thousand taka, which shows their
+strong will against migration. Five of 25 respondents said that they would not re-migrate as they had faced harassment and torture
+at their workplaces. On the other hand, some of the returnees said that they would not re-migrate again but if they get an opportunity
+to work under a good employer, they might reconsider it. Moreover, some said that they would go if they could work on a free visa,
+which is living on their own and working on an hourly basis in people’s houses as a domestic worker or in the hospitals as a cleaner.
+It is also prevalent that female migrants were considering not to stay in an employer’s house due to safety concerns. Moreover, some
+female migrants said that on a free visa they could work on an hourly basis and get wages on a day-to-day basis, so there were very
+few chances of wage theft.
+       A female migrant who returned home from Saudi Arabia within three months of her migration in the face of excessive work
+pressure and torture said that she migrated through a dalal from her nearby village and paid BDT25,000 for her migration processing.
+She was told that she must work for three people, but after reaching, she alone worked for 15 to 20 people in a house and due to
+excessive work pressure, she could not even get time to eat. She did not receive any training prior to her migration and had no idea
+
+7 Hasan, J. M. A. R. (2021, September 6). Migrants going abroad: Their pleas finally heard. The Daily Star.
+8 Ara, A. (2021, September 11). Recruiting agencies show reluctance to register manpower intermediaries. The Financial Express.
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                            18
+
+
+
+
+regarding where to go for help overseas. She said:
+             “No one can work all the time. My arms and feet were attacked by fungi through continuously working in
+             water. I could not take rest and I was COVID positive and was so sick that my face swelled. They took my
+             mobile sim card so that I cannot contact my home. My husband filed a case at the embassy with the help of
+             Bangladesh police. When the embassy sent the police for me, my employer said I was insane and they put me
+             in jail. After staying there for 18 days in a miserable environment, my husband sent BDT80,000 to get me back
+             to Bangladesh. I worked there for three months but did not get any salary.”
+      It was very common in the findings that many female migrants faced severe work pressure and improper eating arrangement
+that made them physically exhausted. Moreover, receiving less wages than promised by the intermediary or wage theft was a very
+common phenomenon. Some reported that they had to spend all their savings to return to Bangladesh at their own cost. Moreover,
+many female migrants said that they had to eat by stealing at their employer’s house as they only got to eat the leftovers. There were
+also responses that female migrant workers were severely tortured, and sexually assaulted. A female returnee reported that her
+employer burnt her lips. It is prevalent that difficulties related to migration processing and workplace harassment and torture are
+lower in other job sectors than in the domestic work sector. All three of the interviewed returnee female garments workers said they
+used to work in Jordan and migrated through the help of Bangladesh Overseas Employment and Services Limited (BOESL), about
+which they learned from their known people. All three of them were satisfied with their pay and living arrangements while working
+overseas. Two of them returned because of their family issues and one of them returned after one year of migration due to excessive
+work pressure. They had no intention of re-migration. Although she did not face any torture or harassment, the work pressure was
+traumatic for her.
+      Regarding the vulnerability of female migrant workers, here is an opinion of one of the migration experts:
+             “Before migration, during migration, and after return, female migrants go through a vulnerable situation.
+             Domestic workers cannot run away from their employers’ houses and hence there are huge chances to make
+             them victims of harassment, as they are females. Middle Eastern countries practised slavery before and till
+             now they think that they can do whatever they wish to do with domestic workers. In such cases, female migrants
+             are more vulnerable than male workers. Female domestic workers are more vulnerable than any other
+             migrants in other sectors. Female migrants contribute to the remittance economy more than male migrants do.
+             They do not spend money for other purposes as male migrants do and their vulnerability is higher as well.”
+      Female migrants stay in vulnerable situations in different stages of migration and the vulnerability of a female domestic worker
+is higher than other job sectors as they live in the employer’s house. In many instances, they do not have access to the outer world,
+and they do not know where to seek assistance if they face torture. Apart from the nature of their job as a domestic worker, there are
+other regulatory reasons behind their suffering.
+      Another migration expert gave her opinion on this:
+             “Females who are willing to migrate should be provided with proper grooming before migration. Government
+             should come into proper negotiation with the host country that if any of the female migrants’ face harassment,
+             we will stop sending workers. However, the government is afraid to put their strong voice regarding this. They
+             think that such negotiations might result in harm for the expatriates in the host countries and they might send
+             them back to Bangladesh. Government should increase their bargaining power in technical and diplomatic
+             manners to protect the female migrants. During the signing of Memorandum of Understanding (MOU), the
+             Government of Bangladesh should truly ensure the protection of female migrant workers.”
+      It is prevalent that many female migrant domestic workers do not complete the month-long mandatory training before migrating
+overseas and sometimes dalals make fake certificates of completion for that training. As a result, the female migrants do not
+understand the language, food culture, and work when they arrive in host countries, and eventually they face torture. Moreover, lack
+of monitoring and poor-quality infrastructure and resources of training centres, lack of manpower in the labour wings, lack of access
+to the embassy, and lack of legal cell support make a female migrant worker vulnerable. Along with that, lack of monitoring,
+negotiation, and policy implementation gaps regarding the protection of migrant workers make the migrants more vulnerable in the
+host countries. The governments that are strict regarding the protection of the rights of their migrants and particularly female migrants
+are in better conditions than Bangladeshi migrants.
+3.3.2 Female Migrants as a Victim of Exploitation
+     Various studies on Bangladeshi female migrants had shown that that many female migrant workers had been successful in their
+migration and their migration had brought a positive economic change in their lives (Siddiqui, 2001; CEDAW, n.d). However, there
+were many instances of failed migration and along with other problems, pandemic-induced problems had made the situation worse.
+Ansar et al (2021) had shown that the vulnerabilities of female migrants in their workplaces is not a new phenomenon and the stories
+of their sufferings, return, and wage theft during the COVID-19 pandemic have unveiled the gap in the migration governance system
+to address and respond to an emergency. They had argued that the already existing fault-lines in the recruitment, employment systems
+and living conditions of workers in overseas employment had been augmented by COVID-19.
+     It is evident from the findings of this study that proper migration governance for safe migration at the grassroots level was
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                                         19
+
+
+
+
+unavailable. Some of the female migrants were privileged to receive some support from NGOs regarding fraudulence and a few
+awareness sessions on safe migration, but the majority did not receive any support or assistance. There are some recruiting agents,
+sub-agents who send migrants overseas by making fake passports, job contracts and BMET clearance certificates (ILO, 2014).
+Although there have been various difficulties faced by the female migrant workers in in host countries and the left-behind members
+of migrant households, there has been a lack of international and national policies regarding responding to migrants’ concerns during
+a pandemic and more specifically, gender-responsive policies to identify and solve these (UN Women, 2020b; CARE, 2020 as cited
+in Ansar et al 2021). Due to a lack of proper monitoring and legal support, female migrant workers’ vulnerabilities had increased
+during the COVID-19 pandemic. The pandemic-induced difficulties will eventually solve, and many female migrants will engage in
+overseas employment but if the faulty recruitment system is not fixed through proper implementation of the existing laws and policies,
+Bangladesh will have to witness more such difficulties in the near future.
+
+4. Conclusion
+      International labour migration is a better livelihood opportunity for the poor people of Bangladesh who contribute to the
+economy to a large extent through sending remittances after migration and contributing to the GDP of Bangladesh. The findings of
+this study offered new knowledge for understanding the sufferings of the Bangladeshi female returnee migrants and policy gaps in
+addressing them. This study finds that female migrant returnees were considering re-migration as a dire need in the face of economic
+obstacles. Lack of unskilled jobs, lower salaries, no savings, and lack of loan facilities have compelled them to decide to re-migrate
+amid the COVID-19 pandemic. The pandemic had made their re-migration or return to their workplace really difficult. Moreover,
+the information gap made them more vulnerable to various forms of fraudulence. They were facing challenges related to vaccination,
+quarantine, passport renewal, price hike of tickets, and other pandemic-induced problems along with economic obstacles. Along
+with the imposed COVID-19 related restrictions from the host countries, the intermediaries and in some cases the employers imposed
+some harsh conditions and thus made re-migration or return even more challenging for the female migrant workers. Moreover, while
+re-migration was a challenge for the female migrants, some female migrants refused to re-migrate due to their traumatic previous
+migration experiences. Lack of support regarding complaint mechanisms, and lack of protection in workplaces compelled them to
+decide not to migrate again. The study therefore calls for effective actions from policy circles such as implementation of the migration
+policies and widespread support service from government offices to promote safe migration. The lack of government collaboration
+with NGOs may make the situation worse and thus the local agents or brokers may take advantage of the situation.
+
+Acknowledgement
+
+      The first author acknowledges support from the BRAC Institute of Governance and Development (BIGD), BRAC University to pursue the
+master’s thesis under the supervision of this paper’s co-author with a grant from the COVID Collective Research Platform on which this paper is
+built upon. She is grateful to her supervisor (the co-author of the paper) for his mentorship and guidance during the study. Moreover, she is grateful
+to the migration experts and female migrant returnees who had participated in this research.
+
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+Ansar, A., Sultana, M., & Das, R. C. (2021). In pursuit of resilience: Revisiting migration and gender-based violence amid COVID-19. In T.
+          Siddiqui (Ed.), The other face of globalization: COVID-19, international labour migrants and left-behind families in Bangladesh (pp.
+          121-153). RMMRU. http://www.rmmru.org/newsite/wp-content/uploads/2021/04/The-Other-Face-of-Globalisation.pdf
+Azad, A. (2018). Recruitment of migrant workers in Bangladesh: Elements of human trafficking for labor exploitation. Journal of Human
+          Trafficking, 1-21. https://doi.org/10.1080/23322705.2017.1422091
+Barkat, A., & Ahsan, M. (2014). Gender and migration from Bangladesh: Mainstreaming migration into the national development plans from a
+          gender perspective. International Labour Organization; ILO Country Office for Bangladesh.
+          https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-dhaka/documents/publication/wcms_310411.pdf
+Belanger, D., & Rahman, M. (2013). Migrating against all the odds: International labour migration of Bangladeshi women. Current Sociology,
+          61(3). 356-373. https://doi.org/10.1177%2F0011392113484453
+Blanchet, T., & Biswas, H. (2021). Migration and gender in Bangladesh: An irregular landscape. International Labour Organization.
+          https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---sro-new_delhi/documents/publication/wcms_832493.pdf
+BRAC. (2018). Migration and achievement of SDGs for Bangladesh.
+          http://www.brac.net/program/wpcontent/uploads/reports/Citizen_s%20Platform%20Brief%20on%20Migration.pdf
+Chowdhury, M. B., & Chakraborty, M. (2021). The impact of COVID-19 on the migrant workers and remittances flow to Bangladesh. South
+          Asian Survey, 28(1), 38–56. https://doi.org/10.1177/0971523121995365
+Coz, C. L., & Newland, K. (2021, February). Rewiring migrant returns and reintegration after the COVID-19 shock [Policy brief]. Migration
+          Policy Institute. https://www.alnap.org/system/files/content/resource/files/main/mpi-covid19-return-reintegration_final.pdf
+Dorigo, G., & Tobler, W. (1983). Push-pull migration laws. Annals of the Association of American Geographers, 73(1), 1-17. Retrieved from
+          https://www.jstor.org/stable/2569342
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                                      20
+
+
+
+
+ESCWA. (2020). Impact of COVID-19 on migrants and refugees in the Arab Region [Policy Brief 2]. (2020). United Nations.
+           https://reliefweb.int/sites/reliefweb.int/files/resources/impact-covid-19-migrants-refugees-arab-region-policy-brief-english.pdf
+Etzold, B., & Mallick, B. (2015, November 30). Migration policies. https://www.bpb.de/gesellschaft/migration/laenderprofile/english-version-
+           country-profiles/216106/migration-policies
+Farid, K., S., Mozumdar, L., Kabir, M., S., & Hossain, K., B. (2009). Trends in international migration and remittance flows: Case of
+           Bangladesh. Journal of the Bangladesh Agricultural University, 7(2), 387-394. 10.3329/jbau.v7i2.4751
+Foley, L., & Piper, N. (2020). COVID-19 and women migrant workers: Impacts and implications. International Organization for Migration
+           (IOM). https://publications.iom.int/system/files/pdf/covid19-and-women.pdf
+Gender in Humanitarian Action (GIHA) Working Group. (2020). COVID-19 Bangladesh rapid gender analysis. UN Women.
+           https://reliefweb.int/sites/reliefweb.int/files/resources/RGA%20Bangladesh.Final_.May2020.pdf
+Gioli, G., Maharjan, A., & Gurung, M. (2017). Neither heroines nor victims: Women migrant workers and changing family and community
+           relations in Nepal (Discussion Paper No.18). UN Women.
+           https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2017/Discussion-paper-women-
+           migrant-workers-and-changing-family-and-community-relations-in-Nepal-en.pdf
+Govt. to pay quarantine rent for Saudi Arabia-bound workers. (2021, May 29). Dhaka Tribune.
+           https://www.dhakatribune.com/bangladesh/migration/2021/05/29/govt-to-pay-quarantine-rent-for-saudi-arabia-bound-workers
+Govt. starts giving incentive to female migrant workers. (2021, March 31). Dhaka Tribune.
+           https://www.dhakatribune.com/bangladesh/2021/03/31/govt-starts-giving-incentive-to-female-migrant-workers
+ILO Country Office for Bangladesh. (2014). Gender and migration from Bangladesh: Mainstreaming migration into the national development
+           plans from a gender perspective. International Labour Organization. https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/-
+           --ilo-dhaka/documents/publication/wcms_310411.pdf
+International Labour Office. (2010). International labour migration: A rights-based approach. International Labour Organization.
+           https://reliefweb.int/sites/reliefweb.int/files/resources/A17C01F1B0A12F72492576F900061DD7-ILO_rights_based_approach.pdf
+International Labour Organization. (2016). Overseas employment of Bangladeshi workers: Trends, prospects, and challenges (ADB Brief No.
+           63). Asian Development Bank. https://www.adb.org/sites/default/files/publication/190600/overseas-employment-ban-workers.pdf
+International Organization for Migration. (n.d.). Gender migration and remittances [Fact sheet].
+           https://www.iom.int/sites/g/files/tmzbdl486/files/2018-07/Gender-migration-remittances-infosheet.pdf
+International Organization for Migration. (n.d.). IOM and labour migration [Fact sheet].
+           https://www.iom.int/sites/g/files/tmzbdl486/files/our_work/ICP/IDM/Labour-Migration-Infosheet-2008.pdf
+Islam, D. M. N. (n.d). Migration from Bangladesh and overseas employment policy.
+           https://bmet.portal.gov.bd/sites/default/files/files/bmet.portal.gov.bd/publications/af50023f_5031_4cc4_8913_47c580fe858a/Migration
+           -BOEP.pdf
+Jahan, I., Himel, F. R., & Amin, M. N. (2021). Impact of Covid-19 lockdown on socio economic conditions of semi-skilled returnee migrant
+           workers of Bangladesh. International Journal of Social Science and Human Research, 04, 879-884. https://ijsshr.in/v4i5/Doc/3.pdf
+Jamil, R., & Dutta, U. (2021). Centering the margins: The precarity of Bangladeshi low-income migrant workers during the time of COVID-19.
+           American Behavioral Scientist, 65(10), 1-22. https://doi.org/10.1177%2F00027642211000397
+Jolly, S., & Reeves, H. (2005). Gender and migration. BRIDGE, Institute of Development Studies.
+           https://repositorio.unal.edu.co/bitstream/handle/unal/75185/1858648661%20%282%29.pdf?sequence=1&isAllowed=y
+Karim, M. R., Islam, M. T., & Talukder, B. (2020). COVID-19′s impacts on migrant workers from Bangladesh: In search of policy intervention.
+           World Development, 136, 1-4. https://doi.org/10.1016/j.worlddev.2020.105123
+Kline, D. S. (2003). Push and pull factors in international nurse migration. Journal of Nursing Scholarship, 35(2), 107–111.
+           https://doi.org/10.1111/j.1547-5069.2003.00107.x
+Lim, L., L. (2016). Gender sensitivity in labour migration-related agreements and MOUs [Research Series]. International Labour Organization.
+           https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---migrant/documents/briefingnote/wcms_467721.pdf
+MFA Members in Bangladesh. (n.d.). CEDAW and the female labour migrants of Bangladesh.
+           https://tbinternet.ohchr.org/Treaties/CEDAW/Shared%20Documents/BGD/INT_CEDAW_NGO_BGD_48_8124_E.pdf
+Migrant workers’ vaccine registration starts: Saudi Arabia-bound migrants will get Pfizer vaccines at seven centres in the capital. (2021, July 5).
+           The Business Standard. https://www.tbsnews.net/bangladesh/migration/migrant-workers-vaccine-registration-starts-270733
+Ministry of Expatriates’ Welfare and Overseas Employment. (2016). A study report on overseas employment from Bangladesh in 2015.
+           Government of People’s Republic of Bangladesh.
+           https://probashi.portal.gov.bd/sites/default/files/files/probashi.portal.gov.bd/page/808926aa_2852_4e9c_bbad_6c0c23e18c64/Migratio
+           n%20Report.pdf
+Newland, K. (2020, October). Will international migration governance survive the COVID-19 pandemic? [Policy brief]. Migration Policy
+           Institute. https://www.migrationpolicy.org/sites/default/files/publications/globalcompact-migration-governance-pandemic-final.pdf
+Oishi, N. (2002). Gender and migration: An integrative approach (Working Paper No. 49). The Center for Comparative Immigration Studies.
+           https://ccis.ucsd.edu/_files/wp49.pdf
+Overseas Employment and Migration Act 2013 (PPRB) s. VLVIII (Bang.). https://www.ilo.org/dyn/migpractice/docs/169/Act.pdf
+Perruchoud, R., & Redpath, J. (Eds.). (2011). Glossary on migration (2nd ed.). International Organization for Migration.
+           https://publications.iom.int/system/files/pdf/iml25_1.pdf
+Piper, N. (2006). Gendering the politics of migration. International Migration Review, 40(1),133–164. https://doi.org/10.1111%2Fj.1747-
+           7379.2006.00006.x
+Journal of Social and Humanities Studies, 2(2), 11-21. https://doi.org/10.56388/jshs230708                                                       21
+
+
+
+
+Rakotonarivo, A. (2020, December 18). Who are the women on the move? A portrait of female migrant workers. International Labour
+          Organization. https://ilostat.ilo.org/who-are-the-women-on-the-move-a-portrait-of-female-migrant-workers/
+Rashid, S., R. (2016) Gendered practices of remittances of Bangladesh: A poststructuralist perspective. Migrating Out of Poverty Research
+          Programme Consortium (Working Paper Series 42). https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14856/wp42-
+          rashid-2016-gendered-practices-of-remittances-in-bangladesh-a-poststructuralist-perspective.pdf?sequence=1
+Rashid, S. R., Jahid, H. M. F, & Nasrin, R. (2020). Facing COVID-19 in the destination countries: Health shocks, income risks, detention,
+          deportation and wage theft. In T. Siddiqui (Ed.), The other face of globalization: COVID-19, international labour migrants and left-
+          behind families in Bangladesh (pp. 37-60). RMMRU.
+Reza, S., Siddiqui, T., Chowdhury, Y. M., & Afrin, S. (2020). Understanding the gaps: The national statistics and the household remittance flow.
+          In T. Siddiqui (Ed.), The other face of globalization: COVID-19, international labour migrants and left-behind families in Bangladesh
+          (pp. 79-99). RMMRU. http://www.rmmru.org/newsite/wp-content/uploads/2021/04/The-Other-Face-of-Globalisation.pdf
+Shamim, I. (2006). The feminisation of migration: Gender, the state and migrant strategies in Bangladesh. In A. Kaur & I. Metcalfe (Eds.), Mobility,
+          Labour Migration and Border Controls in Asia (pp. 155-171). Palgrave Macmillan. DOI: 10.1057/9780230503465_8
+Shamim, I., & Holliday, J. (2018). Country overview: Women and migration in Bangladesh. UN Women. https://www2.unwomen.org/-
+                     /media/field%20office%20eseasia/docs/publications/2018/03/country-overview-on-un-women-igration.pdf?la=en&vs=4305
+Siddiqui, T. (2003, June). Migration as a livelihood strategy of the poor: the Bangladesh case [Paper Presentation]. Regional Conference on
+          Migration, Development and Pro-Poor Policy Choices in Asia, Dhaka, Bangladesh.
+          https://assets.publishing.service.gov.uk/media/57a08d16ed915d3cfd0017e2/WP-C1.pdf
+Siddiqui, T. (2006). International labour migration from Bangladesh: A decent work perspective (Working Paper No. 66). International Labour
+          Organization. https://www.ilo.org/wcmsp5/groups/public/---dgreports/integration/documents/publication/wcms_079174.pdf
+Siddiqui, T. (Ed.). (2021). The other face of globalisation- COVID-19, international labour migrants and left-behind families in Bangladesh.
+          RMMRU. http://www.rmmru.org/newsite/wp-content/uploads/2021/04/The-Other-Face-of-Globalisation.pdf
+Siddiqui, T., Sultana, M., Jahid, H. M. F, Mahmood, N., & Haque, M.I. (2021). Migration scenario of Bangladesh during COVID-19. In T. Siddiqui
+          (Ed.), The other face of globalization: COVID-19, international labour migrants and left-behind families in Bangladesh (pp. 13-25).
+          RMMRU. http://www.rmmru.org/newsite/wp-content/uploads/2021/04/The-Other-Face-of-Globalisation.pdf
+Siddiqui, T. & Abrar, C.R. (2019). Making dalals visible towards transparency in recruitment. RMMRU. http://www.rmmru.org/newsite/wp-
+          content/uploads/2020/05/Making-Dalals-Visible-Towards-Transparency-in-Recruitment.pdf
+Siddiqui, T., Sultana, M., Sultana, R., & Sanjida, A. (2019). Labour migration from Bangladesh 2018: Achievements and challenges. RMMRU.
+          https://www.forum-asia.org/uploads/wp/2019/05/Migration-Trend-Analysis-2018-RMMRU.pdf
+Siddiqui, T. (2019). Labour migration from Bangladesh 2019: Achievements and challenges. RMMRU. http://www.rmmru.org/newsite/wp-
+          content/uploads/2021/02/TR-2019.pdf
+Sikder, S. J. U., Islam, B. S., Khatoon, J. (2021). Security and insecurity in destination and origin. In T. Siddiqui (Ed.), The other face of
+          globalization: COVID-19, international labour migrants and left-behind families in Bangladesh (pp. 61-78). RMMRU.
+          http://www.rmmru.org/newsite/wp-content/uploads/2021/04/The-Other-Face-of-Globalisation.pdf
+Silvey, R. (2009). Transnational rights and wrongs: Moral geographies of gender and migration. Philosophical topics, 37(2), 75-91.
+          https://www.jstor.org/stable/43154557
+Sikder, M. J. U., & Higgins, V. (2016). Remittances and social resilience of migrant households in rural Bangladesh. Migration and Development,
+          6(2), 253-275. https://doi.org/10.1080/21632324.2016.1142752
+Sultana, H., & Fatima, A. (2017). Factors influencing migration of female workers: A case of Bangladesh. IZA Journal of Development and
+          Migration, 7(4), 1-17. https://doi.org/10.1186/s40176-017-0090-6
+Thimothy, R., & Sasikumar, S., K. (2012). Migration of women workers from South Asia to the Gulf. V.V. Giri National Labour Institute and UN
+          Women. https://www.ucis.pitt.edu/global/sites/default/files/migration_women_southasia_gulf.pdf
+UN Female. (2020, April 27). Far from the spotlight, women workers are among the hardest hit by COVID-19 in Bangladesh.
+          https://www.unwomen.org/en/news/stories/2020/4/feature-women-workers-hardest-hit-by-covid-19-in-bangladesh
+Weeraratne, B. (2020). Return and reintegration without assimilation: South Asian migrant workers in the Gulf during COVID-19 (ISAS Working
+          Paper No. 327). Institute of South Asian Studies. https://www.isas.nus.edu.sg/wp-content/uploads/2020/06/327.pdf
+

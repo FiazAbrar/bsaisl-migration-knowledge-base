@@ -1,0 +1,2975 @@
+                  Roundtable Discussion Series-2025
+                  Keynote Paper of Roundtable Discussion of BIBM
+                                        Volume No. 10 , Issue No. 1
+                                                               2025
+
+
+
+
+Remittance Inflow in Bangladesh: Pre-Migration
+    Financial and Non-Financial Initiatives
+
+              Prashanta Kumar Banerjee, Ph.D.
+              Professor (Selection Grade), BIBM
+
+                  Mahmud Salahuddin Naser
+              Director, Monitory Policy Department
+                        Bangladesh Bank
+
+               Mohammad Mohiuddin Siddique
+               Professor (Selection Grade), BIBM
+
+               Shamsun Nahar Momotaz, Ph.D.
+                  Associate Professor, BIBM
+
+
+
+
+                          Published by
+
+     Bangladesh Institute of Bank Management (BIBM)
+              Section No. 2, Mirpur, Dhaka-1216
+   Roundtable Discussion Series-2025
+     Keynote Paper of Roundtable Discussion of BIBM
+               Volume No. 10, Issue No. 1
+
+
+
+Remittance Inflow in Bangladesh: Pre-Migration
+   Financial and Non-Financial Initiatives
+
+
+
+
+                   Prashanta Kumar Banerjee, Ph.D.
+                   Professor (Selection Grade), BIBM
+
+                      Mahmud Salahuddin Naser
+                  Director, Monitory Policy Department
+                            Bangladesh Bank
+
+                    Mohammad Mohiuddin Siddique
+                    Professor (Selection Grade), BIBM
+
+                    Shamsun Nahar Momotaz, Ph.D.
+                       Associate Professor, BIBM
+
+
+
+
+    Bangladesh Institute of Bank Management (BIBM)
+                       Mirpur, Dhaka-1216, Bangladesh
+    Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |i
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and
+                        Non-Financial Initiatives
+Research Team                    Prashanta Kumar Banerjee, Ph.D., Professor (Selection
+                                 Grade), BIBM
+                                 Mahmud Salahuddin Naser
+                                 Director, Monitory Policy Department, Bangladesh Bank
+                                 Mohammad Mohiuddin Siddique
+                                 Professor (Selection Grade), BIBM
+                                 Shamsun Nahar Momotaz, Ph.D.
+                                 Associate Professor, BIBM
+
+Editorial Advisor                Md. Akhtaruzzaman, Ph.D.
+                                 Director General, BIBM
+
+Editor                           Md. Shihab Uddin Khan
+                                 Professor and Director (Research, Development and
+                                 Consultancy), BIBM
+
+Support Team                     Research, Development and Consultancy Wing
+                                 Papon Tabassum, Assistant Senior Officer, BIBM
+                                 Sk. Md. Azizur Rahman, Officer, BIBM
+                                 Md. Awalad Hossain, Officer, BIBM
+
+                                 Publications-cum-Public Relations Section
+                                 Md. Al-Mamun Khan, Senior Officer (PPR), BIBM
+                                 Md. Morshadur Rahman, Officer (PPR), BIBM
+
+Design &
+Illustration                     Sk. Md. Azizur Rahman, Officer, BIBM
+
+Published in                     March, 2025
+
+Published by Bangladesh Institute of Bank Management (BIBM)
+Plot No.-4, Main Road-1 (South), Section-2
+Mirpur, Dhaka-1216, Bangladesh.
+E-mail: bibmresearch@bibm.org.bd
+Website: www.bibm.org.bd
+
+Copyright © BIBM 2025, All Rights Reserved
+
+Printed by.............................................................
+
+
+The views in this publication are of authors only and do not necessarily reflect the views
+of the institutions involved in this publication.
+
+ii| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                                                                               Foreword
+
+
+
+
+A
+          s part of the ongoing dissemination of BIBM research outputs, the
+          present research paper contains the findings of the roundtable
+          discussion titled “Remittance Inflow in Bangladesh: Pre-Migration
+Financial and Non-Financial Initiatives”. The study was conducted in 2023-
+2024 and the paper was presented in a roundtable discussion held in October
+2024. The study was motivated to identify the pre-migration financial and
+non-financial initiatives available for migrants which may pave the way to
+form well-being policy and improve the institutional capacity associated with
+remittance for harnessing the expected benefits of migration.
+
+It gives me immense pleasure to publish and distribute this research output
+to the practitioners of banks and financial institutions, regulatory agencies,
+academics, and common readers. I hope this research paper will be a valued
+resource for professionals, expressly for the banking community for
+providing excellent remittance services to remitters as well as fulfilling their
+financing needs in Bangladesh.
+
+
+Md. Akhtaruzzaman, Ph.D.
+Director General, BIBM
+
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |iii
+                                                            Acknowledgement
+
+
+
+
+W
+           e would like to extend our gratitude to Dr. Md.
+           Akhtaruzzaman, Honorable Director General of BIBM for his
+           valuable guidance and suggestions to complete the study
+comprehensively.
+
+The research team is grateful to Professor Md. Shihab Uddin Khan, Director
+(Research, Development & Consultancy), BIBM for his consistent
+guidance, as well as for review and editing of this paper.
+
+We would like to thank the respondents of our questionnaires and the
+learned discussants of Focus Group Discussion and the Roundtable
+Discussions at BIBM, who provided their valuable inputs for the successful
+finalization of the report. We are also thankful to all our colleagues for their
+cooperation and support.
+
+Our honest indebtedness goes to Ms. Papon Tabassum, Assistant Senior
+Officer, BIBM; Mr. Sk. Md. Azizur Rahman, Officer, BIBM and Mr. Md.
+Awalad Hossain, Officer, BIBM BIBM and research assistants who have
+facilitated us to get very much useful information from different
+stakeholders across the country.
+
+Finally, we would like to thank all of those who, directly and indirectly,
+extended their cooperation in our research work.
+
+Prashanta Kumar Banerjee, Ph.D.
+Mahmud Salahuddin Naser
+Mohammad Mohiuddin Siddique
+Shamsun Nahar Momotaz, Ph.D.
+
+
+
+
+iv| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                                      Contents
+
+                                                                                  Page No.
+Foreword                                                                             iii
+Acknowledgement                                                                      iv
+Executive Summary                                                                     x
+Acronyms                                                                            xiii
+Section 1: Introduction and Background                                                1
+      1.1 Introduction                                                                1
+      1.2. Scope of the Study                                                         3
+      1.3. Literature Review                                                          3
+      1.4. Objectives                                                                 8
+      1.5. Data and Methodology                                                       8
+      1.5.1.A. Data: Primary Sources                                                  8
+      1.5.1.B. Demographic Profile of Respondents                                     9
+      1.5.2. Data: Secondary Sources                                                 10
+      1.5.3. Reliability and Validity Test                                           11
+      1.5.4. Analysis and Interpretation of the Data                                 11
+      1.6. Organization of the Report                                                11
+Section 2: Organizations Involved and Policies Available with Pre-                   12
+          Migration Financial and Non-Financial Services in
+          Bangladesh
+      2.1. Ministry/Organization/Institutions Involved with Pre-                      12
+           migration Financial and Non-Financial Services in
+           Bangladesh.
+      2.2. Policies Available with Pre-Migration Financial and                        15
+           Non-Financial Services in Bangladesh
+Section 3: Anatomy of Remittances Inflow in Bangladesh                                19
+      3.1. Remittance Inflow to Bangladesh                                            19
+      3.2. Position of Remittance Recipient Countries in South                        20
+           Asia
+      3.3. Destination of Migrant Workers and Share of                                20
+           Remittances, 2013-2023.
+      3.4. Growth and Share of Remittances by Region                                  21
+      3.5. Migrant Workers: Professional, Skilled, Unskilled and                      22
+           Others
+      3.6. Migrant Worker: Male and Female                                            23
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |v
+ Section 4: Review of Financial and Non-Financial Initiatives                            24
+           Available for Migrants at The Pre-Migration Stage in
+           Bangladesh
+       4.A. Financial Services Available for Migrants                                    24
+          4.A.1. Saving Products for Migrant Workers                                     24
+          4.A.2. Loan Products for Migrant Workers                                       26
+          4.A.3. Remittance Transfer Mechanism                                           27
+       4.B. Non-Financial Services Available for Migrants at the Pre-                    29
+            migration Stage
+          4.B.1. Bureau of Manpower Employment and Training                              29
+                  (BMET)
+          4.B.2. Bangladesh Overseas Employment and Services                             30
+                  Limited (BOESL)
+          4.B.3. Wage Earners’ Welfare Board (WEWB)                                      31
+ Section 5: Examining the Effectiveness of Financial Initiatives in                      32
+           Promoting Remittance in Bangladesh
+       5.1. Remittances Inflows by Different Groups of Banks                             32
+       5.2. Expense for Going Abroad Starting from Preparation                           32
+            Phase to Reaching Destination
+       5.3. Source of Finance for Going Abroad                                           34
+       5.4. Bank Account by Own Name / With the Name of                                  34
+            Family
+       5.5. Sources of Borrowed Money for Going Abroad                                   35
+       5.6. Time to Start Earning Money After Reaching the                               36
+            Destination Country.
+       5.7. Time Taken to Cover Migration Costs with Migrants’                           36
+            Incomes
+       5.8. Conduits of Sending Remittance to Home                                       37
+ Section 6: Examining the Effectiveness of Non-Financial                                 38
+           Initiatives in Promoting Remittance in Bangladesh
+       6.1. BMET’s Academic Programs                                                     38
+       6.2. BMET’s Pre-Departure Training (PDT)                                          39
+       6.3. Manpower Export Through BMET                                                 40
+       6.4. Survey Responses about the Non-Financial Services                            41
+            Availed by Migrants
+       6.4.A. Workers Having Plan for Migration Abroad                                   41
+       6.4.B. Information about the Opportunity in the Destination                       41
+              Country
+       6.4.C. Going Abroad with a Pre-fixed Job                                          42
+       6.4.D. Participation in Training before Going Abroad                              42
+
+vi| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+      6.4.E. Pre-Migration Training on Financial Issues                                43
+Section 7: Issues for Discussion                                                       44
+       7.A. Financial Initiatives                                                      44
+         7.A.1. Having a Bank Account before Leaving the                               44
+         Country
+         7.A.2. Saving and Investment Products for Migrant                             45
+         Workers
+         7.A.3. Bank Loans                                                             45
+         7.A.4. Government Incentives                                                  47
+         7.A.5. Illegal Channels and Sending Money through                             47
+         Utilizing APPs
+      7.B. Non-Financial Initiatives                                                   48
+         7.B.1. Absence of Well thought Planning with a Prefixed                       48
+         Job
+         7.B.2. Less Effectiveness of Pre-Departure Training                           48
+         (PDT) program
+         7.B.3. BMET’s Skill Development Programs                                      49
+         7.B.4. BOESL Activities to Foreign Employers                                  50
+         7.B.5. Problems of Financial Literacy                                         50
+References                                                                             53
+Annexures                                                                              57
+
+
+
+
+     Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |vii
+List of Tables
+                                                                                      Page No.
+Table 2.1. Ministry/ Organization/Institutions Involved with Pre-                        12
+           migration Financial and Non-Financial Services in
+           Bangladesh.
+Table 2.2. Important Act/ Policies/Rules Available with Pre-                              15
+           Migration Financial and Non-Financial Services in
+           Bangladesh
+Table 3.1. Share of Remittances by Regions                                                22
+Table 3.2. Migrant Workers: Professional, Skilled, Semi -Skilled,                         23
+           Unskilled and Others
+Table 3.3. Migration: Male Vs Female                                                      23
+Table 4.1. Saving Products for Migrant Workers                                            24
+Table 4.2. Loan Products for Migrant Workers                                              26
+Table 4.3. Remittance Transfer Mechanisms                                                 28
+Table 4.4. Non- Financial Services Offered by BMET at                                     29
+           Premigration Stage
+Table 4.5. Non- Financial Services Offered by BOESL at the                                30
+           Premigration Stage
+Table 4.6. Non- Financial Services Offered by WEWB at the                                 31
+           Premigration Stage
+Table 5.1. Expense for Going Abroad                                                       33
+Table 5.2. Sources of Finance for Going Abroad                                            34
+Table 5.3. Sources of Borrowed Money for Going Abroad                                     36
+Table 5.4. Length of time to Start Earning Money After Reaching                           36
+           the Destination Country
+Table 5.5. Time Taken for Covering Migration Costs with Incomes                           37
+Table 5.6. Conduits of Sending Remittance to Home                                         37
+Table 6.1. BMET’s Academic Programs                                                       38
+Table 6.2. Comparative Study of Pre-departure Orientation in                              39
+           Bangladesh and the Philippines
+Table 6.3. Overseas Employment through BMET’s Clearance Card                              40
+Table 6.4. Workers Having Plan for Migration Abroad                                       41
+Table 6.5. Information about the Job of the Destination Country                           42
+Table 6.6. Going Abroad with a Certain Occupation                                         42
+           (Job/Business/Others)
+Table 6.7. Participation of Training before Going Abroad                                  43
+Table 6.8. Pre-migration Training on Financial Matters                                    44
+
+
+viii| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+List of Figures
+                                                                                  Page No.
+Figure 3.1. Trends of Workers' Remittances                                            19
+Figure 3.2. Position of Top Remittance Recipient Countries in                         20
+         South Asia, 2022
+Figure 3.3. Share of Destination of Migrants 2013-2023                                21
+Figure 3.4. Growth of Remittances by Region 2014-23                                   22
+Figure 5.1. Remittances Inflows by Different Groups of Banks                          32
+Figure 5.2. Having a Bank Account by Own Name/ With the Name                          35
+         of the Family
+
+
+List of Annexures
+Annexure Table 1: Demographic Profile of Respondents                                  57
+Annexure Figure 1: Home District of Respondents (First Time)                          58
+Annexure Figure 2: Home District of Respondents (Second Time)                         58
+Annexure Figure 3: Destination Country (First Time)                                   59
+Annexure Figure 4: Destination Country (Second Time)                                  59
+
+
+
+
+     Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |ix
+                                                              Executive Summary
+
+
+
+B
+         angladesh has immensely benefitted from international migration and its
+         concomitant remittances. After export earnings, workers’ remittances
+         have become the second largest stable source of financial flows to
+Bangladesh and in terms of the percentage of global remittance inflows the country
+is the third largest recipient country in South Asia. Remittances inflows to
+Bangladesh have increased to USD 21.6 billion in FY23 from the amount of USD
+14.2 billion in FY14. Like many developing countries, Bangladeshi migrants
+especially low-skilled workers face multifaceted financial and non-financial
+hardships at the premigration, post-migration, and reintegration stages. The
+objectives of the study were to identify the organizations involved and policies
+available with pre-migration financial and non-financial services in Bangladesh,
+to examine the anatomy of remittances inflow in Bangladesh, and to review
+financial and non-financial initiatives available for migrants at the pre-migration
+stage in Bangladesh.
+
+Both primary and secondary data have been used through a combination of
+questionnaire, key informant interview, FGD, and discussion with the migrants by
+visiting several Technical Training Centers located in Dhaka in addition to data
+collected from different publications of Bangladesh Bank, and BMET. The
+findings suggest that a major portion of migrating workers under the survey
+belonging to semi-skilled and less-skilled categories have little educational
+background. Source of money for going abroad for first-time workers mostly was
+their personal income followed by the sale of other assets and land and loan taken
+mainly from family members followed by NGOs, and Mahajon/Shamiti. Lack of
+financial literacy, absence of knowledge about the loan products, burden of
+documentation in getting loans, and relatively shorter periods to repay the banks’
+loan are being considered as hurdles for the remitters to get advantages of these
+loan products. A total of 85.71 percent and 94.29 percent of workers who are going
+abroad for the first time and second time respectively decide to migrate based on
+a well-thought-out plan whereas a noticeable percent (14.29 percent) is still going
+outside the home country for the first time without any definite pre-departure plan.
+Family members/ relatives/ friends are at the top of the list as a source of
+information both for first-time and second-time expatriates with 59.18 percent and
+57.14 percent of the total sample respondents, respectively. It is noticeable that
+
+x| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+hardly any worker in the sample group visits or depends on the websites of
+different countries to get information about the countries in which they are
+planning to go.
+
+In our country, non-financial services like skill development, creating awareness
+among migrants about their rights, addressing complaints of expatriates, sending
+people at the lowest costs, etc. are being offered by different organizations like
+BMET and BOESL. The study found that, s small percentage of total migrants
+(16%) seem to go abroad without occupational training apart from the mandatory
+three-day long training program arranged at different TTCs under the supervision
+of BMET for the migrants. Only 39 percent of the respondents received banking
+service-related training although most of the second-time migrant workers (86
+percent) have got such kind of training. Even in this age of digital financial
+services, the majority of migrants cannot use mobile financial services for sending
+remittances. Quite surprisingly, very few migrants, in fact none of the first-time
+movers, have ideas about the pitfall of sending money through hundi.
+
+The study suggested some measures that include investing more in awareness
+programs by MoEWOE, BMET, and BOESL in collaboration with banks
+regarding the importance of having a bank account before leaving the country;
+placing and disclosing all information of savings and investments in website of
+MoEWOE’s, offer non-financial services like providing smart and health card,
+appreciation certificate, assistance in submitting tax return, taking initiative to
+design new products similar to pension schemes, introducing investment
+instruments like green bond, sukuk bond or plain vanilla bond, mutual funds and
+investment linked deposit products; involving Union Parishad Chairman,
+Principal/ Headmaster of colleges/ schools or influential relatives in lending
+process, creating online network by Ministry of Labor and Employment or/and
+Ministry of Expatriates Welfare and Overseas Employment or/and authorized
+recruitment agencies for collecting certificates; arranging linkage financing
+through NGOs; designing appropriate loan products with grace period and
+conducting awareness programs at home and abroad, initiating digital lending
+such as “Nano Lending” or e-wallet, to giving conditional privilege to the migrants
+by Government through issuing passport and some other travel related documents
+at concessional rate, campaigning programs for aspired migrant by BMET, TTC
+and PKB jointly regarding desired profession/ job, host country, expected earning
+amount, estimated costs of going abroad.
+
+
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |xi
+The report also recommended appointing more qualified and experienced
+instructors by BMET especially language instructors, redesigning the PDT
+program separately for unskilled, semi-skilled, and skilled migrants by keeping
+more duration and modules and providing the option to deliver online and offline
+or blending both on technology and language proficiency; engaging more private
+sector organizations and Non-Governmental Organizations (NGOs) in offering
+PDT even in remote areas of the country; and running more awareness programs
+by BMET with TTC and other vocational training academies about availability
+and benefits of running skill development programs covering the future
+requirements of the host countries to facilitate the potential migrants of the country.
+In this regard, launching more Government to Government (GTG) agreements
+with the host countries and enhancing communication with foreign missions of
+Bangladesh; arranging at least four academic sessions by BMET during PDT
+keeping covering financial knowledge on saving, loan and investment services
+available in banks and financial institutions, processes of sending money to home
+country and negativity of hundi would be helpful in augmenting foreign remittance
+in future.
+
+
+
+
+xii| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                                 Acronyms
+
+ADB             Asian Development Bank
+AOF             Account Opening Form
+BAIRA           Bangladesh Association of International Recruiting Agencies
+BOESL           Bangladesh Overseas Employment and Services Limited
+BMET            Bureau of Manpower, Employment and Training
+CAGR            Compound Annual Growth Rate
+CIP (NRB) Commercially Important Person (NRB)
+ECNEC           National Economic Council
+FCBs            Foreign Commercial Banks
+FDR             Fixed Deposit Receipt
+FGD             Focus Group Discussion
+FCBs            Foreign Commercial Banks
+FDI             Foreign Direct Investment
+FGD             Focus Group Discussion
+GDP             Gross Domestic Production
+GGC, EU         Global Cosmetics Cluster-Europe
+GTG             Govt. to Govt.
+ILO             International Labour Organization
+IOM             International Organization for Migration
+ISO             International Organization for Standardization
+KII             Key Informant Interview
+KSA             Kingdom of Saudi Arabia
+MFI             Microfinance Institute
+MFS             Mobile Financial Services
+MoEWOE          Ministry of Expatriates’ Welfare and Overseas Employment
+MRA             Microcredit Regulatory Authority
+
+Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |xiii
+       NBFI            Non-bank Financial Institution
+       NBR             National Board of Revenue
+       NGOs            Non-government Organizations
+       OBUs            Offshore Banking Units
+       OEMA            Overseas Employment and Migrants Act
+       PCBs            Private Commercial Banks
+       PDT             Pre -Departure Training
+       PKB             Probashi Kollyan Bank
+       PLC             Public Limited Company
+       PR              Public Relations
+       PS              Deposit Pension Scheme
+       ReMiMIS         The Returning Migrants Management of Information System
+       RMMRU           Refugee and Migratory Movements Research Unit
+       RPL             Recognition Prior Learning
+       SBs             Specialized Banks
+       SCOBs           State-Owned Commercial Banks
+       SDG             Sustainable Development Goal
+       SEIP            Skill for Employment Investment
+       TTCs            Technical Training Centers
+       UAE             United Arab Emirates
+       UNDP            United Nations Development Programme
+       UNESCO          The United Nations Educational, Scientific and Cultural
+                       Organization
+       USD             United States Dollar
+       WEWB            Wage Earners’ Welfare Board
+       WEWF            Wage Earners` Welfare Fund
+
+
+
+
+xiv| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+     Remittance Inflow in Bangladesh: Pre-Migration
+        Financial and Non-Financial Initiatives
+
+Section 1: Introduction and Background
+1.1 Introduction
+Bangladesh is immensely benefitted from international migration and its
+concomitant remittances. After export earnings, workers’ remittances have
+become the second largest stable source1 of financial flows to Bangladesh
+and are considered as lifeline for many people in Bangladesh. Remittances
+are a source of foreign exchange for the Government and help families for
+covering their day-to-day costs and investing in education, health, and small
+businesses (WB, 2006 & ADB, 2021).
+
+Like many developing countries, Bangladeshi migrants especially the low-
+skilled workers face multifaceted financial and non-financial hardships at
+the premigration, post migration and reintegration stages. At the
+premigration stage, financial problems like high migrations costs, meeting
+up migration costs mostly from personal and informal sources at
+exorbitantly high interest rates, dearth of financial information, difficult in
+getting access to formal as well as hassle-free finance on time, mainly city
+centric sources of banks’ finance for migrants are prominent. On the other
+hand, lack of skills, education and training, prevalence of a series of
+intermediaries at home and abroad, involvement of unscrupulous people in
+visa trading, fraudulent labor contracts, ill treatment and abuse, inability to
+understand local language, lack of access to healthcare services and risks to
+inflict emotional distress or trauma are well known premigration non-
+financial challenges faced by migrants from Bangladesh.
+
+Because of aforesaid difficulties, the potential benefits of remittances have
+not yet fully materialized. Total workers’ remittances inflow increased by
+
+1
+  Remittances are relatively stable and acyclical. In contrast, debt flows and FDI are
+procyclical. Stability and acyclicality imply that remittances have the potential to make a
+critical contribution to support consumption in the face of economic adversity (Asian
+Development Bank and The World Bank, 2018).
+
+        Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |1
+USD 448.50 million to USD 12900.63 million during July-January of FY24
+compared to that of July-January of FY23 (Monthly Economic Indicators,
+January 2024, Bangladesh Bank). Despite noticing a high growth of
+migration rate from Bangladesh i.e.13 per cent in 2023 (BMET 2023), the
+remittance inflow increased by a small percentage of 3.60 percent
+(Bangladesh Bank, 2023). Both Pakistan and the Philippines rank behind
+Bangladesh as migrant source countries, but they are ahead in remittance
+earnings as per the latest World Migration Report 2024 by the International
+Organization for Migration (IOM). Bangladesh has retained its positions as
+a migrant origin and remittance recipient country– ranking sixth and eighth,
+respectively while Pakistan ranks seventh and sixth and the Philippines
+ninth as origin and fourth in remittance (Siddique, Kamran, 2024). This is
+largely due to high concentration of unskilled and semi-skilled workers
+employed in lower paid jobs, lack of financial literacy and growing
+preference of migrants to send money through informal channels2. Financial
+sector containing with less efficient banking sector, and tiny equity and
+bond market, absence of suitable financial instruments, failure to create
+scope for migrants to invest in financial instruments or other income-
+generating opportunities are also important causes for lower amount of
+remittance inflow to the country. Receiving households tend to spend
+remittances on necessities, education and health and have little left to invest
+in financial instruments or other income-generating opportunities (WB,
+2006 and ADB, 2021).
+
+Particularly, the informal remittances sent by Bangladeshi migrant workers
+is a concern for the governments as well as regulators. The informal
+remittances are not only creating barrier to form a respectable amount of
+foreign currency reserve in a country like Bangladesh, but also this money
+is used as the sources for smuggling, money laundering, and other illegal
+activities. The initiatives taken to stop informal remittances by the
+Governments and regulators so far have had limited impacts, rather it is
+
+
+2
+  This shows, however, only officially recorded figures and the total remittance including
+informal remittances is substantially greater than the officially recorded amount (Mayumi
+Ozaki 2012).
+2| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+noticed that systems used for sending informal remittances are increasingly
+used by unbanked people especially in rural Bangladesh because of
+certainty, low cost, speed, accessibility, and customer friendliness.
+
+A well-planned preparation of migrants at pre-migration level in terms of
+financial and non-financial issues is the key to get perceived benefits of
+remittance. A coordinated efforts by the governments, regulators and
+financial sectors are required for addressing non-financial issues like
+migrants’ education and training, institutional capacities for migration
+governance, legal and policy constraints, financial inclusion, and financial
+issues like making available formal financial services to the doors of mass
+people across the country, ensuring required finance for covering migration
+costs sufficiently on time, arranging digital mode for sending remitters
+money and improving financial literacy can improve the aforesaid
+situation. It is pertinent to say, if migrants get proper education, training,
+information and financial literacy as well as finance from the formal sources
+before migration, their sufferings will be reduced at large scale in one way,
+on the other hand inclination to send money through informal sources might
+also be decreased. In this respect, an endeavor has been undertaken to study
+the pre-migration financial and non-financial initiatives available for
+migrants which may pave the way to form well-being policy and improve
+the institutional capacity associated with remittance for harnessing the
+expected benefits of migration.
+
+1.2.Scope of the Study
+
+This study has been conducted by covering both Pre-Migration Financial
+and Non-Financial Initiatives offered to only temporary migrants by
+covering data 2014- 2023. Discussion points have been raised depending
+on analyses accomplished through literature review, as well as information,
+opinions and comments collected from survey data, Focus Group
+Discussion (FGD) and Key Informant Interview (KII).
+
+1.3. Literature Review
+
+An increasing number of people at different stage of their lifecycle move
+within their country or to another country. Nearly 12% of the global
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |3
+population falls within the former category and 3.3% in the latter
+(UNESCO, 2018). With more than a billion people living outside their place
+of birth, migration has become an integral part of the development process
+(Varghese 2021). It is not difficult to understand the dominant reason why
+individuals migrate from one country to another; they just want to get a
+better life for them and for their families. “Migration is an expression of
+human aspirations for safety, dignity and better future” (UNESCO, 2018).
+The neoclassical theory of migration (e.g. Todaro, 1969) summarizes this
+behavior by suggesting that migrant workers move to other countries in
+response to a series of “push” factors related to the domestic economy and
+“pull” factors from the destination countries. Migration maybe one of the
+household strategies to deal with the limitations of the home country
+economy. Many factors, however, impact the actual number of migrations
+such as the cost of arranging migration, availability and interest cost of getting
+loan from formal, or informal sources, skill gap of the probable migrants,
+language and other social barriers.
+
+International migration dynamics have attracted the attention of academics
+and policy makers because of its possible impacts in the home country
+macroeconomic conditions. Relationship between migration and economic
+development is one prominent area of research that covers a host of socio-
+economic issues in the context of developing and developed countries.
+Migration is a decision that impacts the welfare of the household, the home
+community, and in the end the whole economy in various ways (Azam and
+Gubert, 2006). The main channels through which migration alleviates
+poverty are increased incomes from remittances, ability to smooth
+consumption, access to finance for starting a new business (Ratha et al.,
+2011). Migration and remittances have both direct and indirect effects on
+the welfare of the population in the migration sending countries (World
+Bank, 2006; UNDP, 2009; and De Haas, 2005).
+
+Migration policy differs across the regions in terms of preference given on
+skill level of labor, types of profession and duration for which work visa is
+given. The migration policy of Asian countries is more focused on highly
+qualified short-term, as well as business immigrants (investors) who are not
+4| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+interested in further naturalization. A number of Asian countries (South
+Korea, Japan, Thailand, Malaysia, Singapore, Gulf monarchies) faced a
+sharp increase of unskilled labor immigration from Cambodia, Myanmar,
+Indonesia, India, Bangladesh, Pakistan, and Nepal. Middle East migration
+policy is more oriented to low-skilled labor immigrants who are able to
+compensate national labor shortages with their inexpensive labor (Ushakov
+& Auliandri, 2019).
+
+Remittances are broadly identified as the transfer of money from migrants
+to individuals in the country of origin (Ratha, 2005; Weeraratne &
+Kelegama, 2015; World Bank, 2011; International Organization for
+Migration (IOM), 2006). The impact of remittances on household and the
+economy are manifold in nature. A cross-country study of 71 developing
+countries found that a 10 percent increase in per capita official international
+remittances will lead to 3.5 percent decline in the share of people living in
+poverty (Adams & Page, 2005). Evidence from Latin America, Africa,
+South Asia and other regions suggests that remittances reduce the depth and
+severity of poverty, as well as indirectly stimulate economic activity
+(Adams, 1991; Fajnzylber & López, 2008; Gupta et al. 2007; Anyanwu &
+Erhijakpor, 2010; and Ajayi et al. 2009). Remittances have been found to
+have an income stabilizing effect at both the macroeconomic level (World
+Bank, 2006; and Chami et al. 2009) and at the household level. Migrant
+remittances increase domestic savings as well as improve financial
+intermediation (Aggrawal et al. 2006, Toxopeus & Lensink, 2007), which
+can improve growth prospects (Giuliano & Ruiz-Arranz, 2005). Access to
+information through the diaspora and the skills learned by returning
+migrants can improve technology, management and institutions in the
+sending country, and lower the fixed cost and knowledge requirements for
+setting up an international business (Carling, 2005). Migration contributes
+to human capital formation. There is a growing body of evidence suggesting
+that the income from remittances is disproportionally spent on education
+and health rather than everyday consumption (Adams, 2005; Adams et al.,
+2008 Valero-Gil, 2008).
+
+A vast number of literatures have focused on the determinants of remittance
+flows e.g., Blue (2004), Naufal (2007), Osili (2004) and Vargas-Silva
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |5
+(2009) just to name a few. The findings of these studies suggest that a wide
+range of variables affect the likelihood to remit and the amount remitted.
+There are also many reasons why migrants send home part of their incomes,
+such as altruism, self-interest, loan repayment, and insurance motives. A
+series of studies have focused directly on the relationship between
+remittances and economic growth. Giuliano and Ruiz-Arranz (2009)
+explore the relationship between remittances and the financial sector of the
+receiving country. They posit that in those countries that lack proper credit
+markets, remittances may ease credit constraints by allowing entrepreneurs
+to obtain the necessary capital for business ventures. Using data for about
+100 developing countries, they find evidence that remittances promote
+growth in less financially developed countries. Mundaca (2009) presents a
+theoretical model in which remittances have a long-term impact on the
+receiving economy only if these flows are invested in long-run technology
+or used for capital investment. However, she argues that investment in those
+areas would only be possible in the presence of financial intermediaries that
+facilitate the lending of saved remittances money. It is found that, in general,
+remittances positively affect annual GDP per capita of remittance receiving
+countries (Vargas-Silva et al., 2009). It is also found that remittances
+decrease the poverty gap and ameliorate the depth of poverty. Remittances
+also contribute to improvements of welfare of remittance receiving
+households by smoothing consumptions and increasing spending on food
+and housing-relating expenditures (Raihan et al., 2009).
+
+Remittance growth, however, faces different constraints and challenges at
+different time periods in the backdrop of ever-changing financial landscape.
+ADB (2021) identified a set of challenges with remittances that includes
+high remittance price, de-risking, continued dominance of cash in sending
+remittance, widespread use of informal remittances (hundi), regulatory
+environments, and lack of data. The same report suggested a number of
+recommendations to accelerate digitization in remittances to be driven by
+governments including regulators and supervisors, private sector, and for
+all the stakeholders. These are mainly increase financial education in digital
+services, use of technology to support anti-money laundering and
+
+6| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+countering financing of terrorism regulations, interoperability, development
+of digital identification solutions, incentivize digital transactions, simplify
+on-boarding while reassuring that it is secure and working together to
+safeguard remittances and promote competition and innovation. ILO (2020)
+conducted a comprehensive analysis of remittances in the context of Sri
+Lanka that came up with some suggestions i.e. improving interaction
+between banks and MTOs, adopting FinTech, promoting mobile money,
+reconsidering importance of female migrants for remittances, improving
+timing and frequency of remittance education, inculcating a positive attitude
+towards remittances, and producing better data on remittances.
+
+Buchenau (2008) studied the link between migration, remittances and
+poverty in Bangladesh context and developed some policy options to
+improve the efficiency of migration and migration-related financial
+services. Iqbal (2014) examined the impacts of remittance on the
+socioeconomic condition of Bangladesh. Positive impact found in the study
+include increased income, higher spending on children education, increase
+in social status, and creation of employment opportunities for poor. A
+significant relationship between growth in remittances and different
+outcome variables in the economy with positive impact on poverty,
+household income and financial inclusion has been found in Bangladesh
+economy (Akhter & Islam 2019). Raihan (2023) found the key remittances
+are derived from Middle Eastern countries, the United States, the United
+Kingdom, European nations, and East Asian countries.
+
+Anima et al. (2023) analyzed the consequences of using Hundi as an
+informal channel for transferring funds by Bangladeshi immigrants as
+enabling illegal financial operations in Bangladesh. They evidenced the
+adverse economic impacts of the Hundi on foreign reserves and misuse of
+the Hundi as a means for money laundering, aiding the incorporation of
+illegal funds into the legitimate economy, and helping illicit activities for
+example foreign property purchase. In this regard, they recommended
+enhancing the governance and supervision of the formal financial sector
+with increasing the banking services; intensifying public knowledge of
+threats and consequences of using Hundi; team up internationally to halt
+cross-border transmissions in hundi businesses; offering more competitive
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |7
+exchange rates by banks; boosting digital transactions like mobile banking,
+online transfers, digital wallets, remittance-based apps; and designing an
+accessible agent banking system in formal banking in the country.
+
+1.4. Objectives
+
+The primary objective of this paper is to comprehensively examine the
+financial and non-financial services available for migrant workers at the
+pre-migration stage. To attain the primary objective, this study aims to shed
+light on the following specific objectives:
+
+1.To identify the organizations involved and policies available with pre-
+ migration financial and non-financial services in Bangladesh.
+ 2. To examine the anatomy of remittances inflow in Bangladesh.
+ 3. To review financial and non-financial initiatives available for migrants
+ at the Pre-Migration Stage in Bangladesh.
+ 4. To examine the effectiveness of financial and non-financial initiatives
+ in promoting remittance in Bangladesh.
+1.5. Data and Methodology
+
+The overall methodology of the study is a mixed method using both primary
+and secondary sources covering qualitative as well as quantitative data.
+
+1.5.1.A. Data: Primary Sources
+
+The primary data have been collected by administering semi-structured
+questionnaires from authorities involved with financial and non-financial
+services offered to the migrants at the premigration stage. In collecting
+financial data, a questionnaire was sent to all types of banks including
+Probashi Kallyan Bank (PKB) and a few NGOs linked with the financing
+migrants. Of which, a total of 25 banks and 2 NGOs have responded and
+sent back questionnaires by answering questions asked to them. Apart from
+these, several surveys have been conducted through visiting Bureau of
+Manpower, Employment and Training (BMET) and a number of Technical
+Training Centers located in Dhaka to get information and opinion based on
+a questionnaire from the Bangladeshi migrants. In collecting primary data,
+8| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+respondents have been classified into two groups, namely first time going
+abroad and the 2nd time going abroad. Besides collecting data through
+questionnaires, a Focus Group Discussion (FGD) with 25 participants
+working in banks, FIs and NGOs and Key Informant Interviews (KII) are
+also conducted to get complimentary information side by side with
+responses in the questionnaires.
+
+1.5.1.B. Demographic Profile of Respondents
+
+In selecting respondents, we have emphasized the position, relevancy and
+knowledge level of respondents on the remittances (Annexure Table-1). In
+terms of sample demographics, respondent characteristics are varied
+widely. Respondents’ gender, age, educational qualification, previous
+profession, family member number, and dependent family members are
+relevant personal data. While demographic information has no impact on
+this study's analysis level, the reporting may provide a generalized view in
+terms of male and female participation in migration, at which average age
+workers go abroad to earn money, and their educational level in Bangladesh.
+The Annexure Table-1 shows that migrating workers are overwhelmingly
+male (84% for 1st time-going and 75% for 2nd time going workers). Male-
+dominant migration reflects the restrictive policies and conservative values
+of both the sending and receiving governments as well as the socioeconomic
+and cultural conditions of countries. It is revealed that respondents varied
+widely in terms of their age. The highest representatives are the age group
+of 26 to 35 years with 55% of the 1st time going workers and 43% of the 2nd
+time going workers. The study observed that young people were interested
+in migrating. It also shows that migrating workers in this sample have very
+little or no educational background as the majority of the workers (55% of
+the 1st time going and 57% of the 2nd time going) have a secondary level of
+education followed by SSC passed workers (26.5% of the 1st time going and
+17.1% of the 2nd time going). In terms of previous professions, Garments
+job is found to be the main source of income for the 1st time going workers
+(29%) followed by service (14%), shop keeping (12%). However, service
+is found to be the main source of income of the 2nd time going workers
+(29%) of the majority of respondents followed by garments job (17%), day
+labor (11.4%), and farming (8.6%). All the professions are found to fall into
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |9
+semi-skilled and less-skilled categories. The average family size of both 1st
+time-going and 2nd time going workers is found as 4 persons which appears
+to be close to the country's average household size in the Household Income
+and expenditure survey 2022 of 4.26 persons (Bangladesh Bureau of
+Statistics, 2023). 24.5% of the 1st time going workers have 2 dependent
+family members and 25.7% 2nd time going workers have 4 dependent family
+members who depend on their income. Majority of the respondents are from
+Dhaka (34.7% of the 1st time going and 45.7% of the 2nd time going
+workers) followed by Gazipur (14.3% of the 1st time going and 17.1% of
+the 2nd time going workers). The reason behind this scenario is that they
+were surveyed at the two TTCs of BMET namely Bangladesh-Korea
+Technical Training Centre, Dhaka, and Bangladesh-German Technical
+Training Centre, Dhaka where visits of migrating workers from distant
+districts from Dhaka are rare (Annexure Figures-1 & 2). It is also observed
+that Saudi Arab remains the highest number of workers destination country
+(40.8% of the 1st time going and 34.3% of the 2nd time going workers)
+followed by Jordan (18.4% of the 1st time going and 22.9% of the 2nd time
+going workers) and UAE (10.2% of the 1st time going workers) and
+Mauritius (11.4 of the 2nd time going workers) as stated in Annexure
+Figures-3 & 4 also. Malaysia, Qatar, Oman, Iraq, and Kirgizstan are found
+as other destination countries of the workers.
+
+1.5.2. Data: Secondary Sources
+
+The secondary data have been collected from Ministry of Expatriates’
+Welfare and Overseas Employment (MoEWOE), Bangladesh Bank, Bureau
+of Manpower, Employment and Training (BMET), Bangladesh Overseas
+Employment and Services Limited (BOESL), Bangladesh Association of
+International Recruiting Agencies (BAIRA), Recruiting Agencies, Wage
+Earners’ Welfare Board (WEWB), State-owned Commercial Banks
+(SOCBs), Private Commercial Banks (PCBs), Foreign Commercial Banks
+and Specialized Banks (SBs) and Probashi Kallyan Bank (PKB). Relevant
+websites of Ministries, Institutes, banks or other financial institutions at
+home and abroad have also been visited to get information.
+
+10| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+1.5.3. Reliability and Validity Test
+
+After collecting data from primary and secondary sources as well as focus
+group discussions and KII, necessary coding and cleaning have been done
+to ensure the reliability and validity of data.
+
+1.5.4. Analysis and Interpretation of the Data
+
+Different statistical and accounting tools such as simple growth rate, and
+Compounded Annual Growth Rate (CAGR) have been applied to analyze
+the collected information. Both tabular and graphical approaches have been
+applied in presenting and analyzing data. The paper has been finalized by
+contemplating the opinions and observations expressed by discussants and
+participants of the Round Table Discussion.
+
+1.6. Organization of the Report
+
+This report is organized as follows. As the introductory part, Section-1
+covers scope of the study, literature review, objective of the study, data and
+methodology and section plan, the Section-2 covers associated
+organizations and policies involved with migration process. Section-3
+shows the anatomy of remittances inflow in Bangladesh. Section-4 reviews
+financial and non-financial initiatives available for migrants at the Pre-
+Migration Stage. Section-5 demonstrates effectiveness of financial
+initiatives in Promoting Remittance and effectiveness of non-financial
+initiatives have been covered in the Section-6. And the Section-7 presents
+some issues with suggested measures.
+
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |11
+Section 2: Organizations Involved and Policies Available with Pre-
+Migration Financial and Non-Financial Services in Bangladesh
+2.1. Ministry/ Organization/ Institutions Involved with Pre-migration
+Financial3 and Non-Financial Services in Bangladesh
+The Ministry of Expatriates' Welfare and Overseas Employment
+(MoEWOE) is on the helm of all activities relating to information,
+partnerships, facilitations and monitoring of overseas employment.
+MoEWOE with organizations like BMET, BOESL and WEWB has been
+working to supply more skilled workers, ensure migration in legal ways,
+safeguard the welfare of all migrant workers, create opportunities of
+securing overseas employment for workers from all regions of the country
+and hence is increasing the flow of inward remittances (Table-2.1). Further,
+establishment of a specialized Bank named Probashi Kallyan Bank (PKB)
+with the prime objective to serve migrants with finance and designing app-
+based mechanism to send money quickly is a timely initiative of the
+Government.
+
+ Table 2.1. Ministry/ Organization/Institutions Involved with Pre-migration
+            Financial and Non-Financial Services in Bangladesh.
+      Ministry/
+   Organizations/             Types and Origination                       Activities
+    Institutions
+Ministry of                Govt. delegated the                  Ensuring transparency and
+Expatriates’ Welfare       responsibility related to            accountability and overall
+and Overseas               management, governance               governance in the
+Employment                 and welfare of labor                 recruitment process.
+(MoEWOE)4                  migration to the ministry of
+Established in 2001.       MoEWOE for overseeing
+                           and supervising the
+                           functioning of the activities
+                           of BMET, BOESL, Wage
+                           Earners' Welfare
+                           Board (WEWB) and
+
+
+3 Although name of organizations was mentioned under the Pre-migration stage, same
+organizations might offer services in post migration stage too.
+4 MoEWOE was newly established in 2001 which was earlier ‘Ministry of Manpower
+development and Social Welfare’.
+12| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+        Ministry/
+      Organizations/            Types and Origination                      Activities
+       Institutions
+                         Probashi Kallyan Bank
+                         (Expatriates’ Welfare Bank).
+    Bureau of            BMET6 was established as ▪ Conducting informal and
+    Manpower,            an attached department of       special training courses
+    Employment and       the then ‘Ministry of           through Technical
+    Training (BMET)5     Manpower Development            Training Centers (TTC)
+    Established in 1976. and Social Welfare’. The        & establishment of new
+                         Bureau was created in line      TTC through
+                         with the ILO Convention 87, development projects.
+                         88, 96 and 97.                ▪ Providing with Smart
+                                                         cards, Biometric
+                                                         registration, and
+                                                         immigration clearance to
+                                                         the migrant workers.
+                                                       ▪ Regulating and
+                                                         monitoring licenses of
+                                                         private recruiting
+                                                         agencies.
+    Bangladesh           BOESL7 is the sole state-     • Undertaking time-bound
+    Overseas             owned and ISO certified         initiatives for expediting
+    Employment and       manpower exporting              the safe, ethical and
+    Services Limited     company formed under the        responsible low-cost
+    (BOESL)              Company Act VII of 1913         labor migration.
+    Established in 1984. Bangladesh.                   • Conducting labor market
+                                                         research, and new
+                                                         market exploration.
+    Bangladesh           BAIRA was established for • Ensuring supply of
+    Association of       catering to the needs of the    quality manpower at a
+    International        licensed recruiting agencies.   minimum cost within the
+    Recruiting Agencies                                  time schedule given by
+    (BAIRA)                                              the employers.
+
+
+5
+  In 29 August, 2023, the Executive Committee of the National Economic Council (ECNEC)
+approved a Taka 3,751.09 crore project to establish 50 TTC at upazila level. BMET will
+implement the project for setting up the TTCs with entire government fund by March 2028.
+6
+   BMET is engaged in skill development of migrant workers by following Overseas
+Employment Act 2013, Emigration Rules 2002, Recruiting agents conduct & license Rules
+2002, Wage Earners` Welfare Fund (WEWF) Rules 2002, Overseas Employment Policy, 2006,
+Selection of CIP (NRB) policy, 2006, Special privilege policy of expatriate Bangladeshis for
+remittance, 2008 and Medical Test policy for overseas employment 2008.
+7
+  BOESL discharges its responsibilities by following Overseas Employment & Migrants Act
+2013, Expatriates’ Welfare and Overseas Employment Rules 2016 and Emigration Rules 2002.
+         Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |13
+          Ministry/
+       Organizations/         Types and Origination                       Activities
+        Institutions
+    And almost 2000                                     • Offering Insurance
+    Private Recruiting                                    Schemes (one for the
+    Agencies                                              workers before their
+    Established in 1984                                   departure and the other is
+                                                          for their families).
+    Wage         Earners’ In order to help the families ▪ Providing             legal
+    Welfare        Board of the workers abroad, assistance and collecting
+    (WEWB)8               Government formed "Wage compensation                  from
+    Established in 1990 Earners Welfare Fund9 under foreign employers for
+                          the authority of Article 19(1) deceased migrants,
+                          of the Emigration Ordinance- ▪ Giving assistance to
+                          1982.                           afflicted          migrant
+                                                          workers, health services,
+                                                          inspection of workplaces,
+                                                          return of dead bodies of
+                                                          the migrant workers, and
+                                                          financial assistance to the
+                                                          family of the deceased
+                                                          migrant workers.
+                                                        ▪ Providing         financial
+                                                          support for the income of
+                                                          poor migrant workers and
+                                                          their families.
+                                                        ▪ Awarding scholarship to
+                                                          meritorious children of
+                                                          migrant workers;
+                                                        ▪ Giving financial support
+                                                          for strengthening the
+                                                          labor       Wing         of
+                                                          Bangladesh         Mission
+                                                          abroad.
+
+
+
+
+8
+  Activities of "Wage Earners Welfare Board” are mentioned here although it works mainly at
+post -migration stage. WEWB was established as a statutory body to manage the Welfare fund
+under "Wage Earners Welfare Board Act, 2018". WEWB managed by an intergovernmental
+official run board. It works as a subsidiary of Bureau of Manpower Employment and Training.
+9
+  Welfare Fund is a Bangladesh govt. fund that financed by mandatory contributions from
+migrant workers.
+14| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+      Ministry/
+   Organizations/              Types and Origination                      Activities
+     Institutions
+ Probashi Kallyan           PKB is a specialized bank in Dedicated        to    extend
+ Bank (PKB)10               Bangladesh that continues its collateral free loans at low
+ (Expatriates’              operations through 120 interest rates to migrant
+ Welfare Bank)              branches in various districts workers. Loan Services of
+ Established in 2011.       within the country.           the bank are Immigration
+                                                          Loans, Rehabilitation loans,
+                                                          Bangabandhu        immigrant
+                                                          large family loans, Special
+                                                          Rehabilitation Loans Self
+                                                          Employment Loans, 2021,
+                                                          Female immigration loan
+                                                          and Women Rehabilitation
+                                                          Loans
+Source: Researchers’ compilation.
+
+2.2. Policies Available with Pre-Migration Financial and Non-Financial
+Services in Bangladesh
+
+Having explicit policy on international labor migration from Bangladesh
+has resulted to the creation of various Government agencies to promote,
+manage, and protect migrant workers. These policies are likely to be
+conducive to finance migrants at premigration stage, promote the
+employment of Bangladeshi overseas and regulate private participation in
+the recruitment process (Table-2.2).
+
+      Table 2.2: Important Act/ Policies/Rules Available with Pre-Migration
+               Financial and Non-Financial Services in Bangladesh
+                 Act/
+      Types                     Brief Contents          Benefits/ Objects
+            Policies/Rules
+Policy      Cash           From 1 January, 2022 the Higher benefit would be
+Relating to Incentive for cash incentive has been derived by wage earners
+Financial Inward           increased to 2.5 percent and it will encourage more
+Services/ Foreign          from 2 percent. The inward flow of remittance.
+Benefits    Remittance. incentive was elevated to
+                           5% in October 2023.
+                           Earlier only 2.5 percent
+
+10.
+  Established in 2011 through the Probashi Kallyan Bank (PKB) Act 2010. It had a startup
+capital of Tk. 1 billion and 95 percent of the capital came from Wage Earners' Welfare Fund
+and five percent from the government of Bangladesh.
+        Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |15
+                    Act/
+   Types                                Brief Contents                Benefits/ Objects
+               Policies/Rules
+                         incentives were given by
+                         the government. From
+                         now on, the banks will be
+                         able to offer incentives at
+                         the rate of 2.5 percent side
+                         by side of the govt.
+            Compulsory Wage Earners' Welfare • In the event of workplace
+            Insurance    Board along with the death or and permanent
+            Scheme for   Jiban Bima Corporation disabilities like loss of
+            The          has       introduced       a eyes or limbs, the
+            Expatriates  compulsory        insurance maximum             insurance
+                         scheme called 'Probashi claim is Tk10 lakh.
+                         Karma               Bima'-a • In case of partial limb
+                         mandatory             group losses, the expatriate
+                         insurance facility for workers will be eligible to
+                         expatriates.            The claim 5-10% of the total
+                         expatriate workers age insurance coverage.
+                         between 18-58 yrs. can • If a worker goes abroad
+                         opt for coverage of Tk10 for employment but
+                         lakh for five years returns without finding a
+                         (renewable) by paying a job or returns home after
+                         one-time premium of losing a job within six
+                         Tk1,000.                       months of migration, they
+                                                        will               receive
+                                                        compensation of Tk.
+                                                        50,000      from        the
+                                                        insurance.
+Policies    Overseas     OEMA serves as an The                 OEMA         covers
+Available Employment important legal document important grounds for
+for Non-    and Migrants in Bangladesh pertaining protecting               migrant
+Financial Act (OEMA) to the protection of the workers,                  including
+Services in 2013         rights and welfare of necessitating--
+Bangladesh (Amendment migrant workers.                ▪ written      employment
+            Bill 2023                                   contracts with the terms
+            passed in                                   and conditions of the
+            National                                    work            overseas;
+            Parliament.)                                establishing        Labor
+                                                        Welfare      Wings       in
+                                                        receiving     states     to
+                                                        address           workers'
+                                                        complaints             and
+
+16| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+               Act/
+Types                             Brief Contents                Benefits/ Objects
+          Policies/Rules
+                                                         forbidding           illicit
+                                                         recruitment activities.
+                                                       ▪ Govt. has revised the
+                                                         Overseas Employment
+                                                         & Migrants Act 2013 to
+                                                       ❖ make          middlemen
+                                                          handling international
+                                                          migration accountable
+                                                       ❖ emphasize on female
+                                                          migrants' rights
+                                                       ❖ Fines for recruiting
+                                                          agency crimes.
+          Expatriates’ In this policy, activities/ For strengthening inter-
+          Welfare and action plan is scheduled ministerial            cooperation
+          Overseas        for       13     ministries, and to establish a
+          Employment departments                  and participatory        steering
+          Policy-2016. government agencies.            framework,         National
+                                                       Steering Committee on
+                                                       overseas employment has
+                                                       been formed. National
+                                                       Labor Migration Forum
+                                                       has also been formed to
+                                                       ensure          stakeholder
+                                                       engagement.
+          Overseas        The Govt. included a 12- The rules will prohibit
+          Employment point code of conduct for recruiting agents from
+          and Migrant the recruiting agents.           taking any extra fee from
+          (Recruiting                                  immigrants other than the
+          Agent License                                service charge fixed by the
+          and Conduct),                                government.
+          Rules, 2019.
+          Overseas        A      'recruiting    agent This new monitoring
+          Employment classification evaluation mechanism will help
+          and Migrant committee' will evaluate control forgery and other
+          (Recruiting     agents’ performance in irregularities in this sector.
+          Agent           light of 14 types of and efficiently promote
+          Classification) activities related to labor human resource export.
+          Rules, 2020. migration and will be
+                          categorized as A, B, C
+                          and D according to their
+                          performance.
+          The National The           Ministry       of The services will include:
+          Reintegration Expatriates' Welfare and
+
+  Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |17
+                    Act/
+   Types                            Brief Contents               Benefits/ Objects
+               Policies/Rules
+               Policy for     Overseas Employment ▪ A                     comprehensive
+               Migrants in    (MoEWOE) has prepared financial literacy training;
+               2022.          this policy aims to Entrepreneurship training;
+                              provide a range of and                   budgeting     and
+                              services     to     migrant financial counselling for
+                              workers        who        are proper utilization of
+                              returning home.                 remittances.
+                                                            ▪ Special benefit packages
+                                                              for the returnees and their
+                                                              family members based on
+                                                              remittances received;
+                                                            ▪ Comprehensive database
+                                                              for returnees (ReMiMis).
+               Others         Emigration             Rules These rules and policies
+                              2002;Wage            Earner's are formulated to address
+                              Welfare Board Ordinance, the             problems       of
+                              2002; Recruitment Agent expatriates stemmed from
+                              Ordinance 2002; Overseas time to time.
+                              Employment & Migrants
+                              Act 2013; MOE Law-
+                              2017(01-08-2017);
+                              Overseas Employment and
+                              Immigrants       (Recruiting
+                              Agent       License       and
+                              Conduct) Rules– 2019;
+                              Overseas Employment and
+                              Immigrants       (Recruiting
+                              Agent         Classification)
+                              Rules– 2020; Migrant
+                              Worker Rehabilitation Loan
+                              Policy for 2020; Guest
+                              Instructor and Guest Skilled
+                              Worker Invitation and
+                              Remuneration Policy, 2022;
+                              Notification, Ministry of
+                              Expatriate Welfare and
+                              Foreign        Employment,
+                              Legislative Branch; General
+                              Order-2023         regarding
+                              Compromise Settlement of
+                              Grievances
+Source: Researchers’ compilation
+
+18| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+Section: 3: Anatomy of Remittances Inflow in Bangladesh
+
+The inflow of overseas remittances is always a reliable source of net foreign
+currency earnings for Bangladesh although inward remittance is always
+sensitive to economic and political volatilities in source countries. The
+remittance as a share of GDP is 5.2 percent in Bangladesh in 2023 which
+can be substantially higher if the informal flows of remittances could have
+taken into consideration.
+
+3.1. Remittance Inflow to Bangladesh
+
+Remittances inflows to Bangladesh have increased to USD 21.6 billion in
+FY23 from amount of USD 14.2 billion in FY14. Remittance flows to
+Bangladesh upped in 2023 from the negative growth in 2022. Further,
+fluctuation of amount of remittances has been noticed in this period
+reaching a peak of USD 24.8 billion in FY21 with the lowest amount of
+USD 12.8 billion in FY17 (Figure-3.1). Workers’ remittances as a
+percentage of GDP, which averaged around 6.3 percent during the 2014-
+2018 period (Figure-1), reflecting a steady growth in remittances as
+percentage of GDP in the last decade.
+
+                                   Figure 3.1: Trends of Workers' Remittances
+                  25                                                                                                       9
+                                                                                                                           8
+                  20                                                                                                       7
+                                                                                                                           6
+
+
+    billion USD
+                  15
+                                                                                                                           5
+                                                                                                                           4   percent
+                  10
+                                                                                                                           3
+                   5                                                                                                       2
+                                                                                                                           1
+                   0                                                                                                       0
+
+                          FY2014    FY2015   FY2016   FY 2017   FY2018   FY 2019   FY 2020   FY 2021   FY 2022   FY 2023
+                                    Remittances (billion $)                   Remittances (%) of GDP (Right Axis)
+Source: Bangladesh Bureau of Statistics and Bangladesh Bank
+
+
+
+
+                  Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |19
+ 3.2. Position of Remittance Recipient Countries in South Asia
+
+ South-Asian countries take the lead as the top remittance recipients with a
+ growth rate of 12.2 percent reaching $176 billion in 2022 (Migration and
+ Development Brief 38, World Bank, June 2023). In terms of the percentage
+ of global remittance inflows to each South Asian country, Bangladesh11 is
+ the third largest recipient country while India is the highest
+ remittance recipient followed by Pakistan (Figure-3.2).
+
+  Figure 3.2: Position of Top Remittance Recipient Countries in South Asia, 2022
+
+
+           Maldives    0
+             Bhutan    0.01
+         Afganistan    0.05
+           Sri Lanka   0.45
+              Nepal    1.11
+        Bangladesh            2.56
+           Pakistan                  3.56
+               India                                                             13.24
+                                            % OF GLOBAL INFLOW
+ Source: Migration and Development Brief 38, World Bank.
+
+ 3.3 Destination of Migrant Workers and Share of Remittances, 2013-2023.
+
+ The Kingdom of Saudi Arabia (KSA) remains the largest market for
+ Bangladeshi migrant workers, accounting for 40.2 percent of foreign
+ employment during 2013-2023. However, a substantial proportion
+ overseas employment has been absorbed by Oman (14.9%), Malaysia
+ (9.6%) and Qatar (8.8%) (Figure-3.3). In consideration of 10 years data
+ (2013-2023), UAE accommodated only 4.0 % of total Bangladeshi migrant
+ workers. Notably, UAE was the largest destination for Bangladeshi
+ expatriates till 2012 afterward it came down drastically which was started
+ to rise again in 2022 (BMET).
+
+
+
+
+11 Bangladesh is the seventh highest recipient of remittance among all countries.
+20| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                 Figure 3.3: Share of Destination of Migrants 2013-2023
+                Others 11.2%
+
+     Singapore
+        6.5%
+
+                                                     KSA 40.2
+     Malaysia
+      9.6%
+
+                          Bahrain 2.1%
+
+
+
+        Qatar 8.8%
+                                      Kuwait 2.6%
+
+
+                               Oman                 UAE 4.0%
+
+Source: Author's own calculation based on BMET data.
+
+3.4. Growth and Share of Remittances by Region
+
+Remittances inflows from all the regions are demonstrating a positive
+growth rate (Figure 3.4), however, the pace of growth has remained higher
+in the EU, USA, and other countries as compared to prime regions of
+remittance income of Bangladesh like Gulf and Asia- Pacific area for the
+last ten years (Figure 3.4). This is reflected in the share of remittances
+inflows (Table 3.1). The share of remittance of Gulf12 and Asia Pacific
+reduced from 59 percent and 10 percent in 2019 to 51 percent and 8 percent
+in 2023 whereas USA, and EU recorded increasing trend in the last five
+years between 2019 and 2023. The fact that the United States is among the
+top nations from which remittances are being sent more and more to
+Bangladesh indicating that there is a sizable Bangladeshi diaspora living
+there and are sending remittances in formal way.
+
+
+
+12
+   The overseas labor market and remittances inflows to Bangladesh are always transforming. In
+the last decades, even within the Gulf region, manpower export has shown a significant change.
+For example, United Arab Emirates (UAE) was the main destination of Bangladeshi workers
+(over 35% of the total) in 2012 around and Saudi Arabia was far behind in this respect (3.5%).
+But in a decade, manpower export to UAE shrunk to a low of 8.9% percent and Saudi Arabia
+became the major market for employment of Bangladeshis registering a share of 53.9 percent of
+total overseas employment in 2022.
+
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |21
+              Figure 3.4: Growth of Remittances by Region 2014-23
+                                                                            Others
+                                                                            17.8%
+
+                            EU 13.5%
+
+                                                                USA
+                                           Asia Pacific         6.5%
+            Gulf 4.2%                          4%
+
+
+
+
+                  Table 3.1: Share of Remittances by Regions (%)
+
+   Year           Gulf          EU           Asia-          USA         Others         Total
+                                            Pacific
+   FY19            59           12            10             11            9            100
+   FY20            58           12            10             13            7            100
+   FY21            60           12            11             14            3            100
+   FY22            53           15             8             16            8            100
+   FY23            51           16             8             16            9            100
+Source: Authors’ Own Calculation Based on BMET Data.
+
+3.5. Migrant Workers: Professional, Skilled, Unskilled and Others
+
+The majority of Bangladeshi employed abroad belongs to unskilled
+categories, followed by skilled and semiskilled category, respectively
+(Table-3.2). The unskilled category, which accounted for the largest share
+of annual migrations of over 50 percent a decade ago, has increased
+substantially to a share of 74 percent by 2022. On the other hand, the share
+of labor migration under professional and skilled employee categories
+combined has down from around 33 percent to 22 percent during the same
+period. Semi -skilled category decreasing from 15 per cent to 4 percent
+between 2013 and 2022 is not also a positive note, requiring to undertake
+initiatives in this respect. Migrant Bangladeshi laborers with lower
+technical and linguistic skills find it problematic to negotiate better wages.
+Moreover, in some cases, they experience deprivation and face human
+rights abuses.
+
+
+22| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+Table 3.2: Migrant Workers: Professional, Skilled, Semi -Skilled, Unskilled
+                              and Others
+     Year      Skilled*   Semi-      Unskilled Others          Total
+                          Skilled
+     2013         33        15           50          2          100
+     2014         36        16           45          3          100
+     2015         39        16           44          1          100
+     2016         43        16           40          1          100
+     2017         44        15           40          1          100
+     2018         43        16           39          2          100
+     2019         44        20           28          8          100
+     2020         29         4           64          3          100
+     2021         21         3           74          2          100
+     2022         22         4           74          0          100
+  Source: Authors’ Own Calculation Based on BMET Data.
+  Note: Professional migrants are included in ‘Skilled Manpower Category’ as this class
+  of migrants are holding a very little percentage ranging from 0.1 percent to 0.6 percent
+  of total.
+
+3.6 Migrants Worker: Male and Female
+The       number      of female labor migration fluctuated   throughout the
+period 2013-2023, making up a small fraction of the total
+annual labor migrants from Bangladesh (Table-3.3). The share of female
+migrants has decreased from 18 percent in 2014 to 6 percent in 2023. Even
+at the peak of female migration in 2015, women made up just less than one-
+fifth of the total number of migrants indicating female migrants are sharing
+a small percentage of total with a perennial decreasing trend.
+
+                   Table 3.3: Migration: Male Vs Female (%)
+           Year                        Male               Female                 Total
+           2014                         82                  18                   100
+           2015                         81                  19                   100
+           2016                         84                  16                   100
+           2017                         88                  12                   100
+           2018                         86                  14                   100
+           2019                         85                  15                   100
+           2020                         90                  10                   100
+           2021                         87                  13                   100
+           2022                         91                   9                   100
+           2023                         94                   6                   100
+Source: Authors’ Own Calculation Based on BMET Data.
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |23
+Section 4: Review of Financial and Non-Financial Initiatives Available
+for Migrants at The Pre-Migration Stage in Bangladesh
+4.A. Financial Services Available for Migrants
+
+A bank normally offers a variety of deposit and loan products along with quick
+and easy mechanisms of transferring remittances to the migrant workers.
+
+4.A.1. Saving Products for Migrant Workers
+
+Banks regardless of their nature of ownership and activities have a number
+saving products with a view to onboarding migrant workers as more as
+possible (Table 4.1). Expatriates can open and operate these saving deposits
+products before their departure and even after reaching destination without
+their physical presence. The financial and non-financial features of saving
+products offered by all group of banks are more or less uniform. The
+information relating to the deposit schemes are available in the individual
+banks’ website. Information relating to all types of deposit products are not
+maintained and available in a place where all migrant workers could have
+easily accessed. Further, it is noticed that banks do not have products similar
+to pension schemes or instruments like green bond, sukuk bond or plain
+vanilla bond to entice more foreign remittances. The recent permission of
+Bangladesh Bank as per the Off-shore Banking Act 2024 to allow both
+Bangladeshis staying abroad and foreign nationals for opening deposit
+account in Off-shore Banking Unit (OBU) of banks will be a new avenue to
+attract deposits in foreign currency.
+
+                 Table 4.1: Saving Products for Migrant Workers
+
+   Banks                 Savings Products’ Name                 Features
+ SOCBs              Probash Deposit Scheme, Remittance • No physical presence
+                    with Mobile Wallet, Savings Account, required and possible to
+                    Migrate Savings Scheme, Foreign open from abroad by
+                    Currency Deposit Account, Non- sending duly completed
+                    Resident Foreign Currency Deposit AOF.
+                    Scheme, Migrate Savings Schemes, etc. • No   initial  deposit
+ PCBs -             Probashi Savings Account, NRB My required for opening this
+ Conventional       Savings, NRB Rising, Jonmovumi account.
+ Banks              Savings Account, Jonmovumi MSDS
+24| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+    Banks               Savings Products’ Name                 Features
+                  Account (Monthly Savings Deposit • Interest/profit calculated
+                  Scheme), Jonmovumi FD Account on the daily average
+                  (Fixed Deposit Account), Prabasi balance.
+                  Masik Sanchaya Prokolpo; NRB DPS • Higher interest/profit rate
+                  Plus, Wage Earners Pension Saving; (0.5%-1% more than
+                  Probashi Excel Account; Remittance common) on maintaining
+                  Savers Account; NFCD Term Deposit a certain balance in the
+                  Account; NRB Term Deposit account.
+                  Account; Wage Earner’s Pension • Free VISA Debit card
+                  Scheme (WEPSS); Fixed Deposit facility.
+                  (FRD); Monthly Savings Scheme; • 24X 7 access to the
+                  Probashi Shwapno; NRB Savings largest network of VISA
+                  Account; NRB Deposit Scheme, etc.    ATM and POS.
+ PCBS -Islami     Mudaraba Probashi Kallyan Deposit • No                  ledger
+ Banks            Pension       Scheme     (MPDPS); fees/relationship charge
+                  Mudaraba Swadesh Savings Account • Free Internet banking
+                  (MSSA); Mudaraba Probashi Kallyan facility with fund transfer
+                  Savings Scheme; Mudaraba Special facility.
+                  Savings Account (MSSA); Mudaraba • E-commerce transactions
+                  Expatriate Housing Deposit Scheme facility through Internet
+                  (MEHDS); Mudaraba NRB Savings Banking.
+                  Bond (MNSB); Mudaraba Foreign • Free SMS or Alert
+                  Currency Deposit Account (MFCD); Banking.
+                  Mudaraba Foreign Currency Term • Free Cheque Book
+                  Deposit        Receipt     Account Facility.
+                  (MFCTDRA);                Mudaraba • Dedicated email ID for
+                  International    Banking   Account any         account-related
+                  (MIBA), etc.                         queries.
+ FCBs             Foreign Currency Current Account, • Lucrative investment and
+                  Foreign Currency Time Deposit savings products linked
+                  Account (FCTD), Sohni Dharti to this account.
+                  Remittance Program; Non-Resident
+                  Foreign Currency Deposit (NFCD),
+                  etc.
+ Probashi         Probashi        Saving     Deposit;
+ Kallyan Bank     Bangabandhu       Double    Benefit
+                  Scheme; Bangabondhu Sikkha Saving
+                  Scheme and Bibah Savings Scheme,
+                  etc.
+Source: Researchers’ Compilation
+
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |25
+4.A.2. Loan Products for Migrant Workers
+
+A variety of loan products are being offered by banks to get easy access of
+migrants or prospective migrants to bank loans. The titles of the loan
+products particularly offered by PCBs and Probashi Kallyan Banks (PKB)
+are well sounding and close to the emotional feeling of expatriates (Table-
+4.2). The conditions set by banks for availing the loan facility look easy
+going too. Even banks are ready to offer loans without any security subject
+to fulfilling some conditions. It is however noticed that lack of financial
+literacy, absence of knowledge about the loan products, burden of
+documentation in getting loans, relatively shorter period to repay the banks’
+loan are being considered as hurdles to get advantages of loan products.
+
+                  Table 4.2: Loan Products for Migrant Workers
+      Banks             Loan Schemes’ Name                             Features
+ SOCBs               Loan      for     Overseas           • Applicable for any person
+                     Workers;         Expatriate            who has got a valid job visa
+                     Employment Loan Scheme,                abroad and also for people
+                     etc.                                   willing to go abroad for a
+ PCBs-               Shabolombi Loan; Loan to               job.
+ Conventional        Family     Members       of          • Persons having completed a
+ Banks               Remitters; Probash Bandhu              Passport, Training, Visa,
+                     loan; Probashee Nibash                 Health Exam, Smart card of
+                     loan; Consumers Loan;                  BMET or Airline Ticket or
+                     Overseas       Employment              Documents of guarantor or
+                     Investment         Scheme              have completed partially of
+                     (Swapnojatra); Migration               these.
+                     Loan; Women Migration                • No Collateral required/
+                     Loan; Reintegration Loan;              Collaterals security may not
+                     Bangabondu        Avibashi             be insisted up to an
+                     Brihat    Poribar    Loan;             Investment     of     Tk.0.50
+                     Special Reintegration Loan             million only.
+                     for     Business;     Self-          • For loan projects of women
+                     employment Role; NBL                   reduced      interest     rate
+                     Probash Bandhu Loan; etc.              applicable (7%).
+ PCBS-Islami         Overseas       Employment            • Trade license for loan
+ Banks               Investment         Scheme              projects as additional paper.
+                     (Swapnojatra);        NRB            • 100% lien MSS or TDR
+                     Entrepreneur Investment                Deposit Accounts
+                     Scheme             (NEIS);
+26| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+        Banks            Loan Schemes’ Name                             Features
+                      Rehabilitation  Finance              • Persons wishing to go
+                      Scheme, etc.                           abroad for job and in need of
+ FCBs                 NRB Home Loan, etc.                    money can apply for loan
+                                                             subject      to     fulfilling
+ Probashi             Immigration      (Abhibasi)            following:
+ Kallayn Bank         Loan;         Bangabandhu            o Age limit 18-45 years
+                      Immigration      (Abhibasi)          o Loan limit 50,000- 3,00,000
+                      Large     Family      Loan;          o Intt. Rate 9% (changeable)
+                      Rehabilitation                       o Period 15-18 months
+                      (Punorbashon) Loan; Loan             o Repayment by monthly
+                      for     Reintegration     of           installment which to be
+                      Returnee           Migrants            deducted      from     his/her
+                      Distressed by COVID-19;                savings account
+                      Women Migration Loan                 o Personal      guarantee     of
+                      (Nari    Abhibasan Loan)               clients’    close    relatives
+                      and Women Rehabilitation               (Father, Mother, Brother,
+                      Loan                   (Nari           Sister)
+                      Punorbashon Loan);                   o Easy loan processing
+                      Special       Rehabilitation
+                      (Punorbashon) Loan, etc.
+Source: Researchers’ Compilation
+
+4.A.3. Remittance Transfer Mechanism
+
+A customer friendly quick mechanism to send money to the country is the
+foremost important to address the curse of hundi13 . Banks are following a
+number of mechanisms like agreement with well-known International
+Money Transfer Companies, opening Exchange Houses abroad as
+subsidiary of parent bank, launching Software for Remittance Payment
+System, Initiation of online banking Platform to transfer Funds to
+Bangladesh from Non-Resident Exclusively Remittance, etc. (Table-4.3).
+
+
+
+
+13
+     Informal system for transferring money.
+         Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |27
+                    Table 4.3: Remittance Transfer Mechanisms
+
+     Banks                            Remittance Transfer Mechanisms
+ SOCBs                     Depositing Remittance Money from Foreign to
+                           beneficiary Account in 5 seconds like RMS+; Agreement
+                           with Well-known International Money Transfer
+                           Companies; Launching Software for Remittance Payment
+                           System for Providing Online Cash Deposit and Cheque
+                           Payment as well as Instant Payment of Foreign and Inland
+                           Remittances like JB Remittance Payment System;
+                           Creating Subsidiary Company of the Parent Bank Like
+                           Sonali Exchange Company Inc. (SECI); Spot Cash/ Cash
+                           Over the Counter Remittance; Catering Remittance
+                           service to British Bangladeshi Diaspora like Sonali Pay
+                           UK limited; and Remittance through Mobile Wallet.
+ PCBs -                    Inward Remittance Service through Visa Direct; Opening
+ Conventional              Exchange Houses Abroad as Subsidiary of Parent Bank;
+ Banks                     Agency Arrangement with Exchange Houses and Money
+                           Transfer Companies like Western Union, Ria, Xpress
+                           Money, PLACID; Instant Cash Worldwide; OBPLC (One
+                           Stop Remittance by One Bank PLC); Payment through
+                           third Bank in Bangladesh by BEFTN; Cash Express
+                           Money Transfer Services; Affiliation with PAGE NGO
+                           and Banglalink Telecom Operator for the Most
+                           Diversified Remittance Disbursement Networks of 800
+                           Service delivery locations; Mobile Cash Pay; and Virtual
+                           Mobile Wallet based Account Credit.
+ PCBS -Islami              Agreement with Money Transfer companies like Daytona
+ Banks                     Capital Management Limited; Western Union; Mobile
+                           Apps backed by Exchange House/ MFS; and Apps
+                           Banking (Instant Cash, SJIBL Net).
+ FCBs                      Fast and Free Money Transfer Arrangement to
+                           Bangladesh from the U.S.A., U.K., Canada, Australia,
+                           Japan, Middle East, Germany, Belgium, China, etc.;
+                           Swadashee Banking of Standard Chartered Bank; Online
+                           banking Platform to transfer Funds to Bangladesh from
+                           Non-Resident Exclusively Remittance-fed (NRX), and
+                           Joint Taka Account with a Resident (JTR), etc.
+ Probashi Kallyan          Repatriation of foreign remittances through 18 exchange
+ Bank                      houses and distribution activities through its 120 branches
+                           countrywide.
+Source: Researchers’ Compilation
+
+
+
+28| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+4.B. Non- Financial Services Available for Migrants at the Pre-
+migration Stage
+
+Non-financial services like skill development, creating awareness among
+migrants about their rights, addressing complaints of expatriates, sending
+people at lowest costs, etc. are being offered by different organizations like
+BMET and BOESL.
+
+4.B.1. Bureau of Manpower Employment and Training (BMET)
+BMET is engaged in overall planning and implementation of the strategies
+for regulating migration process, promoting migrant workers’ rights and
+skill development and proper utilization of migrant workers of the country.
+To this end, if offers training and fingerprint services, diversifies job market
+abroad, establishes support center, assists distress women workers, etc.
+(Table 4.4).
+
+  Table 4.4: Non- Financial Services Offered by BMET at Premigration Stage
+
+Sl       Initiatives                                 Particulars
+No.
+1.     Creation of   BMET is providing skill development trainings through many
+       Skilled       training institutions. There are six (6) Institutes of Marine
+       Manpower in   Technology under BMET that provide four (4) years of diploma
+       Line with the in Marine/ Ship Building Technology and 2 years of 4 certified
+       Demand of     trade courses. Importantly, BMET with 64 technical training
+       Local and     Centers (TTCs) across the country offers 2-year vocational
+       Global Labor  courses and short-term courses from one to six months like 30
+       Market        days of orientation training courses for outgoing female workers
+                     and mandatory 3-day orientation program for the migrant
+                     workers. They are also running skill test for the migrant workers.
+2.     Licensing     Since its inception, BMET has licensed 1965 recruiting agencies
+       Recruiting    in order to guarantee competition in the migration process. It
+       Agencies      issued 342 new recruitment licenses in FY2022–2023.
+3.     Fingerprint   The fingerprint services for registration have been decentralized
+       Services for to every district of the country to bring the facilities to the
+       Registration  doorsteps of expatriates.
+4.     Complaints of A total of 3044 complaints were filed by expatriate workers in
+       Expatriate    FY 2022–2023, of which 693 cases were settled and Taka 4.30
+       Workers       crore was paid out as compensation.
+5.     Construction The construction of nine schools that will follow the Bangladeshi
+       of Schools    curriculum is now ongoing in various cities of Kingdom of Saudi
+                     Arabia (KSA) for educating the children of Bangladeshi workers
+                     employed in KSA.
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |29
+Sl         Initiatives                                 Particulars
+No.
+6.       Establishing   The project of establishing three support centers (Riad, Jeddah
+         Support        and Dubai) for assisting Bangladeshi workers facing various
+         Centre         problem working in Saudi Arabia and United Arab Emirates is
+                        going on.
+ 7.     Assisting       The labor wing of the concerned Bangladesh embassy comes to
+        Distressed      the aid of women workers who are in distressed situations at
+        Women           work. In addition, the embassies of Bangladesh in Read, Jeddah,
+        Workers         and Oman have established four safe homes to provide these
+                        women workers’ temporary shelter.
+ 8.     Diversification For the past ten years, an average of seven lac workers has found
+        of Job Market overseas employment in each year. Due to the diversification of
+                        the job market, currently Bangladeshi manpower is employed in
+                        174 countries.
+ 9.     Sending         A total of 263 workers were sent to Japan as technical interns
+        Manpower to without any migration cost through the International Manpower
+        Japan           Development Organization, Japan (IM Japan) in in FY 2022-23.
+Source: Annual Reports, BMET
+
+4.B.2. Bangladesh Overseas Employment and Services Limited (BOESL)
+
+Established under the Company Act VII of 1913, BOESL is the
+Government overseas recruitment organization responsible for completing
+fast, efficient and effective recruitment procedures (Table-4.5). Sending
+Garments workers abroad under Government arrangement by BOESL is
+one of the highly appreciating tasks and is required to take more initiatives
+to send more professional/ migrant workers abroad under Govt. to Govt.
+(GTG) or other arrangements.
+
+ Table 4.5: Non-Financial Services Offered by BOESL at the Premigration Stage
+ Sl No      Services                         Particulars
+   1.  Sending Migrants at BOESL provides service at the lowest possible
+       Lowest Costs and migration cost. The whole recruitment
+       Fewer Days.         procedure usually doesn’t take more than 45
+                           working days.
+   2.  Sending Manpower    A total of 1,27,612 workers have migrated to
+                           different destinations through BOESL during
+                           2011–23 financial year. In 2022–23, a total of
+                           15,294 job seekers received foreign
+                           employment through BOESL.
+
+
+
+30| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+      3.      Special Initiatives to BOESL has taken a special initiative to ensure
+              Send         Garment the safe and zero-cost migration of female
+              Workers to Jordan.     garment workers to Jordan. A total number of
+                                     94,692 female garment workers have got
+                                     employment in Jordan through BOESL from
+                                     2010 to June 2023.
+      4.      Creation of Positive Projection the image of Bangladesh as a
+              Image of Bangladesh reliable source of potential manpower is done
+                                     by means of regular publicity and promotional
+                                     activities.
+Source: Researchers’ Compilation
+
+4.B.3. Wage Earners’ Welfare Board (WEWB)
+
+WEWB provides legal assistant, stipend, ambulance service, life insurance
+and financial support individually or in collaboration with PKB; and
+establishes call center, welfare desk, short term accommodation for lasting
+and meaningful welfare of the migrant workers and their families at home
+and abroad (Table-4.6).
+
+Table 4.6: Non- Financial Services14 Offered by WEWB at the Premigration Stage
+ SL         Services               Particulars
+ No
+  1.        Expatriates’           Expatriates’ Welfare Desk at all international airports
+            Welfare     Desk       in Bangladesh; and Short-time accommodation for
+            and Short-Term         incoming and outgoing workers in transit in Dhaka-
+            accommodations         Bangabandhu Wage Earners’ Centre.
+     2.     Ambulance,       Ambulance Service for migrant workers; Stipends for
+            Stipend and Life children of migrant workers; and Life Insurance for
+            Insurance        outgoing workers.
+     3.     Call Centre      24/7 Toll-free Call Center for providing information
+                             and assistance on migration related issues.
+     4.     Legal Assistance Legal assistance and other welfare services to migrant
+                             workers through labor welfare wings in Bangladesh
+                             Mission in destination countries.
+Source: WEWB.
+
+
+
+14
+   WEWB also offers some financial services such as financial support for schooling of
+Bangladeshi children in some destination countries; skill development programs for
+Bangladeshi expatriates abroad; medical treatment for returnee workers; vulnerable
+returnee female migrant workers; and Loan facility to the outgoing and returnee workers
+through Probashi Kalyan Bank (PKB).
+           Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |31
+Section 5: Examining the Effectiveness of Financial Initiatives in
+Promoting Remittance in Bangladesh
+
+5.1. Remittances Inflows by Different Groups of Banks
+
+PCBs are dominating in bringing inward remittances at a progressive rate.
+The share of PCBs in total inward remittances in 2022-2023 reached 82
+percent increased from 73 percent in 2017-18. On the contrary, SOCBs have
+lost their share of inward remittance by almost 9% (25 percent -16 Percent)
+within five years only. The share of FCBs and SBs is very tiny. The share
+of SOCBs in inward remittance is decreasing although remitters have
+relatively more confidence in SOCBS and these banks have networks across
+the country which is an additional benefit for the quick disbursement of
+remitters’ money to local recipients.
+
+         Figure 5.1: Remittances Inflows by Different Groups of Banks
+                                   State-                                Foreign    State-
+                       Foreign
+     2022-23 Commerc
+             ial Banks
+                                  owned
+                                 Commerc
+                                                           2017-18 Commercial
+                                                                     Banks
+                                                                               owned
+                                                                              Commer
+                                 ial Banks                                 1%        cial
+                         0%
+                                    16%                                             Banks
+                                                                                     25%
+
+
+                                             Specialized
+                                               Banks                                   Specializ
+                                                2%                                     ed Banks
+                    Private
+                                                                                          1%
+                   Commerc
+                   ial Banks                                  Private
+                      82%                                    Commer
+                                                                cial
+                                                              Banks
+                                                               73%
+
+  Source: Bangladesh Bank
+
+5.2. Expense for Going Abroad Starting from Preparation Phase to
+Reaching Destination
+
+From planning to going abroad, the breakdowns of expenses incurred in different
+stages are given a in Table 5.1 namely for Passport, Health Examination, Visa
+Processing, Plane fair, etc. The majority of the respondents spent BDT 5,000 to
+10,000 for passports whereas a few of them were found to spend more than BDT
+15, 000 also. Here to state that, the expense of making a passport depends on the
+length of time to get the passport. Costs for health examination needed for VISA
+32| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+purposes vary as country-based health examination centers are designated for
+health testing. This cost is found between BDT 1,000 to BDT15,000 and more.
+Most of the respondents spent BDT 1,000 to BDT 5,000 for this purpose whereas
+a small percentage spent below BDT 1,000. Visa fees vary by country and are
+determined based on reciprocity with the country of the foreign national seeking
+a visa. Visa processing fees for the twelve destination countries of the
+respondents namely Jordan, Saudi Arabia, Malaysia, Dubai, Singapore,
+Maldives, Oman, Cyprus, Iraq, UAE, Mauritius, Algeria, Qatar, Lebanon, North
+Macedonia, Kuwait, Kyrgyzstan and Croatia are reflected here. On the other
+hand, the cost of plane fare depends on the distance, available airlines, number
+of available flights, how far in advance the booking is made, season, etc. From
+the table, it is observed that most of the respondents spent BDT 50,000 to
+100,000 for the plane fares.
+                    Table 5.1: Expense for Going Abroad
+        Expenses for                                  Respondents
+                            Range of expense
+       Going Abroad                                 (in Percentage)
+          Passport              Below 5000                3.75
+                                 5000-10000              57.50
+                                10000-15000              33.75
+                                    15000+                5.00
+                                                          100
+           Health               Below 1000                8.45
+        Examination               1000-5000              35.21
+                                 5000-10000              30.99
+                                10000-15000              19.72
+                                    15000+                5.63
+                                                          100
+       Visa Processing         Below 50000                 8.2
+                               50000-150000               34.4
+                              150000-300000               39.3
+                              300000-450000               11.5
+                                   450000+                 6.6
+                                                          100
+
+          Plane Fair                Below 50000                          19.7
+                                    50000-100000                         54.1
+                                   100000-150000                         24.6
+                                      150000+                             1.6
+                                                                         100
+   Source: Survey, 2024
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |33
+5.3. Source of Finance for Going Abroad
+
+Migrants usually manage financing for going abroad from their income, or
+from selling land, selling houses, ornaments or other assets. The most used
+source of money for going abroad for the first time was own income
+followed by the sale of other assets and land (Table-5.2). Whereas workers
+going abroad a second time used their income mostly as a source of finance
+followed by the sale of jewelry and sale of other assets.
+
+                 Table 5.2: Sources of Finance for Going Abroad
+     Source of             1st Time Going                       2nd Time Going
+      Finance                  Workers                              Workers
+                        Number of Percentage               Number of     Percentage
+                       Respondents                        Respondents
+   Own Income              27          55.10                  27            58.70
+   Sale of Land               7              14.29               4                 8.70
+  Sale of House               0                0                 0                   0
+  Sale of Jewelry             6              12.24               8                17.40
+   Sale of Other
+                              9              18.37               7                15.20
+      Assets
+       Total                  49              100               46                  100
+Source: Survey, 2024
+
+5.4. Bank Account by Own Name / With the Name of Family
+
+It is possible to send money from abroad easily if a migrant has a bank
+account in his/her name or in the name of any of his/ her family members.
+It also helps them to avail of other financial benefits as well as services from
+a bank. It has been observed that most of the workers going abroad either
+for the first time or second time had a bank account in the name of him/her
+or any of his/her family members (Figure-5.2).
+
+
+
+
+34| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+         Figure 5.2: Having a Bank Account by Own Name/ With the
+                             Name of the Family
+
+
+
+
+Source: Survey, 2024
+
+5.5. Sources of Borrowed Money for Going Abroad
+
+In order to cover the migration-related expenses, migrants depend on
+multiple sources for loans, like borrowing from Mahajan/Shomiti, NGO,
+Bank/FI, Government Scheme, Family members, and Friends (Table-5.3).
+Among them, most loans are given by Family members followed by NGOs,
+Mahajon/Shamiti, and Bank/FI. Although, many banks offer and deliver
+migration loan services with attractive offers, a very few borrowers were
+found to borrow from commercial banks and financial institutions to
+manage their migration costs. Only 4.35 per cent 1st-time time-going
+workers reported that they borrow from Bank/FIs to cover migration
+expenses while 24 per cent and 6.5 per cent of them reported they borrowed
+money from NGOs and Mahajan/Shomiti, the costs of which differ
+significantly. They borrow from them in a bilateral agreement often without
+a notary or any paper trail. Despite the inflated interest rates charged by
+them, workers prefer these sources due to their accessibility and flexibility.
+Workers also borrow money from other informal sources such as family
+members and friends. For workers who go abroad with loans, the sources of
+family members are revealed as the prime source as 63 per cent for 1st-time
+going workers and 69 per cent for 2nd-time going workers utilsed family
+income to go abroad.
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |35
+        Table 5.3: Sources of Borrowed Money for Going Abroad
+  Variables       For 1st Time For 1st Time For 2nd Time For 2nd Time
+                     Going         Going       Going        Going
+                  (Number of         (in    (Number of         (in
+                 Respondents) Percentage) Respondents) Percentage)
+Mahajan/Shomiti        3            6.52          1           7.69
+    NGO                11          23.92          2          15.38
+   Bank/FI             2            4.35          0             0
+ Government            0              0           0             0
+   Scheme
+Family Member          29          63.04          9          69.24
+    Fiend              1            2.17          1           7.69
+     Total             46            10          13           100
+Source: Survey, 2024
+
+5.6. Time to Start Earning Money after Reaching the Destination
+Country
+
+The time to start earning money after reaching the destination country as
+per the opinion of 2nd-time going workers is from 7 days to 30 days (Table-
+5.4). Most respondents i.e. 45.71 percent migrants were found to start
+earning money after reaching their destination by more than 30 days,
+followed by 7 days with 34.29 percent and 7-15 days with 17.14 percent.
+
+    Table 5.4: Length of time to Start Earning Money after Reaching the
+                       Destination Country (percent)
+                                                          2nd Time Going Workers
+      Days Taken to Start Earning
+                                                               (in Percentage)
+                 Below 7 days                                       34.29
+                  7-15 days                                         17.14
+                  15-30 days                                         2.86
+                   30+ days                                         45.71
+Source: Survey, 2024
+
+5.7. Time Taken to Cover Migration Costs with Migrants’ Incomes
+
+The majority of the respondents i.e. 31.43 per cent mentioned that they need
+6 months’ income to cover migration costs, followed by 18 to 24 Months
+income of 28.57 percent and 6 to 12 Months of 25.71 percent (Table-5.5).
+However, it is noticeable that around 37.14 percent (28.57 percent + 8.57
+
+36| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+percent) migrants require to take income of 18 months and more time to
+cover their costs of migration, exposing a concern as a substantial number
+of migrants go to abroad with 2-year contracts.
+
+ Table 5.5: Time Taken for Covering Migration Costs with Incomes (percent)
+                                                             For 2nd Time Going
+                  Variables
+                                                               (in Percentage)
+               Below 6 Month                                        31.43
+                6-12 Months                                         25.71
+               12-18 Months                                          5.71
+               18-24 Months                                         28.57
+                24+ Months                                           8.57
+Source: Survey, 2024
+
+5.8. Conduits of Sending Remittance to Home
+
+A worker sends international remittances via both formal and informal
+sources. Formal channels refer to established banking systems and
+authorized methods of transferring money. The receipt of remittances
+through the formal channel plays a vital role in enabling the government to
+acquire foreign currencies, which is essential for upholding macroeconomic
+stability. As depicted in Table-5.6, workers found sending remittances by
+Bank account mostly with 78.30 percent followed by Hundi with 8.1 per
+cent, Agency with 6 per cent and Mobile Apps with 5.6 per cent. Hence, a
+considerable portion of remittance amount were sent through Hundi that
+evade official channels.
+
+        Table 5.6: Conduits of Sending Remittance to Home (percent)
+
+      Conduits of Sending Money                      2nd -Time Going Workers*
+                                                           (in Percentage)
+                  Hundi                                          8.1
+                   Bank                                         78.30
+                  Agency                                          6
+                   App                                           5.6
+                  Others                                          2
+Source: Survey, 2024
+Note: *The researchers collected aforesaid data only from the 2 nd time-going workers.
+
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |37
+Section 6: Examining the Effectiveness of Non-Financial Initiatives in
+Promoting Remittance in Bangladesh
+
+6.1. BMET’s Academic Programs
+
+BMET is offering different types of trainings with the growing number of
+migrants in each year. The flagship training programs of BMET is called as
+Pre-Departure Orientation (PDO) arranged for 3-day which covers
+immigration process, prevailing laws of the country, necessary policies and
+employment regulations abroad, prior idea about the job, overall security
+and environment of their destination country and understanding of various
+communicable diseases. In 2023, a total number of 1,116, 084 migrants got
+PDO with a CAGR of 18.20 percent between 2019 and 2023. The newly
+launched program, Recognition Prior Learning (RPL) is an innovative
+program of BMET. The number of participants in all training programs of
+BMET except Housekeeping shows increasing rate of participation. The
+negative CAGR of participation in housekeeping indicates the shrinking
+trend female workers going abroad.
+
+                      Table 6.1: BMET’s Academic Programs
+                                                                                             RPL
+                                      Nature of Training                                      15
+     Year
+              Pre-Departure                Skill             House
+                                                                             Total
+             Orientation (PDO)         Development16        keeping17
+     2019         483,760                 66,921             33,087        583,768         -
+     2020         149,916                 32,391              4,595        186,902         -
+     2021         495,492                 35,706             17,215        548,413        837
+     2022         956,956                 89,064             23,902       1,069,922      9664
+     2023        1,116,084                90,857             17,234       1,224,175      10094
+                                                                                         64.54
+     CAGR          18.20 %                  6.31%           -12.23%         15.96%
+                                                                                           %
+Source: Researcher’s calculation Based on BMET’s Data.
+
+
+
+15
+   RPL (Recognition Prior Learning) is a certification program for those who have skill but they
+have no recognition. BMET recognizes those skillful people by providing certificates. BMET
+launched this program for the last three years.
+16
+   Under Skill Development, BMET offers language training, Diploma in engineering, SSC
+Vocational, SEIP Course and Others Short term courses.
+17
+   House Keeping has been designed only for women migrant workers.
+38| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+6.2. BMET’s Pre-Departure Training (PDT)
+PDT is a mandatory 3-day training program18 for all outgoing expatriates
+offered by BMET with its more than 100 Technical Training Centers across
+the country (TTC). In 2023, BMET provided this training to 1,116,084
+migrants (Table-6.1)19. This training has been formulated with 3 modules
+for 3 days on onsite basis whereas the same training program is being
+offered by OWWA, Philippines with 7 modules in collaboration with
+NGOs, PRA, Industry Association with both online and offline basis.
+
+ Table 6.2: Comparative Study of Pre-departure Orientation in Bangladesh
+                           and the Philippines
+                              Bangladesh                               Philippines
+ Name                 Pre-departure Training (PDT)              Pre-departure Orientation
+                                                                    Seminar (PDOS)
+ Launch                             2013                                  1983
+ Modules                             3                                      7
+ Degree of                        Mandatory                            Mandatory
+ obligation
+ Implementing       Bureau of Manpower, Employment               Overseas Workers Welfare
+ Agency                   and Training (BMET)                    Administration (OWWA)
+ Providers           Technical Training Centre (TTC)             OWWA, NGOs-domestic
+                                                                  workers and entertainers,
+                                                                PRAs, industry associations
+ Fee                               BDT 300                      None from the Government
+                                                                   but PHP100 by others
+ Medium                       Onsite                                 Online and onsite
+ Length of      3 days of 6 hours daily and 30-day              6 hours for general workers;
+ program                for house keeping                      2–6 days for domestic workers
+Source: BMET (2024) and Orbeta & Abrigo (2009).
+
+18
+   PDT is usually for 3 day for most of the destination, however sometimes more days trainings
+are also arranged for some countries.
+19
+   The study team physically visited few TTCs to get direct feedback from the participants
+through discussion and a questionnaire. Observations suggest that there remains lack of
+attentiveness and meaningful participation on the part of a large number of migrants in PDT
+program. The fact is that one participates in training program just before one’s departure. By
+that time migrants just count their days and remain busy with their family matters. They take
+the training program as a condition for getting Registration Card to be issued by BMET rather
+than the opportunity to know some useful or essential aspects related to the migration and the
+countries in which they are going. They also do not get the required time to reduce the learning
+and skill gap found at their last stage of migration. So, it might be more effective if the similar
+type of program is arranged at the beginning of the migration cycle. One thing is noteworthy,
+although officially mandatory, many migrants especially at the village level are still going
+without participating the PDT that clearly runs against the interest of the migrants. So, more
+awareness program about the potential benefit of the PDT program should be conducted inn all
+corners of the country.
+       Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |39
+6.3. Manpower Export Through BMET
+
+For legal migration20, migrant manpower must have a BMET's immigration
+clearance card.21 To work abroad legally, one must be registered with the
+BMET at the district office or online through the “Amiprobashi” app. After
+registration, the worker's documents are scrutinized, and a Smart Card is
+issued to him as clearance. According to BMET, 1,305,453 people went to
+the host countries with BMET clearance cards in 2023 recording a CAGR
+of 11.85 percent during 2014-2023. This growth of overseas employment is
+phenomenal, thanks to the demand of the host countries. Particularly, the
+manpower export was upped by two times in 2022 over 2021 which was
+continued in 2023 also (Table-6.3).
+
+     Table 6.3: Overseas Employment through BMET’s Clearance Card
+
+                      Year                                 Total Expatriates
+                      2014                                     425,684
+                      2015                                     555,881
+                      2016                                     757,731
+                      2017                                    1,008,525
+                      2018                                     734,181
+                      2019                                     700,159
+                      2020                                     217,669
+                      2021                                     617,209
+                      2022                                    1,135,873
+                      2023                                    1,305,453
+                   CAGR (percent)                                11.85
+       Source: Researcher’s Calculation Based on BMET’s Data
+
+20
+   In Bangladesh Recruitment of workers from Bangladesh to various countries takes place
+through different channels like BMET, a government channel; Bangladesh Overseas
+Employment and Services Limited (BOESL), a semi-government agent; private commercial
+recruiting agencies authorized and licensed by the Ministry of Expatriates’ Welfare and
+Overseas Employment; and Individual initiatives through friends and relatives. Individual
+efforts through friends and relatives are the most predominant among all the channels (Islam,
+M. N. (2007). It has been observed from survey that, those who are going to work abroad
+through friends and relatives are found reluctant to take BMET card.
+21
+   For collecting BMET immigration clearance card, a valid passport, fingerprint or bio-metric
+enrollment in district BMET office, a certificate of completion of 03 (three) days of orientation
+training at district technical training centers (Not mandatory for those who spent at least 12
+months in that country) and attestation of visa and agreement papers from the Bangladesh high
+commission of the visa issuing country (Not required for all countries) are necessary.
+
+40| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+6.4. Survey Responses about the Non-Financial Services Availed by
+Migrants
+
+6.4.A. Workers Having Plan for Migration Abroad
+
+A planned migration well ahead of going abroad is likely to make some one
+better prepared than leaving the home country in an unplanned manner. A
+total of 85.71 per cent and 94.29 per cent workers whom are going abroad
+for the first time and second time respectively decide to migrate on the basis
+of a well-thought-out plan whereas a noticeable percent (14.29 per cent) is
+still going outside the home country for the first time without any definite
+pre-departure plan (Table-6.4).
+
+                6.4: Workers Having Plan for Migration Abroad
+            Yes/No           For 1st Time Going            For 2nd Time Going
+                              (in Percentage)                (in Percentage)
+               Yes                   85.71                        94.29
+               No                    14.29                         5.71
+         Source: Survey, 2024
+
+6.4.B. Information about the Opportunity in the Destination Country
+
+Choosing or selecting the host/ destination country is a vital decision for a
+migrant worker which bears long-lasting impact on the well-being of the
+migrants. Bangladesh expatriates use different sources in selecting their
+countries to migrate (Table-6.5). Family members/ relatives/ friends are in the
+top of the list as a source of information both for the first time and second time
+expatriates with 59.18 per cent and 57.14 per cent of the total sample
+respondents, respectively. A significant number of migrants belonging to
+both groups i.e. first time and second time migrants become familiar with
+the destination country through travel agent and agent as is shown below. It
+is noticeable that hardly any worker of the sample group visits or depends
+on the website of different countries in getting information about the
+countries in which they are planning to go.
+
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |41
+       Table 6.5: Information about the Job of the Destination Country
+
+         Sources of Information                     For 1st Time             For 2nd Time
+                                                       Going                    Going
+                                                  (in Percentage)          (in Percentage)
+  Family Member/ Friends Working                       59.18                    57.14
+              Abroad
+           Travel Agent                                  18.37                    8.57
+  NGO/ Government Website/ Union                          2.04                    5.71
+              Parishad
+   Website of Destination Country                          0                      5.71
+               Agent                                     20.41                   11.43
+               Others                                      0                     11.43
+Source: Survey, 2024
+
+6.4.C. Going Abroad with a Pre-fixed Job
+
+A successful migration at the time of departure from the home country
+demands/requires a certain paid activity in which an expatriate will be
+involved after reaching the destination country. Around 88 per cent and 92
+per cent Bangladeshi workers leave the home country for the first and
+second time, respectively with a certain job. So, a significant number of the
+migrants still go abroad without having any pre-determined profession
+(Table 6.6).
+
+ Table 6.6: Going Abroad with a Certain Occupation (Job/Business/Others)
+
+      Status of Occupation              For 1st Time Going           For 2nd Time Going
+                                          (in Percentage)              (in Percentage)
+   Migration with Pre-fixed                    87.76                        91.43
+  Migration without Pre-fixed                  12.24                         8.57
+             Job
+Source: Survey, 2024
+
+6.4.D. Participation in Training before Going Abroad
+
+Going abroad with formal skill- based training improves the probability of
+both getting a job as well as earning high level of income. BMET and some
+other organizations conduct occupation specific skill-enhancing training for
+the migrants across the country. However, apart from the mandatory three-
+days long training program for the migrants arranged at different TTC under
+42| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+the supervision of BMET, a small percentage of total migrants seem to go
+abroad with having occupational training. As is seen from the table
+approximately 84 per cent of both first time and second time migrants do
+not receive any training before their departure (Table 6.7).
+
+          Table 6.7: Participation of Training before Going Abroad
+
+   Training before Going                For 1st Time Going                For 2nd Time
+          Abroad                         (in Percentage)                   Going (in
+                                                                          Percentage)
+      Trained Migrants                           16.33                       17.14
+     Untrained Migrants                          83.67                       82.86
+Source: Survey, 2024
+
+6.4.E. Pre-migration Training on Financial Issues
+
+Earning and sending remittance to the family members is the prime
+consideration for the workers going abroad. So, having a reasonable degree
+of financial education/literacy is a pre-requisite for the migrant workers to
+optimize their financial well-being. Awareness about banking products and
+services, mobile financial services, channels of official remittance,
+disadvantages of using Hundi in sending remittance thus matter much for
+the well-being of the remitters and their family members. Status of migrants
+about the training they are endowed with financial issues is shown in Table-
+6.8 for the first time and second time migrants. A striking difference is
+observed between the first time and second time expatriates in acquired
+training relating to different financial services with second time migrants
+are well ahead of the first-time goers in receiving almost all types of
+financial service-related training. Only 39 percent of the respondents
+received banking service-related training although most of the second time
+migrant workers (86 percent) have got such kind of training. Even in this
+age of digital financial services, majority of the migrants do not have
+capability in using mobile financial services for sending remittance. Quite
+surprisingly, very few migrants, in fact none of the first-time movers, have
+ideas about the pitfall of sending money through hundi.
+
+
+
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |43
+             Table 6.8: Pre-migration Training on Financial Matters
+
+         Areas of Training                    For 1st Time            For 2nd Time Going
+                                                 Going                  (in Percentage)
+                                            (in Percentage)
+        Banking Services                         38.78                         85.71
+    Types of Savings Products                    16.33                         42.86
+       Demerits of Hundi                           0                           14.29
+    Mobile Financial Service                     26.53                         34.29
+    Way of Sending Money to                      10.20                         17.14
+              Home
+             Others                                8.16                        2.86
+Source: Survey, 2024
+
+Section 7: Issues and Suggested Measures
+
+In line with the objectives of the study the paper came out with a number of
+issues and related suggestions based on the FGDs, questionnaires and round
+table discussions that are placed below:
+
+7.A. Financial Initiatives
+
+7.A.1. Having a Bank Account before Leaving the Country
+
+A substantial portion of migrant workers do not have any bank account in
+their own name or in the name of any of their family members, indicating
+that they are going abroad without any financial literacy as well as
+experiences in banking transactions. As a result, they are shied away to do
+further transactions in banks and send money through the formal channels.
+It compels them to send money through the informal channels like hundi.
+
+Suggested Measures
+
+It is required to enhance financial inclusion activities through investing
+more money in awareness programs regarding the importance of having a
+bank account before leaving the country. MoEWOE, BMET and BOESL in
+collaboration with banks can run this awareness programs. Authority may
+consider to announce a week as a Remittance Week/ Banking Week/
+Financial inclusion week when banks and FIs will pay maximum attention
+to bring more unbanked people under the banking services.
+44| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+7.A.2. Saving and Investment Products for Migrant Workers
+
+Migrants save more in the home country when they find appropriate deposit
+schemes are in place with appropriate financial and non-financial benefits,
+financial health and soundness of the banks as well as banking sector are
+also their prime considerations. Savings in bank account by a migrant and
+creation of his/her assets are closely related. These have an effect in
+reducing poverty also. It is worth mentioning that migrants primarily send
+money necessary for consummation, child education and health care. The
+remaining portion of their income they incline to remit when they find
+appropriate saving and investment instruments are available; otherwise,
+they prefer to park their saving in the host countries.
+
+Suggested Measures
+
+A good number of deposit/ investment schemes with attractive features are
+being offered by banks. With a view getting knowledge about these schemes
+and having quick and easy access to this information by migrants and
+his/her family members, an arrangement can be made to place and disclose
+all information of savings and investments in a place like website of
+MoEWOE’s and BMET instead of placing these features sporadically in
+individual bank’s website. Further, in addition to pay attractive interest/
+benefits, banks may contemplate to offer some non-financial services for
+saving money in banks like providing smart and health card, appreciation
+certificate, assistance in submitting tax return, etc. Banks may take initiative
+to design new products similar to pension schemes, investment instruments
+like green bond, sukuk bond or plain vanilla bond, mutual funds and investment
+linked deposit products to entice more foreign remittances. Opening scope to
+deposit in OBU is a good step in this respect.
+
+7.A.3. Bank Loans
+
+Workers seeking employment or already in work abroad may need money
+for three reasons like paying costs for going abroad, covering household
+costs till getting settlement and starting income, and financing self-
+employment opportunities for the returnee migrants. It is found that they
+manage to pay these costs either from their own income or by selling their
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |45
+own assets but they have less preference to take loans. Even though
+migrants happen to take loan, they choose to take loans from NGOs and
+family members whereas taking loan from banks is their least priority. This
+is happening because migrants may not get easy access to bank’s loan
+schemes. Lack of collateral, failure to collect required documents and
+eligible guarantor, absence of credit history, lack of required cooperation
+from unskilled and semi-skilled migrants, existence of income instability
+and risk of migration, absence of online platforms for verification of
+remitters’ paper and signature and difficult to reach borrowers abroad in
+case of default are the major barriers to bankers for providing loan to
+migrants.
+
+Suggestive Measures
+
+Bankers may take measures like involving Union Parishad Chairman,
+Principal/ Headmaster of colleges/ schools or influential relatives in lending
+process like share cropper financing22 in Bangladesh; creating online
+network by Ministry of Labor and Employment or/and Ministry of
+Expatriates Welfare and Overseas Employment or/and authorized
+recruitment agencies for collecting certificates; arranging linkage financing
+through NGOs; designing appropriate loan products with offering a suitable
+grace period and conducting appropriate awareness programs at home and
+abroad. To address the guarantee, need of remitters, Bangladesh Bank may
+launch a Credit Guarantee Scheme to encourage Banks and Non-Bank
+Financial Institutions (NBFIs) to provide loans to them group under
+refinance/ pre-finance schemes. Moreover, it is worth mentioning that
+hassle free and timely disbursement of loan is required to be ensured on the
+top. Digital lending such as “Nano Lending” (by using internet banking,
+mobile apps, mobile financial services), or e-wallet can be a pathway in this
+respect. Particularly, Probashi Kalyan Bank (PKB) can set an example by
+offering technology based innovative loan products.
+
+
+22
+  Under sharecropper financing, banks can give loans to farmers depending on certificate
+given by Chairman, principal/headmaster or landlord in place of taking security or
+guarantee.
+46| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+7.A.4. Government Incentives
+
+The cost of getting required documents before leaving the home country,
+i.e., passport, health certificate, visa, and travel ticket (plane fair) varies
+considerably as cost of all those depend on the alternative route and urgency
+of the migrants in receiving the documents. Apart from inconveniences or
+difficulties faced by the prospective expatriates in having these documents,
+costs that will have to borne by the migrants at different phases in migration
+process together are worrisome especially for the unskilled or semi-skilled
+workers which sometimes increases the pre-migration period and costs.
+
+Suggestive Measures
+
+Considering the national interest, incentive structure before migration is
+equally important as is after the migration takes place. Even a nominal type
+and amount of monetary and non-monetary assistance extended to the
+migrants by the Government will certainly enhance the belongingness and
+sense of responsibility of the migrants to the home country that might have
+some positive impact on the willingness to go abroad as well as on formal
+inward remittance flow. So, the Government might think to give conditional
+privilege to the migrants through issuing passport and some other travel
+related documents at concessional ate.
+
+7.A.5. Illegal Channels and Sending Money through Utilizing APPs
+
+The volume of remittance coming through unofficial channels is anybody's
+guess. So, substantial amounts of key foreign currencies are available in the
+shadow market for illicit capital outflows and financing of illegal trading
+activities. Hundi business operators take undue advantage through their
+door-to-door or person-to-person informal and wide network. Curtailing
+illegal capital inflows is imperative and should be an urgent policy concern.
+
+Suggestive Measures
+
+Banks and exchange houses in host countries should have migrant workers
+install apps on their mobile phones, through which they can send money
+electronically as and when they want. In Bangladesh, a few banks of
+Bangladesh have taken this initiative requiring massive campaign about the
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |47
+necessity to open bank account in the host country and utilizing apps for
+sending money among the Bangladeshi migrants as well as their family
+members staying in Bangladesh. In this respect, making the on-boarding
+process simple and assuring them that it is secured will be essential to
+converting people to digital services.
+
+7.B. Non-Financial Initiatives
+7.B.1. Absence of Well thought Planning with a Prefixed Job
+
+A well thought out plan with having a certain job is necessary before
+someone migrates for job outside of the country. A substantial portion of
+Bangladeshi workers especially unskilled manpower go abroad without any
+planning as well as a prefixed job which delay the migrants to start earning,
+forcing them to cost more months to cover their migrations costs, failing to
+send money back home to their loved ones, and are more likely to become
+victims of frauds.
+
+Suggested Measures
+
+A best-laid plan is required to have of each migrant with willingness to be
+flexible. A good plan is a pathway to escape from deprivation and
+vulnerability and, in some cases, to fulfill aspirations for a better life. An
+aspired migrant can plan regarding desired profession/ job, time to migrate,
+host country, expected earning amount and estimated amount of costs well
+ahead of going abroad. This plan will be helpful for potential migrants to
+take necessary degrees/diploma/ trainings from the Institutes/ colleges/
+universities, accumulate funds to cover costs and prepare documents
+necessary to go abroad like passport and others gradually. BMET, TTC and
+PKB can jointly go for more campaigning programs in this respect.
+
+7.B.2. Less Effectiveness of Pre-Departure Training (PDT) program
+
+Equipping prospective migrants through Pre-Departure Training (PDT)
+program with the comprehensive knowledge about their rights,
+responsibilities and working conditions in the destination country is keenly
+important to benefit significantly from labor migration and remittance
+48| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+inflows. BMET with its more than 100 TTC offers PDT to huge number of
+migrants. However, it is observed that participants of PDT do not take it
+seriously, resulting in they are often migrating being completely unknown
+aforesaid issues. Duration of PDT programs along with contains of syllabus,
+qualified instructors and training methods have the further scope to be
+improved or revisited. This consists of eight modules, yet it is only
+accessible to individuals who are physically present onsite.
+
+Suggested Measures
+
+Providing comprehensive knowledge about the information upon arrival,
+specifically regarding employment conditions, contractual rights, grievance
+mechanisms and avenues for seeking compensation is a must to safeguard the
+well-being and protect the fundamental rights of migrants. In this perspective,
+BMET may appoint more qualified and experienced instructors especially
+language instructors offering incentives, training, and other facilities making
+long-term standing at TTC. They may redesign the PDT program separately
+for unskilled, semi-skilled, and skilled migrants by keeping more duration and
+modules and providing the option to deliver online and offline or blending both.
+For example, the Philippines impart this training with 7 modules online and
+offline. Further, it is worth suggesting that BMET may engage more private
+sector organizations and Non-Governmental Organizations (NGOs) in offering
+PDT even in remote areas of the country.
+
+7.B.3. BMET’s Skill Development Programs
+
+Bangladesh is deprived to get the desired amount of remittance despite
+sending well over a million migrants abroad last year, simply because four
+out of five of them were less skilled. RMMRU's 2022 Migration Trends
+Report, the percentage of less skilled workers who migrated abroad rose to
+78.64 percent last year from 75.24 percent the year before (The Daily Star,
+February 14, 2023). BMET offers a bunch of skill development programs
+such as skill training, housekeeping, APP Based training, language training,
+driving and digitalized certification. However, potential migrants may not
+be knowing the availability, name of relevant Institutes and benefits of these
+skill development programs.
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |49
+Suggested measures
+
+BMET in collaboration with TTC and other vocational training academies
+need to run more awareness programs about availability and benefits of
+running skill development programs and may offer more skill development
+programs with the conceptual and practical sessions covering the future
+requirements of the host countries. A research project can be undertaken to
+measure the types and demands of skill manpower in GGC, EU and other
+regions. Bangladeshi mission abroad can contribute in this respect by
+searching potential markets to send Bangladeshi skilled workers as well as
+finding out the new job places/ recruiters of skilled manpower in the
+existing markets which are done by countries like Philippines, Indonesia
+and India. In developing module for training and education programs,
+technology and language proficiency are required to get more priority.
+Starting from home care to agriculture, industry and office everywhere,
+requirement of technology knowledge is a must. Many host countries are
+gradually prioritizing to absorb their own manpower and intending to recruit
+expatriates who have technological know-how. For example, Saudi Arabia
+has already started a program where at least 20 per cent of Saudi citizens
+will work in the factory. To cope up with this situation, each migrant has to
+need to equip with the technology knowledge. Notably, any person intended
+to go abroad may complete these skill development programs any time even
+much before going abroad.
+
+7.B.4. BOESL Activities to Foreign Employers
+
+BOESL works on the mission to provide “Right Person to Right Job’ and
+send migrants on “No profit and No Loss’ basis. They have sent a good
+number of people to abroad like garment workers and others.
+
+Suggestive Measure
+
+BOESL may push forward aforesaid initiatives in a larger way. In this
+respect, BOESL may create a strong platform where recruiters across the
+world can know the availability of skilled, semi-skilled and unskilled
+manpower in Bangladesh so that Foreign Governments, companies and
+50| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+individuals can place the job hiring advertisements in that platform. On the
+other hand, migrants can check job openings, suitability of jobs and
+accordingly they can apply for job in that platform. For example, The
+Chronicle of Higher Education has created a website called
+“https://jobs.chronicle.com”, a meeting place of both job providers and job
+seekers worldwide. Further, BOESL may arrange as well as participate
+online and offline job fairs in the prospective job markets, initiate to do
+more Government to Government (GTG) agreements with the host
+countries and enhance communication with foreign missions of
+Bangladesh.
+
+7.B.5. Problems of Financial Literacy
+
+The study found that around 60 percent Bangladeshi migrant workers have
+the education below SSC level, revealing absence of their financial
+knowledge. Similarly, their family members have lacking of financial
+knowledge. The lack of financial knowledge of expatriates and their family
+members put them in a position where migrants have fondness to send
+money through Hundi always available on their door step for meeting short
+term needs of their family like foods, health care, house rent and kids’
+education. Further, Bangladeshis living abroad illegally who do not comply
+with the legal requirements to send money home and, as such, hundi is the
+only way for them to do transactions. Because of rising use of hundi,
+potential benefits of remittances like strengthening country’s foreign
+currency reserve at the macro level along with sustainable income,
+remittance management and wealth creation at individual level were not
+happened in the country at the desired level. Hence, a migrant is necessary
+to have financial knowledge on types, benefits and features of saving and
+loan services available in banks, Government bonds, shares, mutual funds
+and other saving and investment instruments in order to avail loan facility
+and making investment plan. Along with, acquaintance with the process and
+benefits of sending money through legal channel, knowing the curses of
+sending money through illegal channels and possessing minimum know-
+how of doing financial transactions are also essential for them to avoid
+possible precarious financial accidents in future.
+
+     Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |51
+Suggested Measures
+
+At present, BMET’s Pre-Departure Training (PDT), a mandatory 3-day
+program training program, has only one academic session on the financial
+knowledge titled ‘Remittance, Investment and Economic Reintegration’ for
+60 minutes which is clearly inadequate in terms of contents of learning as
+well as duration and methods of training. With a view to effectiveness of
+this training, BMET may keep at least four academic sessions at least for
+one day covering financial knowledge on saving, loan and investment
+services available in banks and financial institutions, processes of sending
+money to home country and negativity of hundi. Further, The Bangladesh
+Technical Education Board may redesign their curriculum by including
+sufficient knowledge on financial issues in their syllabus. Government of
+Bangladesh may arrange training or awareness program about financial
+literacy, financial and nonfinancial facilities like information of suitable
+jobs in different countries, cost, loan facilities from banks etc. to the family
+members of the remitters at the district level. For this purpose, database for
+districtwide remitters, number returning remitter with current status (living
+or died) will be needed to help banks and other financial institutions to offer
+banking/financial product, investment opportunity like education/ housing/
+business loan to the family members of remitters. This information can also
+be disseminated and promoted during the “World Migration Day” where
+booths from different remittance stakeholders like bank, health clinics,
+Probashi kollayan Ministry, airways, travel agents, BAIRA with brochures
+will be available.
+
+
+
+
+52| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                                       References
+Aggarwal, R., & Peria, M. S. M. (2006). Do workers' remittances promote
+      financial development? World Bank Policy Research Working Paper
+      Series. Vol. 3957. World Bank Publications.
+Adams, R. H. (2005). Remittances, Household Expenditure and Investment in
+      Guatemala. Policy Research Working Paper Series, No. 3532, The World
+      Bank.
+Adams Jr, R. H., Cuecueccha, A., & Page, J. (2008). Remittances, Consumption
+      and Investment in Ghana. Policy Research Working Paper, No. 4515, The
+      World Bank Development Economics Department & Africa Region
+      February 2008.
+Adams, R.H., & J. Page. (2005). Do International Migration and Remittances
+      Reduce Poverty in Developing Countries. World Development. Vol. 33,
+      No.10, PP 1645-1669.
+Adams, R.H. (1991). The Effects of International Remittances on Poverty,
+      Inequality and Development in Rural Egypt. Research Report 86.
+      International Food Policy Research Institute.
+Akhter. N., & M.K. Islam (2019). The Impact of Migration and Migrant Remittances on
+        Household Poverty in Bangladesh. Asian Development Perspectives
+        2019;10(1):43-59
+Ajayi, M. A., Ijaiya, M. A., Ijaiya, G. T., Bello, R. A., Ijaiya, M. A., & Adeyemi,
+        S. L. (2009). International Remittances and Well-being in Sus-Saharan
+        Africa. Journal of economics and international finance, 1(3), 78-84.
+Anima, M. T., Nath, N. C., & Dalia, S. D. (2023). Impact of informal remittance
+       channels in Bangladesh: Understanding the role of hundi in financial crime
+       beyond economic aspects. Journal of Economic Criminology, 2, 100030.
+Anyanwu, J. C., & E.O. Erhijakpor. (2010). Do Remittances Affect Poverty in
+      Africa? African Development Review, Vol.22, No.1. Pp. 51-91.
+Asian Development Bank (2021). Harnessing Digitization for Remittances in Asia
+       and the Pacific. 2021 Asian Development Bank 6 ADB Avenue,
+       Mandaluyong City, 1550 Metro Manila, Philippines
+Azad, A. K. (2005). Migrant workers’ remittances: A source of finance for micro-
+       enterprise development in Bangladesh. Remittances: Development Impact
+       and Future Prospects, World Bank Publications, 119-132.
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |53
+Bangladesh Bureau of Statistics (BBS). (2022). Household Income and
+       Expenditure Survey (HIES), BBS, Ministry of Planning, Dhaka:
+       Bangladesh.
+Bank, B. (2024). Major Economic Indicators: Monthly Update. Monetary Policy
+       Department, Bangladesh Bank, Volume 01/2024, pp 28.
+Blue, S. (2004). State Policy, Economic Crisis, Gender, and Family Ties:
+       Determinants of Family Remittances to Cuba. Economic Geography
+       80(1):63–82.
+Buchenau J. (2008). Migration, Remittances and Poverty Alleviation in
+      Bangladesh Report and Proposal. United Nations Development Program,
+      Dhaka Bangladesh. Available at : https://d1wqtxts1xzle7.cloudfront.net
+Carling, J. (2005). Migrant remittances and Development Cooperation. PRIO
+        Report 1/2005, Oslo.
+De Haas, H. (2005). International Migration, Remittances and Development:
+      Myths and Facts. Third World Quarterly, Vol.26, No.8, Pp 1269-1284.
+Editorial (2023), We need skilled workers for higher remittance, The Daily Star,
+        Tue Feb 14, 2023 retried at https://www.thedailystar.net/opinion/editorial/
+        news/we-need-skilled-workers-higher-remittance-3247616
+Fajnzylber, P., & López, J. H. (2008). The development impact of remittances in
+        Latin America. Remittances and Development: Lessons from Latin
+        America, 1-19.
+Giuliano, P., & M. Ruiz-Arranz. (2005). Remittances, Financial Development and
+        Growth. IMF Working Paper Series, WP/05/234, IMF.
+Giuliano, P., and M. Ruiz-Arranz. (2009). Remittances, Financial Development,
+        and Growth. Journal of Development Economics 90:144–52.
+Gupta, S., C. Pattillo, & S. Wagh. (2007). Impact of Remittances on Poverty and
+        Financial Development in Sub-Saharan Africa. IMF Working Paper, WP-
+        07-38, IMF.
+IOM. (2024). WORLD MIGRATION REPORT 2024. International Organization
+       for Migration. 17 route des Morillons
+Iqbal. A. C. (2014). Impacts of Remittance on the Socioeconomic Condition of
+        Bangladesh: An Analysis. Innovative Issues and Approaches in Social
+        Sciences. IIASS – Vol. 7, No. 3, September 2014.
+
+54| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+International Labor Organization (2020). A Comprehensive Analysis of Remittances Sri
+         Lanka. Available at: https://www.ilo.org/publications/comprehensive-analysis-
+         remittances -sri-lanka
+IOM (International Organisation for Migration). (2006). IOM and Remittances:
+       Definition, Scale and Importance of Remittances, Available at:
+       http://www.iom.int/jahia/webdav/site/myjahiasite/shared/shared/mainsite
+       / published_docs/brochures
+Mundaca, G. (2009). Remittances, Financial Markets Development and Economic
+      Growth: The Case of Latin America and Caribbean. Review of Development
+      Economics 13(2):288–303.
+Naufal, G. (2007). Who Remits? The Case of Nicaragua. Discussion Paper Series
+        No. 3081, Institute for the Study of Labor, Germany.
+Orbeta Jr, A., & Abrigo, M. R. M. (2009). Philippine international labor migration
+        in the past 30 years: Trends and prospects (No. 2009-33). PIDS
+        Discussion Paper Series.
+Osili, U. O. (2004). Migrants and Housing Investments: Theory and Evidence from
+         Nigeria. Economic Development and Cultural Change 52(4):821–49
+Ozaki, M. (2012). Worker migration and remittances in South Asia. ADB South
+       Asia Working Paper Series. Asian Development Bank, May 2012,
+       Publication Stock No. WPS124630.
+Raihan, S., 2023. Do we really know how hundi works? Dly. Star. 〈https://www.
+        thedailystar.net/opinion/views/news/do-we-really-know-how-hundi-
+        works3260346〉.
+Raihan, S., B. H. Khondker, G. Sugiyarto, and S. Jha. (2009). Remittances and
+        Household Welfare: A Case Study of Bangladesh. ADB Economics
+        Working Paper Series No. 189. Manila: Asian Development Bank.
+Ratha, D. (2005). Workers’ Remittances: An Important and Stable Source of
+       External Development Finance, in Global Development Finance: Striving
+       for Stability in Development Finance. World Bank.
+Ratha, D., M.Sanket. & E. Scheja. (2011). Impact of migration on Economic and
+        Social Development A Review of Evidence and Emerging Issues. Policy
+        Research Working Paper. The World Bank. Washington DC.
+Siddique, Kamran (2024), What's keeping Bangladeshis stuck in low-skilled
+       overseas jobs? The Business Standard, May 22.
+
+      Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |55
+Todaro, M. P. (1969). A Model of Labor Migration and Urban Unemployment in
+        Less Developed Countries. The American Economic Review 59(1):138–48.
+Toxopeus, H., & R. Lensink. (2007). Remittances and Financial Inclusion in
+      Development. UNU-WIDER Research Paper, Vol. 2007/49, Helsinki.
+UNDP (United Nations Development Program). (2009). Overcoming Barriers:
+     Human Mobility and Development. United Nations Development
+     Program, New York.
+UNESCO: United Nations Educational Scientific and Cultural Organization.
+     (2018). Migration, Displacement and Education: Building bridges, Not
+     walls. Global Education Monitoring Report. UNESCO, 2018.
+Ushakov. D., & T A Auliandri. (2019). International Labor Migration in South
+      Asia: Current Situation and the Problems of Efficient National Regulation.
+      International science and technology conference "FarEastCon-2019"
+      (https://iopscience.iop.org/article/ 10.1088/ 1757-899X/753/8/082024)
+Valero-Gil, J. (2008). Remittances and the Household’s Expenditure on Health.
+       MPRA Paper, No. 9572, University Library of Munich, Germany.
+Vargas-Silva, C., S. Jha, and G. Sugiyarto. (2009). Remittances in Asia:
+       Implications for the Fight against Poverty and the Pursuit of Economic
+       Growth. ADB Economics Working Paper Series No. 182. Manila: Asian
+       Development Bank.
+Vargas-Silva, C. (2009). Crime and Remittance Transfers. Eastern Economic
+       Journal 35(2):232–47
+Varghese N. V. (2021). Education and Migration: A Study of the Indian Diaspora.
+       International Journal of African Higher Education 8(2):103-117.
+Kelegama, S., & Weeraratne, B. (2015). Migration and economic remittances:
+       Impact on development. In Routledge handbook of immigration and
+       refugee studies (pp. 209-215). Routledge.
+World Bank. (2006). Global economic prospects 2006: Economic implications of
+       remittances and migration. The World Bank, Washington DC.
+World Bank. (2011). Migration and Remittances Factbook 2011. Available at:
+      http:// siteresources.worldbank.org/INTLAC/ Resources/Factbook2011-
+      Ebook.pdf.
+https://jobs.chronicle.com
+56| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                                                                                 Annexures
+                   Table 1: Demographic Profile of Respondents
+                                              Workers migrated to       Workers migrated to
+  Variables              Category             foreign for 1st Time      foreign for 2nd Time
+                                                      (%)                        (%)
+ Gender           Male                                 84                       74.29
+                  Female                               16                       25.71
+ Age:             18-25 years                         24.5                       17.1
+                  26-35 years                         55.1                       42.9
+                  36-45 years                         18.4                       31.4
+                  46-55 years                           2                         8.6
+                  55+ years                             0                          0
+ Education:       Illiterate                           4.1                        8.6
+                  Below SSC                           55.1                       57.1
+                  SSC                                 26.5                       17.1
+                  HSC                                  8.2                       14.3
+                  Honors                               4.1                        2.9
+                  Masters and Above                     2                          0
+ Previous         Garments Worker                     28.6                       17.1
+ Profession:      Service                             14.3                       42.9
+                  Business                             6.1                        2.9
+                  Shop Keeper                         12.2                        5.7
+                  Farmer                               4.1                        8.6
+                  Mechanic                             6.1                         0
+                  Day Laborer                           2                        11.4
+                  Entrepreneur                          2                          0
+                  Network Engineer                      2                          0
+                  Driver                               4.1                         0
+                  Student                              6.1                        8.6
+                  Unemployed                          12.2                        2.9
+ Family           2 Persons                            4.1                         0
+ Members in       3 Persons                           10.2                        2.9
+ number:          4 Persons                           26.5                       28.6
+                  5 Persons                           20.4                       25.7
+                  6 Persons                           16.3                       25.7
+                  6+ Persons                          22.4                       17.1
+ Dependent        0 Person                             8.2                         0
+ Family           1 Person                              0                          0
+ Members:         2 Persons                           24.5                       22.9
+                  3 Persons                           14.3                       20.0
+                  4 Persons                           18.4                       25.7
+                  5 Persons                           24.5                       20.0
+                  6 Persons                            6.1                        2.9
+                  6+ Persons                           4.1                        8.6
+Source: Survey, 2024
+
+
+
+
+        Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |57
+                                Figure 1: Home District of Respondents (First Time)
+
+                        40.0
+                                                     34.7
+                        35.0
+
+
+
+
+    In Percentage (%)
+                        30.0
+                        25.0
+                        20.0
+                                        14.3
+                        15.0
+                        10.0                                                6.1
+                                               4.1          4.1                   4.1             4.1                 4.1
+                         5.0      2.0                             2.0 2.0               2.0 2.0         2.0 2.0 2.0         2.0 2.0 2.0 2.0
+                         0.0
+
+
+
+
+                                                                                  District
+
+Source: Survey, 2024
+
+                               Figure 2: Home District of Respondents (Second Time)
+
+                        50.0          45.7
+                        45.0
+                        40.0
+
+
+
+
+    In Percentage (%)
+                        35.0
+                        30.0
+                        25.0
+                        20.0 17.1
+                        15.0
+                        10.0               5.7
+                         5.0      2.9          2.9 2.9     2.9 2.9 2.9 2.9 2.9 2.9 2.9     2.9
+                                                       0.0                             0.0
+                         0.0
+
+
+
+
+                                                                                  District
+
+Source: Survey, 2024
+
+
+
+
+58| Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives
+                                         Figure 3: Destination Country (First Time)
+
+                          45.0              40.8
+                          40.0
+                          35.0
+                          30.0
+
+  In Percentage
+                          25.0
+                                   18.4
+                          20.0
+                          15.0                                10.2
+                                                      8.2                           6.1                             6.1
+       (%)
+                          10.0
+                           5.0                                          2.0                 2.0     2.0     2.0             2.0
+                           0.0
+
+
+
+
+                                                                          Country
+
+Source: Survey, 2024
+
+                                        Figure 4: Destination Country (Second Time)
+
+                        40.0
+                                         34.3
+                        35.0
+                        30.0
+
+
+
+
+    In Percentage (%)
+                        25.0     22.9
+
+                        20.0
+
+                        15.0                                                                                         11.4
+                        10.0
+                                                                                      5.7             5.7
+                         5.0                    2.9         2.9   2.9         2.9             2.9             2.9             2.9
+
+                         0.0
+
+
+
+
+                                                                              Country
+
+Source: Survey, 2024
+
+
+
+
+                        Remittance Inflow in Bangladesh: Pre-Migration Financial and Non-Financial Initiatives |59
+   Bangladesh Institute of Bank Management (BIBM)
+Plot No.4, Main Road No. 1 (South), Section No. 2, Mirpur, Dhaka-1216
+Tel: 48032091-4; 48032097-8, 48032104, E-mail: bibmresearch@bibm.org.bd; Web: www.bibm.org.bd
+
+Price: BDT 300.00
+       USD 8.00
+

@@ -1,0 +1,2210 @@
+A Survey Report on Loans for Expatriates– Its Uses and Impact
+
+
+
+
+                  Special Research Work: 1902
+
+
+                     Research Department
+                       Bangladesh Bank
+
+                      Date: January, 2019
+
+
+
+
+                               1
+    Contributors
+
+
+
+ Dr. Md. Habibur Rahman
+      General Manager
+    Governor Secretariat
+
+    Mahfuza Akther
+    General Manager
+   Research Department
+
+   Dr. Sayera Younus
+    General Manager
+   Research Department
+
+      Sirajul Islam
+ Deputy General Manager
+   Research Department
+
+Mohammad Masuduzzaman
+ Deputy General Manager
+   Research Department
+
+    Md. Abdul Karim
+  Deputy General Manager
+   Research Department
+
+  Sheikh Md. Nurul Islam
+      Joint Director
+   Research Department
+
+    Shah Md. Sumon
+     Assistant Director
+   Research Department
+
+   Saila Sarmin Rapti
+    Assistant Director
+   Research Department
+
+
+
+
+            2
+                                          Contents
+
+
+
+
+                                   Subject                          Page No.
+Executive Summary                                                      04
+
+1. Introduction                                                       06
+
+2. Background and Methodology                                         10
+
+3. Basic Features of Loans for Expatriates under ABL and PKB          14
+
+4. General Characteristics of Expatriates and their Beneficiaries     16
+
+5. Cost of Migration and Expatriates‘ Loans                           19
+
+6. Inflow of Remittances and Utilization Patterns                     28
+
+7. Socio-economic Impact of Expatriates‘ Loans                        31
+
+8. Findings of the Survey                                             33
+
+9. Policy Recommendations                                             35
+
+Annexure I                                                            36
+
+Annexure II                                                           37
+
+Annexure III                                                          39
+
+
+
+
+                                              3
+                                Executive Summary
+
+
+B
+         angladesh has a glorious history of migration for employment. After independence, the first
+         evidence of the migration took place in 1976 through 6087 migrants, which increased over
+         time along with significant changes in patterns. According to the information of Bureau of
+Manpower, Employment and Training (BMET), there are more than 10 (ten) lakh people currently
+living abroad for employment. Among the various challenges that the prospective migrant workers
+face, managing the required finance for migration is very much crucial. It has been observed that the
+migrant workers initially try to manage their funding from family savings or/and borrowings from
+relatives. In case of un-skilled and semi-skilled immigrants from lower income families, however,
+most of the funds are managed either by selling their properties or borrowing money from the NGOs
+or local money lenders at a very high rate of interest. Finding a suitable job is another challenge for
+migrant workers. Failing to find a job compel them to return home empty handed creating additional
+financial, social and emotional burden on their families. Therefore, in addition to ensuring a suitable
+job managing an easily accessible, cheaper and collateral free loan provision for the expatriates would
+be very useful in enhancing outflow of migrant workers to uphold a higher and sustainable inflow of
+remittances.
+
+The present study titled "A Survey on Loans for Expatriates - Its Uses and Impact" intends to assess
+the overall scenarios of existing overseas loan facilities for prospective expatriates—namely
+expatriates' loans by the Probashi Kallyan Bank (PKB) and Agrani Bidesh Jawer Loan (ABJL) by the
+Agrani Bank Limited (ABL) through collecting information from both the banks and beneficiaries of
+relevant expatriates. Based on the findings of the survey, the study makes some policy
+recommendations and suggestions to overcome the current challenges of migrant workers and their
+families. The survey is conducted based on two structured questionnaires - one for bank and the other
+for beneficiaries - covering a total of around 400 beneficiaries of expatriates from 80 branches of two
+banks spreading over 40 districts across the country. Selection of branches and beneficiaries are done
+on random basis. Major findings of the study are summarized below:
+
+1. The Agrani Bank Limited (ABL) has disbursed Tk.0.78 crore under the scheme of ―Bidesh Jawar
+   Loan‖ to the borrowers in 2014 which increased gradually and stood at Tk.2.45 crore in 2017. On
+   the other hand, Probashi Kallyan Bank (PKB) has disbursed Tk.26.06 crore to 899 borrowers in
+   FY14 which has increased significantly to Tk.74.80 crore against 7763 borrowers in 2017.
+2. The amount of loan recovery for ABL has shown significant improvement in 2015 which
+   increased by 58.84% to Tk.1.10 crore compared to the previous year. However, this has been
+   reversed drastically during the next two years declining to Tk. 0.53 crore and Tk. 0.34 crore in
+   2016 and 2017 respectively. On the other hand, the PKB has shown better performance in loan
+   recovery during the last three years. The amount of loan recovery was Tk. 11.97 crore in FY14
+   which increased gradually to Tk. 64.50 crore in FY17.
+3. The amount of outstanding loan of ABL has increased significantly due mainly to negative
+   growth of loan repayment by the borrowers, which stood at Tk. 2.14 crore at the end of FY17
+   compared to Tk. 0.13 crore at the end of FY14. The amount of outstanding loan for PKB stood at
+   Tk. 111.86 crore at the end of FY17 compared to Tk. 29.02 crore at the end of FY14.
+4. Most of the expatriate (about 73 percent) under this survey were migrant workers/working in the
+   Middle-eastern countries covering around 32 percent and 25 percent from Qatar and Saudi Arabia
+   respectively. High concentration of expatriates in the Middle-eastern countries has created a
+   precarious situation since any unexpected crisis in this region can affect a large population of
+   Bangladeshi expatriates and, thereby, remittances inflows to Bangladesh.
+
+
+                                                  4
+6. Majority (62 percent) of expatriates are unskilled while only 2 percent are in skilled category. The
+   occupation pattern also shows that the expatriate workers are involved in various odd jobs where
+   a large portion of them (38%) are employed as a labor in construction sectors.
+7. Around 72 percent of the surveyed beneficiaries of the migrants are from rural areas. Age and
+   skill distribution show that about 57 percent of the expatriates are young and 62 percent of them
+   are unskilled. About 74 percent of the expatriates‘ education level is up to Secondary School
+   Certificate (SSC). A large number (45 percent) of expatriates have migrated via agents and most
+   (73 percent) of them lives in Middle East. Only 2 percent of migration takes place via legitimate
+   government procedure.
+8. Migration cost for 65 percent of the expatriates was above Taka 3 lakh. Only for 15.5 percent of
+   the expatriates migration cost was Taka 1 to 2 lakh. Twenty three percent of the expatriates had to
+   pay above Taka 5 lakh for their migration.
+9. A significant portion (32.4 percent) of expatriates' migration cost come from bank loans. More
+   than five percent come from NGOs and money lender with higher rate of interest. About 11
+   percent of total cost came from sale of property. The survey finds that 69 percent of the total
+   (107) expatriates could not repay their loan because of irregularity of their jobs, unexpected work
+   condition, payment of loans taken from other sources (e.g. money lenders, NGO), sickness, delay
+   in job and decreased salary.
+10. About 31 percent of remittances were spent on education, health care, savings and purchasing
+    property. A large number (83 percent) of beneficiaries reported that the living standard of their
+    families has been improved after moving abroad. The expatriates are highly satisfied and greatly
+    benefited with this loan offered by PKB. Apart from daily expenses and loan repayment, 29
+    percent of the total expatriates are now economically solvent and are now able to meet the
+    educational expenses of their children and can afford expenditure for purchasing land and
+    building houses for living.
+11. The survey shows that expatriates‘ loan is contributing to financial inclusion and economic
+    empowerment of women. A large number (86 percent) of expatriates had opened new bank
+    account for the loan which is contributing to financial inclusion particularly in rural areas. Among
+    the total expatriates, only 4 percent are female whereas 41 percent of the expatriate beneficiaries
+    are female. Remitting money by a female expatriates as well as receiving money by female
+    beneficiaries is a sign of women empowerment.
+12. Eleven percent of the expatriates have succeeded to take their family members abroad which
+    created more employment.
+Obstacles and Policy Recommendations
+13. The study identifies a number of problems faced by the expatriates. The banks are claiming extra
+    charges on overseas loan in addition to the quoted rate of interest in the name of service charge,
+    documentation fee, stamp fee, CIB report fee, processing fee, insurance fee, VAT charge, etc. The
+    centralized process of sanctioning loan in ABL, manpower shortage in PKB, requirement of
+    Government officials as guarantors and higher cost of migration, comparatively lower earning by
+    the expatriates, etc. are the major problems associated with the expatriates' loan program of the
+    two banks.
+14. Easing the procedures of loan disbursement, abolishing additional loan charges, enhancing the
+    loan amount and its grace period, reducing the interest rate, skill development of human
+    resources, changing the existing insurance policy and finding out the ways to reduce migration
+    cost are considered to be main steps to address the existing problems. Before sending women to
+    abroad it is recommended to train them foreign languages, to accommodate with the situation and
+    to avoid abuse and torture of the owner and the agents of the female migrants.
+15. Finally, expatriates‘ loans provided only by two banks are not sufficient to meet its growing
+    demand. Therefore, it is recommended that more banks should come forward to provide this loan
+    with a view to reducing cost and other financial barriers in the path of migration.
+
+                                                   5
+                                              1. Introduction
+
+M          igration has become the cornerstone of employment strategy for Bangladesh. It plays a vital
+           role in the national economy mainly in two ways—firstly, it reduces unemployment and
+           secondly, migration is conducive to the inflow of remittances for the country, which in
+turns puffing up foreign exchange reserves. In addition, remittances play a supportive role in boosting
+current account surplus of the country. The migration has grown steadily over the years, which is
+favorable to the development of Bangladesh. The link between migration and remittances is positive.
+Both have a strong relation for reducing poverty. It also has a great contribution in Gross Domestic
+Product (GDP) of the country. Remittances are treated as savings. However, the recipients of
+remittances use the receipt for consumption as well as investment. Reflection of the use of the
+remittances by the recipients can remove the gap between investment and savings.
+
+Bangladesh has a long history of overseas migration. Before the independence of Bangladesh, few
+people migrated to UK and also USA mainly for higher study. But after independence, the flow of
+migration to other countries has increased. During mid 1970s due to oil exploration of Middle East
+countries, there was a tremendous demand for skilled and unskilled workers. The higher wages of the
+migrants not only changed their destiny, but has also improved the lives of their family in the home
+country.
+
+So, with a view to meeting the needs of overseas employment this manpower is steadily turning into
+an asset by training and skill development. Overseas employment from Bangladesh started officially
+in 1976 with only 6,087 workers. Till 2017 about 11.5 million Bangladeshi migrants are working
+around the world. However, overseas employment did not confined into male workers only.
+Bangladeshi women workers started to migrate abroad officially in 1991 and their number was 2,189.
+Overseas female employment has grown significantly by this time. The share of female employment
+was 0.85% in 1995 which stood at 1,21,925 or 12.09% of total overseas employment in 2017 (Chart-
+1.1).
+
+                                      Chart-1.1 Overseas Employment Share (%) by Gender
+
+                   99.15           99.80          94.63          92.91
+                                                                                          84.42          87.91
+             100                                                             81.34
+             80
+
+
+ Share (%)
+             60
+
+                                                                            18.66
+             40
+                                                                                          15.58          12.09
+                                    0.20        5.37             7.09
+             20            0.85
+               0
+                    1995            2000         2005            2010        2015        2016            2017
+                           Female as % of Total Employment               Male as % of Total Employment
+
+According to BMET yearly migration from Bangladesh is on an average about 0.52 million during
+2004 to 2017. In 2017, 10,08,525 people went abroad in the pursuit of job. Bangladeshi workers have
+mainly gone to Middle-eastern countries and the portion is about 90% of the total migration.
+Malaysia, Qatar, Saudi Arabia, UAE, Kuwait, Oman, and Singapore are some of the other major
+destinations of our migrants. Such a large number of people moving abroad were due to the
+government‘s policies, initiatives and encouragement from time to time. Box 1.1 shows the
+government‘s steps taken for overseas employment and expatriates‘ welfare.
+
+
+
+                                                             6
+       Box 1.1 : Steps Taken by Government for Overseas Employment and Expatriates’ Welfare
+After independence of the country, diplomatic initiatives and consensus for overseas employment with the
+Muslim countries of Middle-East started. In continuation of that, Bangladeshi workers began to be employed in
+the Middle-Eastern countries during mid-seventies.         Overseas employment has aided in decreasing
+unemployment problem, poverty reduction and increasing foreign exchange reserves. However, significant
+contributions of overseas employment and remittances are observed recently in accelerating economic pace of
+the country. To provide more emphasis to the overseas employment sector, Government has established a
+separate ministry named Ministry of Expatriates‘ Welfare and Overseas Employment (MoEWOE) on 20
+December 2001. MoEWOE has been working for formulating policies, plans, enacting laws, developing projects
+and monitoring relating to the management of overseas employment. The Ministry is being assisted by Bureau
+of Manpower, Employment and Training (BMET), Bangladesh Overseas Employment Services Limited
+(BOESL), Wage Earner‘s Welfare Fund (WEWF) and the Probashi Kallyan Bank (PKB).
+ BMET, was established in 1976 and is involved in controlling and monitoring the activities of the recruiting
+    agents; registration of job seekers and promoting employment in home and abroad; ensuring right of
+    migrant workers and extending welfare services.
+ BOESL, a government owned organization, was established in 1984, which is responsible for enhancing
+    and processing foreign employment. BOESL also undertake effective employment promotion campaign in
+    the labor receiving countries.
+ WEWF was established in 1990. The vision of WEWF is to ensure overall and sustainable welfare of the
+    workers employed overseas and their family.
+ PKB was established in 2011 to provide collateral free expatriates‘ loans, facilitate sending remittances and
+    encourage the wage-earners to invest in the country.
+Besides, the following some initiatives are taken by Govt. for enhancing overseas employment in recent times:
+[
+
+
+
+
+ The Govt. has approved a more detailed and comprehensive ―Expatriates‘ Welfare and Overseas
+    Employment Policy 2016‖ on 25 January 2016 in line with the Overseas Employment and Migration Act
+    2013 and the United Nations‘ international convention. The new policy replaced the ‗Overseas Employment
+    Policy 2006‘. The policy advises simplifying the migration process for the female workers and increasing
+    the number of female officials in Bangladeshi missions abroad, particularly in those where an increased
+    number of Bangladeshi women are working.
+ For encouraging women participation in overseas employment, Govt. has taken some initiatives like
+    training programs, ensuring safe work environment, expanding labor market and migrating free of cost, etc.
+ PKB provides collateral free loans for the expatriates and rehabilitation and project loans for returnee
+    migrants.
+ BMET has some initiatives for reducing migration cost and elimination of middlemen in the process of
+    recruitment to make it accountable, transparent and automated. Alternative recruitment mechanism has been
+    arranged through automation and digitalization such as MUSANED and MEGA system with the KSA, EPS
+    with South Korea, G 2 G & G 2 G Plus with Malaysia and JITCO and IM with Japan.
+ BMET is providing smart card to the expatriates for storing the expatriates‘ information electronically.
+ Online visa checking programs are introduced for the expatriates moving to United Arab Emirates, Qatar,
+    Singapore and Bahrain.
+ Probash Bondu Call Centre was started on 1 September 2016 by WEWF in order to facilitate the expatriates
+    in making instant call in case of emergency or asking for solutions for any problem. Call Centre also
+    responds on any request from various communicating channels and apps like e-mail, messengers, Imo,
+    WhatsApp, Facebook, etc.
+ Through e-learning platform prepared under Access to Information Program by the Govt., migrant workers
+    can receive training programs by having only a smart phone. This can help them to be more capable without
+    spending much time and costing.
+ To digitalize the activities of BOESL, SMS Service Gateway has been established through which migrants
+    can receive necessary information regarding their migration.
+ WEWF provides financial help in bringing dead worker‘s corpse from abroad to home and performing
+    burial rituals. WEWF also gives financial grant to the family of dead expatriates.
+ For encouraging sending remittances through valid channels and recognizing expatriates‘ roles in the
+    development of the country, Commercially Important Person (Non-Resident Bangladeshi) (CIP (NRB))
+    selection policy was introduced in 2006. Each year MoEWOE selects CIP (NRB) in 3 categories.
+ For skill development, 70 Technical Training Centre (TTC) at district level are set up across the country.
+ Radio Kuwait Bangla and Kuwait Television Bangla were introduced for providing entertainment,
+    important announcements and information to the Bangladeshi expatriates working Kuwait.
+ Safe Home was created by WEWF for women expatriates in Saudi Arabia and Oman if they feel their lives
+    risky in abroad and return home in safe.
+     Source: Various publications by MoEWOE
+
+
+                                                      7
+Currently, two types of global migration are observed in Bangladesh. One takes place mostly to the
+industrialized West and the other to Middle-eastern and South-east Asian countries. Migration to the
+industrialized West includes permanent residents, immigrants, work permit holders and professionals.
+They are usually characterized as long term or permanent migrants. Migration to Middle-east and
+South-east Asia are usually for short term and the migrants return home after finishing their contracts
+of employment.
+
+Temporary migrants from Bangladesh are categorized into four types. These are professional, skilled,
+semi-skilled, and unskilled. Doctors, engineers, nurses and teachers are considered as professionals.
+Manufacturing or garments workers are considered as skilled, while tailor, mason, etc. as semi-skilled
+workers; housemaid, cleaner, labors are classified as less-skilled/unskilled. Number of migration and
+remittances from 1976 to 2017 is shown in Chart-1.2.
+
+                                           Chart-1.2 Number of Employment and Remittance Inflows from 1976 to 2017
+                          1200000                                                                                                                                                        20000
+
+
+
+
+                                                                                                                                                                                                 Remittances (million USD)
+                          1000000
+
+
+
+
+ Employment (in number)
+                                                                                                                                                                                         15000
+                           800000
+
+                           600000                                                                                                                                                        10000
+
+                           400000
+                                                                                                                                                                                         5000
+                           200000
+
+                                0                                                                                                                                                        0
+                                    1976   1978   1980   1982   1984   1986   1988    1990   1992   1994   1996   1998   2000    2002   2004   2006   2008   2010   2012   2014   2016
+
+                                                                                     Total Employment                           Million USD
+
+From Chart 1.2, it is observed that the rapid growth in workers‘ remittances took place during 2004 to
+2017 due mainly to creation of facilities to send remittances from abroad. In this regard, the
+government as well as Bangladesh Bank has taken a good number of policies for encouraging
+remittances through banking channels. Box 1.2 shows some policies taken by Bangladesh Bank and
+Government to increase remittances.
+
+
+
+
+                                                                                                           8
+           Box 1.2: Policies Taken by Bangladesh Bank and Government to Increase Remittances
+
+Bangladesh Bank (BB) has taken a number of measures to boost up remittance inflows in the banking channel in
+past few years through the guidelines, policies and regulations.
+ In order to accelerate and smoothening the delivery process of inward remittances, scheduled bank
+     branches, Micro Finance Institutions (MFIs), branches of Bangladesh Post Office and Singer Outlets are
+     now contributing in the network of remittance distribution since July 2009
+ Banks are allowed to establish drawing arrangements with the exchange houses all over the world for
+     collecting remittances according to the circular regarding Policy on establishment of Drawing Arrangement
+     on 29 October 2007. In October 2018, 1226 drawing arrangements are active in 31countries.
+ On 1 June 2008, BB advised all scheduled banks and financial institutions under Corporate Social
+     Responsibility (CSR) program, mobile phone based/local MFI outlet supported programs promptly to
+     deliver remittances from migrant workers to recipients in remote rural households; programs for card based/
+     mobile phone based delivery of financial services to such households;
+ Bangladesh Electronic Funds Transfer Network (BEFTN) was established on 28 February 2011 with other
+     funds transfer activities in order to swift delivery of remittances to beneficiaries through bank-to-bank
+     clearing systems
+ In order to promote accessibility to formal financial services for remittance inflows and distribution
+     network, BB issued guideline on Mobile Financial services for the banks on 20 December 2011. Later
+     Guidelines on Agent Banking for the Banks has been issued on 9 December 2013 to accelerate safe, secured
+     and smooth alternative delivery channel of financial services for the un-banked people. Under this
+     guideline, as in September 2018, 18 banks have been operating with 3902 agents and 5791 outlets for
+     delivery of remittances.
+ In April 2013, BB licensed NRB commercial bank Ltd. as scheduled Bank. Later, NRB Bank Ltd. and NRB
+     Global Bank Ltd. got approval as scheduled banks to facilitate investment by Non Resident Bangladeshis
+     (NRBs).
+ The Wage Earner Development Bond Rules, 1981 and later the US Dollar Premium Bond Rules, 2002 and
+     the US Dollar investment Bond Rules, 2002 were enacted to encourage NRBs to investment these bonds by
+     sending remittances through formal banking channels. The money invested in the purchase of Wage Earner
+     Development Bond (WEDB) below 5 lakh, shall be exempt from tax payable since October 2014. Payment
+     methods in Taka currency received against inward remittance is permissible for purchase of WEDB since
+     March 2018.
+ Bangladesh Bank has introduced ―Bangladesh bank Remittance award‖ in 2013 to motivate and encourage
+     the expatriates for sending more remittances. In 2018, Bangladesh Bank awarded ―Bangladesh bank
+     Remittance Award 2017‖ to 29 individuals, 5 banks and 3 exchange houses of NRBs as highest remitters.
+ From April 2014 non-residents are eligible to the purchase Bangladesh Government Treasury Bonds
+     (BGTBs) with funds from a Non-Resident Foreign Currency Account (NFCA) or a Non-Resident Investor‘s
+     Taka Account (NITA) with a bank in Bangladesh in the name of purchaser
+ From July 2014, all bank branches in Bangladesh have to provide remittances to beneficiaries of their
+     clients within maximum two working days instead of 72 hours.
+ In July 2014, Customer Right Preservation Centre (currently Financial Integrity and Customer Services
+     Department) has been established in the Bangladesh Bank to give feedback by receiving complaints
+     regarding remittances from the Bangladeshi expatriates or their domestic beneficiaries directly.
+ A remittance help desk is established at each branch of the scheduled bank since June 2017 for facilitating
+     the expatriates and their beneficiaries any matter regarding remittances
+ From 23 July 2017, NRBs working abroad can avail housing finance facility at a maximum debt equity
+     ratio of 75:25 instead of existing debt equity ratio of 50:50.
+ In order to document the remittance senders, BB has taken an initiative to collect the information of NRBs
+     and maintain that in a dynamic, interactive and online database. Any NRB can open an account in this
+     database through BB website and upload his/her information. This database will play as a communication
+     platform for BB and NRBs as well.
+ To mitigate the burden of increased expenses in sending foreign remittances and to encourage bringing in
+     foreign remittance through legal channels, an incentive at the rate of 2.0 percent on money remitted by
+     expatriate Bangladeshi will be provided from financial year 2019-20.
+Source: Various circulars, guidelines, regulations and policies by BB
+
+                                                             9
+Like other South-Asian countries, Bangladesh is in a position of surplus manpower with the mix of
+professional, skilled, semi-skilled and un-skilled labor force. In case of un-skilled and less educated
+workforce, the cost of overseas employment is very high compared to their earnings along with the
+less access to finance specially bank finance for them. This situation makes them rely on high interest-
+bearing loan from different NGOs and informal channels like Mohajonee (local money lender) loan,
+mortgage of land, gold, etc.
+
+This paper has assessed the overall scenario of expatriates‘ loans facilitated by Agrani Bank Ltd. and
+PKB for the expatriates, analyzed the pros and cons of existing loan facilities and the socio-economic
+impact of this loan along with the inflow of remittances sent by expatriates and its utilization pattern.
+
+
+
+
+                                                   10
+                     2. Background and Methodology
+
+
+
+E      very year a lot of people go abroad in the pursuit of job. Most of the migrant workers either
+       need to sell properties or borrow money from the NGOs or local money lenders at a very high
+       rate of interest to mobilize the procedure. Sometimes migrants have to sell or mortgage their
+properties like land, gold, cattle, etc. in order to fulfill the dream of going abroad and changing their
+destiny. In some cases, they failed to achieve their dreams and unfortunately, returned home empty
+handed. In one hand, no employment on the other hand, liabilities of debt on their shoulder make their
+life miserable. In these circumstances, government has come forward to take full advantage of the
+remittances in a better way by introducing a cheaper and collateral free loan provision for the
+expatriates.
+
+In this consequence, the Ministry of Expatriates‘ Welfare and Overseas Employment established
+‗Probashi Kallyan Bank (meaning in English Expatriates’ Welfare Bank) which is a non-scheduled
+bank by ‗Probashi Kallyan Bank Act-2010‘. Accordingly, the bank started its operation in 2011. The
+main objective of PKB is to disburse loans for the expatriates. Since inception, PKB has been playing
+a leading role to disburse expatriates‘ loans through its limited branches.
+
+In 2013, ABL has launched a project named ―Agrani Bidesh Jaoar Loan (ABJL) (meaning in English
+Agrani Loan for Overseas Worker). Although all branches under ABL have been instructed to provide
+this service, but only a handful of branches are currently doing so. Currently, 94 branches of this bank
+are providing this service under the ABJL project across the country. ABL possesses a vast branch
+network which should be convenient for providing this loan along with other loan activities. While
+analyzing loans disbursement of PKB and ABL to the migrants, it was observed that PKB‘s loan has
+been growing markedly while ABL‘s ABJL are in a declining trend due to some difficulties.
+
+The findings of two recent surveys on remittances done by the Research Department of Bangladesh
+Bank in 2014 and 2017 indicate that without availing loans from financial sector, overseas job seeking
+lower income people in Bangladesh have been losing their assets and valuables and amassing burden
+with high interest-bearing loans from informal sector. Considering the need for fund and the high
+interest on informal loans for migration, it was recommended in those surveys that loans for
+expatriates need to be proliferated by the banking system. These loans will improve well-beings of
+prospective migrant workers of lower income segment and thus contribute positively in enhancing
+financial inclusion and inflows of remittances in the country. Therefore, introduction of such loans by
+all commercial banks especially state owned commercial banks appears to be very useful policy
+initiative for accelerating inflows of remittances. However, before initiating such policy for banks it
+would be sensible to assess the overall scenario of existing loans for expatriates along with its uses
+and impact by collecting information from the PKB, ABL and beneficiaries of relevant expatriates.
+
+2.1      Objectives of the Study
+
+This study aims to investigate the impact of the loans for the expatriates and assess whether it fulfills
+the objective for which the schemes have been initiated. The primary objectives are-
+
+      a) Assessing the overall picture of loans for expatriates;
+      b) Analyzing the pros and cons of existing loan facilities for expatriates by collecting
+         information from PKB and ABL and beneficiaries of relevant expatriates;
+      c) Analyzing the inflow and utilization pattern of remittances sent by expatriates;
+      d) Analyzing the socio-economic impact on the living standards of the beneficiaries of the
+         expatriates receiving loans from banks.
+
+
+
+
+                                                   11
+2.2     Data Collection
+
+Data has been collected from selected branches of PKB and ABL, and beneficiaries of migrants
+through structured questionnaires (Annexure II and III).
+
+2.3     Survey Area
+
+The team is split into two sub-teams and visited all divisions of Bangladesh. Data have been collected
+from 40 districts and each team has visited selected Branch offices of the PKB and ABL from each
+district. 40 branches from PKB and 40 branches from ABL are brought under survey. A minimum of
+10 clients have been interviewed in two branches from PKB and ABL at each district. The Table 2.1
+below shows the districts under divisions have been surveyed under this study:
+
+                                        Table 2.1 Survey Area
+
+Division   Districts
+Dhaka      Dhaka, Munshigonj, Manikgonj, Shariatpur, Rajbari, Narshingdi, Faridpur, Gazipur,
+           Tangail, Kishoregonj,
+Chattogram Chattogram, Cox‘s Bazar, Brahmanbaria, Chandpur, Cumilla, Lakhsmipur, Feni,
+           Noakhali
+Khulna     Khulna, Jashore, Narail, Magura
+Rajshahi   Rajshahi, ChapaiNawabgonj, Pabna, Bogura
+Barishal   Barishal, Pirojpur, Patuakhali, Bhola
+Sylhet     Sylhet, Sunamgonj, Moulvibazar, Hobigonj
+Rangpur    Rangpur, Dinajpur, Gaibandha, Kurigram
+Mymensingh Mymensingh, Jamalpur
+2.4        Methodology
+
+At first, the research team activities are centered on collection of secondary data, development of
+questionnaires and selection of beneficiaries.
+
+(a) Secondary data collection: Initially, information on the basic feature of the PKB and ABL has
+been collected from the respective bank. The research team has also collected basic data regarding
+expatriates who took the loan from these two banks. The information consists of how the bank selects
+the applicants, disburses loans, scrutinizes documents, other rules and regulations regarding to loans,
+etc.
+
+(b) Questionnaire development: The research team prepared two well-developed questionnaires i.e.
+one is designed for branches of the banks (Annexure III) and another for beneficiaries (Annexure II).
+
+(c) Beneficiary selection: Based on the information of banks' clients, 40 branches from both banks
+i.e. a total of 80 branches are chosen for the study covering 40 districts across the country. Finally, a
+minimum of ten beneficiaries from two branches in each district have been interviewed at random
+through questionnaires (Annexure II). Thus, the size of the sample reached roughly to 529. However,
+we have dropped 128 cases from the total sample for various reasons as depicted in annexure I.
+Therefore, this survey report is based on the complete information on the interviewed 401
+beneficiaries of the expatriates.
+
+At the Second Stage, selected bank branches are requested to supply information on questionnaires
+designed for them to collect recommendations, suggestions and opinion from their assessment
+regarding loans for the expatriates.
+
+At the third stage, after collecting data/information from beneficiaries and bank management, the
+survey team has prepared the survey report. This survey report highlights the recommendations and
+valuation from feedback by checking the consistency of the collected data/information.
+
+
+                                                   12
+2.5    Research Team for Conducting Survey
+
+In order to conduct this study, a research team was formed including seven officials of Research
+Department of Bangladesh Bank. Later, for the convenience of the survey, the team divided into two
+groups in order to work in the field level.
+
+
+
+
+                                               13
+3. Basic Features of Loans for expatriates under ABL and PKB
+
+
+T
+        o facilitate the people in migration for overseas employment, currently two banks– Agrani
+        Bank Limited (ABL) and Probashi Kallyan Bank (PKB)– are playing pioneering roles. While
+        ABL is lending money to the expatriates as a special scheme alongwith disbursing loans to
+other purposes, PKB is totally focused for giving loans only for the expatriates. Therefore, PKB
+basically plays leading role in expatriate loans in the country. The basic features of expatriates‘ loans
+in two banks are discussed below.
+                                                                                                 Chart 3.1 Amount of Loan Disbursement (ABJL)
+                                                                                3.00
+                                                                                                                                        2.45
+
+
+
+
+                                                    Amount (Crore Taka)
+Agrani Bank Limited
+                                                                                2.50
+
+In order to help the people who want to go                                      2.00
+                                                                                                                1.50        1.55
+abroad for employment, ABL, as a scheduled                                      1.50
+                                                                                                    0.78
+bank, for the first time in this country, has                                   1.00
+
+initiated a loan scheme named ABJL in 2013.                                     0.50
+
+The bank also extends their support from the                                    0.00
+
+planning and preparation of passport, training,                                                    2014        2015        2016        2017
+
+visa, health-check and ticketing for the
+                                                                                                 Chart 3.2 Amount of Loan Recovery (ABJL)
+expatriates. The loan amount regarding ABJL                                             1.20
+
+
+
+
+                                                                  Amount (Crore Taka)
+is ranging from Tk. 50,000 to Tk. 3,00,000 with                                         1.00
+a duration 15-18 months and the annual                                                  0.80
+interest rate is 9 percent. The some basic                                              0.60
+                                                                                                                 1.10
+features of ABJL are given bellow.                                                      0.40          0.69
+                                                                                                                              0.53
+                                                                                        0.20
+Loan Disbursement                                                                                                                           0.34
+                                                                                        0.00
+ABL has disbursed Tk.0.78 crore under the                                                           2014        2015       2016        2017
+
+scheme of ABJL in 2014 which increased
+gradually and stood at Tk.2.45 crore in 2017                                                   Chart 3.3 Amount of Outstanding Loan(ABJL)
+                                                                                        2.50
+(Chart 3.1).
+
+
+
+                                                       Amount( Crore Taka)
+                                                                                        2.00
+
+Recovery                                                                                1.50
+                                                                                                                                       2.14
+The amount of loan recovery has shown                                                   1.00
+remarkable improvement in 2015. It increased                                                                    0.47
+                                                                                                                           1.06
+                                                                                        0.50        0.13
+by 59.42% to Tk.1.10 crore compared to the
+previous year. But this growth has declined                                             0.00
+drastically in the next two years. The amount of                                                   2014        2015        2016       2017
+
+recovery stood at Tk. 0.53 crore and Tk. 0.34
+crore in 2016 and 2017 respectively (Chart 3.2).
+Outstanding
+The amount of outstanding loan has increased significantly due mainly to less loan recovery, which
+stood at Tk. 2.14 crore at the end of 2017 compared to Tk. 0.13 crore at the end 2014 (Chart 3.3). The
+trends in disbursement, recovery and outstanding position of ABJLs loan from 2014 to 2017 and their
+growths are shown in Charts 3.4 and 3.5 respectively.
+
+
+
+
+                                                   14
+                           Chart 3.4 Trends in Disbursement, Recovery and                                                         Chart 3.5 Growths of Disbursement, Recovery
+                                    Outstanding of ABJL (amount)                                                300                         and Outstanding of ABJL
+                     250
+                                                                                                                                         260.38
+
+
+
+
+Amount (Lakh Taka)
+                     200
+                                                                                                                200
+                     150                                                                                                                                         123.08
+
+
+                                                                                    Growth (%)
+                                                                                                                                 90.95                                                        102.35
+                     100                                                                                        100
+                     50                                                                                                                                                                           58.22
+                                                                                                                               58.84                        3.28
+                      0                                                                                              0
+                                                                                                                                                                                        -35.53
+                                2014           2015       2016          2017                                                      2015                   2016                       2017
+                                                                                                                                                           -51.77
+                                                                                                       -100
+                           Loan Disbursement           Outstanding Loan                                                       Loan Disbursement                            Outstanding Loan
+                           Amount of Recovery                                                                                 Amount of Recovery
+
+
+Probashi Kallyan Bank
+                                                                                                                                Chart 3.6 Trends of Loan Disbursement, Recovery
+With a view to serving the overall interest/benefits                                                                                    and Outstanding of PKB(amount)
+                                                                                                                   120
+
+in support of the unemployed Bangladeshi youth
+                                                                                                                                                                                          85.46
+                                                                                                                                                                                                                 111.86
+                                                                                                                   100
+who want to move abroad for job, facilitating faster
+
+
+
+                                                                                          Amount (Crore Taka)
+                                                                                                                    80
+and cost effective remittance process through                                                                                                                                                             64.5
+                                                                                                                                                                                  78.94
+modern information technology and encouraging                                                                       60                                                33.33       47.67            74.8
+
+them to invest within the country after their return, a                                                                                                 26.06      24.54
+                                                                                                                    40
+                                                                                                                                                   11.97                  43.46
+a state-owned and specialized bank, PKB, started its                                                                                      9.38
+                                                                                                                    20
+                                                                                                                               7.34     4.96             29.02
+operation with a start-up capital of Tk. 100 crore in                                                                        1.61
+                                                                                                                               6.57
+                                                                                                                                           12.00
+
+2011. In order to give the assistances for the                                                                       0
+
+expatriates, PKB has established help-desk at the                                                                            FY12        FY13        FY14           FY15           FY16              FY17
+
+Hazrat Shahjalal International Airport. Some basic                                                                 Amount of Disbursement          Amount of Recovery                Outstanding Loan
+features on PKB's Overseas Loan are given bellow.
+                                                                                                                                      Chart 3.7 Growths of Loan
+Loan Disbursement                                                                                                            Disbursement, Recovery and Outstanding (PKB)
+                                                                                                                    250
+
+
+PKB has disbursed Tk.7.34 crore to the borrowers                                                                    200
+
+
+
+
+                                                                                             Amount (Crore Taka)
+(899) who went abroad in FY12, which increased                                                                      150
+
+significantly and stood at Tk.78.94 crore against
+                                                                                                                    100
+7763 borrowers in FY16. But the amount of loan
+                                                                                                                     50
+and the number of borrowers have declined during
+the next year (FY17) and stood at Tk.74.80 crore                                                                         0
+
+with 6305 borrowers.                                                                                                          2012-13      2013-14        2014-15            2015-16              2016-17
+                                                                                                                    -50
+                                                                                                                              Growth (%) of Disbursement
+Recovery                                                                                                                      Growth (%) of Recovery
+                                                                                                                              Growth (%) of Outstanding Loan
+The PKB has shown mentionable performance in
+loan recovery. The amount of loan recovery was only 21.93% in FY12 which increased gradually and
+stood at 86.23% in FY17. The trends in disbursement, recovery and outstanding position of PKB's
+overseas loan from FY12 to FY17 and its growth are shown in Charts 3.6 and 3.7 respectively.
+Outstanding
+
+The amount of outstanding loan of PKB was increased over time and stood at Tk.111.86 crore at the
+end of FY17 from Tk. 6.57 crore at the end FY12. However, the growth of outstanding loans
+fluctuated during this period.
+
+
+
+                                                                               15
+4. General Characteristics of Expatriates and their Beneficiaries
+
+
+T
+        his survey report is made by covering the information collected through questionnaire based
+        interview of 401beneficiaries of the expatriates. The beneficiaries are classified into banks,
+        divisions, location of residence and gender which is depicted in Table 4.1.
+
+
+                    Table 4.1: Categorization of Information on Beneficiaries
+   Bank                                 Number of                                   Percent
+                                       beneficiaries
+   Probashi Kallyan Bank                     371                                       92.5
+   Agrani Bank Limited                       30                                         7.5
+   Division
+   Dhaka                                     102                                       25.4
+   Chittagong                                78                                        19.5
+   Khulna                                    33                                         8.2
+   Rajshahi                                  48                                        12.0
+   Barishal                                  36                                         9.0
+   Sylhet                                    50                                        12.5
+   Rangpur                                   38                                         9.5
+   Mymensingh                                16                                         4.0
+   Residence
+   Rural                                     287                                       71.6
+   Urban                                     91                                        22.7
+   Suburb                                    23                                         5.7
+   Gender (Beneficiaries)
+   Male                                      236                                       58.9
+   Female                                    165                                       41.1
+
+4.1 Relationship of Beneficiaries with Expatriates
+
+Majority of expatriates remit money to             Chart 4.1 Relationship of Beneficiaries with Expatriates
+their family members and close relatives.
+About 29 percent of expatriate send money          Husband/wife                                       Brother/sister
+to their parents, 28 percent to spouse, 18            , 27.9%                                            , 18.2%
+
+percent to sibling and 8.5 percent to
+children and 16.7 percent to others (Chart
+4.1).
+                                                                                                          Son/daughter
+                                                                                                             , 8.5%
+                                                      Father/
+                                                      mother,
+                                                       28.7%                          Others, 16.7%
+
+
+
+
+                                                   16
+4.2     Beneficiaries' Bank Account
+About 82 percent of beneficiaries hold bank accounts and about 52 percent of beneficiaries have
+mobile accounts which in most cases is bKash account (a product operated under BRAC Bank
+Limited) (Table 4.2). This trend indicates that the beneficiaries prefer to receive remittances through
+bank accounts as they have taken loans from banks. However, some of the beneficiaries do not have
+bank or mobile account of their own, but their other family members have bank accounts or mobile
+accounts which are used to receive money from expatriates. As most of the beneficiaries are from
+rural areas, this is an indication of increasing financial inclusion particularly in rural areas through
+remittances.
+
+
+                   Table 4.2: Beneficiaries’ Bank Accounts and Mobile Accounts
+ Bank Account                            Number of                        Percent
+                                        beneficiaries
+  Holding of Account                         330                           82.3
+  No account                                  71                           17.7
+ Mobile Account
+  Holding of Account                         208                           51.9
+  No Account                                 193                           48.1
+
+                                                                            Chart 4.2 Age of Expatriates
+4.3     Age of Expatriates                                         51-60         1
+                                                                   41-50                   10.5
+                                                           Years
+Mostly young people are migrating abroad. The                      31-40                                31.9
+survey data reveals that about 57 percent of the                   21-30                                                52.4
+expatriates are young and aged from 18 to 30 years                 <= 20             4.2
+(Chart 4.2). Moreover, about 42 percent of them are
+                                                                             0   5 10 15 20 25 30 35 40 45 50 55 60
+between 31-50 years. Only 1 percent of expatriates‘
+                                                                                                  Percent
+age is above 50 years. The migration of young people
+also has positive impact on unemployment in te
+                                                                                 Chart 4.3 Gender of Expatriates
+country.
+                                                                                     Female
+                                                                                       4%
+4.4     Gender of Expatriates
+Among the migrants, 96 percent are male whereas
+only 4 percent are female (Chart 4.3). It is mentionable
+that though the number of female migration is still
+                                                                                                                      Male
+very limited, it is a new dimension in our expatriate                                                                 96%
+pattern and is expected to go up gradually upon the
+creation of congenial work atmosphere for female                           Chart 4.4: Living Country of Expatriates
+worker abroad.
+                                                                     Other
+                                                                    Countries
+                                                                       9%
+4.5     Expatriates Present Country of Residence                                                                 Saudi Arabia
+                                                                                                                     25%
+                                                                                                                  UAE
+The Majority (73 percent) of expatriates under survey                                                             4%
+                                                                                                                Malaysia
+are working in the Middle-eastern countries. Among             Qatar                                               6%
+                                                               32%                                             Singapore
+them the highest 32 percent live in Qatar followed by                                                              8%
+                                                                                    Kuwait
+25 percent in Saudi Arabia, 7 percent in Oman, 6               Bahrain
+                                                                 6%
+                                                                        Oman         3%
+                                                                         7%
+percent in Bahrain and 4 percent in UAE (Chart 4.4).
+On the other hand, the percentage of expatriate living
+in Singapore and Malaysia are 8 percent and 6 percent respectively. The concentration of expatriates
+
+
+                                                  17
+in Middle-East countries has created a precarious situation since any unexpected crisis in this region
+can affect a large number of Bangladeshi expatriates.
+
+
+4.6       Education and Training of Expatriates
+
+The education level of expatriates is very poor. About 74 percent of the expatriates‘ education level is
+from primary to SSC (Chart 4.5a). About 12 percent of expatriates are educated up to HSC level and
+only 6.2 percent has graduate degree. On the other hand, 32 percent of expatriate get basic training
+before going abroad (Chart 4.5b). With low level of education and training, the earning of expatriates
+is also low.
+
+             Chart 4.5(a): Education of Expatriates                                  Chart 4.5(b): Training before Migration
+                                                                                              (number of expatriates in percent)
+
+       Masters       0.7
+
+      Graduate                  6.2
+                                                                                                                                                   Training
+          HSC                              12.2                                                                                                      32%
+          SSC                                              23.2
+
+           JSC                                                     26.2
+
+       Primary                                                   24.9
+
+  No education                  6.4
+                                                                                                     No
+                 0          5         10    15     20      25           30                        Trainging
+                                                                                                    68%
+                           Number of expatriates ( in percent)
+
+
+
+                                                                                          Chart 4.6 Expatriates' Skills (in percent)
+4.7       Skills of Expatriates
+                                                                                                                            Skilled
+Considering the skills of expatriates, it is found                                                                            2%
+
+that unskilled labor is a noticeable feature of our
+expatriate pattern. Majority (62 percent) of
+expatriates are unskilled while 36 percent are
+semi-skilled and only 2 percent are in skilled
+                                                                                    Unskilled                                            Semi_skilled
+category (Chart 4.6).                                                                 62%                                                   36%
+
+
+
+                                                                                                Chart 4.7: Occupation of Expatriates
+4.8       Occupation of Expatriates
+                                                                                                Others                    15.0
+                                                                                                Mason              5.7
+The occupation pattern shows that the expatriate                                             Salesman              5.7
+workers are involved in various categories of                                          Hosusekeeping            2.5
+                                                                                             Hotel boy            4.2
+jobs. A large portion of them (38.2%) are                                                  Technician           2.7
+employed as labor in construction sectors (Chart                                     Industrial worker          2.0
+                                                                                               Cleaner             5.5
+4.7). The other major profession includes                                         Construction worker                                       38.2
+electrician (6.2 percent), salesman (5.7 percent),                                           Gardener            3.5
+                                                                                                Painter         2.2
+mason (5.7 percent), cleaner (5.5 percent),
+                                                                                            Electrician             6.2
+driving (4.5 percent), hotel boy (4.2 percent) and                                            Tailoring         2.0
+                                                                                                Driving           4.5
+agriculture worker (3.5 percent).
+                                                                                                          0.0     10.0    20.0    30.0   40.0       50.0
+                                                                                                           Number of expatriates (in percent)
+
+
+
+
+                                                                             18
+4.9     Ways of Migration                                                                          Chart 4.8: Ways of Migration
+
+
+                                                             Number of expatriates(in
+                                                                                             50              44.9
+The Agents play a vital role in the migration of                                             40                      28.7
+expatriates. About 45 percent of expatriates migrate                                         30                                  16
+                                                                                             20                                         8.2
+through agents while about 29 percent migrate through                                        10      2.2
+
+
+                                                                      %)
+                                                                                              0
+their relatives (Chart 4.8). Only 2.2 percent of migration
+takes place via government. The Feature of Bangladesh‘s
+government to government (G2G) programmes and
+migration policies of peer countries are shown in Box 4.1
+and Box 4.2.
+4.10     Work Duration of Expatriates
+                                                                                               Chart 4.9: Expatriates' Years of Working
+The majority (79.3%) of the expatriates are working                                                             abroad
+
+
+
+
+                                                             Number of expatriates (in %)
+                                                                                            90     79.3
+abroad for up to 5 years whereas 15.6 percent are living                                    80
+abroad for more than 5 years (Chart 4.9). Longer duration                                   70
+                                                                                            60
+of expatriates staying abroad indicates a sustainable                                       50
+                                                                                            40
+inflow of remittances to the country.                                                       30
+                                                                                            20                 11.2
+                                                                                                                            5         4.4
+                                                                                            10
+                                                                                             0
+
+4.11    Number of Dependents                                                                    <=upto 5 yrs 5-10 yrs > 10-15 yrs >15 yrs
+
+About one-third of the expatriate has three or lesser
+                                                                                               Chart 4.10: Dependants of Expatriates
+number of dependents in home country. However, some
+                                                                                       >5 persons                                25.7
+of the expatriates have more dependants. About 26
+                                                                                        5 persons                         18.2
+percent expatriates have 4 dependants while 44 percent                                  4 persons                                26.2
+have 5 or more dependants (Chart 4.10).                                                 3 persons                      16
+                                                                                        2 persons                  10.7
+                                                                                        ≤1 person            3.2
+
+                                                                                                        0              20               40
+                                                                                                       Number of expatriates (in percent)
+
+
+
+
+                                                 19
+                 5. Cost of Migration and Expatriates‘ Loans
+        ost of Migration is regarded as the main obstacle for expatriates‘ to moving abroad from
+
+C       Bangladesh. Cost of migration varies from country to country for Bangladeshi expatriates. To
+        meet the cost, expatriates have to depend on different sources of finance. In this regard,
+expatriates‘ loans provided by the banks are considered as relief for migrating people.
+
+5.1 Average Cost of Migration                                                                                                       Chart 5.1: Cost of Migration
+
+
+
+
+                                                                                       Number of expatriates (in %)
+                                                                                                                       30                                                     26.4
+                                                                                                                                                                                                              23.4
+The average migration cost for 64.8 percent of the                                                                     25
+                                                                                                                                                           19.7
+expatriates was above Taka 3 lakh and 35.2 percent of                                                                  20                                                                      15
+                                                                                                                       15
+them was upto Taka 3 lakh (Chart 5.1). Moreover,                                                                                   9
+                                                                                                                       10                       6.5
+migration cost for 23.4 percent of the expatriates was                                                                 5
+above Taka 5 lakh and only for 9.0 percent of them                                                                     0
+was below Taka 1 lakh.                                                                                                         <=1 lakh         >1-2       >2-3               >3-4            >4-5        >5 lakh
+                                                                                                                                                lakh       lakh               lakh            lakh
+                                                                                                                                                                        Taka
+5.2 Country-wise          Cost     of    Migration                   and
+Expatriate’s Loans
+
+Country-wise cost of migration shows                  Chart 5.2 Countrywise cost of migration and expatriate loans
+that the highest cost on an average            6              5.21                                               0.6    4.94
+                                               5                                                                 0.5               3.98
+was paid by the expatriates who went                                                                                                                      3.80            3.66
+
+                                               Taka in lakh                                                                                                                                                     loan/cost ratio
+                                               4                                     3.38                        0.4                                                                   2.90
+to Saudi Arabia (above Taka 5 lakh)                                                                                                             2.65
+                                               3                              1.74                               0.3
+followed by Singapore (Taka about 5                              1.43                             1.29                      1.59         1.31      1.15          1.11         1.24         1.09
+                                               2                                                                 0.2
+                                                                          0.79
+lakh), above Taka 3 lakh for Kuwait,           1                                                                 0.1
+Bahrain, Qatar and Malaysia (Chart             0                                                                 0
+
+5.2). On the other hand, the highest
+amount of loans on an average was
+taken by the expatriates who went to
+Singapore (Taka 1.59 lakh) and Saudi                      Cost           expatriate loans           loan/cost ratio
+Arabia (Taka 1.43 lakh). From the
+analysis of cost/loan ratio it is found that cost/loan ratio is the lowest for Saudia Arabia which implies
+that loans is much lower compared with cost for mirgartion.
+
+5.3 Cost of Migration Vs. Ways of Mogration
+                                                                                                                                        Chart 5.3: Cost by Ways of Migration
+While analyzing cost of migration from the point of                                                                    6.0
+                                                                                                                                                          4.5             4.3
+ways of migration, it is found that migration cost is                                                                                           4.0
+                                                                                                                                                                                       3.5           3.7          3.9
+                                                                                                                       4.0
+minimum of Taka 1.9 lakh (chart 5.3). Student paid the
+
+                                                                                                        Taka in lakh
+                                                                                                                                   1.9
+highest cost of migration (Taka 4.5 lakh), followed by                                                                 2.0
+relatives (Taka 4.3 lakh) and agents (Taka 4.0 lakh). In
+                                                                                                                       0.0
+our survey we find that the cost of migration through
+                                                                                                                                                                           relative
+                                                                                                                                                 Agent                                               Others           Total
+                                                                                                                                                           Student
+                                                                                                                                                                                      Purchase of
+
+                                                                                                                                   Government
+government arrangement is lower compared to other
+                                                                                                                                                                                         Visa
+manpower agencies, but the migration through
+government arrangement is meager. Therefore, the
+government may take initiates for more overseas
+
+
+
+
+                                                                     20
+employment through government to government arrangement. In this connection, Bangladesh‘s
+government to government (G2G) programmes and migration policies of peer countries are shown in
+Box 5.1 and Box 5.2 respectively.
+
+          Box 5.1 Government to Government (G2G) Programmes for Migrants of Bangladesh
+
+Each year, around 2 million people are going abroad, according to Ministry of Expatriates' Welfare and
+Overseas Employment (MEWOE) Bangladesh. Most of them are employing in the overseas by the form of
+temporary contractual method. Government to Government (G2G) programme is one of the important tools to
+ensure efficient and regular flow of migrants by government of Bangladesh. In this context, MOU took place
+between the government of Bangladesh and interested country. After the agreement between the governments,
+BMET initiates arrangements of recruiting on specialized request and G2G contract agreement.
+
+From January to June, 2017, Bangladesh labor wing at different countries published their demand for labor in
+different categories. According to their data, Maldives, Greece, Thailand, Russia, Kuwait, United Arab
+Emirates, Iraq, Brunei, Switzerland, Australia, Jordan, Egypt, Italy, Japan, South Korea, Libya, Spain, Oman
+have their own requirement for Bangladeshi labor in sectors like agriculture, sales, services, construction,
+hospitality, housekeeping and so on. As per a report by the Ministry of Expatriates' Welfare & Overseas
+Employment, Kuwait, UAE, Malaysia, Jordan, South Korea, Qatar, Oman, Libya, Iraq, Maldives and Hong
+Kong have been signing Memoranda of Understanding (MOUs) with Bangladesh from time to time. Programs
+like Musaned and MEGA system with KSA, EPS with South Korea, G2G plus with Malaysia and JITCO and
+IM with Japan are examples of G2G agreement of Bangladesh for migrating workers with cheaper cost and
+wiping out the malpractices of Agencies. Bangladesh signed ‗G2G Plus‘ with Malaysia under the MOU with
+Bangladesh and Malaysia (2012) to recruit 1.5 million workers by 2018. An agreement was signed with
+International Manpower Development Organization (IMDO) of Japan on 8 July 2015 to send technical intern
+without any costs of migration. Bangladesh signed an MOU with the Korean government on 4 June 2007 for
+sending manpower from Bangladesh to Korea under Employment Permit System (EPS). On 10 February 2015,
+Bangladesh signed an MOU with KSA to send domestic workers to KSA.
+
+Source: Website and publications of Ministry of Expatriates' Welfare & Overseas Employment, Bureau of Manpower
+Employment and Training.
+
+
+
+
+                                                      21
+                            Box 5.2: Labour Migration Policies in Peer Countries
+
+The Philippines
+The Philippines has a long tradition of overseas migrant workers. The Philippine migration management
+system has evolved over time, starting with a Presidential Decree in 1974. The Philippine Overseas
+Employment Administration (POEA) is a government agency in charge of managing labour migration. Industry
+regulation (issuing licenses to private recruitment agencies), employment facilitation, workers‘ protection are
+being monitored by this agency. Licensing and Regulation Office deals with all aspects of issuing, renewing,
+extending and revoking licenses of private recruitment agencies. The welfare and employment office
+administers government-to-government (G2G) hiring programmes, for example, with Japan, South Korea,
+Germany (Triple Win Project), Taiwan, United Arab Emirates, and the Ministry of Health of Saudi Arabia. The
+Department of Labour and Employment (DOLE) is the centre of the information for migration. Philippine
+Overseas Labor Offices (POLOs) are the overseas operating units of DOLE in the implementation of Philippine
+policies and programmes aiming to protect and promote the welfare and interests of Filipino workers abroad.
+Two types of G2G agreements took place in Philippines, first one, G2G agreements that set out guidelines and
+monitoring processes for private recruitment agencies operating in countries of origin, such as, MOUs between
+the Philippines and Canadian select provinces; and other one is G2G agreements that set out guidelines and
+monitoring processes for private recruitment agencies operating in countries of origin and destination, such as,
+MOUs between Philippines and Lebanon in 2012. The Taiwan Government implemented G2G agreements
+with the Philippines to recruit domestic workers in 1989 for 14 government projects in their country.
+Sri Lanka
+The Ministry of Foreign Employment (MFE) formulated the Sri Lanka National Policy on labour migration in
+2008. This policy recognizes the significant contribution by Sri Lankan citizens engaged in foreign
+employment. It aims at developing a long term vision, enhancing the benefits while protecting the rights of the
+migrant workers. The National Policy on labour migration focuses on three major areas—governance of the
+migration process, protection and empowerment of migrant workers and their family members, and linking
+development and migration process.
+The Sri Lanka Bureau of Foreign Employment (SLBFE) is the regulatory authority for the sector of foreign
+employment in Sri Lanka. It now functions under the purview of MFE. Key Objectives of the SLBFE are
+regulation of recruitment process, looking after welfare and wellbeing of migrant workers & their families; and
+provide better employment opportunities for Sri Lankans through employment promotion. Recruitment for
+foreign employment is regulated by mandatory registration scheme for migrant workers. The prospective
+migrant workers should be registered with SLBFE. The Recruitment agents who recruit Sri Lankans are
+regulated through licensing procedures. The welfare aspect of foreign employment focuses on the provision of
+welfare facilities and services to all Sri Lankan migrant workers and their family members in the entire
+migration process.
+The Safe Labour Migration Programme (2013-2020) in Sri Lanka supported by the Government of Switzerland
+aims at ensuring effective implementation of the Sri Lanka National Labour Migration Policy while promoting
+decent work. The programme contributes to promote safe and regular migration through improved policies and
+legal frameworks.
+Sources: The Philippine Overseas Employment Administration, Sri Lanka Bureau of Foreign Employment and International
+Labour Organization.
+
+
+
+
+                                                       22
+5.4    Relationship between Average                       Cost of                            Chart 5.4: Yearly Trends in Average Cost of
+Migration and Expatriate Loans                                                                   Migration and Expatriate's Loans
+                                                                                         6
+                                                                                                 4.17      4.30
+It is observed that year-wise cost on migration for                                   3.44
+
+
+                                                                          Taka in lakh
+                                                              4  3.04
+Bangladeshi expatriates and their expatriates‘ loans are                    2.80
+
+increasing over time. On an average, the cost of              2
+                                                                                           1.00
+                                                                                                      1.37      1.45
+                                                                      0.75       0.90
+migration and expatriates‘ loans were Taka 3.04 lakh
+                                                              0
+and Taka 0.75 lakh respectively in 2013 which
+                                                                   2013       2014      2015       2016      2017
+increased to Taka 4.43 lakh and Taka 1.47 lakh
+                                                                        Cost       expatriate loans
+respectively in 2017 (Chart 5.4). It shows that the
+amount of expatriates‘ loans much lower than the acual cost in evey year.
+
+5.5       Sources of Finance
+                                                                                               Chart 5.5: Sources of Financing Cost of
+                                                                             Migration (amount in percent)
+As we have followed a bank based sample,                                                                Expatriates
+                                                                                                            bank
+expatriates' loans provided by PKB and ABL have                                                          loan, 32.4
+played a leading role in source of financing migration
+                                                          Sales of                                               Other bank
+cost. It accounts for 32.4% of total cost of migration Property, 10.6                                              loan, 1.5
+
+(Chart 5.5). Expatriates‘ savings is the second source                                                           NGO, 2.2
+
+of finance (28.0%). Borrowing from relatives without                                                                  Money
+                                                                                                                    lender, 3.2
+interest is the third source of finance which covers
+                                                               Savings, 28.0
+22% of total cost. About 11% of total cost came from                                                Others, 22.0
+selling of property. Loans from local money lender,
+NGOs and banks other than PKB and ABL account for 3.2%, 2.2% and 1.5% respectively.
+
+The survey shows that actual cost of migration for a country is very high than the loans provided by
+the PKB and ABL to the expatriates Chart (5.2). These two banks provide loans to the expatriates
+according to the announced official cost set by the government. Box 5.3 shows the reason behind the
+disparity between officially announced migration costs.
+
+
+
+
+                                                              23
+  Box 5.3 Reason behind Disparity Between Officially Announced and Actual Migration Costs
+The government has fixed the limit of migration cost charged by recruiting agents for sending male workers to
+16 countries (Table 5.1). This migration cost includes air fare, fees for passport, health fees and other related
+expenses. However, there is a sharp disparity found between the cost set officially and the actual cost incurred
+by migrants. For example, the maximum migration cost for Singapore was set at Taka 2.62 lakh, whereas survey
+report shows that Singapore-bound workers even pay Taka 8.0 lakh as the cost of migration.
+             Table 5.1 Country-wise Official Migration Cost to be Followed by Recruiting Agents
+              Name of Country                                Cost Ceiling ( in Taka)
+              Saudi Arabia                                          1,65,000
+              Singapore                                             2,62,270
+              Malaysia                                              1,60,000
+              Libya                                                 1,45,780
+              Bahrain                                                97,780
+              UAE                                                   1,07,780
+              Kuwait                                                1,06,780
+              Oman                                                  1,00,780
+              Iraq                                                  1,29, 540
+              Qatar                                                 1,00,780
+              Jordan                                                1,02,780
+              Egypt                                                 1,20, 080
+              Russia                                                1,66,640
+              Maldives                                              1,15,780
+              Brunei Darussalam                                     1,20,780
+              Lebanon                                               1,17,780
+               Source: Ministry of Expatriates Welfare and Overseas Employment
+
+The high migration costs are driven by lack of opportunities at home and excess demand for foreign job,
+increasing restrictiveness of immigration policies, unethical recruitment practices, illegal visa trading and
+influences by brokers and recruitment agencies. It is mentionable that migrant workers become victims of
+cheating twice, first when they are forced to pay much in excess of the officially set rates and again when they
+receive the wages much lower than they are committed.
+
+The ceiling of expatriate‘s loan disbursed by PKB has been tagged with the country wise migration cost set by
+the government. However it is found that the actual migration cost is higher than that of officially rates, the
+amount of expatriate loan is not sufficient to cover the cost of migration and, therefore, expatriates have to
+borrow from other expensive sources.
+
+Efforts to reduce recruitment costs would require better regulation and monitoring of recruitment agencies,
+cooperation with large overseas employers and bilateral coordination with destination countries. The ceiling of
+the expatriate‘s loan also needs to be enhanced to give some relief to outbound workers from exploitation.
+5.6      Bank-wise Expatriates’ Loans                                 Chart 5.6: Expatriate's Loans by PKB and ABL (in
+                                                                                          percent)
+
+According to survey data, the share of PKBs‘ loans           ABL, 15.63
+in total loans was 84.4 percent and that of ABJL
+was 15.6 percent (Chart 5.6). The higher share of
+PKB‘s loans compared to ABJL implies that PKB is
+a specialized bank focused only to disbursing
+expatriates‘ loans while ABL as a commercial bank                                                                 PKB, 84.38
+is providing this loan along with other major loan
+activities.
+
+
+
+
+                                                       24
+5.7 Interest Rate of Expatriates’ Loans by PKB
+                                                                                                                                 Chart 5.7: Rate of Interest on Expatriates'
+and ABL                                                                                                                        Loans by PKB and ABL (Number of expatriates)
+
+Based on survey data it was observed that a large                    11% interest                                                                                                                                                       288
+number (288) of the expatriates had taken
+                                                                                       9% interest                                                                                113
+expatriates‘ loans provided by PKB at the rate of 11
+percent interest excluding additional charges (Chart                                                                                   0          50    100     150      200                                          250               300
+                                                                                                                                                    Number of expatriates
+5.7). On the other hand, 133 expatriates availed this
+loan at 9 percent rate of interest from both PKB (for
+< Taka 1.0 lakh) and ABL.                                                                                                    Chart 5.8: Interest Rate of Money Lender Loans
+
+
+
+
+                                                         Number of expatriates (in percent)
+                                                                                                                      35.0                   32.4
+                                                                                                                      30.0
+5.8     Interest rate on informal loans                                                                               25.0                                                                                             20.6
+                                                                                                                      20.0                                                                            17.6
+                                                                                                                                                                   14.7
+According to our survey data, only 8.5 percent of the                                                                 15.0
+                                                                                                                                  8.8                                              5.9
+                                                                                                                      10.0
+expatriates have taken loans from informal sources                                                                     5.0
+                                                                                                                       0.0
+such as local money lenders at very higher rate of
+                                                                                                                                  Below 30                                          80 to 100         Upto 120        Above 120
+                                                                                                                                             From 30 to 40       From 41 to 80
+interest (Chart 5.8). Though the rate of interest from
+informal sources is very high, the expatriates have to
+take loans from these sources as they have no                                                                                                                 Interest Rate (%)
+alternate source of financing. Among the expatriates
+                                                                                                                                    Chart 5.9: Interest Rate on NGO Loans
+who have taken loans from informal sources, 32.4
+
+
+
+
+                                                                                  Number of expatriates (inpercent)
+                                                                                                                       45
+percent (11 persons) and 23.5 percent (8 persons) of                                                                   40                                                        38.5
+                                                                                                                       35
+them have borrowed at 30-40 percent and 80-120                                                                                                 30.8
+                                                                                                                       30
+percent rate of interest annually respectively.                                                                        25
+                                                                                                                       20
+
+5.9     Interest Rate on NGO Loans                                                                                     15                                                                                        15.4
+                                                                                                                       10        7.7                                                                                              7.7
+                                                                                                                        5
+Survey data shows that a few expatriates (6.5 percent)     0
+have taken loans from different NGOs in a relatively          14    15          18     20  23
+                                                                     Interest Rate (%)
+higher rate of interest (Chart 5.9). The interest rate on
+NGO‘s loans ranges from 14 to 23 percent. However, majority (69 percent, 18 persons) of them has
+taken loans at rate of interest between 15 and 18 percent.
+
+5.10    Grace Period                                                                                                                 Chart 5.10 : Regularrity in loan payment
+                                                                                                                                       (Number of expatriates in percent)
+The grace period for the expatriates‘ loans disbursed by
+                                                                                                                             73.3                                                                                                 26.7
+the ABL and PKB are 3 months and 2 months
+respectively. But the survey found that the expatriates
+have availed grace period for repayment of their
+expatriates‘ loans ranging from 15 days to 6 months.
+Majority (98 percent) of them got 2 to 3 months of grace
+period. Only 0.6 percent had longest grace period of 6                                                                                                       Regular                            Irregular
+months because of their job related problem.
+                                                                                                                                 Chart 5.11: Reasons for Irregular Loans
+5.11    Regularity in Paying Loans                                                                                                 Payment (number of expatriates)
+
+Survey data shows that majority (73%) of the total
+                                                                                                                                                                                                                                  16%
+expatriates have been paying their loan installments on
+regular basis. On the other hand, 27 percent of them                                                                          69%                                                                                                 7%
+repay irregularly because of their other debt burdens                                                                                                                                                            6%
+                                                                                                                                                                                                 2%
+
+
+                                                                                                                             Irregularity & Change of job                                       Other loans Payment
+                                                 25                                                                          Sickness in abroad                                                 Time lag in getting work
+                                                                                                                             Decrease of salary
+(Chart 5.10). They are more eager to pay loans taken from NGOs, money lenders, etc. rather than
+banks due to comparatively higher rate of interest and strong supervision of those institutions/lenders.
+
+The survey found that 69 percent of irregular repayment by expatriates was due to the irregularity and
+change of job followed by loan payment of money lenders, NGO, etc. (16%), expatriates' sickness
+(7%), delay in job (6%) and decrease of their salary (2%) (Chart 5.11).
+                                                                                                                Chart 5.12 : Source of Information on Expatriates
+5.12   Source      of             Information           on                                                                            loans
+                                                                                                          35                          29.70                                    29.70
+Expatriate’s loans
+                                                                Number of expatriates
+                                                                                                          30
+                                                                                                          25
+                                                                                                          20
+Majority (65.6 percent) of the expatriates came                                                           15      8.50                             6.20         5.20                                                             5.00
+                                                                                                                                                                                                                                                       9.00
+                                                                                                          10                                                                                  3.00                  3.70
+to know about information on expatriates‘                                                                  5
+
+                                                                   (In percent)
+                                                                                                           0
+loans from their relatives, friends and
+                                                                                                                                                                                                                       Leaflet                               Media
+                                                                                                                  Area near
+                                                                                                                                       relatives    Friends
+
+                                                                                                                                                                                               Travel Agency
+                                                                                                                                                                                                                                 Other Financial
+                                                                                                                                                                                  neighbors
+neighbors (Chart 5.12). About 13 percent was                                                                                                                    Agents(manpo
+                                                                                                                   branch
+                                                                                                                                                                    wer)                                                          Institutions
+informed through media and leaflet.
+
+5.13   Help/assistance                 in         Getting
+Expatriates’ Loans                                                                                             Chart 5.13 : Help in Getting Expatriate's Loans
+                                                                                                         45
+
+
+
+
+                                                                    Number of expatriates (In percent)
+                                                                                                         40
+                                                                                                         35
+More than fifty percent of the expatriates                                                               30
+                                                                                                         25                                        40.60
+received loans with the help of their relatives                                                          20        34.80
+                                                                                                                                                                                                                9.40
+                                                                                                         15
+and neighbors followed by bank officers (34.8                                                            10
+                                                                                                          5                                                                    13.80                                                         1.40
+                                                                                                          0
+percent), agents (9.4 percent) and friends (1.4
+
+                                                                                                                                                                                                               Agents(manpower                     Friends
+                                                                                                                                                    relatives                   neighbors
+                                                                                                                      Bank officers
+percent) (Chart 5.13).
+
+5.14  Extra         Charges        on         Expatriate's
+Loans                                                                                                                                                                                                                  )
+
+The survey found that banks were claiming
+different charges on expatriates‘ loans in              Chart 5.14 (a) : Different Charges (Taka) on
+                                                          Overseas Loans (at any amount) by ABL
+addition with existing rate of interest that in turn
+creates extra burden for the expatriates. The
+                                                                                                 600
+PKB charges 3 percent service charge where
+ABL charges document fee worth of Taka 1250
+for any amount of loan (chart 5.14a). In addition        1250                                  300
+
+to documentation fee, the ABL charges Taka
+900 for stamp fee and individual CIB report. On      Stamp charge        CIB (Individual)    Charge documents
+the other hand, PKB charges Taka 2600 as
+processing fee and insurance including 15 percent VAT on service charge and processing fee (Chart
+                       Chart 5.14 (b) : Different Charges (Taka) on Overseas Loans (Amount of Taka 1 Lakh) by PKB
+
+
+                           3000                                                                                                                                                                     450
+
+
+
+
+                                                                                                                                                                                              1000
+
+
+
+
+                                                                                                                                                                                               150
+
+
+                                       1000                                                                                                                              100
+         Service charge (3%)                        VAT on service charge (15%)                                                                                    Processing fee (1%)
+         VAT on Processing fee (15%)                Application Form                                                                                               Insurance (Up to 1 Lac)
+
+
+
+                                                               26
+5.14 b). The PKB charges Taka 100 for application form also. Here, Bangladesh Bank may take
+necessary measures for abolishing these extra charges.
+5.15 Identity of Guarantors
+
+Although the expatriates‘ loans are collateral free,                     Chart 5.15 : Identity of Guarantor
+                                                                                                               33.04
+in some cases the banks are demanding a                             35
+Government official as guarantor and signed a                       30   25.69
+                                                                    25           21.45
+
+
+                                                       In percent
+cheque leaf before sanctioning the loans. The study                 20
+found that, expatriates especially un-skilled and                   15                          11.72
+                                                                    10
+uneducated labors are facing difficulties to manage                                                     2.87
+                                                                                                                       4.74
+                                                                     5                   0.50
+such guarantors. While analyzing the identity of                     0
+the guarantors it was observed that, above 95
+percent of them were family members (Chart 5.15)
+and only few of them were neighbors (4.74
+percent).
+
+
+
+
+                                                 27
+           6. Inflow of Remittances and Utilization Patterns
+        emittances sent by expatriates plays crucial role in improving economic situation of a
+
+R       developing country like Bangladesh. Inflow of remittances accelerates the wheel of economy.
+        Expatriates‘ family members or beneficiaries change their living standard by receiving
+remittances. However, magnitude of remittances
+                                                                   Chart 6.1 Number of Months for Getting Job
+depends on levels of education and skills of the                                    abroad
+
+                                                                 Number of expatriates
+                                                         100   83.8
+expatriates.
+                                                                                             50
+6.1 Joining of Work after Migration
+                                                                                                               5.2      5.7
+
+                                                                    (In percent)
+                                                                                                                                  1          2.1          2
+                                                                                              0
+The majority (83.8%) of the expatriates get job
+                                                                                                     <=1   >1-2   >2-3   >3-4   >4-5   >5
+abroad after migration within one month. Few                                                        Month Months Months Months Months Months
+(16.2%) of them get a job within two or more
+months after migration (Chart 6.1).                                                                  Chart 6.2 Number of Months for Sending
+                                                                                                                  Remittances
+                                                                                                     43.9
+
+                                                                 Number of expatriates
+                                                                                             50
+6.2 Sending Remittances after Migration
+                                                                                             40                32.7
+                                                                                             30
+The majority (56.1%) of the expatriates sends                                                20                         10.2
+
+
+                                                                    (In percent)
+remittances within two or more months after                                                  10
+                                                                                                                                  6
+                                                                                                                                             1.5
+                                                                                                                                                        5.7
+
+migration (Chart 6.2). Only 43.9% of expatriates                                              0
+
+send money within one month.                                                                         <=1   >1-2   >2-3   >3-4   >4-5   >5
+                                                                                                    Month Months Months Months Months Months
+
+6.3 Frequency of Receiving Remittances
+                                                                                                    Chart 6.3 Trendency of Receiving Remittances
+                                                                                                  75.90
+ The 86% of the beneficiaries get remittances                                      80
+
+
+                                                          Number of expatriates
+ regularly. Those who get remittances regularly                                    60
+ receive remittances mostly on monthly basis.                                      40
+ Nearly three-fourth of them receives remittances
+                                                             (In percent)
+                                                                                                              18.30
+                                                                                   20
+ on monthly basis (Chart 6.3) However, 14% of                                                                            4.60         0.90         0.30
+                                                                                         0
+ them receive remittances casually.
+                                                                                                  Monthly   Bi_monthly Quarterly Half_yearly       Yearly
+
+6.4 Channels of Remittances
+                                                                                                   Chart 6.4 Channels of Remittance Receipts
+
+
+                                                               Amount of remittances
+                                                                                         100
+Based on survey data, it was observed that 78.14            78.14
+                                                        80
+percent of total remittances was received through
+                                                        60
+banking channels and only 21.86 percent was
+
+                                                                   (In percent)
+                                                        40
+received through informal channel including local                      15.05
+                                                        20                        6.81
+mobile money transfer channels like bKash (15.05         0
+percent) and person (6.81 percent) (Chart 6.4).             Bank      Mobile     Person
+Since PKB was not operating as a commercial
+bank during the survey period, expatriates could not send remittances there. Therefore, some
+expatriates sent remittances through informal channels.
+
+
+
+
+                                                     28
+6.5 Average Size of Remittances
+                                                                                                                                            Chart 6.5 Size of Remittances
+
+
+
+
+                                                          Number of expatriates (in %)
+Survey data shows that majority (74.5 percent) of                                                       30         25.7                                          25.9
+                                                                                                                                               22.9
+                                                                                                        25
+the expatriates sent less than 1 lakh to 3 lakh Taka
+                                                                                                        20
+in last one year. The amount of remittances above                                                       15                                                                                         12
+                                                                                                                                                                                                                       8
+Taka 3 lakh to 4 lakh and above Taka 4 lakh to 5                                                        10                                                                                                                                 5.5
+                                                                                                         5
+lakh sent by the expatriates were 12 percent and 8
+                                                                                                         0
+percent (Chart 6.5). Only 5.5 percent sent                                                                          <=1                        >1-2              >2-3                              >3-4           >4-5                      >5
+remittances above Taka 5 lakh.                                                                                      lakh                       lakh              lakh                              lakh           lakh                     lakh
+                                                                                                                                                                                     Taka
+6.6 Country wise Average Size of Remittances
+                                                                                                                 Chart 6.6 :Countrywise Average Size of
+According to the survey data on country-wise                                                                                  Remittances
+                                                                                                        5                                                                                4.01
+average size of remittances, it was observed that                                                       4                             3.16                      3.20
+                                                                                                        3                                          2.42                                                                                         2.47
+
+
+                                                          Taka in lakh
+                                                                                                                                                                                                                 2.23             2.32
+the largest average size of remittances was                                                                      2.15                                                                                1.95
+                                                                                                        2
+received from Kuwait in last one year followed by                                                       1
+Singapore (Tk. 3.2 lakh), UAE (Tk. 3.2 lakh),                                                           0
+
+                                                                                                                                                                                          Kuwait         Oman                      Qatar
+Qatar (Tk. 2.3 lakh), Bahrain (Tk. 2.2 lakh), Saudi
+                                                                                                                                                    Malaysia                                                      Bahrain
+                                                                                                                                     United Arab                                                                                               Other
+
+                                                                                                                  Saudi Arabia
+Arabia (Tk. 2.15 lakh), Oman (Tk. 2.0 lakh) and                                                                                                                  Singapore                                                                    Countries
+                                                                                                                                      Emirates
+                                                                                                                                                                        Countries
+other countries (Tk. 2.5 lakh) (Chart 6.6).
+                                                                                                                 Chart 6.7: Remittances vs Occupation of Expatriates
+6.7    Remittances       Vs   Occupation      of                     Others                                                                                                                                                       2.9
+Expatriates                                                          Mason                                                                                                                                        2.3
+                                                                  Salesman                                                                                                                           1.7
+While analyzing remittance inflows from the                 Hosusekeeping                                                                                                                              2.0
+                                                                  Hotel boy                                                                                                                        1.5
+point of occupations, it is found from the
+                                                                Technician                                                                                                                                                       2.8
+survey that industrial workers and tailors are            Industrial worker                                                                                                                                                                          3.8
+sending remittances on an average of                                Cleaner                                                                                                                                      2.2
+                                                        Construction worker                                                                                                                                        2.4
+Taka 3.8 lakh each per year. Other occupations                     Gardener                                                                                                                                     2.1
+such as technicians, drivers, painters/                              Painter                                                                                                                                        2.4
+construction workers and masons send                             Electrician                                                                                                                                      2.2
+                                                                   Tailoring                                                                                                                                                                         3.8
+remittances Taka 2.8 lakh, Taka 2.7 lakh Taka                       Driving                                                                                                                                                      2.7
+2.4 lakh and Taka 2.3 lakh respectively per
+                                                                                                                                               0.0                   1.0                      2.0      3.0                                           4.0
+annum (Chart 6.7).                                                                                                                                                                        Taka in lakh
+
+6.8 Remittances against Cost of Migration                                                                        Chart 6.8 : Remittances against Cost of
+                                                                                                                               Migration
+
+
+
+
+                                                           Average size of remittances (Taka in lakh)
+                                                                                                             4
+                                                                        3.51
+The survey data shows a negative relationship                 3.5
+                                                                  2.97
+between the cost of migration and remittances.                  3               2.68
+                                                                                                2.36
+Those who have less expensive migration can                   2.5                       2.12         2.07
+                                                                2
+affordably send more remittances. The expatriates
+                                                              1.5
+who spent Taka 1 to 2 lakh for migration had sent
+                                                                1
+the highest amount of remittances (Chart 6.8). On             0.5
+the other hand, higher cost of migration often                  0
+
+yields lower amount of remittances. The primary
+reason of high cost of migration is the number of                                                                                <=1 lakh           >1-2 lakh                >2-3 lakh              >3-4 lakh        >4-5 lakh
+                                                                                                                                                                                                                                           >5 lakh
+
+intermediaries working between the migrant and                          Cost of migration (in Taka)
+his host company which increases the cost of
+migration. Moreover, the intermediaries often make false promises to the migrants about the quality
+of job and after migration the actual salary turns out to be much lower than the promised one.
+
+                                                   29
+6.9 Year of Migration and Average Remittance                                                                              Chart 6.9 : Year of Migration and Average
+                                                                                                                                      Remittances Trends
+Trends
+
+                                                                        Average of Remittances
+                                                                                                          4                         3.32
+The survey data shows that on an average, the older                                                       3                                       2.47        2.62      2.60
+migrants send more remittances than the newer                                                                                                                                         2.07
+                                                                                                          2
+ones due mainly to experiences and stability of their
+                                                                             (Taka in lakh)
+                                                                                                          1
+job. Those who migrated in 2013 send, on an
+average, Taka 3.32 lakh. On the other hand, those                                                         0
+                                                                                                                                    2013          2014     2015      2016             2017
+who migrated recently (in 2017) send less amount
+                                                                                                                                                     Year of migration
+of remittances, on an average, Taka 2.07 lakh
+(Chart 6.9).                                                                                                                        Chart 6.10 : Remittances vs Education
+                                                                                                                                                    Level
+
+
+
+
+                                                                                                 Remittances (Taka in lakh)
+                                                                                                                              300                        244 239
+6.10 Remittances vs. Education Level                                                                                          250                 215
+                                                                                                                              200
+The amount of remittances appears to be concentrated                                                                          150
+                                                                                                                                                                       128
+with the educational levels from primary to SSC. The                                                                          100        59                                      63
+                                                                                                                               50                                                         23
+migrants who have higher education up to master‘s
+                                                                                                                                0
+degree are less likely to move abroad. As a result,
+remittances sent by them are also less than other groups
+(Chart 6.10). So, there should be a prioritized policy for
+the group whose education level lies within primary to                                                                                            Level of education
+
+SSC in order to enhance their skills.
+                                                                                                                              Chart 6.11 : Remittances vs Skills
+6.11 Remittance vs. Skills                                                                   600                                                                       549            7
+
+
+
+
+                                                                  Aggregate (Taka in lakh)
+                                                                                                                                           6.46
+                                                                                             500                                                                                      6
+
+                                                                                                                                                                                          Average remittances
+Survey data on skill-wise expatriates' contribution                                                                                                     377                           5
+                                                                                             400
+in remittances show that the unskilled expatriates                                                                                                                                    4
+                                                                                             300                                                              2.64
+contribute more to the aggregate remittances but                                                                                                                                      3
+
+
+                                                                                                                                                                                             (Taka in Lakh)
+                                                                                             200                                                                             2.19     2
+less in average remittances (Chart 6.11). On the                                             100                                    45                                                1
+other hand, skilled migrants have contributed more                                               0                                                                                    0
+in average remittances, but their contribution is not                                                                           Skilled           Semi_skilled       unskilled
+significant in aggregate remittances as the number
+                                                                                                                               Aggregate remittances                    Average remittances
+of the skilled expatriates is meagre in the sample.
+6.12 Utilization of Remittances
+                                                                                                 Chart 6.12 Utilisation of Remittances
+Considering the utilization pattern of
+                                                      33.20
+remittance, it was found that 33.20 percent      35
+                                                 30                    23.92
+of remittances is used as daily expenses of      25
+
+                                                In percent
+                                                 20                                          12.27
+the beneficiaries (Chart 6.12). Besides, a       15         8.14
+                                                                  5.15       5.77 6.80 4.74
+                                                 10
+significant amount (23.92 percent) of             5
+                                                  0
+remittances is utilized for repayment of
+their loans. Though savings of remittances
+is only 5.77 percent, but educational
+expenses of the children/offspring of the
+migrants is almost 8.14 percent from their
+remittances. There are other ways of utilization of remittances such as purchase of property, health
+care, constructing building and other expenses which accounts for 28.96 percent.
+
+
+
+
+                                                             30
+7. Socio-economic Impact of Expatriates‘ Loans
+
+
+T
+        he study shows that the expatriates are being benefited with loan facility for them. The loan is
+        provided within short period of time, normally within 3-4 days. They do not have to spend
+        additional money like bribe, gift, etc. for availing the loans. In response to a question
+regarding the possibility of expatriates going abroad if there were no such loans, 38 percent of
+beneficiaries viewed that without such loan, migration abroad was not possible for the expatriates.
+The rest (62 percent) of the beneficiaries said that it could be possible but by losing assets, taking
+loans with high interest rate from money lenders or NGOs. The major socio-economic impacts, as
+evident from the study are as follows.
+                                                                                    Chart 7.1 Improvement of Living
+                                                                                 Standard of Expatriates After migrartion
+7.1 Improvement in Living Standard
+
+Majority (83 percent) of the beneficiaries expressed                                                               68, 17%
+                                                                       333, 83
+views that by availing the loan and after migration,                     %
+living standard of their family has improved (chart
+7.1). Among them the number of beneficiaries (45
+percent) who said that they are now economically                               Improvement         No improvement
+
+
+                                             Chart 7.2 Peterns of Changing Expatriates' Living Standard after Migrartion
+  Short duration for loans         Solving
+    disbursement, 5%          unemployment,29%
+                                                                                                 Economic solvency, 45%
+ Borrowing at lower
+  interest Rate, 4%
+
+    Preventing property,2%
+
+     Increasing social
+        status, 8%
+              Educational                                                                           Everyday's
+             expenses, 15%                                                                        expenses, 29%
+                     Purchasing house/land
+                             , 14%
+
+solvent is the highest. A good number of beneficiaries (29 percent) are solving their unemployment
+problem (Chart 7.2). They have also reported that they are now able to meet the cost of their
+children‘s education and afford to purchase land and build houses for living. Some of the beneficiaries
+have opined that their social status has also improved.
+
+
+7.2 Financial Inclusion
+The survey reveals that 72 percent of the expatriates                         Chart 7.3 Opening New Bank Accounts
+                                                                                          for Expatriates
+under the expatriates‘ loan scheme are from rural areas                   345, 86
+while 7 percent are from sub-urban areas. On the other                      %
+hand, 86 percent had to open new bank account for
+receiving loans (Chart 7.3). Therefore, the expatriates‘
+loan scheme is contributing to financial inclusion                                                                56, 14%
+particularly in rural areas.
+                                                                                 Bank accounts      No bank accounts
+
+
+
+
+                                                             31
+7.3 Woman Empowerment
+The study shows that among the expatriates, 4 percent are female whereas among the beneficiaries, 41
+percent are female. The cost of migration for female is comparatively low and as such, the ceiling of
+expatriates‘ loan is sufficient to cover the full cost of migration for them. In our society where most of
+the families are headed by men, remitting money by the female expatriates as well as receiving money
+by female beneficiaries is a definite sign of strengthening the empowerment and dignity of women in
+the society.
+7.4 Employment
+
+Before migration, most of the expatriates had no job                 Chart 7.4 Taking Family Members to
+at all or engaged in lower income job like working in                               abroad
+agriculture, grocery, tailoring, etc. By taking the           356, 89%
+opportunity of expatriates‘ loans they migrated
+abroad and started to earn higher salaries. While their
+vacant jobs in home country are being filled up by
+family members. Moreover, 11 percent of expatriates
+                                                                                                    45, 11%
+have succeeded to take their other family members (1
+or more) to abroad (Chart 7.4). In this way, more jobs           Member abroad       No member abroad
+were created at home and abroad for our people by
+availing expatriates‘ loans.
+
+
+
+
+                                                   32
+                8. Major Obstacles Found from the Survey
+        xpatriate Loans are given only by two banks named ‗Agrani Bank Limited‘ and a ‗Probashi
+
+E       Kallyan Bank‘ throughout the country. The major obstacles found from the study are
+        summarized below:
+
+    a. From Banks
+
+Centralised disbursement procedures: The amount of loan disbursement by Agrani Bank Limited is
+comparatively lower than Probashi Kallyan Bank, due mainly to lengthy process of loan application.
+The disbursement of loans at head office level and recovery system at the branch level make the
+process more complicated.
+
+Poor monitoring: Due to lack of monitoring and insufficient human resources, it is very difficult to
+recover the loans regularly by the banks.
+
+Tendency to repay the loans from other sources: Expatriates have a tendency to repay the loans
+borrowed from local debtor/money lender and NGOs due to strong supervision and efficient
+management. Therefore, recovery of the loans becomes received from banks sometimes delayed
+
+Problems with the guarantor: Guarantors are required while taking the loans from the bank.
+However, they have an opaque idea about the terms and conditions of the loan agreement. As the
+beneficiary and the guarantor are different persons, in some cases uncertainty arises who actually
+repay the loans. In some cases an intermediate group emerges as guarantors in exchange of money
+which a problem not only for the banks, but also for the expatriates. In some cases bank requires
+government employees as guarantors which cannot be fulfilled by the ordinary expatriates.
+
+    b. From the Expatriates/Beneficiaries
+
+Insufficient loans: Expatriates need a significant amount of money to meet the expenses and costs for
+going abroad for job which they avail from local debtor, money lender and NGOs at a high interest
+rate due to insufficient loan amount receiving from banking channels.
+
+Hidden charges imposed by the banks: Clients are not clearly informed about the charges stipulated
+in the agreement. Insurance, excise duty, processing fee, service charges, etc. are the hidden charges.
+
+Insufficient training of the expatriates: Expatriates before moving abroad take training program for
+3-7 days. But these are short term training programs that are not sufficient for them. Expatriates needs
+work oriented knowledge and training while staying abroad.
+
+Agents’ fraudulence: Expatriates often become victim of fraudulent activities of the middlemen.
+Usually the agents persuade the expatriates to go to banks for loans. After availing the loans, agents
+keep the whole or major portion of the loan as their intermediary fee or charges. This creates
+additional burden for expatriates if they fail to go abroad.
+
+Concentration of expatriates in Middle-eastern countries: Majority of Bangladeshi expatriates are
+employed in Middle-eastern countries without spreading other destination countries. A significant
+portion of our labor force, being unskilled, is unable to find better work anywhere else other than
+Middle-eastern countries. As a result, our labor force is primarily concentrated in this region, which
+poses a great threat both for the labor force and the country. If any unexpected crisis such as change in
+
+
+                                                   33
+government policy or sudden shift in any external factors arises, a negative impact would happen on
+our economy.
+
+    c. From the Women Expatriates
+
+Limited Participation of women: Unlike men women are reluctant to go abroad due to lack of
+education, knowledge, skills, security and other attributes. In some cases, they are disheartened by
+apparent physical harassment of women in abroad and improper implementation of government to
+government (G2G) contracts.
+
+Difficulty in providing loan to women: If women fall in adverse situation abroad, they usually do not
+want to stay there any longer and return home shortly as compared to men. As a result, some branches
+of the respective bank consider it as a disadvantage of providing loans to women.
+
+
+
+
+                                                 34
+                               9. Policy Recommendations
+       he main objective of this survey was to assess the impact of loans for the expatriates disbursed by PKB
+
+T      and ABL through analysis of advantages and disadvantages of existing loan facilities for expatriates and
+       their beneficiaries. The survey team found some obstacles to spread out the loans throughout the country
+       and recommends some policy suggestions which are depicted below.
+
+Enhancing loan ceiling and reducing migration cost: The survey team found that the cost of migration is
+higher than the amount of bank loans given to the expatriates. As such, they have to borrow money from other
+sources at a higher cost. In this respect, the ceiling of the loan is recommended to increase to avoid high cost
+borrowing from other sources. In addition, the government must find out the ways to reduce migration cost. The
+more G-2-G arrangements and reducing the influence of middlemen will help to reduce cost of migration
+significantly.
+Improvement of monitoring & human resources: Monitoring and supervision of the loans are needed to be
+strengthened for the proper recovery of the disbursed loans.
+Increasing the number of banks and expanding the network coverage: Currently, only two banks are
+providing expatriate‘s loan, therefore, it is recommended that more banks should come forward to make the loan
+available for the expatriates. The network coverage of PKB needs to be expanded in rural areas through Agent
+Banking.
+Reducing procedural obstacle: In order to make the loan process more feasible and easier, lengthy procedures
+and formalities should be revised and disbursement of loan may be introduced in branch level. Unlawful
+requirement of guarantor and other criteria also need to be eliminated.
+Increasing participation of women: Before sending women to abroad it is advised to train them foreign
+languages, accommodate with the situation, and avoid abuse and torture by agents and foreign employers.
+All hidden charges need to be abolished: Banks can encourage expatriates to avail loans by removing all the
+hidden charges and earning their trust. This will help to change conventional perception about banking loan, and
+increase loan repayment by the expatriates.
+Sending skilled workers abroad: It is evident that skill workers‘ average remittances are higher than those of
+unskilled ones. Therefore, Bangladesh needs sending more skilled workers to abroad. Establishing technical and
+vocational training centers and foreign language learning centers in all upazilas will be an important step toward
+enhancing skill and employment opportunity of the expatriate workers.
+CSR engagements: CSR activities of banks and FIs can be expanded to train the outgoing workers as well as to
+rehabilitate the severely affected returnees.
+Insurance coverage for outbound workers: There is no insurance coverage in ABJL scheme while existing
+insurance policy of PKB is insufficient which covers 100 percent waive of outstanding loan for death and 50
+percent waive if workers return back to home within six months. As such, the government recent initiatives
+regarding introduction of insurance coverage for all outgoing workers need to be expedited.
+
+
+
+
+                                                       35
+                                                                                      Annexure I
+
+                       Box 2.1 Reasons behind the dropped sample
+
+
+
+   Failure to move abroad: There are 15 cases where recipients of the loans were unable
+    to move abroad as the manpower agents deceived and failed on their promises.
+    Borrowers trusted these agents with their money, but they lost all of their money and
+    properties in the process. Study team found some cases where clients changed their
+    intention of going abroad after learning about the precarious situation of the migrants.
+
+   Difficulty in securing a job: There are 27 cases where the expatriates did not find job
+    abroad. Some expatriate got fake promises from fraud agents and they got bilateral
+    agreement with their local manpower company stating that they would have guaranteed
+    work and placement. However, after their arrival abroad, soon they realized that the
+    reality was quite different. By this time they lost all of their money and could not find
+    any suitable work for them. They found themselves in a miserable condition and in
+    some cases their families had to pay or they had to borrow from others for their survival
+    in abroad.
+
+   Non-receipt of remittances: There are 42 cases where the expatriates got job but did
+    not send any remittances. The primary reason is uncertainty of their job abroad due to
+    problems related to work permit for instance, Iqama of Saudi Arabia. A lot of
+    expatriates face problem renewing their Iqama in Saudi Arabia because of higher fees.
+    Most of them earn limited amount of money that they spent for renewal of work permit
+    and could hardly save enough to remit money at home.
+
+   Return after a short period: There are 44 cases where the expatriates returned home
+    with a short period of time. The primary reason is the difficulty in finding a suitable job
+    and expected salaries. In some cases, expatriates became sick and remained workless.
+    They eventually had to return home. In some cases, the nature of work was not the same
+    as they were told before migration. For women expatriates, without proper training
+    about culture, language and other necessities, expatriates found it difficult for them to
+    cope in abroad and had to return home.
+
+
+
+
+                                              36
+                                                                                                                  Annexure II
+
+
+
+                        A Survey on Loans for Expatriates-Its Uses and Impact
+
+                                      Questionnaire
+                                         (Set-A)
+                  [A Survey on Loans for Expatriates-Its Uses and Impact]
+Section-1: beneficiaries’ Information
+
+1. Name: .................................................. District:............................ Phone:..........................
+2. Address (Region/Village): ..........................................................
+3. Location:  Rural  Urban  Sub-urban; 4. Gender:  Male  female
+5. Relation with Expatriate:..................................................... ...........
+6. Is there any Bank Account?  Yes  No;
+   If yes, How many ......... and in which Bank....................
+7. Is there any Mobile Account?  Yes  No;
+   If yes, Operator‘s Name....................................
+Section-2: Expatriates’ General Information
+8. Name: ................................................................................... 9. Gender:  Male  female
+10. Age: .......................11. Marital Status:  Married  Unmarried
+12. Education: ......................................
+13. Host Country....................; Migration Period (year): ................;
+     Period of stay in abroad (year): .......................
+14. Medium of migration:  Government  Agent  Student  Tourist  Relative
+      Others...............
+15. Profession of expatriate: ……………
+16. Efficiency:  Professional  Skilled  Semi-skilled  Unskilled  Self-employed
+17. Any training undertaken by the expatriate before migration: Yes  No;
+     if yes, please mention the type: .....................
+18. Number of dependents: .............. 19. If the expatriate took anyone in abroad;  yes  no
+Section-3: Information on Migration cost of expatriates and their remittances
+19. How much does it cost to go abroad for the expatriates? ......................................Taka
+20. Source of cost:  personal..................... Taka;  Savings.................... Taka;  Selling
+     Properties............... Taka)  Bank (Expatriate‘s) Loan ...........Taka,
+      Interest rate ........%  Other Loan…......Taka, Source: .... ....... ; Interest rate…......%
+21. Did he/she use expatriate‘s loans for any other purposes? Yes  No;
+     If yes, mention the reason....................................
+22. Did expatriate take loan from other banks/sources?  Yes  No
+     If yes, amount of other loan ....................Taka, Source: .................. Interest rate................
+23. Is there any grace period in paying off loan?  yes  no;
+      If yes, how many months?....................................
+24. How many months did the expatriate take to get job in staying overseas?.................;
+     How many months did the expatriate take to send the money after migration? ...................
+25. How did the expatriate come to know about the loan for expatriates?
+      ...............................................................................................................................
+26. Did anyone help the expatriate to get the loan?  Yes  No.
+      If yes, How…………..?
+27. Is there needed any extra cost for getting loan?  Yes  No;
+
+                                                                37
+    If yes, how much? ........................Taka
+28. Did any collateral require for getting loan?  Yes  No;
+    If yes, what type of this? .........................................
+29. Information on guarantor of the expatriate:
+     1. Name:.......................Relation: .............................
+     2. Name:.......................Relation: .............................
+30. Is the expatriate repaying his loan regularly?  Yes  No;
+    If no, since when it is not being paid?..................month(s);
+    Why? ..........................................................
+31. Information on expatriate‘s loan repayment till now:
+    Loan disbursement date:...........Disbursement:................Taka; Repayment.............. Taka;
+    Outstanding (Principal ............. Taka; Interest ......... Taka)
+32. Does the expatriate send money regularly?  Yes  No;
+     If yes, frequency  monthly  bi-monthly  quarterly half-yearly  yearly
+      others....................
+33. Last year, (2016) how much money did the expatriate send? .................................Taka
+     Bank........................ Taka  Mobile............................ Taka
+     Person................................... Taka
+34. How did the beneficiary spend the remittance money? (According to 33):
+     Daily consumption .......................Taka  Education....................Taka
+     Health....................Taka  Repayment .................... Taka
+     Savings ....................... Taka  Buying property........................... Taka
+     Building house ............................... Taka  Others ........................ Taka
+Section-4: Opinion of Beneficiaries
+35. Did the expatriate face any problems to get loans?  Yes  No;
+    If yes, how? --------------------------------------------------------------------------------------------
+36. Did you open any new account for getting bank loans?  Yes  No
+37. Is the loan sufficient for migration?  Yes  No
+38. If there was no bank loans, could the expatriate go to abroad?  Yes  No
+     If yes, how? --------------------------------------------------------------------------------------------
+39. Is there any improvement in living standard by going abroad with availing the loans for
+    the expatriates?
+      Yes  No; if yes, how?
+       ----------------------------------------------------------------------------------------------------------
+40. Do you think loans for expatriates should be launched by other banks too?  Yes  No
+41. Your any other observation/comments (If any)
+     -----------------------------------------------------------------------------------------------------------
+
+
+
+      Name of the Interviewer and signature
+
+
+
+
+                                                       38
+                                                                               Annexure III
+
+                 A Survey on Loans for Expatriates-Its Uses and Impact
+
+                                       Questionnaire
+                                           (Set-B)
+                               [Questions for the Bank Branch]
+Name of the Bank:
+Branch:                                                    District:
+Manager’s Name:
+Phone Number:                                      Fax Number:
+
+1. Information on the employee/human resource under the loan section for expatriates:
+        A) Total number of employee in the branch:
+        B) Number of employee in the expatriates‘ loan section:
+2. Information on loan for the expatriates:
+                                                         (Taka in lakh)
+      Description                Male                    Female
+                      2014 2015 2016           2014     2015     2016
+      Disbursement
+      Recovery
+      Overdue
+      Classified
+      Outstanding
+
+
+3. Information about loan clients for Expatriates‘ Loan:
+    a) Selection method to select clients for expatriates‘ loan:
+     Interested client visit the banks        Searching for the clients in grass root level
+    b) What is the time interval between applying and granting for loan in the branch, in
+      general? Month — Day —
+    c) What is the time interval between loan grant and disbursement in the branch, in
+      general? Month — Day —
+    d) Information regarding number of loan applicants and sanctioned loan:
+
+         Description                            Male                      Female
+                                          2014 2015 2016 2014             2015   2016
+         Number of loan applicants
+         Number of sanctioned loan
+
+    e) What are the reasons behind the rejection of loan application/ flaws of rejected loan
+      applications?
+         1.                                      4.
+         2.                                      5.
+         3.                                      6.
+
+
+
+                                              39
+4. Information regarding implementation of the loan for the expatriates:
+ a) Do you have any methods to proper use of loan for the expatriates?
+       Yes             No
+      If yes, Please explain. If no, what do you recommend/ suggest?
+
+
+
+
+  b) What are the problems/obstacles regarding loan sanctioning to the expatriates?
+
+                             Description of problems/obstacles
+                     1.
+                     2.
+                     3.
+                     4.
+
+5. Do you promote any publicity program for ‗loan for the expatriates‘ from your branch?
+     Yes              No
+    If yes, please select the procedure(s) from the promotional media given below:
+      Poster/banner                                Participating in the fair
+      Leaflet distribution                         Newspaper advertising
+      Sponsoring social/sports                     Product campaigning for the loan
+      Training to the expatriates                  Personal communication
+      Others (please mention)
+
+6. Please justify your overall assessment about the loan for the expatriates (advantages,
+   disadvantages, economic implication, etc.)
+
+
+
+
+                                                         Signature and stamp of manager
+    Signature and stamp of
+                                                         Date:
+    information coordinator/ bank
+    official
+    Date:
+
+
+
+
+                                              40
+

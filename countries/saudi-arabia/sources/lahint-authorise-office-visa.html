@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="_token" content="OxOS3PskErlDh2rla1BKmFujDao5axU9uOBv8tZE">
+<title>تفويض مكتب خارجي على تأشيرة مهنية | لاهنت</title>
+    <meta content="خدمة تفويض مكتب خارجي على تأشيرة مهنية تتيح لك إصدار تفويض إلكتروني رسمي لمكتب خارجي معتمد لمتابعة استقدام العامل عبر منصة إنجاز بكل سهولة وأمان." name="description">
+
+<!-- Styles -->
+ <!-- Font-awesome css -->
+<!-- <link rel="stylesheet" href="/assets/themes/lahint/css/all.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 
+<!-- Swiper CSS -->
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+ <link rel="stylesheet" href="/assets/25/css/niceselect.css" />
+<link rel="stylesheet" href="https://lahint.sa/assets/25/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://lahint.sa/assets/25/css/theme.css">
+<link rel="stylesheet" href="https://lahint.sa/assets/25/css/style.css">
+
+<link rel="stylesheet" href="https://lahint.sa/assets/25/css/responsive.css"> 
+<link rel="stylesheet" href="https://lahint.sa/assets/25/css/dashboard.css" />
+  <link rel="stylesheet" href="https://lahint.sa/assets/25/css/dashboard_responsive.css" />
+<link rel="stylesheet" href="https://lahint.sa/assets/25/css/ltr.css">
+
+
+    <!-- Favicons -->
+    <link href="/uploads/favicon/1748367037CZRUlY.png" rel="icon">
+    <link href="/uploads/favicon/1748367037CZRUlY.png" rel="apple-touch-icon">
+    <link rel="icon" type="image/x-icon" href="/uploads/favicon/1748367037CZRUlY.png">
+
+    <style>
+        .pagination {
+    flex-wrap: wrap;
+}
+.whatsapp-fixed {
+    position: fixed;
+    right: 40px;
+    bottom: 15px;
+    font-size: 26px;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 4px 1px #000000db;
+    padding: 7px 8px 6px;
+    vertical-align: top;
+    display: flex;
+}
+.whatsapp-fixed:hover {
+    background: #25D366;
+    color: #fff;
+}
+@media(max-width:800px) {
+    .whatsapp-fixed {
+        right: 5px;
+        bottom: 78px;
+        font-size: 30px;
+    }
+}
+
+
+/* Inline #12 | https://lahint.sa/ar */ 
+#popup {
+  background: #0d0d0dba;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 9999;
+  opacity:1;
+  display:block;
+}
+
+.popup-dialog {
+  background: #fff;
+  width: calc(50% - 100px);
+  display: block;
+  margin: 0 auto;
+  margin-top: calc(34vh - 50px);
+  padding: 50px;
+  border-radius: 11px;
+  box-shadow: 1px 1px 15px #201f1f;
+}
+
+.popup-content *, .popup-content {
+  font-family: 'Cairo',sans-serif;
+  font-size: 120%;
+}
+
+.popup-content {
+  margin-bottom: 25px;
+}
+
+.popup-dialog .btn {
+  font-size: 120%;  
+}
+#popup-close {
+  transform: translateY(-39px);
+  font-size: 2.5em;
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+}
+.popup-dialog .btn:hover {
+  background: #044640;
+}
+
+.hidden {
+    display:none !important;
+    opacity:0 !important;
+}
+@media(max-width:992px) {
+    .popup-dialog {
+      width: 87%;
+      margin-top: 115px;
+    }
+}
+/*body.body-qiwa {
+    background: #fff;
+}
+.body-qiwa .stepForm-step .tab-done .stp-no,
+.body-qiwa .hd-left .reg-log-buttons a,
+.body-qiwa .notify-btn.notify-active::after,
+.body-qiwa .btn-success,
+.body-qiwa .btn-warning,
+.body-qiwa .btn-primary {
+    background:#022c5c;
+}
+.body-qiwa .stepForm-step .tab-done {
+    color:#022c5c;
+}*/
+.video-wrapper {
+  position: relative;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer; 
+  box-shadow: inset 0 0 0 2000px rgb(2 67 59 / 68%);
+}
+
+.video-play-btn {
+    width: 100px;
+    height: 100px;
+    font-size: 35px;
+    color: #085046;
+    background: #ffffffa6;
+  transition: transform 0.3s ease;
+}
+
+.video-play-btn:hover {
+  transform: scale(1.1);
+  background: #fff;
+}
+
+.video-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.active>.page-link, .page-link.active {
+        background-color: #1d9a89;
+            border-color: #1d9a89;
+}
+.page-link {
+        color: #1d9a89;
+}
+body.swal2-toast-shown .swal2-container.swal2-top-end, body.swal2-toast-shown .swal2-container.swal2-top-right {
+    z-index:10000;
+}
+.swal2-popup.swal2-toast .swal2-styled {
+    background:#777777;
+} 
+.swal2-icon.swal2-warning {
+    border-color: #1d9a8985;
+    color: #1d9a89db;
+}
+
+/* LAHINT_SMART_ASSISTANT_IMAGES_START - hosted CMS assets, records 10-14 */
+.service_grid > img[src="https://i.ibb.co/Ndz0nFCp/comp.jpg"] {
+  content: url("/uploads/image/1790284436NbjK58.jpg") !important;
+}
+.service_grid > img[src="https://i.ibb.co/2YsG3kSZ/misa.jpg"] {
+  content: url("/uploads/image/1790284476iqfJZf.jpg") !important;
+}
+.service_grid > img[src="https://i.ibb.co/JR3KKJtk/pdpl.jpg"] {
+  content: url("/uploads/image/17902844973cp6Wf.jpg") !important;
+}
+.service_grid > img[src="https://i.ibb.co/sfLcMh1/aichat.jpg"] {
+  content: url("/uploads/image/1790284538P2kw3T.jpg") !important;
+}
+.service_grid > img[src="https://i.ibb.co/3X02Chf/rad.jpg"] {
+  content: url("/uploads/image/1790284604Ot5lIZ.jpg") !important;
+}
+/* LAHINT_SMART_ASSISTANT_IMAGES_END */
+
+/* LAHINT_ABOUT_VIDEO_COVERS_START */
+.video-wrapper[data-video-id="mdffS8mZLyo"],
+.video-wrapper[data-video-id="odXXVyJY6j4"] {
+  box-shadow: inset 0 0 0 2000px rgb(2 67 59 / 12%);
+}
+/* LAHINT_ABOUT_VIDEO_COVERS_END */
+    </style>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TK37P3GD');</script>
+<!-- End Google Tag Manager -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+        if (localStorage.getItem('dark_mode') === 'true') {
+            document.querySelector(".btn_dark_light_mode ").classList.add("dark_mode");
+            document.body.classList.add('dark_theme');
+        } else {
+            document.body.classList.remove('dark_theme');
+            document.querySelector(".btn_dark_light_mode").classList.remove("dark_mode");
+        }
+        });
+    </script>
+            <style>
+.pmethod_icon {
+    width:100px;
+}
+.pmethod_icon img {
+    width:100%;
+    max-height: 31px;
+}
+@media (max-width: 576px) {
+    .service_concept_row .title_icon {
+        width: 100%;
+    }
+}
+</style>    </head>
+<body class="body-default"><a href="https://lahint.sa/cdn-cgi/content?id=LPsizlNTbeFfeZFuWdJ9jCMgsrn9XbdPnSSVA3R05gU-1794105218.0323758-1.2.1.1-GJ61V_LlHmrvXqLOWwWFxfWRUA6YPtUlowR.fvtenbKTFysO1SnEw.SSC0BCYyUp" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"></a>
+    <script src="https://lahint.sa/vendor/sweetalert/sweetalert.all.js"></script>
+<script>
+    const Toastr = Swal.mixin({"theme":"default","timer":10000,"width":"32rem","padding":".75rem","background":"#fff","button_text":{"confirm":"OK","cancel":"Cancel"},"customClass":{"container":null,"popup":null,"header":null,"title":null,"closeButton":null,"icon":null,"image":null,"content":null,"input":null,"actions":null,"confirmButton":null,"cancelButton":null,"footer":null},"confirm_delete_confirm_button_text":"Yes, delete it!","confirm_delete_confirm_button_color":null,"confirm_delete_cancel_button_color":"#d33","confirm_delete_cancel_button_text":"Cancel","confirm_delete_show_cancel_button":true,"confirm_delete_show_close_button":false,"confirm_delete_icon":"warning","confirm_delete_show_loader_on_confirm":true});
+</script>
+    <nav class="navbar nav_dashboard navbar-expand-xl bg_deep_blue py-4" id="navbar">
+        <div class="container-lg px-lg-4 px-md-5 px-1">
+            <!-- Logo -->
+            <a class="navbar-brand site_logo" href="/">
+                <img src="/uploads/logo/1748367037t2Z8We.png" alt="Lahint">
+                            </a> 
+            <div class="offcanvas offcanvas-start flex-xl-row flex-column align-items-center me-lg-3" id="offcanvas">
+                <div class="p-4 mb-4 d-flex justify-content-between w-100 d-xl-none d-block">
+                    <img src="https://lahint.sa/assets/25/img/logo.svg" alt="Logo">
+                    <button class="bg-transparent border-0 shadow-none" type="button" data-bs-dismiss="offcanvas"
+                        aria-label="Close">
+                        <img width="15" src="https://lahint.sa/assets/25/img/close-icon.svg" alt="Close">
+                    </button>
+                </div>
+                <ul class="navbar-nav nav_ul ms-xl-auto">
+                    <li class="nav-item">
+                        <a class="nav-link " href="/">الصفحة الرئيسية</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="/ar/services">الخدمات</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link " href="/ar/packages">الباقات</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="/ar/new-ai-assistant">المساعد الذكي</a>
+                    </li> 
+                    
+                    <li class="nav-item">
+                        <a class="nav-link " href="/ar/about-us">من نحن</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="/contact">تواصل معنا</a>
+                    </li>
+                </ul>
+                
+            </div>
+            
+            <div class="d-flex flex-row-reverse">
+                
+                <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvas">
+                    <img width="20" src="https://lahint.sa/assets/25/img/menu.svg" alt="Menu">
+                </button> 
+                  
+                <div class="dashboard_profile d-flex align-items-center gap-3">
+                        <button class="btn_dark_light_mode d-md-flex d-none" onclick="changeMode(this)">
+                            <img src="https://lahint.sa/assets/25/img/dark_mode.svg" alt="Dark Mode" class="img_dark_mode">
+                            <img src="https://lahint.sa/assets/25/img/lihgt_mode.svg" alt="Light Mode" class="img_light_mode">
+                        </button>
+                        <div class="dropdown">
+                            <button class="btn_circle" data-bs-toggle="dropdown" type="button" aria-expanded="false">
+                            <img src="/assets/25/img/search-icon-dark.svg" alt="" />
+                            </button>
+                            <div class="dropdown-menu dropdown_search dropdown-menu-end border-0">
+                            <form action="/ar/services" class="nav_search">
+                                <button onclick="close_search(this)" type="button" class="d-none">
+                                <img width="10" src="/assets/25/img/close-icon.svg" alt="" />
+                                </button>
+                                <input type="text" name="s" placeholder="ابحث عن خدمة معينة.." />
+                                <img src="/assets/25/img/search-icon.svg" alt="" />
+                            </form>
+                            <div id="search_results"></div>
+                            </div>
+                        </div>
+                        
+                                                    <a class="btn_circle nav-link txt_secondary" title="EN" href="/locale/en"> <i class="fa fa-language fa-md mx-1"></i></a>
+                         
+                    
+                                                <a href="/register" class="btn_primary d-none d-md-block">إنشاء حساب</a>
+                        <a href="/login" class="btn_secondary d-none d-md-block">تسجيل دخول</a>  
+                        <div class="dropdown d-block d-md-none">
+                                <button class="user_profile" data-bs-toggle="dropdown" type="button" aria-expanded="false">
+                                    <div class="d-flex gap-2 align-items-center">
+                                        <style>
+                                            .user_profile .user_avatar:after {
+                                                background-color: #999;
+                                            }
+                                        </style>
+                                        <div class="user_avatar">
+                                            <img src="/assets/25/img/profile-icon-1.svg" alt="" />
+                                        </div>
+                                        <div class="ps-1 d-xl-block d-none">
+                                            <p class="mb-1 fw-bold txt_secondary lh-1 fs_14">حسابي</p>
+                                            <p class="mb-0 lh-1 f_open_sans fs_14" dir="ltr"></p>
+                                        </div>
+                                    </div>
+                                    <img class="me-xxl-4 d-xl-block d-none" height="18" src="/assets/25/img/3-dots-icon.svg" alt="" />
+                                </button>
+                                <div class="dropdown-menu dropdown-menu-start profile_dropdown border-0">
+                                    <div class="bg-white py-4 px-3">
+                                         <a href="/register" class="btn_primary txt_secondary btn_secondary d-block w-100">إنشاء حساب</a>
+                                        <a href="/login" class="btn_secondary btn_secondary my-1 d-block w-100">تسجيل دخول</a> 
+                                    </div>
+                                </div>
+                            </div>  
+                                        </div>
+            </div>
+        </div>
+    </nav>
+ 
+    
+                    
+<section class="service_concept service_concept2 lg_top_shape">
+      <div class="container-lg position-relative px-lg-4 px-md-5 px-4 py-5">
+        <div class="service_concept_row">
+          <div class="content">
+            <div class="col-lg-11">
+              <nav aria-label="breadcrumb" class="mb-4">
+                <ol class="breadcrumb fs_14">
+                  <li class="breadcrumb-item">
+                    <a href="/ar">الصفحة الرئيسية<i class="fa-solid fa-house float-end ms-2"></i></a>
+                  </li>
+                                    <li class="breadcrumb-item"><a href="/ar/services">الخدمات</a></li>
+                                    
+                  <li class="breadcrumb-item active" aria-current="page">تفويض مكتب خارجي على تأشيرة مهنية</li>
+                </ol>
+              </nav>
+              <div
+                class="d-flex flex-column align-items-sm-center align-items-start gap-3 mb-4"
+              >
+                <img class="title_icon" src="/uploads/image/1790279223EsEMTc.png" alt="تفويض مكتب خارجي على تأشيرة مهنية">
+                <h2 class="mb-0 txt_secondary">تفويض مكتب خارجي على تأشيرة مهنية</h2>
+              </div>
+              <div class="pe-lg-5 me-lg-3">
+                <p class="mb-4">
+                    خدمة تفويض مكتب خارجي على تأشيرة مهنية تتيح لك إصدار تفويض إلكتروني رسمي لمكتب خارجي معتمد لمتابعة استقدام العامل عبر منصة إنجاز بكل سهولة وأمان.                </p>
+                <div class="d-flex flex-wrap gap-2 mb-4">
+                  <div class="badge_silver fw_500">
+                    <span>
+                      
+                    </span>
+                    <p class="mb-0 fw_500">خدمات الأعمال</p>
+                  </div>
+                  <div class="badge_yellow fw_500">
+                    <p class="mb-0 fw_500">خدمات وزارة الخارجية</p>
+                  </div>
+                </div>
+                <div class="d-flex">
+                  <i class="fa-solid fa-circle-user txt_primary fs-5"></i>
+                  <div class="pe-3">
+                    <p class="mb-0">الجمهور المستهدف</p>
+                    <p class="fw-bold txt_secondary">
+                     الموظفين الاجانب                    </p>
+                  </div>
+                </div>
+                <a href="/checkout/29" class="btn_primary btn_arrow arrow_left start d-block w-100 mb-4"
+                  >اطلب الخدمة الآن</a>
+              </div>
+            </div>
+
+            <div class="sidebar">
+              <div class="wrap">
+                <div class="p-4">
+                  <p class="fw-bold txt_secondary">الشروط والمستندات</p>
+                  <ul class="list-unstyled mb-4">
+                    					    <li><i class="fa-solid fa-check text-success"></i> هل التأشيرة سارية ؟</li>
+					    
+					    					    <li><i class="fa-solid fa-check text-success"></i> هل التأشيرة لعامل منزلي ؟</li>
+					    
+					    					    <li><i class="fa-solid fa-check text-success"></i> اكتب رقم التاشيرة؟</li>
+					    
+					    					    <li><i class="fa-solid fa-check text-success"></i> اكتب الرقم الموحد للمنشأة؟</li>
+					    
+					    					    <li><i class="fa-solid fa-check text-success"></i> ماهو اسم المكتب المراد تفويضه ؟</li>
+					    
+					    					    <li><i class="fa-solid fa-check text-success"></i> ما هي مدينة القدوم للعامل ؟</li>
+					    
+					    					    <li><i class="fa-solid fa-check text-success"></i> كم عدد التاشيرات المطلوب تفويضها ؟</li>
+					    
+					                      </ul>
+                  <hr />
+                  <p class="fw-bold txt_secondary">قنوات الدفع</p>
+                  <div class="mb-3">
+                    <div class="channel rounded-3 p-2 d-inline-flex pmethod_icon">
+                      <img class="m-1 d-inline-block" src="/assets/25/img/Mada.svg" alt="Mada" />
+                    </div>
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="m-1 d-inline-block" src="/assets/25/img/STCpay.svg" alt="STC" />
+                    </div>
+                    
+                    
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="d-inline-block" src="/assets/themes/lahint/img/images/applepay.png" alt="Apple Pay" />
+                    </div>
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="d-inline-block" src="/assets/themes/lahint/img/images/sadad.png" alt="Sadad" />
+                    </div>
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="d-inline-block" src="/assets/themes/lahint/img/images/tabby.png" alt="Tabby" />
+                    </div>
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="d-inline-block" src="/assets/themes/lahint/img/images/mastercard.svg" alt="Master Card" />
+                    </div>
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="d-inline-block" src="/assets/themes/lahint/img/images/visa.svg" alt="Visa Card" />
+                    </div>
+                    <div class="channel rounded-3 p-1 d-inline-flex pmethod_icon me-2 my-2">
+                      <img class="d-inline-block" src="/assets/themes/lahint/img/images/tamara.svg" style="max-height: 38px;" alt="Tamara" />
+                    </div>
+                  </div>
+                  <div class="border rounded-4 p-3 d-flex align-items-start gap-3 mb-3">
+                    <script src="https://checkout.tabby.ai/tabby-promo.js"></script>
+                    <script>
+                      new TabbyPromo({
+                       selector: '#TabbyPromo',
+                       currency: 'SAR', 
+                       price: 313.77,
+                       installmentsCount: 4, 
+                       lang: 'ar',
+                       source: 'product', // Optional, snippet placement; `product` for product page and `cart` for cart page.\\\
+                       publicKey: 'pk_1bc0d666-6a37-40a8-90dd-c2ba0131eda8', 
+                       merchantCode: 'Lahint'
+                     });
+                    </script>
+                    <div class="mb-0" href="/checkout/29" id="TabbyPromo"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-5 mt-5 pt-5">
+      <div class="container-lg px-lg-4 px-md-5 px-4">
+        <div class="row g-4 concept_grid_2">
+          <div class="col-lg-3 col-sm-6">
+            <div class="border rounded-4 text-center box p-4">
+              <div class="icon mb-4">
+                <i class="fa-solid fa-clock"></i>
+              </div>
+              <p class="mb-1 txt_secondary">مدة تقديم الخدمة</p>
+              <p class="fw-bold txt_secondary mb-0">30 دقيقة</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="border rounded-4 text-center box p-4">
+              <div class="icon mb-4">
+                <i class="fa-solid fa-clock"></i>
+              </div>
+              <p class="mb-1 txt_secondary">سعر الخدمة</p>
+              <p class="fw-bold txt_secondary mb-0">200ر.س</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="border rounded-4 text-center box p-4">
+              <div class="icon mb-4">
+                <i class="fa-solid fa-clock"></i>
+              </div>
+              <p class="mb-1 txt_secondary">الرسوم الحكومية</p>
+                                 <span class="text-success fw-bold">يبدأ من</span>
+                            <p class="fw-bold txt_secondary mb-0">75ر.س<br>
+                            </p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="border rounded-4 text-center box p-4">
+              <div class="icon mb-4">
+                <i class="fa-solid fa-clock"></i>
+              </div>
+              <p class="mb-1 txt_secondary">الإجمالي بالضريبة</p>
+                                 <span class="text-success fw-bold">يبدأ من</span>
+                            <p class="fw-bold txt_secondary mb-0">313.77ر.س</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="pb-5 mb-lg-5">
+      <div class="container-lg px-lg-4 px-md-5 px-4">
+        <p data-start="264" data-end="477" class=""><strong data-start="264" data-end="279">وصف الخدمة:</strong><br data-start="279" data-end="282">
+تمكّن هذه الخدمة الأفراد والمنشآت من <strong data-start="319" data-end="368">إصدار تفويض إلكتروني رسمي لمكتب استقدام خارجي</strong> لمتابعة إجراءات استقدام عامل مهني عبر منصة "إنجاز" التابعة لوزارة الخارجية السعودية، وذلك بعد صدور التأشيرة.</p>
+<hr data-start="479" data-end="519" class="">
+<p data-start="521" data-end="632" class="">✅ <strong data-start="523" data-end="544">خطوات طلب الخدمة:</strong><br data-start="544" data-end="547">
+يمكنك طلب الخدمة إلكترونيًا عبر منصة <strong data-start="584" data-end="608">لاهنت لخدمات الأعمال</strong> باتباع الخطوات التالية:</p>
+<ol data-start="634" data-end="1231">
+<li data-start="634" data-end="717" class="">
+<p data-start="637" data-end="717" class="">اختر خدمة <strong data-start="647" data-end="684">تفويض مكتب خارجي على تأشيرة مهنية</strong>، ثم اضغط على "اطلب الخدمة الآن".</p>
+</li>
+<li data-start="718" data-end="817" class="">
+<p data-start="721" data-end="817" class="">أدخل بيانات مقدم الطلب (رقم الهوية أو الإقامة – رقم التأشيرة – رقم السجل التجاري أو رقم الهوية).</p>
+</li>
+<li data-start="818" data-end="883" class="">
+<p data-start="821" data-end="883" class="">أدخل بيانات المكتب الخارجي المعتمد (اسم المكتب – رقم الترخيص).</p>
+</li>
+<li data-start="884" data-end="937" class="">
+<p data-start="887" data-end="937" class="">ارفع صورة التأشيرة الصادرة وأي مستندات داعمة أخرى.</p>
+</li>
+<li data-start="938" data-end="1005" class="">
+<p data-start="941" data-end="1005" class="">اختر الموعد المناسب لك، وأدخل كود الخصم إن وجد، ثم اضغط "تأكيد".</p>
+</li>
+<li data-start="1006" data-end="1068" class="">
+<p data-start="1009" data-end="1068" class="">ستصلك رسالة عبر الواتساب أو البريد الإلكتروني لتأكيد الطلب.</p>
+</li>
+<li data-start="1069" data-end="1120" class="">
+<p data-start="1072" data-end="1120" class="">وقّع عقد تنفيذ الخدمة إلكترونيًا عبر منصة لاهنت.</p>
+</li>
+<li data-start="1121" data-end="1168" class="">
+<p data-start="1124" data-end="1168" class="">تابع حالة الطلب من خلال حسابك، وأكده بالدفع.</p>
+</li>
+<li data-start="1169" data-end="1231" class="">
+<p data-start="1172" data-end="1231" class="">بعد رفع الطلب واعتماده، يتم تزويدك بنسخة من التفويض الرسمي.</p>
+</li>
+</ol>
+<hr data-start="1233" data-end="1273" class="">
+<p data-start="1275" data-end="1473" class="">🛠 <strong data-start="1278" data-end="1299">شرح تنفيذ الخدمة:</strong><br data-start="1299" data-end="1302">
+يقوم فريق لاهنت بمراجعة بيانات التأشيرة والمكتب الخارجي، وتجهيز طلب التفويض، ورفعه عبر منصة إنجاز، ثم متابعة الحالة حتى إصدار التفويض الإلكتروني المعتمد من وزارة الخارجية.</p>
+<hr data-start="1475" data-end="1515" class="">
+<p data-start="1517" data-end="1723" class="">📌 <strong data-start="1520" data-end="1536">شروط إضافية:</strong><br data-start="1536" data-end="1539">
+• يجب أن تكون التأشيرة المهنية صالحة وسارية.<br data-start="1583" data-end="1586">
+• المكتب الخارجي يجب أن يكون معتمدًا من القنصلية السعودية.<br data-start="1644" data-end="1647">
+• تسديد رسوم منصة إنجاز الحكومية بعد تجهيز التفويض (يدفعها المستخدم لاحقًا).</p>
+<hr data-start="1725" data-end="1765" class="">
+<p data-start="1767" data-end="1790" class="">💰 <strong data-start="1770" data-end="1788">تفاصيل الرسوم:</strong></p>
+<ul data-start="1791" data-end="1901">
+<li data-start="1791" data-end="1830" class="">
+<p data-start="1793" data-end="1830" class=""><strong data-start="1793" data-end="1813">رسوم خدمة لاهنت:</strong> 200 ريال سعودي</p>
+</li>
+<li data-start="1831" data-end="1901" class="">
+<p data-start="1833" data-end="1901" class=""><strong data-start="1833" data-end="1853">الرسوم الحكومية:</strong> تُسدد عبر منصة إنجاز حسب حالة التأشيرة والمكتب.</p>
+</li>
+</ul>
+<hr data-start="1903" data-end="1943" class="">
+<p data-start="1945" data-end="1968" class="">🌟 <strong data-start="1948" data-end="1966">مميزات الخدمة:</strong></p>
+<ol data-start="1969" data-end="2167">
+<li data-start="1969" data-end="2026" class="">
+<p data-start="1972" data-end="2026" class="">تجهيز التفويض الرسمي بسرعة واحترافية عبر منصة إنجاز.</p>
+</li>
+<li data-start="2027" data-end="2076" class="">
+<p data-start="2030" data-end="2076" class="">متابعة مستمرة حتى إتمام عملية التفويض بنجاح.</p>
+</li>
+<li data-start="2077" data-end="2124" class="">
+<p data-start="2080" data-end="2124" class="">دعم فني مستمر في حالة وجود ملاحظات أو رفض.</p>
+</li>
+<li data-start="2125" data-end="2167" class="">
+<p data-start="2128" data-end="2167" class="">حماية كاملة لمعلوماتك وبيانات التأشيرة.</p>
+</li>
+</ol>
+<hr data-start="2169" data-end="2209" class="">
+<p data-start="2211" data-end="2422" class="">⚠️ <strong data-start="2214" data-end="2224">تنويه:</strong><br data-start="2224" data-end="2227">
+• شراؤك لهذه الخدمة يُعد تفويضًا رسميًا لشركة <strong data-start="2273" data-end="2297">لاهنت لخدمات الأعمال</strong> لاستكمال إجراءات تفويض المكتب الخارجي نيابةً عنك.<br data-start="2347" data-end="2350">
+• رسوم التفويض الحكومي تختلف حسب نوع التأشيرة والمكتب وتُسدد بشكل منفصل.</p>        <a href="/checkout/29" class="btn_primary btn_arrow arrow_left start mt-5 mb-4"
+                  >اطلب الخدمة الآن</a>
+      </div>
+      
+    </section>         
+
+    <footer>
+    <div class="container-lg px-lg-4 px-md-5 px-4 pt-5">
+        <div class="row mb-sm-4">
+            <div class="col-xl-4 col-md-6 col-sm-8 mb-xl-0 mb-4">
+                <a href="#" class="mb-3 d-inline-block"><img width="120" src="https://lahint.sa/assets/25/img/logo.svg" alt="Lahint" /></a>
+                <p class="fw_500">
+                    أنجز معاملاتك التجارية بسهولة مع حلول لاهنت الذكية                </p>
+            </div>
+            <div class="col-xl-8">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 mb-md-0 mb-4">
+                        <p class="fw-bold">الموقع الالكتروني</p>
+                        <ul class="f_links fw_500 gap-3">
+                            <li><a href="/">الصفحة الرئيسية</a></li>
+                            <li><a href="/ar/services">الخدمات</a></li>
+                            <li><a href="/ar/ai-assistant">المساعد الذكي</a></li>
+                            <li><a href="https://gosi.lahint.sa/landing" target="_blank">أتمتة التأمينات الاجتماعية بالذكاء الاصطناعي</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-md-0 mb-4">
+                        <!-- <p class="fw-bold">الموارد</p>
+                        <ul class="f_links fw_500 gap-3">
+                            <li><a href="#">المدونة</a></li>
+                            <li><a href="#">التقويم</a></li>
+                            <li><a href="#">النشرة الإخبارية</a></li>
+                            <li><a href="#">أدلة الاستخدام</a></li>
+                        </ul> -->
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-md-0 mb-4">
+                        <p class="fw-bold">من نحن</p>
+                        <ul class="f_links fw_500 gap-3">
+                            <li><a href="/ar/about-us">عن لاهنت</a></li>
+                            <li><a href="/ar/about-us#team">فريقنا</a></li>
+                            <li><a href="/ar#visions">رؤيتنا الاستراتيجية</a></li> 
+                            <li><a href="/ar/faqs">الأسئلة الشائعة</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-md-0 mb-sm-4 mb-3">
+                        <p class="fw-bold">قانوني</p>
+                        <ul class="f_links fw_500 gap-3">
+                            <li><a href="/ar/page/privacy">سياسة الخصوصية</a></li>
+                            <li><a href="/ar/page/terms">شروط الاستخدام</a></li>
+                            <li><a href="/exercising-rights-form">طلب ممارسة أحد الحقوق</a></li>
+                            <!-- <li><a href="#">التراخيص</a></li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="mb-0" />
+    </div>
+    <div class="container-lg px-lg-4 px-md-5 px-4 pt-4 pb-1">
+        <div class="row align-items-center flex-sm-row flex-column-reverse">
+            <div class="col-sm-3">
+                <p class="mb-0 fw_500 fs_14"> .جميع الحقوق محفوظة لاهنت © 2026 </p>
+            </div>
+            <div class="col-sm-6 text-center">
+                <p>لاهنت مسجلة لدى الجهات الحكومية السعودية 🇸🇦
+
+                <a class="btn_secondary btn-sm" target="_blank" href="https://onepage.lahint.sa/ar/preview">كيف تتحقق 
+                    <img src="/assets/25/img/left-arrow-icon.svg" alt=""
+                                        >
+                </a>
+                </p>
+                
+                <!-- <ul class="list-unstyled d-flex flex-wrap justify-content-center align-items-center gap-2 mb-4 mt-3 px-0">
+                    <li><a target="_blank" title="شهادة ضريبة القيمة المضافة" href="/assets/certificates/vat.pdf" ><img style="margin-top: 5px;" height="30" src="https://lahint.sa/assets/25/img/certificates/VAT.png"></a></li>
+                    <li><a target="_blank" title="شهادة معروف" href="/assets/certificates/maroof.pdf" ><img height="40" style="filter: brightness(0.5);" src="https://lahint.sa/assets/25/img/certificates/ma3rof.png"></a></li>
+                    <li><a target="_blank" title="شهادة منشآت" href="/assets/certificates/monshaat.pdf" ><img height="70" src="https://lahint.sa/assets/25/img/certificates/monsha2at.jpeg"></a></li>
+                    <li><a target="_blank" title="شهادة حوكمة البيانات الوطنية" href="/assets/certificates/nd.pdf" ><img height="40" src="https://lahint.sa/assets/25/img/certificates/ndmo.png"></a></li>
+                    <li><a target="_blank" title="شهادة تسجيل العلامة التجارية" href="/assets/certificates/trademark.pdf" ><img height="40" src="https://lahint.sa/assets/25/img/certificates/saip.png"></a></li>
+                    <li><a target="_blank" title="شهادة توثيق التجارة الإلكترونية" href="/assets/certificates/tejara.pdf" ><img style="margin-top: 5px;" height="30" src="https://lahint.sa/assets/25/img/certificates/tejara.png"></a></li>
+                    
+                    <li><a target="_blank" title="شهادة الهيئة السعودية للبيانات والذكاء الاصطناعي" href="/assets/certificates/sdaia-certificate.pdf" ><img style="margin-top: 5px;" height="30" src="https://lahint.sa/assets/25/img/certificates/sdaiaLogo.png"></a></li>
+                    <li><a target="_blank" title="وسم واعي" href="/assets/certificates/waey.jpeg" ><img style="margin-top: 5px;" height="30" src="https://lahint.sa/assets/25/img/certificates/waey.svg"></a></li>
+                </ul> -->
+            </div>
+            <div class="col-sm-3 text-start d-flex justify-content-start">
+                <ul class="f_social_links px-0 gap-4 me-sm-auto mb-sm-0 mb-4">
+                                            <li><a href="https://www.facebook.com/lahint.sa"><img src="https://lahint.sa/assets/25/img/facebook-icon.svg" alt="Facebook"></a></li>
+                                                                <li><a href="https://twitter.com/lahint_sa"><img src="https://lahint.sa/assets/25/img/twitter-icon.svg" alt="Twitter"></a></li>
+                                                                <li><a href="https://www.instagram.com/lahint.sa/"><img src="https://lahint.sa/assets/25/img/instagram-icon.svg" alt="Instagram"></a></li>
+                                        
+                                            <li><a href="https://www.linkedin.com/company/lahint">
+                            <img src="https://lahint.sa/assets/25/img/linkedin.svg" width="20" style="opacity:0.65;" alt="Linkedin">
+                        </a></li>
+                    
+                                            <li><a href="https://www.youtube.com/@lahint_sa"><img width="20" style="opacity:0.65;" src="https://lahint.sa/assets/25/img/youtube.svg" alt="youtube"></a></li>
+                                    </ul>
+            </div> 
+        </div>
+    </div>
+</footer>
+
+{{-- LEAP beta popup (all pages, 3s delay, every load). Namespaced .lhpop-* — self-contained. --}}
+<div class="lhpop-overlay" id="lhpop" role="dialog" aria-modal="true" aria-labelledby="lhpop-title" hidden>
+  <div class="lhpop-panel">
+    <button type="button" class="lhpop-close" id="lhpop-close" aria-label="إغلاق">&times;</button>
+    <div class="lhpop-grid">
+      <div class="lhpop-orbit" id="lhpop-orbit" aria-hidden="true">
+        <svg class="lhpop-dash" viewBox="0 0 288 288"><circle cx="144" cy="144" r="140"/></svg>
+        <img class="lhpop-core" src="/assets/leap/lahint-logo.png" alt="">
+        <span class="lhpop-gov" style="--i:0"><img src="/assets/leap/gov/moc.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:1"><img src="/assets/leap/gov/qiwa.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:2"><img src="/assets/leap/gov/gosi.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:3"><img src="/assets/leap/gov/absher.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:4"><img src="/assets/leap/gov/tourism.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:5"><img src="/assets/leap/gov/muqeem-crop.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:6"><img src="/assets/leap/gov/mofa.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:7"><img src="/assets/leap/gov/hrsd.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:8"><img src="/assets/leap/gov/nafath.png" alt=""></span>
+        <span class="lhpop-gov" style="--i:9"><img src="/assets/leap/gov/chambers.png" alt=""></span>
+      </div>
+      <div class="lhpop-text">
+        <div class="lhpop-eyebrow">LAHINT.SA · BETA</div>
+        <h3 id="lhpop-title"></h3>
+        <p id="lhpop-body"></p>
+        <div class="lhpop-count" id="lhpop-count" hidden></div>
+        <div class="lhpop-note" id="lhpop-note"></div>
+        <div class="lhpop-actions">
+          <a class="lhpop-btn lhpop-btn-primary" id="lhpop-cta" href="https://beta.lahint.sa" target="_blank" rel="noopener"></a>
+          <button type="button" class="lhpop-btn lhpop-btn-quiet" id="lhpop-later"></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+  .lhpop-overlay{position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;padding:16px;background:rgba(7,26,24,.55);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);font-family:'IBM Plex Sans Arabic','Noto Kufi Arabic',system-ui,-apple-system,'Segoe UI',Tahoma,sans-serif}
+  .lhpop-overlay[hidden]{display:none}
+  .lhpop-panel{position:relative;width:100%;max-width:820px;background:#0b1614;color:#e6efec;border:1px solid #1f3b37;border-radius:20px;padding:32px;box-shadow:0 20px 50px rgba(7,26,24,.5)}
+  .lhpop-close{position:absolute;top:12px;inset-inline-end:12px;width:40px;height:40px;display:grid;place-items:center;background:none;border:0;color:#a9bbb6;font-size:24px;cursor:pointer;border-radius:8px;line-height:1}
+  .lhpop-close:hover{color:#e6efec}
+  .lhpop-grid{display:grid;grid-template-columns:300px 1fr;gap:32px;align-items:center}
+  .lhpop-orbit{position:relative;width:288px;height:288px;justify-self:center}
+  .lhpop-orbit .lhpop-core{position:absolute;inset:0;margin:auto;height:60px;width:auto;filter:drop-shadow(0 0 18px rgba(62,224,200,.25))}
+  .lhpop-dash{position:absolute;inset:0;width:100%;height:100%;animation:lhpop-spin 60s linear infinite;transform-origin:50% 50%}
+  .lhpop-dash circle{fill:none;stroke:rgba(62,224,200,.18);stroke-width:1;stroke-dasharray:3 9}
+  .lhpop-gov{position:absolute;top:50%;inset-inline-start:50%;width:52px;height:52px;margin:-26px;border-radius:50%;background:#fff;overflow:hidden;display:grid;place-items:center;transform:rotate(calc(var(--i)*36deg)) translateY(-104px) rotate(calc(var(--i)*-36deg))}
+  .lhpop-gov img{width:100%;height:100%;object-fit:contain;padding:4px}
+  .lhpop-eyebrow{font:500 12px/1 'IBM Plex Mono',ui-monospace,monospace;letter-spacing:.12em;color:#3ee0c8;margin-bottom:12px}
+  .lhpop-text h3{margin:0;font-weight:800;font-size:28px;line-height:1.15;color:#fff}
+  .lhpop-text p{margin:12px 0 0;font-size:16px;line-height:1.7;color:#a9bbb6;max-width:44ch}
+  .lhpop-text p b{color:#fff}
+  .lhpop-count{margin-top:16px;display:inline-flex;align-items:center;gap:8px;font:600 14px/1.2 'IBM Plex Sans Arabic','Noto Kufi Arabic',system-ui,sans-serif;color:#f2b441;background:rgba(242,180,65,.12);border:1px solid rgba(242,180,65,.32);border-radius:999px;padding:7px 14px}
+  .lhpop-count[hidden]{display:none}
+  .lhpop-count b{font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:16px}
+  .lhpop-note{margin-top:12px;display:flex;flex-direction:column;gap:6px;font-size:13.5px;color:#a9bbb6}
+  .lhpop-note span{display:flex;align-items:center;gap:8px}
+  .lhpop-note span::before{content:"✓";color:#3ee0c8;font-weight:700;flex:0 0 auto}
+  .lhpop-note b{color:#e6efec}
+  .lhpop-actions{display:flex;gap:12px;margin-top:24px;flex-wrap:wrap}
+  .lhpop-btn{height:60px;padding:0 28px;border-radius:14px;border:0;font-weight:800;font-size:20px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;text-decoration:none}
+  .lhpop-btn-primary{background:#189888;color:#fff}
+  .lhpop-btn-primary:hover{background:#1fb3a0}
+  .lhpop-btn-quiet{background:transparent;color:#a9bbb6;border:1px solid #2c443e;font-size:16px}
+  .lhpop-btn-quiet:hover{color:#e6efec}
+  .lhpop-overlay :focus-visible{outline:2px solid #3ee0c8;outline-offset:2px}
+  @media (max-width:760px){
+    .lhpop-overlay{align-items:flex-end;padding:0}
+    .lhpop-panel{max-width:none;border-radius:20px 20px 0 0;max-height:92svh;overflow-y:auto;padding:24px 16px}
+    .lhpop-grid{grid-template-columns:1fr;gap:20px;text-align:center}
+    .lhpop-orbit{width:220px;height:220px}
+    .lhpop-gov{width:44px;height:44px;margin:-22px;transform:rotate(calc(var(--i)*36deg)) translateY(-84px) rotate(calc(var(--i)*-36deg))}
+    .lhpop-orbit .lhpop-core{height:48px}
+    .lhpop-text p{margin-inline:auto}
+    .lhpop-actions{justify-content:center}
+    .lhpop-btn{flex:1 1 auto}
+  }
+  @keyframes lhpop-spin{to{transform:rotate(-360deg)}}
+  @media (prefers-reduced-motion:reduce){.lhpop-dash{animation:none}}
+</style>
+<script>
+(function(){
+  var isAr = (document.documentElement.lang || 'ar').toLowerCase().indexOf('ar') === 0;
+  var LAUNCH = new Date('2026-12-01T00:00:00+03:00');   // official launch — free until then
+  var T = isAr ? {
+    title:'ليش تطلب خدمة كل ما صارت مشكلة؟ نظام لاهنت الآلي يخلّي منشأتك ممتثلة دائمًا.',
+    body:'مراقبة آلية لأكثر من <b>٣٠ خدمة حكومية</b>، تنبّهك قبل وقوع المشكلة — ومع مدير حساب.',
+    cta:'جرّبه مجانًا الآن', later:'لاحقًا',
+    countTpl:'متبقٍ <b>{n}</b> يومًا على الإطلاق الرسمي — مجاني حتى ذلك الوقت',
+    notes:['بدون بطاقة ائتمانية · تجربة مجانية للمستخدمين الجدد','الأسعار تبدأ من <b>٢٠٠ ر.س/شهر</b> (١–٩ منشآت)']
+  } : {
+    title:'Why fix a compliance problem every time it happens? Lahint keeps your company compliant — always.',
+    body:'Automated monitoring across <b>30+ government services</b> that warns you before problems happen — with a dedicated account manager.',
+    cta:'Try it free now', later:'Later',
+    countTpl:'<b>{n}</b> days left until the official launch — free until then',
+    notes:['No credit card required · Free trial for new users','Plans start at <b>200 SAR/month</b> (1–9 companies)']
+  };
+  function toAr(n){ return isAr ? String(n).replace(/[0-9]/g, function(d){ return '٠١٢٣٤٥٦٧٨٩'[+d]; }) : String(n); }
+  var DELAY = 3000, lastFocus = null;
+  function $(id){ return document.getElementById(id); }
+  function onKey(e){
+    if(e.key==='Escape'){ hide(); return; }
+    if(e.key!=='Tab') return;
+    var f=[].slice.call($('lhpop').querySelectorAll('a[href],button:not([disabled])')).filter(function(el){return el.offsetParent!==null;});
+    if(!f.length) return; var i=f.indexOf(document.activeElement);
+    if(e.shiftKey&&i<=0){ e.preventDefault(); f[f.length-1].focus(); }
+    else if(!e.shiftKey&&(i===f.length-1||i<0)){ e.preventDefault(); f[0].focus(); }
+  }
+  function show(){ lastFocus=document.activeElement; $('lhpop').hidden=false; $('lhpop-cta').focus(); document.addEventListener('keydown',onKey); }
+  function hide(){ if($('lhpop').hidden) return; $('lhpop').hidden=true; document.removeEventListener('keydown',onKey); if(lastFocus&&lastFocus.focus){try{lastFocus.focus();}catch(e){}} }
+  function init(){
+    if(!$('lhpop')) return;
+    $('lhpop-title').textContent=T.title; $('lhpop-body').innerHTML=T.body;
+    $('lhpop-cta').textContent=T.cta; $('lhpop-later').textContent=T.later;
+    var days = Math.ceil((LAUNCH.getTime() - Date.now()) / 86400000);
+    if(days > 0){ $('lhpop-count').innerHTML = T.countTpl.replace('{n}', toAr(days)); $('lhpop-count').hidden = false; }
+    $('lhpop-note').innerHTML = T.notes.map(function(n){ return '<span>' + n + '</span>'; }).join('');
+    $('lhpop-close').addEventListener('click',hide);
+    $('lhpop-later').addEventListener('click',hide);
+    $('lhpop-cta').addEventListener('click',hide);
+    $('lhpop').addEventListener('click',function(e){ if(e.target===$('lhpop')) hide(); });
+    window.lhpop={open:show,close:hide};
+    setTimeout(show, DELAY);   /* every load, no once-guard */
+  }
+  if(document.readyState!=='loading') init(); else document.addEventListener('DOMContentLoaded',init);
+})();
+</script>
+
+<a href="https://wa.me/966561098874" title="تواصل معنا" target="_blank" class="btn item-btn whatsapp-fixed"> <i class="fa-brands fa-whatsapp"></i> </a>
+<script src="/dist/js/func.js"></script>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+<script src="/assets/25/js/jquery.nice-select.min.js"></script>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <!-- Bootstrap JS -->
+  <script src="/assets/25/js/bootstrap.bundle.min.js"></script>
+  <!-- App JS -->
+  <script src="/assets/25/js/app.js?ver=1.3"></script>
+  <script>
+    $(document).ready(function() {
+        if ($('.select_option').length) {
+            $('.select_option').niceSelect();
+        } 
+    });
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.min.js"></script>
+
+<script src="/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+
+
+
+    <script>var $ = jQuery;</script>
+                <style>
+body.dark_theme .channel {
+    background: white !important;
+}
+</style>                <script>
+            function getOS () {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    // Windows Phone must come first because its UA also contains "Android"
+    if (/windows phone/i.test(userAgent)) {
+        return "Windows Phone";
+    }
+    if (/android/i.test(userAgent)) {
+        return "android";
+    }
+    // iOS detection from: http://stackoverflow.com/a/9039885/177710
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        return "ios";
+    }
+    return "unknown";
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const videoWrapperCheck = document.querySelector('.video-wrapper');
+    if (!videoWrapperCheck) return;
+    
+    const videoWrappers = document.querySelectorAll('.video-wrapper');
+    for (let i=0; i < videoWrappers.length; i++) {
+        videoWrapper = videoWrappers[i];
+    // Set background image from data attribute
+    const bgImage = videoWrapper.dataset.bgImage;
+    if (bgImage) {
+        videoWrapper.style.backgroundImage = `url(${bgImage})`;
+    }
+    // Handle video play
+    videoWrapper.addEventListener('click', function() {
+        const videoId = this.dataset.videoId;
+        if (!videoId) return;
+
+        // Create and insert iframe
+        const iframe = document.createElement('iframe');
+        iframe.className = 'video-iframe rounded-4';
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+
+        // Replace wrapper content with iframe
+        this.innerHTML = '';
+        this.appendChild(iframe);
+    });
+    }
+});
+
+function detectBrowser() {
+    var userAgent = navigator.userAgent;
+    if (userAgent.indexOf("Edg") > -1) {
+        return "Microsoft Edge";
+    } else if (userAgent.indexOf("Chrome") > -1) {
+        return "Chrome";
+    } else if (userAgent.indexOf("Firefox") > -1) {
+        return "Firefox";
+    } else if (userAgent.indexOf("Safari") > -1) {
+        return "Safari";
+    } else if (userAgent.indexOf("Opera") > -1) {
+        return "Opera";
+    } else if (userAgent.indexOf("Trident") > -1 || userAgent.indexOf("MSIE") > -1) {
+        return "Internet Explorer";
+    }
+
+    return "Unknown";
+}
+
+
+
+jQuery(document).ready(function($){
+    let os = getOS();
+    if (os == 'ios') {
+        $("#appAndBtn").addClass('d-none');
+    } else if (os == 'android') {
+        $("#appIosBtn").addClass('d-none');
+    }
+    
+    if ($("#popup").length){
+        setTimeout(()=>{
+            if (localStorage.getItem("popupWasShown") != 1)
+            $("#popup").removeClass('hidden');
+        },1500);
+        $("#popup-close").click(function(e){
+            e.preventDefault();
+            $("#popup").addClass('hidden');
+            localStorage.setItem("popupWasShown",1);
+        })
+    }
+});
+
+//<!-- Hotjar Tracking Code for Site 4987046 (name missing) -->
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:4987046,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+    <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5712c8cbaf1b875',t:'MTc5NDEwNTIxOA=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5712c8cbaf1b875',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

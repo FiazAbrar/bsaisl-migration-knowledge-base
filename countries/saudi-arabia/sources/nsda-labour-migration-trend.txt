@@ -1,0 +1,2717 @@
+                                 Research Study
+                                        on
+“The Present Trend of Labour Migration in GCC Countries: Measures Needed for
+Bangladesh to Shift from Un-Skilled to Semi-Skilled and Semi-Skilled to Skilled and
+                         High-Skilled Labour Migration”
+
+
+
+
+                                   Submitted to
+
+                             Research and Policy Wing
+
+             Ministry of Expatriates’ Welfare and Overseas Employment
+
+
+
+
+                                   Submitted by
+
+                                  Dr. Shilpi Das
+
+                                Associate Professor
+
+                 Department of Accounting & Information Systems
+
+                           Jagannath University, Dhaka
+
+
+
+
+                                Date of Submission
+
+                                   June 13, 2023
+
+
+
+
+                                                                           1|Page
+                                   EXECUTIVE SUMMARY
+
+The purpose of the study is to identify the current trend of labour migration in GCC countries
+and explore measures needed for Bangladesh in order to grasp the overseas employment
+opportunities in GCC countries through developing human capital by shifting unskilled labours
+to semi-skilled and semi-skilled labours to skilled and high skilled.
+
+The current study is necessary because very few evidence-based policy studies have been found.
+In fact, no structured study has been found in order to show a concrete roadmap to Bangladesh
+though GCC countries are the most attractive and prospective destination for Bangladeshi labour
+migrants. In this circumstance, this study has been conducted in order to show policy guidelines
+to the nation so that Bangladesh can retain and develop the labour market for semi-skilled,
+skilled, and high skilled labour migrants in GCC countries.
+
+This study uses a mixed research philosophy which falls under both positivism and
+interpretivism from epistemological perspective since both qualitative and quantitative data have
+been used. Trends of the GCC labour market and Bangladeshi labour migrants have been
+identified using secondary sources like reports from different national and international
+organizations, and academic papers. A couple of focus group discussions (FGDs) consists of
+academicians, govt. officials, and experts has been conducted in order to explore the reasons for
+which Bangladeshi Labour migrants remain unskilled. Additionally, the measures to be taken for
+uplifting their skill levels have been explored through the same FGDs. Using the findings from
+the two FGDs, a questionnaire was developed for collecting quantitative data in order to validate
+the qualitative data. Moreover, the level of significance of each of the items developed through
+the FGDs has been measured through quantitative analysis using frequency, mean, and
+descriptive statistics. Analyzed data have been visualized using various types of visualization
+tools.
+
+This study finds that the general trend of the GCC labour market shows that Bangladesh has
+tremendous opportunity over there. In fact, this study depicts that majority of the employment
+opportunities in GCC labour market is occupied by foreign nationals. But in order to grasp the
+opportunity Bangladesh should prepare its migrant labours uplifting the skill levels from
+
+                                                                                      2|Page
+unskilled to semi-skilled and semi-skilled to skilled and high skilled. This study further states
+that the competition in the labour market of GCC countries is increasing dramatically.
+
+This study further argues that in this era of digitalization, globalization, smart technologies,
+fourth industrial revolution, Bangladesh must be prepared to compete in the labor market of
+GCC countries with necessary skills of manpower. The migrant labors must be provided with
+necessary training, skill-based certificate courses with the collaboration of highly dedicated and
+professional TVET institutes, polytechnic institutes, universities and so on. Moreover, greater
+level of collaboration and cooperation among the stakeholders like migrant labors, govt.
+agencies, training providers, employers of GCC countries, recruiting agencies, accreditation
+bodies of GCC countries is necessary in this circumstance.
+
+Bangladesh should collect updated labour market data and take evidence-based decision for
+ensuring appropriate skill-based training and certification for the migrant labors. More study in
+this area is necessary using bigger sample size and engaging multiple stakeholders. The current
+study is expected to serve as a milestone in this area serving both the policy makers and
+academicians.
+
+Keywords: Labor Migration, GCC Countries, Bangladesh, Un-skilled, Semi-skilled, Skilled,
+High-skilled Labor, Labor Migration Policy, Human Capital Development
+
+
+
+
+                                                                                         3|Page
+Table of Contents
+Executive Summary ...................................................................................................................... 2
+List of Acronyms ........................................................................................................................... 6
+List of Tables ................................................................................................................................. 7
+List of Figures ................................................................................................................................ 8
+Chapter 01: Introduction ............................................................................................................. 9
+   1.1 Background of the Study ....................................................................................................... 9
+   1.2 Problem Statement .............................................................................................................. 10
+   1.3 Research Questions ............................................................................................................. 10
+   1.4 Research Objectives ............................................................................................................ 11
+   1.5 Rationale of the Study ......................................................................................................... 11
+   1.6 Scope and Limitations of the Study ..................................................................................... 12
+   1.7 Structure of the Report ........................................................................................................ 12
+Chapter 02: Literature Review .................................................................................................. 14
+   2.1 Introduction......................................................................................................................... 14
+   2.2 Migration and Its History ................................................................................................... 15
+   2.3 Types of Labour .................................................................................................................. 18
+       2.3.1 Skilled Labor ................................................................................................................ 18
+       2.3.2 Semi-skilled Labor ....................................................................................................... 19
+       2.3.3 Unskilled Labor ........................................................................................................... 19
+   2.4 Labour migration ................................................................................................................ 20
+   2.5 Labour migration in GCC countries ................................................................................... 20
+   2.6 South Asian Labour Migration in GCC Countries ............................................................. 21
+   2.7 Labour migration in GCC countries from Bangladesh ...................................................... 23
+   2.8 The need to shift from Un-skilled to Semi-skilled and Semi-skilled to Skilled labor .......... 26
+Chapter 03: Methods .................................................................................................................. 28
+   3.1 Research Design ................................................................................................................. 28
+   3.2 Sampling and Sample Distribution ..................................................................................... 28
+       3.2.1 Justification of sample size........................................................................................... 29
+   3.3 Data Collection ................................................................................................................... 29
+   3.4 Data Analysis and Interpretation........................................................................................ 30
+   3.5 Data Visualization and Report Presentation ...................................................................... 30
+Chapter 04: Analysis and Findings ........................................................................................... 31
+
+
+                                                                                                                                  4|Page
+   4.1 Trends of Bangladeshi Migrants......................................................................................... 31
+       4.1.1 Destination of Bangladeshi Migrants in 2021 ............................................................. 31
+       4.1.2 Trend of Bangladeshi Migrant Workers by Country ................................................... 32
+       4.1.3 Bangladeshi Labor Migration Trend among GCC Countries ..................................... 33
+       4.1.4 Comparison of Bangladeshi Labour Migration between GCC and Other Countries . 34
+       4.1.5 Skill-wise Trend of Bangladeshi Migrant Labours ...................................................... 35
+   4.2 Trends of GCC Labour Market ........................................................................................... 36
+       4.2.1 Percentage of Nationals and Non-National in GCC Countries’ Employed Populations
+       (2020) .................................................................................................................................... 36
+       4.2.2 Skill Level Wise Nature of Competition in GCC Labour Market ................................ 37
+       4.2.3 Skill Level and Job Opportunities Available in GCC Labour Market ......................... 38
+       4.2.4 Country Wise Distribution of Skill Requirements in GCC Countries. ......................... 39
+       4.2.5 Training and Development Areas for Preparing Bangladeshi Migrants for GCC
+       Countries’ Labour Market .................................................................................................... 41
+   4.3 Socio-Demographic Profile of the Respondents and FGD Participants ........................... 45
+       4.3.1 Socio-demographic Profile of the Respondents .......................................................... 45
+       4.3.2 Participants of the Focus Group Discussion (Academicians and Experts) ................. 48
+       4.3.3 Participants of the Focus Group Discussion (Government Officials) ......................... 48
+   4.4 The reasons for which Bangladeshi Mingrant Labours Remain Unskilled ........................ 49
+       4.4.1 Exploration of the Reasons through Qualitative Data Analysis .................................. 49
+       4.4.2 Mean of the Reasons for Which Bangladeshi Migrant Labours Remain Unskilled .... 50
+   4.5 Measures needed for Bangladesh to shift from Unskilled to semi-skilled labours ............. 51
+       4.5.1 Measures Developed through Qualitative Data Analysis ............................................ 51
+       4.5.2 Frequency Distribution of the Perception of the Respondents .................................... 53
+   4.6 Measures needed for Bangladesh to shift from Semi-skilled to skilled and high-skilled
+   labours ...................................................................................................................................... 54
+       4.6.1 Measures Developed through Qualitative Data Analysis ............................................ 54
+       4.6.2 Frequency Distribution of the Perception of the Respondents .................................... 55
+Chapter 05: Conclusions and Recommendations .................................................................... 56
+   5.1 Conclusions ......................................................................................................................... 56
+   5.2 Policy Recommendations.................................................................................................... 57
+References .................................................................................................................................... 59
+APPENDICES ............................................................................................................................. 67
+
+
+
+                                                                                                                                     5|Page
+                     LIST OF ACRONYMS
+
+BBS    :   Bangladesh Bureau of Statistics
+
+BMET   :   Bureau of Manpower, Employment and Training
+
+FGD    :   Focus Group Discussion
+
+GCC    :   Gulf Cooperation Council
+
+GDP    :   Gross Domestic Product
+
+HCD    :   Human Capital Development
+
+ILO    :   International Labour Organization
+
+IOM    :   International Organization for Migration
+
+KSA    :   Kingdom of Saudi Arabia
+
+MoEWOE :   Ministry of Expatriates Welfare and Overseas Employment
+
+QDA    :   Qualitative Data Analysis
+
+SPSS   :   Statistical Package for Social Sciences
+
+UAE    :   United Arab Emirates
+
+UNDP   :   United Nations Development Program
+
+
+
+
+                                                                     6|Page
+                                     LIST OF TABLES
+
+
+Table No.                              Title of the Table                       Page No.
+
+   01       Sample Distribution                                                   28
+
+   02       Research tools on the basis of objectives                             30
+
+   03       Skill level and job opportunities available in GCC Labour Market      38
+
+   04       Country wise distribution of skill shortage in GCC countries.         39
+
+            Training and development areas for preparing Bangladeshi migrants
+   05                                                                             41
+            for GCC countries’ labour market
+
+   06       Socio-demographic Profile of the Respondents                          45
+
+
+            Participants of the Focus Group Discussion (Academicians and
+   07                                                                             48
+            Experts)
+
+
+   08       Participants of the Focus Group Discussion (Government Officials)     48
+
+
+            Mean of the Reasons for Which Bangladeshi Migrant Labours Remain
+   09                                                                             50
+            Unskilled
+
+
+
+
+                                                                                7|Page
+                                   LIST OF FIGURES
+
+Figure No.                            Title of the Figure                        Page No.
+
+
+   01        Destination of Bangladeshi Migrants in 2021                           31
+
+   02        Trend of Bangladeshi Migrant Workers by Country                       32
+
+   03        Bangladeshi Labor Migration Trend among GCC Countries                 33
+
+
+             Comparison of Bangladeshi Labour Migration between GCC and
+   04                                                                              34
+             Other Countries
+
+
+   05        Skill-wise Trend of Bangladeshi Migrant Labours                       35
+
+             Percentage of Nationals and Non-National in GCC Countries’
+   06        Employed Populations (2020)                                           36
+
+
+
+   07        Skill Level Wise Nature of Competition in GCC Labour Market           37
+
+
+
+             Perception of the respondents regarding measures to be taken for
+   08                                                                              46
+             shifting unskilled to semi-skilled labour
+
+
+             Perception of the respondents regarding measures to be taken for
+   09                                                                              48
+             shifting semi-skilled labours to skilled and high-skilled labours
+
+
+
+   10        Model of Policy Recommendation                                        51
+
+
+
+
+                                                                                 8|Page
+                              CHAPTER 01: INTRODUCTION
+
+1.1 BACKGROUND OF THE STUDY
+
+Population explosion, the very burning question for Bangladesh during the beginning of the 21st
+century (Chowdhury, 2009), has been somehow addressed through the exploration of the
+opportunity of labour migration (Siddique, 2019). The emergence of the concept of globalization
+accelerated the opportunity for the developing and under developed countries like Bangladesh
+(Jalil et al.,2020) There is huge opportunity for the unskilled and semi-skilled labour force to be
+employed abroad through the alleviation of migration complexities by the fervent efforts of the
+current government as a part of its attempt to upgrading the diplomatic relationship with other
+countries (Siddiqui, 2005). According to the UNDP report about 68 percent of the total
+population belongs to the age group of 15-65, the labour force. The existing limitations of
+domestic employment opportunities in Bangladesh made us dependent on labour migration to
+other countries (Siddiqui, 2016). that can be revealed through the remittance statistics provided
+by Bangladesh Bank, BBS report that Remittance as Percent of GDP and Export Earnings of
+Bangladesh are 6.03% and 67.14% respectively. According to the Economic Review of
+Bangladesh, 2022, it’s clear that the major destination of Bangladeshi labour migrants is the
+GCC (Gulf Cooperation Council) countries. The report, produced by the Bureau of Manpower,
+Employment and Training (up to February 2022), shows that the percentage of overseas
+employment by GCC countries are- KSA- 74.08%, Oman- 8.91%, UAE- 4.73%, Qatar-1.81%,
+Kuwait- 0.30%. The current trend of overseas employment shows that his proportion of
+Bangladeshi along with other south Asian labour relative to their own labours has been
+increasing since its inauguration as a recipient country of temporary labour migration from south
+Asia.
+Bangladesh, being endowed with a huge amount of less-skilled (Islam,2011) and unskilled
+labour force, has been exploring the market of less skilled and semi-skilled labour force across
+the world. According to BMET, MoEWOE, Bangladesh Bank, the percentage of less skilled
+labour migration from Bangladesh to the total labour migration is 76% in 2021. The government,
+through the Ministry of Expatriates Welfare and Overseas Employment (MoEWOE), is highly
+concerned with the labour migration of less-skilled and semi-skilled work force especially to
+GCC countries.
+
+
+                                                                                        9|Page
+1.2 PROBLEM STATEMENT
+
+GCC countries, being the largest migration destination for the Bangladeshi (Oommen, 2017) as
+well as the other south Asian migration seeking population, are offering huge migration
+opportunities in their labour market. In fact, 47% of the total population of the GCC countries are
+non-nationals (Shah, 2012). The incremental demand for labour force in these countries is
+emerging mostly due to the rapid development in science and technology. In such a situation the
+ratio of required semi-skilled, skilled and high-skilled migrants to unskilled and less-skilled
+migrants in GCC countries is gradually increasing (Chennells and Reenen, 1999). Recent studies
+show that GCC countries are now emphasizing on taking semi-skilled and skilled migrants.
+Additionally, from the perspective of migrants and their home country economy migration is
+much beneficial as it creates source of huge amount of remittance. But the matter of deep
+concern is that Bangladesh is still mostly responding to the requisition of less skilled labour force
+(Afsar et al., 2002). So, in the near future, Bangladesh may fail to grasp the opportunity of labour
+migration in GCC markets. Ahamad (2023) states that Bangladesh is still exporting unskilled
+workers abroad which must be changed in order to have higher remittance. In such a situation, to
+strongly face the challenge Bangladesh needs to upgrade the skill level of the migration seeking
+population (Siddiqui, 2021). But the problem that the trend in the labour market in GCC
+countries is still unexplored and thus the ways to develop labour migration from Bangladesh to
+GCC countries is still unidentified. Moreover, Bangladesh still has not designed any well-
+structured and GCC country-specific guidelines showing the ways through which Bangladesh
+can upgrade their labour force through shifting them from Un-skilled to Semi-skilled and Semi-
+skilled to Skilled and High-skilled Labour for meeting the host country demand.
+
+1.3 RESEARCH QUESTIONS
+
+This study consists of the following three research questions. Getting answers of the following
+three questions will keep the research within its defined boundary.
+   a. What are the current trends in labour migration in GCC Countries?
+   b. Which reasons are responsible for keeping the Bangladeshi labour force unskilled?
+
+
+
+
+                                                                                         10 | P a g e
+   c. What kinds of actions might help in shifting labour from Un-skilled to Semi-skilled and
+       Semi-skilled to Skilled and High-skilled for developing the labour migration from
+       Bangladesh to GCC Countries?
+
+
+
+1.4 RESEARCH OBJECTIVES
+
+In order to find the answers to the above research questions and fill the stated research gap, the
+current study has both a general and some specific objectives. The general objective is to
+understand the Present trend of labour migration in GCC Countries in order to offer Bangladesh
+some ways to grasp the labour market through uplifting the skill-levels of existing labour force.
+This general objective will be attained through the following three specific ones-
+   d. To explore the current trend of labour migration in GCC Countries.
+   e. To investigate the reasons of Bangladeshi labour force for remaining unskilled.
+   f. To suggest the ways of shifting the Labour Migration: Un-skilled to Semi-skilled and
+       Semi-skilled to Skilled and High-skilled.
+
+1.5 RATIONALE OF THE STUDY
+
+Bangladesh, being a developing country, is overburdened with lots of problems such as poverty,
+malnutrition, unemployment, etc. Poverty and malnutrition along with many other social
+problems are also instigated by the unemployment problem. If the problem of Unemployment,
+specially the unemployment of unskilled, less-skilled youth age group of people, can be
+addressed and worked out, there could have less propensity for the other social problems to rise.
+Entrepreneurship and Labour migration are thought to be the major solutions to the headache of
+unemployment problem. The lack of capital required to go for entrepreneurial activity and the
+risk of failure associated is triggering the youth search employment abroad.
+GCC countries being the number one geographical recipient (Buttorff et al., 2018; Shah 2013)
+with six countries, in term of the number of migrants receiving entity have been worthy study the
+problems, prospect and ways out in exploring the opportunities for Bangladeshi labour force. As
+the world as a whole is advancing toward artificial intelligence and Fourth Industrial Revolution
+(4IR), the demand for skilled and semi-skilled labour force is increasing and assumed to be so
+high that in the near future it will chase away the requirement for unskilled workforce (Siddiqui,
+
+
+                                                                                      11 | P a g e
+2021). That’s why it’s high time the government of Bangladesh thought about the composition of
+workforce and emphasize Human Capital Development (HCD). The shifting of Un-skilled labour
+to Semi-skilled and Semi-skilled labour to Skilled and High-skilled Labour can both become the
+weapon to defend the threat of competing labour exporting countries and achieving competitive
+advantage over other labour exporting countries if the shifting is achieved earlier (Afsar et al.,
+2002).
+As temporary labour migration has been the largest source of earning foreign currency and
+reducing unemployment, it has been crucial to understand the labour migration and its current
+trends in GCC Countries and take necessary skill adjustment and up gradation measures
+accordingly.
+The study aims at exploring the current trends of labour migration in GCC countries, finding out
+problems associated with labour migration, suggesting ways out to upgrade skill level of the
+current labour force of Bangladesh searching employment opportunity abroad and thus bringing
+solutions to the problem of unemployment.
+
+1.6 SCOPE AND LIMITATIONS OF THE STUDY
+
+The focus of the current study is limited to exploring the trend of labour migration in GCC
+Countries and offering measures needed for Bangladesh to shift from Un-skilled to Semi-skilled
+and Semi-skilled to Skilled and High-skilled Labour Migration. As mentioned in the methods
+section of the study, this paper considers both qualitative and quantitative data collection
+procedure and analysis techniques. There are some possible limitations of this study. Reaching
+the respondents was very challenging since they are mostly scattered and unorganized. In order
+to reach respondents of these characteristics, the current study uses convenience sampling and
+the sample size was small. Findings of this study might not be generalized for labour migration
+to other countries since the variables are highly country specific. Responses from mostly
+uneducated and unskilled labour force might have biasness though the researchers tried their
+level best in order to tackle this issue.
+
+1.7 STRUCTURE OF THE REPORT
+
+This study has been divided into five main chapters namely- introduction, literature review,
+methods, findings and analysis, and conclusion and recommendations. Apart from these five
+
+
+                                                                                      12 | P a g e
+main chapters, this paper contains an executive summary containing abstract of the whole study.
+The introduction chapter provides a preliminary background, states a research problem, identifies
+the research questions and objectives, and states the rationale, scopes and limitations of the
+study. The literature review section explores the existing literature and finds the gaps. The
+methods section shows how the research has been conducted which includes data collection,
+analysis techniques, sampling and so on. The findings and analysis chapter contain the
+quantitative and qualitative findings along with results. The last chapter namely, conclusion and
+recommendations     contain   major   findings    and   discussion   along   with   some   policy
+recommendations. The secondary sources used in the current study have been acknowledged in
+the reference section. Finally, the appendix section contains the study questionnaire through
+which data were collected from the respondents.
+
+
+
+
+                                                                                     13 | P a g e
+                           CHAPTER 02: LITERATURE REVIEW
+
+2.1 INTRODUCTION
+
+Over the years, Labour migration contributed a lot in deciding the labour dynamics across the
+world and thereby facilitated the development of global economy. Bangladesh, since it first
+officially experienced labour migration in 1970s, has been experiencing growth in labour
+migration as well as growth in remittance that substantially started to contribute to the national
+income of the country (Siddique, 2019). Labour migration is defined as the movement of people
+having their own country of origin or permanent resident country to establish themselves in other
+country either permanently or temporarily. In most of the times migration, individually or in
+group, happens for economic issues (Bhugra & Bhui, 2001) and that brings socio-economic and
+socio-cultural change for the destination country and the country of origin (Bogue.D.J, 1977).
+Migrants are categorized as temporary migrants, irregular migrants, business and highly-skilled
+migrants, forced migrants, family reunification migrants and return migrants where temporary
+migrants mean those who migrates for employment and for a limited period of time (Radi, 2020).
+Basically, Bangladesh is exposed to this kind of migration since the adult people, especially the
+less skilled, are most of the times unable to find employment at home and shifting to the oil-rich
+GCC countries who are in dire need of relatively low-cost less skilled worker (Quayam, 2017).
+Majority of the people from Bangladesh migrate themselves for the reason of improving their
+own economic condition (Siddiqui and Abrar, 2002). The study conducted by Afsar et al. (2002)
+revealed that most of the migrants are semi-literate with less-skill. But in the age of technological
+advancement, the need for less skilled labour force would certainly fall and at the same time a
+quick rise in the demand of technically sound labour has been noticed.
+Since its establishment in 1981, The Gulf Cooperation Council (GCC) heavily depends on
+migrant workers (Buttorff et al.,2018) specially in private sector and employs a huge percentage
+of migrant workers relative to its own population. The percentage was 44.8 percent in 1990 and
+reached 59.9 percent in 2017 (Atong et al., 2018).
+Though The GCC countries as a destination of our workforce, formerly idle adults, are
+contributing to the economy of Bangladesh through the reduction of unemployment problem,
+being the source of remittance, contributing to the knowledge base of the migrants (Hass, 2010),
+and so on, there are some obvious problems and challenges faced by the migrants like Kafala, a
+
+
+                                                                                         14 | P a g e
+major uncertainty of losing the work permit if the contract with the employer gets terminated
+(Bachmann, 2018) that by turn causes loss of financial investment (Costa & Martin, 2018).Lack
+of knowledge about pre-departure issues (Mayah, et al., 2018) and Illegal agencies’ abuse are
+also some challenges in this regard. So, the current trends in the labour market of GCC countries
+have to be explored.
+Due to the technological advancement, the employment opportunities in the overseas are
+shifting. The demand for labour having skills is increasing and thereby the markets for less
+skilled labour in shrinking day by day(Manning, 2004). As GCC countries constitute the
+destination of the approximately more than 80 percent Bangladeshi migrant labour, the analysis
+of trends and skill upgradation required according to the host country’s’ requirement is inevitable
+to cope up with the competitive environment exporting manpower.
+
+2.2 MIGRATION AND ITS HISTORY
+
+People have been migrating since the start of time. This process has established communities all
+across the world, and it continues to do so now. People are migrating in greater numbers than
+ever before (Doherty et al., 2014). People may opt to relocate for a variety of reasons, including
+improved career opportunities or better weather (StudySmarter, 2022). Migration, for whatever
+cause, may have a significant influence on people's life. IOM (2019) defines a migrant as an
+umbrella phrase, not defined by international law, representing the ordinary lay concept of a
+person who moves away from his or her normal abode, whether inside a country or across an
+international boundary, for a number of reasons, temporarily or permanently. It furthers the
+concept by mentioning that the term encompasses a number of well-defined legal categories of
+people, such as migrant workers; individuals whose specific types of movements are legally
+defined, such as smuggled migrants; and those whose status or means of movement are not
+specifically defined by international law, such as international students. A person may be
+deemed a migrant regardless of their legal status, the reason for their travel (voluntary or
+involuntary), or the length of time they want to stay (StudySmarter, 2022). As documented by
+Earth Eclipse (2023), Migration can be categorized in different forms based on the nature and
+reason of movement. Migration is first and foremost categorized according to the type of
+movement that is taking place. Both immigration and emigration would fall under this. Migration
+of people or populations to another nation is referred to as immigration. On the other hand,
+
+
+                                                                                       15 | P a g e
+emigration describes the movement of people or populations out of one country. Consider the
+exodus of Indians from India and the immigration of Filipinos to the United States. Permanence
+is referred to in the second category of migration. Permanent, temporary, voluntary, and forced
+are the options under permanency. Permanent migration is defined as a relocation from one
+location to another without any intention of going back to the original location. Temporary
+migration is movement carried out for a brief period of time. Migrants who are forced to migrate
+do so without consent. Forced migration is the antithesis of voluntary migration. The nature of
+the location is the subject of the third migration categorization. There are two categories under
+this one: internal and international. Internal migration is a form of migration in which individuals
+move between states within the same country whereas international migration is a sort of
+movement in which individuals move from one country to another for a variety of reasons such
+as work possibilities, higher education, business prospects, and so on (Hevjt, 2017). The types of
+migration can be furthered into-
+
+   a. Gross migration: the term "gross migration" describes the sum of all immigrant arrivals
+       and emigrant departures.
+   b. Net migration: the difference between the total population entering and leaving the
+       country. It could also be a reference to the gap between immigration and emigration rates.
+   c. Impelled migration: describes the exodus of citizens from a nation or region as a result of
+       bad circumstances.
+   d. Step migration: is the gradual movement from a closer location to a farther one.
+   e. Chain migration: is the term for a sequence of migrations involving a certain population.
+   f. Rural-urban migration: The movement of people from rural to urban parts of a country is
+       referred to as rural-urban migration. This can be caused by the fact that metropolitan
+       regions provide higher job prospects.
+   g. Interregional migration: is the movement of people inside a country from one region to
+       another.
+   h. The term "intercontinental migration" describes the movement of people between and
+       within several continents. For instance, individuals from Asia could immigrate to Europe.
+   i. Intra-continental migration: this is the term used to describe individuals moving inside
+       and between nations on the same continent. People from Thailand could immigrate to
+       Japan, for instance. Both nations are located in Asia.
+
+
+                                                                                        16 | P a g e
+   j. Seasonal migration: describes the movement of humans or animals as a result of seasonal
+       or climatic factors. For instance, some individuals might relocate in order to produce or
+       harvest crops.
+   k. Return migration: is the movement of persons back to their nation of origin after having
+       travelled elsewhere.
+The history of migration can be traced back to the history of civilization. According to studies,
+the pre-modern migration of human populations began around 1.75 million years ago with the
+travel of Homo erectus out of Africa through Eurasia. However, the modern migration trend
+accelerated during the 18th and 19th centuries due to industrialization and the slave trade. The
+First and Second World Wars, as well as the wars, genocides, and crises that resulted from them,
+had a massive influence on migration. During the Ottoman Empire's demise, Muslims travelled
+from the Balkans to Turkey, while Christians went in the other direction. Following India's
+partition in 1947, huge people moved from India to Pakistan, based on their religious views. The
+Indian Independence Act 1947 established partition as a result of the disintegration of the British
+Indian Empire. The partition displaced up to 17 million people throughout the erstwhile British
+Indian Empire, with estimates ranging from a few hundred thousand to a million lives lost.
+Muslims from former British India travelled to Pakistan (including East Pakistan, now
+Bangladesh), whereas Hindus and Sikhs from Pakistan and Hindus from East Pakistan (now
+Bangladesh) migrated in the other direction. According to Overseas Development Institute
+research, there is a rapid shift of workers from slower-growing to faster-growing sectors of the
+economy. Migrants are frequently excluded by urban housing rules, and migrant assistance
+efforts are required to increase workers' access to market information, identity verification,
+housing, and education. Migration is a complex phenomenon that is driven by various factors,
+including both push and pull factors. The literature on migration has focused on the interplay
+between push and pull factors and the impact they have on migration patterns. Push factors refer
+to the conditions that drive individuals to leave their home countries, such as poverty, political
+instability, and lack of economic opportunities. Research has shown that push factors, such as
+poverty and lack of economic opportunities, are major drivers of migration in developing
+countries (De Haas, 2010). Moreover, conflicts, persecution, and human rights violations are also
+considered push factors that force people to leave their countries (ESchooltoday, 2022). On the
+other hand, pull factors refer to the conditions that attract individuals to migrate to a particular
+
+
+
+                                                                                        17 | P a g e
+destination, such as better economic opportunities, higher wages, and improved living standards.
+Research has shown that pull factors, such as better economic opportunities and higher wages,
+are major drivers of migration in developed countries (De Haas, 2010). Moreover, family
+reunification and study opportunities are also considered to be pull factors that attract people to
+migrate (IOM, 2019). The literature has shown that the interplay between push and pull factors is
+crucial in determining migration patterns. The decision to migrate is often based on a cost-
+benefit analysis, where individuals weigh the benefits of migration against the costs, such as the
+risk of exploitation and the difficulty of adapting to a new culture (De Haas, 2010).
+
+2.3 TYPES OF LABOUR
+
+Labour migration is a complex phenomenon that has been widely studied in the literature.
+Labour migration is the movement of people across national borders in search of work
+opportunities. This definition includes both international and domestic migration, as well as other
+types of labour movement such as permanent, temporary, and cyclical migration (ILO, 2019).
+The topic of labour migration usually includes- Skilled, Semiskilled and Unskilled labours.
+
+2.3.1 Skilled Labor
+
+An individual having specific expertise is referred to as a skilled worker or skilled labour
+(Indeed, n.d.). The skilled labour sector of the workforce calls for specialized education,
+expertise, or knowledge to carry out mental or physical duties. These labours are capable of
+exercising judgment and have knowledge of the particular trade or industry they work in (Esub,
+2017). According to Indeed (Indeed Editorial Team, 2021), these are the three kinds of skills that
+these experts need to possess: Foundation skills, Transferable skills, and Technical and
+vocational skills. Foundation skills are regarded as basic since they form the cornerstone and
+foundation for other abilities, training, operations, and more. Also, it's crucial for professionals to
+have transferable talents that may be used in a variety of settings. Technical and vocational skills
+refer to the capacity to complete particular jobs. Jobs requiring a high degree of expertise,
+education, or experience, like engineering or medicine, are frequently filled by skilled workers
+(Mahr, 2022). To be capable of filling these jobs, skilled labours often need a greater degree of
+education or training, which leads to a higher wage than unskilled labours. A bachelor's degree in
+
+
+
+
+                                                                                          18 | P a g e
+a relevant discipline, a master's degree, or a doctorate is frequently required for candidates for
+skilled labour employment (Indeed, n.d.).
+
+2.3.2 Semi-skilled Labor
+
+Workers who execute duties that call for a certain set of talents or skills but don't necessitate
+additional education are known as semi-skilled labours (Indeed, n.d.). While semi-skilled labour
+does not need advanced education or specialized training, it does call for a greater level of
+expertise than unskilled labour. Semi-skilled workers often possess higher education than a high
+school diploma but less than a college degree. Although not difficult, the kinds of abilities
+required for this often include the capacity to keep track of and carry out repeated activities
+(Esub, 2017). These talents are more likely to be adaptable and valuable in different occupations.
+It is more common than unskilled labour and is often found in jobs that need more physical
+labour than skilled labour. They are often paid at a lower rate than skilled labour, but it is still an
+important part of the economy (Mahr, 2022). Truck drivers, retail salespeople, bartenders, flight
+attendants, taxi drivers, waiters, and security guards are a few examples of these sorts of
+employment.
+
+2.3.3 Unskilled Labor
+
+An employee who does simple tasks that require little to no autonomous judgment or prior
+expertise is considered to be unskilled, however familiarity with the workplace environment is
+still important (Paycheck.in, n.d.). Thus, in addition to physical effort, his job may also call for
+expertise with a variety of products or publications. As clarified by Labour for hire (Labor4hire,
+n.d.), By no means does the term "unskilled labour" imply that the worker is not required to have
+any abilities. Simply said, it indicates that the person lacks any official or specialized education
+or training experience in a given field. The labour economy is heavily dependent on unskilled
+workers. Unskilled employees, such as those who work as janitors, fast food workers, maids,
+furniture movers, etc., are able to learn on the job, usually with some physically involved.
+According to research from the Bureau of Labour Statistics and the U.S. Department of Labour
+(labor, 2022), the growth in job possibilities for unskilled and low-skilled labour is expected to
+be the greatest between 2014 and 2024.
+
+
+
+
+                                                                                          19 | P a g e
+2.4 LABOUR MIGRATION
+
+The literature on labour migration has focused on various aspects of the topic, including the
+motivations for migration, the economic and social impacts of migration, and the challenges
+faced by migrants and host communities. One of the key motivations for labour migration is the
+pursuit of economic opportunities. According to a study by the International Labour
+Organization (ILO, 2019), economic factors are the primary drivers of international migration,
+with many individuals migrating to take advantage of better employment prospects and higher
+wages in host countries. Research has also shown that labour migration can lead to increased
+economic opportunities for migrants and their families, as well as for host communities through
+the inflow of remittances and the development of new industries (ILO, 2019); (Massey, 1990).
+However, the literature also highlights the negative impacts of labour migration, including the
+exploitation of vulnerable workers and the disruption of social and cultural norms in host
+communities. Studies have shown that migrant workers are often subject to poor working
+conditions and low wages, and are vulnerable to abuse and exploitation (ILO, 2017);
+(Gammeltoft-Hansen, 2015). Moreover, the literature also highlights the challenges that host
+communities face in terms of integration and the potential for social and cultural upheaval (Stark,
+1991).
+
+In recent years, there has been growing concern about the human rights of migrant workers and
+the need for greater protection. The literature calls for implementing fair labour standards and
+strengthening regulations to prevent human trafficking and forced labour (ILO, 2019). Moreover,
+the literature suggests that the integration of migrants in host communities through the provision
+of education and skills training, and the facilitation of social and civic integration can lead to
+more harmonious and inclusive societies (Castles S. and Miller, 2009).
+
+2.5 LABOUR MIGRATION IN GCC COUNTRIES
+
+The Gulf Cooperation Council (GCC) countries, comprising Bahrain, Kuwait, Oman, Qatar,
+Saudi Arabia, and the United Arab Emirates (UAE), have experienced significant labour
+migration in recent years. The rapid economic growth and development in the region, as well as
+the shortage of skilled and unskilled labour in the local workforce, are the main drivers of labour
+migration to GCC countries (Al-Tamimi, 2017). However, the large number of migrant workers
+
+
+                                                                                       20 | P a g e
+has also led to several challenges, such as wage stagnation, unemployment among locals, and a
+lack of legal protections and rights for migrant workers (Organization, Labour migration in the
+Gulf Cooperation Council countries., 2017). This thesis aims to examine the impact of labour
+migration on GCC countries and the challenges faced by migrant workers in these countries. The
+high demand for labour in the construction, manufacturing, and service sectors is one of the main
+factors driving labour migration to GCC countries (Al-Rasheed, 2015). The ongoing construction
+of infrastructure projects, such as airports, highways, and housing developments, has led to a
+high demand for construction workers. Additionally, the growth of the manufacturing and
+service sectors has resulted in a shortage of skilled and unskilled labour in these areas. The
+impact of labour migration on GCC countries has been mixed. On the one hand, the influx of
+migrant workers has helped to meet the high demand for labour and has contributed to the
+economic growth and development of the region (Al-Tamimi, 2017). On the other hand, the
+large number of migrant workers has also led to issues such as wage stagnation, unemployment
+among locals, and increased competition for housing and other resources (Organization, 2017).
+One of the biggest challenges faced by migrant workers in GCC countries is the lack of legal
+protections and rights (ILO, 2017). Many migrant workers are not covered by labour laws and
+are not entitled to the same rights and benefits as local workers. This has led to issues such as
+poor working conditions, low wages, and a lack of job security. Additionally, migrant workers
+often face discrimination and mistreatment by employers, which can lead to physical and
+psychological abuse.
+
+2.6 SOUTH ASIAN LABOUR MIGRATION IN GCC COUNTRIES
+
+One of the main drivers of South Asian labour migration to GCC countries is the high demand
+for low-skilled and semi-skilled labour in these countries, particularly in the construction and
+domestic sectors (Al-Ali & Koser, 2001). This demand is driven by the rapid economic
+development and population growth in GCC countries, as well as the desire to reduce
+dependence on national labour (Al-Ali & Koser, 2001). A study by the International Labour
+Organization (ILO) found that the majority of South Asian migrant workers in GCC countries
+are employed in low-skilled and semi-skilled jobs such as construction, domestic work, and
+manual labour (ILO, 2016). These jobs often offer low wages and poor working conditions, and
+the migrants are often not protected by labour laws or social protections (ILO, 2016).
+
+
+                                                                                         21 | P a g e
+Another study found that South Asian migrant workers in GCC countries often face
+discrimination, both in terms of access to employment and treatment on the job. This
+discrimination is often based on race, ethnicity, and national origin, and can limit the migrants'
+ability to improve their economic situation or integrate into their host society. On the receiving
+end, GCC countries have a high demand for low-skilled and semi-skilled labour due to their
+rapidly expanding economies and construction booms. This demand is met by importing large
+numbers of workers from South Asian countries, who are willing to work for low wages and in
+difficult conditions. This migration is driven by a combination of push factors in the sending
+countries, such as poverty and unemployment, and pull factors in the receiving countries, such as
+high demand for low-skilled and semi-skilled labour. The resulting influx of South Asian
+workers has had a significant impact on both the sending and receiving countries, as well as on
+the migrants themselves. One of the main push factors for South Asian labour migration to GCC
+countries is poverty and unemployment in the sending countries. In particular, countries such as
+Bangladesh, India, and Pakistan have large populations of underemployed or unemployed
+workers who are eager to find work abroad. Additionally, the lack of opportunities for economic
+advancement in the sending countries can make migration an attractive option for many workers.
+This migration is also driven by push factors in the sending countries, such as poverty,
+unemployment, and lack of economic opportunities (Al-Ali & Koser, 2001). Migrants are often
+motivated by the desire to improve their standard of living and provide for their families back
+home (Al-Ali & Koser, 2001).
+
+However, the migration of South Asian labour to GCC countries is not without its challenges.
+Migrants often face poor working and living conditions, discrimination, and a lack of legal
+protections (Al-Ali & Koser, 2001). They are also often subject to abuse and exploitation by
+their employers (Al-Ali & Koser, 2001). Additionally, South Asian migrant workers in GCC
+countries are often denied basic rights such as the right to form trade unions, the right to strike
+and the right to collective bargaining. This makes it difficult for them to assert their rights or
+seek justice in case of abuse. Furthermore, the lack of legal protections for migrant workers in
+GCC countries can make it difficult for them to assert their rights or seek justice in case of abuse
+(ILO, 2016). The study found that many migrant workers are unable to access legal remedies for
+workplace abuses, and are also often denied the right to form trade unions or engage in collective
+bargaining (ILO, 2016). Despite these challenges, South Asian labour migration to GCC
+
+
+                                                                                        22 | P a g e
+countries continues to be an important source of income for many workers and their families in
+the sending countries. It also contributes to the development of GCC countries, as migrant
+workers help to fuel economic growth and fill labour shortages in key sectors.
+
+Despite these challenges, South Asian labour migration to GCC countries continues to be an
+important source of income for many workers and their families in the sending countries. It also
+contributes to the development of GCC countries, as migrant workers help to fuel economic
+growth and fill labour shortages in key sectors (Al-Ali & Koser, 2001).
+
+2.7 LABOUR MIGRATION IN GCC COUNTRIES FROM BANGLADESH
+
+Bangladesh is one of the world's most densely populated countries and has a large population of
+young, unemployed individuals. As a result, labour migration has become an important source of
+income for many Bangladeshi families. According to the data of the Bureau of Manpower,
+Employment and Training (BMET), Saudi Arabia, the United Arab Emirates (UAE), Oman,
+Kuwait, Qatar, and Bahrain are the major destinations for Bangladeshi workers in the GCC
+(Alam, 2018). Bangladeshi labour migration to Gulf Cooperation Council (GCC) countries has a
+long and complex history. The first recorded instances of Bangladeshi migrant workers in the
+GCC can be traced back to the 1970s, when a small number of individuals were recruited to
+work in the oil-rich countries of the Arabian Peninsula (Ahmed N. , 2018). However, it was not
+until the 1980s that large-scale labour migration from Bangladesh to the GCC began to take
+place (Ahmed N. , 2018).
+
+One of the primary drivers of this trend was the oil boom of the 1970s and 1980s, which led to a
+significant increase in demand for low-skilled labour in the GCC countries (Ahmed S. , 2015).
+This created an opportunity for poor, rural Bangladeshi workers to find employment abroad and
+earn much higher wages than they could at home (Ahmed S. , 2015). Additionally, the
+Bangladesh government actively encouraged labour migration as a way to reduce unemployment
+and improve the country's balance of payments (Ahmed S. , 2015). In recent years, a significant
+number of Bangladeshi workers have been migrating to the Gulf Cooperation Council (GCC)
+countries, including Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates
+(UAE) (Khan A. , 2017). The GCC countries have been experiencing a labour shortage due to
+their rapidly growing economies and have been actively recruiting workers from other countries
+
+
+                                                                                    23 | P a g e
+to fill this gap. In particular, the construction and domestic service sectors have been the main
+recipients of Bangladeshi workers in the GCC countries (Khan A. , 2017). The literature on
+Bangladeshi labour migration in GCC countries has focused on various aspects of the topic,
+including the motivations for migration, the economic and social impacts of migration, and the
+challenges faced by migrants and host communities.
+
+One of the key motivations for Bangladeshi labour migration to GCC countries is the pursuit of
+economic opportunities. According to a study by the International Labour Organization (ILO,
+2019), economic factors are the primary drivers of international migration, with many
+individuals migrating to take advantage of better employment prospects and higher wages in host
+countries. Research has also shown that labour migration can lead to increased economic
+opportunities for migrants and their families, as well as for host communities through the inflow
+of remittances and the development of new industries (Massey, 1990). Moreover, the NewAge
+Business (2022) reported that remittance inflow from GCC countries to Bangladesh has been
+steadily increasing over the past decade, reaching a peak of $22.07 billion in 2021, making it a
+significant source of foreign currency for the country.
+
+According to a study by the International Labour Organization (ILO) (Khan M. R., 2018), the
+number of Bangladeshi workers in GCC countries has grown significantly over the past four
+decades, reaching an estimated 2.2 million in 2017. The majority of Bangladeshi migrant
+workers in the GCC are employed in low-skilled, low-paying jobs such as construction, domestic
+work, and manual labour (Ahmed S. , 2015). According to the data of the Bureau of Manpower,
+Employment and Training (BMET), Saudi Arabia, the United Arab Emirates (UAE), Oman,
+Kuwait, Qatar, and Bahrain are the major destinations for Bangladeshi workers in the GCC
+(Alam, 2018). Despite the challenging conditions they often face, these workers continue to be
+attracted to the GCC countries by the promise of higher wages and the opportunity to support
+their families back home (Ahmed S. , 2015).
+
+However, the migration of Bangladeshi workers to the GCC countries also has negative
+consequences for the country. The loss of skilled and unskilled labour has resulted in a shortage
+of workers in certain sectors of the economy, such as agriculture and manufacturing (Khan A. ,
+2017). Additionally, the migration of young male has resulted in a gender imbalance in certain
+areas of the country, with many villages and towns having a disproportionate number of women
+
+
+                                                                                     24 | P a g e
+and children (Khan A. , 2017). The migration of Bangladeshi workers to the GCC countries also
+has significant social and cultural impacts. Many of the migrants are low-skilled and poorly
+educated, and they often face discrimination and abuse in the host countries (Khan A. , 2017).
+Additionally, the prolonged separation from their families can have negative psychological
+effects on the migrants, and the cultural differences between the host countries and Bangladesh
+can also lead to feelings of alienation and isolation (Khan A. , 2017). Studies have shown that
+Bangladeshi migrant workers in GCC countries are often subject to poor working conditions and
+low wages, and are vulnerable to abuse and exploitation (Gammeltoft-Hansen, 2015). Moreover,
+the literature also highlights the challenges that host communities face in terms of integration and
+the potential for social and cultural upheaval (Stark, 1991). Additionally, in recent years, there
+has been growing concern about the human rights of Bangladeshi migrant workers in GCC
+countries and the need for greater protections. One of the most talked about systems used to
+abuse migrant workers in GCC countries is ‘Kafala’. The Kafala system, also known as
+sponsorship, is a system of labour regulation used in the Gulf Cooperation Council (GCC)
+countries, including Saudi Arabia, the United Arab Emirates, Qatar, Bahrain, Kuwait, and Oman.
+The Kafala system requires foreign workers to be sponsored by a local employer in order to enter
+and work in the country, and it places significant restrictions on their freedom of movement and
+ability to change employers. This system has been criticized for violating the rights of migrant
+workers, including Bangladeshi workers, who make up a significant proportion of the labour
+force in the GCC countries (Mishra & Al-Naser, 2020). The Kafala system has been linked to a
+range of human rights abuses, including forced labour, exploitation, and abuse at the hands of
+employers (Al-Dosari, 2019). Bangladeshi workers in the GCC countries are particularly
+vulnerable to exploitation and abuse under the Kafala system, due to their status as low-skilled
+workers and their limited legal protections (Al-Rashid & Al-Tawfiq, 2020). There have been
+numerous reports of Bangladeshi workers being subjected to low wages, poor working
+conditions, and restrictions on their freedom of movement (Al-Sayed, 2018). The literature calls
+for the implementation of fair labour standards and the strengthening of regulations to prevent
+human trafficking and forced labour (ILO, 2019). Moreover, the literature suggests that the
+integration of migrants in host communities through the provision of education and skills
+training, and the facilitation of social and civic integration can lead to more harmonious and
+inclusive societies (Castles S. and Miller, 2009). Despite the curing measures, the problems have
+
+
+
+                                                                                        25 | P a g e
+not disappeared after even half a century of struggles. As a matter of fact, this might only
+represent the start of several other problems that may arise in the migrant labours due to the
+major shift in technology that the world is witnessing. Technology is advancing, which is
+changing the career opportunities abroad. The market for less skilled labour is getting harder to
+find as a result of the rising demand for expert labour. As the GCC nations get more than 80% of
+the migrant labour from Bangladesh, it is essential to analyze trends and determine the necessary
+skill upgrades in accordance with the needs of the host country in order to compete in the global
+labour market.
+
+2.8 THE NEED TO SHIFT FROM UN-SKILLED TO SEMI-SKILLED AND SEMI-
+SKILLED TO SKILLED LABOR
+
+Although the Bangladeshi government along with other concerned parties has taken several steps
+to protect the rights and welfare of its migrant workers in the GCC, the actual long-term
+solutions might lie with the labour itself. We need to transform our labours in order to truly
+ensure that they are being valued: Bangladesh needs to shift from un-skilled to semi-skilled and
+semi-skilled to skilled and high-skilled labour migration. This, for several reasons-
+
+Firstly, un-skilled workers are often subjected to lower wages, limited job opportunities, and
+poor working conditions in foreign countries (Das, 2017). This results in low income, and a lack
+of opportunities for personal and professional development, which can lead to negative impacts
+on their health and well-being.
+
+Secondly, skilled workers are in high demand in many countries, and they tend to be offered
+better wages, working conditions, and opportunities for career advancement (Hasan & Islam,
+2019). This leads to higher income, improved quality of life, and greater financial stability for
+the worker and their families.
+
+Thirdly, the migration of skilled workers can also benefit the sending country, as the remittances
+they send back can provide a significant source of income and boost economic growth (Ahmed
+M. , 2017). In addition, skilled workers can also contribute to the transfer of knowledge and
+technology, which can help to improve the competitiveness of the sending country in the global
+market (Hasan & Islam, 2019).
+
+
+
+                                                                                        26 | P a g e
+Fourthly, the government of Bangladesh has a role to play in promoting the shift from un-skilled
+to skilled labour migration. For example, the government can invest in education and skills
+training programs, and work with international organizations to promote fair treatment of
+migrant workers (Khan A. , 2020). In addition, the government can also help to create jobs and
+promote entrepreneurship through initiatives such as microfinance programs (Hossain, 2020).
+
+In conclusion, shifting from un-skilled to semi-skilled and semi-skilled to skilled and high-
+skilled labour migration is important for improving the quality of life and financial stability of
+workers, boosting economic growth, and promoting fair treatment of migrant workers.
+
+
+
+
+                                                                                      27 | P a g e
+                                     CHAPTER 03: METHODS
+
+3.1 RESEARCH DESIGN
+
+This study used a mixed research philosophy which falls under both positivism and
+interpretivism from epistemological perspective where both qualitative and quantitative data
+have been used. Since the concepts are still unexplored there was much room for subjectivities,
+explanations, and interpretations.
+
+3.2 SAMPLING AND SAMPLE DISTRIBUTION
+
+The target population of this study constituted the labor force migrated to GCC countries, both
+who are currently residing and who recently came back. Because of the nature of the
+respondents, this study used a purposive sampling technique. The researchers reached
+respondents who are qualified, accessible and willing to provide data. Purposive sampling
+technique was used also because the distribution of the respondents is highly scattered and
+unstructured. The following table shows the sample distribution of the study.
+
+Table 01: Sample Distribution
+Category              Methods          Tools           No. of           Inclusion Criteria
+                                                       Respondents
+Labour Migrants       In depth         Semi-                  30        The labour migrants
+                      interview,       structured       (homogenous     either residing in GCC
+                      telephone        questionnaire       group)       countries or recently
+                      interview,                                        returned Bangladesh
+                      observation
+Government            Focus Group      FGD                    8         Ministry of expatriates’
+officials             Discussion       checklist                        welfare and overseas
+                      (FGD)                                             employment, Ministry
+                                                                        of Information and
+                                                                        Communication
+                                                                        Technology (ICT),
+                                                                        Ministry of Labour &
+                                                                        employment.
+Academicians and Focus Group           FGD                   10         University Professors,
+experts          Discussion            checklist                        Researchers and
+                 (FGD)                                                  trainers on labour
+                                                                        migration.
+
+Source: Prepared for current study
+
+
+                                                                                     28 | P a g e
+3.2.1 Justification of sample size
+
+Non-probabilistic purposing sampling was utilized in this qualitative study to gather data.
+However, there are no clear rules for calculating non-probabilistic sample sizes. As a result, the
+idea of "saturation" is often used to determine the sample size (Guest, Bunce, and Johnson 2006),
+which helps to ensure the validity of the results. Because it shows that no new themes or
+information have been discovered in the data from the conclusion of more cases or interviews.
+That’s why saturation has emerged as the acknowledged benchmark for determining purposeful
+sample sizes (Clive Roland Boddy, 2016). Based on methodological considerations and prior
+experience with related studies, a number of authors have given guidelines for sample size in
+qualitative research; Minimum for saturation in qualitative research is 20 to 30 (Creswell 1998,
+2002).
+
+3.3 DATA COLLECTION
+
+Both primary and secondary data have been used in this study. Additionally, this study uses both
+qualitative and quantitative data. Primary qualitative data have been collected through focus
+group discussion, in depth interview, telephone interview, and observation. Primary quantitative
+data have been collected using questionnaire developed based on the findings from qualitative
+data. Trends of the GCC labour market and Bangladeshi labour migrants have been identified
+using secondary sources like reports from different national and international organizations,
+academic articles, books, newspapers & other published materials. Two consecutive focus group
+discussions (FGDs) consists of ten academicians and experts and eight government officials, and
+has been conducted in order to explore the reasons for which Bangladeshi Labour migrants
+remain unskilled. Additionally, the measures to be taken for uplifting their skill levels have been
+explored through the same FGDs. Using the findings from the FGDs, a questionnaire was
+developed for collecting quantitative data in order to validate the qualitative data. Thirty in-depth
+interviews were conducted in this regard. All sorts of primary data were collected in January and
+February 2023. The level of significance of each of the items developed through the FGDs has
+been measured through quantitative analysis using frequency, mean, and descriptive statistics
+where a portion of data was collected using five-point Likert scale.
+
+
+
+
+                                                                                         29 | P a g e
+3.4 DATA ANALYSIS AND INTERPRETATION
+
+In order to make the data meaningful, this study has used appropriate data analytical tools and
+statistics based on data type. Along with analysis, adequate amount of interpretations has been
+stated based on understanding of the researchers and other evidences. The following table shows
+how the data have been analyzed on the basis of objectives and data types.
+
+
+Table 02: Research tools on the basis of objectives
+Objectives                                        Qualitative/ Quantitative Research Tools
+a) Current trend of labour migration from             •   Descriptive Statistics through SPSS
+Bangladesh and in GCC Countries                       •   Content analysis of secondary sources
+b) Reasons of Bangladeshi labour force                •   Thematic analysis of data collected
+remaining unskilled                                       through FGD, in depth interviews,
+                                                          telephone interviews, and observation
+                                                      •   Descriptive Statistics through SPSS
+                                                      •   Qualitative Data Analysis (QDA) tools
+c) Ways of shifting the Labour Migration              •   Thematic analysis of data collected
+                                                          through FGD, in depth interviews,
+                                                          telephone interviews, and observation
+                                                      •   Descriptive Statistics through SPSS
+                                                      •   Qualitative Data Analysis (QDA) tools
+
+
+Source: Prepared for current study
+
+3.5 DATA VISUALIZATION AND REPORT PRESENTATION
+
+Analysed data have been presented in this paper using different kinds of data visualization tools
+such as bar chart, histogram, pie chart, line graph, and other tools. The report has been prepared
+using five major chapter namely introduction, literature review, methods, analysis and findings,
+and conclusion and recommendations.
+
+
+
+
+                                                                                      30 | P a g e
+                            CHAPTER 04: ANALYSIS AND FINDINGS
+
+4.1 TRENDS OF BANGLADESHI MIGRANTS
+
+Bangladeshi labors are being migrated around the globe every year. In this section, the trend of
+Bangladeshi migrant labors has been stated from various perspectives.
+
+4.1.1 Destination of Bangladeshi Migrants in 2021
+
+Figure 01: Destination of Bangladeshi Migrants in 2021
+
+           Destination of Bangladeshi Migrants in 2021
+                                 0% 2%
+                                         0% 0%                                         KSA
+                                  5%        3%                                         UAE
+                  2%        9%
+                                                                                       Malaysia
+             0%        5%                                                              Qatar
+                                                                                       Oman
+                                                                                       Singapore
+                                                          74%
+                                                                                       Kuwait
+                                                                                       Jordan
+                                                                                       Lebanon
+                                                                                       Bahrain
+
+
+
+
+Source: Prepared based on Data from Bangladesh Economic Review 2022 (p. 31)
+
+
+The above graph shows the propensity of Bangladeshi migrants’ destination seeking behavior in
+2021. The percentage of the Kingdom of Saudi Arabia being the largest market for Bangladeshi
+migrants in 2021 is a very usual trend and that’s why the lion’s share of the population of
+Bangladesh residing abroad is in Saudi Arabia. Oman, United Arab Emirates and Singapore are
+the neat major destination countries in 2021. The number of people migrated to the Kingdom of
+Saudi Arabia in 2021 is 457227. Here the ratio of population migrated to Qatar in 2021 shows a
+very lower number (11158) though it was a gigantic number in 2019(not shown in the chart).
+The reason is the restriction imposed by the government of the country due to covid 19. But the
+clear message is that the GCC countries are the leading destination for the Bangladeshi migration
+seeking people.
+
+
+                                                                                      31 | P a g e
+4.1.2 Trend of Bangladeshi Migrant Workers by Country
+
+Figure 02: Trend of Bangladeshi Migrant Workers by Country
+
+                                 Historical Trend of Bangladeshi Migrant Workers by Country
+                        600000
+
+                        500000
+
+
+
+
+   Number of migrants
+                        400000
+
+                        300000
+
+                        200000
+
+                        100000
+
+                            0
+                                 2011     2012     2013   2014   2015   2016       2017    2018   2019      2020      2021
+                                                                    Calendar Year
+
+                                 KSA             UAE         Malaysia    Qatar            Oman           Singapore
+                                 Kuwait          Jordan      Lebanon     Bahrain          Other
+
+
+
+
+Source: Prepared based on Data from Bangladesh Economic Review 2022 (p. 31)
+
+
+The above figure shows the trend of the number of expatriate Bangladeshi workers by country
+from 2011 to 2021(the partial data from the year of 2022 is not shown in the above chart). The
+notable point in the above chart is that in the year of 2020 the number of expatriates migrated to
+all the destination countries drastically fall down due to Covid 19. The Kingdom of Saudi Arabia
+being the leading destination country for Bangladeshi Migrants since the year 2017 had also
+received more than 1.5 lac migrants in that year (2020). Oman is much consistent in receiving a
+handsome number of migrant labor from Bangladesh. Bahrain seems to be the only GCC country
+experiencing the migration of a very little number of Bangladeshi population in recent years
+(only 14 migrants in 2020 and 2021 and 878 in last four years). The countries other than the
+CGG countries receives a very little number of migrant labors relative to the GCC countries most
+probably because of the lack of exploration and requirement and less scope for less-skilled and
+unskilled labor force.
+
+
+
+
+                                                                                                                   32 | P a g e
+4.1.3 Bangladeshi Labor Migration Trend among GCC Countries
+
+Figure 03: Bangladeshi Labor Migration Trend among GCC Countries
+
+                                  Bangladeshi Labor Migration Trend among GCC Countries
+                        600000
+
+
+
+
+   Number of Migrants
+                        500000
+
+                        400000
+
+                        300000
+
+                        200000
+
+                        100000
+
+                            0
+                                 2011    2012   2013   2014   2015    2016   2017     2018   2019      2020   2021
+                                                                  Calendar Year
+
+                                        KSA      UAE      Qatar       Oman        Kuwait     Bahrain
+
+
+
+
+Source: Prepared based on Data from Bangladesh Economic Review 2022 (p. 31)
+
+
+The above figure shows a close comparison of migration to each of the GCC countries from
+2011 to 2021. Though altogether 554455 out of 617209 people were migrated to Gulf countries
+in the year of 2021 most of the expatriates were migrated to Kingdom of Saudi Arabia. Oman
+and United Arab Emirates are the following countries in term of the number of migrations. The
+number of migrations to UAE started increasing from the year of 2021 since it started falling
+down in 2016(25271 in 2015 and 8131 in 2016). The figure shows a gradual decline in migration
+to Qatar after 2015. But the notable fact in the above figure is that migration to almost all of the
+Gulf countries started rising in term of taking number of migrants after the world market srarted
+being normal after Covid 19.
+
+
+
+
+                                                                                                          33 | P a g e
+4.1.4 Comparison of Bangladeshi Labour Migration between GCC and Other Countries
+
+Figure 04: Comparison of Bangladeshi Labour Migration between GCC and Other Countries
+
+          Comparison of Bangladeshi Labour Migration between GCC and Other
+                                      Countries
+ 900000
+ 800000
+ 700000
+ 600000
+ 500000
+ 400000
+ 300000
+ 200000
+ 100000
+      0
+           2011    2012     2013   2014   2015    2016     2017   2018    2019    2020      2021
+
+                                            GCC   Others
+
+
+
+
+Source: Prepared based on Data from Bangladesh Economic Review 2022 (p. 31)
+
+
+The figure above gives a clear idea about the trend of migration of Bangladeshi migrant labors
+regarding the destination to GCC and Other countries. Historically its clear that among all of the
+years from 2011 to 2021 (even in 2022, though not shown in the figure above as the information
+for the whole year is not available) labor migration to GCC countries is much more than those of
+other countries in the rest of the world. It was much closer in the year of 2013, 2014 and 2018
+but in the year of 2021 the ratio between GCC and Other countries in term of the amount of
+migration is 11.3:100 that is the highest difference among the years between 2011 and 2021
+based on historical data.
+
+
+
+
+                                                                                         34 | P a g e
+4.1.5 Skill-wise Trend of Bangladeshi Migrant Labours
+
+Figure 05: Skill-wise Trend of Bangladeshi Migrant Labours
+
+                                         Skill-wise Trend of Bangladeshi Migrant Labours
+                        500000
+
+
+
+
+   Number of migrants
+                        400000
+
+                        300000
+
+                        200000
+
+                        100000
+
+                            0
+                                 2009   2010   2011     2012    2013   2014    2015   2016   2017    2018       2019   2020   2021
+                                                                          Calendar Year
+
+                                          Skilled and High-skilled     Semi skilled   Less-skilled and Others
+
+
+
+
+Source: Prepared based on Data from Bangladesh Economic Review 2022 (p. 30)
+
+
+The above graph shows that historically Bangladesh is a supplier of mostly unskilled and less
+skilled migrant labours. Unfortunately, this scenario is worsening as seen in the graph. Though in
+2017, Bangladesh showed notable success in exporting skilled and high-skilled migrant labours,
+the situation has bene reversed in 2021. The recent situation indicates quantitative progress
+having significant qualitative regress. Historically, Bangladesh was maintaining a moderate level
+in exporting semi-skilled labors from 2013 to 2019 but the country has experience dramatic fall
+in this category as well. This might have impact on lowering the actual remittance flow of the
+country. In this circumstance, Bangladesh should focus on upshifting the skill level of migrant
+workers. Less-skilled and unskilled migrant labours should be shifted to semi-skilled and semi-
+skilled labours should be shifted to skilled and high-skilled labours taking proper initiative in
+order to grasp the opportunity of abroad labour market especially in the GCC countries which is
+the focus point of current study.
+
+
+
+
+                                                                                                                         35 | P a g e
+4.2 TRENDS OF GCC LABOUR MARKET
+
+4.2.1 Percentage of Nationals and Non-National in GCC Countries’ Employed Populations
+(2020)
+
+Figure 06: Percentage of Nationals and Non-National in GCC Countries’ Employed Populations
+(2020)
+
+
+
+
+                      *UAE: no data disaggregated by nationality available.
+
+Source:    National    Statistical   Institutes.   Last   data   available   as   of   June      2022
+https://gulfmigration.grc.net/gcc-percentage-of-nationals-and-non-nationals-in-employed-
+population-in-gcc-countries-2020/.
+
+Though data of UAE was not found, the general trend of all other countries shows that majority
+of the employed population in GCC countries are foreign nationals. It means that GCC countries
+are highly suitable destination for the labour migrants of other countries. Bangladesh is already
+one of the countries supplying labours in GCC countries. But in order to sustain and develop the
+market, proper initiatives must be taken. Without uplifting the skill-level of the Bangladeshi
+migrant labours, this may not be possible.
+
+
+
+
+                                                                                       36 | P a g e
+4.2.2 Skill Level Wise Nature of Competition in GCC Labour Market
+
+Figure 07: Skill Level Wise Nature of Competition in GCC Labour Market
+
+
+
+
+Source: Tunon, M. (ILO), presentation at the ILO Inter-regional Forum on Skills and Migration
+in the South Asia – Middle East Corridor, New Delhi, July 2017
+
+
+Understanding the competition from strategic perspective in this era of highly competitive global
+market is mandatory. The above model shows that the GCC labour market can broadly be
+classified into two categories based on the nature of competition.
+   •   Type A: market of unskilled and less skilled labours where competition happens only
+       among the origin countries. In other words, the labours of GCC countries (destination)
+       normally do not participate this market segment which might be because of less wages,
+       and odd jobs.
+   •   Type B: Market of semi-skilled, skilled, and high-skilled labour where competition
+       happen both with the labours of destination countries and other origin countries.
+       Bangladesh needs to enter into the type B market with better and trained human capital
+       in order to get competitive advantage in the market.
+
+
+
+
+                                                                                     37 | P a g e
+4.2.3 Skill Level and Job Opportunities Available in GCC Labour Market
+
+Table 03: Skill level and job opportunities available in GCC Labour Market
+    Types of Workers                             Job opportunities Available
+
+                             Washing & Cleaning garbage and dishes in different factories,
+                             office, and restaurants, Construction Labour, Restaurant staff,
+Unskilled Worker             Food Packaging, Agriculture Warehouse, Delivery service,
+                             Storekeeper, Cleaner, Oil and Gas sector (workers), Workshop
+                             helper, and Domestic workers.
+                             Packaging job (Shrimp, Agro- food, Fruits), Lather factory,
+                             Factory Worker (Manufacturing), Garments Sector, Construction
+                             Sector, Agricultural sector(firming), Motor Repair, Metal Worker,
+                             Welder, Restaurants, Technicians, Nurse, Office Assistant,
+                             Welder, Baker, Hostess, Health-Care Sector, Driving, Mechanical,
+                             Green-house labour, Day Care centre, Retail, Electrician,
+Semi-Skilled                 Carpenter, Logistic & Supply chain, and Media & Public
+                             Relations.
+Skilled                      Driving, Crane Operator, Sanitation, Chef, Restaurant manager (if
+                             good language and communication skill), Hotel management &
+                             Tourism, Banking & Finance, Lather factory, Business, Green-
+                             house labour, Garments job, All industry (Farming, IT, Industrial
+                             Production), Aviation, and Logistics, Information Technology,
+                             Construction Engineering, Education, Consulting, Language
+                             instructor, Translator, Oil and Petroleum Engineers, Legal
+                             Services, Real Estate Agent, Waste Recycling Specialist, Chemist,
+                             Database Administrator, and Accountant.
+Source: Based on existing literature and primary data collected from respondents.
+
+
+
+
+                                                                                    38 | P a g e
+4.2.4 Country Wise Distribution of Skill Requirements in GCC Countries.
+
+Table 04: Country wise distribution of skill shortage in GCC countries.
+         Country                                 Available Job                        Nature of
+                                                                                        skill
+                                                                                      shortage
+United Arab Emirates        Tourism, Finance, Real Estate, Construction                Skilled
+(Employment, 2023)          Engineers, Aviation, and Logistics.
+
+                            Retail, Healthcare, Tourism and Hospitality, Semi-Skilled
+                            Welder, Driver
+
+                            Construction Sector (Workers),                            Unskilled
+Kingdom of Bahrain          Banking and Finance, Information Technology,               Skilled
+(Expatriates, 2023)         Oil and Gas sector (Engineering), Construction             Worker
+                            and    engineering,    Hospitality    and     Tourism,
+                            Education, and Consulting.
+                            Driving, Welding, Construction and engineering,          Semi-skilled
+                            Healthcare.
+                            Oil and Gas sector workers, Construction                  Unskilled
+                            workers.
+Kingdom of Saudi Arabia     Driver, Construction Labour, Doctor, Chef,                 Skilled
+(Expatriates, 2023)         Engineers, Waste Recycling Specialist, Chemist,
+                            Database Administrator, Accountant.
+                            Electricians,    Technicians,        Nurse,     Office Semi-Skilled
+                            Assistant, Welder, Baker, Hostess.
+                            Retail shop, Delivery service, Storekeeper,               Unskilled
+                            Cleaner.
+Sultanate of Oman           Education, Healthcare, Finance and Banking,                Skilled
+(Indeed, 2023)              Information Technology, Language instructor.
+                            Hospitality and Tourism, Logistics and Supply Semi-Skilled
+                            chain, Translator.
+
+
+
+                                                                                        39 | P a g e
+                            Workshop helper, Oil and gas, construction              Unskilled
+                            worker, storekeeper.
+                            Construction, Oil and Petroleum, Engineers,              Skilled
+                            Engineers,     Teacher,      Hotel      Management,
+State of Qatar              Information Technology, Real Estate Agent.
+(Saakin, 2023)              Tourism, Health workers, Media and PR, Semi-Skilled
+                            Technician, Marketing.
+                            Domestic workers, Construction, Shopkeeper.             Unskilled
+                            Oil and Gas, Finance and Banking, Construction           Skilled
+                            and    Engineering,       Healthcare,    Information
+                            Technology,     Aviation,      Consulting,    Legal
+State of Kuwait             Services.
+(Expatriates, 2023)         Hospitality and Tourism, Oil and Gas technicians, Semi-Skilled
+                            Hostess.
+                            Construction worker, Retail and Sales, Oil and          Unskilled
+                            Gas workers.
+Source: Based on existing literature and primary data collected from respondents.
+
+
+
+
+                                                                                      40 | P a g e
+4.2.5 Training and Development Areas for Preparing Bangladeshi Migrants for GCC
+Countries’ Labour Market
+
+Table 05: Training and development areas for preparing Bangladeshi migrants for GCC
+countries’ labour market
+ Suggested training and                       Specific areas to be focused
+      development
+Washing & Cleaning           ▪   Train   individuals     on   proper   cleaning   techniques,
+garbage and dishes               including the use of cleaning agents and equipment.
+                             ▪   Emphasize the importance of hygiene, safety, and waste
+                                 management.
+                             ▪   Teach efficient time management to complete tasks
+                                 promptly.
+Construction Labour          ▪   Provide training on construction site safety, including
+                                 proper use of personal protective equipment (PPE).
+                             ▪   Teach basic construction skills like measuring, cutting,
+                                 and handling materials.
+                             ▪   Familiarize individuals with various tools and equipment
+                                 used in construction.
+Construction Sector          ▪   Teach construction-specific skills, such as carpentry,
+                                 masonry, or electrical work, depending on the individual's
+                                 role.
+                             ▪   Provide training on construction site safety regulations
+                                 and best practices.
+                             ▪   Emphasize teamwork and coordination skills.
+Food Packaging               ▪   Educate individuals on food safety regulations and proper
+                                 packaging procedures.
+                             ▪   Train in quality control measures to ensure product
+                                 integrity.
+                             ▪   Teach efficient packaging techniques to maximize
+                                 productivity.
+
+
+
+                                                                                    41 | P a g e
+Packaging job (Shrimp,   ▪   Train individuals on specific packaging requirements for
+Agro-food, Fruits)           different products.
+                         ▪   Teach quality control and inspection techniques.
+                         ▪   Educate      on     proper      labeling     and    documentation
+                             procedures.
+Lather factory           ▪   Provide training on operating machinery and equipment
+                             specific to the leather industry.
+                         ▪   Teach proper handling and storage of leather materials.
+                         ▪   Focus on quality control and finishing techniques.
+Restaurant staff         ▪   Focus on customer service skills, including effective
+                             communication and problem-solving.
+.                        ▪   Train individuals in food handling, safety, and hygiene
+                             practices.
+                         ▪   Provide knowledge about menu items, ingredients, and
+                             proper serving techniques
+Garments Sector          ▪   Educate individuals on sewing, cutting, and garment
+                             assembly techniques.
+                         ▪   Train in quality inspection and garment finishing.
+                         ▪   Provide knowledge on different fabrics, patterns, and
+                             garment construction.
+Factory Worker           ▪   Train individuals on machinery operation and assembly
+(Manufacturing)              line processes.
+                         ▪   Teach safety procedures and protocols.
+                         ▪   Provide knowledge on quality control and efficient
+                             production practices.
+
+
+Agriculture Warehouse    ▪   Provide training on proper handling, sorting, and storage
+                             of agricultural products.
+                         ▪   Teach inventory management and logistics skills.
+                         ▪   Familiarize       individuals    with      safety   protocols   and
+                             equipment used in warehouse settings.
+
+
+                                                                                       42 | P a g e
+Language Training    ▪   Country Specific training along with English Language
+                         Training, Regional based Behavioural training, Cultural
+                         integration training.
+Culinary             ▪   Provide comprehensive culinary training that covers basic
+                         cooking techniques, food safety and hygiene, menu
+                         planning, and recipe execution.
+                     ▪   Offer practical hands-on experience in a professional
+                         kitchen setting to develop cooking skills and work under
+                         pressure.
+Hotel Management     ▪   Provide training on various aspects of hotel management,
+                         including front desk operations, housekeeping, event
+                         management, and food and beverage services.
+                     ▪   Teach customer service skills, effective communication,
+                         problem-solving, and conflict resolution.
+                     ▪   Emphasize the importance of organizational skills,
+                         financial management, and leadership in hotel operations.
+Greenhouse Service   ▪   Train individuals on greenhouse operations, including
+                         plant care, irrigation systems, pest management, and
+                         environmental controls.
+                     ▪   Teach knowledge of different plant species, growth
+                         cycles, and proper cultivation techniques.
+                     ▪   Emphasize the importance of maintaining optimal
+                         conditions for plant growth and productivity.
+Aviation Sector      ▪   Offer comprehensive training programs that cover
+                         aviation regulations, safety protocols, and emergency
+                         procedures.
+                     ▪   Teach customer service skills specific to the aviation
+                         industry, including communication with passengers,
+                         conflict resolution, and cultural sensitivity.
+                     ▪   Provide practical training on aircraft operations, including
+                         aircraft handling, safety equipment usage, and cabin crew
+
+
+                                                                           43 | P a g e
+                                    duties.
+Tourism and Hospitality         ▪   Provide training on tourism industry trends, destination
+Management                          knowledge, customer service, and sales techniques.
+                                ▪   Teach event planning and management, tour guiding, and
+                                    cultural awareness.
+                                ▪   Offer practical training opportunities in tourism-related
+                                    businesses or through internships to gain hands-on
+                                    experience.
+Driving                         ▪   Offer driver training programs that cover traffic rules,
+                                    defensive driving techniques, vehicle maintenance, and
+                                    safety procedures.
+                                ▪   Include practical driving lessons to develop driving skills
+                                    and confidence on the road.
+                                ▪   Teach navigation skills and familiarity with local routes
+                                    and transportation regulations.
+Source: Based on existing literature and primary data collected from respondents.
+
+
+
+
+                                                                                     44 | P a g e
+4.3   SOCIO-DEMOGRAPHIC          PROFILE        OF   THE   RESPONDENTS   AND    FGD
+PARTICIPANTS
+
+4.3.1 Socio-demographic Profile of the Respondents
+
+Table 06: Socio-demographic Profile of the Respondents
+
+
+
+                                            Particulars         Frequency Percentage
+                                20 Years and Less                   4          13.33
+                                21- 30 Years                       14          46.67
+Age (N=30)
+                                31 – 40 Years                       5          16.67
+                                41 – 50 Years                       5          16.67
+                                51 Years and Above                  2          6.67
+
+
+                                Below SSC                           9          30.00
+                                SSC and Equivalent                 10          33.33
+Education Level (N=30)          HSC and Equivalent                  6          20.00
+                                Undergraduate and Equivalent        4          13.33
+                                Graduate and Equivalent             1          3.33
+
+
+                                20 Years and Less                  13          43.33
+Age of Going Abroad (N=30)      21- 30 Years                       16          53.33
+                                31 and Above                        1          3.33
+
+
+                                Bahrain                             2          6.67
+                                Kuwait                              4          13.33
+                                Oman                                8          26.67
+Country Migrated to (N=30)
+                                Qatar                               4          13.33
+                                Saudi Arabia                        8          26.67
+                                UAE                                 4          13.33
+
+
+Job Sector (N=30)               Construction                       13          43.33
+
+
+
+                                                                         45 | P a g e
+                                   Hotel and Restaurant                       6           20.00
+                                   Shop and Commercial                        5           16.67
+                                   Agriculture                                3           10.00
+                                   Driving                                    2            6.67
+                                   Garments                                   1            3.33
+
+
+                                   Less than 1 Year                           7           23.33
+                                   Between 1 - 5 Years                        13          43.33
+Length of Service (N=30)
+                                   Between 6-10 Years                         6           20.00
+                                   11 Years and Above                         4           13.33
+
+
+                                   50000 and Less                             2            6.67
+                                   51000 to 100000                            10          33.33
+Income Level (in BDT) (N=30)       101000 to 150000                           12          40.00
+                                   151000 to 200000                           5           16.67
+                                   201000 and Above                           1            3.33
+
+
+Source: Field Study 2023
+
+4.3.1.1. Age of the Respondents
+
+The above table shows that there are migrant labours of almost all age level in GCC countries.
+However, among the respondents, majority are aged between 21 to 30 Years (46.67%). Which
+may also indicate that young people are more likely to choose employment abroad. This is well
+known that young people are comparatively more ready to learn. Using this opportunity,
+Bangladesh can take the chance of developing human capital through skill-based training and
+development.
+
+4.3.1.2. Education Level
+
+The education level data shows that majority of the migrant labours have SSC and Equivalent
+(33.33%). This may indicate that significant portion of the Bangladeshi labour migrants have
+standard level of theoretical educational background in order to receive language and other skill-
+
+
+                                                                                      46 | P a g e
+based trainings. The table also shows that a certain portion of the migrant labours have bachelor
+and master’s degrees. This may indicate that Bangladesh can plan for exporting high-skilled
+professional in GCC countries. This can also be generalized that irrespective of educational
+backgrounds, Bangladeshi labors are interested in overseas employment in GCC countries.
+
+4.3.1.3. Age of Going Abroad
+
+Among the respondents, most of the migrant labors went to GCC countries for employment
+during their youth. Almost 97% of the respondents went abroad within 30 years of age. Data also
+shows that a significant portion even went abroad before reaching there 20.
+
+4.3.1.4. Country Migrated to
+
+In the current study, there are respondents from six GCC countries which are Bahrain (6.67%),
+Kuwait (13.33%), Oman (26.67%), Qatar (13.33%), Saudi Arabia (26.67%), and UAE (13.33%).
+This may indicate that Bangladesh has overseas employment opportunities in almost all of the
+GCC countries.
+
+4.3.1.5. Job Sector
+
+The table shows that the respondents of the current study are from various job sectors like
+Construction (43.33%), Hotel and Restaurant (20.00%), Shop and Commercial (16.67%),
+Agriculture (10.00%), Driving (6.67%), and Garments (3.33%). This may indicate that
+Bangladeshi migrant labours are working in diversified sectors.
+
+4.3.1.6. Length of Service
+
+The table shows that the respondents are working in GCC countries for significantly long period
+of time. For instance, more than 43% of the respondents are working for more 6 years. It may
+indicate that the overall working environment for the Bangladeshi migrant labours is favorable.
+
+4.3.1.7. Income Level
+
+This section is one of the most insightful section that shows the income level of the Bangladeshi
+migrant labours in GCC countries. Data shows that income of more than 60% of the respondents
+
+
+
+                                                                                      47 | P a g e
+is more 1,00,000 BDT. This indicates that the general income level of the Bangladeshi migrant
+labours in GCC countries is quite attractive.
+4.3.2 Participants of the Focus Group Discussion (Academicians and Experts)
+Table 07: Participants of the Focus Group Discussion (Academicians and Experts)
+  Participant No.               Gender                 Age                    Educational
+                                                                            Qualification
+          01                      Male                  32                     Master’s
+          02                    Female                  35                     Master’s
+          03                      Male                  40                     Master’s
+          04                      Male                  48                       PhD
+          05                      Male                  39                       PhD
+          06                      Male                  30                     Master’s
+          07                      Male                  33                     Bachelor
+          08                    Female                  37                     Master’s
+          09                      Male                  40                     Master’s
+          10                      Male                  42                       PhD
+
+
+Source: Field Study 2023 (Date: January 02, 2023).
+4.3.3 Participants of the Focus Group Discussion (Government Officials)
+Table 08: Participants of the Focus Group Discussion (Government Officials)
+Participant No.          Gender                 Age                   Educational
+                                                                      Qualification
+          01                    Female                  40                     Master’s
+          02                      Male                  37                     Master’s
+          03                      Male                  29                     Master’s
+          04                      Male                  32                     Bachelor
+          05                    Female                  41                     Bachelor
+          06                    Female                  37                     Master’s
+          07                      Male                  34                     Bachelor
+          08                      Male                  38                     Master’s
+Source: Field Study 2023 (Date: January 05, 2023).
+
+
+                                                                                    48 | P a g e
+4.4 THE REASONS FOR WHICH BANGLADESHI MINGRANT LABOURS REMAIN
+UNSKILLED
+
+4.4.1 Exploration of the Reasons through Qualitative Data Analysis
+
+Qualitative data have been collected through Focus Group Discussions (FGDs) mentioned in the
+methods chapter. Participants were asked to tell the reasons for which Bangladeshi migrant labor
+remain unskilled. Based on their responses and discussion, the following reasons have been
+explored which are responsible for keeping the Bangladeshi migrant labors unskilled.
+
+   a. Most of the people have lack of awareness about the importance of acquiring new skills
+   b. The existing training capacity is not utilized properly
+   c. Skill mismatch between the market demand of Bangladesh and that of GCC countries
+   d. The existing training centers are not upgraded periodically
+   e. There is insufficient attempt in creating and updating the training manuals or curriculum
+       by developing and incorporating new materials
+   f. The existing strategy is not implemented well for the national skill standard
+   g. The inadequacy of infrastructure and delivery planning at district- and upazilla-level
+       institutes
+   h. There is inadequate capacity among relevant agencies (including key ministries and
+       government agencies).
+   i. There is lack of an integrated and regularly updated database (the present database
+       currently being fragmented and out of date)
+   j. Authority has inadequate linkages with overseas industries and the labor market
+   k. People living in rural areas are not well-informed about the running training centers
+
+FGD participants stressed on some points like lack of awareness among migrant labours and
+general citizens, failure of training providers, lack of collaboration, and lack of information
+which are responsible for keeping the Bangladeshi migrant labours unskilled. They proposed that
+awareness program led by government agencies can develop the situation.
+The following statement from the FGD respondents no. 03 is notable here-
+       “Growing awareness among the people through proper initiatives could develop the
+       scenario. All we need is making the up to date employment related information to the
+
+
+                                                                                       49 | P a g e
+       people of Bangladesh so that they become encouraged and engaged in the migration
+       process.”
+They also stated that in fact the current scenario is much better than previous times. However,
+they believe that the situation could be more improved with the help of stakeholders engaged in
+developing human capital.
+FGD participant 06 stated the following-
+       “Our capacity for upgrading skill level of migrant labours is much better now. But this
+       situation could be more improved if Bangladesh could ensure collaborative efforts and
+       regular monitoring of the skill development programs. Moreover, since we have huge
+       unskilled labours, we should increase number of training centers and programs. People
+       are now ready to get the benefits of being skilled. We need proper public policy for
+       guiding migrant labours in developing their skill levels. Awareness towards upgrading
+       the skill level is another issue to be addressed as soon as possible.”
+4.4.2 Mean of the Reasons for Which Bangladeshi Migrant Labours Remain Unskilled
+
+Table 09: Mean of the Reasons for Which Bangladeshi Migrant Labours Remain Unskilled
+ Statement                                 Statement                            Mean score out of
+     no.                                    (N=30)                                     5
+                Most of the people have lack of awareness about the
+                                                                                      3.50
+      1         importance of acquiring new skills.
+      2         The existing training capacity is not utilized properly.              3.67
+                Skill mismatch between the market demand of
+                                                                                      3.80
+      3         Bangladesh and that of GCC countries.
+                The existing training centers are not upgraded
+                                                                                      4.03
+      4         periodically.
+                There is insufficient attempt in creating and updating the
+                training manuals or curriculum by developing and                      4.10
+      5         incorporating new materials.
+                The existing strategy is not implemented well for the
+                                                                                      3.77
+      6         national skill standard.
+
+
+
+
+                                                                                       50 | P a g e
+                The inadequacy of infrastructure and delivery planning at
+                district- and upazilla-level institutes is liable for            4.23
+      7         Bangladeshi labor force remaining unskilled.
+                There is inadequate capacity among relevant agencies
+                                                                                 3.90
+      8         (including key ministries and government agencies).
+                There is lack of an integrated and regularly updated
+                database (the present database currently being                   4.03
+      9         fragmented and out of date).
+                Authority has inadequate linkages with overseas
+                                                                                 4.00
+      10        industries and the labor market.
+                People living in rural areas are not well-informed about
+                                                                                 4.00
+      11        the running training centers.
+
+
+Source: Field Study 2023
+
+4.5 MEASURES NEEDED FOR BANGLADESH TO SHIFT FROM UNSKILLED TO
+SEMI-SKILLED LABOURS
+
+4.5.1 Measures Developed through Qualitative Data Analysis
+
+The FGD participants were asked about the measures to be taken by Bangladesh for shifting the
+unskilled labours to semi-skilled. According to the responses from the FGD participants, the
+following measures have been explored which are expected to help developing the skill level
+from unskilled to semi-skilled.
+
+   a. Pre-departure training/ Common behavioral training to cope up with the host country
+       culture at free cost and through video content
+   b. Training from vocational institutions
+   c. Foreign language training institutions
+   d. Training from technical institutions
+   e. Training of women for working abroad
+   f. Short courses offered by ministry of expatriate welfare and overseas employment and
+       other private centers
+
+
+                                                                                 51 | P a g e
+   g. Easy access to online video tutorials about the desired task abroad
+   h. Expanding the service of technical and vocational training institutions in economically
+       lagging regions
+   i. Diploma courses offered by ministry of expatriate welfare and overseas employment
+   j. Private foreign language coaching centers
+   k. Accredited training centers operated by private recruitment agencies licensed under
+       relevant ministry
+   l. Video content about language of the desired countries’ language
+
+Almost all of the participants agreed upon a point that Bangladesh should focus on exporting
+semi-skilled and skilled manpower in GCC countries which is only possible through developing
+our human capital. A significant portion of the participants identified language as a highly
+valuable skill to be provided to the unskilled labors.
+
+Regarding the importance of foreign language training one of the academicians (FGD
+participant) says-
+
+       “We have foreign language centers. But yet the young generations tend to have low level
+       of interests on the courses. MoEWOE can collaborate with the foreign language centers
+       of public university for providing GCC country specific language and culture trainings.
+       Using the existing infrastructure will be significantly cost effective.”
+
+They also believe that mostly TVET institutes and responsible government agencies should come
+forward in this regard and they should work together in achieving the mission of upgrading
+unskilled labors. They further stated that semi-skilled labors have great demand in GCC
+countries. Considering this circumstance, it is needful for Bangladesh to offer training courses,
+certificate programs, online materials and other supports mentioned above.
+
+A highly relevant statement from one of the FGD participants has been stated here-
+
+       “Upgrading unskilled labors to semi-skilled is not that much challenging. Everything we
+       need now is a positive attitude and visible efforts through partnership among the parties
+       like labours, government agencies, TVET institutes and so on.”
+
+
+
+
+                                                                                     52 | P a g e
+4.5.2 Frequency Distribution of the Perception of the Respondents
+
+Figure 08: Perception of the respondents regarding measures to be taken for shifting unskilled to
+semi-skilled labour
+
+               Perception of the respondents regarding measures to be taken for shifting
+                                    unskilled to semi-skilled labour
+
+    Video content about language of the desired countries’
+                          language
+
+         Accredited training centers operated by private
+      recruitment agencies licensed under relevant ministry
+
+                 Private foreign language coaching centers.
+
+  Diploma courses offered by ministry of expatriate welfare
+                and overseas employment.
+
+  Expanding the service of technical and vocational training
+        institutions in economically lagging regions.
+
+ Easy access to online video tutorials about the desired task
+                           abroad.
+
+ Short courses offered by ministry of expatriate welfare and
+      overseas employment and other private center.
+
+                     Training of women for working abroad
+
+
+                        Training from technical institutions.
+
+
+                       Foreign language training institutions
+
+
+                        Training from vocational institutions
+
+    Pre-departure training/ Common behavioral training to
+    cope up with the host country culture at free cost and…
+
+                                                                0   5   10   15   20   25   30     35
+
+
+
+Source: Field Study 2023
+From the above figure it has been found that almost all of the measures suggested by the FGD
+participants are effective as per the perceptions of the respondents.
+
+
+
+
+                                                                                            53 | P a g e
+4.6 MEASURES NEEDED FOR BANGLADESH TO SHIFT FROM SEMI-SKILLED TO
+SKILLED AND HIGH-SKILLED LABOURS
+
+4.6.1 Measures Developed through Qualitative Data Analysis
+
+Finally, the FGD participants were asked to suggest measure to be taken for shifting the semi-
+skilled labours to skilled and high-skilled. Following measures have been identified based on the
+responses from the FGD participants.
+
+   a. Specific Skill-based Course Offered by Polytechnic Institutes
+   b. Introducing More Certificate Programs by TVET Institutes
+   c. Obtaining Accreditation of Certificates from Host Countries
+   d. Designing Course Curriculum of Training Programs Based on Demand of Recruiting
+       Agencies
+   e. Arranging Training Programs by Bangladesh Government in Abroad
+   f. Introducing Panel Test by Bangladesh Govt. for Developing Database of Skilled Labours
+   g. Skill-based Short Courses Offered by Universities
+
+The most common ground of discussion was that Bangladesh should now focus on offering
+highly skilled based certificate programs rather than traditional general training programs.
+Majority of the participants argue that the certificate programs should be provided by highly
+skilled and professional trainers and institutes. They also suggested that the certificate or training
+programs should be designed as per the demand of the labour market and recruiting agencies of
+GCC countries. In this regard, they also suggested to collected skill requisition from the
+employers and recruiters GCC countries. The following comment from FGD participant 5 is
+highly relevant here-
+
+       “We should not only focus on upgrading skill level without understanding the demand of
+       the employers and recruiter, rather we should now engage the recruiting agencies and
+       employers in the certification program through their accreditation. This is how we can
+       create value and acceptance of our certification abroad which will lead to higher
+       payment.”
+
+
+
+
+                                                                                         54 | P a g e
+4.6.2 Frequency Distribution of the Perception of the Respondents
+
+Figure 09: Perception of the respondents regarding measures to be taken for shifting semi-
+skilled labors to skilled and high-skilled labors
+
+
+
+             Perception of the respondents regarding measures to be taken for shifting semi-
+                            skilled labours to skilled and high-skilled labours
+
+
+             Skill-based Short Courses Offered by Universities
+
+
+   Introducing Panel Test by Bangladesh Govt. for Developing
+                  Database of Skilled Labours
+
+   Arranging Training Programs by Bangladesh Government in
+                            Abroad
+
+ Designing Course Curriculumn of Training Programs Based on
+               Demand of Recruiting Agencies
+
+
+   Obtaining Accrediation of Certificates from Host Countries
+
+
+
+    Introducing More Certificate Programs by TVET Institutes
+
+
+
+  Specific Skill-based Course Offered by Polytechnic Institutes
+
+
+                                                                  0   5   10   15   20   25      30     35
+
+
+
+Source: Field Study 2023
+
+From the above figure, it can be concluded that almost all of the measures are needful. However,
+the idea of arranging training for migrant labors in abroad by Bangladesh government received
+highest value as per the perception of the respondents. The second position is held to be the idea
+of introducing specific skill-based training by the polytechnic institutes. Apart from these, it can
+be said that all of the measures have moderate to high level of importance as per the perception
+of the respondents.
+
+
+
+
+                                                                                              55 | P a g e
+               CHAPTER 05: CONCLUSIONS AND RECOMMENDATIONS
+
+5.1 CONCLUSIONS
+
+General trends of the labor markets of the GCC countries show that there is huge prospect for
+Bangladesh to export semi-skilled, skilled and high-skilled labors. In fact, data shows that GCC
+countries are highly suitable destination for Bangladesh labor migrants as shown in the trend of
+Bangladeshi labor migrants. But unfortunately, the competition is expected to be higher. On the
+other hand, the preparation of Bangladesh for exporting semi-skilled, skilled, and high-skilled
+labors is not notable. Bangladesh has already done tremendous development in different kinds of
+socio-economic indicators; thus, this is high time for Bangladesh to get ready to enter into the
+competition of skill and merit-based labor market rather than only of unskilled migrant labors.
+The recent trend of Bangladesh’s migrant labors’ skill is highly dissatisfactory. The situation is
+even worsening. Bangladesh as a growing nation must come out of this phenomenon. This is
+high time Bangladesh focused on human capital development for shifting the migrant labors
+from unskilled to semi-skilled, semi-skilled to skilled and high-skilled.
+In this circumstance, this study has identified some factors like lack of awareness, lack of proper
+training, lack of cooperation and collaboration among the stakeholders, and so on which are
+mostly responsible for keeping the Bangladeshi migrant labors unskilled. Proper actions has been
+suggested in this research paper which are offering more skill-based training and certificate
+programs with the collaboration of TVET institutions, polytechnics, and universities.
+Accreditation of training is another important issue to be address. Apart from these, Bangladesh
+should maintain liaison and partnership with the recruiting agencies, government bodies, and
+employers of the GCC countries. Bangladesh should also track the GCC labor market regularly
+to take evidence-based decision and stay competitive in their labor market.
+
+
+
+
+                                                                                       56 | P a g e
+                            5.2 POLICY RECOMMENDATIONS
+
+In order to assist the policy makers, this study offers the following specific policy
+recommendations. By implanting the following recommendations, Bangladesh can sustain and
+develop the labor market in the GCC countries which will have significant contribution to the
+economy of the country. The case of India is highly relevant here. Statistics shows that India has
+done notable success in increasing the number of skilled migrants in GCC countries. Instead of
+unskilled and semi-skilled blue-collar workers, India is now exporting skilled professional
+especially in the healthcare sector of GCC countries (Calabrese, 2020; Government of India,
+2018). It has become possible due to skill development of targeted human resources. Following
+similar example, Bangladesh can also grasp the market of white-collar labor migrants in GCC
+countries.
+   ▪   Collect sector-wise job opening data and identify necessary skills for getting the
+       employment opportunity
+   ▪   Establish and maintain liaison and partnership with government agencies of GCC
+       countries (Hasan, 2021).
+   ▪   Establish political relationship with GCC countries and maintain liaison and partnership
+       with local and foreign recruiting agencies and employers of GCC countries. Previous
+       literature also shows that recruiting agencies are the main player in labour migration from
+       Bangladesh to GCC countries (Ali, 2020; Das, 2017; Rahman, 2012)
+   ▪   Establish more technical and vocational training centers (Rahman, 2016) specialized for
+       providing training for meeting the expectation of the GCC labor markets
+   ▪   Offer more foreign language course targeting language and culture of GCC countries
+   ▪   Receive accreditation of the training programs and certifications from relevant authority
+       of GCC countries.
+   ▪   Create awareness among the young generation regarding the employment in GCC
+       countries through social media, campaign, and other methods
+   ▪   Create a skill-based nation through introducing skill-based recruitment in domestic labor
+       market (both in public and private sector) which will create willingness to achieve
+       technical skills among the young generations. In other, current generalized recruitment
+       test should be replaced by skill-based job test.
+
+
+
+                                                                                      57 | P a g e
+    ▪   Arrange training centers in GCC countries in order to shift the skill level of migrant
+        labors who are already employed there
+    ▪   Highly skilled and professional instructor must be ensured in TVET institutions,
+        polytechnic institutes, and science and technology-based universities
+    ▪   Education quality of the TVET institutions, polytechnic institutes should be improved
+        through proper management
+    ▪   Skill-based training might be provide using infrastructures and experts from existing
+        universities.
+    ▪   Provide special technical supports and/or training to the healthcare workers like nurses,
+        midwives, and medical assistants through special wings.
+For better understanding the above recommendations have been shown using the following
+model.
+
+Figure 10: Model of Policy Recommendation
+    Strategy                        Specific functions                         Parties to be involved
+
+Research and            •   Collect sector-wise job opening data           ▪     Migrant labours
+innovation              •   Action research and data analytics for real-   ▪     Researchers
+strategy                    time data                                      ▪     Academia
+                        •   Understanding the drawbacks of existing        ▪     Recruiting agencies
+                            training facilities through research
+Education and           ▪   Establish more technical and vocational        ▪     TVET institutes
+training strategy           training centers                               ▪     Training centers
+                        ▪   Establish training centers in GCC countries    ▪     Colleges
+                        ▪   Accreditation of the training programs         ▪     Universities
+                        ▪   Foreign language courses
+                        ▪   Special training for healthcare workers
+Collaboration           •   Political relationship                         •     GCC countries
+and partnership         •   Liaison and partnership                        •     Local and foreign
+strategy                                                                         recruiting agencies
+
+Support strategy        ▪   Create awareness through social media,         ▪     Migrant labours
+                            campaign, and other methods                    ▪     Celebrities
+                        ▪   Legal and social protection for migrant        ▪     Bangladesh Embassies in
+                            labours                                              GCC countries
+
+Source: Developed for current study, 2023
+
+
+
+
+                                                                                            58 | P a g e
+                                        REFERENCES
+
+Afsar, R., Yunus, M. and Islam, A.S. (2002). Are migrants chasing after the" golden Deer”? A
+    study on cost-benefit analysis of overseas migration by the Bangladeshi labour. International
+    Organization for Migration (IOM), Regional Office for South Asia.
+Ahamad, R. (2023) ‘Exporting unskilled migrants continues’, The New Age, 21 May. Available
+    at: https://www.newagebd.net/article/189307/exporting-unskilled-migrants-continues
+    (Accessed: 21 May 2023).
+Ahmed, M. (2017). The role of government in promoting skilled labour migration from
+       Bangladesh. International Journal of Migration and Development, 245-257.
+
+Ahmed, N. (2018). The Impact of Migration on Gender Relations in Bangladesh. Journal of
+       Social Issues and Humanities, 1-9.
+
+Ahmed, S. (2015). Bangladeshi labour migration to the Gulf: A historical perspective. Journal of
+       South Asian Development, 185-201.
+
+Al-Ali & Koser (2001). New Approaches to Migration? Transnational Communities and the
+    Transformation of Home. Routledge Research in Transnationalism. Routledge. United
+    Kingdom
+Alam, M. (2018). The Human Rights Situation of Migrant Workers in the GCC Countries.
+       Journal of International Affairs, 91-106.
+
+Al-Dosari, M. (2019). The Kafala system and the exploitation of migrant workers in the GCC
+       countries. International Journal of Human Rights, 273-281.
+
+Ali, M. (2020). The role of international organizations in promoting fair treatment of migrant
+       workers from Bangladesh. Journal of Human Rights and Migration, 123-138.
+
+Al-Rasheed, M. (2015). Migration and domestic work in Saudi Arabia: A gendered analysis of
+       employment policies. Journal of Arabian Studies, 175-193.
+
+Al-Rashid, A., & Al-Tawfiq, A. (2020). The vulnerability of Bangladeshi workers in the GCC
+       countries. Journal of Labour and Employment, 345-353.
+
+
+
+
+                                                                                      59 | P a g e
+Al-Sayed, A. (2018). The treatment of Bangladeshi workers in the GCC countries: Issues and
+       challenges. International Journal of Human Rights, 467-475.
+
+Al-Tamimi, N. (2017). Labour migration in the Gulf Cooperation Council countries. Journal of
+       Arabian Studies, 1-16.
+
+Atong, K., Mayah, E. and Odigie, A. (2018). Africa labour migration to the GCC states: The case
+    of Ghana, Kenya, Nigeria and Uganda. An. African Regional Organisation of the
+    International Trade Union Confederation (ITUC-AFRICA).
+Bachmann, A.-T. (2018, November 1). The Kafala System isn't Going to Abolish Itself!
+    Retrieved October 6, 2019, from url: https://www.disorient.de/blog/kafala-system-isnt-
+    going-abolish-itself
+Bangladesh Economic Review (2022). Finance Division, Ministry of Finance, Government of
+       the People's Republic of Bangladesh. https://mof.portal.gov.bd/site/page/28ba57f5-59ff-
+       4426-970a-bf014242179e/Bangladesh-Economic-Review-2022
+
+Bank, W. (2022). Migration and Development Brief 33. Retrieved from World Bank:
+       https://www.worldbank.org/en/topic/socialprotectionandjobs/publication/migration-and-
+       development-brief-33
+
+Bhugra, D. and Bhui, K. (2001). Cross-cultural psychiatry: a practical guide. London: Arnold.
+
+Boddy, C. R. (2016). Sample size for qualitative research. Qualitative Market Research: An
+    International Journal, 19(4), 426-432.
+
+Bogue, D.J. (1977). A Migrant's-Eye View of the Costs and Benefits of Migration to a
+    Metropolis. In Internal migration (pp. 167-182). Academic Press.
+Buttorff, G., Welborne, B. and al-Lawati, N. (2018). Measuring female labour force participation
+    in the GCC. Issue brief, 1.
+
+Calabrese, J. (2020). India-Gulf Migration: A Testing Time, Middle East Institute. Available at:
+     https://www.mei.edu/publications/india-gulf-migration-testing-time (Accessed: 20 May
+     2023).
+
+Castles S. and Miller, M. (2009). The Age of Migration: International Population Movements in
+       the Modern World. . Journal of Contemporary European Research.
+
+
+
+                                                                                      60 | P a g e
+Chennells, L. and Reenen, J.V., 1999. Has technology hurt less skilled workers? An econometric
+     of the effects of technical change on the structure of pay and jobs.
+
+Chowdhury, M.R., 2009. Population challenge facing Bangladesh. CW Post Campus, New York:
+    Long Island University.
+
+Costa, D. and Martin, P. (2018). Temporary labour migration programs: Governance, migrant
+    worker rights, and recommendations for the UN global compact for migration.
+
+Creswell, John W. 1998. Qualitative Inquiry and Research Design: Choosing among Five
+     Traditions. Thousand Oaks,CA: Sage.[Online]. Accessed at< https://scholar.google.co
+     m/scholar?>. [Accessed on May 21,2023]
+
+Creswell, John W. 2002. Educational Research: Planning, Conducting, and Evaluating
+     Quantitative and Qualitative Research. Upper Saddle River, NJ: Pearson Education.
+
+Das, S. (2017). The need for greater investment in education and skills development in
+       Bangladesh. Education and Development, 45-54.
+
+De Haas, H. (2010). Migration and development: A theoretical perspective. International
+    migration review, 44(1), pp.227-264.
+De Haas, H. (2010). The internal dynamics of migration systems: A theoretical framework.
+       Journal of Ethnic and Migration Studies, 347–371.
+
+Doherty, M., Leung, B., Lorenze, K. and Wilmarth, A., 2014, December. Understanding South
+     Asian Labor Migration. In Workshop in International Public Affairs. The Robert M. La
+     Follette School of Public Affairs, University of Wisconsin–Madison.
+
+EarthEclipse's Editorial Staff. (2023). What is Migration and Types of Migration? Retrieved
+       from EarthEclipse: https://eartheclipse.com/science/geography/what-is-migration.html
+
+Employment. (2023, June 11). Jobs in UAE. Retrieved from Employment:
+     https://www.eduployment.com/jobs-in-uae-2/
+
+ESchooltoday. (2022). What are the Pull and Push factors of migration? Retrieved from
+       eSchooltoday: https://eschooltoday.com/learn/pull-and-push-factors/
+
+Esub. (2 August, 2017). Unskilled, Semi-Skilled, and Skilled Labour Defined. Retrieved from
+       Esub: https://esub.com/blog/unskilled-semi-skilled-skilled-labour-defined/
+
+
+                                                                                     61 | P a g e
+Expatriates. (2023, June 11). Expat Jobs Bahrain. Retrieved from Expatriates:
+     https://www.expatriates.com/classifieds/bahrain/jobs/
+
+Expatriates. (2023, June 11). Expat jobs in Saudi Arabia. Retrieved from Expatriates:
+     https://www.expatriates.com/classifieds/saudi-arabia/jobs/
+
+Expatriates. (2023, June 11). Expat Jobs Kuwait City. Retrieved from Expatriates:
+     https://www.expatriates.com/classifieds/kuwait-city/jobs/
+
+Gammeltoft-Hansen, T. (2015). The human rights of migrant domestic workers. International
+       Journal of Discrimination and the Law, 1-21.
+
+Government of India, Ministry of External Affairs (2018). “Population of Overseas Indians”
+       (Compiled in December, 2018). https://mea.gov.in/Images/amb1/ru2885_anxx121.pdf.
+
+Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews are enough? An experiment
+     with data saturation and variability. Field methods, 18(1), 59-82.
+
+Hasan, M. (2021). Building international relationships for fair treatment of Bangladeshi migrant
+       workers. Journal of Diplomacy and International Relations, 125-139.
+
+Hasan, M., & Islam, M. (2019). Enhancing the competitiveness of Bangladeshi workers in the
+       global market. Journal of International Business and Economics, 25-37.
+
+Hevjt. (20 August, 2017). Difference Between Internal And International Migration. Retrieved
+       from Top Differences: http://www.topdifferences.com/difference-between-internal-and-
+       international-migration/
+
+Hossain, M. (2020). Promoting entrepreneurship and job creation in Bangladesh through
+       microfinance. Journal of Microfinance and Development, 189-199.
+
+ILO (2017). Interregional consultation on labour migration and mobility from Asia/Africa to the
+       Middle East.” ILO Background Paper, 4-5 October. Accessed 15 December 2017.
+       http://www.ilo.org/wcmsp5/groups/public/---arabstates/--
+       robeirut/documents/meetingdocument/wcms_577288.pd
+
+
+
+
+                                                                                        62 | P a g e
+ILO. (2017). World employment and social outlook: Trends for women 2017. International
+       Labour Organization.
+
+ILO. (2019). World migration report 2020: Migrants and cities, new partners for sustainable
+       development. International Labour Organization.
+
+Indeed Editorial Team. (23 February, 2021). Skilled Labour: What It Is, Skilled vs. Unskilled and
+       Types of Skilled Labour Jobs. Retrieved from Indeed: https://www.indeed.com/career-
+       advice/career-development/skilled-labour
+
+Indeed. (2023, June 11). Jobs in Oman. Retrieved from Indeed:
+     https://om.indeed.com/jobs?l=Oman&from=mobRdr&utm_source=%2Fm%2F&utm_medi
+     um=redir&utm_campaign=dt&vjk=f5d393f27ce50c5a
+
+Indeed. (n.d.). Skilled, Semiskilled and Unskilled Labour Compared. Retrieved from Indeed:
+       https://www.indeed.com/hire/c/info/what-is-a-skilled-labourer-unskilled-semiskilled
+
+IOM. (2019). Glossary on migration. International Organization for Migration, 248.
+
+IOM. (2019). World Migration Report 2020: Migrants and Cities, New Partners for Sustainable
+       Development. International Organisation for Migration (IOM).
+
+Islam, M.N., 2011. Bangladesh expatriate workers and their contribution to national
+      development. Bureau of Manpower Employment and Training, The People’s Republic of
+      Bangladesh, Dhaka, Bangladesh.
+
+Jalil, M.A., Islam, M.Z. and Islam, M.A., 2020. Risks and opportunities of globalization:
+       Bangladesh perspective. Journal of Asian and African Social Science and
+       Humanities, 6(4), pp.13-22.
+
+Khan, A. (2017). Bangladeshi labour migration to the Gulf Cooperation Council countries: A
+       literature review. Journal of Asian Public Policy, 337-349.
+
+Khan, A. (2020). Strengthening labour protections for migrant workers from Bangladesh.
+       International Journal of Human Rights, 422-437.
+
+Khan, M. R. (2018). Labour migration from Bangladesh to GCC countries: A historical
+       perspective. Journal of Asian and African Studies, 456-475.
+
+
+                                                                                      63 | P a g e
+labour, D. o. (2022). Employment Projections — 2021-2031 . BLS, 1-9.
+
+Labour4hire. (n.d.). What is the Difference Between Skilled, Semi-Skilled, and Unskilled Labour?
+       Retrieved from Labour4hire: https://blog.labourforhire.com/skilled-semi-skilled-and-
+       unskilled-labour
+
+Mahr, N. (18 September, 2022). Labour Types, Importance & Examples | What is Labour in
+       Economics? Retrieved from Study: https://study.com/academy/lesson/labour-types-
+       importance-examples-economics.html
+
+Manning, A., 2004. We can work it out: the impact of technological change on the demand for
+    low‐skill workers. Scottish Journal of Political Economy, 51(5), pp.581-608.
+
+Massey, D. (1990). Social structure, household strategies, and the cumulative causation of
+       migration. Journal of Development Economics, 3-26.
+
+Mishra, P., & Al-Naser, A. (2020). The Kafala system and the rights of migrant workers in the
+       GCC countries. International Journal of Human Rights, 193-201.
+
+NewAge. (2 January, 2022). Bangladesh's remittance inflow hits record high in 2021. Retrieved
+       from NewAgeBD: https://www.newagebd.net/article/158908/bangladeshs-remittance-
+       inflow-hits-record-high-in-2021
+
+Oommen, G.Z., 2017. South Asian migration to the GCC countries: emerging trends and
+   challenges. South Asian Migration to Gulf Countries, pp.37-65.
+
+Organization, I. L. (1 December, 2017). Labour migration in the Gulf Cooperation Council
+       countries. Retrieved from ILO: https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-
+       bangkok/---sro-new_delhi/documents/publication/wcms_634982.pdf
+
+Organization, I. L. (June, 2017). Labour migration in the Gulf Cooperation Council countries.
+       Retrieved from International Labour Organization:
+       https://www.ilo.org/beirut/areasofwork/labour-migration/lang--en/index.htm
+
+Paycheck.in. (n.d.). Definition of Unskilled, Semi-skilled, Skilled & Highly Skilled Workers.
+       Retrieved from Paycheck.in: https://paycheck.in/salary/minimumwages/definition-of-
+       unskilled-semi-skilled-skilled-highly-skilled-workers
+
+
+                                                                                       64 | P a g e
+Quayam, N., 2017. Chasing the Dubai Dream in Italy: Bangladeshi Migration to Europe.
+    Migration Policy Institute, October, 5.
+Quayam, N., 2017. Chasing the Dubai Dream in Italy: Bangladeshi Migration to Europe.
+    Migration Policy Institute, October, 5.
+Radi, S., (2020) Labour Migration to the Gulf Cooperation Council Countries: The Case of low-
+    skilled and unskilled migrant workers in the UAE.
+Radi, S., Labor Migration to the Gulf Cooperation Council Countries: The Case of low-skilled
+    and unskilled migrant workers in the UAE.
+Rahman, M. (2016). The impact of skills training programs on labour migration from
+       Bangladesh. Journal of Economic and Social Research, 67-78.
+
+Rahman, M. M. (2012). Bangladeshi labour migration to the Gulf States: Patterns of recruitment
+    and processes. Canadian Journal of Development Studies/Revue canadienne d'études du
+    développement, 33(2), 214-230.
+
+Saakin. (2023, June 11). 8 Most High Demand Jobs in Qatar. Retrieved from Saakin:
+     https://www.saakin.qa/blog/8-most-high-demand-jobs-in-qatar
+
+Shah, N. M. (2012). Socio-demographic transitions among nationals of GCC countries:
+    Implications for migration and labour force trends. Migration and Development, 1(1), 138-
+    148.
+Shah, N.M. (2013). Labour migration from Asian to GCC countries: Trends, patterns and
+    policies. Middle East Law and Governance, 5(1-2), pp.36-70.
+Siddiqui, A.M.A.H. (2019). The economic and noneconomic impact of labour migration from
+    Bangladesh. In Asian Labour Migration (pp. 235-252). Routledge.
+Siddiqui, K. (2021) ‘Half of Bangladeshi migrant workers still unskilled’, The Business
+    Standard, 18 December. Available at: https://www.tbsnews.net/bangladesh/migration/half-
+    bangladeshi-migrant-workers-still-unskilled-345190 (Accessed: 05 December 2022).
+Siddiqui, T. and Abrar, C.R. (2002). Contribution of returnees: An analytical of post return
+    experience. International Organization for Migration, Regional Office for South Asia.
+
+Siddiqui, T., 2005. International labour migration from Bangladesh: A decent work
+     perspective. Policy Integration Department Working Paper, 66.
+
+
+                                                                                      65 | P a g e
+Siddiqui, T., 2016. International labor migration and remittance. In Routledge handbook of
+     contemporary Bangladesh (pp. 197-206). Routledge.
+
+Stark, O. (1991). The migration of labour. Cambridge, UK: Basil Blackwell., 1462.
+
+StudySmarter. (2022). Global Migration. Retrieved from StudySmarter:
+       https://www.studysmarter.us/explanations/geography/migration-and-identity/global-
+       migration/
+
+Tunon, M. (2017). Presentation at the ILO Inter-regional Forum on Skills and Migration in the
+     South Asia – Middle East Corridor, New Delhi.
+
+Veljanovska Blazhevska, K. (2017). Factors that influence the process of migration of youth: A
+     case study of Kosovo. Security and Defence Quarterly, 17(4), pp.48-73.
+
+
+
+
+                                                                                     66 | P a g e
+                                         APPENDICES
+
+                                           Appendix 1
+Questionnaire on The Present trend of labour migration in GCC Countries: Measures Needed for
+Bangladesh to shift from Un-skilled to Semi-skilled and Semi-skilled to Skilled and High-skilled
+Labour
+
+
+This study is designed to explore the present trend of labour migration in GCC countries:
+measures needed for Bangladesh to shift from un-skilled to semi-skilled and semi-skilled to
+skilled and high-skilled labour. The objective of the study is to explore the current trend of
+labour migration in GCC Countries, to investigate the reasons of Bangladeshi labour force for
+remaining unskilled and to suggest the ways of shifting the Labour Migration: Un-skilled to
+Semi-skilled and Semi-skilled to Skilled and High-skilled. We are requesting you to give your
+responses based on your knowledge and experience. You are free to avoid any question you feel
+make you uncomfortable. This research will never use your name in publications and follow
+research ethics to preserve your data.
+Thank you for your time and valuable comments.
+
+
+Part 1: Demographic information
+   1. Name:
+   2. Gender:                                           i) Male                  ii) Female
+   3. District:
+   4. Age
+         i) 20 Years and less ii) 21-30 iii) 31-40   iv) 41-50    v) 51 Years and above
+   5. Age of Going Abroad For Work: i) 20 years and less             ii) 21-30    iii) 31 years and
+         Above
+   6. Education level
+   •     Below SSC                                      •   Graduate and Equivalent
+   •     SSC and Equivalent                             •   Others    ---------------------------------
+   •     HSC and Equivalent
+   •     Undergraduate and Equivalent
+
+
+
+                                                                                         67 | P a g e
+Part 2: Current Employment Status
+   7. Which country are you currently working in?
+                          Kingdom      of
+          a)              Bahrain
+
+
+          b)              Kuwait
+
+
+          c)              Oman
+
+
+          d)              Qatar
+
+                          Kingdom      of
+          e)              Saudi Arabia
+
+                          United     Arab
+          f)              Emirates
+
+
+
+   8. What type of job are you doing?
+
+   o Construction
+   o Hotel and Restaurant
+   o Shop and Commercial
+   o Agriculture
+   o Driving
+   o Garments
+   o Others (if any) ………………………………………….
+
+   9. Length of service at your present job.
+
+   o Less than 1 Year
+   o Between 1 - 5 year
+   o Between 6-10 years
+   o More than 10 years
+
+
+
+   10. Your current monthly income
+          (average in BDT):
+   i)          50000 and less
+   ii)         51000-100000
+   iii)        101000-150000
+   iv)         151000-200000
+   v)          201000 and above
+
+
+
+
+                                                    68 | P a g e
+Part 3: The reasons of Bangladeshi labour force for remaining unskilled
+
+   1. Most of the people have lack of awareness about the importance of acquiring new skills.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   2. The existing training capacity is not utilized properly.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   3. Skill mismatch between the market demand of Bangladesh and that of GCC countries.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   4. The existing training centers are not upgraded periodically.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   5. There is insufficient attempt in creating and updating the training manuals or curriculum
+      by developing and incorporating new materials.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   6. The existing strategy is not implemented well for the national skill standard.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   7. The inadequacy of infrastructure and delivery planning at district- and upazilla-level
+      institutes is liable for Bangladeshi labour force remaining unskilled.
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   8. There is inadequate capacity among relevant agencies (including key ministries and
+      government agencies).
+a) Strongly disagree    b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+
+
+                                                                                       69 | P a g e
+   9. There is lack of an integrated and regularly updated database (the present database
+       currently being fragmented and out of date).
+a) Strongly disagree     b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+   10. Authority has inadequate linkages with overseas industries and the labour market.
+a) Strongly disagree     b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+12. People living in rural areas are not well-informed about the running training centers.
+a) Strongly disagree     b) Disagree c) Neutral         d)   Agree     e)   Strongly Agree
+
+
+Part 4: Ways of shifting the Labour Migration: Un-skilled to Semi-skilled and Semi-
+skilled to Skilled and High-skilled
+
+Which measures do you think can support Bangladeshi migrant workers to be semi-skilled
+from unskilled? (You may tick more than one option)
+☐ Pre-departure training/ Common behavioural training to cope up with the host country
+culture at free cost and through video content.
+   (Please, mention, if any, your suggestion regarding behavioural training )
+
+
+
+
+☐ Training from vocational institutions.
+   (Please, mention, if any, the training you feel demanding)
+
+
+
+
+☐ Foreign language training institutions.
+
+☐ Training from technical institutions.
+(Please, mention any name you feel demanding)
+
+
+
+
+                                                                                       70 | P a g e
+☐ Training of women for working abroad.
+☐ Short courses offered by ministry of expatriate welfare and overseas employment and other
+private centers.
+(Please mention , if any, some demanding short courses)
+
+
+
+
+ Easy access to online video tutorials about the desired task abroad.
+(Please mention any type of video tutorials)
+
+
+
+
+☐ Expanding the service of technical and vocational training institutions in economically
+lagging regions.
+☐ Diploma courses offered by ministry of expatriate welfare and overseas employment.
+(Please mention, if any, the demanding diploma courses, you feel)
+
+
+
+
+☐ Private foreign language coaching centers.
+☐ Accredited training centers operated by private recruitment agencies licensed under
+relevant ministry.
+☐ Video content about language of the desired countries’ language.
+   ☐ Others (If any)
+
+
+
+Q.2. What are the measures needed for Bangladesh to shift Semi-skilled labor migration to
+skilled and high-skilled labor migration? (You may tick on multiple options
+
+
+
+
+                                                                                  71 | P a g e
+ Specific Skill-based Course Offered by Polytechnic Institutes.
+ (Please, Mention the name of the course you suggest)
+
+
+
+
+☐ Introducing More Certificate Programs by TVET Institutes.
+(Please mention your specific suggestion)
+
+
+
+
+☐ Obtaining Accreditation of Certificates from Host Countries.
+
+☐ Designing Course Curriculum of Training Programs Based on Demand of Recruiting
+Agencies.
+
+☐ Arranging Training Programs by Bangladesh Government in Abroad.
+(Please mention your suggestion)
+
+
+
+
+☐ Introducing Panel Test by Bangladesh Govt. for Developing Database of Skilled Labours.
+
+
+☐ Skill-based Short Courses Offered by Universities.
+(Please mention, if possible, the type of course)
+
+
+
+☐ Others...
+
+
+
+
+                                                                                 72 | P a g e
+                                     Appendix 2
+                   List of sample respondents (Migrant Workers)
+               (Timeframe of data Collection- January to February, 2023)
+                                                    Occupation of the
+Respondent No.     Name of the Respondent                                     Country
+                                                        respondent
+      1.        Md. Ibrahim                       Construction             Oman
+      2.          Asaduzzaman Mia                 Hotel and Restaurant     Qatar
+      3.          Md Harunur Rashid               Hotel and Restaurant     Saudi Arabia
+      4.          Md Abdul Abrar Raiyan Mia       Hotel and Restaurant     UAE
+      5.          MD. Uzzal                       Shop and Commercial      Saudi Arabia
+      6.          Ahmed Hasan                     Shop and Commercial      Qatar
+      7.          Md. Sabbir                      Hotel and Restaurant     Oman
+      8.          Didarul Islam Rony              Shop and Commercial      Kuwait
+      9.          Md. Ridoy                       Construction             Bahrain
+      10.         Md. Amin                        Construction             Kuwait
+      11.         Md. Romjan                      Shop and Commercial      UAE
+      12.         Nazmul Sheikh                   Agriculture              Saudi Arabia
+      13.         Sajib                           Construction             Oman
+      14.         Md. Abdur Rouf                  Driving                  Saudi Arabia
+      15.         Asif                            Hotel and Restaurant     Kuwait
+      16.         Parvez Bepari                   Construction             Oman
+      17.         Hiru Bepari                     Construction             UAE
+      18.         Niru Bepari                     Construction             Qatar
+      19.         Tushar Mia                      Construction             Saudi Arabia
+      20.         Md. Sayid                       Agriculture              Saudi Arabia
+      21.         Mahir Khan                      Construction             UAE
+      22.         Hasibul Hasan Ani               Construction             Oman
+      23.         Payan Mia                       Construction             Kuwait
+      24.         Md. Saharia                     Construction             Qatar
+      25.         Hifizul Matubbor                Driving                  Oman
+      26.         Md. Nazir Molla                 Shop and Commercial      Bahrain
+      27.         Jubayer                         Construction             Oman
+      28.         Md. Akram                       Garments                 Oman
+      29.         Md. Awal                        Hotel and Restaurant     Saudi Arabia
+      30.         Zuhurul                         Agriculture              Saudi Arabia
+
+                                                                               73 | P a g e
+                                        Appendix 3
+                List of Academicians and Experts (Participants in FGD-1)
+                             (Date of FGD-1: January 02, 2023)
+Sl. No.   Name of the Participants      Designation
+   1.     Mr. Sayed Azharul Islam       Assistant Professor, Khulna University
+  2.      Mr. Tariq Morshed             Assistant Professor, Khulna University and Masters
+                                        student in University of Oxford
+  3.      Tania Sultana,                Assistant Professor, Khulna University
+  4.      Mr. Kajol Karmoker            Assistant Professor, Khulna University
+  5.      Dr. Sumon Das                 Professor, University of Dhaka
+  6.      Dr. Mohammad Thoufiqul        Professor, University of Dhaka
+          Islam
+  7.      Dr. Shilpi Das                Associate Professor at Jagannath University
+  8.      Masud Rana, PhD               Assistant Professor, Jatiya Kabi Kazi Nazrul Islam
+                                        University
+  9.      Md. Amanullah                 Assistant Professor, KUET.
+ 10.      Ripon Kumar Paul              Lecturer, Khulna University.
+
+
+                                      Appendix 4
+                 List of Government officials (Participants in FGD-2)
+                           (Date of FGD-1: January 05, 2023)
+Sl. No.      Name of the Participants                      Designation
+   1.
+   2.
+   3.
+   4.
+   5.
+   6.
+   7.
+   8.
+
+
+
+
+                                                                                  74 | P a g e
+

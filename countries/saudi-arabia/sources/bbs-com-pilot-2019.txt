@@ -1,0 +1,546 @@
+      Cost of migration pilot survey 2019
+A.       IDENTIFICATION SECTION
+     Identification of Sample   Name   Geo Code
+               Area
+ District
+ Thana/Upzila
+ Ward/Union
+ Mouza
+ Mohalla / Village
+ RMO
+                                                  1
+     B. SCREENING SECTION
+S1   Indicate type of respondent
+     Returned migrant            1
+     Other family member         2
+
+S2 Were you involved with the decision making regarding the
+cost to migrate overseas?
+      Yes                  1
+      No                   2
+
+                                                              2
+S2   Which year did you (the migrant) leave to work in KSA?
+     2018            1
+     2017            2
+                            CONTINUE
+     2016            3
+     2015            4
+     2014            5       STOP
+
+
+S3   In which of the following sectors did you (the migrant) work in most in
+     KSA?
+     Construction                1
+                                        CONTINUE
+     Domestic work               2
+     Other sector                3         STOP
+                                                                               3
+     C.EDUCATION
+E1 Do you (the migrant) know how to read and write in Bangla
+or any other language?
+     Yes                     1
+     No                      2
+
+E2    Have you (the migrant) ever attended any educational institution?
+      Yes, still attending        1    CONTINUE
+      Yes, before but not now     2
+      No, never went to school    3    GO TO E4
+                                                                          4
+E3 What is the highest level of education that you (the migrant)
+have completed?
+    Not finished primary    1        8th Grade                 9
+    1st Grade               2        9th Grade                10
+    2nd Grade               3        SSC/SSC equivalent       11
+    3rd Grade               4        HSC/HSC equivalent       12
+    4th Grade               5        Diploma                  13
+    5th Grade               6        Graduate                 14
+    6th Grade               7        Post Graduate            15
+    7th Grade               8        PhD                      16
+
+
+                                                                   5
+E4   Did you (the migrant) ever receive any vocational training?
+     Yes                         1      CONTINUE
+     No                          2       GO TO P1
+
+E5   Who issued your (the migrant’s) vocational skill certificate?
+     Government Organization                       1
+     Non-Government Organization                   2
+     NGO                                           3
+     Foreign Organization                          4
+     Joint Venture Organization                    5
+     Not completed or not received                 6
+     Other (SPECIFY)                               7
+
+                                                                     6
+     D. PERSONAL INFORMATION
+P1    What is your relationship to the head of this household(Select one)
+      Head of the Household                              1
+      Wife/husband                                       2
+      Son/Daughter                                       3
+      Father/Mother/Father-in-law/Mother-in-Law          4
+      Brother/Sister                                     5
+      Other relative                                     6
+      Non-relative person                                7
+
+
+
+                                                                            7
+P2   How many members are there in this household in the following age
+     groups?
+     Less than 5 years      1
+     5-17 years             2
+     18-59 years            3
+     60 years and older     4
+
+
+P3   What is your (the migrant’s) age?
+                                Years
+
+
+
+
+                                                                         8
+P4   Sex of (the migrant’s)?
+      Male                                   1
+      Female                                 2
+
+P5   What is your(the migrant’s) religion?
+     Islam                                   1
+     Hindu                                   2
+     Buddhist                                3
+     Christian                               4
+     Other                                   5
+
+
+
+
+                                                 9
+P6   What is your (the migrant’s) marital status?
+     Unmarried                              1
+     Married                                2
+     Widowed/ Widower                       3
+     Separated                              4
+     Divorced                               5
+
+
+
+
+                                                    10
+E. HOUSEHOLD INFORMATION
+H1   What is the tenancy status of the dwelling occupied by this household?
+     Owned                                                1
+     Rented                                               2
+     Rent Free                                            3
+
+H2   Construction material of roof of the main house
+     Straw/Bamboo/Polythene/Plastic/Canvas          1
+     Tin (CI sheet)                                 2
+     Tally                                          3
+     Brick/Cement                                   4
+     Other                                          5
+                                                                              11
+H3   Number of rooms
+     Total room
+     Living room
+
+H4   What is the main source of drinking water of your household?
+     Tap                             1
+     Tube-well/ deep tube-well       2
+     Well                            3
+     River/Ditch/Canal/Pond          4
+     Other                           5
+
+
+                                                                    12
+H5   What is the main source of light in your household?
+     Electricity                                    1
+     Solar Panel                                   2
+     Kerosene                                      3
+     Bio-gas                                       4
+     Other                                         5
+
+H6What type of toilet is used by your household
+    Sanitary (water-sealed)                        1
+    Pit Latrine                                    2
+    Kaccha                                         3
+    Open air/ No toilet facility                   4
+                                                           13
+H7   What is the main source of income in your household
+     Agriculture                                  1
+     Manufacturing                               2
+     Services                                    3
+     Income recipient                            4
+     Remittances                                 5
+
+
+
+
+                                                           14
+H8    Which of the following assets are available in your household? (Multiple)
+     Almirah/ wardrobe                                    01
+     Sewing machine                                       02
+     Microwave oven                                       03
+     Freezer/ Fridge                                      04
+     Push cart/ Rickshaw/ Rickshaw van                    05
+     Bicycle                                              06
+     Motorcycle                                           07
+     3-wheeled motor vehicle/easybike                     08
+     Car / bus / truck / pickup van                       09
+     Boat/ Motorboat                                      10
+     Electric fan                                         11
+     Mobile phone/cell phone                              12
+     Telephone (Landphone)                                13
+     Television                                           14
+     Computer (Desktop/Laptop/Tablet)                     15
+                                                                                  15
+F. MIGRATION BACKGROUND
+M1   Is this the first time you (the migrant) have migrated for work overseas?
+     Yes                 1         GO TO M3
+     No                  2         CONTINUE
+
+M2   How many times have you (the migrant) migrated for work abroad?
+          Times
+
+
+
+
+                                                                                 16
+M3   How did you (the migrant) find out about the job in KSA?
+     From relatives or friends                                   1
+     From informal or unlicensed job broker                       2
+     From licensed recruitment agency in the country of origin    3
+     From recruitment agency in the country of employment         4
+     Direct from the employer abroad                              5
+     From government job portal                                   6
+     From BOESL                                                   7
+     From job webs in the internet                                8
+     Newspaper                                                    9
+     Other (SPECIFY)                                             10
+
+                                                                      17
+G. COST TO FIND JOB
+A1a In total, how much did it cost you (the migrant) to get the job in KSA,
+     including money that was borrowed and money paid for things like broker,
+     passport, travel, visa, training etc.?
+                              Taka          CONTINUE
+    Don’t remember                    99      STOP
+A1b Specify Currency
+     TAKA                                      1
+     RIYAL                                     2
+     USD                                       3
+     EURO                                      4
+                                                                                18
+A2 Did you (the migrant) use a recruitment agent or dalal/broker?
+    Yes              1      GO TO A2a
+    No               2      GO TO A6
+
+A3 Payment modality (location of payment)
+                        A3a                           Yes No     A3b
+   A Did you (the migrant) pay a recruitment          1   2    IF YES
+        agent or dalal/broker (including family and            How much
+        friends) in Bangladesh?                                did you
+    B   Did you (the migrant)make an additional       1   2    (the
+        payment toa recruitment agent or broker in             migrant)
+        KSA?                                                   pay them?
+
+                                                                           19
+A4         Specify currency(Multiple answer)
+     RIYAL               1
+     TAKA                2
+     USD                 3
+     EURO                4
+
+
+
+
+                                               20
+A5   Which of the following was included in the agency, dalal/broker fee?
+A6   Which other costs did you (the migrant) pay for directly?
+A7   How much did you (the migrant) pay?
+A8   Was this cost later paid back by the employer?
+
+
+
+
+                                                                            21
+Sl   Category                                            A5   A6   Don’t   A7   A8
+A    Passport                                            1     1    99
+                                                                   Know          1
+B    Visa                                                2     2    99           2
+C    Work permit                                         3     3    99           3
+D    Language training                                   7     7    99           7
+E    Training / Skill certificate or test                8     8    99           8
+F    Medical exam                                        9     9    99           9
+G    Police or security clearance                        10   10    99          10
+H    Exit clearance from the home government             11   11    99          11
+ I   Contract approval from the government               12   12    99          12
+J    Pre-departure training or briefing                  13   13    99          13
+K    Health / life insurance policy                      14   14    99          14
+L    State-run welfare fund                              15   15    99          15
+M    Travel to the destination country                   16   16    99          16
+N    Travel within the destination country               17   17    99          17
+O    Pre-departure in-country travel, food and lodging   18   18    99          18
+P    Bribes
+     expensesto authorities                              19   19    99          19
+Q    None                                                20   20    99          20
+
+
+                                                                                22
+A8   Specify Currency
+     RIYAL               1
+     TAKA                2
+     USD                 3
+     EURO                4
+
+A9 How many months did it take to complete the job deployment
+procedure, from job application to departure?
+                         Months
+
+
+
+
+                                                                23
+A10 What kind of visa did you (the migrant) obtain?
+    Work visa                   1
+    Tourist visa                2
+    Student visa                3
+    Hajj visa                   4
+    Other                       5
+    Don’t know                  6
+
+
+
+
+                                                      24
+PART B: BORROWING MONEY
+B1    Did you (the migrant)or someone (including family) borrow money
+in order to migrate to KSA?
+      Yes         1         CONTINUE
+      No          2         GO TOC1
+B2    How much did you (the migrant) borrow in total?
+                              Taka
+B2b   Specify Currency
+      RIYAL                    1
+      TAKA                     2
+      USD                      3
+      EURO                     4
+
+
+                                                                        25
+B3 From what source did you (the migrant) obtain the largest portion
+of the loan?
+   Member of household                    1
+   Other relative / friends               2
+   Local money lender                     3
+   Bank                                   4
+   Recruiter                              5
+   Employer                               6
+   Micro finance or credit corporative    7
+   Government agency                      8
+   Credit Unit                            9
+   Cooperative association               10
+   Pawnshop                              11
+   Landlord                              12
+   Other (SPECIFY)                       13
+
+                                                                       26
+B4    What was the total term of the loan?
+                                  Months
+     Don’t know                      99
+
+B5 How much interest rate was charged by lender in percent?
+                       % per day
+                       % per week
+                        % per month
+                        % per year
+   Don’t know                 99
+
+                                                              27
+B6     How is the loan being repaid?
+     From money that you (the migrant) send home       1
+     From deductions from your (the migrant) salary    2
+     From other source of income (SPECIFY)             3
+
+B7    Did the employer repay part of the loan through deductions?
+     Yes                                                 1
+     No                                                  2
+B8         Was any asset used as collateral in order to get the loan?
+     Yes                       1          CONTINUE
+     No                        2          GO TO C1
+
+                                                                        28
+B9 What collateral was used?(Select all that apply)
+   Real estate                                1
+   Farm                                       2
+   Equipment                                  3
+   Car or vehicle                             4
+   Co-signer                                  5
+   Other (SPECIFY)                            6
+
+B10 Did you (the migrant) lose any or all of the collateral due to
+failure to repay the loan?
+     Yes                                         1
+     No                                          2
+
+                                                                     29
+ PART C: WORK IN FOREIGN COUNTRY
+
+C1   Did you (the migrant)sign a written work contract?
+     Yes               1     CONTINUE
+     No                2     GO TO C3
+
+C2   Did you (the migrant) understand the terms of the contract?
+     Yes                             1
+     No                              2
+
+
+                                                                   30
+C3   How often did you (the migrant)get paid?
+     Daily                           1
+     Weekly                          2
+     Monthly                         3
+     On irregular basis              4
+     Other (SPECIFY)                 5
+
+C4 What was your (the migrant’s) average monthly earnings, including
+overtime, before deductions?
+                                 Taka
+
+
+
+                                                                       31
+C4b Specify Currency
+    RIYAL                                    1
+    TAKA                                     2
+    USD                                      3
+    EURO                                     4
+
+C5   Did you (the migrant) have any costs deducted from the wage?
+     Yes                        1     CONTINUE
+     No or Don’t know           2       GO TO
+
+C6   How much was deducted on average each month?
+                                          Taka
+                                                                    32
+C7   What were the deductions for? (Select all that apply)
+     Income tax                                       1
+     Social security / other provident fund           2
+     Foreign worker levy                              3
+     Housing                                          4
+     Food                                             5
+     Airfare                                          6
+     Deductions are made but don’t know for what      7
+     Others (SPECIFY)                                 8
+
+
+
+                                                             33
+PART C: REMITTANCES
+C8    Did you (the migrant) send money home to the family?
+             Yes            1            CONTINUE
+             No             2             GO TO
+C9    How many times per year did you (the migrant) send money home?
+                   1 2 3 4 5 6 7 8 9 10 11 12
+C10 How much did you (the migrant) normally send each time?
+                                        Taka
+C10bSpecify Currency
+     RIYAL                      1
+     TAKA                       2
+     USD                        3
+     EURO                       4
+                                                                       34
+ PART D: JOB ENVIRONMENT
+
+D1   How many days per week didyou (the migrant) normally work?
+                         Days per week
+     Don’t know                99
+
+D2 How many hours per day did you (the migrant) normally
+work, including overtime?
+                          Hours per day
+    Don’t know                 99
+
+                                                                  35
+D3 Did you (the migrant) receive at least one rest day per week?
+    Yes                             1
+    No                              2
+
+D4 Was there a union or worker/staff association in your (the
+migrant’s) workplace?
+    Yes                           1
+    No                            2
+
+D5    Wereyou (the migrant) allowed to join the union?
+     Yes                           1
+     No                            2
+                                                                   36
+D6    Did your (the migrant’s) employer provide housing?
+     Yes                                  1
+     No                                   2
+
+D7   Wereyour (the migrant’s) rights ever violated?
+     Yes                         1       CONTINUE
+     No                          2        GO TO D9
+     Don’t know                  3
+
+
+
+
+                                                           37
+D8   Which of the following rights were violated?(Multiple answer)
+     Freedom of Speech                                  1
+     Right to join trade union                          2
+     Right to strike or protest                         3
+     Ability to change employer                         4
+     Wages equivalent to the locals                     5
+     Denial of overseas income                          6
+     Denial of travel certificate by employer           7
+     Right to contact people outside the workplace      8
+     Right to job security                              9
+     Deprived of social security                       10
+     Freedom to exercise religion                      11
+
+                                                                     38
+D9 Did you (the migrant) work in any of the following
+dangerous situation in the work place?(Select all that apply)
+     Dust-sand, gas or smoke, high noise or Trimmer           1
+     Fire, gas, fire-spark                                    2
+     Excessive heat or cold                                   3
+     Dangerous tools, knives, blades, etc.                    4
+     Work at excessive heights                                5
+     Work in water (pond/river)                               6
+     Work environment is very dark or has poor ventilation    7
+     Chemical (insecticides, gum etc.) Explosives             8
+     Others                                                   9
+     No dangerous situation                                  10
+     Don’t know                                              11
+                                                                  39
+D10 In the last 12 (twelve) months, did you (the migrant) face any of the
+following harassment situations?(Select all that apply)
+      Repeatedly humiliated and offended                  1
+      Beating / physical injury                           2
+      Sexual harassment                                   3
+      Others                                              4
+      No harassment situation                             5
+      Don’t know                                          6
+D11 Have you (the migrant)suffered from an accident and consequently missed work
+       for more than one day?
+      Yes                                                  1
+      No                                                   2
+      Don’t know                                           3
+                                                                               40
+D12 In the last 12 (twelve) months, for how many days were you (the
+    migrant) unable work due to injury?
+                 Days
+
+D13 For quality control purposes or in case we need to follow up to check
+something can we please have your name and mobile number?
+     Name of respondent:
+     Mobile number:
+
+                           THANK YOU
+                FOR YOUR TIME AND COOPERATION
+                                                                            41
+

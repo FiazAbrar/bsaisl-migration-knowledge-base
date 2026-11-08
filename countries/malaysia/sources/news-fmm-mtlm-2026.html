@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link href="https://cdn.lineicons.com/5.0/lineicons.css" rel="stylesheet">
+
+    
+    <link href="https://kendo.cdn.telerik.com/themes/12.0.0/default/default-main.css" rel="stylesheet">
+    
+
+    <link rel="stylesheet" href="css/main.i2marwppwx.css" />
+
+    <link href="_content/Blazor.Bootstrap/blazor.bootstrap.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="FMM.WebApp.jdsznkl1lk.styles.css" />
+    <script type="importmap">{
+  "imports": {
+    "./Components/AdminPortalPages/Authentication/AdminLoginPage.razor.js": "./Components/AdminPortalPages/Authentication/AdminLoginPage.fakxiwf7at.razor.js",
+    "./Components/AdminPortalPages/Events/Shared/RichTextEditor.razor.js": "./Components/AdminPortalPages/Events/Shared/RichTextEditor.2tzig36w7o.razor.js",
+    "./Components/Blocks/BranchesMap.razor.js": "./Components/Blocks/BranchesMap.vkf80rq4kj.razor.js",
+    "./Components/Forms/EditorComponent.razor.js": "./Components/Forms/EditorComponent.e4p0i5ow4d.razor.js",
+    "./Components/Forms/ImageManager.razor.js": "./Components/Forms/ImageManager.lyetk5c680.razor.js",
+    "./Components/Forms/ImageMapper.razor.js": "./Components/Forms/ImageMapper.jv2yzzjg7r.razor.js",
+    "./Components/Layout/AutoLogoutOnIdle.razor.js": "./Components/Layout/AutoLogoutOnIdle.nnb47yfcd5.razor.js",
+    "./Components/Layout/MainNavbar.razor.js": "./Components/Layout/MainNavbar.8wkxydfkl4.razor.js",
+    "./Components/Pages/AboutPage.razor.js": "./Components/Pages/AboutPage.w694zmbvkb.razor.js",
+    "./Components/Pages/MilestonesPage.razor.js": "./Components/Pages/MilestonesPage.7eckqm971i.razor.js",
+    "./Components/Pages/Services/APECBusinessTravelCardPage.razor.js": "./Components/Pages/Services/APECBusinessTravelCardPage.lmmz3w9ytl.razor.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.ai.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.ai.m4v3m943t1.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.mgojsf1q78.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.ct0ej5e0q0.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.ezlxc6gzv3.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.pisakkcwob.js",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.js": "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.j8zp7bt7w3.js",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.js": "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.79hai7knhw.js",
+    "./_content/Blazor.SignaturePad/sigpad.interop.js": "./_content/Blazor.SignaturePad/sigpad.interop.2f7dzq6edw.js",
+    "./_content/Blazor.SignaturePad/sigpad.min.js": "./_content/Blazor.SignaturePad/sigpad.min.4zg1xjhwl9.js",
+    "./_content/BlazorDateRangePicker/clickAndPositionHandler.js": "./_content/BlazorDateRangePicker/clickAndPositionHandler.lywn4it7vj.js",
+    "./_content/FMM.Extensions.Web/Components/CountUp.razor.js": "./_content/FMM.Extensions.Web/Components/CountUp.1opf7ofiyf.razor.js",
+    "./_content/FMM.Extensions.Web/Components/RichTextEditor2.razor.js": "./_content/FMM.Extensions.Web/Components/RichTextEditor2.by3dobom46.razor.js",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.js": "./_content/FMM.Extensions.Web/lib/countUp/countUp.01u04k7k9p.js",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.min.js": "./_content/FMM.Extensions.Web/lib/countUp/countUp.min.v0nxq0nwbl.js",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.umd.js": "./_content/FMM.Extensions.Web/lib/countUp/countUp.umd.talt1mz66c.js",
+    "./_content/FMM.Extensions.Web/lib/countUp/requestAnimationFrame.polyfill.js": "./_content/FMM.Extensions.Web/lib/countUp/requestAnimationFrame.polyfill.1mm98jyhxd.js",
+    "./_content/FMM.Extensions.Web/main.js": "./_content/FMM.Extensions.Web/main.959arklbsw.js",
+    "./_content/FMM.Extensions.Web/scroll.js": "./_content/FMM.Extensions.Web/scroll.1k6nxbzg39.js",
+    "./_content/FMM.Extensions.Web/scrollspy.js": "./_content/FMM.Extensions.Web/scrollspy.qpojzg6owi.js",
+    "./_framework/blazor.server.js": "./_framework/blazor.server.7d17r9czpp.js",
+    "./_framework/blazor.web.js": "./_framework/blazor.web.xmryko9e6j.js",
+    "./js/admin-portal-sidebar-flyout.js": "./js/admin-portal-sidebar-flyout.tmf1i4tdd1.js",
+    "./js/auth-area-sync.js": "./js/auth-area-sync.a81e8rgx04.js",
+    "./js/banner-utils.js": "./js/banner-utils.0w6bj5a4s1.js",
+    "./js/download-center.js": "./js/download-center.e3kjudc3ol.js",
+    "./js/emblaCarousel/EmblaCarouselThumbsButton.js": "./js/emblaCarousel/EmblaCarouselThumbsButton.axz8ce63it.js",
+    "./js/emblaCarousel/index.js": "./js/emblaCarousel/index.2fdsvuyfim.js",
+    "./js/excelDownload.js": "./js/excelDownload.45firwocsw.js",
+    "./js/formDataHelpers.js": "./js/formDataHelpers.vdtyf7b66x.js",
+    "./js/formPersistence.js": "./js/formPersistence.64unrjggjd.js",
+    "./js/formValidation.js": "./js/formValidation.nojbh38uzx.js",
+    "./js/imageMapFunctions.js": "./js/imageMapFunctions.f0k7zeiqpp.js",
+    "./js/imageMapRuntime.js": "./js/imageMapRuntime.x31e63ip8b.js",
+    "./js/kendoEditorInterop.js": "./js/kendoEditorInterop.x0ifqwntre.js",
+    "./js/kendoTelerik/telerik-license.js": "./js/kendoTelerik/telerik-license.dmw3ip9fia.js",
+    "./js/membershipCharts.js": "./js/membershipCharts.70wwtda18d.js",
+    "./js/pdfPreview.js": "./js/pdfPreview.ohh1xsk5rk.js",
+    "./js/recaptcha.js": "./js/recaptcha.52oi8ug678.js",
+    "./js/sessionCookies.js": "./js/sessionCookies.qu11u547nw.js",
+    "./js/turnstile.js": "./js/turnstile.oovl09aa7u.js"
+  },
+  "integrity": {
+    "./Components/AdminPortalPages/Authentication/AdminLoginPage.fakxiwf7at.razor.js": "sha256-CZnCRLmawWOSqoQEiLTAvYYMbKl2UN9E7X09kFkbA0A=",
+    "./Components/AdminPortalPages/Authentication/AdminLoginPage.razor.js": "sha256-CZnCRLmawWOSqoQEiLTAvYYMbKl2UN9E7X09kFkbA0A=",
+    "./Components/AdminPortalPages/Events/Shared/RichTextEditor.2tzig36w7o.razor.js": "sha256-xuGQyENw2uMSlc7+0idw8UYlgebzspEUC0Y5Po1rfc8=",
+    "./Components/AdminPortalPages/Events/Shared/RichTextEditor.razor.js": "sha256-xuGQyENw2uMSlc7+0idw8UYlgebzspEUC0Y5Po1rfc8=",
+    "./Components/Blocks/BranchesMap.razor.js": "sha256-IROKMORF6kKtMqD67Ts1BTCoOOGGFmjFSLg8H75bs1k=",
+    "./Components/Blocks/BranchesMap.vkf80rq4kj.razor.js": "sha256-IROKMORF6kKtMqD67Ts1BTCoOOGGFmjFSLg8H75bs1k=",
+    "./Components/Forms/EditorComponent.e4p0i5ow4d.razor.js": "sha256-0noDVbG+4Cfj0oe8ubNmkIrtWMX6VavZyKSFhUAxP6A=",
+    "./Components/Forms/EditorComponent.razor.js": "sha256-0noDVbG+4Cfj0oe8ubNmkIrtWMX6VavZyKSFhUAxP6A=",
+    "./Components/Forms/ImageManager.lyetk5c680.razor.js": "sha256-AweT8n2hTjzq/hafVLX4lFYe2mE8MK1PsBZ/1yFO7t0=",
+    "./Components/Forms/ImageManager.razor.js": "sha256-AweT8n2hTjzq/hafVLX4lFYe2mE8MK1PsBZ/1yFO7t0=",
+    "./Components/Forms/ImageMapper.jv2yzzjg7r.razor.js": "sha256-8R2tpBJcw6mGkRLjilHi4ocaAQkvWJBhPNaZiffMhc0=",
+    "./Components/Forms/ImageMapper.razor.js": "sha256-8R2tpBJcw6mGkRLjilHi4ocaAQkvWJBhPNaZiffMhc0=",
+    "./Components/Layout/AutoLogoutOnIdle.nnb47yfcd5.razor.js": "sha256-/cxRBiW4dT+kzbJBo8Ph5h5SpX3tgZ1V3cdMtl4uuKc=",
+    "./Components/Layout/AutoLogoutOnIdle.razor.js": "sha256-/cxRBiW4dT+kzbJBo8Ph5h5SpX3tgZ1V3cdMtl4uuKc=",
+    "./Components/Layout/MainNavbar.8wkxydfkl4.razor.js": "sha256-+HHCk5gq8JyHUD0FCS8mFMhXQntCrI0jdnUBwzcWECY=",
+    "./Components/Layout/MainNavbar.razor.js": "sha256-+HHCk5gq8JyHUD0FCS8mFMhXQntCrI0jdnUBwzcWECY=",
+    "./Components/Pages/AboutPage.razor.js": "sha256-eG3CRQLzgeiDXiGCijvHwgR6yKPbuBfvGOZ7cWAQ2AY=",
+    "./Components/Pages/AboutPage.w694zmbvkb.razor.js": "sha256-eG3CRQLzgeiDXiGCijvHwgR6yKPbuBfvGOZ7cWAQ2AY=",
+    "./Components/Pages/MilestonesPage.7eckqm971i.razor.js": "sha256-QcJ4kpugQTubRh38l19EANB041DY6qFwgcNA+JB3GQA=",
+    "./Components/Pages/MilestonesPage.razor.js": "sha256-QcJ4kpugQTubRh38l19EANB041DY6qFwgcNA+JB3GQA=",
+    "./Components/Pages/Services/APECBusinessTravelCardPage.lmmz3w9ytl.razor.js": "sha256-TdCnCz+qM081hExQWqUwTeJI2GfGk7ya1uxgjex+kxQ=",
+    "./Components/Pages/Services/APECBusinessTravelCardPage.razor.js": "sha256-TdCnCz+qM081hExQWqUwTeJI2GfGk7ya1uxgjex+kxQ=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.ai.js": "sha256-qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.ai.m4v3m943t1.js": "sha256-qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.js": "sha256-ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.mgojsf1q78.js": "sha256-ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.ct0ej5e0q0.js": "sha256-oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.js": "sha256-oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.ezlxc6gzv3.js": "sha256-du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.js": "sha256-du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.js": "sha256-Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.pisakkcwob.js": "sha256-Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.j8zp7bt7w3.js": "sha256-XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.js": "sha256-XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.79hai7knhw.js": "sha256-JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.js": "sha256-JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=",
+    "./_content/Blazor.SignaturePad/sigpad.interop.2f7dzq6edw.js": "sha256-zvEdhIoskP0tzTtS8n8LZMe6QKa7rrkrFul3n7ppkiY=",
+    "./_content/Blazor.SignaturePad/sigpad.interop.js": "sha256-zvEdhIoskP0tzTtS8n8LZMe6QKa7rrkrFul3n7ppkiY=",
+    "./_content/Blazor.SignaturePad/sigpad.min.4zg1xjhwl9.js": "sha256-MAlKOEPuiEpYHczgqoFuj432AXGyEZpRb5sYobWOgnI=",
+    "./_content/Blazor.SignaturePad/sigpad.min.js": "sha256-MAlKOEPuiEpYHczgqoFuj432AXGyEZpRb5sYobWOgnI=",
+    "./_content/BlazorDateRangePicker/clickAndPositionHandler.js": "sha256-Y13FGi0LwdilZTDiSJhwO9kI/dHRax0/H52S+Yq1Ae0=",
+    "./_content/BlazorDateRangePicker/clickAndPositionHandler.lywn4it7vj.js": "sha256-Y13FGi0LwdilZTDiSJhwO9kI/dHRax0/H52S+Yq1Ae0=",
+    "./_content/FMM.Extensions.Web/Components/CountUp.1opf7ofiyf.razor.js": "sha256-T5nhRJfAuki2rSgvUR4xumkE28TENnAFUgaOKFi592w=",
+    "./_content/FMM.Extensions.Web/Components/CountUp.razor.js": "sha256-T5nhRJfAuki2rSgvUR4xumkE28TENnAFUgaOKFi592w=",
+    "./_content/FMM.Extensions.Web/Components/RichTextEditor2.by3dobom46.razor.js": "sha256-vYYLkBXvtKnxKdA2yAVLmFu+LCzKI1QZNzbt7CdCF9w=",
+    "./_content/FMM.Extensions.Web/Components/RichTextEditor2.razor.js": "sha256-vYYLkBXvtKnxKdA2yAVLmFu+LCzKI1QZNzbt7CdCF9w=",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.01u04k7k9p.js": "sha256-BFyfqni9bw1FQVjkGbDmco6cqgQ8klwSMVyVBmanAUk=",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.js": "sha256-BFyfqni9bw1FQVjkGbDmco6cqgQ8klwSMVyVBmanAUk=",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.min.js": "sha256-z7zjE3KvdzxuROUsQzoLIllAcSvdi9aPujKYHiEgtI0=",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.min.v0nxq0nwbl.js": "sha256-z7zjE3KvdzxuROUsQzoLIllAcSvdi9aPujKYHiEgtI0=",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.umd.js": "sha256-64WM5nr8GfGC0bmSQ4KQ0px6gByghjg7jSQXjzYcTQo=",
+    "./_content/FMM.Extensions.Web/lib/countUp/countUp.umd.talt1mz66c.js": "sha256-64WM5nr8GfGC0bmSQ4KQ0px6gByghjg7jSQXjzYcTQo=",
+    "./_content/FMM.Extensions.Web/lib/countUp/requestAnimationFrame.polyfill.1mm98jyhxd.js": "sha256-R5Fa0SSHTjGHwhq83Cf6RW4d21LO3ZeKo6i+xq24YF0=",
+    "./_content/FMM.Extensions.Web/lib/countUp/requestAnimationFrame.polyfill.js": "sha256-R5Fa0SSHTjGHwhq83Cf6RW4d21LO3ZeKo6i+xq24YF0=",
+    "./_content/FMM.Extensions.Web/main.959arklbsw.js": "sha256-zSeV7xQCa7I/XAtpf2FvH8PTk57nKHEyA356gOv+0Yg=",
+    "./_content/FMM.Extensions.Web/main.js": "sha256-zSeV7xQCa7I/XAtpf2FvH8PTk57nKHEyA356gOv+0Yg=",
+    "./_content/FMM.Extensions.Web/scroll.1k6nxbzg39.js": "sha256-D4ICMg5Gqlez3dMjpOl6wE2u8w47e/RkaRHs06phJ9E=",
+    "./_content/FMM.Extensions.Web/scroll.js": "sha256-D4ICMg5Gqlez3dMjpOl6wE2u8w47e/RkaRHs06phJ9E=",
+    "./_content/FMM.Extensions.Web/scrollspy.js": "sha256-IlmO5OCzFCilPJVsENIxvN6UPDh5T0YUwCz0Jvx+Uoc=",
+    "./_content/FMM.Extensions.Web/scrollspy.qpojzg6owi.js": "sha256-IlmO5OCzFCilPJVsENIxvN6UPDh5T0YUwCz0Jvx+Uoc=",
+    "./_framework/blazor.server.7d17r9czpp.js": "sha256-Vb4iIk2vqqfrDwg6Hlx9xP81SundHQhc7BOhqiIEWcE=",
+    "./_framework/blazor.server.js": "sha256-Vb4iIk2vqqfrDwg6Hlx9xP81SundHQhc7BOhqiIEWcE=",
+    "./_framework/blazor.web.js": "sha256-lzvG5lB44syquBYZAhwQpL2QQJFwWCVT94Ir+jZx2P8=",
+    "./_framework/blazor.web.xmryko9e6j.js": "sha256-lzvG5lB44syquBYZAhwQpL2QQJFwWCVT94Ir+jZx2P8=",
+    "./js/admin-portal-sidebar-flyout.js": "sha256-Zff33xTqbVEVT0fsw8C1dPDo0MZVZZNcYPvaKa+0gMw=",
+    "./js/admin-portal-sidebar-flyout.tmf1i4tdd1.js": "sha256-Zff33xTqbVEVT0fsw8C1dPDo0MZVZZNcYPvaKa+0gMw=",
+    "./js/auth-area-sync.a81e8rgx04.js": "sha256-upGdRBjMHqB3M01/+XZ8FGzLCDWSdwy4P04RP1ONOZM=",
+    "./js/auth-area-sync.js": "sha256-upGdRBjMHqB3M01/+XZ8FGzLCDWSdwy4P04RP1ONOZM=",
+    "./js/banner-utils.0w6bj5a4s1.js": "sha256-YEEcPh3X+simaC57K8kq1SE90CccKpKuTnpcy+SVFBE=",
+    "./js/banner-utils.js": "sha256-YEEcPh3X+simaC57K8kq1SE90CccKpKuTnpcy+SVFBE=",
+    "./js/download-center.e3kjudc3ol.js": "sha256-ep40/GmaIC5EwBbNFDwXRrRsYnLNHJnnHYSxXAGl9fw=",
+    "./js/download-center.js": "sha256-ep40/GmaIC5EwBbNFDwXRrRsYnLNHJnnHYSxXAGl9fw=",
+    "./js/emblaCarousel/EmblaCarouselThumbsButton.axz8ce63it.js": "sha256-IvRl89Jk2WmuFueBPNqM8b2VIxpQ+VbP0T9Dcg2+i+8=",
+    "./js/emblaCarousel/EmblaCarouselThumbsButton.js": "sha256-IvRl89Jk2WmuFueBPNqM8b2VIxpQ+VbP0T9Dcg2+i+8=",
+    "./js/emblaCarousel/index.2fdsvuyfim.js": "sha256-Ejai7Q9acyG7C4tMmHcbyEshydQNE7Ihx9cdu6zqcmk=",
+    "./js/emblaCarousel/index.js": "sha256-Ejai7Q9acyG7C4tMmHcbyEshydQNE7Ihx9cdu6zqcmk=",
+    "./js/excelDownload.45firwocsw.js": "sha256-KBgW2eBO3z8fQV6CgXoLSraTqSDeW18oFpb6S1WOfvM=",
+    "./js/excelDownload.js": "sha256-KBgW2eBO3z8fQV6CgXoLSraTqSDeW18oFpb6S1WOfvM=",
+    "./js/formDataHelpers.js": "sha256-Q+T4udNj/c0+tZ7kjniT0xZRV8jYXkH/cSpryra+Zdo=",
+    "./js/formDataHelpers.vdtyf7b66x.js": "sha256-Q+T4udNj/c0+tZ7kjniT0xZRV8jYXkH/cSpryra+Zdo=",
+    "./js/formPersistence.64unrjggjd.js": "sha256-Nh8rrfGPD7dWb8476tIxfvfgto7R5nQyl8i4Djck9LA=",
+    "./js/formPersistence.js": "sha256-Nh8rrfGPD7dWb8476tIxfvfgto7R5nQyl8i4Djck9LA=",
+    "./js/formValidation.js": "sha256-Z9VGAdkj5+x7AcmvofWeCdagHWu9YV4yaW2N3+pqSaE=",
+    "./js/formValidation.nojbh38uzx.js": "sha256-Z9VGAdkj5+x7AcmvofWeCdagHWu9YV4yaW2N3+pqSaE=",
+    "./js/imageMapFunctions.f0k7zeiqpp.js": "sha256-8QNmPRq8A5HnusLEo434RFqs9SFE9eyp8GgL/bU1Nzc=",
+    "./js/imageMapFunctions.js": "sha256-8QNmPRq8A5HnusLEo434RFqs9SFE9eyp8GgL/bU1Nzc=",
+    "./js/imageMapRuntime.js": "sha256-4/AkPPlNtIC7xfn9r1z1Kf/thWrA5ZSBB/jyFyyjSas=",
+    "./js/imageMapRuntime.x31e63ip8b.js": "sha256-4/AkPPlNtIC7xfn9r1z1Kf/thWrA5ZSBB/jyFyyjSas=",
+    "./js/kendoEditorInterop.js": "sha256-AZO0Inyxj5xzId6AsxNKAVDi6HNbm/0FecXvf+lYxy4=",
+    "./js/kendoEditorInterop.x0ifqwntre.js": "sha256-AZO0Inyxj5xzId6AsxNKAVDi6HNbm/0FecXvf+lYxy4=",
+    "./js/kendoTelerik/telerik-license.dmw3ip9fia.js": "sha256-G5LeUoG3G27Wnk++FyX6isheMKuzYziwqKvMzC4/C8k=",
+    "./js/kendoTelerik/telerik-license.js": "sha256-G5LeUoG3G27Wnk++FyX6isheMKuzYziwqKvMzC4/C8k=",
+    "./js/membershipCharts.70wwtda18d.js": "sha256-B9v5F4xhxWJUWIJSjXKbP3klAip6dh76Rr9Sd9GuQ8g=",
+    "./js/membershipCharts.js": "sha256-B9v5F4xhxWJUWIJSjXKbP3klAip6dh76Rr9Sd9GuQ8g=",
+    "./js/pdfPreview.js": "sha256-NMD3pZBn3i6oe3dWa8M12LmTaHr0Lj5R5vrwVPMHbHo=",
+    "./js/pdfPreview.ohh1xsk5rk.js": "sha256-NMD3pZBn3i6oe3dWa8M12LmTaHr0Lj5R5vrwVPMHbHo=",
+    "./js/recaptcha.52oi8ug678.js": "sha256-TQpX87bfvTh7JYnrIjh7yz8mOCZjxGEyrEFyFPNWm+w=",
+    "./js/recaptcha.js": "sha256-TQpX87bfvTh7JYnrIjh7yz8mOCZjxGEyrEFyFPNWm+w=",
+    "./js/sessionCookies.js": "sha256-otEN1bYE9SQtks5yOumOcxyJ0qvVeR+Tnm9d0i2m5to=",
+    "./js/sessionCookies.qu11u547nw.js": "sha256-otEN1bYE9SQtks5yOumOcxyJ0qvVeR+Tnm9d0i2m5to=",
+    "./js/turnstile.js": "sha256-qHeDesIwqyR5ToHWZz/UFn03JmIce3YWf6Gi1nBzkSM=",
+    "./js/turnstile.oovl09aa7u.js": "sha256-qHeDesIwqyR5ToHWZz/UFn03JmIce3YWf6Gi1nBzkSM="
+  }
+}</script>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <!--Blazor:{"type":"server","prerenderId":"983c7de2b7fd4546a6fe77c66fcfd1af","key":{"locationHash":"77D12F14A8105320B1AAED6AE7E689DA0EC4483270A645E84079EAA0FFDF550D:15","formattedComponentKey":""},"sequence":0,"descriptor":"CfDJ8JG1T8RLVqlAoUz8Cf/xdpY\u002BdVR6eBWrQDnjy4CdPpksRcjmUlVjQGek44RaDuYNzh4TEY7jqxj5sknhpK8UgpWETmDAoynSNMjAv6swkeNkAId\u002BgBQ8w4E7ijIC67XUTR0DHvAvanTeluCNhNhup5KGjJh/QzJJ75hMoKja7PqM3n2/h5pGkIpe8dX34Glsvz55uHavMmSqp7rH/pjvNukBv3iYpoomHVI46WljCfY1ZgAdJwP6Vsb0ieuhr3o7DbETw\u002BmdzDku3rq0oaAOgfbsJxe927JY\u002B7\u002BfCrJhuQUzXzILY62jcvzCde5bhOZZDPAThXYsyhjpci1XAPKdvh\u002Bavuojk3KhIzYP1//F\u002BpRUnFzUA4yIl7hpTHjKMJbuS5dEb7SqA30if1WS1Cura19mDRcGpntYVT5wwDWY7aL3L48qoenMC4sLXGzXrSMAIGbAj/IC/eeoMjfHR5vDHsJsqiT2lbnkw/BjCE4woOKoV3nwlvAM\u002BUDZJj5ukA\u002B\u002BBOg4cq8h4clGp08T5NiLo8suf0RHL81vQYeT3UqGDDPSGhwCSh2IHfqAUC9zkiRh2VDblkQp1JrCjT4Lqw4Pr2g="}--><title>FMM urges smooth transition to new foreign worker system, pushes for multi-tier levy mechanism | Newsroom | FMM</title><meta name="keywords" content="FMM urges smooth transition to new foreign worker system, pushes for multi-tier levy mechanism" />
+        <meta name="description" content="FMM urges smooth transition to new foreign worker system, pushes for multi-tier levy mechanism" />
+        <meta property="og:title" content="FMM urges smooth transition to new foreign worker system, pushes for multi-tier levy mechanism" />
+        <meta property="og:description" content="FMM urges smooth transition to new foreign worker system, pushes for multi-tier levy mechanism" /><!--Blazor:{"prerenderId":"983c7de2b7fd4546a6fe77c66fcfd1af"}-->
+
+    <link href="css/emblaCarousel/embla.2g5rysemi3.css" rel="stylesheet" />
+    <link href="css/emblaCarousel/sandbox.8rm62u8lnh.css" rel="stylesheet" />
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4JHS53QZPC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4JHS53QZPC');
+    </script></head>
+
+<body><script src="js/auth-area-sync.a81e8rgx04.js"></script>
+    <!--Blazor:{"type":"server","prerenderId":"8b28aaa0c8d84e91beaf3b7144386cc0","key":{"locationHash":"774B021D54D9A78F6E7F018117BD320E3ABB16C397FC30C01D57263C35D9F195:31","formattedComponentKey":""},"sequence":1,"descriptor":"CfDJ8JG1T8RLVqlAoUz8Cf/xdpagh3u2Mhb\u002Bx/ghZmpEAt5BYJ3d0xxEZ8JMptMDqv4SfnqVxn8wd08dcL\u002BxULn51nIS2GhacnXi4SUsTo\u002BWLOfl4/KTjqgQS8rvv2V3XYkM2o5kCEbHTVnhWTx7nZQo5tSmPpVsoMV3NVCYamCblRfhNO2yiqkKc4bwdkoBG47nfZuaP3nMNQiQV3FGR5oINwr1pK/CngXouVmpLH8Dstn4ywks1uQk9t13mc10FHrZszNsKITGclbTwdyJzcDiJmj1947dggGHgLea0TI/AA5ob2vculYUSIoeTbTJH50ctAwJFbk33v\u002BYIU5NQ\u002BIzL1tWL9\u002BbhEWY3Y/8U\u002BM1luDD6Y3AqwL051j9j6YjGeMudJO7X6Z8/ja21RfWIXPlEBUolqS\u002BXhQ3Fo9TQAFR2t6oJd7T0VLBvSXDiR9NroHNM8YkC8FFUjK3TiHlzwZo3jJVBzWI9Qz6qCPopIsSHAdvM/X0ahsSymIB6Rkb\u002BuHWd1jUsh8iEuPye4PnKfIWuc8="}-->
+
+<main class="min-vh-100 d-flex flex-column"><div id="mainNavbar" class="navbar navbar-expand-xl navbar-light bg-white border-bottom" style="flex-wrap: wrap;" b-unsiwr8l2k><div class="container-lg" b-unsiwr8l2k><div class="hstack gap-4" b-unsiwr8l2k><button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mainNavbarNav" aria-controls="mainNavbarNav" aria-expanded="false" aria-label="Toggle navigation" b-unsiwr8l2k><span class="navbar-toggler-icon" b-unsiwr8l2k></span></button>
+
+            <a href="/" class="navbar-brand"><img class="brand-logo d-block d-sm-none" src="images/logo-icon.svg" alt="logo" b-unsiwr8l2k>
+                <img class="brand-logo d-none d-sm-block" src="images/logo-new-black.png" alt="logo" b-unsiwr8l2k></a></div>
+
+        <div class="hstack gap-2" b-unsiwr8l2k><a href="/Cart" class="btn px-3 position-relative" b-unsiwr8l2k><i class="bi bi-cart-fill fs-4" b-unsiwr8l2k></i></a>
+
+            <div id="navbarSearch" class="dropdown me-3" b-unsiwr8l2k><button type="button" class="btn px-3" data-bs-toggle="dropdown" aria-label="Search" aria-expanded="false" b-unsiwr8l2k><i class="bi bi-search fs-4" b-unsiwr8l2k></i></button>
+                <div class="dropdown-menu dropdown-menu-end" b-unsiwr8l2k><form action="/GlobalSearch" method="get" b-unsiwr8l2k><div class="px-3 py-2 d-flex gap-3 align-items-center" style="min-width: 350px" b-unsiwr8l2k><input type="text" name="Search" class="form-control" placeholder="Enter a keyword..." b-unsiwr8l2k>
+                            <button type="submit" class="btn btn-accent px-4" b-unsiwr8l2k>Search</button></div></form></div></div>
+
+            <div id="companyProductSearch" class="dropdown navbar-button-container" b-unsiwr8l2k><button type="button" class="btn btn-primary navbar-dropdown-button" data-bs-toggle="dropdown" aria-label="Company & Product Search" aria-expanded="false" b-unsiwr8l2k><div class="d-block d-md-none" b-unsiwr8l2k><i class="bi bi-building" b-unsiwr8l2k></i></div>
+                    <div class="d-none d-md-block" b-unsiwr8l2k><div class="lh-1" b-unsiwr8l2k>Companies & </div>
+                        <div class="lh-1" b-unsiwr8l2k>Products Search</div></div></button>
+                <div class="bg-dark2 dropdown-menu dropdown-menu-end company-product-dropdown" b-unsiwr8l2k><div class="p-3 p-md-4 text-light" b-unsiwr8l2k><form b-unsiwr8l2k action="/article/newsroom/fmm-urges-smooth-transition-to-new-foreign-worker-system-pushes-for-multi-tier-levy-mechanism"><div class="row g-3 g-md-4" b-unsiwr8l2k><div class="col-12 col-lg-6" b-unsiwr8l2k><div class="mb-3 mb-md-0" b-unsiwr8l2k><h5 class="mb-2 fs-6 fs-md-5" b-unsiwr8l2k>Company & Product Search</h5>
+                                        <p class="mb-0 small d-none d-md-block" b-unsiwr8l2k>Find information about registered companies and products at FMM.</p></div></div>
+                                <div class="col-12 col-lg-6" b-unsiwr8l2k><div class="vstack gap-3" b-unsiwr8l2k><div class="d-flex flex-column flex-md-row gap-2" b-unsiwr8l2k><div class="flex-grow-1" b-unsiwr8l2k><input type="text" class="form-control form-control-sm" placeholder="Search by company or product" value="" b-unsiwr8l2k /></div>
+                                            <div class="flex-shrink-0" b-unsiwr8l2k><button type="submit" class="btn btn-accent btn-sm px-3 w-100 w-md-auto" style="min-width: auto;" b-unsiwr8l2k><span class="d-none d-md-inline" b-unsiwr8l2k>Search</span>
+                                                    <i class="bi bi-search d-md-none" b-unsiwr8l2k></i></button></div></div>
+
+                                        
+                                        <div class="d-flex justify-content-start gap-3 gap-md-4" b-unsiwr8l2k><div class="form-check" b-unsiwr8l2k><input class="form-check-input" type="radio" name="searchType" id="companyRadio" checked b-unsiwr8l2k />
+                                                <label class="form-check-label text-light small" for="companyRadio" b-unsiwr8l2k>Company</label></div>
+                                            <div class="form-check" b-unsiwr8l2k><input class="form-check-input" type="radio" name="searchType" id="productRadio" b-unsiwr8l2k />
+                                                <label class="form-check-label text-light small" for="productRadio" b-unsiwr8l2k>Product</label></div></div></div></div></div></form></div></div></div>
+
+            <div class="navbar-button-container" b-unsiwr8l2k><div id="navbarLogin" class="dropdown"><button class="btn btn-primary btn-login" type="button" data-bs-toggle="dropdown" aria-expanded="false"><div class="d-block d-md-none"><i class="fa fa-user"></i></div>
+            <div class="d-none d-md-block"><div class="lh-1 fs-8 opacity-75">
+                    Login / Join
+                </div>
+                <div class="lh-sm">Member</div></div></button>
+        <ul class="dropdown-menu dropdown-menu-end"><li><a class="dropdown-item" href="/Join">How to Join</a></li>
+            <li><div class="dropdown-item">Login</div></li></ul></div></div></div>
+        <div class="w-100" b-unsiwr8l2k><div class="container-lg mx-auto py-1" b-unsiwr8l2k><div class="offcanvas-xl offcanvas-start" tabindex="-1" id="mainNavbarNav" aria-labelledby="mainNavbarNavLabel" b-unsiwr8l2k><div class="offcanvas-header" b-unsiwr8l2k><img class="brand-logo" src="images/logo-new-black.png" alt="logo" b-unsiwr8l2k>
+
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#mainNavbarNav" aria-label="Close" b-unsiwr8l2k></button></div>
+                    <div class="offcanvas-body" b-unsiwr8l2k><div class="nav-rows-wrapper w-100" b-unsiwr8l2k><div class="nav-grid w-100" b-unsiwr8l2k><div class="nav-item dropdown" b-unsiwr8l2k><a class="nav-link dropdown-toggle" id="navbarDropdown_1" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" b-unsiwr8l2k>About</a>
+                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown_1" b-unsiwr8l2k><li b-unsiwr8l2k><a href="/about-us" class="dropdown-item">About Us</a></li><li b-unsiwr8l2k><a href="/fmm-council" class="dropdown-item">FMM Council</a></li><li b-unsiwr8l2k><a href="/advisory-council" class="dropdown-item">Advisory Council</a></li><li b-unsiwr8l2k><a href="/legal-advisor" class="dropdown-item">Legal Advisor</a></li><li b-unsiwr8l2k><a href="/contact" class="dropdown-item">Contact Us</a></li><li b-unsiwr8l2k><a href="/anti-bribery-corruption-policy" class="dropdown-item">Anti Bribery &amp; Corruption Policy</a></li><li b-unsiwr8l2k><a href="/whistleblowing-policy" class="dropdown-item">Whistleblowing Policy</a></li></ul></div><div class="nav-item dropdown" b-unsiwr8l2k><a class="nav-link dropdown-toggle" id="navbarDropdown_2" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" b-unsiwr8l2k>Services</a>
+                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown_2" b-unsiwr8l2k><li b-unsiwr8l2k><a target="_blank" href="/apec-business-travel-card" class="dropdown-item">APEC Business Travel Card</a></li><li b-unsiwr8l2k><a target="_blank" href="/non-preferential-certificate-of-origin-issuance" class="dropdown-item">Non-Preferential Certificate of Origin Issuance</a></li><li b-unsiwr8l2k><a target="_blank" href="/sales-of-preferential-certificate-of-origin-forms" class="dropdown-item">Sales of Preferential Certificate of Origin Forms</a></li><li b-unsiwr8l2k><a href="/circulars" class="dropdown-item">Circulars</a></li><li b-unsiwr8l2k><a target="_blank" href="/hr-ir-advisory" class="dropdown-item">HR IR Advisory</a></li><li b-unsiwr8l2k><a href="/industry-group-management" class="dropdown-item">Industry Group Management</a></li><li b-unsiwr8l2k><a href="https://www.fmm.org.my/Join" class="dropdown-item">Join FMM</a></li><li b-unsiwr8l2k><a target="_blank" href="/publications" class="dropdown-item">Publications</a></li></ul></div><div class="nav-item dropdown" b-unsiwr8l2k><a class="nav-link dropdown-toggle" id="navbarDropdown_3" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" b-unsiwr8l2k>Resources</a>
+                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown_3" b-unsiwr8l2k><li b-unsiwr8l2k><button type="button" class="dropdown-item text-start border-0 bg-transparent w-100" b-unsiwr8l2k>ESG Resources</button></li><li b-unsiwr8l2k><a target="_blank" href="/fmm-research" class="dropdown-item">FMM Research</a></li></ul></div><div class="nav-item dropdown" b-unsiwr8l2k><a class="nav-link dropdown-toggle" id="navbarDropdown_4" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" b-unsiwr8l2k>Media Centre</a>
+                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown_4" b-unsiwr8l2k><li b-unsiwr8l2k><a target="_blank" href="/newsroom" class="dropdown-item">Newsroom</a></li><li b-unsiwr8l2k><a href="https://www.fmm.org.my/WeeklyEBulletin" class="dropdown-item">E-Bulletin</a></li></ul></div><div class="nav-item" b-unsiwr8l2k><a href="/events" class="nav-link">Events</a></div><div class="nav-item" b-unsiwr8l2k><a href="/network" class="nav-link">Network</a></div><div class="nav-item" b-unsiwr8l2k><button type="button" class="nav-link border-0 bg-transparent" b-unsiwr8l2k>FMM Institute</button></div><div class="nav-item dropdown" b-unsiwr8l2k><a class="nav-link dropdown-toggle" id="navbarDropdown_8" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" b-unsiwr8l2k>Branch</a>
+                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown_8" b-unsiwr8l2k><li b-unsiwr8l2k><a target="_blank" href="/kedah-perlis" class="dropdown-item">Kedah / Perlis</a></li><li b-unsiwr8l2k><a target="_blank" href="/penang" class="dropdown-item">Penang</a></li><li b-unsiwr8l2k><a target="_blank" href="/perak" class="dropdown-item">Perak</a></li><li b-unsiwr8l2k><a target="_blank" href="/selangor-kl" class="dropdown-item">Selangor &amp; KL</a></li><li b-unsiwr8l2k><a target="_blank" href="/negeri-sembilan" class="dropdown-item">Negeri Sembilan</a></li><li b-unsiwr8l2k><a target="_blank" href="/malacca" class="dropdown-item">Malacca</a></li><li b-unsiwr8l2k><a target="_blank" href="/johor" class="dropdown-item">Johor</a></li><li b-unsiwr8l2k><a target="_blank" href="/eastern" class="dropdown-item">Eastern</a></li><li b-unsiwr8l2k><a target="_blank" href="/sarawak" class="dropdown-item">Sarawak</a></li><li b-unsiwr8l2k><a target="_blank" href="/sabah" class="dropdown-item">Sabah</a></li></ul></div></div></div></div></div></div></div></div></div>
+
+<style b-unsiwr8l2k>
+    /* Ensure both navbar dropdown buttons have the same width */
+    /* .navbar-button-container {
+        min-width: 160px; /* Adjust this value as needed
+    } */
+
+    .navbar-dropdown-button {
+        width: 100%;
+        white-space: nowrap;
+    }
+
+    /* Make sure user dropdown button also has the same styling */
+    .navbar-button-container .btn {
+        width: 100%;
+        min-width: 160px; /* Match the container width */
+    }
+
+    #mainNavbarNav .offcanvas-body {
+        flex-direction: column !important;
+        align-items: stretch !important;
+    }
+
+    .nav-rows-wrapper {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    /* Nav grid - 8 columns; items flow row-major, so row 2 item aligns below row 1 item in same column */
+    .nav-grid {
+        display: grid;
+        grid-template-columns: repeat(8, minmax(0, 1fr));
+        width: 100%;
+        column-gap: 0;
+        row-gap: 0.75rem;
+    }
+
+    .nav-grid .nav-item {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav-grid .nav-link {
+        white-space: nowrap;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+
+    /* Nav rows - for fallback/default nav (ul structure) */
+    .nav-row {
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+
+    .nav-row .nav-link {
+        white-space: nowrap;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+
+    /* On mobile (offcanvas), single column - items stack vertically */
+    @media (max-width: 1199.98px) {
+        .nav-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .nav-grid .nav-item {
+            justify-content: flex-start;
+        }
+
+        .nav-row {
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+    }
+
+    /* Company Product Dropdown Responsive Styles */
+    .company-product-dropdown {
+        min-width: 700px;
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .navbar-button-container
+
+    {
+        min-width: auto;
+    }
+
+    .navbar-button-container .btn {
+        min-width: auto;
+        width: auto;
+    }
+
+    /* Full-width dropdown for mobile/tablet */
+    .company-product-dropdown {
+        position: fixed !important;
+        top: auto !important;
+        left: 15px !important;
+        right: 15px !important;
+        width: calc(100vw - 30px) !important;
+        min-width: unset !important;
+        max-width: unset !important;
+        transform: none !important;
+        margin-top: 10px;
+        max-height: 80vh;
+        overflow-y: auto;
+        z-index: 1055;
+        border-radius: 0.375rem;
+    }
+
+    }
+
+    /* Extra small screens (below 576px) */
+    @media (max-width: 576px) {
+        .company-product-dropdown
+
+    {
+        left: 10px !important;
+        right: 10px !important;
+        width: calc(100vw - 20px) !important;
+    }
+
+    }
+
+    /* Ensure dropdown content is properly spaced on mobile */
+    @media (max-width: 768px) {
+        .company-product-dropdown .row
+
+    {
+        margin: 0;
+    }
+
+    .company-product-dropdown .col-12 {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+
+    }
+
+    /* White background for nav dropdowns - but NOT for company/product search */
+    #mainNavbar .dropdown-menu:not(.company-product-dropdown) {
+        background-color: #fff !important;
+        opacity: 1 !important;
+        z-index: 1050 !important;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }
+
+    #navbarLogin .dropdown-menu {
+        z-index: 1051 !important;
+    }
+
+    /* Company/Product Search dropdown - keep dark background */
+    #companyProductSearch .dropdown-menu {
+        z-index: 1052 !important;
+        opacity: 1 !important;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }
+
+    #navbarSearch .dropdown-menu {
+        z-index: 1051 !important;
+    }
+
+    /* White dropdown items styling - but NOT for company/product search */
+    #mainNavbar .dropdown-menu:not(.company-product-dropdown) .dropdown-item {
+        background-color: transparent !important;
+    }
+
+    #mainNavbar .dropdown-menu:not(.company-product-dropdown) .dropdown-item:hover {
+        background-color: rgba(0, 0, 0, 0.05) !important;
+    }
+
+    /* Keep active state same as hover - prevent white text on click */
+    #mainNavbar .dropdown-menu:not(.company-product-dropdown) .dropdown-item.active,
+    #mainNavbar .dropdown-menu:not(.company-product-dropdown) .dropdown-item:active {
+        background-color: rgba(0, 0, 0, 0.05) !important;
+        color: inherit !important;
+    }
+
+    #memberSidebar {
+        z-index: 100 !important;
+    }
+
+    .sticky-md-top {
+        z-index: 100 !important;
+    }</style>
+
+    <div id="page-content" class="flex-fill">
+    <div class="container mt-4"><a class="icon-link text-decoration-none fw-medium" href="/article/{articleGroupSlug}"><i class="fa fa-arrow-left"></i>
+        Back
+    </a></div>
+
+<div class="container mt-5"><div class="my-5"><h1>FMM urges smooth transition to new foreign worker system, pushes for multi-tier levy mechanism</h1><div class="d-flex flex-wrap gap-3 mt-4"><div><i class="bi bi-calendar"></i>
+                    July 08, 2026</div><div><i class="bi bi-building"></i>
+                        Head Office, KL</div></div></div><div class="mb-4">
+        <div><b><u><font size="4">FMM In The News: KLSESCREENER, July 7, 2026</font></u></b></div><div><br></div><div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>KUALA LUMPUR (July 7): The Federation of Malaysian Manufacturing (FMM) has urged the Ministry of Human Resources to ensure a smooth transition to the newly centralised foreign worker management system while using the platform to implement the multi-tier levy mechanism (MTLM).</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p data-end="1936" data-start="1685">FMM president Jacob Lee Chor Kok said the transition should be supported by clear operational guidelines, sufficient system capacity to handle application volumes and continuous engagement with industry associations to prevent new bottlenecks.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p data-end="2208" data-start="1941">He also stressed that future improvements to the digital recruitment ecosystem should build upon, rather than duplicate, the newly consolidated Foreign Workers Centralised Management System (FWCMS)/eQuota single-window platform.</p></div><div class="inPageAd" id="div-gpt-ad-inpage" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p data-end="2412" data-start="2213">Lee said the consolidation of foreign worker quota processing under the Human Resources Ministry provides the ideal opportunity to operationalise the MTLM, which the FMM has consistently called on the government to implement without further delay.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p data-end="2756" data-start="2417">“We have long maintained that the MTLM should replace rigid administrative caps and sectoral ratios with a structured, demand-driven approach, allowing companies to hire based on genuine operational need, with tiered levies calibrated to incentivise automation and reduce dependency on foreign labour,” he said in a statement on Tuesday.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>Under the FMM’s proposal, companies with foreign workers of no more than 10% to 15% of their workforce should be considered for preferential levy rates, potentially below the current RM1,850 rate, while firms with higher dependency may pay progressively higher levies under a transparent formula with adequate advance notice.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>He said the mechanism must recognise that labour transformation cannot be applied uniformly across all industries, particularly export-oriented manufacturing, where operational and semi-skilled workers remain essential.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>“The MTLM should serve as an economic and industrial transition tool rather than a restrictive labour access policy, with levy proceeds channelled into automation, workforce development and productivity support, particularly for small and medium enterprises,” he said.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>On July 1, the Cabinet decided to place the one-stop centre for foreign worker management fully under the Human Resources Ministry, taking effect on July 6.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>Under the new system, all foreign worker quota applications must be submitted exclusively through the eQuota module of the FWCMS, and manual case-by-case processing has been discontinued.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>Welcoming the move, the FMM described it as a long-awaited reform that would streamline Malaysia’s foreign worker recruitment process and address long-standing concerns over fragmented approval procedures involving multiple agencies.</p></div><div class="newsTextDataWrapInner" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);"><p>The federation also expressed its commitment to continue working closely with the Human Resources Ministry and relevant agencies to ensure the reform is implemented effectively while constructively addressing the issues affecting manufacturers’ access to foreign workers.</p><p>Source:<a href="https://www.klsescreener.com/v2/news/view/1750649/fmm-urges-smooth-transition-to-new-foreign-worker-system-pushes-for-multi-tier-levy-mechanism">https://www.klsescreener.com/v2/news/view/1750649/fmm-urges-smooth-transition-to-new-foreign-worker-system-pushes-for-multi-tier-levy-mechanism</a></p></div></div></div></div></div>
+
+    <div id="mainFooter" class="text-white bg-dark2"><div class="container-lg pt-5">
+    <div class="row text-center text-md-start row-cols-1 g-3 g-lg-0 row-cols-md-3 row-cols-lg-5">
+        <div class="col">
+            <h6>About</h6>
+            <ul>
+                <li><a href="/about-us">About us</a></li>
+
+                <li><a href="/fmm-council">FMM Council</a></li>
+
+                <li><a href="/join">How to Join</a></li>
+
+                <li><a href="/contact">Contact Us</a></li>
+
+                <li><a href="https://www.fmm.edu.my/" target="_blank">FMM Institute</a></li>
+
+                <li><a href="https://gs1my.org/" target="_blank">GS1 Malaysia</a></li>
+
+                <li><a href="https://fmmyouth.org.my/">FMM Youth</a></li>
+            </ul>
+        </div>
+
+        <div class="col">
+
+            <h6>Our Services</h6>
+            <ul>
+                <li>
+                    <a href="/apec-business-travel-card">
+                        APEC Business Travel Card
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/industry-group-management">
+                        Industry Group Management
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/hr-ir-advisory">
+                        HR IR Advisory
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/sales-of-preferential-certificate-of-origin-forms">
+                        Sales of Preferential Certificate of Origin Forms
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/non-preferential-certificate-of-origin-issuance">
+                        Non-Preferential Certificate of Origin Issuance
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col">
+            <h6>News &amp; Events</h6>
+            <ul>
+                <li><a href="/newsroom">Newsroom</a></li>
+
+                <li><a href="/events">Events</a></li>
+
+                <li><a href="/gallery">Photo Gallery</a></li>
+            </ul>
+        </div>
+
+        <div class="col">
+            <h6>Helpful Resources</h6>
+            <ul>
+                <li><a href="/advertise-with-us">Advertise with Us</a></li>
+
+                <li><a href="/publications">Our Publications</a></li>
+            </ul>
+        </div>
+
+        <div class="col">
+            <h6>Contact Information</h6>
+            <ul class="d-flex flex-column align-items-center align-items-md-start">
+                <li class="d-flex align-items-baseline gap-2 pe-4 pe-md-0"><i class="fa-regular fa-envelope"></i>
+                    <a href="mailto:webmaster@fmm.org.my">webmaster@fmm.org.my</a>
+                </li>
+                <li class="d-flex align-items-baseline gap-2 pe-4 pe-md-0"><i class="fa-solid fa-phone"></i>
+                    <a href="tel:+60362867200">+603-62867200</a>
+                </li>
+                <li class="d-flex align-items-baseline gap-2 pe-4 pe-md-0"><i class="fa-regular fa-map"></i>
+                    <address>
+                        No.3 Persiaran Dagang, PJU 9,<br>
+                        Bandar Sri Damansara,<br>
+                        52200 Kuala Lumpur</address></li>
+            </ul>
+        </div>
+    </div>
+</div><div class="container-lg pt-4 pb-5">
+    <div class="d-flex justify-content-center justify-content-md-start">
+        <img class="brand-logo" src="/images/logo-new-white.png" alt="FMM">
+    </div>
+
+    <div class="row align-items-center mt-4"><div class="col-12 col-md text-center text-md-start"><div class="row justify-content-center justify-content-md-start"><div class="col-auto"><!--!--><i id="AR1VJS5LDIMJH" class="bi bi-facebook fs-5 me-2"></i><!--!--><a href="https://www.facebook.com/fmm.org.my">/fmm.org.my</a></div><!--!-->
+                    <div class="col-auto"><!--!--><i id="AR1VJS5LDIMJI" class="bi bi-linkedin fs-5 me-2"></i><!--!--><a href="https://www.linkedin.com/in/fmmofficial">/in/fmmofficial</a></div><!--!-->
+                    <div class="col-auto"><!--!--><i id="AR1VJS5LDIMJJ" class="bi bi-instagram fs-5 me-2"></i><!--!--><a href="https://www.instagram.com/officialfmm">/officialfmm</a></div></div></div></div>
+</div><hr class="my-0 mx-xl-5">
+<div class="container-lg">
+    <div class="py-4 border-top-1">
+        <div class="row align-items-center">
+            <div class="col-12 col-md text-center text-md-start">
+                <div class="row justify-content-center justify-content-md-start">
+                    <div class="col-auto"><a href="/personal-data-protection-act-policy">FMM Personal Data Protection Act Policy</a></div>
+                    <div class="col-auto"><a href="/anti-bribery-corruption-policy">Anti Bribery &amp; Corruption Policy</a></div>
+                    <div class="col-auto"><a href="/whistleblowing-policy">Whistleblowing Policy</a></div>
+                </div>
+                <div class="mt-3">
+                    <div class="copyright">Copyright © 2026 Federation of Malaysian Manufacturing Co. Registration No. 196801000309 (7907-X)</div>
+                    <div class="copyright">(Formerly known as Federation of Malaysian Manufacturers)</div>
+                </div>
+            </div>
+            <div class="col-12 col-md-auto">
+                <div class="hstack mt-4 mt-md-0 gap-2 justify-content-center">
+                    <div>
+                        <div class="ratio img-thumbnail p-0" style="height: 60px;">
+                            <img src="/images/std 9001.jpg" class="object-fit-contain" alt="">
+                        </div>
+                        <p class="mt-2 mb-0 fs-8 text-white text-opacity-75">Certified to IS0 9001:2015</p>
+                        <p class="mb-0 fs-8 text-white text-opacity-75">Certificate No: QMS 00787</p>
+                    </div>
+                    <div class="">
+                        <div class="ratio img-thumbnail p-0" style="height: 60px;">
+                            <img src="/images/ABMS.png" class="object-fit-contain" alt="">
+                        </div>
+                        <p class="mt-2 mb-0 fs-8 text-white text-opacity-75">Certified to IS0 37001:2016</p>
+                        <p class="mb-0 fs-8 text-white text-opacity-75">Certificate No: ABMS 00295</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+    
+
+    <style>
+    .gap-backdrop {
+        position: fixed;
+        inset: 0;
+        background-color: rgba(17, 24, 39, 0.55);
+        -webkit-backdrop-filter: blur(4px);
+        backdrop-filter: blur(4px);
+        z-index: 10600;
+        animation: gap-fade-in 180ms ease-out;
+    }
+
+    .gap-modal {
+        position: fixed;
+        inset: 0;
+        z-index: 10610;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1.5rem;
+        overflow-y: auto;
+    }
+
+    .gap-dialog {
+       
+        width: 100%;
+        min-width: min(480px, 100%);
+        max-width: 620px;
+        animation: gap-pop-in 220ms cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .gap-content {
+        position: relative;
+        background: #ffffff;
+        border-radius: 14px;
+        box-shadow:
+            0 1px 2px rgba(17, 24, 39, 0.08),
+            0 24px 48px -12px rgba(17, 24, 39, 0.35);
+        overflow: hidden;
+        min-height: 320px;
+        max-height: calc(100vh - 3rem);
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gap-body {
+        padding: 0;
+        margin: 0;
+        overflow-y: auto;
+        line-height: 1.5;
+        flex: 1 1 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 0;
+    }
+
+    .gap-body :first-child { margin-top: 0; }
+    .gap-body :last-child { margin-bottom: 0; }
+    .gap-body img { max-width: 100%; height: auto; display: block; }
+
+    .gap-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 34px;
+        height: 34px;
+        padding: 0;
+        border: 0;
+        border-radius: 50%;
+        background: rgba(17, 24, 39, 0.6);
+        color: #ffffff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        z-index: 2;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+        transition: background-color 120ms ease, transform 120ms ease, box-shadow 120ms ease, opacity 120ms ease;
+    }
+
+    .gap-close:hover:not(:disabled) {
+        background: rgba(17, 24, 39, 0.85);
+        transform: scale(1.05);
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .gap-close:active:not(:disabled) {
+        transform: scale(0.98);
+    }
+
+    .gap-close:focus-visible {
+        outline: 2px solid #ffffff;
+        outline-offset: 2px;
+    }
+
+    .gap-close:disabled {
+        cursor: not-allowed;
+        opacity: 0.7;
+    }
+
+    .gap-close .spinner-border {
+        width: 1rem;
+        height: 1rem;
+        border-width: 0.15em;
+    }
+
+    @keyframes gap-fade-in {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+    }
+
+    @keyframes gap-pop-in {
+        from { opacity: 0; transform: translateY(8px) scale(0.97); }
+        to   { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
+    @media (max-width: 576px) {
+        .gap-modal { padding: 0.75rem; }
+        .gap-dialog { min-width: 0; }
+        .gap-content { min-height: 260px; }
+        .gap-close { top: 8px; right: 8px; width: 32px; height: 32px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .gap-backdrop,
+        .gap-dialog {
+            animation: none;
+        }
+
+        .gap-close:hover:not(:disabled) {
+            transform: none;
+        }
+    }
+</style></main>
+
+
+
+<div id="AR136FU2CHHE3" class="toast-container position-fixed top-0 end-0 p-3"></div>
+
+<div id="blazor-error-ui" class="alert alert-danger alert-dismissible fixed-bottom m-0 rounded-0 d-none" data-nosnippet>
+    An unhandled error has occurred.
+    <a href class="reload alert-link">Reload</a>
+    <a class="dismiss btn-close"></a></div>
+            <!--Blazor:{"prerenderId":"8b28aaa0c8d84e91beaf3b7144386cc0"}-->
+    <script src="_framework/blazor.web.js"></script>
+    <script type="module" src="_content/FMM.Extensions.Web/main.js"></script>
+
+    
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2025.3.825/js/kendo.all.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fabric@5.4.0/dist/fabric.min.js"></script>
+    <script src="js/kendoTelerik/telerik-license.dmw3ip9fia.js"></script>
+
+
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.0.1/chart.umd.js" integrity="sha512-gQhCDsnnnUfaRzD8k1L5llCCV6O9HN09zClIzzeJ8OJ9MpGmIlCxm+pdCkqTwqJ4JcjbojFr79rl2F1mzcoLMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js" integrity="sha512-JPcRR8yFa8mmCsfrw4TNte1ZvF1e3+1SdGMslZvmrzDYxS69J7J49vkFL8u6u8PlPJK+H3voElBtUCzaXj+6ig==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+    <script src="_content/Blazor.Bootstrap/blazor.bootstrap.js"></script>
+    <script src="js/admin-portal-sidebar-flyout.js"></script>
+    
+    
+
+    <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
+    <script src="js/emblaCarousel/index.2fdsvuyfim.js"></script>
+    
+    
+    <script src="js/recaptcha.52oi8ug678.js"></script>
+
+    <script src="js/kendoTelerik/kendotrial.js"></script>
+    
+    
+    <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+    <script src="js/download-center.e3kjudc3ol.js"></script>
+    
+    
+    <script src="js/excelDownload.45firwocsw.js"></script>
+
+    
+    <script src="js/sessionCookies.qu11u547nw.js"></script>
+
+    
+    <script src="js/banner-utils.0w6bj5a4s1.js"></script>
+    <script type="module" src="js/imageMapRuntime.x31e63ip8b.js"></script>
+
+    
+    <script>
+        window.setupExternalLinkTracking = function (dotNetRef, containerSelector) {
+            var container = document.querySelector(containerSelector);
+            if (!container) {
+                console.warn("[ExternalLinkTracker] Container not found:", containerSelector);
+                return;
+            }
+            console.log("[ExternalLinkTracker] Attached to", containerSelector);
+
+            container.addEventListener("click", function (e) {
+                var clicked = e.target;
+                console.log("[ExternalLinkTracker] Click detected on:", clicked.tagName, clicked.className, "href:", clicked.getAttribute && clicked.getAttribute("href"), "outerHTML:", clicked.outerHTML.substring(0, 200));
+
+                var anchor = clicked.closest("a[href]");
+                if (!anchor) {
+                    console.log("[ExternalLinkTracker] No <a href> ancestor found for clicked element");
+                    return;
+                }
+
+                var href = anchor.getAttribute("href");
+                console.log("[ExternalLinkTracker] Found anchor href:", href);
+
+                if (!href || href.startsWith("#") || href.startsWith("javascript:")) return;
+
+                try {
+                    var linkUrl = new URL(href, window.location.origin);
+                    console.log("[ExternalLinkTracker] Parsed origin:", linkUrl.origin, "vs current:", window.location.origin);
+
+                    if (linkUrl.origin === window.location.origin) {
+                        console.log("[ExternalLinkTracker] Same-origin link, skipping");
+                        return;
+                    }
+
+                    var linkText = anchor.textContent ? anchor.textContent.trim() : "";
+                    console.log("[ExternalLinkTracker] External click detected! Calling .NET:", href, linkText);
+                    dotNetRef.invokeMethodAsync("OnExternalLinkClicked", href, linkText);
+                } catch (ex) {
+                    console.warn("[ExternalLinkTracker] Error:", ex);
+                }
+            }, true);
+        };
+
+        /** Same-origin file links in CMS editor HTML (e.g. /files/... PDFs) — member activity only, .NET callback. */
+        window.setupCmsMemberFileLinkTracking = function (dotNetRef, containerSelector) {
+            var container = document.querySelector(containerSelector);
+            if (!container) return;
+
+            function isSameOriginFileLink(href, anchor) {
+                try {
+                    if (!href || href.startsWith("#") || href.startsWith("javascript:")) return false;
+                    var u = new URL(href, window.location.origin);
+                    if (u.origin !== window.location.origin) return false;
+                    var p = u.pathname.toLowerCase();
+                    if (anchor.hasAttribute("download")) return true;
+                    if (p.indexOf("/files/") >= 0) return true;
+                    if (/\.(pdf|zip|doc|docx|xls|xlsx|ppt|pptx)(\?|$)/i.test(p)) return true;
+                    return false;
+                } catch (e) {
+                    return false;
+                }
+            }
+
+            function classifyAction(anchor) {
+                if (anchor.hasAttribute("download")) return "download";
+                var t = (anchor.getAttribute("target") || "").toLowerCase();
+                if (t === "_blank") return "view";
+                return "view";
+            }
+
+            container.addEventListener("click", function (e) {
+                var anchor = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+                if (!anchor) return;
+                var href = anchor.getAttribute("href");
+                if (!isSameOriginFileLink(href, anchor)) return;
+                var abs = new URL(href, window.location.origin).href;
+                var linkText = anchor.textContent ? anchor.textContent.trim() : "";
+                var action = classifyAction(anchor);
+                dotNetRef.invokeMethodAsync("OnCmsMemberFileLinkClicked", abs, linkText, action);
+            }, true);
+        };
+    </script>
+
+    
+    <script src="js/membershipCharts.70wwtda18d.js"></script></body></html><!--Blazor-Server-Component-State:CfDJ8JG1T8RLVqlAoUz8Cf/xdpbodfyVIvRyPRDuC9WnawXgV30egKfLxupKb2Q1UKaAqEe0wxc5FBmXf8iBgHQLOcOPcrdwA3X3HaADzGoYx/Cn272XXsuxB2GI6hh1zJGmLMHm4d+LpXgB9Z7xkEzq2lDumAmwE2EuEWSdfw8irW1S1pgL0uS6q1+0lHkJ/bUWkyyyyD9ieOIDhGAezayPQTTaYipsE//PF/Lo+AW7cUJC21sc9vn4pkSs5+sRAPsbkkW7kBhVvxML4h+n+ZsSZ2b9zENkwb4XK5nOyuhh/xHoFctmnl7U3dqYr7wnbVm/qlNu0+KXxBsJSzQHvYjA6W5O/ttOPM0LAtfv9rCgfyvLSA4BfdHuN0CSNzw9eIN68FGqIpfhdPEURjejF2verJPH9lBDbvjuamHX6SW5Xp04R8nyK1H5CPRLOlen98gparCq+EK5pKDqa1EDqz8oTROmWp3QhzKxYa0b3MEhTwaaau/BWaTs3GIoNgZYUcnn7vCH0lgW1TcGNjEPrhCP20BtajT2HtaR0hSedu4DA1YZFUtJMf+ZXGasEXd+UyaVCQanMHU1dO/WKqoHXT3PsNUXzOCx/lPbHoI9LRWd24SXa1k2EPGEpcVyaosw17tnFMhx+ha3HVvZJZSVXVODZPy9rXNpfzrizLF6H1fUNI6oKB5OYjbRflDhh5I/hdwXg2xuOjVsjypEmqzWdCE863YGkJvFkXWF0YGrMmnplfOmE5Vg8bviKrQ6mPxa2UYsyYOfccyC3VuRnX/HM37NSWZ7Vm6jmPMSnGiUHE+qQ0OtNc5vI6avHxDHm2ntJ6MZxBKLET4OWOSTLWIKtHzTLEjPQBZxoHXMY/eDDwsdheku8MvtQ9qk8tHgt33vgmXo30ekMzyk1rFwOL/fWD6nWnNh9kbQV5zUjJXXThZvsUj55nyCZhUp7lU+tunmJAHfB0iTNKCZWPojacBHG2XjPJKByhyleJkkc2WW8mWl5BH7dS7Z4DnE6bg/o3QTusVTxGokFMQFRLE8JWVfEMVAfZJhth8uHoX7O8+50jQyv+otEOP4FlhouLzF7BwRL7JLAqdvAGZlmkRFQSOKiFsy/zbVF+sBuEubcfMApjEj6XSRCEBCjhQR5fUsOAsUexvMcQ==-->

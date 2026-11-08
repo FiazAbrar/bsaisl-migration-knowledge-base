@@ -1,0 +1,436 @@
+
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x9B9;&#x9CB;&#x9AE; - ই-গ্রাম আদালত</title>
+    <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
+    
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="/css/site.css?v=RDLLiw6rZJXO-x5O16vl0IOXFhfMH4u7lhRFtyXB9Zc" />
+    <link rel="stylesheet" href="/css/dashboard.css?v=bqFfnAfMdib2bPgClb13hEFpIyU0yWFHsQCE5KwgXV4" />
+    <link rel="stylesheet" href="/e_VillageCourt_Web_App.styles.css?v=YZ7TFhZ4YQcZpdcX3jYgZbkk8aCQfneXhrmo3L5FKXU" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+
+        <header b-ux217agpmr class="sticky-top">
+            <nav b-ux217agpmr class="navbar navbar-expand-lg navbar-light shadow-sm">
+                <div b-ux217agpmr class="container">
+                    <a class="navbar-brand" href="/">
+                        <img src="/images/logo.svg" alt="Logo" width="30" height="30" class="me-2" /> ই-গ্রাম আদালত
+                    </a>
+                    <button b-ux217agpmr class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span b-ux217agpmr class="navbar-toggler-icon"></span>
+                    </button>
+                    <div b-ux217agpmr class="navbar-collapse collapse d-lg-inline-flex justify-content-between">
+                        <ul b-ux217agpmr class="navbar-nav flex-grow-1 justify-content-end">
+                            <li b-ux217agpmr class="nav-item">
+                                <a class="nav-link" href="/">হোম</a>
+                            </li>
+                            <li b-ux217agpmr class="nav-item">
+                                <a class="nav-link" href="/About">সম্পর্কে</a>
+                            </li>
+                            <li b-ux217agpmr class="nav-item">
+                                <a class="nav-link" href="/Privacy">গোপনীয়তা</a>
+                            </li>
+                        </ul>
+                        <ul b-ux217agpmr class="navbar-nav">
+                            <li b-ux217agpmr class="nav-item">
+                                <a class="nav-link text-primary fw-bold" href="/register">নিবন্ধন</a>
+                            </li>
+                            <li b-ux217agpmr class="nav-item">
+                                <a class="btn btn-primary btn-sm rounded-pill ms-2 px-3 mt-1" href="/login">লগইন</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main b-ux217agpmr role="main">
+            
+<!-- Hero Section -->
+<div class="hero-section text-center fade-in-up position-relative overflow-hidden" style="margin-top: -80px; padding-top: 160px; padding-bottom: 100px; background: linear-gradient(135deg, #0052D4 0%, #4364F7 50%, #6FB1FC 100%);">
+    <div class="container position-relative" style="z-index: 2;">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <span class="badge bg-white text-primary rounded-pill px-3 py-2 mb-3 shadow-sm fw-bold">স্মার্ট বাংলাদেশ বিনির্মাণে অগ্রগামী</span>
+                <h1 class="display-3 fw-bold mb-3 hero-title text-white">ডিজিটাল গ্রাম আদালত</h1>
+                <h2 class="h4 mb-4 text-white-50 fw-light">স্বচ্ছ, দ্রুত ও সহজ বিচার ব্যবস্থা</h2>
+                <p class="hero-text mx-auto col-lg-9 mb-5 text-white opacity-90 fs-5 lh-base">
+                    গ্রাম আদালত আইন ২০০৬ (সংশোধিত ২০২৪) এর আওতায় ইউনিয়ন পর্যায়ে বিরোধ নিষ্পত্তির নির্ভরযোগ্য ডিজিটাল প্ল্যাটফর্ম। 
+                    এখন ঘরে বসেই আবেদন করুন এবং মামলার সকল কার্যক্রম পর্যবেক্ষণ করুন অনলাইনে।
+                </p>
+                <div class="d-flex justify-content-center gap-3 flex-wrap">
+                    <a class="btn btn-light btn-lg hero-btn text-primary shadow-lg border-0 px-5 py-3 fw-bold rounded-pill" href="/VillageCourt/Create">
+                        <i class="bi bi-file-earmark-plus-fill me-2"></i> মামলা দায়ের করুন
+                    </a>
+                    <a class="btn btn-outline-light btn-lg hero-btn px-5 py-3 fw-bold backdrop-blur rounded-pill" href="/CheckStatus">
+                        <i class="bi bi-search me-2"></i> মামলার অবস্থা জানুন
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Decorative Shapes -->
+    <div class="position-absolute top-0 start-0 w-100 h-100 overflow-hidden" style="z-index: 1; opacity: 0.1;">
+        <div class="position-absolute bg-white rounded-circle" style="width: 300px; height: 300px; top: -50px; left: -50px;"></div>
+        <div class="position-absolute bg-white rounded-circle" style="width: 500px; height: 500px; bottom: -100px; right: -100px;"></div>
+    </div>
+</div>
+
+<!-- Digital Services Advertisement -->
+<div class="container position-relative" style="z-index: 10; margin-top: -80px;">
+    <div class="card border-0 shadow-lg rounded-4 overflow-hidden bg-white">
+        <div class="row g-0 align-items-center">
+            <div class="col-md-8 p-5">
+                <span class="badge bg-light text-primary fw-bold mb-3 border border-primary-subtle">ডিজিটাল পার্টনার</span>
+                <h3 class="fw-bold mb-3">একই প্ল্যাটফর্মে সকল ইউনিয়ন পরিষদ সেবা</h3>
+                <p class="text-muted mb-4">
+                    <span class="fw-bold text-dark">ই-পরিষদ (eParishad.com)</span> এর মাধ্যমে আপনার ইউনিয়নের সকল ডিজিটাল সেবা এখন এক ক্লিকে। 
+                    নাগরিক সনদ, ট্রেড লাইসেন্স, এবং অন্যান্য সনদের জন্য আবেদন করুন ঘরে বসেই।
+                </p>
+                <a href="https://eparishad.com" target="_blank" class="btn btn-primary rounded-pill px-4 py-2 shadow-sm">
+                    বিস্তারিত দেখুন <i class="bi bi-arrow-right ms-2"></i>
+                </a>
+            </div>
+            <div class="col-md-4 bg-primary-subtle p-5 text-center d-flex align-items-center justify-content-center h-100">
+                <a href="https://eparishad.com" target="_blank" class="text-decoration-none">
+                    <div class="p-4 rounded-4 bg-white shadow-sm d-inline-block hover-scale transition-all">
+                        <img src="/images/eparishad-logo.svg" alt="eParishad Logo" class="img-fluid" width="200" style="max-width: 200px;">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Key Features -->
+<div class="container my-5 py-5">
+    <div class="row text-center mb-5">
+        <div class="col-12">
+            <h2 class="fw-bold text-primary">কেন এই ডিজিটাল গ্রাম আদালত?</h2>
+            <p class="text-muted">গ্রাম আদালত আইন ২০০৬ (সংশোধন ২০২৪) ও বিধিমালা ২০১৬ এর আলোকে সহজ ও দ্রুত বিচার।</p>
+        </div>
+    </div>
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm h-100 text-center p-4 rounded-4 hover-lift transition-all">
+                <div class="display-4 text-primary mb-3"><i class="bi bi-hammer"></i></div>
+                <h4 class="fw-bold mb-3">শক্তিশালী আইনগত ভিত্তি</h4>
+                <p class="text-muted small">ফৌজদারি ও দেওয়ানি মামলার ক্ষেত্রে ৩,০০,০০০ (তিন লক্ষ) টাকা পর্যন্ত ক্ষতিপূরণ আদায়ের ক্ষমতা (সংশোধন ২০২৪ অনুযায়ী)।</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm h-100 text-center p-4 rounded-4 hover-lift transition-all">
+                <div class="display-4 text-primary mb-3"><i class="bi bi-clock-history"></i></div>
+                <h4 class="fw-bold mb-3">দ্রুত নিষ্পত্তি</h4>
+                <p class="text-muted small">মামলা গ্রহণের ১৫ দিনের মধ্যে প্রথম অধিবেশন এবং ৯০ দিনের মধ্যে বিচার কার্য সমাপ্ত করার আইনি বাধ্যবাধকতা।</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm h-100 text-center p-4 rounded-4 hover-lift transition-all">
+                <div class="display-4 text-primary mb-3"><i class="bi bi-people-fill"></i></div>
+                <h4 class="fw-bold mb-3">স্থানীয় বিচারক প্যানেল</h4>
+                <p class="text-muted small">চেয়ারম্যান এবং উভয় পক্ষের মনোনীত একজন ইউপি সদস্য ও একজন স্থানীয় গণ্যমান্য ব্যক্তি সমন্বয়ে ৫ সদস্যের বিচারক প্যানেল।</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- How It Works -->
+<div class="container-fluid bg-light py-5 mb-5 rounded-4">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col-12">
+                <h2 class="fw-bold">মামলা পরিচালনার ধাপসমূহ</h2>
+                <p class="text-muted">বিধিমালা ২০১৬ অনুযায়ী নির্ধারিত ফি ও পদ্ধতি</p>
+            </div>
+        </div>
+        <div class="row text-center position-relative">
+            <div class="col-md-3 position-relative mb-4 mb-md-0">
+                <div class="step-number bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3 shadow-lg" style="width: 60px; height: 60px; font-size: 1.5rem;">১</div>
+                <h5 class="fw-bold">আবেদন দাখিল</h5>
+                <p class="small text-muted px-3">ফৌজদারি ১০ টাকা বা দেওয়ানি ২০ টাকা ফিস সহ ফরম-১ এ আবেদন করুন।</p>
+            </div>
+            <div class="col-md-3 position-relative mb-4 mb-md-0">
+                <div class="step-number bg-white text-primary border border-2 border-primary rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3 shadow-sm" style="width: 60px; height: 60px; font-size: 1.5rem;">২</div>
+                <h5 class="fw-bold">আদালত গঠন</h5>
+                <p class="small text-muted px-3">উভয় পক্ষ ১ জন ইউপি সদস্য ও ১ জন স্থানীয় ব্যক্তি মনোনয়ন দিবেন (ফরম-৭)।</p>
+            </div>
+            <div class="col-md-3 position-relative mb-4 mb-md-0">
+                <div class="step-number bg-white text-primary border border-2 border-primary rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3 shadow-sm" style="width: 60px; height: 60px; font-size: 1.5rem;">৩</div>
+                <h5 class="fw-bold">শুনানি ও প্রাক-বিচার</h5>
+                <p class="small text-muted px-3">সাক্ষ্য গ্রহণ এবং প্রয়োজনে আপোষ-মীমাংসার (প্রাক-বিচার) উদ্যোগ গ্রহণ।</p>
+            </div>
+            <div class="col-md-3 position-relative mb-4 mb-md-0">
+                <div class="step-number bg-success text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3 shadow-lg" style="width: 60px; height: 60px; font-size: 1.5rem;">৪</div>
+                <h5 class="fw-bold">রায় ও ডিক্রি</h5>
+                <p class="small text-muted px-3">সংখ্যাগরিষ্ঠ মতার ভিত্তিতে রায় ঘোষণা (ফরম-৯) ও ডিক্রি জারি (ফরম-১২)।</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Call to Action / Info -->
+<div class="container mb-5">
+    <div class="row align-items-stretch g-4">
+        <div class="col-md-6">
+            <div class="p-5 rounded-4 shadow-lg h-100 text-white position-relative"
+                 style="background: linear-gradient(135deg, #0d6efd 0%, #0b5ed7 100%);">
+
+                <div class="position-relative z-1">
+                    <h3 class="fw-bold mb-3">বিচারিক ও প্রশাসনিক প্যানেল</h3>
+                    <p class="opacity-90 mb-4 fs-6">
+                        গ্রাম আদালতের চেয়ারম্যান ও সদস্যদের দাপ্তরিক কার্যক্রম পরিচালনার জন্য সংরক্ষিত।
+                        মামলার নথিপত্র ব্যবস্থাপনা, সমন জারি এবং রায় কার্যকর করার জন্য প্রবেশ করুন।
+                    </p>
+
+                    <a class="btn btn-outline-light fw-bold rounded-pill px-4 shadow-sm" href="/login">
+                        <i class="bi bi-box-arrow-in-right me-2"></i> দাপ্তরিক প্রবেশ
+                    </a>
+                </div>
+                <div class="position-absolute bottom-0 end-0 me-3 mb-3"
+                     style="opacity: 0.18; color: #002b66;">
+                    <i class="bi bi-shield-lock-fill" style="font-size: 8rem;"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="p-5 border-0 rounded-4 bg-white shadow-lg h-100">
+                <h4 class="fw-bold mb-4 border-bottom pb-2">আইনি এখতিয়ার ও ক্ষমতা</h4>
+                <div class="d-flex mb-3">
+                    <i class="bi bi-shield-fill-exclamation text-primary me-3 fs-4"></i>
+                    <div>
+                        <strong>ফৌজদারি ও দেওয়ানি (সংশোধন ২০২৪)</strong>
+                        <p class="text-muted small mb-0">চুরি, মারামারি, কৃষি শ্রমিকের পাওনা, বা স্থাবর/অস্থাবর সম্পত্তি উদ্ধার সংক্রান্ত মামলা যার <strong>মান ৩,০০,০০০ (তিন লক্ষ) টাকার</strong> অধিক নয়।</p>
+                    </div>
+                </div>
+                <div class="d-flex mb-3">
+                    <i class="bi bi-cash-coin text-danger me-3 fs-4"></i>
+                    <div>
+                        <strong>জরিমানা আরোপের ক্ষমতা</strong>
+                        <ul class="text-muted small mb-0 ps-3">
+                            <li>আদালত অবমাননা: অনধিক ১,০০০ টাকা (ধারা ১১)।</li>
+                            <li>মিথ্যা মামলা দায়ের: অনধিক ৫,০০০ টাকা (ধারা ৯ক)।</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <i class="bi bi-x-circle-fill text-secondary me-3 fs-4"></i>
+                    <div>
+                        <strong>এখতিয়ার বহির্ভূত</strong>
+                        <p class="text-muted small mb-0">নাবালকের স্বার্থ জড়িত মামলা, বা সরকার/সরকারি কর্মচারী পক্ষ হলে।</p>
+                    </div>
+                </div>
+
+                <div class="mt-4 pt-3 border-top">
+                    <small class="text-muted d-block mb-2">আইন ও বিধিমালা ডাউনলোড করুন:</small>
+                    <a href="/files/VillageCourtAct2006.pdf" target="_blank" class="btn btn-sm btn-outline-primary rounded-pill me-2 mb-2"><i class="bi bi-file-earmark-pdf me-1"></i> আইন ২০০৬</a>
+                    <a href="/files/VillageCourtAmendment2013.pdf" target="_blank" class="btn btn-sm btn-outline-primary rounded-pill me-2 mb-2"><i class="bi bi-file-earmark-pdf me-1"></i> আইন ২০১৩ (সংশোধন)</a>
+                    <a href="/files/VillageCourtRules2016.pdf" target="_blank" class="btn btn-sm btn-outline-primary rounded-pill me-2 mb-2"><i class="bi bi-file-earmark-pdf me-1"></i> বিধিমালা ২০১৬</a>
+                    <a href="/files/VillageCourtAmendment2024.pdf" target="_blank" class="btn btn-sm btn-outline-primary rounded-pill mb-2"><i class="bi bi-file-earmark-pdf me-1"></i> আইন ২০২৪ (সংশোধন)</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Acceptable Case List (Schedule) -->
+<div class="container mb-5">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold text-dark">গ্রহণযোগ্য মামলার তালিকা</h2>
+        <p class="text-muted">গ্রাম আদালত আইন ২০০৬ (সংশোধিত ২০২৪) এর তফসিল অনুযায়ী</p>
+    </div>
+    <div class="row g-4">
+        <!-- Part 1: Criminal -->
+        <div class="col-md-6">
+            <div class="card border-0 shadow h-100 rounded-4 overflow-hidden">
+                <div class="card-header text-white text-center py-4" style="background: linear-gradient(45deg, #FF512F 0%, #DD2476 100%);">
+                    <i class="bi bi-shield-exclamation mb-2 d-block display-6"></i>
+                    <h4 class="mb-0 fw-bold">১ম অংশ: ফৌজদারি বিষয়</h4>
+                    <small class="opacity-75">তফসিলের ১ম অংশ অনুযায়ী বিচার্য</small>
+                </div>
+                <div class="card-body p-4 bg-light bg-opacity-25">
+                    <ul class="list-group list-group-flush bg-transparent">
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-danger me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">চুরি (৩ লক্ষ টাকা পর্যন্ত)</strong>
+                                <span class="text-muted small">পেনাল কোড ৩৭৯, ৩৮০, ৩৮১ ধারা।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-danger me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">মারামারি ও দাঙ্গা</strong>
+                                <span class="text-muted small">আঘাত, দাঙ্গা বা শান্তিভঙ্গ (ধারা ১৬০, ৩২৩, ৩৩৪)।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-danger me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">ক্ষতিসাধন বা অনিষ্ট</strong>
+                                <span class="text-muted small">সম্পত্তির ক্ষতিসাধন (ধারা ৪২৬, ৪৪৭)।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-danger me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">প্রতারণা ও বিশ্বাসভঙ্গ</strong>
+                                <span class="text-muted small">৩ লক্ষ টাকার নিচে ক্ষতি (ধারা ৪০৩, ৪০৬, ৪১৭, ৪২০)।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-danger me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">অন্যান্য অপরাধ</strong>
+                                <span class="text-muted small">গবাদি পশুর অনধিকার প্রবেশ, নারীর প্রতি অপমানজনক আচরণ (৫০৯)।</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Part 2: Civil -->
+        <div class="col-md-6">
+            <div class="card border-0 shadow h-100 rounded-4 overflow-hidden">
+                <div class="card-header text-white text-center py-4" style="background: linear-gradient(45deg, #11998e 0%, #38ef7d 100%);">
+                    <i class="bi bi-house-door-fill mb-2 d-block display-6"></i>
+                    <h4 class="mb-0 fw-bold">২য় অংশ: দেওয়ানি বিষয়</h4>
+                    <small class="opacity-75">তফসিলের ২য় অংশ অনুযায়ী বিচার্য</small>
+                </div>
+                <div class="card-body p-4 bg-light bg-opacity-25">
+                    <ul class="list-group list-group-flush bg-transparent">
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">চুক্তি বা দলিল মূলে পাওনা</strong>
+                                <span class="text-muted small">পাওনা টাকা আদায় (৩ লক্ষ টাকা পর্যন্ত)।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">সম্পত্তি পুনরুদ্ধার</strong>
+                                <span class="text-muted small">অস্থাবর সম্পত্তি বা তার মূল্য আদায়।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">স্থাবর সম্পত্তির দখল</strong>
+                                <span class="text-muted small">বেদখল হওয়ার ১ বছরের মধ্যে মামলা দায়ের।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">জবরদখল বা ক্ষতিপূরণ</strong>
+                                <span class="text-muted small">অস্থাবর সম্পত্তির ক্ষতি বা জবরদখলের ক্ষতিপূরণ।</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item bg-transparent d-flex align-items-start border-bottom-0 pb-3">
+                            <i class="bi bi-check-circle-fill text-success me-3 mt-1"></i>
+                            <div>
+                                <strong class="d-block text-dark">শ্রমিক ও গবাদি পশু</strong>
+                                <span class="text-muted small">কৃষি শ্রমিকের মজুরি এবং গবাদি পশুর দ্বারা ক্ষতির ক্ষতিপূরণ।</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </main>
+        <footer b-ux217agpmr class="footer-modern">
+            <div b-ux217agpmr class="container">
+                <div b-ux217agpmr class="row g-5">
+                    <!-- Brand Column -->
+                    <div b-ux217agpmr class="col-lg-4 col-md-6">
+                        <div b-ux217agpmr class="mb-4">
+                             <img src="/images/logo.svg" alt="Logo" height="40" class="mb-3 bg-white rounded-circle p-1">
+                             <h4 b-ux217agpmr class="text-white fw-bold d-inline-block align-middle ms-2">ই-গ্রাম আদালত</h4>
+                        </div>
+                        <p b-ux217agpmr class="mb-4 opacity-75">
+                            গ্রাম আদালত আইন ২০০৬ (সংশোধিত ২০২৪) অনুযায়ী ইউনিয়ন পর্যায়ে ন্যায়বিচার প্রতিষ্ঠার ডিজিটাল প্ল্যাটফর্ম। দ্রুত, স্বচ্ছ এবং সহজ বিচার নিশ্চিত করাই আমাদের লক্ষ্য।
+                        </p>
+                        <div b-ux217agpmr class="social-links">
+                            <a b-ux217agpmr href="#"><i b-ux217agpmr class="bi bi-facebook"></i></a>
+                            <a b-ux217agpmr href="#"><i b-ux217agpmr class="bi bi-youtube"></i></a>
+                            <a b-ux217agpmr href="#"><i b-ux217agpmr class="bi bi-twitter-x"></i></a>
+                        </div>
+                    </div>
+
+                    <!-- Quick Links -->
+                    <div b-ux217agpmr class="col-lg-2 col-md-6">
+                        <h5 b-ux217agpmr>দ্রুত লিঙ্ক</h5>
+                        <ul b-ux217agpmr class="list-unstyled">
+                            <li b-ux217agpmr><a class="footer-link" href="/"><i b-ux217agpmr class="bi bi-chevron-right"></i> হোম</a></li>
+                            <li b-ux217agpmr><a class="footer-link" href="/About"><i b-ux217agpmr class="bi bi-chevron-right"></i> আমাদের সম্পর্কে</a></li>
+                            <li b-ux217agpmr><a class="footer-link" href="/login"><i b-ux217agpmr class="bi bi-chevron-right"></i> লগইন</a></li>
+                            <li b-ux217agpmr><a class="footer-link" href="/CheckStatus"><i b-ux217agpmr class="bi bi-chevron-right"></i> মামলার অবস্থা</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Legal Info -->
+                    <div b-ux217agpmr class="col-lg-3 col-md-6">
+                        <h5 b-ux217agpmr>আইনি তথ্য ও ডাউনলোড</h5>
+                        <ul b-ux217agpmr class="list-unstyled">
+                            <li b-ux217agpmr><a href="/files/VillageCourtAct2006.pdf" target="_blank" class="footer-link"><i b-ux217agpmr class="bi bi-file-earmark-pdf-fill"></i> গ্রাম আদালত আইন ২০০৬</a></li>
+                            <li b-ux217agpmr><a href="/files/VillageCourtAmendment2013.pdf" target="_blank" class="footer-link"><i b-ux217agpmr class="bi bi-file-earmark-pdf-fill"></i> সংশোধনী আইন ২০১৩</a></li>
+                            <li b-ux217agpmr><a href="/files/VillageCourtRules2016.pdf" target="_blank" class="footer-link"><i b-ux217agpmr class="bi bi-file-earmark-pdf-fill"></i> বিধিমালা ২০১৬</a></li>
+                            <li b-ux217agpmr><a href="/files/VillageCourtAmendment2024.pdf" target="_blank" class="footer-link"><i b-ux217agpmr class="bi bi-file-earmark-pdf-fill"></i> সংশোধনী আইন ২০২৪</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Contact Info -->
+                    <div b-ux217agpmr class="col-lg-3 col-md-6">
+                        <h5 b-ux217agpmr>যোগাযোগ</h5>
+                        <p b-ux217agpmr class="mb-2"><i b-ux217agpmr class="bi bi-geo-alt-fill text-primary me-2"></i> নাগেশ্বরী, কুড়িগ্রাম</p>
+                        <p b-ux217agpmr class="mb-2"><a b-ux217agpmr href="/cdn-cgi/l/email-protection#166563666679646256736677647f657e77723875797b" class="text-decoration-none text-white opacity-75"><i b-ux217agpmr class="bi bi-envelope-fill text-primary me-2"></i> <span class="__cf_email__" data-cfemail="3d4e484d4d524f497d584d5c4f544e555c59135e5250">[email&#160;protected]</span></a></p>
+                        <p b-ux217agpmr class="mb-2"><a b-ux217agpmr href="tel:+8801724587472" class="text-decoration-none text-white opacity-75"><i b-ux217agpmr class="bi bi-telephone-fill text-primary me-2"></i> 01724587472</a></p>
+                        <div b-ux217agpmr class="mt-4">
+                            <small b-ux217agpmr class="d-block mb-2 text-white-50">কারিগরি সহযোগিতায়:</small>
+                            <a b-ux217agpmr href="https://eparishad.com" target="_blank" class="d-inline-block bg-white rounded px-2 py-1">
+                                <img src="/images/eparishad-logo.svg" alt="eParishad" height="25">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Bottom Bar -->
+            <div b-ux217agpmr class="footer-bottom">
+                <div b-ux217agpmr class="container">
+                    <div b-ux217agpmr class="row align-items-center">
+                        <div b-ux217agpmr class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                            <p b-ux217agpmr class="mb-0 small">&copy; 2026 <strong b-ux217agpmr>ই-গ্রাম আদালত</strong>। সর্বস্বত্ব সংরক্ষিত।</p>
+                        </div>
+                        <div b-ux217agpmr class="col-md-6 text-center text-md-end">
+                            <ul b-ux217agpmr class="list-inline mb-0 small">
+                                <li b-ux217agpmr class="list-inline-item"><a b-ux217agpmr href="#" class="text-white opacity-50 text-decoration-none">শর্তাবলী</a></li>
+                                <li b-ux217agpmr class="list-inline-item mx-2 text-muted">|</li>
+                                <li b-ux217agpmr class="list-inline-item"><a class="text-white opacity-50 text-decoration-none" href="/Privacy">গোপনীয়তা নীতি</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo"></script>
+
+    
+</body>
+</html>

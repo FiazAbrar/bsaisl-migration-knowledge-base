@@ -3079,3 +3079,18 @@ Could not download: prothomalo.com/bangladesh/urcbo2rebo (curl 000; Bangla story
 - HRW, 26 Nov 2025 (saved as yh-hrw-rampant-abuses-2025, not registered): restates the UN experts' list with no numbers.
 - bartabazar (yh-bartabazar-rtk-closed-2026, not registered): undated, says over 1 million Bangladeshis are in Malaysia and 400 employers demand RTK 3.0; no date, so not used.
 - Khaosod 2024 and MalaysiaNow Oct 2026 "Trapped in Malaysia": 403.
+
+## Background revision after insider review (8 Nov 2026)
+
+New evidence (facts YI0001-YI0025):
+- Medical status: Ministry set 31 Oct start (Z0159) but checks did not start (New Age, YI0004); on 4 Nov the minister said Malaysia medicals were not approved, 46 centres sent to Malaysia for vetting, centres testing now act illegally (YI0001-YI0003). Re-check for the published list of centres before any rebuild.
+- Hundi: TBS (2022) says hundi pays the kerb rate, above the bank rate (YI0006). This conflicts with Winrock's "unfavourable rate" line (YF0015), now dropped from the Background.
+- Stranded 2024 workers: 7,873 cleared to go via BOESL at Tk 1,62,500 (breakdown YI0025); 2,900 selected by Nov 2025 (YI0010); first 60 flew 25 Nov 2025 (YI0012). No total flown found; searched BOESL notices, BSS, Dhaka Tribune, TBS, Bangla news. BOESL's Facebook post of 25 Aug 2026 mentions a briefing for 56 Malaysia-bound workers (not saved; Facebook can't be scraped).
+- Exchange rate: RM1 = Tk 30.64 mid-market, 6 Nov 2026 (Ria, YI0024). Bangladesh Bank's daily sheet (5 Nov 2026) has no MYR cross rate.
+- Overtime cap 104 hours/month: only a law-firm guide saved (YI0014, lead). Needs the official Employment (Limitation of Overtime Work) Regulations 1980.
+- MRA microcredit cap 24% (2019): Daily Star Bangla 2024 report (YI0021). Prothom Alo's piece (prothomalo.com/business/economics/7wzeis7jq8) failed to download; MRA circulars at mra.gov.bd not yet read.
+- Payment staging: no saveable source for "advance with passport, bulk on calling visa, rest before flight". Seen only on Facebook and Instagram (unscrapeable): a BTV post says some agencies and brokers demand Tk 1-2 lakh in advance; a post claims "পাসপোর্টের সাথে এক লাখ". Kept as a Need to know.
+- Relatives selling places on their own company's quota: only a Facebook video title ("আপনার বসের কোম্পানিতে কলিং ভিসায় আত্মীয়-স্বজন নিয়ে আসতে পারবেন", page Malaysiachakrirkobor) and BAIRA's general statement to BBC Bangla (YI0020). Price kept as a Need to know.
+- Vocabulary: ম্যানপাওয়ার কার্ড (YI0018), সিন্ডিকেট (YI0019), কোম্পানি ভিসা and free-visa renewal at RM5,000 a year (YI0015-YI0017).
+
+Cut from the Background (facts stay in facts.csv): remittance rank and 9.30% share (B0091, B0093, YD0001-YD0004); the 2007-2019 clearance series and the 1.4 million G2G applicants (G0029, YA0008); Wang Kelian (YA0012, YA0014); WFW complaint counts (YH0001, YH0002); MYFutureJobs, Section 60K, KESUMA and the 6 July 2026 move to the One Stop Centre (YE0001-YE0004, R0001); the 2023 MACC arrest of a ministry aide (YE0010, YE0011); the UN experts' letter (YA0025, YA0026); Amin's "highway" quote (YE0022) and FWCMS source-code ownership (YE0005); the MACC inquiry closure (YB0021, YB0022); the 2018 G2G Plus 80-90% split (YE0017); earlier caps Tk 84,000 and Tk 37,000 (YA0009, YA0002); median and mean wages (YF0041) and survey earnings ranges (YF0037, YF0035, YF0044, YF0043, YF0046, YF0007); Winrock's hundi rate line (YF0015). Political affiliations of Mangrove Career Link and Al-Shupto Overseas (YB0024-YB0026, YB0030) belong in those agencies' records in agencies/, not the country Background; agencies/ was not edited in this pass.
