@@ -57,7 +57,10 @@ Two drafts exist: Saudi Arabia (`countries/saudi-arabia/`) and Malaysia (`countr
 - Explain every term, acronym, organisation and platform inline the first time it appears. No glossary.
 - Every sentence is cited. `[n]` is an official source. `[Nn]` is news, an NGO, a guide or another third party, listed under "Needs an official source". A source older than 2025 shows its year, like `[N3 (2022)]`. Prefer official sources; don't cite news where an official source exists.
 - No conclusions, opinions or advice of our own.
-- Gaps go inline as "**Need to know:** ...", at the step they belong to.
+- Gaps go in their own block right after the paragraph or step they belong to, never buried mid-paragraph: a quote block headed **Need to know**, with one bullet per precise question an insider could answer in a line:
+
+  > **Need to know**
+  > - Is there a public list of registered sub-agents a worker can check a broker's name against?
 - Output: an editable .docx with a clickable Contents list and citations that link to their reference.
 - English only. Write "people", "workers" or "migrants", never "beneficiaries".
 
