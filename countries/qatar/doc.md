@@ -1333,7 +1333,7 @@ A household recruits through a licensed recruitment office, or directly from abr
 
 ### Step 3: Choose an approved agency
 
-1. **Women: go only through an approved agency.** On 1 September 2025 the Ministry of Expatriates' Welfare approved 21 licensed agencies to send women domestic workers abroad (to all destinations), each with a Tk 15 lakh security deposit with BMET and at least one woman on its office staff [E0037, E0039]. An approved agency may take no migration cost from you, and signs an undertaking that its licence may be cancelled if you are abused at work [E0038, B0030]. If one asks you for money, complain to BMET as in Work visa: company worker, Scams, "Free visa" or a bought visa, item 2 [B0016].
+1. **Women: go only through an approved agency.** On 1 September 2024 the Ministry of Expatriates' Welfare approved 21 licensed agencies to send women domestic workers abroad (to all destinations), each with a Tk 15 lakh security deposit with BMET and at least one woman on its office staff [E0037, E0039]. An approved agency may take no migration cost from you, and signs an undertaking that its licence may be cancelled if you are abused at work [E0038, B0030]. If one asks you for money, complain to BMET as in Work visa: company worker, Scams, "Free visa" or a bought visa, item 2 [B0016].
 
    > **Need to know**
    > - Which agencies are on the current approved list for women domestic workers? [E0037]

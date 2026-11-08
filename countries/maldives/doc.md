@@ -2,7 +2,7 @@
 
 How to go to the Maldives on a Bangladeshi passport, visa by visa, step by step. A raised number such as 3 is an official source; N3 is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000); MVR is the Maldivian rufiyaa, converted throughout at MVR1 = about Tk 8.06, from the Maldives Monetary Authority's (MMA, the central bank) rate of MVR 15.42 per US dollar and Bangladesh Bank's Tk 124.35 per dollar on 8 November 2026 [G0015, G0014]. Dollars bought on the street in Malé cost far more (see Sending money home) [G0029]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers people who want to work abroad and gives them emigration clearance [B0002, B0044]. In the Maldives, the Ministry of Homeland Security and Technology issues work quotas, work permits and the Work Permit Entry Pass a new worker must hold on arrival, through its online system Xpat (xpat.egov.mv) [V0074, N0106, W0014]. Maldives Immigration issues visas and runs IMUGA (imuga.immigration.gov.mv), its online portal [V0005, V0001]. Every Bangladeshi worker needs the permit and Entry Pass before flying; a Bangladeshi visitor gets a free 30-day tourist visa on arrival, which never allows work [V0075, V0074, V0025, V0114].
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000); MVR is the Maldivian rufiyaa, converted throughout at MVR1 = about Tk 8.06, from the Maldives Monetary Authority's (MMA, the central bank) rate of MVR 15.42 per US dollar and Bangladesh Bank's Tk 124.35 per dollar on 8 November 2026 [G0015, G0014]. Dollars bought on the street in Malé cost far more (see Sending money home) [G0029]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers people who want to work abroad and gives them emigration clearance [B0002, B0044]. In the Maldives, the Ministry of Homeland Security, Labour and Technology issues work quotas, work permits and the Work Permit Entry Pass a new worker must hold on arrival, through its online system Xpat (xpat.egov.mv) [Z0008, V0074, N0106, W0014]. Maldives Immigration issues visas and runs IMUGA (imuga.immigration.gov.mv), its online portal [V0005, V0001]. Every Bangladeshi worker needs the permit and Entry Pass before flying; a Bangladeshi visitor gets a free 30-day tourist visa on arrival, which never allows work [V0075, V0074, V0025, V0114].
 
 ## Background
 
@@ -18,7 +18,7 @@ Open, and busy: the Maldives was Bangladesh's fourth-largest destination in 2026
 
 - **New work visas:** being issued. In October 2026 the Bangladesh High Commission in Malé told people coming on a new work visa to collect their BMET smart card (the emigration clearance card) before travelling (Step 6: Orientation, BMET clearance and the flight) [N0104].
 - **Fraud warning, 23 October 2026:** the High Commission warned of fraud, false promises and illegal money collection in the name of jobs, visas and work permits, and asked anyone cheated to report it rather than stay silent [N0103]. It told people not to pay anyone who promises a guaranteed job, a quick work permit or to "regularise" a visa, and not to pay more than the government-set cost (see Scams) [N0105].
-- **Quotas closed for some jobs:** in December 2025 the Ministry of Homeland Security and Technology stopped issuing quotas at once for taxi drivers, co-pilots, ship captains, entertainment workers and shop cashiers, with more jobs phased out over two to five years [N0106].
+- **Quotas closed for some jobs:** in December 2025 the Ministry of Homeland Security, Labour and Technology stopped issuing quotas at once for taxi drivers, co-pilots, ship captains, entertainment workers and shop cashiers, with more jobs phased out over two to five years [N0106].
 - **Demand:** in July 2026 the Maldives High Commissioner in Dhaka said the government is regularising undocumented workers and wants more skilled Bangladeshis, such as nurses and accountants, but Regulation 2025/R-120 ends quotas for accountants two years, and for nurses three years, after 14 December 2025 (see How long you can stay) [N0101, N0102, W0139, W0140, W0047, N0106]. Construction demand comes from land reclamation at RasMale, Gulhi Falhu, Thilafushi and Uthuru Thila Falhu, the new Velana airport terminal and new resorts [N0039].
 
 > **Need to know**
@@ -334,7 +334,7 @@ In the Maldives the job offer is the letter of appointment that the employer upl
 
 ### Step 3: The employer gets your work permit and entry pass
 
-The employer does the paperwork in this step on Xpat, logged in with a verified eFaas account (the Maldives government digital ID) [W0049]. The office in charge is the Department of Foreign Labour at the Ministry of Homeland Security and Technology, on 1485 and xpat@home.gov.mv [W0040, W0041]. The rules are Regulation 2025/R-120, published on 14 December 2025 [W0047].
+The employer does the paperwork in this step on Xpat, logged in with a verified eFaas account (the Maldives government digital ID) [W0049]. The office in charge is the Department of Foreign Labour at the Ministry of Homeland Security, Labour and Technology, on 1485 and xpat@home.gov.mv [W0040, W0041]. The rules are Regulation 2025/R-120, published on 14 December 2025 [W0047].
 
 1. **The employer registers the work site and gets a quota.** Before bringing a worker it must register the work site, obtain a quota and obtain a work permit; bringing a worker without a quota, or moving a worker to another business without telling the ministry, is illegal [W0132, W0134]. It first advertises the job on the National Job Center for at least 7 days and may use a quota only if no suitable Maldivian applied [W0168]. The ministry checks the employer's finances against its tax records [W0176]. The quota costs MVR 2,000 per worker for 12 months, except that micro, small and medium businesses get up to 20 quota slots free [W0135, W0048]. The quota slot must still have at least 145 days of validity when the work permit is requested [W0010].
 
@@ -448,7 +448,7 @@ The regulation counts these days without government holidays [W0150].
 
 **If a check fails, in this order:**
 
-1. Department of Foreign Labour, Ministry of Homeland Security and Technology: 1485, xpat@home.gov.mv, H. Pamelia, Waterfront Building, Boduthakurufaanu Magu, Malé [W0040, W0041, W0042].
+1. Department of Foreign Labour, Ministry of Homeland Security, Labour and Technology: 1485, xpat@home.gov.mv, H. Pamelia, Waterfront Building, Boduthakurufaanu Magu, Malé [W0040, W0041, W0042].
 2. Labour Relations Authority: 332 8282 or its online complaint form [W0163].
 3. In Bangladesh, the Probashi call centre on 16135, then a written complaint to BMET's Director General (see Step 1: Find a real job) [B0060, B0072].
 
@@ -543,7 +543,7 @@ The regulation counts these days without government holidays [W0150].
 
 The Employment Act (Law 2/2008) covers every worker in the state and private sector except the military and police [L0001]. The Labour Relations Authority (LRA) enforces it [L0093]. Foreign workers can take any breach of their contract to the Employment Tribunal [L0071]. Any clause in a contract or regulation that takes away a right in the Act is void [L0002]. Forced work is banned [L0003]. Since the 8th amendment (1 September 2024), a foreigner may work only with authorisation under the Act and its regulations [L0085]. The 9th amendment, in force since 14 March 2026, strengthened the procedures for ending a job and reviewed the quota fees employers pay to recruit foreign workers [L0037, L0038].
 
-Since mid-December 2025 the Ministry of Homeland Security and Technology's Regulation 2025/R-120 (the Regulation on Expatriate Employment, also reported as the Regulation for Immigrant Workers) has set out the rights and duties of foreign workers and their employers; it replaced the 2023 expatriate regulation [U0086, W0047, L0099, L0100]. Its appendices cover accommodation standards and what happens when a worker is reported missing ("absconding") [L0104].
+Since mid-December 2025 the Ministry of Homeland Security, Labour and Technology's Regulation 2025/R-120 (the Regulation on Expatriate Employment, also reported as the Regulation for Immigrant Workers) has set out the rights and duties of foreign workers and their employers; it replaced the 2023 expatriate regulation [U0086, W0047, L0099, L0100]. Its appendices cover accommodation standards and what happens when a worker is reported missing ("absconding") [L0104].
 
 > **Need to know**
 > - Is there an English text of Regulation 2025/R-120, and which of its articles cover wages, passports, housing and the ticket home?
@@ -1245,7 +1245,7 @@ A special visa lets a foreigner stay for humanitarian work, to continue medical 
 
 ## Visas not open to Bangladeshis
 
-- **A work visa on arrival, or a switch from a tourist visa to a work visa:** since a 2011 Cabinet decision a Bangladeshi worker must hold the work visa before arriving, and a new worker is let in only on an Entry Pass (work permit) issued by the Ministry of Homeland Security and Technology [V0075, V0074]; the Bangladesh High Commission in Malé says a person who comes as a tourist can never get a work visa (see Changing visa type) [V0079].
+- **A work visa on arrival, or a switch from a tourist visa to a work visa:** since a 2011 Cabinet decision a Bangladeshi worker must hold the work visa before arriving, and a new worker is let in only on an Entry Pass (work permit) issued by the Ministry of Homeland Security, Labour and Technology [V0075, V0074]; the Bangladesh High Commission in Malé says a person who comes as a tourist can never get a work visa (see Changing visa type) [V0079].
 - **"Free visa":** no such visa category exists in the Maldives [V0082].
 - **A visit sponsored by a relative who is a company worker:** only a Maldivian citizen or a foreigner on a professional-category work visa can sponsor a visitor (see Visiting a relative (sponsored visit)) [V0054].
 - **A multiple-entry tourist visa:** the Immigration Act allows multiple-entry permits for every visa type except the tourist and special visas [V0115].
@@ -1597,7 +1597,7 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
   - Labour Welfare Wing hotline: +960 7648006 (WhatsApp) [B0081].
   - Labour Welfare Wing: Welfare Assistants Al Mamun Pathan, +960 3027961, and Mohammed Jashim Uddin, +960 3027962; labour.male@mofa.gov.bd [B0091, B0092].
   - Consular Wing (passports, travel permits): Md Ebad Ullah, +960 3027980, and Moynal Hossan, +960 3027991; consular.male@mofa.gov.bd [B0093, B0094].
-- **Department of Foreign Labour, Ministry of Homeland Security and Technology (work permits, Xpat):** 1485, xpat@home.gov.mv; H. Pamelia, Waterfront Building, Boduthakurufaanu Magu, Malé [W0040, W0041, W0042].
+- **Department of Foreign Labour, Ministry of Homeland Security, Labour and Technology (work permits, Xpat):** 1485, xpat@home.gov.mv; H. Pamelia, Waterfront Building, Boduthakurufaanu Magu, Malé [W0040, W0041, W0042].
 - **Labour Relations Authority (wage and rights complaints):** 332 8282; online form at lra.gov.mv/submit-a-complaint-form [W0163, L0125].
 - **Maldives Immigration:** call centre 1434, 8.30 am to 2 pm, Sunday to Thursday; 1st floor, Veelanaage, Ameer Ahmed Magu, Malé [V0021, V0022]. Permits section (special visas, extensions): permits@immigration.gov.mv, 9199157, 3330487 [V0053]. Detainee visits: ecdadmin@immigration.gov.mv [U0105].
 - **Operation Kurangi (fingerprints):** 7690228, operation.kurangi@mohst.gov.mv [U0006].
