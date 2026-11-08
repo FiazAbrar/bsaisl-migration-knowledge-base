@@ -6,7 +6,6 @@ Countries:
 - [Malaysia](countries/malaysia/) (draft, under review)
 - [Qatar](countries/qatar/) (draft, under review)
 - [United Arab Emirates](countries/united-arab-emirates/) (draft, under review)
-- [Maldives](countries/maldives/) (draft, under review)
 
 For all countries:
 
@@ -19,7 +18,6 @@ Each country folder has the same files:
 - facts.csv: every fact in the doc, with the exact quote that proves it and the source it comes from.
 - sources.csv and sources: every source used. The sources folder keeps a saved copy of each page or PDF, so the evidence survives if a link breaks.
 - notes.md: research notes, conflicts between sources, open questions and pages we couldn't download.
-- questions.md: every "Need to know" question still open in the doc, grouped by section, for insiders to answer.
 
 Elsewhere:
 
