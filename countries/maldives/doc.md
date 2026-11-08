@@ -19,10 +19,11 @@ Open, and busy: the Maldives was Bangladesh's fourth-largest destination in 2026
 - **New work visas:** being issued. In October 2026 the Bangladesh High Commission in Malé told people coming on a new work visa to collect their BMET smart card (the emigration clearance card) before travelling (Step 6: Orientation, BMET clearance and the flight) [N0104].
 - **Fraud warning, 23 October 2026:** the High Commission warned of fraud, false promises and illegal money collection in the name of jobs, visas and work permits, and asked anyone cheated to report it rather than stay silent [N0103]. It told people not to pay anyone who promises a guaranteed job, a quick work permit or to "regularise" a visa, and not to pay more than the government-set cost (see Scams) [N0105].
 - **Quotas closed for some jobs:** in December 2025 the Ministry of Homeland Security and Technology stopped issuing quotas at once for taxi drivers, co-pilots, ship captains, entertainment workers and shop cashiers, with more jobs phased out over two to five years [N0106].
-- **Demand:** in July 2026 the Maldives High Commissioner in Dhaka said the government is regularising undocumented workers and wants more skilled Bangladeshis, such as nurses and accountants [N0101, N0102].
+- **Demand:** in July 2026 the Maldives High Commissioner in Dhaka said the government is regularising undocumented workers and wants more skilled Bangladeshis, such as nurses and accountants, but Regulation 2025/R-120 ends quotas for accountants two years, and for nurses three years, after 14 December 2025 (see How long you can stay) [N0101, N0102, W0139, W0140, W0047]. Construction demand comes from land reclamation at RasMale, Gulhi Falhu, Thilafushi and Uthuru Thila Falhu, the new Velana airport terminal and new resorts [N0039].
 
 > **Need to know**
 > - What changed in 2025 to let 40,159 Bangladeshis go, when in March 2025 private employers were limited to 10 Bangladeshi workers each and the rest went only to government projects: was the 10-worker limit lifted, or did a few large employers and state projects take most of them?
+> - Is the 2021 MoU still the framework for recruitment in 2026?
 > - Why did monthly clearances jump from 878 in April 2025 to 5,411 in May 2025: new demand letters, or workers already in the Maldives being cleared after regularisation?
 > - Are workers who get a Welfare Board membership card at the High Commission in Malé counted in BMET's clearance numbers?
 > - Is any restriction on Bangladeshi unskilled quotas in force on 8 November 2026 (a per-employer limit, a sector list, a ceiling set by the Cabinet under the 2024 amendment)?
@@ -30,8 +31,8 @@ Open, and busy: the Maldives was Bangladesh's fourth-largest destination in 2026
 #### The channels
 
 - **A relative or acquaintance already in the Maldives, or a village broker:** how almost everyone goes. In a 2023 survey of 370 current and returnee workers, 59% went through sub-agents or dalals (দালাল, brokers), 36% through relatives, and only 4% through a licensed recruiting agency [N0073, N0122].
-- **A licensed agency with a BMET permission letter:** rare; an example is ZM Tours and Travels' May 2024 permission for 100 construction labourers for Sanken Overseas Maldives (Pvt) Ltd (Step 1, item 4) [N0108].
-- **Professionals:** the Maldives says it wants more skilled Bangladeshis such as nurses and accountants (see Work visa: professional (teachers, doctors, nurses, engineers)) [N0102].
+- **A licensed agency with a BMET permission letter:** rare; an example is ZM Tours and Travels' May 2024 permission for 100 construction labourers for Sanken Overseas Maldives (Pvt) Ltd (Step 1: Find a real job, item 4) [N0108].
+- **Professionals:** nurses, doctors, teachers and engineers go on the same work permit with recognised qualifications (see Work visa: professional (teachers, doctors, nurses, engineers)) [W0012].
 - **No legal route:** coming on a tourist visa to find work. Brokers sell it as an "open visa"; it is a tourist visa that does not allow work (see What people believe, and the facts) [N0074, N0096].
 
 > **Need to know**
@@ -48,8 +49,9 @@ Anyone aged 18 or over whom a Maldivian employer with a valid quota names on a w
 
 - **People:** about 100,000 Bangladeshis live and work in the Maldives, about a fifth of its roughly 5 lakh population [N0101, N0093]. Immigration's border data showed 90,624 Bangladeshi workers in the country in December 2023, against 139,220 Bangladeshis with "active" work permits, because a permit stays active after the worker runs away or leaves unless the employer cancels it [N0015, N0016].
 - **Undocumented:** estimates run from at least 60,000 foreigners of all nationalities (US State Department, 2025) and 63,000 (Maldives Immigration, 2023) to the High Commission's late-2024 estimate of 10,000 to 15,000 Bangladeshis (see Undocumented workers: regularisation) [N0057, N0018, N0092].
-- **Departures:** BMET cleared 7,020 workers for the Maldives in 2024, 40,159 in 2025 (5th destination) and 32,408 in 2026 to 7 November (4th) [N0005, N0004, N0001]. Monthly clearances jumped from 878 in April 2025 to 5,411 in May 2025 and have run at about 1,000 to 5,500 a month since [B0149, B0150]. About 104,000 went from 2004 to 2018 and 4,411 in 2019, before the ban [N0007].
-- **Other nationalities:** Indians, Sri Lankans and Bangladeshis make up most of the 62,000 foreign workers who entered in 2023, and the 2019 ban on Bangladeshis brought a surge of Indian workers [N0115, N0116].
+- **Departures:** BMET cleared 7,020 workers for the Maldives in 2024, 40,159 in 2025 (5th destination) and 32,408 in 2026 to 7 November (4th), about 5% of the 626,601 it cleared for all countries [N0005, N0004, N0001, N0003]. Monthly clearances jumped from 878 in April 2025 to 5,411 in May 2025 and have run at about 1,000 to 5,500 a month since [B0149, B0150]. About 104,000 went from 2004 to 2018 and 4,411 in 2019, before the ban [N0007].
+- **Other nationalities:** Indians, Sri Lankans and Bangladeshis make up most of the 62,000 foreign workers who entered in 2023, and the 2019 ban on Bangladeshis brought a surge of Indian workers [N0115, N0116]. Bangladeshis got 17,039 of the 75,542 work permits given to arriving foreigners from 17 November 2023 to 30 January 2025 [N0024].
+- **Jobs:** 33% of Bangladeshis work in restaurants, hotels and resorts, 25% in construction, 7% in day labour, 2% in domestic work and 2% in fishing [N0100].
 
 #### What closed it before
 
@@ -57,6 +59,7 @@ Anyone aged 18 or over whom a Maldivian employer with a valid quota names on a w
 - **After the ban:** the sixth amendment to the Employment Act, under President Solih, capped workers from any one country at 100,000 [N0014, N0013].
 - **17 December 2023:** the new government reopened unskilled hiring from Bangladesh, and paused unskilled hiring from other countries [N0009]. 14,689 permits went to 3,174 employers almost at once [N0019].
 - **30 March 2024:** recruitment from Bangladesh stopped after employers brought people in large numbers and some transactions were flagged for trafficking [N0020]. The minister said companies had submitted forged documents [N0026]. The High Commission's labour wing said some companies brought workers in on false job offers and left them jobless, possibly to extort them, and a Bangladeshi syndicate was implicated; the workers had proper visas [N0027, N0028]. 6,436 had BMET clearance by 22 May 2024, and many could not fly [N0008].
+- **9 February 2021:** Bangladesh and the Maldives signed an MoU (memorandum of understanding) on recruitment, including the regularisation of undocumented workers [N0111].
 - **29 June 2024:** Bangladeshis allowed again, but only for government projects; later, private employers paying their fees could bring up to 10 each [N0021, N0022].
 - **September 2024:** the eighth amendment replaced the fixed 100,000 cap with numbers and sectors set by regulation on the Cabinet's advice; the minister said the total would follow demand, "whether it be 100,000, 110,000 or 120,000" [N0035, N0037, N0038].
 
@@ -99,7 +102,7 @@ The dalal is the main link: he processed 59% of migrations in 2023 [N0073]. Only
 
 #### The cap
 
-Each BMET permission letter sets the most the agency may take: the 2024 Maldives letters allowed Tk 95,000 where the employer paid the airfare both ways and Tk 1,15,000 where it paid one way (Step 1, item 4) [B0159, B0160, B0157, B0158]. Maldivian rules ban agencies from charging workers recruitment fees or holding their passports, with fines of MVR 5,000 to 50,000 [N0060, N0061].
+Each BMET permission letter sets the most the agency may take: the 2024 Maldives letters allowed Tk 95,000 where the employer paid the airfare both ways and Tk 1,15,000 where it paid one way (Step 1: Find a real job, item 4) [B0159, B0160, B0157, B0158]. Maldivian rules ban agencies from charging workers recruitment fees or holding their passports, with fines of MVR 5,000 to 50,000 [N0060, N0061].
 
 #### What people really pay
 
@@ -117,7 +120,7 @@ In parts: one 2024 deal took Tk 2.6 lakh first, with Tk 2 lakh more due when the
 #### How they borrow
 
 - **2023:** 53% borrowed from friends and relatives, 37% used family savings, 19% sold assets, 10% took NGO or microcredit loans, and only 4% a bank loan [N0063, N0064].
-- **2024:** more than half of the workers in the Maldives-side survey had borrowed to pay [N0082]. The Chattogram man borrowed Tk 1 lakh at monthly interest [N0095].
+- **2024:** more than half of the workers in the Maldives-side survey had borrowed to pay [N0082]. The Chattogram man borrowed Tk 1 lakh at monthly interest [N0095]. A 2024 legal-aid study found work tied to debt in over 75% of cases [N0075].
 
 #### What the job pays
 
@@ -173,17 +176,8 @@ The Maldives government names withheld passports and unpaid or underpaid wages a
 #### Irregular routes and how they end
 
 - **Tourist visa to work:** brokers use the visa on arrival for Bangladeshi tourists to send workers without the High Commission's attestation; those workers are being identified [N0096]. Some land via Kuala Lumpur, Chennai or Malé holding what they think is a 12-month work visa but is a 3-month tourist visa [N0070].
-- **Leaving the permit employer:** the employer files a missing report; the worker can be detained and deported with little chance to put his case (see If your employer reports you absconded) [N0076, N0088]. The way back is the company withdrawing the report or a Labour Relations Authority letter (see If your employer reports you absconded) [N0120].
+- **Leaving the permit employer:** the employer files a missing report; the worker can be detained and deported with little chance to put his case [N0076, N0088]. The way back is the company withdrawing the report or a Labour Relations Authority letter (see If your employer reports you absconded) [N0120].
 - **How it ends:** 12,552 people were deported between 17 November 2023 and 13 June 2026, and the government aims to remove the rest by 17 November 2026 (see Going home without valid papers) [U0037, U0035].
-
-## Visas not open to Bangladeshis
-
-- **A work visa on arrival, or a switch from a tourist visa to a work visa:** since a 2011 Cabinet decision a Bangladeshi worker must hold the work visa before arriving, and a new worker is let in only on an Entry Pass (work permit) issued by the Ministry of Homeland Security and Technology [V0075, V0074]; the Bangladesh High Commission in Malé says a person who comes as a tourist can never get a work visa (see Changing visa type) [V0079].
-- **"Free visa":** no such visa category exists in the Maldives [V0082].
-- **A visit sponsored by a relative who is a company worker:** only a Maldivian citizen or a foreigner on a professional-category work visa can sponsor a visitor (see Visiting a relative (sponsored visit)) [V0054].
-- **A multiple-entry tourist visa:** the Immigration Act allows multiple-entry permits for every visa type except the tourist and special visas [V0115].
-- **Diplomatic visa:** only for people the Maldives government considers entitled to diplomatic immunity [V0034].
-- **Entry on an Israeli passport:** refused since 15 April 2025 (not a Bangladeshi passport issue, listed for completeness) [V0012].
 
 ## Work visa: company worker (construction, resort, shop)
 
@@ -205,7 +199,7 @@ Every Bangladeshi worker goes the same way: a Maldivian employer with a quota ge
 
    **If it fails:** call the OEP hotline, 09614445271 [B0004].
 
-2. **Learn a trade if you need one.** BMET lists every TTC (Technical Training Centre) and IMT (Institute of Marine Technology) on its website [B0005]. In BMET's Maldives job orders, skilled trades (mason, electrician, carpenter, plumber, plasterer) pay USD 325 to 350 a month against USD 250 to 300 for labourers [B0151, B0153, B0154]. For skilled jobs BMET issues the smart card only once the skill is confirmed [B0165].
+2. **Learn a trade if you need one.** BMET lists every TTC (Technical Training Centre) and IMT (Institute of Marine Technology) on its website [B0005]. In BMET's Maldives job orders, skilled trades (mason, electrician, carpenter, plumber, plasterer) pay USD 325 to 350 (about Tk 40,400 to 43,500) a month against USD 250 to 300 (about Tk 31,100 to 37,300) for labourers [B0151, B0153, B0154, G0014]. For skilled jobs BMET issues the smart card only once the skill is confirmed [B0165].
 
    > **Need to know**
    > - Does BMET or the Maldives ask for a skill test or NSDA certificate before a Maldives work visa in a skilled trade?
@@ -214,9 +208,9 @@ Every Bangladeshi worker goes the same way: a Maldivian employer with a quota ge
 
 4. **Through a recruiting agency: find and check the permission letter.** For each Maldives job order the Ministry of Expatriates' Welfare and Overseas Employment (Bangladesh's ministry for migrant workers) issues a permission letter naming the agency, the employer, the jobs and pay, the conditions and the most the agency may take from you [B0157, B0158]. BMET's system copy of the letter carries the High Commission's demand attestation number as the "Block visa number", in the form BHC-MALE(L)D-01/2015/39 [B0152, B0153, B0154]. Examples:
 
-   - Siam Recruiting Agency (RL1531), 25 March 2024: 100 workers for Rasheed Carpentry and Construction Pvt Ltd; labourers USD 250, electricians, masons, painters, bar benders and carpenters USD 325 a month; 2-year contract, 8 hours a day, 6 days a week; housing, food, medical care, resident permit and transport by the company; one-way airfare free; the agency may take at most Tk 1,15,000 [B0151, B0158, B0157].
+   - Siam Recruiting Agency (RL1531), 25 March 2024: 100 workers for Rasheed Carpentry and Construction Pvt Ltd (now on Xpat's Employer Negligence list with 12 confirmed cases, Step 5, item 2) [Z0005]; labourers USD 250, electricians, masons, painters, bar benders and carpenters USD 325 a month; 2-year contract, 8 hours a day, 6 days a week; housing, food, medical care, resident permit and transport by the company; one-way airfare free; the agency may take at most Tk 1,15,000 [B0151, B0158, B0157].
    - ZM Tours and Travels (RL1287), May 2024: 100 construction labourers for Sanken Overseas Maldives (Pvt) Ltd at USD 250 a month; 8 hours a day, 48 a week; the same benefits; airfare both ways free; the agency may take at most Tk 95,000 [B0155, B0160, B0159].
-   - The Ifthi Overseas (RL0894), 8 May 2024: FEDO Private Limited, 150 visas; construction labourers USD 300, masons and plumbers USD 350 [B0153].
+   - The Ifthi Overseas (RL0894), 8 May 2024: FEDO Private Limited, 150 visas; construction labourers USD 300, masons and plumbers USD 350 [B0153]. FEDO now has 58 confirmed negligence cases on Xpat's Employer Negligence list, the most of any employer [Z0004]. In July 2026 a Bangladeshi newspaper reported that the Anti-Corruption Commission (ACC) had sought The Ifthi Overseas' records as one of 57 agencies in its inquiry into women sent abroad as domestic workers on fake "returnee" passports; it is an inquiry, not a charge [Z0007].
    - North East Overseas (RL2199), 23 May 2024: 30 workers for Duplex Private Limited; labourers USD 300, carpenters, masons and bar benders USD 350 [B0154].
 
    You'll need: the agency's name and RL number (the recruiting licence number of every licensed Bangladeshi agency) [B0151].
@@ -267,6 +261,7 @@ Every Bangladeshi worker goes the same way: a Maldivian employer with a quota ge
 
 **Before paying:**
 
+- **Know what the agency promised.** Under the Maldives permission conditions the agency files a stamped undertaking that you will get the job, pay and benefits in the letter, and that it will pay your housing, food, ticket home and compensation if you don't [B0164].
 - **Know the cap.** Each Maldives permission letter sets its own maximum; two 2024 letters set Tk 95,000 with airfare both ways paid by the employer, and Tk 1,15,000 with only one-way airfare paid [B0159, B0160, B0157, B0158].
 - **Pay late, by bank.** The agency may take its money only once your visa and flight are confirmed, by cheque, bank draft or pay order [B0157, B0159]. Pay into the agency's bank account and keep receipts [B0011].
 - **Get the contract and its Bangla translation before clearance.** The agency must sign the contract with you before BMET clearance and give you a Bangla translation attested by BMET [B0163].
@@ -435,13 +430,13 @@ The regulation counts these days without government holidays [W0150].
 
    **Check it is real:** the result shows your permit details with your photo [B0087]. Once the deposit is paid, the employer's Xpat record shows "Issued (Pending Arrival)" [W0180].
 
-   **If it fails:** "Employee not found. Please Enter correct details" means no match; check the number for typing errors and try your passport number instead of your name [W0158]. If it still fails, call the Department of Foreign Labour on 1485 or email xpat@home.gov.mv [W0040, W0041].
+   **If it fails:** "Employee not found. Please Enter correct details" means no match; check the number for typing errors and try your passport number instead of your name [W0158]. If it still fails, call the Department of Foreign Labour on 1485, email xpat@home.gov.mv or use Xpat's live chat (weekdays 8.30 am to 2 pm) [W0040, W0041, W0080].
 
 2. **Check the employer is not on the negligence list.** Xpat publishes the names of employers with confirmed negligence cases since 15 September 2025, with their registration number and number of cases [W0052, W0056]. Open [xpat.egov.mv/EmploymentApproval/EmploymentApprovalMissingPerson/MissingNegligenceEmployerList](https://xpat.egov.mv/EmploymentApproval/EmploymentApprovalMissingPerson/MissingNegligenceEmployerList) and type the company name or registration number in "Search" [W0056]. Since 15 September 2025 an employer that abandons or neglects foreign workers it brought in is fined MVR 50,000 per worker [W0046, W0035].
 
 3. **After arrival, check the e-Visa.** Once approved, an e-Visa logo appears in the Visa section of Xpat and the e-Visa can be viewed or downloaded at any time [W0005]. The employer holds the Xpat account, so ask it for a copy [W0160]. The e-Visa is valid as long as the work permit, and it shows as invalid if the work permit fee has not been paid [W0030, W0006].
 
-4. **Use the Xpat MV app as a second check.** The regulation provides no physical work permit card; the official Xpat MV app holds a digital card, added with your work permit number and passport number, and its QR code checks the permit against Xpat [W0156]. The app was last updated in 2023, so use the verification page in item 1 if it fails [W0157].
+4. **Use the Xpat MV app as a second check.** The regulation provides no physical work permit card; the official Xpat MV app holds a digital card, added with your work permit number and passport number, and its QR code checks the permit against Xpat [W0156]. The app was last updated in 2023 [W0157].
 
 5. **Check whether you must give fingerprints.** The Fingerprint Requirement page on xpat.egov.mv needs only your passport number and country, and tells you only whether you must enrol fingerprints [W0159, W0051].
 
@@ -486,7 +481,7 @@ The regulation counts these days without government holidays [W0150].
    > - Which airlines fly Dhaka or Chattogram to Malé in 2026, and what does a one-way ticket cost?
    > - Do agencies actually send a representative with Maldives groups, and do they report arrivals to the High Commission?
 
-5. **Before you fly:** keep one set of copies at home and 3 with you, open 2 bank accounts, and never carry a packet you don't know [B0052]. Save the Labour Wing hotline, +960 7648006 (WhatsApp) [B0081].
+5. **Before you fly:** keep one set of copies at home and 3 with you, open 2 bank accounts, and never carry a packet you don't know [B0052]. Don't pack idols for worship, pork, alcohol, vapes or e-cigarettes, pornography or anything "contrary to Islam": Maldives Customs bans them [G0040]. Save the Labour Wing hotline, +960 7648006 (WhatsApp) [B0081].
 
 ### Step 7: After arrival
 
@@ -552,7 +547,7 @@ Since mid-December 2025 the Ministry of Homeland Security and Technology's Regul
 
 #### Contract and probation
 
-- Probation is at most 3 months [L0004]. During it either side can end the job without notice [L0005], but the rules on hours, leave and pay still apply to you [L0184].
+- Probation is at most 3 months [L0004]. A disciplinary suspension may last at most 14 days [L0008]. During it either side can end the job without notice [L0005], but the rules on hours, leave and pay still apply to you [L0184].
 - The employer must give you a written job description within one month of starting work under the Act, and within 20 days under Regulation 2025/R-120 [L0006, W0152]. If it doesn't, you can still enforce the terms and any verbal promises made to you [L0007].
 - The employer must sign the contract with you and give you a copy within 45 days of arrival (see Step 2: The job offer and contract) [W0151].
 - A recruitment agency may not take any fee from you, directly or indirectly [L0072].
@@ -573,7 +568,7 @@ Since mid-December 2025 the Ministry of Homeland Security and Technology's Regul
 - **Absence.** For time off work the employer may deduct pay for that time only and impose no other penalty [L0009].
 - **Service charge (resorts, hotels, guesthouses, tourist restaurants).** Tourism businesses must add at least 10% service charge to every bill [L0054]. It must be shared equally among all staff, and last month's share must be paid before the end of this month [L0055, L0056]. The employer may keep only 1% [L0057]. LRA can fine an employer up to MVR 100,000 for not collecting or not sharing it [L0067].
 - **Ramadan allowance.** For Muslim foreign workers it is at the employer's discretion [L0053].
-- **Fines on bad employers.** An employer that fails to pay wages, puts you in a job that isn't on your permit, or otherwise exploits you faces a MVR 50,000 (about Tk 4 lakh) fine [L0112, G0015, G0014]. For repeated wage breaches the Minister can tell government offices to stop serving the employer [L0066].
+- **Fines on bad employers.** An employer that fails to pay wages, puts you in a job that isn't on your permit, or otherwise exploits you faces a MVR 50,000 (about Tk 4 lakh) fine [L0112, G0015, G0014]. Regulation 2025/R-120 fines breaches MVR 50,000 the first time, MVR 75,000 the second and MVR 100,000 the third [W0036]. For repeated wage breaches the Minister can tell government offices to stop serving the employer [L0066].
 
 > **Need to know**
 > - In practice, do resort and guesthouse employers pay service charge to Bangladeshi kitchen, cleaning and maintenance staff at the same rate as Maldivian staff?
@@ -636,7 +631,7 @@ You may form or join a union without prior approval (Industrial Relations Act 1/
 
 **As long as the fee is paid, one year at a time.** Your employer pays the work permit fee of MVR 350 a month, for at least one month at a time, and the permit lasts as long as it is paid [W0024, W0027, W0006]. Your work e-Visa lasts as long as the permit, renewed for at most one year at a time, and it shows as invalid once the fee runs out [W0030, W0031, W0006]. If the fee goes unpaid you may move to another employer without consent, and after 6 months unpaid the ministry can cancel the permit and send you home [W0173]. The permit also lapses if your yearly medical or your insurance expires, and it cannot be extended until your biometrics are updated [W0154, W0044, W0161].
 
-**The upper limit.** A non-professional or unskilled work permit can be issued for up to 10 years in total, up from 5 years before December 2025 [W0136, W0145].
+**The upper limit.** You may hold only one work permit at a time [L0101]. A non-professional or unskilled work permit can be issued for up to 10 years in total, up from 5 years before December 2025 [W0136, W0145].
 
 > **Need to know**
 > - Is there a maximum total stay for professional-category work permits?
@@ -658,7 +653,7 @@ You may form or join a union without prior approval (Industrial Relations Act 1/
 
 ### What can get you jailed
 
-**Drugs.** Since March 2026 the amended Drugs Act punishes even small amounts more harshly [L0161]. Trafficking a Schedule 1 drug (which includes cannabis and heroin) brings 20 years and a fine of MVR 75,000 to 7.5 million [L0156]. Bringing in more than 350 g of cannabis, 250 g of heroin or 100 g of another Schedule 1 drug into the country on arrival can bring the death penalty [L0157]. Owners, tenants and occupants of a room used for drug-taking can be liable if they knew or had reason to know [L0158]. Never carry a package or bag for anyone else [L0160].
+**Drugs.** Since March 2026 the amended Drugs Act punishes even small amounts more harshly [L0161]. Trafficking a Schedule 1 drug (which includes cannabis and heroin) brings 20 years and a fine of MVR 75,000 to 7.5 million [L0156]. Bringing in more than 350 g of cannabis, 250 g of heroin or 100 g of another Schedule 1 drug into the country on arrival can bring the death penalty [L0157]. Even very small amounts can bring arrest, long prison terms and in some cases whipping [L0154]. Owners, tenants and occupants of a room used for drug-taking can be liable if they knew or had reason to know [L0158]. Never carry a package or bag for anyone else [L0160].
 
 **Alcohol.** It is sold only on resort islands. Having it, drinking it or being drunk anywhere else can mean arrest and deportation [L0153].
 
@@ -670,13 +665,17 @@ You may form or join a union without prior approval (Industrial Relations Act 1/
 
 **Papers.** You may work only with authorisation under the Employment Act [L0085]. You may not work at a worksite that is unregistered or cancelled [L0105], and you may not be moved to another business without the ministry being told [L0102]. Raids, detention and deportation are under Going home without valid papers and If your employer reports you absconded [U0029].
 
+**Running a business, trading dollars, gambling.** Running your own business on a work visa is the main reason Bangladeshis are detained in raids (see The crackdown) [U0123, N0089]. Selling dollars above the official rate, or letting someone else use your bank account for it, can bring criminal charges (see Sending money home) [G0027, G0035]. In April 2026 police handed 38 Bangladeshis to Immigration for deportation over drugs and gambling [U0046].
+
+**Any law.** Immigration can revoke the visa of anyone who breaks any Maldivian law or regulation [V0116].
+
 > **Need to know**
 > - What does the Drugs Act now give for a first offence of using or possessing a small amount of cannabis, and are foreigners deported after serving the sentence?
 > - When a Bangladeshi is arrested, is the High Commission told, and how does the family find out where he is held?
 
 ### If you aren't paid
 
-The employer must pay at least monthly [L0051]. When a job ends, everything owed must be paid within 7 days [L0065]. In a dispute over dismissal it is the employer who must prove the reason [L0018].
+The employer must pay at least monthly [L0051]. Complaining against your employer is not a lawful reason to dismiss you [L0010]. When a job ends, everything owed must be paid within 7 days [L0065]. In a dispute over dismissal it is the employer who must prove the reason [L0018].
 
 **Collect proof first.** Keep your payslips (the employer must give one with every payment) and ask for a copy of the hours and overtime records the employer must keep [L0059, L0028]. The LRA form asks whether you have a written contract and job description [L0126].
 
@@ -744,6 +743,34 @@ You have the right to change employer, but only through the ministry's procedure
 > - Under the December 2025 regulation, can a worker change employer without an NOC when wages go unpaid or the employer has disappeared, and how is that applied for?
 > - What do brokers in Malé charge a worker to arrange an NOC or a "transfer", and is it legal for the old employer to demand money for an NOC?
 
+### If your employer reports you absconded
+
+**What it is.** An employer reports a worker missing in Xpat and pays a non-refundable MVR 1,000 within 3 days, and the work permit status becomes "Reported Missing" [U0066, U0067]. The employer types the date you went missing and remarks on how you left, and can file without any supporting documents by declaring it cannot provide them [U0076, U0075]. It can file long after you left [U0074]. Working for anyone other than the employer named on your permit is illegal, and switching without approval leads the employer to file the report [U0054, U0056].
+
+**What follows.**
+- After a 3-day hold in which the employer can withdraw, the Labour Relations Authority (LRA) investigates whether you absconded or the employer was negligent, looking at the employer's violation history and earlier missing reports [U0068, U0069, U0071].
+- If the LRA finds you absconded, the report is approved and your permit becomes "Missing Abscond" [U0077, U0019].
+- If it finds employer negligence, the employer is fined (MVR 2,000 in Xpat's missing-report process; MVR 50,000 per worker under Regulation 2025/R-120) and you can get a new permit with another employer through the employer-change process ("Missing Negligence") [U0072, W0035, U0018, U0089].
+- After 30 days the employer may cancel your permit and free its quota slot while the investigation goes on [U0070].
+- If you do not cooperate with the investigation for 10 days, your permit is revoked [U0090].
+- Your passport, if the employer hands it in, is kept by Immigration, which publishes the list of passports of absconding or missing workers it holds (8,576 entries in November 2026, 8,543 of them Bangladeshi) [U0109, U0110].
+- Without a valid permit you can be detained and deported at any check (see Going home without valid papers) [U0029, U0116].
+
+**What you can do, in this order:**
+1. **Check your status** on Xpat (see Step 1: Check your status) [U0098].
+2. **Ask the employer to withdraw the report** if you are willing to go back [U0079]. The employer does it in Xpat: Work Permit, View Work Permit, Details, "Missing" tab, "New Request" in the Missing Withdrawal table, then (if the report was already approved) a "Re-Issue Work Permit" application and deposit payment, after which the permit shows "Issued (Arrived)" [U0079, U0080, U0084]. Within the grace period it is free; outside it the employer pays MVR 10,000 [U0078]. There is no time limit for now, but a blacklisted worker's report cannot be withdrawn [U0083, U0082]. A "Missing Negligence" report can be withdrawn only if you agree to return and have a valid contract under the Employment Act (2/2008) [U0081]. The Bangladesh High Commission's labour wing says companies that filed reports must withdraw them and take the worker back [U0057].
+3. **If the employer refuses, go to the LRA** and explain why you left; if the LRA accepts your reasons it gives a letter on which another company can get you a work permit [U0055]. Say, in writing:
+   > "I am [full name], passport [number], work permit [number]. My employer [company name] reported me missing on [date]. I left because [my salary was not paid from (month) / my passport was taken / I was not given food or housing]. I ask the LRA to find that my absence was caused by the employer's negligence so that I can change employer." [U0069, U0071, U0089]
+4. **Appeal** a missing-report decision to the LRA if it goes against you [U0073].
+5. **If you left over unpaid wages or mistreatment,** as many construction workers do, file the wage complaint too (see If you aren't paid) [U0085].
+
+> **Need to know**
+> - How does a worker find out that a missing report has been filed (SMS, Xpat, nothing)?
+> - Where and how does a worker file with the LRA about a missing report (counter, phone, online form), and how long does the investigation take, given that LRA had 2,457 migrant cases, mostly missing workers, open in April 2025 [U0129]?
+> - Does the LRA letter still work in 2026 now that the standing legalisation chapter has been removed from the regulation [U0091]?
+> - Is the employer's negligence fine in practice MVR 2,000 or MVR 50,000 per worker, or both?
+> - What do employers or brokers in Malé charge a worker to withdraw a missing report (the MVR 10,000 fee is the employer's)?
+
 ### Leaving at the end of the job
 
 1. **Get notice in writing** [L0014]. An employer ending a contract with no fixed end date must give at least [L0011, L0012, L0013]:
@@ -761,33 +788,6 @@ You have the right to change employer, but only through the ministry's procedure
 > **Need to know**
 > - Does the December 2025 regulation still make the employer pay the ticket home, and what can a worker do if the employer refuses?
 > - How can a worker check on Xpat or IMUGA that his permit was cancelled properly, so he is not later listed as absconded?
-
-### If your employer reports you absconded
-
-**What it is.** An employer reports a worker missing in Xpat and pays a non-refundable MVR 1,000 within 3 days, and the work permit status becomes "Reported Missing" [U0066, U0067]. The employer types the date you went missing and remarks on how you left, and can file without any supporting documents by declaring it cannot provide them [U0076, U0075]. It can file long after you left [U0074]. Working for anyone other than the employer named on your permit is illegal, and switching without approval leads the employer to file the report [U0054, U0056].
-
-**What follows.**
-- After a 3-day hold in which the employer can withdraw, the Labour Relations Authority (LRA) investigates whether you absconded or the employer was negligent, looking at the employer's violation history and earlier missing reports [U0068, U0069, U0071].
-- If the LRA finds you absconded, the report is approved and your permit becomes "Missing Abscond" [U0077, U0019].
-- If it finds employer negligence, the employer is fined MVR 2,000 and you can get a new permit with another employer through the employer-change process ("Missing Negligence") [U0072, U0018, U0089].
-- After 30 days the employer may cancel your permit and free its quota slot while the investigation goes on [U0070].
-- If you do not cooperate with the investigation for 10 days, your permit is revoked [U0090].
-- Your passport, if the employer hands it in, is kept by Immigration, which publishes the list of passports of absconding or missing workers it holds (8,576 entries in November 2026, 8,543 of them Bangladeshi) [U0109, U0110].
-- Without a valid permit you can be detained and deported at any check (see Going home without valid papers) [U0029, U0116].
-
-**What you can do, in this order:**
-1. **Check your status** on Xpat (see Step 1: Check your status) [U0098].
-2. **Ask the employer to withdraw the report** if you are willing to go back [U0079]. The employer does it in Xpat: Work Permit, View Work Permit, Details, "Missing" tab, "New Request" in the Missing Withdrawal table, then (if the report was already approved) a "Re-Issue Work Permit" application and deposit payment, after which the permit shows "Issued (Arrived)" [U0079, U0080, U0084]. Within the grace period it is free; outside it the employer pays MVR 10,000 [U0078]. There is no time limit for now, but a blacklisted worker's report cannot be withdrawn [U0083, U0082]. A "Missing Negligence" report can be withdrawn only if you agree to return and have a valid contract under the Employment Act (2/2008) [U0081]. The Bangladesh High Commission's labour wing says companies that filed reports must withdraw them and take the worker back [U0057].
-3. **If the employer refuses, go to the LRA** and explain why you left; if the LRA accepts your reasons it gives a letter on which another company can get you a work permit [U0055]. Say, in writing:
-   > "I am [full name], passport [number], work permit [number]. My employer [company name] reported me missing on [date]. I left because [my salary was not paid from (month) / my passport was taken / I was not given food or housing]. I ask the LRA to find that my absence was caused by the employer's negligence so that I can change employer." [U0069, U0071, U0089]
-4. **Appeal** a missing-report decision to the LRA if it goes against you [U0073].
-5. **If you left over unpaid wages or mistreatment,** as many construction workers do, file the wage complaint too (see If you aren't paid) [U0085].
-
-> **Need to know**
-> - How does a worker find out that a missing report has been filed (SMS, Xpat, nothing)?
-> - Where and how does a worker file with the LRA about a missing report (counter, phone, online form), and how long does the investigation take?
-> - Does the LRA letter still work in 2026 now that the standing legalisation chapter has been removed from the regulation [U0091]?
-> - What do employers or brokers in Malé charge a worker to withdraw a missing report (the MVR 10,000 fee is the employer's)?
 
 ### Going home on leave
 
@@ -807,6 +807,7 @@ A company worker cannot bring a spouse, children or parents to live with him: on
 > **Need to know**
 > - Does a Bangladeshi on a skilled-category work permit (electrician, chef, resort supervisor) count as "professional category" for a Sponsorship Declaration, or only MQA Level 7 posts?
 > - Do Bangladeshi wives of company workers get entry on a tourist visa to visit their husbands, or are they refused at Velana airport as suspected job-seekers?
+> - The Immigration Act (s.14) gives a dependant visa to the husband, wife or child of any permit holder [F0025]: does Immigration ever apply it to a company worker?
 
 ### Scams
 
@@ -820,14 +821,18 @@ Report it to the High Commission's labour wing in Malé (hotline +960 7648006, W
 - **A "business visa" or "special visa" sold as a work visa.** Since 15 September 2026 nobody who entered on one can get a work permit without leaving the Maldives [W0032].
 - **Employers who bring workers and abandon them.** Check the employer against Xpat's negligence list before paying (Step 5, item 2) [W0052, W0046].
 - **Passports taken by the agent.** 40% of workers surveyed said agencies or agents took their passports; agencies are banned from doing this [N0084, N0060].
+- **Pay promised in dollars, paid in fewer rufiyaa.** Workers promised USD 350 a month were paid MVR 4,000 (about USD 260) after arrival, with their passports held; the letter of appointment must show pay in both currencies (Step 2: The job offer and contract) [L0149, W0057, G0015].
 
 #### Tried by workers
 
-Forged documents and falsified passports: traffickers target Bangladeshis entering on work visas and falsified passports [N0059], and forged documents submitted by companies led to the 2024 halt [N0026].
+- **Forged papers.** Traffickers target Bangladeshis entering on falsified passports, and forged company documents led to the 2024 halt [N0059, N0026]. An employer that submits forged certificates for a professional job takes full responsibility for them (Work visa: professional (teachers, doctors, nurses, engineers)) [W0112].
+- **Working for someone else on a "free visa".** It can mean arrest and deportation [N0030, N0031].
+- **Running a business on a work visa.** It is illegal, and it is the main reason Bangladeshis are detained in raids [N0089, U0123].
+- **Marrying to stay legal.** The Family Court now asks for a valid visa and passport before a marriage (see Marriage visa (spouse of a Maldivian)) [F0072, F0074].
 
 ## Work visa: professional (teachers, doctors, nurses, engineers)
 
-A professional uses the same route as a company worker: the employer gets a quota, the work permit and the entry pass on Xpat, and then the work e-Visa (see Step 3: The employer gets your work permit and entry pass) [W0018, W0003]. In 2024 BOESL, the state recruiting agency, recruited 76 doctors, medical officers and specialists for the Maldives Ministry of Health on 2-year contracts [B0156]. Xpat classes each occupation as Professional or Non-Professional: registered nurses, medical officers, primary school teachers and civil and electrical engineers are Professional, while carpenters, masons and waiters are Non-Professional [W0184, W0185, W0186, W0187, W0188]. A professional or managerial permit needs an MQA level 7 qualification in the field, or MQA level 5 with 5 years' relevant experience and an MQA recognition report [W0012]. On the MQA scale, level 7 is a bachelor's degree and level 5 a diploma [W0189, W0190]. The employer also uploads your certificates, with certified English translations, and any registration the occupation needs [W0016]. Under Regulation 2025/R-120, quotas for nurses must be cancelled after three years, for electrical engineers after four and for primary and secondary teachers after five (see How long you can stay) [W0140, W0141, W0047].
+A professional uses the same route as a company worker: the employer gets a quota, the work permit and the entry pass on Xpat, and then the work e-Visa (see Step 3: The employer gets your work permit and entry pass) [W0018, W0003]. Unlike a company worker, a professional can bring a spouse, children under 18 or parents (see Dependent visa) [F0001, F0002]. The rights and problem procedures under Work visa: company worker (construction, resort, shop) apply too [L0001]. In 2024 BOESL, the state recruiting agency, recruited 76 doctors, medical officers and specialists for the Maldives Ministry of Health on 2-year contracts [B0156]. Xpat classes each occupation as Professional or Non-Professional: registered nurses, medical officers, primary school teachers and civil and electrical engineers are Professional, while carpenters, masons and waiters are Non-Professional [W0184, W0185, W0186, W0187, W0188]. A professional or managerial permit needs an MQA level 7 qualification in the field, or MQA level 5 with 5 years' relevant experience and an MQA recognition report [W0012]. On the MQA scale, level 7 is a bachelor's degree and level 5 a diploma [W0189, W0190]. The employer also uploads your certificates, with certified English translations, and any registration the occupation needs [W0016]. Under Regulation 2025/R-120, quotas for nurses must be cancelled after three years, for electrical engineers after four and for primary and secondary teachers after five (see How long you can stay) [W0140, W0141, W0047].
 
 ### Step 1: Get your certificates attested in Bangladesh
 
@@ -913,69 +918,6 @@ Few Bangladeshis do domestic work in the Maldives: a 2023 survey by RMMRU (Refug
 - **Spa, massage and "salon" jobs.** Traffickers advertise spa and similar jobs on social media and bring South Asian women on tourist visas or as massage therapists, then force them into commercial sex [F0089, F0092]. Police have reported a rise in Bangladeshi women brought in on tourist visas for this [F0091]. A tourist visa does not allow any paid work (see Tourist visa) [F0117, F0088].
 - **If you are found at such a venue,** the police arrest and immediately deport foreigners rather than treat them as victims [F0090].
 - **Housemaid on paper, thrown out in practice.** Immigration has said many undocumented people came as housemaids and were thrown out by their employers, and in 2014 it froze housemaid permits for three months for that reason [F0096, F0095].
-
-## Undocumented workers: regularisation
-
-**Status on 8 November 2026: no legalisation window is open.** The Mass Legalisation Programme ran from 1 January 2026, was extended once from 2 April to 2 May 2026, and the Ministry called that extension the final opportunity [U0023, U0025, U0024]. The final phase of Operation Kurangi (the government's registration and enforcement drive) runs from 2 April 2026 to 1 May 2027 and is for deportation [U0028]. Since 2 May 2026 any worker found with unpaid fees is to be deported immediately, and the government says that from 2027 anyone found in breach will be deported with no further chance to regularise [U0029, U0034]. The standing legalisation chapter was removed from the expatriate employment rules in December 2025; the rules now in force are Regulation 2025/R-120 (Regulation on Expatriate Employment) [U0091, U0086].
-
-### How workers become undocumented
-
-Most undocumented Bangladeshis entered on a work permit and lost their status after arrival [U0051, U0059]. The main causes are an employer not paying the work permit fees, a visa not renewed, and a missing report filed by the employer [U0052, U0064]. A work visa whose permit fees have lapsed shows as invalid in Immigration's system [U0097]. Workers are sometimes told their work visa has become an "open" visa, which is in fact a tourist visa, and so do not seek a remedy [U0060]. About 70 percent of Bangladeshi workers do not hold their own passports [U0053]. Many learn their status only when they try to fly home [U0063].
-
-### Step 1: Check your status
-
-1. **Check your work permit** on Xpat's Work Permit Verification page, as in Step 5, item 1 [U0098].
-2. **Check your fingerprints are on record** at xpat.egov.mv/Home/RequiresFingerprint: type your passport number, choose "Bangladesh", then "Check" [U0100]. Workers without fingerprints taken under Operation Kurangi were the target of the 2026 raids [U0049].
-3. **If you were regularised before,** check at xpat.egov.mv/Home/RegularizationVerify with your regularisation number (it looks like RGZ/2026/...) and first name [U0099, U0021].
-4. **Ask your employer** to show your permit in Xpat, which lists your status and the due dates of every fee [U0033].
-
-> **Need to know**
-> - What status words does the public Work Permit Verification page show (for example "Reported Missing", "Missing Abscond", fees overdue), and can a worker without his permit number check at all?
-
-### Step 2: Give your fingerprints (Operation Kurangi)
-
-Operation Kurangi recorded the biometrics of every foreign worker, without checking legal status at that stage [U0001, U0002]. By April 2026, 2,933 of about 206,000 foreigners had not given them [U0031]. Phase three, launched by Immigration on 9 May 2026, hunts down those people, about 2,895 of them, for deportation [U0039, U0049, U0038].
-
-You'll need: yourself (no one can go for you); your passport or work permit number and accommodation address if you have them, though you can register without them [U0007, U0008].
-
-1. **Go without an appointment** to the Operation Kurangi Joint Operation Center, NCIT Building, Malé, Saturday to Thursday, 8 am to 10 pm except public holidays, or outside Greater Malé to your island council office in government hours [U0009, U0003, U0004, U0005].
-2. **If it fails,** call 7690228 or email operation.kurangi@mohst.gov.mv [U0006].
-
-> **Need to know**
-> - Does the NCIT centre still take fingerprints in November 2026, or does a worker without fingerprints now go straight to deportation?
-
-### The 2026 Mass Legalisation Programme (closed)
-
-It was open to workers registered under Operation Kurangi who were living illegally, including those in a dispute with their employer and those with no employer [U0027]. Who qualified [U0010, U0011, U0012, U0013, U0014, U0017]:
-- entered legally on a work permit or Work Permit Entry Pass;
-- physically in the Maldives;
-- work permit expired, or reported missing or "Missing Abscond" before 31 December 2025;
-- not blacklisted for criminal or security reasons;
-- fingerprints given under Operation Kurangi;
-- not legalised in this programme before (one chance only).
-
-Only a new employer, never the last one, could apply, through Xpat [U0015, U0016, U0065]. The employer clicked "+ New Regularized Work Permit", fetched the worker by first name, passport country and number, chose the quota slot, entered occupation and salary in USD, uploaded documents and paid the deposit; an unpaid deposit cancelled the application [U0022, U0020]. Workers without all ten fingerprints first went through a regularisation request and got an RGZ number [U0021]. Workers marked "Missing Negligence" were not legalised but could change employer instead [U0018]. The Bangladesh High Commission told workers only those who had given Kurangi fingerprints could apply [U0124]. Under Operation Kurangi the fully documented share of foreign workers rose from 28 to 62 percent [U0032].
-
-### Routes still open
-
-1. **Employer withdraws a missing report** and re-issues your permit (see If your employer reports you absconded) [U0079, U0092].
-2. **Employer negligence found by the LRA:** a "Missing Negligence" worker can move to a new employer [U0069, U0018, U0089].
-3. **Permit fees unpaid for over a month:** you can change employer with a no-objection letter from the current one [U0088].
-
-> **Need to know**
-> - Regulation 2025/R-120 reportedly keeps "an article on legalising expatriates living and working against regulations": does any case-by-case legalisation exist after 2 May 2026, and who applies?
-> - What do brokers in Malé charge to "fix papers" for an undocumented worker in 2026, and what do they actually do?
-
-### Scams
-
-Legalisation was done only by the new employer through Xpat, and a detained worker loses the chance to legalise [U0016, U0116]. An "open visa" is in fact a tourist visa, and working for anyone but the employer on your permit is illegal [U0060, U0054].
-
-### The crackdown
-
-- **Who is caught.** Raids target businesses, food courts and markets; Bangladeshis are mainly detained for running businesses on a work visa [U0123, U0036, U0045]. Locals can report workers anonymously on the "Immigration Watch" website [U0050]. In April 2026 police handed 38 Bangladeshi men to Immigration for deportation over drugs and gambling [U0046].
-- **Phase three, 9 May 2026.** More than 200 Immigration and 100 police officers swept 26 zones of Malé, detained 254 people and gave notices to 44 Maldivian employers [U0133, U0040, U0041]. Those detained are deported at the earliest opportunity [U0042].
-- **Since then.** Raids detained 27 of 88 workers checked at the Malé West Harbour food courts, 12 of 20 in Hulhumalé in June, 20 of 55 at Hulhumalé's Rashu Market and 13 of 426 in Greater Malé in September 2026 [U0036, U0044, U0045, U0043].
-- **Numbers.** 12,552 people were deported between 17 November 2023 and 13 June 2026 [U0037]. The government aims to finish removing violators by 17 November 2026 [U0035].
 
 ## Tourist visa
 
@@ -1124,6 +1066,10 @@ Do not travel before approval [V0069]. Approval does not guarantee entry [V0070]
 ### Can you work?
 
 No: a business visa covers business or work approved by the government, not employment in the Maldives [V0032]. Working as an employee breaks the visa (see Tourist visa) [V0042, V0044].
+
+### Scams
+
+A "business visa" sold as a work visa: since 15 September 2026 nobody who enters on a business visa can get a work permit without leaving the Maldives [W0032].
 
 ## Meeting visa
 
@@ -1285,11 +1231,27 @@ Insurance must cover the whole visa period [V0122]. Campus housing applications 
 > - Does Immigration accept a hospital as sponsor on form IM22 for a patient on a tourist visa?
 > - Do Bangladeshi workers' relatives come to Malé to care for an injured worker, and on which visa?
 
+## Special visa
+
+A special visa lets a foreigner stay for humanitarian work, to continue medical treatment that was under way when the visa expired, to finish a court case to claim a right (such as unpaid wages), or where a government authority finds it imperative [Z0006, V0035, F0028]. It is applied for on form IM22, signed by a sponsor that takes full responsibility for the person, and costs MVR 750 (about Tk 6,000) for each three months or part [V0052, V0037, G0015, G0014]. Trafficking victims could get one to stay and work while their case is investigated and prosecuted [F0086]. Since 15 September 2026 nobody who entered on a special visa can get a work permit without leaving the Maldives [W0032]. Immigration's permits section: permits@immigration.gov.mv, hotline 9199157, phone 3330487 [V0053].
+
+> **Need to know**
+> - Who signs form IM22 as sponsor for a worker with a wage case at the Employment Tribunal, and has any Bangladeshi worker been given this visa?
+
+## Visas not open to Bangladeshis
+
+- **A work visa on arrival, or a switch from a tourist visa to a work visa:** since a 2011 Cabinet decision a Bangladeshi worker must hold the work visa before arriving, and a new worker is let in only on an Entry Pass (work permit) issued by the Ministry of Homeland Security and Technology [V0075, V0074]; the Bangladesh High Commission in Malé says a person who comes as a tourist can never get a work visa (see Changing visa type) [V0079].
+- **"Free visa":** no such visa category exists in the Maldives [V0082].
+- **A visit sponsored by a relative who is a company worker:** only a Maldivian citizen or a foreigner on a professional-category work visa can sponsor a visitor (see Visiting a relative (sponsored visit)) [V0054].
+- **A multiple-entry tourist visa:** the Immigration Act allows multiple-entry permits for every visa type except the tourist and special visas [V0115].
+- **Diplomatic visa:** only for people the Maldives government considers entitled to diplomatic immunity [V0034].
+
 ## Changing visa type
 
 - **Tourist to work:** not possible; a Bangladeshi worker must have the work visa before arrival and enter on a work-permit Entry Pass (see Step 3: The employer gets your work permit and entry pass) [V0075, V0074, V0079].
 - **Meeting to business:** not possible inside the Maldives [V0121].
-- **To a sponsored visit, dependent or marriage visa:** the Sponsorship Declaration can be filed only while the person is outside the Maldives [V0062, V0055].
+- **To a sponsored visit or dependent visa:** the Sponsorship Declaration can be filed only while the person is outside the Maldives [V0062, V0055].
+- **Business or special visa to work:** not possible without leaving; a worker needs a Work Permit Entry Pass issued before travel [W0032].
 - **Another valid visa to marriage visa:** possible inside the Maldives once the marriage is legally registered (see Step 3: Get the Sponsorship Declaration, or change visa inside the Maldives) [F0036].
 - **Sponsor Declaration to student visa:** a student enters on the approved Sponsor Declaration and applies for the student visa within 30 days (see Step 3: Student visa after arrival) [V0104, V0108].
 - **Extending the same visa:** possible at Immigration's discretion (see Extending your stay) [V0038].
@@ -1367,6 +1329,69 @@ You'll need:
 
 > **Need to know**
 > - Does NBL Money Transfer Maldives sell the Wage Earner Development Bond?
+
+## Undocumented workers: regularisation
+
+**Status on 8 November 2026: no legalisation window is open.** The Mass Legalisation Programme ran from 1 January 2026, was extended once from 2 April to 2 May 2026, and the Ministry called that extension the final opportunity [U0023, U0025, U0024]. The final phase of Operation Kurangi (the government's registration and enforcement drive) runs from 2 April 2026 to 1 May 2027 and is for deportation [U0028]. Since 2 May 2026 any worker found with unpaid fees is to be deported immediately, and the government says that from 2027 anyone found in breach will be deported with no further chance to regularise [U0029, U0034]. The standing legalisation chapter was removed from the expatriate employment rules in December 2025; the rules now in force are Regulation 2025/R-120 (Regulation on Expatriate Employment) [U0091, U0086].
+
+### How workers become undocumented
+
+Most undocumented Bangladeshis entered on a work permit and lost their status after arrival [U0051, U0059]. The main causes are an employer not paying the work permit fees, a visa not renewed, and a missing report filed by the employer [U0052, U0064]. A work visa whose permit fees have lapsed shows as invalid in Immigration's system [U0097]. Workers are sometimes told their work visa has become an "open" visa, which is in fact a tourist visa, and so do not seek a remedy [U0060]. About 70 percent of Bangladeshi workers do not hold their own passports [U0053]. Many learn their status only when they try to fly home [U0063].
+
+### Step 1: Check your status
+
+1. **Check your work permit** on Xpat's Work Permit Verification page, as in Step 5, item 1 [U0098].
+2. **Check your fingerprints are on record** at xpat.egov.mv/Home/RequiresFingerprint: type your passport number, choose "Bangladesh", then "Check" [U0100]. Workers without fingerprints taken under Operation Kurangi were the target of the 2026 raids [U0049].
+3. **If you were regularised before,** check at xpat.egov.mv/Home/RegularizationVerify with your regularisation number (it looks like RGZ/2026/...) and first name [U0099, U0021].
+4. **Ask your employer** to show your permit in Xpat, which lists your status and the due dates of every fee [U0033].
+
+> **Need to know**
+> - What status words does the public Work Permit Verification page show (for example "Reported Missing", "Missing Abscond", fees overdue), and can a worker without his permit number check at all?
+
+### Step 2: Give your fingerprints (Operation Kurangi)
+
+Operation Kurangi recorded the biometrics of every foreign worker, without checking legal status at that stage [U0001, U0002]. By April 2026, 2,933 of about 206,000 foreigners had not given them [U0031]. Phase three, launched by Immigration on 9 May 2026, hunts down those people, about 2,895 of them, for deportation [U0039, U0049, U0038].
+
+You'll need: yourself (no one can go for you); your passport or work permit number and accommodation address if you have them, though you can register without them [U0007, U0008].
+
+1. **Go without an appointment** to the Operation Kurangi Joint Operation Center, NCIT Building, Malé, Saturday to Thursday, 8 am to 10 pm except public holidays, or outside Greater Malé to your island council office in government hours [U0009, U0003, U0004, U0005].
+2. **If it fails,** call 7690228 or email operation.kurangi@mohst.gov.mv [U0006].
+
+> **Need to know**
+> - Does the NCIT centre still take fingerprints in November 2026, or does a worker without fingerprints now go straight to deportation?
+
+### The 2026 Mass Legalisation Programme (closed)
+
+It was open to workers registered under Operation Kurangi who were living illegally, including those in a dispute with their employer and those with no employer [U0027]. Who qualified [U0010, U0011, U0012, U0013, U0014, U0017]:
+- entered legally on a work permit or Work Permit Entry Pass;
+- physically in the Maldives;
+- work permit expired, or reported missing or "Missing Abscond" before 31 December 2025;
+- not blacklisted for criminal or security reasons;
+- fingerprints given under Operation Kurangi;
+- not legalised in this programme before (one chance only).
+
+Only a new employer, never the last one, could apply, through Xpat [U0015, U0016, U0065]. The employer clicked "+ New Regularized Work Permit", fetched the worker by first name, passport country and number, chose the quota slot, entered occupation and salary in USD, uploaded documents and paid the deposit; an unpaid deposit cancelled the application [U0022, U0020]. Workers without all ten fingerprints first went through a regularisation request and got an RGZ number [U0021]. Workers marked "Missing Negligence" were not legalised but could change employer instead [U0018]. The Bangladesh High Commission told workers only those who had given Kurangi fingerprints could apply [U0124]. Under Operation Kurangi the fully documented share of foreign workers rose from 28 to 62 percent [U0032].
+
+### Routes still open
+
+1. **Employer withdraws a missing report** and re-issues your permit (see If your employer reports you absconded) [U0079, U0092].
+2. **Employer negligence found by the LRA:** a "Missing Negligence" worker can move to a new employer [U0069, U0018, U0089].
+3. **Permit fees unpaid for over a month:** you can change employer with a no-objection letter from the current one [U0088].
+
+> **Need to know**
+> - Regulation 2025/R-120 reportedly keeps "an article on legalising expatriates living and working against regulations": does any case-by-case legalisation exist after 2 May 2026, and who applies?
+> - What do brokers in Malé charge to "fix papers" for an undocumented worker in 2026, and what do they actually do?
+
+### Scams
+
+Legalisation was done only by the new employer through Xpat, and a detained worker loses the chance to legalise [U0016, U0116]. An "open visa" is in fact a tourist visa, and working for anyone but the employer on your permit is illegal [U0060, U0054].
+
+### The crackdown
+
+- **Who is caught.** Raids target businesses, food courts and markets; Bangladeshis are mainly detained for running businesses on a work visa [U0123, U0036, U0045]. Locals can report workers anonymously on the "Immigration Watch" website [U0050]. In April 2026 police handed 38 Bangladeshi men to Immigration for deportation over drugs and gambling [U0046].
+- **Phase three, 9 May 2026.** More than 200 Immigration and 100 police officers swept 26 zones of Malé, detained 254 people and gave notices to 44 Maldivian employers [U0133, U0040, U0041]. Those detained are deported at the earliest opportunity [U0042].
+- **Since then.** Raids detained 27 of 88 workers checked at the Malé West Harbour food courts, 12 of 20 in Hulhumalé in June, 20 of 55 at Hulhumalé's Rashu Market and 13 of 426 in Greater Malé in September 2026 [U0036, U0044, U0045, U0043].
+- **Numbers.** 12,552 people were deported between 17 November 2023 and 13 June 2026 [U0037]. The government aims to finish removing violators by 17 November 2026 [U0035].
 
 ## Going home without valid papers
 
@@ -1455,6 +1480,7 @@ Under the Occupational Safety and Health Act (in force since July 2024), a worke
 ### If you lose the job
 
 - **No unemployment benefit** exists for migrant workers [L0187].
+- **Dismissal without notice** is allowed only where your conduct is unacceptable [L0015].
 - **Notice or pay in lieu** (see Leaving at the end of the job, item 1) [L0181, L0182].
 - **Unfair dismissal:** complain to the Employment Tribunal within three months [L0019]. The employer must prove the cause [L0018]. The Tribunal can order reinstatement or compensation [L0021]. Workers dismissed during probation cannot use this route [L0020].
 - **A new employer can take you over** through Change Employer on oneGov and Xpat (see If you want to change employer) [L0116].

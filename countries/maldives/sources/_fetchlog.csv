@@ -337,3 +337,4 @@ xpat-mv-work-permit-deposit-rates,https://xpat.egov.mv/Home/ViewAnnouncement/80,
 xpat-mv-work-permit-medical-user-guide,https://xpat.egov.mv/Home/ViewAnnouncement/89,2026-11-08,200,application/pdf,curl,xpat-mv-work-permit-medical-user-guide.pdf;xpat-mv-work-permit-medical-user-guide.txt
 xpat-mv-work-permit-verify-form,https://xpat.egov.mv/Home/WorkPermitVerify,2026-11-08,200,,firecrawl,xpat-mv-work-permit-verify-form.md
 bmet-misc-search-rl1531-2026-11-09,https://bmet.gov.bd/pages/miscellaneous-infos?search=RL1531&page_size=100,2026-11-08,200,text/html; charset=utf-8,curl,bmet-misc-search-rl1531-2026-11-09.html;bmet-misc-search-rl1531-2026-11-09.md;bmet-misc-search-rl1531-2026-11-09.txt
+gk-acc-57-agencies-ac,https://gazipurkontho.com.bd/archives/78902,2026-11-08,200,,manual,gk-acc-57-agencies-ac.html;gk-acc-57-agencies-ac.md
