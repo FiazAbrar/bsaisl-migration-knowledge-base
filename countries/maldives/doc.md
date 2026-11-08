@@ -635,45 +635,71 @@ You may form or join a union without prior approval (Industrial Relations Act 1/
 
 ### How long you can stay
 
-**As long as the fee is paid, one year at a time.** Your employer pays the work permit fee of MVR 350 a month, for at least one month at a time, and the permit lasts as long as it is paid [W0024, W0027, W0006]. Your work e-Visa lasts as long as the permit, renewed for at most one year at a time, and it shows as invalid once the fee runs out [W0030, W0031, W0006]. If the fee goes unpaid you may move to another employer without consent, and after 6 months unpaid the ministry can cancel the permit and send you home [W0173]. The permit also lapses if your yearly medical or your insurance expires, and it cannot be extended until your biometrics are updated [W0154, W0044, W0161].
+#### As long as the fee is paid, one year at a time
 
-**The upper limit.** You may hold only one work permit at a time [L0101]. A non-professional or unskilled work permit can be issued for up to 10 years in total, up from 5 years before December 2025 [W0136, W0145].
+Your employer pays the work permit fee of MVR 350 a month, for at least one month at a time, and the permit lasts as long as it is paid [W0024, W0027, W0006]. Your work e-Visa lasts as long as the permit, renewed for at most one year at a time, and it shows as invalid once the fee runs out [W0030, W0031, W0006]. If the fee goes unpaid you may move to another employer without consent, and after 6 months unpaid the ministry can cancel the permit and send you home [W0173]. The permit also lapses if your yearly medical or your insurance expires, and it cannot be extended until your biometrics are updated [W0154, W0044, W0161].
+
+#### The upper limit
+
+You may hold only one work permit at a time [L0101]. A non-professional or unskilled work permit can be issued for up to 10 years in total, up from 5 years before December 2025 [W0136, W0145].
 
 > **Need to know**
 > - Is there a maximum total stay for professional-category work permits?
 > - Can a worker who reaches 10 years return on a new permit after leaving?
 
-**Jobs closing to foreigners.** Regulation 2025/R-120 cancels quotas for some jobs a set time after 14 December 2025 [W0047]:
+#### Jobs closing to foreigners
+
+Regulation 2025/R-120 cancels quotas for some jobs a set time after 14 December 2025 [W0047]:
 
 - after 2 years: hairdressers, beauticians, personal trainers, electricians, English-speaking guest relations officers, tour guides, accountants and imams (babysitters were taken off this list on 17 December 2025) [W0139, W0175];
 - after 3 years: divers, nurses, building inspectors, surveyors, site supervisors, pilots and photographers [W0140];
 - after 4 years: electrical engineers and dive instructors [W0141];
 - after 5 years: housekeeping, human resources and front office managers, and primary and secondary teachers [W0141].
 
-**Time abroad.** A work permit is voided if you stay outside the Maldives for more than four months while it is valid [W0143]. If your permit expired while you were abroad, the employer can get a temporary 15-day approval with a medical done abroad, and you then need a Maldives medical within 15 days of return [W0063]. See also Going home on leave [L0108].
+#### Time abroad
 
-**Other ways a permit ends.** A permit can be cancelled for a change of employer, breaking the regulation, a court order, long absence, or missing or false documents [W0137]. It is voided if you are told to leave for health reasons and do not leave in time, and revoked if you do not cooperate with an investigation for 10 days [W0144, W0146]. When the job ends, see Leaving at the end of the job [L0109].
+A work permit is voided if you stay outside the Maldives for more than four months while it is valid [W0143]. If your permit expired while you were abroad, the employer can get a temporary 15-day approval with a medical done abroad, and you then need a Maldives medical within 15 days of return [W0063]. See also Going home on leave [L0108].
+
+#### Other ways a permit ends
+
+A permit can be cancelled for a change of employer, breaking the regulation, a court order, long absence, or missing or false documents [W0137]. It is voided if you are told to leave for health reasons and do not leave in time, and revoked if you do not cooperate with an investigation for 10 days [W0144, W0146]. When the job ends, see Leaving at the end of the job [L0109].
 
 > **Need to know**
 > - After a work permit is cancelled, how many days does a worker have to leave or change employer before counting as overstaying?
 
 ### What can get you jailed
 
-**Drugs.** Since March 2026 the amended Drugs Act punishes even small amounts more harshly [L0161]. Trafficking a Schedule 1 drug (which includes cannabis and heroin) brings 20 years and a fine of MVR 75,000 to 7.5 million [L0156]. Bringing in more than 350 g of cannabis, 250 g of heroin or 100 g of another Schedule 1 drug into the country on arrival can bring the death penalty [L0157]. Even very small amounts can bring arrest, long prison terms and in some cases whipping [L0154]. Owners, tenants and occupants of a room used for drug-taking can be liable if they knew or had reason to know [L0158]. Never carry a package or bag for anyone else [L0160].
+#### Drugs
 
-**Alcohol.** It is sold only on resort islands. Having it, drinking it or being drunk anywhere else can mean arrest and deportation [L0153].
+Since March 2026 the amended Drugs Act punishes even small amounts more harshly [L0161]. Trafficking a Schedule 1 drug (which includes cannabis and heroin) brings 20 years and a fine of MVR 75,000 to 7.5 million [L0156]. Bringing in more than 350 g of cannabis, 250 g of heroin or 100 g of another Schedule 1 drug into the country on arrival can bring the death penalty [L0157]. Even very small amounts can bring arrest, long prison terms and in some cases whipping [L0154]. Owners, tenants and occupants of a room used for drug-taking can be liable if they knew or had reason to know [L0158]. Never carry a package or bag for anyone else [L0160].
 
-**Religion and Ramadan.** Practising any religion other than Islam in public is illegal and can mean prison [L0151]. In Ramadan, outside resorts, do not eat, drink or smoke in public during the day [L0152].
+#### Alcohol
 
-**Sex.** Same-sex relations are illegal [L0155].
+It is sold only on resort islands. Having it, drinking it or being drunk anywhere else can mean arrest and deportation [L0153].
 
-**Protests and politics.** A visa condition bans migrants from "political activities" [L0141]. In July 2024 the government said it would arrest and deport the Bangladeshis who organised a peaceful protest in G.Dh. Thinadhoo [L0140]. In December 2024 Immigration detained 55 workers, 17 of them Bangladeshi, who had protested near Muliaage in Malé over unpaid wages. Immigration said it would act under the Immigration Act once the investigation was finished [L0144, L0146].
+#### Religion and Ramadan
 
-**Papers.** You may work only with authorisation under the Employment Act [L0085]. You may not work at a worksite that is unregistered or cancelled [L0105], and you may not be moved to another business without the ministry being told [L0102]. Raids, detention and deportation are under Going home without valid papers and If your employer reports you absconded [U0029].
+Practising any religion other than Islam in public is illegal and can mean prison [L0151]. In Ramadan, outside resorts, do not eat, drink or smoke in public during the day [L0152].
 
-**Running a business, trading dollars, gambling.** Running your own business on a work visa is the main reason Bangladeshis are detained in raids (see The crackdown) [U0123, N0089]. Selling dollars above the official rate, or letting someone else use your bank account for it, can bring criminal charges (see Sending money home) [G0027, G0035]. In April 2026 police handed 38 Bangladeshis to Immigration for deportation over drugs and gambling [U0046].
+#### Sex
 
-**Any law.** Immigration can revoke the visa of anyone who breaks any Maldivian law or regulation [V0116].
+Same-sex relations are illegal [L0155].
+
+#### Protests and politics
+
+A visa condition bans migrants from "political activities" [L0141]. In July 2024 the government said it would arrest and deport the Bangladeshis who organised a peaceful protest in G.Dh. Thinadhoo [L0140]. In December 2024 Immigration detained 55 workers, 17 of them Bangladeshi, who had protested near Muliaage in Malé over unpaid wages. Immigration said it would act under the Immigration Act once the investigation was finished [L0144, L0146].
+
+#### Papers
+
+You may work only with authorisation under the Employment Act [L0085]. You may not work at a worksite that is unregistered or cancelled [L0105], and you may not be moved to another business without the ministry being told [L0102]. Raids, detention and deportation are under Going home without valid papers and If your employer reports you absconded [U0029].
+
+#### Running a business, trading dollars, gambling
+
+Running your own business on a work visa is the main reason Bangladeshis are detained in raids (see The crackdown) [U0123, N0089]. Selling dollars above the official rate, or letting someone else use your bank account for it, can bring criminal charges (see Sending money home) [G0027, G0035]. In April 2026 police handed 38 Bangladeshis to Immigration for deportation over drugs and gambling [U0046].
+
+#### Any law
+
+Immigration can revoke the visa of anyone who breaks any Maldivian law or regulation [V0116].
 
 > **Need to know**
 > - What does the Drugs Act now give for a first offence of using or possessing a small amount of cannabis, and are foreigners deported after serving the sentence?
@@ -683,7 +709,9 @@ You may form or join a union without prior approval (Industrial Relations Act 1/
 
 The employer must pay at least monthly [L0051]. Complaining against your employer is not a lawful reason to dismiss you [L0010]. When a job ends, everything owed must be paid within 7 days [L0065]. In a dispute over dismissal it is the employer who must prove the reason [L0018].
 
-**Collect proof first.** Keep your payslips (the employer must give one with every payment) and ask for a copy of the hours and overtime records the employer must keep [L0059, L0028]. The LRA form asks whether you have a written contract and job description [L0126].
+#### Collect proof first
+
+Keep your payslips (the employer must give one with every payment) and ask for a copy of the hours and overtime records the employer must keep [L0059, L0028]. The LRA form asks whether you have a written contract and job description [L0126].
 
 Complain in this order:
 
@@ -709,7 +737,9 @@ Complain in this order:
 
 **If the company goes bankrupt or closes:** the contract ends within a month [L0183]. Workers are paid before the government and other creditors, starting with wages, overtime and service charge for the last 27 weeks [L0022, L0023].
 
-**Protests.** Workers who protested over unpaid wages in December 2024 were detained by Immigration. LRA looked into their claims at the Immigration Detention Centre [L0144, L0145].
+#### Protests
+
+Workers who protested over unpaid wages in December 2024 were detained by Immigration. LRA looked into their claims at the Immigration Detention Centre [L0144, L0145].
 
 > **Need to know**
 > - What are LRA's walk-in address and hours in Malé, and does its 332 8282 line take complaints in Bangla or English?
@@ -751,9 +781,11 @@ You have the right to change employer, but only through the ministry's procedure
 
 ### If your employer reports you absconded
 
-**What it is.** An employer reports a worker missing in Xpat and pays a non-refundable MVR 1,000 within 3 days, and the work permit status becomes "Reported Missing" [U0066, U0067]. The employer types the date you went missing and remarks on how you left, and can file without any supporting documents by declaring it cannot provide them [U0076, U0075]. It can file long after you left [U0074]. Working for anyone other than the employer named on your permit is illegal, and switching without approval leads the employer to file the report [U0054, U0056].
+#### What it is
 
-**What follows.**
+An employer reports a worker missing in Xpat and pays a non-refundable MVR 1,000 within 3 days, and the work permit status becomes "Reported Missing" [U0066, U0067]. The employer types the date you went missing and remarks on how you left, and can file without any supporting documents by declaring it cannot provide them [U0076, U0075]. It can file long after you left [U0074]. Working for anyone other than the employer named on your permit is illegal, and switching without approval leads the employer to file the report [U0054, U0056].
+
+#### What follows
 - After a 3-day hold in which the employer can withdraw, the Labour Relations Authority (LRA) investigates whether you absconded or the employer was negligent, looking at the employer's violation history and earlier missing reports [U0068, U0069, U0071].
 - If the LRA finds you absconded, the report is approved and your permit becomes "Missing Abscond" [U0077, U0019].
 - If it finds employer negligence, the employer is fined (MVR 2,000 in Xpat's missing-report process; MVR 50,000 per worker under Regulation 2025/R-120) and you can get a new permit with another employer through the employer-change process ("Missing Negligence") [U0072, W0035, U0018, U0089].
@@ -1150,7 +1182,9 @@ The Marriage Visa is a resident visa for a foreigner legally married to a Maldiv
 > **Need to know**
 > - Where exactly is the Family Court's marriage counter in Malé, what form is used, what does registration cost, and how long does approval take?
 
-**Marrying abroad (for example in Bangladesh).** It is allowed, but the couple must follow the Family Court's procedure and get prior approval [F0081]. Where the country has a Maldivian embassy, the embassy must stamp a document confirming the marriage was performed by someone authorised to conduct Muslim marriages [F0078].
+#### Marrying abroad (for example in Bangladesh)
+
+It is allowed, but the couple must follow the Family Court's procedure and get prior approval [F0081]. Where the country has a Maldivian embassy, the embassy must stamp a document confirming the marriage was performed by someone authorised to conduct Muslim marriages [F0078].
 
 ### Step 3: Get the Sponsorship Declaration, or change visa inside the Maldives
 
@@ -1170,7 +1204,9 @@ The Marriage Visa is a resident visa for a foreigner legally married to a Maldiv
 > **Need to know**
 > - What is the Marriage Visa fee, and can a Marriage Visa holder work without a separate work permit?
 
-**If the marriage ends.** A foreign spouse divorces or is divorced under the Family Act, and a Maldivian husband who divorces a foreign wife must pay her travel home [F0058, F0057]. After divorce you may keep residence only if you have a Maldivian child; after your spouse's death, only if you still meet the rules [F0046, F0047]. Your children from an earlier marriage, under 18 and not Maldivian, can get a special visa to stay [F0027].
+#### If the marriage ends
+
+A foreign spouse divorces or is divorced under the Family Act, and a Maldivian husband who divorces a foreign wife must pay her travel home [F0058, F0057]. After divorce you may keep residence only if you have a Maldivian child; after your spouse's death, only if you still meet the rules [F0046, F0047]. Your children from an earlier marriage, under 18 and not Maldivian, can get a special visa to stay [F0027].
 
 **Scams:** Marriage applications between Maldivians and foreigners rose in 2024 as Immigration started tracing and deporting undocumented workers, and the Family Court responded by checking that the foreigner is legally resident [F0074, F0073]. When the income rule was announced, the Family Court's registrar cited a Bangladeshi husband who fled the country with his Maldivian wife's jewellery [F0079, F0076].
 
@@ -1264,7 +1300,9 @@ A special visa lets a foreigner stay for humanitarian work, to continue medical 
 > **Need to know**
 > - Has Immigration ever allowed a tourist-to-work switch for Bangladeshis, for example during a regularisation drive?
 
-**If a visa is refused or revoked.** Immigration can revoke any visa, with or without notice, for false information or documents, if the reason for the visa no longer exists, or for breaking any Maldivian law [R0001, R0002, R0003]. Revoked without notice, you must leave within one day [R0004]. The Immigration Act gives no right to appeal or to ask for a review [R0006].
+### If a visa is refused or revoked
+
+Immigration can revoke any visa, with or without notice, for false information or documents, if the reason for the visa no longer exists, or for breaking any Maldivian law [R0001, R0002, R0003]. Revoked without notice, you must leave within one day [R0004]. The Immigration Act gives no right to appeal or to ask for a review [R0006].
 
 > **Need to know**
 > - Does Immigration accept a written request to reconsider a refused or revoked visa in practice, and at which counter or email?
@@ -1302,7 +1340,9 @@ A child born in the Maldives to two Bangladeshi parents does not become Maldivia
 - **The street price of a dollar is far above the official one.** The official rate is MVR 15.42 per dollar [G0015]; on the black market a dollar cost a record MVR 22.45 on 13 August 2026, 45.59% more [G0029]. In September 2026 an MP calculated that workers buying dollars at MVR 21-22 lose 35-40% before sending, and that a worker sending MVR 5,000 (about Tk 40,300) a month loses about Tk 12,500 a month [G0031, G0032, G0015, G0014].
 - **Banks cap what a foreign worker can send each month,** because the MMA gives each bank only a limited monthly dollar allocation [G0011]. In September 2026 Habib Bank had cut its remittance ceiling to USD 300, Bank of Ceylon had stopped opening new remittance accounts, and State Bank of India allowed Indian workers USD 150 a month [G0007, G0008].
 
-**Your wages now go into a bank account.** Since 25 September 2026, employers must pay all foreign workers' salaries and benefits into a bank account in the worker's own name at a bank licensed by the MMA (how to open one: Step 7: After arrival, item 7) [W0147, G0017, G0018, G0020]. Paying wages in cash is no longer allowed; an employer who breaks the rule risks losing work-permit quota, a fine, blacklisting on Xpat and referral to investigators [G0020, G0021].
+### Your wages now go into a bank account
+
+Since 25 September 2026, employers must pay all foreign workers' salaries and benefits into a bank account in the worker's own name at a bank licensed by the MMA (how to open one: Step 7: After arrival, item 7) [W0147, G0017, G0018, G0020]. Paying wages in cash is no longer allowed; an employer who breaks the rule risks losing work-permit quota, a fine, blacklisting on Xpat and referral to investigators [G0020, G0021].
 
 > **Need to know**
 > - Is any tax taken in 2026 when a foreign worker sends money abroad? (A 3% remittance tax was repealed from 1 January 2020, but an August 2026 report says a 3% tax applies to transfers, and MIRA's website still shows the 2016 Remittance Tax Regulation without a repealed mark [G0022, G0025, Z0016].)
@@ -1326,12 +1366,14 @@ You'll need:
 > - Where does a worker complain when a bank or remitter in Malé loses or delays a transfer: does the MMA take consumer complaints, and how?
 > - Do Bank of Maldives or Maldives Islamic Bank send directly to Bangladeshi bank accounts or bKash, and at what cost?
 
-**Hundi and street dollars: the risks.**
+### Hundi and street dollars: the risks
 - In Bangladesh, the Financial Intelligence Unit (BFIU) froze about 55,000 mobile-money accounts linked to digital hundi and online gambling in 2026 and decided in August 2026 to freeze about 14,000 more [G0058].
 - In the Maldives, since 1 September 2026 selling or offering dollars above the MMA rate is fined MVR 25,000 to MVR 1,000,000, advertising such rates MVR 25,000 to MVR 500,000, and criminal charges can follow [G0026, G0027]. Money changers now need an MMA licence [G0028].
 - In August 2026 police and immigration detained four Bangladeshi and two Indian workers for trading currency; MVR 54.4 million and USD 1.62 million had passed through their accounts in three years [G0034]. Police warned that anyone who knowingly lets someone else use their bank account for illegal transactions can be charged as an accomplice [G0035].
 
-**What is being done.** The Bangladesh High Commission in Malé has asked banks to let Bangladeshi workers send at least USD 50-100 [G0009]. On 8 October 2026 Bangladesh Bank proposed to the MMA a rufiyaa settlement through the Asian Clearing Union (a regional payment system), taka cards and a currency swap, and is exploring branches of Bangladeshi banks such as BRAC Bank and National Bank in the Maldives; none had been agreed by late October 2026 [G0055, G0054].
+### What is being done
+
+The Bangladesh High Commission in Malé has asked banks to let Bangladeshi workers send at least USD 50-100 [G0009]. On 8 October 2026 Bangladesh Bank proposed to the MMA a rufiyaa settlement through the Asian Clearing Union (a regional payment system), taka cards and a currency swap, and is exploring branches of Bangladeshi banks such as BRAC Bank and National Bank in the Maldives; none had been agreed by late October 2026 [G0055, G0054].
 
 ### Saving at home
 
@@ -1342,7 +1384,9 @@ You'll need:
 
 ## Undocumented workers: regularisation
 
-**Status on 8 November 2026: no legalisation window is open.** The Mass Legalisation Programme ran from 1 January 2026, was extended once from 2 April to 2 May 2026, and the Ministry called that extension the final opportunity [U0023, U0025, U0024]. The final phase of Operation Kurangi (the government's registration and enforcement drive) runs from 2 April 2026 to 1 May 2027 and is for deportation [U0028]. Since 2 May 2026 any worker found with unpaid fees is to be deported immediately, and the government says that from 2027 anyone found in breach will be deported with no further chance to regularise [U0029, U0034]. The standing legalisation chapter was removed from the expatriate employment rules in December 2025; the rules now in force are Regulation 2025/R-120 (Regulation on Expatriate Employment) [U0091, U0086].
+### Status on 8 November 2026: no legalisation window is open
+
+The Mass Legalisation Programme ran from 1 January 2026, was extended once from 2 April to 2 May 2026, and the Ministry called that extension the final opportunity [U0023, U0025, U0024]. The final phase of Operation Kurangi (the government's registration and enforcement drive) runs from 2 April 2026 to 1 May 2027 and is for deportation [U0028]. Since 2 May 2026 any worker found with unpaid fees is to be deported immediately, and the government says that from 2027 anyone found in breach will be deported with no further chance to regularise [U0029, U0034]. The standing legalisation chapter was removed from the expatriate employment rules in December 2025; the rules now in force are Regulation 2025/R-120 (Regulation on Expatriate Employment) [U0091, U0086].
 
 ### How workers become undocumented
 
@@ -1427,7 +1471,9 @@ Irregular status is often discovered at the airport when the worker tries to lea
 > - Can an undocumented worker or one with a missing report simply buy a ticket and fly out of Velana airport in 2026, or is he stopped and detained?
 > - Which Immigration counter handles voluntary departures now, and what must be paid there?
 
-**After you leave.** If you resigned and left but your employer never cancelled your permit, you can cancel it yourself on the "Employee Self Requested Work Permit Cancellation Form", ticking a reason such as "Employer did not pay work permit related fees" and attaching your passport's photo page [U0094, U0095, U0096]. You then can't get a permit with another employer for 6 months unless the old employer gives a no-objection document [U0094].
+#### After you leave
+
+If you resigned and left but your employer never cancelled your permit, you can cancel it yourself on the "Employee Self Requested Work Permit Cancellation Form", ticking a reason such as "Employer did not pay work permit related fees" and attaching your passport's photo page [U0094, U0095, U0096]. You then can't get a permit with another employer for 6 months unless the old employer gives a no-objection document [U0094].
 
 > **Need to know**
 > - Where is the self-cancellation form sent from Bangladesh, and is it still used under Regulation 2025/R-120?
@@ -1472,7 +1518,7 @@ Under the Occupational Safety and Health Act (in force since July 2024), a worke
 
 ### If a worker dies
 
-**In the Maldives.**
+#### In the Maldives
 
 1. **The employer's duties.** The Minister must be notified within 48 hours [L0077]. The 2021 regulation made the employer tell the family and the Bangladesh High Commission and pay for burial, or send the body home if the family wished, and the 2023 regulation also made it pay for burial; both have since been replaced by Regulation 2025/R-120 [L0130, L0131, L0138, U0086]. The High Commission attests a demand letter only if the employer agrees to send a dead worker's body home at its own cost, and the work permit insurance must cover repatriation of the body or burial in the Maldives [B0121, W0070].
 2. **The High Commission** works with Maldivian authorities to send bodies home [L0171]. Eight Bangladeshis died in 10 days in July and August 2026, and five died in a fire on Dhigurah Island in March 2026; 45 Bangladeshis died in the first half of 2026, 10 of them undocumented [L0170, L0172, U0121].
@@ -1591,7 +1637,7 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
 
 ## Contacts
 
-**In the Maldives.**
+### In the Maldives
 
 - **Bangladesh High Commission, Malé:** Plot 10982, Street 16, Nirolhu Magu, Hulhumalé; +960 3320859; mission.male@mofa.gov.bd [B0095, B0096]. Sunday to Thursday 9 am to 5 pm [B0098]. High Commissioner: Dr Md Nazmul Islam [B0082]. Hotline 3027953 [Z0013].
   - Labour Welfare Wing hotline: +960 7648006 (WhatsApp) [B0081].
@@ -1604,7 +1650,7 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
 - **Operation Kurangi (fingerprints):** 7690228, operation.kurangi@mohst.gov.mv [U0006].
 - **Maldives Qualifications Authority:** Umar Zahir Office Building, 5th Floor, Orchid Maa Hingun, Hulhumalé; 3041831, 3041829 [R0044].
 
-**In Bangladesh.**
+### In Bangladesh
 
 - **Probashi call centre (Welfare Board), 24 hours:** 16135, +8809610102030 from abroad [B0060].
 - **BMET:** 89/2 Kakrail, Dhaka-1000 [B0008]; Director (Emigration) +8802222222415, 01711-135901, diremi@bmet.gov.bd [B0051]; OEP hotline 09614445271 [B0004].
