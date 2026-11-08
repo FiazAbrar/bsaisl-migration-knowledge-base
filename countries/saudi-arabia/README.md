@@ -11,10 +11,38 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000), SR the Saudi riyal and USD th
 - [Background](#background)
   - [In one minute](#in-one-minute)
   - [Is it open now, and who can go?](#is-it-open-now-and-who-can-go)
+    - [Current situation (7 November 2026; re-check by 7 December 2026)](#current-situation-7-november-2026-re-check-by-7-december-2026)
+    - [Three rules that hold every year](#three-rules-that-hold-every-year)
+    - [Channels](#channels)
+    - [Who the sponsor is](#who-the-sponsor-is)
+    - [Who qualifies](#who-qualifies)
+    - [Size](#size)
   - [How a job reaches you, and who takes a cut](#how-a-job-reaches-you-and-who-takes-a-cut)
+    - [The root: a visa the sponsor owns](#the-root-a-visa-the-sponsor-owns)
+    - [The Saudi side: okala and MOFA](#the-saudi-side-okala-and-mofa)
+    - [The embassy's approved list](#the-embassys-approved-list)
+    - [The Bangladesh side](#the-bangladesh-side)
+    - [The village end](#the-village-end)
+    - [Women domestic workers: the money should run the other way](#women-domestic-workers-the-money-should-run-the-other-way)
+    - [The medical](#the-medical)
   - [What you pay, and what you earn and keep](#what-you-pay-and-what-you-earn-and-keep)
+    - [What people really pay, item by item](#what-people-really-pay-item-by-item)
+    - [How they pay](#how-they-pay)
+    - [The iqama: the employer's bill](#the-iqama-the-employers-bill)
+    - [On a free visa you pay it yourself](#on-a-free-visa-you-pay-it-yourself)
+    - [What the job pays](#what-the-job-pays)
+    - [What it costs to live](#what-it-costs-to-live)
+    - [What reaches home, and how long the debt takes](#what-reaches-home-and-how-long-the-debt-takes)
   - [What ties you to the employer](#what-ties-you-to-the-employer)
+    - [Changing employer: what it costs](#changing-employer-what-it-costs)
+    - [Which law covers you](#which-law-covers-you)
+    - [Your passport](#your-passport)
+    - [Huroob (হুরুব), or "absent from work"](#huroob-হরব-or-absent-from-work)
+    - [An expired iqama](#an-expired-iqama)
   - [What goes wrong most, and what people wrongly believe](#what-goes-wrong-most-and-what-people-wrongly-believe)
+    - [Complaints](#complaints)
+    - [What people believe, and the facts](#what-people-believe-and-the-facts)
+    - [Irregular routes and how they end](#irregular-routes-and-how-they-end)
 - [Work visa: company worker](#work-visa-company-worker)
   - [Who pays what](#who-pays-what)
     - [The legal maximum and what people really pay](#the-legal-maximum-and-what-people-really-pay)
@@ -44,7 +72,7 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000), SR the Saudi riyal and USD th
     - [Pay and deductions](#pay-and-deductions)
     - [Hours, rest and leave](#hours-rest-and-leave)
     - [Housing, food and health care](#housing-food-and-health-care)
-    - [Your passport](#your-passport)
+    - [Your passport](#your-passport-1)
   - [Your residence permit](#your-residence-permit)
     - [How long you can stay](#how-long-you-can-stay)
     - [Renewing your passport and NID](#renewing-your-passport-and-nid)
@@ -116,7 +144,9 @@ Saudi Arabia takes two of every three Bangladeshis who go abroad for work, thoug
 
 Saudi Arabia is open to Bangladeshi workers as of 7 November 2026, and is still the largest destination <sup>[N2](#n2)</sup>. A man aged 21 to 60 can go on a visa for a named job, and usually needs a Saudi skill certificate; a woman going as a domestic worker must be 25 to 45 and needs none <sup>[3 (2019)](#o3), [4](#o4), [1](#o1), [N8](#n8)</sup>.
 
-*Current situation (7 November 2026; re-check by 7 December 2026).* In February 2026 the Saudi labour ministry cancelled thousands of visa applications filed for jobs that didn't exist, and visas that had appeared on the Saudi system disappeared <sup>[N7](#n7)</sup>. The Iran war and Houthi attacks on Saudi airports have cancelled over 1,000 flights since February; Biman flies Dhaka-Dammam daily from 7 November, Dhaka-Riyadh stays suspended, and Riyadh-bound workers go via Jeddah or Madinah <sup>[N2](#n2), [N9](#n9), [N10](#n10)</sup>.
+#### Current situation (7 November 2026; re-check by 7 December 2026)
+
+In February 2026 the Saudi labour ministry cancelled thousands of visa applications filed for jobs that didn't exist, and visas that had appeared on the Saudi system disappeared <sup>[N7](#n7)</sup>. The Iran war and Houthi attacks on Saudi airports have cancelled over 1,000 flights since February; Biman flies Dhaka-Dammam daily from 7 November, Dhaka-Riyadh stays suspended, and Riyadh-bound workers go via Jeddah or Madinah <sup>[N2](#n2), [N9](#n9), [N10](#n10)</sup>.
 
 > **Need to know**
 > - Has Saudi Arabia agreed to extend the visas of workers stranded in Bangladesh, as discussed in October 2026 <sup>[N11](#n11)</sup>?
@@ -124,7 +154,7 @@ Saudi Arabia is open to Bangladeshi workers as of 7 November 2026, and is still 
 
 The market can shut suddenly: Saudi Arabia stopped hiring Bangladeshi men from 2008 to 2016, and in 2025 it stalled three times over paperwork rules, the skill test and the Hajj season <sup>[N12 (2016)](#n12), [N13 (2017)](#n13), [N14](#n14), [N8](#n8), [N15](#n15)</sup>.
 
-*Three rules that hold every year.*
+#### Three rules that hold every year
 - Pay the bulk only after the visa is issued and you hold BMET clearance; BMET's permission letters allow the agency's fee only after visa, clearance and flight are confirmed <sup>[5](#o5)</sup>.
 - Fly before the entry visa expires: an expired Saudi work visa is very hard to renew <sup>[N10](#n10)</sup>.
 - Expect delays around Hajj: in 2025 block work visas on Qiwa paused for Bangladeshis through the Hajj season until about early July, and visit and tourist visas from 13 April <sup>[N15](#n15), [N16](#n16)</sup>.
@@ -133,7 +163,9 @@ The market can shut suddenly: Saudi Arabia stopped hiring Bangladeshi men from 2
 > - Did the Hajj-season pause on Bangladeshi work visas, and on visit and tourist visas, happen again in 2026?
 > - If it did, from what date to what date?
 
-*Channels.* Visas come as single visas (সিঙ্গেল ভিসা) or group visas (গ্রুপ ভিসা), a group visa being 25 or more workers for one company <sup>[N17](#n17)</sup>. Nearly all go on single visas: 21.36 lakh workers against 90,000 on group visas in the five years to 2024, by BMET figures <sup>[N18 (2024)](#n18)</sup>. A single visa is not the same as a visa sent by a relative. The channels:
+#### Channels
+
+Visas come as single visas (সিঙ্গেল ভিসা) or group visas (গ্রুপ ভিসা), a group visa being 25 or more workers for one company <sup>[N17](#n17)</sup>. Nearly all go on single visas: 21.36 lakh workers against 90,000 on group visas in the five years to 2024, by BMET figures <sup>[N18 (2024)](#n18)</sup>. A single visa is not the same as a visa sent by a relative. The channels:
 - Resold visas: small Saudi firms sell demand letters to Bangladeshi brokers, Bangladeshis working in Saudi Arabia resell them, and Bangladeshi agencies, which often can't get job orders from employers directly, buy visas from Saudi agents and resell them down the chain (2020, 2024) <sup>[N18 (2024)](#n18), [N3](#n3), [N19 (2020)](#n19)</sup>.
 - Relatives abroad, a major source: in IOM's (the International Organization for Migration's) 2019-2020 survey, 33.2% went on a visa relatives procured, against 42.3% through agencies <sup>[N20 (2022)](#n20)</sup>.
 - Women domestic workers: through ministry-approved agencies and Musaned, the Saudi domestic-worker platform ([Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[2](#o2), [6 (2024)](#o6)</sup>.
@@ -145,7 +177,9 @@ Whoever the visa comes from, a Bangladeshi agency the Saudi embassy has approved
 > - How many Saudi single-visa clearances did BMET issue in 2024, 2025 and 2026 to date?
 > - How many Saudi group-visa clearances did BMET issue in 2024, 2025 and 2026 to date?
 
-*Who the sponsor is.* The Bangladesh embassy in Riyadh sorts sponsors three ways:
+#### Who the sponsor is
+
+The Bangladesh embassy in Riyadh sorts sponsors three ways:
 - Company (শারিকা, sharika) <sup>[8](#o8)</sup>: on a company visa the company often provides food and lodging <sup>[N22](#n22)</sup>.
 - Establishment (মুয়াসসাসা, muassasa), such as a shop, workshop or small contracting firm <sup>[8](#o8)</sup>.
 - Household, as private driver (সায়েক খাস, sayeq khas) or household worker (আমেল মানজিলি, amel manzil) <sup>[8](#o8)</sup>. Each Saudi household can recruit eight workers as drivers, gardeners or cooks, and in 2020 these household visas were being used for free visas <sup>[N23 (2020)](#n23)</sup>. A worker on a household visa is a domestic worker in law, outside the Labour Law, even if promised a company job, and may work only for that household <sup>[N23 (2020)](#n23), [9](#o9)</sup>.
@@ -158,7 +192,9 @@ A visa also names a profession (মিহনা, the job title on the visa): a m
 > - What does a house-driver visa sell for in Dhaka in 2026?
 > - What share of 2025-2026 departures went on company, establishment and house-driver visas?
 
-*Who qualifies.* The Saudi embassy in Dhaka's 2019 rules set higher minimum ages for some trades (industrial tailor 30, barber 35, garment shop worker 40), and drivers need a valid licence <sup>[3 (2019)](#o3)</sup>. The skill test, the Skills Verification Program (SVP, run by Takamol), is compulsory only for trades Takamol has listed, 108 by late 2026; the list includes street, hospital, office and roof cleaners, load-and-unload workers and construction workers, so most men going for labouring jobs need it <sup>[4](#o4)</sup>. How to take it: Work visa: company worker, [Step 3: Pass the skill test](#step-3-pass-the-skill-test) <sup>[11](#o11)</sup>.
+#### Who qualifies
+
+The Saudi embassy in Dhaka's 2019 rules set higher minimum ages for some trades (industrial tailor 30, barber 35, garment shop worker 40), and drivers need a valid licence <sup>[3 (2019)](#o3)</sup>. The skill test, the Skills Verification Program (SVP, run by Takamol), is compulsory only for trades Takamol has listed, 108 by late 2026; the list includes street, hospital, office and roof cleaners, load-and-unload workers and construction workers, so most men going for labouring jobs need it <sup>[4](#o4)</sup>. How to take it: Work visa: company worker, [Step 3: Pass the skill test](#step-3-pass-the-skill-test) <sup>[11](#o11)</sup>.
 
 > **Need to know**
 > - Does a farm worker visa need the SVP certificate?
@@ -166,44 +202,62 @@ A visa also names a profession (মিহনা, the job title on the visa): a m
 > - Does a private driver visa need the SVP certificate?
 > - Does the Saudi embassy in Dhaka still apply its 2019 minimum-age rules?
 
-*Size.* In 2025, 755,194 Bangladeshis went to Saudi Arabia for work; Qatar came next with 107,598 <sup>[N3](#n3)</sup>. Saudisation (reserving jobs for Saudis) closes some trades: housing supervisor became Saudi-only in 2026, and firms must give Saudis 60% of sales and marketing jobs <sup>[N25](#n25)</sup>.
+#### Size
+
+In 2025, 755,194 Bangladeshis went to Saudi Arabia for work; Qatar came next with 107,598 <sup>[N3](#n3)</sup>. Saudisation (reserving jobs for Saudis) closes some trades: housing supervisor became Saudi-only in 2026, and firms must give Saudis 60% of sales and marketing jobs <sup>[N25](#n25)</sup>.
 
 ### How a job reaches you, and who takes a cut
 
 The choke point is the Saudi embassy in Dhaka: of 2,807 licensed agencies, only those it approves can file Saudi work visas, and in September 2025 BMET wrote that it did not know which agencies those are <sup>[7](#o7)</sup>.
 
-*The root: a visa the sponsor owns.* An employer issues work visas itself, instantly, on Qiwa, the Saudi labour ministry's platform, if its Nitaqat rating (the Saudisation rating) is at least "medium green" and its government account has enough credit <sup>[12](#o12), [13](#o13)</sup>. The visa costs about SR 2,000 (Tk 66,000) <sup>[N3](#n3)</sup>. A Bangladeshi labour supplier in Saudi Arabia said in October 2026 that sponsors take out two or three permits in their own name for workers they don't need and charge Tk 1-1.5 lakh each, so a permit is worth about Tk 2 lakh before it leaves Saudi Arabia <sup>[N3](#n3)</sup>.
+#### The root: a visa the sponsor owns
 
-*The Saudi side: okala and MOFA.* On the Saudi visa platform the employer delegates the visa to a recruitment office <sup>[14](#o14)</sup>; agencies call this the okala (ওকালা, from the Arabic wakala, authorisation), and an okala visa sits in the agency's name, not a worker's <sup>[N26 (2022)](#n26)</sup>. It becomes a named worker's visa when the agency files that worker against it; agents call this application the MOFA (মোফা, after the Saudi foreign ministry), and it shows the sponsor's name and an application number <sup>[N26 (2022)](#n26)</sup>. Tasheer, the visa centre in Dhaka, takes the fingerprints and fills in the form on Enjaz, the Saudi foreign ministry's visa platform <sup>[N27 (2022)](#n27), [N28](#n28)</sup>. Since May 2023 Bangladeshis get Saudi work visas as e-visas, with no sticker in the passport <sup>[N29 (2023)](#n29)</sup>. How to check the MOFA: Work visa: company worker, [Step 7: Check the visa yourself](#step-7-check-the-visa-yourself).
+An employer issues work visas itself, instantly, on Qiwa, the Saudi labour ministry's platform, if its Nitaqat rating (the Saudisation rating) is at least "medium green" and its government account has enough credit <sup>[12](#o12), [13](#o13)</sup>. The visa costs about SR 2,000 (Tk 66,000) <sup>[N3](#n3)</sup>. A Bangladeshi labour supplier in Saudi Arabia said in October 2026 that sponsors take out two or three permits in their own name for workers they don't need and charge Tk 1-1.5 lakh each, so a permit is worth about Tk 2 lakh before it leaves Saudi Arabia <sup>[N3](#n3)</sup>.
 
-*The embassy's approved list.* In March 2023 Nazaha, Saudi Arabia's anti-corruption authority, arrested the Saudi embassy's own head of consular affairs and his deputy for taking money to issue work visas, so an agent's "embassy contact" is no guarantee <sup>[15 (2023)](#o15), [N30 (2023)](#n30)</sup>. The agencies with the most Saudi job orders, and the allegations against some, are under Work visa: company worker, [Step 1, item 4: Ask licensed agencies what Saudi jobs they have, and check each one](#step-1-find-a-real-job-item-4) <sup>[16](#o16)</sup>.
+#### The Saudi side: okala and MOFA
+
+On the Saudi visa platform the employer delegates the visa to a recruitment office <sup>[14](#o14)</sup>; agencies call this the okala (ওকালা, from the Arabic wakala, authorisation), and an okala visa sits in the agency's name, not a worker's <sup>[N26 (2022)](#n26)</sup>. It becomes a named worker's visa when the agency files that worker against it; agents call this application the MOFA (মোফা, after the Saudi foreign ministry), and it shows the sponsor's name and an application number <sup>[N26 (2022)](#n26)</sup>. Tasheer, the visa centre in Dhaka, takes the fingerprints and fills in the form on Enjaz, the Saudi foreign ministry's visa platform <sup>[N27 (2022)](#n27), [N28](#n28)</sup>. Since May 2023 Bangladeshis get Saudi work visas as e-visas, with no sticker in the passport <sup>[N29 (2023)](#n29)</sup>. How to check the MOFA: Work visa: company worker, [Step 7: Check the visa yourself](#step-7-check-the-visa-yourself).
+
+#### The embassy's approved list
+
+In March 2023 Nazaha, Saudi Arabia's anti-corruption authority, arrested the Saudi embassy's own head of consular affairs and his deputy for taking money to issue work visas, so an agent's "embassy contact" is no guarantee <sup>[15 (2023)](#o15), [N30 (2023)](#n30)</sup>. The agencies with the most Saudi job orders, and the allegations against some, are under Work visa: company worker, [Step 1, item 4: Ask licensed agencies what Saudi jobs they have, and check each one](#step-1-find-a-real-job-item-4) <sup>[16](#o16)</sup>.
 
 > **Need to know**
 > - Is the Saudi embassy's approved-agency list published anywhere?
 > - How many agencies are on the list in 2026?
 
-*The Bangladesh side.* The Bangladesh embassy's labour wing in Riyadh attests the employer's demand letter, for single visas too since 2025 (see [Work visa: company worker](#work-visa-company-worker), [Step 2: Get the attested demand letter](#step-2-get-the-attested-demand-letter)) <sup>[N31](#n31)</sup>; TIB (Transparency International Bangladesh) found some officials attest without checks or for bribes <sup>[N3](#n3)</sup>. In October 2025 BMET's additional director general said employment contracts are found for only 3-4% of workers going to Saudi Arabia <sup>[N32](#n32)</sup>, and workers often first see a contract at the airport <sup>[N3](#n3)</sup>.
+#### The Bangladesh side
 
-*The village end.* Most agencies deal with workers only through sub-agents beyond regulatory oversight <sup>[N3](#n3)</sup>. A village broker in Cumilla got Tk 20,000 from the agent for each man in 2024 <sup>[N33 (2024)](#n33)</sup>. Since 2023 an agency may use only registered sub-agents (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 4: Ask licensed agencies what Saudi jobs they have, and check each one](#step-1-find-a-real-job-item-4)) <sup>[17 (2023)](#o17)</sup>.
+The Bangladesh embassy's labour wing in Riyadh attests the employer's demand letter, for single visas too since 2025 (see [Work visa: company worker](#work-visa-company-worker), [Step 2: Get the attested demand letter](#step-2-get-the-attested-demand-letter)) <sup>[N31](#n31)</sup>; TIB (Transparency International Bangladesh) found some officials attest without checks or for bribes <sup>[N3](#n3)</sup>. In October 2025 BMET's additional director general said employment contracts are found for only 3-4% of workers going to Saudi Arabia <sup>[N32](#n32)</sup>, and workers often first see a contract at the airport <sup>[N3](#n3)</sup>.
+
+#### The village end
+
+Most agencies deal with workers only through sub-agents beyond regulatory oversight <sup>[N3](#n3)</sup>. A village broker in Cumilla got Tk 20,000 from the agent for each man in 2024 <sup>[N33 (2024)](#n33)</sup>. Since 2023 an agency may use only registered sub-agents (see [Work visa: company worker](#work-visa-company-worker), [Step 1, item 4: Ask licensed agencies what Saudi jobs they have, and check each one](#step-1-find-a-real-job-item-4)) <sup>[17 (2023)](#o17)</sup>.
 
 > **Need to know**
 > - What does a village broker get per man sent to Saudi Arabia in 2026?
 > - Does the broker's cut differ by sponsor type (company, establishment, household)?
 
-*Women domestic workers: the money should run the other way.* The Saudi household pays its recruitment office up to SR 11,750 for a Bangladeshi domestic worker (July 2026), and in 2020 the office paid the Bangladeshi agency about USD 2,000 per woman through Musaned, so she should pay nothing <sup>[N34](#n34), [N19 (2020)](#n19)</sup>; yet none of the returnee women IOM interviewed in 2020 had gone free <sup>[N19 (2020)](#n19)</sup>. How it works: see [Work visa: domestic worker](#work-visa-domestic-worker).
+#### Women domestic workers: the money should run the other way
 
-*The medical.* Brokers sell guaranteed "fit" results from the Wafid medical check (the Gulf health check) at centres allegedly controlled by a few influential owners who issue fake certificates; a worker who paid Tk 25,000 for a fit certificate was found unfit in Saudi Arabia and deported <sup>[N35](#n35)</sup>. The check itself: Work visa: company worker, [Step 4: Pass the Wafid medical check](#step-4-pass-the-wafid-medical-check).
+The Saudi household pays its recruitment office up to SR 11,750 for a Bangladeshi domestic worker (July 2026), and in 2020 the office paid the Bangladeshi agency about USD 2,000 per woman through Musaned, so she should pay nothing <sup>[N34](#n34), [N19 (2020)](#n19)</sup>; yet none of the returnee women IOM interviewed in 2020 had gone free <sup>[N19 (2020)](#n19)</sup>. How it works: see [Work visa: domestic worker](#work-visa-domestic-worker).
+
+#### The medical
+
+Brokers sell guaranteed "fit" results from the Wafid medical check (the Gulf health check) at centres allegedly controlled by a few influential owners who issue fake certificates; a worker who paid Tk 25,000 for a fit certificate was found unfit in Saudi Arabia and deported <sup>[N35](#n35)</sup>. The check itself: Work visa: company worker, [Step 4: Pass the Wafid medical check](#step-4-pass-the-wafid-medical-check).
 
 ### What you pay, and what you earn and keep
 
 The legal maximum for a Saudi job is Tk 1.65 lakh, and the Saudi employer is meant to pay nearly every cost; in practice a man pays Tk 3.5-5 lakh or more, mostly borrowed <sup>[N3](#n3), [10](#o10), [N5](#n5)</sup>. The rule and the whole cost: see [The legal maximum and what people really pay](#the-legal-maximum-and-what-people-really-pay).
 
-*What people really pay, item by item.*
+#### What people really pay, item by item
 - A free visa (also called an azad visa, আযাদ ভিসা): Tk 3-5 lakh through an agency and more through a broker, up to Tk 5-7 lakh <sup>[N24](#n24), [N36](#n36)</sup>.
 - The medical: the set fee is about Tk 10,000, but most workers pay double or more; a worker declared unfit pays Tk 30,000-80,000 for a "fit" report, and many make a "contract" (কন্ট্রাক্ট) with a broker in advance to be passed <sup>[N37](#n37)</sup>.
 - Tasheer's fingerprints: about Tk 694, or about Tk 2,100 for the premium service <sup>[N5](#n5)</sup>.
 
-*How they pay.* 81% of men borrow to go <sup>[N38 (2021)](#n38)</sup>. The lenders:
+#### How they pay
+
+81% of men borrow to go <sup>[N38 (2021)](#n38)</sup>. The lenders:
 - Family: loans mostly interest-free <sup>[N39 (2020)](#n39)</sup>.
 - NGOs: 10-15% interest <sup>[N39 (2020)](#n39)</sup>.
 - Moneylenders (মহাজন): far higher interest <sup>[N39 (2020)](#n39)</sup>.
@@ -211,7 +265,9 @@ The legal maximum for a Saudi job is Tk 1.65 lakh, and the Saudi employer is mea
 
 Workers pay intermediaries part in advance, often before the visa is confirmed, and mostly get no receipt <sup>[N3](#n3), [N40 (2024)](#n40)</sup>.
 
-*The iqama: the employer's bill.* Each year a company worker's iqama costs the employer SR 9,150-10,350, plus compulsory health insurance <sup>[N41](#n41)</sup>:
+#### The iqama: the employer's bill
+
+Each year a company worker's iqama costs the employer SR 9,150-10,350, plus compulsory health insurance <sup>[N41](#n41)</sup>:
 - iqama fee: SR 650;
 - work permit fee: SR 100;
 - expat levy: SR 800 a month (SR 700 for each foreign worker up to the number of Saudis in the firm);
@@ -219,9 +275,13 @@ Workers pay intermediaries part in advance, often before the visa is confirmed, 
 
 Every item is the employer's cost, and nothing may be deducted from wages for it <sup>[10](#o10)</sup>. If you are asked to pay any of it, complain to the labour ministry on 19911 (see [If you aren't paid](#if-you-arent-paid)) <sup>[19](#o19)</sup>. In practice some small kafils and supply companies deduct the iqama and health-insurance cost from wages <sup>[N42](#n42)</sup>. The work permit and levy can be renewed for 3, 6, 9 or 12 months at a time <sup>[N41](#n41)</sup>: that is how a kafil hands a worker a 3-month iqama and comes back for money every quarter <sup>[N33 (2024)](#n33)</sup>. Check the expiry date yourself on Absher, the interior ministry's app <sup>[N43](#n43)</sup>.
 
-*On a free visa you pay it yourself.* The worker bears the whole iqama renewal, SR 8,000-12,000 a year (Tk 2.6-4 lakh), plus a monthly or yearly cut to the kafil called kamishon (কামিশন) <sup>[N24](#n24)</sup>. Workers on bought visas pay the kafil SR 5,000-6,000 (Tk 1.65-2 lakh) at each renewal <sup>[N3](#n3)</sup>. In 2026 workers told of paying a kafil Tk 4-8 lakh for a renewal that never came <sup>[N6](#n6)</sup>.
+#### On a free visa you pay it yourself
 
-*What the job pays.* Saudi Arabia sets no minimum wage for foreign workers; the contract wage is what counts <sup>[N40 (2024)](#n40)</sup>. Monthly wages (the first four from BMET's 2025 permission letters <sup>[5](#o5), [20](#o20), [21](#o21)</sup>):
+The worker bears the whole iqama renewal, SR 8,000-12,000 a year (Tk 2.6-4 lakh), plus a monthly or yearly cut to the kafil called kamishon (কামিশন) <sup>[N24](#n24)</sup>. Workers on bought visas pay the kafil SR 5,000-6,000 (Tk 1.65-2 lakh) at each renewal <sup>[N3](#n3)</sup>. In 2026 workers told of paying a kafil Tk 4-8 lakh for a renewal that never came <sup>[N6](#n6)</sup>.
+
+#### What the job pays
+
+Saudi Arabia sets no minimum wage for foreign workers; the contract wage is what counts <sup>[N40 (2024)](#n40)</sup>. Monthly wages (the first four from BMET's 2025 permission letters <sup>[5](#o5), [20](#o20), [21](#o21)</sup>):
 - kitchen workers: SR 800 plus SR 200 for food;
 - construction labourers: SR 1,100 with food and housing;
 - carpenters, masons, steel fixers, electricians and painters: SR 1,200 plus SR 300 for food;
@@ -229,7 +289,9 @@ Every item is the employer's cost, and nothing may be deducted from wages for it
 - cleaners, loaders and other low-skilled workers, nearly 80% of those going: SR 800-1,000 by recruiters' account <sup>[N5](#n5)</sup>; cleaners promised SR 1,000-1,200 often get no more than SR 500 <sup>[N6](#n6)</sup>;
 - new house drivers: about SR 1,500-1,800 <sup>[N44](#n44)</sup>.
 
-*What it costs to live.* A worker living outside a camp pays a month (November 2026) <sup>[N45](#n45)</sup>:
+#### What it costs to live
+
+A worker living outside a camp pays a month (November 2026) <sup>[N45](#n45)</sup>:
 - shared room: SR 500-900;
 - food he cooks himself: SR 500-800;
 - transport: SR 150-300;
@@ -238,7 +300,9 @@ Every item is the employer's cost, and nothing may be deducted from wages for it
 > **Need to know**
 > - What does a worker in a labour camp whose contract gives no food spend a month on a shared mess in 2026?
 
-*What reaches home, and how long the debt takes.* Many low-skilled Gulf workers can send only Tk 15,000-20,000 a month <sup>[N46 (2024)](#n46)</sup>. A man on SR 800 (Tk 26,400) who buys his own food and phone, SR 550-900 a month, keeps at most SR 250 (Tk 8,250) <sup>[N45](#n45)</sup>. At Tk 15,000-20,000 a month a Tk 4.5 lakh debt takes 23-30 months before interest, against a usual 2-year contract <sup>[N46 (2024)](#n46), [22](#o22)</sup>; in 2020 men took 19 months or more to recover the cost <sup>[N47 (2020)](#n47)</sup>. Sending costs and channels: see [Sending money home](#sending-money-home).
+#### What reaches home, and how long the debt takes
+
+Many low-skilled Gulf workers can send only Tk 15,000-20,000 a month <sup>[N46 (2024)](#n46)</sup>. A man on SR 800 (Tk 26,400) who buys his own food and phone, SR 550-900 a month, keeps at most SR 250 (Tk 8,250) <sup>[N45](#n45)</sup>. At Tk 15,000-20,000 a month a Tk 4.5 lakh debt takes 23-30 months before interest, against a usual 2-year contract <sup>[N46 (2024)](#n46), [22](#o22)</sup>; in 2020 men took 19 months or more to recover the cost <sup>[N47 (2020)](#n47)</sup>. Sending costs and channels: see [Sending money home](#sending-money-home).
 
 ### What ties you to the employer
 
@@ -252,40 +316,54 @@ Your visa and iqama belong to your kafil, normally your employer <sup>[N33 (2024
 - *To leave:* a company worker issues his own exit and re-entry visa (khuruj, খুরুজ) or final exit (khuruj nihai) on Absher or Qiwa <sup>[24](#o24), [19](#o19)</sup>; a domestic worker can't, because the employer issues it <sup>[N53](#n53)</sup>. A worker the sponsor reports for a crime or damage, such as theft, is declared matloob (মাতলুব, wanted) and must settle the case before he can leave <sup>[19](#o19), [8](#o8)</sup>.
 - *Working for someone else:* only through Ajeer, the labour ministry's platform for temporary work for a company that isn't your sponsor; the other company applies for an Ajeer permit, the proof you are lawfully at its site <sup>[N54](#n54), [N55](#n55)</sup>. Any other outside work is illegal <sup>[10](#o10)</sup>.
 
-*Changing employer: what it costs.* What resigning costs you: see [If you resign or are dismissed](#if-you-resign-or-are-dismissed). The new employer pays a government transfer fee: SR 2,000 for a worker's first transfer, SR 4,000 for the second, SR 6,000 from the third, plus any iqama fees the old employer left unpaid <sup>[N56](#n56)</sup>; anything a worker is charged beyond that is a broker's or kafil's cut, and agencies openly advertise kafils for hire <sup>[N57](#n57)</sup>. A firm in the red Nitaqat band cannot take you <sup>[N56](#n56)</sup>.
+#### Changing employer: what it costs
+
+What resigning costs you: see [If you resign or are dismissed](#if-you-resign-or-are-dismissed). The new employer pays a government transfer fee: SR 2,000 for a worker's first transfer, SR 4,000 for the second, SR 6,000 from the third, plus any iqama fees the old employer left unpaid <sup>[N56](#n56)</sup>; anything a worker is charged beyond that is a broker's or kafil's cut, and agencies openly advertise kafils for hire <sup>[N57](#n57)</sup>. A firm in the red Nitaqat band cannot take you <sup>[N56](#n56)</sup>.
 
 > **Need to know**
 > - Does the 90-day notice rule for changing employer from the 2021 reforms still stand under the 2025 Labour Law?
 
-*Which law covers you.* The Labour Law covers expatriate workers in private companies <sup>[24](#o24)</sup>. It excludes domestic workers and those counted as such, and agricultural workers <sup>[9](#o9)</sup>. Domestic workers, including house drivers, gardeners and cooks, come under the Domestic Workers Regulation ([Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[6 (2024)](#o6)</sup>, and can move without consent only in listed cases, such as 3 months' unpaid wages or no iqama in time <sup>[25 (2024)](#o25)</sup>.
+#### Which law covers you
+
+The Labour Law covers expatriate workers in private companies <sup>[24](#o24)</sup>. It excludes domestic workers and those counted as such, and agricultural workers <sup>[9](#o9)</sup>. Domestic workers, including house drivers, gardeners and cooks, come under the Domestic Workers Regulation ([Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[6 (2024)](#o6)</sup>, and can move without consent only in listed cases, such as 3 months' unpaid wages or no iqama in time <sup>[25 (2024)](#o25)</sup>.
 
 > **Need to know**
 > - Which regulation covers Bangladeshi farm workers and shepherds?
 > - Can a farm worker or shepherd change employer without consent?
 
-*Your passport.* Your employer may not keep it (see [Your passport](#your-passport)) <sup>[10](#o10)</sup>.
+#### Your passport
 
-*Huroob (হুরুব), or "absent from work".* The employer's report on Qiwa can't be withdrawn <sup>[26 (2022)](#o26)</sup>. You then have 60 days to take a final exit or move to a new employer, and you can move only if you have been in Saudi Arabia more than 12 months; a newcomer reported absent can only leave <sup>[26 (2022)](#o26), [N58](#n58)</sup>. After 60 days you are illegal, with a 3 to 5 year re-entry ban <sup>[26 (2022)](#o26), [N59](#n59)</sup>. Employers file false reports, and some demand bribes to withdraw them <sup>[N60 (2022)](#n60)</sup>; kafils answer workers who protest about money or the iqama with huroob <sup>[N6](#n6)</sup>. What to do: see ["If your employer reports you absent (huroob)"](#if-your-employer-reports-you-absent-huroob). An employer can file it only if your contract isn't on Qiwa <sup>[26 (2022)](#o26)</sup>.
+Your employer may not keep it (see [Your passport](#your-passport)) <sup>[10](#o10)</sup>.
+
+#### Huroob (হুরুব), or "absent from work"
+
+The employer's report on Qiwa can't be withdrawn <sup>[26 (2022)](#o26)</sup>. You then have 60 days to take a final exit or move to a new employer, and you can move only if you have been in Saudi Arabia more than 12 months; a newcomer reported absent can only leave <sup>[26 (2022)](#o26), [N58](#n58)</sup>. After 60 days you are illegal, with a 3 to 5 year re-entry ban <sup>[26 (2022)](#o26), [N59](#n59)</sup>. Employers file false reports, and some demand bribes to withdraw them <sup>[N60 (2022)](#n60)</sup>; kafils answer workers who protest about money or the iqama with huroob <sup>[N6](#n6)</sup>. What to do: see ["If your employer reports you absent (huroob)"](#if-your-employer-reports-you-absent-huroob). An employer can file it only if your contract isn't on Qiwa <sup>[26 (2022)](#o26)</sup>.
 
 > **Need to know**
 > - What does a worker pay in 2026 to have a huroob report lifted?
 
-*An expired iqama.* You are undocumented: no bank, money transfer or SIM, and detention and deportation if stopped <sup>[N61 (2024)](#n61)</sup>. The passports directorate fined a failure to renew SR 500, then SR 1,000, then deported (2019) <sup>[N62 (2019)](#n62)</sup>. An expired iqama also lets you change employer without consent, if a new employer takes you <sup>[N52](#n52)</sup>. Getting home: see [Going home without valid papers](#going-home-without-valid-papers).
+#### An expired iqama
+
+You are undocumented: no bank, money transfer or SIM, and detention and deportation if stopped <sup>[N61 (2024)](#n61)</sup>. The passports directorate fined a failure to renew SR 500, then SR 1,000, then deported (2019) <sup>[N62 (2019)](#n62)</sup>. An expired iqama also lets you change employer without consent, if a new employer takes you <sup>[N52](#n52)</sup>. Getting home: see [Going home without valid papers](#going-home-without-valid-papers).
 
 ### What goes wrong most, and what people wrongly believe
 
 Nearly every Saudi complaint is one of three things: no iqama, no work, or pay that is late, short or missing, and behind them, again and again, is a visa sold for a job that didn't exist or an employer who won't pay for the permit <sup>[N7](#n7), [N63](#n63)</sup>.
 
-*Complaints.* Of 114 complaints to BMET in 2023-2024 that OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) studied, 47% got no work permit on arrival <sup>[N63](#n63)</sup>. Men without a permit were often kept until their entry visa ran out, then counted as absconders <sup>[N63](#n63)</sup>. Only 39% of complaints were resolved, usually for Tk 20,000 to just over Tk 1 lakh <sup>[N63](#n63)</sup>. To complain, see "If an agency, broker or relative takes your money" and If you aren't paid <sup>[1](#o1), [27 (2024)](#o27)</sup>.
+#### Complaints
 
-*What people believe, and the facts.*
+Of 114 complaints to BMET in 2023-2024 that OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) studied, 47% got no work permit on arrival <sup>[N63](#n63)</sup>. Men without a permit were often kept until their entry visa ran out, then counted as absconders <sup>[N63](#n63)</sup>. Only 39% of complaints were resolved, usually for Tk 20,000 to just over Tk 1 lakh <sup>[N63](#n63)</sup>. To complain, see "If an agency, broker or relative takes your money" and If you aren't paid <sup>[1](#o1), [27 (2024)](#o27)</sup>.
+
+#### What people believe, and the facts
 - **"A free visa lets you work for anyone."** Brokers sell it as "go and work wherever you like" <sup>[N24](#n24)</sup>. In fact a worker may work only for the employer and job on the permit, or for another company through an Ajeer permit, which that company must apply for <sup>[10](#o10), [N55](#n55)</sup>. Many jobs also need a baladiya (বালাদিয়া, municipal) health card, which free-visa workers don't easily get <sup>[N24](#n24)</sup>. Of 10 men one Cumilla broker sent, three got a proper job with a contract (2024) <sup>[N64 (2024)](#n64)</sup>. To spot one, see Avoid a "free visa" <sup>[N33 (2024)](#n33)</sup>.
 - **"The iqama is the worker's cost: pay the kafil and he renews it."** A Bangladesh embassy official confirmed the employer pays (see ["What you pay, and what you earn and keep"](#what-you-pay-and-what-you-earn-and-keep), The iqama: the employer's bill) <sup>[N6](#n6)</sup>.
 - **"Saudi Arabia abolished the kafala system in 2025."** No Saudi announcement was made: the story began in an 18 October 2025 article by ImpACT International, a UK think tank, citing no Saudi source <sup>[N65](#n65)</sup>.
 - **"A visit, tourist or Umrah visa can be turned into an iqama once you're there."** A visit visa can't become an iqama, and working on a tourist or Umrah visa brings a ban of 3 to 10 years ([Changing visa type](#changing-visa-type)) <sup>[N66 (2022)](#n66), [N59](#n59)</sup>.
 - **"Pay extra and the medical is guaranteed fit."** This is false (see ["How a job reaches you, and who takes a cut"](#how-a-job-reaches-you-and-who-takes-a-cut), The medical) <sup>[N35](#n35)</sup>.
 
-*Irregular routes and how they end.* Workers fall out of status in four ways:
+#### Irregular routes and how they end
+
+Workers fall out of status in four ways:
 - a free visa with no real job <sup>[N23 (2020)](#n23)</sup>;
 - an employer who never turns the three-month entry permit into an iqama, often to avoid the fee <sup>[N61 (2024)](#n61), [N63](#n63)</sup>;
 - a kafil who keeps the renewal money or files huroob <sup>[N6](#n6)</sup>;
@@ -321,9 +399,13 @@ For some job orders BMET caps what the agency may take, such as Tk 50,000 or Tk 
 
 #### The legal maximum and what people really pay
 
-*The rule.* The expatriates' ministry set the Tk 1.65 lakh maximum in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming <sup>[N73](#n73), [N74 (2024)](#n74), [N3](#n3)</sup>. BMET's permission letters for group visas put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 or Tk 58,610 in two 2025 letters, by cheque or pay order <sup>[5](#o5), [21](#o21)</sup>. The fees a worker legitimately pays in Bangladesh are listed at the start of this section (see [Who pays what](#who-pays-what)).
+##### The rule
 
-*What people really pay.* In 2026 agencies put the whole cost at Tk 3.5-5 lakh and a press investigation at about Tk 5 lakh on average, up to Tk 9 lakh <sup>[N5](#n5), [N3](#n3)</sup>.
+The expatriates' ministry set the Tk 1.65 lakh maximum in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming <sup>[N73](#n73), [N74 (2024)](#n74), [N3](#n3)</sup>. BMET's permission letters for group visas put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 or Tk 58,610 in two 2025 letters, by cheque or pay order <sup>[5](#o5), [21](#o21)</sup>. The fees a worker legitimately pays in Bangladesh are listed at the start of this section (see [Who pays what](#who-pays-what)).
+
+##### What people really pay
+
+In 2026 agencies put the whole cost at Tk 3.5-5 lakh and a press investigation at about Tk 5 lakh on average, up to Tk 9 lakh <sup>[N5](#n5), [N3](#n3)</sup>.
 
 > **Need to know**
 > - Do new country maximums replace Tk 1.65 lakh?
@@ -522,7 +604,7 @@ A visa that sits too long during attestation, the medical or Tasheer can lapse, 
 
 6. <a id="the-risk-of-delay-item-6"></a>**Know who answers if it fails.** The visa seller signs the agency a written undertaking (মুচলেকা, muchleka) taking all liability for the workers, so on a single visa the agency is liable for nothing beyond the clearance papers <sup>[N18 (2024)](#n18)</sup>. The agency got perhaps Tk 20,000 of the Tk 4-5 lakh, so a BMET case against it recovers little, and single-visa workers who come back without work get back not even Tk 1 lakh <sup>[N18 (2024)](#n18)</sup>. If you named a relative as the source but bought from a broker, there is no one in Bangladesh to pursue <sup>[N89 (2024)](#n89)</sup>. What to do if the relative cheats you: see ["If an agency, broker or relative takes your money"](#if-an-agency-broker-or-relative-takes-your-money), If the relative cheats you.
 
-7. <a id="the-risk-of-delay-item-7"></a>**After arrival.** In the first week set up Qiwa and Absher ([After you arrive](#after-you-arrive)): check that the job title and wage on your Qiwa contract match what you were promised, since what you approve there is the record <sup>[N100](#n100), [58](#o58)</sup>. Register on Absher with your iqama or border number, and every month check your iqama expiry and any "Absent from Work" flag (see ["If your employer reports you absent (huroob)"](#if-your-employer-reports-you-absent-huroob)) <sup>[N43](#n43), [N101](#n101)</sup>. Keep your passport; the sponsor may not hold it (see [Your passport](#your-passport)) <sup>[19](#o19)</sup>. The iqama, permit, levy, renewals and any transfer fee (SR 2,000 for a first transfer) are the employer's <sup>[30](#o30), [10](#o10), [N56](#n56)</sup>.
+7. <a id="the-risk-of-delay-item-7"></a>**After arrival.** In the first week set up Qiwa and Absher ([After you arrive](#after-you-arrive)): check that the job title and wage on your Qiwa contract match what you were promised, since what you approve there is the record <sup>[N100](#n100), [58](#o58)</sup>. Register on Absher with your iqama or border number, and every month check your iqama expiry and any "Absent from Work" flag (see ["If your employer reports you absent (huroob)"](#if-your-employer-reports-you-absent-huroob)) <sup>[N43](#n43), [N101](#n101)</sup>. Keep your passport; the sponsor may not hold it (see [Your passport](#your-passport-1)) <sup>[19](#o19)</sup>. The iqama, permit, levy, renewals and any transfer fee (SR 2,000 for a first transfer) are the employer's <sup>[30](#o30), [10](#o10), [N56](#n56)</sup>.
 
    > **Need to know**
    > - What does a free-visa worker pay a broker or kafil in 2026 to transfer his sponsorship to a real employer?
@@ -748,16 +830,18 @@ The embassy charges nothing <sup>[N123 (2022)](#n123)</sup>, the employer pays t
 
 The orientation covers migration, laws, work, safety and health abroad <sup>[37](#o37), [73 (2024)](#o73)</sup>.
 
-*You'll need,* at TTC Munshiganj <sup>[73 (2024)](#o73)</sup>:
+##### You'll need,
+
+at TTC Munshiganj <sup>[73 (2024)](#o73)</sup>:
 
 - your OEP registration;
 - copies of your passport and visa;
 - proof of a bank account in your name (a cheque leaf or deposit slip copy) and one in a family member's.
 
-1. <a id="do-the-compulsory-3-day-pre-departure-orientation-pdo-item-1"></a>**Enrol** at any TTC or Institute of Marine Technology <sup>[74 (2022)](#o74)</sup>: in the Ami Probashi app verify your passport, open PDO Training, choose a TTC and batch, pay Tk 100 plus a Tk 100 platform charge by bKash or Nagad, and download the admit card, which you show on the first day <sup>[N90](#n90)</sup>; or apply on OEP and download the [enrolment card](https://www.oep.gov.bd/pdo-enrollment-card) <sup>[37](#o37), [75](#o75)</sup>.
-2. <a id="do-the-compulsory-3-day-pre-departure-orientation-pdo-item-2"></a>**Attend all 3 days** (TTC Munshiganj: 9 am to 5 pm) <sup>[73 (2024)](#o73)</sup>.
-3. <a id="do-the-compulsory-3-day-pre-departure-orientation-pdo-item-3"></a>**Download the certificate** from [OEP](https://www.oep.gov.bd/pdo-certificate) <sup>[75](#o75)</sup>; the centre's office corrects errors <sup>[73 (2024)](#o73)</sup>.
-4. <a id="do-the-compulsory-3-day-pre-departure-orientation-pdo-item-4"></a>**Get BMET clearance within 3 months** of the certificate's date, or redo the orientation <sup>[74 (2022)](#o74)</sup>.
+1. <a id="youll-need-item-1"></a>**Enrol** at any TTC or Institute of Marine Technology <sup>[74 (2022)](#o74)</sup>: in the Ami Probashi app verify your passport, open PDO Training, choose a TTC and batch, pay Tk 100 plus a Tk 100 platform charge by bKash or Nagad, and download the admit card, which you show on the first day <sup>[N90](#n90)</sup>; or apply on OEP and download the [enrolment card](https://www.oep.gov.bd/pdo-enrollment-card) <sup>[37](#o37), [75](#o75)</sup>.
+2. <a id="youll-need-item-2"></a>**Attend all 3 days** (TTC Munshiganj: 9 am to 5 pm) <sup>[73 (2024)](#o73)</sup>.
+3. <a id="youll-need-item-3"></a>**Download the certificate** from [OEP](https://www.oep.gov.bd/pdo-certificate) <sup>[75](#o75)</sup>; the centre's office corrects errors <sup>[73 (2024)](#o73)</sup>.
+4. <a id="youll-need-item-4"></a>**Get BMET clearance within 3 months** of the certificate's date, or redo the orientation <sup>[74 (2022)](#o74)</sup>.
 
 If anyone offers to get you through a course or clearance for money, call the police on 999, free and open 24 hours <sup>[37](#o37), [66](#o66)</sup>, or complain to BMET (see ["If an agency, broker or relative takes your money"](#if-an-agency-broker-or-relative-takes-your-money)) <sup>[49](#o49)</sup>.
 
@@ -776,7 +860,9 @@ BMET clearance is the emigration clearance, on a smart card <sup>[37](#o37), [1]
 
 You pay the Wage Earners' Welfare Board, which collects the Tk 5,500 welfare fee and the one-time Tk 1,000 insurance premium (5 years, Tk 10 lakh on death) <sup>[36](#o36), [N124](#n124), [37](#o37)</sup>. Income tax: Tk 500 for a single visa; group visas Tk 1,200 skilled, Tk 800 unskilled <sup>[1](#o1)</sup>. Download the card from [OEP](https://www.oep.gov.bd/employee-card) <sup>[75](#o75)</sup>.
 
-*On your own,* with a visa you got yourself (for Saudi Arabia, see [If a relative or friend offers you a visa, item 5: Let the agency carry the file, in this order](#the-risk-of-delay-item-5).6): apply at BMET's emigration branch, 89/2 Kakrail, Dhaka-1000, or the Chattogram DEMO, Sarkari Karjo Bhaban-2, Agrabad (+8802333321639, democtg76@gmail.com) <sup>[1](#o1), [37](#o37), [76](#o76)</sup>. It takes 3 working days <sup>[1](#o1)</sup>. You'll need <sup>[1](#o1)</sup>:
+##### On your own,
+
+with a visa you got yourself (for Saudi Arabia, see [If a relative or friend offers you a visa, item 5: Let the agency carry the file, in this order](#the-risk-of-delay-item-5).6): apply at BMET's emigration branch, 89/2 Kakrail, Dhaka-1000, or the Chattogram DEMO, Sarkari Karjo Bhaban-2, Agrabad (+8802333321639, democtg76@gmail.com) <sup>[1](#o1), [37](#o37), [76](#o76)</sup>. It takes 3 working days <sup>[1](#o1)</sup>. You'll need <sup>[1](#o1)</sup>:
 
 - an application;
 - the visa copy;
@@ -834,7 +920,9 @@ You enter on a 3-month permit; within it the employer must get your iqama and wo
 
 **Set up Absher,** the Interior Ministry's portal for your iqama, visas and appointments <sup>[79](#o79)</sup>.
 
-*You'll need* <sup>[N43](#n43)</sup>:
+##### You'll need
+
+<sup>[N43](#n43)</sup>:
 
 - your iqama number;
 - a Saudi mobile number.
@@ -847,7 +935,9 @@ Support: 920020405 <sup>[N43](#n43)</sup>.
 
 **Check your contract on Qiwa,** the labour ministry's platform, where every contract must be recorded <sup>[10](#o10)</sup>.
 
-*You'll need* <sup>[N100](#n100)</sup>:
+##### You'll need
+
+<sup>[N100](#n100)</sup>:
 
 - your iqama number;
 - your date of birth as on the iqama;

@@ -10,11 +10,46 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
 
 - [Background](#background)
   - [In one minute](#in-one-minute)
+    - [Money in this doc](#money-in-this-doc)
   - [Is it open now, and who can go?](#is-it-open-now-and-who-can-go)
+    - [Status, 8 November 2026](#status-8-november-2026)
+    - [The channels](#the-channels)
+    - [What the visa says decides your rights](#what-the-visa-says-decides-your-rights)
+    - [Which channel most people use](#which-channel-most-people-use)
+    - [Who qualifies](#who-qualifies)
+    - [Where the workers come from and what they do](#where-the-workers-come-from-and-what-they-do)
+    - [The size of the flow](#the-size-of-the-flow)
+    - [What has closed it before](#what-has-closed-it-before)
+    - [Where it may grow](#where-it-may-grow)
   - [How a job reaches you, and who takes a cut](#how-a-job-reaches-you-and-who-takes-a-cut)
+    - [Who sells the visas](#who-sells-the-visas)
+    - [Down the chain](#down-the-chain)
+    - [The Qatar Visa Center (QVC)](#the-qatar-visa-center-qvc)
+    - [What changes when the employer pays](#what-changes-when-the-employer-pays)
+    - [Domestic workers come by a different route](#domestic-workers-come-by-a-different-route)
+    - [Why a genuine visa can still be a bad one](#why-a-genuine-visa-can-still-be-a-bad-one)
+    - [The trade on the visa](#the-trade-on-the-visa)
   - [What you pay, and what you earn and keep](#what-you-pay-and-what-you-earn-and-keep)
+    - [What people really pay](#what-people-really-pay)
+    - [How they pay](#how-they-pay)
+    - [What the job pays](#what-the-job-pays)
+    - [Housing and heat](#housing-and-heat)
+    - [If you go as a driver](#if-you-go-as-a-driver)
+    - [Sending money home](#sending-money-home)
   - [What ties you to the employer](#what-ties-you-to-the-employer)
+    - [Which law covers you](#which-law-covers-you)
+    - [Your passport](#your-passport)
+    - [Absconding charges](#absconding-charges)
+    - [An expired RP](#an-expired-rp)
+    - [The "free visa"](#the-free-visa)
   - [What goes wrong most, and what people wrongly believe](#what-goes-wrong-most-and-what-people-wrongly-believe)
+    - [What workers complain about](#what-workers-complain-about)
+    - [How few complain](#how-few-complain)
+    - ["A free visa lets you work for anyone you like."](#a-free-visa-lets-you-work-for-anyone-you-like)
+    - ["Go on a visit or Hayya visa and change it to a work visa there."](#go-on-a-visit-or-hayya-visa-and-change-it-to-a-work-visa-there)
+    - ["Since 2020 the kafala is gone, so you can walk out and find a better job."](#since-2020-the-kafala-is-gone-so-you-can-walk-out-and-find-a-better-job)
+    - ["Complaining is useless": it works on paper, collecting is hard](#complaining-is-useless-it-works-on-paper-collecting-is-hard)
+    - [How the irregular routes end](#how-the-irregular-routes-end)
 - [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)
 - [Work visa: company worker](#work-visa-company-worker)
   - [Who pays what](#who-pays-what)
@@ -38,7 +73,7 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
     - [Pay and deductions](#pay-and-deductions)
     - [Hours, rest and leave](#hours-rest-and-leave)
     - [Housing, food and health care](#housing-food-and-health-care)
-    - [Your passport](#your-passport)
+    - [Your passport](#your-passport-1)
     - [End-of-service pay](#end-of-service-pay)
   - [Your residence permit](#your-residence-permit)
     - [How long you can stay and renewing](#how-long-you-can-stay-and-renewing)
@@ -110,7 +145,7 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
   - [MOI visit visa](#moi-visit-visa)
 - [Family residence (spouse, children and parents)](#family-residence-spouse-children-and-parents)
   - [Who can apply](#who-can-apply)
-    - [Who qualifies](#who-qualifies)
+    - [Who qualifies](#who-qualifies-1)
     - [Who can come](#who-can-come)
     - [More than one wife](#more-than-one-wife)
     - [Parents](#parents)
@@ -179,7 +214,7 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
     - [Treatment costs](#treatment-costs)
 - [Permanent residency, property and investor residence](#permanent-residency-property-and-investor-residence)
   - [Permanent residency](#permanent-residency)
-    - [Who qualifies](#who-qualifies-1)
+    - [Who qualifies](#who-qualifies-2)
     - [What it gives](#what-it-gives)
     - [How to apply](#how-to-apply)
   - [Property residence](#property-residence)
@@ -204,7 +239,7 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
   - [Step 4: Apply for the baby's Qatar residence permit](#step-4-apply-for-the-babys-qatar-residence-permit)
   - [If the parents have no family residence](#if-the-parents-have-no-family-residence)
   - [If the baby is born outside Qatar](#if-the-baby-is-born-outside-qatar)
-- [Sending money home](#sending-money-home)
+- [Sending money home](#sending-money-home-1)
   - [Use a bank or licensed exchange house, never hundi](#use-a-bank-or-licensed-exchange-house-never-hundi)
   - [Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)
     - [NRCTA (Non-Resident Convertible Taka Account)](#nrcta-non-resident-convertible-taka-account)
@@ -244,48 +279,64 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
 
 Qatar still takes Bangladeshi workers, but fewer this year: BMET (the Bureau of Manpower, Employment and Training, the Bangladesh government body that registers and clears migrant workers) cleared 53,611 for Qatar from 1 January to 6 November 2026, under half of 2025's 107,598, and Qatar has dropped to third behind Saudi Arabia and Singapore <sup>[5](#o5), [6](#o6)</sup>. A Qatar job starts as a recruitment approval the employer gets from Qatar's Ministry of Labour (MOL) and a work visa the Ministry of Interior (MOI) issues for QR 300, about Tk 10,000 <sup>[7 (2023)](#o7), [8](#o8)</sup>. Whoever controls those visas in Qatar sells them on, and each seller down the chain to the village adds a cut, so a job the law says should cost the worker nothing is sold for Tk 4 to 10 lakh, about QR 12,000 to 29,000 <sup>[2 (2004)](#o2), [N1 (2017)](#n1), [N2 (2022)](#n2), [N3](#n3)</sup>. The only pay the employer must give is the basic wage in the contract signed at the Qatar Visa Center, and the legal floor is QR 1,000 (about Tk 34,000) a month, so that price equals 12 to 29 months of the minimum basic wage before food, money sent home or loan interest <sup>[9 (2020)](#o9), [N4 (2018)](#n4)</sup>. Since 2020 the law lets a worker change employer and leave Qatar without the employer's permission, but the employer, the sponsor or "kafeel", still controls his residence permit, often holds his passport, and can report him as having run away <sup>[10 (2020)](#o10), [11](#o11), [N5 (2021)](#n5), [N6](#n6), [3 (2015)](#o3)</sup>. Unpaid wages are the most common complaint <sup>[N7](#n7)</sup>. Men sold a "free visa", a visa from a company with no job behind it, find no work on arrival and end up in illegal day labour, at risk of arrest and deportation <sup>[N8](#n8)</sup>.
 
-*Money in this doc.* QR 1 is about Tk 34: Bangladesh Bank's rate on 19 October 2026 was USD 1 = Tk 123.65, and the riyal is fixed at QR 3.64 to the dollar <sup>[12](#o12), [N9 (2018)](#n9)</sup>. Taka figures are converted at that rate; older prices are given in the taka of their year.
+#### Money in this doc
+
+QR 1 is about Tk 34: Bangladesh Bank's rate on 19 October 2026 was USD 1 = Tk 123.65, and the riyal is fixed at QR 3.64 to the dollar <sup>[12](#o12), [N9 (2018)](#n9)</sup>. Taka figures are converted at that rate; older prices are given in the taka of their year.
 
 ### Is it open now, and who can go?
 
-*Status, 8 November 2026.* Qatar is open to Bangladeshi workers, but recruitment is slower. BMET's clearances from 1 January to 6 November 2026 put the year on course for about 63,000, well below 2025 (yearly figures: see The size of the flow, below) <sup>[5](#o5), [6](#o6)</sup>. About 97% of those cleared are men <sup>[13](#o13), [5](#o5)</sup>. After Israel and the United States struck Iran on 28 February 2026, Iran hit US bases and strategic installations in Qatar, Kuwait, the UAE and Bahrain <sup>[N10](#n10)</sup>; Qatar extended expired or expiring entry visas by a month from 28 February, which ended on 7 June 2026 <sup>[N11](#n11), [N12](#n12)</sup>.
+#### Status, 8 November 2026
+
+Qatar is open to Bangladeshi workers, but recruitment is slower. BMET's clearances from 1 January to 6 November 2026 put the year on course for about 63,000, well below 2025 (yearly figures: see [The size of the flow](#the-size-of-the-flow), below) <sup>[5](#o5), [6](#o6)</sup>. About 97% of those cleared are men <sup>[13](#o13), [5](#o5)</sup>. After Israel and the United States struck Iran on 28 February 2026, Iran hit US bases and strategic installations in Qatar, Kuwait, the UAE and Bahrain <sup>[N10](#n10)</sup>; Qatar extended expired or expiring entry visas by a month from 28 February, which ended on 7 June 2026 <sup>[N11](#n11), [N12](#n12)</sup>.
 
 > **Need to know**
 > - Since the February 2026 strikes, have Qatar employers cut new visa requests for Bangladeshis or cancelled visas already issued, and in which trades?
 > - Why are 2026 clearances for Qatar running at about 60% of 2025's pace: fewer visas from Qatar, or something on the Bangladesh side?
 
-*The channels.* Three Qatar visas take Bangladeshis to work:
+#### The channels
+
+Three Qatar visas take Bangladeshis to work:
 - the work visa on company sponsorship, for private companies and government bodies (see [Work visa: company worker](#work-visa-company-worker)) <sup>[8](#o8)</sup>;
 - the domestic-worker visa, sponsored by a household, for maids, house drivers, cooks and gardeners (see [Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[14 (2019)](#o14), [15 (2017)](#o15)</sup>;
 - the temporary work visa, for at most six months (see [Temporary work visa and work visit](#temporary-work-visa-and-work-visit)) <sup>[16 (2019)](#o16)</sup>.
 
 BMET clears workers through agencies on a "group" or "single" visa, or clears a man who found his own visa when he applies himself ([Work visa: company worker](#work-visa-company-worker), [Step 6, item 3: Get BMET clearance (the smart card)](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight-item-3)) <sup>[17](#o17)</sup>. BMET publishes almost no Qatar permission letters (its approval for an agency to recruit for a job order), so a worker can't check his agency's Qatar approval online <sup>[18](#o18)</sup>; the agencies with posted Qatar letters are listed in Work visa: company worker ([Step 1, item 3: Check the agency's licence](#step-1-find-a-real-job-item-3)). BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting agency) lists no Qatar recruitment <sup>[19](#o19)</sup>.
 
-*What the visa says decides your rights.* Every visa is for a named trade and a named sponsor <sup>[7 (2023)](#o7)</sup>. A visa sponsored by a person, not a company, puts you under the Domestic Workers Law, not the Labour Law, and work for anyone else is illegal (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[4](#o4), [15 (2017)](#o15), [3 (2015)](#o3)</sup>. Many Bangladeshi men on Qatar farms came on domestic-worker visas and were moved to farms, where they work seven days a week on about QR 1,000 <sup>[N13](#n13)</sup>. How to read the trade and sponsor on your visa is in Work visa: company worker ([Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)).
+#### What the visa says decides your rights
+
+Every visa is for a named trade and a named sponsor <sup>[7 (2023)](#o7)</sup>. A visa sponsored by a person, not a company, puts you under the Domestic Workers Law, not the Labour Law, and work for anyone else is illegal (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[4](#o4), [15 (2017)](#o15), [3 (2015)](#o3)</sup>. Many Bangladeshi men on Qatar farms came on domestic-worker visas and were moved to farms, where they work seven days a week on about QR 1,000 <sup>[N13](#n13)</sup>. How to read the trade and sponsor on your visa is in Work visa: company worker ([Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)).
 
 > **Need to know**
 > - How many Bangladeshi men go to Qatar each year on household visas (house driver, cook, gardener) rather than company visas?
 
-*Which channel most people use.* In a 2025 study by OKUP (Ovibashi Kormi Unnayan Programme, a migrant workers' organisation) of 1,084 migrants to five Gulf countries, Qatar among them, 56% relied on informal or illegal agents and only 7% on licensed agencies <sup>[N14](#n14), [N15](#n15)</sup>. 51% travelled knowingly on a so-called free visa, and 39% of those went through relatives (8% close family, 31% distant relatives) <sup>[N14](#n14)</sup>. The Bangladesh Bureau of Statistics' 2023 survey of migrants to all countries found 52% paying brokers and only 2.8% helped by relatives or friends <sup>[N16 (2024)](#n16)</sup>; the relative and the broker are often the same person <sup>[N16 (2024)](#n16)</sup>. The relative's route is in Work visa: company worker ([Step 1, item 5: If a relative or friend in Qatar sends you a visa](#step-1-find-a-real-job-item-5)).
+#### Which channel most people use
+
+In a 2025 study by OKUP (Ovibashi Kormi Unnayan Programme, a migrant workers' organisation) of 1,084 migrants to five Gulf countries, Qatar among them, 56% relied on informal or illegal agents and only 7% on licensed agencies <sup>[N14](#n14), [N15](#n15)</sup>. 51% travelled knowingly on a so-called free visa, and 39% of those went through relatives (8% close family, 31% distant relatives) <sup>[N14](#n14)</sup>. The Bangladesh Bureau of Statistics' 2023 survey of migrants to all countries found 52% paying brokers and only 2.8% helped by relatives or friends <sup>[N16 (2024)](#n16)</sup>; the relative and the broker are often the same person <sup>[N16 (2024)](#n16)</sup>. The relative's route is in Work visa: company worker ([Step 1, item 5: If a relative or friend in Qatar sends you a visa](#step-1-find-a-real-job-item-5)).
 
 > **Need to know**
 > - What share of Bangladeshis going to Qatar get their visa through a relative already working there, through a village broker, or straight from an agency?
 > - What share of BMET's Qatar clearances in 2025 and 2026 were single visas, group visas and visas the worker got himself?
 
-*Who qualifies.* MOL fixes the gender, number and trade of every recruitment it approves <sup>[7 (2023)](#o7)</sup>. Women were 2,348 of those cleared in 2025 and 1,375 from 1 January to 6 November 2026 <sup>[20](#o20), [13](#o13)</sup>. A domestic worker must be 18 to 60 under Qatari law, and a Bangladeshi woman 25 to 45 (returnees up to 50) when she enrols in the compulsory housekeeping course <sup>[15 (2017)](#o15), [21](#o21)</sup>. A 2026 amendment lets MOL require a training-and-test certificate for the trades it lists ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 2: Learn a trade if you need one](#step-1-find-a-real-job-item-2)) <sup>[4](#o4)</sup>.
+#### Who qualifies
+
+MOL fixes the gender, number and trade of every recruitment it approves <sup>[7 (2023)](#o7)</sup>. Women were 2,348 of those cleared in 2025 and 1,375 from 1 January to 6 November 2026 <sup>[20](#o20), [13](#o13)</sup>. A domestic worker must be 18 to 60 under Qatari law, and a Bangladeshi woman 25 to 45 (returnees up to 50) when she enrols in the compulsory housekeeping course <sup>[15 (2017)](#o15), [21](#o21)</sup>. A 2026 amendment lets MOL require a training-and-test certificate for the trades it lists ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 2: Learn a trade if you need one](#step-1-find-a-real-job-item-2)) <sup>[4](#o4)</sup>.
 
 > **Need to know**
 > - At what minimum and maximum age does BMET clear a man for Qatar?
 > - Does Qatar limit work visas by age?
 > - Does any Qatar job now need a skill test before the visa, at a TTC (Technical Training Centre), at the Qatar Visa Center or on arrival?
 
-*Where the workers come from and what they do.* In 2025 Chattogram division sent 36% of the workers cleared for Qatar and Sylhet division 20.5%, against 8.2% of all Bangladeshi workers from Sylhet <sup>[22](#o22), [23](#o23)</sup>. About 473,000 Bangladeshis work in Qatar, 30% in development projects, Qatar's Labour Minister said in May 2026 <sup>[24](#o24)</sup>. On 18 May 2026 he asked for electricians, plumbers, AC (air-conditioning) technicians and welders from 5 named TTCs ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 2: Learn a trade if you need one](#step-1-find-a-real-job-item-2)) <sup>[24](#o24)</sup>. MOL sends every approved recruitment through a "nationalities selection system", which decides how many visas go to each nationality, before MOI issues the visa <sup>[7 (2023)](#o7)</sup>.
+#### Where the workers come from and what they do
+
+In 2025 Chattogram division sent 36% of the workers cleared for Qatar and Sylhet division 20.5%, against 8.2% of all Bangladeshi workers from Sylhet <sup>[22](#o22), [23](#o23)</sup>. About 473,000 Bangladeshis work in Qatar, 30% in development projects, Qatar's Labour Minister said in May 2026 <sup>[24](#o24)</sup>. On 18 May 2026 he asked for electricians, plumbers, AC (air-conditioning) technicians and welders from 5 named TTCs ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 2: Learn a trade if you need one](#step-1-find-a-real-job-item-2)) <sup>[24](#o24)</sup>. MOL sends every approved recruitment through a "nationalities selection system", which decides how many visas go to each nationality, before MOI issues the visa <sup>[7 (2023)](#o7)</sup>.
 
 > **Need to know**
 > - In 2025-26, which trades are most Bangladeshis hired into in Qatar (cleaning, security, facility management, hospitality, labour supply, construction), and in what shares?
 > - Is a ceiling on Bangladeshi visa approvals in force now?
 
-*The size of the flow.* From 2004 to May 2025, 924,881 workers went to Qatar, 6.63% of all Bangladeshi overseas employment (Saudi Arabia 34.49%, the UAE 15.82%, Oman 11.85%, Malaysia 9.30%) <sup>[25](#o25)</sup>. In 2025 Qatar was BMET's second destination after Saudi Arabia (755,194) of 1,132,360 workers cleared in all <sup>[6](#o6)</sup>. India counts 830,491 of its citizens in Qatar as of January 2026, against the 473,000 Bangladeshi workers above <sup>[N17](#n17), [24](#o24)</sup>. Workers BMET cleared for Qatar, by year:
+#### The size of the flow
+
+From 2004 to May 2025, 924,881 workers went to Qatar, 6.63% of all Bangladeshi overseas employment (Saudi Arabia 34.49%, the UAE 15.82%, Oman 11.85%, Malaysia 9.30%) <sup>[25](#o25)</sup>. In 2025 Qatar was BMET's second destination after Saudi Arabia (755,194) of 1,132,360 workers cleared in all <sup>[6](#o6)</sup>. India counts 830,491 of its citizens in Qatar as of January 2026, against the 473,000 Bangladeshi workers above <sup>[N17](#n17), [24](#o24)</sup>. Workers BMET cleared for Qatar, by year:
 - 2014: 87,575 <sup>[25](#o25)</sup>
 - 2015: 123,965 <sup>[25](#o25)</sup>
 - 2016: 120,382 <sup>[25](#o25)</sup>
@@ -303,30 +354,38 @@ BMET clears workers through agencies on a "group" or "single" visa, or clears a 
 > **Need to know**
 > - Is there an official Qatari count of workers by nationality, to compare Bangladeshis with Indians, Nepalis and others?
 
-*What has closed it before.*
+#### What has closed it before
 - *June 2017, the Gulf blockade.* After Saudi Arabia, Bahrain and the UAE cut ties with Qatar, departures fell about 31% in January to October 2017 <sup>[N18 (2017)](#n18)</sup>.
 - *February 2020.* Bangladesh's expatriates' welfare secretary said Qatar had stopped approving visas for Bangladeshis for six months to balance its foreign-worker quotas and would not hire semi-skilled Bangladeshis <sup>[N19 (2020)](#n19)</sup>; clearances fell to 3,608 that year <sup>[25](#o25)</sup>.
 - *October 2025, a rumour.* The Ministry of Expatriates' Welfare called reports that Qatar had stopped visas for Bangladeshis false, said no "free visa" category exists in Qatar, and said 111,662 Bangladeshi workers went to Qatar from September 2024 to September 2025 <sup>[N20](#n20), [N21](#n21), [N22](#n22)</sup>.
 
-*Where it may grow.* The two governments signed a labour cooperation memorandum of understanding (MoU) during the Amir of Qatar's Dhaka visit in April 2024, and a 2025 agreement opened the deployment of Bangladeshi personnel to the Qatar Armed Forces <sup>[N23 (2024)](#n23), [26](#o26)</sup>. MOL's 2024-2030 strategy aims to raise the share of Qataris in private and joint-sector jobs from 17% to 20% and the share of high-skilled workers among expatriates from 20% to 24% <sup>[27 (2024)](#o27)</sup>.
+#### Where it may grow
+
+The two governments signed a labour cooperation memorandum of understanding (MoU) during the Amir of Qatar's Dhaka visit in April 2024, and a 2025 agreement opened the deployment of Bangladeshi personnel to the Qatar Armed Forces <sup>[N23 (2024)](#n23), [26](#o26)</sup>. MOL's 2024-2030 strategy aims to raise the share of Qataris in private and joint-sector jobs from 17% to 20% and the share of high-skilled workers among expatriates from 20% to 24% <sup>[27 (2024)](#o27)</sup>.
 
 ### How a job reaches you, and who takes a cut
 
 A Qatar work visa starts as an approval the employer gets from MOL and a QR 300 visa from MOI, and reaches a Bangladeshi village as a "visa" sold for lakhs of taka, because whoever holds it in Qatar, the Dhaka agencies and the village sub-agents each sell it on <sup>[7 (2023)](#o7), [8](#o8), [N1 (2017)](#n1)</sup>. The choke point is the employer's block of visa approvals: whoever controls it, the company, its HR staff or PRO (the clerk who handles its government paperwork), or a broker it deals with, decides which agency gets the demand letter (the employer's written request for workers) <sup>[N1 (2017)](#n1)</sup>.
 
-*Who sells the visas.* Buying or selling a visa is a crime in both Qatar and Bangladesh <sup>[3 (2015)](#o3), [28](#o28)</sup>. Three kinds of seller stand at the top:
+#### Who sells the visas
+
+Buying or selling a visa is a crime in both Qatar and Bangladesh <sup>[3 (2015)](#o3), [28](#o28)</sup>. Three kinds of seller stand at the top:
 - *Real companies whose staff sell.* Employers or their agents in Qatar demand about USD 300 to 500 (Tk 37,000 to 62,000) per worker from Bangladeshi agencies <sup>[N2 (2022)](#n2)</sup>. In 2022 a Dhaka agency owner said other agencies were buying each Qatar visa for QR 5,000 to 6,000 (about Tk 1.7 to 2 lakh today) <sup>[N2 (2022)](#n2)</sup>.
 - *Companies set up to sell visas.* In June 2023 MOI arrested nine people who had set up fake companies to trade visas; police seized the bank cards of the workers who had bought them <sup>[N24 (2023)](#n24)</sup>. Workers on these visas find a company name on paper and no work <sup>[N8](#n8)</sup>. In 2018 a company that needed 40 workers got 100 visas; a new company now gets at most 10 visa approvals on its first request <sup>[N25 (2018)](#n25), [29 (2022)](#o29)</sup>.
 - *Labour supply companies,* which hire workers out to other firms at the bottom of long subcontracting chains; recruiters often tell workers they are direct hires <sup>[N26](#n26)</sup>.
 
-*Down the chain.* A broker in the Gulf gets the visas from the employer and sells them to a recruiter in Bangladesh; a demand letter may be resold several times, each seller adding a cut <sup>[N1 (2017)](#n1)</sup>. The Bangladesh Embassy in Doha attests the demand letter and visa, and BMET then issues the agency a permission letter ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 4: Check the job, the demand letter and the employer](#step-1-find-a-real-job-item-4)) <sup>[30](#o30), [31 (2021)](#o31), [32](#o32)</sup>. Village sub-agents, mostly unregistered, collect the workers; families pay someone they know because he can be made to refund if the job fails <sup>[N1 (2017)](#n1), [N16 (2024)](#n16)</sup>. A 2023 law makes acting as an unregistered sub-agent an offence, but no public register exists to check one against ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Check the agency's licence](#step-1-find-a-real-job-item-3)) <sup>[33 (2023)](#o33)</sup>.
+#### Down the chain
+
+A broker in the Gulf gets the visas from the employer and sells them to a recruiter in Bangladesh; a demand letter may be resold several times, each seller adding a cut <sup>[N1 (2017)](#n1)</sup>. The Bangladesh Embassy in Doha attests the demand letter and visa, and BMET then issues the agency a permission letter ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 4: Check the job, the demand letter and the employer](#step-1-find-a-real-job-item-4)) <sup>[30](#o30), [31 (2021)](#o31), [32](#o32)</sup>. Village sub-agents, mostly unregistered, collect the workers; families pay someone they know because he can be made to refund if the job fails <sup>[N1 (2017)](#n1), [N16 (2024)](#n16)</sup>. A 2023 law makes acting as an unregistered sub-agent an offence, but no public register exists to check one against ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 3: Check the agency's licence](#step-1-find-a-real-job-item-3)) <sup>[33 (2023)](#o33)</sup>.
 
 > **Need to know**
 > - What does a Qatar company-visa demand letter sell for in Dhaka in 2026?
 > - How much of the worker's price does the village sub-agent keep?
 > - Has any Qatari sponsor been convicted of visa trading?
 
-*The Qatar Visa Center (QVC).* Before the visa is final the worker goes to QVC, which works for MOI and is run by Biomet Services Pte. Ltd. through its local operator, SQ Services Ltd <sup>[34](#o34)</sup>; there he signs the employment contract, gives fingerprints and does the medical, and the contract shown there is the one that counts ([Work visa: company worker](#work-visa-company-worker), [Step 4, item 3: At the centre](#step-4-qatar-visa-center-contract-fingerprints-and-medical-item-3)) <sup>[35](#o35), [N4 (2018)](#n4), [36](#o36)</sup>. In May 2026 Bangladesh's minister said there is one QVC and medical centre, in Dhaka, so men from Sylhet and Chattogram, over half the flow, pay for travel and lodging there <sup>[N27](#n27), [22](#o22)</sup>. The worker is not given the medical report: the employer is told "unfit" and the visa is cancelled, nobody at QVC can change the result, and a new visa means paying the visa fee again; the common reasons are in Work visa: company worker ([Step 4, item 6: Track your application](#step-4-qatar-visa-center-contract-fingerprints-and-medical-item-6)) <sup>[N28 (2023)](#n28), [N29 (2023)](#n29), [N30](#n30), [N31 (2022)](#n31)</sup>. After arrival there is a second medical, at Qatar's Medical Commission, before the residence permit (RP) is issued <sup>[37](#o37), [38 (2021)](#o38)</sup>.
+#### The Qatar Visa Center (QVC)
+
+Before the visa is final the worker goes to QVC, which works for MOI and is run by Biomet Services Pte. Ltd. through its local operator, SQ Services Ltd <sup>[34](#o34)</sup>; there he signs the employment contract, gives fingerprints and does the medical, and the contract shown there is the one that counts ([Work visa: company worker](#work-visa-company-worker), [Step 4, item 3: At the centre](#step-4-qatar-visa-center-contract-fingerprints-and-medical-item-3)) <sup>[35](#o35), [N4 (2018)](#n4), [36](#o36)</sup>. In May 2026 Bangladesh's minister said there is one QVC and medical centre, in Dhaka, so men from Sylhet and Chattogram, over half the flow, pay for travel and lodging there <sup>[N27](#n27), [22](#o22)</sup>. The worker is not given the medical report: the employer is told "unfit" and the visa is cancelled, nobody at QVC can change the result, and a new visa means paying the visa fee again; the common reasons are in Work visa: company worker ([Step 4, item 6: Track your application](#step-4-qatar-visa-center-contract-fingerprints-and-medical-item-6)) <sup>[N28 (2023)](#n28), [N29 (2023)](#n29), [N30](#n30), [N31 (2022)](#n31)</sup>. After arrival there is a second medical, at Qatar's Medical Commission, before the residence permit (RP) is issued <sup>[37](#o37), [38 (2021)](#o38)</sup>.
 
 > **Need to know**
 > - Does QVC Sylhet take work-visa appointments in 2026, as QVC's site says?
@@ -336,36 +395,48 @@ A Qatar work visa starts as an approval the employer gets from MOL and a QR 300 
 > - What happens to a worker who fails the Medical Commission test in Qatar: sent home at whose cost, and with any refund?
 > - Do agents still take a "medical fee" before any visa number exists?
 
-*What changes when the employer pays.* From 2018 to 2021 MOL and the ILO (International Labour Organization) ran a fair-recruitment pilot from Bangladesh to Qatar's construction sector with STS, a service provider of the construction company QDVC, and Bonanza Overseas, the Bangladeshi agency recruiting for STS <sup>[39 (2021)](#o39), [N32 (2022)](#n32)</sup>. Workers' average migration cost fell 92% <sup>[39 (2021)](#o39), [40](#o40)</sup>: once the employer paid the agency, workers' payments to the agency disappeared and payments to sub-agents fell 94% <sup>[N32 (2022)](#n32)</sup>. What that agency charges now is in Work visa: company worker ([Step 1, item 3: Check the agency's licence](#step-1-find-a-real-job-item-3)).
+#### What changes when the employer pays
+
+From 2018 to 2021 MOL and the ILO (International Labour Organization) ran a fair-recruitment pilot from Bangladesh to Qatar's construction sector with STS, a service provider of the construction company QDVC, and Bonanza Overseas, the Bangladeshi agency recruiting for STS <sup>[39 (2021)](#o39), [N32 (2022)](#n32)</sup>. Workers' average migration cost fell 92% <sup>[39 (2021)](#o39), [40](#o40)</sup>: once the employer paid the agency, workers' payments to the agency disappeared and payments to sub-agents fell 94% <sup>[N32 (2022)](#n32)</sup>. What that agency charges now is in Work visa: company worker ([Step 1, item 3: Check the agency's licence](#step-1-find-a-real-job-item-3)).
 
 > **Need to know**
 > - Which Bangladeshi agencies recruit for Qatar on employer-pays terms in 2026?
 
-*Domestic workers come by a different route.* A Qatari household recruits through one of MOL's 221 licensed recruitment offices and pays it up to QR 14,000 (about Tk 4.8 lakh) for a worker from Bangladesh, the January 2022 cap <sup>[N33](#n33), [41 (2022)](#o41)</sup>. In BMET's one posted Qatar permission letter, for 100 housemaids, the employer bears the migration cost <sup>[32](#o32)</sup>. For the steps, see [Work visa: domestic worker](#work-visa-domestic-worker).
+#### Domestic workers come by a different route
+
+A Qatari household recruits through one of MOL's 221 licensed recruitment offices and pays it up to QR 14,000 (about Tk 4.8 lakh) for a worker from Bangladesh, the January 2022 cap <sup>[N33](#n33), [41 (2022)](#o41)</sup>. In BMET's one posted Qatar permission letter, for 100 housemaids, the employer bears the migration cost <sup>[32](#o32)</sup>. For the steps, see [Work visa: domestic worker](#work-visa-domestic-worker).
 
 > **Need to know**
 > - What do Bangladeshi women pay agencies and sub-agents for a Qatar housemaid job in 2026?
 
-*Why a genuine visa can still be a bad one.* A visa sold as a free visa also shows as genuine on MOI's Visa Inquiry, so the check proves only that the visa exists <sup>[N34](#n34)</sup>. The checks of sponsor, trade and wage before paying are in Work visa: company worker ([Step 1, item 5: If a relative or friend in Qatar sends you a visa](#step-1-find-a-real-job-item-5); [Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)).
+#### Why a genuine visa can still be a bad one
 
-*The trade on the visa.* A man sold a driver's job needs a Qatar licence, and the trades barred from getting one include builder, plumber, electric welder, installation electrician, cook, waiter, security guard, watchman, gardener and farm worker; the list is not published, and the trade on the QID (Qatar ID card) is printed in Arabic <sup>[N35](#n35), [N36](#n36)</sup>.
+A visa sold as a free visa also shows as genuine on MOI's Visa Inquiry, so the check proves only that the visa exists <sup>[N34](#n34)</sup>. The checks of sponsor, trade and wage before paying are in Work visa: company worker ([Step 1, item 5: If a relative or friend in Qatar sends you a visa](#step-1-find-a-real-job-item-5); [Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)).
+
+#### The trade on the visa
+
+A man sold a driver's job needs a Qatar licence, and the trades barred from getting one include builder, plumber, electric welder, installation electrician, cook, waiter, security guard, watchman, gardener and farm worker; the list is not published, and the trade on the QID (Qatar ID card) is printed in Arabic <sup>[N35](#n35), [N36](#n36)</sup>.
 
 ### What you pay, and what you earn and keep
 
 By law a company worker should pay a Qatari recruiter nothing, and Bangladesh's maximum for Qatar, last reported in 2018, is Tk 1,00,780, about QR 3,000 (see [Before paying: what the law allows](#before-paying-what-the-law-allows); see [The Bangladesh maximum](#the-bangladesh-maximum)) <sup>[2 (2004)](#o2), [N37 (2018)](#n37)</sup>. Men are now quoted Tk 4 to 10 lakh, about QR 12,000 to 29,000, often borrowed at high interest or raised by selling land <sup>[N3](#n3), [N38](#n38), [N39 (2022)](#n39)</sup>.
 
-*What people really pay.*
+#### What people really pay
 - Prices quoted in Bangladesh now: Tk 4 to 10 lakh for low-skilled Gulf jobs, Qatar among them (December 2025) <sup>[N3](#n3)</sup>; Tk 4 to 6 lakh for Qatar visas processed without checking the employer, contract or pay (June 2026) <sup>[N38](#n38)</sup>; Tk 4 to 7 lakh, about QR 12,000 to 21,000, for a Qatar "free visa" package (May 2026) <sup>[N8](#n8)</sup>.
 - On World Cup building sites in 2021, 83% of newly recruited Bangladeshis had paid fees, USD 3,136 (about Tk 3.9 lakh today) on average, the highest of any nationality <sup>[N40 (2021)](#n40)</sup>.
 - Men who went to Qatar in 2015 to 2018 paid Tk 4.21 lakh on average and needed about 18 months of their income in Qatar to recover it <sup>[N41 (2022)](#n41), [42](#o42)</sup>.
 
-*How they pay.* Payment for a traded visa is usually in cash, outside the banks <sup>[N2 (2022)](#n2)</sup>, and in stages: one gang selling fake Qatar jobs took Tk 3 to 4 lakh each in stages and showed fake offer letters, contracts and even a fake visa (2019) <sup>[N42 (2019)](#n42)</sup>. 58% of migrants borrowed to go, in a 2023 survey of all destinations <sup>[N16 (2024)](#n16)</sup>. One Qatar migrant borrowed Tk 3 lakh at Tk 15 per Tk 1,000 a week, about 78% a year, was fired after seven months and came home owing Tk 5 lakh <sup>[N41 (2022)](#n41)</sup>. At that rate, interest on Tk 5 lakh is about Tk 32,000 a month, roughly the whole QR 1,000 basic wage <sup>[N41 (2022)](#n41), [9 (2020)](#o9), [12](#o12), [N9 (2018)](#n9)</sup>. The legal alternatives, a PKB (Probashi Kallyan Bank) loan of up to Tk 3 lakh at 9% and paying the agency by bank, are in Work visa: company worker ([Step 6, item 5: If you need a loan](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight-item-5); see [How to pay](#how-to-pay)) <sup>[43](#o43), [44](#o44)</sup>.
+#### How they pay
+
+Payment for a traded visa is usually in cash, outside the banks <sup>[N2 (2022)](#n2)</sup>, and in stages: one gang selling fake Qatar jobs took Tk 3 to 4 lakh each in stages and showed fake offer letters, contracts and even a fake visa (2019) <sup>[N42 (2019)](#n42)</sup>. 58% of migrants borrowed to go, in a 2023 survey of all destinations <sup>[N16 (2024)](#n16)</sup>. One Qatar migrant borrowed Tk 3 lakh at Tk 15 per Tk 1,000 a week, about 78% a year, was fired after seven months and came home owing Tk 5 lakh <sup>[N41 (2022)](#n41)</sup>. At that rate, interest on Tk 5 lakh is about Tk 32,000 a month, roughly the whole QR 1,000 basic wage <sup>[N41 (2022)](#n41), [9 (2020)](#o9), [12](#o12), [N9 (2018)](#n9)</sup>. The legal alternatives, a PKB (Probashi Kallyan Bank) loan of up to Tk 3 lakh at 9% and paying the agency by bank, are in Work visa: company worker ([Step 6, item 5: If you need a loan](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight-item-5); see [How to pay](#how-to-pay)) <sup>[43](#o43), [44](#o44)</sup>.
 
 > **Need to know**
 > - In 2026, what are the usual payment stages for a Qatar visa (deposit, on the visa copy, at QVC, at the ticket or BMET card), and how much is paid at each?
 > - Does the agent usually keep the worker's passport from the first payment until the flight?
 
-*What the job pays.* The floor, since March 2021 and for domestic workers too, is QR 1,000 a month plus QR 500 for housing and QR 300 for food unless the employer provides them <sup>[11](#o11), [9 (2020)](#o9)</sup>. Only the basic wage in the contract is owed; overtime, paid at basic plus 25%, is not guaranteed, and total work may not pass 10 hours a day <sup>[2 (2004)](#o2)</sup>. On QR 1,000 basic, two hours of overtime a day for 26 days adds about QR 300 <sup>[9 (2020)](#o9), [2 (2004)](#o2)</sup>. What Bangladeshis are reported to earn:
+#### What the job pays
+
+The floor, since March 2021 and for domestic workers too, is QR 1,000 a month plus QR 500 for housing and QR 300 for food unless the employer provides them <sup>[11](#o11), [9 (2020)](#o9)</sup>. Only the basic wage in the contract is owed; overtime, paid at basic plus 25%, is not guaranteed, and total work may not pass 10 hours a day <sup>[2 (2004)](#o2)</sup>. On QR 1,000 basic, two hours of overtime a day for 26 days adds about QR 300 <sup>[9 (2020)](#o9), [2 (2004)](#o2)</sup>. What Bangladeshis are reported to earn:
 - Farm workers: about QR 1,000, sometimes with no food or housing allowance, often seven days a week without overtime pay (2025) <sup>[N13](#n13)</sup>.
 - Women housemaids: QR 1,000 to 1,200, with food and housing (2025) <sup>[32](#o32)</sup>.
 - Audited World Cup sites (2022), the best case: average gross pay of QR 2,063 (about Tk 70,000) a month, overtime included <sup>[N43 (2022)](#n43)</sup>.
@@ -377,13 +448,17 @@ Overtime hours are often "forgotten" in pay, or part of the pay is given in cash
 > - How many overtime hours a month do most Bangladeshi workers get?
 > - What does food cost a worker who gets the QR 300 allowance instead of meals?
 
-*Housing and heat.* The housing standards, the summer midday work ban and how to report a breach are in Work visa: company worker (see [Housing](#housing); see [Heat](#heat)).
+#### Housing and heat
+
+The housing standards, the summer midday work ban and how to report a breach are in Work visa: company worker (see [Housing](#housing); see [Heat](#heat)).
 
 > **Need to know**
 > - How many men share a room in a typical labour camp in 2026?
 > - What time do the buses leave for work?
 
-*If you go as a driver.* A driver visa does not come with a licence. You need <sup>[N44](#n44), [N45](#n45)</sup>:
+#### If you go as a driver
+
+A driver visa does not come with a licence. You need <sup>[N44](#n44), [N45](#n45)</sup>:
 - your RP and QID;
 - a letter from your sponsor approving the licence;
 - a course at an approved driving school.
@@ -404,7 +479,9 @@ A course gives two chances at the road test; after two failures the school may r
 > - Can a Bangladeshi licence holder go straight to the test?
 > - How many attempts do Bangladeshis usually need?
 
-*Sending money home.* Legal channels include exchange houses and sending straight to a bKash wallet through partners such as Gulf Exchange and Doha Exchange (see [Sending money home](#sending-money-home)) <sup>[46](#o46), [N46](#n46)</sup>. Workers use hundi (unlicensed money transfer) because its operators deliver hand to hand, while legal channels mean travel and effort <sup>[N47](#n47)</sup>. MOI arrests people for unlicensed currency exchange <sup>[N48 (2024)](#n48)</sup>.
+#### Sending money home
+
+Legal channels include exchange houses and sending straight to a bKash wallet through partners such as Gulf Exchange and Doha Exchange (see [Sending money home](#sending-money-home)) <sup>[46](#o46), [N46](#n46)</sup>. Workers use hundi (unlicensed money transfer) because its operators deliver hand to hand, while legal channels mean travel and effort <sup>[N47](#n47)</sup>. MOI arrests people for unlicensed currency exchange <sup>[N48 (2024)](#n48)</sup>.
 
 > **Need to know**
 > - How many more taka per riyal does hundi give than a bank or bKash in 2026?
@@ -425,22 +502,32 @@ Since 2020 the law ties you to the employer only to enter Qatar and to keep your
 > - Must a new employer have an unused visa slot (quota) for the trade before MOL approves a transfer?
 > - Who pays the ticket home for a worker who quits before the contract ends, with or without notice?
 
-*Which law covers you.* Company workers come under the Labour Law and domestic workers (house drivers, maids, nannies, cooks, gardeners) under the Domestic Workers Law (Law 15 of 2017) <sup>[4](#o4), [15 (2017)](#o15)</sup>. The Labour Law doesn't cover workers of ministries and government bodies, the armed forces and police, people working at sea, QatarEnergy and other state petroleum companies, casual workers, or farm and grazing workers, except those at farms that process or market their produce or who run or repair farm machinery <sup>[4](#o4)</sup>.
+#### Which law covers you
+
+Company workers come under the Labour Law and domestic workers (house drivers, maids, nannies, cooks, gardeners) under the Domestic Workers Law (Law 15 of 2017) <sup>[4](#o4), [15 (2017)](#o15)</sup>. The Labour Law doesn't cover workers of ministries and government bodies, the armed forces and police, people working at sea, QatarEnergy and other state petroleum companies, casual workers, or farm and grazing workers, except those at farms that process or market their produce or who run or repair farm machinery <sup>[4](#o4)</sup>.
 
 > **Need to know**
 > - Which rules on notice, job change and complaints apply to a Bangladeshi on a farm, at sea or employed by a government body?
 
-*Your passport.* The employer must hand it back once the RP is done unless you ask in writing for it to be kept, on pain of a fine of up to QR 25,000 ([Work visa: company worker](#work-visa-company-worker), [Step 7, item 3: Keep your passport](#step-7-after-you-arrive-item-3)) <sup>[3 (2015)](#o3)</sup>. Most migrant workers' passports are still reported to be held by their employers <sup>[N6](#n6)</sup>. Among domestic workers, 87 of 105 women interviewed in 2020 had had their passports taken <sup>[N53 (2020)](#n53), [N5 (2021)](#n5)</sup>.
+#### Your passport
+
+The employer must hand it back once the RP is done unless you ask in writing for it to be kept, on pain of a fine of up to QR 25,000 ([Work visa: company worker](#work-visa-company-worker), [Step 7, item 3: Keep your passport](#step-7-after-you-arrive-item-3)) <sup>[3 (2015)](#o3)</sup>. Most migrant workers' passports are still reported to be held by their employers <sup>[N6](#n6)</sup>. Among domestic workers, 87 of 105 women interviewed in 2020 had had their passports taken <sup>[N53 (2020)](#n53), [N5 (2021)](#n5)</sup>.
 
 > **Need to know**
 > - Do Qatar companies make new Bangladeshi workers sign the written request to keep their passport?
 > - How does a worker get the passport back when the company refuses: which office, and does it work?
 
-*Absconding charges.* Leaving your employer's work is still an offence, even when escaping abuse <sup>[3 (2015)](#o3), [N54](#n54)</sup>. The employer files a report free, online or at MOI, and you must contest it in person <sup>[48](#o48), [N6](#n6)</sup>; it leads to a QR 12,000 (about Tk 4.1 lakh) settlement or prosecution, and deportation if unpaid (see If your employer reports you absent, What it can lead to) <sup>[49 (2015)](#o49), [3 (2015)](#o3)</sup>. Employers have filed it, cancelled the RP, or used MOL's "Leave Country Notice" to cancel a worker's QID when the worker started a job change or claimed dues <sup>[N6](#n6), [N55 (2023)](#n55)</sup>.
+#### Absconding charges
 
-*An expired RP.* Late renewal costs QR 10 a day up to QR 6,000 ([Work visa: company worker](#work-visa-company-worker), [Step 7, item 2: Make sure the employer issues your residence permit (RP) and QID](#step-7-after-you-arrive-item-2)) <sup>[49 (2015)](#o49)</sup>. More than 90 days after expiry you can no longer change employer and must leave Qatar; staying on is settled at QR 12,000 <sup>[47 (2020)](#o47), [3 (2015)](#o3), [49 (2015)](#o49)</sup>. Without a valid QID you can't get a health card <sup>[50](#o50)</sup>. Qatar's last grace period, three months from 9 February 2025, let people without valid papers leave (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N56](#n56)</sup>.
+Leaving your employer's work is still an offence, even when escaping abuse <sup>[3 (2015)](#o3), [N54](#n54)</sup>. The employer files a report free, online or at MOI, and you must contest it in person <sup>[48](#o48), [N6](#n6)</sup>; it leads to a QR 12,000 (about Tk 4.1 lakh) settlement or prosecution, and deportation if unpaid (see If your employer reports you absent, What it can lead to) <sup>[49 (2015)](#o49), [3 (2015)](#o3)</sup>. Employers have filed it, cancelled the RP, or used MOL's "Leave Country Notice" to cancel a worker's QID when the worker started a job change or claimed dues <sup>[N6](#n6), [N55 (2023)](#n55)</sup>.
 
-*The "free visa".* Sellers also call it a "freelance" visa <sup>[N57](#n57)</sup>. The sponsor gives no job but stays your legal tie: people already in Qatar pay a sponsor QR 5,000 to 10,000 (Tk 1.7 to 3.4 lakh) for one, and sometimes QR 250 to 500 (Tk 8,500 to 17,000) a month to stay sponsored <sup>[N57](#n57), [N6](#n6)</sup>. You still need the sponsor to renew your QID, bring family or cancel the visa, and sellers often shut the company and can't be found when renewal is due ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 5: If a relative or friend in Qatar sends you a visa](#step-1-find-a-real-job-item-5), The trap) <sup>[N57](#n57)</sup>. Working for anyone else is the same offence as absconding <sup>[3 (2015)](#o3), [49 (2015)](#o49), [N57](#n57)</sup>. Sellers also demand thousands of riyals to let you change sponsor <sup>[N57](#n57)</sup>.
+#### An expired RP
+
+Late renewal costs QR 10 a day up to QR 6,000 ([Work visa: company worker](#work-visa-company-worker), [Step 7, item 2: Make sure the employer issues your residence permit (RP) and QID](#step-7-after-you-arrive-item-2)) <sup>[49 (2015)](#o49)</sup>. More than 90 days after expiry you can no longer change employer and must leave Qatar; staying on is settled at QR 12,000 <sup>[47 (2020)](#o47), [3 (2015)](#o3), [49 (2015)](#o49)</sup>. Without a valid QID you can't get a health card <sup>[50](#o50)</sup>. Qatar's last grace period, three months from 9 February 2025, let people without valid papers leave (see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[N56](#n56)</sup>.
+
+#### The "free visa"
+
+Sellers also call it a "freelance" visa <sup>[N57](#n57)</sup>. The sponsor gives no job but stays your legal tie: people already in Qatar pay a sponsor QR 5,000 to 10,000 (Tk 1.7 to 3.4 lakh) for one, and sometimes QR 250 to 500 (Tk 8,500 to 17,000) a month to stay sponsored <sup>[N57](#n57), [N6](#n6)</sup>. You still need the sponsor to renew your QID, bring family or cancel the visa, and sellers often shut the company and can't be found when renewal is due ([Work visa: company worker](#work-visa-company-worker), [Step 1, item 5: If a relative or friend in Qatar sends you a visa](#step-1-find-a-real-job-item-5), The trap) <sup>[N57](#n57)</sup>. Working for anyone else is the same offence as absconding <sup>[3 (2015)](#o3), [49 (2015)](#o49), [N57](#n57)</sup>. Sellers also demand thousands of riyals to let you change sponsor <sup>[N57](#n57)</sup>.
 
 > **Need to know**
 > - What does a free-visa sponsor charge for the yearly QID renewal in 2026?
@@ -449,7 +536,9 @@ Since 2020 the law ties you to the employer only to enter Qatar and to keep your
 
 Unpaid or late wages and end-of-service gratuity are the most common complaints by far, and the free visa leaves many workers in Qatar jobless, in debt and without papers <sup>[N58 (2022)](#n58), [N7](#n7), [N8](#n8)</sup>. Most complaints that are filed are settled or won, but winning is not the same as being paid <sup>[N58 (2022)](#n58), [N50 (2023)](#n50)</sup>.
 
-*What workers complain about.* MOL receives about 30,000 worker complaints a year, most about unpaid wages <sup>[N58 (2022)](#n58), [N7](#n7)</sup>. The patterns behind them:
+#### What workers complain about
+
+MOL receives about 30,000 worker complaints a year, most about unpaid wages <sup>[N58 (2022)](#n58), [N7](#n7)</sup>. The patterns behind them:
 - Labour-supply companies hold back wages until the client company pays them <sup>[N26](#n26)</sup>.
 - Construction companies send workers home before the contract ends, on "long leave", without their dues <sup>[N52 (2022)](#n52)</sup>.
 - Workers who came on traded visas and found no job go months without salary (2026) <sup>[N8](#n8)</sup>.
@@ -459,21 +548,31 @@ Most deaths of migrant workers are recorded as "natural causes" and not meaningf
 > **Need to know**
 > - What share of MOL's complaints come from Bangladeshis, and of what type?
 
-*How few complain.* In a 2021 study by RMMRU (Refugee and Migratory Movements Research Unit) of 1,160 workers back from six Gulf states, Qatar among them, 92% never complained in the destination country: they didn't know where to, didn't believe the money could be recovered, or feared retaliation and blacklisting; returnees from Qatar had lost USD 2,075 each on average <sup>[N60 (2021)](#n60)</sup>.
+#### How few complain
 
-*"A free visa lets you work for anyone you like."* Brokers say that once in Qatar you'll easily find work <sup>[N8](#n8)</sup>. There is no free-visa category in Qatar; buying, selling and working on one are all illegal, and a free-visa worker who isn't paid has no legal recourse <sup>[N20](#n20), [N21](#n21), [51 (2021)](#o51), [N6](#n6)</sup>. Of free-visa workers in OKUP's five-country Gulf study, 21% got a work permit only after paying about Tk 1.5 lakh more and 14% could neither pay for one nor go home and stayed on illegally <sup>[N14](#n14)</sup>. In Qatar the ones without work look for illegal day labour and risk arrest and deportation; one who paid about Tk 7 lakh in 2016 was deported in 2020 with 25 riyals <sup>[N8](#n8), [N61 (2022)](#n61)</sup>. How to check a job before paying is in Work visa: company worker ([Step 1, item 4: Check the job, the demand letter and the employer](#step-1-find-a-real-job-item-4)).
+In a 2021 study by RMMRU (Refugee and Migratory Movements Research Unit) of 1,160 workers back from six Gulf states, Qatar among them, 92% never complained in the destination country: they didn't know where to, didn't believe the money could be recovered, or feared retaliation and blacklisting; returnees from Qatar had lost USD 2,075 each on average <sup>[N60 (2021)](#n60)</sup>.
 
-*"Go on a visit or Hayya visa and change it to a work visa there."* A visitor on a Hayya e-visa (Qatar's tourist e-visa) may not work, and the platform's chief executive said in 2023 that it cannot be converted into a work visa <sup>[52](#o52), [N62 (2023)](#n62)</sup>. Whether any visit visa can be changed inside Qatar: see [Changing visa type](#changing-visa-type).
+#### "A free visa lets you work for anyone you like."
 
-*"Since 2020 the kafala is gone, so you can walk out and find a better job."* The kafala (sponsorship) law changed, but not the employer's hold (see [What ties you to the employer](#what-ties-you-to-the-employer)): workers are still asked for a signed resignation letter, and Amnesty said in 2025 that employers still hold excessive power over workers' entry, residence and job changes <sup>[N54](#n54), [N59](#n59)</sup>. Walking out without the MOL transfer is "absconding" <sup>[3 (2015)](#o3)</sup>. For the legal route, see [If you want to change employer](#if-you-want-to-change-employer).
+Brokers say that once in Qatar you'll easily find work <sup>[N8](#n8)</sup>. There is no free-visa category in Qatar; buying, selling and working on one are all illegal, and a free-visa worker who isn't paid has no legal recourse <sup>[N20](#n20), [N21](#n21), [51 (2021)](#o51), [N6](#n6)</sup>. Of free-visa workers in OKUP's five-country Gulf study, 21% got a work permit only after paying about Tk 1.5 lakh more and 14% could neither pay for one nor go home and stayed on illegally <sup>[N14](#n14)</sup>. In Qatar the ones without work look for illegal day labour and risk arrest and deportation; one who paid about Tk 7 lakh in 2016 was deported in 2020 with 25 riyals <sup>[N8](#n8), [N61 (2022)](#n61)</sup>. How to check a job before paying is in Work visa: company worker ([Step 1, item 4: Check the job, the demand letter and the employer](#step-1-find-a-real-job-item-4)).
 
-*"Complaining is useless": it works on paper, collecting is hard.* From October 2021 to October 2022, 66.5% of complaints to MOL were settled before or during conciliation, and the labour courts decided for the worker in 84% of the cases referred to them <sup>[N58 (2022)](#n58)</sup>. But companies often don't pay even after a court rules for them <sup>[N50 (2023)](#n50)</sup>, cases often take several months and up to a year <sup>[N6](#n6)</sup>, and the Workers' Support and Insurance Fund pays only cases decided by a committee, about a quarter of them <sup>[N63](#n63), [53 (2018)](#o53)</sup>. For how to complain, see If you aren't paid, are abused or your passport is taken, item 2 <sup>[4](#o4)</sup>.
+#### "Go on a visit or Hayya visa and change it to a work visa there."
+
+A visitor on a Hayya e-visa (Qatar's tourist e-visa) may not work, and the platform's chief executive said in 2023 that it cannot be converted into a work visa <sup>[52](#o52), [N62 (2023)](#n62)</sup>. Whether any visit visa can be changed inside Qatar: see [Changing visa type](#changing-visa-type).
+
+#### "Since 2020 the kafala is gone, so you can walk out and find a better job."
+
+The kafala (sponsorship) law changed, but not the employer's hold (see [What ties you to the employer](#what-ties-you-to-the-employer)): workers are still asked for a signed resignation letter, and Amnesty said in 2025 that employers still hold excessive power over workers' entry, residence and job changes <sup>[N54](#n54), [N59](#n59)</sup>. Walking out without the MOL transfer is "absconding" <sup>[3 (2015)](#o3)</sup>. For the legal route, see [If you want to change employer](#if-you-want-to-change-employer).
+
+#### "Complaining is useless": it works on paper, collecting is hard
+
+From October 2021 to October 2022, 66.5% of complaints to MOL were settled before or during conciliation, and the labour courts decided for the worker in 84% of the cases referred to them <sup>[N58 (2022)](#n58)</sup>. But companies often don't pay even after a court rules for them <sup>[N50 (2023)](#n50)</sup>, cases often take several months and up to a year <sup>[N6](#n6)</sup>, and the Workers' Support and Insurance Fund pays only cases decided by a committee, about a quarter of them <sup>[N63](#n63), [53 (2018)](#o53)</sup>. For how to complain, see If you aren't paid, are abused or your passport is taken, item 2 <sup>[4](#o4)</sup>.
 
 > **Need to know**
 > - What does a worker live on during a wage case: does MOL, the Embassy or a charity give food or shelter?
 > - Does the Fund pay anything before the decision?
 
-*How the irregular routes end.*
+#### How the irregular routes end
 - *Running away or overstaying.* Both are settled at QR 12,000 or prosecuted, with deportation if the settlement isn't paid (see [What ties you to the employer](#what-ties-you-to-the-employer); for the way out, see [Going home without valid papers](#going-home-without-valid-papers)) <sup>[49 (2015)](#o49), [3 (2015)](#o3)</sup>.
 - *Protesting unpaid wages.* In August 2022, after workers of the Al Bandary company, some unpaid for seven months, protested in Doha, police arrested protesters and workers from Bangladesh and four other countries were deported <sup>[N64 (2022)](#n64)</sup>. Workers are sometimes deported before their labour case is resolved <sup>[N6](#n6)</sup>.
 
@@ -1085,7 +1184,7 @@ A link to a "government" site whose address doesn't end in gov.qa ([Step 5: Chec
 
 ##### Hundi offers
 
-Someone offers an attractive exchange rate outside the approved exchange companies and banks <sup>[N98 (2022)](#n98)</sup>. Protection: see [Sending money home](#sending-money-home); the law in Qatar is covered separately (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[44](#o44), [N48 (2024)](#n48)</sup>.
+Someone offers an attractive exchange rate outside the approved exchange companies and banks <sup>[N98 (2022)](#n98)</sup>. Protection: see Sending money home; the law in Qatar is covered separately (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[44](#o44), [N48 (2024)](#n48)</sup>.
 
 ##### Moving you on to Europe or America
 
@@ -1258,7 +1357,7 @@ A strike stops once the collective-dispute procedure starts, and strike days are
 
 #### Hundi (informal money transfer)
 
-MOI urges everyone to exchange money only through approved exchange companies and banks, and in 2024 its CID (Criminal Investigation Department) arrested a person for running hundi <sup>[N98 (2022)](#n98), [N48 (2024)](#n48)</sup>. Send money only through legal channels, never through hundi (see [Sending money home](#sending-money-home)) <sup>[44](#o44)</sup>.
+MOI urges everyone to exchange money only through approved exchange companies and banks, and in 2024 its CID (Criminal Investigation Department) arrested a person for running hundi <sup>[N98 (2022)](#n98), [N48 (2024)](#n48)</sup>. Send money only through legal channels, never through hundi (see Sending money home) <sup>[44](#o44)</sup>.
 
 #### Drugs
 
@@ -1894,7 +1993,7 @@ No RP is granted without proof of compulsory health insurance <sup>[132 (2021)](
 
 ### Step 1: Check you qualify and gather the papers
 
-1. <a id="step-1-check-you-qualify-and-gather-the-papers-item-1"></a>**Check your contract** shows the occupation and salary required (see [Who qualifies](#who-qualifies)) <sup>[148 (2023)](#o148)</sup>.
+1. <a id="step-1-check-you-qualify-and-gather-the-papers-item-1"></a>**Check your contract** shows the occupation and salary required (see [Who qualifies](#who-qualifies-1)) <sup>[148 (2023)](#o148)</sup>.
 2. <a id="step-1-check-you-qualify-and-gather-the-papers-item-2"></a>**Gather the papers MOI's Family Visa form asks for** <sup>[191](#o191), [190](#o190)</sup>:
    - your ID copy
    - the passport copy of each person you bring
@@ -2970,7 +3069,7 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 3. <a id="support-after-return-item-3"></a>**BRAC Migration Programme.** BRAC, a development organisation founded in Bangladesh in 1972, runs a Migration Programme that gives returnees airport help, counselling, help to start earning, and legal assistance <sup>[266](#o266), [267](#o267)</sup>.
 4. <a id="support-after-return-item-4"></a>**Children's scholarships.** WEWB pays scholarships to migrants' high-achieving children (Tk 27,500 a year at SSC level, Tk 34,000 at HSC level), reserves 0.5% of HSC admission seats for them, and pays disabled children Tk 1,000 a month for 5 years (at most 2 children per worker) <sup>[134 (2024)](#o134)</sup>.
 5. <a id="support-after-return-item-5"></a>**If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the DC's office or the DEMO; WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[268](#o268), [134 (2024)](#o134)</sup>.
-6. <a id="support-after-return-item-6"></a>**Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka ([Sending money home](#sending-money-home)) <sup>[239](#o239), [242](#o242)</sup>.
+6. <a id="support-after-return-item-6"></a>**Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka (Sending money home) <sup>[239](#o239), [242](#o242)</sup>.
 
 ## Contacts
 
