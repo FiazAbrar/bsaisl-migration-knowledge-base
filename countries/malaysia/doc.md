@@ -8,17 +8,20 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000); RM is the Malaysian ringgit, 
 
 ### In one minute
 
-A Malaysia job starts as a quota: permission for one Malaysian employer to bring in a set number of foreign workers [W0043]. Each slot becomes a "calling visa" (কলিং ভিসা) that is sold down a chain: the employer's demand letter is bought in Malaysia, passes through one of the few agencies Malaysia lets into FWCMS (Foreign Workers Centralised Management System, its online visa system), then a licensed agency, then a village broker (দালাল), and every link takes a cut [YE0029, A0028, YE0018, YE0016]. The legal cap was Tk 78,990, but in 2022-24 workers paid about Tk 4.5 to 6 lakh, nearly all of it borrowed [R0008, A0001, YF0021, A0064]. The job pays the RM1,700 minimum (about Tk 52,000) plus overtime, and the debt takes one to three years to clear, longer if the job or the pay doesn't come [Z0137, YI0024, YF0003, YF0025]. The work pass ties you to one employer, and a second medical in Malaysia decides whether you get it at all [W0052, L0043]. The corridor has shut three times, each after a surge of departures and allegations against the agencies; the 2024 shutdown stranded 17,777 workers who had paid [U0041, YA0003, A0045]. Recruitment was announced again in October 2026, but by early November medical checks had not been approved and almost no one had flown [Z0151, YI0001, B0089].
+**Right now Malaysia is closed to new Bangladeshi workers, as it has been since 31 May 2024. A restart was announced in October 2026, but no one has flown under it yet: the medical checks it needs have not started** [U0042, Z0151, Z0159, YI0001].
+
+A Malaysia job starts as a quota: permission for one Malaysian employer to bring in a set number of foreign workers [W0043]. Each slot becomes a "calling visa" (কলিং ভিসা) that is sold down a chain: the employer's demand letter is bought in Malaysia, passes through one of the few agencies Malaysia lets into FWCMS (Foreign Workers Centralised Management System, its online visa system), then a licensed agency, then a village broker (দালাল), and every link takes a cut [YE0029, A0028, YE0018, YE0016]. The legal cap was Tk 78,990, but in 2022-24 workers paid about Tk 4.5 to 6 lakh, nearly all of it borrowed [R0008, A0001, YF0021, A0064]. The job pays the RM1,700 minimum (about Tk 52,000) plus overtime, and the debt takes one to three years to clear, longer if the job or the pay doesn't come [Z0137, YI0024, YF0003, YF0025]. The work pass ties you to one employer, and a second medical in Malaysia decides whether you get it at all [W0052, L0043]. The corridor has shut three times, each after a surge of departures and allegations against the agencies; the 2024 shutdown stranded 17,777 workers who had paid [U0041, YA0003, A0045].
 
 ### Is it open now, and who can go?
 
-Recruitment has been announced, but no workers are moving yet.
+**Closed to new workers since 31 May 2024. A restart was announced in October 2026, but as of 8 November no one has flown under it.** Until the Ministry issues instructions, don't pay anyone, do a medical or hand over your passport [U0042, Z0151, Z0159, YI0005].
 
+- **31 May 2024:** Malaysia's last day for new workers to enter; the corridor has been shut since [U0042].
 - **15 October 2026:** Bangladesh announced that recruitment had restarted through agencies on Malaysia's list [Z0151].
 - **31 October:** medical checks were due to start but did not, because no list of approved centres had been published [Z0159, YI0004].
 - **4 November:** the expatriates' welfare minister, Ariful Haque Chowdhury, said a list of 46 centres had gone to Malaysia for vetting, and centres already testing Malaysia-bound workers were doing so illegally and would face action [YI0001, YI0003, YI0002].
 
-Until the Ministry issues instructions it tells people not to pay money, do medicals or hand over passports; a medical done before the official start doesn't count (Step 2) [Z0159, YI0005]. BMET cleared 1,592 workers for Malaysia from 1 January to 6 November 2026; the minister hopes the first flights leave in December [B0089, YD0005].
+A medical done before the official start doesn't count (Step 2) [Z0159, YI0005]. BMET cleared 1,592 workers for Malaysia from 1 January to 6 November 2026; the minister hopes the first flights leave in December [B0089, YD0005].
 
 #### Status
 
