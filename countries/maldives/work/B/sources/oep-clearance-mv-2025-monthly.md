@@ -1,0 +1,13 @@
+# OEP country-clearance report, Maldives (country_id 107), 2025 by month, queried 2026-11-08
+2025-01-01 to 2025-01-31: Maldives total_employee 543 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-01-01&approval_date_to=2025-01-31&country_id%5B%5D=107&gender_id=)
+2025-02-01 to 2025-02-28: Maldives total_employee 830 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-02-01&approval_date_to=2025-02-28&country_id%5B%5D=107&gender_id=)
+2025-03-01 to 2025-03-31: Maldives total_employee 634 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-03-01&approval_date_to=2025-03-31&country_id%5B%5D=107&gender_id=)
+2025-04-01 to 2025-04-30: Maldives total_employee 878 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-04-01&approval_date_to=2025-04-30&country_id%5B%5D=107&gender_id=)
+2025-05-01 to 2025-05-31: Maldives total_employee 5411 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-05-01&approval_date_to=2025-05-31&country_id%5B%5D=107&gender_id=)
+2025-06-01 to 2025-06-30: Maldives total_employee 3643 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-06-01&approval_date_to=2025-06-30&country_id%5B%5D=107&gender_id=)
+2025-07-01 to 2025-07-31: Maldives total_employee 4901 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-07-01&approval_date_to=2025-07-31&country_id%5B%5D=107&gender_id=)
+2025-08-01 to 2025-08-31: Maldives total_employee 5538 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-08-01&approval_date_to=2025-08-31&country_id%5B%5D=107&gender_id=)
+2025-09-01 to 2025-09-30: Maldives total_employee 4481 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-09-01&approval_date_to=2025-09-30&country_id%5B%5D=107&gender_id=)
+2025-10-01 to 2025-10-31: Maldives total_employee 4848 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-10-01&approval_date_to=2025-10-31&country_id%5B%5D=107&gender_id=)
+2025-11-01 to 2025-11-30: Maldives total_employee 4132 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-11-01&approval_date_to=2025-11-30&country_id%5B%5D=107&gender_id=)
+2025-12-01 to 2025-12-31: Maldives total_employee 4320 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-12-01&approval_date_to=2025-12-31&country_id%5B%5D=107&gender_id=)
