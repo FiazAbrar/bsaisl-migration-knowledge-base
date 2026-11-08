@@ -201,7 +201,9 @@ Many free-visa men end up running or staffing a shop or workshop registered in a
 
 For a job with a Saudi company. The whole process usually takes about 1-3 months [A0004].
 
-**Who pays what.** The Saudi employer pays the recruitment fees, the iqama (residence card), the work permit and its renewals, exit and re-entry fees and your ticket home when the job ends [A0005]; you pay that ticket only if you are unfit for the work or leave without a legitimate reason [A0006]. You pay:
+### Who pays what
+
+The Saudi employer pays the recruitment fees, the iqama (residence card), the work permit and its renewals, exit and re-entry fees and your ticket home when the job ends [A0005]; you pay that ticket only if you are unfit for the work or leave without a legitimate reason [A0006]. You pay:
 
 - OEP registration: Tk 200 [A0028].
 - A TTC course admission fee, if you take a course: Tk 748 [A0030].
@@ -308,13 +310,15 @@ For some job orders BMET caps what the agency may take, such as Tk 50,000 or Tk 
 
 #### If a relative or friend offers you a visa
 
-**The paper doesn't show where the visa came from.** A relative's visa is one of three things, and all three arrive as the same work visa [A0077 (2024), SI0007]:
+##### The paper doesn't show where the visa came from
+
+A relative's visa is one of three things, and all three arrive as the same work visa [A0077 (2024), SI0007]:
 
 - *A real job with the relative's own employer.* The employer pays the visa, recruitment fees, the iqama and their renewals, so the visa itself should cost you nothing [RA0010, A0005]. Relatives still charge: one migrant paid a close relative Tk 4 lakh for a visa the relative had got free [RA0003].
 - *A visa the relative bought from a kafil (the sponsor) or a visa trader.* It has already cost about Tk 2 lakh before it leaves Saudi Arabia (Background, The root) [SI0037, SB0007], and the sponsor will pass his yearly levy and iqama fee to you (sub-step 7). These are the free (azad) visas, meaning you find your own work [SM0045], and new ones are issued as amel adi (ordinary labourer) or load-unload (লোড আনলোড) visas, because load-unload needs no skill test [RA0028, RB0045, RB0027]. The job may not be the one promised: a cousin paid Tk 4 lakh for a driver visa and the employer put the worker to herding goats, then camels [RA0001].
 - *A visa the relative sells as a business.* A returnee broker in Cumilla charged Tk 3 lakh a head and passed most of it to the friends in the Gulf who supplied the visas [SL0021]. Many men present a relative as the source when they really bought from a broker [RB0006].
 
-**What it costs, official against real.**
+##### What it costs, official against real
 
 - *Genuine company visa:* you pay only the Bangladesh-side fees, about Tk 19,800 before the skill test, passport and ticket: those in Who pays what, plus medical about Tk 10,000, police clearance Tk 1,500, Tasheer Tk 660, orientation Tk 200 and BMET clearance Tk 250 [A0028, RB0021, B0052, RB0024, B0166, A0011, A0012, B0096]. In practice the agency's processing fee is whatever you negotiate [RB0047], and a visa seller can rent an agency's licence for Tk 15,000-20,000 a visa to get the clearance [RD0006].
 - *Free visa:* the whole trip costs Tk 8-9 lakh in 2026 [RA0030]; in July 2026 two relatives of a Cumilla worker paid one man Tk 12 lakh between them, with Tk 4 lakh more due after arrival [RA0029].
@@ -325,7 +329,9 @@ For some job orders BMET caps what the agency may take, such as Tk 50,000 or Tk 
 > - What is that package called on the street?
 > - What does the ticket cost with taxes, against the USD 360 worker base fare [G0022]?
 
-**The risk of delay.** A visa that sits too long during attestation, the medical or Tasheer can lapse, and the seller then asks for money for a new one.
+##### The risk of delay
+
+A visa that sits too long during attestation, the medical or Tasheer can lapse, and the seller then asks for money for a new one.
 
 > **Need to know**
 > - How long does a Saudi work visa stay usable after issue on Qiwa?
@@ -403,9 +409,13 @@ For some job orders BMET caps what the agency may take, such as Tk 50,000 or Tk 
 
    *Either way:* the embassy's online form has a "no iqama after arrival" option, and the Special Exit Programme covers workers whose iqama was never issued (Going home without valid papers) [E0089, E0027]. Until the end of 2026 an employer can still regularise a permit never issued within 6 months of joining [G0015].
 
-**Women.** A woman going as a domestic worker should pay nothing and goes through a ministry-approved agency and Musaned (Work visa: domestic worker) [D0059, D0060]. A relative arranging it is a warning: in October 2026 a Muktagachha woman's cousin met her at the Saudi airport, had her sign an Arabic paper and, she says, had "sold" her to a sponsor for two years on a khadema (খাদেমা, housemaid) visa at SR 1,000 a month; he was arrested under the human trafficking law [RC0061, RC0044, RC0045].
+##### Women
 
-**Avoid a "free visa".** There is no such thing [A0024]: it is a visa bought from a sponsor with no job for you, so you must find your own work and housing, often pay the sponsor a monthly cut and renewal money (Background, On a free visa), work illegally and can be deported [A0083, A0082, A0081, A0079]. Signs: the contract signed in Bangladesh isn't the one used in Saudi Arabia [A0081], and those in If a relative or friend offers you a visa (a household sponsor, a 3-month iqama). Have the papers checked (Before paying) [A0108]; report the seller to BMET or the ministry (below) or on the ministry hotline 16135 (+880 9610102030 from abroad) [A0056, A0048, A0025]; in an emergency call 999, the police emergency number [B0171].
+A woman going as a domestic worker should pay nothing and goes through a ministry-approved agency and Musaned (Work visa: domestic worker) [D0059, D0060]. A relative arranging it is a warning: in October 2026 a Muktagachha woman's cousin met her at the Saudi airport, had her sign an Arabic paper and, she says, had "sold" her to a sponsor for two years on a khadema (খাদেমা, housemaid) visa at SR 1,000 a month; he was arrested under the human trafficking law [RC0061, RC0044, RC0045].
+
+##### Avoid a "free visa"
+
+There is no such thing [A0024]: it is a visa bought from a sponsor with no job for you, so you must find your own work and housing, often pay the sponsor a monthly cut and renewal money (Background, On a free visa), work illegally and can be deported [A0083, A0082, A0081, A0079]. Signs: the contract signed in Bangladesh isn't the one used in Saudi Arabia [A0081], and those in If a relative or friend offers you a visa (a household sponsor, a 3-month iqama). Have the papers checked (Before paying) [A0108]; report the seller to BMET or the ministry (below) or on the ministry hotline 16135 (+880 9610102030 from abroad) [A0056, A0048, A0025]; in an emergency call 999, the police emergency number [B0171].
 
 **Before paying:**
 
@@ -566,7 +576,9 @@ Wafid is the Gulf Health Council's online booking for the health check everyone 
    - a copy of the card;
    - a bank statement showing the payment.
 
-**Don't buy a "fit" result.** Agencies and brokers sell fit reports for about Tk 20,000-30,000, but Saudi Arabia tests you again on arrival and sends a worker found unfit home at their own cost [B0032, B0030, B0018, B0115]. Some centres declare people unfit, then ask for a bribe to change it [B0035].
+#### Don't buy a "fit" result
+
+Agencies and brokers sell fit reports for about Tk 20,000-30,000, but Saudi Arabia tests you again on arrival and sends a worker found unfit home at their own cost [B0032, B0030, B0018, B0115]. Some centres declare people unfit, then ask for a bribe to change it [B0035].
 
 **If you are declared unfit** (for example HIV, hepatitis B or C, tuberculosis, organ failure, uncontrolled blood pressure or diabetes, cancer) [B0016], you can't retake the test for 3 months [B0027].
 
@@ -649,7 +661,9 @@ The agency applies for the visa; agencies ask for [B0064, B0065]:
 
 **If the job needs your education certificates,** apostille them on [MyGov](https://www.mygov.bd/services?category=sector&data=service-sector-67): you get an SMS and download the e-Apostille from your MyGov dashboard [B0066, B0161]. It costs Tk 200 per page online and takes up to 5 days; track it on [MyGov application status](https://www.mygov.bd/application-latest-status) [B0163, B0161]. If it isn't done in 5 working days, contact the Foreign Ministry's e-Apostille office, Segunbagicha, Dhaka (+8802-223381852, dgcnw@mofa.gov.bd) [B0162], then complain on [grs.gov.bd](https://www.grs.gov.bd/), the government's complaint system [B0164]. Saudi Arabia accepts apostilles without embassy attestation; anyone can check one by its QR code [B0068, B0067].
 
-**Pay no "embassy fee" or "visa fee" to anyone.** The embassy charges nothing [B0069], the employer pays the visa [B0116], and Tasheer takes only its service fee [B0155].
+#### Pay no "embassy fee" or "visa fee" to anyone
+
+The embassy charges nothing [B0069], the employer pays the visa [B0116], and Tasheer takes only its service fee [B0155].
 
 ### Step 7: Check the visa yourself
 
@@ -732,7 +746,9 @@ If it isn't done [B0097]:
 
 **If you came without BMET clearance,** join the Welfare Board from Saudi Arabia to get its insurance and help: apply at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/) with your passport and proof you work legally; the embassy labour wing processes it and you pay the Tk 5,500 welfare fee in riyals [E0020, B0100, B0099].
 
-**Iqama (residence card).** You enter on a 3-month permit; within it the employer must get your iqama and work permit (about SR 11,000 a year) [B0131], after your medical test and its health insurance for you [B0108]. Otherwise you become undocumented and can be detained and deported [B0132, B0135]. The employer pays for it and its renewals [B0113, B0116]; you do the medical test and fingerprints, and it takes 1-3 weeks once papers are complete [B0144, B0143]. Check the name matches your passport; the employer corrects it at the Passports Directorate (Jawazat) [B0110]. Carry it always and show it to police on request [B0111]. Without it you can't open a bank account, use an ATM, send money or get a SIM [B0112].
+#### Iqama (residence card)
+
+You enter on a 3-month permit; within it the employer must get your iqama and work permit (about SR 11,000 a year) [B0131], after your medical test and its health insurance for you [B0108]. Otherwise you become undocumented and can be detained and deported [B0132, B0135]. The employer pays for it and its renewals [B0113, B0116]; you do the medical test and fingerprints, and it takes 1-3 weeks once papers are complete [B0144, B0143]. Check the name matches your passport; the employer corrects it at the Passports Directorate (Jawazat) [B0110]. Carry it always and show it to police on request [B0111]. Without it you can't open a bank account, use an ATM, send money or get a SIM [B0112].
 
 *No iqama after 90 days:* complain to the labour ministry on 19911 (Sunday to Thursday, 8 am to 5 pm) [B0109, E0052]; then follow If you aren't paid and call the embassy labour wing on 8001000125 [E0024].
 
@@ -762,9 +778,13 @@ Support: 920020405 [B0175].
 
 Support: 920000105, support@qiwa.sa [B0174].
 
-**Keep your passport.** No employer may keep your passport or iqama, even "for safekeeping" [B0119, B0114]. If it does, call 19911 [E0052] or complain (Your rights at work, Your passport).
+#### Keep your passport
 
-**Pay.** The employer must pay your wages on time through the Wage Protection Program, which records each payment [B0121], and give housing or a housing allowance [B0122]; what can't be deducted: Your rights at work, Pay [B0116]. Typical monthly pay [B0137, B0136, B0138, B0139, B0140]:
+No employer may keep your passport or iqama, even "for safekeeping" [B0119, B0114]. If it does, call 19911 [E0052] or complain (Your rights at work, Your passport).
+
+#### Pay
+
+The employer must pay your wages on time through the Wage Protection Program, which records each payment [B0121], and give housing or a housing allowance [B0122]; what can't be deducted: Your rights at work, Pay [B0116]. Typical monthly pay [B0137, B0136, B0138, B0139, B0140]:
 
 - helpers: SR 1,200-1,800;
 - cleaners: SR 1,000-1,700;
@@ -778,15 +798,23 @@ Support: 920000105, support@qiwa.sa [B0174].
 
 ### Your rights at work
 
-**Contract.** It must be recorded on Qiwa (Step 9), with a copy for you and the employer [C0016]. It runs for a fixed term, usually 2 years; with no length written it counts as one year, and it renews for the same length if both sides carry on [C0095, C0026]. It should state your leave, whether it is paid and who pays the airfare [C0152].
+#### Contract
 
-**Hours.** 8 a day and 48 a week (6 and 36 for Muslims in Ramadan), never over 12 a day in total [C0001, C0002, C0096], with a break of at least 30 minutes after 5 hours in a row [C0004]. From 15 June to 15 September, no private-sector work in direct sun from 12 noon to 3 pm; report a breach on 19911 or in the labour ministry's app (If a right is broken, below) [C0108, SG0026, C0157]. Heat stroke (confusion, slurred speech, fainting, seizures, very high temperature, hot dry or drenched skin) kills if treatment is delayed: get emergency care, move the person into shade, take off outer clothing and cool them with water [SG0027, SG0028]. Headache, nausea, dizziness, weakness and heavy sweating are heat exhaustion: get out of the heat, drink and get checked at a clinic [SG0029, SG0044].
+It must be recorded on Qiwa (Step 9), with a copy for you and the employer [C0016]. It runs for a fixed term, usually 2 years; with no length written it counts as one year, and it renews for the same length if both sides carry on [C0095, C0026]. It should state your leave, whether it is paid and who pays the airfare [C0152].
 
-**Overtime.** Full hourly wage plus half the basic hourly wage per extra hour; public-holiday work counts as overtime [C0005, C0010].
+#### Hours
 
-**Pay.** There is no minimum wage for foreign workers; the contract wage is what you can claim [C0092]. It is paid into your bank account on the contract date [C0006]. Never sign that you were paid before the money arrives; it can block a later claim [C0025]. Recruitment, iqama and work permit fees and renewals, job-title changes, exit and re-entry visas, transfer fees and your ticket home at the contract's end are the employer's and can't be taken from your pay [C0020].
+8 a day and 48 a week (6 and 36 for Muslims in Ramadan), never over 12 a day in total [C0001, C0002, C0096], with a break of at least 30 minutes after 5 hours in a row [C0004]. From 15 June to 15 September, no private-sector work in direct sun from 12 noon to 3 pm; report a breach on 19911 or in the labour ministry's app (If a right is broken, below) [C0108, SG0026, C0157]. Heat stroke (confusion, slurred speech, fainting, seizures, very high temperature, hot dry or drenched skin) kills if treatment is delayed: get emergency care, move the person into shade, take off outer clothing and cool them with water [SG0027, SG0028]. Headache, nausea, dizziness, weakness and heavy sweating are heat exhaustion: get out of the heat, drink and get checked at a clinic [SG0029, SG0044].
 
-**Rest and leave.**
+#### Overtime
+
+Full hourly wage plus half the basic hourly wage per extra hour; public-holiday work counts as overtime [C0005, C0010].
+
+#### Pay
+
+There is no minimum wage for foreign workers; the contract wage is what you can claim [C0092]. It is paid into your bank account on the contract date [C0006]. Never sign that you were paid before the money arrives; it can block a later claim [C0025]. Recruitment, iqama and work permit fees and renewals, job-title changes, exit and re-entry visas, transfer fees and your ticket home at the contract's end are the employer's and can't be taken from your pay [C0020].
+
+#### Rest and leave
 
 - *Weekly rest:* one day off a week, normally Friday, not swappable for money [C0003].
 - *Annual leave:* paid, at least 21 days, 30 after 5 years with the same employer, on dates the employer sets with 30 days' notice; untaken days are paid when you leave [C0007, C0009, C0008].
@@ -794,11 +822,15 @@ Support: 920000105, support@qiwa.sa [B0174].
 - *Sick leave:* up to 120 days a year, 30 at full pay, 60 at three-quarters, 30 unpaid [C0011].
 - *Other paid leave:* 3 days for a child's birth, 5 for your wedding, 5 for the death of a spouse, parent or child, 10 to 15 days once for Hajj after 2 years; 12 weeks' maternity leave [C0012, C0013].
 
-**Housing, food and transport.** The employer gives housing and transport or allowances for them [C0014]; food only if the contract says so [C0099].
+#### Housing, food and transport
+
+The employer gives housing and transport or allowances for them [C0014]; food only if the contract says so [C0099].
 
 **If a right is broken,** report it in the labour ministry's (Ministry of Human Resources and Social Development) app, on Google Play and the App Store, or in Tawakkalna, the Saudi government app: service Reporting Violations of Labor Regulations, sign in with Absher, pick the report type, give the workplace location, company details and proof; it is free, the ministry acts within 3 days and the status shows in the app [C0157, C0158]. Money owed is claimed through friendly settlement (If you aren't paid) [C0024]. Ministry help line: 19911, Sunday to Thursday 8 am to 5 pm, Arabic and English [C0050].
 
-**Health insurance.** The employer must insure you [C0015]. Check your cover with the Council of Health Insurance's Insurance Information Inquiry at [chi.gov.sa](https://www.chi.gov.sa/en/ServicesDirectory/Pages/Eservices-CheckInsurance.aspx) [C0110].
+#### Health insurance
+
+The employer must insure you [C0015]. Check your cover with the Council of Health Insurance's Insurance Information Inquiry at [chi.gov.sa](https://www.chi.gov.sa/en/ServicesDirectory/Pages/Eservices-CheckInsurance.aspx) [C0110].
 
 > **Need to know**
 > - Which number does the check ask for (iqama or passport)?
@@ -806,19 +838,29 @@ Support: 920000105, support@qiwa.sa [B0174].
 
 If you aren't insured or the premium is taken from your pay, complain at [care.chi.gov.sa](https://care.chi.gov.sa/) (guest or account) with your details, the employer's contact details, what happened and scanned proof; it is handled within 15 working days without naming you to the employer [C0159]. The cover doesn't pay for serious illness, so go only if you are fit [C0101].
 
-**Your passport.** No employer may keep your passport or iqama; the fine is SR 5,000, though sponsors still commonly do it [C0022, C0091]. Complain on the labour ministry's Beneficiary Page ([selfservice.hrsd.gov.sa](https://selfservice.hrsd.gov.sa/node/)) [C0023, B0120]: [hrsd.gov.sa](https://www.hrsd.gov.sa/en/ministry-services/services/client-page) > Contact Us > Beneficiary Page > Start the Service > log in with Nafath > Complaints > Add a Request; choose the sector and categories, fill in the fields, press Send [C0154, C0155]. It needs a ministry or Absher account, is free, answered within 5 days, and also in the ministry's app [C0156].
+#### Your passport
 
-**Unfair dismissal.** If the employer ends the contract without a valid reason, you are owed 15 days' wages per year of service on an open-ended contract or the wages for the rest of a fixed-term one, and never less than 2 months' wages [C0033].
+No employer may keep your passport or iqama; the fine is SR 5,000, though sponsors still commonly do it [C0022, C0091]. Complain on the labour ministry's Beneficiary Page ([selfservice.hrsd.gov.sa](https://selfservice.hrsd.gov.sa/node/)) [C0023, B0120]: [hrsd.gov.sa](https://www.hrsd.gov.sa/en/ministry-services/services/client-page) > Contact Us > Beneficiary Page > Start the Service > log in with Nafath > Complaints > Add a Request; choose the sector and categories, fill in the fields, press Send [C0154, C0155]. It needs a ministry or Absher account, is free, answered within 5 days, and also in the ministry's app [C0156].
 
-**Probation.** Up to 180 days if the contract sets it; either side can end the contract during it without compensation or end-of-service pay [C0017, C0018]. Who pays the ticket home: Background, What ties you to the employer, The first six months.
+#### Unfair dismissal
 
-**Leaving without notice.** You may stop work without notice and keep all your rights if the employer doesn't meet its duties (for example, doesn't pay), moves you to another job without consent, assaults or mistreats you, leaves a known serious danger unfixed, or lied about the job when you signed [C0029, C0094]. If you just stop coming to work, the employer can report you absent (huroob, below) [C0062] and, after a written warning, dismiss you without end-of-service pay for over 30 days' absence in a contract year or 15 in a row [C0028].
+If the employer ends the contract without a valid reason, you are owed 15 days' wages per year of service on an open-ended contract or the wages for the rest of a fixed-term one, and never less than 2 months' wages [C0033].
+
+#### Probation
+
+Up to 180 days if the contract sets it; either side can end the contract during it without compensation or end-of-service pay [C0017, C0018]. Who pays the ticket home: Background, What ties you to the employer, The first six months.
+
+#### Leaving without notice
+
+You may stop work without notice and keep all your rights if the employer doesn't meet its duties (for example, doesn't pay), moves you to another job without consent, assaults or mistreats you, leaves a known serious danger unfixed, or lied about the job when you signed [C0029, C0094]. If you just stop coming to work, the employer can report you absent (huroob, below) [C0062] and, after a written warning, dismiss you without end-of-service pay for over 30 days' absence in a contract year or 15 in a row [C0028].
 
 ### How long you can stay
 
 As long as you have a contract and a valid iqama, which the employer renews and pays for [C0020]. Work visas are for ages 18 to 60 [C0100]. **No pension:** GOSI, the Saudi social insurance agency, covers foreign workers only for work injuries [C0109]; you get end-of-service pay instead (Leaving at the end of the job) [C0031].
 
-**Renew your passport in time.** An exit and re-entry visa needs it valid 90 days, a final exit 60 days [C0165].
+#### Renew your passport in time
+
+An exit and re-entry visa needs it valid 90 days, a final exit 60 days [C0165].
 
 1. Book "E-Passport Service" on [passportriyadh.com/appointment](https://passportriyadh.com/appointment/), at the embassy in Riyadh or another city, with your name, phone and passport number [SG0017].
 2. Fill in the form online [SG0012, SG0013, SG0014, SG0015].
@@ -831,7 +873,9 @@ A worker's 48-page, 5-year e-passport costs SR 125 (SR 190 urgent), a 10-year on
 > - How do you pay?
 > - What is the Jeddah consulate's booking route?
 
-**NID.** If you are over 16 and never had one, fill in the form at [services.nidw.gov.bd](https://services.nidw.gov.bd/nid-pub/), then on the appointment date hand in the documents at the mission and give a photo, fingerprints, iris scan and signature [SG0024, SG0025]; missions in Saudi Arabia had begun NID registration by July 2025 [SG0019]. A mission can't correct an existing NID [SG0018].
+#### NID
+
+If you are over 16 and never had one, fill in the form at [services.nidw.gov.bd](https://services.nidw.gov.bd/nid-pub/), then on the appointment date hand in the documents at the mission and give a photo, fingerprints, iris scan and signature [SG0024, SG0025]; missions in Saudi Arabia had begun NID registration by July 2025 [SG0019]. A mission can't correct an existing NID [SG0018].
 
 > **Need to know**
 > - How do you book NID registration at the Riyadh embassy or Jeddah consulate?
@@ -845,9 +889,13 @@ A worker's 48-page, 5-year e-passport costs SR 125 (SR 190 urgent), a 10-year on
 - **Don't work for anyone but the employer on your permit, or in another job,** even for a few hours [C0021].
 - **Cybercrime** cases have brought Bangladeshis 6 months to 5 years in prison [G0003]; in October 2026 a Bangladeshi man and woman, held under the cybercrime law and on an adultery allegation, were executed for an "indecent act" in a mosque [G0007, G0001].
 
-**Driving.** If you cause a crash that kills someone, the family can claim blood money (diya): a Riyadh court ordered an uninsured foreign driver to pay SR 300,000 per person killed and kept him in prison until he paid [SG0023]. Compulsory motor insurance pays victims up to SR 10 million, but the insurer can take that money back from a driver without the right class of licence or with an expired one [SG0020, SG0022, SG0021].
+#### Driving
 
-**If you or a relative is arrested.** The court provides an interpreter, but you can't choose your own [G0004]. Saudi authorities may not tell the embassy about a death sentence, even one carried out [G0006]. A relative or friend reports it to the labour wing on its online form, choosing the jail problem type, or on 8001000125, and asks the mission for legal help, which no family of the two executed in 2026 had done [E0089, E0024, G0005].
+If you cause a crash that kills someone, the family can claim blood money (diya): a Riyadh court ordered an uninsured foreign driver to pay SR 300,000 per person killed and kept him in prison until he paid [SG0023]. Compulsory motor insurance pays victims up to SR 10 million, but the insurer can take that money back from a driver without the right class of licence or with an expired one [SG0020, SG0022, SG0021].
+
+#### If you or a relative is arrested
+
+The court provides an interpreter, but you can't choose your own [G0004]. Saudi authorities may not tell the embassy about a death sentence, even one carried out [G0006]. A relative or friend reports it to the labour wing on its online form, choosing the jail problem type, or on 8001000125, and asks the mission for legal help, which no family of the two executed in 2026 had done [E0089, E0024, G0005].
 
 > **Need to know**
 > - What legal help does the embassy give in practice (lawyer, visits)?
@@ -980,7 +1028,9 @@ Anyone offering to remove a huroob for a fee is a scammer; a real change shows o
 4. **Get your service certificate,** free, with your dates, job and last wage, and your papers back [C0030]. Or issue it yourself: qiwa.sa > Individual Account > Employment Certificates (Suggested Actions) > Apply Now > Service Certificate > select the job > Next Step > submit; it is approved at once for download [C0149, C0176].
 5. **The employer pays your ticket home** [C0020]. If anything is unpaid, file friendly settlement within 12 months [C0035].
 
-**Check for a travel ban before you book.** An unpaid loan, credit card, rent or a cheque given as security can bring a court travel ban of up to 3 years per order [SG0039, SG0040]. A ban shows in Absher's travel ban enquiry, and the debt case on Najiz, the Justice Ministry's portal (log in with Nafath) [SG0037, SG0038].
+#### Check for a travel ban before you book
+
+An unpaid loan, credit card, rent or a cheque given as security can bring a court travel ban of up to 3 years per order [SG0039, SG0040]. A ban shows in Absher's travel ban enquiry, and the debt case on Najiz, the Justice Ministry's portal (log in with Nafath) [SG0037, SG0038].
 
 ### Going home on leave
 
@@ -1155,7 +1205,9 @@ Compulsory for women going as domestic workers, at BMET's Technical Training Cen
    - **Advice:** Probashi call centre 16135 [E0021].
 5. **Legal help.** OKUP gives free legal advice and help filing cases: 01842773300 [A0046].
 
-**If you are sexually abused.** The labour ministry's abuse-reporting line, 1919, takes reports of physical, psychological or sexual abuse round the clock, in confidence [SG0006, SG0007]. Sex outside marriage is a crime there, and hospitals can report a pregnancy outside marriage to the police, even one from rape [SG0008].
+#### If you are sexually abused
+
+The labour ministry's abuse-reporting line, 1919, takes reports of physical, psychological or sexual abuse round the clock, in confidence [SG0006, SG0007]. Sex outside marriage is a crime there, and hospitals can report a pregnancy outside marriage to the police, even one from rape [SG0008].
 
 > **Need to know**
 > - Does the 1919 line answer in Bangla or English?
@@ -1328,7 +1380,9 @@ The visa is issued within 48 hours, valid 3 months, single entry, unchangeable a
 > - Can a refused tourist visa be appealed?
 > - Who takes a complaint about a package-visa seller?
 
-**Don't work.** Brokers sell 3-month tourist visas as jobs with a "15-month iqama"; the worker becomes illegal [D0075, D0030].
+### Don't work
+
+Brokers sell 3-month tourist visas as jobs with a "15-month iqama"; the worker becomes illegal [D0075, D0030].
 
 ## Business visit visa
 
@@ -1381,7 +1435,9 @@ Applying on [studyinsaudi.sa](https://studyinsaudi.sa/), the Ministry of Educati
 
 ## Other visas
 
-**Temporary work visa.** Requested by a Saudi employer on Qiwa (the labour ministry's work platform) for project or contract work: 90 days plus one 90-day extension, no iqama, SR 1,000 fee paid by the employer [E0065, E0066].
+### Temporary work visa
+
+Requested by a Saudi employer on Qiwa (the labour ministry's work platform) for project or contract work: 90 days plus one 90-day extension, no iqama, SR 1,000 fee paid by the employer [E0065, E0066].
 
 > **Need to know**
 > - Who finds the job for a Bangladeshi on a temporary work visa?
@@ -1389,13 +1445,17 @@ Applying on [studyinsaudi.sa](https://studyinsaudi.sa/), the Ministry of Educati
 > - What does the worker pay?
 > - What scams run on this route?
 
-**Hajj seasonal work visa.** Hajj-season work only: entry from 1 Shawwal, a 4-month stay, not renewable or convertible to a work visa, SR 1,000 entry fee [E0067].
+### Hajj seasonal work visa
+
+Hajj-season work only: entry from 1 Shawwal, a 4-month stay, not renewable or convertible to a work visa, SR 1,000 entry fee [E0067].
 
 > **Need to know**
 > - Do Bangladeshis get the Hajj seasonal work visa?
 > - Through whom do they get it?
 
-**Stopover (transit) visa.** For Saudia passengers flying through Saudi Arabia, open to Bangladeshis [E0141, E0068]. *You'll need* [E0141, E0142]:
+### Stopover (transit) visa
+
+For Saudia passengers flying through Saudi Arabia, open to Bangladeshis [E0141, E0068]. *You'll need* [E0141, E0142]:
 
 - a passport valid 6 months
 - a confirmed onward ticket
@@ -1412,13 +1472,17 @@ One stay of up to 96 hours, no extension; passport control decides entry [E0141]
 > - What is the stopover visa fee?
 > - Is any work allowed on a stopover visa?
 
-**Premium Residency.** Residence not tied to an employer, sold by the Premium Residency Center at pr.gov.sa [E0071].
+### Premium Residency
+
+Residence not tied to an employer, sold by the Premium Residency Center at pr.gov.sa [E0071].
 
 > **Need to know**
 > - What does Premium Residency cost?
 > - Who qualifies for Premium Residency?
 
-**Medical treatment visa.** For Bangladeshis without a US, UK or Schengen visa, or US, UK, EU or Gulf residence [E0069, E0070]:
+### Medical treatment visa
+
+For Bangladeshis without a US, UK or Schengen visa, or US, UK, EU or Gulf residence [E0069, E0070]:
 
 1. **Apply on ksavisa.sa** [E0069, E0070].
 2. **Then go through a visa service centre or the Saudi embassy** [E0069, E0070]. In Dhaka the visa centre is run by Tasheer (Work visa: company worker, step 5) [E0178, B0040].
@@ -1431,14 +1495,18 @@ USD 80 plus two USD 10.50 digital-service fees and the insurance, priced by the 
 
 ## Changing visa type
 
-**Visit, tourist, Umrah or business visit visa to a work iqama: not allowed.** A visit visa can't become an iqama, family visitors may not work, and an Umrah visa may not be used for work [E0054, E0056]; anyone charging to "convert" one is lying [E0054, E0055]. Working on a tourist or Umrah visa can bring jail, deportation and a 3 to 10 year ban (Going home without valid papers).
+### Visit, tourist, Umrah or business visit visa to a work iqama: not allowed
+
+A visit visa can't become an iqama, family visitors may not work, and an Umrah visa may not be used for work [E0054, E0056]; anyone charging to "convert" one is lying [E0054, E0055]. Working on a tourist or Umrah visa can bring jail, deportation and a 3 to 10 year ban (Going home without valid papers).
 
 **Seasonal work visa to an iqama: not allowed** [E0067].
 
 > **Need to know**
 > - Can a temporary work visa be converted to an iqama?
 
-**Family dependant to worker in health or education.** A spouse or mahram (a close male guardian relative) on a dependant iqama can work for a health or education employer, staying on the family sponsorship, through Ajeer ([ajeer.qiwa.sa](https://ajeer.qiwa.sa)) [E0148, E0152, E0147].
+### Family dependant to worker in health or education
+
+A spouse or mahram (a close male guardian relative) on a dependant iqama can work for a health or education employer, staying on the family sponsorship, through Ajeer ([ajeer.qiwa.sa](https://ajeer.qiwa.sa)) [E0148, E0152, E0147].
 
 1. **You'll need** [E0150, E0151, E0060]:
    - valid iqamas for you and the main worker;
@@ -1490,7 +1558,9 @@ You pay nothing: the service is free and the employer bears transfer fees; payme
 
 **Company worker to another company:** see If you want to change employer.
 
-**Job title on the iqama.** Only an employer in the platinum or green Nitaqat band can change it, on Qiwa (Change expatriate profession); it is free and takes effect at once, but a job reserved for Saudis can't be given to a foreign worker [E0048, E0049, E0050, E0137]. Since January 2026, titles including sales representative, marketing specialist and procurement manager can't be given to foreign workers this way [E0064].
+### Job title on the iqama
+
+Only an employer in the platinum or green Nitaqat band can change it, on Qiwa (Change expatriate profession); it is free and takes effect at once, but a job reserved for Saudis can't be given to a foreign worker [E0048, E0049, E0050, E0137]. Since January 2026, titles including sales representative, marketing specialist and procurement manager can't be given to foreign workers this way [E0064].
 
 > **Need to know**
 > - What can a worker do if the employer refuses to change the job title on the iqama?
@@ -1592,18 +1662,22 @@ In a deportation centre, embassy officials arrange it there [E0088].
 > - What is the OID number, and where does a worker find it?
 > - How does a worker book the appointment without a passport number?
 
-**If you are detained for deportation.** People picked up in raids have usually been held one to two weeks in a deportation centre, then flown straight home, often with nothing [SG0032, SG0033]. Wages owed can still be claimed after you leave: wage insurance if the whole company stopped paying, or a relative's application to the ministry's Welfare-1 branch (If you aren't paid, items 4 and 5) [C0177, C0122].
+### If you are detained for deportation
+
+People picked up in raids have usually been held one to two weeks in a deportation centre, then flown straight home, often with nothing [SG0032, SG0033]. Wages owed can still be claimed after you leave: wage insurance if the whole company stopped paying, or a relative's application to the ministry's Welfare-1 branch (If you aren't paid, items 4 and 5) [C0177, C0122].
 
 > **Need to know**
 > - Can a friendly-settlement claim be filed, or continued, from Bangladesh after deportation?
 
-**Grace periods.** Saudi Arabia sometimes lets people with expired visas leave without a fine; the embassy posts these on [bangladeshembassy.org.sa/notice.html](https://www.bangladeshembassy.org.sa/notice.html) [E0176, E0175]. In a past window, people whose visit, Umrah or final exit visa expired on 25 February 2026 could leave without a fine until 18 April 2026 by going to the airport with a ticket [E0087]. Until the end of 2026 an employer can regularise a work permit that expired more than 12 months ago or was never issued within 6 months of joining; cases not regularised then face legal measures [G0014, G0015, G0016].
+### Grace periods
+
+Saudi Arabia sometimes lets people with expired visas leave without a fine; the embassy posts these on [bangladeshembassy.org.sa/notice.html](https://www.bangladeshembassy.org.sa/notice.html) [E0176, E0175]. In a past window, people whose visit, Umrah or final exit visa expired on 25 February 2026 could leave without a fine until 18 April 2026 by going to the airport with a ticket [E0087]. Until the end of 2026 an employer can regularise a work permit that expired more than 12 months ago or was never issued within 6 months of joining; cases not regularised then face legal measures [G0014, G0015, G0016].
 
 > **Need to know**
 > - How does a worker check whether their case qualifies for regularisation?
 > - What can a worker do if the employer won't regularise the work permit?
 
-**A relative in Bangladesh can ask the government to bring a worker home.**
+### A relative in Bangladesh can ask the government to bring a worker home
 
 1. **You'll need** [E0005]:
    - proof the person is a migrant worker (passport, BMET smart card, iqama or work permit copies);
@@ -1670,7 +1744,9 @@ In a deportation centre, embassy officials arrange it there [E0088].
 
 **Injured or seriously ill in Saudi Arabia:** apply to the Welfare Board with BMET clearance or membership and a passport copy; free, the Board gets the embassy to bring the worker home, sometimes into hospital, and the airport desk takes them to hospital by ambulance [E0014, E0040].
 
-**Mental health.** The Saudi Health Ministry's psychological consultation line, 920033360, takes calls from anyone in Saudi Arabia, 8 am to 8 pm (Saturday from 1 pm) [SG0031]. After coming home, BRAC's Migration Programme gives counselling (Coming home) [E0111].
+### Mental health
+
+The Saudi Health Ministry's psychological consultation line, 920033360, takes calls from anyone in Saudi Arabia, 8 am to 8 pm (Saturday from 1 pm) [SG0031]. After coming home, BRAC's Migration Programme gives counselling (Coming home) [E0111].
 
 > **Need to know**
 > - Does 920033360 answer in Bangla or English?
@@ -1712,7 +1788,7 @@ Apply free at the Board, paid within 30 working days (01712-107301, jahanwewb@gm
 
 ## Coming home
 
-**Goods.**
+### Goods
 
 - Duty-free yearly: 2 used phones and 1 new; 100 g gold and 200 g silver jewellery, at most 12 pieces of one kind; 200 cigarettes; and household items such as a TV up to 29 inches [E0103, E0102].
 - Gold: up to 117 g (10 tola), or one 10-tola bar, once a year if declared, at Tk 5,000 duty per tola; more is confiscated and undeclared bars mean arrest and a criminal case [E0104, E0105].
