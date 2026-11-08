@@ -1269,3 +1269,37 @@ ria-myr-bdt-2026-11-FAILED,https://www.riamoneytransfer.com/en-nz/rates-conversi
 news-bbcbn-free-visa-story,https://www.bbc.com/bengali/articles/c8vze58mgm3o,2026-11-08,200,text/html; charset=utf-8,curl,news-bbcbn-free-visa-story.html;news-bbcbn-free-visa-story.md
 news-dsbn-mra-service-charge,https://bangla.thedailystar.net/news/bangladesh/news-554251,2026-11-08,200,text/html; charset=utf-8,curl,news-dsbn-mra-service-charge.html;news-dsbn-mra-service-charge.md
 ria-myr-bdt-2026-11,https://www.riamoneytransfer.com/en-nz/rates-conversion/?From=MYR&To=BDT&Amount=1,2026-11-08,200,,firecrawl,ria-myr-bdt-2026-11.md
+re-kalerkantho-calling-visa-explainer-2025-FAILED,https://www.kalerkantho.com/online/nrb/2025/05/12/1516426,2026-11-08,403,text/html; charset=UTF-8,curl,
+re-elahi-calling-visa-guide,https://elahioverseaslimited.com/calling-visa/,2026-11-08,200,text/html; charset=UTF-8,curl,re-elahi-calling-visa-guide.html;re-elahi-calling-visa-guide.md
+re-migrantimes-turap-ai-2026-07,https://migrantimes.com/platforms-infrastructure/31-07-2026/malaysia-to-use-ai-platform-to-reform-foreign-worker-recruitment,2026-11-08,200,text/html,curl,re-migrantimes-turap-ai-2026-07.html;re-migrantimes-turap-ai-2026-07.md
+re-edge-mps-pause-turap,https://theedgemalaysia.com/node/808650,2026-11-08,200,text/html; charset=utf-8,curl,re-edge-mps-pause-turap.html;re-edge-mps-pause-turap.md
+re-st-turap-studying,https://www.straitstimes.com/asia/se-asia/malaysia-says-its-studying-new-migrant-worker-hiring-system,2026-11-08,200,text/html; charset=utf-8,curl,re-st-turap-studying.html;re-st-turap-studying.md
+re-mahersaham-turap,https://mahersaham.com/blogs/fwcms-niise-turap-malaysia-foreign-worker-system,2026-11-08,200,text/html; charset=utf-8,curl,re-mahersaham-turap.html;re-mahersaham-turap.md
+re-dailysun-12-countries-approval-2026-11-FAILED,https://www.daily-sun.com/bangladesh/907309/govt-approval-required-for-sending-workers-to-12-countries,2026-11-08,403,text/html; charset=UTF-8,curl,
+re-rtv-12-countries-2026-11,https://rtvonline.com/english/bangladesh/277466,2026-11-08,200,text/html; charset=UTF-8,curl,re-rtv-12-countries-2026-11.html;re-rtv-12-countries-2026-11.md
+re-bbcbn-sold-2-lakh,https://www.bbc.com/bengali/articles/cq5n5nx5jvgo,2026-11-08,200,text/html; charset=utf-8,curl,re-bbcbn-sold-2-lakh.html;re-bbcbn-sold-2-lakh.md
+re-dhakapost-dalal-death-FAILED,https://www.dhakapost.com/country/434306,2026-11-08,403,text/html; charset=UTF-8,curl,
+re-appj-bd-construction-malaysia-FAILED,https://www.unescap.org/sites/default/files/APPJ-Vol-16-No-1.pdf,2026-11-08,403,text/html; charset=UTF-8,curl,
+re-iium-bd-workers-socio,https://irep.iium.edu.my/43665/1/Paper_for_South_Asian_Anth.pdf,2026-11-08,200,application/pdf,curl,re-iium-bd-workers-socio.pdf;re-iium-bd-workers-socio.txt
+re-verite-ffact-en-2024,https://verite.org/wp-content/uploads/2024/05/FFACT-BD-final-report-bangla.pdf,2026-11-08,200,application/pdf,curl,re-verite-ffact-en-2024.pdf;re-verite-ffact-en-2024.txt
+rf-tbs-bbs-scm-2023-brokers,https://www.tbsnews.net/bangladesh/migration/migration-cost-soars-52-workers-rely-brokers-go-abroad-bbs-872541,2026-11-08,200,text/html; charset=utf-8,curl,rf-tbs-bbs-scm-2023-brokers.html;rf-tbs-bbs-scm-2023-brokers.md
+rf-rmmru-trends-2023,https://www.rmmru.org/newsite/wp-content/uploads/2024/07/Trends-Report-2023.pdf,2026-11-08,200,application/pdf,curl,rf-rmmru-trends-2023.pdf;rf-rmmru-trends-2023.txt
+rf-yale-g2g-visa-lottery-FAILED,https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2083&context=egcenter-discussion-paper-series,2026-11-08,403,text/html; charset=UTF-8,curl,
+rf-jandc-labour-migration-2023,https://justiceandcare.org/app/uploads/2023/07/Justice-and-Care-Issue-Brief-Labour-migration-Bangladesh_June23.pdf,2026-11-08,200,application/pdf,curl,rf-jandc-labour-migration-2023.pdf;rf-jandc-labour-migration-2023.txt
+rf-yale-g2g-visa-lottery,https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=2083&context=egcenter-discussion-paper-series,2026-11-08,200,,firecrawl,rf-yale-g2g-visa-lottery.md
+re-seas-decommercialization-2020,https://englishkyoto-seas.org/wp-content/uploads/SEAS0901_Low.pdf,2026-11-08,200,application/pdf,curl,re-seas-decommercialization-2020.pdf;re-seas-decommercialization-2020.txt
+rf-ilo-decent-work-bd-2008,https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@integration/documents/publication/wcms_079174.pdf,2026-11-08,200,application/pdf,curl,rf-ilo-decent-work-bd-2008.pdf;rf-ilo-decent-work-bd-2008.txt
+rf-ituc-monitoring-recruitment-bd-FAILED,https://www.ituc-csi.org/IMG/pdf/mra_bangladesh_v7.pdf,2026-11-08,403,text/html; charset=UTF-8,curl,
+rf-wb-low-skilled-bd-case,https://thedocs.worldbank.org/en/doc/3ab0cffdc2e4621f8b5a70a0410213d5-0050062023/original/Bangladesh-case-study-FORMATTED.pdf,2026-11-08,200,application/pdf,curl,rf-wb-low-skilled-bd-case.pdf;rf-wb-low-skilled-bd-case.txt
+rf-bonikbarta-visa-trade-market,https://www.bonikbarta.com/bangladesh/GDWEXnJb9nZAt5on,2026-11-08,200,text/html,curl,rf-bonikbarta-visa-trade-market.html;rf-bonikbarta-visa-trade-market.md
+rf-iom-mapping-recruitment-page-FAILED,https://bangladesh.iom.int/resources/mapping-labour-migration-recruitment-practices-bangladesh,2026-11-08,403,text/html,curl,
+re-bloomberg-everyone-cut-2026,https://www.bloomberg.com/features/2026-bangladesh-malaysia-migrants/,2026-11-08,200,,firecrawl,re-bloomberg-everyone-cut-2026.md
+re-yt-nazifa-calling-visa-companies,https://www.youtube.com/watch?v=SwYOFAvRHic,2026-11-08,200,,firecrawl,re-yt-nazifa-calling-visa-companies.md
+rf-popcouncil-migration-systems-bd-FAILED,https://knowledgecommons.popcouncil.org/cgi/viewcontent.cgi?article=2797&context=departments_sbsr-pgy,2026-11-08,403,text/html; charset=UTF-8,curl,
+rf-popcouncil-migration-systems-bd,https://knowledgecommons.popcouncil.org/cgi/viewcontent.cgi?article=2797&context=departments_sbsr-pgy,2026-11-08,200,,firecrawl,rf-popcouncil-migration-systems-bd.md
+rf-jugantor-calling-visa-sale-FAILED,https://www.jugantor.com/international/1149690,2026-11-08,403,text/html; charset=UTF-8,curl,
+rf-bbcbn-malaysia-cost-cut,https://www.bbc.com/bengali/articles/cy0zekryey1o,2026-11-08,200,text/html; charset=utf-8,curl,rf-bbcbn-malaysia-cost-cut.html;rf-bbcbn-malaysia-cost-cut.md
+rf-dstar-lowering-costs-migration,https://www.thedailystar.net/drivers-economy/lowering-the-costs-migration-1364815,2026-11-08,200,text/html; charset=utf-8,curl,rf-dstar-lowering-costs-migration.html;rf-dstar-lowering-costs-migration.md
+rf-wb-institutional-assessment-2018,https://documents1.worldbank.org/curated/en/446181539106128109/pdf/Institutional-assessment-of-Bangladesh-migration-system.pdf,2026-11-08,200,application/pdf;charset=utf-8,curl,rf-wb-institutional-assessment-2018.pdf;rf-wb-institutional-assessment-2018.txt
+rf-ituc-monitoring-recruitment-bd,https://www.ituc-csi.org/IMG/pdf/mra_bangladesh_v7.pdf,2026-11-08,200,,firecrawl,rf-ituc-monitoring-recruitment-bd.md
+rg-bdlaws-2013-act-full,http://bdlaws.minlaw.gov.bd/act-details-1131.html,2026-11-08,200,text/html;charset=UTF-16,curl,rg-bdlaws-2013-act-full.html;rg-bdlaws-2013-act-full.md

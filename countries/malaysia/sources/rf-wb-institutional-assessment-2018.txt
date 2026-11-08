@@ -1,0 +1,1361 @@
+Public Disclosure Authorized
+                                            Institutional Assessment of Migration Systems in Bangladesh
+
+                                      Initial findings meant to inform future areas for Bank support on policy
+                                                              reforms/capacity building
+
+
+
+
+Public Disclosure Authorized
+                               Introduction
+
+                               International labor migration is becoming an increasingly important employment strategy for developing
+                               countries. Labor surpluses and youth bulges paired with insufficient domestic job creation mean that for
+                               many countries, access to foreign labor markets is the only immediate answer to avoiding a significant
+                               increase in unemployment. Fortunately, labor shortages in many traditional receiving countries are likely
+                               to prompt increased openness of these markets for workers from developing countries. As recent events
+                               have made clear, however, policy and institutions have not kept pace with this changing reality. While
+                               increasing mobility creates huge potential increases in global welfare, accessing these gains requires
+
+
+
+
+Public Disclosure Authorized
+                               careful management and facilitation of labor flows to avoid low-level (dis-) equilibria or, put differently,
+                               to maximize the potential gains of migration for the sending country, migrants, and receiving country
+                               (Holzmann and Pouget 2010). Sending countries will need to design labor-sending systems that balance
+                               increased mobility with protection throughout the entire migration process, while ensuring that supply
+                               and demand for specific skills are matched.
+
+                               Since the 1980s, Bangladesh has been an increasingly important source country in international flows of
+                               contract labor migration. While the primary destinations for Bangladeshi migrants have historically been
+                               the Arab Gulf states, particularly members of the Gulf Cooperation Council (GCC), international labor
+                               migration from Bangladesh began to expand in the 1990s beyond the GCC states, however, to include a
+                               wider range of countries including Japan, Lebanon, Malaysia, Mauritius, Singapore, and South Korea. The
+                               annual flow of Bangladeshis in search of employment overseas increased fourfold – from around 248,000
+
+
+
+
+Public Disclosure Authorized
+                               in 1999-2000 to more than 980,000 in 2007-2008.
+
+                               As labor migration becomes increasingly important to the economy of Bangladesh, so too do the
+                               institutions managing migration. These include institutions governing the processes by which workers are
+                               recruited and employed abroad, the protections they receive while abroad, and support they receive upon
+                               their return home. These institutions are not only crucial to the well-being of workers; strong institutions
+                               are essential to accessing the economic gains of migration. A close look at Bangladesh’s migration system
+                               will provide the Government of Bangladesh with the necessary tools to improve existing corridors and
+                               increase access to labor markets that are just beginning to open up to Bangladeshi workers.
+
+                               Fully functioning labor sending systems include four key pillars: (1) the Framework for Access, legal
+                               frameworks and international agreements allowing for the movement of labor between countries; (2)
+
+                                                                                                                                  Page | 1
+Facilitating Access, tools for labor intermediation to help workers through the difficult process of
+identifying and obtaining jobs overseas; (3) Fortifying Access, protection mechanisms and support services
+that mitigate risks of migration for workers; and (4) Furthering Access, which creates institutions to expand
+and diversify foreign market access via upskilling and moving up the labor value chain. Underlying these
+pillars are foundational themes of administrative capacity/efficiency and cross-border alignment of
+institutions to ensure that supply is meeting demand.
+
+
+
+
+This paper applies this structure to an assessment of the existing labor sending system in Bangladesh.
+Section I provides a quick overview of existing migrant flows from Bangladesh, key push and pull factors,
+and the migration of women in particular. Section II provides background on the Framework for Access,
+including existing Bangladeshi laws addressing migration including bilateral agreements and domestic
+policies and key government institutions in charge of setting migration policy and regulating migration.
+Section III explores the existing processes for Facilitating Access, focusing in particular on the private
+recruitment process. Section IV looks at current efforts on the part of GoB for Fortifying Access through
+protecting and improving migrant welfare, and Section V explores Furthering Access via training
+mechanisms for overseas employment. Finally Section VI offers recommendations for addressing gaps in
+the institutional structure moving forward.
+
+
+
+
+                                                                                                    Page | 2
+I. Context
+
+Numbers
+
+In 2016 in the Seventh Five Year Plan, GoB estimated that there are almost 9 million Bangladeshi migrant
+workers in 160 countries. The share of skilled and semi-skilled migrant workers increased from 28.42% in
+2010 to 53.79% in 2014. Moreover, the share of migrant workers in lagging regions also increased from
+13.43% in 2010 to 20.53% in 2014. The share of female migrant workers has increased from 7.09% in 2010
+to 17.86% in 2014
+
+According to BMET, there are currently Bangladeshi migrants in 160 countries; however, 92% of these
+migrants exist in 9 key receiving countries with very small flows to the remaining countries. Short-term
+contract labor migration is the most common form of migration from Bangladesh. Saudi Arabia, UAE,
+Kuwait, Qatar, Oman, Iraq, Libya, Bahrain, Iran, Malaysia, South Korea, Singapore, Hong Kong and Brunei
+are some of the major countries of destination. Saudi Arabia is largest recipient and accounts for nearly
+one half of Bangladeshi migrants, with UAE coming in second.
+
+The importance of accessing overseas job opportunities for Bangladeshi workers is high and growing.
+Despite impressive GDP per capita growth in recent years, jobs remain a critical concern in the country:
+the labor force is growing by 3.1 percent per annum—which is 1.3 times the South Asian average and 1.7
+times the global average. This implies that 21 million people are projected to enter the working age
+population and 2.1 million are projected to enter the labor market per year over the next decade).1 These
+will mainly be youth coming of working age, which is of particular concern as the 2013 Labor Force Survey
+revealed that unemployment is much higher among those 15-29 years old compared to other age groups.
+As such, access to employment via international labor markets will only increase in importance in the
+coming years.
+
+The coming years are likely to see a rapid expansion of migration from Bangladesh as labor markets
+continue to open to Bangladeshi workers. In August 2014, Malaysia announced it resume would hire
+Bangladeshi workers in all sectors of the country, which had for a period of time been restricted to the
+forest sector, in addition to legalizing the stay and work of 267,800 unauthorized Bangladeshi workers. In
+October 2014, United Arab Emirates (UAE) announced that it would open discussions with Bangladesh for
+recruiting Bangladeshi workers which ceased in 2012, and towards this end posted a labor attaché at its
+embassy in Dhaka. In December 2014, Kuwait, which was until a 206 ban was one of the largest markets
+for Bangladeshi migrant workers, announced that it would resume hiring workers from Bangladesh.2
+In February 2015, Saudi Arabia announced that it was lifting a seven-year ban implemented in 2008 on
+the recruitment of Bangladeshi workers and to that end worked closely with GoB to prepare for resuming
+recruitment in May 2015. However, the focus of this reopening was almost exclusively on hiring female
+domestic workers. At the time of writing, the Saudi recruitment guidelines stated that the ratio of male
+
+
+
+1
+    CPF for Bangladesh 2016
+2
+    Interview with BMET
+
+                                                                                                 Page | 3
+to female Bangladeshi workers from each recruitment agency could not exceed 1:1 until the recruiter had
+provided 200 female workers (which has proven for most to be a difficult feat).
+However, recent declines in oil prices as well as efforts to incentivize hiring more national over foreign
+workers (so called Saudization/Emiratization agendas) threaten to undermine employment opportunities
+in the GCC. These forces, combined with low remuneration and reported abuse, create a powerful
+argument for policy intervention in two key areas: finding mechanisms for improving the processes that
+can increase remuneration and reduce abuse; while also expanding access to current receiving markets
+and diversifying to other destination markets which are also experiencing labor shortages. Further, while
+Bangladeshi workers have certain natural advantages in foreign labor markets (particularly in the GCC),
+they will face competition from other major labor-source countries which are also looking outwards and
+advantage of labor demand in overseas markets.
+
+The high concentration of Bangladeshi workers in a few overseas labor markets, as well as the
+concentration at the lower end of the skill distribution, make out migration from Bangladesh more
+vulnerable to changes in either market conditions abroad or diplomatic relations. The reopening of several
+corridors as described above provides a unique opportunity for diversifying access to foreign labor
+markets. Some new markets are also beginning to express interest in hiring Bangladeshi workers. For
+example, Russia is looking to hire workers in the garment industry. A delegation from BMET went to
+Moscow in spring 2016 and intended to begin sending workers by July.
+
+Factors in Migrant Flows
+
+The largest factor in the decision to migrate is the desire to improve economic well-being. In a 2013 survey
+by the Asia Foundation of Bangladeshi aspiring migrants, 84% respondents focused on economic factors,
+including the wish to attain financial solvency (44%), increase their income and savings (14%), escape poor
+economic conditions (9%), escape unemployment at home (15%), and related factors (5%). 12% stated
+that they simply sought better economic opportunities than the ones they currently had in Bangladesh.
+Non-economic factors were less prevalent, but included adverse conditions at home (3%), favorable
+conditions or family abroad (1%), or inducement by family members and friends (1%).
+
+The same survey asked aspiring migrants about their current occupation. 31% reported that they were
+currently unemployed, while 22% were engaged in some form of business enterprise, 16% worked in
+agriculture, and 13% were unskilled laborers. Bangladeshi migrants tend to come from the lower end of
+the skill distribution – For example, in the Saudi case, 75% of the Bangladeshi migrant workers employed
+were less-skilled; 4% were semi-skilled, and 21% were skilled. As such they generally seek jobs abroad in
+industries such as construction, domestic work, gardening, etc.
+
+It is important to note that while higher incomes were the key factor in the decision to migrate, in many
+cases migrants lack an accurate estimate of their potential earnings in the host country. For example in
+Saudi Arabia, although 57.2% of the aspiring Bangladeshi migrants expected to make salaries ranging from
+$244 to $488 per month, in reality, 62.7% of the workers actually earned a salary ranging from $61 to
+$244. Only 14.6% of migrants had expected their salary in Saudi Arabia to be that low. This indicates a
+
+
+                                                                                                   Page | 4
+large gap between salary expectation and actual salary earned for Bangladeshi migrants, which would
+distort their decision making process and speaks to a need for increased access to information on salaries.
+
+Female Migration
+
+In recent years, the portion of female workers in terms of total migrant flow from Bangladesh has
+increased at an increasing rate. In 2002, according to Bureau of Manpower Employment and Training
+(BMET) records, women workers constituted 0.54% of the total number of Bangladeshi workers who
+migrated overseas in that year. This share increase to 6.14% in 2012 and 13% in 2013. In the Saudi context
+in particular, this trend is likely to continue as Indonesia, Nepal, Sri Lanka, and the Philippines have placed
+bans on their female citizens migrating to Saudi Arabia for employment. Under the Seventh Five Year Plan,
+GoB has set a goal to increase the share of female migrant workers from 17.86% in 2014 to 30% in 2020.
+
+Female migration has a complicated institutional history in Bangladesh. From 1981 to 1998, GoB
+repeatedly banned or restricted the outflow of less-skilled women (factoring into migrant women workers
+making up just 1% of the total flow of registered migrants up through 2003). In 2003, GoB eased the
+restrictions on the migration of unskilled and semi-skilled women over 35. However, those under 35 are
+still restricted from migrating on their own. Women must also be at least 25 years of age to qualify as
+overseas migrant workers.
+
+These bans and restrictions have likely led to underreporting of female migration from Bangladesh. The
+International Organization for Migration (IOM) and the United Nations International Research and
+Training Institute for the Advancement of Women (INSTRAW) (2000) and Siddiqui (2001) estimated that
+the number of female migrants might be 10 to 50 times more than the official figures.
+
+Only 40% of migrant women workers are estimated to migrate through recruitment agencies, while the
+remaining 60% head abroad with the help of relatives and friends who reside in destination countries.
+Women who migrated through the assistance of an overseas relative report feeling more security in their
+migration process and were also better informed about life and work abroad.
+
+Women face far greater danger of physical and sexual violence in the host country, which may necessitate
+new or expanded institutions for their protection. Domestic workers, in particular, are at risk of physical,
+sexual, and emotional abuses, including rape, confinement, underpayment or non-payment of wages, as
+well as a range of other abuses, since their living and working conditions are entirely dependent on the
+personal relationship between the worker and the employer. In one study of 150 Bangladeshi returning
+migrant women, 70 (47%) had their passport taken from them and withheld while abroad (Siddiqui,
+2001).The kafala (sponsorship) in the GCC also makes it more difficult to exit abusive situations as workers
+are tied to their employer and cannot remain in the country if they leave their employer (Thimothy &
+Sasikumar, 2012).
+
+For women preparing to go abroad, an ILO 2014 survey noted that securing childcare arrangements at
+home is a major concern. In most cases, the migrant women’s mothers took the children into their homes
+
+
+
+                                                                                                      Page | 5
+to provide care. However, this may become more complicated as the scale of female migration increases
+and may require new solutions.
+
+The reopening of the Saudi corridor is at present focused almost exclusively on female migration. Saudi
+employers need 30,000 domestic workers by Ramadan; however, at the time BMET had only been able
+to access data for 3,000 female workers. Recruiters attributed the low response rate to the unfavorable
+terms offered by Saudi employers – 800 riyals plus 200 riyals per weekend worked, notably less than is
+paid in other GCC countries. By spring 2016 as a result of this initiative, recruiters reported that between
+48000-50000 female workers had gone abroad. However, news agencies from Saudi stated that large
+portions of these flows quickly returned to Bangladesh.
+
+Recruiters also note that in addition to all of the unique issues and concerns associated with female
+migration, it is also significantly less profitable for them than male migration. This is due primarily to the
+lower wages, and as such associated recruitment fees, offered for female workers. Recruiters also claim
+that females have a higher rate of return, the cost of which is theoretically born by the recruiter and
+therefore drives down their profits. In the current system, recruiters are responsible for paying the cost
+of migrant return. This applies not only to return at the end of a contract, but also to return of workers
+who wish to break contract, as in the case of abuse or mistreatment. This puts the recruiters in a position
+where they can refuse to cover the cost of return for a worker whose claims of abuse they believe to be
+false. As a result, recruiters must deposit a larger amount to recruit female workers as opposed to male
+(30 lakh BDT versus 15 lakh BDT). This is to be able to better provide for their return in case of adverse
+scenarios. This deposit is forfeited into the welfare fund if the recruiter refuses to pay for the female
+worker’s return home.
+
+
+
+
+                                                                                                     Page | 6
+II. Framework for Access
+
+The Framework for Access includes all documents and agreements that provide the legal structure
+governing the movement of workers between two countries. These frameworks govern terms of
+admission into the country, access to the labor market, access to safety nets, and rights and protections
+throughout the migrant’s stay in the host country. It also includes the primary government institutions
+responsible for managing migration on the side of the sending country.
+
+Laws and Policies
+The first law to regulate migration and recruitment in Bangladesh was the Emigration Act of 1922, which
+was replaced by the Emigration Ordinance of 1982. The key standing laws on migration within Bangladesh
+today are: the Recruiting Agents Code of Conduct and License Rules of 2002, the Overseas Employment
+Policy of 2006, the Sixth Fifth Year Plan of 2011, and the Overseas Employment and Migrants’ Act of 2013.
+
+Bilateral Agreements
+Labor agreements are the primary vehicle through which legal frameworks governing movement of
+workers are established. While multilateral labor agreements do exist (such as those found in ECOWAS,
+MERCOSUR, and recently ASEAN to a limited extent),3 the overwhelming majority are bilateral; as of 2004,
+OECD4 countries had negotiated more than 170 bilateral labor agreements (BLAs) (OECD 2004). BLAs may
+be formal treaties, or more commonly, less formal memorandum of understanding (MOUs). For example,
+rather than creating a legal relationship between parties, BLAs in the Pacific document negotiated
+agreements between Pacific governments and Australia or New Zealand on policy, principles, roles, and
+relationships necessary for managing labor migration and achieving agreement on practical matters for
+managing labor migration (Luthria and Malaulau 2013). MOUs are not legally binding, and as such their
+effectiveness depends highly on how they are implemented and enforced in practice. Sending countries
+can do little on their end if receiving countries do not want to enter into or implement an MOU. As such,
+they involve greater uncertainty for sending countries but also offer greater structure and legitimacy to
+labor flows.
+
+Successive Bangladesh governments have sent high-level delegations to various labor-receiving states to
+negotiate such agreements. However, there has been a general reluctance among labor-receiving
+countries to sign BLAs or MOUs with Bangladesh that are legally binding. Bangladesh has existing MOUs
+with Malaysia (2003/2006/2016), UAE (2007), South Korea (2007), Republic of Korea (2007), Qatar
+(1988/2008), Kuwait (2000/2008), Oman (2008), Libya (2008), and the Maldives (2011). It also has two
+bilateral labor agreements: Kuwait (2000/2008) and South Korea (2007).
+
+Because the vast majority of its agreements with labor-receiving countries are not legally binding, the
+Bangladesh government has developed a set of minimum standards for its overseas workers. These
+include wage scales, working and living conditions, gratuity, medical facility, and compensation. For
+
+
+3
+  ECOWAS = Economic Community of West African States ; MERCOSUR = Mercado Común del Sur; and ASEAN =
+Association of Southeast Asian Nations.
+4
+  Organisation for Economic Co-operation and Development.
+
+                                                                                                Page | 7
+instance, Bangladeshis going to the United Arab Emirates must receive a monthly salary of AED 600 (USD
+163) if food is included; otherwise the minimum is AED 750 (USD 240). When an understanding is reached
+with any country for sending labor, the Bangladesh government then hands over the set of standards with
+the implicit understanding that the receiving country will honor it. However, this does not place the
+country concerned under any legal obligation.
+
+The current MOUs were negotiated in the context of large power differentials between Bangladesh and
+the receiving country. This can be seen both in the case of the recent reopening of the Saudi corridor and
+the G2G with Malaysia. In the Saudi case, the minimum wage that was finally agreed upon in the MOU of
+800 riyals was well below the Bangladeshi term of 1200 riyals, the result being a shortage of workers
+based on weak recruitment on the Bangladeshi side and pressure on the Saudi side for increased supply
+of workers. In the Malaysia context, the power differential manifested in the slow processing time on
+Malaysia’s part of passports and visas. Passports, which are supposed to take 24 hours to process, are
+being returned by the Malaysia embassy in 20 days, and visas have taken in some cases up to a year and
+a half to process.5 However, a new agreement has been reached with Malaysia which will allow for larger
+numbers to go through this channel. It will also be administerd through newly-developed web-based
+mechanisms, which should streamline many of the procedures which caused delays in the first G2G.
+
+Overseas Employment Policy (2006)
+The Overseas Employment Policy of 2006 was developed to enable GoB to extend assistance to all
+Bangladeshi citizens in the process of choosing standard employment and protect migrant welfare. The
+intention of this policy was to work on reducing irregular flows and increasing the scope of regular
+migration. It focuses on protecting rights and safety for workers while abroad as well as the social
+protection of families who remained behind. It also strengthened focus on preventing misconduct in the
+recruitment process, and aimed to provide allocation of necessary resources to strengthen the existing
+institutional infrastructure and personnel for the implementation of the policy.
+
+The capacity building for implementation of the OEP focused on informing and training aspirant migrant
+workers to compete in global markets, providing support and advocacy for migrants while abroad, and
+negotiating fair contracts and bilateral agreements. However, while the policy was in place for many years,
+there was never any comprehensive action place developed towards its implementation. Individual
+sections were implemented in an ad hoc fashion with no monitoring or evaluation put in place. As a result,
+the OEP was revised and formalized in 2013, leading to the Overseas Employment and Migrants’ Act.
+
+Overseas Employment and Migrants Act (2013)
+The Overseas Employment and Migrants’ Act of 2013 is the result of modifications made to the Overseas
+Employment Policy of 2006. Its primary contributions come in the form of regulations of the recruitment
+process. Section 9 of the law lays down the list of professional background- and conduct related
+documents that must be submitted by an applicant wishing to apply for a license to recruit for the
+international labor market. This section makes it mandatory that only a license-holder can be a
+recruitment agent and thereby it renders all intermediaries and sub-agents of the agents illegal. Section
+
+5
+    Interview with BMET representative.
+
+                                                                                                  Page | 8
+9 requires the government to investigate an applicant’s past conduct before issuing a license. It also
+requires the government to charge a license fee to the applicant in exchange for issuing a recruitment
+agent license.
+
+Section 10 of the Migrants’ Act 2013 puts forth eligibility criteria for potential recruiters. This section sets
+the way for the international recruitment organizations to obtain a recruitment agent license and to
+operate from Bangladesh, if 60% of shares in or capital ownership of that organization is with Bangladeshi
+nationals. Whether issued to an individual or to an organization, the recruitment license is non-
+transferable. Similarly, a license-holding company is required to seek the approval of the government
+before making any change in the ownership pattern.
+
+In order to ensure monitoring of recruitment agents, Section 11 of the law clarifies that the recruitment
+license is renewable but valid for a period of three years at a time. Section 13 of the Migrants’ Act lays
+down the conditions or reasons that may lead to cancellation or suspension of the license. Under Sections
+14, recruitment agents are permitted to open branch offices, a permission intended to undermine the
+role of dalals and regional intermediaries in the recruitment process. However, branch offices are
+considered financially unviable, so this change in the statute is unlikely to significantly impact existing
+recruitment structures.
+
+Section 15 lays down the duties of recruitment agents to ensure safe migration and protection of the
+workers’ interests. Section 16 places a responsibility on the government to establish a performance-based
+grading system for the classification of recruitment agents, which was established with support from the
+IOM.
+
+However, while final outcomes are yet to be seen, there a significant concerns around GoB’s ability to
+enforce the Act. As of 2014, BAIRA was refusing to agree to the terms set out in the Act regarding
+recruitment practices. BAIRA’s stated concern is that the law could be compromised by officials who
+would oversee implementation, and that the categorization and ranking of recruitment agencies may fall
+under the influence of bribes. To our knowledge this dispute has not yet been resolved, but could certainly
+undermine GoB’s attempts at reforming the recruitment industry
+
+Five Year Plans
+Overseas employment was also, on a higher order level, brought into the national growth strategy via the
+Sixth Five Year Plan (published in 2011). This policy framework focuses specifically on increasing the skills
+of overseas workers. While the current overseas employment strategy focuses on sending low skilled
+manpower; the new strategy will focus on sending semi‐skilled and skilled manpower to existing as well
+as new destinations. Specifically, the goal of the new strategy is to increase overseas employment of
+skilled labor from 35% to 50% of the overseas workforce. In the Seventh Five Year Plan (published in 2016),
+the status of migration was raised to a primary goal under the plan for boosting the services sector. This
+plan contains very ambitious goals for continued upskilling of the Bangladeshi migrant population and
+diversification of access to foreign labor markets. As yet it is not clear what steps have been taken towards
+its implementation as the plan was only recently enacted.
+
+
+                                                                                                       Page | 9
+.
+
+
+
+
+    Page | 10
+Government Institutions
+There are five key government ministries in Bangladesh which deal with international labor migration: the
+Ministry of Expatriates’ Welfare and Overseas Employment (MEWOE); the Ministry of Home Affairs; the
+Ministry of Foreign Affairs; the Ministry of Finance; and the Ministry of Civil Aviation and Tourism.
+
+Ministry of Expatriates’ Welfare and Overseas Employment
+In 2002, GoB created a new ministry – the Ministry of Expatriates’ Welfare and Overseas Employment
+(MEWOE) – and transferred to it functions previously performed by the Bureau of Manpower,
+Employment and Training within the Ministry of Labor. MEWOE is responsible for implementing the rules
+framed in 2002 under the Emigration Ordinance 1982 and now the 2013 Overseas Employment and
+Migrants Act. Three entities exist under MEWOE: the Bureau of Manpower, Employment, and Training
+(BMET), The Wage Earners Welfare Board, and Probashi Kallyan Bank (PKB).
+
+Its activities are concentrated in two broad areas: firstly, to create overseas employment opportunities
+and secondly, to address problems experienced by expatriates and to ensure their welfare. More specific
+functions include:
+
+    •   Exploring foreign employment opportunities and markets by negotiating and signing agreements
+        and MOUs with migration related international organizations and governments of receiving
+        countries;
+    •   To provide comprehensive training and modernize the overall training system to create a skilled
+        labor force as per the needs of the foreign labor markets;
+    •   To take measures to bring back the dead bodies of the migrant workers and extend financial aid
+        to the families of the deceased workers, take care of afflicted migrant workers, provide
+        scholarships to the children of migrant workers through Wage Earners’ Welfare Fund and to
+        undertake other welfare activities for the migrant workers; and
+    •   Providing for the protection of workers while abroad by administering labor wings of diplomatic
+        missions and addressing complaints of migrant workers.
+
+MEWOE has a strong reputation within the government for being notably goal-oriented and high capacity
+in its leadership positions. However, the ministry suffers from severe resource shortages. MEWOE and its
+line agencies face a shortage of human resources as well as inadequate infrastructure. These issues
+undermine its capacity to adequately provide some of its key functions.
+
+According to IOM representatives, MEWOE’s main weakness is a lack of coordination with other
+ministries. While migration is a multidisciplinary issue and touches on the mandate of many different
+ministries (such as the Ministry of Labor, Ministry of Education, etc) MEWOE appears to lack strong
+connections and cooperation with these ministries. In particular, while the Ministry of Foreign Affairs and
+MEWOE are co-chairs of the Global Forum on Migration and Development currently, there appear to be
+difficulties in coordination and cooperation. In this same vein, there is difficulty in coordinating collection
+of data on return migrants by the Immigration Police at the airports. As a result, attempts to establish a
+return database have been unsuccessful, leaving MEWOE with no information on what migrants have
+
+
+                                                                                                     Page | 11
+returned to the country. The Prime Minister has proposed a new committee which would convene
+relevant ministries on migration policy to achieve better cooperation; however, this committee has not
+yet been formed.
+
+Bureau of Manpower, Employment, and Training
+The Bureau of Manpower, Employment, and Training is the executing agency of the Ministry of
+Expatriates’ Welfare and Overseas Employment in respect to processing labor migration. BMET was
+created in 1976 by the Government to ensure maximum benefit from labor migration to the national
+economy. Since the Emigration Ordinance of 1982, it has been working as the implementing agency of the
+Ordinance. It is responsible for regulating the entire migration process and is engaged for overall planning
+and implementation of the strategies for proper utilization of manpower of the country. Currently BMET
+is responsible for a wide range of functions including: regulating and licensing recruiting agencies;
+collection and analysis of labor market information; registration and clearance of job seekers for local and
+foreign employment; development and implementation of training programs in response to specific labor
+needs both in the national and international labor market; development of apprentice and in-plant
+programs within existing industries; organizing pre-departure briefing sessions as well as several technical
+training programs; and resolving legal disputes. BMET is also beginning to conduct market research for
+ten key receiving countries with the help of ILO; however, there is currently no systematic permanent
+mechanism in place for conducting this research. BMET performs a wide array of functions, but does so
+with very constrained monetary and personnel resources. This limits its ability to function at a high level,
+despite admirable efforts on the part of its staff.
+
+
+
+
+                                                                                                  Page | 12
+III. Facilitating Access
+
+Institutions to overcome information asymmetries and match labor supply and demand are widely
+acknowledged as a crucial element of domestic employment strategies. Overseas labor markets typically
+involve far greater challenges in terms of identifying jobs, matching workers with vacancies, and reducing
+information asymmetries. As such, to increase employment abroad, countries need to develop ALMPs
+that strengthen labor intermediation and recruitment to international markets. The labor intermediation
+and recruitment process is crucial to migration outcomes in terms of income impacts, employment
+outcomes, and migrant welfare. In a competitive environment, a transparent job intermediation process
+will require adherence to a common set of agreed operational frameworks on the part of both public and
+private stakeholders. Thus a system that allows for both coordination and oversight between these
+stakeholders must be in place to ensure the positive participation of private recruiting agencies. Enhancing
+the governance of this system, either via new institutions for governing labor intermediation or
+innovations in the recruitment industry, can lead to improved employment outcomes for migrants and
+enhanced access to potential labor markets.
+
+Bangladesh currently has a mix of private and public recruitment systems which connect workers with
+overseas employment. District Employment Manpower Offices serve as a centralized location for workers
+to find information about overseas employment and register in the BMET database. On the public
+recruitment side, BMET is responsible for all recruitment through G2G agreements (such as those with
+Malaysia and possibly emerging with the Maldives), and the Bangadesh Overseas Employment Services
+Limited conducts recruitment for small batches of more skilled workers. On the private recruitment side,
+private recruiters, dalals, and family members often act in a chain to find overseas employment.
+
+Public Employment Services
+
+District Employment Manpower Offices
+In recent years, MEWOE and BMET have diversified geographically in an effort to be more accessible to
+potential migrants. 42 District Employment Manpower Offices (DEMOs) have been established, and the
+direction is towards setting up DEMOs in every district of Bangladesh. Under the Seventh Five Year Plan,
+the goal is to establish 68 DEMOs and four divisional offices in order to expand access to overseas
+employment in more isolated, lagging areas. However, the existing DEMOs currently need more technical
+staff and community outreach staff in order to accomplish their objective of connecting workers with
+overseas employment. It is not clear whether both objectives can be accomplished at the same time, or
+whether MEWOE should focus on
+
+Bangladesh Overseas Employment Services Limited
+Established by GoB in 1984, BOESL is the only State-owned overseas recruitment company in Bangladesh.
+It operates as a private run company, but the majority of shares are owned by the Government of
+Bangladesh. Its purpose is to take on a direct recruitment role, in order to create competition with private
+recruiters and drive sown the cost of recruitment. One of the main objectives of the institution is to
+minimize recruitment and migration cost through the provision of services for migrant workers under a
+
+
+                                                                                                  Page | 13
+“no profit, no loss” strategy. BOESL fixes the cost of migration based on occupation, and cuts costs in part
+by operating through the BMET database of workers.
+
+Though BOESL is relatively small and has low recruitment numbers, its main concern is with the quality of
+the recruitment process rather than quantity. By February 1999, BOESL had recruited a total of 8,900
+workers i.e., 0.31% of the total number of those who went overseas though the official channel. BOESL is
+now a subordinate organization of the MEWOE and has taken on a lesser role in direct recruitment. Up
+through the 2011–12 financial year, a total of 31,149 migrant workers have gone abroad through BOESL.
+It is currently looking to expand by opening regional offices as well as offices in more key receiving
+countries for Bangladeshi workers. BOESL is also currently responsible for enhancing and processing all
+foreign employment demands from overseas governments or individuals. In addition, it promotes the
+employment of Bangladeshis in other countries. BOESL has also been responsible for recruitment in
+several of Bangladesh’s G2Gs, except Malaysia as the number of required workers was too high for its
+capacity. BOESL sends mainly skilled workers, particularly through the Korea Employment Permit System.
+
+Private Employment Services
+There are three main avenues through which Bangladeshi workers find employment in foreign labor
+markets: recruiting agencies, intermediaries (dalals), and friends/family. Under the supervision, direction,
+and control of MEWOE and BMET, approximately 1200 international recruiting agencies are currently in
+operation in Bangladesh. In addition a large number of sub-agents and intermediaries (dalals) operate
+across the country – current estimates place the numbers at 10,000 sub-agents and around 1,350 travel
+agencies. About 53% of migrant workers use intermediaries, while 13% of migrants migrate through
+private recruiting agencies directly.
+
+Private Recruiting Agents
+There are approximately 1200 recruiting agencies operating in Bangladesh. However, many of these
+registered recruitment agencies re believed to be inactive. These agents work under license from the
+MEWOE, and are expected to collect information on labor demand in the overseas job market,
+immigration processes, and working and living conditions, and identify job placement opportunities. The
+recruiting agents may receive information about vacancies and a demand letter for placement of the
+workers from the concerned foreign employer directly or via overseas recruiting agencies contracted by
+the overseas employer.
+
+However, very few Bangladeshi recruiting agents have direct access to those markets. As a result,
+recruiting agents in Bangladesh have to rely on relationships with those overseas recruiting
+agents/brokers to secure demand letters or job offers. Bangladeshi recruiting agents operate largely
+through the recruiting agencies and sub-agents operating in the destination countries. These private
+agencies, on their own behalf, collect information on demand in overseas job markets and seek out orders
+for foreign employment.
+
+In the case of Saudi recruitment for female domestic workers, recruiters tried a different approach given
+the tight time frame. Job fairs were held in 64 districts, for three days in each district. 100 recruiters were
+involved in this effort, with 3-4 recruiters present at each job fair. This approach proved to be
+
+                                                                                                     Page | 14
+unsuccessful, though it is not known whether this was because of the approach or because the terms of
+employment where considered unsatisfactory.
+
+Historically, private recruiting agents were governed by the Recruiting Agents Code of Conduct and
+License Rules of 2002. The Recruiting Agents Code of Conduct and License Rules 2002 set the following
+standards with which recruiting agents must conform: maintain regular office and signboard; maintain an
+information and consultation centre; recruit competent candidates for migration and recruit candidates
+from the databank of potential candidates; avoid competition for visas, work permits, etc among
+themselves; ensure that employers maintain the service terms during the service time; not demand any
+additional fees (except service charges) from migrants; and ensure the presence of selected workers at
+BMET briefing center for the pre-departure training. In order to maintain their license, a recruiting agent
+must have found employment abroad for a minimum of 300 migrant workers within the last five years
+(otherwise their license will expire and half of the security deposit will be forfeited).
+
+However, the Recruiting Agents Code of Conduct did not historically provide a mechanism for classifying
+and scoring agencies. As such, there has been little information available to prospective migrants on
+where to find recruiters who adhere to the code of conduct and are known for being reliable. However,
+this was changed in the Labor Rules 2015, which established new procedures for registering and grading
+manpower agencies. However, this act has not yet begun to be implemented, and it is believed that BAIRA
+is not necessarily on board with implementation.
+
+BAIRA
+Recruiting agencies have organized under the Bangladesh Association of International Recruiting Agencies
+(BAIRA). This association was formed in December 1984 with representatives of 23 recruiting agencies. By
+2002, the association had a membership of around 700 agencies; today, it has approximately 1200
+member agencies. These agencies are represented by 37 elected members on the BAIRA board which
+convenes member agencies on a monthly basis.
+
+BAIRA works in collaboration with GoB and is one of the largest trade bodies affiliated with the Federation of
+Bangladesh Chambers of Commerce and Industry (FBCCI). However, this relationship has been called into
+question on several occasions. IOM representatives have stated that BAIRA needs better dialogue with the
+government, such that it encourages the private sector while increasing and strengthening regulation. BAIRA
+has been accused of setting high legal recruitment fees, and failing to providing sufficient financial
+compensation to workers who lodged complaints or address illegal practices of its member agencies. In spite
+of all this, both BAIRA and GoB representatives spoke highly of the other party and it is difficult to judge the
+current state of the relationship.
+
+Dalals
+Almost all private recruiting agencies are based in Dhaka, as it is not financially viable to have offices
+throughout the country. In fact until the Overseas Employment and Migrants Act of 2013 was passed by
+the Parliament in October 2013) recruiting agents could not legally open sub-offices at the district level.
+As such, private recruitment agencies work with local sub-agents, known colloquially as dalals, who find
+and refer prospective migrants from villages and areas far from city centers. Dalals perform two key
+
+
+                                                                                                      Page | 15
+functions: the recruitment of workers and financial transactions. Recruitment at the grass-roots level is
+conducted verbally, with even payments made without a receipt.
+
+Dalals are usually known within their communities, and consequently, potential migrants and their family
+members are able to access them more easily than the recruiting agents. 35% of Bangladeshi returnee
+migrants reported that the intermediaries they used lived in their own village and 33% said that they lived
+in another village in the same district. Only 0.25% of the respondents secured the help of intermediaries
+based in Dhaka. According to recruiting agents, people in rural areas are unwilling to place their trust in
+nonlocal organizations that prospective migrants will work with local sub-agents even if the subagents
+charge more than the recruiting agents (Afsar 2009).
+
+There is a significant dearth of information on the prevalence and operations of dalals. The dalal system
+has not been institutionalized. The dalals (informal agents) are not formally registered with the recruiting
+agents they serve and do not possess any formal identification documents. Upon inquiry, BAIRA officials
+noted that while they do not interact with dalals directly, they had no knowledge of whether or not
+member recruiting agencies paid other agents to find workers. As dalals and illegal subagents are not
+registered under any government or private institutions, it is very difficult to estimate the total number
+of intermediaries operating in Bangladesh. However, a recent study (Siddiqui, 2011) estimated that about
+10,000 intermediaries were operating in Bangladesh.
+
+Migrants also tend to have very little information about the operations of their dalal. 69% said they were
+aware that the intermediary who was facilitating their cases was working for an agency, while 14% said
+their understanding was that the intermediary was working independently and another 12% said they did
+not know if they worked for an agency.
+
+Informal Recruitment
+Approximately 55-60% of recruitment in Bangladesh is conducted through individual initiatives and social
+networks. The expense incurred by migrants through migration on their own is less than the expense
+incurred through the use of registered recruiting agents (Siddiqui 2005). But in most instances, migration
+on one’s own with the assistance of relatives and friends is also dependent on the purchase of
+employment visas or bribes, which keeps the cost high, although not as high as it would be if fully
+dependent on illegal intermediaries or sub-agents and registered recruiting agents. The risk of fraudulent
+practices in obtaining a visa through friends is also considered to be less than the risk when passing
+through formal recruiting agents.
+
+Because Bangladesh law requires all low to skilled workers (i.e., all non-professional workers) to migrate
+for overseas employment after registering with the BMET, discussions with workers suggest that those
+workers who obtained job contracts through individual contacts often approach recruiting agents to get
+their job contracts validated and to process them for migration. Recruiting agents charge a commission
+for this service.
+
+
+
+
+                                                                                                  Page | 16
+Page | 17
+Employment Process
+The recruitment and migration process from Bangladesh to receiving countries is a 16 step process,
+beginning with the registration of the recruiting agency and ending when the migrant worker departs for
+the destination country. This section of the report goes through the ideal recruitment process from start
+to finish, while identifying gaps and departures from the ideal process in the status quo.
+
+Step 1: Bangladeshi recruitment agency registers with BMET
+The Recruting Agents Code of 2002 established the procedure for approval and renewal of recruiting
+licenses. In order to apply for a license, a recruiting agent must submit the following docuements to the
+Director General of BMET: the business plan, income tax returns for the last two year, a deposit of BDT
+100,000, an agreement to recruit competent workers and acceptance of liability for recruitment activities;
+an organizational chart, office layour, list of employees, and information on training facilities. Once these
+documents are submitted, they are verified for approval by officials within BMET. This process is intended
+to take no more than 30 days, and on average takes 7-14 days. Once the documents are verified and
+submitted for approval to MEWOE, the recruiting agency submits a deposit license fee, secutiry deposit,
+and savings certificate. Once these items are received the recruiting agency receives a one year recruiting
+license.
+
+Once the license expires, the agency must apply for a renewal of its license. This application consists of a
+renewal fee and report on the previous year’s activities. BMET officials then review the agency for
+misconduct, violation of rules and regulations, additional cost charges, or support of irregular migration.
+However, due to limited capacity in BMET, in reality these reviews are rarely performed in any meaningful
+way.
+
+Step 2: Needs identified and communicated to MPA
+The recruitment process itself begins when an employer in the destination country advertises an open
+position. While Bangladeshi recruiting agents, working under a license from the MEWOE, are expected to
+collect information on labor demand in the overseas job market and identify job placement opportunities,
+these agencies rarely have direct access to the destination labor market. As such, they operate largely
+through the recruiting agencies and sub-agents operating in the destination countries. Agents in the
+destination country collect information such as vacancies posted by employers, and then send them on
+to recruiters in Bangladesh. These private actors then introduce the employer to the recruiting agency in
+Bangladesh.
+
+The relationship between recruiters in both countries is being redesigned in the recent reopening of the
+Saudi corridor. The new agreement stipulates that each recruiting agency can work with only three
+recruiters in the other country. That is, each Bangladeshi recruiting agency can pair with three recruiters
+in Saudi Arabia, and each Saudi recruiting agency can pair with only three recruiters in Bangladesh. This
+creates some concerns for recruiters in Bangladesh when paired with the emergence of 10 main mega
+recruiting agencies in Saudi Arabia which will take up a significant portion of the market. This new
+stipulation implies that only 30 Bangladeshi recruiting agencies would be able to do business with the
+mega recruiters, which would significantly limit their access to the Saudi labor market.
+
+
+                                                                                                   Page | 18
+Step 3: Approval of Employer's demand letter
+Once the employer in the destination country and the recruiting agency in Bangladesh have come to an
+agreement, the employer sends a demand letter in the name of the recruiting agency to the Bangladeshi
+embassy in the destination country. The embassy then conducts a visit to the employer to review the
+living and working conditions. If the conditions are acceptable, the embassy then verifies and approves
+the demand letter and sends it to the recruiting agency in Bangladesh via the agent in the destination
+country. However, in reality these site visits rarely occur, and demand letters are not verified in any way.
+
+Step 4: Preparation and approval of Job Orders
+The recruiting agency in Bangladesh sends along the demand letter to MEWOE for approval. If the job
+order is for fewer than 100 workers, it is approved by BMET; if it for more than 100 workers it is approved
+by MEWOE.
+
+Step 5: Issuance of "First Approval" by BMET
+Once the job orders are approved, the recruiter draws up draft versions of the advertisements and sends
+them to BMET for approval.
+
+Step 6: Vacancies advertised and candidates shortlisted
+If the vacancy advertisement is approved, the recruiting agency is required to advertise in a minimum of
+two newspapers. Candidates who respond are then shortlisted and moved on to interviews. However, in
+reality most of the positions are never advertised. This step is the primary role of dalals, who select
+candidates based on personal connections and forward them on to the recruiting agency in Dhaka. This
+step may be skipped if recruiters go through the BMET database described in the following step to identify
+and contact qualified candidates; however, it appears that BOESL is the primary user of the database. In
+the recent reopening of the Saudi corridor, job vacancies are being more directly advertised by Saudi
+recruiters and Bangladeshi recruiters via job fairs in 64 districts across Bangladesh.
+
+Step 7: Candidate interview and selection
+After meeting all the requirements of the BMET and MEWOE, recruiting agents are expected to recruit
+workers as per the skills requirements received from the employer or through the overseas recruiting
+agent. Currently, the MEWOE requires that a recruiting agent gives priority to those workers who are
+included in a database developed by the BMET and the DEMOs. This database has details of those workers
+who have expressed an interest in migrating for employment by filling in an online from.
+
+The potential migrant may register their name and other particulars at any of the 42 District Employment
+and Manpower Offices (DEMOs) of the BMET or at the office of BAIRA. The application forms are available
+free of cost at the DEMOs and at branches of Sonali Bank. The forms can also be downloaded from the
+website of the BMET.
+
+The occupations listed in the BMET database that appear to generate the greatest demand for
+Bangladeshi workers include carpentry, electric/electrical service, masonry, A/C and refrigerator repair
+service, painting, plumbing, driving, welding, steel/rod binding, tailoring, construction work, nursing,
+
+
+
+                                                                                                  Page | 19
+engineering work, managerial service, supervisory service, caregiving, saloon work, cooking, agricultural
+work/farming, and service at hotels/restaurants.
+
+The database does contain a mechanism for reporting skills and qualifications; however, there is currently
+no mechanism for verifying these skills. This decreases the credibility of the database and undermines its
+original purpose of reducing the role of the recruiter in the job placement process.
+
+Each registered candidate is supplied with a registration ID card with a unique registration number.
+Registration is mandatory for all prospective overseas job seekers. Each job seeker can use this ID in future
+for any BMET services relating to overseas employment. The migrant worker computer database network
+was developed so that it could be accessed in/utilized by the following institutions:
+
+    •   BMET main office;
+    •   MEWOE;
+    •   DEMOs;
+    •   Sahajalal International Airport, Dhaka;
+    •   Shah Amanat International Airport,
+    •   Chittagong; and
+    •   Osmani International Airport, Sylhet.
+
+All of these institutions has an operator on hand to assist workers in inputting their information.
+Registration costs 50 taka. The database contains demographic and identification information, but does
+not include information on education, skills, or occupation.
+
+However, registered candidates are rarely given priority. Candidates generally are selected based on their
+relationships with dalals and the entire registration process is sidestepped. Further, despite efforts to
+make registration more accessible via the DEMOs and operators on hand, it is often difficult for remote
+and illiterate workers (which compose the majority of the Bangladeshi expatriate workforce) to access
+registration. It has also been suggested that dalals set up shop around the registration kiosk and extract
+rent by charging more than the required 50 taka to help workers register in the database and promising
+them a job if they register through them.
+
+Step 8: Sign contract
+
+Once the candidate has been selected, a contract is signed between the employer and the Bangladeshi
+worker. However, in a 2013 Asia Foundation survey more than 61.3% of Bangladeshi migrants reported
+that no written documents had been provided to them explaining terms and conditions of their
+prospective jobs. In many cases where Bangladesh migrants were fortunate enough to receive a written
+contract, the migrants were not able to read the contract as it was not in their native language. Migrant
+workers are also often unable to interpret clauses, conditions, and loopholes in their contracts due to lack
+of relevant knowledge skills or an inability to interpret the complex language used. In the case of the
+Malaysia G2G, workers did have the chance to review their contract, but only after they had arrived in
+Malaysia, at which point it was of no real material benefit to them.
+
+                                                                                                   Page | 20
+Even when they do have access to their contract, 21% of Bangladeshi migrant workers who already had
+employment contracts found that their work was not as stipulated in the contract, and about 46% were
+deprived of the remuneration specified in their employment contract. Contract switching such as this is
+of particular concern in the reopening of the Saudi corridor, as Bangladeshi recruiters are concerned that
+the wage being offered to Bangladeshi workers is too low to entice them to accept, but also feel pressure
+from the Saudis to increase their number of recruited workers. They report that this is creating pressure
+to misrepresent the terms and conditions of work in Saudi Arabia to entice more workers.
+
+Step 9: Issue Passport
+The passport is issued by the Department of Immigration and Passports. In the case of the Malaysia G2G,
+workers had to go to MEWOE in Dhaka to obtain both their passport and smartcard, at which time their
+biometrics and physical data was also taken. However, this appears to have been a particular requirement
+of the Malaysia agreement. Because recruitment agencies in Bangladesh usually process a large number
+of passports at any given time and capacity is limited, this step often introduces long delays and hasty
+verification which fails catch falsification in clearances. There are also many cases where agents sign the
+forms on migrants’ behalf placing them at risk at the destination when immigration officials find their
+signatures do not match the signature in the passport. In the current agreement with Saudi Arabia,
+passports are also being issued at the job fairs for domestic workers, which should speed up the process
+considerably, though care should be taken to ensure that this does not become an opportunity for rent
+extraction.
+
+Step 10: Issue clearance
+Once the contract has been signed, the migrant must be issued clearance. Every selected worker has to
+be issued an electronic smart card and clearance to migrate after the worker has fulfilled the mandatory
+pre-migration requirements, which sometimes are customized to meet specific conditions put forth by a
+country of destination. In general, the requirements to be met before clearance can be given include a
+review of all contract and migration documents, a criminal background check, a health check, the opening
+of a bank account, fingerprinting and registration, and the reception of a smart card. Health testing is
+currently conducted in 9 government centers stationed around the country; however, for the reopening
+of the Saudi corridor, the Saudi government is funding 26 more centers to speed up the process of health
+clearance.
+
+Many of these clearance checks are either foregone or more commonly are falsified by the recruitment
+agencies and dalals. Additionally, limited capacity in BMET often creates long delays in issuing clearances,
+which is particularly problematic because the potential migrant has already paid money, which is likely in
+short supply in their household (IOM 2010). As an answer to this, IOM offered training on document
+verification to BMET and MEWOE employees, though the impact of this has not yet been evaluated.
+
+Step 11: Visa processing and Issuance
+Once the passport is issued, it is sent to the destination country’s embassy in Dhaka which issues a work
+visa after checking the documents. Bangladeshi migrants typically use two types of visas for migration to
+GCC countries. Iqama or individual employment visas rely on the sponsorship of a Saudi company or
+
+
+                                                                                                  Page | 21
+citizenship. This allows the workers to work in a pre-assigned job but no other. A visa via the nominal
+sponsorship system or “free visa” system is far more expensive. This visa allows the holder to enter the
+country, but does not allow them to work. Those who find employment under this system are often
+required to pay a monthly sum to the nominal sponsor.
+
+Recruitment processes differ based on if the migrant worker is going to the GCC on a group or individual
+visa. Under a group visa, the recruiter issues a work permit for a group of employees without specifying
+individuals; rather, a block Visa Advice is issued. The visas are then issued and the agency is enabled to
+recruit workers on the bases of a demand letter with a sample employment contract. Once the workers
+are selected, the recruitment agent applies to BMET for clearance, and the GCC embassy in Dhaka attests
+to the individual visa for each employee.
+
+Under the individual visa, the visa is issued in the first step of the process after receiving a job offer. The
+GCC embassy then attests the employment contract, and the visa is stamped by the GCC embassy in
+Dhaka. Clearance is attained by BMET at this point. While the differences between these two processes
+are subtle, migrants often lack information or understanding of the differences which can lead to
+additional costs or undocumented status.
+
+The buying and selling of visas has become a highly profitable business. A nexus of interest has developed
+among high-level state functionaries in the labor-receiving countries, their recruiting agents, a group of
+expatriate Bangladeshis and a section of Bangladeshi recruiting agents. As a result, it has become
+extremely difficult to secure a visa through what were formerly considered to be the regular channels.
+
+
+
+
+In the case of migration to Saudi Arabia, recruiting agents or illegal sub-agents in Bangladesh manage to
+secure visas by purchasing them from sub-agents/ migrant workers in Saudi Arabia. These sub-agents in
+Saudi Arabia often are people who themselves arrived in that country as migrant workers. Having
+established themselves, they trade in visas and act as intermediaries as a secondary business. These sub-
+agents, acting in the manner of door-to-door sales agents, visit employers to identify vacancies and offer
+the services of the recruitment agencies for whom they may be working. In many cases, overseas
+
+
+
+                                                                                                     Page | 22
+employers prefer to rely on recruiting agencies in their own country to share the legal liability of bringing
+a migrant worker into the country (Martin 2009).
+
+These recruiting agencies then auction the visas or the demand letters among Bangladeshi recruiting
+agents. They buy visas from Saudi businesses/employers for between BDT42,600 to BDT127,800
+(considering the currency conversion rate on 17 August 2013 of SAR1.00 = BDT21.30). They then sell these
+visas to potential migrants in Bangladesh directly or to illegal sub-agents and recruiting agents in
+Bangladesh. In this process, the illegal sub-agents in Saudi Arabia make a profit of about BDT10,650 to
+BDT42,600 per permit (Afsar 2009).
+
+Recruiting agents and illegal sub-agents in Bangladesh have refused to disclose their total share in
+recruitment and migration cost. However, they admitted that intermediaries in Bangladesh tend to make
+a profit of about BDT30,000 to BDT50,000 per Saudi visa. One illegal sub-agent said that when determining
+the recruitment and migration charge for a migrant worker, illegal sub-agents consider following
+additional costs and risk factors: the processing fee of recruiting agents (about BDT7,500), bribes (e.g., for
+local police), and additional time-cost that they incur pursuing government officials for passport, visa, and
+migration clearance. The extent to which visas are traded through these channels has been made clear by
+statements from authorities in some destination countries. One Saudi minister has claimed that 70% of
+the visas issued by Saudi Arabia are traded on the black market.
+
+Another significant, if somewhat lesser, concern in this stage of the process is delays created in waiting
+for visa approval from the receiving country. This has been of particular concern in the Malaysia G2G,
+where visas have been delayed for up to a year and a half. This places a significant burden on the migrant,
+as they have already paid money to process their clearances and obtain their passport and rely on the
+income from working abroad to cover these costs.
+
+Step 12: Issue travel ticket
+Once the visa is issued, the recruitment agency is charged with booking the ticket for the migrant
+worker at no charge, as the charge is covered by the employer. However, in reality the cost of the ticket
+is frequently borne by the worker, as can be seen in the cost section of this report.
+
+Step 13: Pre-departure training
+Through an executive order on 11 April 2008 MEWOE made pre-departure briefing mandatory for
+outgoing migrant workers. The issuance of emigration clearance was made contingent attendance of pre-
+departure orientation. Prospective migrant workers are required to participate in this module which
+teaches them about the rules and regulations that they are supposed to abide by in their respective
+destination countries. Officials of BMET and Ministries of Foreign Affairs and MEWOE conduct the BMET
+pre-departure trainings.
+
+In 2012 out of almost 607,798 workers who went abroad only 18,000 (2.96%) attended the pre-departure
+briefing. As such, a majority of respondents did not have any form of pre-departure training or briefing
+prior to migration. Some recruiting agents avoid sending their workers to such briefings and trainings
+organized by the BMET, and instead pay bribes to obtain the certificates for prospective migrant workers.
+
+                                                                                                    Page | 23
+However, BMET reports that an increasing percentage of migrants are availing themselves of the two-
+hour pre-departure briefing sessions financed by the Wage Earners’ Welfare Fund.
+
+Even for those migrants that do receive the training, orientations are also very short, at most lasting only
+a day, and in many cases are conducted just days before departure, which limits their effectiveness. For
+instance, the orientation delivered by BMET includes the showing of two videos: a 13- minute
+presentation on overseas employment procedures and a 15-minute presentation on vocational training.
+There are also only three country specific trainings, whereas BMET’s goal is to make pre-departure training
+universal and to offer tailored training for all main receiving countries.
+
+With specific regard to migration by women workers, this module also teaches prospective domestic
+workers how to perform the household tasks that they will be expected to do as part of their employment
+overseas.
+
+Step 14: Depart for Destination Country
+Once all of these steps have been completed, the worker departs for the destination country, where
+ideally they are met by a representative of their employer at the airport. At this point the recruitment
+process is complete, and the focus transitions to migrant welfare.
+
+
+
+
+                                                                                                  Page | 24
+IV. Fortifying Access
+
+While many gains arise from sending workers overseas, any number of risks surround migrant well-being
+and social protection throughout the entire migration process. Workers in foreign labor markets often
+face asymmetries in terms of access to rights, protection, and information that increase their vulnerability.
+As such, a good labor-sending system should seek to balance mobility with protection by building
+institutions and tools that mitigate these risks. A key step to reduce risks associated with working in a
+foreign labor market is to provide information throughout the entire migration process, even prior to
+departure. Upon arrival in the host country, labor attachés become the first line of protection and risk
+mitigation for migrants. Finally, when risks are realized, ensuring that migrants have access to safe and
+expedient repatriation is critical to minimizing harm to migrants. Each of these systems should be
+strengthened to ensure continuous protection for migrants throughout the entire migrant experience.
+
+In recent years, GoB has made notable efforts towards strengthening migrant welfare and protecting
+workers abroad. Protections have come in the form of a migrants’ welfare fund, attaches in host countries,
+the establishment of a smart card and electronic passport system, and migrant resource centers. In
+addition, migrants have established associations among themselves. However, concerns regarding the
+protection and well-being of migrants remain. The primary concerns in terms of migrant welfare include
+abuse by employers, withholding of pay, lack of access to outside communication, lack of access to the
+embassy, lack of information being kept on the migrant, culture shock, and homesickness.
+
+Missions/Attaches
+
+Currently 28 Bangladesh missions abroad are equipped with a labor wing to provide for migrant welfare
+and protection. As stated in the Seventh Five Year Plan, GoB has set its sights on opening 50 new labor
+wings in its embassies in order to strengthen welfare services of expatriates’ and expand overseas market.
+These labor wings have the following tasks regarding labor migration: (a) exploring the potential labor
+markets; (b) attestation of documents pertaining to recruitment; (c) providing consular services for
+Bangladeshi workers; and (d) ensuring the welfare of migrant workers. The labor attaches also run safe
+houses for migrants in Riyadh, Dubai, and Lebanon, as well as providing legal aid services to migrants. In
+Jordan, Lebanon, and Dubai, the labor offices are also staffed with female workers who are better able to
+address the needs of female migrants working as domestic workers.
+
+However, there seems to be a disconnect between Bangladeshi missions and overseas workers. Of 100
+return migrants surveyed in a 2013 Asia Foundation report, only 13 had sought embassy assistance during
+their stay. Most of the labor migrants did not think of approaching the Bangladeshi missions for help when
+they faced problems. In general, many labor migrants did not know about the existence of Bangladeshi
+missions in their country of employment. Those who were aware did not have a clear idea about the role
+of missions in protecting workers’ interests.
+
+The problems that labor migrants took up with the mission were those of contract substitution, non-
+payment of salary and harassment by police. Another common problem regarded the issuance or renewal
+of passports. A number of interviewees said that when they reported loss of documents to the Bangladesh
+
+                                                                                                   Page | 25
+mission, the staff of the mission did not acknowledge them as Bangladeshis. The general attitude of the
+embassy staff was to send aggrieved labor migrants back to Bangladesh rather than attempt to redress
+their grievances.
+
+This accused dismissiveness is likely due in large part to limitations on the capacity of the embassy to
+provide solutions for migrants. The labor attaches face a large case load, but lack funding and manpower
+to address each case specifically. As government representatives, labor attaches also face significant
+constraints in their freedom to operate within the host country. They are given very little access to
+communication with or information regarding migrants after they arrive, and therefore often do not have
+the access they need to check on migrant welfare or address problems.6
+
+Given the disconnect between workers and the embassy, migrants tend to contact their recruiter when
+they need assistance rather than the labor attaché. The recruiter then contacts the embassy; however, it
+appears that the burden of resolving the situation often falls to the recruiter, as it has greater access to
+the migrant and more resources to leverage with operators in the host country.7
+
+Because it has such limited capacity, the embassy also does not offer standard services offered by labor
+attaches of other sending countries. For example, the Sri Lankan embassy picks up workers from airport
+to ensure their safe arrival. The employer then picks up the worker from the embassy and signs the
+contract under the supervision of the labor attaché’s office. This gives the embassy more direct access to
+the worker immediately when they enter the country, which feeds into stronger access throughout their
+duration of stay in the host country.
+
+Wage Earners’ Welfare Fund
+
+In 1990, GoB created a fund for ensuring the welfare of wage earners. The Wage Earners’ Welfare Fund is
+funded through subscriptions from migrant workers; the interest earned on the deposit of licenses of
+recruiting agencies; a surcharge of 10% on the fees collected through Bangladesh missions abroad; and
+individual and institutional contributions. The subscriptions paid by migrant workers constitute the bulk
+of the Fund. These comprise a fee of BDT 100 per person under a group visa, BDT 300 for an individual
+visa with the attestation of the Bangladesh missions in the country concerned and BDT 800 for an
+individual unattested visa. Further funds are generated from percentages of fees paid to Bangladeshi
+missions abroad, and on interests of bonds to recruiters. The fund is operated by the Wage Earners’
+Welfare Board, whose sole task is to run the fund.
+
+The Fund was created with eight specific objectives: (a) the establishment of a hostel/briefing center; (b)
+the organization of an orientation and briefing program; (c) the establishment of a welfare desk at the
+airport; (d) the transfer of the bodies of deceased migrant workers; (e) providing assistance to sick,
+disabled and stranded migrant workers, (f) providing financial help to the families of deceased migrant
+workers; (g) providing legal assistance to the migrant workers through the embassies and (h) the
+
+
+6
+    Interview with MEWOE representative
+7
+    Interview with BAIRA representative.
+
+                                                                                                  Page | 26
+establishment of a recreation club and information center under the auspices of the Bangladesh missions
+abroad.
+
+In practice, the welfare fund largely covers repatriation of deceased migrants, burial funds, and stipends
+for their families. It also covers the welfare desks in the airports and pre-departure orientation. However,
+it does not cover many services covered by welfare funds in other countries, including: integration and
+reintegration assistance, medical and life insurance, or loans. Further is no other form of medical or life
+insurance available to migrants, as a scheme to provide this through BAIRA has not been successful.
+
+Crucially, the fund also does not cover for return home in situations where the worker feels unsafe and is
+unable to return for their return home. This means that the responsibility falls either to the migrants
+themselves or their recruiters to fund their travel home. It is often impossible for the migrants to fund it
+themselves, and the recruiters are often unwilling to do so. Recruiters note that it is difficult to verify
+whether the worker is truly in danger, and are concerned that if they have a lenient policy regarding paying
+for travel home there would be significantly more cases of runaways.
+
+Smart Card
+
+In February 2010, Bangladesh's government introduced the smart card, a tag with a small computer chip
+developed by BMET with assistance from the Bangladesh University of Engineering and Technology. The
+smart card contains all the information available in the migrant's passport, the migrant's fingerprints and
+the name and license number of the recruiting agency the migrant used so that authorities can identify
+all the parties involved in the migration process. When leaving Bangladesh, migrants with smart cards
+simply insert them in a card reader at the airport and their embarkation forms can be printed out. In cases
+where workers' passports may be seized and recourse difficult without proper documentation, the card
+contains enough information to get the support required despite the loss of original documents. By 2013,
+1.7 million smart cards had been issued to migrant workers before their departure.
+
+However, in 2011, the smart card readers at the airports stopped functioning properly and the airport’s
+welfare desk reports that they have reverted to a manual system. They have since been reestablished;
+however, they continue to be used only at the airport. A senior official of BMET noted that migrant
+workers simply throw away the card after passing the airport because “it is not required anywhere else.”
+At minimum, the use of the card should be expanded so that workers scan them again upon return to
+Bangladesh to facilitate the development of a return database.
+
+Private Protection Mechanisms
+
+The International Organization for Migration helped establish migrant resource centers (MRCs) in 2007 in
+coordination with the relevant governmental authorities and the EU. Thirty five MRCs have since been
+set up to provide information to potential migrants on opportunities available abroad, the procedures
+related to migration as well as country specific information. The MRCs aim to reach a larger number of
+migrants through close coordination with a network of selected NGOs and other social partners and their
+
+
+
+                                                                                                  Page | 27
+local structures. However, an IOM study found that they have very weak capacity, are not widely used,
+and also are not sensitive to gender specific issues.
+
+Similarly, the International Labor Organization has established toll-free helplines in Dubai to increase
+contact with migrant workers while abroad. This service cannot be provided through the consulate, which
+is in practice allowed to have direct contact with migrant workers in many GCC countries.
+
+In most of the labor-receiving countries, migrants have organized themselves into a wide range of
+different associations. Most of the associations are established by the Bangladeshi communities residing
+in a particular geographical location of a receiving country (state, district and city). Associations are also
+formed on the basis of the district, than a, union or village of origin of the migrants. In some cases,
+associations are also formed by different professional groups.
+
+Associations organize cultural programs and observe the various national days of Bangladesh. They also
+provide various kinds of support services for the community members, such as finding suitable
+accommodation for newcomers and introducing them to markets that carry Bangladeshi food and other
+products. These services are also helpful in sharing of work experiences and in learning from each other
+about “do’s” and “don’ts” and the cultural sensitivities of the countries concerned. Similarly, the
+Bangladesh government has collaborated with a number of civil society groups to provide standardized
+training for domestic work.
+
+Cost
+
+Bangladesh is widely known as having one of the highest costs of migration in the world. The average
+migrant worker spends BDT 309,259 on their recruitment and migration. In a 2013 survey done by the Asia
+Foundation, only 23 of the 75 persons interviewed paid less than BDT 100,000 ($1220), and more than
+half of the respondents had to pay BDT 100,001 to 300,000 ($1220 to $3660). Six respondents had to pay
+BDT 300,000 to BDT 500,000 ($3660 to $6100).
+
+
+
+
+According to BMET regulations, the total cost of medical checkups, contributions to the Wage Earner’s
+Welfare Fund, visa fees, service charges, and orientation training should not exceed BDT 20,000 to the
+
+
+                                                                                                    Page | 28
+worker. Clearly these placement fee caps are not always followed. Fees charged to migrants depend on
+many variables, such as the country of destination, the type of work and prospective salary.
+
+
+
+
+78% of recruitment and migration cost, on average, is charged by intermediaries (IOM 2010). Other estimates
+go as high as approximately 88% of migration costs believed to be coming from dalals. These costs place a large
+burden on migrant, particularly after the additional cost of financing. About 67% of migrant workers secure
+funds to pay for recruitment and migration by taking out loans. A considerable portion of migrant workers also
+finance the cost of migration by selling land (24%), mortgaging land (23%) and/or selling assets such as jewelry,
+cattle, trees, or homes (20%) (IOM, 2010). Some 54.7% of Bangladeshi returnees reported that they had
+repaid their loans in 18 months or less.
+
+                                    Source                    Percent
+                                    Self                        45
+                                    Selling Land and Property   14
+                                    Family Members              12
+                                    Relatives                   10
+                                    Neighbor/Friends            10
+                                    Partial Loan                 5
+                                    NGO/Financial Institution    4
+
+
+With a view to reducing the cost of migration, the Government has established ‘‘Expatriates Welfare Bank’
+(Probashi Kallyan Bank) for giving loans with simple interest to the aspirant workers going abroad and
+providing financial assistance to the returnee migrants to invest in productive activities. PKB has
+significant limitations in that because it was created as a welfare bank it cannot profit from remittances
+sent by workers. This creates a significant constraint to its ability to scale up and offer larger loans to
+migrants or return migrants.
+
+In the reopening of the Saudi corridor, the agreement is that female migrants will pay no recruitment cost.
+The only cost to be borne by the worker is that of her passport; however, close observation suggests that
+this agreement is already being violated and that female workers are indeed being charged a recruitment
+fee.
+
+                                                                                                      Page | 29
+Page | 30
+V. Furthering Access
+Raising the level or visibility of workers’ skills can improve their employment opportunities and promote
+their deployment to work abroad. Increasing skills requires close coordination and cooperation between
+employers in the host country and training institutions in the source country. Successful training schemes
+require thorough screening and skills verification of graduates of training programs to overcome both
+training gaps and information asymmetries between different stakeholders across borders. Further, he
+limited transferability of skill certifications across borders as a result of misaligned certification systems
+can lead to suboptimal recognition and utilization of migrants’ skills. By increasing employers’ access to
+information about migrants’ skills, a successful transnational skill development and recognition system
+could help address this inefficiency and enhance labor market resource allocation.
+
+BMET has taken up programs for facilitating export of skilled manpower through providing training to the
+workers in 53 Technical Training Centers (TTC) (14 of which were set up through IOM) in various trades.
+The first TTCs were established in 1943. These training centers target both local as well as international
+employment. However, the international trainings are currently not aligned with standards and demand
+in labor receiving countries. The Skills Development Policy has identified the need to conduct needs
+assessments to ensure that technical and vocational training courses correspond better to the skills
+demand in the national and international labor markets.
+
+BMET is the main provider of short trainings (2-3 weeks) in the country; however, it does so in cooperation
+with the Ministry of Education, the National Skill Development Council, and several other ministries. Both
+BAIRA and BMET have requested more funding for increased supply of training in order to increase the
+skill levels of out migrants, in keeping with the National Skills Development Policy, which aims to increase
+skilled migrants as a percentage of total migrants from 35% to 50%. However, increasing the supply of
+training may be premature as currently classes are not full and there does not appear to be excess demand
+for the courses.
+
+The lack of demand is likely affected by the fact that the certifications from the TTCs do little to affect
+employment opportunities or wages. IOM developed the current curriculum used in the TTCs; however,
+the quality of the training provided in the TTCs is considered highly questionable. Certifications received
+from these training courses are both not competency based and not widely accepted or recognized in
+foreign labor markets.
+
+Training courses vary in length by occupation and training intensity. For domestic workers, the training is
+generally 30 days long; however, in an effort to speed up the process, the Saudi government is limiting
+training to 10 days.8 Bangladeshi officials are concerned that this will be too short and will leave
+Bangladeshi workers unprepared for both the work in Saudi and any challenges they may face. However,
+this concern may be somewhat alleviated by the fact that training is also being offered by mega recruiters
+after the workers arrive in Saudi Arabia.
+
+
+
+
+8
+    Interview with BAIRA representatives. Vethe
+
+                                                                                                    Page | 31
+According to RMMRU, there is tension in administrating the TTCs as two separate ministries, Ministry of
+Labor and MEWOE, run these training centers under the supervision of BMET. The Bangladesh Technical
+Board of Education is responsible for coordinating the training between ministries; however, BTEB lacks
+capacity to perform this function fully. Further, most TTCs face budget deficits and are underequipped to
+provide proper training that is up to international standards. This also means they do not have the funds
+to offer capacity building to their TTC in order to meet international training standards.
+
+As noted in the Sixth and Seventh Five Year Plans, MEWOE has already taken significant steps towards
+upskilling Bangladeshi migrants. Under the Sixth Five Year Plan, several new TTCs and Martine Technology
+Institutes were added. Due to these new initiatives the number of total trainees given skill and technical
+training has increased from 59554 in 2010 to 115000 in 2014, with this number estimated to increase to
+150,000 post-2015. Under the Seventh Five Year Plan, notable new initiatives include adding more TTCs
+at the upazila level as well as significant capacity building for trainings via a permanent training institute
+for training the trainers.
+
+
+
+
+                                                                                                    Page | 32
+VI. Possible Areas for Attention – recommendations for policy reform and
+institutional strengthening
+
+
+We have identified three key areas where policies and institutions could be strengthened:
+
+    1. Improving recruitment processes to reduce rent seeking and perverse incentives among
+       recruiters
+    2. Balancing mobility with protection to reduce the vulnerability of workers while in destination
+       countries
+    3. Upskilling labor supply and diversifying foreign labor markets to increase the value of
+       Bangladesh’s migration corridors.
+
+Area 1 – Improving Recruitment Processes
+One of the key concerns in the Bangladesh migration management system as identified in this review is
+rent-seeking and perverse incentives within the recruitment system. Rent-seeking exists in many forms,
+including charging migrants for additional services, document fraud to cut cost on clearances and extract
+bribes from migrants, overstating migrant qualifications to extract higher fees, and the additional rents
+extracted by the perpetuation of the dalal system. Two interventions can be explored to address rent-
+seeking in the recruitment process:
+
+    a. E-Musaned portal assessment – The Kingdom of Saudi Arabia had launched an online recruitment
+       portal via its Ministry of Labor with the intention of introducing transparency into the recruitment
+       process, thereby reducing the potential for rent extraction. Bangladesh was the first labor market
+       in which the portal was launched, and as such has significant potential to improve access to the
+       Saudi labor market for Bangladeshi workers. However, for the portal to accomplish its goals, it
+       must be aligned with institutions governing recruitment on the Bangladeshi side. Towards this
+       end, an assessment should be conducted to see where the gaps are in alignment of these two
+       systems and how they can be brought together to increase transparency and reduce rent seeking
+       in the Bangladesh-Saudi recruitment process. Similar technological tools could also be assessed
+       or piloted in other corridors.
+    b. Designing incentive systems to improve recruitment outcomes – Despite several laudable
+       attempts on the part of GoB, perverse incentives still exist within the recruitment system that
+       both increase the costs for migrants and lead to adverse employment outcomes. A first step in
+       addressing these perverse incentives is to conduct a political economy analysis of what allows
+       these systems to persist in the face of efforts to eliminate them. This analysis can inform future
+       interventions addressing regulation of the recruitment industry.
+
+Area 2 – Balancing Mobility with Protection
+While access to foreign labor markets is a key avenue to improved livelihoods for Bangladeshi workers,
+this needs to be complemented with proper protection and assurance of wellbeing while in foreign labor
+markets. This is particularly true for female workers, who constitute a rapidly increasing portion of the
+Bangladeshi workforce abroad.
+
+                                                                                                 Page | 33
+    a. Improving support services abroad - Labor attaches currently lack capacity to perform even the
+       base-line functions included in its existing mandate, such as site visits to check conditions in the
+       potential foreign employer. Its mandate is also more limited than best practice as identified from
+       other labor sending countries, such as reception of arriving migrants at the airport. A complete
+       best practice analysis of consular services should be conducted and applied to Bangladeshi
+       consulates. This can include peer-to-peer learning and site visits to the consulates of nations such
+       as Sri Lanka and the Philippines who face similar challenges in sending workers to the GCC.
+    b. Enhancing smartcard system – One of the key problems undermining capacity on the part of the
+       embassy is lack of access to information about migrants. The smart card system implemented by
+       GoB, despite some technical difficulties, has been widely lauded as a highly innovative approach
+       to increasing formality and protection in recruitment processes. However, its potential has been
+       underexploited currently as it is only being used for processing at the airport and is often
+       discarded by migrants after. Expanding use to the labor wings of embassies, as well as any migrant
+       resource centers, would create opportunities to use the smart card as the basis for a
+       comprehensive database on Bangladeshi expatriates. In addition to serving as a backup passport,
+       it could incorporate information on employer, salary, recruiting agency, and health which would
+       allow the embassies to provide much more comprehensive services to its expatriate constituency
+       while significantly improving documentation and record keeping on recruitment and migration
+       systems. This information would create an opening for the embassy to have significantly increased
+       access to the migrants themselves, thereby increasing capacity to provide services as needed.
+    c. Repatriation insurance scheme – Ensured access to repatriation in case of emergency or abuse is
+       fundamental to migrant wellbeing. Many workers currently remain in dangerous situations
+       because recruiters decline to pay for their return home, and they do not have the funds to finance
+       their own return. Securing funds prior to migration would provide a safety net in the event that
+       repatriation becomes necessary. These funds could be secured from the employer and applied to
+       the final month of the worker’s pay in the event that the worker completed their contract, or from
+       the recruiter and returned at the end of the contract. This scheme would need to be paired with
+       other institutions that allow for repatriation, including access to the embassy and the ability to
+       physically leave their place of employment, but would overcome the largest existing hurdle to
+       emergency repatriation.
+
+Area 3 – Upskilling of Labor and Diversification of Labor Markets
+Despite increasing investment in migrant training via increasing the number of technical training centers,
+out migration from Bangladesh remains at the low end of the skill distribution. Two key barriers to
+upskilling Bangladeshi migration are first that the skills taught in TTCs are not matched with employer
+demand, and second that the training from TTCs is believed to be low quality and therefore is not
+considered a strong signal of skill for employers abroad. Further, overreliance on a few key foreign labor
+markets leaves Bangladeshi workers vulnerable to market fluctuations in recipient countries, which limits
+the potential for migration to increase incomes. To address these barriers, the following interventions
+should be considered:
+
+
+
+
+                                                                                                 Page | 34
+    a. Labor Market Information Survey - To identify which skills are demanded by foreign employers,
+       GoB can develop a labor market information system which surveys foreign employers in order to
+       develop projections of skill requirements. This will allow them to target training to meet the
+       projected demand, which will provide a key advantage in competing against other labor sending
+       countries.
+    b. Transnational certification pilot – To achieve the goal as stated in the Sixth Fifth Year Plan to
+       increase skilled migrants to 50% of the total migrant population, GoB will need to focus first on
+       increased visibility of Bangladeshi worker skills in the international labor market. To do this, it will
+       need a way to signal skills across borders, which requires some form of transnational certification
+       scheme. Currently, the certifications from the TTCs are not widely accepted or regarded as a
+       strong signal of skill. In order to develop a transnational certification system, GoB will need to
+       work with employers in receiving countries to incorporate their requirements into how workers
+       are tested and certified. This can then be built into the curriculum of the TTCs.
+    c. Assessment of existing agreements – To further diversify access to foreign labor markets,
+       Bangladesh should assess its existing MOUs and BLAs to identify their strengths and weaknesses.
+       It can use this assessment to both increase effectiveness of existing agreements and strengthen
+       its position in the negotiation of future agreements. In particular it should look to the Malaysia
+       G2G, which in spite of strong demand from Malaysian employers has not been able to send as
+       many workers as initially anticipated. Assessing the entire process from initial negotiation through
+       to final implementation, as well as comparing it to best practice, can inform the design of future
+       agreements to achieve stronger results.
+
+Prioritization of Interventions and Next Steps
+Given that these interventions cannot all be implemented simultaneously, it is crucial to identify the quick
+wins and highest priorities for improving Bangladesh’s migration management system. Using combined
+criteria of urgency and impact, we separate the interventions into three stages.
+
+Short Term Interventions (Quick Wins)
+Given the recent reopening of the Saudi corridor, and its focus on female migration, interventions related
+to these matters have the potential for the greatest immediate gain. As such, the highest priority
+interventions should be:
+
+    a. Repatriation insurance scheme
+    b. Improving support services abroad
+    c. Recruitment portal assessment ( or similar technological tools for recruitment)
+
+Medium Term Interventions
+Medium term interventions are those which lay the groundwork for improving migration management
+systems, but do not require significant overhaul of any existing institutions. These interventions could be
+completed over the course of 2-5 years, as GoB sees fit, and include:
+
+    a. Enhancing smartcard system
+    b. Labor Market Information Survey
+
+
+                                                                                                     Page | 35
+    c. Assessment of existing agreements
+
+Long Term Interventions
+Long term interventions are those which will require significant work to align systems across borders and
+may also require more groundwork in terms of building political capital. These interventions may require
+several stages and significant advance planning for proper implementation.
+
+    a. Transnational certification pilot
+    b. Designing incentive systems to improve recruitment outcomes
+
+
+
+
+                                                                                               Page | 36
+

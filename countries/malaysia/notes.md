@@ -3094,3 +3094,78 @@ New evidence (facts YI0001-YI0025):
 - Vocabulary: ম্যানপাওয়ার কার্ড (YI0018), সিন্ডিকেট (YI0019), কোম্পানি ভিসা and free-visa renewal at RM5,000 a year (YI0015-YI0017).
 
 Cut from the Background (facts stay in facts.csv): remittance rank and 9.30% share (B0091, B0093, YD0001-YD0004); the 2007-2019 clearance series and the 1.4 million G2G applicants (G0029, YA0008); Wang Kelian (YA0012, YA0014); WFW complaint counts (YH0001, YH0002); MYFutureJobs, Section 60K, KESUMA and the 6 July 2026 move to the One Stop Centre (YE0001-YE0004, R0001); the 2023 MACC arrest of a ministry aide (YE0010, YE0011); the UN experts' letter (YA0025, YA0026); Amin's "highway" quote (YE0022) and FWCMS source-code ownership (YE0005); the MACC inquiry closure (YB0021, YB0022); the 2018 G2G Plus 80-90% split (YE0017); earlier caps Tk 84,000 and Tk 37,000 (YA0009, YA0002); median and mean wages (YF0041) and survey earnings ranges (YF0037, YF0035, YF0044, YF0043, YF0046, YF0007); Winrock's hundi rate line (YF0015). Political affiliations of Mangrove Career Link and Al-Shupto Overseas (YB0024-YB0026, YB0030) belong in those agencies' records in agencies/, not the country Background; agencies/ was not edited in this pass.
+
+# Relative route: route
+
+8 Nov 2026, prefix RE (RE0001-RE0031). Draft: `drafts/relative-route.md` (a new Step 1 item "Or through a relative or friend in Malaysia", plus one Background sentence). doc.md not edited, nothing committed.
+
+**Question.** Can a Bangladeshi go to work in Malaysia through a relative, and what do relatives, friends and in-country Bangladeshis really do in the chain?
+
+**Answer found.** No route of one's own. Every PLKS visa is a place on an employer's quota processed through FWCMS, and the Ministry's 15 Oct 2026 release tells workers to go through a listed, approved agency (RE0001, with Z0145, Z0148, Z0149, W0030). Unlike Saudi (single visa plus BMET's individual-initiative clearance, B0029/B0030 here, A0057/B0098 in the Saudi folder), no Malaysia source shows individual clearance; kept as a Need to know. Relatives' real roles: (1) information and first contact (Winrock: social network the main information source, but over 80% first connected to a dalal: RE0003, RE0004); (2) brokering places on their own boss's quota, where the money "changes hands among relatives" and the agency does formalities (YI0020, BAIRA, said about free visas generally); (3) acting as the broker themselves from Malaysia (BBC 2024, RE0011, RE0029); (4) Bangladeshi in-country fixers running A-to-B supply (YE0009, D0046). Price anchors: demand letter RM8,000-10,000 (G0013), RM10,000-12,000 (YE0027); 2022-24 split Tk 1.42 lakh to agents in Bangladesh, Tk 1.5 lakh to Malaysia side (YE0020).
+
+**Vocabulary found.** এটুবি / A-to-B = "free visa" or "agent visa", no job given; ডিরেক্ট কোম্পানি vs সাপ্লাই কোম্পানি; বই জমা = handing over the passport (RE0017-RE0020, RE0027, from a Dhaka agency's YouTube video, Dec 2025, 159k views). Fits YI0015-YI0017 (Eye News: company visa vs free visa, RM5,000 a year renewal).
+
+**Evidence on cost effect of relatives.** Winrock regression (2015-20 cohort): via private agencies, first-timers informed by their social network paid marginally less; under G2G Plus they paid more, because agency reps knew the official low cost and relatives didn't (RE0005, RE0006); repeat migrants negotiate lower (RE0007). Verité FFACT 2023 data: 78% paid a village sub-agent/informal recruiter; the 22% recruited formally still paid (RE0008, RE0009); fee split Tk 3,78,600 recruitment + Tk 1,65,000 related (RE0010). ITUC 78% (YE0033) matches.
+
+**Direct-hire routes.** BOESL circulars only (Step 1 item 3). CLAB recruits via BOESL, for the 7,873 left-behind workers, construction and tourism only (W0019, RE0002). TURAP: Cabinet approval 15 Apr 2026 per KESUMA's written parliamentary reply (Migrant Times, RE0023, RE0024); the ministry had said on 21 Apr nothing was decided (RE0025); seven MPs asked for a pause on 29 Jun (RE0026). No launch date or source-country list found as of 8 Nov 2026. A Facebook post (search snippet) said Malaysia is preparing a direct-hiring platform "for Pakistani workers"; not verified, not used.
+
+**Kawan.** Searched English and Malay for "kawan" as a recruitment network term among Bangladeshis in Malaysia; results were Indonesian, Rohingya or unrelated. No source uses it for Bangladeshi recruitment. Draft asks what Bangladeshi fixers in Malaysia are called (Need to know) rather than asserting "kawan".
+
+**Searches run.** Bangla: মালয়েশিয়া আত্মীয়ের মাধ্যমে কলিং ভিসা ব্যক্তিগত উদ্যোগে; "ব্যক্তিগত উদ্যোগে" মালয়েশিয়া বিএমইটি ছাড়পত্র; মালয়েশিয়া প্রবাসী ভিসা দেওয়ার কথা বলে আত্মীয় প্রতারণা; "মালয়েশিয়া প্রবাসী" ভিসা ... ভাতিজা/ভাগ্নে/চাচাতো ভাই; মালয়েশিয়া নিজের ভিসা এজেন্সিতে প্রসেসিং খরচ; YouTube: মালয়েশিয়া বসের কোম্পানিতে আত্মীয় কলিং ভিসা. English: BMET individual/single visa Malaysia; kawan broker networks; Bangladeshi supervisor recruits from village; Bangladeshi agents in Malaysia sell jobs; FWCMS named worker / direct hiring; TURAP status. Saved but not registered (no fact used): re-elahi-calling-visa-guide (agency page, generic), re-iium-bd-workers-socio (IIUM paper, no recruitment detail), re-seas-decommercialization-2020 (Kyoto SEAS 2020, history of direct hiring for G2G and maids; no relative-route detail), re-mahersaham-turap (investor blog; says FWCMS contract extended to 31 Jan 2031, unverified), re-rtv-12-countries-2026-11 (Nov 2026 ministry-approval rule for 12 countries; Malaysia not among them). Kaler Kantho's 2025 "কলিং ভিসা কী?" explainer was read via Firecrawl but is generic; not saved.
+
+**Conflicts.** Processing-agency toll: Tk 6,000 (A0019) vs RM5,500 (A0026), unchanged; kept as a Need to know in the draft.
+
+**Still open (Need to know in the draft).** Relative's 2026 price to bring someone onto his company's calling visa and the split; whether an employer can name a worker in the demand; processing-only fee of the 25; name and monthly cut of in-country fixers; TURAP launch and whether Bangladesh is in phase one; whether BMET's individual-initiative counter clears a Malaysian VDR.
+
+## Pages we could not download (relative route)
+
+- https://www.daily-sun.com/bangladesh/907309/govt-approval-required-for-sending-workers-to-12-countries (403; RTV's copy saved instead).
+- https://www.dhakapost.com/country/434306 (403; Dhaka Post, a Malaysia worker cheated by a dalal who came home dead).
+- https://www.unescap.org/sites/default/files/APPJ-Vol-16-No-1.pdf (403; Asia-Pacific Population Journal, "Bangladeshi Migrant Workers in Malaysia's Construction Sector", likely covers kin networks and labour contractors).
+- Facebook posts are not scrapeable by Firecrawl: nazimsarkar007 post (Nov 2026, "প্রবাসীদের নিয়ে স্ক্যাম ... মালয়েশিয়াতে শ্রমিক পাঠাতে ৫-৭ লাখ টাকা ... ভিসা পাঠানো খালাতো ভাই"), Malaysiachakrirkobor video "কলিং ভিসার প্রসেসিং যেভাবে হবে। বাংলাদেশের এজেন্সি শুধু মেডিকেল ও ম্যানপাওয়ার" and "অবৈধ মালয়েশিয়া প্রবাসীরা সাবধান। ভিসা দেওয়ার নামে প্রতারণা". Ask a teammate to save them in a browser; the first may give a 2026 relative-route price.
+
+# Relative route: scale
+
+Question: how many Bangladeshis get Malaysian jobs through relatives and networks versus agencies, and how relatives figure in the 2022-24 and 2026 rounds. Draft text: `drafts/relative-scale.md`. Facts RF0001-RF0041 (8 Nov 2026).
+
+**Finding.** For Malaysia the agency is the right default; relatives are the information source and often the broker, not a channel that skips the agency. The "most jobs come through relatives" pattern is a Gulf (free-visa / single-visa) pattern and an old national average, not Malaysia's.
+
+**The numbers, dated, and what each measures.**
+- BMET table in Siddiqui, ILO WP 66 (Nov 2005): "individual" migration 42-68% of all departures each year 1977-2003; 55-60% of recruitment through individual initiatives and social networks (RF0016-RF0018). National, mostly Gulf. Repeated by the World Bank 2018 assessment citing Siddiqui 2005 (RF0024, RF0025: own-route migration still depends on buying the visa; agencies charge a commission to process such contracts).
+- C R Abrar (RMMRU), Daily Star, undated (about 2017): "almost 80 percent of work visas are procured through social networks"; Bangladeshis abroad buy contracts, pass them to relatives who sell them locally to the highest bidder; agencies only do medical, clearance, ticket (RF0027-RF0029). Gulf free-visa mechanism. Undated: status unofficial.
+- Mobarak, Sharif, Shrestha (Yale EGC, Mar 2021), 3,512 of 1.4 million applicants to the 2013 Malaysia G2G lottery: 30% of private-channel (control group) migrants had a relative in the destination vs 3% of G2G migrants; private cost Tk 414,000 vs a sixth for G2G (RF0010-RF0014). Note: two thirds of the control group went to the Gulf, a quarter to Malaysia, so the 30% is not Malaysia-only. Justice and Care (2023), citing Mobarak et al. 2019: private-channel migrants were two thirds middlemen/recruitment companies, a quarter social networks (RF0015).
+- World Bank (Bossavie, Apr 2023): 30% of private-channel migrants had family in the destination vs 7% of working-age population; many middlemen are relatives of prospective migrants already overseas; one third of migration attempts fail (RF0020-RF0022).
+- Winrock JDR3 (2023), 590 men who went legally to Malaysia 2015-2020: 80% first contact a dalal; social network the main information source, BMET campaigns the least (RF0040, RF0041). Chart only, no exact social-network percentage in text.
+- Verité FFACT (2024), Malaysia workers: 78% paid a sub-agent or informal recruiter in their home village; the other 22% (formal agencies) still paid (RF0039). Same 78% as ITUC.
+- ITUC Recruitment Advisor (Sept 2023), 835 returnees, five districts, 59% domestic workers (so mostly Gulf women): source of job information sub-agent 78%, relative 19%, friend 2%, recruiting agency 0.5% (RF0019). Already in doc as YE0033 (FE report).
+- BBS Socio-Economic and Demographic Survey 2023 (published 5 June 2024), via TBS: whom migrants paid: brokers 52.03%, private companies/agencies 42.09%, government 3.09%, "with the help of relatives or friends" 2.8% (RF0001, RF0002). Malaysia's most common cost band Tk 3-4 lakh (42.30%) (RF0004). Bonik Barta (3 Oct 2026) gives 52.3/42.9/3.9 for the same survey (RF0006): small conflict, unresolved; TBS is closer to publication. The 2.8% counts payees, not who found the job: relatives who act as brokers are counted as brokers (Asif Munier, RF0003).
+- Population Council (Oct 2022), qualitative: dalals are typically friends, relatives and returnees; cases of a close relative charging Tk 4 lakh for a visa he got free, and a brother-in-law's brother charging Tk 2 lakh (RF0030-RF0034). Not Malaysia-specific.
+
+**Malaysia mechanics (2022-24, 2026).**
+- 2022-24: visas only in the 101 listed agencies' names; outside agencies paid Tk 1.07 lakh per visa and had to hold the worker's power of attorney (BBC Bangla, 11 Mar 2024, RF0036, RF0037). Malaysia then let employers apply for e-visas directly on MyVISA for already-approved cases (RF0035). A relative's employer could name the worker, but the processing still ran through a listed agency.
+- 2026: BOESL and 25 listed agencies process calling visa and e-visa; associates collect demand and select workers (Z0145, Z0148); employers expected to nominate agencies (A0007). Bonik Barta (Oct 2026): a BAIRA member alleges each of the 25 paid about Tk 5 crore to join (RF0007); TIB minimum visa-purchase cost for Malaysia Tk 1 lakh (RF0008); workers say Tk 5-8 lakh actual (RF0009).
+- Amar Desh (Oct 2026, YE0030): a neighbour asked a Sunamganj grocer for his passport and Tk 7 lakh: the network is the broker.
+
+**Searched, not found.** No survey gives a Malaysia-only split of relative-arranged vs agency-arranged jobs. No BMET single-visa vs group-visa breakdown for Malaysia found online (BMET records the difference: B0028 source-tax rates). No news case found of a relative in Malaysia selling a place on his own company's quota in 2022-24 (Bangla searches: আত্মীয়ের মাধ্যমে কলিং ভিসা, কোম্পানির কোটা ভাই, প্রবাসী আত্মীয় ভিসা পাঠিয়েছেন). Worker Facebook pages advertise "bring relatives to your boss's company on a calling visa" (Malaysiachakrirkobor video 1719658132416794; Greenland Travels "বিশেষ কোটা" post, 18 Jan 2026) but Firecrawl does not support Facebook. RMMRU Trends 2023 (sources/rf-rmmru-trends-2023) has no channel breakdown; not registered.
+
+**Pages we could not download (relative route).**
+- IOM Bangladesh, "Mapping of labour migration recruitment practices in Bangladesh" (https://bangladesh.iom.int/resources/mapping-labour-migration-recruitment-practices-bangladesh): 403. Search snippet says "The Government claims that almost 80 per cent of migrants migrate on 'individual'" visas. Needs a browser download.
+- ILO Kathmandu, "The cost of migration" (wcms_514127.pdf): Nepal-focused snippet (56.6% found jobs through a relative or friend); not fetched, Nepal not Bangladesh.
+- BBS "Survey on Cost of Migration 2020" report itself: not found online; only secondary citations.
+- UNSD 2019 BBS cost-of-migration pilot slides (unstats.un.org ... 3 Bangladesh- Md. Feroj-Evna-Yusuf_2.pdf): not fetched (Firecrawl credits ran out).
+- Facebook posts above; Jugantor 1149690 (403).
+- Firecrawl daily credits ran out during this pass (8 Nov 2026); further Bangla news and YouTube searches (e.g. youtube.com/watch?v=kYQ7Yh5VZzM "মালয়েশিয়া কলিং ভিসা ২০২৬") not done.
+
+**Open questions (for insiders).**
+- 2022-24: what share of Malaysia workers got their place because a relative already at the employer had their name put on the list?
+- 2026: can an employer put named workers in its FWCMS application and choose the agency; what does a listed agency charge for one such "own visa" (নিজস্ব ভিসা) worker?
+- What does a Bangladeshi worker or supervisor in a Malaysian factory charge a relative for a place in 2026?
+- BMET 2023 Malaysia clearances: single visa vs group visa counts.
+
+# Relative route: insider-review revision (prefix RG)
+
+8 Nov 2026. `drafts/relative-route.md` rewritten to answer the insider review. New source: `rg-bdlaws-2013-act-full` (bdlaws full text of the Overseas Employment and Migrants Act 2013 as amended to 2023; the page is UTF-16, the .md text copy was regenerated after iconv). Facts RG0001-RG0007: s.31(খ) taking money on a false promise of a job abroad, s.31(গ) withholding a migrant's passport, s.31 penalty (up to 5 years, fine at least Tk 1 lakh), s.38 trial by magistrate, s.28 civil suit for compensation (any person since 2023), s.41 complaint against any person with a 30-working-day investigation. These answer "what if the claim is above the village court's Tk 3 lakh" and "can a relative be prosecuted".
+
+Not verified: whether the i-Kad and PLKS sticker print the employer's name. Firecrawl credits ran out on 8 Nov 2026 before the search ran; the saved IMI pages say only that i-Kad colour shows the sector (Z0092, Z0093). Left as a Need to know.
+
+Open for Abrar: whether Bangla trade terms (নিজস্ব ভিসা, বই জমা, এটুবি, ফ্রি ভিসা) may stay in the doc as quoted search words; দালাল removed.

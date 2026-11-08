@@ -1,0 +1,1051 @@
+           Low-skilled temporary migration policies:
+                    The case of Bangladesh
+  Background paper to the World Development Report 2023: Migrants, Refugees, and Societies
+                                                   April 2023
+
+                                               Laurent Bossavie*
+
+
+                                                     Abstract
+
+
+Policy makers in origin countries often struggle to achieve the joint objective of maximizing temporary
+migration flows and the returns to migrating, while minimizing risks and vulnerabilities among migrants.
+Using the case of Bangladesh, one of the main origin countries of low-skilled temporary migrants, this
+paper presents policy lessons on how to better achieve this objective. The paper illustrates that maximizing
+the returns to low-skilled migration while minimizing its risks requires policy interventions at all stages the
+migration life cycle: predecision, predeparture, during migration, and after migration. More importantly, it
+argues that migration policies must consider the interconnections between the different stages of the
+migration life cycle, and therefore cannot be thought of in isolation. It shows that predeparture policies—
+in particular, the regulatory framework for the recruitment process of migrant overseas—are key to
+minimize subsequent vulnerabilities during migration and after return. Beyond policies in the origin
+country, the paper highlights that protecting migrants against risks and abuses also requires the coordination
+of numerous actors involved in the migration process, including destination countries but also other migrant
+sending countries, to avoid a “race to the bottom.” Recent policies implemented by Bangladesh, such as
+publicly intermediated government-to-government (G2G) arrangements, are a promising alternative to the
+status quo to reduce migrants’ vulnerability and increase the returns of temporary low-skilled migration.
+
+
+Keywords: low-skilled emigration, temporary migration, migration policies
+
+
+
+
+* Laurent Bossavie is an Economist in the World Bank's Social Protection and Jobs Global Practice, Europe and
+Central Asia Region. email: lbossavie@worldbank.org. This paper serves as a background paper to the 2023 World
+Development Report, Migrants, Refugees and Societies. The findings, interpretations, and conclusions expressed in
+this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for
+Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of
+the World Bank or the governments they represent. The author is very grateful to Aneeka Rahman for very helpful
+comments and suggestions on an earlier draft of this paper. The author would also like to thank colleagues and co-
+authors Syud Ahmed Amer, Joseph-Simon Goerlach, Caglar Ozden, Maheshwor Shrestha and He Wang for countless
+discussions and for sharpening his thinking on temporary migration from Bangladesh, without implicating them for
+the shortcomings in this paper.
+Introduction
+Temporary migration is part of life in many regions of the world, especially for low-skilled workers from
+low- and middle-income countries (Dustmann and Görlach 2016). Every year, millions of mostly low-
+skilled workers depart with temporary employment visas and short-term contracts from South Asia,
+Southeast Asia, and the Middle East to oil-rich destination countries on the Persian Gulf. Once their
+contracts expire, workers return to their country of origin (OECD 2008; World Bank 2018). Bangladesh is
+one of the mains senders of low-skilled migrants overseas, ranking fifth in the world in the number of
+nationals overseas in 2018. Despite the importance of the phenomenon, the empirical and policy literature
+has traditionally focused on permanent migration from the perspective of high-income destination
+countries.
+
+The temporary nature of labor mobility from lower-income countries such as Bangladesh
+requires departing from traditional policy frameworks that treats migration as a permanent, one-time
+episode. To articulate policy challenges and responses specific to low-skilled temporary migration, this
+paper relies on the migration life cycle as a policy framework. This framework describes temporary
+migration as having four stages (figure 1). The first stage is predecision, when a worker weights the costs
+and benefits of migrating based on available information and decides whether to migrate overseas. The
+second stage is predeparture, when, after the worker decided to move overseas, he or she can take steps to
+improve employability, find and secure a job, obtain the necessary legal documents to migrate (clearances
+from national authorities, visas, passports, and so forth), and complete the logistical preparations for
+migration (tickets, financing). The third stage is during migration, when the migrant is employed overseas.
+The final stage is after migration: that is, after the return to the origin country.
+
+Figure 1. The four stages of the migration life cycle framework for temporary migration policy
+
+
+
+
+Source: Adapted from Ahmed and Bossavie 2022.
+
+At each stage of the life cycle, migrants require information and support from the migration management
+systems of both their country of origin and the destination country. Because all stages of the life cycle are
+part of the same lifetime decisions (Dustmann and Goerlach 2016; Bossavie et al. 2021), they cannot be
+seen in isolation: they are all intertwined, and policies implemented at one stage of the life cycle have
+dynamic repercussions on other stages. For example, employment outcomes before migration and age at
+departure are linked to the duration of stay abroad. Duration of stay, in turn is affected by migration costs
+and wages abroad, which determine how long migrants need to stay overseas to achieve a given savings
+target. Closing the full cycle, the ability to finance entrepreneurial activities after return will be affected by
+the monetary costs of migration, wages abroad, and the duration of stay at destination. Policies that aim to
+influence any of these decisions or outcomes will thus, by the very nature of these links, also influence the
+
+                                                                                                                2
+others. It is thus critical for policy makers to consider these links when designing policies related to
+temporary migration.
+
+At the end of the migration life cycle (the return stage), one key policy challenge is to productively
+reintegrate temporary migrants into labor markets in the origin country and take full advantage of the human
+and financial capital they bring back. One critical barrier in achieving this objective is that, almost by
+design, return migrants currently fall through the cracks of standard registries because they have been away
+from the country of origin. As a result, they cannot be linked to interventions tailored to their needs to
+support reintegration and maximize the benefits of their migration experience for the origin country.
+Addressing this critical gap starts with collecting detailed data on temporary migrants and their migration
+and employment history at the return stage. Such registries can then be linked to national registries or
+existing employment registries so that return migrants can be directed to tailored employment interventions
+to support their needs.
+
+Background and context
+
+Bangladesh is the eighth largest country in the world in terms of population, with about 165
+million people. The country has experienced rapid economic growth over the past few decades, with a sharp
+decline of the poverty rate from 43.5 percent in 1991 to 14.3 percent in 2016. Despite this progress, it
+remains classified as a lower-middle income country, ranking 171 out of 225 countries in terms of GDP per
+capita.
+
+Like many other developing economies, Bangladesh is at a stage of demographic transition with hundreds
+of thousands of young workers entering the workforce every year. Despite rapid economic development,
+job creation in the country has not been able to keep up with the massive influx of youth into the labor
+market. Good-quality, formal, and higher-wage jobs are not being created rapidly enough to accommodate
+new entries into the labor force (Farole et al. 2017). Labor earnings in Bangladesh remain quite low by
+international standards, and low-skilled workers can expect to earn about four times more overseas than
+they would in Bangladesh. In addition to increasing the welfare of migrants and their families during the
+migration episode, migration can also generate benefits in the longer term by allowing temporary migrants
+to overcome credit constraints and engage in entrepreneurial activities when they return to Bangladesh
+(Bossavie et al. 2021). The large monetary returns of migration generate strong incentives for low-skilled
+Bangladeshi workers to go and work overseas.
+
+Bangladesh is one of the main countries of origin of labor migrants globally. It ranked fifth worldwide in
+the number of nationals overseas before the COVID-19 pandemic, with an estimated 7.8 million
+Bangladeshis working abroad in 2018. The magnitude of international labor migration from the country has
+risen steadily since 1976, driven by an increase in labor demand from the main destinations. Data from the
+Bureau of Manpower, Employment, and Training (BMET) show that the annual outflow of low-skilled
+workers from Bangladesh has increased from about 200,000 workers in 2000 to well over 500,000 in recent
+years, with the exception of the outbreak of the COVID-19 pandemic in 2020 (figure 2). During the decade
+preceding the emergence of COVID-19, more than 750,000 workers emigrated annually. The annual
+number of labor migrants departing from Bangladesh reached a record high of 1 million workers in 2017,
+with more than half of them going to Saudi Arabia. The incidence of emigration from the country is also
+high in relative terms: as of 2017, more than 10 percent of the total male working-age population of
+Bangladesh (aged 15–64) was currently overseas or had worked there in the past.
+
+As a result, remittances sent by workers from Bangladesh have become an important source of national
+income. Between 2000 and 2017, remittance inflows increased by almost seven times and grew at an annual
+rate of about 12 percent. At their peak, between 2008 and 2012, remittances made up one-tenth of the
+
+                                                                                                          3
+national GDP. In 2019, Bangladesh was the tenth largest remittance-receiving country globally.
+Remittances from workers abroad have been a key driver of poverty reduction in Bangladesh, and they
+continue to provide a large share of household income for poorer households (Hill and Endara 2019; World
+Bank 2013, 2015).
+
+Figure 2 Annual departures of international labor migrants from Bangladesh, 1995–2020
+
+
+
+
+Sources: Adapted and updated from Bossavie et al. 2021.
+Note: Data on annual migration flows from Bangladesh are administrative data from Bangladesh Bureau of Manpower
+Employment and Training (BMET).
+
+Temporary labor migration from Bangladesh is largely low skilled, reflecting the overall low levels of
+educational attainment among the working-age population by international standards (Barro and Lee 2013).
+An average migrant from Bangladesh has incomplete secondary education, and one-third of migrants have
+at most primary education. Despite low levels of educational attainment, international migrants have on
+average completed two more years of schooling than Bangladeshi workers who do not migrate (Ahmed and
+Bossavie 2022). Labor migrants are overrepresented among individuals with intermediate levels of
+schooling, as opposed to individuals with a tertiary education or no education. Consistent with global
+evidence, migrants from Bangladesh are also disproportionately young adults: the average age of
+Bangladeshi migrants at destination is 30, significantly younger than the average male in the working-age
+population. The gender distribution among migrants is also strongly skewed: the vast majority of migrants
+are males. The prevalence of male labor migration is driven by the low labor force participation of women
+domestically (Farole et al. 2017), combined with the concentration of foreign labor demand in occupations
+requiring physical strength, such as construction. 1 Policies in Bangladesh have also been restricting female
+migration for a long time: semi-skilled and low-skilled migration among women from Bangladesh was
+banned until the 2000s. The ban was then progressively lifted, leading to an increase in female migration
+to 12 percent of total migration flows in 2017. 2
+
+Oil-exporting member countries of the Gulf Cooperation Council (GCC) are the main destinations of
+migrants from Bangladesh, as for many other countries that send low-skilled migrants. This pattern is driven
+by a strong demand for low- and semi-skilled labor in the nontraded services sector of the GCC countries,
+to fill labor shortages in occupations that nationals are unwilling to take. According to administrative data
+from BMET, more than 80 percent of migrants from Bangladesh go to the Gulf countries. Historically, the
+leading destinations have been Saudi Arabia (30 percent), the United Arab Emirates (19 percent), Oman
+
+                                                                                                             4
+(12 percent), Malaysia (9 percent), Qatar (6 percent), and Singapore (6 percent) . In addition to being
+heavily concentrated in a few destinations, migrants from Bangladesh are concentrated in a few sectors of
+employment: more than 60 percent of migrants are employed in the construction sector overseas. The high
+concentration of Bangladeshi migrants in the construction sector of oil-exporting economies generates
+significant year-to-year variability in emigration flows, which closely follow fluctuations in oil prices
+(figure 2).
+
+Low-skilled international migration from Bangladesh is temporary by design, due to labor market
+regulations and strict residency laws in the main destination countries in the Gulf and Southeast Asia.
+Migrants’ stay in the main destinations is strictly conditional on holding a valid employment contract with
+an employer overseas. Low-skilled migrants cannot migrate without one, and they must return to their origin
+country once their employment contract expires or is not renewed. They also cannot retire in the destination
+country. The average duration of stay overseas of a low-skilled migrant from Bangladesh is about five
+years, with some variation depending on the destination (Ahmed and Bossavie 2022).
+
+Low-skilled temporary migration policies in Bangladesh
+
+This section describes the migration system currently in place in Bangladesh to achieve the triple policy
+objective of: (1) maximizing migration flows and remittances; (2) maximizing the benefits of temporary
+migration for workers, their families, and the socioeconomic development of Bangladesh; and (3)
+minimizing migrants’ vulnerability. Current systems attempt to tackle these issues through policies at each
+stage of the migration life cycle: predecision, predeparture, during migration, and after migration (Amer
+and Bossavie 2022; IOM 2018b). This section starts by describing the overall institutional and regulatory
+framework that governs low-skilled temporary migration from Bangladesh. It then discusses specific
+policies that are being implemented at each stage of the migration life cycle to optimize the migration
+process— maximizing its benefits while reducing its risks.
+
+Institutional and regulatory framework
+
+The institutional and regulatory framework that governs low-skilled temporary migration from Bangladesh
+consists of four building blocks: (1) the institutional framework in Bangladesh; (2) regulations in
+destination countries; (3) bilateral agreements between Bangladesh and destination countries; and (4)
+nongovernmental migration programs.
+
+Institutional framework in the origin country
+
+Government institutions
+
+Bangladesh has established a dedicated ministry that aims to enhance overseas employment opportunities
+for Bangladeshi workers through migration management, the Ministry of Expatriates' Welfare and Overseas
+Employment (MEWOE). The ministry is in charge of the following functions: (1) ensuring the overall
+welfare of migrants, protecting their rights, and contributing to the socioeconomic development of the
+country through overseas employment; (2) providing training to ensure the labor force meets the needs of
+foreign labor markets; (3) managing and enhancing migration systems with existing foreign labor markets
+while exploring new foreign labor markets and expanding to them; (4) negotiating and signing agreements
+and Memorandums of Understanding (MoUs) with foreign governments, international organizations
+concerned with migration, and various other international organizations regarding manpower export and
+training; and (5) creating public awareness about safe migration process in order to ensure the overall
+welfare of migrants.
+
+
+                                                                                                          5
+To fulfill these objectives, MEWOE has been formulating and implementing policies and plans; enacting
+laws, rules, and regulations; and developing projects and programs. The main policy adopted by the
+ministry to govern low-skilled migration is the 2013 Overseas Employment and Migrants Act, which
+provides a legal basis for the operations of various migration-related agencies. The Act aims to promote
+overseas employment and enhance safe migration while supporting the rights and welfare of migrant
+workers and members of their families. This Act includes a provision to enhance the regulatory oversight
+of private migrant recruitment agencies. However, the relevant implementing rules of this Act—the
+Recruitment License and Code of Conduct—were not officially circulated until January 2020. Under the
+main 2013 Act, several related rules have been formulated, including the 2016 Policy on Expatriates
+Welfare and Overseas Employment, which provides a comprehensive labor migration framework with a
+particular focus on the protection of migrant workers; the 2017 Overseas Employment and Migrants’
+Management Rules, which regulate the obtaining of passports, visas, and predeparture training; and the
+2018 Migrant Workers’ Registration Rule.
+
+Under the overall authority of MEWOE, a set of four government institutions is in charge of specific
+functions related to migration: the Bureau of Manpower Employment and Training (BMET); the Wage
+Earners' Welfare Board (WEWB); the Bangladesh Overseas Employment and Services Limited (BOESL);
+and Probashi Kallyan Bank (PKB). BMET is the main executive agency in charge of international labor
+migration in the country. It is responsible for vetting and receiving job demands from foreign employers,
+providing the necessary clearances to outbound migrant workers, and preparing workers for migration
+overseas by providing predeparture orientation programs as well as skills training for migrants. It is also in
+charge of regulating and monitoring private recruitment agencies and can take punitive actions against
+them. WEWB is responsible for offering welfare support to migrants and their dependents. BOESL offers
+government-intermediated migrant recruiting services for selected destination countries; these services
+extend to less than 1 percent of total recruitment. Finally, PKB is a government bank mandated that provides
+provide predeparture loans and after-return reintegration loans. Policies related to remittances are managed
+by the Bangladesh Bank separately from institutions under MEWOE.
+
+Private entities
+
+The core function of labor intermediation is undertaken by Bangladesh’s private sector, mainly due to the
+government’s limited administrative capacity. There are currently about one thousand migrant recruitment
+agencies in Bangladesh. Together with their individual agents, they are in charge of disseminating
+information related to migration opportunities, finding interested and qualified applicants for overseas jobs,
+and supporting them in the process, as well as matching them to vacancies in foreign labor markets. Both
+recruitment agencies and their agents are registered entities; however, their informal subagents (dalals),
+which they rely on to reach out to workers—especially in more remote rural areas—are not legally
+registered and also are not covered by the 2013 Overseas Employment and Migration Act. These generally
+unlicensed intermediaries are embedded in the local communities and serve the important function of
+linking migrants with recruitment agents. They offer a service package that includes handling visas, tickets,
+BMET clearance, and insurance in return for a high fee. These subagents are typically members of the
+aspiring migrants’ social networks, such as relatives, friends, and neighbors.
+
+Nongovernmental organizations
+In addition to government-led policies, nongovernmental organizations (NGOs) and civil society
+organizations (CSOs) in Bangladesh have been playing an important role in the development and
+improvement of migration systems through specific programs targeted at the poorest and most vulnerable
+migrants. BRAC—the leading NGO in Bangladesh—has been offering a full “360-degree” service to poor
+and vulnerable migrants to ensure the safe, regular, and responsive migration of these workers. BRAC’s
+migration program provides support to poor and vulnerable migrants at each stage of the migration life
+
+                                                                                                            6
+cycle: before, during, and after migration. It aims to improve knowledge about migration, reduce illegal
+practices by recruitment agencies, and improve contact between relevant agencies in destination countries
+and in Bangladesh (Sarker 2018). From 2006 to 2018, BRAC provided 937,000 potential migrants with
+information regarding safe migration and reintegration. Several CSOs, including the Awaj Foundation,
+BOMSA, the Dhaka Ahsania Mission (DAM), the Manusher Jonno Foundation (MJF), and the Ovibashi
+Karmi Unnayan Programme (OKUP), have also been playing important roles in promoting a rights-based
+protection regime for migrants at various stages.
+
+Regulations in destination countries
+
+Low-skilled temporary migration from Bangladesh is also governed by regulations in destination countries.
+In the 1950s, the Gulf states—the main destination of low-skilled migrants from Bangladesh—adopted a
+new approach to procuring foreign labor, the so-called kafala (sponsorship) system, which requires foreign
+labor migrants to obtain the sponsorship of a citizen or a government entity in the destination country,
+including for a visa and work permit. Under these sponsorship rules, labor migrants can enter and stay in
+the country only through a sponsor, a local employer who takes on both legal and economic responsibility
+for the migrant. These contracts are typically of fixed duration and tied to a specific employer, but they can
+be extended, which allows migrants to stay longer than their original contract stipulated. In this context, the
+termination or nonrenewal of the work contract entails mandatory return to Bangladesh. Although the main
+destination countries in Southeast Asia do not have a sponsorship program per se, stays in these destinations
+are also tied to holding an employment contract. In addition, the total duration of stay of low-skilled
+migrants is capped at 8 years in Singapore and 10 years in Malaysia. While there is no official cap in
+duration of stay in the GCC countries, migrants cannot retire at destination because residing overseas is
+conditional on being employed. The acquisition of citizenship or permanent residency in destination
+countries is also effectively impossible, irrespective of migrants’ occupation, education, nationality, or
+duration of stay (Fargues 2011; Fargues and Bel Air 2015; Wahba 2015). Furthermore, low-skilled migrants
+are not allowed to take their families with them in the main destination countries, providing additional
+incentives to return to Bangladesh (Ahmed and Bossavie 2022).
+
+Given the abundance of low-skilled labor from Bangladesh and other migrant-sending countries, as well as
+the large returns to migrating (Mobarak, Sharif, and Shrestha 2020), the supply of low-skilled foreign labor
+relative is well in excess of demand from destination countries. To limit and regulate these flows, the main
+destination countries in the GCC and Southeast Asia set quotas for low-skilled foreign labor on a yearly
+basis. In the GCC countries, these quotas are closely tied to fuel exports, the single-most important source
+of income and a major determinant of demand for foreign labor. As a result, labor demand is the binding
+constraint while the labor supply of foreign labor is quite elastic. This generates significant year-to-year
+variability in emigration flows from Bangladesh, which are closely aligned with fluctuations in oil process
+(figure 2).
+
+Agreements between destination and migrant-sending countries
+
+Bilateral labor agreements (BLAs) between Bangladesh and destination countries in the Middle East and
+Southeast Asia are common practice to regulate and manage migration flows. Several hundred thousand
+low-skilled workers from Bangladesh migrate every year under such temporary labor agreements. A BLA
+is essentially a legal agreement between countries to ensure that migration takes place in accordance with
+agreed-on principles and procedures. These agreements, for example, fix the maximum quotas of manpower
+that can migrate temporarily between origin and destination each year and regulate important conditions
+that affect labor migrants’ contract durations, renewal policies, minimum wages, and, in principle,
+migration costs. For origin countries, these agreements ensure continued access to overseas labor markets
+and opportunities to promote protection and welfare of their workers. For destination countries, bilateral
+
+
+                                                                                                             7
+labor agreements help achieve a flow of labor that meets the needs of employers and industrial sectors while
+allowing that flow to be managed and regulated.
+
+BLAs in place between Bangladesh and the main destination countries are of two types. The first type of
+BLAs are privately intermediated, meaning that the government of Bangladesh delegates the labor
+intermediation between prospective migrants and foreign employers to private agencies. This type of
+arrangement predominates in the context of low-skilled migration from Bangladesh, especially with
+destination countries in the GCC. The second type of BLAs are publicly intermediated; the government of
+Bangladesh, together with the destination country government, directly takes charge of intermediation
+activities. Those are the minority in the Bangladesh context because they require special administration to
+ensure their smooth implementation. 3 Examples of publicly intermediated government-to-government
+(G2G) programs include the agreement between Bangladesh and Malaysia for agricultural work in the palm
+oil sector, and the Employment Permit System (EPS) with the Republic of Korea. Beyond these two
+programs, the MEWOE’s in-house recruitment agency, BOESL, administers other programs with Jordan
+and Japan that are similar, but smaller in scale, than the Korean EPS.
+
+Less formal than BLAs are Memorandums of Understanding (MoUs). Those are often preferred both by
+the government of Bangladesh and destination countries due to their flexibility. Compared to BLAs, MoUs
+are nonbinding agreements that are easier to negotiate, implement, and modify according to changing
+economic and labor market conditions. The effectiveness of MoUs is thus largely determined by subsequent
+implementation and enforcement (IOM 2011). Bangladesh, for example, signed MoUs with the United
+Arab Emirates in 2007 that aim to regulate the employment of the relevant temporary contractual workers,
+reduce the role of illegal recruitment agencies, and diminish labor abuse, among other issues. In 2015,
+Bangladesh signed another MoU with Saudi Arabia concerning the recruitment of female domestic workers,
+lifting the ban Saudi Arabia had imposed in 2008 on Bangladeshi migrants. In the MoU, the Saudi
+government set quotas for the recruitment of female Bangladeshi labor migrants by agencies (World Bank
+2018).
+
+Predecision policies
+
+At the predecision stage, workers weight the costs and benefits of migration based on the information
+available to them , to decide whether to go work overseas or in Bangladesh. At this stage, two types of
+policies play a critical role: (1) provision of information on migration opportunities; and (2) regulations
+controlling migration costs. These policies affect not only how many and which type of individuals migrate
+overseas, but also have dynamic repercussions on the trajectories of migrant workers by affecting outcomes
+both during migration and after return. Once migrants have arrived at the destination country, inaccurate
+information provided to them before they left, for example, affects their decision to return early due to
+disappointment, or, on the contrary, induces migrants to stay longer than expected to achieve a targeted
+level of savings. Similarly, migration costs can affect when migrants leave, how long they stay at
+destination, and even what they do after they return to Bangladesh (Bossavie et al. 2021). In combination
+with the regulatory framework that governs low-skilled migration from Bangladesh, migration costs can
+also affect the bargaining power of migrants with respect to their employer at destination and place them in
+vulnerable situations (Ahmed and Bossavie 2022).
+
+Information provision
+
+Despite the importance of low-skilled temporary migration for Bangladesh, formal governmental sources
+of information about employment opportunities overseas are currently quite limited. BMET maintains
+multiple but unconnected databases of prospective migrants who are seeking information, trying to match
+with employers, and seeking financing. As a result, Bangladesh does not have a formal labor market
+information system for employment overseas. Furthermore, job opportunities overseas are typically not
+
+                                                                                                          8
+publicly advertised because the government only permits recruitment agencies to advertise vacancies in the
+newspapers (subject to the government’s prior approval) if they do not find qualified workers.
+
+MEWOE, BMET, WEWB, and the District Employment and Manpower Offices (DEMOs) are also in
+charge of disseminating information related to safe migration practices. As part of celebrating International
+Migrants’ Day each year, MEWOE circulates leaflets and organizes public rallies to create awareness
+among prospective migrants. BMET authorizes DEMOs to offer predecision information. DEMOs
+collaborate with local NGOs and local government officials during their monthly meetings at the field level
+to share information on safe migration in all districts of Bangladesh. However, these information centers
+do not currently have the capacity to reach the masses, especially in rural areas. Communication campaigns
+are currently being run by various organizations, although often on too modest a scale to reach relevant
+rural areas.
+
+In this context, information about foreign employment opportunities is primarily disseminated though
+social networks and private intermediaries, especially among prospective migrants from remote rural areas.
+Recruitment agencies and aspiring migrants alike rely on additional intermediaries, referred to by different
+names, such as middlemen, subagents, or dalals (in Bangladesh). These individual recruitment agents go to
+villages, disseminate job information, and scout out workers for recruitment companies in main cities.
+Subagents typically support them by disseminating information, mobilizing potential applicants, and
+collecting documentation at all stages of the migration process. These intermediaries are embedded in the
+local communities and serve the important function of linking migrants with recruitment agents.
+Prospective migrants seek information about overseas employment opportunities from these individual
+intermediaries primarily because of trust, proximity, and access to support services. Workers from rural
+areas, who have limited, if any, access to information, are most likely to use such middlemen for
+information.
+
+Community-driven information programs through NGOs and CSOs are also being implemented in
+Bangladesh. These programs are targeted to the poorest and vulnerable households and remain limited in
+scale in comparison to the overall magnitude of migration from Bangladesh. The migration program of
+BRAC, the leading NGO in Bangladesh, leverages an intensive community-based approach to improve
+information provision to prospective migrants. The program provides information to and orients potential
+migrants and their families about the social and economic costs and benefits of migration, and how to
+navigate the migration process safely and finance migration and manage remittances effectively. The
+program relies heavily on local NGOs and community-based organizations to reach potential migrants and
+provide them with information and training. Their voluntary members are from the local community,
+including returning migrants who are respected by migrant workers (Sarker 2018). In addition to the BRAC
+program, other smaller-scale CSOs such as BOMSA, OKUP, and RMMRU have field-level programs that
+disseminate migration information. Several local NGOs receive support from UN Women to offer
+predecision awareness campaigns targeting women and people with low socioeconomic status. Information
+campaign tools include door-to-door information services, courtyard meetings, popular theatre shows, and
+counselling.
+
+Migration cost policies
+
+In a context of large excess supply of foreign labor compared to demand in destination countries, policies
+and regulations in Bangladesh have a critical role to play in ensuring that migration remains affordable,
+especially for workers from poorer households who can benefit the most. In principle, regulations in
+Bangladesh together with bilateral agreements fix the official cost of migration: for example, as a function
+of earnings potential at a specific destination (MEWOE 2017). The government of Bangladesh has also set
+country-specific ceilings for the recruitment agencies to charge jobseekers and has fixed the maximum
+migration costs for low-skilled male and female migrant workers.
+
+                                                                                                           9
+In practice, migration costs are set and charged to migrants by intermediaries and their unofficial subagents
+working under private recruitment agencies. While one of BMET’s function is to monitor agencies and take
+punitive actions against their irregular practices, implementation capacity is weak in practice. In addition,
+informal subagents (dalals) working with private agencies are excluded from the coverage of the Migrants
+Act 2013. As a result, intermediaries and their unofficial subagents often take advantage of their market
+power to charge very high fees to prospective migrants, which far exceed the official costs stipulated by
+government agencies. The average intermediary costs paid by migrants from Bangladesh amount to about
+US$2,000, and constitute more than half of the total migration costs paid by Bangladesh workers, which
+are among the highest in the world (Ahmed and Bossavie 2022). They are especially high when compared
+to wages earned in Bangladesh and overseas. 4
+
+Given the very high costs of migration compared to wages in Bangladesh, most migrants borrow to finance
+their migration episode. According to the World Bank Bangladesh Return Migrant Survey (BRMS), more
+than 60 percent of temporary migrants borrowed to migrate overseas, and among those, more than one-
+third entirely financed their migration episodes through loans. The only state-owned and migration-focused
+bank, PKB, offers Tk 200,000 (US$2,500) loans to finance the costs of migration for a first-time migrant
+and Tk 100,000 (US$1,250) loan to a returnee opting for remigration. The NGO BRAC offers migration
+loans for outgoing migrants with an upper limit of Tk 500,000 (US$6,250) at a high interest of 25 percent.
+About one-third of migrants, however, do not borrow from private or government banks or use NGO
+migration loans and rely instead on unregulated informal money lenders, which charge even higher interest
+rates (Shrestha, Mobarek, and Sharif 2019).
+
+To reduce the costs of migration, the government of Bangladesh has launched several smaller-scale
+programs with select destination countries. Those agreements are entirely managed by origin and
+destination country governments without any private intermediation. Under those agreements, migration
+costs are set through negotiations between the two governments, and actually implemented. One example
+is the Korean EPS program, which is managed directly by Human Resource Development Korea and open
+to Bangladesh, among other countries that send low-skilled migrants. Under this program, temporary
+migrants pay about US$900 to migrate, compared to more than US$4,000 with privately intermediated
+programs to the same destination. A second example is the government-to-government agreement between
+Bangladesh and Malaysia for agricultural work in the palm oil sector, for which migrant workers pay only
+about US$500 compared to US$4,500 with private intermediation. These G2G programs, however, require
+substantial investments in government capacity for sustained service delivery. As a result, they remain low-
+scale compared to the magnitude of low-skilled migration from Bangladesh: between 2008 and 2017,
+16,721 migrants were sent to Korea. Similarly, the Bangladesh-Malaysia G2G program experienced excess
+demand from aspiring migrants, with about 1.4 million eligible candidates applying for the 30,000
+vacancies (Shrestha, Mobarak, and Sharif 2019).
+
+Predeparture policies
+
+Labor intermediation
+
+Once low-skilled workers have made the decision to migrate and have secured funding, a critical step of
+the migration process is to find an employer overseas. This stage is essential and mandatory in the context
+of low-skilled migration from Bangladesh, as for many other migrant-sending countries to the Gulf, because
+temporary migrant workers cannot move to these destinations without the sponsorship of a specific foreign
+employer.
+
+There is currently no formal, systematized procedure to match prospective migrants to employers overseas,
+even for destinations where there is a significant history of immigration from Bangladesh. This is partly
+driven by the type of employment low-skilled temporary migrants from Bangladesh take up at destination,
+
+                                                                                                          10
+which are largely based on physical strength and do not require specific technical skills. As a result, there
+is a presumably a high degree of substitutability between foreign workers, which limits the gains of using
+more sophisticated matching procedures. The main tasks of intermediation—finding interested and
+qualified applicants for overseas jobs and matching them to the positions—are undertaken by private
+recruitment agencies, their agents, and subagents (Das et al. 2019). Job offers by employers are sent directly
+to private agencies, or directly to BOESL in the case of government-recruited migration, which are in charge
+of finding suitable workers through their middleman. While some of these middlemen are based in
+Bangladesh, many are friends or relatives of prospective migrants who are already overseas. Middlemen
+help migrants with key services related to matching with employers, including arranging interviews,
+preparing for interviews, and accompanying them to various places (such as to medical tests or the airport)
+as needed.
+
+Some of the smaller-scale government-led intermediation programs implemented with select destinations
+utilize a more systematized and formal approach to employee-employer matching. High-quality
+intermediation is offered as part of the Korean EPS program, for example. Employers’ needs for skills and
+workforce size are closely monitored to facilitate the rigorous matching of migrant workers to employers.
+Under the EPS, selected migrants must meet rigorous qualifications, including proficiency in the Korean
+language and other skills, and must come from a preselected list of destinations through a process that is
+completely managed by Human Resources Development Service of Korea (Cho et al. 2018). The hiring of
+foreign workers as part of the EPS program is a strict step-by-step process. Candidates are eligible if they
+are between the ages of 18 to 39 and pass a basic Korean language exam. An agency in the origin country
+(a public employment body) then assesses their qualifications and holds their profiles in the application
+pool for one year. The information is then sent to the respective department of the Korean government,
+which checks the qualifications of foreign job applicants. The Korean government also ensures that the
+small and medium enterprises that want to hire foreign labor migrants receive prior authorization (ADBI,
+OECD, and ILO 2019). As a result, migrants and employers in Korea do not need to rely on informal
+brokers to find workers.
+
+Predeparture orientation and training
+
+Once low-skilled temporary migrants have completed the different steps to be able to migrate overseas,
+they need to be sufficiently prepared to maximize the benefits and reduce the risks associated with migrating
+overseas. This includes being equipped with knowledge and skills required to perform well on the job at
+destination, being aware of the legal and logistical procedures to complete at destination, knowing their
+legal rights and possible recourse with employers at destination, and understanding the culture and work
+practices in destination countries.
+BMET currently offers predeparture orientation to prepare workers for work and life overseas. It provides
+two types of predeparture orientation in 62 of its training centers: a three-day mandatory predeparture
+orientation; and a seven-day predeparture orientation for labor migrants to Korea. The topics covered
+include: (1) migration requirements (medical tests, certification, and documentation); (2) work contracts;
+(3) immigration and flight procedures; (4) working conditions, rules, and regulations, and culture and code
+of conduct in the destination country; (5) workplace safety; (6) access to support from the embassy, legal
+aid, and health and insurance in a foreign country; (7) safe remittance and banking procedures; (8) physical
+and psychological health; and (9) return and reintegration challenges. However, these modules are typically
+restricted to simple logistical information to migrants about life abroad, including rules, employment,
+resources available in times of difficulty, culture, and finances. They typically deliver basic information in
+a rather perfunctory manner, and sometimes omit essential information, such as how to obtain necessary
+paperwork. In addition, these orientation programs are often very generic and do not consider the specific
+contexts of migrants’ destinations or the relevant sector of employment.
+
+
+                                                                                                           11
+Regarding skill training for migrants, many privately managed and government-accredited private technical
+training centers (TTCs) in Bangladesh offer a wide range of skills training program. TTCs, operating under
+BMET, provide training to a wide array of people in diverse trades. Currently, female domestic workers
+going to the Middle East are required to undertake a 30-day mandatory training free of cost from the TTCs.
+These centers do not maintain any database of their graduates and their career paths, so there is no
+mechanism in place to determine how many TTC graduates have pursued an overseas career.5 These
+trainings are also not compulsory and are concentrated in high-density areas of Bangladesh, whereas many
+migrants originate from more remote rural areas. As a result, the uptake of these training programs is rather
+low.
+
+In addition to government-managed skill trainings, several private recruitment agencies (PRAs) have their
+own training facilities, where aspirant migrants acquire professional skills before their overseas
+deployment. These facilities comprise about 5 percent of the market share in skills training provision. In
+most cases, these trainings are provided as part of the PRA’s recruitment contract and are covered by total
+recruitment costs. They mainly provide training for construction work and cleaning. Some facilities also
+collaborate with BMET and five TTCs to facilitate housekeeping training for female migrant workers.
+
+Policies while migrants are abroad
+Once temporary migrants have departed overseas, a critical element of low-skilled temporary migration
+policies is to ensure sufficient protection of migrants in the main destinations. This is especially important
+because regulations of the main destination countries offer little protection to low-skilled migrants.
+Migrants’ protection starts with policies before departure discussed in the previous subsections: for
+example, by ensuring migrants have accurate information about safe migration overseas and pay reasonable
+costs to reduce vulnerability to employers at destination. Once migrants’ have departed, origin countries
+can also implement policies to reduce migrant vulnerabilities and ensure protection against possible abuses
+by foreign employers.
+Given the large excess supply of foreign low-skilled labor to GCC and Southeast Asian countries,
+governments of migrant-sending countries such as Bangladesh seemingly face a policy trade-off regarding
+the protection their migrant workers. One the one hand, protecting migrants is needed to maximize the
+returns of the migration episode for workers, their families, and the origin country economy. On the other
+hand, governments from origin countries can be tempted to minimize workers’ protection regulations to
+make their low-skilled workforce more attractive to foreign employers in a so-called “race to the bottom.”
+For example, after India implemented a new system to enhance their migrants’ protection, including the
+issuance of a contract specifying that the worker will receive at least a minimum wage set by the Indian
+government, Saudi Arabia signed a less restrictive MoU with Bangladesh in the same year. Subsequent
+migration flows from Bangladesh soared while those from India collapsed (Amer and Bossavie 2022).
+The vulnerability of migrants at destination is made especially acute by regulations in the main destination
+countries, in particular in the GCC, with its kafala (sponsorship) system. The system even used to grant
+employers the right to withhold workers’ passports and to send them back to their origin countries at will,
+at any time, although reforms in recent years have sought to reduce the prevalence of these abuses (Malit
+and Naufal 2016).
+Labor attachés
+Labor attachés are one common mode by which the government of Bangladesh provides on-site support
+services to its migrant workers within the laws and regulations of destination countries. Labor attachés have
+been entrusted with the responsibility of dealing with host country authorities, employers, and recruiting
+agencies to protect migrants. Practically, the functions of the labor attachés include authentication and
+verification; approval of documents pertaining to recruitment; counseling and assistance to workers in
+
+
+                                                                                                           12
+settling disputes related to work contracts; market exploration; assistance to workers in claiming
+termination benefits to which they are legally entitled; registration of death and assistance in follow-up
+work with sponsors and local authorities, including local burial or transportation of the body; assistance to
+family members in claiming compensation for death due to accidental or other unnatural causes; and
+assistance in taking up problems of a personal nature faced by migrants or their kin in countries of origin
+(Abrar et al. 2014).
+Welfare funds
+Another mechanism to support migrant workers is migrant welfare funds, although these funds are financed
+by migrant worker fees and their functions are currently limited. Until 2018, the scope of protection services
+was limited to extreme cases of distress such as sickness, disability, or death. Services cover the repatriation
+of migrants, and compensation and financial assistance to migrant workers for disability or to their families
+for occupational death. The Wage Earner’s Welfare Board is also used to provide predeparture briefings
+and legal support. Coverage does not, however, include mental health issues. Thus, when compensation is
+awarded for abuse, it is only a portion of the money due to abused migrants in unpaid wages, and does not
+include compensation for harm suffered (United Nations Children’s Fund and Global Migration Group
+2014). In 2018, the Welfare Fund was reformed to become the Wage Earners Welfare Board (WEWB),
+under an Act of the same name. This reform is aimed to decentralize WEWB activities to the field level
+and broaden its scope of services.
+Bilateral agreements
+High-quality bilateral agreements with destination countries are also important instruments to protect low-
+skilled migrants and improve their welfare outcomes while overseas. Bangladeshi migrants who participate
+in the EPS in Korea are paid Korean minimum wages, are able to change employers, have access to
+grievance redressal mechanisms, and are covered by Korean labor laws against abuse and exploitation.
+Within the EPS, Korea provides various services to foreign workers, such as the resolution of workplace
+conflicts, integration in the national community, and assistance finding new jobs (Cho et al. 2018). The
+EPS, however, is a channel for relatively modest demand from Korea (relative to labor demand from GCC
+countries, for example), with a total of about 30,000 workers needed from all migrant-sending countries
+combined.
+
+Remittances
+
+One of the most important services required by migrants abroad is the safe and low-cost transfer of
+remittances. The Bangladesh Bank has authorized a number of private banks and relevant institutions to
+facilitate the transfer of remittances from overseas employees. Although the state-run Probashi Kallyan
+Bank has planned to do so, it has yet to start offering remittance transfer services. Remittance transfer
+services are usually offered by public and private banks, online money transfer agencies such as Western
+Union and MoneyGram, and migrants themselves. Almost all the private banks operating in Bangladesh
+offer remittance transfer services.
+
+Policies at the return stage
+In Bangladesh and many other low-skilled migration contexts, returns are an integral part of the migration
+life cycle because migrants cannot permanently stay in destination countries. The return stage is critical for
+origin countries and temporary migrants to reap the full benefits of the migration experience, beyond
+remittances sent during the migration episode. International evidence shows that temporary migrants
+accumulate human capital and savings overseas that can ultimately benefit the origin country (Bossavie and
+Özden 2022). The benefits of return migration for the origin country and migrants, however, depend on
+whether the right policies are in place in the origin country to fully benefit from the migration experience.
+
+
+                                                                                                             13
+Returns to the origin country can be either planned or unexpected. Unexpected or forced returns are
+especially common in the context of low-skilled temporary migration from Bangladesh to the Gulf because
+stay at destination is strictly conditional on employment, and thus directly affected by negative shocks in
+destination countries. 6 Temporary migrants who unexpectedly return are especially vulnerable: they have
+paid very high upfront costs to go overseas, often by taking loans; ere not able to stay as long and to earn
+as much as expected overseas; and may not find employment in Bangladesh upon return. The COVID-19
+pandemic has brought to light vulnerabilities faced by forced returnees. Most of them existed before the
+pandemic and are likely in the case of forced return due to any future shocks. During the COVID-19
+pandemic, nearly all migrant workers (87 percent) who returned to Bangladesh in the first quarter of 2020
+were found to either lack any source of earnings since returning or to be dependent on family members or
+minor agricultural activities (BRAC 2020). Because of the high levels of debt they took on to migrate and
+the unexpectedly short duration of their stay at destination (because of the pandemic), most return migrants
+are reportedly liquidating savings or taking loans from various formal or informal sources.
+
+Although efforts have been made in recent years, Bangladesh currently lacks a formal and systematized
+approach to support return migrants’ reintegration into domestic labor markets or to remigrate overseas.
+Policies implemented for temporary migrants at the return stage have mostly been one-time programs
+focused on forced/unexpected returns due to specific negative shocks, rather than being systematized. In
+addition, most of these programs have been small scale. The Prottasha program was put in place by both
+the International Organization for Migration and the European Union to reintegrate migrants who were
+forced to return from Europe after holding irregular immigration status. The support to return migrants was
+provided in the returnees’ home districts and consisted of four main interventions: (1) social support,
+including psychosocial support; (2) awareness-raising programs; (3) economic empowerment; and (4)
+institutional development. The third component included entrepreneurship and motivational skill training,
+vocational skills training, access to finance, and referrals to economic reintegration services. The
+effectiveness of the intervention is unclear because no impact evaluation has been undertaken.
+
+The government of Bangladesh also implemented support programs targeted at reintegrating forced
+returnees in the context of the COVID-19 pandemic. In partnership with the World Bank, a program
+implemented by the WEWB under MEWOE delivers services to return migrants who are interested in either
+sustainable reintegration into the domestic labor markets or to access services to prepare for remigration.
+Specifically, the program offers training, counseling, recognition of prior learning, and social reintegration
+and referral services, as well as cash transfers to cover immediate needs to workers who returned from
+overseas in the context of the COVID-19 crisis. The program also aims to build interventions and systems
+that can be used in the medium term to support returnees beyond the pandemic context. In line with this
+effort, the government of Bangladesh is now in the process of preparing a reintegration policy to respond
+more broadly to the return phase in the medium and long term.
+
+A few other programs have also been implemented to support temporary migrants who returned under more
+standard conditions. These programs are small scale and are not systematized, and typically are
+implemented by NGOs and CSOs. For example, BRAC, as part of its migration program, has been
+providing psychological services, training, and financial support to facilitate the socioeconomic
+reintegration of return migrants. Together with the World Bank, BRAC has also implemented a pilot project
+supported by UN Women that offers income-generating activities and skills development training sessions
+for return migrant workers, especially women, in Bangladesh (Sarker 2018).
+
+Some limited support to return migrants is also provided as part of government-intermediated programs
+with select destination countries. For example, the government-to-government EPS program with Korea
+includes support for the repatriation of migrants. While efforts to help returnee workers utilize their
+improved skills and financial resources in their origin countries are under way, current policies are primarily
+aimed at ensuring that temporary migrants return in a timely manner, rather than facilitating their
+
+                                                                                                            14
+reintegration in domestic labor markets. Those programs, for example, provide repatriation cost insurance
+for returning migrants together with support in the form of a lump-sum payment for reintegration in
+Bangladesh upon completion of the contract period.
+
+Policy results and impacts
+The BLAs and MoUs put in place with the main destination countries have been effective in increasing the
+inflow of Bangladeshi labor migrants to GCC countries. In 2007, when Bangladesh signed the MoU with
+the United Arab Emirates, the inflow of Bangladeshi labor migrants to the United Arab Emirates was
+roughly 226,000, a 74 percent increase over the previous year’s total of about 130,000. In 2008, the inflow
+increased again by 85 percent to about 419,000. Finally, when Bangladesh signed the MoU with Saudi
+Arabia in 2015, the number of Bangladeshi labor migrants was approximately 58,000, more than four times
+higher than in the previous year (roughly 11,000); in 2016, the inflow further increased to about 144,000.
+Ensuring the protection of low-skilled migrants through these agreements has been more problematic. The
+enforcement mechanisms of the BLAs and MoUs remain weak, leading to gaps between de jure and de
+facto agreements. There is currently a lack of transparency in the bilateral negotiation process and secrecy
+around the agreements, which makes it difficult to work with destination countries on issues affecting
+migrants while in their jurisdiction. A lack of mechanisms for implementation, monitoring, and evaluation
+hinders proper enforcement of BLAs (Migrant Forum in Asia 2014). The general and vague objectives set
+out in bilateral instruments make it difficult to follow up on state obligations, and the secrecy of negotiations
+prevent legislatures and people from holding their governments accountable. The implementation,
+monitoring, and evaluation of BLAs and MoUs are feasible only if the process is open and inclusive of
+relevant stakeholders. In addition, the BLAs and MoUs signed by Bangladesh often fail to reflect national
+laws, let alone relevant international human rights and labor rights treaties. As a result, they overlook
+fundamental issues in the protection of the rights of migrant workers and members of their families (Migrant
+Forum in Asia 2014). In destination countries, there is no trace of government action to implement agreed-
+on provisions of the MoUs, such as strengthened workplace inspection procedures and increased awareness
+of workers’ rights on the part of employers.
+
+Publicly intermediated government-to-government agreements between Bangladesh and select destination
+countries, however, have been very effective in improving migrant workers’ welfare and reducing
+vulnerability. A rigorous impact evaluation of the Bangladesh-Malaysia G2G program showed that the
+G2G program reduced migration costs by a factor of 8, borrowing by 16 percentage points (19 percent), the
+average amount borrowed by Tk 136,000 (72 percent), and average interest rates by 6 percentage points
+compared to private intermediation (Mobarak, Sharif, and Shrestha 2020). The program increased migrants’
+net earnings from a three-year migration, after deducting the cost and interest payments, by 87 percent,
+compared to private channels. Migrants participating in G2G arrangements were also more likely than
+migrants who went through private channels to migrate with necessary clearances, training, orientation,
+employment contracts, and proper insurance. They were also likely to start work earlier upon arrival and
+have contracts that allow for extensions. Korea’s EPS has also led to significant welfare improvements for
+migrant workers along multiple dimensions. Migrating through this program resulted in a drastic reduction
+of migration costs from US$4,000 for privately intermediated migration to US$900 under the program.
+Because migrants earned Korean minimum wages and paid significantly lower migration costs, they were
+able to remit a larger share of their earnings and larger absolute amounts (ADBI, OECD, and ILO 2019).
+Temporary migrants who took part in the G2G agreement reported satisfaction with their contract-based
+salaries, benefits, and low living expenses. The program also reduced reliance on informal brokers and
+sharpening respect for the rights of labor migrants overall.
+
+The current lack of formal information sources about migration opportunities in Bangladesh has multiple
+adverse consequences on migration decisions and migrants’ outcomes. First, it reduces access to migration
+
+                                                                                                              15
+among the working-age population, which lacks social networks: among workers who migrate through
+private channels, 30 percent had family or relatives in the destination country compared to only 7 percent
+of the working-age population. Second, this leads to frequent migration failures. One-third of migration
+attempts from Bangladesh currently end in failure, which imposes a very large cost for already poor
+households, with a medium loss of US$250 (Das et al. 2019). Third, individuals who manage to migrate
+often lack information on how to migrate safely, which can place them in vulnerable situations. Although
+disseminating information about safe migration is one of MEWOE’s official functions, 60 percent of
+migrants had never been exposed to information about safe migration. Of those who had learned about safe
+channels, 58 percent said their source of information was their friends rather than any official channel (IOM
+2018a). Finally, migrants are often disappointed by outcomes at destination. They often find the work
+abroad to be very different from what they had anticipated (Das et al. 2019) and receive lower wages than
+they expected: more than three-quarters of return migrants in Bangladesh earned less overseas than they
+expected before they left, and their actual wage represented on average, only two-thirds of what they
+anticipated. As a result, many migrants return earlier than expected or overstay illegally to achieve their
+targeted savings (Ahmed and Bossavie 2022).
+
+In contrast with largely unregulated information provision though private intermediaries, community-
+driven information can ensure more accurate provision of information to prospective migrants and reduce
+vulnerability along several dimensions. The Safe Migration for Bangladeshi Workers pilot program—
+supported by the World Bank and implemented by BRAC—was found to reduce the rate of migration
+among poor households, which had better information about the costs and benefits of migration (Das et al.
+2019). As a result, the rates of migration failure declined: the proportion of poor households whose chosen
+migrant either did not depart or had to return prematurely dropped significantly.
+
+The lack of policies regulating de facto migration costs for private intermediation results in intermediaries
+taking advantage of their market power to charge very high fees. Intermediaries’ costs equate to about two
+and a half years of the median household income in Bangladesh, and much more for the poorest households.
+Those extremely high costs represent a substantial barrier to migrating for the poorest households in
+Bangladesh, which would otherwise benefit from migration the most. As a result, only 2 percent of the
+households in the first and second consumption deciles have one or more migrating family members,
+compared to about 12 percent in the top quintiles (Ahmed and Bossavie 2022).
+
+The high upfront costs paid by migrants, together with migration regulation in destination countries and the
+limited protection offered by origin countries, exposes low-skilled migrants from Bangladesh to abuses at
+destination. In a context of very high upfront migration costs, migrants need to spend enough time working
+for their employer overseas—at least about one year— to just break even on their original investment. This
+creates strong incentives to keep working for the employer, irrespective of working conditions, exposing
+migrants to abuses. This exposure is facilitated by the kafala (sponsorship) system that prevails in GCC
+countries, which makes it practically very difficult to switch employers at destination.
+In addition, there are gaps in the two main institutional arrangements aimed at ensuring the safety of
+migrants at destination: labor attachés and welfare funds. Labor attachés offices are often understaffed and
+under-resourced, and employees have insufficient training. Migrants report a perceived lack of capacity at
+labor attaché offices, as well as differential treatment for low-skilled migrants, and limited opening times,
+which makes it difficult for them to access services. Labor attaché offices are often located in major cities,
+which complicates efforts for labor attachés to reach out to migrants working in remote rural areas of
+destination countries (Abrar et al. 2014). If labor attachés are not fluent in the local language of the
+destination country, they typically also need the assistance of interpreters and legal advisers to bring migrant
+worker issues to the attention of local authorities, making cumbersome processes even lengthier.
+
+
+
+                                                                                                             16
+Regarding welfare funds, migrants often face major obstacles in lodging grievances and resolving
+complaints. Barriers to accessing formal assistance leave migrant workers vulnerable to labor rights
+violations during recruitment and employment (Harkins and Ahlberg 2017). Weaknesses in the system to
+enforce the rights of temporary migrant workers mean that abuses may go undetected and unaddressed.
+Migrants typically prefer informal mediation methods to formal mechanisms and are willing to settle cases
+before they reach official channels. This preference may occur partially because the scale of justice tends
+to be biased against migrants regardless of the merits of their cases. The willingness to settle is also often
+simply a matter of time and cost, given that all the grievance services are centralized and migrants need
+quick payments to repay loans. The lack of information about these grievance services also plays a role, but
+the overriding consideration is the view that manpower companies are very powerful and can buy
+themselves out of any awkward situation. There is also very little trust that a government regulatory agency
+will conduct a thorough investigation (essential when documentation is weak) or follow up on cases to
+ensure that victims are genuinely compensated. The risk from the migrant’s perspective is, therefore, that
+considerable effort (and associated delays) will only ultimately yield refund of recorded recruitment costs,
+which are significantly lower than actual costs.
+
+In this policy environment, low-skilled migrants from Bangladesh report multiple rights violations or unsafe
+work conditions (Khan and Harroff-Tavel 2011). The top three human rights violations that Bangladeshi
+labor workers suffer abroad are prolonged exposure to extreme heat—that is, to temperatures above 45°C
+(37 percent of respondents); the inability to change employers (30 percent); and withholding of travel or
+identity documents by the employer (24 percent). Very large migration costs also induce a sizeable share
+of migrants from Bangladesh to overstay at destination in the absence of an employment contract, which
+can end up in deportation back to Bangladesh. 7
+At the return stage, migrants who unexpectedly return earlier than expected are especially vulnerable. They
+have often accumulated a large amount of debt (resulting from high migration costs that most probably will
+not have been recouped) after working at destination for a shorter period of time than expected. The
+employment rate of return migrants who voluntarily return is lower than that of nonmigrants, even a few
+years after their return (Bossavie and Wang 2022). This suggests potential frictions in reintegrating into
+labor markets in the origin country among returnees who are looking for wage jobs as opposed to becoming
+entrepreneurs. In addition, compared to other contexts, the wage premium earned by return migrants to
+Bangladesh relative to nonmigrants is small and statistically insignificant, suggesting that return migrants
+are not able to take much advantage of their experience overseas in the domestic wage market. Finally, a
+large share of return migrants to Bangladesh report not being to save as much overseas as they anticipated
+before they left.
+
+
+Policy lessons
+Policies implemented at each stage of the migration life cycle (predecision, predeparture, during migration,
+and after migration) affect migrant outcomes at other stages of the life cycle. Using the case of Bangladesh,
+this paper illustrates that policies targeted at a given stage of the migration life cycle have repercussions on
+migrants’ outcomes and vulnerabilities in other stages. Therefore, policies implemented at each stage of
+migration life cycle cannot be considered in isolation. For example, the provision of inaccurate information
+at the predeparture stage affects the vulnerability of migrants at destination and can lead them to return
+earlier than expected. Similarly, policies regulating migration costs paid by workers before departure will
+affect migrants’ exposure to employers’ abuse at destination, their incentives to overstay illegally, their
+return decisions, and even their reintegration after they return to the origin country, by for example affecting
+their ability to launch and pursue entrepreneurial activities after they return (Bossavie et al. 2021). As a
+result, gaps in information provision and policies to regulate costs may require stronger measures to support
+
+
+
+                                                                                                             17
+migrants while at destination and avoid abuse. Support to help migrants reintegrate into domestic labor
+markets or to remigrate also need to be enhanced.
+
+Actions taken in origin countries to regulate intermediary fees and the recruitment market play a key role
+in making low-skilled migration more affordable. In the presence of a large excess supply of low-skilled
+labor for work overseas compared to demand in destination countries, policies to regulate the recruitment
+costs of migrant workers and specifically migration costs are essential to keep costs affordable. The case
+study of Bangladesh shows that delegating migrant recruitment to private entities without adequate and
+enforceable regulations can dramatically drive costs up, with important consequences on migrants’
+vulnerability and outcomes throughout the migration life cycle. While regulations in origin countries play
+a critical role, policy actions taken in destination countries also matter: migrant costs paid by Bangladeshi
+workers are higher for destinations with weaker labor laws and regulations. Altering practices allowed by
+some destination countries, such as visa trading, can also help drive costs down. 8 High-quality publicly
+intermediated G2G arrangements have also been shown to be very effective in reducing migration costs, as
+opposed to private intermediation.
+Reducing vulnerability among low-skilled temporary migrants requires the coordination of numerous
+actors involved in the migration process to avoid a “race to the bottom.” By its very nature, migration
+involves a multiplicity of actors, including government entities in countries of destination and origin,
+private entities at origin such as recruitment agencies, employers at destination, migrants themselves and
+their households, and in some cases other migrant-sending countries in the region. Some of the policy
+actions to reduce vulnerability can be taken unilaterally and require the involvement and coordination of
+actors in the country of origin only, such as providing systematic information about employment
+opportunities abroad. Those require regulatory action from the government combined with verifiable and
+monitored compliance by recruitment agencies, and the use of formal information channels by prospective
+migrants. In contrast, policy instruments such as BLAs require close partnerships between governments
+both at origin and at destination and even regional collaboration to ensure uniformity and avoid a “race to
+the bottom.” In addition, coordination between the international standards-setting agencies is crucial
+because they are in a strong position to advise all stakeholders in the development of bilateral instruments
+that serve the common interests of state parties and the protection of migrant workers’ rights.
+Strengthening the tracking of and collection of data on migrants abroad is also critical to reduce
+vulnerabilities, together with mechanisms for monitoring and evaluation. Migrant-sending countries such
+as Bangladesh have made substantial progress in recent years in improving administrative databases to track
+outbound and returning migrants—an area of weakness in the past. However, databases are still far from
+comprehensive. In addition, detailed data on vulnerable migrants are often unavailable, unclear, or
+dispersed, even though such data are universally regarded as essential to providing proper services to
+migrants, to informing policy makers, and to monitoring safe migration. It is thus essential to create and
+maintain national databases to pull together and manage data (currently scattered across different
+organizations and agencies) in the interests of national and transnational cooperation built on information
+exchange. If a country seeks to provide genuinely safe avenues for migration and mobility, it must analyze
+the intentions—and monitor the effects—of policies and procedures. The use of standardized registration
+data systems in different countries could improve the quality of the data collected and thus enable better
+comparison activities.
+
+Publicly provided intermediation through government-to-government agreements is a very effective tool to
+increase the benefits of migration for migrant themselves, the domestic economy, and destination countries,
+but requires strong administrative capacity. As evidenced by the results of Bangladesh’s G2G agreements
+with Malaysia and Korea, these programs can drastically reduce migration costs, improve information
+provision, and significantly enhance workers’ protection and welfare at destination. They can also increase
+access to migration opportunities among households that lack migration networks, and can provide avenues
+
+
+                                                                                                          18
+into new markets, for both new destinations and new types of professions. Those programs are, however,
+currently limited and will require significant investments to strengthen administrative capacity in order to
+be scaled up.
+
+Policies at the return stage must distinguish between forced and voluntary returns and need to be rigorously
+evaluated to learn what is effective. The circumstances behind migrants’ return have important implications
+for the type of policies needed to maximize the benefits of return migration and reduce vulnerabilities.
+Interventions needed to support return for temporary migrants who voluntarily come back after
+accumulating sufficient savings overseas differ from those targeted at migrants who were expelled from the
+host country, have returned earlier than expected after suffering disenchantment, were laid off by their
+employer at destination, or were forced to leave because of an external crisis such as the pandemic or
+negative shocks to the destination economy. While voluntary returnees can be accompanied by referrals to
+more standard labor interventions tailored to their needs, such as labor intermediation or support for
+entrepreneurship, forced returns may require social assistance interventions, including support for
+repatriation or cash grants to meet immediate needs and commence the process of restoring their
+livelihoods. Because a large share of returning migrants to Bangladesh become small-scale entrepreneurs
+(Bossavie et al. 2021), support to return migrants in setting up and growing their business could be effective,
+as well as effectively channeling overseas savings into productive activities. There is currently, however, a
+lack of evidence on whether interventions targeted at the return stage are effective, either for forced or
+voluntary returnees. Whereas interventions in Bangladesh and other migrant-sending countries have been
+mostly focused on forced returnees, those have not been rigorously evaluated. There is a strong need to
+carry out rigorous impact evaluations on programs targeted at return migrants, especially in the low-skilled
+context where evidence is almost entirely lacking (McKenzie and Yang 2015). If these interventions are
+found to be effective, there could be a case to scale them up and systemize them to cope with future shocks,
+or any forced return by migrants overseas. Meanwhile, interventions aimed at improving the management
+of savings and financial literacy throughout the migration life cycle have been shown to improve the welfare
+of all returnees, irrespective of the reason for returning to the origin country (Doi, McKenzie, and Zia 2014).
+
+Notes
+1 According to the 2016/2017 Bangladesh Labor Force Survey, the domestic labor force participation of women between ages 15–
+
+64 was 35 percent, compared to 88 percent for men in the same age group.
+2 Until the lift of the ban on low-skilled and semi-skilled female migration in 2000, the share of female migrants was less than 1
+
+percent. In 2003, further relaxation took place, and females aged 35 and above were allowed to migrate. In 2006, the age limit was
+further relaxed from 35 years to 25 years, increasing the share of female migrants to about 4 percent. The share of women among
+temporary migrants from Bangladesh has further increased in recent years, boosted by a 2015 bilateral agreement with Saudi
+Arabia.
+3 This includes the recruitment, testing, and certification of applicants and timely data flow between the two countries.
+4 Total migration costs—more than US$4000—are estimated to equate to about 30 months of migrant household income before
+
+departure (Ahmed and Bossavie 2022).
+5 Interview with BMET officials, September 2017.
+6 According to the Bangladesh Return Migrant Survey 2018/19, 43 percent of return migrants to Bangladesh report that they
+
+returned earlier than originally planned or before the end of their employment contract term (Ahmed and Bossavie 2022). The
+leading reasons for returning earlier are being expelled from the host country, low wages at destination, and being laid off by the
+employer. The fact that many migrants return earlier because of low wages suggests imperfect information about earnings overseas
+at the time of migration. Forced returns have also increased sharply during the COVID-19 pandemic.
+7 According to the 2018/19 World Bank Bangladesh Return Migrant Survey, 12 percent of return migrants to Bangladesh report
+
+expulsion from the destination country because of issues with visas and work permits.
+8 Visa trading refers a practice in which the foreign employer who is officially sponsoring a migrant trades or sells the worker’s
+
+visa to another sponsor, with whom the worker is informally employed.
+
+
+
+
+                                                                                                                               19
+References
+Abrar, C. R., S. Irudaya Rajan, L. K. Ruhunage, and Tasneem Siddiqui. 2014. “Institutional Strengthening
+        of the Office of Labour Attaché: Research Findings from Bangladesh, India and Sri Lanka.”
+        Migrating Out of Poverty Research Programme Consortium, University of Sussex, Brighton
+ADBI, OECD, and ILO (Asian Development Bank Institute, Organisation for Economic Co-operation and
+      Development, and International Labour Organization). 2019. Building Partnerships for Effectively
+      Managing Labor Migration: Lessons from Asian Countries. Tokyo: Asian Development Bank
+      Institute.
+Ahmed, Amer, and Laurent Bossavie. 2022. Toward Safer and More Productive Migration for South
+      Asia. International Development in Focus. Washington, DC: World Bank.
+Bangladesh, MEWOE (Ministry of Expatriates' Welfare and Overseas Employment). 2017. Bangladesh
+       Annual Migration Report 2017. IOM Bangladesh.
+
+Bossavie, Laurent, Joseph-Simon Görlach, Çağlar Özden, and He Wang. 2021. “Temporary Migration for
+       Long-term Investment.” Policy Research Working Paper 9740, World Bank, Washington, DC.
+Bossavie, Laurent, and Çağlar Özden. 2022. “Impacts of Temporary Migration on Development in Origin
+       Countries.” Policy Research Working Paper 9996, World Bank, Washington, DC.
+Bossavie, Laurent, and He Wang. 2022. “Return Migration and Labor Market Outcomes: Evidence from
+       South Asia.” Unpublished.
+BRAC. 2020. “A Survey on the Impact of the COVID-19 Pandemic on the Life and Livelihoods of Returnee
+      Migrants.” BRAC, Dhaka.
+Cho, Yoonyoung, Anastasiya Denisova, Soonhwa Yi, and Upasana Khadka. 2018. “Bilateral Arrangement
+       of Temporary Labor Migration: Lessons from Korea’s Employment Permit System.” World Bank,
+       Washington, DC.
+Das, Narayan, Alain de Janvry, Sakib Mahmood, and Elisabeth Sadoulet. 2019. “Migration as a Risky
+       Enterprise: A Diagnostic for Bangladesh.” International Migration Review 53 (3): 900–29.
+Doi, Yoko, David McKenzie, and Bilal Zia. 2014. “Who You Train Matters: Identifying Combined Effects
+       of Financial Education on Migrant Households.” Journal of Development Economics 109 (2): 33–
+       55.
+Dustmann, Christian, and Joseph-Simon Görlach. 2016. “The Economics of Temporary Mi-
+      grations.” Journal of Economic Literature 54 (1): 98–136.
+Fargues, Philippe. 2011. “Immigration without Inclusion: Non-nationals in Nation-building
+       in the Gulf States.” Asian and Pacific Migration Journal 20 (3-4): 273–92.
+Fargues, Philippe, and Françoise De Bel-Air. 2015. “Migration to the Gulf States: The Po-
+       litical Economy of Exceptionalism.” In Global Migration: Old Assumptions, New Dynamics, edited
+       by          Diego         Acosta          Arcarazo         and        Anja        Wiesbrock,
+       139–66. Praeger.
+Farole, Thomas, Yoonyoung Cho, Laurent Bossavie, and Reyes Aterido. 2017. “Bangladesh
+        Jobs Diagnostic.” World Bank, Washington, DC.
+Harkins, Ben, and Meri Åhlberg. 2017. “Access to Justice for Migrant Workers in South-East Asia.”
+       International Labor Organization, Geneva.
+
+                                                                                                     20
+Hill, Ruth, Cevallos, and José Joaquin Endara. 2019. “Spatial and Structural Changes in Poverty Reduction
+        in Bangladesh from 2000 to 2016: An Assessment.” Bangladesh Development Studies 42 2/3: 75–
+        101.
+IOM (International Organization for Migration). 2011. Labour Migration from Colombo Process
+      Countries: Good Practices, Challenges and Ways Forward. Geneva: International Organization
+      for Migration.
+IOM (International Organization for Migration). 2018a. “Safe Migration in Bangladesh: Media Profile &
+       Communication Channels.” IOM, Brussels.
+IOM (International Organization for Migration). 2018b. “The Mapping and Scoping of Services for the
+       Migrant Workers of Bangladesh at Various Stages of the Labour Migration Cycle.” IOM.
+Khan, Azfar, and Helene Harroff-Tavel. 2011. “Reforming the Kafala: Challenges and Opportunities in
+       Moving Forward.” Asian and Pacific Migration Journal 20 (3–4): 293–313.
+Malit, Froilan, T., Jr., and George Naufal. 2016. “Asymmetric Information under the Kafala Sponsorship
+        System: Impacts on Foreign Domestic Workers’ Income and Employment Status in the GCC
+        Countries.” International Migration 54 (5): 76–90.
+McKenzie, David, and Dean Yang. 2015. “Evidence on Policies to Increase the Development Impacts of
+      International Migration.” World Bank Research Observer 30 (2): 155–92.
+Migrant Forum in Asia. 2014. “Bilateral Agreements and Memoranda of Understanding for the Promotion
+       and Protection of the Rights of Migrant Workers and Members of Their Families.” Policy Brief 10,
+       Migrant Forum in Asia, Quezon City, Philippines.
+Mobarak, Mushfiq, Iffath Sharif, and Maheshwor Shrestha. 2020. “Returns to Low-Skilled International
+      Migration: Evidence from the Bangladesh-Malaysia Migration Lottery Program.” Policy Research
+      Working Paper 9165, World Bank, Washington, DC.
+OECD (Organisation for Economic Co-operation and Development). 2008. International Migration
+     Outlook. OECD Publishing.
+Sarker, Bonosree. 2018. “BRAC Migration Program: A Lighthouse for Migrants.” In Human Rights
+        Education in Asia-Pacific, vol. 8, 147–66. Osaka: Asia-Pacific Human Rights Information Center.
+Shrestha, Maheshwar, Ahmed Mushfiq Mobarark, and Ifftah Anwar Sharif. 2019. Migration and
+        Remittances: The Impacts of a Government Intermediated International Migration Program.
+        Washington, DC: World Bank Group.
+United Nations Children’s Fund and Global Migration Group. 2014. Migration and Youth: Challenges and
+       Opportunities. New York: United Nations Children’s Fund.
+Wahba, Jaqueline 2015. “Selection, Selection, Selection: The Impact of Return Migration.” Journal of
+      Population Economics 28 (3): 535–63.
+World Bank. 2013. Bangladesh Poverty Assessment: Assessing a Decade of Progress in Reducing Poverty,
+       2000–2010. Washington, DC: World Bank.
+World Bank. 2015. Global Economic Prospects, January 2015: Having Fiscal Space and Using It.
+      Washington, DC: World Bank.
+World Bank. 2018. Moving for Prosperity: Global Migration and Labor Markets. Washington, DC: World
+       Bank.
+
+
+                                                                                                      21
+

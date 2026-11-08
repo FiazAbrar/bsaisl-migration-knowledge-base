@@ -1,0 +1,2444 @@
+International labour migration from Bangladesh:
+           A decent work perspective
+
+
+
+                    Working Paper No 66
+
+
+
+
+                    Tasneem Siddiqui
+
+
+
+
+                Policy Integration Department
+                    National Policy Group
+                 International Labour Office
+                            Geneva
+
+
+
+
+                        November 2005
+
+
+
+
+        Working papers are preliminary documents circulated
+           to stimulate discussion and obtain comments
+Copyright © International Labour Organization 2006
+
+Publications of the International Labour Office enjoy copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, short
+excerpts from them may be reproduced without authorization, on condition that the source is indicated. For rights of reproduction or
+translation, application should be made to the Publications Bureau (Rights and Permissions), International Labour Office, CH-1211 Geneva
+22, Switzerland. The International Labour Office welcomes such applications.
+Libraries, institutions and other users registered in the United Kingdom with the Copyright Licensing Agency, 90 Tottenham Court Road,
+London W1T 4LP [Fax: (+44) (0)20 7631 5500; email: cla@cla.co.uk], in the United States with the Copyright Clearance Center, 222
+Rosewood Drive, Danvers, MA 01923 [Fax: (+1) (978) 750 4470; email: info@copyright.com] or in other countries with associated
+Reproduction Rights Organizations, may make photocopies in accordance with the licences issued to them for this purpose.
+
+
+ISBN 92-2-118056-5 (printed version)
+     92-2-118057-3 (web version)
+
+
+First published 2006
+
+
+
+
+Cover:
+
+
+
+
+The designations employed in ILO publications, which are in conformity with United Nations practice, and the presentation of material
+therein do not imply the expression of any opinion whatsoever on the part of the International Labour Office concerning the legal status of
+any country, area or territory or of its authorities, or concerning the delimitation of its frontiers.
+The responsibility for opinions expressed in signed articles, studies and other contributions rests solely with their authors, and publication
+does not constitute an endorsement by the International Labour Office of the opinions expressed in them.
+Reference to names of firms and commercial products and processes does not imply their endorsement by the International Labour Office,
+and any failure to mention a particular firm, commercial product or process is not a sign of disapproval.
+
+ILO publications can be obtained through major booksellers or ILO local offices in many countries, or direct from ILO Publications,
+International Labour Office, CH-1211 Geneva 22, Switzerland. Catalogues or lists of new publications are available free of charge from the
+above address, or by email: pubvente@ilo.org
+Visit our website: www.ilo.org/publns
+
+Printed by the International Labour Office, Geneva, Switzerland
+International Labour Migration from
+Bangladesh: A Decent Work Perspective
+Contents
+
+                                                                                                                                                         Page
+
+Preface...............................................................................................................................................    iiii
+
+1.       Introduction...........................................................................................................................            1
+         Conceptual framework ............................................................................................................                  1
+                   Decent work..................................................................................................................            1
+                   Migration ......................................................................................................................         2
+         Sources of information............................................................................................................                 2
+         Structure of the paper..............................................................................................................               3
+
+2.       Importance of short-term migration to the national economy .........................................                                               3
+
+3.       Managing migration: The Institutional framework ..........................................................                                         4
+                   Ministries ......................................................................................................................        4
+                   Bureau of Manpower, Employment and Training (BMET) .........................................                                             5
+                   Private recruiting agencies............................................................................................                  5
+                   Bangladesh Overseas Employment Services Limited (BOESL) ..................................                                               6
+                   Individual contracts.......................................................................................................              6
+
+4.       Legal and regulatory framework of labour migration ......................................................                                          6
+         Sources of rights......................................................................................................................            6
+                   International instruments ..............................................................................................                 6
+                   National instruments .....................................................................................................               7
+
+5.       Employment opportunities – Patterns and trends .............................................................                                       9
+                   Extent of employment...................................................................................................                  9
+                   Main destinations..........................................................................................................              9
+                   Type of employment.....................................................................................................                  9
+                   Sex ratio ........................................................................................................................      10
+                   Age and educational level.............................................................................................                  10
+                   Flow of remittances ......................................................................................................              10
+                   Creation of domestic jobs .............................................................................................                 11
+         Section summary.....................................................................................................................              12
+
+6.       Protecting migrants’ rights at work ....................................................................................                          12
+                   Pre-departure.................................................................................................................          12
+                   In the country of destination .........................................................................................                 14
+         Section summary.....................................................................................................................              18
+
+
+
+
+Working Paper No. 66                                                                                                                                         i
+7.       Social protection....................................................................................................................         18
+         Social protection for migrant workers in the country of destination.......................................                                    18
+         Social protection in Bangladesh for Bangladeshi migrant workers ........................................                                      20
+         Section summary.....................................................................................................................          21
+
+8.       Social dialogue .......................................................................................................................       21
+                   Trade unions .................................................................................................................      21
+                   Migrants’ associations at destination ............................................................................                  23
+                   Associations of returnee migrants in Bangladesh .........................................................                           23
+         Section summary.....................................................................................................................          24
+
+9.       Major challenges and recommendations ............................................................................                             24
+         Challenges...............................................................................................................................     25
+         Recommendations...................................................................................................................            26
+
+References .........................................................................................................................................   31
+
+
+
+
+ii                                                                                                                          Working Paper No. 66
+Preface
+           Dr. Tasneem Siddiqui prepared this paper to serve as a basis for policy dialogue and for
+           formulation of actions under the Bangladesh Decent Work Pilot Programme.
+
+           Bangladesh was one of eight countries that participated in the Decent Work Pilot
+           Programme (2002-2005). The thematic focus of the national pilot programme, which was
+           identified after several rounds of consultations between the social partners and the ILO,
+           was globalisation and decent work – i.e., how could globalisation be better managed and
+           harnessed by the country in order to maximise benefits and promote decent work, and
+           minimize social and economic costs? Overseas employment is one of the major ways
+           Bangladesh is integrated into the global economy. Remittances from Bangladeshis working
+           in foreign labour markets amount to US$ 1.7 billion/year, the biggest net inflow of foreign
+           exchange.
+
+           While there has been substantial literature on international labour migration from
+           Bangladesh, Dr. Siddiqui assessed the patterns and issues from a fresh perspective by using
+           the decent work framework. In this paper, she proposes a number of policy and
+           institutional measures to improve Bangladeshi workers’ employment opportunities and
+           redress problems they face.
+
+           Dr. Siddiqui presented the highlights of her paper at the National Policy Dialogue on
+           Globalisation and Decent Work, held in Dhaka, April 2004, which aimed to initiate a
+           broad-based dialogue on key issues among social partners and other major national
+           stakeholders, elicit ideas on ways to address the issues, and consolidate support for the
+           decent work pilot programme for action.
+
+           Her paper is being made available for wider circulation because it is relevant to the broader
+           debate on international labour migration, particularly to current questions about labour
+           standards and rights of overseas workers and governance over cross-border labour flows.
+
+           Dr. Siddiqui was a Professor of the Department of Political Science of the University of
+           Dhaka, Chair of the Refugee and Migratory Movements Research Unit, Bangladesh, and
+           Chair of the Asia Pacific Migration Research Network, when she wrote this paper.
+
+           I would like to thank Mr. Manolo Abella, former Director of Migration Branch, ILO, for
+           the technical support extended to the author.
+
+
+
+
+           Azita Berar Awad
+           Manager
+           National Policy Group
+           Policy Integration Department
+           International Labour Office
+
+
+
+
+Working Paper No. 66                                                                                  iii
+1.         Introduction
+           The annual growth rate of the global migrant population increased from 1.2 per
+           cent in 1965-1975 to 3 per cent in early 2000 (Abella, 2002). Among all kinds of
+           migration, the movement of workers is the most dominant, accounting for almost
+           80 per cent of the total migrant population. The increase in the movement of
+           labour is indicative of increased employment opportunity in the global market.
+           Over recent years, migration has enabled many people to obtain productive,
+           fulfilling and creative work. However, for many others, it has failed to provide
+           jobs of acceptable quality. Instead, migration has resulted in inhumane work
+           conditions, in which the basic labour rights of the workers are not respected.
+
+           Bangladesh is one of the major labour-sending countries of the world. Each year
+           a large number of people voluntarily migrate overseas for both long- and short-
+           term employment. This paper attempts to assess the current state and future
+           potential of short-term international migration in creating decent work
+           opportunities for migrants from Bangladesh. It highlights the key role played by
+           migration in creating jobs for Bangladeshi workers and in making a major
+           contribution to the economy of Bangladesh. However, the paper also focuses on
+           the other side of this success story: the exploitation of many migrant workers
+           both in the process of migration and in the migrant labour market and the
+           problems which many of them face in realizing basic labour rights.
+
+
+Conceptual framework
+
+Decent work
+
+           The overarching goal of the International Labour Organization (ILO) is the
+           promotion of social justice and internationally recognized human and labour
+           rights. In recent years, the concept of decent work has emerged as the core
+           concept of ILO in achieving this goal (ILO, 1999, 2001). The ILO defines decent
+           work as productive work which generates an adequate income, in which rights
+           are protected and where there is adequate social protection. In other words, it
+           refers to a situation that promotes opportunities for men and women to obtain
+           decent and productive work in conditions of freedom, equality, security and
+           human dignity. The concept of decent work stands on four pillars: access to
+           employment; promotion of rights at work; social protection; and social dialogue.
+
+           Employment is generally seen as the means of sustaining life and of meeting
+           basic human needs. But it is also an activity through which individuals affirm
+           their own identity, receive personal satisfaction and strive to make the fullest
+           development of their potential and skills, thereby making a contribution to the
+           common well-being. Therefore, employment should not be seen simply as access
+           to any job, but rather access to a “full job of acceptable quality, productive in
+           nature and freely chosen”. All those who work have rights at work. Every
+           worker enjoys certain rights irrespective of his or her type of employment,
+           whether in organized labour or not, in the formal or informal economy, at home,
+           in the community or in the voluntary sector. Social protection refers to protection
+           from vulnerabilities and contingencies that take people out of work. This
+           includes old age, sickness, unemployment and loss of livelihood. Social dialogue
+           is a process through which employers and employees resolve their differences
+
+
+
+Working Paper No. 66                                                                       1
+            and ensure social equity. It is the means by which rights are defended,
+            employment promoted and work secured.
+
+            The concept of decent work is relevant for all countries. However, depending on
+            the stage of development, decent work standards may vary between countries at
+            any given time. Decent work is also gaining currency as development and
+            poverty reduction goals. The Millennium Declaration calls for global cooperation
+            on strategies for decent and productive work for young people. Pope John Paul II
+            supported a call for global coalition for decent work. And on behalf of the Non-
+            Aligned Movement, South African President Thabo Mbeki affirmed that “(a)
+            decent standard of living, adequate nutrition, health care, education and decent
+            work for all are common goals for both the South and the North”1. The UNDP
+            Human Development Report 2000 identified work without exploitation as one of
+            the seven types of basic freedoms.
+
+Migration
+
+            In this paper, short-term international labour migration is defined as the
+            voluntary movement of people from one country to another for a certain period
+            of time to achieve a better life or to earn a better livelihood. Employment is a
+            major avenue through which migrants aspire to attain a better standard of living.
+
+            The scope of voluntary international migration in creating decent work can be
+            analysed in terms of the four pillars of decent work: employment; rights at work;
+            social protection; and social dialogue. The first indicator would be access to full
+            employment, to wages that ensure a decent standard of living and to work that
+            provides personal satisfaction. The second indicator would be the recognition of
+            rights for individuals at work and the extent to which those rights are enjoyed in
+            practice. The third indicator would constitute the arrangements for social
+            protection that are in place. Finally, the fourth indicator would be the availability
+            of mechanisms for employers and employees to negotiate and protect rights at
+            work.
+
+
+Sources of information
+
+            Over the last five years, some important empirical research studies have been
+            conducted on international migration. This paper draws on the findings of some
+            of these works2 and on the proceedings of several conferences, seminars and
+
+
+
+            1
+              Sighted in ILO 2001: Reducing the Decent Work Deficit: A Global Challenge, Geneva, ILO,
+            page-12.
+
+            2
+              S. R. Refaat Ahmed: Forlorn Migrants: An International Legal Regime for Undocumented Migrant
+            Workers (UPL, 2000); T. Siddiqui: Transcending Boundaries: Labour Migration of Women from
+            Bangladesh (UPL, 2001); INSTRAW and IOM:Temporary Labour Migration of Women: Case Studies
+            of Bangladesh and Sri Lanka (2000); T. Siddiqui (ed): Beyond the Maze: Streamlining Labour
+            Recruitment Process in Bangladesh (RMMRU, 2002); T. Siddiqui and C. R. Abra: Contribution of
+            Returnees: An Analytical Survey of Post Return Experience (UNDP and IOM, 2000) ; T. Siddiqui:
+            Migrant Workers’ Remittances and Micro-finance in Bangladesh (ILO, 2001); T. Blanchet: Beyond the
+            boundaries: A critical Look at Women Labour Migration (USAID, 2002); T. Siddiqui: Institutionalizing
+            Diaspora Linkage: The Bangladeshis in the UK and the US (Govt. of Bangladesh and the
+            International Organization for Migration (IOM), 2003); T.Siddiqui and J. Sikdar: Working Condition of
+            Bangladeshi Factory Workers in the Middle Eastern Countries (RMMRU and WARBE, 2004)
+            Commissioned by the Solidarity Center, Sri Lanka.
+
+
+
+
+2                                                                                   Working Paper No. 66
+           workshops3. The paper is also based on interviews with officials of the Bureau of
+           Manpower Employment and Training (BMET)4 and with members of migrant
+           workers’ associations and on the outcome of stakeholder meetings with the
+           Government, employers and trade unions.
+
+
+Structure of the paper
+
+           This paper is divided into eight sections, including this introduction. Section 2
+           highlights the importance of labour migration to the economy of Bangladesh.
+           Section 3 describes the different ministries and agencies involved in managing
+           migration. This is followed by the international and national legal framework
+           that governs the flow of overseas labour migration, workers’ access to overseas
+           employment opportunities, rights at work, social protection and means for social
+           dialogue (Section 4). Section 5 focuses on the nature and characteristics of
+           overseas employment that Bangladeshis have gained access to and other jobs that
+           have been created as a result of labour migration. Section 6 analyses the level of
+           social protection available to migrants and Section 7 reviews the actual and
+           potential role of trade unions and other civil society organizations in articulating
+           and representing the interests of migrant workers and providing the vehicle for
+           social dialogue between employers and Bangladeshi migrant employees.
+           Section 8 draws conclusions on major policy challenges and offers some
+           recommendations.
+
+
+2.         Importance of short-term
+           migration to the national
+           economy
+           Labour migration plays a vital role in the economy of Bangladesh which has a
+           very narrow export base. Ready-made garments, frozen fish, jute, leather and tea
+           account for four-fifths of its export earnings. Currently, garments manufacturing
+           is treated as the highest foreign exchange earning sector of the country
+           (US$4.583 billion in 2003). However, if this is adjusted for the cost of imports of
+           raw material, then the net earning from migrant workers’ remittances is higher
+           than that of the garments sector. In 2003, net export earnings from ready-made
+           garments (RMG) were estimated to be between US$2.29 billion and
+
+
+
+
+           3
+            Over the past few years a number of conferences, seminars and workshops have been organized
+           on international labour migration. These include: a workshop on National Responsibility towards the
+           Migrant Workers, organized by RMMRU, Dec 1997; a conference on Temporary Migrant Workers of
+           Bangladesh: Towards Developing a National Plan of Action, organized by RMMRU in collaboration
+           with the Bangladesh National Women Lawyers’ Association, April 1999; a consultative meeting on
+           the Need for the Ratification of International Convention on the Rights of All Migrant Workers and
+           Members of their Families by RMMRU, Feb 2000; a symposium on Short-term Labour Migration of
+           Women from Bangladesh, by RMMRU, Nov 2000; a workshop on Remittance and Micro-finance in
+           Bangladesh, by ILO, May 2001; three two-day Awareness Campaign Workshops on Labour
+           Migration Process for Community Leaders and Activists by RMMRU, April, Nov 2001 and May 2002;
+           a National Consultation Workshop organized by IOM, Nov 2002; a regional conference on Migration,
+           Development and Pro-Poor Policy Choices, jointly organized by DFID, UK and RMMRU, June 2003
+           in Dhaka.
+
+           4
+            The executing agency of the Bangladesh Government Ministry of Expatriates’ Welfare and
+           Overseas Employment.
+
+
+
+
+Working Paper No. 66                                                                                       3
+             US$2.52 billion, whereas net earnings from remittances was US$3.063 billion. In
+             fact, since the 1980s, contrary to popular belief, remittances sent by migrant
+             workers have played a much greater role in sustaining the economy of
+             Bangladesh than the garments sector.5
+
+             During the period 1977-1998, the annual average contribution of remittances was
+             26.5 per cent (Siddiqui and Abrar, 2001). This has been used in financing the
+             import of capital goods and raw materials for industrial development.
+             In 1998-1999, 22 per cent of the official import bill was financed by remittances
+             (Afsar, 2000; Murshid, 2000). The steady flow of remittances has resolved the
+             problem of foreign exchange constraints, improved the balance of payments and
+             helped increase the supply of national savings (Quibria, 1986). In the year 2000,
+             total amount of remittances was equivalent to 50 per cent of the country’s
+             development budget. The Government of Bangladesh treats foreign aid
+             (concessional loans and grants) as an important resource base for the country.
+             However, the amount Bangladesh received through remittances last year was
+             twice that of foreign aid.
+
+             The contribution of remittances to Gross Domestic Product (GDP) has also
+             grown from a meagre 1 per cent in 1977-1978 to 5.2 per cent in 1982-83. During
+             the 1990s, the ratio hovered around 4 per cent. However, if the unofficial flow of
+             remittances is taken into account, the total contribution of remittances to GDP
+             would certainly be much higher. Murshid (2000) finds that an increase of
+             BDT (Bangladesh Taka) 1 in remittances would result in an increase in national
+             income of BDT 3.336.
+
+             In view of the post-MFA threats on the export garments industry, the importance
+             of labour migration as a foreign exchange and job generator can hardly be
+             overemphasized.
+
+
+3.           Managing migration: The
+             Institutional framework
+             Labour recruitment from Bangladesh involves various government ministries and
+             agencies; private recruiting agents and their local and international
+             intermediaries; and potential migrants and their families.
+
+Ministries
+
+             There are five key government ministries which deal with international labour
+             migration: the Ministry of Expatriates’ Welfare and Overseas Employment; the
+             Ministry of Home Affairs; the Ministry of Foreign Affairs; the Ministry of
+             Finance; and the Ministry of Civil Aviation and Tourism. Until 2001, the
+             Ministry of Labour and Employment was in charge of international labour
+             migration. Then in December 2001, the current Government established a new
+             ministry in response to demands from expatriate Bangladeshis and migrant
+
+
+             5
+               Quoted in T.Siddiqui (ed) 2002, op.cit., p. 53. Speech delivered by Professor Wahiduddin Mahmud,
+             former Advisor to the Interim Government of Bangladesh in 1996, at a conference on ‘Streamlining
+             Labour Recruitment Process in Bangladesh for Employment Abroad’, 24 September 2001.
+
+             6
+                 United States Dollar (USD) 1 is equivalent to BDT 63.70.
+
+
+
+
+4                                                                                  Working Paper No. 66
+           workers. This new ministry – the Ministry of Expatriates’ Welfare and Overseas
+           Employment – is responsible for implementing the rules framed in 2002 under
+           the Emigration Ordinance 19827 and, accordingly, for promoting, monitoring and
+           regulating the migration sector. Its activities are concentrated in two broad areas:
+           firstly, to create overseas employment opportunities and secondly, to address
+           problems experienced by expatriates and to ensure their welfare (Govt. of
+           Bangladesh, 2003).
+
+           The role of foreign missions is also extremely important in respect to migration.
+           The Bangladesh missions abroad have the following tasks regarding labour
+           migration: (a) exploring the potential labour market;          (b) attestation of
+           documents pertaining to recruitment; (c) providing consular services for
+           Bangladeshi workers; and (d) ensuring the welfare of migrant workers.
+
+Bureau of Manpower, Employment and Training
+(BMET)
+
+           The BMET is the executing agency of the Ministry of Expatriates’ Welfare and
+           Overseas Employment in respect to processing labour migration. The BMET was
+           created in 1976 by the Government to ensure maximum benefit from labour
+           migration to the national economy. Since the promulgation of the Emigration
+           Ordinance of 1982, it has been working as the implementing agency of the
+           Ordinance. Currently BMET is responsible for a wide range of functions
+           including: control and regulation of recruiting agents; collection and analysis of
+           labour market information; registration of job seekers for local and foreign
+           employment; development and implementation of training programmes in
+           response to specific labour needs both in the national and international labour
+           market; development of apprentice and in-plant programmes within existing
+           industries; organizing pre-departure briefing sessions; and resolving legal
+           disputes.
+
+Private recruiting agencies
+
+           In the 1970s, the government was responsible for carrying out the functions of
+           recruitment. However, since 1981, this role has been carried out by private
+           recruiting agents, as part of private sector development. The private agencies
+           work under licence from the government. On their own initiative, they collect
+           information on demand and orders for foreign employment. After obtaining
+           permission from the BMET, the agencies recruit workers as per the
+           specifications of the foreign employers and then execute the procedures involved
+           in their deployment. Over time, the recruiting agencies became organized under
+           the Bangladesh Association of International Recruiting Agencies (BAIRA). This
+           association was formed in December 1984 with representatives of 23 recruiting
+           agencies. By 2002, the association had a membership of around 700 agencies.
+
+
+
+
+           7
+             The rules framed in 2002 are: Emigration Rules; Rules for Conduct and Licensing Recruiting
+           Agencies; and Rules for Wage Earners’ Welfare Fund.
+
+
+
+
+Working Paper No. 66                                                                                5
+Bangladesh Overseas Employment Services
+Limited (BOESL)
+
+          In 1984, the then Government also established the Bangladesh Overseas
+          Employment Services Limited (BOESL) as a limited company to take on a direct
+          recruitment role. By February 1999, BOESL had recruited a total of
+          8,900 workers i.e., 0.31 per cent of the total number of those who went overseas
+          though the official channel (Table 3).
+
+Individual contracts
+
+          About 55-60 per cent of recruitment is conducted through individual initiatives
+          and social networks. Usually, persons already deployed in the host countries
+          arrange visas for their friends and relatives through their own contacts.
+          Sometimes these visas are sold to interested parties. Those who obtain a visa
+          through this process pay less than those who pass through formal recruiting
+          agents. The risk of fraudulent practices in the former is also considered to be less
+          compared to the latter (Siddiqui, 2002).
+
+
+4.       Legal and regulatory framework
+         of labour migration
+          This section examines the legal and regulatory framework that governs migration
+          – focusing on the rights that exist for Bangladeshi migrant workers and the
+          extent to which these are enjoyed in practice. It identifies three sources of rights
+          at work for short-term migrants from Bangladesh: international instruments; the
+          laws of both the countries of destination and Bangladesh; and bilateral
+          agreements between Bangladesh and the receiving countries.
+
+
+Sources of rights
+
+International instruments
+
+          The ILO is the longest-established organization dealing with migration of labour.
+          The first session of the International Labour Conference in 1919 highlighted the
+          issue of equality of treatment between nationals and migrant workers, and the
+          coordination of migration policies between states on the one hand and between
+          government, employers’ and workers’ organizations on the other (ILO 2001).
+          The most important of the ILO instruments relating to migrant workers are: the
+          Migration to Employment Convention (Revised) 1949 (No. 97); the Migrant
+          Workers (Supplementary Provisions) Convention, 1975 (No. 143); and the
+          Migrant Workers Recommendations (No. 151). Convention No. 97 came into
+          force in 1952 and Convention No. 143 in 1978.
+
+          The 1990 UN International Convention on the Protection of the Rights of All
+          Migrant Workers and Members of Their Families (ICMW) is the most
+          comprehensive instrument relating to migrant workers. It ensures rights to both
+          regular and irregular, and male and female migrants. It affirms that migrants are
+          both social and economic beings. It is important to note that none of the
+          Bangladesh labour-receiving countries has ratified the ILO Conventions or
+          the 1990 UN Convention on migration. Bangladesh itself has not ratified the ILO
+
+
+
+6                                                                    Working Paper No. 66
+           Conventions. And although it has signed the UN Convention, it has not yet
+           ratified this. Therefore, migrant workers from Bangladesh cannot receive
+           protection through these international instruments.
+
+National instruments
+
+           In order to manage and provide better protection to the migrants, a number of
+           different measures have been introduced by successive governments in
+           Bangladesh, including new ordinances, statutory regulatory orders and framed
+           rules.
+
+The Emigration Ordinance, 1982
+
+           In 1982, the then Government promulgated an Emigration Ordinance, which is
+           the key regulatory instrument in relation to migration. Under the terms of the
+           Ordinance, only those with valid travel documents are allowed to emigrate. A
+           letter of appointment or work permit from a foreign employer or an employment
+           or emigration visa from a foreign government is considered to be a valid
+           document (Sec. 7/3/a). A person who is selected by a foreign employer through
+           an organization or a recruiting agent recognized by the government under an
+           agreement between the two governments will also be allowed to emigrate
+           (Sec. 7/3/b). The Ordinance also empowers the government, in the public
+           interest, to prohibit the emigration of persons of a particular occupation,
+           profession, vocation or qualification (Sec. 8/1). Under the Ordinance, the
+           government is authorized to grant licences to individuals and companies who
+           wish to be engaged in recruitment for overseas employment (Sec. 10), and to
+           cancel or suspend licences and withhold repayment of the security deposit if it is
+           satisfied that the licensee’s conduct has been improper or is in violation of the
+           law or prescribed Code of Conduct. However, such actions can only be taken
+           after the licensee has been given an opportunity to explain his/her position
+           (Sec. 14/1). Illegal emigrations are punishable by a term of up to one year in
+           prison and a maximum fine of BDT 5,000. The Ordinance also contains
+           provisions for penalizing unlawful recruitment (Sec. 20) and recruiting agencies
+           are prohibited from charging more than the prescribed amount of fees for their
+           services (Sec. 23). In addition, there are provisions for penalizing individuals
+           who, in breach of their contract with foreign employers, abandon their
+           employment (Sec. 24).
+
+Statutory and Regulatory Orders
+
+           On 11 April 1983, by a notification8 of the Labour and Manpower Ministry, the
+           then Government set up four Special Courts in each of the divisions of the
+           country (Dhaka, Chittagong, Khulna and Rajshahi). Subsequently,
+           on 25 March 1985, by another Order9 the Director General of BMET, managers
+           of employment exchanges and assistant directors of district employment and
+           manpower offices were authorized to lodge complaints to the Special Courts.
+
+
+
+
+           8
+               No. SRO 129-L/83/LMVIII/!(11)83
+
+           9
+               No. SRO. 146-1/L/LM/S-VII/M-17/83
+
+
+
+
+Working Paper No. 66                                                                      7
+Migration of women
+
+          In 1981, the then Government issued a circular imposing a ban on the migration
+          of all categories of female workers other than professionals. In 1987, the ban was
+          replaced by the imposition of restrictions on the migration of women of unskilled
+          and semi-skilled categories. In 1997, a ban was again imposed on all categories
+          of woman workers, including professionals. Later the same year this was
+          changed from a ban to restrictions, from which professionals were excluded.
+          In 2003, the present Government eased the restrictions on the migration of
+          unskilled and semi-skilled women over 35. However, those under 35 are still not
+          allowed to migrate on their own.
+
+Rules framed
+
+          In December 2002, the present Government framed three rules under the 1982
+          Ordinance: Emigration Rules; Rules for Conduct and Licensing Recruiting
+          Agencies; and Rules for Wage Earners’ Welfare Fund.
+
+          In the absence of the ratification of international instruments by the receiving
+          countries and Bangladesh, bilateral agreements or memoranda of understanding
+          are important instruments through which protection of the rights of migrants can
+          be ensured. Other important labour-sending countries also laid great emphasis on
+          signing such agreements with the labour-receiving countries. Successive
+          Bangladesh governments have also sent high-level delegations to various labour-
+          receiving states to negotiate such agreements. However, there has been a general
+          reluctance among labour-receiving countries to sign bilateral agreements or
+          memoranda of understanding that are legally binding. In response, the
+          Bangladesh government has developed a minimum set of standards for its
+          overseas workers. This includes wage scales, working and living conditions,
+          gratuity, medical facility, and compensation. When an understanding is reached
+          with any country for sending labour, the Bangladesh government then hands over
+          the set of standards with the implicit understanding that the receiving country
+          will honour it. However, this does not place the country concerned under any
+          legal obligation.
+
+          In the past, Bangladesh has signed agreements with Iraq, Libya, Qatar and
+          Malaysia on sending labour. In these instances, the Government handed over the
+          expected minimum set of standards to the governments of those countries. For
+          the first time, in 2003, the Government of Bangladesh signed a memorandum of
+          understanding with Malaysia, under which Malaysia would take 50,000 workers
+          over the years 2004 and 2005. In addition to setting out the number of workers to
+          be employed over the stipulated period, the agreement also laid down rights at
+          work (i.e., wage scales, working and living conditions); level of social protection
+          (i.e., provident fund, gratuity, medical care and compensation); and access to
+          instruments of social dialogue (freedom of association).
+
+          During the Asian financial crisis, the Malaysian government imposed a ban on
+          receiving labour. When the financial crisis ended, the ban was lifted but
+          Malaysia announced that over the next five years it would only be receiving
+          labour from certain countries, Bangladesh excluded. A new labour-sending
+          country – Nepal – was added to the list. However, Malaysia was an important
+          labour market for Bangladesh, which the Government did not want to lose. As a
+          result of major efforts at various levels, Bangladesh succeeded in reaching
+          agreement on the resumption of migration to Malaysia. New terms were
+          negotiated stipulating higher wages. However, the new agreement imposes tough
+
+
+8                                                                    Working Paper No. 66
+           restrictions on migrant workers, including a ban on changing jobs and marrying
+           local women, and requires the Bangladesh government to repatriate any migrant
+           workers in breach of the contract.
+
+
+5.         Employment opportunities –
+           Patterns and trends
+           This section describes the nature and extent of employment created through
+           short-term international migration. It starts with a discussion on the total number
+           of jobs created by overseas migration. This is followed by identification of the
+           main countries of destination, the type of employment, the gender distribution of
+           the migrants, their age and level of educational attainment and the flow of
+           remittances through them.
+
+Extent of employment
+
+           BMET10 data show that from 1976 to July 2003, over 3 million Bangladeshis
+           worked abroad as short-term migrants (Table 1). The data show a yearly average
+           flow of around 214,098 from 1991 to 2002, with the highest number migrating
+           in 1999 (268,182). A large number of Bangladeshis are also believed to have
+           gone to the Middle East through unofficial channels. Overall, short-term
+           migration has created employment for a large number of Bangladeshis.
+
+Main destinations
+
+           The major countries of destination for short-term migrants from Bangladesh
+           currently include: Bahrain, Brunei, Iran, Kuwait, the Libyan Arab Jamahiriya,
+           Malaysia, Oman, Qatar, Saudi Arabia, Singapore, the Republic of Korea, and the
+           United Arab Emirates (UAE). Saudi Arabia alone accounts for nearly one half of
+           the total number of workers who have migrated from Bangladesh since 1976.
+           However, the labour market for Bangladeshi migrant workers is not static.
+           During the 1970s, for example, Saudi Arabia, Iraq, Iran and the Libyan Arab
+           Jamahiriya were some of the major destination countries. While Saudi Arabia
+           has remained the top destination, Malaysia and the UAE also became important
+           receivers. Malaysia used to be the second largest employer of Bangladeshi
+           workers. However, since the Asian financial crisis of 1997, the number of
+           Bangladeshis migrating to Malaysia has plummeted (see Table 1) and the UAE
+           has taken its place.
+
+Type of employment
+
+           BMET has classified short-term migrants to the Middle East and South-East Asia
+           into four categories: professional, skilled, semi-skilled, and unskilled. Doctors,
+           engineers, teachers and nurses are considered as professional workers.
+           Manufacturing or garment workers, drivers, computer operators and electricians
+           are considered as skilled, while tailors and masons as semi-skilled. Housemaids,
+           agricultural workers, hotel workers and menial labourers (e.g., cleaners, cart
+           loaders, and carton pickers) are considered as unskilled workers. Table 2 shows
+
+
+           10
+                BMET, among other things, maintains records of migrants.
+
+
+
+
+Working Paper No. 66                                                                       9
+            the percentage share of different skill categories of migrants from 1976 to 2003.
+            Only a small proportion of migrants are professionals (4.40 per cent), 31 per cent
+            of them are skilled, 16 per cent semi-skilled and 47 per cent are unskilled
+            workers.
+
+Sex ratio
+
+            BMET data also show that Bangladeshi migrant workers are predominantly men.
+            From 1991 to 2003, a total of 2,754,693 people have migrated overseas for
+            employment. Of these, only 17,512 were women (Table 4). During the period
+            1991-2003, women constituted less than 1 per cent of the total number of
+            migrants from Bangladesh. During 1991-95, women accounted for 0.98 per cent
+            of the total migrant flow, and in 1997 this was down to 0.76 per cent. Although
+            the 1999 figure (0.14 per cent) suggests the stemming of the flow of female
+            migration from Bangladesh, the figure rose to 0.67 per cent in 2003. The
+            International Organization for Migration (IOM) and the United Nations
+            International Research and Training Institute for the Advancement of Women
+            (INSTRAW) (2000) and Siddiqui (2001) estimated that the number of female
+            migrants might be 10 to 50 times more than the official figures.11 One reason for
+            this is the imposition since 1981 of government controls on the migration of
+            unskilled and semi-skilled female workers. These have included an outright ban
+            (from 1981 to 1987 and again, for a short time, in 1997), and at other times, a
+            series of restrictions. Since 2003, the restrictions apply only to unskilled and
+            semi-skilled women workers under the age of 35, who are not allowed to migrate
+            on their own.
+
+Age and educational level
+
+            The BMET data are not disaggregated by age or educational level. However,
+            different micro-studies conducted in migrant-prone areas have shown that most
+            of the migrants were young (15-30 years) when they first migrated (Siddiqui and
+            Abrar, 2000; Afsar, 2000; Murshid, 2000) and a substantial majority were either
+            illiterate or their educational background was limited to schooling from class one
+            to Secondary School Certificate (SSC).
+
+Flow of remittances
+
+            The Bangladesh Bank12 documents remittance flows to Bangladesh from all over
+            the world. These data show that the remittances sent by overseas wage earners
+            have grown over time, increasing from a paltry US$23.71 million in 1976 to
+            US$2617.92 million in 2002 (Table 5). However, the yearly growth rate of
+            remittances is much less than the growth rate of the total number of migrant
+            workers.13 Throughout the last 25 years, the remittance flows broadly indicate an
+
+
+            11
+               This information is based on interviews with recruiting agents who process undocumented
+            migration.
+
+            12
+                 The Central Bank of Bangladesh
+
+            13
+               In 1991, the flow of migrants increased 41.72 per cent, whereas remittances grew only 1.56 per
+            cent compared to the previous year. Similarly, in 1994, the number of people who migrated overseas
+            grew at a rate of 23.79 per cent whereas remittances grew only 14.31 per cent during that time.
+            In 1997, the number of migrants increased 79 per cent compared to 1996 and remittance flow
+
+
+
+
+10                                                                                Working Paper No. 66
+           average yearly increase of around 10 per cent. The main reason for the gap
+           between the number of migrants and remittance flows is that in recent years
+           Bangladesh has exported more unskilled and semi-skilled migrants, whose wages
+           are rather low compared to those of previous skilled and professional workers. In
+           addition, wage rates have fallen drastically over the past decade (Siddiqui and
+           Abrar, 2001).
+
+           One half of the total remittances came from one country, Saudi Arabia. Over the
+           years, the United States of America (USA) has become the second largest
+           remittance-sending country. Even though the number of migrant workers is low
+           in the USA, majority of the migrant workers there are professional or skilled
+           workers and wages are higher14. Kuwait and the UAE are third and fourth.
+           Short-term migrants use different methods in sending remittances, involving both
+           official and unofficial channels. Officially, the transfer of remittances takes place
+           through a demand draft issued by a bank or an exchange house; travellers’
+           cheques; telegraphic transfer; postal order; account transfer; automatic teller
+           machine (ATM) facilities; electronic transfer; or in kind.
+
+Creation of domestic jobs
+
+           In addition to direct employment, migration has also indirectly contributed to the
+           creation of employment. Recent studies (Siddiqui and Abrar 2001,
+           Murshid 2000) have shown that the family members of migrants have used a
+           portion of their remittances in generating income and employment. Siddiqui and
+           Abrar found that 100 families from Tangail and Chittagong spent 11.24 per cent
+           of their remittances in agricultural land purchase, 2.24 per cent in either paying
+           off or taking out a mortgage on land for cultivation, 5 per cent was invested in
+           micro- and small enterprises and another 3.5 per cent was utilized in savings,
+           bonds and insurance. A further 7.19 per cent of the total remittance went into
+           financing the migration of other household members (Table 6). In addition, the
+           capacity of the migrants’ families to buy consumer items helps sustain local
+           small businesses and producers.
+
+           Meanwhile, demand for better management of migration has created jobs in the
+           public sector as well. A new ministry has been created with a state minister,
+           secretary and other associated staff. Forty-eight skill-training centres and the
+           BMET are among the major agencies creating jobs in the public sector. The
+           movement of migrants also has relevance in determining the size of the Ministry
+           of Civil Aviation, and Customs and Immigration Departments. Migrants also
+           constitute a majority of the customers of Biman Bangladesh airlines. The
+           presence of airlines of the Gulf and South-East Asian countries has also created
+           jobs for a large number of people. A powerful private sector has emerged,
+           centered around the recruitment industry. Private recruiting agencies, their agents
+           and sub-agents, travel agencies, medical centres and inter-state transportation
+
+
+
+
+           increased 12. 52 per cent. In 1998, the increase in the number of migrants was 29 per cent while
+           remittances grew by only 4.86 per cent.
+
+           14
+              The labour migration data available in Bangladesh is only of short-term labour migration. On the
+           contrary, the remittance data available in Bangladesh is of remittance sent by both short-term and
+           long-term migrants.
+
+
+
+
+Working Paper No. 66                                                                                     11
+          owners and workers all earn their livelihood through their involvement in
+          processing migration15.
+
+
+Section summary
+
+          The study reveals that short-term migration has been extremely successful in
+          creating a large number of jobs for Bangladeshis. Along with the employment of
+          workers overseas, it has also created jobs within Bangladesh. In the public sector
+          a few agencies and a new ministry have been created to manage migration. The
+          facilitation of migration has created jobs in the private sector as well.
+
+          Analysis of the nature of overseas jobs shows that the Bangladeshi migrant
+          labour market is changing all the time. New countries of destination have
+          emerged. And while a larger number of professionals and skilled workers used to
+          migrate in the early years of short-term migration, Bangladesh has now created a
+          niche in the unskilled and semi-skilled market. Over the years, the total value of
+          remittances has increased in absolute terms, but the value of per capita
+          remittances has declined. Overall, the remittances sent by migrants have a major
+          impact on the national economy.
+
+
+6.        Protecting migrants’ rights at
+          work
+          The process of migration has become extremely complex over the years. For
+          migrant workers, this complexity is continuously eroding their enjoyment of
+          rights at work – a problem compounded by failure to ratify international
+          instruments and bilateral agreements. The following sub-section outlines
+          problems associated with the establishment of rights at work at three stages of
+          migration.
+
+Pre-departure
+
+Procurement of work permits
+
+          The procurement of a work visa, the recruitment of the worker and receipt of
+          emigration clearance are key steps in processing migration. Bangladesh mainly
+          participates in the low-skilled and unskilled labour market and has recently been
+          facing tough competition from the newly emerging labour- sending countries
+          such as Nepal, Cambodia and Indonesia. Such competition among labour-
+          sending countries is resulting in a continuous lowering of standards in the terms
+          and conditions of work. Moreover, unemployment rates have increased in some
+          of the labour-receiving countries. This has led to the formulation of a policy for
+          the indigenization of the labour force. To discourage dependence on overseas
+          labour, some of these countries have introduced a levy to be paid by the
+          employer when they recruit foreign workers. However, these governments did
+          not, at the same time, raise wage rates in an effort to encourage local workers to
+          take up the unskilled jobs. Therefore local workers do not find these jobs
+          attractive and there is a continuing need to import labour for certain types of
+
+
+          15
+               There are 700 licensed recruiting agencies, 10,000 sub-agents and around 1,350 travel agencies.
+
+
+
+
+12                                                                                 Working Paper No. 66
+           work. With competition for these jobs among the labour-sending countries, the
+           employers found they could conveniently shift the government levy to the
+           recruiting agencies of the labour-sending countries. As a result, the recruiting
+           agencies not only receive no commission for supplying labour, they also have to
+           purchase the visa from the employers by paying the fee that the employers are
+           required to pay to the government.16
+
+           The buying and selling of the visa itself has become a profitable business for a
+           certain group of people. A nexus of interest has developed among high-level
+           state functionaries in the labour-receiving countries, their recruiting agents, a
+           group of expatriate Bangladeshis and a section of Bangladeshi recruiting agents.
+           As a result, it has become extremely difficult to secure a visa through what were
+           formerly considered to be the regular channels. Now this nexus is involved in
+           visa transaction through irregular practices. The visas are then put into auction to
+           other agents who have less access to visas. It has become extremely difficult to
+           take action against this group of people, who are often highly placed both
+           socially and politically.17
+
+System of Dalals (informal agents)
+
+           Recruiting agencies that purchase visas in turn take their profit margin and then
+           sell the visas on to individual migrants. Almost all recruiting agencies are based
+           in the capital city, Dhaka, since it is not financially viable to have offices
+           throughout the country. The agencies recruit through a host of informal agents
+           and sub-agents, who perform two key functions: the recruitment of workers and
+           financial transactions. Recruitment at the grass-roots level is conducted verbally,
+           with even payments made without a receipt. The dalal system has not been
+           institutionalized. The dalals (informal agents) are not formally registered with
+           the recruiting agents they serve and do not possess any formal identification
+           documents. This has created a situation in which both recruiting agents and their
+           sub-agents can commit fraud and evade responsibility. In the process, a good
+           number of those who wish to migrate are cheated and lose a large part of their
+           assets while processing migration.
+
+           Although the 1982 Ordinance empowered the government to cancel and suspend
+           licenses and withhold repayment of the security deposit if it is satisfied that the
+           licensee’s conduct is improper or in violation of the law and the prescribed code
+           of conduct, in the absence of any documentation, the government is unable to
+           take action. In 2001, the then Interim Government prepared a strategy document,
+           which recommended the recruitment of migrants through the establishment of a
+           database, or by registering the dalals with the recruiting agents. However, these
+           policy recommendations are yet to be made operational.
+
+
+
+
+           16
+                Lion Nazrul Islam, E.C member BAIRA, 2002
+
+           17
+             Statement of the representative of BAIRA at the Interagency Meeting organized by the Ministry of
+           Labour on 12 August 2001 for the study on Streamlining Labour Recruitment Process in Bangladesh
+           commissioned by the Ministry.
+
+
+
+
+Working Paper No. 66                                                                                    13
+Issuance of passports
+
+           Studies have shown that a large number of migrants fall into the low literacy
+           category. In many cases, they rely on the recruiting agents for issuance of their
+           passports. The recruiting agents usually process a large number of passports at
+           any given time. In some instances migrants do not even sign the passport
+           application form. Instead, the employees of recruiting agents sign the forms on
+           their behalf. As a result, migrants often find themselves in trouble in the
+           receiving country, when their signatures do not match the signature in the
+           passport. Meanwhile, some of the recruiting agents or sub-agents commit fraud
+           in procuring the passports. There are occasions when a visa is sold to a worker
+           other than the one to whom it was issued. When the person or his/her father’s
+           name does not match with the one in the passport, the migrant, for all practical
+           purposes, becomes an undocumented worker.
+
+Lack of access to information
+
+           Lack of access to information prior to migration places migrants in a vulnerable
+           situation. When a person is unaware of their rights, it becomes almost impossible
+           for them to assert those rights. While processing migration, they do not have
+           access to the names of licensed recruiting agents and they do not understand the
+           importance of keeping documentation. Before embarking on short-term contract
+           migration, it is of critical importance that a migrant worker has at his/her
+           disposal specific information about the country of destination: their rights and
+           duties under the legal regime of the receiving country; cultural sensitivities; and
+           the physical environment. However, the migrant worker is either oblivious to
+           these issues or has to rely solely on information derived from verbal interaction
+           with the dalals. The BMET conducts briefing programmes for workers recruited
+           for Saudi Arabia, Malaysia, Kuwait and the Republic of Korea. However, these
+           briefing programmes last only two hours and the range of issues covered is
+           limited.
+
+           Although there are various instruments and agencies in operation, the right of
+           migrants to decent entry to a job overseas job has proved to be difficult to
+           achieve. There is a need to streamline the process of recruitment, ranging from
+           procurement of the visa to sending workers overseas.
+
+In the country of destination
+
+           Decent work entails certain basic conditions at work: a decent wage, working
+           hours and accommodation. In addition, the right to relinquish a job or to change
+           work, freedom of movement, the right to have a balance between work and
+           family, and the right to leisure are parts of decent work.
+
+Wages
+
+           A study18 is currently being conducted on the working conditions of Bangladeshi
+           factory workers in countries in the Middle East. It is based on interviews with
+           100 recently returned migrants from seven countries: Bahrain, Jordan, Kuwait,
+           Oman, Qatar, Saudi Arabia and the UAE. Of the migrants who have been
+
+
+           18
+             ‘Work Condition of Bangladeshi Factory Workers in the Middle-Eastern Countries’ by Tasneem
+           Siddiqui and Jalaluddin Sikdar, commissioned by Solidarity Center, Sri Lanka.
+
+
+
+
+14                                                                          Working Paper No. 66
+           interviewed for this ongoing study, 40 went to Saudi Arabia, where they worked
+           in factory jobs including garment making, construction, plastics, leather
+           processing, welding, tile-making, printing, glass-making, water purification,
+           packaging and the manufacture of gold items. The average monthly wage for
+           migrants who went to Saudi Arabia was BDT 10,87319 for males and
+           BDT 5,42520 for females. Twenty respondents went to the UAE, where most
+           worked in the garments sector. The average monthly wage was BDT 6,72121 for
+           males and BDT 5,80322 for females. Sixteen went to Kuwait and worked in the
+           garments sector, food processing and furniture factories. Here the average
+           monthly wage of male and female migrants was BDT 19,00023 and BDT 6,86124
+           respectively. In Qatar, Bahrain, Jordan and Oman, the migrants mostly worked in
+           garment factories. The average monthly salary was about BDT 10,00025 for
+           males and about BDT 6,00026 for females. This gives some idea of the wage
+           structure for skilled and semi-skilled migrants.
+
+Payment of wages
+
+           The study also looks at the regularity of payment of wages for migrant workers.
+           Out of the 100 interviewed, 56 stated that they received their salaries regularly
+           without any delay. However, 43 experienced delays in the payment of wages,
+           varying from 10 days to 180 days. In one extreme case, a female migrant worker
+           in the UAE did not receive any payment of wages throughout the entire year she
+           worked in a garments factory.
+
+Overtime
+
+           The same study also throws light on the practice of overtime worked by factory
+           workers. The nature of jobs was such that 59 of the interviewees had to work
+           overtime on a regular basis, 44 worked up to five hours’ overtime and 15 worked
+           up to eight hours. Of the 41 who did not do overtime, only 13 mentioned that
+           either their work did not entail overtime or they chose not to work overtime. The
+           rest (28) reported that they stayed for longer periods at work but that this work
+           was not counted as overtime. This was because the targets set for completion
+           each day were hard to reach within the stipulated eight-hour working day. As a
+           result, they had to stay longer hours as a matter of routine in order to complete
+           their daily work. When the migrants worked overtime during holidays, 10 of
+           them were paid less than their basic wage and 21 of them were paid the
+           equivalent of their basic wage as overtime. Thirteen received one and half times
+           their basic wage and only seven received twice their basic wage as overtime.
+
+
+           19
+                USD 170.69
+
+           20
+                USD 85.16
+
+           21
+                USD 105.51
+
+           22
+                USD 91.10
+
+           23
+                USD 298.27
+
+           24
+                USD 107.71
+
+           25
+                USD 156.98
+
+           26
+                USD 94.19
+
+
+
+
+Working Paper No. 66                                                                    15
+           Officially, in most of the countries where Bangladeshis migrate, there was
+           provision for payment of overtime at one and a half times the normal rate of pay
+           during working days and twice the basic rate at weekends.
+
+Holidays
+
+           Officially, the interviewees were required to work for six days with a one- day
+           break every week - usually on Friday. However, as many as 27 interviewees said
+           that they had to work on most of the holidays and could usually enjoy a weekend
+           holiday only once or twice a month.
+
+           The above study gives some idea of wages, overtime and holiday conditions
+           experienced by factory workers in the Gulf States. The situation among unskilled
+           workers of course differed significantly from this. Rahim (2002) and
+           Reza (2002) threw light on the work conditions of unskilled and semi-skilled
+           workers in the Gulf region. In Saudi Arabia, during the early 1990s, the monthly
+           wage for an unskilled worker was SAR (Saudi Arabian Rial) 600-80027, a rate
+           that has now fallen to SAR 250-40028 (Rahim, 2002). In Kuwait, the monthly
+           salary of unskilled workers ranged from KWD (Kuwaiti Dinar) 8-2529
+           (Reza, 2002). A survey of the list of complaints to the BMET from returnee
+           migrants shows that the majority of complaints were related to non-payment of
+           wages.
+
+Accommodation
+
+           Large companies and formal sectors provide accommodation to their employees
+           in labour camps on the outskirts of the cities. In Singapore, in a typical situation,
+           a large group of 20-25 workers are accommodated in small houses. Those who
+           work in cleaning companies, or those who are on a free visa30 or self-employed
+           arrange their own accommodation. In most cases, employers provided
+           accommodation for the female garment workers. Women who worked in
+           factories lived in hostels, either within the factory premises or outside. Excessive
+           heat was a major problem for some female migrants. In the UAE, women
+           garment factory workers share their rooms with at least 18 co-workers
+           (Afsar, 2000). Some women who worked as domestic workers were satisfied
+           with their accommodation. They were given separate rooms and wardrobes in
+           which to keep their belongings. Others who reported that they were made to
+           sleep in kitchens said they had no privacy at all (Siddiqui, 2001).
+
+
+
+
+           27
+                USD 161.25-215
+
+           28
+                USD 67.19-107.50
+
+           29
+                USD 27.48-85.88
+
+           30
+             Sponsors bring out visa in Kuwait to import foreign workers. Sponsors may not need all the
+           persons visas were issued for. After keeping the number of worker that is needed in his farm the
+           sponsor releases the remaining workers in exchange of money to find work elsewhere. In
+           Bangladesh this is known as 'free visa'.
+
+
+
+
+16                                                                             Working Paper No. 66
+Food
+
+           In the factories, food was generally provided by the employers. In the first few
+           months, most of the workers – in particular the factory workers - had problems
+           with regard to food. The food is usually served to suit the preference of the
+           majority of the workers. As a result, the food served in most of the factories
+           where Bangladeshi female migrants work was either Sri Lankan or Southern
+           Indian. A few of the respondents cooked their own food occasionally (Siddiqui et
+           al, 2004). Some of the domestic workers also faced problems with food. In many
+           cases, the female head of household used to keep strict control over food. While
+           some domestic workers were served stale food, others stated that food was
+           abundant and they were allowed to eat as much as they wanted. In order to solve
+           food-related problems, some employers made efforts to buy items which would
+           allow the domestic workers to cook their own food (Siddiqui, 2001).
+
+Changing jobs
+
+           Those who work at the low-skills end receive much lower wages than the
+           national minimum rate. This encourages other employers of the receiving
+           country to try to lure them away with a nominally higher wage rate. To reduce
+           the scope for this kind of job change, the employers withhold all forms of
+           documentation such as job contract, travel documents and passports from the
+           migrant worker. In their negotiations with the government of Bangladesh, the
+           receiving countries ensure that the occupational mobility of the labourers they
+           are hiring is minimal. The 1982 Ordinance treats the return of overseas workers
+           before finishing the contract as a punishable offence. Under such circumstances,
+           the ability of migrant workers to assert rights in the labour market is restrained in
+           many ways. Workers without documents in their possession have major
+           problems in seeking legal redress when employers do not honour the conditions
+           of contracts. The lack of possession of documents also curtails the right of
+           migrant workers to move freely in the city of employment. In Malaysia, in
+           particular, workers are routinely harassed by the law enforcement agencies in the
+           event of a minor offence if they fail to produce any form of identification.
+
+           Contract substitution is another measure practiced by some employers, which
+           curtails the rights of migrant workers. On arrival in the country of destination,
+           workers are made to sign a second contract which includes reduced wages and
+           lower living and working conditions. In some cases, workers are given a
+           different job than that stipulated in the original contract. In Malaysia, some of the
+           migrant workers end up working on plantations while their original contracts
+           were to work in factories. In Saudi Arabia, workers are often hired as cooks and
+           security guards and then sent to work as agricultural labourers. Because of the
+           extreme hardships faced working on plantations and in the agricultural sector, a
+           considerable number flee these jobs to seek other types of employment. Through
+           the network of Bangladeshi workers, some of the migrants manage to obtain jobs
+           with better terms and conditions. However, having left the jobs for which they
+           had obtained visas, they become undocumented workers and vulnerable to many
+           additional forms of exploitation.
+
+           The majority of unskilled and semi-skilled Bangladeshi workers did not have any
+           knowledge about the labour laws of the countries to which they migrated. As a
+           result, it is easy for employers to violate existing laws relating to wages and
+           working and living conditions.
+
+
+
+
+Working Paper No. 66                                                                        17
+Section summary
+
+          This section shows that institutional arrangements to ensure rights at work for the
+          Bangladeshi migrant workers are poor. Neither Bangladesh, nor the labour-
+          receiving countries has ratified the international instruments on the rights of
+          migrant workers. Successive Bangladesh governments have found it difficult to
+          sign memoranda of understanding with the receiving countries. Meanwhile, the
+          enactment of various laws at the national level since 1976, has failed to reduce
+          the exploitation of potential migrants even in accessing work.
+
+          In comparison with unskilled workers, formal sector factory workers enjoy
+          relatively better work conditions. However, there is still a large gap between the
+          wages of male and female migrant factory workers, with studies showing that
+          female workers receive much lower wages than their male counterparts. The
+          salary of unskilled workers has fallen drastically both in the Gulf region and in
+          South-East Asia. In addition, a considerable number of workers do not receive
+          their wages on a regular basis and freedom to move from one job to another is
+          restricted for both skilled and unskilled workers.
+
+
+7.       Social protection
+          Decent work provides for certain assurances against vulnerabilities when people
+          are out of work i.e., social protection. This includes: protection of income to
+          ensure subsistence during old age or during sudden loss of livelihood due to
+          closure of organizations or retrenchment; and protection against loss of income
+          due to sickness, accidents or death. Assurance of treatment during sickness and
+          following accidents are also part of a decent work package. This section
+          evaluates the different social protection measures available to migrant workers in
+          overseas employment.
+
+
+Social protection for migrant workers in the
+country of destination
+
+Income protection
+
+          Protection of income for migrant workers in old age is not a new idea. The
+          Nepali Gurkhas who served in the British Army enjoyed retirement benefits
+          while living in their own villages. Today, short-term migrants also enjoy certain
+          benefits, depending on the type of job they perform and the terms laid out in the
+          job contracts. Professional and skilled workers working in the service sectors,
+          government and banking enjoy various entitlement packages i.e., superannuation,
+          gratuity and provident fund. However, such benefits are not equivalent to those
+          enjoyed by nationals of those countries. Moreover, benefit structures for Asian
+          migrants are not as generous as those for western migrants. Unskilled and semi-
+          skilled workers in the formal sector enjoy benefits that are more structured than
+          those available in the informal sector. For example, in Malaysia, for those who
+          work in manufacturing industries, a part of their salary is deducted and then
+          repaid at the end of the contract period.
+
+
+
+
+18                                                                   Working Paper No. 66
+Health care
+
+           Access to health care is also part of a social protection system. The level of
+           health care available to migrant workers in the destination countries inevitably
+           varies from one country to another. In Saudi Arabia, for example, under a
+           government policy entitled “Health for All”, primary health care services are
+           available in the major cities, irrespective of the workers’ legal status
+           (Mannan, 2001). In the UAE and Bahrain, migrants can receive health care from
+           the general hospitals. However, the costs of medicines and tests have to be borne
+           by the migrants themselves. Some companies and factories have their own
+           authorized medical service providers, which provide annual medical check-ups
+           for migrant workers. In some cases, on the recommendation of their supervisor,
+           the employer agrees to bear the cost of medical services. While in Malaysia and
+           Singapore health care is covered under the terms of the job contract, in the
+           Republic of Korea, the cost of health care is borne by the migrants themselves. In
+           case of the regular migrants, accidents and unnatural deaths are covered through
+           compensation packages in all these countries.
+
+Enforcement
+
+           Although some form of social protection mechanisms exist in the labour-
+           receiving countries, migrants go through a lot of hardship in obtaining them. In
+           Malaysia, for example, the workers’ provident fund often remains with the
+           employer. When their contracts end, time constraints often prevent migrant
+           workers from completing all the paper work needed to withdraw the amount.
+           Tenaganita, a Malaysian human rights organization, maintains that a large
+           number of benefits have remained unclaimed or unpaid, in the hands of the
+           employer. In both the Gulf States and South-East Asian countries, migrants are
+           subjected to annual mandatory HIV/AIDS tests. If a worker is found to be HIV-
+           positive, employers take no responsibility for treatment and the worker is
+           deported. Women workers are also subjected to pregnancy tests. If found to be
+           pregnant, they are sent back home or have abortions. Poor access to health care
+           and unhealthy living and work conditions are reflected in diseases such as
+           jaundice, gastric problems, skin diseases and tuberculosis. Migrants are also
+           employed in hazardous and risky jobs – often resulting in accidents and, in some
+           cases, death. Migrant workers complained about the lack of adequate safety
+           measures on construction sites, in heavy machine operating factories and in
+           factories where chemicals are used. Obtaining compensation can also be a
+           painstaking process. In the event of accidental death, the worker’s family is
+           entitled to compensation. In Saudi Arabia this can be up to rial 100,000.
+           However, so far officials of Bangladeshi embassies or consulates have not
+           negotiated any such compensation. Since 2001, changes in the law in Saudi
+           Arabia require that a local lawyer must be employed and a relative of the
+           deceased must be present in court before a claim for compensation can be
+           considered (Rahim, 2002).
+
+
+
+
+Working Paper No. 66                                                                     19
+         In the labour-receiving countries, disputes can be taken to labour courts for
+         settlement. Reza (2002) points out that in Saudi Arabia, migrants have on
+         occasion taken their employer to court with the help of the embassy. The labour
+         court summons the employer, but it is the responsibility of the plaintiff to
+         produce the employer before the court. However, the police are often unable to
+         produce the employer. As a result, cases often remain pending for a long time.
+         Between October 2001 and June 2003, the Bangladeshi missions abroad
+         collected and handed over to the affected families BDT 216,860,682 in the form
+         of salary due or death compensation for 902 migrant workers (Govt. of
+         Bangladesh, 2003).
+
+
+Social protection in Bangladesh for
+Bangladeshi migrant workers
+
+         In 1990, on the basis of the Emigration Ordinance of 1982, the Government of
+         Bangladesh created a fund for ensuring the welfare of wage earners. The Wage
+         Earners’ Welfare Fund is funded through subscriptions from migrant workers;
+         the interest earned on the deposit of licenses of recruiting agencies31; a surcharge
+         of 10 per cent on the fees collected through Bangladesh missions abroad; and
+         individual and institutional contributions. The subscriptions paid by migrant
+         workers constitute the bulk of the Fund. These comprise a fee of BDT 100 per
+         person under a group visa, BDT 300 for an individual visa with the attestation of
+         the Bangladesh missions in the country concerned and BDT 800 for an
+         individual unattested visa.
+
+         The Fund was created with eight specific objectives: (a) the establishment of a
+         hostel-cum-briefing centre; (b) the organization of an orientation and briefing
+         programme; (c) the establishment of a welfare desk at the airport; (d) the transfer
+         of the bodies of deceased migrant workers; (e) providing assistance to sick,
+         disabled and stranded migrant workers, (f) providing financial help to the
+         families of deceased migrant workers; (g) providing legal assistance to the
+         migrant workers through the embassies and (h) the establishment of a recreation
+         club and information centre under the auspices of the Bangladesh missions
+         abroad. Through another Circular, the government included two additional
+         elements in the list of objectives: the establishment of hospitals and the
+         reservation of beds in existing hospitals for migrant workers and their families;
+         and the provision of education facilities for the children of migrant workers. The
+         Circular also stated that, if necessary, the Fund could also be disbursed to
+         schools where the children of migrant workers were studying.
+
+Enforcement
+
+         The BMET reports that an increasing percentage of migrants are availing
+         themselves of the two-hour pre-departure briefing sessions financed by the Wage
+         Earners’ Welfare Fund. The Government is also using the Fund to construct a
+         multi-storey building for migrant workers. Meanwhile, at the national airport,
+         two welfare desks have been set up at both the exit and arrival lounges to provide
+         a one-stop service for migrant workers and an airport bus service for migrant
+
+
+         31
+            While taking license, a recruiting agency has to deposit BDT 16,00,000 with government. Of this,
+         BDT 15,00,000 is security money that is refundable and BDT 100,000 is license fee that is non-
+         refundable.
+
+
+
+
+20                                                                             Working Paper No. 66
+           workers has also been introduced. In the event of the death of a migrant worker,
+           his/her family currently receives a one-time grant of BDT 20,000 from the Wage
+           Earners’ Welfare Fund.
+
+
+Section summary
+
+           In certain jobs, short-term migrant workers enjoy benefits that are redeemable at
+           the end of the contract period. While professionals, skilled workers and semi-
+           skilled workers32 usually receive such benefits, informal sector workers such as
+           cleaners, grocery store workers, domestic workers and vendors do not. The
+           contracts of the later groups do not include these rights. In most of the Middle
+           Eastern countries, primary health care services are available free of charge in the
+           public sector of major cities. However, the cost of medicines and tests has to be
+           borne by either the workers or their employers. In Bangladesh, the Wage
+           Earners’ Welfare Fund has been created - mainly through subscriptions from
+           migrants - in order to provide welfare services. The creation of the Fund by the
+           Government is an innovative approach to providing a measure of social
+           protection for migrant workers. However, use of Welfare Fund became quite
+           controversial in the late 1990s. Very little share of the Fund was spent to directly
+           benefit the migrant workers. The Comptroller and Auditor General of
+           Bangladesh filed a case with the Bureau of Anti-Corruption (BAC) in the 2001.
+           The Ministry for Expatriates’ Welfare and Overseas Employment framed rules in
+           December 2002 to streamline the use of the Fund. The Fund is managed by a
+           board comprising of officials of different ministries and representatives of
+           private recruiting agents. Migrant workers on the civil society have no
+           representation on the committee. The use of the fund needs to be made more
+           transparent.
+
+
+8.         Social dialogue
+           Social dialogue is a process through which employers and employees resolve
+           their differences in order to ensure social equity. Collective bargaining is the
+           mechanism through which employees/workers assert their rights. Two types of
+           institutions are operational: trade unions and associations. Trade unions are the
+           institutions through which wage and other work conditions are negotiated and
+           associations are the bodies that are used for fulfilling their cultural and social
+           needs.
+
+Trade unions
+
+           Trade unions have been in existence in Bangladesh for a long time. Today at
+           least 20 are active in Bangladesh. However, a study (Siddiqui, Malik and
+           Abrar, 1999) on trade unions and migrant workers show that these organizations
+           have yet to associate themselves in any major way with migrant worker issues.
+           The study, which involved interviews with the leaders of the main trade unions 33
+
+
+           32
+                Particularly those semi-skilled workers who are working in the manufacturing industry.
+
+           33
+              The interviews involved leaders of: the Trade Union Centre (TUC), the Jatiya Sramik Federation,
+           the Bangladesh Shangjukta Sramik Federation, the Bangladesh Free Trade Union Congress, the
+           Bangladesh Sramik Kallyan Federation, the Bangladesh Jatiyatabadi Sramik Dal, the Jatiya Sramik
+
+
+
+
+Working Paper No. 66                                                                                     21
+     found that the trade union movement in Bangladesh was not well-informed about
+     migrant worker issues. As a result, none of their manifestos or programmes of
+     action had any reference to migrant workers. However, the trade unions surveyed
+     felt strongly about the exploitation of Bangladeshi migrant workers. A number of
+     trade union federations made representations to the Government following
+     newspaper reports of the plight of Bangladeshi migrant workers in Malaysia
+     following the economic crisis in the Asia region. Yet none of the unions has any
+     exclusive support service for migrant workers.
+
+     There are some basic conceptual problems with regard to the involvement of
+     trade unions with migrant worker issues. Trade unions are membership-based
+     organizations. As such, they can legitimately represent those who are their
+     members. However, it is difficult to locate outgoing migrant workers and
+     convince them to become members of trade unions. Moreover, migrant workers
+     reside in another country, where the Bangladeshi trade unions do not have any
+     access. The scope for trade union activism is limited in the majority of the
+     Bangladeshi labour-receiving countries of the Gulf region and South-East Asia.
+     Trade unions do not exist in Saudi Arabia. And although Kuwait, Qatar, Bahrain,
+     Malaysia, and Singapore all have trade unions, Bangladeshis are not allowed to
+     become members of those organizations. Elsewhere, there have been some
+     contacts between Bangladeshi trade unions and trade unions in the Republic of
+     Korea and Malaysia.
+
+     The gradual shrinking of the formal sector worldwide has thrown up new
+     challenges for the trade union movement. An innovative response from the trade
+     union movement would be to increase the scope of its work by widening its
+     membership base to include the informal sector. In this context, migrant workers
+     could be an important focus for the diversification of trade union work. Through
+     their international affiliates such as the World Trade Union Congress, the World
+     Federation of Trade Unions and the International Confederation of Free Trade
+     Unions, the Bangladeshi trade unions could pursue migrant worker issues at
+     international fora.
+
+     Within Bangladesh, the trade union movement could play an important role in
+     urging the Government to design and implement national policies for the
+     protection and promotion of migrant workers’ rights. By mobilizing their
+     organizational structure, they can disseminate information about the improper
+     practice of the recruiting agencies and about wages and conditions of
+     employment overseas. In this way, potential migrants from the organized sector
+     could be helped to make informed choices about whether to migrate. Similarly,
+     the trade unions could also make migrant workers aware of their rights and
+     obligations under the national and international labour standards of the receiving
+     country.
+
+     Another potential area where trade unions could play an innovative role is in the
+     reintegration of returning migrants in the labour market. On their return, migrant
+     workers often bring in specialized skills. In the absence of any database for
+
+
+
+
+     Jote, the Jatiya Sramik League, the Bangladesh Trade Union Federation, the Bangladesh
+     Independent Garments Union Federation, the Samajtantrik Sramik Front, the Bangladesh Jatiya
+     Sramik League and the Bangladesh Institute of Labour Studies.
+
+
+
+
+22                                                                   Working Paper No. 66
+           returning migrants, the trade unions could take the initiative to help link up the
+           migrant worker with a potential recruiter of his/her expertise. While such
+           activities go beyond the trade unions’ traditional role of collective bargaining,
+           they could help ensure better choices of employment, better work and living
+           conditions abroad, and better reintegration.
+
+Migrants’ associations at destination
+
+           In most of the labour-receiving countries, migrants have organized themselves
+           into a wide range of different associations. Most of the associations are
+           established by the Bangladeshi communities residing in a particular geographical
+           location of a receiving country (state, district and city).34 Associations are also
+           formed on the basis of the district, thana, union or village of origin of the
+           migrants.35 In some cases, associations are also formed by different professional
+           groups.36 However, this trend of forming professional organisation is not
+           widespread among the migrant workers.
+
+           Associations organize cultural programmes and observe the various national
+           days of Bangladesh. They also provide various kinds of support services for the
+           community members, such as finding suitable accommodation for newcomers
+           and introducing them to markets that carry Bangladeshi food and other products.
+           These services give the migrants a sense of belonging to a larger Bangladeshi
+           entity. Social interaction among Bangladeshis is also helpful in sharing of work
+           experiences and in learning from each other about “do’s” and “don’ts” and the
+           cultural sensitivities of the countries concerned. The Siddiqui and Abrar (2001)
+           study found, for example, that the social networks helped the migrants gain
+           access to easy methods for sending remittances.
+
+Associations of returnee migrants in
+Bangladesh
+
+           Over recent years, three organizations have been established by returnee
+           migrants:      the     Welfare     Association     of    Bangladeshi    Returnee
+           Employees (WARBE); the Bangladesh Migrant Centre (BMC); and the
+           Bangladesh Women Migrants’ Association (BWMA). WARBE was formed
+           in 1997. The association strives to become the spokesperson of the migrant
+           workers, particularly with regard to realizing their rights. Since its inception,
+           WARBE has played an important role in raising public awareness of the plight of
+           the migrant workers and of the contribution they make. It has also consistently
+           called for greater transparency in the use of the Wage Earners’ Welfare Fund and
+           for the inclusion of representatives of returnee workers in the management of the
+           Fund.
+
+
+
+
+           34
+                For example, the Bangladesh Society of the UAE.
+
+           35
+                For example, the Chittagong Samity of Sharjah and the Patia Samity of Dubai.
+
+           36
+                For example, the Association of Bangladesh Engineers in Saudi Arabia.
+
+
+
+
+Working Paper No. 66                                                                           23
+        The BMC is the only organization of Bangladeshi migrant workers that is
+        operational both in Bangladesh and in a receiving country, the Republic of
+        Korea. It was established in the Korean industrial city of Ansan and provides
+        support to Bangladeshi migrant workers in the Republic of Korea. The BMC has
+        a close association with the Joint Committee of Migrant Workers in
+        Korea (JCMK) and with the Ansan Migrant Shelter. The Centre has been
+        successful in facilitating the recruitment of returnee migrants from the Republic
+        of Korea with Korean companies operating in Export Processing Zones in
+        Bangladesh.
+
+        The BWMA represents the female migrant workers of Tongi, Gazipur and Dhaka
+        city and is involved in a campaign to persuade the Government to lift the
+        restriction on the migration of unskilled women workers below the age of 35.
+
+
+Section summary
+
+        The discussion above shows that the scope for Bangladeshi migrants to join trade
+        unions in the receiving countries is limited. As a result, the mechanisms for
+        social dialogue are almost non-existent. In most of the labour-receiving
+        countries, migrants have developed their own associations. These associations
+        provide effective services which help migrant workers adapt to the new socio-
+        cultural milieu of the host countries. These associations also become an
+        important source of information for the migrants and, to some extent, fulfill their
+        cultural and social needs. The returnee migrants’ associations currently operating
+        in Bangladesh have played an important role in focusing on the rights of the
+        migrant workers. With their first-hand knowledge, they can provide very
+        effective services to both outgoing workers and returnees. However, they need
+        support in order to strengthen their institutional capacity.
+
+        Trade unions can play an important role in ensuring the rights of migrants in
+        processing migration before departure. They can also serve the workers by
+        developing collaborative programmes with the trade unions of the receiving
+        countries.
+
+
+9.      Major challenges and
+        recommendations
+        The paper underscores the role of labour migration as a major employment
+        generating sector for Bangladesh and its critical contribution to the economy.
+        Migration has also been identified as one of the potential sectors for creating
+        employment and earning foreign exchange following the expiry of the Multi-
+        Fibre Agreement. However, the paper has also identified a number of major
+        challenges that need to be addressed. This section highlights these challenges and
+        makes recommendations on ways of addressing them.
+
+
+
+
+24                                                                 Working Paper No. 66
+Challenges
+
+Employment opportunities
+
+           Although the Government of Bangladesh is committed to promoting short-term
+           international migration, it does not have any planned programme for accessing
+           the rapidly changing international labour market. As a result, systemic methods
+           for collecting information on labour needs in the receiving countries and on
+           training requirements are not in place.
+
+           Bangladeshi workers are mainly employed in the semi-skilled and unskilled end
+           of the labour market, where increasing competition from newly emerging labour-
+           sending countries has resulted in a decline in wages and other conditions of
+           work. As a result, there has been a decrease in the level of per capita remittances.
+
+           The existing education curricula of Bangladesh have very little vocational
+           content, which is a major obstacle in promoting skilled migration. Moreover, the
+           educational background of those who are participating in the semi-skilled and
+           unskilled job market is relatively poor.
+
+Rights at work
+
+Access to mobility and challenges at pre-departure phase
+
+           Although the current Government has attempted to ease female migration from
+           Bangladesh, men and women do not yet enjoy equal access to participate in the
+           international labour market.
+
+           The 1982 Ordinance has major shortcomings in making the recruitment industry
+           accountable. Potential migrants face fraudulent practices at almost every stage of
+           processing migration. Irregularity in the process of migration has resulted in an
+           increase in undocumented migration from Bangladesh.
+
+Challenges at destination
+
+           One of the major challenges of international labour migration is ensuring the
+           rights of migrants in the country of destination. Neither Bangladesh nor its
+           labour-receiving countries have ratified the relevant UN and ILO conventions.
+           And Bangladesh has no bilateral agreements or memoranda of understanding
+           with most of the countries involved. Another challenge is the need for
+           institutional capacity-building to enable the foreign missions to provide services
+           to Bangladeshi migrant workers.
+
+Social protection
+
+           Unskilled and semi-skilled workers have little possibility of benefiting from
+           social protection measures in the country of residence, as these measures are not
+           covered by their contracts. Efforts to ensure the enforcement of these measures
+           in the country of destination pose a major challenge for the government of
+           Bangladesh.
+
+
+
+
+Working Paper No. 66                                                                       25
+Social dialogue
+
+         Bangladeshi trade unions have practical difficulties in working as an institution
+         of collective bargaining in a country of destination. Although migrant workers’
+         associations have emerged both within Bangladesh and in the countries of
+         destination, they lack the institutional capacity needed to advocate for the
+         establishment of voting rights and a voice in parliament. Moreover, they have no
+         representation in the management of the Wage Earners’ Welfare Fund, which has
+         been created through their subscriptions.
+
+
+Recommendations
+
+Increasing access to employment
+
+         The government should commit adequate resources to the migration sector. The
+         Ministry of Expatriates’ Welfare and Overseas Employment should propose the
+         allocation of resources equivalent to the value of 5 per cent of the annual
+         remittances in order to organize services for migrant workers.
+
+         Many labour-receiving countries have projections and plans for future
+         development projects and concomitant labour needs. These projections need to
+         be analysed systematically, so that Bangladeshi workers can be trained to meet
+         future overseas demand and marketed.
+
+         The Bangladesh missions in Saudi Arabia, Malaysia, the UAE and Kuwait
+         should seek to draw the attention of concerned authorities of the respective
+         countries to the negative consequences of work visa manipulation on both parties
+         and urge them to take the necessary steps to halt this practice. The Ministry of
+         Expatriates’ Welfare and Overseas Employment should take the necessary legal
+         and administrative actions against identified Bangladeshi procurers and
+         middlemen engaged in the visa trade.
+
+         To ensure equal access for men and women to overseas employment,
+         government restrictions on the migration of unskilled and semi-skilled women
+         workers below the age of 35 should be rescinded (but this should be coupled
+         with better information, pre-departure orientation, better support from
+         Bangladeshi missions in countries of destinations).
+
+         To increase access to employment through migration, the costs of migration
+         should be reduced, and access to credit on low interest should also be created. A
+         bank could be established by allocating resources from the Wage Earners'
+         Welfare Fund. This bank could give loans to the poor at reasonable rates of
+         interest by keeping mortgages on land or other properties. Since the Wage
+         Earners' Welfare Fund is a contributory fund of the migrant workers, their views
+         should be taken into account by the government.37
+
+
+
+
+         37
+            Secretary General, Welfare Association of Repatriated Bangladeshi Employees, at the
+         Stakeholders’ Meeting, 20 March 2003.
+
+
+
+
+26                                                                    Working Paper No. 66
+           The existing training institutes of the BMET should be upgraded in order to help
+           increase skilled migration. The BMET also needs to extend its training outreach
+           through joint ventures with non-governmental organizations (NGOs) and private
+           training institutes. In this respect, the BMET should disseminate information on
+           the labour market to organizations that provide training and to NGOs. To ensure
+           that the poor, both men and women, have access to such training, special
+           scholarship programmes should be established. These measures will require a
+           major allocation of resources.
+
+           Vocational training should be incorporated into mainstream primary and
+           secondary school curricula and textbooks should include chapters on migration.
+           In order to help improve communication skills, English should be introduced as a
+           second language from the first grade.
+
+Enhancing rights at work
+
+           The 1982 Ordinance should be replaced by rights-based legislation reflecting the
+           1990 UN Convention on the Protection of the Rights of all Migrant Workers and
+           Members of their Families and other relevant ILO conventions.
+
+           The Bangladesh government has signed the 1990 Convention and, as a labour-
+           sending country, it is in Bangladesh’s interest to accede to this and other ILO
+           instruments forthwith and to frame the necessary enabling national legislation.
+
+           Following the recommendation of the Interim Government of 2001, an advisory
+           committee should be established forthwith. This should act as an inter-
+           ministerial/inter-agency watchdog with legal authority to monitor the
+           management of the migration process.
+
+           In an effort to reduce fraudulent practices experienced by migrants before
+           departure, there is a need to create an employment exchange bureau or to
+           regulate the dalal system. Information on how to ensure safe migration should be
+           disseminated through the mass media as well as through interventions at the
+           grassroots level.
+
+           The licence fee for private recruiting agents should be increased from
+           BDT 600,000 to at least BDT 3,000,000. In addition, the renewal of licences
+           should be contingent on performance. The BMET should renew the licences of
+           those recruiting agencies that are able to process at least 50 cases in the previous
+           year. At present, only government officials can lodge complaints against
+           recruiting agents for violation of the provisions of the 1982 Ordinance. This
+           should be changed to ensure that migrant workers have the right to seek redress
+           directly.
+
+           Before embarking on short-term contract migration, migrant workers should
+           receive pre-departure orientation training. This should include the dissemination
+           of information about the destination country, general job conditions, and the
+           rights and duties of migrant workers both under the legal regime of the country
+           concerned and under international law. Instead of providing this training itself
+           the government may decide to encourage selected specialized agencies, NGOs
+           and migrant support groups to provide residential, pre-departure orientation
+           training in different migrant-prone areas on a decentralized basis.
+
+
+
+
+Working Paper No. 66                                                                       27
+         The BMET should concentrate on the regulation and monitoring of the
+         international labour migration sector, rather than on implementing specific
+         programmes.
+
+         The role of foreign missions in the labour-receiving countries should be
+         redefined. Protection of the rights of migrant workers should be considered a
+         priority concern. The government should consider establishing a migrant
+         workers’ resource centre (MWRC) in each of the major receiving countries
+         within the premises of and under the administrative jurisdiction of the
+         Bangladesh missions.
+
+         Bank officials should receive regularly training, be aware of the importance of
+         migrant remittances and be motivated to make their services customer- friendly.
+         Some policy changes are also needed at the macro-level. The Bangladesh Bank’s
+         policy of not allowing private banks to open overseas branches in cities where
+         nationalized banks already have branches also needs to be reconsidered. In view
+         of the constraints on opening new branches of nationalized commercial and
+         private banks, the Grameen Bank and the Bangladesh Rural Advancement
+         Committee (BRAC) – which have a total of 1200 offices — should be
+         encouraged to get involved in the remittance transfer process (Siddiqui, 2001).
+
+         In an effort to ensure continuous employment and earnings on their return to
+         Bangladesh, migrants should be informed about the need to save. To encourage
+         small savers, proper incentive programmes should be established. This may
+         involve offering bonds, shares and mutual funds at attractive rates. Migrant
+         workers should also be informed about the various forms of saving instruments
+         offered by government, non-governmental and private agencies. In this regard,
+         existing legal requirements may be relaxed so that selected micro-finance
+         institutions can mobilize the migrants’ savings without providing credit.
+
+         The BMET should encourage NGOs and the private sector to offer special
+         programmes for the economic reintegration of the returnees. This may include
+         helping them gain access to: the formal banking sector; credit agencies for soft
+         loans; land allotment on moderate terms; insurance schemes; and access to
+         schemes organized under the Wage Earners’ Welfare Fund.
+
+Increasing social protection
+
+         Social protection measures relating to health, security and accidents should be
+         specified in the job contracts of semi-skilled and unskilled workers. The pre-
+         departure orientation training should explain in detail to the migrants all such
+         entitlements.
+
+         The Bangladesh missions should inform the authorities of the receiving countries
+         about the difficulties faced by claimants in view of the stringent conditions in
+         place in certain countries in respect to claims for compensation. This issue needs
+         to be pursued in liaison with other labour-sending countries.
+
+         The government of Bangladesh should also negotiate with the receiving
+         countries ways of simplifying the procedure for receiving benefits that fall due at
+         the end of the contract period, so that the migrant can begin to process the claim
+         well in advance and collect the amount before his/her departure.
+
+
+
+
+28                                                                  Working Paper No. 66
+           Information handouts on the health services available in the receiving countries
+           should be prepared in Bangladesh and disseminated through the missions and
+           various associations of migrant workers in those countries. Information should
+           also be disseminated on HIV/AIDS.
+
+           The current practice of forced repatriation of migrant workers who contract a
+           disease such as HIV/AIDS should be discontinued. The sending countries should
+           jointly seek to convince the receiving countries that the cost of medical care
+           should be borne by employers when such diseases are contracted in the
+           destination country.
+
+Enhancing the scope of social dialogue
+
+           Expert bodies and civil society organizations should organize consultation
+           meetings with local trade unions to familiarize them with migrant worker issues
+           – in particular on the exploitation of workers within Bangladesh during the
+           migration processing phase and on the nature of the violation of the human rights
+           and labour rights of migrant workers in the receiving countries. In this regard, a
+           linkage should be established between trade unions and migrant workers’
+           associations so that they can complement each other.
+
+           Trade unions should adopt innovative approaches to overcoming the problem of
+           membership for serving migrants and make concerted efforts to develop links
+           with the trade unions of the receiving countries. Trade unions should use
+           international fora to campaign for the membership of migrants in the trade
+           unions of the receiving countries.
+
+           Although returnee migrants’ associations have performed extremely well, there
+           is a need to strengthen their institutional capacity so they can have an even
+           greater impact.
+
+           The government should give careful consideration to the issue of allowing
+           migrants to exercise their voting rights. When nominating candidates for national
+           elections, political parties should take into account the need to ensure
+           representation for returnee migrants.
+
+
+
+
+Working Paper No. 66                                                                     29
+30   Working Paper No. 66
+References
+Abella M., 2002: Interview published in Migrant Workers, Labour Education 2002/4,
+           No.129, Geneva, ILO.
+
+Abrar C.R. (ed), 2000: On the Margin: Refugees, Migrants and Minorities, Dhaka, RMMRU.
+
+Ahmed S.R., 2000: Forlorn Migrants: An International Legal Regime for Undocumented
+          Migrant Workers, Dhaka, UPL.
+
+Akram S.M., 2002: ‘Migrant Workers’ Rights and Duties in Destination Countries’, in
+         Module on Labour Migration Process for Awareness Campaign through
+         Community Leaders and Activists, Dhaka, RMMRU.
+
+Akram S.M.R., Rashid R. and Titumir R., 2003: Assessment of Migrant Workers’
+         Vulnerability to HIV/AIDS, HASAB and RMMRU (mimeo).
+
+Afsar R., Yunus M. and Islam S., 2000: Are Migrants Chasing after the Golden Deer: A
+           Study on Cost Benefit Analysis of Overseas Migration by Bangladeshi Labour,
+           IOM (mimeo).
+
+Asian Migrant Centre, 2000: Asian Migrant Year Book, Hong Kong, China, Migrant Forum in
+           Asia.
+
+Asian Migrant Centre, 2001: Asian Migrant Year Book, Hong Kong, China, Migrant Forum in
+           Asia.
+
+Blanchet T., 2002: Beyond Boundaries: A Critical Look at Women Labour Migration and the
+             Trafficking Within, USAID (mimeo).
+
+BMET, 2002: Recommendations Made by the Honourable Advisor of the Ministry of Labour
+          and Employment to Reduce the Cost of Migration and Increase Wage in a
+          Meeting with BAIRA on 22 July 2001, pp. 91-100, in Siddiqui T. (ed), 2002:
+          Beyond the Maze: Streaming Labour Recruitment Process in Bangladesh,
+          Dhaka, RMMRU.
+
+Govt. of Bangladesh, 2002: Statistical Pocketbook: Bangladesh 2001, Bangladesh Bureau of
+            Statistics.
+
+Govt. of Bangladesh, 1998: Labour Force Survey, Bangladesh Bureau of Statistics.
+
+Govt. of Bangladesh, 1982: The Emigration Ordinance 1982, Dhaka Law Report.
+
+Govt. of Bangladesh, 2003: Annual Report-2002 Ministry of Expatriate Welfare and Overseas
+            Employment.
+
+Hossain I.M. Khan I.A. and Seeley J., 2003: Surviving on their feet: charting the mobile
+           livelihoods of the poor in rural Bangladesh, paper presented at the conference
+           Staying Poor: Chronic Poverty and Development Policy, held at the University
+           of Manchester, UK, 7-9 April 2003.
+
+ILO, 1999: Decent Work, Report of the Director General, International Labour Conference,
+           87th session, Geneva.
+
+
+
+
+Working Paper No. 66                                                                 31
+ILO, 2000: ‘Making the Best of Globalization’ concept paper presented at the workshop on
+            Making the Best of Globalization: Migrant Worker Remittances and Micro-
+            finance organized by ILO, Geneva.
+
+ILO, 2001: Reducing the Decent Work Deficit: A Global Challenge, Geneva.
+
+ILO, 2002: Migrant Workers, Labour Education 2002/4, No. 129, Geneva.
+
+ILO, 2003: Decent Work in Denmark: Employment, Social Efficiency and Economic Security,
+            Geneva.
+
+IOM, 2000: World Migration Report 2000, Geneva.
+
+IOM, 2003: World Migration Report 2003, Geneva.
+
+IOM and UNDP, 2002: Proceedings of National Consultation Workshop on Labour
+         Migration Process in Bangladesh, Dhaka.
+
+INSTRAW and IOM, 2000: Temporary Labour Migration of Women: Case Studies of
+        Bangladesh and Sri Lanka, Santa Domingo.
+
+Mahbub ul Huq Human Development Centre, 2001: Human Development in South Asia,
+          Dhaka, UPL.
+
+Mahmood R.A., 1996: Immigration Dynamics in Bangladesh: Level, Pattern and
+        Implications, paper presented for the Asiatic Society of Bangladesh, Dhaka.
+
+Mahmood R.A., 1998: Globalization, International Migration and Human Development:
+         Linkage and Implications prepared for UNDP (Unpublished).
+
+Malik S. and Abrar C.R., 2000: Recruitment and Placement: Planning and Process,
+          IOM/UNDP (mimeo).
+
+Mannan M.A., 2001: Bangladeshi Migrants in Saudi Labour Market: an Empirical Analysis,
+          Dhaka, RMMRU.
+
+Murshid K.A.S., Kazi I. and Meherun A., 2000: A Study on Remittance Inflows and
+          Utilization, Dhaka, IOM (mimeo).
+
+Quibria M.G., 1986: Migrant Workers and Remittances: Issues for Asian Developing
+          Countries, Asian Development Review, Vol. 4.
+
+Rahim A.B.M, 2002: Future of Labour Export to Saudi Arabia, in Siddiqui T. (ed) op.cit.,
+          pp. 104-107.
+
+Reza S., 2002: Labour Situation in Kuwait, pp. 120-126, in Siddiqui T. (ed.) op.cit.
+
+Shamim I., 2000: Trafficking in Women and Children: A Human Rights Concern, in
+           Abrar C.R. (ed.) op.cit.
+
+Siddiqui T., Malik S. and Abrar C.R., 1999: Labour Migration from Bangladesh and the
+            Trade Unions, ILO (mimeo).
+
+Siddiqui T., 2001: Transcending Boundaries: Labour Migration of Women from Bangladesh,
+             Dhaka, UPL.
+
+
+
+32                                                                     Working Paper No. 66
+Siddiqui T. (ed.), 2002: Beyond the Maze: Streamlining Labour Recruitment Process in
+            Bangladesh, Dhaka, RMMRU.
+
+Siddiqui T. and Abrar C.R., 2000: Contribution of Returnees: An Analytical Survey of Post-
+            return Experience, IOM/UNDP.
+
+Siddiqui T. and Abrar C.R., 2001: Migrant Workers’ Remittances and Micro-finance
+           Institutions, ILO (mimeo).
+
+Siddiqui T., 2003: Institutionalising Re-bonding: Bangladeshi Diaspora in UK and US,
+            Dhaka, Ministry of Expatriates’ Welfare and Overseas Employment of Govt. of
+            Bangladesh and IOM, (mimeo).
+
+Siddiqui T., 2003: Migration as Livelihood Option of the Poor, paper presented at the DFID-
+             RMMRU conference on Migration, Development and Pro-Poor Policy Choices,
+             held in Dhaka.
+
+Siddiqui T. et al, 2004: Work Condition of Bangladehsi Factory Workers in the Middle
+            Eastern Countries, Solidarity Center Sri Lanka, Colombo (Mimeo).
+
+UNDP, 1995: Human Development Report, New York.
+
+UNDP, 1999: Human Development Report, New York.
+
+UNDP, 2000: Human Development Report, New Xork
+
+WARBE, 2001: Migrant Workers’ Rights and Duties in Destination Countries, in Module on
+         Labour Migration Process for Awareness Campaign through Community Leaders
+         and Activists, Dhaka, RMMRU.
+
+Zamir Z.B., 1998: Socio-Economic Conditions of the Migrant Workers: A Case Study of
+           Bangladeshi Workers in Selangor, Malaysia (mimeo).
+
+
+
+
+Working Paper No. 66                                                                   33
+34                     Table 1: Percentage distribution of Bangladeshi migrant workers by country of destination (1976- Sept 2003)
+
+                              Country             Saudi       Kuwait   U.A.E   Qatar    Iraq    Libyan      Bahrain   Oman    Malaysia   Korea   Singapore Others     Total
+                                                  Arabia                                         Arab
+                               Year                                                            Jamahiriya
+                              1976                 3.56       10.56    32.68   20.06    9.64     2.84         5.50     1.86     0.00     0.00       0.00   13.29       6087
+                              1977                 8.77        8.36       37   14.38    7.87     4.57         5.53     9.49                                 4.02      15725
+                              1978                14.08        9.16    32.93    5.71    6.37     10.5         3.34    12.61     0.10                        4.51      22809
+                              1997                26.44        9.38    20.69    5.65    9.65     8.04         3.38    15.42                         0.45    0.91      24495
+                              1980                28.91       12.26    16.12    4.84    6.41     9.90         4.49    15.78     0.01     0.00       1.28    0.01      30073
+                              1981                23.99        9.79    11.50    4.07   23.58     7.46         2.50    13.18     0.00     0.00       1.94    1.99      55787
+                              1982                25.96       11.54    10.93    9.96   20.55     3.30         3.25    13.14     0.00     0.00       0.53    0.83      62762
+                              1983                21.83       17.36    11.17   12.76    8.33     3.73         4.18    18.76     0.04     0.00       0.30    1.54      59220
+                              1984                35.97        9.92     9.14    4.81    8.29     5.97         4.06    18.42     0.00     0.00       1.27    2.16      56714
+                              1985                47.79        9.50    10.73    6.12    6.50     1.95         3.82    11.86     0.00     0.00       1.02    0.71      77694
+                              1986                39.67       14.98    12.80    7.06    6.89     4.53         3.78     9.11     0.77     0.00       0.04    0.37      68658
+                              1987                53.09       12.91    13.45    7.96    5.20     3.07         2.78     0.59     0.00     0.00       0.00    0.96      74017
+                              1988                40.55        9.58    19.73   10.85    6.15     4.05         4.80     3.26     0.00     0.00       0.00    1.04      68121
+                              1989                39.27       12.19    14.93    8.32    2.53     1.58         4.75    15.17     0.39     0.00       0.23    0.64     101724
+                              1990                55.37        5.74     8.00    7.39    2.60     0.45         4.40    13.47     1.33     0.00       0.75    0.50     103814
+                              1991                51.36       19.40     5.83    2.56    0.00     0.76         2.36    15.67     1.11     0.00       0.44    0.40     147131
+                              1992                49.51       18.27     6.90    1.73    0.00     0.86         3.09    13.73     5.60     0.00       0.17    0.16     188124
+                              1993                43.51       10.80     6.47    1.00    0.00     0.74         2.21     6.49    27.79     0.00       0.71    0.30     244508
+                              1994                49.05        8.00     8.08    0.33    0.00     1.00         2.27     3.47    25.67     0.84       0.21    1.08     186326
+                              1995                44.79        9.33     7.83    0.04    0.00     0.59         1.60    11.17    18.76     1.77       2.01    2.12     187543
+                              1996                34.35        9.94    11.25    0.05    0.00     0.93         1.78     4.11    31.47     1.30       2.51    2.32     211714
+                              1997                46.10        9.14    23.68    0.81    0.00     0.84         2.17     2.59     1.23     0.38      11.86    1.20     231077
+                              1998                59.30        9.51    14.49    2.54    0.00     0.47         2.62     1.79     0.21     0.22       8.12    0.75     267667
+                              1999                69.26        8.35    12.06    2.09    0.00     0.65         1.73     1.51     0.00     0.56       3.58    0.21     268182
+                              2000                                                                                                                                   222686
+
+
+
+
+Working Paper No. 66
+                                                  64.94        0.27    15.28    0.64    0.00     0.45         2.08     2.36     7.74     0.44       4.98    0.80
+                              2001                72.63        2.83     8.60    0.12    0.00     0.24         2.31     2.41     2.60     0.83       5.09    2.34     188965
+                              2002                72.47        7.00    11.29    0.25    0.00     0.70         2.38     1.74     0.04     0.01       3.05    1.06     225256
+                          2003 Jan-Sept           66.85        7.88    15.55    0.04    0.00     1.28         2.76     1.60     0.00     0.09       2.19    1.75     185523
+                              Total               51.78        9.46    12.16    2.58    1.85     1.44         2.64     6.42     7.19     0.37       2.99    1.10    3582402
+                       Source: Prepared from BMET data 2003
+Table 2: Percentage distribution of Bangladeshi migrant workers
+by level of skills (1976- Sept 2003)
+
+        Year                Professional               Skilled         Semi-skilled Unskilled    Total
+     1976                          9.33                   29.16           8.92       52.59         6087
+     1977                         11.23                   41.00           3.12       44.66        15725
+     1978                         15.15                   35.91           4.60       44.34        22809
+     1979                         14.26                   28.60           6.88       50.26        24495
+     1980                          6.59                   40.60           7.79       45.02        30073
+     1981                          6.98                   40.21           4.39       48.42        55787
+     1982                          6.21                   32.84           5.21       55.74        62762
+     1983                          3.08                   31.98           8.61       56.33        59220
+     1984                          4.66                   30.30           9.67       55.37        56714
+     1985                          3.31                   36.33          10.07       50.30        77694
+     1986                          3.22                   38.30          13.49       44.99        68658
+     1987                          3.00                   32.21          13.00       51.79        74017
+     1988                          3.92                   37.12          15.99       43.09        68121
+     1989                          5.23                   38.16          17.36       39.24       101724
+     1990                          5.78                   34.30          20.03       39.88       103814
+     1991                          6.13                   31.87          22.16       39.84       147131
+     1992                          6.05                   26.94          16.47       50.54       188124
+     1993                          4.54                   29.31          27.06       39.09       244508
+     1994                          4.50                   32.76          24.97       37.77       186326
+     1995                          3.39                   31.94          17.09       47.58       187543
+     1996                          1.51                   30.37          16.38       51.74       211714
+     1997                          1.64                   28.22          18.85       51.29       231077
+     1998                          3.58                   27.91          19.27       49.23       267667
+     1999                          3.00                   36.71          16.76       43.53       268182
+     2000                          4.79                   44.73          11.88       38.60       222686
+     2001                          3.14                   22.62          16.25       57.99       188965
+     2002                          6.41                   24.98          15.99       52.61       225256
+2003 (Jan-Sept)                    6.09                   29.53          11.93       52.45       185523
+     Total                         4.40                   31.80          16.66       47.14      3582402
+ Note: 150,000 Bangladeshi workers legalized in Malaysia during 1997
+ Source: Prepared from BMET data 2003.
+
+
+
+
+Working Paper No. 66                                                                                      35
+     Table 3: Percentage distribution of Bangladeshi migrant workers by
+     sending agency (1976-Sept 2003)
+
+           Year               BMET BOESL             Recruiting   Individual      Total
+                                                       Agent
+         1976                86.73            0.00     4.67          8.61         6087
+         1977                36.43            0.00     7.45         56.12        15725
+         1978                27.01            0.00     8.74         64.25        22809
+         1979                28.40            0.00    12.11         59.49        24495
+         1980                19.00            0.00    25.85         55.15        30073
+         1981                10.89            0.00    39.83         49.29        55787
+         1982                 7.14            0.00    39.74         53.12        62762
+         1983                 1.23            0.00    44.44         54.32        59220
+         1984                 0.00            0.28    57.23         42.49        56714
+         1985                 0.00            1.57    50.71         47.72        77694
+         1986                 0.00            2.76    40.58         56.66        68658
+         1987                 0.00            0.46    45.69         53.85        74017
+         1988                 0.00            0.70    50.08         49.22        68121
+         1989                 0.00            0.70    35.89         63.42       101724
+         1990                 0.00            0.42    38.78         60.80       103814
+         1991                 0.00            0.10    44.10         55.80       147131
+         1992                 0.02            0.29    31.76         67.93       188124
+         1993                 0.21            0.23    52.95         46.61       244508
+         1994                 0.13            0.10    51.18         48.60       186326
+         1995                 0.04            0.34    40.60         60.65       187543
+         1996                 0.00            0.19    56.05         43.76       211714
+         1997                 0.01            0.14    37.13         62.72       231077
+         1998                 0.00            0.16    31.87         67.98       267667
+         1999                 0.00            0.12    41.27         58.62       268182
+         2000                 0.00            0.24    41.08         58.69       222686
+         2001                 0.00            0.08    40.57         59.35       188965
+         2002                 0.00            0.10    37.47         62.43       225256
+     2003 Jan-Sept            0.00            0.22    33.93         65.86       185523
+         Total                1.17            0.28    41.10         57.45      3582402
+      Source: Prepared from BMET data 2003.
+
+
+
+
+36                                                                             Working Paper No. 66
+     Table 4: Number and percentage of women migrants in comparison to total flow
+     (1991-2003)
+
+                                                Women Migrants                       Total Number
+                  Year
+                                             Number     % of Total                     Male and
+                                                                                        Female
+             1991-1995                        9308                            0.98      953632
+                  1996                        1567                            0.74     211714
+                  1997                        1762                            0.76     231077
+                  1998                          939                           0.35     267667
+                  1999                          366                           0.14     268182
+                  2000                          454                           0.20     222686
+                  2001                          659                           0.35     188965
+                  2002                        1217                            0.54     225256
+         2003 (Jan-Sept)                      1240                            0.67     185523
+       Total                                17512                             0.64    2754693
+     Source: Prepared from manually consolidated figures provided by BMET, 2003.
+
+
+
+
+Working Paper No. 66                                                                                37
+     Table 5: Percentage increase/decrease in number of migrant workers and
+     remittances over the previous year (1976-2002)
+
+        Year              Number of          Increase/    Remittance      Increase/
+                           migrants          decrease    (us $ million)   decrease
+                                                 %                            %
+      1976                   6,087                          23.71
+      1977                 15,725            158.33         82.79           249.18
+      1978                 22,809             45.04        106.90            29.12
+      1979                 24,495              7.39        172.06            60.95
+      1980                 30,073             22.77        301.33            75.13
+      1981                 55,787             85.51        304.88             1.18
+      1982                 62,762             12.50        490.77            60.97
+      1983                 59,220              5.64        627.51            27.86
+      1984                 56,714             -4.23        500.00            20.32
+      1985                 77,694             36.99        500.00             0.00
+      1986                 68,658            -11.63        576.20            15.24
+      1987                 74,017              7.80        747.60            29.74
+      1988                 68,121             -7.97        763.90             2.18
+      1989                101,724             49.33        757.84            -0.79
+      1990                103,814              2.05        781.54             3.12
+      1991                147,131             41.72        769.30            -1.56
+      1992                188,124             27.86        901.97            17.24
+      1993                244,508             29.97      1,009.09            11.87
+      1994                186,326            -23.79      1,153.54            14.31
+      1995                187,543              0.65      1,201.52             4.16
+      1996                211,714             12.89      1,355.34            12.79
+      1997                231,077              9.14      1,525.03            12.52
+      1998                267,667             29.76      1,599.24             4.86
+      1999                268,182              0.19      1,806.63            12.96
+      2000                222,686            -16.96      1,954.95             8.21
+      2001                188,965            -15.14      2,071.03             5.94
+      2002                225,256             19.20      2,847.79            37.50
+      Total            2,909,972                         18058.74
+     Source: Prepared from BMET data, 2003
+
+
+
+
+38                                                                        Working Paper No. 66
+Table 6: Utilization of remittance by 100 households
+
+  Use                                           In taka      %
+  Food and clothing                            4,466,280     2.45
+  Medical treatment                              703,800     3.22
+  Child education                                600,940     2.75
+  Agricultural land purchase                   2,455,400    11.24
+  Homestead land purchase                        210,000     0.96
+  Home construction/repair                     3,280,000    15.02
+  Release of mortgaged land                      490,000     2.24
+  Taking mortgage on land                        435,000     1.99
+  Repayment of loan (for migration)            2,304,600    10.55
+  Repayment of loan (other purpose)               757500     3.47
+  Investment in business                       1,039,200     4.76
+  Savings/fixed deposit                          670,000     3.07
+  Insurance                                       72,140     0.33
+  Social ceremonies                            1,980,000     9.07
+  Gift/donation to relatives                     205,000     0.94
+  Send relative for pilgrimage                   200,000     0.92
+  Community development activities                20,520     0.09
+  Sending family member abroad                 1,571,000     7.19
+  Furniture                                      151,300     0.69
+  Others                                         227,000     1.04
+  Total                                       21,839,680   100.00
+ Source: Siddiqui and Abrar, 2001.
+
+
+
+
+Working Paper No. 66                                                39
+40   Working Paper No. 66
+Policy Integration Department Working Papers
+
+
+
+No. 1    ILO activities on the social dimension of globalization: Synthesis report
+
+No. 2    Measuring decent work with statistical indicators
+         Richard Anker, Igor Chernyshev, Philippe Egger, Farhad Mehran
+         and Joseph Ritter
+
+No. 3    Globalization and decent work: Options for Panama
+         Philippe Egger
+
+No. 4    Globalización y trabajo decente: Opciones para Panamá
+         Philippe Egger
+
+No. 5    Indicators of social dialogue: Concepts and measurements
+         Lane Kenworthy and Bernhard Kittel
+
+No. 6    Assessing the impact of the attacks of 11 September 2001 on women’s
+         employment in the United States
+         Gertrude Schaffner Goldberg and Helen Lachs Ginsburg
+
+No. 7    Decent work and the informal economy in Central America
+         Juan Diego Trejos Solórzano and Miguel Del Cid
+
+No. 8    Poverty initiatives in the ILO: A review of past and present approaches
+         Pat Holden and Dagmar Walter
+
+No. 9    Whither the International Standard Classification of Occupations (ISCO-88)?
+         Debbie Budlender
+
+No. 10   Improving occupational classifications as tools for describing labour markets:
+         A summary of recent national experiences
+         Debbie Budlender
+
+No. 11   Recent developments in China’s labour economy
+         Thomas G. Rawski
+
+No. 12   The Impact of economic liberalization on employment and wages in India
+         Sonia Bhalotra
+
+No. 13   The impact of trade liberalization upon inequality in developing countries
+         Donald J. Robbins
+
+No. 14   The impact of liberalization and globalization on income inequality in
+         developing and transitional economies
+         Giovanni Andrea Cornia
+
+No. 15   The impact of technology transfer on employment and income distribution in
+         developing countries: A survey of theoretical models and empirical studies
+         Mariacristina Piva
+
+
+
+
+Working Paper No. 66                                                                      41
+Policy Integration Department Working Papers
+Prepared by the World Commission on the
+Social Dimension of Globalization
+
+
+No. 16   International finance: Meeting the needs of people in developing countries
+         José Guilherme Almeida dos Reis
+No. 17   The gender dimensions of globalization of production
+         Stephanie Barrientos, Naila Kabeer and Naomi Hossain
+No. 18   Social exclusion in the context of globalization - Jan Breman
+No. 19   Gender and globalization: A macroeconomic perspective
+         Çağatay Nilüfer and Ertük Korkurt
+No. 20   Globalization, social exclusion, and work: with special reference to informal
+         employment and gender - Marilyn Carr and Martha Chen
+No. 21   Resources for social development - Antony Clunies Ross
+No. 22   Does the new international trade regime leave room for industrialization
+         policies in the middle-income countries? - Alisa DiCaprio and Alice Amsden
+No. 23   Social dimension of globalization in Latin America: Lessons from Bolivia and Chile,
+         lvaro García Hurtado
+No. 24   The social dimension of globalization: a review of the literature
+         Bernhard Gunter and Rolph van der Hoeven
+No. 25   The social dimension of global production systems: A review of the issues,
+         Susan Hayter
+No. 26   Reforming global economic and social governance:
+         a critical review of recent programmatic thinking - Jeremy Heimans
+No. 27   Corporate social responsibility: an issues paper - Michael Hopkins
+No. 28   Upgrading in global value chains - John Humphrey
+No. 29   Implications of globalization and economic restructuring for skills development
+         in Sub-Saharan Africa - Richard K. Johanson
+No. 30   The outcome and impact of the main international commissions on development issues
+         Frédéric Lapeyre
+No. 31   Globalization and structural adjustment as a development tool - Frédéric Lapeyre
+No. 32   Globalization and perceptions of social inequality - Malte Luebker
+No. 33   The changing structure of international trade linked to global production systems:
+         what are the policy implications? - William Milberg
+No. 34   Corporate social responsibility: an overview of principles and practice,Jill Murray
+No. 35   Inclusive development strategy in an era of globalization - Ignacy Sachs
+No. 36   Social consequences of the globalization of the media and communication sector:
+         some strategic considerations - Seán Ó. Siochrú
+No. 37   Globalization, history and international migration: a view from Latin America
+         Andrés Solimano
+No. 38   Towards a different kind of globalization, or how the anti-globalists view the world
+         Gijsbert van Liemt
+
+
+
+
+42                                                                       Working Paper No. 66
+Policy Integration Department Working Papers
+
+
+
+No. 39   How do trade union rights affect trade competitiveness?
+         David Kucera and Ritash Sarna
+
+No. 40   Statistics on the employment situation of people with disabilities:
+         A compendium of national methodologies
+         ILO Bureau of Statistics in collaboration with the In Focus Programme on Skills,
+         Knowledge and Employability
+
+No. 41   Employment in the informal economy in the Republic of Moldova
+         ILO Bureau of Statistics in collaboration with the Department for Statistics
+         and Sociology of the Republic of Moldova
+
+No. 42   Decent work in a least developed country: A critical assessment of the Ethiopia
+         PRSP Graeme J. Buckley
+
+No. 43   Unemployment and Labour Market Institutions:
+         The Failure of the Empirical Case for Deregulation
+         Dean Baker, Andrew Glyn, David Howell and John Schmitt
+
+No. 44   Women's access to occupations with authority, influence and decision-making
+         power: Women as legislators, senior officials and managers around the world
+         Richard Anker.
+
+No. 45   The world of work in the context of economic integration and trade liberalization
+         Daniel Martínez
+
+No. 46   Poverty reduction in Pakistan: The strategic impact of macro and employment
+         policies Moazam Mahmood
+
+No. 47   Trends in Work Stoppages: A Global Perspective
+         L. J. Perry and Patrick J. Wilson
+
+No. 48   Generating decent work for poverty reduction in Cambodia:
+         The voice of workers, employers and the Government
+         Moazam Mahmood
+
+No. 49   The Social Dimension of Regional Integration in ECOWAS
+         René Robert
+
+No. 50   Measuring trade union rights: A country-level indicator constructed from
+         coding violations recorded in textual sources
+         David Kucera
+
+No. 51   Patterns of job quality attributes in European Union
+         Joseph A. Ritter
+
+No. 52   Child Labour, Education and Export Performance
+         David Kucera and Ritash Sarna
+
+
+
+
+Working Paper No. 66                                                                         43
+No. 53   Measuring the informal economy: From employment in the informal sector to
+         informal employment
+         Ralf Hussmanns
+
+No. 54   Indicators of labour standards: an overview and comparison
+         Richard N. Block
+
+No. 55   The pattern of globalization and some implications for the pursuit of social goals
+         Gerry Rodgers
+
+No. 56   Statistical indicators of social dialogue: A compilation of multiple country databases
+         Anne Chataigner
+
+No. 57   Trade unions and informal workers’ associations in the urban informal economy of
+         Ecuador - Catherine Vaillancourt-Laflamme
+
+No. 58   Decent work, standards and indicators
+         Monique Zarka-Martres and Monique Guichard-Kelly
+
+No. 59   Social Dialogue Indicators: Trade Union Membership and Collective Bargaining
+         Coverage, Statistical Concepts, Methods and Findings
+         Sophia Lawrence and Junko Ishikawa
+
+No. 60   Informality and Gender in Latin America
+         María Elena Valenzuela
+
+No. 61   Labour developments in dynamic Asia: What do the data show?
+         David Kucera and Anne Chataignier
+
+No. 62   Sources and Methods: Labour Statistics - Volume 5: Total and economically active
+         population, employment and unemployment (Population censuses), Third edition
+
+No. 63   Desarrollo local en América Latina: Oportunidades y desafíos para el trabajo
+         decente
+         Francisco Alburquerque
+
+No. 64   Bangladesh Decent Work statistical indicators: A fact-finding study
+         Mustafa K. Mujeri
+
+No. 65   The impact of globalization on poverty in Bangladesh
+         S. R. Osmani
+
+No. 66   International labour migration from Bangladesh: A decent work perspective
+         Tasneem Siddiqui
+
+
+
+
+44                                                                         Working Paper No. 66
+

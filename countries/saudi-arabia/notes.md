@@ -795,3 +795,113 @@ Run of 7 Nov 2026, prefix SG (SG0001-SG0044). Inserts drafted in `drafts/inserts
 - Terms: tanazul (তানাজুল) appears in Facebook and YouTube titles but no saved source could be fetched (YouTube returned a sign-in page); not used in the doc. "Fayda" found in no saved source; the 2026 Bangla guide calls the kafil's cut কামিশন (SM0012). Note that মাজরা in that guide also means "farm" (SM0015).
 - Sponsor types: embassy page (SM0043, SM0044) gives sharika / muassasa / sayeq khas / amel manzili. No source gives prices by sponsor type; Need to know.
 - Exchange rate fixed at SR 1 = Tk 33 (SM0010, 7 Nov 2026) and every conversion recomputed.
+
+# Relative route: scale
+
+8 Nov 2026. Question: how many go to Saudi Arabia (and the Gulf) through relatives or single visas versus agency group visas. Facts RD0001-RD0041; draft text in `drafts/relative-scale.md` (companion to `drafts/relative-origin.md`). doc.md not edited.
+
+**The single/group split (best number found).** Khaborer Kagoj, 30 Nov 2024, citing BMET: 90,000 on group visas and 21.36 lakh on single visas over five years; singles 3-5 lakh a year; "25 times" as many singles (RD0015, RD0001, RD0002). Group share about 4%. Cross-checks: (a) our tally of BMET-posted Saudi permission letters, 70,145 workers Jun 2023-Dec 2025 (SC0001), against about 16.3 lakh departures (half of 2023's ~4.98 lakh RD0038, plus 6.28 lakh 2024 E0118, 7.55 lakh 2025 SB0017) = about 4.3%; per-year from agencies/activity.csv: 2024 letters 22,878 workers (3.6% of 628k), 2025 32,885 (4.4% of 755k); (b) BMET ADG Oct 2025: contracts for only 3-4% (SI0032). Three independent routes land on about 4%. Caveats: BMET posts only some letters; letters count posts approved, not people who went; 403 of the 1,140 Saudi letters are for under 25 workers, so permission letters are not only group visas (definition question, Need to know).
+- Group threshold conflict: TBS 2025 says 25 or more to one company (SH0006); IOM 2020 says a demand for more than 8 is a group visa and at most 8 individual visas per employer (RD0016). Not resolved; Need to know.
+- No BMET publication found that splits clearances single vs group or individual vs agency. BMET's charter has a direct-clearance service for workers with their own visa (A0057) but no counts. BMET statistics pages not tried this round (bmet.gov.bd blocks curl); Need to know asks for the counts.
+
+**Who found the visa (surveys, all Bangladesh-wide, mostly Gulf-heavy).**
+- RMMRU-SDC 2015 (Siddiqui and Mahmood): 4.6% direct to agency, 52.2% dalal, 24.9% relatives, 11.9% family, 2.9% friends, 2.1% own effort (RD0027-RD0029). Source is an undated RMMRU blog repost; study year from RMMRU books list.
+- IOM survey 2019-2020, N=300, published 2022: Table 8 42.3% agency work permit, 33.2% via relatives abroad, 19.5% free visa; Table 7 68% dalal, 21% individual, 6% agency, 0.3% BOESL; fee recipients 75.8% dalal, 18.2% relatives, 4.7% agency; relatives charged BDT 286,642 on average vs agencies 243,531 (RD0020-RD0024). Saudi was 29% of that sample.
+- IOM-MoEWOE 2017 (via IOM 2022 footnote): ~35% agencies, >60% social networks, ~2% BOESL (RD0026). Chowdhury and Reza 2023 repeat it citing Rashid and Ashraf 2018 (registered, not logged).
+- IOM 2020 mapping: >80% of individual visas processed through agencies; 55 of 55 returnees never went to an agency (RD0017, RD0019).
+- Bangladesh Bank 2019, borrower sample (bank-based, biased to loan-takers): 45% agents, 29% relatives, 2.2% government; cost via relatives Tk 4.3 lakh vs agents 4.0 (RD0039-RD0041). Chart has a 16% bar whose label is garbled in the text layer (possibly students or "purchase of visa"); not used.
+- BBS SEDS 2023 (via TBS, 9 Jun 2024): measures whom people paid. 52.03% brokers, 42.09% agencies, 3.09% government, 2.8% helped by relatives/friends (RD0034). Bonik Barta (SB0015) gives 52.3/42.9/3.9 for the same survey, likely rounding errors; noted on RD0034. Low 2.8% does not mean few go through relatives: a relative who charges is a "broker" in a payee question.
+- OKUP 2022 Gulf cohort, 8 districts: 51% (554) knowingly on free visa (RD0036); channel split for those already in SI0031.
+- ITUC 2023 (835 reviews): 78% relied on sub-agents (RD0037).
+- Older: Siddiqui 2003 almost 60% (RD0031); ILO 2006 55-60% (RD0030).
+- World Bank 2023 (Bossavie): 30% of private-channel migrants had family in destination vs 7% of working-age population (RD0032).
+- What they mean together: the agency is where the paperwork is processed, not where the job comes from; the job/visa comes from a relative or a broker (often the same person). Shares for "relatives" range from 21% to 40% depending on whether family/friends are split from dalals; "networks" 55-60%+.
+
+**Mechanics from the KK piece (new, insider-grade).** Visa trader rents an agency licence for Tk 15,000-20,000 per clearance, signs a muchleka that he bears liability; agency gets ~Tk 20,000; worker pays Tk 4-5 lakh; BMET can only act against the agency, so recovery under Tk 1 lakh; nearly all BMET complaints are single-visa (RD0003-RD0013). The joint secretary (Sajjad Hossain Bhuiyan) wants single visas scrapped (RD0013).
+
+**Saudi-side data.** Not found. Searched GASTAT/Musaned/GLMM for Bangladeshis by sponsor type (household vs establishment); domestic worker statistics are not split by nationality in what was found. Saudi ambassador's 750,000 work visas for 2025 (TBS) gives no channel split; not logged. Need to know.
+
+**Women.** Female domestic workers go through agencies on Musaned-linked single visas, and agencies use brokers almost entirely (agencies/facts.csv AB0021, AB0025, Prothom Alo 2019). Not in the Saudi facts file, so not cited in the draft.
+
+**Fetched, not used:** nsda-labour-migration-trend (NSDA study, no channel data), wb-institutional-assessment-2018 (no channel shares), bibm-roundtable-2025 (lists "individual initiatives through friends and relatives" as a channel, no number), bbs-com-pilot-2019 (questionnaire only), rmmru-labour-migration-2019 (no channel shares), tbs-single-visa-exit-demand-2025 (definition only, already in SH0006).
+
+**Pages we could not download:** BBS-ILO Cost of Migration Survey 2020 full report (ILO PDF URL not found; guessed wcms URLs 404). It has a question on whom the visa came from (pilot questionnaire bbs-com-pilot-2019 lists "relatives or friends", "informal broker", "agency"); ask a teammate to find the PDF. ITUC mra_bangladesh_v7.pdf returned 403 earlier (FE summary used).
+
+# Relative route: risks
+
+8 Nov 2026, deep dive on what goes wrong on a relative's visa and what the worker can do (draft `drafts/relative-risks.md`, facts RC0001-RC0062; reuses RA0001/RA0008/RA0009/RA0011/RA0031/RA0032/RA0034/RA0037, A0037/A0046/A0080/A0081/A0107, B0073-B0077/B0108/B0117, C0020/C0055/C0056, D0031, E0027/E0089, G0015, SB0010, SG0002, SI0033/SI0034, SJ0026/SJ0034, SL0002). doc.md not edited, nothing committed.
+
+**New sources.**
+- OEMA 2013 sections 27, 28, 31, 38, 39, 41, 43 (bdlaws, UTF-16 pages; converted to `<name>.utf8.txt` for quote checks, the `.md` copies are unreadable). Key points: s.31 covers "any person", not just agencies (false promise of a job, keeping passports, false pay promises), up to 5 years plus at least Tk 1 lakh; s.39 (as substituted 2023, amended 2026) makes s.31/33/34 cognisable, non-bailable, non-compoundable; s.41 lets anyone complain to the government against any person, 30 working days, settlement by order or salish; s.43 recovery; s.28 civil suit ("or any other person" added 2023); s.27 legal aid right; s.38 first-class magistrate, 4 months (+2).
+- Village Courts (Amendment) Act 2024 (bdlaws): civil limit Tk 75,000 to Tk 3 lakh, covers money due under agreement/receipt/document. RMMRU 2019 quotes both Tk 75,000 and Tk 25,000 (older law); superseded. e-Gram Adalat site (eParishad, not official) for Form 1 fee Tk 10/20.
+- RMMRU, *Justice at the Doorsteps: Mediation on Migration Fraudulence* (2019): perpetrators mostly relatives/friends/community, victims avoid courts; Kalihati survey (40% of migrant households cheated, 19% never went); shalish favours the powerful; BMET arbitration (Emigration Rules 2002) bases compensation on official cost, rejects undocumented claims, no enforcement; NLASO rejected 3 of 5 referrals for lack of documents. No outcome figures for its own mediation found in the text.
+- HURIGHTS Osaka chapter on BRAC's migration programme (undated, c.2018): social arbitration to recover money from dalals because cheated families lack documents for BMET cases; visa checking at district/upazila level.
+- Ajker Patrika (2023) on government legal aid: 16430, +880 9123 16430 from abroad, district legal aid offices, mediation of fraud/money disputes, income cap Tk 1 lakh for workers. Not confirmed on nlaso.gov.bd (not fetched this run).
+- Cases: Bishwanath, Sylhet (Channel Jainta News, Jun 2026: family incl. brother in Saudi, Tk 5 lakh for a driving visa, PDF of a different 3-month visa, UP chairman notices ignored, CR case 249/2026 under OEMA at Senior Judicial Magistrate court); Gurudaspur, Natore (Prothom Alo, Oct 2023: villager in Saudi took Tk 4-5 lakh each from nine, no iqama for two years, salish ordered Tk 1 lakh each and was ignored, OC refused nine complaints saying they hadn't gone legally); Muktagachha (bdtoday, Oct 2026: cousin "sold" woman on khadema visa, trafficking case, arrest); bdnews24 Jul 2026 (76 jailed returnees, BRAC: expired iqama, visa fraud, brokers); Muktokontho Nov 2026 (104 jailed returnees; Tk 3.7 lakh iqama money taken; embassy slow to visit jails).
+- BBC Bangla Apr 2024: BAIRA SG says on relatives' free visas money moves among relatives, agencies only do formalities; "65-70% go on free visas" attributed to agencies and BMET. Kuwait worker on sponsor not renewing to sell slot to a new worker (logged RC0039, flagged Kuwait).
+- Iqama 90-day rule: Ajel Aug 2026 (Jawazat answer on X, domestic worker) and BHRRC/Gulf News 2022 (SR 500, Absher/Muqeem, quarterly or half-yearly issuance allowed). The quarterly-iqama rule means a 3-month iqama is legal; A0080 treats it as a free-visa sign. Both kept, draft says both.
+- DLA Piper Feb 2026: SR 100,000 fine for letting workers work for others. Motive for sponsors' false cases; not stated as such by any source, the draft only places the facts side by side.
+- Prothom Alo opinion Dec 2023 (worker-writer in Qatar): kafeels file false theft cases on workers who work elsewhere; don't sign blank papers; complain at maktab amel. Gulf-wide, weak source; used only for the theft-case point and the blank-paper caution.
+- Lexology/Clyde & Co May 2026: Qiwa contract only after iqama, Saudi phone and bank account, so not visible before departure. A Facebook group thread said the same (not saved).
+- Musaned Visa Status Inquiry (Firecrawl): inputs are the employer's national ID/iqama and request number. Also: employer gets a free replacement visa if the domestic worker leaves within 90 days (RC0013, not used in draft).
+
+**Judgement calls.**
+- OEMA s.33 punishes buying as well as selling a visa. Whether a worker who complains about a relative's sold visa exposes himself is a real question; kept as Need to know rather than stated.
+- Police: Natore OC's line ("they didn't go legally") contradicts s.31, which applies to any person and is cognisable. Draft gives the law and the refusal side by side, then the CR-case route that Bishwanath used.
+- Jagonews 2019 piece on a planned Saudi law letting workers challenge false huroob: superseded by the 2021 labour reforms already in the doc (C0063-C0071, C0114); not logged.
+- Bangla Tribune "fake company" case (Paltan, 34 people, business contact not relative): fetched, not logged.
+
+**Searched, not found (kept as Need to know).**
+- Any figure on how much BRAC's or RMMRU's social arbitration recovers per case.
+- Any BMET settlement against an individual relative rather than an agency.
+- Whether the labour wing or Saudi police act against a Bangladeshi in Saudi Arabia who took visa or iqama money (searched Bangla news and embassy pages; only complaints about embassy slowness found).
+- Use and enforceability of stamp-paper deeds or security cheques taken from relatives (search gave lawyers' Facebook posts and cheque-dishonour explainers only).
+- Village courts hearing visa-money disputes; s.31 offences are non-compoundable, so it's unclear they can.
+
+**Pages we could not download (this run).**
+- jugantor.com/country-news/1116407 (21 families cheated with Saudi driving visas): curl 403, not retried.
+- loc.gov Global Legal Monitor 2023 on Saudi penalties: curl 403; DLA Piper 2026 used instead.
+- Facebook posts and videos (Probash FM, lawyers' pages on recovering money from dalals, "কফিল আকামা না দিলে করনীয়"): Firecrawl doesn't support Facebook. YouTube "সৌদি আরব আসার পর কফিল ইকামা না দিলে করনীয়" (watch?v=9XK6S5Tozjk) not transcribed.
+
+# Relative route: paperwork
+
+8 Nov 2026, deep dive on the paper chain for a single (individual) visa from a relative (draft `drafts/relative-paperwork.md`, facts RB0001-RB0060; reuses A0007/A0011/A0012/A0016/A0019/A0043/A0057/A0058/A0076/A0085/A0087/A0102, B0004/B0017/B0052/B0095/B0096/B0098/B0107/B0116/B0166, G0022, SG0054, SH0021/SH0022, SI0001-SI0007/SI0026). doc.md not edited, nothing committed.
+
+**New sources.**
+- Dhaka Today 30 Nov 2024 (reprint of Khaborer Kagoj), "সৌদিতে সিঙ্গেল ভিসায় যত ভোগান্তি": the best single account of the mechanics. BMET: 90,000 group vs 2,136,000 single in five years; almost all complaints from single-visa workers. Ministry joint secretary Sajjad Hossain Bhuiyan: small Saudi firms sell demand letters to Bangladeshi brokers; the seller rents an agency licence for Tk 15,000-20,000 and signs a written undertaking taking all liability; the agency gets ~Tk 20,000 of a Tk 4-5 lakh cost, so BMET action against it recovers little.
+- TBS 24 Jun 2024 (via hawkerbd print copy): BMET enforced embassy attestation for single visas from 10 June 2024; group = more than 25 workers to one company; BAIRA: ~70% of Saudi-bound are single, BMET issued ~2,000 Saudi cards a day.
+- Finance Today 5 Feb 2025: BAIRA's 9 demands incl. clearance without attestation for up to 24 (max 25) visas.
+- Overseas Employment and Migrant Management Rules 2017 (gazette copy on baira.org.bd; Bijoy-encoded text layer, quote stored raw with a Unicode transcription in the note): rule 6(1)-(2) is the legal root of the attestation fight: up to 25 workers = mission-attested demand letter processed by BMET; above 25 or unattested = ministry-approved demand letter. A 2024 amendment is listed on bmet.rajshahidiv.gov.bd but not read.
+- Bangla Tribune 15 Mar 2020 (already fetched as banglatribune-group-visa-attestation, now registered): ministry's 6 March 2020 instruction under rule 6: no demand letter processed without mission attestation whatever the number of workers; clearance "against the okala or demand letter".
+- Saudi MOFA service page "تفويض مكتب استقدام على تأشيرة عمل" (1 working day; paths on ksavisa.sa). Fee field on the page is blank.
+- Lahint (Saudi service firm): what the sponsor enters for the authorisation (visa number, unified number, office name, arrival city, number of visas); office must be approved by the Saudi consulate; government fee from SR 75; their fee SR 200.
+- Al Faris (Saudi service firm, 14 Mar 2026): Qiwa visa request by number/nationality/occupation/sex; SR 2,000 visa + SR 100 work licence + levy; 3-7 working days. Qiwa's own page (which a search snippet shows saying SR 2,000 per permanent work visa) rejects curl and Firecrawl ("Request Rejected") and Wayback holds only the empty JS shell; so the SR 2,000 rests on Al Faris [RB0017] and Bonik Barta [SB0006]. Ask a teammate to save qiwa.sa/en/business-owners/hire-employees/how-issue-permanent-work-visas from a browser.
+- HRSD "خدمة التعاقد بخدمة معروفة" (Musaned, issued 8 Sep 2026): household recruits a pre-chosen worker by entering passport data; SR 172; needs an issued visa.
+- TIB 2017 governance study, Bangla (garbled text layer) and English versions. English is clean and richer: "small visa traders" (workers who get demand notes from their employer for money and sell them to relatives, friends, neighbours); 90% of 2016 migrants on single visas collected at personal initiative; 2017 definition of single = up to eight workers per work order per day (vs 25 in the 2017 Rules and in 2024-25 news; kept in facts, not in the draft); BMET single-visa file list; stamping file list incl. "agency visa delegation copy"; bribes (BMET Tk 100-200, police Tk 500-1,000, ministry group approval Tk 13,000-15,000); visa price comparison (Bangladesh SR 7,000-15,000 vs Nepal 500-800); chain prices (Table 3). Prices RB0054-RB0056 belong with relative-origin.md, not this draft.
+- Winrock Peer Leader module (2021): "migrants can do it themselves too, since it is a single visa" (BMET clearance).
+- YouTube (auto-captions via Firecrawl youtube provider, saved as .md): tGal / Fayaz International (3 May 2025, agency walkthrough with costs: slip Tk 1,500, centre Tk 8,500, MOFA fine Tk 3,000, Tasheer Tk 660 or ~2,200 Lounge, bio-finger, timelines); Tareq im tv (6 May 2025, same steps from a worker; "personal visa" needs no interview; load-unload occupation is a broker device to skip Takamol); Basic Bangla Tech, a visa dealer in Saudi Arabia (14 Feb 2025 demand-letter rule; 14 Mar 2025 okala/MOFA cancellation). The tGal and Tareq figures are near-identical; Tareq may have taken them from agencies like tGal, so they are not two independent confirmations.
+
+**Conflicts and judgement calls.**
+- Single vs group threshold: 8 workers (TIB 2017, describing BMET practice then), 25 (Rules 2017 rule 6; TBS 2024 and 2025), "more than one visa in the employer's batch" needs a demand letter (Basic Bangla Tech, Feb 2025). The draft states the rule (25) and the 2024-25 enforcement history, and leaves the November 2026 practice as a Need to know.
+- Tasheer fee: Tk 660 / ~Tk 2,200 Lounge (tGal), Tk 650-2,100 (Tareq). No official Bangladesh fee page found (Tasheer site blocks automated reading; see earlier notes). Draft gives tGal's figures.
+- Medical: Tk 8,500-9,000 total "should not exceed" (B0030) vs Tk 10,000 in practice (Tk 1,500 slip + Tk 8,500 centre). The difference is the slip mark-up; the draft gives the practice figure.
+- Whether a worker can book the Wafid slip or Tasheer appointment alone: the doc's Steps 4-5 say book yourself (official sites allow it); agency videos say the worker can't in practice. Not resolved; the draft says "book yourself (Step 4); in practice the agency takes it".
+- BMET individual clearance: allowed by the citizen charter (A0057, B0098) and Winrock, but TIB found the one-stop service nearly unused (301 workers in 2016). Kept both; Need to know on 2026 practice.
+
+**Searched, not found (kept as Need to know).**
+- 2026 total fee a Dhaka agency charges to process a brought Saudi visa (okala + MOFA + Tasheer + clearance): searched Bangla news, agency sites (Gazi Overseas, Chapai International, United Saud, A Company International: all "WhatsApp for price" or package totals of Tk 3-6 lakh), YouTube. Only the 2024 Tk 15,000-20,000 licence-rental figure and IOM 2020's Tk 60,000-70,000.
+- Bangladesh Embassy Riyadh attestation fee and time: not on bangladeshembassy.org.sa, riyadh.mofa.gov.bd or the e-demand manual. (Kuwait mission: KD 0.600 per worker; Dubai consulate: AED 221 for a PoA. Not used.)
+- What exactly the sponsor enters on Enjaz to name a Bangladeshi agency (name vs enlistment code).
+- Cost and time of cancelling an okala/MOFA: the dealer video gives no figure beyond "costs money"; MOFA cancellation Tk 2,500-5,000 per agency videos.
+- Whether attestation is enforced for one-person visas in November 2026: no 2026 news found (Bangla or English news search).
+
+**Pages we could not download (this run).**
+- qiwa.sa permanent work visa page (fee SR 2,000): "Request Rejected" for curl and Firecrawl; Wayback has only the JS shell.
+- arabitravels.com.bd "মেনপাওয়ার কার্ড কি" (says clearance through an agency costs Tk 6,000-10,000 for most Middle East countries, search snippet only): curl and Firecrawl both failed.
+- Facebook posts (Probash FM, Voice Bangla on clearance rules; Sharif Patwary "ভিসা ওকালা করতে কত সময় লাগে"): Firecrawl does not support Facebook.
+- visacheckapp.net Saudi processing guide: downloaded but discarded (SEO keyword-stuffed text, not a usable source).
+- Fetched but not used (not registered): acompany-saudi-work-journey (A Company International RL-3021 blog, generic), unitedsaud-processing-cost (travel-agency price list mixing visa types; travel agencies may not send workers).
+
+**Pages we could not download (relative-route revision, 8 Nov 2026)**
+- Prothom Alo, "কর্মীর ঘাড়ে ৩৫০ কোটি টাকার বোঝা" (https://www.prothomalo.com/bangladesh/কর্মীর-ঘাড়ে-৩৫০-কোটি-টাকার-বোঝা): curl failed and Firecrawl credits ran out. Search snippet says BAIRA counted about 70,000 Saudi visas expired, each costing workers Tk 45,000-50,000 more to cancel and reapply; date unknown (probably 2020-21 COVID). Needed for the visa-lapse risk in drafts/relative-route.md.
+- Argaam, "Saudi Arabia imposes fees on citizens with over 4 domestic workers" (https://www.argaam.com/en/article/articledetail/id/1541471): HTTP 202. Saudi Gazette 632275 (RH0001) used instead.
