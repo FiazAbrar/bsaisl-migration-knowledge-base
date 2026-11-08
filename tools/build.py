@@ -5,7 +5,7 @@
 It reads doc.md and writes:
   README.md        the doc as GitHub shows it (commit it)
   <Country>.docx   the editable Word file, named from the "# <Country>: ..." title (commit it)
-  <Country>.pdf    a PDF of the Word file, if LibreOffice is installed (commit it)
+  <Country>.pdf    a PDF of the Word file, if LibreOffice is installed (not committed: it's large and rebuilt often)
   pandoc.md        a build file pandoc turns into the .docx (not committed)
 
 In doc.md, cite fact ids from facts.csv, e.g. [W0012] or [W0012, L0003]. Each id maps to its saved source

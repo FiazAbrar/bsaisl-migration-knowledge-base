@@ -99,7 +99,7 @@ Needs Python 3 and pandoc (`brew install pandoc` on a Mac). Every script is in `
 - `fetch.py <url> <name>`: saves a page or PDF into `sources/` with a text copy, and refuses a URL already saved. `wayback.py <url> <name> official|news` gets an archived copy of a page that won't load.
 - `facts.py source` registers a saved source in `sources.csv`; `facts.py add` adds a fact to `facts.csv` and checks its quote; `facts.py cited doc.md` lists the facts behind a stretch of the doc, for checking. Give each person or agent working at the same time its own `--prefix` letter, so fact ids never clash.
 - `datepass.py` looks for real dates on undated or old sources.
-- `build.py` turns `doc.md` into `README.md`, `<Country>.docx` and, if LibreOffice is installed, `<Country>.pdf`. It numbers sources in order of first use (official `[n]`, news `[Nn]`), adds the year to sources older than 2025, links each citation to its reference, writes the reference list and the Contents list, and stops if a citation has no fact behind it.
+- `build.py` turns `doc.md` into `README.md`, `<Country>.docx` and, if LibreOffice is installed, `<Country>.pdf` for sharing (PDFs aren't committed; rebuild to get one). It numbers sources in order of first use (official `[n]`, news `[Nn]`), adds the year to sources older than 2025, links each citation to its reference, writes the reference list and the Contents list, and stops if a citation has no fact behind it.
 
 Commit `README.md` and the .docx with `doc.md`. For a Google Doc, upload the .docx to Drive and open it with Google Docs. Edit `doc.md` and rebuild rather than editing the Google Doc, because citations added by hand there won't link.
 

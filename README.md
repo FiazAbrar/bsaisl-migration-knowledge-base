@@ -12,7 +12,7 @@ For all countries:
 
 Each country folder has the same files:
 
-- README.md, the .docx and the .pdf: the doc. GitHub shows README.md when you open the folder.
+- README.md and the .docx: the doc. GitHub shows README.md when you open the folder.
 - doc.md: the doc's text with citations. The only file edited by hand; README.md and the .docx are built from it.
 - facts.csv: every fact in the doc, with the exact quote that proves it and the source it comes from.
 - sources.csv and sources: every source used. The sources folder keeps a saved copy of each page or PDF, so the evidence survives if a link breaks.
