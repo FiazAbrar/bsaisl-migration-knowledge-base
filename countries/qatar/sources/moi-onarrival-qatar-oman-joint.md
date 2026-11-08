@@ -1,0 +1,82 @@
+Z6_N90A19O0KOC9E0A1AKTOHP2SA2
+
+{"Z7_N90A19O0KOC9E0A1AKTOHP2SQ4":{"windowState":"normal","portletMode":"view"},"Z7_N90A19O0KOC9E0A1AKTOHP2SQ1":{"windowState":"normal","portletMode":"view"},"Z7_N90A19O0KOC9E0A1AKTOHP2SQ7":{"windowState":"normal","portletMode":"view"}}
+
+Z7_N90A19O0KOC9E0A1AKTOHP2SQ4
+
+Web Content Viewer
+
+![Department Banner Image](https://portal.moi.gov.qa/wps/wcm/connect/f50326c5-8aa2-49a8-88b6-957ca3e94c29/passport.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f50326c5-8aa2-49a8-88b6-957ca3e94c29-pOURHrH)
+
+Z7_N90A19O0KOC9E0A1AKTOHP2SQ1
+
+Web Content Viewer
+
+![jawazat](https://portal.moi.gov.qa/wps/wcm/connect/d4ac0658-abbf-4f02-b3cb-f0dfc9aedba3/jawazat.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d4ac0658-abbf-4f02-b3cb-f0dfc9aedba3-lmbZ82I)
+
+[ Previous](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/#carousel-example-generic) [ Next](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/#carousel-example-generic)
+
+Z7_N90A19O0KOC9E0A1AKTOHP2SQ7
+
+Web Content Viewer
+
+- [Introduction](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fc307)
+- [Functions](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fc22209)
+- [Departments](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fc21022)
+- [Activities](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fc22682)
+- [Department Forms](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fc21000)
+- [Visa Services](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?docId=2c55f09f-7973-4649-ba18-2c41139bf000&viewType=CATEGORY)
+- [Department News](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fdeptnews?deptSelected=WCMLib-Internet-Shared/TXN-Departments/CAT-Departments/GeneralDirectorateofNationalityandPorts)
+
+On-arrival joint tourist visa for (30) days (extendable), for a fee of (QR 100) to (6) countries
+
+#### Qatar-Oman Joint  on-Arrival Tourist Visa for (30) days for a fee of (QR 100), for (6) countries, extendable:
+
+On-arrival Qatar-Oman Joint Tourist Visa for (30) days (extendable), for a fee of (QR 100) are granted to (6) countries: 
+
+List of countries covered by this visa:
+
+ 
+
+|                  |               |       |           |            |                   |
+|-----------------:|--------------:|------:|-----------|------------|:-----------------:|
+| Falkland Islands | French Guiana | Macau | Mauritius | Montenegro | S. China (Taiwan) |
+
+ 
+
+**Conditions and Requirements:**
+
+1-  Passport valid for at least three months.
+
+2-  Availability of confirmed return ticket.
+
+3-  Confirmed hotel reservation at any hotel in Qatar during the visit period, or a clear address of the stay.
+
+4-  Health insurance from an accredited [insurance company](https://www.moph.gov.qa/arabic/derpartments/policyaffairs/hfid/hirs/insurancecompanies/Pages/default.aspx)
+
+ 
+
+ 
+
+## Contact Us
+
+- 44890212
+- 44883777
+- <bpea@moi.gov.qa>
+
+## Related Media
+
+- [Publications](https://portal.moi.gov.qa/wps/portal/MOIInternet/mediacenter/publications/departmentpublications?deptSelection=GeneralDirectorateofNationalityandPorts)
+- [Photogallery](https://portal.moi.gov.qa/wps/portal/MOIInternet/mediacenter/photogallery?deptSelected=WCMLib-Internet-Shared/TXN-Departments/CAT-Departments/GeneralDirectorateofNationalityandPorts)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fdgt)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Feryy)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fa74c0464-50d9-4fd9-8839-7ef36ac8a31b)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/tZNNc5swEIZ_Sw4cyS5gHOhNcT_wR-pkgCTokpFAOPIgQYRqJ_31VdL01tie6VQn7c6778y-egQU7oFqtpMbZmWvWefqik4fvqdIgnSNy_Us_eKuZFmss-swJyHcvQnmJJlkAQbLJMMESV4sisv1LEQMgJ4yjx8cgqfNHxDQw_a3UF1ClRTD9iuBypldfGh2M4EcKNChlg1UcYgND7H2uagn_gSDyE8jPvV5k7aCMYzDBuFuJ8UeSt0b5cI8Yh_8X_uLf7RfHHsKx4rcPj1RArTutRXPFu73teok96UrjRbWZ8bDkfmNGJixSmhb90pJa4XwcCO0MKxjjZJajta8Mdi3-p1FaV94bxphRqYb8TwwaySzgrUtk2b08LSVXiNwayyyz3OMclx-W00jB-zqahbObhCT-F1wiOhjTLmkNl3Pf38fonmUbIAa0QojzPkP49qP1g6fPPRwz100o8XQw7-JH_vxNcQ_IsiFfihzyBAGVZaljofd9mfRZkr511c2nW_jbrdqCTk7-wWiSHgT/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F130d3222-208f-45cf-a6bb-9f694f7fa335)
+
+## Location Map

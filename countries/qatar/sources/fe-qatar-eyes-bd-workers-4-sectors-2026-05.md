@@ -1,0 +1,22 @@
+![logo](https://thefinancialexpress.com.bd/img/logo.png)
+
+# Qatar eyes BD workers in 4 sectors
+
+Tuesday, 19 May 2026
+
+------------------------------------------------------------------------
+
+Qatar has expressed its intent to recruit Bangladeshi workers for four technical sectors through five designated technical training centres (TTCs).\
+The decision came following the seventh Bangladesh-Qatar Joint Committee meeting held at the Ministry of Expatriates' Welfare and Overseas Employment in Dhaka on Monday, reports bdnews24.com\
+Qatari Labour Minister Ali bin Samikh Al Marri met with Expatriates' Welfare Minister Ariful Haque Choudhury to discuss expanding labour cooperation.\
+During the talks, the Qatari minister showed particular interest in hiring  electricians, plumbers, air-conditioning technicians, and welders.\
+Minister Ariful thanked his counterpart for the visit and noted the progress in bilateral relations over recent decades, according to the ministry.\
+He also conveyed gratitude to the emir of Qatar on behalf of the government and the people for sending an air ambulance for the treatment of the late former prime minister Khaleda Zia.
+
+### Editor : Shamsul Huq Zahid
+
+Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th floor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208.
+
+Telephone : PABX : 9553550 (Hunting), 9513814, 7172017 and 7172012 Fax : 880-2-9567049
+
+Email : [\[email protected\]](/cdn-cgi/l/email-protection#7c19181508130e3c0814191a15121d121f151d1019040c0e190f0f521f1311521e18), [\[email protected\]](/cdn-cgi/l/email-protection#f791928f8785928484c1cfb7909a969e9bd994989a)

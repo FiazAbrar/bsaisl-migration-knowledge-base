@@ -1,0 +1,1396 @@
+﻿﻿﻿
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<!-- Tell the browser to be responsive to screen width -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Bangladesh Bank</title>
+	<link rel="icon" type="image/png" href="/en/assets/img/website/favicon.png">
+	
+	<!-- Font Awesome -->
+	 <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">-->
+	<script src="/en/assets/js/jquery.min.js"></script>
+	<link rel="stylesheet" href="/en/assets/fonts/fonts.css">
+
+	<link rel="stylesheet" href="/en/assets/plugins/font-awesome/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="/en/assets/css/bbicons.css">
+	<link rel="stylesheet" type="text/css" href="/en/assets/plugins/swiper/swiper.css">
+	<link rel="stylesheet" href="/en/assets/css/datatables.min.css">
+
+	<link rel="stylesheet" href="/en/assets/css/datepicker.css">
+	<link rel="stylesheet" href="/en/assets/css/jquery.more.css">
+
+	<!--<link rel="stylesheet" type="text/css" href="">-->
+    <link rel="stylesheet" href="/en/assets/css/bbwebsite.css">
+
+	<style>
+		nav > ul > li {
+    		padding: 0 6px!important;
+		}
+	</style>
+
+	
+	
+
+
+</head>
+
+<body class="layout-boxed">
+<div class="wrapper">
+	<div class="content-overlay"></div>
+	<!-- Sidenav -->
+	<div class="sidenav" id="sidenav">
+
+		<!-- close -->
+		<div class="sidenav__close">
+			<button class="sidenav__close-button" id="sidenav__close-button" aria-label="close sidenav">
+
+				<i class="fa fa-times sidenav__close-icon"></i>
+			</button>
+		</div>
+
+		<!-- Nav -->
+		<nav class="sidenav__menu-container">
+			<ul class="sidenav__menu" role="menubar">
+				<li>
+					<a href="#" class="sidenav__menu-url">About us</a>
+					<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+					<ul class="sidenav__menu-dropdown">
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/dept_and_offices">Department and Offices</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/mission_vision">Vision and Mission</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/strategic_plan">Strategic Plan</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/bbhierarchy">Organogram/hierarchy</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/foreign_visit_info">Foreign tours & visit</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/board_of_director">Board Of Directors</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/bbgovernors">Governors</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/deputygovernor">Deputy Governors</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/executives">Executives</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/director">Directors</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/dgtogm">Department Hierarchy</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/financial_inclusion">Financial Inclusion & Inclusive Growth</a></li>
+					<li><a class="sidenav__menu-url" href="/en/index.php/about/bbinb_dtl">History</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#" class="sidenav__menu-url">Monetary Policy</a>
+					<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+					<ul class="sidenav__menu-dropdown">
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/monetarypolicy">Monetary Policy Statements</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/auc_calendar">Auction Calendar</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/treasury">Treasury Bill/Bond auctions</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/auc_notice">Auction Notice</a></li>
+						
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/SMART">SMART</a></li>
+						
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/tbillnbond">Data Of Treasury Bills &amp; Bonds</a></li>													
+					</ul>
+				</li>
+				<li>
+					<a href="#" class="sidenav__menu-url">Financial System</a>
+					<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+					<ul class="sidenav__menu-dropdown">
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/index">Overview</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/finmarket">Financial Markets</a></li>
+						
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/govsecmrkt/index">Government Securities Market</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/interbank_moneymarket">Inter Bank Money Market</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/money_market_ref_rate">Money Market Reference Rate</a></li>
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/paysystems">Payment Systems</a></li>
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/did">Deposit Insurance</a>
+						</li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialsystems/regulator">Regulators</a>
+						</li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/credit_rating_of_banks">Credit Rating Of Banks</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/schedule_charg">Schedule Of Charges Of Banks</a></li>
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/bankfi">Banks & FCs</a>
+						</li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/insurance">Insurance</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/mfi">MFIS</a></li>
+
+
+					</ul>
+				</li>
+				
+				<li>
+					
+					
+					<a href="/en/index.php/fxmarket/index" class="sidenav__menu-url">FX Market</a>
+						<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+							<ul class="sidenav__menu-dropdown">
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/fxmarket/interbank_fxmarket"><i class="fa fa-angle-right"></i>Interbank FX Market</a></li>	
+									<li class="list_item"><a class="sidenav__menu-url" href=/en/index.php/econdata/exchangerate target="_blank"><i class="fa fa-angle-right"></i>Exchange Rates</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/econdata/rfrexrate"><i class="fa fa-angle-right"></i>FX Reference Rate</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/fxmarket/fx_auction_result"><i class="fa fa-angle-right"></i>FX Auction Result</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/fxmarket/acu_payment"><i class="fa fa-angle-right"></i>ACU Payment</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/fxmarket/edf_dashboard"><i class="fa fa-angle-right"></i>Export Development Fund (EDF)</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/fxmarket/fc_clearing"><i class="fa fa-angle-right"></i>FC Clearing</a></li>									
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/econdata/intreserve"><i class="fa fa-angle-right"></i>Foreign Exchange Reserve</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/econdata/wageremitance"><i class="fa fa-angle-right"></i>Remittances</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/econdata/bopindex "><i class="fa fa-angle-right"></i>BOP, Export & Import</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="../../../../../econdata/nsdp/nsdp_bb.php"><i class="fa fa-angle-right"></i><font class="no-transform">Macroeconomic and Financial Data</font></a></li>
+									
+																										
+															
+															
+															
+															
+													
+																
+															
+							</ul>
+									
+											
+				</li>
+				
+				
+				<li>
+					<a href="/en/index.php/financialactivity/govsecmrkt/index" class="sidenav__menu-url">G-Sec Market</a>
+						<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+							<ul class="sidenav__menu-dropdown">
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/govsecmrkt/index">Government Securities Market</a></li>																		
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/treasury">Primary Auction of Treasury Bill &amp; Bond</a></li>									
+									<li class="list_item"><a class="sidenav__menu-url" href=/en/index.php/monetaryactivity/tbillnbond target="_blank">Secondary Trading of Treasury Bills and Bonds</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/gsecinvprcs">G-Sec Investment Process</a>
+									</li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/bgis_home">BD Govt Investment Sukuk (BGIS)</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/financialactivity/govsecmrkt_faq">Faq on Government Securities Market</a></li>
+									<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/bcr_rate">91 Days BCR</a></li>							
+						<!--li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/monetaryactivity/call_money_market">Call Money Rate</a></li-->
+							</ul>
+									
+											
+				</li>							
+				<li>
+					<a href="#" class="sidenav__menu-url">Publication</a>
+					<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+					<ul class="sidenav__menu-dropdown">
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/5/8"><i
+									class="fa fa-angle-right"></i>Weekly</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/4/25"><i
+									class="fa fa-angle-right"></i>Fortnightly</a>
+						</li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/3/10"><i
+									class="fa fa-angle-right"></i>Monthly</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/2/7"><i
+									class="fa fa-angle-right"></i>Quarterly</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/1/24"><i
+									class="fa fa-angle-right"></i>Half Yearly</a>
+						</li>
+
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/0/2"><i
+									class="fa fa-angle-right"></i>Annual</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/researchindex"><i
+									class="fa fa-angle-right"></i>Research Work</a>
+						</li>
+
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/sp_research_worklist"><i
+									class="fa fa-angle-right"></i>Special Publication</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/publication/publictn/8/55"><i
+									class="fa fa-angle-right"></i>Others</a></li>
+					</ul>
+				</li>
+
+				<li>
+					<a href="#" class="sidenav__menu-url">MEDIA & Press Release</a>
+					<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+					<ul class="sidenav__menu-dropdown">
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/mediaroom/circular">Circulars/Circular Letters</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="../../../../mediaroom/press_release/pressrelease.php">Press Release</a></li>
+
+					</ul>
+				</li>
+				<li>
+					<a href="/en/index.php/Financialstability/" class="sidenav__menu-url">Financial Stability</a>
+					<button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown"><i class="fa fa-angle-right"></i></button>
+					<ul class="sidenav__menu-dropdown">
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/Financialstability/finstabilitycommittee">Financial Stability Committee</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/Financialstability/macrosuper">Macroprudential Supervision</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/Financialstability/reportscirulars">Guidelines, Circulars and Reports</a></li>
+						<li class="list_item"><a class="sidenav__menu-url" href="/en/index.php/Financialstability/stabilityissues">Contemporary Financial Stability Issues</a></li>
+
+					</ul>
+				</li>
+
+
+			</ul>
+		</nav>
+
+	</div> <!-- end sidenav -->
+	<div class="wrapper_inner">
+
+		<header class="header">
+			<div class="header_top">
+				<div class="container">
+
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="header_content">							
+								<button class="nav-icon-toggle" id="nav-icon-toggle" aria-label="Open side menu">
+              						<span class="nav-icon-toggle__box">
+                						<span class="nav-icon-toggle__inner"></span>
+             						 </span>
+								</button>
+								<div class="search_box">
+									<form action="/en/index.php/home/search" class="search" method="post">
+										<input type="text" class="search_input" name="keyword"  placeholder="Search">
+										<button class="search_button">
+											<i class="icon-search search_icon"></i>
+										</button>
+									</form>
+								</div>
+
+
+							
+								<span class="globe"><a href="/en/index.php/home/switch_lang">বাংলা</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+						
+							</div>
+
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="header_inner">
+				<div class="container">
+
+					<div class="row">
+
+						<div class="logo_banner">
+							
+
+							<!--Navigation bar start-->
+							<div class="navigation">
+
+								<div id="navigation-bar">
+
+									<nav >
+										<ul class="menu" id="navmenu">
+											<li class='dropdown'>
+												<a href='/en/index.php/about/index'>About us</a>
+												<div class='mega-menu'>
+													<div class="mega-menu-container">
+														<div class="item">
+
+															<img class="img-thumbnail"
+																 src="/en/assets/img/website/menu_about.png"
+																 alt="titleToAlt">
+														</div> <!-- /.item -->
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+
+																<li class="list_item"><a href="/en/index.php/about/dept_and_offices"><i
+																			class="fa fa-angle-right"></i>Department and Offices</a></li>
+																<li class="list_item"><a href="/en/index.php/about/mission_vision"><i
+																			class="fa fa-angle-right"></i>Vision and Mission</a></li>
+																<li class="list_item"><a href="/en/index.php/about/strategic_plan"><i
+																			class="fa fa-angle-right"></i>Strategic Plan</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/about/citizenCharter"><i
+																			class="fa fa-angle-right"></i>Citizen Charter</a></li>
+																<li class="list_item"><a href="/en/index.php/about/bbhierarchy"><i
+																			class="fa fa-angle-right"></i>Organogram/hierarchy</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/about/foreign_visit_info"><i
+																			class="fa fa-angle-right"></i>Foreign tours & visit</a>
+																</li>
+															</ul>
+														</div>
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+																<li class="list_item"><a href="/en/index.php/about/board_of_director"><i
+																			class="fa fa-angle-right"></i>Board Of Directors</a>
+																</li>
+																<li class="list_item"><a href="../../../../../monetaryactivity/mps/mpc_members.pdf"><i
+																			class="fa fa-angle-right"></i>Monetary Policy Committee</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/about/bbgovernors"><i
+																			class="fa fa-angle-right"></i>Governors</a></li>
+																<li class="list_item"><a href="/en/index.php/about/deputygovernor"><i
+																			class="fa fa-angle-right"></i>Deputy Governors</a></li>
+																<li class="list_item"><a href="/en/index.php/about/advisers"><i
+																			class="fa fa-angle-right"></i>Advisers</a></li>
+																<li class="list_item"><a href="/en/index.php/about/executives"><i
+																			class="fa fa-angle-right"></i>Executives</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/about/director"><i
+																			class="fa fa-angle-right"></i>Directors</a></li>
+
+															</ul>
+														</div>
+
+
+													</div><!-- /.container -->
+												</div><!-- /.mega-menu -->
+											</li><!-- /.dropdown -->
+											<li class='dropdown'>
+												<a href='/en/index.php/monetaryactivity/index'>Monetary Policy</a>
+												<div class='mega-menu'>
+													<div class="mega-menu-container">
+														<div class="item">
+															<!--<span class="icon-monetary_policy img-thumbnail"></span>-->
+															<img class="img-thumbnail"
+																 src="/en/assets/img/website/menu_monetarypolicy.png"
+																 alt="titleToAlt">
+														</div> <!-- /.item -->
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/monetarypolicy"><i class="fa fa-angle-right"></i>Monetary Policy Statements</a></li>
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/mpc"><i class="fa fa-angle-right"></i>Monetary Policy Committee</a></li>																
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/mpc_resolution"><i class="fa fa-angle-right"></i>MPC Resolution</a></li>
+																
+															</ul>
+														</div>
+														<div class="item">
+															<ul>
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/mptools"><i class="fa fa-angle-right"></i>Monetary Policy Tools</a></li>																
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/smart"><i class="fa fa-angle-right"></i>SMART</a></li>
+																
+																</li>
+															</ul>
+														</div>
+														
+
+													</div><!-- /.container -->
+												</div><!-- /.mega-menu -->
+											</li><!-- /.dropdown -->
+											<li class='dropdown'>
+												<a href='/en/index.php/financialactivity/index'>Financial System</a>
+												<div class='mega-menu'>
+													<div class="mega-menu-container">
+														<div class="item">
+
+															<img class="img-thumbnail"
+																 src="/en/assets/img/website/menu_financialsystem.png"
+																 alt="titleToAlt">
+														</div> <!-- /.item -->
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+
+																<li class="list_item"><a href="/en/index.php/financialactivity/index"><i
+																			class="fa fa-angle-right"></i>Overview</a></li>
+																<li class="list_item"><a href="/en/index.php/financialactivity/finmarket"><i
+																			class="fa fa-angle-right"></i>Financial Markets</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/Financialstability/"><i
+																			class="fa fa-angle-right"></i>Financial Stability</a>
+																</li> 
+																
+																
+																<li class="list_item"><a href="/en/index.php/financialactivity/paysystems"><i
+																			class="fa fa-angle-right"></i>Payment Systems</a></li>
+															</ul>
+														</div>
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+																<li class="list_item"><a href="/en/index.php/financialactivity/interbank_moneymarket"><i
+																			class="fa fa-angle-right"></i>Inter Bank Money Market</a></li>
+																			<li class="list_item"><a href="/en/index.php/monetaryactivity/money_market_ref_rate"><i
+																			class="fa fa-angle-right"></i>Money Market Reference Rate</a></li>
+																<li class="list_item"><a href="/en/index.php/financialactivity/did"><i
+																			class="fa fa-angle-right"></i>Deposit Insurance</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/financialsystems/regulator"><i
+																			class="fa fa-angle-right"></i>Regulators</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/financialactivity/credit_rating_of_banks"><i
+																			class="fa fa-angle-right"></i>Credit Rating Of Banks</a></li>
+																<li class="list_item"><a href="/en/index.php/financialactivity/schedule_charg"><i
+																			class="fa fa-angle-right"></i>Schedule Of Charges Of Banks</a></li>
+
+															</ul>
+														</div>
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+																<li class="list_item"><a href="/en/index.php/financialactivity/bankfi"><i
+																			class="fa fa-angle-right"></i>Banks & FCs</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/financialactivity/insurance"><i
+																			class="fa fa-angle-right"></i>Insurance</a></li>
+																<li class="list_item"><a href="/en/index.php/financialactivity/mfi"><i
+																			class="fa fa-angle-right"></i>MFIS</a></li>
+
+
+															</ul>
+														</div>
+
+													</div><!-- /.container -->
+												</div><!-- /.mega-menu -->
+											</li><!-- /.dropdown -->
+											
+											<li class='dropdown'>
+												<a href='/en/index.php/fxmarket/index'>FX Market</a>
+												<div class='mega-menu'>
+													<div class="mega-menu-container">
+														<div class="item">
+															<!--<span class="icon-monetary_policy img-thumbnail"></span>-->
+															<img class="img-thumbnail"
+																 src="/en/assets/img/website/menu_fxmarket.jpg"
+																 alt="titleToAlt">
+														</div> <!-- /.item -->
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+
+																<li class="no-transform"><a href="/en/index.php/fxmarket/index"><i class="fa fa-angle-right"></i>Overview of the FX Market</a></li>
+																<li class="list_item"><a href="/en/index.php/fxmarket/interbank_fxmarket"><i class="fa fa-angle-right"></i>Interbank FX Market</a></li>																
+																<li class="list_item"><a href="/en/index.php/econdata/exchangerate"><i class="fa fa-angle-right"></i>Exchange Rates</li>
+																<li class="list_item"><a href="/en/index.php/econdata/rfrexrate"><i class="fa fa-angle-right"></i>FX Reference Rate</li>
+																<li class="list_item"><a href="/en/index.php/fxmarket/fx_auction_result"><i class="fa fa-angle-right"></i>FX Auction Result</li>
+																<li class="list_item"><a href="/en/index.php/fxmarket/acu_payment"><i class="fa fa-angle-right"></i>ACU Payment</li>
+																
+															</ul>
+															</div>
+															<div class="item">
+															<ul>
+																
+																<li class="list_item"><a href="/en/index.php/fxmarket/edf_dashboard"><i class="fa fa-angle-right"></i>Export Development Fund (EDF)</li>
+																<li class="list_item"><a href="/en/index.php/fxmarket/fc_clearing"><i class="fa fa-angle-right"></i>FC Clearing</li>
+																<li class="list_item"><a href="/en/index.php/econdata/intreserve"><i class="fa fa-angle-right"></i>Foreign Exchange Reserve</a></li>
+																<li class="list_item"><a href="/en/index.php/econdata/wageremitance"><i class="fa fa-angle-right"></i>Remittances</a></li>
+																<li class="list_item"><a href="/en/index.php/econdata/bopindex "><i class="fa fa-angle-right"></i>BOP, Export & Import</a></li>
+																<li class="list_item"><a href="../../../../../econdata/nsdp/nsdp_bb.php"><i class="fa fa-angle-right"></i><font class="no-transform">Macroeconomic and Financial Data</font></a></li>
+																
+															</ul>
+														</div>
+														
+														
+
+
+													</div><!-- /.container -->
+												</div><!-- /.mega-menu -->
+											</li><!-- /.dropdown -->
+											
+											
+											<li class='dropdown'>
+												<a href='/en/index.php/financialactivity/govsecmrkt/index'>G-Sec Market</a>
+												<div class='mega-menu'>
+													<div class="mega-menu-container">
+														<div class="item">
+
+															<img class="img-thumbnail"
+																 src="/en/assets/img/website/menu_govsec.png"
+																 alt="titleToAlt">
+														</div> <!-- /.item -->
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+
+									<li class="list_item"><a href="/en/index.php/financialactivity/govsecmrkt/index"><i class="fa fa-angle-right"></i>Government Securities Market</a></li>																		
+									<li class="no-transform"><a href="/en/index.php/monetaryactivity/treasury"><i class="fa fa-angle-right"></i>Primary Auction of Treasury Bill &amp; Bond</a></li>									
+									<li class="no-transform"><a href=/en/index.php/monetaryactivity/tbillnbond target="_blank"><i class="fa fa-angle-right"></i>Secondary Trading of Treasury Bills and Bonds</a></li>
+									<li class="list_item"><a href="/en/index.php/monetaryactivity/bcr_rate"><i class="fa fa-angle-right"></i>91 Days BCR</a>																</li>
+																<!--li class="list_item"><a href="/en/index.php/monetaryactivity/call_money_market"><i class="fa fa-angle-right"></i>Call Money</a-->
+																
+															</ul>
+														</div>
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+																
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/gsecinvprcs"><i
+																			class="fa fa-angle-right"></i>G-Sec Investment Process</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/monetaryactivity/bgis_home"><i
+																			class="fa fa-angle-right"></i>BD Govt Investment Sukuk (BGIS)</a></li>
+																<li class="no-transform"><a href="/en/index.php/financialactivity/govsecmrkt_faq"><i
+																			class="fa fa-angle-right"></i>FAQ on Government Securities Market</a></li>
+
+															</ul>
+														</div>
+														
+
+													</div><!-- /.container -->
+												</div><!-- /.mega-menu -->
+											</li><!-- /.dropdown -->
+											<li class='dropdown'>
+												<a href='/en/index.php/publication/index'>Publication</a>
+												<div class='mega-menu'>
+													<div class="mega-menu-container">
+														<div class="item">
+
+															<img class="img-thumbnail"
+																 src="/en/assets/img/website/menu_publications.png"
+																 alt="titleToAlt">
+														</div> <!-- /.item -->
+														<div class="item">
+															
+														</div>
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/5/8"><i
+																			class="fa fa-angle-right"></i>Weekly</a></li>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/4/25"><i
+																			class="fa fa-angle-right"></i>Fortnightly</a>
+																</li>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/3/10"><i
+																			class="fa fa-angle-right"></i>Monthly</a></li>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/2/7"><i
+																			class="fa fa-angle-right"></i>Quarterly</a></li>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/1/24"><i
+																			class="fa fa-angle-right"></i>Half Yearly</a>
+																</li>
+
+															</ul>
+														</div>
+														<div class="item">
+															<!--   <h3>Contact</h3>-->
+															<ul>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/0/2"><i
+																			class="fa fa-angle-right"></i>Annual</a></li>
+																<li class="list_item"><a href="/en/index.php/publication/researchindex"><i
+																			class="fa fa-angle-right"></i>Research Work</a>
+																</li>
+
+																<li class="list_item"><a href="/en/index.php/publication/publictn/7/38"><i
+																			class="fa fa-angle-right"></i>Special Publication</a></li>
+																<li class="list_item"><a href="/en/index.php/publication/publictn/8/55"><i
+																			class="fa fa-angle-right"></i>Others</a></li>
+
+
+															</ul>
+														</div>
+
+													</div><!-- /.container -->
+												</div><!-- /.mega-menu -->
+											</li><!-- /.dropdown -->
+
+
+										</ul><!-- .container -->
+									</nav>
+								</div>
+							</div>
+							<!--Navigation bar end-->
+						</div>
+
+
+					</div>
+				</div>
+			</div>
+
+		</header>
+
+<div class="content-wrapper">
+	<section class="content">
+		<section class="breadcrumbs">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<ul class='bread-list'><li  class="active"><a href="/en/">Home<i class="fa fa-angle-right"></i> </a></li><li  class="active"><a href="/en/index.php">Media room<i class="fa fa-angle-right"></i> </a></li><li class="active">Circulars/Circular letters</li></ul>					</div>
+				</div>
+			</div>
+		</section>
+				<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<div class="bbsidebar-sidebar">
+						<div class="single-widget categories">
+							<h3 class="title">
+								search circular/letter							</h3><br>
+							<div class="form">
+								<span class="form-msg"></span>
+                                <form method="post" action="/en/index.php/mediaroom/circular" id="search-form">
+									<div class="input-group mb-3">
+										<div class="input-group-prepend">
+											<label class="input-group-text" for="inputGroupSelect01"><i class="fa fa-caret-down" aria-hidden="true"></i></label>
+										</div>
+										<select class="custom-select"  name="cboDept" id="cboDept">
+																						<option value="" disabled selected>Select Department</option>
+											<option value="1">Accounts & Budgeting Department-1</option><option value="3">Agricultural Credit Department-1</option><option value="109">Agricultural Credit Department-2</option><option value="5">Bangladesh Financial Intelligence Unit</option><option value="85">Bank Resolution Department</option><option value="10">Banking Regulation and Policy Department-1</option><option value="106">Banking Regulation and Policy Department-2</option><option value="107">Banking Regulation and Policy Department-3</option><option value="81">COVID-19 Emergency & Crisis Response Facility Project</option><option value="69">Credit Guarantee Department</option><option value="11">Credit Information Bureau</option><option value="48">Debt Management Department</option><option value="23">Department of Banking Inspection 2</option><option value="54">Department of Banking Inspection 3</option><option value="26">Department of Currency Management</option><option value="47">Department of Foreign Exchange Inspection</option><option value="20">Department of Off-Site Supervision</option><option value="53">Deposit Insurance Department</option><option value="33">Equity and Entrepreneurship Fund Unit</option><option value="2">Finance Company Regulation and Policy Department</option><option value="66">Financial Inclusion Department</option><option value="58">Financial Integrity and Customer Services Department</option><option value="14">Financial Sector Support and Strategic Planning Department</option><option value="57">Financial Stability Department</option><option value="4">Foreign Exchange Investment Department</option><option value="49">Foreign Exchange Operation Department-1</option><option value="6">Foreign Exchange Policy Department-1</option><option value="110">Foreign Exchange Policy Department-2</option><option value="12">Forex Reserve & Treasury Management Department-1</option><option value="13">Governor Office</option><option value="64">Integrated Supervision Management Department</option><option value="52">Investment Promotion & Financing Facility II (IPFF II) Project Cell</option><option value="86">Islami Banking Regulations and Policy Department</option><option value="27">Monetary Policy Department</option><option value="59">Payment Systems Department-1</option><option value="111">Payment Systems Department-2</option><option value="90">Payment Systems Supervision Department</option><option value="71">Second Small and Medium Sized Enterprise Development Project</option><option value="30">Secretary's Department</option><option value="51">SME & Special Programmes Department</option><option value="36">Statistics Department</option><option value="104">Supervisory Data Management and Analytics Department</option><option value="88">Supervisory Policy and Coordination Department</option><option value="61">Sustainable Finance Department</option>										</select>
+									</div>
+									<div class="input-group mb-3">
+			                            <div class="input-group-prepend"  >
+			                                <label class="input-group-text">
+			                                    <i class="fa fa-calendar" aria-hidden="true"></i>
+			                                </label>
+			                            </div>
+			                                                        			<input type='text' id='datepicker1' name="from_date" class="form_input_date form-control" value="From Date" />
+                        			</div>
+
+			                        <div class="input-group mb-3">
+			                            <div class="input-group-prepend"  >
+			                                <label class="input-group-text">
+			                                    <i class="fa fa-calendar" aria-hidden="true"></i>
+			                                </label>
+			                            </div>
+			                            			                            <input type='text' id='datepicker' name="to_date" class="form_input_date form-control" value="To Date" />
+			                        </div>
+									<div class="form_group mt-3">
+										<input type="submit" class="form_submit btn" name="search_circular" value="Search">
+									</div>
+                               </form>
+                             </div>
+                         </div>
+                      	</div>
+                    </div>
+				<div class="col-lg-9">
+					<div class="row"> 
+						<div class="col-12">
+							<div class="page_header">Circulars/Circulars letters published in last 3 months							</div>
+							<span class="data-container">
+								<div class="content-circular">
+									<table class="table table-striped table-bordered" id="sortableTable">
+										<thead>
+										<tr>
+											<th scope="col">Date</th>
+											<th scope="col">Title</th>
+											<th scope="col">English</th>
+											<th scope="col">Bangla</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr> <td>14/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 11: Permission of Chief Inspector of Boilers before import of boiler and boiler components									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul142026fepd-1l11e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul142026fepd-1l11e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>14/07/26</td>											
+								
+										<td class="text-left">
+										BRPD-2 Circular Letter No. 08: Regarding opening import LC of Shinepukur Ceremics Limited keeping 100% margin									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd-2/jul142026brpd-2l08.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd-2/jul142026brpd-2l08.pdf" target="_blank">Download</a></td> </tr><tr> <td>13/07/26</td>											
+								
+										<td class="text-left">
+										FCRPD Circular No. 15: Regarding Source Tax Deduction.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fid/jul132026fcrpd15.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fid/jul132026fcrpd15.pdf" target="_blank">Download</a></td> </tr><tr> <td>13/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 20: Remittance on account of royalty, technical know-how, technical assistance fees and other similar expenses for DPAs of EZs.									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul132026fepd-120e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul132026fepd-120e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>13/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 10: Foreign currency-Taka Swap facility for exporters operating in Specialized Zones against unencumbered funds in foreign currency accounts.									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul132026fepd-1l10e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul132026fepd-1l10e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>12/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 19: Export Subsidy/Cash Incentive for the financial year 2026-2027									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul122026fepd-119.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul122026fepd-119.pdf" target="_blank">Download</a></td> </tr><tr> <td>07/07/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 11: Regarding the clarification of the provisions of Section 33 of the Public Debt Act, 2022 about the calculation of interest on savings certificates									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/jul072026dmdl11.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/jul072026dmdl11.pdf" target="_blank">Download</a></td> </tr><tr> <td>07/07/26</td>											
+								
+										<td class="text-left">
+										BRPD-3 Circular Letter No. 01: Pre Finance Scheme to Support the Closed Industry and Service Sectors									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd-3/jul072026brpd-3l01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd-3/jul072026brpd-3l01.pdf" target="_blank">Download</a></td> </tr><tr> <td>06/07/26</td>											
+								
+										<td class="text-left">
+										ACD-1 Circular No. 02: Refinance Scheme of Tk 3,000 Crore for Creating Agricultural Based Economic Hub in North Bengal of the Country									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/acd/jul062026acd-102.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/acd/jul062026acd-102.pdf" target="_blank">Download</a></td> </tr><tr> <td>06/07/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 10: Regarding Profit Rate for July-December,2026 in National Savings Schemes									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/jul062026dmdl10.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/jul062026dmdl10.pdf" target="_blank">Download</a></td> </tr><tr> <td>06/07/26</td>											
+								
+										<td class="text-left">
+										BRPD-2 Circular Letter No. 07: Opening Import LC for Loan Defaulter Abdul Monem Sugar Refinery Ltd. (AMSRL) Keeping 100% Margin									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd-2/jul062026brpd-2l07.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd-2/jul062026brpd-2l07.pdf" target="_blank">Download</a></td> </tr><tr> <td>05/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 17: Export Subsidy/Cash Incentive for the financial year 2026-2027									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul052026fepd-117.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul052026fepd-117.pdf" target="_blank">Download</a></td> </tr><tr> <td>05/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 18: Appointment of Audit firms for Auditing of Export Incentive/Export Subsidy									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul052026fepd-118.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul052026fepd-118.pdf" target="_blank">Download</a></td> </tr><tr> <td>02/07/26</td>											
+								
+										<td class="text-left">
+										SMESPD Circular Letter No. 03: Addendum of Operating Guidelines for JICA assisted Urban Building Safety Project (UBSP, BD-P84)									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/smespd/jul022026smespdl03e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/smespd/jul022026smespdl03e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>02/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 16: Forward Rate Agreements to hedge interest rate risk against imports under suppliers’/buyers’ credit									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul022026fepd-116e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul022026fepd-116e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>01/07/26</td>											
+								
+										<td class="text-left">
+										PSD-2 Circular Letter No. 05: Determination of Fees/Charges for NPSB Transactions and Government Payments									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/psd-2/jul012026psd-2l05.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/psd-2/jul012026psd-2l05.pdf" target="_blank">Download</a></td> </tr><tr> <td>01/07/26</td>											
+								
+										<td class="text-left">
+										ACD-1 Circular Letter No. 02: Formulation of Bangladesh Bank Agricultural Development Common Fund (BBADCF)									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/acd/jul012026acd-1l02.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/acd/jul012026acd-1l02.pdf" target="_blank">Download</a></td> </tr><tr> <td>01/07/26</td>											
+								
+										<td class="text-left">
+										SDAD Circular Letter No. 10: Regarding approval of downtime of Citizens Bank Plc.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/sdad/jul012026sdadl10.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/sdad/jul012026sdadl10.pdf" target="_blank">Download</a></td> </tr><tr> <td>01/07/26</td>											
+								
+										<td class="text-left">
+										SDAD Circular Letter No. 09: Policy regarding investment of scheduled banks in Non-listed securities.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/sdad/jul012026sdadl09.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/sdad/jul012026sdadl09.pdf" target="_blank">Download</a></td> </tr><tr> <td>01/07/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 15: Pilot framework for digital processing of trade documents under documentary collections and letters of credit through approved trade corridors									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jul012026fepd-115e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jul012026fepd-115e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>29/06/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 23: Special Exit Policy for Recovery/Settlement of Loans									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/jun292026brpd-1l23.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/jun292026brpd-1l23.pdf" target="_blank">Download</a></td> </tr><tr> <td>29/06/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 22: Regarding the Intermediation spread between the weighted average interest rate of advances and deposits.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/jun292026brpd-1l22.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/jun292026brpd-1l22.pdf" target="_blank">Download</a></td> </tr><tr> <td>29/06/26</td>											
+								
+										<td class="text-left">
+										FCRPD Circular Letter No. 14: Awareness and complaint resolution about online financial fraud.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fid/jun292026fcrpdl14.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fid/jun292026fcrpdl14.pdf" target="_blank">Download</a></td> </tr><tr> <td>28/06/26</td>											
+								
+										<td class="text-left">
+										ACD-1 Circular Letter No. 01: Refinance Scheme for Agricultural and Rural Sector to Increase Agricultural Production and Employment Generation									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/acd/jun282026acd-1l01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/acd/jun282026acd-1l01.pdf" target="_blank">Download</a></td> </tr><tr> <td>28/06/26</td>											
+								
+										<td class="text-left">
+										FCRPD Circular Letter No. 13: Name Change of Department of Financial Institutions and Markets (DFIM) to Finance Company Regulation and Policy Department.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fid/jun282026fcrpdl13.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fid/jun282026fcrpdl13.pdf" target="_blank">Download</a></td> </tr><tr> <td>25/06/26</td>											
+								
+										<td class="text-left">
+										STD Circular No. 02: Reporting of SBS-2 & SBS-3 Statements through RITs.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/sd/jun252026sd02.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/sd/jun252026sd02.pdf" target="_blank">Download</a></td> </tr><tr> <td>25/06/26</td>											
+								
+										<td class="text-left">
+										SFD Circular No. 04: Refinance Scheme for the Development of ICT Sector.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/gbcrd/jun252026sfd04.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/gbcrd/jun252026sfd04.pdf" target="_blank">Download</a></td> </tr><tr> <td>25/06/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 21: Prudential Regulations for Consumer Financing (Regulations for Auto Loans and Personal Loans).									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/jun252026brpd-1l21e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/brpd/jun252026brpd-1l21e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>25/06/26</td>											
+								
+										<td class="text-left">
+										SDAD Circular Letter No. 08: Keeping Bank Branches Operational on Saturdays During Mango Season									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/sdad/jun252026sdadl08.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/sdad/jun252026sdadl08.pdf" target="_blank">Download</a></td> </tr><tr> <td>24/06/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 09: Regarding the continuation of the savings certificate sales service.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/jun242026dmdl09.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/jun242026dmdl09.pdf" target="_blank">Download</a></td> </tr><tr> <td>23/06/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 14: Opening and Operation of Non-Resident Convertible Taka Accounts (NRCTA)									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jun232026fepd-114e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jun232026fepd-114e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>23/06/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 20: Prudential Regulations for Consumer Financing									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/jun232026brpd-1l20e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/brpd/jun232026brpd-1l20e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>22/06/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 09: Remittance of consular fees									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jun222026fepd-1l09e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jun222026fepd-1l09e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>18/06/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 13: Remittance of ship lease rental by shipping companies incorporated in Bangladesh									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jun182026fepd-113e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jun182026fepd-113e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>16/06/26</td>											
+								
+										<td class="text-left">
+										DFIM Circular Letter No. 12: Name change of Hajj Finance Company Limited to Hajj Finance Company PLC.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fid/jun162026dfiml12.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fid/jun162026dfiml12.pdf" target="_blank">Download</a></td> </tr><tr> <td>15/06/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 12: Business-to-Consumer (B2C) export through online marketplaces/platforms.									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jun152026fepd-112e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jun152026fepd-112e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>11/06/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 11: Development and facilitation of alternative trade finance mechanisms									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/jun112026fepd-111e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/jun112026fepd-111e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>10/06/26</td>											
+								
+										<td class="text-left">
+										BRD Circular No. 01: Bank Resolution Act, 2026									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brd/jun102026brd01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brd/jun102026brd01.pdf" target="_blank">Download</a></td> </tr><tr> <td>08/06/26</td>											
+								
+										<td class="text-left">
+										ACD-1 Circular No. 01: Refinance Scheme for Agricultural and Rural Sector to Increase Agricultural Production and Employment Generation									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/acd/jun082026acd-101.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/acd/jun082026acd-101.pdf" target="_blank">Download</a></td> </tr><tr> <td>08/06/26</td>											
+								
+										<td class="text-left">
+										SFD Circular No. 03: Refinance Scheme for Green Factory Building and Green Industry									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/gbcrd/jun082026sfd03.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/gbcrd/jun082026sfd03.pdf" target="_blank">Download</a></td> </tr><tr> <td>08/06/26</td>											
+								
+										<td class="text-left">
+										FEPD-2 Circular No. 04: Facilitating the receipt of inward remittance from alternative entities by licenced freight forwarders									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd-2/jun082026fepd-204e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd-2/jun082026fepd-204e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>08/06/26</td>											
+								
+										<td class="text-left">
+										SMESPD Circular No. 04: CMSME Working Capital Refinance Fund									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/smespd/jun082026smespd04.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/smespd/jun082026smespd04.pdf" target="_blank">Download</a></td> </tr><tr> <td>07/06/26</td>											
+								
+										<td class="text-left">
+										SFD Circular No. 02: Export Diversification Refinance Scheme									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/gbcrd/jun072026sfd02e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/gbcrd/jun072026sfd02e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>04/06/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular No. 13: Pre-Finance Scheme to support the closed industry and service sectors.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/jun042026brpd-113.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/jun042026brpd-113.pdf" target="_blank">Download</a></td> </tr><tr> <td>02/06/26</td>											
+								
+										<td class="text-left">
+										FID Circular Letter No. 01: Refinancing Scheme for Marginal/Landless Farmers, Low Income Professionals, School Banking Account Holders and Small Businessmen with Tk.10/50/100 Account Holders									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/finincld/jun022026fidl01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/finincld/jun022026fidl01.pdf" target="_blank">Download</a></td> </tr><tr> <td>01/06/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 08: Regarding the Publication of an Effective Reference Rate for the Money Market Segment of Bangladesh&#39;s Financial Market.									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/jun012026dmdl08e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/dmd/jun012026dmdl08e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>24/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 19: Keeping up banking operation and evening banking at the Branches/Sub-Branches adjacent to selected Qurbani Cattle Haats in different locations of Dhaka, Chattogram, Khulna, Rajshahi and Rangpur City Corporations on the occasion of Eid-Ul-Adha.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may242026brpd-1l19.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may242026brpd-1l19.pdf" target="_blank">Download</a></td> </tr><tr> <td>24/05/26</td>											
+								
+										<td class="text-left">
+										FEPD-2 Circular No. 3: Foreign currency accounts of Bangladeshi shipping companies and airlines.									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd-2/may242026fepd-23e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd-2/may242026fepd-23e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>24/05/26</td>											
+								
+										<td class="text-left">
+										SMESPD Circular Letter No. 02: Financing in Cottage, Micro, Small and Medium Enterprises (CMSMEs)									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/smespd/may242026smespdl02.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/smespd/may242026smespdl02.pdf" target="_blank">Download</a></td> </tr><tr> <td>23/05/26</td>											
+								
+										<td class="text-left">
+										SPCD Circular No. 06: Dividend Declaration Policy for Banks									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/spcd/may232026spcd06.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/spcd/may232026spcd06.pdf" target="_blank">Download</a></td> </tr><tr> <td>23/05/26</td>											
+								
+										<td class="text-left">
+										PSD-1 Circular Letter No. 02: Renaming Cashless Bangladesh Unit as Bangla QR Implementation Unit									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/psd/may232026psd-1l02.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/psd/may232026psd-1l02.pdf" target="_blank">Download</a></td> </tr><tr> <td>21/05/26</td>											
+								
+										<td class="text-left">
+										PSD-2 Circular Letter No. 04: Regarding BACH and RTGS Transaction Schedule on 25 and 26 May 2026 Preceding Eid-ul-Adha									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/psd-2/may212026psd-2l04.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/psd-2/may212026psd-2l04.pdf" target="_blank">Download</a></td> </tr><tr> <td>21/05/26</td>											
+								
+										<td class="text-left">
+										PSD-2 Circular No. 02: Regarding uninterrupted service of ATM, POS, QR Code, Internet Banking, Online e-Payment Gateway & MFS during Eid-ul-Adha Celebration									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/psd-2/may212026psd-202.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/psd-2/may212026psd-202.pdf" target="_blank">Download</a></td> </tr><tr> <td>20/05/26</td>											
+								
+										<td class="text-left">
+										FEID Circular No. 02: Facilitating repatriation of sale proceeds from Non-Resident Investors Taka Account (NITA)									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/feid/may202026feid02e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/feid/may202026feid02e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>19/05/26</td>											
+								
+										<td class="text-left">
+										PSD-1 Circular No. 03: Regarding "Add Money" from Card to MFS Personal Account									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/psd/may192026psd-103.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/psd/may192026psd-103.pdf" target="_blank">Download</a></td> </tr><tr> <td>18/05/26</td>											
+								
+										<td class="text-left">
+										DFIM Circular Letter No. 11: Finance Companies to Remain Open/Closed During Eid-Ul-Adha 2026									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fid/may182026dfiml11.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fid/may182026dfiml11.pdf" target="_blank">Download</a></td> </tr><tr> <td>18/05/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 07: Updated forms for claiming prize of Prizebond & Distorted/Defective Prizebond value exchange.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/may182026dmdl07.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/may182026dmdl07.pdf" target="_blank">Download</a></td> </tr><tr> <td>18/05/26</td>											
+								
+										<td class="text-left">
+										SDAD Circular Letter No. 07: Scheduled Banks to Remain Open/Closed During Eid-Ul-Adha 2026									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/sdad/may182026sdadl07.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/sdad/may182026sdadl07.pdf" target="_blank">Download</a></td> </tr><tr> <td>14/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 18: Single Borrower and large Loan Exposure Limit (Aggregate Exposure and Applicable Conversion Factor).									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may142026brpd-1l18e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may142026brpd-1l18e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>13/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 17: Interest/Profit Rate of Loan/Investment									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may132026brpd-1l17.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may132026brpd-1l17.pdf" target="_blank">Download</a></td> </tr><tr> <td>12/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular No. 12: Verification of Bank Statement and Other Documents for Visa Applications.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may122026brpd-112.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may122026brpd-112.pdf" target="_blank">Download</a></td> </tr><tr> <td>11/05/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 07: Payment against usance bills through purchases									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-1l07e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-1l07e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>11/05/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 08: Notification regarding government revenue fees for exporting raw jute and jute products abroad									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-1l08.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-1l08.pdf" target="_blank">Download</a></td> </tr><tr> <td>11/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular No. 11: Commercial launching of ``e-loan``									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may112026brpd-111e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may112026brpd-111e.pdf" target="_blank">Download</a></td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may112026brpd-111.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may112026brpd-111.pdf" target="_blank">Download</a></td> </tr><tr> <td>11/05/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 10: All-in-cost ceiling for short term permissible trade finance in foreign exchange									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-110e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-110e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>11/05/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 09: Release of foreign currency for visa bond/refundable security deposit for visa purposes									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-109e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/may112026fepd-109e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>11/05/26</td>											
+								
+										<td class="text-left">
+										SFD Circular No. 01:GTF Circular for Rural and Local Entrepreneurs									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/gbcrd/may112026sfd01e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/gbcrd/may112026sfd01e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>10/05/26</td>											
+								
+										<td class="text-left">
+										DCM Circular Letter No. 01: Providing note detection services by the officials of scheduled banks to the cattle traders in Qurbani Haat of 2026 for prevention of fake notes.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dcm/may102026dcml01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dcm/may102026dcml01.pdf" target="_blank">Download</a></td> </tr><tr> <td>07/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 16: Policy support for restructuring the business and financial condition of the affected borrowers.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may072026brpd-1l16.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may072026brpd-1l16.pdf" target="_blank">Download</a></td> </tr><tr> <td>07/05/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular No. 08: Foreign exchange regulations regarding outward remittances on account of transportation services									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/may072026fepd-108e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fepd/may072026fepd-108e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>07/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular No. 10: Guidelines on Foundation Training for the Newly Recruited Scheduled Bank Officials.									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may072026brpd-110e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may072026brpd-110e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>06/05/26</td>											
+								
+										<td class="text-left">
+										DID Circular No. 01/2026: Deposit Protection Act 2026									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/did/may062026did01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/did/may062026did01.pdf" target="_blank">Download</a></td> </tr><tr> <td>05/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 15: Prudential Regulations for Consumer Financing (Regulations for Auto Loans and Personal Loans).									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may052026brpd-1l15e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may052026brpd-1l15e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>05/05/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 14: Loan Disbursement to the Leather sector on the occasion of upcoming Eid-ul-Azha.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/may052026brpd-1l14.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/may052026brpd-1l14.pdf" target="_blank">Download</a></td> </tr><tr> <td>04/05/26</td>											
+								
+										<td class="text-left">
+										DMD Circular No. 04: Regarding Sukuk Investor ID and the determination of Fees/ Charges to opening SIID in SSM.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/may042026dmd04.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/may042026dmd04.pdf" target="_blank">Download</a></td> </tr><tr> <td>30/04/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 06: Appointment of Brac Bank PLC and Pubali Bank PLC as Primary Dealers in Government Securities									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/apr302026dmdl06e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/dmd/apr302026dmdl06e.pdf" target="_blank">Download</a></td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/apr302026dmdl06.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/apr302026dmdl06.pdf" target="_blank">Download</a></td> </tr><tr> <td>30/04/26</td>											
+								
+										<td class="text-left">
+										DMD Circular Letter No. 05: Revised Implementation Timeline of the ‘Guidelines for Open Market Operations’									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/dmd/apr302026dmdl05.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/dmd/apr302026dmdl05.pdf" target="_blank">Download</a></td> </tr><tr> <td>30/04/26</td>											
+								
+										<td class="text-left">
+										SD Circular No. 01: Regarding Submission of Agent Banking Data through Revised Format on Monthly Basis.												<a href="../../../../../mediaroom/circulars/sd/80_Revised Format of Agent Banking Data..zip" target="_new">
+													Revised Format												</a>
+												&nbsp;|&nbsp;												<a href="../../../../../mediaroom/circulars/sd/81_Annexure-1.pdf" target="_new">
+													Annexure-1												</a>
+																					</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/sd/apr302026sd01.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/sd/apr302026sd01.pdf" target="_blank">Download</a></td> </tr><tr> <td>30/04/26</td>											
+								
+										<td class="text-left">
+										FSSSPD Circular Letter No. 01: Bangladesh Bank- Long Term Financing Facility (BB-LTFF)									</td>
+											
+											<td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fssspd/apr302026fssspdl01e.pdf">English</a><br>
+												 <a href="https://www.bb.org.bd/mediaroom/circulars/fssspd/apr302026fssspdl01e.pdf" target="_blank">Download</a></td><td>Not Available</td> </tr><tr> <td>29/04/26</td>											
+								
+										<td class="text-left">
+										BRPD-1 Circular Letter No. 13: Regarding Banking Professional Exam.									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd/apr292026brpd-1l13.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd/apr292026brpd-1l13.pdf" target="_blank">Download</a></td> </tr><tr> <td>29/04/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 06: Instructions regarding opening of LC/TT for the import of supplement products without the registration/prior approval of the Directorate General of Drug Administration									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/apr292026fepd-1l06.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fepd/apr292026fepd-1l06.pdf" target="_blank">Download</a></td> </tr><tr> <td>28/04/26</td>											
+								
+										<td class="text-left">
+										BRPD-3 Circular No. 01: Refinance Scheme for Pre-shipment Credit									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd-3/apr282026brpd-301.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd-3/apr282026brpd-301.pdf" target="_blank">Download</a></td> </tr><tr> <td>28/04/26</td>											
+								
+										<td class="text-left">
+										BRPD-2 Circular Letter No. 06: Incentive Bonuses for the Employees of Bank-Companies									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/brpd-2/apr282026brpd-2l06.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/brpd-2/apr282026brpd-2l06.pdf" target="_blank">Download</a></td> </tr><tr> <td>23/04/26</td>											
+								
+										<td class="text-left">
+										FEPD-1 Circular Letter No. 05: Regarding the export of betel leaf without certification from the Bangladesh Betel Leafs (Pan) Exporters Association									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fepd/apr232026fepd-1l05.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fepd/apr232026fepd-1l05.pdf" target="_blank">Download</a></td> </tr><tr> <td>16/04/26</td>											
+								
+										<td class="text-left">
+										DFIM Circular Letter No. 10: Loan Facility Against Government Bond (Treasury Bond).									</td>
+											
+											<td>Not Available</td><td> <a class="pdf-file" pdf-link="https://www.bb.org.bd/mediaroom/circulars/fid/apr162026dfiml10.pdf">Bangla</a><br>
+												<a href="https://www.bb.org.bd/mediaroom/circulars/fid/apr162026dfiml10.pdf" target="_blank">Download</a></td> </tr>										</tbody>
+									</table>
+								</div>
+							</span>
+								<a id="close-pdf-detail" href="#" style="display: none;"><< Back</a>
+							<!--iframe id="pdf-details" src=""
+									style="width:100%; height:400px; right:0; top:0; bottom:0; display: none;"></iframe-->
+							<embed id="pdf-details" src="" type="application/pdf" width="100%" height="500px" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('.pdf-file').click(function (e) {
+			e.preventDefault();
+			var url = $(this).attr('pdf-link');
+			$('.data-container').hide('slow');
+			$('#pdf-details').attr('src', url);
+			$('#pdf-details').show('slow');
+			$('#close-pdf-detail').show();
+		});
+
+		$('#close-pdf-detail').click(function (e) {
+			e.preventDefault();
+			$(this).hide();
+			$('.data-container').show('slow');
+			$('#pdf-details').hide('slow');
+
+		});
+	});
+
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#datepicker').datepicker({
+        language: "en",
+        clearBtn: true,
+        autoClose: true,
+        dateFormat: 'yyyy-mm-dd'
+    });
+  });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#datepicker1').datepicker({
+        language: "en",
+        autoClose: true,
+        clearBtn: true,
+        dateFormat: 'yyyy-mm-dd'
+    });
+  });
+</script>
+<footer class="footer">
+	<div class="row">
+		<div class="col-sm-4">
+			<div class="colwrapper">
+				<div class="contact">
+					<h2>Contact</h2>
+					<div class="widget">
+						<!-- <i class="fa fa-map-marker"></i>-->
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							 viewBox="0 0 20 20">
+							<title>location-pin</title>
+							<path d="M10 2.009c-2.762 0-5 2.229-5 4.99 0 4.774 5 11 5 11s5-6.227 5-11c0-2.76-2.238-4.99-5-4.99zM10 9.76c-1.492 0-2.7-1.209-2.7-2.7s1.208-2.7 2.7-2.7c1.49 0 2.699 1.209 2.699 2.7s-1.209 2.7-2.699 2.7z"></path>
+						</svg>
+						<span>Bangladesh Bank, Motijheel, Dhaka</span>
+					</div>
+					<div class="widget">
+						<!--<i class="fa fa-phone"></i>-->
+
+						<svg  version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+							  width="34.545px" height="34.545px" viewBox="0 0 34.545 34.545" style="enable-background:new 0 0 34.545 34.545;"
+							  xml:space="preserve"><g><path d="M34.371,13.114c-0.043,0.217-0.045,0.441-0.129,0.646c-0.498,1.202-1.429,2.197-2.116,3.305
+		c-0.885,1.414-8.404-1.633-7.435-3.521c0.365-0.698,1.788-2.626,1.896-3.401c0.098-0.691-0.818-1.233-1.664-1.303
+		c-2.231-0.18-5.084-0.017-7.453-0.002V8.84c-0.063,0-0.133,0-0.197-0.001C17.208,8.84,17.138,8.84,17.076,8.84V8.838
+		c-2.37-0.015-5.221-0.178-7.453,0.002C8.777,8.91,7.861,9.452,7.959,10.144c0.107,0.775,1.531,2.703,1.896,3.401
+		c0.971,1.888-6.551,4.935-7.436,3.521c-0.688-1.107-1.617-2.103-2.115-3.305c-0.084-0.205-0.087-0.43-0.13-0.646
+		c-1.103-4.93,3.149-9.96,9.551-10.475c2.446-0.199,4.897-0.311,7.351-0.354V2.272c0.066,0.002,0.131,0.006,0.197,0.007
+		c0.066-0.001,0.131-0.005,0.197-0.007v0.013c2.453,0.044,4.904,0.155,7.35,0.354C31.223,3.154,35.475,8.186,34.371,13.114z
+		 M29.975,30.124c0.069,1.183-0.703,2.148-1.723,2.148H6.293c-1.017,0-1.792-0.967-1.722-2.148l0.641-10.783
+		c2.327-0.545,5.301-1.969,6.38-3.737c0.601-0.985,0.665-2.094,0.171-3.055c-0.125-0.24-0.359-0.615-0.628-1.033l-0.001-0.002
+		c-0.008-0.019-0.008-0.019-0.014-0.032h11.953c-0.006,0.017-0.008,0.02-0.018,0.044c-0.15,0.361-0.201,0.638-0.173,0.847
+		c-0.034,0.061-0.082,0.138-0.108,0.188c-0.488,0.948-0.424,2.058,0.177,3.042c1.079,1.77,4.051,3.191,6.378,3.736L29.975,30.124z
+		 M21.473,18.932c-2.302-2.301-6.043-2.301-8.346,0c-2.301,2.301-2.301,6.044,0,8.345c2.083,2.083,5.345,2.273,7.651,0.586
+		l-1.443-1.441c-1.502,0.922-3.494,0.742-4.794-0.559c-1.521-1.521-1.521-3.995,0.001-5.517c1.521-1.521,3.995-1.521,5.517,0
+		c1.294,1.294,1.477,3.272,0.568,4.772l1.445,1.445C23.746,24.257,23.549,21.009,21.473,18.932z"/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+						<span>Phone: +880-255665001-6</span>
+					</div>
+					<div class="widget">
+						<!--<i class="fa fa-envelope-o"></i>-->
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+							 viewBox="0 0 20 20">
+							<title>mail</title>
+							<path d="M1.574 5.286c0.488 0.262 7.248 3.894 7.5 4.029s0.578 0.199 0.906 0.199c0.328 0 0.654-0.064 0.906-0.199s7.012-3.767 7.5-4.029c0.489-0.263 0.951-1.286 0.054-1.286h-16.919c-0.897 0-0.435 1.023 0.053 1.286zM18.613 7.489c-0.555 0.289-7.387 3.849-7.727 4.027s-0.578 0.199-0.906 0.199-0.566-0.021-0.906-0.199-7.133-3.739-7.688-4.028c-0.39-0.204-0.386 0.035-0.386 0.219s0 7.293 0 7.293c0 0.42 0.566 1 1 1h16c0.434 0 1-0.58 1-1 0 0 0-7.108 0-7.292s0.004-0.423-0.387-0.219z"></path>
+						</svg>
+						<span class="tooltip-top"  data-tooltip="Only for BB Website related feedback/query">E-mail: webmaster@bb.org.bd</span>
+					</div>
+					<div class="other_purpouse"><span><a href="/en/index.php/about/contact">Contact for other purposes</a></span></div>
+				</div>
+
+			</div>
+
+		</div>
+		<div class="col-sm-4">
+			<div class="colwrapper">
+				<h2>Useful Links</h2>
+				<ul class="list">
+				<li class="list_item"><a href="../feidportal/index.php"><i class="fa fa-angle-right"></i>
+				Foreign Investment and Financing Portal
+						</a>
+					</li>
+					<li class="list_item"><a href="/en/index.php/financialactivity/paysystems"><i class="fa fa-angle-right"></i>
+							Payment Systems						</a>
+					</li>
+					<li class="list_item"><a href="/en/index.php/about/guidelist"><i class="fa fa-angle-right"></i>
+							Regulations And Guidelines						</a>
+					</li>
+					<li class="list_item"><a href="/en/index.php/museum/index"><i class="fa fa-angle-right"></i>
+							Currency Museum</a> | <a href="/en/index.php/currency/index">Banknotes and Coins</a>
+					</li>
+					<li class="list_item"><a href="/en/index.php/saarcfinance/saarcfinance"><i class="fa fa-angle-right"></i>
+							SAARCFINANCE						</a>
+					</li>
+					<!--li class="list_item"><a href="https://bidaquickserv.org" target='_new'><i class="fa fa-angle-right"></i>
+							BIDA One Stop Service (OSS) Portal
+						</a>
+					</li-->
+					<!--li class="list_item"><a href="https://finlit.bb.org.bd"  rel = "noopener noreferrer"  target="_blank"><i
+								class="fa fa-angle-right"></i>
+							Financial Literacy						</a>
+					</li-->
+					
+					<li class="list_item"><a href="/en/index.php/about/national_ict_policy"><i
+								class="fa fa-angle-right"></i>
+							National ICT Policy						</a>
+					</li>
+					
+						<li class="list_item"><a href="https://www.bb.org.bd/bbta_portal/index.php/bbta/bbtajournal"><i
+								class="fa fa-angle-right"></i>
+							BBTA Journal: Thoughts on Banking and Finance
+						</a>
+					</li>
+
+
+
+				</ul>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="colwrapper">
+				<div class="stay-connected">
+					<h2 >Stay connected</h2>
+					<div class="social-icons circle social-hover">
+						<ul class="list-inline">
+							<li class="social-facebook"><a href='https://www.facebook.com/BangladeshBankOfficial' class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li class="social-twitter"><a href='https://twitter.com/BBGovernor' class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li class="social-linkedin"><a href='https://www.youtube.com/c/BangladeshBankOfficial' class=" tooltip-top" target="_blank" href="#" data-tooltip="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="top-line">
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="info_list">
+					<li class="info_list_item"><a href="/en/">Home</a></li>
+					<li class="info_list_item"><a href="/en/index.php/home/sitemap">Sitemap</a></li>
+					<li class="info_list_item"><a href="mailto:webmaster@bb.org.bd?subject=Feedback on Bangladesh Bank Website" title='eMail Feedback'>Feedback</a></li>
+				</ul>
+
+			</div>
+		</div>
+	</div>
+
+	<!--copyright section-->
+	<div class="row">
+		<div class="col-sm-12 copyright"><span><b style="font-weight: 600;">Disclaimer:</b> 	While every effort is made to ensure accuracy of the information in this website, Bangladesh Bank assumes no responsibility for any damages or losses to users resulting from any error/omission/inadvertent alteration in information provided by this website.</span></div>
+	</div>
+</footer>
+<!-- Begining of footer -->
+</div><!-- end of wrapper_inner -->
+
+</div>
+<!-- ./wrapper -->
+
+
+<script src="/en/assets/js/jquery.min.js"></script>
+<script src="/en/assets/js/easing.min.js"></script>
+<script src="/en/assets/js/jquery.plugin.js"></script>
+<script src="/en/assets/js/jquery.newsTicker.min.js"></script>
+<script src="/en/assets/plugins/swiper/swiper.js"></script>
+<!--<script src=""></script>-->
+<script src="/en/assets/js/wow.min.js"></script>
+<script src="/en/assets/js/jquery.scrollUp.min.js"></script>
+
+<script src="/en/assets/js/datepicker.min.js"></script>
+<script src="/en/assets/js/datepicker.en.js"></script>
+<script src="/en/assets/js/jquery.more.js"></script>
+<script src="/en/assets/js/modernizr-custom.js"></script>
+<script src="/en/assets/js/polyfill.js"></script>
+<script src="/en/assets/js/main.js"></script>
+<script src="/en/assets/js/datatables.min.js"></script>
+
+
+</body>
+</html>

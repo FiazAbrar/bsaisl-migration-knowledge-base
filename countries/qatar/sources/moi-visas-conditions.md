@@ -1,0 +1,59 @@
+Z6_N90A19O0KOC9E0A1AKTOHP2QR2
+
+{"Z7_N90A19O0KOC9E0A1AKTOHP2Q74":{"windowState":"normal","portletMode":"view"},"Z7_N90A19O0KOC9E0A1AKTOHP2Q71":{"windowState":"normal","portletMode":"view"},"Z7_N90A19O0KOC9E0A1AKTOHP2Q77":{"windowState":"normal","portletMode":"view"}}
+
+Z7_N90A19O0KOC9E0A1AKTOHP2Q74
+
+Web Content Viewer
+
+![Department Banner Image](https://portal.moi.gov.qa/wps/wcm/connect/aff2ee8d-865c-4135-94b3-9a1ed5a298a1/nationality-borders-and-expatriate-affairs.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-aff2ee8d-865c-4135-94b3-9a1ed5a298a1-lXmPCmE)
+
+Z7_N90A19O0KOC9E0A1AKTOHP2Q71
+
+Web Content Viewer
+
+![visaen](https://portal.moi.gov.qa/wps/wcm/connect/5e04ccd4-aff3-41b6-af3f-0193482e1feb/visas_en.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5e04ccd4-aff3-41b6-af3f-0193482e1feb-lX7YqaM)
+
+[ Previous](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/#carousel-example-generic) [ Next](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/#carousel-example-generic)
+
+Z7_N90A19O0KOC9E0A1AKTOHP2Q77
+
+Web Content Viewer
+
+- [On-arrival visas](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/?1dmy&current=true&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fvisas%2Fc27493)
+- [Visas in advance](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/?1dmy&current=true&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fvisas%2Fc29604)
+- [Tips & Guidelines](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/?1dmy&current=true&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fvisas%2F47)
+- [Visa Conditions](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/?1dmy&current=true&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fvisas%2F768)
+
+Visa Conditions
+
+**Conditions to get on-arrival visas**
+
+The Ministry of Interior of the State of Qatar offers entry visas of various types (on-arrival, in advance, electronic notification) in accordance with the laws and decisions. The applicant must have a valid passport for a period not less than 6 months and a return ticket or onward ticket is also required. For some countires, hotel reservation, cash or credit card is also required. For details check with your nationality and country of residence at our [visa portal](https://portal.moi.gov.qa/qatarvisas/index.html). 
+
+**Entry without visa**
+
+Citizens of more than 82 countries have the opportunity to enter Qatar without a visa. The citizens of those countries wishing to visit Qatar will not have to apply for a visa or pay a fee. They are granted visa upon arrival at any port of the country.
+
+ 
+
+## contact us
+
+- 2351378
+-  2351475
+- 2351345             
+-  aimmig@moi.gov.qa
+
+ 
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/?1dmy&current=true&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fvisas%2F4657)
+
+[](https://qatar.vfsevisa.com/Qatar-online)
+
+[](https://www.visitqatar.qa)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/visasentrypermeits/!ut/p/z1/xVNNc5swEP01HLEW8Af0Rt1OiZ3aSWzHMZfMAgtWiyQsVBz_-yqub03MdDqd6iLtzNunt_t2WcqeWCqx4xUariTWNt6l4-dFBLEXLWG-nEaf7TOer5fJnX__4LPtGXATh8PEA28eJhBCvFrP1h-XUx_AY-n1_EeWsjSXpjF7tjvmouaZy6UhLcm4JB1o0S2oQW0ESZMrIbgxRA5UJEljjYXgkrdGnxWrUl6Uc3PKlC5ItygLemnQaI6GsCyR69aBjrdor8k4fBXQ5LxguywIRlREmYujwHeHvj92o9HEc32EEjAnCCi_FAzvnBj6Ct72dTS9Tr991Wshs-TTDQQrmH-5HQe25bdfp_70HiAcXQDXPOn7ZMbSqlbZrwGIZRaEFUs1laRJD_aqNeypUdpgPRCKDyrVDQ74FvSHtgx7Y5r2gwMO_JbjwAEN6rMZqB1gO9udybvdmQzZ6k_t6jgd2UYqLWw1PfTev6Wf_CX9rG-2rAP82-GQxnallF2iF-vT_9mpFcnnzYolwBqxEWFw4u73h_AU1J0Q7t1iERJmQxsf458uihpl/?1dmy&current=true&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fvisas%2Fgsa)
+
+[](https://www.moi.gov.qa/qatarvisasar/)
+
+[](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices/visitvisaextension)

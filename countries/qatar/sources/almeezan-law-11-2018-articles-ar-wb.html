@@ -1,0 +1,2046 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang='ar' dir='rtl'>
+<head id="Head1">
+    <script src="js/ar/AllScript.js"></script>
+    <script src="js/ar/owl.js"></script>
+    <script src="js/ar/jquery.js"></script>
+    <style type="text/css">
+        .grayscale a {
+            color: red;
+        }
+
+        .readLess {
+            background-color: red;
+        }
+    </style>
+
+    <title>
+	الميزان | البوابة القانونية القطرية | التشريعات | قانون رقم (11) لسنة 2018 بتنظيم اللجوء السياسي
+</title><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="SHORTCUT ICON" href="Images/favicon.ico" />
+
+    <script type="text/javascript">
+        function SearchFunction() {
+            var ddlStatus = "";
+            var ddlKind = document.getElementById("ContentPlaceHolder1_ddlKind");
+            var txtLawNumber = document.getElementById("ContentPlaceHolder1_txtLawNumber");
+            var txtLawYear = document.getElementById("ContentPlaceHolder1_txtLawYear");
+            var txtSearchText = "";
+            var url = "LawsByYear.aspx";
+
+            if (ddlKind.value != "")
+                url += url.indexOf("?") > 0 ? "&kind=" + ddlKind.value : "?kind=" + ddlKind.value;
+            if (txtLawNumber.value != "")
+                url += url.indexOf("?") > 0 ? "&number=" + txtLawNumber.value : "?number=" + txtLawNumber.value;
+            if (txtLawYear.value != "")
+                url += url.indexOf("?") > 0 ? "&year=" + txtLawYear.value : "?year=" + txtLawYear.value;
+            url += url.indexOf("?") > 0 ? "&language=ar" : "?language=ar";
+            location.href = url;
+        }
+    </script>
+
+    <script type="text/javascript">
+        function SearchArticlesFunction() {
+            var txtartNumber = document.getElementById("ContentPlaceHolder1_txtartNumber");
+            var txtartSearchText = document.getElementById("ContentPlaceHolder1_txtartSearchText");
+            var url = "SearchLawArticle.aspx?id=7738";
+
+            if (txtartNumber.value != "")
+                url += url.indexOf("?") > 0 ? "&num=" + txtartNumber.value : "?num=" + txtartNumber.value;
+            if (txtartSearchText.value != "")
+                url += url.indexOf("?") > 0 ? "&ArticleText=" + txtartSearchText.value : "?ArticleText=" + txtartSearchText.value;
+            url += url.indexOf("?") > 0 ? "&language=ar" : "?language=ar";
+            location.href = url;
+        }
+
+    </script>
+
+    <script type="text/javascript">
+        function IsNumberKey(e) {
+            var key = e.keyCode;
+            if (key == 13 || key == 46 || key == 8 || key == 37 || key == 39 || key == 190 || key == 110 || (key > 95 && key < 106) || key == 9 || (key > 47 && key < 58)) {
+                if (e.keyCode == 13)
+                    e.keyCode = 9
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+    </script>
+
+    <script language="javascript" src="ckeditor/ckeditor.js" type="text/javascript"></script>
+
+    <style type="text/css">
+        .treemenu .toggler {
+            float: right !important;
+        }
+
+        .ManField {
+            color: red;
+        }
+
+        div.events > ol li:first-child a {
+            left: 20px !important;
+        }
+
+        div.events > ol li:last-child a {
+            left: 580px !important;
+        }
+    </style>
+
+    <link href="timeline/css/style.css" rel="stylesheet" />
+
+
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30763254-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <style type="text/css">
+        .form-signin {
+            max-width: 400px;
+            display: block;
+            background-color: #f7f7f7;
+            -moz-box-shadow: 0 0 3px 3px #888;
+            -webkit-box-shadow: 0 0 3px 3px #888;
+            box-shadow: 0 0 3px 3px #888;
+            border-radius: 2px;
+            margin: 0 auto;
+        }
+
+        .main {
+            padding: 38px;
+        }
+
+        .social-box {
+            margin: 0 auto;
+            padding: 38px;
+            border-bottom: 1px #ccc solid;
+        }
+
+            .social-box a {
+                font-weight: bold;
+                font-size: 18px;
+                padding: 8px;
+            }
+
+                .social-box a i {
+                    font-weight: bold;
+                    font-size: 20px;
+                    margin: 5px;
+                }
+
+        .heading-desc {
+            font-size: 20px;
+            font-weight: bold;
+            padding: 38px 38px 0px 38px;
+        }
+
+        .form-signin .form-signin-heading,
+        .form-signin .checkbox {
+            margin-bottom: 10px;
+        }
+
+        .form-signin .checkbox {
+            font-weight: normal;
+        }
+
+        .form-signin .form-control {
+            position: relative;
+            font-size: 16px;
+            height: 20px;
+            padding: 20px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+            .form-signin .form-control:focus {
+                z-index: 2;
+            }
+
+        .form-signin input[type="text"] {
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .form-signin input[type="password"] {
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .login-footer {
+            background: #f0f0f0;
+            margin: 0 auto;
+            border-top: 1px solid #dadada;
+            padding: 20px;
+        }
+
+            .login-footer .left-section a {
+                font-weight: bold;
+                color: #8a8a8a;
+                line-height: 19px;
+            }
+
+        .mg-btm {
+            margin-bottom: 20px;
+        }
+    </style>
+<meta name="description" content="المواد" /><link href="css/ar/font-awesome.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/bootstrap.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/bootstrap-rtl.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/selectize.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/revolution-slider.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/jquery.treemenu.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/style.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/style-rtl.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/responsive.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/responsive-rtl.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/animate.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/flaticon.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/hover.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/jquery.fancybox.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/owl.css" rel="Stylesheet" type="text/css" media="all" /><link href="css/ar/breakingNews.css" rel="Stylesheet" type="text/css" media="all" /><meta name="description" content="&lt;p>
+	البوابة القانونية القطرية ( الميزان ) موقع شامل يشمل كافة التشريعات السارية والمعدلة والملغاة منذ 1961 م ، والأحكام القضائية الصادرة من محكمة الت" /></head>
+<body>
+    <div id="fb-root"></div>
+    <div class="page-wrapper">
+        <div class="preloader"></div>
+        <form method="post" action="./LawArticles.aspx?LawTreeSectionID=18243&amp;LawID=7738&amp;language=ar" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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2YjZhi48QlI+2KfZhNil2K/Yp9ix2Kkg2KfZhNmF2K7Yqti12Kk6INil2K/Yp9ix2Kkg2K3ZgtmI2YIg2KfZhNil2YbYs9in2YYg2KjYp9mE2YjYstin2LHYqS48QlI+2KfZhNmE2KfYrNimINin2YTYs9mK2KfYs9mKOiDZg9mEINi02K7YtSDYrtin2LHYrCDYr9mI2YTYqtmHINin2YTYqtmKINmK2YbYqtmF2Yog2KXZhNmK2YfYpyDYqNis2YbYs9mK2KrZh9iMINij2Ygg2KfZhNiv2YjZhNipINin2YTYqtmKINmK2YLYuSDZgdmK2YfYpyDZhdit2YQg2KXZgtin2YXYqtmHINin2YTZhdi52KrYp9iv2Kkg2KXYsNinINmD2KfZhiDYudiv2YrZhSDYp9mE2KzZhtiz2YrYqdiMINmI2YTYpyDZitiz2KrYt9mK2Lkg2KPZiCDZhNinINmK2LHYutioINio2KfZhNi52YjYr9ipINil2YTZitmH2Kcg2KjYs9io2Kgg2K7ZiNmBINmE2Ycg2YXYpyDZitio2LHYsdmHINmF2YYg2KfZhNiq2LnYsdi2INmE2K7Yt9ixINin2YTYrdmD2YUg2LnZhNmK2Ycg2KjYp9mE2KXYudiv2KfZhSDYo9mIINio2LnZgtmI2KjYqSDYqNiv2YbZitip2Iwg2KPZiCDYp9mE2KrYudiw2YrYqNiMINij2Ygg2KfZhNmF2LnYp9mF2YTYqSDYp9mE2YjYrdi02YrYqSDYo9mIINin2YTZhdmH2YrZhtip2Iwg2KPZiCDZhNmE2KfYtti32YfYp9iv2Iwg2KjYs9io2Kgg2LnYsdmC2Ycg2KPZiCDYr9mK2YbZhyDYo9mIINin2YbYqtmF2KfYptmHINil2YTZiSDYt9in2KbZgdipINin2KzYqtmF2KfYudmK2Kkg2YXYudmK2YbYqSDYo9mIINii2LHYp9im2Ycg2KfZhNiz2YrYp9iz2YrYqS48QlI+2LHYrti12Kkg2KfZhNil2YLYp9mF2Kk6INiq2LHYrtmK2LUg2YrYq9io2Kog2LXZgdipINin2YTZhNin2KzYpiDYp9mE2LPZitin2LPZitiMINmI2YrYs9mF2K0g2KjYpdmC2KfZhdiq2Ycg2YHZiiDYp9mE2K/ZiNmE2Kkg2YHZiiDYp9mE2KPY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s9in2LHZitipINmI2KfZhNmF2LnYr9mE2Kkg2YjYp9mE2YXZhNi62KfYqSDZhdmG2LAgMTk2MSDZhSDYjCDZiNin2YTYo9it2YPYp9mFINin2YTZgti22KfYptmK2Kkg2KfZhNi12KfYr9ix2Kkg2YXZhiDZhdit2YPZhdipINin2YTYqtmF2YrZitiyINmI2KfZhNiq2Yog2YLYp9mFINin2YTZhdmD2KrYqCDYp9mE2YHZhtmKINmE2YTZhdis2YTYsyDYp9mE2KPYudmE2Ykg2YTZhNmC2LbYp9ihINio2KrYqNmI2YrYqNmH2Kcg2YjZgdmH2LHYs9iq2YfYpyDZiNin2LPYqtiu2LHYp9isINin2YTZhdio2KfYr9imINin2YTZgtin2YbZiNmG2YrYqSDZhdmG2YfYp9iMINmI2YXYqNin2K/YpiDYp9mE2YHYqtin2YjZiSDYp9mE2YLYp9mG2YjZhtmK2Kkg2KfZhNi12KfYr9ix2Kkg2YXZhiDYpdiv2KfYsdipINin2YTZgdiq2YjZiSDZiNin2YTYudmC2YjYryDYs9in2KjZgtin2Ysg2KjZiNiy2KfYsdipINin2YTYudiv2YQg2KXZhNmJINis2KfZhtioINin2YTZhdix2KfYrNi5INin2YTZgdmC2YfZitipINin2YTZgtin2YbZiNmG2YrYqS4g2YrZj9iv2KfYsSDYp9mE2YXZiNmC2Lkg2KjYo9iz2KfZhNmK2Kgg2YjZiNiz2KfYptmEINi52YTZhdmK2Kkg2YjZhdmH2YbZitipINmF2KrYrNiv2K/YqSDZitmC2YjZhSDYqNmH2Kcg2YPZiNin2K/YsSDYqNi02LHZitipINmF2KTZh9mE2Kkg2YjZhdiq2YXZitiy2Kkg2YLYp9im2YXYqSDYudmE2Ykg2KfZhNmF2YfZhtmK2Kkg2YHZiiDYo9mB2LbZhCDYs9io2YTZh9inINmI2YLYp9iv2LHYqSDYudmE2Ykg2YXZiNin2YPYqNipINin2YTZgdmI2LHYp9mGINin2YTYqtmD2YbZiNmE2YjYrNmKINin2YTYsNmKINmE2Kcg2YrZh9iv2KMg2YXYqtiz2YTYrdipINio2KPZgdi22YQg2KfZhNiu2KjYsdin2Kog2KfZhNi52KfZhNmF2YrYqdiMINmI2YLYryDYqtmF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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=tXOXLqNPU-J9SBCLKHAz3lYDF8o2LBdrtnNd9RIg8nOct3KhRN7ysP1Q-lIV_59y2SxxRMjjaAyiVc3dj7jmzPhG1hWUII-jns0J6QwOt9w1&amp;t=637271617152444913" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=Mi6DnmSobpV0PEXKfmHlte9EqHXkKV8gdmWeaKRQqImQXDU6j9aG2QvT1JxswIlK1h4r9rsiHyGWJoyxVRdkyAl7wtCbVi6GH6n08qo6zcgomNsd5ZHdE3YeoR5BWKfwmrt2-_5lr-CXUTGM5zv21LC_jt9ai5w2ol9S4sMB1So1&amp;t=33e90bc4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pkqaJWbbk7--evIf-JLE44gzYp4znn9Kien2uG7Tw6Z6veQ1anUlV5oEbcMJRhnAE9n90bxBx-iTfLmYP1ekCtNx8E5Al5OCR_NLCInGVu3TzZeImoL0FCavsbieR-CJQQIJr5ExmZavcc78xKAvkhDJ7bL7iAzZThJmuknz_ePlIKWlOVy5H1yXtYkolzo00&amp;t=10c151ff" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=l7PmZl1_2-AdP7RWuHEW7ETCJgnKhMksJ3SPHvo8h1T2O0HLFQKMBvbU6_Ss5aav9t2r2jGOGqP5YSbR-e2CdDrLqkULnydEtezxdgPC7hQrJX3W6ZtuiMYx7aXxICwQH8IMKLBX6tMVEh6xC7wPiQu3szDhBz-4z0O8sf5yZJWXLW1bTlc3SfpqLq2anu0_0&amp;t=10c151ff" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+GetLawData:function(TypeID,succeededCallback, failedCallback, userContext) {
+/// <param name="TypeID" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetLawData',false,{TypeID:TypeID},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) {
+PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { 
+/// <value type="String" mayBeNull="true">The service url.</value>
+return PageMethods._staticInstance.get_path();}
+PageMethods.set_timeout = function(value) {
+PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { 
+/// <value type="Number">The service timeout.</value>
+return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { 
+PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { 
+/// <value mayBeNull="true">The service default user context.</value>
+return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { 
+ PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default succeeded callback.</value>
+return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { 
+PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default failed callback.</value>
+return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_enableJsonp = function(value) { PageMethods._staticInstance.set_enableJsonp(value); }
+PageMethods.get_enableJsonp = function() { 
+/// <value type="Boolean">Specifies whether the service supports JSONP for cross domain calling.</value>
+return PageMethods._staticInstance.get_enableJsonp(); }
+PageMethods.set_jsonpCallbackParameter = function(value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+PageMethods.get_jsonpCallbackParameter = function() { 
+/// <value type="String">Specifies the parameter name that contains the callback function name for a JSONP request.</value>
+return PageMethods._staticInstance.get_jsonpCallbackParameter(); }
+PageMethods.set_path("LawArticles.aspx");
+PageMethods.GetLawData= function(TypeID,onSuccess,onFailed,userContext) {
+/// <param name="TypeID" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetLawData(TypeID,onSuccess,onFailed,userContext); }
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BA043487" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>
+            
+<style type="text/css">
+    .form-signin {
+        max-width: 400px;
+        display: block;
+        background-color: #f7f7f7;
+        -moz-box-shadow: 0 0 3px 3px #888;
+        -webkit-box-shadow: 0 0 3px 3px #888;
+        box-shadow: 0 0 3px 3px #888;
+        border-radius: 2px;
+        margin: 0 auto;
+    }
+
+    .main {
+        padding: 38px;
+    }
+
+    .social-box {
+        margin: 0 auto;
+        padding: 38px;
+        border-bottom: 1px #ccc solid;
+    }
+
+        .social-box a {
+            font-weight: bold;
+            font-size: 18px;
+            padding: 8px;
+        }
+
+            .social-box a i {
+                font-weight: bold;
+                font-size: 20px;
+            }
+
+    .heading-desc {
+        font-size: 20px;
+        font-weight: bold;
+        padding: 38px 38px 0px 38px;
+    }
+
+    .form-signin .form-signin-heading,
+    .form-signin .checkbox {
+        margin-bottom: 10px;
+    }
+
+    .form-signin .checkbox {
+        font-weight: normal;
+    }
+
+    .form-signin .form-control {
+        position: relative;
+        font-size: 16px;
+        height: 20px;
+        padding: 20px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+        .form-signin .form-control:focus {
+            z-index: 2;
+        }
+
+    .form-signin input[type="text"] {
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+
+    .form-signin input[type="password"] {
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+
+    .login-footer {
+        background: #f0f0f0;
+        margin: 0 auto;
+        border-top: 1px solid #dadada;
+        padding: 20px;
+    }
+
+        .login-footer .left-section a {
+            font-weight: bold;
+            color: #8a8a8a;
+            line-height: 19px;
+        }
+
+    .mg-btm {
+        margin-bottom: 20px;
+    }
+
+    #user-dd-wrap {
+        position: relative;
+    }
+
+    #user-dd {
+        position: absolute;
+        top: 20px;
+        width: 200px;
+        height: 200px;
+        opacity: 0;
+        visibility: hidden;
+        transition: all .3s ease .1s;
+        transform: translatey(40px);
+    }
+
+    #user-dd-wrap:hover #user-dd {
+        opacity: 1;
+        visibility: visible;
+        transform: translatey(0);
+    }
+
+    #user-dd ul {
+        background: white;
+        margin-top: 20px;
+        display: block;
+        height: 100%;
+    }
+
+        #user-dd ul li {
+            padding: 8px;
+            border-bottom: solid 1px #eee;
+            width: 100%;
+        }
+
+            #user-dd ul li a:hover {
+                background: #616161;
+                color: #fff;
+            }
+
+            #user-dd ul li a {
+                color: #333333;
+            }
+
+            #user-dd ul li:hover {
+                background: #616161;
+                color: #fff;
+            }
+
+                #user-dd ul li:hover a {
+                    color: #fff;
+                }
+
+    .stylear {
+        right: 8px;
+    }
+
+    .styleen {
+        left: -8px;
+    }
+
+    .visitedar {
+        right: 0 !important;
+        width: 600px !important;
+        transform: translatex(100%);
+    }
+
+    .visiteden {
+        left: -500px !important;
+        width: 500px !important;
+    }
+
+    .modal-backdrop {
+        z-index: 0 !important;
+    }
+</style>
+
+
+
+<header class="main-header">
+    <div class="header-upper">
+        <div class="auto-container">
+            <div class="clearfix">
+                <div class="pull-right upper-right clearfix">
+                    <div class="upper-column info-box">
+                        <div class="icon-box"><i class="fa fa-calendar"></i></div>
+                        <p id="headerctr_tdDate">18 ديسمبر 2021 م</p>
+                        <br />
+                        <p id="headerctr_tdHijriDate">14 جمادى الأولى 1443 هــ</p>
+                        <div class="icon-box"><i class="fa fa-globe"></i></div>
+                        <span style="color: white">/ </span><a class="prayerTimesExample" style="color: white">
+                            <img src="pr1.png" style="width: 18px" />
+                        </a>
+                        <br />
+                        <p><a href="http://www.almeezan.qa/LawArticles.aspx?LawTreeSectionID=18243&LawID=7738&language=en" id="headerctr_aLanguage" lang="en" dir="ltr">English</a></p>
+                        <div class="icon-box"><i class="fa fa-globe"></i></div>
+                        <br />
+                        <div class="icon-box"><a href="#" class="contrast" id="btncontrast"><i class="fa fa-adjust"></i></a></div>
+                    </div>
+                </div>
+                <div class="pull-left logo-outer">
+                    <div class="logo">
+                        <a href="Default.aspx">
+                            <img src="images/logo.png" alt="Al Meezan" title="Al Meezan"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-lower">
+        <div class="auto-container">
+            <div class="nav-outer clearfix">
+                <!-- Main Menu -->
+                <nav class="main-menu">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                    </div>
+                    <div class="navbar-collapse collapse clearfix">
+                        <ul class="navigation clearfix">
+                            <li id="headerctr_tddefault"><a href="Default.aspx" style="font-size: 23px" title='الصفحة الرئيسية'><i class="fa fa-home"></i></a></li>
+                            <li id="headerctr_tdfullsearch"><a href="AllSiteSearch.aspx" title='بحث'><i class="fa fa-search"></i></a></li>
+                            <li id="headerctr_Li1"><a href="VideoList.aspx" title='المرئيات'><i class="fa fa-video-camera"></i></a></li>
+                            <li id="headerctr_tdLegislations" class="dropdown"><a href="LawsByYear.aspx" title='التشريعات'>التشريعات</a>
+                                <ul>
+                                    <li><a href="LawsByYear.aspx" title='عرض التشريعات حسب تاريخ الاصدار'><i class="fa fa-history">&nbsp;</i> عرض التشريعات حسب تاريخ الاصدار</a></li>
+                                    <li><a href="LawsBySubject.aspx" title='عرض التشريعات حسب المواضيع '><i class="fa fa-th-list">&nbsp;</i>  عرض التشريعات حسب المواضيع </a></li>
+                                    <li><a href="LawsByTopic.aspx" title='عرض التشريعات حسب الجهات المعنية'><i class="fa fa-arrows">&nbsp;</i>  عرض التشريعات حسب الجهات المعنية</a></li>
+                                    <li><a href='CancelledLaws.aspx?status=2443&kind=0&language=ar'><i class="fa fa-ban" title='التشريعات الملغاة'>&nbsp;</i> التشريعات الملغاة </a></li>
+                                    <li><a href='LegislationSearch.aspx?language=ar' title='البحث في التشريعات'>البحث في التشريعات</a></li>
+                                </ul>
+                            </li>
+                            <li id="headerctr_tdDeals" class="dropdown"><a href="AgreementsByDate.aspx" title='الاتفاقيات'>الاتفاقيات</a>
+                                <ul>
+                                    <li><a href="AgreementsByDate.aspx" title='عرض الاتفاقيات حسب تاريخ الصدور'><i class="fa fa-history">&nbsp;</i> عرض الاتفاقيات حسب تاريخ الصدور</a></li>
+                                    <li><a href="AgreementsBySubject.aspx" title='عرض الاتفاقيات حسب المواضيع'><i class="fa fa-th-list">&nbsp;</i> عرض الاتفاقيات حسب المواضيع</a></li>
+                                    <li><a href="AgreementsByOrganization.aspx" title='عرض الاتفاقيات حسب المنظمات'><i class="fa fa-th">&nbsp;</i> عرض الاتفاقيات حسب المنظمات</a></li>
+                                    <li><a href="AgreementsByCountry.aspx" title='عرض الاتفاقيات حسب الدول'><i class="fa fa-globe">&nbsp;</i> عرض الاتفاقيات حسب الدول</a></li>
+                                    <li><a href="AgreementsSearch.aspx?language=ar" title='البحث في الاتفاقيات'>البحث في الاتفاقيات</a></li>
+                                </ul>
+                            </li>
+                            <li id="headerctr_tdLaws" class="dropdown"><a href="#" title='الأحكام'>الأحكام</a>
+                                <ul role="menu" class="dropdown-large row">
+                                    <li>
+                                        <div class="col-sm-6">
+                                            <h3>الأحكام </h3>
+                                            <ul>
+                                                <li><a href="RulingsByDate.aspx" title='عرض الأحكام حسب تاريخ جلسة الحكم'><i class="fa fa-calendar">&nbsp;</i> عرض الأحكام حسب تاريخ جلسة الحكم</a></li>
+                                                <li><a href="RulingsBySubjects.aspx" title='عرض الأحكام حسب المواضيع'><i class="fa fa-th-list">&nbsp;</i> عرض الأحكام حسب المواضيع</a></li>
+                                                <li><a href="RulingsSearch.aspx?language=ar" title='البحث في الأحكام'>البحث في الأحكام</a></li>
+                                                <li><a href="AllRulings.aspx?language=ar" title='البحث في الأحكام'>عرض الاحكام كاملة</a></li>
+
+                                               
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <h3>فرز بالمحاكم </h3>
+                                            <ul>
+                                                
+                                                        <li><a><i class="fa fa-gavel">&nbsp;</i> محكمة التمييز</a></li>
+                                                        
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=2413&language=ar' title='الدائرة المدنية والتجارية'>الدائرة المدنية والتجارية</a></li>
+                                                            
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=2414&language=ar' title='الاحوال الشخصية والاسرة'>الاحوال الشخصية والاسرة</a></li>
+                                                            
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=2415&language=ar' title='الدوائر المجتمعة'>الدوائر المجتمعة</a></li>
+                                                            
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=4651&language=ar' title='المواد الجنائية'>المواد الجنائية</a></li>
+                                                            
+                                                    
+
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="headerctr_tdFatawa" class="dropdown"><a href="#" title='الفتاوى'>الفتاوى</a>
+                                <ul>
+                                    <li><a href="OpinionByDate.aspx" title='عرض الفتاوى  حسب تاريخ الصدور'><i class="fa fa-history">&nbsp;</i> عرض الفتاوى  حسب تاريخ الصدور</a></li>
+                                    <li><a href="AllOpinionSearch.aspx?type=2&language=ar" title='البحث في الفتاوى والتأديب'>البحث في الفتاوى والتأديب</a></li>
+                                </ul>
+                            </li>
+                            <li id="headerctr_tdReference"><a href="ReferencesPage.aspx" title='المراجع'>المراجع</a></li>
+
+                            <li id="headerctr_tdcomone" class="dropdown"><a href="CompaniesList.aspx?ComType=1" title='الشركات'>الشركات </a>
+                                <ul>
+                                    <li><a title='عرض الشركات حسب تاريخ الانشاء' href="CompaniesList.aspx?ComType=1">عرض الشركات حسب تاريخ الانشاء</a></li>
+                                    <li><a title='عرض الشركات حسب نشاط الشركة' href="CompaniesActivities.aspx?ComType=1">عرض الشركات حسب نشاط الشركة </a></li>
+                                    <li><a title='عرض الشركات حسب المؤسسون' href="CompaniesByOwners.aspx?ComType=1">عرض الشركات حسب المؤسسون </a></li>
+                                </ul>
+                            </li>
+
+                            <li id="headerctr_tdcomtwo" class="dropdown"><a href="CompaniesList.aspx?ComType=2" title='مؤسسات وجمعيات'>مؤسسات وجمعيات </a>
+                                <ul>
+                                    <li><a title='عرض المؤسسات والجمعيات حسب تاريخ الانشاء' href="CompaniesList.aspx?ComType=2">عرض المؤسسات والجمعيات حسب تاريخ الانشاء</a></li>
+                                    <li><a title='عرض المؤسسات والجمعيات حسب النشاط' href="CompaniesActivities.aspx?ComType=2">عرض المؤسسات والجمعيات حسب النشاط </a></li>
+                                    <li><a title='عرض المؤسسات والجمعيات حسب المؤسسون' href="CompaniesByOwners.aspx?ComType=2">عرض المؤسسات والجمعيات حسب المؤسسون </a></li>
+                                </ul>
+                            </li>
+
+                            <li id="headerctr_tdNewspaper"><a href="OfficialJournalPage.aspx" title='الجريدة الرسمية'>الجريدة الرسمية  </a></li>
+                            <li id="headerctr_legalmag"><a href="LegalMagazine.aspx" title='المجلة القانونية'>المجلة القانونية  </a></li>
+
+                            <li class="get-btn pull-right flip dropdown-toggle">
+                                <a href="Controls/#" id="headerctr_menu1" class="theme-btn appt-btn" data-toggle="dropdown" style="font-size: 14px;"><i class='fa fa-user-plus' style='padding-left: 2px;'></i>صفحتي الشخصية</a>
+                                <ul role="menu" class="dropdown stylear" aria-labelledby="menu1">
+                                    <li id="headerctr_userEmptySeesion"><a href="FGLoginPage.aspx"><i class='fa fa-user' style="padding-left: 2px;"></i>تسجيل الدخول</a></li>
+                                    
+                                    
+                                    
+                                    
+                                    <li class="dropdown">
+                                        <a>سجل المشاهدة</a>
+                                        <ul class='visitedar'>
+                                            
+                                            <li style="background-color: #900C51; color: white; font-size: 14px">
+                                                <a id="headerctr_deletecookes" title="محو السجل" href="javascript:__doPostBack(&#39;ctl00$headerctr$deletecookes&#39;,&#39;&#39;)" style="background-color: #900C51; color: white; font-size: 14px"><i class="fa fa-eraser" style="padding-left: 2px;"></i>محو السجل </a>
+                                        </ul>
+                                    </li>
+                                    <li class="">
+                                        <div class="col-sm-12">
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <!-- Main Menu End-->
+
+            </div>
+        </div>
+    </div>
+
+
+    <input type="hidden" name="ctl00$headerctr$hidPollID" id="headerctr_hidPollID" />
+
+    <div class="bounce-in-header">
+        <div class="auto-container clearfix">
+            <!--Logo-->
+            <div class="logo pull-left flip">
+                <a href="Default.aspx" class="img-responsive">
+                    <img src="images/logo-small.png" alt="Al Meezan" title="Al Meezan"></a>
+            </div>
+
+            <!--Right Col-->
+            <div class="right-col pull-right flip">
+                <!-- Main Menu -->
+                <nav class="main-menu">
+                    <div class="navbar-header">
+                        <!-- Toggle Button -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                    </div>
+                    <div class="navbar-collapse collapse clearfix">
+                        <ul class="navigation clearfix">
+                            <li class="current"><a href="Default.aspx" title='الصفحة الرئيسية'><i class="fa fa-home"></i></a></li>
+                            <li><a href="AllSiteSearch.aspx" title='بحث'><i class="fa fa-search"></i></a></li>
+                            <li class="dropdown"><a href="#" title='التشريعات'>التشريعات</a>
+                                <ul>
+                                    <li><a href="LawsByYear.aspx" title='عرض التشريعات حسب تاريخ الاصدار'><i class="fa fa-history">&nbsp;</i> عرض التشريعات حسب تاريخ الاصدار</a></li>
+                                    <li><a href="LawsBySubject.aspx" title='عرض التشريعات حسب المواضيع '><i class="fa fa-th-list">&nbsp;</i>  عرض التشريعات حسب المواضيع </a></li>
+                                    <li><a href="LawsByTopic.aspx" title='عرض التشريعات حسب الجهات المعنية'><i class="fa fa-arrows">&nbsp;</i>  عرض التشريعات حسب الجهات المعنية</a></li>
+                                    <li><a href='CancelledLaws.aspx?status=2443&kind=0&language=ar'><i class="fa fa-ban" title='التشريعات الملغاة'>&nbsp;</i> التشريعات الملغاة </a></li>
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="AgreementsByDate.aspx" title='الاتفاقيات'>الاتفاقيات</a>
+                                <ul>
+                                    <li><a href="AgreementsByDate.aspx" title='عرض الاتفاقيات حسب تاريخ الصدور'><i class="fa fa-history">&nbsp;</i> عرض الاتفاقيات حسب تاريخ الصدور</a></li>
+                                    <li><a href="AgreementsBySubject.aspx" title='عرض الاتفاقيات حسب المواضيع'><i class="fa fa-th-list">&nbsp;</i> عرض الاتفاقيات حسب المواضيع</a></li>
+                                    <li><a href="AgreementsByOrganization.aspx" title='عرض الاتفاقيات حسب المنظمات'><i class="fa fa-th">&nbsp;</i> عرض الاتفاقيات حسب المنظمات</a></li>
+                                    <li><a href="AgreementsByCountry.aspx" title='عرض الاتفاقيات حسب الدول'><i class="fa fa-globe">&nbsp;</i> عرض الاتفاقيات حسب الدول</a></li>
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="RulingsByDate.aspx" title='الأحكام'>الأحكام</a>
+                                <ul role="menu" class="dropdown-large row">
+                                    <li>
+                                        <div class="col-sm-6">
+                                            <h3>الأحكام </h3>
+                                            <ul>
+                                                <li><a href="RulingsByDate.aspx" title='عرض الأحكام حسب تاريخ جلسة الحكم'><i class="fa fa-calendar">&nbsp;</i> عرض الأحكام حسب تاريخ جلسة الحكم</a></li>
+                                                <li><a href="RulingsBySubjects.aspx" title='عرض الأحكام حسب المواضيع'><i class="fa fa-th-list">&nbsp;</i> عرض الأحكام حسب المواضيع</a></li>                                                
+                                                <li><a href="AllRulings.aspx?language=ar" title='البحث في الأحكام'>عرض الاحكام كاملة</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <h3>فرز بالمحاكم </h3>
+                                            <ul>
+                                                
+                                                        <li><a><i class="fa fa-gavel">&nbsp;</i> محكمة التمييز</a></li>
+                                                        
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=2413&language=ar' title='الدائرة المدنية والتجارية'>الدائرة المدنية والتجارية</a></li>
+                                                            
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=2414&language=ar' title='الاحوال الشخصية والاسرة'>الاحوال الشخصية والاسرة</a></li>
+                                                            
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=2415&language=ar' title='الدوائر المجتمعة'>الدوائر المجتمعة</a></li>
+                                                            
+                                                                <li class='padd-left-20'><a href='RulingsByDate.aspx?type=SUBJECTS&entry=4651&language=ar' title='المواد الجنائية'>المواد الجنائية</a></li>
+                                                            
+                                                    
+
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="#" title='الفتاوى'>الفتاوى</a>
+                                <ul>
+                                    <li><a href="OpinionByDate.aspx" title='عرض الفتاوى  حسب تاريخ الصدور'><i class="fa fa-history">&nbsp;</i> عرض الفتاوى  حسب تاريخ الصدور</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="ReferencesPage.aspx" title='المراجع'>المراجع</a></li>
+
+                            <li class="dropdown"><a href="CompaniesList.aspx?ComType=1" title='الشركات'>الشركات </a>
+                                <ul>
+                                    <li><a title='عرض الشركات حسب تاريخ الانشاء' href="CompaniesList.aspx?ComType=1">عرض الشركات حسب تاريخ الانشاء</a></li>
+                                    <li><a title='عرض الشركات حسب نشاط الشركة' href="CompaniesActivities.aspx?ComType=1">عرض الشركات حسب نشاط الشركة </a></li>
+                                    <li><a title='عرض الشركات حسب المؤسسون' href="CompaniesByOwners.aspx?ComType=1">عرض الشركات حسب المؤسسون </a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="CompaniesList.aspx?ComType=2" title='مؤسسات وجمعيات'>مؤسسات وجمعيات </a>
+                                <ul>
+                                    <li><a title='عرض المؤسسات والجمعيات حسب تاريخ الانشاء' href="CompaniesList.aspx?ComType=2">عرض المؤسسات والجمعيات حسب تاريخ الانشاء</a></li>
+                                    <li><a title='عرض المؤسسات والجمعيات حسب النشاط' href="CompaniesActivities.aspx?ComType=2">عرض المؤسسات والجمعيات حسب النشاط </a></li>
+                                    <li><a title='عرض المؤسسات والجمعيات حسب المؤسسون' href="CompaniesByOwners.aspx?ComType=2">عرض المؤسسات والجمعيات حسب المؤسسون </a></li>
+                                </ul>
+                            </li>
+
+                            <li><a href="OfficialJournalPage.aspx" title='الجريدة الرسمية'>الجريدة الرسمية  </a></li>
+
+                            <li class="get-btn pull-right flip dropdown-toggle"><a title='صفحتي الشخصية' class="theme-btn appt-btn" id="A1" data-toggle="dropdown" href="#"><i class="fa fa-user"></i>صفحتي الشخصية </a>
+                                <ul role="menu" class="dropdown-large row" aria-labelledby="menu1">
+                                    <li class="">
+                                        <div class="col-sm-12">
+                                            <ul>
+                                                
+                                                <li style="background-color: #900C51; color: white; font-size: 14px">
+                                                    <a id="headerctr_LinkButton1" title="محو السجل" href="javascript:__doPostBack(&#39;ctl00$headerctr$LinkButton1&#39;,&#39;&#39;)" style="background-color: #900C51; color: white; font-size: 14px"><i class="fa fa-eraser"></i>محو السجل </a>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <link rel="stylesheet" href="icon.css" />
+    <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" id="exampleModal" aria-hidden="true">
+        <div class="modal-dialog modal-confirm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="icon-box" style="text-align: center">
+                        <h3 style="color: #800a47">إستبيان</h3>
+                    </div>
+                    <h4 id="headerctr_poolQuestion" class="modal-title">تنبيه</h4>
+                </div>
+                <div class="modal-body">
+                    <div id="ansList">
+                        
+                    </div>
+                    <textarea id="txtcomments" style="border: solid 1px #ccc; width: 100%; padding: 10px" rows="5" placeholder="ملاحظات"></textarea>
+                    <div id="divAnswers"></div>
+                </div>
+                <div class="modal-footer">
+                    <a id="btnSubmitPool" class="btn btn-secondary theme-btn btn-style-four" onclick="GoToVote();">صوت</a>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">اغلاق</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function GoToVote() {
+            var pID = 1 //get Poll ID
+            var cID = $("input[name='ctl00$headerctr$rpanswers']:checked").val(); //get the checked Choice
+            var Pnotes = $("#txtcomments").val();
+
+
+            var cit = {
+                pID: pID,
+                cID: cID,
+                PNotes: Pnotes
+            };
+
+            Type = "POST";
+            Url = "Default.aspx/UpdatePollCount";
+            Data = JSON.stringify(cit);
+            ContentType = "application/json; charset=utf-8";
+            DataType = "json";
+            varProcessData = true;
+            CallService(Type, Url, Data, ContentType, DataType, varProcessData, true, function (msg) {
+                // var myJSON = JSON.stringify(msg);
+                $("#ansList").css('display', 'none');
+                $("#btnSubmitPool").css('display', 'none');
+                $("#headerctr_liPooled").css('display', 'none');
+                $("#txtcomments").css('display', 'none');
+                $("#divAnswers").html("شكرا على مشاركتكم بتحسين الموقع");
+            }, function (error) {
+                console.error(error);
+            });
+
+
+        }
+        function CallService(Type, Url, Data, ContentType, DataType, ProcessData, Async, success, failure) {
+            var dataReturn = null;
+            $.ajax({
+                type: Type, //GET or POST or PUT or DELETE verb
+                url: Url, // Location of the service
+                data: Data, //Data sent to server
+                contentType: ContentType, // content type sent to server
+                dataType: DataType, //Expected data format from server
+                processdata: ProcessData, //True or False
+                async: Async,
+                success: function (msg) {//On Successfull service call
+                    if (!Async) {
+                        dataReturn = msg;
+                    } else {
+                        if (success != undefined)
+                            success(msg);
+                    }
+                },
+                error: function (error) {// When Service call fails
+                    if (failure != undefined)
+                        failure(error);
+                }
+            });
+            return dataReturn;
+        };
+
+    </script>
+
+</header>
+
+            <div class="headline-wrap" style="border-top: 1px solid #ddd; background: #800a47; height: 46px">
+                <link rel="stylesheet" href="css/ar/marquee.css" />
+                <div class="simple-marquee-container">
+                    <div class="marquee">
+                        <ul class="marquee-content-items">
+                            
+                                    <li>اطلاق نسخة جديدة من الميزان</li>
+                                
+                                    <li>اطلاق نسخة جديدة من الميزان</li>
+                                
+                                    <li>اطلاق نسخة جديدة من الميزان</li>
+                                
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="breadcrumb-outer">
+                <div class="auto-container clearfix">
+                </div>
+            </div>
+            
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$scriptmanager', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    
+<script type="text/javascript">
+    function Increase() {
+        IncreaseByTag('td');
+        IncreaseByTag('div');
+    }
+
+    function Descrease() {
+        DescreaseByTag('td');
+        DescreaseByTag('div');
+    }
+</script>
+
+<script type="text/javascript">
+    var index = 0;
+    function increaseFontSize() {
+        var s = 0;
+        if (index < 2) {
+            var adiv = document.getElementsByTagName('*');
+            for (i = 0; i < adiv.length; i++) {
+                if (adiv[i].style.fontSize) {
+                    s = parseInt(adiv[i].style.fontSize.replace("px", ""));
+                }
+                else {
+                    s = parseInt(document.defaultView.getComputedStyle(adiv[i], null).fontSize.replace("px", ""));
+                }
+                s += 1;
+                adiv[i].style.fontSize = s + "px"
+            }
+            index++;
+        }
+    }
+
+
+    function decreaseFontSize() {
+        var s = 0;
+        if (index > 0) {
+            var divel = document.getElementsByTagName('*');
+            for (i = 0; i < divel.length; i++) {
+                if (divel[i].style.fontSize) {
+                    s = parseInt(divel[i].style.fontSize.replace("px", ""));
+                }
+                else {
+                    s = parseInt(document.defaultView.getComputedStyle(divel[i], null).fontSize.replace("px", ""));
+                }
+                s -= 1;
+                divel[i].style.fontSize = s + "px"
+            }
+            index--;
+        }
+
+    }
+</script>
+<div class="breadcrumb-outer">
+    <div class="auto-container clearfix">
+        <div class="bread-crumb text-left pull-left flip"><a href="Default.aspx?language=ar">الصفحة الرئيسية</a> <span id="ContentPlaceHolder1_nav_lblNavLink"> / <a href='LawsByYear.aspx?language=ar'>التشريعات</a> / <a href="LawPage.aspx?id=7738&language=ar">قانون رقم (11) لسنة 2018 بتنظيم اللجوء السياسي</a> / <a href='#' class='current'>المواد</a></span></div>
+        <div class="bread-crumb text-right pull-right flip"><span class="fontsizetext">حجم النص:</span> <a href="javascript:increaseFontSize();" class="fontSizePlus"><i class="fa fa-plus-circle"></i></a>/ <a href="javascript:void(0)" class="fontReset"><i class="fa fa-refresh"></i></a>/ <a href="javascript:decreaseFontSize();" class="fontSizeMinus"><i class="fa fa-minus-circle"></i></a></div>
+    </div>
+</div>
+
+    <div class="sidebar-page-container">
+        <!--Tabs Box-->
+        <div class="auto-container">
+            <div class="row clearfix">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="default-form callback-form-form form-bg">
+                        <div class="row row-centered clearfix">
+                            <div class="col-lg-11 col-md-11 col-sm-12 col-xs-12 col-centered">
+                                <div class="row">
+                                    <div class="form-group col-md-3 col-sm-3 col-xs-12">
+                                        <select name="ctl00$ContentPlaceHolder1$ddlKind" id="ContentPlaceHolder1_ddlKind" name="allwords" class="form-control">
+	<option value="0">نوع التشريع</option>
+	<option value="2524">دستور</option>
+	<option value="2533">قانون</option>
+	<option value="2534">مرسوم بقانون</option>
+	<option value="2535">أمر أميري</option>
+	<option value="2536">قرار أميري</option>
+	<option value="2537">مرسوم</option>
+	<option value="2538">قرار مجلس الوزراء</option>
+	<option value="2539">قرار رئيس مجلس الوزراء</option>
+	<option value="2540">قرار وزاري</option>
+	<option value="8995">قرار النائب العام</option>
+	<option value="8312">قرار مجلس اعلى</option>
+	<option value="8311">قرار رئيس مجلس أعلى</option>
+	<option value="8314">قرار مجلس ادارة</option>
+	<option value="8313">قرار رئيس مجلس ادارة</option>
+	<option value="8310">قرار</option>
+	<option value="8308">وثيقة</option>
+	<option value="8309">إعلان</option>
+
+</select>
+                                    </div>
+                                    <div class="form-group col-md-3 col-sm-3 col-xs-12">
+                                        <input name="ctl00$ContentPlaceHolder1$txtLawNumber" type="text" id="ContentPlaceHolder1_txtLawNumber" class="form-control" onkeydown="return IsNumberKey(event);" placeholder="الرقم" />
+                                    </div>
+                                    <div class="form-group col-md-3 col-sm-3 col-xs-12">
+                                        <select name="ctl00$ContentPlaceHolder1$txtLawYear" id="ContentPlaceHolder1_txtLawYear" name="allyears" class="form-control">
+	<option value="">سنة الإصدار</option>
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+	<option value="1988">1988</option>
+	<option value="1987">1987</option>
+	<option value="1986">1986</option>
+	<option value="1985">1985</option>
+	<option value="1984">1984</option>
+	<option value="1983">1983</option>
+	<option value="1982">1982</option>
+	<option value="1981">1981</option>
+	<option value="1980">1980</option>
+	<option value="1979">1979</option>
+	<option value="1978">1978</option>
+	<option value="1977">1977</option>
+	<option value="1976">1976</option>
+	<option value="1975">1975</option>
+	<option value="1974">1974</option>
+	<option value="1973">1973</option>
+	<option value="1972">1972</option>
+	<option value="1971">1971</option>
+	<option value="1970">1970</option>
+	<option value="1969">1969</option>
+	<option value="1968">1968</option>
+	<option value="1967">1967</option>
+	<option value="1966">1966</option>
+	<option value="1965">1965</option>
+	<option value="1964">1964</option>
+	<option value="1963">1963</option>
+	<option value="1962">1962</option>
+	<option value="1961">1961</option>
+	<option value="1960">1960</option>
+	<option value="1959">1959</option>
+	<option value="1958">1958</option>
+	<option value="1957">1957</option>
+	<option value="1956">1956</option>
+	<option value="1955">1955</option>
+	<option value="1954">1954</option>
+
+</select>
+                                    </div>
+                                    <div class="form-group col-md-2 col-sm-3 col-xs-12 text-center">
+                                        <input class="theme-btn btn-style-four" type="button" value="بحث"
+                                            onclick="SearchFunction()" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row clearfix">
+                <!--Content Side-->
+                <div class="content-side col-lg-9 col-md-9 col-sm-6 col-xs-12">
+                    <div class="post-title clearfix">
+                        <div class="default-title">
+                            <h3 id="ContentPlaceHolder1_lblTitle">قانون رقم (11) لسنة 2018 بتنظيم اللجوء السياسي</h3>
+                        </div>
+                        <div class="popular-tags"><strong>بطاقة التشريع</strong> <span id="ContentPlaceHolder1_lblcardtype"><em>النوع: </em>قانون</span><span id="ContentPlaceHolder1_lblNumber"><em>رقم: </em>11</span><span id="ContentPlaceHolder1_lbldate"><em>التاريخ: </em>04/09/2018 الموافق 04/09/2018 هجري</span><span id="ContentPlaceHolder1_lblArticlesNumber"><em>عدد المواد: </em>18</span><span id="ContentPlaceHolder1_lblstatus"><em>الحالة: </em>قيد التطبيق</span></div>
+                        <div class="popular-tags"><strong>الجريدة الرسمية :</strong><span id="ContentPlaceHolder1_lblissue"><em>العدد: </em>15</span><a href="ClarificationsNoteDetails.aspx?id=16477&language=ar" id="ContentPlaceHolder1_pdfdownload" target="_blank" title="نسخة الجريدة الرسمية">نسخة الجريدة الرسمية</a> <span id="ContentPlaceHolder1_lblojpubdate"><em>تاريخ النشر: </em>21/10/2018 الموافق 12/02/1440 هجري</span><span id="ContentPlaceHolder1_lblFromTo"><em>الصفحة  من: </em>9</span></div>
+                    </div>
+                    <div class="post-tools clearfix">
+                        <div class=" pull-right flip">
+                            <div class="post-options"><a href="SendArticle.aspx?LawTreeSectionID=18243&language=ar&lawId=7738" id="ContentPlaceHolder1_sendLink" title="أرسل"><span class="icon fa fa-envelope"></span><span class="text">أرسل</span> </a></div>
+                            <div class="post-options"><a href="PrintArticle_section.aspx?LawTreeSectionID=18243&language=ar&lawId=7738" id="ContentPlaceHolder1_printlink" target="_blank" title="طباعة"><span class="icon fa fa-print"></span><span class="text">طباعة</span> </a></div>
+                            
+                            
+                        </div>
+                        <div class=" pull-left flip">
+                            
+<div class="post-options"><a href="LawPage.aspx?id=7738&language=ar" id="ContentPlaceHolder1_navigation_btnTop" title="الفقرة الاعلى" alt="أعلى"><span class="icon fa fa fa-eject"></span><span class="text">أعلى</span> </a></div>
+<div class="post-options"><a id="ContentPlaceHolder1_navigation_btnFirst" title="الفقرة الاولى من القانون" disabled="disabled" alt="الأولى"><span class="icon fa fa-fast-forward"></span><span class="text">الفقرة الاولى من القانون</span> </a></div>
+<div class="post-options"><a id="ContentPlaceHolder1_navigation_btnPrevious" title="الفقرة السابقة من القانون" disabled="disabled" alt="السابقة"><span class="icon fa fa-step-forward"></span><span class="text">الفقرة السابقة من القانون</span> </a></div>
+<div class="post-options"><a id="ContentPlaceHolder1_navigation_btnNext" title="الفقرة اللاحقة من القانون" disabled="disabled" alt="التالية"><span class="icon fa fa-step-backward"></span><span class="text">الفقرة اللاحقة من القانون</span> </a></div>
+<div class="post-options"><a id="ContentPlaceHolder1_navigation_btnLast" title="الفقرة الاخيرة" disabled="disabled" alt="الأخيرة"><span class="icon fa fa-fast-backward"></span><span class="text">الفقرة الاخيرة</span> </a></div>
+
+                        </div>
+                    </div>
+                    <div class="addto-menu">
+                        <div id="add-to">
+                            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+                                <textarea name="ctl00$ContentPlaceHolder1$txtusercomments$McKeditor" rows="2" cols="20" id="ContentPlaceHolder1_txtusercomments_McKeditor">
+</textarea> 
+
+<script type="text/javascript">
+    //<![CDATA[
+ 
+    CKEDITOR.replace('ContentPlaceHolder1_txtusercomments_McKeditor',
+    {
+        Skin: 'kama', // Settings skin
+        ContentsLangDirection: 'Rtl',
+        language: 'ar',
+        filebrowserBrowseUrl: 'ckfinder/ckfinder.html',
+        filebrowserImageBrowseUrl: 'ckfinder/ckfinder.html?type=Images',
+        filebrowserFlashBrowseUrl: 'ckfinder/ckfinder.html?type=Flash',
+        filebrowserUploadUrl: 'ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Files',
+        filebrowserImageUploadUrl: 'ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Images',
+        filebrowserFlashUploadUrl: 'ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Flash'
+    });
+    //]]>
+</script>
+
+
+                                <div class="form-group" style="margin-top: 10px">
+                                    <input id="btnGetTime" type="button" value='حفظ' onclick="ShowCurrentTime()" class="theme-btn btn-style-three" />
+                                    <label id="messageafteraddition"></label>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                                <div class="button-checkbox">
+                                    <button type="button" class="theme-btn btn-style-four fullwidth">الكل</button>
+                                    <input type="checkbox" class="hidden" value="-1" id="catListAll" checked />
+                                </div>
+                                <div id="dvCheckBoxListControl"></div>
+
+                                <div class="mat-input">
+                                    <h5>إنشاء  مجموعة جديدة</h5>
+                                    <div class="mat-input-outer">
+                                        <input type="text" autocomplete="off" id="txtcatname" />
+                                        <label class="">ادخل اسم المجموعة</label>
+                                        <div class="border"></div>
+                                    </div>
+                                </div>
+                                <div class="form-group text-right">
+                                    <input id="btnCreateCat" type="button" value='حفظ' onclick="AddNewCategory()" class="theme-btn btn-style-three" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="default-text-block">
+                            <p id="ContentPlaceHolder1_NotesHolders">
+                            </p>
+                        </div>
+                        <div id="ContentPlaceHolder1_tablesection" class="list-column"></div>
+                    </div>
+
+
+
+                    
+
+                    <div class="default-text-block">
+                        <h3 id="ContentPlaceHolder1_tdarticlenumber"></h3>
+                        <div id="ContentPlaceHolder1_ContentDiv"></div>
+                        
+                        
+
+                        
+
+<div class="default-title">
+    <h3 id="ContentPlaceHolder1_displayart_lblTitle"><h2>   المواد</h2></h3>
+</div>
+
+<div id="ContentPlaceHolder1_displayart_tdallSection" class="list-column">
+</div>
+
+<div class="list-column">
+    <ul class="bulleted-list">
+        
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76352&LawID=7738&language=ar'>
+                       
+                        1  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>في تطبيق أحكام هذا القانون، تكون للكلمات والعبارات التالية، المعاني الموضحة قرين كل منها، ما لم يقتض السياق معنى آخر:<BR>الوزارة: وزارة الداخلية.<BR>الوزير: وزير الداخلية.<BR>اللجنة: لجنة شؤون اللاجئين السياسيين المنصوص عليها في <a target='_top' href='LawArticles.aspx?LawArticleID=76355&LawID=7738&language=ar'>المادة (4)</a> من هذا القانون.<BR>الإدارة المختصة: إدارة حقوق الإنسان بالوزارة.<BR>اللاجئ السياسي: كل شخص خارج دولته التي ينتمي إليها بجنسيته، أو الدولة التي يقع فيها محل إقامته المعتادة إذا كان عديم الجنسية، ولا يستطيع أو لا يرغب بالعودة إليها بسبب خوف له ما يبرره من التعرض لخطر الحكم عليه بالإعدام أو بعقوبة بدنية، أو التعذيب، أو المعاملة الوحشية أو المهينة، أو للاضطهاد، بسبب عرقه أو دينه أو انتمائه إلى طائفة اجتماعية معينة أو آرائه السياسية.<BR>رخصة الإقامة: ترخيص يثبت صفة اللاجئ السياسي، ويسمح بإقامته في الدولة في الأحوال وبالشروط التي يحددها هذا القانون والقرارات الصادرة تنفيذاً له.<BR>الإبعاد: إلزام اللاجئ السياسي بالخروج من الدولة وفقاً لأحكام هذا القانون.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76353&LawID=7738&language=ar'>
+                       
+                        2  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>مع مراعاة أحكام الاتفاقيات التي تكون الدولة طرفاً فيها، يكون منح حق اللجوء السياسي وفقاً لأحكام هذا القانون.<BR>ويصدر بالفئات التي تمنح حق اللجوء السياسي قرار من مجلس الوزراء بناءً على اقتراح الوزير.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76354&LawID=7738&language=ar'>
+                       
+                        3  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>لا يجوز منح اللجوء السياسي للفئات الآتية:<BR>1- من ارتكب جرائم جسيمة غير سياسية خارج دولة قطر.<BR>2- من ارتكب جرائم حرب أو جرائم ضد الإنسانية بالمعنى المستخدم لهذه الجرائم في الاتفاقيات الدولية.<BR>3- من ارتكب أفعالاً تتعارض مع أهداف ومبادئ الأمم المتحدة.<BR>4- من يتمتع بأكثر من جنسية واحدة، ويستظل بحماية دولة من الدول التي يعتبر من رعاياها، وليس لديه سبب وجيه يستند إلى خوف له ما يبرره.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76355&LawID=7738&language=ar'>
+                       
+                        4  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>تُنشأ بالوزارة لجنة دائمة تسمى "لجنة شؤون اللاجئين السياسيين"، تشكل من ثلاثة ممثلين عن الوزارة، يكون من بينهم رئيس اللجنة ونائبه، وعضوية ممثل عن كل من الجهات الآتية:<BR>1- وزارة الخارجية.<BR>2- وزارة العدل.<BR>3- جهاز أمن الدولة.<BR>4- اللجنة الوطنية لحقوق الإنسان.<BR>وتختار كل جهة من يمثلها في عضوية اللجنة.<BR>ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة ونظام عملها وكيفية إصدار توصياتها ومكافآتها، قرار من الوزير.<BR>ويتولى أمانة سر اللجنة موظف أو أكثر من موظفي الوزارة، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من الوزير.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76356&LawID=7738&language=ar'>
+                       
+                        5  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>تتلقى الإدارة المختصة طلبات اللجوء السياسي من طالب اللجوء السياسي أو من ينوب عنه، أو من خلال المفوضية السامية للأمم المتحدة لشؤون اللاجئين، وتتولى الإدارة بحث الطلب، وإعداد تقرير مفصل عنه، ورفعه إلى اللجنة مشفوعاً برأيها.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76357&LawID=7738&language=ar'>
+                       
+                        6  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يجوز للوزير، بناءً على توصية اللجنة، منح طالب اللجوء السياسي تصريحاً بالإقامة المؤقتة لمدة ثلاثة أشهر قابلة للتجديد لمدة أو مدد أخرى مماثلة لحين البت في طلبه.<BR>ويصدر بشروط وضوابط الإقامة المقررة في الفقرة السابقة قرار من الوزير.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76358&LawID=7738&language=ar'>
+                       
+                        7  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>على اللجنة أن تبت في الطلبات المحالة إليها من الإدارة المختصة، وترفع توصياتها إلى الوزير.<BR>ويصدر الوزير، خلال ثلاثة أشهر من تاريخ رفع توصية اللجنة إليه، قراراً بمنح مقدم الطلب صفة لاجئ سياسي أو رفض الطلب، ويعتبر مضي المدة المشار إليها دون رد على الطلب رفضاً ضمنياً له.<BR>وفي حالة منحه هذه الصفة تصدر له رخصة إقامة وبطاقة الإقامة التي تثبت ذلك.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76359&LawID=7738&language=ar'>
+                       
+                        8  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>لمقدم طلب اللجوء السياسي التظلم من القرار الصادر برفض طلبه إلى رئيس مجلس الوزراء خلال ثلاثين يوماً من تاريخ إخطاره به من الإدارة المختصة بأي وسيلة تفيد العلم، ويبت رئيس مجلس الوزراء في التظلم خلال ثلاثين يوماً من تاريخ تقديمه، ويعتبر مضي هذه المدة دون رد رفضاً ضمنياً للتظلم، ويكون قرار البت في التظلم نهائياً.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76360&LawID=7738&language=ar'>
+                       
+                        9  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يتمتع اللاجئ السياسي بحماية الدولة، كما يتمتع، وبما لا يتعارض مع صفته كلاجئ سياسي، بالمزايا والحقوق الآتية:<BR>1- الحصول على وثيقة سفر، ما لم تكن هناك أسباب تتصل بالأمن الوطني أو النظام العام تحول دون ذلك.<BR>2- توفير فرصة عمل، باستثناء الوظائف المتعلقة بأمن البلاد.<BR>3- تلقي إعانة مالية شهرية، لحين توافر فرصة عمل له.<BR>4- تلقي الرعاية الصحية.<BR>5- تلقي التعليم.<BR>6- توفير السكن.<BR>7- حرية العبادة وممارسة الشعائر الدينية.<BR>8- حرية التنقل والسفر.<BR>9- حق التقاضي.<BR>ويجوز السماح للاجئ السياسي باستقدام زوجه وأفراد أسرته من الدرجة الأولى.<BR>ويصدر بتحديد شروط وضوابط المزايا والحقوق المشار إليها في هذه المادة قرار من مجلس الوزراء، بناءً على اقتراح الوزير.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76361&LawID=7738&language=ar'>
+                       
+                        10  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>للإدارة المختصة تحديد محل إقامة اللاجئ السياسي، وذلك للحفاظ على سلامته.<BR>ولا يجوز للاجئ السياسي تغيير محل إقامته إلا بعد الحصول على موافقة الإدارة المختصة.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76362&LawID=7738&language=ar'>
+                       
+                        11  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يخضع اللاجئ السياسي لأحكام القانون، والقرارات والأنظمة المعمول بها في الدولة، ويتقيد بالتدابير التي تتخذها للحفاظ على النظام العام، ولا يجوز له ممارسة نشاط سياسي أثناء وجوده في الدولة.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76363&LawID=7738&language=ar'>
+                       
+                        12  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يُلغى قرار منح صفة اللاجئ السياسي وتسحب رخصة إقامته، في أي من الحالات الآتية:<BR>1- إذا ثبت أن منحه حق اللجوء السياسي كان بناءً على مستندات أو وثائق مزورة، أو باستعمال الغش والتحايل.<BR>2- إذا ثبت أن لديه أكثر من جنسية واحدة، ويستظل بحماية دولة من الدول التي يعتبر واحداً من رعاياها، وليس لديه سبب وجيه يستند إلى خوف له ما يبرره.<BR>3- إذا انتهت الأسباب التي دعته إلى اللجوء السياسي وكان من الممكن إعادته إلى دولته الأصلية.<BR>4- إذا مُنح الجنسية القطرية، أو اكتسب جنسية دولة أخرى، وأصبح يتمتع بحماية دولة جنسيته الجديدة.<BR>5- إذا عاد بمحض إرادته إلى الإقامة في الدولة التي ظل مقيماً خارجها.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76364&LawID=7738&language=ar'>
+                       
+                        13  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يجوز للوزير، بعد استطلاع رأي اللجنة، أن يصدر قراراً بإبعاد اللاجئ السياسي من البلاد في أي من الحالات الآتية:<BR>1- إذا ثبت ارتكابه إحدى الجرائم أو الأفعال المنصوص عليها في <a target='_top' href='LawArticles.aspx?LawArticleID=76354&LawID=7738&language=ar'>المادة (3)</a> من هذا القانون، سواءً قبل تقديمه طلب اللجوء السياسي أو بعد اكتسابه صفة لاجئ سياسي.<BR>2- إذا مارس نشاطاً سياسياً أثناء إقامته في الدولة.<BR>3- إذا كان وجوده يشكل خطراً على أمن الدولة أو النظام العام.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76365&LawID=7738&language=ar'>
+                       
+                        14  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يجب إخطار اللاجئ السياسي بقرار الإبعاد الصادر في حقه، ويحق له التظلم من هذا القرار إلى رئيس مجلس الوزراء خلال ثلاثين يوماً من تاريخ إخطاره به بأي وسيلة تفيد العلم، ويبت رئيس مجلس الوزراء في التظلم خلال ثلاثين يوماً من تاريخ تقديمه، ويعتبر مضي هذه المدة دون رد رفضاً ضمنياً للتظلم، ويكون قرار البت في التظلم نهائياً.<BR>ويحق للاجئ السياسي المبعد أن يختار الدولة التي يرغب في السفر إليها.<BR>ويجوز تأجيل تنفيذ قرار إبعاد اللاجئ السياسي لفترة زمنية مناسبة يحددها الوزير، إذا طلب اللاجئ السياسي ذلك ليتمكن من إلتماس السماح له بدخول الدولة التي يختارها.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76366&LawID=7738&language=ar'>
+                       
+                        15  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يحظر بأية صورة من الصور إعادة اللاجئ السياسي أو تسليمه إلى دولته، أو إلى أي دولة أخرى يخشى من تعرضه فيها للخطر أو للاضطهاد.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76367&LawID=7738&language=ar'>
+                       
+                        16  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>بالإضافة إلى الاختصاصات المقررة للجنة وفقاً لأحكام هذا القانون، تختص اللجنة بإبداء التوصيات في المسائل المتعلقة باللجوء السياسي، وإعداد التقارير بشأنها، أو كلما طلب منها ذلك، ورفعها للوزير.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76368&LawID=7738&language=ar'>
+                       
+                        17  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>يُصدر الوزير القرارات اللازمة لتنفيذ أحكام هذا القانون.</p>
+            
+                <li>
+                    <h4 style="color: #900C51"><a style="color:#900C51; !important" href='LawArticles.aspx?LawArticleID=76369&LawID=7738&language=ar'>
+                       
+                        18  المادة<span style="color: #900C51">  </span>
+                          </a>
+                    </h4>
+                    <p>على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية.</p>
+            
+    </ul>
+</div>
+
+<div class="list-column">
+    <ul class="bulleted-list">
+        
+    </ul>
+</div>
+
+
+
+
+                        
+                        <div class="content-side col-lg-6 col-md-6 col-sm-6 col-xs-12" style='Text-Align:right'>
+                            <label id="ContentPlaceHolder1_lblCommMessage" style="color: #900C51"></label>
+                        </div>
+                        <div class="content-side col-lg-6 col-md-6 col-sm-6 col-xs-12" style='Text-Align:left'>
+                            <a id="show-divForm" class="theme-btn btn-style-four">مشاركة </a>
+                        </div>
+                        <div class="content-side col-lg-12 col-md-12 col-sm-6 col-xs-12" id="divForm" style="display: none;">
+                            <div class="default-form callback-form-form form-bg">
+                                <div class="row row-centered">
+                                    <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 col-centered">
+                                        <div class="default-title text-center centered">
+                                            <h3 id="ContentPlaceHolder1_lbltitlemain">مشاركات الزوار</h3>
+                                        </div>
+                                        <div class="row clearfix">
+                                            <div class="form-group col-md-4 col-sm-4 col-xs-12 lbllocal">
+                                                <label for="txtName">الإسم</label>
+                                                <input name="ctl00$ContentPlaceHolder1$txtName" type="text" id="ContentPlaceHolder1_txtName" class="form-control" />
+                                                <span id="ContentPlaceHolder1_req1" class="ManField" style="visibility:hidden;">*</span>
+                                            </div>
+                                            <div class="form-group col-md-4 col-sm-4 col-xs-12 lbllocal">
+                                                <label for="txtPhone">الهاتف</label>
+                                                <input name="ctl00$ContentPlaceHolder1$txtPhone" type="text" id="ContentPlaceHolder1_txtPhone" class="form-control" />
+                                                <span id="ContentPlaceHolder1_RequiredFieldValidator1" class="ManField" style="visibility:hidden;">*</span>
+                                            </div>
+                                            <div class="form-group col-md-4 col-sm-4 col-xs-12 lbllocal">
+                                                <label for="txtemail">البريد الالكتروني</label>
+                                                <input name="ctl00$ContentPlaceHolder1$txtemail" type="text" id="ContentPlaceHolder1_txtemail" class="form-control" />
+                                                <span id="ContentPlaceHolder1_RequiredFieldValidator2" class="ManField" style="visibility:hidden;">*</span>
+                                            </div>
+                                            <div class="form-group col-md-12 col-sm-12 col-xs-12 lbllocal">
+                                                <label for="txtcomment">التعليق</label>
+                                                <textarea name="ctl00$ContentPlaceHolder1$txtcomment" id="ContentPlaceHolder1_txtcomment" class="form-control" type="text" style="height: 150px"></textarea>
+                                                <span id="ContentPlaceHolder1_RequiredFieldValidator3" class="ManField" style="visibility:hidden;">*</span>
+                                            </div>
+                                            <div class="form-group col-md-10 col-sm-12 col-xs-12">
+                                                ان هذه المشاركات لن تظهر الا لادارة الموقع
+                                            </div>
+                                            <div class="form-group col-md-2 col-sm-12 col-xs-12 text-right">
+                                                <input type="submit" name="ctl00$ContentPlaceHolder1$savecomment" value="أرسل" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$savecomment&quot;, &quot;&quot;, true, &quot;SendComm&quot;, &quot;&quot;, false, false))" id="ContentPlaceHolder1_savecomment" class="theme-btn btn-style-four" />
+                                            </div>
+                                            <div class="form-group col-md-12 col-sm-12 col-xs-12 lbllocal">
+                                                <label id="ContentPlaceHolder1_resultMessage" style="color: red"></label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <aside class="sidebar">
+                        <div class="sidebar-widget search-box">
+                            <div class="default-form callback-form-form">
+                                <div class="sidebar-title">
+                                    <h3>إبحث في مواد التشريع</h3>
+                                </div>
+                                <div class="row clearfix">
+                                    <div class="form-group col-md-12 col-sm-12 col-xs-12">
+                                        <input name="ctl00$ContentPlaceHolder1$txtartNumber" type="text" id="ContentPlaceHolder1_txtartNumber" onkeydown="return IsNumberKey(event);" class="form-control" placeholder="ادخل رقم المادة" />
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 col-xs-12">
+                                        <input name="ctl00$ContentPlaceHolder1$txtartSearchText" type="text" id="ContentPlaceHolder1_txtartSearchText" class="form-control" placeholder="ادخل نص  من المادة" />
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 col-xs-12 text-right">
+                                        <input type="button" value='بحث' class="theme-btn btn-style-three" onclick="SearchArticlesFunction()" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ContentPlaceHolder1_trSections" class="sidebar-widget popular-categories wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                            <ul class="list">
+                                <li><a href="LawPage.aspx?id=7738&language=ar" id="ContentPlaceHolder1_aViewNextArticles" title="رؤية الفقرات المجاورة">رؤية الفقرات المجاورة</a></li>
+                                <li><a href="LawPage.aspx?id=7738&language=ar" id="ContentPlaceHolder1_aViewAllLaw" title="تصفح القانون كاملاً">تصفح القانون كاملاً</a></li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">   
+        function ShowCurrentTime() 
+        {  
+            var MaincatID =  $('input[name="chklistitem"]:checked');
+            if(MaincatID.val()=='')
+                catID =-1;
+            else
+                catID = MaincatID.val();
+
+            var message = CKEDITOR.instances['ContentPlaceHolder1_txtusercomments_McKeditor'].getData();               
+            if(message!='')
+            {
+                ShowLoader();
+                var current_title = $(document).attr('title');         
+                var userID = ;
+                    $.ajax({
+                        url: "LawPage.aspx/UpdateUserMessage",
+                        data: "{ 'catID': '" + catID + 
+                             "', 'userMessage': '" + message + 
+                             "', 'messageTitel': '" + current_title + 
+                             "', 'UserID': '" + userID + "' }",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",               
+                        success: function (msg) 
+                        {                   
+                            if (msg.d == '1') 
+                            {                       
+                                var arabicmsg ='لقد تم حفظ الملاحظة بنجاح في دفتر ملاحظاتك';                      
+                                var englishmsg = 'لقد تم حفظ الملاحظة بنجاح في دفتر ملاحظاتك';                   
+                                $('#ContentPlaceHolder1_txtusercomments').val(''); 
+                                $("#messageafteraddition").text(arabicmsg);
+                                // $("#add-to").slideUp("slow");
+                            
+                            }
+                            HideLoader();
+                        }
+                    });
+                }
+            }
+            function AddNewCategory()
+            {
+                ShowLoader();
+                var categoryName =$('#txtcatname').val();
+                if(categoryName!="")
+                {
+                    var userID = ;
+                    $.ajax({
+                        url: "LawPage.aspx/SaveUserCategory",
+                        data: "{ 'categoryName': '" + categoryName +                     
+                             "', 'UserID': '" + userID + "' }",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",               
+                        success: function (msg) 
+                        {                   
+                            if (msg.d == '1') 
+                            {        
+                                $('#txtcatname').val('');  
+                                FillCategoriesList();
+                            }
+                            HideLoader();
+                        }
+                    });
+                }
+            }
+
+            function FillCategoriesList()
+            { 
+                var userID = ;
+                $.ajax({
+                    url: "LawPage.aspx/FillCategoriesListClient",
+                    data: '{UserID: "' + userID + '" }',
+                    dataType: "json",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",               
+                    success: function (msg) 
+                    {        
+                        BindCheckBoxList(msg);
+                    }
+                });
+                function BindCheckBoxList(result) 
+                {               
+                    var items = JSON.parse(result.d);
+                    CreateCheckBoxList(items);
+                }     
+
+                function CreateCheckBoxList(checkboxlistItems) 
+                {            
+                    $('#dvCheckBoxListControl').empty();
+                    var table = $('<table></table>');
+                    var counter = 0;
+                    $(checkboxlistItems).each(function () {
+                        table.append($('<tr></tr>').append($('<div class="inputRpt theme-btn btn-style-four fullwidth"></div>').append($('<input>').attr({
+                            type: 'checkbox', name: 'chklistitem', value: this.Value, id: 'chklistitem' + counter
+                        })).append(
+                        $('<label>').attr({
+                            for: 'chklistitem' + counter++
+                        }).text(this.Name))));
+                    }); 
+                    $('#dvCheckBoxListControl').append(table);
+                }
+            }
+        
+    </script>
+    <script type="text/javascript">
+
+        function ShowLoader() {
+
+            $.fancybox({
+                href: "images/loder.gif",
+                padding: 0,
+                openEffect: "elastic",
+                openSpeed: 150,
+                closeEffect: "elastic",
+                closeSpeed: 150,
+                closeClick: false,
+                closeBtn: false,
+                css: {},
+                title: "الرجاء الانتظار",
+                helpers: {
+                    overlay: {
+                        closeBtn: false,
+                        closeClick: false,
+                        css: { "background": "rgba(255,255,255,.85)" }
+                    }
+                },
+                beforeShow: function () {
+                    $(".fancybox-skin").css("background", "transparent");
+                    $(".fancybox-skin").css("box-shadow", "none");
+                    $(".fancybox-skin").css("border", "none");
+                    $(".fancybox-skin").css("backgroundColor", "transparent");
+                }
+            });
+        }
+
+        function HideLoader() {
+            $.fancybox.close();
+        }
+    </script>
+
+
+    <script>
+        $(function () {
+            $("#menu1-btn").click(function () {
+                $("#add-to").slideToggle("slow")
+            })
+        });
+
+        $(function () {
+            $("#favorite-btn").click(function () {
+                ShowLoader();
+                var pageURL = $(location).attr("href");                                   
+                var userID = ;
+                    var current_title = $(document).attr('title');   
+                    $.ajax({
+                        url: "LawPage.aspx/AddPageAsFavorite",
+                        data: "{ 'userID': '" + userID + 
+                         "', 'pageURL': '" + pageURL +                        
+                         "', 'current_title': '" + current_title + "' }",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",               
+                        success: function (msg) 
+                        { 
+                            if (msg.d == '1') 
+                            {                       
+                                var arabicmsg ='لقد تم تعيين الصفحة المفضلة بنجاح';                      
+                                var englishmsg = 'لقد تم تعيين الصفحة المفضلة بنجاح';                                                  
+                                $("#messageafteraddition").text(arabicmsg);
+                            }
+                            HideLoader();
+                        }
+                    });
+                    
+
+                })
+            });
+
+
+            $(function () {
+                $('.button-checkbox').each(function () {
+                
+                    var $widget = $(this),
+                        $button = $widget.find('button'),
+                        $checkbox = $widget.find('input:checkbox'),
+                        color = $button.data('color'),
+                        settings = {
+                            on: {
+                                icon: 'glyphicon glyphicon-check'
+                            },
+                            off: {
+                                icon: 'glyphicon glyphicon-unchecked'
+                            }
+                        };
+
+                    // Event Handlers
+                    $button.on('click', function () {
+                        $checkbox.prop('checked', !$checkbox.is(':checked'));
+                        $checkbox.triggerHandler('change');
+                        updateDisplay();
+                    });
+                    $checkbox.on('change', function () {
+                        updateDisplay();
+                    });
+
+                    // Actions
+                    function updateDisplay() {
+                        var isChecked = $checkbox.is(':checked');
+
+                        // Set the button's state
+                        $button.data('state', (isChecked) ? "on" : "off");
+
+                        // Set the button's icon
+                        $button.find('.state-icon')
+                            .removeClass()
+                            .addClass('state-icon ' + settings[$button.data('state')].icon);
+
+                        // Update the button's color
+                        if (isChecked) {
+                            $button
+                                .removeClass('btn-default')
+                                .addClass('btn-' + color + ' active');
+                        }
+                        else {
+                            $button
+                                .removeClass('btn-' + color + ' active')
+                                .addClass('btn-default');
+                        }
+                    }
+
+                    // Initialization
+                    function init() {
+
+                        updateDisplay();
+
+                        // Inject the icon if applicable
+                        if ($button.find('.state-icon').length == 0) {
+                            $button.prepend('<i class="state-icon ' + settings[$button.data('state')].icon + '"></i> ');
+                        }
+                    }
+                    init();
+                });
+            });
+
+            $(function () {
+                $('.mat-input-outer label').click(function () {
+                    $(this).prev('input').focus();
+                });
+                $('.mat-input-outer input').focusin(function () {
+                    $(this).next('label').addClass('active');
+                });
+                $('.mat-input-outer input').focusout(function () {
+                    if (!$(this).val()) {
+                        $(this).next('label').removeClass('active');
+                    } else {
+                        $(this).next('label').addClass('active');
+                    }
+                });
+            });
+
+      
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $("#show-divForm").click(function () {
+                $("#divForm").slideToggle("slow")
+            })
+        });
+
+        $(function () {
+            $("#hukomilink").click(function () {
+                $("#allhukoumilinksdata").slideToggle("slow")
+            })
+        });
+
+        jQuery(document).ready(function () {
+            jQuery("a.inline1").fancybox({
+                'transitionIn': 'elastic',
+                'transitionOut': 'none',
+                'type': 'inline'
+            });
+        });
+
+    </script>
+    <script src="timeline/js/index.js"></script>
+
+            
+<section class="logos-area">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!--Column-->
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="footer-logo" style="display:none">
+                    <a target="_blank" href='http://www.mada.org.qa/eAccessibility/ar/index.htm'>
+                        <img width="60" border="0" src="images/mada.png" alt="Mada Qatar National Web Accreditation, Access Planning, October 2012"
+                            title="Mada Qatar National Web Accreditation, Access Planning, October 2012" /></a>
+                </div>
+                <div class="footer-logo">
+                    <a href="http://www.moj.gov.qa" target="_blank">
+                        <img src="images/logo-ministry.png" alt='موقع وزارة العدل القطرية' title='موقع وزارة العدل القطرية' border="0" /></a>
+                </div>
+
+                <div class="footer-logo">
+                    <a href='http://portal.www.gov.qa/wps/portal/homepage/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gzA0sjR18Lk9AgHycLA09vD1NTP3cjYwMDM30v_ajMpFy98uRcPQM9MxNzQ0szYwtLYyDD2Ew_HGScWbwBDuBooO_nkZ-bql-QHZzm6KioCADZUNGE/dl3/d3/L0lDUmlTUSEhL3dHa0FKRnNBL1lCUmZ3QSEhL2Fy/?changeLanguage=ar' target="_blank">
+                        <img src="images/hukoomi.png" alt='موقع حكومي' title='موقع حكومي' border="0" /></a>
+                </div>
+
+                 <div class="footer-logo">
+                    <a href="https://apps.apple.com/qa/app/%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86/id1484758989" target="_blank">
+                        <img src="images/App_png.png" alt='موقع حكومي' title='App Store ' border="0" /></a>
+                </div>
+
+                 <div class="footer-logo">
+                    <a href="https://play.google.com/store/apps/details?id=com.almeezan" target="_blank">
+                        <img src="images/androidlogo.png" alt='موقع حكومي' title='Adroid' border="0" /></a>
+                </div>
+            </div>
+            <!--Column-->
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="footer-box-content">                   
+                    <h3>إتصل بنا</h3>
+                     <i class="fa fa-phone">&nbsp;</i><p id="footer1_phonecontact">الهاتف: 0097444069994</p>
+                     <i class="fa fa-fax">&nbsp;</i><p id="footer1_faxcontact">الفاكس: 0097444069998</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="footer-box-content">
+                    <i class="fa fa-envelope">&nbsp;</i>
+                    <h3>البريد الالكتروني</h3>
+                    <p id="footer1_emailcontact"> almeezan@contactcenter.gov.qa</p>
+                    <p>&nbsp;</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+            
+<footer class="main-footer" style="background-image: url(images/background/footer-bg.png);">
+
+    <div class="footer-upper">
+        <div class="auto-container">
+            <div class="row clearfix">
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-widget about-widget">
+                        <div class="logo">
+                            <a href="index.html">
+                                <img src="images/logo-footer.png" class="img-responsive" alt="Footer"></a>
+                        </div>
+                        <div class="text clearfix text-justify">
+                            <p id="footer_divContent"><p>
+	البوابة القانونية القطرية ( الميزان ) موقع شامل يشمل كافة التشريعات السارية والمعدلة والملغاة منذ 1961 م ، والأحكام القضائية الصادرة من محكمة التمييز والتي قام المكتب الفني للمجلس الأعلى للقضاء بتبويبها وفهرستها واستخراج المبادئ القانونية منها، ومبادئ الفتاوى القانونية الصادرة من إدارة الفتوى والعقود سابقاً بوزارة العدل إلى جانب المراجع الفقهية القانونية. يُدار الموقع بأساليب ووسائل علمية ومهنية متجددة يقوم بها كوادر بشرية مؤهلة ومتميزة قائمة على المهنية في أفضل سبلها وقادرة على مواكبة الفوران التكنولوجي الذي لا يهدأ متسلحة بأفضل الخبرات العالمية، وقد تم فيها استخدام أحدث الوسائل التقنية الحديثة مما يجعل شبكة المعلومات القانونية القطرية ( الميزان ) نموذجاً فريداً سواء في التقنية&nbsp; المستخدمة أم في منهجية عرض المعلومات القانونية وآلية البحث فيها.</p>
+</p>
+                            
+                        </div>
+                        <div class="social-links-two clearfix">
+                            <a href="https://www.facebook.com/pages/Qatar-Legal-Portal-Al-Meezan/467870749924895" id="footer_facelink" class="facebook img-circle" title="FaceBook"><span class="fa fa-facebook-f"></span></a>
+                            <a href="https://twitter.com/almeezan_qa" id="footer_twiterlink" class="twitter img-circle" title="Twitter"><span class="fa fa-twitter"></span></a>                     
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 col-sm-12 col-xs-12">
+                    <div class="row clearfix">
+
+                        
+                                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                                    <div class="footer-widget links-widget">
+                                        <h2><span>النظام السياسي</span></h2>
+                                        <ul>
+                                            
+                                                    <li><a href="/LawPage.aspx?id=2284&language=ar" id="footer_rptmainFooterLink_rptchildlinks_0_aLink_0">الدستور</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=33&language=ar" id="footer_rptmainFooterLink_rptchildlinks_0_aLink_1">السلطات الدستورية</a></li>
+                                                
+                                        </ul>
+                                    </div>
+                                </div>
+                            
+                                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                                    <div class="footer-widget links-widget">
+                                        <h2><span>السلطات الدستورية</span></h2>
+                                        <ul>
+                                            
+                                                    <li><a href="CustomPage.aspx?id=19&language=ar" id="footer_rptmainFooterLink_rptchildlinks_1_aLink_0">أمير البلاد</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=21&language=ar" id="footer_rptmainFooterLink_rptchildlinks_1_aLink_1">السلطة التنفيذية</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=31&language=ar" id="footer_rptmainFooterLink_rptchildlinks_1_aLink_2">السلطة التشريعية</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=32&language=ar" id="footer_rptmainFooterLink_rptchildlinks_1_aLink_3">السلطة القضائية</a></li>
+                                                
+                                        </ul>
+                                    </div>
+                                </div>
+                            
+                                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                                    <div class="footer-widget links-widget">
+                                        <h2><span>السلطة القضائية</span></h2>
+                                        <ul>
+                                            
+                                                    <li><a href="CustomPage.aspx?id=27&language=ar" id="footer_rptmainFooterLink_rptchildlinks_2_aLink_0">المجلس الأعلى للقضاء</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=28&language=ar" id="footer_rptmainFooterLink_rptchildlinks_2_aLink_1">المحاكم</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=29&language=ar" id="footer_rptmainFooterLink_rptchildlinks_2_aLink_2">النيابة العامة</a></li>
+                                                
+                                        </ul>
+                                    </div>
+                                </div>
+                            
+                                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                                    <div class="footer-widget links-widget">
+                                        <h2><span>حول الموقع</span></h2>
+                                        <ul>
+                                            
+                                                    <li><a href="CustomPage.aspx?id=5&language=ar" id="footer_rptmainFooterLink_rptchildlinks_3_aLink_0">حول الموقع</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=6&language=ar" id="footer_rptmainFooterLink_rptchildlinks_3_aLink_1">أسئلة شائعة</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=9&language=ar" id="footer_rptmainFooterLink_rptchildlinks_3_aLink_2">إرشادات لإستعمال الموقع</a></li>
+                                                
+                                                    <li><a href="/Newspage.aspx?lang=ar" id="footer_rptmainFooterLink_rptchildlinks_3_aLink_3">أخبار التشريع في قطر</a></li>
+                                                
+                                                    <li><a href="CustomPage.aspx?id=8&language=ar" id="footer_rptmainFooterLink_rptchildlinks_3_aLink_4">روابط ذات صلة</a></li>
+                                                
+                                        </ul>
+                                    </div>
+                                </div>
+                            
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="auto-container clearfix">
+            <!--Copyright-->
+            <div class="copyright pull-right">
+                <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
+                    property="dct:title" rel="dct:type">
+                    حقوق الموقع محفوظة </span><a target="_blank" class="FooterLinkCC"
+                        xmlns:cc="http://creativecommons.org/ns#" href="http://www.moj.gov.qa" property="cc:attributionName"
+                        rel="cc:attributionURL">   وفقا  </a>
+                
+                <a target="_blank" rel="license" href='http://creativecommons.org/licenses/by/3.0/deed.ar'>
+                    لرخصة المشاع الابداعى لنسب المصنف 3.0</a>
+            </div>
+
+            <div class="copyright pull-left">
+                <a>
+                    © حكومة دولة قطر &nbsp;2021.
+                </a>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+            <div id="myModal" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <form class="form-signin mg-btm">
+                            <h3 class="heading-desc"></h3>
+                            <div class="social-box">
+                                <div class="row mg-btm">
+                                    <div class="col-md-12">
+                                        <a href="#" class="btn btn-primary btn-block" onclick="loginByFacebook();">
+                                            <i class="fa fa-facebook"></i>Login with Facebook
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <a href="#" class="btn btn-danger btn-block" onclick="loginGoogle();">&nbsp;<i class="fa fa-google"></i>Login with Google
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ContentPlaceHolder1_req1"), document.getElementById("ContentPlaceHolder1_RequiredFieldValidator1"), document.getElementById("ContentPlaceHolder1_RequiredFieldValidator2"), document.getElementById("ContentPlaceHolder1_RequiredFieldValidator3"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ContentPlaceHolder1_req1 = document.all ? document.all["ContentPlaceHolder1_req1"] : document.getElementById("ContentPlaceHolder1_req1");
+ContentPlaceHolder1_req1.controltovalidate = "ContentPlaceHolder1_txtName";
+ContentPlaceHolder1_req1.errormessage = "*";
+ContentPlaceHolder1_req1.validationGroup = "SendComm";
+ContentPlaceHolder1_req1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_req1.initialvalue = "";
+var ContentPlaceHolder1_RequiredFieldValidator1 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator1"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator1");
+ContentPlaceHolder1_RequiredFieldValidator1.controltovalidate = "ContentPlaceHolder1_txtPhone";
+ContentPlaceHolder1_RequiredFieldValidator1.errormessage = "*";
+ContentPlaceHolder1_RequiredFieldValidator1.validationGroup = "SendComm";
+ContentPlaceHolder1_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator1.initialvalue = "";
+var ContentPlaceHolder1_RequiredFieldValidator2 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator2"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator2");
+ContentPlaceHolder1_RequiredFieldValidator2.controltovalidate = "ContentPlaceHolder1_txtemail";
+ContentPlaceHolder1_RequiredFieldValidator2.errormessage = "*";
+ContentPlaceHolder1_RequiredFieldValidator2.validationGroup = "SendComm";
+ContentPlaceHolder1_RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator2.initialvalue = "";
+var ContentPlaceHolder1_RequiredFieldValidator3 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator3"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator3");
+ContentPlaceHolder1_RequiredFieldValidator3.controltovalidate = "ContentPlaceHolder1_txtcomment";
+ContentPlaceHolder1_RequiredFieldValidator3.errormessage = "*";
+ContentPlaceHolder1_RequiredFieldValidator3.validationGroup = "SendComm";
+ContentPlaceHolder1_RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator3.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('ContentPlaceHolder1_req1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_req1'));
+}
+
+document.getElementById('ContentPlaceHolder1_RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_RequiredFieldValidator1'));
+}
+
+document.getElementById('ContentPlaceHolder1_RequiredFieldValidator2').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_RequiredFieldValidator2'));
+}
+
+document.getElementById('ContentPlaceHolder1_RequiredFieldValidator3').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_RequiredFieldValidator3'));
+}
+//]]>
+</script>
+</form>
+    </div>
+    <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="icon fa fa-caret-up"></span></div>
+    <script src="js/ar/jquery.js"></script>
+    <script src="js/ar/bootstrap.min.js"></script>
+    <script src="js/ar/selectize.min.js"></script>
+    <script src="js/ar/jquery.matchHeight.js"></script>
+    <script src="js/ar/jquery.easypiechart.js"></script>
+    <script src="js/ar/revolution.min.js"></script>
+    <script src="js/ar/jquery.fancybox.pack.js"></script>
+    <script src="js/ar/jquery.fancybox-media.js"></script>
+    <script src="js/ar/jquery.treemenu.js"></script>
+    <script src="js/ar/isotope.js"></script>
+    <script src="js/ar/owl.js"></script>
+    <script src="js/ar/wow.js"></script>
+    <script src="js/ar/script.js"></script>
+    <script src="js/ar/breakingNews.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            sessionStorage.grayscale == "true" ? $("body").addClass("grayscale") : $("body").removeClass("grayscale");
+            $('.contrast').on('click', function (e) {
+                $('body').toggleClass('grayscale');
+                sessionStorage.grayscale = $("body").hasClass("grayscale");
+                e.preventDefault();
+            });
+        });
+    </script>
+    <script type="text/javascript" src="js/ar/marquee.js"></script>
+    <script>
+        $(function () {
+            $('.simple-marquee-container').SimpleMarquee();
+        });
+		</script>
+    <script type="text/javascript">
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1996682727245106',
+                status: true, // check login status
+                cookie: true, // enable cookies to allow the server to access the session
+                xfbml: true, // parse XFBML
+                oauth: true // enable OAuth 2.0
+            });
+        };
+        (function () {
+            var e = document.createElement('script'); e.async = true;
+            e.src = document.location.protocol +
+            '//connect.facebook.net/en_US/all.js';
+            document.getElementById('fb-root').appendChild(e);
+        }());
+
+        function loginByFacebook() {
+            FB.login(function (response) {
+                if (response.authResponse) {
+                    FacebookLoggedIn(response);
+                } else {
+                    console.log('User cancelled login or did not fully authorize.');
+                }
+            }, { scope: 'user_birthday,user_hometown,user_location,email' });
+        }
+
+        function FacebookLoggedIn(response) {
+            var loc = 'callback.aspx';
+            if (loc.indexOf('?') > -1)
+                window.location = loc + '&authprv=facebook&access_token=' + response.authResponse.accessToken;
+            else
+                window.location = loc + '?authprv=facebook&access_token=' + response.authResponse.accessToken;
+        }
+
+        function loginGoogle() {
+            location.href = "CallBackgoogle.aspx";
+        }
+
+
+
+    </script>
+    <script type="text/javascript">
+        function OpenPoolDiv() {
+            $("#exampleModal").modal('show');
+        }
+    </script>
+
+
+</body>
+
+</html>
