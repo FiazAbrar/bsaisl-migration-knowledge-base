@@ -4,3 +4,5 @@ __pycache__/
 ~$*
 *.docx.tmp
 pandoc.md
+countries/*/*.pdf
+agencies/*.pdf
