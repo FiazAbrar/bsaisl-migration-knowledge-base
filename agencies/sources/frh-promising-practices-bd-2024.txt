@@ -1,0 +1,254 @@
+ ILO brief
+  Promising practices for fair recruitment                                                                              1
+
+
+
+
+   Note de synthèse
+
+November 2024
+
+
+Bangladesh: Digitised management
+of recruitment agencies
+
+ Key points
+
+ Bangladesh has adopted a digital recruitment                 Since its inception in 2022, the RAIMS system now
+  monitoring platform: the Recruiting Agents' Information       holds the information of over 1,700 recruitment
+  Management System (RAIMS) to create a more                    agencies.
+    transparent recruitment and recruitment monitoring
+    process with greater oversight of recruitment agencies
+    and other intermediaries.
+
+
+
+
+    Focus
+                                                              skilled or low-skilled roles. Although labour migration from
+    FRI pillar: Improving laws, policies and
+                                                              Bangladesh is traditionally male-dominated, the number of
+    enforcement to promote fair recruitment;
+                                                              women migrant workers has steadily increased over the
+    Empowering and protecting workers                         years. The Ministry of Expatriates Welfare and Overseas
+    Country: Bangladesh                                       Employment sets the migration policy to regulate labour
+                                                              migration.
+    Responsible organization(s): Bangladesh
+                                                              At the same time, the Bureau of Manpower Employment
+    Bureau of Manpower, Employment and Training
+                                                              and Training (BMET), Wage Earners Welfare Board (WEWB),
+    (BMET)
+                                                              the Bangladesh Overseas Employment and Services Ltd
+                                                              (BOESL) and Probashi Kallyan Bank (a state-owned
+                                                              specialised bank for migrants) cover specific aspects of
+The labour migration and fair                                 labour migration governance and services to migrant
+                                                              workers. BMET also oversees the recruitment process by
+recruitment context in Bangladesh
+                                                              registering and regulating private recruitment agencies
+Bangladesh is a significant country of origin for migrant     and jobseekers, and processing emigration clearance for
+workers in the Gulf Cooperation Council (GCC) countries.      departing migrant workers.
+Labour migration is a significant contributor to the growth
+of the Bangladeshi economy, as migrant remittances
+contribute a substantial proportion of foreign exchange to
+Bangladesh. Most Bangladeshi migrant workers are
+circular migrants engaging in temporary or cyclical labour
+migration to undertake low-wage employment in semi-
+ Note d’information de l’OIT                                                                                                                         2
+      Bangladesh: Digitised management of recruitment agencies
+
+
+
+
+                                                                                 improve their recruitment practices. Finally, a user
+Description of practice
+                                                                                 notification system helps facilitate               communication
+ILO research1 has highlighted the utility of digital processes                   between BMET and recruiting agents.
+in streamlining multiple layers of the bureaucratic
+                                                                                  Table 1 - ILO good practice recommendations for
+migration process, which could, in turn, eliminate
+                                                                                   digital recruitment platforms
+unscrupulous practices and close protection gaps where
+unfair recruitment practices could occur. Hereby are some
+examples of ILO's good practice recommendations for                               While digitisation is important, it is not a standalone
+digital recruitment platforms.                                                     solution to recruitment-related violations. As such, it
+                                                                                    should be complemented by on-the-ground efforts
+Bangladesh has adopted a digital recruitment monitoring                             with critical migration and recruitment stakeholders
+platform: the Recruiting Agents' Information Management                             to respond to recruitment-related abuse.
+System (RAIMS), operated by the Bangladesh Bureau of
+Manpower, Employment and Training (BMET), with funding                            Governments should work to ensure digital inclusion
+support from the Swiss Agency for Development and                                  across employers, recruitment agents and other third
+Cooperation (SDC) and technical support from the ILO in                            parties and migrants. This requires that governments
+Bangladesh. It aims to create a more transparent                                    make digital recruitment platforms more accessible
+recruitment and recruitment monitoring process with                                 to all. This can be achieved through sensitisation
+greater oversight of recruitment agencies. As of 2023, there                        programs, digital literacy trainings, and increased
+are over 1,300 recruitment agencies registered on the                               language options to ensure that marginalised groups
+RAIMS      platform.     Agencies    can     apply      for                         are not left out.
+accreditation/licensing and follow up on their application                        Successful digital recruitment initiatives should be
+processes on the platform. The RAIMS platform is a product                         scaled up to include other platforms, labour
+of a public-private partnerships between Bangladeshi                               migration stakeholders, similar initiatives in
+authorities and the private sector. While the platform is                           destination and origin countries (peer-to-peer
+owned by BMET, the private recruitment agencies have                                exchanges), and other migration services.
+access to the system. For example, the Bangladesh
+                                                                                  Governments should avoid duplication of digital
+Association of International Recruiting Agencies (BAIRA),
+                                                                                    initiatives unnecessarily and encourage
+an association of recruiting agencies, is also an important
+                                                                                    interoperability between different platforms.
+contributor to the operationalization of the RAIMS.
+                                                                                  Ensure that digital platforms adhere to the
+The       centralization       of    private      recruitment        agency
+                                                                                   international labour standards on labour migration
+monitoring through the RAIMS system enables quicker
+                                                                                   and fair recruitment principles, including the General
+identification of recruitment irregularities. For example,
+                                                                                    Principles and Operational Guidelines for Fair
+RAIMS provides a “role-based user authentication system”
+                                                                                    Recruitment and Definition of Recruitment Fees and
+with a dynamic dashboard where users of the RAIMS can
+                                                                                    Related Costs.
+verify the status and information of private employment
+agencies (PEAs). The information is added by recruiting                           Digital recruitment platforms should be regularly
+agents for data transparency and vetted by the                                     monitored to ensure their optimal usage and that the
+administrator from the BMET for data accuracy. In addition,                         information available is current and correct.
+the system enables easy search access for information on
+                                                                                 *For more on good practice recommendations on using digital
+any recruiting agent through a customised reporting                              recruitment platforms, see ILO (2021) Use of digital technology in
+system. Moreover, the Government has commenced a                                 the recruitment of migrant workers and ILO and IOM (2020)
+process to classify PEAs on the RAIMS platform following a                       Promoting fair and ethical recruitment in a digital world: Lessons
+                                                                                 and policy options
+set of indicators (see section below for more details). This
+classification process could enable easier enforcement of
+fair recruitment principles and incentivize existing PEAs to
+
+
+
+1
+    ILO (2021) Use of digital technology in the recruitment of migrant workers
+ Note d’information de l’OIT                                                                                                                        3
+  Bangladesh: Digitised management of recruitment agencies
+
+
+
+
+The ILO General Principles and Operational Guidelines of Fair
+                                                                            Principle 5 - Regulation of employment        Use of digital labour
+Recruitment provide guidance on promoting and ensuring                      and recruitment activities should be clear    inspection tools and
+fair recruitment practices. These guidelines also include                   and transparent, and effectively enforced.    information systems for
+                                                                            The role of the labour inspectorate and       standardisation, data
+specific recommendations on the use of technology, such as
+                                                                            the use of standardised registration,         storage and processing.
+developing government websites                   containing relevant        licensing or certification systems should
+information on fair recruitment                  policies, legislation,     be highlighted.
+regulation and processes; and implementing information
+technology to ensure that employment contracts are                          Principle 6 - Recruitment across              Enable institutional
+                                                                            international borders should respect the      actors, such as border
+respected. However, the role of technology in fair
+                                                                            applicable national laws, regulations, … of   enforcement, to screen
+recruitment goes beyond these specific recommendations.                     countries of origin, transit and              for, monitor and record
+Information and communication technologies (ICTs) play a                    destination and internationally               violations.
+                                                                            recognised human rights, including the
+role in realizing all 13 General Principles through digitization
+                                                                            fundamental principles and rights at
+and automation of administrative procedures, digital                        work, and relevant international labour
+information management systems, mobile applications and                     standards.
+websites, enhanced communication, and online service
+provision. In some cases, digital technology may represent a                Principle 7 - No recruitment fees or          Maintenance of digital
+                                                                            related costs should be charged to, or        records of financial
+primary solution, while in others, it may underpin
+                                                                            otherwise borne by, workers or                transactions.
+interactions between recruitment stakeholders and have                      jobseekers
+secondary effects across multiple principles. Below are some
+links between digital technology and the General Principles                 Principle 8 - The terms and conditions of     Secure storage of
+and Operational Guidelines for Fair Recruitment.                            a worker’s employment should be               original contracts.
+                                                                            specified in an appropriate, verifiable and
+ Table 2 – The links between digital technology and                        easily understandable manner, and
+                                                                            preferably through written contracts in
+  the ILO General Principles and Operational
+                                                                            accordance with national laws,
+  Guidelines for Fair Recruitment                                           regulations, employment contracts and
+                                                                            applicable collective agreements.
+   ILO General Principles and Operational       Potential role of digital
+   Guidelines for Fair Recruitment              technology                  Principle 9 - Workers’ agreements to the      Online support services
+                                                                            terms and conditions of recruitment and       and consultation.
+   Principle 1 - Recruitment should take        Enable social dialogue,     employment should be voluntary and
+   place in a way that respects, protects and   collective voice, and       free from deception or coercion.
+   fulfils internationally recognised human     worker organisation.
+   rights, including those expressed in                                     Principle 10 - Workers should have            Websites/mobile phone
+   international labour standards.                                          access to free, comprehensive and             applications containing
+                                                                            accurate information regarding their          information on rights
+   Principle 2 – Matching recruitment to        Capture and analyse         rights and the conditions of their            and general
+   meet established labour market needs.        data to better              recruitment and employment                    employment conditions.
+                                                understand market
+                                                needs.                      Principle 11 - Freedom of workers to          Secure digital
+                                                                            move within a country or to leave a           repositories for storing
+   Principle 3 - Appropriate legislation and    Enhance the capacity of     country should be respected. No               copies of contracts and
+   policies on employment and recruitment       enforcement measures.       confiscation, retention or destruction of     identity documents.
+   should apply to all workers, labour                                      workers’ identity documents and
+   recruiters and employers.                                                contracts.
+
+
+   Principle 4 - Recruitment should take into   Automation and              Principle 12 - Workers should be free to      Gather information,
+   account policies and practices that          digitalisation of           terminate their employment and, in the        access consular
+   promote efficiency, transparency and         administrative              case of migrant workers, to return to         services, and request
+   protection for workers in the process,       procedures; online skill    their country.                                repatriation.
+   such as mutual recognition of skills and     assessments.
+   qualifications.                                                          Principle 13 – Access to free or affordable   Online grievance
+                                                                            grievance and other dispute resolution        mechanisms.
+                                                                            mechanisms.
+ Note d’information de l’OIT                                                                                                        4
+  Bangladesh: Digitised management of recruitment agencies
+
+
+
+
+                                                                              5.   Percentage of migrant workers who use the formal
+   *For more on the role of ICT and digital technologies in fair
+   recruitment, please see: ILO (2021) Use of digital technology in the            channel for the transaction of migration costs to
+   recruitment of migrant workers.                                                 recruiting agents in the last three years.
+                                                                              6.   Number of skills training centres under the
+                                                                                   recruiting agents and functionalities of the
+Proof of impact/progress                                                           centres.
+    •     Since its inception in 2022, the RAIMS system now                   7.   Availability of recruiting agency-specific website
+          holds the information of over 1,700 recruitment                          and functional digital system for data
+          agencies.                                                                management.
+    •     BMET has channelled all its services to recruitment                 8.   Educational qualification of the recruiting agency’s
+          agencies, including licensing through the RAIMS                          officials.
+          platform, which incentivises agencies to register                   9.   Years of experience of the recruiting agents.
+          on the platform and strengthens BMET's                              10. Migration costs borne by the recruiting agencies
+          monitoring capacity.                                                    (number of migrant workers sent without any
+                                                                                  migration cost).
+Promising Features                                                            11. Office equipment, location, security and facilities
+                                                                                  of the recruiting agents.
+The Government of Bangladesh enacted the Recruiting
+                                                                              12. Establishment of branch offices at district and sub-
+Agents Classification Rule in 2020. The Rule detailed the
+                                                                                  district levels.
+classification system of recruiting agents with 14 indicators.
+                                                                              13. Management of complaints redress mechanisms.
+BMET then can collect recruitment agency information
+                                                                              14. Recruiting agents' integrity, reputation         and
+from the RAIMS system and classify recruitment agencies
+                                                                                  respect for rules and regulations.
+according to the 2020 Rule based on the indicators listed
+below.                                                                    An Evaluation Committee consisting of nine members,
+                                                                          presided over by an Additional Secretary of MoEWOE, will
+    1.    Number of migrant workers sent in the last three
+                                                                          be formed by the MoEWOE to classify the recruitment
+          years by the recruiting agent.
+                                                                          agencies based on the information and data retrieved from
+    2.    Categorisation of skills of the migrant workers in
+                                                                          the RAIMS and as vetted by BMET.
+          the last three years (skilled/semi-skilled/unskilled).
+    3.    Number of migrant workers sent by demand
+          letters in last three years.                                    Resources
+    4.    Number of migrant workers sent in last three                    RAIMS website - https://raims.bmet.gov.bd/login
+          years following the migrant cost as set by the
+                                                                          Government of Bangladesh Recruiting Agents
+          Government.
+                                                                          Classification Rule 2020
+
+
+
+
+                                                                                              © International Labour Organization 2024
+

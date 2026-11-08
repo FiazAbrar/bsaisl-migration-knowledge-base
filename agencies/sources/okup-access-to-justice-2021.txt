@@ -1,0 +1,2012 @@
+1   Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+                                      Access to justice
+                                      for Bangladeshi
+                                      migrant workers:
+                                      Opportunities and
+                                      challenges
+
+
+
+
+                                                                                      MARCH 2021
+2       Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+Access to justice for
+Bangladeshi migrant workers:
+Opportunities and challenges
+Shakirul Islam | March 2021
+
+
+
+
+           About the authors
+
+    n Shakirul Islam                                    n 	 Contributors
+    Shakirul Islam is a migrant activist and a          Mosharaf Hossain, Case Documentation
+    researcher. Shakirul is the founding chair of       Limon Islam, Legal Expert
+    Ovibashi Karmi Unnayan Program (OKUP), a            Mobashira Akhi, Case Management
+    grassroots migrants’ organisation in Bangladesh.    Nazmun Naher Shishir, Research and
+                                                        Advocacy Manager
+
+
+
+
+This publication was produced with the financial support of the
+European Union. Its contents are the sole responsibility of OKUP
+and do not necessarily reflect the views of the European Union.
+
+
+
+Copyright © OKUP
+Ovibashi Karmi Unnayan Program (OKUP)
+466, Sawdagor Garden (4th Floor)
+Donia Post Office Road, Jatrabari
+Dhaka – 1236, Bangladesh
+
+Telephone: +88 02 7553737
+Email: okup.ent@gmail.com
+www.okup.org.bd
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges   3
+
+
+
+
+        Acknowledgements
+
+We acknowledge the contribution of all the
+Bangladeshi women migrant workers for their
+relentless hard work and courage. To support their
+families, they move abroad with dreams of living
+a better life and often end up facing considerable
+challenges and ordeals. Many of them are burdened
+with overwork, an unjust payment system and
+unhealthy living conditions. Above all, many of them
+are survivors of gender-based violence, physical
+and psychological abuse. To fulfil their dreams of
+becoming independent women who live life with
+dignity they often risk their lives. Every year, women
+migrant workers return home wounded and empty
+handed, facing a lifelong battle to overcome the
+trauma they have experienced.
+
+We express our gratitude to all those women who
+show the courage and veracity to go abroad for
+work. OKUP is empathetic and supportive to all the
+returnee women migrants who returned empty
+handed, abused, and injured. We are thankful to
+colleagues from OKUP and CAFOD, especially
+Richard Sloman, Hannah Griffiths and Jennifer
+McCarthy who contributed to this report.
+
+This report would not have been possible without
+the funding from the European Instrument for
+Democracy and Human Rights (EIDHR) and the
+Catholic Agency For Overseas Development
+(CAFOD) to OKUP for the project “Empowerment
+of women and girl migrant workers, communities
+and key institutions to protect and promote migrant
+workers’ rights and access to justice”. The project
+aims to ensure improved justice mechanisms
+for women and girl migrant workers both in
+Bangladesh and the countries of destination.
+                 Access to justice for Bangladeshi migrant workers: Opportunities and challenges   5
+
+
+
+
+Contents
+
+Executive summary                                                                            6
+
+Background and objectives                                                                    6
+
+Scope, methodology and limitations                                                           6
+
+Key findings                                                                                 7
+
+Key strengths and challenges in access to justice                                            8
+
+Recommendations                                                                              9
+
+1. Introduction                                                                             10
+
+1.1 Background                                                                              10
+
+1.2 Objectives                                                                              10
+
+1.3 Scope                                                                                    11
+
+1.4 Methodology                                                                              11
+
+1.5 Limitations                                                                              11
+
+2. Overview of women migration in Bangladesh                                                12
+
+3. Key findings                                                                             14
+
+3.1 Personal profiles of the research participants                                          14
+
+3.2 Reasons for migration                                                                   14
+
+3.3 Recruitment history of returnee women migrant workers                                   15
+
+3.4 Violations faced by women migrant workers during recruitment and employment             17
+
+3.5 Consequences of violations on the returnee women migrant workers                        19
+
+3.6 Access to justice for returnee women migrant workers                                    21
+
+4. Access to justice: Opportunities and challenges                                          26
+
+4.1 Opportunities                                                                           26
+
+4.2 Challenges                                                                              27
+
+      4.2.1 Challenges in arbitration                                                       27
+
+      4.2.2 Challenges in court cases                                                       30
+
+5. Recommendations                                                                          35
+
+About OKUP                                                                                  38
+
+
+
+
+Photo: © OKUP
+6       Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+        Executive summary
+
+Background and objectives                                This research aims to highlight the practical
+                                                         challenges faced by migrant workers, especially
+Economic hardship is the main reason for overseas
+                                                         women, in seeking justice through BMET arbitration
+migration for both men and women. However, the
+                                                         and the courts. These challenges are highlighted
+research exposed gender-based violence resulting in
+                                                         to assist key stakeholders and duty bearers to
+divorce and separation as vital reasons why almost
+                                                         understand how the justice mechanisms for migrant
+one fifth of migrant workers from Bangladesh are
+                                                         workers can be improved within the purview of the
+women. Women migrants not only contribute to
+                                                         existing laws and policies. The specific objectives
+their families through investment in food security,
+                                                         of the research are:
+health and education, the remittances they send
+make a significant contribution to the overall           n To understand the causes and consequences
+economic development of the country.                      of rights violations of the women migrant
+                                                          workers, most of whom have migrated for
+The Government of Bangladesh has adopted                  domestic work in the Middle East
+laws and policies for the protection of the rights of
+                                                         n To expose opportunities and challenges in
+migrant workers with a special emphasis on female
+                                                          existing justice mechanisms in the ‘arbitration’
+migration. The Overseas Employment and Migrants
+                                                          and in the court
+Act (OEMA) 2013 ensures migrant workers’ rights
+to seek criminal prosecution for any offence under       n To present recommendations to improve the
+the Act. The Act allows any aggrieved person to file      existing justice mechanisms for the migrant
+a complaint against any fraud, extortion or a breach      workers in the country
+of contract against any person including a
+recruitment agent.                                       Scope, methodology and limitations
+                                                         This action research reviewed the experiences of
+The Government has established an ‘arbitration cell’
+                                                         the survivor women migrant workers who went
+under the Bureau of Manpower and Employment
+                                                         through mental and physical abuse, exploitation
+(BMET) to provide a structural Alternative Dispute
+                                                         and violation of rights during recruitment and
+Resolution (ADR) system without forsaking the right
+                                                         employment in the destination countries and the
+to file a civil suit. However, without improvements
+                                                         consequences they went through upon return.
+in the institutional mechanism and implementation
+                                                         The report critically analyses the ability of women
+of this, accessing justice and reaching fair solutions
+                                                         migrant workers in filing cases/complaints in the
+for migrant workers, particularly women, remains
+                                                         existing justice mechanisms such as the ‘court’ or
+a challenge. The lack of proper implementation
+                                                         the BMET ‘arbitration’ and the challenges they faced
+of the law and the policy continue to make
+                                                         in accessing fair and equitable justice.
+the recruitment system in Bangladesh unfair and
+unsafe. Unethical recruitment practices make
+                                                         The research is primarily based on in-depth case
+migrant workers, especially women, more vulnerable
+                                                         documentation of 262 returnee women migrant
+in the migration cycle.
+                                                         workers who returned home as survivors of
+                                                         exploitation and abuse during recruitment and
+                                                         employment in the Middle Eastern countries.
+                                                         Each case was identified by peer migrant networks
+                                                         mainly from four districts – Faridpur, Narsingdi,
+                                                         Munshigonj and Narayangonj and documented
+                                                         by gathering testimonies together with available
+                                                         documents and evidence. The research also follows
+                                                         and systematically documents 123 arbitration cases
+                                                         and six court cases filed by the women migrant
+                                                         workers in Narsingdi, Faridpur and Dhaka districts
+                                                         of Bangladesh.
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges         7
+
+
+
+
+                                                          mechanism for migrant workers in Bangladesh
+                                                          only and not the justice system available in
+                                                          destination countries.
+
+                                                          Key findings
+                                                          This research highlights how the nexus of agents
+                                                          and sub-agents entice the women to migrate by
+                                                          providing false promises and information and take
+                                                          unlawful measures to send women abroad in the
+                                                          name of better opportunities for employment. They
+                                                          prey on the vulnerable socio-economic condition
+                                                          of the women to trap them in the migration cycle.
+                                                          The research found 7 per cent of the 262 women
+                                                          surveyed were under the age of 24 (the legal age
+                                                          required to migrate) while 3 per cent were children
+                                                          below the age of 18.
+
+                                                          The research also found 24 per cent of the women
+                                                          were provided with an ‘emigration clearance card’
+                                                          without their participation in the mandatory pre-
+                                                          departure training organised by the Government-
+                                                          run technical training centers, while 17 per cent were
+“I returned with critical mental health issues.
+                                                          sent with forged medically fit certificates. Nearly
+OKUP helped me to get treatment but I did not get
+                                                          88 per cent of the women were not provided with
+justice for what made my life hell.” Photo: © OKUP
+                                                          a written job contract in time, or with appropriate
+                                                          translation and orientation. The women migrant
+                                                          workers are supposed to be recruited with ‘zero’ fees,
+A critical review of the Overseas Employment and
+                                                          but 65 per cent of the women paid between BDT
+Migrants Act 2013, Expatriate Welfare and Overseas
+                                                          5,000 and BDT 150,000 (US$ 60 – 1,785) to migrate.
+Employment Policy 2016, Overseas Employment
+and Migration Management Rules 2017, the
+                                                          This research also found around 58 per cent of the
+Prevention of Human Trafficking and Suppression
+                                                          women migrant workers were forced to return
+Act 2012, international instruments particularly
+                                                          home within the first year of their migration though
+Global Compact on Migration as well as relevant
+                                                          the duration of the initial contract was two years.
+research and publications was also completed
+                                                          The majority of the returnee women migrant
+to prepare the report.
+                                                          workers claimed to have faced horrific struggles
+                                                          including being overworked, having long working
+The research focused on understanding the
+                                                          hours, being deprived of food, facing physical and
+challenges that women migrant workers face
+                                                          psychological torture, and sexual abuse which
+during recruitment and employment. Therefore,
+                                                          resulted in them being forced to return. 27 per cent
+the research explicitly covered women migrants
+                                                          of the returnee women migrant workers claimed
+who approached OKUP for legal assistance.
+                                                          illness caused by physical and psychological torture
+                                                          and abuse were among the key reasons for their
+The research only focuses on the women who
+                                                          premature return.
+received legal assistance from OKUP in 2019,
+however it highlights the gravity of the violations and
+the consequences for the women migrant workers.
+The data might never reflect the whole picture of
+the women migrant workers. The research only
+covered domestic women migrant workers and not
+women who work in other sectors like the apparel
+industry. This research focuses on the existing justice
+8          Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+Key strengths and challenges                                            Challenges
+in access to justice                                                    n Migrant workers regularly become the victim
+                                                                          of fraud and extortion or face a breach of their
+Strengths                                                                 contract. The OEMA 2013 has defined these acts as
+n The Government of Bangladesh has enacted the                           a punishable offence. However, all these offences
+  OEMA 2013 as a special law to regulate recruitment                      fall under the article of 31 (a), (b), (c), (d) of the
+  in the overseas employment process and ensure                           OEMA 2013 which are bailable, non-cognisable and
+  migrant workers’ access to justice. In addition, the                    compoundable. The provision of offering ‘bail’ to
+  OEMA 2013 supplements the Prevention of Human                           the offender is a big weakness of the Act which
+  Trafficking and Suppression Act 2012 (PSHTA).                           puts the migrant workers and their families under
+                                                                          physical threat from the offender.
+n Both the OEMA 2013 and PSHTA 2012 are built on
+    the principle of victim-centric restorative justice.                n According to the testimonies of the 262 returnee
+                                                                         women migrant workers, 95 per cent of all
+n The OEMA 2013 aims to ensure migrant workers’
+                                                                         recruitment for overseas jobs takes place with
+    physical access to the justice delivery system
+                                                                         the assistance of field-level sub-agents who are
+    both in the formal court (Art. 28) and in the
+                                                                         unofficially engaged with the licensed recruiting
+    quasi-judicial system known as the ‘arbitration’
+                                                                         agents as a chain in layers. The OEMA 2013 does
+    system (Art. 41) by filing cases/complaints against
+                                                                         not recognise the presence of the sub-agent in
+    any person including recruiting agents for any
+                                                                         the recruitment process.
+    offence under the Act (Art 31, 32, 33, 34, 35).
+                                                                        n The OEMA 2013 framed a trial period of 120 days
+n The OEMA 2013 ensures imprisonment and
+                                                                         with maximum extension of 60 days from the date
+    monetary penalties for the recruiting agent or any
+                                                                         of framing the charge against the offender. The Act
+    person convicted of committing the offence.
+                                                                         has not fixed any period for investigation, which
+n The OEMA 2013 makes the recruiting agent and                          results in long processes that weakens the morale
+    employer severally and jointly liable in the event                   of the migrants to continue with the process.
+    of a breach in the condition(s) of the employment
+                                                                        n The absence of a dedicated arbitral tribunal
+    contract which stipulates wages, accommodation
+                                                                         as well as a pool of expert ‘arbitrators’ causes
+    facilities, duration of employment, compensation
+                                                                         a huge challenge to ensure transparency and
+    amount in the event of death or injury, cost of
+                                                                         accountability in accessing justice through
+    migration to and return etc. (Art. 22)
+                                                                         arbitration.
+n The OEMA 2013 allows the arbitrator to conduct an
+                                                                        n The OEMA 2013 has no provision for the protection
+    investigation of any complaints of fraud, extortion
+                                                                         of victims or witnesses. Migrant workers face
+    or a breach of employment contract filed by
+                                                                         threats and risks not only in the court but also
+    migrant workers and resolves the complaints
+                                                                         during arbitration. They face further exploitation
+    directly or through ‘arbitration’ (salish). This is an
+                                                                         and humiliation in seeking justice which is a
+    inquisitorial justice system where the arbitrator
+                                                                         clear violation.
+    can directly investigate and declare ‘arbitral
+    award’. Here the arbitration has the opportunity                    n In 2020 the Government established a Special
+    to deploy his/her inquisitorial minds as s/he can                    Tribunal for Human Trafficking Cases at divisional
+    declare arbitral award depending upon his/her                        level but the tribunal needs to be established at
+    investigation findings.                                              district level for easy access by the victims.
+                                                                        n The OEMA 2013 specified that the cases for the
+                                                                         violation of the Act will be filed in the Chief Judicial
+                                                                         Magistrate’s Court and/or Chief Metropolitan
+                                                                         Magistrate’s Court. However, these courts are
+                                                                         overburdened with numerous cases. Around
+                                                                         3.5 million cases remain pending in the lower
+1.  https://www.thedailystar.net/country/news/more-3582-lakh-cases-    court annually.1 Therefore, justice gets delayed.
+   now-pending-law-minister-bangladesh-1758820
+                        Access to justice for Bangladeshi migrant workers: Opportunities and challenges         9
+
+
+
+
+n Bangladesh missions and labour wings are
+  supposed to provide all support and assistance
+  including legal aid to the migrant workers abroad.
+  There is no official data available about the
+  number of complaints received by the labour
+  wings, how many of them provided legal aid
+  and how many migrant workers receive remedies
+  and compensation annually.
+
+
+Recommendations
+
+The Overseas Employment and Migrants’
+Act 2013 should:
+n Recognise the role of sub-agents and the need
+  for the sub-agents to be registered and brought
+  under an accountable and regulated system;
+n Include a new article relating to the protection
+  of victim migrant workers and their families/
+  witnesses;
+n Treat offences under Article 31 (a, b, c, d) as
+  cognisable, non-compoundable, and non-bailable;
+n Include migrant workers’ cases in the Special
+  Tribunal under the PSHTA 2012.
+
+
+The Ministry of Expatriate Welfare
+and Overseas Employment should:
+                                                           “I have rented some farmland with the money I received
+n Adopt separate comprehensive rules for                  through BMET arbitration. This has helped me to
+  ‘Arbitration’ as stipulated in the OEMA 2013             overcome my negative experiences in the migration
+  (sub-section 4 of Art. 41);                              cycle.” Photo: © OKUP
+
+n Ensure greater transparency through establishing
+  a ‘Separate Arbitral Tribunal’ as a separate wing,
+                                                           The Government should take the following
+  with a separate office and the necessary human
+                                                           actions to improve justice for migrant workers
+  resources including a pool of qualified ‘arbitrators’;
+                                                           in the destination countries:
+n Develop a comprehensive plan for improving
+                                                           n Increase human and financial resourcing for
+  the capacity of arbitrators and judges to deliver
+                                                            Labour Welfare Wings;
+  effective arbitrations. Training for judges should
+  be arranged through the judicial administration          n Develop a pool of lawyers within Labour Welfare
+  training Institute;                                       Wings, with expertise in labour/migrants’ law
+                                                            in destination countries, to provide legal aid to
+n Hold each party in the arbitration process
+                                                            distressed migrant workers;
+  accountable for their duties.
+                                                           n Establish a Power of Attorney mechanism
+                                                            whereby migrant workers can be represented in
+                                                            destination countries when facing deportation
+                                                            and forced return.
+10       Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+     1   Introduction
+
+1.1 Background                                             legal actions against them. Social stigma and
+                                                           shame felt in raising these cases, harassment and
+The Expatriate Welfare and Overseas Employment
+                                                           threats after filing legal cases, and victim blaming
+Policy 2016 of Bangladesh espoused the protection
+                                                           are all causes that demotivate and refrain women
+of migrant workers and families left behind as one
+                                                           migrant workers from filing criminal cases with the
+of its key objectives. The OEMA 2013 ensures migrant
+                                                           authorities. Keeping this harsh reality in mind, many
+workers’ right to seek a criminal prosecution for any
+                                                           migrant workers believe that impunity is common
+offence under the Act. The Act allows any aggrieved
+                                                           practice and they would not get the justice
+person to file a complaint against any fraud,
+                                                           they deserve.
+extortion or a breach of contract against any person
+including a recruitment agent. The Government
+                                                           Despite the good provisions within the relevant
+has established an ‘arbitration cell’ under the Bureau
+                                                           legislation, the lack of implementation and the lack
+of Manpower and Employment (BMET) for accessing
+                                                           of an improved institutional mechanism, that allows
+the structural Alternative Dispute Resolution
+                                                           migrant workers access to justice, remain critical
+(ADR) system without forsaking the right to file
+                                                           challenges in the protection of Bangladeshi
+a criminal case.
+                                                           migrant workers.
+The contribution to the economy made by
+                                                           This report is prepared following a critical analysis
+Bangladeshi migrant workers is well recognised
+                                                           of the cases of the returnee migrant workers
+nationally and internationally. The low flow of
+                                                           especially women who filed complaints in the BMET
+remittances in any quarter of the year creates a
+                                                           ‘arbitration’ and filed cases in the court. The overall
+great concern for the key stakeholders. Despite
+                                                           objective of the report is to bring forth the practical
+their considerable contribution to the overall
+                                                           challenges, in both BMET arbitration and the court
+development of the country, migrant workers are
+                                                           cases, faced by the migrant workers, especially
+not well protected. Unsuccessful migration causes
+                                                           women, for the purpose of assisting key stake-
+social and economic damage. The key reasons
+                                                           holders and the duty bearers for the improvement
+why migration for some women is unsuccessful
+                                                           of justice mechanisms for migrant workers within
+include having to face sexual and mental abuse,
+                                                           the purview of the existing laws and policies.
+exploitation, manipulation, and violation of rights
+during recruitment and employment. This has
+                                                           This is to note that this report is the second annual
+a critical impact on the individual workers and
+                                                           report published by OKUP on “Access to justice
+their families and has a longterm negative impact
+                                                           for Bangladeshi migrant workers: Opportunities
+on the country’s socio-economic development.
+                                                           and challenges”. The first report, published in 2019,
+Despite this, the issues of violations of rights and the
+                                                           highlighted the importance of the improvement of
+importance of accessing fair and equitable justice
+                                                           the arbitration process, creating wider awareness
+are rarely considered in the policy discourse.
+                                                           of the Act among the migrant workers, judges and
+                                                           lawyers, and extending the Government’s legal aid
+A database of women migrant workers who return
+                                                           services for the migrant workers.
+home empty handed with broken dreams, with
+critical psychological trauma or physical illness due
+                                                           1.2 Objectives
+to torture by the employers is yet to be put in place
+by the Bangladesh Government. Neither are there            With the aim of improving the institutional
+any improved institutional mechanisms for migrant          mechanism for migrant workers’ access to
+workers to file grievances with authorities either         appropriate justice and remedies, the report
+in the court or through ‘arbitration’. The migrant         concentrates on three immediate objectives:
+workers, including women, rarely have knowledge
+                                                           n To understand the causes and consequences
+about their legal rights under the provisions
+                                                            of the violation of rights of the women migrant
+of the OEMA 2013. They are often intimated by
+                                                            workers, most of whom migrate for domestic
+power holders in the migration cycle. OKUP have
+                                                            work in the Middle Eastern countries
+experience of women migrant workers trembling
+when disclosing the identity of the agent or taking
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges                              11
+
+
+
+
+n To expose opportunities and challenges in              Munshigonj and Narayangonj (OKUP project
+ existing justice mechanisms in the ‘arbitration’         working areas under the EU EIDHR project). The
+ and in the court                                         documentation of cases was conducted by following
+                                                          a semi-structured questionnaire. The quantitative
+n To present recommendations to improve the
+                                                          data of each case was input into a database on
+ existing justice mechanisms for the migrant
+                                                          Microsoft Excel. Narrative case studies were also
+ workers in the country
+                                                          prepared and preserved.
+1.3 Report scope                                          Once documented, each case was vetted by a legal
+One of the key principles of the Bangladesh               expert and assisted for filing as a case/ complaint
+Expatriate Welfare and Overseas Employment                in the court or the arbitration. Of those, 123 women
+Policy 2016 is to create equal opportunity for both       filed complaints to the BMET arbitration while six
+men and women. The policy emphasises human                women filed cases in the court. The research follows
+dignity of migrant workers, as well as safe and           the procedures and progress of the cases which
+decent work for women migrant workers. The laws           were filed in the BMET ‘arbitration’ and in the court
+and policies of the labour in destination countries       and documented regularly in a systematic method.
+also ensure decent work, safety and protection of
+migrant workers during the period of employment.          The research also reviews existing legal frameworks
+International instruments such as the Global              for migrant workers including the Overseas
+Compact on Migration emphasise fair and ethical           Employment and Migrants Act, Expatriate Welfare
+practices in recruitment of migrant workers to            and Overseas Employment Policy 2016, Overseas
+ensure ‘safe migration’ – which refers to the entire      Employment and Migration Management Rules 2017
+process of migration from departure to return,            and international instruments i.e. Global Compact on
+accessible services at every step of the work journey,    Migration, relevant researches and publications.
+in pre-departure procedures, at the airport, in transit
+and at the destination.2                                  1.5 Limitations
+                                                          The research only includes returnee women migrant
+This research highlights the experiences of the
+                                                          workers who received assistance and support from
+survivor women migrant workers who went through
+                                                          the project implemented by OKUP and does not
+sexual and psychological abuse, exploitation
+                                                          therefore include women who have not been able
+and violation of rights during recruitment and
+                                                          to access support or services on return.
+employment in the destination countries and the
+consequences they faced upon return. The report
+                                                          The research is focused on women migrant
+critically analyses the ability of women migrant
+                                                          workers who worked abroad as domestic workers.
+workers in filing cases/complaints in the existing
+                                                          The women migrant workers who worked in
+justice mechanism such as the ‘court’ and/or the
+                                                          other sectors, for example garments, as well as
+BMET ‘arbitration’, the challenges they faced and
+                                                          male migrant workers who are also exposed to
+the opportunities available within the purview
+                                                          abuse, exploitation and violation of rights during
+of the laws in getting fair and equitable justice.
+                                                          recruitment and employment, are strategically
+                                                          excluded in this research.
+1.4 Methodology
+This is an action research. The research is primarily     The research has followed the justice mechanism
+based on in-depth case documentation of 262               system for returnee migrant workers in Bangladesh
+returnee women migrant workers who returned               only. It did not have the scope or resources to
+home as survivors of exploitation and abuse               cover the justice system and the remedies in the
+during recruitment and employment in the Middle           destination countries.
+Eastern countries. The cases were identified by a
+peer network of returnee migrant workers as per
+a set criterion. The research follows a systematic
+documentation of cases provided through
+testimonies of survivor women migrant workers. The
+262 returnee women migrant worker’s cases were
+documented from four districts – Faridpur, Narsingdi,     2. OKUP 2019 (Shakirul Islam). “A Feminist Participatory Action Research:
+                                                             Safe and Fair Migration of Bangladeshi women migrant workers”
+12      Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+     2 Overview on women migration in Bangladesh
+
+Flow of women migrants                                     A number of Government initiatives, including the
+                                                           latest MoU signed with Saudi Arabia in 2015 on the
+The participation of women workers in overseas
+                                                           recruitment of women domestic workers, created
+labour migration from Bangladesh started in the late
+                                                           further scope for increasing the number of women
+1970s. The flow of female migration declined rapidly
+                                                           domestic workers. During the six years between
+in the 1980s and 1990s due largely to restrictions
+                                                           2014 and 2019, the numbers of women migrating
+and bans placed by the Government of Bangladesh
+                                                           increased by around 70 per cent compared to the
+in an effort to protect women from the hardships
+                                                           previous 10 years.
+and vulnerabilities brought about by migration. The
+state-run Bureau of Manpower Employment and
+                                                           Despite steadily increasing, the number of women
+Training (BMET) maintains a database of women
+                                                           migrations is less than that for men. The average
+migrant workers migrating through official channels
+                                                           increase of women migration compared to men
+with BMET clearance since 1991. The number of
+                                                           is 15 per cent over the last five years (2015 – 2019)
+undocumented women migrant workers abroad
+                                                           which was 10 per cent in the previous five years
+during this period of restrictions and bans from 1981
+                                                           (2010 – 2014).
+to 2004 are missing from this database.
+                                                           Major destination countries
+The analysis of BMET data3 shows that between
+                                                           of women migrant workers
+1991 and 2003, an average of 1,479 women migrated
+abroad annually for employment. Since the lifting          The women migrant workers from Bangladesh are
+of the ban and all forms of restrictions in 2003, the      sent to around 17 countries in the world. The majority
+flow of women migrant workers gradually increased          (around 97 per cent) of them are employed in the
+particularly when the age limit of women domestic          Middle Eastern countries – mainly in Saudi Arabia
+workers was reduced from 35 to 25 years in 2007.           (40 per cent), followed by Jordan (18 per cent), the
+During the first decade (2004-2013) after the lifting      UAE (15 per cent), Lebanon (12 per cent) and Oman
+of all forms of restrictions and bans, an average of       (10 per cent). The other Middle East countries are
+25,702 women left the country each year, through           Qatar (4 per cent), Kuwait (1 per cent) and Bahrain
+official channels, for employment abroad. Yearly           (0.48 per cent). Other than the Middle East countries,
+totals ranged from 11,259 women in 2004 to                 Mauritius is a popular destination country for
+56,400 women in 2013.                                      Bangladeshi workers.
+
+
+
+Diagram 1. Flow of women migration                         Table 1. Proportion of women migrant workers
+from Bangladesh 1991 to 2019                               and yearly rate of increase
+
+
+
+                                                                                                        Yearly %
+                                                                Number        Number         % of
+                                                                                                        increase
+                                                                of total     of women      women
+                                                                                                       of women
+                                                               migrations    migrations    migrants
+                                                                                                       migrants
+
+
+                                                        2015    555,881       103,718       18.65        36.46
+
+                                                        2016     757,731      118,088       15.58        13.85
+
+                                                        2017   1,008,525      121,925       12.08         3.25
+
+                                                        2018     734,181      101,695       13.85        -16.59
+
+                                                        2019    700,159      104,786        14.97         3.04
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges                            13
+
+
+
+
+Major occupations of women                              Later in 2012, the Government adopted the
+migrant workers                                         “Human Trafficking Prevention and Suppression
+                                                        Act in 2012” with the provision that the Act would
+The key occupation of the Bangladeshi women
+                                                        cover those engaged in migration of workers
+migrant workers is domestic work. Almost all Middle
+                                                        through false information. The Act also mentioned
+Eastern countries recruit domestic workers from
+                                                        that it would supplement with any legislation
+Bangladesh. Apart from domestic workers, Jordan
+                                                        relating to labour migration.
+recruits women garment workers from Bangladesh.
+Other than Jordan, Bangladeshi garment workers
+                                                        The Government of Bangladesh then adopted the
+are recruited in the apparel sector in Mauritius.
+                                                        “Overseas Employment and Migrants Act” in 2013.
+                                                        The Act provided recruitment responsibilities to
+Governance of women migration                           the authorised recruiting agents and asked them
+The labour migration used to be regulated by the        to open branch offices to reach out to potential
+Emigration Ordinance 1982 and the Emigration            migrant workers at the grassroots level. The Act
+Rules 2002 until the Government adopted the             disallows any sub-agent, broker or middleman to
+Overseas Employment and Migrants Act in 2013.           act in the supply chain of recruitment, makes the
+However, women’s migration was regulated by             licensed recruiting agents accountable and liable
+different Orders by the Government of Bangladesh.       and safeguards the migrant workers’ entitlements –
+The women migration was restricted or banned            salaries, benefits, compensations etc. – through
+from 1981 to 2003 in various forms. In 2003, the        a written job contract.
+Government lifted all forms of bans and restrictions
+and reopened migration for women domestic               The OEMA 2013 allows migrant workers to file cases
+workers aged 35 and over to Saudi Arabia for            in the court and seek criminal prosecution for any
+domestic work.                                          offence under the Act. The Act 2013 also allows
+                                                        the migrant workers to file complaints against
+The Government had set different provisions for         any person including a recruiting agent for any
+the women workers themselves (i.e. ‘No Objection        fraudulent activity such as charging Government
+Certificate’ from legal guardian), for the employers,   unapproved amounts for migration costs or a
+the recruiting agents as well as the Governments        breach of contract to the concerned Government
+of both Bangladesh and Saudi Arabia.4 However,          authority (here it is BMET). The Act defined the
+these provisions did not stop the recruiting agents     offences and ensured penalties for each offence.
+lying about the age of the women in their travel
+documents and forging the ‘No objection certificate’    The Government also adopted ‘Migration
+from the guardians, leaving many women migrant          Management Rules’ in 2017 to regulate recruitment
+workers in trapped situations, or the victims of        processes and monitoring activities of the recruiting
+labour trafficking.                                     agent. The Rules briefly illustrated the ‘arbitration’
+                                                        process run by the BMET. In the following year, the
+In 2007 the Government of Bangladesh, through           Government adopted ‘Wage Earners’ Welfare Act’
+another ‘Order’, reduced the age limit from 35 to 25    to ensure assistance and support to the vulnerable
+years and opened other Middle Eastern countries         migrant workers. Prior to that, the Government
+for women domestic workers. In this ‘Order’, the        adopted “Expatriate Welfare and Overseas
+Government brought several provisions to make           Employment Policy” in 2016 with the aim to ensure a
+systematic recruitment of women domestic workers        rights-based protection system for migrant workers.
+i.e. issuance of a work permit, attestation of visas
+by the concerned Bangladesh Embassies in the
+destination countries , and mandatory 21-day pre-
+departure training for outgoing domestic workers.
+The ‘Order’ held the recruiting agents accountable
+for maintaining a database of women migrants with
+the aim that the recruiting agents would monitor
+                                                        3. http://www.old.bmet.gov.bd/BMET/stattisticalDataAction or http://
+women migrant workers in the destination country.           www.old.bmet.gov.bd/BMET/viewStatReport.action?reportnumber=22
+The database would also be used by the embassies
+                                                        4. No. MoEWOE/See-5/Service-12/2002(part-1/Dated 09-12-2003: condi-
+and missions abroad.                                        tions for recruitment of Bangladeshi females as Household Workers/
+                                                            House Assistance in the Kingdom of Saudi Arabia
+14       Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+     3 Key findings
+
+3.1 Personal profiles of the research                      social stigma. Women of this category migrate
+participants                                               abroad to achieve economic independence and
+                                                           to escape their abusive condition in their family
+n Age
+                                                           or to avoid negative social attitudes towards them.
+According to the Government rules of 20075,
+women who are aged between 25 and 38 are
+                                                           Another social factor is discrimination towards
+legally permissible to migrate abroad for domestic
+                                                           women in the patriarchal societal structure in
+work. The quantitative data of 262 returnee women
+                                                           Bangladesh. Religious prejudice built on societal
+migrant workers (participants of this research)
+                                                           patterns is also a reason for migrating to Saudi
+show that 77 per cent of the women were between
+                                                           Arabia. Climate change related impacts such as
+25 and 38 during the time of migration. 10 per
+                                                           frequent cyclones, floods, droughts etc. which
+cent of them were more than 38 years old and
+                                                           negatively impacted on people’s livelihoods drove
+10 per cent of them were between the ages of 18
+                                                           8 per cent of the women interviewed to migrate.
+and 24. Data shows that 2 per cent were girls below
+                                                           On the other hand, 26 per cent of women claimed
+the age of 18 years when they migrated abroad as
+                                                           they migrated because they were highly influenced
+domestic workers.
+                                                           by the agents or the sub-agent. In some cases,
+                                                           the sub-agent enticed the women for overseas
+n Educational status
+                                                           employment by presenting an almost imaginary
+Out of 262 returnee women migrant workers,
+                                                           and lucrative workplace scenario.
+42 per cent never enrolled in formal education –
+they only can write their names, while 39 per cent
+completed primary education (classes 1 – 5) and
+                                                           3.3 Recruitment history of returnee
+15 per cent completed Junior School Certificate
+                                                           women migrant workers
+(class 8). The remaining 4 per cent of the women           n Year of migration and return
+did not complete Secondary School Certificate              Out of 262 returnee women migrant workers who
+but completed school up to class 10.                       sought legal assistance in 2019, nearly 10 per cent
+                                                           of migrated during the period of 2010-2014 while
+n Marital status                                          90 per cent migrated between 2015 and 2019.
+72 per cent of the 262 returnee women were                 The majority of them returned home between
+married before they migrated abroad for domestic           2018 and 2019.
+work while 21 per cent were divorced or separated
+and only 7 per cent were single.                           n Recruitment medium
+                                                           Nearly 95 per cent of the 262 returnee women
+3.2 Reasons for migration                                  migrant workers claimed that they were recruited by
+                                                           local sub-agents. Only 3 per cent of women affirmed
+Reasons for migration can be categorised by
+                                                           that they were recruited directly by the recruiting
+economic factors, social factors and environmental
+                                                           agent. Some women got the address of their
+factors, all of which push women towards overseas
+                                                           recruiting agent from friends and relatives while
+employment. Among the 262 respondents,
+                                                           some women collected the name of the recruiting
+57 per cent affirmed that they went abroad to gain
+                                                           agent from the website of the BMET. Approximately
+economic solvency. Economic factors mostly relate
+                                                           2 per cent of the women were directly recruited by
+to financial hardship driven by the inability of male
+                                                           their family members, such as a sister or brother.
+members to meet all the family expenses.
+
+Underemployment and unemployment are
+also major reasons for pushing women to migrate.
+For the betterment of their family and children,
+women decide to leave the country for overseas
+employment. 9 per cent of the women migrated
+due to social factors. This refers to domestic violence,   5. DW: https://rb.gy/c5gtos https://probashi.portal.gov.bd/sites/default/
+divorce or abandonment by the husband and                     files/files/probashi.portal.gov.bd/page/32d109f6_cde9_473a_bda1_
+                                                              d575db691d45/Safe%20migration%20for%20female%20workers.pdf
+Access to justice for Bangladeshi migrant workers: Opportunities and challenges   15
+16      Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+n Job contracts                                          workers who migrated without pre-departure
+88 per cent of the 262 returnee women migrant            orientation mostly travelled in the years between
+workers reported that they were not provided with a      2015 and 2019 suggesting the falsification of
+‘job contract’. They were told about the employer, job   certificates is becoming more common.
+responsibilities, salaries, benefits through informal
+discussions. Very few women interviewed had any          n Medical certificates
+knowledge about the ‘job contract’. They did not         According to the regulation of labour destination
+know the use and importance of the ‘job contract’.       countries, particularly the GCC, proven health fitness
+They affirmed that the agent/sub-agent never told        through a mandatory medical test is a condition to
+them about the ‘job contract’. Nearly 45 per cent of     get approval to migrate to these countries. Health
+returnee women testified that they had not received      fitness is also a mandatory condition in order to get
+the same amount of salary and benefits that they         the work and residence permit upon arrival and any
+were promised by the agent/sub-agents.                   subsequent work permit extensions.
+
+Only 12 per cent of the returnee women migrant           Therefore, the migrant workers must complete
+workers confirmed that they had received a ‘job          a medical test at the pre-departure stage. They
+contract’ before migration. Among them, around           are screened for approximately 21 diseases, both
+47 per cent received the ‘job contract’ a few hours      infectious and non-infectious diseases, including.
+before their flights, 31 per cent affirmed that they     HIV/AIDS, Hepatitis, leprosy and TB. For women,
+had received the ‘job contract’ a few days before        a pregnancy test is also compulsory. The positive
+their flights, and 22 per cent had received the          result of any test is a cause of non-eligibility for
+contract a few weeks before their flights. Most of the   obtaining an overseas job. Data for the returnee
+women said they were unable to understand the            women migrant workers show that nearly 18 per
+job contract as it was written in Arabic and English.    cent were sent abroad for work despite being
+The agents/sub-agent provided no clear information       screened as ‘UNFIT’ (as known in the recruitment
+about the conditions of the job contract, rather they    system) in the first medical test. They were therefore
+forced the women to sign the contract by saying          sent abroad using a fake certificate.
+that without signing the paper nobody
+could migrate.                                           n Migration costs
+                                                         The recruitment costs for women migrant domestic
+n Pre-departure Orientation (PDO)                       workers should be ‘zero’ for any country as per the
+Since 2007, the Government of Bangladesh has             Government rules. The recruitment of women
+ensured mandatory pre-departure orientation for          domestic workers is conducted through an online
+women domestic workers. Initially, the duration of       system called ‘MUSANED’ under the MoU signed
+the pre-departure orientation was 21 days which has      between the Government of Bangladesh and
+been extended to 30 days in 2015. The submission of      Saudi Arabia. Under the system, the employers
+the pre-departure orientation completion certificate     pay a certain amount in advance to the concerned
+is a condition to get ‘emigration clearance’ issued      recruiting agent in Bangladesh for completion of the
+by BMET for official migration for employment.           recruitment process. There is no online recruitment
+                                                         system but the ‘zero’ migration cost for women is
+Data of the returnee migrant workers show that           equally applicable in other countries as well.
+around 24 per cent of the women did not attend
+the pre-departure orientation at all, or they had        Nevertheless, 65 per cent of the 262 returnee
+attended only a few days of the 30-day course.           women migrant workers testified that they had paid
+The agents/sub-agents managed the completion             money for their migration as the agents/sub-agents
+certificate on their behalf. The women migrant           had charged them. They could not migrate if they
+                                                         did not pay. 20 per cent of the women confirmed
+                                                         they had to pay an amount ranging from
+                                                         BDT 5000 to 20,000 (US$ 60 – 238) while 28 per
+                                                         cent paid an amount ranging from BDT 21,000 to
+                                                         50,000 (US$ 250 – 595), 15 per cent paid BDT 51,000
+                                                         – 100,000 (US$ 600 – 1,190) and the rest, 2 per cent,
+                                                         paid more.
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges        17
+
+
+
+
+3.4 Violations faced by women                           Some women reported that the agent/sub-agent
+migrant workers during recruitment                      in Bangladesh took a good amount of money from
+and employment                                          their families to assist them to return home but they
+                                                        cheated the family as they did not do anything for
+n Violence during recruitment                          their return.
+Nearly 43 per cent of the returnee women migrant
+workers (out of 262) asserted that they strongly        n Violence during employment
+felt that they had become the victim of abuse           All 262 returnee women migrant workers
+and exploitation by the agents and sub-agents           testified that they had been abused physically,
+in Bangladesh. They emphasised that the agents          psychologically, or sexually at the employers’ house.
+and sub-agents had intentionally abused their           Around 60 per cent of the women (156 out of 262)
+lack of knowledge about the migration process           reported they often faced physical torture. The
+and they provided disinformation about the salary,      majority of returnee women migrant workers shared
+the employers’ family, the amount of work at the        their experiences of brutal physical torture by the
+employer’s house etc.                                   employers, family members, relatives and others.
+
+Some women migrant workers claimed that the             Nearly half of the women (133 out of 262) asserted
+agent/sub-agent told them they would be sent            that they had become the victim of forced labour.
+to one country, but they ended up in another            They had to work around 14 to 18 hours a day with
+country with a completely different type of job         rarely any rest time, which is far above the stipulated
+to the one they were told about. The women              expected working hours. Many of them said that
+blamed the agent/sub-agent for their sufferings         they were assaulted physically, deprived of food for
+and exploitations in the destination countries. The     the day, and encountered humiliating and abusive
+majority of them said that the agent/sub-agent          words if they refused to do any work. Some women
+had hardly extended any assistance to them to           said they have had no mercy even when they were
+rescue them from the exploitative situation at the      ill. Around 37 per cent (98 out of 262) of the women
+employers’ house or at the office of the recruiting
+agent in the destination country. And this was the
+case even though most of the time, the agent/
+sub-agent was aware of the womens’ situation.
+18        Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+claimed that they had been forced to work in                           Around 16 per cent (41 out of 262) of the returnee
+several houses of the employers’ relatives. They were                  women migrant workers reported that they
+never paid any additional wages for the extra work                     had been sexually abused and exploited at the
+they did in other houses. Some employers even                          employers’ house or at the offices of the recruiting
+used these women as ‘freelance domestic workers’                       agent in the destination countries. Among them,
+for commercial purposes.                                               two-thirds (27 out of 41) of the women asserted that
+                                                                       ‘sexual exploitation’ was one of the main reasons
+One 33 per cent of the returnee women (87 out                          for their untimely and unsuccessful return. Some
+of 262) claimed that they experienced continuous                       women shared their experiences of sexual assaults
+mental torture through disrespect and humiliation                      by the father and the sons one after another while
+in different forms i.e. using slang frequently, and                    some women shared that the employers used to
+even through various threats such as being told they                   invite their friends who then raped them in turn.
+will never be allowed to return home, they would
+be sent to jail if the employer filed a false theft case               The women migrant workers had also been
+against them, or in extreme cases, they would be                       economically exploited by their employers. Around
+killed and never be able to meet their family again.                   36 per cent of the 262 women were forced to return
+Most of the returnee women migrants said they had                      home without salaries for periods of work ranging
+led an inhumane life as a slave not as a domestic                      from 1 month to 48 months (229 due salaries). Only
+worker with minimum human dignity. At least                            12 per cent of the women asserted that they were
+one woman lost her memory entirely because of                          paid salaries regularly, while nearly 52 per cent
+frequent mental and physical torture. According to                     said they used to receive salaries irregularly. The
+Wage Earners Welfare Board report, 140 women                           employers used to hold their salaries for four
+migrants died abroad in different destination                          months or more for no clear reason.
+countries in 2019, most of whom allegedly
+committed suicide7, while Brac reported8 24 suicides
+among Bangladeshi women migrant workers
+abroad in 2019.
+
+
+7.	https://www.newagebd.net/article/95641/4000-migrants-brought-
+    home-dead-in-2019
+8.	https://www.dhakatribune.com/bangladesh/2019/12/30/migrant-work-
+    ers-from-bangladesh-too-many-die-on-foreign-shores
+                       Access to justice for Bangladeshi migrant workers: Opportunities and challenges             19
+
+
+
+
+As well as employers, many women migrant                    3.5 Consequences of violations on the
+workers reported that the staff of the recruiting           returnee women migrant workers
+agents in destination countries often tortured and
+                                                            n Forced return
+exploited them in their offices. Nearly one fifth
+                                                            The difficulties of women migrant workers during
+(19 per cent) of the returnee women migrant
+                                                            employment caused by the untrue information
+workers claimed that they had been locked in their
+                                                            about the job nature, false promises of salaries and
+recruiting agent’s offices, physically tortured, sexually
+                                                            benefits on the one hand and frequent torture,
+abused and often forced to work unpaid in different
+                                                            abuse, exploitation by the employers on the other,
+houses on a daily basis by the recruiting agents in
+                                                            forced many women migrant workers to return
+the destination countries. These violations mostly
+                                                            home before the end of their contract.
+happened when the women were brought to the
+recruiting agent’s office to resolve disputes between
+                                                            Nearly 58 per cent (151 out of 262) of the returnee
+the workers and the employers.
+                                                            women migrant workers returned home within
+                                                            12 months of their initial migration. Of them, around
+                                                            54 per cent returned less than three months after
+                                                            their departure from Bangladesh, while 21 per cent
+                                                            returned within three to six months and 25 per cent
+                                                            returned within six to twelve months. Only 6 per
+                                                            cent of the women migrant workers were able to
+                                                            complete their two-year job contract, and
+                                                            21 per cent completed more than two years.
+                                                            The main reasons for return were illness (29 per
+                                                            cent), physical torture (16 per cent), sexual abuse
+20      Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+(10 per cent), excessive work (10 per cent) and non-      nightmare, which nobody else could understand.
+payment of salary (35 per cent). Of those sent abroad     They reported that nobody understood that what
+with false medical certificates, six returnee women       happened to them was not their fault; they had
+migrant workers asserted that they had been forced        become the victim of abuse and exploitation
+to return because they had failed the medical test        by inhumane people.
+in the destination countries. Some women said they
+were not received by any employer when they had           The women migrant workers who returned home
+arrived while some others reported that they were         with illnesses rarely had financial capacity for
+simply abandoned by the employers.                        treatment. Many women migrant workers said
+                                                          that they had been suffering from various diseases
+n Social and economic penalties back home                without treatment, which was painful for them.
+The untimely and unsuccessful forced return               Families of those women migrant workers also pay
+creates social and economic penalties on the              for this. They often take loans for the treatment and
+women migrant workers and their families.                 become indebted. The unsuccessful and untimely
+The social consequences can turn into divorce,            return made many women migrant workers further
+separation, non-acceptance by husbands and/or             indebted and put their familes in a more vulnerable
+families. On the other hand, in a predominantly           situation. This forced many women migrant workers
+patriarchal society like Bangladesh, where victim         to re-migrate and fall into a vicious cycle of abuse
+blaming is a common practice, the women                   and exploitation.
+reported facing labels such as ‘disgraceful’ and
+‘prostitute’. Such humiliation, disrespect and
+discrimination pushed them into isolation and
+loneliness, impacting their mental health. The social
+consequences cause enormous damage to human
+dignity and honor that destroys self-confidence,
+productivity, as well as the intellectual and spiritual
+power of a human being. Some women said
+that their marriage broke down because of their
+unsuccessful return. Many returnee women migrant
+workers said that their life turned into a painful
+                        Access to justice for Bangladeshi migrant workers: Opportunities and challenges         21
+
+
+
+
+3.6 Access to justice for returnee                         The experiences of the resolved cases of 38
+women migrant workers                                      returnee women migrant workers in the BMET
+                                                           arbitration showed that around 54 per cent of the
+The OEMA 2013 gives migrant workers the right
+                                                           women received an amount between BDT 5,000
+to file complaints in the BMET ‘arbitration cell’
+                                                           and BDT 20,000 (US$ 60 – 240), nearly 26 per cent
+without forsaking their right to file a criminal case
+                                                           of the women received an amount between
+in the court of the Judicial/Metropolitan Magistrate.
+                                                           BDT 20,000 and BDT 40,000 (US$ 240 – 480),
+Around 58 per cent (153 out of 262) of the returnee
+                                                           and around 20 percent of the women received
+women migrant workers asserted that they had no
+                                                           BDT 40,000 to BDT 80,000 (US$ 480 – 960). None
+idea about the law and the legal rights of migrant
+                                                           of these awards was fair compensation for the
+workers. 65 per cent (171 out of 262) of the returnee
+                                                           amount owed or the psychological impact of abuse
+women said they wanted to take legal action against
+                                                           and exploitation faced by the migrants. This is to
+the agent/sub-agent. Despite this, all of them said
+                                                           note that the arbitration considers the due salaries
+they were not be able to file complaints to the BMET
+                                                           of migrant workers as compensation. The social
+‘arbitration’ or cases in the court. Many of them had
+                                                           costs caused by untimely and unsuccessful return
+no proof or evidence against the perpetrators. Some
+                                                           due to unfair and unethical recruitment practices,
+women fear stigma if they disclose their issues of
+                                                           physical and psychological illness due to torture, as
+abuse and exploitation. Some women are frightened
+                                                           well as stigma and discrimination is not considered
+of threats from the agents/sub-agents. The
+                                                           in the arbitration even though social costs have
+majority of women migrant workers have negative
+                                                           huge negative impacts on the lives of migrant
+impressions of the legal system because of the time-
+                                                           workers. It often reduces the socio-economic status
+consuming and expensive process.
+                                                           of migrant workers and their families.
+n BMET ‘Arbitration’
+                                                           The women migrant workers shared that they
+This research follows the cases of 123 of the 262
+                                                           often faced threats from the representatives
+returnee women who filed complaints to the BMET
+                                                           of recruiting agents and sub-agents, as well as
+‘arbitration’ in 2019, mostly for recovering unpaid
+                                                           humiliation, unequal and unfair treatment in the
+salaries and compensation for forced work, physical
+                                                           arbitration process. Many women migrant workers
+and psychological torture, sexual abuse as well as
+                                                           who appeared in the BMET arbitration reported
+medical treatment costs. Of the 123 cases, nearly
+                                                           that they felt revictimised while they were claiming
+31 per cent of them had been resolved by December
+                                                           their rights to justice and remedies. The migrant
+2019. The remaining 69 per cent have not been
+                                                           workers generally come from poor educational,
+resolved yet.
+                                                           social and financial backgrounds, which results in a
+                                                           lack of knowledge about the law and the arbitration
+The Overseas Employment and Migration
+                                                           system, and low confidence to negotiate in the
+Management Rules 2017 sets out the operational
+                                                           arbitration. The using of words, gestures, sitting
+procedures of the BMET ‘arbitration’, but the
+                                                           arrangements, long waiting hours etc. further
+mentioned timeframe to complete each arbitration
+                                                           weaken the self-esteem and confidence of the
+is unclear. The rule is to complete each case within
+                                                           migrant workers and restrain them from
+a maximum of 90 working days.
+                                                           equal participation in the arbitration process.
+Of the women migrant workers’ 123 cases, 26 per
+                                                           The lack of structural and standard operational
+cent (32 cases out of 123) were resolved within
+                                                           procedures to conduct BMET ‘arbitration’ not only
+90 days of filing written complaints to the BMET,
+                                                           puts the returnee migrant workers, but also the
+5 per cent (6 cases out of 123) were resolved
+                                                           civil society organisations which provide legal aid to
+between 90 and 180 days, but 69 per cent (85)
+                                                           the survivor migrant workers, in a humiliating and
+of the complaints are yet to be resolved. Of those
+                                                           confrontational situation.
+cases that are not yet resolved, around 58 per
+cent (48 out of 85) have never been called by the
+‘arbitration cell’ for hearing. 41 per cent of the women
+complainants (35 out of 85) had been called for one
+hearing in the arbitration. The rest of the women
+had to attend several hearings with no outcome at all.
+22   Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges        23
+
+
+
+
+n Court cases                                           Of three cases which were filed to the Women
+Migrant’s access to court cases is still limited for     and Children Repression Prevention Tribunal under
+different reasons. This research followed the cases of   the Human Trafficking and Suppression Act 2012
+migrant workers in the Chief Judicial/Metropolitan       (empowered for dealing the human trafficking
+courts in only five districts in Bangladesh – Dhaka,     cases), two cases were identified as labour
+Narsingdi, Narayangonj, Munshigonj and Faridpur.         trafficking in the Middle East Countries, while one
+During 2019, only six cases were filed by the returnee   case was trafficking to India for sexual exploitation.
+women migrant workers in those courts. Of them,          This research highlighted only two labour trafficking
+five women returned from the GCC countries and           cases. One case had been dismissed by the court
+one woman was rescued from India.                        on three arguments.
+
+Out of five labour migration cases, three cases          The first argument was that the recruitment and
+were filed in the Chief Judicial Magistrate’s Court      the job placement agencies did not have scope to
+in Narsingdi and Faridpur districts under the            control all acts which happened to the complainant
+OEMA 2013, and two cases were filed in the ‘Special      during her stay abroad. The second argument
+Tribunal for Women and Children’ (empowered for          was that the complainant could not provide the
+dealing with human trafficking cases) in Dhaka and       addresses of the house in Saudi Arabia where she
+Narsingdi under the Human Trafficking Prevention         was supposed to be employed and the house
+and Suppression Act 2012.                                where she was actually employed, as evidence.
+
+None of the cases filed in the Chief Judicial            The judgement acknowledged the lack of
+Magistrate’s Court have been resolved (up to July        migration governance from grassroots to the
+2020). As per the OEMA 2013, the trial of the case       national level but judged that “the recruitment
+must be concluded within four months from the            happened on mutual exchange of information and
+date of filing the case in the court. In cases of        cooperation.” The most surprising point was that
+exceptional circumstances, the trial period could be     the judgement considered that “the recruitment
+extended to a maximum of two months, based on            conducted by the authorised recruiting agent with
+a progress report of the case stating the reasons        the approval of concerned government authority
+for such delay.                                          must not be labeled a ‘human trafficking’ case since
+                                                         such a judgement might create a negative impact
+The research found that the police investigation         on the flow of labour migration from Bangladesh,”
+report against any single case was not submitted to      Prevention and Suppression of Human Trafficking
+the court in due time. But during the investigation of   case number 22/19 in Women and Children
+each case, the accused threatened the complainant        Repression Prevention Tribunal, Narshingdi.
+to withdraw the case. In two cases, they forced them     The other case is in progress. The investigation
+to withdraw the case by providing a lump sum as          report had been submitted after almost four
+compensation and by misusing their money, muscle         months of the court order.
+and political affiliation. In one case, the accused
+attacked one of the complainants and her family
+and wounded them critically. Despite that, there was
+no progress in the police investigation in the seven
+months up to March 2020.
+24     Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+     CASE STUDY 1: A case filed at BMET Arbitration
+
+ Naima (Pseudonym) (34) escaped her abusive            At her first hearing, the agency’s representative
+ employer with a critical health condition. The        questioned her ‘character,’ and blamed her saying,
+ employer used to beat her mercilessly. Naima fell     “It was her fault that she couldn’t work.” The
+ sick and urged her husband to save her life. The      agent even threatened her in front of the BMET
+ sub-agent in Bangladesh charged her husband           official. During the second hearing, the agency’s
+ BDT 30,000 (US$ 357) to arrange for her to return     representative threatened her again and said
+ to Bangladesh. In Saudi Arabia, Naima worked for      that she must go with him to the agency’s office
+ three months, and the employer did not even pay       to settle the complaint. The representative said
+ her a single month’s salary. Naima said, “Besides     if Naima didn’t go with him, the agency would
+ due salary, I never received the promised salary      not pay any compensation. However, Naima was
+ by the sub-agent.”                                    frightened and did not agree to go with him.
+
+ Upon her return to Bangladesh, she complained         At the final hearing, Naima was forced to settle her
+ through the BMET for compensation in 2019.            complaint with a tiny amount of compensation.
+ After three hearings, the BMET official settled her   Naima said, “Had I been aware of this unjust reality,
+ complaint with the agency. The award was less         I would never have filed a complaint.” Naima was
+ than half of the amount that Naima had claimed.       abused abroad because of the recruiting agency in
+ However, the hearing process was torturous for        Bangladesh and humiliated at her home while she
+ Naima. She went through intimidation and              was hoping for justice.
+     humiliation multiple times.
+
+
+
+
+      CASE STUDY 2: A case filed under
+      overseas employment and the OEMA 2013
+
+ “Their (employer) main goal was to force me           the police who sent her to jail. She was there two
+ into the sex trade though I denied,” said Akter       months before returning home.
+ (Pseudonym) (36), a returnee woman migrant
+ worker from Saudi Arabia. As Akter testified in       After returning home, Akter, hoping to get
+ 2019, the employer sent her to different houses       compensation, filed a case in August 2019 against
+ in the name of work. She realised within a couple     the recruiting agent under the OEMA 2013. Since
+ of days that the employer had sent her there for      then, the recruiting agent has been threatening
+ sex-trade only. She paid BDT 60,000 (US$ 714)         Akter to withdraw the case. Though she was
+ as her migration cost.                                frightened, she did not bow down to them.
+                                                       Suddenly, the agent attacked her and her sister and
+ “Then, every time they tried to touch me,             left them severely injured. She filed a FIR against
+ I screamed with terror as if I was about to die.      the local agent which did not bring any result.
+ So, most of the time, they could not succeed,”
+ Akter added. The more she resisted, the more the      “The police investigation has been in progress for
+ level of torture increased. Yet she never agreed.     the last 10 months. I don’t know what will happen,
+ Thus, being frustrated, one day the employer left     or when but I want justice and compensation for
+    her on an empty road and she got caught by         what happened to me,” Akter sighs.
+Access to justice for Bangladeshi migrant workers: Opportunities and challenges   25
+
+
+
+
+                                 “I filed complaints with
+                                  the BMET in June 2019
+                                  and have not yet been
+                                  called for a hearing.”
+                                  Photo: © OKUP
+26      Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+ 4 Access to justice: Opportunities and challenges
+
+‘Access to justice’ is neither improving an individual’s   receiving or attempting to receive any amount by
+access to the formal and informal system nor a mere        giving false undertaking to provide employment
+representation of individuals in the proceedings.          abroad is a violation of the Act and treated as a
+‘Access to justice’ is something holistic that             punishable offence. The anti-human trafficking Act
+ensures people’s ability to seek and obtain justice        defines any act relating to employment overseas by
+and remedies through the formal and informal               enticing or assisting somebody vulnerable due to
+institutions for any grievances in compliance with         socio-economic or environmental conditions with
+human rights standards. ‘Access to justice’ usually        the purpose of forced labour, debt-bondage, slavery
+serves two purposes: (i) ensuring that people have         or other forms of exploitation is the act of ‘human
+physical access to the existing justice delivery           trafficking’. The Act ensured rigorous physical and
+system and (ii) making sure that all justice delivery      monetary punishment for the guilty ranging from
+systems both formal and informal are fair, equitable       the death sentence to imprisonment for at least
+and speedy. However, the essential precondition            three months.
+of access to justice is that the laws and the policies
+must be impartial and proportionate. There must be         n Victim centric restorative justice
+physical access to a justice mechanism, procedural         Both the Acts – Overseas Employment and Migrant
+fairness together with quality of the outcome.             Act 2013 and Prevention of Human Trafficking and
+                                                           Suppression Act 2012 – are built on the principle
+This research tried to explore opportunities and           of victim centric restorative justice. The Acts
+challenges in access to justice of the returnee            categorically recognised that the migrant workers
+women migrant workers in the formal justice                often fall into the traps of unfair and corrupt
+system – in the court and in the existing Alternative      recruitment practices and therefore, ensured
+Dispute Resolution (ADR) system. The research              migrant workers’ easy access to the justice delivery
+analysed existing policies and laws especially the         system as well as fair, equitable and speedy justice.
+OEMA 2013 and the Human Trafficking Prevention             The OEMA 2013 ensured migrant workers’ physical
+and Suppression Act 2012 in order to understand            access to the justice delivery system both in the
+if the current justice system is fair and just for         formal court (Art. 28) and in the semi-formal
+migrant workers.                                           ‘arbitration’ system (Art. 41) by filing case/complaints
+                                                           against any person including recruiting agents for
+                                                           any offence under the Act (Art 31, 32, 33, 34, 35). The
+4.1. Opportunities                                         Act ensured penalties both of imprisonment and
+                                                           monetary for the recruiting agent or any person
+n Superiority and complementarity of the Act
+                                                           concerned to committing the offence. Without
+The Government of Bangladesh enacted the OEMA
+                                                           forsaking the rights to file case/complaints under
+2013 as a special law to regulate recruitment for the
+                                                           the OEMA 2013.
+overseas employment process and ensure migrant
+workers’ rights to access justice. The Act considers
+                                                           The PSHTA 2012 considers legal presumption as to
+any fault or fraud that occurs in the recruitment
+                                                           committing a human trafficking offence against any
+process as a critical offence against migrant
+                                                           person charged under the Act unless the contrary
+workers and it will override all existing effective
+                                                           is proved (section 18). The Act has ensured the right
+laws including the Penal Code 1860. In addition,
+                                                           to privacy and confidentiality, right to repatriation
+the OEMA 2013 supplements the Prevention of
+                                                           and return, right to protection of victim and witness,
+Human Trafficking and Suppression Act 2012. The
+                                                           social and economic reintegration, financial
+complementarity of the two Acts strengthened
+                                                           compensation for the victim etc. The anti-human
+migrant workers’ access to justice and remedies.
+                                                           trafficking act exempts any victim of the human
+                                                           trafficking offence from conviction (section 9 -19).
+According to the OEMA 2013, any act relating to the
+                                                           Both the Acts ensured legal aid provision for the
+recruitment for overseas employment by providing
+                                                           victim and survivor migrant workers.
+false information and promises of high wages,
+benefits and facilities, or by detaining passport, visa,
+or any other documents without valid reason, or by
+                       Access to justice for Bangladeshi migrant workers: Opportunities and challenges           27
+
+
+
+
+n Extraterritorial application                             4.2 Challenges
+The OEMA 2013 has made liable the recruiting
+                                                           4.2.1 Challenges in arbitration
+agent jointly with the employer to any breaches
+in the condition(s) of the employment contract
+                                                           n No dedicated arbitral tribunal
+which stipulates wages, accommodation facilities,
+                                                           No dedicated ‘arbitral tribunal’ is established yet.
+duration of employment, compensation amount
+                                                           The migrant workers file complaints for arbitration
+in the event of death or injury, cost of migration to
+                                                           by written application to the Director General of
+and return etc. (Art. 22). On the other hand, the anti-
+                                                           BMET who then usually forms an ad hoc arbitration
+human trafficking Act has no territorial obligation.
+                                                           cell for handling the complaint. According to the
+It considers any offence defined under the Act
+                                                           Migration Management Rules 2017, the Government
+against any Bangladeshi citizen outside the territory
+                                                           can appoint any officer of the Bureau of Manpower
+of Bangladesh (section 5). Therefore, under both the
+                                                           Employment and Training (BMET) as ‘arbitrator’
+Acts, migrant workers can seek justice for any kind
+                                                           for a complaint. It is said that the BMET established
+of exploitation, abuse, rights violation they encounter
+                                                           an arbitration cell for handling complaints
+during employment in the countries of destination.
+                                                           by the women migrant workers. However, there
+                                                           is no official gazette in this regard. The officials
+n Arbitration system
+                                                           responsible for the women migrant workers’
+The most significant implication of the OEMA 2013 is
+                                                           arbitration perform this responsibility in addition to
+the provision of institutional ‘Arbitration’ conducted
+                                                           their regular job in the office. They rarely have a legal
+by the authorised Government authority. According
+                                                           background or expertise in conducting arbitration.
+to the Bangladesh Arbitration Act 2001, ‘Arbitration’
+means any arbitration administered by a permanent
+                                                           The absence of a dedicated arbitral tribunal as
+institution. The Migration Management Rules 2017 in
+                                                           well as a pool of expert ‘arbitrators’ causes a huge
+reference to section 41 of the OEMA 2013 authorises
+                                                           challenge to ensure transparency and accountability
+power to the Bureau of Manpower Employment and
+                                                           in accessing justice through arbitration.
+Training (BMET) to conduct the ‘arbitration’. This is
+a semi-formal system of dispute resolution among
+                                                           n Lack of standard arbitration procedure
+the aggrieved migrant worker, the concerned
+                                                           Section 41 (3) of the OEMA 2013 states the need
+recruiting agent or any other person engaged
+                                                           for arbitration procedures determined by the rules.
+in the recruitment process.
+                                                           There are no specific rules for the arbitration yet,
+                                                           but the Overseas Employment and Migration
+The Act allows the arbitrator to conduct
+                                                           Management Rules 2017 contains two articles in
+investigations of any complaints of fraud, extortion
+                                                           this regard. According to that article (No.15), the
+or a breach of employment contract filed by
+                                                           appointed officer from the BMET must issue a
+migrant workers and dispose the complaints directly
+                                                           written notice to the complainant and the accused
+or through ‘arbitration’ (salish). This reflects the
+                                                           to attend arbitration on a date and in a particular
+notion of the inquisitorial justice system where the
+                                                           place. The officer is responsible for resolving
+arbitrator can directly investigate and declare ‘
+                                                           complaints through a hearing for both parties
+arbitral award’.
+                                                           and if needed, taking witness from a third party
+                                                           and examining relevant records and documents.
+This system has created a huge opportunity for the
+                                                           However, there is no clear detail about how
+migrant workers to get proportionate compensation
+                                                           to conduct the whole arbitration process.
+and fair justice. In an arbitration hearing, any form of
+evidence can be produced. The provision of evidence
+Act 1860 is not strictly followed here. Therefore, the
+arbitrators have the opportunity to deploy their
+inquisitorial mind while conducting the arbitration.
+28        Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+         CASE STUDY 3: Case filed under human trafficking prevention Act 2012
+
+     Sumana (Pseudonym) (26): “The local agent                 time,” frightened Suma shared.
+     (works for a licensed recruiting agent) promised
+     me a cleaner’s job at a hospital in Saudi Arabia. I       She then managed to call her family and
+     paid BDT 50,000 (US$ 595) for a cleaner’s visa as         requested them to get her back home. They
+     he promised. After receiving the smart card, I saw        begged to the agent to save her life. The agent
+     the visa was for domestic work. I disagreed to go         took BDT 50,000 (US$ 595) again from the
+     with, but he assured me a better job,” said Suma.         family to bring her back but then did nothing.
+                                                               Her family then went to the BMET and applied
+     Being a single mother with financial burden               for her return. After five months, the employer
+     Suma had little option to refuse the agent.               dropped her at the recruiting agency’s office
+     She therefore travelled to Saudi Arabia in 2018           in Saudi Arabia.
+     with that visa. She had to work in a family of
+     25 members. After completing all her tasks                “At the recruiting agency’s office, I was physically
+     there, the house lady often used to take her to           tortured by the agency people and fainted.
+     the houses of her relatives. Every week, she had          When I regained my senses, I discovered myself
+     to work for five to six families. She had to do this      on a hospital bed. Around a week later, they
+     all with only one meal per day. On top of that            sent me to jail where I spent six months before
+     they would use shoes or sticks to beat her.               returning home in 2019. I have received only a
+     The lashings were too much to survive.                    month’s salary but returned with numerous
+                                                               scars on my body and mind,” said Suma.
+     “Over and above that, the employer’s son
+     started harassing me sexually. I made a                   After her return, Suma filed a case against the
+     complaint to the madam, but she did not take              agent and the recruiting agent under the Human
+     any step to stop him. I tried to save myself many         Trafficking Prevention Act. It has almost been
+     times by hiding in the bathroom. He used to rape          a year that the case is under trial. “I am facing
+     me after injecting sleeping drugs in my body.             continuous threats from the agent to withdraw
+     He threatened to cut me into pieces. My dream             the case. I do not want to compromise. I am
+        of a better life broke into pieces. I led a terrible   waiting for justice,” said Suma with all her courage.
+
+
+
+
+The lack of standard procedures causes huge                    hearing. 41 per cent of women migrants were
+challenges to ensuring a transparent and                       called for one hearing while the rest had to attend
+accountable arbitration process. OKUP’s work                   several hearings with no outcome at all. Nobody
+supporting women migrant workers in accessing                  knows if their complaints are already dismissed
+the arbitration process identified discrepancies               or still being processed.
+in conducting hearings, discriminatory treatment
+with migrant workers, predisposed judgements                   The recruiting agents do not like to attend
+etc. Of 123 migrant workers who requested OKUP                 the arbitration hearings. Often, they remain absent
+to aid in filing complaints to the arbitration, 31 per         or attend the arbitration hearings in an untimely
+cent of complaints (out of 123) were resolved while            manner that leave migrant workers sitting hours
+69 per cent were not resolved in 2019. Among the               and hours. The lack of disciplinary measures leads
+unresolved cases, 58 per cent (48 out of 85 cases)             to the recruiting agents disobeying the arbitration
+of women migrants had never been called for the                process intentionally to discourage migrant workers
+                                                               to continue with their complaint, make the process
+                                                               prolonged and delay justice for the migrants.
+                                                               The absence of specific procedures for investigation
+                                                               of complaints or documentation and monitoring
+                                                               of the arbitration process also hinders migrant
+                                                               workers getting justice from the process.
+                         Access to justice for Bangladeshi migrant workers: Opportunities and challenges         29
+
+
+
+
+                                                                  Good practice
+
+                                                             The Migrant Workers and Overseas Filipinos Act
+                                                             of 1995 specified the amount of compensation
+                                                             in case of arbitration. According to the Act, any
+                                                             termination of overseas employment without
+                                                             partial, valid or authorised cause as defined by
+                                                             law or contract, the workers shall be entitled
+                                                             to the full reimbursement of his placement
+                                                             fee with interest of twelve per cent (12%) per
+                                                             annum, plus his salaries for the unexpired
+                                                             portion of his employment contract or for three
+                                                             (3) months for every year of the unexpired term,
+                                                                 whichever is less.
+
+
+
+
+                                                           n Disproportionate compensation
+                                                           The arbitrator has the authority to ensure
+                                                           proportionate compensation for the migrant
+                                                           workers based on investigation of losses and
+                                                           damages caused by fraud recruitment. The loss and
+                                                           damage should include all financial losses including
+                                                           recruitment costs, return costs and treatment costs
+Shalina* (42) was a domestic worker in Saudi Arabia.
+                                                           in case of illness due to overloaded work, torture,
+OKUP supported her to claim her final four months’
+                                                           abuse etc. It should also include compensation for
+salary which was owed by her employers.
+                                                           social stigma and discrimination that the migrant
+*Shalina’s name has been changed to protect her identity
+                                                           workers face because of failed migration due to
+Photo: © Chloe Sideserf / CAFOD
+                                                           corrupt recruitment processes as well as exploitation
+                                                           and abuse in the hands of employers. However,
+                                                           the arbitration only considers unpaid wages as
+There are examples that the officials of the BMET
+                                                           compensation. Even often the amount depends
+force migrant workers to resolve the complaints
+                                                           on the willingness of the recruiting agents. The
+directly with the recruiting agents which often push
+                                                           arbitration rarely considers the entire financial
+them in to a more vulnerable situation. The lack of
+                                                           loss and the social and psychological damages in
+‘code of conduct’ for all relevant parties including
+                                                           determining compensation. Therefore, the migrant
+the officials and staff involved is another critical
+                                                           workers receive disproportionate amounts as
+challenge in providing justice through arbitration
+                                                           compensation.
+particularly as the migrant workers hold less power
+in the process and are therefore vulnerable to further
+                                                           Data of the complaints resolved in arbitration in
+manipulation, discrimination and exploitation.
+                                                           2019 shows that a migrant worker received around
+                                                           $300 on average as compensation. Conversely, the
+n Centralisation system of arbitration
+                                                           BMET sources ensured that the complaints of 932
+The arbitration process is centrally conducted at
+                                                           migrant workers resolved through arbitration at
+the Bureau of Manpower Employment and Training
+                                                           the BMET during 2019 and a total of BDT 3,570,000
+(BMET). Therefore, the migrant workers from
+                                                           (US$ 42,500) was recovered as compensation for
+different parts of the country need to travel to
+                                                           them. The average amount of the compensation
+the BMET in the capital city of Bangladesh for filing
+                                                           for each migrant worker was BDT 3,830 (US$ 45).
+complaints and attending hearings. Most of the
+migrant workers who come from remote villages
+in different parts of the country also need to stay
+at least one night during each travel which results
+in financial burden for them.
+30       Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+        CASE STUDY 4: Default recruitment leads to sex trade
+
+     Begum (Pseudonym) (30) from Faridpur,                   Begum has been severely injured. To bring her
+     managed to go Saudi Arabia paying                       back to Bangladesh, Begum’s family had to send
+     BDT 70,000 (US$ 830) to the local agent in 2019         more than BDT 180,000 (US$ 2,150). To raise the
+     with a visa of domestic worker. After a month           money her family sold their boat and domestic
+     and a half she returned to Bangladesh. In her           animals and took a loan with interest.
+     words, her employer was ‘torturous’. She left
+     Bangladesh without pre-departure training. The          “They snatched my phone. I told the agent
+     agent Rashid managed to get her a smart card.           that I did not come here to do such work, send
+                                                             me back. They did not listen to me rather they
+     “Though I went to do domestic work, my agent            threatened to kill me and do whatever work I am
+     forced me towards the sex trade. They have sold         getting. Both father and son of a family used to
+     me several times to several customers. I had no         rape me,” Begum shared.
+     food to eat, no opportunity to bath and sleep.
+     Sometimes they used to inject me with drugs,”           Begum had no idea about the amount of salary
+        said Begum.                                          she was supposed to receive.
+
+
+
+
+4.2.2 Challenges in court cases                              that were filed by the victim migrant workers in 2019,
+                                                             with the assistance of OKUP, have evidence that the
+n Loopholes in the OEMA 2013                                 offender forced the migrant workers to withdraw
+Most of the migrant workers encounter false                  the case and resolve the case outside the court with
+promises of high salary, benefits and facilities. Their      a minimal amount of compensation.
+passports, visa copy or migration related documents
+are often detained. They regularly become the                According to testimonies of the 262 returnee women
+victim of fraud, extortion or a breach of the                migrant workers, 95 per cent of the recruitment for
+contract. The OEMA 2013 has defined these acts as            overseas jobs takes place with the assistance of field
+punishable offences. The penalties of these offences         level sub-agents who are unofficially engaged with
+are imprisonment for a term of up to five years and          the licensed recruiting agents. The OEMA 2013 does
+with a financial penalty of not less than BDT 100,000        not recognise the presence of the sub-agent in the
+(US$ 1,190). However, all these offences fall under the      recruitment process. The lack of legal recognition of
+article of 31 (a), (b), (c), (d) of the Migrants Act which   the sub-agents makes them unaccountable which
+are bailable and compoundable. The provision of              promotes unsafe and unethical migration and a
+offering ‘bail’ to the offender is a big weakness of         challenging justice system for migrants both in the
+the Act which leaves migrant workers and their               court and in the arbitration.
+families exposed to threats from the offender. The
+offender can also undertake different tactics to delay       n Lengthy investigation period
+the trial process, thereby overthrowing the migrant          The OEMA 2013 framed a trial period of 120 days
+workers’ opportunity to seek justice. The provision of       with a maximum extension of 60 days from the date
+compoundability also lessens the migrant workers’            of the framing charge against the offender. The Act
+opportunity to get fair compensation. A few cases            has not fixed any period for investigation. Therefore,
+                                                             there is no binding period for the completion of
+                                                             the investigation. The anti-trafficking Act 2012
+                                                             stipulated 180 days with a maximum extension
+                                                             of 10 working days from the date of framing the
+                                                             charge to complete the trial. The Act has a special
+                                                             section for the investigation. The section states
+                                                             the investigation must be completed within 90
+                       Access to justice for Bangladeshi migrant workers: Opportunities and challenges         31
+
+
+
+
+working days since the date the case is referred by      initiative yet. The migrant organisation, the civil
+the tribunal. The investigation can be extended for      society organisation that extends legal aid to the
+an additional 30 working days with a satisfactory        victim migrant workers, also face hindrance and
+explanation on the causes of not being completed         humiliation during the arbitration process. There is
+within the initial 90 working days.                      little protection for migrant workers and civil society
+                                                         representatives.
+The research was able to follow only six cases filed
+by three returnee women migrant workers. Three of        n Absence of special tribunal
+the cases were filed under the OEMA 2013 while the       Though the Prevention of Human Trafficking and
+other three were filed under the Anti-Trafficking Act    Suppression Act (PHTSA) 2012 mandates to establish
+2012. The research observed that the investigation       a Special Tribunal for the cases filed under the
+of none of the cases under the Migrants Act was          Act, there was rarely any initiative in this regard.
+completed during 2019. The investigation of one          Therefore, all the cases which were filed under the
+case was running for 146 days while the other took       PHTSA 2012 during 2019 were filed in the Special
+221 days.                                                Tribunal for women and children. The Government
+                                                         established a Special Tribunal for Human Trafficking
+One case had been disposed by forced mediation           Cases in 2020 at the divisional level. This is one step
+(salish) during investigation time. In regard to         forward to expedite justice for the victims of human
+the cases under the Anti Trafficking Act, the            trafficking. However, the special tribunal for human
+investigation of one case was completed within 116       trafficking cases needs to be established at the
+days which was under trial for the period of 97 days.    district level for easy access of the victims.
+One case was opened and dismissed by the court
+on the same date with the reason given that the          The OEMA 2013 specified that the cases for the
+treatment of the case as ‘human trafficking’ would       violation of the Act will be filed in the first-class
+negatively hit labour migration from Bangladesh.         Judicial Magistrate’s Court and/or Metropolitan
+The other cases are still under investigation. The       Magistrate’s Court. However, these courts are
+delay in investigation meant migrant workers risked      overburdened with numerous cases. Around
+threats and a delay to the justice they deserve.         3.5 million cases remain pending in the lower court.
+                                                         Therefore, justice gets delayed. The general public
+n Lack of protection                                     has a negative impression about the lengthy justice
+The OEMA 2013 has no provision for the protection        procedure which has negative impacts on the
+of the victim and the witnesses. The Anti-Trafficking    migrant workers seeking justice they are entitled to.
+Act has victim protection provision but there are
+rarely facilities for implication of the provision.
+Therefore, the victim migrant workers and the
+witnesses remain unprotected and become more
+vulnerable to harm. Among the cases followed by
+the research, one offender attacked one woman
+after filing the case in the court and made her
+critically injured. There was no outcome following
+the second case on the offender for the attack.
+The woman is under continuous threat to
+withdraw the case.
+
+The migrant workers face threats and risks not
+only in the court but also during arbitration. They
+face further exploitation and humiliation in seeking
+justice which is a clear violation. According to the
+OEMA 2013, the Government should provide legal
+aid to the migrant workers. But there is no such
+32       Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+        CASE STUDY 5: Default recruitment leads to sex trade
+
+     Shamima (Pseudonym) (27, according to her             employer’s house did she not face any abuse.
+     passport) was only 17 when she went to Saudi          Though the husband attempted to rape her, the
+     Arabia in 2019. She did not attend any training       wife rescued her. She was forced to drink alcohol
+     or health check-up before going abroad. Under         in every house where she went to work. As a
+     a domestic worker’s visa, she was originally          result, she would get drunk and not remember
+     employed as a sex worker which she was unaware        anything.
+     of. Shamima was never employed by any specific
+     employer as the recruiting agent forced her to        Shamima told her family about her plight
+     work as a sex worker.                                 and pleaded with them to save her. When her
+                                                           family contacted the agent, he demanded
+     Shamima tried her best to save herself but she        BDT 50,000 (US$ 595) to return her. After the full
+     suffered severe physical torture. In just three       amount was paid, Shamima was brought back to
+     months of exile, she had to work for                  the country. According to her, “she was being sold
+       five employers. Among them, only at the fifth       by turns one to another employer.”
+
+
+
+
+n Lack of orientation on the acts among                    n Lack of support by Bangladesh mission
+concerned stakeholders                                     and labour wings abroad
+There is little initiative from the respective ministry    Bangladesh missions and labour wings are
+to undertake orientation and awareness activities          supposed to provide all support and assistance,
+among the concerned stakeholders including                 including legal aid, to the migrant workers abroad.
+officials of the ministry, Bangladesh missions, labour     There is no official data available about the number
+wings and others on the one hand, and police,              of complaints received from the migrant workers
+prosecutors and judges on the other. Therefore, the        annually, how many of those are resolved, how to
+implementation of the Act is challenging. Acts such        resolve them, or how the compensation is realised.
+as OEMA 2013 and PSHTA 2012 were adopted in                There is rarely a reported instance where the
+consideration of special contexts and consequences.        missions and labour wings extended assistance
+The lack of understanding about the context and            to the Bangladeshi migrant workers abroad to file
+consequences of migrant workers means it is not            cases against the employer, or legal aid to support
+possible to get fair justice for the victims.              migrant workers who filed cases by themselves.
+                                                           Most of the women migrant workers (participants
+There is lack of awareness of the Acts among the           of this research) claimed they had rarely received
+migrant workers and their communities. Most of the         any assistance in getting remedies from the
+research participants admitted that they had hardly        abusive employers. Rather they were blamed as a
+any knowledge about the Acts and their scope to            wrongdoer. The lack of resources in the missions
+seek justice. It was evident that the lack of awareness    and labour wings is a challenge to the handling
+and knowledge about their right to access justice          of complaints from the huge number of migrant
+often creates indifference among migrant workers           workers. But this should not be an excuse where the
+and their families to file cases/complaints. The lack of   issue of rights of the migrant workers is concerned.
+awareness and knowledge instigates taboos about
+the justice system, creates negative perceptions and
+non-confidence.
+
+
+
+
+                                                                                                   Photo: © OKUP
+Access to justice for Bangladeshi migrant workers: Opportunities and challenges   33
+34        Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+Ralia*, (40) migrated overseas to seek employment
+as a domestic worker. She was tortured and abused
+by her employer and now suffers with longterm health
+affects. Through OKUP’s community outreach,
+Ralia was able to seek support and regularly attends
+the Migrant forum and meets with OKUP staff via
+the CAFOD/EU funded project.
+*Ralia’s name has been changed to protect her identity.
+Photo: © Chloe Sideserf / CAFOD
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges       35
+
+
+
+
+  5 Recommendations
+
+Labour migration has become a major livelihood           Though the newly adopted special laws widened
+strategy for thousands of young adult Bangladeshis,      opportunities for the migrant workers to access
+both men and women. Almost a quarter of the              justice, there are challenges to actually get fair
+young adults who enter the labour market every           and equitable justice. This research presented
+year migrate abroad in search of better employment.      the opportunities and the challenges in the
+                                                         justice system and highlighted the importance of
+Labour migration significantly contributes to both       ending the culture of impunity and its irreparable
+the macro and micro economy of Bangladesh.               consequences. An improvement in the justice
+Migrant workers sent a total of US$ 76.28 billion        system for migrant workers is essential to promote
+between 2015 and 2019, which is on average               accountable and responsible recruitment to ensure
+US$ 15.26 billion per year. Remittances sent by the      that the positive macro and micro economic
+migrant workers during the last five years were          impacts of labour migration continue and increase
+nearly 6 times the level of Foreign Direct Investment    in the future.
+(FDI) and 5 times the level of Official Development
+Assistance (ODA). Remittances also have effects          Fair and ethical recruitment and protective
+on the micro economy in that they are invested in        safeguards that ensure decent work is Objective 6 of
+health, education and other essentials, and these        the Global Compact for Migration (GCM) indicators.
+investments play an important role in improving          Often women as migrant workers are excluded
+Bangladesh’s ranking in the World Human                  from local labour laws in destination countries.
+Development Index (HDI).                                 Though many migrant workers, mostly women,
+                                                         become the victim of deportation and forced labour
+Despite their contribution to the overall                and return from destination countries, seldom are
+development of the country, and despite the              they able to access justice in those countries. The
+Government of Bangladesh adopting laws and               OEMA 2013 allows survivors to take legal action
+policies to protect migrant worker rights, migrant       against recruitment agencies in Bangladesh, and
+workers remain vulnerable to an unfair and unsafe        also permits them to receive legal aid in destination
+recruitment system. This report has outlined how         countries but the latter is hardly provided in the
+the nexus of agents and sub-agents entice women          implementation.
+into migration by providing false promises and
+information, and by taking unlawful measures to
+send women abroad for employment. The agents
+then place women in vulnerable and dangerous
+situations abroad.
+
+The return of women migrant workers empty
+handed with the scars of abuse and exploitation
+on their bodies, and with critical mental and
+physical illnesses creates further problems as they
+are often indebted, and perceived as a burden
+to their family. Among the respondents in the
+research for this report, 48 per cent of the returnee
+women migrant workers shared that they battle
+stigma and discrimination upon their return. Many
+of these returnees are forced to live in isolation
+and to reduce their mobility as they were falsely
+labelled with disgraceful and shameful names. The
+research shows that on return with unpaid debts for
+migration, as well as critical illness or trauma, many
+families are pushed further into poverty.
+36      Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+We recommend the following changes in order               n Chapter VIII: Offence, Penalties and Trial:
+to improve the institutional justice mechanisms            Article 38 has clear provision of filing the case
+for migrant workers, especially women.                     in the court of first-class Judicial Magistrate or
+                                                           the Metropolitan Magistrate and description of
+n The judicial process should review the
+                                                           the trial period. In practice, both the courts deal
+  Overseas Employment and Migrants’ Act 2013
+                                                           with different types of criminal cases and are
+	Although the OEMA 2013 extends migrant
+                                                           overburdened. For the sake of the speedy trial for
+  workers’ rights by regulating recruiting agents,
+                                                           migrant workers’ cases there should be provision
+  allowing migrant workers access to justice through
+                                                           for establishing ‘Special Tribunal’. The Government
+  civil suits or through arbitration at BMET, there
+                                                           of Bangladesh has already established a ‘Special
+  is a need to amend the law for further extension
+                                                           Tribunal’ for the trial of Human Trafficking cases.
+  of rights and protection of migrant workers. The
+                                                           The Government should allow migrant workers
+  areas for amendment are:
+                                                           to file cases in the ‘Special Tribunal’ already
+n Chapter III: Recruiting Agents, License, and            established for the cases of Human Trafficking,
+ such others: The OEMA 2013 should include a               either by a special ‘Order’ or inclusion of a new
+ new provision in Chapter III in order to recognise        article/sub-article under Article 38.
+ the presence of the sub-agents in the recruitment
+                                                          The Bangladesh Government should:
+ chain. The sub-agent should be registered under
+ the licensed recruiting agents and brought               n Introduce a comprehensive arbitration rule
+ under accountability together with the agents for        	The Government should adopt a separate and
+ their roles and engagement in the recruitment              comprehensive set of Rules for arbitration as
+ process. In this regard, each licensed recruiting          stipulated in Art. 41(4) of the OEMA 2013. The
+ agent should enlist their nominated sub-agents             Rules should set out clear steps to conduct
+ with complete details and get them approved by             the arbitration process for filing complaints,
+ the ministry of expatriate welfare and overseas            enlistment of complaints, officially recorded notice
+ employment. The profile of each approved                   for arbitration hearings, numbers of maximum
+ sub-agent should be published on the website               hearings, steps of arbitration hearings, numbers
+ together with the name of the proprietor and the           of maximum hearings and specific time period
+ staff of the licensed recruiting agents.                   to resolve a complaint etc. The Rules should have
+                                                            provisions to treat derogation for the absence of
+n Chapter VIII: Offence, Penalties and Trial:
+                                                            any party in the hearings. There should be specific
+ Article 39 recognises the offences relating
+                                                            provisions of censure if any arbitration failed to
+ to false promise, fraud, extortion, detaining
+                                                            dispose the complaint within the timeline.
+ documents during recruitment under the article
+ 31 (a, b, c, d), article 32 (publishing unauthorised     	The Rules should detail roles and responsibilities
+ advertisement for overseas employment), article            of the arbitrator. The Rules should set a Code of
+ 35 (other offences) as non-cognisable, bailable            Conduct for the recruiting agents and the migrant
+ and compoundable which weakens the Act for                 workers to ensure an enabling environment for
+ migrant workers as most of the cases the migrant           all parties.
+ workers become the victim of the offences under
+                                                          	The Rules should be aligned with the human
+ those articles. Such provisions give perpetrators
+                                                            rights principles and ensure human dignity,
+ almost guaranteed impunity and immunity from
+                                                            privacy and confidentiality of each party especially
+ prosecution or arbitration. Therefore, offences
+                                                            the victim migrant workers. The arbitration should
+ relating to fraudulent activities under the article 31
+                                                            have a system to update progress to any party by
+ (a, b, c, d) should be treated as cognisable,
+                                                            introducing an online tracking system from the
+ non-compoundable, and non-bailable.
+                                                            point of filing complaints to the final verdict which
+n Chapter VIII: Offence, Penalties and Trial: There        will help to ensure a well-organised, documented
+ is no provision for the protection of the victim and       and transparent arbitration process for all parties.
+ witness which put the victim migrant workers
+ under threats and danger and discourages them
+ from filing civil suits and/or complaints. Therefore,
+ the Act should include a new article and/or sub-
+ agent in the Chapter relating to the protection of
+ victim migrant workers and their families/witness.
+                      Access to justice for Bangladeshi migrant workers: Opportunities and challenges             37
+
+
+
+
+n Establish an arbitral tribunal                          n Design a monitoring system and
+	The Government should establish a ‘Separate               formal structure
+  Arbitral Tribunal’ under the direct supervision         	The Migrant Act makes liable the recruiting agents
+  of the Ministry of Expatriate and Overseas                for violation of the job contract but does not
+  Employment as a separate wing, having separate            mention any compensation for the victim migrant
+  office and necessary human resources including            workers. The Migrant Act does not mention
+  a pool of qualified ‘arbitrator’(s).                      compensation if a migrant worker faces physical
+                                                            torture, sexual abuse, psychological stresses,
+n Decentralise arbitration at district level
+                                                            or other forms of loss and damages. There is no
+	The arbitral tribunal needs to be decentralised
+                                                            written guideline about the arbitral award as well.
+  at district level to ensure easy access for migrant
+                                                            As there is no measuring parameter to count the
+  workers who come from remote villages. The
+                                                            damage of the returnees, rather it depends on
+  migrant workers face financial difficulties, security
+                                                            the arbitrator’s inquisitorial mind – advantage can
+  concerns for frequent back and forth travelling.
+                                                            be taken in terms of serving justice. It is reported
+n Build capacity of arbitrators and judges                  that the option of the usage of arbitrator’s
+	The Government should develop a comprehensive             inquisitorial mind is often misused, meaning
+  short-term and mid-term plan for improvement              the migrant workers are deprived of appropriate
+  of knowledge, skills and capacity of the arbitrator,      compensation.
+  judges, and concerned officials to deal with
+                                                          n	Undertake mass campaign on migrants’ access
+  arbitration effectively. Other than the arbitration
+                                                            to justice
+  rules, SOP, code of conduct etc. the training
+                                                          	This research finds a lack of awareness among
+  should include issues on labour rights, human
+                                                            most migrant workers, their families and
+  rights, migrants’ rights and gender sensitivity. The
+                                                            communities about the Act, and their legal
+  Judicial Administration Training Institute should
+                                                            rights if they experience fraud, deception or
+  include training on the Migrants Act.
+                                                            violations of their rights including entitlements
+n	Extend legal aid services for migrant workers            of the employment contract. The general public
+  both at the court and the arbitration                     has little confidence and trust in the judicial
+	To fulfil the obligation of the OEMA 2013, the            system and seeking justice is a social taboo.
+  Government should take immediate actions to               The Government should take necessary initiatives
+  ensure legal aid services to the migrant workers by       to raise awareness of the Act and its implications,
+  integrating migrant workers in the service list of        motivate migrant workers, their families and
+  the Government legal aid services.                        communities to seek justice through proper
+                                                            channels when needed.
+	The legal aid should be provided both for the
+  court cases and the arbitration through assistance      n Strengthen Labour Welfare Wings for
+  in documenting complaints, legal counseling               providing legal aid to the workers
+  and legal representation. The Government should         	The OEMA 2013 authorised the Labour Welfare
+  invite and engage civil society organisations and         Wings in Bangladesh Missions abroad for
+  pro-bono lawyers to extend assistance in                  providing legal counseling, legal aid and necessary
+  this regard.                                              services to deal with problems faced by migrant
+                                                            workers. While working with these 262 cases
+n 	Ensure proportionate compensation
+                                                            in 2019 OKUP realised that The Labour Welfare
+	The Government should ensure proportionate
+                                                            Wings can rarely provide legal aid services to the
+  compensation for migrant workers which
+                                                            victim migrant workers due to various limitations.
+  considers not only financial loss, but also social
+                                                            The Government should ensure special measures,
+  costs that migrant workers experience from
+                                                            for example establishing a ‘legal aid cell’ with
+  physical, psychological and other forms of abuse
+                                                            allocation of necessary budget and human
+  and exploitation. However, Chapter VIII: Offence,
+                                                            resources in the Labour Welfare Wing,
+  Penalties and Trail of the Migrant Act defined
+                                                            to provide legal aid to the Bangladeshi
+  the offence and penalties for the offenders but
+                                                            migrant workers abroad.
+  is silent about the compensation for the victim
+  migrant workers.
+38      Access to justice for Bangladeshi migrant workers: Opportunities and challenges
+
+
+
+
+        About OKUP
+
+
+
+
+OKUP staff run pre-departure training for potential migrants where they learn about safe pathways to migration,
+practical aspects of migration and their rights as migrant workers. Photo: © OKUP
+
+
+
+Ovibashi Karmi Unnayan Program (OKUP) is a                 Our mission:
+grassroots migrants’ organisation in Bangladesh.           To bring migrants’ perspectives and voices in the
+As a migrants’ organisation, our primary focus is to       migration discourse to ensure the rights, justice,
+reduce migrant workers’ risks and vulnerabilities          and dignity of all migrant workers, their families,
+to forced labour, human trafficking, and slavery of        and communities.
+economic and climate induced migration. We are
+committed to upholding their rights, protection,           Our strategic objectives:
+and dignity in the migration cycle.                        n Empowering migrant workers, their families, and
+                                                             communities to build resilience against unsafe
+Our principles:                                              migration, trafficking and modern slavery;
+OKUP is established on and operates with the core
+                                                           n Protecting the rights and dignity of migrant
+values of human rights, gender justice, equality, and
+                                                             workers (both economic and climate induced),
+non-discrimination.
+                                                             their families, and communities throughout the
+                                                             migration cycle;
+Our vision:
+To create an enabling environment for the rights           n Promoting sustainable reintegration and
+and protection of all migrant workers across borders,        livelihoods for returnee migrant workers and
+irrespective of gender and legal status.                     their families;
+                                                           n Conducting research and evidence-based
+                                                             advocacy at local, national, and international levels.
+Access to justice for Bangladeshi migrant workers: Opportunities and challenges   39
+This publication has been produced with the assistance of the
+European Union. The contents of this publication are the sole
+responsibility of OKUP and CAFOD and can in no way be taken
+to reflect the views of the European Union
+
+
+
+
+Ovibashi Karmi Unnayan Program (OKUP)
+466 Shawdagor Garden (4th Floor)
+Donia Post Office Road, Dhaka – 1236
+Tel: +88 02 7553737 Mob: +88 01842 773300
+Email: okup.ent@gmail.com www.okup.org.bd
+
+
+
+
+The Catholic Agency for Overseas Development (CAFOD)
+is the official aid agency of the Catholic Church in England
+and Wales and part of Caritas International.
+
+Charity no 1160384 and a company limited by guarantee no 09387398.
+Registered office: Romero House
+55 Westminster Bridge Road
+London SE1 7JB
+Tel: + 44 7095 5348 Email: cafod@cafod.org.uk cafod.org.uk
+

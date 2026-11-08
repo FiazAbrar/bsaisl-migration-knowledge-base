@@ -1,0 +1,2514 @@
+             Review of the
+government-to-government mechanism for
+the employment of Bangladeshi workers in
+     the Malaysian plantation sector
+Review of the
+government-to-government mechanism for
+the employment of Bangladeshi workers in
+the Malaysian plantation sector
+Copyright © International Labour Organization 2016
+First published 2016
+
+Publications of the International Labour Office enjoy copyright under Protocol 2 of the Universal Copyright
+Convention. Nevertheless, short excerpts from them may be reproduced without authorization, on condition that
+the source is indicated. For rights of reproduction or translation, application should be made to ILO Publications
+(Rights and Licensing), International Labour Office, CH-1211 Geneva 22, Switzerland, or by email:
+rights@ilo.org. The International Labour Office welcomes such applications.
+Libraries, institutions and other users registered with a reproduction rights organization may make copies in
+accordance with the licences issued to them for this purpose. Visit www.ifrro.org to find the reproduction rights
+organization in your country.
+
+
+
+Wickramasekara, Piyasiri
+
+Review of the government-to-government (G-to-G) mechanism for the employment of Bangladeshi workers in
+the Malaysian plantation sector : a report prepared for the International Labour Organization (ILO) / By Piyasiri
+Wickramasekara ; Global Migration Policy Associates (GMPA). – Dhaka and Bangkok : GMPA, 2016
+
+ISBN: 9789221302179 (web pdf)
+
+International Labour Office ; Global Migration Policy Associates
+
+migrant workers / plantation worker / recruitment / state intervention / Bangladesh / Malaysia
+
+14.09.2
+
+                                                                             ILO Cataloguing in Publication Data
+
+
+
+The designations employed in ILO publications, which are in conformity with United Nations practice, and the
+presentation of material therein do not imply the expression of any opinion whatsoever on the part of the
+International Labour Office concerning the legal status of any country, area or territory or of its authorities, or
+concerning the delimitation of its frontiers.
+The responsibility for opinions expressed in signed articles, studies and other contributions rests solely with their
+authors, and publication does not constitute an endorsement by the International Labour Office of the opinions
+expressed in them.
+Reference to names of firms and commercial products and processes does not imply their endorsement by the
+International Labour Office, and any failure to mention a particular firm, commercial product or process is not a
+sign of disapproval.
+ILO publications and digital products can be obtained through major booksellers and digital distribution platforms,
+or ordered directly from ilo@turpin-distribution.com. For more information, visit our website:
+www.ilo.org/publns or contact ilopubs@ilo.org.
+
+
+
+Cover photo: © CIFOR
+
+Printed in Bangladesh and Thailand
+Foreword
+Migrant workers form a key element in labour markets throughout the Asia-Pacific
+region. In Bangladesh, like many other countries of origin, labour migration is a source
+of employment, and workers’ remittances are critical to poverty alleviation and for
+offsetting the foreign trade deficit. Malaysia is a major country of destination, where
+migrants make up approximately a quarter of the workforce. Migrant workers’
+contributions are critical in several key economic sectors, including the multi-billion
+dollar palm oil industry.
+
+The high costs of migration, in terms of recruitment fees or remittance charges, are
+limiting the potential impact of migration on development. The need to reduce
+migration costs is widely recognized, including in the UN Secretary General’s Eight-
+Point Agenda, presented at the 2013 UN General Assembly High Level Dialogue on
+Migration and Development. The ILO Director-General’s Fair Migration Agenda,
+presented to the International Labour Conference in 2014, highlighted the abusive
+practices and high recruitment fees of unscrupulous intermediaries, including in
+relation to human trafficking and forced labour. The ILO Private Employment Agencies
+Convention, 1997 (No. 181) remains the reference point for standards governing the
+operation of private employment agencies and ensuring workers’ protection. The ILO
+Fair Recruitment Initiative also aims to further strengthen laws and enforcement
+mechanisms, in line with Convention No. 181, and promote fair business standards
+and practices.
+
+Generally, memoranda of understanding (MOUs) on labour migration between
+countries of origin and destination set out a framework for migration flows, outlining
+the procedures and responsibilities of the parties involved. In a bold effort to reduce
+the high costs of migration and ensure better protection for workers, the governments
+of Bangladesh and Malaysia signed an MOU that deployed workers in the plantation
+sector through a government-to-government (G-to-G) mechanism. Effective MOUs
+that are consistent with international labour standards, fair recruitment, and
+empowered and protected workers, are essential to ensuring the benefits of labour
+migration are more equally shared.
+
+Stakeholders who took part in the ILO’s technical cooperation activities concerning
+labour migration in Bangladesh and Malaysia presented a wide range of views on the
+success and failure of the MOU. To obtain an objective perspective, this independent
+assessment was commissioned. Interviews with key informants were held in both
+countries.
+
+This is only a preliminary assessment and a much deeper analysis could be carried
+out. However, it is expected that this study will contribute to policy discussions and
+negotiations concerning the MOU between the two countries. In addition, other
+countries of origin and destination in the region will be able to learn from this
+experience, when considering the value of G-to-G arrangements in matching labour
+market needs, reducing recruitment costs and improving worker protection.
+
+We would like to thank the relevant ministries, government departments and
+representatives of industry, trade unions and non-governmental organizations (NGOs)
+of Bangladesh and Malaysia for contributing to this study. The ILO will continue to
+
+                                           v
+support the governments, social partners, employment service providers and other
+important stakeholders in Bangladesh and Malaysia on the critical issue of the
+governance of labour migration.
+
+
+
+
+Ms Tomoko Nishimoto
+Assistant Director-General and Regional Director
+ILO Regional Office for Asia and the Pacific
+
+
+
+
+                                          vi
+Table of contents
+Foreword............................................................................................................................... v
+Acknowledgements ...............................................................................................................xi
+Executive summary ............................................................................................................. xiii
+Abbreviations ...................................................................................................................... xix
+1. Introduction ....................................................................................................................... 1
+   Background ....................................................................................................................... 1
+   Objectives, methodology, and limitations of the study........................................................ 2
+   Objectives of the MOU ...................................................................................................... 3
+2. Major findings.................................................................................................................... 5
+   Operational progress ......................................................................................................... 5
+   G-to-G mechanism has lowered migration costs considerably ........................................... 5
+   Employment opportunities provided to Bangladeshi workers under the G-to-G ................. 7
+   What are the factors that can explain the gap between expectations and actual outcomes
+     in relation to numbers mobilized? ................................................................................. 8
+   Did the G-to-G mechanism contribute to an increase in smuggling of Bangladeshis to
+      Malaysia? ................................................................................................................... 12
+   Working conditions of G-to-G workers ............................................................................. 12
+      Employment contracts.................................................................................................. 13
+      Minimum wages ........................................................................................................... 14
+      Social security benefits ................................................................................................ 15
+      Retention of identity documents ................................................................................... 15
+   Coordination among different stakeholders ..................................................................... 16
+3. Comparison with the Employment Permit System of the Republic of Korea .................... 17
+4. Recent developments and a proposed move towards a business-to-business (B-to-B)
+    mechanism.................................................................................................................... 19
+5. Policy implications and recommendations ....................................................................... 22
+   Guiding principles ............................................................................................................ 22
+   Possible scenarios and options ....................................................................................... 22
+   Recommendations........................................................................................................... 23
+      Recommendations for Governments of Bangladesh and Malaysia .............................. 23
+      Recommendations to the Government of Bangladesh ................................................. 27
+      Recommendations for the Government of Malaysia ..................................................... 28
+      Recommendations to the ILO...………………………………………………………………29
+References ......................................................................................................................... 30
+Annexes .............................................................................................................................. 33
+   Annex I: List of persons and institutions consulted........................................................... 33
+
+
+
+
+                                                                    vii
+Annex II: KNOMAD project: Structure of migration costs ................................................. 37
+Annex III: Summary of Bangladeshi worker applications and approvals under the G-to-G
+  mechanism ................................................................................................................. 38
+Annex IV: ILO Conventions ratified by Malaysia .............................................................. 39
+Annex V: Free and fair labour in palm oil production: Principles and implementation
+  guidance .................................................................................................................... 40
+Annex VI: Options for Bangladesh and Malaysia for the deployment of migrant workers . 41
+
+
+
+
+                                                             viii
+List of tables
+Table 1: Eligible employee information supplied by BMET to the Malaysian
+Government, by date .................................................................................................. 5
+Table 2: Workers deployed in Malaysia under the G-to-G mechanism through 10
+June 2015 .................................................................................................................. 5
+Table 3: Structure of total migration costs under G-to-G per worker (June 2015) ...... 6
+Table 4a: Palm oil sector worker applications and approvals (2013-15) .................... 9
+Table 4b: Share of Bangladeshi worker requests and approvals (2013-June 2015) 10
+Table 5. Comparison: Korean Employment Permit System and Bangladesh-Malaysia
+government-to-government mechanism ................................................................... 17
+
+
+
+
+                                                              ix
+x
+Acknowledgements
+This report was prepared by Piyasiri Wickramasekara from Global Migration Policy
+Associates (GMPA) in Geneva, and a Visiting Scholar at the School of Social and
+Political Sciences, University of Sydney, Australia. Technical and logistical support
+was provided by ILO staff working in Bangladesh, Malaysia and the Regional Office
+for Asia and the Pacific, namely Nisha, Disha Sonata Faruque, Max Tunon, Anni
+Santhiago and Nilim Baruah.
+
+This study has been prepared with the support of the ILO GMS TRIANGLE project
+(Tripartite Action to Protect the Rights of Migrant Workers within and from the Greater
+Mekong Sub-region), and the ILO’s project on Promoting Decent Work through
+Improved Migration Policy and Its Application in Bangladesh. These technical
+cooperation projects are supported by the Australian Government and the Swiss
+Agency for Development and Cooperation (SDC), respectively.
+
+Views expressed in this report are those of the author and contributors and do not
+necessarily represent those of the ILO, the Australian Government, and the SDC.
+
+
+
+
+                                           xi
+xii
+Executive summary
+Background
+The memorandum of understanding (MOU) between Bangladesh and Malaysia on the
+employment of Bangladeshi workers signed on 26 November 2012 established a
+state-managed recruitment system. It marked the resumption of regular labour
+migration flows from Bangladesh following a ban imposed by Malaysia in 2009 due to
+various recruitment malpractices in both countries.
+
+The objective of the new MOU was “to agree on the recruitment process of workers
+from Bangladesh to Malaysia through [a] government-to-government mechanism (“G-
+to-G”)” (MOHR, 2012). It bypasses private employment agencies (PrEAs) and instead
+requires government entities in both countries to handle the selection and placement
+of workers. Individual Malaysian employers are required to submit their labour needs
+to the inter-ministerial Malaysian Committee on Application of Bangladesh Workers
+(MCAB) especially set up for the G-to-G mechanism, while the Bureau of Manpower,
+Employment and Training (BMET) of the Ministry of Expatriates’ Welfare and
+Overseas Employment (MEWOE) acts as the designated public employment agency
+in Bangladesh.
+
+Palm oil is a multi-billion dollar industry that feeds into multiple global supply chains,
+from food to cosmetics. According to a presentation of the Malaysian Agricultural
+Producers' Association, export earnings for palm oil were 61.3 billion Malaysian ringgit
+(MYR) (US$16.9 billion) in 2013. Because of the importance of this industry, the palm
+oil sector is one of the 12 National Key Economic Areas (NKEAs) identified in the
+Malaysian Government’s Economic Transformation Programme (ETP).
+
+Given the link between recruitment and debt bondage and forced labour situations,
+there is keen interest from governments, social partners, the private sector and
+consumers around the world to promote fair recruitment practices and decent working
+conditions in the industry. Furthermore, a number of countries in the region have
+expressed an interest in a G-to-G approach, and this report provides for the sharing
+of experiences.
+
+The objective of this study is to make a preliminary assessment of the workings of the
+above G-to-G arrangement with a view to identifying areas for improvement. This
+report was commissioned by two ILO labour migration projects: the ILO Project for
+Promoting Decent Work through Improved Migration Policy and its Application in
+Bangladesh and ILO Tripartite Action to Protect Migrant Workers within and from the
+Greater Mekong Sub region from Labour Exploitation (GMS TRIANGLE project). The
+staff of these two projects provided extensive guidance and comments throughout the
+process.
+
+The analysis has been updated up to early August 2015.
+
+Operation of the G-to-G mechanism
+The Government of Malaysia initially introduced a ceiling of 10,000 workers from
+Bangladesh for the palm oil plantation sector in Peninsular Malaysia. BMET set up a
+database that registered 1.4 million persons from all districts who expressed an
+interest in migrating to Malaysia under the G-to-G mechanism. While this was a good
+
+
+                                            xiii
+practice in terms of transparency and extending fair opportunities, the response far
+exceeded Malaysian employers’ anticipated demand for workers.
+
+In terms of operation, Bangladesh initially supplied records of 10,000 workers to
+Malaysia. By 10 June 2015, BMET reported that 7,616 Bangladeshi workers had
+started work in Malaysia. The number employed represents 76 per cent of the initial
+demand, but only 0.52 per cent of the number of workers that registered with BMET.
+
+The major achievement of the G-to-G mechanism is the drastic reduction of migration
+costs by about 8 to 10 times, from US$3,000-$4,000 charged by private recruiters to
+about $400 through the G-to-G mechanism – according to estimates provided by
+Malaysian Government officials. This was possible because the system was able to
+minimize intermediary fees. Workers hired through the G-to-G mechanism are
+therefore free of onerous debt burdens. Indebtedness can lead to some migrants
+violating the terms of their visas in order to pay back the debts, thus leading to
+increased vulnerability to exploitation.
+
+In the absence of availability of the G-to-G MOU in the public domain and a general
+lack of information about systems that needed to be put in place by both parties, there
+is an impression that the mechanism has had limited success. It has been reported in
+the media that the mechanism has not been successful in expanding migration
+opportunities to the large number of Bangladeshi workers seeking overseas
+employment. Several accounts have been put forward to explain this situation: lack of
+attention to capacity building of machinery of the Bangladeshi Government, intense
+lobbying by PrEAs to make the mechanism appear to fail, and inadequate investment
+in the system by the Government of Malaysia. There is clear evidence that BMET
+developed the requisite capacity to handle the supply of workers. There is no hard
+evidence of lobbying by PrEAs against the system although reports in the media and
+interviews with key informants have highlighted such concerns. While the programme
+was obviously of high priority to the Government of Bangladesh, from the Malaysian
+perspective it is just one pilot programme applying to one sector and one country of
+origin, which may not have justified heavy investments.
+
+The more plausible reason for the limited expansion of employment opportunities for
+Bangladeshi workers in Malaysia is the limited quota set by the Government of
+Malaysia, not the G-to-G system itself. Demand from Malaysia amounted to only
+10,801 approvals by 30 June 2015 after two and a half years of operation, consistent
+with the quota set by the Government of Malaysia of 10,000 workers. Malaysia has
+not expanded the mechanism to other sectors or raised the ceiling to 30,000 workers
+as originally foreseen. From January 2013 to June 2015, Bangladesh received only
+10.5 per cent of the total requests for workers by oil palm plantations in Malaysia, with
+the majority of requests being filled by several other source countries.
+
+While the study was not designed to look deeply into the working conditions of workers
+hired under the G-to-G mechanism, some preliminary observations can be made
+based on key informant interviews. In general, workers migrating through the G-to-G
+mechanism face the same labour rights and protection concerns as all other foreign
+workers in the sector. Since only large estates are eligible to apply for G-to-G workers,
+such workers are thought to enjoy better working conditions than in smallholdings.
+They are also under less pressure because of low migration costs. The Ministry of
+
+
+                                           xiv
+Human Resources (MOHR), plantation employers, and the Bangladesh High
+Commission all mentioned the absence of any major complaints. Neither Malaysian
+Trades Union Confederation (MTUC) nor Tenaganita (NGO) had had contact with
+workers that had arrived under the G-to-G mechanism, and there are few NGOs with
+access to workers in the plantation sector who are in a position to verify this.
+
+The study found conflicting information on the signing of employment contracts, the
+availability of the documents in the language that workers understand, and whether
+workers were given copies of their contracts. Other common problems faced by
+plantation workers (but not specifically Bangladeshi workers) relate to passport
+retention by employers and pay disputes. The main issues relate to payment of less
+than the minimum wage, use of piece rate systems, and unjustified deductions. Such
+deductions are more common under subcontracting arrangements and in
+smallholdings. During field consultations, employers mentioned that passports were
+kept only with the consent of the workers who would have ready access to them in
+case of need. There was no way to verify this.
+
+Overall, the G-to-G mechanism is a good practice model that has led to dramatic
+reductions in the cost of migration, eliminated debt burdens, and demonstrated that a
+state-managed recruitment and placement option is a credible one. While there were
+operational problems in the pilot mechanism, no serious attempt has been made to
+evaluate its operation up to now, and address issues affecting its effective functioning.
+
+Possibility of introduction of a business to business (B-to-B) mechanism for all
+sectors with the governments playing a facilitative and regulatory role
+There is a proposal to introduce a B-to-B mechanism to complement or replace the
+existing G-to-G mechanism. This is the option favoured by certain quarters in
+Bangladesh and Malaysia. This option carries a high risk based on past experiences.
+The MEWOE has made it clear that if a B-to-B mechanism is to be considered, all
+workers have to be drawn from the BMET job register/database and that foreign
+employers will have to bear most of the recruitment costs.
+
+Conclusions
+There are several key principles to be adhered to regardless of policy options
+considered by the governments of the two countries, based on relevant international
+labour standards and the ILO Multilateral Framework on Labour Migration: Non-
+binding principles and guidelines for a rights-based approach to labour migration.
+These include: ensuring migration in conditions of security, dignity, equity, and justice;
+transparency of processes; decent working conditions in Malaysia; avoidance of
+intermediaries and third-party institutions at both ends that create space for worker
+exploitation; equal treatment on par with national workers, and promotion of social
+dialogue with employers, workers, and civil society on migration policies and practices.
+
+Expansion of the G-to-G mechanism
+The study considers that the G-to-G mechanism offers the best scope for a way
+forward and supports its continuation and expansion to cover other permitted
+employment sectors. The MOHR has indeed taken such a decision and informed 11
+other ministries, social partners, and other stakeholders on 23 June 2015 that the G-
+to-G recruitment system will be extended from the plantation sector to all other sectors.
+There are plans to introduce it to other countries of origin as well. Both governments
+
+
+                                            xv
+should take proactive steps to make the scheme known to employers and incorporate
+some flexibility for the selection of workers by employers without the mediation of a
+third party. They should also ensure transparency of the MOU and its implementation
+process through social dialogue with representative workers’ and employers’
+organizations, and information sharing with social partners and other key
+stakeholders.
+
+Combined G-to-G and B-to-B mechanism and options
+Given that the MEWOE and Ministry of Home Affairs (MOHA) may consider a B-to-B
+mechanism, it is important to review several recruitment options rather than
+abandoning the G-to-G mechanism. Two options are possible: a) continue with the G-
+to-G mechanism for the plantation sector with higher quota allocation and a B-to-B
+mechanism for other sectors, which are relatively easier to monitor; and b) apply G-
+to-G and B-to-B mechanisms to all permitted sectors with a clear demarcation of
+permitted sectors per mechanism. Both options require proactive policies on the parts
+of both States’ parties if the G-to-G momentum is to be maintained.
+
+If the B-to-B mechanism is to be treated as an option, it is essential that a range of
+measures are put in place to prevent a backsliding to excessive recruitment fees that
+contribute to debt bondage, and irresponsible and unethical practices by outsourcing
+agencies. The regulatory framework needs to be strengthened and streamlined in both
+countries. Malaysia should update the Private Employment Agencies Bill drawing on
+international labour standards and good practices. Bangladesh needs to streamline
+the regulatory framework bringing in the new Recruitment Agent License and Conduct
+and Classification Rules. Recruitment fees must be monitored through regular surveys
+in both countries. Special efforts are required to publicize the procedures, and ensure
+their application.
+
+Recommendations to the Government of Bangladesh
+ The Government of Bangladesh should take a holistic view of all Bangladeshi
+  migrant workers in Malaysia, ensuring their protection regardless of their legal
+  status. The Government should also explore other overseas markets for
+  Bangladeshi workers apart from Malaysia given the large numbers interested in
+  labour migration abroad.
+
+   Bangladesh should not abandon its commitment to the G-to-G mechanism given
+    the demonstrated benefits, especially the dramatic reduction in migration-related
+    costs. Rather, it should conduct a more in-depth assessment of its effectiveness,
+    improve data collection on migration costs and working conditions. The
+    Government should explore continuation of the G-to-G mechanism and, if
+    necessary, its coexistence with B-to-B mechanisms.
+
+   The current database developed mainly for plantation jobs in Malaysia should be
+    further refined to obtain other information, such as specific skills, current or
+    previous employment, and previous migration records, among others.
+
+   Women should also be given migration opportunities in conditions of dignity and
+    security to Malaysia in plantations as well as other sectors, and to other
+    destinations. Women should be included in such agreements and be allowed to
+    register and access other relevant services.
+
+
+                                          xvi
+Recommendations for the Government of Malaysia
+ The Malaysian Government, in cooperation with social partners, should forecast
+  labour market needs in the medium to long term, as well as demand for migrant
+  workers in the plantation sector and other sectors.
+
+   Designate Bangladesh as a ‘source country’ for the supply of migrant workers to
+    all permitted sectors in Malaysia, which will obviate the need for special
+    procedures.
+
+   Following on from the initiative of MOHR, expand the G-to-G mechanism to all
+    employment sectors for Bangladeshi workers and also for other source countries
+    where possible.
+
+   Strengthen labour inspection services to monitor working conditions, ensure
+    compliance with employment contracts, and detect incidences of forced labour
+    practices. These should apply to all migrant workers, not only to G-to-G workers.
+    It is also important to ensure that trade unions and NGOs have access to reach
+    workers in the plantations sector.
+
+   Involve social partners in major initiatives relating to policies and practices in regard
+    to labour migration, including G-to-G and other arrangements, to obtain a
+    consensus on the need for migrant workers.
+
+Recommendations to the ILO
+The ILO is already providing technical cooperation assistance in Bangladesh and
+Malaysia on labour migration. There is a broader set of policy and operational
+recommendations that have been developed, and also further emerge from ILO
+assistance relating to international standards and commitments, research, dialogue
+and cooperation. Specifically, it should support the two governments and social
+partners in their efforts to promote good governance of migration, fair recruitment
+practices, decent working conditions and social protection for migrant workers. It is
+important for both governments to gather information and data relevant for the
+planning and operation of labour migration programmes. Periodic surveys to monitor
+migration and recruitment costs, wages, and working conditions are needed. Technical
+assistance can be sought from the ILO for this purpose. In particular, the ILO should
+consider how to address the knowledge gap that continues to exist with regard to
+working conditions in the plantations sector. The ILO has conducted sectoral studies
+in a number of other countries that have contributed to more evidence-based policy
+formulation. In addition, the ILO could also replicate studies to measure recruitment
+costs in this corridor; a study on recruitment costs between Viet Nam and Malaysia is
+already underway, as are several similar studies between South Asian countries and
+Gulf States.
+
+
+
+
+                                              xvii
+xviii
+Abbreviations
+BAIRA      Bangladesh Association of International Recruiting Agencies
+BDT        Bangladesh taka
+BMET       Bureau of Manpower, Employment and Training (Bangladesh)
+B-to-B     Business-to-Business Mechanism
+CIDB       Constructing Industry Development Board (Malaysia)
+CIETT      International Confederation of Private Employment Agencies
+CSO        Civil Society Organization
+EPS        Employment Permit Scheme (Republic of Korea)
+EPU        Economic Planning Unit
+ETP        Economic Transformation Programme
+FWCMS      Foreign Workers Centralized Management System
+GCC        Gulf Cooperation Council
+GFMD       Global Forum on Migration and Development
+GMG        Global Migration Group
+GNI        gross national income
+G-to-G     government-to-government mechanism
+ICMW       International Convention on the Protection of the Rights of All Migrant
+           Workers and Members of Their Families
+ILMIA-MOHR Institute of Labour Market Information & Analysis, Ministry of Human
+           Resources (Malaysia)
+ILO        International Labour Organization/ International Labour Office
+KNOMAD     Global Knowledge Partnership on Migration and Development
+MAPA       Malayan Agricultural Producers Association
+MAPO       Council for Anti-Trafficking in Persons and Anti-Smuggling of Migrants
+           (Malaysia)
+MCAB       Malaysian Committee for Appointment of Bangladeshi workers
+MDTCA      Ministry of Domestic Trade and Consumer Affairs (Malaysia)
+MEF        Malaysian Employers’ Federation
+MEWOE      Ministry of Expatriate Welfare and Overseas Employment (Bangladesh)
+MITI       Ministry of International Trade and Industry (Malaysia)
+MOA        Ministry of Agriculture (Malaysia)
+MOHA       Ministry of Home Affairs (Malaysia)
+MOHR       Ministry of Human Resources (Malaysia)
+MOIA       Ministry of Overseas Indian Affairs (India)
+MOTOUR     Ministry of Tourism and Culture (Malaysia)
+MOU        memorandum of understanding
+MPIC       Ministry of Plantation Industries and Commodities (Malaysia)
+MTUC       Malaysian Trades Union Congress
+MWFM       Ministry of Women, Family and Community Development (Malaysia)
+MYR        Malaysian ringgit
+NGO        non-governmental organization
+NKEA       National Key Economic Areas
+NUPW       National Union of Plantation Workers (Malaysia)
+OSC        One Stop Centre
+PrEA       Private employment agencies / Recruitment agents / Recruitment agencies
+
+
+
+                                      xix
+RSE     Recognized Employer Scheme (New Zealand)
+RSPO    Roundtable on Sustainable Palm Oil (Malaysia)
+UNHCR   United Nations High Commissioner for Refugees
+VWR     Visa With Reference
+WARBE   Welfare Association for the Rights of Bangladeshi Emigrants
+
+
+
+
+                                  xx
+   A review of the government-to-government arrangement for the
+   employment of Bangladeshi workers in the Malaysian plantation
+   sector
+
+   1. Introduction
+   Background
+1. Bilateral agreements and memoranda of understanding (MOUs) for governance of
+   labour migration are popular in Asia, but state-managed recruitment systems are not
+   common. The Republic of Korea opted for state-managed recruitment in 2004 to
+   address challenges of irregular migration and recruitment-related malpractices. The
+   Government of Malaysia launched a government-to-government (G-to-G) mechanism
+   for the employment of Bangladeshi workers in Malaysia in November 2012.1
+
+2. Malaysia has recognized 11 countries of origin as ‘source’ countries for hiring workers
+   in permitted sectors of manufacturing, construction, plantation, agriculture, domestic
+   work and services.2 Workers from other origin countries – India, Indonesia, and the
+   Philippines – face some restrictions relating to sectors or gender. From Bangladesh,
+   workers can be hired only for the plantation sector under the G-to-G arrangement.3
+   The recruitment and placement of Bangladeshi workers in Malaysia by private
+   employment agencies (PrEAs) and outsourcing companies during 2007–2008
+   resulted in various abuses. There were instances of workers who had paid high
+   recruitment fees being stranded in Kuala Lumpur without a specific job to fill, or placed
+   in forced labour situations, or deported (Palma, 2015a; Tenaganita cited in Robertson,
+   2008).4 This led the Government of Malaysia to impose a ban on the recruitment of
+   workers from Bangladesh in 2009.5
+
+3. It was only in 2012 that the Government of Malaysia agreed to resume the recruitment
+   of Bangladeshi workers for the palm oil sector through a G-to-G mechanism based on
+   an MOU signed on 26 November 2012.6 The two main parties were the Ministry of
+   Human Resources (MOHR) of the Government of Malaysia and the Ministry of
+   Expatriate Welfare and Overseas Employment (MEWOE) of the Government of
+   Bangladesh. The objective of the new MOU was “to agree on the recruitment process
+   of workers from Bangladesh to Malaysia through government-to-government
+   mechanism (“G-to-G”)” (MOHR, 2012). It bypasses PrEAs and requires government
+   entities in both countries to handle the selection and placement of workers. Individual
+
+   1
+     The New Zealand Recognized Employer (RSE) Scheme is not strictly a G-to-G system since it allows direct
+   hiring by employers and hiring through PrEAs.
+   2
+     They are: Cambodia, Kazakhstan, the Lao People’s Democratic Republic, Myanmar, Nepal, Pakistan, Sri Lanka,
+   Thailand, Turkmenistan, Uzbekistan, and Viet Nam.
+   3
+     See: http://www.imi.gov.my/index.php/en/main-services/foreign-worker. The reasons why Bangladesh has
+   not been included among designated source countries (despite requests by Bangladesh) are not clear
+   [accessed 6 Jan. 2016].
+   4
+     “More than four lakh Bangladeshi workers were recruited during that time, but many had remained jobless,
+   coerced into working without wage or were given low wages and many were deported penniless” (Palma,
+   2015d).
+   5
+     Malaysia had imposed similar bans on Bangladesh in 1997 and 2001.
+   6
+     The exact title of the MOU is: “Memorandum of Understanding on the Employment of Workers ·between the
+   Government of Malaysia and the Government of the People's Republic of Bangladesh”. Previously an MOU
+   was signed between the two countries for the recruitment of Bangladeshi workers on 22 October 2003.
+
+                                                        1
+   Malaysian employers submit their demands to the Malaysian Committee on
+   Application of Bangladesh Workers (MCAB), which was especially set up to process
+   applications under the G-to-G mechanism.7 Employee selection is done from a job
+   register8 of workers supplied by the Government of Bangladesh. In launching the
+   scheme in 2012, the Government of Malaysia mentioned that the exercise will be
+   conducted on a three-month trial basis with the provision to consider expanding the
+   exercise to cover other economic sectors if found successful (MOHR, 2012). However,
+   the scheme was extended later only to forestry and rubber plantations.
+
+4. The Bureau of Manpower, Employment and Training of the MEWOE acts as the public
+   employment agency for the G-to-G mechanism on behalf of the Government of
+   Bangladesh. The Bangladesh Government initiated an online registration of workers
+   willing to migrate to Malaysia through a decentralized system that resulted in a
+   database of 1.45 million persons. Since Malaysia demanded only 10,000 workers
+   initially, the Bangladesh Government used random selection procedures to select
+   potential candidates for Malaysian employment.
+
+5. Palm oil is a multi-billion dollar industry that feeds into multiple global supply chains,
+   from food to cosmetics. According to a presentation of the Malaysian Agricultural
+   Producers' Association, export earnings for palm oil were 61.3 billion Malaysian ringgit
+   (MYR) (US$16.9 billion) in 2013. Because of the importance of this industry, the palm
+   oil sector is one of the 12 National Key Economic Areas (NKEAs) identified in the
+   Malaysian Government’s Economic Transformation Programme (ETP).
+
+6. Given the link between recruitment and debt bondage and forced labour situations,
+   there is keen interest from governments, social partners, the private sector and
+   consumers around the world to promote fair recruitment practices and decent working
+   conditions in the industry. Furthermore, a number of countries in the region have
+   expressed an interest in a G-to-G approach, and this report provides for sharing of
+   experiences.
+
+   Objectives, methodology, and limitations of the study
+7. G-to-G mechanisms are often considered more effective in terms of migration
+   governance, protecting the rights of migrant workers, and meeting labour market
+   needs of employers for several reasons:
+    Governments are expected to prioritize the welfare of migrants, unlike PrEAs that
+      are primarily motivated by profit.
+    They result in lower migration and recruitment costs for workers compared to the
+      high fees charged by PrEAs. Lower migration costs reduce the vulnerability to debt
+      bondage, and the likelihood that migrants will violate the terms of their visas in the
+      destination countries in order to earn money to pay back their debts.
+
+
+   7
+     MCAB is chaired by MOHR. Members include officers of the Ministry of Home Affairs (MOHA), Immigration
+   Department Malaysia (IMM), Ministry of International Trade and Industry (MITI), Ministry of Agriculture
+   (MOA), Ministry of Plantation Industries and Commodities (MPIC), Construction Industry Development Board
+   (CIDB), Ministry of Domestic Trade and Consumer Affairs (MDTCA), Ministry of Tourism and Culture
+   (MOTOUR), and Ministry of Women, Family and Community Development (MWFM).
+   8
+     Bangladesh registered over 1.45 million persons interested in migrating to Malaysia in a database. It is
+   possible that these persons are also registered in other job registers and have a general interest in migrating to
+   any part of the world where they may find an employment.
+
+
+                                                           2
+      They can cover the full migration cycle unlike under PrEAs who focus mainly on
+       the deployment of workers.
+      Workers can be duly registered and accorded protection under respective labour
+       laws of the two State parties.
+      They serve to reduce irregular migration and trafficking in the event that adequate
+       legal avenues for migration are provided under the arrangement.
+
+   These general advantages of G-to-G arrangements, of course, crucially depend on
+   the specific context of respective countries and their effective application by the two
+   State parties.
+
+8. The ILO initiated this study with the objective of making a preliminary assessment of
+   the workings of the G-to-G arrangement between Bangladesh and Malaysia. In
+   addition to strengthening the knowledge base to guide policy recommendations, this
+   study falls within the framework of the ILO Fair Recruitment Initiative, and the effort to
+   enhance global knowledge on national and international recruitment practices. It was
+   expected to focus on how the MOU had affected recruitment and migration costs and
+   working conditions. Information was largely gathered through key informant interviews
+   in both countries. In the course of the study, it became clear that an assessment of the
+   working conditions of workers deployed under the scheme was too ambitious given
+   the absence of any survey information on working conditions. The scope of the
+   exercise did not permit a large number of interviews with workers who had migrated
+   under the G-to-G scheme. The focus was on assessing the working of the system with
+   a view to identifying its strengths and weaknesses, and how it could be made more
+   effective. The lessons learnt are expected to be shared with other countries.
+
+9. The findings are based on a desk study supplemented by limited field visits to the two
+   countries for consultations during 20 June to 2 July 2015. The consultant had
+   discussions with key informants in concerned government ministries, social partners,
+   private employment agency associations in Bangladesh, a few Bangladeshi workers
+   who had already migrated or were selected for migration to Malaysia, and concerned
+   NGOs in both countries. The list of interviews and persons met is provided in Annex
+   1.
+
+10. The limitations of the study pertain to the short duration of field visits, and the inability
+    to meet some of the identified key informants. There was also limited access to some
+    crucial documents on the grounds of confidentiality by both Governments and the ILO.
+    It was also difficult to interview workers who had migrated under the G-to-G scheme
+    since they were located in plantations scattered across Malaysia. The report has been
+    updated in early August 2015, and it does not cover developments since then.
+
+    Objectives of the MOU
+11. The MOU is said to have several objectives, of which the following were reiterated
+    frequently by the governments in Bangladesh and Malaysia:
+      a. reduce the cost of migration and provide ‘debt-free’ migration for workers to
+         Malaysia;
+
+
+
+
+                                                 3
+        b. provide a legal channel for Bangladeshi workers to migrate to Malaysia that
+           bypasses PrEAs; 9 and
+        c. promote and protect the rights of both employers and workers.
+
+    The MOU spells out the respective obligations of the two governments, the employers,
+    and the workers. The Government of Malaysia is obligated to process Malaysian
+    employers’ applications for workers from Bangladesh and ensure that Malaysian
+    employers comply with employment contracts. The Government of Bangladesh is
+    responsible for providing medically fit and debt-free workers to Malaysian employers,
+    ensuring that the terms and conditions of the contract of employment are fully
+    explained and understood by the workers, providing a pre-departure orientation
+    programme, and also arranging the repatriation of medically unfit workers. Eligibility
+    of applicants covers workers who are between the ages of 18 and 45 years old;
+    possess the required qualifications and skills demanded by the employer; have basic
+    knowledge of Malaysian culture and social life; possess the ability to communicate
+    either in English or Malay; have no prior criminal record; hold valid travel documents;
+    and meet Malaysian medical fitness requirements.
+
+12. Employers have to respect the signed employment contract, not pass on the employer
+    levy to workers,10 provide reasonable accommodation with basic amenities, and
+    arrange and pay for repatriation upon completion of the contract. Workers have to pay
+    for the initial airfare to Malaysia. There are also restrictions on workers joining political
+    organizations, working for those other than assigned employers, engaging in
+    subversive or criminal activities, marrying nationals, among others.
+
+
+
+
+    9
+      The MOHR press release explains: “The process of this mechanism does not allow the involvement of third
+    parties, agents, outsourcing companies and the direct recruitment of workers by the employers but strictly
+    confining to the respective agencies designated by both the Governments” (MOHR, 2012).
+    10
+       The levy is fixed at 590 Malaysian ringgit (MYR) ($162) for the plantation sector (exchange rate $1= MYR3.65
+    (simple average of 2 January to 21 July exchange rates published by Bank Negara)).
+
+
+                                                           4
+   2. Major findings
+
+    Operational progress
+13. In terms of actual operation, BMET provided full information to the Malaysian
+    Government on 18,000 workers for possible deployment from 2013 to June 2015. The
+    timing of information supplied to the Malaysian Government is detailed in table 1.
+
+   Table 1. Eligible employee information supplied by BMET to the Malaysian
+   Government, by date
+
+    Date                            Number of workers whose information was
+                                    supplied to the Malaysian Government
+    2013                                                                                   10 000
+    January 2015*                                                                           5 000
+    17 May 2015                                                                             3 000
+    Total                                                                                  18 000
+
+    *Specifically for possible work in Sarawak.
+
+
+   Only 7,616 workers, however, migrated to Malaysia under the MOU as of 10 June
+   2015 according to BMET data while the Ministry of Plantation Industries and
+   Commodities (MPIC) quoted 7,344 at the end of June 2015. The distribution of workers
+   is as follows in table 2:
+
+   Table 2. Workers deployed in Malaysia under the G-to-G mechanism
+
+    Workers                                                                        Total
+    Number of workers whose data was sent to Malaysia                                       18 009
+    Visas approved/visas with reference (VWR)                                                8 476
+    Employed in Malaysia                                                                     7 616
+       2013                                                                                  1 351
+       2014                                                                                  5 141
+       2015 (up to 10 June)                                                                  1 124
+    Workers who decided not to accept job offer                                                594
+    Workers found to be medically unfit                                                        251
+    Visa under process                                                                          15
+
+    Note: The figures in this table differ slightly from information supplied by
+    the Ministry of Plantation Industries and Commodities (MPIC) in Annex 3.
+    Source: BMET
+
+
+   The Government of Bangladesh has been able to fulfil 76.2 per cent of the initial quota
+   set by the Government of Malaysia. In relation to the number of workers registered in
+   the database, however, only 0.52 per cent of registrants have found employment two
+   and a half years after the signing of the MOU.
+
+    G-to-G mechanism has lowered migration costs considerably
+14. PrEAs have previously charged exorbitant fees for migration to Malaysia, which
+    saddled migrant workers with onerous debt burdens. These costs have ranged from
+
+                                                            5
+    250,000 to 300,000 Bangladesh takas (BDT) ($3,000–4,000) according to various
+    estimates (Barkat et al, 2014; Palma, 2015a; Wickramasekara, 2014). A 2011 study
+    estimated costs of migration to Malaysia by PrEAs ranged between $2,447 and $2,991
+    (Siddiqui, 2011). The G-to-G arrangement has brought about a substantial reduction
+    in migration costs. According to the BMET, the initial estimate was BDT40,000 or
+    about $500. According to data supplied by BMET based on their official records, the
+    cost has now come down to about BDT32,100 or $413 due to lower airfares. Malaysian
+    Government representatives roughly estimate that the cost of migration has been
+    reduced from MYR12,000 (approximately $3,300) to about MYR1,300 ($356) through
+    the G-to-G mechanism.11 It is important to base these estimates on systematic surveys
+    covering workers who migrated.
+
+    The BMET provided the following breakdown of total migration costs according to their
+    calculations (table 3). It is sensitive to the cost of airfare, which is a major expense
+    item that encompasses 69 per cent of the total cost of migration.
+
+    Table 3. Structure of total migration costs under G-to-G per worker (June 2015)
+
+           Cost item                                        Cost in BDT      Cost in $      % of
+                                                                                            total
+     1     Airfare (one way)                                      22 200          285.35         69.2
+     2     Welfare fund fee                                        2 000           25.71          6.2
+     3     Non-judicial Stamp                                        300            3.86          0.9
+     4     Visa fee                                                  600            7.71          1.9
+     5     Bank charge                                                60            0.77          0.2
+     6     Tax                                                       250            3.21          0.8
+     7     Smart card                                                250            3.21          0.8
+     8     Registration fee                                          150            1.93          0.5
+     9     Service charge                                          2 000           25.71          6.2
+     10    Uniform and others                                        390            5.01          1.2
+     11    Medical fee                                             3 500           44.99         10.9
+     12    Training including data processing fee                    400            5.14          1.2
+     13    Total                                                  32 100          412.60        100.0
+
+     Note: Exchange rate for June 2015: $1=BDT77.8 (Bank of Bangladesh)
+     Source: BMET records based on administration data; table supplied by BMET (2015).
+
+
+    The total cost at BDT32,100 (about $4,130) per worker is about eight to ten times less
+    than the average fee charged previously by PrEAs. The other major cost components
+    are the welfare fund fee and the BMET service charge, both of which cost $26 and
+    account for 6.2 per cent of the total cost.
+
+15. This calculation focuses primarily on BMET administration procedures and omits some
+    other cost items associated with migration, such as passport fees, costs of obtaining
+    information, and internal travel and accommodation. Annex 2 provides the structure of
+    migration costs as identified by the World Bank Global Knowledge Partnership on
+
+    11
+      Information comes from discussions at the MOHR Office on 29 June 2015 in Putra Jaya. The exchange rate
+    used is $1.00= MYR3.65 (simple average of exchange rates from 2 January to 21 July 2015 reported by the
+    Bank Negara Malaysia).
+
+
+                                                        6
+    Migration and Development (KNOMAD) project on migration costs (Abella and Martin,
+    2014). From the viewpoint of the migrant worker, passport costs cannot be considered
+    a personal cost if it is done mainly for the purpose of migrating for employment. Based
+    on the interviews in Dhaka with workers selected for migration to Malaysia, these
+    additional costs may average about BDT8,000 to 10,000 ($103 –128). In this sense,
+    the total cost of BDT40,000 ($514) seems more realistic considering that workers
+    usually come from rural areas far from the capital city and, typically, have to make at
+    least two trips to the capital before migrating abroad.
+
+16. The ILO Convention No. 181, and the International Confederation of Private
+    Employment Services (CIETT) promote the principle that workers should not bear
+    recruitment fees.12 Neither Bangladesh nor Malaysia have ratified the Convention.
+
+    Employment opportunities provided to Bangladeshi workers under the G-to-G
+17. When the MOU was signed in 2012, the then Minister of MEWOE is reported to have
+    stated that at least 50,000 Bangladeshis would be sent to Malaysia within a year, and
+    100,000 by the following year.13 In regard to expanding migration opportunities to a
+    large number of Bangladeshi workers seeking overseas employment, however,
+    success seems to have been quite modest. Malaysia limited demand to 10,000
+    workers initially and indicated it would increase the ceiling to 30,000 over time.
+    According to discussions with BMET, this was the plan for BMET as well. When
+    Bangladesh went ahead with a countrywide online registration drive in January 2013,
+    it resulted in an applicant database of 1.45 million persons. While one cannot question
+    this on grounds of giving a fair opportunity to all from urban and rural areas, the
+    Government could have been more cautious in its communication strategy and in
+    setting unrealistic expectations.
+
+18. The main critique of the system in Bangladesh has been that it has resulted in limited
+    migration opportunities compared to a system involving the private sector. For
+    instance, the Bangladesh Budget Speech of 2015 pointed out that if the G-to-G
+    mechanism was implemented with the cooperation of the private sector, about
+    500,000 workers could be employed over the next five years (Government of
+    Bangladesh, 2015). Such estimates are pure conjecture and ignore the context under
+    which previous large flows took place, such as during 2007 to 2009. From its inception,
+    the Bangladesh Association of International Recruiting Agencies (BAIRA) vehemently
+    opposed the mechanism and wanted to play a role in the recruitment process
+    (Wickramasekara, 2014). Palma (2015b) argues that the system was made to fail
+    given the intense lobbying by recruitment agents in Malaysia, although it is difficult to
+    find hard evidence for this. The New Age newspaper of 18 August 2014 carried a news
+    item titled “G2G system fails to deliver” and reported that: “[t]he government-to-
+    government mechanism worked out by the two sides for sending workers to Malaysia
+    has simply failed, said officials and experts on the issue of migration workers,”
+    although the article did not cite any credible evidence provided by the officials or
+    experts (The New Age, 2014).
+
+
+
+    12
+       See: http://www.ciett.org/fileadmin/templates/ciett/docs/CIETT_Code_Conduct.pdf [accessed 26 Jan.
+    2016].
+    13
+       See: http://www.freemalaysiatoday.com/category/nation/2015/06/25/bangladesh-hopes-to-send-500000-
+    workers-to-msia/ [accessed 26 Jan. 2016].
+
+                                                      7
+    What are the factors that can explain the gap between expectations and actual
+    outcomes in relation to numbers mobilized?
+19. Several explanations have been put forward to explain the lower than expected
+    mobilization of Bangladeshi workers under the G-to-G mechanism.
+
+      Government machinery does not have the requisite capacity to handle large
+       volume migration.
+20. This is a commonly advanced position especially by PrEAs (Palma, 2015a).
+   Discussions with most stakeholders in both Bangladesh and Malaysia did not suggest
+   a failure as claimed above. The very fact that Malaysia agreed to continue the
+   programme after the three-month trial period is testimony that the system has worked
+   as planned. The robustness of the system can be assessed from the extremely low
+   numbers of returned workers on medical grounds or the number of workers that have
+   absconded from the programme. The G-to-G system has been very cost effective for
+   workers and cannot be considered a failure according to Nilim Baruah, Senior
+   Migration Specialist at the ILO Regional Office for Asia and the Pacific (cited in Palma,
+   2015b).The responsible agency – the BMET – invested heavily to develop a well-
+   functioning e-recruitment system and a database linked to the Malaysian official
+   system. They have been able to meet about 76 per cent of the initial quota of workers
+   demanded, and are ready to meet higher forthcoming demand. The BMET has already
+   planned a three-phase deployment programme amounting to 36,000 workers in order
+   to meet the Government of Malaysia’s planned increase in demand to 30,000 workers.
+
+21. A related issue is whether the G-to-G process was too slow in processing the demand
+    for workers placed by Malaysian employers. The MOHR mentioned a processing time
+    of three weeks from receiving a request to approval. What is more important is the
+    actual time taken to get a worker from the country of origin to the plantation from the
+    date of the request. Plantation employers mentioned a period of one to three months
+    from the time of making the request to actual employment of foreign workers, and in
+    some cases more. The MPIC has also confirmed this.14 This is comparable to the
+    hiring process through the One Stop Centre (OSC) of the Foreign Worker
+    Administration Division of the Ministry of Home Affairs. At the Malaysian end, the
+    process of security clearance for each applicant adds to the processing time. Unless
+    staff capacity is increased to handle the requests to MCAB, the processing time will
+    not be reduced.
+
+     Limited labour requirements of the palm oil sector
+22. A major reason for low mobilization of Bangladeshi workers seems to be the persistent
+    low demand from the Malaysian side, specifically from the palm oil sector. During the
+    consultations, the estimates of labour shortages in the palm oil sector ranged from
+    7,000 workers (Malayan Agricultural Producers Association (MAPA)) to 30,000
+    workers (MPIC). According to MPIC data, the palm oil sector employed a total of
+    452,973 foreign workers as of March 2015 and had a reported shortage of 32,458
+    workers.15 The Institute of Labour Market Information and Analysis (ILMIA, MOHR)
+    labour demand projections for National Key Economic Areas show only an additional
+
+   14
+     Communication with the ILO by email on 30 July 2015.
+   15
+     Information provided by MPIC to the ILO. No information is available on the basis of this estimate of the
+   shortage of workers in the oil palm sector. Similarly, there are no estimates of the shortages of labour in the
+   forestry and the rubber sectors, which were added later as eligible sectors.
+
+
+                                                           8
+   41,600 jobs created in the palm oil sector from new projects between 2010 and 2020.16
+   A labour shortage of 35,473 workers or 7 per cent of the total number of workers
+   required in plantations was cited by Ludin et al (2013), who also concluded that labour
+   shortages will be a continuing issue in the oil palm plantation sector. Another study
+   based on a census of estates estimated the total shortage of labour in 2010 at 42,707
+   workers for all of Malaysia (Peninsular Malaysia 20,295; Sabah, 12,197; Sarawak,
+   10,215 (Abdullah et al, 2011)).
+
+23. The labour shortage refers to the actual workforce requirements of the sector in
+    relation to the available workforce. Retirements, repatriation of workers upon
+    completion of their contracts, and workers joining other sectors without authorization
+    (absconding workers) add to the shortages. Since the G-to-G mechanism has been
+    operational only for Peninsular Malaysia until recently, a shortage of 30,000 as initially
+    assumed sounds reasonable.17 However, the MTUC and Malaysian Employers’
+    Federation (MEF) both argue that the shortage of workers is, in general, over-
+    estimated (see Section 4).
+
+      Distribution of labour demand from the plantation sector between G-to-G and
+       non-G-to-G mechanisms with other countries
+24. Bangladesh is not the only country supplying workers to the plantation sector, with
+    employers recruiting from Indonesia, India, Myanmar, among others. A similar ceiling
+    on the quota has not been fixed for workers from these source countries. The former
+    Minister of MEWOE himself has mentioned that Bangladesh could not cash in on the
+    opportunity due to its failure to convince employers to hire Bangladeshi workers (Staff
+    Correspondent, 2015). From January 2013 to June 2015, Bangladesh received only
+    10.5 per cent of the total requests for foreign workers by palm oil plantations and only
+    10.1 per cent of the total approvals.
+
+25. Analysis of requests by employers and data on approvals of foreign workers for the
+    palm oil sector seems to indicate a higher level of demand than suggested by the data
+    on shortages. In 2013, 930 applications were made for 60,220 workers from other
+    countries at the OSC, while only 29 applications were made for 4,782 Bangladeshi
+    workers through MCAB (tables 4a and 4b). This pattern was repeated in 2014 and
+    2015, although Bangladesh received a slightly higher share of requests (11.7 to 18
+    per cent). While 460 applications were made through the OSC, the MCAB received
+    only 40 applications in 2014.
+
+
+
+
+   Table 4a. Palm oil sector worker applications and approvals, 2013–15
+
+
+
+
+   16
+      See: http://www.ilmia.gov.my/custom/dashboard/core_indicators.php?bin=forward [accessed 26 Jan.
+   2016].
+   17
+      It has been extended to Sarawak, but no deployment has yet taken place even though Bangladesh submitted
+   records of 5,000 workers.
+
+                                                       9
+                     Source countries (One Stop Centre              Bangladesh (MCAB)
+        Year         (OSC), MOHA)
+                     No. of        Requested Approved               No. of           Requested      Approved
+                     applications no. of        number              Applications     no. of         numbers
+                                   workers                                           workers
+        2013                   930         60 220         52 276               29          4 782           3 650
+        2014                   460         38 202         34 263               40          5 057           4 546
+        2015 (Jan              181         16 204         11 184               14          3 603           2 811
+        to June)
+
+        Total                1 571        114 626         97 723               83         13 442         11 007
+
+
+   Table 4b. Share of Bangladeshi worker requests and approvals (201318–June
+   2015)
+
+    Period                  Total number        Total number       Requests for         Approval of
+                            of workers          of workers         Bangladeshi          workers from
+                            requested           approved           workers as % of      Bangladesh as %
+                                                                   Col. B               of Col. C
+    Col. A                  Col. B              Col. C             Col. D               Col. E
+    2013                              65 002           55 926                    7.4                   6.5
+    2014                              43 259           38 809                   11.7                  11.7
+    2015 (Jan-June)                   19 807           13 995                   18.2                  20.1
+    Total                            128 068          108 730                   10.5                  10.1
+
+    Sources: Tables 4a and 4b based on data provided in Malik (2014) and additional data provided to the ILO by
+    Dr Razali Malik in July 2015.
+
+
+26. Annex 3 provides a summary of the G-to-G operations as of 30 June 2015 based on
+    MPIC data. This shows that only a small number of plantations demanded
+    Bangladeshi workers through the G-to-G mechanism. The fact that the Malaysian
+    Government fixed the initial ceiling at 10,000 workers to be recruited from Bangladesh
+    may explain this pattern since the plantations may have also limited their demand for
+    Bangladeshi workers accordingly. It is unlikely that MCAB would have authorized
+    numbers above the initial ceiling.
+
+27. Some plantation employers mentioned that they preferred Indonesian workers who
+    shared the same language and adapted easily to local situations. There is no
+    information on the actual cost of hiring non-G-to-G workers, but the general impression
+    given was that the G-to-G mechanism has led to lower recruitment costs for
+    employers. At the same time, some employers pointed out that it is now more difficult
+    to source workers for the oil palm sector from Indonesia since they also find better
+    work opportunities at home with comparable wages, which is supported by other
+    information (Raghu, 2014). Employers may also prefer the non-G-to-G mechanism
+    because PrEAs may share some of their costs, such as the worker’s levy (Palma,
+    2015a). A more concrete assessment would be required to draw clearer conclusions
+    on the comparative costs.
+
+
+   18
+        Month not known.
+
+
+                                                         10
+28. A labour attaché in the Bangladesh High Commission pointed out that local employers
+    do not seem to be familiar with the G-to-G mechanism.19 This could mean that both
+    governments were not proactive in publicizing the schemes and reaching out to
+    employers about the value of this initiative. Still, the question remains whether it would
+    have made much difference given the initial quota fixed at 10,000 workers. It is not
+    clear why the Government of Malaysia did not gradually raise the ceiling to 30,000 as
+    originally envisaged.
+
+   One issue raised by some Malaysian plantation employers was that the G-to-G system
+   restricted their choice to some extent since they were not able to interview and choose
+   workers. They felt that it was important to interview groups of workers to select the
+   best suited for the job. They are able to do this under a system where recruitment
+   agents may shortlist candidates so that human resource managers can visit and
+   interview them in their own countries.20 This flexibility is lacking in the random selection
+   procedure from the G-to-G database. There is no evidence to show that employers
+   have conveyed their reservations on this issue to either government. Bangladesh
+   could have accommodated such requests given the heavy investments they have
+   made on the recruitment system. A more in-depth assessment would be able to
+   determine how job-matching procedures could be organized to meet the interests of
+   both the employer and the worker.
+
+29. BAIRA mentioned that PrEAs cannot match the G-to-G costing because they have to
+    pay employers and outsourcing companies in Malaysia to secure job orders. Payment
+    of the employer levy by agents (and later passed on to workers) was mentioned as a
+    usual business practice in securing orders in competition with agents from other
+    countries. They also referred to costs of cultivating good business relations with the
+    human resource personnel in employing companies.
+
+30. The MOHR also revealed that they received a demand for 18,600 workers from seven
+    companies that were found to be sub-contracting or outsourcing companies.
+    Therefore, it did not authorize these firms to bring in workers.
+
+     Insufficient investment in the system by the Government of Malaysia
+31. One reason for the length of time it took to deploy workers under the G-to-G
+    mechanism may be that there was insufficient investment in the G-to-G mechanism
+    from the Malaysian side. While the programme is obviously of high priority to the
+    Government of Bangladesh, from the Malaysian perspective it is just one pilot
+    programme applying to one sector and one country. Large investments for such a
+    programme would be questioned when they have to consider migration from many
+    other countries of origin. It is unlikely that staff capacity was increased to deal with the
+    new mechanism except in the establishment of the MCAB. Lessons can be drawn from
+    the Republic of Korea, which has invested heavily in resources for the Employment
+    Permit System (EPS). Unlike in the case of Malaysia, the EPS is however, the only
+    legal avenue for recruiting migrant workers to the Republic of Korea from all
+    designated countries of origin.
+
+
+
+   19
+    Skype discussion on 22 June 2015 at the MEWOE.
+   20
+    Yet it may not be in the best interest of migrant workers because recruitment agencies in origin countries
+   may pass on associated costs to workers including employer levies.
+
+                                                        11
+    Did the G-to-G mechanism contribute to an increase in smuggling of
+    Bangladeshis to Malaysia?
+32. Another aspect which deserves attention is the claim that trafficking and smuggling of
+    Bangladeshi workers has increased, probably as a result of limited migration
+    opportunities resulting from the MOU (NsNewsWire, 2015; Palma, 2015c).21 Yet, such
+    maritime movements involving Rohingya and Bangladeshis through the Bay of Bengal
+    and Andaman Sea have been a regular occurrence, especially during the season
+    when the seas are calmer. An ILO report mentions: “[a]t the end of November and the
+    first week of December 2012, a number of news reports about trafficking in persons
+    from Bangladesh to Malaysia came to light. Irregular migration to Malaysia through
+    sea routes (by boat) was a common feature” (Barkat et al, 2014). This report dates
+    prior to the commencement of operations under the G-to-G mechanism. The
+    movements attracted more attention with the discovery of mass graves of smuggled
+    and trafficked persons in southern Thailand and in Malaysia. Discussions with the
+    United Nations High Commissioner for Refugees (UNHCR) Office in Dhaka and the
+    UNHCR reports on maritime movements in South-East Asia highlight the long standing
+    nature of these movements (UNHCR, 2015a and 2015b). There is no evidence to
+    show that any of the boat people from Bangladesh were drawn from those registered
+    in the jobseekers database developed for Malaysia.
+
+    Working conditions of G-to-G workers
+33. The Government of Malaysia has ratified 17 ILO Conventions including six of the core
+    Conventions (Annex 4). A number of them relate to working conditions. Sabah State
+    of Malaysia has ratified the ILO Migration for Employment Convention, 1949 (No. 97).
+    These should provide a firm foundation for national law and practice in the treatment
+    of migrant workers in Malaysia, the bulk of whom are low-skilled workers.
+
+34. While an in-depth assessment of working conditions of G-to-G workers in Malaysia
+    could not be carried out due to the scope of this study, some plantation employers
+    were interviewed. They did not highlight any major worker grievances with the
+    mechanism. The Labour Wing of the Bangladesh High Commission also did not
+    believe that there were major problems experienced by G-to-G workers. Only a few
+    complaints relating to wages or accommodation had been made to them. The small
+    number of workers reported as absconding from their employers (about 50 according
+    to MOHR) also lends support to the absence of major problems in terms of working
+    conditions.
+
+    NGOs working to promote and protect migrants’ rights are in regular touch with
+    Bangladeshi migrant workers in other sectors, but have little interaction with workers
+    in the plantation sector. Although several attempts were made to meet with workers
+    hired through the G-to-G mechanism, the field mission was able to meet only one such
+    worker and three other Bangladeshi workers who were hired through private
+    channels.22 While this hardly provides a basis to form any conclusions, the fact that
+    workers hired through the G-to-G mechanism are free of debt burdens confers a
+
+    21
+       This news release quotes Iftekhar Zaman, Executive Director of Transparency International Bangladesh: “…
+    the slow pace of the government’s attempts to strike a deal for migrant labor resulted in many people turning
+    to illegal labor brokers. That failure was also largely responsible for the phenomenal growth of illicit human
+    trafficking including tragedies on the sea” (NsNewsWire, 2015).
+    22
+       The author is grateful to Mr. A. Navamukundan, Executive Secretary of the National Union of Plantations
+    Workers for arranging these interviews.
+
+
+                                                          12
+    definite advantage to these workers. Non-G-to-G workers interviewed had incurred
+    high debts and spent one to two years paying off their debts before they were able to
+    start saving. It is logical to assume that workers migrating through the G-to-G
+    mechanism face the same protection situation as all other foreign plantation workers.
+    This is because the Government of Malaysia has not introduced any special
+    mechanism to monitor their working conditions or to ensure compliance of employers
+    with their employment contracts.
+
+35. The Roundtable on Sustainable Palm Oil (RSPO) is the world’s leading palm oil
+    certification scheme. Large Malaysian plantations are generally RSPO certified.
+    Among the eight criteria for certification, number 6 reads as follows: “Responsible
+    consideration of employees and of individuals and communities affected by growers
+    and millers”. According to a Finnwatch report, the responsibility requirements set by
+    RSPO certification are, however, not adequate in ensuring the realization of labour
+    rights at certified plantations (Vartiala and Ristimäki, 2014). Humanity United (2015)
+    has outlined a more comprehensive framework of principles and guidelines for free
+    and fair labour in palm oil production, which highlight the ILO core Conventions
+    covering the Fundamental Principles and Rights at Work, ethical hiring, payment of a
+    living wage, attention to worker health and safety, and a grievance mechanism to give
+    workers access to redress (Annex 5). Kumar et al (2015) found precarious working
+    conditions in palm oil plantations, especially in the Sabah region of Malaysia. They
+    also found that precarious working and living conditions were more common in the
+    smallholding sector than in large plantations.23 Since only large estates are eligible to
+    apply for G-to-G workers, the workers may enjoy better conditions than those working
+    in smallholdings or under sub-contracting arrangements.
+
+    Employment contracts
+36. Section 26 of Bangladesh’s Overseas Employment and Migrants Act, 2013, defines
+    the right to information on the part of migrant workers: “Migrant workers shall have the
+    right to be informed about the migration process, employment contract or the terms
+    and conditions of the work overseas, and the right to know about their rights as per
+    the law before departure” (Government of Bangladesh, 2013). The Government of
+    Bangladesh is responsible for ensuring that the terms and conditions of the
+    employment contract are fully explained and understood by the workers before
+    departure under the G-to-G system. The Government is also responsible for providing
+    a copy of the employment contract to outgoing workers. Ideally, the workers should
+    receive an enforceable employment contract in a language they understand before
+    departure (ILO, 2006). A survey of member companies in different industries by the
+    MEF reported that the majority of respondents provide contracts to workers in a
+    language that they understand prior to departure from their home countries through
+    private recruitment arrangements (MEF, 2014).
+
+37. The mission inquiries, however, provided conflicting information. The three workers
+    who were expected to migrate soon to Malaysia and interviewed at BMET had not
+
+    23
+      The US 2015 Trafficking In Persons report on Malaysia mentions: “Some foreign migrant workers on
+    agricultural and palm oil plantations, at construction sites, in the electronics industry, and in homes as
+    domestic workers are subjected to practices indicative of forced labor, such as restricted movement, wage
+    fraud, contract violations, passport confiscation, and imposition of significant debts by recruitment agents or
+    employers.” (United States Department of State, Trafficking in Persons Report, 2015).
+
+
+                                                           13
+    seen their employment contracts. The BMET Malaysia Cell mentioned that the
+    contract would be signed in Malaysia and that the employer would share a copy with
+    the local Bangladesh mission. According to the BMET, contract conditions are fully
+    explained in the information booklet handed over to workers during the orientation.
+    However, the MOHR in Malaysia indicated that the contract should be signed in
+    Bangladesh before the workers depart. The Labour Wing of the Bangladesh High
+    Commission in Kuala Lumpur also mentioned that the contract is sent to Dhaka for
+    signature. The interviews with plantation employers seemed to indicate that the
+    contract is signed locally when the worker arrives. It is difficult to assess at which stage
+    an employment contract is signed, and whether the model employment contract
+    template provided in the MOU is followed in practice. While there was no information
+    to suggest contract substitution, the system could allow for such a situation. None of
+    the few workers interviewed in Malaysia had a copy of the contract with them. There
+    was also some confusion as to whether the contract is bilingual or only available in
+    English. There is definitely room for more transparency on the issue of employment
+    contracts for the better protection of workers.
+
+38. What is equally important for the protection of workers is the enforcement of the
+    employment contracts. Discussions with officials in Bangladesh and Malaysia confirm
+    that the MOU includes a standard employment contract as an annex. The MOU
+    requires the Government of Malaysia to ensure that employers comply with the
+    employment contract, but it does not spell out any special procedures for this purpose.
+    Once workers join the plantation workforce, employers may not distinguish between
+    workers hired through the G-to-G and other workers. The consultations revealed that
+    both G-to-G workers and other workers may receive the same level of protection under
+    national labour laws. Thus, effective protection depends on the frequency of labour
+    inspection services and access to robust complaint and grievance procedures
+    including through trade unions and NGOs. In this respect, there is nothing to suggest
+    that labour rights of G-to-G workers are better protected than those of previous
+    Bangladeshi workers in the plantation sector or other sectors, or other foreign workers.
+
+    Minimum wages
+39. Since wage issues are one of the most frequent complaints by migrant workers, it is
+    important to monitor the adherence to labour legislation in this respect. Plantation
+    workers, including migrant workers, are eligible for the legal minimum wage of
+    MYR900 per month (roughly about BDT17,000 or $256).24 According to the collective
+    bargaining agreement with the National Union of Plantation Workers, it is now MYR975
+    (BDT18,500 or $267) per month.25
+
+40. The main issues here relate to wage calculation formulas and deductions. As one
+    NGO officer explained, most migrant workers are primarily concerned about the take-
+    home pay, not other working conditions. Employers use piece rate systems to
+    calculate wages, particularly for overtime work (Vartiala and Ristimäki, 2014; mission
+    discussions). This may mean that workers may not receive statutory overtime pay for
+    any overtime work (Vartiala, 2015). The wage calculation formulas, especially for
+    harvesting, are quite complex. This is corroborated by the Finnwatch study of some
+    plantations in Malaysia. It pointed out that wages are performance-based and do not
+    24
+     Using the rate MYR1= BDT18.93.
+    25
+     Information provided by National Executive Secretary, Mr Navamukundan, National Union of Plantation
+    Workers (NUPW), Malaysia.
+
+
+                                                       14
+    always meet legal minimum wages. One Bangladeshi harvester interviewed
+    mentioned that his pay had decreased over time and that he would now want to shift
+    to other tasks. It is important that employers show details of how wages are calculated
+    on the pay slips and explain them to workers. Unlawful deductions are more common
+    under subcontracting arrangements. Many plantations may assign specific operations
+    to subcontractors who bring their own labour teams. There is no monitoring
+    mechanism, although we were informed that major companies strictly monitor the
+    practices of subcontractors to ensure their compliance with applicable laws and
+    regulations.
+
+41. With the introduction of the minimum wage effective from 1 January 2013 the
+    Government allowed employers to deduct the employer levy from wages. According
+    to the G-to-G MOU, the levy cannot be passed on to workers. It is not clear whether
+    this MOU condition has been relaxed under the above amendment. The human
+    resource managers of large plantations interviewed, however, maintained that they do
+    not deduct the levy from workers even under the new regulations. It may be more
+    prevalent in smallholdings and under subcontracting arrangements. The few workers
+    interviewed confirmed that the employers pay the levy, but it is difficult to judge
+    whether this is a general practice in the absence of more detailed information. The
+    other deductions are for advances, accommodation, utilities, transport, and food
+    allowances. The MEF Employers’ Survey covering various industries found that more
+    than 80 per cent of employers make deductions from migrant workers’ wages (MEF,
+    2014). NGOs interviewed maintained that these can drastically reduce the worker’s
+    take-home pay, especially in medium and smallholdings where such deductions are
+    common.
+
+    Social security benefits
+42. In regard to social security benefits, there is an obvious anomaly in that all migrant
+    workers are covered only by the Workmen’s Compensation Act and not by the more
+    extensive Social Security Law applicable to national workers. In fact, the ILO has
+    observed the discrepancy in social security provisions between national and foreign
+    workers in the Sabah State, which has ratified ILO Convention No. 97. There is an
+    ongoing discussion between MOHR and the ILO in relation to Malaysia’s obligations
+    having ratified the ILO Equality of Treatment (Accident Compensation) Convention,
+    1925 (No. 19).
+
+    Retention of identity documents
+43. The MOU, while prohibiting the retention of passports by employers, has made a
+    provision that employers can keep them in safe custody with the written consent of the
+    worker. It further stipulates that the passport should always be made available to
+    workers on request. However, passport withholding by employers seems to be a
+    common practice. The Finnwatch report found that the concerned company retained
+    possession of the workers’ personal documentation and the workers could not
+    independently make decisions on the use of their passport (Vartiala and Ristimäki,
+    2014). During mission discussions, the employers mentioned that passports were kept
+    only with the consent of the workers who would have ready access to them in case of
+    need. There was no way to verify this. Workers are, however, hardly in a position to
+    refuse if the employer demands to retain their passports given their unequal power
+    relations. Law enforcement in this area is weak as only one employer has been
+    convicted and fined (MYR5,000 or $1,400) for withholding employees’ passports in
+
+                                              15
+    2014 (United States Department of State, 2015). A better option is the provision of
+    personal lockers or other facilities to workers for the safekeeping of their identity and
+    travel documents.
+
+44. NGO consultations highlighted that workers are often penalized for not carrying their
+    passports when it is well known that either they have been surrendered to employers
+    for work permit renewals or kept by employers with or without worker consent. The
+    police refuse to accept the official ID card and often try to extort money or arrest them
+    when they have no means to defend themselves. 26 This pernicious practice is well
+    known, but workers have yet to receive any redress.27
+
+    Coordination among different stakeholders
+45. There is space for better coordination arrangements in Malaysia. An ILO-sponsored
+    mission citing MEF sources highlighted a lack of coordination among ministries (Martin
+    and Abella, 2014). Although the G-to-G mechanism was jointly developed by MOHR
+    and MOHA with both ministries playing crucial roles in the process, their perspectives
+    and points of emphasis are different. The MOHR focuses on labour markets and
+    human resource issues while the MOHA’s mandate is on national security and
+    immigration enforcement with detention and deportation being major preoccupations.
+    Decisions on admission and outsourcing companies appear to be taken by the MOHA.
+    At the same time, MOHA chairs the Council for Anti-Trafficking in Persons and Anti-
+    Smuggling of Migrants (MAPO) which is responsible for the enforcement of the Anti-
+    Trafficking in Persons and Smuggling of Migrants Act.
+
+46. The MOHR clearly supports the G-to-G approach. In fact, it issued a circular on 23
+    June 2015 to several ministries, and trade union, employer and industry
+    representatives, informing them of the extension of the Bangladesh G-to-G
+    mechanism to other sectors.28 This coincided with a visit of a high-level delegation
+    from Bangladesh for discussions with MOHA, which led to the announcement of a B-
+    to-B mechanism for expanding the employment of Bangladeshi workers.
+
+47. There also seems to be lack of consultation on labour migration policy with social
+    partners. Social dialogue through involvement of social partners is critical to sound
+    migration policy formulation and implementation as highlighted in Principle 6 of the
+    ILO Multilateral Framework on Labour Migration (ILO, 2006). Employers’ and workers’
+    organizations should be involved in consultations on designing any scheme for
+    bringing foreign workers into various sectors. During consultations, employers’ and
+    workers’ organizations in Malaysia were both not keen on expanding recruitment from
+    Bangladesh or other countries. MTUC question the extent of the labour shortages
+    reported, and argue that local workers are not willing to work for the current wage,
+    which is not considered a living wage. It is believed that many more local workers
+    would offer themselves for employment with better pay. According to them, bringing in
+    foreign workers has, therefore, been at the expense of local workers.
+
+
+
+
+    26
+      The process is explained well in this news item: http://www.ekantipur.com/the-kathmandu-
+    post/2015/03/27/related_articles/mistreated-in-malaysia/274707.html [accessed 8 Sep. 2015].
+    27
+       Discussions with Caram Asia and Tenaganita.
+    28
+       ILO-MOHR meeting minutes, 10 July 2015.
+
+
+                                                       16
+   3. Comparison with the Employment Permit System of the Republic
+   of Korea
+
+48. The Republic of Korea’s Employment Permit System (EPS) is the most prominent G-
+    to-G mechanism in the Asia region. There are salient differences between the two G-
+    to-G mechanisms as listed in table 5 below. The EPS is the only avenue for the
+    Government of the Republic of Korea to bring in low-skilled workers to the country,
+    whereas Malaysia relies on PrEAs for all other recruiting from designated source
+    countries other than Bangladesh. The G-to-G mechanism is a limited initiative
+    applicable only to Bangladesh and to selected plantations in Malaysia. The Korean
+    EPS was designed to meet the labour needs of small and medium-sized enterprises,
+    and is spread over 16 countries based on an annual quota system. The wages offered
+    are much higher than the applicable minimum wage in Malaysia (about $1,000
+    compared to $256 per month, respectively). Employers select from a roster of persons
+    who have passed a basic competency test and a Korean language proficiency test.29
+    There are no such requirements in Malaysia.
+
+49. The Malaysian G-to-G mechanism is primarily a labour recruitment system whereas
+    the EPS contains some development elements. Both have resulted in a drastic
+    reduction in average migration costs. The cost paid by migrant workers going to the
+    Republic of Korea has reportedly dropped from $3,509 under the trainee system in
+    2002 to $927 under the EPS system in 2011, while the Malaysian agreement had
+    brought costs down from $3,000-4,000 to about $400.30 Both countries have limited
+    demand for workers from Bangladesh. The EPS offered employment to 1,426 and
+    2,147 Bangladeshi workers in 2012 and 2013 respectively, which is even less than
+    that offered under the Malaysian G-to-G mechanism.
+
+   Table 5. Comparison: Korean Employment Permit System and Bangladesh-
+   Malaysia government-to-government mechanism
+
+    Item                               Employment Permit           G-to-G mechanism for
+                                       System of the Republic      employment of Bangladeshi
+                                       of Korea                    workers in Malaysia
+    Inception                          2004                        November 2012
+    Type of MOU                        Mandatory MOUs              Mandatory MOU
+
+    Coverage: countries                Multi-country (16           Only for Bangladesh
+                                       countries)
+    Coverage: type of                  For low-skilled workers     For low-skilled workers
+    workers
+    Coverage: sectors                  Covers several sectors:     Covers only oil pam, forestry, and
+                                       agriculture,                rubber plantations
+                                       manufacturing, & services
+    Responsible agency                 Ministry of Labour and      MCAB representing several
+                                       Human Resource              ministries: MOHR, MOHA, MPIC,
+                                       Development Council         MOA, among others
+
+
+   29
+        This may be exclusive to the Bangladesh EPS.
+   30
+        See: Wickramasekara (2015).
+
+                                                       17
+State recruitment agency      Bangladesh: Bangladesh        Bangladesh: Bureau of
+                              Overseas Employment           Manpower, Employment and
+                              Services Ltd                  Training (BMET)
+Determination of number       Annual quotas set by          Quota set by Government and
+of workers                    Republic of Korea             requests for foreign workers by
+                                                            plantations and approvals by
+                                                            MCAB
+Number of workers hired       2013=1,426                    7,600 from January 2013 to June
+                              2014=2,147                    2015
+Contract duration             Maximum four years and        Three years with possibility of
+                              ten months with possibility   extension
+                              of renewal after return
+Circularity                   Workers can apply for         No circularity or guaranteed
+                              return following departure    return
+                              end of contract to home
+                              country
+Language test                 Pass in Korean language       No language requirement; pre-
+                              proficiency test              departure orientation mandatory
+Worker selection              Through roster of those       Database of registered workers
+                              passing language test
+Applicable laws               Full protection under         Full protection under national
+                              national labour laws          labour laws
+
+Applicable wage per           About $1,000                  MYR 900 (about $256)
+month
+Social security coverage      Social security coverage      Covered only by Workmen’s
+                              on par with national          Compensation Act.
+                              workers
+Full migration cycle          Yes                           Mainly a labour supply scheme:
+                                                            compulsory return at end of
+                                                            contract
+Development                   Development elements -        No development elements: simple
+considerations                training for return and       labour recruitment system
+                              reintegration
+Backstopping                  Resident officer in origin    Joint Committee meetings only
+                              country for liaison and
+                              monitoring
+
+Source: Compiled by author.
+
+
+
+
+                                               18
+   4. Recent developments and a proposed move towards a business-
+   to-business (B-to-B) mechanism
+
+50. Due to slow mobilization of workers from Bangladesh to Malaysia and the continued
+    trafficking and smuggling of Bangladeshi persons, the Government of Bangladesh has
+    been under pressure to negotiate changes to the system by various groups, including
+    PrEAs, NGOs, and the media. A high-level delegation headed by the Minister of
+    MEWOE visited Malaysia in the fourth week of June 2015 and held consultations with
+    Malaysia’s MOHA. Following this, an announcement was made that an agreement had
+    been reached to expand the deployment of Bangladeshi workers to other sectors
+    (construction, manufacturing, and services) through the implementation of a B-to-B
+    arrangement (Staff Correspondent, 2015). The Malaysian Home Minister stated that
+    1.5 million workers from Bangladesh will be brought to Malaysia in stages over three
+    years to meet the demands of employers from various sectors (The Malaysian Insider,
+    2015a). When the ILO mission raised this issue at the meeting convened by MOHR
+    on 30 June 2015, the MOHA representative explained that it was only a proposal under
+    consideration.
+
+51. Following reports of an additional 1.5 million workers to be recruited from Bangladesh,
+    Mohd Khalid, President of MTUC, called on the Government to freeze the recruitment
+    of foreign workers for a period of two years to avoid dumping of foreign workers in the
+    country. According to him: “Malaysia has an estimated seven million foreign workers,
+    but only 2.2 million are hired legally. This is an alarming figure and by increasing the
+    recruitment of foreign workers, the government will neither be able to control nor
+    monitor the overall situation” (MTUC, 2015). Mohd Khalid added that there were also
+    employers who purposely took advantage by sacking their local workers and hiring
+    foreigners in order to reduce their operational costs.31 During mission consultations,
+    the MEF was also critical of the reported plan to bring in 1.5 million Bangladeshi
+    workers under a B-to-B. Their view is that the economy is sluggish and that local
+    workers may lose job opportunities through this measure. It highlights the importance
+    of involving social partners and other concerned stakeholders in planning major
+    decisions on the recruitment of migrant workers.
+
+52. The former Bangladesh Minister of MEWOE mentioned that 500,000 workers will be
+    hired by Malaysia in the first year under the B-to-B system. The duration of the work
+    contract will be three years with provisions for extension by another year. An official
+    news release explained that the Bangladesh and Malaysian Governments agreed to
+    recruit workers from Bangladesh at a maximum cost of BDT40,000 with the Malaysian
+    employers bearing all the expenses (Government of Bangladesh, Press Information
+    Department, 2015). However, there seems to be some contradiction here because the
+    current cost of BDT40,000 indicates that workers pay most of the migration costs
+    themselves, including the air ticket. A Malaysian IT company that is negotiating with
+    MEWOE and BAIRA for online processing of Bangladeshi migrant workers, recently
+    announced that they are ready to process worker recruitment online for a total cost of
+    BDT60,000 ($770), which is much higher than the G-to-G cost of $400.32
+
+   31
+      See: http://www.themalaysianinsider.com/malaysia/article/trade-union-group-calls-for-freeze-on-
+   recruitment-of-foreign-workers-for-2 [accessed 8 Sep. 2015].
+   32
+      See: http://www.mtuc.org.my/zahids-kin-eyes-system-for-1-5m-bangladeshis/ [accessed 26 Jan. 2016].
+
+                                                      19
+53. To provide some relevant regional context, recent Nepali Government initiatives on
+    zero migration costs also highlight that employers should pay all costs involved in
+    hiring workers. The Ministry of Labour and Employment of Nepal has instructed
+    Nepal’s embassies in Malaysia and in six Gulf countries (Bahrain, Kuwait, Oman,
+    Qatar, Saudi Arabia, and the United Arab Emirates) to stop attesting applications
+    submitted by employment companies demanding Nepali migrant workers unless they
+    were willing to pay their ticket and visa fees from 6 July 2015. Nepali recruiting
+    agencies are opposed to the zero-cost migration policy arguing that other countries,
+    including Bangladesh, might capture the job market (Nepali Times, 2015; Rai, 2015).
+    The circular issued by the Ministry of Overseas Indian Affairs on 28 May 2015 also
+    has a parallel with the positions of Bangladesh and Nepal. The circular mentions that
+    no agent should charge more than 20,000 Indian rupees from a migrant worker and
+    the major costs such as air tickets should be collected from the employer (MOIA,
+    2015).
+
+54. The G-to-G mechanism is a good practice model which has led to dramatic reductions
+    in the cost of migration, and has demonstrated that a state-managed recruitment and
+    placement option is a credible one. While there are obvious operational problems in
+    the pilot mechanism, no serious attempt has been made to evaluate its operation up
+    to now and address issues affecting its effective functioning. At a minimum, before
+    further decisions are taken, an in-depth joint study should be undertaken to identify
+    strengths and weakness of the system, and how it could be made more effective and
+    expanded. Instead, both Governments now seem to be moving away from the G-to-
+    G mechanism without giving it a fair trial.
+
+55. The main rationale for moving away from the system seems to be the low numbers
+    mobilized under the scheme in relation to high expectations raised through the mass
+    registration exercise in Bangladesh as discussed in previous sections. It seems to
+    overlook the fact that the workers who migrated under the scheme incurred low costs
+    and no debt burdens, and went through a streamlined migration process affording
+    them better protection (Baruah cited in Palma, 2015b); resulting in few workers
+    absconding or having to be repatriated for failing medical checks.
+
+56. There are different estimates on the numbers of migrants who could have been hired
+    under different scenarios. It is claimed that the private sector would have been able to
+    send about 100,000 migrants per year to Malaysia (Government of Bangladesh, 2015;
+    discussions with BAIRA). As pointed out earlier, these are largely guesstimates. These
+    arguments overlook under which conditions such expanded migration could take
+    place. The risk of a repetition of the 2007–08 situation with irresponsible and unethical
+    practices by PrEAs in Bangladesh and outsourcing companies in Malaysia is a real
+    challenge (Kanapathy, 2015; Palma, 2015a).33 The employers have the option to hire
+    from other countries of origin or from the pool of undocumented migrant workers.
+    There is an obvious dilemma between the promotion of migration and the protection
+    of migrant workers. While there is mention of 1.5 million workers being hired by
+    Malaysia over three years (The Malaysian Insider, 2015a), discussions with Malaysian
+    social partners seem to suggest that the numbers being floated are too high in relation
+    to the economic situation and presence of large numbers of migrants in irregular
+
+   33
+        See also http://www.mfasia.org/bangladesh/42-sufferings-of-bangladeshi-workers [accessed 26 Jan. 2016].
+
+
+                                                         20
+status. These estimates also ignore the issue that more than 600,000 Bangladeshi
+workers are already in Malaysia, more than half of whom are undocumented (Palma,
+2015d). Deportation of undocumented migrant workers, including Bangladeshi
+workers, is an ongoing process34 carried out by the Government. Current debates
+seem to ignore these issues.
+
+
+
+
+34
+  Undocumented workers can pay a fine and leave the country. The fine was reduced in 2015. See:
+http://kathmandupost.ekantipur.com/news/2015-03-18/msia-decreases-penalty-for-illegal-migrant-
+workers.html; and: http://mapo.bernama.com/news.php?id=648186 [accessed 8 Sep. 2015]
+
+                                                   21
+   5. Policy implications and recommendations
+    Guiding principles
+57. There are several key principles to be adhered to regardless of which policy options
+    are considered, drawn from the relevant international labour standards and the ILO
+    Multilateral Framework on Labour Migration: Non-binding principles and guidelines for
+    a rights-based approach to labour migration:
+     Policies should ensure migration in conditions of security, dignity, equity, and
+        justice under fair recruitment processes.
+     Transparency of processes should be promoted, especially under a B-to-B
+        mechanism.
+     Any scheme adopted should promote welfare and protection of workers consistent
+        with employer interests, as well as ensure decent working conditions in the country
+        of destination.
+     Schemes should avoid intermediaries and third-party institutions at both ends to
+        reduce the space for worker exploitation.
+     Equal treatment on par with national workers and non-discrimination – the cardinal
+        principles of the ILO migrant worker instruments – should be respected.
+     Policies should cover of the full temporary migration cycle.
+     All decisions should be based on social dialogue with employers, workers, and civil
+        society to the extent possible.
+
+    Possible scenarios and options
+58. The Government of Bangladesh should take note of the strategy spelled out in the
+    Malaysian Eleventh Plan for improving management of foreign workers during 2016–
+    2020. Strategy A3 on improving management of foreign workers consists of two
+    prongs: a) reducing reliance on low-skilled foreign workers to 15 per cent of the
+    workforce in 2020; and b) streamlining the recruitment process for foreign workers
+    (EPU, 2015).35 While the first will impose a constraint on the numbers of workers sent
+    to Malaysia, the second strategy is consistent with the G-to-G mechanism, although it
+    refers only to the use of the OSC to fully bypass intermediaries.
+
+59. There are issues of labour migration governance in Malaysia which need to be
+    addressed by the Malaysian Government. No reliable estimates of the total number of
+    migrant workers with undocumented status exist. According to the Home Minister of
+    Malaysia, there are currently 2 million foreign workers in irregular status who have to
+    be deported before new workers are brought in (Bernama, 2015). However, according
+    to social partners, past efforts to deport undocumented workers have not been very
+    successful. Martin and Abella (2014) highlight that weak enforcement of labour laws
+    is a common complaint. The new Private Employment Agencies Bill drafted in 2014 is
+    still in limbo. The Foreign Workers Centralized Management System (FWCMS) – a
+    private portal recommended to origin countries for recruitment to Malaysia – has given
+    rise to concerns among businesses and PrEAs about raising migration costs and
+    giving monopoly powers to a select group of private companies for work permit
+    renewal services and providing medical test equipment supplies to all countries of
+
+
+
+   35
+     It noted that the agriculture, manufacturing, and construction sectors currently employ more than 30 per
+   cent of foreign workers.
+
+
+                                                        22
+   origin. At the same time, a new company is said to be lobbying to handle all new
+   recruitment from Bangladesh according to press reports (Palma, 2015d).36
+
+60. Annex 6 attempts to highlight possible scenarios for the migration of Bangladeshi
+    workers to Malaysia, which will be drawn upon in the next section on
+    recommendations. The assumption is that the governance system has to
+    accommodate the demand for low-skilled workers who have special protection needs.
+    The status quo – defined as the G-to-G mechanism only for the plantation sector (palm
+    oil, rubber, and forestry) – is probably no longer relevant. A more promising option is
+    to extend the G-to-G mechanism to other sectors, including manufacturing,
+    construction, agriculture, domestic work and services.
+
+61. Other options that are likely to be considered are a mix of B-to-B with G-to-G. The
+    chart in Annex 6 also attempts to highlight pros and cons of different options as well
+    pros and cons of B-to-B. Regularization of current undocumented workers, including
+    those from Bangladesh, and giving job-opportunities to refugees are other options
+    mentioned by some Malaysian sources (The Malaysian Insider, 2015b). However, the
+    Minister of Home Affairs seems to have ruled out these options at the current time.
+
+62. It seems that a B-to-B mechanism for all sectors with the governments playing a
+    facilitative and regulatory role may receive serious consideration by the Bangladeshi
+    and the Malaysian governments. This option is being seen as one that would relieve
+    the governments of the direct burden of managing recruitment and placements.
+    However, giving the private sector full responsibility makes this the highest risk option
+    to consider given the high migration costs that migrants were straddled with, and the
+    consequent increased vulnerability to debt bondage. Some fear that the previous
+    experiences of 2007–08 could be repeated (Palma, 2015d).
+
+63. Social partners – workers’ and employers’ organizations – should be involved in
+    designing any schemes for bringing foreign workers into various sectors. In the case
+    of the Malaysia, both workers (MTUC)37 and employers (MEF)38 have voiced their
+    concerns about the employment of foreign workers. This needs to be discussed in a
+    tripartite forum in order to build consensus.
+
+   Recommendations
+
+   Recommendations for Governments of Bangladesh and Malaysia
+
+    Expansion of the G-to-G mechanism
+64. In the short time that the G-to-G mechanism has operated, it has not been given a fair
+    trial by both parties. At a minimum, before further decisions are taken, an in-depth joint
+    study should be undertaken to identify strengths and weakness of the system, and
+    how it could be made more effective and expanded, including with interviews of
+    workers. Based on this review, the best option seems to be the continuation of the G-
+    to-G mechanism, which needs to be expanded to cover other permitted sectors of
+    employment. The MOHR informed key ministries and stakeholders on 23 June 2015
+   36
+      See also: http://www.lawyersforliberty.org/lfl-questionable-motives-and-benefits-in-bringing-in-1-5-million-
+   migrant-workers/ [accessed 8 Sep. 2015].
+   37
+      See: http://www.barubian.net/2015/02/mtuc-concerned-over-recruitment-of.html [accessed 8 Sep. 2015].
+   38
+      See: http://www.thedailystar.net/backpage/worry-hangs-over-hope-124546 [accessed 8 Sep. 2015].
+
+                                                         23
+   that the G-to-G recruitment system will be extended from the plantation sector to all
+   other sectors. This is consistent with what Bangladesh had been requesting all along.
+
+65. Both Governments should take proactive steps to make the scheme known to
+    employers and incorporate some flexibility into the selection of workers by employers
+    without the mediation of a third party. Interviews with MEWOE officials highlighted that
+    Korean employers have ready access to rosters of qualified Bangladeshi workers in
+    all decentralized employment offices in the Republic of Korea.
+
+66. Selection and placement of workers should remain the responsibility of the
+    Bangladesh Government. Workers should be drawn from the BMET job
+    register/database or an updated job register/database, which includes women
+    jobseekers. The Malaysian Government should remain responsible for sourcing of
+    vacancies for all sectors and setting up a one-stop service facility. Towards this end,
+    either the services of the existing One Stop Centre of the Foreign Worker Management
+    Division of MOHA or the MCAB can be expanded to service the employers seeking to
+    hire Bangladeshi workers in Malaysia. The Malaysian Government should play a
+    facilitative and regulatory role concerning issuance of immigration and work
+    permissions and oversight of one-stop service centre in collaboration with the workers’
+    and employers’ organizations. The Bangladesh Government should continue to be
+    responsible for sending the list of selected workers to the one-stop service centre in
+    Malaysia, recruitment and placement of the workers. The possibility of having
+    employers involved in the interview and selection process should be explored. The
+    Malaysian Government should ensure compliance of employers with the employment
+    contracts.
+
+67. Simultaneously, an in-depth review of the strengths and weaknesses of the G-to-G
+    mechanism should be undertaken by the Joint Working Group/Joint Task Force with
+    a view to improve its operational strategies and outcomes. This would ensure good
+    governance of migration processes, and protection and welfare of migrant workers. It
+    could also inform the possible expansion of the G-to-G arrangement to other sectors
+    and countries. Malaysia and Sri Lanka are reportedly discussing a G-to-G MOU on the
+    recruitment of domestic workers.39
+
+68. The present criteria do not allow employers with smallholdings to apply for G-to-G
+    workers. This may make them more dependent on workers arriving with high debt
+    burdens or workers who have undocumented status. The scheme may be reviewed to
+    assess the likely demand from smallholdings and whether provisions can be made for
+    their inclusion conditioned on protection requirements.
+
+    Business-to-business mechanism and possible options
+69. MEWOE and MOHA are reportedly interested in introducing a B-to-B mechanism to
+    replace or complement the G-to-G mechanism. If so, it would be important to clarify
+    the role of MOHR in the system. Since MOHR is responsible for labour market and
+    workplace issues in Malaysia, its key role is essential for proper monitoring and to
+    prevent the recurrence of problems that led to the ban of Bangladeshi workers in 2009.
+
+
+
+   39
+        Information provided to ILO by MOHR at the 10 July meeting.
+
+
+                                                          24
+    Several options may be considered in regard to a B-to-B mechanism
+70. This report does not recommend a B-to-B mechanism in view of likely challenges in
+    containment of migration and recruitment costs, effective monitoring and
+    implementation, and worker protection issues based on past experiences. However, if
+    a B-to-B mechanism were to be considered, some possible options, as given below,
+    for such a mechanism to function better may be considered:
+
+   a) One possible option may be to continue with the G-to-G mechanism for the
+   plantation sector with higher quota allocation and a B-to-B mechanism for other
+   sectors. Some proactive efforts, including a higher quota allocation for Bangladeshi
+   workers and better communication with employers and buyers higher up the supply
+   chain, may be needed to make plantation employers use the G-to-G mechanism on a
+   larger scale than at present.
+
+   b) A second option may be for the G-to-G mechanism to be expanded beyond the
+   plantation sector, and for it to coexist with B-to-B mechanisms with a clear demarcation
+   of permitted sectors per mechanism. The B-to-B mechanism should be used for
+   sectors which are relatively easier to monitor.
+
+   For effective functioning of B-to-B mechanisms under all options, the PrEAs must be
+   better regulated and their performance strictly monitored and classified/graded. The
+   results of the classification/grading exercise should be placed in the public domain for
+   transparency. Initially, the scheme should be implemented on a pilot basis with a select
+   group of PrEAs. A precedent of such a scheme can be found in the system of mega
+   recruitment firms promoted by the Kingdom of Saudi Arabia for the recruitment of
+   domestic workers under its MOU with the Philippines (Bernal, 2015). However,
+   granting monopoly power to one or two PrEAs from either origin or destination country
+   cannot be recommended since it may lead to higher migration costs and protection
+   challenges.
+
+   The large number of workers willing to migrate abroad in Bangladesh obviously
+   creates opportunities for corrupt practices and leads to overcharging and cheating of
+   the jobseekers. To minimize this, jobseekers should be drawn from the BMET
+   jobseekers register/database. The success of this scheme would also depend on the
+   cooperation from employers. If they are willing to cover all expenses as announced by
+   the authorities,40 it would help to minimize risks.
+
+   If the B-to-B option is to be considered, direct hiring by employers should be
+   encouraged. Direct hiring potentially avoids some of the malpractices common among
+   intermediaries. Governments have usually frowned upon this option, especially in
+   regard to the hiring of skilled workers leading to brain drain. But direct hiring has been
+   used without problems in Canada and New Zealand in their seasonal work
+   programmes for hiring low skilled workers.41
+
+71. Both governments should emphasise transparency of the MOU and its implementation
+    process through joint working groups and task forces. Employers and workers who
+    are the key actors in the process of implementation have the right to know of their
+
+   40
+        Government of Bangladesh, Press Information Department, 2015.
+   41
+        See recent review of bilateral labour agreements and MOUs by the ILO (Wickramasekara, 2015).
+
+                                                         25
+   rights and obligations which are listed in the signed MOU. Asian countries, such as
+   India and the Philippines, and many developed countries maintain good practices in
+   sharing MOUs in the public domain (Wickramasekara, 2015).42 It is recommended that
+   the text of the MOU, annexes, and any important amendments be shared with major
+   stakeholders and also placed in the public domain.
+
+72. Given the current confusion regarding the signing of employment contracts, both
+    governments should cooperate in monitoring the application of standard employment
+    contracts and their enforcement. Bangladesh should issue the signed employment
+    contract in a language understood by the workers, ensuring that they receive a copy
+    of the contract well in advance before departure and that the workers fully understand
+    the contents. Both governments should ensure that workers do not receive a different
+    contract upon arrival at the workplace in Malaysia. Adequate labour inspection
+    services and complaints mechanisms should be arranged by Malaysia to ensure
+    compliance by employers.
+
+    Improvement of information and data relevant to migration
+73. It is important for both governments to gather information and data relevant for the
+    planning and operation of labour migration programmes. Martin and Abella (2014, p.
+    6) have highlighted “inadequate data and relatively little impact analysis” in evaluating
+    the effectiveness of policies and programmes. A major gap is the absence of
+    information on migration and recruitment costs, and wages and working conditions.
+    Obvious priorities in this regard are periodic surveys to monitor migration and
+    recruitment costs and wages and working conditions. A benchmark study and
+    thereafter biennial surveys of migration costs can be undertaken adapting the World
+    Bank and ILO KNOMAD survey standard methodology. Bangladesh can implement
+    the surveys covering their workers while the Malaysian Government can cover workers
+    from different source countries, providing a comparative picture of costs incurred by
+    different groups of workers and wages and their working conditions. If Bangladesh and
+    Malaysia choose to adopt a B-to-B mechanism in full or in part, both governments may
+    seek technical assistance from the ILO, which has already conducted a study of
+    migration costs from Viet Nam to Malaysia, using the KNOMAD methodology.
+
+74. In this context, it is recommended that Malaysia and Bangladesh seek the support of
+    the ILO in monitoring and evaluating the operations of the MOUs concerning G-to-G
+    and B-to-B mechanisms The ILO/Korea Partnership Programme to monitor the EPS
+    provides a useful model to be considered. For several years, the ILO and the Republic
+    of Korea carried out regular national workshops with countries of origin to review the
+    operation of EPS with a view to identifying problems and improving the system. In the
+    Bangladesh–Malaysia corridor, such monitoring should also cover functioning of the
+    joint committees, major issues taken up, major decisions taken to address emerging
+    problems, any amendments made or planned to the MOU, and plans for consultation
+    with social partners. In this regard, the ILO should develop a transparent public
+
+
+   42
+     Also see: Bilateral labour agreements of Philippines on the official website of the Philippine Overseas
+   Employment Administration (POEA), available at: http://www.poea.gov.ph/lmi_kiosk/labor_agreements.html
+   [accessed 6 Sep. 2015].
+   Bilateral labour and social security agreements and memorandum of understanding of India on the official
+   website of the Ministry of Overseas Indian Affairs (MOIA):
+   http://www.moia.gov.in/services.aspx?id1=81&id=m3&idp=81&mainid=73 [accessed 6 Sep. 2015].
+
+
+                                                      26
+   reporting system and collaborate with the tripartite constituents for sustainability of this
+   monitoring and evaluation mechanism.
+
+    Recommendations to the Government of Bangladesh
+75. The Government of Bangladesh should take a holistic view of all Bangladeshi migrant
+    workers in Malaysia, including enhancing protection for those with undocumented or
+    irregular status. It should mobilize the support of the Malaysian Government to
+    enumerate and develop a profile of all Bangladeshi workers in Malaysia.
+
+76. The MEWOE should develop a credible and robust communication strategy that
+    clearly lays out, for example: how it will communicate on mandatory public disclosure
+    requirements; how it will respond to right to information requests (guaranteed by law
+    in Bangladesh); and how it would communicate labour market information to different
+    stakeholders. This is essential for ensuring effective communications based on
+    available facts and deployment of public infrastructure and technical resources in
+    proportion to need. There were a number of misconceptions about the scope of the G-
+    to-G mechanism and its performance among the media and the public. The current
+    practice of announcing the specific numbers of Bangladeshi workers to be recruited
+    for Malaysia or other countries should be avoided until solid information or official
+    request for the workers is available with the Bangladesh Government. Otherwise,
+    certain media outlets may sensationalize the issues. This is a lesson of the current G-
+    to-G exercise where expectations deviated widely from the actual scope leading to
+    much frustration and dissatisfaction among affected parties. Also, presentation of what
+    to expect in terms of living and working conditions in the plantation sector needs to
+    reflect reality.43
+
+77. Bangladeshi workers incur additional personal costs in having to come to Dhaka to
+    obtain information and complete recruitment formalities. This adds to costs of
+    migration under both G-to-G and B-to-B systems. Decentralization of the registration
+    process for foreign jobseekers is a good practice that has been adopted. Workers
+    should be able to obtain required information and other services at the 42 District
+    Employment and Manpower Offices covering 64 districts of the country. This calls for
+    the District Employment and Manpower Offices to make extra efforts in community
+    outreach by building familiarity and trust with the people.
+
+78. Decentralization applies to PrEAs as well. Since most PrEAs are concentrated in
+    Dhaka with only a few having an interest in opening district offices, they have to rely
+    on unlicensed and unregulated intermediaries or dalals to mobilize and bring workers
+    to Dhaka. This leads to widespread financial exploitation of jobseekers by layers of
+    intermediaries. Under the B-to-B arrangement currently being discussed, if it were
+    adopted, the PrEAs should be required to recruit from among those listed in the
+    jobseekers’ register/database. This requires recruitment to be conducted locally at the
+    district level under the supervision of the District Employment and Manpower Offices
+    to minimize the costs incurred by jobseekers.
+
+
+
+
+   43
+     For example, it is worth replacing the cover page of the information booklet distributed to potential migrant
+   workers to Malaysia with a picture of a typical plantation rather than the picture of an airplane and Petronas
+   Towers in Kuala Lumpur.
+
+                                                         27
+79. The current job register/database for workers willing to migrate to Malaysia was
+    developed mainly for plantation jobs in Malaysia, and may need to be upgraded for
+    wider use. It is possible that some may have not registered because of the nature of
+    work or the specific destination. Therefore, some flexibility may be needed. Registered
+    workers may need to be categorized by skill level and occupational qualifications if
+    they are to be matched with jobs in different sectors. If not already on record, the
+    database should be further refined to obtain other information such as specific skill
+    levels, competencies, current or previous employment, previous migration records,
+    among others. All job registers should have disaggregated data along variables such
+    as age, gender, region, etc. During interviews, the BAIRA mentioned that passport
+    information is lacking in the current jobseekers’ register/database, which could affect
+    the speed of processing. For the jobseekers looking for international employment, a
+    registration number should be issued after the jobseeker has obtained and made
+    available a passport and the qualifications of the workers are verified. The Bangladesh
+    Government should have a jobseekers register/database that is inclusive of all
+    genders and uses standard occupational classifications so that it could be used for
+    placements to other countries as well.
+
+80. Women should also be given migration opportunities in conditions of dignity and
+    security to Malaysia in plantations as well as other sectors, and to other destinations.
+    Women should be included in such agreements and be allowed to register and access
+    other relevant services. The current database excludes women.
+
+81. The proposed introduction of the B-to-B mechanism for migration to Malaysia
+    highlights the urgent need to streamline the regulatory framework for PrEAs. The new
+    Recruitment Agent Licence and Conduct and Classification Rules need to be approved
+    urgently. At the same time, the MEWOE should establish a professionally qualified
+    recruitment agent classification cell in the BMET to implement the classification system
+    developed by a tripartite-plus committee set up by the MEWOE and headed by the
+    Director-General of the BMET. Section 16 of the Overseas Employment and Migrants
+    Act, 2013, requires that the Government classify recruitment agents in a prescriptive,
+    graded manner.
+
+    Recommendations for the Government of Malaysia
+82. Acknowledge that migrant workers, including those from Bangladesh, are making
+    valuable contributions to the economy, and that migrants may be needed in the
+    medium- to long-term to ensure growth in particular sectors.
+
+83. Designate Bangladesh as a ‘source country’ for the supply of migrant workers to all
+    permitted sectors in Malaysia, which will obviate the need for special procedures.
+
+84. In cooperation with the social partners, the MOHR should take a lead in forecasting
+    labour market needs in the medium- to long-term, as well as demand for migrant
+    workers in different sectors. At present there are conflicting views of actual labour
+    needs. Social partners seem to believe that further inflows of foreign workers may be
+    at the expense of job opportunities for local workers. At the same time, foreign workers
+    should be guaranteed matching jobs when they arrive in Malaysia. The extent to which
+    a regularization of irregular migrant workers can address this labour market need
+    should be considered. Employer and establishment surveys would be useful in this
+
+
+
+                                              28
+   regard and could be carried out by the ILMIA of MOHR. The ILO can collaborate in
+   such an exercise.
+
+85. Strengthen the regulatory framework of PrEAs and outsourcing companies. In this
+    context, it is important to revise the Private Employment Agencies Bill based on
+    international labour standards and good practices.
+
+86. Strengthen labour inspection services to monitor wages and working conditions and
+    compliance with employment contracts, as well as strictly penalize incidences of
+    trafficking for labour exploitation. This should apply to all migrant workers, not only to
+    G-to-G workers. A complaints database including remedial actions taken should be
+    maintained and published.
+
+87. Involve social partners in major initiatives relating to labour migration policies and
+    practices of G-to-G and other arrangements.
+
+88. As mentioned above, the G-to-G mechanism requires a joint in-depth evaluation by
+    both governments. At the same time, it is important to review other deployment
+    mechanisms handled by the One Stop Centre (OSC) of the Foreign Worker
+    Management Division of the MOHA. In cooperation with countries of origin, the study
+    can review the efficiency of the system using a variety of criteria. These include:
+    deployment times, costs of migration, roles of PrEAs, incidences of absconding,
+    employment contract procedures and compliance with their provisions, among others,
+    which can highlight areas for improvement.
+
+
+    Recommendations to the ILO
+89. Within the framework of its Decent Work and Fair Migration Agendas, the ILO should
+    collaborate with both Bangladesh and Malaysia in their efforts to promote good
+    governance of migration, fair recruitment practices, and decent working conditions for
+    migrant workers.
+
+90. The ILO could play a useful role in strengthening the research and information base
+    on migration and recruitment costs and working conditions of migrant workers
+    bysupporting periodic surveys in the two countries and sharing international good
+    practices on labour migration.
+
+91. The ILO should inform both Bangladesh and Malaysia about the ILO/Korea
+    Partnership Programme to monitor the Republic of Korea’s Employment Permit
+    System as a useful model to be considered.
+
+92. The ILO can share information about recruitment options as well as acceptable
+    employment practices and working conditions in the sector with relevant private sector
+    actors. The various private sector initiatives and other convening groups, such as the
+    Roundtable on Sustainable Palm Oil, could consider this when reviewing their
+    principles and compliance criteria for companies in the sector.
+
+
+
+
+                                               29
+References
+Abdullah, R.; Ismail, A.; Rahman, A.K. 2011. “Labour requirements in the Malaysian oil palm
+        industry in 2010”, in Oil Palm Industry Economic Journal, Vol. 11, No. 2, pp. 1-12.
+Abella, M.; Martin, P. 2014. Measuring recruitment or migration costs: Key findings from
+        KNOMAD pilot surveys in Korea, Kuwait, and Spain, (KNOMAD), 6 May (mimeo).
+Barkat, A.; Hossain, I.; Hoque, E. 2014. The cost: Causes of and potential redress for high
+        recruitment and migration costs in Bangladesh (Dhaka, ILO).
+Bernal, B. 2015. Mega-recruiters in Gulf States answer to Kafala? (Manila, Rappler).
+        Available at: http://www.rappler.com/nation/92845-mega-recruiters-gulf-states-
+        answer-kafala [26 Jan. 2016].
+Bernama. 2015. “Illegal workers to be deported before arrival of Bangladeshi workers”, 27
+        July. Available at: http://english.astroawani.com/malaysia-news/illegal-workers-be-
+        deported-arrival-bangladeshi-workers-63966 [26 Jan. 2016].
+BMET. 2015. G-to-G recruitment process between Bangladesh & Malaysia, presentation by
+        Mr Rezwan Chowdhury, Malaysia Cell, BMET at BMET, Dhaka, 25 June.
+EPU. 2015. Eleventh Malaysia Plan 2016-2020: Anchoring Growth on People (Kuala
+        Lumpur, Economic Planning Unit (EPU), Prime Minister’s Department, Government
+        of Malaysia). Available at: http://www.micci.com/downloads/11MP.pdf [26 Jan. 2016].
+Government of Bangladesh. 2013. Overseas Employment and Migrants’ Act, 2013, Act No.
+        VLVIII of 2013 (Dhaka, Parliament of the Peoples’ Republic of Bangladesh).
+—. 2015. Bangladesh marches towards prosperity: Paving the way for higher growth, Budget
+        Speech 2015-16, Abul Maal Abdul Muhith, Minister, Ministry of Finance, Government
+        of the People’s Republic of Bangladesh, 4 June.
+Government of Bangladesh, Press Information Department. 2015. News Brief, 9 July 2015
+        (Dhaka).
+Humanity United. 2015. Free and fair labor in palm oil production: Principles and
+        implementation guidance (San Francisco). Available at:
+        https://humanityunited.org/?smd_process_download=1&download_id=1630 [26 Jan.
+        2016].
+ILO. 2006. The ILO Multilateral Framework on Labour Migration: Non-binding principles and
+        guidelines for a rights-based approach to labour migration (Geneva).
+Kanapathy, V. 2015. Measuring migration policy impact in Malaysia (Kuala Lumpur)
+        (unpublished).
+Kumar, M; Ismail, N.A.; Govindarajo, N.S. 2014. "Way to measure the concept precarious
+        working conditions in oil palm plantations", in Asian Social Science, Vol. 10, No. 21,
+        pp. 99-108.
+Ludin, N.A.; Bakri, M.A.A.; Kamaruddin, N.; Sopian, K.; Deraman, M.S.; Hamid, N.H.; Asim,
+        N.; Othman, M.Y. 2013. “Malaysian oil palm plantation sector: Exploiting renewable
+        energy toward sustainability production”, in Journal of Cleaner Production, Vol. 15
+        No. 65, pp. 9-15.
+Malik, R.A.B. 2014. Skill & workforce development in plantation industry, presented at the
+        International Plantation Industry Conference and Exhibition, Kuching, Sarawak, 24
+        Nov.
+Martin, P.; Abella, M. 2014. Report on consultations in Malaysia, Report prepared for the
+        ILO Country Office for Thailand, Cambodia and Lao People’s Democratic Republic
+        (unpublished).
+MEF. 2014. Practical guidelines for employers on the recruitment, placement, employment
+        and repatriation of foreign workers in Malaysia (Kuala Lumpur).
+Ministry of Overseas Indian Affairs (MOIA). 2015. Expenses to be borne by intending
+        migrants taking emigration clearance for overseas employment, No.Z-
+        11025/208/2013-ES (New Delhi). Available at:
+        http://moia.gov.in/writereaddata/pdf/Expenses_Emigration_Clearance.pdf [26 Jan.
+        2016].
+
+
+
+                                             30
+MOHR. 2012. Press statement by YB Datuk Seri Dr S. Subramaniam, Hon. Minister of
+        Human Resources, Government of Malaysia, signing ceremony memorandum of
+        understanding on the employment of workers between the Government of Malaysia
+        and the Government of the People’s Republic of Bangladesh, Kuala Lumpur, 26 Nov.
+MTUC. 2015. MTUC calls for freeze on recruitment of foreign workers for 2 years (Kuala
+        Lumpur). Available at: http://www.mtuc.org.my/mtuc-calls-for-freeze-on-recruitment-
+        of-foreign-workers-for-2-years/ [26 Jan. 2016].
+Nepali Times. 2015. “Zero-cost into effect”, 6 July.
+NsNewsWire. 2015. “Bangladesh, Malaysia to strike labor deal for 500,000 workers”, 8 Jul.
+        Available at: http://www.nsnewswire.com/2015/07/08/bangladesh-malaysia-to-strike-
+        labor-deal-for-500000-workers/ [26 Jan. 2016].
+Palma, P. 2015a. “Jobs in Malaysia: Part-1: Govt initiative made to fail?”, in The Daily Star, 9
+        Aug. Available at: http://www.thedailystar.net/frontpage/govt-initiative-made-fail-
+        124021 [26 Jan. 2016].
+—. 2015b. “Labour migration experts in Malaysia warn of fraud, abuse again”, in The Daily
+        Star, 11 July. Available at: http://www.thedailystar.net/backpage/kl-experts-warn-
+        fraud-abuse-again-110734 [26 Jan. 2016].
+—. 2015d. “Part-2: Worry hangs over hope”, in The Daily Star, 10 Aug. Available at:
+        http://www.thedailystar.net/backpage/worry-hangs-over-hope-124546 [26 Jan. 2016].
+—. 2015c. “Part-3: Sound hiring system: Onus was on Malaysia”, in The Daily Star, 11 Aug.
+        Available at: http://www.thedailystar.net/frontpage/onus-was-malaysia-125074 [26
+        Jan. 2016].
+Raghu, A. 2014. “Indonesia: Labour crunch hurts Malaysian palm oil growers as Indonesians
+        stay home”, in Reuters, 27 Apr.
+Rai, O.A. 2015. “Zero cost migration, really?”, in Nepali Times, 10-16 Apr.
+Roberston Jr., P. S. 2008. Migrant Workers in Malaysia – Issues, Concerns and Points for
+        Action, Fair Labor Association, Washington D.C. Available at:
+        http://www.alfea.org/img/OutsourcingCompanies.pdf [26 Jan. 2016].
+Siddiqui, T. 2011. Recruitment cost in Bangladesh: Challenges of governing migration in
+        countries of origin (Dhaka, Refugee and Migratory Movements Research Unit
+        (RMMRU), University of Dhaka).
+The Daily Start. 2015. “Sending workers to KL under G2G system: Khandker Mosharraf
+        admits failure of Bangladesh govt”, 9 July.
+The Malaysian Insider. 2015a. 1.5 million Bangladeshi workers to arrive in 3 years, says
+        home minister, 25 June 2015, Kuala Lumpur. Available at:
+        http://www.themalaysianinsider.com/malaysia/article/1.5-million-bangladeshi-
+        workers-to-arrive-in-3-years-says-home-minister [26 Jan. 2016].
+—. 2015b. For the rights of migrants in Malaysia – Tenaganita, Aug. 2015, Kuala Lumpur.
+The New Age. 2014. “Malaysian plantation jobs: G2G system fails to deliver”, in The New
+        Age, 18 Aug.
+UNHCR. 2015a. Irregular maritime movements in South-East Asia- 2014 (Bangkok).
+—. 2015b. South-East Asia irregular maritime movements, January – March 2015 –
+        Highlights (Bangkok).
+United States Department of State. 2015. 2015 trafficking in persons report: Country
+        narratives - Malaysia (Washington, DC, Office to Monitor and Combat Trafficking in
+        Persons).
+Vartiala, S. 2015. The new law of the jungle? Responses by certification schemes and the
+        IOI Group to Finnwatch’s Law of the Jungle report (Helsinki, Finnwach). Available at:
+        http://www.finnwatch.org/images/pdf/Palm_oil_followup_EN_2015.pdf [26 Jan. 2016].
+Ristimäki, S. 2014. The law of the jungle: Corporate responsibility of Finnish palm oil
+        purchases (Helsinki, Finnwach). Available at:
+        http://www.finnwatch.org/images/palmoil.pdf [26 Jan. 2016].
+Wickramasekara, P. 2014. “Regulation of the recruitment process and reduction of migration
+        costs: Comparative analysis of South Asia”, in ILO (ed.): Promoting cooperation for
+        safe migration and decent work (Dhaka, ILO), pp.33-87.
+
+                                              31
+—. 2015. Bilateral agreements and memoranda of understanding on migration of low skilled
+      workers: A review (Geneva, ILO).
+
+
+
+
+                                           32
+Annexes
+
+Annex I: List of persons and institutions consulted
+
+
+A. Bangladesh, 21-25 June 2015
+Bangladesh Bureau of Manpower, Employment and Training (BMET)
+       Begum Shamsun Nahar, Director-General, Bureau of Manpower Employment
+       and Training (BMET) and senior staff
+Meeting with the BMET Malaysia Cell - staff involved in G-to-G documentation
+processing, BMET and Dhaka DEMO
+       Md Nazrul Islam, Deputy Director, BMET
+       Mohammad Ali, Assistant Director, BMET
+       Rezwanul Haque, Assistant Director
+       Md Shafiqur Rahaman; Manpower Survey Officer
+       Md Jamal Uddin Sheikh, Manpower Survey Officer
+       Md Badiuzzaman, Welfare Assistant
+       Md Golam Mostafa Talukder, Manpower Survey Officer
+       Md Nazrul Islam, Manpower Survey Officer
+       Noorjahan Akter, Computer Operator
+       Md Azizur Rahman, Computer Operator
+       Md Wazed Ali
+Ministry of Expatriate Welfare and Overseas Employment, Government of
+Bangladesh (MEWOE)
+       Engineer Khandker Mosharraf Hossain, MP, former Honourable Minister,
+              Ministry of Expatriates' Welfare & Overseas Employment
+       Mr Khandker Md Iftekhar Haider, Secretary, Ministry of Expatriates' Welfare
+              and Overseas Employment and Overseas Employment (MEWOE)
+       Mr Nurul Islam, Additional Secretary (Employment), MEWOE
+       Mr Kazi Kalam, Joint Secretary (Employment)
+       Mr Azharul Islam, Joint Secretary (Mission and Welfare), MEWOE
+Bangladesh Association of International Recruiting Agencies (BAIRA)
+       BAIRA executive committee members
+WARBE Development Foundation
+       Syed Saiful Haque, Chairperson
+Focus group discussion with the workers in the process of migrating to Malaysia
+Focus group meeting with Civil Society Organizations (CSOs)
+       Prabir Kumar Biswas, Coordinator, Bangladeshi Ovhibashi Mohila Sramik
+              Association (BOMSA)
+       Shazzad Hossain, FC, Bangladesh Rural Advancement Committee (BRAC)
+       Hasan Tareq, RCO, Ovibashi Karmi Unnayan Program (OKUP)
+       Jasiya Khatoon, Director, WARBE Development Foundation
+       Md Borkot Ali, DD (Legal), Bangladesh Legal Aid and Services Trust (BLAST)
+       Solidarity Center
+              J. Kuhlman, Deputy Director
+              Shahjadi Zaman
+              Md Nashir Ullah
+              Mithila Rahman
+              Zafar Ali
+       Syed Mahbub Elahi, Chairman, Ovibashi Karmi Kallyan Foundation (OKKAF)
+
+                                        33
+      Shaquib Quoreshi, Secretary, Bangladesh Employers’ Federation (BEF)
+      Md Nehal Hossain, Documentation Officer, Association for Community
+             Development (ACD)
+UN Agencies
+      ILO
+             Ms Nisha, Chief Technical Advisor, ILO Project for Promoting Decent
+                   Work through Improved Migration Policy and its Application in
+                   Bangladesh
+             Ms Disha Faruque, Programme Officer, ILO Project for Promoting
+                    Decent Work through Improved Migration Policy and its
+                    Application in Bangladesh
+      Office of the High Commissioner for Human Rights (OHCHR)
+             Mr Mika Kanervavuori , Human Rights Advisor,
+      United Nations High Commissioner for Refugees (UNHCR)
+             Khaled Fansa, Senior Protection Officer
+      UN Women
+             Ms Tapati Saha
+             Ms Sabina Saeed
+National Human Rights Commission
+       Prof Mizanur Rahman, Chairman, Bangladesh
+
+
+
+
+                                        34
+B. Persons met in Malaysia
+Dr (Ms) Vijjayakumari Kanapathy, Independent Consultant
+Mr Navamukundan, National Executive Secretary, National Union of Plantation
+      Workers (NUPW)
+Mr Mohammad Harun Al Rashid, Regional Coordinator, Caramasia
+Mr Mathews, UP Group Manager Human Resources, United Plantations Berhad
+      (UP), Jenderata Estate, Teluk Intan
+Tuan Hj Mohamad bin Audong, Director, The Malayan Agricultural Producers
+      Association (MAPA)
+Meeting with Government agencies chaired by Ministry of Human Resources
+(MOHR)
+      MOHR
+              Dr Tan Awang Besar, Undersecretary International Division (MOHR)
+              Mr Satish (Policy division)
+              Ms Norlia (Labour Department)
+              Ms Kala (International Division)
+      MPIC
+              Dr Razali Ab Malik, Undersecretary, Innovation Promotion and
+                     Industrial Human Capital Division
+      Ministry of Home Affairs
+              Foreign Workers Division
+                     Mr Wan Mohammed Saupee Bin Wan Yusoff ()
+              International Division
+                     Mr Pius Inggong (MAPO)
+                     Ms Eizan Liyana Zainudin (MAPO)
+              Immigration Department
+                     Mr Ravi Mahalingam
+                     Ms Zalika Moshin
+Malaysian Employer Federation (MEF)
+      Y. Bhg. Datuk Shamsuddin Bardan, Executive Director
+      Ms Lee Yoke Wan, Sr. Manager - Research & Information
+Malaysian Trades Union Congress (MTUC)
+      Gopal Krishnan, Secretary General
+High Commission of Bangladesh
+      Ms Musharrat Jebin, First Secretary Labour Wing
+Meeting with Bangladesh plantation Workers
+      Workers from a plantation – members of the National Union of Plantation
+      Workers (NUPW)
+Meeting with Tenaganita
+      Ms Glorene, Director (Programme)
+      Ms Aegile Fernandez, Director (Trafficking)
+      Mr Ashik, Programme Officer (Bangladeshi workers)
+Skype discussion on 7 July with Sime Darby Group
+       Head Office
+              Ms Nadiah Hanim Abdul Latif , Head, Corporate Affairs, Group
+                     Communication & Corporate Affairs
+              Mr Rashyid Redza Anwarudin, Head, Sustainability Reporting & Social
+                     Performance, Group Sustainability & Quality Management
+       Plantations Division
+
+
+                                       35
+Mr Tang Men Kon, Head, Plantation Sustainability & Quality
+      Management
+Ms Preetha Gopalan, Assistant Manager, Processing &
+      Documentation, Human Resources Department, Workforce
+      Management Unit
+Mr Roslan
+
+
+
+
+                        36
+Annex II: KNOMAD project: Structure of migration costs
+Column 1                                                          Column 2
+To obtain information on these costs the three                    Remarks in relation
+KNOMAD surveys asked the following questions:                     to BMET migration
+                                                                  cost estimate
+How much did it cost you to :
+• obtain information about the job or apply for it with a local   Not accounted for in
+  agent?                                                          BMET estimate
+• learn the language in country of employment (e.g.               Not applicable
+  requirement in Korea)?
+• learn skills necessary to apply for the job?                    Not accounted for
+• obtain passport?                                                Not accounted for
+• take the medical exams?                                         Included in BMET
+                                                                  estimate
+• take any skills tests required by the recruiter/employer?       Not applicable
+
+• obtain this police/security clearance?                          Not accounted for in
+                                                                  BMET estimate
+• obtain approval of employment contract /exit clearance          Included
+  by national authorities?
+• take a required pre-departure training?                         Included
+• acquire necessary health/life insurance?                        Included
+• obtain the work visa?                                           Included
+• become member of welfare fund for migrant workers               Included
+  (required in some origin countries)
+• other costs including informal payments (e.g. bribes)?          Not known or
+                                                                  accounted for in BMET
+                                                                  estimate
+• pay for local transportation and accommodation while            Not accounted for in
+  applying for job?                                               BMET estimate
+• pay for international transportation, including all taxes       Included
+  (e.g. departure tax)?
+
+Source: Column 1 based on (Abella & Martin, 2014).
+
+
+
+
+                                              37
+Annex III: Summary of Bangladeshi worker applications and approvals under
+the G-to-G mechanism
+ No      Item                                              Total
+1        No. of applications submitted                                         83
+2        No. of employers                                                      43
+3        No. of estates (owned by employer)                                   304
+4        Total Bangladeshi workers requested                                13 489
+5        No. of approved Bangladeshi workers                                10 801
+6        No. of Bangladeshi workers who have arrived                         7 344
+7        No. of Bangladeshi workers in the intake process                    2 659
+8        No. of applications not approved by MPIC/MCAB                          7
+9        No. of Bangladeshi workers requested from                          18 600
+         applications that are not approved by MPIC/MCAB
+Source: Information supplied to ILO by Dr Razali Malik of the Ministry of
+Plantation Industries and Commodities.
+
+
+
+
+                                                 38
+Annex IV: ILO Conventions ratified by Malaysia
+ No.      Convention                                                  Date
+  Fundamental Conventions
+ 1        C029 - Forced Labour Convention, 1930 (No. 29)              11 Nov 1957
+ 2        C098 - Right to Organise and Collective Bargaining          5 June 1961
+          Convention, 1949 (No. 98)
+ 3        C100 - Equal Remuneration Convention, 1951 (No. 100)        9 Sep 1997
+ 4        C105 - Abolition of Forced Labour Convention, 1957          3 Oct 1958
+          (No. 105) - Denounced in 1992
+ 5        C138 - Minimum Age Convention, 1973 (No. 138)               9 Sep 1997
+          Minimum age specified: 15 years
+ 6        C182 - Worst Forms of Child Labour Convention, 1999         10 Nov 2000
+          (No. 182)
+  Governance (Priority) Conventions
+ 7        C081 - Labour Inspection Convention, 1947 (No. 81)          1 July 1963
+ 8        C144 - Tripartite Consultation (International Labour        14 June 2002
+          Standards) Convention, 1976 (No. 144)
+  Technical Conventions
+ 9        C050 - Recruiting of Indigenous Workers Convention,         11 Nov 1957
+          1936 (No. 50)
+ 10       C064 - Contracts of Employment (Indigenous Workers)         11 Nov 1957
+          Convention, 1939 (No. 64)
+ 11       C065 - Penal Sanctions (Indigenous Workers)                 11 Nov 1957
+          Convention, 1939 (No. 65)
+ 12       C088 - Employment Service Convention, 1948 (No. 88)         6 June 1974
+ 13       C095 - Protection of Wages Convention, 1949 (No. 95)        17 Nov 1961
+ 14       C119 - Guarding of Machinery Convention, 1963               6 June 1974
+          (No. 119)
+ 15       C123 - Minimum Age (Underground Work) Convention,           6 June 1974
+          1965 (No. 123)Minimum age specified: 16 years
+ 16       MLC - Maritime Labour Convention, 2006 (MLC, 2006) In       20 Aug 1913
+          accordance with Standard A4.5 (2) and (10), the
+          Government has specified the following branches of social
+          security: medical care; sickness benefit and employment
+          injury benefit.
+ 17       C187 - Promotional Framework for Occupational Safety        7 June 2012
+          and Health Convention, 2006 (No. 187)
+
+Source: ILO Standards database (viewed in July 2015).
+
+
+
+
+                                       39
+Annex V: Free and fair labour in palm oil production: Principles and
+implementation guidance
+Free and fair labour in palm oil production: Principles and implementation guidance
+   1. The International Labour Organization (ILO) Core Conventions are upheld.
+   2. Ethical hiring and responsible employment are practiced.
+   3. Reasonable production targets, working hours, and leave entitlements are
+       established.
+   4. A living wage is paid.
+   5. Worker health and safety and the welfare of workers and their families are prioritized.
+   6. Access to remedy is guaranteed.
+   7. Commit to meaningful due diligence, transparency, and disclosure of human rights
+       policies, procedures, and data, with a focus on labor and employment.
+
+Source: (Humanity United, 2015)
+
+
+
+
+                                             40
+Annex VI: Options for Bangladesh and Malaysia for the deployment of migrant
+workers
+No    Option                                Pros                     Cons
+1     Continue with G-to-G only while       Equitable and better     Vested interests; not
+      expanding it to all sectors; same     worker protection;       much political support
+      database but include women for        eliminates third-party   in Bangladesh
+      other sectors                         mediation
+2     G-to-G with some flexibility for      Helps select workers     Involves extra
+      selection by employers                with best fit;           transactions costs for
+                                            addresses one            employers normally
+                                            current grievance of     met by local agents.
+                                            employers
+3     G-to-G and B-to-B in combination      Can address current      Administration difficult;
+      for a select group of reputed PrEAs   concerns of PrEAs:       selection biases and
+      only who are strictly monitored by    could lead to more       political pressures to
+      both governments and direct hiring    deployment and           be included; effective
+      by accredited employers. No sub-      faster processing        governance of PrEAs
+      agents or outsourcing companies                                a challenge
+4     G-to-G for plantation sector with     Fits in with both        Difficulty in finding the
+      higher quota allocation and B-to-B    MOHA’s current           right modalities;
+      for other sectors, which are          thinking; satisfies      serious concern about
+      relatively easier to monitor          plantation sector        workers protection
+                                            interests                under B-to-B
+5     Complete B-to-B for sourcing          Relieves burden on       May be at the expense
+      vacancies in Malaysia for all         government               of worker welfare and
+      sectors with government role as       machinery; allows        protection; poor
+      facilitator and regulator with a      more focus on            governance and fair
+      service centre for employers to be    protection and           play difficult to ensure
+      run by the PrEAs                      regulation               at both ends; may lead
+                                                                     to irregularities
+                                                                     because of high fees
+                                                                     as in the past.
+
+Source: Compiled by author.
+
+
+
+
+                                            41
+Review of the government-to-government mechanism for the
+employment of Bangladeshi workers in the Malaysian plantation
+sector
+
+A memorandum of understanding (MOU) on the employment of Bangladeshi workers
+in the Malaysian plantation sector was signed by the two countries in November 2012.
+It established a state-managed recruitment system, where government entities in both
+countries, rather than private employment agencies were responsible for handling the
+selection and placement of workers. One of the specific aims of the MOU was to
+reduce recruitment costs and eliminate recruitment malpractices. This study is a
+preliminary assessment of the MOU, and recommendations for both countries are put
+forward for how the system can be improved. Moreover, the study allows for a sharing
+of experiences among the other countries in the region that have expressed an interest
+in government-to-government MOUs as a means to promote fair recruitment practices
+and decent working conditions for migrant workers.
+
+
+
+
+This publication has been prepared by the International Labour Organization with
+financial assistance from the Swiss Agency for Development and Cooperation under
+the programme for “Promoting Decent Work through Improved Migration Policy and
+its Application in Bangladesh” and the Australian Government under the GMS
+TRIANGLE project (Tripartite Action to Protect the Rights of Migrant Workers within
+and from the Greater Mekong Sub-region).
+
+
+ILO Regional Office for Asia and the Pacific
+United Nations Building
+Rajdamnern Nok Ave
+Bangkok 10200, Thailand
+Tel.: +662 288 1234 Fax: +662 280 1735
+Email: BANGKOK@ilo.org
+www.ilo.org/asia
+
+
+ILO Country Office for Bangladesh
+House No. S.E.(G) 2
+Road No. 140, Gulshan 1
+Dhaka 1212, Bangladesh
+Tel.: + 88 02 9883973, 9883978
+Fax: + 88 02 9883982
+Email: DHAKA@ilo.org
+Website: https://www.ilo.org/dhaka
+Facebook: https://www.facebook.com/ILO.ORG
+Twitter: @ILONEWS                                            ISBN 9789221302179
+ILOTV: http://www.youtube.com/ilotv
+

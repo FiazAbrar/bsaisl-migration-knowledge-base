@@ -1,0 +1,297 @@
+<style>
+    .navbar-left ul
+    {
+      padding-left: 0px;
+    }
+</style>
+
+<div class="header no-print">
+
+<div class="container-fluid">
+
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+
+[<img src="/resources/website/assets/img/laws-of-bangadesh-logo-bn.png" class="img-responsive logo" alt="bangladesh -logo" />](/)
+
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+
+<div class="search-box">
+
+<div class="input-group">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="container-fluid">
+
+<div class="navbar-header">
+
+<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+
+</div>
+
+<div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+
+- [হোম](/)
+- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">লজ অব বাংলাদেশ <span class="caret"></span></a>
+  - [কালানুক্রমিক সূচী](/laws-of-bangladesh-chronological-index.html)
+  - [বর্ণানুক্রমিক সূচী](/laws-of-bangladesh-alphabetical-index.html)
+  - [আইন অনুসন্ধান](/search.html)
+- [সংশ্লিষ্ট সংযোগ](/related-links.html)
+- [যোগাযোগ/অভিমত](/contact-us.html)
+- <a href="http://old.bdlaws.minlaw.gov.bd/" target="_blank">পূর্বতন ওয়েবসাইট</a>
+- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">সাহায্য <span class="caret"></span></a>
+  - [অনুসন্ধান](/how-to-search.html)
+  - [প্রিন্ট](/how-to-print.html)
+  - [শব্দকোষ](/glossary.html)
+  - [রোমান সংখ্যা](/roman-number.html)
+  - [যোগাযোগ/অভিমত](/feedback-suggestion.html)
+
+[বাংলা](?lang=bn)
+
+\|
+
+[English](?lang=en)
+
+</div>
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<style>
+    .print-only{
+        display: none;
+        visibility: hidden;
+    }
+
+    @media print {
+        .no-print {
+            display: none;
+        }
+
+        .print-only{
+            display: none;
+            visibility: hidden;
+        }
+    }
+</style>
+
+<img src="/resources/website/assets/img/printer.jpg" style="width: 80px" />
+
+প্রিন্ট ভিউ
+
+<span class="clearfix"></span>
+
+<div class="space-print-secindex">
+
+</div>
+
+<a href="/act-1131.html" class="pull-right no-print" style=""></a>
+
+\[সেকশন সূচি\]
+
+<div id="page-content" class="col-md-11 boxed-layout masterContent" style="padding: 10px;width: 97%;margin-top: -90px;">
+
+<div class="section bg-act-section padding-bottom-20">
+
+<div class="row">
+
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+<div class="text-center">
+
+### বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩
+
+#### ( ২০১৩ সনের ৪৮ নং আইন )
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section bt-act-section-search">
+
+<div class="row">
+
+<div class="col-xs-12 col-sm-bottom12 col-md-12 col-lg-12">
+
+<a href="#" onclick="window.history.back();return false;"><em></em></a>
+
+\[ ২৭ অক্টোবর, ২০১৩ \]
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section padding-bottom-20">
+
+<div class="row margin-top-20 preamble-content">
+
+<div class="section padding-bottom-20 bg-striped">
+
+<div class="row lineremoves">
+
+<div class="act-chapter-group">
+
+তৃতীয় অধ্যায়
+
+রিক্রুটিং এজেন্ট, লাইসেন্স, ইত্যাদি
+
+</div>
+
+<div class="col-sm-3 txt-head" style="width: 18%;float: left;">
+
+সাব-এজেন্ট বা প্রতিনিধি নিয়োগ, ইত্যাদি
+
+</div>
+
+<div id="sec-dec" class="col-sm-9 txt-details" style="text-align: justify;width: 82%; float:right">
+
+<span class="footnote" title="ধারা ১৪ক বৈদেশিক কর্মসংস্থান ও অভিবাসী (সংশোধন) আইন, ২০২৩ (২০২৩ সনের ৪১ নং আইন) এর ৪ ধারাবলে সন্নিবেশিত।"><span class="word-formet"><sup>[1](1)</sup></span></span>\[১৪ক।  কোন রিক্রুটিং এজেন্ট, বিধি দ্বারা নির্ধারিত পদ্ধতিতে, নিবন্ধিত কোন ব্যক্তিকে সাব-এজেন্ট বা প্রতিনিধি নিয়োগ করিতে পারিবে এবং সাব-এজেন্ট বা প্রতিনিধির দায়িত্ব ও কর্তব্য বিধি দ্বারা নির্ধারিত হইবে।\]
+
+</div>
+
+</div>
+
+------------------------------------------------------------------------
+
+<div>
+
+![](/resources/website/assets/img/line2.jpg)
+
+</div>
+
+<div class="footnoteListAll">
+
+- ###### <sup>1</sup>
+
+  ধারা ১৪ক [বৈদেশিক কর্মসংস্থান ও অভিবাসী (সংশোধন) আইন, ২০২৩](/act-1459.html "বৈদেশিক কর্মসংস্থান ও অভিবাসী (সংশোধন) আইন, ২০২৩") (২০২৩ সনের ৪১ নং আইন) এর ৪ ধারাবলে সন্নিবেশিত।
+
+</div>
+
+</div>
+
+<div class="section copy-right text-center">
+
+<div>
+
+<img src="/resources/website/assets/img/line.jpg" width="100" height="18" />
+
+</div>
+
+<div style="color:#CC9966; font-size: 14px;font-style: normal;">
+
+Copyright <span style="color: black">©</span> 2019, Legislative and Parliamentary Affairs Division
+
+</div>
+
+<div style="color:#CC9966; font-size: 14px;font-style: normal;">
+
+Ministry of Law, Justice and Parliamentary Affairs
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footer">
+
+<div class="container-fluid">
+
+<div class="row">
+
+<div class="col-sm-6 md-margin-bottom-40">
+
+<div class="headline">
+
+## সংশ্লিষ্ট সংযোগ
+
+</div>
+
+- <a href="http://www.bangladesh.gov.bd/" target="_blank">বাংলাদেশ সরকার এর অফিসিয়াল ওয়েবসাইট</a>
+- <a href="http://www.legislativediv.gov.bd/" target="_blank">লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ</a>
+- <a href="http://www.parliament.gov.bd/" target="_blank">সংসদ সচিবালয়</a>
+- <a href="http://www.lawcommissionbangladesh.org/" target="_blank">আইন কমিশন</a>
+- <a href="http://www.nhrc.org.bd/" target="_blank">জাতীয় মানবাধিকার কমিশন</a>
+
+</div>
+
+<div class="col-sm-4 md-margin-bottom-40">
+
+</div>
+
+<div class="col-sm-6 map-img md-margin-bottom-40">
+
+<div class="headline">
+
+## যোগাযোগ/অভিমত
+
+</div>
+
+<div class="address md-margin-bottom-40">
+
+লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ\
+আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয়\
+বাংলাদেশ সচিবালয়, ঢাকা-১০০০, বাংলাদেশ।\
+\
+\
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="copyright">
+
+<div class="container-fluid">
+
+<div class="row">
+
+<div class="col-sm-9">
+
+কপিরাইট © ২০১৯, লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ,আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয়
+
+</div>
+
+<div class="col-sm-3">
+
+- ডিজাইন এবং ডেভেলপড <a href="http://www.baseltd.com" target="_blank">বেইজ লিমিটেড</a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,1189 @@
+ETHICAL RECRUITMENT:
+   Translating Policy into Practice
+                   Supported by
+    Front cover image: migrant worker skills testing exercise
+
+
+
+
+2
+Table of contents
+About Impactt .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .4
+
+Executive summary . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+
+1. Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+
+2. Thai Union Ethical Recruitment case study  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+
+   A. The Policy and how it is implemented .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+
+   B. Summary evaluation of the Policy .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+
+3. Ethical recruitment roadmap: guidelines  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+
+   Take Action .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+
+   Commit to Continuous Improvement .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+
+   The roles of other actors  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+
+Annex 1 – Methodology  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+
+Annex 2 – The detailed recruitment process .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+
+Annex 3 – Evaluation against international standards  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+
+
+
+
+                                                                                                                                                     3
+About Impactt
+Impactt is an ethical trade consultancy delivering innovative, change-focused solutions in
+industries worldwide. Founded in 1997, it specialises in improving labour conditions and
+raising productivity in global supply chains in a way that benefits supply chain businesses and
+workers alike. Impactt puts workers’ perspectives at the centre of all it does and strives to
+make what works for workers work for business.
+Humanity United and the Freedom Fund commissioned Impactt to conduct an evaluation
+of Thai Union’s policy implementation of its Ethical Migrant Recruitment Policy following the
+methodology in Annex 1. This report presents a summary of findings from this evaluation as
+details of the evaluation could not be published in entirety.
+
+
+
+
+4
+Executive summary
+Improving the practices involved in the recruitment of international migrant workers is
+a priority for companies, governments, and non-governmental organisations seeking to
+address forced labour risks. However, to date, there has been little publicly accessible
+information covering the challenges and achievements of real-world attempts to make
+responsible recruitment a reality. Global seafood producer Thai Union (TU) began
+implementing its Ethical Migrant Recruitment Policy (the Policy) in 2016. In order to
+understand the successes and challenges of TU’s efforts, Humanity United and the Freedom
+Fund commissioned Impactt to conduct an independent, six-month evaluation in 2018.
+Ethical Recruitment: Translating Policy into Practice summarises the findings of this
+evaluation, and draws on this and other cases to develop a set of guidelines for companies
+keen to improve their migrant recruitment practices.
+TU launched and implemented the Policy with the support of the Migrant Workers Rights
+Network (MWRN), a membership-based civil society organisation for migrant workers
+from Myanmar residing and working mainly in Thailand. While the Policy does not envisage
+a zero-cost model for workers, it aims to significantly reduce the costs encountered by
+workers during the recruitment process by directly managing recruitment and eliminating
+recruitment service fees paid by workers.
+Overall, Impactt found that the Policy was implemented as intended. It resulted in a large
+reduction in the amount of recruitment-related costs paid by workers. Workers reported
+that they felt safe on their recruitment journey, and experienced higher levels of job
+satisfaction than workers in the control group. TU reported business benefits, including
+more job applicants and reduced labour turnover. The recruitment agent reported that its
+business had grown, it had professionalised its service and was becoming recognised for its
+ethical credentials.
+However, Impactt also noted distinct challenges along the way. Some workers reported
+paying higher costs than set out in the Policy, although, in the majority of cases, this was
+only slightly more, largely for passports and visa fees paid to government officials. In a small
+number of cases, workers reported paying unauthorised recruitment agency fees (which
+TU endeavoured to reimburse when discovered). Impactt’s evaluation found that workers
+faced difficulties in accessing repayment of overpaid costs, with workers reporting being
+apprehensive about raising the issue, and rarely having documentary proof of overpayment.
+Nevertheless, despite these challenges, the TU model marks a significant landmark in
+improving migrant recruitment practices.
+This report sets out a case study of the Thai Union policy implementation, including its
+impact, success factors and challenges. It then highlights guidelines for others seeking to
+improve their recruitment of migrant workers.
+
+
+
+
+                                                                                                   5
+    1. Introduction
+    A migrant worker’s employment journey typically                                             their debts. The situation is compounded by confiscation
+    begins in a rural village, perhaps in Nepal, Myanmar or                                     of workers’ passports and low pay, which combine to
+    Bangladesh, far from the city and a world away from                                         trap workers in bonded labour.
+    the realities of a factory job abroad. Potential migrants
+                                                                                                Migrant workers are vulnerable to exploitation from
+    are often enthused by the opportunities of working
+                                                                                                the moment they begin the recruitment process,
+    overseas, and unaware of the pitfalls. During their
+                                                                                                throughout their employment in another country, to the
+    recruitment, workers engage with a range of people and
+                                                                                                time when they return to their country of origin. This
+    organisations, including family members, agents and sub-
+                                                                                                report explains how Thai Union (TU) has worked to
+    agents, money lenders, government officials and their
+                                                                                                tackle these issues in the Myanmar-Thailand migration
+    ultimate employer. Many are obliged to borrow money
+                                                                                                corridor for its seafood processing factories through
+    to fund the fees and costs demanded at each stage.
+                                                                                                implementation of its Ethical Migrant Recruitment Policy
+    Workers do not have visibility of costs up front and may
+                                                                                                (the Policy), and draws general lessons from this and
+    also be misled about the conditions and pay at their
+                                                                                                other experiences to present a set of practical guidelines
+    final destination. This can in turn lead to debt bondage,
+                                                                                                for companies seeking to implement responsible migrant
+    whereby workers are unable to leave their employment
+                                                                                                recruitment practices.
+    as they need to keep earning money to pay back
+
+
+
+
+    2. Thai Union Ethical Recruitment case study
+    The Thai seafood industry is highly dependent on                                            to bring a greater level of regulation and formality to
+    migrant labour from low-income countries in South                                           migration from Myanmar to Thailand. Thailand was
+    and South East Asia. The industry has been in the                                           upgraded in the US Trafficking in Persons report in 2018,
+    spotlight for human rights abuses, including trafficking                                    and the EU lifted its yellow card in 2019.
+    and forced labour, highlighted in 2014 through exposés
+                                                                                                It is against this background that TU, the world’s largest
+    by the Guardian,1 the New York Times, 2 and Associated
+                                                                                                producer of shelf-stable tuna products, launched its
+    Press. 3 The US government subsequently downgraded
+                                                                                                Ethical Migrant Recruitment Policy in 2016. Recognising
+    Thailand’s rating in the Trafficking in Persons report 4
+                                                                                                that issues with the recruitment of migrant workers were
+    and the European Commission issued a ‘yellow card’
+                                                                                                prevalent across the industry and the wider region, TU
+    warning. 5 As a result, Thailand set out to reform the
+                                                                                                decided to take action by implementing the Policy in its
+    industry. Meanwhile, the Thai and Myanmar governments
+                                                                                                processing sites.
+    agreed a new Memorandum of Understanding aiming
+
+
+
+    A. The Policy and how it is implemented
+    Scope
+    TU implemented its Policy from April 2016. This report                                      Policy for workers sourced through one recruitment
+    looks at the period from April 2016 - January 2019,                                         agency from Myanmar. A second Myanmar-based
+    during which 9,101 workers were newly recruited from                                        agency began working with TU under the Policy, but
+    Myanmar. This represents approximately 40% of all                                           TU terminated the relationship as this agency did not
+    workers recruited during this period. The remaining                                         comply with the terms. TU has also sought to implement
+    60% of workers recruited in this period are either Thai                                     the Policy at a smaller scale in Cambodia, working with
+    workers, existing Myanmar workers who returned                                              one agency. This agency was also terminated for failure
+    home to Myanmar and then came back to TU under the                                          to comply with the Policy. TU included two further
+    Memorandum of Understanding (MOU) between the                                               agencies, in Cambodia (2017) and Myanmar (2018)
+    Thai and Myanmar governments, or workers not from                                           respectively, however, these two agencies fall outside the
+    Myanmar. Impactt evaluated the implementation of the                                        scope of this evaluation. 6
+    1   Kate Hodal, Chris Kelly and Felicity Lawrence, “Revealed: Asian slave labour producing prawns for supermarkets in US, UK,” The Guardian, June 10 2014, https://www.
+        theguardian.com/global-development/2014/jun/10/supermarket-prawns-thailand-produced-slave-labour
+    2   Ian Urbina, “‘Sea Slaves’: The Human Misery That Feeds Pets and Livestock,” The New York Times, July 27 2015, https://www.nytimes.com/2015/07/27/world/outlaw-ocean-
+        thailand-fishing-sea-slaves-pets.html
+    3   Robin McDowell, Margie Mason and Martha Mendoza, “AP Investigation: Slaves may have caught the fish you bought,” The AP, March 25 2015, https://www.ap.org/explore/
+        seafood-from-slaves/ap-investigation-slaves-may-have-caught-the-fish-you-bought.html
+    4   U.S. Department of State, “Trafficking in Persons Report 2014,” https://2009-2017.state.gov/j/tip/rls/tiprpt/2014/index.html
+    5   European Commission - Press Release, “EU acts on illegal fishing: Yellow card issued to Thailand while South Korea & Philippines are cleared,” April 21 2015, https://europa.eu/
+        rapid/press-release_IP-15-4806_en.html
+    6   As Cambodian recruitment was limited at the time of the evaluation, Impactt’s evaluation only covered the Myanmar recruitment, and therefore this report draws only on the
+        Myanmar recruitment.
+6
+The Policy
+The Policy7 provides “a set of principles to ensure                                        by migrant workers and TU and its subsidiaries during
+that recruitment and hiring are managed consistently,                                      recruitment processes.”
+professionally, fairly and transparently. The Policy aims
+                                                                                           TU launched and implemented the Policy with the
+to ensure the safe migration and reduce the potential
+                                                                                           support of the Migrant Workers Rights Network
+vulnerability of migrant workers to labour exploitation,
+                                                                                           (MWRN), a membership-based civil-society organisation
+including the worst forms of child labour and human
+                                                                                           for migrant workers from Myanmar residing and working
+trafficking, and that the integrity of TU is upheld. The
+                                                                                           primarily in Thailand.
+Policy seeks to ensure a fair balance between costs borne                                                           Figure 1 – The recruitment journey
+
+
+
+                               MYANMAR
+                                            Yangon
+                                                                          Myawaddy
+
+
+
+
+                                                                                                               THAILAND
+
+
+
+                                                                                                                 BANGKOK
+                                                                                               Samut Sakhon
+
+
+
+
+                                                                                                                                     Figure 1 – The recruitment journey
+
+
+
+
+                                                                                                          Songkhla
+
+
+
+
+                                                                                                                          MAYLASIA
+
+7   Thai Union, “Ethical Migrant Recruitment Policy,” https://www.thaiunion.com/files/download/sustainability/20160116-ethical-migrant-recruitment-policy.pdf
+
+                                                                                                                                                                          7
+    Figure 2 – The recruitment journey
+
+
+
+
+                     Demand letter
+                       to agent                                               Advertisement                                         Pre-interview
+
+
+
+
+                         Passport                                                    Health
+                        processing                                                   check                                              Interview
+
+
+
+
+                          Signing                                              Pre-departure                                          Worker
+                         ceremony                                                 training                                         permit process
+
+
+
+
+                                                                             Signing & visit to                                      Government
+                    Transportation                                           the labour office                                        processing
+
+
+
+
+                                                                                   Arrival
+                              Visa                                               and training                                       Go to factory
+
+
+
+
+                        AGENCY
+                        THAI UNION
+                         MIGRANT WORKERS RIGHTS NETWORK
+
+
+
+
+    Workers who come from Myanmar to work at                                                For this recruitment process, TU reported that they pay
+    Thai Union processing sites follow the journey above                                    the costs below per worker recruited. This serves the
+    (Figure 1) from their home villages to the clusters of Thai                             aim of their Policy to have a fair balance between costs
+    Union factories.                                                                        borne by migrant workers and TU and its subsidiaries
+                                                                                            during recruitment processes. 8
+    The Policy describes the ethical recruitment process and
+    division of roles between TU, the recruitment agency,
+    and MWRN (set out in Figure 2 above).
+
+
+
+
+    8   These costs are converted from Baht to USD using the exchange rate of 0.02902 (or 1 USD as 34.34 Baht) as of April 1 2017 as the mid-point of the implementation of the
+        policy at the time of evaluation. They are rounded to the nearest ten cents. The Baht has appreciated considerably since this time.
+
+
+
+8
+    Table 1 – Costs borne by Thai Union per worker9 10
+                                                                                                                                                       Approximate
+    Costs borne by Thai Union per worker
+                                                                                                                                                        cost in USD
+    Contract development and signing ceremony costs; recommendation and approval
+                                                                                                                                                                    $43.10
+    document processing
+    Pre-departure training including accommodation and food                                                                                                          $8.50
+    Food and drinking water during travel from departure point in origin country (Yangon in Myanmar)
+                                                                                                                                                                      $2.90
+    until arrival at factory
+
+    Transportation expenses from the Thai border (or pre-departure training point) to factories                                                                     $14.60
+
+    TU staff costs (salary, travel, accommodation and allowance for trips to Myanmar)                                                                               $19.00
+    Document fees at border                                                                                                                                          $0.30
+    Total for workers coming to Samut Sakhon                                                                                                                      $88.40
+    Total for workers coming to Songkhla                                                                                                                         $135.00
+    (Due to additional transport, food and water costs)
+
+In line with the Policy, TU also pays for the costs of                                   •    From 2019, TU is conducting annual social audits of
+uniforms and health and safety equipment, estimated at                                        their recruitment agencies against the Policy. This will
+$16.16 per worker. For workers using certain machinery                                        cost approximately $2,125, including staff salaries,
+requiring additional safety equipment, the cost of health                                     travel, accommodation and allowances for travel to
+and safety equipment increases to $30.72 per worker.                                          Yangon.
+                                                                                         • TU provides a monthly contribution to MWRN of
+In addition to the cost per worker recruitment and the                                        $0.50 per new worker recruited to support their
+one-time cost for switching to the Policy, TU reports                                         monitoring of the programme.
+paying the below costs for implementing and monitoring
+                                                                                         The Policy envisages a ‘low cost to workers’ rather than
+the programme:
+                                                                                         a ‘no cost to workers’ model. It specifies that workers
+•      When TU needs to select a new recruitment agency                                  are expected to pay no more than the costs shown in
+       in Myanmar, they pay approximately $1,242, excluding                              Table 2 below during their recruitment process.11 TU
+       staff salaries. This covers the expenses of travel,                               defined what type of costs workers will need to pay and
+       accommodation and allowances for staff to travel to                               the amount allowable under each, based on its research
+       Yangon for the processes of selecting the agency and                              and consultation with recruitment agencies. The cost of
+       building their capacity to comply with the policy.                                transport to and from Yangon from villages is the only
+•      From 2018, TU has organised training for their                                    cost not set out specifically by TU. These estimates were
+       recruitment agencies, costing approximately $1,223                                provided by MWRN.
+       per year.
+
+    Table 2 – Costs borne by workers
+                                                                                                                                                       Approximate
+    Costs borne by workers
+                                                                                                                                                        cost in USD
+    Accommodation and food during interview                                                                                                                          $4.40
+    Work permit                                                                                                                                                     $55.50
+    Visa                                                                                                                                                            $14.50
+    Passport                                                                                                                                                        $18.10
+    Transportation from villages to and from Yangon (2-3 trips with costs varying by location of village)                                             $14.40 - $108.20
+    Transportation to hospital for health check                                                                                                                      $3.60
+    Health check                                                                                                                                                    $14.50
+    Food, accommodation and document-processing at the border crossing to Thailand                                                                                   $9.80
+    Transport to the border crossing                                                                                                                                  $7.20
+    Total                                                                                                                                              $142-$235.80
+
+
+9 Some customers also require Hepatitis B testing for workers, which costs an additional $4.37 per worker. This is implemented for workers at 3 out of the 5 factories evaluated.
+10 For workers who are not newly recruited, but rather left and returned to work for TU under the new government agreements, the cost is estimated as $78.54 per worker. This
+   includes the recruitment agency fee, TU staff salary, travel, and allowance for travel.
+11 These costs are estimated in US dollars for comparison, using the exchange rates from Kyat of 0.00072 or Baht of 0.02902 as of April 1 2017, as the mid-point of the           9
+   implementation of the policy at the time of evaluation. They are rounded to the nearest ten cents.
+     The Policy requires agencies to be fully transparent on                               in advance between TU or its subsidiary and the recruitment
+     costs and disclose all charges and terms of business.                                 agency, will be terminated following procedures in place
+     There is a strong enforcement clause:                                                 to ensure no negative impact to recruited workers. The
+                                                                                           recruitment agency shall then also be required to repay all
+     “Agencies found charging workers illegal and/or irregular fees
+                                                                                           irregular (unapproved) fees to the applicant.”12
+     either directly or through sub-agents, beyond those agreed
+
+     Preparing for implementation
+     In 2015, before launching the Policy, TU prepared for                                 •     Starting to manage labour agencies centrally in order
+     implementation by:                                                                          to have greater control over the recruitment process
+                                                                                                 across all subsidiaries;
+     •     Launching the Business Ethics and Labour Code
+           of Conduct;13                                                                   •     Establishing the ‘Centre’, comprised of Human
+                                                                                                 Resources (HR) team members responsible for
+     •     Signing a Memorandum of Understanding (MOU)
+                                                                                                 overseeing implementation across TU sites.
+           with MWRN and providing MWRN with access to
+           select TU factories and workers to research key
+           issues migrant workers’ faced;
+
+
+     Monitoring implementation
+     To monitor the implementation of the Policy, TU and                                   If any of these channels identify cases requiring
+     MWRN take the steps below:                                                            investigation, these are resolved as follows:
+     •    During the recruitment interviews, MWRN ask                                      •    If migrant workers report an issue while still in
+          100% of recruited workers in person whether they                                      Myanmar, MWRN and TU seek to find a solution
+          paid any recruitment fees, in the presence of a                                       within 1 to 3 days. MWRN interviews migrant
+          representative of TU’s HR department.                                                 workers about the issue, with TU present, and asks
+     • During the signing ceremony, TU selects 10% of                                           for any evidence or further details such as to whom
+          workers and asks them to respond to written                                           the payment was made. TU invites the recruitment
+          questionnaires that include questions on any fees                                     agency to respond and obtains any available
+          paid and satisfaction with the recruitment process.14                                 evidence.
+     • During the pre-departure training, TU and MWRN                                      • If migrant workers report an issue in Thailand, TU
+          ask workers questions about the quality of the                                        allocates one HR staff member from the Centre,
+          training. MWRN also asks workers once again if they                                   one from site HR management and one interpreter
+          have paid fees.                                                                       from the HR staff to interview affected workers,
+                                                                                                using a questionnaire. MWRN also allocates one
+     • When workers arrive in Thailand, TU HR staff
+                                                                                                staff member to support the investigation. The latter
+          interviews 10% of workers in person, on site.
+                                                                                                conducts separate in-depth worker interviews.
+          MWRN interviews an additional 10% of workers in
+          person within one month of their arrival on site, in                             If the investigation finds reimbursement is required,
+          focus groups of four to five workers, without TU’s                               the agent and TU negotiate the amount based on the
+          HR representatives in the room.                                                  amounts reported by workers, with MWRN as
+                                                                                           a witness.
+     MWRN builds trust with workers by helping them to
+     settle in, for example through setting up bank accounts                               •     Workers are informed of the reimbursement amount.
+     or advising them where to shop. MWRN reported that                                    •     The agent pays the reimbursement amount directly
+     this support is a constructive way in which to engage                                       to workers in cash. MWRN witnesses the processes.
+     with workers, and helps to identify any issues. If workers                                  MWRN and the worker sign to confirm they have
+     report having paid unauthorised fees or they have any                                       received the money.
+     other concerns, MWRN follows up through individual
+     worker interviews.
+     TU, MWRN and the agencies provide grievance
+     mechanisms to workers via their Facebook and Viber
+     accounts, and a phone hotline.
+
+     12 Thai Union, “Ethical Migrant Recruitment Policy,” https://www.thaiunion.com/files/download/sustainability/20160116-ethical-migrant-recruitment-policy.pdf
+     13 Thai Union, “Thai Union Business Ethics and Labor Code of Conduct,” https://www.thaiunion.com/files/download/sustainability/20160229-tu-code-of-conduct-en.pdf
+     14 TU and MWRN reported they plan to increase the scale of workers interviewed in the monitoring processes. Impactt did not verify whether these plans were implemented.
+        The organisations reported that:
+        • From December 2018, TU intends to conduct the survey used in the signing ceremony with 100% of workers.
+        • From January 2019, MWRN will select an additional 10% of workers (who are not covered by the TU survey) and conduct their own written survey with workers covering
+          if they paid fees or had any issues with the recruitment process.
+        • From January 2019, TU’s HR team plans to interview 100% of workers when they arrive on site.
+
+
+
+10
+B. Summary evaluation of the Policy
+Impactt conducted an independent evaluation of the outcomes of the Policy in five TU sites during the second half
+of 2018, following the methodology set out in Annex 1.
+
+Impact on workers
+Impactt found that, on average, TU workers recruited                                      All workers recruited under the Policy reported that
+under the Policy reported paying fees close to the fixed                                  they felt safe during their recruitment journey. This is
+amount specified of $127.60, excluding the variable costs                                 notable in the context of the Myanmar-Thai recruitment
+of transport to and from Yangon from villages. The                                        corridor where many workers face high-risk recruitment
+Policy, therefore, appears to have lowered significantly                                  journeys, particularly if they are not following legal
+the cost for workers recruited under the Policy versus                                    recruitment channels.17
+those recruited prior to the Policy’s implementation,
+                                                                                          TU workers recruited under the Policy reported 9%
+or equivalent workers employed by other companies.
+                                                                                          higher job satisfaction levels. They were:
+Issara Institute reports that similar cohorts of workers
+during the same timeframe typically paid $413 to $523 in                                  •    11% more likely to recommend the factory as a good
+recruitment fees.15                                                                            place to work.
+However, some TU workers recruited under the Policy                                       • 39% more likely to save each month.
+reported paying more than set out in the Policy. In the                                   • 22% more likely to reach the end of the month
+vast majority of cases, workers reported paying slightly                                       without borrowing money than TU workers
+more, largely for passport and visa fees. In certain cases,                                    recruited before the Policy was introduced.
+the risk of such overcharging may be due to facilitation                                  However, workers reported confusion surrounding
+payments requested to process government documents.                                       whether and how they could resign under the terms of
+In a small number of cases, workers reported paying                                       the Policy. They reported understanding that they are
+unauthorised agency fees (which TU endeavoured to                                         required to work for TU until the end of their contract,
+reimburse when discovered).                                                               and feared that if they resigned early, they would not be
+Impactt interviewed family members of TU workers in                                       able to work in another factory in Thailand. At the same
+their home villages. The family members reported that                                     time, they feared that they could also not return to their
+they receive from $200-$300 per month in remittances                                      home country, where they still have debts. TU reported
+from TU workers. Of this, they typically spend half and                                   that according to their policies workers can resign by
+save half. After two years, many have saved enough                                        only presenting a resignation letter. They reported that
+money to build better homes. In comparison, the                                           they would review how this is communicated to workers
+International Labour Organization found that Myanmar                                      to address this issue. It seems likely that this discrepancy
+workers in Thailand remitted $222 to their families per                                   is the result of gap in communication. However, it could
+month on average.16                                                                       also be related to the legal restrictions in Thailand, which
+                                                                                          make it difficult for migrant workers’ to change jobs.18
+
+Impact on TU
+TU reports a number of benefits, including:                                                    than for those migrant workers not recruited under
+                                                                                               the Policy.19 In 2018, this figure was 91.2%.
+•     It is now easier to recruit workers - when the
+      company issues a demand letter for workers from                                     TU has received national and international recognition
+      Myanmar to recruitment agencies, it now receives                                    for its work in this area, reporting that the Thai
+      more applicants than required.                                                      government has engaged with the company positively
+                                                                                          and recognised its work as an example of good practice.
+•     It is easier to fulfil the requirements of customers’
+                                                                                          Internationally, TU was highly commended at the 2018
+      social compliance audits.
+                                                                                          Stop Slavery Awards, in recognition of the steps it
+•     Worker turnover is markedly lower for workers                                       had taken to prioritise safe and legal labour in its own
+      recruited under the Policy. In 2017, the turnover of                                operations and supply chains. 20
+      workers recruited under the Policy was 93.6% lower
+
+
+
+15 Mark Taylor, “Developing a Financially Viable Ethical Labour Recruitment Model: Prospects for the Myanmar-Bangkok Channel,” Issara Institute, 2018, https://docs.wixstatic.com/
+   ugd/5bf36e_c5df0adbf93b4769833e55d60f3ca3eb.pdf, 25
+16 Benjamin Harkins, Daniel Lindgren, and Tarinee Suravoranon,”Risks and rewards: Outcomes of labour migration in South-East Asia,” The ILO, and the IOM, 2017, https://www.ilo.
+   org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/publication/wcms_613815.pdf, 66
+17 For example, in this study from the ILO, 45% of workers from Myanmar experienced problems in their recruitment, in contrast to 25% of those under the legal recruitment
+   channels https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/publication/wcms_613815.pdf, 36
+18 According to MWRN and external advisors, under Thai law, workers recruited legally under the government-to-government Memorandum of Understanding between Thailand
+   and Myanmar can only move to another factory with a referral from the current factory in the event of extreme circumstances or after repaying any ‘damage costs’ including
+   full costs of recruitment to their employer. However, in the event these circumstances are not met, workers must return to their home country and go through the visa
+   process again with their new employer. The Memorandum of Understanding was introduced at the same time as TU’s Policy.
+19 These workers either arrived as walk-ins or were workers who previously worked for Thai Union and returned to Myanmar to renew their visa and then returned to
+   employment with Thai Union.
+20 “Past Winners: Highly commended and shortlists,” Thomson Reuters Foundation, http://www.stopslaveryaward.com/past-winners                                                       11
+     Impact on the recruitment agency
+     The recruitment agency reported finding the process          its ethical systems, prove that the ethical recruitment
+     difficult at the outset, as it was under a lot of pressure   model is viable, and promote the benefits to other
+     to meet the Policy’s exacting standards and had to make      agencies in Myanmar.
+     a significant amount of effort to make change within the
+                                                                  The agency reported substantial growth in the volume
+     complex and ingrained current system of recruitment.
+                                                                  of workers requested and some growth in earnings. It
+     The agency noted that it faces hostility from other          has reinvested much of its increased income into the
+     agencies due to its model of not charging workers fees,      formalisation of its ethical recruitment model, including
+     as this increases competition and makes it harder for        the education of its sub-agents and partners that provide
+     agencies that charge fees to recruit workers, particularly   transportation to workers. Importantly, the agency
+     where the recruitment agency involved in the Policy is       noted that going against the grain to implement ethical
+     recruiting from the same villages. This hostility may also   recruitment policies requires long-term relationships and
+     relate to challenging vested interests in the recruitment    support from customers, who need to be willing to work
+     industry’s dominant ‘kick-back’ model, whereby               together on challenges. It reports that, to its knowledge,
+     recruitment agencies compete to win contracts based on       TU is the only company to have enforced a policy of
+     providing kick-backs or gifts to the recruiting companies’   ethical recruitment as a condition of doing business.
+     representatives. Despite this, the recruitment agency did
+                                                                  The agency has also been recognised with an ethical
+     not report facing a tangible threat. Indeed, the antipathy
+                                                                  recruitment award from the Thai government, the first
+     described above has prompted the agency to formalise
+                                                                  time a recruitment agency has received such recognition.
+
+     Impact on customers
+     All TU customers – which include major brands and            Customers indicated that more ethical recruitment
+     retailers – interviewed reported that they view the          would have an impact on purchasing decisions, but that
+     elimination of recruitment fees as a priority area.          this would be difficult to quantify and integrate into their
+     However, they still observe few companies systematically     current ways of monitoring and incentivising suppliers.
+     addressing the problem, and therefore welcomed TU’s          Some customers wanted to see TU aligning its definition
+     efforts. All customers were keen to understand more          of recruitment fees with some more stringent definitions,
+     about the implementation of the Policy. Some also            resulting in zero, rather than low, fees for workers.
+     indicated that they viewed TU’s partnership with a civil     Others commented that they would like to see improved
+     society organisation in a positive light. They were keen     channels for considering workers’ perspectives within the
+     to encourage full transparency, in order to facilitate       process of implementing the Policy.
+     knowledge-exchange in even the most challenging areas.
+
+     Success factors
+     The evaluation demonstrates that the Policy has              •   Clarity of roles and responsibilities: All
+     largely been implemented effectively. This is due to the         stakeholders interviewed had a clear understanding
+     following factors:                                               of the Policy, which sets out roles and responsibilities
+                                                                      in detail. This includes clearly articulated punitive
+     •   High-level commitment: Senior buy-in was
+                                                                      clauses for breaches by recruitment agents (e.g.
+         essential to implementation. The public scrutiny in
+                                                                      responsibility for repayment of unauthorised fees
+         2015 of conditions for migrant workers prompted
+                                                                      and termination of contracts).
+         TU to take the lead on improving migrant
+         recruitment practices. The Global Director of            •   Independent civil society partner: Partnering
+         Corporate Affairs and Sustainability developed               with MWRN as an independent monitor helped to
+         the Policy together with the Group Director of               manage implementation issues. MWRN provides
+         Human Resources, and together presented it to                a channel through which workers can raise issues
+         the CEO, achieving high-level support. As part of            with confidence. Impactt found that MWRN had
+         TU’s emphasis on sustainability, TU later invited            identified cases where the Policy was not followed
+         their Global Director of Corporate Affairs and               and triggered the relevant investigation and
+         Sustainability to join the Global Leadership Team.           remediation processes. MWRN’s monitoring role
+                                                                      also helps to hold TU accountable to the spirit of the
+     •   Understanding the recruitment process: TU
+                                                                      Policy by providing an independent advisory voice
+         worked with MWRN and dedicated resources
+                                                                      focused on the impact on workers’ lives.
+         of staff time and travel costs to form an in-depth
+         understanding of the recruitment process, identify
+         the challenges in recruiting ethically, and develop a
+         Policy to address them.
+
+
+
+12
+Challenges and learnings
+While the Policy was overall implemented as planned,         •   Repaying fees without receipts: TU and MWRN
+some challenges arose. These challenges are not unique           reported that arranging repayments to workers
+to TU, but provide important lessons for other actors            was challenging, especially where there were no
+planning to implement an ethical recruitment policy.             receipts. They managed this by defining thresholds
+                                                                 of proof to decide whether the worker would
+•   Striking the balance in partnership: There is
+                                                                 qualify for repayment. These included naming the
+    a conflict to be managed between maintaining
+                                                                 same sub-agency consistent as other workers who
+    MWRN’s ability to act as a fully independent ‘critical
+                                                                 reported overpayment. However, the process is not
+    friend’, and ensuring that it can cover its expenses
+                                                                 straightforward and can take time for all involved.
+    in monitoring the Policy. As noted in the costs, TU
+                                                                 For example, in one case, where TU was able to
+    provides a monthly contribution to MWRN, which
+                                                                 accept worker testimony as sole proof, TU faced
+    supports them to monitor the Policy but may impact
+                                                                 challenges in negotiating with the agency, without
+    on their ability to be completely independent.
+                                                                 documentary evidence and having lost leverage due
+•   Fear of reporting overpayment: Migrant                       to the termination of the business relationship.
+    workers, in general, tend to be nervous about            •   Cascading to sub-agencies: TU identified that one
+    reporting issues, due to the inherent vulnerability          of the most significant risk areas is at sub-agency
+    of their situation. A significant effort is needed to        level, when workers are recruited in their villages. It
+    build trust and maintain ongoing communication,              implemented a number of steps to manage this part
+    in order to ensure that workers are consistently             of the process, including restricting the maximum
+    able to raise issues and feel confident that they will       number of sub-agencies that can be used by
+    be resolved, without fear of retaliation. Further            recruitment agencies, and beginning to include sub-
+    opportunities for one-to-one conversations between           agents directly in training sessions on its Policy. TU
+    MWRN representatives and workers without a                   also reports plans to conduct spot checks and audits
+    TU representative present before workers’ arrival            of recruitment agents, in order to observe how they
+    in Thailand would help increase workers’ trust in            manage the process, including their interaction with
+    MWRN representatives.                                        their sub-agencies.
+
+
+
+
+                                                                                                                           13
+     3. Ethical recruitment roadmap: guidelines
+     Based on the successes and challenges found in Impactt’s                                    workers, we have identified the following guidelines for
+     evaluation and its experience with other companies                                          organisations seeking to develop a fair and transparent
+     working to improve their recruitment of migrant                                             recruitment process.
+
+
+
+
+     Take Action
+                                                                              Take Action
+     •     Get buy-in from the top: The backing of the                                                  independent, worker-focused third parties to ensure
+           CEO, Board, Procurement, Human Resources,                                                    that external accountability is built into the process.
+           and Sustainability teams is decisive in designing and                                        Create open channels for feedback with civil society
+           implementing an ethical recruitment process.                                                 organisations to inform continuous improvement.
+     •     Start with understanding the current reality: A                                       •      Engage with workers: Build meaningful worker
+           clear-sighted mapping of the worker’s recruitment                                            engagement into the ethical recruitment process.
+           journey is a necessary first step. Work with local civil                                     Workers themselves are the best monitors of
+           society organisations, and engage with recruitment                                           how they are treated. Work with local civil society
+           agencies and government officials to understand the                                          organisations with expertise in worker dialogue and
+           true costs of recruitment. Remember that this will                                           connections to relevant worker communities.
+           differ by recruitment corridor.                                                       •      Communicate clearly to workers: Throughout
+     •     Assess gaps: Understand how workers’ experiences                                             recruitment, employment, and resignation processes
+           and your current practices align with your standards                                         communicate clearly and frequently to workers
+           and international standards. 21                                                              on their rights. Ensure workers are aware of what
+     •     Create a policy: Develop and publish a clear policy on                                       to expect in their new jobs and lives in their new
+           ethical recruitment. Include the policy as a contractual                                     country of residence. Explain thoroughly the role
+           requirement in agreements with recruitment agencies                                          and responsibilities of any third party partners
+           and ensure that agencies understand its purpose, as                                          especially grievance mechanism providers and what
+           well as its specific requirements.                                                           to do if any issues arise.
+     •     Establish clear responsibilities: Ensure that                                         •      Ensure robust monitoring, investigation and
+           internal stakeholders (for example, individuals within                                       remediation: Work with independent local civil
+           the HR, procurement and production functions)                                                society organisations to help encourage the strongest
+           and external stakeholders (recruitment agencies,                                             monitoring procedures. Providing multiple check-
+           sub-agencies, civil society organisations, service                                           points for workers with independent civil society
+           providers) know exactly what role they must play in                                          partners during the process (e.g. interviews both
+           delivering the policy.                                                                       before departure and after arrival) helps to uncover
+                                                                                                        issues more effectively. Ensure there is high-level
+     •     Cascade through to sub-agency level: Restrict                                                company commitment to follow through with full
+           and monitor recruitment agencies’ use of sub-                                                remediation, including financial remedy, for any
+           agencies. Engage with approved sub-agencies to                                               workers who have experienced a breach of the policy.
+           communicate the aims and purposes of the ethical
+           recruitment commitment.                                                               •      Embrace continuous improvement: Create
+                                                                                                        practical policies informed by workers’ feedback and
+     •     Ensure clear lines of accountability:                                                        concerns, and regularly revisit and adapt them. Be
+           Clarify, through policies, contracts and regular                                             open to criticism. Understand what went wrong and
+           communication, the consequences of breaches. This                                            why, and how to prevent the issue from reoccurring.
+           should include responsibility for the reimbursement
+           of recruitment fees, and contract termination in the                                  •      Share knowledge: Capture and communicate
+           case of failure to comply with the policy. Work with                                         what works and what doesn’t, in order to help
+                                                                                                        other businesses.
+
+
+
+
+     21 See, for example, the Dhaka Principles, the Responsible Business Alliance definition of recruitment fees, or the IRIS standard of the IOM.
+
+
+
+14
+Commit with Courage
+                                   Commit to Continuous Improvement
+•     Focus on taking action, not perfection: Putting                                        •      Consider the whole worker experience:
+      the principles of ethical recruitment into practice                                           Recruitment is only the first step in the worker
+      is not easy. There will be bumps in the road.                                                 journey. The worker’s experience while in
+      Acknowledge progress, even if it falls short of                                               employment, to what extent the job contributes
+      perfection, and continue your journey of continuous                                           to his or her life goals and his or her confidence to
+      improvement.                                                                                  resign and return home are all crucial to the success
+•     Do not be daunted by what you might find:                                                     of ethical migration for work.
+      Forming an understanding of the harsh realities                                        •      Challenge corruption: Don’t shy away from
+      facing migrant workers in their journey to find                                               calling out corruption and kick-backs. Build internal
+      work can be alarming. But, it is ultimately better to                                         safeguards and a culture of speaking out about
+      understand the full picture so that you can manage                                            corruption, whether internal or in governments in
+      operational, reputational and legal risks.                                                    source or host countries.
+•     Keep the labour supply chain simple: Each link                                         •      Start with the areas you can control: Many
+      in the chain increases the risk of policy breaches.                                           aspects of the recruitment process are within an
+      Manage recruitment as directly as possible.                                                   employer’s sphere of influence. Focus here.
+•     Give recruitment time: Following the full ethical
+      recruitment process takes time. Ensure agents
+      are not tempted to cut corners in order to meet
+      unrealistic timelines.
+
+
+The roles of other actors
+Companies can take significant action to enable                                                     to stimulate demand for ethical recruitment by
+ethical recruitment through their own practices, but                                                providing incentives to suppliers who are able to
+all stakeholders must contribute to building an ethical                                             demonstrate responsible recruitment practices.
+recruitment system.                                                                                 Buyers should evaluate their purchasing practices
+                                                                                                    to ensure that they do not prompt behaviours that
+•     Governments, both in source and host countries,
+                                                                                                    increase the risk of exploitation or create a conflict
+      are responsible for ensuring that migrating citizens
+                                                                                                    of interest for suppliers. For example, accurate
+      and arriving migrant workers receive adequate
+                                                                                                    forecasting with suppliers and assessment of
+      protection from abuse throughout their recruitment,
+                                                                                                    suppliers’ capacity can enable brands to avoid placing
+      travel and employment, and on their return. This
+                                                                                                    excess pressure on suppliers. 22 They should prioritise
+      includes establishing legal frameworks aligned
+                                                                                                    developing purchasing practices that are designed
+      with ethical recruitment and robust enforcement
+                                                                                                    from the outset to encourage ethical behaviour,
+      mechanisms with effective grievance channels.
+                                                                                                    including on recruitment.
+      Governments can also create an enabling
+      environment by cracking down on corruption and                                         •      Civil society, including NGOs and trade unions
+      providing transparent and public information on visa,                                         are key to identifying the issues faced by workers,
+      permit and passport costs and processing times.                                               representing the interests of migrant workers, and
+                                                                                                    providing support to affected people. They also have
+•     Buyers, such as international retailers, influence
+                                                                                                    a central role in providing independent oversight and
+      the raising of standards across global supply chains
+                                                                                                    ensuring accountability.
+      through implementation of their Codes of Conduct
+      and supplier standards. They have the opportunity
+
+22 For further guidance and resources, see for example Better Buying at https://betterbuying.org/ and the Joint Ethical Trading Initiatives’ Guide to Buying Responsibly: https://www.
+   ethicaltrade.org/sites/default/files/shared_resources/guide_to_buying_responsibly.pdf
+
+
+
+                                                                                                                                                                                         15
+     Annex 1 – Methodology
+     Impactt conducted an evaluation of the implementation                                     •      Field research including:
+     of TU’s Ethical Recruitment Policy, covering a two-year                                          • Site visits to the five participating sites in the
+     period from its inception in 2016, at five sites. This report                                         Policy. This included:
+     is based on a summary of finding from this evaluation.
+                                                                                                           –– Management interviews
+     The evaluation used a mixed method approach,                                                          –– Document review
+     which included:
+                                                                                                           –– Worker interviews
+     •     Document review                                                                                      (as shown in Table 3 below)
+     •     Stakeholder interviews with individuals leading the                                        • Community interviews:
+           development and implementation of the process from:                                             –– Migrant communities surrounding TU’s
+           • TU                                                                                                 factories in Thailand
+           • MWRN, a community-based organisation that                                                     –– A village 24 in Myanmar, home to many TU
+               worked with TU to implement the Policy                                                           workers
+           • Andy Hall, independent migrant worker rights                                             • Observation of a round of recruitment in
+               specialist and former MWRN advisor and                                                      Myanmar
+               current Impactt associate 23                                                    •      Data validation workshop with TU, MWRN and the
+           • Recruitment agency                                                                       recruitment agency
+           • A sub-agent                                                                       •      Follow-on interviews with TU, MWRN and the
+           • 4 global customers of TU                                                                 recruitment agent
+
+         Table 3 – Workers interviewed by gender and agency
+                             Pre-ethical Migrant                            Post-ethical Migrant Recruitment Policy by agency
+                             Recruitment Policy
+         Gender                                                                  Main recruitment                        Terminated recruitment                              Total
+                             recruited workers
+                             (control group)                                          agency                                    agency
+         Female              16                                            157                                          11                                                     184
+         Male                10                                            67                                           4                                                       81
+         %Female             43%                                           70%                                          73%                                                   70%
+         Total               37                                            224                                          15                                                    265
+
+
+
+
+     23 Andy Hall in his role at the MWRN was instrumental in advising TU’s Ethical Migrant Recruitment Policy and now provides valuable insights as an Impactt associate.
+     24 Kin Porn Chin Village, Nga Thaing Chaung Township
+
+
+
+16
+Annex 2 – The detailed recruitment process
+Table 4 – The detailed recruitment process
+
+                                                                                                If workers pay a
+                                     Key actions                                  Timeline                                 Official cost to
+  Steps                                                                                         cost, to whom and
+                                     and roles                                    (# days)                                 workers
+                                                                                                for what?
+  Demand letter                      The Thai Department of                       7             n/a                        n/a
+  approved by Thai                   Employment (DOE) approves
+  government                         TU’s demand letter (requesting
+                                     migrant worker recruitment).
+  Demand letter                      TU submits the approved                      7             n/a                        n/a
+  processed by                       demand letter to the agency, who
+  Myanmar embassy                    then submits it to the Myanmar
+                                     embassy in Thailand for approval
+                                     by the Labour Attaché.
+  Agency gets demand                 Agency gets the demand letter                21            n/a                        n/a
+  letter approved with               approved with permission from
+  permission from                    cabinet of Myanmar.
+  cabinet
+  Advertisement of role              Agencies and TU-approved                     7-14 days     n/a                        n/a
+                                     sub-agencies advertise the role              (Depending
+                                     in Burmese communities through               on number
+                                     Facebook, newsletters, posters,              of workers)
+                                     family and friends’ networks (sub-
+                                     agency networks in villages).
+  Pre-interview                      • Agency receives and reviews                1             Workers directly           Ranging from 14.5
+                                       applications                                             arrange transportation     USD (20,000
+                                     • Agency carries out                                       costs from villages to     Kyat) to 36.1 USD
+                                                                                                Yangon, where the          (50,000 Kyat) round
+                                     • ‘pre-interviews’ with workers
+                                                                                                agencies are located. 25   trip depending on
+                                     • Sub-agent or agent                                                                  location of villages.
+                                       communicates job specs, terms
+                                       & conditions, age requirement,
+                                       recruitment cost for workers
+                                       and TU working condition
+                                       requirements
+                                     • Sub-agent or agent checks
+                                       personal documents such
+                                       as house registration and ID
+                                       cards.
+  Interview                          TU and MWRN carry out                        1             Workers pay agency         2.2 USD (3000 Kyat)
+                                     worker interviews with workers                             for hostel and food.       per day (Typically 2
+                                     who pass the pre-interview.                                                           days)
+  Health check                       Agency arranges to conduct                   1             Workers pay hospital       14.5 USD (500 Baht)
+                                     required health check with                                 charge directly to the
+                                                                                                                           3.6 USD (5000 Kyat)
+                                     workers who pass the interview.                            doctor in Kyat (but
+                                                                                                fixed at 500 Baht or
+                                                                                                14.5 USD).
+                                                                                                Workers pay fixed
+                                                                                                transport costs to the
+                                                                                                hospital officer.
+
+
+
+25 One stakeholder reported that this may at times be facilitated by sub-agents
+
+
+
+                                                                                                                                                   17
+                                                                                                           If workers pay a
+                                        Key actions                                     Timeline                                            Official cost to
+       Steps                                                                                               cost, to whom and
+                                        and roles                                       (# days)                                            workers
+                                                                                                           for what?
+       Passport processing &            Agency arranges for Burmese                     14                 Government for                   35.2 USD (48,500
+       Myawaddy costs                   government processing of                                           passport processing              Kyat) paid at
+                                        passports with workers who pass                                    (through agency)                 interview stage
+                                        the health check and collect fees
+                                                                                                           Transportation                   (Includes:
+                                        from workers (as listed to the
+                                        right), before the workers return                                                                   • 18.1 USD (25,000
+                                        home.                                                                                                 Kyat) passport fee
+                                                                                                                                            • 9.8 USD
+                                                                                                                                              (13,500 Kyat)
+                                                                                                                                              Myawaddy side
+                                                                                                                                              accommodation/
+                                                                                                                                              documentation
+                                                                                                                                              processing
+                                                                                                                                            • 7.3 USD (10,000
+                                                                                                                                              Kyat) bus
+                                                                                                                                              transportation
+                                                                                                                                              Yangon to
+                                                                                                                                              Myawaddy).
+       Signing ceremony                 TU and Agency arrange signing                   1                  Workers arrange                  Ranging from 14.5
+                                        ceremony for workers in Yangon                                     transportation directly          USD (20,000
+                                        to explain the contract and                                        (and cover the cost)             Kyat) to 36.1 USD
+                                        appropriate workplace behaviour,                                   from villages to                 (50,000 Kyat) round
+                                        and to sign the contract, as                                       Yangon. 27                       trip depending on
+                                        required by Myanmar. 26                                                                             location of villages.
+       Pre-departure training           TU and MWRN facilitate 2 days                   2                  n/a                              n/a
+                                        of pre-departure training in
+                                        agency dormitory in Burmese &
+                                        in Thai with Burmese translation.
+                                        Content includes Thai culture,
+                                        health and safety, grievance
+                                        channels, company rules,
+                                        compensation and benefits, TU’s
+                                        Business Ethics and Labour Code
+                                        of Conduct and social security.
+       Labour Attaché                   The agency makes arrangements                   1                  Agency pays                      Unknown
+       approves name list               with a Labour Attaché at the
+                                        Myanmar embassy in Thailand,
+                                        who approves the worker name
+                                        list.
+       Work permit                      TU arranges work permit                         14                 TU pays the Thai                 55.5 USD (1,910
+       processing                       processing with Thailand’s                                         government for                   Baht)
+                                        Department of Employment                                           the work permit in
+                                        (DOE).                                                             advance.
+                                                                                                           Workers pay this
+                                                                                                           amount back to TU
+                                                                                                           on arrival in Thailand.
+
+
+
+
+     26 The Myanmar government requires a contract signing ceremony, presided by Myanmar government officer and attended by employer, agents, Department of Employment of
+        Myanmar. One stakeholder reported that an unofficial fee has to be paid per head to the official who participates in this ceremony.
+     27 One stakeholder reported that this may at times be facilitated by sub-agents.
+
+
+
+18
+                                                                        If workers pay a
+                          Key actions                        Timeline                          Official cost to
+Steps                                                                   cost, to whom and
+                          and roles                          (# days)                          workers
+                                                                        for what?
+Government                Once the work permit is            10         n/a                    n/a
+processing to approve     approved, the document and
+name list                 name list is sent to the embassy
+                          in Myanmar and representative
+                          agency in Thailand. TU manages
+                          within Thailand and the agency
+                          within Myanmar.
+Arrange worker            Agency arranges the bus from       14         Workers pre-pay        7.3 USD (10,000
+transportation            Yangon to Myawaddy (prepaid by                the cost of the bus    Kyat)
+                          worker to agency).                            to the agency at the
+                                                                        interview stage as
+                                                                        noted above.
+Application for           TU arranges for the workers to                Workers arrange        Ranging from 7.3
+overseas Labour Card      get their Labour Card.                        transportation         USD (10,000 Kyat)
+and visit to the labour                                                 directly (and cover    to 18.1 USD (25,000
+office in Myawaddy                                                      the cost) from         Kyat) for one-way trip
+                                                                        villages to Yangon.    to Yangon depending
+                                                                        Agency arranges        on location of villages.
+                                                                        transportation from    (Agent already
+                                                                        Yangon to border.      collected money
+                                                                                               from workers during
+                                                                                               a previous step: 7.3
+                                                                                               USD (10,000 Kyat)
+                                                                                               for travel and 9.8
+                                                                                               USD (13,500 Kyat)
+                                                                                               for accommodation/
+                                                                                               processing).
+                                                             1 day
+Transportation to         The agency arranges a bus to       combined   n/a                    n/a
+Thailand: Crossing the    go from the Labour office in
+bridge to go to Thai      Myawaddy to the border.
+immigration
+Visa                      TU arranges for workers to                    Government (via TU)    14.5 USD (500 Baht)
+                          receive the visa (stamped in
+                          their passport) from the Thai
+                          government when they cross the
+                          border.
+Arrival on-boarding       TU arranges. Thai officers                    n/a                    n/a
+training and e-card       of the Tak Post-Arrival and
+processing at DOE         Reintegration Center for Migrant
+TAK                       Workers train workers, including
+                          brief labour law training and
+                          provide e-cards.
+Go to factory             TU transports workers by bus to    Up to      n/a                    n/a
+                          accommodation.                     1 day
+
+
+
+
+                                                                                                                          19
+     Annex 3 – Evaluation against international standards
+     As part of Impactt’s evaluation, Impactt reviewed how                                           •   Met 12 of the 23 indicators of global best practice in
+     TU’s Policy aligned with international standards on the                                             ethical recruitment
+     following common key elements identified in the global                                          • Partly met 9 of the 23 indicators
+     frameworks of the Dhaka Principles28 and the IRIS
+                                                                                                     • Did not meet 2 of the 23 indicators.
+     standard of the IOM. 29 Overall, under the Policy, TU:
+                                                                                                     The table below sets this out in more detail.
+     Table 5 – Alignment to global standards on ethical recruitment
+
+                                                                             Part of
+       International
+                                             Key indicators                  worker                       Met?     Comments
+       Standards
+                                                                             journey
+       1. Zero recruitment                  Workers do not                  Pre-departure                Partly   Although the debt burden is greatly reduced,
+          fees                               have significant                                                      workers have some debts.
+                                             debt burdens.
+                                                                                                                   52/206 (25%) workers who responded to this
+                                                                                                                   question reported borrowing money to come to
+                                                                                                                   Thailand. The borrowed amounts ranged from
+                                                                                                                   120,000 ($78) to 800,000 Kyat ($502), with
+                                                                                                                   interest rates ranging from 3%-20%.
+                                                                                                                   The median amount of debt (excluding interest)
+                                                                                                                   is approximately one month’s salary. Workers
+                                                                                                                   report that it typically took three months to pay
+                                                                                                                   these back, with a range of 1 – 10 months.
+                                             Workers report                  Pre-departure                No       90/208 (43%) workers reported paying more
+                                             no service fees to                                                    than the costs outlined in the Policy. Of these,
+                                             agents, sub-agents                                                    9 workers specifically reported that the
+                                             or brokers.                                                           overpayment was a service fee to an agent or
+                                                                                                                   broker.
+       2. Transparent Terms                 Workers are clear               Pre-departure                Yes      127/143 (89%) workers who responded to this
+          & Conditions of                    on any fees they                                                      question reported that they are clear on fees
+          Employment                         have paid and have                                                    they have paid and received receipts.
+                                             received receipts.
+                                             Contracts are                   Pre-departure                Partly   7/141 (5%) workers who responded to this
+                                             clear, transparent,                                                   question did not receive their contract. 4/134
+                                             and in language                                                       (3%) workers who received their contract
+                                             workers                                                               reported they were not clear on all the
+                                             understand.                                                           information in the contract. 19/134 (14%)
+                                                                                                                   workers reported that the contract was difficult
+                                                                                                                   to understand, although many of these workers
+                                                                                                                   highlighted that the agent explained it very well.
+                                             Terms and                       Pre-departure                Yes      133/143 (93%) workers who responded to this
+                                             conditions                                                            question were informed of their wages and
+                                             are clearly                                                           working hours during the interview process.
+                                             communicated to
+                                             workers prior to
+                                             contract signing.
+                                             Terms and                       Pre-departure                Yes      According to document review on sites and
+                                             conditions are                                                        worker interviews, actual wages and working
+                                             accurate and                                                          conditions match what was communicated to
+                                             non-deceptive.                                                        workers pre-departure.
+
+
+     28 “Dhaka Principles: for migration with dignity,” IHRB, https://www.ihrb.org/dhaka-principles/
+     29 “Iris Standard,” International Recruitment Integrity System, https://iris.iom.int/iris-standard
+
+
+
+20
+                                                Part of
+International
+                          Key indicators        worker          Met?     Comments
+Standards
+                                                journey
+3. Quality recruitment   Effective and         Document-       Yes      Document processing is effective and transparent,
+   services to workers    transparent           processing               however record-keeping needs improvement.
+                          management
+                          of document
+                          processing.
+                          Effective and         Interview       Partly   On average, workers rated the ease of
+                          transparent                                    understanding the interview process 2.6 out
+                          management of                                  of 5 (with 1 being difficult to understand and 5
+                          interview process.                             being easy). Workers reported some confusion
+                                                                         between interviews on recruitment fees and
+                                                                         interviews covering their skills and qualifications.
+                          Effective pre-        Pre-departure   Partly   Workers received pre-departure training and
+                          departure training.   training                 rated it as 2.8 out of 5 for sufficiency (with 1
+                                                                         being insufficient and 5 being sufficient). Workers
+                                                                         reported that this was partially due to the style
+                                                                         of training.
+                                                                         69/143 (48%) workers who answered this
+                                                                         question reported that they would like more
+                                                                         information about the nature of the role for
+                                                                         which they were hired. For example, workers
+                                                                         requested more information about the nature of
+                                                                         the work (day-to-day tasks) and the department
+                                                                         in which they will work.
+                          Safe and free         Transport       Yes      143/143 (100%) workers reported that they felt
+                          transport.                                     safe and received free transportation.
+                          Effective support     Repatriation    No       Thai Union's Ethical Migrant Recruitment Policy
+                          to workers on                                  does not cover repatriation. There was also
+                          repatriation.                                  confusion around the resignation process. For
+                                                                         further details on this see page 11 and footnote
+                                                                         18.
+4. Worker integration    Effective post-       On-boarding     Partly   Workers ranked it as 2.16 on average out of 5
+   and support            arrival on-boarding                            for sufficiency. Workers reported that this was
+                          & induction for                                partially due to the training not being sufficiently
+                          workers.                                       interactive, the challenge of delivering training to
+                                                                         many workers at once, and communication issues,
+                                                                         such as an interpreter with an accent that could
+                                                                         not be understood.
+                          Effective             On-boarding     Yes      No issues reported.
+                          management of
+                          worker probation
+                          period.
+
+
+
+
+                                                                                                                                21
+                                                  Part of
+     International
+                           Key indicators         worker       Met?     Comments
+     Standards
+                                                  journey
+     5. Decent working    Passports and          Employment   Yes      All workers report that they keep their passports
+        conditions         other worker                                 with them.
+                           documentation are
+                           with workers upon
+                           arrival.
+                           Accommodation          Employment   Partly   Accommodation is line with what workers were
+                           (including costs) is                         informed in recruitment.
+                           in line with what
+                                                                        Many workers stated that they felt the first
+                           workers were
+                                                                        month’s accommodation should be free.
+                           advised during
+                           recruitment.
+     6. Access to remedy   Workers can seek       Employment   Partly   Regarding recruitment fees, TU reported and
+                           assistance and                               provided some documentation to suggest that
+                           effective remedy                             workers received effective remedy through the
+                           through                                      grievance process established with MWRN.
+                           an effective
+                                                                        Overall, 16/143 (11%) workers reported that they
+                           grievance process.
+                                                                        do not know how to raise issues.
+                                                                        72/143 (50%) workers reported that they can
+                                                                        raise issues through their interpreters on site.
+                                                                        However, workers and MWRN reported that
+                                                                        the interpreters cannot resolve issues effectively
+                                                                        because they:
+                                                                        • Serve in multiple roles, including as supervisors,
+                                                                          and so do not have enough time to act in this
+                                                                          capacity
+                                                                        • Are not effectively trained to represent
+                                                                          workers
+                                                                        • Inaccurately interpret the issues, causing
+                                                                          workers to be distrustful of the interpreter.
+
+
+                           Employer               Employment   Partly   TU and MWRN implemented a monitoring
+                           and recruiter                                and remediation process, which effectively
+                           collaborate to                               remediated some cases of overpayment.
+                           deliver effective                            However, there were some difficulties in
+                           remedy to workers.                           implementing the remediation, including reported
+                                                                        delays in the process and over-complications in
+                                                                        the investigation procedure. There was also no
+                                                                        investigation or remediation for overpayment on
+                                                                        unauthorised costs that are not direct service
+                                                                        fees to agencies or sub-agencies.
+                           Workers have           Employment   Partly   Only about 5 of the 143 workers who responded
+                           access to external                           to this question reported some level of
+                           assistance,                                  awareness that the Issara hotline was available.
+                           which provides
+                                                                        43/143 (30%) workers were aware of support
+                           effective remedy
+                                                                        from MWRN (including those who received
+                           for any harm in
+                                                                        reimbursements from MWRN).
+                           recruitment phase.
+
+
+
+
+22
+                                                   Part of
+ International
+                           Key indicators          worker           Met?   Comments
+ Standards
+                                                   journey
+ 7. Ethical and legal     Contract between        Business         Yes    The contract and service fees paid are made
+    business conduct       recruiter and           operations              transparent in contracts with both agencies. The
+                           employer is clear,                              long-standing agency reported that it expected
+                           transparent, and                                an incremental increase over time in its service
+                           fair to both parties.                           fees, but has not seen an increase. Contracts also
+                                                                           stipulate ethical criteria that agencies must meet,
+                                                                           including training agency and sub-agency staff,
+                                                                           keeping worker data confidential, and facilitating
+                                                                           worker repatriation. Agencies must also commit
+                                                                           to using an exchange rate that represents the
+                                                                           average of closing and selling rates published by
+                                                                           the Thai government the day before payment,
+                                                                           and complies with Thai Union’s Code of Conduct
+                                                                           and Ethical Migrant Recruitment Policy. Note:
+                                                                           stakeholders reported some cases of recruitment
+                                                                           occurring before agreements were formalised.
+                           Business operates       Business         Yes    Based on the evidence gathered by Impactt,
+                           in accordance with      operations              TU operates in accordance with relevant
+                           relevant national                               national laws.
+                           laws.
+                           Worker data             Business         Yes    All actors confirmed that their data is
+                           is managed              operations              managed confidentially.
+                           confidentially
+                           during the
+                           recruitment
+                           process.
+ 8. Worker satisfaction   Workers report          Worker           Yes    Overall, workers reported that they were
+    with recruitment       satisfaction with       satisfaction /          pleased to pay less than they would with other
+    process                each part of            rating                  agents, and feel safe in the process.
+                           the recruitment
+                                                                           There is a clear difference between workers’
+                           process.
+                                                                           experiences before and after the Policy
+                                                                           was introduced.
+                           No perceived            Worker           Yes    No workers reported discrimination during
+                           discrimination in       satisfaction /          recruitment.
+                           the job interview/      rating
+                                                                           However, 31% of workers reported that once
+                           recruitment
+                                                                           employed, they are treated differently from
+                           process.
+                                                                           their colleagues. Workers reported that, as they
+                                                                           cannot speak the language, they find it is difficult
+                                                                           to communicate with their supervisors or other
+                                                                           colleagues, and they are sometimes asked to do
+                                                                           more work than their peers. They also feel they
+                                                                           have fewer opportunities for promotion.
+
+
+
+
+Note: Some responsible recruitment standards, such as the Dhaka Principles, cover conditions related to ongoing
+employment which go beyond the scope of this evaluation.
+
+
+
+
+                                                                                                                                  23
+24
+

@@ -1,0 +1,147 @@
+## Editor's Pick
+
+##### [How can Bangladesh build a thriving creative economy?](/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621)
+
+6 November 2026 • Wisdom
+
+##### [Opinion  / US midterm results: What it means for Bangladesh’s trade and economic challenges](/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206)
+
+5 November 2026 • Business
+
+##### [Could Trump's electoral defeat make the world less secure?](/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666)
+
+5 November 2026 • Geopolitical Insights
+
+##### [Padma Barrage: Why Bangladesh needs it and the challenges ahead](/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946)
+
+5 November 2026 • Big Picture
+
+##### [A 93rd birthday tribute / How Amartya Sen changed the way we understand development](/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976)
+
+4 November 2026 • Big Picture
+
+# Plagued with irregularities
+
+Migrant workers suffer due to lack of monitoring of health check-up centres
+
+Published : 1 April 2023
+
+•
+
+Updated : 2 April 2023, 01:18
+
+• [BANGLADESH](/news/bangladesh)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgICAgICAgICA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz4KICAgICAgICAgICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNsaXBwYXRoIGlkPSJjbGlwMF8zNDE5XzM5Ij48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIiAvPjwvY2xpcHBhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICAgICAgPC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://x.com/intent/tweet?text=Plagued%20with%20irregularities&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fplagued-irregularities-3286386) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fplagued-irregularities-3286386) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fplagued-irregularities-3286386&title=Plagued%20with%20irregularities)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)
+
+![Moudud Ahmmed Sujan](/sites/default/files/styles/thumbnail/public/images/author/4.jpg)
+
+Moudud Ahmmed Sujan
+
+[Moudud Ahmmed Sujan](/author/moudud)
+
+Nesar Mia, an aspirant migrant who was supposed to go to Qatar for work, was faced with a nightmare when he tested positive for tuberculosis at the Stemz Health Care BD Pvt Ltd in Dhaka around June last year.
+
+However, he was sceptical of the test results and again submitted his samples to Bangabandhu Sheikh Mujib Medical University, where he tested negative for TB.
+
+[Tap here to add The Daily Star as a trusted source ![google-preferred-source-badge](/themes/custom/swallow/images/google_preferred_source_badge_dark.webp)](https://www.google.com/preferences/source?q=thedailystar.net)
+
+Stemz is one of 133 health check-up centres in the country that are authorised by the Gulf Health Council, where he paid Tk 8,500 for his medical examination before going to Qatar. When he contacted Stemz regarding the results, officials proposed that he could be shown as TB negative if he paid them Tk 1 lakh.
+
+As Nesar did not agree to the proposal and filed a complaint at Directorate General of Health Services (DGHS), the centre uploaded a report that showed him TB positive to the official database of the GHC.
+
+As a result, he could not go to Qatar to join his job.
+
+> ![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZmxleC1ub25lIiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdib3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEzNzZfMTcxMzgpIj48cmVjdCB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHJ4PSIyMCIgZmlsbD0id2hpdGUiIC8+PHBhdGggZD0iTTE0LjI4NDQgMjVIMTcuMTQxNkwxOS4wNDYzIDIxVjE1SDEzLjMzMlYyMUgxNi4xODkyTDE0LjI4NDQgMjVaTTIxLjkwMzUgMjVIMjQuNzYwNkwyNi42NjU0IDIxVjE1SDIwLjk1MTFWMjFIMjMuODA4MkwyMS45MDM1IDI1WiIgZmlsbD0iIzA0MEQzMyIgLz48L2c+PGRlZnM+PGNsaXBwYXRoIGlkPSJjbGlwMF8xMzc2XzE3MTM4Ij48cmVjdCB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHJ4PSIyMCIgZmlsbD0id2hpdGUiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)
+>
+> ## There is no uniformity of the medical centres that serve the migration workers. As a result, some are taking the opportunity. The government should come forward to ensure accountability here.
+>
+> Shariful Hasan Head of migration, Brac
+
+"That was a nightmare for our family. Talking about it is no good. My husband is in Dubai (United Arab Emirates) now," the wife of Nesar Mia said over the phone.
+
+A lack of coordination and proactiveness of the regulatory bodies to oversee more than a hundred health check-up centres in the country has been causing suffering to numerous aspirant migrants willing to migrate to the gulf countries.
+
+Many migration-seekers were victims of anomalies by some of the service providers. They have been blackmailed and charged additional money in the name of different charges, found an investigation by DGHS.
+
+"Migration-seekers have been victims to such anomalies and the majority of them don't complain to avoid the hassle," said Shariful Hasan, head of migration at Brac.
+
+The DGHS received a similar allegation against Mohaimeed Medical Center in Gulshan around November last year. This centre is also enlisted by the Gulf Health Council.
+
+In both cases, DGHS completed its duty just by issuing suspension orders and show-cause notices. The suspension orders, however, were withdrawn a few days later.
+
+"If we receive any allegation, we can do only what is in our jurisdiction," said Dr Sheikh Daud Adnan, DGHS director (Hospitals and Clinics).
+
+A source at the Ministry of Expatriate Welfare and Overseas Employment confirmed that the ministry has received at least nine such allegations in the last year.
+
+Moinul Hasan, a deputy secretary at the monitoring and enforcement wing at the ministry of expatriate welfare and overseas employment, said, "They received no such allegations in the past six months."
+
+He, however, agreed that the ministry has no official channel dedicated to receiving such complaints. "Probably, this is why many don't come to us. But they can complain to us."
+
+During a recent visit to a health check-up centre in Dhaka's CR Dutta Road, this newspaper also found merit to such allegations.
+
+An Oman-bound expatriate worker Sajib Mia, for example, had to pay Tk 6,000 in addition to the fixed payment of Tk 8,500 meant for the check-up service at the Amir Jahan Medical Center in mid-February.
+
+"They said the additional money was meant for the embassy fee. But I'm not sure about it. To avoid the hassle, I paid them the extra amount," Sajib said.
+
+Like a dozen others, he said he had to pay Tk 1,500 to his recruiting agency to be registered with the GHC database for the health check-up.
+
+#### [![Google News Link](/themes/custom/swallow/images/google_news.svg)For all latest news, follow The Daily Star's Google News channel.](https://news.google.com/publications/CAAiECW73usLivqPCSeQRsSUvRQqFAgKIhAlu97rC4r6jwknkEbElL0U)
+
+Wafid (www.wafid.com) is a programme under the umbrella of the Gulf Health Council that enables individuals bound to work or reside in the GCC to book their medical check-up appointments and ensure that they are fit.
+
+To enter any of the Gulf countries -- Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and UAE -- any Bangladeshi willing to get a work or residency visa, needs a health clearance from any of the GHC-listed 133 medical centres in the country.
+
+To get a GHC registration, the medical centres are required to be licensed with the DGHS and ensure compliance set by the GHC. The health centres need to pay Tk 5 lakh and, once they get registered, GHC charges Tk 3 lakh annually.
+
+In return, a team of the GHC comes to Bangladesh to inspect those medical centres once a year.
+
+Officials of both DGHS and the expatriate ministry, on the other hand, said they have no active surveillance mechanism to oversee if anybody becomes a victim at these medical centres.
+
+Ahmed Munirus Salehin, Senior Secretary of the expatriate ministry, said, "We can take action if anyone informs us officially."
+
+About bringing all the health check-up centres under the ministry's supervision, he said, "We have no contact with the GHC. But we will work on it."
+
+"There is no uniformity of the medical centres that serve the migration workers. As a result, some are taking the opportunity. The government should come forward to ensure accountability here," said Brac Head of Migration Shariful Hasan.
+
+Recently, the ministry of expatriates has published a guideline to establish health check-up centres for migrant workers in the country on its website.
+
+The GHC-authorised health centres are yet to be brought under the guideline, according to the officials.
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz48ZGVmcz48Y2xpcHBhdGggaWQ9ImNsaXAwXzM0MTlfMzkiPjxyZWN0IHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0id2hpdGUiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://x.com/intent/tweet?text=Plagued%20with%20irregularities&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fplagued-irregularities-3286386) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fplagued-irregularities-3286386) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Fnews%2Fbangladesh%2Fnews%2Fplagued-irregularities-3286386&title=Plagued%20with%20irregularities)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)
+
+[Click to comment](javascript:void(0))
+
+#### Comments
+
+[Comments Policy](/comment-policy)
+
+## Related News
+
+##### [Amid protests, France's rising debt costs threaten stability](/news/world/news/amid-protests-frances-rising-debt-costs-threaten-stability-4318151)
+
+2 SEC(s) • World
+
+##### [Can't cook or shower: Indonesians take aim at data centres](/news/world/news/cant-cook-or-shower-indonesians-take-aim-data-centres-4318146)
+
+1 SEC(s) • World
+
+##### [After midterm rout, Vance tries to build his own 2028 brand](/news/world/united-states/news/after-midterm-rout-vance-tries-build-his-own-2028-brand-4318141)
+
+1 SEC(s) • United States
+
+##### [Impeached Paraguay leader charged over shock implosion of bank](/news/world/news/impeached-paraguay-leader-charged-over-shock-implosion-bank-4318136)
+
+1 SEC(s) • World
+
+##### [Houthis say 33 killed in Saudi strikes on Yemen's Sanaa province](/news/world/news/houthis-say-33-killed-saudi-strikes-yemens-sanaa-province-4318131)
+
+2 SEC(s) • World

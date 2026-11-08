@@ -1,0 +1,12 @@
+<!-- Firecrawl scrape of https://iriscertification.org/iris-certification/iris-certification-labour-recruiters/ on 2026-11-08; page modified 2026-08-26 -->
+## Labour Recruiters participating in the IRIS Certification Program
+
+We are pleased to share a list of labour recruiters that have applied for IRIS Certification. As labour recruiters move through the IRIS certification process, each will be listed below, updated as the labour recruiter achieves certification milestones.
+
+| Name of Labour Recruiter | Labour Recruiter Number (LRN) | Country | Address | Scope of Labour Specialties | Country of Labour Recruiter Origin | Countries of Labour Recruiter Destination | Labour Recruiter License Number/s | Status | Date Application Accepted | Initial Certification Date | Certification Expiry Date | Certificate Number | Most Recent Certification / Recertification Date | Name of Auditing Company | Date of Most Recent Update |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| We Are Caring Pte Ltd | LRN00012201 | Singapore | 02-06, 304 Orchard Road, Singapore | — | Singapore, Philippines, Indonesia | Singapore | 15C7788 | Certification Expired | 18 January 2022 | 16 December 2022 | 12 July 2024 | IA-IR-001 | 16 December 2022 | International Associates Limited | 10 June 2025 |
+| IPF Global | LRN00022301 | Poland | Piekary 7 Poznań, Poland 61-823 | — | Poland, Ukraine, Belarus | France, Poland, Netherlands | 7799 | Application Expired | 6 January 2023 |  |  |  |  |  | 10 June 2025 |
+| International Manpower Recruitment Pvt. | LRN00032310 | Nepal | Gwarko 07, Lalitpur, Bagmati Nepal 44700 | — | Nepal | Malaysia, Qatar, United Arab Emirates | 309/059/060 | Certified Performing | 24 October 2023 | 21 May 2025 | 21 May 2027 | 09-2314-1-IRIS | 27-February 2025 | International Associates Limited | 9 June 2025 |
+| Silver RayHR Company Limited | LRN00042312 | Kenya | Agip House Haile Sellasie Lane, P.O. Box 44248 Nairobi, Kenya | — | Kenya | Qatar, Iraq | NEA/FE & LE/S/005 | Withdrawn* | 21 December 2023 | 22 May 2025 | 22 May 2027 | 01-2004-1-IRIS | 13 January 2025 | International Associates Limited | 1 June 2026 |
+| CIERTO | LRN00052402 | Mexico | Av. Coyoacán 1622, Ciudad de México | — | Guatemala, Mexico | United States of America | STPS-ACT-CME09-00203 | Withdrawn* | 23 February 2024 | 10 July 2025 | 9 July 2027 | IRIS0001 | 18 September 2024 | ABS Quality Evaluations | 12 August 2026 |
