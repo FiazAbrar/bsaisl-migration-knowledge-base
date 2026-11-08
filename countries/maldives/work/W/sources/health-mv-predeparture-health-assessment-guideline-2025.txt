@@ -1,0 +1,1226 @@
+   Pre-Departure
+Health Assessment
+
+       Guideline
+   Pre-Departure
+Health Assessment
+
+       Guideline
+
+                    MOH-HPA/G/25/201-0
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+Contents
+Contents ................................................................................................................................................ 1
+Document History................................................................................................................................ 4
+1. Introduction........................................................................................................................................5
+2. Minimum Requirements for Health Facilities Conducting Pre-Departure Medical Examinations
+for Travelers to the Maldives ...............................................................................................................5
+
+   2.1 Registration and Operating License of Health Facilities...........................................................5
+   2.2 Accreditation...............................................................................................................................6
+   2.3 Medical Staff ...............................................................................................................................6
+   2.4 Standards Related to Quality of Services.................................................................................6
+
+      2.4.1 Accessibility, Facility Standards, and Operational Requirements with the Health
+      Facility Premises............................................................................................................................7
+      2.4.1 Mandatory Safety Measures for Health Service Facilities ................................................7
+      2.4.2 Patient Examination Room Requirements..........................................................................8
+      2.4.3 Medical Laboratory Requirements .....................................................................................8
+      2.4.4 X-Ray Requirements............................................................................................................8
+3. Medical Documentation and Record-Keeping ...............................................................................8
+4. Designating the facility for Pre-Departure Medical Examinations ...............................................9
+   4.3 Required Submissions for Application ......................................................................................9
+   4.4 Oversight and Compliance to Ministry of Health Maldives Requirements ............................9
+5. Pre-Departure Assessment Procedures....................................................................................... 10
+   5.1 Verification of Identification................................................................................................... 10
+   5.2 Application Registration ..................................................................................................... 10
+      5.3 Consent ........................................................................................................................... 10
+   5.4 Overview of Required Health Assessments for Work Permit Applications .................... 11
+      5.4.1 Standard examinations/ procedures: ............................................................................. 11
+      5.4.2 Vaccination.......................................................................................................................11
+   5.5 Referral ................................................................................................................................ 12
+
+Page 1 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+   5.6 Health Assessment Grading .............................................................................................. 12
+   5.7 Validity of the PDHA Results.............................................................................................. 12
+   5.8 Submission of the PDHA Results ...................................................................................... 12
+6. Medical Examinations .................................................................................................................... 12
+   6.1 Medical History and Physical Examination........................................................................... 13
+
+      6.1.1 Full Systemic Examination ............................................................................................. 13
+   6.2 Medical History, Symptoms, and Required Examination and Tests ............................... 13
+   6.3 Guidance on MR Vaccination............................................................................................. 16
+   6.4 Adverse Event Following Immunisation (AEFI) Management ......................................... 17
+   6.5 Chest X-Ray ........................................................................................................................ 18
+   6.6 Guidance and Safety Measures whilst taking an X-Ray ................................................. 18
+   6.7 Interpretation of Radiological Findings ............................................................................. 19
+   6.8 TB Screening Grading Scale............................................................................................. 20
+7. Medical Examinations .................................................................................................................... 20
+   7.1 HIV .......................................................................................................................................... 20
+
+      7.1.1 HIV Pre-Test Counselling .............................................................................................. 20
+      7.1.2 HIV Post-Test Counselling ............................................................................................ 20
+   7.2 Hepatitis B ........................................................................................................................... 21
+   7.3 Hepatitis C........................................................................................................................... 21
+   7.4 Syphilis ................................................................................................................................ 21
+   7.5 Lymphatic Filariasis ........................................................................................................... 22
+   7.6 Malaria ................................................................................................................................ 23
+   7.7 Leprosy ............................................................................................................................... 23
+8. Pre-Departure Health Assessment Outcome Grading ............................................................... 24
+9. Data Management and Privacy .................................................................................................... 24
+   9.2 Restricted Access to Applicant Data for Technical Purposes ....................................... 25
+10 Standard Operating Procedures........................................................................................... 25
+Annex 1 ............................................................................................................................................... 26
+
+Page 2 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+Annex 2: Consent Form..................................................................................................................... 32
+Annex 3: Counselling Form............................................................................................................... 35
+
+Page 3 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+Document History
+
+Date              Details                                      Version
+14th August
+2025              First guidance for Health Facilities on Pre-Departure
+                  Health Assessments issued by the Health Protection Version 1.0
+                  Agency
+
+                           Page 4 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+1. Introduction
+
+The primary objective of the Pre-Departure Health Assessment (PDHA) is to protect the health
+of migrants and prevent any potential public health risks during travel or upon entry into the
+Maldives. All individuals seeking to obtain a work permit from the Ministry of Homeland Security
+and Technology, or any other competent authority as designated by the Government of Maldives,
+are required to undergo a PDHA in their country of origin, provided that the PDHA mechanism is
+established and operational in the respective country
+
+This guideline lays out the requirements for health facilities conducting PDHA for migrants
+coming to work in Maldives must abide by, and the details of the PDHA that is required for
+migrants arriving from different areas.
+
+Migrants who clear PDHA and arrive in Maldives should undergo a further health assessment
+within 30 days of arrival.
+
+2. Minimum Requirements for Health Facilities Conducting Pre-Departure Medical
+    Examinations for Travelers to the Maldives
+
+Health facilities intending to offer Pre-Departure Health Assessments (PDHA) services for
+travellers to the Maldives must meet the following minimum requirements across several key
+areas, including facility registration, medical staff qualifications, and the quality of services
+provided.
+
+2.1 Registration and Operating License of Health Facilities
+Health facilities must comply with the following conditions:
+
+    a. Operating License: A valid operating license issued by the relevant government health
+         authority of the country must be provided. An attested/verified/notarized copy of the
+         facility registration and/or operating license should be submitted.
+
+    b. Practicing License: A practicing license from the relevant councils/ authorities must be
+         submitted for all health professionals conducting migrant medical assessments.
+
+    c. Facility Services: The following services should be available within the facility:
+              � Consultation room
+              � Vaccination room
+              � Laboratory
+              � X-ray
+              � Treatment room
+
+                                                                         Page 5 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+              � Waste management area
+              � Facility for sterilization
+              � Other support areas
+
+2.2 Accreditation
+National or International Accreditation: Facilities with valid national or international
+accreditation will be prioritized for PDHA designation.
+
+2.3 Medical Staff
+Medical examinations for PDHA services must be conducted by health professionals who are
+registered with the relevant registration/licensing bodies of the country. The activities they
+perform must also fall within the scope of practice as defined by their respective
+registration/licensing authorities.
+
+    a. Licensing Requirement: All health professionals must hold a valid practicing license
+         issued by the relevant council or, in the absence of such councils, from the government
+         health authority of the country.
+
+    b. Licensed Health Professionals: The following licensed professionals are required:
+
+              a. Internal medicine specialist / Emergency physician / Specialist general
+                   practitioner / Critical care medicine specialist
+
+              b. Medical officer
+
+              c. Nurse
+
+              d. Laboratory technologist
+
+              e. X-ray Technician: X-rays should be read by an internal medicine specialist,
+                   radiologist, respiratory medicine specialist, or pulmonologist.
+
+              f. Vaccination: Vaccinators must be trained in vaccine handling and administration,
+                   in addition to being licensed
+
+    c. Counter-Signature: If a medical officer conducts the medical assessment, the form must
+         be counter-signed by an internal medicine specialist, emergency physician, specialist
+         general practitioner, or critical care medicine specialist.
+
+2.4 Standards Related to Quality of Services
+Health facilities must adhere to the following standards to ensure high-quality services:
+
+Page 6 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+2.4.1 Accessibility, Facility Standards, and Operational Requirements with the Health Facility
+Premises
+
+    a. Accessibility: The health service provider must ensure that the facility remains easily
+         accessible to all persons, including those with special needs, ensuring no hindrance to
+         accessibility.
+
+    b. Public Visibility: Registration, operating licenses, site plans, and floor plans should be
+         visible, allowing easy identification of service areas.
+
+    c. Lighting and Ventilation: Adequate lighting and ventilation must be ensured within the
+         premises.
+
+    d. Toilets: Sufficient toilets, accessible to the sick, elderly, and people with special needs,
+         must be provided.
+
+    e. Seating Arrangements: Adequate seating for patients should be available for their
+         comfort.
+
+    f. Communication System: A robust public communication system must be in place.
+
+    g. Waste Disposal: The facility must adhere to the waste disposal regulations set by the
+         relevant health authority.
+
+    h. Infection Control: Infection prevention and control measures, as mandated by the
+         government authority, must be followed.
+
+    i. Facility Cleanliness: The premises, including the building and adjoining grounds, must
+         remain clean at all times.
+
+2.4.1 Mandatory Safety Measures for Health Service Facilities
+    a. Protection Against Accidents: A comprehensive system to protect against accidents
+         related to facilities, equipment, and the environment must be implemented.
+
+    b. Security System: A comprehensive security system must safeguard employees, patients,
+         visitors, and the facility.
+
+    c. Fire Protection: A fire protection system must be in place to ensure safety.
+
+    d. Infection Control Policy: Infection prevention and control policies must be rigorously
+         enforced to prevent the spread of infections.
+
+    e. Prevention of Communicable Diseases: A system must be in place to prevent
+         communicable diseases
+
+Page 7 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+2.4.2 Patient Examination Room Requirements
+    a. Hand Washing System: A hand washing or disinfection system must be available.
+
+    b. Privacy: Measures should be in place to ensure privacy for patient-doctor conversations
+         preventing external audibility
+
+    c. Consultation Facilities: Adequate consultation facilities must be provided.
+
+    d. Examination Couch: An examination couch must be available for patient use
+
+2.4.3 Medical Laboratory Requirements
+    a. Safety of Laboratory Environment: The environment of the laboratory shall ensure the
+         safety and protection of the laboratory, its personnel, and individuals seeking services
+         therein.
+
+    b. Reagent Management: A systematic framework shall be established for the secure
+         maintenance and management of reagents and comparable materials
+
+    c. Sample Management: An efficacious system, ensuring the proper labelling, preservation,
+         testing, and disposal of all collected samples, whether for investigative or other purposes,
+         in accordance with the standards set forth by the government authority.
+
+    d. Report Conveyance: A reliable mechanism for the timely conveyance of reports to
+         patients must be in place.
+
+2.4.4 X-Ray Requirements
+
+      a. X-Ray Facilities: The health facility must have the necessary equipment to perform X-
+           rays.
+
+      b. X-ray Room Safety: The X-Ray room shall maintain an environment that guarantees the
+           safety and protection of staff and individuals seeking services therein
+
+      c. Film and Reagent Management: A framework for the maintenance and management of
+           films and reagents must be established and implemented.
+
+      d. X-ray Image Management: A system shall be established for the efficient labelling,
+           preservation, and maintenance of all X-Ray images taken for further investigational
+           purposes or other
+
+      e. Report Conveyance: A reliable mechanism must be in place for the expedient
+           conveyance of X-ray reports.
+
+3. Medical Documentation and Record-Keeping
+
+    a. The Health Facility must have standardised medical documents complete with the
+         facility's official seal, examining doctor's name in full, contact details and signature.
+
+Page 8 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+    b. Medical document(s) must be in English or accompanied by a notarised English
+         translation.
+
+    c. All records must be stored digitally or on paper for at least one year for verification
+         purposes.
+
+4. Designating the facility for Pre-Departure Medical Examinations
+
+    4.1 The Health Facility may be designated as a facility to provide PDHA by the Ministry of
+            Health Maldives. The application for requesting to be designated shall be submitted by
+            the operator of the facility.
+
+    4.2 In addition to registration with the Ministry of Health, any facility seeking to be
+            designated as facility to provide PDHA may also be required to register with other
+            relevant government authorities that regulate specific categories of migrant workers. In
+            such cases, the facility must comply with the applicable standards and requirements
+            prescribed by those authorities.
+
+4.3 Required Submissions for Application
+    4.3.1 Refer to application form in this document (see Annex 1)
+
+4.4 Oversight and Compliance to Ministry of Health Maldives Requirements
+       4.4.1 Prior to the designating of a Health Facility, the Ministry of Health Maldives, may if
+                needed conduct an inspection of the facility to ascertain its quality and safety
+
+      4.4.2 The Ministry Health of Maldives holds the authority to annul the approval granted to a
+                Health Facility upon evidence of any offense related to the services rendered by the
+                health service provider.
+
+      4.4.3 Negligence or inadequate measures leading to the proliferation of infectious or
+                hazardous diseases shall empower the Ministry to cancel the designation of Health
+                Facility
+
+      4.4.4 The Ministry of Health Maldives shall retain the authority to forthwith annul designation
+                of a Health Facility in the event substantiated evidence is presented confirming the
+                provision of invalid information by the said Health Facility
+
+      4.4.5 There will be a fee of USD 2,000.00 be levied upon application for the designation of
+                pre-departure medical examination. The application fee includes the annual fee for
+                the year of application.
+
+Page 9 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+4.4.6 Each establishment granted to provide pre-departure medical examination service is
+          mandated to remit an annual fee to of USD 1,000.00 to the Ministry of Health
+          Maldives.
+
+4.4.7 All payments for the purposes identified in clauses 4.4.5 and 4.4.6 of this document
+          shall made in accordance with methods published by the Ministry of Health.
+
+5. Pre-Departure Assessment Procedures
+
+5.1 Verification of Identification
+
+       5.1.1 A valid passport shall be used to verify identification during the PDHA process by
+                 the Health Facility to verify the photograph on passport is consistent with the
+                 appearance of the applicant. Identification shall be verified at each stage of the
+                 PDHA process.
+
+5.1.2 Health facilities shall ensure that their staff are adequately trained in verifying
+        photographs against the passport or official identification documents
+
+5.2 Application Registration
+
+5.2.1  As a part of PDHA process, the PDHA facility shall capture a facial digital image and
+       biometric information (fingerprints) of the applicant at the time of registration and
+       upload them into the respective database.
+
+5.2.2 The standards and technical requirements for capturing, storing and sharing facial
+         images and biometric information (including fingerprints) shall be determined by the
+         relevant authorities responsible for the specific category of migrant workers.
+
+5.3 Consent
+       a. All applicants must be counselled about the purpose of the pre-departure health
+            assessment and subsequent procedures therein.
+
+b. Informed, written consent (through the Consent Form, see Annex 2) must be obtained
+    prior to commencement of any procedures relating to the PDHA mentioned in this
+    guidance. Consent forms must be signed by the applicant. Written consent must be
+    obtained after adequate counselling.
+
+c. Medical examination component of the PDHA must commence once consent as
+    mentioned in 5.5.7 (b) is obtained.
+
+                              Page 10 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+d. Counselling and consent forms must be available in a language that the applicant is fluent
+    and/ or literate in.
+
+e. Consent forms and counselling forms (see Annex 3 for Counselling Form) shall be used
+    in conjunction to ensure informed decision-making. A consent form shall only be signed
+    by the applicant after the completion of the counselling form, which must include the
+    counsellor's details, the nature of the counselling provided, and any relevant
+    disclosures.
+
+f. The applicant may refuse consent or withdraw consent at any point during the pre-
+    departure health assessment. Refusal or withdrawal of consent from the pre-departure
+    health assessment will result in the termination of the application.
+
+g. MR Vaccination Consent
+
+5.4 Overview of Required Health Assessments for Work Permit Applications
+
+The following health assessment process should take places for all the applicants who intend
+to work in Maldives and apply for a work permit from the Ministry of Homeland Security and
+Technology or the designated Ministry.
+
+5.4.1 Standard examinations/ procedures:
+        a. Medical history
+
+b. Physical examination
+
+c. Chest X-ray
+
+d. Laboratory examinations:
+
+    i. HIV Screening Test
+
+    ii. Hepatitis B Surface Antigen
+
+    iii. Hepatitis C Screening
+
+    iv. VDRL / RPR
+
+    v. Antigen test for Lymphatic Filariasis*
+
+    vi. Antigen test for Malaria*
+
+5.4.2 Vaccination
+
+a.  MR vaccination
+
+                                   Page 11 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives         MOH-HPA/G/25/201-0
+
+*Applicable for applicants originating from countries/ areas endemic for Lymphatic Filariasis and Malaria
+(please see list of countries at hpa.gov.mv)
+
+All laboratory tests used must be conducted using WHO pre-qualified test kits. Similarly, MR Vaccination as
+prescribed in this guidance must be WHO pre-qualified.
+
+5.5 Referral
+
+If examination findings are abnormal or inconclusive, the PDHA facility will refer the applicant to
+advanced health care services or to the concerned national program as applicable for the
+country.
+
+5.6 Health Assessment Grading
+The PDHA facility will grade the final results of the PDHA as below.
+
+5.6.1  Grade A indicates there is no significant abnormality identified during the PDHA-
+5.6.2  Applicant has cleared medical assessment and is eligible for employment in
+       Maldives
+
+       Grade B indicates there is a significant abnormal finding- Applicant has not cleared
+       medical assessment and is ineligible for employment in Maldives
+
+5.7 Validity of the PDHA Results
+
+The PDHA results shall be valid for 3 months from the date of physical examination. All applicants
+must be insured from the date of arrival in the Maldives.
+
+5.8 Submission of the PDHA Results
+
+5.8.1  The Health Facility must submit the biometric information and the medical results to
+       the database within 2 days from the completion of PDHA. Applicants who received
+       Grade A are eligible to work in Maldives and shown as such in the system.
+
+5.8.2  In the event that extenuating circumstances beyond the reasonable control of the
+       health facility preclude compliance with the reporting obligations set forth in Clause
+       5.7.1, the health facility shall promptly notify the Ministry of Health in writing and may
+       request an extension of the applicable deadline. This provision shall not apply to
+       delays or failures resulting from internal administrative, operational, or other issues
+       within the health facility.
+
+5.8.3 Any delay in the submission of the information referred to in this section shall be
+           communicated to the Ministry of Health without delay.
+
+6. Medical Examinations
+
+                                    Page 12 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives            MOH-HPA/G/25/201-0
+
+6.1 Medical History and Physical Examination
+
+The doctor at the Health Facility must review and confirm medical history and symptoms of the
+applicants. Applicants must undergo physical examinations by Health Facility physician. If any
+abnormality is detected in history or examination, proceed according to the following table.
+
+6.1.1 Full Systemic Examination
+
+Table 6.1 Full Systemic Examination
+
+Clinical Examination                 Normal                    Abnormal  Abnormalities
+
+Cardiovascular System
+Respiratory System
+Digestive Organs
+Skeleton, Bones & Joints
+Mental Condition
+Nervous System
+Genitourinary System
+Skin, Scar etc
+Dental
+
+6.2 Medical History, Symptoms, and Required Examination and Tests
+The following table lists the required questions for medical history and symptoms as well as
+further examinations and tests required:
+
+Table 6.2 Medical History, Required Examination and Tests
+
+                                                                        Page 13 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives                       MOH-HPA/G/25/201-0
+
+Related       Medical history question                         Physical             Tests
+medical                                                                             Required
+condition                                                      Examination/
+                                                                                    None
+General                                                        Anthropometric       None
+Pregnancy Last menstrual period
+                                                               Measurements
+
+                                                               a. Height
+                                                               b. Weight
+                                                               c. Blood Pressure
+                                                               d. Vital signs
+
+Tuberculosis  a. Contact with family or household                                   Chest X-ray
+                 member with TB                                                     (mandatory for
+                                                                                    all applicants)
+              b. Previous history of treatment of TB
+              c. History of BCG vaccine
+              d. Fever (duration, pattern of fever)
+              e. Prolonged cough (more than 2
+
+                 weeks)
+              f. Night sweat
+              g. Weight loss
+              h. Dyspnea
+              i. Hemoptysis
+
+Syphilis      a. History of contact with a patient                                  VDRL/RPR
+                 with diagnosed syphilis or with                                    (mandatory for
+                 ulceration of or discharge from                                    all applicants)
+                 genitals
+
+              b. Itching in genitals
+              c. Ulceration in genital area
+              d. Discharge from genitals
+              e. Signs and symptoms of secondary
+
+                 syphilis (rash, sores, enlarged
+                 lymph nodes, non-specific
+                 symptoms such as fever, fatigue)
+
+                                                               Examine for any Those with
+
+              a. History of treatment for leprosy              hypopigmented or     anaesthetic
+              b. History of contact with a patient
+                                                               reddish   skin       skin patches
+                 with leprosy
+Leprosy       c. Ulcer                                         patches.             and/         or
+              d. Any patches, plaques or nodules
+                                                               If any skin patches  deformities
+                 with loss or reduced sensation
+              e. Any deformities of hand, feet and             present, check for   should       be
+
+                 eyes (due to leprosy)                         sensation using      referred to the
+
+                                                               standard methods     respective
+
+                                        Page 14 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives                             MOH-HPA/G/25/201-0
+
+                                                                     for         leprosy national
+
+                                                                     screening.           leprosy
+
+                                                                                          program or, if
+
+                                                                                          no program
+
+                                                                                          present, to
+
+                                                                                          specialist for
+
+                                                                                          diagnosis and
+
+                                                                                          treatment.
+
+Skin             a. Rashes                                           Examine rashes or    Provide
+diseases         b. Ulcer                                            ulcer                treatment
+
+                                                                                          Refer       to
+
+                 a. Fever with maculopapular                   rash  Examine patient      diagnosis and
+                    with or without:                                 (with contact and    treatment
+Measles                                                              airborne             according to
+                 b. Redness of the eyes                              precautions)         national
+                 c. Cough                                                                 protocols if
+                 d. Coryza
+
+                                                                                          suspicion of
+
+                                                                                          measles
+
+Lymphatic        a. Fever, swelling of limbs, scrotal                Examine any limb     All persons
+Filariasis (LF)     swelling                                         or scrotal swelling  from endemic
+                                                                                          areas must
+                 b. History of previous testing/                                          undergo
+                    treatment                                                             testing for LF.
+
+                                                                                          All persons
+
+                                                                                          from endemic
+
+Malaria          Exposure to a person infected with                                       areas must
+                 Malaria, or resided in or travelled to a None
+                 Malaria endemic region                                                   undergo
+
+                                                                                          testing     for
+
+                                                                                          Malaria
+
+                            Page 15 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+6.3 Guidance on MR Vaccination
+
+6.3.1  Applicants from countries which have not received WHO certification for
+6.3.2  elimination of measles must undergo measles and rubella (MR) vaccination as
+6.3.3  part of the PDHA. In addition, if a country previously certified to have eliminated
+6.3.4  measles experiences large outbreaks of measles, HPA may require that those
+6.3.5  arriving from the country must be vaccinated with MR vaccine.
+       Each vaccination session should be supervised by a trained person
+6.3.6  Vaccine Storage and Management: The cold chain for vaccines must be strictly
+6.3.7  maintained. Vaccines shall be stored exclusively in designated, manufacturer-
+6.3.8  recommended vaccine refrigerators (ice-lined refrigerators), which must remain
+       continuously connected to a stable electricity supply. The storage room
+       temperature shall not exceed 25캜.
+       Temperature Monitoring and Record-Keeping: The temperature of vaccine
+       storage units must be monitored daily, with records maintained in a systematic
+       and retrievable manner. Temperature data logs shall be completed and securely
+       stored.
+       Pre-Administration Checks: Prior to administering each vaccine vial, the Vaccine
+       Vial Monitor (VVM) status and expiration date must be verified. Vaccines that have
+       reached VVM stage 2 or beyond shall not be administered. Expired vaccines are
+       strictly prohibited from use. Each vial must be inspected for contamination,
+       physical integrity, and seal security. Any vial exhibiting visible contamination,
+       cracks, or a compromised seal shall be immediately discarded and not used under
+       any circumstances.
+       Vaccine Handling During Sessions: All vaccines intended for administration
+       during a session must be stored in a vaccine carrier throughout the session to
+       maintain proper temperature control.
+       Multi-Dose Vial Usage: If a multi-dose vial is used, the reconstituted vaccine shall
+       not be used beyond six (6) hours from the time of reconstitution. Between dose
+       administrations, the vial must be stored in a vaccine carrier to ensure that the
+       temperature remains between 2캜 and 4캜.
+       Sterile Technique and Injection Safety: Sterile technique must be strictly
+       adhered to at all times during vaccine administration. All injections shall be
+       performed in compliance with established safe injection practices to prevent
+       contamination and ensure patient safety.
+
+                                Page 16 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+6.3.9   Record Keeping and Documentation: Immediately after vaccination, all
+6.3.10  vaccination details must be accurately recorded in the designated system. The
+        recorded information shall include, but is not limited to, the vaccine name (e.g.,
+        MR), brand/manufacturer, lot number, and the date and time of administration.
+        Records must be complete, accurate, and securely maintained in compliance with
+        national regulatory requirements
+        Contraindications: Prior to administering the MR vaccine, the vaccinator must
+        assess the applicant for any contraindications. If a contraindication or potential
+        contraindication is identified, the recipient must be referred to a physician for
+        further evaluation. The physician shall review the medical history and relevant
+        documentation before determining eligibility for vaccination. If the physician
+        confirms a contraindication, they must issue a formal vaccine exemption
+        document, explicitly stating the medical contraindication. Contraindications for
+        the MR vaccine include:
+
+              a. Pregnancy
+
+        b. Immunocompromised status (diagnosed with CA, undergoing
+              chemotherapy, or taking any other immune-suppressants)
+
+        c. allergy to prior MR dose
+
+6.3.11 Vaccine Administration
+
+        a. Observation Period: Each vaccine recipient must remain under
+               observation for a minimum of thirty (30) minutes after receiving the
+               vaccine. A designated waiting area shall be provided for this purpose.
+
+        b. Release Criteria: If no adverse reactions or side effects are observed
+               during the observation period, the applicant may be discharged. Before
+               discharge, they must be informed of potential post-vaccination
+               symptoms, warning signs of adverse reactions, and the circumstances
+               under which they should seek immediate medical attention.
+
+6.4 Adverse Event Following Immunisation (AEFI) Management
+
+6.4.1   Vaccination sites must be equipped with the necessary medical facilities and
+        supplies to manage adverse reactions, including but not limited to anaphylaxis.
+        Trained healthcare personnel must be available to promptly recognize and manage
+        such reactions in accordance with established medical protocols
+
+                               Page 17 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives         MOH-HPA/G/25/201-0
+
+6.4.2 Referral pathways for AEFI should be established and implemented.
+
+6.5 Chest X-Ray
+All applicants shall receive radiology-related counselling prior to undergoing chest X-ray (CXR)
+imaging. The radiology related counselling includes:
+
+6.5.1  Briefing about the X-ray procedure, the benefit of cooperation such as proper body
+       positioning, deep inspiration technique and holding the breath while X-ray taking
+       (Prefer to demonstrate deep inspiration and check them if they have understood).
+
+6.5.2  Instruct to change clothes and to wear clean X-ray gown, avoid metallic objects
+       around their chest, remove the necklace from neck; for female, tie up the hair on
+       the head and bra should be removed.
+
+6.5.3  All female applicants of reproductive age need to be asked about the possibility of
+       pregnancy and the date of their last menstrual period. If the pregnant or possibly
+       pregnant woman agrees to have a CXR, she must be counselled about X-Ray risks,
+       obtain her consent, and be protected by double lead wrap-around (both front and
+       back) shielding during the CXR exposure.
+
+Prior to conducting the X-ray, the radiographer must verify the applicant's identity using a valid
+passport
+
+6.6 Guidance and Safety Measures whilst taking an X-Ray
+
+Taking good quality image at first exposure is important to minimize radiation exposure by
+reducing the number of repeats CXRs. Additionally, the following universal radiation safety
+measures should be applied during X-ray taking:
+
+a. Use as low as reasonably achievable (ALARA) radiation principle
+
+b. Provide lead apron for all applicants and double lead (both front and back) for
+    pregnant women
+
+c. Avoid unnecessary repeat exposure
+
+d. Attendants/chaperones must wear lead apron if they are needed to assist in X-ray
+    positioning
+
+e. Front door red light should be turned on during the time of X-ray
+
+f. Make sure both X-ray room doors are closed during X-ray exposure
+
+       Page 18 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+         g. Radiology unit staff should always wear Thermoluminescent dosimeter (TLD) badge
+              and be in protected room during exposing X-Ray
+
+         h. The X-Ray facility should comply with radiation safety requirements.
+         i. The posteroanterior (PA) view must be taken for all the applicants.
+6.7 Interpretation of Radiological Findings
+Finding any of the following abnormalities on chest X-Ray suggest active or resolved TB:
+         a. Nodular Soft Opacities
+         b. Soft, Cotton Wool Opacities
+         c. Cavity/Cavities/Cavitating (With or Without fluid level)
+         d. Pleural Effusion (Cause blunting of CPA)
+         e. Pleural capping (rough/ragged border or thicker than 1cm at any point)
+         f. Mediastinal Lymphadenopathy
+         g. Cavitating Lesions
+         h. Apical fibronodular or fibrocalcific lesions
+         i. Fibrocystic lesions
+         j. Multiple/Single pulmonary nodules (ill-defined with fuzzy margins or calcified or well
+
+                defined with clear cut margins)
+         k. Primary complex (Ghon Focus with enlarged hilar lymph nodes)
+         l. Miliary TB
+         m. Pulmonary Fibrosis
+         n. Pleural Fibrosis
+         o. Scar
+         p. Calcified/Calcification
+         q. Pulmonary calcification/Fibro calcification
+         r. Calcified Granuloma/Granulomata >5mm
+         s. Calcified Mediastinal lymph nodes
+         t. Pleural thickening
+
+Page 19 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives            MOH-HPA/G/25/201-0
+
+         u. Ghon Focus                                         Outcomes
+6.8 TB Screening Grading Scale
+
+Table 6.8 TB Screening Grading Scale
+
+ Grading TB screening
+
+Grade A No symptoms, no abnormal findings TB part of Medical Assessment cleared
+                on chest X-Ray
+
+Grade B  Symptoms suggestive of TB and/or                      Medical Assessment not cleared, refer
+         abnormal findings on X-Ray                            to national TB program or specialist care
+                                                               as applicable for the country
+
+7. Medical Examinations
+7.1 HIV
+a. All the applicants must undergo screening for antibodies against HIV 1 and 2 by a WHO
+
+    quality-assured test, with high sensitivity and specificity. An ELISA or other Enzyme
+    ImmunoAssay (EIA) maybe used.
+b. The PDHA Facility must ensure pre-test and post-test counseling are given to the
+    applicants in age, gender and culturally appropriate way.
+
+7.1.1 HIV Pre-Test Counselling
+         a. The HIV test is part of pre-departure health assessment process
+         b. Explanation of the HIV test and its meaning
+         c. Explanation of the nature of HIV/AIDS
+         d. Introducing the Informed Consent Form and the result will be shared with the
+                authority of the Maldives's government for immigration process
+
+7.1.2 HIV Post-Test Counselling
+         a. The results of HIV test
+         b. Implication and prognosis
+         c. Ways of protecting others to be infective
+         d. Referral to counselling, treatment and care
+
+Table 7.1 HIV Grading Scale
+
+                                                                        Page 20 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+Grading HIV test result              Outcomes
+Grade A Negative
+                                     HIV part of medical assessment is cleared
+                Positive or
+Grade B inconclusive                 Medical assessment not cleared, refer to national program
+                                     or specialist care as applicable for the country for
+                                     confirmatory testing and treatment
+
+7.2 Hepatitis B
+All the applicants must undergo Hepatitis B screening. Hepatitis B surface antigen (HBsAg) by
+ELISA, using a WHO quality-assured diagnostic kit should be performed.
+
+Table 7.2 Hepatitis B Grading Scale  Outcomes
+
+ Grading HBV test result             Hepatitis B part of medical assessment is cleared
+ Grade A Negative                    Medical assessment not cleared, refer to national
+                                     program or specialist care as applicable for the country
+ Grade B Positive                    for confirmatory testing and treatment
+
+7.3 Hepatitis C
+All the applicants must undergo Hepatitis C screening. An anti-HCV screening test with high
+sensitivity and specificity, using a WHO quality-assured diagnostic kit should be performed.
+
+Table 7.3 Hepatitis C Grading Scale  Outcomes
+
+ Grading HCV test result             Hepatitis C part of medical assessment is cleared
+ Grade A Negative                    Medical assessment not cleared, refer to national program
+                                     or specialist care as applicable for the country for
+ Grade B Positive                    confirmatory testing and treatment
+
+7.4 Syphilis
+a. All the applicants must undergo Syphilis screening.
+
+                                     Page 21 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+b. A first screening tests by non-treponemal tests such as venereal disease research laboratory
+    (VDRL) or rapid plasma reagin tests (RPR), followed by a Treponemal test (treponemal
+    pallidum hemagglutination -TPHA) for those who test positive on the first non-treponemal
+    test must be conducted.
+
+Diagram 7.4 Syphilis Diagnostic Algorithm of Syphilis
+
+Table 7.4 Syphilis Grading Scale
+
+ Grading Syphilis Test Result Outcomes
+
+Grade A Negative  Syphilis part of medical assessment is cleared
+
+Grade B Positive  Medical assessment not cleared, refer to national
+                  program or specialist care as applicable for the
+                  country for treatment
+
+7.5 Lymphatic Filariasis
+a. All applicants from countries endemic for Lymphatic Filariasis must undergo an LF antigen
+
+    test, using a WHO prequalified test strip.
+b. If limb swelling or other complications present but test is negative, further treatment and care
+
+    can be prescribed or the applicant maybe referred for such care, but it does not affect the
+
+                                                                        Page 22 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives            MOH-HPA/G/25/201-0
+
+medical assessment as long as the physician deems the applicant's condition does not render
+them unfit to work.
+
+Table 7.5 Lymphatic Filariasis Grading Scale  Outcomes
+                                              LF examination cleared
+ Grading LF test result
+ Grade A Negative
+
+         Positive or physical Medical assessment not cleared, refer to national
+
+Grade B  abnormality             which program or specialist care as applicable for the
+
+         affects ability to work country for treatment
+
+7.6 Malaria
+All applicants from countries endemic or with travel history to endemic countries for Malaria must
+undergo a Malaria antigen test, using a WHO prequalified test.
+
+Table 7.6 Malaria Grading Scale
+
+Grading Malaria test result Outcomes
+
+Grade A Negative                 Malaria examination cleared
+
+Grade B Positive                 Medical assessment not cleared, refer to national
+                                 program or specialist care as applicable for the country
+                                 for treatment
+
+7.7 Leprosy
+
+Applicants from leprosy endemic countries should undergo symptom screening and be
+examined to see if any hypopigmented or reddish skin patches are present. If skin patches are
+present, they should be checked for sensation using standard methods used for leprosy
+screening (see WHO guidelines).
+
+Table 7.7 Leprosy Grading Scale
+
+Grading  Skin Examination/ Skin patch testing                  Outcomes
+         result
+
+                                              Page 23 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+         No patches or patches present but                     Leprosy examination cleared
+Grade A have no loss of sensation
+
+Grade B Skin patch with loss of sensation                      Medical assessment not cleared, refer
+                                                               to national program or specialist care
+                                                               as applicable for the country for
+                                                               further diagnostic testing and
+                                                               treatment
+
+8. Pre-Departure Health Assessment Outcome Grading
+
+After completion of the above assessment, the final grading and process for the applicant will
+be as follows.
+
+Table 8.1 Final Grading             Outcomes
+
+ Grading Findings
+
+                                                        Medical assessment cleared. Applicant is eligible
+Grade A All parts received Grade A for employment in Maldives
+
+Grade B  Any part received Grade B  Medical assessment not cleared, refer to national
+                                    program or specialist care as applicable for the
+                                    country for treatment.
+                                    Applicant is not eligible for employment in
+                                    Maldives
+
+9. Data Management and Privacy
+       9.1 All applicant data, regardless of the outcome of their medical assessment, shall be
+                  entered into the database specified by the competent authority designated by the
+                  Government of Maldives. Medical data pertaining to applicants who have been
+                  cleared through the Pre-Departure Health Assessment (PDHA) shall be accessible
+
+                                                                        Page 24 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives   MOH-HPA/G/25/201-0
+
+       only to authorized personnel from the Health Protection Agency and the Quality
+       Assurance Division of the Ministry of Health, Maldives. Relevant officials at the
+       Ministry of Homeland Security and Technology (and/ or designated Maldivian
+       government ministry) and Maldives Immigration shall have access solely to the final
+       classification of each applicant (i.e., "Medically Cleared" or "Medically Not
+       Cleared") and shall not be granted access to any individual medical records or
+       sensitive health information.
+
+9.2 Restricted Access to Applicant Data for Technical Purposes
+
+9.2.1  Technical personnel, including but not limited to system developers, analysts, and
+9.2.2  testers, may require limited access to applicant data strictly for the purposes of
+       system maintenance, issue resolution, bug investigation, system audits, or to ensure
+       the proper functioning and integrity of the system.
+       Such access shall, in the ordinary course, shall be restricted to non-sensitive data
+       fields, such as classification outcomes (ie. "Medically Cleared" or "Medically Not
+       Cleared"). However, in exceptional circumstances where a technical issue directly
+       pertains to the medical result, associated documentation, or the record itself,
+       controlled and limited access to such information may be granted.
+
+9.2.3  Any access under Clauses 9.2.1 or 9.2.2 shall be strictly limited to the minimum data
+       necessary, shall be fully documented and logged, and shall be subject to appropriate
+       data protection, privacy, and confidentiality safeguards in accordance with
+       applicable laws, regulations, and organizational policies of the Government of
+       Maldives.
+
+9.2.4 A non-disclosure agreement must be signed by all parties accessing any data under
+           any circumstances. (this is 9.3, applies to both sections 9.1 and 9.2)
+
+10 Standard Operating Procedures
+
+    The health facility shall have following procedures written and submit to the Ministry of Health
+    with the application
+
+a. Infection prevention and control procedure.
+b. Waste management procedure
+c. Grievance/ complain management Procedure
+d. Medical record keeping procedure
+
+       Page 25 of 36
+Annex 1 Annex1
+    Annex 1
+Form No.: MOH-HPA/F/25/202-0                                                     Version 1.0
+
+Application Form for Designation as a Pre-Departure Health
+Assessment (PDHA) Facility
+
+Instructions
+
+Please complete all sections of this form accurately. Incomplete applications may result in delays. Attach all required
+documents listed in Annex 1.
+
+SECTION 1: FACILITY INFORMATION
+Please provide key details about the health facility applying for designation
+
+ 1.1 Facility Name
+
+1.2 Facility Address
+
+1.3 Facility Registration No.      Government               Private
+
+1.4 Facility Registration
+      Expiry (fill if applicable)
+
+1.5 Operating License No.
+
+1.6 Operating License
+      Expiry (fill if applicable)
+
+1.7 Business Registration
+      Number (fill if private)
+
+1.8 Business Registration
+      Expiry (fill if applicable)
+
+1.9 Facility Ownership
+
+1.10 Governing Ministry or Board Name
+
+1.11 Registration Number
+
+SECTION 2: FACILITY INFRASTRUCTURE
+Indicate available facility infrastructure necessary for PDHA operations
+
+2.1 Consultation Room                  2.2 X-Ray Room       2.3 Treatment Room   2.4 Laboratory
+
+2.5 Waste Management                   2.6 Vaccination      2.7 Patient Waiting  2.8 Sterilisation
+       Area                                   Room                Area                 Room
+
+2.9 Toilets (accessible to persons with special needs)
+
+                                               Page 1 of 5
+SECTION 3: MEDICAL STAFF INFORMATION
+
+Provide details of the health professionals involved in PDHA operations. All health professionals must be licensed to
+practice in the country where the health facility associated with this application is located
+
+#  NAME  DESIGNATION  LICENSE NO.  LICENSING BODY
+
+         Page 3 of 5
+SECTION 4: RESPONSIBLE PERSON DETAILS
+Provide information on the individual responsible for daily PDHA operations
+
+ 6.1 Full Name (as in ID)
+ 6.2 Passport/ Other ID No.
+ 6.3 Nationality
+ 6.4 Contact Number
+ 6.5 Email Address
+
+SECTION 5: DECLARATIONS AND CONSENT
+   1. I certify that the information provided in this application is true and accurate to the best of my knowledge
+  2. I agree to comply with all PDHA requirements and standards set forth by the Ministry of Health, Maldives
+  3. I understand that failure to comply with standards or providing false information may lead to the revocation
+      of designation.
+  4. I acknowledge the requirement to pay the application fee of USD 2,000 (Two Thousand US Dollars) and the
+      annual renewal fee of USD 1,000.00 (One Thousand US Dollars) upon approval
+
+  Signature of Operator
+
+  Date
+
+For Official Use by the Maldives Ministry of Health Only
+ Application Received on
+ Inspection Date (if applicable)
+ Reviewed by
+  Comments
+
+Designation Status       Approved                         Rejected
+Designation Valid Until
+
+                                   Page 4 of 5
+ANNEX 1: REQUIRED DOCUMENTS CHECKLIST
+Failure to submit the following will result in an automatic cancellation of this application
+
+          1 Valid Facility Operating License
+          2 Facility Floor Plan
+         3 Attested Copy of Operator's Passport/ Registration
+         4 Comprehensive Services Proposal
+
+              a. Service hours
+              b. Eligible recipients of services
+              c. List of medical professionals and staff
+              d. Proposed service charges
+          5 List and Valid Licenses of Medical Staff (attested copies or electronically verifiable documents)
+          6 Accreditation Certificates (if applicable)
+          7 Evidence of Governing Ministry or Board Registration
+          8 Health facility data management policy
+
+                                                                                                      Page 5 of 5
+Annex 2
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+Annex 2: Consent Form
+    a. Applicant Details:
+         a. Full Name:
+         b. Date of Birth:
+         c. Passport/ID No.:
+         d. Contact Information:
+         e. Nationality
+         f. Sex:
+
+Consent Declaration:
+I, the undersigned, confirm that:
+
+       1. I have received pre-test counselling and fully understand the purpose, scope, and
+           implications of the Pre-Departure Health Assessment (PDHA).
+
+       2. I understand that the PDHA includes the following medical examinations and tests:
+           a. Comprehensive physical examination
+           b. Blood tests (including complete blood count, liver/kidney function tests, and
+               infectious disease screening)
+           c. Tuberculosis screening (Chest X-ray and sputum test if required)
+           d. HIV and other sexually transmitted infections testing
+           e. Urine analysis for kidney and metabolic conditions
+           f. Mental health and psychological assessment
+           g. Vaccination status verification and administration of required immunizations
+
+       3. I acknowledge that my medical information will be kept confidential but may be shared
+           with relevant authorities as per legal and regulatory requirements.
+
+       4. I have been informed of my rights, including my right to refuse the assessment,
+           understanding that refusal may impact my eligibility for travel or immigration.
+
+                                                                        Page 32 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+5. I consent to undergo the PDHA voluntarily, without coercion.
+
+6. I understand the possible outcomes of the assessment, any necessary follow-up
+   procedures, and potential health recommendations.
+
+I hereby give my informed consent to proceed with the PDHA, including all specified medical
+tests and procedures.
+
+Signature or Fingerprint of Applicant:
+
+Date:
+
+Signature of Healthcare Provider:
+
+Date:
+Facility Name:
+
+Page 33 of 36
+Annex 3
+Pre-Departure Health Assessment | Ministry of Health Maldives  MOH-HPA/G/25/201-0
+
+Annex 3: Counselling Form
+    1. Applicant Details:
+         a. Full Name:
+         b. Date of Birth:
+         c. Passport/ID No.:
+         d. Contact Information:
+         e. Nationality
+         f. Sex:
+
+    2. Counselling Session Details:
+         a. Date of Counselling:
+         b. Name of Counsellor:
+         c. Designation:
+         d. Facility Name:
+
+Counselling Topics Discussed:
+      Purpose and scope of the PDHA
+      Medical tests and procedures involved, including:
+              a. Physical examination
+              b. Blood tests (e.g., complete blood count, liver/kidney function tests)
+              c. Tuberculosis screening (Chest X-ray, sputum test)
+              d. HIV
+              e. Syphilis
+              f. Leprosy
+              g. Skin diseases
+              h. Measles
+              i. Lymphatic Filariasis
+              j. Malaria
+              k. Urine analysis
+              l. Mental health and psychological assessment
+              m. Vaccination status review and required immunizations
+
+                                                                        Page 35 of 36
+Pre-Departure Health Assessment | Ministry of Health Maldives          MOH-HPA/G/25/201-0
+
+      Possible outcomes and implications of test results
+      Confidentiality and data protection regarding medical findings
+      Rights of the applicant, including refusal and its consequences
+      Possible referrals for further medical evaluation if necessary
+      Next steps following the PDHA, including submission of results
+
+Applicant Declaration:
+
+I confirm that I have been counselled about the Pre-Departure Health Assessment (PDHA), its
+purpose, process, and implications, including the specific tests and procedures required. I have
+had the opportunity to ask questions and received satisfactory responses.
+
+Signature or Fingerprint of Applicant:
+Date:
+
+Signature of Counsellor:
+Date:
+
+                                        Page 36 of 36
+              2025
+
+Health Protection Agency
+     Ministry of Health
+

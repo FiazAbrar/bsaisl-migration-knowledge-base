@@ -1,0 +1,86 @@
+
+
+<div class="mb-4">
+    <h4 class="font-weight-bold" style="color: var(--navy-blue); margin-bottom: 0.25rem;">Regularization Verification</h4>
+    <p class="text-muted" style="font-size: 0.9rem;">Please provide the details below to verify regularization registration.</p>
+</div>
+<div>
+    
+
+<div class="form-group row mt-2">
+    <div class="col-md-5 col-sm-12 mb-3">
+        <div class="verification-search-group">
+            <label class="star font-weight-bold" for="RegistrationNumber">Registration Number</label>
+            <input class="form-control" data-val="true" data-val-required="The Registration Number field is required." id="RegistrationNumber" name="RegistrationNumber" placeholder="e.g. RRGZ/2020/00" type="text" value="" />
+            <span class="field-validation-valid" data-valmsg-for="RegistrationNumber" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+    <div class="col-md-5 col-sm-12 mb-3">
+        <div class="verification-search-group">
+            <label class="star font-weight-bold" for="FirstName">First Name</label>
+            <input class="form-control" data-val="true" data-val-required="The First Name field is required." id="FirstName" name="FirstName" placeholder="First Name" type="text" value="" />
+            <span class="field-validation-valid" data-valmsg-for="FirstName" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+    <div class="col-md-2 col-sm-12 mb-3 d-flex align-items-end">
+        <button type="button" style="width:100%" class="btn btn-verification-fetch" id="wpFetch">
+            <i class="flaticon-search mr-1"></i> Verify
+        </button>
+    </div>
+</div>
+
+<div id="registry-details">
+    <div class="alert alert-solid-info alert-bold" role="alert">
+        <div class="alert-text">Please provide regularization registry number and first name to verify the regularization registry details of the employee.</div>
+    </div>
+</div>
+
+<script>
+
+    var regNumber = $('#RegistrationNumber').val();
+    var firstName = $('#FirstName').val();
+
+    $('#wpFetch').on('click', function(e) {
+        e.preventDefault();
+
+        var referenceNumber = $('#RegistrationNumber').val();
+        var firstName = $('#FirstName').val();
+
+        if (referenceNumber.length === 0) {
+            swal.fire("Warning!", "Registration number is required!", "warning");
+            return;
+        }
+        if (firstName.length === 0) {
+            swal.fire("Warning!", "First name is required!", "warning");
+            return;
+        }
+
+        var dataObject = {
+            referenceNumber: referenceNumber,
+            firstName: firstName
+        }
+
+        $.ajax({
+            type: "POST",
+            url: '/Regularization/Regularization/RegistryVerify',
+            data: dataObject,
+            success: function(result) {
+                toastSuccess("Fetch success");
+                ViewHelper.showLoading($('#registry-details'));
+                ViewHelper.fadeShow($('#registry-details'), result);
+            },
+            error: function(result) {
+                toastError("Fetch error");
+            }
+        });
+    });
+
+    $(function() {
+        if (regNumber.trim() && firstName.trim()) {
+            $('#wpFetch').trigger('click');
+        }
+    });
+
+
+</script>
+</div>

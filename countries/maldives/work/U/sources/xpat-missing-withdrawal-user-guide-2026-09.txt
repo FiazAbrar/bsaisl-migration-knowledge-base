@@ -1,0 +1,248 @@
+     WORK PERMIT MISSING WITHDRAWAL USER GUIDE
+
+Introduction
+
+This guide provides a detailed explanation of the work permit missing withdrawal process, allowing employers to
+withdraw previously submitted missing reports under specific conditions. Employers can use this service when a
+missing report was submitted for the wrong individual or when the employee has been located or returned to work.
+The withdrawal process varies depending on whether the missing request is still in the processing stage or has
+already been approved. Employers can benefit from a grace period during which no service fee applies, but
+withdrawals outside this period will incur a fee of MVR 10,000.
+Additionally, the guide outlines the steps for re-issuing a work permit after the withdrawal request has been
+approved, ensuring the work permit status is fully restored. This step-by-step guide helps streamline the process,
+preventing unnecessary investigations and maintaining updated work permit records.
+
+Contents
+
+Introduction ...................................................................................................................................................... 1
+How to navigate to the required work permit .................................................................................................... 2
+How to withdraw work permits within missing report withdrawal grace periods.............................................. 2
+
+   Scenario 1: Work permit missing request in processing state (within grace period) ..................................... 3
+   Scenario 2: Work permit missing request in approved state (within grace period) & work permits without
+   missing report withdrawal grace periods ...................................................................................................... 7
+How to apply for re-issue work permit ............................................................................................................ 11
+Definition of Terms.......................................................................................................................................... 17
+Frequently Asked Questions (FAQ) ................................................................................................................. 18
+
+                                                                                                                                    Page 1 of 18
+How to navigate to the required work permit
+
+Step 1: Login to https://xpat.egov.mv and go to "Work Permit" and then select "View Work Permit"
+
+Step 2: Locate the required work permit by using the available view or search functions, and select "Details" for the
+corresponding work permit.
+
+How to withdraw work permits within missing report withdrawal grace periods
+
+There are two scenarios for withdrawing work permit missing reports within the grace period, and each follows a
+different process. Scenario 1 covers work permit missing requests that are still in the processing stage, and Scenario
+2 applies to work permit missing requests that have already been approved. In both scenarios, as long as the
+withdrawal happens within the grace period, no service fee will be charged.
+
+                                                                                                                                    Page 2 of 18
+Scenario 1: Work permit missing request in processing state (within grace period)
+
+Scenario 1 applies when a work permit missing request is still in the processing stage. This may occur in the
+following situations:
+
+    1. When the work permit missing request is "on-hold" during the initial 3-day period after submission.
+    2. When the work permit missing request is still in a processing state within the first 7 days of submission.
+    3. When both the work permit missing request and the linked Missing Report LRA investigation are placed "on-
+
+         hold" for 7 days due to an employer or representative requesting to withdraw during the investigation
+         process.
+Step 1: In this case go to the "missing" tab of the respective work permit and click on "new request" on the "missing
+person withdrawal request table, as indicated below.
+
+                                                                                                                                    Page 3 of 18
+Step 2: Verify the individual's image, name, passport number, and country to ensure you are reporting the correct
+person as missing. Once confirmed, enter the full name of the individual, then read and agree to the required
+declarations by enabling the toggle switch. After completing these steps, click "Next" to proceed to the following
+step.
+
+(next step on next page)
+
+                          Page 4 of 18
+Step 3: Carefully review and verify the information provided. Read the required declarations, enable the appropriate
+toggle to confirm your agreement, and then click "Submit" to complete and submit the work permit missing
+withdrawal request.
+
+(next step on next page)
+
+                          Page 5 of 18
+Once the missing withdrawal application is submitted, the request will be automatically approved. The work permit
+missing request will be cancelled, and the work permit status will be updated to "Issued (Arrived)." This completes
+the missing withdrawal process for this scenario.
+
+                                                                                                                                    Page 6 of 18
+Scenario 2: Work permit missing request in approved state (within grace period) & work
+permits without missing report withdrawal grace periods
+
+Step 1: If the work permit has an approved work permit missing request, it must be cancelled before proceeding.
+The work permit can be canceled in the following states:
+
+    1. Reported Missing: Once canceled, it will move to "Cancelled (Reported Missing)."
+    2. Missing Abscond: Once canceled, it will move to "Cancelled (Missing Abscond)."
+    3. Missing Negligence: Once canceled, it will move to "Cancelled (Missing Negligence)."
+For more details on the work permit cancellation process, refer to the Work Permit Cancellation User Guide.
+Note: For work permits already in missing state, a work permit cancellation request must be submitted to pay or
+create a work permit fee request (required only if the work permit is applicable to pay work permit fee).
+Step 2: After the work permit is canceled, navigate to the "Missing" tab and select "New Request" from the Missing
+Withdrawal Request table.
+
+                                                                                                                                    Page 7 of 18
+Note: To proceed in this step work permit must be in a cancelled status else system will show below error message
+Step 3: Verify the individual's image, name, passport number, and country to ensure you are reporting the correct
+person as missing. Once confirmed, enter the full name of the individual, then read and agree to the required
+declarations by enabling the toggle switch. After completing these steps, click "Next" to proceed to the following
+step.
+
+                                                                                                                                    Page 8 of 18
+Step 4: Carefully review and verify the information provided. Read the required declarations, enable the appropriate
+toggle to confirm your agreement, and then click "Submit" to complete and submit the work permit missing
+withdrawal request. This step does not complete the entire withdrawal process. Once the withdrawal request is
+approved, the user must also submit a re-issue work permit application as agreed in the declaration to complete
+the process. Proceed to "How to apply for re-issue work permit" to continue the process.
+
+View at the Missing Withdrawal Review Step
+
+There are two scenarios to consider at the withdrawal request review step:
+
+    1. No Service Fee: If the withdrawal is completed within the grace period, there is no service fee charged. (as
+         shown in below image, the declaration will not specify any service charge)
+
+(next part in next page)
+
+                          Page 9 of 18
+    2. Service Fee: If the withdrawal is outside the grace period, a service fee of MVR 10,000 will apply. (as shown
+         in below image, the declaration will specify a service charge fee)
+
+If a service fee is applicable, the request will move to "Pending Payment" upon submission (as shown below).
+
+Once the payment is made, or if no payment is required, the request will be updated to "Approved" status. The user
+will then be prompted to apply for a "Re-Issue Work Permit." Please refer to the section "How to apply for re-issue
+work permit" for detailed instructions on completing this process.
+
+                                                                                                                                  Page 10 of 18
+How to apply for re-issue work permit
+
+Step 1: Login to https://xpat.egov.mv and go to "Work Permit" and then select "View Work Permit"
+
+Step 2: Click on "Re-Issue Work Permit" to begin the re-issue work permit application process.
+
+(next step on next page)
+
+                                                                                                  Page 11 of 18
+Step 3: Enter the work permit number and employee name, then click "Fetch" to fetch the respective work permit.
+
+Note: The work permit must be the most recent one issued to the individual. Additionally, the work permit must have an
+approved missing withdrawal request that is not linked to any other work permit request. Only the current employer is permitted
+to fetch the work permit, this service is not available for the respective work permit to other employers.
+
+Step 4: Select the required quota pool category, quota pool, occupation and the quota slot for the work permit
+application to proceed.
+
+                                                                                                                                  Page 12 of 18
+Step 5: After selecting or filling in all the required fields, click "Next" to continue.
+
+Step 6: Enter the employee's salary, and update the accommodation details if required (the previous
+accommodation information will be pre-filled for your convenience). Once complete, click "Next" to proceed.
+
+(next step on next page)
+
+                          Page 13 of 18
+Step 7: Review the application details carefully, then click "Submit" to finalize the re-issue work permit
+application. Once submitted, the application will automatically move to the "Pending Payment" status.
+
+Step 8: Click on the application reference number to quickly access the work permit application.
+                                                                                                                                  Page 14 of 18
+Step 9: Click "Go to Payment" to proceed with the deposit payment for the approved work permit application.
+Step 10: Select either "Pay with Bandeyri Pay" or "Pay with Wallet" to initiate the deposit payment.
+
+                                                                                                                                  Page 15 of 18
+Once the payment is completed, the status of the payment will be updated to "Fully Paid,"
+
+and the work permit will be issued with the status set to "Issued (Arrived)."
+
+It is now the employer's responsibility to update all necessary information and comply with the
+requirements specified in the regulations.
+
+                                                                                                                                  Page 16 of 18
+   Additional information
+
+    Under the Regulation on Employment of Expatriate Workers (R-111/2023), employers are allowed a 30-day window
+    to withdraw work permit missing requests without having to pay the MVR 10,000 service fee, even if the request falls
+    outside the usual grace period. This option is currently available in the Xpat system.
+    The 30-day period runs from October 6, 2024, to November 4, 2024. Employers are encouraged to submit missing
+    withdrawal requests within this timeframe to avoid the service fee. We strongly advise applying for the withdrawal
+    as soon as possible if needed.
+
+   Definition of Terms
+
+· Missing Report: A formal report submitted by an employer to notify authorities that an employee is missing,
+    prompting an investigation.
+
+· Grace Period: A designated timeframe during which employers can withdraw a missing report without incurring a
+    service fee.
+
+· Work Permit Withdrawal: The process of retracting a previously submitted work permit missing report, typically
+    when the employee is found or an error has been made.
+
+· Processing Stage: The period during which a submitted work permit missing report is under review but has not yet
+    been approved or finalized.
+
+· Re-Issue Work Permit: A process initiated after a missing report withdrawal, in which the employer re-obtains a
+    valid work permit for the employee
+
+· Service Fee: A mandatory fee applied for certain services
+
+· Absconding: A term used when an employee deliberately leaves their place of work without informing the employer,
+    leading to a missing report.
+
+· Negligence: A failure by the employer to fulfill their legal or contractual obligations, such as providing proper
+    documentation, timely payments, or following regulations regarding the employee's work permit. In the context of
+    missing work permit reports, negligence refers to situations where the employee's absence is attributed to the
+    employer's lack of due diligence or care.
+
+· Cancelled (Reported Missing): A status indicating that a work permit has been canceled due to the employee being
+    reported missing.
+
+· Cancelled (Missing Abscond): A status indicating that a work permit has been canceled following a report that the
+    employee absconded.
+
+· Cancelled (Missing Negligence): A status indicating that a work permit has been canceled due to employer
+    negligence in the employee's absence.
+
+                                                                                                                                       Page 17 of 18
+Frequently Asked Questions (FAQ)
+
+1. Can I withdraw a work permit that has been reported missing due to negligence?
+Yes, as long as the employee has agreed to return to work and there is a valid employment contract in line with the
+Employment Act (2/2008).
+2. Is the re-issue process complete once the withdrawal application is approved?
+It may vary. In some cases, the process is complete upon approval, while in others, you must apply for a re-issue
+work permit. Check the declaration and additional information for confirmation.
+3. Can I withdraw a missing report for someone reported as missing a long time ago?
+Yes, currently, there is no time restriction. However, this may change in the future, so it's advisable to act as soon
+as possible.
+4. Can I withdraw a missing report for an employee who has been blacklisted?
+No, withdrawals for blacklisted employees are not allowed.
+5. What happens if I submit a withdrawal request outside the grace period?
+If the withdrawal request is submitted outside the grace period, a service fee of MVR 10,000 will be applied. You can
+still proceed with the withdrawal by paying the fee.
+6. What should I do if the withdrawal request is approved but I haven't completed the re-issue work permit
+process?
+After your withdrawal request is approved, you must complete the re-issue work permit application to restore the
+employee's work permit status. Failing to do so means the withdrawal process is incomplete.
+7. Can I still withdraw a missing report if the Labour Relations Authority (LRA) has already started an
+investigation?
+Yes, you can withdraw the report during the investigation process, but you must follow the correct procedure as
+outlined in the guide. The system will guide you through this.
+8. How long does the processing take for a missing report withdrawal?
+If no payment is required, the withdrawal request will be automatically approved. In cases where payment is
+involved, the request will move to a pending payment state until the fee is settled, after which the approval process
+will continue.
+
+                                                                                                                                  Page 18 of 18
+

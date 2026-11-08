@@ -1412,7 +1412,7 @@ A household recruits through a licensed recruitment office, or directly from abr
 
 ### Step 3: Choose an approved agency
 
-1. **Women: pick from the approved list.** On 1 September 2025 the Ministry of Expatriates' Welfare approved these 21 licensed agencies to send women domestic workers abroad (to all destinations) [E0037]:
+1. **Women: pick from the approved list.** On 1 September 2024 the Ministry of Expatriates' Welfare approved these 21 licensed agencies to send women domestic workers abroad (to all destinations) [E0037]:
    - Methaq Al Madina Overseas (RL-2480)
    - Just Recruit Ltd. (RL-2702)
    - Tehzeeb Overseas Limited (RL-1664)

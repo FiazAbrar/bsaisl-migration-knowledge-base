@@ -1,0 +1,168 @@
+       WORK PERMIT MISSING REPORTING USER GUIDE
+
+Introduction
+
+In an effort to enhance the accuracy and efficiency of reporting missing work permits, the process has been revised
+to ensure a more streamlined and user-friendly experience. The updated process is structured to provide clear and
+comprehensive guidance at each stage, ensuring that all necessary information is accurately submitted, and that
+the correct individual's work permit is identified in the report.
+The revised system incorporates multiple confirmation steps to verify the identity of the individual associated with
+the missing permit, reducing the risk of errors and ensuring compliance with reporting requirements.
+
+Work Permit Missing Reporting Process
+
+Step 1: Login to https://xpat.egov.mv and go to "Work Permit" and then select "View Work Permit"
+
+Step 2: Locate the required work permit by using the available view or search functions, and select "Details" for the
+corresponding work permit.
+
+                                                                                                                                    Page 1 of 11
+Step 3: Go to the "Missing" tab and click on "New Request" to begin the process of reporting a missing work permit.
+
+Step 4: Verify the individual's image, name, passport number, and country to ensure you are reporting the correct
+person as missing. Once confirmed, enter the date the employee went missing (not the current reporting date), and
+provide detailed remarks explaining how the work permit holder went missing. After completing these steps, click
+"Next" to proceed to the following step.
+
+Note: Use the additional information below the remarks field for guidance on what to include. You can also provide further
+details in the following step by attaching a document that supports or elaborates on the summary provided in the remarks.
+
+                                                                                                                                    Page 2 of 11
+Step 5: Review the declaration options carefully. You must EITHER upload the required documents and confirm
+that they are true and authentic, OR declare that you are unable to provide the necessary documents. Select the
+appropriate declaration by turning on the corresponding toggle, then click "Next" to proceed.
+
+Note: While the required documents are marked with an asterisk (*) indicating they are mandatory, if you choose the declaration
+stating that you are unable to provide the documents, you may proceed without uploading them.
+
+                                                                                                                                    Page 3 of 11
+Step 6: Carefully review the application details. For confirmation, enter the full name of the individual. Read and
+agree to the required declarations by turning on the corresponding toggles. Once completed, click "Next" to submit
+the missing work permit reporting request.
+
+Note: A payment is required upon submission of the application. If the payment is not completed, the application will not be
+submitted, and the reporting process will remain incomplete.
+Please note that the individual's name must be manually typed, as copy-pasting is not allowed to ensure intentional
+confirmation. The input is not case sensitive, but be cautious to avoid any extra spaces.
+
+                                                                                                                                    Page 4 of 11
+Step 7: Click the payment icon to proceed with the service charge payment for the missing work permit application
+submission. A payment of MVR 1,000 (non-refundable service fee) must be completed within 3 days; otherwise, the
+application will be automatically canceled.
+
+Step 8: Click "Pay Online" to start the payment process.
+
+Step 9: Click "Proceed" to move to the payment gateway. The payment will be processed through the MIRA payment
+gateway. Once the payment is paid, the request is successfully submitted.
+
+                                                                                                                                    Page 5 of 11
+    Upon successful submission of the request, the work permit status will be updated to "Reported Missing."
+
+   Additional information
+
+1. Payment and Status Update: Once the payment is made, the work permit missing report request will be updated
+    to an "On-Hold" status. The user will have a 3-day period to review or withdraw the request if needed.
+
+                                                                                                                                         Page 6 of 11
+2. Pending Verification: After the 3-day review period, the request will move to a "Pending Verification" status, during
+    which the submitted documents will be reviewed. This process may include both verification and approval stages.
+
+3. Withdrawal During Review Period: If you wish to withdraw the missing report request, please refer to the "Work
+    Permit Missing Report Withdrawal User Guide" for instructions on how to withdraw a request during this stage.
+
+4. Withdrawal After Processing Starts: The user may still withdraw the application within 7 days, even after the initial
+    3-day review period has passed and the investigation or processing of the missing report has begun. Refer to the
+    "Work Permit Missing Report Withdrawal User Guide" for further details.
+
+5. LRA Investigation: If the application is not withdrawn within 3 days, a "Missing Report LRA Investigation" request
+    will be created as a linked request. The Labour Relations Authority (LRA) will investigate the case to determine if the
+    absence is due to employer negligence or employee absconding. This process may involve multiple statuses, such
+    as "Pending Verification" and "Pending Approval," and allows users to easily track the investigation's progress and
+    see which authority is handling the request.
+
+                                                                                                                                         Page 7 of 11
+6. Quota Slot and Work Permit Cancellation: According to regulations, if the missing process exceeds 30 calendar
+    days, the employer may cancel the work permit and release the linked quota slot, after settling all necessary dues.
+    The missing report investigation and decision process will continue even after the permit is canceled.
+
+7. Employer Withdrawal During LRA Investigation: If, during the LRA investigation, the employer or their
+    representative clarifies that they wish to withdraw the missing report request, the LRA may grant a 7-day period for
+    the employer to do so.
+
+8. Update to Issued Status: If the request is withdrawn, the work permit status will be updated to "Issued (Arrived),"
+    and the missing report request will be automatically canceled.
+
+9. Continuation of LRA Investigation: If the request is not withdrawn within 7 days, the case will be sent back to the
+    LRA for further investigation.
+
+10. Missing Report Decision: Upon completion of the LRA investigation, a "Missing Report Decision" request will be
+    created and linked to the missing report. This request determines whether the employee's absence is due to
+    employer negligence or employee absconding. Factors such as the employer's violation history and previous
+    missing reports will be considered. The request may go through multiple statuses, such as "Pending Verification"
+    and "Pending Approval," providing transparency throughout the process.
+
+                                                                                                                                         Page 8 of 11
+11. Final Decision: Once the "Missing Report Decision" is approved, the work permit status will be updated accordingly.
+                                                                                                                                         Page 9 of 11
+12. Absconding Case Conclusion: If the investigation confirms that the employee absconded, the missing report
+    request will be approved, and the process will conclude.
+
+13. Employer Negligence and Penalty: If the employee's absence is found to be due to employer negligence, the
+    "Missing Report Decision" will be updated to "Pending Payment," with a fine of MVR 2,000 imposed on the employer.
+    This must be paid within 30 days. Failure to make the payment will result in further actions, including potential
+    service suspension.
+
+14. Missing Negligence Payment and Case Closure: Once the employer pays the fine, the "Missing Report Decision"
+    will be updated to "Paid," and the missing report request will be concluded.
+
+                                                                                                                                       Page 10 of 11
+Frequently Asked Questions (FAQ)
+
+1. Will my work permit missing report be considered in other investigations if I fail to pay the MVR 1,000 fee?
+No, it will not be considered. If the payment is not made, your request will not be successfully submitted, as required
+by regulations.
+
+2. Will Labour Relation Authority (LRA) contact the employer/employers representatives during the
+investigation?
+Yes, for more information please contact Labour Relation Authority (LRA).
+
+3. Can I appeal a missing report decision after it has been finalized/decision has been taken?
+Yes, you can submit an appeal request to the Labour Relations Authority (LRA) following a decision.
+
+4. Will the Missing Negligence fine appear on the pending fees view as an overdue payment?
+Yes, if the fine is not paid within 30 days of its issuance, it will appear as an overdue payment in the pending fees
+view.
+
+5. Will the work permit missing report fee appear on the pending fees view as an overdue payment?
+No, the work permit missing report fee is a service charge, and it is up to the user to complete the payment or cancel
+the request. It will not appear as an overdue payment.
+
+6. Can I report an employee as missing if they have gone missing a long time ago?
+Yes, you can still report an employee as missing even if a long time has passed. However, it is recommended to
+report the case as soon as possible to avoid additional charges or complications.
+
+7. What should I do if I want to withdraw the missing work permit report after submitting it? What happens if
+the employee returns after the missing report is submitted?
+If you wish to withdraw a missing work permit report, refer to the "Work Permit Missing Report Withdrawal User
+Guide" for step-by-step instructions. You can withdraw the report within the initial 7-day period OR after the missing
+report has been approved.
+
+8. How will I know the status of my missing work permit report?
+You can track the status of your missing work permit report through the system. It will display various stages, such
+as "On-Hold" and "Pending Verification." Additionally, detailed information about the current status will be provided,
+including linked requests, such as the LRA investigation or the Missing Report Decision.
+
+9. What happens if the missing report investigation lasts more than 30 days?
+If the investigation exceeds 30 days, the employer can cancel the work permit and free up the quota slot after settling
+all necessary dues. The investigation process will continue, and the decision will be made based on the findings.
+
+10. Can I still proceed with the missing report if I don't have all the required documents?
+Yes, if you are unable to provide the required documents, you can declare this in the system. You will be able to
+proceed without uploading the documents by selecting the appropriate declaration.
+
+11. What penalties will I face if my employee's absence is determined to be due to employer negligence?
+If it is determined that the employee's absence was due to employer negligence, you will be fined MVR 2,000. This
+fine must be paid within 30 days, and failure to pay may result in service suspension.
+
+                                                                                                                                  Page 11 of 11
+

@@ -1,0 +1,30 @@
+         BIOMETRIC UPDATES & REPORTS USER GUIDE
+
+How to navigate to Work Permit & Fingerprint Date live view report
+
+Login to https://xpat.egov.mv and go to "work permit" and click on "View Workpermit & Fingerprint Date"
+                                                              List View
+
+                                                                                                                                      Page 1 of 3
+How to take Work Permit Biometric Report
+
+Step 1: Go to "work permit" and click on "Reports". Click on "+ New Report".
+
+Step 2: Click "Workpermit Biometric Report" and click "Next"
+
+Optionally, you may add additional data fields
+
+                                                                              Page 2 of 3
+The system will begin generating the required report, displaying the status as "Processing." Once completed, the
+status will update to "Issued," and you can proceed to download it. (view while report processing below)
+
+                                                         View once report is ready
+
+Click the parts to download. (multiple parts only if the file is too large)
+
+Additional information
+
+Where to find the Fingerprint last updated on date within the work permit view:
+
+                                                                                                                                      Page 3 of 3
+

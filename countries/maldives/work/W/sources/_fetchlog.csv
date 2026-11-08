@@ -1,0 +1,49 @@
+name,url,access_date,http_status,content_type,method,files
+immigration-mv-work-visa,https://immigration.gov.mv/visa/work-visa,2026-11-08,200,text/html; charset=utf-8,curl,immigration-mv-work-visa.html;immigration-mv-work-visa.md;immigration-mv-work-visa.txt
+news-corporatemaldives-immigrant-worker-regulation,https://corporatemaldives.com/?p=75575,2026-11-08,200,text/html; charset=UTF-8,curl,news-corporatemaldives-immigrant-worker-regulation.html;news-corporatemaldives-immigrant-worker-regulation.md;news-corporatemaldives-immigrant-worker-regulation.txt
+mira-mv-work-permit-fee-faq-FAILED,https://www.mira.gov.mv/Pages/View/FAQ_WorkPermitFee,2026-11-08,403,text/html; charset=UTF-8,curl,
+gazette-mv-homeland-293978,https://gazette.gov.mv/iulaan/print/293978,2026-11-08,200,text/html; charset=UTF-8,curl,gazette-mv-homeland-293978.html;gazette-mv-homeland-293978.md;gazette-mv-homeland-293978.txt
+onegov-mv-new-work-permit-guideline,https://one.gov.mv/support/guidelines/new-work-permit-services-130,2026-11-08,200,,firecrawl,onegov-mv-new-work-permit-guideline.md
+mira-mv-work-permit-fee-faq,https://www.mira.gov.mv/Pages/View/FAQ_WorkPermitFee,2026-11-08,200,,firecrawl,mira-mv-work-permit-fee-faq.md
+xpat-mv-home,https://xpat.egov.mv/,2026-11-08,200,,firecrawl,xpat-mv-home.md
+xpat-mv-letter-of-appointment-template,https://xpat.egov.mv/Home/ViewAnnouncement/82,2026-11-08,200,,firecrawl,xpat-mv-letter-of-appointment-template.md
+xpat-mv-r120-major-changes,https://xpat.egov.mv/downloads/major-changes-in-regulation-on-expatriate-employment-2025-r-120.pdf,2026-11-08,200,application/pdf,curl,xpat-mv-r120-major-changes.pdf;xpat-mv-r120-major-changes.txt
+xpat-mv-medical-requirement-details,https://xpat.egov.mv/downloads/medical_requirement_details_v2.pdf,2026-11-08,200,application/pdf,curl,xpat-mv-medical-requirement-details.pdf;xpat-mv-medical-requirement-details.txt
+xpat-mv-work-permit-verify-form,https://xpat.egov.mv/Home/WorkPermitVerify,2026-11-08,200,,firecrawl,xpat-mv-work-permit-verify-form.md
+xpat-mv-notifications,https://xpat.egov.mv/Home/NotificationsView,2026-11-08,200,,firecrawl,xpat-mv-notifications.md
+guide-careersmv-hiring-foreign-workers-FAILED,https://careersmv.com/guides/hiring-foreign-workers-in-the-maldives,2026-11-08,403,text/html; charset=UTF-8,curl,
+news-atolltimes-expat-salary-bank-accounts,https://atolltimes.mv/post/news/17168,2026-11-08,200,text/html; charset=UTF-8,curl,news-atolltimes-expat-salary-bank-accounts.html;news-atolltimes-expat-salary-bank-accounts.md;news-atolltimes-expat-salary-bank-accounts.txt
+guide-labourbooking-maldives-corridors,https://labourbooking.com/insights/maldives-labour-corridors-work-visa.html,2026-11-08,200,text/html; charset=utf-8,curl,guide-labourbooking-maldives-corridors.html;guide-labourbooking-maldives-corridors.md;guide-labourbooking-maldives-corridors.txt
+news-edition-amended-expat-regulations,https://edition.mv/news/46778,2026-11-08,200,text/html;charset=utf-8,curl,news-edition-amended-expat-regulations.html;news-edition-amended-expat-regulations.md;news-edition-amended-expat-regulations.txt
+gazette-mv-regulation-2025-r-120,https://storage.googleapis.com/gazette.gov.mv/docs/gazette/7649.pdf,2026-11-08,200,application/octet-stream,curl,gazette-mv-regulation-2025-r-120.pdf;gazette-mv-regulation-2025-r-120.txt
+xpat-mv-work-permit-deposit-rates,https://xpat.egov.mv/Home/ViewAnnouncement/80,2026-11-08,200,application/pdf,curl,xpat-mv-work-permit-deposit-rates.pdf;xpat-mv-work-permit-deposit-rates.txt
+xpat-mv-expat-health-insurance-requirement,https://xpat.egov.mv/Home/ViewAnnouncement/65,2026-11-08,200,application/pdf,curl,xpat-mv-expat-health-insurance-requirement.pdf;xpat-mv-expat-health-insurance-requirement.txt
+xpat-mv-registered-insurance-providers,https://xpat.egov.mv/Home/ViewAnnouncement/68,2026-11-08,200,application/pdf,curl,xpat-mv-registered-insurance-providers.pdf;xpat-mv-registered-insurance-providers.txt
+xpat-mv-registered-medical-providers,https://xpat.egov.mv/Home/ViewAnnouncement/88,2026-11-08,200,application/pdf,curl,xpat-mv-registered-medical-providers.pdf;xpat-mv-registered-medical-providers.txt
+xpat-mv-work-permit-medical-user-guide,https://xpat.egov.mv/Home/ViewAnnouncement/89,2026-11-08,200,application/pdf,curl,xpat-mv-work-permit-medical-user-guide.pdf;xpat-mv-work-permit-medical-user-guide.txt
+xpat-mv-employee-self-cancellation-form,https://xpat.egov.mv/Home/ViewAnnouncement/81,2026-11-08,200,application/pdf,curl,xpat-mv-employee-self-cancellation-form.pdf;xpat-mv-employee-self-cancellation-form.txt
+xpat-mv-occupation-categorization,https://xpat.egov.mv/Home/ViewAnnouncement/170,2026-11-08,200,application/pdf,curl,xpat-mv-occupation-categorization.pdf;xpat-mv-occupation-categorization.txt
+health-mv-predeparture-health-assessment-guideline-2025,https://health.gov.mv/storage/uploads/VYx1AWqP/ztvenxcg.pdf,2026-11-08,200,application/pdf,curl,health-mv-predeparture-health-assessment-guideline-2025.pdf;health-mv-predeparture-health-assessment-guideline-2025.txt
+news-psm-mipss-bangladesh-FAILED,https://psmnews.mv/en/17559,2026-11-08,403,text/html; charset=UTF-8,curl,
+dhiraagu-mv-sim-regulation-2023-FAILED,https://www.dhiraagu.com.mv/about-us/media-centre/announcements/changes-subject-to-sim-regulation-2023r-136,2026-11-08,403,text/html; charset=UTF-8,curl,
+bml-mv-expatriate-account-FAILED,https://www.bankofmaldives.com.mv/personal/personal-accounts/expatriate-account,2026-11-08,403,text/html; charset=UTF-8,curl,
+bml-mv-account-opening-checklist,https://www.bankofmaldives.com.mv/storage/file/139/8910/checklist-for-account-opening-information-form-personal-en.pdf,2026-11-08,200,application/pdf,curl,bml-mv-account-opening-checklist.pdf;bml-mv-account-opening-checklist.txt
+bml-mv-sample-employment-letter,https://www.bankofmaldives.com.mv/storage/file/94/4895/sample-employment-letter-for-expatriate-account-opening-en.pdf,2026-11-08,200,application/pdf,curl,bml-mv-sample-employment-letter.pdf;bml-mv-sample-employment-letter.txt
+bml-mv-expatriate-account,https://www.bankofmaldives.com.mv/personal/personal-accounts/expatriate-account,2026-11-08,200,,firecrawl,bml-mv-expatriate-account.md
+dhiraagu-mv-sim-regulation-2023,https://www.dhiraagu.com.mv/about-us/media-centre/announcements/changes-subject-to-sim-regulation-2023r-136,2026-11-08,200,,firecrawl,dhiraagu-mv-sim-regulation-2023.md
+dhiraagu-mv-prepaid-form,https://www.dhiraagu.com.mv/clients/Dhiraagu_CA2BB809-3A22-485B-A518-DA6B6DE653A5/contentms/img/document/application/2023/Prepaid-Form-(22Nov2023).pdf,2026-11-08,200,application/pdf,curl,dhiraagu-mv-prepaid-form.pdf;dhiraagu-mv-prepaid-form.txt
+mmdc-mv-page-1924-FAILED,https://mmdc.gov.mv/?p=1924,2026-11-08,522,text/html; charset=UTF-8,curl,
+mmdc-mv-page-1500-FAILED,https://mmdc.gov.mv/?p=1500,2026-11-08,522,text/html; charset=UTF-8,curl,
+mmdc-mv-fees-FAILED,https://mmdc.gov.mv/wp-content/uploads/Fees-And-Sturucture1.pdf,2026-11-08,522,text/html; charset=UTF-8,curl,
+mmdc-mv-recognised-institutions-FAILED,https://mmdc.gov.mv/?p=1461,2026-11-08,522,text/html; charset=UTF-8,curl,
+mmdc-mv-exam-schedule-2026-FAILED,https://mmdc.gov.mv/wp-content/uploads/MALDIVES-MEDICAL-AND-DENTAL-COUNCIL-LICENSING-EXAM-SCHEDULE2026.pdf,2026-11-08,522,text/html; charset=UTF-8,curl,
+boesl-bd-job-in-maldives-4-FAILED,https://boesl.portal.gov.bd/sites/default/files/files/boesl.portal.gov.bd/notices/f8d4d808_3f4c_418e_9750_4465db8b26e5/Job%20in%20Maldives%204.pdf,2026-11-08,000,,curl,
+gazette-mv-mqa-foreigner-form,https://storage.googleapis.com/gazette.gov.mv/docs/iulaan/29374.pdf,2026-11-08,200,application/pdf,curl,gazette-mv-mqa-foreigner-form.pdf;gazette-mv-mqa-foreigner-form.txt
+mmdc-mv-fees,https://mmdc.gov.mv/wp-content/uploads/Fees-And-Sturucture1.pdf,2026-11-08,200,application/pdf,wayback:20260227055514,mmdc-mv-fees.pdf;mmdc-mv-fees.txt
+boesl-bd-job-in-maldives-4,https://boesl.portal.gov.bd/sites/default/files/files/boesl.portal.gov.bd/notices/f8d4d808_3f4c_418e_9750_4465db8b26e5/Job%20in%20Maldives%204.pdf,2026-11-08,200,application/pdf,wayback:20170918211323,boesl-bd-job-in-maldives-4.pdf;boesl-bd-job-in-maldives-4.txt
+health-mv-mnmc-doc-g2o4sv5d,https://health.gov.mv/storage/uploads/edYGyBol/g2o4sv5d.pdf,2026-11-08,200,application/pdf,curl,health-mv-mnmc-doc-g2o4sv5d.pdf;health-mv-mnmc-doc-g2o4sv5d.txt
+news-adhadhu-teacher-licensing-rules,https://adhadhu.com/40554,2026-11-08,200,text/html,curl,news-adhadhu-teacher-licensing-rules.html;news-adhadhu-teacher-licensing-rules.md;news-adhadhu-teacher-licensing-rules.txt
+xpat-mv-employer-negligence-list,https://xpat.egov.mv/EmploymentApproval/EmploymentApprovalMissingPerson/MissingNegligenceEmployerList,2026-11-08,200,,firecrawl,xpat-mv-employer-negligence-list.md
+guide-careersmv-work-permit-work-visa,https://careersmv.com/guides/maldives-work-permit-and-work-visa,2026-11-08,200,,firecrawl,guide-careersmv-work-permit-work-visa.md
+guide-careersmv-hiring-foreign-workers,https://careersmv.com/guides/hiring-foreign-workers-in-the-maldives,2026-11-08,200,,firecrawl,guide-careersmv-hiring-foreign-workers.md
+lra-mv-employment-act-english,https://lra.gov.mv/wp-content/uploads/2020/07/Employment-Act-Unofficial-English-Translation.pdf,2026-11-08,200,application/pdf,curl,lra-mv-employment-act-english.pdf;lra-mv-employment-act-english.txt

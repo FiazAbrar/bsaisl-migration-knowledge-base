@@ -6,6 +6,7 @@ Countries:
 - [Malaysia](countries/malaysia/) (draft, under review)
 - [Qatar](countries/qatar/) (draft, under review)
 - [United Arab Emirates](countries/united-arab-emirates/) (draft, under review)
+- [Maldives](countries/maldives/) (draft, under review)
 
 For all countries:
 
