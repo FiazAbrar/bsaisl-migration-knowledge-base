@@ -362,3 +362,9 @@ upension-bd-helpdesk,https://www.upension.gov.bd/Public/HelpDesk,2026-11-08,200,
 upension-bd-packages,https://www.upension.gov.bd/Public/Packages,2026-11-08,200,text/html; charset=utf-8,curl,upension-bd-packages.html;upension-bd-packages.md;upension-bd-packages.txt
 upension-bd-pension-brief-en,https://www.upension.gov.bd/Public/PensionBriefEn,2026-11-08,200,text/html; charset=utf-8,curl,upension-bd-pension-brief-en.html;upension-bd-pension-brief-en.md;upension-bd-pension-brief-en.txt
 visanewsbd-maldives-cost-2026,https://visanewsbd.com/maldives-jete-koto-taka-lage/,2026-11-08,200,text/html; charset=UTF-8,curl,visanewsbd-maldives-cost-2026.html;visanewsbd-maldives-cost-2026.md;visanewsbd-maldives-cost-2026.txt
+hc-male-fb-2024-05-22,https://www.facebook.com/BangladeshHighCommissionMaldives,2026-11-09,200,,manual,hc-male-fb-2024-05-22.jpg;hc-male-fb-2024-05-22.txt
+hc-male-fb-2025-08-17,https://www.facebook.com/BangladeshHighCommissionMaldives,2026-11-09,200,,manual,hc-male-fb-2025-08-17.jpg;hc-male-fb-2025-08-17.txt
+hc-male-fb-2026-10-23,https://www.facebook.com/BangladeshHighCommissionMaldives,2026-11-09,200,,manual,hc-male-fb-2026-10-23.jpeg;hc-male-fb-2026-10-23.txt
+customs-mv-cash-declaration,https://www.customs.gov.mv/CashDeclaration/Index,2026-11-09,200,,manual,customs-mv-cash-declaration.html;customs-mv-cash-declaration.md
+mira-remittance-tax-status,https://mira.gov.mv/Legislations/View/remittance-tax-regulation-consolidated,2026-11-09,200,,manual,mira-remittance-tax-status.html;mira-remittance-tax-status.md
+xpat-mv-requires-fingerprint,https://xpat.egov.mv/Home/RequiresFingerprint,2026-11-09,200,,manual,xpat-mv-requires-fingerprint.html;xpat-mv-requires-fingerprint.md

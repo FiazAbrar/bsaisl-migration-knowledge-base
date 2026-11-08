@@ -296,7 +296,7 @@ These are the questions the Maldives migration guide can't yet answer, grouped b
 
 ## Sending money home
 
-- Is any tax taken in 2026 when a foreign worker sends money abroad? (A 3% remittance tax was repealed from 1 January 2020, but an August 2026 report says a 3% tax applies to transfers.)
+- Is any tax taken in 2026 when a foreign worker sends money abroad? (A 3% remittance tax was repealed from 1 January 2020, but an August 2026 report says a 3% tax applies to transfers, and MIRA's website still shows the 2016 Remittance Tax Regulation without a repealed mark.)
 - What is the monthly cap for a foreign worker paid in rufiyaa at Bank of Maldives, Maldives Islamic Bank and Commercial Bank of Maldives in November 2026?
 - What does a worker do if the employer keeps paying cash after the new rule: where and how to report it?
 

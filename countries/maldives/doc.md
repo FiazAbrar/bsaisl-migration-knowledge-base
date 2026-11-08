@@ -17,7 +17,7 @@ Open, and busy: the Maldives was Bangladesh's fourth-largest destination in 2026
 #### Status
 
 - **New work visas:** being issued. In October 2026 the Bangladesh High Commission in Malé told people coming on a new work visa to collect their BMET smart card (the emigration clearance card) before travelling (Step 6: Orientation, BMET clearance and the flight) [N0104].
-- **Fraud warning, 23 October 2026:** the High Commission warned of fraud, false promises and illegal money collection in the name of jobs, visas and work permits, and asked anyone cheated to report it rather than stay silent [N0103]. It told people not to pay anyone who promises a guaranteed job, a quick work permit or to "regularise" a visa, and not to pay more than the government-set cost (see Scams) [N0105].
+- **Fraud warning, 23 October 2026:** the High Commission warned of fraud, false promises and illegal money collection in the name of jobs, visas and work permits, and asked anyone cheated to report it rather than stay silent [N0103, Z0012]. It told people not to pay, without checking first, anyone who promises a guaranteed job, a quick work permit or to "regularise" a visa, and never to pay more than the government-set cost (see Done to workers) [N0105].
 - **Quotas closed for some jobs:** in December 2025 the Ministry of Homeland Security, Labour and Technology stopped issuing quotas at once for taxi drivers, co-pilots, ship captains, entertainment workers and shop cashiers, with more jobs phased out over two to five years [N0106].
 - **Demand:** in July 2026 the Maldives High Commissioner in Dhaka said the government is regularising undocumented workers and wants more skilled Bangladeshis, such as nurses and accountants, but Regulation 2025/R-120 ends quotas for accountants two years, and for nurses three years, after 14 December 2025 (see How long you can stay) [N0101, N0102, W0139, W0140, W0047, N0106]. Construction demand comes from land reclamation at RasMale, Gulhi Falhu, Thilafushi and Uthuru Thila Falhu, the new Velana airport terminal and new resorts [N0039].
 
@@ -58,7 +58,7 @@ Anyone aged 18 or over whom a Maldivian employer with a valid quota names on a w
 - **18 September 2019:** the Ministry of Economic Development banned new unskilled Bangladeshi workers to tackle undocumented workers [N0012].
 - **After the ban:** the sixth amendment to the Employment Act, under President Solih, capped workers from any one country at 100,000 [N0014, N0013].
 - **17 December 2023:** the new government reopened unskilled hiring from Bangladesh, and paused unskilled hiring from other countries [N0009]. 14,689 permits went to 3,174 employers almost at once [N0019].
-- **30 March 2024:** recruitment from Bangladesh stopped after employers brought people in large numbers and some transactions were flagged for trafficking [N0020]. The minister said companies had submitted forged documents [N0026]. The High Commission's labour wing said some companies brought workers in on false job offers and left them jobless, possibly to extort them, and a Bangladeshi syndicate was implicated; the workers had proper visas [N0027, N0028]. 6,436 had BMET clearance by 22 May 2024, and many could not fly [N0008].
+- **30 March 2024:** recruitment from Bangladesh stopped after employers brought people in large numbers and some transactions were flagged for trafficking [N0020]. On 22 May 2024 the High Commission announced that the Maldives had stopped new work visas for Bangladeshis because its law allowed 100,000 workers from one country [Z0010]. The minister said companies had submitted forged documents [N0026]. The High Commission's labour wing said some companies brought workers in on false job offers and left them jobless, possibly to extort them, and a Bangladeshi syndicate was implicated; the workers had proper visas [N0027, N0028]. 6,436 had BMET clearance by 22 May 2024, and many could not fly [N0008].
 - **9 February 2021:** Bangladesh and the Maldives signed an MoU (memorandum of understanding) on recruitment, including the regularisation of undocumented workers [N0111].
 - **29 June 2024:** Bangladeshis allowed again, but only for government projects; later, private employers paying their fees could bring up to 10 each [N0021, N0022].
 - **September 2024:** the eighth amendment replaced the fixed 100,000 cap with numbers and sectors set by regulation on the Cabinet's advice; the minister said the total would follow demand, "whether it be 100,000, 110,000 or 120,000" [N0035, N0037, N0038].
@@ -89,7 +89,7 @@ The quota is the root: a Maldivian employer pays the state for each foreign-work
 
 #### Company visa and "free visa"
 
-A Maldives work permit ties you to the company that applied for it [N0030]. A "free visa" is a permit from one company used to work for someone else; the High Commission says there is no such thing, and breaking the rule can mean arrest at any time and deportation (see If your employer reports you absconded) [N0030, V0082, N0031]. Workers who leave the employer named on the permit lose their legal status, because the employer files a "missing" report [N0088]. Some do it because the promised job was never there [N0118].
+A Maldives work permit ties you to the company that applied for it [Z0011]. A "free visa" is a permit from one company used to work for someone else; the High Commission says there is no such thing, and breaking the rule can mean arrest at any time and deportation (see If your employer reports you absconded) [Z0011, V0082]. Workers who leave the employer named on the permit lose their legal status, because the employer files a "missing" report [N0088]. Some do it because the promised job was never there [N0118].
 
 #### The broker and the village
 
@@ -153,9 +153,9 @@ The Maldives sent USD 38.05 million to Bangladesh in July-September 2026, 21st a
 
 ### What ties you to the employer
 
-Completely: your work permit names one employer, and working for anyone else, or moving without the ministry's procedure, makes you illegal [N0030, U0054, L0102].
+Completely: your work permit names one employer, and working for anyone else, or moving without the ministry's procedure, makes you illegal [Z0011, U0054, L0102].
 
-- **To enter:** only an employer's permit and Entry Pass get a Bangladeshi worker in; the employer gets the work e-Visa within 15 days of arrival, and a tourist cannot switch (see Step 3: The employer gets your work permit and entry pass) [V0074, W0002, W0003, V0079].
+- **To enter:** only an employer's permit and Entry Pass get a Bangladeshi worker in; the employer gets the work e-Visa within 15 days of arrival, and a tourist cannot switch (see Step 3: The employer gets your work permit and entry pass) [V0074, W0002, W0003, Z0018].
 - **To stay legal:** the employer pays the permit fees; if it stops, your permit is cancelled and your visa shows as invalid, through no fault of yours [L0114, U0097]. In December 2023 only 39,004 of 139,220 Bangladeshi permits were being paid [N0017].
 - **To quit:** the High Commission's model contract asks 2 months' notice or 2 months' pay, and you buy your own ticket home [B0134].
 - **To change employer:** you need a no-objection letter from the current employer, with narrow exceptions when the employer stops paying fees or is found negligent (see If you want to change employer) [L0118, L0106, L0107].
@@ -170,7 +170,7 @@ The Maldives government names withheld passports and unpaid or underpaid wages a
 
 #### What people believe, and the facts
 
-- **"A free visa or open visa lets you work anywhere."** No visa does; the permit is for one company, and the "open visa" is a tourist visa [N0030, N0074].
+- **"A free visa or open visa lets you work anywhere."** No visa does; the permit is for one company, and the "open visa" is a tourist visa [Z0011, N0074].
 - **"I've got a real visa, so a job is waiting."** In 2024 workers with proper visas arrived to find no job [N0028]. The High Commission tells workers to check the visa and the employer before coming (Step 5: Check your permit and visa are real) [N0124].
 - **"Come as a tourist; the permit gets done there."** One Maldivian employer brought a returnee back on a tourist visa planning to arrange a permit, and failed [N0090]. Bangladeshis suspected of coming to work are refused entry at the airport (see Step 3: At the airports) [N0091].
 - **"Once there I can run a shop."** Business is illegal for migrant workers; Bangladeshi shop owners have been selling up to Maldivians [N0089].
@@ -440,7 +440,7 @@ The regulation counts these days without government holidays [W0150].
 
 4. **Use the Xpat MV app as a second check.** The regulation provides no physical work permit card; the official Xpat MV app holds a digital card, added with your work permit number and passport number, and its QR code checks the permit against Xpat [W0156]. The app was last updated in 2023 [W0157].
 
-5. **Check whether you must give fingerprints.** The Fingerprint Requirement page on xpat.egov.mv needs only your passport number and country, and tells you only whether you must enrol fingerprints [W0159, W0051].
+5. **Check whether you must give fingerprints.** The Fingerprint Requirement page on xpat.egov.mv needs only your passport number and country, and tells you only whether you must enrol fingerprints [Z0017, W0051].
 
 > **Need to know**
 > - What does the Work Permit Verification result show (employer, occupation, expiry date, status)?
@@ -819,10 +819,10 @@ A company worker cannot bring a spouse, children or parents to live with him: on
 
 #### Done to workers
 
-Report it to the High Commission's labour wing in Malé (hotline +960 7648006, WhatsApp), which asks cheated workers to come forward, and in Bangladesh as in Step 1: Find a real job [N0103, B0081].
+Report it to the High Commission's labour wing in Malé (hotline +960 7648006, WhatsApp), which asks cheated workers to come forward; you can also report a broker to the Maldives Police on 119 or 332-2111 (investigations@police.gov.mv), and in Bangladesh as in Step 1: Find a real job [Z0012, Z0013, B0081].
 
 - **Jobs that don't exist.** Companies brought workers in on real visas, left them jobless, possibly to extort them; a Bangladeshi syndicate was implicated [N0027, N0028].
-- **"Free visa" and "open visa".** Sold as a right to work anywhere; it can mean arrest and deportation [N0030, N0031, N0074].
+- **"Free visa" and "open visa".** Sold as a right to work anywhere; it can mean arrest and deportation [Z0011, N0074].
 - **Paying to "regularise" or for a fast permit.** The High Commission warns against paying anyone who promises this; the last legalisation window closed on 2 May 2026 (see Undocumented workers: regularisation) [N0105, U0025].
 - **A "business visa" or "special visa" sold as a work visa.** Since 15 September 2026 nobody who entered on one can get a work permit without leaving the Maldives [W0032].
 - **Employers who bring workers and abandon them.** Check the employer against Xpat's negligence list before paying (Step 5, item 2) [W0052, W0046].
@@ -832,7 +832,7 @@ Report it to the High Commission's labour wing in Malé (hotline +960 7648006, W
 #### Tried by workers
 
 - **Forged papers.** Traffickers target Bangladeshis entering on falsified passports, and forged company documents led to the 2024 halt [N0059, N0026]. An employer that submits forged certificates for a professional job takes full responsibility for them (Work visa: professional (teachers, doctors, nurses, engineers)) [W0112].
-- **Working for someone else on a "free visa".** It can mean arrest and deportation [N0030, N0031].
+- **Working for someone else on a "free visa".** It can mean arrest and deportation [Z0011].
 - **Running a business on a work visa.** It is illegal, and it is the main reason Bangladeshis are detained in raids [N0089, U0123].
 - **Marrying to stay legal.** The Family Court now asks for a valid visa and passport before a marriage (see Marriage visa (spouse of a Maldivian)) [F0072, F0074].
 
@@ -1025,7 +1025,7 @@ A relative or friend in the Maldives can sponsor your visit through a Sponsorshi
 
 ### Can you work on a tourist visa?
 
-No. A tourist visa is for people with no intention to work or earn [V0114]. Every foreigner must stay within the conditions of the visa, and an employer may not hire anyone without a work visa [V0042, V0041]. Breaking the Immigration Act costs a foreigner a fine of MVR 15,000 to 50,000 (about Tk 1.2 to 4 lakh), and Immigration may deport the person and bar re-entry for a set period [V0044, V0045, G0015, G0014]. In 2021 Immigration took legal action against sixty foreigners after complaints that resorts and other businesses used foreigners as musicians and photographers without proper visas [V0089]. The High Commission warns that people who try to work on a tourist visa face jail and a fine, and that anyone who enters on one visa and works elsewhere is arrested and sent back to Bangladesh [V0080, V0083].
+No. A tourist visa is for people with no intention to work or earn [V0114]. Every foreigner must stay within the conditions of the visa, and an employer may not hire anyone without a work visa [V0042, V0041]. Breaking the Immigration Act costs a foreigner a fine of MVR 15,000 to 50,000 (about Tk 1.2 to 4 lakh), and Immigration may deport the person and bar re-entry for a set period [V0044, V0045, G0015, G0014]. In 2021 Immigration took legal action against sixty foreigners after complaints that resorts and other businesses used foreigners as musicians and photographers without proper visas [V0089]. The High Commission warns that people who try to work on a tourist visa face jail and a fine, and that anyone who enters on one visa and works elsewhere is arrested and sent back to Bangladesh [Z0018, V0083].
 
 **Overstaying:** a foreigner must leave when the visa ends [V0043]. Staying without a valid visa is prohibited and punished as above [V0040, V0044]; staying over 60 days without permission has brought fines of MVR 15,000 or deportation [V0091]. For what happens after arrest, see Going home without valid papers.
 
@@ -1035,7 +1035,7 @@ No. A tourist visa is for people with no intention to work or earn [V0114]. Ever
 
 - **Paid "IMUGA" or "Maldives visa" sites:** the visa on arrival and the declaration are free; sites and people charging for them are scams [V0006, V0015, V0092].
 - **Fake hotel bookings sold with "packages":** travellers carrying fake bookings are sent back from Velana [V0085].
-- **A "job" or "free visa" on a tourist visa:** no free visa exists, a tourist can never switch to a work visa, and working on the wrong visa ends in arrest and removal [V0082, V0079, V0083].
+- **A "job" or "free visa" on a tourist visa:** no free visa exists, a tourist can never switch to a work visa, and working on the wrong visa ends in arrest and removal [V0082, Z0018, V0083].
 
 #### Tried by travellers
 
@@ -1245,7 +1245,7 @@ A special visa lets a foreigner stay for humanitarian work, to continue medical 
 
 ## Visas not open to Bangladeshis
 
-- **A work visa on arrival, or a switch from a tourist visa to a work visa:** since a 2011 Cabinet decision a Bangladeshi worker must hold the work visa before arriving, and a new worker is let in only on an Entry Pass (work permit) issued by the Ministry of Homeland Security, Labour and Technology [V0075, V0074]; the Bangladesh High Commission in Malé says a person who comes as a tourist can never get a work visa (see Changing visa type) [V0079].
+- **A work visa on arrival, or a switch from a tourist visa to a work visa:** since a 2011 Cabinet decision a Bangladeshi worker must hold the work visa before arriving, and a new worker is let in only on an Entry Pass (work permit) issued by the Ministry of Homeland Security, Labour and Technology [V0075, V0074]; the Bangladesh High Commission in Malé says a person who comes as a tourist can never get a work visa (see Changing visa type) [Z0018].
 - **"Free visa":** no such visa category exists in the Maldives [V0082].
 - **A visit sponsored by a relative who is a company worker:** only a Maldivian citizen or a foreigner on a professional-category work visa can sponsor a visitor (see Visiting a relative (sponsored visit)) [V0054].
 - **A multiple-entry tourist visa:** the Immigration Act allows multiple-entry permits for every visa type except the tourist and special visas [V0115].
@@ -1253,7 +1253,7 @@ A special visa lets a foreigner stay for humanitarian work, to continue medical 
 
 ## Changing visa type
 
-- **Tourist to work:** not possible; a Bangladeshi worker must have the work visa before arrival and enter on a work-permit Entry Pass (see Step 3: The employer gets your work permit and entry pass) [V0075, V0074, V0079].
+- **Tourist to work:** not possible; a Bangladeshi worker must have the work visa before arrival and enter on a work-permit Entry Pass (see Step 3: The employer gets your work permit and entry pass) [V0075, V0074, Z0018].
 - **Meeting to business:** not possible inside the Maldives [V0121].
 - **To a sponsored visit or dependent visa:** the Sponsorship Declaration can be filed only while the person is outside the Maldives [V0062, V0055].
 - **Business or special visa to work:** not possible without leaving; a worker needs a Work Permit Entry Pass issued before travel [W0032].
@@ -1305,7 +1305,7 @@ A child born in the Maldives to two Bangladeshi parents does not become Maldivia
 **Your wages now go into a bank account.** Since 25 September 2026, employers must pay all foreign workers' salaries and benefits into a bank account in the worker's own name at a bank licensed by the MMA (how to open one: Step 7: After arrival, item 7) [W0147, G0017, G0018, G0020]. Paying wages in cash is no longer allowed; an employer who breaks the rule risks losing work-permit quota, a fine, blacklisting on Xpat and referral to investigators [G0020, G0021].
 
 > **Need to know**
-> - Is any tax taken in 2026 when a foreign worker sends money abroad? (A 3% remittance tax was repealed from 1 January 2020, but an August 2026 report says a 3% tax applies to transfers.)
+> - Is any tax taken in 2026 when a foreign worker sends money abroad? (A 3% remittance tax was repealed from 1 January 2020, but an August 2026 report says a 3% tax applies to transfers, and MIRA's website still shows the 2016 Remittance Tax Regulation without a repealed mark [G0022, G0025, Z0016].)
 > - What is the monthly cap for a foreign worker paid in rufiyaa at Bank of Maldives, Maldives Islamic Bank and Commercial Bank of Maldives in November 2026?
 > - What does a worker do if the employer keeps paying cash after the new rule: where and how to report it?
 
@@ -1351,7 +1351,7 @@ Most undocumented Bangladeshis entered legally and lost their status after arriv
 ### Step 1: Check your status
 
 1. **Check your work permit** on Xpat's Work Permit Verification page, as in Step 5, item 1 [U0098].
-2. **Check your fingerprints are on record** at xpat.egov.mv/Home/RequiresFingerprint: type your passport number, choose "Bangladesh", then "Check" [U0100]. Workers without fingerprints taken under Operation Kurangi were the target of the 2026 raids [U0049].
+2. **Check your fingerprints are on record** at xpat.egov.mv/Home/RequiresFingerprint: type your passport number, choose "Bangladesh", then "Check" [U0100, Z0017]. Workers without fingerprints taken under Operation Kurangi were the target of the 2026 raids [U0049].
 3. **If you were regularised before,** check at xpat.egov.mv/Home/RegularizationVerify with your regularisation number (it looks like RGZ/2026/...) and first name [U0099, U0021].
 4. **Ask your employer** to show your permit in Xpat, which lists your status and the due dates of every fee [U0033].
 
@@ -1499,7 +1499,7 @@ Under the Occupational Safety and Health Act (in force since July 2024), a worke
 
 ## Coming home
 
-- **Leaving the Maldives with cash.** Declare cash or cheques worth USD 10,000 or more in any currency to Maldives Customs, online at [customs.gov.mv/CashDeclaration/Index](https://www.customs.gov.mv/CashDeclaration/Index) [G0037]. Above USD 10,000 you must also show where the money came from, or it can be confiscated [G0038]. Bags are searched: in one case Velana airport security found USD 81,030 hidden in a cornflakes box in a Bangladeshi worker's bag for Dhaka, which he said someone at a guest house had given him [G0036].
+- **Leaving the Maldives with cash.** Declare cash or cheques worth USD 10,000 or more in any currency to Maldives Customs, online at [customs.gov.mv/CashDeclaration/Index](https://www.customs.gov.mv/CashDeclaration/Index) [G0037]. The form asks for your passport details, flight, address in the Maldives, purpose, each currency and amount, and a passport copy, and you declare it is true [Z0014, Z0015]. Above USD 10,000 you must also show where the money came from, or it can be confiscated [G0038]. Bags are searched: in one case Velana airport security found USD 81,030 hidden in a cornflakes box in a Bangladeshi passenger's bag for Dhaka, which he said someone at a guest house had given him [G0036].
 - **Souvenirs you may not take out** without a permit: black coral and other coral, triton shells, pearl oysters, lobsters, turtles and turtle shells, conch shells, giant clams and shark fins [G0039].
 - **Customs in Bangladesh.**
   - Duty-free: 65 kg of baggage, 2 used phones and 1 new phone a year, and once a year, if declared, 100 g of gold or 200 g of silver jewellery (no more than 12 pieces of one type) [G0061, G0062, G0063].
@@ -1571,7 +1571,7 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
    - Maldives Immigration's voluntary return request form ("token") or immigration clearance copy;
    - USD 13 cash [B0111].
 
-   It is ready in 5 to 7 days [B0112]. Sample wording: "I came to the Maldives in [year] for work. I have no valid passport. I need to return to Bangladesh urgently. I attach the papers and request a travel permit." [B0167].
+   It is ready in 5 to 7 days [B0112]. Sample wording: "I came to the Maldives in [year] for work. I have no valid passport. I need to return to Bangladesh urgently because of [family/health] problems. I attach the required papers and fee and request a travel permit." [B0167, Z0009].
 
    > **Need to know**
    > - How does a worker get Immigration's voluntary-return "token", at which counter, and is he detained when he asks for it?
@@ -1593,13 +1593,14 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
 
 **In the Maldives.**
 
-- **Bangladesh High Commission, Malé:** Plot 10982, Street 16, Nirolhu Magu, Hulhumalé; +960 3320859; mission.male@mofa.gov.bd [B0095, B0096]. Sunday to Thursday 9 am to 5 pm [B0098]. High Commissioner: Dr Md Nazmul Islam [B0082].
+- **Bangladesh High Commission, Malé:** Plot 10982, Street 16, Nirolhu Magu, Hulhumalé; +960 3320859; mission.male@mofa.gov.bd [B0095, B0096]. Sunday to Thursday 9 am to 5 pm [B0098]. High Commissioner: Dr Md Nazmul Islam [B0082]. Hotline 3027953 [Z0013].
   - Labour Welfare Wing hotline: +960 7648006 (WhatsApp) [B0081].
   - Labour Welfare Wing: Welfare Assistants Al Mamun Pathan, +960 3027961, and Mohammed Jashim Uddin, +960 3027962; labour.male@mofa.gov.bd [B0091, B0092].
   - Consular Wing (passports, travel permits): Md Ebad Ullah, +960 3027980, and Moynal Hossan, +960 3027991; consular.male@mofa.gov.bd [B0093, B0094].
 - **Department of Foreign Labour, Ministry of Homeland Security, Labour and Technology (work permits, Xpat):** 1485, xpat@home.gov.mv; H. Pamelia, Waterfront Building, Boduthakurufaanu Magu, Malé [W0040, W0041, W0042].
-- **Labour Relations Authority (wage and rights complaints):** 332 8282; online form at lra.gov.mv/submit-a-complaint-form [W0163, L0125].
-- **Maldives Immigration:** call centre 1434, 8.30 am to 2 pm, Sunday to Thursday; 1st floor, Veelanaage, Ameer Ahmed Magu, Malé [V0021, V0022]. Permits section (special visas, extensions): permits@immigration.gov.mv, 9199157, 3330487 [V0053]. Detainee visits: ecdadmin@immigration.gov.mv [U0105].
+- **Labour Relations Authority (wage and rights complaints):** 332 8282, info@lra.gov.mv; online form at lra.gov.mv/submit-a-complaint-form [W0163, Z0013, L0125].
+- **Maldives Police (crimes, trafficking, broker fraud):** 119 or 332-2111, investigations@police.gov.mv [Z0013].
+- **Maldives Immigration:** call centre 1434, 8.30 am to 2 pm, Sunday to Thursday, or 333-0444, info@immigration.gov.mv [V0021, Z0013]; 1st floor, Veelanaage, Ameer Ahmed Magu, Malé [V0021, V0022]. Permits section (special visas, extensions): permits@immigration.gov.mv, 9199157, 3330487 [V0053]. Detainee visits: ecdadmin@immigration.gov.mv [U0105].
 - **Operation Kurangi (fingerprints):** 7690228, operation.kurangi@mohst.gov.mv [U0006].
 - **Maldives Qualifications Authority:** Umar Zahir Office Building, 5th Floor, Orchid Maa Hingun, Hulhumalé; 3041831, 3041829 [R0044].
 
