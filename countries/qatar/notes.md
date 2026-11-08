@@ -3390,3 +3390,222 @@ See `blocked-parts/X.md`.
 ## Verification history
 
 Before the restructure the doc went through five rounds of independent verification (sentences, every number, coverage against the official visa list and both audits): round 1 found 53 FAIL and 79 UNSUPPORTED sentences plus 15 wrong numbers; round 2 (478 changed lines) 18 and 28; round 3 (108 lines) 4 and 12; round 4 (18 lines) 1 and 4; round 5 0 and 1, fixed. Reports and fix logs are kept in the original working folder (Desktop\Malaysia\countries\qatar\verify). After the rewrite into this repo's format (8 Nov 2026) the doc was verified again: round 1 checked every sentence (about 2,100: 161 FAIL, 16 UNSUPPORTED), coverage and the three audits; round 2 checked the 334 changed lines (53 FAIL, 10 UNSUPPORTED) plus a whole-doc consistency check (88 items); round 3 checked the 145 changed lines. Facts H0012 and H0013 were found misattributed to Qatar and corrected.
+
+# Background part 1 research
+
+Draft: `drafts/bg-1.md` ("Is it open now, and who can go?"), 8 Nov 2026. Facts QB0001-QB0014.
+
+**What part 1 replaces in the current Background.** It covers the old "Bans and restrictions", "Numbers" (including the year table, now cut: tables are not allowed; the years that matter are in the closures list) and the status half of "Where things stand". "Government and pilot channels" (BOESL line) is folded into the channels paragraph; the ILO pilot belongs with part 2. Remittances (B0118, B0121), the India comparison (X0049), Qatar's total employment (B0163), the 2024 MoU (W0011), the Armed Forces agreement (B0158), the Joint Committee visa-centre asks (M0064, M0069), the 2-centres line (M0068) and the State Minister's ask for doctors and imams (M0066) were left out of part 1: none says whether the corridor is open or who can go. The lead decides whether any goes in part 0 or "Sending money home".
+
+**New sources.**
+- OEP "Division Wise Clearance" report (www.oep.gov.bd/reports/geo-clearance-count) takes GET filters: `date_from`, `date_to`, `country_name[]` (Qatar = 144), `gender_id` (1 male, 2 female). Saved: Qatar 2025 all, Qatar 2025 women, Qatar 2026 (to 7 Nov) women, all countries 2025. Division totals and shares are my sums of the district rows (QB0003, QB0004). The all-countries total (1,132,516) differs slightly from the country report's 1,132,360 (B0117); unexplained.
+- Sylhet division sends 20.5% of Qatar workers against 8.2% of all workers. QVC (Qatar Visa Center) also has a Sylhet centre (M0013, W0094). No source links the two; not stated in the draft.
+- Daily Star, 9 Mar 2020: Qatar suspended entry from Bangladesh and 13 other countries (COVID) (QB0005). The Daily Star front-page version (node 1878346) failed (404 / timeout); the city-page version was saved.
+- Daily Star, 19 Oct 2025, OKUP study: 56% informal/illegal agents, 7% licensed agencies, 8% family, 31% distant relatives (QB0006-QB0008); 21% paid an average Tk 1,48,880 for work permits after arrival (QB0009, not used here; for part 3). Gulf-wide; no Qatar split.
+- Daily Star 2018 (already saved): the "40 needed, 100 visas approved" mechanism (QB0012) and small firms set up only to trade visas (QB0011, left for part 2). The same article quotes a contractor: a visa costs a Bangladeshi QR 10,000-15,000 against about QR 2,000 for a Nepali; not logged yet, for part 3.
+- Qatar Labour Law Art. 86: no employment under 16 (QB0010). Art. 87 (minors need a guardian's consent and a Department permit) is marked "Amended Canceled" on Al Meezan; not used.
+
+**Searched, not found (each kept as a Need to know).**
+- Share of single vs group visas for Qatar: searched Bangla (সিঙ্গেল ভিসা, গ্রুপ ভিসা, কাতার) and English; only Saudi figures exist (TBS on the 25-worker group-visa attestation rule). OEP's public reports have no visa-type filter. BMET's only posted Qatar permission letter (W0004) against 107,598 clearances suggests almost all go outside posted job orders, but nothing states it.
+- BMET's minimum and maximum age for men: searched Bangla and English; only a 2021 Bangla Tribune quote of a former secretary (no one under 18 can go legally), not saved. The 2013 Act's "অপ্রাপ্ত বয়স্ক" clause is about agency licences, not workers.
+- Qatar upper age for company workers: 2022 news on non-renewal at 60 (Qatar Tribune) and its later relaxation (Qatar Living, undated); not saved or used; needs an official MOL/MOI source.
+- Skill test: no Qatar skill-verification scheme comparable to Saudi Arabia's found; only the 2026 Labour Law Art. 23 bis certificate (L0073), whose profession list was not found.
+- Why 2026 clearances are about half of 2025's: no report found.
+- Bonik Barta (bb-invisible-visa-trade-market, saved 8 Nov by another writer, not registered in sources.csv): TIB minimum visa price Tk 1.2 lakh for Qatar; street cost Tk 5-6 lakh. For part 3.
+
+**Pages we could not download.** Firecrawl credits ran out on 8 Nov (resets about 17:50 UTC); en.prothomalo.com op-ed was already saved. Daily Star node 1878346 (curl failed).
+
+# Background part 4 research
+
+Draft: `drafts/bg-4.md` ("What ties you to the employer"). New facts QE0001-QE0025.
+
+**New sources**
+- `amnesty-reality-check-2021` (Amnesty, Nov 2021, PDF): worker tied to kafeel from entry; worker, not sponsor, punished when RP not renewed (QE0001); employers charging QR 5,000-15,000 to "release" workers (QE0002); 609 passport-confiscation complaints Sep 2020-Aug 2021 per government (QE0003); passport confiscation rampant for domestic workers (QE0004); worker left with no sponsor and expired ID (QE0005).
+- `dohaguides-free-visa` (Doha Guides, updated 11 Nov 2025): free visa QR 5,000-10,000 plus sometimes QR 250-500 a month to sponsor (QE0019); sponsor needed to renew, sellers vanish (QE0020); fines/jail/deportation if caught (QE0021); thousands of riyals to change sponsor (QE0022); reader comment (Feb 2024) paying QR 3,000 for a QID renewal not done (QE0023). pandoc hung on this page (huge comment thread); the .md text copy was made with a Python tag-strip and logged with `fetch.py --log ... manual`.
+
+**Reused saved sources, new rows**
+- ILO 2024 annual report: 50,127 men + 10,124 women job changes approved to Sep 2024 (QE0006); 3,399 domestic-worker changes in 2024 (QE0007); most employers still ask for NOC or equivalent when hiring locally (QE0008); paper-form errors a main rejection reason, new platform May 2024 (QE0009). Also says job-change approvals rose ~830% in the first year after Sep 2020 (not used).
+- US TIP 2025: leaving Qatar generally works (QE0010); domestic workers' 72-hour notice lets employers retaliate (QE0011); fees to "release" (QE0012); domestic workers need "release paper" (QE0013); free-visa sponsors seek regular payments (QE0014); free visas up after World Cup (QE0015, unused, belongs in part 2 or 5); Hayya cards used for illegal recruitment (QE0016, unused, belongs in part 5); employers' unilateral power to cancel RPs or file countercharges (QE0017).
+- HRW 2023: "release papers" is the workers' word (QE0018).
+- Labour Law Art. 3 (Law 9 of 2026 text): casual work (QE0025) and agriculture/grazing (QE0024) excluded.
+
+**Searches**
+- Firecrawl: out of credits (8 Nov), not used.
+- WebSearch EN: free-visa sponsor payments and renewal; expired QID liability; passport confiscation surveys 2023-2025 (latest figure found: Qatar University 2013 survey, 86% passports held by employers; not saved, too old); government-sector and QatarEnergy job-change rules (nothing authoritative; Doha Guides says some government sectors may still need NOC, not saved).
+- WebSearch BN: "কাতারে ফ্রি ভিসা আইডি মেয়াদ শেষ", "কাতারে পাসপোর্ট কোম্পানির কাছে জমা": nothing Qatar-specific on passport holding or free-visa renewal payments by Bangladeshis.
+
+**Open (Need to know in the draft)**
+- Rules on notice, job change and complaints for workers outside the Labour Law (farms/izba, sea, government bodies, QatarEnergy).
+- Whether companies make new Bangladeshi workers sign the passport-keeping request; how a worker gets a withheld passport back in practice.
+- Not added: a Bangla-language source for the street price of a Qatar "free visa" in 2026 and the monthly fee Bangladeshis pay sponsors.
+
+# Background part 5 research
+
+Draft: `drafts/bg-5.md` ("What goes wrong most, and what people wrongly believe"). Not merged into doc.md. New facts QF0001-QF0021.
+
+## Searched
+- English: Qatar MOL complaints by type and share; ILO Qatar progress reports (2022, 2024) complaint breakdown; Bangladesh Embassy Doha labour wing complaint statistics; BMET complaints by country; Bangladeshi returnee surveys (wage theft, Qatar); Qatar 2025 grace period outcomes and Bangladeshi numbers; deportations of Bangladeshis from Qatar 2025-2026.
+- Bangla: কাতার প্রবাসী শ্রমিক অভিযোগ বেতন না পাওয়া ফ্রি ভিসা; কাতারে ভিজিট ভিসায় কাজ দালাল প্রতারণা; কাতার থেকে খালি হাতে ফেরত; "আজাদ ভিসা" কাতার.
+
+## Found
+- ILO (Nov 2022, ilo-four-years-reforms-2022): 34,425 complaints Oct 2021-Oct 2022, majority unpaid wages; 66.5% settled at or before conciliation; ~31% to labour courts; workers won 84% [QF0001, QF0002]. ILO 2024 report table (already saved, ilo-qatar-annual-report-2024) gives the share settled during conciliation: 80% (2022), 75.2% (2023), 72.8% (Jan-Sep 2024); not logged as a fact because the PDF table text is scrambled; F0042 already gives the quarter referred to committees.
+- No published breakdown of MOL complaints by type with shares, and none by nationality. Press coverage of the 2022 ILO report (AFP) names the main causes as non-payment of wages and end-of-service benefits and annual leave not granted or paid, without shares (not saved; the ILO page saved says "majority related to unpaid wages"). Kept as one Need to know.
+- RMMRU/BCSM 2021 study of 1,160 Gulf returnees (covers the Covid period, returned after Feb 2020): 67.7% unpaid, 38.7% reduced wages, Qatar average loss USD 2,075, 83.9% had valid contracts, 92% never complained [QF0003-QF0006]. Not Qatar-only; the doc says "six Gulf states, Qatar among them".
+- OKUP survey (Prothom Alo, 19 Oct 2025; saved from the Wayback Machine because prothomalo.com gives curl 000 and Firecrawl credits had run out): 1,084 workers who went in 2022 to Kuwait, Oman, Qatar, UAE, Saudi; free visa Tk 4,99,802 vs government-set Tk 1,16,224; outcomes 57/21/4/4/14%; 72% borrowed, 11% mortgaged and 6% sold land; 54% of knowing free-visa buyers went through illegal broker networks; BMET ADG Md Ashraf Hossain: "ফ্রি ভিসা বলে কিছু নেই" [QF0007-QF0013]. The survey is not split by country. The article also says only 3-4% of Saudi-bound workers have a recruitment contract (not logged; Saudi-specific). Background part 2 already cites the same OKUP study via Dhaka Tribune (A0009, A0010: 51% free visa, 3-4x official rates); keep those there and the outcome figures here.
+- Prothom Alo op-ed (Selim Reza, NSU, 27 May 2026): broker pitch, Tk 4-7 lakh, day labour, arrest, post-World Cup slump [QF0014-QF0016]. QF0016 (post-World Cup slump) logged but not used in bg-5; it belongs in part 1 or 2 if anywhere.
+- Amnesty 2025: kafala still exploitative, employers' excessive powers [QF0017].
+- 2020 jailing of returnees in Bangladesh under CrPC section 54: 219 sent to jail on 5 July 2020, 39 from Qatar; >300 July-Sept; most had been jailed abroad for overstaying or petty offences and pardoned [QF0018-QF0021].
+- BMET complaint totals (Daily Star, Jan 2026: 2,213 complaints in 2024, 2,380 in 2023) are for all countries, with no Qatar split; not saved.
+- "Azad visa" is the term Nepali workers and the Nepal embassy use for the free visa in Qatar; no Bangladeshi source found using "আজাদ ভিসা" for Qatar, so the doc uses "free visa" (ফ্রি ভিসা).
+- 2016 Qatar amnesty: about 2,500 Bangladeshis left (Doha News, not saved); no figure found for the 2025 grace period.
+
+## Pages we could not download
+- https://www.prothomalo.com/bangladesh/wv5k3ehfjz (curl 000; Firecrawl out of credits; saved via Wayback, capture 20260611).
+- https://www.prothomalo.com/opinion/column/1kgnrnbjzg (Bangla original of the op-ed; English version already saved as palo-qatar-new-workers-old-ones-oped).
+
+## Points for the lead
+- bg-5 cites the free-visa rule [W0003, W0080, W0082] and the absconding/overstay settlement [L0120, L0118] that the current Background visa-trading paragraph and the jail section also state; when Background is restructured into five parts, keep the free-visa rule in one place (part 2 or part 5) and point to it from the other.
+- Need to know questions in bg-5: MOL complaint breakdown by type and nationality; whether deportees from Qatar are still held on arrival in Dhaka; how many Bangladeshis left under the 2025 grace period and whether they can return on a new work visa.
+
+# Background part 2 research
+
+Draft: `drafts/bg-2.md` ("How a job reaches you, and who takes a cut"). Facts QC0001-QC0036 (prefix QC). Researched 8 Nov 2026.
+
+## Sources added
+- `nyu-stern-making-workers-pay-2017` (NYU Stern Center for Business and Human Rights, April 2017, PDF via globalinitiative.net copy). The best single account of the chain: Gulf visa approvals at nominal cost, sale of demand letters by Gulf-based dalals (sometimes company HR staff), resale between Dhaka agencies (buy Tk 1-1.5 lakh, resell Tk 2 lakh), small agencies paying brokers about Tk 1 lakh for a Qatar visa, 7 agencies said to handle 80% of migrants, BMET file-runners clearing Tk 500-600, unregistered village subagents, Aug 2014 MOI statement that no Qatari had been convicted of visa selling. Gulf-wide, fieldwork 2015-16: dated.
+- `dt-qatar-labour-market-unscrupulous` (Dhaka Tribune, 18 May 2014): Embassy labour counsellor on Bangladeshi brokers without offices in Qatar, employer asked nothing but middlemen took Tk 4 lakh each.
+- `fe-90-workers-employers-whim-qatar-2018` (Financial Express, May 2018): 90 workers stranded by a Qatar cleaning company; demand letters never attested; Embassy says it now verifies all demand letters. The article names the company and two Bangladeshi agencies (RL numbers); not named in the draft (single 2018 allegation, no outcome found).
+- `bb-invisible-visa-trade-market` (Bonik Barta English, Oct 2026): registered; not cited. It is Saudi and Malaysia focused; its BBS line ("52.3 percent of the total cost ... goes to brokers"; 42.9% pay agencies, 3.9% a government body) reads differently from A0001 ("52.03% of migrants paid brokers"); left out rather than add a conflict.
+- Re-used saved sources with new facts: `ds-losing-all-free-visas-2018` (Bangladeshi contractor in Qatar: visa-selling companies, 40-needed/100-approved, QR 10,000-15,000 a visa for Bangladeshis vs QR 2,000 for Nepalis, yearly/monthly payments to the sponsor), `peninsula-fake-companies-visa-trade-2023` (Qatari citizens lured with profits, Qatari ID cards and workers' bank cards seized, Document Clearance Offices), `hrw-qatar-contractor-nonpayment-2025-12` (labour supply companies; recruiters pass them off as direct hires), `ds-no-worker-should-pay-ilo-qatar-pilot` (USD 3,408 pre-pilot; sub-agent fee the biggest cost; -94%), `tbs-visa-trading-woes` (BAIRA "marketing cost"; Ministry secretary), `palo-qatar-new-workers-old-ones-oped` (2026 academic: village middlemen to licensed agencies).
+- Fetched but not used: `bdnews24-probash-2025-05-14` (turned out to be about Kuwait).
+
+## Searches (Bangla and English)
+- কাতারের ভিসা বিক্রি দালাল টাকা শ্রমিক; কাতার শ্রমবাজার সিন্ডিকেট রিক্রুটিং এজেন্সি ভিসা কেনা; কাতারে ভিসা ব্যবসা বাংলাদেশি গ্রেপ্তার আজাদ ভিসা; কাতারের ভিসা দাম লাখ টাকা দালাল প্রতারণা ২০২৫; কাতার ভিসা সেন্টার দালাল অ্যাপয়েন্টমেন্ট; দোহা বাংলাদেশ দূতাবাস সতর্কতা ভিসা দালাল ২০২৬.
+- English: Qatar visa trading Bangladeshi middlemen; migrant-rights.org Qatar visa trading; ILO Bangladesh-Qatar corridor sub-agent; Qatar manpower supply companies; Making Workers Pay; QVC Dhaka appointment brokers.
+- Results: no Qatar-specific syndicate allegation (named agencies, broker groups or officials controlling Qatar demand letters) found in Bangla or English news for 2023-2026; Bangla results on syndicates and visa prices are about Kuwait, Saudi Arabia and Malaysia. No report of QVC Dhaka appointment slots being sold (only for other countries' visa centres). No 2025-2026 street price for a Qatar demand letter found; latest Qatar-specific per-visa prices are 2018 (QR 10,000-15,000) and 2022 (QR 5,000-6,000), plus total costs (B0169, N0027).
+
+## Judgement calls
+- Choke point stated as the employer's block of MOL/MOI approvals and whoever controls it (company, HR/PRO, broker): supported by W0023-W0025, W0098, QC0003-QC0004, QC0036. Embassy attestation and QVC are not choke points for fees (QC0005, W0101); stated as such.
+- NYU Stern findings are Gulf-wide (Qatar fieldwork included) and 2017; worded as Gulf-wide where the source is, with years.
+- No people or companies named: no current, Qatar-specific, attributed allegation that would help the reader. Bonanza/QDVC/STS are already named elsewhere in the Background.
+- Part 2 overlaps the current Background's "Brokers", "Visa trading and the free visa" and "Crackdowns" paragraphs; when merging, those paragraphs' chain material should move here and cost totals (W0103, B0170, A0014, A0009) stay with part 3.
+
+## Need to know (in the draft)
+- What a Qatar company-visa demand letter sells for in Dhaka in 2026, from the Qatar seller to the agency.
+- What Bangladeshi women pay agencies and sub-agents for a Qatar housemaid job in 2026, against the employer-pays terms.
+- Whether any Qatari sponsor has been convicted of visa trading since 2014, and whether any agency, broker group or official is reported to control Qatar demand letters reaching Dhaka.
+
+## Blocked
+- `https://www.business-humanrights.org/documents/3233/NYU_Qatar20SSP20Report_May29_v2.pdf` (NYU 2014 report on Qatar construction recruitment; Bangladeshi fees up to USD 5,200 per search snippets): curl 403, no Wayback capture, Firecrawl out of credits. Needs a browser download.
+- `https://www.prothomalo.com/opinion/column/1kgnrnbjzg` (Bangla original of the May 2026 op-ed): curl failed; English version already saved.
+- Firecrawl credits ran out on 8 Nov 2026 (daily allowance resets about 17:50 UTC).
+
+# Background part 3 research
+
+Researched 8 Nov 2026 for Background part 3, "What you pay, and what you earn and keep". Draft: `drafts/bg-3.md`. New facts QD0001-QD0036. doc.md not edited.
+
+**New sources (all registered, non-official):** `dc-qatar-debts-2022` (openDemocracy via Dhaka Courier, 30 Nov 2022; the openDemocracy original `od-qatar-debts` is paywalled after two paragraphs), `impactt-sc-annual-report-2021` and `-2022` (Impactt, the World Cup Supreme Committee's external auditor), `ilo-qatar-pilot-assessment-bonanza` (ILO pilot results table; saved earlier by another agent, registered here, undated, ILO wcms_820253, about 2021), `ann-bd-farm-workers-qatar` (Daily Star via ANN, 23 Jun 2025), `tbs-bbs-176-months-recoup` (TBS, 18 Nov 2020), `janobani-qatar-visa-bmet-ac` (Janobani, 8 Jun 2026; saved earlier today by another agent, registered here). Fetched but not used: `fe-outbound-pay-more-than-earn`, `tbs-cost-13pc-remittance`, `ds-migration-cost-high-pay-low` (all general, Saudi-led cases), `od-qatar-debts` (paywalled), `barta24-qatar-work-crisis` (empty, Cloudflare).
+
+**Error in the current Background (for the lead).** "What workers pay" says recruitment cost Qatar-bound workers "18.1% of a year's earnings" [A0004]. The SDG tracker labels indicator 10.7.1 as a percentage, but its 2020 values are months of income: skilled 14.5, unskilled 20.2, domestic 7.1, Singapore 15.1 are exactly the BBS "months to recover" figures reported by TBS (QD0021), and openDemocracy reports the same survey as "at least 18 months" for men in Qatar (QD0002). So Qatar = about 18.1 months' income, not 18.1% of a year. QD0034 records the corrected reading; A0004's claim should be fixed or dropped when bg-3 replaces the old paragraph.
+
+**Figures found (what people pay for Qatar):**
+- BBS Cost of Migration Survey 2020 (2015-2018 migrants): men Tk 421,000, women Tk 67,000 (QD0001); all Qatar Tk 4.02 lakh (B0170); 18.1 months' income to recover (QD0034, QD0002).
+- Impactt 2021: Bangladeshis on SC projects USD 3,136 average, 83% paid, highest nationality (QD0007); 2022 sample had only 4 Bangladeshis, USD 1,959 (QR 7,283), too few to use.
+- ILO pilot: USD 3,408 before (11.7 months of total pay; 45% debt-free after 2 years), USD 300 after (93% debt-free after 1.5 years) (QD0015, QD0019, QD0020).
+- Street prices 2025-26: Tk 4-10 lakh (B0169, Dec 2025), Tk 4-6 lakh for unverified visas (QD0029, Jun 2026), Tk 4-7 lakh free visa (N0027, May 2026). Bangla blogs (odianceit, probashiinfo, saudijabo, techdustbin) quote Tk 5-8 lakh for company visas and Tk 4-6 lakh for driving visas and wage bands (construction QR 1,200-1,800, driver QR 1,500-2,500, electrician QR 2,000-3,500); not used: no named source, no date discipline. ProbashiApp says paper-company visas sell for Tk 3-5 lakh (not saved).
+- Official maximum: still only the 2017-18 Tk 100,780 (W0104, A0006); BMET DG repeated Tk 100,780 to openDemocracy in 2022 (in dc-qatar-debts-2022, not logged; Step 1 already has the Need to know).
+
+**Wages:** no official wage-by-trade figure for Bangladeshis. Used: farm workers about QR 1,000 (QD0017, 2025); SC audit average gross QR 2,063 and hotel basic QR 1,400 (QD0011, QD0012, 2022); USD 700 for a multi-trade worker (QD0031, 2022); housemaid letter 1,000-1,200 (W0040). Qatar's NPC Labour Force Survey 2024 publishes employment and hours by occupation (GLMM mirrors), but no wage table by occupation was found; GLMM has a 2016 wage table (old). Searched in English and Bangla (কাতারে বেতন রিয়াল, কাতার প্রবাসী মাসে বেতন).
+
+**How they pay:** BBS 2023 borrow 58.24% (A0003), brokers 52% (A0001); loans at Tk 15 per 1,000 a week (QD0003; works out to about 78% a year simple, not stated in the draft because it is our calculation); land sale (QD0006, QD0024, QD0033).
+
+**Unpaid:** F0027 (labour-supply companies), F0043 (ILO), QD0013/QD0014 (overtime forgotten or part-paid in cash, hotels 2022), QD0032 (months unpaid, 2026). Kathmandu Post (May 2026) on 36 Nepalis unpaid for 8 months: not Bangladeshi, not used.
+
+**Money home:** only a case (QD0009, USD 200 of USD 220 basic, 2021). No source found for average monthly remittance per Bangladeshi worker in Qatar; dividing Bangladesh Bank's Qatar total (B0118) by the worker count would be our own estimate, so not done.
+
+**Need to know (in the draft):** 2026 sale price of a Qatar company labour visa in Dhaka and the dalal's share; whether any employer still repays fees outside the World Cup scheme; 2026 monthly pay for labourer, mason, driver and cleaner with and without overtime, and food cost when an allowance is paid; typical monthly remittance and hundi share.
+
+**Firecrawl:** out of credits on 8 Nov (daily MCP credits refresh about 14h later); searches done with WebSearch and fetch.py instead. Nothing blocked that mattered.
+
+# Relative route: mechanics
+
+Draft text: `drafts/relative-mechanics.md` (proposed as item 5 of company work visa Step 1, replacing the one-paragraph "If you are offered a free visa"). Facts QH0001-QH0041.
+
+**What the doc had before.** The relative route was one clause (Background "Brokers": brokers are often relatives [A0045]) plus the BMET self-clearance line [B0052]. No mechanics, prices or checks specific to a visa sent by family.
+
+**New sources (all saved, registered).**
+- `mooprp-wp49-emic-brokering-qatar-2017` (Abrar, Deshingkar et al., Migrating out of Poverty WP49, Chapainawabganj to Qatar): relatives send fixed-term and free visas straight to the village (QH0001); free-visa chain and kafeel kick-backs for renewal and release (QH0002-QH0005); average free visa QR 25,000 (QH0006); uncle-sent visa, dalal in Dhaka for the manpower card, job learned from the card, QR 700 not 950 (QH0007-QH0009); second free visa QR 10,000 + ID QR 2,400 (QH0010); pay-after-visa bargaining Tk 2 lakh to 1.85 lakh (QH0011); shalish repayment of half (QH0012). Fetched earlier today by another agent but never registered; registered now.
+- Overseas Employment and Migrants Act 2013 (already saved): s.41 complaint against "any person" (QH0013-14), s.43 recovery (QH0015), s.39 cognisable/non-bailable/non-compoundable for ss.31, 33, 34 (QH0016), s.38 magistrate, 4 months (QH0017), s.28 civil suit (QH0018). Point for review: s.33 also makes buying a visa an offence, so a family that complains about a bought visa exposes itself; the draft states the law and leaves it there.
+- Residence Law Art. 8 and Art. 40: sponsor renews within 90 days of expiry; fine up to QR 10,000 (QH0040-41).
+- COMPAS 2020 (azad visas; Embassy helped only legal residents) QH0019-20; Barta24 Aug 2023 via Wayback (free-visa workers Tk 4-5 lakh, acquaintance case, QR 1,000 and dropped, no Embassy response) QH0021-24; HRW 2020 (QR 4,000 demanded for RP; false runaway cases) QH0038-39; Bangla Telegraph Apr 2019 (raids on IDs expired 3+ months and on people working for another company; areas named) QH0035-37.
+- SaudiJabo (Dhaka visa-processing business blog, Oct 2026): free visas show genuine on MOI (QH0025); checklist (QH0026); street definition (QH0027); "visa is closing, pay now" pressure (QH0028); attested vs non-attested Qatar visas at clearance (QH0029); manpower card Tk 9,000 attested / Tk 9,500-10,000 non-attested vs ~Tk 7,100 government (QH0030, QH0032); May 2026 market Tk 7,000-20,000+ (QH0031); oc.bmet.gov.bd for self-applicants (QH0033); card reprint only by agencies (QH0034). Commercial source with its own service to sell; treat prices as one firm's rates. QH0032's Tk 7,100 includes the Tk 5,500 welfare fee from 1 Oct 2026 (matches B0055) but its Tk 600 "registration, PDO, fingerprint" bundle is not in BMET's charter.
+
+**Reused existing facts:** QF0008-QF0015, QB0008, QC0015-QC0017, QE0019, QE0023, W0019, W0049-W0052, W0062-W0070, W0074, W0082-W0084, W0090, W0099, W0101, B0051, B0052, B0009, B0020, B0132, F0014, F0016, E0001, L0070, C0037, QL0006, QL0022, N0034, A0013, A0019, A0020, A0022, A0044, A0045, L0173.
+
+**Official confirmation the self-route exists:** BMET charter source tax differs for single visas, Tk 250 attested vs Tk 400 not attested (B0051), so BMET does clear unattested single visas; whether it still does for Qatar after the June 2026 Janobani allegations (QL0022) is open.
+
+**Searched without result (Bangla and English, WebSearch; Firecrawl out of credits all day):** a 2025-26 Bangla news case of a relative selling a Qatar visa with an arrest or police case (found only Canada/Italy/Australia cases); 2026 taka price of a single Qatar visa from a relative (blogs only repeat Tk 4-7 lakh from Prothom Alo); any BMET/Ministry rule making Embassy attestation compulsory for Qatar single visas (bdnews24 May 2025 hit was Kuwait); house-driver (personal sponsorship) visa price; oc.bmet.gov.bd (not reachable by curl; Malaysia notes say it returned 404 on 1 Nov). bideshjob.com and labourbooking.com guides are JS-only or 403.
+
+**Open questions (in the draft as Need to know):** relative's charge for a free company visa; street words separating real from bought visas; whether MOI Visa Inquiry shows sponsor name/establishment; BMET refusal of unattested Qatar single visas in 2026; oc.bmet.gov.bd self-application; stamp-paper deeds/security cheques with relatives; whether the Ministry enforcement branch takes complaints against private persons; 2026 yearly QID-renewal charge for free-visa holders.
+
+**Pages we could not download:** barta24 live page (JS-rendered; used Wayback copy 2023-12-01); bideshjob.com guideline (JS-only); labourbooking.com (403); oc.bmet.gov.bd.
+
+## Background revision (8 Nov 2026, prefix QM)
+
+- Exchange rate: Bangladesh Bank live page shows a bot check; used the Wayback capture of 19 Oct 2026 (USD 1 = Tk 123.65) [QM0001] with the QR 3.64 peg [QM0002, Gulf Times 2018; QCB policy page rendered empty]. QR 1 = about Tk 34. All riyal and dollar amounts in Background converted at that rate.
+- A0004 (18.1% of a year's income) dropped: QD0034 shows the 18.1 figure is months, not a percentage. BBS 18 months now shown only as a 2015-18 comparison.
+- 2026 women count re-pulled to 6 Nov to match W0051: still 1,375 [QM0005].
+- 2026 strikes named from bdnews24 (28 Feb Israel-US strike on Iran; Iran struck US bases and installations in Qatar) [QM0003, QM0004]. GA0002/GA0003 (one worker's quote) dropped from Background.
+- Driving licence: Qatar Living (Jul 2026) and Doha Guides (Nov 2025) [QM0006-QM0015], including the unpublished list of professions barred from a licence (builder, plumber, welder, security guard and others).
+- "Azad visa": not used. Project rule is English only (no Bangla/borrowed words such as "dalal"); Background uses "free visa" and the sourced English variant "freelance" [QE0019].
+- Firecrawl credits ran out on 8 Nov; no Firecrawl used. Searches for a public sub-agent register, 2025-26 sector breakdown of Bangladeshis in Qatar and hundi premium found nothing citable; kept as Need to know.
+
+# Relative route: scale
+
+Draft: `drafts/relative-scale.md` (for Background part 1 "The channels" and part 2; replaces the two single/group Need-to-know lines in `drafts/bg-1.md`). New facts QI0001-QI0013. Reused: B0049, B0051, B0052, W0001, W0004, W0046, W0049, A0001, A0002, A0010, A0045, QB0006-QB0008, QH0001, QH0007, QH0008.
+
+**Answer.** No source, official or not, splits Qatar departures by relative/single visa versus agency group visa. What exists, oldest to newest, and what each measures:
+- 1976-2008: over 68% (2.88 million) migrated through own social networks (Rahman 2011, cited in WP49 2017; QI0001). Probably derived from BMET's old "individual" category; Rahman 2011 itself not obtained.
+- 2015: 54% of migrants in 1,205 households (51 villages, incl. Rajshahi) had a job arranged by family or friend (Litchfield et al. 2015, cited in WP49; QI0002). All destinations.
+- 2016-17: C R Abrar (RMMRU): nearly/almost 80% of work visas via social networks or migrant-brokers abroad (Daily Star news Dec 2016, QI0009; his op-ed Feb 2017, QI0006-QI0008). Expert estimate, no method given.
+- 2013, Qatar side: Gardner et al. 2013 (SESRI survey of 1,189 low-income migrants, all nationalities): 64.2% recruited through a private agency (cited in WP49; QI0004). Nationality breakdown not seen: qspace.qu.edu.qa returns 403 to curl/WebFetch; the article (Journal of Arabian Studies 3(1), DOI 10.1080/21534764.2013.806076) is paywalled. A Doha News summary says 56% found jobs through a home-country labour broker; not saved.
+- 2023: BBS SEDS: 52.03% paid brokers, 42.09% private agencies, 3.09% government; 2.8% "migrated with the help of relatives or friends" (TBS report; QI0013, A0001, A0002). This asks whom costs were paid to, so a relative who sells a visa probably shows up as "broker"; the BBS report itself not opened.
+- 2025: OKUP Gulf study (1,084): 56% informal agents, 7% licensed agencies, distant relatives 31%, close family 8%; 51% free visa (QB0006-QB0008, A0010).
+- 2018 YPSA survey (270 aspirant migrants, Rangunia and Saraf Bhata, Chattogram; Qatar the preferred destination of 16.3%): 83% said their visa source was informal (family, relatives, friends, neighbours, dalals), 13% formal. Lumps relatives with dalals, so not used; file not saved in sources/ (downloaded to /tmp only).
+- Reading: older figures (who found the visa) say two-thirds to four-fifths through networks; recent ones (whom you paid, who facilitated) say brokers/informal agents. The two are compatible: per Abrar 2017 the network visa is sold on locally and an agency enters only for medical, clearance and ticket (QI0007, QI0008). Not stated in the draft as a conclusion; the draft lists what each measures.
+
+**"Single" is not "relative".** BMET clears "single" (একক) and "group" (দলীয়) visas through agencies, with different source tax (B0051); self-obtained visas apply in person (B0052). For Saudi, BAIRA says up to 24 visas on one visa number counted as "single" (bdnews24, 5 Feb 2025; QI0012; TBS English version 5 Feb 2025 says group = more than 25 workers to the same company, not saved). So a BMET single/group split, if found, would still not measure the relative route. For Qatar, the Embassy attests contracts for "individual male workers" (W0049) and demand letters for agency recruitment (W0046); no Qatar threshold found.
+
+**Searched, not found.**
+- OEP public reports (checked 8 Nov): only `reports/country-clearance` and `reports/geo-clearance-count`; filters are country, gender and trade (category_id). No visa-type or agency/individual filter.
+- Ministry annual reports 2014-15 to 2022-23 (probashi.gov.bd/pages/annual-reports, PDFs on objectstorage): 2019-20 to 2022-23 are scanned images with no text layer; 2018-19 has a legacy-font text layer that doesn't match Unicode. No Bangla OCR (tesseract has eng only). English OCR of 2022-23 found nothing on visa types; reading 110 pages by eye was not done. **Ask:** someone to check the BMET section of the 2022-23 report for a single/group/individual clearance table.
+- Old BMET statistics site (Wayback, bmet.gov.bd/BMET/stattisticalDataAction, 2010-2014 snapshots): report pages are popups (viewStatReport.action?reportnumber=N), archived copies are ~300-byte stubs; not opened further. Probably where Rahman's "individual" figure came from; pre-2014 in any case.
+- Web searches (EN): BMET individual vs agency percentage; single vs group visa share 2024-25; BAIRA single visa share; KNOMAD-ILO cost surveys (corridors are India/Nepal/Philippines-Qatar, no Bangladesh-Qatar); Qatar surveys by nationality (ILO, SESRI, Equidem). (BN): "সিঙ্গেল ভিসা কাতার", "একক ভিসা গ্রুপ ভিসা বহির্গমন ছাড়পত্র", "ব্যক্তিগত উদ্যোগে বিদেশে গেছেন শতাংশ", "সিঙ্গেল ভিসায় শতাংশ সৌদি কাতার বায়রা". Only Saudi-specific single/group items turned up.
+- A search snippet mentioned "183,274 individual visas, 28,223 group visas, 24,638 one-stop" from an unnamed BMET-based report; source not found, not used.
+
+**Saved, not used in the draft.** `ds-overseas-touts-jack-up-costs-2016` (Daily Star, Dec 2016): Saudi brokers send addresses of migrants' relatives in Bangladesh, who are paid locally; a Qatar worker (Masud Mia) paid Tk 6.5 lakh against a fixed cost of Tk 84,000. Registered, no fact logged. QI0005 (WP49: sub-agents take a fee from both migrant and agency) logged, not used.
+
+# Relative route: insider revision (8 Nov 2026, prefix QK)
+
+## Placement (moved out of drafts/relative-route.md)
+- The draft is item 5 of "Work visa: company worker", Step 1, after item 4. It replaces the "If you are offered a 'free visa'" paragraph; that paragraph's facts (W0032, W0080, A0022, G0001) are covered inside item 5. "If the relative cheats you" goes straight after "If the agency cheats you". Items 1 and 2 (OEP, trade) apply to both routes: BMET clears a self-found visa only with an attested copy of the OEP card [B0052].
+- Background part 1 text replaces "Who actually brings the visa" in drafts/bg-1.md.
+- Cut from the draft as not actionable or not Qatar: QI0001, QI0002, QI0003, QI0004, QI0006, QI0009, QI0012 (Saudi BAIRA 24-visa rule), QB0006-QB0008 duplicates, W0004/W0001 comparison (inference), QL0006 (Bonanza agency job-order cap, not this route), QC0016 and QH0006 (2017-18 QR prices), W0099, W0090/W0101 (2018/2022 QVC articles; M-series now used), QH0004/QH0005 (2017 release claims; replaced by QE0012 and the 2020 change-employer law).
+- Not a conflict for the doc: BMET charter welfare fee Tk 3,500 [B0051] is superseded by the Ministry circular raising it to Tk 5,500 from 1 Oct 2026 [B0055]; the draft uses the official items, not SaudiJabo's Tk 7,100 total [QH0032].
+- Entry-visa validity answered by R0027 (used within 90 days of issue); V0125 (one-month extension from 28 Feb 2026) was temporary and is left out.
+
+## Sources added
+- probashiapp-qatar-guide (registered; was fetched earlier but not in sources.csv): "kafala change" term [QK0003]; Qatar driving-school costs [QK0004, QK0005].
+- tbs-saudi-single-visa-authentication (TBS, 5 Feb 2025): BMET re-enforced attestation for Saudi single visas [QK0006]. No Qatar equivalent found.
+- dt-legal-illegal-workers-2026 (Dhaka Tribune, 21 May 2026): Saudi April 2026 sweep; free-visa average Tk 5 lakh [QK0007]; not cited.
+- SaudiJabo terms: "company visa", "house-driver visa" [QK0001, QK0002].
+
+## Searches (Bangla and English), 8 Nov 2026
+- "কাতার কোম্পানি ভিসা খরচ ২০২৬", "Qatar visa price Bangladeshi workers lakh taka 2026 company visa": only generic visa-fee sites; no 2026 Bangla news price for a relative's company visa. Need to know kept.
+- "বিএমইটি একক ভিসা সত্যায়ন কাতার ...", "BMET single visa attestation required Qatar": only the Saudi TBS item. Need to know kept.
+- "Qatar Ministry of Interior campaign arrests residency law violators 2026": no Qatar raid report after 2019 found (2026 hits are Saudi, Oman, Kuwait). Need to know kept.
+- Stamp-paper deeds / security cheques with brokers (OKUP, RMMRU): nothing specific; RMMRU notes payment in phases. Need to know kept.
+- Firecrawl: out of credits on 8 Nov 2026, not used. Bangla queries in WebSearch return few hits; a teammate with Bangla Google could retry the price and term searches (prothomalo, barta24, jagonews, banglanews24).
+
+## Still open (outside this draft)
+- The user asked why the Qatar README contents list wasn't updated: README.md is built from doc.md by build.py; it changes only when the drafts are merged into doc.md and the doc is rebuilt.

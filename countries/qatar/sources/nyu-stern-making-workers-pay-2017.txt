@@ -1,0 +1,2313 @@
+Making Workers Pay
+Recruitment of the Migrant Labor Force
+in the Gulf Construction Industry
+
+
+DAV I D S EG ALL AND S ARAH LABOWI TZ
+
+
+
+
+                                        A PRI L 2017
+Acknowledgments
+
+This report is the product of 18 months of research into the link between corporate
+practices in the Arabian Gulf’s engineering and construction sector and the recruitment –
+in South Asian countries like India and Bangladesh – of many of the migrant workers who
+staff the industry’s projects. Special thanks to Michael Posner, Justine Nolan, and Dorothée
+Baumann-Pauly for their advice and counsel throughout the project. Kimberly Rodriguez
+and Nandini Taneja, both Stern students and Fellows with the Center, served as research
+assistants. M. Bheem Reddy and Bishawjit Das provided tenacious and patient guidance
+in Hyderabad and Dhaka, respectively. Luke Taylor edited the report and Paloma Avila was
+the designer. We are grateful to Humanity United for providing funding for this project and
+report. Finally, we thank the dozens of workers, businesspeople, government officials, academic
+experts, and others who contributed to our research process.
+
+
+
+
+About the Center
+
+Launched in March 2013 by Michael Posner and Sarah Labowitz, the NYU Stern Center for
+Business and Human Rights is the first human rights center based at a business school. The
+Center offers dedicated courses on business and human rights to MBA and undergraduate
+business students. In different business sectors, it undertakes projects that combine original
+research, convening stakeholders, and public advocacy. The Center is an independent
+academic endeavor of NYU Stern. It receives funding from NYU Stern, philanthropic
+foundations, individuals, and companies.
+
+More information at http://bhr.stern.nyu.edu
+
+
+
+
+Cover image: Khaled J. Abdulla
+Report design by Half & Twice
+
+
+NYU Stern Center for Business and Human Rights
+Leonard N. Stern School of Business
+44 West 4th Street, Suite 800
+New York, NY 10012
+
+
+© 2017 NYU Stern Center for Business and Human Rights
+
+All rights reserved. This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License. To view a copy of the license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
+
+ISBN: 978-0-692-86347-3
+Contents
+
+
+      Executive Summary                                              1
+
+
+      Part 1 - Context: The GCC Construction Industry                6
+
+             Industry Outlook Strong Despite Oil Price Volatility    8
+
+             Corporate Structures Create Incentives to               9
+             Squeeze Labor Costs
+
+             Laws Prohibit Charging Recruitment Fees                11
+
+
+      Part 2 - The Broken Business Model for Recruitment            12
+
+             Finding 1: Low-Wage Workers Pay for Their              13
+             Own Recruitment
+
+             Finding 2: Workers Pay Significantly in Excess of      17
+             the Real Cost of Recruitment
+
+             Finding 3: Corporate Representatives Effectively       19
+             Sell Visas to Recruiters, in Violation of GCC Laws
+
+             Finding 4: Layers of Agents Facilitate Migration       22
+             while Increasing Costs
+
+             Finding 5: While Subagents Add to the Costs of         24
+             Recruitment, They are Essential to Recruiting
+             Rural Workers
+
+             Finding 6: Even Small Transactions Present the         27
+             Opportunity to Charge Workers
+
+
+      Part 3 - Conclusions and Recommendations                      30
+
+             Conclusions                                            30
+
+             Recommendations                                        31
+
+
+      Appendix 1: Methodology                                       34
+
+
+      Appendix 2: Corporate Roles in GCC                            35
+      Construction Projects
+E X ECUTIVE S UMMAR Y
+
+
+
+
+                Executive Summary
+
+
+
+
+                As Gulf states have developed vast wealth through oil and natural gas revenues, they have sought greater international
+                influence and prominence through major development projects. These projects attract business, cultural and educational
+                institutions, and tourists to the region, while relying on millions of migrant construction workers from around the world to
+                complete them. Here, residential towers surround a marina on a man-made island at The Pearl in Doha, Qatar
+                in 2014. (Stewart Lacey)
+
+
+
+
+                Oil was discovered in the Arabian Gulf (also called the Persian Gulf) region in the early
+                20th century, followed by a long-term rise in the prices of oil and natural gas beginning in
+                the late 1990s. Since then, the countries of what is now known as the Gulf Cooperation
+                Council (GCC) – Saudi Arabia, the United Arab Emirates (UAE), Qatar, Kuwait, Bahrain, and
+                Oman – have experienced development at a furious pace.
+
+                The most visible sign of the region’s growth is its booming construction landscape.
+                Governments are spending their enormous wealth commissioning new campuses for
+                international artistic and educational institutions and hosting mega-events like the 2020
+                World Expo in Dubai and the 2022 FIFA World Cup in Qatar. The combination of vast
+                wealth and large-scale development has resulted in significant structural changes within
+                these societies, including mass migration of low-wage workers, mostly from South and
+                Southeast Asia, into the local construction and service sectors.
+
+                Thus far, Gulf societies have not provided adequate protections for the influx of outsiders.
+                The situation of workers on high-profile construction projects in the region has been the
+                subject of considerable public attention in recent years. Reports from human rights
+                organizations, news media, and international organizations have documented that GCC
+                migrant workers frequently are underpaid, are allotted substandard housing, and lack legal
+                protections – including the freedom to organize in most states.1
+
+                GCC countries also have not ratified international legal instruments meant to protect
+                migrant workers from abuses like these, nor have a number of major migrant-sending
+                countries.2 In all GCC countries, variants of the legal sponsorship or kafala system give
+                local employers significant power over their workers, making it difficult for migrants to
+                change jobs, lodge complaints, or even to return home without permission from their
+                employers. Meanwhile, the protective laws that are on the books in the GCC are
+                unevenly enforced.
+
+
+
+
+                                                                                                                               M A K I N G W O R K E RS PAY | 0 1
+E X ECUTIVE S UMMARY
+
+
+
+
+                The international migrant recruitment industry is meant to facilitate these workers’
+                migration. But in practice, the recruitment industry exacerbates the many issues that
+                migrants face once they arrive in the GCC. While abuses faced by workers have been well
+                documented by others, the nature of the recruitment business is less well understood. This
+                report explores the current labor recruitment model for the GCC construction industry
+                and the ways in which it contributes to workers’ vulnerability to abuse and payment of high
+                recruitment fees, and offers recommendations to make the industry better for the millions
+                of workers making difficult journeys to take up employment in the Gulf.
+
+                Prior to departing their home countries, most prospective migrant workers pay fees to a
+                complex network of recruiters in exchange for facilitating their migration. As currently
+                structured, this system is highly exploitative and contravenes both international standards and
+                the laws of GCC and migrant-sending countries. Most low-wage workers in sectors like
+                construction pay for the full cost – and then some – of their own recruitment into the industry.
+
+                In this highly irregular system, neither construction companies nor their clients pay for the
+                cost of labor force recruitment. Instead, tens of thousands of migrant workers enter the
+                region’s construction industry each year, bearing both the actual costs of their recruitment
+                and exploitative markups paid to a series of agents in South Asia and the Gulf. This leaves
+                workers in extreme debt, increasing their vulnerability to subsequent abuse. Most
+                commercial construction, engineering, architecture, and recruitment firms have yet to
+                accept responsibility for the ubiquity of these fees, despite common industry practices that
+                effectively encourage them.
+
+
+
+
+                GCC citizens are some of the wealthiest people in the world. Generous government benefits discourage private-sector
+                work for GCC citizens, making large-scale immigration for all kinds of labor a necessity as these countries seek prominent
+                roles on the global stage. In Qatar, stadiums for the 2022 FIFA World Cup tournament have inspired the world’s top
+                architects to develop elaborate, gravity-defying designs that will take years to complete. Above: Artist’s rendering of the Al
+                Rayyan Stadium, which will host matches during the 2022 tournament. (Getty Images)
+
+
+
+
+                                                                                                                                 M A K I N G W O R K E RS PAY | 0 2
+E X ECUTIVE S UMMAR Y
+
+
+
+
+                Migration has the potential to fulfill the promise of decent work and increased earning
+                potential, even for low-wage construction workers. But realizing this goal will require deep
+                changes to the current practices of construction firms and their government clients; their
+                subcontractors; cultural institutions; governments in the Gulf and South Asia; and
+                recruiters themselves.
+
+                These groups should consider a model of shared responsibility, in which key actors come
+                together to develop a common plan of action for assessing the scope of the problem in a
+                transparent manner, determine the true costs of addressing it, and formulate an equitable
+                plan to share responsibility for these costs.3 Our hope is that this report will help spur
+                much-needed action by deepening understanding of the recruitment business model and
+                encouraging companies, governments, and civil society to explore practical reforms so that
+                working conditions and livelihoods improve across the Gulf region.
+
+                The report is organized around six findings, based on 18 months of research and several
+                field missions to India, Bangladesh, Qatar, and the UAE (see Appendix 1 for more on the
+                research methodology):
+
+                        1. Low-wage workers pay for their own recruitment. As a matter of routine
+                           practice, neither the largest construction firms in the GCC nor their
+                           government-affiliated clients pay for the service of recruiting the tens of
+                           thousands of construction workers who come to the Gulf each year, despite
+                           laws and corporate policies that require them to do so. In this perverse
+                           business model, the lowest-paid and most vulnerable workers almost always
+                           bear the costs of their own recruitment, and in many cases, they actually
+                           subsidize the recruitment of higher-skilled workers by bearing even more
+                           burdensome fees. Meanwhile, recruiters who are offering “ethical
+                           recruitment” services are struggling to gain traction because of the broader
+                           failure to adopt a fee-for-service model across the industry.
+
+                        2. Workers pay significantly in excess of the real cost of recruitment.
+                           Recruiters interviewed in India and Bangladesh, as well as ethical recruiters
+                           operating in the GCC, estimate the actual cost of recruitment to be at least
+                           US$400-650. This figure does not include international travel expenses or
+                           fees which need to be paid once the worker arrives in the GCC (for residency
+                           permits and other documents), but does include the cost of services such as
+                           identifying and screening workers and medical testing and visa processing in
+                           migrant origin countries. In contrast, many low-wage workers are paying
+                           thousands of dollars to make the journey. In Bangladesh, workers pay the
+                           highest recruitment fees in the world, from approximately US$1,700 to
+                           $5,200. Indian workers pay somewhat less, between US$1,000 and $3,000.
+                           This fee inflation is explained by layers of agents involved in recruitment; visa
+                           selling schemes; and additional markups imposed through kickbacks, inflated
+                           transportation and other costs, and corruption.
+
+                        3. Corporate representatives effectively sell visas to recruiters, in
+                           violation of GCC laws. The first form of fee inflation originates in Gulf
+                           countries, with the sale of “demand letters” for workers issued by employers
+                           – and the visas that come with them – by representatives of some employing
+
+
+
+
+                                                                                                       M A K I N G W O R K E RS PAY | 0 3
+E X ECUTIVE S UMMAR Y
+
+
+
+
+                            companies. In general, Gulf governments provide visas to multinational and
+                            local construction companies for free or at a nominal cost, but these visas are
+                            then sold at significant markups by Gulf-based agents, via demand letters
+                            shopped around to South Asia-based recruiters. These GCC-based agents may
+                            work for the employing company itself or operate independently, and the
+                            practice may occur with or without the knowledge of corporate officers. Selling
+                            visas for profit is illegal in all GCC countries, but violations of relevant laws are
+                            rarely prosecuted. Dhaka-based recruiters estimate the cost of each visa
+                            requested in a demand letter at between US$1,250 and $1,850, which
+                            represents between one-third and one-half of the average Bangladeshi
+                            migrant’s fee.
+
+                        4. Layers of agents facilitate migration while increasing costs. The second
+                           source of inflation in what workers pay is the layers of registered agents
+                           involved in the lengthy process of recruitment from a rural South Asian
+                           village to a Gulf construction site. Demand letters effectively pass through
+                           many hands in the course of this process, each recruitment agent adding a
+                           fee for the service he or she is providing, and sometimes marking this fee
+                           up to an unreasonable extent. There may be several layers of registered
+                           agents processing a set of visas in the sending country alone.
+
+                        5. While subagents add to recruitment costs, they are essential to recruiting
+                           rural workers. Subagents are a third source of fee inflation. Larger, urban-
+                           based recruiters almost always work with independently operating, unlicensed
+                           subagents in remote, rural areas. This is the least regulated part of the labor
+                           supply chain, and where most workers actually exchange payment for their
+                           recruitment and jobs abroad. While many view the elimination of subagents as
+                           a key to reducing the cost of migration, interviews with workers and
+                           recruitment agents of all levels make clear the essential role they play.
+                           Migrants with few other avenues for recourse view an agent from their home
+                           village or region as accountable if things go wrong. And subagents help
+                           overcome the significant geographic obstacles to recruiting large numbers of
+                           workers from swaths of rural territory.
+
+                        6. Even small transactions present the opportunity to charge workers.
+                           Finally, even relatively small transactions, such as “hospitality” expenses and
+                           the cost of flights, contribute to inflation in the fees borne by workers.
+                           Recruiters report paying significant hotel and other costs for corporate
+                           officials – who sometimes visit migrant origin countries to evaluate potential
+                           workers – as part of the price of doing business and attracting large orders
+                           for workers. Travel agents and recruiters report that because workers know
+                           very little about the price of an airline ticket, they can charge workers 50%
+                           more than the actual price. Similar markups are applied to fees for medical
+                           screenings, skills testing, and document processing. These markups, in
+                           addition to many others, further inflate recruitment fees because
+                           recruitment agencies pass the costs on to workers.
+
+
+
+
+                                                                                                            M A K I N G W O R K E RS PAY | 0 4
+E X ECUTIVE S UMMAR Y
+
+
+
+
+                Training center for metalworkers at a technical college in Hyderabad, India, November 2015. Local economic opportuni-
+                ties for craftsmen are limited, leading many to seek work abroad. (David Segall)
+
+
+
+
+                Migrant workers at Dhaka’s International Airport preparing to take off for the Gulf, July 2014. Eight percent of
+                Bangladesh’s economy comes from remittances sent home by migrants. (Palash Khan)
+
+
+
+
+                                                                                                                              M A K I N G W O R K E RS PAY | 0 5
+PA RT 1 - CONTEXT: TH E GC C C ON ST RUC T I ON I N D U S TR Y
+
+
+
+
+                   Part 1 - Context: The GCC
+                   Construction Industry
+
+
+
+
+                   Sheikh Zayed Road in Dubai, 1990, as compared to one built-up stretch of the same area in 2014. Dubai has capitalized
+                   on its neighbors’ oil booms by undertaking aggressive economic diversification efforts and positioning itself as a major
+                   real estate, construction, financial services, and transit hub. Its economy was hit hard in the 2008 recession, but has since
+                   mostly recovered. (Left: Reddit user Safwanish, Right: Daniel Cheong)
+
+
+
+
+                   The steady rise in the price of oil from the late 1990s through 2014 fueled construction
+                   that continues today in all six GCC countries. Beginning around 2000, the skylines of
+                   cities like Dubai, Doha, and Abu Dhabi exploded, as did their respective construction
+                   industries. Saudi Arabia and the UAE together account for the vast majority of the value of
+                   construction projects in the GCC,4 though the other GCC states also have steadily growing
+                   construction industries.
+
+                   Dubai, a semi-sovereign emirate without much oil of its own, will host the World Expo in 2020
+                   and is undertaking US$8 billion in development projects in preparation.5 Meanwhile, Abu
+                   Dhabi is using oil revenue to transform itself into a global educational and artistic hub with the
+                   help of its flagship airline drawing transit passengers to the city.6 Doha, the capital of Qatar,
+                   has hosting rights to the 2022 FIFA World Cup, which is fueling a massive construction boom
+                   to build the stadiums, hotels, and transit infrastructure required for the tournament.
+
+                   With the support of both South Asian and GCC governments, the migrant worker
+                   population of the GCC has grown from a few hundred thousand in the mid-1970s to more
+                   than 25 million today,7 including more than 10 million construction workers. Non-citizen
+                   migrant workers comprise around half of the region’s total population. In the UAE, 88% of
+                   residents are non-citizens, and foreign nationals represent 75% and 74% of Qatar’s and
+                   Kuwait’s resident populations, respectively.8
+
+                   The millions of workers required to complete these projects, most of whom arrive
+                   from South Asia, are subject to various forms of the kafala system, which requires local
+                   sponsorship of migrant workers, and grants those employing sponsors strict control over
+                   workers. Recent moves in some GCC countries to reform this system have been important
+
+
+
+
+                                                                                                                                   M A K I N G W O R K E RS PAY | 0 6
+PA RT 1 - CONTEXT: TH E GC C C ON ST RUC T I ON I N D U S TR Y
+
+
+
+
+                   but not yet sufficient to adequately protect workers.9 For example, in December 2016
+                   Qatar introduced a “contract-based” system intended to replace the kafala system.10
+                   Critics have pointed out that the changes do not strike at structural elements of the system
+                   that grant sponsors inordinate control over workers’ ability to switch employers or even
+                   exit the country.11
+
+                   In 2015, the UAE and Kuwait instituted a number of reforms intended to limit “contract
+                   substitution,” an illegal practice whereby migrants sign one contract in their home countries
+                   but are subject to a different one once they arrive in the GCC.12 The UAE had earlier
+                   instituted significant reforms meant to allow for increased freedom of labor market
+                   movement for workers.13 Bahrain was the first country to meaningfully reform these
+                   elements of the kafala system in 2006 and 2009, but the government rolled some of those
+                   reforms back in 2011 following domestic political unrest.14
+
+                   NYU’s Abu Dhabi campus is part of this story. The school, which welcomed its first class
+                   of students in the fall of 2010, is one of the many American and European cultural and
+                   academic institutions – including the Solomon R. Guggenheim and Louvre Museums in
+                   Abu Dhabi and several universities in Qatar’s “Education City” – with current or planned
+                   facilities in the Gulf region. Before construction began on its facility NYU and its Abu Dhabi
+                   government partner formulated a Statement of Labor Values, and published a subsequent
+                   document operationalizing that Statement which came to be known as the “14 Points.”15
+                   These standards were a first for any institution in the region, and applied to both longer-
+                   term operational workers as well as those working on the construction of NYU Abu Dhabi’s
+                   new Saadiyat Island campus.
+
+                   Responding to criticisms of its labor practices in 2014,16 NYU and its Abu Dhabi
+                   government partner Tamkeen engaged Nardello and Co. to investigate NYU’s track record.
+                   The resulting report, released in 2015, concluded that while many workers who built the
+                   new campus benefited from the project’s standards, up to one-third of those workers
+                   –specifically many of those working for smaller or short-term subcontractors – were
+                   not treated in accordance with them.17 Following the release of the report, NYU and its
+                   partners announced that they would make one-time payments to affected workers. Those
+                   payments have begun, and an update on that process is expected prior to the conclusion of
+                   the 2016-17 academic year. In October 2016, NYU Abu Dhabi also updated and publicly
+                   released its Supplier Code of Conduct.18
+
+                   Most commercial construction, engineering, architecture, and recruitment agencies in the
+                   region have yet to accept any responsibility for exploitative recruitment practices, despite
+                   corporate practices that effectively encourage them. Fixing the broken business model of
+                   migrant recruitment will require deep changes to the current practices of construction firms
+                   and their government clients; their subcontractors; cultural institutions; and governments in
+                   the Gulf and South Asia. This will be particularly important as sponsors of large construction
+                   projects and the companies that undertake them will continue to face intense scrutiny in the
+                   lead-up to events like World Expo 2020 and the 2022 FIFA World Cup.
+
+
+
+
+                                                                                                       M A K I N G W O R K E RS PAY | 0 7
+PA RT 1 - CONTEXT: TH E GC C C ON ST RUC T I ON I N D U S TR Y
+
+
+
+
+                   Industry Outlook Strong Despite Oil Price Volatility
+
+
+                                          Oil Price vs. GDP: United Arab Emirates, Qatar, Saudi Arabia
+
+
+
+
+                   While the GCC on the whole has experienced growth trends in line with the price of oil, Qatar’s growth has outpaced its
+                   neighbors’. This is in part due to Qatar’s huge reserves of natural gas. Since 2006, it has been the world’s largest liquefied
+                   natural gas (LNG) exporter.19 Above graph based on World Bank data. (http://data.worldbank.org/)
+
+
+
+
+                   Despite volatility in the price of oil beginning in 2014, Saudi Arabia, Qatar, the UAE,
+                   Bahrain, Oman, and Kuwait are on track to sustain significant growth through diversification
+                   of their economies and their large sovereign wealth funds.
+
+                   A steep decline in oil prices beginning in 2014 has hit Saudi Arabia particularly hard. In
+                   January 2016, the Saudi government announced plans to cut US$20bn in infrastructure
+                   expenditures in order to reduce its deficit.20 Payments for government-sponsored projects
+                   are so backlogged that credit rating agencies have advised businesses that loans already on
+                   the books to construction firms are at increased exposure to risk.21
+
+                   Construction projects in the Gulf operate on the “pay-when-paid” principle, whereby
+                   contractors pay subcontractors – and both pay their employees – only when clients pay
+                   them. This means that spending cuts trickle down to workers’ pay. In an example of the
+                   effects of falling oil prices, as of October 2016 the country’s largest construction company,
+                   the Saudi Binladin Group, had not paid hundreds of Indian migrant workers for months due
+                   to cash-flow issues on government-sponsored projects.22
+
+
+
+
+                                                                                                                                    M A K I N G W O R K E RS PAY | 0 8
+PA RT 1 - CONTEXT: TH E GC C C ON ST RUC T I ON I N D U S TR Y
+
+
+
+
+                   On the other hand, medium-term forecasts for the GCC construction industry are bright.23
+                   Oil prices already have begun to stabilize and a recent agreement by OPEC (Organization
+                   of the Petroleum Exporting Countries) obligates members to cut production in the first
+                   half of 2017.24 Additionally, steady growth over almost two decades has allowed GCC
+                   governments to partially insulate their economies from oil price shocks by establishing
+                   sovereign wealth funds and plans for economic diversification.25
+
+                   Moreover, despite recent difficulties, large Saudi infrastructure, oil and gas, and hotel
+                   contracts continue to be awarded,26 and already in the third fiscal quarter of 2016, a
+                   number of construction firms in the region reported higher profits year-on-year.27 The
+                   construction industries in the UAE and Qatar, in particular, have stable medium-term
+                   outlooks as these countries work to complete projects for marquee events like Expo 2020
+                   and the 2022 FIFA World Cup.
+
+
+
+                   Corporate Structures Create Incentives to Squeeze
+                   Labor Costs
+
+
+
+
+                   Once they arrive in the Gulf, migrant construction workers typically are employed by general contractors, “manpower
+                   agencies,” or smaller subcontracting firms. Low-skilled workers perform tasks such as painting, concrete work, and simple
+                   hauling. Qatar, April 2012. (Karen Blumberg)
+
+
+
+
+                   The construction industry encompasses a diverse range of specialized – and overlapping –
+                   government and business players (see Appendix 2). In the Gulf context, the commissioning
+                   sponsor (or “client”) of a large project typically is the government itself, with an affiliated
+
+
+
+
+                                                                                                                                M A K I N G W O R K E RS PAY | 0 9
+PA RT 1 - CONTEXT: TH E GC C C ON ST RUC T I ON I N D U S TR Y
+
+
+
+
+                   corporation or real estate developer responsible for overseeing design, construction, and
+                   facilities management.28
+
+                   Outside of select special economic zones, international construction firms wishing to win
+                   bids for GCC projects must team up with a local entity such that the resulting joint venture
+                   is majority-owned by the latter.
+
+                   To break into a market with as much growth potential as the GCC, design, contracting, and
+                   subcontracting firms are under pressure to cut costs and deliver bids as low as possible.
+                   With so many competitors bidding for projects, clients can drive the value of contracts
+                   downward by playing bidders off of one another. In a recent survey by Deloitte, 21% of
+                   construction industry executives said they would submit a bid with profit margins at lower-
+                   than-commercial value in order to secure new work in the GCC, with an additional 6%
+                   saying they would exclude profit altogether from a bid.29
+
+                   In bid submissions, the prices of construction materials are relatively fixed by market
+                   values at a particular time, but labor is considered a more flexible aspect of cost estimates.
+                   Since labor accounts for approximately 35% of the net value of all GCC projects currently
+                   under execution,30 financial analysts for construction firms precisely model labor costs, and
+                   understand that they must minimize them in order to be competitive in the bidding process.31
+
+                   According to a senior manager with more than two decades of experience in the construction
+                   industry in the region, accountants and other “bean counters” in the Gulf precisely measure
+                   the cost of labor. He said, “even subcontractors know exactly how many men they’ll need for
+                   a job.”32 This means that construction firms are seeking creative ways to reduce labor costs,
+                   including the costs of recruiting large migrant work forces. The result is a weakly controlled
+                   system for recruitment that passes on these costs to the workers themselves.
+
+                   Large construction firms serving as general contractors are key players that employ
+                   large numbers of low-wage workers. Evidence of this can be found in the Business and
+                   Human Rights Resource Centre’s 2016 survey of large construction firms operating in the
+                   Gulf. Fifteen firms responded to survey questions about current number of employees,
+                   representing 137,484 total employees. Of these, 62% were directly employed by those
+                   contractors. The remaining 38%33 were indirectly employed through subcontractors
+                   or labor supply “manpower agencies.”34 This indicates that for long-term projects, it
+                   is worthwhile for large contractors to directly employ workers, in addition to using
+                   subcontractors or temporary labor, employed by manpower agencies, as needed.
+
+                   Nevertheless, manpower agencies based in the GCC are an important part of the
+                   construction ecosystem. These agencies lease out migrant labor to contractors and
+                   subcontractors that have unpredictable and inconsistent labor needs. Like large
+                   contractors and subcontractors, manpower agencies effectively serve as the sponsors
+                   and official employers of migrants, who may work on many different job sites during their
+                   tenures in the Gulf. Subcontractors also can be workers’ direct sponsors and employers.
+
+
+
+
+                                                                                                        M A K I N G W O RK E RS PAY | 1 0
+PA RT 1 - CONTEXT: TH E GC C C ON ST RUC T I ON I N D U S TR Y
+
+
+
+
+                   Laws Prohibit Charging Recruitment Fees
+
+
+                   Charging workers for their own recruitment is illegal under international law and the
+                   laws of all six GCC countries. Since 1949, the International Labour Organization (ILO)
+                   Convention concerning Private Employment Agencies (No. 95) has prohibited the charging
+                   of recruitment fees to workers: “Any deduction from wages with a view to ensuring a
+                   direct or indirect payment for the purpose of obtaining or retaining employment, made
+                   by a worker to an employer or his representative or to any intermediary (such as a labour
+                   contractor or recruiter), is prohibited.”
+
+                   This principle has since been reaffirmed in multiple ILO conventions, including the Protection
+                   of Wages Convention of 1949 (No. 95), the Migration for Employment Convention of 1949
+                   (No. 97), the Migrant Workers Convention of 1975 (No. 143), the Private Employment
+                   Agencies Convention of 1997 (No. 181), and the Convention on Domestic Workers of 2011
+                   (No. 189).35 Although there is an active debate about exactly which fee components make
+                   up a “recruitment fee,”36 these conventions unambiguously ban the charging of migrants and
+                   workers for service fees affiliated with their own recruitment.
+
+                   However, all GCC countries and major South Asian migrant-sending countries, with the
+                   exception of the Philippines, have failed to ratify these ILO Conventions. Moreover, no
+                   GCC country has ratified the United Nations International Convention on the Protection
+                   of the Rights of All Migrant Workers and Members of Their Families,37 which combines
+                   many of the rights protections contained in the ILO Conventions, nor have a number of key
+                   South Asian migrant-sending countries like India, Pakistan, and Nepal.
+
+                   Nonetheless, each of these countries has domestic laws in place ostensibly intended to
+                   protect migrants. These include laws in every GCC country that ban Gulf-based employers,
+                   recruiters, or manpower agencies from directly charging migrant workers for their own
+                   recruitment.38 For example, in Qatar “[a] person who is licensed to recruit workers from
+                   abroad for others shall be prohibited from doing the following: Receiving from the worker
+                   any sums representing recruitment fees or expenses or any other costs.” The UAE’s laws go
+                   even further, seemingly banning the charging of fees in both the Emirates and in migrant-
+                   sending countries.39
+
+                   Migrant-sending countries also have a variety of laws meant to protect outgoing migrant
+                   workers. But some of these countries, including India and Bangladesh, fail to comply with
+                   international law concerning recruitment and permit workers to pay limited service fees.
+                   In India, the maximum amount a prospective migrant worker can be charged is INR20,000
+                   (app. US$300) or 45 days’ salary for the worker, whichever is less.40 In Bangladesh, the
+                   Ministry of Expatriates’ Welfare and Overseas Employment sets a much looser limit,
+                   permitting recruitment fees up to BDT84,000 (app. US$1,050).41 This is the highest limit of
+                   any major South Asian migrant-sending country.
+
+                   In practice, both sending and receiving countries lack the institutional capacity and, in many
+                   cases, the will, to enforce their own legal provisions. Migrant-sending countries benefit
+                   economically from the remittances that workers send home, and mostly are concerned
+                   with pressing destination countries to accept more of their workers.42 At the same time,
+                   migrant-receiving countries lack the incentives to more forcefully apply their own laws.
+
+
+
+
+                                                                                                       M A K I N G W O RK E RS PAY | 1 1
+PA RT 2 - THE BROK EN B USI N E SS MOD E L F OR R E C RU ITM EN T
+
+
+
+
+                   Part 2 - The Broken Business
+                   Model for Recruitment
+
+
+
+
+                   Workers from rural villages like this one in the Nizamabad District of Telangana State in India face limited economic
+                   opportunities at home. Migration to the Gulf can be an appealing option as a way to earn money to buy land, support
+                   family members, or start a small business. But recruitment fees – which many migrants are able to pay only after taking
+                   out loans with high interest rates – lead to extreme indebtedness and contribute to other forms of labor rights abuse that
+                   may curtail these dreams. Nizamabad District, Telangana State, India, November 2015. (David Segall)
+
+
+
+
+                   Payment of recruitment costs by low-wage workers is a central feature of the construction
+                   industry in the Gulf. With an abundance of willing migrants in countries like India and
+                   Bangladesh, most construction companies and their clients are pushing the costs of labor
+                   recruitment, especially for low-wage work, onto workers themselves as part of an overall
+                   effort to control labor costs. Prospective migrant workers are well aware that recruitment
+                   fees are an expected cost of migration to the Gulf; if they refuse to pay, there are many
+                   others who will do so.
+
+                   Most low-wage migrants to the GCC cannot afford to pay the fees required of them without
+                   grants from friends or family members, or loans from banks, lenders in their villages, or
+                   recruitment agents themselves. These loans are often granted only with extremely high
+                   interest rates. In Telangana State, the current going interest rate is between 24-36% per
+                   annum or 2-3% per month, plus 3% per month unpaid.43 Workers from Telangana reported
+                   being able to earn around AED1,000-1500 / QAR1200 (between US$270 and $410) per
+                   month for jobs as masons, with the possibility of a salary bump after a few years.44 With
+                   interest, then, these loans can take as long as many months to repay.
+
+
+
+
+                                                                                                                                 M A K I N G W O RK E RS PAY | 1 2
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                    The ability of workers to advocate for better working conditions is limited by the precarious
+                    financial position in which they are placed by recruitment fees. As has been well documented,
+                    workers in the GCC mostly lack the right to freedom of association; are routinely housed
+                    in crowded, dirty dormitories; have limited freedom of movement because their employers
+                    confiscate their passports and they require employer permission to leave the country; and
+                    sometimes are forced to work in punishing heat without adequate hydration.45 Workers’
+                    indebtedness exacerbates these other forms of mistreatment, and restricts already-limited
+                    access to legal recourse, by further limiting their ability to leave an employment situation
+                    even when they are victims of fraud or abuse.46
+
+                    Recruitment fees are such a challenging issue because of the global nature of the low-wage
+                    labor market. Even with a sustained construction boom in the Gulf, the supply of people
+                    willing to work for very low pay outstrips demand for their labor. Moreover, in a country
+                    like Bangladesh, where 8% of GDP comes from remittances,47 the government may be
+                    unwilling or unable to impose regulations which might reduce migration.48 But the payment
+                    of large fees by GCC migrant workers is not inevitable. Understanding the business drivers
+                    of these costs in the recruitment industry helps identify inefficiencies and opportunities for
+                    action that could change the current model.
+
+                    The findings below present a bleak view of the construction and recruitment industries
+                    pushing the burden of paying for the service of recruitment onto the least-skilled and
+                    lowest-paid workers. Workers cover not only the legitimate service costs of locating and
+                    screening themselves and processing their migration, but many additional fees on top of
+                    these costs, including kickback payments and markups to costs like travel. Breaking this
+                    cycle of extreme indebtedness on the part of the most vulnerable workers will require
+                    a fundamental shift in how construction firms and their Gulf-based clients structure
+                    construction bids to properly account and pay for recruitment costs.
+
+
+
+                    Finding 1: Low-Wage Workers Pay for Their Own
+                    Recruitment
+
+
+                    Recruitment is not free. But despite the requirement by migrant-sending countries that
+                    they work with local recruitment agencies to locate labor, the recruitment of low-wage
+                    migrant construction workers to the GCC is not a service for which most companies pay. If
+                    it were, companies with construction contracts and their clients in the Gulf would bear the
+                    costs of locating and delivering workers to these projects. In other business contexts, this
+                    would be calculated for the client as part of a project’s routine costs.
+
+                    This is, in fact, the model in other regions. For example, ABL Employment, a Canadian staffing
+                    and recruitment agency, details the mechanics of this common practice by noting on its
+                    website that “the fee for a staffing agency’s services is paid by the client company, so it’s free
+                    to register for those who are looking for work.”49 In Australia, the United Kingdom, and many
+                    European countries, it is illegal for recruiters to charge fees to workers they place, with some
+                    exceptions.50 Where it is not explicitly illegal, as in some European countries and the United
+                    States,51 business norms dictate that workers rarely pay fees to agencies.
+
+
+
+
+                                                                                                           M A K I N G W O R K E RS PAY | 1 3
+PA RT 2 - THE BROK EN B USI N E SS MOD E L F OR R E C RU ITM EN T
+
+
+
+
+                   One of the documents governing the relationship between construction companies and recruitment agencies is the
+                   aptly-termed “demand letter.” In a typical business-to-business relationship, contracts and related documents would lay
+                   out the rights and responsibilities of the parties to one another. In the case of low-wage recruitment, however, the demand
+                   letter is simply that – a demand for workers. It is not a promise to pay for the service of delivering these workers. Rather, it
+                   specifies the terms and conditions of employment for workers and may give power of attorney to the recruitment agency
+                   to fulfill the visa processing requirements on behalf of the ultimate employer. This executed demand letter, which is publi-
+                   cly posted on the website of the Embassy of Nepal in Saudi Arabia, specifies that the employer will not pay for recruitment
+                   services by saying, “Services Fees to agency: not provided.” (http://www.neksa.org/163.pdf)
+
+
+
+
+                                                                                                                                     M A K I N G W O RK E RS PAY | 1 4
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                    This is also increasingly the model in other industrial sectors commonly staffed by
+                    migrant workers. A number of major multinational corporations have worked with
+                    Verité to implement their “Ethical Framework for International Labor Recruitment”52 or
+                    with the Institute for Human Rights and Business’s Leadership Group for Responsible
+                    Recruitment.53 The Electronic Industry Citizenship Coalition, a trade group comprised of
+                    some of the world’s largest technology companies, bans the payment of recruitment fees
+                    by workers at any point in the supply chain.54 Large multinational corporations in the food
+                    and beverage, electronics, and apparel sectors have robust policies against the payment of
+                    recruitment fees, even as enforcement remains an issue.
+
+                    The international construction industry, on the other hand, lags well behind other
+                    sectors in this regard when it comes to migrant worker recruitment. While some industry
+                    professional groups, like Constructing Excellence55 and the Chartered Institute of
+                    Building, have acknowledged and seriously researched the issue,56 only a few companies
+                    have committed to standards like the Dhaka Principles for Migration with Dignity.57 And
+                    while Building Responsibly, the first international industry group dedicated specifically to
+                    tackling issues like recruitment fees, was founded in February 2017,58 many companies and
+                    trade groups remain hesitant to acknowledge their leverage.
+
+                    As a result, for the mega-projects in the Gulf region, it is a fundamental feature of the
+                    industry that the lowest-paid and most vulnerable workers almost always bear the costs
+                    of their own recruitment, and then some. Employing companies lower their bids to clients
+                    by avoiding paying recruitment agencies for the costs of recruitment. As Declan Croucher
+                    of Verité says, GCC-based construction companies are only absorbing “a small fraction [of
+                    recruitment costs], and only that which they can’t possibly avoid.”59
+
+                    Contracts between GCC-based construction companies and South Asian recruitment
+                    agencies obtained by the research team contained no mention of payment by the former
+                    to the latter. On the contrary, they specified that the recruiter incur all expenses related
+                    to the recruitment process in the sending country, including for skills-testing. At least one
+                    contract even specified that the recruiter act “loyally” and follow any “directive” of the
+                    employing company.
+
+                    In order to cover their own costs for recruiting low-wage workers and to turn a profit,
+                    recruiters charge prospective migrants. A Mumbai-based owner of a large recruitment agency
+                    noted that, “we prefer to work with companies that pay, but we charge [workers] if they won’t
+                    pay.”60 And as another Mumbai-based recruiter said, “if the [employer] isn’t providing anything,
+                    the candidate has to pay. Some [workers] are ready to go whatever we charge.”61
+
+                    Many construction firms are hesitant to discuss this business model, although some admit
+                    that they do not pay for recruitment but still blame agents for charging in excess of legal
+                    limits – which they believe would suffice to cover costs. Recruiters in India and Bangladesh,
+                    however, are quite open about who pays for the costs of recruitment. Benjir Ahmed, the
+                    president of the Bangladesh Association of International Recruiting Agencies (BAIRA) –
+                    the national recruitment agency trade group – put it straightforwardly when he said that
+                    recruiters “take service charges from workers and that is their revenue.”62
+
+                    Recruitment is an extremely competitive field, and recruiters report that they will go to
+                    great lengths to fulfill a demand letter. As one recruitment agent in Mumbai said, “If you’re
+
+
+
+
+                                                                                                         M A K I N G W O R K E RS PAY | 1 5
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   not fulfilling, the second time they won’t give you the contract.”63 Future business (really,
+                   the ability to sell visas to workers) depends on the recruiters’ ability to please the non-
+                   paying “client.”
+
+                   There are some scenarios in which employing companies do pay recruitment agencies,
+                   mostly for higher-skilled workers.64 One finding of our research in India is that unskilled
+                   workers therefore effectively subsidize the recruitment of higher-paid skilled workers.
+                   Skilled workers have more employment options and therefore refuse to pay fees to migrate.
+                   As one Dhaka-based recruiter with more than 20 years’ experience said, “for high-skilled, the
+                   company pays and pays service fee and ticket.”65 But like most recruiters in Dhaka, his agency
+                   sends only a small number of high-skilled workers. Others confirmed that employing companies
+                   typically pay to recruit skilled employees, even when they will not pay for low-wage workers.66
+
+                   While employing companies are more likely to pay recruiters for providing high-wage
+                   workers, interviews indicate that employers do not always pay for mid- and high-skilled
+                   workers. This means that recruiters are managing fluctuating demand and revenue cycles for
+                   varying skill levels of workers. Low-skilled workers – and their reliable willingness to pay for
+                   their own recruitment – therefore are essential to the recruitment business model.67
+
+                   To be clear, employing companies cannot solve the problem of recruitment fees simply
+                   by paying their recruiters in full. Recruiters and their subagents may still charge workers,
+                   regardless of whether or not they receive payment from the employing company. For this
+                   reason, employing companies must both pay and investigate their recruiters, and credibly
+                   threaten to terminate relationships when recruiters are found to be “double-charging.” But
+                   if employing companies are not paying recruiters, recruiters must charge workers.
+
+                   The failure of so many employing companies in the GCC to pay for recruitment has led
+                   to the creation of a parallel “ethical recruitment” industry. Ethical recruiters attempt to
+                   convince employers to pay for their services so that they can recruit low-wage workers
+                   who do not pay fees. In this sense, “ethical” recruiters are simply providing the kind of fee-for-
+                   service business that is the norm in many other parts of the world. Many are working on
+                   developing promising business models that would use scale to offset the cost to clients of
+                   paying for recruitment.
+
+                   But at the present time it is difficult for ethical recruiters to secure orders, since any cost is
+                   more than what many employing companies currently incur. Kenny Jephcott, the president
+                   of IML Employment Services in the UK, recalled: “We once had a high-volume [GCC-
+                   based] company approach us and say that they wanted ‘as many masons and electricians
+                   as possible.’ When we asked how much they’d pay per worker, they replied: ‘No, you
+                   misunderstood; we don’t pay for recruitment.’”68 Other ethical recruiters reported similar
+                   practices by multinational firms.
+
+
+
+
+                                                                                                           M A K I N G W O R K E RS PAY | 1 6
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   Finding 2: Workers Pay Significantly in Excess of the
+                   Real Cost of Recruitment
+
+
+                              Graph: Actual Cost of Recruitment vs. Fees Paid By Workers, in US Dollars
+
+
+
+
+                                                        *
+
+
+
+
+                                   *Cost of recruitment represented does not include cost of flight between sending
+                                   country and GCC or expenses related to residency in the GCC country.
+
+
+
+
+                   Other researchers have estimated that Bangladeshi migrant workers pay the highest
+                   recruitment fees in the world, ranging between US$1,675 and $5,150.69 Fees paid by
+                   Indian workers tend to be somewhat lower on average, although also substantial, ranging
+                   from around US$1,000 to $3,000 for migration to the Gulf.70 Prospective and former
+                   migrant workers interviewed in Hyderabad and Mumbai, India, corroborated these figures
+                   by claiming to be paying between INR120,000 (US$1,840) and INR190,000 (US$2,920)
+                   for their low-wage jobs.71
+
+                   There is a range of costs associated with recruiting migrant workers and transporting
+                   them to the Gulf, including: generating a pool of prospective workers through advertising
+                   and personal contacts; medical testing; screening for appropriate skills; visa and permit
+                   processing; and travel from rural areas to urban departure cities and onward to the GCC.
+
+
+
+
+                                                                                                                      M A K I N G W O R K E RS PAY | 1 7
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   Recruitment agents in India and Bangladesh and ethical recruiters operating in the region
+                   estimate these costs at between approximately US$400-650 for unskilled migrants, not
+                   including the cost of a flight or expenses required once the worker arrives in the Gulf, like
+                   residency permits. Marie Apostol of the ethical recruitment firm FairHiring, Inc. estimates
+                   that her firm cannot send a worker to Qatar for less than US$600, which includes a service
+                   fee.72 Matthew Hurley of Bright Star Careers estimates that for recruitment of low-wage
+                   workers to be worthwhile, his firm would require fees of one month’s salary – or a minimum
+                   of 1,600 AED (US$435) – from the employer, but that this would only be profitable for
+                   larger requirements.73
+
+                   Even once flight and GCC residency costs are factored in, adding several hundred dollars
+                   to the overall cost,74 this means that many Indian and Bangladeshi workers are paying
+                   well in excess of the actual costs of recruitment. The measure of fee inflation is explained
+                   by layers of agents involved in recruitment; visa selling schemes; and additional markups
+                   imposed through kickbacks, inflated transportation and other costs, and corruption. These
+                   factors are discussed in findings 3 through 6.
+
+
+
+
+                      Employers seeking workers in Gulf countries apply to the government, sometimes through a simple online portal
+                      like the one above, used in Qatar. Permission for visas is available at no cost or for small administrative processing
+                      fees, but often is resold to agents at significant markups. (“Labor Recruitment e-Service Quick Start Guide,”
+                      available for download at Hukoomi Qatar e-Government, http://portal.www.gov.qa/wps/portal/services/
+                      inviduallandingpages/labor+recruitment/submitlaborrecruitmentapplication)
+
+
+
+
+                                                                                                                                    M A K I N G W O R K E RS PAY | 1 8
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   Finding 3: Corporate Representatives Effectively Sell
+                   Visas to Recruiters, in Violation of GCC Laws
+
+
+                   The first form of fee inflation originates in Gulf countries, with the sale of visas to recruiters
+                   via demand letters. Demand letters require attestation by relevant labor governing bodies,
+                   but they usually receive this as a matter of course. As a result, the letter itself is considered
+                   a valuable commodity. In general, Gulf governments provide permission to issue visas to
+                   construction companies at a nominal cost. Companies in need of workers apply to the
+                   government for the appropriate number of visas, including with details about the number,
+                   nationality, professions, and genders of the workers required.
+
+                   Selling visa demand letters for profit is illegal in all GCC countries.75 But interviews at
+                   multiple levels of the recruitment supply chain reveal that the practice is common. Each
+                   seller along the chain takes a cut, so that by the time the relevant demand letter reaches
+                   the South Asia-based recruiter the visa’s eventual “price” already has been significantly
+                   marked up.
+
+                   These Gulf-based agents – sometimes referred to as dalals (brokers)76 – serve as the link
+                   between available jobs in the Gulf and the recruiters in South Asia who will deliver the
+                   workers. One recruiter from a large Dhaka-based agency described the role of these
+                   agents as being to “procure the visa from the employer and sell it to the recruiter.”77 In these
+                   cases, the dalal acts as a matchmaker between Gulf-based employers and South Asia-based
+                   recruiters. The dalal may himself work for the GCC-based employing company, exploiting
+                   his responsibility to procure labor for personal profit.78 In other cases, human resources
+                   officials with an employing company may have a preexisting relationship with a dalal who
+                   in turn connects them with recruiters in the sending country. Some GCC-based dalals are
+                   themselves from large South Asian migrant-sending countries like India and Pakistan.
+
+                   As a Dhaka-based recruiter described it, “the middleman sells the visas to the highest
+                   bidder, then matches the recruiter with the employer to issue the demand letter.” He
+                   continued, “middlemen are a menace, here and there.”79 Practices like this may occur with
+                   or without the knowledge of corporate higher-ups, and can occur regardless of whether a
+                   company pays its South Asia-based registered recruitment agency.
+
+                   These sales by construction companies or their representatives further inflate recruitment
+                   fees since registered agencies pass the cost on to workers. According to a senior manager
+                   with more than two decades of experience in the construction industry in the region: “This
+                   is how it’s always done … For large orders, we are talking about orders of in excess of several
+                   thousand workers. It’s well worth it for Indian recruitment firms to pay them off… All of this
+                   is a cost of business; paying everyone along the food chain is [considered] a business cost.”80
+
+                   While individuals receiving kickback payments for demand letters may come from various
+                   parts of employing companies’ corporate structures, human resources (HR) officials often
+                   are implicated by those with direct knowledge of the process. Ross Daines of FSI Worldwide
+                   stated that ethical recruitment is frequently believed in by employing companies’ senior
+                   management but that the process stalls when HR departments become involved and
+                   persuade management that there is no requirement to change the current system.81
+
+
+
+                                                                                                          M A K I N G W O R K E RS PAY | 1 9
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   The Qatar Foundation and Verité have explored the phenomenon of kickback payments
+                   made by many South Asia-based registered agencies to representatives of the employer.
+                   Verité estimates the value of these kickbacks to be US$300-$500 per migrant, depending
+                   on the migration corridors involved.82 A demand letter also may be re-sold several times
+                   before reaching the South Asia-based recruiter who will actually fulfill it, with each broker
+                   or agent marking up the price. Small Dhaka-based registered recruiters estimated the
+                   price they pay to brokers for a visa to Oman and Qatar at around BDT100,000 (app.
+                   US$1,250), and up to BDT150,000 (app. US$1,850) for a visa to Saudi Arabia.83 If a
+                   Bangladeshi worker pays US$3,500 to migrate, this would represent between one-third
+                   and one-half of his total migration fee.
+
+                   The ubiquity of this practice renders most ethical recruiters further unable to compete.
+                   An employee with one of India’s state-run recruitment agencies pointed out that “[b]ribes
+                   are very common. They give gold and diamonds [to company officials] … What can I give?
+                   Maybe an interview.” A cup of coffee? “Maybe,”84 he replied.
+
+                   Gulf governments periodically crack down on this practice.85 But the sale of demand letters
+                   is viewed by GCC authorities as mostly taking place either in sending countries or by
+                   migrants themselves in the GCC, rather than by their own citizens. Enforcement efforts,
+                   when they do occur, almost always target migrants. In August 2014, the head of Qatar’s
+                   Ministry of Interior’s Search and Follow Up Department pointed out that no individual
+                   Qatari had yet been convicted of a visa selling-related offense.86
+
+                   Likewise, GCC laws targeting visa violations tend to focus on low-wage migrants
+                   themselves, rather than the sellers of visas,87 and are applied to instances of visa “trading”
+                   within the country rather than to the sale of a demand letter to a recruiter abroad. As a
+
+                   “FREE” VISAS
+
+
+
+
+                    Workers without regular employment waiting to be hired at Souq Waqif in Doha, Qatar, April 2012 (Maythem Ridha)
+
+
+
+
+                                                                                                                          M A K I N G W O R K E RS PAY | 2 0
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   result, it is much more common for migrant workers who are in the GCC with visas that
+                   were traded to be deported than for sellers or traders themselves to be prosecuted.88
+
+                   There are multiple types of visas under which a worker can migrate to the Gulf. One of the
+                   most desirable is referred to by migrants and recruitment agents as a “free” visa. The term
+                   is a misnomer in the sense that prospective migrants actually pay more for them than for
+                   other visas, but they are desirable because workers can retain their passports and have
+                   freedom of labor movement while in the Gulf.
+
+                   As with other visas, freedom-of-labor-movement visas technically are tied to a particular
+                   employer in the receiving country. However, the employing sponsor applies for the visa with
+                   no intention of actually employing the worker. Instead, once the migrant arrives in the Gulf,
+                   the sponsor permits him to work elsewhere – for a price. In this way, some GCC citizens
+                   and corporations operating in the region use their ability to sponsor workers as a way to
+                   earn additional income. While these visas are risky for workers because they are in violation
+                   of the law and no official job awaits them in the GCC, they are highly sought after because
+                   they are perceived as being a pathway into entrepreneurship, potentially working for a
+                   family member already in business in the GCC. For this reason, many migrant workers pay
+                   well in excess of the average recruitment fee amount for these visas (see below).
+
+
+
+                   Table: Comparison of “free” visa migration fees and expected earnings for Bangladeshi migrant workers89
+
+
+
+                       Destination            Estimated fee paid by            Estimated expected              Average months to pay
+                                                  worker (USD)                 monthly salary (USD)             off fee, exclusive of
+                                                                                                                     other costs
+
+
+
+                       Saudi Arabia           $7,750                           $500                           16
+
+
+
+                       Kuwait                 $6,820                           $370                           18
+
+
+
+                       Bahrain                $4,340                           $370                           12
+
+
+
+                       Oman                   $2,890                           $280                           10
+
+
+
+                       Qatar                  $2,890                           $250                           12
+
+
+
+
+                   Note: In October 2012, the UAE unofficially suspended new visas for Bangladeshi workers, reportedly in retaliation for
+                   the Government of Bangladesh voting for Moscow over Dubai to host the 2020 World Expo. Although the UAE did not
+                   confirm the ban, and many Bangladeshis have migrated to the UAE in the interim period,90 recruiters appeared not to
+                   reference fees for the UAE because of the perceived ban. Visa bans are relatively common political tactics employed by
+                   migrant-receiving countries to pressure migrant sending countries; in August 2016, Saudi Arabia lifted a seven-year ban
+                   on low-wage Bangladeshi workers.91
+
+
+
+
+                                                                                                                               M A K I N G W O R K E RS PAY | 2 1
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   Finding 4: Layers of Agents Facilitate Migration while
+                   Increasing Costs
+
+
+                   The second source of inflation in the price workers pay is the layers of agents involved in
+                   the lengthy process of recruitment from a rural South Asian village to a Gulf construction
+                   site. There are three main roles for agents in this chain:
+
+                         • Gulf-based agents – Individuals living in GCC countries who procure demand
+                           letters for laborers for South Asia-based recruiters. These agents may operate
+                           illegally (see finding 3) or legally; Gulf-based registered recruiters commonly
+                           are used to locate domestic workers, for example.
+
+                         • South Asia-based urban recruiters – Companies registered and authorized
+                           by their governments to process and facilitate migration. Usually urban-
+                           based, they receive demand letters for workers from GCC-based firms
+                           (sometimes via Gulf-based agents), and coordinate a recruitment process to
+                           deliver the required workers.
+
+                         • Subagents in South Asia – A group of mostly unregistered, independently
+                           operating individuals based in rural villages and district centers – usually with
+                           personal connections to pools of prospective migrants – who identify and collect
+                           the required number of workers on behalf of larger recruitment agencies.
+
+
+
+
+                   Recruitment agencies are a common part of the cityscape in places like Hyderabad, India. This building houses at least two
+                   agencies and two money transfer offices, likely used by migrants to send portions of their salaries home. Hyderabad, India,
+                   2015. (David Segall)
+
+
+
+
+                                                                                                                                 M A K I N G W O R K E RS PAY | 2 2
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   Smaller agents in big cities may directly process only a few migrants each year. To augment revenue flows, they sometimes
+                   take on administrative work from larger agencies, such as seeking approval from relevant government offices. Lower-level
+                   agencies clear BDT500-600 (US$6-8) per worker processed in these cases. Here, agents endure long waits at Bangla-
+                   desh’s Bureau of Manpower, Employment and Training (BMET) while submitting forms for migration approval on behalf of
+                   other agencies. Dhaka, Bangladesh, August 2016. (Bishawjit Das)
+
+
+
+
+                   Gulf-based agents, discussed above, are the primary conduits for the first sale of groups
+                   of visas, via demand letters, for workers. Once the agent “matches” the demand letter to a
+                   South Asian recruiter – often for a price – that recruiter can begin the process of collecting
+                   workers to fulfill it.92
+
+                   Registered agents are usually based in urban areas. They do everything from procuring
+                   demand letters from the GCC, to processing visas with relevant local government
+                   authorities, to seeing migrants off at the airport. In both Bangladesh and India, a handful of
+                   large recruitment agencies process the lion’s share of migrants. A high-ranking employee
+                   with a large, Mumbai-based recruitment agency estimated that his company, which
+                   processes around 2,500 workers per year, is among the top 10 senders nationally.93
+                   Two registered agents in Dhaka claimed that only 5% of active registered agencies,
+                   representing seven companies, process around 80% of Bangladeshi migrants each year.94
+
+                   Of all registered agencies, then, only a small minority are able to procure demand letters
+                   directly from GCC contacts – either directly from companies or from brokers. Some of these
+                   agencies re-sell the demand letter to another recruitment agency once they procure it. The
+                   profit margin on this transaction is relatively high; Bangladeshi agents reported purchasing
+                   a “visa” (in the form of a demand letter) from other agents for between BDT100,000 and
+                   BDT150,000 (between app. US$1,250 and $1,850) and re-selling it to another agency for
+                   BDT200,000 (app. US$2,500).95
+
+                   The majority of registered agents in Dhaka perform specialized tasks in accordance with
+                   their capacities. Some buy and re-sell demand letters, while other even smaller ones make
+
+
+
+                                                                                                                               M A K I N G W O R K E RS PAY | 2 3
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   ends meet by charging modest fees to large agencies or even to individual migrants to
+                   process administrative paperwork with emigration authorities. While the markups may be
+                   small for these kinds of administrative tasks, they add up to collectively contribute to the
+                   total fee migrants pay.
+
+                   Recruiters strive to move up the pecking order and to secure greater margins by
+                   procuring demand letters themselves, but, as noted by one recruiter who mostly does
+                   processing work for other agencies, “we don’t [procure demand letters directly from the
+                   GCC] because we don’t have the contacts. This is capitalism: there are more low-level
+                   businessmen than high-level.”96
+
+
+
+                   GOVERNMENT-OPERATED RECRUITMENT AGENCIES IN INDIA
+
+
+                   In India, prospective migrants in states like Kerala and Hyderabad technically have access
+                   to government-run recruitment agencies, which collect fees from employing companies
+                   and charge workers anywhere from nothing to INR20,000 (app. US$300) – the legal limit,
+                   but significantly less than many end up paying to private recruiters. In practice, however,
+                   very few migrants avail themselves of the opportunity to work with these agencies, which
+                   are generally based in large urban areas, removed from the rural areas which often provide
+                   large numbers of low-wage migrants. Migrants tend to view locally-based agents, who are
+                   themselves often members of migrants’ communities, as more easily held to account than
+                   remote, bureaucratic, and potentially corrupt government officials.
+
+                   These government-run programs often operate on tight budgets, are unable to penetrate
+                   into remote areas, and are themselves hesitant to process low-wage workers. An employee
+                   with ODEPC, a state-run agency in Kerala, said that the agency only processes between
+                   500 and 1,000 nurses per year, out of around 20,000 nurses in the state who migrate
+                   annually. ODEPC does not process low-wage workers; the employee at ODEPC admitted
+                   that “90% of employers” of low-wage workers don’t want to pay for recruitment, so they
+                   could not feasibly recruit these workers without losing money by charging them amounts
+                   within the legal limit.97
+
+
+
+                   Finding 5: While Subagents Add to the Costs of Recruit-
+                   ment, They are Essential to Recruiting Rural Workers
+
+
+                   Many people view subagents as the root of the problem of the payment of high recruitment
+                   fees, and propose that their elimination would solve the problem. As Benjir Ahmed, the
+                   president of BAIRA, noted, “[i]f you eliminate subagents, you could bring the migration
+                   costs down.”98
+
+                   But it is not clear that large-scale, low-wage migration can proceed without rural
+                   subagents. Based on our interviews, subagents serve an essential function, even as they
+
+
+
+
+                                                                                                      M A K I N G W O R K E RS PAY | 2 4
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   Rural recruitment subagencies like this one in Kamareddy village in Nizamabad, Telangana State, India are the first – and
+                   sometimes only – point of contact for workers seeking to migrate. They collect money from workers, some of which is then
+                   passed on to other larger agents up the chain. This subagency reportedly has folded operations since the photograph was
+                   taken in November 2015. (David Segall)
+
+
+
+
+                   contribute to fee inflation by charging their own markups on top of other agents’. Most
+                   importantly, subagents help overcome significant geographic obstacles to migration and
+                   recruitment. It is cumbersome and costly for urban-based recruiters to cover wide swaths
+                   of rural territory to recruit sufficient numbers of workers. A Mumbai-based recruiter noted,
+                   “we can’t avoid working with the subagents if we need to respond to quick demand.”99
+                   Another commented, “if you go to the village [without a subagent], you only get ten workers
+                   when you need 200.”100
+
+                   Migrants in rural areas tend to be uneducated and may be illiterate. Trust-based
+                   relationships with a local agent can give families confidence when making a significant
+                   investment to send a son or other relative abroad. In the context of complex legal processes
+                   that require documentation to provide remedy, migrants also view subagents as perhaps
+                   the only avenue to pursue accountability if something goes wrong. According to Sister Lissy
+                   Joseph, a workers’ rights activist based in Hyderabad, India: “As long as there is no efficient
+                   and effective system created by the Government in migration-prone areas… the subagents
+                   will be their easiest approach.”101
+
+                   Even in the absence of a paper trail, the subagent’s reputation and ability to continue
+                   operating in his village or region may depend on refunding the bulk of the prospective
+                   migrant’s fee if the migration goes awry. M. Bheem Reddy, a trade unionist and migrant-
+                   rights activist from Hyderabad, noted that with subagents, the migrant may know “he’s
+                   paying more, but he wants to pay someone he knows” so that he can seek recourse if
+                   necessary.102 According to the brother of a longtime Bangladeshi migrant worker in Saudi
+                   Arabia: “Even people in Dhaka prefer to give money to people in the village. How can a
+
+
+
+
+                                                                                                                                M A K I N G W O R K E RS PAY | 2 5
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   worker recover the money if he can’t go abroad? In the village, his family will be able to get
+                   the money back. Usually [the subagent] doesn’t return the money immediately. He returns
+                   it in installments, sometimes a little less, but usually they get the money back.”103
+
+                   A contractor from Darpally, India, recalled someone in his village who recently paid
+                   INR120,000 (US$1,840) to migrate but returned after just one month with serious
+                   grievances against his employer. The Darpally-based subagent he had paid reimbursed
+                   INR70,000 (US$1,080) to him out-of-pocket “just for reputation.”104
+
+                   In India, registered agencies must deposit bank guarantees for each migrant processed, and
+                   are technically responsible for assisting and reimbursing migrants who face abuse, fraud, or
+                   poor conditions upon arrival in the GCC. In Bangladesh, the recruitment trade association,
+                   BAIRA, requires member agencies to deposit funds with it in order to obtain registration,
+                   In practice, however, migrants and subagents often are left to settle the score amongst
+                   themselves, even if a subagent has since forfeited the majority of the fee s/he had collected
+                   to other agents along the chain.105 Guarantee bonds required of recruitment agencies by
+                   employers in receiving countries only apply to issues faced once the migrant arrives, and
+                   will not cover things like discrepancies between promised and actual salaries (instead, the
+                   bank guarantee may cover the cost of a flight home for a migrant who “does not work out”
+                   due to medical condition, lack of competency, or homesickness, or may serve as punitive
+                   reward for the employer in such cases).
+
+                   Registered recruitment agencies sometimes deny using subagents106 or claim they are
+                   unaware of markups charged by subagents to migrants. According to a registered agent
+                   in Mumbai, the “subagent is giving us the candidate. Only they take the fee from the
+                   worker.”107 The same registered agent noted that his fee was within the legal limit, and that
+                   “it’s none of our business how much the candidate pays the subagent … If the candidate
+                   is ready to pay [the subagent], that’s between them.” 108 Another Mumbai-based registered
+                   agent agreed: “We don’t pay the subagent; the worker pays the subagent. I can’t say how
+                   much they pay.”109
+
+                   Because there is no paper trail documenting migrants’ transactions with subagents, it is
+                   difficult to know how much they charge. Registered agents in Dhaka, however, estimated
+                   that subagents gross around BDT50,000 (US$620), and earn BDT10,000 (US$120) in
+                   profit per worker. This amount may be divided between a handful of subagents at the
+                   village, district, and national levels.110 One unregistered subagency in Telangana State, India,
+                   noted that its commission depends on the services it provides to the worker. For “normal”
+                   services, this company claimed to charge between INR35,000 and 50,000 (app. US$550 to
+                   $775), although it was not clear how much of this they would take as commission and how
+                   much covers their expenses.111
+
+
+
+
+                                                                                                        M A K I N G W O RK E RS PAY | 2 6
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   At a local police headquarters in Bheemgal, Nizamabad District, Telangana State, India in November 2016, five alleged
+                   victims of migration fraud (pictured right) recounted their story in the presence of the police sub-inspector. The individuals
+                   claimed that a subagent had promised them jobs as cleaners paying AED1,500 (US$410) per month in Saudi Arabia
+                   and Dubai. He charged the men fees ranging between INR60,000 to 80,000 (US$920 to $1,230) to cover costs, which
+                   he claimed included a “10-15% commission” for himself, but the jobs never materialized. When the subagent in question
+                   then approached the group, the sub-inspector of police (pictured third from left) explained that a mediation process was
+                   underway. All parties agreed that they blamed the licensed registered agent in New Delhi for the false promises of jobs and
+                   the theft of at least one prospective migrant’s passport.
+
+
+
+
+                    Finding 6: Even Small Transactions Present the
+                    Opportunity to Charge Workers
+
+
+                   As with service fees, if employing companies are not paying for other legitimate recruitment
+                   costs like medical screenings, skills testing, and visa processing fees, recruitment agencies
+                   pass these costs onto migrants. Some recruitment agents also mark these costs up above
+                   their true value, “selling” them back to the migrant for a profit.
+
+                   While individual administrative charges may be small, these fees add up. According to Verité,
+                   the total true cost of recruitment for a worker from Nepal to Qatar is up to US$1,400,
+                   including international travel.112 But because service fees and each of these small costs is
+                   marked up and flipped back to migrants, many migrants pay well in excess of this amount.
+
+                   “Hospitality expenses” are a particularly stark example. Some companies send skills testers
+                   to evaluate workers, and these testers may require payments from recruiters, sometimes in
+                   addition to payments already made to human resources officials to secure demand letters.
+                   This holds true even for pools of construction workers who will engage in work requiring
+                   little-to-no formal training. Some recruitment agencies in South Asia justified, on behalf of
+
+
+
+
+                                                                                                                                    M A K I N G W O R K E RS PAY | 2 7
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   their clients, the practice of sending skills testers for low-wage workers by referring to the
+                   employers’ need to evaluate migrants’ “physiques.”
+
+                   According to the senior manager with more than 20 years’ experience in the region: “It’s
+                   not just HR people who go to sending countries and are paid off; it’s general foremen and
+                   supervisors who know how to evaluate skills … A general foreman might be tickled to go
+                   to India”113 to recruit low-wage workers. Kenny Jephcott of IML Recruiters noted that
+                   “corruption is so endemic that the feeling is: ‘I’ve worked hard to become a manager. One
+                   perk I get for being a manager is money for [bringing in] business … If not for me, this guy
+                   would be starving in India. Now he gets to work in a shiny city in the Middle East …’ We
+                   have to break that mentality.”114
+
+                   If an employer representative comes to India or Bangladesh for a week, he will likely stay
+                   at the priciest hotels – for example, the Taj Mahal Palace or Trident Oberoi in Mumbai, or
+                   the Pan Pacific, Sheraton, or Westin in Dhaka. As a different Dhaka-based recruiter noted,
+                   “sometimes he’s my guest,” meaning that the recruiter pays the hotel bill.115 According to
+                   the same recruiter: “The hotel bill we have to pay. If they recruit 100 workers, the hotel
+                   bill is not very big for three nights.”116 A Mumbai-based recruiter confirmed the practice:
+                   “If they ask [for hospitality expenses to be paid for], we are comfortable. Business is going
+                   on so we have to pay for it.”117 A human resources representative with a large GCC-based
+                   construction firm, who had made dozens of recruitment-related trips to South Asia –
+                   noting that his “passport is always full” – agreed that hospitality costs are always paid for.118
+                   When asked if they are ever requested to pay for things like alcohol or prostitution for
+                   employer representatives, one worker with a Mumbai-based registered recruitment
+                   agency replied: “Ninety percent of them don’t want prostitutes.”119
+
+                   International travel is another example of a cost that is both inflated and passed on to
+                   workers. A commercial travel agent in Mumbai who does not provide services to the
+                   recruitment industry explained how workers pay inflated prices even for their flights, in
+                   cases where travel is arranged and paid for by the recruiter rather than the employing
+                   company. The price of flights to the GCC advertised by recruiters to workers ranges between
+                   INR17,000 and 24,000 (US$260 – $370). But if recruiters purchase tickets in bulk or have
+                   special arrangements with travel agencies, the actual cost to recruitment agencies for the
+                   same flights may be as low as INR10,000 – 15,000 (US$150 – $230).120 The owner of a
+                   medium-sized Mumbai-based recruitment agency concurred, identifying the advertised price
+                   of a ticket as around INR18,000 (US$280), with the actual “bulk cost” for the same ticket,
+                   paid by the agency to travel agents, as INR11,000 – 12,000 (US$170 – 180).121
+
+                   In Dhaka, recruiters identified the price of a ticket advertised to workers as BDT18,000
+                   – 25,000 (US$220 – 310),122 and the real price for agencies as BDT14,000 – 15,000
+                   (US$170 – 190).123 In both countries, the difference between the advertised price and the
+                   actual cost is more than US$100. This difference is borne by prospective low-wage migrant
+                   workers. As two small recruiters in Dhaka said, “workers who fly abroad don’t know
+                   anything about the cost of a ticket.”124
+
+                   Airlines and recruiters negotiate directly with one another for bulk seat purchases with
+                   flexible travel dates. This flexibility allows the airline to fill seats on days when travel volume
+                   is light, increasing efficiency and profitability for the airline. This means that workers not only
+                   pay a markup on the ticket price, but may also bear the cost of staying in the departure city
+
+
+
+
+                                                                                                            M A K I N G W O R K E RS PAY | 2 8
+PA RT 2 - THE BROK EN B USI N E SS MO D E L F O R R E C RU ITM EN T
+
+
+
+
+                   while waiting for a travel day that is convenient to the airline. As the travel agent recounted,
+                   workers either pay for a hotel or sleep on the street in Mumbai. “They must wait for the most
+                   advantageous day to fly,” he said. Advantageous, of course, for the airline.
+
+                   In Bangladesh, a large recruitment agent described how travel agents earn a 7%
+                   commission on the price of flights sold to migrants, of which 5% goes back to “his loyal
+                   client,” the recruiter.125 This provides an additional source of revenue – again paid by
+                   low-wage workers – for recruiters. As with almost every aspect of the many transactions
+                   involved in migration, workers are vulnerable to non-transparent pricing.
+
+                   While this report only covers workers who arrive in the GCC on visas meant for laborers,
+                   many migrants arrive in the region – particularly the UAE – on tourist visas. In order to do
+                   so, they often pay off migration officials in their countries of origin, and sometimes in the
+                   destination country as well.
+
+                   In other cases, migrants arrive to countries like Qatar on “business visas” intended for high-
+                   paid businesspeople meant to remain in the region for a limited period of time. Workers
+                   brought in on these visas typically encounter the same recruitment fee-related challenges
+                   as those described in this report.
+
+                   “Hospitality” kickbacks, travel markups, and payments for non-labor visas are just three
+                   of many examples of opportunities seized upon by various actors to earn a profit, thereby
+                   increasing the fees borne by migrants themselves to well beyond the true cost of migration.
+
+
+
+
+                                                                                                         M A K I N G W O R K E RS PAY | 2 9
+PA RT 3 - CONCL US IO N S A N D R E C O MME N DAT I ON S
+
+
+
+
+                   Part 3 - Conclusions and
+                   Recommendations
+
+                   Conclusions
+
+
+                   Many South Asian workers are making a rational economic choice to seek greater
+                   economic opportunity through employment in the Gulf-based construction industry. But
+                   their recruitment is exploitative because of the high recruitment fees they are compelled
+                   to pay. Workers pay, in contravention of the law, for their own recruitment, for additional
+                   costs, and for markups to those costs. Many workers from India and Bangladesh pay
+                   thousands of dollars in excess of the real cost of recruitment to make the journey into
+                   employment in the Gulf region.
+
+                   Excess costs borne by workers arise from a variety of factors, including a high degree
+                   of informality and a lack of transparency inherent in the current business model for
+                   recruitment. The failure of construction firms to account and pay for the recruitment of
+                   low-wage workers as part of routine project costs, due in part to pressure from clients
+                   who demand cheaper bid offers, is another major contributing factor to workers’ extreme
+                   indebtedness and vulnerability to abuse. Moreover, a culture of permissiveness around
+                   visa selling by representatives of Gulf-based construction firms is the initial source of
+                   significant fee inflation.
+
+                   Many recruiters also bear significant responsibility for taking advantage of low-skilled
+                   workers by inflating fees at almost every step of the recruitment process. Recruiters
+                   often turn a blind eye to additional fees collected from workers by their subagents, which
+                   are another source of inflation to the costs workers ultimately bear. Tragically, it also is
+                   the lowest paid workers who sometimes subsidize higher-skilled workers in the erratic
+                   recruitment marketplace.
+
+                   Governments in the Gulf and South Asia also are failing low-wage migrant workers.
+                   Many countries around the world require employer sponsorship of migrant workers, but
+                   few restrict workers’ economic and physical movement as strictly as in the GCC. While
+                   encouraging, recent reforms to the kafala system in countries like Qatar, the UAE, Bahrain,
+                   and Kuwait are not sufficient, especially in the absence of meaningful enforcement.
+
+                   In India and Bangladesh, governments are not in compliance with international standards
+                   for migration in allowing workers to be charged fees. This is particularly egregious in
+                   Bangladesh, where the high legal limit on fees contributes to the extremely high fees
+                   Bangladesh workers must pay to migrate. In both South Asia and the Gulf, governments
+                   are not doing nearly enough to enforce violations of existing laws intended to protect
+                   workers, and there are few examples of prosecutions that would discourage the kind of
+                   exploitation that is all too common in the current model.
+
+
+
+
+                                                                                                       M A K I N G W O R K E RS PAY | 3 0
+PA RT 3 - CONCL US IO N S A N D R E C O MME N DAT I ON S
+
+
+
+
+                   Recommendations
+
+
+                   Construction and engineering companies operating in the GCC should:
+
+                        • Assess the real costs of recruitment. Large construction and engineering
+                          firms should commission an industry study of the actual costs of recruitment
+                          for construction workers coming to each GCC country from India, Bangladesh,
+                          Nepal, Pakistan and Sri Lanka. The study, which could be undertaken by a think
+                          tank, academic institution, or consulting firm, should include the costs of each
+                          component of the recruitment process, including the various levels of agencies
+                          required. The results of this study would set the stage for an industry-wide
+                          fee-for-service model with appropriate cost controls.
+
+                        • Pay for all recruitment-related services. Companies and their GCC
+                          clients should adopt a standard fee-for-service recruitment system for the
+                          construction industry. Project bids submitted by companies to clients should
+                          consistently, accurately, and comprehensively account for all of the costs
+                          of recruiting all skill levels of workers, including document processing fees,
+                          worker travel, and subagent service fees, when required.
+
+                        • Audit recruitment hubs in South Asia to spot-check whether workers are
+                          being overcharged. Even if companies pay recruiters, those recruiters – and
+                          their subagents – may take advantage of workers by charging them fees.
+                          Companies should undertake unannounced and random audits of a sample
+                          of their South Asia-based recruiters to assess whether workers are being
+                          charged, and should penalize their recruiters when violations are discovered
+                          or work with them to achieve swift compliance, when possible.
+
+                        • Execute mutually-binding contracts with recruiters. Contracts for
+                          recruitment services between employers and recruiters should explicitly
+                          require payment by employers for services, ban the charging of fees by
+                          recruiters or their subagents, and provide recourse to both recruiters and
+                          employers if contractual terms are breached. Long-term, stable relationships
+                          between recruiters, their commercial clients, and the workers they are helping
+                          to place also would enhance transparency and trust across the industry.
+
+                        • Disrupt the visa-selling system in the GCC by auditing visa issuance
+                          procedures. The largest construction firms operating in the Gulf – both local
+                          and multinational enterprises – should clearly prohibit the sale of demand
+                          letters and embrace strict measures to end this practice. Each of these
+                          companies should conduct internal audits to identify whether and how these
+                          sales are happening within human resources or other departments, and take
+                          swift corrective action when required.
+
+
+
+
+                                                                                                      M A K I N G W O R K E RS PAY | 3 1
+PA RT 3 - CONCL US IO N S A N D R E C O MME N DAT I ON S
+
+
+
+
+                   GCC-based clients should:
+
+                       • Co-commission a study with engineering and construction firms – or
+                         commission an independent study – on the real cost of migration. GCC-
+                         based clients may be government-affiliated entities, but they also are often
+                         corporations with their own interests in keeping costs down. The outcomes
+                         of either a study co-commissioned with construction firms or of two separate
+                         studies could form the basis for honest cost negotiations between project
+                         clients and employing companies in the tender process.
+
+                       • Only accept bids which accurately account for the cost of recruitment.
+                         If clients are not paying their contractors for the full cost of recruitment, the
+                         likelihood that companies also are not paying their recruiters dramatically
+                         increases.
+
+                       • Give preference to contractors that can provide proof of payment to
+                         recruiters. Also give preference, in bids, to contractors that offer proof of
+                         robust auditing and inspection policies and practices.
+
+
+                   GCC governments should:
+
+                       • Investigate and prosecute the sale of visas through demand letters. Gulf
+                         governments should explore special mechanisms for investigating, prosecuting,
+                         and adjudicating violations of their laws around visa selling, whether
+                         conducted by foreign nationals or GCC citizens. Enforcement efforts should
+                         target both informal brokers and registered agencies in GCC countries.
+
+                       • Reform immigration and labor laws in line with international standards.
+                         All GCC countries should loosen restrictions to allow workers to switch
+                         employers, especially if the employer is violating their rights at work.
+                         Immigration law reform also should remove the ability of companies to limit
+                         freedom of movement by denying their employees exit permits in certain
+                         GCC countries. GCC governments should move to permit full freedom of
+                         association and the freedom to organize, both for migrants and their own
+                         citizens, in line with international standards. GCC countries also should sign all
+                         relevant ILO and UN conventions protecting the rights of migrants.
+
+                       • Enforce protective laws already on the books. Most GCC countries have
+                         laws in place that require minimum standards for worker housing, payment of
+                         wages, and worker health and safety. GCC governments should expand their
+                         inspection forces to more robustly enforce those laws, and should regularly
+                         publish detailed and cited statistics on inspections conducted, violations
+                         discovered, and penalties levied.
+
+
+
+
+                                                                                                         M A K I N G W O R K E RS PAY | 3 2
+PA RT 3 - CONCL US IO N S A N D R E C O MME N DAT I ON S
+
+
+
+
+                   The governments of India, Bangladesh, and other major migrant-sending South Asian
+                   states should:
+
+                        • Abolish or narrowly limit recruitment fees. Bangladesh, India, and other
+                          South Asian states should impose legal limits on recruitment fees that comply
+                          with international standards. This means that fees should either be banned
+                          outright or permitted only for services like resumé processing and skills
+                          trainings. The current legal fee limits in several South Asian countries are
+                          well in excess of this amount. Once altered, South Asian governments should
+                          aggressively enforce these limits, and hold recruitment agencies and agents
+                          liable for violations.
+
+                        • Legalize, license, and regulate subagents. Subagents provide value to
+                          licensed, urban-based recruiters, and therefore to employing companies in
+                          the GCC and their clients. Subagents should be legalized, registered, and
+                          regulated by all sending-country governments. This is a challenging task. The
+                          most practical way to accomplish this is to require licensed agencies to register
+                          the agents with whom they work, and then to actively investigate them to
+                          uncover any failures to report. Since subagents are often well-known in their
+                          regions of operation, local authorities should be enlisted and empowered to
+                          assist with this task. Once a critical mass of subagents is registered, they will be
+                          incentivized to report others who are not and might therefore undercut them.
+
+                        • Sign all ILO and UN conventions that protect the rights of migrants.
+                          Major sending countries avoid signing these conventions either for fear of
+                          upsetting migrant-destination countries like those in the GCC, or because
+                          they permit the charging of recruitment fees up to certain amounts. Migrant-
+                          sending countries should explore the possibility of signing these conventions
+                          simultaneously, so as not to undercut one another’s standing with migrant-
+                          receiving governments like those in the GCC.
+
+
+                   All stakeholders should:
+
+                        • Collaborate to adopt a model of shared responsibility. All key actors, including
+                          those addressed in these Recommendations, as well as recruiters and workers
+                          themselves, should convene to develop a common plan of action for addressing
+                          the issue of recruitment fees paid by low-wage migrant workers. Together, they
+                          should assess the cost of this course of action, and formulate, agree upon, and
+                          implement an equitable plan to share responsibility for this cost.
+
+
+
+
+                                                                                                         M A K I N G W O R K E RS PAY | 3 3
+A P P ENDIX 1: METHOD OLO GY
+
+
+
+
+                Appendix 1: Methodology
+                As with all of our work, this report focuses on understanding the business drivers behind
+                human rights abuses. Scholars, researchers, journalists, and advocates have begun to
+                develop a field of practice around labor rights issues in the construction industry.126 It is
+                now well documented that migrant workers in the Gulf endure harsh conditions, even as
+                they continue to arrive by the hundreds every day. Our aim is to help explain why one of
+                those abuses – the common payment of hefty recruitment fees – continues to occur by
+                revealing the business practices that underlie the recruitment industry.
+
+                This report is based on five research trips to South Asia and the Gulf; interviews with
+                more than 100 topic experts, professionals, and migrants across the construction and
+                recruitment industries; documentary evidence; and data and policy analysis. We conducted
+                research in the low-wage migrant-sending region of Telangana State, India, and the cities
+                of Trivandrum and Cochin in the migrant-sending State of Kerala, India in November 2015;
+                in Doha, Qatar and Dubai, UAE in February and April/May 2016 and in March 2017; in
+                Abu Dhabi, UAE in February 2016 and in March 2017; and in Mumbai, India and Dhaka,
+                Bangladesh – where many registered recruitment agencies are located – in August 2016.
+
+                From the labor supply side, we focus on India and Bangladesh because of the large volume
+                of migrants coming from both countries, as well as a desire to begin filling research gaps
+                in both places. India consistently sends more migrants to the GCC than any country in the
+                world; about as many people as the next four countries – Bangladesh, Pakistan, Egypt, and
+                the Philippines – combined.127 Indian migrants also represent a diverse mix of skill levels,
+                ranging from low-wage construction and domestic workers to highly-trained engineers
+                and business executives. Earlier research has shown that Bangladeshi migrants, who on
+                average are less educated than their Indian counterparts, pay significantly higher fees
+                due to a more economically dire economic situation in their home country and a resulting
+                increased demand for the right to migrate. Bangladesh also has not previously been
+                studied in the same depth as other key countries, such as Nepal.
+
+                From the labor demand side, the UAE and Qatar are particularly interesting because
+                of the number of construction projects carried out on behalf of international cultural,
+                educational, and artistic institutions, including NYU’s campus; the planned Guggenheim
+                and Louvre Museums in Abu Dhabi; venues for 2020 Word Expo Dubai; and the World
+                Cup stadiums and related infrastructure developments in Qatar. The Saudi Arabian
+                construction market is the largest in the region and requires further study, but many
+                organizations, including our Center, are deterred from doing so by strict government
+                entrance policies.
+
+
+
+
+                                                                                                     M A K I N G W O R K E RS PAY | 3 4
+A P P ENDIX 2: CORPOR AT E RO L E S I N GC C C ON ST RU CTI O N P RO JECTS
+
+
+
+
+                   Appendix 2: Corporate Roles
+                   in GCC Construction Projects
+                  Table: Variants of Corporate Involvement in Design-Bid-Build (DBB) Procurement / Delivery
+
+
+                      Project Stages                               Involvement of Various Business Stakeholders
+
+
+
+                      Planning / Design                                                    Client
+                                                                       Designer
+                                                                                                             Project
+                                                                                                             Manager
+                      Procurement / Bidding                            General
+                                                                     Contractor(s)
+
+                                                                                          General            General
+                                                                                        Contractor(s)      Contractor(s)
+                      Construction
+
+                                                                   Subcontractors      Subcontractors
+
+
+
+
+                                       Contractual relationship
+                                       Working / non-contractual relationship
+
+
+
+
+                   The primary roles in most GCC construction projects are:
+
+                       • Client: Commissions and pays for the project. Can be a GCC government
+                         entity such as a utilities authority, government-chartered and funded
+                         corporation, or subsidized real estate developer.
+
+                       • Design firm: Draws up architectural plans for a project. Some firms specialize solely
+                         in architecture and/or engineering, whereas some architectural departments are
+                         divisions of project management firms or contractors (see below).
+
+                       • Project management consultant: Provides advisory services to the client,
+                         including planning and sometimes oversight. Has a formal relationship with
+                         the client, but usually not with contractors. Project managers sometimes will
+                         have their own engineering departments, and are most commonly engaged for
+                         large, long-term projects, or for projects requiring multiple phases.
+
+                       • General contractor: Carries out actual building activities, largely through
+                         subcontractors. Has a formal relationship with the client. In some parts of the
+
+
+
+
+                                                                                                                  M A K I N G W O R K E RS PAY | 3 5
+A P P ENDIX 2: CORPOR AT E RO L E S I N GC C C ON ST RU CTI O N P RO JECTS
+
+
+
+
+                          world, project delivery methods that combine design and contracting roles
+                          are common for certain types of projects with quick deadlines.128 For large
+                          and complex projects in the GCC, however, design and contracting usually
+                          are carried out by different entities.
+
+                       • Subcontractors: Carry out specialized on-sight tasks, such as decorative,
+                         window, and elevator work. MEP (mechanical, electrical, and plumbing)
+                         engineers are key subcontractors on most construction sites. They have
+                         a formal relationship with the general contractor, but not the client,
+                         although in some cases the client may require collateral warranties from the
+                         subcontractor.129
+
+                   In practice, the line between these roles is often blurred. A single firm can play multiple
+                   roles across different projects, or be tasked with hybrid domains of responsibility within a
+                   single project. For example, a QDVC-Alstom consortium is responsible for both designing
+                   and constructing the Lusail City Light Rail.130 Bechtel, one of the United States’ largest
+                   construction and engineering firms, provided design, project management, and contracting
+                   services for Doha’s new Hamad International Airport, completed in 2014.131 Around
+                   the same time, Bechtel provided project management services to Qatar Petrochemical
+                   Company’s construction of a petrochemical complex in Ras Laffan, Qatar, with other
+                   companies providing general contracting services.132
+
+                   Most of the top global design and project management firms are based in Western Europe
+                   or the United States, and include a mix of privately-owned and publicly-traded companies.
+                   Contracting firms are more geographically diverse, although most top global firms are
+                   based in Western Europe, the US, South Korea, or China. The second largest architectural
+                   firm in the world, AECOM, is also the world’s second-largest contractor. AECOM’s revenue
+                   in 2016 was just under US$18 billion, more than Facebook’s revenue for that year.133
+
+
+
+                   Architecture Firms
+
+
+                   The Gulf has become a prime destination for showcasing the talents of the world’s
+                   most prominent architects. The Guggenheim’s Abu Dhabi campus will be 12 times the
+                   size of the museum’s New York site. With a price tag of US$800 million and no space
+                   or design constraints, it is one of the crown jewels of architect Frank Gehry’s portfolio,
+                   featuring a “graceful tumble of giant plaster building blocks and translucent blue cones.”134
+                   Architects compete for high profile commissions in the GCC because of the opportunity to
+                   experiment with bold and new design techniques.135
+
+                   Like project management firms and contractors, architects have faced criticism over the
+                   failure to address migrant rights in the GCC. In 2011, a group of artists announced a
+                   boycott of the Guggenheim Abu Dhabi, designed by Frank Gehry, refusing to allow their
+                   work to be displayed after reports surfaced of worker rights abuses on Saadiyat Island.136
+                   Mr. Gehry noted that he had spoken with UAE officials even before the protests, and that
+                   “… they’re concerned about [workers’ rights], too. We’re going to make sure everything
+
+
+
+
+                                                                                                      M A K I N G W O R K E RS PAY | 3 6
+A P P ENDIX 2: CORPOR AT E RO L E S I N GC C C ON ST RU CTI O N P RO JECTS
+
+
+
+
+                   The National Museum of Qatar, an architecturally stunning undertaking, currently under construction in Doha.
+                   (Pygmalion Karatzas Photography).
+
+
+
+
+                   is done properly. We’re trying to move the needle.”137 As of October 2016, negotiations
+                   between the Gulf Labor Artist Coalition and the Guggenheim Abu Dhabi appeared to have
+                   soured, leading to a renewed call to protest.138
+
+                   In 2014, The Guardian asked the late Zaha Hadid, the architect of the stadium where the
+                   World Cup Finals will be played, if the prospect of migrant worker deaths at the stadium
+                   site concerned her. She replied, “I have nothing to do with the workers. I think that’s an
+                   issue the government – if there’s a problem – should pick up. Hopefully, these things will be
+                   resolved … I’m not taking it lightly but I think it’s for the government to look to take care of.
+                   It’s not my duty as an architect to look at it. I cannot do anything about it because I have no
+                   power to do anything about it.”139
+
+
+
+
+                                                                                                                             M A K I N G W O R K E RS PAY | 3 7
+E NDNOTES
+
+
+
+
+1. See, e.g., Ray Jureidini, Migrant Labor                  1, 2016, http://www.wsj.com/articles/                 imes.elliott.gwu.edu/sites/imes.elliott.
+   Recruitment to Qatar: Report for Qatar                   etihad-responds-to-u-s-carriers-subsidy-              gwu.edu/files/downloads/documents/
+   Foundation Migrant Worker Welfare                        claims-1433185308.                                    Capstone-Papers-2015/Nouf%20Yihui%20
+   Initiative, Qatar Foundation, 2014,                                                                            Capstone%20%5Bfinal%5D%20final.pdf.
+   http://www.qscience.com/userimages/                 7.   Phillip Connor, Middle East’s Population More
+   ContentEditor/1404811243939/Migrant_                     Than Doubles Since 2005, Pew Research             15. “Construction and Operation of NYU Abu
+   Labour_Recruitment_to_Qatar_Web_Final.                   Center, October 18, 2016, p.18, http://www.           Dhabi, Additional Information,” NYU Abu
+   pdf; Jill Wells with Bernadette Fernz,                   pewglobal.org/2016/10/18/middle-easts-                Dhabi, updated March 2011, http://nyuad.
+   Improving employment standards in construction           migrant-population-more-than-doubles-                 nyu.edu/en/about/additional-labor-info.html.
+   in Qatar, Engineers Against Poverty, July                since-2005/.
+   2014, http://www.engineersagainstpoverty.                                                                  16. Ariel Kaminer & Sean O’Driscoll, “Workers
+   org/documentdownload.                               8. Ibid., p.19.                                            at N.Y.U.’s Abu Dhabi Site Faced Harsh
+   axd?documentresourceid=25; Human Rights                                                                        Conditions,” The New York Times, May 18,
+   Watch, Building a Better World Cup: Protecting      9.   Under new regulations in Qatar, for example,          2014, http://www.nytimes.com/2014/05/19/
+   Migrant Workers in Qatar Ahead of FIFA 2022,             workers still require their employers’ consent        nyregion/workers-at-nyus-abu-dhabi-site-
+   June 12, 2012, https://www.hrw.org/                      to change jobs prior to the completion of             face-harsh-conditions.html.
+   report/2012/06/12/building-better-world-                 a fixed-term contract and can be blocked
+   cup/protecting-migrant-workers-qatar-                    – at least temporarily – by employers from        17. Nardello & Co., Report of the Independent
+   ahead-fifa-2022; and Amnesty International,              leaving the country. See further Amnesty              Investigator into Allegations of Labor and
+   The Ugly Side of the Beautiful Game: Exploitation        International, New Name, Old System? Qatar’s          Compliance Issues During the Construction
+   of Migrant Workers on a Qatar 2022 World                 New Employment Law and Abuse of Migrant               of the NYU Abu Dhabi Campus of Saadiyat
+   Cup Site, March 30, 2016, https://www.                   Workers, December 12, 2016, http://www.               Island, United Arab Emirates, April 16, 2015,
+   amnesty.org/download/Documents/                          amnestyusa.org/research/reports/new-                  http://www.nardelloandco.com/pdf/
+   MDE2237412016ENGLISH.PDF.                                name-old-system-qatar-s-new-employment-               NYU%20Abu%20Dhabi%20Campus%20
+                                                            law-and-abuse-of-migrant-workers?page=2.              Investigative%20Report.pdf.
+2. No GCC country has ratified the International
+   Convention on the Protection of the Rights of       10. Qatar’s Minister of Administrative                 18. See NYU Abu Dhabi, Supplier Code of
+   All Migrant Workers and Members of Their                Development, Labour, and Social Affairs, Dr.           Conduct, November 2016, https://nyuad.
+   Families (opened for signature December 18,             Issa bin Saad al-Jafali al-Nuaimi declared: “The       nyu.edu/content/dam/nyuad/departments/
+   1990, 2220 UNTS 3, entry into force July 1,             new law is the latest step towards improving           public-affairs/documents/nyuad-project-
+   2003), nor have a number of key South Asian             and protecting the rights of every expatriate          supplier-code-of-conduct.pdf. The Code of
+   migrant-sending countries like India, Pakistan,         worker in Qatar. It replaces the Kafala system         Conduct goes further than almost any other
+   and Nepal. All GCC countries and major South            with a modernised, contract-based system               similar Code in the region in terms of worker
+   Asian migrant-sending countries, with the               that safeguards worker rights and increases            protections – banning recruitment fees
+   exception of the Philippines, also have failed to       job flexibility.” See “Kafala system abolished,        and requiring all suppliers and contractors
+   ratify major International Labour Organization          new law ensures worker rights,” Gulf Times,            to pay for recruitment services in migrant-
+   (ILO) Conventions protecting the rights of              December 12, 2016, http://www.gulf-times.              sending countries – but has been critiqued for
+   migrant workers. Nonetheless, each of these             com/story/524449/Kafala-system-abolished-              omitting minimum wage and other provisions.
+   countries has domestic laws in place ostensibly         new-law-ensures-worker-rig.                            For more on this ongoing discussion, see:
+   intended to protect migrants.                                                                                  Coalition for Fair Labor at NYU, “CFL
+                                                       11. Amnesty International, New Name, Old                   Statement Regarding NYUAD Statement
+3. World Economic Forum: Global Agenda                     System?, above n 9.                                    on Supplier Code of Conduct,” January
+   Council, Shared Responsibility: A New Paradigm                                                                 23, 2017, https://fairlabornyu.wordpress.
+   for Supply Chains, November 2015, http://           12. “UAE announces reforms to labor rules;                 com/2017/01/23/cfl-statement-regarding-
+   www3.weforum.org/docs/WEF_GAC_Supply_                   Kuwait and Qatar move forward on unified               nyuad-statement-on-supplier-code-of-
+   Chains_%20A_New_Paradigm_2015.pdf.                      contracts,” Migrant-Rights.org, October                conduct/; and “Additional Information about
+                                                           1, 2015, https://www.migrant-rights.                   the NYU Supplier Code of Conduct,” NYU Abu
+4. Deloitte, Deloitte GCC Powers of Construction           org/2015/10/uae-announces-reforms-                     Dhabi, December 2016, http://nyuad.nyu.
+   2016: The funding equation, 2016, https://              to-labor-rules-kuwait-and-qatar-more-                  edu/en/about/social-responsibility/nyuad-
+   www2.deloitte.com/content/dam/Deloitte/                 forward-on-unified-contracts/.                         supplier-code-of-conduct-information.html.
+   xe/Documents/realestate/construction/
+   gccpowersofconstruction/me_construction_            13. Omar Al Ubaydli, “UAE labour mobility              19. “Qatar Energy Profile: Largest Exporter
+   gccpoc2016_%20publication.pdf.                          reforms create winners and losers,” The                LNG In World – Analysis,” Eurasia
+                                                           National, August 20, 2016, http://www.                 Review, November 8, 2015, http://www.
+5. “Budget for the Expo 2020 Dubai site to                 thenational.ae/business/economy/uae-                   eurasiareview.com/08112015-qatar-
+   exceed usd 8 billion,” Thomson Reuters Zawya,           labour-mobility-reforms-create-winners-                energy-profile-largest-exporter-lng-in-
+   November 8, 2016, http://www.zawya.com/                 and-losers#full.                                       world-analysis/.
+   mena/en/story/ZAWYA20161108155537/.
+                                                       14. Nouf Al Sadiq & Yihui Wu, Evaluating Reforms       20. “Saudi to cut up to $20bn of projects,” Gulf
+6. Susan Carey, “Etihad Responds to U.S.                   in the Workforce: A Comparative Study of the           Business, January 12, 2017, http://gulfbusiness.
+   Carriers’ Subsidy Claims in Paper to U.S.               Kafala System in Bahrain and Qatar, IMES               com/saudi-cut-20bn-of-projects/.
+   Government,” The Wall Street Journal, June              Capstone Paper Series, May 2015, https://
+
+
+
+
+                                                                                                                             M A K I N G W O RK E RS PAY | 3 8
+E NDNOTES
+
+
+
+
+21. “Moody’s: Reduced project pipeline and                com/store/report/gdge539ipar--monthly-             31. Clients in the GCC typically use a service
+    rising indebtedness in the Saudi construction         oil-gas-industry-contracts-review-contract-            procurement and project delivery process
+    sector pose risks for banks,” Moody’s Investor        award-activity-prominent-in-emea-region/.              known as “Design-Bid-Build” (DBB) to
+    Service, October 18, 2016, https://www.               On hotel contracts see, e.g., “Saudi Arabia            award contracts to design firms, project
+    moodys.com/research/Moodys-Reduced-                   leads MENA hotel construction drive,”                  management firms, and general contractors.
+    project-pipeline-and-rising-indebtedness-in-          ArabianBusiness.com, March 3, 2017, http://            In this model, the client engages a designer
+    the-Saudi--PR_356462.                                 www.arabianbusiness.com/saudi-arabia-                  to draw up a vision for the project before
+                                                          leads-mena-hotel-construction-drive-664267.            soliciting bids for the construction process.
+22. Tom Arnold, “Saudi makes $10.7 billion                html; and Jochebed Menon, “Saudi: Posco                Once the designer has finalized the design
+    of delayed payments to private sector:                E&C bags $900m construction contract,”                 – or possibly while designs are being drawn
+    executive quoted,” Reuters, November 20,              ConstructionWeekOnline.Com, November 8,                up – the client opens the bidding process
+    2016, http://www.reuters.com/article/us-              2016, http://www.constructionweekonline.               for general contractors and, on many larger
+    saudi-spending-idUSKBN13F088.                         com/article-41625-saudi-posco-ec-bags-                 projects, project management consultants.
+                                                          900m-construction-contract/.                           The bidding may be open to all interested
+23. “UAE and Saudi Arabia: Q3                                                                                    parties or to a selected group based on
+    2015[sic] construction updates,”                  27. See ,e.g., “Qatar’s Ezdan Holding Q3 net profit        reputation or past business relationships.
+    ConstructionWeekOnline.Com, October 16,               rises 22.6 pct,” Reuters, October 27, 2016,            Alternative methods of procurement
+    2016, http://www.constructionweekonline.              http://in.reuters.com/article/ezdan-results-           and delivery are emerging worldwide,
+    com/article-41241-uae-and-saudi-arabia-q3-            idINL8N12Q1VN20151027; “United Real                    including “Design-Build” and “Construction
+    2015-construction-updates/.                           Estate announces 56% rise in net profits for           Management At-Risk.” Both of these methods
+                                                          Q3,” Kuwait Times, November 1, 2016, http://           combine the traditional specializations of
+24. “US crude posts best settle since July 2015, up       news.kuwaittimes.net/website/united-real-              project managers and contractors. The
+    2.6% at $52.83 on oil producer output cuts,”          estate-announces-56-rise-net-profits-q3/;              Design-Build method, in particular, is
+    CNBC, December 12, 2016, http://www.cnbc.             and “Dubai construction duo Arabtec                    gaining traction in some parts of the world
+    com/2016/12/11/oil-prices-soar-on-global-             and Drake & Scull reduce losses,” Reuters,             for large infrastructure or cookie-cutter
+    producer-deal-to-cut-crude-output.html.               November 14, 2016, http://www.reuters.com/             projects. “EPC” (Engineering, Procurement,
+                                                          article/arabtec-results-idUSL8N1DF0JW.                 Construction) firms may be retained for these
+25. “Large financial buffers seen aiding mega                                                                    projects. For large GCC projects, however,
+    Qatar infrastructure projects,” Thomson           28. The “Supreme Committee for Delivery                    variations of DBB still tend to predominate.
+    Reuters Zawya, October 16, 2016, http://              and Legacy in Qatar,” for example, is the              Another model of project delivery common in
+    www.zawya.com/mena/en/story/Large_                    body tasked by the Qatari government                   the Gulf is a variation of DBB called “multiple
+    financial_buffers_aid_Qatar_infrastructure_           with completing all preparations for, and              primes,” in which the client retains multiple
+    projects-ZAWYA20161016032636/.                        successfully executing, the 2022 FIFA World            general contractors, and sometimes multiple
+                                                          Cup tournament. Moreover, in the GCC,                  project managers, to oversee different
+26. On infrastructure contracts see, e.g.,                most business ventures must be majority-               aspects or phases of a large project.
+    Neha Bhatia, “Spanish consortium                      owned by a local entity. As a result, in order
+    to ink $7bn Haramain Saudi deal,”                     to enter GCC markets, most multinational           32. Senior manager with more than two decades
+    ConstructionWeekOnline.Com, November 21,              corporations must form joint venture                   of experience in the construction industry
+    2016, http://www.constructionweekonline.              partnerships with GCC-based firms. In some             in the region, author interview, February 17,
+    com/article-41849-spanish-consortium-to-              cases, the venture exists indefinitely and may         2016, Dubai, UAE.
+    ink-7bn-haramain-saudi-deal/; “Doosan wins            bid for multiple projects. In other cases, joint
+    $422m Saudi desalination plant contract,”             ventures are created for one project only.         33. One of the respondents provided an estimate
+    TradeArabia, April 1, 2017, http://tradearabia.       See further André Oliveira Santos, Integrated          of direct employees but did not provide a
+    com/news/OGN_322720.html; and Colin                   Ownership and Control in the GCC Corporate             corresponding figure for indirectly hired
+    Foreman, “Saudi Arabia’s most significant             Sector, IMF Working Paper WP 15/184,                   workers. Assuming it does indirectly employ
+    contract award of the decade: Airport deal            2015, https://www.imf.org/external/pubs/               workers, the overall percentage of indirect
+    signals that Riyadh’s commitment to PPP               ft/wp/2015/wp15184.pdf. (Note, however,                hires would increase proportionally to this
+    is serious,” MEED, March 26, 2017, https://           there are several free economic zones in the           figure. In addition, figures provided by all firms
+    www.meed.com/sectors/construction/saudi-              region which are exempt from local majority            except one – which separated statistics for
+    arabias-most-significant-contract-award-of-           ownership requirements, and certain types of           higher paid “expats” – include these expats as
+    the-decade/5013767.article. On oil and gas            businesses must be wholly owned by citizens).          direct employees, thereby further inflating
+    contracts see, e.g., “Report: Global oil and                                                                 the number of direct hires. Nonetheless, it
+    gas contract activity highest in EMEA region      29. Deloitte, Deloitte GCC Powers of                       appears that a solid majority of low-wage
+    in February,” hydrocarbons-technology.com,            Construction 2015. Construction – The                  workers employed by respondent companies
+    March 31, 2017, http://www.hydrocarbons-              economic barometer for the region, 2015,               are direct hires.
+    technology.com/news/newsreport-global-                p.47, https://www2.deloitte.com/content/
+    oil-and-gas-contract-activity-highest-in-the-         dam/Deloitte/xe/Documents/realestate/              34. Business and Human Rights Resource Centre,
+    emea-region-in-february-2017-5772310;                 construction/gccpowersofconstruction/me_               Migrant Workers in Gulf Construction, Interactive
+    and GlobalData, Monthly Oil & Gas Industry            construction_gccpoc2015_publication.pdf.               Platform, https://business-humanrights.org/
+    Contracts Review – Contract Award Activity                                                                   en/migrant-workers-in-gulf-construction.
+    Prominent in EMEA Region, April 2017, available   30. Ibid.                                                  For the Resource Centre’s analysis, see
+    for purchase at https://www.globaldata.                                                                      Business and Human Rights Resource Centre,
+
+
+
+
+                                                                                                                             M A K I N G W O R K E RS PAY | 3 9
+E NDNOTES
+
+
+
+
+    A Wall of Silence: The Construction Sector’s         39. Ray Jureidini, Ways forward in recruitment of           [amongst local GCC officials. For all the
+    Response to Migrant Rights in Qatar and the              low-skilled migrant workers in the Asia-Arab            people here], there are many more at home
+    UAE, December 2016, https://business-                    States corridor, ILO White Paper, 2016,                 who are unemployed.” See also Mohammed
+    humanrights.org/sites/default/files/A%20                 p.9, http://www.ilo.org/wcmsp5/groups/                  Rasooldeen, “Dhaka thanks king for lifting
+    Wall%20of%20Silence%20PUBLIC.pdf.                        public/---arabstates/---ro-beirut/documents/            ban on workers,” Arab News, August 11, 2016,
+                                                             publication/wcms_519913.pdf.                            http://www.arabnews.com/node/967666/
+35. Convention concerning Private Employment                                                                         saudi-arabia. Reactions like this by migrant-
+    Agencies, 1997 (No. 181), adopted June 19,           40. Government of India, Ministry of External               sending country governments to the opening
+    1997, entered into force May 10, 2000, art 7;            Affairs, “Guidelines for Registration as RAs,”          of migrant corridors are not uncommon.
+    and Convention concerning the Protection of              http://www.mea.gov.in/ras.htm; The Emigration
+    Wages, 1949 (No. 95), adopted July 1, 1949,              Act, 1983 (Act No. 31 of 1983), art 25, http://     49. ABL Employment, “FAQ About ABL,” http://
+    entered into force September 24, 1952, art 9.            www.epcom.org/Emigration-Act-1983.pdf,                  www.ablemployment.com/faqs.
+    The Convention concerning decent work for                was amended to reflect this increase. For more
+    domestic workers, 2011 (No. 189), adopted                on India’s migrant recruitment policies and         50. In the UK, see the Employment Agencies
+    June 16, 2011, entered into force September              practices, see S. Irudaya Rajan, V.J. Varghese, &       Act 1973 (c.35). For the EU, see European
+    5, 2013, bans salary deductions by recruiters            M.S. Jayakumar, Dreaming Mobility and Buying            Parliament, Directorate-General for
+    for domestic workers.                                    Vulnerability: Overseas Recruitment Practices in        Internal Policies, The Role and Activities of
+                                                             India, Routledge, New Delhi & London, 2011.             Employment Agencies, 2013, p.77, http://
+36. “Federal Acquisition Regulation: Combating                                                                       www.europarl.europa.eu/RegData/etudes/
+    Trafficking in Persons: Definition of                41. Dovelyn Rannveig Agunias, “Regulating Private           etudes/join/2013/507459/IPOL-EMPL_
+    Recruitment Fees (FAR Case 2015-017),”                   Recruitment in the Asia-Middle East Labour              ET(2013)507459_EN.pdf.
+    Proposed Rule, posted May 11, 2016, https://             Migration Corridor”, Issue in Brief, August 2012,
+    www.regulations.gov/document?D=FAR_                      No. 4, p.3, www.migrationpolicy.org/pubs/           51. Adams v. Tanner, 244 U.S. 590 (1917).
+    FRDOC_0001-1143.                                         Labor-recruitment.pdf.
+                                                                                                                 52. Manpower Group & Verité, An Ethical Framework
+37. Opened for signature December 18, 1990,              42. In general, the Philippines protects its                for Cross-Border Labor Recruitment: An Industry/
+    2220 UNTS 3, entered into force July 1, 2003.            overseas workers more aggressively than                 Stakeholder Collaboration to Reduce the Risks
+                                                             any other major South or Southeast Asian                of Forced Labor and Human Trafficking, https://
+38. See, e.g., UAE Labour Law of 1980,                       migrant-sending country.                                www.verite.org/wp-content/uploads/2016/12/
+    Federal Law No. (8) of 1980, ch 2, art 5,                                                                        ethical_framework_paper.pdf.
+    https://www.ilo.org/dyn/natlex/docs/                 43. M. Bheem Reddy, labor and migrant rights
+    ELECTRONIC/11956/69376/F417089305/                       activist, November 13, 2015.                        53. Institute for Human Rights and Business, “The
+    ARE11956.pdf; UAE Ministerial Resolution                                                                         Leadership Group for Responsible Recruitment,”
+    No. (52) for 1989, The Rules and Procedures          44. Interviews with former and prospective GCC              https://www.ihrb.org/employerpays/leadership-
+    to be adopted at the Labour permits sections             migrant construction workers in Hyderabad,              group-for-responsible-recruitment.
+    with respect to the recruitment of non-national          India, November 13, 2015.
+    Labours[sic] for the employment in UAE, art                                                                  54. “Electronics Industry Leads the Way in
+    6, http://www.mohre.gov.ae/handlers/                 45. Owen Gibson & Pete Pattison, “Death toll                Combating Forced Labor: EICC Code of
+    download.ashx?YXNzZXQ9NDg2; Law No                       among Qatar’s 2022 World Cup workers                    Conduct Bans Recruitment Fees, Strengthens
+    (14) of the Year 2004 - Qatar Labor Law, art             revealed,” The Guardian, December 23, 2014,             Key Protections for Workers,” Electronics
+    33, http://qatarlaborlaw.com/qatar-labor-                https://www.theguardian.com/world/2014/                 Industry Citizenship Coalition, April 8, 2015,
+    law/; and Qatar: Ministerial Decision No. 8 of           dec/23/qatar-nepal-workers-world-cup-                   http://www.eiccoalition.org/news-and-
+    2005 regarding the conditions and procedures             2022-death-toll-doha.                                   events/news/electronics-industry-leads-the-
+    for obtaining a license to recruit foreign workers                                                               way-in-combating-forced-labor/.
+    for others, arts 14, 19, http://gulfmigration.       46. See further Migration and Development
+    eu/ministerial-decision-no-8-of-2005-                    Civil Society Network (MADE Network),               55. Constructing Excellence, http://
+    regarding-the-conditions-and-procedures-                 Recruitment Fees & Migrants’ Rights Violations,         constructingexcellence.org.uk/.
+    for-obtaining-a-license-to-recruit-foreign-              Open Working Group on Labor Migration
+    workers-for-others/. See also Labour Law                 & Recruitment, Policy Brief #1, http://             56. See, e.g., Emma Crates, Building a
+    (Royal Decree No. M/51) (2006) (Saudi Arabia),           madenetwork.org/sites/default/files/Policy-             fairer system: tackling modern slavery in
+    pt III, arts 40-1, translation at http://www.ilo.        Brief-Recruitment-Fees-Migrants-Rights-                 construction supply chains, The Chartered
+    org/dyn/natlex/natlex4.detail?p_lang=en&p_               Violations.pdf                                          Institute of Building, July 13, 2016,
+    isn=74429. In lifting a seven-year ban on male                                                                   http://kj06q2hv7031ix2143c36tpx.
+    Bangladeshi workers, the government of               47. The World Bank, “Personal remittances,                  wpengine.netdna-cdn.com/wp content/
+    Saudi Arabia affirmed in 2016 that employers             received (% of GDP),” http://data.worldbank.            uploads/2016/07/CIOB_Modern_Day_
+    are responsible for all recruitment-related              org/indicator/BX.TRF.PWKR.DT.GD.ZS.                     Slavery_WEB.pdf.
+    fees for Bangladeshi workers, as with
+    workers from other low-skilled sending               48. When asked why his government does not              57. Institute for Human Rights and Business, “The
+    countries: “Saudi jobs now free of cost:                 do more for its migrant workers in the GCC,             Dhaka Principles for Migration with Dignity,”
+    Riyadh lifts ban on hiring workers from                  an official with experience in a major sending          December 18, 2012, https://www.ihrb.
+    Bangladesh,” The Daily Star, August 12, 2016,            country’s diplomatic mission in the GCC                 org/focus-areas/migrant-workers/dhaka-
+    http://www.thedailystar.net/frontpage/                   replied, “I would think that [his home country’s]       principles-migration-with-dignity.
+    saudi-arabia-lifts-hiring-ban-1268410.                   government doesn’t want to ruffle any feathers
+
+
+
+
+                                                                                                                                M A K I N G W O R K E RS PAY | 4 0
+E NDNOTES
+
+
+
+
+58. BSR, “Building Responsibly,” https://www.              recruiting a high-skilled migrant, agents in           content/uploads/2016/11/Verite-Report-
+    bsr.org/en/collaboration/groups/building-              both the GCC and South Asia suggest that               Intl-Labour-Recruitment.pdf. The costs – in
+    responsibly.                                           recruiters charge employers 8-9% of a high-            Nepal – associated with processing a Nepali
+                                                           skilled workers’ annual salary, or an amount           worker bound for Qatar are estimated at
+59. Declan Croucher, Verité, author interview,             equivalent to one month of his or her salary.          US$387, not including a flight or subsequent
+    June 2, 2016, via telephone.                           For example, if an Indian technician will              expenses in Qatar. The flight is estimated
+                                                           earn US$40,000 annually in UAE, and the                at an additional US$300, and a residency
+60. Owner of a large, Mumbai-based recruitment             employer pays the recruiter for its services,          permit, visa, and medical clearance in Qatar
+    agency, author interview, August 5, 2016,              the recruiter will gross around US$3,400 on            at an additional US$459 combined.
+    Mumbai, India.                                         the transaction.
+                                                                                                              75. See, e.g., “Iqama System Violations and
+61. Two unnamed employees, small Mumbai-               68. Kenny Jephcott, IML Employment Services,               Penalties,” The Saudi Network, Nos. 8-9,
+    based recruitment agency, author interviews,           author interview, May 16, 2016, via telephone.         http://www.the-saudi.net/business-center/
+    August 4, 2016, Mumbai, India.                                                                                iqama_violations.htm.
+                                                       69. The World Bank, Migration and Remittances:
+62. Benjir Ahmed, BAIRA, author interview,                 Recent Developments and Outlook.                   76. The word, which in Hindi and Urdu means
+    August 6, 2016, Dhaka, Bangladesh.                     Special Topic: Financing for Development,              “broker,” is often used pejoratively, as in
+                                                           Migration and Development Brief 24,                    “pimping.” It is also used to describe brokers
+63. Two unnamed employees, small Mumbai-                   April 13, 2015, p.9, https://siteresources.            in migrant-sending countries.
+    based recruitment agency, above n 61.                  worldbank.org/INTPROSPECTS/
+                                                           Resources/334934-1288990760745/                    77. Mustafa Ghulam, Pratnik Express Limited
+64. There are significant differences between              MigrationandDevelopmentBrief24.pdf. See                and Pratnik Travels & Tourism Ltd., author
+    recruitment of skilled and unskilled workers           also Manolo Abella & Philip Martin, Measuring          interview, August 7, 2016, Dhaka, Bangladesh.
+    in the construction industry. Skilled workers          recruitment or migration costs: A technical
+    may serve as engineers, accountants, and               report for KNOMAD’s Thematic Working Group         78. Practices like this may occur with or without
+    draftspersons, while unskilled workers serve           on Low-Skilled Migrants, KNOMAD and ILO,               the knowledge of corporate higher-ups, and
+    as generic laborers, painters, cleaners, or            2014 (manuscript).                                     can occur regardless of whether a company
+    transporters. Semi-skilled work includes                                                                      pays its South Asia-based urban recruiter.
+    roles such as masons, crane operators, and         70. MADE Network, above n 46.
+    drivers. India sends a diversity of skilled,                                                              79. Ghulam, above n 77.
+    semi-skilled, and unskilled workers to the         71. Based on interviews with prospective and
+    Gulf, while the majority of Bangladeshi                returned migrant workers in Telangana              80. Senior construction industry manager,
+    workers are unskilled.                                 State, India, November 2015. Fees were only            above n 32.
+                                                           reported as lower than this in cases where
+65. Owner of large Dhaka-based recruitment                 workers did not use recruitment agents – as        81. Ross Daines, FSI International, author
+    agency, author interview, August 6, 2016,              when family members in the Gulf were able              interview, April 27, 2016, Dubai, and January
+    Dhaka, Bangladesh.                                     to procure and send visas or when they                 14, 2017 (via email correspondence).
+                                                           worked only with a registered agent and no
+66. Owner of a large, Mumbai-based                         subagent. A worker who directly engaged an         82. Verité & The Freedom Fund, above n 74, p.23.
+    recruitment agency, above n 60. Some                   urban-based registered agent, thereby cutting          Amount cited here does not include cost of
+    recruitment agencies are able to command               out subagents, claimed to pay INR60,000                a registered GCC-based recruitment agent,
+    fees from employers because of their                   (US$925) to the agency: author interview               whose services are less commonly engaged
+    established reputations or long track                  at GAMCA (prospective migrant medical                  for low-wage construction workers. For Qatar
+    records, especially when processing semi-              screening center), November 12, 2015,                  Foundation’s analysis, see Ray Jureidini, above
+    and high-skilled workers. Referring to a               Hyderabad, India. Fee amounts can vary based           n 1, pp.44-50.
+    much larger competitor, one Mumbai-based               on factors like the number of agents involved
+    registered agency observed, “they have                 in a transaction, the type and salary of the job   83. Figure provided by owners of two small
+    25-30 years’ experience in the field, so               promised, the perceived desirability of working        registered recruitment agencies, author
+    they have relationships with the company.”             in a particular destination country, and demand        interviews, August 9, 2016, Dhaka,
+    Smaller recruiters and those trying to break           for workers from a particular sending country.         Bangladesh. See below for explanation of
+    into the market, he noted, do not have the                                                                    “free visas.”
+    kind of relationships and scale that would         72. Marie Apostol, FairHiring, Inc., author
+    enable them to be paid, even to recruit                interview, February 3, 2016, New York, NY,         84. Staff member of ODEPC (Kerala State
+    higher-skilled workers.                                USA.                                                   government recruiting agency), author
+                                                                                                                  interview, November 16, 2015, Trivandrum,
+67. Despite this risk of non-payment, recruiting       73. Matthew Hurley, Bright Star Careers, author            India.
+    skilled migrants is an attractive business             interview, May 10, 2016, via telephone.
+    proposition for recruiters. The most                                                                      85. Spider Sense (reporting pseudonym), “Two
+    established and largest agencies focus on          74. See Verité & The Freedom Fund, An                      men given jail sentence, deportation for
+    sending skilled workers, which employers are           Exploratory Study on the Role of Corruption in         illegal visa trade,” QatarLiving.com, July
+    more likely to pay for as a service. While it is       International Labor Migration, January 2016,           2016, http://www.qatarliving.com/forum/
+    difficult to assess the exact profit margin for        Appendix, https://www.verite.org/wp-                   news/posts/two-men-given-jail-sentence-
+                                                                                                                  deportation-illegal-visa-trade.
+
+
+
+
+                                                                                                                             M A K I N G W O R K E RS PAY | 4 1
+E NDNOTES
+
+
+
+
+86. Ayman Adly, “Expats blamed for visa trade,”           not keep similar statistics, there may be as       108. Ibid.
+    Gulf Times, August 21, 2014, http://www.              many as several hundred licensed recruiters
+    gulf-times.com/story/405119/Expats-                   in Mumbai alone, and likely hundreds more          109. Unnamed administrative employee of
+    blamed-for-visa-trade.                                throughout the country. Only a portion of               Mumbai-based recruiting firm, author
+                                                          these listed agencies are active in any given           interview, August 2, 2016, Mumbai, India.
+87. Law no. 4 of 2009 Regarding Regulation of the         year; the number of active recruiters in
+    Expatriates’ Entry, Departure, Residence and          Bangladesh is likely between 150 and 400,          110. Owners of two small Dhaka-based
+    Sponsorship 4/2009, http://gulfmigration.eu/          according to people in the industry.                    recruitment agencies, above n 83.
+    database/legal_module/Qatar/National%20
+    Legal%20Framework/Residence/1.2%20                93. High-ranking employee with Jerry Varghese,         111. Mango Tours manager, above n 105.
+    Law%20on%20Entry%20Exit%20                            one of the largest Indian recruitment
+    Residence%20Sponsorship%204_2009_                     agencies, author interview, August 5, 2016,        112. Verité & The Freedom Fund, above n 74,
+    EN.pdf.                                               Mumbai, India.                                          Executive Summary: Overview. Amount cited
+                                                                                                                  here does not include cost of a registered
+88. For a sense of conversations surrounding          94. Owners of two small Dhaka-based                         GCC-based recruitment agent, whose
+    this issue in Saudi Arabia, see, e.g., P.K.           recruitment agencies, above n 83.                       services are less commonly engaged for low-
+    Abdul Ghafour, “KSA Toughens Stance on                                                                        wage construction workers.
+    Illegals,” Arab News, April 15, 2014, http://     95. Ibid.
+    www.arabnews.com/news/555891; and                                                                        113. Senior construction industry manager,
+    Dr. Saud Al-Meraishid, “Deport all Expat          96. Ibid.                                                   above n 32.
+    Workers!,” Saudi Gazette, March 5, 2016,
+    http://saudigazette.com.sa/opinion/local-         97. Staff member of ODEPC, above n 84.                 114. Jephcott, above n 68.
+    viewpoint/deport-all-illegal-expat-workers/.
+                                                      98. Ahmed, BAIRA, above n 62.                          115. Owner of large Dhaka-based recruitment
+89. Fee amounts based on ranges provided by                                                                       agency, above n 65.
+    and agreed upon in a group conversation           99. Ghulam, above n 77.
+    with employees of more than 10 registered                                                                116. Ghulam, above n 77.
+    Bangladeshi recruitment agencies, August 8,       100. Owners of two small Dhaka-based
+    2016, Dhaka, Bangladesh; and with owners               recruitment agencies, above n 83.                 117. Two unnamed employees, small Mumbai-
+    of two small registered recruitment agencies,                                                                 based recruitment agency, above n 61.
+    above n 83. When figures provided by both         101. Sister Lissy Joseph, Hyderabad-based labor
+    sources conflicted, they were averaged. When           and migrant rights worker, January 4, 2017,       118. Interview with former human resources
+    ranges were provided, means were used.                 via email.                                             official with a top-10 GCC-based
+    Estimated monthly salaries provided and                                                                       construction firm, author interview, March
+    agreed upon by owners of two small registered     102. Reddy, above n 43.                                     2017, Dubai, UAE.
+    recruitment agencies, above n 83. The chart
+    assumes no additional charges on top of           103. Mohammad Emon, author interview,                  119. One employee with small Mumbai-based
+    recruitment fees; in reality, many workers take        August 7, 2016, Dhaka, Bangladesh.                     agency, one of two unnamed employees,
+    out high-interest loans to pay these fees.                                                                    above n 61.
+                                                      104. 45-year-old contractor, author interview,
+90. Bassma Al Jandaly, “No new UAE visas for               November 11, 2015, Darpally, India.               120. Unnamed travel agent, author interview,
+    Bangladeshis,” Gulf News, October 3, 2012,                                                                    August 4, 2016, Mumbai, India.
+    http://gulfnews.com/news/uae/general/no-          105. Manager of Mango Tours, author interview,
+    new-uae-visas-for-bangladeshis-1.1084751.              November 10, 2016, Kamareddy, India. At           121. Owner of medium-sized Mumbai-based
+    Many Bangladeshis felt that the visa                   time of author visit, the manager of Mango             recruitment agency, author interview,
+    suspension was issued in retaliation for               Tours reported that the subagency was                  August 5, 2016.
+    Bangladesh voting for Moscow over Dubai                in the process of registering with relevant
+    to host World Expo 2020. Despite the “ban,”            government authorities.                           122. Owners of two small Dhaka-based
+    250,000 Bangladeshi workers are estimated                                                                     recruitment agencies, above n 83.
+    to have traveled to the UAE in 2014: “No          106. The owner of one large Hyderabad,
+    visa ban for Bangladeshi nationals in UAE,”            India-based firm affirmed, “[w]e don’t take       123. Ibid.
+    BDNews24.com, December 22, 2015, http://               business from subagents. They will take
+    bdnews24.com/bangladesh/2015/12/21/no-                 commission and it’s illegal.” But later in        124. Ibid.
+    visa-ban-for-bangladesh-nationals-in-uae.              the same conversation, the owner’s son
+                                                           clarified, “we can call them field agents,” and   125. Owner of large Dhaka-based recruitment
+91. Rasooldeen, above n 48.                                confirmed that their agency does engage                agency, above n 65.
+                                                           such agents. Large recruitment agency,
+92. According to the Bangladeshi trade                     author interview, November 13, 2015,              126. Aude Ucla, Jean-Baptiste Andrieu, &
+    association of registered recruitment                  Hyderabad, India.                                      Michaela Lee, Addressing Workers’ Rights in
+    agents – BAIRA – there are approximately                                                                      Engineering and Construction: Opportunities
+    1,300 registered recruiters in the country.       107. Two unnamed employees, small Mumbai                    for Collaboration, BSR, July 6, 2016, https://
+    While the federal government in India does             recruitment agency, above n 61.                        www.bsr.org/en/our-insights/report-view/
+
+
+
+
+                                                                                                                            M A K I N G W O R K E RS PAY | 4 2
+E NDNOTES
+
+
+
+
+      addressing-workers-rights-in-engineering-             Guggenheim Abu Dhabi,” The New York
+      and-construction-opportunities-for. See               Times, December 4, 2014, https://www.
+      also Ray Jureidini, above n 1.                        nytimes.com/2014/12/07/arts/design/
+                                                            inside-frank-gehrys-guggenheim-abu-
+127. Neither Qatar nor the UAE publish official             dhabi.html.
+     statistics on migrant nationalities. BQ
+     Magazine has estimated these breakdowns           135. Dada Zecic Pivac, “Architectural Trends in the
+     based on data provided by embassies:                   GCC,” BQ Magazine, October 1, 2015, http://
+     Jure Snoj, “Population of Qatar by                     www.bq-magazine.com/industries/2015/10/
+     nationality,” BQ Magazine, December 7,                 architectural-trends-in-the-gcc.
+     2014, http://www.bq-magazine.com/
+     economy/2013/12/population-qatar;                 136. “Artists to Boycott Abu Dhabi’s Guggenheim
+     and Jure Snoj, “UAE’s population – by                  Over Labor Rights,” Bloomberg Terminal,
+     nationality,” BQ Magazine, April 12, 2015,             March 17, 2011, http://www.bloomberg.
+     http://www.bq-magazine.com/economy/                    com/news/articles/2011-03-17/artists-to-
+     socioeconomics/2015/04/uae-population-                 boycott-abu-dhabi-s-guggenheim-museum-
+     by-nationality. See also Froilan T. Malit Jr. &        over-laborers-rights.
+     Ali Al Youha, “Labor Migration in the United
+     Arab Emirates: Challenges and Responses,”         137. Vogel, above n 134.
+     Migration Policy Institute, September 18,
+     2013, http://www.migrationpolicy.org/             138. Gulf Labor Artist Coalition, “Gulf Labor
+     article/labor-migration-united-arab-                   Addresses Guggenheim’s Silence,” October
+     emirates-challenges-and-responses.                     4, 2016, http://gulflabor.org/2016/
+                                                            guggenheim-silence/#more-2283.
+128. Design-Build Institute of America, Choosing
+     a Project Delivery Method: A Design-Build         139. Vanessa Quirk, “Zaha Hadid on Worker
+     Done Right Primer, April 2015, https://www.            Deaths in Qatar: ‘It’s Not My Duty As an
+     dbia.org/about/Documents/db_primer_                    Architect,’” ArchDaily, February 26, 2014,
+     choosing_delivery_method.pdf.                          http://www.archdaily.com/480990/zaha-
+                                                            hadid-on-worker-deaths-in-qatar-it-s-not-
+129. Ahmed Ibrahim, “Subcontracting under                   my-duty-as-an-architect.
+     UAE Law,” FenwickElliot, http://www.
+     fenwickelliott.com/research-insight/
+     newsletters/international-quarterly/
+     subcontracting-under-uae-law.
+
+130. David Briginshaw, “QDVC-Alstom
+     consortium wins Lusail LRT contract in
+     Qatar,” International Rail Journal, June 24,
+     2014, http://www.railjournal.com/index.
+     php/light-rail/qdvc-alstom-consortium-
+     wins-lusail-lrt-contract-in-qatar.html.
+
+131. Bechtel, “Hamad International Airport,”
+     http://www.bechtel.com/projects/hamad-
+     international-airport/.
+
+132. Bechtel, “Bechtel to Provide Project
+     Management Services for Design and
+     Construction of Petrochemical Complex,”
+     Bechtel Newsroom, July 10, 2013, http://www.
+     bechtel.com/newsroom/releases/2013/07/
+     design-construction-services-petrochemical-
+     complex/. Firms which provide design and
+     construction services are sometimes referred
+     to as EPC (engineering-procurement-
+     construction) firms.
+
+133. “Top 500 2015,” Fortune 500, http://beta.
+     fortune.com/fortune500.
+
+134. Carol Vogel, “A New Art Capital, Finding
+     Its Own Voice: Inside Frank Gehry’s
+
+
+
+
+                                                                                                             M A K I N G W O R K E RS PAY | 4 3
+

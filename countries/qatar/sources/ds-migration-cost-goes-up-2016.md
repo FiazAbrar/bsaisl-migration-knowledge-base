@@ -1,0 +1,149 @@
+## Editor's Pick
+
+##### [How can Bangladesh build a thriving creative economy?](/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621)
+
+6 November 2026 • Wisdom
+
+##### [Opinion  / US midterm results: What it means for Bangladesh’s trade and economic challenges](/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206)
+
+5 November 2026 • Business
+
+##### [Could Trump's electoral defeat make the world less secure?](/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666)
+
+5 November 2026 • Geopolitical Insights
+
+##### [Padma Barrage: Why Bangladesh needs it and the challenges ahead](/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946)
+
+5 November 2026 • Big Picture
+
+##### [A 93rd birthday tribute / How Amartya Sen changed the way we understand development](/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976)
+
+4 November 2026 • Big Picture
+
+# Migration cost goes up, wages not so
+
+Remittance earners face hard times, brokers make things worse
+
+Published : 8 December 2016
+
+•
+
+Updated : 9 December 2016, 03:15
+
+• [FRONT PAGE](/historical/front-page)
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgICAgICAgICA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz4KICAgICAgICAgICAgICAgICAgICA8ZGVmcz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNsaXBwYXRoIGlkPSJjbGlwMF8zNDE5XzM5Ij48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIiAvPjwvY2xpcHBhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICAgICAgPC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://x.com/intent/tweet?text=Migration%20cost%20goes%20up%2C%20wages%20not%20so%20&url=https%3A%2F%2Fwww.thedailystar.net%2Ffrontpage%2Fmigration-cost-goes-wages-not-so-1327447) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9zdmc+)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Ffrontpage%2Fmigration-cost-goes-wages-not-so-1327447) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Ffrontpage%2Fmigration-cost-goes-wages-not-so-1327447&title=Migration%20cost%20goes%20up%2C%20wages%20not%20so%20)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=)
+
+![Porimol Palma](/sites/default/files/styles/thumbnail/public/images/author/528482_10151178335788820_1099470828_n.jpg)
+
+Porimol Palma
+
+[Porimol Palma](/author/porimol-palma)
+
+![migration cost.jpg](/sites/default/files/styles/big_1/public/feature/images/migration_cost_0.jpg)
+
+Nurul Islam spent just Tk 17,000 when he migrated to Saudi Arabia for work in 1985 as his employing company paid for his visa and the airfare.
+
+His monthly salary was around 400 Riyals. It took him two months to recover the cost of his migration. He could save a handsome amount too.
+
+[Tap here to add The Daily Star as a trusted source ![google-preferred-source-badge](/themes/custom/swallow/images/google_preferred_source_badge_dark.webp)](https://www.google.com/preferences/source?q=thedailystar.net)
+
+Today's reality, however, is different.
+
+“Now the cost of migration is a lot more, but wages are low. It takes about two years to recoup the migration cost,” said Nurul Islam, 48, once a happy migrant worker in a security company, and now a migrant rights activist in Narsingdi working to create awareness. 
+
+He claimed that the state of the migrants has worsened over the years despite enactment of so many laws and building of new institutions to serve them. 
+
+The case of Mohammad Sabuj, 28, is a case in point.
+
+Sabuj went to Qatar spending Tk 3.25 lakh that he borrowed on 30 percent annual interest from his relatives. He spent the amount for the trip as the broker, a relative in Qatar, told him that he could earn Qatari Riyal 2,000 (some 44,000 taka) a month as a driver.
+
+Once he landed there, he found himself employed as a general worker in a construction firm that paid him 600 riyals as basic salary and 200 riyals for food, Sabuj of Noakhali told The Daily Star over phone from Doha where he works under the sweltering sun for 10 to 12 hours a day.
+
+With overtime, his monthly earning is between Tk 20,000 and Tk 25,000.
+
+“I still have a debt of Tk 1.5 lakh at home,” said Sabuj, who is uncertain when and how he would be able to repay the loan. He has been working there for three years.
+
+Migration cost and wage may vary from country to country. A 2015 research found average migration cost of a Bangladeshi male during 2014 and 2015 was about Tk 3.8 lakh and for female Tk 1 lakh.
+
+The research by Refugee and Migratory Movements Research Unit (RMMRU) of Dhaka University and Swiss Agency for Development and Cooperation revealed male migrants send home Tk 2 lakh and female migrants Tk 80,000 a year.
+
+This means, for a male it takes nearly two years to recover his migration cost and for a female it takes 15 months, which was unthinkable in 1985 when Nurul worked in Saudi Arabia.
+
+## MIDDLEMEN MAKING IT WORSE
+
+Experts and migrants said after Bangladesh formally allowed its citizens to work abroad in 1976, the employers would directly recruit workers, without using any middlemen.
+
+Now, the middlemen seem to be all powerful.
+
+“Many of today's recruiting agents used to sit with a typewriter to assist the jobseekers write official letters or to provide clerical assistance,” said CR Abrar, executive director at the RMMRU and a professor at the international relations department of Dhaka University.
+
+As the demand for overseas jobs increased, the intermediaries started working as service providers. While a total of 6,087 Bangladeshis availed overseas jobs in 1976, it was over 6.07 lakh by October this year. Now, an estimated 80 lakh Bangladeshis work abroad, with over 70 percent of them in the Middle Eastern countries.
+
+There were very few recruiting agents in 1984, when the government first allowed them to operate. The number is about 960 now. And, there are thousands of manpower brokers wooing jobseekers across cities and villages, often with false promises.
+
+Even in the destination countries, some migrants turn into brokers and play a major role in collecting “job demands”. Nearly 80 percent work visas are now arranged by these brokers and the rest by licensed agents, said Abrar.
+
+Prof Ray Jureidini in a study -- ILO White Paper on recruitment of low-skilled migrant workers in the Asia-Arab States corridor published this year -- said smaller companies prefer recruiting foreign labour through family and friends, who act as “referees” for the jobseekers. The friends and family members still get paid by the jobseekers.
+
+#### [![Google News Link](/themes/custom/swallow/images/google_news.svg)For all latest news, follow The Daily Star's Google News channel.](https://news.google.com/publications/CAAiECW73usLivqPCSeQRsSUvRQqFAgKIhAlu97rC4r6jwknkEbElL0U)
+
+The study said contractors and subcontractors who recruit foreign labour actually “outsource” their job to private recruitment agencies of the countries which send the workers.
+
+Jureidini said, “Private recruitment agencies compete internally and internationally to obtain labour supply contracts by providing kickback payments to employing company personnel and placement agencies in the destination countries.”
+
+These costs are finally passed onto low-skilled workers, violating the local labour laws and ILO convention that prohibits charging any fees on the migrant workers.
+
+In contrast, the “employing companies save money and increase their competitiveness by not paying for recruitment costs and services,” said the study.
+
+### FRAUD RECRUITERS
+
+As labour recruitment became a profitable business, unscrupulous individuals in the destination countries registered companies to recruit foreign labour. They just bring the workers into the country and provide them no jobs at all.
+
+“For example, they open a company, recruit 50 or 100 workers and make money out of them. The migrants are then left alone,” said Osman Gani, a Bangladeshi migrant in Qatar, who worked earlier in Saudi Arabia.
+
+“In Qatar you can see many Bangladeshi victims of such illegal activities. They came here spending a huge amount of money and are now without jobs,” he said over phone.
+
+Similar practices were seen in Malaysia during 2007-08 when labour abuse drew global attention, prompting authorities to freeze recruitment from Bangladesh in early 2009.
+
+#### “FREE VISA”
+
+In Arab countries, many so-called employers hire foreign workers without any specific job and allow them to work as freelancers. This is illegal under the Kafala system (sponsorship system) which does not allow migrants to change jobs or return home without the permission of the employers. 
+
+This “freelancing” is marketed to aspirant migrants as “free visa”.
+
+The so-called employers, however, charge migrants heavily for the “free visa” and when their visas are due to be renewed every year, said Osman Gani.
+
+“If they don't comply with the 'employer's' demands, they can be reported to the police who then deport the migrants,” said Osama, who went to Qatar with “free visa” spending Tk 7 lakh in mid-2014. 
+
+##### OUTSOURCING
+
+The involvement of labour outsourcing companies came to light prominently when Malaysia reopened Bangladesh's labour market in 2006.
+
+Traditionally, it is the principal companies that recruited the foreign workers and pay them.
+
+ However, a new type of companies came into being that hire foreign labour, maintain a labour pool, and supply them to various principal companies on demand, said Mohammad Harun Al Rashid, a migration expert based in Kuala Lumpur.
+
+The job contract here is between the migrants and the outsourcing companies, which takes a significant portion of the worker's wages and deprive them of benefits, he said.
+
+“This created a situation in Malaysia in which thousands of Bangladeshis between 2007 and 2008 became jobless, underemployed, unpaid, and underpaid. Many were found confined to rooms,” Harun said.
+
+“Such practice is akin to human trafficking and forced labour,” he said.
+
+SHARE ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdib3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMzQxOV8zOSkiPjxwYXRoIGQ9Ik02LjU2MDEgOC41MTIzM0w0LjQ2MDYgNy4zNjczM0M0LjE4NjUgNy42NjAzNyAzLjgzMDYgNy44NjQxOCAzLjQzOTE0IDcuOTUyMjhDMy4wNDc2OCA4LjA0MDM4IDIuNjM4NzggOC4wMDg3IDIuMjY1NTYgNy44NjEzNUMxLjg5MjM1IDcuNzE0MDEgMS41NzIwOCA3LjQ1NzgxIDEuMzQ2MzkgNy4xMjYwNkMxLjEyMDY5IDYuNzk0MyAxIDYuNDAyMzMgMSA2LjAwMTA4QzEgNS41OTk4NCAxLjEyMDY5IDUuMjA3ODcgMS4zNDYzOSA0Ljg3NjExQzEuNTcyMDggNC41NDQzNiAxLjg5MjM1IDQuMjg4MTYgMi4yNjU1NiA0LjE0MDgxQzIuNjM4NzggMy45OTM0NyAzLjA0NzY4IDMuOTYxNzkgMy40MzkxNCA0LjA0OTg5QzMuODMwNiA0LjEzNzk5IDQuMTg2NSA0LjM0MTggNC40NjA2IDQuNjM0ODNMNi41NjA2IDMuNDg5ODNDNi40NDEzOCAzLjAxNzg3IDYuNDk4MzggMi41MTg2MyA2LjcyMDkyIDIuMDg1NjlDNi45NDM0NiAxLjY1Mjc0IDcuMzE2MjYgMS4zMTU4MiA3Ljc2OTQ0IDEuMTM4MDhDOC4yMjI2MiAwLjk2MDM0NSA4LjcyNTA2IDAuOTUzOTg3IDkuMTgyNTkgMS4xMjAyQzkuNjQwMTMgMS4yODY0MiAxMC4wMjEzIDEuNjEzNzkgMTAuMjU0OCAyLjA0MDk2QzEwLjQ4ODIgMi40NjgxNCAxMC41NTc4IDIuOTY1NzggMTAuNDUwNiAzLjQ0MDYxQzEwLjM0MzMgMy45MTU0NCAxMC4wNjY2IDQuMzM0ODUgOS42NzIyMiA0LjYyMDI0QzkuMjc3ODYgNC45MDU2MyA4Ljc5Mjk2IDUuMDM3MzkgOC4zMDg0IDQuOTkwODNDNy44MjM4NSA0Ljk0NDI3IDcuMzcyOSA0LjcyMjU5IDcuMDQwMSA0LjM2NzMzTDQuOTQwMSA1LjUxMjMzQzUuMDIwNyA1LjgzMzAxIDUuMDIwNyA2LjE2ODY1IDQuOTQwMSA2LjQ4OTMzTDcuMDM5NiA3LjYzNDMzQzcuMzcyNCA3LjI3OTA4IDcuODIzMzUgNy4wNTc0IDguMzA3OSA3LjAxMDg0QzguNzkyNDYgNi45NjQyOCA5LjI3NzM2IDcuMDk2MDQgOS42NzE3MiA3LjM4MTQzQzEwLjA2NjEgNy42NjY4MiAxMC4zNDI4IDguMDg2MjMgMTAuNDUwMSA4LjU2MTA2QzEwLjU1NzMgOS4wMzU4OSAxMC40ODc3IDkuNTMzNTMgMTAuMjU0MyA5Ljk2MDdDMTAuMDIwOCAxMC4zODc5IDkuNjM5NjMgMTAuNzE1MyA5LjE4MjA5IDEwLjg4MTVDOC43MjQ1NiAxMS4wNDc3IDguMjIyMTIgMTEuMDQxMyA3Ljc2ODk0IDEwLjg2MzZDNy4zMTU3NiAxMC42ODU4IDYuOTQyOTYgMTAuMzQ4OSA2LjcyMDQyIDkuOTE1OThDNi40OTc4OCA5LjQ4MzA0IDYuNDQwODggOC45ODM4IDYuNTYwMSA4LjUxMTgzVjguNTEyMzNaTTMuMDAwMSA3LjAwMDgzQzMuMjY1MzIgNy4wMDA4MyAzLjUxOTY3IDYuODk1NDggMy43MDcyMSA2LjcwNzk0QzMuODk0NzUgNi41MjA0IDQuMDAwMSA2LjI2NjA1IDQuMDAwMSA2LjAwMDgzQzQuMDAwMSA1LjczNTYyIDMuODk0NzUgNS40ODEyNiAzLjcwNzIxIDUuMjkzNzNDMy41MTk2NyA1LjEwNjE5IDMuMjY1MzIgNS4wMDA4MyAzLjAwMDEgNS4wMDA4M0MyLjczNDg5IDUuMDAwODMgMi40ODA1MyA1LjEwNjE5IDIuMjkzIDUuMjkzNzNDMi4xMDU0NiA1LjQ4MTI2IDIuMDAwMSA1LjczNTYyIDIuMDAwMSA2LjAwMDgzQzIuMDAwMSA2LjI2NjA1IDIuMTA1NDYgNi41MjA0IDIuMjkzIDYuNzA3OTRDMi40ODA1MyA2Ljg5NTQ4IDIuNzM0ODkgNy4wMDA4MyAzLjAwMDEgNy4wMDA4M1pNOC41MDAxIDQuMDAwODNDOC43NjUzMiA0LjAwMDgzIDkuMDE5NjcgMy44OTU0OCA5LjIwNzIxIDMuNzA3OTRDOS4zOTQ3NSAzLjUyMDQgOS41MDAxIDMuMjY2MDUgOS41MDAxIDMuMDAwODNDOS41MDAxIDIuNzM1NjIgOS4zOTQ3NSAyLjQ4MTI2IDkuMjA3MjEgMi4yOTM3M0M5LjAxOTY3IDIuMTA2MTkgOC43NjUzMiAyLjAwMDgzIDguNTAwMSAyLjAwMDgzQzguMjM0ODkgMi4wMDA4MyA3Ljk4MDUzIDIuMTA2MTkgNy43OTMgMi4yOTM3M0M3LjYwNTQ2IDIuNDgxMjYgNy41MDAxIDIuNzM1NjIgNy41MDAxIDMuMDAwODNDNy41MDAxIDMuMjY2MDUgNy42MDU0NiAzLjUyMDQgNy43OTMgMy43MDc5NEM3Ljk4MDUzIDMuODk1NDggOC4yMzQ4OSA0LjAwMDgzIDguNTAwMSA0LjAwMDgzWk04LjUwMDEgMTAuMDAwOEM4Ljc2NTMyIDEwLjAwMDggOS4wMTk2NyA5Ljg5NTQ4IDkuMjA3MjEgOS43MDc5NEM5LjM5NDc1IDkuNTIwNCA5LjUwMDEgOS4yNjYwNSA5LjUwMDEgOS4wMDA4M0M5LjUwMDEgOC43MzU2MiA5LjM5NDc1IDguNDgxMjYgOS4yMDcyMSA4LjI5MzczQzkuMDE5NjcgOC4xMDYxOSA4Ljc2NTMyIDguMDAwODMgOC41MDAxIDguMDAwODNDOC4yMzQ4OSA4LjAwMDgzIDcuOTgwNTMgOC4xMDYxOSA3Ljc5MyA4LjI5MzczQzcuNjA1NDYgOC40ODEyNiA3LjUwMDEgOC43MzU2MiA3LjUwMDEgOS4wMDA4M0M3LjUwMDEgOS4yNjYwNSA3LjYwNTQ2IDkuNTIwNCA3Ljc5MyA5LjcwNzk0QzcuOTgwNTMgOS44OTU0OCA4LjIzNDg5IDEwLjAwMDggOC41MDAxIDEwLjAwMDhaIiBmaWxsPSIjMjAyNjJFIiAvPjwvZz48ZGVmcz48Y2xpcHBhdGggaWQ9ImNsaXAwXzM0MTlfMzkiPjxyZWN0IHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0id2hpdGUiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)
+
+[![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij4KICAgICAgICAgICAgPHBhdGggZD0iTTE4LjI0NCAyLjI1aDMuMzA4bC03LjIyNyA4LjI2IDguNTAyIDExLjI0SDE2LjE3bC01LjIxNC02LjgxN0w0Ljk5IDIxLjc1SDEuNjhsNy43My04LjgzNUwxLjI1NCAyLjI1SDguMDhsNC43MTMgNi4yMzF6bS0xLjE2MSAxNy41MmgxLjgzM0w3LjA4NCA0LjEyNkg1LjExN3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://x.com/intent/tweet?text=Migration%20cost%20goes%20up%2C%20wages%20not%20so%20&url=https%3A%2F%2Fwww.thedailystar.net%2Ffrontpage%2Fmigration-cost-goes-wages-not-so-1327447) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCAxMi4wNzNjMC02LjYyNy01LjM3My0xMi0xMi0xMnMtMTIgNS4zNzMtMTIgMTJjMCA1Ljk5IDQuMzg4IDEwLjk1NCAxMC4xMjUgMTEuODU0di04LjM4NUg3LjA3OHYtMy40N2gzLjA0N1Y5LjQzYzAtMy4wMDcgMS43OTItNC42NjkgNC41MzMtNC42NjkgMS4zMTIgMCAyLjY4Ni4yMzUgMi42ODYuMjM1djIuOTUzSDE1LjgzYy0xLjQ5MSAwLTEuOTU2LjkyNS0xLjk1NiAxLjg3NHYyLjI1aDMuMzI4bC0uNTMyIDMuNDdoLTIuNzk2djguMzg1QzE5LjYxMiAyMy4wMjcgMjQgMTguMDYyIDI0IDEyLjA3M3oiIC8+CiAgICAgICAgICA8L3N2Zz4=)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thedailystar.net%2Ffrontpage%2Fmigration-cost-goes-wages-not-so-1327447) [![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdib3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thedailystar.net%2Ffrontpage%2Fmigration-cost-goes-wages-not-so-1327447&title=Migration%20cost%20goes%20up%2C%20wages%20not%20so%20)
+
+![](data:image/svg+xml;base64,PHN2ZyBjbGFzcyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgdmlld2JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgPHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE2SDZhMiAyIDAgMDEtMi0yVjZhMiAyIDAgMDEyLTJoOGEyIDIgMCAwMTIgMnYybS02IDEyaDhhMiAyIDAgMDAyLTJ2LThhMiAyIDAgMDAtMi0yaC04YTIgMiAwIDAwLTIgMnY4YTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgIDwvc3ZnPg==)
+
+[Click to comment](javascript:void(0))
+
+#### Comments
+
+[Comments Policy](/comment-policy)
+
+## Related News

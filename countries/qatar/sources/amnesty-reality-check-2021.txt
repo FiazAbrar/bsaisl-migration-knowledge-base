@@ -1,0 +1,2270 @@
+REALITY CHECK 2021: A YEAR
+TO THE 2022 WORLD CUP
+THE STATE OF MIGRANT WORKERS’
+RIGHTS IN QATAR
+Amnesty International is a global movement of
+more than seven million people working to ensure that
+the fundamental rights of each individual are respected.
+
+Amnesty International's vision is of a world in which
+every person enjoys all of the human rights enshrined
+in the Universal Declaration of Human Rights and other
+international human rights instruments.
+
+Funded primarily by its members and donations from
+individuals, Amnesty International is independent of
+any individual government, political ideology, economic
+interest or religion.
+
+
+
+
+© Amnesty International 2021                                                  Cover: © Amnesty International. Design by Colin Foo
+Except where otherwise noted, content in this document is licensed
+under a Creative Commons (attribution, non-commercial, no derivatives,
+international 4.0) licence.
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+For more information please visit the permissions page on our website:
+www.amnesty.org
+Where material is attributed to a copyright owner other than Amnesty
+International this material is not subject to the Creative Commons licence.
+
+First published in 2021 by Amnesty International Ltd
+Peter Benenson House, 1 Easton Street, London WC1X 0DW, UK
+
+
+
+Index: MDE 22/4966/2021
+Original language: English
+amnesty.org
+CONTENTS
+1. INTRODUCTION                                                                                   4
+The problems                                                                                      5
+What has Qatar done so far?                                                                       6
+
+2. THE KAFALA SYSTEM                                                                              8
+The promise                                                                                       8
+The reality                                                                                       8
+Exit permit: scrapped but some gaps remain                                                        9
+No-Objection Certificate: barriers still present                                                 10
+   - Internal backlash by some employers                                                         11
+   - Job mobility curtailed                                                                      12
+   - A lucrative business is stifling reform efforts                                             18
+An array of other abusive practices and retaliation                                              20
+
+3. WAGE THEFT                                                                                    26
+The promise                                                                                      26
+The reality                                                                                      26
+Wage Protection System: inadequate to deal with level of abuse                                   28
+Labour Committees: insufficient to guarantee access to justice for all victims                   29
+Workers’ Support and Insurance Fund                                                              30
+Minimum wage: needs to be sufficient to support all workers                                      31
+
+4. WORKERS’ RIGHT TO ORGANIZE                                                                    32
+The promise                                                                                      32
+The reality                                                                                      32
+
+5. MIGRANT WORKERS’ DEATHS                                                                       35
+The promise                                                                                      35
+The reality                                                                                      35
+Failure to prevent deaths                                                                        36
+Failure to investigate and certify deaths                                                        37
+Failure to provide remedy                                                                        39
+
+6. WHAT SHOULD QATAR DO NOW?                                                                     42
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR    3
+Amnesty International
+1. INTRODUCTION
+
+With just a year to go until the 2022 football World Cup in Qatar, Amnesty
+International examines how far the country has come in meeting its promises to
+reform its labour system and protect workers’ rights. This briefing updates our
+Reality Checks issued in February 2019 and November 2020.
+The final countdown to football’s next World Cup has started, yet Qatar has still not delivered on the
+promise it made - in an agreement with the ILO – to end the labour abuse and exploitation of its
+more than two million migrant workers. Indeed, as this report demonstrates, the past year has seen
+an actual erosion of newly protected migrant workers’ rights against a backdrop of increased scrutiny
+of Qatar’s poor human rights record and calls for the tournament to be boycotted.
+
+Since Qatar committed to overhaul its labour system in 2017, it has introduced important legal
+reforms. However, progress on the ground has stagnated and old abusive practices have been
+resurfacing, reviving the worst elements of kafala (the sponsorship-based employment system) and
+undermining reforms. The government has failed to rigorously implement the reforms, in particular
+by monitoring their enforcement and holding abusers to account. This failure throws into doubt the
+pledge by key stakeholders that the World Cup would be a game changer for migrant workers in
+Qatar.1
+
+For every day that this persists, workers across the country are left at the mercy of unscrupulous
+employers, facing wage theft, unsafe working conditions and sometimes insurmountable barriers to
+changing jobs. Workers are still prohibited from organizing themselves to collectively fight for their
+rights, while justice evades them and compensation for abuse remains scarce. And amongst all this,
+employers continue with “business as usual”, allowed to exploit their workforce with impunity.
+
+In releasing its latest “reality check”, Amnesty International is warning that Qatar must take urgent
+action to complete the reform process and enforce it properly before the World Cup kicks off in
+November 2022. Unless this happens, thousands more workers risk being subjected to labour abuse
+and exploitation in the next year alone, with little hope of remedy. The situation for those who will
+remain in Qatar after the tournament ends will be even worse.
+
+
+
+     Qatar must take urgent action to complete the reform process and
+     enforce it properly before the World Cup kicks off in November 2022
+
+
+
+
+1   FIFA and the Supreme Committee pledged the World Cup will leave “a legacy of world-class standards and
+    practices for workers in Qatar and internationally”. See https://digitalhub.fifa.com/m/5adbe651c67c78a3/original/
+    o2zbd8acyiooxyn0dwuk-pdf.pdf
+
+
+
+
+4                               REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                           Amnesty International
+THE PROBLEMS
+Our previous briefings identified key factors at the heart of the abuse faced by migrant workers:
+
+• The kafala system that binds foreign workers to their employers, restricting workers’ ability to change
+  jobs and preventing many from leaving the country without their employers’ permission.
+
+• Late and non-payment of wages, exacerbating high levels of worker debt caused by illegal and unethical
+  recruitment practices.
+
+• Barriers to obtaining justice for migrant workers whose rights are abused and violated.
+
+• Impunity for abusive employers.
+
+• Poor protection of domestic workers, including weak implementation of the law.
+
+• Prohibition of migrant workers to form and join trade unions.
+
+• Failure to enforce Qatari laws that are supposed to protect workers’ rights.
+
+
+
+
+    QATAR’S COMMITMENTS – THE ILO AGREEMENT
+    In 2014, workers’ groups lodged a complaint against Qatar at the ILO for non-observance of
+    Convention No.29 on Forced Labour and Convention No.81 on Labour inspection.2 In 2017,
+    following further extensive documentation of the abuse of low-paid migrant workers the government
+    signed an agreement with the ILO, committing to a three-year, wide ranging reform process.
+
+    Through the partnership, Qatar and the ILO agreed to work together from 2018-2020 to “align
+    [Qatar’s] laws and practices with international labour standards and fundamental principles and
+    rights at work”.3
+
+    Reform objectives were set under five key pillars:
+
+    • improvement in the payment of wages;
+
+    • enhanced labour inspection and health and safety systems;
+
+    • replacement of the kafala sponsorship system and improvement of labour recruitment
+      procedures;
+
+    • increased prevention, protection and prosecution against forced labour;
+
+    • promotion of workers’ voice.
+
+    Further details on the commitments made under some of these pillars can be found in chapters
+    2 – 5 of this report.
+
+
+
+
+2    See text of the complaint, Complaint alleging non-observance by Qatar of the Forced Labour Convention, 1930 (No. 29), and
+     the Labour Inspection Convention, 1947 (No. 81), made by delegates to the 103rd Session (2014) of the International Labour
+     Conference under article 26 of the ILO Constitution, 16 March 2015, Appendix I, p.3 https://www.ilo.org/wcmsp5/groups/public/---
+     ed_norm/--- relconf/documents/meetingdocument/wcms_348745.pdf
+3    Technical cooperation programme agreed between the Government of Qatar and the ILO (2018–20), 2017, p.31, https://www.ilo.org/
+     wcmsp5/groups/public/---ed_norm/---relconf/documents/meetingdocument/wcms_586479.pdf
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                     5
+Amnesty International
+WHAT HAS QATAR DONE SO FAR?
+Since 2017, Qatar’s government has introduced legislation and initiatives aimed at benefiting migrant
+workers. These include:
+
+• Domestic Workers Law, which stipulates limits on working hours, mandatory daily breaks, a weekly
+  day off and paid holidays regulating working hours;
+
+• Committees for the Settlement of Labour Disputes (Labour Committees) to facilitate workers’ access
+  to justice;
+
+• A fund to support and expedite payment of unpaid wages;
+
+• Non-discriminatory new minimum wage;
+
+• Ending the exit permit and No-Objection Certificate (NOC) requirements, which should allow migrant
+  workers to leave Qatar and change jobs without their employer’s permission;
+
+• Piloting the formation of joint committees between employers and workers; and
+
+• Ratifying two key international human rights treaties, although Qatar reserved the right to ignore some
+  of their key obligations, including the right of workers to form and join trade unions deciding
+  instead to only set up pilot projects for workplace committees.
+
+These reforms had the potential to transform the lives of migrant workers in Qatar. However, their weak
+implementation and gaps in the measures introduced have meant that over the last year, many abusive
+practices have re-emerged, seriously undermining the reform process.
+
+Jacob, a security guard, explained to Amnesty International what this means for migrant workers like him:
+
+
+      “…change came on paper but on the ground it has not changed...
+      When you go inside the company and among the workers [you see that]
+      only a very small change has happened. It is still appalling.” 4
+In the absence of effective enforcement of the new regulations, many abusive employers have found
+cracks in the system. This has allowed them to carry on with “business as usual” at the expense of
+workers’ rights, with egregious practices resurfacing:
+
+• some employers still oppose or ban migrant workers from changing jobs;
+
+• employers’ permission to change jobs still needed in practice, adding further confusion to an already
+  complicated system for migrant workers;
+
+• ‘absconding’ charges remain available for use as a tool of exploitation;
+
+• wage theft remains rampant;
+
+• the process to claim unpaid dues in court remains laborious and even fruitless for many migrant workers;
+
+• a culture of impunity for abusive employers is still thriving;
+
+• migrant workers’ deaths remain poorly investigated, depriving families of their right to remedy; and
+
+• migrant workers continue to be deprived of their right to form and join trade unions.
+
+4    Remote Interview, 4 May 2021.
+
+
+
+6                                REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                            Amnesty International
+To fulfil commitments they made, Qatar’s authorities must, as a matter of urgency:
+
+           effectively implement and enforce the reforms to ensure that old abusive practices are dismantled
+           and new ones do not replace them;
+
+           strengthen inspection mechanisms to quickly detect and stop abuses;
+
+           improve workers’ ability to access justice and remedy;
+
+           hold abusive employers to account; and
+
+           promote migrant workers’ voices and respect their right to form trade unions.
+
+
+
+
+    METHODOLOGY
+    This briefing updates Reality Check 2020: Countdown to the 2022 World
+    Cup – Migrant workers’ rights in Qatar, published in November 2020;5
+    which built on the previous briefing, Reality Check: The state of migrant
+    workers’ rights with four years to go until the Qatar 2022 World Cup, published
+    in February 2019.6 Both briefings welcomed Qatar’s commitment
+    “to align its laws and practices with international labour standards”,
+    recognizing the importance of reforms to tackle widespread labour
+    exploitation.7 But they also highlighted the weak enforcement that left
+    migrant workers vulnerable to serious labour abuses.
+
+    This briefing draws on the extensive body of research Amnesty International has developed
+    on migrant workers’ rights in Qatar over the past decade, including new research conducted
+    in 2021. Researchers interviewed 45 current and former workers either remotely or in person
+    between April and November 2021 regarding their experience of living and working in Qatar.
+    This briefing also draws on the work of other organizations and journalists covering migrant
+    workers’ rights in Qatar, as well as discussions with representatives of workers' countries of
+    origin, the International Labour Organization (ILO), representatives of migrant workers’ rights
+    organizations and leaders of migrant worker communities in Qatar, and correspondence and
+    meetings with Qatari government officials. Amnesty International delegates visited Qatar in
+    October 2021 to conduct further field research and meet officials and other stakeholders.
+
+    Amnesty International also analysed national and international laws and standards pertaining to
+    migrant workers’ rights, and annual ILO reports on Qatar’s progress on the commitments made
+    in its joint technical cooperation agreement with the ILO.8
+
+    In this report, pseudonyms have been used for all workers whose cases are mentioned to
+    protect them from possible reprisals.
+
+
+
+
+5    Amnesty International, Reality Check 2020: Countdown to the 2022 World Cup – Migrant workers’ rights in Qatar (Index MDE 22/3297/2020), 18
+     November 2020, https://www.amnesty.org/en/documents/mde22/3297/2020/en/
+6    Amnesty International, Reality Check: The state of migrant workers’ rights with four years to go until the Qatar 2022 World Cup (Index MDE
+     22/9758/2019), 5 February 2019, https://www.amnesty.org/en/documents/mde22/9758/2019/en/
+7    Technical cooperation programme agreed between the Government of Qatar and the ILO (2018–20), p. 31, https://www.ilo.org/wcmsp5/groups/
+     public/---ed_norm/---relconf/documents/meetingdocument/wcms_586479.pdf
+8    Ibid.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                    7
+Amnesty International
+2. THE KAFALA SYSTEM
+
+     THE PROMISE
+     Under Pillar 3 of the agreement with the ILO, Qatar committed to replace kafala with a contractual
+     employment system.9 This would:
+
+     • end restrictions and obstacles that limit migrant workers’ freedom of movement and prevent
+       them from terminating their employment in the event of abuse;
+
+     • authorize workers to leave their employment at certain intervals or after giving
+       reasonable notice;
+
+     • review the procedure for issuing exit visas; and
+
+     • enforce the prohibition of passport confiscation.10
+
+
+
+
+THE REALITY
+By August 2020, Qatar had finally repealed the requirement to obtain an exit permit and No-Objection
+Certificate (NOC) for most migrant workers, allowing them to leave the country and move jobs without
+seeking their sponsors’ consent, both considered central pillars of the kafala system. While this was
+an important step forward, a de facto NOC process has emerged and problematic elements of kafala
+remain in place. These include, for instance, the ability of employers to control migrant workers’ legal
+status on top of the array of retaliatory measures that abusive employers can use at any time without
+fear of punishment.
+
+For Sara, a domestic worker who has worked for two and a half years in Qatar, little has changed.
+She told Amnesty International:
+
+
+       “Changing job in Qatar is so difficult. True that there is no NOC law but most
+       of the companies and employers are still asking for one, and unluckily they
+       [current employer] don't want to give me one and say they will send me back to
+       the Philippines. I have received a lot of job offers but my problem is that they are
+       still needing NOC or release papers or resignation letter signed by my previous
+       sponsor. It is much safer if the employees have the NOC or release paper.”11
+
+
+
+9    Technical cooperation programme agreed between the Government of Qatar and the ILO (2018–20), p. 31.
+10   See comments of the ILO Committee of Experts on the Application of Conventions and Recommendations, which the government
+     committed to follow when reviewing Law No. 21 and other relevant laws regulating the recruitment and employment terms and
+     conditions of migrant workers, https://www.ilo.org/dyn/normlex/en/f?p=1000:13100:0::NO:13100:P13100_COMMENT_
+     ID:3255640
+11   Remote interview, 7 September 2021.
+
+
+
+8                                 REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                             Amnesty International
+EXIT PERMIT: SCRAPPED BUT SOME GAPS REMAIN
+Qatar scrapped the exit permit requirement for migrant workers in September 2018, allowing most
+migrant workers covered by the Labour Law to leave the country without the permission of their
+employer.12 In January 2019, domestic workers and other groups of workers were eventually included
+in the exit permit exemption after being excluded from the initial announcement.13 However, domestic
+workers still needed to “inform” their employer in person 72 hours before their departure.14
+
+According to the ministerial decision, employers could still request that up to 5% of their workforce
+requires an exit permit following Ministry of Administrative Development, Labour and Social Affairs’
+(MADLSA) approval.15 As of August 2020, MADLSA had approved 42,171 requests to retain exit permit
+permission for migrant workers.16 Figures for 2021 were not available at the time of writing.
+
+Almost two years after the removal of the exit permit, workers’ rights organizations and representatives
+of embassies in Qatar acknowledged that leaving the country had generally become easier.17 However,
+they told Amnesty International that some migrant workers, especially domestic workers, continue to face
+hurdles. These include employers refusing to provide the air ticket fare to return home or filing spurious
+‘absconding’ (running away from a job, which is deemed a criminal offence in Qatar) or theft cases against
+employees, and failing to renew workers’ residence permits, undermining their ability to leave the country.18
+Further, passport confiscation remains a rampant practice amongst employers of domestic workers.19
+
+
+
+
+Migrant workers play football on an area of wasteland in Doha, Qatar. © Charlie Crowhurst/Getty Images
+
+
+
+
+12   Amnesty International, Qatar: Partial abolition of ‘exit permit’ lifts travel restrictions for most migrant workers, 5 September 2018, https://www.
+     amnesty.org/en/latest/news/2018/09/qatar-exit-system-reform-first-step/
+13   See Ministry of Interior Decision No. 95 of 2019 on the regulations and procedures regarding the exit of some categories of workers
+     who are not subject to the Labour Law, 1 December 2019, https://www.almeezan.qa/LawArticles.aspx?LawArticleID=79754&LawI
+     d=8221&language=ar
+14   Article 2 of the Ministry of Interior Decision No. 95 of 2019.
+15   On 19 October 2021 the Emir issued the Emiri Order No 4 of 2021 reshuffling the Cabinet. As a result, MADLSA was demerged
+     and a new minister was appointed to head the Ministry of Labour. See The Peninsula, Amir issues Amiri order reshuffling Qatar cabinet, 19
+     October 2021, https://thepeninsulaqatar.com/article/19/10/2021/Amir-issues-Amiri-order-reshuffling-Qatar-cabinet
+16   See ILO, Progress report on the technical cooperation programme agreed between the Government of Qatar and the ILO (ILO Progress Report), 9 October
+     2020, p. 6, https://www.ilo.org/wcmsp5/groups/public/---ed_norm/---relconf/documents/meetingdocument/wcms_757599.pdf
+17   Interviews with representatives of migrant workers’ rights organizations and embassies in Doha, conducted remotely and in person
+     between September and October 2021.
+18   Ibid. For further information on domestic workers, see: Amnesty International, “Why do you want to rest?”: Ongoing abuses of domestic workers
+     in Qatar, 20 October 2020, https://www.amnesty.org/en/documents/MDE22/3175/2020/en/
+19   Interviews with representatives of migrant workers’ organizations on 25 October 2021.
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                        9
+Amnesty International
+NO-OBJECTION CERTIFICATE: BARRIERS STILL PRESENT
+On 30 August 2020, Qatar became the first country in the region to allow migrant workers to change
+jobs without their employer’s permission after fulfilling certain conditions, including completing a
+probationary period and serving notice.20 However, a year on, the ability of migrant workers to move
+jobs freely is still constrained by sometimes insurmountable barriers. Indeed, what initially appeared to
+be a quick and relatively easy online process has increasingly become cumbersome, complex and open
+to abuse.
+
+In theory, according to laws No. 18 and 19 of 2020,21 all migrant workers can now change employers
+after their six-month maximum probation period, providing they serve their notice.22 Migrant workers
+can also change jobs during their probation providing that their new employer reimburses the airfare
+and recruitment fees to their current employer, an amount that cannot exceed two months of the
+workers’ basic salary.23 If either the employer or worker terminates the contract without respecting the
+notice period, they must pay the other party compensation equivalent to the worker’s basic wage for the
+notice period or its remaining time. If workers fail to abide by these provisions, they cannot work in the
+country for a year after their departure. Migrant domestic workers were included in these provisions,
+though their probation period should not exceed three months.24
+
+The ability to move jobs is a vital way for workers to avoid abusive circumstances. Take the case of Abel,
+who is 30 years old and married with one child. He paid more than US$1,200 to a recruitment agent in
+his home country to get his job in Qatar. After working four years for the company – often 12 hours every
+day for just QR1,400 (US$380) per month - he was promoted. But Abel told Amnesty that despite this,
+his employer refused to adequately increase his salary, and so, soon after the law changed in Qatar he
+sought a new opportunity. “I was among the first people to use the new process and change jobs,” he told Amnesty.25
+
+In response to a request by Amnesty International for data, Qatar provided partial information that
+makes it hard to assess the extent of this reform’s implementation. The government reported that
+between September 2020 and August 2021, it had approved 226,840 migrant workers’ applications
+to change jobs, and that decisions on these applications were made within seven to 10 working days.26
+But the government did not provide the total number of applications submitted during this period or the
+number of applications that had been rejected, as requested by Amnesty International.
+
+According to organizations supporting migrant workers in Qatar, the picture has indeed been mixed.
+They told Amnesty International that following the introduction of the new system many applications
+were processed despite some workers facing hurdles such as language barriers or lack of access to
+smartphones.27 However, some employers continued to ask newly hired workers for an NOC, while
+others used retaliatory measures such as cancelling visas or filing absconding reports after workers told
+them of their intention to change job, thereby deliberately undermining the new job transfer process.28
+
+
+
+
+20   To change jobs, workers or their new employer must submit a request through MADLSA’s electronic system, attaching a copy of
+     their new job offer letter and current contract. MADLSA then processes the request and sends an SMS to the worker informing them
+     whether their application has been accepted or rejected. If accepted, the SMS is also sent to the current employer, and all parties
+     are informed of the notice period to be served. If the application is rejected, only the worker is informed. For more details of the
+     process, see MADLSA, Changing employers in Qatar: Key information for workers, https://www.ilo.org/wcmsp5/groups/public/---arabstates/---
+     ro-beirut/documents/publication/wcms_754403.pdf
+21   Law No. 18 of 2020 amended articles 39, 43, 49, 115/bis, 144, 145, 145/bis of the Labour Law; and Law No. 19 of 2020 (removal
+     of No-Objection Certificate requirement), https://www.ilo.org/beirut/projects/qatar-office/WCMS_754882/lang--en/index.htm
+22   The notice period is one month for the first two years of service and two months for more than two years. See Article 1 of Law No.
+     18 of 2020 amending Article 30 of the Labour Law.
+23   See: Article 1 of Law No. 18 of 2020 amending Article 39 of the Labour Law.
+24   See: MADLSA, Changing employers in Qatar: Key information for workers,
+25   Remote interview, 5 May 2021.
+26   Letter from the Government Communications Office (GCO) to Amnesty International, 4 October 2021. On file with Amnesty International.
+27   Interviews with migrant worker organizations conducted remotely and in person between September and October 2021.
+28   Amnesty International, Reality Check 2020, p.13.
+
+
+
+10                                   REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                Amnesty International
+INTERNAL BACKLASH BY SOME EMPLOYERS
+The removal of the NOC was opposed by some local businesses, who voiced their concerns about the
+unfairness of the new regulations for employers.29 Hashtags advocating for the “right of employers”
+circulated online and opinion pieces appeared in local newspapers.30 Small and medium sized
+companies argued that they risked losing their workforce at a time when they could not afford to hire
+new employees, and travel restrictions resulting from the pandemic meant that they were unable to
+recruit new workers.31
+
+In an attempt to ease the business community’s concerns, a MADLSA representative stressed in a
+television interview in late November 2020 that the rights of businesses would be protected during
+the job transfer process and that workers were required to attach to their application a copy of the
+resignation letter submitted to the employer, adding that “signature and stamp of the new company
+is also needed where a worker wants to transfer”. 32 He added that once the employer received
+notification of their employee’s transfer request, they could inquire about the transfer and raise any
+concerns they might have about it via email or a hotline number.
+
+Then, in January 2021, in an attempt to further reassure the local community, the Minister of Labour
+told the Shura Council that “the transfer of sponsorship has rules, controls and procedures that will preserve
+the rights of all parties” and that “the number of workers who requested a transfer is few and that those whose
+requests were approved are smaller.” The minister added that changing jobs was still “subject to approval or
+rejection after communicating with the concerned parties.”33
+
+Despite these reassurances, the Shura Council issued on 22 February 2021 a series of
+recommendations aimed at stripping workers of their new rights. These recommendations have not
+passed into law, however they give a strong indication of the local resistance to change in particular
+from the business community.34 The recommendations included:
+
+
+     • removing the right of migrant workers to change jobs during their contract;
+
+     • limiting the number of times they can change jobs during their
+       stay in Qatar to three;
+
+     • restricting the number of workers in a company that can change
+       jobs to 15% unless agreed otherwise by the company; and
+
+     • increasing the percentage of workers who require exit permits to
+       leave Qatar from 5% to 10%.35
+
+
+
+
+29   See: The Peninsula, Qatar Chamber, Ministry discuss businessmen’s demands and grievances on labour law amendments,
+     22 November 2020, https://www.thepeninsulaqatar.com/article/22/11/2020/Qatar-Chamber,-Ministry-discuss-
+     businessmen%E2%80%99s-demands-and-grievances-on-labour-law-amendments
+30   See Blog, ‫وقفة متأنية بين حقوق الع مّ ال وحقوق أصحاب العمل‬, 19 October 2020, https://alwelayalrsheda.blogspot.com/2020/10/blog-post.
+     html and٢-٢ ‫المنظمات األممية والتدخل في سيادة الدول‬, 9 November 2020; and Al-Raya, ٌ‫ حقوقٌ منتهك ةٌ أم تشري ع‬..‫ بروتوكول المنظمات الدولية‬..‫مداد القلم‬
+     ‫للسرقة وشريعة الغاب؟‬, 16 November 2020, tinyurl.com/74v5zvzy
+31    Al-Sharq, ‫ بين مطرقة العامل وسندان القوانين‬...‫المواطن‬, 22 November 2021, shorturl.at/yGQS2.
+32   The Peninsula, Resignation copy required for job change request, 28 November 2020, https://www.thepeninsulaqatar.com/
+     article/28/11/2020/Resignation-copy-required-for-job-change-request
+33   The Peninsula, Sponsorship transfer rules will preserve rights of all parties, Shura Council told, 5 January 2021, https://www.
+     thepeninsulaqatar.com/article/05/01/2021/Sponsorship-transfer-rules-will-preserve-rights-of-all-parties,-Shura-Council-told.
+     The Shura Council is an advisory body that acts as a quasi-parliament.
+34   Amnesty International, Is Qatar planning a U-turn on reforms?, 4 March 2021, https://www.amnesty.org/en/latest/news/2021/03/
+     is-qatar-planning-a-uturn-on-reforms/
+35   The Peninsula, Shura Council makes recommendations on change of employer and expat worker’s exit, 22 February 2021, https://
+     thepeninsulaqatar.com/article/22/02/2021/Shura-Council-makes-recommendations-on-change-of-employer-and-expat-
+     worker%E2%80%99s-exit?fbclid=IwAR3nbeG66h6iXrNyK0W7-ctO6GHc1YkOhCFifPgvxo86nQL7wgIMguYkJzU
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                          11
+Amnesty International
+JOB MOBILITY CURTAILED
+       “There are very many who want to
+       change job, but they failed. The method
+       was they got a message saying 'rejected'.
+       About 100 could apply but they only
+       approve five or so. The company can then
+       maybe mistreat them psychologically.
+       [The company] get told [by MADLSA] that
+       “so and so is trying to change” and
+       then they harass people." 36
+       (Ben, from Uganda)                                                                Migrant workers at Al Attiyah Market in Doha's industrial area on a
+                                                                                         Friday afternoon, October 2012. © Amnesty International
+
+
+
+Despite the law remaining unchanged, the reality is that it has become increasingly difficult for workers
+to change jobs, according to multiple sources.37
+
+Organizations on the ground supporting migrant workers noted they had seen an increase in complaints
+from workers seeking to change jobs, including workers facing many months of delays in the process,
+applications being rejected without explanation, and the emergence of a de facto NOC requirement.38
+Many migrant workers interviewed by Amnesty International also reported that they or their colleagues
+came up against great challenges in transferring employers.39 A representative of Migrant-Rights.org,
+told Amnesty International:
+
+       “Job mobility, in the first weeks of the reforms, was indeed smooth. Everything was
+       transparent and online. However, within two months it became chaotic with employers
+       pushing back and filing false cases against workers who wish to change jobs.” 40
+
+The government told Amnesty International that “a decision on an application to change employer is
+made within 7-10 working days”.41 However, some workers said that they had to wait for months, with
+one even waiting for almost a year to hear back from MADLSA on their job transfer application.42
+
+Jacob, a worker from Kenya, told Amnesty:
+
+       “Now it's past more than six months still waiting for the message without knowing,
+       maybe the sponsor of the company has blocked the transfer. These people never
+       want to make things easier for any non-citizens.” 43
+
+36   Remote interview, 28 April 2021.
+37   Interviews with migrant workers and representatives of organizations supporting migrant workers, conducted remotely and in person
+     between April and October 2021. See also: Migrants-Rights.org, Job mobility in Qatar is still a mirage despite reforms; domestic workers most affected,
+     5 October 2021, https://www.migrant-rights.org/2021/10/job-mobility-in-qatar-is-still-a-mirage-despite-reforms-domestic-workers-
+     most-affected/; and Business and Human Rights Resource Centre, Checked Out: Migrant worker abuse in Qatar’s World Cup luxury hotels, 14 July
+     2021, pp. 24 – 25, https://media.business-humanrights.org/media/documents/2021_Qatar_Hotels_v547.pdf ;
+38   Interviews with representatives of organizations supporting migrant workers, conducted remotely and in person in September and
+     October 2021.
+39   Interviews with migrant workers between April and October 2021.
+40   Email exchange, 31 October 2021. On file with Amnesty International. Migrant-Rights.org is an advocacy organization aiming to
+     advance the rights of migrant workers in the Gulf region: https://www.migrant-rights.org/
+41   GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+42   Interviews with migrant workers conducted remotely and in Qatar between April and October 2021.
+43   Remote interview, 19 August 2021.
+
+
+12                                      REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                   Amnesty International
+According to workers interviewed, and text messages seen by Amnesty International, those whose
+applications are rejected often receive no explanation for this decision in the SMS they are sent by
+MADLSA, despite the government’s claims otherwise.44 In its reply to a request for information from
+Amnesty International, the government stated that workers could enquire in person at MADLSA
+about the status of their application.45 However, interviews conducted with migrant workers and
+representatives of workers’ rights organizations in Qatar suggest that it is very difficult in practice to go
+in person due to their working hours and inability to take time off, or because they are turned away by
+security if they do manage to make it there.46
+
+
+
+
+Screenshots of text messages received by workers on the status of their job transfer applications.
+
+
+
+
+The government told Amnesty that an application may not be approved if “a violation has been
+recorded at the new company; or the required documents have not been submitted; or the new
+company is either temporarily or permanently banned from operating”.47
+
+However, migrant workers, organizations supporting them and embassies in Doha believe that these
+are not the only reasons why applications are rejected and that in reality, failing to include an NOC or a
+written approval from their current employer appears to increase the chance of a worker’s request being
+rejected.48
+
+
+
+
+44   GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+45   Ibid.
+46   Interviews with migrant workers conducted remotely and in Qatar between April and October 2021.
+47   GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+48   Based on interviews with migrant workers and representatives of organizations supporting them conducted remotely and in Qatar
+     between April and October 2021.
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                       13
+Amnesty International
+                                                     Screenshots of job advertisements posted on Facebook in
+                                                     September and October 2021.
+
+
+
+Indeed, recently posted job adverts on social media state that applicants must have their NOC to be
+eligible to apply (see above). Migrant workers, including domestic workers, interviewed by Amnesty
+International confirmed that new employers still request they provide an NOC or equivalent approval,
+even though the law no longer requires this.49
+
+Caleb, a worker from Kenya, summed up his frustration with the process:
+
+      “Those things [about the job transfer process] they just say they are working but
+      the truth is you might get a confirmation message that you have [been approved]
+      but when the Ministry revisits your message back in the system, they cancel
+      [because of the relationships] that the Ministry of Labour has with the companies.
+      And for it to work out you might spend even a year following up and at the end
+      they deny you.”50
+
+
+
+
+49   Based on interviews with migrant workers conducted remotely and in Qatar between April and October 2021.
+50   Remote interview, 23 July 2021.
+
+
+
+
+14                                REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                             Amnesty International
+Omar said that he had tried in vain to move to a driving job after working for three years as a security
+guard. He told Amnesty International:
+
+      “… it depends on the company you are in… I was not able to change jobs because yes
+      you look for a job and they give you an offer letter, but you have to take that to your
+      company to sign to give you permission to move. But our company was not [signing] this.
+      We tried to go to the Ministry of Labour to say ‘our company won't let us change’ and
+      the Ministry just said ‘come another day’… What happened? I don't understand. The
+      government has passed the law, but the companies don't want to release you.”51
+
+Jacob, who has lived and worked in Qatar for over five years, said:
+
+      “…change came on paper but on the ground it has not changed... When you go inside the
+      company and among the workers [you see that] only a very small change has happened.
+      It is still appalling.”52
+
+Workers who proceed with a request to change jobs without their current employers’ permission, face a
+double risk: delays in the process increasing the chance the new employer will withdraw their job offer
+after months of waiting for them; and an increased likelihood that their application will be rejected by
+MADLSA. In both cases, workers face two challenging options: return to a job they no longer want and
+risk serious retaliation from their employer for trying to leave; or return home and restart the migration
+process, with all the costs this usually entails.
+
+Father of two, Zeke, described to Amnesty International how he saw his company try to frustrate his
+colleagues’ efforts to change jobs:
+
+      “Sometimes the papers get 'lost' and you wait for months. If you are working eight hours
+      and can find jobs, they make you work 12 hours, or they take you very far into the desert
+      so you cannot apply to jobs.”53
+
+According to these accounts, the combination of a lack of transparency, excessive bureaucracy and
+confusing government messages, coupled with employers’ resistance to allowing their workforce to leave
+is resulting in many migrant workers struggling to change jobs.
+
+The arduous process proves too much for some workers, who end up withdrawing their application.
+Daniel, told Amnesty International:
+
+      “I wanted to change jobs and I passed the interview, and they gave me an offer letter.
+      The [new company] wanted a [signed] resignation letter so I went to the [current
+      company’s] office three different days and they just made drama and refused to give me
+      the resignation letter. It was January 2021, after the new law. I got tired so I just left the
+      [new] job [and remained in the current company].” 54
+
+
+
+51   Remote interview, 7 May 2021.
+52   Remote Interview, 4 May 2021.
+53   Remote interview, 4 May 2021.
+54   Remote interview, 26 August 2021.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR             15
+Amnesty International
+     DOMESTIC WORKERS: EVEN HARDER TO LEAVE
+     As for domestic workers, the situation appears to be even more complex. Despite being
+     legally allowed to change jobs without the permission of their employers, several complained
+     to Amnesty International that they were not able to do so freely. Seven workers interviewed by
+     Amnesty International said that their employers would not provide them with an NOC compared
+     to only one that had. The women had completed their two-year contracts as live-in domestic
+     workers and wanted to move to jobs in cleaning companies. Their new employers requested an
+     NOC or “release paper” but their current employers refused and sent them back to their home
+     countries instead.55
+
+     Live-in domestic workers are in an especially vulnerable situation because their workplace – their
+     sponsor’s house – is also where they live. Women who spoke to Amnesty International said they
+     were scared of submitting a job transfer request through MADLSA’s platform because as soon
+     as they did this, their employer would be notified, putting them at risk of retaliatory actions.56
+     Even the one shelter promised by the government to offer refuge to survivors of trafficking closed
+     during the Covid-19 pandemic.57
+
+
+
+
+     A woman takes a photo at the Sheikh Fazilatunnesa Mujib Mohila Technical Training Center in Dhaka, Bangladesh. © Getty Images
+
+
+
+
+55   Remote interviews conducted in September 2021.
+56   Ibid.
+57   On 30 July 2019, the authorities inaugurated the first government-run shelter for trafficking survivors, including domestic workers,
+     the Human Care Home. In mid-2020 the shelter began receiving several women, but it was never fully operational and it was unclear
+     on what basis individuals were being offered a place. At some point during the Covid-19 pandemic, the shelter was closed and its
+     current status remains unclear. For more information, see Amnesty International, “Why do you want to rest?”: Ongoing abuse of domestic
+     workers in Qatar, 20 October 2020.
+
+
+
+
+16                                  REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                               Amnesty International
+     As a result, the women said they have been left with no choice but to remain in their current job
+     at the mercy of their employers or leave Qatar and attempt to return back to start their new job.58
+
+           “I want [to change jobs] but my employer wants me to go back to the
+           Philippines, she did not give me NOC to change to another job… I just
+           follow my employer because I don't like any problems...so I can come
+           back there anytime to Qatar to work again.” 59
+
+     In September 2019, Qatar set up WISA (Qatar Manpower Solutions Co), a public company
+     established by the Minister of Commerce and Industry, to recruit and manage domestic
+     workers in households on a live-out basis, an initiative supported by the ILO.60 However
+     Migrant-Rights.org found that WISA was “turning down” workers' requests to change jobs
+     with many complaining about the process.61 In its reply to a request for information from
+     Migrant-Rights.org, the company did indeed confirm that it “examines the request objectively
+     and rationally to ensure that both the company and the worker aren't negatively impacted”.
+     According to WISA, its ethical recruitment process coupled with the paid training offered to its
+     employers makes it “hard” for the company to allow for job change but if a worker wished to
+     leave the company it will “approve the employee's resignation but return them to their home
+     country in compliance with terms and contracts reached with the recruitment agencies to seek
+     a replacement worker.”62 Nevertheless, such practice amounts to denying workers their right to
+     change jobs and is in breach of the Qatari laws.
+
+
+
+
+WOMEN WHO SPOKE TO AMNESTY INTERNATIONAL SAID
+THEY WERE SCARED OF SUBMITTING A JOB TRANSFER REQUEST
+THROUGH MADLSA’S PLATFORM BECAUSE AS SOON AS THEY DID THIS,
+
+     THEIR EMPLOYER WOULD BE NOTIFIED,
+PUTTING THEM AT RISK OF RETALIATORY ACTIONS.
+
+
+
+
+58   See for example, Migrants-Rights.org, Job mobility in Qatar is still a mirage despite reforms; domestic workers most affected and, Migrant-Rights.org,
+     A Daughter's Plea, 22 March 2021, https://www.migrant-rights.org/2021/03/a-daughters-plea/.
+59   Remote interview on 6 September 2021.
+60   WISA workers will be provided with accommodation and transportation and will work no more than 10 hours a day including a proper
+     break time. Workers will also be provided with prepaid phone cards to allow them to report any abuses they might face and will be
+     enrolled into the Wage Protection System to allow them to have their monthly wages transferred to their bank accounts. For more
+     information about WISA please see Amnesty International, “Why do you want to rest?”: Ongoing abuse of domestic workers in Qatar, p:30.
+61   Migrants-Rights.org, Job mobility in Qatar is still a mirage despite reforms; domestic workers most affected, 5 October 2021, https://www.migrant-
+     rights.org/2021/10/job-mobility-in-qatar-is-still-a-mirage-despite-reforms-domestic-workers-most-affected/
+62   Business & Human Rights Resource Centre, WISA response to allegations workers are unable to change jobs, 27 October 2021, https://www.
+     business-humanrights.org/en/latest-news/wisa-response-to-allegations-workers-are-unable-to-change-jobs/
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                         17
+Amnesty International
+IN SOME CASES, EMPLOYERS HAVE REQUESTED BETWEEN
+
+ QR5,000 -15,000
+                                                                                       (US$1,375 - 4,125, BETWEEN
+                                                                                       FIVE AND 15 TIMES A WORKERS’
+                                                                                       MONTHLY MINIMUM WAGE)
+
+
+
+TO “RELEASE” THE EMPLOYEES
+A LUCRATIVE BUSINESS IS STIFLING REFORM EFFORTS
+Leaders of migrant workers’ communities and representatives of organizations supporting them noted
+that the “NOC trade” had become a lucrative business for some employers at a time when the NOC
+was supposed to have been abolished.63
+
+Workers who spoke to Amnesty International and individuals working with and supporting migrant
+workers said that in some cases, employers have requested between QR5,000 -15,000 (US$1,375
+- 4,125, between five and 15 times a workers’ monthly minimum wage) to “release” their employees,
+even though they had completed their contracts, or could anyway legally change jobs without seeking
+permission after the first three months of employment.64
+
+Employers often argue that they have incurred recruitment fees to get workers to Qatar and should be
+reimbursed these costs, according to migrant workers who spoke to Amnesty International.65 According
+to the new law, however, recruitment fees should only be repaid to the current employer if the worker
+wants to move jobs during the first six-month probation period (three months for domestic workers) and
+even then, such a fee should not exceed two months of the workers’ basic salary. Once the probation
+period is over, workers should be able to move freely without paying any costs.66
+
+When Christina finished her two-year contract as a domestic worker for a family in Qatar, she wanted
+to apply for a job in a cleaning company. She found her job as a domestic worker very demanding,
+working on average 14 hours a day, with no day off and without overtime pay. Through an online
+job-hunting process, she secured a job in a cleaning company with better pay and conditions. When
+she requested an NOC, her employer asked her to pay QR15,000 (US$4,125). She told Amnesty
+International, “They said they paid QR15,000 to get me so if I want to work for another, they must
+pay QR15,000.” As a result she was not able to change jobs and was forced to continue working as a
+domestic worker.67
+
+Another Filipino worker told Amnesty International that despite having worked for her employer for close
+to five years and receiving a job offer, her employer demanded QR15,000 for an NOC or “permission”
+to leave. She was so afraid of her sponsor cancelling her ID and sending her back to her home country
+without paying her the end-of-service gratuity she was due, that she did not submit the transfer
+request.68
+
+
+
+
+63   Interviews with community leaders and representatives of migrant workers’ organizations supporting them between September and
+     October 2021.
+64   Interviews with migrant workers conducted remotely and in Qatar between April and October 2021.
+65   Ibid.
+66   See Article 1 of Law No. 18 of 2020 amending Article 39 of the Labour Law.
+67   Remote interview, 9 September 2021.
+68   Remote interview, 19 September 2021.
+
+
+
+
+18                                REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                             Amnesty International
+     AISHA’S STORY
+     Aisha arrived in Qatar in August 2019. Having been promised a job in the hospitality sector,
+     she found herself working in a small labour supply company where she would move constantly
+     from one location to another and was paid just QR1,300 (US$360) each month, instead of the
+     promised QR1,600 (US$440). She told Amnesty International she suffered salary delays and
+     cuts by her employer, shared a room with 12 people in what she describes as “overcrowded
+     accommodation” and was never paid her end-of-service benefits.69 Nevertheless, Aisha decided
+     to complete her two-year contract hoping to be able to move to a new job offering her better
+     conditions. Her employer, on the other hand, wanted to renew her contract and when Aisha
+     refused to sign the new contract, requesting instead to move employers, he was “very upset
+     and became angry and threatening”. He told her if she wants to move job she will need to pay
+     QR6,000 (US$1,650) for an NOC or else he would send her back home. According to Aisha,
+     at least 10 of her colleagues agreed to pay for their NOC and have since managed to move
+     employers.
+
+     But Aisha told Amnesty International she does not have the money to pay and chose instead to
+     complain to MADLSA about the labour abuses she suffered. But just a week later, her complaint
+     was closed and she received a text message from MADLSA saying the case was “settled”.70 Her
+     request to change employer was also rejected without any explanation and when she and a friend
+     went to MADLSA office to inquire why they had been prevented from moving jobs, she said they
+     were not even allowed into the building.
+
+     Today Aisha continues to fight for her right to change jobs. After three months in limbo her
+     employer offered her a ‘discount’ on her NOC, requesting a payment of QR2,500 (US$687)
+     in exchange for it. But for Aisha this is not even an option, she has not been working for three
+     months and cannot afford to pay such an amount, especially when legally she should be able to
+     move jobs freely.
+
+          “The whole situation had a big impact on me but also on my family because as a
+          main breadwinner it is not easy to handle this situation. Sometimes I feel I do not
+          want to wake up in the morning,” she told Amnesty.
+
+     For Aisha the solution is simple:
+
+          “Abusive employers should be known, not only name the company but also the
+          persons owning it - they too should be blocked regardless of their nationalities.
+          My company was [previously] blocked by MADLSA because of a lot of violations
+          but the owners opened a new one which is my current company. I heard it will go
+          bankrupt soon”.71
+
+
+
+
+69   Remote interview, 27 October 2021
+70   Text messages seen by Amnesty International.
+71   Remote interview, 27 October 2021.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR          19
+Amnesty International
+A representative of a migrant workers’ organization told Amnesty International:
+
+       “It is even worse than before the NOC reforms – it is becoming a business. I am angry
+       and frustrated beyond belief. Imagine workers paying as much as QR30,000 just for the
+       piece of paper, even when they have finished the contract. NOC is here, employers are
+       requesting NOCs.” 72
+
+Another expert supporting migrant workers echoed this, having noticed the rise of the “NOC trade”.73
+
+
+AN ARRAY OF OTHER ABUSIVE PRACTICES AND RETALIATION
+The official removal of the NOC has given rise to other abusive practices aimed at preventing migrant
+workers from changing jobs or punishing those who try to do so.
+
+One such practice appears to be an extensive use of the “non-compete clause” in employment contracts.
+Non-compete clauses prohibit employees from working in a new company in the same sector for one
+year after the end of their contract. According to the ILO, these clauses should only be used in very
+specific situations “where the nature of the work puts the worker in a position to know the clients
+of the employer or the secrets of the business”.74 However, according to workers in the country and
+organizations supporting them, some employers are using non-compete clauses freely, even inserting
+them into the contracts of blue-collar employees who have no access to sensitive information. 75 The
+result is to restrict their workers’ ability to change jobs.
+
+
+
+
+A Security guard outside of buildings on Pearl Island, Doha, Qatar, 2018. © Rumbo alo desconocido//Shutterstock
+
+
+
+
+72   Interview with a representative of an organization supporting migrant workers conducted remotely, 27 September 2021.
+73   Interview with a representative of an organization supporting migrant workers conducted remotely, 20 September 2021.
+74   MADLSA, Labour Mobility in Qatar – Key information for employers, https://www.ilo.org/wcmsp5/groups/public/---arabstates/---ro-beirut/
+     documents/publication/wcms_754450.pdf
+75   Interviews with migrant workers and organizations supporting them, conducted remotely and in Qatar between April and
+     October 2021.
+
+
+
+
+20                                   REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                Amnesty International
+DESPITE THE GOVERNMENT’S COMMITMENT TO END THE KAFALA SYSTEM,
+
+  MIGRANT WORKERS IN QATAR STILL EFFECTIVELY
+  CONTINUE TO BE TIED TO THEIR “SPONSOR” (KAFEEL)
+FROM THE MOMENT THEY ENTER THE COUNTRY AND
+THROUGHOUT THEIR EMPLOYMENT
+
+Another abusive practice reported by the Qatar government itself is employers making their workers sign
+five-year contracts committing not to change jobs during this period.76
+
+Other unscrupulous employers have started to withhold two months’ salary as a form of ransom to prevent
+workers seeking to change job without their permission, according to migrant workers and workers’
+rights organizations. 77 Some workers said that they have had to relinquish their rights to any end-of-service
+benefits if they move jobs.
+
+Despite the government’s commitment to end the kafala system, migrant workers in Qatar still effectively
+continue to be tied to their “sponsor” (kafeel) from the moment they enter the country and throughout
+their employment.78 Their sponsor, who is often their employer, is responsible for requesting and renewing
+their residence permits.79 However, if they fail to do so, it is the worker and not the sponsor who faces
+punishment. This dependency gives rise to the retaliatory use of ‘absconding’ charges and cancellation of
+residence permits to which abusive employers resort as a means of controlling their workforce.
+
+Despite MADLSA stating in 2020 that they were working with the Ministry of Interior to cancel the
+system whereby employers report workers as having absconded, 80 embassies in Doha, migrants’ rights
+organizations, community leaders and workers told Amnesty International that employers continue to
+file or threaten to file spurious absconding charges against workers who seek to change jobs without
+their permission.81 Such charges and other malicious accusations (such as theft levelled often against
+domestic workers) trigger legal processes that migrant workers find difficult to challenge because of
+language barriers and the lack of legal aid and support.82
+
+A representative of Migrant-Rights.org told Amnesty International:
+
+      “The Absconding laws must go immediately. It is a powerful and exploitative tool in the
+      hands of employers. There are provisions within the labour law that allow for termination
+      when a worker goes AWOL. The absconding law makes no sense. Particularly for domestic
+      workers, if they are criminalized for just leaving the household, how are they going to
+      access the government services to file a complaint?” 83
+
+
+76   Doha News, Security company faces penalty for breaking Qatar labour law, 4 May 2021, https://www.dohanews.co/security-company-faces-
+     penalty-for-breaking-qatar-labour-law/
+77   Remote interviews with workers and representatives of organizations supporting them, September – October 2021.
+78   See Articles 1-4 of the Sponsorship Law (Law No 21 of 2015), https://www.almeezan.qa/LawPage.aspx?id=6809&language=ar
+79   Under Article 8 of the Sponsorship Law (Law No 21 of 2015), employers must provide migrant workers with a residence permit
+     within 90 days from their arrival to Qatar or expiry of the previous residence permit.
+80   According to the MADLSA, employers will only inform the Ministry that workers have left their jobs to “avert future liability” as their
+     official sponsors in the country. The Peninsula, System of reporting absconding workers to be abolished soon, 20 October 2020, https://
+     thepeninsulaqatar.com/article/20/10/2020/System-of-reporting-absconding-workers-to-be-abolished-soon
+81   Interviews conducted remotely and in Qatar between April and October 2021.
+82   Amnesty International, “Why do you want to rest?”, p. 59.
+83   Email exchange, 31 October 2021. On file with Amnesty International.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                             21
+Amnesty International
+Similarly, employers can still cancel their workers’ residence permit at the push of a button, and some
+do so after being notified of their workers’ intention to change jobs. Such abusive practices jeopardize
+the chances of workers changing jobs freely, putting them at risk of arrest and deportation, and ensure
+the status quo is maintained whereby employers continue to hold the balance of power.
+
+
+
+     MUSA’S STORY
+     Musa told Amnesty International that he had worked for his company for a year when he sought
+     to change employer in the middle of 2021, seeking “greener pastures” when the job turned
+     out to be not as promised. After handing in a resignation letter and being approved for transfer
+     by MADLSA, Musa’s employer immediately stopped him from working for three weeks during
+     his notice period. Musa said he should nonetheless have been paid his basic salary. Instead,
+     the company deducted this amount from the end-of-service benefits he was entitled to. When
+     Musa declined the company’s offer to change his working location in exchange for rescinding
+     his resignation, just two days before the end of his notice period his employer cancelled his
+     residence permit. Musa resigned himself to being sent home and having to return to Qatar on
+     a new visa. However, the company had other ideas. In mid-September, Musa discovered his
+     employer had also filed an absconding charge against him, even though he was still living in their
+     accommodation. He told Amnesty International:
+
+          “It was too much pressure from the company so I wanted to go home and come
+          back on a new visa. But a [criminal] case on my ID means that I [wouldn't be able to]
+          return... They don't know my pain, they don't know what I sold to come here.” 84
+
+     At time of writing, the case against Musa remained open and he was at risk of arrest and
+     deportation, struggling to survive.
+
+          “I want them to drop the case so I can stay in Qatar to support my family and my
+          brother who is very sick. I haven't been earning for months. I sold my land. I need
+          compensation.” 85
+
+
+     WILSON’S STORY
+     Wilson, who worked as a landscaper for a company in Qatar for more than three years, said
+     that he had faced similar problems. 86 He tried to change jobs several times before the NOC
+     requirement was scrapped, but his company refused to give him the documents.
+     He told Amnesty International:
+
+          “The salary is very small. The work is hard. We are working outside in this harsh
+          climate… I was telling the General Manager, ‘I’ve got my kid, my family’. I was
+          getting very little, QR900 (US $247). And there was an opportunity to change but they
+          could not release me.”
+
+
+
+84   Remote interviews between September and November 2021.
+85   Remote Interview, 3 November 2021.
+86   Remote interview, 30 September 2021.
+
+
+
+
+22                              REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                           Amnesty International
+     When the law changed in September 2020, Wilson tried again. Having secured an offer for a
+     higher-paid job, his prospective new employer helped him through the online transfer process
+     at the end of 2020, telling him that he should get his resignation letter stamped by his current
+     company. However, the company refused. After approximately two months, Wilson says he
+     received a message from MADLSA notifying him that his application had been rejected, without
+     further explanation.87
+
+     A few weeks later, Wilson’s company cancelled his residence permit and booked him a flight
+     home, something Wilson had not requested. With no sponsor and an expired ID, he was forced
+     to work undocumented in Qatar. He said:
+
+
+          “They [current employer] don’t want anyone to leave the company and remain in the
+          country with another job. I can be deported any time… If I get the ID renewed, I will
+          have a chance to change sponsor and get a better job.” 88
+
+
+Organizations supporting workers on the ground acknowledged the efforts made by MADLSA to support
+workers when they become aware of cases but noted that such efforts are provided on a case-by-case
+basis and do not address the issues systematically in order to prevent future abuses.89
+
+
+WHAT NEEDS TO CHANGE
+Ultimately, the Ministry needs to take a stricter stance against employers that break the law. Employers
+who request money to release workers or engage in illegal and abusive practices to stop workers from
+changing jobs must be punished. Similarly, MADLSA should refrain from encouraging employers to file
+their objections to transfers, uphold these only in the most limited of circumstances (as per the law),
+and keep a record of and penalize employers who seek to hinder their workers’ freedom of movement.
+Only by doing so will the government effectively crack down on abusive employers and reform the
+labour system.
+
+In July 2021, in an attempt to improve the system and address loopholes in the system, MADLSA
+circulated a memo making the following changes:
+
+• Employers will no longer receive an SMS notification informing them about workers’ applications to
+  change jobs. They will only be informed about the final decision at the same time as the worker.
+
+• Once workers submit the request to change jobs, employers can no longer cancel their ID or file
+  absconding cases against them.
+
+• Workers who change their mind during their transfer process can cancel their application.90
+
+However, as far as Amnesty International is aware and based on interviews with workers and community
+leaders in Qatar, the measures detailed in the memo have not yet been effectively implemented. Indeed,
+in its reply on 4 October 2021 to Amnesty International’s request for information, the government said
+that MADSLA is developing proposals for new mechanisms with the Ministry of Interior to ensure
+
+
+
+
+87   On file with Amnesty International.
+88   Ibid.
+89   Interviews with organizations supporting migrant workers in Qatar.
+90   According to workers' rights organizations the memo was shared privately and circulated in workers’ communities.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                          23
+Amnesty International
+               ULTIMATELY, THE MINISTRY NEEDS TO TAKE A STRICTER
+               STANCE AGAINST EMPLOYERS THAT BREAK THE LAW
+                             EMPLOYERS
+                             WHO REQUEST
+                                                               OR ENGAGE IN ILLEGAL
+                                                               AND ABUSIVE PRACTICES                    MUST BE
+                             MONEY TO
+                             RELEASE WORKERS
+                                                               TO STOP WORKERS
+                                                               FROM CHANGING JOBS                       PUNISHED
+
+that “employers are not able to cancel a worker’s residency without reason.”91 However, to date none
+of these mechanisms appears to have been put in place.92 Until this happens, many employers will
+continue to find ways to deny migrant workers their right to change jobs.
+
+In reality, many legal loopholes continue to allow abusive practices to flourish and make the job transfer
+process more difficult. The confusing government messages and requirements bewilder migrant workers
+and embolden abusive employers. Consequently, the practice of having to secure employers’ permission
+before attempting to move jobs continues to thrive. Be it a release paper, a stamped resignation letter, or
+an NOC, the need for such documentation has effectively revived a key component of the abusive kafala
+system. This, coupled with the enduring ability of employers to cancel workers’ ID or file absconding
+cases, is having a chilling effect on workers, many of whom told Amnesty International that they are now
+too scared to even try to change jobs.93 As Sara said:
+
+
+      “[There are] a lot of reasons why I'm scared. I'm scared police would
+      catch me. I'm scared they would send me back to the Philippines. I
+      badly need to continuously support my family since I'm a single mom
+      of four and I am also supporting my parents. Honestly I don't know
+      what to do.” 94
+In its reply to Amnesty International’s request for information, the government said that workers
+who have been subject to retaliation measures “may resort to the competent authorities, namely
+the police or the Human Rights Department of the Ministry of Interior” but did not elaborate on
+the outcome of such complaints or the process.95 It stated that 609 complaints were submitted
+regarding passport confiscation between September 2020 and August 2021 and steps were taken to
+retrieve the passports. The government also said it had increased the fine for passport confiscation
+to QR25,000 (approximately US$6,800) and that MADLSA stops issuing labour approvals for
+abusive companies. However, the government did not provide any further details on the number of
+companies breaching the law or the exact measures taken to further penalize repeat offenders.96
+While MADLSA’s practice of blocking companies is a welcome step, the lack of transparency around
+the measures taken, the names of the companies involved or the identity of individual abusers
+makes it impossible to determine whether accountability is truly happening.
+
+
+91   GCO letter to Amnesty International, 4 October 2021.
+92   According to interviews conducted between April and October 2021 either remotely or in person with migrant workers, community
+     leaders, organizations supporting migrant workers on the ground and foreign embassies in Doha.
+93   Interviews conducted remotely and in Qatar between April and October 2021.
+94   Remote interview, 15 September 2021.
+95   GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+96   Ibid.
+
+
+
+
+24                                 REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                              Amnesty International
+The issue is further exacerbated in the domestic workers sector. As one migrant rights’ expert put it:
+
+
+      “The law is beautiful, but it has no teeth. I've not heard of any
+      employer being punished for being a repeat offender. Some
+      employers have been blacklisted – workers say ‘I am working for the
+      son because the father has been blocked’ – they are passing on the
+      sponsorship but the domestic workers are still in the same house.” 97
+
+
+
+
+Migrants gather at the Search and Follow Up Department in Doha on November 8, 2016. © STRINGER/AFP via Getty Images
+
+
+As with any crime or human rights violation, accountability for labour abuses remains one of the most
+critical deterrents of such abuse. It is key to ensuring full implementation of laws and regulations that
+would see abusers facing the consequences of their actions. This in turn would send a strong message
+to employers that labour rights’ abuses and related crimes will be tolerated no longer. The ongoing
+failure of the government to hold abusive employers to account seriously undermines the reform process
+and feeds into the culture of impunity that continues to prevail in Qatar.
+
+
+
+
+97   Remote interview with representative of an organization supporting migrant workers, 27 September 2021.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                        25
+Amnesty International
+3. WAGE THEFT
+
+     THE PROMISE
+     Under pillar 1 of the agreement with the ILO, Qatar committed to:
+
+     • enhance the Wage Protection System, which monitors monthly electronic payment of workers,
+       and expand its coverage to include small and medium enterprises, subcontractors and
+       eventually domestic workers;
+
+     • enforce sanctions for non-payment of wages;
+
+     • establish a wage guarantee fund;
+
+     • introduce a non-discriminatory minimum wage;
+
+     • strengthen the national complaints mechanisms through new monitoring systems;
+
+     • support workers submitting complaints, ensure a fair and speedy process, and stop
+       retaliatory action by employers; and
+
+     •    make migrant workers aware of their rights and obligations when in Qatar.98
+
+
+
+
+THE REALITY
+         “[The company is] cunning… in previous months they have been chopping
+         the salary with no reason. They can try to cheat you more if you are going
+         home because they don't owe you an explanation.”
+         (Jackson, Uganda)99
+
+
+Late and non-payment of wages and other contractual benefits remain some of the most common
+forms of labour abuse facing migrant workers in Qatar.100 Despite the measures introduced to monitor
+payments and help workers seek remedy, many migrant workers continue to fall victim to wage theft
+by their employer. The reason most workers migrate is to secure a stable income to provide for their
+families whilst also having to pay off loans they took out to cover the high and illegal recruitment fees.
+So, when they do not receive their wages, the impact is felt not just by the workers in Qatar, but also
+
+
+
+98 Technical cooperation programme agreed between the Government of Qatar and the ILO (2018–20), p. 31.
+99 Remote interview, 14 May 2021.
+100 According to interviews conducted between April and October 2021 either remotely or in person with, community leaders, migrant
+    workers, and organizations supporting them on the ground. See also: Business and Human Rights Resource Centre, Checked Out:
+    Migrant worker abuse in Qatar’s World Cup luxury hotels, pp. 21 – 22; BWI, Dribble or goal: Tracking the Score for Decent Worker Legacy in Qatar, July
+    2021, p. 20; and, Equidem, The Cost of Contagion: The human rights impacts of COVID-19 on migrant workers in the Gulf, November 2020, Pp. 78 –
+    86, https://www.equidem.org/assets/downloads/1837_Equidem_The_Cost_of_Congation_Report_ART_WEB.pdf
+
+
+
+
+26                                       REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                    Amnesty International
+their dependents back home.101 In the most serious cases, this abuse puts migrant workers at risk of
+forced labour.102
+
+To tackle the issue, the government promised to strengthen the Wage Protection System and in March
+2018 created the Committees for the Settlement of Labour Disputes (Labour Committees) and the
+Workers’ Support and Insurance Fund to expedite compensation of unpaid wages. MADSLA also
+introduced other measures, including stricter penalties for employers who fail to pay their workers
+on time. Despite these initiatives, however, wage theft remains rampant in Qatar, exacerbated by the
+restrictions imposed during the Covid-19 pandemic.103 In May 2021, MADLSA also launched a new
+platform to allow workers to submit their complaints online.104
+
+In a letter sent to MADLSA, Amnesty International requested disaggregated data related to the number
+of complaints submitted to the Labour Committees, the issues raised, the number of court decisions
+issued and the number of cases where workers received their dues in general and from the fund in
+particular.105 In its reply, MADLSA said the Labour Committees had issued 10,237 rulings since March
+2018 but did not provide any of the further requested information.106
+
+
+
+
+Migrant workers gather on "Bank Street," in downtown Doha. © Sam Tarling/Corbis via Getty Images)
+
+
+
+
+101 Amnesty International, Nepal: Turning people into profits: abusive recruitment, trafficking and forced labour of Nepali migrant workers, 6 June 2017,
+    https://www.amnesty.org/en/documents/asa31/6206/2017/en/
+102 ILO, Forced labour, modern slavery and human trafficking, https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm
+103 See ILO Progress Report 2020, p:4.
+104 Doha News, Qatar labour ministry’s workers’ complaints platform goes live, 25 May 2021, https://www.dohanews.co/qatar-labour-ministrys-
+    workers-complaints-platform-goes-live/
+105 Amnesty International letter sent to MADLSA on 21 September 2021.
+106 GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                          27
+Amnesty International
+ DESPITE THE MEASURES INTRODUCED TO MONITOR
+ PAYMENTS AND HELP WORKERS SEEK REMEDY,
+
+     MANY MIGRANT WORKERS CONTINUE TO FALL
+     VICTIM TO WAGE THEFT BY THEIR EMPLOYER
+
+The ILO office in Doha stated in its 2020 report that it lodged complaints with MADLSA on behalf of
+1,896 workers and assisted a further 7,420 workers. This amounts to over 9,000 workers who have faced
+“a wide range of workers’ issues”.107 Of these, unpaid wages remain one of the most common abuses. The
+2021 figures have not yet been published but reliable figures shared with Amnesty International suggest
+that the number of cases heard at the Committees for this year could be even higher.
+
+Complaints received by Amnesty International and other organizations such as Migrant-Rights.org, as well
+as interviews with workers reveal a variety of examples of wage theft.108 These include delayed salaries,
+unfair and arbitrary deductions, inadequate overtime pay and, for domestic workers and others who do
+manage to leave their employer, a denial of the end-of-service benefits they are legally entitled to.109
+
+
+WAGE PROTECTION SYSTEM: INADEQUATE TO DEAL WITH LEVEL
+OF ABUSE
+In 2020, the ILO reported that the Wage Protection System had been expanded to cover 96% of eligible
+workers and 94% of enterprises. The system was reportedly able to detect a broader range of wage-
+related violations, including payment below the minimum basic wage and the new threshold for food and
+accommodation allowances. At least 58 companies “deemed at high-risk” were blocked from accessing
+government services and this number considerably increased during the Covid-19 pandemic.110
+
+Additionally, the government introduced in 2020 new legislation imposing stricter fines on employers
+who withhold wages,111 but implementation remains unclear, despite Amnesty International requesting
+this information from the government.112
+
+In its reply to Amnesty International, MADLSA stated that the Wage Protection System unit had
+accelerated imposing bans on abusive companies, preventing them from using the Ministry’s services,
+and that more cases were referred to the police. However, it did not provide any information about the
+number of complaints received and action taken.113
+
+Domestic workers continue to be excluded from the Wage Protection System despite earlier promises to
+include them.114 This makes it extremely difficult for the government to monitor payment of their wages
+and take remedial action when needed.
+
+
+107 ILO Progress report 2020, p. 8.
+108 See for example, Migrant-Rights.org, Letters to MR, https://www.migrant-rights.org/series/letters-to-mr/
+109 Complaints received by Amnesty International over email and interviews conducted remotely and in Qatar between April and
+    October 2021.
+110 ILO Progress report 2020, p. 3-4.
+111 Article 145/bis of Law No 18 of 2020 increased the penalties for breaching article 66 of Labour Law related to the monthly payment
+    of wages from one month prison and/or fine between QR2,000 (around US$550) and QR6,000 (around US$1,650) to one year
+    prison and/or a fine between QR2,000 (around US$550) and QR100,000 (US$27,565).
+112 Amnesty International letter sent to MADLSA on 21 September 2021.
+113 GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+114 Technical cooperation programme agreed between the Government of Qatar and the ILO (2018–20), p.31.
+
+
+
+
+28                                 REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                              Amnesty International
+The harsh reality is that six years following its introduction, the Wage Protection System is still failing
+to secure regular payment for thousands of workers, who are then forced to take their cases to court.
+Organizations working on migrant workers’ issues note the ineffectiveness of the system to prevent wage
+theft or trigger meaningful action to stop it.115 For instance, Human Rights Watch documented the cases
+of hundreds of workers from two different companies who suffered months of unpaid salaries despite
+the authorities being aware of their case.116
+
+Despite clear recommendations from a 2019 review commissioned by MADLSA urging the government
+to strengthen the Wage Protection System to ensure “that various forms of non-compliance can be
+identified and addressed more quickly, reducing prolonged instances of non-payment”,117 more work is
+required for this system to reach its full potential.
+
+
+LABOUR COMMITTEES: INSUFFICIENT TO GUARANTEE ACCESS TO
+JUSTICE FOR ALL VICTIMS
+One of the most promising reform introduced by Qatar in the early stages of its reform process was the
+establishment of the Committees for the Settlement of Labour Disputes (Labour Committees) in March
+2018. The judge-led “fast track” mechanism aimed to improve access to justice by settling labour
+disputes within three weeks of a worker filing a complaint. If companies fail to pay workers who win their
+case, a fund was set up to pay them directly and recoup the money from the companies. 118 Domestic
+workers were also allowed to bring complaints before the Committees, giving them access to justice for
+the first time in Qatar.
+
+While these tribunals, especially compared to the initial labour courts, have to some extent improved the
+speed with which workers’ complaints are considered, they have failed to deliver fully on their promises.
+
+
+
+
+Workers wait at the Ministry of Justice to sign documents stating, falsely, that they have received their salaries. Qatar, March 2013.
+© Amnesty International
+
+
+
+
+115 Interviews conducted remotely and in Qatar, September – October 2021.
+116 Human Rights Watch, Qatar: Wage Abuse Action Shortchanges Workers, 22 December 2020, https://www.hrw.org/news/2020/12/22/qatar-
+    wage-abuse-action-shortchanges-workers
+117 ILO Progress report 2020, pp. 1-2.
+118 Amnesty International, Qatar: New fund could bring hope to exploited migrant workers, 31 October 2018, https://www.amnesty.org/en/latest/
+    news/2018/10/qatar-new-fund-could-bring-hope-to-exploited-migrant-workers/
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                              29
+Amnesty International
+Indeed, organizations supporting migrant workers, foreign embassies and community leaders in Qatar
+told Amnesty International that cases are still taking months to be reviewed by the Committees.119
+Collective cases where claims are nearly identical are still not accepted by the Committees, which slows
+the process considerably. The high volume of cases coupled with the lack of capacity of the three
+Committees continue to create serious delays in the process. Workers still wait for up to three months
+for their first hearing to be scheduled when according to the law this should happen within three to
+seven days from the case being referred to the Committees.
+
+Three years since their establishment, promises to increase the number of judges from three to five have
+not materialised. The closure of the Committees for many months during Covid-19 restrictions without
+any alternative measures being put in place further exacerbated the backlog of cases with many workers
+waiting for months before their first hearing. Even when workers manage to get through the process, many
+still struggle to have their positive decisions enforced against their companies, leaving them penniless.120
+
+Often, when companies cannot or do not pay the amounts ordered, workers have to lodge a case with the
+civil court, thereby initiating a long, challenging and often unsuccessful battle to secure their dues.121
+
+
+WORKERS’ SUPPORT AND INSURANCE FUND
+The Workers’ Support and Insurance Fund became operational in early 2020, but it remains unclear
+how and when workers qualify to receive money from it. According to the government, the fund
+distributed QR14 million (around US$3.845 million) to 5,500 workers in 2020.122 However, it is not
+clear how many workers have benefited from the fund since then.
+
+To date, the decision-making process remains opaque. The government did not respond to Amnesty
+International’s request for information about how many workers applied to this fund and how many to
+date did eventually receive their dues. Organizations supporting workers on the ground told Amnesty
+International that many workers who have won their cases at the Labour Committees do not routinely
+receive their dues from the fund as they should, despite lodging a claim at the civil court to make them
+eligible to be compensated by the fund.123 “The workers’ fund is ineffective and requires a court ruling
+to be used,” said a representative from Migrant-Rights.org.124
+
+During 2020, some workers from Nepal and the Philippines employed by Mercury MENA, an
+engineering company working on projects linked to the 2022 FIFA World Cup, finally received months
+of unpaid wages from the fund after Amnesty International documented and advocated on their
+cases. 125 In September 2020, Amnesty International submitted a list of a further 27 former Mercury
+MENA workers who are owed money by the company. Unfortunately, more than a year later, despite
+government assurances that these workers would be compensated via the fund, they are yet to receive
+their dues.126
+
+In short, three years since their establishment, the Labour Committees and the Workers’ Support and
+Insurance Fund are failing to deliver quick and effective justice for many workers, and for many the
+process of seeking justice and remedy remains tiring and, in some cases, fruitless.
+
+
+
+119 Interviews conducted remotely and in Qatar, September – October 2021.
+120 Ibid.
+121 Amnesty International, All work, No pay: the struggle of Qatar's migrant workers for justice, 19 September 2019, https://www.amnesty.org/en/
+    documents/mde22/0793/2019/en/
+122 ILO Progress report 2020, p. 4.
+123 Interviews conducted remotely and in Qatar, September – October 2021.
+124 Email exchange, 31 October 2021. On file with Amnesty International.
+125 Amnesty International, Unpaid and abandoned: the abuse of Mercury MENA workers, 26 September 2018, https://www.amnesty.org/en/latest/
+    research/2018/09/mercury-mena-abuses-qatar/
+126 Exchange between Amnesty International and MADLSA. On file with Amnesty International.
+
+
+
+
+30                                    REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                 Amnesty International
+                                                                                                                                      ?
+                                                                                                                                ?
+  THE WORKERS’ SUPPORT AND INSURANCE FUND
+  BECAME OPERATIONAL IN EARLY 2020,
+BUT IT REMAINS UNCLEAR HOW AND WHEN WORKERS QUALIFY TO RECEIVE MONEY FROM IT.
+
+
+
+MINIMUM WAGE: NEEDS TO BE SUFFICIENT TO SUPPORT ALL WORKERS
+On 20 March 2021, the non-
+discriminatory mandatory minimum
+wage came into force.127 According to
+Law No. 17 of 2020, the monthly basic
+rate is QR1,000 (around US$275) plus
+allowances of QR300 (around US$83)
+for food and QR500 (around US$138) for
+accommodation if these are not provided
+by the employer. In its reply to Amnesty
+International, MADLSA said that there
+had been 2,626 recorded violations of
+the minimum wage law and that these
+companies were banned from operating
+in Qatar.128 The introduction of the new
+minimum wage is a step in the right
+direction, but it must be fully implemented
+to ensure that all workers are receiving it
+and is effectively monitored.
+
+In addition, the minimum wage needs to be
+urgently and then periodically reviewed and
+revised to ensure that it does in practice
+improve the lives of migrant workers in
+Qatar. According to the law, the Minimum
+Wage Commission should review the rate
+at least annually.129 However, to date no
+review has taken place.
+                                                                    Government infographic on the new minimum wage.
+
+
+
+
+127 ILO, Qatar's new minimum wage enters into force, 19 March 2021, https://www.ilo.org/beirut/projects/qatar-office/WCMS_775981/
+    lang--en/index.htmm and: Amnesty International, New laws to protect migrant workers are a step in the right direction, 30 August 2020, https://
+    www.amnesty.org/en/latest/news/2020/08/qatar-annoucement-kafala-reforms/
+128 GCO letter to Amnesty International, 4 October 2021. On file with Amnesty International.
+129 Law No 17 of 2020 on national minimum wage, https://www.ilo.org/beirut/projects/qatar-office/WCMS_754880/lang--en/index.
+    htm
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                  31
+Amnesty International
+4. WORKERS’ RIGHT TO ORGANIZE
+
+     THE PROMISE
+     Under pillar 5 of agreement with the ILO, Qatar committed to:
+
+     • Establish representative joint committees.
+
+     • Improve the functioning and regulation of workers’ committees.
+
+
+
+
+THE REALITY
+According According to Article 116 of the Labour Law, Workers’ Committees can be formed in business
+establishments that employ at least 100 Qatari nationals. Workers’ Committees from the same industry
+may form General Committees, which in turn can become the General Union.130 However, this right is
+reserved for Qatari nationals and does not extend to migrant workers.
+
+Commenting on the issue of nationality and freedom of association, the Committee on Freedom of
+Association, an ILO tripartite body examining alleged infringements of the principles of freedom of
+association said that:
+
+        “Legislation should be made flexible so as to permit the organizations to elect their
+        leaders freely and without hindrance, and to permit foreign workers access to trade
+        union posts, at least after a reasonable period of residence in the host country… The
+        Committee reiterated that freedom of association should be guaranteed without
+        discrimination of any kind based on nationality.”131
+
+Despite this, when Qatar ratified the International Covenant on Civil and Political Rights (ICCPR) and the
+International Covenant on Economic, Social and Cultural Rights (ICESCR) in 2018, it entered important
+reservations banning migrant workers from joining and forming trade unions which were criticized by
+the UN monitoring Committees at the time.132 It committed instead to allowing joint committees that
+include representatives of both the company and its workforce as part of its agreement with the ILO.
+
+The first joint committees were established in 2019 and up until August 2020, 107 workers’
+representatives were elected representing almost 17,000 employees in 20 companies.133 The 2021
+figures have not been published at the time of writing.
+
+
+
+
+130 See Article 116 of Law No 14 of 2014.
+131 See ILO, Compilation of decisions of the Committee on Freedom of Association, six edition (2018), para 623-624, https://www.ilo.org/wcmsp5/groups/public/---
+    ed_norm/---normes/documents/publication/wcms_632659.pdf
+132 Amnesty International, Qatar finally joins two key human rights treaties – but what does it really mean for migrant workers?, 13 June 2018, https://
+    www.amnesty.org/en/latest/news/2018/06/qatar-finally-joins-two-key-human-rights-treaties-but-what-does-it-really-meanfor-
+    migrant-workers/
+133 Ibid, p. 9.
+
+
+
+
+32                                        REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                     Amnesty International
+While these joint committees provide workers representation, they remain beset with serious flaws
+including, crucially, the inability of workers to set them up without prior approval from employers. Joint
+committees that are formed and led by employers lack mechanisms for collective bargaining and
+cannot provide workers with the crucial protections offered by independent trade unions.
+
+According to a representative of a workers’ rights organization:
+
+       “Joint committees where workers are not forming and controlling their own
+       organizations are not free from employers’ interference, which goes against
+       the basic principle of workers’ voice. Workers need to be able to set up an
+       organization that they control freely to enable them to collectively negotiate their
+       terms and conditions without any risk of reprisal.”134
+
+Consequently, such committees do not equate to genuine freedom of association as explicitly stated in
+Article 2 of the ILO core convention No. 87 on Freedom of Association and Protection of the Right to
+Organise, which Qatar has not ratified but which has a fundamental status within the ILO as part of a
+core set of labour principles:
+
+       “Workers and employers, without distinction whatsoever, shall have the right to
+       establish and, subject only to the rules of the organisation concerned, to join
+       organisations of their own choosing without previous authorisation.” 135
+
+Another representative of the workers' rights organization highlighted some of the shortcomings of
+Qatar’s joint committee model:
+
+       “Qatar’s joint committees act more like mechanisms to gather and deliver
+       workers’ complaints to employers. Workers’ representatives are communicators,
+       they do not have the space, time or protection to analyse complaints, and
+       formulate workers’ collective demands. They also do not have the right to
+       negotiate on issues such as employment contracts and wages. Crucially, without
+       legal protection for worker representatives, they could be at risk of retaliation for
+       advocating for workers’ rights. We have seen this model failing to support workers
+       in bettering their rights in the UAE and we do not want this mistake to be made
+       again in Qatar.”136
+
+Responding to reports that these joint committees will be made mandatory for all companies operating
+in Qatar, the representative raised concern about the risk this would pose for the future of freedom of
+association in Qatar and the region:
+
+“There is a real danger that by making these flawed joint committees mandatory, they will become
+a mere compliance tick-box exercise for companies, deflated of any value and potentially depriving
+workers from their fundamental right to form and join trade unions.”137
+
+
+
+134 Representative of a workers’ rights organization interviewed remotely, 3 November 2021.
+135 C087 - Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), https://www.ilo.org/dyn/normlex/
+    en/f?p=NORMLEXPUB:12100:0::NO::p12100_instrument_id:312232
+136 Representative of a workers’ rights organization interviewed remotely, 3 November 2021.
+137 Ibid.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                   33
+Amnesty International
+The current protection gap is exacerbated in Qatar where migrant workers – who form more than 90%
+of the workforce – are governed by a system that favours employers at the expense of workers’ rights.
+In a region where foreign nationals’ make up a large part of the population and may be perceived as an
+existential threat and where businesses try hard to keep their privileges intact, the establishment of joint
+committees can signal limited progress. However, these are not sufficient to allow workers to collectively
+re-balance the relationship with their employers to improve their working conditions and combat labour
+abuses.
+
+Workers in general but especially migrant workers in the specific context of Qatar need to be supported
+and empowered to be able to stand up to abusive employers confident in the knowledge that they
+will not face retaliation for doing so. As the body charged with monitoring Qatar’s compliance with the
+ICESR makes clear:
+
+       “[T]rade union rights, freedom of association and the right to strike are crucial
+       means of introducing, maintaining and defending just and favourable conditions
+       of work.” – UN Committee on Economic, Social and Cultural Rights 138
+
+This is all the more important for workers in a vulnerable situation. When examining the exercise and
+enjoyment of the rights to freedom of peaceful assembly and of association in the workplace, the UN
+Special Rapporteur on the rights to freedom of assembly and association noted:
+
+       “Low-wage migrant workers face severe economic exploitation, social exclusion
+       and political disenfranchisement. They are often denied their freedoms of
+       peaceful assembly and association because of their irregular status or by
+       structural barriers in legal channels that systematically disempower workers…
+       in the destination countries, they are often paid low wages or not paid at all.
+       They are subject to unsafe and unhealthy working and living conditions and
+       gender-based violence… Migrants have become a massive, disposable, low-
+       wage workforce excluded from remedies or realistic opportunities to bargain
+       collectively for improved wages and working conditions.” 139
+
+
+
+
+138 See General Comment No. 23 (2016) on the right to just and favourable conditions of work (Article 7 of the International Covenant
+    on Economic, Social and Cultural Rights), para. 2, 27 April 2016, https://undocs.org/E/C.12/GC/23
+139 See Report of the Special Rapporteur on the rights to freedom of assembly and association, para. 28, 14 September 2014, https://
+    undocs.org/A/71/385
+
+
+
+
+34                                 REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                              Amnesty International
+5. MIGRANT WORKERS’ DEATHS
+
+     THE PROMISE
+     Under pillar 2 of the agreement with the ILO, Qatar committed to:
+
+     • An Occupational Safety and Health (OSH) policy is implemented with a clear strategy, including
+       with respect to heat related risks and is supported with an awareness raising campaign.
+
+     •     A system for registering work injuries and occupational diseases is operational.
+
+
+
+
+THE REALITY
+Over the last decade, thousands of migrant workers have died suddenly and unexpectedly in Qatar,
+despite passing their mandatory medical tests before travelling to the country.140 Yet despite clear
+evidence that heat stress has posed huge health risks to workers,141 it remains extremely difficult to
+know exactly how many people have died as a result of their working conditions. This is because Qatari
+authorities, contrary to international obligations, have failed to investigate these deaths in a way that
+would make it possible to determine the true underlying causes of death. Instead, death certificates
+usually report the deaths as due to “natural causes” or “cardiac arrest” – descriptions that are almost
+meaningless in certifying deaths – and thus no connection to their working conditions is made. As a
+result, bereaved families are denied the opportunity to know what happened to their loved ones. In a
+context where many rely on remittances, it also prevents these families from receiving compensation
+from employers or Qatari authorities.
+
+In the course of its research, Amnesty International interviewed the families of six migrant workers – four
+construction workers, one security guard and one truck driver – whose deaths in Qatar were unexplained.
+Their cases highlight the personal stories of the workers and the suffering of their families back home in
+Bangladesh or Nepal. They also symbolize the tragedies of so many others who went to Qatar to provide a
+better future for their families but came back in a coffin, and whose deaths remain unexplained.
+
+Four of the men were aged 34 when they died. Mohammad Kaochar Khan, a plasterer on a
+construction site, was found by his co-workers dead in his bed on 15 November 2017. He was married
+with a seven-year-old son. Yam Bahadur Rana was a security guard at the airport, a job that involved
+long hours sitting in the sun. He died suddenly at work on 22 February 2020. He was married with
+two children. Mohammed Suman Miah (Suman), a construction worker, collapsed and died on 29 April
+2020 at the end of a long shift in temperatures that had reached 38°C. He too was married with two
+children. Tul Bahadur Gharti died in his sleep on the night of 28 May 2020 after working outdoors for
+around 10 hours in temperatures of up to 39°C.
+
+
+
+140 Amnesty International, In the Prime of their lives: Qatar’s failure to investigate, remedy and prevent migrant workers’ deaths (Index: MDE
+    22/4614/2021), 26 August 2021, https://www.amnesty.org/en/documents/mde22/4614/2021/en/
+141 The Guardian, Revealed: hundreds of migrant workers dying of heat stress in Qatar each year, 2 October 2019, https://www.theguardian.com/
+    global-development/2019/oct/02/revealed-hundreds-of-migrant-workers-dying-of-heat-stress-in-qatar-each-year
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                                   35
+Amnesty International
+Relatives and villagers gather around the coffin of Balkisun Mandal Khatwe at Belhi village, Saptari district of Nepal. Balkisun, who had
+been working with his employer in Qatar for less than a month, died in his sleep. © Narendra Shrestha/EPA/Shutterstock
+
+
+Sujan Miah was just 32 years old when workmates found him unresponsive in bed on the morning
+of 24 September 2020. He was a pipe fitter on a project in the desert and had been working in
+temperatures that exceeded 40°C in the four days before he died. Manjur Kha Pathan was 40 and
+had been working 12 to 13 hours a day as a truck driver. The air conditioning in his cabin was faulty.
+He collapsed in his accommodation on 9 February 2021 and died before the ambulance arrived. He
+was married with four children.
+
+The emotional and economic impact on the families has been devastating. “Now everything is
+shattered,” said Bhumisara, the wife of Yam Bahadur Rana. “Life itself has become like a broken
+mirror.” She told Amnesty International that since she was widowed, she and her two children have had
+to survive on 2,000 Nepali rupees (approximately US$16) a month provided by the Nepali government.
+Bipana, the wife of Tul Bahadur Gharti, said, “I have cried many times in emotion. Being alone is very
+difficult… My husband was set on fire. I feel like I’m burning in oil.”142
+
+
+FAILURE TO PREVENT DEATHS
+The available evidence shows that Qatar’s extreme climate could play a role in a significant number
+of these deaths, particularly in light of the absence of adequate mitigating measures.143 In an effort to
+address this issue, the Qatari authorities introduced in May 2021 new legislation on heat protection,
+with a range of measures. These include an extension of the summer working hours restriction by
+four weeks, granting workers the right to “self-pace” by taking breaks when needed, and a maximum
+temperature in the workplace above which all work is prohibited – a wet-bulb globe temperature (which
+takes into consideration the ambient temperature, humidity, solar radiation and wind speed) of 32.1°C.
+
+
+
+142 Interview conducted with the family of Tul Bahadur Gharti 23 March 2021 in Nepal, for more information about his case see
+    Amnesty International, In the Prime of their lives: Qatar’s failure to investigate, remedy and prevent migrant workers’ deaths, p:41.
+143 The Guardian, Revealed: hundreds of migrant workers dying of heat stress in Qatar each year, 2 October 2019.
+
+
+
+
+36                                    REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                 Amnesty International
+ KNOWING EXACTLY HOW MANY PEOPLE HAVE DIED FROM WORK-RELATED
+ CAUSES AND WHO THEY WERE IS DIFFICULT TO DETERMINE BECAUSE OF
+
+  QATAR’S PERSISTENT FAILURE TO UPHOLD
+  ITS DUTY TO PROTECT THE RIGHT TO LIFE
+ BY ADEQUATELY INVESTIGATING AND CERTIFYING THOUSANDS OF DEATHS OF MIGRANT WORKERS
+
+
+However, leading experts in environmental health and heat stress have told Amnesty International that
+much more needs to be done. As one such expert noted, the legislation is “an improvement that falls
+far short of what is necessary for the protection of labourers who are subject to heat stress exposures
+of all types.”144 In addition to enhanced enforcement, they stressed the difficulty faced by workers to
+“self-pace” given the extremely unequal relationships between employer and worker in Qatar.145 They
+recommended that break times should be determined through the use of recognized activity modification
+guidelines that outline rest times based on the climatic conditions and the nature of the work performed.
+
+
+FAILURE TO INVESTIGATE AND CERTIFY DEATHS
+Knowing exactly how many people have died from work-related causes and who they were is difficult
+to determine because of Qatar’s persistent failure to uphold its duty to protect the right to life by
+adequately investigating and certifying thousands of deaths of migrant workers.
+
+Data on the deaths of migrant workers in Qatar have, until recently, been scarce, though Qatar’s
+Planning and Statistics Authority (PSA) has published figures showing that a total of 15,021 non-Qataris
+­– of all ages, occupations and causes – have died in Qatar in the past 10 years. However, the manner
+ in which they have been collected and presented allows only very broad and tentative conclusions
+ to be drawn. In particular, the lack of meaningful investigations into the deaths makes the data on
+ the cause of death unreliable. In addition, the fact that the cause of a significant number of deaths is
+ categorized as “cardiovascular disease” in official statistics – especially since 2016 – may be obscuring
+ a high number of deaths that remain, in reality, unexplained. For example, the proportion of deaths of
+ working age non-Qatari men categorized as due to “cardiovascular disease” or “unknown causes” is
+ significantly higher than for Qatari men of the same age, and should be investigated further.146
+
+Similar problems are even evident in relation to World Cup projects overseen by the Supreme
+Committee for Delivery and Legacy (Supreme Committee), which are subject to higher safety standards
+and more rigorous processes. Of the 33 fatalities recorded in the Supreme Committee for Delivery and
+Legacy’s five Annual Workers’ Welfare Progress Reports to date, 18 cases included no reference to an
+underlying cause of death, instead using phrases such as “natural causes”, “cardiac arrest” or “acute
+respiratory failure”. Ten of these cases involved men in their twenties or thirties. Likewise, the death
+certificates of 15 out of the 18 cases reviewed by Amnesty International provided no information about
+the underlying causes of death, attributing the cause to “acute cardio respiratory failure due to natural
+causes”, “acute heart failure natural causes”, “heart failure unspecified” and “acute respiratory failure
+due to natural causes”.147
+
+
+
+
+144 Professor David Wegman, Emeritus Professor of Work Environment at UMass Lowell and Adjunct Professor at Harvard School of Public
+    Health who is also an expert on health and safety in the construction industry, memo to Amnesty International on 2 June 2021.
+145 For more information, please see Amnesty International In the Prime of their lives, p. 28.
+146 Amnesty International, In the Prime of their lives: Qatar’s failure to investigate, remedy and prevent migrant workers’ deaths, p:45.
+147 Amnesty International, In the Prime of their lives: Qatar’s failure to investigate, remedy and prevent migrant workers’ deaths, p:38.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                         37
+Amnesty International
+Dr David Bailey, a leading pathologist and member of the World Health Organization (WHO) Working
+Group on death certification, told Amnesty International:
+
+       “These are phrases that should not be included on a death certificate without a
+       further qualification explaining the underlying cause. Essentially, everyone dies
+       of respiratory or cardiac failure in the end and the phrases are meaningless
+       without an explanation of a reason why. ‘Natural causes’ is not a sufficient
+       explanation.”148
+
+
+
+
+Death certificate of Mohammed Suman Miah, a Bangladeshi migrant worker who died suddenly aged 34 after working outside all day in
+temperatures that reached 38°C. On file with Amnesty International. © Private.
+
+
+
+
+148 Email from Dr David Bailey, 6 April 2021. On file with Amnesty International.
+
+
+
+
+38                                  REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                               Amnesty International
+The family of Mohammad Suman Miah, a Bangladeshi migrant worker who died suddenly aged 34 after working outside all day in
+temperatures that reached 38°C © Private
+
+
+Only transparent and fully disaggregated data based on proper investigation and classification of the
+death of non-Qataris will allow Qatar to devise appropriate and adequate public policies to prevent such
+foreseeable deaths and protect the lives of migrant workers. Until this happens, Qatar will continue to fail
+to adequately protect the right to life of thousands of workers at risk of unnecessary premature death. By
+failing to investigate and certify these deaths, it is also breaching its obligation to provide victims of human
+rights violations and their families with an effective remedy.
+
+
+FAILURE TO PROVIDE REMEDY
+While Qatar’s Labour Law does provide deceased workers’ families with the right to compensation in the
+event of their family member dying “by reason of work”, its “list of occupational diseases” does not include
+deaths resulting from heat stress. Most importantly, the lack of meaningful investigations into the causes
+of many deaths of workers means that any potential link to working conditions – especially in cases where
+exposure to heat stress may be a factor – is not made. Indeed, none of the family members of the migrant
+workers interviewed in the course of this research received any compensation from Qatar. As a result, they
+faced the double blow of losing their loved one and facing severe financial insecurity.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                               39
+Amnesty International
+     HOSPITALITY AT THE FIFA WORLD CUP QATAR 2022
+     From the moment Qatar bid for the right to host the 2022 World Cup, it was clear that the
+     tournament’s success in this small country would depend on building vast amounts of
+     infrastructure – not only seven new stadiums but also hotels, highways and a metro system –
+     resulting in much attention focused on the workers delivering that construction.149 But such
+     a huge sporting event also necessitates an increase in business for related sectors, such as
+     hospitality and transport, which serve those who attend. Pre-pandemic, Qatar welcomed just over
+     2 million visitors in the whole of 2019.150 During the one month of the World Cup in 2022, Qatar
+     expects to attract 1.2 million visitors. 151
+
+     This means urgent attention must not only be given to construction workers but also to the
+     human rights and labour standards of the thousands of hotel staff, waiters and waitresses,
+     taxi drivers, cleaners and security guards, among others – in official FIFA World Cup sites and
+     far beyond – who will be crucial to delivering the Qatar 2022 experience for football players,
+     officials and fans alike.
+
+     In 2019, in a welcome step, the Supreme Committee for Delivery and Legacy announced that
+     it would extend the scope and application of its Workers’ Welfare Standards to include workers
+     “engaged in the provision of services for all sites during the FIFA World Cup 2022™ tournament
+     period”.152 Such an expansion points to a recognition of how essential Qatar’s service sector will be
+     for the tournament, and the responsibility that World Cup organizers have towards the welfare of
+     those working in it. Since their inception, the Workers’ Welfare Standards have improved the working
+     and living conditions of people contributing to the delivery of World Cup stadiums. However, they are
+     still not fully enforced or universally respected and, in some instances, have failed to protect workers
+     from abuse and exploitation, or provide them adequate and timely remedy.153
+
+     In 2021, in response to concerns about human rights in the context of the World Cup from national
+     football associations, FIFA listed several further actions it is currently delivering to embed human
+     rights across the delivery of the tournament. These include expanding ‘labour rights monitoring
+     systems’ to service workers, integrating human rights in tendering processes for and contracts
+     with World Cup service providers, and engaging with Qatari authorities on the implementation
+     of the labour reforms process.154 To date however, further details of these initiatives and their
+     implementation had not been made publicly available, making it difficult to assess their progress.
+
+
+
+
+149 FIFA, 2022 FIFA World Cup Bid Evaluation Report: Qatar, 2010, https://digitalhub.fifa.com/m/3041e390c9c0afea/original/
+    fd4w8qgexnrxmquwsb7h-pdf.pdf
+150 Qatar Tourism, Annual Tourism Performance Report – 2019, https://www.qatartourism.com/en/news-and-media/sector-statistics/tourism-
+    reports
+151 Gulf Times, Qatar hopes to attract 1.2mn World Cup visitors, https://www.gulf-times.com/story/702904/Qatar-hopes-to-attract-1-2-million-
+    World-Cup-visitors
+152 FIFA World Cup Qatar 2022 Sustainability Strategy, October 2019, p. 29, https://resources.fifa.com/image/upload/fifa-world-cup-
+    qatar2022tm-sustainability-strategy.pdf?cloudid=p2axokh26lzaafloutgs
+153 A 2020 audit conducted at the request of the Supreme Committee for Delivery and Legacy also showed ongoing compliance issues
+    among contractors on existing World Cup sites. For example, the audit raised concerns about the working conditions of workers
+    employed by security contractors, particularly in relation to working hours and rest days, and advised that “as the demand for security
+    and hospitality services increases, leading up to the Tournament, these non-compliances must be closely monitored and remediated.”
+    Impactt, Annual External Compliance Report of the Supreme Committee for Delivery & Legacy’s Workers’ Welfare Standards Building a legacy: laying the foundation,
+    p.7, https://impacttlimited.com/wp-content/uploads/2020/07/IMPA09-2020-Qatar-Annual-Report-v12-Digital.pdf
+154 Meetings between Amnesty International and FIFA, and between FIFA and national football associations (April and May 2021
+    respectively), https://www.fifa.com/tournaments/mens/worldcup/qatar2022/news/fifa-and-qatar-invite-mas-to-discuss-human-
+    rights-with-international-experts-ahe; letter from FIFA to Norwegian, Danish and Swedish FAs, 7 May 2021: https://www.fotball.no/
+    contentassets/053c5876e0934405beb8a04036d6e5df/fifa-svar-til-norge-sverige-og-danmark.pdf
+
+
+
+
+40                                         REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                                      Amnesty International
+    If fans, players, and officials are to travel to Qatar confident in the knowledge that the migrant
+    workers they meet have been paid properly, treated fairly, are not controlled by exploitative
+    employers and are not victims of abusive labour practices, there is no room for complacency
+    by FIFA.
+
+    In this regard, it is imperative that FIFA takes swift action to strengthen its own human rights due
+    diligence processes so that it can effectively identify, prevent and mitigate human rights abuses
+    directly linked to the delivery of the World Cup – for example, in FIFA accredited hotels, training
+    grounds and other venues – in a timely manner. This includes carrying out its own independent
+    and regular monitoring of World Cup projects and venues. Where necessary, it must also be able
+    to effectively redress such abuses.
+
+    Further, while FIFA might not be directly linked to human rights harm occurring in service
+    sectors operating outside of FIFA accredited World Cup sites, it nonetheless has a responsibility
+    to mitigate human rights risks that arise from the increase in business in these related sectors
+    created by the tournament.155 At a minimum, this means FIFA should use the full extent of its
+    influence to urge Qatar to urgently implement and enforce the government’s own reforms to
+    ensure that the labour rights of all migrant workers are protected.
+
+
+
+
+A view of workers at Al Janoub Stadium facade putting a Banner on December 16, 2019 in Al-Wakrah, Qatar. © Marcio Machado/Eurasia
+Sport Images/Getty Images
+
+
+
+
+155 UN Guiding Principles on Business and Human Rights, Principle 13.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                                  41
+Amnesty International
+6. WHAT SHOULD QATAR DO NOW?
+
+Over a year has passed since Qatar introduced significant legal reforms offering a glimpse of
+hope for migrant workers, especially those trapped in abusive working conditions. However,
+the authorities’ failure to implement these reforms effectively, particularly by monitoring and
+enforcing compliance, coupled with loopholes in the system means that little has changed
+in reality for many migrant workers. Abusive employers continue to adopt a “business-as-
+usual” mentality to undermine the reform process, reviving key components of the kafala
+system at the expense of workers’ rights. Despite the legal changes, old practices are
+returning, leaving many migrant workers at the mercy of abusive employers and trapped in
+jobs they no longer wish to stay in.
+Despite warnings from Amnesty International and other organizations about the need to take serious
+action against abusive employers, the government continues to fail to hold perpetrators to account. On
+the contrary, abusive employers feel empowered by the government’s lack of action.
+
+With just a year to go before the 2022 World Cup, the government must take drastic action to protect
+workers’ rights. Issuing laws without proper implementation and enforcement mechanisms will not
+enable the World Cup to drive positive change for Qatar’s migrant workers. Qatar’s treatment of migrant
+workers has been under the spotlight since 2010, yet seven years were effectively lost before the
+government acknowledged the issues and committed in 2017 to reform the labour system. Today,
+the urgency required to properly protect migrant workers’ rights appears still to be missing, with an
+apparent sense of complacency giving rise to scepticism about whether the country is genuinely
+committed to protecting workers’ rights and putting their welfare at the centre of this World Cup.
+
+If the country wants to prove its critics wrong, it must adopt a strategy to fully and effectively implement
+laws and regulations and penalize those who break them. Employers need to realise that they will face
+consequences for their actions. Only by doing this will the government send a strong message that the
+reforms are real and that abuse of labour rights and related crimes will no longer be tolerated.
+
+
+
+
+DESPITE WARNINGS FROM AMNESTY INTERNATIONAL AND OTHER ORGANIZATIONS
+ABOUT THE NEED TO TAKE SERIOUS ACTION AGAINST ABUSIVE EMPLOYERS,
+
+     THE GOVERNMENT CONTINUES TO FAIL TO
+     HOLD PERPETRATORS TO ACCOUNT
+ON THE CONTRARY, ABUSIVE EMPLOYERS FEEL
+EMPOWERED BY THE GOVERNMENT’S LACK OF ACTION
+
+
+
+
+42                          REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                       Amnesty International
+TO THIS END, AMNESTY INTERNATIONAL IS CALLING ON QATAR, WITH
+THE SUPPORT OF THE ILO, TO DO THE FOLLOWING:
+
+PROVIDE PROPER LEGAL PROTECTION
+• Fully and effectively implement and enforce all the legal reforms introduced to date especially the NOC
+  removal.
+
+    • Ensure that migrant workers are allowed to change jobs freely without the need to provide any
+      form of approval from their current employer.
+
+    •   Issue a clear and robust directive instructing both employers and migrant workers that no NOC
+        or other form of approval is required for a worker to change jobs, and that these should not be
+        requested at any point.
+
+    • Accept all workers’ applications to change jobs unless they do not meet the appropriate legal
+      requirements; ensure that in practice a lack of current employers’ approval does not hinder
+      or slow down workers’ ability to change jobs and refrain from permitting employers’ efforts to
+      arbitrarily block such transfers.
+
+    • Penalize and blacklist all employers requesting unlawful fees to release workers.
+
+    • Implement MADLSA’s memo with immediate effect to ensure that:
+
+             employers are not notified about a workers’ application to change jobs until a decision has
+             been made, and;
+
+             once a worker has submitted a request to change jobs employers can no longer cancel their
+             worker’s ID or file absconding cases against them.
+
+• Decriminalize the charge of ‘absconding’ and in the meantime penalize employers who file such
+  cases as a retaliatory measure, for example when they are informed about workers’ intentions
+  to change jobs.
+
+    • Liaise with the Ministry of Interior to ensure that absconding charges filed in response to workers’
+      request to change jobs, and retaliatory theft charges filed, are immediately dropped.
+
+• Ban employers’ ability to arbitrarily cancel migrant workers’ resident permits; ensure proper vetting of all
+  such requests from employers.
+
+• Further reduce migrant workers' dependency on their employers by allowing migrant workers to renew
+  their own residence permits.
+
+• Monitor the excessive use of non-compete clauses and penalize employers utilising this practice
+  unlawfully.
+
+• Continue enforcing the ban on passport confiscation and punish employers who engage in such
+  practice.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR               43
+Amnesty International
+PROTECT WAGES
+• Ensure payment of decent wages and tackle worker debt. This should be done by:
+
+     • effectively implementing the Wage Protection System and extending it to include domestic
+       workers;
+
+     • strengthening measures to protect workers from abusive recruitment practices; and
+
+     • urgently reviewing and raising the amount of the current minimum wage for migrant workers to
+       ensure it is adequate to meet the cost of living followed by regular periodic review.
+
+• Improve migrant workers’ access to justice and speed up the process by increasing the number
+  of Labour Committees and accepting collective claims; ensure decisions are enforced so that
+  workers receive adequate and timely remedy.
+
+• Adequately resource and systematically implement the Workers’ Support and Insurance Fund, taking into
+  account the impact of Covid-19, and make it accessible to all workers whose employers have
+  failed to pay them.
+
+
+END IMPUNITY
+• Strengthen enforcement of labour laws and reforms, including by ensuring regular and rigorous labour
+  inspections across all sectors including for domestic workers.
+
+• Thoroughly investigate abusive employers and hold them to account, including by:
+
+     • following up properly on reports of abuse and exploitation to ensure they are quickly and
+       thoroughly investigated and prosecuted as appropriate; and
+
+     • penalizing and maintaining a public blacklist of employers and sponsors for failing to respect
+       Qatari laws and regulations in ways that deter potential abusers.
+
+
+PROTECT DOMESTIC WORKERS
+• Strengthen protection of domestic workers, including by:
+
+     • including domestic workers in the Labour Law and the Wage Protection System, and meanwhile
+       fully and effectively implementing and enforcing the Domestic Workers Law;
+
+     • strengthening inspection and enforcement mechanisms;
+
+     • protecting victims by fully operationalizing the refuge shelter and increasing capacity, including
+       by opening additional facilities;
+
+     • holding abusive employers to account, including through criminal prosecution as required; and
+
+     • keeping a record of convicted employers to prevent them and members of their households from
+       recruiting new domestic workers.
+
+
+
+
+44                           REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                        Amnesty International
+HEALTH AND SAFETY
+• Strengthen the 2021 Ministerial Decision on heat stress to ensure that employers are required to provide
+  outdoor workers with breaks of an appropriate duration, in cooled, shaded areas, when there
+  is an occupational risk of heat stress; mandatory break times should take into account the
+  environmental heat stress risks along with the exertional nature of the work being performed.
+
+• Establish a specialist team of inspectors and medical examiners, with expertise in the
+  investigation and certification of deaths, to ensure that all deaths of nationals and non-nationals in Qatar
+  are investigated and certified in accordance with international best practice.
+
+• Provide compensation to the families of any worker who has died after being exposed to high temperatures at
+  work, unless an independent cause of death is identified. Add “diseases caused by exposure to
+  extreme temperature” to Qatar’s list of occupational diseases; and
+
+• Commission an independent, thorough and transparent investigation into the causes of past migrant
+  workers’ deaths and establish a mechanism to provide adequate compensation to families of all
+  deceased migrant workers whose working conditions may have contributed to their death.
+
+
+ALLOW MIGRANT WORKERS’ TRADE UNIONS
+• Respect the right of migrant workers to form and join trade unions which can collectively bargain on
+  behalf of their members and withdraw the related reservations to international treaties.
+
+
+
+
+AMNESTY INTERNATIONAL IS CALLING ON FIFA TO:
+•    Conduct human rights due diligence and publicly disclose its due diligence policies and practices in
+    accordance with international standards. This should include carrying out its own independent
+    and regular investigations into the working conditions of migrant workers on all World Cup-related
+    sites, as well as before entering into any new contracts with service providers such as hotels or
+    catering and making public the findings and any resulting actions taken.
+
+• Take action, in cooperation with the Qatari authorities, international agencies and civil society, to
+  remediate the harms suffered by workers on all World Cup-related sites and projects, and publicly disclose the
+  actions taken.
+
+• Continue to use its influence, publicly and privately, to urge Qatar to fully implement and enforce its labour
+  reforms, including through enactment of the recommendations in this report.
+
+• Urgently report on measures taken throughout 2021 to operationalize commitments towards World Cup
+  service workers and other workers associated with the World Cup. The information provided
+  should be sufficiently detailed to allow for a complete understanding of concrete measures taken
+  or planned to ensure protection of the labour rights of these migrant workers.
+
+• Increase the frequency of this reporting (currently annual) from now until the final post-tournament
+  report.
+
+
+
+
+REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR                     45
+Amnesty International
+AMNESTY INTERNATIONAL IS ALSO CALLING ON ALL CORPORATE ACTORS
+INVOLVED IN THE FIFA WORLD CUP QATAR 2022 TO:
+• Publicly commit to respecting human rights and put in place adequate systems to enable them to
+  identify, prevent, mitigate and – where necessary – redress human rights abuses connected to their
+  operations.
+
+• Review operational practices and policies to ensure the company does not commit, or materially assist
+  in the commission of, acts that lead to human rights abuses.
+
+• Comply fully with Qatari and international labour standards, including with regard to respecting the terms
+  and conditions guaranteed to workers in their contracts, maximum working hours, the payment of
+  workers on time, overtime pay, provision of decent accommodation, protection of workers' health
+  and safety and forced labour.
+
+• Football Associations should, in addition to the above:
+
+     • Actively and publicly call on FIFA to take action to ensure that the rights of migrant workers are
+       respected in the run up and during the 2022 World Cup; including by calling on FIFA and the
+       Supreme Committee for Delivery and Legacy to ensure effective implementation of the Supreme
+       Committee’s Workers’ Welfare Standards in relation to “service workers”, which are the workers
+       that will be serving them, and request regular updates.
+
+     • Seek meetings with FIFA and the Supreme Committee to discuss their due diligence actions in this regard,
+       seek answers and demand evidence and make these communications and meetings public and
+       disclose the detail of what has been demanded, and answers to these demands.
+
+     • Ensure that relevant service providers respect the rights of the migrant workers they employ.
+
+     • Conduct their own screening and vetting of service providers to make sure that they abide by, and are
+       effectively implementing, the Workers’ Welfare Standards; and
+
+     • If these services are contracted directly, include contractual clauses and seek other guarantees to
+       ensure workers’ rights are protected; if not, seek guarantees from the contracting body that the
+       relevant due diligence checks have been performed, and demand evidence of this.
+
+
+
+
+46                             REALITY CHECK 2021: A YEAR TO THE 2022 WORLD CUP THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+                                                                                                          Amnesty International
+    AMNESTY INTERNATIONAL
+    IS A GLOBAL HUMAN
+    RIGHTS MOVEMENT.
+    AN INJUSTICE HAPPENS TO
+    ONE PERSON, IT MATTERS
+    TO US ALL.
+
+
+
+
+CONTACT US                JOIN THE CONVERSATION
+    info@amnesty.org          www.facebook.com/AmnestyGlobal
+
+    +44 (0)20 7413 5500       @AmnestyOnline
+                REALITY CHECK 2021: A YEAR
+                TO THE 2022 WORLD CUP
+            THE STATE OF MIGRANT WORKERS’ RIGHTS IN QATAR
+            The final countdown to football's next World Cup in November 2022 has
+            started. But despite introducing important legal reforms, Qatar has still not
+            delivered on its promise to end labour abuses and exploitation of its more
+            than two million migrant workers. This report demonstrates that the past year
+            has seen an actual erosion of newly protected migrant workers' rights, with
+            old abusive practices resurfacing, reviving the worst elements of the kafala
+            sponsorship system and undermining reforms. The government has failed
+            to rigorously implement the changes, throwing into doubt the pledge by
+            key stakeholders that the World Cup would be a game changer for migrant
+            workers in Qatar.
+
+
+
+
+Index: MDE 22/4966/2021
+November 2021
+amnesty.org
+
