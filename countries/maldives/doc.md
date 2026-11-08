@@ -19,7 +19,7 @@ Open, and busy: the Maldives was Bangladesh's fourth-largest destination in 2026
 - **New work visas:** being issued. In October 2026 the Bangladesh High Commission in Malé told people coming on a new work visa to collect their BMET smart card (the emigration clearance card) before travelling (Step 6: Orientation, BMET clearance and the flight) [N0104].
 - **Fraud warning, 23 October 2026:** the High Commission warned of fraud, false promises and illegal money collection in the name of jobs, visas and work permits, and asked anyone cheated to report it rather than stay silent [N0103]. It told people not to pay anyone who promises a guaranteed job, a quick work permit or to "regularise" a visa, and not to pay more than the government-set cost (see Scams) [N0105].
 - **Quotas closed for some jobs:** in December 2025 the Ministry of Homeland Security and Technology stopped issuing quotas at once for taxi drivers, co-pilots, ship captains, entertainment workers and shop cashiers, with more jobs phased out over two to five years [N0106].
-- **Demand:** in July 2026 the Maldives High Commissioner in Dhaka said the government is regularising undocumented workers and wants more skilled Bangladeshis, such as nurses and accountants, but Regulation 2025/R-120 ends quotas for accountants two years, and for nurses three years, after 14 December 2025 (see How long you can stay) [N0101, N0102, W0139, W0140, W0047]. Construction demand comes from land reclamation at RasMale, Gulhi Falhu, Thilafushi and Uthuru Thila Falhu, the new Velana airport terminal and new resorts [N0039].
+- **Demand:** in July 2026 the Maldives High Commissioner in Dhaka said the government is regularising undocumented workers and wants more skilled Bangladeshis, such as nurses and accountants, but Regulation 2025/R-120 ends quotas for accountants two years, and for nurses three years, after 14 December 2025 (see How long you can stay) [N0101, N0102, W0139, W0140, W0047, N0106]. Construction demand comes from land reclamation at RasMale, Gulhi Falhu, Thilafushi and Uthuru Thila Falhu, the new Velana airport terminal and new resorts [N0039].
 
 > **Need to know**
 > - What changed in 2025 to let 40,159 Bangladeshis go, when in March 2025 private employers were limited to 10 Bangladeshi workers each and the rest went only to government projects: was the 10-worker limit lifted, or did a few large employers and state projects take most of them?
@@ -50,7 +50,7 @@ Anyone aged 18 or over whom a Maldivian employer with a valid quota names on a w
 - **People:** about 100,000 Bangladeshis live and work in the Maldives, about a fifth of its roughly 5 lakh population [N0101, N0093]. Immigration's border data showed 90,624 Bangladeshi workers in the country in December 2023, against 139,220 Bangladeshis with "active" work permits, because a permit stays active after the worker runs away or leaves unless the employer cancels it [N0015, N0016].
 - **Undocumented:** estimates run from at least 60,000 foreigners of all nationalities (US State Department, 2025) and 63,000 (Maldives Immigration, 2023) to the High Commission's late-2024 estimate of 10,000 to 15,000 Bangladeshis (see Undocumented workers: regularisation) [N0057, N0018, N0092].
 - **Departures:** BMET cleared 7,020 workers for the Maldives in 2024, 40,159 in 2025 (5th destination) and 32,408 in 2026 to 7 November (4th), about 5% of the 626,601 it cleared for all countries [N0005, N0004, N0001, N0003]. Monthly clearances jumped from 878 in April 2025 to 5,411 in May 2025 and have run at about 1,000 to 5,500 a month since [B0149, B0150]. About 104,000 went from 2004 to 2018 and 4,411 in 2019, before the ban [N0007].
-- **Other nationalities:** Indians, Sri Lankans and Bangladeshis make up most of the 62,000 foreign workers who entered in 2023, and the 2019 ban on Bangladeshis brought a surge of Indian workers [N0115, N0116]. Bangladeshis got 17,039 of the 75,542 work permits given to arriving foreigners from 17 November 2023 to 30 January 2025 [N0024].
+- **Other nationalities:** Indians, Sri Lankans and Bangladeshis make up most of the 62,000 foreign workers who entered in 2023, and the 2019 ban on Bangladeshis brought a surge of Indian workers [N0115, N0116]. From 17 November 2023 to 30 January 2025, 75,542 foreigners arrived on work permits, and 17,039 work permits were issued to Bangladeshis [N0024].
 - **Jobs:** 33% of Bangladeshis work in restaurants, hotels and resorts, 25% in construction, 7% in day labour, 2% in domestic work and 2% in fishing [N0100].
 
 #### What closed it before
@@ -120,8 +120,8 @@ In parts: one 2024 deal took Tk 2.6 lakh first, with Tk 2 lakh more due when the
 
 #### How they borrow
 
-- **2023:** 53% borrowed from friends and relatives, 37% used family savings, 19% sold assets, 10% took NGO or microcredit loans, and only 4% a bank loan [N0063, N0064].
-- **2024:** more than half of the workers in the Maldives-side survey had borrowed to pay [N0082]. The Chattogram man borrowed Tk 1 lakh at monthly interest [N0095]. A 2024 legal-aid study found work tied to debt in over 75% of cases [N0075].
+- **2023:** 53% borrowed from friends and relatives, 37% used family savings, 19% sold assets, 10% took NGO or microcredit loans, and only 4% a bank loan [N0063, N0064]. A legal-aid organisation's research cited in 2023 found work tied to debt in over 75% of cases [N0075].
+- **2024:** more than half of the workers in the Maldives-side survey had borrowed to pay [N0082]. The Chattogram man borrowed Tk 1 lakh at monthly interest [N0095].
 
 #### What the job pays
 
@@ -414,7 +414,7 @@ The regulation counts these days without government holidays [W0150].
    > **Need to know**
    > - Must the police clearance for a Maldives work permit be attested, and by whom?
 
-3. **Certificates for a skilled or professional job.** On mygov.bd, register, choose the attestation service for the document, upload it and pay Tk 200 a page; MoFA (Ministry of Foreign Affairs) attests within 5 working days and sends an SMS [B0053, B0054]. SSC and HSC (Secondary and Higher Secondary School Certificate) certificates go first to the education board and the Ministry of Education [B0056]. Experience certificates must first be attested by BMET or the Ministry of Expatriates' Welfare and notarised; MoFA then attests them free [B0055]. The Maldives side (MQA recognition) is in Work visa: professional (teachers, doctors, nurses, engineers).
+3. **Certificates for a skilled or professional job.** On mygov.bd, register, choose the attestation service for the document, upload it and pay Tk 200 a page; MoFA (Ministry of Foreign Affairs) attests within 5 working days and sends an SMS [B0053, B0054]. SSC and HSC (Secondary and Higher Secondary School Certificate) certificates go first to the education board and the Ministry of Education [B0056]. Experience certificates must first be attested by BMET or the Ministry of Expatriates' Welfare and notarised; MoFA then attests them free [B0055]. The Maldives side (MQA recognition) is in Work visa: professional (teachers, doctors, nurses, engineers) [W0012].
 
    > **Need to know**
    > - Does the Maldives accept Bangladesh's e-Apostille, or must certificates also be attested by a Maldivian mission?
@@ -551,7 +551,8 @@ Since mid-December 2025 the Ministry of Homeland Security and Technology's Regul
 
 #### Contract and probation
 
-- Probation is at most 3 months [L0004]. A disciplinary suspension may last at most 14 days [L0008]. During it either side can end the job without notice [L0005], but the rules on hours, leave and pay still apply to you [L0184].
+- Probation is at most 3 months [L0004]. During it either side can end the job without notice [L0005], but the rules on hours, leave and pay still apply to you [L0184].
+- A disciplinary suspension may last at most 14 days [L0008].
 - The employer must give you a written job description within one month of starting work under the Act, and within 20 days under Regulation 2025/R-120 [L0006, W0152]. If it doesn't, you can still enforce the terms and any verbal promises made to you [L0007].
 - The employer must sign the contract with you and give you a copy within 45 days of arrival (see Step 2: The job offer and contract) [W0151].
 - A recruitment agency may not take any fee from you, directly or indirectly [L0072].
@@ -613,7 +614,7 @@ Employers may not take your passport or identity documents [L0087]. Under the An
 
 - The employer must provide housing for the whole of your employment, to the standards set by regulation [W0174, L0075].
 - You must have medical insurance from an approved insurer before your work permit is issued [L0090]. The employer may deduct insurance payments from your wage [L0186].
-- In the worst fire, on 10 November 2022, a blaze in a garage at M. Nirufehi in Malé spread into the workers' quarters above it and killed 10, two of them Bangladeshi; the quarters held at least 38 people, with a gas cylinder beside each bed, and the President ordered inspections of foreign workers' housing [R0025, R0030, R0026, R0029, R0032].
+- In the worst fire, on 10 November 2022, a blaze in a garage at M. Nirufehi in Malé spread into the workers' quarters above it and killed 10, two of them Bangladeshi; the quarters held at least 38 people, with a gas cylinder beside each bed, and the President ordered inspections of foreign workers' housing [R0025, R0030, R0026, R0029, R0032, R0033].
 - The employer must provide safety measures and safety equipment free of charge [L0073]. You may refuse work you reasonably believe is a serious danger to your life or health [L0076].
 - LRA employment officers can inspect workplaces without warning [L0078]. The employer must let you talk to them freely [L0080], and LRA may not tell the employer who complained [L0079].
 
@@ -837,7 +838,7 @@ Report it to the High Commission's labour wing in Malé (hotline +960 7648006, W
 
 ## Work visa: professional (teachers, doctors, nurses, engineers)
 
-A professional uses the same route as a company worker: the employer gets a quota, the work permit and the entry pass on Xpat, and then the work e-Visa (see Step 3: The employer gets your work permit and entry pass) [W0018, W0003]. Unlike a company worker, a professional can bring a spouse, children under 18 or parents (see Dependent visa) [F0001, F0002]. The rights and problem procedures under Work visa: company worker (construction, resort, shop) apply too [L0001]. In 2024 BOESL, the state recruiting agency, recruited 76 doctors, medical officers and specialists for the Maldives Ministry of Health on 2-year contracts [B0156]. Xpat classes each occupation as Professional or Non-Professional: registered nurses, medical officers, primary school teachers and civil and electrical engineers are Professional, while carpenters, masons and waiters are Non-Professional [W0184, W0185, W0186, W0187, W0188]. A professional or managerial permit needs an MQA level 7 qualification in the field, or MQA level 5 with 5 years' relevant experience and an MQA recognition report [W0012]. On the MQA scale, level 7 is a bachelor's degree and level 5 a diploma [W0189, W0190]. The employer also uploads your certificates, with certified English translations, and any registration the occupation needs [W0016]. Under Regulation 2025/R-120, quotas for nurses must be cancelled after three years, for electrical engineers after four and for primary and secondary teachers after five (see How long you can stay) [W0140, W0141, W0047].
+A professional uses the same route as a company worker: the employer gets a quota, the work permit and the entry pass on Xpat, and then the work e-Visa (see Step 3: The employer gets your work permit and entry pass) [W0018, W0003]. Unlike a company worker, a professional can bring a spouse, children under 18 or parents (see Dependent visa) [F0001, F0002]. The rights and problem procedures under Work visa: company worker (construction, resort, shop) apply too [L0001]. In June 2024 BOESL, the state recruiting agency, got BMET permission to send 76 doctors (medical officers and specialists) to the Maldives Ministry of Health on 2-year contracts [B0156]. Xpat classes each occupation as Professional or Non-Professional: registered nurses, medical officers, primary school teachers and civil and electrical engineers are Professional, while carpenters, masons and waiters are Non-Professional [W0184, W0185, W0186, W0187, W0188]. A professional or managerial permit needs an MQA level 7 qualification in the field, or MQA level 5 with 5 years' relevant experience and an MQA recognition report [W0012]. On the MQA scale, level 7 is a bachelor's degree and level 5 a diploma [W0189, W0190]. The employer also uploads your certificates, with certified English translations, and any registration the occupation needs [W0016]. Under Regulation 2025/R-120, quotas for nurses must be cancelled after three years, for electrical engineers after four and for primary and secondary teachers after five (see How long you can stay) [W0140, W0141, W0047].
 
 ### Step 1: Get your certificates attested in Bangladesh
 
@@ -1237,7 +1238,7 @@ Insurance must cover the whole visa period [V0122]. Campus housing applications 
 
 ## Special visa
 
-A special visa lets a foreigner stay for humanitarian work, to continue medical treatment that was under way when the visa expired, to finish a court case to claim a right (such as unpaid wages), or where a government authority finds it imperative [Z0006, V0035, F0028]. It is applied for on form IM22, signed by a sponsor that takes full responsibility for the person, and costs MVR 750 (about Tk 6,000) for each three months or part [V0052, V0037, G0015, G0014]. Trafficking victims could get one to stay and work while their case is investigated and prosecuted [F0086]. Since 15 September 2026 nobody who entered on a special visa can get a work permit without leaving the Maldives [W0032]. Immigration's permits section: permits@immigration.gov.mv, hotline 9199157, phone 3330487 [V0053].
+A special visa lets a foreigner stay for humanitarian work, to continue medical treatment that was under way when the visa expired, to finish a court case to claim a right (such as unpaid wages), or where a government authority finds it imperative [Z0006, V0035, F0028]. It is applied for on form IM22, signed by a sponsor that takes full responsibility for the person; to continue medical treatment or finish a court case it costs MVR 750 (about Tk 6,000) for each three months or part [V0052, V0037, G0015, G0014]. Trafficking victims could get one to stay and work while their case is investigated and prosecuted [F0086]. Since 15 September 2026 nobody who entered on a special visa can get a work permit without leaving the Maldives [W0032]. Immigration's permits section: permits@immigration.gov.mv, hotline 9199157, phone 3330487 [V0053].
 
 > **Need to know**
 > - Who signs form IM22 as sponsor for a worker with a wage case at the Employment Tribunal, and has any Bangladeshi worker been given this visa?
@@ -1301,7 +1302,7 @@ A child born in the Maldives to two Bangladeshi parents does not become Maldivia
 - **The street price of a dollar is far above the official one.** The official rate is MVR 15.42 per dollar [G0015]; on the black market a dollar cost a record MVR 22.45 on 13 August 2026, 45.59% more [G0029]. In September 2026 an MP calculated that workers buying dollars at MVR 21-22 lose 35-40% before sending, and that a worker sending MVR 5,000 (about Tk 40,300) a month loses about Tk 12,500 a month [G0031, G0032, G0015, G0014].
 - **Banks cap what a foreign worker can send each month,** because the MMA gives each bank only a limited monthly dollar allocation [G0011]. In September 2026 Habib Bank had cut its remittance ceiling to USD 300, Bank of Ceylon had stopped opening new remittance accounts, and State Bank of India allowed Indian workers USD 150 a month [G0007, G0008].
 
-**Your wages now go into a bank account.** Since 25 September 2026, employers must pay all foreign workers' salaries and benefits into a bank account in the worker's own name at a bank licensed by the MMA (how to open one: Step 7: After arrival, item 7) [W0147, G0017, G0018]. Paying wages in cash is no longer allowed; an employer who breaks the rule risks losing work-permit quota, a fine, blacklisting on Xpat and referral to investigators [G0020, G0021].
+**Your wages now go into a bank account.** Since 25 September 2026, employers must pay all foreign workers' salaries and benefits into a bank account in the worker's own name at a bank licensed by the MMA (how to open one: Step 7: After arrival, item 7) [W0147, G0017, G0018, G0020]. Paying wages in cash is no longer allowed; an employer who breaks the rule risks losing work-permit quota, a fine, blacklisting on Xpat and referral to investigators [G0020, G0021].
 
 > **Need to know**
 > - Is any tax taken in 2026 when a foreign worker sends money abroad? (A 3% remittance tax was repealed from 1 January 2020, but an August 2026 report says a 3% tax applies to transfers.)
@@ -1345,7 +1346,7 @@ You'll need:
 
 ### How workers become undocumented
 
-Most undocumented Bangladeshis entered on a work permit and lost their status after arrival [U0051, U0059]. The main causes are an employer not paying the work permit fees, a visa not renewed, and a missing report filed by the employer [U0052, U0064]. A work visa whose permit fees have lapsed shows as invalid in Immigration's system [U0097]. Workers are sometimes told their work visa has become an "open" visa, which is in fact a tourist visa, and so do not seek a remedy [U0060]. About 70 percent of Bangladeshi workers do not hold their own passports [U0053]. Many learn their status only when they try to fly home [U0063].
+Most undocumented Bangladeshis entered legally and lost their status after arrival [U0051, U0059]. The main causes are an employer not paying the work permit fees, a visa not renewed, and a missing report filed by the employer [U0052, U0064]. A work visa whose permit fees have lapsed shows as invalid in Immigration's system [U0097]. Workers are sometimes told their work visa has become an "open" visa, which is in fact a tourist visa, and so do not seek a remedy [U0060]. About 70 percent of Bangladeshi workers do not hold their own passports [U0053]. Many learn their status only when they try to fly home [U0063].
 
 ### Step 1: Check your status
 
@@ -1374,7 +1375,7 @@ You'll need: yourself (no one can go for you); your passport or work permit numb
 It was open to workers registered under Operation Kurangi who were living illegally, including those in a dispute with their employer and those with no employer [U0027]. Who qualified [U0010, U0011, U0012, U0013, U0014, U0017]:
 - entered legally on a work permit or Work Permit Entry Pass;
 - physically in the Maldives;
-- work permit expired, or reported missing or "Missing Abscond" before 31 December 2025;
+- work permit expired, or marked "Missing (Abscond)" before 31 December 2025;
 - not blacklisted for criminal or security reasons;
 - fingerprints given under Operation Kurangi;
 - not legalised in this programme before (one chance only).
@@ -1473,7 +1474,7 @@ Under the Occupational Safety and Health Act (in force since July 2024), a worke
 
 **In the Maldives.**
 
-1. **The employer's duties.** The Minister must be notified within 48 hours [L0077]. Under the 2021 regulation it must also tell the family and the Bangladesh High Commission and pay for burial, or send the body home if the family wishes, arranged with the family [L0130, L0131]. The 2023 regulation also made the employer pay burial costs [L0138]. The High Commission attests a demand letter only if the employer agrees to send a dead worker's body home at its own cost, and the work permit insurance must cover repatriation of the body or burial in the Maldives [B0121, W0070].
+1. **The employer's duties.** The Minister must be notified within 48 hours [L0077]. The 2021 and 2023 regulations, since replaced by Regulation 2025/R-120, made the employer tell the family and the Bangladesh High Commission and pay for burial, or send the body home if the family wished [L0130, L0131, L0138, U0086]. The High Commission attests a demand letter only if the employer agrees to send a dead worker's body home at its own cost, and the work permit insurance must cover repatriation of the body or burial in the Maldives [B0121, W0070].
 2. **The High Commission** works with Maldivian authorities to send bodies home [L0171]. Eight Bangladeshis died in 10 days in July and August 2026, and five died in a fire on Dhigurah Island in March 2026; 45 Bangladeshis died in the first half of 2026, 10 of them undocumented [L0170, L0172, U0121].
 3. **Compensation for a death at work:** at least MVR 50,000 (about Tk 4 lakh) even when the employer was not negligent. Where the employer was negligent, from MVR 1.46 million to MVR 15.4 million depending on age, wage and degree of negligence [L0165, L0166, G0015, G0014].
 4. **Wages and dues:** all money owed must be paid within 7 days of the job ending [L0065].
@@ -1482,6 +1483,7 @@ Under the Occupational Safety and Health Act (in force since July 2024), a worke
 **In practice:** when Bangladeshi WAMCO worker Ameen Mia, 24, went missing on Thilafushi landfill in January 2026, no missing person report was filed for two days, and he was found dead under garbage [L0167, L0168].
 
 > **Need to know**
+> - Does Regulation 2025/R-120 still make the employer tell the family and the High Commission, pay for burial or send the body home?
 > - What papers does the High Commission in Malé need to issue the NOC for a body, and how long does repatriation take?
 > - Who pays for sending the body home in practice (employer, work permit insurance, Welfare Board), and what happens when the worker was undocumented?
 > - Has any Bangladeshi family received the MVR 50,000 or higher compensation, and how was it claimed from Bangladesh?
@@ -1569,7 +1571,7 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
    - Maldives Immigration's voluntary return request form ("token") or immigration clearance copy;
    - USD 13 cash [B0111].
 
-   It is ready in 5 to 7 days [B0112]. Sample wording: "I came to the Maldives in [year] for work. I have no valid passport. I need to return to Bangladesh urgently. I attach the papers and fee and request a travel permit." [B0167].
+   It is ready in 5 to 7 days [B0112]. Sample wording: "I came to the Maldives in [year] for work. I have no valid passport. I need to return to Bangladesh urgently. I attach the papers and request a travel permit." [B0167].
 
    > **Need to know**
    > - How does a worker get Immigration's voluntary-return "token", at which counter, and is he detained when he asks for it?
