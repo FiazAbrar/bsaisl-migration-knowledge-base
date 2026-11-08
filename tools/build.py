@@ -176,17 +176,44 @@ def main():
         glob = [h for h in heads if not h["ref"] and ok(h)]
         return glob[0]["id"] if len(glob) == 1 else None
 
-    LINK = re.compile(r"\[[^\]]*\]\([^)]*\)|<[^>]+>|\x00C\d+\x00")
+    # Anchors on the numbered items of each step, so "Step 1, item 4" can link to the item itself.
+    items = {}
+    for h in heads:
+        if h["ref"]:
+            continue
+        end = next((g["n"] for g in heads if g["n"] > h["n"]), len(lines))  # a heading's own list sits before its first sub-heading
+        expect = 1  # only the step's own list: 1, 2, 3... in order; stop when another list restarts at 1
+        for n in range(h["n"] + 1, end):
+            m = re.match(r"^(\d+)\. \*\*(.+?)\*\*", lines[n])
+            if m and n not in hmap and int(m.group(1)) == 1 and expect > 2:
+                break
+            if m and n not in hmap and int(m.group(1)) == expect:
+                expect += 1
+                aid = f"{h['id']}-item-{m.group(1)}"
+                items[(h["id"], m.group(1))] = (aid, m.group(2).strip().rstrip(".,:;"))
+                lines[n] = lines[n].replace(f"{m.group(1)}. ", f"{m.group(1)}. \x00A{aid}\x00", 1)
+
+    LINK = re.compile(r"\[[^\]]*\]\([^)]*\)|<[^>]+>|\x00C\d+\x00|\x00A[^\x00]+\x00")
 
     def link_refs(seg, sec):
         def step(m):
-            hid = None
-            for h in by_sec.get(sec, []):
-                if re.match(rf"Step {m.group(1)}\b", h["text"]):
-                    hid = h["id"]
-                    break
-            return f"[{m.group(0)}](#{hid})" if hid else m.group(0)
-        seg = re.sub(r"\bStep (\d+)\b", step, seg)
+            h = next((h for h in by_sec.get(sec, []) if re.match(rf"Step {m.group(1)}\b", h["text"])), None) \
+                or next((h for h in heads if not h["ref"] and re.match(rf"Step {m.group(1)}\b", h["text"])), None)
+            if not h:
+                return m.group(0)
+            if m.group(2) and (h["id"], m.group(2)) in items:
+                aid, label = items[(h["id"], m.group(2))]
+                return f"[Step {m.group(1)}, item {m.group(2)}: {label}](#{aid})"
+            title = h["text"] if m.group(2) is None else f"Step {m.group(1)}, item {m.group(2)}"
+            return f"[{title}](#{h['id']})"
+        seg = re.sub(r"\bStep (\d+)(?:, item (\d+))?\b", step, seg)
+        def named_item(m):
+            hid = find(m.group(1), sec)
+            if hid and (hid, m.group(2)) in items:
+                aid, label = items[(hid, m.group(2))]
+                return f"[{m.group(1)}, item {m.group(2)}: {label}](#{aid})"
+            return m.group(0)
+        seg = re.sub(r"(?<![\[\w])([A-Z][^,;()\[\]]{2,60}?), item (\d+)\b", named_item, seg)
         def see(m):
             hid = find(m.group(2), sec) or (len(m.group(2)) >= 15 and find(m.group(2), sec, prefix=True))
             return f"{m.group(1)}[{m.group(2)}](#{hid})" if hid else m.group(0)
@@ -220,6 +247,7 @@ def main():
             if gh:
                 return "<sup>" + ", ".join(f"[{a}]({b})" for a, b in items) + "</sup>"
             return "^" + ",\\ ".join(f"[{a.replace(' ', chr(92) + ' ')}]({b})" for a, b in items) + "^"
+        t = re.sub(r"\x00A([^\x00]+)\x00", (lambda m: f'<a id="{m.group(1)}"></a>') if gh else (lambda m: f"[]{{#{m.group(1)}}}"), t)
         return re.sub(r"\x00C(\d+)\x00", c, t)
 
     # pandoc needs a blank quote line before a list inside a quote block (GitHub doesn't).
