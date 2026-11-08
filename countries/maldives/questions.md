@@ -360,6 +360,7 @@ These are the questions the Maldives migration guide can't yet answer, grouped b
 
 ### If a worker dies
 
+- Does Regulation 2025/R-120 still make the employer tell the family and the High Commission, pay for burial or send the body home?
 - What papers does the High Commission in Malé need to issue the NOC for a body, and how long does repatriation take?
 - Who pays for sending the body home in practice (employer, work permit insurance, Welfare Board), and what happens when the worker was undocumented?
 - Has any Bangladeshi family received the MVR 50,000 or higher compensation, and how was it claimed from Bangladesh?
