@@ -1,0 +1,200 @@
+ Xpat System User Guide ­ Mass Legalization
+                       Program
+
+Overview
+
+This guide explains how to process New Regularized Work Permit applications through the Xpat System
+under the Mass Legalization Program in the Xpat System.
+
+Eligibility Criteria
+
+Foreign Worker Requirements
+
+ Legal Entry: Must have entered Maldives legally under a Work Permit or Work Permit Entry Pass.
+ Current Presence: Must be physically present in Maldives.
+ No Prior Legalization: Workers who were previously regularized can apply for mass legalization, but
+
+    once legalized, they cannot be legalized again.
+ Status Cut-off: Work Permit expired
+ Status Cut-off: Work Permit marked as 'Missing (Abscond)' before 31-Dec-2025.
+ Clean Record: Must not be blacklisted for criminal or security reasons.
+ Fingerprint Requirement: Only workers who have provided fingerprint records during Operation
+
+    Kurangi are eligible for legalization.
+
+Employer Requirements
+
+ New Employer Only: The employer applying cannot be the same as the previous employer.
+ Application Submission: Must be submitted by the new employer through the Xpat System.
+
+1|Page
+Application Submission: Application must be submitted by the new employer through the Xpat
+System.
+
+Navigation
+
+1. 1. Login to https://xpat.egov.mv
+2. 2. Go to Work Permit  View Work Permit tab.
+3. 3. Click + New Regularized Work Permit.
+
+2|Page
+Application Steps
+
+Step 1: Worker Information Fetch
+
+ Choose Mass Legalization Eligibility or Fetch by Regularization.
+     If a worker has not provided 10 fingerprints, they must first go through the regularization process.
+         Refer to page 6.
+
+ Enter First Name, Passport Issue Country, and Passport Number.
+ Click Fetch. If conditions are met, worker profile will display; otherwise, reason will appear in red text.
+
+3|Page
+Step 2: Work Permit Request Information
+
+ Select Work Permit Origin Type, Category, Quota Pool, and Quota Slot.
+ Enter Occupation and Salary (USD).
+ Click Next.
+
+Step 3: Upload Documents
+
+ All required documents will be marked as mandatory with "*" within the request.
+
+4|Page
+Step 4: Review & Submit
+
+ Review all details and click Submit.
+ Ensure deposit payment is made before the specified date to avoid cancellation.
+
+Step 5: Confirmation
+
+ - Upon successful submission, you will see Application Submitted message and request number.
+
+Payment
+
+After processing, pay the deposit for the legalized work permit to acquire the permit for the worker.
+
+5|Page
+How to Apply for Regularization (Under Mass Legalization)
+
+Regularization is intended for workers who are not eligible for mass legalization--typically because they
+failed to update all 10 fingerprints or have other issues that prevent them from qualifying under the mass
+legalization program.
+
+1. Navigate to Regularization:
+
+     Log in to the Xpat System at https://xpat.egov.mv.
+     Go to Regularization  View Regularization.
+
+2. Submit a New Regularization Request:
+
+     Click + New Regularization.
+     Enter the worker's details (Employee Information, Passport, Accommodation Address).
+     Upload any required and supporting documents.
+     Submit the request.
+
+3. Processing the Request:
+
+     Wait for the regularization request to be processed by the authorities.
+     You will receive a notification once the request is approved or if additional information is needed.
+
+4. Fetch by Regularization:
+
+     After your regularization request is approved, you will receive a unique Regularization Number
+         (e.g., RGZ/2026/XXXX).
+
+     Use this Regularization Number along with the worker's First Name in the Fetch by
+         Regularization option to retrieve the worker's updated profile.
+
+6|Page
+5. Submit Regularized Work Permit Application under mass legalization:
+
+     Continue to submit a new work permit application for the regularized worker.
+     Complete all required fields and upload necessary documents.
+     Make the deposit payment before the deadline to avoid cancellation.
+
+Important Notes
+
+     Regularization is only for workers who cannot be processed under mass legalization due to
+         specific issues.
+
+     Ensure all information and documents are accurate to avoid delays.
+     If the deposit is not paid by the deadline, the application will be cancelled.
+
+7|Page
+Frequently Asked Questions (FAQ)
+
+Q1: Can a worker with a work permit status of "missing negligence" or "cancelled (missing
+negligence)" be legalized?
+
+A: No. Workers with these statuses can obtain a new Work Permit through employer change process
+(Origin type: Currently in Maldives under another Employer, Missing Negligence)
+
+Q2: Can a worker with a status of "reported missing", "cancelled (reported missing)",
+"missing abscond", or "cancelled (missing abscond)" be legalized?
+
+A: Yes. Workers with these statuses are eligible for legalization under the current program, provided all
+other eligibility criteria are met.
+
+Q3: If a worker was previously regularized under an earlier program, can they apply for
+legalization now?
+
+A: Yes, workers who were regularized under previous programs can apply for legalization in this program.
+However, once legalized through this program, they cannot be legalized again.
+
+Q4: Can the same employer who issued the last work permit apply for legalization for the
+worker?
+
+A: No. The employer applying for legalization must be different from the previous employer.
+
+Q5: What happens if the deposit payment is not made by the deadline?
+
+A: The application will be automatically cancelled if the deposit is not paid by the specified deadline.
+
+Q6: What documents are required for the application?
+
+A: The required documents will be specified in the Xpat System during the application process. Please
+ensure all requested documents are uploaded before submitting.
+
+Q7: What should I do if the system says the worker is not eligible for mass legalization?
+
+A: If the worker is not eligible for mass legalization, you may need to apply for regularization. Follow the
+regularization process in the Xpat System and ensure all required information and documents are
+provided.
+
+Q8: How can I check the status of my application after submission?
+
+A: You can track the status of your application by logging into the Xpat System and viewing the submitted
+requests under the relevant section (Work Permit or Regularization).
+
+Q9: What if the worker's fingerprints were not updated during Operation Kurangi?
+
+A: Workers who did not update all 10 fingerprints during Operation Kurangi are not eligible for mass
+legalization. You should apply for regularization instead.
+
+Q10: Can I edit my application after submitting it?
+
+A: Once an application is submitted, edits are generally not allowed. If you need to make changes, contact
+the relevant authorities or support team for guidance.
+
+Q11: How long does it take to process a regularization or legalization application?
+
+A: Processing times may vary depending on the volume of applications and completeness of submitted
+
+8|Page
+information. You will receive notifications in the Xpat System regarding the status and any required
+actions.
+
+Q12: What happens if additional information or documents are requested by the
+authorities?
+
+A: You will receive a notification in the Xpat System specifying what is needed. Provide the requested
+information or documents promptly to avoid delays or cancellation.
+
+Q13: Is there a helpline or support contact for issues with the Xpat System?
+
+A: Yes. The Xpat System provides support channels for technical or process-related queries. Refer to the
+system's help section or contact details for assistance.
+
+9|Page
+

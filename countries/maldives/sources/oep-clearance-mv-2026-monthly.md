@@ -1,0 +1,12 @@
+# OEP country-clearance report, Maldives (country_id 107), 2026 by month, queried 2026-11-08
+2026-01-01 to 2026-01-31: Maldives total_employee 2942 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-01-31&country_id%5B%5D=107&gender_id=)
+2026-02-01 to 2026-02-28: Maldives total_employee 1042 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-02-01&approval_date_to=2026-02-28&country_id%5B%5D=107&gender_id=)
+2026-03-01 to 2026-03-31: Maldives total_employee 1756 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-03-01&approval_date_to=2026-03-31&country_id%5B%5D=107&gender_id=)
+2026-04-01 to 2026-04-30: Maldives total_employee 3020 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-04-01&approval_date_to=2026-04-30&country_id%5B%5D=107&gender_id=)
+2026-05-01 to 2026-05-31: Maldives total_employee 2934 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-05-01&approval_date_to=2026-05-31&country_id%5B%5D=107&gender_id=)
+2026-06-01 to 2026-06-30: Maldives total_employee 2221 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-06-01&approval_date_to=2026-06-30&country_id%5B%5D=107&gender_id=)
+2026-07-01 to 2026-07-31: Maldives total_employee 3583 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-07-01&approval_date_to=2026-07-31&country_id%5B%5D=107&gender_id=)
+2026-08-01 to 2026-08-31: Maldives total_employee 4161 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-08-01&approval_date_to=2026-08-31&country_id%5B%5D=107&gender_id=)
+2026-09-01 to 2026-09-30: Maldives total_employee 5015 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-09-01&approval_date_to=2026-09-30&country_id%5B%5D=107&gender_id=)
+2026-10-01 to 2026-10-31: Maldives total_employee 4312 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-10-01&approval_date_to=2026-10-31&country_id%5B%5D=107&gender_id=)
+2026-11-01 to 2026-11-07: Maldives total_employee 1422 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-11-01&approval_date_to=2026-11-07&country_id%5B%5D=107&gender_id=)
