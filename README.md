@@ -18,11 +18,12 @@ Each country folder has the same files:
 - doc.md: the doc's text with citations. The only file edited by hand; README.md and the .docx are built from it.
 - facts.csv: every fact in the doc, with the exact quote that proves it and the source it comes from.
 - sources.csv and sources: every source used. The sources folder keeps a saved copy of each page or PDF, so the evidence survives if a link breaks.
-- notes.md: research notes, conflicts between sources, open questions and pages we couldn't download.
+- questions.md: every open question in the doc (its "Need to know" blocks), grouped by section, for insiders and officials to answer.
+- notes.md: research notes, conflicts between sources, known minor issues and pages we couldn't download.
 
 Elsewhere:
 
-- tools: scripts that save sources, check each quote against its saved copy, and build the doc
+- tools: scripts that save sources, check each quote against its saved copy, and build the doc (numbered headings, linked references and a .pdf if LibreOffice is installed)
 - official-pdfs and data: Bangladesh-side documents and BMET's recruiting-agency list
 - CLAUDE.md: the rules every doc follows
 - PROMPT.md: the message to paste into Claude Code to start a new country
