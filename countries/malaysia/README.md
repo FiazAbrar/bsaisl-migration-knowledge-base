@@ -46,6 +46,7 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000); RM is the Malaysian ringgit, 
 - [Work visa: company worker (PLKS)](#work-visa-company-worker-plks)
   - [Who pays what](#who-pays-what)
   - [Step 1: Find a real job](#step-1-find-a-real-job)
+    - [If an agency or broker takes your money](#if-an-agency-or-broker-takes-your-money)
   - [Step 2: Medical check in Bangladesh (Bio-Medical)](#step-2-medical-check-in-bangladesh-bio-medical)
   - [Step 3: The employer gets your visa approval (VDR)](#step-3-the-employer-gets-your-visa-approval-vdr)
   - [Step 4: Passport, police clearance and certificates](#step-4-passport-police-clearance-and-certificates)
@@ -212,7 +213,7 @@ A Malaysia job starts as a quota: permission for one Malaysian employer to bring
 
 ### Is it open now, and who can go?
 
-Announced, not yet moving.
+Recruitment has been announced, but no workers are moving yet.
 
 - **15 October 2026:** Bangladesh announced that recruitment had restarted through agencies on Malaysia's list <sup>[10](#o10)</sup>.
 - **31 October:** medical checks were due to start but did not, because no list of approved centres had been published <sup>[12](#o12), [N14](#n14)</sup>.
@@ -222,19 +223,19 @@ Until the Ministry issues instructions it tells people not to pay money, do medi
 
 #### Status
 
-Malaysia has agreed in principle to take 10,000 workers at zero cost, the first through BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting agency) <sup>[10](#o10), [13](#o13)</sup>. The minister says they will pay nothing and be picked by online lottery from applicants registered on OEP (the Overseas Employment Platform, BMET's job-seeker website), through BOESL circulars such as its 5 November call for 112 men at DHL Supply Chain (Malaysia) ([Step 1: Find a real job](#step-1-find-a-real-job), items 1 and 3) <sup>[N16](#n16), [14](#o14)</sup>. Anyone selling a "zero-cost" or "BOESL" place is selling something the government says is free (Scams) <sup>[N16](#n16), [15](#o15)</sup>. Employers have begun filing demand letters (চাহিদাপত্র, job orders) through FWCMS <sup>[N17](#n17)</sup>. The Bangladesh-Malaysia MoU (memorandum of understanding) ends on 31 December 2026; the minister says a new one will be signed that day and wants every licensed agency allowed in <sup>[13](#o13), [N18](#n18)</sup>.
+Malaysia has agreed in principle to take 10,000 workers at zero cost, the first through BOESL (Bangladesh Overseas Employment and Services Ltd, the government-owned recruiting agency) <sup>[10](#o10), [13](#o13)</sup>. The minister says they will pay nothing and be picked by online lottery from applicants registered on OEP (the Overseas Employment Platform, BMET's job-seeker website), through BOESL circulars such as its 5 November call for 112 men at DHL Supply Chain (Malaysia) ([Step 1, item 1: Register on the Overseas Employment Platform (OEP)](#step-1-find-a-real-job-item-1); [Step 1, item 3: Apply for government (BOESL) jobs](#step-1-find-a-real-job-item-3)) <sup>[N16](#n16), [14](#o14)</sup>. Anyone selling a "zero-cost" or "BOESL" place is selling something the government says is free ([Step 1, item 3: Apply for government (BOESL) jobs](#step-1-find-a-real-job-item-3)) <sup>[N16](#n16), [15](#o15)</sup>. Employers have begun filing demand letters (চাহিদাপত্র, job orders) through FWCMS <sup>[N17](#n17)</sup>. The Bangladesh-Malaysia MoU (memorandum of understanding) ends on 31 December 2026; the minister says a new one will be signed that day and wants every licensed agency allowed in <sup>[13](#o13), [N18](#n18)</sup>.
 
 > **Need to know**
 > - Do zero-cost workers still pay the airfare, the medical and a small BOESL service charge, as the state minister, Nurul Haque Nur, said in late October <sup>[N17](#n17)</sup>?
 
 #### The channels
 
-- **A private agency on Malaysia's list:** the route nearly everyone uses; about 4.5 lakh went this way in 2022-24 (how the job passes through the agencies: "How a job reaches you") <sup>[N6](#n6), [N19 (2024)](#n19)</sup>.
+- **A private agency on Malaysia's list:** the route nearly everyone uses; about 4.5 lakh went this way in 2022-24 (how the job passes through the agencies: see [How a job reaches you](#how-a-job-reaches-you-and-who-takes-a-cut), and who takes a cut) <sup>[N6](#n6), [N19 (2024)](#n19)</sup>.
 - **Through a relative in Malaysia:** a relative can find the job, but the visa still goes through a listed agency ([Step 1, item 5: Or through a relative or friend in Malaysia](#step-1-find-a-real-job-item-5)) <sup>[10](#o10)</sup>.
 - **BOESL:** circulars on boesl.gov.bd, a lottery among OEP-registered applicants, then the employer's interview; few places ([Step 1, item 3: Apply for government (BOESL) jobs](#step-1-find-a-real-job-item-3)) <sup>[14](#o14), [N16](#n16), [N19 (2024)](#n19)</sup>.
 - **CLAB (Construction Labour Exchange Centre Berhad, Malaysia's government construction recruiter), through BOESL:** construction only; it rejected about a third of those it interviewed on health and suitability <sup>[N20](#n20)</sup>.
 - **Employment Pass:** professionals on at least RM5,000 a month <sup>[16](#o16)</sup>.
-- **No legal route:** domestic work (Bangladesh is not an approved source country) <sup>[7](#o7), [17](#o17)</sup>; women in general jobs (no agreement exists, and the High Commission in Kuala Lumpur tells women not to go) <sup>[N21](#n21)</sup>; and jobs in Sabah, where there is no recruitment agreement and rings collect passports and cash <sup>[N22](#n22)</sup>. The main irregular route is a tourist visa used to work (["What goes wrong most"](#what-goes-wrong-most-and-what-people-wrongly-believe)) <sup>[N23](#n23)</sup>.
+- **No legal route:** domestic work (Bangladesh is not an approved source country) <sup>[7](#o7), [17](#o17)</sup>; women in general jobs (no agreement exists, and the High Commission in Kuala Lumpur tells women not to go) <sup>[N21](#n21)</sup>; and jobs in Sabah, where there is no recruitment agreement and rings collect passports and cash <sup>[N22](#n22)</sup>. The main irregular route is a tourist visa used to work (see [What goes wrong most](#what-goes-wrong-most-and-what-people-wrongly-believe), and what people wrongly believe) <sup>[N23](#n23)</sup>.
 
 #### Who qualifies
 
@@ -287,11 +288,11 @@ Workers sort jobs by who holds the visa:
 - **"Agent visa":** puts you under an agent or subcontractor who hires you out. Outsourcing companies were abolished in 2019, but some workers who go legally still land with one, are sent to work elsewhere, and can't tell until they arrive <sup>[N41 (2019)](#n41), [N42 (2023)](#n42)</sup>.
 - **ফ্রি ভিসা (free visa):** sells the right to work anywhere, which no work pass gives. Every work pass (PLKS) is tied to the employer that applied, free-visa workers pay an agent about RM5,000 (Tk 1.53 lakh) a year to renew, and agents hold back weeks or months of their pay <sup>[5](#o5), [N40 (2024)](#n40)</sup>.
 
-Working away from the company on your permit is an offence: Immigration's Ops Mahir raid in Ipoh in September 2026 detained 175 foreigners, mostly Bangladeshis, including people working outside the company named on their permit <sup>[N43](#n43)</sup>. What separates them is which company holds your quota and whether you work at its address <sup>[N40 (2024)](#n40), [N43](#n43)</sup>. The calling visa (VDR, the visa approval) comes first and the e-visa after it, both through BOESL or one of the 25; check both (Steps 3 and 5) <sup>[10](#o10), [5](#o5)</sup>.
+Working away from the company on your permit is an offence: Immigration's Ops Mahir raid in Ipoh in September 2026 detained 175 foreigners, mostly Bangladeshis, including people working outside the company named on their permit <sup>[N43](#n43)</sup>. What separates them is which company holds your quota and whether you work at its address <sup>[N40 (2024)](#n40), [N43](#n43)</sup>. The calling visa (VDR, the visa approval) comes first and the e-visa after it, both through BOESL or one of the 25; check both ([Step 3: The employer gets your visa approval (VDR)](#step-3-the-employer-gets-your-visa-approval-vdr); [Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)) <sup>[10](#o10), [5](#o5)</sup>.
 
 #### The demand letter: the first price
 
-A Bangladeshi agency buys the employer's demand letter <sup>[N2](#n2)</sup>. Agency owners say one now costs RM8,000 to 12,000 per worker (Tk 2.45 to 3.67 lakh), against RM2,000 to 3,000 before (2022-24 prices: "Where a Tk 5.5 lakh deal goes") <sup>[N2](#n2)</sup>. Big agencies buy the demand and pay the middlemen around it, so small agencies can't send workers cheaply <sup>[N2](#n2)</sup>.
+A Bangladeshi agency buys the employer's demand letter <sup>[N2](#n2)</sup>. Agency owners say one now costs RM8,000 to 12,000 per worker (Tk 2.45 to 3.67 lakh), against RM2,000 to 3,000 before (2022-24 prices: see [Where a Tk 5.5 lakh deal goes](#where-a-tk-55-lakh-deal-goes)) <sup>[N2](#n2)</sup>. Big agencies buy the demand and pay the middlemen around it, so small agencies can't send workers cheaply <sup>[N2](#n2)</sup>.
 
 > **Need to know**
 > - Who in Malaysia sells demand letters (the employer's own staff, Malaysian agents, Bangladeshi-born brokers)?
@@ -307,7 +308,7 @@ No demand letter is accepted until the Bangladesh High Commission in Kuala Lumpu
 
 #### The processing agency: the toll gate
 
-Malaysia lists 338 Bangladeshi agencies: BOESL, the 25 "processing" agencies, and 312 associates (সহযোগী এজেন্সি), 10 under each of the 25 and 62 under BOESL <sup>[10](#o10), [26](#o26), [N46](#n46)</sup>. An associate may find employers, collect demand and select workers, but the calling visa and e-visa go through BOESL or one of the 25, which issues a no-objection certificate so the associate can get BMET clearance under its own licence <sup>[10](#o10)</sup>. For 2026, claims for the toll run from a Tk 6,000 processing fee to RM5,500 (about Tk 1.68 lakh), the figure BAIRA (Bangladesh Association of International Recruiting Agencies) members allege (2022-24 toll: "Where a Tk 5.5 lakh deal goes") <sup>[N47](#n47), [N3](#n3)</sup>. Even the government channel buys visas: of the Tk 1,62,500 BOESL charged stranded workers, its managing director said Tk 1 lakh was for buying visas <sup>[N27](#n27)</sup>.
+Malaysia lists 338 Bangladeshi agencies: BOESL, the 25 "processing" agencies, and 312 associates (সহযোগী এজেন্সি), 10 under each of the 25 and 62 under BOESL <sup>[10](#o10), [26](#o26), [N46](#n46)</sup>. An associate may find employers, collect demand and select workers, but the calling visa and e-visa go through BOESL or one of the 25, which issues a no-objection certificate so the associate can get BMET clearance under its own licence <sup>[10](#o10)</sup>. For 2026, claims for the toll run from a Tk 6,000 processing fee to RM5,500 (about Tk 1.68 lakh), the figure BAIRA (Bangladesh Association of International Recruiting Agencies) members allege (2022-24 toll: see [Where a Tk 5.5 lakh deal goes](#where-a-tk-55-lakh-deal-goes)) <sup>[N47](#n47), [N3](#n3)</sup>. Even the government channel buys visas: of the Tk 1,62,500 BOESL charged stranded workers, its managing director said Tk 1 lakh was for buying visas <sup>[N27](#n27)</sup>.
 
 #### Who controls it
 
@@ -357,7 +358,7 @@ Together these come to about Tk 4.2 to 5.1 lakh <sup>[N6](#n6), [N3](#n3), [N48]
 
 #### How it is paid
 
-In stages, much of it to a broker, with receipts for little of it; down payments for the passport and medical carry none <sup>[N63](#n63), [N64 (2024)](#n64)</sup>. A delay raises the price: a Cumilla man's Tk 3.6 lakh became Tk 5.7 lakh <sup>[N60](#n60)</sup>. Before flying, workers have been made to sign, and record on video, that they paid only the official fee, and in 2025 the police cited those signatures to close a trafficking case (Scams) <sup>[N61](#n61), [N65](#n65), [N29](#n29)</sup>.
+In stages, much of it to a broker, with receipts for little of it; down payments for the passport and medical carry none <sup>[N63](#n63), [N64 (2024)](#n64)</sup>. A delay raises the price: a Cumilla man's Tk 3.6 lakh became Tk 5.7 lakh <sup>[N60](#n60)</sup>. Before flying, workers have been made to sign, and record on video, that they paid only the official fee, and in 2025 the police cited those signatures to close a trafficking case (see [Done to workers](#done-to-workers)) <sup>[N61](#n61), [N65](#n65), [N29](#n29)</sup>.
 
 #### How they borrow
 
@@ -382,7 +383,7 @@ Both EPF shares are paid back in full when you leave for good ([Leaving at the e
 
 43% got less than promised in the 2024 survey <sup>[N8 (2024)](#n8)</sup>. The usual losses:
 
-- Overtime unpaid or paid at a flat rate (the Pahang case above) <sup>[N70](#n70)</sup>.
+- Overtime unpaid or paid at a flat rate (the Pahang case, see [What the job pays: a correct payslip](#what-the-job-pays-a-correct-payslip)) <sup>[N70](#n70)</sup>.
 - Wages held for months, often before the company closes: up to eight months at Kawaguchi, nearly three at Aerofoam in 2026 <sup>[N71](#n71), [N72](#n72)</sup>.
 - The employer's costs taken from pay: the levy, the yearly renewal, hostel charges, uniforms (RM500 in one case) and "flight-ticket deposits" <sup>[N73](#n73), [N60](#n60), [N61](#n61), [N72](#n72)</sup>.
 - Time with no job, earning nothing while the loan runs <sup>[N60](#n60)</sup>.
@@ -402,26 +403,26 @@ At the 2022-24 price the cost equals at least a year's wages; counting living co
 
 ### What ties you to the employer
 
-Completely. The PLKS (Pas Lawatan Kerja Sementara, the work pass; the "permit", পারমিট) names one employer; only that employer can bring you in, renew the pass and send you home, and work for anyone else breaks it <sup>[5](#o5), [7](#o7), [39 (2006)](#o39), [N60](#n60)</sup>. The standard contract is 3 years, renewable, with 90 days' probation, and the air ticket home is due only after the contract is completed <sup>[37 (2024)](#o37), [14](#o14)</sup>.
+Your work pass ties you to one employer for everything. The PLKS (Pas Lawatan Kerja Sementara, the work pass; the "permit", পারমিট) names one employer; only that employer can bring you in, renew the pass and send you home, and work for anyone else breaks it <sup>[5](#o5), [7](#o7), [39 (2006)](#o39), [N60](#n60)</sup>. The standard contract is 3 years, renewable, with 90 days' probation, and the air ticket home is due only after the contract is completed <sup>[37 (2024)](#o37), [14](#o14)</sup>.
 
 > **Need to know**
 > - Do outsourcing or shell companies still sponsor Bangladeshis on PLKS to work anywhere in 2026?
 > - What does such a PLKS "visa" sell for?
 
-- **Enter:** tied. The employer holds the quota and applies for your VDR (Visa Dengan Rujukan, the calling visa approval); you wait in Bangladesh until it is approved, and can check its status yourself on Immigration's MyIMMs site ([Step 3, item 2: Track the approval](#step-3-the-employer-gets-your-visa-approval-vdr-item-2)) <sup>[7](#o7), [5](#o5)</sup>. The employer must collect you at the airport within 6 hours of landing (After you arrive, item 1) <sup>[5](#o5)</sup>.
-- **Stay:** the FOMEMA medical decides. The employer has 30 days after arrival to take you to a FOMEMA clinic, and the PLKS is issued only if you pass; if you fail, you are sent home on a Check-Out Memo with the debt unpaid <sup>[5](#o5)</sup>. Since December 2023 the check is yearly <sup>[N80](#n80)</sup>. FOMEMA has rejected workers for diabetes, high blood pressure and high cholesterol, and neither worker nor employer gets the report (After you arrive, item 2) <sup>[N80](#n80), [N81 (2024)](#n81)</sup>.
+- **Enter:** only your employer can bring you in. The employer holds the quota and applies for your VDR (Visa Dengan Rujukan, the calling visa approval); you wait in Bangladesh until it is approved, and can check its status yourself on Immigration's MyIMMs site ([Step 3, item 2: Track the approval](#step-3-the-employer-gets-your-visa-approval-vdr-item-2)) <sup>[7](#o7), [5](#o5)</sup>. The employer must collect you at the airport within 6 hours of landing ([After you arrive, item 1](#after-you-arrive-item-1)) <sup>[5](#o5)</sup>.
+- **Stay:** the FOMEMA medical in Malaysia decides whether you can stay. The employer has 30 days after arrival to take you to a FOMEMA clinic, and the PLKS is issued only if you pass; if you fail, you are sent home on a Check-Out Memo with the debt unpaid <sup>[5](#o5)</sup>. Since December 2023 the check is yearly <sup>[N80](#n80)</sup>. FOMEMA has rejected workers for diabetes, high blood pressure and high cholesterol, and neither worker nor employer gets the report ([After you arrive, item 2](#after-you-arrive-item-2)) <sup>[N80](#n80), [N81 (2024)](#n81)</sup>.
 
   > **Need to know**
   > - Does any agency refund part of the package when a worker fails FOMEMA, and is this ever written into the চুক্তি?
 
-- **Renew:** tied. Only the employer renews, once a year, up to 10 years (How long you can stay) <sup>[7](#o7), [5](#o5)</sup>. Workers call it ভিসা রিনিউ (visa renewal) <sup>[N40 (2024)](#n40)</sup>. The official cost in manufacturing, construction or services is about RM2,055 (Tk 63,000): the RM1,850 levy, RM60 for the pass, RM125 processing and RM20 visa, all payable by the employer <sup>[24](#o24), [7](#o7)</sup>. Workers report paying RM2,500 to 3,200 a year (Tk 77,000 to 98,000) <sup>[N60](#n60)</sup>.
-- **Quit:** 2 months' notice or 2 months' wages, and your own fare home; Immigration normally cancels the pass at once <sup>[40 (2022)](#o40), [33 (2023)](#o33), [N82 (2021)](#n82)</sup>.
+- **Renew:** only your employer can renew the pass, once a year, up to 10 years (see [How long you can stay and renewing](#how-long-you-can-stay-and-renewing)) <sup>[7](#o7), [5](#o5)</sup>. Workers call it ভিসা রিনিউ (visa renewal) <sup>[N40 (2024)](#n40)</sup>. The official cost in manufacturing, construction or services is about RM2,055 (Tk 63,000): the RM1,850 levy, RM60 for the pass, RM125 processing and RM20 visa, all payable by the employer <sup>[24](#o24), [7](#o7)</sup>. Workers report paying RM2,500 to 3,200 a year (Tk 77,000 to 98,000) <sup>[N60](#n60)</sup>.
+- **Quit:** to quit, you give 2 months' notice or pay 2 months' wages, and pay your own fare home; Immigration normally cancels the pass at once <sup>[40 (2022)](#o40), [33 (2023)](#o33), [N82 (2021)](#n82)</sup>.
 
   > **Need to know**
   > - Once Immigration cancels a quitting worker's pass, how many days does he have to leave?
 
-- **Change employer:** not on your own; only the employer can apply, and only if it closes, goes bankrupt, is restructured or dies ([If you want to change employer](#if-you-want-to-change-employer)) <sup>[5](#o5), [41 (2024)](#o41)</sup>. A Kuala Lumpur migrant lawyer calls a legal job change almost impossible and a main reason so many end up undocumented <sup>[N83 (2019)](#n83)</sup>.
-- **Leave:** tied. The employer applies for the Check-Out Memo and since 2025 must be present at the exit point ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[7](#o7), [N84](#n84)</sup>. Its RM500 security bond for you is refunded only if you leave on that memo and forfeited if you run <sup>[24](#o24)</sup>. That bond is why employers hold passports and demand deposits: at a Pahang plywood factory in 2026, workers had to pay RM2,500 before going home on annual leave <sup>[N70](#n70)</sup>. Missing the agreed return date counts as running away <sup>[5](#o5)</sup>.
+- **Change employer:** you can't change employer on your own; only the employer can apply, and only if it closes, goes bankrupt, is restructured or dies ([If you want to change employer](#if-you-want-to-change-employer)) <sup>[5](#o5), [41 (2024)](#o41)</sup>. A Kuala Lumpur migrant lawyer calls a legal job change almost impossible and a main reason so many end up undocumented <sup>[N83 (2019)](#n83)</sup>.
+- **Leave:** only your employer can send you home. The employer applies for the Check-Out Memo and since 2025 must be present at the exit point ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[7](#o7), [N84](#n84)</sup>. Its RM500 security bond for you is refunded only if you leave on that memo and forfeited if you run <sup>[24](#o24)</sup>. That bond is why employers hold passports and demand deposits: at a Pahang plywood factory in 2026, workers had to pay RM2,500 before going home on annual leave <sup>[N70](#n70)</sup>. Missing the agreed return date counts as running away <sup>[5](#o5)</sup>.
 
   > **Need to know**
   > - Can a worker get the Check-Out Memo without the employer?
@@ -432,12 +433,12 @@ The pass falls under the Immigration Act, so any breach of its conditions voids 
 
 #### Your passport in practice
 
-The law forbids the employer to keep it (After you arrive, item 4) <sup>[40 (2022)](#o40), [44 (1997)](#o44)</sup>, but employers routinely take passports on arrival "for safekeeping" without a receipt <sup>[45](#o45), [N73](#n73)</sup>. In an IOM (International Organization for Migration) study of 40 workers who became undocumented, every one had their passport held by the employer or agency <sup>[N85 (2023)](#n85)</sup>. Held passports are ransomed: the Kuala Lumpur company that gave about 600 Bangladeshis no work asked Tk 1.7 to 1.8 lakh each for theirs in 2024 <sup>[N39 (2024)](#n39)</sup>. Some have got passports back by complaining to the authorities <sup>[N72](#n72)</sup>.
+The law forbids the employer to keep it ([After you arrive, item 4](#after-you-arrive-item-4)) <sup>[40 (2022)](#o40), [44 (1997)](#o44)</sup>, but employers routinely take passports on arrival "for safekeeping" without a receipt <sup>[45](#o45), [N73](#n73)</sup>. In an IOM (International Organization for Migration) study of 40 workers who became undocumented, every one had their passport held by the employer or agency <sup>[N85 (2023)](#n85)</sup>. Held passports are ransomed: the Kuala Lumpur company that gave about 600 Bangladeshis no work asked Tk 1.7 to 1.8 lakh each for theirs in 2024 <sup>[N39 (2024)](#n39)</sup>. Some have got passports back by complaining to the authorities <sup>[N72](#n72)</sup>.
 
 #### What running away or an expired pass does to you
 
 - **Running away (lari, Malay for "run").** The employer reports you, you are blacklisted, the bond is forfeited and the pass cancelled; some employers file false reports near the contract's end to avoid the fare home, or after a complaint (If your employer reports you absent (lari)) <sup>[24](#o24), [N82 (2021)](#n82), [45](#o45)</sup>. You become what Malaysia calls PATI (Pendatang Asing Tanpa Izin, foreigner without permission) and Bangladeshis call অবৈধ (illegal) <sup>[N86](#n86), [N39 (2024)](#n39)</sup>.
-- **An expired pass** makes you an overstayer: fine, jail or a compound, then removal and a blacklist ([What can get you jailed](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39), [46](#o46), [N87 (2022)](#n87)</sup>. Most undocumented workers got there this way: all 40 in the IOM study arrived legally and left their jobs because of exploitation, and recruitment debt kept them in Malaysia afterwards <sup>[N85 (2023)](#n85)</sup>.
+- **An expired pass** makes you an overstayer: fine, jail or a compound, then removal and a blacklist (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39), [46](#o46), [N87 (2022)](#n87)</sup>. Most undocumented workers got there this way: all 40 in the IOM study arrived legally and left their jobs because of exploitation, and recruitment debt kept them in Malaysia afterwards <sup>[N85 (2023)](#n85)</sup>.
 - **Buying your way back to legal.** No legalisation programme is open; the last, RTK (the Labour Recalibration Programme), ended on 31 December 2023 <sup>[N88](#n88)</sup>. Past rounds were a market: agents charged RM6,000 to 10,000 against an official maximum of RM3,900, and rings sold fake renewals and PLKS stickers at RM2,500 to 6,000 <sup>[N89 (2018)](#n89), [N90 (2023)](#n90), [N91 (2023)](#n91)</sup>. The only official way out is home under PRM 2.0, with a compound of RM300 for breaking pass conditions or RM500 for overstaying ([Going home without valid papers](#going-home-without-valid-papers)) <sup>[47](#o47)</sup>.
 
 > **Need to know**
@@ -445,16 +446,16 @@ The law forbids the employer to keep it (After you arrive, item 4) <sup>[40 (202
 
 ### What goes wrong most, and what people wrongly believe
 
-Money owed is the commonest complaint: unpaid, late or cut wages, then jobs that don't exist or don't match the promise <sup>[45](#o45), [N92](#n92), [N93](#n93)</sup>. Before departure the loss is money taken and no departure, and most complainants get back less than half of it ([Step 1: Find a real job](#step-1-find-a-real-job), "If an agency or broker takes your money") <sup>[48 (2024)](#o48), [N94 (2024)](#n94)</sup>. OKUP (Ovibashi Karmi Unnayan Program, a Bangladeshi migrants' organisation) finds 75% leave without having seen a contract <sup>[N95](#n95)</sup>.
+Money owed is the commonest complaint: unpaid, late or cut wages, then jobs that don't exist or don't match the promise <sup>[45](#o45), [N92](#n92), [N93](#n93)</sup>. Before departure the loss is money taken and no departure, and most complainants get back less than half of it (see [If an agency or broker takes your money](#if-an-agency-or-broker-takes-your-money)) <sup>[48 (2024)](#o48), [N94 (2024)](#n94)</sup>. OKUP (Ovibashi Karmi Unnayan Program, a Bangladeshi migrants' organisation) finds 75% leave without having seen a contract <sup>[N95](#n95)</sup>.
 
 #### What people believe, and the facts
 
-- **"I've paid the full price, so a job is waiting."** The quota surplus makes ghost jobs structural (["The quota"](#the-quota), "Which employer"); in the 161-worker case the employer also asked RM6,000 to return their passports <sup>[N38 (2024)](#n38)</sup>. Activists and researchers estimate 100,000 to 200,000 of about 800,000 Bangladeshis in Malaysia are jobless, unpaid and in debt <sup>[N96 (2024)](#n96)</sup>. Before paying the bulk, the employer can be checked on SSM (Malaysia's company registry) and the calling visa on MyIMMs ([Step 1, item 7: Check the employer exists](#step-1-find-a-real-job-item-7); [Step 3, item 2: Track the approval](#step-3-the-employer-gets-your-visa-approval-vdr-item-2)) <sup>[49](#o49), [50](#o50), [5](#o5)</sup>.
-- **"Passing the medical in Dhaka means I'm in."** FOMEMA in Malaysia decides, every year, and failing it means going home with the debt (["What ties you to the employer"](#what-ties-you-to-the-employer)) <sup>[5](#o5), [N80](#n80)</sup>.
+- **"I've paid the full price, so a job is waiting."** The quota surplus makes ghost jobs structural (see [The quota](#the-quota); see [Which employer](#which-employer)); in the 161-worker case the employer also asked RM6,000 to return their passports <sup>[N38 (2024)](#n38)</sup>. Activists and researchers estimate 100,000 to 200,000 of about 800,000 Bangladeshis in Malaysia are jobless, unpaid and in debt <sup>[N96 (2024)](#n96)</sup>. Before paying the bulk, the employer can be checked on SSM (Malaysia's company registry) and the calling visa on MyIMMs ([Step 1, item 7: Check the employer exists](#step-1-find-a-real-job-item-7); [Step 3, item 2: Track the approval](#step-3-the-employer-gets-your-visa-approval-vdr-item-2)) <sup>[49](#o49), [50](#o50), [5](#o5)</sup>.
+- **"Passing the medical in Dhaka means I'm in."** FOMEMA in Malaysia decides, every year, and failing it means going home with the debt (see [What ties you to the employer](#what-ties-you-to-the-employer)) <sup>[5](#o5), [N80](#n80)</sup>.
 - **"Go on a tourist visa; the work permit gets done there."** Travel agents sell exactly this: a Paltan travel agency owner promised work permits, sent two people on visit visas, held them and demanded Tk 5 lakh from their families <sup>[N97](#n97)</sup>. A visit pass allows no work and can't become a work pass inside Malaysia; the worker must be outside Malaysia while the employer applies ([Changing visa type](#changing-visa-type)) <sup>[51](#o51), [7](#o7)</sup>. In one July 2025 operation 123 Bangladeshis holding tourist visas were refused entry at KLIA (Kuala Lumpur International Airport) <sup>[N98](#n98)</sup>.
 - **"Malaysia will legalise us again."** When a rumour of an "RTK 3.0" spread in January 2025, Immigration's Director General said no decision had been taken, and rings sold fake places in past rounds <sup>[N99](#n99), [N100 (2024)](#n100)</sup>.
-- **"A student visa lets you work."** Prospective students are routinely told this <sup>[N101](#n101)</sup>. Students may work only in breaks of over 7 days, up to 20 hours a week, in a few listed jobs, and those breaking the rules are deported (Student visa, Can you work?) <sup>[52](#o52), [53](#o53), [N101](#n101)</sup>.
-- **"The approved agency list is on Facebook."** Posts in late 2025 that Malaysia had approved 25 Bangladeshi agencies were false; Malaysia had told neither the High Commission nor the Ministry (Scams) <sup>[54](#o54)</sup>.
+- **"A student visa lets you work."** Prospective students are routinely told this <sup>[N101](#n101)</sup>. Students may work only in breaks of over 7 days, up to 20 hours a week, in a few listed jobs, and those breaking the rules are deported (see [Student visa (Student Pass), Can you work?](#can-you-work)) <sup>[52](#o52), [53](#o53), [N101](#n101)</sup>.
+- **"The approved agency list is on Facebook."** Posts in late 2025 that Malaysia had approved 25 Bangladeshi agencies were false; Malaysia had told neither the High Commission nor the Ministry (see [Done to workers](#done-to-workers)) <sup>[54](#o54)</sup>.
 
 #### Irregular routes and how they end
 
@@ -464,7 +465,7 @@ Money owed is the commonest complaint: unpaid, late or cut wages, then jobs that
   > **Need to know**
   > - What does a tourist-visa entry arranged for work in Malaysia sell for in Dhaka in 2026, and what is the street word for it?
 
-- **Where overstaying ends.** Arrest, a crowded immigration depot where 465 detainees died in 2021 to 2025, and removal with no appeal ([What can get you jailed](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39), [N106](#n106), [N107](#n107)</sup>. Deportees pay their own tickets or their families or embassy do, and they are blacklisted <sup>[N108](#n108)</sup>. Forged papers bought to stay carry jail and caning (Scams) <sup>[N109](#n109), [55](#o55)</sup>.
+- **Where overstaying ends.** Arrest, a crowded immigration depot where 465 detainees died in 2021 to 2025, and removal with no appeal (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39), [N106](#n106), [N107](#n107)</sup>. Deportees pay their own tickets or their families or embassy do, and they are blacklisted <sup>[N108](#n108)</sup>. Forged papers bought to stay carry jail and caning (see [Tried by workers](#tried-by-workers)) <sup>[N109](#n109), [55](#o55)</sup>.
 
 ## Visas not open to Bangladeshis
 
@@ -490,9 +491,9 @@ Money owed is the commonest complaint: unpaid, late or cut wages, then jobs that
 
 The PLKS is valid 12 months at a time and renewed by the employer <sup>[5](#o5)</sup>. Bangladeshis may work only in manufacturing, construction, agriculture, plantation and services, except sectors where intake is frozen <sup>[5](#o5)</sup>. Jobs in Sabah and Sarawak fall under those state governments <sup>[5](#o5)</sup>. You must be 18 to 45 when the employer applies <sup>[5](#o5)</sup>. The employer pays the levy, the visa, the pass and a deposit and, under the Bangladesh-Malaysia MoU in force until 31 December 2026, all Malaysian-side costs, including your airfare <sup>[7](#o7), [29](#o29), [8 (2022)](#o8), [13](#o13)</sup>.
 
-How the job order passes from the employer through the agencies to you is in Background (["How a job reaches you"](#how-a-job-reaches-you-and-who-takes-a-cut)); the order of events is under [Step 1, item 5: Or through a relative or friend in Malaysia](#step-1-find-a-real-job-item-5), "How long".
+How the job order passes from the employer through the agencies to you is in Background (see [How a job reaches you](#how-a-job-reaches-you-and-who-takes-a-cut), and who takes a cut); the order of events is under [Step 1, item 5: Or through a relative or friend in Malaysia](#step-1-find-a-real-job-item-5), "How long".
 
-**Is recruitment open now?** See Background (["Is it open now"](#is-it-open-now-and-who-can-go)). On 28 October 2026 the state minister estimated that the zero-cost BOESL batch would still cost each worker Tk 1.55 to 1.60 lakh <sup>[N44](#n44)</sup>. The Ministry says no worker may be made to bear extra cost for the job <sup>[10](#o10)</sup>.
+**Is recruitment open now?** See Background ([Is it open now, and who can go?](#is-it-open-now-and-who-can-go)). On 28 October 2026 the state minister estimated that the zero-cost BOESL batch would still cost each worker Tk 1.55 to 1.60 lakh <sup>[N44](#n44)</sup>. The Ministry says no worker may be made to bear extra cost for the job <sup>[10](#o10)</sup>.
 
 > **Need to know**
 > - What is the most a private agency may take from a worker since the October 2026 reopening <sup>[N110](#n110), [N111](#n111)</sup>?
@@ -542,7 +543,7 @@ How the job order passes from the employer through the agencies to you is in Bac
 
    **Scams:** if anyone offers a TTC place or exam pass for money, tell the nearest law-enforcement officer <sup>[19](#o19)</sup>. To complain about a TTC:
 
-   1. Complain to its principal (phone and email on BMET's TTC list above) <sup>[73](#o73)</sup>.
+   1. Complain to its principal (phone and email on BMET's TTC list, [Step 1, item 2: Learn a trade if you need one](#step-1-find-a-real-job-item-2)) <sup>[73](#o73)</sup>.
    2. Then complain to BMET's Director (Employment), diremi@bmet.gov.bd, 01711111544 <sup>[1](#o1)</sup>.
 
    The government's migrant call centre, 16135, takes calls on any migration problem <sup>[76](#o76)</sup>.
@@ -588,11 +589,11 @@ How the job order passes from the employer through the agencies to you is in Bac
    1. Find the agency on the FWCMS list <sup>[26](#o26)</sup>.
    2. On BMET's list, [oep.gov.bd/agencies](https://www.oep.gov.bd/agencies), check the same RL number shows status Active (not Expired, Cancelled or Suspended) and an unexpired validity date; note its registered address and office phone <sup>[81](#o81)</sup>.
    3. Go to the agency at that address, not to a middleman's office <sup>[81](#o81), [1](#o1)</sup>.
-   4. Check the demand letter, contract, job details, salary and migration cost <sup>[19](#o19)</sup> against the permission letter (item 6).
+   4. Check the demand letter, contract, job details, salary and migration cost <sup>[19](#o19)</sup> against the permission letter ([Step 1, item 6: Find and check the permission letter for your job](#step-1-find-a-real-job-item-6)).
 
-   **What happens in practice:** being on both lists does not stop overcharging or ghost jobs ([Background](#background), "What you pay" and "Which employer"; item 5, "The trap") <sup>[N114 (2024)](#n114), [N6](#n6)</sup>. Some workers arrive with valid work permits to find no job ([After you arrive, item 1: Wait for your employer at the airport](#after-you-arrive-item-1)) <sup>[N115](#n115), [N93](#n93)</sup>.
+   **What happens in practice:** being on both lists does not stop overcharging or ghost jobs (see [What you pay, and what you earn and keep](#what-you-pay-and-what-you-earn-and-keep); see [Which employer](#which-employer); [Step 1, item 5: Or through a relative or friend in Malaysia](#step-1-find-a-real-job-item-5), "The trap") <sup>[N114 (2024)](#n114), [N6](#n6)</sup>. Some workers arrive with valid work permits to find no job ([After you arrive, item 1: Wait for your employer at the airport](#after-you-arrive-item-1)) <sup>[N115](#n115), [N93](#n93)</sup>.
 
-   **Which agencies.** Only BOESL and the 25 processing agencies can process the calling visa and e-visa; the 312 associates cannot send workers directly ([Background](#background), "The processing agency: the toll gate") <sup>[10](#o10), [26](#o26), [N3](#n3)</sup>. From January 2004 to 23 August 2026 only eight of the 25 sent workers to Malaysia, 1,612 between them; the other 17 sent none <sup>[N3](#n3)</sup>. FWCMS and OEP give different addresses for several of the 25, including these; check the RL number on OEP <sup>[26](#o26), [81](#o81)</sup>:
+   **Which agencies.** Only BOESL and the 25 processing agencies can process the calling visa and e-visa; the 312 associates cannot send workers directly (see [The processing agency: the toll gate](#the-processing-agency-the-toll-gate)) <sup>[10](#o10), [26](#o26), [N3](#n3)</sup>. From January 2004 to 23 August 2026 only eight of the 25 sent workers to Malaysia, 1,612 between them; the other 17 sent none <sup>[N3](#n3)</sup>. FWCMS and OEP give different addresses for several of the 25, including these; check the RL number on OEP <sup>[26](#o26), [81](#o81)</sup>:
 
    - Rifa International: Banani on FWCMS, Purana Paltan on OEP;
    - The Anchor Care: Savar DOHS on FWCMS, Dhamrai on OEP;
@@ -610,16 +611,16 @@ How the job order passes from the employer through the agencies to you is in Bac
 
    - RS International (RL1428, under The Anchor Care): cancelled on 1 June 2026 over allegedly sending 30 young men to Russia's war front or risky work <sup>[26](#o26), [81](#o81), [N118](#n118)</sup>;
    - T S Overseas (RL1755, under Country Employment Agency): cancelled on 1 June 2026 over the same allegation <sup>[26](#o26), [81](#o81), [N118](#n118)</sup>;
-   - Triple A Overseas (RL2630, under BOESL): suspended; see "Before paying" <sup>[26](#o26), [81](#o81)</sup>.
+   - Triple A Overseas (RL2630, under BOESL): suspended; see [Step 1: Find a real job](#step-1-find-a-real-job), "Before paying" <sup>[26](#o26), [81](#o81)</sup>.
 
    Bangladesh has no official grading of agencies; the state minister says he could not confidently recommend one <sup>[N119](#n119)</sup>. Every licensed agency's record, including the 2022-24 syndicate agencies and their cases, is in the `agencies` folder.
 
    > **Need to know**
    > - Which agencies place Bangladeshis in the promised job at a fair cost?
 
-5. <a id="step-1-find-a-real-job-item-5"></a>**Or through a relative or friend in Malaysia.** A relative can find you the job, but he can't send you himself. His employer applies for a visa in your name, with your passport copy and photo <sup>[7](#o7)</sup>; the trade calls this an "own visa" (নিজস্ব ভিসা). The recruiting agency and the processing agency (item 4) still handle it: the recruiting agency holds the demand letter, must pick you from BMET's database and gets your BMET clearance under its own licence; the processing agency (item 4) does the calling visa and e-visa and gives the recruiting agency a no-objection certificate <sup>[29](#o29), [10](#o10)</sup>. Employers can't name an associate agency as the approved agency, though they were reported in September 2026 to be getting the right to name the agency of their choice <sup>[N3](#n3), [N6](#n6)</sup>. In 2022-24 an agency outside the list running a named worker's case had to hold his power of attorney while a listed agency did the "visa handling" <sup>[N120 (2024)](#n120)</sup>.
+5. <a id="step-1-find-a-real-job-item-5"></a>**Or through a relative or friend in Malaysia.** A relative can find you the job, but he can't send you himself. His employer applies for a visa in your name, with your passport copy and photo <sup>[7](#o7)</sup>; the trade calls this an "own visa" (নিজস্ব ভিসা). The recruiting agency and the processing agency ([Step 1, item 4: Or go through a private agency](#step-1-find-a-real-job-item-4)) still handle it: the recruiting agency holds the demand letter, must pick you from BMET's database and gets your BMET clearance under its own licence; the processing agency ([Step 1, item 4: Or go through a private agency](#step-1-find-a-real-job-item-4)) does the calling visa and e-visa and gives the recruiting agency a no-objection certificate <sup>[29](#o29), [10](#o10)</sup>. Employers can't name an associate agency as the approved agency, though they were reported in September 2026 to be getting the right to name the agency of their choice <sup>[N3](#n3), [N6](#n6)</sup>. In 2022-24 an agency outside the list running a named worker's case had to hold his power of attorney while a listed agency did the "visa handling" <sup>[N120 (2024)](#n120)</sup>.
 
-   **Check you fit.** The age and sector rules above apply, and the job must be in a sector the employer's own quota covers <sup>[5](#o5)</sup>. New quotas were frozen from March 2023, and the High Commission began attesting new demand letters again only in October 2026 <sup>[N121 (2024)](#n121), [N117](#n117)</sup>.
+   **Check you fit.** The age and sector rules (see [Who qualifies](#who-qualifies)) apply, and the job must be in a sector the employer's own quota covers <sup>[5](#o5)</sup>. New quotas were frozen from March 2023, and the High Commission began attesting new demand letters again only in October 2026 <sup>[N121 (2024)](#n121), [N117](#n117)</sup>.
 
    You'll need:
 
@@ -629,14 +630,14 @@ How the job order passes from the employer through the agencies to you is in Bac
    - the names and RL numbers of both agencies;
    - a photocopy of the attested demand letter <sup>[81](#o81), [N44](#n44)</sup>.
 
-   1. **Check the relative's own employer.** The i-Kad (foreign worker identity card) must be carried at all times, so he has it <sup>[82](#o82)</sup>. The employer on it should be the company he says he works for and the employer on your offer. Some legal workers are on an outsourcing company's books and moved between client companies, or made to work informally for other firms, and only find out after arriving <sup>[7](#o7), [N42 (2023)](#n42)</sup>. Have the relative buy the employer's SSM Company Profile (RM15.40, item 7) and photograph the business at the address it gives <sup>[49](#o49), [83](#o83)</sup>.
+   1. **Check the relative's own employer.** The i-Kad (foreign worker identity card) must be carried at all times, so he has it <sup>[82](#o82)</sup>. The employer on it should be the company he says he works for and the employer on your offer. Some legal workers are on an outsourcing company's books and moved between client companies, or made to work informally for other firms, and only find out after arriving <sup>[7](#o7), [N42 (2023)](#n42)</sup>. Have the relative buy the employer's SSM Company Profile (RM15.40, [Step 1, item 7: Check the employer exists](#step-1-find-a-real-job-item-7)) and photograph the business at the address it gives <sup>[49](#o49), [83](#o83)</sup>.
 
       > **Need to know**
       > - Do the i-Kad and PLKS sticker print the employer's name?
 
-   2. **Register in BMET's database** on OEP and give your fingerprints at a DEMO, as in item 1; the fee is Tk 200 <sup>[67](#o67), [2](#o2), [84 (2022)](#o84)</sup>.
-   3. **Check both agencies.** Find each on the FWCMS list and check its RL number shows Active on OEP (item 4) <sup>[26](#o26), [81](#o81)</sup>. Ask whose name is on your power of attorney; the agency must hand it and the demand letter to BMET before clearance <sup>[N120 (2024)](#n120), [29](#o29)</sup>.
-   4. **Have the demand letter checked.** The agency keeps the original, which covers a batch of workers <sup>[29](#o29), [N117](#n117)</sup>. Ask for a photocopy showing the High Commission's attestation stamp, the employer, the number of workers and the agency it is addressed to; no unattested demand letter is accepted <sup>[N44](#n44)</sup>. Take it with the RL number to your DEMO or BMET, 89/2 Kakrail, Dhaka: the check is free, by hand (Malaysia is not on BMET's online visa check) and takes 3 working days <sup>[19](#o19), [1](#o1)</sup>. Ask the agency for a copy of the permission letter too and have its number checked at the same counter (item 6) <sup>[85](#o85)</sup>.
+   2. **Register in BMET's database** on OEP and give your fingerprints at a DEMO, as in [Step 1, item 1: Register on the Overseas Employment Platform (OEP)](#step-1-find-a-real-job-item-1); the fee is Tk 200 <sup>[67](#o67), [2](#o2), [84 (2022)](#o84)</sup>.
+   3. **Check both agencies.** Find each on the FWCMS list and check its RL number shows Active on OEP ([Step 1, item 4: Or go through a private agency](#step-1-find-a-real-job-item-4)) <sup>[26](#o26), [81](#o81)</sup>. Ask whose name is on your power of attorney; the agency must hand it and the demand letter to BMET before clearance <sup>[N120 (2024)](#n120), [29](#o29)</sup>.
+   4. **Have the demand letter checked.** The agency keeps the original, which covers a batch of workers <sup>[29](#o29), [N117](#n117)</sup>. Ask for a photocopy showing the High Commission's attestation stamp, the employer, the number of workers and the agency it is addressed to; no unattested demand letter is accepted <sup>[N44](#n44)</sup>. Take it with the RL number to your DEMO or BMET, 89/2 Kakrail, Dhaka: the check is free, by hand (Malaysia is not on BMET's online visa check) and takes 3 working days <sup>[19](#o19), [1](#o1)</sup>. Ask the agency for a copy of the permission letter too and have its number checked at the same counter ([Step 1, item 6: Find and check the permission letter for your job](#step-1-find-a-real-job-item-6)) <sup>[85](#o85)</sup>.
    5. **Wait for LULUS on MyIMMs.** Have the relative get the employer's company registration number and the application number, and check the status ([Step 3, item 2: Track the approval](#step-3-the-employer-gets-your-visa-approval-vdr-item-2)) <sup>[86](#o86)</sup>. If he can't or won't get them, stop. Only the employer or its own appointed representative may deal with Immigration, and using an agent is an offence, so a relative who says he or "his agent" is handling Immigration is not describing the real process <sup>[87 (2021)](#o87)</sup>.
    6. **Don't hand over your passport ("submitting the book", বই জমা) or pay for a medical before the visa papers exist.** Brokers and agencies have taken passports and money with a promise of the medical; the Ministry says hand neither over without confirming approval <sup>[N123](#n123), [12](#o12), [N124](#n124)</sup>. The agency takes the VDR (calling visa) papers to the medical centre <sup>[N123](#n123)</sup>. The medical is Tk 8,000 and no more, at any FWCMS-listed centre you choose; no centre belongs to an agency, and the MiGRAMS slip is free <sup>[N125](#n125), [26](#o26)</sup>.
    7. **Pay in stages, against proof.**
@@ -649,7 +650,7 @@ How the job order passes from the employer through the agencies to you is in Bac
 
         For every payment, get a dated note signed by the relative, with the amount and what it is for, and a witness's signature; a village court hears only claims backed by a receipt or other document, and without one a BMET complaint rests on your word <sup>[N126](#n126), [N94 (2024)](#n94)</sup>. Pay by bank transfer or mobile banking to his account in Bangladesh, never by hundi, which is illegal and leaves no record <sup>[N77 (2022)](#n77), [19](#o19), [N126](#n126)</sup>.
 
-   **What it costs.** The cap, the market price and where the money goes are in Background ("What you pay"). If the employer's agency is not one of the 25, one of them takes a fee on top, alleged at RM5,500 (about Tk 1.68 lakh) in 2026 <sup>[N3](#n3)</sup>.
+   **What it costs.** The cap, the market price and where the money goes are in Background (see [What you pay, and what you earn and keep](#what-you-pay-and-what-you-earn-and-keep)). If the employer's agency is not one of the 25, one of them takes a fee on top, alleged at RM5,500 (about Tk 1.68 lakh) in 2026 <sup>[N3](#n3)</sup>.
 
    > **Need to know**
    > - What does a relative in Malaysia charge in 2026 for a place on his employer's quota?
@@ -666,9 +667,9 @@ How the job order passes from the employer through the agencies to you is in Bac
    7. BMET clears you in 3 working days <sup>[1](#o1)</sup>.
    8. The flight, paid by the employer <sup>[37 (2024)](#o37)</sup>.
 
-   These times are the fastest possible, not promises; delays raise the price ([Background](#background), "How it is paid") <sup>[N60](#n60)</sup>.
+   These times are the fastest possible, not promises; delays raise the price (see [How it is paid](#how-it-is-paid)) <sup>[N60](#n60)</sup>.
 
-   **What you get back** (Steps 3 and 6) <sup>[86](#o86), [51](#o51), [10](#o10)</sup>:
+   **What you get back** ([Step 3: The employer gets your visa approval (VDR)](#step-3-the-employer-gets-your-visa-approval-vdr); [Step 6: Orientation, BMET clearance and the flight](#step-6-orientation-bmet-clearance-and-the-flight)) <sup>[86](#o86), [51](#o51), [10](#o10)</sup>:
 
    - a calling visa (VDR) in your name for the named employer, shown as LULUS (approved) on MyIMMs;
    - the visa issued in Dhaka;
@@ -677,7 +678,7 @@ How the job order passes from the employer through the agencies to you is in Bac
    **The trap.**
    - *Resold on arrival.* Thirty-six men who went with a contract naming their employer were each "sold" to another company for about Tk 2 lakh, at under half the promised pay <sup>[N127 (2024)](#n127)</sup>.
    - *A-to-B (এটুবি) without telling you.* An A-to-B, "free" or "agent" visa means the company that brings you gives you no work <sup>[N124](#n124)</sup>. Agents put new workers on one without saying so, and a worker can't tell it from a direct-company visa <sup>[N124](#n124)</sup>. Working for anyone but the employer that applied is illegal <sup>[5](#o5)</sup>.
-   - *The free visa (ফ্রি ভিসা).* What it is and what it costs are in Background (["Company visa, agent visa, free visa"](#company-visa-agent-visa-free-visa)). A "renewal" through an agent can be a fake PLKS sticker: one ring sold them for RM5,000 to 6,000 <sup>[N91 (2023)](#n91)</sup>. Getting a pass by a false statement or holding a forged one is an offence <sup>[39 (2006)](#o39)</sup>. When renewals stop, you are undocumented: detained, deported at your own or your family's cost, and blacklisted from Malaysia, usually for 1 to 5 years, with your biometrics on file <sup>[N128 (2017)](#n128), [N87 (2022)](#n87), [N108](#n108)</sup>.
+   - *The free visa (ফ্রি ভিসা).* What it is and what it costs are in Background (see [Company visa, agent visa, free visa](#company-visa-agent-visa-free-visa)). A "renewal" through an agent can be a fake PLKS sticker: one ring sold them for RM5,000 to 6,000 <sup>[N91 (2023)](#n91)</sup>. Getting a pass by a false statement or holding a forged one is an offence <sup>[39 (2006)](#o39)</sup>. When renewals stop, you are undocumented: detained, deported at your own or your family's cost, and blacklisted from Malaysia, usually for 1 to 5 years, with your biometrics on file <sup>[N128 (2017)](#n128), [N87 (2022)](#n87), [N108](#n108)</sup>.
    - *Passports held for ransom.* On arrival, agency people have taken passports "for the visa" and asked Tk 70,000 to 1 lakh to return them <sup>[N127 (2024)](#n127)</sup>. What the employer may do with your passport, and the penalty, are in [After you arrive, item 4: Keep your own passport](#after-you-arrive-item-4). In Bangladesh, anyone keeping a migrant's passport without lawful reason commits an offence under the 2013 Act <sup>[89 (2023)](#o89)</sup>.
 
    **After you land.** If you fail the FOMEMA medical (Malaysia's foreign worker health check) within 30 days, the employer sends you home on a Check Out Memo ([After you arrive, item 2: FOMEMA medical within 30 days](#after-you-arrive-item-2)) <sup>[24](#o24)</sup>, so put in the relative's signed note what he repays if that happens.
@@ -685,16 +686,16 @@ How the job order passes from the employer through the agencies to you is in Bac
    **If it fails.** Taking money on a false promise of a job abroad is a crime in Bangladesh for anyone, relatives included: up to 5 years' jail and a fine of at least Tk 1 lakh, tried by a magistrate <sup>[89 (2023)](#o89)</sup>. The Tk 3 lakh security that compensates workers covers only a sub-agent registered with BMET, not a relative <sup>[28](#o28)</sup>. Where to go:
 
    - BMET's online form, against a named person: it accepts "a person" and takes receipts and recordings as evidence <sup>[90](#o90)</sup>.
-   - The Ministry ("If an agency or broker takes your money"); the 2013 Act requires an investigation within 30 working days <sup>[89 (2023)](#o89)</sup>.
+   - The Ministry (see [If an agency or broker takes your money, item 3: Or complain straight to the Ministry](#if-an-agency-or-broker-takes-your-money-item-3)); the 2013 Act requires an investigation within 30 working days <sup>[89 (2023)](#o89)</sup>.
    - A civil suit for compensation, which the 2013 Act allows above the village court's Tk 3 lakh limit <sup>[N126](#n126), [89 (2023)](#o89)</sup>.
-   - Free legal advice and the village court: "If an agency or broker takes your money", item 4.
+   - Free legal advice and the village court (see [If an agency or broker takes your money, item 4: Courts and NGOs](#if-an-agency-or-broker-takes-your-money-item-4)).
 
    If you land and there is no job, see [After you arrive, item 1: Wait for your employer at the airport](#after-you-arrive-item-1).
 
    > **Need to know**
    > - How has a Bangladeshi court or BMET enforced an order against a relative who lives in Malaysia?
 
-   **The zero-cost alternative** is BOESL's circulars (item 3) <sup>[14](#o14), [91](#o91)</sup>. Malaysia's own direct-hiring platform, TURAP, was approved by its Cabinet in April 2026 but has not launched <sup>[N129](#n129)</sup>.
+   **The zero-cost alternative** is BOESL's circulars ([Step 1, item 3: Apply for government (BOESL) jobs](#step-1-find-a-real-job-item-3)) <sup>[14](#o14), [91](#o91)</sup>. Malaysia's own direct-hiring platform, TURAP, was approved by its Cabinet in April 2026 but has not launched <sup>[N129](#n129)</sup>.
 
    > **Need to know**
    > - Will BMET clear a worker named by the employer whom the recruiting agency did not find itself?
@@ -710,7 +711,7 @@ How the job order passes from the employer through the agencies to you is in Bac
    1. Open [bmet.gov.bd/pages/miscellaneous-infos](https://bmet.gov.bd/pages/miscellaneous-infos) and search "Malaysia" (or মালয়েশিয়া) <sup>[92](#o92)</sup>.
    2. Open the entry with your agency's RL number; titles give the letter number and RL number, like "DN25-225 RL1274" <sup>[92](#o92)</sup>.
    3. Compare its employer, salary and maximum fee with what the agency told you <sup>[29](#o29), [93 (2024)](#o93), [94](#o94)</sup>. Its English "Recruitment Permission Letter" page shows a permission ID, the block visa number (Malaysia's approval reference for the group of visas), the visa issue date and the employer's name and city; check they match your visa and demand letter <sup>[29](#o29), [95 (2023)](#o95)</sup>.
-   4. Take the demand letter or visa (if stamped, with a copy of the passport page) to your DEMO or BMET's head office, 89/2 Kakrail, Dhaka-1000; BMET checks it free within 3 working days <sup>[19](#o19), [1](#o1), [96 (2021)](#o96)</sup>. If it is fake, complain as under "If an agency or broker takes your money" below.
+   4. Take the demand letter or visa (if stamped, with a copy of the passport page) to your DEMO or BMET's head office, 89/2 Kakrail, Dhaka-1000; BMET checks it free within 3 working days <sup>[19](#o19), [1](#o1), [96 (2021)](#o96)</sup>. If it is fake, complain as under [Step 1: Find a real job](#step-1-find-a-real-job), "If an agency or broker takes your money".
 
    As of 7 November 2026, BMET's list had no Malaysia permission letter from the 2026 reopening; the newest was dated 27 February 2025 <sup>[85](#o85)</sup>.
 
@@ -739,7 +740,7 @@ How the job order passes from the employer through the agencies to you is in Bac
 
 **Before paying:**
 
-- **Know what you should pay.** The Ministry's last Malaysia cap, Tk 78,990, covered everything the worker pays in Bangladesh (passport, medical, registration, welfare fee, insurance, smart card, pre-departure training, clothing, agency service charge and other costs); the employer paid the security deposit, pass, insurance and air tickets <sup>[8 (2022)](#o8)</sup>. Your job's permission letter states its maximum, in some letters nothing <sup>[92](#o92), [30 (2024)](#o30)</sup>. The agency must display in writing at its office the migration cost fixed for your destination and the monthly wage <sup>[28](#o28)</sup>; compare both with your permission letter (item 6).
+- **Know what you should pay.** The Ministry's last Malaysia cap, Tk 78,990, covered everything the worker pays in Bangladesh (passport, medical, registration, welfare fee, insurance, smart card, pre-departure training, clothing, agency service charge and other costs); the employer paid the security deposit, pass, insurance and air tickets <sup>[8 (2022)](#o8)</sup>. Your job's permission letter states its maximum, in some letters nothing <sup>[92](#o92), [30 (2024)](#o30)</sup>. The agency must display in writing at its office the migration cost fixed for your destination and the monthly wage <sup>[28](#o28)</sup>; compare both with your permission letter ([Step 1, item 6: Find and check the permission letter for your job](#step-1-find-a-real-job-item-6)).
 - **Pay only by cheque, bank draft or pay order into the agency's own bank account, and keep every receipt** <sup>[29](#o29), [19](#o19)</sup>. Agencies and middlemen have started collecting passports from people who want to go <sup>[N2](#n2)</sup>; on 10 September 2026 a BMET mobile court sealed Triple A Overseas (RL-2630), fined it Tk 50,000 and seized passports it had collected with promises of Malaysian visas <sup>[N130](#n130)</sup>. The Ministry has warned against paying anything before the Malaysia process is finalised, or handing over a passport or money without confirming approval <sup>[N3](#n3), [12](#o12)</sup>.
 - **If a local broker brings you the job.** An agency may use only a sub-agent registered with BMET, and must list its registered sub-agents on its own website <sup>[27 (2023)](#o27), [28](#o28)</sup>. A registered sub-agent has an office with a signboard showing his name, registration number and date and the agency's name and licence number, and his BMET registration certificate on display inside <sup>[28](#o28)</sup>. The agency and the sub-agent are both liable for what he does, and a worker cheated by a sub-agent is compensated from the Tk 3 lakh security he lodges with the agency <sup>[28](#o28)</sup>.
 
@@ -783,9 +784,11 @@ How the job order passes from the employer through the agencies to you is in Bac
   > - Is the BMET card, which comes with emigration clearance, needed before PKB approves the loan <sup>[19](#o19)</sup>?
   > - What can a worker do if PKB refuses the loan?
 
-**If an agency or broker takes your money and doesn't send you, or sends you to a different job:**
+#### If an agency or broker takes your money
 
-1. **Complain to BMET.** It takes complaints from people cheated before going, after going or after coming back; it is free and meant to be settled within 30 working days <sup>[1](#o1)</sup>.
+**If it doesn't send you, or sends you to a different job:**
+
+1. <a id="if-an-agency-or-broker-takes-your-money-item-1"></a>**Complain to BMET.** It takes complaints from people cheated before going, after going or after coming back; it is free and meant to be settled within 30 working days <sup>[1](#o1)</sup>.
 
    You'll need:
 
@@ -805,7 +808,7 @@ How the job order passes from the employer through the agencies to you is in Bac
 
    **What happens in practice:** it usually takes 4 months to a year <sup>[N94 (2024)](#n94)</sup>, and workers with full documents get more back <sup>[N94 (2024)](#n94)</sup>. Awards are small: in August 2023 the average was about Tk 74,000 against Tk 3.5 to 5 lakh paid <sup>[N94 (2024)](#n94)</sup>. Workers who paid middlemen with no written agreement have only their testimony, passport and BMET card to show <sup>[N94 (2024)](#n94)</sup>. A complaint proved against a registered sub-agent can cost him his registration <sup>[28](#o28)</sup>.
 
-2. **If BMET does not settle it,** go up the ladder.
+2. <a id="if-an-agency-or-broker-takes-your-money-item-2"></a>**If BMET does not settle it,** go up the ladder.
 
    You'll need <sup>[48 (2024)](#o48), [1](#o1)</sup>:
 
@@ -816,7 +819,7 @@ How the job order passes from the employer through the agencies to you is in Bac
    2. Then write to the Ministry's Secretary, secretary@probashi.gov.bd, who has 1 month <sup>[1](#o1)</sup>.
    3. Then file on the Cabinet Division's Grievance Redress System at [grs.gov.bd](https://www.grs.gov.bd/), which has 3 months <sup>[1](#o1)</sup>.
 
-3. **Or complain straight to the Ministry.** It is free; action starts within 3 to 5 working days, both sides are heard, and it is meant to be settled within 30 working days <sup>[100](#o100)</sup>.
+3. <a id="if-an-agency-or-broker-takes-your-money-item-3"></a>**Or complain straight to the Ministry.** It is free; action starts within 3 to 5 working days, both sides are heard, and it is meant to be settled within 30 working days <sup>[100](#o100)</sup>.
 
    You'll need <sup>[100](#o100)</sup>:
 
@@ -829,7 +832,7 @@ How the job order passes from the employer through the agencies to you is in Bac
 
    The branch also holds mobile courts (on-the-spot courts under the Overseas Employment and Migrants Act 2013) on its own initiative, free, within 7 working days, giving immediate remedies to people cheated before or after going <sup>[100](#o100)</sup>. For advice, call the 24-hour migrant call centre, 16135 (+880 9610102030 from abroad) <sup>[76](#o76)</sup>.
 
-4. **Courts and NGOs.** You can go to court alongside a BMET complaint, but many workers can't keep a case going without money or legal aid <sup>[N126](#n126)</sup>; with NGO legal help, some have sued agents or brokers under the 2013 Act <sup>[N94 (2024)](#n94)</sup>, which since a 2024 amendment also covers sub-agents and other intermediaries <sup>[N131](#n131)</sup>.
+4. <a id="if-an-agency-or-broker-takes-your-money-item-4"></a>**Courts and NGOs.** You can go to court alongside a BMET complaint, but many workers can't keep a case going without money or legal aid <sup>[N126](#n126)</sup>; with NGO legal help, some have sued agents or brokers under the 2013 Act <sup>[N94 (2024)](#n94)</sup>, which since a 2024 amendment also covers sub-agents and other intermediaries <sup>[N131](#n131)</sup>.
 
    You'll need: the same papers as for the BMET complaint <sup>[N126](#n126)</sup>.
 
@@ -874,7 +877,7 @@ Every worker must pass a medical check (the "Bio-Medical") at a Bangladesh centr
 
    1. Email the Ministry at secretary@probashi.gov.bd with the date, place, names of the people or centre, and evidence (receipt, photos, messages) <sup>[12](#o12), [31](#o31)</sup>. For example: "To the Secretary, Ministry of Expatriates' Welfare and Overseas Employment. On [date], [centre, address] charged me Tk [amount] for my Malaysia medical, against the fixed Tk 8,000. My agency is [name, RL number]. Receipt attached. Please take action and return the extra money. [Name, phone, NID]." <sup>[31](#o31)</sup>
    2. Send the same to the Ministry's enforcement branch, sasenforcement@probashi.gov.bd, 02-41030255, with your full address and the agency's RL number and address; free, action within 3 to 5 working days, settled within 30, and it also runs mobile courts ([Step 1: Find a real job](#step-1-find-a-real-job), "If an agency or broker takes your money", route 3) <sup>[100](#o100)</sup>.
-   3. If an agency is involved, also complain to BMET as in "If an agency or broker takes your money" ([Step 1: Find a real job](#step-1-find-a-real-job)) <sup>[1](#o1)</sup>.
+   3. If an agency is involved, also complain to BMET as in [Step 1: Find a real job](#step-1-find-a-real-job), "If an agency or broker takes your money" <sup>[1](#o1)</sup>.
    4. If a broker kept your passport, file an online GD (general diary) at [gd.police.gov.bd](https://gd.police.gov.bd/) ([Step 4: Passport, police clearance and certificates](#step-4-passport-police-clearance-and-certificates)) <sup>[104](#o104)</sup>.
    5. Call the 24-hour migrant call centre, 16135 (+880 9610102030 from abroad) <sup>[76](#o76)</sup>.
 
@@ -970,7 +973,7 @@ Every worker must pass a medical check (the "Bio-Medical") at a Bangladesh centr
 
 ### Step 5: Check the visa yourself
 
-1. <a id="step-5-check-the-visa-yourself-item-1"></a>**Agency, job, visa approval and the visa itself:** as in [Step 1: Find a real job](#step-1-find-a-real-job) (FWCMS list, OEP, the BMET permission letter, and BMET's free hand check of the visa at 89/2 Kakrail (02-49357972) or your DEMO, item 6) and [Step 3: The employer gets your visa approval (VDR)](#step-3-the-employer-gets-your-visa-approval-vdr) (MyIMMs); BMET's online visa check doesn't cover Malaysia <sup>[26](#o26), [81](#o81), [92](#o92), [1](#o1), [96 (2021)](#o96), [86](#o86)</sup>.
+1. <a id="step-5-check-the-visa-yourself-item-1"></a>**Agency, job, visa approval and the visa itself:** as in [Step 1: Find a real job](#step-1-find-a-real-job) (FWCMS list, OEP, the BMET permission letter, and BMET's free hand check of the visa at 89/2 Kakrail (02-49357972) or your DEMO: [Step 1, item 6: Find and check the permission letter for your job](#step-1-find-a-real-job-item-6)) and [Step 3, item 2: Track the approval](#step-3-the-employer-gets-your-visa-approval-vdr-item-2) (MyIMMs); BMET's online visa check doesn't cover Malaysia <sup>[26](#o26), [81](#o81), [92](#o92), [1](#o1), [96 (2021)](#o96), [86](#o86)</sup>.
 2. <a id="step-5-check-the-visa-yourself-item-2"></a>**Your BMET clearance ([Step 6: Orientation, BMET clearance and the flight](#step-6-orientation-bmet-clearance-and-the-flight)):** at [portal.wewb.gov.bd/bmet-wewbm-check](https://portal.wewb.gov.bd/bmet-wewbm-check) <sup>[117](#o117)</sup>.
 3. <a id="step-5-check-the-visa-yourself-item-3"></a>**After arrival:** IMI's [ePass check](https://imigresen-online.imi.gov.my/eservices/checkEpassValid?semakan) shows name, nationality, pass type and expiry when you enter the ePass number (like EP141011C23105313148), passport number and nationality; "Pas Tidak Sah" means not valid <sup>[118](#o118)</sup>.
 
@@ -1050,13 +1053,13 @@ Every worker must pass a medical check (the "Bio-Medical") at a Bangladesh centr
 
    Leave one set of copies at home and carry 3, and have a bank account in your name and one in a family member's <sup>[19](#o19)</sup>. Keep money and papers in your cabin bag and the checked bag within 20 kg <sup>[122](#o122)</sup>. Never carry a packet whose contents you don't know <sup>[19](#o19)</sup>.
 
-6. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-6"></a>**Register the free MDAC (Malaysia Digital Arrival Card)** within 3 days before arrival (the day you submit counts) at [imigresen-online.imi.gov.my/mdac/main](https://imigresen-online.imi.gov.my/mdac/main); workers on a VDR are not exempt, and fake MDAC sites charge for it <sup>[4](#o4), [126](#o126), [N141](#n141), [127 (2024)](#o127), [128](#o128), [129](#o129)</sup>. Fill it in, check it and show it as in the tourist visa's [Step 4: Passport, police clearance and certificates](#step-4-passport-police-clearance-and-certificates).
+6. <a id="step-6-orientation-bmet-clearance-and-the-flight-item-6"></a>**Register the free MDAC (Malaysia Digital Arrival Card)** within 3 days before arrival (the day you submit counts) at [imigresen-online.imi.gov.my/mdac/main](https://imigresen-online.imi.gov.my/mdac/main); workers on a VDR are not exempt, and fake MDAC sites charge for it <sup>[4](#o4), [126](#o126), [N141](#n141), [127 (2024)](#o127), [128](#o128), [129](#o129)</sup>. Fill it in, check it and show it as in [Tourist visa, Step 4: Fill in the Malaysia Digital Arrival Card (MDAC)](#step-4-fill-in-the-malaysia-digital-arrival-card-mdac).
 
 ### Scams
 
 #### Done to workers
 
-Complain in Bangladesh as under "If an agency or broker takes your money" ([Step 1: Find a real job](#step-1-find-a-real-job)), and in Malaysia to the labour wing by email <sup>[130](#o130)</sup>.
+Complain in Bangladesh as under [Step 1: Find a real job](#step-1-find-a-real-job), "If an agency or broker takes your money", and in Malaysia to the labour wing by email <sup>[130](#o130)</sup>.
 
 - **Social media posts on Malaysia-approved agencies** have been false <sup>[54](#o54)</sup>; check the FWCMS list instead ([Step 1, item 4: Or go through a private agency](#step-1-find-a-real-job-item-4)) <sup>[26](#o26)</sup>.
 - **The fee video.** Agencies make workers record a video at their Dhaka office saying they paid only the official fee when they paid far more <sup>[N61](#n61)</sup>; keep your own proof of every payment <sup>[N126](#n126)</sup>.
@@ -1066,7 +1069,7 @@ Complain in Bangladesh as under "If an agency or broker takes your money" ([Step
 
 #### Tried by workers
 
-Forged visas, passes and passports carry jail and caning ([What can get you jailed](#what-can-get-you-jailed-or-deported)), including passports bought to resit a failed FOMEMA medical <sup>[55](#o55), [N143](#n143), [N144](#n144)</sup>.
+Forged visas, passes and passports carry jail and caning (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)), including passports bought to resit a failed FOMEMA medical <sup>[55](#o55), [N143](#n143), [N144](#n144)</sup>.
 
 ### After you arrive
 
@@ -1077,7 +1080,7 @@ Forged visas, passes and passports carry jail and caning ([What can get you jail
 
    Also call 16135 (+880 9610102030 from abroad) <sup>[76](#o76)</sup>.
 
-   **If there is no job.** Don't take other work, which ends the pass ([What can get you jailed](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39)</sup>; file at the Labour Office ([If you aren't paid](#if-you-arent-paid), route 3) and get free help (route 4). In one case of 161 Bangladeshis left without work or pay for seven months, the Labour Department told the employer to pay wages owed since arrival and either send the workers home or help them find new employers <sup>[N38 (2024)](#n38)</sup>. In December 2023, 171 Bangladeshis were arrested in Kota Tinggi, Johor, when they went to the police to report their agent <sup>[N37 (2023)](#n37)</sup>.
+   **If there is no job.** Don't take other work, which ends the pass (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39)</sup>; file at the Labour Office ([If you aren't paid](#if-you-arent-paid), route 3) and get free help (see [Free help in Malaysia](#free-help-in-malaysia)). In one case of 161 Bangladeshis left without work or pay for seven months, the Labour Department told the employer to pay wages owed since arrival and either send the workers home or help them find new employers <sup>[N38 (2024)](#n38)</sup>. In December 2023, 171 Bangladeshis were arrested in Kota Tinggi, Johor, when they went to the police to report their agent <sup>[N37 (2023)](#n37)</sup>.
 
    > **Need to know**
    > - Can a worker whose pass was never issued report to the police without being arrested?
@@ -1087,10 +1090,10 @@ Forged visas, passes and passports carry jail and caning ([What can get you jail
    **If the employer hasn't taken you within 30 days:** without a FOMEMA fit result there is no work pass (PLKS) <sup>[5](#o5)</sup>. Then:
 
    - complain to the Labour Department (WFW app or 03-8000 8000) <sup>[105](#o105), [106](#o106), [97 (2017)](#o97)</sup>;
-   - tell the labour wing (item 1) <sup>[107](#o107)</sup>;
+   - tell the labour wing ([After you arrive, item 1: Wait for your employer at the airport](#after-you-arrive-item-1)) <sup>[107](#o107)</sup>;
    - call 16135 <sup>[76](#o76)</sup>.
 
-   **If you are found unfit:** no PLKS. You are sent home with a Check-Out Memo (the employer's application for a foreign worker to leave), and the employer pays the fare <sup>[5](#o5), [7](#o7), [37 (2024)](#o37)</sup>. Only the employer or agency can appeal, for a fee, on portal.fomema.my within 2 weeks; the case closes if extra test results don't arrive within 4 weeks <sup>[137](#o137)</sup>. Confirmed tuberculosis, malaria, pregnancy, syphilis, HIV and hepatitis B can't be appealed <sup>[137](#o137)</sup>. Ask the employer in writing to appeal, and tell the labour wing <sup>[107](#o107)</sup>. Using a false passport to sit FOMEMA again carries 2 to 10 years' jail ([What can get you jailed](#what-can-get-you-jailed-or-deported)) <sup>[55](#o55)</sup>.
+   **If you are found unfit:** no PLKS. You are sent home with a Check-Out Memo (the employer's application for a foreign worker to leave), and the employer pays the fare <sup>[5](#o5), [7](#o7), [37 (2024)](#o37)</sup>. Only the employer or agency can appeal, for a fee, on portal.fomema.my within 2 weeks; the case closes if extra test results don't arrive within 4 weeks <sup>[137](#o137)</sup>. Confirmed tuberculosis, malaria, pregnancy, syphilis, HIV and hepatitis B can't be appealed <sup>[137](#o137)</sup>. Ask the employer in writing to appeal, and tell the labour wing <sup>[107](#o107)</sup>. Using a false passport to sit FOMEMA again carries 2 to 10 years' jail (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[55](#o55)</sup>.
 
 3. <a id="after-you-arrive-item-3"></a>**PLKS sticker and i-Kad.** The sticker is printed once IMI approves your PLKS and the employer pays (CETAK on MyIMMs) <sup>[86](#o86)</sup>. Every PLKS holder gets an i-Kad (foreign worker identity card), free and without applying; the employer collects it from Immigration 7 days after IMI's email <sup>[82](#o82)</sup>. Carry it always and show it when asked <sup>[82](#o82)</sup>. If you don't get it, complain to the Labour Department (WFW app or 03-8000 8000), then the labour wing <sup>[105](#o105), [106](#o106), [97 (2017)](#o97), [107](#o107)</sup>.
 
@@ -1160,11 +1163,11 @@ Employer housing, under Act 446 (the Employees' Minimum Standards of Housing, Ac
 
 #### Your passport
 
-The employer may not keep it ([After you arrive, item 4: Keep your own passport](#after-you-arrive-item-4)) <sup>[40 (2022)](#o40), [44 (1997)](#o44)</sup>; if it is kept, you can also complain to SUHAKAM (the Human Rights Commission of Malaysia, If you aren't paid, route 4) <sup>[151](#o151)</sup>.
+The employer may not keep it ([After you arrive, item 4: Keep your own passport](#after-you-arrive-item-4)) <sup>[40 (2022)](#o40), [44 (1997)](#o44)</sup>; if it is kept, you can also complain to SUHAKAM (the Human Rights Commission of Malaysia; see [Free help in Malaysia](#free-help-in-malaysia)) <sup>[151](#o151)</sup>.
 
 #### End-of-service pay
 
-EPF (the retirement fund, [After you arrive, item 7: Social security, insurance and the retirement fund](#after-you-arrive-item-7)): the employer pays 2% of your wage and deducts 2% from you, by the 15th of the next month, and you withdraw it all when you leave for good ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[34](#o34), [145](#o145)</sup>. PERKESO (social security, [After you arrive, item 7: Social security, insurance and the retirement fund](#after-you-arrive-item-7)) also pays invalidity and survivors' pensions ([If a worker dies](#if-a-worker-dies), is injured or loses the job) <sup>[35](#o35)</sup>. Bangladesh's Probash pension is open to Bangladeshis aged 18 to 50 working abroad <sup>[152](#o152)</sup>.
+EPF (the retirement fund, [After you arrive, item 7: Social security, insurance and the retirement fund](#after-you-arrive-item-7)): the employer pays 2% of your wage and deducts 2% from you, by the 15th of the next month, and you withdraw it all when you leave for good ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[34](#o34), [145](#o145)</sup>. PERKESO (social security, [After you arrive, item 7: Social security, insurance and the retirement fund](#after-you-arrive-item-7)) also pays invalidity and survivors' pensions (see [If a worker dies, is injured or loses the job](#if-a-worker-dies-is-injured-or-loses-the-job)) <sup>[35](#o35)</sup>. Bangladesh's Probash pension is open to Bangladeshis aged 18 to 50 working abroad <sup>[152](#o152)</sup>.
 
 You'll need <sup>[152](#o152)</sup>:
 
@@ -1209,7 +1212,7 @@ The yearly PLKS renewal includes a multiple-entry visa for Bangladeshi workers, 
 
 #### Bringing your family
 
-PLKS workers can't bring family ([How long you can stay](#how-long-you-can-stay-and-renewing)) <sup>[5](#o5), [7](#o7)</sup>. See Family passes for professionals' routes and Having a child in Malaysia for registering a birth <sup>[156](#o156)</sup>.
+PLKS workers can't bring family (see [No family, marriage or permanent residence](#no-family-marriage-or-permanent-residence)) <sup>[5](#o5), [7](#o7)</sup>. For professionals' routes, see [Family passes](#family-passes); for registering a birth <sup>[156](#o156)</sup>, see [Having a child in Malaysia](#having-a-child-in-malaysia).
 
 PLKS workers can't bring family or marry in Malaysia ([Spouse of a Malaysian citizen](#spouse-of-a-malaysian-citizen)) <sup>[7](#o7)</sup>, and can't apply for permanent residence; PLKS years don't count toward it <sup>[157](#o157)</sup>.
 
@@ -1224,7 +1227,7 @@ The yearly FOMEMA medical includes a pregnancy test for women <sup>[132](#o132),
 > **Need to know**
 > - What happens to a worker who becomes pregnant between yearly medicals?
 
-A pregnant worker can't be dismissed except for wilful breach of contract, misconduct or closure of the business <sup>[149 (2024)](#o149), [148 (2022)](#o148)</sup>; for the work pass, see above.
+A pregnant worker can't be dismissed except for wilful breach of contract, misconduct or closure of the business <sup>[149 (2024)](#o149), [148 (2022)](#o148)</sup>, but confirmed pregnancy at the yearly FOMEMA medical still ends the work pass <sup>[137](#o137), [5](#o5)</sup>.
 
 ### What can get you jailed or deported
 
@@ -1234,7 +1237,7 @@ Entering illegally, or failing to show a valid passport and pass when asked: fin
 
 #### After arrest
 
-Someone whose pass has expired or been cancelled is removed whether or not prosecuted, held as long as removal takes, with no appeal <sup>[39 (2006)](#o39)</sup>. On entering an Immigration depot your biometrics are taken and you are blacklisted <sup>[N87 (2022)](#n87)</sup>. Depots have held more people than their capacity, and former detainees describe medical care denied or delayed <sup>[N106](#n106)</sup>. Family can call the High Commission's consular line, +603 2604 0949, or email the labour wing; its officials visit camps <sup>[125](#o125), [130](#o130), [N151](#n151)</sup>. For visiting a detainee and the flight home, see [Going home without valid papers](#going-home-without-valid-papers), If you are detained.
+Someone whose pass has expired or been cancelled is removed whether or not prosecuted, held as long as removal takes, with no appeal <sup>[39 (2006)](#o39)</sup>. On entering an Immigration depot your biometrics are taken and you are blacklisted <sup>[N87 (2022)](#n87)</sup>. Depots have held more people than their capacity, and former detainees describe medical care denied or delayed <sup>[N106](#n106)</sup>. Family can call the High Commission's consular line, +603 2604 0949, or email the labour wing; its officials visit camps <sup>[125](#o125), [130](#o130), [N151](#n151)</sup>. For visiting a detainee and the flight home, see [If you are detained](#if-you-are-detained).
 
 > **Need to know**
 > - Does Immigration's permission letter to visit a detainee cost anything?
@@ -1281,14 +1284,14 @@ What you get back: the complaint goes to the labour authorities, your identity i
 > - Does the WFW app work in Bangla?
 > - What can a worker do if a WFW complaint gets no response?
 
-**2. The High Commission's labour wing**, No 8, Lorong Yap Kwan Seng, 50450 Kuala Lumpur <sup>[125](#o125)</sup>. You'll need: the details on the route 5 checklist <sup>[100](#o100)</sup>.
+**2. The High Commission's labour wing**, No 8, Lorong Yap Kwan Seng, 50450 Kuala Lumpur <sup>[125](#o125)</sup>. You'll need: the details on the route 5 checklist ([Where to complain, in Malaysia and from Bangladesh](#where-to-complain-in-malaysia-and-from-bangladesh), route 5: Ministry of Expatriates' Welfare, Bangladesh) <sup>[100](#o100)</sup>.
 
 1. Email counselorkl@probashi.gov.bd, ss.lab.kl@gmail.com or fsl.bhc.kl@gmail.com, or call +601 2290 3252; a group can send one email <sup>[130](#o130), [107](#o107), [N154](#n154)</sup>.
-2. If it doesn't act, apply to the Ministry (route 5), which tells it to <sup>[100](#o100)</sup>.
+2. If it doesn't act, apply to the Ministry ([Where to complain, in Malaysia and from Bangladesh](#where-to-complain-in-malaysia-and-from-bangladesh), route 5: Ministry of Expatriates' Welfare, Bangladesh), which tells it to <sup>[100](#o100)</sup>.
 
 What happens: it calls the employer in, visits the workplace and attends Labour Department hearings, and takes ignored cases to the Ministry of Human Resources <sup>[N154](#n154), [N155 (2023)](#n155)</sup>.
 
-**In practice:** it recovered compensation on 2,857 claims in 2025 <sup>[N156](#n156)</sup>; other workers say complaints to it and the Labour Department brought nothing until a migrant rights group stepped in (route 4) <sup>[N157](#n157), [N70](#n70)</sup>.
+**In practice:** it recovered compensation on 2,857 claims in 2025 <sup>[N156](#n156)</sup>; other workers say complaints to it and the Labour Department brought nothing until a migrant rights group stepped in (see [Free help in Malaysia](#free-help-in-malaysia)) <sup>[N157](#n157), [N70](#n70)</sup>.
 
 > **Need to know**
 > - How long does the labour wing take to reply?
@@ -1399,7 +1402,7 @@ Send it free to the Welfare-1 branch: saswelfare@probashi.gov.bd, 02-41030251 <s
 
 What you get back: within 7 working days the Ministry asks the labour wing or the Wage Earners' Welfare Board to act, and tells you by letter <sup>[100](#o100)</sup>. Advice any time: 16135 in Bangladesh (free) or +880 9610102030 from abroad <sup>[76](#o76)</sup>.
 
-**Injured at work:** claim through PERKESO ([If a worker dies](#if-a-worker-dies), is injured or loses the job) <sup>[35](#o35)</sup>; to claim from the employer, file at the Labour Office with payslips, contract and attendance record, and copy the High Commission <sup>[131 (2024)](#o131)</sup>.
+**Injured at work:** claim through PERKESO (see [If a worker dies, is injured or loses the job](#if-a-worker-dies-is-injured-or-loses-the-job)) <sup>[35](#o35)</sup>; to claim from the employer, file at the Labour Office with payslips, contract and attendance record, and copy the High Commission <sup>[131 (2024)](#o131)</sup>.
 
 ### Changing employer or leaving
 
@@ -1467,7 +1470,7 @@ Under the agreement contract, either side gives 2 months' notice or 2 months' wa
 
 ## Work visa: domestic worker
 
-Not open to Bangladeshis. Immigration's approved source countries for domestic helpers are Indonesia, Thailand, Cambodia, the Philippines, Sri Lanka, India, Vietnam, Laos and Nepal <sup>[17](#o17), [7](#o7)</sup>.
+This visa is not open to Bangladeshis. Immigration's approved source countries for domestic helpers are Indonesia, Thailand, Cambodia, the Philippines, Sri Lanka, India, Vietnam, Laos and Nepal <sup>[17](#o17), [7](#o7)</sup>.
 
 ## Student visa (Student Pass)
 
@@ -1555,7 +1558,7 @@ Apply from outside Malaysia <sup>[52](#o52)</sup>. You or the institution can cr
 
 ### Step 3: eVAL and visa
 
-The eVAL is valid 6 months; you may not enter before it is issued <sup>[53](#o53)</sup>. Then apply on [MyVISA](https://malaysiavisa.imi.gov.my/), from outside Malaysia, for a Single Entry Visa under Visa With Reference (VDR), the category needing an approval letter (the eVAL) <sup>[52](#o52), [53](#o53), [187](#o187), [3](#o3), [4](#o4)</sup>. Account and payment work as in Tourist visa, [Step 2: Apply from Bangladesh](#step-2-apply-from-bangladesh) <sup>[3](#o3)</sup>; the fee is RM20 <sup>[185](#o185)</sup>.
+The eVAL is valid 6 months; you may not enter before it is issued <sup>[53](#o53)</sup>. Then apply on [MyVISA](https://malaysiavisa.imi.gov.my/), from outside Malaysia, for a Single Entry Visa under Visa With Reference (VDR), the category needing an approval letter (the eVAL) <sup>[52](#o52), [53](#o53), [187](#o187), [3](#o3), [4](#o4)</sup>. Account and payment work as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa) <sup>[3](#o3)</sup>; the fee is RM20 <sup>[185](#o185)</sup>.
 
 > **Need to know**
 > - Does MyVISA's RM105 processing charge apply to students?
@@ -1570,7 +1573,7 @@ The eVAL is valid 6 months; you may not enter before it is issued <sup>[53](#o53
 
 ### After you arrive
 
-1. <a id="after-you-arrive-1-item-1"></a>**Register the MDAC** (Malaysia Digital Arrival Card) within 3 days before arriving (see Tourist visa, [Step 4: Check your visa is real](#step-4-check-your-visa-is-real)) <sup>[4](#o4)</sup>; long-term pass holders are exempt <sup>[126](#o126)</sup>.
+1. <a id="after-you-arrive-1-item-1"></a>**Register the MDAC** (Malaysia Digital Arrival Card) within 3 days before arriving (see [Tourist visa, Step 4: Fill in the Malaysia Digital Arrival Card (MDAC)](#step-4-fill-in-the-malaysia-digital-arrival-card-mdac)) <sup>[4](#o4)</sup>; long-term pass holders are exempt <sup>[126](#o126)</sup>.
 2. <a id="after-you-arrive-1-item-2"></a>**At Kuala Lumpur International Airport (KLIA),** go to EMGS's 24-hour International Student Arrival Centre (ISAC) before immigration (Terminal 1: Level 3 arrival hall; Terminal 2: Level 3A after the Skybridge); its staff help you through immigration, with priority lanes for students <sup>[190](#o190)</sup>.
 
    > **Need to know**
@@ -1647,7 +1650,7 @@ Bring the originals; incomplete applications aren't processed <sup>[52](#o52)</s
 - insurance, bought by each dependant <sup>[193](#o193)</sup>;
 - IMI: RM90 for the Long-Term Social Visit Pass <sup>[52](#o52)</sup>.
 
-That pass has a category for close family of a foreign student <sup>[194](#o194)</sup>. For a child born in Malaysia, see Having a child in Malaysia <sup>[156](#o156)</sup>.
+That pass has a category for close family of a foreign student <sup>[194](#o194)</sup>. For a child born in Malaysia <sup>[156](#o156)</sup>, see [Having a child in Malaysia](#having-a-child-in-malaysia).
 
 > **Need to know**
 > - How long does a dependant's application take?
@@ -1660,7 +1663,7 @@ That pass has a category for close family of a foreign student <sup>[194](#o194)
 
 #### Done to students
 
-Besides the traps in Steps 1 and 2, agents claim a student visa lets you work freely; it doesn't <sup>[N101](#n101), [52](#o52)</sup>. Agents have charged families Tk 6 to 8 lakh or more for admission and a visa, steering students to barely functioning colleges <sup>[N101](#n101)</sup>; agencies have left EMGS applications stuck for months and, after arrival, moved students from the promised university into a Bangladeshi-owned English language centre, whose students can't work <sup>[N165](#n165)</sup>.
+Besides the traps in [Step 1: Check the institution and the course](#step-1-check-the-institution-and-the-course) and [Step 2: Apply from Bangladesh](#step-2-apply-from-bangladesh), agents claim a student visa lets you work freely; it doesn't <sup>[N101](#n101), [52](#o52)</sup>. Agents have charged families Tk 6 to 8 lakh or more for admission and a visa, steering students to barely functioning colleges <sup>[N101](#n101)</sup>; agencies have left EMGS applications stuck for months and, after arrival, moved students from the promised university into a Bangladeshi-owned English language centre, whose students can't work <sup>[N165](#n165)</sup>.
 
 #### Tried by applicants
 
@@ -1799,7 +1802,7 @@ Getting a pass by a false statement carries a fine up to RM10,000 or up to 5 yea
 
 1. <a id="tried-by-travellers-item-1"></a>**Held or in danger in Malaysia:** call 999 for the Royal Malaysia Police (PDRM) <sup>[197](#o197)</sup>, then the Bangladesh High Commission's consular wing, +603 2604 0946, consular.kualalumpur@gmail.com <sup>[107](#o107)</sup>.
 2. <a id="tried-by-travellers-item-2"></a>**Family calls the Probashi call centre** of WEWB (the Wage Earners' Welfare Board, the government body for migrant workers' welfare), for problems of migrants and families: 16135 toll free in Bangladesh, +880 9610102030 from abroad, 24 hours <sup>[76](#o76)</sup>.
-3. <a id="tried-by-travellers-item-3"></a>**Bangladesh police:** online at [gd.police.gov.bd](https://gd.police.gov.bd/) or at the station (see Student visa, Scams), or the CID hotline, 01320-019999, for anyone holding passports or demanding unusual visa sums <sup>[104](#o104), [195](#o195), [N97](#n97)</sup>.
+3. <a id="tried-by-travellers-item-3"></a>**Bangladesh police:** online at [gd.police.gov.bd](https://gd.police.gov.bd/) or at the station (see Student visa (Student Pass), [Tried by applicants, item 1: Bangladesh police](#tried-by-applicants-item-1)), or the CID hotline, 01320-019999, for anyone holding passports or demanding unusual visa sums <sup>[104](#o104), [195](#o195), [N97](#n97)</sup>.
 4. <a id="tried-by-travellers-item-4"></a>**Ministry of Expatriates' Welfare and Overseas Employment** (Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Dhaka-1000) <sup>[101](#o101)</sup>:
 
    - **Against a recruiting agency:** email the enforcement branch, sasenforcement@probashi.gov.bd (02-41030255), with your proof, full address and the agency's RL (licence) number and address; free, action within 3 to 5 working days, settled within 30 <sup>[100](#o100)</sup>.
@@ -1807,7 +1810,7 @@ Getting a pass by a false statement carries a fine up to RM10,000 or up to 5 yea
    - **Anything else:** the Complaint Resolution Cell, minister.expat@gmail.com <sup>[196](#o196)</sup>.
 
    Sample: "I, [name, passport no.], paid [agent, address, phone] Tk [amount] on [date] for a job in Malaysia. I was sent on a tourist visa on [date] and [what happened]. Receipts and messages attached."
-5. <a id="tried-by-travellers-item-5"></a>**Free legal help:** OKUP (see Student visa, Scams) helps trafficking survivors and migrants' families, helpline 01842773300 <sup>[N168](#n168)</sup>.
+5. <a id="tried-by-travellers-item-5"></a>**Free legal help:** OKUP (see Student visa (Student Pass), [Tried by applicants, item 5: Free legal help](#tried-by-applicants-item-5)) helps trafficking survivors and migrants' families, helpline 01842773300 <sup>[N168](#n168)</sup>.
 
 ## Family visit sponsored by a Malaysian citizen (VDR)
 
@@ -1829,7 +1832,7 @@ You'll need:
 - the relationship documents above <sup>[209](#o209)</sup>;
 - for the sponsor's form, your marital history, job in Bangladesh with proof, earlier visits to and work in Malaysia, spouse and children, address and planned length of stay <sup>[210 (2023)](#o210)</sup>.
 
-1. <a id="step-1-send-your-papers-to-the-sponsor-item-1"></a>**Parents or parents-in-law: get the notarial certificate endorsed** <sup>[209](#o209)</sup> at the High Commission of Malaysia in Dhaka (contacts in Tourist visa, [Step 2, item 7: Wait about 7 working days](#step-2-the-sponsor-applies-in-malaysia-item-7)) and at Wisma Putra. Wisma Putra's Consular Division takes documents walk-in from the person or a representative with ID, usually ready the same or next working day: Wisma Putra No 1, Jalan Wisma Putra, Precinct 2, 62602 Putrajaya; 03-8000 8000; sah_admin@kln.gov.my; Monday to Thursday 8.30 am to 4 pm, Friday 8.30 to 12 and 2.45 to 4 pm <sup>[212 (2023)](#o212)</sup>. Non-English documents need an English translation <sup>[212 (2023)](#o212)</sup>.
+1. <a id="step-1-send-your-papers-to-the-sponsor-item-1"></a>**Parents or parents-in-law: get the notarial certificate endorsed** <sup>[209](#o209)</sup> at the High Commission of Malaysia in Dhaka (contacts in [Tourist visa, Step 2, item 7](#step-2-apply-on-myvisa-item-7)) and at Wisma Putra. Wisma Putra's Consular Division takes documents walk-in from the person or a representative with ID, usually ready the same or next working day: Wisma Putra No 1, Jalan Wisma Putra, Precinct 2, 62602 Putrajaya; 03-8000 8000; sah_admin@kln.gov.my; Monday to Thursday 8.30 am to 4 pm, Friday 8.30 to 12 and 2.45 to 4 pm <sup>[212 (2023)](#o212)</sup>. Non-English documents need an English translation <sup>[212 (2023)](#o212)</sup>.
 
    > **Need to know**
    > - What must the certificate state?
@@ -1876,13 +1879,13 @@ Bangladeshis still need an eVISA with the VDR approval <sup>[216](#o216)</sup>. 
 - an email address;
 - a card or e-wallet.
 
-1. Apply on [malaysiavisa.imi.gov.my](https://malaysiavisa.imi.gov.my/) as in Tourist visa, [Step 2: The sponsor applies in Malaysia](#step-2-the-sponsor-applies-in-malaysia), choosing Visa With Reference, with details exactly as on the approval letter; any difference must be corrected by the issuing office before you pay <sup>[3](#o3), [4](#o4), [201](#o201)</sup>.
+1. Apply on [malaysiavisa.imi.gov.my](https://malaysiavisa.imi.gov.my/) as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa), choosing Visa With Reference, with details exactly as on the approval letter; any difference must be corrected by the issuing office before you pay <sup>[3](#o3), [4](#o4), [201](#o201)</sup>.
 2. Pay the same fees as a tourist eVISA; nothing is refunded <sup>[185](#o185), [3](#o3)</sup>. If charged twice, or the status stays "New Application", don't pay again; use MyVISA's 24-hour Live Chat <sup>[3](#o3)</sup>.
-3. Download, print and check the eVISA as in Tourist visa, Steps 2 and 3 <sup>[3](#o3), [205](#o205)</sup>.
+3. Download, print and check the eVISA as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa) and [Tourist visa, Step 3: Check your visa is real](#step-3-check-your-visa-is-real) <sup>[3](#o3), [205](#o205)</sup>.
 
 ### Step 4: Travel
 
-Register the MDAC (Malaysia Digital Arrival Card) within 3 days before arrival and carry the papers the border officer checks (see Tourist visa, [Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)) <sup>[4](#o4), [3](#o3)</sup>.
+Register the MDAC (Malaysia Digital Arrival Card) within 3 days before arrival and carry the papers the border officer checks (see [Tourist visa, Step 5: At the border](#step-5-at-the-border)) <sup>[4](#o4), [3](#o3)</sup>.
 
 ### Can you work?
 
@@ -1890,7 +1893,7 @@ Register the MDAC (Malaysia Digital Arrival Card) within 3 days before arrival a
 
 ### Scams
 
-Working ends a visit pass (see [What can get you jailed](#what-can-get-you-jailed-or-deported)); Immigration arrests Bangladeshis working on visit passes, and the sponsor loses the bond <sup>[51](#o51), [39 (2006)](#o39), [N179](#n179), [N180](#n180), [213](#o213)</sup>. False statements are an offence (see Tourist visa, Scams) <sup>[39 (2006)](#o39)</sup>. Immigration matters go only through Immigration counters or its official portal; no officer or third party may handle them outside those channels <sup>[N181](#n181)</sup>.
+Working ends a visit pass (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)); Immigration arrests Bangladeshis working on visit passes, and the sponsor loses the bond <sup>[51](#o51), [39 (2006)](#o39), [N179](#n179), [N180](#n180), [213](#o213)</sup>. False statements are an offence (see [Tourist visa (social visit), Tried by travellers](#tried-by-travellers)) <sup>[39 (2006)](#o39)</sup>. Immigration matters go only through Immigration counters or its official portal; no officer or third party may handle them outside those channels <sup>[N181](#n181)</sup>.
 
 > **Need to know**
 > - What scams run on this route, such as fake sponsors or brokers charging for a "family VDR"?
@@ -1904,15 +1907,15 @@ If a sponsor or broker cheats you:
 
 ## Business visit
 
-A social visit pass covers meetings, conferences, inspections, audits, signing agreements, investment surveys and seminars, not professional or technical work or a job <sup>[208](#o208), [219](#o219), [39 (2006)](#o39)</sup>. For up to 30 days of urgent professional work the Malaysian company gets PLS@Xpats permission ([Other passes](#other-passes), PLS@XPATS); longer work needs a Professional Visit Pass or Employment Pass <sup>[220 (2022)](#o220), [221](#o221)</sup>.
+A social visit pass covers meetings, conferences, inspections, audits, signing agreements, investment surveys and seminars, not professional or technical work or a job <sup>[208](#o208), [219](#o219), [39 (2006)](#o39)</sup>. For up to 30 days of urgent professional work the Malaysian company gets PLS@Xpats permission (see [PLS@XPATS](#plsxpats)); longer work needs a Professional Visit Pass or Employment Pass <sup>[220 (2022)](#o220), [221](#o221)</sup>.
 
 ### Step 1: Get the papers
 
-You'll need: the papers in Tourist visa, [Step 1: Get the papers](#step-1-get-the-papers), plus your company's dispatch letter or an invitation from a Malaysian government body or government-linked company <sup>[4](#o4), [3](#o3)</sup>.
+You'll need: the papers in [Tourist visa, Step 1: Prepare](#step-1-prepare), plus your company's dispatch letter or an invitation from a Malaysian government body or government-linked company <sup>[4](#o4), [3](#o3)</sup>.
 
 ### Step 2: Apply for the business eVISA on MyVISA
 
-Apply, pay and check the eVISA as in Tourist visa, Steps 2 and 3, choosing the business purpose and uploading the letter and ticket; the fees, the 2 to 7 working days and the refusal rules are the same <sup>[3](#o3), [205](#o205), [185](#o185)</sup>.
+Apply, pay and check the eVISA as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa) and [Tourist visa, Step 3: Check your visa is real](#step-3-check-your-visa-is-real), choosing the business purpose and uploading the letter and ticket; the fees, the 2 to 7 working days and the refusal rules are the same <sup>[3](#o3), [205](#o205), [185](#o185)</sup>.
 
 A business multiple-entry visa (6 months, up to 30 days per entry) is limited to 31 eligible nationalities <sup>[201](#o201), [3](#o3)</sup>.
 
@@ -1925,12 +1928,12 @@ A business multiple-entry visa (6 months, up to 30 days per entry) is limited to
 
 ### Scams
 
-Fake invitations: a syndicate sold Bangladeshis fake invitation letters (such as to sports competitions), with return tickets and hotel bookings to fool officers, for RM2,000 to RM5,000 <sup>[N182 (2024)](#n182)</sup>. Don't pay anyone to "get" the visa: it is applied for and paid only online, for the [Step 2: Apply for the business eVISA on MyVISA](#step-2-apply-for-the-business-evisa-on-myvisa) fees, and no officer or third party may handle it outside official channels <sup>[3](#o3), [N181](#n181)</sup>. False statements are an offence (see Tourist visa, Scams) <sup>[39 (2006)](#o39)</sup>.
+Fake invitations: a syndicate sold Bangladeshis fake invitation letters (such as to sports competitions), with return tickets and hotel bookings to fool officers, for RM2,000 to RM5,000 <sup>[N182 (2024)](#n182)</sup>. Don't pay anyone to "get" the visa: it is applied for and paid only online, for the [Step 2: Apply for the business eVISA on MyVISA](#step-2-apply-for-the-business-evisa-on-myvisa) fees, and no officer or third party may handle it outside official channels <sup>[3](#o3), [N181](#n181)</sup>. False statements are an offence (see [Tourist visa (social visit), Tried by travellers](#tried-by-travellers)) <sup>[39 (2006)](#o39)</sup>.
 
 If cheated:
 
-- **In Malaysia:** use the route under Family visit (VDR), Scams <sup>[217](#o217), [218](#o218)</sup>.
-- **In Bangladesh,** if an agency or broker took money for a "business visa" job: complain to BMET (see Work visa: company worker (PLKS), Scams) <sup>[1](#o1), [100](#o100)</sup>.
+- **In Malaysia:** use the route under [Family visit sponsored by a Malaysian citizen (VDR), Scams](#scams-3) <sup>[217](#o217), [218](#o218)</sup>.
+- **In Bangladesh,** if an agency or broker took money for a "business visa" job: complain to BMET (see [Work visa: company worker (PLKS), If an agency or broker takes your money](#if-an-agency-or-broker-takes-your-money)) <sup>[1](#o1), [100](#o100)</sup>.
 
 ## Medical visit
 
@@ -1964,9 +1967,9 @@ You'll need <sup>[224](#o224)</sup>:
 - proof of accommodation;
 - a photo.
 
-Fees and refusal rules are as in Tourist visa, [Step 2: Apply for the medical eVISA](#step-2-apply-for-the-medical-evisa); a decision takes 3 to 5 working days <sup>[3](#o3), [185](#o185), [224](#o224)</sup>.
+Fees and refusal rules are as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa); a decision takes 3 to 5 working days <sup>[3](#o3), [185](#o185), [224](#o224)</sup>.
 
-1. Apply on [malaysiavisa.imi.gov.my](https://malaysiavisa.imi.gov.my/) at least 14 working days before the appointment (see Tourist visa, [Step 2: Apply for the medical eVISA](#step-2-apply-for-the-medical-evisa)) <sup>[3](#o3)</sup>. MHTC names Irving Aviation Ltd as its local partner in Bangladesh (contact Abid Rahman Rafsan, +8801762001467) <sup>[222](#o222)</sup>.
+1. Apply on [malaysiavisa.imi.gov.my](https://malaysiavisa.imi.gov.my/) at least 14 working days before the appointment (see [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa)) <sup>[3](#o3)</sup>. MHTC names Irving Aviation Ltd as its local partner in Bangladesh (contact Abid Rahman Rafsan, +8801762001467) <sup>[222](#o222)</sup>.
 
    > **Need to know**
    > - Must Bangladeshis go through MHTC's partners, as the High Commission in Dhaka says <sup>[61](#o61)</sup>, or can they apply themselves?
@@ -2014,13 +2017,13 @@ It takes 25 working days <sup>[88](#o88)</sup>.
 
 ### Scams
 
-No unauthorised work; false statements and using another's pass are offences (see Tourist visa, Scams) <sup>[201](#o201), [39 (2006)](#o39)</sup>.
+No unauthorised work; false statements and using another's pass are offences (see [Tourist visa (social visit), Tried by travellers](#tried-by-travellers)) <sup>[201](#o201), [39 (2006)](#o39)</sup>.
 
 > **Need to know**
 > - What scams target Bangladeshis on the Malaysia medical-visa route?
 
 - **About the hospital** (care, staff or bill): complain to the Health Ministry's Private Medical Practice Control Section (CKAPS) at [myckaps.spab.gov.my](https://myckaps.spab.gov.my/eApps/system/index.do), 03-8883 1362, ckaps.aduan@moh.gov.my, or Deputy Director CKAPS, Level 3, Block E1, Complex E, 62590 Putrajaya <sup>[228](#o228), [229](#o229)</sup>. Family may complain with the patient's written permission. The hospital must reply within 14 days of CKAPS's letter, simple cases take 30 days, and a refund or bill reduction is up to the hospital, a lawyer or a civil court <sup>[228](#o228), [229](#o229)</sup>.
-- **About an agent who took money:** use the police, NSRC and MACC route (Family visit (VDR), Scams) <sup>[217](#o217), [218](#o218)</sup>.
+- **About an agent who took money:** use the police, NSRC and MACC route ([Family visit sponsored by a Malaysian citizen (VDR), Scams](#scams-3)) <sup>[217](#o217), [218](#o218)</sup>.
 
 ## Professional Visit Pass
 
@@ -2030,7 +2033,7 @@ The Professional Visit Pass (PVP) lets a professional sent by an overseas compan
 
 1. The company registers with ESD <sup>[221](#o221)</sup>.
 2. On Xpats Gateway (the employer-government platform for Employment Pass and PVP applications) it gets JTKSM (Labour Department of Peninsular Malaysia) approval to employ a foreigner under section 60K of the Employment Act, and acknowledgement that it advertised on MYFutureJobs, the job portal of PERKESO (the Social Security Organisation) <sup>[230](#o230), [231](#o231)</sup>. A training organiser applies before you travel <sup>[51](#o51)</sup>.
-3. **Check the company** on SSM e-Info as in Work visa: company worker (PLKS), [Step 1, item 7](#step-1-the-malaysian-company-prepares) <sup>[50](#o50), [83](#o83)</sup>.
+3. **Check the company** on SSM e-Info as in [Work visa: company worker (PLKS), Step 1, item 7](#step-1-find-a-real-job-item-7) <sup>[50](#o50), [83](#o83)</sup>.
 
    > **Need to know**
    > - How can you check a company's ESD registration?
@@ -2045,7 +2048,7 @@ You'll need <sup>[219](#o219), [232](#o232)</sup>:
 - invitation or support letter;
 - work or training schedule;
 - contract or project papers;
-- academic or professional certificates, prepared as in Employment Pass, [Step 1: The Malaysian company prepares](#step-1-the-malaysian-company-prepares);
+- academic or professional certificates, prepared as in [Employment Pass, Step 1: The employer applies](#step-1-the-employer-applies);
 - proof of experience.
 
 The company applies through ESD and pays RM1,200 plus tax, then RM90 per quarter of the pass <sup>[221](#o221), [233](#o233)</sup>. The bond for Bangladeshis is RM750, by bank guarantee to the Director General of Immigration <sup>[215](#o215), [234 (2024)](#o234)</sup>.
@@ -2060,7 +2063,7 @@ Only the company can appeal a refusal, within 14 days in ESD Online; appeals are
 ### Step 3: Bangladesh clearance
 
 > **Need to know**
-> - Does a PVP holder need BMET emigration clearance, as a worker with a self-obtained visa does (see [Employment Pass](#employment-pass), [Step 2: Send your documents; the company applies](#step-2-send-your-documents-the-company-applies)) <sup>[1](#o1)</sup>?
+> - Does a PVP holder need BMET emigration clearance, as a worker with a self-obtained visa does (see [Employment Pass, Step 2: Emigration clearance in Bangladesh](#step-2-emigration-clearance-in-bangladesh)) <sup>[1](#o1)</sup>?
 
 ### Step 4: Enter and get the ePASS
 
@@ -2070,7 +2073,7 @@ Only the company can appeal a refusal, within 14 days in ESD Online; appeals are
    - the company gets it endorsed at the MYXpats Centre (TalentCorp and Immigration): Level 4, Surian Tower, No 1, Jalan PJU 7/3, Mutiara Damansara, 47810 Petaling Jaya, Selangor; 9 am to 5 pm, Monday to Friday.
 3. Always carry the ePASS with your passport <sup>[235](#o235)</sup>. Check it by its QR code or at [imigresen-online.imi.gov.my/eservices/epass?semakan](https://imigresen-online.imi.gov.my/eservices/epass?semakan) <sup>[235](#o235)</sup>. Mistakes are corrected by the company through the MYXpats helpdesk (+603-7839 7171, helpdesk@myxpats.com.my) in 3 to 5 working days <sup>[235](#o235), [237](#o237)</sup>.
 
-**Scams:** a work pass sold through a middleman for RM5,000 had a tampered QR code and no record in Immigration's system <sup>[N181](#n181)</sup>; check every pass as in item 3. False information can mean rejection, cancellation, withdrawal of the pass, immigration action and blacklisting <sup>[219](#o219)</sup>.
+**Scams:** a work pass sold through a middleman for RM5,000 had a tampered QR code and no record in Immigration's system <sup>[N181](#n181)</sup>; check every pass as in [Step 4, item 3](#step-4-enter-and-get-the-epass). False information can mean rejection, cancellation, withdrawal of the pass, immigration action and blacklisting <sup>[219](#o219)</sup>.
 
 > **Need to know**
 > - Has a "PVP" ever been sold to general workers as a work visa?
@@ -2091,7 +2094,7 @@ Jockeys, volunteers and exchange or training students (up to 6 months) get PVPs 
   > **Need to know**
   > - Does changing planes without a visa inside the transit hall apply to Bangladeshis as it does to Indians?
 
-- **Leaving the airport on a layover:** apply on MyVISA for a transit or visit eVISA as in Tourist visa, [Step 2: Medical check in Bangladesh (Bio-Medical)](#step-2-medical-check-in-bangladesh-bio-medical) (same fees, time and refusal rules), with the airport as address and a cover letter explaining the layover <sup>[3](#o3), [185](#o185)</sup>. The 120-hour visa-free transit is suspended ([Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[58](#o58)</sup>.
+- **Leaving the airport on a layover:** apply on MyVISA for a transit or visit eVISA as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa) (same fees, time and refusal rules), with the airport as address and a cover letter explaining the layover <sup>[3](#o3), [185](#o185)</sup>. The 120-hour visa-free transit is suspended ([Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[58](#o58)</sup>.
 
 **Ship crew:** a seaman signing on at a Malaysian port needs <sup>[241](#o241), [6](#o6)</sup>:
 
@@ -2124,7 +2127,7 @@ For professionals hired by a Malaysian company at a basic salary of at least RM5
 
 ### Who can apply
 
-By basic salary <sup>[16](#o16), [246](#o246)</sup>:
+The category depends on your basic salary <sup>[16](#o16), [246](#o246)</sup>:
 
 - Category I: RM20,000 a month or more, up to 10 years;
 - Category II: RM10,000 to RM19,999, up to 10 years;
@@ -2138,7 +2141,7 @@ You need one of <sup>[232](#o232)</sup>:
 - a diploma and 5;
 - a technical certificate and 7.
 
-All categories may bring family ([Family passes](#family-passes), Family of an Employment Pass holder) <sup>[16](#o16)</sup>.
+All categories may bring family (see [Family of an Employment Pass holder](#family-of-an-employment-pass-holder)) <sup>[16](#o16)</sup>.
 
 ### Step 1: The employer applies
 
@@ -2155,7 +2158,7 @@ From Bangladesh, English certificates must be certified true copies from an emba
 > - What does the Malaysian High Commission in Dhaka charge to certify certificates?
 > - How long does it take?
 
-1. <a id="step-1-the-employer-applies-item-1"></a>**The employer registers with ESD** (5 working days), then gets JTKSM approval and the MYFutureJobs acknowledgement (see [Professional Visit Pass](#professional-visit-pass), [Step 1: The employer applies](#step-1-the-employer-applies)), in 10 working days; hiring without approval risks a fine up to RM100,000, 5 years' jail or both <sup>[16](#o16), [230](#o230), [231](#o231)</sup>.
+1. <a id="step-1-the-employer-applies-item-1"></a>**The employer registers with ESD** (5 working days), then gets JTKSM approval and the MYFutureJobs acknowledgement (see [Professional Visit Pass, Step 1: The Malaysian company prepares](#step-1-the-malaysian-company-prepares)), in 10 working days; hiring without approval risks a fine up to RM100,000, 5 years' jail or both <sup>[16](#o16), [230](#o230), [231](#o231)</sup>.
 2. <a id="step-1-the-employer-applies-item-2"></a>**Send the employer** the documents above <sup>[232](#o232)</sup>.
 3. <a id="step-1-the-employer-applies-item-3"></a>**The employer applies on ESD Online and pays RM2,160;** the decision takes 2 to 5 working days <sup>[233](#o233), [16](#o16), [235](#o235)</sup>. Only the employer can appeal a refusal, within 14 days, or else claim 75% of the processing fee back within 14 days <sup>[235](#o235), [247 (2024)](#o247)</sup>.
 4. <a id="step-1-the-employer-applies-item-4"></a>**The employer applies for your VDR** with the pass; after approval it pays the endorsement: RM200 a year, RM125 processing and RM20 a year visa fee <sup>[235](#o235), [233](#o233), [248](#o248)</sup>.
@@ -2167,11 +2170,11 @@ You'll need <sup>[1](#o1)</sup>:
 - your application;
 - a visa copy;
 - the contract if any;
-- an attested copy of your OEP registration card (see Work visa: company worker (PLKS), [Step 1: The employer applies](#step-1-the-employer-applies));
+- an attested copy of your OEP registration card (see [Work visa: company worker (PLKS), Step 1, item 1](#step-1-find-a-real-job-item-1));
 - a declaration on Tk 300 non-judicial stamp paper;
 - a pay-order for the fees.
 
-Apply yourself at BMET's emigration branch in Dhaka (BMET head office: 89/2 Kakrail, Dhaka-1000) or the District Employment and Manpower Office in Chattogram; it takes 3 working days <sup>[1](#o1), [96 (2021)](#o96)</sup>. Fees and the smart card checked at the airport are as in Work visa: company worker (PLKS), [Step 6: Orientation, BMET clearance and the flight](#step-6-orientation-bmet-clearance-and-the-flight) <sup>[1](#o1)</sup>. Problems: Director (Emigration), +8802222222415, diremi@bmet.gov.bd <sup>[1](#o1)</sup>.
+Apply yourself at BMET's emigration branch in Dhaka (BMET head office: 89/2 Kakrail, Dhaka-1000) or the District Employment and Manpower Office in Chattogram; it takes 3 working days <sup>[1](#o1), [96 (2021)](#o96)</sup>. Fees and the smart card checked at the airport are as in [Work visa: company worker (PLKS), Step 6: Orientation, BMET clearance and the flight](#step-6-orientation-bmet-clearance-and-the-flight) <sup>[1](#o1)</sup>. Problems: Director (Emigration), +8802222222415, diremi@bmet.gov.bd <sup>[1](#o1)</sup>.
 
 > **Need to know**
 > - What are the emigration branch's opening hours?
@@ -2184,20 +2187,20 @@ Apply yourself at BMET's emigration branch in Dhaka (BMET head office: 89/2 Kakr
 1. Register the MDAC within 3 days before arrival <sup>[4](#o4)</sup>.
 2. On arrival go, no appointment needed, to the Expatriate Satellite Centre at KLIA Terminal 1 or 2 for your ePASS and i-KAD (the Employment Pass holder's card) <sup>[235](#o235)</sup>.
 
-Pass problems go to the MYXpats helpdesk (see [Professional Visit Pass](#professional-visit-pass), [Step 4: Check your visa is real](#step-4-check-your-visa-is-real-1)) <sup>[237](#o237)</sup>.
+Pass problems go to the MYXpats helpdesk (see [Professional Visit Pass, Step 4: Enter and get the ePASS](#step-4-enter-and-get-the-epass)) <sup>[237](#o237)</sup>.
 
 ### Step 4: Check your visa is real
 
-- Check the ePASS by QR code or at [imigresen-online.imi.gov.my/eservices/epass?semakan](https://imigresen-online.imi.gov.my/eservices/epass?semakan), since fakes are sold (see [Professional Visit Pass](#professional-visit-pass), Scams) <sup>[235](#o235), [N181](#n181)</sup>.
+- Check the ePASS by QR code or at [imigresen-online.imi.gov.my/eservices/epass?semakan](https://imigresen-online.imi.gov.my/eservices/epass?semakan), since fakes are sold (see [Professional Visit Pass, Scams](#scams-6)) <sup>[235](#o235), [N181](#n181)</sup>.
 - Check the employer on SSM e-Info before accepting <sup>[50](#o50)</sup>.
 
-If you get a new passport, the company must transfer the pass endorsement to it, or Immigration may stop you leaving <sup>[235](#o235)</sup>. If cheated, use the route under Family visit (VDR), Scams <sup>[217](#o217), [218](#o218)</sup>. False statements and using another's pass are offences (see Tourist visa, Scams) <sup>[39 (2006)](#o39)</sup>.
+If you get a new passport, the company must transfer the pass endorsement to it, or Immigration may stop you leaving <sup>[235](#o235)</sup>. If cheated, use the route under [Family visit sponsored by a Malaysian citizen (VDR), Scams](#scams-3) <sup>[217](#o217), [218](#o218)</sup>. False statements and using another's pass are offences (see [Tourist visa (social visit), Tried by travellers](#tried-by-travellers)) <sup>[39 (2006)](#o39)</sup>.
 
 ### Can you work?
 
 ### If something goes wrong
 
-Unpaid wages and other Employment Act breaches go through the Working for Workers app, the Bangladesh High Commission's labour wing and the Labour Court (see Work visa: company worker (PLKS), If you aren't paid) <sup>[105](#o105), [130](#o130), [97 (2017)](#o97)</sup>. JTKSM advises free on 03-8000 8000 or jtksm@mohr.gov.my <sup>[97 (2017)](#o97)</sup>.
+Unpaid wages and other Employment Act breaches go through the Working for Workers app, the Bangladesh High Commission's labour wing and the Labour Court (see [If you aren't paid](#if-you-arent-paid)) <sup>[105](#o105), [130](#o130), [97 (2017)](#o97)</sup>. JTKSM advises free on 03-8000 8000 or jtksm@mohr.gov.my <sup>[97 (2017)](#o97)</sup>.
 
 > **Need to know**
 > - What can an Employment Pass holder do if the employer cancels or doesn't renew the pass?
@@ -2210,7 +2213,7 @@ Unpaid wages and other Employment Act breaches go through the Working for Worker
 
 The pass depends on who brings the family member: an Employment Pass holder, a Malaysian citizen, a permanent resident or a student.
 
-See Student visa, Family.
+For a student's family, see [Student visa (Student Pass), Bringing your family](#bringing-your-family-1).
 
 ### Family of an Employment Pass holder
 
@@ -2331,7 +2334,7 @@ The marriage must be registered under Malaysian law before the spouse can get pe
    > - What is the fee for the spouse LTSVP?
    > - Can a refusal be appealed?
 
-   **Checks and scams.** Immigration refuses a marriage made only for immigration status and looks closely at large age gaps <sup>[N184](#n184)</sup>; it may visit your address, interview people and check documents before granting or extending the pass <sup>[194](#o194)</sup>. Anyone selling a spouse pass or marriage registration is a syndicate <sup>[N184](#n184)</sup>; report them as under "If Immigration mishandles any family-pass application" <sup>[260](#o260), [261](#o261)</sup>. A false statement in the application can bring a fine of up to RM10,000, up to 5 years' jail, or both <sup>[194](#o194)</sup>.
+   **Checks and scams.** Immigration refuses a marriage made only for immigration status and looks closely at large age gaps <sup>[N184](#n184)</sup>; it may visit your address, interview people and check documents before granting or extending the pass <sup>[194](#o194)</sup>. Anyone selling a spouse pass or marriage registration is a syndicate <sup>[N184](#n184)</sup>; report them (see [If Immigration mishandles any family-pass application](#if-immigration-mishandles-any-family-pass-application)) <sup>[260](#o260), [261](#o261)</sup>. A false statement in the application can bring a fine of up to RM10,000, up to 5 years' jail, or both <sup>[194](#o194)</sup>.
 
 2. <a id="before-you-marry-item-2"></a>**Get permission to work.** Once endorsed in the passport, it lets the spouse work, run a business or practise a profession on the LTSVP <sup>[194](#o194)</sup>.
 
@@ -2355,7 +2358,7 @@ The marriage must be registered under Malaysian law before the spouse can get pe
 
 #### Permanent residence
 
-A wife can apply for an Entry Permit after 3 years of marriage and over 12 months on the spouse LTSVP; a husband after 5 years of marriage and 5 continuous years on it <sup>[157](#o157)</sup>. See Other passes, Permanent residence.
+A wife can apply for an Entry Permit after 3 years of marriage and over 12 months on the spouse LTSVP; a husband after 5 years of marriage and 5 continuous years on it <sup>[157](#o157)</sup>. See [Permanent residence (Entry Permit)](#permanent-residence-entry-permit).
 
 **Residence Pass** (Pas Residen: RM500 for 5 years; allows work, study and business) <sup>[262](#o262)</sup>. Who can get it <sup>[262](#o262)</sup>:
 
@@ -2385,8 +2388,8 @@ IMI gives an LTSVP in other family categories <sup>[194](#o194)</sup>:
 - An abused, divorced or widowed wife of a citizen, with a local sponsor earning RM2,000 or more <sup>[194](#o194)</sup>; a widow's sponsor is a close relative of her late husband who comes with her <sup>[194](#o194)</sup>; an abused wife adds a police or hospital report, a security bond stamped RM10, and the sponsor's declaration and identity card <sup>[194](#o194)</sup>.
 - The wife of a permanent resident, married over 6 months <sup>[194](#o194)</sup>.
 - A citizen's child or stepchild aged 7 or under, on the citizen parent's application <sup>[194](#o194)</sup>.
-- Close family of a foreign student, with the student's letter from the institution and an embassy letter proving the relationship <sup>[194](#o194)</sup>; see Student visa, Bringing your family.
-- A patient at a government or specialist hospital, with one companion ([Medical visit](#medical-visit), How long you can stay) <sup>[194](#o194)</sup>.
+- Close family of a foreign student, with the student's letter from the institution and an embassy letter proving the relationship <sup>[194](#o194)</sup>; see [Student visa (Student Pass), Bringing your family](#bringing-your-family-1).
+- A patient at a government or specialist hospital, with one companion (see [Medical visit, How long you can stay](#how-long-you-can-stay-1)) <sup>[194](#o194)</sup>.
 
 You'll need <sup>[194](#o194)</sup>:
 
@@ -2543,7 +2546,7 @@ A spouse can't work <sup>[275](#o275)</sup>.
 
 3. <a id="de-rantau-nomad-pass-item-3"></a>**After approval: enter and get the pass endorsed.** The approval letter is valid 6 months, not extendable; finish every step within it <sup>[275](#o275)</sup>.
 
-   1. Get an eVISA (a visa applied for online) or, if the letter says so, a VDR (visa with reference) <sup>[275](#o275)</sup>. Apply for the eVISA yourself on MyVISA, with the fees and times in Tourist visa, [Step 2: Medical check in Bangladesh (Bio-Medical)](#step-2-medical-check-in-bangladesh-bio-medical) <sup>[3](#o3)</sup>. A tourist or social visit pass can't be converted: leave and re-enter <sup>[275](#o275)</sup>.
+   1. Get an eVISA (a visa applied for online) or, if the letter says so, a VDR (visa with reference) <sup>[275](#o275)</sup>. Apply for the eVISA yourself on MyVISA, with the fees and times in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa) <sup>[3](#o3)</sup>. A tourist or social visit pass can't be converted: leave and re-enter <sup>[275](#o275)</sup>.
 
       > **Need to know**
       > - What does a VDR for DE Rantau cost?
@@ -2563,7 +2566,7 @@ A spouse can't work <sup>[275](#o275)</sup>.
 
 ### How long you can stay
 
-Peninsular Malaysia and Labuan; Sabah or Sarawak need a tourist pass <sup>[275](#o275)</sup>.
+The pass covers Peninsular Malaysia and Labuan; Sabah or Sarawak need a tourist pass <sup>[275](#o275)</sup>.
 
 ### Can you work?
 
@@ -2734,18 +2737,18 @@ A fast lane at two Johor checkpoints (Bangunan Sultan Iskandar, Johor Bahru; Kom
 
 ## Changing visa type
 
-- **Visit pass (tourist or family visit) to PLKS (company worker's pass):** No. The employer gets the VDR and PLKS while you are outside Malaysia; you enter only after approval <sup>[7](#o7), [5](#o5)</sup>. See Work visa: company worker (PLKS).
-- **Visit pass to Longer visit pass:** Only for illness, an accident or war at home, with proof and a ticket home or onward <sup>[293](#o293)</sup>.
-- **Visit pass to DE Rantau Nomad Pass:** No. A tourist pass can't be converted <sup>[275](#o275)</sup>. See DE Rantau Nomad Pass.
-- **Visit pass to Student Pass:** No. You must be outside Malaysia when the application is submitted <sup>[52](#o52)</sup>. See Student visa (Student Pass).
-- **Visit pass to Professional job up to 30 days:** Only arranged before you travel. The company gets PLS@Xpats approval (see [Other passes](#other-passes), PLS@XPATS) <sup>[220 (2022)](#o220)</sup>; without the approval letter you won't be let in for this work <sup>[220 (2022)](#o220)</sup>. Longer: see [Professional Visit Pass](#professional-visit-pass).
-- **Student Pass to Student Pass for a higher level:** Yes. Apply for Progression (for example bachelor's to master's) within 3 months of finishing; you may stay while it is processed <sup>[53](#o53)</sup>.
-- **Student Pass to Work pass:** Only through an employer. The employer applies, for example for an Employment Pass <sup>[294](#o294)</sup>. Bangladeshis can't get the Graduate Pass <sup>[53](#o53)</sup>.
-- **PLKS to Another employer or sector:** Only with the Home Ministry's permission. See If you want to change employer <sup>[7](#o7)</sup>.
-- **Dependant Pass to Work:** Only as an Employment Pass. The employer applies for an Employment Pass for the dependant <sup>[232](#o232), [249](#o249)</sup>. See Family of an Employment Pass holder.
-- **Long-Term Social Visit Pass, family of an Employment Pass holder to Work or study:** Only by converting. An employer applies for an Employment Pass, or you get a Student Pass <sup>[232](#o232)</sup>. See Employment Pass; Student visa (Student Pass).
-- **Long-Term Social Visit Pass, spouse of a Malaysian to Work:** Yes. Get the work endorsement in your passport; see Spouse of a Malaysian citizen <sup>[194](#o194)</sup>.
-- **Any pass, applicant outside Malaysia to Employment Pass:** Yes. The employer applies for the VDR with the Employment Pass <sup>[235](#o235)</sup>.
+- **Visit pass (tourist or family visit) to PLKS (company worker's pass):** You can't switch inside Malaysia. The employer gets the VDR and PLKS while you are outside Malaysia; you enter only after approval <sup>[7](#o7), [5](#o5)</sup> (see [Work visa: company worker (PLKS)](#work-visa-company-worker-plks)).
+- **Visit pass to Longer visit pass:** You can get a longer pass only for illness, an accident or war at home, with proof and a ticket home or onward <sup>[293](#o293)</sup>.
+- **Visit pass to DE Rantau Nomad Pass:** You can't switch. A tourist pass can't be converted <sup>[275](#o275)</sup> (see [DE Rantau Nomad Pass](#de-rantau-nomad-pass)).
+- **Visit pass to Student Pass:** You can't switch. You must be outside Malaysia when the application is submitted <sup>[52](#o52)</sup> (see [Student visa (Student Pass)](#student-visa-student-pass)).
+- **Visit pass to Professional job up to 30 days:** This can only be arranged before you travel. The company gets PLS@Xpats approval (see [PLS@XPATS](#plsxpats)) <sup>[220 (2022)](#o220)</sup>; without the approval letter you won't be let in for this work <sup>[220 (2022)](#o220)</sup>. For longer work, see [Professional Visit Pass](#professional-visit-pass).
+- **Student Pass to Student Pass for a higher level:** You can switch. Apply for Progression (for example bachelor's to master's) within 3 months of finishing; you may stay while it is processed <sup>[53](#o53)</sup>.
+- **Student Pass to Work pass:** You can switch only through an employer. The employer applies, for example for an Employment Pass <sup>[294](#o294)</sup>. Bangladeshis can't get the Graduate Pass <sup>[53](#o53)</sup>.
+- **PLKS to Another employer or sector:** You can move only with the Home Ministry's permission <sup>[7](#o7)</sup> (see [If you want to change employer](#if-you-want-to-change-employer)).
+- **Dependant Pass to Work:** You can work only on an Employment Pass. The employer applies for an Employment Pass for the dependant <sup>[232](#o232), [249](#o249)</sup> (see [Family of an Employment Pass holder](#family-of-an-employment-pass-holder)).
+- **Long-Term Social Visit Pass, family of an Employment Pass holder to Work or study:** You can work or study only by converting to another pass. An employer applies for an Employment Pass, or you get a Student Pass <sup>[232](#o232)</sup> (see [Employment Pass](#employment-pass); see [Student visa (Student Pass)](#student-visa-student-pass)).
+- **Long-Term Social Visit Pass, spouse of a Malaysian to Work:** You can work. Get the work endorsement in your passport <sup>[194](#o194)</sup> (see [Spouse of a Malaysian citizen](#spouse-of-a-malaysian-citizen)).
+- **Any pass, applicant outside Malaysia to Employment Pass:** You can get one. The employer applies for the VDR with the Employment Pass <sup>[235](#o235)</sup>.
 
 > **Need to know**
 > - Can a Student Pass holder switch to an Employment Pass without leaving Malaysia?
@@ -2757,7 +2760,7 @@ Asylum gives no right to stay or work in Malaysia <sup>[295](#o295), [296](#o296
 
 ### Who can get it
 
-Only someone who fled persecution or serious harm because of race, religion, nationality, social group or political opinion, or who can't return because of war or serious disorder; someone who left for work or study is a migrant <sup>[295](#o295)</sup>.
+Refugee status is only for someone who fled persecution or serious harm because of race, religion, nationality, social group or political opinion, or who can't return because of war or serious disorder; someone who left for work or study is a migrant <sup>[295](#o295)</sup>.
 
 ### How to apply
 
@@ -2811,7 +2814,7 @@ The steps below are for parents lawfully in Malaysia with family, such as an Emp
    - the signed printed application;
    - 2 recent passport-size colour photos on white.
 
-   1. **Attest the JPN certificate** at Wisma Putra's Consular Division (address and hours under Family visit sponsored by a Malaysian citizen, [Step 1: Find a real job](#step-1-find-a-real-job)): you or someone with your authorisation letter brings an identity card or passport, and usually collects it the same or next working day <sup>[212 (2023)](#o212)</sup>.
+   1. **Attest the JPN certificate** at Wisma Putra's Consular Division (address and hours under [Family visit sponsored by a Malaysian citizen (VDR), Step 1, item 1](#step-1-send-your-papers-to-the-sponsor-item-1)): you or someone with your authorisation letter brings an identity card or passport, and usually collects it the same or next working day <sup>[212 (2023)](#o212)</sup>.
    2. **E-apostille the marriage certificate** through the Ministry of Foreign Affairs' e-Apostille service on MyGov, [mygov.bd](https://www.mygov.bd/services?category=sector&data=service-sector-67): up to five days, with a QR code for checking <sup>[306](#o306)</sup>.
    3. **Apply** at [bdris.gov.bd](https://bdris.gov.bd/) (Bangladesh's birth and death registration system) with your permanent Bangladesh address, uploading the child's foreign birth certificate and a parent's passport or NID; without uploads it is rejected <sup>[307](#o307), [305](#o305)</sup>.
    4. The child and both parents take the printed, signed application and documents to the Bangladesh High Commission, No 8, Lorong Yap Kwan Seng, 50450 Kuala Lumpur <sup>[305](#o305), [125](#o125)</sup>, and pay RM5 by card at the consular counter or by deposit to its Maybank account 564427102268 <sup>[305](#o305)</sup>.
@@ -2876,9 +2879,9 @@ Report hundi businesses to BNMTELELINK, 1-300-88-5465 <sup>[313](#o313)</sup>.
 
 ## Going home without valid papers
 
-Without a valid pass you can go home under Malaysia's repatriation programme, PRM 2.0 (Program Repatriasi Migran 2.0), 1 May 2026 to 31 May 2027, at Immigration offices in Peninsular Malaysia and Labuan <sup>[316](#o316), [47](#o47)</sup>, paying a compound (a fixed fine instead of prosecution) <sup>[47](#o47), [N191](#n191)</sup>. Otherwise it is arrest, detention in an immigration depot until removal, and deportation ([What can get you jailed](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39), [N192](#n192)</sup>.
+Without a valid pass you can go home under Malaysia's repatriation programme, PRM 2.0 (Program Repatriasi Migran 2.0), 1 May 2026 to 31 May 2027, at Immigration offices in Peninsular Malaysia and Labuan <sup>[316](#o316), [47](#o47)</sup>, paying a compound (a fixed fine instead of prosecution) <sup>[47](#o47), [N191](#n191)</sup>. Otherwise it is arrest, detention in an immigration depot until removal, and deportation (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[39 (2006)](#o39), [N192](#n192)</sup>.
 
-PRM 2.0 only lets you leave; no legalisation programme is open ([Background](#background), "What running away or an expired pass does to you") <sup>[316](#o316), [N88](#n88)</sup>. Anyone but an employer offering to get you a pass is breaking the law ([Scams](#scams-11)) <sup>[87 (2021)](#o87)</sup>.
+PRM 2.0 only lets you leave; no legalisation programme is open (see [What running away or an expired pass does to you](#what-running-away-or-an-expired-pass-does-to-you)) <sup>[316](#o316), [N88](#n88)</sup>. Anyone but an employer offering to get you a pass is breaking the law (see [Going home without valid papers, Scams](#scams-11)) <sup>[87 (2021)](#o87)</sup>.
 
 > **Need to know**
 > - Will Malaysia open a new legalisation round, now that Bangladesh asked it in August 2026 to register undocumented Bangladeshis <sup>[N193](#n193)</sup>?
@@ -2928,7 +2931,7 @@ Without an NID, a citizenship certificate from your UNO (Upazila Nirbahi Officer
 
 You'll need <sup>[161](#o161)</sup>:
 - the passport number or a copy;
-- your new passport or Travel Permit (above);
+- your new passport or Travel Permit ([Step 1: Get a passport or Travel Permit](#step-1-get-a-passport-or-travel-permit));
 - a police report;
 - a plane, bus or ferry ticket out dated within 7 days.
 
@@ -3007,11 +3010,11 @@ PRM is run by Immigration alone, with no agents; don't pay any broker or anyone 
 - PRM line, 03-8880 1269 <sup>[316](#o316)</sup>.
 - The High Commission's labour wing ([Step 1: Get a passport or Travel Permit](#step-1-get-a-passport-or-travel-permit), "If it fails"), or Minister (Labour) Md. Siddiqur Rahman, ministermalaysia@probashi.gov.bd, +603 2604 0934 <sup>[107](#o107)</sup>.
 - Family in Bangladesh: Probashi call centre (Wage Earners' Welfare Board), 16135 free, +8809610102030 from abroad, 24 hours <sup>[76](#o76)</sup>.
-- Tenaganita (see [If you aren't paid](#if-you-arent-paid)): +603 7770 3671; emergency +6012 335 0512 and +6012 339 5350 <sup>[N158](#n158)</sup>.
+- Tenaganita (see [Free help in Malaysia](#free-help-in-malaysia)): +603 7770 3671; emergency +6012 335 0512 and +6012 339 5350 <sup>[N158](#n158)</sup>.
 
 ### If you are detained
 
-With a valid passport a detainee needs only a ticket, and the depot takes them to the airport and clears them <sup>[130](#o130)</sup>; High Commission officers visit prisons as well as detention camps <sup>[N151](#n151)</sup>. The rest (Travel Permit without a passport, family visits and contact): What can get you jailed, "After arrest".
+With a valid passport a detainee needs only a ticket, and the depot takes them to the airport and clears them <sup>[130](#o130)</sup>; High Commission officers visit prisons as well as detention camps <sup>[N151](#n151)</sup>. The rest (Travel Permit without a passport, family visits and contact): see [After arrest](#after-arrest).
 
 ### Bans after you leave
 
@@ -3024,11 +3027,11 @@ Immigration's Director General can bar a person for a set period or for life, an
 
 ## If a worker dies, is injured or loses the job
 
-PERKESO (SOCSO, see Step 7 of the work visa) pays for injuries, disability and death in Malaysia, and the labour wing chases employers for compensation <sup>[321](#o321), [124 (2024)](#o124)</sup>. In Bangladesh the Wage Earners' Welfare Board (the Welfare Board; Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka) pays grants and handles the insurance bought at BMET clearance, which Jiban Bima Corporation, the state life insurer, pays out <sup>[322](#o322), [323](#o323), [324](#o324), [N202](#n202)</sup>.
+PERKESO (SOCSO, see [After you arrive, item 7](#after-you-arrive-item-7)) pays for injuries, disability and death in Malaysia, and the labour wing chases employers for compensation <sup>[321](#o321), [124 (2024)](#o124)</sup>. In Bangladesh the Wage Earners' Welfare Board (the Welfare Board; Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka) pays grants and handles the insurance bought at BMET clearance, which Jiban Bima Corporation, the state life insurer, pays out <sup>[322](#o322), [323](#o323), [324](#o324), [N202](#n202)</sup>.
 
 ### If you are injured or fall ill
 
-1. <a id="if-you-are-injured-or-fall-ill-1-item-1"></a>**Get treatment.** Free at a government clinic or hospital, or at a PERKESO panel clinic (a private clinic PERKESO appoints), which after a workplace accident checks your cover itself on PERKESO's SEHATi system <sup>[321](#o321), [325](#o325)</sup>. Panel clinics are listed by state (Selangor: perkeso.gov.my/images/Klinik_Panel/Senarai_Klinik/SENARAI_KLINIK_PANEL_SELANGOR.pdf); PERKESO's line is 1-300-22-8000 <sup>[326](#o326), [325](#o325)</sup>. Non-panel clinic costs can be claimed back from PERKESO <sup>[321](#o321)</sup>. At government hospitals SPIKPA covers you without a deposit (see Step 7 of the work visa), and sick leave must be reported within 48 hours (see [Your rights at work](#your-rights-at-work)) <sup>[144](#o144), [33 (2023)](#o33)</sup>.
+1. <a id="if-you-are-injured-or-fall-ill-1-item-1"></a>**Get treatment.** Free at a government clinic or hospital, or at a PERKESO panel clinic (a private clinic PERKESO appoints), which after a workplace accident checks your cover itself on PERKESO's SEHATi system <sup>[321](#o321), [325](#o325)</sup>. Panel clinics are listed by state (Selangor: perkeso.gov.my/images/Klinik_Panel/Senarai_Klinik/SENARAI_KLINIK_PANEL_SELANGOR.pdf); PERKESO's line is 1-300-22-8000 <sup>[326](#o326), [325](#o325)</sup>. Non-panel clinic costs can be claimed back from PERKESO <sup>[321](#o321)</sup>. At government hospitals SPIKPA covers you without a deposit (see [After you arrive, item 7](#after-you-arrive-item-7)), and sick leave must be reported within 48 hours (see [Your rights at work](#your-rights-at-work)) <sup>[144](#o144), [33 (2023)](#o33)</sup>.
 
    > **Need to know**
    > - Where is a current list of PERKESO panel clinics for each state?
@@ -3060,7 +3063,7 @@ PERKESO (SOCSO, see Step 7 of the work visa) pays for injuries, disability and d
    - A worker certified invalid who hasn't paid Invalidity Scheme contributions long enough gets a one-time Invalidity Grant of both sides' contributions with interest <sup>[321](#o321)</sup>.
 
    Payments can go to a bank outside Malaysia: give the account holder, bank, address, branch, account number and SWIFT code on the form, with a bank verification letter <sup>[329](#o329), [327](#o327)</sup>.
-4. <a id="if-you-are-injured-or-fall-ill-1-item-4"></a>**If the employer won't report it or pay you while you are off work,** file a case at the nearest Labour Department office (offices by state at jtksm.mohr.gov.my/ms/hubungi-kami/alamat-ibu-pejabat-dan-cawangan) with your payslips, contract and attendance record, and give a copy to the labour wing (counselorkl@probashi.gov.bd, +60 12-290 3252), which pursues compensation claims <sup>[332](#o332), [131 (2024)](#o131), [107](#o107), [N156](#n156)</sup>. The Labour Court works as in route 3 of "If you aren't paid"; if the employer ignores its Order, the Labour Department can seize and sell its property, take the money from its bank or prosecute it <sup>[97 (2017)](#o97)</sup>. Sample message to the labour wing: "I am [name], passport [number], PLKS with [employer, address]. I was injured at work on [date] at [place]. My employer has not reported it to PERKESO. Please help me claim." Tenaganita and the Bar Council's Legal Aid Centres help with cases (see route 4 of "If you aren't paid") <sup>[N147](#n147), [N161](#n161)</sup>; the ILO (International Labour Organization) does not take complaints from individual workers <sup>[333](#o333)</sup>.
+4. <a id="if-you-are-injured-or-fall-ill-1-item-4"></a>**If the employer won't report it or pay you while you are off work,** file a case at the nearest Labour Department office (offices by state at jtksm.mohr.gov.my/ms/hubungi-kami/alamat-ibu-pejabat-dan-cawangan) with your payslips, contract and attendance record, and give a copy to the labour wing (counselorkl@probashi.gov.bd, +60 12-290 3252), which pursues compensation claims <sup>[332](#o332), [131 (2024)](#o131), [107](#o107), [N156](#n156)</sup>. The Labour Court works as in route 3 (see [If you aren't paid](#if-you-arent-paid)); if the employer ignores its Order, the Labour Department can seize and sell its property, take the money from its bank or prosecute it <sup>[97 (2017)](#o97)</sup>. Sample message to the labour wing: "I am [name], passport [number], PLKS with [employer, address]. I was injured at work on [date] at [place]. My employer has not reported it to PERKESO. Please help me claim." Tenaganita and the Bar Council's Legal Aid Centres help with cases (see [Free help in Malaysia](#free-help-in-malaysia)) <sup>[N147](#n147), [N161](#n161)</sup>; the ILO (International Labour Organization) does not take complaints from individual workers <sup>[333](#o333)</sup>.
 
    > **Need to know**
    > - Does Tenaganita charge workers for its help?
@@ -3076,7 +3079,7 @@ PERKESO (SOCSO, see Step 7 of the work visa) pays for injuries, disability and d
    - one 6R (6 by 8 inch) colour photo of the worker.
 
    A Board committee checks the case by WhatsApp video call and recommends an amount; free, up to 60 working days after all papers are in <sup>[336](#o336), [322](#o322)</sup>.
-7. <a id="if-you-are-injured-or-fall-ill-1-item-7"></a>**Insurance.** It pays Tk 10 lakh for total permanent disability and 10% to 90% of that for partial permanent disability <sup>[19](#o19)</sup>; see ["Claiming the insurance"](#claiming-the-insurance).
+7. <a id="if-you-are-injured-or-fall-ill-1-item-7"></a>**Insurance.** It pays Tk 10 lakh for total permanent disability and 10% to 90% of that for partial permanent disability <sup>[19](#o19)</sup>; see [Claiming the insurance](#claiming-the-insurance).
 
 ### If a worker dies
 
@@ -3135,7 +3138,7 @@ These steps are for the family in Bangladesh.
    - the worker's passport copy.
 
    Paid by bank transfer (BEFTN), with an SMS, within 60 working days of all papers reaching the Board <sup>[323](#o323), [322](#o322)</sup>.
-6. <a id="if-a-worker-dies-item-6"></a>**The insurance:** Tk 10 lakh for a death within 5 years of the smart card date, for workers who left with clearance on or after 1 January 2023 <sup>[348](#o348), [19](#o19)</sup>. Cover for those who left between 19 December 2019 and 31 December 2022 lasted 2 years and has ended <sup>[N204](#n204)</sup>. See "Claiming the insurance".
+6. <a id="if-a-worker-dies-item-6"></a>**The insurance:** Tk 10 lakh for a death within 5 years of the smart card date, for workers who left with clearance on or after 1 January 2023 <sup>[348](#o348), [19](#o19)</sup>. Cover for those who left between 19 December 2019 and 31 December 2022 lasted 2 years and has ended <sup>[N204](#n204)</sup> (see [Claiming the insurance](#claiming-the-insurance)).
 
    > **Need to know**
    > - Are workers who left between 1 January and 11 March 2023 covered, since BMET's leaflet gives the start as 12 March 2023 <sup>[19](#o19)</sup>?
@@ -3163,20 +3166,20 @@ These steps are for the family in Bangladesh.
 ### If you lose the job
 
 1. <a id="if-you-lose-the-job-item-1"></a>**The employer must** tell the Labour Department within 30 days <sup>[33 (2023)](#o33)</sup>. Under the MoU's standard contract it gives 2 months' notice or 2 months' wages, pays all money owed and pays your fare home unless you broke the contract <sup>[40 (2022)](#o40)</sup>. It sends you home on a Check-Out Memo <sup>[24](#o24)</sup>; with under 4 weeks' notice you may stay in its housing up to 4 weeks <sup>[150 (2021)](#o150)</sup>. You can't simply move to another employer ([If you want to change employer](#if-you-want-to-change-employer)) <sup>[41 (2024)](#o41)</sup>.
-2. <a id="if-you-lose-the-job-item-2"></a>**To claim money owed,** go to the Labour Court (["If you aren't paid"](#if-you-arent-paid)) <sup>[97 (2017)](#o97)</sup> with:
+2. <a id="if-you-lose-the-job-item-2"></a>**To claim money owed,** go to the Labour Court (see [If you aren't paid](#if-you-arent-paid), route 3) <sup>[97 (2017)](#o97)</sup> with:
    - your passport;
    - the workplace's name and address;
    - payslips and income details;
    - appointment letter and terms of service;
    - any termination letter.
-3. <a id="if-you-lose-the-job-item-3"></a>**If you were dismissed without just cause,** file a written representation to the Director General of Industrial Relations, by hand at the Industrial Relations Department (JPP) office nearest the workplace, within 60 days of the dismissal or the end of the notice period, and keep the acknowledgement; union membership isn't needed and you can represent yourself <sup>[350 (2021)](#o350), [N206](#n206)</sup>. JPP tries to settle, then sends the case to the Industrial Court, which can award compensation only if you asked for reinstatement <sup>[350 (2021)](#o350), [N206](#n206)</sup>. A letter showing the case is pending usually gets you a Special Pass (see route 3 of "If you aren't paid") <sup>[N82 (2021)](#n82)</sup>.
+3. <a id="if-you-lose-the-job-item-3"></a>**If you were dismissed without just cause,** file a written representation to the Director General of Industrial Relations, by hand at the Industrial Relations Department (JPP) office nearest the workplace, within 60 days of the dismissal or the end of the notice period, and keep the acknowledgement; union membership isn't needed and you can represent yourself <sup>[350 (2021)](#o350), [N206](#n206)</sup>. JPP tries to settle, then sends the case to the Industrial Court, which can award compensation only if you asked for reinstatement <sup>[350 (2021)](#o350), [N206](#n206)</sup>. A letter showing the case is pending usually gets you a Special Pass (see [If you aren't paid](#if-you-arent-paid), route 3) <sup>[N82 (2021)](#n82)</sup>.
 
    > **Need to know**
    > - How does a worker find the address of the JPP office nearest the workplace?
    > - Can the representation be filed online?
    > - Is there a fee to file it?
 
-4. <a id="if-you-lose-the-job-item-4"></a>**Insurance:** coming home within 6 months of going after losing the job pays Tk 50,000 <sup>[19](#o19), [348](#o348)</sup>; see ["Claiming the insurance"](#claiming-the-insurance).
+4. <a id="if-you-lose-the-job-item-4"></a>**Insurance:** coming home within 6 months of going after losing the job pays Tk 50,000 <sup>[19](#o19), [348](#o348)</sup>; see [Claiming the insurance](#claiming-the-insurance).
 
 ### Claiming the insurance
 
@@ -3187,7 +3190,7 @@ These steps are for the family in Bangladesh.
 3. <a id="claiming-the-insurance-item-3"></a>**You'll need:**
    - proof of clearance or membership and a passport copy <sup>[324](#o324)</sup>, with departure and arrival stamps for a lost job <sup>[322](#o322)</sup>;
    - for disability, medical papers and a 6R colour photo of the disabled part of the body <sup>[322](#o322)</sup>;
-   - for a death, the papers in step 5 of "If a worker dies".
+   - for a death, the papers in [If a worker dies, item 5: The Tk 3 lakh Welfare Board grant](#if-a-worker-dies-item-5).
 
    Free; 30 working days <sup>[322](#o322)</sup>.
 
