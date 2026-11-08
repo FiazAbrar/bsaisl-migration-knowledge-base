@@ -6,9 +6,13 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000), SR the Saudi riyal and USD th
 
 ## Background
 
-**In one minute.** Saudi Arabia takes two of every three Bangladeshis who go abroad for work, though 2026 departures are 45% down on 2025 [E0129]. Every work visa belongs to a Saudi sponsor (kafil, কফিল), who can sell it, and it reaches the village through agents and brokers at several times its price [SB0007]. A man pays Tk 4-5 lakh or more, mostly borrowed, against a legal maximum of Tk 1.65 lakh [SB0024]. A cleaner or labourer earns SR 500-1,200 a month (Tk 16,500-40,000) [SJ0007, SL0033]. The sponsor holds the iqama (আকামা, the residence card), and a visa sold for a job that doesn't exist (a "free visa") leaves the worker without an iqama, work or pay [E0128]. A woman going as a domestic worker should pay nothing [D0059].
+### In one minute
 
-**Is it open now, and who can go?** Open as of 7 November 2026, and still the largest destination [E0129]. A man aged 21 to 60 can go on a visa for a named job, and usually needs a Saudi skill certificate; a woman going as a domestic worker must be 25 to 45 and needs none [SH0001, SM0036, D0039, D0161].
+Saudi Arabia takes two of every three Bangladeshis who go abroad for work, though 2026 departures are 45% down on 2025 [E0129]. Every work visa belongs to a Saudi sponsor (kafil, কফিল), who can sell it, and it reaches the village through agents and brokers at several times its price [SB0007]. A man pays Tk 4-5 lakh or more, mostly borrowed, against a legal maximum of Tk 1.65 lakh [SB0024]. A cleaner or labourer earns SR 500-1,200 a month (Tk 16,500-40,000) [SJ0007, SL0033]. The sponsor holds the iqama (আকামা, the residence card), and a visa sold for a job that doesn't exist (a "free visa") leaves the worker without an iqama, work or pay [E0128]. A woman going as a domestic worker should pay nothing [D0059].
+
+### Is it open now, and who can go?
+
+Open as of 7 November 2026, and still the largest destination [E0129]. A man aged 21 to 60 can go on a visa for a named job, and usually needs a Saudi skill certificate; a woman going as a domestic worker must be 25 to 45 and needs none [SH0001, SM0036, D0039, D0161].
 
 *Current situation (7 November 2026; re-check by 7 December 2026).* In February 2026 the Saudi labour ministry cancelled thousands of visa applications filed for jobs that didn't exist, and visas that had appeared on the Saudi system disappeared [E0127, B0079]. The Iran war and Houthi attacks on Saudi airports have cancelled over 1,000 flights since February; Biman flies Dhaka-Dammam daily from 7 November, Dhaka-Riyadh stays suspended, and Riyadh-bound workers go via Jeddah or Madinah [E0130, SH0007, SH0008, SH0009].
 
@@ -62,7 +66,9 @@ A visa also names a profession (মিহনা, the job title on the visa): a m
 
 *Size.* In 2025, 755,194 Bangladeshis went to Saudi Arabia for work; Qatar came next with 107,598 [SB0017]. Saudisation (reserving jobs for Saudis) closes some trades: housing supervisor became Saudi-only in 2026, and firms must give Saudis 60% of sales and marketing jobs [E0124, E0125].
 
-**How a job reaches you, and who takes a cut.** The choke point is the Saudi embassy in Dhaka: of 2,807 licensed agencies, only those it approves can file Saudi work visas, and in September 2025 BMET wrote that it did not know which agencies those are [SI0007, SI0009, SI0008].
+### How a job reaches you, and who takes a cut
+
+The choke point is the Saudi embassy in Dhaka: of 2,807 licensed agencies, only those it approves can file Saudi work visas, and in September 2025 BMET wrote that it did not know which agencies those are [SI0007, SI0009, SI0008].
 
 *The root: a visa the sponsor owns.* An employer issues work visas itself, instantly, on Qiwa, the Saudi labour ministry's platform, if its Nitaqat rating (the Saudisation rating) is at least "medium green" and its government account has enough credit [SI0001, SI0002]. The visa costs about SR 2,000 (Tk 66,000) [SB0006]. A Bangladeshi labour supplier in Saudi Arabia said in October 2026 that sponsors take out two or three permits in their own name for workers they don't need and charge Tk 1-1.5 lakh each, so a permit is worth about Tk 2 lakh before it leaves Saudi Arabia [SI0036, SI0037, SB0007].
 
@@ -86,7 +92,9 @@ A visa also names a profession (মিহনা, the job title on the visa): a m
 
 *The medical.* Brokers sell guaranteed "fit" results from the Wafid medical check (the Gulf health check) at centres allegedly controlled by a few influential owners who issue fake certificates; a worker who paid Tk 25,000 for a fit certificate was found unfit in Saudi Arabia and deported [SB0040, B0031]. The check itself: Work visa: company worker, Step 4.
 
-**What you pay, and what you earn and keep.** The legal maximum for a Saudi job is Tk 1.65 lakh, and the Saudi employer is meant to pay nearly every cost; in practice a man pays Tk 3.5-5 lakh or more, mostly borrowed [A0013, C0020, SJ0004, A0014].
+### What you pay, and what you earn and keep
+
+The legal maximum for a Saudi job is Tk 1.65 lakh, and the Saudi employer is meant to pay nearly every cost; in practice a man pays Tk 3.5-5 lakh or more, mostly borrowed [A0013, C0020, SJ0004, A0014].
 
 *The rule.* The expatriates' ministry set the Tk 1.65 lakh maximum in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming [SJ0019, SJ0001, SB0016]. BMET's permission letters for group visas put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 or Tk 58,610 in two 2025 letters, by cheque or pay order [A0016, A0019]. The fees a worker legitimately pays in Bangladesh: Work visa: company worker, "Who pays what".
 
@@ -133,7 +141,9 @@ Every item is the employer's cost, and nothing may be deducted from wages for it
 
 *What reaches home, and how long the debt takes.* Many low-skilled Gulf workers can send only Tk 15,000-20,000 a month [SB0022]. A man on SR 800 (Tk 26,400) who buys his own food and phone, SR 550-900 a month, keeps at most SR 250 (Tk 8,250) [SM0008]. At Tk 15,000-20,000 a month a Tk 4.5 lakh debt takes 23-30 months before interest, against a usual 2-year contract [SB0022, C0095]; in 2020 men took 19 months or more to recover the cost [SJ0021]. Sending costs and channels: Sending money home.
 
-**What ties you to the employer.** Your visa and iqama belong to your kafil, normally your employer [A0002]. A company worker can resign, leave, and after a year change employer without consent, but only with a valid iqama and a contract recorded on Qiwa; domestic and farm workers don't have these rights [C0053, C0146, SK0006].
+### What ties you to the employer
+
+Your visa and iqama belong to your kafil, normally your employer [A0002]. A company worker can resign, leave, and after a year change employer without consent, but only with a valid iqama and a contract recorded on Qiwa; domestic and farm workers don't have these rights [C0053, C0146, SK0006].
 
 - *To enter:* tied. The work visa names the sponsor and your occupation [A0002, B0075]. On arrival you get a border number (বর্ডার নম্বর), the 10-digit number Jawazat (the passports directorate) gives you until the iqama is issued [SM0030].
 - *To renew:* tied. Only the employer gets and renews your iqama and work permit, and pays for them [C0020].
@@ -166,7 +176,9 @@ Every item is the employer's cost, and nothing may be deducted from wages for it
 
 *An expired iqama.* You are undocumented: no bank, money transfer or SIM, and detention and deportation if stopped [B0132]. The passports directorate fined a failure to renew SR 500, then SR 1,000, then deported (2019) [SK0018]. An expired iqama also lets you change employer without consent, if a new employer takes you [C0055]. Getting home: Going home without valid papers.
 
-**What goes wrong most, and what people wrongly believe.** Nearly every Saudi complaint is one of three things: no iqama, no work, or pay that is late, short or missing, and behind them, again and again, is a visa sold for a job that didn't exist or an employer who won't pay for the permit [E0128, SL0014].
+### What goes wrong most, and what people wrongly believe
+
+Nearly every Saudi complaint is one of three things: no iqama, no work, or pay that is late, short or missing, and behind them, again and again, is a visa sold for a job that didn't exist or an employer who won't pay for the permit [E0128, SL0014].
 
 *Complaints.* Of 114 complaints to BMET in 2023-2024 that OKUP (Ovibashi Karmi Unnayan Program, a migrant workers' organisation) studied, 47% got no work permit on arrival [SL0004]. Men without a permit were often kept until their entry visa ran out, then counted as absconders [SL0011]. Only 39% of complaints were resolved, usually for Tk 20,000 to just over Tk 1 lakh [SL0007]. How to complain: Work visa: company worker, Step 1, "Before paying", and "If you aren't paid" [A0056, C0039].
 

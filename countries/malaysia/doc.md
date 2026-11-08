@@ -6,9 +6,11 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000); RM is the Malaysian ringgit, 
 
 ## Background
 
-**In one minute.** A Malaysia job starts as a quota: permission for one Malaysian employer to bring in a set number of foreign workers [W0043]. Each slot becomes a "calling visa" (কলিং ভিসা) that is sold down a chain: the employer's demand letter is bought in Malaysia, passes through one of the few agencies Malaysia lets into FWCMS (Foreign Workers Centralised Management System, its online visa system), then a licensed agency, then a village broker (দালাল), and every link takes a cut [YE0029, A0028, YE0018, YE0016]. The legal cap was Tk 78,990, but in 2022-24 workers paid about Tk 4.5 to 6 lakh, nearly all of it borrowed [R0008, A0001, YF0021, A0064]. The job pays the RM1,700 minimum (about Tk 52,000) plus overtime, and the debt takes one to three years to clear, longer if the job or the pay doesn't come [Z0137, YI0024, YF0003, YF0025]. The work pass ties you to one employer, and a second medical in Malaysia decides whether you get it at all [W0052, L0043]. The corridor has shut three times, each after a surge of departures and allegations against the agencies; the 2024 shutdown stranded 17,777 workers who had paid [U0041, YA0003, A0045]. Recruitment was announced again in October 2026, but by early November medical checks had not been approved and almost no one had flown [Z0151, YI0001, B0089].
+### In one minute
 
-**Is it open now, and who can go?**
+A Malaysia job starts as a quota: permission for one Malaysian employer to bring in a set number of foreign workers [W0043]. Each slot becomes a "calling visa" (কলিং ভিসা) that is sold down a chain: the employer's demand letter is bought in Malaysia, passes through one of the few agencies Malaysia lets into FWCMS (Foreign Workers Centralised Management System, its online visa system), then a licensed agency, then a village broker (দালাল), and every link takes a cut [YE0029, A0028, YE0018, YE0016]. The legal cap was Tk 78,990, but in 2022-24 workers paid about Tk 4.5 to 6 lakh, nearly all of it borrowed [R0008, A0001, YF0021, A0064]. The job pays the RM1,700 minimum (about Tk 52,000) plus overtime, and the debt takes one to three years to clear, longer if the job or the pay doesn't come [Z0137, YI0024, YF0003, YF0025]. The work pass ties you to one employer, and a second medical in Malaysia decides whether you get it at all [W0052, L0043]. The corridor has shut three times, each after a surge of departures and allegations against the agencies; the 2024 shutdown stranded 17,777 workers who had paid [U0041, YA0003, A0045]. Recruitment was announced again in October 2026, but by early November medical checks had not been approved and almost no one had flown [Z0151, YI0001, B0089].
+
+### Is it open now, and who can go?
 
 Announced, not yet moving.
 
@@ -57,7 +59,7 @@ There is no skill test except in construction, where since January 2025 a worker
 > - How many of the 7,873 had flown by November 2026?
 > - Were CLAB's 800 construction workers of December 2025 to January 2026 among them?
 
-**How a job reaches you, and who takes a cut**
+### How a job reaches you, and who takes a cut
 
 The quota is the root: each approved slot becomes a calling visa that is bought and resold before it reaches a village [W0043, A0026, YE0029]. The choke point is FWCMS, built by the company Bestinet: every Bangladeshi worker's visa passes through it, and only BOESL and 25 private agencies chosen by Malaysia can process a visa in it, so every other agency pays one of them [Z0001, YA0024, Z0144, Z0148, A0029]. On the street the whole arrangement is called the সিন্ডিকেট (syndicate) [YI0019].
 
@@ -102,7 +104,7 @@ Each agency's record, including these cases, is in the `agencies` folder.
 > - What does a village broker take per Malaysia worker?
 > - Does the worker, the agency or both pay him?
 
-**What you pay, and what you earn and keep**
+### What you pay, and what you earn and keep
 
 **The cap.** The Ministry's July 2022 order capped the worker's costs inside Bangladesh at Tk 78,990, with the employer paying everything in Malaysia, airfare both ways included (Step 1, "Before paying") [R0008, R0009, W0027]. Some 2024 permission letters set less, Tk 41,240 or Tk 38,710 (Step 1, item 6) [W0028, W0034]. In April 2026 both governments said employers will bear the full cost, but no cap has been set for private agencies since the October announcement; they proposed at most Tk 2.5 to 3 lakh, the figure the minister expects, and the state minister says nobody followed the old cap [A0097, YD0007, YA0066, G0012].
 
@@ -158,7 +160,7 @@ Workers who ask for the promised pay have been fired or told to do more overtime
 > **Need to know**
 > - What does a plantation worker take home after food in 2026?
 
-**What ties you to the employer**
+### What ties you to the employer
 
 Completely. The PLKS (Pas Lawatan Kerja Sementara, the work pass; the "permit", পারমিট) names one employer; only that employer can bring you in, renew the pass and send you home, and work for anyone else breaks it [W0052, L0079, L0071, K0025, YG0001]. The standard contract is 3 years, renewable, with 90 days' probation, and the air ticket home is due only after the contract is completed [W0035, W0003].
 
@@ -197,7 +199,7 @@ Completely. The PLKS (Pas Lawatan Kerja Sementara, the work pass; the "permit", 
 > **Need to know**
 > - How long does a worker reported as lari (not deported) stay blacklisted?
 
-**What goes wrong most, and what people wrongly believe**
+### What goes wrong most, and what people wrongly believe
 
 Money owed is the commonest complaint: unpaid, late or cut wages, then jobs that don't exist or don't match the promise [J0067, F0022, YH0005, A0014]. Before departure the loss is money taken and no departure, and most complainants get back less than half of it (Step 1, "If an agency or broker takes your money") [G0021, A0074]. OKUP (Ovibashi Karmi Unnayan Program, a Bangladeshi migrants' organisation) finds 75% leave without having seen a contract [A0082].
 
