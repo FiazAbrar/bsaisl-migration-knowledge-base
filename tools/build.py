@@ -206,8 +206,8 @@ def main():
         out.append(link_refs(ln[last:], h2_of[n]))
         lines[n] = "".join(out)
 
-    toc = "".join(("  " if h["lvl"] == 3 else "") + f"- [{h['text']}](#{h['id']})\n"
-                  for h in heads if h["lvl"] in (2, 3) and h["text"] != "Contents" and not (h["ref"] and h["lvl"] == 3))
+    toc = "".join("  " * (h["lvl"] - 2) + f"- [{h['text']}](#{h['id']})\n"
+                  for h in heads if h["lvl"] in (2, 3, 4) and h["text"] != "Contents" and not (h["ref"] and h["lvl"] > 2))
 
     def render(gh):
         out = list(lines)

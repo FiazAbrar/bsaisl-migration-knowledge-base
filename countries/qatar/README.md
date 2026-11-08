@@ -17,25 +17,55 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
   - [What goes wrong most, and what people wrongly believe](#what-goes-wrong-most-and-what-people-wrongly-believe)
 - [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)
 - [Work visa: company worker](#work-visa-company-worker)
+  - [Who pays what](#who-pays-what)
+    - [Before paying: what the law allows](#before-paying-what-the-law-allows)
+    - [The Bangladesh maximum](#the-bangladesh-maximum)
+    - [How to pay](#how-to-pay)
   - [Step 1: Find a real job](#step-1-find-a-real-job)
   - [Step 2: Passport, police clearance and certificates](#step-2-passport-police-clearance-and-certificates)
   - [Step 3: The employer gets your work visa](#step-3-the-employer-gets-your-work-visa)
   - [Step 4: Qatar Visa Center: contract, fingerprints and medical](#step-4-qatar-visa-center-contract-fingerprints-and-medical)
-  - [Step 5: Check your visa is real](#step-5-check-your-visa-is-real)
-  - [Step 6: Orientation, BMET clearance, insurance and the flight](#step-6-orientation-bmet-clearance-insurance-and-the-flight)
-  - [Step 7: After arrival](#step-7-after-arrival)
-  - [Your rights at work](#your-rights-at-work)
-  - [How long you can stay](#how-long-you-can-stay)
-  - [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)
-  - [If you aren't paid](#if-you-arent-paid)
-  - [If you want to change employer](#if-you-want-to-change-employer)
-  - [If your employer reports you absent ("absconding")](#if-your-employer-reports-you-absent-absconding)
-  - [Leaving at the end of the job](#leaving-at-the-end-of-the-job)
-  - [Going home on leave](#going-home-on-leave)
-  - [Bringing your family](#bringing-your-family)
+    - [Fake QVC agents](#fake-qvc-agents)
+  - [Step 5: Check the visa yourself](#step-5-check-the-visa-yourself)
+  - [Step 6: Orientation, BMET clearance, insurance, a loan and the flight](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight)
+  - [Step 7: After you arrive](#step-7-after-you-arrive)
+    - [Welfare Board sign-up if you left without BMET clearance](#welfare-board-sign-up-if-you-left-without-bmet-clearance)
   - [Scams](#scams)
+    - [Done to workers](#done-to-workers)
+    - [Tried by workers](#tried-by-workers)
+  - [Your rights at work](#your-rights-at-work)
+    - [Contract](#contract)
+    - [Pay and deductions](#pay-and-deductions)
+    - [Hours, rest and leave](#hours-rest-and-leave)
+    - [Housing, food and health care](#housing-food-and-health-care)
+    - [Your passport](#your-passport)
+    - [End-of-service pay](#end-of-service-pay)
+  - [Your residence permit](#your-residence-permit)
+    - [How long you can stay and renewing](#how-long-you-can-stay-and-renewing)
+    - [Going home on leave](#going-home-on-leave)
+    - [Bringing your family](#bringing-your-family)
+  - [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)
+    - [Leaving your employer, overstaying, visa trading](#leaving-your-employer-overstaying-visa-trading)
+    - [Late papers and absence](#late-papers-and-absence)
+    - [Strikes and protests](#strikes-and-protests)
+    - [Hundi (informal money transfer)](#hundi-informal-money-transfer)
+    - [Drugs](#drugs)
+    - [Alcohol](#alcohol)
+    - [Cheques and debts](#cheques-and-debts)
+    - [Public behaviour](#public-behaviour)
+    - [Photos, recordings and online](#photos-recordings-and-online)
+    - [Violence, accidents and illegal entry](#violence-accidents-and-illegal-entry)
+    - [Bans on coming back](#bans-on-coming-back)
+  - [If something goes wrong](#if-something-goes-wrong)
+    - [If you aren't paid, are abused or your passport is taken](#if-you-arent-paid-are-abused-or-your-passport-is-taken)
+    - [If you are injured or fall ill](#if-you-are-injured-or-fall-ill)
+    - [If your employer reports you absent ("absconding")](#if-your-employer-reports-you-absent-absconding)
+    - [Legal help](#legal-help)
+  - [Changing employer or leaving](#changing-employer-or-leaving)
+    - [If you want to change employer](#if-you-want-to-change-employer)
+    - [Leaving at the end of the job](#leaving-at-the-end-of-the-job)
 - [Work visa: domestic worker](#work-visa-domestic-worker)
-  - [Who pays](#who-pays)
+  - [Who pays what](#who-pays-what-1)
   - [How a household in Qatar recruits](#how-a-household-in-qatar-recruits)
   - [Step 1: Check you qualify](#step-1-check-you-qualify)
   - [Step 2: Register on OEP and (women) take the housekeeping course](#step-2-register-on-oep-and-women-take-the-housekeeping-course)
@@ -44,57 +74,75 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
   - [Step 5: The employer gets the visa attested at the Bangladesh Embassy in Doha](#step-5-the-employer-gets-the-visa-attested-at-the-bangladesh-embassy-in-doha)
   - [Step 6: Check the visa and do the medical](#step-6-check-the-visa-and-do-the-medical)
   - [Step 7: BMET clearance, the smart card and a loan](#step-7-bmet-clearance-the-smart-card-and-a-loan)
-  - [Step 8: After arrival](#step-8-after-arrival)
-  - [Your rights at work](#your-rights-at-work-1)
-  - [Ending the job and changing employer](#ending-the-job-and-changing-employer)
-  - [If you aren't paid or are abused](#if-you-arent-paid-or-are-abused)
-  - [If you're reported absent ("absconding")](#if-youre-reported-absent-absconding)
-  - [Leaving at the end of the job and going home on leave](#leaving-at-the-end-of-the-job-and-going-home-on-leave)
-  - [Bringing family](#bringing-family)
+  - [Step 8: After you arrive](#step-8-after-you-arrive)
   - [Scams](#scams-1)
+    - [Done to workers](#done-to-workers-1)
+    - [Tried by workers](#tried-by-workers-1)
+  - [Your rights at work](#your-rights-at-work-1)
+    - [Care and dignity](#care-and-dignity)
+    - [Hours, rest and leave](#hours-rest-and-leave-1)
+    - [Tickets and end-of-service pay](#tickets-and-end-of-service-pay)
+    - [Who you work for](#who-you-work-for)
+    - [Injury and death](#injury-and-death)
+    - [Penalties and practice](#penalties-and-practice)
+  - [Bringing your family](#bringing-your-family-1)
+  - [If something goes wrong](#if-something-goes-wrong-1)
+    - [If you aren't paid or are abused](#if-you-arent-paid-or-are-abused)
+    - [If your employer reports you absent ("absconding")](#if-your-employer-reports-you-absent-absconding-1)
+  - [Changing employer or leaving](#changing-employer-or-leaving-1)
+    - [Ending the job and changing employer](#ending-the-job-and-changing-employer)
+    - [Leaving at the end of the job and going home on leave](#leaving-at-the-end-of-the-job-and-going-home-on-leave)
 - [Tourist visa: Hayya A1](#tourist-visa-hayya-a1)
   - [Cost and time](#cost-and-time)
-  - [MOI visit visa](#moi-visit-visa)
   - [Step 1: Prepare your documents and insurance](#step-1-prepare-your-documents-and-insurance)
   - [Step 2: Apply on Hayya](#step-2-apply-on-hayya)
-  - [Step 3: Check your e-visa is real](#step-3-check-your-e-visa-is-real)
+    - [What you'll see](#what-youll-see)
+    - [Changes after approval](#changes-after-approval)
+  - [Step 3: Check your visa is real](#step-3-check-your-visa-is-real)
   - [Step 4: Travel and arrival at Hamad airport](#step-4-travel-and-arrival-at-hamad-airport)
-  - [How long you can stay](#how-long-you-can-stay-1)
-  - [Extending your stay](#extending-your-stay)
-  - [Don't work on a visit visa](#dont-work-on-a-visit-visa)
+  - [How long you can stay](#how-long-you-can-stay)
+    - [Extending your stay](#extending-your-stay)
+  - [Can you work?](#can-you-work)
+  - [If the visa is refused](#if-the-visa-is-refused)
   - [Scams](#scams-2)
+    - [Fake visa papers](#fake-visa-papers)
+    - [Fake websites and paid agents](#fake-websites-and-paid-agents)
+  - [MOI visit visa](#moi-visit-visa)
 - [Family residence (spouse, children and parents)](#family-residence-spouse-children-and-parents)
-  - [Who qualifies](#who-qualifies)
-  - [Who can come](#who-can-come)
-  - [More than one wife](#more-than-one-wife)
-  - [Parents](#parents)
-  - [Family of a Qatari citizen](#family-of-a-qatari-citizen)
-  - [Costs](#costs)
+  - [Who can apply](#who-can-apply)
+    - [Who qualifies](#who-qualifies)
+    - [Who can come](#who-can-come)
+    - [More than one wife](#more-than-one-wife)
+    - [Parents](#parents)
+    - [Family of a Qatari citizen](#family-of-a-qatari-citizen)
+  - [Cost and time](#cost-and-time-1)
   - [Step 1: Check you qualify and gather the papers](#step-1-check-you-qualify-and-gather-the-papers)
   - [Step 2: Attest the marriage and birth certificates](#step-2-attest-the-marriage-and-birth-certificates)
   - [Step 3: Get your employment contract attested](#step-3-get-your-employment-contract-attested)
   - [Step 4: Police clearance and medical for adult family members](#step-4-police-clearance-and-medical-for-adult-family-members)
   - [Step 5: Apply](#step-5-apply)
   - [Step 6: Check and print the visa](#step-6-check-and-print-the-visa)
-  - [Step 7: After arrival](#step-7-after-arrival-1)
-  - [If the visa is refused](#if-the-visa-is-refused)
-  - [Can family members work?](#can-family-members-work)
+  - [Step 7: After you arrive](#step-7-after-you-arrive-1)
+  - [Can you work?](#can-you-work-1)
+  - [If the visa is refused](#if-the-visa-is-refused-1)
   - [Scams](#scams-3)
 - [Family visit visa](#family-visit-visa)
-  - [Who can host](#who-can-host)
-  - [Who can visit](#who-can-visit)
-  - [Costs](#costs-1)
+  - [Who can apply](#who-can-apply-1)
+    - [Who can host](#who-can-host)
+    - [Who can visit](#who-can-visit)
+  - [Cost and time](#cost-and-time-2)
   - [Step 1: Prepare the papers](#step-1-prepare-the-papers)
   - [Step 2: Apply on Metrash and pay](#step-2-apply-on-metrash-and-pay)
   - [Step 3: Buy health insurance](#step-3-buy-health-insurance)
   - [Step 4: Check the visa and travel](#step-4-check-the-visa-and-travel)
-  - [Extending the visit](#extending-the-visit)
-  - [Overstay and working](#overstay-and-working)
-  - [A baby born during the visit](#a-baby-born-during-the-visit)
-  - [Personal visit visa](#personal-visit-visa)
+  - [How long you can stay](#how-long-you-can-stay-1)
+    - [Extending the visit](#extending-the-visit)
+    - [A baby born during the visit](#a-baby-born-during-the-visit)
+  - [Can you work?](#can-you-work-2)
   - [Scams](#scams-4)
+  - [Personal visit visa](#personal-visit-visa)
 - [Business visit](#business-visit)
-  - [How the company applies](#how-the-company-applies)
+  - [Getting the visa](#getting-the-visa)
   - [Meeting or work mission](#meeting-or-work-mission)
   - [Training course](#training-course)
 - [Temporary work visa and work visit](#temporary-work-visa-and-work-visit)
@@ -105,38 +153,49 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
   - [Discover Qatar Transit Visa](#discover-qatar-transit-visa)
   - [Terms](#terms)
 - [Student visa](#student-visa)
+  - [Scholarships](#scholarships)
+    - [Qatar University (undergraduate)](#qatar-university-undergraduate)
+    - [HBKU (graduate studies)](#hbku-graduate-studies)
   - [Step 1: Check the university and programme](#step-1-check-the-university-and-programme)
   - [Step 2: Apply for admission](#step-2-apply-for-admission)
   - [Step 3: Prepare the visa documents](#step-3-prepare-the-visa-documents)
   - [Step 4: Submit the visa application and wait for the decision](#step-4-submit-the-visa-application-and-wait-for-the-decision)
   - [Step 5: After arrival, complete the residence permit within 30 days](#step-5-after-arrival-complete-the-residence-permit-within-30-days)
-  - [Scholarships](#scholarships)
-  - [Can students work?](#can-students-work)
   - [After graduation](#after-graduation)
+  - [Can you work?](#can-you-work-3)
+    - [On campus](#on-campus)
+    - [Off campus through Sahem](#off-campus-through-sahem)
   - [Scams](#scams-5)
+    - [Unlicensed "university" or programme](#unlicensed-university-or-programme)
+    - [Jobs outside the authorised routes](#jobs-outside-the-authorised-routes)
+    - [Fake visa or fake sites](#fake-visa-or-fake-sites)
 - [Hayya A2, A3 and A4 (if you live in a Gulf country, hold certain visas or travel with a Gulf citizen)](#hayya-a2-a3-and-a4-if-you-live-in-a-gulf-country-hold-certain-visas-or-travel-with-a-gulf-citizen)
   - [A2 (GCC Resident Visa)](#a2-gcc-resident-visa)
-  - [On arrival instead](#on-arrival-instead)
   - [A3 (Visa with ETA, Electronic Travel Authorization)](#a3-visa-with-eta-electronic-travel-authorization)
   - [A4](#a4)
 - [Events, conference and medical visits](#events-conference-and-medical-visits)
   - [Conference and Events Visa](#conference-and-events-visa)
   - [Medical treatment visit visa](#medical-treatment-visit-visa)
-  - [Treatment costs](#treatment-costs)
+    - [Treatment costs](#treatment-costs)
 - [Permanent residency, property and investor residence](#permanent-residency-property-and-investor-residence)
   - [Permanent residency](#permanent-residency)
+    - [Who qualifies](#who-qualifies-1)
+    - [What it gives](#what-it-gives)
+    - [How to apply](#how-to-apply)
   - [Property residence](#property-residence)
+    - [Where non-Qataris may buy](#where-non-qataris-may-buy)
+    - [How to apply](#how-to-apply-1)
   - [Investor, entrepreneur, talent and researcher residence](#investor-entrepreneur-talent-and-researcher-residence)
 - [Changing visa type](#changing-visa-type)
-  - [Visit visa to work](#visit-visa-to-work)
-  - [Family residence to work](#family-residence-to-work)
+  - [Visit, tourist or business visa to work](#visit-tourist-or-business-visa-to-work)
+  - [Family dependant to work](#family-dependant-to-work)
   - [Student to work](#student-to-work)
-  - [Changing employer is not changing visa type](#changing-employer-is-not-changing-visa-type)
-  - [Domestic worker to company job](#domestic-worker-to-company-job)
-  - [Change of profession on the RP](#change-of-profession-on-the-rp)
+  - [Domestic worker to a company job](#domestic-worker-to-a-company-job)
+  - [Company worker to another company](#company-worker-to-another-company)
+  - [Changing the job title on the permit](#changing-the-job-title-on-the-permit)
 - [Asylum](#asylum)
   - [Who can get it](#who-can-get-it)
-  - [The procedure](#the-procedure)
+  - [How to apply](#how-to-apply-2)
   - [If it is refused](#if-it-is-refused)
 - [Having a child in Qatar](#having-a-child-in-qatar)
   - [Step 1: Get the Qatari birth certificate](#step-1-get-the-qatari-birth-certificate)
@@ -147,26 +206,35 @@ QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Ban
   - [If the baby is born outside Qatar](#if-the-baby-is-born-outside-qatar)
 - [Sending money home](#sending-money-home)
   - [Use a bank or licensed exchange house, never hundi](#use-a-bank-or-licensed-exchange-house-never-hundi)
-  - [Saving in Bangladesh](#saving-in-bangladesh)
-  - [Saving in Bangladesh: the Probash universal pension](#saving-in-bangladesh-the-probash-universal-pension)
+  - [Saving and pension in Bangladesh](#saving-and-pension-in-bangladesh)
+    - [NRCTA (Non-Resident Convertible Taka Account)](#nrcta-non-resident-convertible-taka-account)
+    - [Wage Earner Development Bond (WEDB)](#wage-earner-development-bond-wedb)
+    - [The Probash universal pension](#the-probash-universal-pension)
 - [Going home without valid papers](#going-home-without-valid-papers)
   - [Help from Bangladesh](#help-from-bangladesh)
   - [Step 1: Get a passport or Travel Permit](#step-1-get-a-passport-or-travel-permit)
   - [Step 2: Settle your residence status](#step-2-settle-your-residence-status)
   - [Step 3: Check for fines and travel bans before the airport](#step-3-check-for-fines-and-travel-bans-before-the-airport)
-  - [Grace periods and crisis flights](#grace-periods-and-crisis-flights)
+  - [Amnesties and grace periods](#amnesties-and-grace-periods)
+  - [If you are detained](#if-you-are-detained)
   - [Bans after you leave](#bans-after-you-leave)
 - [If a worker dies, is injured or loses the job](#if-a-worker-dies-is-injured-or-loses-the-job)
   - [Check you are covered](#check-you-are-covered)
+  - [If you are injured or fall ill](#if-you-are-injured-or-fall-ill-1)
   - [If a worker dies](#if-a-worker-dies)
-  - [If you are injured or fall ill](#if-you-are-injured-or-fall-ill)
+    - [What happens in practice](#what-happens-in-practice)
   - [If you lose the job](#if-you-lose-the-job)
 - [Coming home](#coming-home)
   - [What you can bring home](#what-you-can-bring-home)
-  - [Loans and support after return](#loans-and-support-after-return)
+    - [Duty-free](#duty-free)
+    - [With duty](#with-duty)
+    - [Not allowed](#not-allowed)
+    - [Declaring](#declaring)
+    - [Money](#money)
+  - [Support after return](#support-after-return)
 - [Contacts](#contacts)
   - [In Qatar](#in-qatar)
-  - [Qatar in Bangladesh](#qatar-in-bangladesh)
+  - [Qatar's offices in Bangladesh](#qatars-offices-in-bangladesh)
   - [In Bangladesh](#in-bangladesh)
 - [References](#references)
 
@@ -368,7 +436,7 @@ Since 2020 the law ties you to the employer only to enter Qatar and to keep your
 > - Do Qatar companies make new Bangladeshi workers sign the written request to keep their passport?
 > - How does a worker get the passport back when the company refuses: which office, and does it work?
 
-*Absconding charges.* Leaving your employer's work is still an offence, even when escaping abuse <sup>[3 (2015)](#o3), [N54](#n54)</sup>. The employer files a report free, online or at MOI, and you must contest it in person <sup>[48](#o48), [N6](#n6)</sup>; it leads to a QR 12,000 (about Tk 4.1 lakh) settlement or prosecution, and deportation if unpaid ([If your employer reports you absent](#if-your-employer-reports-you-absent-absconding)) <sup>[49 (2015)](#o49), [3 (2015)](#o3)</sup>. Employers have filed it, cancelled the RP, or used MOL's "Leave Country Notice" to cancel a worker's QID when the worker started a job change or claimed dues <sup>[N6](#n6), [N55 (2023)](#n55)</sup>.
+*Absconding charges.* Leaving your employer's work is still an offence, even when escaping abuse <sup>[3 (2015)](#o3), [N54](#n54)</sup>. The employer files a report free, online or at MOI, and you must contest it in person <sup>[48](#o48), [N6](#n6)</sup>; it leads to a QR 12,000 (about Tk 4.1 lakh) settlement or prosecution, and deportation if unpaid (If your employer reports you absent) <sup>[49 (2015)](#o49), [3 (2015)](#o3)</sup>. Employers have filed it, cancelled the RP, or used MOL's "Leave Country Notice" to cancel a worker's QID when the worker started a job change or claimed dues <sup>[N6](#n6), [N55 (2023)](#n55)</sup>.
 
 *An expired RP.* Late renewal costs QR 10 a day up to QR 6,000 (company work visa, Step 7) <sup>[49 (2015)](#o49)</sup>. More than 90 days after expiry you can no longer change employer and must leave Qatar; staying on is settled at QR 12,000 <sup>[47 (2020)](#o47), [3 (2015)](#o3), [49 (2015)](#o49)</sup>. Without a valid QID you can't get a health card <sup>[50](#o50)</sup>. Qatar's last grace period, three months from 9 February 2025, let people without valid papers leave ([Going home without valid papers](#going-home-without-valid-papers)) <sup>[N56](#n56)</sup>.
 
@@ -432,7 +500,27 @@ These schemes exist but are closed to Bangladesh passport holders, or open only 
 
 ## Work visa: company worker
 
-The employer gets a recruitment approval from MOL and the work visa on company sponsorship (QR 300) from MOI in Qatar; in Bangladesh the worker gets his papers ready, gives his fingerprints, signs the contract (where it applies) and takes the medical at QVC, then gets emigration clearance from BMET and flies; in Qatar the employer completes his residence permit <sup>[8](#o8), [7 (2023)](#o7), [35](#o35), [36](#o36), [17](#o17), [38 (2021)](#o38)</sup>. On the official route a licensed Bangladeshi agency selects the worker from BMET's database <sup>[30](#o30)</sup>; an employer can also recruit for its own account with MOL's approval <sup>[2 (2004)](#o2)</sup>; a worker who got his visa through his own efforts, not through an agency, applies for BMET clearance himself ([Step 6](#step-6-orientation-bmet-clearance-insurance-and-the-flight)) <sup>[17](#o17)</sup>.
+The employer gets a recruitment approval from MOL and the work visa on company sponsorship (QR 300) from MOI in Qatar; in Bangladesh the worker gets his papers ready, gives his fingerprints, signs the contract (where it applies) and takes the medical at QVC, then gets emigration clearance from BMET and flies; in Qatar the employer completes his residence permit <sup>[8](#o8), [7 (2023)](#o7), [35](#o35), [36](#o36), [17](#o17), [38 (2021)](#o38)</sup>. On the official route a licensed Bangladeshi agency selects the worker from BMET's database <sup>[30](#o30)</sup>; an employer can also recruit for its own account with MOL's approval <sup>[2 (2004)](#o2)</sup>; a worker who got his visa through his own efforts, not through an agency, applies for BMET clearance himself ([Step 6](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight)) <sup>[17](#o17)</sup>.
+
+### Who pays what
+
+#### Before paying: what the law allows
+
+In Qatar a licensed recruiter may not charge the worker any fees, recruitment expenses or other costs <sup>[2 (2004)](#o2)</sup>; breaking this carries up to 1 month's prison and/or a fine of QR 2,000 to 6,000, and the court may close the office and revoke its licence <sup>[2 (2004)](#o2)</sup>. Since June 2026 a recruiter that repeats the breach can be named on MOL's website, and the Minister can fine recruitment violations <sup>[4](#o4)</sup>. In BMET's posted letter for BTS Overseas (RL2434), for women housemaids, the employer bears the migration cost and all costs up to arrival in Qatar, such as the airfare <sup>[32](#o32)</sup>.
+
+> **Need to know**
+> - Does any Qatari rule stop the employer itself from recovering visa or recruitment costs from the worker, given that the ban covers licensed recruiters <sup>[2 (2004)](#o2)</sup>?
+
+#### The Bangladesh maximum
+
+The government may fix by order the most a worker pays to go abroad <sup>[28](#o28)</sup>. News reports give Tk 1,00,780 for Qatar, set in 2018 <sup>[N37 (2018)](#n37), [N47](#n47)</sup>, and a district employment officer said in 2025 that the maximum for six Gulf countries including Qatar is Tk 1.15 to 1.2 lakh <sup>[N65](#n65)</sup>.
+
+> **Need to know**
+> - What is the current government maximum for Qatar: is the 2018 figure of Tk 1,00,780 still in force, or has a newer order replaced it?
+
+#### How to pay
+
+Pay the agency only through the bank, into the agency's own bank account, keep every receipt, and don't go to middlemen <sup>[44](#o44), [17](#o17)</sup>.
 
 ### Step 1: Find a real job
 
@@ -454,7 +542,7 @@ The employer gets a recruitment approval from MOL and the work visa on company s
 
    **If it fails:** call the OEP hotline, 09614445271 <sup>[64](#o64)</sup>, or Probash-Bondhu, the 24-hour call centre of the Wage Earners' Welfare Board (WEWB, the Ministry's welfare body for migrant workers and their families): 16135 free in Bangladesh, +8809610102030 from abroad <sup>[65](#o65)</sup>.
 
-2. **Learn a trade if you need one.** On 18 May 2026 Qatar's Labour Minister said Qatar wants workers from 5 specific TTCs in four trades: electrician, plumber, air-conditioning (AC) technician and welding <sup>[24](#o24)</sup>. In Qatar some professions may be done only with a training and test certificate from a centre accredited by MOL, which publishes the list of professions on its website <sup>[4](#o4)</sup>. Food handlers can also take the Food Handler Licensing Examination of Qatar's Ministry of Public Health (MoPH) before travel, at accredited centres in several countries listed on MoPH's website; it is optional and not needed for recruitment, and a pass means no re-test in Qatar for the professional practice licence <sup>[N65](#n65)</sup>.
+2. **Learn a trade if you need one.** On 18 May 2026 Qatar's Labour Minister said Qatar wants workers from 5 specific TTCs in four trades: electrician, plumber, air-conditioning (AC) technician and welding <sup>[24](#o24)</sup>. In Qatar some professions may be done only with a training and test certificate from a centre accredited by MOL, which publishes the list of professions on its website <sup>[4](#o4)</sup>. Food handlers can also take the Food Handler Licensing Examination of Qatar's Ministry of Public Health (MoPH) before travel, at accredited centres in several countries listed on MoPH's website; it is optional and not needed for recruitment, and a pass means no re-test in Qatar for the professional practice licence <sup>[N66](#n66)</sup>.
 
    > **Need to know**
    > - Which five TTCs did Qatar's minister name?
@@ -491,19 +579,19 @@ The employer gets a recruitment approval from MOL and the work visa on company s
 
    The agencies, by posts:
 
-   - **Barcelona Overseas (RL1380):** 1,000 posts (30 Jun 2025): 700 housemaids at QR 1,100 a month, 150 babysitters and 150 cooks at QR 1,200, all women, for Al-Fursan Manpower Recruitment, Doha <sup>[72](#o72)</sup>. In Nov 2019 the Bangladesh embassy in Riyadh named a "Barcelona Overseas", with no RL number given, among agencies that sent women to Saudi Arabia with their age raised <sup>[N66 (2019)](#n66)</sup>.
-   - **T.M. Overseas (RL0498):** 700 posts (4 Sep 2025): 500 housemaids at QR 1,200 to 1,500, 100 babysitters and 100 cooks at QR 1,300, all women, for SAMA ALKHAIR MANPOWER, Doha <sup>[73](#o73)</sup>. On Recruitment Advisor, the worker-review site of the ITUC (International Trade Union Confederation), a Feb 2023 review says it gave a false contract for Bahrain and took Tk 3.5 lakh, and another that a Tk 8 lakh Saudi job paid less than promised and ended in a re-entry ban <sup>[N67](#n67)</sup>.
+   - **Barcelona Overseas (RL1380):** 1,000 posts (30 Jun 2025): 700 housemaids at QR 1,100 a month, 150 babysitters and 150 cooks at QR 1,200, all women, for Al-Fursan Manpower Recruitment, Doha <sup>[72](#o72)</sup>. In Nov 2019 the Bangladesh embassy in Riyadh named a "Barcelona Overseas", with no RL number given, among agencies that sent women to Saudi Arabia with their age raised <sup>[N67 (2019)](#n67)</sup>.
+   - **T.M. Overseas (RL0498):** 700 posts (4 Sep 2025): 500 housemaids at QR 1,200 to 1,500, 100 babysitters and 100 cooks at QR 1,300, all women, for SAMA ALKHAIR MANPOWER, Doha <sup>[73](#o73)</sup>. On Recruitment Advisor, the worker-review site of the ITUC (International Trade Union Confederation), a Feb 2023 review says it gave a false contract for Bahrain and took Tk 3.5 lakh, and another that a Tk 8 lakh Saudi job paid less than promised and ended in a re-entry ban <sup>[N68](#n68)</sup>.
    - **Bonanza Overseas (RL0579):** 247 posts in two letters for Urban Hospitality Services, Doha: 210 cleaners, cooks, waiters, technicians and drivers at QR 1,000 to 2,000 with a cap of Tk 19,560 (Nov 2024), and 37 mostly operating-theatre technicians (May 2025) <sup>[70 (2024)](#o70), [74](#o74)</sup>. Outside evidence below.
    - **BTS Overseas (RL2434):** 100 posts (5 Aug 2025): women housemaids for OKAZ Manpower, Al Messila <sup>[32](#o32)</sup>.
    - **Ar-Rafi Overseas (RL1790):** 90 posts (9 Sep 2024): 30 welders at QR 1,980 to 2,100 and 60 helpers at QR 1,000 for Montiara (spelt "Montira" on this letter), cap Tk 92,000 <sup>[68 (2024)](#o68)</sup>.
-   - **Stanford Employment (RL1352):** 84 posts (9 Sep 2024) for Montiara, cap Tk 92,000 <sup>[69 (2024)](#o69)</sup>. A Ministry gazette revoked its licence in July 2026 among 49 agencies in the Malaysia syndicate case, the Appellate Division let the revocation stand in October 2026, and OEP shows it "Cancelled" <sup>[N68](#n68), [N69](#n69), [66](#o66)</sup>.
-   - **Zirabo Overseas (RL1458):** 40 posts (Nov 2024): 30 welders and 10 helpers for Montiara, Tk 70,000 <sup>[71 (2024)](#o71)</sup>. Bonik Barta (Oct 2025) reported its licence among 45 cancelled for not sending even 100 workers, yet OEP still shows it "Active" <sup>[N70](#n70), [66](#o66)</sup>.
+   - **Stanford Employment (RL1352):** 84 posts (9 Sep 2024) for Montiara, cap Tk 92,000 <sup>[69 (2024)](#o69)</sup>. A Ministry gazette revoked its licence in July 2026 among 49 agencies in the Malaysia syndicate case, the Appellate Division let the revocation stand in October 2026, and OEP shows it "Cancelled" <sup>[N69](#n69), [N70](#n70), [66](#o66)</sup>.
+   - **Zirabo Overseas (RL1458):** 40 posts (Nov 2024): 30 welders and 10 helpers for Montiara, Tk 70,000 <sup>[71 (2024)](#o71)</sup>. Bonik Barta (Oct 2025) reported its licence among 45 cancelled for not sending even 100 workers, yet OEP still shows it "Active" <sup>[N71](#n71), [66](#o66)</sup>.
 
    > **Need to know**
    > - Is RL1380 the "Barcelona Overseas" the Riyadh embassy named in Nov 2019?
    > - Is Zirabo Overseas (RL1458) licensed to recruit today, or was its licence cancelled on 30 Oct 2025?
 
-   **The one agency with outside evidence of fair recruitment.** Bonanza Overseas was the Bangladeshi agency in the 2018-21 ILO and MOL pilot, recruiting for STS, the company placing workers on QDVC construction sites ([Background](#background), part 2) <sup>[N32 (2022)](#n32)</sup>. It advertised jobs in local media and recruited directly in workers' villages to cut out fee-charging brokers <sup>[N71](#n71)</sup>. Workers' average cost fell from USD 3,408 before STS changed its policy to USD 300 after the pilot, mostly their own passport and travel inside Bangladesh <sup>[N71](#n71)</sup>. The evidence covers that one construction channel; its Doha hospitality cap of Tk 19,560 compares with Tk 70,000 to 92,000 on the Montiara letters <sup>[N32 (2022)](#n32), [70 (2024)](#o70), [68 (2024)](#o68), [71 (2024)](#o71)</sup>.
+   **The one agency with outside evidence of fair recruitment.** Bonanza Overseas was the Bangladeshi agency in the 2018-21 ILO and MOL pilot, recruiting for STS, the company placing workers on QDVC construction sites ([Background](#background), part 2) <sup>[N32 (2022)](#n32)</sup>. It advertised jobs in local media and recruited directly in workers' villages to cut out fee-charging brokers <sup>[N72](#n72)</sup>. Workers' average cost fell from USD 3,408 before STS changed its policy to USD 300 after the pilot, mostly their own passport and travel inside Bangladesh <sup>[N72](#n72)</sup>. The evidence covers that one construction channel; its Doha hospitality cap of Tk 19,560 compares with Tk 70,000 to 92,000 on the Montiara letters <sup>[N32 (2022)](#n32), [70 (2024)](#o70), [68 (2024)](#o68), [71 (2024)](#o71)</sup>.
 
    > **Need to know**
    > - What did Bonanza's 2024-25 Urban Hospitality recruits actually pay, including any broker's cut?
@@ -524,27 +612,27 @@ The employer gets a recruitment approval from MOL and the work visa on company s
       > **Need to know**
       > - Can a worker check with the Embassy the reference number printed beside the employer on a BMET permission letter (for example "LW-QA-456, 03/06/2025") <sup>[32](#o32), [31 (2021)](#o31)</sup>?
 
-   3. Look for BMET's permission letter for the job order: open bmet.gov.bd/pages/miscellaneous-infos and search কাতার ([Qatar in Bangla](#qatar-in-bangladesh); the English word finds nothing) <sup>[18](#o18), [76](#o76)</sup>. A real letter shows the memo number and date, the agency and its RL number, the Qatar employer and its address, the reference number beside the employer, the job, the number of workers, the salary, the contract terms and who bears the migration cost <sup>[32](#o32)</sup>. It also requires the agency to file an undertaking, on a Tk 300 non-judicial stamp, that the contract terms will be kept, the workers will get the job and the pay, housing and benefits offered, and that if anything goes wrong the agency will pay the worker's food, lodging and return costs and any compensation the authorities impose <sup>[32](#o32)</sup>. The search finds only one of the eight Qatar letters BMET posted; all eight are under "Which agencies hold Qatar job orders" (item 3) <sup>[67](#o67), [75](#o75), [18](#o18)</sup>.
+   3. Look for BMET's permission letter for the job order: open bmet.gov.bd/pages/miscellaneous-infos and search কাতার (Qatar in Bangla; the English word finds nothing) <sup>[18](#o18), [76](#o76)</sup>. A real letter shows the memo number and date, the agency and its RL number, the Qatar employer and its address, the reference number beside the employer, the job, the number of workers, the salary, the contract terms and who bears the migration cost <sup>[32](#o32)</sup>. It also requires the agency to file an undertaking, on a Tk 300 non-judicial stamp, that the contract terms will be kept, the workers will get the job and the pay, housing and benefits offered, and that if anything goes wrong the agency will pay the worker's food, lodging and return costs and any compensation the authorities impose <sup>[32](#o32)</sup>. The search finds only one of the eight Qatar letters BMET posted; all eight are under "Which agencies hold Qatar job orders" (item 3) <sup>[67](#o67), [75](#o75), [18](#o18)</sup>.
 
       > **Need to know**
       > - Does BMET still issue permission letters for Qatar jobs since it stopped posting them?
       > - Can a worker get a copy of a permission letter from BMET?
 
-   4. Ask for the employer's establishment ID: MOL approves recruitment only for a company whose ID is active and not banned <sup>[7 (2023)](#o7)</sup>. Qatar's Ministry of Commerce and Industry promotes a Company Inquiry Service, ucs.moci.gov.qa, to review a company's record before dealing with it <sup>[N72](#n72)</sup>.
+   4. Ask for the employer's establishment ID: MOL approves recruitment only for a company whose ID is active and not banned <sup>[7 (2023)](#o7)</sup>. Qatar's Ministry of Commerce and Industry promotes a Company Inquiry Service, ucs.moci.gov.qa, to review a company's record before dealing with it <sup>[N73](#n73)</sup>.
 
       > **Need to know**
-      > - Does the Company Inquiry Service open free without a Qatari login (its page wouldn't load for us) <sup>[N72](#n72)</sup>?
-      > - What does the Company Inquiry Service show about a company <sup>[N72](#n72)</sup>?
+      > - Does the Company Inquiry Service open free without a Qatari login (its page wouldn't load for us) <sup>[N73](#n73)</sup>?
+      > - What does the Company Inquiry Service show about a company <sup>[N73](#n73)</sup>?
 
-   **What happens in practice:** workers report paying agencies Tk 3 to 4.2 lakh for Qatar construction, garment and electrician jobs; three got a fake contract letter, two of them didn't get the promised job or pay, and the electrician got the job and pay promised <sup>[N73 (2023)](#n73), [N74 (2023)](#n74), [N75 (2023)](#n75)</sup>.
+   **What happens in practice:** workers report paying agencies Tk 3 to 4.2 lakh for Qatar construction, garment and electrician jobs; three got a fake contract letter, two of them didn't get the promised job or pay, and the electrician got the job and pay promised <sup>[N74 (2023)](#n74), [N75 (2023)](#n75), [N76 (2023)](#n76)</sup>.
 
-5. **If a relative or friend in Qatar sends you a visa.** The relative arranges the visa in Qatar, often after paying the employer or someone else, and a Dhaka broker or agency does only the medical, the BMET card and the ticket <sup>[N76 (2017)](#n76), [N77 (2017)](#n77)</sup>. BMET calls a visa cleared one at a time a "single" visa, whoever found it; it charges source tax of Tk 250 if the Embassy in Doha attested the contract and Tk 400 if not <sup>[17](#o17)</sup>.
+5. **If a relative or friend in Qatar sends you a visa.** The relative arranges the visa in Qatar, often after paying the employer or someone else, and a Dhaka broker or agency does only the medical, the BMET card and the ticket <sup>[N77 (2017)](#n77), [N78 (2017)](#n78)</sup>. BMET calls a visa cleared one at a time a "single" visa, whoever found it; it charges source tax of Tk 250 if the Embassy in Doha attested the contract and Tk 400 if not <sup>[17](#o17)</sup>.
 
    **What the relative may be sending.** All five arrive looking like a real Qatar visa, and a bought visa also shows as genuine on MOI's checker <sup>[N34](#n34)</sup>:
    - *A real job with the relative's own employer.* The employer gets MOL's approval and pays MOI's QR 300 visa fee ([Step 3](#step-3-the-employer-gets-your-work-visa)) <sup>[8](#o8)</sup>. Processors call it a "company visa": you work at the company and in the job written on the visa <sup>[N34](#n34)</sup>.
-   - *A bought ("free") visa.* A sponsor or company with spare visas sells them on through several hands, and the worker must find his own work <sup>[N77 (2017)](#n77), [N34](#n34)</sup>. Working for anyone but the sponsor is illegal in Qatar, and buying or selling a visa is a crime in Bangladesh too ([Background](#background), part 2) <sup>[3 (2015)](#o3), [28](#o28)</sup>.
+   - *A bought ("free") visa.* A sponsor or company with spare visas sells them on through several hands, and the worker must find his own work <sup>[N78 (2017)](#n78), [N34](#n34)</sup>. Working for anyone but the sponsor is illegal in Qatar, and buying or selling a visa is a crime in Bangladesh too ([Background](#background), part 2) <sup>[3 (2015)](#o3), [28](#o28)</sup>.
    - *A labour-supply (manpower) company visa.* A genuine company visa, but the company hires workers out to client sites, recruiters often let workers believe they are direct hires, and wages are often "late until the client pays" <sup>[N26](#n26)</sup>. **Sign:** the company on the visa is not the company at the site where you'll work.
-   - *A household visa, often a "house-driver visa".* The sponsor is a Qatari individual, not a company, and you come under the Domestic Workers Law, not the Labour Law (see [Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[N34](#n34), [15 (2017)](#o15), [4](#o4)</sup>. If the sponsor on the visa is a person and you were promised company work, the visa is not what you were told; a driving job promised by a relative and a building site on arrival is a known switch (a 2016 Noakhali case, below) <sup>[N78 (2016)](#n78)</sup>. What a Qatar driving licence takes and costs is in Background, part 3, "If you go as a driver".
+   - *A household visa, often a "house-driver visa".* The sponsor is a Qatari individual, not a company, and you come under the Domestic Workers Law, not the Labour Law (see [Work visa: domestic worker](#work-visa-domestic-worker)) <sup>[N34](#n34), [15 (2017)](#o15), [4](#o4)</sup>. If the sponsor on the visa is a person and you were promised company work, the visa is not what you were told; a driving job promised by a relative and a building site on arrival is a known switch (a 2016 Noakhali case, below) <sup>[N79 (2016)](#n79)</sup>. What a Qatar driving licence takes and costs is in Background, part 3, "If you go as a driver".
    - *A family visit or Hayya visa sold as a way into work.* A Hayya visa never allows work <sup>[52](#o52)</sup>, and a visit visa can't be turned into a work visa inside Qatar: you must leave and re-enter (see [Changing visa type](#changing-visa-type)) <sup>[77](#o77)</sup>. A family visit visa needs a host who is a first-degree relative and has family accommodation in his own name <sup>[78](#o78)</sup>.
 
    > **Need to know**
@@ -554,7 +642,7 @@ The employer gets a recruitment approval from MOL and the work visa on company s
    **Cost.** Free-visa workers spent an average of Tk 4,99,802 in 2025, against a government-set average of Tk 1,16,224 <sup>[N14](#n14)</sup>; in May 2026 the reported range was Tk 4 to 7 lakh <sup>[N8](#n8)</sup>. What people already in Qatar pay a sponsor for one is in Background, part 4, "The free visa". 21% of free-visa workers paid about Tk 1.5 lakh more after arrival to get their work permit (iqama), and 14% never got one and stayed on illegally <sup>[N14](#n14)</sup>.
    - **Paid by the employer:** the MOI visa (QR 300) and the QR 490 contract and medical fee at QVC ([Step 3](#step-3-the-employer-gets-your-work-visa)) <sup>[8](#o8), [79 (2021)](#o79)</sup>. QVC said in 2025 that appointments are free and nobody needs to be paid for one <sup>[N30](#n30)</sup>, so any QVC charge passed on to you is a markup.
    - **Paid by you in Bangladesh:** the passport (Tk 4,025 regular, 5 years) <sup>[80](#o80)</sup>, the police clearance ([Step 2](#step-2-passport-police-clearance-and-certificates)) <sup>[81](#o81)</sup>, the PDO (pre-departure orientation) course fee <sup>[17](#o17)</sup>, and BMET's fees (sub-step 5) <sup>[82](#o82), [44](#o44), [17](#o17)</sup>.
-   - **The ticket:** in BMET's posted letter for BTS Overseas (RL2434), for women housemaids, the employer pays the airfare <sup>[32](#o32)</sup>; on this route the worker usually buys it through the Dhaka broker <sup>[N77 (2017)](#n77)</sup>.
+   - **The ticket:** in BMET's posted letter for BTS Overseas (RL2434), for women housemaids, the employer pays the airfare <sup>[32](#o32)</sup>; on this route the worker usually buys it through the Dhaka broker <sup>[N78 (2017)](#n78)</sup>.
 
    > **Need to know**
    > - In 2026, what does a relative in Doha charge for a visa from his own company when the company charged nothing?
@@ -562,7 +650,7 @@ The employer gets a recruitment approval from MOL and the work visa on company s
    > - Under Qatari law, does the employer have to pay a company worker's ticket, given that Qatar's fee ban covers licensed recruiters only <sup>[2 (2004)](#o2)</sup>?
 
    **You'll need from the relative, before any money moves:**
-   - a clear copy of the visa printout, with the visa number, your passport number, the sponsor's name and whether it is a company or a person, the job title and the wage <sup>[83](#o83), [N79](#n79), [N34](#n34)</sup>;
+   - a clear copy of the visa printout, with the visa number, your passport number, the sponsor's name and whether it is a company or a person, the job title and the wage <sup>[83](#o83), [N80](#n80), [N34](#n34)</sup>;
    - the MOI reference (visa) number the employer uses to book QVC <sup>[N4 (2018)](#n4), [N30](#n30)</sup>;
    - a photo of the company's establishment card (its registration with the Qatar authorities) <sup>[7 (2023)](#o7)</sup>;
    - the company's name in Arabic and English and where the work site is;
@@ -573,7 +661,7 @@ The employer gets a recruitment approval from MOL and the work visa on company s
    > **Need to know**
    > - Does a Qatar work visa stay valid if the worker renews his passport after it is issued, or must the sponsor apply again?
 
-   1. **Check the visa, the sponsor and the job.** Have BMET check the visa first ([Step 5](#step-5-check-your-visa-is-real), item 2) <sup>[17](#o17)</sup>, then MOI's Visa Inquiry ([Step 5](#step-5-check-your-visa-is-real), item 1) <sup>[85 (2022)](#o85)</sup>. Since a bought visa also shows as genuine, check what no checker can <sup>[N34](#n34)</sup>: whether the company on the visa is the one you'll work for, and whether the job title matches the job promised <sup>[N34](#n34)</sup>. Call the Bangladeshi working there now.
+   1. **Check the visa, the sponsor and the job.** Have BMET check the visa first ([Step 5](#step-5-check-the-visa-yourself), item 2) <sup>[17](#o17)</sup>, then MOI's Visa Inquiry ([Step 5](#step-5-check-the-visa-yourself), item 1) <sup>[85 (2022)](#o85)</sup>. Since a bought visa also shows as genuine, check what no checker can <sup>[N34](#n34)</sup>: whether the company on the visa is the one you'll work for, and whether the job title matches the job promised <sup>[N34](#n34)</sup>. Call the Bangladeshi working there now.
 
    2. **Check the wage in writing.** The minimum wage is QR 1,000 a month basic, plus QR 500 for housing and QR 300 for food unless the employer provides them, and a lower wage is void ([Your rights at work](#your-rights-at-work)) <sup>[11](#o11), [86 (2020)](#o86)</sup>. If the visa or contract shows less than QR 1,000 basic, or neither housing and food nor the QR 800 for them, don't pay.
 
@@ -582,13 +670,13 @@ The employer gets a recruitment approval from MOL and the work visa on company s
       > **Need to know**
       > - When a worker is found unfit at QVC, does a relative who sold him the visa ever return the money?
 
-   4. **Ask whether the contract is attested.** For an individual male worker, the sponsor or its PRO has it attested at the Bangladesh Embassy in Doha ([Step 3](#step-3-the-employer-gets-your-work-visa), item 4) <sup>[88 (2021)](#o88)</sup>. Dhaka processors say clearance on a non-attested Qatar visa needs extra checks and costs more <sup>[N80](#n80)</sup>. In June 2026 sources alleged that agencies and brokers get BMET clearance on unattested visas, charging Tk 4 to 6 lakh, and that many such workers find no company on arrival <sup>[N38](#n38)</sup>.
+   4. **Ask whether the contract is attested.** For an individual male worker, the sponsor or its PRO has it attested at the Bangladesh Embassy in Doha ([Step 3](#step-3-the-employer-gets-your-work-visa), item 4) <sup>[88 (2021)](#o88)</sup>. Dhaka processors say clearance on a non-attested Qatar visa needs extra checks and costs more <sup>[N81](#n81)</sup>. In June 2026 sources alleged that agencies and brokers get BMET clearance on unattested visas, charging Tk 4 to 6 lakh, and that many such workers find no company on arrival <sup>[N38](#n38)</sup>.
 
       > **Need to know**
       > - In 2026, does BMET's emigration branch refuse a Qatar single visa whose contract the Embassy in Doha hasn't attested?
       > - Which agencies processed the unattested Qatar visas reported in June 2026?
 
-   5. **PDO and BMET clearance (the "manpower card").** Do the PDO first ([Step 6](#step-6-orientation-bmet-clearance-insurance-and-the-flight), item 1), then apply for clearance yourself with the papers in [Step 6](#step-6-orientation-bmet-clearance-insurance-and-the-flight), item 3; it takes 3 working days <sup>[17](#o17)</sup>. A Dhaka processor says a worker who got his own visa can also apply on BMET's online platform, oc.bmet.gov.bd <sup>[N80](#n80)</sup>. The official fees are in [Step 6](#step-6-orientation-bmet-clearance-insurance-and-the-flight), item 3 <sup>[82](#o82), [17](#o17)</sup>. One Dhaka processor charges Tk 9,000 all-in on an attested visa and Tk 9,500 to 10,000 on a non-attested one <sup>[N80](#n80)</sup>.
+   5. **PDO and BMET clearance (the "manpower card").** Do the PDO first ([Step 6](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight), item 1), then apply for clearance yourself with the papers in [Step 6](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight), item 3; it takes 3 working days <sup>[17](#o17)</sup>. A Dhaka processor says a worker who got his own visa can also apply on BMET's online platform, oc.bmet.gov.bd <sup>[N81](#n81)</sup>. The official fees are in [Step 6](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight), item 3 <sup>[82](#o82), [17](#o17)</sup>. One Dhaka processor charges Tk 9,000 all-in on an attested visa and Tk 9,500 to 10,000 on a non-attested one <sup>[N81](#n81)</sup>.
 
       > **Need to know**
       > - Who attests the copy of the OEP registration card for a worker clearing his own visa: a gazetted officer, or BMET itself?
@@ -598,24 +686,24 @@ The employer gets a recruitment approval from MOL and the work visa on company s
       > **Need to know**
       > - Do families take a stamp-paper deed, a security cheque or a witnessed receipt from a relative selling a Qatar visa, and has any of them helped recover money?
 
-   7. **After you land: get the QID, then check the first pay.** The employer applies for your residence permit (RP, carried on the QID) after your medical and fingerprints in Qatar; tracking it, and what to do if it isn't issued or you can't find the company, are in [Step 7](#step-7-after-arrival) <sup>[38 (2021)](#o38), [89 (2021)](#o89), [51 (2021)](#o51)</sup>. Your wage must reach a Qatar bank account through WPS (the Wage Protection System) by the dates in [Step 7](#step-7-after-arrival), item 7, and be at least the minimum (sub-step 2) <sup>[90](#o90), [11](#o11)</sup>. If it doesn't, you can ask MOL to change employer or end the contract, and the employer must pay your ticket home ([If you aren't paid](#if-you-arent-paid)) <sup>[4](#o4)</sup>.
+   7. **After you land: get the QID, then check the first pay.** The employer applies for your residence permit (RP, carried on the QID) after your medical and fingerprints in Qatar; tracking it, and what to do if it isn't issued or you can't find the company, are in [Step 7](#step-7-after-you-arrive) <sup>[38 (2021)](#o38), [89 (2021)](#o89), [51 (2021)](#o51)</sup>. Your wage must reach a Qatar bank account through WPS (the Wage Protection System) by the dates in [Step 7](#step-7-after-you-arrive), item 7, and be at least the minimum (sub-step 2) <sup>[90](#o90), [11](#o11)</sup>. If it doesn't, you can ask MOL to change employer or end the contract, and the employer must pay your ticket home ([If you aren't paid](#if-you-arent-paid-are-abused-or-your-passport-is-taken)) <sup>[4](#o4)</sup>.
 
    8. **If there is no job, or the wrong job.** You don't need the sponsor's permission (NOC, no-objection certificate) to move <sup>[11](#o11)</sup>: get the QID first, then apply as in If you want to change employer; before the RP is issued, the authorities can move your work visa to another employer with MOL's approval <sup>[47 (2020)](#o47), [14 (2019)](#o14)</sup>. Act before any absconding report is filed: a labour ministry official said in 2020 that a report filed first blocks the change <sup>[N51 (2020)](#n51)</sup>. In 2023 employers still demanded a signed resignation letter, which workers call "release papers" <sup>[N50 (2023)](#n50)</sup>; Bangla guides call changing employer "kafala change" <sup>[N45](#n45)</sup>.
 
-   **The trap: paying for what the sponsor must do free.** The sponsor alone must issue and renew your RP <sup>[3 (2015)](#o3)</sup>. In 2020 a Bangladeshi labourer was asked for QR 4,000 to issue his RP and threatened with a runaway case if he didn't pay <sup>[N81 (2020)](#n81)</sup>. In 2024 a buyer paid QR 10,000 for a visa with no job, then QR 3,000 to renew his QID, still not renewed 2.5 months later <sup>[N57](#n57)</sup>. Some employers still demand fees to "release" workers, though the law no longer needs it <sup>[N6](#n6)</sup>. Working for a company other than your sponsor is settled at QR 12,000 or prosecuted, with deportation if unpaid ([What can get you jailed or deported](#what-can-get-you-jailed-or-deported); for an absconding case, If your employer reports you absent) <sup>[49 (2015)](#o49), [3 (2015)](#o3), [51 (2021)](#o51)</sup>. MOI's last grace period for people without valid papers ran from 9 February 2025 for three months ([Going home without valid papers](#going-home-without-valid-papers)) <sup>[N56](#n56)</sup>.
+   **The trap: paying for what the sponsor must do free.** The sponsor alone must issue and renew your RP <sup>[3 (2015)](#o3)</sup>. In 2020 a Bangladeshi labourer was asked for QR 4,000 to issue his RP and threatened with a runaway case if he didn't pay <sup>[N82 (2020)](#n82)</sup>. In 2024 a buyer paid QR 10,000 for a visa with no job, then QR 3,000 to renew his QID, still not renewed 2.5 months later <sup>[N57](#n57)</sup>. Some employers still demand fees to "release" workers, though the law no longer needs it <sup>[N6](#n6)</sup>. Working for a company other than your sponsor is settled at QR 12,000 or prosecuted, with deportation if unpaid ([What can get you jailed or deported](#what-can-get-you-jailed-or-deported); for an absconding case, If your employer reports you absent) <sup>[49 (2015)](#o49), [3 (2015)](#o3), [51 (2021)](#o51)</sup>. MOI's last grace period for people without valid papers ran from 9 February 2025 for three months ([Going home without valid papers](#going-home-without-valid-papers)) <sup>[N56](#n56)</sup>.
 
    > **Need to know**
-   > - Have Qatar's residency raids continued in 2025-26, after the latest report we found, from 2019 <sup>[N82 (2019)](#n82)</sup>?
-   > - Do the raids still pick up people whose ID expired more than three months earlier and people working for another company, as in 2019 <sup>[N82 (2019)](#n82)</sup>?
+   > - Have Qatar's residency raids continued in 2025-26, after the latest report we found, from 2019 <sup>[N83 (2019)](#n83)</sup>?
+   > - Do the raids still pick up people whose ID expired more than three months earlier and people working for another company, as in 2019 <sup>[N83 (2019)](#n83)</sup>?
 
    **What goes wrong most.**
-   - *No company, or no job.* In 2023 workers who paid Tk 4 to 5 lakh waited months; one who came through an acquaintance waited 3 months and 10 days in Doha, then was given QR 1,000 and told nothing more would come <sup>[N83 (2023)](#n83)</sup>. Free-visa workers then look for illegal day labour and face arrest or deportation <sup>[N8](#n8)</sup>.
-   - *A different job or a lower wage.* In 2016 a Noakhali man borrowed Tk 3.25 lakh at 30% a year after a relative in Qatar promised QR 2,000 a month as a driver; he was put on a building site on QR 600 basic plus QR 200 for food <sup>[N78 (2016)](#n78)</sup>. In 2017 a worker sent a visa by his maternal uncle learned on arrival he was down as a carpenter and was paid QR 700, not the QR 950 promised <sup>[N77 (2017)](#n77)</sup>. Both wages are below today's legal minimum (sub-step 2) <sup>[11](#o11)</sup>.
-   - *A runaway case.* Employers have filed false absconding reports against workers who complained to MOL ([If your employer reports you absent](#if-your-employer-reports-you-absent-absconding)) <sup>[N81 (2020)](#n81), [51 (2021)](#o51)</sup>.
+   - *No company, or no job.* In 2023 workers who paid Tk 4 to 5 lakh waited months; one who came through an acquaintance waited 3 months and 10 days in Doha, then was given QR 1,000 and told nothing more would come <sup>[N84 (2023)](#n84)</sup>. Free-visa workers then look for illegal day labour and face arrest or deportation <sup>[N8](#n8)</sup>.
+   - *A different job or a lower wage.* In 2016 a Noakhali man borrowed Tk 3.25 lakh at 30% a year after a relative in Qatar promised QR 2,000 a month as a driver; he was put on a building site on QR 600 basic plus QR 200 for food <sup>[N79 (2016)](#n79)</sup>. In 2017 a worker sent a visa by his maternal uncle learned on arrival he was down as a carpenter and was paid QR 700, not the QR 950 promised <sup>[N78 (2017)](#n78)</sup>. Both wages are below today's legal minimum (sub-step 2) <sup>[11](#o11)</sup>.
+   - *A runaway case.* Employers have filed false absconding reports against workers who complained to MOL ([If your employer reports you absent](#if-your-employer-reports-you-absent-absconding)) <sup>[N82 (2020)](#n82), [51 (2021)](#o51)</sup>.
    - *Debt.* Most free-visa migrants borrowed, and those who mortgaged land and came back without work couldn't recover it <sup>[N14](#n14)</sup>.
 
    **If the relative cheats you.**
-   1. *Settlement.* In villages, brokers who fail to send a client have been pushed through a shalish (village elders' arbitration) to repay, in one 2017 case half the money <sup>[N77 (2017)](#n77)</sup>.
+   1. *Settlement.* In villages, brokers who fail to send a client have been pushed through a shalish (village elders' arbitration) to repay, in one 2017 case half the money <sup>[N78 (2017)](#n78)</sup>.
 
       > **Need to know**
       > - Is a written settlement signed before witnesses or at the Union Parishad enforceable if the relative doesn't pay?
@@ -632,39 +720,7 @@ The employer gets a recruitment approval from MOL and the work visa on company s
       > - Do police stations register these cases against a relative?
       > - What does a lawyer charge in a district court?
 
-   4. *From Qatar,* complain against the employer to MOL and the Embassy's labour wing, as in If you aren't paid <sup>[N84](#n84), [92](#o92)</sup>. A worker on a free visa who works elsewhere has no legal recourse if unpaid <sup>[51 (2021)](#o51)</sup>.
-
-#### Before paying: what the law allows
-
-In Qatar a licensed recruiter may not charge the worker any fees, recruitment expenses or other costs <sup>[2 (2004)](#o2)</sup>; breaking this carries up to 1 month's prison and/or a fine of QR 2,000 to 6,000, and the court may close the office and revoke its licence <sup>[2 (2004)](#o2)</sup>. Since June 2026 a recruiter that repeats the breach can be named on MOL's website, and the Minister can fine recruitment violations <sup>[4](#o4)</sup>. In BMET's posted letter for BTS Overseas (RL2434), for women housemaids, the employer bears the migration cost and all costs up to arrival in Qatar, such as the airfare <sup>[32](#o32)</sup>.
-
-> **Need to know**
-> - Does any Qatari rule stop the employer itself from recovering visa or recruitment costs from the worker, given that the ban covers licensed recruiters <sup>[2 (2004)](#o2)</sup>?
-
-#### The Bangladesh maximum
-
-The government may fix by order the most a worker pays to go abroad <sup>[28](#o28)</sup>. News reports give Tk 1,00,780 for Qatar, set in 2018 <sup>[N37 (2018)](#n37), [N47](#n47)</sup>, and a district employment officer said in 2025 that the maximum for six Gulf countries including Qatar is Tk 1.15 to 1.2 lakh <sup>[N85](#n85)</sup>.
-
-> **Need to know**
-> - What is the current government maximum for Qatar: is the 2018 figure of Tk 1,00,780 still in force, or has a newer order replaced it?
-
-#### How to pay
-
-Pay the agency only through the bank, into the agency's own bank account, keep every receipt, and don't go to middlemen <sup>[44](#o44), [17](#o17)</sup>.
-
-#### If you are offered a "free visa"
-
-It is illegal in both countries (item 5, "What the relative may be sending") <sup>[51 (2021)](#o51), [28](#o28)</sup>. Have it checked, with the other papers, at BMET in Dhaka or the district employment and manpower office <sup>[44](#o44)</sup>.
-
-**If the agency cheats you** (takes money and doesn't send you, or sends you to a different job): under Bangladesh's Overseas Employment and Migrants Act 2013, taking money on a false promise of a job abroad, withholding a migrant's passport, visa or papers without lawful reason, or luring someone with false promises of higher pay carries up to 5 years' prison and a fine of at least Tk 1 lakh <sup>[28](#o28)</sup>; publishing an overseas job advert without government or BMET approval carries up to 1 year and at least Tk 50,000 <sup>[28](#o28)</sup>. Migrants and people cheated in the name of migration have a right to reasonable legal aid <sup>[28](#o28)</sup>.
-
-1. **Write down the facts:** who took the money, from whom, when and how much; a Ministry joint secretary said in 2025 that action follows when these are given <sup>[N85](#n85)</sup>.
-2. **Complain to BMET.** Address a self-explanatory application with your proof to BMET's Director General and file it at the workers' complaint cell; it is free and meant to be settled within 30 working days <sup>[17](#o17)</sup>. BMET forms an inquiry committee, holds a hearing and recommends a decision to the Ministry, which decides <sup>[17](#o17)</sup>.
-3. **Or complain to the Ministry's enforcement branch:** send an application with documentary proof, your full address and the agency's RL number and address to sasenforcement@probashi.gov.bd (02-41030255); action starts within 3 to 5 working days and the complaint is meant to be settled within 30 <sup>[91](#o91)</sup>.
-4. **If the agency sent you without permission,** write to the Ministry's Secretary with your smart card, a copy of the ticket, the contract and a copy of your passport; it is free and settled within 60 working days after BMET's recommendation reaches the Ministry <sup>[91](#o91)</sup>.
-5. **From Qatar,** email the Ministry's Complaint Resolution Cell, minister.expat@gmail.com <sup>[93](#o93)</sup>. **Coming home after fraud,** complain at the airport welfare desk <sup>[94](#o94)</sup>.
-6. **Mobile courts** (on-the-spot courts under the 2013 Act) give immediate remedies to people about to go and returned migrants, free, within 7 working days <sup>[91](#o91)</sup>.
-7. **If it isn't settled,** go up BMET's ladder: the Director (Employment), diremi@bmet.gov.bd, 01711111544 (3 months); then the Ministry's Secretary, secretary@probashi.gov.bd (1 month); then the Cabinet Division's grievance system at www.grs.gov.bd (3 months) <sup>[17](#o17)</sup>. The Ministry's own grievance officer is the Joint Secretary (Admin and Finance), 02-41030224, adsadmin@probashi.gov.bd (30 working days) <sup>[91](#o91)</sup>.
+   4. *From Qatar,* complain against the employer to MOL and the Embassy's labour wing, as in If you aren't paid <sup>[N85](#n85), [92](#o92)</sup>. A worker on a free visa who works elsewhere has no legal recourse if unpaid <sup>[51 (2021)](#o51)</sup>.
 
 ### Step 2: Passport, police clearance and certificates
 
@@ -672,11 +728,11 @@ Get these ready while the employer applies for the visa: QVC won't book an appoi
 
 1. **Get a passport valid for more than 195 days.** QVC books appointments only for passports with more than 195 days' validity <sup>[84](#o84)</sup>; with 195 days or less, renew it and tell your sponsor the new number before booking <sup>[84](#o84)</sup>.
 
-   You'll need: your original NID; applicants over 20 must use the NID <sup>[95](#o95)</sup>.
+   You'll need: your original NID; applicants over 20 must use the NID <sup>[93](#o93)</sup>.
 
-   1. Fill in the e-passport application exactly as on your NID <sup>[95](#o95)</sup>.
+   1. Fill in the e-passport application exactly as on your NID <sup>[93](#o93)</sup>.
    2. Pay online through A-Challan (the government's online payment-slip system) or the online payment gateways DGePay or ShurjoPay (by card, bKash or Nagad), or at any bank through A-Challan <sup>[80](#o80)</sup>. A 48-page e-passport for 5 years costs Tk 4,025 (regular), Tk 6,325 (express) or Tk 8,625 (super express); for 10 years Tk 5,750, Tk 8,050 or Tk 10,350, VAT included <sup>[80](#o80)</sup>.
-   3. Bring the original NID to the passport office <sup>[95](#o95)</sup>. Delivery after biometrics is within 15 working days (regular), 7 (express) or 2 (super express) <sup>[80](#o80)</sup>.
+   3. Bring the original NID to the passport office <sup>[93](#o93)</sup>. Delivery after biometrics is within 15 working days (regular), 7 (express) or 2 (super express) <sup>[80](#o80)</sup>.
 
    Names sometimes differ between the passport, the QVC appointment letter and the medical papers; workers are told in practice to report a mismatch at QVC reception <sup>[N86 (2022)](#n86)</sup>.
 
@@ -696,45 +752,45 @@ Get these ready while the employer applies for the visa: QVC won't book an appoi
    2. Pay Tk 1,500 by treasury challan, code 1-7301-0001-2681, at any Bangladesh Bank (the central bank) or Sonali Bank branch, or online by card with a service charge <sup>[81](#o81)</sup>.
 
       > **Need to know**
-      > - Is the fee Tk 1,500 (the portal) or Tk 500 (Bangladesh Police's guidance and the Embassy in Doha) <sup>[81](#o81), [96](#o96), [97 (2021)](#o97)</sup>?
+      > - Is the fee Tk 1,500 (the portal) or Tk 500 (Bangladesh Police's guidance and the Embassy in Doha) <sup>[81](#o81), [94](#o94), [95 (2021)](#o95)</sup>?
 
    3. The police verify you at your present address; track it by texting "PCC S <reference number>" to 26969 <sup>[81](#o81)</sup>.
-   4. Collect it with a copy of your passport or application <sup>[81](#o81)</sup>. If you apply from abroad, someone else can collect it if you upload, with the application, an attested authorisation letter naming them and their NID number <sup>[81](#o81)</sup>. Certificates are issued in English <sup>[96](#o96)</sup>.
-   5. From Qatar, apply online yourself or through a nominated relative; the police station of your permanent address in Bangladesh issues it <sup>[97 (2021)](#o97)</sup>.
+   4. Collect it with a copy of your passport or application <sup>[81](#o81)</sup>. If you apply from abroad, someone else can collect it if you upload, with the application, an attested authorisation letter naming them and their NID number <sup>[81](#o81)</sup>. Certificates are issued in English <sup>[94](#o94)</sup>.
+   5. From Qatar, apply online yourself or through a nominated relative; the police station of your permanent address in Bangladesh issues it <sup>[95 (2021)](#o95)</sup>.
    6. Have it attested by the Ministry of Foreign Affairs in Dhaka, then the Qatar Embassy (item 3) <sup>[51 (2021)](#o51), [8](#o8)</sup>.
 
    > **Need to know**
    > - How long does a police clearance take to process?
    > - How long does a police clearance stay valid for Qatar?
 
-   **If it fails:** the PCC helpdesk, Sunday to Thursday 9 am to 5 pm, 01320001824, 01320001825, help.pcc@police.gov.bd <sup>[81](#o81)</sup>; Dhaka Metropolitan Police one-stop service, 01320037339, 01320037329 <sup>[98](#o98)</sup>.
+   **If it fails:** the PCC helpdesk, Sunday to Thursday 9 am to 5 pm, 01320001824, 01320001825, help.pcc@police.gov.bd <sup>[81](#o81)</sup>; Dhaka Metropolitan Police one-stop service, 01320037339, 01320037329 <sup>[96](#o96)</sup>.
 
-3. **Get your certificates attested.** MOI's visa needs education certificates attested for the profession <sup>[8](#o8)</sup>, and QVC asks for your academic qualification certified by the authorities in Qatar and Qatar's MOFA (Ministry of Foreign Affairs) and finalised by the local embassy, with the original <sup>[34](#o34)</sup>. The QVC appointment letter gives the full list <sup>[34](#o34)</sup>. Qatar is not a party to the Hague Apostille Convention (under which member countries accept an apostille certificate instead of embassy legalisation), so a Bangladeshi apostille, including Bangladesh MOFA's five-day e-Apostille with a QR code, does not replace attestation for Qatar <sup>[99](#o99), [100](#o100), [101](#o101)</sup>.
+3. **Get your certificates attested.** MOI's visa needs education certificates attested for the profession <sup>[8](#o8)</sup>, and QVC asks for your academic qualification certified by the authorities in Qatar and Qatar's MOFA (Ministry of Foreign Affairs) and finalised by the local embassy, with the original <sup>[34](#o34)</sup>. The QVC appointment letter gives the full list <sup>[34](#o34)</sup>. Qatar is not a party to the Hague Apostille Convention (under which member countries accept an apostille certificate instead of embassy legalisation), so a Bangladeshi apostille, including Bangladesh MOFA's five-day e-Apostille with a QR code, does not replace attestation for Qatar <sup>[97](#o97), [98](#o98), [99](#o99)</sup>.
 
    > **Need to know**
    > - Are workers with no certificates asked for one <sup>[34](#o34)</sup>?
 
-   1. Get the issuing body's verification first: SSC and HSC (Secondary and Higher Secondary School Certificate) by the Education Board, then the Ministry of Education; degrees by the university, then the Ministry of Education <sup>[102](#o102), [51 (2021)](#o51)</sup>. A driving licence goes to a notary and BRTA (the Bangladesh Road Transport Authority, which issues licences), then the Law Ministry <sup>[102](#o102), [103](#o103)</sup>; a passport copy, experience, character or NID papers to a notary, then the Law Ministry <sup>[102](#o102)</sup>; birth, nikah and marriage certificates to the Law Ministry <sup>[51 (2021)](#o51)</sup>.
-   2. Then every document needs attestation by Bangladesh's MOFA <sup>[102](#o102)</sup>. MyGov (mygov.bd, the Bangladesh government's online services portal) lists MOFA's "Certificate attestation for foreign-bound citizens" service, and you check an application's status at mygov.bd (application-latest-status) <sup>[104](#o104), [105](#o105)</sup>.
-   3. Then the Qatari mission legalises it: QVC Dhaka has a document attestation counter that handles Qatar Embassy legalisation through service providers <sup>[35](#o35), [106](#o106)</sup>.
-   4. From Qatar, the employer or you can instead use Qatar MOFA's "Complete Attestation Outside Qatar" e-service at mofa.gov.qa (an e-services account is needed) or the Consular Affairs building, Sunday to Thursday 7:30 to 13:00, which sends the documents to the Qatari mission in Bangladesh <sup>[106](#o106), [107 (2024)](#o107)</sup>. It costs QR 150, plus the equivalent of QR 120 for the mission, plus Bangladesh MOFA's fees <sup>[106](#o106)</sup>. Qatar MOFA attests a degree only if the university is on Qatar's Ministry of Education list of accredited universities <sup>[106](#o106)</sup>.
-   5. In Qatar, the Bangladesh Embassy in Doha attests education, marriage, birth and police clearance certificates already attested by MOFA in Dhaka: QR 37 (regular) or QR 55 (express) for the first 5 pages, QR 8 per extra page <sup>[108](#o108)</sup>.
+   1. Get the issuing body's verification first: SSC and HSC (Secondary and Higher Secondary School Certificate) by the Education Board, then the Ministry of Education; degrees by the university, then the Ministry of Education <sup>[100](#o100), [51 (2021)](#o51)</sup>. A driving licence goes to a notary and BRTA (the Bangladesh Road Transport Authority, which issues licences), then the Law Ministry <sup>[100](#o100), [101](#o101)</sup>; a passport copy, experience, character or NID papers to a notary, then the Law Ministry <sup>[100](#o100)</sup>; birth, nikah and marriage certificates to the Law Ministry <sup>[51 (2021)](#o51)</sup>.
+   2. Then every document needs attestation by Bangladesh's MOFA <sup>[100](#o100)</sup>. MyGov (mygov.bd, the Bangladesh government's online services portal) lists MOFA's "Certificate attestation for foreign-bound citizens" service, and you check an application's status at mygov.bd (application-latest-status) <sup>[102](#o102), [103](#o103)</sup>.
+   3. Then the Qatari mission legalises it: QVC Dhaka has a document attestation counter that handles Qatar Embassy legalisation through service providers <sup>[35](#o35), [104](#o104)</sup>.
+   4. From Qatar, the employer or you can instead use Qatar MOFA's "Complete Attestation Outside Qatar" e-service at mofa.gov.qa (an e-services account is needed) or the Consular Affairs building, Sunday to Thursday 7:30 to 13:00, which sends the documents to the Qatari mission in Bangladesh <sup>[104](#o104), [105 (2024)](#o105)</sup>. It costs QR 150, plus the equivalent of QR 120 for the mission, plus Bangladesh MOFA's fees <sup>[104](#o104)</sup>. Qatar MOFA attests a degree only if the university is on Qatar's Ministry of Education list of accredited universities <sup>[104](#o104)</sup>.
+   5. In Qatar, the Bangladesh Embassy in Doha attests education, marriage, birth and police clearance certificates already attested by MOFA in Dhaka: QR 37 (regular) or QR 55 (express) for the first 5 pages, QR 8 per extra page <sup>[106](#o106)</sup>.
 
    > **Need to know**
-   > - How do you apply for MOFA attestation (not the apostille) <sup>[104](#o104)</sup>?
-   > - What is MOFA attestation's fee per document, and how long does it take <sup>[104](#o104)</sup>?
-   > - What does a real MOFA attestation look like <sup>[101](#o101)</sup>?
-   > - What are the Qatar Embassy in Dhaka's own fee, hours and documents <sup>[100](#o100)</sup>?
+   > - How do you apply for MOFA attestation (not the apostille) <sup>[102](#o102)</sup>?
+   > - What is MOFA attestation's fee per document, and how long does it take <sup>[102](#o102)</sup>?
+   > - What does a real MOFA attestation look like <sup>[99](#o99)</sup>?
+   > - What are the Qatar Embassy in Dhaka's own fee, hours and documents <sup>[98](#o98)</sup>?
 
-   **If it fails:** MOFA Bangladesh document authentication, Segunbagicha, Dhaka 1000, +8802-223381852, dgcnw@mofa.gov.bd <sup>[105](#o105)</sup>; MOFA Qatar, Government Contact Center 109 (24 hours) or the Attestation Department, 40111188 <sup>[106](#o106)</sup>.
+   **If it fails:** MOFA Bangladesh document authentication, Segunbagicha, Dhaka 1000, +8802-223381852, dgcnw@mofa.gov.bd <sup>[103](#o103)</sup>; MOFA Qatar, Government Contact Center 109 (24 hours) or the Attestation Department, 40111188 <sup>[104](#o104)</sup>.
 
 ### Step 3: The employer gets your work visa
 
 This happens in Qatar, between the employer, MOL and MOI <sup>[7 (2023)](#o7), [8](#o8)</sup>.
 
-1. **The employer gets MOL's recruitment approval.** The company applies online; it is free and needs an active establishment ID with no ban <sup>[7 (2023)](#o7)</sup>. If MOL approves the gender, number and profession of workers, the request goes to a nationalities selection system and then to MOI <sup>[7 (2023)](#o7)</sup>. A new company on the fast track gets at most 10 labour visa approvals on its first request <sup>[29 (2022)](#o29)</sup>. The employer tracks the application with its number, year and establishment ID; MOL's phone is 16505 or 44068979 <sup>[109 (2022)](#o109)</sup>. Companies applying for a group visa need the Permanent Committee for Recruitment's approval of the nationality and number of workers, and pay QR 300 <sup>[110](#o110)</sup>.
+1. **The employer gets MOL's recruitment approval.** The company applies online; it is free and needs an active establishment ID with no ban <sup>[7 (2023)](#o7)</sup>. If MOL approves the gender, number and profession of workers, the request goes to a nationalities selection system and then to MOI <sup>[7 (2023)](#o7)</sup>. A new company on the fast track gets at most 10 labour visa approvals on its first request <sup>[29 (2022)](#o29)</sup>. The employer tracks the application with its number, year and establishment ID; MOL's phone is 16505 or 44068979 <sup>[107 (2022)](#o107)</sup>. Companies applying for a group visa need the Permanent Committee for Recruitment's approval of the nationality and number of workers, and pay QR 300 <sup>[108](#o108)</sup>.
 2. **The employer gets the visa from MOI.** The visa costs QR 300 <sup>[8](#o8)</sup>; MOI needs education certificates attested for the profession, a police clearance attested by the Qatar Embassy, an employment contract and a medical test passed outside Qatar <sup>[8](#o8), [14 (2019)](#o14)</sup>. QVC Bangladesh lists four work visa types: Work Visa - Multi Entry, Work Visa - Single Entry, Work Yearly Residence and Work Yearly Visit <sup>[34](#o34)</sup>.
-3. **The employer puts the contract into MOI's system.** When the employer applies through MOI's "Issue Visa" service it enters the work contract; it then updates and signs it in the "Examination Procedures outside Country" e-service and pays QR 490 <sup>[79 (2021)](#o79)</sup>. For nationalities set in the visa system, the visa cannot be printed or used until both worker and employer have signed the contract <sup>[79 (2021)](#o79)</sup>. The contract is made in MOL's multilingual e-contract system; its legal form and language are under Your rights at work <sup>[111 (2022)](#o111)</sup>.
+3. **The employer puts the contract into MOI's system.** When the employer applies through MOI's "Issue Visa" service it enters the work contract; it then updates and signs it in the "Examination Procedures outside Country" e-service and pays QR 490 <sup>[79 (2021)](#o79)</sup>. For nationalities set in the visa system, the visa cannot be printed or used until both worker and employer have signed the contract <sup>[79 (2021)](#o79)</sup>. The contract is made in MOL's multilingual e-contract system; its legal form and language are under Your rights at work <sup>[109 (2022)](#o109)</sup>.
 4. **The Bangladesh Embassy in Doha attests the papers.** The Embassy receives demand letters Sunday to Thursday, 7:30 to 14:00 <sup>[31 (2021)](#o31)</sup>. For an individual male worker, the sponsor or its PRO can have the contract attested there with copies of the worker's passport and visa and the company's details, for QR 50, ready after three working days, and gets back the attested contract <sup>[88 (2021)](#o88)</sup>.
 5. **The visa must be used in time.** A visa issued in advance must be used within 90 days, and nobody may enter Qatar on any visa before his fingerprints are taken <sup>[14 (2019)](#o14)</sup>.
 
@@ -781,11 +837,11 @@ At QVC your documents are checked, your fingerprints, iris and face are recorded
    > **Need to know**
    > - May any QVC fee be charged to the worker, given that QVC told applicants in Pakistan in 2025 that appointments are free and the employer pays for the visa <sup>[N30](#n30)</sup>?
 
-5. **The medical.** What QVC does is in item 3 <sup>[36](#o36)</sup>. Qatar's Medical Commission (MoPH's Medical Commission Department) uses, in Qatar, a fitness form that tests a chest X-ray, creatinine (kidney), HIV, hepatitis B and C, syphilis and TB <sup>[112 (2020)](#o112)</sup>, asks you to declare and sign whether you have epilepsy, asthma, psychiatric disorders or hearing problems <sup>[112 (2020)](#o112)</sup>, records blood pressure, pulse, height, weight and eyesight, and is marked FIT or UNFIT <sup>[112 (2020)](#o112)</sup>.
+5. **The medical.** What QVC does is in item 3 <sup>[36](#o36)</sup>. Qatar's Medical Commission (MoPH's Medical Commission Department) uses, in Qatar, a fitness form that tests a chest X-ray, creatinine (kidney), HIV, hepatitis B and C, syphilis and TB <sup>[110 (2020)](#o110)</sup>, asks you to declare and sign whether you have epilepsy, asthma, psychiatric disorders or hearing problems <sup>[110 (2020)](#o110)</sup>, records blood pressure, pulse, height, weight and eyesight, and is marked FIT or UNFIT <sup>[110 (2020)](#o110)</sup>.
 
    > **Need to know**
    > - Does QVC test for the same conditions?
-   > - Do Qatar-bound workers need only the QVC medical, not WAFID testing (the screening, by the Gulf Health Council, the regional body that coordinates the Gulf states' health policies, of Gulf work and residence visa applicants at accredited medical centres in their home countries, formerly GAMCA), given reports that they are exempt while WAFID's booking form still lists Qatar as a destination <sup>[N87](#n87), [113](#o113)</sup>?
+   > - Do Qatar-bound workers need only the QVC medical, not WAFID testing (the screening, by the Gulf Health Council, the regional body that coordinates the Gulf states' health policies, of Gulf work and residence visa applicants at accredited medical centres in their home countries, formerly GAMCA), given reports that they are exempt while WAFID's booking form still lists Qatar as a destination <sup>[N87](#n87), [111](#o111)</sup>?
 
 6. **Track your application** at www.qatarvisacenter.com/cnt/trackapp ("Track Application") with your passport number, visa number and the captcha <sup>[87](#o87)</sup>. The statuses are Appointment Confirmed, Employment Contract Status, Biometric Enrolment Complete, Medical Test Complete, Medical Test Status and Results Available with Employer <sup>[87](#o87)</sup>. "Biometric Completed" means your fingerprints, iris and face are enrolled <sup>[87](#o87)</sup>; "Medical Complete" means the reports have gone to MoPH to be checked, and you may be called back for a re-test or sent to local doctors for more tests <sup>[87](#o87)</sup>; "Result Available" means MOI has processed everything and the employer can see the visa result <sup>[87](#o87)</sup>; "Re-Enrolment Required" means go back to redo your biometrics and contact QVC at once <sup>[87](#o87)</sup>. Finishing the biometrics or medical does not mean a visa is issued: ask your employer for the decision <sup>[87](#o87)</sup>. A referral status can stay "pending with authorities" for 10 to 25 days <sup>[N88 (2023)](#n88)</sup>.
 
@@ -800,25 +856,25 @@ At QVC your documents are checked, your fingerprints, iris and face are recorded
 
 QVC offers no jobs of any kind and warns against people posing as its agents <sup>[35](#o35)</sup>. Never share your VRN, passport number or personal details with anyone claiming to be QVC on social media, phone, SMS or WhatsApp; QVC staff can't "fix" a medical result <sup>[N30](#n30)</sup>. QVC helpline: +974 44069999 in Qatar, +880 9666 777 101 in Bangladesh <sup>[34](#o34)</sup>. If an agency took money for the visa or medical, complain as in [Step 1](#step-1-find-a-real-job) <sup>[17](#o17), [91](#o91)</sup>.
 
-### Step 5: Check your visa is real
+### Step 5: Check the visa yourself
 
 1. **On MOI's Visa Inquiry.** It follows up work visa applications and shows issued visas, which you can print or reprint online; printing fees vary by visa type <sup>[83](#o83), [85 (2022)](#o85)</sup>.
    1. Open MOI's portal, Inquiries > Visa Services (portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices), and choose Visa Inquiry; the form is at fees2.moi.gov.qa/moipay/visa/inquiry?language=en <sup>[83](#o83)</sup>.
-   2. If it opens in Arabic, choose رقم السمة (visa number) or رقم جواز السفر (passport number) <sup>[114](#o114)</sup>. A search by application number (رقم الطلب) also needs the sponsor's Qatar ID (QID) number and the application date <sup>[114](#o114)</sup>.
-   3. Type the number, select the nationality, type the image code (ادخل الرمز) and press استعلم (Inquire) <sup>[114](#o114), [85 (2022)](#o85)</sup>.
-   4. Read the latest status; for a rejected application the Remarks icon shows the reasons <sup>[85 (2022)](#o85)</sup>. A valid result shows your name, nationality, passport number, date of birth, gender, visa type, stay duration, issue date, validity, visa status, passport validity and sponsor details <sup>[N79](#n79)</sup>. "Valid To Use" means issued and you can travel; "Ready To Print", approved but the sponsor must pay; "Under Process" or "Under Outside Process", not finished; other statuses include "Rejected", "Visa Expired" and "Cancelled"; "Sorry, Requested Visa Not Found" means not processed yet or wrong details typed <sup>[N79](#n79)</sup>.
+   2. If it opens in Arabic, choose رقم السمة (visa number) or رقم جواز السفر (passport number) <sup>[112](#o112)</sup>. A search by application number (رقم الطلب) also needs the sponsor's Qatar ID (QID) number and the application date <sup>[112](#o112)</sup>.
+   3. Type the number, select the nationality, type the image code (ادخل الرمز) and press استعلم (Inquire) <sup>[112](#o112), [85 (2022)](#o85)</sup>.
+   4. Read the latest status; for a rejected application the Remarks icon shows the reasons <sup>[85 (2022)](#o85)</sup>. A valid result shows your name, nationality, passport number, date of birth, gender, visa type, stay duration, issue date, validity, visa status, passport validity and sponsor details <sup>[N80](#n80)</sup>. "Valid To Use" means issued and you can travel; "Ready To Print", approved but the sponsor must pay; "Under Process" or "Under Outside Process", not finished; other statuses include "Rejected", "Visa Expired" and "Cancelled"; "Sorry, Requested Visa Not Found" means not processed yet or wrong details typed <sup>[N80](#n80)</sup>.
 
       > **Need to know**
       > - What is MOI's own description of the result fields and statuses <sup>[85 (2022)](#o85)</sup>?
 
-   In Metrash (MOI's app, [Step 7](#step-7-after-arrival)), choose Visa, then visa status inquiry, and enter the application details <sup>[N91](#n91)</sup>.
+   In Metrash (MOI's app, [Step 7](#step-7-after-you-arrive)), choose Visa, then visa status inquiry, and enter the application details <sup>[N91](#n91)</sup>.
 
 2. **At BMET.** BMET checks job visas and demand letters free within 3 working days, and checks Qatar visas online; it also has a visa-check app on Google Play <sup>[17](#o17)</sup>. Bring the visa and, where it applies, a copy of the passport page with the visa stamp to BMET in Dhaka or your district employment and manpower office <sup>[17](#o17), [44](#o44)</sup>. Ami Probashi, a digital platform for Bangladeshi migrants, checks Qatar visas on its helpline 16768 for a small fee and answers valid or invalid by SMS <sup>[N92](#n92)</sup>.
 
    > **Need to know**
    > - What web address or app name does BMET use for its visa check <sup>[17](#o17)</sup>?
 
-3. **Check it is a work visa.** The work visa types QVC Bangladesh handles are listed in [Step 3](#step-3-the-employer-gets-your-work-visa) <sup>[34](#o34)</sup>. A Hayya e-visa never allows work <sup>[52](#o52)</sup>; its checker, hayya.qa/en/visa-inquiry, takes the Entry Reference Number, or passport number and nationality <sup>[115](#o115)</sup>. For Hayya visas sold as work visas, see Scams under the tourist visa; for switching a visit visa to work, see Changing visa type <sup>[N62 (2023)](#n62)</sup>.
+3. **Check it is a work visa.** The work visa types QVC Bangladesh handles are listed in [Step 3](#step-3-the-employer-gets-your-work-visa) <sup>[34](#o34)</sup>. A Hayya e-visa never allows work <sup>[52](#o52)</sup>; its checker, hayya.qa/en/visa-inquiry, takes the Entry Reference Number, or passport number and nationality <sup>[113](#o113)</sup>. For Hayya visas sold as work visas, see Scams under the tourist visa; for switching a visit visa to work, see Changing visa type <sup>[N62 (2023)](#n62)</sup>.
 
 4. **Check the dates.** For nationalities set in MOI's visa system, the visa can't be printed or used until you and the employer have signed the contract ([Step 3](#step-3-the-employer-gets-your-work-visa), item 3) <sup>[79 (2021)](#o79)</sup>, and you must enter Qatar within 90 days of its issue ([Step 3](#step-3-the-employer-gets-your-work-visa), item 5) <sup>[14 (2019)](#o14)</sup>.
 
@@ -827,7 +883,7 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
 > **Need to know**
 > - Is there any appeal or re-application route if MOI rejects the visa, beyond the reasons Visa Inquiry shows <sup>[85 (2022)](#o85)</sup>?
 
-### Step 6: Orientation, BMET clearance, insurance and the flight
+### Step 6: Orientation, BMET clearance, insurance, a loan and the flight
 
 1. **Do the compulsory 3-day pre-departure orientation (PDO)** at one of 70 training institutes: apply on OEP and pay the institute's fee against a money receipt <sup>[17](#o17), [44](#o44)</sup>.
 
@@ -839,7 +895,7 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
    > **Need to know**
    > - Does BMET set the same conditions for company workers?
 
-3. **Get BMET clearance (the smart card).** The smart card is your emigration clearance; it also makes you a member of the Welfare Board (WEWB), whose members get a school admission quota and scholarships for their children, financial help when sick, loans on easier terms from Probashi Kallyan Bank (PKB, the government bank for migrant workers) and Tk 3 lakh to the heir if the member dies; and it gives you migrant insurance (item 4) <sup>[51 (2021)](#o51), [116](#o116), [44](#o44)</sup>.
+3. **Get BMET clearance (the smart card).** The smart card is your emigration clearance; it also makes you a member of the Welfare Board (WEWB), whose members get a school admission quota and scholarships for their children, financial help when sick, loans on easier terms from Probashi Kallyan Bank (PKB, the government bank for migrant workers) and Tk 3 lakh to the heir if the member dies; and it gives you migrant insurance (item 4) <sup>[51 (2021)](#o51), [114](#o114), [44](#o44)</sup>.
    1. **If an agency recruited you,** it applies after the visa with its application, the visa copy, the attested contract (where applicable), an attested copy of your registration card, its undertaking on job certainty on Tk 300 non-judicial stamp paper, the original bank pay order for the welfare and smart card fees, and the original source income-tax challan; BMET's emigration branch clears within 3 working days <sup>[17](#o17)</sup>.
    2. **If you got the visa yourself,** apply at BMET's emigration branch in Dhaka or the Chattogram district employment and manpower office with your application, the visa copy, the contract (if any), an attested copy of your registration card, a declaration on Tk 300 stamp paper and pay orders for the welfare and insurance fees; 3 working days <sup>[17](#o17)</sup>.
    3. **Fees:**
@@ -850,13 +906,13 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
       - smart card fee: listed as Tk 250 for workers who got the visa themselves <sup>[17](#o17)</sup>.
 
       > **Need to know**
-      > - Did the insurance premium change with the welfare fee rise <sup>[117](#o117)</sup>?
+      > - Did the insurance premium change with the welfare fee rise <sup>[115](#o115)</sup>?
 
-   **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check <sup>[118](#o118)</sup>. Welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure <sup>[17](#o17)</sup>. **If it goes wrong:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd; then the Additional Director General (Employment), 02-48321949, adgemp@bmet.gov.bd <sup>[17](#o17)</sup>; then the ladder in [Step 1](#step-1-find-a-real-job) <sup>[17](#o17)</sup>.
+   **Check it is real** at portal.wewb.gov.bd/bmet-wewbm-check <sup>[116](#o116)</sup>. Welfare desks at Dhaka, Chattogram and Sylhet airports check smart cards before departure <sup>[17](#o17)</sup>. **If it goes wrong:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd; then the Additional Director General (Employment), 02-48321949, adgemp@bmet.gov.bd <sup>[17](#o17)</sup>; then the ladder in [Step 1](#step-1-find-a-real-job) <sup>[17](#o17)</sup>.
 
-4. **Know your insurance.** Workers who leave with BMET clearance on or after 12 March 2023 are insured by Jiban Bima Corporation (JBC, which insures migrant workers under a contract with the Welfare Board, effective 1 January 2023) for Tk 10 lakh, for 5 years from the smart card's date, for workers aged 18 to 55, for the one-time Tk 1,000 <sup>[44](#o44), [119 (2024)](#o119)</sup>. It pays on death, permanent disability, and job loss with return within 6 months of going (job loss is not covered for a worker who went entirely at the employer's cost); what it pays and how to claim are under If a worker dies, is injured or loses the job <sup>[119 (2024)](#o119), [44](#o44)</sup>. You can download your insurance certificate from JBC's e-service <sup>[119 (2024)](#o119)</sup>.
+4. **Know your insurance.** Workers who leave with BMET clearance on or after 12 March 2023 are insured by Jiban Bima Corporation (JBC, which insures migrant workers under a contract with the Welfare Board, effective 1 January 2023) for Tk 10 lakh, for 5 years from the smart card's date, for workers aged 18 to 55, for the one-time Tk 1,000 <sup>[44](#o44), [117 (2024)](#o117)</sup>. It pays on death, permanent disability, and job loss with return within 6 months of going (job loss is not covered for a worker who went entirely at the employer's cost); what it pays and how to claim are under If a worker dies, is injured or loses the job <sup>[117 (2024)](#o117), [44](#o44)</sup>. You can download your insurance certificate from JBC's e-service <sup>[117 (2024)](#o117)</sup>.
 
-5. **If you need a loan,** PKB lends up to Tk 3 lakh at 9% simple interest a year, repaid in equal monthly instalments over up to 3 years including a grace period, and decides within 7 working days of complete papers <sup>[43](#o43), [120 (2019)](#o120)</sup>. Women migrants have a separate loan on the same terms <sup>[121](#o121)</sup>. You must be 18 to 60 and not in default on any loan, and you and your guarantors must live permanently in the branch's area <sup>[43](#o43)</sup>. A worker going back on a re-entry visa can also borrow, adding proof of remitting through legal channels, proof of employment abroad and a statement of migration costs <sup>[43](#o43)</sup>.
+5. **If you need a loan,** PKB lends up to Tk 3 lakh at 9% simple interest a year, repaid in equal monthly instalments over up to 3 years including a grace period, and decides within 7 working days of complete papers <sup>[43](#o43), [118 (2019)](#o118)</sup>. Women migrants have a separate loan on the same terms <sup>[119](#o119)</sup>. You must be 18 to 60 and not in default on any loan, and you and your guarantors must live permanently in the branch's area <sup>[43](#o43)</sup>. A worker going back on a re-entry visa can also borrow, adding proof of remitting through legal channels, proof of employment abroad and a statement of migration costs <sup>[43](#o43)</sup>.
 
    You'll need <sup>[43](#o43)</sup>:
    - the free application form;
@@ -868,10 +924,10 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
      - one financially solvent person, with 3 signed MICR cheques, a statement and proof of income <sup>[43](#o43)</sup>;
      - one family member <sup>[43](#o43)</sup>.
 
-   1. Apply at the PKB branch for your permanent address, or online on mygov.bd, uploading your photo, passport, visa, BMET card and NID and your guarantors' NIDs and photos; you can apply only once until the loan is approved or refused, and you pay nothing when you submit <sup>[43](#o43), [120 (2019)](#o120)</sup>.
-   2. After the decision, pay processing and documentation fees of 0.5% each plus VAT, and Tk 900 per lakh for risk cover, plus stamps <sup>[43](#o43), [120 (2019)](#o120)</sup>.
+   1. Apply at the PKB branch for your permanent address, or online on mygov.bd, uploading your photo, passport, visa, BMET card and NID and your guarantors' NIDs and photos; you can apply only once until the loan is approved or refused, and you pay nothing when you submit <sup>[43](#o43), [118 (2019)](#o118)</sup>.
+   2. After the decision, pay processing and documentation fees of 0.5% each plus VAT, and Tk 900 per lakh for risk cover, plus stamps <sup>[43](#o43), [118 (2019)](#o118)</sup>.
 
-   **If it goes wrong:** PKB helpline 16238, +880 9677-787878 from abroad <sup>[43](#o43)</sup>; loans department 01716-175560, migration@pkb.gov.bd <sup>[122](#o122)</sup>; the grievance officer, GM (Admin and Accounts), +88-02-48321195, gm2@pkb.gov.bd (30 working days), then dmd@pkb.gov.bd, then md@pkb.gov.bd <sup>[122](#o122)</sup>.
+   **If it goes wrong:** PKB helpline 16238, +880 9677-787878 from abroad <sup>[43](#o43)</sup>; loans department 01716-175560, migration@pkb.gov.bd <sup>[120](#o120)</sup>; the grievance officer, GM (Admin and Accounts), +88-02-48321195, gm2@pkb.gov.bd (30 working days), then dmd@pkb.gov.bd, then md@pkb.gov.bd <sup>[120](#o120)</sup>.
 
 6. **The flight.** Who pays the airfare is under [Step 1](#step-1-find-a-real-job), "Before paying" <sup>[32](#o32)</sup>. In BMET's posted letter for BTS Overseas (RL2434), an agency representative flies with each group or meets it at the Qatar airport <sup>[32](#o32)</sup>. Before you go, check you have <sup>[44](#o44)</sup>:
    - a valid passport;
@@ -885,28 +941,28 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
 
    Keep one set of copies of all papers at home and at least 3 with you <sup>[44](#o44)</sup>. Never carry a packet for anyone whose contents you don't know: drug offences abroad can carry the death penalty <sup>[44](#o44)</sup>.
 
-### Step 7: After arrival
+### Step 7: After you arrive
 
-1. **Take the medical and give fingerprints within 30 days.** Anyone entering on a residence visa must take the medical within 30 days of entry, then give fingerprints, then complete the residence procedures; the employer must let you go to the authorities for this, and you may not refuse <sup>[37](#o37), [3 (2015)](#o3)</sup>. You may not stay more than 30 days without passing the medical <sup>[14 (2019)](#o14)</sup>. At the Medical Commission, bring your original passport, a clear copy of your residence permit with a mobile number for emergencies, and the medical certificate from the accredited centre at home; the fee is QR 100 by card, and the result goes to MOI electronically <sup>[123 (2021)](#o123)</sup>.
+1. **Take the medical and give fingerprints within 30 days.** Anyone entering on a residence visa must take the medical within 30 days of entry, then give fingerprints, then complete the residence procedures; the employer must let you go to the authorities for this, and you may not refuse <sup>[37](#o37), [3 (2015)](#o3)</sup>. You may not stay more than 30 days without passing the medical <sup>[14 (2019)](#o14)</sup>. At the Medical Commission, bring your original passport, a clear copy of your residence permit with a mobile number for emergencies, and the medical certificate from the accredited centre at home; the fee is QR 100 by card, and the result goes to MOI electronically <sup>[121 (2021)](#o121)</sup>.
 
    > **Need to know**
-   > - Who pays the QR 100 for company workers <sup>[123 (2021)](#o123)</sup>?
+   > - Who pays the QR 100 for company workers <sup>[121 (2021)](#o121)</sup>?
 
 2. **Make sure the employer issues your residence permit (RP) and QID.** The RP is carried on the QID card, and the employer alone is responsible for your residency <sup>[38 (2021)](#o38), [3 (2015)](#o3)</sup>.
    1. After your medical and fingerprints, the employer issues the RP online in MOI's e-services (Residency > Issue/Reactivate RP by Visa Number); companies get the card by Qatar Post <sup>[38 (2021)](#o38)</sup>.
-   2. For a first company RP MOI needs the labour contract attested by the labour department, the signed form, your original passport, a copy of the company's establishment ID, a photo and a blood group certificate <sup>[124](#o124)</sup>. The RP costs QR 1,000 a year plus QR 100 for the card, and the work permit QR 100 a year <sup>[124](#o124)</sup>.
+   2. For a first company RP MOI needs the labour contract attested by the labour department, the signed form, your original passport, a copy of the company's establishment ID, a photo and a blood group certificate <sup>[122](#o122)</sup>. The RP costs QR 1,000 a year plus QR 100 for the card, and the work permit QR 100 a year <sup>[122](#o122)</sup>.
 
       > **Need to know**
       > - May the worker be charged any of these fees?
 
    3. Track the application on Hukoomi (hukoomi.gov.qa, Qatar's government services portal), "Residence Permit Application Tracking": enter the visa number and the sponsor's ID number, type the verification code and click "Submit"; it is free <sup>[89 (2021)](#o89)</sup>.
-   4. Once you have the QID, check its expiry on Hukoomi, "Inquire about the Expiry Date of Official Documents": choose "ID Number" and type it, or "Passport Number" and your nationality, enter the code and click "Search"; free <sup>[125 (2021)](#o125)</sup>.
+   4. Once you have the QID, check its expiry on Hukoomi, "Inquire about the Expiry Date of Official Documents": choose "ID Number" and type it, or "Passport Number" and your nationality, enter the code and click "Search"; free <sup>[123 (2021)](#o123)</sup>.
    5. The sponsor must renew the RP within 90 days of its expiry; late steps cost QR 10 a day, up to QR 6,000 <sup>[3 (2015)](#o3), [49 (2015)](#o49), [37](#o37)</sup>.
 
       > **Need to know**
       > - Can the worker be fined for a late renewal, given that an MOI service page says the expatriate renews and is fined <sup>[37](#o37)</sup>?
 
-   **If the company doesn't issue your QID:** ask its mandoob (PRO), manager or HR (human resources department); if it still doesn't, take your visa and passport to the Public Prosecution's residency affairs office inside the CEID (Search and Follow-up Department) building and complain against the company <sup>[51 (2021)](#o51)</sup>. An RP that needs MOI's Expatriate Affairs approval (because of passport expiry, fingerprint or medical problems) can be applied for free in Metrash: Residency > Residency procedures > Residence Permit <sup>[126 (2022)](#o126)</sup>.
+   **If the company doesn't issue your QID:** ask its mandoob (PRO), manager or HR (human resources department); if it still doesn't, take your visa and passport to the Public Prosecution's residency affairs office inside the CEID (Search and Follow-up Department) building and complain against the company <sup>[51 (2021)](#o51)</sup>. An RP that needs MOI's Expatriate Affairs approval (because of passport expiry, fingerprint or medical problems) can be applied for free in Metrash: Residency > Residency procedures > Residence Permit <sup>[124 (2022)](#o124)</sup>.
 
    > **Need to know**
    > - What are the Public Prosecution's residency affairs office's official name and address <sup>[51 (2021)](#o51)</sup>?
@@ -918,160 +974,265 @@ Qatari government websites end in gov.qa; look-alikes such as gov-qa.com are use
 
    **If you lose your QID,** ask the PRO to apply for a replacement through Metrash; otherwise go to any immigration (Jawazat) service centre with your original passport and a copy of the QID <sup>[51 (2021)](#o51)</sup>.
 
-   **If you get a new passport** (after expiry, loss or damage), the RP is moved to it: bring the old and new passports, the form and, if the passport was lost, a loss report; it is done in Metrash, at MOI service centres or at the Passport headquarters and costs QR 100 <sup>[127](#o127)</sup>.
+   **If you get a new passport** (after expiry, loss or damage), the RP is moved to it: bring the old and new passports, the form and, if the passport was lost, a loss report; it is done in Metrash, at MOI service centres or at the Passport headquarters and costs QR 100 <sup>[125](#o125)</sup>.
 
 3. **Keep your passport.** The employer must give it back once the residence procedures are done, unless you ask in writing for it to be kept, and must hand it over whenever you ask <sup>[3 (2015)](#o3)</sup>; keeping it against this rule is punishable by a fine of up to QR 25,000 <sup>[3 (2015)](#o3)</sup>.
 
-4. **Get your contract.** Open MOL's "Portal for Printing Employment Contracts" on Hukoomi (hukoomi.gov.qa/en/services/request-ecopy-of-employment-contract), enter your QID or visa number and mobile number, then the code sent by SMS, and click "Login"; it is free <sup>[128](#o128)</sup>. The contract is often not online, so collect a hard copy from the company's PRO, manager or HR <sup>[51 (2021)](#o51)</sup>. If the job or pay differs from the contract, the dispute goes first to MOL for amicable settlement ([If you aren't paid](#if-you-arent-paid)) <sup>[4](#o4)</sup>; one worker promised a welder's job at QR 2,500 was put on a desert farm at QR 800 <sup>[N39 (2022)](#n39)</sup>.
+4. **Get your contract.** Open MOL's "Portal for Printing Employment Contracts" on Hukoomi (hukoomi.gov.qa/en/services/request-ecopy-of-employment-contract), enter your QID or visa number and mobile number, then the code sent by SMS, and click "Login"; it is free <sup>[126](#o126)</sup>. The contract is often not online, so collect a hard copy from the company's PRO, manager or HR <sup>[51 (2021)](#o51)</sup>. If the job or pay differs from the contract, the dispute goes first to MOL for amicable settlement ([If you aren't paid](#if-you-arent-paid-are-abused-or-your-passport-is-taken)) <sup>[4](#o4)</sup>; one worker promised a welder's job at QR 2,500 was put on a desert farm at QR 800 <sup>[N39 (2022)](#n39)</sup>.
 
-5. **Get a SIM card.** At Vodafone Qatar a prepaid line needs your passport or a valid QID and a postpaid line a QID; documents are checked electronically and prepaid activation takes up to 2 minutes <sup>[129](#o129)</sup>. Its My Vodafone App sells a SIM or eSIM after checking your passport or QID by face recognition, and delivers a physical SIM free <sup>[130 (2023)](#o130)</sup>. At Ooredoo a Hala (prepaid) SIM costs QR 35, or is free from its eShop, with 30 days' validity; a top-up of QR 10 or more within the 30 days keeps the line <sup>[131](#o131)</sup>. Once you have the QID, put the line under it: Metrash registration needs the number under your own QID with the QID expiry updated, and after a new connection or a change of ownership you wait a week before registering <sup>[129](#o129)</sup>. Ooredoo charges QR 50 to transfer ownership, free if you update your QID and register for Ooredoo Mobile Money <sup>[131](#o131)</sup>.
+5. **Get a SIM card.** At Vodafone Qatar a prepaid line needs your passport or a valid QID and a postpaid line a QID; documents are checked electronically and prepaid activation takes up to 2 minutes <sup>[127](#o127)</sup>. Its My Vodafone App sells a SIM or eSIM after checking your passport or QID by face recognition, and delivers a physical SIM free <sup>[128 (2023)](#o128)</sup>. At Ooredoo a Hala (prepaid) SIM costs QR 35, or is free from its eShop, with 30 days' validity; a top-up of QR 10 or more within the 30 days keeps the line <sup>[129](#o129)</sup>. Once you have the QID, put the line under it: Metrash registration needs the number under your own QID with the QID expiry updated, and after a new connection or a change of ownership you wait a week before registering <sup>[127](#o127)</sup>. Ooredoo charges QR 50 to transfer ownership, free if you update your QID and register for Ooredoo Mobile Money <sup>[129](#o129)</sup>.
 
    > **Need to know**
-   > - What are the CRA's (Communications Regulatory Authority, Qatar's telecoms regulator) rules on how many lines one person may hold <sup>[N94 (2023)](#n94), [131](#o131)</sup>?
-   > - Must a line registered on a passport move to the QID <sup>[N94 (2023)](#n94), [131](#o131)</sup>?
-   > - What is Ooredoo's document list for a new Hala line <sup>[N94 (2023)](#n94), [131](#o131)</sup>?
+   > - What are the CRA's (Communications Regulatory Authority, Qatar's telecoms regulator) rules on how many lines one person may hold <sup>[N94 (2023)](#n94), [129](#o129)</sup>?
+   > - Must a line registered on a passport move to the QID <sup>[N94 (2023)](#n94), [129](#o129)</sup>?
+   > - What is Ooredoo's document list for a new Hala line <sup>[N94 (2023)](#n94), [129](#o129)</sup>?
 
-6. **Register on Metrash,** MOI's free app with more than 400 services (residence, visas, traffic) and an e-wallet of your official documents, in Arabic, English, French, Spanish, Hindi and Urdu (no Bangla) <sup>[132](#o132)</sup>. You log in with your QID number and password, which needs a registered account <sup>[126 (2022)](#o126)</sup>; the new Metrash replaced Metrash2 on 1 March 2025 <sup>[N91](#n91)</sup>. To register you need a valid QID, an active mobile number and a smartphone <sup>[N91](#n91)</sup>:
+6. **Register on Metrash,** MOI's free app with more than 400 services (residence, visas, traffic) and an e-wallet of your official documents, in Arabic, English, French, Spanish, Hindi and Urdu (no Bangla) <sup>[130](#o130)</sup>. You log in with your QID number and password, which needs a registered account <sup>[124 (2022)](#o124)</sup>; the new Metrash replaced Metrash2 on 1 March 2025 <sup>[N91](#n91)</sup>. To register you need a valid QID, an active mobile number and a smartphone <sup>[N91](#n91)</sup>:
    1. Install it from Google Play or the App Store, and check the publisher is Qatar's Ministry of Interior <sup>[N91](#n91)</sup>.
    2. Choose registration or activation and enter your QID <sup>[N91](#n91)</sup>.
    3. Complete the mobile verification and set security options <sup>[N91](#n91)</sup>.
-   4. If activation fails, check your QID details and registered mobile number, then contact MOI <sup>[N91](#n91), [129](#o129)</sup>.
+   4. If activation fails, check your QID details and registered mobile number, then contact MOI <sup>[N91](#n91), [127](#o127)</sup>.
 
-   Hukoomi support: contact@hukoomi.qa, +974 44069999 <sup>[126 (2022)](#o126)</sup>.
+   Hukoomi support: contact@hukoomi.qa, +974 44069999 <sup>[124 (2022)](#o124)</sup>.
 
    > **Need to know**
    > - What are MOI's official Metrash registration steps?
 
-7. **Get your wages into a bank account.** If you are on a monthly or annual wage, it is due on the 1st of each month and must be paid within seven days into your account at a financial institution in Qatar through WPS <sup>[90](#o90), [2 (2004)](#o2)</sup>; other workers' wages are due every two weeks <sup>[90](#o90)</sup>. At QIB (Qatar Islamic Bank), for example, the employer opens the salary account for workers earning up to QR 5,000 <sup>[133](#o133), [N95](#n95)</sup>:
-   1. The employer enters your QID and mobile number on the bank's WPS portal and uploads your ID documents <sup>[133](#o133), [N95](#n95)</sup>.
-   2. You get an SMS to download the QIB Lite app, verify your identity and activate the account <sup>[133](#o133), [N95](#n95)</sup>.
+7. **Get your wages into a bank account.** If you are on a monthly or annual wage, it is due on the 1st of each month and must be paid within seven days into your account at a financial institution in Qatar through WPS <sup>[90](#o90), [2 (2004)](#o2)</sup>; other workers' wages are due every two weeks <sup>[90](#o90)</sup>. At QIB (Qatar Islamic Bank), for example, the employer opens the salary account for workers earning up to QR 5,000 <sup>[131](#o131), [N95](#n95)</sup>:
+   1. The employer enters your QID and mobile number on the bank's WPS portal and uploads your ID documents <sup>[131](#o131), [N95](#n95)</sup>.
+   2. You get an SMS to download the QIB Lite app, verify your identity and activate the account <sup>[131](#o131), [N95](#n95)</sup>.
 
    > **Need to know**
    > - Does a QCB (Qatar Central Bank) directive still require banks to open WPS salary accounts for all workers whatever their salary, forbid them to refuse and allow at least five free salary withdrawals a month, as reported in 2015 <sup>[N96 (2015)](#n96)</sup>?
-   > - Can a worker open a salary account before getting the QID <sup>[133](#o133)</sup>?
+   > - Can a worker open a salary account before getting the QID <sup>[131](#o131)</sup>?
 
-8. **Get a health card** at the nearest health centre of PHCC (Primary Health Care Corporation) with your valid QID, a 4x3 cm photo and a utility bill as proof of address; it costs QR 100, by card only <sup>[50](#o50)</sup>. It gives subsidised care at PHCC centres and Hamad Medical Corporation (HMC, Qatar's main public hospital group), and subsidised medicines at government pharmacies <sup>[50](#o50)</sup>. By law health insurance is compulsory for residents, no RP is issued or renewed without proof of cover, and the employer pays its workers' premiums <sup>[134 (2021)](#o134)</sup>.
+8. **Get a health card** at the nearest health centre of PHCC (Primary Health Care Corporation) with your valid QID, a 4x3 cm photo and a utility bill as proof of address; it costs QR 100, by card only <sup>[50](#o50)</sup>. It gives subsidised care at PHCC centres and Hamad Medical Corporation (HMC, Qatar's main public hospital group), and subsidised medicines at government pharmacies <sup>[50](#o50)</sup>. By law health insurance is compulsory for residents, no RP is issued or renewed without proof of cover, and the employer pays its workers' premiums <sup>[132 (2021)](#o132)</sup>.
 
    > **Need to know**
    > - Is the insurance law's residents' phase enforced in practice?
 
-9. **If you left without BMET clearance,** you are not automatically a Welfare Board member, as workers with a clearance card are; you can join from Qatar (see [Your rights at work](#your-rights-at-work)) <sup>[51 (2021)](#o51), [118](#o118)</sup>.
+9. **If you left without BMET clearance,** you are not automatically a Welfare Board member, as workers with a clearance card are; you can join from Qatar (see [Your rights at work](#your-rights-at-work)) <sup>[51 (2021)](#o51), [116](#o116)</sup>.
+
+#### Welfare Board sign-up if you left without BMET clearance
+
+Its member benefits are listed in [Step 6](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight) <sup>[114](#o114)</sup>. Workers who left with a BMET clearance card are members automatically <sup>[51 (2021)](#o51), [116](#o116)</sup>.
+
+1. **Check first** at [portal.wewb.gov.bd/bmet-wewbm-check](https://portal.wewb.gov.bd/bmet-wewbm-check) whether you already have clearance or membership <sup>[116](#o116)</sup>.
+2. **Apply online** at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/), and print the information page that appears after a successful application <sup>[116](#o116), [114](#o114)</sup>.
+3. **Take it to the Embassy** with your passport, a Qatar ID copy and proof of legal work: Bangladesh Embassy, Building 153, Street 820, Zone 43, New Al-Hilal, Doha, during the counter hours under Contacts <sup>[116](#o116), [51 (2021)](#o51), [133](#o133)</sup>.
+4. **Pay** the equivalent of Tk 6,500 in riyals, life insurance included <sup>[116](#o116)</sup>.
+
+   > **Need to know**
+   > - What riyal amount does the Embassy counter charge now, given that its own pages say QR 140 and QR 170, both set before the welfare fee rose on 1 October 2026 <sup>[114](#o114), [51 (2021)](#o51), [82](#o82)</sup>?
+
+5. **What you get back:** a membership card with a QR code, which can be checked at www.member.wewb.gov.bd <sup>[134 (2024)](#o134)</sup>.
+
+   > **Need to know**
+   > - Does membership taken from Qatar expire <sup>[116](#o116), [114](#o114)</sup>?
+   > - How is it renewed <sup>[116](#o116), [114](#o114)</sup>?
+
+If something goes wrong, contact the Embassy's labour wing, +974 4467 1499, labour.doha@mofa.gov.bd <sup>[92](#o92)</sup>; Probash-Bondhu, on 16135 in Bangladesh or +8809610102030 from abroad <sup>[65](#o65)</sup>; or the Board's complaints focal person, 02-222220976, ad.pro@wewb.gov.bd, or online at www.wewb.gov.bd <sup>[134 (2024)](#o134)</sup>.
+
+### Scams
+
+Complain about an agency to BMET as in [Step 1](#step-1-find-a-real-job) (If the agency cheats you), and about an employer in Qatar to MOL as in If you aren't paid <sup>[17](#o17), [4](#o4)</sup>.
+
+#### Done to workers
+
+##### "Free visa" or a bought visa
+
+Someone sells you a visa for Tk 4 to 7 lakh so you can work for whoever you find, saying work is easy to find once you are in Qatar; workers find no job and face arrest or deportation <sup>[51 (2021)](#o51), [N8](#n8)</sup>. Protection: [Step 1](#step-1-find-a-real-job), Before paying ("If you are offered a 'free visa'"), including having the offer checked at BMET <sup>[44](#o44)</sup>; the penalties are under What can get you jailed or deported <sup>[3 (2015)](#o3)</sup>.
+
+It is illegal in both countries (item 5, "What the relative may be sending") <sup>[51 (2021)](#o51), [28](#o28)</sup>. Have it checked, with the other papers, at BMET in Dhaka or the district employment and manpower office <sup>[44](#o44)</sup>.
+
+**If the agency cheats you** (takes money and doesn't send you, or sends you to a different job): under Bangladesh's Overseas Employment and Migrants Act 2013, taking money on a false promise of a job abroad, withholding a migrant's passport, visa or papers without lawful reason, or luring someone with false promises of higher pay carries up to 5 years' prison and a fine of at least Tk 1 lakh <sup>[28](#o28)</sup>; publishing an overseas job advert without government or BMET approval carries up to 1 year and at least Tk 50,000 <sup>[28](#o28)</sup>. Migrants and people cheated in the name of migration have a right to reasonable legal aid <sup>[28](#o28)</sup>.
+
+1. **Write down the facts:** who took the money, from whom, when and how much; a Ministry joint secretary said in 2025 that action follows when these are given <sup>[N65](#n65)</sup>.
+2. **Complain to BMET.** Address a self-explanatory application with your proof to BMET's Director General and file it at the workers' complaint cell; it is free and meant to be settled within 30 working days <sup>[17](#o17)</sup>. BMET forms an inquiry committee, holds a hearing and recommends a decision to the Ministry, which decides <sup>[17](#o17)</sup>.
+3. **Or complain to the Ministry's enforcement branch:** send an application with documentary proof, your full address and the agency's RL number and address to sasenforcement@probashi.gov.bd (02-41030255); action starts within 3 to 5 working days and the complaint is meant to be settled within 30 <sup>[91](#o91)</sup>.
+4. **If the agency sent you without permission,** write to the Ministry's Secretary with your smart card, a copy of the ticket, the contract and a copy of your passport; it is free and settled within 60 working days after BMET's recommendation reaches the Ministry <sup>[91](#o91)</sup>.
+5. **From Qatar,** email the Ministry's Complaint Resolution Cell, minister.expat@gmail.com <sup>[135](#o135)</sup>. **Coming home after fraud,** complain at the airport welfare desk <sup>[136](#o136)</sup>.
+6. **Mobile courts** (on-the-spot courts under the 2013 Act) give immediate remedies to people about to go and returned migrants, free, within 7 working days <sup>[91](#o91)</sup>.
+7. **If it isn't settled,** go up BMET's ladder: the Director (Employment), diremi@bmet.gov.bd, 01711111544 (3 months); then the Ministry's Secretary, secretary@probashi.gov.bd (1 month); then the Cabinet Division's grievance system at www.grs.gov.bd (3 months) <sup>[17](#o17)</sup>. The Ministry's own grievance officer is the Joint Secretary (Admin and Finance), 02-41030224, adsadmin@probashi.gov.bd (30 working days) <sup>[91](#o91)</sup>.
+
+##### Unregistered broker or sub-agent
+
+A broker, often a friend or relative, collects workers and money for an agency, though since 2023 only a sub-agent registered and appointed by a licensed agency may do so <sup>[N16 (2024)](#n16), [33 (2023)](#o33)</sup>. Protection: [Step 1](#step-1-find-a-real-job), item 3 (If a broker brings you the job) <sup>[33 (2023)](#o33)</sup>.
+
+##### Agency with a cancelled licence
+
+The agency's licence on OEP reads "Cancelled" although its validity date is years ahead (RL0345: valid to 31 December 2028) <sup>[66](#o66)</sup>. Protection: [Step 1](#step-1-find-a-real-job), item 3 <sup>[66](#o66)</sup>.
+
+##### Fake job adverts and fake papers
+
+A job advert published without government or BMET approval, which is an offence in Bangladesh <sup>[28](#o28)</sup>; in 2019 a Dhaka gang posted fake Qatar job adverts, took Tk 3 to 4 lakh each from about 1,000 people in stages and showed fake offer letters, contracts and even a fake Qatar visa <sup>[N42 (2019)](#n42)</sup>. Protection: check the demand letter, permission letter and employer as in [Step 1](#step-1-find-a-real-job), item 4, and the visa as in [Step 5](#step-5-check-the-visa-yourself) <sup>[31 (2021)](#o31), [85 (2022)](#o85), [17](#o17)</sup>.
+
+**Fake QVC agents, paid appointments and "medical fixers."** Someone claiming to be from QVC offers a job, charges for an appointment, asks for your VRN or passport number by phone, SMS or WhatsApp, promises to fix a medical result, or sells the paid lounge as a way to get the visa <sup>[35](#o35), [N30](#n30)</sup>. Protection: [Step 4](#step-4-qatar-visa-center-contract-fingerprints-and-medical), item 1 (book only on qatarvisacenter.com) and Fake QVC agents <sup>[35](#o35), [N4 (2018)](#n4), [N30](#n30)</sup>.
+
+**Visit or Hayya visa "with a job."** A broker sells a Hayya or tourist visa as a work visa <sup>[N62 (2023)](#n62)</sup>. Protection: [Step 5](#step-5-check-the-visa-yourself), item 3; see also Tourist visa: Hayya A1, Scams <sup>[52](#o52)</sup>.
+
+##### High fees
+
+A licensed recruiter in Qatar asks you for fees, or someone asks for cash without a receipt or outside a bank <sup>[2 (2004)](#o2), [17](#o17)</sup>. Protection: [Step 1](#step-1-find-a-real-job), Before paying (["How to pay"](#how-to-pay)) <sup>[44](#o44)</sup>.
+
+##### Contract substitution
+
+The job or wage in Qatar differs from what you were promised at home <sup>[N39 (2022)](#n39)</sup>. Protection: the contract you sign at QVC ([Step 4](#step-4-qatar-visa-center-contract-fingerprints-and-medical), item 3), print your authenticated contract after arrival ([Step 7](#step-7-after-you-arrive), item 4), and complain to MOL if they differ <sup>[126](#o126), [4](#o4)</sup>.
+
+##### Fake government sites, links and calls
+
+A link to a "government" site whose address doesn't end in gov.qa ([Step 5](#step-5-check-the-visa-yourself)), or an email or message asking for your password or verification code; report suspicious contacts to MOL on 16505 <sup>[N97](#n97), [N93](#n93)</sup>. Protection: use the official addresses given in the steps, such as the MOL contract portal on Hukoomi (hukoomi.gov.qa) in [Step 7](#step-7-after-you-arrive), item 4 <sup>[126](#o126)</sup>.
+
+##### Hundi offers
+
+Someone offers an attractive exchange rate outside the approved exchange companies and banks <sup>[N98 (2022)](#n98)</sup>. Protection: Sending money home; for the law in Qatar see What can get you jailed or deported <sup>[44](#o44), [N48 (2024)](#n48)</sup>.
+
+##### Moving you on to Europe or America
+
+People or firms in Qatar take large sums promising to move migrants to Europe or America; on 14 January 2026 the Bangladesh Embassy in Doha warned against them after victims complained, and urged great caution before paying anyone <sup>[N99](#n99)</sup>. Embassy contacts: If you aren't paid, step 8 <sup>[137](#o137)</sup>.
+
+#### Tried by workers
+
+QVC records your fingerprints, iris and face before the visa <sup>[36](#o36)</sup>, a residence permit obtained with false information or documents is revoked <sup>[3 (2015)](#o3)</sup>, and getting a visa or work permit by illegal means is a crime in Bangladesh ([Background](#background), part 2) <sup>[28](#o28)</sup>.
 
 ### Your rights at work
 
-#### Which law covers you
+#### Contract
+
+##### Which law covers you
 
 Qatar's Labour Law (Law 14 of 2004, as amended) sets company workers' rights <sup>[4](#o4)</sup>. It doesn't cover domestic workers such as house drivers, nannies, cooks and gardeners (see [Work visa: domestic worker](#work-visa-domestic-worker)), nor casual, agricultural (except in farm establishments that make or market their products, and workers who permanently run or repair farm machinery), part-time or freelance workers unless the Cabinet extends it <sup>[4](#o4)</sup>. It also excludes government employees, people working at sea, workers of government-founded petroleum and petrochemical companies, workers of any company founded by or with QatarEnergy (the company the law's earlier text calls Qatar Petroleum) or in which it takes part, and others whose employment is regulated by special laws <sup>[4](#o4), [2 (2004)](#o2)</sup>. Workers who do household-type work for an employer outside the home, such as on boats, farms and private estates, come on a separate visa: see Work visa: domestic worker <sup>[14 (2019)](#o14)</sup>.
 
-#### Your contract
+##### Your contract
 
-It must be written, authenticated by MOL and made in three copies: one for you, one for the employer and one kept by MOL <sup>[2 (2004)](#o2)</sup>. It must state the employer, your details, the date, the work, the start date, the duration and the agreed wage <sup>[2 (2004)](#o2)</sup>. It is in Arabic; the employer may attach a translation, but the Arabic text wins if they differ <sup>[2 (2004)](#o2)</sup>. Print your authenticated copy and collect a hard copy from the company as in [Step 7](#step-7-after-arrival) <sup>[128](#o128), [51 (2021)](#o51)</sup>. Probation lasts at most 6 months, and only once with the same employer <sup>[2 (2004)](#o2)</sup>. During probation the employer may end the contract if you turn out unsuitable for the work, but must tell you at least one month before the end date <sup>[2 (2004)](#o2)</sup>; your own notice during probation is under If you want to change employer <sup>[2 (2004)](#o2)</sup>.
+It must be written, authenticated by MOL and made in three copies: one for you, one for the employer and one kept by MOL <sup>[2 (2004)](#o2)</sup>. It must state the employer, your details, the date, the work, the start date, the duration and the agreed wage <sup>[2 (2004)](#o2)</sup>. It is in Arabic; the employer may attach a translation, but the Arabic text wins if they differ <sup>[2 (2004)](#o2)</sup>. Print your authenticated copy and collect a hard copy from the company as in [Step 7](#step-7-after-you-arrive) <sup>[126](#o126), [51 (2021)](#o51)</sup>. Probation lasts at most 6 months, and only once with the same employer <sup>[2 (2004)](#o2)</sup>. During probation the employer may end the contract if you turn out unsuitable for the work, but must tell you at least one month before the end date <sup>[2 (2004)](#o2)</sup>; your own notice during probation is under If you want to change employer <sup>[2 (2004)](#o2)</sup>.
 
-#### Minimum wage
+#### Pay and deductions
+
+##### Minimum wage
 
 QR 1,000 a month; if the employer doesn't provide suitable housing or food, it must also pay at least QR 500 a month for housing and QR 300 for food <sup>[9 (2020)](#o9)</sup>. It has applied since March 2021 to all sectors, domestic workers included <sup>[11](#o11)</sup>. Any agreement to pay less is void, whatever your skill or job, and the rate is reviewed at least once a year <sup>[86 (2020)](#o86)</sup>. Amnesty International says the QR 1,000 set in 2021 has not been raised with living costs and is not enough for migrant workers <sup>[N59](#n59)</sup>.
 
 > **Need to know**
 > - What are typical wages by trade for Bangladeshis in Qatar, beyond the QR 1,000 to 2,100 a month for housemaids, babysitters, cooks, cleaners, welders and helpers that BMET's posted Qatar letters give ([Step 1](#step-1-find-a-real-job), item 3) <sup>[68 (2024)](#o68), [70 (2024)](#o70), [72](#o72), [73](#o73)</sup>?
 
-#### When and how you are paid
+##### When and how you are paid
 
-Wages are paid in Qatari riyals into your account at a bank or other financial institution in Qatar through WPS, on the due dates in [Step 7](#step-7-after-arrival), item 7; paying any other way doesn't clear the employer <sup>[2 (2004)](#o2), [90](#o90)</sup>. An employer that breaks the WPS rule can have new work permits and all its MOL transactions stopped until it shows it has paid all late wages <sup>[135 (2015)](#o135)</sup>. WPS blocks an employer automatically when it detects a worker unpaid or paid below the minimum wage, but it can't detect pay below the wage in your contract <sup>[N7](#n7)</sup>.
+Wages are paid in Qatari riyals into your account at a bank or other financial institution in Qatar through WPS, on the due dates in [Step 7](#step-7-after-you-arrive), item 7; paying any other way doesn't clear the employer <sup>[2 (2004)](#o2), [90](#o90)</sup>. An employer that breaks the WPS rule can have new work permits and all its MOL transactions stopped until it shows it has paid all late wages <sup>[138 (2015)](#o138)</sup>. WPS blocks an employer automatically when it detects a worker unpaid or paid below the minimum wage, but it can't detect pay below the wage in your contract <sup>[N7](#n7)</sup>.
 
-#### Deductions
+##### Deductions
 
 The employer may not charge interest on a loan to you or deduct more than 10% of your wage to repay it, and all deductions together may not exceed 50% of the wage <sup>[2 (2004)](#o2)</sup>. You can't be forced to buy food or goods from the employer or from particular shops <sup>[2 (2004)](#o2)</sup>. Nothing may be charged or deducted for safety equipment <sup>[2 (2004)](#o2)</sup> or for housing, its furniture or maintenance <sup>[45 (2014)](#o45)</sup>. For recruitment fees, see "Before paying" in [Step 1](#step-1-find-a-real-job) <sup>[2 (2004)](#o2)</sup>.
 
-#### Hours and overtime
+#### Hours, rest and leave
+
+##### Hours and overtime
 
 At most 8 hours a day and 48 a week; in Ramadan at most 6 a day and 36 a week; travel between home and work doesn't count <sup>[2 (2004)](#o2)</sup>. Breaks for prayer, rest and food total 1 to 3 hours, so that no one works more than 5 hours in a row <sup>[2 (2004)](#o2)</sup>. With overtime, total work may not exceed 10 hours a day, except to prevent serious loss or an accident <sup>[2 (2004)](#o2)</sup>. Overtime is paid at your basic wage plus at least 25%, and work between 9 pm and 3 am at the basic wage plus at least 50%, except for shift workers <sup>[2 (2004)](#o2)</sup>.
 
-#### Rest day and holidays
+##### Rest day and holidays
 
 At least 24 hours' paid rest in a row each week, normally Friday <sup>[2 (2004)](#o2)</sup>. If you are made to work on it, you get another rest day and the normal rest-day pay, or the basic wage plus at least 150%; except for shift workers, no one may work more than two Fridays in a row <sup>[2 (2004)](#o2)</sup>. Paid public holidays: 3 working days for Eid al-Fitr, 3 for Eid al-Adha, 1 for National Day and 3 days chosen by the employer <sup>[2 (2004)](#o2), [4](#o4)</sup>.
 
-#### Leave
+##### Leave
 
 After one full year of service, annual leave is at least 3 weeks a year (under 5 years' service) or 4 weeks (5 years or more), with part years counted pro rata <sup>[2 (2004)](#o2)</sup>; the employer pays the wage earned and the leave pay before you go <sup>[2 (2004)](#o2)</sup>. You can't give up annual leave, and leave not taken is paid in cash when the contract ends <sup>[2 (2004)](#o2)</sup>. Sick leave starts after 3 months of service and needs a certificate from a doctor the employer approves; it is on full pay for up to 2 weeks, half pay for 4 more weeks, then unpaid, and the employer may end the contract after 12 weeks if a specialist says you can't return <sup>[2 (2004)](#o2)</sup>. A Muslim worker can take unpaid special leave of up to 20 days once during service for Hajj <sup>[2 (2004)](#o2)</sup>. The employer may not end the contract, or give notice of ending it, while you are on any leave <sup>[2 (2004)](#o2)</sup>.
 
-#### End-of-service gratuity
+##### Heat
 
-After one full year or more, at least three weeks' wage for each year of service, with part years counted pro rata <sup>[2 (2004)](#o2)</sup>. It is calculated on your last basic wage, and the employer may deduct amounts you owe it <sup>[2 (2004)](#o2)</sup>.
-
-#### Your passport stays with you
-
-The employer's duty to return it, and the fine, are in [Step 7](#step-7-after-arrival) <sup>[3 (2015)](#o3)</sup>. You must show your passport or residence permit when the authorities ask, and report a lost or damaged one at once <sup>[3 (2015)](#o3)</sup>. Employers keeping passports remains common and largely unpunished ([Background](#background), part 4) <sup>[N54](#n54), [N6](#n6)</sup>. MOI's Search and Follow-up Department takes free complaints against a sponsor for abuse (see [If you aren't paid](#if-you-arent-paid), step 7) <sup>[136](#o136)</sup>.
+From 1 June to 15 September, work in the sun or in open workplaces without shade and ventilation is banned from 10 am to 3:30 pm <sup>[139 (2021)](#o139)</sup>; the ban also covers enclosed or shaded places without adequate ventilation <sup>[N100](#n100)</sup>. Work must stop at any workplace where the WBGT (wet-bulb globe temperature, a heat-stress index) is above 32.1 degrees <sup>[139 (2021)](#o139)</sup>. The employer must give free cool drinking water throughout work, shaded rest areas, light loose clothing and free yearly medical checks for conditions that raise heat-stress risk, and must post the daily working-hours schedule where you can see it <sup>[139 (2021)](#o139)</sup>. If you have good reason to believe heat stress threatens your safety or health, you may stop work and complain to MOL, telling your supervisors, and the employer may not dismiss you, deny your rights or discriminate against you for it <sup>[139 (2021)](#o139)</sup>. Report breaches on MOL's hotline 40488264 <sup>[N101](#n101)</sup>. Sites that break the heat rules are closed for three days <sup>[140](#o140)</sup>.
 
 > **Need to know**
-> - What is the official place to report a kept passport <sup>[136](#o136)</sup>?
+> - Does the heat ban cover motorcycle and bicycle delivery, given that in 2025 it was reported to stop such delivery in the restricted hours, leaving only air-conditioned vehicles such as cars <sup>[N102](#n102)</sup>?
 
-#### Heat
+#### Housing, food and health care
 
-From 1 June to 15 September, work in the sun or in open workplaces without shade and ventilation is banned from 10 am to 3:30 pm <sup>[137 (2021)](#o137)</sup>; the ban also covers enclosed or shaded places without adequate ventilation <sup>[N97](#n97)</sup>. Work must stop at any workplace where the WBGT (wet-bulb globe temperature, a heat-stress index) is above 32.1 degrees <sup>[137 (2021)](#o137)</sup>. The employer must give free cool drinking water throughout work, shaded rest areas, light loose clothing and free yearly medical checks for conditions that raise heat-stress risk, and must post the daily working-hours schedule where you can see it <sup>[137 (2021)](#o137)</sup>. If you have good reason to believe heat stress threatens your safety or health, you may stop work and complain to MOL, telling your supervisors, and the employer may not dismiss you, deny your rights or discriminate against you for it <sup>[137 (2021)](#o137)</sup>. Report breaches on MOL's hotline 40488264 <sup>[N98](#n98)</sup>. Sites that break the heat rules are closed for three days <sup>[138](#o138)</sup>.
-
-> **Need to know**
-> - Does the heat ban cover motorcycle and bicycle delivery, given that in 2025 it was reported to stop such delivery in the restricted hours, leaving only air-conditioned vehicles such as cars <sup>[N99](#n99)</sup>?
-
-#### Housing
+##### Housing
 
 Where the employer must provide housing, it must meet the conditions set by ministerial decision <sup>[2 (2004)](#o2)</sup>. In shared rooms each bed must have at least 6 square metres, and corridors, roofs and basements may not be used as rooms <sup>[45 (2014)](#o45)</sup>. Each worker gets a bed with mattress and covers, lockable storage for documents and belongings, and enough air conditioning <sup>[45 (2014)](#o45)</sup>, with at least one full bathroom for every six workers <sup>[45 (2014)](#o45)</sup>. No money may be deducted for housing <sup>[45 (2014)](#o45)</sup>.
 
 > **Need to know**
 > - Is there an official number for housing complaints, apart from MOL's general complaint channels under If you aren't paid <sup>[11](#o11)</sup>?
 
-#### Health insurance and care
+##### Health insurance and care
 
-Health insurance is compulsory under Law 22/2021 and the employer pays the premiums, as in [Step 7](#step-7-after-arrival) <sup>[134 (2021)](#o134)</sup>. The employer also gives you a health insurance card and may not charge you for care caused by its failure to keep the cover valid <sup>[134 (2021)](#o134)</sup>. Health care providers must give an insured person emergency care without asking for payment until the danger is over <sup>[134 (2021)](#o134)</sup>. Holders of temporary residence permits are among those exempt <sup>[139 (2023)](#o139)</sup>. Get the health card as in [Step 7](#step-7-after-arrival) <sup>[50](#o50)</sup>; renew it at PHCC or HMC or online through Hukoomi, and replacing a lost card costs QR 100, or QR 200 if it had expired <sup>[50](#o50)</sup>. QRCS (Qatar Red Crescent Society) runs four Workers' Health Centers with the Ministry of Public Health, at Al Hemaila (new Industrial Area), Mesaimeer, Fereej Abdul Aziz and Zekreet, with more than 20 specialties including round-the-clock services <sup>[140](#o140), [N100 (2024)](#n100)</sup>. Qatar's emergency number is 999 <sup>[51 (2021)](#o51)</sup>.
+Health insurance is compulsory under Law 22/2021 and the employer pays the premiums, as in [Step 7](#step-7-after-you-arrive) <sup>[132 (2021)](#o132)</sup>. The employer also gives you a health insurance card and may not charge you for care caused by its failure to keep the cover valid <sup>[132 (2021)](#o132)</sup>. Health care providers must give an insured person emergency care without asking for payment until the danger is over <sup>[132 (2021)](#o132)</sup>. Holders of temporary residence permits are among those exempt <sup>[141 (2023)](#o141)</sup>. Get the health card as in [Step 7](#step-7-after-you-arrive) <sup>[50](#o50)</sup>; renew it at PHCC or HMC or online through Hukoomi, and replacing a lost card costs QR 100, or QR 200 if it had expired <sup>[50](#o50)</sup>. QRCS (Qatar Red Crescent Society) runs four Workers' Health Centers with the Ministry of Public Health, at Al Hemaila (new Industrial Area), Mesaimeer, Fereej Abdul Aziz and Zekreet, with more than 20 specialties including round-the-clock services <sup>[142](#o142), [N103 (2024)](#n103)</sup>. Qatar's emergency number is 999 <sup>[51 (2021)](#o51)</sup>.
 
 > **Need to know**
-> - Do the Mesaimeer and Al Hemaila centres still give 24/7 urgent care with free medicines, as QRCS's chief medical officer said in 2024 <sup>[N100 (2024)](#n100)</sup>?
-> - Do they still accept any ID in place of a valid health card, as he said <sup>[N100 (2024)](#n100)</sup>?
+> - Do the Mesaimeer and Al Hemaila centres still give 24/7 urgent care with free medicines, as QRCS's chief medical officer said in 2024 <sup>[N103 (2024)](#n103)</sup>?
+> - Do they still accept any ID in place of a valid health card, as he said <sup>[N103 (2024)](#n103)</sup>?
 
-#### Injury at work
+#### Your passport
 
-Treatment, pay during treatment and compensation for a work injury are under If a worker dies, is injured or loses the job <sup>[2 (2004)](#o2)</sup>.
+The employer's duty to return it, and the fine, are in [Step 7](#step-7-after-you-arrive) <sup>[3 (2015)](#o3)</sup>. You must show your passport or residence permit when the authorities ask, and report a lost or damaged one at once <sup>[3 (2015)](#o3)</sup>. Employers keeping passports remains common and largely unpunished ([Background](#background), part 4) <sup>[N54](#n54), [N6](#n6)</sup>. MOI's Search and Follow-up Department takes free complaints against a sponsor for abuse (see [If you aren't paid](#if-you-arent-paid-are-abused-or-your-passport-is-taken), step 7) <sup>[143](#o143)</sup>.
 
-#### If you left without BMET clearance, join the Welfare Board from Qatar
+> **Need to know**
+> - What is the official place to report a kept passport <sup>[143](#o143)</sup>?
 
-Its member benefits are listed in [Step 6](#step-6-orientation-bmet-clearance-insurance-and-the-flight) <sup>[116](#o116)</sup>. Workers who left with a BMET clearance card are members automatically <sup>[51 (2021)](#o51), [118](#o118)</sup>.
+#### End-of-service pay
 
-1. **Check first** at [portal.wewb.gov.bd/bmet-wewbm-check](https://portal.wewb.gov.bd/bmet-wewbm-check) whether you already have clearance or membership <sup>[118](#o118)</sup>.
-2. **Apply online** at [portal.wewb.gov.bd](https://portal.wewb.gov.bd/), and print the information page that appears after a successful application <sup>[118](#o118), [116](#o116)</sup>.
-3. **Take it to the Embassy** with your passport, a Qatar ID copy and proof of legal work: Bangladesh Embassy, Building 153, Street 820, Zone 43, New Al-Hilal, Doha, during the counter hours under Contacts <sup>[118](#o118), [51 (2021)](#o51), [141](#o141)</sup>.
-4. **Pay** the equivalent of Tk 6,500 in riyals, life insurance included <sup>[118](#o118)</sup>.
+After one full year or more, at least three weeks' wage for each year of service, with part years counted pro rata <sup>[2 (2004)](#o2)</sup>. It is calculated on your last basic wage, and the employer may deduct amounts you owe it <sup>[2 (2004)](#o2)</sup>.
 
-   > **Need to know**
-   > - What riyal amount does the Embassy counter charge now, given that its own pages say QR 140 and QR 170, both set before the welfare fee rose on 1 October 2026 <sup>[116](#o116), [51 (2021)](#o51), [82](#o82)</sup>?
+### Your residence permit
 
-5. **What you get back:** a membership card with a QR code, which can be checked at www.member.wewb.gov.bd <sup>[142 (2024)](#o142)</sup>.
+#### How long you can stay and renewing
 
-   > **Need to know**
-   > - Does membership taken from Qatar expire <sup>[118](#o118), [116](#o116)</sup>?
-   > - How is it renewed <sup>[118](#o118), [116](#o116)</sup>?
+Your right to live in Qatar is your RP, which the employer issues and renews as in [Step 7](#step-7-after-you-arrive) <sup>[3 (2015)](#o3)</sup>. Under the residence regulations (MOI Decision 25 of 2019) an RP is granted for one to five years, and the Minister may approve a longer or shorter period <sup>[14 (2019)](#o14)</sup>. The fees ([Step 7](#step-7-after-you-arrive)) are charged per year, with 20% off if the RP is renewed for 3 years <sup>[122](#o122), [144](#o144)</sup>. A fixed-term contract lasts at most 5 years and can be renewed by agreement; if both sides carry on after it ends, it becomes open-ended on the same terms <sup>[2 (2004)](#o2)</sup>.
 
-If something goes wrong, contact the Embassy's labour wing, +974 4467 1499, labour.doha@mofa.gov.bd <sup>[92](#o92)</sup>; Probash-Bondhu, on 16135 in Bangladesh or +8809610102030 from abroad <sup>[65](#o65)</sup>; or the Board's complaints focal person, 02-222220976, ad.pro@wewb.gov.bd, or online at www.wewb.gov.bd <sup>[142 (2024)](#o142)</sup>.
+##### Renewal
 
-### How long you can stay
+The deadline and the late fine are in [Step 7](#step-7-after-you-arrive) <sup>[3 (2015)](#o3), [49 (2015)](#o49)</sup>. Renewal is done at MOI's Expatriates Affairs Department, MOI service centres, Metrash or MOI e-services, with the sponsor's signed form, the fees, your original passport and the company's establishment ID <sup>[144](#o144)</sup>. Check your QID or RP expiry date yourself, free, as in [Step 7](#step-7-after-you-arrive) <sup>[123 (2021)](#o123)</sup>.
 
-#### Your residence permit
-
-Your right to live in Qatar is your RP, which the employer issues and renews as in [Step 7](#step-7-after-arrival) <sup>[3 (2015)](#o3)</sup>. Under the residence regulations (MOI Decision 25 of 2019) an RP is granted for one to five years, and the Minister may approve a longer or shorter period <sup>[14 (2019)](#o14)</sup>. The fees ([Step 7](#step-7-after-arrival)) are charged per year, with 20% off if the RP is renewed for 3 years <sup>[124](#o124), [143](#o143)</sup>. A fixed-term contract lasts at most 5 years and can be renewed by agreement; if both sides carry on after it ends, it becomes open-ended on the same terms <sup>[2 (2004)](#o2)</sup>.
-
-#### Renewal
-
-The deadline and the late fine are in [Step 7](#step-7-after-arrival) <sup>[3 (2015)](#o3), [49 (2015)](#o49)</sup>. Renewal is done at MOI's Expatriates Affairs Department, MOI service centres, Metrash or MOI e-services, with the sponsor's signed form, the fees, your original passport and the company's establishment ID <sup>[143](#o143)</sup>. Check your QID or RP expiry date yourself, free, as in [Step 7](#step-7-after-arrival) <sup>[125 (2021)](#o125)</sup>.
-
-#### Travelling during the contract
+##### Leaving Qatar during the contract (no exit permit)
 
 Qatar has abolished the exit permit for residents <sup>[11](#o11)</sup>. A worker under the Labour Law may leave temporarily or for good while the contract runs, unless the employer has asked in advance that named workers, at most 5% of its staff, need prior approval <sup>[3 (2015)](#o3), [11](#o11)</sup>. If you are stopped from leaving, complain to the Expatriate Exit Grievances Committee, which must decide within three working days <sup>[3 (2015)](#o3)</sup>. You may stay outside Qatar at most 6 months in a row without a return visa (see [Going home on leave](#going-home-on-leave)) <sup>[3 (2015)](#o3), [14 (2019)](#o14)</sup>.
 
-#### When the RP ends
+##### When the RP ends
 
 How long you then have to leave Qatar is under Leaving at the end of the job <sup>[3 (2015)](#o3)</sup>.
 
-#### Permanent residence
+##### Permanent residence
 
-It needs 20 years in Qatar on a legal residence permit (10 if born in Qatar), enough income for the family, good conduct and enough Arabic <sup>[144](#o144)</sup>, and no more than 100 permits are granted a year unless the Amir approves more <sup>[145 (2018)](#o145)</sup>.
+It needs 20 years in Qatar on a legal residence permit (10 if born in Qatar), enough income for the family, good conduct and enough Arabic <sup>[145](#o145)</sup>, and no more than 100 permits are granted a year unless the Amir approves more <sup>[146 (2018)](#o146)</sup>.
+
+#### Going home on leave
+
+You can leave Qatar on leave without your employer's permission unless it has listed you in advance as needing prior approval (see [How long you can stay](#how-long-you-can-stay-and-renewing)) <sup>[3 (2015)](#o3), [11](#o11)</sup>; your leave entitlement and the pay due before you go are under Your rights at work <sup>[2 (2004)](#o2)</sup>. MOI has a free Leave Notification service for expatriates leaving on leave, on MOI e-services, Metrash or at MOI service centres <sup>[147](#o147)</sup>.
+
+> **Need to know**
+> - Must a company worker use MOI's Leave Notification service <sup>[147](#o147)</sup>?
+
+##### The ticket
+
+The Labour Law makes the employer pay the ticket at the end of service <sup>[2 (2004)](#o2)</sup>.
+
+> **Need to know**
+> - Who pays a company worker's ticket for annual leave <sup>[2 (2004)](#o2)</sup>?
+
+##### Coming back
+
+Absence without good reason for more than 7 days in a row after your leave lets the employer dismiss you without notice or gratuity <sup>[2 (2004)](#o2)</sup>. If you stay outside Qatar more than 6 months in a row, you need permission to return (a return visa), got before leaving or within a year of leaving by paying the fee, and a worker may not stay outside more than one year; on return the RP must be valid or expired no more than 60 days <sup>[3 (2015)](#o3), [14 (2019)](#o14)</sup>.
+
+> **Need to know**
+> - Where do you apply for the return visa, given that a guide says it can be started in Metrash <sup>[N91](#n91)</sup>?
+> - What is the return visa's fee?
+
+##### A loan to go back
+
+PKB's migration loan can also be taken for a re-entry visa, with extra papers listed in [Step 6](#step-6-orientation-bmet-clearance-insurance-a-loan-and-the-flight), item 5 <sup>[43](#o43)</sup>.
+
+##### Passport or RP lost abroad
+
+A resident with a valid RP who lost or damaged the passport or RP outside Qatar can come back on a return visa <sup>[14 (2019)](#o14)</sup>. The sponsor (or someone for him) fills in the form; you need a new valid passport if the passport was lost, and an attested certificate of the loss or damage (for the passport only) <sup>[14 (2019)](#o14)</sup>.
+
+> **Need to know**
+> - Where does the sponsor apply for this return visa <sup>[14 (2019)](#o14)</sup>?
+> - What is the fee <sup>[14 (2019)](#o14)</sup>?
+> - How long does it take <sup>[14 (2019)](#o14)</sup>?
+
+#### Bringing your family
+
+To have your family live with you, a private-sector worker needs a technical or specialised occupation and a salary of at least QR 10,000, or QR 6,000 with family housing, shown in the contract; see Family residence <sup>[148 (2023)](#o148)</sup>. To host a family visit, you need a profession outside the labour category, a salary of at least QR 5,000 and verified family housing; see Family visit visa <sup>[148 (2023)](#o148), [78](#o78)</sup>.
 
 ### What can get you jailed or deported
 
@@ -1081,7 +1242,7 @@ A migrant licensed to work for one employer must not leave that employer's work 
 
 #### Late papers and absence
 
-Late RP steps are fined as in [Step 7](#step-7-after-arrival), and overstaying a visit visa costs QR 200 a day up to QR 12,000 <sup>[49 (2015)](#o49)</sup>. Not reporting a lost passport or permit, or not showing them when asked, is fined up to QR 10,000 <sup>[3 (2015)](#o3)</sup>. For absence from work, see If your employer reports you absent <sup>[2 (2004)](#o2), [3 (2015)](#o3)</sup>. A residence permit obtained with false information or documents is revoked <sup>[3 (2015)](#o3)</sup>.
+Late RP steps are fined as in [Step 7](#step-7-after-you-arrive), and overstaying a visit visa costs QR 200 a day up to QR 12,000 <sup>[49 (2015)](#o49)</sup>. Not reporting a lost passport or permit, or not showing them when asked, is fined up to QR 10,000 <sup>[3 (2015)](#o3)</sup>. For absence from work, see If your employer reports you absent <sup>[2 (2004)](#o2), [3 (2015)](#o3)</sup>. A residence permit obtained with false information or documents is revoked <sup>[3 (2015)](#o3)</sup>.
 
 #### Strikes and protests
 
@@ -1095,36 +1256,39 @@ A peaceful strike is allowed only if the employer has broken the contract or the
 
 A strike stops once the collective-dispute procedure starts, and strike days are unpaid leave <sup>[4](#o4)</sup>. Inciting other workers to strike for unlawful reasons in a way that disrupts the business is a ground for dismissal without notice or gratuity <sup>[4](#o4)</sup>. After unpaid Al Bandary workers protested in Doha in August 2022, police arrested protesters and workers from Bangladesh and four other countries were deported ([Background](#background), part 5) <sup>[N64 (2022)](#n64)</sup>. Many workers still protest or strike over late wages despite the risk of arrest and deportation <sup>[N54](#n54)</sup>.
 
-#### Hundi (informal, unlicensed money transfer)
+#### Hundi (informal money transfer)
 
-MOI urges everyone to exchange money only through approved exchange companies and banks, and in 2024 its CID (Criminal Investigation Department) arrested a person for running hundi <sup>[N101 (2022)](#n101), [N48 (2024)](#n48)</sup>. Send money only through legal channels, never through hundi; how is under Sending money home <sup>[44](#o44)</sup>.
+MOI urges everyone to exchange money only through approved exchange companies and banks, and in 2024 its CID (Criminal Investigation Department) arrested a person for running hundi <sup>[N98 (2022)](#n98), [N48 (2024)](#n48)</sup>. Send money only through legal channels, never through hundi; how is under Sending money home <sup>[44](#o44)</sup>.
 
 #### Drugs
-- Importing or exporting drugs for trafficking: death or life imprisonment and QR 300,000 to 500,000 <sup>[146 (1987)](#o146)</sup>.
-- Possessing, handing over or transporting drugs for trafficking: 10 to 20 years and QR 200,000 to 400,000 <sup>[146 (1987)](#o146)</sup>.
-- Possessing, handing over or transporting them even without intent to trade or use them: 3 to 7 years and QR 100,000 to 200,000 <sup>[146 (1987)](#o146)</sup>.
-- Possessing or using for personal use: 6 months to 3 years and QR 10,000 to 20,000 <sup>[146 (1987)](#o146)</sup>.
+
+- Importing or exporting drugs for trafficking: death or life imprisonment and QR 300,000 to 500,000 <sup>[149 (1987)](#o149)</sup>.
+- Possessing, handing over or transporting drugs for trafficking: 10 to 20 years and QR 200,000 to 400,000 <sup>[149 (1987)](#o149)</sup>.
+- Possessing, handing over or transporting them even without intent to trade or use them: 3 to 7 years and QR 100,000 to 200,000 <sup>[149 (1987)](#o149)</sup>.
+- Possessing or using for personal use: 6 months to 3 years and QR 10,000 to 20,000 <sup>[149 (1987)](#o149)</sup>.
 
 #### Alcohol
-- Drinking in a public place or being drunk in the street: up to six months in prison and/or up to QR 3,000 <sup>[147 (2004)](#o147)</sup>.
-- Importing or making alcohol: up to three years and up to QR 10,000 <sup>[147 (2004)](#o147)</sup>.
-- Selling, buying, transporting or holding it for trade: up to three years and/or up to QR 10,000 <sup>[147 (2004)](#o147)</sup>.
+
+- Drinking in a public place or being drunk in the street: up to six months in prison and/or up to QR 3,000 <sup>[150 (2004)](#o150)</sup>.
+- Importing or making alcohol: up to three years and up to QR 10,000 <sup>[150 (2004)](#o150)</sup>.
+- Selling, buying, transporting or holding it for trade: up to three years and/or up to QR 10,000 <sup>[150 (2004)](#o150)</sup>.
 - Being clearly drunk or drugged during working hours: a ground for dismissal without notice or gratuity <sup>[2 (2004)](#o2)</sup>.
 
 #### Cheques and debts
 
-Qatar's Penal Code (Law 11 of 2004) punishes giving in bad faith a cheque with no or not enough funds, withdrawing the funds, stopping payment, or signing it so it can't be cashed, with 3 months to 3 years in prison and/or a fine of QR 3,000-10,000, and the court may order the cheque amount paid (Art. 357) <sup>[147 (2004)](#o147)</sup>. The person owed can ask the prosecution or court to record a settlement with you, which ends the case, or stops the sentence if it comes later (Art. 359) <sup>[147 (2004)](#o147)</sup>. If the account holds less than the cheque amount, the bank must pay the part available unless the holder refuses, and give the holder a certificate to claim the rest (Law 1 of 2024) <sup>[148 (2024)](#o148)</sup>.
+Qatar's Penal Code (Law 11 of 2004) punishes giving in bad faith a cheque with no or not enough funds, withdrawing the funds, stopping payment, or signing it so it can't be cashed, with 3 months to 3 years in prison and/or a fine of QR 3,000-10,000, and the court may order the cheque amount paid (Art. 357) <sup>[150 (2004)](#o150)</sup>. The person owed can ask the prosecution or court to record a settlement with you, which ends the case, or stops the sentence if it comes later (Art. 359) <sup>[150 (2004)](#o150)</sup>. If the account holds less than the cheque amount, the bank must pay the part available unless the holder refuses, and give the holder a certificate to claim the rest (Law 1 of 2024) <sup>[151 (2024)](#o151)</sup>.
 
 > **Need to know**
-> - Can an ordinary unpaid debt (not a cheque) lead to prison or a travel ban <sup>[147 (2004)](#o147)</sup>?
+> - Can an ordinary unpaid debt (not a cheque) lead to prison or a travel ban <sup>[150 (2004)](#o150)</sup>?
 
 #### Public behaviour
-- An obscene gesture, obscene songs or words, or an indecent act in or visible from a public place: up to 6 months and/or up to QR 3,000 (Art. 290) <sup>[147 (2004)](#o147)</sup>.
-- Words, sounds, gestures or showing anything meant to offend a woman's modesty, or intruding on a woman's privacy: up to 1 year and/or up to QR 5,000 (Art. 291) <sup>[147 (2004)](#o147)</sup>.
-- Harassing or disturbing others, or using immoral words, by phone, electronic media or any other means: up to 6 months and/or up to QR 3,000 (Art. 293) <sup>[147 (2004)](#o147)</sup>.
-- Making, importing, holding or carrying for distribution or display, selling or sharing indecent pictures, films or other material: up to 1 year and/or up to QR 5,000 (Art. 292) <sup>[147 (2004)](#o147)</sup>.
-- Gambling: up to 3 months and/or up to QR 3,000, or up to 6 months and/or QR 6,000 in a public place (Art. 275) <sup>[147 (2004)](#o147)</sup>.
-- Insults and defamation (Arts. 326, 329, 330) <sup>[147 (2004)](#o147)</sup>:
+
+- An obscene gesture, obscene songs or words, or an indecent act in or visible from a public place: up to 6 months and/or up to QR 3,000 (Art. 290) <sup>[150 (2004)](#o150)</sup>.
+- Words, sounds, gestures or showing anything meant to offend a woman's modesty, or intruding on a woman's privacy: up to 1 year and/or up to QR 5,000 (Art. 291) <sup>[150 (2004)](#o150)</sup>.
+- Harassing or disturbing others, or using immoral words, by phone, electronic media or any other means: up to 6 months and/or up to QR 3,000 (Art. 293) <sup>[150 (2004)](#o150)</sup>.
+- Making, importing, holding or carrying for distribution or display, selling or sharing indecent pictures, films or other material: up to 1 year and/or up to QR 5,000 (Art. 292) <sup>[150 (2004)](#o150)</sup>.
+- Gambling: up to 3 months and/or up to QR 3,000, or up to 6 months and/or QR 6,000 in a public place (Art. 275) <sup>[150 (2004)](#o150)</sup>.
+- Insults and defamation (Arts. 326, 329, 330) <sup>[150 (2004)](#o150)</sup>:
   - publicly insulting someone: up to 1 year and/or up to QR 5,000;
   - public defamation: up to 2 years and/or QR 10,000;
   - an insult not in public, by phone or private message: up to 3 months and/or QR 1,000.
@@ -1132,271 +1296,183 @@ Qatar's Penal Code (Law 11 of 2004) punishes giving in bad faith a cheque with n
 #### Photos, recordings and online
 
 Under the Penal Code:
-- Without consent, opening private letters, eavesdropping on calls, recording conversations in a private place, or photographing or filming people in a private place: up to 2 years and/or up to QR 10,000 (Art. 333) <sup>[149 (2017)](#o149)</sup>.
-- Photographing or filming people in a public place to insult or defame them, or injured or dead people at accidents where the law doesn't allow it: the same penalty <sup>[149 (2017)](#o149)</sup>.
-- Sharing or using such a recording or picture, even privately, without consent: up to 3 years; threatening to reveal it to force someone to act: up to 5 years; devices are confiscated and recordings destroyed (Art. 333 bis) <sup>[150 (2024)](#o150)</sup>.
+- Without consent, opening private letters, eavesdropping on calls, recording conversations in a private place, or photographing or filming people in a private place: up to 2 years and/or up to QR 10,000 (Art. 333) <sup>[152 (2017)](#o152)</sup>.
+- Photographing or filming people in a public place to insult or defame them, or injured or dead people at accidents where the law doesn't allow it: the same penalty <sup>[152 (2017)](#o152)</sup>.
+- Sharing or using such a recording or picture, even privately, without consent: up to 3 years; threatening to reveal it to force someone to act: up to 5 years; devices are confiscated and recordings destroyed (Art. 333 bis) <sup>[153 (2024)](#o153)</sup>.
 
 Under the Cybercrime Law (Law 14 of 2014):
-- Posting or sharing online pictures or videos of people in public places without their knowledge or consent: up to 1 year and/or up to QR 100,000 (Art. 8 bis) <sup>[151](#o151)</sup>.
-- Online, attacking social principles or values, publishing news, pictures, audio or video about people's private or family life (even if true), or insulting or defaming others: up to 3 years and/or up to QR 100,000 (Art. 8) <sup>[152 (2014)](#o152)</sup>.
-- Spreading false news that endangers the state's safety or public order: up to 1 year and/or QR 250,000; running a website to spread it: up to 3 years and/or QR 500,000 (Art. 6) <sup>[152 (2014)](#o152)</sup>.
-- Online threats or blackmail: up to 3 years and/or up to QR 100,000 (Art. 9) <sup>[152 (2014)](#o152)</sup>.
-- Making or sharing child sexual material by IT means: up to 5 years and up to QR 500,000; possessing it: up to 1 year and/or up to QR 250,000; a child is anyone under 18 (Art. 7) <sup>[152 (2014)](#o152)</sup>.
-- Forging an official electronic document or knowingly using one: up to 10 years and up to QR 200,000; online impersonation or fraud: up to 3 years and/or up to QR 100,000 (Arts. 10-11) <sup>[152 (2014)](#o152)</sup>.
+- Posting or sharing online pictures or videos of people in public places without their knowledge or consent: up to 1 year and/or up to QR 100,000 (Art. 8 bis) <sup>[154](#o154)</sup>.
+- Online, attacking social principles or values, publishing news, pictures, audio or video about people's private or family life (even if true), or insulting or defaming others: up to 3 years and/or up to QR 100,000 (Art. 8) <sup>[155 (2014)](#o155)</sup>.
+- Spreading false news that endangers the state's safety or public order: up to 1 year and/or QR 250,000; running a website to spread it: up to 3 years and/or QR 500,000 (Art. 6) <sup>[155 (2014)](#o155)</sup>.
+- Online threats or blackmail: up to 3 years and/or up to QR 100,000 (Art. 9) <sup>[155 (2014)](#o155)</sup>.
+- Making or sharing child sexual material by IT means: up to 5 years and up to QR 500,000; possessing it: up to 1 year and/or up to QR 250,000; a child is anyone under 18 (Art. 7) <sup>[155 (2014)](#o155)</sup>.
+- Forging an official electronic document or knowingly using one: up to 10 years and up to QR 200,000; online impersonation or fraud: up to 3 years and/or up to QR 100,000 (Arts. 10-11) <sup>[155 (2014)](#o155)</sup>.
 
 #### Violence, accidents and illegal entry
-- Deliberately assaulting someone: up to 1 year and/or up to QR 25,000; an assault causing illness or inability to work for more than 20 days: up to 2 years and/or up to QR 50,000 (Arts. 308-309) <sup>[150 (2024)](#o150)</sup>.
-- Causing a death by negligence or by not following laws or regulations: up to 3 years and/or up to QR 50,000, or up to 1 year and/or QR 20,000 if the victim's family forgives or accepts blood money (diya) (Art. 311) <sup>[150 (2024)](#o150)</sup>.
-- Entering or leaving Qatar illegally, or helping anyone do so: up to 3 years and/or up to QR 100,000, doubled if the person is accused or sentenced, wanted, or under a travel or entry ban (Art. 139 bis) <sup>[150 (2024)](#o150)</sup>.
 
-#### After a deportation order
-
-You can be held in a designated place for 30 days, renewable once <sup>[3 (2015)](#o3)</sup>. The recruiter pays the deportation costs; if you were working illegally for another entity, that entity pays; if it can't be identified you pay, and if you can't, the recruiter pays <sup>[3 (2015)](#o3)</sup>.
+- Deliberately assaulting someone: up to 1 year and/or up to QR 25,000; an assault causing illness or inability to work for more than 20 days: up to 2 years and/or up to QR 50,000 (Arts. 308-309) <sup>[153 (2024)](#o153)</sup>.
+- Causing a death by negligence or by not following laws or regulations: up to 3 years and/or up to QR 50,000, or up to 1 year and/or QR 20,000 if the victim's family forgives or accepts blood money (diya) (Art. 311) <sup>[153 (2024)](#o153)</sup>.
+- Entering or leaving Qatar illegally, or helping anyone do so: up to 3 years and/or up to QR 100,000, doubled if the person is accused or sentenced, wanted, or under a travel or entry ban (Art. 139 bis) <sup>[153 (2024)](#o153)</sup>.
 
 #### Bans on coming back
 
 A worker dismissed for disciplinary reasons who doesn't appeal, or loses, may not return to work in Qatar for four years <sup>[3 (2015)](#o3)</sup>. A worker who leaves without following the notice rules may not get a work permit for one year from departure <sup>[2 (2004)](#o2)</sup>. Someone deported by a court judgment may return only by decision of the Minister <sup>[3 (2015)](#o3)</sup>. For the ban after an absconding case, see If your employer reports you absent <sup>[51 (2021)](#o51)</sup>.
 
-#### Legal help
+### If something goes wrong
 
-If you or your family need legal help in Qatar, apply to the Welfare Board directly, or through the expatriate welfare branch of the DC's (district administrator's) office or the DEMO (District Employment and Manpower Office, BMET's office in the district); the Board writes to the Embassy asking it to act and tells you what it has done <sup>[153](#o153)</sup>.
+#### If you aren't paid, are abused or your passport is taken
 
-### If you aren't paid
-
-#### When to act
-
-Your wage is late if it isn't in your Qatar bank account by the dates in [Step 7](#step-7-after-arrival), item 7 <sup>[90](#o90)</sup>. Workers at labour-supply companies are often told their wages are delayed until the client company pays <sup>[N26](#n26)</sup>. Since Law 9 of 2026, any dispute under the Labour Law or your contract must first go to MOL's department for amicable settlement, and only then to a Labour Dispute Settlement Committee <sup>[4](#o4)</sup>. In January 2024 an MOL Assistant Undersecretary told the Bangladesh ambassador that an unpaid worker should complain or tell the Embassy within one month, because 3 to 4 months' unpaid wages become hard to recover, and that a worker unpaid for more than 2 to 3 months should look for work elsewhere <sup>[N102 (2024)](#n102)</sup>. Claims under the Labour Law or the contract lapse one year after the contract ends, and workers' lawsuits are free of court fees <sup>[2 (2004)](#o2)</sup>.
+Your wage is late if it isn't in your Qatar bank account by the dates in [Step 7](#step-7-after-you-arrive), item 7 <sup>[90](#o90)</sup>. Workers at labour-supply companies are often told their wages are delayed until the client company pays <sup>[N26](#n26)</sup>. Since Law 9 of 2026, any dispute under the Labour Law or your contract must first go to MOL's department for amicable settlement, and only then to a Labour Dispute Settlement Committee <sup>[4](#o4)</sup>. In January 2024 an MOL Assistant Undersecretary told the Bangladesh ambassador that an unpaid worker should complain or tell the Embassy within one month, because 3 to 4 months' unpaid wages become hard to recover, and that a worker unpaid for more than 2 to 3 months should look for work elsewhere <sup>[N104 (2024)](#n104)</sup>. Claims under the Labour Law or the contract lapse one year after the contract ends, and workers' lawsuits are free of court fees <sup>[2 (2004)](#o2)</sup>.
 
 > **Need to know**
 > - Does MOL charge anything for a complaint <sup>[4](#o4)</sup>?
 
-1. **Keep your proof.** MOL's Labour Complaint Form asks for a copy of your employment contract (in Arabic) and your ID card <sup>[154](#o154)</sup>. An inspector may also ask for payslips, contracts or bank statements; bring copies of your passport and QID and the company's full name, location and the manager's or mandoob's (PRO's) contacts <sup>[N84](#n84)</sup>.
+1. **Keep your proof.** MOL's Labour Complaint Form asks for a copy of your employment contract (in Arabic) and your ID card <sup>[156](#o156)</sup>. An inspector may also ask for payslips, contracts or bank statements; bring copies of your passport and QID and the company's full name, location and the manager's or mandoob's (PRO's) contacts <sup>[N85](#n85)</sup>.
 2. **Complain to MOL** in any of these ways:
-   - **Hotline:** MOL's 24/7 hotline answers in Arabic and English with translators for other languages <sup>[155](#o155)</sup>.
+   - **Hotline:** MOL's 24/7 hotline answers in Arabic and English with translators for other languages <sup>[157](#o157)</sup>.
 
      > **Need to know**
-     > - Which hotline number is current: 16008 <sup>[155](#o155)</sup> or 16505 / 44068979 <sup>[128](#o128)</sup>?
+     > - Which hotline number is current: 16008 <sup>[157](#o157)</sup> or 16505 / 44068979 <sup>[126](#o126)</sup>?
 
-   - **Kiosk:** one of the 11 electronic complaint kiosks at labour ministry branches, working in 11 languages including Bengali <sup>[11](#o11), [N84](#n84)</sup>.
-   - **SMS:** send "5" followed by your QID or visa number to 92727 <sup>[N103 (2020)](#n103), [N84](#n84)</sup>.
-   - **Online:** MOL's Unified Platform for Complaints and Whistleblowers <sup>[155](#o155)</sup>:
-     1. Log in with your QID or visa number and mobile number, or through NAS (the National Authentication System, Qatar's government login), and enter the one-time code <sup>[N84](#n84), [N104 (2021)](#n104)</sup>.
-     2. Fill in the employer's details, the type of violation and your documents; the form asks whether you agree to referral to the committee if MOL can't settle it <sup>[N84](#n84), [154](#o154)</sup>.
-     3. You get a complaint number and updates by SMS and email; check its status with the establishment registration number, complaint number and year <sup>[N84](#n84), [N105](#n105)</sup>. Workers report statuses such as "Notice sent" and "Sent to committee" <sup>[N105](#n105)</sup>.
+   - **Kiosk:** one of the 11 electronic complaint kiosks at labour ministry branches, working in 11 languages including Bengali <sup>[11](#o11), [N85](#n85)</sup>.
+   - **SMS:** send "5" followed by your QID or visa number to 92727 <sup>[N105 (2020)](#n105), [N85](#n85)</sup>.
+   - **Online:** MOL's Unified Platform for Complaints and Whistleblowers <sup>[157](#o157)</sup>:
+     1. Log in with your QID or visa number and mobile number, or through NAS (the National Authentication System, Qatar's government login), and enter the one-time code <sup>[N85](#n85), [N106 (2021)](#n106)</sup>.
+     2. Fill in the employer's details, the type of violation and your documents; the form asks whether you agree to referral to the committee if MOL can't settle it <sup>[N85](#n85), [156](#o156)</sup>.
+     3. You get a complaint number and updates by SMS and email; check its status with the establishment registration number, complaint number and year <sup>[N85](#n85), [N107](#n107)</sup>. Workers report statuses such as "Notice sent" and "Sent to committee" <sup>[N107](#n107)</sup>.
 
-     Anyone can also file a "public report" of a labour-law violation on the platform with only a mobile number; inspectors check it, and the sender isn't told the outcome <sup>[N104 (2021)](#n104)</sup>.
+     Anyone can also file a "public report" of a labour-law violation on the platform with only a mobile number; inspectors check it, and the sender isn't told the outcome <sup>[N106 (2021)](#n106)</sup>.
 
      > **Need to know**
-     > - What is the web address of MOL's online complaint platform <sup>[155](#o155)</sup>?
+     > - What is the web address of MOL's online complaint platform <sup>[157](#o157)</sup>?
 
 3. **What MOL must do.** It tries to settle the dispute within 7 days and presents the result within the next 7 days; an agreed settlement is written down, signed and enforceable like a court order <sup>[4](#o4)</sup>. If there is no settlement, or a side rejects it or doesn't answer, MOL must refer the dispute within 3 working days to the Labour Dispute Settlement Committee <sup>[4](#o4)</sup>. Filing the request stops the legal time limit on your claim while these steps run <sup>[4](#o4)</sup>.
-4. **The Labour Dispute Settlement Committee.** Each is chaired by a Court of First Instance judge, with an MOL representative and an accounting expert <sup>[156](#o156)</sup>. The hearing is set within 7 working days of referral, and both sides are told at least 3 days before <sup>[4](#o4)</sup>. You may appear in person or authorise any representative, who need not be a relative <sup>[156](#o156)</sup>. Any document not in Arabic needs a certified Arabic translation from a licensed translation office <sup>[157 (2018)](#o157)</sup>. If you brought the case and neither you nor your representative attend any hearing, the committee may strike it out once it has confirmed you were properly told about the first hearing <sup>[157 (2018)](#o157)</sup>. The committee must decide within three weeks of the first hearing, and its decisions are enforceable at once <sup>[2 (2004)](#o2), [4](#o4)</sup>. Either side can appeal to the Court of Appeal within 15 days, counted from the decision if you were present or from the day after you were notified if you were absent; the appeal doesn't stop enforcement unless the court orders it, and the court decides within 30 days of its first hearing <sup>[2 (2004)](#o2)</sup>. In 2024 committee cases often took much longer than the three-week limit, some cases took several months, up to a year; workers with a verdict often still weren't paid because there is no time limit for enforcement, and court papers are all in Arabic <sup>[N6](#n6)</sup>. Workers who can't find new jobs while their case is pending often leave Qatar without resolving it <sup>[N63](#n63)</sup>.
-5. **If the employer still doesn't pay: the Workers' Support and Insurance Fund (WSIF).** It pays workers the dues decided by the committees and recovers the money from the employer <sup>[53 (2018)](#o53)</sup>; it also pays on final court judgments, late monthly wages where the public interest requires, and emergencies, and it is meant to make sure workers get their dues if the employer goes out of business <sup>[158 (2022)](#o158), [11](#o11)</sup>. It pays at most three months' gross salary up to QR 20,000 for workers of operating companies, two months up to QR 12,000 for dissolved companies, and three months up to QR 8,000 for domestic workers, unless the Fund's chairman decides otherwise <sup>[158 (2022)](#o158)</sup>. Apply, yourself or through a representative, on the Fund's form or electronic platform, with a certified copy of the committee decision bearing the enforcement formula; a representative needs a notarised power of attorney, and heirs of a dead worker can apply <sup>[158 (2022)](#o158)</sup>. It pays only if the decision wasn't appealed within 15 days and you and the employer haven't made an amicable settlement; a written settlement shelves your application even if the employer never paid it <sup>[158 (2022)](#o158)</sup>. It may pay earlier if you have left or are leaving Qatar for good <sup>[158 (2022)](#o158)</sup>. Neither the committees nor the Fund cover your transport and document costs <sup>[N6](#n6)</sup>.
+4. **The Labour Dispute Settlement Committee.** Each is chaired by a Court of First Instance judge, with an MOL representative and an accounting expert <sup>[158](#o158)</sup>. The hearing is set within 7 working days of referral, and both sides are told at least 3 days before <sup>[4](#o4)</sup>. You may appear in person or authorise any representative, who need not be a relative <sup>[158](#o158)</sup>. Any document not in Arabic needs a certified Arabic translation from a licensed translation office <sup>[159 (2018)](#o159)</sup>. If you brought the case and neither you nor your representative attend any hearing, the committee may strike it out once it has confirmed you were properly told about the first hearing <sup>[159 (2018)](#o159)</sup>. The committee must decide within three weeks of the first hearing, and its decisions are enforceable at once <sup>[2 (2004)](#o2), [4](#o4)</sup>. Either side can appeal to the Court of Appeal within 15 days, counted from the decision if you were present or from the day after you were notified if you were absent; the appeal doesn't stop enforcement unless the court orders it, and the court decides within 30 days of its first hearing <sup>[2 (2004)](#o2)</sup>. In 2024 committee cases often took much longer than the three-week limit, some cases took several months, up to a year; workers with a verdict often still weren't paid because there is no time limit for enforcement, and court papers are all in Arabic <sup>[N6](#n6)</sup>. Workers who can't find new jobs while their case is pending often leave Qatar without resolving it <sup>[N63](#n63)</sup>.
+5. **If the employer still doesn't pay: the Workers' Support and Insurance Fund (WSIF).** It pays workers the dues decided by the committees and recovers the money from the employer <sup>[53 (2018)](#o53)</sup>; it also pays on final court judgments, late monthly wages where the public interest requires, and emergencies, and it is meant to make sure workers get their dues if the employer goes out of business <sup>[160 (2022)](#o160), [11](#o11)</sup>. It pays at most three months' gross salary up to QR 20,000 for workers of operating companies, two months up to QR 12,000 for dissolved companies, and three months up to QR 8,000 for domestic workers, unless the Fund's chairman decides otherwise <sup>[160 (2022)](#o160)</sup>. Apply, yourself or through a representative, on the Fund's form or electronic platform, with a certified copy of the committee decision bearing the enforcement formula; a representative needs a notarised power of attorney, and heirs of a dead worker can apply <sup>[160 (2022)](#o160)</sup>. It pays only if the decision wasn't appealed within 15 days and you and the employer haven't made an amicable settlement; a written settlement shelves your application even if the employer never paid it <sup>[160 (2022)](#o160)</sup>. It may pay earlier if you have left or are leaving Qatar for good <sup>[160 (2022)](#o160)</sup>. Neither the committees nor the Fund cover your transport and document costs <sup>[N6](#n6)</sup>.
 
    > **Need to know**
-   > - What is the Fund's platform address <sup>[158 (2022)](#o158)</sup>?
-   > - Where is the Fund's office <sup>[158 (2022)](#o158)</sup>?
-   > - How long does the Fund take to process an application <sup>[158 (2022)](#o158)</sup>?
+   > - What is the Fund's platform address <sup>[160 (2022)](#o160)</sup>?
+   > - Where is the Fund's office <sup>[160 (2022)](#o160)</sup>?
+   > - How long does the Fund take to process an application <sup>[160 (2022)](#o160)</sup>?
 
 6. **Your rights while unpaid.** If the employer breaks the wage-payment rule, you may ask MOL to change employer or end the contract, and the employer must then pay your journey home <sup>[4](#o4)</sup>. You may also end the contract without notice and keep your full gratuity if the employer breaches the contract or the law <sup>[2 (2004)](#o2)</sup>. An employer that breaks the wage-payment rule faces up to one year in prison and/or a fine of QR 2,000 to 10,000 <sup>[4](#o4)</sup>. If the Minister suspends the employer's dealings with MOL, this can't stop your contract attestation or the renewal of your work and residence permits <sup>[4](#o4)</sup>.
-7. **Abuse, danger and other routes in Qatar.** MOI's Search and Follow-up Department takes free complaints against a sponsor for abuse; bring a passport or ID copy and a written complaint <sup>[136](#o136)</sup>. The NHRC (National Human Rights Committee, set up under Law 38 of 2002 to protect workers' rights) <sup>[11](#o11)</sup> takes complaints by email c@nhrc.org.qa, phone 44048844, 66626663 or 33296666, fax 44444013, in person with its printed form, or online with a login; its hotline is 8002222 <sup>[159](#o159)</sup>. Write the complaint clearly, give your phone, email and address, and attach a copy of your passport or visa and any documents <sup>[159](#o159)</sup>. In danger, call 999 <sup>[51 (2021)](#o51)</sup>; for human trafficking, the hotline is 16044 <sup>[155](#o155)</sup>.
-8. **The Bangladesh Embassy's labour wing.** Counsellor (Labour) +974 4037 4725; First Secretary (Labour) +974 4467 1499, labour.doha@mofa.gov.bd <sup>[92](#o92)</sup>. The Embassy's phone is +974 4467 1927 and its hotline +974 3366 2000 <sup>[160](#o160)</sup>. A worker in a labour dispute can get the Embassy's advice and help <sup>[161 (2021)](#o161)</sup>.
-9. **The Ministry in Dhaka.** Send its Welfare-1 branch an application with what happened, proof of status (passport, work permit, BMET smart card, Qatar ID number), the employer's name and address and the amounts owed <sup>[91](#o91)</sup>. The officer in charge is the Senior Assistant Secretary (Welfare-1): 02-41030251, mobile 01533944186, saswelfare@probashi.gov.bd <sup>[91](#o91)</sup>. It is free, and within 7 working days of receiving it the Ministry writes to the labour wing or the Welfare Board and tells you by letter <sup>[91](#o91)</sup>. If it doesn't act, the officer to report to is the Joint Secretary heading the Mission and Welfare wing: 02-41030219, mobile 01711427769, adsmission@probashi.gov.bd <sup>[91](#o91)</sup>. The Ministry's Complaint Resolution Cell also takes complaints from Bangladeshis abroad at minister.expat@gmail.com <sup>[93](#o93)</sup>. For legal help, apply to the Welfare Board as under What can get you jailed or deported <sup>[153](#o153)</sup>.
-10. **If you must leave before the case ends.** Any representative can act for you before the committee, and a representative applying to the Fund needs a notarised power of attorney <sup>[156](#o156), [158 (2022)](#o158)</sup>. In a 2026 case of unpaid Nepali workers, their embassy advised giving a power of attorney to legal representatives to continue the case, or changing employer <sup>[N106](#n106)</sup>.
+7. **Abuse, danger and other routes in Qatar.** MOI's Search and Follow-up Department takes free complaints against a sponsor for abuse; bring a passport or ID copy and a written complaint <sup>[143](#o143)</sup>. The NHRC (National Human Rights Committee, set up under Law 38 of 2002 to protect workers' rights) <sup>[11](#o11)</sup> takes complaints by email c@nhrc.org.qa, phone 44048844, 66626663 or 33296666, fax 44444013, in person with its printed form, or online with a login; its hotline is 8002222 <sup>[161](#o161)</sup>. Write the complaint clearly, give your phone, email and address, and attach a copy of your passport or visa and any documents <sup>[161](#o161)</sup>. In danger, call 999 <sup>[51 (2021)](#o51)</sup>; for human trafficking, the hotline is 16044 <sup>[157](#o157)</sup>.
+8. **The Bangladesh Embassy's labour wing.** Counsellor (Labour) +974 4037 4725; First Secretary (Labour) +974 4467 1499, labour.doha@mofa.gov.bd <sup>[92](#o92)</sup>. The Embassy's phone is +974 4467 1927 and its hotline +974 3366 2000 <sup>[137](#o137)</sup>. A worker in a labour dispute can get the Embassy's advice and help <sup>[162 (2021)](#o162)</sup>.
+9. **The Ministry in Dhaka.** Send its Welfare-1 branch an application with what happened, proof of status (passport, work permit, BMET smart card, Qatar ID number), the employer's name and address and the amounts owed <sup>[91](#o91)</sup>. The officer in charge is the Senior Assistant Secretary (Welfare-1): 02-41030251, mobile 01533944186, saswelfare@probashi.gov.bd <sup>[91](#o91)</sup>. It is free, and within 7 working days of receiving it the Ministry writes to the labour wing or the Welfare Board and tells you by letter <sup>[91](#o91)</sup>. If it doesn't act, the officer to report to is the Joint Secretary heading the Mission and Welfare wing: 02-41030219, mobile 01711427769, adsmission@probashi.gov.bd <sup>[91](#o91)</sup>. The Ministry's Complaint Resolution Cell also takes complaints from Bangladeshis abroad at minister.expat@gmail.com <sup>[135](#o135)</sup>. For legal help, apply to the Welfare Board as under What can get you jailed or deported <sup>[163](#o163)</sup>.
+10. **If you must leave before the case ends.** Any representative can act for you before the committee, and a representative applying to the Fund needs a notarised power of attorney <sup>[158](#o158), [160 (2022)](#o160)</sup>. In a 2026 case of unpaid Nepali workers, their embassy advised giving a power of attorney to legal representatives to continue the case, or changing employer <sup>[N108](#n108)</sup>.
 
     > **Need to know**
-    > - Can you be deported before your complaint is settled, given that in January 2024 MOL said its link with MOI prevents this, but Bangladeshis had been sent home with cases pending, and authorities sometimes deported workers before their cases were resolved <sup>[N102 (2024)](#n102), [N6](#n6)</sup>?
+    > - Can you be deported before your complaint is settled, given that in January 2024 MOL said its link with MOI prevents this, but Bangladeshis had been sent home with cases pending, and authorities sometimes deported workers before their cases were resolved <sup>[N104 (2024)](#n104), [N6](#n6)</sup>?
 
-### If you want to change employer
+#### If you are injured or fall ill
 
-#### No permission needed
+Treatment, pay during treatment and compensation for a work injury are under If a worker dies, is injured or loses the job <sup>[2 (2004)](#o2)</sup>.
 
-Since 2020 you can move to another employer without your current employer's consent: the NOC requirement was abolished <sup>[10 (2020)](#o10), [11](#o11)</sup>. Under MOI Decision 51/2020 you change employer by notifying MOL under its rules, with your RP valid or within 90 days of its expiry, unless it expired for reasons beyond your control <sup>[47 (2020)](#o47)</sup>. The old limits (the end of a fixed-term contract, or five years with the employer) were repealed <sup>[47 (2020)](#o47), [14 (2019)](#o14)</sup>. Before your RP is issued, the authorities may move your work visa to another employer with MOL's approval <sup>[14 (2019)](#o14)</sup>.
+#### If your employer reports you absent ("absconding")
 
-#### Notice
-
-During probation, give the current employer one month's written notice; the new employer compensates it for the ticket and recruitment fees, up to two months' basic salary <sup>[2 (2004)](#o2)</sup>. After probation, notice is one month during your first two years of work and two months after that <sup>[2 (2004)](#o2)</sup>. If you give less, you pay the employer your basic wage for the part not given <sup>[2 (2004)](#o2)</sup>. The current employer can waive or shorten the notice on MOL's platform <sup>[N107](#n107)</sup>.
-
-1. **Check first:** your RP must be valid or expired less than 90 days ago <sup>[47 (2020)](#o47)</sup>.
-
-   > **Need to know**
-   > - What is MOL's official eligibility list, beyond press reports that MOL requires no ban on you or the company, an active registration for the new employer, no other change request pending, no non-compete restriction, a valid QID and a local mobile number in your own name <sup>[N49](#n49), [N107](#n107)</sup>?
-   > - Does an absconding report filed before your request still stop the change, as a labour ministry official said in 2020 <sup>[N51 (2020)](#n51)</sup>?
-
-2. **Apply:** log in to MOL's Individuals Portal through NAS (the new employer uses the Establishments Portal); either you or the new employer can file <sup>[N49](#n49), [N107](#n107)</sup>. Choose My Services, then Change of employer within the labour market, then Apply; choose the employer types, enter the new contract and submit; "Request Submitted Successfully" appears <sup>[N107](#n107)</sup>.
-3. **If the new employer files,** you get an SMS and have three days to approve it in My Requests, or it is rejected automatically <sup>[N107](#n107)</sup>.
-4. **What follows:** the current employer is told and may comment, MOL decides, the new contract is authenticated, the notice period runs and MOI then updates your RP <sup>[N49](#n49)</sup>.
-
-> **Need to know**
-> - What is MOL's official change-employer guide <sup>[47 (2020)](#o47)</sup>?
-> - Is there any fee for changing employer <sup>[47 (2020)](#o47)</sup>?
-
-#### If it is blocked
-
-Complain to MOL as in If you aren't paid <sup>[4](#o4)</sup>; unpaid workers have a right to move (step 6 there) <sup>[4](#o4)</sup>. In practice, workers are still often asked for a signed resignation letter or an NOC from their employer, and some employers retaliated by cancelling the visa or filing an absconding report during the notice period <sup>[N54](#n54), [N50 (2023)](#n50), [N6](#n6)</sup>. Some workers were forced to leave Qatar and re-enter on a new visa <sup>[N55 (2023)](#n55)</sup>.
-
-> **Need to know**
-> - Can you still change employer inside Qatar once your RP is cancelled, given that an advisory firm reported in June 2026 that a local transfer is then not allowed and the person must be hired from abroad <sup>[N108](#n108)</sup>?
-
-### If your employer reports you absent ("absconding")
-
-#### What it is
+##### What it is
 
 An absconding report (in Arabic balagh huroob, a "runaway" report) is filed by an employer saying a worker has left the job <sup>[51 (2021)](#o51)</sup>. The employer files it free, with a signed form, your passport or a copy and its ID or establishment ID, at MOI's Search and Follow-up Department, MOI service centres or Metrash, and must notify the authorities within 14 days of a worker leaving his job <sup>[48](#o48), [3 (2015)](#o3)</sup>.
 
-#### What it can lead to
+##### What it can lead to
 
 Leaving your employer's work is an offence under the residence law, settled at QR 12,000 or prosecuted, with deportation if the settlement isn't paid (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[3 (2015)](#o3), [49 (2015)](#o49)</sup>. Absence without good reason for more than 7 days in a row, or 15 days in total in a year, also lets the employer dismiss you without notice or gratuity <sup>[2 (2004)](#o2)</sup>. For the bans on coming back under the residence law, see What can get you jailed or deported <sup>[3 (2015)](#o3)</sup>.
 
 > **Need to know**
 > - Does the Embassy's 2021 guidance still apply: that if you wait more than two months after learning of the case, or really have run away, the Public Prosecution or a court can send you home with a QR 12,000 fine and, if it is unpaid, a ban of up to 5 years, while a case under one month old lets you come back without a fine <sup>[51 (2021)](#o51)</sup>?
 
-1. **If you have a labour dispute, complain to MOL quickly,** as in If you aren't paid <sup>[4](#o4), [162 (2016)](#o162)</sup>. In practice workers still have to dispute a charge in person while employers file online <sup>[N6](#n6), [N55 (2023)](#n55)</sup>.
+1. **If you have a labour dispute, complain to MOL quickly,** as in If you aren't paid <sup>[4](#o4), [164 (2016)](#o164)</sup>. In practice workers still have to dispute a charge in person while employers file online <sup>[N6](#n6), [N55 (2023)](#n55)</sup>.
 
    > **Need to know**
-   > - Can an employer still file an absconding report after a worker has complained to MOL, as the government said in 2016 it could not <sup>[162 (2016)](#o162)</sup>?
+   > - Can an employer still file an absconding report after a worker has complained to MOL, as the government said in 2016 it could not <sup>[164 (2016)](#o164)</sup>?
 
 2. **Contest it at once.** Go to the Niyabah (prosecution) court inside the CEID building, ask for the form for a grievance against the absconding report, fill it in typed, attach your ID, timesheet and agreement, and attend the hearing date you are given <sup>[51 (2021)](#o51)</sup>.
 3. **If you are already working elsewhere,** you can surrender with a valid passport at the "Musallami Anfusahum" surrender section of the Search and Follow-up Department and apply to go home; the officer tells you when you may return; without a valid passport, see Going home without valid papers <sup>[51 (2021)](#o51)</sup>.
-4. **Ask the Embassy's labour wing** for advice and help; its contacts are in If you aren't paid, step 8 <sup>[161 (2021)](#o161), [92](#o92)</sup>.
+4. **Ask the Embassy's labour wing** for advice and help; its contacts are in If you aren't paid, step 8 <sup>[162 (2021)](#o162), [92](#o92)</sup>.
 
 > **Need to know**
-> - How does a worker check whether a report has been filed (for example in Metrash) <sup>[48](#o48), [132](#o132)</sup>?
+> - How does a worker check whether a report has been filed (for example in Metrash) <sup>[48](#o48), [130](#o130)</sup>?
 
-#### In practice
+##### In practice
 
 Employers have misused absconding reports to block job changes, used MOL's "Leave Country Notice" option to cancel workers' QIDs (which the worker could lift only in person at a labour office), and avoided paying gratuity by claiming the worker had absconded; leaving to escape abuse still counts as absconding ([Background](#background), part 4) <sup>[N55 (2023)](#n55), [N54](#n54)</sup>.
 
-### Leaving at the end of the job
+#### Legal help
+
+If you or your family need legal help in Qatar, apply to the Welfare Board directly, or through the expatriate welfare branch of the DC's (district administrator's) office or the DEMO (District Employment and Manpower Office, BMET's office in the district); the Board writes to the Embassy asking it to act and tells you what it has done <sup>[163](#o163)</sup>.
+
+### Changing employer or leaving
+
+#### If you want to change employer
+
+##### No permission needed
+
+Since 2020 you can move to another employer without your current employer's consent: the NOC requirement was abolished <sup>[10 (2020)](#o10), [11](#o11)</sup>. Under MOI Decision 51/2020 you change employer by notifying MOL under its rules, with your RP valid or within 90 days of its expiry, unless it expired for reasons beyond your control <sup>[47 (2020)](#o47)</sup>. The old limits (the end of a fixed-term contract, or five years with the employer) were repealed <sup>[47 (2020)](#o47), [14 (2019)](#o14)</sup>. Before your RP is issued, the authorities may move your work visa to another employer with MOL's approval <sup>[14 (2019)](#o14)</sup>.
+
+##### Notice
+
+During probation, give the current employer one month's written notice; the new employer compensates it for the ticket and recruitment fees, up to two months' basic salary <sup>[2 (2004)](#o2)</sup>. After probation, notice is one month during your first two years of work and two months after that <sup>[2 (2004)](#o2)</sup>. If you give less, you pay the employer your basic wage for the part not given <sup>[2 (2004)](#o2)</sup>. The current employer can waive or shorten the notice on MOL's platform <sup>[N109](#n109)</sup>.
+
+1. **Check first:** your RP must be valid or expired less than 90 days ago <sup>[47 (2020)](#o47)</sup>.
+
+   > **Need to know**
+   > - What is MOL's official eligibility list, beyond press reports that MOL requires no ban on you or the company, an active registration for the new employer, no other change request pending, no non-compete restriction, a valid QID and a local mobile number in your own name <sup>[N49](#n49), [N109](#n109)</sup>?
+   > - Does an absconding report filed before your request still stop the change, as a labour ministry official said in 2020 <sup>[N51 (2020)](#n51)</sup>?
+
+2. **Apply:** log in to MOL's Individuals Portal through NAS (the new employer uses the Establishments Portal); either you or the new employer can file <sup>[N49](#n49), [N109](#n109)</sup>. Choose My Services, then Change of employer within the labour market, then Apply; choose the employer types, enter the new contract and submit; "Request Submitted Successfully" appears <sup>[N109](#n109)</sup>.
+3. **If the new employer files,** you get an SMS and have three days to approve it in My Requests, or it is rejected automatically <sup>[N109](#n109)</sup>.
+4. **What follows:** the current employer is told and may comment, MOL decides, the new contract is authenticated, the notice period runs and MOI then updates your RP <sup>[N49](#n49)</sup>.
+
+> **Need to know**
+> - What is MOL's official change-employer guide <sup>[47 (2020)](#o47)</sup>?
+> - Is there any fee for changing employer <sup>[47 (2020)](#o47)</sup>?
+
+##### If it is blocked
+
+Complain to MOL as in If you aren't paid <sup>[4](#o4)</sup>; unpaid workers have a right to move (step 6 there) <sup>[4](#o4)</sup>. In practice, workers are still often asked for a signed resignation letter or an NOC from their employer, and some employers retaliated by cancelling the visa or filing an absconding report during the notice period <sup>[N54](#n54), [N50 (2023)](#n50), [N6](#n6)</sup>. Some workers were forced to leave Qatar and re-enter on a new visa <sup>[N55 (2023)](#n55)</sup>.
+
+> **Need to know**
+> - Can you still change employer inside Qatar once your RP is cancelled, given that an advisory firm reported in June 2026 that a local transfer is then not allowed and the person must be hired from abroad <sup>[N110](#n110)</sup>?
+
+#### Leaving at the end of the job
 
 When the contract ends, the employer must pay everything you are owed and send you home at its cost <sup>[2 (2004)](#o2)</sup>.
 
 1. **Collect what you are owed.** The employer must pay your wage and all dues by the end of the next working day, or within 7 days if you left without notice, including the gratuity and cash for annual leave not taken (see [Your rights at work](#your-rights-at-work)) <sup>[2 (2004)](#o2)</sup>. On request it must give you, free, a service certificate (dates, job, wage) and return the certificates and documents you deposited <sup>[2 (2004)](#o2)</sup>.
-2. **A signed settlement ends your Fund claim** (see [If you aren't paid](#if-you-arent-paid), step 5) <sup>[158 (2022)](#o158)</sup>. Workers have been sent home early on "long leave" without end-of-service benefits, and one worker thumbprinted a paper he couldn't read saying he had received all dues while still owed most of his gratuity <sup>[N52 (2022)](#n52)</sup>. If dues are unpaid, complain as in If you aren't paid; the Fund may pay earlier to a worker leaving Qatar for good <sup>[4](#o4), [158 (2022)](#o158)</sup>.
+2. **A signed settlement ends your Fund claim** (see [If you aren't paid](#if-you-arent-paid-are-abused-or-your-passport-is-taken), step 5) <sup>[160 (2022)](#o160)</sup>. Workers have been sent home early on "long leave" without end-of-service benefits, and one worker thumbprinted a paper he couldn't read saying he had received all dues while still owed most of his gratuity <sup>[N52 (2022)](#n52)</sup>. If dues are unpaid, complain as in If you aren't paid; the Fund may pay earlier to a worker leaving Qatar for good <sup>[4](#o4), [160 (2022)](#o160)</sup>.
 3. **Your ticket home.** The employer must send you back, at its cost, to the place it recruited you from and finish the return procedures within two weeks of the contract ending; if you take another job before leaving, the new employer takes over this duty <sup>[2 (2004)](#o2)</sup>.
-4. **Cancel the RP.** The cancellation form is signed by both the sponsor and you; it costs QR 20 (personal sponsorship) or QR 50 (company), at MOI service centres, Metrash or MOI e-services <sup>[163](#o163)</sup>.
+4. **Cancel the RP.** The cancellation form is signed by both the sponsor and you; it costs QR 20 (personal sponsorship) or QR 50 (company), at MOI service centres, Metrash or MOI e-services <sup>[165](#o165)</sup>.
 
    > **Need to know**
-   > - Must MOL approve the end of the contract before MOI cancels the RP, as the advisory firm Deloitte reported in 2025, adding that cancellation then takes 5 to 7 working days <sup>[N109](#n109)</sup>?
+   > - Must MOL approve the end of the contract before MOI cancels the RP, as the advisory firm Deloitte reported in 2025, adding that cancellation then takes 5 to 7 working days <sup>[N111](#n111)</sup>?
 
 5. **Leave in time.** You must leave Qatar within 90 days after your RP expires or is cancelled <sup>[3 (2015)](#o3)</sup>; not leaving is an offence settled at QR 12,000 (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[49 (2015)](#o49)</sup>.
 
    > **Need to know**
-   > - Does MOI now allow only 14 days after cancellation, given that an officer of MOI's Airport Passports Department was reported in June 2026 as saying people must leave within 14 days of cancellation and pay QR 10 a day after that, and an advisory firm says staying past 14 days may lead to a ban on future entry <sup>[N110](#n110), [N111](#n111), [N108](#n108)</sup>?
+   > - Does MOI now allow only 14 days after cancellation, given that an officer of MOI's Airport Passports Department was reported in June 2026 as saying people must leave within 14 days of cancellation and pay QR 10 a day after that, and an advisory firm says staying past 14 days may lead to a ban on future entry <sup>[N112](#n112), [N113](#n113), [N110](#n110)</sup>?
 
-6. **Clear fines and travel bans.** An unpaid MOI settlement stops you leaving unless a guarantor undertakes to pay (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[3 (2015)](#o3)</sup>. Overstay fines, traffic fines and other dues can be paid in Metrash before you go to the airport, and anyone with a travel ban must follow up with the department that issued it to have it lifted <sup>[N110](#n110), [N111](#n111)</sup>.
-
-   > **Need to know**
-   > - What is the official way to check for a travel ban <sup>[N112 (2022)](#n112), [N91](#n91)</sup>?
-   > - What is the official way to lift a travel ban <sup>[N112 (2022)](#n112), [N91](#n91)</sup>?
-   > - Do travel bans show in Metrash <sup>[N112 (2022)](#n112), [N91](#n91)</sup>?
-
-7. **Declare cash and gold.** Anyone leaving or entering Qatar with cash, bearer instruments such as cheques or traveller's cheques, precious metals such as gold, or precious stones worth QR 50,000 or more must declare the value to the Customs officer and fill in the Customs form; the same applies to sending them with another person, by shipping or by mail <sup>[164 (2019)](#o164)</sup>. If you don't, Customs seizes them, asks where they came from, may detain you and hand you to MOI, and refers the case to the Public Prosecution <sup>[164 (2019)](#o164)</sup>. Deliberately not declaring, declaring falsely or refusing to explain the source carries up to 3 years in prison, or a fine of QR 100,000-500,000 or double the value carried, whichever is more <sup>[165 (2019)](#o165)</sup>.
+6. **Clear fines and travel bans.** An unpaid MOI settlement stops you leaving unless a guarantor undertakes to pay (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[3 (2015)](#o3)</sup>. Overstay fines, traffic fines and other dues can be paid in Metrash before you go to the airport, and anyone with a travel ban must follow up with the department that issued it to have it lifted <sup>[N112](#n112), [N113](#n113)</sup>.
 
    > **Need to know**
-   > - Where do travellers get the Customs declaration form <sup>[164 (2019)](#o164)</sup>?
+   > - What is the official way to check for a travel ban <sup>[N114 (2022)](#n114), [N91](#n91)</sup>?
+   > - What is the official way to lift a travel ban <sup>[N114 (2022)](#n114), [N91](#n91)</sup>?
+   > - Do travel bans show in Metrash <sup>[N114 (2022)](#n114), [N91](#n91)</sup>?
+
+7. **Declare cash and gold.** Anyone leaving or entering Qatar with cash, bearer instruments such as cheques or traveller's cheques, precious metals such as gold, or precious stones worth QR 50,000 or more must declare the value to the Customs officer and fill in the Customs form; the same applies to sending them with another person, by shipping or by mail <sup>[166 (2019)](#o166)</sup>. If you don't, Customs seizes them, asks where they came from, may detain you and hand you to MOI, and refers the case to the Public Prosecution <sup>[166 (2019)](#o166)</sup>. Deliberately not declaring, declaring falsely or refusing to explain the source carries up to 3 years in prison, or a fine of QR 100,000-500,000 or double the value carried, whichever is more <sup>[167 (2019)](#o167)</sup>.
+
+   > **Need to know**
+   > - Where do travellers get the Customs declaration form <sup>[166 (2019)](#o166)</sup>?
 
 8. **At the airport.** No exit permit is needed, and if you are stopped from leaving, complain as in How long you can stay <sup>[11](#o11), [3 (2015)](#o3)</sup>. A worker who leaves without following the notice rules may not get a new work permit for one year from departure (see [Bans on coming back](#bans-on-coming-back)) <sup>[2 (2004)](#o2)</sup>.
-9. **What you bring home.** Bangladesh's baggage, gold and currency limits are under Coming home, What you can bring home <sup>[166](#o166), [167 (2020)](#o167)</sup>.
+9. **What you bring home.** Bangladesh's baggage, gold and currency limits are under Coming home, What you can bring home <sup>[168](#o168), [169 (2020)](#o169)</sup>.
 
 > **Need to know**
-> - Has the gratuity savings and investment system that Prime Minister's Decision 34 of 2025 set a committee to propose been approved <sup>[168](#o168)</sup>?
-> - Does it cover private-sector migrant workers <sup>[168](#o168)</sup>?
+> - Has the gratuity savings and investment system that Prime Minister's Decision 34 of 2025 set a committee to propose been approved <sup>[170](#o170)</sup>?
+> - Does it cover private-sector migrant workers <sup>[170](#o170)</sup>?
 
-### Going home on leave
+##### Employer tricks at the end of the job
 
-You can leave Qatar on leave without your employer's permission unless it has listed you in advance as needing prior approval (see [How long you can stay](#how-long-you-can-stay)) <sup>[3 (2015)](#o3), [11](#o11)</sup>; your leave entitlement and the pay due before you go are under Your rights at work <sup>[2 (2004)](#o2)</sup>. MOI has a free Leave Notification service for expatriates leaving on leave, on MOI e-services, Metrash or at MOI service centres <sup>[169](#o169)</sup>.
-
-> **Need to know**
-> - Must a company worker use MOI's Leave Notification service <sup>[169](#o169)</sup>?
-
-#### The ticket
-
-The Labour Law makes the employer pay the ticket at the end of service <sup>[2 (2004)](#o2)</sup>.
-
-> **Need to know**
-> - Who pays a company worker's ticket for annual leave <sup>[2 (2004)](#o2)</sup>?
-
-#### Coming back
-
-Absence without good reason for more than 7 days in a row after your leave lets the employer dismiss you without notice or gratuity <sup>[2 (2004)](#o2)</sup>. If you stay outside Qatar more than 6 months in a row, you need permission to return (a return visa), got before leaving or within a year of leaving by paying the fee, and a worker may not stay outside more than one year; on return the RP must be valid or expired no more than 60 days <sup>[3 (2015)](#o3), [14 (2019)](#o14)</sup>.
-
-> **Need to know**
-> - Where do you apply for the return visa, given that a guide says it can be started in Metrash <sup>[N91](#n91)</sup>?
-> - What is the return visa's fee?
-
-#### A loan to go back
-
-PKB's migration loan can also be taken for a re-entry visa, with extra papers listed in [Step 6](#step-6-orientation-bmet-clearance-insurance-and-the-flight), item 5 <sup>[43](#o43)</sup>.
-
-#### Passport or RP lost abroad
-
-A resident with a valid RP who lost or damaged the passport or RP outside Qatar can come back on a return visa <sup>[14 (2019)](#o14)</sup>. The sponsor (or someone for him) fills in the form; you need a new valid passport if the passport was lost, and an attested certificate of the loss or damage (for the passport only) <sup>[14 (2019)](#o14)</sup>.
-
-> **Need to know**
-> - Where does the sponsor apply for this return visa <sup>[14 (2019)](#o14)</sup>?
-> - What is the fee <sup>[14 (2019)](#o14)</sup>?
-> - How long does it take <sup>[14 (2019)](#o14)</sup>?
-
-### Bringing your family
-
-To have your family live with you, a private-sector worker needs a technical or specialised occupation and a salary of at least QR 10,000, or QR 6,000 with family housing, shown in the contract; see Family residence <sup>[170 (2023)](#o170)</sup>. To host a family visit, you need a profession outside the labour category, a salary of at least QR 5,000 and verified family housing; see Family visit visa <sup>[170 (2023)](#o170), [78](#o78)</sup>.
-
-### Scams
-
-Complain about an agency to BMET as in [Step 1](#step-1-find-a-real-job) (If the agency cheats you), and about an employer in Qatar to MOL as in If you aren't paid <sup>[17](#o17), [4](#o4)</sup>.
-
-#### "Free visa" or a bought visa
-
-Someone sells you a visa for Tk 4 to 7 lakh so you can work for whoever you find, saying work is easy to find once you are in Qatar; workers find no job and face arrest or deportation <sup>[51 (2021)](#o51), [N8](#n8)</sup>. Protection: [Step 1](#step-1-find-a-real-job), Before paying ("If you are offered a 'free visa'"), including having the offer checked at BMET <sup>[44](#o44)</sup>; the penalties are under What can get you jailed or deported <sup>[3 (2015)](#o3)</sup>.
-
-#### Unregistered broker or sub-agent
-
-A broker, often a friend or relative, collects workers and money for an agency, though since 2023 only a sub-agent registered and appointed by a licensed agency may do so <sup>[N16 (2024)](#n16), [33 (2023)](#o33)</sup>. Protection: [Step 1](#step-1-find-a-real-job), item 3 (If a broker brings you the job) <sup>[33 (2023)](#o33)</sup>.
-
-#### Agency with a cancelled licence
-
-The agency's licence on OEP reads "Cancelled" although its validity date is years ahead (RL0345: valid to 31 December 2028) <sup>[66](#o66)</sup>. Protection: [Step 1](#step-1-find-a-real-job), item 3 <sup>[66](#o66)</sup>.
-
-#### Fake job adverts and fake papers
-
-A job advert published without government or BMET approval, which is an offence in Bangladesh <sup>[28](#o28)</sup>; in 2019 a Dhaka gang posted fake Qatar job adverts, took Tk 3 to 4 lakh each from about 1,000 people in stages and showed fake offer letters, contracts and even a fake Qatar visa <sup>[N42 (2019)](#n42)</sup>. Protection: check the demand letter, permission letter and employer as in [Step 1](#step-1-find-a-real-job), item 4, and the visa as in [Step 5](#step-5-check-your-visa-is-real) <sup>[31 (2021)](#o31), [85 (2022)](#o85), [17](#o17)</sup>.
-
-**Fake QVC agents, paid appointments and "medical fixers."** Someone claiming to be from QVC offers a job, charges for an appointment, asks for your VRN or passport number by phone, SMS or WhatsApp, promises to fix a medical result, or sells the paid lounge as a way to get the visa <sup>[35](#o35), [N30](#n30)</sup>. Protection: [Step 4](#step-4-qatar-visa-center-contract-fingerprints-and-medical), item 1 (book only on qatarvisacenter.com) and Fake QVC agents <sup>[35](#o35), [N4 (2018)](#n4), [N30](#n30)</sup>.
-
-**Visit or Hayya visa "with a job."** A broker sells a Hayya or tourist visa as a work visa <sup>[N62 (2023)](#n62)</sup>. Protection: [Step 5](#step-5-check-your-visa-is-real), item 3; see also Tourist visa: Hayya A1, Scams <sup>[52](#o52)</sup>.
-
-#### High fees
-
-A licensed recruiter in Qatar asks you for fees, or someone asks for cash without a receipt or outside a bank <sup>[2 (2004)](#o2), [17](#o17)</sup>. Protection: [Step 1](#step-1-find-a-real-job), Before paying (["How to pay"](#how-to-pay)) <sup>[44](#o44)</sup>.
-
-#### Contract substitution
-
-The job or wage in Qatar differs from what you were promised at home <sup>[N39 (2022)](#n39)</sup>. Protection: the contract you sign at QVC ([Step 4](#step-4-qatar-visa-center-contract-fingerprints-and-medical), item 3), print your authenticated contract after arrival ([Step 7](#step-7-after-arrival), item 4), and complain to MOL if they differ <sup>[128](#o128), [4](#o4)</sup>.
-
-#### Fake government sites, links and calls
-
-A link to a "government" site whose address doesn't end in gov.qa ([Step 5](#step-5-check-your-visa-is-real)), or an email or message asking for your password or verification code; report suspicious contacts to MOL on 16505 <sup>[N113](#n113), [N93](#n93)</sup>. Protection: use the official addresses given in the steps, such as the MOL contract portal on Hukoomi (hukoomi.gov.qa) in [Step 7](#step-7-after-arrival), item 4 <sup>[128](#o128)</sup>.
-
-#### Fake domestic-worker recruitment offices
-
-Unlicensed offices post convincing social-media adverts for domestic-worker recruitment <sup>[N114](#n114)</sup>. Protection: see [Work visa: domestic worker](#work-visa-domestic-worker), Scams <sup>[N114](#n114), [N115](#n115)</sup>.
-
-#### Hundi
-
-Someone offers an attractive exchange rate outside the approved exchange companies and banks <sup>[N101 (2022)](#n101)</sup>. Protection: Sending money home; for the law in Qatar see What can get you jailed or deported <sup>[44](#o44), [N48 (2024)](#n48)</sup>.
-
-#### Moving you on to Europe or America
-
-People or firms in Qatar take large sums promising to move migrants to Europe or America; on 14 January 2026 the Bangladesh Embassy in Doha warned against them after victims complained, and urged great caution before paying anyone <sup>[N116](#n116)</sup>. Embassy contacts: If you aren't paid, step 8 <sup>[160](#o160)</sup>.
-
-#### Employer tricks at the end of the job
-
-"Long leave", a paper saying all dues were paid, or a false absconding claim to avoid paying gratuity <sup>[N52 (2022)](#n52), [N55 (2023)](#n55)</sup>. Protection: Leaving at the end of the job, step 2, and If your employer reports you absent <sup>[158 (2022)](#o158)</sup>.
-
-#### Tried by workers: false documents or a borrowed identity
-
-QVC records your fingerprints, iris and face before the visa <sup>[36](#o36)</sup>, a residence permit obtained with false information or documents is revoked <sup>[3 (2015)](#o3)</sup>, and getting a visa or work permit by illegal means is a crime in Bangladesh ([Background](#background), part 2) <sup>[28](#o28)</sup>.
+"Long leave", a paper saying all dues were paid, or a false absconding claim to avoid paying gratuity <sup>[N52 (2022)](#n52), [N55 (2023)](#n55)</sup>. Protection: Leaving at the end of the job, step 2, and If your employer reports you absent <sup>[160 (2022)](#o160)</sup>.
 
 ## Work visa: domestic worker
 
@@ -1411,7 +1487,7 @@ Domestic workers are housemaids, house drivers, nannies, cooks and gardeners wor
 > **Need to know**
 > - Has BMET approved newer Qatar domestic-worker orders since it stopped posting letters in December 2025? <sup>[18](#o18), [76](#o76)</sup>
 
-### Who pays
+### Who pays what
 
 In Qatar a licensed recruitment office may not charge a recruited worker any fees, recruitment expenses or other costs <sup>[2 (2004)](#o2)</sup>, and the employer may not deduct any cost of bringing the worker to Qatar from the wage <sup>[15 (2017)](#o15)</sup>. The household pays the office: at most QR 14,000 for a worker from Bangladesh, the cap set in January 2022 by Qatar's Ministry of Commerce and Industry with MOL, none of it chargeable to the worker <sup>[41 (2022)](#o41), [2 (2004)](#o2)</sup>. In Bangladesh, an agency approved to send women domestic workers may take no migration cost from them ([Step 3](#step-3-choose-an-approved-agency)) <sup>[171](#o171), [91](#o91)</sup>. In the BTS Overseas letter the employer bears the migration cost and every cost up to arrival in Qatar, including the levy and airfare <sup>[32](#o32)</sup>.
 
@@ -1421,15 +1497,15 @@ In Qatar a licensed recruitment office may not charge a recruited worker any fee
 
 ### How a household in Qatar recruits
 
-Through a licensed recruitment office, or directly from abroad with the labour department's approval <sup>[15 (2017)](#o15)</sup>. In September 2026 MOL launched the first phase of Moawen, its online platform for recruiting domestic workers, at moawen.mol.gov.qa <sup>[N117](#n117)</sup>, and published a list of 221 registered recruitment companies on its website, telling people to check an office is on it before paying <sup>[N33](#n33), [N114](#n114)</sup>. The employer applies for the visa with the form, a copy of the worker's valid passport, the employer's ID card, the certified work contract and the worker's police clearance (as in company work visa, [Step 2](#step-2-register-on-oep-and-women-take-the-housekeeping-course)) <sup>[14 (2019)](#o14), [8](#o8)</sup>. On MOI's Group Visa service, an individual recruiting house workers also needs the approval of MOI's Committee Reviewing Recruitment Applications, with the application form, the worker's passport copy and the sponsor's ID copy <sup>[110](#o110)</sup>. The fee is QR 300 for a Qatari sponsor and QR 1,800 for an expatriate sponsor (QR 1,500 for the approval plus QR 300 for the visa) <sup>[110](#o110)</sup>, and none of it may be taken from the worker's wage <sup>[15 (2017)](#o15)</sup>.
+Through a licensed recruitment office, or directly from abroad with the labour department's approval <sup>[15 (2017)](#o15)</sup>. In September 2026 MOL launched the first phase of Moawen, its online platform for recruiting domestic workers, at moawen.mol.gov.qa <sup>[N115](#n115)</sup>, and published a list of 221 registered recruitment companies on its website, telling people to check an office is on it before paying <sup>[N33](#n33), [N116](#n116)</sup>. The employer applies for the visa with the form, a copy of the worker's valid passport, the employer's ID card, the certified work contract and the worker's police clearance (as in company work visa, [Step 2](#step-2-register-on-oep-and-women-take-the-housekeeping-course)) <sup>[14 (2019)](#o14), [8](#o8)</sup>. On MOI's Group Visa service, an individual recruiting house workers also needs the approval of MOI's Committee Reviewing Recruitment Applications, with the application form, the worker's passport copy and the sponsor's ID copy <sup>[108](#o108)</sup>. The fee is QR 300 for a Qatari sponsor and QR 1,800 for an expatriate sponsor (QR 1,500 for the approval plus QR 300 for the visa) <sup>[108](#o108)</sup>, and none of it may be taken from the worker's wage <sup>[15 (2017)](#o15)</sup>.
 
 > **Need to know**
-> - What are Moawen's steps and fees? <sup>[N117](#n117)</sup>
-> - Can a worker see her case on Moawen? <sup>[N117](#n117)</sup>
+> - What are Moawen's steps and fees? <sup>[N115](#n115)</sup>
+> - Can a worker see her case on Moawen? <sup>[N115](#n115)</sup>
 > - Where is MOL's current list of licensed offices published? <sup>[N33](#n33)</sup>
-> - Is the Group Visa fee per worker? <sup>[110](#o110)</sup>
-> - How long does Group Visa approval take? <sup>[110](#o110)</sup>
-> - Can a Group Visa refusal be appealed? <sup>[110](#o110)</sup>
+> - Is the Group Visa fee per worker? <sup>[108](#o108)</sup>
+> - How long does Group Visa approval take? <sup>[108](#o108)</sup>
+> - Can a Group Visa refusal be appealed? <sup>[108](#o108)</sup>
 
 ### Step 1: Check you qualify
 
@@ -1487,7 +1563,7 @@ Through a licensed recruitment office, or directly from abroad with the labour d
 
    It is in Arabic; a translation may be attached, but the Arabic wins if they differ <sup>[15 (2017)](#o15)</sup>. In the BTS Overseas letter BMET required the agency to give each worker an attested Bangla translation <sup>[32](#o32)</sup>.
 3. **Check the wage:** at least QR 1,000 a month basic, plus QR 500 for housing and QR 300 for food unless the employer provides them <sup>[172 (2020)](#o172), [11](#o11)</sup>.
-4. **Check the household's recruitment office is on MOL's list** ([How a household in Qatar recruits](#how-a-household-in-qatar-recruits)) <sup>[15 (2017)](#o15), [N33](#n33), [N114](#n114)</sup>.
+4. **Check the household's recruitment office is on MOL's list** ([How a household in Qatar recruits](#how-a-household-in-qatar-recruits)) <sup>[15 (2017)](#o15), [N33](#n33), [N116](#n116)</sup>.
 
 ### Step 5: The employer gets the visa attested at the Bangladesh Embassy in Doha
 
@@ -1497,7 +1573,7 @@ Through a licensed recruitment office, or directly from abroad with the labour d
 
 ### Step 6: Check the visa and do the medical
 
-1. **Check the visa is real and its type** on MOI's Visa Inquiry, by visa number or passport number, as in [Step 5](#step-5-the-employer-gets-the-visa-attested-at-the-bangladesh-embassy-in-doha) of the company work visa <sup>[83](#o83), [114](#o114)</sup>.
+1. **Check the visa is real and its type** on MOI's Visa Inquiry, by visa number or passport number, as in [Step 5](#step-5-the-employer-gets-the-visa-attested-at-the-bangladesh-embassy-in-doha) of the company work visa <sup>[83](#o83), [112](#o112)</sup>.
 2. **The medical test** follows the rules for other migrant workers <sup>[15 (2017)](#o15)</sup>.
 
    > **Need to know**
@@ -1506,12 +1582,12 @@ Through a licensed recruitment office, or directly from abroad with the labour d
 ### Step 7: BMET clearance, the smart card and a loan
 
 1. **BMET clearance** (the smart card, your emigration clearance) works as in [Step 6](#step-6-check-the-visa-and-do-the-medical) of the company work visa; for a woman domestic worker the agency must also submit proof that she is 25 to 45 and her legal guardian's no-objection letter <sup>[17](#o17)</sup>.
-2. **A loan if you need one.** PKB has a loan for women migrants of up to Tk 3 lakh at 9% simple interest over up to 3 years; apply as in [Step 6](#step-6-check-the-visa-and-do-the-medical) of the company work visa <sup>[121](#o121)</sup>.
+2. **A loan if you need one.** PKB has a loan for women migrants of up to Tk 3 lakh at 9% simple interest over up to 3 years; apply as in [Step 6](#step-6-check-the-visa-and-do-the-medical) of the company work visa <sup>[119](#o119)</sup>.
 
-### Step 8: After arrival
+### Step 8: After you arrive
 
-1. **Residence permit and QID.** Within 30 days of entry you do the medical check and fingerprints, and your sponsor gets your RP, as in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa <sup>[15 (2017)](#o15), [14 (2019)](#o14), [37](#o37)</sup>. For a first RP on personal sponsorship MOI asks for the application form signed by the sponsor, your original passport, a photo and a blood group certificate; the fees are QR 100 a year for the work permit and QR 300 a year for the RP, plus QR 100 for the card <sup>[124](#o124)</sup>. An individual sponsor collects the card at MOI's Expatriates' Affairs Department or has it sent by Qatar Post <sup>[38 (2021)](#o38)</sup>.
-2. **Your contract.** Keep your copy <sup>[15 (2017)](#o15)</sup>; you can also print the contract registered in Qatar, as in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa <sup>[128](#o128)</sup>.
+1. **Residence permit and QID.** Within 30 days of entry you do the medical check and fingerprints, and your sponsor gets your RP, as in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa <sup>[15 (2017)](#o15), [14 (2019)](#o14), [37](#o37)</sup>. For a first RP on personal sponsorship MOI asks for the application form signed by the sponsor, your original passport, a photo and a blood group certificate; the fees are QR 100 a year for the work permit and QR 300 a year for the RP, plus QR 100 for the card <sup>[122](#o122)</sup>. An individual sponsor collects the card at MOI's Expatriates' Affairs Department or has it sent by Qatar Post <sup>[38 (2021)](#o38)</sup>.
+2. **Your contract.** Keep your copy <sup>[15 (2017)](#o15)</sup>; you can also print the contract registered in Qatar, as in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa <sup>[126](#o126)</sup>.
 3. **Pay** is due by the 3rd of the next month, into your bank account or in cash against a receipt you sign <sup>[15 (2017)](#o15)</sup>. At QIB, for example, the Domestic Workers Account is opened only in the QIB Mobile App <sup>[174](#o174)</sup>:
    1. Enter your QID, mobile number and the OTP <sup>[174](#o174)</sup>.
    2. Give your employer's QID (the employer must bank with QIB) <sup>[174](#o174)</sup>.
@@ -1519,7 +1595,37 @@ Through a licensed recruitment office, or directly from abroad with the labour d
 
    There is no minimum balance and the debit card is free <sup>[174](#o174)</sup>. When the job ends the employer must cancel the card and close the account, and any balance comes back to you as a banker's cheque <sup>[174](#o174)</sup>.
 4. **Health card.** Get it as in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa; for domestic staff PHCC also asks for your sponsor's valid QID, and the fee is QR 50 <sup>[50](#o50)</sup>.
-5. **SIM card.** A prepaid line needs your passport or a valid QID <sup>[129](#o129)</sup>; more in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa.
+5. **SIM card.** A prepaid line needs your passport or a valid QID <sup>[127](#o127)</sup>; more in [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan) of the company work visa.
+
+### Scams
+
+#### Done to workers
+
+Check every office, website and visa yourself before you pay anything <sup>[N116](#n116), [83](#o83)</sup>.
+
+##### Fake Moawen and MOL sites and accounts
+
+On 4 November 2026 MOL warned against websites pretending to be Moawen; the real one is moawen.mol.gov.qa (hotline 16505, info@mol.gov.qa) <sup>[N117](#n117)</sup>. Qatari government websites end in gov.qa; use the official addresses given in the steps, such as the contract portal on hukoomi.gov.qa (company work visa, [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan), item 4) <sup>[N93](#n93), [126](#o126)</sup>. Fake accounts claiming ties to MOL may try to collect personal information; MOL says never share your name, address, ID numbers, passwords or financial details <sup>[N118](#n118)</sup>.
+
+##### Unlicensed offices' social-media adverts
+
+Unlicensed offices post convincing adverts and pretend to be agencies; check the office is on MOL's list before paying <sup>[N116](#n116)</sup>.
+
+##### Fake domestic-worker recruitment offices
+
+Unlicensed offices post convincing social-media adverts for domestic-worker recruitment <sup>[N116](#n116)</sup>. Protection: see [Work visa: domestic worker](#work-visa-domestic-worker), Scams <sup>[N116](#n116), [N117](#n117)</sup>.
+
+##### Agencies charging women
+
+See [Step 3](#step-3-choose-an-approved-agency), item 1 <sup>[171](#o171), [17](#o17)</sup>.
+
+##### A visit visa sold as a job
+
+A Hayya visitor may not work in Qatar by law; check the visa type ([Step 6](#step-6-check-the-visa-and-do-the-medical)) <sup>[52](#o52)</sup>.
+
+#### Tried by workers
+
+An RP obtained with false information or documents is revoked <sup>[3 (2015)](#o3)</sup>, and getting a visa or work permit by illegal means is a crime in Bangladesh ([Background](#background), part 2) <sup>[28](#o28)</sup>. BMET clearance for a woman domestic worker needs proof of age 25 to 45 <sup>[17](#o17)</sup>.
 
 ### Your rights at work
 
@@ -1543,84 +1649,60 @@ You may not work for anyone else <sup>[15 (2017)](#o15)</sup>, but working for t
 
 A work injury is compensated as under the Labour Law <sup>[15 (2017)](#o15)</sup>. If a worker dies, the employer pays to send the body home if the family asks, and deposits all the worker's dues with the labour department within 15 days <sup>[15 (2017)](#o15)</sup>.
 
-#### Leaving Qatar
-
-You may leave without the employer's permission, but must tell the employer at least 72 hours before you go <sup>[11](#o11)</sup>.
-
 #### Penalties and practice
 
 An employer who breaks the contract, care, hours, rest or leave rules can be fined up to QR 5,000, and up to QR 10,000 for breaking the age or wage rules <sup>[15 (2017)](#o15)</sup>. Most of the 105 women domestic workers Amnesty International interviewed in 2020 regularly worked over 14 hours a day and had had their passports taken <sup>[N53 (2020)](#n53)</sup>, and domestic workers, mostly women, still faced verbal, physical and sexual abuse in 2025 <sup>[N59](#n59)</sup>.
 
-### Ending the job and changing employer
+### Bringing your family
 
-The employer may dismiss you without notice or that year's end-of-service pay if you break the law or the contract <sup>[15 (2017)](#o15)</sup>. You may leave early and keep full end-of-service pay if the employer breaks the law or the contract, lied about the terms, assaults you (or a family member does), or ignores a serious known danger <sup>[15 (2017)](#o15)</sup>. You no longer need your employer's NOC to change employer <sup>[172 (2020)](#o172), [11](#o11)</sup>: you notify MOL, with an RP that is valid or expired less than 90 days, as in "If you want to change employer" under the company work visa <sup>[47 (2020)](#o47)</sup>.
+Family residence needs a technical or specialised job and a salary of QR 10,000, or QR 6,000 with family housing (see [Family residence](#family-residence-spouse-children-and-parents)) <sup>[148 (2023)](#o148)</sup>.
 
 > **Need to know**
-> - Does MOL's change-of-employer e-service accept domestic workers, logging in under "Labors and Individuals"? <sup>[N107](#n107), [47 (2020)](#o47)</sup>
-> - What notice must a domestic worker give when changing employer? <sup>[47 (2020)](#o47)</sup>
+> - Who can sponsor the RP of a baby born in Qatar to a domestic worker without family residence? <sup>[3 (2015)](#o3)</sup>
 
-### If you aren't paid or are abused
+### If something goes wrong
+
+#### If you aren't paid or are abused
 
 Claims under the Domestic Workers Law or the contract expire 1 year after the contract ends or you leave <sup>[15 (2017)](#o15)</sup>.
 
-1. **Complain as in "If you aren't paid" under the company work visa.** Domestic workers' disputes go to the same labour dispute settlement committees as other workers', with the same time limits and appeal <sup>[15 (2017)](#o15)</sup>. On MOL's Unified Platform for Complaints and Whistleblowers a domestic worker logs in with a QID or entry-visa number and mobile number to complain against the employer <sup>[N104 (2021)](#n104)</sup>. Abuse by the sponsor goes to MOI's Search and Follow-up Department, free, with a passport or ID copy and a written complaint <sup>[136](#o136)</sup>. In danger, call 999 <sup>[51 (2021)](#o51)</sup>.
-2. **If a committee decision isn't paid,** WSIF pays the dues and recovers them from the employer <sup>[53 (2018)](#o53)</sup>; for a domestic worker it pays at most three months' gross salary, up to QR 8,000, unless its chairman decides otherwise <sup>[158 (2022)](#o158)</sup>.
+1. **Complain as in "If you aren't paid" under the company work visa.** Domestic workers' disputes go to the same labour dispute settlement committees as other workers', with the same time limits and appeal <sup>[15 (2017)](#o15)</sup>. On MOL's Unified Platform for Complaints and Whistleblowers a domestic worker logs in with a QID or entry-visa number and mobile number to complain against the employer <sup>[N106 (2021)](#n106)</sup>. Abuse by the sponsor goes to MOI's Search and Follow-up Department, free, with a passport or ID copy and a written complaint <sup>[143](#o143)</sup>. In danger, call 999 <sup>[51 (2021)](#o51)</sup>.
+2. **If a committee decision isn't paid,** WSIF pays the dues and recovers them from the employer <sup>[53 (2018)](#o53)</sup>; for a domestic worker it pays at most three months' gross salary, up to QR 8,000, unless its chairman decides otherwise <sup>[160 (2022)](#o160)</sup>.
 3. **A recruitment office breaking MOL's rules** on the probation period or the maximum recruitment price: MOL gave the hotline 40288101 for reporting it in 2023 <sup>[175 (2023)](#o175)</sup>.
-4. **Trafficking and shelter.** Call 16044 <sup>[155](#o155)</sup>. Victims can be sheltered at MOL's Humanitarian Care House, with housing, meals, basic health care, legal support and help to go home <sup>[155](#o155)</sup>; it has six villas for up to 200 people and is run by QRCS, stays are up to two weeks, longer if a court case is pending, staff must tell the police when they admit someone, and it has also housed workers with labour-abuse cases <sup>[N6](#n6)</sup>. The government-funded Aman Center houses women who fled abusive employers, even if the employer filed charges against them <sup>[N6](#n6)</sup>.
-5. **The Bangladesh Embassy in Doha** advises on going to the labour court or the online platform; its numbers are under "If you aren't paid" <sup>[161 (2021)](#o161)</sup>.
+4. **Trafficking and shelter.** Call 16044 <sup>[157](#o157)</sup>. Victims can be sheltered at MOL's Humanitarian Care House, with housing, meals, basic health care, legal support and help to go home <sup>[157](#o157)</sup>; it has six villas for up to 200 people and is run by QRCS, stays are up to two weeks, longer if a court case is pending, staff must tell the police when they admit someone, and it has also housed workers with labour-abuse cases <sup>[N6](#n6)</sup>. The government-funded Aman Center houses women who fled abusive employers, even if the employer filed charges against them <sup>[N6](#n6)</sup>.
+5. **The Bangladesh Embassy in Doha** advises on going to the labour court or the online platform; its numbers are under "If you aren't paid" <sup>[162 (2021)](#o162)</sup>.
 6. **From Bangladesh:** the worker or a close relative can report harassment of a woman worker abroad to the Ministry of Expatriates' Welfare, aswelfare@probashi.gov.bd, with her passport, smart card and RP copies and the agency's details; it is free and dealt with in 7 working days <sup>[91](#o91)</sup>.
 
-#### No Bangladesh safe house in Qatar
+##### No Bangladesh safe house in Qatar
 
 WEWB runs safe houses only in Saudi Arabia, Oman, Jordan, Libya and Lebanon <sup>[176](#o176)</sup>. For those countries a family applies free to WEWB, directly or through the expatriate welfare section of the DC's office or the DEMO, and WEWB writes to the embassy; call centre 16135, +8809610102030 from abroad <sup>[176](#o176)</sup>.
 
 > **Need to know**
 > - Does WEWB act on a family's request for a worker in Qatar? <sup>[176](#o176)</sup>
 
-### If you're reported absent ("absconding")
+#### If your employer reports you absent ("absconding")
 
 A household sponsor can file a free "absconding" report against a domestic worker at MOI's Search and Follow-up Department, an MOI service centre or MOI's app, and you contest it as in "If your employer reports you absent" under the company work visa <sup>[48](#o48)</sup>. Women who flee abuse can face absconding or theft charges in retaliation <sup>[N53 (2020)](#n53)</sup>.
 
-### Leaving at the end of the job and going home on leave
+### Changing employer or leaving
 
-Leave, tickets, end-of-service pay and the 72 hours' notice are under "Your rights at work" above <sup>[15 (2017)](#o15), [11](#o11)</sup>. Before flying, pay any fines and declare cash or gold worth QR 50,000 or more, as in "Leaving at the end of the job" under the company work visa, which also says how long you may stay after your RP ends <sup>[N110](#n110), [164 (2019)](#o164)</sup>.
+#### Ending the job and changing employer
 
-### Bringing family
-
-Family residence needs a technical or specialised job and a salary of QR 10,000, or QR 6,000 with family housing (see Family residence) <sup>[170 (2023)](#o170)</sup>.
+The employer may dismiss you without notice or that year's end-of-service pay if you break the law or the contract <sup>[15 (2017)](#o15)</sup>. You may leave early and keep full end-of-service pay if the employer breaks the law or the contract, lied about the terms, assaults you (or a family member does), or ignores a serious known danger <sup>[15 (2017)](#o15)</sup>. You no longer need your employer's NOC to change employer <sup>[172 (2020)](#o172), [11](#o11)</sup>: you notify MOL, with an RP that is valid or expired less than 90 days, as in "If you want to change employer" under the company work visa <sup>[47 (2020)](#o47)</sup>.
 
 > **Need to know**
-> - Who can sponsor the RP of a baby born in Qatar to a domestic worker without family residence? <sup>[3 (2015)](#o3)</sup>
+> - Does MOL's change-of-employer e-service accept domestic workers, logging in under "Labors and Individuals"? <sup>[N109](#n109), [47 (2020)](#o47)</sup>
+> - What notice must a domestic worker give when changing employer? <sup>[47 (2020)](#o47)</sup>
 
-### Scams
+#### Leaving at the end of the job and going home on leave
 
-#### Done to workers
+You may leave without the employer's permission, but must tell the employer at least 72 hours before you go <sup>[11](#o11)</sup>.
 
-Check every office, website and visa yourself before you pay anything <sup>[N114](#n114), [83](#o83)</sup>.
-
-#### Fake Moawen and MOL sites and accounts
-
-On 4 November 2026 MOL warned against websites pretending to be Moawen; the real one is moawen.mol.gov.qa (hotline 16505, info@mol.gov.qa) <sup>[N115](#n115)</sup>. Qatari government websites end in gov.qa; use the official addresses given in the steps, such as the contract portal on hukoomi.gov.qa (company work visa, [Step 7](#step-7-bmet-clearance-the-smart-card-and-a-loan), item 4) <sup>[N93](#n93), [128](#o128)</sup>. Fake accounts claiming ties to MOL may try to collect personal information; MOL says never share your name, address, ID numbers, passwords or financial details <sup>[N118](#n118)</sup>.
-
-#### Unlicensed offices' social-media adverts
-
-Unlicensed offices post convincing adverts and pretend to be agencies; check the office is on MOL's list before paying <sup>[N114](#n114)</sup>.
-
-#### Agencies charging women
-
-See [Step 3](#step-3-choose-an-approved-agency), item 1 <sup>[171](#o171), [17](#o17)</sup>.
-
-#### A visit visa sold as a job
-
-A Hayya visitor may not work in Qatar by law; check the visa type ([Step 6](#step-6-check-the-visa-and-do-the-medical)) <sup>[52](#o52)</sup>.
-
-#### Tried by workers
-
-An RP obtained with false information or documents is revoked <sup>[3 (2015)](#o3)</sup>, and getting a visa or work permit by illegal means is a crime in Bangladesh ([Background](#background), part 2) <sup>[28](#o28)</sup>. BMET clearance for a woman domestic worker needs proof of age 25 to 45 <sup>[17](#o17)</sup>.
+Leave, tickets, end-of-service pay and the 72 hours' notice are under "Your rights at work" above <sup>[15 (2017)](#o15), [11](#o11)</sup>. Before flying, pay any fines and declare cash or gold worth QR 50,000 or more, as in "Leaving at the end of the job" under the company work visa, which also says how long you may stay after your RP ends <sup>[N112](#n112), [166 (2019)](#o166)</sup>.
 
 ## Tourist visa: Hayya A1
 
-A Bangladeshi visiting Qatar for tourism or to see friends and family needs the Hayya Tourist Visa (A1) before travelling: Bangladesh is on none of MOI's visa-free or on-arrival lists (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[1](#o1), [52](#o52), [55](#o55), [56](#o56), [57](#o57), [60](#o60)</sup>. Apply on Hayya, at hayya.qa or in the "Hayya to Qatar" app <sup>[1](#o1), [177](#o177), [178](#o178)</sup>. A Bangladeshi living in Bahrain, Kuwait, Oman, Saudi Arabia or the UAE applies for the A2 (GCC Resident Visa) instead, and one who lives in, or holds a valid visa for, the Schengen area, UK, US, Australia, New Zealand or Canada for the A3 (Visa with ETA, Electronic Travel Authorization) (see Hayya A2, A3 and A4) <sup>[1](#o1), [52](#o52), [178](#o178)</sup>. The A1 never allows work (see [Don't work on a visit visa](#dont-work-on-a-visit-visa)) <sup>[52](#o52)</sup>.
+A Bangladeshi visiting Qatar for tourism or to see friends and family needs the Hayya Tourist Visa (A1) before travelling: Bangladesh is on none of MOI's visa-free or on-arrival lists (see [Visas not open to Bangladeshis](#visas-not-open-to-bangladeshis)) <sup>[1](#o1), [52](#o52), [55](#o55), [56](#o56), [57](#o57), [60](#o60)</sup>. Apply on Hayya, at hayya.qa or in the "Hayya to Qatar" app <sup>[1](#o1), [177](#o177), [178](#o178)</sup>. A Bangladeshi living in Bahrain, Kuwait, Oman, Saudi Arabia or the UAE applies for the A2 (GCC Resident Visa) instead, and one who lives in, or holds a valid visa for, the Schengen area, UK, US, Australia, New Zealand or Canada for the A3 (Visa with ETA, Electronic Travel Authorization) (see Hayya A2, A3 and A4) <sup>[1](#o1), [52](#o52), [178](#o178)</sup>. The A1 never allows work (see Don't work on a visit visa) <sup>[52](#o52)</sup>.
 
 ### Cost and time
 
@@ -1628,14 +1710,6 @@ The fee is QR 100, paid inside Hayya only after final approval and within 14 day
 
 > **Need to know**
 > - When is the A1 fee waived? <sup>[179](#o179)</sup>
-
-### MOI visit visa
-
-A regular visit visa issued by MOI is still an option besides the A1, depending on your profile and purpose <sup>[52](#o52)</sup>.
-
-> **Need to know**
-> - Does the Qatar Embassy in Dhaka issue MOI visit visas to Bangladeshis? <sup>[52](#o52)</sup>
-> - Does the Qatar Embassy in Dhaka help with Hayya applications? <sup>[1](#o1)</sup>
 
 ### Step 1: Prepare your documents and insurance
 
@@ -1660,7 +1734,7 @@ Your personal details and the name on your hotel booking must match your passpor
   > - Must the host first upload, in his own Hayya account, his QID, the property address, guest details and a title deed or rental agreement? <sup>[N119](#n119)</sup>
 
 - **A return flight ticket** <sup>[52](#o52)</sup>. Book the flight only after approval; any loss from travelling before the e-visa is issued is your own <sup>[52](#o52)</sup>. Airlines expect the return date to be within 30 days of entry <sup>[N120](#n120)</sup>.
-- **Visitor health insurance for the whole stay.** MVHI (Mandatory Visitor Health Insurance) is compulsory: no entry visa is issued or renewed without proof of cover for the visa period, and MOI requires it to enter Qatar <sup>[134 (2021)](#o134), [181](#o181), [178](#o178)</sup>.
+- **Visitor health insurance for the whole stay.** MVHI (Mandatory Visitor Health Insurance) is compulsory: no entry visa is issued or renewed without proof of cover for the visa period, and MOI requires it to enter Qatar <sup>[132 (2021)](#o132), [181](#o181), [178](#o178)</sup>.
   - Buy it from an insurer registered with MoPH or an MoPH-approved international insurer; MoPH's website lists the approved insurance <sup>[181](#o181), [52](#o52)</sup>.
   - It costs QR 50 per person per month, the same when you extend <sup>[180 (2023)](#o180), [181](#o181)</sup>.
   - Make the cover start on the day you enter; it can't be cancelled once it starts <sup>[184 (2022)](#o184)</sup>. International health insurance that includes Qatar is accepted instead <sup>[184 (2022)](#o184)</sup>.
@@ -1691,18 +1765,11 @@ The statuses are Pending Submission, Pending, Pending (Ticket Verification), Pen
 
 You can edit an approved application free of charge until its "Last Entry Date" passes, while you are outside Qatar; it then goes back to "Pending" for re-approval <sup>[52](#o52)</sup>. If you renew your passport after the e-visa is issued, update the application with the new passport and travel with the updated e-visa <sup>[52](#o52)</sup>.
 
-#### If refused
-
-The reason shows on your Hayya dashboard, though sometimes none is given, and approval is at the authorities' discretion <sup>[52](#o52)</sup>. A corrected application can be re-submitted; one stayed pending about 10 days after re-submission <sup>[N119](#n119)</sup>.
-
-> **Need to know**
-> - Can an A1 refusal be appealed? <sup>[52](#o52)</sup>
-
-### Step 3: Check your e-visa is real
+### Step 3: Check your visa is real
 
 Any of these works:
 
-- **On Hayya:** open "Track your E-Visa" at [hayya.qa/en/visa-inquiry](https://hayya.qa/en/visa-inquiry) and enter the Entry Reference Number, or your passport number and nationality <sup>[115](#o115)</sup>.
+- **On Hayya:** open "Track your E-Visa" at [hayya.qa/en/visa-inquiry](https://hayya.qa/en/visa-inquiry) and enter the Entry Reference Number, or your passport number and nationality <sup>[113](#o113)</sup>.
 - **On MOI's Visa Inquiry,** as in Step 5 of the company work visa; it looks up issued visit visas by visa number and lets you print them <sup>[83](#o83)</sup>.
 - **By phone:** Ami Probashi checks Qatar visas through its helpline 16768 for a small fee and replies by SMS whether the visa is valid <sup>[N92](#n92)</sup>.
 
@@ -1710,7 +1777,7 @@ Any of these works:
 
 1. **Carry** your passport, the e-visa (printed, or in the app), your return ticket and your accommodation proof; accommodation can be checked at any point during the trip <sup>[52](#o52), [182 (2023)](#o182)</sup>.
 2. **Travel before the "Last Entry Date"** shown on the e-visa; a visa issued in advance must be used within 90 days of issue <sup>[14 (2019)](#o14), [52](#o52)</sup>.
-3. **Give your fingerprints:** they must be taken before you enter Qatar on any visa <sup>[14 (2019)](#o14)</sup>. Hamad International Airport (HIA, Doha's airport) has 76 free e-gates (automatic immigration gates where you scan your passport and go through) for citizens, residents and visitors, for eligible passengers including children taller than 130 cm <sup>[N110](#n110), [186](#o186)</sup>.
+3. **Give your fingerprints:** they must be taken before you enter Qatar on any visa <sup>[14 (2019)](#o14)</sup>. Hamad International Airport (HIA, Doha's airport) has 76 free e-gates (automatic immigration gates where you scan your passport and go through) for citizens, residents and visitors, for eligible passengers including children taller than 130 cm <sup>[N112](#n112), [186](#o186)</sup>.
 
    > **Need to know**
    > - May first-time Bangladeshi A1 visitors use the e-gates, or only people who have entered Qatar before? <sup>[187](#o187), [182 (2023)](#o182)</sup>
@@ -1726,7 +1793,7 @@ The A1 is single entry and lets you stay 30 days <sup>[179](#o179), [52](#o52)</
 
 **A baby born during the visit:** see Having a child in Qatar <sup>[14 (2019)](#o14)</sup>.
 
-### Extending your stay
+#### Extending your stay
 
 1. **Apply before the e-visa expires** at the Directorate of Passport at HIA, where all visa extensions are processed <sup>[52](#o52)</sup>.
 2. **Buy visitor insurance for the extra time,** at QR 50 a month ([Step 1](#step-1-prepare-your-documents-and-insurance)) <sup>[181](#o181), [180 (2023)](#o180)</sup>.
@@ -1734,60 +1801,77 @@ The A1 is single entry and lets you stay 30 days <sup>[179](#o179), [52](#o52)</
 Some visitors say MOI's online extension failed for them, and one said buying 60 days of insurance extended the A1 automatically <sup>[N120](#n120)</sup>. Many visitors have extended by 30 days <sup>[N121](#n121)</sup>.
 
 > **Need to know**
-> - Can A1 holders extend on MOI's online Visit Visa Extension form (MOI Services > Inquiries > Visa Services > Visit Visa Extension: visa or passport number, nationality, picture code, "Extend")? <sup>[189](#o189), [114](#o114)</sup>
+> - Can A1 holders extend on MOI's online Visit Visa Extension form (MOI Services > Inquiries > Visa Services > Visit Visa Extension: visa or passport number, nationality, picture code, "Extend")? <sup>[189](#o189), [112](#o112)</sup>
 > - What does an A1 extension cost? <sup>[N121](#n121)</sup>
 > - What is the longest total stay on an extended A1? <sup>[N121](#n121)</sup>
 
-### Don't work on a visit visa
+### Can you work?
 
 A Hayya visitor may not work in Qatar by law; a work visa is granted only under an employment contract with the employer bringing you in <sup>[52](#o52), [188 (2020)](#o188)</sup>. No one may employ a foreigner without a work contract, and a visitor may not work for an entity not authorised <sup>[188 (2020)](#o188)</sup>. Breaching the purpose of entry or overstaying is a crime, and you may not leave Qatar until the case is settled; the penalties are in What can get you jailed or deported <sup>[188 (2020)](#o188)</sup>. Whether a visit visa can be changed into a work visa inside Qatar: see Changing visa type <sup>[N62 (2023)](#n62)</sup>.
 
 > **Need to know**
 > - Does Bangladesh airport immigration specially screen first-time tourist-visa travellers to Qatar? <sup>[N122 (2012)](#n122)</sup>
 
+### If the visa is refused
+
+The reason shows on your Hayya dashboard, though sometimes none is given, and approval is at the authorities' discretion <sup>[52](#o52)</sup>. A corrected application can be re-submitted; one stayed pending about 10 days after re-submission <sup>[N119](#n119)</sup>.
+
+> **Need to know**
+> - Can an A1 refusal be appealed? <sup>[52](#o52)</sup>
+
 ### Scams
 
-**A visit or Hayya visa "with a job."** A broker sells a tourist or Hayya visa as a work visa, charging high fees with false job promises <sup>[N62 (2023)](#n62), [N123 (2023)](#n123)</sup>, but a Hayya visitor may not work by law <sup>[52](#o52)</sup>. In 2014 brokers, helped by Bangladeshi recruiting agencies, took Tk 3 to 3.5 lakh each from 23 Bangladeshis and brought them to Qatar on tourist visas; they found no work for three months, their visas expired and they became illegal <sup>[N124 (2014)](#n124)</sup>. Check the visa as in [Step 3](#step-3-check-your-e-visa-is-real); a job needs a work visa (Step 5, item 3 of the company work visa), and check any job offer as in [Step 1](#step-1-prepare-your-documents-and-insurance) of the company work visa <sup>[115](#o115), [83](#o83), [52](#o52)</sup>.
+**A visit or Hayya visa "with a job."** A broker sells a tourist or Hayya visa as a work visa, charging high fees with false job promises <sup>[N62 (2023)](#n62), [N123 (2023)](#n123)</sup>, but a Hayya visitor may not work by law <sup>[52](#o52)</sup>. In 2014 brokers, helped by Bangladeshi recruiting agencies, took Tk 3 to 3.5 lakh each from 23 Bangladeshis and brought them to Qatar on tourist visas; they found no work for three months, their visas expired and they became illegal <sup>[N124 (2014)](#n124)</sup>. Check the visa as in [Step 3](#step-3-check-your-visa-is-real); a job needs a work visa (Step 5, item 3 of the company work visa), and check any job offer as in [Step 1](#step-1-prepare-your-documents-and-insurance) of the company work visa <sup>[113](#o113), [83](#o83), [52](#o52)</sup>.
 
 **"Free visa."** See "Free visa" or a bought visa under Scams of the company work visa, and the penalties under What can get you jailed or deported <sup>[N8](#n8), [3 (2015)](#o3)</sup>.
 
 #### Fake visa papers
 
-In 2019 a Dhaka gang showed job seekers fake offer letters, contracts and even a fake Qatar visa (see Fake job adverts and fake papers under Scams of the company work visa) <sup>[N42 (2019)](#n42)</sup>. A genuine visa shows on Hayya's "Track your E-Visa" or MOI's Visa Inquiry ([Step 3](#step-3-check-your-e-visa-is-real)) <sup>[115](#o115), [83](#o83)</sup>.
+In 2019 a Dhaka gang showed job seekers fake offer letters, contracts and even a fake Qatar visa (see Fake job adverts and fake papers under Scams of the company work visa) <sup>[N42 (2019)](#n42)</sup>. A genuine visa shows on Hayya's "Track your E-Visa" or MOI's Visa Inquiry ([Step 3](#step-3-check-your-visa-is-real)) <sup>[113](#o113), [83](#o83)</sup>.
 
 #### Fake websites and paid agents
 
 Hayya runs on hayya.qa and the "Hayya to Qatar" app; its fee is QR 100, paid inside Hayya after approval, and the account is opened with an email address and a password ([Step 2](#step-2-apply-on-hayya)) <sup>[1](#o1), [52](#o52), [179](#o179)</sup>. For fake government sites, see Step 5 of the company work visa <sup>[N93](#n93)</sup>.
 
-## Family residence (spouse, children and parents)
+### MOI visit visa
 
-A resident of Qatar can bring a spouse and children to live with them on a family residence permit if the resident's job and salary meet MOI's rules <sup>[170 (2023)](#o170), [3 (2015)](#o3)</sup>.
-
-### Who qualifies
-
-A private-sector sponsor needs a technical or specialised occupation and a salary of at least QR 10,000, or QR 6,000 with family housing, shown in the employment contract <sup>[170 (2023)](#o170)</sup>. A government or semi-government employee needs family housing from the employer or a salary of at least QR 10,000 <sup>[170 (2023)](#o170)</sup>.
+A regular visit visa issued by MOI is still an option besides the A1, depending on your profile and purpose <sup>[52](#o52)</sup>.
 
 > **Need to know**
-> - Can a driver, delivery worker, cleaner or other labour-category worker sponsor family at all, whatever the salary? <sup>[170 (2023)](#o170), [N125](#n125)</sup>
-> - Does MOI check the salary through the employer's WPS transfers? <sup>[170 (2023)](#o170), [N125](#n125)</sup>
-> - Does MOI check the education through the labour contract on file? <sup>[170 (2023)](#o170), [N125](#n125)</sup>
-> - Does MOI give a "missing documents" result when WPS or contract data is missing? <sup>[170 (2023)](#o170), [N125](#n125)</sup>
-> - Has MOI changed the salary rule since December 2023? <sup>[170 (2023)](#o170)</sup>
+> - Does the Qatar Embassy in Dhaka issue MOI visit visas to Bangladeshis? <sup>[52](#o52)</sup>
+> - Does the Qatar Embassy in Dhaka help with Hayya applications? <sup>[1](#o1)</sup>
+
+## Family residence (spouse, children and parents)
+
+A resident of Qatar can bring a spouse and children to live with them on a family residence permit if the resident's job and salary meet MOI's rules <sup>[148 (2023)](#o148), [3 (2015)](#o3)</sup>.
+
+### Who can apply
+
+#### Who qualifies
+
+A private-sector sponsor needs a technical or specialised occupation and a salary of at least QR 10,000, or QR 6,000 with family housing, shown in the employment contract <sup>[148 (2023)](#o148)</sup>. A government or semi-government employee needs family housing from the employer or a salary of at least QR 10,000 <sup>[148 (2023)](#o148)</sup>.
+
+> **Need to know**
+> - Can a driver, delivery worker, cleaner or other labour-category worker sponsor family at all, whatever the salary? <sup>[148 (2023)](#o148), [N125](#n125)</sup>
+> - Does MOI check the salary through the employer's WPS transfers? <sup>[148 (2023)](#o148), [N125](#n125)</sup>
+> - Does MOI check the education through the labour contract on file? <sup>[148 (2023)](#o148), [N125](#n125)</sup>
+> - Does MOI give a "missing documents" result when WPS or contract data is missing? <sup>[148 (2023)](#o148), [N125](#n125)</sup>
+> - Has MOI changed the salary rule since December 2023? <sup>[148 (2023)](#o148)</sup>
 > - Are family residence and visit visas restricted for some nationalities, as reported in November 2025, and is Bangladesh one? <sup>[N125](#n125)</sup>
 
-### Who can come
+#### Who can come
 
-The spouse, sons up to 25 who are still studying, and unmarried daughters <sup>[3 (2015)](#o3)</sup>; the Minister of Interior or his delegate can make an exception to the sons' age limit <sup>[14 (2019)](#o14)</sup>. Children aged 6 to 18 must be in a licensed school in Qatar, or show enrolment abroad through the education ministry's platform, to get or renew an RP <sup>[170 (2023)](#o170)</sup>.
+The spouse, sons up to 25 who are still studying, and unmarried daughters <sup>[3 (2015)](#o3)</sup>; the Minister of Interior or his delegate can make an exception to the sons' age limit <sup>[14 (2019)](#o14)</sup>. Children aged 6 to 18 must be in a licensed school in Qatar, or show enrolment abroad through the education ministry's platform, to get or renew an RP <sup>[148 (2023)](#o148)</sup>.
 
-### More than one wife
+#### More than one wife
 
 The authorities may give residence to more than one wife if the husband has acceptable reasons and can afford to support two families <sup>[14 (2019)](#o14)</sup>.
 
-### Parents
+#### Parents
 
 A resident's parents can get residence only with the approval of the Minister of Interior or his delegate, if he sees a reason for it, and the resident must meet the same work-residence, salary and housing conditions as for a spouse and children <sup>[14 (2019)](#o14)</sup>.
 
-### Family of a Qatari citizen
+#### Family of a Qatari citizen
 
 The non-Qatari spouse and the children of a Qatari citizen can get family residence under Qatar's law on marriage to foreigners, and the Qatari's non-Qatari parents can get residence on proof of the relationship <sup>[14 (2019)](#o14)</sup>. A foreign wife of a Qatari can get residence on her minor Qatari son if her husband dies or they divorce <sup>[14 (2019)](#o14)</sup>.
 
@@ -1796,21 +1880,21 @@ The non-Qatari spouse and the children of a Qatari citizen can get family reside
 > - How does a resident apply for residence for parents, with which documents and fees? <sup>[14 (2019)](#o14)</sup>
 > - How does a resident apply for residence for the family of a Qatari, with which documents and fees? <sup>[14 (2019)](#o14)</sup>
 
-### Costs
+### Cost and time
 
 - Family residence visa: QR 200 <sup>[190](#o190)</sup>
-- Medical Commission exam: QR 100 per family member <sup>[123 (2021)](#o123)</sup>
-- RP (on the QID card): QR 400 per family member <sup>[124](#o124)</sup>
+- Medical Commission exam: QR 100 per family member <sup>[121 (2021)](#o121)</sup>
+- RP (on the QID card): QR 400 per family member <sup>[122](#o122)</sup>
 - Attesting the family visa at the Bangladesh Embassy in Doha: QR 50 per person <sup>[173 (2021)](#o173)</sup>
 
-No RP is granted without proof of compulsory health insurance <sup>[134 (2021)](#o134)</sup>.
+No RP is granted without proof of compulsory health insurance <sup>[132 (2021)](#o132)</sup>.
 
 > **Need to know**
-> - What does health insurance for a resident's family members cost? <sup>[134 (2021)](#o134)</sup>
+> - What does health insurance for a resident's family members cost? <sup>[132 (2021)](#o132)</sup>
 
 ### Step 1: Check you qualify and gather the papers
 
-1. **Check your contract** shows the occupation and salary under Who qualifies <sup>[170 (2023)](#o170)</sup>.
+1. **Check your contract** shows the occupation and salary under Who qualifies <sup>[148 (2023)](#o148)</sup>.
 2. **Gather the papers MOI's Family Visa form asks for** <sup>[191](#o191), [190](#o190)</sup>:
    - your ID copy
    - the passport copy of each person you bring
@@ -1823,7 +1907,7 @@ No RP is granted without proof of compulsory health insurance <sup>[134 (2021)](
 ### Step 2: Attest the marriage and birth certificates
 
 1. **In Bangladesh,** have the marriage (nikah) and birth certificates attested by the Law Ministry, then MOFA in Dhaka, as for certificates in [Step 2](#step-2-attest-the-marriage-and-birth-certificates), item 3 of the company work visa <sup>[51 (2021)](#o51)</sup>.
-2. **Then have them legalised for Qatar,** through QVC Dhaka's attestation counter or Qatar MOFA's "Complete Attestation Outside Qatar" service, as in the same item <sup>[35](#o35), [106](#o106)</sup>. In practice they are attested by the Qatar Embassy in Bangladesh and then by Qatar MOFA in Doha <sup>[N125](#n125)</sup>. The Bangladesh Embassy in Doha also attests certificates already attested by MOFA in Dhaka (fees in the same item) <sup>[108](#o108)</sup>.
+2. **Then have them legalised for Qatar,** through QVC Dhaka's attestation counter or Qatar MOFA's "Complete Attestation Outside Qatar" service, as in the same item <sup>[35](#o35), [104](#o104)</sup>. In practice they are attested by the Qatar Embassy in Bangladesh and then by Qatar MOFA in Doha <sup>[N125](#n125)</sup>. The Bangladesh Embassy in Doha also attests certificates already attested by MOFA in Dhaka (fees in the same item) <sup>[106](#o106)</sup>.
 
 ### Step 3: Get your employment contract attested
 
@@ -1844,15 +1928,15 @@ No RP is granted without proof of compulsory health insurance <sup>[134 (2021)](
 
 ### Step 5: Apply
 
-1. **Apply at an MOI Services Centre, or on MOI's website or Metrash** <sup>[190](#o190), [170 (2023)](#o170)</sup>.
+1. **Apply at an MOI Services Centre, or on MOI's website or Metrash** <sup>[190](#o190), [148 (2023)](#o148)</sup>.
 2. **In Metrash,** choose Visa, then Family Resident Visa; type the names in Arabic, and upload JPG files of at most 500 KB, not PDF <sup>[N125](#n125)</sup>.
 3. **On paper,** type MOI's form in Arabic, with names as in the passport and attachments in order, and bring the originals at registration <sup>[191](#o191)</sup>.
-4. **Pay the visa fee** (see [Costs](#costs)) <sup>[190](#o190)</sup>.
+4. **Pay the visa fee** (see Costs) <sup>[190](#o190)</sup>.
 5. **Wait.** There is no fixed processing time: it takes days to months, and after the visa number is issued security clearance takes about a week <sup>[N125](#n125)</sup>.
 
 ### Step 6: Check and print the visa
 
-1. **Follow the application** on MOI's Visa Inquiry by application number (with your QID number and the application date), or look up the issued visa by visa number and print it, as in [Step 5](#step-5-apply) of the company work visa <sup>[83](#o83), [114](#o114)</sup>.
+1. **Follow the application** on MOI's Visa Inquiry by application number (with your QID number and the application date), or look up the issued visa by visa number and print it, as in [Step 5](#step-5-apply) of the company work visa <sup>[83](#o83), [112](#o112)</sup>.
 
    > **Need to know**
    > - Does Visa Inquiry show family residence visas, or only work and visit visas? <sup>[83](#o83)</sup>
@@ -1860,14 +1944,20 @@ No RP is granted without proof of compulsory health insurance <sup>[134 (2021)](
 2. **Use it within 90 days:** a visa issued in advance is valid for use for 90 days <sup>[14 (2019)](#o14)</sup>.
 3. **If you want the visa attested,** the Bangladesh Embassy in Doha does it with copies of the visa, the passports and the nikahnama (marriage contract), in 3 working days (fee under Costs) <sup>[173 (2021)](#o173)</sup>.
 
-### Step 7: After arrival
+### Step 7: After you arrive
 
-1. **RP and QID within 30 days.** Each family member must do the medical check at the Medical Commission and give fingerprints, and you get each one's RP; a fine runs from day 31 <sup>[14 (2019)](#o14), [123 (2021)](#o123), [38 (2021)](#o38), [37](#o37)</sup>.
-   1. At the Medical Commission bring the original passport, a clear copy of the RP with a mobile number for emergencies, and the medical certificate from the accredited centre in Bangladesh, and pay by card (fees under Costs) <sup>[123 (2021)](#o123)</sup>.
+1. **RP and QID within 30 days.** Each family member must do the medical check at the Medical Commission and give fingerprints, and you get each one's RP; a fine runs from day 31 <sup>[14 (2019)](#o14), [121 (2021)](#o121), [38 (2021)](#o38), [37](#o37)</sup>.
+   1. At the Medical Commission bring the original passport, a clear copy of the RP with a mobile number for emergencies, and the medical certificate from the accredited centre in Bangladesh, and pay by card (fees under Costs) <sup>[121 (2021)](#o121)</sup>.
    2. Then issue each RP on MOI's e-service "Issue/Reactivate RP by Visa Number": log in with your smart card registered in Metrash, choose personal sponsorship, and enter the visa number, the person's details, address and residence period <sup>[38 (2021)](#o38)</sup>.
-   3. Choose to collect the card at the Expatriates' Affairs Department or have it sent by Qatar Post, and pay the RP fee <sup>[38 (2021)](#o38), [124](#o124)</sup>.
-2. **School.** Enrol children aged 6 to 18 in a licensed school <sup>[170 (2023)](#o170)</sup>.
+   3. Choose to collect the card at the Expatriates' Affairs Department or have it sent by Qatar Post, and pay the RP fee <sup>[38 (2021)](#o38), [122](#o122)</sup>.
+2. **School.** Enrol children aged 6 to 18 in a licensed school <sup>[148 (2023)](#o148)</sup>.
 3. **A baby born in Qatar** needs its RP applied for within 90 days of birth (see [Having a child in Qatar](#having-a-child-in-qatar)) <sup>[3 (2015)](#o3)</sup>.
+
+### Can you work?
+
+A wife can take a job while her residence stays under the head of the family <sup>[3 (2015)](#o3)</sup>. A husband sponsored by his wife may not work until his residence is moved to the employer <sup>[14 (2019)](#o14)</sup>. To change from family to work residence, see Changing visa type <sup>[N126](#n126)</sup>.
+
+**If the marriage ends,** a family member may move to another sponsor with the authority's approval <sup>[3 (2015)](#o3)</sup>.
 
 ### If the visa is refused
 
@@ -1875,12 +1965,6 @@ The sponsor can go to the Immigration Office with all the originals and ask to m
 
 > **Need to know**
 > - Is there an official appeal against a refused family residence visa? <sup>[190](#o190)</sup>
-
-### Can family members work?
-
-A wife can take a job while her residence stays under the head of the family <sup>[3 (2015)](#o3)</sup>. A husband sponsored by his wife may not work until his residence is moved to the employer <sup>[14 (2019)](#o14)</sup>. To change from family to work residence, see Changing visa type <sup>[N126](#n126)</sup>.
-
-**If the marriage ends,** a family member may move to another sponsor with the authority's approval <sup>[3 (2015)](#o3)</sup>.
 
 ### Scams
 
@@ -1893,9 +1977,11 @@ Any family visa can be checked by its number on MOI's Visa Inquiry ([Step 6](#st
 
 A resident can host relatives on MOI's family visit visa for one month, extendable by up to five more months for first-degree relatives <sup>[78](#o78)</sup>. The host applies from Qatar <sup>[78](#o78)</sup>.
 
-### Who can host
+### Who can apply
 
-A resident who meets all of these <sup>[78](#o78), [170 (2023)](#o170)</sup>:
+#### Who can host
+
+A resident who meets all of these <sup>[78](#o78), [148 (2023)](#o148)</sup>:
 
 - a profession outside the labour category
 - a salary of QR 5,000 a month under an accredited employment contract
@@ -1903,11 +1989,11 @@ A resident who meets all of these <sup>[78](#o78), [170 (2023)](#o170)</sup>:
 
 A visit may be refused if the profession on the host's QID is labour-type, though an officer at an MOI Service Centre can change the decision <sup>[N127](#n127)</sup>.
 
-### Who can visit
+#### Who can visit
 
 First-degree relatives (father, mother, spouse, children), and also siblings, grandparents, grandchildren, nephews and nieces, uncles and aunts <sup>[78](#o78)</sup>.
 
-### Costs
+### Cost and time
 
 The visa is QR 200 and each month's extension QR 200 <sup>[78](#o78)</sup>, plus visitor health insurance, priced as in Tourist visa, [Step 1](#step-1-prepare-the-papers), "Visitor health insurance for the whole stay" <sup>[180 (2023)](#o180)</sup>.
 
@@ -1925,11 +2011,11 @@ The visa is QR 200 and each month's extension QR 200 <sup>[78](#o78)</sup>, plus
 ### Step 2: Apply on Metrash and pay
 
 1. **The host applies in Metrash,** uploading the visitor's passport, the proof of relationship and the proof of accommodation <sup>[78](#o78)</sup>.
-2. **Pay the visa fee** (see [Costs](#costs-1)) <sup>[78](#o78)</sup>.
+2. **Pay the visa fee** (see Costs) <sup>[78](#o78)</sup>.
 
 ### Step 3: Buy health insurance
 
-1. **Buy visitor health insurance (MVHI) for the whole visit,** as in Tourist visa, [Step 1](#step-1-prepare-the-papers), "Visitor health insurance for the whole stay"; no visa is issued without it <sup>[134 (2021)](#o134), [78](#o78)</sup>.
+1. **Buy visitor health insurance (MVHI) for the whole visit,** as in Tourist visa, [Step 1](#step-1-prepare-the-papers), "Visitor health insurance for the whole stay"; no visa is issued without it <sup>[132 (2021)](#o132), [78](#o78)</sup>.
 2. **Use the SMS link:** after approval the host gets an SMS link to buy it online <sup>[N127](#n127)</sup>.
 
 ### Step 4: Check the visa and travel
@@ -1941,7 +2027,9 @@ The visa is QR 200 and each month's extension QR 200 <sup>[78](#o78)</sup>, plus
 > - How long does MOI take to decide on a family visit visa? <sup>[78](#o78)</sup>
 > - Can a family visit visa refusal be appealed? <sup>[78](#o78)</sup>
 
-### Extending the visit
+### How long you can stay
+
+#### Extending the visit
 
 First-degree relatives can stay up to 5 more months, at QR 200 a month <sup>[78](#o78)</sup>.
 
@@ -1953,13 +2041,20 @@ First-degree relatives can stay up to 5 more months, at QR 200 a month <sup>[78]
 > - Does the extension medical cost QR 100? <sup>[N127](#n127)</sup>
 > - Must a family visit visa instead be extended at the Directorate of Passport at HIA, where all visa extensions are processed? <sup>[52](#o52)</sup>
 
-### Overstay and working
-
-Overstaying is a crime, settled at QR 200 a day up to QR 12,000, and so is breaching the purpose of entry, for example by working (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[192](#o192), [49 (2015)](#o49), [188 (2020)](#o188)</sup>. Overstay fines can be paid in Metrash before going to the airport <sup>[N110](#n110)</sup>. The authority may, at its discretion, change a visa's purpose inside Qatar while the visa is valid (see [Changing visa type](#changing-visa-type)) <sup>[14 (2019)](#o14)</sup>.
-
-### A baby born during the visit
+#### A baby born during the visit
 
 See Having a child in Qatar, [Step 4](#step-4-check-the-visa-and-travel) <sup>[14 (2019)](#o14)</sup>.
+
+### Can you work?
+
+Overstaying is a crime, settled at QR 200 a day up to QR 12,000, and so is breaching the purpose of entry, for example by working (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[192](#o192), [49 (2015)](#o49), [188 (2020)](#o188)</sup>. Overstay fines can be paid in Metrash before going to the airport <sup>[N112](#n112)</sup>. The authority may, at its discretion, change a visa's purpose inside Qatar while the visa is valid (see [Changing visa type](#changing-visa-type)) <sup>[14 (2019)](#o14)</sup>.
+
+### Scams
+
+Any visa can be checked by its number on MOI's Visa Inquiry ([Step 4](#step-4-check-the-visa-and-travel)) <sup>[83](#o83)</sup>.
+
+> **Need to know**
+> - What family-visit-visa and personal-visit-visa scams are reported? <sup>[83](#o83)</sup>
 
 ### Personal visit visa
 
@@ -1978,18 +2073,11 @@ MOI also asks for a medical test if the visitor stays more than 30 days <sup>[19
 > - How long does MOI take to decide on a personal visit visa? <sup>[193](#o193)</sup>
 > - Can a personal visit visa refusal be appealed? <sup>[193](#o193)</sup>
 
-### Scams
-
-Any visa can be checked by its number on MOI's Visa Inquiry ([Step 4](#step-4-check-the-visa-and-travel)) <sup>[83](#o83)</sup>.
-
-> **Need to know**
-> - What family-visit-visa and personal-visit-visa scams are reported? <sup>[83](#o83)</sup>
-
 ## Business visit
 
-A business visitor doesn't apply on Hayya: Hayya's business service (the 60-day Official Visa) is only for invitations from government and semi-government bodies, and the businessmen visit visa is applied for through licensed companies or a service provider <sup>[52](#o52), [14 (2019)](#o14)</sup>. It is for business people coming for consultations, deals, exchange of expertise or investment (residence regulations, MOI Decision 25 of 2019, Article 40) <sup>[14 (2019)](#o14)</sup>. Tourist and business visit visas are valid for one trip of 30 or 60 days, or multiple entry for 6 months or 1 year with at most 90 days per trip (Article 30) <sup>[14 (2019)](#o14)</sup>. A business visa does not allow work for a Qatari employer <sup>[188 (2020)](#o188)</sup>, and no entry visa is issued without proof of health insurance (see Tourist visa, Step 1) <sup>[134 (2021)](#o134)</sup>.
+A business visitor doesn't apply on Hayya: Hayya's business service (the 60-day Official Visa) is only for invitations from government and semi-government bodies, and the businessmen visit visa is applied for through licensed companies or a service provider <sup>[52](#o52), [14 (2019)](#o14)</sup>. It is for business people coming for consultations, deals, exchange of expertise or investment (residence regulations, MOI Decision 25 of 2019, Article 40) <sup>[14 (2019)](#o14)</sup>. Tourist and business visit visas are valid for one trip of 30 or 60 days, or multiple entry for 6 months or 1 year with at most 90 days per trip (Article 30) <sup>[14 (2019)](#o14)</sup>. A business visa does not allow work for a Qatari employer <sup>[188 (2020)](#o188)</sup>, and no entry visa is issued without proof of health insurance (see Tourist visa, Step 1) <sup>[132 (2021)](#o132)</sup>.
 
-### How the company applies
+### Getting the visa
 
 For MOI's "Businessmen Visa", a Qatari trading or investment company with prior approval applies at an MOI Services Centre through its representative or owner; the fee is QR 200 <sup>[194](#o194)</sup>.
 
@@ -2062,7 +2150,7 @@ For workers in professions Qatar needs, brought in by government bodies or compa
 
 > **Need to know**
 > - Does it last one month, extendable to at most six, for "rare professions" <sup>[196](#o196)</sup>, or six months, extendable for a similar period (residence regulations, Article 48) <sup>[14 (2019)](#o14)</sup>?
-> - Is RARC the same body as MOI's Committee Reviewing Recruitment Applications (see [Work visa: domestic worker](#work-visa-domestic-worker)), which another MOI page calls the Recruitment Applications Reviewing Committee? <sup>[196](#o196), [110](#o110), [198](#o198)</sup>
+> - Is RARC the same body as MOI's Committee Reviewing Recruitment Applications (see [Work visa: domestic worker](#work-visa-domestic-worker)), which another MOI page calls the Recruitment Applications Reviewing Committee? <sup>[196](#o196), [108](#o108), [198](#o198)</sup>
 > - Are Bangladeshis issued the Multiple Entry Work Visit Visa? <sup>[196](#o196), [14 (2019)](#o14)</sup>
 > - Does BMET clear the Multiple Entry Work Visit Visa? <sup>[196](#o196), [14 (2019)](#o14)</sup>
 > - How long does the Multiple Entry Work Visit Visa take? <sup>[196](#o196), [14 (2019)](#o14)</sup>
@@ -2085,7 +2173,7 @@ Truck drivers and their helpers get a visa through import-export companies, tran
 
 ## Transit
 
-You don't need a transit visa if you stay inside HIA between flights <sup>[199](#o199)</sup>. To leave the airport during a stopover, go to a transfer desk, not the Arrivals signs <sup>[199](#o199)</sup>. The residence regulations set a transit visit visa for travellers with an onward ticket, for one trip of 4 to 96 hours (Article 44) <sup>[14 (2019)](#o14)</sup>. Transit passengers don't need visitor health insurance, but pay the full cost if treated <sup>[181](#o181), [139 (2023)](#o139)</sup>.
+You don't need a transit visa if you stay inside HIA between flights <sup>[199](#o199)</sup>. To leave the airport during a stopover, go to a transfer desk, not the Arrivals signs <sup>[199](#o199)</sup>. The residence regulations set a transit visit visa for travellers with an onward ticket, for one trip of 4 to 96 hours (Article 44) <sup>[14 (2019)](#o14)</sup>. Transit passengers don't need visitor health insurance, but pay the full cost if treated <sup>[181](#o181), [141 (2023)](#o141)</sup>.
 
 ### Discover Qatar Transit Visa
 
@@ -2110,18 +2198,39 @@ If the visa is refused, the fee is refunded less QR 25; once approved it isn't r
 
 Qatar gives a "study residence visa" to a foreign student at a government or private school, institute, college or university in Qatar; it needs a letter from the accredited institution confirming enrolment, a travel document and proof of good conduct (MOI Decision 25 of 2019) <sup>[14 (2019)](#o14)</sup>. At Qatar University (QU, the national public university), the student sends the visa documents to the university online and holds the residence permit (RP) under QU's own sponsorship <sup>[202](#o202), [203](#o203)</sup>. A QU student already in Qatar on a parent's or company's RP that is being cancelled can apply to move it to QU sponsorship <sup>[204](#o204)</sup>. The student visa covers only the student and gives no right to sponsor family <sup>[203](#o203)</sup>.
 
-### Step 1: Check the university and programme
+### Scholarships
 
-Qatar's Ministry of Education and Higher Education (MOEHE) lists the higher education institutions in Qatar and licenses the private ones and their programmes <sup>[205](#o205), [206](#o206)</sup>. Qatar's Ministry of Foreign Affairs attests a degree only if the university is on MOEHE's list <sup>[106](#o106)</sup>.
+#### Qatar University (undergraduate)
 
-1. **Open MOEHE's page** "Higher Education in Qatar" at [www.edu.gov.qa/en/Content/HigherEducationinQatar](https://www.edu.gov.qa/en/Content/HigherEducationinQatar) <sup>[205](#o205)</sup>.
-2. **Find the institution** under one of two headings; most names link to the institution's own website <sup>[205](#o205)</sup>:
-   - "Public Higher Education Institutions": Qatar University, Community College of Qatar, Qatar Aeronautical Academy, University of Doha for Science and Technology, and the military and police academies <sup>[205](#o205)</sup>;
-   - "Private Higher Education Institutions" (19, among them Hamad Bin Khalifa University (HBKU), Georgetown University-Qatar, Northwestern University in Qatar, Virginia Commonwealth University in Qatar, Weill Cornell Medical School in Qatar, Carnegie Mellon University in Qatar, Lusail University, and partnership colleges such as City University Qatar (with Ulster University), Oryx University (with Liverpool John Moores) and The National University of Malaysia – Qatar (UKM Qatar)) <sup>[205](#o205)</sup>.
-3. **Download the 2026-2027 programmes list** from the same page and check your exact programme is on it <sup>[205](#o205)</sup>.
+For scholarship students, QU applies for the visa after the admission decision and tells the student <sup>[205](#o205)</sup>.
+
+- **International Students Scholarship:** awarded competitively during the announced application period, and needs a high-school average of at least 95% <sup>[205](#o205)</sup>. It gives free tuition and textbooks, QR 500 a month, shared student housing with transport, a return air ticket every year and an RP under QU sponsorship <sup>[205](#o205)</sup>.
+- **Talent Scholarship:** for non-Qatari undergraduates, international students included, talented in research, technology and innovation, literature, acting (male), media or sport, with a high-school average of at least 80%; it gives free tuition and textbooks and QR 1,000 a month, and international students also get shared housing with transport, a yearly return ticket and an RP under QU sponsorship <sup>[205](#o205)</sup>.
+
+#### HBKU (graduate studies)
+
+Applicants are considered for a scholarship during admission, with no separate application, on merit or need and available funds, and awards are not guaranteed <sup>[206](#o206)</sup>.
+
+- **Stipend:** international students get QR 9,000 a month for 45 months (PhD) or QR 7,000 a month for 21 months (Master's), paid to full-time students working as research or teaching assistants <sup>[206](#o206)</sup>.
+- **Tuition:** waived 100% for PhD, 75% for STEM (science, technology, engineering and mathematics) Master's and 60% for humanities and social science Master's; self-funded students get only a need-based rate of QR 2,000 per credit hour <sup>[206](#o206)</sup>.
+- **Housing:** not paid by HBKU; students pay for a dorm or outside housing from the stipend or their own money <sup>[206](#o206)</sup>.
+- **Air tickets:** international students get one inbound and one outbound ticket <sup>[206](#o206)</sup>.
 
 > **Need to know**
-> - How do you report an unlicensed institution or programme to MOEHE? <sup>[205](#o205), [206](#o206)</sup>
+> - What scholarships do the University of Doha for Science and Technology and the other institutions on MOEHE's list offer? <sup>[207](#o207)</sup>
+
+### Step 1: Check the university and programme
+
+Qatar's Ministry of Education and Higher Education (MOEHE) lists the higher education institutions in Qatar and licenses the private ones and their programmes <sup>[207](#o207), [208](#o208)</sup>. Qatar's Ministry of Foreign Affairs attests a degree only if the university is on MOEHE's list <sup>[104](#o104)</sup>.
+
+1. **Open MOEHE's page** "Higher Education in Qatar" at [www.edu.gov.qa/en/Content/HigherEducationinQatar](https://www.edu.gov.qa/en/Content/HigherEducationinQatar) <sup>[207](#o207)</sup>.
+2. **Find the institution** under one of two headings; most names link to the institution's own website <sup>[207](#o207)</sup>:
+   - "Public Higher Education Institutions": Qatar University, Community College of Qatar, Qatar Aeronautical Academy, University of Doha for Science and Technology, and the military and police academies <sup>[207](#o207)</sup>;
+   - "Private Higher Education Institutions" (19, among them Hamad Bin Khalifa University (HBKU), Georgetown University-Qatar, Northwestern University in Qatar, Virginia Commonwealth University in Qatar, Weill Cornell Medical School in Qatar, Carnegie Mellon University in Qatar, Lusail University, and partnership colleges such as City University Qatar (with Ulster University), Oryx University (with Liverpool John Moores) and The National University of Malaysia – Qatar (UKM Qatar)) <sup>[207](#o207)</sup>.
+3. **Download the 2026-2027 programmes list** from the same page and check your exact programme is on it <sup>[207](#o207)</sup>.
+
+> **Need to know**
+> - How do you report an unlicensed institution or programme to MOEHE? <sup>[207](#o207), [208](#o208)</sup>
 
 ### Step 2: Apply for admission
 
@@ -2135,7 +2244,7 @@ An IELTS certificate (International English Language Testing System, an English 
 > **Need to know**
 > - What is QU's admission application fee? <sup>[203](#o203)</sup>
 > - What are QU's tuition fees for self-funded international students? <sup>[203](#o203)</sup>
-> - What are the visa steps at universities other than QU? <sup>[205](#o205)</sup>
+> - What are the visa steps at universities other than QU? <sup>[207](#o207)</sup>
 
 ### Step 3: Prepare the visa documents
 
@@ -2169,60 +2278,39 @@ Complete the RP within 30 days of entry; a fine runs from day 31 <sup>[14 (2019)
 
 While the RP is valid, keep trips abroad under 180 days in a row; for a longer absence, get an entry permit before 360 days or before the RP expires, whichever comes first <sup>[203](#o203)</sup>.
 
-### Scholarships
+### After graduation
 
-#### Qatar University (undergraduate)
-
-For scholarship students, QU applies for the visa after the admission decision and tells the student <sup>[207](#o207)</sup>.
-
-- **International Students Scholarship:** awarded competitively during the announced application period, and needs a high-school average of at least 95% <sup>[207](#o207)</sup>. It gives free tuition and textbooks, QR 500 a month, shared student housing with transport, a return air ticket every year and an RP under QU sponsorship <sup>[207](#o207)</sup>.
-- **Talent Scholarship:** for non-Qatari undergraduates, international students included, talented in research, technology and innovation, literature, acting (male), media or sport, with a high-school average of at least 80%; it gives free tuition and textbooks and QR 1,000 a month, and international students also get shared housing with transport, a yearly return ticket and an RP under QU sponsorship <sup>[207](#o207)</sup>.
-
-#### HBKU (graduate studies)
-
-Applicants are considered for a scholarship during admission, with no separate application, on merit or need and available funds, and awards are not guaranteed <sup>[208](#o208)</sup>.
-
-- **Stipend:** international students get QR 9,000 a month for 45 months (PhD) or QR 7,000 a month for 21 months (Master's), paid to full-time students working as research or teaching assistants <sup>[208](#o208)</sup>.
-- **Tuition:** waived 100% for PhD, 75% for STEM (science, technology, engineering and mathematics) Master's and 60% for humanities and social science Master's; self-funded students get only a need-based rate of QR 2,000 per credit hour <sup>[208](#o208)</sup>.
-- **Housing:** not paid by HBKU; students pay for a dorm or outside housing from the stipend or their own money <sup>[208](#o208)</sup>.
-- **Air tickets:** international students get one inbound and one outbound ticket <sup>[208](#o208)</sup>.
+QU students may move their RP from QU to a personal sponsor (father, brother, husband) or a company only after graduation; the documents are due within one month after final exams, and the transfer must be finished within 2 months <sup>[203](#o203)</sup>. Students in the Arabic for Non-Native Speakers programme can't transfer and must cancel the RP and leave; a graduate who cancels may stay up to 5 days after receiving the graduation statement <sup>[203](#o203)</sup>. QU accepts no RP transfer or student visa application from a current student with a cumulative GPA below 2.5 <sup>[204](#o204)</sup>. To use a degree for a job, MOEHE runs an online equivalency service (eduservices.edu.gov.qa/Service.aspx?service=UCES) and may refuse degrees that don't meet its rules <sup>[209](#o209)</sup>.
 
 > **Need to know**
-> - What scholarships do the University of Doha for Science and Technology and the other institutions on MOEHE's list offer? <sup>[205](#o205)</sup>
+> - Can job-seeking graduates aged 18 to 28 on university sponsorship still get a one-year visa extension from MOI through Sahem, as reported in 2023? <sup>[N129 (2023)](#n129)</sup>
 
-### Can students work?
+### Can you work?
 
 A student may not break the purpose of the residence or work for an entity he isn't authorised to work for; breaking this is a crime (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[3 (2015)](#o3)</sup>. The authorised routes:
 
 #### On campus
 
-QU's Student Employment Program lets enrolled QU students work in QU colleges and departments after 24 credit hours with a GPA (grade point average) of 2.5 or more (not required for Arabic programme and graduate students) <sup>[209 (2023)](#o209)</sup>, for at most 5 hours a day on weekdays, 7 hours on weekends and holidays, and 20 hours a week <sup>[209 (2023)](#o209)</sup>. At HBKU, stipend holders work 10 hours a week as research assistants and may work at most 20 hours a week in total <sup>[208](#o208)</sup>.
+QU's Student Employment Program lets enrolled QU students work in QU colleges and departments after 24 credit hours with a GPA (grade point average) of 2.5 or more (not required for Arabic programme and graduate students) <sup>[210 (2023)](#o210)</sup>, for at most 5 hours a day on weekdays, 7 hours on weekends and holidays, and 20 hours a week <sup>[210 (2023)](#o210)</sup>. At HBKU, stipend holders work 10 hours a week as research assistants and may work at most 20 hours a week in total <sup>[206](#o206)</sup>.
 
 #### Off campus through Sahem
 
-Jusour (Qatar Manpower Solutions Company, a state company) runs Sahem, which offers part-time jobs to students at accredited universities in Qatar <sup>[210](#o210)</sup>. You must be a current student at a university or higher education institution in Qatar, aged 17 or older, with a valid Qatar ID; exchange students from universities outside Qatar can't join <sup>[211](#o211)</sup>. You may work at most 20 hours a week during the semester and 40 in the summer holiday, and the part-time contract ends at graduation <sup>[211](#o211)</sup>. Apply on sahem.qa with <sup>[211](#o211)</sup>:
+Jusour (Qatar Manpower Solutions Company, a state company) runs Sahem, which offers part-time jobs to students at accredited universities in Qatar <sup>[211](#o211)</sup>. You must be a current student at a university or higher education institution in Qatar, aged 17 or older, with a valid Qatar ID; exchange students from universities outside Qatar can't join <sup>[212](#o212)</sup>. You may work at most 20 hours a week during the semester and 40 in the summer holiday, and the part-time contract ends at graduation <sup>[212](#o212)</sup>. Apply on sahem.qa with <sup>[212](#o212)</sup>:
 - a copy of the Qatar ID;
 - a 6 x 4 passport-size photo;
 - a CV;
 - a letter of enrolment naming the current semester.
 
-The residence law's permission to work part-time for another employer is written for workers who already have a job <sup>[3 (2015)](#o3), [211](#o211)</sup>.
+The residence law's permission to work part-time for another employer is written for workers who already have a job <sup>[3 (2015)](#o3), [212](#o212)</sup>.
 
 > **Need to know**
-> - What is MOL's rule (hours, permit, fee) for off-campus part-time work outside Sahem by a student on university sponsorship? <sup>[3 (2015)](#o3), [211](#o211)</sup>
-
-### After graduation
-
-QU students may move their RP from QU to a personal sponsor (father, brother, husband) or a company only after graduation; the documents are due within one month after final exams, and the transfer must be finished within 2 months <sup>[203](#o203)</sup>. Students in the Arabic for Non-Native Speakers programme can't transfer and must cancel the RP and leave; a graduate who cancels may stay up to 5 days after receiving the graduation statement <sup>[203](#o203)</sup>. QU accepts no RP transfer or student visa application from a current student with a cumulative GPA below 2.5 <sup>[204](#o204)</sup>. To use a degree for a job, MOEHE runs an online equivalency service (eduservices.edu.gov.qa/Service.aspx?service=UCES) and may refuse degrees that don't meet its rules <sup>[212](#o212)</sup>.
-
-> **Need to know**
-> - Can job-seeking graduates aged 18 to 28 on university sponsorship still get a one-year visa extension from MOI through Sahem, as reported in 2023? <sup>[N129 (2023)](#n129)</sup>
+> - What is MOL's rule (hours, permit, fee) for off-campus part-time work outside Sahem by a student on university sponsorship? <sup>[3 (2015)](#o3), [212](#o212)</sup>
 
 ### Scams
 
 #### Unlicensed "university" or programme
 
-Check as in [Step 1](#step-1-check-the-university-and-programme) that the institution and the programme are on MOEHE's lists <sup>[205](#o205)</sup>.
+Check as in [Step 1](#step-1-check-the-university-and-programme) that the institution and the programme are on MOEHE's lists <sup>[207](#o207)</sup>.
 
 #### Jobs outside the authorised routes
 
@@ -2237,7 +2325,7 @@ Check any issued visa by its number on MOI's Visa Inquiry, as in [Step 5](#step-
 
 ## Hayya A2, A3 and A4 (if you live in a Gulf country, hold certain visas or travel with a Gulf citizen)
 
-These Hayya visas are for Bangladeshis who live in a GCC country (A2), hold a valid visa or residence for certain Western countries (A3), or travel with a GCC citizen (A4) <sup>[1](#o1), [52](#o52)</sup>. The A2 and A3 are applied for on Hayya, as in Step 2 of the A1 <sup>[213](#o213), [178](#o178)</sup>. Both are tourist visas, single entry, valid 30 days, and the A1's rules on insurance, work and overstaying apply <sup>[52](#o52), [134 (2021)](#o134), [192](#o192)</sup>.
+These Hayya visas are for Bangladeshis who live in a GCC country (A2), hold a valid visa or residence for certain Western countries (A3), or travel with a GCC citizen (A4) <sup>[1](#o1), [52](#o52)</sup>. The A2 and A3 are applied for on Hayya, as in Step 2 of the A1 <sup>[213](#o213), [178](#o178)</sup>. Both are tourist visas, single entry, valid 30 days, and the A1's rules on insurance, work and overstaying apply <sup>[52](#o52), [132 (2021)](#o132), [192](#o192)</sup>.
 
 ### A2 (GCC Resident Visa)
 
@@ -2246,8 +2334,6 @@ For Bangladeshis resident in Bahrain, Kuwait, Oman, Saudi Arabia or the UAE, tra
 > **Need to know**
 > - Does Hayya approve an A2 for a profession not on MOI's approved list? <sup>[52](#o52), [14 (2019)](#o14)</sup>
 > - Must the GCC residence permit be valid 3 months from the application <sup>[52](#o52)</sup> or 6 months <sup>[14 (2019)](#o14)</sup>?
-
-### On arrival instead
 
 GCC residents can still get a visa on arrival <sup>[52](#o52)</sup>; MOI's is single trip, QR 100, 30 days, extendable <sup>[214](#o214)</sup>.
 
@@ -2288,7 +2374,7 @@ Hayya lists no medical visa; its A1 covers tourism and family visits <sup>[52](#
 > - What is the medical treatment visa's processing time? <sup>[14 (2019)](#o14), [52](#o52), [178](#o178)</sup>
 > - Has the medical visa MoPH was reported in April 2026 to be exploring, with an online portal for patients abroad to submit medical reports, launched? <sup>[N130](#n130)</sup>
 
-### Treatment costs
+#### Treatment costs
 
 Visitors are the first charged MoPH's treatment fees at public HMC and PHCC facilities <sup>[N131 (2023)](#n131)</sup>. Visitor health insurance (MVHI) covers emergencies only (Tourist visa, Step 1, item 6) <sup>[181](#o181)</sup>. An international policy that includes Qatar is accepted instead only if it meets MoPH standards, including covering the whole stay <sup>[184 (2022)](#o184), [N131 (2023)](#n131)</sup>.
 
@@ -2302,27 +2388,27 @@ Visitors are the first charged MoPH's treatment fees at public HMC and PHCC faci
 
 #### Who qualifies
 
-Under Law 10 of 2018 <sup>[144](#o144), [145 (2018)](#o145)</sup>:
+Under Law 10 of 2018 <sup>[145](#o145), [146 (2018)](#o146)</sup>:
 - 20 years of legal residence in Qatar (10 if born in Qatar);
 - enough income for your family;
 - good conduct with no conviction for a dishonourable offence;
 - enough Arabic.
 
-The years must be continuous: up to 60 days a year abroad does not break them, but those days are deducted <sup>[145 (2018)](#o145)</sup>. At most 100 permits are granted a year, unless the Amir approves more <sup>[145 (2018)](#o145)</sup>.
+The years must be continuous: up to 60 days a year abroad does not break them, but those days are deducted <sup>[146 (2018)](#o146)</sup>. At most 100 permits are granted a year, unless the Amir approves more <sup>[146 (2018)](#o146)</sup>.
 
 #### What it gives
 
-Treatment and education in government institutions, investment in set sectors without a Qatari partner, and property in designated areas <sup>[145 (2018)](#o145)</sup>. The holder's spouse and children under 18 share the residence, health and education privileges <sup>[145 (2018)](#o145)</sup>.
+Treatment and education in government institutions, investment in set sectors without a Qatari partner, and property in designated areas <sup>[146 (2018)](#o146)</sup>. The holder's spouse and children under 18 share the residence, health and education privileges <sup>[146 (2018)](#o146)</sup>.
 
 #### How to apply
 
-MOI's Permanent Residency page has an eligibility inquiry and an online application; contact info@moi.gov.qa <sup>[144](#o144)</sup>. A committee at MOI examines applications and recommends to the Minister of Interior, who decides <sup>[145 (2018)](#o145)</sup>.
+MOI's Permanent Residency page has an eligibility inquiry and an online application; contact info@moi.gov.qa <sup>[145](#o145)</sup>. A committee at MOI examines applications and recommends to the Minister of Interior, who decides <sup>[146 (2018)](#o146)</sup>.
 
 > **Need to know**
-> - What is the permanent residency fee, set by the Minister of Interior's decision? <sup>[145 (2018)](#o145)</sup>
-> - How long is the permanent residency card valid, as set by the Minister of Interior's decision? <sup>[145 (2018)](#o145)</sup>
-> - Can a permanent residency refusal be appealed? <sup>[145 (2018)](#o145)</sup>
-> - May a permanent resident work for any employer? <sup>[145 (2018)](#o145)</sup>
+> - What is the permanent residency fee, set by the Minister of Interior's decision? <sup>[146 (2018)](#o146)</sup>
+> - How long is the permanent residency card valid, as set by the Minister of Interior's decision? <sup>[146 (2018)](#o146)</sup>
+> - Can a permanent residency refusal be appealed? <sup>[146 (2018)](#o146)</sup>
+> - May a permanent resident work for any employer? <sup>[146 (2018)](#o146)</sup>
 
 ### Property residence
 
@@ -2371,15 +2457,15 @@ The residence regulations set residence visas for these people and their familie
 > - Which state body handles each route? <sup>[14 (2019)](#o14)</sup>
 > - What are the fees for each route? <sup>[14 (2019)](#o14)</sup>
 > - What are the processing times for each route? <sup>[14 (2019)](#o14)</sup>
-> - Have Bangladeshis received these visas? <sup>[14 (2019)](#o14), [217 (2023)](#o217), [145 (2018)](#o145)</sup>
-> - Can a refusal (including of property residence) be appealed? <sup>[14 (2019)](#o14), [217 (2023)](#o217), [145 (2018)](#o145)</sup>
-> - What scams are reported around permanent, property or investor residence? <sup>[14 (2019)](#o14), [217 (2023)](#o217), [145 (2018)](#o145)</sup>
+> - Have Bangladeshis received these visas? <sup>[14 (2019)](#o14), [217 (2023)](#o217), [146 (2018)](#o146)</sup>
+> - Can a refusal (including of property residence) be appealed? <sup>[14 (2019)](#o14), [217 (2023)](#o217), [146 (2018)](#o146)</sup>
+> - What scams are reported around permanent, property or investor residence? <sup>[14 (2019)](#o14), [217 (2023)](#o217), [146 (2018)](#o146)</sup>
 
 ## Changing visa type
 
 A foreigner admitted for a set purpose may not break it, leave the sponsor's employment without following the change-of-employer rules, or work for an entity he isn't authorised to work for; doing so is a crime (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported)) <sup>[3 (2015)](#o3), [47 (2020)](#o47)</sup>. A work entry permit is granted only under an employment contract with the employer bringing the worker in <sup>[3 (2015)](#o3)</sup>, and a work residence visa only with that contract certified <sup>[14 (2019)](#o14)</sup>. The residence regulations let the authority, in cases it decides, change the purpose of an entry visa inside Qatar while it is still valid <sup>[14 (2019)](#o14)</sup>.
 
-### Visit visa to work
+### Visit, tourist or business visa to work
 
 A Hayya visitor may not work in Qatar by law <sup>[52](#o52)</sup>. Check any issued visa by its number on MOI's Visa Inquiry, where it can be printed, as in Step 5 of the company work visa <sup>[83](#o83)</sup>. Buying or selling visas and working on a "free visa" are illegal (see [What can get you jailed or deported](#what-can-get-you-jailed-or-deported); for how the free visa works, see [Background](#background), part 4) <sup>[51 (2021)](#o51)</sup>. The 2019 regulations allow a change of purpose at the authority's discretion, MOI's earlier visa FAQ required leaving and re-entering, and Hayya's chief executive said in 2023 that Hayya can't be converted <sup>[14 (2019)](#o14), [77](#o77), [N62 (2023)](#n62)</sup>.
 
@@ -2387,7 +2473,7 @@ A Hayya visitor may not work in Qatar by law <sup>[52](#o52)</sup>. Check any is
 > - Can a visit visa (Hayya, family visit or business) be changed to a work visa inside Qatar in practice? <sup>[14 (2019)](#o14), [77](#o77), [N62 (2023)](#n62)</sup>
 > - What is the fee for changing a visit visa to a work visa inside Qatar? <sup>[14 (2019)](#o14), [77](#o77), [N62 (2023)](#n62)</sup>
 
-### Family residence to work
+### Family dependant to work
 
 Who on family residence may work is under Family residence, "Can family members work?"; a husband's residence may go back to the wife when the job ends <sup>[3 (2015)](#o3), [14 (2019)](#o14)</sup>. The move goes through MOL's "Join the Labour Market" e-service, or the holder or an employer applies for a work permit <sup>[N126](#n126)</sup>.
 
@@ -2407,21 +2493,21 @@ You'll need <sup>[N126](#n126), [N125](#n125)</sup>:
 
 ### Student to work
 
-A QU student may move the RP to a company only after graduation, within the deadlines under Student visa, "After graduation"; students of Arabic for Non-Native Speakers can't transfer <sup>[203](#o203)</sup>. A Sahem part-time contract ends at graduation <sup>[211](#o211)</sup>. For the reported Sahem one-year visa extension for job-seeking graduates, see [Student visa](#student-visa), "After graduation" <sup>[N129 (2023)](#n129)</sup>.
+A QU student may move the RP to a company only after graduation, within the deadlines under Student visa, "After graduation"; students of Arabic for Non-Native Speakers can't transfer <sup>[203](#o203)</sup>. A Sahem part-time contract ends at graduation <sup>[212](#o212)</sup>. For the reported Sahem one-year visa extension for job-seeking graduates, see [Student visa](#student-visa), "After graduation" <sup>[N129 (2023)](#n129)</sup>.
 
-### Changing employer is not changing visa type
-
-It keeps the work purpose and needs no consent or NOC from the old employer; see the company work visa, "If you want to change employer" <sup>[10 (2020)](#o10), [172 (2020)](#o172), [11](#o11), [47 (2020)](#o47)</sup>.
-
-### Domestic worker to company job
+### Domestic worker to a company job
 
 Any migrant worker may move to another employer under MOL's change-of-employer rules (Decree-Law No. 19 of 2020) <sup>[10 (2020)](#o10)</sup>. A domestic worker who works for the employer's parents, children or spouse is not breaking the rules <sup>[14 (2019)](#o14)</sup>.
 
 > **Need to know**
-> - Can a domestic worker move to a company job under the Labour Law, rather than to another household? <sup>[10 (2020)](#o10), [47 (2020)](#o47), [N107](#n107)</sup>
-> - How does a domestic worker make that move (see also Work visa: domestic worker, "Ending the job and changing employer")? <sup>[10 (2020)](#o10), [47 (2020)](#o47), [N107](#n107)</sup>
+> - Can a domestic worker move to a company job under the Labour Law, rather than to another household? <sup>[10 (2020)](#o10), [47 (2020)](#o47), [N109](#n109)</sup>
+> - How does a domestic worker make that move (see also Work visa: domestic worker, "Ending the job and changing employer")? <sup>[10 (2020)](#o10), [47 (2020)](#o47), [N109](#n109)</sup>
 
-### Change of profession on the RP
+### Company worker to another company
+
+It keeps the work purpose and needs no consent or NOC from the old employer; see the company work visa, "If you want to change employer" <sup>[10 (2020)](#o10), [172 (2020)](#o172), [11](#o11), [47 (2020)](#o47)</sup>.
+
+### Changing the job title on the permit
 
 MOL launched an online service in 2020 for changing the profession (job title) on the residence permit, applied for by the person or the company's authorised signatory with documents <sup>[N134 (2020)](#n134)</sup>.
 
@@ -2445,7 +2531,7 @@ A "political refugee" is a person outside his own country who cannot or will not
 
 Asylum is refused to anyone who committed a serious non-political crime outside Qatar, a war crime or crime against humanity, or acts against UN purposes, or who has another nationality whose protection is available <sup>[219 (2018)](#o219)</sup>.
 
-### The procedure
+### How to apply
 
 The application goes to MOI's Human Rights Department, from the applicant, a representative, or through UNHCR (the UN refugee agency), whose office is in the UN House in Lusail <sup>[219 (2018)](#o219), [221](#o221)</sup>. MOI's permanent Committee for Political Refugee Affairs, with members from MOI, Foreign Affairs, Justice, State Security and the National Human Rights Committee, examines it <sup>[219 (2018)](#o219)</sup>. On its recommendation the Minister may give the applicant temporary residence for three months, renewable, until a decision <sup>[219 (2018)](#o219)</sup>. A person given an entry visa as an asylum seeker or refugee must complete the medical examination and fingerprints within 15 days of entry <sup>[222 (2019)](#o222)</sup>. The Minister decides within three months of the committee's recommendation; no answer in that time counts as a rejection <sup>[219 (2018)](#o219)</sup>.
 
@@ -2477,7 +2563,7 @@ The father if present, the doctor who delivered the baby, hospital directors and
 You'll need <sup>[226 (2024)](#o226)</sup>:
 - copies of both parents' valid passports;
 - their residence permits, or entry visas if they are not residents;
-- the marriage contract attested by the official authorities. A Bangladeshi nikahnama is attested by Bangladesh's Law Ministry and Foreign Ministry and then by the Bangladesh Embassy in Doha, as in [Step 2](#step-2-register-the-birth-with-the-bangladesh-embassy-in-doha) of the company work visa <sup>[51 (2021)](#o51), [108](#o108)</sup>.
+- the marriage contract attested by the official authorities. A Bangladeshi nikahnama is attested by Bangladesh's Law Ministry and Foreign Ministry and then by the Bangladesh Embassy in Doha, as in [Step 2](#step-2-register-the-birth-with-the-bangladesh-embassy-in-doha) of the company work visa <sup>[51 (2021)](#o51), [106](#o106)</sup>.
 
 1. **Report the birth within 15 days** to MoPH's health offices, with the documents above <sup>[225 (2016)](#o225), [226 (2024)](#o226)</sup>.
 2. **Choose the name:** it may not be compound or against public order, and full siblings may not share one name <sup>[225 (2016)](#o225)</sup>. For the Bangladeshi registration it needs at least two words (for example "Sakhina Begum", not "Sakhina"), because one-word names cause passport problems abroad <sup>[227 (2023)](#o227)</sup>.
@@ -2493,7 +2579,7 @@ An expat guide says applying online is done at eservices.moph.gov.qa/bcmoi with 
 
 ### Step 2: Register the birth with the Bangladesh Embassy in Doha
 
-The Embassy registers the births of Bangladeshis born in Qatar, at Building 153, Street 820, Zone 43, New Al-Hilal, Doha; counter hours are under Contacts <sup>[229](#o229), [141](#o141)</sup>. It is free within 45 days of birth, then QR 10 up to ten years <sup>[229](#o229)</sup>.
+The Embassy registers the births of Bangladeshis born in Qatar, at Building 153, Street 820, Zone 43, New Al-Hilal, Doha; counter hours are under Contacts <sup>[229](#o229), [133](#o133)</sup>. It is free within 45 days of birth, then QR 10 up to ten years <sup>[229](#o229)</sup>.
 
 You'll need <sup>[230 (2023)](#o230)</sup>:
 - the MoPH birth certificate (original and a copy);
@@ -2512,7 +2598,7 @@ You'll need <sup>[230 (2023)](#o230)</sup>:
 
 ### Step 3: Get the baby a Bangladeshi e-passport
 
-A newborn applies with the Bangladeshi birth registration certificate and the Qatari birth certificate <sup>[232 (2024)](#o232)</sup>. An under-18 e-passport is valid 5 years with 48 pages <sup>[95](#o95)</sup>. At Bangladesh missions it costs <sup>[80](#o80)</sup>:
+A newborn applies with the Bangladeshi birth registration certificate and the Qatari birth certificate <sup>[232 (2024)](#o232)</sup>. An under-18 e-passport is valid 5 years with 48 pages <sup>[93](#o93)</sup>. At Bangladesh missions it costs <sup>[80](#o80)</sup>:
 - workers and students: USD 30 regular or USD 45 express;
 - general applicants: USD 100 regular or USD 150 express.
 
@@ -2522,34 +2608,34 @@ The Embassy sets the rate by the profession on the applicant's Qatar ID <sup>[23
 > - Which rate (worker/student or general) does the Embassy charge a baby, who has no Qatar ID yet? <sup>[232 (2024)](#o232), [80](#o80)</sup>
 
 1. Apply online at epassport.gov.bd and book an Embassy appointment, regular or express (express gets an earlier slot) <sup>[232 (2024)](#o232)</sup>.
-2. As the baby's ID document, enter the online birth registration certificate (English version) <sup>[95](#o95)</sup>.
-3. Give the father's or mother's NID number, because the baby has none <sup>[95](#o95)</sup>.
-4. In the permanent address column, give a contact address in Bangladesh <sup>[95](#o95)</sup>.
-5. Bring a 3R-size lab-print photo with a grey background, required for all applicants under 6 <sup>[95](#o95)</sup>.
+2. As the baby's ID document, enter the online birth registration certificate (English version) <sup>[93](#o93)</sup>.
+3. Give the father's or mother's NID number, because the baby has none <sup>[93](#o93)</sup>.
+4. In the permanent address column, give a contact address in Bangladesh <sup>[93](#o93)</sup>.
+5. Bring a 3R-size lab-print photo with a grey background, required for all applicants under 6 <sup>[93](#o93)</sup>.
 
    > **Need to know**
-   > - What are the photo's dimensions, given the instructions name only the 3R print size? <sup>[95](#o95)</sup>
+   > - What are the photo's dimensions, given the instructions name only the 3R print size? <sup>[93](#o93)</sup>
 
 6. Attend the enrolment in person with the documents; missing the appointment cancels the application, and a new application and appointment are then needed <sup>[232 (2024)](#o232)</sup>.
 7. Attend the collection: a signature is taken on delivery <sup>[232 (2024)](#o232)</sup>.
 
 ### Step 4: Apply for the baby's Qatar residence permit
 
-A resident whose family is licensed to live in Qatar must apply for the newborn's RP within 90 days of birth <sup>[3 (2015)](#o3)</sup>. Apply at an MOI Service Centre (Expatriate Affairs), where first-time RPs are issued; MOI's fee is QR 400 <sup>[124](#o124)</sup>.
+A resident whose family is licensed to live in Qatar must apply for the newborn's RP within 90 days of birth <sup>[3 (2015)](#o3)</sup>. Apply at an MOI Service Centre (Expatriate Affairs), where first-time RPs are issued; MOI's fee is QR 400 <sup>[122](#o122)</sup>.
 
 An expat guide says the father applies (at an MOI Service Centre or on Metrash, with the baby's original birth certificate, passport and a blue-background photo) and sponsors if the mother is on his family visa, and the mother sponsors if both parents are on work visas, with an NOC from her sponsor and the father's salary certificate and bank statement <sup>[N136](#n136)</sup>.
 
 > **Need to know**
-> - What is MOI's own document list for a newborn's RP? <sup>[124](#o124)</sup>
-> - Does MOI's first-time RP list (form signed by the sponsor, original passport, photo, blood group certificate) apply to a newborn? <sup>[124](#o124)</sup>
+> - What is MOI's own document list for a newborn's RP? <sup>[122](#o122)</sup>
+> - Does MOI's first-time RP list (form signed by the sponsor, original passport, photo, blood group certificate) apply to a newborn? <sup>[122](#o122)</sup>
 > - Who may sponsor the baby?
-> - Is the fee QR 400 <sup>[124](#o124)</sup>, or QR 200 for the visa plus QR 500 a year for the QID <sup>[N136](#n136)</sup>?
+> - Is the fee QR 400 <sup>[122](#o122)</sup>, or QR 200 for the visa plus QR 500 a year for the QID <sup>[N136](#n136)</sup>?
 
 **A baby born to a mother on a visit visa:** the sponsor must apply within 60 days of birth, and the baby gets an entry (visit) visa if the mother's visa is valid and the baby has a Qatari birth certificate and a travel document <sup>[3 (2015)](#o3), [14 (2019)](#o14)</sup>.
 
 ### If the parents have no family residence
 
-The 90-day newborn rule is written for a resident licensed to have his family in Qatar <sup>[3 (2015)](#o3)</sup>, and family residence needs the sponsor's attested employment contract showing profession and salary, and is granted only for the jobs and salaries under Family residence, "Who qualifies" <sup>[14 (2019)](#o14), [170 (2023)](#o170)</sup>. For a baby born abroad, the regulations accept a mother who is resident and sponsors her family <sup>[14 (2019)](#o14)</sup>. A QU student can't sponsor family members <sup>[203](#o203)</sup>. Unmarried parents: the birth report needs the marriage contract <sup>[226 (2024)](#o226)</sup>, and see [Step 1](#step-1-get-the-qatari-birth-certificate) for a child born outside marriage <sup>[228](#o228)</sup>.
+The 90-day newborn rule is written for a resident licensed to have his family in Qatar <sup>[3 (2015)](#o3)</sup>, and family residence needs the sponsor's attested employment contract showing profession and salary, and is granted only for the jobs and salaries under Family residence, "Who qualifies" <sup>[14 (2019)](#o14), [148 (2023)](#o148)</sup>. For a baby born abroad, the regulations accept a mother who is resident and sponsors her family <sup>[14 (2019)](#o14)</sup>. A QU student can't sponsor family members <sup>[203](#o203)</sup>. Unmarried parents: the birth report needs the marriage contract <sup>[226 (2024)](#o226)</sup>, and see [Step 1](#step-1-get-the-qatari-birth-certificate) for a child born outside marriage <sup>[228](#o228)</sup>.
 
 > **Need to know**
 > - How does a woman company worker or domestic worker without family residence get an RP for a baby born in Qatar? <sup>[3 (2015)](#o3), [203](#o203)</sup>
@@ -2558,13 +2644,13 @@ The 90-day newborn rule is written for a resident licensed to have his family in
 
 ### If the baby is born outside Qatar
 
-A baby born abroad to a parent with a valid Qatar RP may enter Qatar within six months of birth (the authority may waive this) <sup>[3 (2015)](#o3)</sup>. The residence visa is granted on arrival if the original birth certificate is attested by the Qatari embassy, the baby has not been outside Qatar more than six months since birth, the parents have valid residence (or the mother sponsors her family) and the baby has its own valid travel document <sup>[14 (2019)](#o14)</sup>. The RP fee is the QR 400 in [Step 4](#step-4-apply-for-the-babys-qatar-residence-permit) <sup>[124](#o124)</sup>.
+A baby born abroad to a parent with a valid Qatar RP may enter Qatar within six months of birth (the authority may waive this) <sup>[3 (2015)](#o3)</sup>. The residence visa is granted on arrival if the original birth certificate is attested by the Qatari embassy, the baby has not been outside Qatar more than six months since birth, the parents have valid residence (or the mother sponsors her family) and the baby has its own valid travel document <sup>[14 (2019)](#o14)</sup>. The RP fee is the QR 400 in [Step 4](#step-4-apply-for-the-babys-qatar-residence-permit) <sup>[122](#o122)</sup>.
 
 ## Sending money home
 
 ### Use a bank or licensed exchange house, never hundi
 
-Bangladesh's government asks workers to send money only through legal channels <sup>[44](#o44)</sup>, and MOI warns against anyone offering "attractive" rates outside approved exchange companies and banks <sup>[N101 (2022)](#n101)</sup>. Exchange houses in Qatar are supervised by QCB's Other Financial Institutions Supervision Department <sup>[233](#o233)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[46](#o46), [234](#o234)</sup>.
+Bangladesh's government asks workers to send money only through legal channels <sup>[44](#o44)</sup>, and MOI warns against anyone offering "attractive" rates outside approved exchange companies and banks <sup>[N98 (2022)](#n98)</sup>. Exchange houses in Qatar are supervised by QCB's Other Financial Institutions Supervision Department <sup>[233](#o233)</sup>. Money sent through legal channels earns the receiver a 2.5% government cash incentive, sometimes with a further 2.5% from the bank, and the 2026-27 budget keeps the government incentive <sup>[46](#o46), [234](#o234)</sup>.
 
 You'll need:
 - For a bKash wallet: the receiver's bKash number and full name exactly as registered <sup>[46](#o46)</sup>.
@@ -2580,7 +2666,7 @@ You'll need:
 4. **The family collects.** bKash money can be cashed out at BRAC Bank and City Bank ATM booths, among others, for Tk 7 per thousand <sup>[46](#o46)</sup>.
 
 > **Need to know**
-> - Does money used to buy Wage Earner Development Bonds (see [Saving in Bangladesh](#saving-in-bangladesh)) or US Dollar bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N137](#n137)</sup>?
+> - Does money used to buy Wage Earner Development Bonds (see Saving in Bangladesh) or US Dollar bonds, freelancing income, gifts, trade payments or donations get the 2.5% incentive, when a bank's 2025 guide says not <sup>[N137](#n137)</sup>?
 > - Where does a worker check that a Qatar exchange house is licensed by QCB <sup>[233](#o233)</sup>?
 > - Which Qatar exchange houses have drawing arrangements with Bangladeshi banks <sup>[235](#o235)</sup>?
 
@@ -2588,7 +2674,7 @@ You'll need:
 - QCB consumer protection: 44456412 or 44456456, Qatar Central Bank, Abdullah bin Jasim Street (No. 810), Al Souq, Doha <sup>[238](#o238)</sup>.
 - bKash helpline: 16247, or +88-02-55663001 from a country not listed <sup>[46](#o46)</sup>.
 
-### Saving in Bangladesh
+### Saving and pension in Bangladesh
 
 #### NRCTA (Non-Resident Convertible Taka Account)
 
@@ -2607,18 +2693,19 @@ A 5-year government bond <sup>[240](#o240)</sup>.
 > **Need to know**
 > - Which exchange houses in Qatar sell the WEDB now, given that in 2021 the Embassy named Arabian Exchange Co's main branch, Mushaireb, where buyers brought a salary certificate or contract, valid QID, passport, the nominee's NID or passport copy, and photos <sup>[241 (2021)](#o241)</sup>?
 
-### Saving in Bangladesh: the Probash universal pension
+#### The Probash universal pension
 
 The National Pension Authority's Universal Pension "Probash" scheme is for Bangladeshis working or living abroad: you pay in foreign currency and the pension is paid in taka <sup>[242](#o242)</sup>. You join at 18 to 50 with your NID or passport number; over 50 only under special consideration, paying 10 years without a break <sup>[243 (2024)](#o243)</sup>. You pay until 60, and the pension is paid for life <sup>[242](#o242)</sup>. The monthly contribution is Tk 1,000, 2,000, 5,000, 7,500 or 10,000 <sup>[244](#o244)</sup>.
 
 > **Need to know**
 > - Is the Tk 1,000 contribution still offered, when the scheme's English brief lists only the other four <sup>[242](#o242)</sup>?
 
-#### What you get
+##### What you get
 
 On the scheme's estimates, Tk 1,000 a month for 10 years gives about Tk 1,530 a month, and for 30 years about Tk 12,466 <sup>[244](#o244)</sup>. If you die, your nominee gets the pension until you would have turned 75; if you die before paying 10 years, the deposit comes back with profit <sup>[242](#o242)</sup>. You can borrow up to 50% of your deposit, repaid in up to 24 instalments, and the pension is income-tax free <sup>[242](#o242), [245](#o245)</sup>.
 
-#### The rules
+##### The rules
+
 - No lump-sum withdrawal and no leaving before pension age <sup>[245](#o245)</sup>.
 - A late contribution has 1 month's grace, then a late fee of 1% a day <sup>[245](#o245)</sup>.
 - Never give anyone cash for contributions <sup>[245](#o245)</sup>.
@@ -2652,7 +2739,7 @@ A close relative in Bangladesh can ask the Ministry to help bring a worker home;
 
 ### Step 1: Get a passport or Travel Permit
 
-With a valid passport, go to [Step 2](#step-2-settle-your-residence-status). A new e-passport at a Bangladesh mission costs workers USD 30 regular or USD 45 express (48 pages, 5 years) <sup>[80](#o80)</sup>. If you stay in Qatar on a new passport, the RP is moved to it for QR 100 (see Step 7 of the company work visa) <sup>[127](#o127)</sup>.
+With a valid passport, go to [Step 2](#step-2-settle-your-residence-status). A new e-passport at a Bangladesh mission costs workers USD 30 regular or USD 45 express (48 pages, 5 years) <sup>[80](#o80)</sup>. If you stay in Qatar on a new passport, the RP is moved to it for QR 100 (see Step 7 of the company work visa) <sup>[125](#o125)</sup>.
 
 > **Need to know**
 > - Does the Embassy still extend a passport that has only expired, as its 2021 FAQ said <sup>[51 (2021)](#o51)</sup>?
@@ -2685,7 +2772,7 @@ You come in person for an interview <sup>[246](#o246)</sup>.
 
 **If it fails:**
 - The Embassy's Passport and Visa Wing: +974-4039 4628, qatarpassportandvisawing@gmail.com <sup>[92](#o92)</sup>.
-- Embassy hotline: +974 3366 2000, mission.doha@mofa.gov.bd <sup>[160](#o160)</sup>.
+- Embassy hotline: +974 3366 2000, mission.doha@mofa.gov.bd <sup>[137](#o137)</sup>.
 
 ### Step 2: Settle your residence status
 
@@ -2699,16 +2786,20 @@ You come in person for an interview <sup>[246](#o246)</sup>.
 
 ### Step 3: Check for fines and travel bans before the airport
 
-1. **Pay fines and get travel bans lifted** first, as in Leaving at the end of the job, step 6 <sup>[N110](#n110), [N111](#n111)</sup>.
+1. **Pay fines and get travel bans lifted** first, as in Leaving at the end of the job, step 6 <sup>[N112](#n112), [N113](#n113)</sup>.
 2. **If you are stopped from leaving,** complain to the Expatriate Exit Grievances Committee, as in How long you can stay <sup>[3 (2015)](#o3)</sup>.
-3. **On arrival in Bangladesh,** the airport welfare desks give food and water to returnees on an outpass or from jail (see [Coming home](#coming-home)) <sup>[94](#o94)</sup>.
+3. **On arrival in Bangladesh,** the airport welfare desks give food and water to returnees on an outpass or from jail (see [Coming home](#coming-home)) <sup>[136](#o136)</sup>.
 
-### Grace periods and crisis flights
+### Amnesties and grace periods
 
 MOI sometimes gives people breaking the residence law a grace period to leave: one ran for three months from 9 February 2025, at Hamad International Airport or the Search and Follow-up Department on Salwa Road, 1 pm-9 pm <sup>[N56](#n56)</sup>. In a crisis the Embassy may arrange flights: in March 2026 it worked with Qatar Airways on a special flight, families, women, children and the elderly first, and collected names through a Google Form on its official social media <sup>[N139](#n139)</sup>.
 
 > **Need to know**
 > - Is a grace period open now <sup>[N56](#n56)</sup>?
+
+### If you are detained
+
+You can be held in a designated place for 30 days, renewable once <sup>[3 (2015)](#o3)</sup>. The recruiter pays the deportation costs; if you were working illegally for another entity, that entity pays; if it can't be identified you pay, and if you can't, the recruiter pays <sup>[3 (2015)](#o3)</sup>.
 
 ### Bans after you leave
 
@@ -2716,11 +2807,27 @@ The bans on working in Qatar again are under What can get you jailed or deported
 
 ## If a worker dies, is injured or loses the job
 
-Qatar's Labour Law makes the employer pay the worker's dues, compensation for work deaths and injuries, and the cost of sending a body home <sup>[2 (2004)](#o2)</sup>. WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[248](#o248), [119 (2024)](#o119)</sup>. The Embassy's labour wing pursues compensation; Bangladesh's labour wings recovered Tk 127.6 crore (1 crore is Tk 10 million) in 1,852 cases of death compensation, wages and benefits in 2023-24 <sup>[249 (2021)](#o249), [142 (2024)](#o142)</sup>.
+Qatar's Labour Law makes the employer pay the worker's dues, compensation for work deaths and injuries, and the cost of sending a body home <sup>[2 (2004)](#o2)</sup>. WEWB pays grants and helps with the migrant insurance for workers who left with BMET clearance or joined the Board <sup>[248](#o248), [117 (2024)](#o117)</sup>. The Embassy's labour wing pursues compensation; Bangladesh's labour wings recovered Tk 127.6 crore (1 crore is Tk 10 million) in 1,852 cases of death compensation, wages and benefits in 2023-24 <sup>[249 (2021)](#o249), [134 (2024)](#o134)</sup>.
 
 ### Check you are covered
 
-WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for <sup>[248](#o248)</sup>. Workers with a BMET clearance card are members automatically; to check, or to join from Qatar if you left without clearance, see Your rights at work <sup>[51 (2021)](#o51), [118](#o118)</sup>. Workers cleared on or after 12 March 2023 also have the JBC migrant insurance (company work visa, Step 6) <sup>[44](#o44), [119 (2024)](#o119)</sup>.
+WEWB's death grant needs BMET emigration clearance or Board membership, and death in the country the clearance was for <sup>[248](#o248)</sup>. Workers with a BMET clearance card are members automatically; to check, or to join from Qatar if you left without clearance, see Your rights at work <sup>[51 (2021)](#o51), [116](#o116)</sup>. Workers cleared on or after 12 March 2023 also have the JBC migrant insurance (company work visa, Step 6) <sup>[44](#o44), [117 (2024)](#o117)</sup>.
+
+### If you are injured or fall ill
+
+1. **Treatment and pay.** The employer pays for treatment and full pay for up to six months, then half pay until recovery or permanent disability is established <sup>[2 (2004)](#o2)</sup>.
+2. **Compensation in Qatar.** Permanent total disability counts as death; partial disability is a percentage under the Labour Law's Schedule 2 <sup>[2 (2004)](#o2)</sup>. The employer pays within 15 days of the disability being established <sup>[2 (2004)](#o2)</sup>. If worker and employer disagree on a medical question, MOL refers it to the competent medical body, whose decision is final <sup>[2 (2004)](#o2)</sup>. Nothing is paid if the worker injured himself on purpose, was under drugs or alcohol that caused the injury, deliberately broke safety rules, or refused treatment without good reason <sup>[2 (2004)](#o2)</sup>. The claim lapses one year after the final medical report <sup>[2 (2004)](#o2)</sup>. A Bangladeshi worker blinded in a work accident said his case against the employer was dismissed and he got nothing <sup>[N61 (2022)](#n61)</sup>.
+3. **Going home sick or injured.** The Embassy visits hospitals and, at the hospital's or relatives' request, arranges repatriation of poor and sick Bangladeshis <sup>[250 (2021)](#o250)</sup>. On the worker's or family's application, with proof of clearance or membership and a passport copy, WEWB asks the Embassy to bring the worker home and in special cases helps with hospital admission <sup>[251](#o251)</sup>. A free ambulance from Dhaka and Chattogram airports takes injured or sick returnees on request <sup>[252](#o252)</sup>.
+4. **Treatment aid in Bangladesh.** Returnees with clearance or membership can get up to Tk 2 lakh for treatment; apply within 1 year of return with medical reports and prescriptions, a bank statement, a copy of the arrival stamp and the passport <sup>[253](#o253)</sup>.
+5. **The insurance.** It pays 100% of Tk 10 lakh for total permanent disability, and for partial disability <sup>[117 (2024)](#o117), [44](#o44)</sup>:
+   - 90%: whole arm or leg.
+   - 75%: arm at the elbow or leg below the knee.
+   - 50%: one eye or one hand at the wrist.
+   - 25%: lower jaw, or four fingers with thumb.
+   - 15%: thumb, index or middle finger, or all toes.
+   - 10%: ring or little finger, the big toe, any one other toe, or four toes including the big toe.
+
+   If the worker later dies, the death claim pays the sum insured minus what was paid for the partial disability <sup>[117 (2024)](#o117)</sup>. Claims go through WEWB to JBC, as in If a worker dies, step 7 <sup>[117 (2024)](#o117)</sup>.
 
 ### If a worker dies
 
@@ -2734,9 +2841,9 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
    - The NID or passport copy and phone of the person receiving the body in Bangladesh.
 
    Take these to the Embassy labour wing for its NOC, then take that NOC to the Hamad Hospital mortuary, which sends the body home <sup>[51 (2021)](#o51)</sup>.
-3. **Body home or burial in Qatar.** The employer pays to prepare and send the body home if the family asks; if it doesn't, the labour ministry does it at the employer's cost <sup>[2 (2004)](#o2)</sup>. The employer first needs the Embassy's NOC; in exceptional cases the Embassy arranges repatriation with relatives, the community or WEWB <sup>[250 (2021)](#o250)</sup>. Under the residence law the recruiter pays for burial in Qatar or, if an heir asks, transport home <sup>[3 (2015)](#o3)</sup>. Burial in Qatar needs the same papers plus a local-burial NOC from the hospital's Public Health Department, the heirs' certificate and the heirs' no-objection letter <sup>[51 (2021)](#o51)</sup>.
-4. **The family in Bangladesh can ask for help.** WEWB takes the family's choice (body home or burial in Qatar) to the Embassy and follows the case until the body arrives, free <sup>[251](#o251), [252](#o252)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status (passport, work permit, smart card or Qatar ID) and the death certificate; free, 7 working days <sup>[91](#o91)</sup>. Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[65](#o65)</sup>.
-5. **At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial, free and at once, collectable within 3 months <sup>[253](#o253), [94](#o94)</sup>. A free ambulance from Dhaka and Chattogram airports is available on request <sup>[254](#o254)</sup>. You'll need <sup>[94](#o94), [253](#o253)</sup>:
+3. **Body home or burial in Qatar.** The employer pays to prepare and send the body home if the family asks; if it doesn't, the labour ministry does it at the employer's cost <sup>[2 (2004)](#o2)</sup>. The employer first needs the Embassy's NOC; in exceptional cases the Embassy arranges repatriation with relatives, the community or WEWB <sup>[254 (2021)](#o254)</sup>. Under the residence law the recruiter pays for burial in Qatar or, if an heir asks, transport home <sup>[3 (2015)](#o3)</sup>. Burial in Qatar needs the same papers plus a local-burial NOC from the hospital's Public Health Department, the heirs' certificate and the heirs' no-objection letter <sup>[51 (2021)](#o51)</sup>.
+4. **The family in Bangladesh can ask for help.** WEWB takes the family's choice (body home or burial in Qatar) to the Embassy and follows the case until the body arrives, free <sup>[255](#o255), [256](#o256)</sup>. The Ministry also brings home the bodies of irregular, undocumented and destitute workers: the next of kin applies with what happened, the cause of death, proof of status (passport, work permit, smart card or Qatar ID) and the death certificate; free, 7 working days <sup>[91](#o91)</sup>. Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[65](#o65)</sup>.
+5. **At the airport: Tk 35,000.** For every body that arrives, the airport welfare desk gives the family a Tk 35,000 cheque for transport and burial, free and at once, collectable within 3 months <sup>[257](#o257), [136](#o136)</sup>. A free ambulance from Dhaka and Chattogram airports is available on request <sup>[252](#o252)</sup>. You'll need <sup>[136](#o136), [257](#o257)</sup>:
    - The deceased's passport copy.
    - A heirship certificate from the local chairman or commissioner.
    - The NID of the wife, father or mother.
@@ -2752,83 +2859,69 @@ WEWB's death grant needs BMET emigration clearance or Board membership, and deat
    - A bank statement with the routing number.
    - Attested colour photos of each family member.
    - The deceased's passport copy.
-7. **The insurance: Tk 10 lakh.** It pays 100% for natural death, and for accidental death during the cover or within 90 days after it ends <sup>[119 (2024)](#o119)</sup>. WEWB checks the claim papers and recommends to JBC, which pays WEWB <sup>[119 (2024)](#o119)</sup>; WEWB helps the family claim with proof of clearance or membership and a passport copy, free, on 16135 <sup>[255](#o255)</sup>.
+7. **The insurance: Tk 10 lakh.** It pays 100% for natural death, and for accidental death during the cover or within 90 days after it ends <sup>[117 (2024)](#o117)</sup>. WEWB checks the claim papers and recommends to JBC, which pays WEWB <sup>[117 (2024)](#o117)</sup>; WEWB helps the family claim with proof of clearance or membership and a passport copy, free, on 16135 <sup>[258](#o258)</sup>.
 
    > **Need to know**
-   > - What are JBC's official claim form, document list and exclusions <sup>[119 (2024)](#o119)</sup>?
+   > - What are JBC's official claim form, document list and exclusions <sup>[117 (2024)](#o117)</sup>?
    > - Must the family apply for the death payment, or does it reach the worker's bank account without an application, as a 2024 news report says <sup>[N140 (2024)](#n140)</sup>?
    > - Does the insurance exclude suicide or self-harm within 6 months of cover, HIV/AIDS, dangerous sports, alcohol or drug addiction, war or riot, criminal attack and court execution, as the same report says <sup>[N140 (2024)](#n140)</sup>?
 8. **Money owed in Qatar.** The employer must deposit all wages, other dues and the gratuity with the court within 15 days of the death; the court pays the heirs under Islamic law or the personal status law of the worker's country <sup>[2 (2004)](#o2)</sup>. For a death caused by work, the heirs are owed compensation calculated under Islamic law <sup>[2 (2004)](#o2)</sup>, deposited with the court within 15 days of the death or of the investigation confirming the cause <sup>[2 (2004)](#o2)</sup>. The claim lapses one year after the death <sup>[2 (2004)](#o2)</sup>.
 
-   **To claim it,** the heirs make a power of attorney, attested by Bangladesh's Law and Foreign ministries and sent to the Embassy; Qatar's Foreign Ministry then attests it and a copy is filed with Qatar's Public Prosecution <sup>[51 (2021)](#o51)</sup>. WEWB's legal cell helps prepare it; the family gives a family-members certificate, a Tk 400 non-judicial stamp undertaking, a bank statement with routing number and 2 colour photos of each heir <sup>[256](#o256)</sup>. The Embassy's enlisted lawyer takes the case; the cheque goes to the Embassy, then WEWB, which pays the heirs <sup>[249 (2021)](#o249)</sup>.
+   **To claim it,** the heirs make a power of attorney, attested by Bangladesh's Law and Foreign ministries and sent to the Embassy; Qatar's Foreign Ministry then attests it and a copy is filed with Qatar's Public Prosecution <sup>[51 (2021)](#o51)</sup>. WEWB's legal cell helps prepare it; the family gives a family-members certificate, a Tk 400 non-judicial stamp undertaking, a bank statement with routing number and 2 colour photos of each heir <sup>[259](#o259)</sup>. The Embassy's enlisted lawyer takes the case; the cheque goes to the Embassy, then WEWB, which pays the heirs <sup>[249 (2021)](#o249)</sup>.
 
    **Other routes:**
-   - The WSIF: the heirs apply with proof of the death and of who the heirs are, and a notarised power of attorney to whoever deals with the Fund; the Fund may pay early when the worker has died <sup>[158 (2022)](#o158)</sup>.
+   - The WSIF: the heirs apply with proof of the death and of who the heirs are, and a notarised power of attorney to whoever deals with the Fund; the Fund may pay early when the worker has died <sup>[160 (2022)](#o160)</sup>.
    - The Ministry: the next of kin applies to aswelfare@probashi.gov.bd with proof of status, employer details and amounts owed; free; the Ministry writes to the Embassy and WEWB within 7 working days <sup>[91](#o91)</sup>.
 
 #### What happens in practice
 
 71% of deaths of Bangladeshis in Qatar from November 2016 to October 2020 were recorded as "natural causes" <sup>[N141 (2021)](#n141)</sup>. Without investigation or post-mortem, such a certificate rules out compensation from the employer or Qatar <sup>[N141 (2021)](#n141)</sup>; none of the families of six workers whose deaths Amnesty International investigated had been compensated <sup>[N141 (2021)](#n141)</sup>. When five Bangladeshis died in a road crash in Al-Shahaniya on 21 June 2026, the labour wing did the legal steps and WEWB paid to fly the bodies to Sylhet nine days later <sup>[N142](#n142), [N143](#n143)</sup>; the families got the Tk 3 lakh cheques about two months after the deaths <sup>[N144](#n144)</sup>.
 
-### If you are injured or fall ill
-
-1. **Treatment and pay.** The employer pays for treatment and full pay for up to six months, then half pay until recovery or permanent disability is established <sup>[2 (2004)](#o2)</sup>.
-2. **Compensation in Qatar.** Permanent total disability counts as death; partial disability is a percentage under the Labour Law's Schedule 2 <sup>[2 (2004)](#o2)</sup>. The employer pays within 15 days of the disability being established <sup>[2 (2004)](#o2)</sup>. If worker and employer disagree on a medical question, MOL refers it to the competent medical body, whose decision is final <sup>[2 (2004)](#o2)</sup>. Nothing is paid if the worker injured himself on purpose, was under drugs or alcohol that caused the injury, deliberately broke safety rules, or refused treatment without good reason <sup>[2 (2004)](#o2)</sup>. The claim lapses one year after the final medical report <sup>[2 (2004)](#o2)</sup>. A Bangladeshi worker blinded in a work accident said his case against the employer was dismissed and he got nothing <sup>[N61 (2022)](#n61)</sup>.
-3. **Going home sick or injured.** The Embassy visits hospitals and, at the hospital's or relatives' request, arranges repatriation of poor and sick Bangladeshis <sup>[257 (2021)](#o257)</sup>. On the worker's or family's application, with proof of clearance or membership and a passport copy, WEWB asks the Embassy to bring the worker home and in special cases helps with hospital admission <sup>[258](#o258)</sup>. A free ambulance from Dhaka and Chattogram airports takes injured or sick returnees on request <sup>[254](#o254)</sup>.
-4. **Treatment aid in Bangladesh.** Returnees with clearance or membership can get up to Tk 2 lakh for treatment; apply within 1 year of return with medical reports and prescriptions, a bank statement, a copy of the arrival stamp and the passport <sup>[259](#o259)</sup>.
-5. **The insurance.** It pays 100% of Tk 10 lakh for total permanent disability, and for partial disability <sup>[119 (2024)](#o119), [44](#o44)</sup>:
-   - 90%: whole arm or leg.
-   - 75%: arm at the elbow or leg below the knee.
-   - 50%: one eye or one hand at the wrist.
-   - 25%: lower jaw, or four fingers with thumb.
-   - 15%: thumb, index or middle finger, or all toes.
-   - 10%: ring or little finger, the big toe, any one other toe, or four toes including the big toe.
-
-   If the worker later dies, the death claim pays the sum insured minus what was paid for the partial disability <sup>[119 (2024)](#o119)</sup>. Claims go through WEWB to JBC, as in If a worker dies, step 7 <sup>[119 (2024)](#o119)</sup>.
-
 ### If you lose the job
 
-1. **Your rights in Qatar.** An unpaid worker may change employer or end the contract, with the journey home at the employer's cost ([If you aren't paid](#if-you-arent-paid)) <sup>[4](#o4)</sup>. At the end of a contract you are owed your wage and dues by the end of the next working day, the gratuity and the ticket home ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[2 (2004)](#o2)</sup>.
-2. **If the company closes,** the WSIF pays its workers at most two months' gross salary, up to QR 12,000 <sup>[158 (2022)](#o158)</sup>. A signed settlement blocks a WSIF claim ([If you aren't paid](#if-you-arent-paid), step 5) <sup>[158 (2022)](#o158)</sup>.
-3. **After you leave Qatar for good,** the Fund may pay early, and a representative can apply with a notarised power of attorney <sup>[158 (2022)](#o158)</sup>. From Bangladesh, you or your family can apply to the Ministry about unpaid wages, allowances or insurance, as in If you aren't paid, step 9 <sup>[91](#o91)</sup>.
-4. **Job-loss insurance.** Tk 50,000 if you lose the job and return within 6 months of going, but not if you went entirely at the employer's cost <sup>[119 (2024)](#o119), [44](#o44)</sup>. Claim through WEWB with proof of clearance or membership and a passport copy; free <sup>[255](#o255)</sup>.
+1. **Your rights in Qatar.** An unpaid worker may change employer or end the contract, with the journey home at the employer's cost (If you aren't paid) <sup>[4](#o4)</sup>. At the end of a contract you are owed your wage and dues by the end of the next working day, the gratuity and the ticket home ([Leaving at the end of the job](#leaving-at-the-end-of-the-job)) <sup>[2 (2004)](#o2)</sup>.
+2. **If the company closes,** the WSIF pays its workers at most two months' gross salary, up to QR 12,000 <sup>[160 (2022)](#o160)</sup>. A signed settlement blocks a WSIF claim (If you aren't paid, step 5) <sup>[160 (2022)](#o160)</sup>.
+3. **After you leave Qatar for good,** the Fund may pay early, and a representative can apply with a notarised power of attorney <sup>[160 (2022)](#o160)</sup>. From Bangladesh, you or your family can apply to the Ministry about unpaid wages, allowances or insurance, as in If you aren't paid, step 9 <sup>[91](#o91)</sup>.
+4. **Job-loss insurance.** Tk 50,000 if you lose the job and return within 6 months of going, but not if you went entirely at the employer's cost <sup>[117 (2024)](#o117), [44](#o44)</sup>. Claim through WEWB with proof of clearance or membership and a passport copy; free <sup>[258](#o258)</sup>.
 5. **If you can't get home,** a relative in Bangladesh can ask the Ministry for help ([Going home without valid papers](#going-home-without-valid-papers)) <sup>[91](#o91)</sup>.
 
 **If a claim stalls:**
 - Probash-Bondhu: 16135, +8809610102030 from abroad <sup>[65](#o65)</sup>.
-- JBC Group Insurance: 02-223381423, gid@jbc.gov.bd <sup>[119 (2024)](#o119)</sup>.
-- WEWB complaints focal person: 02-222220976, ad.pro@wewb.gov.bd <sup>[142 (2024)](#o142)</sup>.
+- JBC Group Insurance: 02-223381423, gid@jbc.gov.bd <sup>[117 (2024)](#o117)</sup>.
+- WEWB complaints focal person: 02-222220976, ad.pro@wewb.gov.bd <sup>[134 (2024)](#o134)</sup>.
 
 ## Coming home
 
 At Dhaka, Chattogram and Sylhet airports, WEWB's Probashi Kallyan (expatriate welfare) desks meet returning workers <sup>[17](#o17)</sup>.
 
-1. **Leaving Qatar with cash or gold.** Declare cash, cheques, gold or other precious metals or stones worth QR 50,000 or more to Qatar Customs ([Leaving at the end of the job](#leaving-at-the-end-of-the-job), step 7) <sup>[164 (2019)](#o164)</sup>.
-2. **At the airport in Bangladesh.** The welfare desks help with customs and lost luggage, send sick returnees to hospital by ambulance, arrange a stay at the Wage Earners' Centre, and take complaints from abused or cheated returnees <sup>[94](#o94)</sup>. Women back within 1 year after abuse or fraud get Tk 5,000 in cash <sup>[17](#o17)</sup>, and workers back because of war, disaster or lay-off can get financial help <sup>[94](#o94)</sup>. Desks:
-   - Dhaka: +88 02 8901040, mobile +880 1971 430203, welfaredesk@gmail.com <sup>[94](#o94)</sup>.
-   - Chattogram: +880 2333300957, mobile +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[94](#o94)</sup>.
-   - Sylhet: 01321158330, mobile 01973-898375, pkdsylhet@gmail.com <sup>[94](#o94)</sup>.
+1. **Leaving Qatar with cash or gold.** Declare cash, cheques, gold or other precious metals or stones worth QR 50,000 or more to Qatar Customs ([Leaving at the end of the job](#leaving-at-the-end-of-the-job), step 7) <sup>[166 (2019)](#o166)</sup>.
+2. **At the airport in Bangladesh.** The welfare desks help with customs and lost luggage, send sick returnees to hospital by ambulance, arrange a stay at the Wage Earners' Centre, and take complaints from abused or cheated returnees <sup>[136](#o136)</sup>. Women back within 1 year after abuse or fraud get Tk 5,000 in cash <sup>[17](#o17)</sup>, and workers back because of war, disaster or lay-off can get financial help <sup>[136](#o136)</sup>. Desks:
+   - Dhaka: +88 02 8901040, mobile +880 1971 430203, welfaredesk@gmail.com <sup>[136](#o136)</sup>.
+   - Chattogram: +880 2333300957, mobile +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[136](#o136)</sup>.
+   - Sylhet: 01321158330, mobile 01973-898375, pkdsylhet@gmail.com <sup>[136](#o136)</sup>.
 
    > **Need to know**
-   > - Which desk numbers answer now, given that BMET's citizen charter gives Chattogram 01913631797, pkdctg@gmail.com, and Sylhet 01558277904 <sup>[17](#o17)</sup>, and WEWB's ambulance page gives Dhaka 01404 413388 <sup>[254](#o254)</sup>?
+   > - Which desk numbers answer now, given that BMET's citizen charter gives Chattogram 01913631797, pkdctg@gmail.com, and Sylhet 01558277904 <sup>[17](#o17)</sup>, and WEWB's ambulance page gives Dhaka 01404 413388 <sup>[252](#o252)</sup>?
 3. **A place to stay.** The Wage Earners' Centre near Shahjalal airport (Lonjonipara, Borua, Khilkhet, Dhaka-1229): book at wec.wewb.gov.bd or in person with clearance or membership proof, a passport copy and an air ticket copy; Tk 100 admission and Tk 200 a night; 01310 350555, 01754 715720 <sup>[260](#o260)</sup>. The Probashi Lounge at Shahjalal airport gives free wifi, telephone, TV and printing, and food at up to 30% off, on clearance or membership proof <sup>[261](#o261)</sup>.
 
 ### What you can bring home
 
-Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261 of the National Board of Revenue, gazetted 3 June 2025) set what a returning migrant worker may bring <sup>[166](#o166)</sup>.
+Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261 of the National Board of Revenue, gazetted 3 June 2025) set what a returning migrant worker may bring <sup>[168](#o168)</sup>.
 
 #### Duty-free
-- Baggage: a passenger aged 12 or over may bring up to 65 kg free of all duty and tax, plus up to 35 kg more of clothes, personal items, books and study materials <sup>[166](#o166)</sup>.
-- One of each <sup>[166](#o166)</sup>: a desktop or laptop (with one UPS, an uninterruptible power supply), printer, scanner, ordinary camera, oven or microwave, rice or pressure cooker, blender or juicer, sewing machine, fan, sports equipment, a TV up to 29 inches, a music system, one carpet up to 15 sq m and 1 carton (200) of cigarettes.
-- Phones: 2 used mobile phones and 1 new one, the new one only once a year <sup>[166](#o166), [262](#o262)</sup>.
-- Jewellery: declared gold and silver jewellery, once a year, no more than 12 pieces of one type <sup>[166](#o166)</sup>.
+
+- Baggage: a passenger aged 12 or over may bring up to 65 kg free of all duty and tax, plus up to 35 kg more of clothes, personal items, books and study materials <sup>[168](#o168)</sup>.
+- One of each <sup>[168](#o168)</sup>: a desktop or laptop (with one UPS, an uninterruptible power supply), printer, scanner, ordinary camera, oven or microwave, rice or pressure cooker, blender or juicer, sewing machine, fan, sports equipment, a TV up to 29 inches, a music system, one carpet up to 15 sq m and 1 carton (200) of cigarettes.
+- Phones: 2 used mobile phones and 1 new one, the new one only once a year <sup>[168](#o168), [262](#o262)</sup>.
+- Jewellery: declared gold and silver jewellery, once a year, no more than 12 pieces of one type <sup>[168](#o168)</sup>.
 
 > **Need to know**
-> - Is the jewellery allowance 100 g of gold or 200 g of silver in total, or 100 g of gold and 200 g of silver, when the Rules say both <sup>[166](#o166), [262](#o262)</sup>?
+> - Is the jewellery allowance 100 g of gold or 200 g of silver in total, or 100 g of gold and 200 g of silver, when the Rules say both <sup>[168](#o168), [262](#o262)</sup>?
 
 #### With duty
-- Gold or silver bar, once a year, declared: one gold bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g, or a silver bar of up to 234 g (20 tola); anything over, or a hidden bar, is confiscated, and an undeclared bar can lead to arrest <sup>[166](#o166), [262](#o262)</sup>.
-- Bigger items, one of each <sup>[166](#o166)</sup>:
+
+- Gold or silver bar, once a year, declared: one gold bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g, or a silver bar of up to 234 g (20 tola); anything over, or a hidden bar, is confiscated, and an undeclared bar can lead to arrest <sup>[168](#o168), [262](#o262)</sup>.
+- Bigger items, one of each <sup>[168](#o168)</sup>:
   - TV 30-36 inches: Tk 10,000 (37-42 inches: Tk 20,000).
   - Refrigerator or deep freezer: Tk 5,000.
   - Window air conditioner: Tk 7,000.
@@ -2837,23 +2930,23 @@ Bangladesh's Non-tourist Passenger Baggage Rules 2025 (SRO 261 of the National B
 
 #### Not allowed
 
-A Bangladeshi passport holder may not bring in any alcohol <sup>[166](#o166), [262](#o262)</sup>.
+A Bangladeshi passport holder may not bring in any alcohol <sup>[168](#o168), [262](#o262)</sup>.
 
 #### Declaring
 
-Every arriving passenger fills in the baggage declaration form (Schedule 1) or submits it online; with nothing dutiable you use the green channel, where up to 5% of bags are scanned at random <sup>[166](#o166)</sup>. If you missed it, you can still declare on the Schedule 1 form to a customs officer of at least Assistant Commissioner rank within 30 days of arrival <sup>[166](#o166)</sup>.
+Every arriving passenger fills in the baggage declaration form (Schedule 1) or submits it online; with nothing dutiable you use the green channel, where up to 5% of bags are scanned at random <sup>[168](#o168)</sup>. If you missed it, you can still declare on the Schedule 1 form to a customs officer of at least Assistant Commissioner rank within 30 days of arrival <sup>[168](#o168)</sup>.
 
 > **Need to know**
 > - Does Dhaka airport customs accept a late declaration after 7 days, when its page sets 7 days for declaring at the custom house next to the airport <sup>[262](#o262)</sup>?
 
 #### Money
 
-Up to USD 10,000 in foreign currency comes in without declaring, and that amount can be kept and taken out again when you go abroad; above it, declare on the FMJ (Foreign Money and Jewellery) form <sup>[167 (2020)](#o167), [262](#o262)</sup>. Up to Tk 5,000 in taka can be brought in or taken out without declaring <sup>[263](#o263)</sup>. Customs emergency line: +88 01319-056591 <sup>[262](#o262)</sup>.
+Up to USD 10,000 in foreign currency comes in without declaring, and that amount can be kept and taken out again when you go abroad; above it, declare on the FMJ (Foreign Money and Jewellery) form <sup>[169 (2020)](#o169), [262](#o262)</sup>. Up to Tk 5,000 in taka can be brought in or taken out without declaring <sup>[263](#o263)</sup>. Customs emergency line: +88 01319-056591 <sup>[262](#o262)</sup>.
 
 > **Need to know**
 > - Do customs officers still apply USD 5,000, the figure on Bangladesh Customs' own Currency Regulations page <sup>[263](#o263)</sup>?
 
-### Loans and support after return
+### Support after return
 
 1. **PKB rehabilitation loan.** Returnees starting a project can borrow up to Tk 50 lakh: up to Tk 3 lakh without collateral, Tk 3-5 lakh with collateral, above Tk 5 lakh against a registered mortgage; up to 10 years at 9% simple interest; decided within 15 working days <sup>[264](#o264)</sup>. Fees: 0.50% processing and 0.50% documentation, each at most Tk 15,000; no service charge <sup>[264](#o264)</sup>. In 2021 only about 2% of pandemic returnees got PKB's special reintegration loan; a study blamed lack of staff, poor promotion and a short grace period <sup>[N145 (2021)](#n145)</sup>, and a returnee said its many conditions put him off <sup>[N145 (2021)](#n145)</sup>.
 
@@ -2870,35 +2963,35 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
    - Any training or experience certificates.
    - A declaration of other loans.
    - 3 signed MICR cheque leaves from an active account in the business's name, and 3 from one guarantor's account with its statement.
-2. **WEWB reintegration help.** WEWB's World Bank-funded RAISE (Recovery and Advancement of Informal Sector Employment) project ran from July 2021 to June 2026, giving returnees cash incentives, help with self-employment and loans, counselling and training through district welfare centres <sup>[265](#o265), [142 (2024)](#o142)</sup>.
+2. **WEWB reintegration help.** WEWB's World Bank-funded RAISE (Recovery and Advancement of Informal Sector Employment) project ran from July 2021 to June 2026, giving returnees cash incentives, help with self-employment and loans, counselling and training through district welfare centres <sup>[265](#o265), [134 (2024)](#o134)</sup>.
 
    > **Need to know**
-   > - Which RAISE services continue after June 2026 <sup>[265](#o265), [142 (2024)](#o142)</sup>?
+   > - Which RAISE services continue after June 2026 <sup>[265](#o265), [134 (2024)](#o134)</sup>?
 3. **BRAC Migration Programme.** BRAC, a development organisation founded in Bangladesh in 1972, runs a Migration Programme that gives returnees airport help, counselling, help to start earning, and legal assistance <sup>[266](#o266), [267](#o267)</sup>.
-4. **Children's scholarships.** WEWB pays scholarships to migrants' high-achieving children (Tk 27,500 a year at SSC level, Tk 34,000 at HSC level), reserves 0.5% of HSC admission seats for them, and pays disabled children Tk 1,000 a month for 5 years (at most 2 children per worker) <sup>[142 (2024)](#o142)</sup>.
-5. **If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the DC's office or the DEMO; WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[268](#o268), [142 (2024)](#o142)</sup>.
+4. **Children's scholarships.** WEWB pays scholarships to migrants' high-achieving children (Tk 27,500 a year at SSC level, Tk 34,000 at HSC level), reserves 0.5% of HSC admission seats for them, and pays disabled children Tk 1,000 a month for 5 years (at most 2 children per worker) <sup>[134 (2024)](#o134)</sup>.
+5. **If your family is threatened** or its property seized, apply to WEWB directly or through the expatriate welfare branch of the DC's office or the DEMO; WEWB writes to the local administration, such as the Deputy Commissioner or Superintendent of Police <sup>[268](#o268), [134 (2024)](#o134)</sup>.
 6. **Savings.** An NRCTA can be kept after coming home for good, and Probash pension contributions can continue in taka ([Sending money home](#sending-money-home)) <sup>[239](#o239), [242](#o242)</sup>.
 
 ## Contacts
 
 ### In Qatar
 
-- **Bangladesh Embassy, Doha:** Building 153, Street 820, Zone 43, New Al-Hilal, PO Box 2080, Doha <sup>[141](#o141)</sup>; +974 4467 1927, hotline +974 3366 2000, mission.doha@mofa.gov.bd <sup>[160](#o160)</sup>, also bdootqat@gmail.com <sup>[160](#o160)</sup>. Open Sunday-Thursday 08:30-16:30 (prayer break 13:00-13:30); applications 08:30-13:00 and 13:30-15:30 <sup>[269](#o269)</sup>.
+- **Bangladesh Embassy, Doha:** Building 153, Street 820, Zone 43, New Al-Hilal, PO Box 2080, Doha <sup>[133](#o133)</sup>; +974 4467 1927, hotline +974 3366 2000, mission.doha@mofa.gov.bd <sup>[137](#o137)</sup>, also bdootqat@gmail.com <sup>[137](#o137)</sup>. Open Sunday-Thursday 08:30-16:30 (prayer break 13:00-13:30); applications 08:30-13:00 and 13:30-15:30 <sup>[269](#o269)</sup>.
 - **Embassy labour wing:** Counsellor (Labour) +974 4037 4725; First Secretary (Labour) +974 4467 1499, labour.doha@mofa.gov.bd <sup>[92](#o92)</sup>.
 - **Embassy passport and visa wing:** +974 4039 4628, qatarpassportandvisawing@gmail.com <sup>[92](#o92)</sup>.
 - **Emergency (police):** 999 <sup>[51 (2021)](#o51)</sup>.
-- **MOL:** hotline 16008 (24/7, Arabic and English with translators) <sup>[155](#o155)</sup>, or 16505 / 44068979 <sup>[128](#o128)</sup>; the Unified Platform for Complaints and Whistleblowers <sup>[155](#o155)</sup>; 11 complaint kiosks in 11 languages at its branches <sup>[11](#o11)</sup>. Report suspicious links, emails or calls to 16505; MOL's e-services are only on sites ending in mol.gov.qa <sup>[N113](#n113)</sup>.
-- **NHRC:** hotline 8002222; 44048844, 66626663, 33296666; fax 44444013; c@nhrc.org.qa; in person with the printed complaint form, or online with a login <sup>[159](#o159)</sup>.
-- **MOI:** 2367111, info@moi.gov.qa <sup>[83](#o83)</sup>. Its Search and Follow-up Department takes abuse complaints against a sponsor, free, with a passport or ID copy and a written complaint <sup>[136](#o136)</sup>.
-- **Government Contact Center:** 109, 24/7 <sup>[106](#o106)</sup>.
-- **Hukoomi:** contact@hukoomi.qa, +974 44069999 <sup>[126 (2022)](#o126)</sup>.
+- **MOL:** hotline 16008 (24/7, Arabic and English with translators) <sup>[157](#o157)</sup>, or 16505 / 44068979 <sup>[126](#o126)</sup>; the Unified Platform for Complaints and Whistleblowers <sup>[157](#o157)</sup>; 11 complaint kiosks in 11 languages at its branches <sup>[11](#o11)</sup>. Report suspicious links, emails or calls to 16505; MOL's e-services are only on sites ending in mol.gov.qa <sup>[N97](#n97)</sup>.
+- **NHRC:** hotline 8002222; 44048844, 66626663, 33296666; fax 44444013; c@nhrc.org.qa; in person with the printed complaint form, or online with a login <sup>[161](#o161)</sup>.
+- **MOI:** 2367111, info@moi.gov.qa <sup>[83](#o83)</sup>. Its Search and Follow-up Department takes abuse complaints against a sponsor, free, with a passport or ID copy and a written complaint <sup>[143](#o143)</sup>.
+- **Government Contact Center:** 109, 24/7 <sup>[104](#o104)</sup>.
+- **Hukoomi:** contact@hukoomi.qa, +974 44069999 <sup>[124 (2022)](#o124)</sup>.
 - **QCB consumer protection:** 44456412, 44456456 <sup>[238](#o238)</sup>.
 
 > **Need to know**
 > - Which Embassy counter hours apply, when its Travel Permit and birth registration pages say applications are taken 08:30-16:00 <sup>[246](#o246), [229](#o229)</sup>?
-> - Which MOL hotline answers now: 16008 (MOL's 2024 report) or 16505 / 44068979 (Hukoomi, August 2026) <sup>[155](#o155), [128](#o128)</sup>?
+> - Which MOL hotline answers now: 16008 (MOL's 2024 report) or 16505 / 44068979 (Hukoomi, August 2026) <sup>[157](#o157), [126](#o126)</sup>?
 
-### Qatar in Bangladesh
+### Qatar's offices in Bangladesh
 
 - **QVC Dhaka:** Rupayan Trade Center, 114 Kazi Nazrul Islam Avenue (11th floor), Bangla Motor, Ramna, Dhaka-1000; +880 9666 777 101; info.bgd@qatarvisacenter.com <sup>[36](#o36)</sup>. Sunday-Thursday: biometrics 08:30-16:30, medical 09:00-17:00 <sup>[36](#o36)</sup>, phone help 08:30-17:00 <sup>[36](#o36)</sup>. Helpline in Qatar +974 44069999 <sup>[34](#o34)</sup>. Its attestation counter handles Qatar embassy legalisation through service providers <sup>[35](#o35)</sup>.
 - **QVC Sylhet:** listed by QVC, Sunday-Thursday 8:30 am-4:30 pm; whether it takes appointments is the Need to know in Step 4 of the company work visa <sup>[36](#o36), [84](#o84), [24](#o24)</sup>.
@@ -2910,25 +3003,24 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 ### In Bangladesh
 
 - **Probash-Bondhu call centre (WEWB), 24/7:** 16135 toll free in Bangladesh, +8809610102030 from abroad <sup>[65](#o65)</sup>.
-- **WEWB:** membership check portal.wewb.gov.bd/bmet-wewbm-check <sup>[118](#o118)</sup>; complaints online at www.wewb.gov.bd, or the focal person, 02-222220976, 01817-506712, ad.pro@wewb.gov.bd <sup>[142 (2024)](#o142)</sup>.
+- **WEWB:** membership check portal.wewb.gov.bd/bmet-wewbm-check <sup>[116](#o116)</sup>; complaints online at www.wewb.gov.bd, or the focal person, 02-222220976, 01817-506712, ad.pro@wewb.gov.bd <sup>[134 (2024)](#o134)</sup>.
 - **Ministry of Expatriates' Welfare:**
-  - Complaint cell, for Bangladeshis abroad: minister.expat@gmail.com <sup>[93](#o93)</sup>.
+  - Complaint cell, for Bangladeshis abroad: minister.expat@gmail.com <sup>[135](#o135)</sup>.
   - Deaths and compensation: aswelfare@probashi.gov.bd <sup>[91](#o91)</sup>.
   - Agency complaints (enforcement branch): sasenforcement@probashi.gov.bd, 02-41030255 <sup>[91](#o91)</sup>.
   - Grievance officer: 02-41030224, 01712992086, adsadmin@probashi.gov.bd <sup>[91](#o91)</sup>.
 - **BMET:** Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd <sup>[17](#o17)</sup>; complaints against agencies by application with proof to the Director General, free, 30 working days <sup>[17](#o17)</sup>. OEP hotline 09614445271 <sup>[64](#o64)</sup>.
-- **PKB:** helpline 16238, from abroad +880 9677-787878 <sup>[43](#o43)</sup>; loans department 01716-175560, migration@pkb.gov.bd <sup>[122](#o122)</sup>.
-- **JBC (migrant insurance):** Group Insurance Division, 24 Motijheel C/A, Dhaka-1000; 02-223381423, 41052772; gid@jbc.gov.bd <sup>[119 (2024)](#o119)</sup>.
+- **PKB:** helpline 16238, from abroad +880 9677-787878 <sup>[43](#o43)</sup>; loans department 01716-175560, migration@pkb.gov.bd <sup>[120](#o120)</sup>.
+- **JBC (migrant insurance):** Group Insurance Division, 24 Motijheel C/A, Dhaka-1000; 02-223381423, 41052772; gid@jbc.gov.bd <sup>[117 (2024)](#o117)</sup>.
 - **Airport welfare desks:**
-  - Dhaka: +88 02 8901040, +880 1971 430203, welfaredesk@gmail.com <sup>[94](#o94)</sup>.
-  - Chattogram: +880 2333300957, +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[94](#o94)</sup>.
-  - Sylhet: 01321158330, 01973-898375, pkdsylhet@gmail.com <sup>[94](#o94)</sup>.
-  - Other numbers: in the Need to know under Coming home <sup>[17](#o17), [254](#o254)</sup>.
+  - Dhaka: +88 02 8901040, +880 1971 430203, welfaredesk@gmail.com <sup>[136](#o136)</sup>.
+  - Chattogram: +880 2333300957, +880 1912542185, pkd.chattogram@wewb.gov.bd <sup>[136](#o136)</sup>.
+  - Sylhet: 01321158330, 01973-898375, pkdsylhet@gmail.com <sup>[136](#o136)</sup>.
+  - Other numbers: in the Need to know under Coming home <sup>[17](#o17), [252](#o252)</sup>.
 - **Wage Earners' Centre, Dhaka:** 01310 350555, 01754 715720 <sup>[260](#o260)</sup>.
 - **Shahjalal airport:** hotline 13600 or 09614-013600; customs emergency +88 01319-056591 <sup>[262](#o262)</sup>.
 - **National Pension Authority:** 16131, +88 09610 900800, support@upension.gov.bd <sup>[242](#o242)</sup>.
 - **bKash:** 16247, or +88-02-55663001 from a country not listed <sup>[46](#o46)</sup>.
-
 
 ## References
 
@@ -3026,84 +3118,84 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 90. <a id="o90"></a>Ministry of Justice, Al Meezan legal portal, 1 Sep 2026. [Minister of Labour Decision No. 50 of 2026 amending the WPS decision](https://almeezan.qa/legislations/684b65be-c62d-5a1b-be37-7c10945d6d29). Accessed 7 Nov 2026.
 91. <a id="o91"></a>Ministry of Expatriates' Welfare and Overseas Employment, Aug 2026. [Citizen Charter (Bangla), undated (uploaded 2026/8)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/31a84167-1243-425e-b460-b8b3da81009e.pdf). Accessed 7 Nov 2026.
 92. <a id="o92"></a>Embassy of Bangladesh, Doha, 15 Jun 2026. [Wing-wise List of Officers](https://doha.mofa.gov.bd/pages/static-pages/6952669035ce18e1c05aa140). Accessed 7 Nov 2026.
-93. <a id="o93"></a>Ministry of Expatriates' Welfare and Overseas Employment, 22 Sep 2026. [প্রবাসী বাংলাদেশিদের জন্য বিশেষ বিজ্ঞপ্তি (special notice for expatriate Bangladeshis: complaint cell), 22 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/994572d2-66cf-45d2-abb8-4f85179e0e18.pdf). Accessed 7 Nov 2026.
-94. <a id="o94"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 7 Nov 2026.
-95. <a id="o95"></a>Department of Immigration and Passports, Bangladesh (e-Passport portal), 3 Aug 2026. [e-Passport form filling instructions (Bangla)](https://www.epassport.gov.bd/instructions/instructions). Accessed 7 Nov 2026.
-96. <a id="o96"></a>Bangladesh Police. [Police clearance certificate guidance](https://www.police.gov.bd/en/police_clearance_certificate). Accessed 7 Nov 2026. Undated: possibly outdated.
-97. <a id="o97"></a>Embassy of Bangladesh, Doha, 26 Oct 2021. [Police Clearance Certificate](https://doha.mofa.gov.bd/pages/static-pages/6952668e35ce18e1c05aa02a). Accessed 7 Nov 2026. Possibly outdated.
-98. <a id="o98"></a>Dhaka Metropolitan Police. [Police clearance one-stop service hotline](https://dmp.gov.bd/online-police-clearance/). Accessed 7 Nov 2026. Undated: possibly outdated.
-99. <a id="o99"></a>HCCH. [Apostille Convention status table](https://www.hcch.net/en/instruments/conventions/status-table/?cid=41). Accessed 7 Nov 2026. Undated: possibly outdated.
-100. <a id="o100"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [Recognized by 114 Countries](https://mofa-servicedirectory.apostille.mygov.bd/recognized-country). Accessed 7 Nov 2026. Undated: possibly outdated.
-101. <a id="o101"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [About e-Apostille](https://mofa-servicedirectory.apostille.mygov.bd/eapostille). Accessed 7 Nov 2026. Undated: possibly outdated.
-102. <a id="o102"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [Chain of Legalization: Document Certification Authorities](https://mofa-servicedirectory.apostille.mygov.bd/chain-of-legalization). Accessed 7 Nov 2026. Undated: possibly outdated.
-103. <a id="o103"></a>Bangladesh Road Transport Authority (BRTA). [BRTA home page (Bangla)](https://brta.gov.bd/). Accessed 7 Nov 2026. Undated: possibly outdated.
-104. <a id="o104"></a>myGov (Government of Bangladesh service portal). [Services by sector: certificate attestation for foreign-bound citizens](https://www.mygov.bd/services?category=sector&data=service-sector-67). Accessed 7 Nov 2026. Undated: possibly outdated.
-105. <a id="o105"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [Welcome to Apostille Bangladesh Directory](https://mofa-servicedirectory.apostille.mygov.bd/). Accessed 7 Nov 2026. Undated: possibly outdated.
-106. <a id="o106"></a>Ministry of Foreign Affairs, Qatar (archived copy). [Complete Attestation Outside Qatar (e-service)](https://mofa.gov.qa/en/eservices/attestation/complete-attestation-outside-qatar). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 19 Oct 2026: [https://web.archive.org/web/20261019125723/https://mofa.gov.qa/en/eservices/attestation/complete-attestation-outside-qatar](https://web.archive.org/web/20261019125723/https://mofa.gov.qa/en/eservices/attestation/complete-attestation-outside-qatar). Undated: possibly outdated.
-107. <a id="o107"></a>Ministry of Foreign Affairs, Qatar, 26 Dec 2024. [Ministry of Foreign Affairs Launches New Overseas Document Attestation Service](https://mofa.gov.qa/en/qatar/latest-articles/latest-news/details/2024/12/26/ministry-of-foreign-affairs-launches-new-overseas-document-attestation-service). Accessed 7 Nov 2026. Possibly outdated.
-108. <a id="o108"></a>Embassy of Bangladesh, Doha, 18 Apr 2026. [Document Attestation](https://doha.mofa.gov.bd/pages/static-pages/6952667735ce18e1c05a9540). Accessed 7 Nov 2026.
-109. <a id="o109"></a>Ministry of Labour (Hukoomi portal), 3 Jan 2022. [View Work Permit Department Applications Status](https://hukoomi.gov.qa/en/services/view-recruitment-committee-applications-status). Accessed 7 Nov 2026. Possibly outdated.
-110. <a id="o110"></a>Ministry of Interior, Qatar. [Group Visa (MOI service page)](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fvis0115). Accessed 7 Nov 2026. Undated: possibly outdated.
-111. <a id="o111"></a>Ministry of Labour (Hukoomi portal), 13 Oct 2022. [Create a Work Contract through the Multilingual E-Contract System for Companies](https://hukoomi.gov.qa/en/services/create-a-work-contract-through-the-multilingual-econtract-system-for-companies). Accessed 7 Nov 2026. Possibly outdated.
-112. <a id="o112"></a>Ministry of Public Health, Qatar (Medical Commission Department), via Hukoomi portal, 20 Feb 2020. [Medical Fitness Certificate (form mc/gen/frm/001/14)](https://services.hukoomi.gov.qa/assets/documents/MEDICAL%20FITNESS%20CERTIFICATE%2032020.pdf). Accessed 7 Nov 2026. Possibly outdated.
-113. <a id="o113"></a>Gulf Health Council (Wafid). [Wafid: Book a medical examination appointment](https://wafid.com/en/book-appointment/). Accessed 7 Nov 2026. Undated: possibly outdated.
-114. <a id="o114"></a>Ministry of Interior, Qatar. [Visa inquiry, printing and extension (fees2.moi.gov.qa): form labels](https://fees2.moi.gov.qa/moipay/visa/inquiry?language=en#labels). Accessed 7 Nov 2026. Undated: possibly outdated.
-115. <a id="o115"></a>Hayya platform (State of Qatar). [Track your E-Visa](https://hayya.qa/en/visa-inquiry). Accessed 7 Nov 2026. Undated: possibly outdated.
-116. <a id="o116"></a>Embassy of Bangladesh, Doha, 11 Nov 2025. [Wage Earners Welfare Board Membership Registration](https://doha.mofa.gov.bd/pages/static-pages/6952667935ce18e1c05a965e). Accessed 7 Nov 2026.
-117. <a id="o117"></a>Ministry of Expatriates' Welfare and Overseas Employment, 5 Nov 2026. [Notices list](https://probashi.gov.bd/pages/notices?page_size=50). Accessed 7 Nov 2026.
-118. <a id="o118"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Membership registration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922decd933eb65569e1d77d). Accessed 7 Nov 2026.
-119. <a id="o119"></a>Jiban Bima Corporation / Wage Earners' Welfare Board, 24 Apr 2024. [Probashi Karmi Bima (migrant worker insurance) leaflet (transcription)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/256fdcbd0bee4e73a6f0cedbd53a207b.pdf#transcription). Accessed 7 Nov 2026. Possibly outdated.
-120. <a id="o120"></a>MyGov (Government of Bangladesh) / Probashi Kallyan Bank, 29 Nov 2019. [Migration loan online application](https://www.mygov.bd/services/info?id=BDGS-1726556874). Accessed 7 Nov 2026. Possibly outdated.
-121. <a id="o121"></a>Probashi Kallyan Bank, 3 Aug 2026. [Women migrant loan](https://pkb.gov.bd/pages/static-pages/6922e03d933eb65569e2627c). Accessed 7 Nov 2026.
-122. <a id="o122"></a>Probashi Kallyan Bank, 29 Sep 2026. [Citizen Charter (head office), published 29 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-pkb/2026/8/1bb6bf6a-6525-4239-8bef-8c54e36d06bf.pdf). Accessed 7 Nov 2026.
-123. <a id="o123"></a>Ministry of Public Health (Hukoomi portal), 11 Jan 2021. [Medical Examination for Residence Permit](https://hukoomi.gov.qa/en/services/medical-examination-for-residence-permit). Accessed 7 Nov 2026. Possibly outdated.
-124. <a id="o124"></a>Qatar Ministry of Interior. [First Time Residence Permit (service page)](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fyttyrttt). Accessed 7 Nov 2026. Undated: possibly outdated.
-125. <a id="o125"></a>Ministry of Interior (Hukoomi portal), 11 Jan 2021. [Inquire about the Expiry Date of Official Documents](https://hukoomi.gov.qa/en/services/inquire-about-the-expiry-date-of-official-documents). Accessed 7 Nov 2026. Possibly outdated.
-126. <a id="o126"></a>Hukoomi (Qatar government portal), service by Ministry of Interior, 12 Jun 2022. [Issue Residence Permit Application through Metrash (user browser print)](https://hukoomi.gov.qa/en/categories/citizenship-and-residency/issue-residence-permit-application-through-metrash). Accessed 7 Nov 2026. Possibly outdated.
-127. <a id="o127"></a>Ministry of Interior, Qatar. [Transfer of residence permit to a new passport](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fiuytro). Accessed 7 Nov 2026. Undated: possibly outdated.
-128. <a id="o128"></a>Ministry of Labour (Hukoomi portal), 11 Aug 2026. [Portal for Printing Employment Contracts](https://hukoomi.gov.qa/en/services/request-ecopy-of-employment-contract). Accessed 7 Nov 2026.
-129. <a id="o129"></a>Vodafone Qatar (licensed mobile operator). [Frequently Asked Questions (Instant SIM, Metrash)](https://www.vodafone.qa/en/Sawafaq). Accessed 7 Nov 2026. Undated: possibly outdated.
-130. <a id="o130"></a>Vodafone Qatar (licensed mobile operator), 31 Oct 2023. [Vodafone Qatar introduces AI-powered instant SIM activation on passport (press release)](https://www.vodafone.qa/en/about-us/vodafone-qatar-introduces-AI-powered-sim-activation-passport). Accessed 7 Nov 2026. Possibly outdated.
-131. <a id="o131"></a>Ooredoo Q.P.S.C. (licensed mobile operator), 13 Nov 2025. [Service Tariff C11-01 Prepaid mobile services (Hala), version 184](https://www.ooredoo.qa/web/wp-content/uploads/2025/11/C11-01-Prepaid-Mobile-Services-184.pdf). Accessed 7 Nov 2026.
-132. <a id="o132"></a>Ministry of Interior - Qatar (App Store listing), 15 Oct 2026. [METRASH app listing](https://apps.apple.com/qa/app/metrash/id6470879050). Accessed 7 Nov 2026.
-133. <a id="o133"></a>Qatar Islamic Bank (QCB-licensed bank), 15 Feb 2026. [QIB simplifies account opening for workers through WPS Portal & Lite App (news release)](https://qib.com.qa/en/about-us/media-center/news/news-listing/2026/02/15/qib-simplifies-account-opening-for-workers-through-wps-portal--lite-app). Accessed 7 Nov 2026.
-134. <a id="o134"></a>Ministry of Justice, Al Meezan legal portal, 18 Oct 2021. [Law No. 22 of 2021 regulating health care services (mandatory health insurance) (Arabic)](https://almeezan.qa/legislations/1d2c879b-3dca-41b1-aa92-a394eeec1c25). Accessed 7 Nov 2026. Possibly outdated.
-135. <a id="o135"></a>Ministry of Justice, Al Meezan legal portal, 11 Jun 2015. [Ministerial Decision No. 4 of 2015 on the Wage Protection System (consolidated, Arabic)](https://almeezan.qa/legislations/7d3f2340-8b44-4946-b7bc-2a573a223471). Accessed 7 Nov 2026. Possibly outdated.
-136. <a id="o136"></a>Ministry of Interior, Qatar. [Complaints against sponsors in case of abuse](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fvisa%2Bcomplaints%2Fmnbvcgfd). Accessed 7 Nov 2026. Undated: possibly outdated.
-137. <a id="o137"></a>Ministry of Justice, Al Meezan legal portal, 24 May 2021. [Ministerial Decision No. 17 of 2021 on protecting workers from heat stress (Arabic)](https://almeezan.qa/legislations/8848e227-abf2-466e-b883-20e21ddbdcc7). Accessed 7 Nov 2026. Possibly outdated.
-138. <a id="o138"></a>Qatar News Agency (state), reporting Ministry of Labour statement, 24 Sep 2026. [MOL Closes 388 Work Sites for Non-Compliance With Summer Work Ban](https://qna.org.qa/en/News-Area/News/2026-9/24/mol-closes-388-work-sites-for-non-compliance-with-summer-work-ban). Accessed 7 Nov 2026.
-139. <a id="o139"></a>Ministry of Justice, Al Meezan legal portal, 12 Jul 2023. [Council of Ministers Decision No. 9 of 2023 exempting categories from mandatory health insurance (Arabic)](https://almeezan.qa/legislations/60ca8d15-347a-4fb5-bc57-fc6369fc7921). Accessed 7 Nov 2026. Possibly outdated.
-140. <a id="o140"></a>Qatar News Agency (state), reporting Qatar Red Crescent Society, 5 Aug 2026. [QRCS Medical Affairs Division secures Diamond Level accreditation from Canada](https://qna.org.qa/en/News-Area/News/2026-8/5/qrcs-medical-affairs-division-secures-diamond-level-accreditation-from-canada). Accessed 7 Nov 2026.
-141. <a id="o141"></a>Embassy of Bangladesh, Doha, 13 Apr 2026. [Location](https://doha.mofa.gov.bd/pages/static-pages/6952667335ce18e1c05a9345). Accessed 7 Nov 2026.
-142. <a id="o142"></a>Wage Earners' Welfare Board, 10 Sep 2024. [Annual Report 2023-2024 (Bangla), published 10 Sep 2024](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/34cd1a605b8f4d7e945d9539131593d0.pdf). Accessed 7 Nov 2026. Possibly outdated.
-143. <a id="o143"></a>Ministry of Interior, Qatar. [Residence permit renewal](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fegama1). Accessed 7 Nov 2026. Undated: possibly outdated.
-144. <a id="o144"></a>Qatar Ministry of Interior. [Permanent Residency: introduction and terms and conditions](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/permanentresidency). Accessed 7 Nov 2026. Undated: possibly outdated.
-145. <a id="o145"></a>Ministry of Justice, Al Meezan legal portal, 21 Oct 2018. [Law No. 10 of 2018 on permanent residence (Arabic)](https://almeezan.qa/legislations/law/2018/10/general). Accessed 7 Nov 2026. Possibly outdated.
-146. <a id="o146"></a>Ministry of Justice, Al Meezan legal portal, 6 Apr 1987. [Law No. 9 of 1987 on narcotic drugs, as amended (Arabic)](https://almeezan.qa/legislations/e944215a-83e5-41d7-a4ee-438401c4fb0a). Accessed 7 Nov 2026. Possibly outdated.
-147. <a id="o147"></a>Ministry of Justice, Al Meezan legal portal, 10 May 2004. [Law No. 11 of 2004 issuing the Penal Code (Arabic/English)](https://almeezan.qa/legislations/415d8273-12e0-4e2c-aa02-5c0bf0a5c53c). Accessed 7 Nov 2026. Possibly outdated.
-148. <a id="o148"></a>Ministry of Justice, Al Meezan legal portal, 20 Feb 2024. [Law No. 1 of 2024 amending certain provisions of the Commercial Law (Arabic)](https://almeezan.qa/legislations/5bfb5aa5-a95d-45cb-b32c-9f2731e4cebc). Accessed 7 Nov 2026. Possibly outdated.
-149. <a id="o149"></a>Ministry of Justice, Al Meezan legal portal, 8 Mar 2017. [Law No. 4 of 2017 amending certain provisions of the Penal Code (Arabic)](https://almeezan.qa/legislations/7df82212-cbf2-4d11-837c-c9c3413262ce). Accessed 7 Nov 2026. Possibly outdated.
-150. <a id="o150"></a>Ministry of Justice, Al Meezan legal portal, 1 Sep 2024. [Law No. 14 of 2024 amending certain provisions of the Penal Code (Arabic)](https://almeezan.qa/legislations/a3f8e4b5-272c-4fea-a519-7fd9d37ed4f7). Accessed 7 Nov 2026. Possibly outdated.
-151. <a id="o151"></a>Ministry of Justice, Al Meezan legal portal, 21 Jul 2025. [Law No. 11 of 2025 amending the Cybercrime Prevention Law (Arabic)](https://almeezan.qa/legislations/2af771cb-8553-4a91-ab94-1f6fede99cf9). Accessed 7 Nov 2026. Possibly outdated.
-152. <a id="o152"></a>Ministry of Justice, Al Meezan legal portal, 15 Sep 2014. [Law No. 14 of 2014 issuing the Cybercrime Prevention Law (Arabic, consolidated)](https://almeezan.qa/legislations/71b9f8f2-61dc-44b9-825d-b16c490ed583). Accessed 7 Nov 2026. Possibly outdated.
-153. <a id="o153"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help through labour welfare wings (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dd0e933eb65569e1356c). Accessed 7 Nov 2026.
-154. <a id="o154"></a>Qatar Ministry of Labour, Labour Disputes Department. [Labour Complaint Form (archived copy)](https://www.mol.gov.qa/admin/Services%20documents/Labour%20Complaint%20Form.pdf). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 15 Jan 2026: [https://web.archive.org/web/20260115134243/https://www.mol.gov.qa/admin/Services%20documents/Labour%20Complaint%20Form.pdf](https://web.archive.org/web/20260115134243/https://www.mol.gov.qa/admin/Services%20documents/Labour%20Complaint%20Form.pdf). Undated: possibly outdated.
-155. <a id="o155"></a>Qatar Ministry of Labour (National Committee for Combating Human Trafficking), 1 Jun 2025. [The National Report on Combating Human Trafficking 2024 (archived copy)](https://www.mol.gov.qa/admin/Publications/The%20National%20Report%20on%20Combating%20Human%20Trafficking%202024.pdf). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 7 Dec 2025: [https://web.archive.org/web/20251207061801/https://www.mol.gov.qa/admin/Publications/The%20National%20Report%20on%20Combating%20Human%20Trafficking%202024.pdf](https://web.archive.org/web/20251207061801/https://www.mol.gov.qa/admin/Publications/The%20National%20Report%20on%20Combating%20Human%20Trafficking%202024.pdf). Possibly outdated.
-156. <a id="o156"></a>Ministry of Justice, Al Meezan legal portal, 2 Sep 2026. [Council of Ministers Decision No. 35 of 2026 amending Decision No. 6 of 2018 (English)](https://almeezan.qa/legislations/b152349d-0648-4d12-a030-4cb343e5d943). Accessed 7 Nov 2026.
-157. <a id="o157"></a>Ministry of Justice, Al Meezan legal portal, 21 Jan 2018. [Council of Ministers Decision No. 6 of 2018 on Labour Dispute Settlement Committees (Arabic)](https://almeezan.qa/legislations/a4cfa41e-ab1d-4d3a-8fff-463290cd0f21). Accessed 7 Nov 2026. Possibly outdated.
-158. <a id="o158"></a>Ministry of Justice, Al Meezan legal portal, 13 Mar 2022. [WSIF Board Chairman Decision No. 2 of 2022 on rules for paying workers' dues (Arabic)](https://almeezan.qa/legislations/876dfa9e-bbff-487e-97d6-b02ce95fd976). Accessed 7 Nov 2026. Possibly outdated.
-159. <a id="o159"></a>National Human Rights Committee (Qatar), 4 Nov 2026. [NHRC home page: contact and complaint channels (Arabic)](https://www.nhrc-qa.org/). Accessed 7 Nov 2026.
-160. <a id="o160"></a>Embassy of Bangladesh, Doha, 20 Oct 2025. [Contact Us (telephone, hotline, email)](https://doha.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa177). Accessed 7 Nov 2026. Possibly outdated.
-161. <a id="o161"></a>Embassy of Bangladesh, Doha, 6 Nov 2021. [Counselling and Dispute Settlement](https://doha.mofa.gov.bd/pages/static-pages/6952668035ce18e1c05a99fa). Accessed 7 Nov 2026. Possibly outdated.
-162. <a id="o162"></a>Government Communications Office (GCO), Qatar, 13 Dec 2016. [State of Qatar's response to Amnesty International report 'New Name, Old System?'](https://www.gco.gov.qa/en/media-centre/press-releases/government-of-the-state-of-qatars-response-to-amnesty-international-report-new-name-old-system/). Accessed 7 Nov 2026. Possibly outdated.
-163. <a id="o163"></a>Ministry of Interior, Qatar. [Cancellation of residence permit](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fxcdsa). Accessed 7 Nov 2026. Undated: possibly outdated.
-164. <a id="o164"></a>Ministry of Justice, Al Meezan legal portal, 26 Dec 2019. [Council of Ministers Decision No. 41 of 2019 issuing the AML/CFT Executive Regulations (portal machine translation)](https://almeezan.qa/legislations/5eaf5218-e58d-4850-9b03-97ed766e6481). Accessed 7 Nov 2026. Possibly outdated.
-165. <a id="o165"></a>Ministry of Justice, Al Meezan legal portal, 11 Sep 2019. [Law No. 20 of 2019 issuing the Anti-Money Laundering and Terrorism Financing Law (consolidated)](https://almeezan.qa/legislations/096af43a-0deb-41ed-a6dd-cefdc9e2dd98). Accessed 7 Nov 2026. Possibly outdated.
-166. <a id="o166"></a>National Board of Revenue (Customs), Bangladesh, 3 Jun 2025. [Non-tourist Passenger Baggage Rules 2025 (SRO 261-Ain/2025/71/Customs), Bangladesh Gazette 3 June 2025 (transcription)](https://nbr.gov.bd/uploads/sros/অপর্যটক_যাত্রী_ব্যাগেজ_বিধিমালা,_২০২৫.pdf#transcription). Accessed 7 Nov 2026. Possibly outdated.
-167. <a id="o167"></a>Bangladesh Bank, Foreign Exchange Policy Department, 3 Feb 2020. [FE Circular No. 06 (3 Feb 2020): Import and export of currency notes](https://www.bb.org.bd/mediaroom/circulars/fepd/feb032020fepd06e.pdf). Accessed 7 Nov 2026. Possibly outdated.
-168. <a id="o168"></a>Ministry of Justice, Al Meezan legal portal, 9 Dec 2025. [Prime Minister's Decision No. 34 of 2025 establishing the committee for the end-of-service gratuity project (Arabic)](https://almeezan.qa/legislations/dbc9a2ff-f52a-4c2c-ad70-f62690033ba1). Accessed 7 Nov 2026.
-169. <a id="o169"></a>Ministry of Interior, Qatar. [Leave notification](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fvisa%2Bcomplaints%2Fw456). Accessed 7 Nov 2026. Undated: possibly outdated.
-170. <a id="o170"></a>Qatar News Agency (state), reporting Ministry of Interior statement, 3 Dec 2023. [MoI Announces Revised Regulations for Family Visit, Residence Visas](https://www.qna.org.qa/en/newsbulletins/2023-12/03/0044-MoI-Announces-Revised-Regulations-for-Family-Visit,-Residence-Visas). Accessed 7 Nov 2026. Possibly outdated.
+93. <a id="o93"></a>Department of Immigration and Passports, Bangladesh (e-Passport portal), 3 Aug 2026. [e-Passport form filling instructions (Bangla)](https://www.epassport.gov.bd/instructions/instructions). Accessed 7 Nov 2026.
+94. <a id="o94"></a>Bangladesh Police. [Police clearance certificate guidance](https://www.police.gov.bd/en/police_clearance_certificate). Accessed 7 Nov 2026. Undated: possibly outdated.
+95. <a id="o95"></a>Embassy of Bangladesh, Doha, 26 Oct 2021. [Police Clearance Certificate](https://doha.mofa.gov.bd/pages/static-pages/6952668e35ce18e1c05aa02a). Accessed 7 Nov 2026. Possibly outdated.
+96. <a id="o96"></a>Dhaka Metropolitan Police. [Police clearance one-stop service hotline](https://dmp.gov.bd/online-police-clearance/). Accessed 7 Nov 2026. Undated: possibly outdated.
+97. <a id="o97"></a>HCCH. [Apostille Convention status table](https://www.hcch.net/en/instruments/conventions/status-table/?cid=41). Accessed 7 Nov 2026. Undated: possibly outdated.
+98. <a id="o98"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [Recognized by 114 Countries](https://mofa-servicedirectory.apostille.mygov.bd/recognized-country). Accessed 7 Nov 2026. Undated: possibly outdated.
+99. <a id="o99"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [About e-Apostille](https://mofa-servicedirectory.apostille.mygov.bd/eapostille). Accessed 7 Nov 2026. Undated: possibly outdated.
+100. <a id="o100"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [Chain of Legalization: Document Certification Authorities](https://mofa-servicedirectory.apostille.mygov.bd/chain-of-legalization). Accessed 7 Nov 2026. Undated: possibly outdated.
+101. <a id="o101"></a>Bangladesh Road Transport Authority (BRTA). [BRTA home page (Bangla)](https://brta.gov.bd/). Accessed 7 Nov 2026. Undated: possibly outdated.
+102. <a id="o102"></a>myGov (Government of Bangladesh service portal). [Services by sector: certificate attestation for foreign-bound citizens](https://www.mygov.bd/services?category=sector&data=service-sector-67). Accessed 7 Nov 2026. Undated: possibly outdated.
+103. <a id="o103"></a>Ministry of Foreign Affairs, Bangladesh (Apostille Bangladesh Directory). [Welcome to Apostille Bangladesh Directory](https://mofa-servicedirectory.apostille.mygov.bd/). Accessed 7 Nov 2026. Undated: possibly outdated.
+104. <a id="o104"></a>Ministry of Foreign Affairs, Qatar (archived copy). [Complete Attestation Outside Qatar (e-service)](https://mofa.gov.qa/en/eservices/attestation/complete-attestation-outside-qatar). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 19 Oct 2026: [https://web.archive.org/web/20261019125723/https://mofa.gov.qa/en/eservices/attestation/complete-attestation-outside-qatar](https://web.archive.org/web/20261019125723/https://mofa.gov.qa/en/eservices/attestation/complete-attestation-outside-qatar). Undated: possibly outdated.
+105. <a id="o105"></a>Ministry of Foreign Affairs, Qatar, 26 Dec 2024. [Ministry of Foreign Affairs Launches New Overseas Document Attestation Service](https://mofa.gov.qa/en/qatar/latest-articles/latest-news/details/2024/12/26/ministry-of-foreign-affairs-launches-new-overseas-document-attestation-service). Accessed 7 Nov 2026. Possibly outdated.
+106. <a id="o106"></a>Embassy of Bangladesh, Doha, 18 Apr 2026. [Document Attestation](https://doha.mofa.gov.bd/pages/static-pages/6952667735ce18e1c05a9540). Accessed 7 Nov 2026.
+107. <a id="o107"></a>Ministry of Labour (Hukoomi portal), 3 Jan 2022. [View Work Permit Department Applications Status](https://hukoomi.gov.qa/en/services/view-recruitment-committee-applications-status). Accessed 7 Nov 2026. Possibly outdated.
+108. <a id="o108"></a>Ministry of Interior, Qatar. [Group Visa (MOI service page)](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fvis0115). Accessed 7 Nov 2026. Undated: possibly outdated.
+109. <a id="o109"></a>Ministry of Labour (Hukoomi portal), 13 Oct 2022. [Create a Work Contract through the Multilingual E-Contract System for Companies](https://hukoomi.gov.qa/en/services/create-a-work-contract-through-the-multilingual-econtract-system-for-companies). Accessed 7 Nov 2026. Possibly outdated.
+110. <a id="o110"></a>Ministry of Public Health, Qatar (Medical Commission Department), via Hukoomi portal, 20 Feb 2020. [Medical Fitness Certificate (form mc/gen/frm/001/14)](https://services.hukoomi.gov.qa/assets/documents/MEDICAL%20FITNESS%20CERTIFICATE%2032020.pdf). Accessed 7 Nov 2026. Possibly outdated.
+111. <a id="o111"></a>Gulf Health Council (Wafid). [Wafid: Book a medical examination appointment](https://wafid.com/en/book-appointment/). Accessed 7 Nov 2026. Undated: possibly outdated.
+112. <a id="o112"></a>Ministry of Interior, Qatar. [Visa inquiry, printing and extension (fees2.moi.gov.qa): form labels](https://fees2.moi.gov.qa/moipay/visa/inquiry?language=en#labels). Accessed 7 Nov 2026. Undated: possibly outdated.
+113. <a id="o113"></a>Hayya platform (State of Qatar). [Track your E-Visa](https://hayya.qa/en/visa-inquiry). Accessed 7 Nov 2026. Undated: possibly outdated.
+114. <a id="o114"></a>Embassy of Bangladesh, Doha, 11 Nov 2025. [Wage Earners Welfare Board Membership Registration](https://doha.mofa.gov.bd/pages/static-pages/6952667935ce18e1c05a965e). Accessed 7 Nov 2026.
+115. <a id="o115"></a>Ministry of Expatriates' Welfare and Overseas Employment, 5 Nov 2026. [Notices list](https://probashi.gov.bd/pages/notices?page_size=50). Accessed 7 Nov 2026.
+116. <a id="o116"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Membership registration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922decd933eb65569e1d77d). Accessed 7 Nov 2026.
+117. <a id="o117"></a>Jiban Bima Corporation / Wage Earners' Welfare Board, 24 Apr 2024. [Probashi Karmi Bima (migrant worker insurance) leaflet (transcription)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/256fdcbd0bee4e73a6f0cedbd53a207b.pdf#transcription). Accessed 7 Nov 2026. Possibly outdated.
+118. <a id="o118"></a>MyGov (Government of Bangladesh) / Probashi Kallyan Bank, 29 Nov 2019. [Migration loan online application](https://www.mygov.bd/services/info?id=BDGS-1726556874). Accessed 7 Nov 2026. Possibly outdated.
+119. <a id="o119"></a>Probashi Kallyan Bank, 3 Aug 2026. [Women migrant loan](https://pkb.gov.bd/pages/static-pages/6922e03d933eb65569e2627c). Accessed 7 Nov 2026.
+120. <a id="o120"></a>Probashi Kallyan Bank, 29 Sep 2026. [Citizen Charter (head office), published 29 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-pkb/2026/8/1bb6bf6a-6525-4239-8bef-8c54e36d06bf.pdf). Accessed 7 Nov 2026.
+121. <a id="o121"></a>Ministry of Public Health (Hukoomi portal), 11 Jan 2021. [Medical Examination for Residence Permit](https://hukoomi.gov.qa/en/services/medical-examination-for-residence-permit). Accessed 7 Nov 2026. Possibly outdated.
+122. <a id="o122"></a>Qatar Ministry of Interior. [First Time Residence Permit (service page)](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fyttyrttt). Accessed 7 Nov 2026. Undated: possibly outdated.
+123. <a id="o123"></a>Ministry of Interior (Hukoomi portal), 11 Jan 2021. [Inquire about the Expiry Date of Official Documents](https://hukoomi.gov.qa/en/services/inquire-about-the-expiry-date-of-official-documents). Accessed 7 Nov 2026. Possibly outdated.
+124. <a id="o124"></a>Hukoomi (Qatar government portal), service by Ministry of Interior, 12 Jun 2022. [Issue Residence Permit Application through Metrash (user browser print)](https://hukoomi.gov.qa/en/categories/citizenship-and-residency/issue-residence-permit-application-through-metrash). Accessed 7 Nov 2026. Possibly outdated.
+125. <a id="o125"></a>Ministry of Interior, Qatar. [Transfer of residence permit to a new passport](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fiuytro). Accessed 7 Nov 2026. Undated: possibly outdated.
+126. <a id="o126"></a>Ministry of Labour (Hukoomi portal), 11 Aug 2026. [Portal for Printing Employment Contracts](https://hukoomi.gov.qa/en/services/request-ecopy-of-employment-contract). Accessed 7 Nov 2026.
+127. <a id="o127"></a>Vodafone Qatar (licensed mobile operator). [Frequently Asked Questions (Instant SIM, Metrash)](https://www.vodafone.qa/en/Sawafaq). Accessed 7 Nov 2026. Undated: possibly outdated.
+128. <a id="o128"></a>Vodafone Qatar (licensed mobile operator), 31 Oct 2023. [Vodafone Qatar introduces AI-powered instant SIM activation on passport (press release)](https://www.vodafone.qa/en/about-us/vodafone-qatar-introduces-AI-powered-sim-activation-passport). Accessed 7 Nov 2026. Possibly outdated.
+129. <a id="o129"></a>Ooredoo Q.P.S.C. (licensed mobile operator), 13 Nov 2025. [Service Tariff C11-01 Prepaid mobile services (Hala), version 184](https://www.ooredoo.qa/web/wp-content/uploads/2025/11/C11-01-Prepaid-Mobile-Services-184.pdf). Accessed 7 Nov 2026.
+130. <a id="o130"></a>Ministry of Interior - Qatar (App Store listing), 15 Oct 2026. [METRASH app listing](https://apps.apple.com/qa/app/metrash/id6470879050). Accessed 7 Nov 2026.
+131. <a id="o131"></a>Qatar Islamic Bank (QCB-licensed bank), 15 Feb 2026. [QIB simplifies account opening for workers through WPS Portal & Lite App (news release)](https://qib.com.qa/en/about-us/media-center/news/news-listing/2026/02/15/qib-simplifies-account-opening-for-workers-through-wps-portal--lite-app). Accessed 7 Nov 2026.
+132. <a id="o132"></a>Ministry of Justice, Al Meezan legal portal, 18 Oct 2021. [Law No. 22 of 2021 regulating health care services (mandatory health insurance) (Arabic)](https://almeezan.qa/legislations/1d2c879b-3dca-41b1-aa92-a394eeec1c25). Accessed 7 Nov 2026. Possibly outdated.
+133. <a id="o133"></a>Embassy of Bangladesh, Doha, 13 Apr 2026. [Location](https://doha.mofa.gov.bd/pages/static-pages/6952667335ce18e1c05a9345). Accessed 7 Nov 2026.
+134. <a id="o134"></a>Wage Earners' Welfare Board, 10 Sep 2024. [Annual Report 2023-2024 (Bangla), published 10 Sep 2024](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-wewb/2024/12/34cd1a605b8f4d7e945d9539131593d0.pdf). Accessed 7 Nov 2026. Possibly outdated.
+135. <a id="o135"></a>Ministry of Expatriates' Welfare and Overseas Employment, 22 Sep 2026. [প্রবাসী বাংলাদেশিদের জন্য বিশেষ বিজ্ঞপ্তি (special notice for expatriate Bangladeshis: complaint cell), 22 Sep 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2026/8/994572d2-66cf-45d2-abb8-4f85179e0e18.pdf). Accessed 7 Nov 2026.
+136. <a id="o136"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Kallyan Desk services (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddc8933eb65569e163d9). Accessed 7 Nov 2026.
+137. <a id="o137"></a>Embassy of Bangladesh, Doha, 20 Oct 2025. [Contact Us (telephone, hotline, email)](https://doha.mofa.gov.bd/pages/static-pages/6952669135ce18e1c05aa177). Accessed 7 Nov 2026. Possibly outdated.
+138. <a id="o138"></a>Ministry of Justice, Al Meezan legal portal, 11 Jun 2015. [Ministerial Decision No. 4 of 2015 on the Wage Protection System (consolidated, Arabic)](https://almeezan.qa/legislations/7d3f2340-8b44-4946-b7bc-2a573a223471). Accessed 7 Nov 2026. Possibly outdated.
+139. <a id="o139"></a>Ministry of Justice, Al Meezan legal portal, 24 May 2021. [Ministerial Decision No. 17 of 2021 on protecting workers from heat stress (Arabic)](https://almeezan.qa/legislations/8848e227-abf2-466e-b883-20e21ddbdcc7). Accessed 7 Nov 2026. Possibly outdated.
+140. <a id="o140"></a>Qatar News Agency (state), reporting Ministry of Labour statement, 24 Sep 2026. [MOL Closes 388 Work Sites for Non-Compliance With Summer Work Ban](https://qna.org.qa/en/News-Area/News/2026-9/24/mol-closes-388-work-sites-for-non-compliance-with-summer-work-ban). Accessed 7 Nov 2026.
+141. <a id="o141"></a>Ministry of Justice, Al Meezan legal portal, 12 Jul 2023. [Council of Ministers Decision No. 9 of 2023 exempting categories from mandatory health insurance (Arabic)](https://almeezan.qa/legislations/60ca8d15-347a-4fb5-bc57-fc6369fc7921). Accessed 7 Nov 2026. Possibly outdated.
+142. <a id="o142"></a>Qatar News Agency (state), reporting Qatar Red Crescent Society, 5 Aug 2026. [QRCS Medical Affairs Division secures Diamond Level accreditation from Canada](https://qna.org.qa/en/News-Area/News/2026-8/5/qrcs-medical-affairs-division-secures-diamond-level-accreditation-from-canada). Accessed 7 Nov 2026.
+143. <a id="o143"></a>Ministry of Interior, Qatar. [Complaints against sponsors in case of abuse](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fvisa%2Bcomplaints%2Fmnbvcgfd). Accessed 7 Nov 2026. Undated: possibly outdated.
+144. <a id="o144"></a>Ministry of Interior, Qatar. [Residence permit renewal](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fegama1). Accessed 7 Nov 2026. Undated: possibly outdated.
+145. <a id="o145"></a>Qatar Ministry of Interior. [Permanent Residency: introduction and terms and conditions](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/permanentresidency). Accessed 7 Nov 2026. Undated: possibly outdated.
+146. <a id="o146"></a>Ministry of Justice, Al Meezan legal portal, 21 Oct 2018. [Law No. 10 of 2018 on permanent residence (Arabic)](https://almeezan.qa/legislations/law/2018/10/general). Accessed 7 Nov 2026. Possibly outdated.
+147. <a id="o147"></a>Ministry of Interior, Qatar. [Leave notification](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fvisa%2Bcomplaints%2Fw456). Accessed 7 Nov 2026. Undated: possibly outdated.
+148. <a id="o148"></a>Qatar News Agency (state), reporting Ministry of Interior statement, 3 Dec 2023. [MoI Announces Revised Regulations for Family Visit, Residence Visas](https://www.qna.org.qa/en/newsbulletins/2023-12/03/0044-MoI-Announces-Revised-Regulations-for-Family-Visit,-Residence-Visas). Accessed 7 Nov 2026. Possibly outdated.
+149. <a id="o149"></a>Ministry of Justice, Al Meezan legal portal, 6 Apr 1987. [Law No. 9 of 1987 on narcotic drugs, as amended (Arabic)](https://almeezan.qa/legislations/e944215a-83e5-41d7-a4ee-438401c4fb0a). Accessed 7 Nov 2026. Possibly outdated.
+150. <a id="o150"></a>Ministry of Justice, Al Meezan legal portal, 10 May 2004. [Law No. 11 of 2004 issuing the Penal Code (Arabic/English)](https://almeezan.qa/legislations/415d8273-12e0-4e2c-aa02-5c0bf0a5c53c). Accessed 7 Nov 2026. Possibly outdated.
+151. <a id="o151"></a>Ministry of Justice, Al Meezan legal portal, 20 Feb 2024. [Law No. 1 of 2024 amending certain provisions of the Commercial Law (Arabic)](https://almeezan.qa/legislations/5bfb5aa5-a95d-45cb-b32c-9f2731e4cebc). Accessed 7 Nov 2026. Possibly outdated.
+152. <a id="o152"></a>Ministry of Justice, Al Meezan legal portal, 8 Mar 2017. [Law No. 4 of 2017 amending certain provisions of the Penal Code (Arabic)](https://almeezan.qa/legislations/7df82212-cbf2-4d11-837c-c9c3413262ce). Accessed 7 Nov 2026. Possibly outdated.
+153. <a id="o153"></a>Ministry of Justice, Al Meezan legal portal, 1 Sep 2024. [Law No. 14 of 2024 amending certain provisions of the Penal Code (Arabic)](https://almeezan.qa/legislations/a3f8e4b5-272c-4fea-a519-7fd9d37ed4f7). Accessed 7 Nov 2026. Possibly outdated.
+154. <a id="o154"></a>Ministry of Justice, Al Meezan legal portal, 21 Jul 2025. [Law No. 11 of 2025 amending the Cybercrime Prevention Law (Arabic)](https://almeezan.qa/legislations/2af771cb-8553-4a91-ab94-1f6fede99cf9). Accessed 7 Nov 2026. Possibly outdated.
+155. <a id="o155"></a>Ministry of Justice, Al Meezan legal portal, 15 Sep 2014. [Law No. 14 of 2014 issuing the Cybercrime Prevention Law (Arabic, consolidated)](https://almeezan.qa/legislations/71b9f8f2-61dc-44b9-825d-b16c490ed583). Accessed 7 Nov 2026. Possibly outdated.
+156. <a id="o156"></a>Qatar Ministry of Labour, Labour Disputes Department. [Labour Complaint Form (archived copy)](https://www.mol.gov.qa/admin/Services%20documents/Labour%20Complaint%20Form.pdf). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 15 Jan 2026: [https://web.archive.org/web/20260115134243/https://www.mol.gov.qa/admin/Services%20documents/Labour%20Complaint%20Form.pdf](https://web.archive.org/web/20260115134243/https://www.mol.gov.qa/admin/Services%20documents/Labour%20Complaint%20Form.pdf). Undated: possibly outdated.
+157. <a id="o157"></a>Qatar Ministry of Labour (National Committee for Combating Human Trafficking), 1 Jun 2025. [The National Report on Combating Human Trafficking 2024 (archived copy)](https://www.mol.gov.qa/admin/Publications/The%20National%20Report%20on%20Combating%20Human%20Trafficking%202024.pdf). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 7 Dec 2025: [https://web.archive.org/web/20251207061801/https://www.mol.gov.qa/admin/Publications/The%20National%20Report%20on%20Combating%20Human%20Trafficking%202024.pdf](https://web.archive.org/web/20251207061801/https://www.mol.gov.qa/admin/Publications/The%20National%20Report%20on%20Combating%20Human%20Trafficking%202024.pdf). Possibly outdated.
+158. <a id="o158"></a>Ministry of Justice, Al Meezan legal portal, 2 Sep 2026. [Council of Ministers Decision No. 35 of 2026 amending Decision No. 6 of 2018 (English)](https://almeezan.qa/legislations/b152349d-0648-4d12-a030-4cb343e5d943). Accessed 7 Nov 2026.
+159. <a id="o159"></a>Ministry of Justice, Al Meezan legal portal, 21 Jan 2018. [Council of Ministers Decision No. 6 of 2018 on Labour Dispute Settlement Committees (Arabic)](https://almeezan.qa/legislations/a4cfa41e-ab1d-4d3a-8fff-463290cd0f21). Accessed 7 Nov 2026. Possibly outdated.
+160. <a id="o160"></a>Ministry of Justice, Al Meezan legal portal, 13 Mar 2022. [WSIF Board Chairman Decision No. 2 of 2022 on rules for paying workers' dues (Arabic)](https://almeezan.qa/legislations/876dfa9e-bbff-487e-97d6-b02ce95fd976). Accessed 7 Nov 2026. Possibly outdated.
+161. <a id="o161"></a>National Human Rights Committee (Qatar), 4 Nov 2026. [NHRC home page: contact and complaint channels (Arabic)](https://www.nhrc-qa.org/). Accessed 7 Nov 2026.
+162. <a id="o162"></a>Embassy of Bangladesh, Doha, 6 Nov 2021. [Counselling and Dispute Settlement](https://doha.mofa.gov.bd/pages/static-pages/6952668035ce18e1c05a99fa). Accessed 7 Nov 2026. Possibly outdated.
+163. <a id="o163"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help through labour welfare wings (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dd0e933eb65569e1356c). Accessed 7 Nov 2026.
+164. <a id="o164"></a>Government Communications Office (GCO), Qatar, 13 Dec 2016. [State of Qatar's response to Amnesty International report 'New Name, Old System?'](https://www.gco.gov.qa/en/media-centre/press-releases/government-of-the-state-of-qatars-response-to-amnesty-international-report-new-name-old-system/). Accessed 7 Nov 2026. Possibly outdated.
+165. <a id="o165"></a>Ministry of Interior, Qatar. [Cancellation of residence permit](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fxcdsa). Accessed 7 Nov 2026. Undated: possibly outdated.
+166. <a id="o166"></a>Ministry of Justice, Al Meezan legal portal, 26 Dec 2019. [Council of Ministers Decision No. 41 of 2019 issuing the AML/CFT Executive Regulations (portal machine translation)](https://almeezan.qa/legislations/5eaf5218-e58d-4850-9b03-97ed766e6481). Accessed 7 Nov 2026. Possibly outdated.
+167. <a id="o167"></a>Ministry of Justice, Al Meezan legal portal, 11 Sep 2019. [Law No. 20 of 2019 issuing the Anti-Money Laundering and Terrorism Financing Law (consolidated)](https://almeezan.qa/legislations/096af43a-0deb-41ed-a6dd-cefdc9e2dd98). Accessed 7 Nov 2026. Possibly outdated.
+168. <a id="o168"></a>National Board of Revenue (Customs), Bangladesh, 3 Jun 2025. [Non-tourist Passenger Baggage Rules 2025 (SRO 261-Ain/2025/71/Customs), Bangladesh Gazette 3 June 2025 (transcription)](https://nbr.gov.bd/uploads/sros/অপর্যটক_যাত্রী_ব্যাগেজ_বিধিমালা,_২০২৫.pdf#transcription). Accessed 7 Nov 2026. Possibly outdated.
+169. <a id="o169"></a>Bangladesh Bank, Foreign Exchange Policy Department, 3 Feb 2020. [FE Circular No. 06 (3 Feb 2020): Import and export of currency notes](https://www.bb.org.bd/mediaroom/circulars/fepd/feb032020fepd06e.pdf). Accessed 7 Nov 2026. Possibly outdated.
+170. <a id="o170"></a>Ministry of Justice, Al Meezan legal portal, 9 Dec 2025. [Prime Minister's Decision No. 34 of 2025 establishing the committee for the end-of-service gratuity project (Arabic)](https://almeezan.qa/legislations/dbc9a2ff-f52a-4c2c-ad70-f62690033ba1). Accessed 7 Nov 2026.
 171. <a id="o171"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 Sep 2025. [Approval of agencies to send women domestic workers, 1 Sep 2025 (Bangla)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf). Accessed 7 Nov 2026. Possibly outdated.
 172. <a id="o172"></a>Qatar Government Communications Office (ADLSA statement), 30 Aug 2020. [Statement from ADLSA on New Minimum Wage and Labour Mobility Law](https://www.gco.gov.qa/en/media-centre/top-news/adlsa-statement-minimum-wage-noc/). Accessed 7 Nov 2026. Possibly outdated.
 173. <a id="o173"></a>Embassy of Bangladesh, Doha, 26 Oct 2021. [Visa Attestation (House maid)](https://doha.mofa.gov.bd/pages/static-pages/695266ab35ce18e1c05aaaed). Accessed 7 Nov 2026. Possibly outdated.
@@ -3138,14 +3230,14 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 202. <a id="o202"></a>Qatar University (public university; visa sponsor for its students). [Apply for Student Visa (international students)](https://www.qu.edu.qa/en-us/students/international-students/students-visa/prospective-students#fc). Accessed 7 Nov 2026. Undated: possibly outdated.
 203. <a id="o203"></a>Qatar University. [International Students - Frequently Asked Questions](https://www.qu.edu.qa/en-us/students/international-students/Pages/frequent-asked-questions.aspx). Accessed 7 Nov 2026. Undated: possibly outdated.
 204. <a id="o204"></a>Qatar University. [QU Enrolled Students Residence Permit Transfer](https://www.qu.edu.qa/en-us/students/international-students/students-visa/residence-permit-transfer#fc). Accessed 7 Nov 2026. Undated: possibly outdated.
-205. <a id="o205"></a>Ministry of Education and Higher Education, Qatar. [Higher Education in Qatar (list of public and private higher education institutions)](https://www.edu.gov.qa/en/Content/HigherEducationinQatar). Accessed 7 Nov 2026. Undated: possibly outdated.
-206. <a id="o206"></a>Ministry of Education and Higher Education, Qatar. [Licensing a Higher Education Institution](https://www.edu.gov.qa/en/Content/LicensingaHigherEducation). Accessed 7 Nov 2026. Undated: possibly outdated.
-207. <a id="o207"></a>Qatar University. [Scholarships Types](https://www.qu.edu.qa/en-us/students/admission/scholarships/Pages/types.aspx). Accessed 7 Nov 2026. Undated: possibly outdated.
-208. <a id="o208"></a>Hamad Bin Khalifa University. [Scholarship Guidelines for HBKU Graduate Programs](https://www.hbku.edu.qa/scholarship). Accessed 7 Nov 2026. Undated: possibly outdated.
-209. <a id="o209"></a>Qatar University, Career Development Center, 30 Aug 2023. [Student Employment Policies and Procedures (PDF)](https://www.qu.edu.qa/SiteImages/static_file/qu/students/documents/student-employment-policies-and-procedures-en.pdf). Accessed 7 Nov 2026. Possibly outdated.
-210. <a id="o210"></a>Qatar Manpower Solutions Company (Jusour), state company chaired by the Minister of Labour. [Jusour programmes (Sahem)](https://www.jusour.qa/programs). Accessed 7 Nov 2026. Undated: possibly outdated.
-211. <a id="o211"></a>Qatar Manpower Solutions Company (Jusour), state company chaired by the Minister of Labour. [Sahem (Empowering Your Future) programme page](https://jusour.qa/programs/sahem-empowering-your-future). Accessed 7 Nov 2026. Undated: possibly outdated.
-212. <a id="o212"></a>Ministry of Education and Higher Education, Qatar. [University Degree Equivalency/Validation Service](https://www.edu.gov.qa/en/Content/UniversityDegreeEquivalency). Accessed 7 Nov 2026. Undated: possibly outdated.
+205. <a id="o205"></a>Qatar University. [Scholarships Types](https://www.qu.edu.qa/en-us/students/admission/scholarships/Pages/types.aspx). Accessed 7 Nov 2026. Undated: possibly outdated.
+206. <a id="o206"></a>Hamad Bin Khalifa University. [Scholarship Guidelines for HBKU Graduate Programs](https://www.hbku.edu.qa/scholarship). Accessed 7 Nov 2026. Undated: possibly outdated.
+207. <a id="o207"></a>Ministry of Education and Higher Education, Qatar. [Higher Education in Qatar (list of public and private higher education institutions)](https://www.edu.gov.qa/en/Content/HigherEducationinQatar). Accessed 7 Nov 2026. Undated: possibly outdated.
+208. <a id="o208"></a>Ministry of Education and Higher Education, Qatar. [Licensing a Higher Education Institution](https://www.edu.gov.qa/en/Content/LicensingaHigherEducation). Accessed 7 Nov 2026. Undated: possibly outdated.
+209. <a id="o209"></a>Ministry of Education and Higher Education, Qatar. [University Degree Equivalency/Validation Service](https://www.edu.gov.qa/en/Content/UniversityDegreeEquivalency). Accessed 7 Nov 2026. Undated: possibly outdated.
+210. <a id="o210"></a>Qatar University, Career Development Center, 30 Aug 2023. [Student Employment Policies and Procedures (PDF)](https://www.qu.edu.qa/SiteImages/static_file/qu/students/documents/student-employment-policies-and-procedures-en.pdf). Accessed 7 Nov 2026. Possibly outdated.
+211. <a id="o211"></a>Qatar Manpower Solutions Company (Jusour), state company chaired by the Minister of Labour. [Jusour programmes (Sahem)](https://www.jusour.qa/programs). Accessed 7 Nov 2026. Undated: possibly outdated.
+212. <a id="o212"></a>Qatar Manpower Solutions Company (Jusour), state company chaired by the Minister of Labour. [Sahem (Empowering Your Future) programme page](https://jusour.qa/programs/sahem-empowering-your-future). Accessed 7 Nov 2026. Undated: possibly outdated.
 213. <a id="o213"></a>Ministry of Interior, Qatar. [Department services: Visit Visa for GCC Residents and Those Accompanying](https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_SwNHA0t_Q28LQL8LAwcPdzCgjx9AwwNfAz1w_EqsDTQjyJGv6ejhYmHoYGht4WHAVBBcIhXiJO_s5GBgSFx-g1wAEci7cejIAq_8eH6UXitAIUAWAE-LxKypCA3NDQ0wiDT01FREQChN6Fh/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bvisit%2Fvisa0116). Accessed 7 Nov 2026. Undated: possibly outdated.
 214. <a id="o214"></a>Ministry of Interior, Qatar - General Directorate of Passports. [Single Entry on-Arrival Visa for GCC Residents](https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z1/rVPJTsMwFPyaHI1fliYOt1AQ6UILpFVbXyoneSlGjRMcs_XrMdsN2iLhk589M9KMx5TTJeVKPMmNMLJRYmvnFQ_XkxgSN57CaNqPL-w2Gc2m6bWXJR5dfAAGCQtSF9wRS4FBks2Gs7Np3wNwKT-GD7-sBI7j7wHw_fIry49-5d8ENKOc8raQJV3FfgQ-Ey6JIGQkQI-ROAp8IqqiYkGvsNfhIUH3vwWjPwsOD2VqH13ePzzwhPKiUQZfDF0-F_VW5kTaUSs0RGgHOkFKbIU2NSpTNHUtjUF0YIMKtdiKspZKdkZ_lKmp1FeppHnNG12i7oQq8aUVRkthUFSVkLpz4CgTi3fT1sYwPR-An8Hochz6tnnjq77XvwFgvS_AvmoeKodNarNt8s9_kKjcZxvKNVaoUZ88ant8Z0x76oADz7mNpjPgOfAT-K7p3kP8BtEM1Xqe0baez5e7WVXX68mE8Dy8TXdjXJA3poTMeg!!/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-ar%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fdf3d6cba-352f-4960-a78b-a5caf023deed). Accessed 7 Nov 2026. Undated: possibly outdated.
 215. <a id="o215"></a>Ministry of Interior, Qatar, 4 Oct 2023. [Approved professions for the residents of GCC countries (on arrival visas) (PDF)](https://portal.moi.gov.qa/wps/wcm/connect/086507d3-f122-4f70-b42a-169a1d232d73/approved_professions_GCC_countries.pdf?MOD=AJPERES&CVID=oHVTTr4). Accessed 7 Nov 2026. Possibly outdated.
@@ -3183,16 +3275,16 @@ Up to USD 10,000 in foreign currency comes in without declaring, and that amount
 247. <a id="o247"></a>Embassy of Bangladesh, Doha (form file linked from its Travel Permit page; Wayback copy 20 Jun 2024), 20 Jun 2024. [Application for Travel Permit (form; template headed High Commission London)](https://bdembassydoha.org/pa/Travel_permit.pdf). Accessed 7 Nov 2026. Archived copy, Wayback Machine, 20 Jun 2024: [https://web.archive.org/web/20240620175605/https://bdembassydoha.org/pa/Travel_permit.pdf](https://web.archive.org/web/20240620175605/https://bdembassydoha.org/pa/Travel_permit.pdf). Possibly outdated.
 248. <a id="o248"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Tk 3 lakh financial grant (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e14b933eb65569e2b5d5). Accessed 7 Nov 2026.
 249. <a id="o249"></a>Embassy of Bangladesh, Doha, 26 Oct 2021. [Death Compensation](https://doha.mofa.gov.bd/pages/static-pages/6952668a35ce18e1c05a9e9b). Accessed 7 Nov 2026. Possibly outdated.
-250. <a id="o250"></a>Embassy of Bangladesh, Doha, 6 Nov 2021. [Dead Body Repatriation](https://doha.mofa.gov.bd/pages/static-pages/6952669a35ce18e1c05aa47a). Accessed 7 Nov 2026. Possibly outdated.
-251. <a id="o251"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help bringing bodies home (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e0ef933eb65569e293b2). Accessed 7 Nov 2026.
-252. <a id="o252"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help with local burial abroad (Bangla)](https://wewb.gov.bd/pages/static-pages/6922db9e933eb65569e0b57c). Accessed 7 Nov 2026.
-253. <a id="o253"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Body transport and burial costs (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e025933eb65569e25b2a). Accessed 7 Nov 2026.
-254. <a id="o254"></a>Wage Earners' Welfare Board, 16 Apr 2026. [Ambulance service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600). Accessed 7 Nov 2026.
-255. <a id="o255"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Migrant worker insurance (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dbcb933eb65569e0c955). Accessed 7 Nov 2026.
-256. <a id="o256"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help recovering death compensation and dues (Bangla)](https://wewb.gov.bd/pages/static-pages/6922df5a933eb65569e2165e). Accessed 7 Nov 2026.
-257. <a id="o257"></a>Embassy of Bangladesh, Doha, 6 Nov 2021. [Hospital Visit, Repatriation of Sick and Poor Expatriates](https://doha.mofa.gov.bd/pages/static-pages/6952669f35ce18e1c05aa67b). Accessed 7 Nov 2026. Possibly outdated.
-258. <a id="o258"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Bringing home injured and sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e05e933eb65569e26b8b). Accessed 7 Nov 2026.
-259. <a id="o259"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Financial help for injured/sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddb6933eb65569e15fa2). Accessed 7 Nov 2026.
+250. <a id="o250"></a>Embassy of Bangladesh, Doha, 6 Nov 2021. [Hospital Visit, Repatriation of Sick and Poor Expatriates](https://doha.mofa.gov.bd/pages/static-pages/6952669f35ce18e1c05aa67b). Accessed 7 Nov 2026. Possibly outdated.
+251. <a id="o251"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Bringing home injured and sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e05e933eb65569e26b8b). Accessed 7 Nov 2026.
+252. <a id="o252"></a>Wage Earners' Welfare Board, 16 Apr 2026. [Ambulance service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dc70933eb65569e10600). Accessed 7 Nov 2026.
+253. <a id="o253"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Financial help for injured/sick workers (Bangla)](https://wewb.gov.bd/pages/static-pages/6922ddb6933eb65569e15fa2). Accessed 7 Nov 2026.
+254. <a id="o254"></a>Embassy of Bangladesh, Doha, 6 Nov 2021. [Dead Body Repatriation](https://doha.mofa.gov.bd/pages/static-pages/6952669a35ce18e1c05aa47a). Accessed 7 Nov 2026. Possibly outdated.
+255. <a id="o255"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help bringing bodies home (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e0ef933eb65569e293b2). Accessed 7 Nov 2026.
+256. <a id="o256"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help with local burial abroad (Bangla)](https://wewb.gov.bd/pages/static-pages/6922db9e933eb65569e0b57c). Accessed 7 Nov 2026.
+257. <a id="o257"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Body transport and burial costs (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e025933eb65569e25b2a). Accessed 7 Nov 2026.
+258. <a id="o258"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Migrant worker insurance (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dbcb933eb65569e0c955). Accessed 7 Nov 2026.
+259. <a id="o259"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Help recovering death compensation and dues (Bangla)](https://wewb.gov.bd/pages/static-pages/6922df5a933eb65569e2165e). Accessed 7 Nov 2026.
 260. <a id="o260"></a>Wage Earners' Welfare Board, 29 Jan 2026. [Wage Earners' Centre (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dec9933eb65569e1d5b5). Accessed 7 Nov 2026.
 261. <a id="o261"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Lounge service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d). Accessed 7 Nov 2026.
 262. <a id="o262"></a>Hazrat Shahjalal International Airport (Customs). [Customs and baggage rules](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 7 Nov 2026. Undated: possibly outdated.
@@ -3272,27 +3364,27 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n62"></a>N62. The Peninsula, 17 Apr 2023. [Hayya is not a Qatar work visa, says official](https://thepeninsulaqatar.com/article/17/04/2023/hayya-is-not-a-qatar-work-visa-says-official). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n63"></a>N63. Migrant-Rights.org, Feb 2025. [Qatar's Workers' Support and Insurance Fund: tall claims and not enough data](https://www.migrant-rights.org/2025/02/qatars-workers-support-and-insurance-fund-tall-claims-and-not-enough-data/). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n64"></a>N64. Dhaka Tribune, 23 Aug 2022. [Qatar deports Bangladeshi migrant workers over wage protests](https://www.dhakatribune.com/world/middle-east/275940/qatar-deports-bangladeshi-migrant-workers-over). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n65"></a>N65. Qatar News Agency (state), reporting Ministry of Public Health statement, 10 Sep 2026. [MoPH Launches Food Handler Examination Service Outside Qatar](https://qna.org.qa/en/News-Area/News/2026-9/11/moph-launches-food-handler-examination-service-outside-qatar). Accessed 7 Nov 2026.
-- <a id="n66"></a>N66. Prothom Alo, 17 Dec 2019. [Irregularities in sending women workers to Saudi Arabia (Bangla)](https://www.prothomalo.com/bangladesh/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%8F%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%B0). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n67"></a>N67. Recruitment Advisor (ITUC). [TM Overseas: workers' reviews](https://www.recruitmentadvisor.org/agency/tm-overseas). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n68"></a>N68. Prothom Alo English, 20 Jul 2026. [Licences of 49 recruiting agencies, including 5 owned by ex-AL MPs, cancelled](https://en.prothomalo.com/bangladesh/7x5516wlwz). Accessed 8 Nov 2026.
-- <a id="n69"></a>N69. Prothom Alo, 4 Oct 2026. [Decision to withdraw 49 recruiting agencies' licences upheld (Bangla)](https://www.prothomalo.com/bangladesh/2o2duezc6j). Accessed 8 Nov 2026.
-- <a id="n70"></a>N70. Bonik Barta, 30 Oct 2025. [Government cancels 45 recruiting agencies' licences (Bangla)](https://bonikbarta.com/bangladesh/aQrMgrWG6vv1QA5c). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n71"></a>N71. International Labour Organization. [Fair recruitment pilot: Qatar construction sector and Bangladesh (QDVC, STS, Bonanza Overseas)](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@arabstates/@ro-beirut/documents/publication/wcms_820253.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
-- <a id="n72"></a>N72. Qatar Living, 9 Aug 2026. [Planning a Business Partnership in Qatar? MOCI Highlights Company Inquiry Service](https://www.qatarliving.com/article/planning-a-business-partnership-in-qatar-moci-highlights-company-inquiry-service). Accessed 7 Nov 2026.
-- <a id="n73"></a>N73. Recruitment Advisor (ITUC worker-review platform), 1 Feb 2023. [Workers' reviews of a Bangladeshi recruiting agency (Feb 2023)](https://www.recruitmentadvisor.org/comment/8192). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n74"></a>N74. Recruitment Advisor (ITUC worker-review platform), 1 Feb 2023. [Workers' reviews of a Bangladeshi recruiting agency (Feb 2023)](https://www.recruitmentadvisor.org/comment/8342). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n75"></a>N75. Recruitment Advisor (ITUC worker-review platform), 1 Feb 2023. [Workers' reviews of a Bangladeshi recruiting agency (Feb 2023)](https://www.recruitmentadvisor.org/comment/8454). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n76"></a>N76. The Daily Star (op-ed by C R Abrar, RMMRU), 22 Feb 2017. [Lowering the costs of migration](https://www.thedailystar.net/drivers-economy/lowering-the-costs-migration-1364815). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n77"></a>N77. Migrating out of Poverty Research Programme Consortium (University of Sussex) and RMMRU, Mar 2017. [Emic perspectives on brokering international migration for construction from Bangladesh to Qatar (Working Paper 49)](https://assets.publishing.service.gov.uk/media/5993145aed915d574453114d/WP49_Abrar_et_al__Emic_perspectives_on_brokering_international_migration.pdf). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n78"></a>N78. The Daily Star, 8 Dec 2016. [Migration cost goes up, wages not so](https://www.thedailystar.net/frontpage/migration-cost-goes-wages-not-so-1327447). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n79"></a>N79. Doha Guides (private guide site), 23 Nov 2025. [MOI Qatar Visa Check Online](https://www.dohaguides.com/qatar-visa-check-online/). Accessed 7 Nov 2026.
-- <a id="n80"></a>N80. SaudiJabo (Dhaka visa-processing service, blog), Oct 2026. [বিএমইটি ম্যানপাওয়ার কার্ড ২০২৬: খরচ, ফি ও সব দেশের ধাপ (BMET manpower card 2026: costs and steps)](https://saudijabo.com/blog/qatar-manpower-bmet-card). Accessed 8 Nov 2026.
-- <a id="n81"></a>N81. Human Rights Watch, 24 Sep 2020. [Qatar: Significant Labor and Kafala Reforms](https://www.hrw.org/news/2020/09/24/qatar-significant-labor-and-kafala-reforms). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n82"></a>N82. Bangla Telegraph, 22 Apr 2019. [কাতারে ধরপাকড় আতঙ্কে প্রবাসী বাংলাদেশিরা (Bangladeshis in Qatar fear raids)](https://www.banglatelegraph.com/article/92697). Accessed 8 Nov 2026. Possibly outdated.
-- <a id="n83"></a>N83. Barta24, 28 Aug 2023. [কাতারে কাজের সংকট, দুর্ভোগে প্রবাসী কর্মীরা (Work crisis in Qatar, migrant workers suffer)](https://barta24.com/details/immigrant/185357/work-crisis-in-qatar-expatriate-workers-suffering). Accessed 8 Nov 2026. Archived copy, Wayback Machine, 1 Dec 2023: [https://web.archive.org/web/20231201060746/https://barta24.com/details/immigrant/185357/work-crisis-in-qatar-expatriate-workers-suffering](https://web.archive.org/web/20231201060746/https://barta24.com/details/immigrant/185357/work-crisis-in-qatar-expatriate-workers-suffering). Possibly outdated.
-- <a id="n84"></a>N84. Qatar Living, 9 Aug 2026. [What to do if your employer delays your salary](https://www.qatarliving.com/en/article/what-to-do-if-your-employer-delays-your-salary). Accessed 7 Nov 2026.
-- <a id="n85"></a>N85. bdnews24.com (Bangla), 5 Jul 2025. [Kuwait labour market: Tk 2,500 visa reaching Tk 8 lakh (কুয়েতের শ্রমবাজার: আড়াই হাজার টাকার ভিসা আট লাখেও ঠেকছে)](https://bangla.bdnews24.com/special/95b9df0e275e). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n65"></a>N65. bdnews24.com (Bangla), 5 Jul 2025. [Kuwait labour market: Tk 2,500 visa reaching Tk 8 lakh (কুয়েতের শ্রমবাজার: আড়াই হাজার টাকার ভিসা আট লাখেও ঠেকছে)](https://bangla.bdnews24.com/special/95b9df0e275e). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n66"></a>N66. Qatar News Agency (state), reporting Ministry of Public Health statement, 10 Sep 2026. [MoPH Launches Food Handler Examination Service Outside Qatar](https://qna.org.qa/en/News-Area/News/2026-9/11/moph-launches-food-handler-examination-service-outside-qatar). Accessed 7 Nov 2026.
+- <a id="n67"></a>N67. Prothom Alo, 17 Dec 2019. [Irregularities in sending women workers to Saudi Arabia (Bangla)](https://www.prothomalo.com/bangladesh/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%B2%E0%A6%BE%E0%A6%AD-%E0%A6%8F%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%B0). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n68"></a>N68. Recruitment Advisor (ITUC). [TM Overseas: workers' reviews](https://www.recruitmentadvisor.org/agency/tm-overseas). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n69"></a>N69. Prothom Alo English, 20 Jul 2026. [Licences of 49 recruiting agencies, including 5 owned by ex-AL MPs, cancelled](https://en.prothomalo.com/bangladesh/7x5516wlwz). Accessed 8 Nov 2026.
+- <a id="n70"></a>N70. Prothom Alo, 4 Oct 2026. [Decision to withdraw 49 recruiting agencies' licences upheld (Bangla)](https://www.prothomalo.com/bangladesh/2o2duezc6j). Accessed 8 Nov 2026.
+- <a id="n71"></a>N71. Bonik Barta, 30 Oct 2025. [Government cancels 45 recruiting agencies' licences (Bangla)](https://bonikbarta.com/bangladesh/aQrMgrWG6vv1QA5c). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n72"></a>N72. International Labour Organization. [Fair recruitment pilot: Qatar construction sector and Bangladesh (QDVC, STS, Bonanza Overseas)](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@arabstates/@ro-beirut/documents/publication/wcms_820253.pdf). Accessed 8 Nov 2026. Undated: possibly outdated.
+- <a id="n73"></a>N73. Qatar Living, 9 Aug 2026. [Planning a Business Partnership in Qatar? MOCI Highlights Company Inquiry Service](https://www.qatarliving.com/article/planning-a-business-partnership-in-qatar-moci-highlights-company-inquiry-service). Accessed 7 Nov 2026.
+- <a id="n74"></a>N74. Recruitment Advisor (ITUC worker-review platform), 1 Feb 2023. [Workers' reviews of a Bangladeshi recruiting agency (Feb 2023)](https://www.recruitmentadvisor.org/comment/8192). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n75"></a>N75. Recruitment Advisor (ITUC worker-review platform), 1 Feb 2023. [Workers' reviews of a Bangladeshi recruiting agency (Feb 2023)](https://www.recruitmentadvisor.org/comment/8342). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n76"></a>N76. Recruitment Advisor (ITUC worker-review platform), 1 Feb 2023. [Workers' reviews of a Bangladeshi recruiting agency (Feb 2023)](https://www.recruitmentadvisor.org/comment/8454). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n77"></a>N77. The Daily Star (op-ed by C R Abrar, RMMRU), 22 Feb 2017. [Lowering the costs of migration](https://www.thedailystar.net/drivers-economy/lowering-the-costs-migration-1364815). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n78"></a>N78. Migrating out of Poverty Research Programme Consortium (University of Sussex) and RMMRU, Mar 2017. [Emic perspectives on brokering international migration for construction from Bangladesh to Qatar (Working Paper 49)](https://assets.publishing.service.gov.uk/media/5993145aed915d574453114d/WP49_Abrar_et_al__Emic_perspectives_on_brokering_international_migration.pdf). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n79"></a>N79. The Daily Star, 8 Dec 2016. [Migration cost goes up, wages not so](https://www.thedailystar.net/frontpage/migration-cost-goes-wages-not-so-1327447). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n80"></a>N80. Doha Guides (private guide site), 23 Nov 2025. [MOI Qatar Visa Check Online](https://www.dohaguides.com/qatar-visa-check-online/). Accessed 7 Nov 2026.
+- <a id="n81"></a>N81. SaudiJabo (Dhaka visa-processing service, blog), Oct 2026. [বিএমইটি ম্যানপাওয়ার কার্ড ২০২৬: খরচ, ফি ও সব দেশের ধাপ (BMET manpower card 2026: costs and steps)](https://saudijabo.com/blog/qatar-manpower-bmet-card). Accessed 8 Nov 2026.
+- <a id="n82"></a>N82. Human Rights Watch, 24 Sep 2020. [Qatar: Significant Labor and Kafala Reforms](https://www.hrw.org/news/2020/09/24/qatar-significant-labor-and-kafala-reforms). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n83"></a>N83. Bangla Telegraph, 22 Apr 2019. [কাতারে ধরপাকড় আতঙ্কে প্রবাসী বাংলাদেশিরা (Bangladeshis in Qatar fear raids)](https://www.banglatelegraph.com/article/92697). Accessed 8 Nov 2026. Possibly outdated.
+- <a id="n84"></a>N84. Barta24, 28 Aug 2023. [কাতারে কাজের সংকট, দুর্ভোগে প্রবাসী কর্মীরা (Work crisis in Qatar, migrant workers suffer)](https://barta24.com/details/immigrant/185357/work-crisis-in-qatar-expatriate-workers-suffering). Accessed 8 Nov 2026. Archived copy, Wayback Machine, 1 Dec 2023: [https://web.archive.org/web/20231201060746/https://barta24.com/details/immigrant/185357/work-crisis-in-qatar-expatriate-workers-suffering](https://web.archive.org/web/20231201060746/https://barta24.com/details/immigrant/185357/work-crisis-in-qatar-expatriate-workers-suffering). Possibly outdated.
+- <a id="n85"></a>N85. Qatar Living, 9 Aug 2026. [What to do if your employer delays your salary](https://www.qatarliving.com/en/article/what-to-do-if-your-employer-delays-your-salary). Accessed 7 Nov 2026.
 - <a id="n86"></a>N86. Expat.com forum (worker posts), 2022. [QVC New Name Criteria](https://www.expat.com/en/forum/middle-east/qatar/995311-qvc-new-name-criteria.html). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n87"></a>N87. MRRORS (migrant-rights NGO publication), 24 May 2026. [Gulf Health Council Updates GCC Migrant Medical Screening Regulations](https://www.mrrors.org/2026/05/ghc-updates-gcc-migrant-medical-screening-regulations/). Accessed 7 Nov 2026.
 - <a id="n88"></a>N88. Expat.com forum (worker posts), 2023. [Referral medical report pending with authorities](https://www.expat.com/en/forum/middle-east/qatar/1040083-referral-medical-report-pending-with-authorities.html). Accessed 7 Nov 2026. Possibly outdated.
@@ -3304,27 +3396,27 @@ These facts come only from news or third-party sources. Each needs an official s
 - <a id="n94"></a>N94. Gulf Times, 12 Nov 2023. [CRA urges telecom consumers to experience new digital registration service](https://gulf-times.com/article/671686/qatar/cra-urges-telecom-consumers-to-experience-new-digital-registration-service). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n95"></a>N95. Qatar Islamic Bank (QIB). [Payroll Package (WPS salary account)](https://www.qib.com.qa/en/personal/accounts/packages/payroll-package). Accessed 7 Nov 2026. Undated: possibly outdated.
 - <a id="n96"></a>N96. The Peninsula (Qatar), 18 Aug 2015. [Online wage payment plan put off till Nov](https://thepeninsulaqatar.com/article/18/08/2015/Online-wage-payment-plan-put-off-till-Nov). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n97"></a>N97. The Peninsula (Qatar), 11 Jun 2026. [Strict penalties, including closures, for summer work ban violations](https://thepeninsulaqatar.com/article/11/06/2026/strict-penalties-including-closures-for-summer-work-ban-violations). Accessed 7 Nov 2026.
-- <a id="n98"></a>N98. The Peninsula (Qatar), 29 Jun 2026. [MoL provides reporting channels for summer working hours violations](https://thepeninsulaqatar.com/article/29/06/2026/mol-provides-reporting-channels-for-summer-working-hours-violations). Accessed 7 Nov 2026.
-- <a id="n99"></a>N99. The Peninsula (Qatar), 22 Jun 2025. [Ministry urges public to help enforce summer midday work ban](https://thepeninsulaqatar.com/article/22/06/2025/ministry-urges-public-to-help-enforce-summer-midday-work-ban). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n100"></a>N100. The Peninsula (Qatar), 11 Feb 2024. [Urgent care services for single workers treat around 5,000 patients daily](https://thepeninsulaqatar.com/article/11/02/2024/urgent-care-services-for-single-workers-treat-around-5000-patients-daily). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n101"></a>N101. The Peninsula Qatar, 19 May 2022. [Two arrested in Qatar for currency fraud](https://thepeninsulaqatar.com/article/19/05/2022/two-arrested-in-qatar-for-currency-fraud). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n102"></a>N102. The Business Standard (Bangladesh), reporting Bangladesh Embassy Doha press release, 17 Jan 2024. [Bangladeshi Ambassador in Qatar holds meeting with Qatar ministry of labour](https://www.tbsnews.net/node/776374). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n103"></a>N103. Gulf Times, 31 Mar 2020. [Ministry launches new hotline to receive workers' complaints](https://www.gulf-times.com/story/659727/Ministry-launches-new-hotline-to-receive-workers-c). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n104"></a>N104. Gulf Times (QNA), 5 May 2021. [Ministry to launch unified platform for complaints, labor disputes in late May](https://www.gulf-times.com/story/690697/Ministry-to-launch-unified-platform-for-complaints). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n105"></a>N105. Doha Guides (third-party guide), 11 Nov 2025. [11 Easy Ways To File Labour Complaint in Qatar](https://dohaguides.com/labour-complaint-in-qatar). Accessed 7 Nov 2026.
-- <a id="n106"></a>N106. The Kathmandu Post, 23 May 2026. [Thirty-six Nepali workers in Qatar unpaid for eight months](https://kathmandupost.com/nepali-diaspora/2026/05/23/thirty-six-nepali-workers-in-qatar-unpaid-for-eight-months). Accessed 7 Nov 2026.
-- <a id="n107"></a>N107. The Peninsula (Qatar), 5 Jun 2025. [How to use Ministry of Labour's e-service to change employers in Qatar](https://thepeninsulaqatar.com/article/03/06/2025/how-to-use-ministry-of-labours-e-service-to-change-employers-in-qatar). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n108"></a>N108. Vialto Partners (immigration advisory), 23 Jun 2026. [Qatar | Immigration | MOI reduces post-cancellation grace period for Residence Permit holders](https://vialtopartners.com/regional-alerts/qatar-immigration-moi-reduces-post-cancellation-grace-period-for-residence-permit-holders). Accessed 7 Nov 2026.
-- <a id="n109"></a>N109. Deloitte Middle East, 24 Feb 2025. [Qatar - Update on the Resident Permit cancellation process](https://www.deloitte.com/middle-east/en/services/tax/perspectives/qatar-update-on-the-resident-permit-cancellation-process.html). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n110"></a>N110. Gulf Times, 16 Jun 2026. [Official: grace period after residence permit lapses is now 14 days](https://www.gulf-times.com/article/727575/qatar/official-grace-period-after-residence-permit-lapses-is-now-14-days). Accessed 7 Nov 2026.
-- <a id="n111"></a>N111. Gulf News, 17 Jun 2026. [Qatar cuts post-cancellation residency grace period to 14 days](https://gulfnews.com/world/gulf/qatar/qatar-cuts-post-cancellation-residency-grace-period-to-14-days-1.500577009). Accessed 7 Nov 2026.
-- <a id="n112"></a>N112. The Peninsula Qatar, 8 Mar 2022. [Check travel ban order through Metrash2: Supreme Judiciary Council](https://thepeninsulaqatar.com/article/08/03/2022/check-travel-ban-order-through-metrash2-supreme-judiciary-council). Accessed 7 Nov 2026. Possibly outdated.
-- <a id="n113"></a>N113. The Peninsula (Qatar), 25 Mar 2026. [Ministry of Labour shares safety tips to safeguard personal data from fraudulent links and emails](https://thepeninsulaqatar.com/article/25/03/2026/ministry-of-labour-shares-safety-tips-to-safeguard-personal-data-from-fraudulent-links-and-emails). Accessed 7 Nov 2026.
-- <a id="n114"></a>N114. Zawya (syndicated from Dar Al Sharq / The Peninsula), 2 Sep 2026. [Qatar's ministry warns against fake domestic worker recruitment adverts](https://www.zawya.com/en/world/qatars-ministry-warns-against-fake-domestic-worker-recruitment-adverts-474493). Accessed 7 Nov 2026.
-- <a id="n115"></a>N115. Qatar Living (news), 4 Nov 2026. [MoL warns against fake websites impersonating Moawen platform](https://www.qatarliving.com/en/article/mol-warns-against-fake-websites-impersonating-moawen-platform). Accessed 7 Nov 2026.
-- <a id="n116"></a>N116. The New Nation, 15 Jan 2026. [BD's Doha embassy issues warning](https://dailynewnation.com/?p=797225). Accessed 7 Nov 2026.
-- <a id="n117"></a>N117. Qatar Living (news), 9 Sep 2026. [Ministry of Labour Launches First Phase of Moawen Domestic Worker Recruitment Platform](https://www.qatarliving.com/en/article/ministry-of-labour-launches-first-phase-of-moawen-domestic-worker-recruitment-platform). Accessed 7 Nov 2026.
+- <a id="n97"></a>N97. The Peninsula (Qatar), 25 Mar 2026. [Ministry of Labour shares safety tips to safeguard personal data from fraudulent links and emails](https://thepeninsulaqatar.com/article/25/03/2026/ministry-of-labour-shares-safety-tips-to-safeguard-personal-data-from-fraudulent-links-and-emails). Accessed 7 Nov 2026.
+- <a id="n98"></a>N98. The Peninsula Qatar, 19 May 2022. [Two arrested in Qatar for currency fraud](https://thepeninsulaqatar.com/article/19/05/2022/two-arrested-in-qatar-for-currency-fraud). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n99"></a>N99. The New Nation, 15 Jan 2026. [BD's Doha embassy issues warning](https://dailynewnation.com/?p=797225). Accessed 7 Nov 2026.
+- <a id="n100"></a>N100. The Peninsula (Qatar), 11 Jun 2026. [Strict penalties, including closures, for summer work ban violations](https://thepeninsulaqatar.com/article/11/06/2026/strict-penalties-including-closures-for-summer-work-ban-violations). Accessed 7 Nov 2026.
+- <a id="n101"></a>N101. The Peninsula (Qatar), 29 Jun 2026. [MoL provides reporting channels for summer working hours violations](https://thepeninsulaqatar.com/article/29/06/2026/mol-provides-reporting-channels-for-summer-working-hours-violations). Accessed 7 Nov 2026.
+- <a id="n102"></a>N102. The Peninsula (Qatar), 22 Jun 2025. [Ministry urges public to help enforce summer midday work ban](https://thepeninsulaqatar.com/article/22/06/2025/ministry-urges-public-to-help-enforce-summer-midday-work-ban). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n103"></a>N103. The Peninsula (Qatar), 11 Feb 2024. [Urgent care services for single workers treat around 5,000 patients daily](https://thepeninsulaqatar.com/article/11/02/2024/urgent-care-services-for-single-workers-treat-around-5000-patients-daily). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n104"></a>N104. The Business Standard (Bangladesh), reporting Bangladesh Embassy Doha press release, 17 Jan 2024. [Bangladeshi Ambassador in Qatar holds meeting with Qatar ministry of labour](https://www.tbsnews.net/node/776374). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n105"></a>N105. Gulf Times, 31 Mar 2020. [Ministry launches new hotline to receive workers' complaints](https://www.gulf-times.com/story/659727/Ministry-launches-new-hotline-to-receive-workers-c). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n106"></a>N106. Gulf Times (QNA), 5 May 2021. [Ministry to launch unified platform for complaints, labor disputes in late May](https://www.gulf-times.com/story/690697/Ministry-to-launch-unified-platform-for-complaints). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n107"></a>N107. Doha Guides (third-party guide), 11 Nov 2025. [11 Easy Ways To File Labour Complaint in Qatar](https://dohaguides.com/labour-complaint-in-qatar). Accessed 7 Nov 2026.
+- <a id="n108"></a>N108. The Kathmandu Post, 23 May 2026. [Thirty-six Nepali workers in Qatar unpaid for eight months](https://kathmandupost.com/nepali-diaspora/2026/05/23/thirty-six-nepali-workers-in-qatar-unpaid-for-eight-months). Accessed 7 Nov 2026.
+- <a id="n109"></a>N109. The Peninsula (Qatar), 5 Jun 2025. [How to use Ministry of Labour's e-service to change employers in Qatar](https://thepeninsulaqatar.com/article/03/06/2025/how-to-use-ministry-of-labours-e-service-to-change-employers-in-qatar). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n110"></a>N110. Vialto Partners (immigration advisory), 23 Jun 2026. [Qatar | Immigration | MOI reduces post-cancellation grace period for Residence Permit holders](https://vialtopartners.com/regional-alerts/qatar-immigration-moi-reduces-post-cancellation-grace-period-for-residence-permit-holders). Accessed 7 Nov 2026.
+- <a id="n111"></a>N111. Deloitte Middle East, 24 Feb 2025. [Qatar - Update on the Resident Permit cancellation process](https://www.deloitte.com/middle-east/en/services/tax/perspectives/qatar-update-on-the-resident-permit-cancellation-process.html). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n112"></a>N112. Gulf Times, 16 Jun 2026. [Official: grace period after residence permit lapses is now 14 days](https://www.gulf-times.com/article/727575/qatar/official-grace-period-after-residence-permit-lapses-is-now-14-days). Accessed 7 Nov 2026.
+- <a id="n113"></a>N113. Gulf News, 17 Jun 2026. [Qatar cuts post-cancellation residency grace period to 14 days](https://gulfnews.com/world/gulf/qatar/qatar-cuts-post-cancellation-residency-grace-period-to-14-days-1.500577009). Accessed 7 Nov 2026.
+- <a id="n114"></a>N114. The Peninsula Qatar, 8 Mar 2022. [Check travel ban order through Metrash2: Supreme Judiciary Council](https://thepeninsulaqatar.com/article/08/03/2022/check-travel-ban-order-through-metrash2-supreme-judiciary-council). Accessed 7 Nov 2026. Possibly outdated.
+- <a id="n115"></a>N115. Qatar Living (news), 9 Sep 2026. [Ministry of Labour Launches First Phase of Moawen Domestic Worker Recruitment Platform](https://www.qatarliving.com/en/article/ministry-of-labour-launches-first-phase-of-moawen-domestic-worker-recruitment-platform). Accessed 7 Nov 2026.
+- <a id="n116"></a>N116. Zawya (syndicated from Dar Al Sharq / The Peninsula), 2 Sep 2026. [Qatar's ministry warns against fake domestic worker recruitment adverts](https://www.zawya.com/en/world/qatars-ministry-warns-against-fake-domestic-worker-recruitment-adverts-474493). Accessed 7 Nov 2026.
+- <a id="n117"></a>N117. Qatar Living (news), 4 Nov 2026. [MoL warns against fake websites impersonating Moawen platform](https://www.qatarliving.com/en/article/mol-warns-against-fake-websites-impersonating-moawen-platform). Accessed 7 Nov 2026.
 - <a id="n118"></a>N118. The Peninsula (Qatar), 3 Oct 2025. [Labour Ministry warns against fake online accounts](https://thepeninsulaqatar.com/article/03/10/2025/labour-ministry-warns-against-fake-online-accounts). Accessed 7 Nov 2026. Possibly outdated.
 - <a id="n119"></a>N119. Doha Guides (private guide site), 11 Nov 2025. [How To Validate Hayya Card Pending Accommodation (comment page 2)](https://www.dohaguides.com/hayya-card-pending-accommodation/comment-page-2/). Accessed 7 Nov 2026.
 - <a id="n120"></a>N120. Doha Guides (private guide site), 17 Nov 2025. [Qatar Tourist Visa (Hayya A1) Requirements & Steps (comment page 11)](https://www.dohaguides.com/how-to-apply-qatar-tourist-visa-online/comment-page-11/). Accessed 7 Nov 2026.
