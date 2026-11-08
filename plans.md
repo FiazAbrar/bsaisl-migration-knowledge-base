@@ -28,3 +28,7 @@ The idea:
 5. Track every question in one place: priority, channel, owner, status, answer.
 
 To decide first: who makes the calls and walk-throughs, whether insider answers can be cited and how, which insiders we can reach (BRAC's Migration Programme first?), where the tracker lives, and how much must land before 3 December.
+
+## Repo size
+
+The repo is about 940 MB and grows with every country, mostly from saved sources (pages and PDFs kept as evidence). Everything ever pushed stays in history, so deleting files later doesn't shrink it. Options to decide before it gets much bigger: Git LFS for PDFs, or keeping saved sources outside the repo with a checksum list in it.

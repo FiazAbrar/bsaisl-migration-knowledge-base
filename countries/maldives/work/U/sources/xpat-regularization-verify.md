@@ -1,9 +1,0 @@
-#### Regularization Verification
-
-Please provide the details below to verify regularization registration.
-
-Registration Number
-
-First Name
-
-Please provide regularization registry number and first name to verify the regularization registry details of the employee.
