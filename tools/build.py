@@ -106,7 +106,14 @@ def main():
             nums.append(f"[{pre}{i}{tag}](#{a}{i})")
         return "\\[" + ", ".join(nums) + "\\]"
 
-    body = re.sub(rf"\[({pat}(?:, ?{pat})*)\](?!\()", rep, text)
+    cites = []
+
+    def hold(m):
+        r = rep(m)
+        cites.append(re.findall(r"\[([^\[\]]+)\]\((#[on]\d+)\)", r))
+        return f"\x00C{len(cites) - 1}\x00"
+
+    body = re.sub(rf"\[({pat}(?:, ?{pat})*)\](?!\()", hold, text)
     if errors:
         print("\n".join(sorted(set(errors))))
         sys.exit(f"{len(set(errors))} citation errors; fix the source")
@@ -118,15 +125,105 @@ def main():
             f"- []{{#n{i + 1}}}N{i + 1}. {ref[k]}\n" for i, k in enumerate(nm))
     s = body + refs
 
-    def slug(h):
-        return re.sub(r"\s+", "-", re.sub(r"[^\w\s-]", "", h.lower()).strip())
-    toc = "## Contents\n\n" + "".join(f"- [{h}](#{slug(h)})\n" for h in re.findall(r"^## (.+)$", s, re.M)) + "\n"
-    i = s.index("\n## ") + 1
-    s = s[:i] + toc + s[i:]
+    # "Sources checked up to": the latest access date among the sources cited.
+    acc = {r["name"]: r["access_date"] for r in load("sources.csv")} if os.path.exists("sources.csv") else {}
+    dates = sorted(acc[k] for k in om + nm if acc.get(k))
+    if dates:
+        y, mo, d = dates[-1].split("-")
+        line = f"Sources checked up to {int(d)} {MONTHS[int(mo) - 1]} {y}."
+        t = s.index("\n") + 1
+        s = s[:t] + "\n" + line + "\n" + s[t:]
 
-    open("pandoc.md", "w", encoding="utf-8").write(s)
+    i = s.index("\n## ") + 1
+    s = s[:i] + "## Contents\n\n\x00TOC\x00\n\n" + s[i:]
+
+    # Heading ids as GitHub makes them (duplicates get -1, -2, ...); pandoc gets the same ids explicitly.
+    lines, heads, used, inref = s.split("\n"), [], {}, False
+    for n, ln in enumerate(lines):
+        m = re.match(r"^(#{1,6}) (.+?)\s*$", ln)
+        if not m:
+            continue
+        base = re.sub(r"[^\w\- ]", "", m.group(2).lower()).replace(" ", "-")
+        k = used.get(base, 0)
+        used[base] = k + 1
+        hid = base if k == 0 else f"{base}-{k}"
+        lvl = len(m.group(1))
+        if lvl == 2:
+            inref = m.group(2) == "References"
+        heads.append({"n": n, "lvl": lvl, "text": m.group(2), "id": hid, "ref": inref})
+
+    # Section of each line: index of the H2 it sits under.
+    h2_of, cur = [], -1
+    hmap = {h["n"]: h for h in heads}
+    for n in range(len(lines)):
+        if n in hmap and hmap[n]["lvl"] == 2:
+            cur = n
+        h2_of.append(cur)
+    by_sec = {}
+    for h in heads:
+        if not h["ref"]:
+            by_sec.setdefault(h2_of[h["n"]], []).append(h)
+
+    def find(title, sec, prefix=False):
+        t = title.strip().strip('"').lower()
+        if len(t) < 4:
+            return None
+        ok = (lambda h: h["text"].lower().startswith(t)) if prefix else (lambda h: h["text"].lower() == t)
+        local = [h for h in by_sec.get(sec, []) if ok(h)]
+        if len(local) == 1:
+            return local[0]["id"]
+        glob = [h for h in heads if not h["ref"] and ok(h)]
+        return glob[0]["id"] if len(glob) == 1 else None
+
+    LINK = re.compile(r"\[[^\]]*\]\([^)]*\)|<[^>]+>|\x00C\d+\x00")
+
+    def link_refs(seg, sec):
+        def step(m):
+            hid = None
+            for h in by_sec.get(sec, []):
+                if re.match(rf"Step {m.group(1)}\b", h["text"]):
+                    hid = h["id"]
+                    break
+            return f"[{m.group(0)}](#{hid})" if hid else m.group(0)
+        seg = re.sub(r"\bStep (\d+)\b", step, seg)
+        def see(m):
+            hid = find(m.group(2), sec) or (len(m.group(2)) >= 15 and find(m.group(2), sec, prefix=True))
+            return f"{m.group(1)}[{m.group(2)}](#{hid})" if hid else m.group(0)
+        seg = re.sub(r'(\bsee |\()("[^"]{4,80}"|[A-Z][^,;.()\[\]]{2,80}?)(?=[,;.)])', see, seg)
+        return seg
+
+    for n, ln in enumerate(lines):
+        if n in hmap or h2_of[n] < 0 or "\x00TOC\x00" in ln:
+            continue
+        if any(h["ref"] for h in heads if h["n"] == h2_of[n]):
+            continue
+        parts, last, out = [], 0, []
+        for m in LINK.finditer(ln):
+            out.append(link_refs(ln[last:m.start()], h2_of[n]))
+            out.append(m.group(0))
+            last = m.end()
+        out.append(link_refs(ln[last:], h2_of[n]))
+        lines[n] = "".join(out)
+
+    toc = "".join(("  " if h["lvl"] == 3 else "") + f"- [{h['text']}](#{h['id']})\n"
+                  for h in heads if h["lvl"] in (2, 3) and h["text"] != "Contents" and not (h["ref"] and h["lvl"] == 3))
+
+    def render(gh):
+        out = list(lines)
+        if not gh:
+            for h in heads:
+                out[h["n"]] = out[h["n"]] + f" {{#{h['id']}}}"
+        t = "\n".join(out).replace("\x00TOC\x00", toc.rstrip("\n"))
+        def c(m):
+            items = cites[int(m.group(1))]
+            if gh:
+                return "<sup>" + ", ".join(f"[{a}]({b})" for a, b in items) + "</sup>"
+            return "^" + ",\\ ".join(f"[{a.replace(' ', chr(92) + ' ')}]({b})" for a, b in items) + "^"
+        return re.sub(r"\x00C(\d+)\x00", c, t)
+
+    open("pandoc.md", "w", encoding="utf-8").write(render(False))
     # GitHub doesn't render pandoc's []{#id} anchors, so README.md uses HTML anchors.
-    open("README.md", "w", encoding="utf-8").write(re.sub(r"\[\]\{#(\w+)\}", r'<a id="\1"></a>', s))
+    open("README.md", "w", encoding="utf-8").write(re.sub(r"\[\]\{#(\w+)\}", r'<a id="\1"></a>', render(True)))
 
     docx = f"{country}.docx"
     subprocess.run(["pandoc", "pandoc.md", "-o", docx], check=True)

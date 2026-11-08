@@ -24,3 +24,4 @@ Elsewhere:
 - official-pdfs and data: Bangladesh-side documents and BMET's recruiting-agency list
 - CLAUDE.md: the rules every doc follows
 - PROMPT.md: the message to paste into Claude Code to start a new country
+- plans.md: bigger pieces of work we're thinking through before starting

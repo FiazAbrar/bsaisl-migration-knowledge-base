@@ -1,6 +1,6 @@
 # Malaysia: migration guide
 
-How to go to Malaysia on a Bangladeshi passport, visa by visa, step by step. \[3\] is an official source; \[N3\] is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like \[N3 (2022)\], marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
+How to go to Malaysia on a Bangladeshi passport, visa by visa, step by step. A raised number such as 3 is an official source; N3 is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
 Tk is the Bangladeshi taka (1 lakh is Tk 100,000); RM is the Malaysian ringgit, converted throughout at RM1 = about Tk 30.6, the rate on 6 November 2026 [YI0024]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers people who want to work abroad and gives them emigration clearance [B0026, G0001]. IMI (Jabatan Imigresen Malaysia, the Immigration Department of Malaysia) approves work visas and runs the eVISA (electronic visa) system on its MyVISA website, malaysiavisa.imi.gov.my [V0005, Z0032, W0045]. Bangladeshis need a visa to enter Malaysia for any purpose, even a short visit [V0001, V0002].
 

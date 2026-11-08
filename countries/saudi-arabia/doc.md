@@ -1,6 +1,6 @@
 # Saudi Arabia: migration guide
 
-How to go to Saudi Arabia from Bangladesh, visa by visa, step by step. \[3\] cites an official source; \[N3\] a news or other third-party source, listed under "Needs an official source"; a year, as in \[N3 (2022)\], marks a source older than 2025. "Need to know" marks a fact not yet confirmed; "You'll need" lists what to have ready.
+How to go to Saudi Arabia from Bangladesh, visa by visa, step by step. A raised number such as 3 cites an official source; N3 a news or other third-party source, listed under "Needs an official source"; a year, as in N3 (2022), marks a source older than 2025. "Need to know" marks a fact not yet confirmed; "You'll need" lists what to have ready.
 
 Tk is the Bangladeshi taka (1 lakh is Tk 100,000), SR the Saudi riyal and USD the US dollar. Riyal amounts are converted at SR 1 = Tk 33, the remittance rate on 7 November 2026 [SM0010]. BMET, the Bureau of Manpower, Employment and Training, is the Bangladesh government agency for overseas employment and safe migration [A0111].
 

@@ -1,6 +1,6 @@
 # Qatar: migration guide
 
-How to go to Qatar from Bangladesh, visa by visa, step by step, for Bangladesh passport holders, as of November 2026. \[3\] is an official source; \[N3\] is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like \[N3 (2022)\], marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
+How to go to Qatar from Bangladesh, visa by visa, step by step, for Bangladesh passport holders, as of November 2026. A raised number such as 3 is an official source; N3 is a news, NGO (non-governmental organisation), research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
 QR is the Qatari riyal; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). A Bangladesh passport holder needs a visa before travelling to Qatar [V0001, V0002]. Laws are quoted in their current text from Al Meezan, the legal portal of Qatar's Ministry of Justice [W0016, W0031, L0073].
 
