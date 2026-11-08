@@ -18,6 +18,27 @@ Merged from the per-topic research files in `drafts/` (8 November 2026). Fact id
 
 **Not done:** "What ties you to the employer" is not in N's list; facts N0016, N0030, N0078, N0090, N0120 support it if the lead wants a draft.
 
+## Work visa (Maldives side) and professionals (prefix W)
+
+**Searched.** Official: immigration.gov.mv (work visa, downloads, press announcements, FAQs: the FAQs cover only passports), xpat.egov.mv (home, announcements list, notifications, verification page, employer negligence list, Fingerprint Requirement page: 520 error), one.gov.mv (new work permit guideline; the work permit medical service page is a login stub), gazette.gov.mv (2024 permits notice; Regulation 2025/R-120 PDF), mira.gov.mv (work permit fee FAQ), health.gov.mv (PDHA guideline 2025; MNMC criteria), mmdc.gov.mv (down, 522; fees PDF via Wayback), MQA form (gazette), lra.gov.mv (Employment Act English), bankofmaldives.com.mv, dhiraagu.com.mv. News and guides: Corporate Maldives, MV+, The Edition, Atoll Times, PSM, Adhadhu, CareersMV, LabourBooking. Search terms: "Maldives work permit fee expatriate Xpat 2026", "Regulation for Immigrant Workers 2025 security deposit", "R-120 deposit Bangladesh", "HPA work permit medical tests", "MIPSS pre-departure screening Bangladesh", "pre-departure health assessment Bangladesh designated", "Maldives Bangladesh work permits suspended resumed 2026", Bangla "মালদ্বীপ ওয়ার্ক পারমিট মেডিকেল এন্ট্রি পাস ভিসা যাচাই", BML account expatriate, Dhiraagu SIM foreigner, MQA recognition foreign, MMDC registration foreign doctors, MNMC foreign nurse, Teachers licence foreign.
+
+**The rulebook is in Dhivehi.** Regulation 2025/R-120 (gazette 7649.pdf) and the Xpat "major changes" PDF are saved (`gazette-mv-regulation-2025-r-120`, `xpat-mv-r120-major-changes`, registered, no facts) but their Thaana text does not extract (font-encoded). Every article-level rule (30-day conditional permit, 45-day contract, Article 77 employer pays, deposit no more than the air fare, Annex 4 documents) is cited from CareersMV, a Maldivian job-board guide that cites articles, so these are [N] citations. A Dhivehi reader should check Articles 34, 36, 43, 51, 58-60, 77 and Schedules 4-5 and replace W0148-W0177 with official cites.
+
+**Conflicts and dating.**
+- Local medical deadline: Xpat says within 15 days of arrival (W0043, 2024 notice still on the notices page); the MoH PDHA guideline says within 30 days (W0086). CareersMV (W0169) says the employer completes medical, insurance etc. within 30 days. The doc uses 15 days (stricter, Xpat). Possible Need to know for the lead.
+- Deposit: only the 2021 Xpat table (Bangladesh MVR 8,000) gives numbers (W0064); R-120 Schedule 5 says set per nationality, at most the air fare (W0153). Not a conflict, but the 2021 figure is possibly outdated.
+- Insurance minimums (W0067-W0075) and registered insurers are from 2021.
+- MMDC fees are a 2015 table (Wayback copy of Feb 2026); the layout text was garbled, so a raw-order text copy (`mmdc-mv-fees.md`, pdftotext -raw from the same PDF) was saved for the quotes.
+- Medical providers list is current (18 August 2026, W0079).
+- The ministry is variously called Ministry of Homeland Security and Technology and (on newer Xpat pages) Ministry of Homeland Security, Labour and Technology. The doc uses the older name, as Immigration still does; the lead should pick one.
+- Contact numbers: older Xpat pages give 1500 and xpat@1500help.mv; since 13 July 2025 the Department of Foreign Labour uses 1485 and xpat@home.gov.mv (W0040, W0041). Only 1485 is used in the draft.
+
+**What happens in practice.** No worker-side source found on whether Bangladeshis see the letter of appointment before departure, or on deposit charges passed to workers. MIPSS (a Maldives Immigration pre-departure screening scheme for Bangladesh via a Bangladeshi agency and ten recruiters) was announced in 2016 (PSM, Sep 2016, read via Firecrawl, not saved); no evidence it runs now. The Employer Negligence list (39 pages; top names include FEDO Pvt Ltd with 58 cases and North Coast Contractors with 27) is a usable red-flag check; names not put in the doc.
+
+**Facts logged but not used.** W0028 (MIRA 1415: older fee line), W0036 (R-120 fine scale: employer-side), W0050 (MVR 1,000 missing report fee: for U), W0053 (duplicate of 1485), W0080 (live chat hours), W0142 (private citizens up to five workers: for F, domestic workers). Registered but unused sources: `gazette-mv-homeland-293978` (June 2024 notice of permit delays, contact 1500), `xpat-mv-employee-self-cancellation-form` (worker can self-cancel a permit after leaving; then barred from a new permit for 6 months without the old employer's no-objection: useful for L, Leaving at the end of the job; the form cites the repealed 2023/R-111, so check whether R-120 kept it), `guide-labourbooking-maldives-corridors` (agency guide; duplicates official facts), `xpat-mv-medical-requirement-details` used.
+
+**For other agents.** L: W0125-W0131 (Employment Act), W0033/W0034/W0147 (bank salary rule), W0149/W0173 (moving employer without consent). U: W0039 (biometrics), W0050 (missing report fee), W0146. F: W0142. G: W0033, W0097-W0101.
+
 ## Bangladesh-side steps and the High Commission (prefix B)
 
 **Searched.** male.mofa.gov.bd: home, every Consular, Employment, Expatriate Welfare and Contact page, the FAQ, and all PDFs behind "Demand letter attestation", "Work Permit Entry pass Attestation sample documents", "Sample Travel Permit Application", the passport-collection sample, the notices file and the membership poster (image PDFs read visually). BMET permission letters via `agencies/activity.csv` (5 Maldives letters, all fetched). OEP country-clearance API for Maldives (country_id 107) by year 2022-2026, women, and by month 2025-2026. Web: "মালদ্বীপ অভিবাসন ব্যয় বিএমইটি স্মার্ট কার্ড", "Maldives Bangladeshi workers BMET clearance demand letter attestation", "অভিবাসন ব্যয় মালদ্বীপ ১,১৫,০০০" (no government-wide Maldives cost cap found; caps are set per permission letter).
@@ -164,6 +185,16 @@ Exact URL, suggested file name and what each would prove. Save in a browser and 
 - BMET permission letters for the Maldives (saved as `bmet-permission-maldives-rl0894-2024-05.pdf`, `...-rl1287-2024-05.pdf`): text layer garbled Bangla; need a person to read the salary, employer and maximum fee per worker by eye.
 - Mihaaru RTI story (original of N0019-N0025), mihaaru.com: not tried directly; Edition is Mihaaru's English sister.
 - https://www.state.gov 2025 TIP saved fine; the 2026 TIP Maldives chapter not found.
+
+### Work visa (Maldives side) and professionals (W)
+
+- https://xpat.egov.mv/Home/RequiresFingerprint (`xpat-mv-requires-fingerprint`): 520 error via Firecrawl. Would prove the official Fingerprint Requirement form fields (passport number and country); currently cited from CareersMV (W0159).
+- https://mmdc.gov.mv/?p=1924 and https://mmdc.gov.mv/?p=1500 (`mmdc-mv-registration-criteria`): 522, no Wayback capture. Would prove current MMDC registration criteria, licensing exam rule for foreign doctors, recognised schools.
+- https://mmdc.gov.mv/?p=1461 (`mmdc-mv-recognised-institutions`): 522. Whether Bangladeshi medical colleges are recognised.
+- https://mmdc.gov.mv/wp-content/uploads/MALDIVES-MEDICAL-AND-DENTAL-COUNCIL-LICENSING-EXAM-SCHEDULE2026.pdf (`mmdc-mv-exam-schedule-2026`): 522. 2026 exam dates.
+- https://boesl.portal.gov.bd/sites/default/files/files/boesl.portal.gov.bd/notices/f8d4d808_3f4c_418e_9750_4465db8b26e5/Job%20in%20Maldives%204.pdf: live site has a TLS error; saved from Wayback (2017 capture) as `boesl-bd-job-in-maldives-4`. A current BOESL Maldives notice would give 2026 doctor salaries and terms.
+- https://one.gov.mv/services/64817583-7309-f273-1334-4107e0ba1012 (`onegov-mv-work-permit-medical`): renders only a login stub. Would describe the HPA confirmatory-test service for suspected notifiable diseases.
+- https://gazette.gov.mv/iulaan/412236 and https://gazette.gov.mv/iulaan/412237 (`gazette-mv-iulaan-412236`, `-412237`): not fetched for time; the official notices behind W0032 and W0033 (already cited from the Xpat notices page).
 
 ### Bangladesh-side steps and the High Commission (B)
 
