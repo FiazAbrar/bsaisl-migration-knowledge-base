@@ -6,9 +6,11 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000); AED is the UAE dirham, conver
 
 ## Background
 
-**In one minute.** A UAE job starts with a MOHRE offer letter and work permit issued to a UAE company for a named worker, and the law makes the employer pay every recruitment cost [W0009, N0129, W0060]. In practice most visas come through a relative already in the UAE or are bought and resold through brokers and agencies, and "free visas" and partner visas sell the right to live in the UAE with no real job behind them [N0117, N0115, N0111, N0107]. The government cap is Tk 1,07,780, but Dubai Taxi drivers pay at least Tk 3.5 lakh, and Middle East jobs in general cost Tk 5 to 7 lakh [MA0009, N0080, N0116]. Since July 2024, when Bangladeshis were jailed for protesting in UAE streets, visit visas and most work visas for Bangladeshis have been restricted, with no published ban [N0033, V0001, V0009]. Some work visas still go through: BMET cleared 23,044 workers for the UAE from 1 January to 7 November 2026, but only 63 in the first week of November [N0137, N0145]. Since July 2026 the UAE has been cancelling the residence visas of Bangladeshis who went home on leave, about 5,000 by mid-October, with no formal reason given [N0001, N0100, N0057]. The visa ties you to one employer, who can cancel it online without telling you [W0057, L0126, N0028].
+### In one minute
 
-**Is it open now, and who can go?**
+A UAE job starts with a MOHRE offer letter and work permit issued to a UAE company for a named worker, and the law makes the employer pay every recruitment cost [W0009, N0129, W0060]. In practice most visas come through a relative already in the UAE or are bought and resold through brokers and agencies, and "free visas" and partner visas sell the right to live in the UAE with no real job behind them [N0117, N0115, N0111, N0107]. The government cap is Tk 1,07,780, but Dubai Taxi drivers pay at least Tk 3.5 lakh, and Middle East jobs in general cost Tk 5 to 7 lakh [MA0009, N0080, N0116]. Since July 2024, when Bangladeshis were jailed for protesting in UAE streets, visit visas and most work visas for Bangladeshis have been restricted, with no published ban [N0033, V0001, V0009]. Some work visas still go through: BMET cleared 23,044 workers for the UAE from 1 January to 7 November 2026, but only 63 in the first week of November [N0137, N0145]. Since July 2026 the UAE has been cancelling the residence visas of Bangladeshis who went home on leave, about 5,000 by mid-October, with no formal reason given [N0001, N0100, N0057]. The visa ties you to one employer, who can cancel it online without telling you [W0057, L0126, N0028].
+
+### Is it open now, and who can go?
 
 Partly open: new work visas for Bangladeshis have been restricted since July 2024, and since July 2026 the UAE has been cancelling the residence visas of Bangladeshis who went home on leave [N0037, N0001].
 
@@ -36,19 +38,21 @@ Partly open: new work visas for Bangladeshis have been restricted since July 202
 - **Visit visa:** the UAE Embassy in Dhaka issued 30 to 50 a day in May 2025; by October 2025 travel agents called tourist and transit visas "almost zero" [N0074, N0062].
 - **Residence visa of people now in Bangladesh on leave:** at risk of automatic cancellation [N0005, N0029].
 
-**The channels.**
+#### The channels
 - **A named employer recruiting through a licensed agency:** Dubai Taxi's 2026 drive runs through three agencies, Al Anas Overseas, VIP Global and M Bahar Overseas, with screening at the Bangladesh-Korea Technical Training Centre from 18 May 2026 [N0078, N0077].
 - **A visa found by a relative in the UAE:** the most common route; workers say it is safer than agents [N0117, N0125].
 - **Partner or investor visa:** a residence visa tied to a trade licence, sold as a way in when labour visas closed; working for anyone else on it is illegal ("How a job reaches you") [N0107, N0108].
 
-**Who qualifies.** Whoever the employer's MOHRE work permit names: the UAE portal says a genuine job comes with a MOHRE offer letter signed by the employer's authorised manager [N0129]. Dubai Taxi drivers must communicate in English [N0079].
+#### Who qualifies
 
-**Size.**
+Whoever the employer's MOHRE work permit names: the UAE portal says a genuine job comes with a MOHRE offer letter signed by the employer's authorised manager [N0129]. Dubai Taxi drivers must communicate in English [N0079].
+
+#### Size
 - More than 12 lakh Bangladeshis live in the UAE by unofficial estimates, the third-largest foreign community after Indians and Pakistanis [N0014, N0065]. A private estimate puts them at 0.84 million, against 4.36 million Indians, 1.9 million Pakistanis, 0.78 million Filipinos and 0.36 million Nepalis [N0146, N0147, N0148].
 - BMET clearances for the UAE: 98,201 in 2023 (4th destination), 47,158 in 2024 (5th), 13,750 in 2025 (6th) and 23,044 in 2026 up to 7 November (6th, behind Saudi Arabia, Singapore, Qatar, the Maldives and Kuwait) [N0084, N0093, N0135, N0094, N0136, N0095, N0137, N0096]. Before the curbs about 5,000 to 6,000 a month went [N0061]. From 2004 to May 2025 BMET counts 2,207,991 Bangladeshis sent to the UAE, with a peak of 419,355 in 2008 [B0105]; Saudi Arabia took 38.85 lakh from 2004 to April 2024 [N0122]. In January to September 2026 UAE clearances more than doubled while Saudi Arabia's fell 45.5%, Qatar's 37.4% and Kuwait's 33.4% [N0045, N0046, N0047].
 - Remittances from the UAE: USD 4,583.9 million in FY2025-26, of USD 35,589.39 million in total; in July to September 2026 the UAE was the third source after Saudi Arabia and the UK [G0097, G0098, G0099].
 
-**What closed it before.**
+#### What closed it before
 - **2012 to 2020:** the UAE largely stopped labour visas for Bangladeshis from 2012; the Ministry links this possibly to concerns about recruitment practices and the UAE's policy of giving jobs to its own nationals; migration fell until 2021 [MA0013, MA0012, N0036, N0073].
 - **April 2018:** Bangladesh and the UAE signed an MoU (memorandum of understanding, a government-to-government agreement) on recruiting domestic workers, under which the UAE agreed to recruit Bangladeshi women and men in 19 job categories; flows still fell until 2021 [MB0030, MA0014, N0073].
 - **2021 to mid-2024:** flows rose again on various visas, to 101,000 in 2022 and 98,000 in 2023 [N0073, N0041].
@@ -57,44 +61,60 @@ Partly open: new work visas for Bangladeshis have been restricted since July 202
 - **2025:** limited reopening (30 to 50 visit visas a day, skilled visas, 500 security-guard visas granted and 1,000 more approved) after the chief adviser's special envoy lobbied; the envoy was told over 25% of the UAE's visa and residency violators are Bangladeshis [N0074, N0075, N0076, N0064]. Government insiders say recruitment fraud, fake documents and visa violations also led the UAE to tighten screening, and visit visas were curbed because Bangladeshis used them to find work [N0063, V0013]; Bangladesh's Foreign Ministry calls the restrictions a UAE policy decision [N0066]. In January 2026 industry insiders listed the UAE among countries that often reject Bangladeshi visa applications [V0207].
 - **July 2026 onward:** residence visas of people on leave cancelled (above).
 
-**How a job reaches you, and who takes a cut**
+### How a job reaches you, and who takes a cut
 
 A UAE work visa starts with a UAE company that has a MOHRE work permit for a named person; the law makes that employer pay recruitment costs, so the ambassador says a worker should be able to come free [N0129, N0131, N0115]. In practice the visa is bought and sold through layers of middlemen, and the price rises at each hand [N0115, A0002].
 
-**Who carries the visa.**
+#### Who carries the visa
 - **Relatives:** most workers come through a relative already in the UAE [N0117, N0125].
 - **Agencies and their brokers:** a 2019 study found agents and relatives alike paint the job rosier than it is, and the contract signed in Bangladesh often differs from the one the company holds [N0123, N0124].
 
-**Free visa, partner visa, company visa.** Workers sort UAE visas this way:
+#### Free visa, partner visa, company visa
+
+Workers sort UAE visas this way:
 - **কোম্পানি ভিসা (company visa):** a work permit for a real job with the company that sponsors you; the Dubai Taxi and construction visas of 2026 are this kind [N0077, N0090].
 - **ফ্রি ভিসা (free visa):** no such visa exists in UAE law. Brokers sell a work permit in a company's name with no job behind it; the worker must find work himself, working for anyone else is illegal, the company can cancel the visa at any time, and renewal means paying the broker again [N0111, N0113].
 - **পার্টনার/ইনভেস্টর ভিসা (partner or investor visa):** residence as a part-owner of a trade licence, usually one licence for two people plus an Arab partner paid over a lakh taka and a shop or office lease [N0109]. In 2019 brokers charged Tk 6 to 7 lakh, bringing people in on visit visas, though the visa cost less than half that [N0107]. The holder may work only for his own licence: one caught working for an Abu Dhabi company got two months' jail and deportation, and the company was fined AED 50,000 [N0108]. Raids made employers stop hiring partner-visa holders [N0110]. In 2026 the embassy listed "labourer working on an investor visa" among possible reasons for cancellations [N0056].
 
-**What the clearance data shows.** BMET's own clearance titles for the UAE in 2023 were led by "Manager" (23,300), then "Worker" (20,050), "Accountant" (8,597) and "Labour" (6,341); 2024 had 1,006 cleared as "Partner" [N0085, N0086, N0087, N0088]. In 2026 construction helpers, drivers, cleaners and masons lead, though "Marketing Manager", "Accountant" and "Sales Manager" still number in the hundreds [N0090, N0092]. A visa whose job title does not match the real work is one of the possible reasons the embassy gave for the 2026 cancellations [N0055].
+#### What the clearance data shows
+
+BMET's own clearance titles for the UAE in 2023 were led by "Manager" (23,300), then "Worker" (20,050), "Accountant" (8,597) and "Labour" (6,341); 2024 had 1,006 cleared as "Partner" [N0085, N0086, N0087, N0088]. In 2026 construction helpers, drivers, cleaners and masons lead, though "Marketing Manager", "Accountant" and "Sales Manager" still number in the hundreds [N0090, N0092]. A visa whose job title does not match the real work is one of the possible reasons the embassy gave for the 2026 cancellations [N0055].
 
 > **Need to know**
 > - Who were the 23,300 Bangladeshis cleared as "Manager" for the UAE in 2023: real managers, partner-visa holders, or labourers on visas with skilled titles bought to pass the restriction?
 > - What does a UAE company work visa (construction helper, cleaner, driver) sell for in Dhaka in 2026, and what does a "free visa" or partner visa sell for?
 > - Who sells UAE visas to Bangladeshi brokers: the UAE sponsor (kafil) himself, Bangladeshi-owned companies in the UAE, or typing-centre agents?
 
-**The choke point.** Two gates: the UAE deciding whether to issue a visa to a Bangladeshi passport at all, and BMET's emigration clearance (the smart card) [V0009, A0001]. The second has been sold: a 2022 Ministry inquiry found BMET had issued 6,938 smart cards against UAE permissions for 2,960 workers, sold to manpower traders and brokers for Tk 3 to 4.5 lakh each, and named BMET officials in the ring [A0001, A0002, A0004]. Workers sent on those cards got neither legal status nor jobs, and many slept in parks [A0003]. In September 2026 a politician alleged that BMET had suspended clearance cards for a week while cards were being issued through back channels for more money [B0101]. Each agency's record is in the `agencies` folder.
+#### The choke point
 
-**What you pay, and what you earn and keep**
+Two gates: the UAE deciding whether to issue a visa to a Bangladeshi passport at all, and BMET's emigration clearance (the smart card) [V0009, A0001]. The second has been sold: a 2022 Ministry inquiry found BMET had issued 6,938 smart cards against UAE permissions for 2,960 workers, sold to manpower traders and brokers for Tk 3 to 4.5 lakh each, and named BMET officials in the ring [A0001, A0002, A0004]. Workers sent on those cards got neither legal status nor jobs, and many slept in parks [A0003]. In September 2026 a politician alleged that BMET had suspended clearance cards for a week while cards were being issued through back channels for more money [B0101]. Each agency's record is in the `agencies` folder.
 
-**The cap.** The government's maximum for the UAE is Tk 1,07,780, set by the Ministry of Expatriates' Welfare and Overseas Employment in 2017 [MA0009, MA0010]. Under UAE law the employer pays recruitment costs (Step 1) [N0131].
+### What you pay, and what you earn and keep
 
-**What people really pay.** For Dubai Taxi driver jobs, the state minister said in May 2026 that workers pay at least Tk 3.5 lakh; he asked for Tk 1 lakh [N0080]. Middle East jobs in general cost Tk 5 to 7 lakh in 2025 [N0116]. The government survey of 2015-18 migrants (Bangladesh Bureau of Statistics, BBS, with the ILO) found men paid Tk 4.71 lakh on average, unskilled workers Tk 4.78 lakh and skilled Tk 4.27 lakh [MA0017, MA0018]. It has no separate UAE figure: migrants to its "other countries" group, which covers the UAE, paid Tk 4.36 lakh [MA0021]. 71% paid a broker's fee [MA0025]; at village level the broker (dalal) recruits by word of mouth and takes payments even without a receipt [MA0024].
+#### The cap
 
-**How people pay.** 77.6% of migrants borrow to go: after relatives and friends, from family (28.2% of borrowers), NGOs (20.5%), moneylenders (15.3%) or against land (14.4%) [MA0022]. 28.2% of borrowers pay a set interest rate and 32.7% a fixed extra sum, and a quarter risk losing the collateral they pledged if they cannot repay [MA0023].
+The government's maximum for the UAE is Tk 1,07,780, set by the Ministry of Expatriates' Welfare and Overseas Employment in 2017 [MA0009, MA0010]. Under UAE law the employer pays recruitment costs (Step 1) [N0131].
 
-**What the job pays.** Dubai Taxi drivers earn a 35% commission per ride, about AED 2,500 to 4,000 a month (about Tk 85,000 to 1.36 lakh) [N0079, G0002]. In the BBS survey, workers earned on average Tk 23,629 a month (unskilled) and Tk 29,477 (skilled) in their first three months abroad [MA0019]. In a 2019 study 44% of low-skilled workers got less than promised [N0124].
+#### What people really pay
+
+For Dubai Taxi driver jobs, the state minister said in May 2026 that workers pay at least Tk 3.5 lakh; he asked for Tk 1 lakh [N0080]. Middle East jobs in general cost Tk 5 to 7 lakh in 2025 [N0116]. The government survey of 2015-18 migrants (Bangladesh Bureau of Statistics, BBS, with the ILO) found men paid Tk 4.71 lakh on average, unskilled workers Tk 4.78 lakh and skilled Tk 4.27 lakh [MA0017, MA0018]. It has no separate UAE figure: migrants to its "other countries" group, which covers the UAE, paid Tk 4.36 lakh [MA0021]. 71% paid a broker's fee [MA0025]; at village level the broker (dalal) recruits by word of mouth and takes payments even without a receipt [MA0024].
+
+#### How people pay
+
+77.6% of migrants borrow to go: after relatives and friends, from family (28.2% of borrowers), NGOs (20.5%), moneylenders (15.3%) or against land (14.4%) [MA0022]. 28.2% of borrowers pay a set interest rate and 32.7% a fixed extra sum, and a quarter risk losing the collateral they pledged if they cannot repay [MA0023].
+
+#### What the job pays
+
+Dubai Taxi drivers earn a 35% commission per ride, about AED 2,500 to 4,000 a month (about Tk 85,000 to 1.36 lakh) [N0079, G0002]. In the BBS survey, workers earned on average Tk 23,629 a month (unskilled) and Tk 29,477 (skilled) in their first three months abroad [MA0019]. In a 2019 study 44% of low-skilled workers got less than promised [N0124].
 
 > **Need to know**
 > - What do UAE construction helpers, cleaners, security guards and salesmen actually take home in 2026, after food and accommodation deductions?
 
-**How long the debt takes.** On the survey's averages, the cost equals 17.6 months of earnings; 19.1 months for men and 20.2 for unskilled workers [MA0020].
+#### How long the debt takes
 
-**What ties you to the employer**
+On the survey's averages, the cost equals 17.6 months of earnings; 19.1 months for men and 20.2 for unskilled workers [MA0020].
+
+### What ties you to the employer
 
 Tied at every stage: only the employer can apply for, renew and cancel your visa, and it can cancel it online without telling you [W0057, L0070, N0028].
 
@@ -107,18 +127,20 @@ Tied at every stage: only the employer can apply for, renew and cancel your visa
 - **Running away:** more than 7 days' absence lets the employer file a work abandonment report, which, if proven, brings a one-year ban, blocks any unemployment insurance payout while open, and Human Rights Watch says is used against workers fleeing abuse (If your employer reports you absent) [L0156, L0128, L0088, L0248].
 - **An expired visa:** AED 50 a day after the grace period (Going home without valid papers) [G0066].
 
-**What goes wrong most, and what people wrongly believe**
+### What goes wrong most, and what people wrongly believe
 
-**The commonest losses.** Losing the visa while on leave (2026); arriving on a visa with no job behind it (free visa, fake smart card); pay lower than promised; and being stuck with an employer you cannot leave [N0005, N0113, A0003, N0124, N0126].
+#### The commonest losses
 
-**What people believe, and the facts.**
+Losing the visa while on leave (2026); arriving on a visa with no job behind it (free visa, fake smart card); pay lower than promised; and being stuck with an employer you cannot leave [N0005, N0113, A0003, N0124, N0126].
+
+#### What people believe, and the facts
 - **"If I have a job, my visa is safe."** The employer can cancel it online without the worker knowing; check it before you fly (Going home on leave) [N0028, N0025].
 - **"A free visa lets me work anywhere."** No such visa exists; working outside the sponsoring company is illegal [N0111, N0113].
 - **"Go on a visit visa; the work visa gets done there."** A visit visa gives no right to work, and working on one brings fines [N0130].
 - **"The UAE banned Bangladeshis from January 2026."** That claim came from a private visa website; the embassy said the site's Dubai address does not exist and most of its customers say they were cheated [N0044, N0049, N0050].
 - **"A partner visa is a work visa."** It allows work only for your own licence [N0108].
 
-**How irregular routes end.**
+#### How irregular routes end
 - **Amnesty:** over 50,000 Bangladeshis took the 2024 amnesty [N0128].
 - **Bans:** a Foreign Ministry official says a cancelled residence or a broken law bars re-entry for 5 to 10 years [N0104].
 - **Protest:** jail, then deportation (above) [N0033, N0035].
@@ -406,28 +428,40 @@ The standard work visa is a two-year residence visa, renewable, and only the emp
 
 Federal Decree-Law 33 of 2021 (the UAE Labour Law, in force since 2 February 2022) and its Executive Regulations (Cabinet Resolution 1 of 2022) cover private-sector workers; domestic workers have their own law [XC0001, XC0002, XC0003, D0004]. MOHRE (the Ministry of Human Resources and Emiratisation) enforces them [XC0004]. Free-zone workers come under the free zone's own regulations together with the Labour Law (see Work visa: free zone employee) [W0044].
 
-**Contract.** Contracts are fixed-term and renewable by agreement; there are no open-ended contracts [L0058]. You get one of the two copies [L0056], in Arabic plus a language you understand (Arabic prevails in a dispute) [L0057]. Its terms must match the MOHRE job offer you signed in Bangladesh [L0052]. MOHRE job offer forms carry a barcode serial number you can check on 600590000, the MOHRE website or app [L0054]. MOHRE's "Know Your Rights" guide exists in Bengali [L0053].
+#### Contract
 
-**No fees, no passport-keeping.** Recruitment, travel and residence-permit costs are the employer's [L0051]; charging workers recruitment fees is illegal [L0048]. The employer may not keep your passport or other official documents, and you need no employer permission to leave the country [L0049, L0050]. Forced work, threats, sexual harassment, bullying and violence are banned [L0059, L0060].
+Contracts are fixed-term and renewable by agreement; there are no open-ended contracts [L0058]. You get one of the two copies [L0056], in Arabic plus a language you understand (Arabic prevails in a dispute) [L0057]. Its terms must match the MOHRE job offer you signed in Bangladesh [L0052]. MOHRE job offer forms carry a barcode serial number you can check on 600590000, the MOHRE website or app [L0054]. MOHRE's "Know Your Rights" guide exists in Bengali [L0053].
 
-**Hours and overtime.**
+#### No fees, no passport-keeping
+
+Recruitment, travel and residence-permit costs are the employer's [L0051]; charging workers recruitment fees is illegal [L0048]. The employer may not keep your passport or other official documents, and you need no employer permission to leave the country [L0049, L0050]. Forced work, threats, sexual harassment, bullying and violence are banned [L0059, L0060].
+
+#### Hours and overtime
 - 8 hours a day or 48 a week; 2 hours less in Ramadan [L0001, L0007].
 - After 5 hours in a row, breaks totalling at least 1 hour, not counted as working hours [L0002].
 - Overtime at most 2 hours a day, and total working hours (normal plus overtime) at most 144 every 3 weeks [L0003, L0006]; paid at the basic hourly rate plus 25%, or plus 50% between 10 pm and 4 am (not for shift workers) [L0004].
 - Work on your rest day or a public holiday: another day off, or the day's pay plus at least 50% of basic [L0005, L0011].
 
-**Summer midday break.** No work in direct sun or open places from 12:30 pm to 3 pm, 15 June to 15 September every year [L0025]. Exempt: asphalt or concrete work that cannot wait, urgent public repairs, and permit-controlled work [L0026]. Employers must give shade, cooling, drinking water and first aid [L0028]. The fine is AED 5,000 per worker, up to AED 50,000 [L0027]. Report a breach on 600590000, the MOHRE app or website ("Add Complaint") [L0029]; anyone can also report heat-rule, overtime, accommodation and safety breaches through MOHRE's community reporting service or 80084 [L0177].
+#### Summer midday break
 
-**Rest and holidays.** At least one paid rest day a week [L0008]. Paid public holidays: 1 January; Eid Al Fitr 1-3 Shawwal; Arafah Day; Eid Al Adha 10-12 Dhu al-Hijjah; Hijri New Year; the Prophet's birthday; National Day 2-3 December; Islamic dates follow moon sighting [L0009, L0010].
+No work in direct sun or open places from 12:30 pm to 3 pm, 15 June to 15 September every year [L0025]. Exempt: asphalt or concrete work that cannot wait, urgent public repairs, and permit-controlled work [L0026]. Employers must give shade, cooling, drinking water and first aid [L0028]. The fine is AED 5,000 per worker, up to AED 50,000 [L0027]. Report a breach on 600590000, the MOHRE app or website ("Add Complaint") [L0029]; anyone can also report heat-rule, overtime, accommodation and safety breaches through MOHRE's community reporting service or 80084 [L0177].
 
-**Leave.**
+#### Rest and holidays
+
+At least one paid rest day a week [L0008]. Paid public holidays: 1 January; Eid Al Fitr 1-3 Shawwal; Arafah Day; Eid Al Adha 10-12 Dhu al-Hijjah; Hijri New Year; the Prophet's birthday; National Day 2-3 December; Islamic dates follow moon sighting [L0009, L0010].
+
+#### Leave
 - Annual: 30 days a year after one year; 2 days a month between 6 and 12 months [L0012]. The employer sets dates with one month's notice [L0013] and may not stop you taking it for more than two years in a row [L0014]. Unused leave is paid when you leave [L0015].
 - Sick: none paid during probation [L0018]; afterwards up to 90 days a year, 15 full pay, 30 half pay, 45 unpaid [L0016, L0017]. Tell the employer within 3 days with a medical report [L0019]. You cannot be dismissed or given notice while on sick leave [L0020].
 - Bereavement 5 days (spouse) or 3 days (parent, child, sibling, grandparent, grandchild) [L0021]; parental 5 working days within 6 months of a birth [L0024]; maternity 60 days (45 full, 15 half pay) [L0023]; Hajj up to 30 days unpaid, once per employer [L0022].
 
-**Pay.** There is no minimum wage [L0040]. Wages must go through the Wage Protection System (WPS), MOHRE's system for paying private-sector salaries through banks, exchange houses or financial institutions authorised by the Central Bank [L0032, L0033]. Since Ministerial Resolution 340 of 2026, last month's wage is due on the 1st of each month, and at least 85% of the total due must be paid on time [L0030, L0031]. What happens to a late employer is under If you aren't paid.
+#### Pay
 
-**Deductions.** Only in the cases the law lists [L0042]:
+There is no minimum wage [L0040]. Wages must go through the Wage Protection System (WPS), MOHRE's system for paying private-sector salaries through banks, exchange houses or financial institutions authorised by the Central Bank [L0032, L0033]. Since Ministerial Resolution 340 of 2026, last month's wage is due on the 1st of each month, and at least 85% of the total due must be paid on time [L0030, L0031]. What happens to a late employer is under If you aren't paid.
+
+#### Deductions
+
+Only in the cases the law lists [L0042]:
 - loan repayments, with your written consent and no interest [L0080];
 - overpaid wages, up to 20% of the wage [L0043];
 - disciplinary fines under a MOHRE-approved list, up to 5% [L0044];
@@ -436,7 +470,9 @@ Federal Decree-Law 33 of 2021 (the UAE Labour Law, in force since 2 February 202
 
 All deductions together may never pass 50% of the wage [L0047].
 
-**Housing.** The employer must give licensed housing, or pay a housing allowance, or include it in the wage [L0062]; firms with 50 or more workers earning AED 1,500 a month or less must house them [L0061]. Standards:
+#### Housing
+
+The employer must give licensed housing, or pay a housing allowance, or include it in the wage [L0062]; firms with 50 or more workers earning AED 1,500 a month or less must house them [L0061]. Standards:
 - at least 3 square metres per person, 8 to 10 people per room at most [L0063, L0064];
 - your own bed, side table and 2-metre lockable cupboard; no three-tier bunks [L0066, L0065];
 - one toilet and one shower per 8 people [L0067];
@@ -445,70 +481,100 @@ All deductions together may never pass 50% of the wage [L0047].
 > **Need to know**
 > - Is there any limit on what an employer may charge for housing or food when housing is "included in the wage"?
 
-**Health insurance.** The employer must insure you: since 1 January 2025 a policy is required before your residence permit is issued or renewed; the scheme is mandatory in Abu Dhabi and Dubai and is being extended to the other five emirates [L0070, L0071, L0075, L0076]. The basic package costs AED 320 a year, with no waiting period for chronic illness [L0072]; you pay at most AED 100 per outpatient visit (25% co-pay) and AED 500 per inpatient stay, capped at AED 1,000 a year [L0074, L0073]. In Dubai a worker earning AED 4,000 or less must get at least the Essential Benefits Plan, and the employer may not deduct the premium or cut pay for it [L0078, L0077].
+#### Health insurance
+
+The employer must insure you: since 1 January 2025 a policy is required before your residence permit is issued or renewed; the scheme is mandatory in Abu Dhabi and Dubai and is being extended to the other five emirates [L0070, L0071, L0075, L0076]. The basic package costs AED 320 a year, with no waiting period for chronic illness [L0072]; you pay at most AED 100 per outpatient visit (25% co-pay) and AED 500 per inpatient stay, capped at AED 1,000 a year [L0074, L0073]. In Dubai a worker earning AED 4,000 or less must get at least the Essential Benefits Plan, and the employer may not deduct the premium or cut pay for it [L0078, L0077].
 
 > **Need to know**
 > - Where does a worker complain if the employer deducts the health insurance premium outside Dubai?
 
-**Unemployment insurance (ILOE, Involuntary Loss of Employment).** Compulsory for private-sector workers (not domestic workers, temporary-contract workers or under-18s) [L0081, L0082]. You pay it yourself: up to AED 5 a month if your basic salary is less than AED 16,000 [L0083], through iloe.ae, the ILOE app, Tasheel or Tawjeeh centres (MOHRE's typing and service centres), Al Ansari Exchange, bank apps, du or Etisalat SMS or BOTIM [L0096]. Not joining, or not paying, costs a AED 400 fine [L0095, L0094]; after 3 months unpaid the policy is cancelled [L0097]. Check your policy at iloe.ae: choose your sector, enter Emirates ID and mobile, request the OTP (one-time password sent by SMS), then View Policy Details [L0098]. Claiming is under If a worker dies, is injured or loses the job.
+#### Unemployment insurance (ILOE, Involuntary Loss of Employment)
 
-**Worker protection insurance.** When hiring, the employer buys a policy (AED 137.50 for skilled, AED 180 for low-skilled workers) or lodges a AED 3,000 bank guarantee [L0174, L0175]. If the firm goes bankrupt or will not pay, it covers up to AED 20,000 per worker: up to the last 120 days' unpaid wages, gratuity, the ticket home, body repatriation and work-injury medical costs [L0172, L0173]. MOHRE draws on it in a proven collective dispute without the employer's consent [L0161].
+Compulsory for private-sector workers (not domestic workers, temporary-contract workers or under-18s) [L0081, L0082]. You pay it yourself: up to AED 5 a month if your basic salary is less than AED 16,000 [L0083], through iloe.ae, the ILOE app, Tasheel or Tawjeeh centres (MOHRE's typing and service centres), Al Ansari Exchange, bank apps, du or Etisalat SMS or BOTIM [L0096]. Not joining, or not paying, costs a AED 400 fine [L0095, L0094]; after 3 months unpaid the policy is cancelled [L0097]. Check your policy at iloe.ae: choose your sector, enter Emirates ID and mobile, request the OTP (one-time password sent by SMS), then View Policy Details [L0098]. Claiming is under If a worker dies, is injured or loses the job.
+
+#### Worker protection insurance
+
+When hiring, the employer buys a policy (AED 137.50 for skilled, AED 180 for low-skilled workers) or lodges a AED 3,000 bank guarantee [L0174, L0175]. If the firm goes bankrupt or will not pay, it covers up to AED 20,000 per worker: up to the last 120 days' unpaid wages, gratuity, the ticket home, body repatriation and work-injury medical costs [L0172, L0173]. MOHRE draws on it in a proven collective dispute without the employer's consent [L0161].
 
 > **Need to know**
 > - How does an individual worker claim the worker protection insurance: through MOHRE only, or directly with the insurer?
 
-**Gratuity (end-of-service pay).** After at least one year: 21 days' basic wage per year for the first five years, 30 days' per year after that, pro rata for part years, capped at two years' wage [L0106, L0107, L0108, L0109, L0112]. Basic wage only; housing and transport allowances do not count [L0110]. Unpaid absence does not count as service [L0112]; the employer may deduct money you owe [L0113].
+#### Gratuity (end-of-service pay)
+
+After at least one year: 21 days' basic wage per year for the first five years, 30 days' per year after that, pro rata for part years, capped at two years' wage [L0106, L0107, L0108, L0109, L0112]. Basic wage only; housing and transport allowances do not count [L0110]. Unpaid absence does not count as service [L0112]; the employer may deduct money you owe [L0113].
 
 > **Need to know**
 > - Does a foreign private-sector worker get any pension or social-security contribution in the UAE, or only the end-of-service gratuity, and can low-wage workers join MOHRE's voluntary end-of-service savings scheme?
 
 ### How long you can stay
 
-**Two years at a time.** A work permit for a worker recruited from abroad lasts two years [L0218]; sponsored residence visas run 1, 2 or 3 years [L0217]. Renewal is the employer's job and needs the health insurance above [L0070].
+#### Two years at a time
 
-**The 180-day rule.** A residence visa dies automatically after more than 180 days in a row outside the UAE [L0212]. Exceptions include residents sent abroad for treatment with a UAE-approved medical report, students and investors, plus anyone ICP (the Federal Authority for Identity, Citizenship, Customs and Port Security) exempts for a fee [L0213, L0214]; ICP issues a permit to stay outside more than six months for a valid reason [L0219]. If the visa lapsed while you were abroad for work, study or treatment, you can apply from abroad for an entry permit, with a reason, paying AED 100 per 30 days outside, and must enter within 30 days of approval; this is not available to Dubai residents [L0215, L0216].
+A work permit for a worker recruited from abroad lasts two years [L0218]; sponsored residence visas run 1, 2 or 3 years [L0217]. Renewal is the employer's job and needs the health insurance above [L0070].
+
+#### The 180-day rule
+
+A residence visa dies automatically after more than 180 days in a row outside the UAE [L0212]. Exceptions include residents sent abroad for treatment with a UAE-approved medical report, students and investors, plus anyone ICP (the Federal Authority for Identity, Citizenship, Customs and Port Security) exempts for a fee [L0213, L0214]; ICP issues a permit to stay outside more than six months for a valid reason [L0219]. If the visa lapsed while you were abroad for work, study or treatment, you can apply from abroad for an entry permit, with a reason, paying AED 100 per 30 days outside, and must enter within 30 days of approval; this is not available to Dubai residents [L0215, L0216].
 
 > **Need to know**
 > - Is there an upper age limit for a worker's work permit or residence renewal?
 
-**When the job ends.** After cancellation you have a grace period, 30 days for ordinary workers, to change status or leave [G0067, L0127]; after that overstay costs AED 50 a day [G0066, G0069]. Leaving with unpaid fines needs ICP's departure permit, used within 7 days [G0060, G0061].
+#### When the job ends
 
-**Cancelled while on leave.** Since July 2026 many Bangladeshis' visas were cancelled while they were at home on leave (see Going home on leave) [N0001, N0005].
+After cancellation you have a grace period, 30 days for ordinary workers, to change status or leave [G0067, L0127]; after that overstay costs AED 50 a day [G0066, G0069]. Leaving with unpaid fines needs ICP's departure permit, used within 7 days [G0060, G0061].
+
+#### Cancelled while on leave
+
+Since July 2026 many Bangladeshis' visas were cancelled while they were at home on leave (see Going home on leave) [N0001, N0005].
 
 ### What can get you jailed
 
-**Papers and work.**
+#### Papers and work
 - Working without a work permit is banned [F0029]; using a visa for a purpose other than the one it was granted for: jail or a fine of at least AED 10,000, and deportation [L0225]. Whoever employs or houses you illegally pays AED 50,000, and you are deported [L0223, L0224].
 - Forged visas or residence permits: up to 10 years and deportation [L0226]. Entering illegally: jail and deportation [L0227].
 - Overstay is fined AED 50 a day [G0069]; not paying can bring up to 3 months' jail or a fine of up to AED 4,000, and the court may order deportation [L0228].
 
-**Protests.** Joining a public gathering of 5 or more people that disturbs order and not leaving when told: at least 1 year and AED 100,000; at least 5 years if it disrupts security, traffic or work [L0229, L0230]. Calling for unpermitted demonstrations online: jail and/or AED 200,000 to 1 million [L0242]. In July 2024, 57 Bangladeshis who protested in UAE streets got 10 years to life; they were pardoned and deported in September 2024 [N0033, N0035]. Recording and sharing videos of the gatherings counted against them [N0034]. Joining a strike or non-peaceful protest also cancels any ILOE claim [L0092].
+#### Protests
 
-**Social media and insults.**
+Joining a public gathering of 5 or more people that disturbs order and not leaving when told: at least 1 year and AED 100,000; at least 5 years if it disrupts security, traffic or work [L0229, L0230]. Calling for unpermitted demonstrations online: jail and/or AED 200,000 to 1 million [L0242]. In July 2024, 57 Bangladeshis who protested in UAE streets got 10 years to life; they were pardoned and deported in September 2024 [N0033, N0035]. Recording and sharing videos of the gatherings counted against them [N0034]. Joining a strike or non-peaceful protest also cancels any ILOE claim [L0092].
+
+#### Social media and insults
 - False news or rumours online: at least 1 year and AED 100,000 [L0241].
 - Insulting someone online: jail and/or AED 250,000 to 500,000 [L0240].
 - Photographing people without consent, or posting photos of accident victims: at least 6 months and/or AED 150,000 to 500,000 [L0243].
 - Insulting someone by phone or in front of others: up to 6 months or AED 5,000; publicly, up to 1 year or AED 20,000 [L0238, L0239].
 
-**Drugs.** Using drugs: at least 3 months' jail or a AED 20,000 to 100,000 fine for a first offence; a third offence at least 2 years and AED 100,000 [L0244, L0245]. Since December 2025, foreigners convicted of any narcotics offence must be deported after the sentence [L0246].
+#### Drugs
+
+Using drugs: at least 3 months' jail or a AED 20,000 to 100,000 fine for a first offence; a third offence at least 2 years and AED 100,000 [L0244, L0245]. Since December 2025, foreigners convicted of any narcotics offence must be deported after the sentence [L0246].
 
 > **Need to know**
 > - Does a positive blood or urine test alone, with drugs taken outside the UAE, count as "use" for prosecution?
 
-**Alcohol.** Legal only where emirate rules allow [L0231]. Drinking in public or unlicensed places, or being drunk and causing trouble in public: up to 6 months and/or a fine [L0232]. Being drunk at work allows dismissal without notice [L0121].
+#### Alcohol
 
-**Relationships.** Consensual sex outside marriage: at least 6 months for both, but only on a complaint by a spouse or guardian [L0234, L0235]. Having a child outside marriage: at least 2 years for both unless they marry or acknowledge the child and get it papers [L0236].
+Legal only where emirate rules allow [L0231]. Drinking in public or unlicensed places, or being drunk and causing trouble in public: up to 6 months and/or a fine [L0232]. Being drunk at work allows dismissal without notice [L0121].
 
-**Other.** Begging: up to 3 months and AED 5,000 [L0233]. Assault causing under 20 days' injury: up to 1 year and AED 10,000 [L0237]. A bounced cheque for lack of funds has been a civil matter since January 2022, but an unpaid cheque debt can bring a travel ban and frozen assets, and a cheque on a closed account or with fraud is still criminal [L0247].
+#### Relationships
 
-**After arrest.** The Bangladesh labour wing visits jails and deportation centres [L0207]. For a worker with no valid passport the Embassy issues a Travel Permit (out pass): a form giving passport number, sponsor, arrival date, cause of jail and sentence, with two photos [L0210, G0076]. Family can call the Abu Dhabi labour wing (+971 2 445 8182, labourwingauh@gmail.com) or the Dubai consulate's humanitarian line +971 56 847 1066 [L0203, L0202, L0206].
+Consensual sex outside marriage: at least 6 months for both, but only on a complaint by a spouse or guardian [L0234, L0235]. Having a child outside marriage: at least 2 years for both unless they marry or acknowledge the child and get it papers [L0236].
+
+#### Other
+
+Begging: up to 3 months and AED 5,000 [L0233]. Assault causing under 20 days' injury: up to 1 year and AED 10,000 [L0237]. A bounced cheque for lack of funds has been a civil matter since January 2022, but an unpaid cheque debt can bring a travel ban and frozen assets, and a cheque on a closed account or with fraud is still criminal [L0247].
+
+#### After arrest
+
+The Bangladesh labour wing visits jails and deportation centres [L0207]. For a worker with no valid passport the Embassy issues a Travel Permit (out pass): a form giving passport number, sponsor, arrival date, cause of jail and sentence, with two photos [L0210, G0076]. Family can call the Abu Dhabi labour wing (+971 2 445 8182, labourwingauh@gmail.com) or the Dubai consulate's humanitarian line +971 56 847 1066 [L0203, L0202, L0206].
 
 > **Need to know**
 > - Does the Embassy or consulate get notified when a Bangladeshi is arrested, and how does a family find which jail holds a worker?
 
 ### If you aren't paid
 
-**First collect proof.** Keep photos of your contract, MOHRE job offer, Emirates ID, passport, WPS bank or card statements and any written messages; MOHRE asks for documents supporting the claim, such as a resignation or dismissal letter [L0165]. Complain within 30 days of the breach [L0139].
+#### First collect proof
+
+Keep photos of your contract, MOHRE job offer, Emirates ID, passport, WPS bank or card statements and any written messages; MOHRE asks for documents supporting the claim, such as a resignation or dismissal letter [L0165]. Complain within 30 days of the breach [L0139].
 
 **What MOHRE does to a late employer** (Resolution 340 of 2026) [L0034, L0035, L0036, L0037, L0038]:
 - day 2 after the due date: alerts to the employer;
@@ -517,9 +583,11 @@ All deductions together may never pass 50% of the wage [L0047].
 - day 16: labour disputes opened automatically for unpaid workers in firms of 25 or more;
 - day 21: an executive (enforceable) order to pay in firms under 50 workers, or a collective labour dispute in firms of 50 or more; attachment of assets and a travel ban on the person in charge; prosecution for repeat offenders with 50 or more [M0002].
 
-**1. Confidential salary complaint.** "My Salary Complaint" on the MOHRE website or app does not tell the employer who complained; free [L0166]. You must be registered in MOHRE's database and have no pending complaint or court case; it takes 14 working days [XD0002].
+#### 1. Confidential salary complaint
 
-**2. Formal labour complaint.**
+"My Salary Complaint" on the MOHRE website or app does not tell the employer who complained; free [L0166]. You must be registered in MOHRE's database and have no pending complaint or court case; it takes 14 working days [XD0002].
+
+#### 2. Formal labour complaint
 
 You'll need [L0162, L0165]:
 - passport number, name, date of birth, nationality;
@@ -535,9 +603,13 @@ What you get back: a settlement, or for claims under AED 50,000 a MOHRE decision
 
 If MOHRE cannot reach the employer within 5 working days (10 if it asks for time), it cancels your permit on your request so you can move, and late-permit fines go on the employer's file [L0154, L0155]. You can also quit without notice, keeping your rights, if you notify MOHRE 14 working days ahead and the employer does not fix the breach [L0123].
 
-**3. Labour court.** Register the case at court within 14 days of MOHRE's referral [L0151]. If either side takes a MOHRE decision to court, the court sets a hearing within 3 working days and decides within 30 [L0145]. No court fees on claims under AED 100,000 [L0148]; there are legal-support offices for workers in the courts [L0176]. While the case runs you may get a temporary permit with a new employer, unless you were reported absent [L0152]; if you stopped working, your permit is cancelled 6 months after referral [L0153]. Claims cannot be heard after two years from the end of the job [L0147].
+#### 3. Labour court
 
-**4. The labour wing.** Abu Dhabi: +971 2 446 5100 or +971 2 445 8182, labourwingauh@gmail.com [L0202, L0203]. Dubai consulate (Al Wuheida, Deira): 04-2388202 or 04-2690764, labourwingdubai@gmail.com [L0204, L0205]. It takes complaints, visits camps and attends labour court [L0207].
+Register the case at court within 14 days of MOHRE's referral [L0151]. If either side takes a MOHRE decision to court, the court sets a hearing within 3 working days and decides within 30 [L0145]. No court fees on claims under AED 100,000 [L0148]; there are legal-support offices for workers in the courts [L0176]. While the case runs you may get a temporary permit with a new employer, unless you were reported absent [L0152]; if you stopped working, your permit is cancelled 6 months after referral [L0153]. Claims cannot be heard after two years from the end of the job [L0147].
+
+#### 4. The labour wing
+
+Abu Dhabi: +971 2 446 5100 or +971 2 445 8182, labourwingauh@gmail.com [L0202, L0203]. Dubai consulate (Al Wuheida, Deira): 04-2388202 or 04-2690764, labourwingdubai@gmail.com [L0204, L0205]. It takes complaints, visits camps and attends labour court [L0207].
 
 **In practice:** Human Rights Watch reports wage theft, recruitment fees and passport confiscation continuing, with Bangladeshi workers among those hit, and false absconding charges filed against workers who leave abuse [L0250, L0248]. Workers cannot form unions or protest [L0251].
 
@@ -548,18 +620,24 @@ If MOHRE cannot reach the employer within 5 working days (10 if it asks for time
 
 ### If you want to change employer
 
-**The old bans.** Before 2011 an employer could refuse a no-objection certificate (NOC), forcing the worker to leave the UAE for six months; under the 2011 rules unskilled and semi-skilled workers still needed the employer's consent to move in their first two years [L0252, L0253]. Today the law lets you move in the cases below, and the only ban is one year [L0126, L0128].
+#### The old bans
+
+Before 2011 an employer could refuse a no-objection certificate (NOC), forcing the worker to leave the UAE for six months; under the 2011 rules unskilled and semi-skilled workers still needed the employer's consent to move in their first two years [L0252, L0253]. Today the law lets you move in the cases below, and the only ban is one year [L0126, L0128].
 
 **When you can move freely** [L0126]:
 - the contract expired and was not renewed;
 - it was ended lawfully, including by you without notice for the employer's breach, assault or danger [L0123, L0124];
 - the employer ended it without fault on your part.
 
-**Quitting with notice.** Either side may end the contract for a legitimate reason with 30 to 90 days' written notice; whoever skips it pays the other the notice-period wage [L0118, L0119]. If the employer gives notice, you may take one unpaid day a week to job-hunt, telling them 3 days ahead [L0120].
+#### Quitting with notice
 
-**During probation (up to 6 months).** To move to another UAE employer give one month's written notice; the new employer repays the old one's recruitment costs unless agreed otherwise [L0114, L0138]. To leave the UAE give 14 days' notice [L0116]. Breaking these rules means no work permit for a year from departure [L0117].
+Either side may end the contract for a legitimate reason with 30 to 90 days' written notice; whoever skips it pays the other the notice-period wage [L0118, L0119]. If the employer gives notice, you may take one unpaid day a week to job-hunt, telling them 3 days ahead [L0120].
 
-**How the move happens.**
+#### During probation (up to 6 months)
+
+To move to another UAE employer give one month's written notice; the new employer repays the old one's recruitment costs unless agreed otherwise [L0114, L0138]. To leave the UAE give 14 days' notice [L0116]. Breaking these rules means no work permit for a year from departure [L0117].
+
+#### How the move happens
 
 1. **Get a new MOHRE job offer.** The new employer issues it on MOHRE's system and you both sign it (Step 2) [W0049, L0171]. Check it at inquiry.mohre.gov.ae, "Inquire about job offers" (Step 2, item 3) [W0050].
 2. **Make sure the old permit is cancelled.** You may not hold an active work permit when the new one is applied for, and the new employer must apply within 90 days of the cancellation [SA0006, L0169].
@@ -579,9 +657,13 @@ If MOHRE cannot reach the employer within 5 working days (10 if it asks for time
 
 ### If your employer reports you absent (work abandonment)
 
-**What it is.** A "work abandonment" report (the old "absconding" case) can be filed after more than 7 days' absence in a row when the employer cannot locate or contact you [L0156]. Absence over 7 consecutive days, or 20 in a year, also allows dismissal without notice [L0121]. Dismissal without notice needs a written investigation and a written, reasoned decision [L0122].
+#### What it is
 
-**What follows.** A proven report means no new work permit for a year [L0128], no temporary permit during a court case [L0152], no ILOE payout while it is open [L0088], and removal from WPS [L0039]. Human Rights Watch says false reports are used against workers who leave abuse, risking detention and deportation [L0248].
+A "work abandonment" report (the old "absconding" case) can be filed after more than 7 days' absence in a row when the employer cannot locate or contact you [L0156]. Absence over 7 consecutive days, or 20 in a year, also allows dismissal without notice [L0121]. Dismissal without notice needs a written investigation and a written, reasoned decision [L0122].
+
+#### What follows
+
+A proven report means no new work permit for a year [L0128], no temporary permit during a court case [L0152], no ILOE payout while it is open [L0088], and removal from WPS [L0039]. Human Rights Watch says false reports are used against workers who leave abuse, risking detention and deportation [L0248].
 
 **Grounds to cancel it** [L0157, L0158, L0159, L0160]:
 - 7 days had not passed, or you had a legitimate reason;
@@ -589,7 +671,7 @@ If MOHRE cannot reach the employer within 5 working days (10 if it asks for time
 - the employer agreed you could stop or look for another job;
 - the employer agrees to take you back.
 
-**How to cancel it.**
+#### How to cancel it
 1. Call MOHRE on 600590000 (24 hours; also WhatsApp) and ask whether a work abandonment report is on your file [W0072, L0055].
 2. On the MOHRE website or app, use "Cancellation of an Absence from Work Complaint (Absconding Report)": enter your work permit or passport number, name, date of birth, nationality, the absence date and the company details; confirm by OTP [L0167].
 3. Attach proof of the ground you rely on, such as proof you were at work or on approved leave, or that the employer let you stop or look for another job [L0167, L0158, L0159].
@@ -612,16 +694,20 @@ Claims under the labour law cannot be heard more than two years after the job en
 
 ### Going home on leave
 
-**Before you book.** Agree the dates in writing; the employer sets leave dates with a month's notice [L0013]. A worker who does not come back on time without a good reason is unpaid for the absence, and over 7 days can bring dismissal or an abandonment report [L0135, L0121, L0156]. Stay under 180 days or the visa dies [L0212].
+#### Before you book
 
-**The 2026 cancellations.** Since July 2026 the UAE has cancelled residence visas of Bangladeshis who were home on leave, about 5,000 by mid-October, with no formal reason given; the counts and possible causes are in Background ("Is it open now") [N0001, N0100, N0057]. Notices came by email, SMS or through the sponsor; some learned only at check-in or at UAE immigration, and some had visas with over a year left [N0012, N0020, N0023, N0027, N0032]. In many cases the person had been away less than six months, so the visa had not lapsed under the 180-day rule; in those cases the main cause was cancellation through the sponsor [N0026].
+Agree the dates in writing; the employer sets leave dates with a month's notice [L0013]. A worker who does not come back on time without a good reason is unpaid for the absence, and over 7 days can bring dismissal or an abandonment report [L0135, L0121, L0156]. Stay under 180 days or the visa dies [L0212].
 
-**Check before you fly.**
+#### The 2026 cancellations
+
+Since July 2026 the UAE has cancelled residence visas of Bangladeshis who were home on leave, about 5,000 by mid-October, with no formal reason given; the counts and possible causes are in Background ("Is it open now") [N0001, N0100, N0057]. Notices came by email, SMS or through the sponsor; some learned only at check-in or at UAE immigration, and some had visas with over a year left [N0012, N0020, N0023, N0027, N0032]. In many cases the person had been away less than six months, so the visa had not lapsed under the 180-day rule; in those cases the main cause was cancellation through the sponsor [N0026].
+
+#### Check before you fly
 1. Abu Dhabi, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah or Fujairah visa: ICP's "File Validity" page (smartservices.icp.gov.ae); choose "Residency", then give the Emirate Unified Number, file number or Emirates ID number with your nationality and date of birth, or search by "Passport Information"; ICP 600522222 [L0220, L0222, MC0007, MC0008, MC0011, MC0009, MC0006].
 2. Dubai visa: GDRFA's status inquiry (smart.gdrfad.gov.ae); from abroad call +9714-313-9999 [L0221].
 
 
-**If it was cancelled.**
+#### If it was cancelled
 1. **Email your details to the Bangladesh Embassy,** mission.abudhabi@mofa.gov.bd, with the subject "Visa Cancellation Issue - [your name]" [MD0001, MD0003]. You'll need [MD0002]:
    - your name, profession, current location, mobile or WhatsApp number and email address;
    - your passport number and Emirates ID number, with copies of both;
@@ -644,7 +730,7 @@ A worker can sponsor a spouse and children only with a salary of at least AED 4,
 
 ### Scams
 
-**Scams done to you.**
+#### Scams done to you
 
 1. **A "free visa" or job that doesn't exist.** The visa is real but has no job behind it; you pay again to renew [N0111, N0113].
    **Check it is real:** ask for the MOHRE offer letter and check it by reference number; check an entry permit on GDRFA Dubai (if issued in Dubai) or ICP (the other emirates) [N0129, N0133]. **Report it:** MOHRE, +971 6 802 7666 or ask@mohre.gov.ae [W0054]; in Bangladesh, 16135 or a written complaint to BMET (Step 1, "If an agency or broker takes your money") [B0063, D0222].
@@ -659,7 +745,7 @@ A worker can sponsor a spouse and children only with a salary of at least AED 4,
    > **Need to know**
    > - Where can a worker check the normal Dhaka-UAE fare and complain about an overpriced ticket?
 
-**Scams done by the migrant.**
+#### Scams done by the migrant
 - Working on a visit or tourist visa: fines and legal liability [N0130]. Working for an outside company on a partner (investor) visa: in Abu Dhabi one worker got two months' jail and deportation, and the company was fined AED 50,000 [N0108].
 - Fake certificates: the law minister says agencies submitted certificates from institutions that did not exist [N0101].
 
@@ -970,11 +1056,15 @@ A Bangladeshi resident of a GCC (Gulf Cooperation Council) country applies onlin
 
 ### Scams
 
-**Done to travellers.** In September 2025 a visa-agency website, uaevisaonline.com, posted that the UAE would ban tourist and work visas for Bangladesh and eight other countries from January 2026; Bangladeshi media repeated it [V0018]. The Bangladesh Embassy in Abu Dhabi said the claim was false, that the UAE had made no such announcement, that the site's contacts were in the UK, US and India, that its Dubai head-office address did not exist, and that most of its customers complained of being cheated [V0205, V0206]. A visa itself can be checked on GDRFA's website if it was issued in Dubai, or on ICP's eChannels platform if it was issued in another emirate (see Tourist visa, Step 4) [W0055].
+#### Done to travellers
+
+In September 2025 a visa-agency website, uaevisaonline.com, posted that the UAE would ban tourist and work visas for Bangladesh and eight other countries from January 2026; Bangladeshi media repeated it [V0018]. The Bangladesh Embassy in Abu Dhabi said the claim was false, that the UAE had made no such announcement, that the site's contacts were in the UK, US and India, that its Dubai head-office address did not exist, and that most of its customers complained of being cheated [V0205, V0206]. A visa itself can be checked on GDRFA's website if it was issued in Dubai, or on ICP's eChannels platform if it was issued in another emirate (see Tourist visa, Step 4) [W0055].
 
 On 19 June 2026 GDRFA Dubai said it had acted against entities selling unauthorised visa and residence services on social media, and told people to use only official channels and to check the source before sharing personal information or paying [V0192, V0193].   Tourist entry permits can be issued by UAE airlines (Emirates, Etihad, flydubai, Air Arabia), licensed hotels and licensed travel agencies [V0185].
 
-**Tried by travellers.** A false statement to get a visa carries up to 6 months' jail and/or a fine of AED 5,000 to 10,000, and possible deportation [V0176]. Forging a visa, or knowingly using a forged one, carries up to 10 years' jail and mandatory deportation [V0177].
+#### Tried by travellers
+
+A false statement to get a visa carries up to 6 months' jail and/or a fine of AED 5,000 to 10,000, and possible deportation [V0176]. Forging a visa, or knowingly using a forged one, carries up to 10 years' jail and mandatory deportation [V0177].
 
 If someone sold you a fake visa or a "job on a visit visa", or holds you in the UAE, report it to MOHRE (+971 6 802 7666, ask@mohre.gov.ae) and, in Dubai, to Dubai Police on 901, its app or eCrime platform (see Work visa: company worker, Step 5) [W0054, W0123].
 
@@ -1031,12 +1121,16 @@ You'll need:
 
 ### Scams
 
-**Done to job-seekers.** A genuine job comes with a MOHRE offer letter, which you can check by its reference number at inquiry.mohre.gov.ae [V0180]. The employer, not the worker, pays recruitment costs [V0181]. Check the company on the National Economic Register (ner.economy.ae) [V0182]. MOHRE answers recruitment questions on +971 6 802 7666 and ask@mohre.gov.ae [V0183].
+#### Done to job-seekers
+
+A genuine job comes with a MOHRE offer letter, which you can check by its reference number at inquiry.mohre.gov.ae [V0180]. The employer, not the worker, pays recruitment costs [V0181]. Check the company on the National Economic Register (ner.economy.ae) [V0182]. MOHRE answers recruitment questions on +971 6 802 7666 and ask@mohre.gov.ae [V0183].
 
 > **Need to know**
 > - Are Bangladeshi agents selling "job-seeker visas" to people without a degree, and at what price?
 
-**Tried by job-seekers.** A fake degree or false statement to qualify is a crime (see Tourist visa, Scams) [V0176, V0177].
+#### Tried by job-seekers
+
+A fake degree or false statement to qualify is a crime (see Tourist visa, Scams) [V0176, V0177].
 
 ### Don't work
 
@@ -1092,9 +1186,13 @@ You'll need (the sponsor): a valid UAE residence visa and Emirates ID, an active
 
 ### Scams
 
-**Done to families.** GDRFA warned in June 2026 that entities promoting unauthorised visa and residence services online could expose people to exploitation [V0192]. The visa is applied for by the UAE-resident sponsor, who must have an active sponsor file, a valid residence visa and Emirates ID, and proof of income [V0035, V0212].
+#### Done to families
 
-**Tried by families.** A false relationship certificate or salary paper is a false statement or forgery (see Tourist visa, Scams) [V0176, V0177]; the sponsor faces AED 50,000 per person for harbouring someone who breaks the residence law [V0171].
+GDRFA warned in June 2026 that entities promoting unauthorised visa and residence services online could expose people to exploitation [V0192]. The visa is applied for by the UAE-resident sponsor, who must have an active sponsor file, a valid residence visa and Emirates ID, and proof of income [V0035, V0212].
+
+#### Tried by families
+
+A false relationship certificate or salary paper is a false statement or forgery (see Tourist visa, Scams) [V0176, V0177]; the sponsor faces AED 50,000 per person for harbouring someone who breaks the residence law [V0171].
 
 ### Don't work
 
@@ -1102,7 +1200,9 @@ A visit visa holder may not work (see Tourist visa, Don't work) [V0179]. An over
 
 ## Family residence (spouse, children and parents)
 
-**Status for Bangladeshis (Nov 2026).** The rules below are the law for every nationality, but since July 2024 Bangladeshis have met restrictions and long stalls on new family visas, as on student, tourist and employment visas and company-to-company transfers; Bangladesh's Expatriates' Welfare Minister said so on 17 August 2026 [F0030]. Reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to Bangladeshis [F0031].
+### Status for Bangladeshis (Nov 2026)
+
+The rules below are the law for every nationality, but since July 2024 Bangladeshis have met restrictions and long stalls on new family visas, as on student, tourist and employment visas and company-to-company transfers; Bangladesh's Expatriates' Welfare Minister said so on 17 August 2026 [F0030]. Reporting in January 2026 said only "skill visas" and "high-profile visas" were being issued to Bangladeshis [F0031].
 
 > **Need to know**
 > - Are GDRFA and ICP approving new family residence applications by Bangladeshi sponsors in November 2026, and for which salary or job levels?
@@ -1211,7 +1311,9 @@ Since September 2025 there is an Events Visit Visa for exhibitions, conferences,
 
 ### Scams
 
-**Done to business travellers.** Check any business or exhibition visa before paying or travelling: ICP's File Validity page for Abu Dhabi and the Northern Emirates, GDRFA's Status Inquiry page for Dubai (see Tourist visa, Step 4) [V0188, V0189].
+#### Done to business travellers
+
+Check any business or exhibition visa before paying or travelling: ICP's File Validity page for Abu Dhabi and the Northern Emirates, GDRFA's Status Inquiry page for Dubai (see Tourist visa, Step 4) [V0188, V0189].
 
 > **Need to know**
 > - What fake "business" or "exhibition" visa schemes target Bangladeshis going to the UAE?
@@ -1290,7 +1392,9 @@ ICP's work-mission visa needs an employer certificate, a temporary job contract 
 
 ### Scams
 
-**Done to workers.** A "mission visa" sold as a two-year job is a 3-month permit, renewable once [V0150]. Check the MOHRE offer by its number at inquiry.mohre.gov.ae [V0180].
+#### Done to workers
+
+A "mission visa" sold as a two-year job is a 3-month permit, renewable once [V0150]. Check the MOHRE offer by its number at inquiry.mohre.gov.ae [V0180].
 
 ### Don't work
 
@@ -1476,7 +1580,9 @@ The UAE is not party to the 1951 Refugee Convention or its 1967 Protocol, and it
 
 The baby's residence is a family residence, so the parent must meet the family-sponsorship salary and housing rules [F0001, F0002].
 
-**Unmarried parents.** A man and an adult woman who have a child outside marriage face at least 2 years' jail, but no case is brought if they marry, or one or both acknowledge the child and get the child identity and travel documents from their country [F0130, F0129]. The birth certificate needs a marriage certificate or the parents' acknowledgement of the child legalised by their embassy or a notary [F0126]; if the father is unknown, a court order based on the mother's acknowledgement is needed [F0127].
+### Unmarried parents
+
+A man and an adult woman who have a child outside marriage face at least 2 years' jail, but no case is brought if they marry, or one or both acknowledge the child and get the child identity and travel documents from their country [F0130, F0129]. The birth certificate needs a marriage certificate or the parents' acknowledgement of the child legalised by their embassy or a notary [F0126]; if the father is unknown, a court order based on the mother's acknowledgement is needed [F0127].
 
 1. **Get the birth certificate within 30 days** at the hospital or the emirate's health authority (the Ministry of Health and Prevention, MOHAP; the Dubai Health Authority, DHA, in Dubai; the Department of Health, DoH, in Abu Dhabi) [F0122]. You'll need the attested marriage certificate translated into Arabic, both parents' passports (originals and copies), the hospital's birth notification and discharge summary [F0123]. Late reporting can be fined up to AED 5,000 [F0128].
 2. **Attest it** with MOHAP (a DHA or DoH stamp counts) and the UAE MOFA [F0147, F0052]; the UAE MOFA fee is AED 150 [F0050].
@@ -1512,7 +1618,9 @@ You'll need:
 > - Where does a worker in the UAE complain when a licensed exchange house loses or delays a transfer (CBUAE's consumer complaint channel)?
 > - Can a worker whose residence visa has expired or been cancelled still send money legally from a UAE exchange house without a valid Emirates ID?
 
-**Saving at home: the Wage Earner Development Bond.** A 5-year government bond for workers abroad, bought in taka or foreign currency in the worker's own name or a named beneficiary in Bangladesh, at authorised-dealer bank branches in Bangladesh or at Bangladeshi banks' branches and exchange houses abroad [G0123]. Denominations run from Tk 25,000 to Tk 50 lakh, with no upper limit on purchases [G0123]. It pays 12% simple profit at maturity on holdings up to Tk 15 lakh (11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh, 9% above), paid every six months; the money and profit are income-tax free, you can borrow against it, name a nominee, and take the principal back in US dollars [G0124].
+### Saving at home: the Wage Earner Development Bond
+
+A 5-year government bond for workers abroad, bought in taka or foreign currency in the worker's own name or a named beneficiary in Bangladesh, at authorised-dealer bank branches in Bangladesh or at Bangladeshi banks' branches and exchange houses abroad [G0123]. Denominations run from Tk 25,000 to Tk 50 lakh, with no upper limit on purchases [G0123]. It pays 12% simple profit at maturity on holdings up to Tk 15 lakh (11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh, 9% above), paid every six months; the money and profit are income-tax free, you can borrow against it, name a nominee, and take the principal back in US dollars [G0124].
 
 > **Need to know**
 > - Which UAE exchange houses sell the Wage Earner Development Bond, and what papers does a worker need there?
@@ -1597,14 +1705,14 @@ You'll need [G0083, G0113]:
 
 The UAE can hold a person under a deportation order for up to 30 days, extendable once [G0106]. The deportee's own money pays for the deportation, or the employer if it broke the law, otherwise the state [G0107]. GDRFA's centre in Al Aweer (Dubai) handles residency violators, including issuing exit permits with an eye-print [G0114].
 
-**What the detainee does.**
+#### What the detainee does
 
 1. **Ask to contact the Bangladesh mission.** Its labour wings visit jails and deportation centres to identify Bangladeshis [G0112, D0179]. Dubai Consulate labour welfare (WhatsApp text): +971 50 816 8253, +971 50 816 8363 [G0079]; Abu Dhabi Embassy labour wing: +971 2 445 8182, labourwingauh@gmail.com [G0089].
 2. **Get a travel permit if you have no valid passport.** The Embassy's form asks for your passport number, sponsor, arrival date, the cause of jail and the sentence, with two photos [L0210]; papers and fee are in Step 1 [G0076, G0077].
 3. **Ask the labour wing for the ticket if you have no money.** The Abu Dhabi labour wing gives air tickets or money to workers in distress [G0112].
 4. **Say if you are a Welfare Board (WEWB) member** (see "If a worker dies, is injured or loses the job"): members get the Dubai Consulate's help to be freed and brought home [G0131].
 
-**What the family does.**
+#### What the family does
 
 1. **Call the Probashi call centre,** 16135 (+8809610102030 from abroad), 24 hours [G0036].
 2. **Apply to the Welfare Board for legal help abroad** ("If your family in Bangladesh asks for help", step 2) [G0027]. To ask the Ministry to help bring the worker home, have the worker's passport copy, visa, UAE workplace and home address, the agency's name and address and the employer's mobile number [G0039]. Check membership on portal.wewb.gov.bd/bmet-wewbm-check with the passport number [B0061].
@@ -1646,7 +1754,9 @@ To check or contest a labour ban, see "If you want to change employer" [L0130, L
 
 In Bangladesh the Wage Earners' Welfare Board (the Welfare Board; Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka) pays grants and handles the insurance bought at BMET clearance [G0057, G0030]. Most grants need either BMET emigration clearance (the smart card) or Welfare Board membership [G0005, G0014]. Bangladeshis who went to the UAE on their own, often on visit visas, have no BMET clearance; Bangladesh missions register them for Welfare Board membership so they come under the government database and its welfare services [V0013, XI0001].
 
-**Get Welfare Board membership if you have no BMET card.** Any Bangladeshi aged 18 to 65 in the UAE without a BMET card can register for membership (the "Probashi Kallyan Card") [G0129]. The Dubai Consulate issued 5,028 cards from January to June 2026 [G0082].
+### Get Welfare Board membership if you have no BMET card
+
+Any Bangladeshi aged 18 to 65 in the UAE without a BMET card can register for membership (the "Probashi Kallyan Card") [G0129]. The Dubai Consulate issued 5,028 cards from January to June 2026 [G0082].
 
 You'll need [G0130]:
 - your Bangladeshi passport;
@@ -1665,7 +1775,7 @@ You'll need [G0130]:
 
 ### If you are injured or fall ill at work
 
-**In the UAE.**
+#### In the UAE
 
 1. **Get treatment** at any government or private facility; the employer pays all of it, including hospital, surgery, tests, medicine, rehabilitation, artificial limbs and transport, until you recover or a disability is confirmed [L0188, L0179, L0181]. Accidents on the usual route to or from work count [L0178].
 2. **Make sure it is reported.** The employer must report to MOHRE within 48 hours, via its website, app or service centre [L0185, L0189]. If it does not, call MOHRE on 600590000 or its toll-free Labour Claims and Advisory Centre, 80084 [G0117, L0149].
@@ -1677,7 +1787,7 @@ You'll need [G0130]:
    Lost if the injury was self-inflicted, under alcohol or drugs, from a deliberate safety breach, or if you refused treatment [L0187].
 5. **If the employer will not pay,** file a MOHRE labour complaint (If you aren't paid) [L0162]. The Abu Dhabi labour wing visits workers in hospital and records what each needs to fly home (an escort, a stretcher or wheelchair, a ticket from the sponsor or the Embassy) [G0112, L0211].
 
-**In Bangladesh.**
+#### In Bangladesh
 
 1. **Going home injured.** On your or your family's application, with proof of clearance or membership and a passport copy, the Welfare Board asks the mission to bring you home [G0017]. The Board's ambulance at Dhaka and Chattogram airports is free on request (Dhaka desk +8802 8901040, 01404 413388) [G0013].
 2. **Treatment money in Bangladesh.** A returnee with clearance or membership who is injured, sick or disabled can get up to Tk 2 lakh; the family applies within 1 year of return through the Board's web portal, the district probashi kallyan (migrant welfare) centre or the Board [G0014, G0016].
@@ -1697,7 +1807,7 @@ You'll need [G0130]:
 
 ### If a worker dies
 
-**In the UAE.**
+#### In the UAE
 
 1. **Police and death certificate.** A death outside hospital goes to the police, who arrange a post-mortem; the body is released with the prosecutor's permission [L0196]. The death certificate is issued on the police registration, the hospital's death notification, passport and Emirates ID [L0195].
 2. **Consulate NOC.** The Embassy (Abu Dhabi) or Consulate (Dubai) issues the no-objection certificate; each mission's list of papers is under "The family in Bangladesh", step 3 [L0198, G0081].
@@ -1709,7 +1819,7 @@ You'll need [G0130]:
 > **Need to know**
 > - How long does the Embassy take to pay a recovered death settlement to the family, and through which channel?
 
-**The family in Bangladesh.**
+#### The family in Bangladesh
 
 These steps are for the family in Bangladesh. The Dubai Consulate handled 213 body repatriations from January to June 2026 [G0082].
 
@@ -1813,7 +1923,7 @@ What you get back: 60% of your average basic salary of the last 6 months, up to 
 
 ## Contacts
 
-**In the UAE.**
+### In the UAE
 
 - **Bangladesh Embassy, Abu Dhabi:** Villa No. 46, 48, Sector-19, Zone-W31, Al Jawwalah Street, Al Saadah Area, P.O. Box 2504; +971 2 446 5100; mission.abudhabi@mofa.gov.bd; facebook.com/BangladeshEmbassyAbuDhabi [G0087]. Consular and welfare applications Monday to Thursday 9 am to 3 pm (break 1 to 2 pm), Friday 8:30 to 11 am [G0088].
   - Labour wing: Counsellor (Labour) Mohammad Ullah Khan, counselorabudhabi@probashi.gov.bd, +971 2 446 2745; First Secretary (Labour) Mohammad Ismail, fsabudhabi@probashi.gov.bd, +971 2 445 2216 [G0090]; Legal Officer Mohammed Rezaul Alam (ext. 331), Welfare Officer Mollah Osman Goni (ext. 209), labourwingauh@gmail.com, direct line +971 2 445 8182 [G0089].
@@ -1829,7 +1939,7 @@ What you get back: 60% of your average basic salary of the last 6 months, up to 
 - **Human trafficking:** EWAA (Abu Dhabi shelter) 800 SAVE (800 7283); National Committee to Combat Human Trafficking 8007283; Dubai Police Control Center of Human Trafficking +971 4 608 2347, htccc@dubaipolice.gov.ae [G0117, G0118]. Dubai Police's human rights directorate gives victims temporary shelter, temporary visas and air tickets home [G0118].
 - **Dubai Foundation for Women and Children (shelter for women and children facing abuse or trafficking):** 800111, free, 24 hours [G0119].
 
-**In Bangladesh.**
+### In Bangladesh
 
 - **BMET emigration:** Director (Emigration) +8802222222415, 01711-135901, diremi@bmet.gov.bd [B0020]; OEP hotline 09614445271 [B0062].
 - **Ministry and Welfare Board:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Eskaton Garden, Ramna, Dhaka [B0096, G0057].
