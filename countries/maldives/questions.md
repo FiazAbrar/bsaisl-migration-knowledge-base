@@ -175,6 +175,7 @@ These are the questions the Maldives migration guide can't yet answer, grouped b
 
 ### Step 3: Register with your professional council
 
+- Does the MMDC still use the 2012 MMC pre-registration form and its good-standing and English-test rules in 2026?
 - Must a Bangladeshi MBBS pass the MMDC licensing exam, and are all BMDC-recognised Bangladeshi medical colleges on the MMDC list?
 - What are the MMDC fees in 2026 (the published table dates from 2015)?
 
@@ -337,6 +338,7 @@ These are the questions the Maldives migration guide can't yet answer, grouped b
 ### Step 2: Leave
 
 - Can an undocumented worker or one with a missing report simply buy a ticket and fly out of Velana airport in 2026, or is he stopped and detained?
+- Does Immigration's e-Visa departure rule for work-visa holders apply to an undocumented worker leaving on a voluntary return token and travel permit?
 - Which Immigration counter handles voluntary departures now, and what must be paid there?
 
 - Where is the self-cancellation form sent from Bangladesh, and is it still used under Regulation 2025/R-120?

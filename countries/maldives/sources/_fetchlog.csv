@@ -368,3 +368,15 @@ hc-male-fb-2026-10-23,https://www.facebook.com/BangladeshHighCommissionMaldives,
 customs-mv-cash-declaration,https://www.customs.gov.mv/CashDeclaration/Index,2026-11-09,200,,manual,customs-mv-cash-declaration.html;customs-mv-cash-declaration.md
 mira-remittance-tax-status,https://mira.gov.mv/Legislations/View/remittance-tax-regulation-consolidated,2026-11-09,200,,manual,mira-remittance-tax-status.html;mira-remittance-tax-status.md
 xpat-mv-requires-fingerprint,https://xpat.egov.mv/Home/RequiresFingerprint,2026-11-09,200,,manual,xpat-mv-requires-fingerprint.html;xpat-mv-requires-fingerprint.md
+bmet-misc-infos-p1-of7,https://bmet.gov.bd/pages/miscellaneous-infos?page=1&page_size=500,2026-11-07,200,text/html; charset=utf-8,curl,bmet-misc-infos-p1-of7.html;bmet-misc-infos-p1-of7.md
+bmet-misc-infos-p3-of7,https://bmet.gov.bd/pages/miscellaneous-infos?page=3&page_size=500,2026-11-07,200,text/html; charset=utf-8,curl,bmet-misc-infos-p3-of7.html;bmet-misc-infos-p3-of7.md
+bmet-misc-infos-p4-of7,https://bmet.gov.bd/pages/miscellaneous-infos?page=4&page_size=500,2026-11-07,200,text/html; charset=utf-8,curl,bmet-misc-infos-p4-of7.html;bmet-misc-infos-p4-of7.md
+oep-agencies-c,https://www.oep.gov.bd/agencies,2026-11-07,200,text/html; charset=UTF-8,curl,oep-agencies-c.html;oep-agencies-c.md
+ilo-south-asian-recruitment-jordan-garments,https://www.ilo.org/media/415331/download,2026-11-08,200,application/pdf,curl,ilo-south-asian-recruitment-jordan-garments.pdf;ilo-south-asian-recruitment-jordan-garments.txt
+health-mv-mmdc-department,https://health.gov.mv/en/departments/maldives-medcal-and-dental-council,2026-11-09,200,text/html; charset=UTF-8,curl,health-mv-mmdc-department.html;health-mv-mmdc-department.md
+infrastructure-mv-services,https://infrastructure.gov.mv/en/services,2026-11-09,200,text/html; charset=utf-8,curl,infrastructure-mv-services.html;infrastructure-mv-services.md
+onegov-mv-licensed-engineer-registration-guideline,https://one.gov.mv/support/guidelines/construction-industry-licensed-architect-engineer-registration-50,2026-11-09,200,,firecrawl,onegov-mv-licensed-engineer-registration-guideline.md
+news-psm-teaching-license-onegov-FAILED,https://psmnews.mv/en/127084,2026-11-09,403,text/html; charset=UTF-8,curl,
+news-psm-teaching-license-onegov,https://psmnews.mv/en/127084,2026-11-09,200,,firecrawl,news-psm-teaching-license-onegov.md
+health-mv-mnmc-department,https://health.gov.mv/en/departments/maldives-nursing-and-midwifery-council,2026-11-09,200,text/html; charset=UTF-8,curl,health-mv-mnmc-department.html;health-mv-mnmc-department.md
+news-tradenet-teacher-licence-onegov,https://news.tradenet.com.mv/p/press-release-introducing-firstever-teacher-licence-service-onegov,2026-11-09,200,,firecrawl,news-tradenet-teacher-licence-onegov.md
