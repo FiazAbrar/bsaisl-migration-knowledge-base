@@ -178,10 +178,14 @@ def main():
 
     # Anchors on the numbered items of each step, so "Step 1, item 4" can link to the item itself.
     items = {}
-    for h in heads:
+    for h in sorted(heads, key=lambda h: -h["lvl"]):  # deepest headings first, so a parent never claims a child's list
         if h["ref"]:
             continue
-        end = next((g["n"] for g in heads if g["n"] > h["n"]), len(lines))  # a heading's own list sits before its first sub-heading
+        # A heading's own list is the first numbered list before its first sub-heading; if there is none there,
+        # the first one anywhere inside the heading's section that no other heading has claimed.
+        end = next((g["n"] for g in heads if g["n"] > h["n"]), len(lines))
+        if not any(re.match(r"^1\. \*\*", lines[n]) for n in range(h["n"] + 1, end)):
+            end = next((g["n"] for g in heads if g["n"] > h["n"] and g["lvl"] <= h["lvl"]), len(lines))
         expect = 1  # only the step's own list: 1, 2, 3... in order; stop when another list restarts at 1
         for n in range(h["n"] + 1, end):
             m = re.match(r"^(\d+)\. \*\*(.+?)\*\*", lines[n])
@@ -209,6 +213,14 @@ def main():
         seg = re.sub(r"\bStep (\d+)(?:, item (\d+))?\b", step, seg)
         def named_item(m):
             hid = find(m.group(1), sec)
+            if hid and (hid, m.group(2)) not in items:
+                # the list may sit under one of the heading's sub-headings: use it if exactly one has that item
+                h0 = next(h for h in heads if h["id"] == hid)
+                end = next((g["n"] for g in heads if g["n"] > h0["n"] and g["lvl"] <= h0["lvl"]), len(lines))
+                subs = [g["id"] for g in heads if h0["n"] < g["n"] < end and (g["id"], m.group(2)) in items]
+                if len(subs) == 1:
+                    aid, label = items[(subs[0], m.group(2))]
+                    return f"[{m.group(1)}, item {m.group(2)}: {label}](#{aid})"
             if hid and (hid, m.group(2)) in items:
                 aid, label = items[(hid, m.group(2))]
                 return f"[{m.group(1)}, item {m.group(2)}: {label}](#{aid})"
