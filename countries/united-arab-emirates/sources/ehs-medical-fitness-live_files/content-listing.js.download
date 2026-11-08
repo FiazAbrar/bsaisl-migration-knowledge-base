@@ -1,0 +1,1231 @@
+define(['jquery', 'handlebars', '' + FI.enableTailWind == 'false' ? 'aos' : '' + '', 'resources', 'jquery.debounce', '' + FI.enableTailWind == 'false' ? 'owl2' : 'slick' + '', '' + FI.enableTailWind == 'false' ? '' : 'flowbite' + ''], function ($, Handlebars) {
+    (function ($, resources) {
+        //   FI.enableTailWind == true ? alert('slick') : alert('owl2');
+        if (window.enableDDS) {
+            let ddaPager = null; // Declare in outer scope
+
+            const ddaPagerObserver = new MutationObserver(() => {
+                const foundPager = document.querySelector("dda-pagination");
+                if (foundPager) {
+                    ddaPager = foundPager; // Assign to outer variable
+                    ddaPagerObserver.disconnect(); // Optional: stop observing after finding it
+                }
+            });
+
+            ddaPagerObserver.observe(document.body, {
+                childList: true,
+                subtree: true
+            });
+
+
+
+        }
+        var CotentListing = function (element, options) {
+            var me = this;
+            me.e = $(element);
+            me.options = options;
+            me.selector = '[data-icms-list="' + me.e.attr('data-icms-list') + '"] ';
+            me.extraSelector = $.merge(me.e.find('[data-icms-list-filters]'), $(me.options.filtersContainerSelector));
+            me.control = {
+                isWorking: false,
+                filtersContainerElement: me.extraSelector,
+                filtersSearchBtnElement: $.merge(me.e.find('[data-icms-list-search]'), $(me.options.searchBtnSelector)),
+                filtersResetBtnSelectors: me.selector + ' [data-icms-list-reset]',
+                filtersSearchBtnSelectors: me.selector + ' [data-icms-list-search]' + (me.options.searchBtnSelector ? ',' + me.options.searchBtnSelector : ''),
+                filtersElemnets: $.merge(me.e.find('[data-icms-list-filters] input,[data-icms-list-filters] select,[data-icms-list-filters] textarea'), $(me.options.filtersElemnetsSelector)),
+                filtersDropDownSelectors: me.extraSelector.find('[data-icms-list-refresh]'),
+                filterPageSizeDropDown: me.extraSelector.find('[data-icms-list-pagesize]'),
+
+                contentAreaElement: me.e.find('[data-icms-list-content]'),
+                sort: {
+                    filterSortByDropDown: me.extraSelector.find('[data-icms-sortby]'),
+                    filterSortBy: me.extraSelector.find('[data-icms-list-sortby]'),
+                    filterSortDirection: me.extraSelector.find('[data-icms-list-sortdir]'),
+                    mode: me.extraSelector.find('[data-icms-sortby]').length > 0 ? 'dropdown' : (me.extraSelector.find('[data-icms-list-sortby]').length > 0 ? 'link' : false)
+                },
+                pager: {
+                    pagerElement: me.e.find('[data-icms-list-pager]'),
+                    nextElement: window.enableDDS
+                        ? (me.e.find('[data-icms-list-pager]').find('dda-pagination').find('.next').length ? me.e.find('[data-icms-list-pager]').find('dda-pagination').find('.next') : me.e.find('[data-icms-list-pager-next]'))
+                        : me.e.find('[data-icms-list-pager-next]'),
+                    previousElement: window.enableDDS ? me.e.find('[data-icms-list-pager]').find('dda-pagination').find('.prev') : me.e.find('[data-icms-list-pager-previous]'),
+
+                    firstElement: window.enableDDS
+                        ? (me.e.find('[data-icms-list-pager]').find('dda-pagination').find('.next').length ? me.e.find('[data-icms-list-pager]').find('dda-pagination').find('.first') : me.e.find('[data-icms-list-pager-first]'))
+                        : me.e.find('[data-icms-list-pager-first]'),
+                    lastElement: window.enableDDS ? me.e.find('[data-icms-list-pager]').find('dda-pagination').find('.last') : me.e.find('[data-icms-list-pager-last]'),
+
+
+                    infoElement: me.e.find('[data-icms-list-pager-info]'),
+                    pageIndexElement: me.e.find('[data-icms-list-pager-pageindex]'),
+                    totalPagesSelector: me.selector + ' [data-icms-list-pager-totalpages]',
+                    totalRecordsSelector: me.selector + ' [data-icms-list-pager-totalrecords] ' + (me.options.totalItemsCountSelector ? ',' + me.options.totalItemsCountSelector : ''),
+                    pageNumElement: me.e.find('[data-icms-list-pager] input[type=text]'),
+                    pageIndex: me.options.initialPage,
+                    pageSize: me.options.pageSize,
+                    totalPages: 0,
+                    totalRecords: 0,
+                }
+            }
+
+            if (me.control.sort.mode) {
+                me.control.sort.filterSortBy.click(function (ev) {
+                    ev.preventDefault();
+                    $(this).addClass('active');
+                    me.loadPage(1);
+                })
+
+                if (me.control.sort.filterSortByDropDown) {
+                    me.control.sort.filterSortByDropDown.change(function (ev) {
+                        ev.preventDefault();
+                        me.loadPage(1);
+                    })
+                }
+
+
+            }
+
+            if (window.enableDDS) {
+                $('[data-icms-list-pagesize]').on('click', '.dda-input-dropdown-item', function () {
+                    const pageSize = $(this).text().trim();
+                    me.control.pager.pageSize = pageSize;
+                    me.loadPage(1);
+                });
+            }
+            if (me.control.filterPageSizeDropDown) {
+                me.control.filterPageSizeDropDown.change(function (ev) {
+                    ev.preventDefault();
+                    me.control.pager.pageSize = $(this).val();
+                    me.loadPage(1);
+                })
+            }
+            if (me.control.filterPageSizeDropDown.length > 0 && me.control.filterPageSizeDropDown.val().length > 0 && me.control.filterPageSizeDropDown.val() != me.control.pager.pageSize) {
+                me.control.pager.pageSize = me.control.filterPageSizeDropDown.val();
+            }
+
+
+            me.itemTemplate = me.options.itemTemplate;
+
+            me.loadTemplate = function () {
+                if ((me.options.itemTemplateSelector.indexOf("#") > -1
+                    || me.options.itemTemplateSelector.indexOf("[") > -1
+                    || me.options.itemTemplateSelector.indexOf(".") > -1
+                )
+                    && me.options.itemTemplateSelector.indexOf(".html") == -1) {
+                    me.itemTemplate = $(me.options.itemTemplateSelector).html();
+                    if (me.options.firstPageAutoLoading) {
+                        initLoadingFirstTime();
+                    }
+                } else {
+                    // load template item
+                    $.get(('app_themes/' + FI.clientId + (me.options.itemTemplateSelector.startsWith('\\') ? me.options.itemTemplateSelector : ("/" + me.options.itemTemplateSelector)) + "?" + FI.cacheVersion.html), function (itemTemplate) {
+                        me.itemTemplate = itemTemplate;
+                        if (me.options.firstPageAutoLoading) {
+                            initLoadingFirstTime();
+                        }
+                    }, 'html');
+                }
+            }
+            if (!me.options.ajaxData.loadResultAsHTML && !me.itemTemplate) {
+                me.loadTemplate();
+            }
+            me.invokLoadPageCounter = 0;
+            me.control.pager.pagerElement.hide();
+
+            $(me.control.filtersDropDownSelectors).on('change', function (e) {
+                e.preventDefault();
+                if (me.options.triggerOnSearch) {
+                    me.options.triggerOnSearch(e);
+                }
+
+                me.loadPage(1);
+            });
+
+            $(document).on('click', me.control.filtersResetBtnSelectors, function (e) {
+                e.preventDefault();
+                me.control.filtersElemnets.each(function () {
+                    if ($(this).attr("icms-data-no-reset") != 'true') {
+
+                        $(this).val('');
+                    }
+
+                })
+                me.loadPage(1);
+            });
+
+
+            $(document).on('click', me.control.filtersSearchBtnSelectors, function (e) {
+                e.preventDefault();
+                if (me.options.triggerOnSearch) {
+                    me.options.triggerOnSearch(e);
+                }
+                me.loadPage(1);
+            });
+
+            //me.control.filtersElemnets.on('keypress', function (e) {
+            //    if (e.keyCode == 13) {
+            //        e.preventDefault();
+            //        if (me.options.triggerOnSearch) {
+            //            me.options.triggerOnSearch(e);
+            //        }
+            //        me.loadPage(1);
+            //    }
+            //});
+
+            me.control.filtersElemnets.on('keypress', function (e) {
+                if (e.keyCode === 13) {
+                    var target = e.target || e.srcElement;
+
+                    // Only run if the element is <input type="text"> or <input type="search">
+                    if (
+                        target.tagName.toLowerCase() === "input" &&
+                        (target.type === "text" || target.type === "search")
+                    ) {
+                        e.preventDefault();
+                        if (me.options.triggerOnSearch) {
+                            me.options.triggerOnSearch(e);
+                        }
+                        me.loadPage(1);
+                    }
+                }
+            });
+
+
+
+
+            me.control.filtersElemnets.filter('[auto-search]').each(function () {
+                var delay = $(this).attr('auto-search');
+                if (!delay) {
+                    delay = 300;
+                }
+                $(this).keyup($.debounce(delay, function (e) {
+                    if (e.keyCode != 13) {
+                        if (me.options.triggerOnSearch) {
+                            me.options.triggerOnSearch(e);
+                        }
+                        me.loadPage(1);
+                    }
+                }));
+            });
+
+            me.control.pager.pageNumElement.on('keypress', function (e) {
+                if (e.keyCode == 13) {
+                    e.preventDefault();
+                    me.loadPage($(this).val());
+                }
+
+                if ((e.which < 48 || e.which > 57) && e.which != 8) {
+                    e.preventDefault();
+                }
+            });
+
+            me.control.pager.pageNumElement.on('keyup', function (e) {
+                e.preventDefault();
+                if ($(this).val() > me.control.pager.totalPages) {
+                    $(this).val(me.control.pager.totalPages);
+                }
+            });
+
+            me.updatePager = function () {
+
+                if (FI.enableTailWind) {
+                    if (me.control.pager.infoElement) {
+                        const mobilePager = document.querySelector('.aegov-pagination.sm\\:hidden');
+                        const desktopPager = document.querySelector('.aegov-pagination.max-sm\\:hidden');
+                        if ($(mobilePager).is(':visible')) {
+                            me.control.pager.infoElement.text(FI.resources.pager.page + ' ' + me.control.pager.pageIndex + ' ' + FI.resources.pager.of + ' ' + me.control.pager.totalPages)
+
+                        }
+                    }
+                }
+
+
+                me.control.pager.pageIndexElement.text(me.control.pager.pageIndex);
+                $(me.control.pager.totalPagesSelector).text(me.control.pager.totalPages);
+                $(me.control.pager.totalRecordsSelector).text(me.control.pager.totalRecords);
+
+                if (me.control.pager.pageNumElement.length > 0) {
+                    me.control.pager.pageNumElement.val(me.control.pager.pageIndex);
+                    //if (me.control.pager.pageNumElement.val().length > 3) {
+                    //    me.control.pager.pageNumElement.css("width", me.control.pager.pageNumElement.val().length + "0px");
+                    //} else {
+                    //    me.control.pager.pageNumElement.css("width", "40px");
+                    //}
+                }
+
+                if (me.control.pager.pageIndex > 1) {
+                    me.control.pager.previousElement.removeClass('disabled').removeAttr('aria-disabled tabindex');;
+                } else {
+                    me.control.pager.previousElement
+                        .addClass('disabled')
+                        .attr({
+                            'aria-disabled': 'true',
+                            'tabindex': '-1'
+                        });
+
+                }
+
+                if (me.control.pager.pageIndex < me.control.pager.totalPages) {
+                    me.control.pager.nextElement.removeClass('disabled').removeAttr('aria-disabled tabindex');;
+                } else {
+                    me.control.pager.nextElement
+                        .addClass('disabled')
+                        .attr({
+                            'aria-disabled': 'true',
+                            'tabindex': '-1'
+                        });
+                }
+
+                // check page numbers
+                if (me.options.showPagesNums) {
+                    if (!FI.enableTailWind == true) {
+                        if (window.enableDDS) {
+
+                            me.control.pager.pagerElement.find('.dda-pagination button:not(.next):not(.prev)').remove();
+                            me.control.pager.pagerElement.find('[rel=page],.hidden-pages').remove();
+
+                            if (me.control.pager.totalPages < me.options.pagerGroupSize * 2 + 1) {
+                                var p = me.control.pager.previousElement;
+                                for (var i = 1, ii = me.control.pager.totalPages; i <= ii; i++) {
+                                    p.after('<button onclick="return false" id="page_' + i + '" rel="page">' + i + '</button>');
+                                    p = p.next();
+                                }
+                            }
+                            else {
+                                var p = me.control.pager.previousElement;
+                                // add first group
+                                var m = 0;
+                                var b = Math.ceil((me.options.pagerGroupSize - 1.0) / 2);
+                                var a = me.options.pagerGroupSize - b - 1;
+                                for (var i = 1, ii = Math.min(me.options.pagerGroupSize, me.control.pager.totalPages); i <= ii; i++) {
+                                    if (i <= m) continue;
+                                    p.after('<button onclick="return false" id="page_' + i + '" rel="page">' + i + '</button>');
+                                    p = p.next();
+                                    m = i;
+                                }
+                                if (me.control.pager.pageIndex - b > me.options.pagerGroupSize + 1) {
+                                    p.after('<li class="hidden-pages"  style="list-style:none">&hellip;</li>');
+                                    p = p.next();
+                                }
+                                if (me.control.pager.pageIndex - b < me.control.pager.totalPages - me.options.pagerGroupSize + 1) {
+                                    for (var i = me.control.pager.pageIndex - b, ii = Math.min(me.control.pager.pageIndex + a, me.control.pager.totalPages); i <= ii; i++) {
+                                        if (i <= m) continue;
+
+                                        p.after('<button onclick="return false"  id="page_' + i + '" rel="page">' + i + '</button>');
+
+                                        p = p.next();
+                                        m = i;
+                                    }
+                                    if (me.control.pager.pageIndex + a < me.control.pager.totalPages - me.options.pagerGroupSize) {
+                                        p.after('<li class="hidden-pages" style="list-style:none">&hellip;</li>');
+                                        p = p.next();
+
+                                    }
+                                }
+                                for (var i = me.control.pager.totalPages - me.options.pagerGroupSize + 1, ii = me.control.pager.totalPages; i <= ii; i++) {
+                                    if (i <= m) continue;
+
+                                    p.after('<button onclick="return false" id="page_' + i + '" rel="page">' + i + '</button>');
+
+                                    p = p.next();
+                                    m = i;
+                                }
+                            }
+                            me.control.pager.pagerElement.find('[rel=page]').removeClass('active');
+                        } else {
+                            me.control.pager.pagerElement.find('[rel=page],.hidden-pages').remove();
+                            if (me.control.pager.totalPages < me.options.pagerGroupSize * 2 + 1) {
+                                var p = me.control.pager.previousElement.parent();
+                                for (var i = 1, ii = me.control.pager.totalPages; i <= ii; i++) {
+                                    p.after('<li id="page_' + i + '" rel="page" ><a href="#' + i + '" class="count">' + i + '</a></li>');
+                                    p = p.next();
+                                }
+                            }
+                            else {
+                                var p = me.control.pager.previousElement.parent();
+                                // add first group
+                                var m = 0;
+                                var b = Math.ceil((me.options.pagerGroupSize - 1.0) / 2);
+                                var a = me.options.pagerGroupSize - b - 1;
+                                for (var i = 1, ii = Math.min(me.options.pagerGroupSize, me.control.pager.totalPages); i <= ii; i++) {
+                                    if (i <= m) continue;
+                                    p.after('<li id="page_' + i + '" rel="page" ><a href="#' + i + '" class="count">' + i + '</a></li>');
+                                    p = p.next();
+                                    m = i;
+                                }
+                                if (me.control.pager.pageIndex - b > me.options.pagerGroupSize + 1) {
+                                    p.after('<li class="hidden-pages">&hellip;</li>');
+                                    p = p.next();
+                                }
+                                if (me.control.pager.pageIndex - b < me.control.pager.totalPages - me.options.pagerGroupSize + 1) {
+                                    for (var i = me.control.pager.pageIndex - b, ii = Math.min(me.control.pager.pageIndex + a, me.control.pager.totalPages); i <= ii; i++) {
+                                        if (i <= m) continue;
+                                        p.after('<li id="page_' + i + '" rel="page" ><a href="#' + i + '" class="count">' + i + '</a></li>');
+                                        p = p.next();
+                                        m = i;
+                                    }
+                                    if (me.control.pager.pageIndex + a < me.control.pager.totalPages - me.options.pagerGroupSize) {
+                                        p.after('<li class="hidden-pages">&hellip;</li>');
+                                        p = p.next();
+                                    }
+                                }
+                                for (var i = me.control.pager.totalPages - me.options.pagerGroupSize + 1, ii = me.control.pager.totalPages; i <= ii; i++) {
+                                    if (i <= m) continue;
+                                    p.after('<li id="page_' + i + '" rel="page" ><a href="#' + i + '" class="count">' + i + '</a></li>');
+                                    p = p.next();
+                                    m = i;
+                                }
+                            }
+                            me.control.pager.pagerElement.find('li[rel=page] a').removeClass('active');
+                            me.control.pager.pagerElement.find('li[rel=page]').removeClass('active');
+                        }
+
+                    }
+                    else {
+
+                        const mobilePager = document.querySelector('.aegov-pagination.sm\\:hidden');
+                        const desktopPager = document.querySelector('.aegov-pagination.max-sm\\:hidden');
+
+                        //console.log(
+                        //    $(mobilePager).is(':visible') ? 'Mobile pager visible' :
+                        //        $(desktopPager).is(':visible') ? 'Desktop pager visible' :
+                        //            'No pager visible'
+                        //);
+
+
+                        if ($(desktopPager).is(':visible')) {
+
+                            me.control.pager.pagerElement.find('a[rel=page],a.hidden-pages,span.aegov-pagination-current').remove();
+                            if (me.control.pager.totalPages < me.options.pagerGroupSize * 2 + 1) {
+                                var p = me.control.pager.previousElement;
+                                for (var i = 1, ii = me.control.pager.totalPages; i <= ii; i++) {
+                                    p.after('<a class="aegov-pagination-page aegov-pagination-smaller" id="page_' + i + '" rel="page"  aria-label="Page ' + i + '" href="#' + i + '">' + i + '</a>');
+                                    p = p.next();
+                                }
+                            }
+                            else {
+                                var p = me.control.pager.previousElement;
+                                // add first group
+                                var m = 0;
+                                var b = Math.ceil((me.options.pagerGroupSize - 1.0) / 2);
+                                var a = me.options.pagerGroupSize - b - 1;
+                                for (var i = 1, ii = Math.min(me.options.pagerGroupSize, me.control.pager.totalPages); i <= ii; i++) {
+                                    if (i <= m) continue;
+                                    p.after('<a class="aegov-pagination-page aegov-pagination-smaller" id="page_' + i + '" rel="page"  aria-label="Page ' + i + '" href="#' + i + '">' + i + '</a>');
+                                    p = p.next();
+                                    m = i;
+                                }
+                                if (me.control.pager.pageIndex - b > me.options.pagerGroupSize + 1) {
+                                    p.after('<a class="hidden-pages aegov-pagination-extend">&hellip;</a>');
+                                    p = p.next();
+                                }
+                                if (me.control.pager.pageIndex - b < me.control.pager.totalPages - me.options.pagerGroupSize + 1) {
+                                    for (var i = me.control.pager.pageIndex - b, ii = Math.min(me.control.pager.pageIndex + a, me.control.pager.totalPages); i <= ii; i++) {
+                                        if (i <= m) continue;
+                                        p.after('<a class="aegov-pagination-page aegov-pagination-larger" id="page_' + i + '"  aria-label="Page ' + i + '" rel="page" href="#' + i + '">' + i + '</a>');
+                                        p = p.next();
+                                        m = i;
+                                    }
+                                    if (me.control.pager.pageIndex + a < me.control.pager.totalPages - me.options.pagerGroupSize) {
+                                        p.after('<a class="hidden-pages aegov-pagination-extend">&hellip;</a>');
+                                        p = p.next();
+                                    }
+                                }
+                                for (var i = me.control.pager.totalPages - me.options.pagerGroupSize + 1, ii = me.control.pager.totalPages; i <= ii; i++) {
+                                    if (i <= m) continue;
+                                    //p.after('<li id="page_' + i + '" rel="page" ><a href="#' + i + '" class="count">' + i + '</a></li>');
+                                    p.after('<a class="aegov-pagination-page aegov-pagination-larger" id="page_' + i + '"  aria-label="Page ' + i + '"  rel="page" href="#' + i + '">' + i + '</a>');
+                                    p = p.next();
+                                    m = i;
+                                }
+                            }
+                            me.control.pager.pagerElement.find('a[rel=page]').removeClass('active');
+
+                        }
+
+
+                    }
+
+                }
+                if (!FI.enableTailWind == true) {
+                    if (window.enableDDS) {
+                        me.control.pager.pagerElement.find('button#page_' + me.control.pager.pageIndex + '').addClass('active');
+                        me.control.pager.pagerElement.find('button[rel=page]').click(function (event) {
+                            event.preventDefault();
+                            var index = $(this).attr('id').split('_')[1];
+                            me.loadPage(index, 10);
+                        });
+                    } else {
+                        me.control.pager.pagerElement.find('li#page_' + me.control.pager.pageIndex + '').addClass('active');
+                        me.control.pager.pagerElement.find('li#page_' + me.control.pager.pageIndex + ' a').addClass('active');
+                        me.control.pager.pagerElement.find('li[rel=page] a').click(function (event) {
+                            event.preventDefault();
+                            var href = $(this).attr('href');
+                            me.loadPage(parseInt(href.substring(href.indexOf('#') + 1), 10));
+                        });
+                    }
+
+                }
+                //else {
+                //    me.control.pager.pagerElement.find('a#page_' + me.control.pager.pageIndex + '').hide();
+                //    me.control.pager.pagerElement.find('a#page_' + me.control.pager.pageIndex + '').after('<span class="aegov-pagination-current" aria-current="true">' + me.control.pager.pageIndex + '</span>');
+                //    me.control.pager.pagerElement.find('a[rel=page]').click(function (event) {
+                //        event.preventDefault();
+                //        var href = $(this).attr('href');
+                //        me.loadPage(parseInt(href.substring(href.indexOf('#') + 1), 10));
+                //    });
+                //}
+                // In the Tailwind section of updatePager():
+                else {
+                    // First, handle the previous current page (if any)
+                    me.control.pager.pagerElement.find('.aegov-pagination-current').each(function () {
+                        var pageNum = $(this).text().trim();
+                        var pageIndex = parseInt(pageNum);
+
+                        // Only convert back if this is not the current page anymore
+                        if (pageIndex !== me.control.pager.pageIndex) {
+                            // Replace the span with a regular link
+                            var newLink = $('<a class="aegov-pagination-page" id="page_' + pageIndex +
+                                '" rel="page" aria-label="Page ' + pageIndex +
+                                '" href="#' + pageIndex + '">' + pageIndex + '</a>');
+                            $(this).replaceWith(newLink);
+                        }
+                    });
+
+                    // Now handle the new current page
+                    var currentPageLink = me.control.pager.pagerElement.find('a#page_' + me.control.pager.pageIndex);
+
+                    if (currentPageLink.length) {
+                        // Replace the link with a span for current page
+                        currentPageLink.replaceWith('<span class="aegov-pagination-current" aria-current="page">' +
+                            me.control.pager.pageIndex + '</span>');
+                    }
+
+                    // Add click handlers to all page links
+                    me.control.pager.pagerElement.find('a[rel=page]').off('click').click(function (event) {
+                        event.preventDefault();
+                        var href = $(this).attr('href');
+                        me.loadPage(parseInt(href.substring(href.indexOf('#') + 1), 10));
+                    });
+                }
+
+                if (me.control.pager.totalPages == 1) {
+                    me.control.pager.pagerElement.hide();
+                }
+
+            };
+            me.fixHeight = function () {
+                me.control.contentAreaElement.css({
+                    height: 'auto'
+                });
+                me.control.contentAreaElement.css({
+                    height: me.control.contentAreaElement.outerHeight(1)
+                });
+            };
+            me.loadPage = function (pageIndex, extraAjaxData) {
+                if (me.control.isWorking) {
+                    return;
+                }
+
+                //work once listing visible
+
+                if (me.options.workOnVisibleOnly) {
+                    clearInterval(me.interval);
+                    if (!me.control.contentAreaElement.is(':visible')) {
+                        me.interval = setInterval(function () {
+                            if (me.control.contentAreaElement.is(':visible')) {
+                                me.loadPage(1);
+                            }
+                        }, 300);
+                        return;
+                    }
+                }
+                me.control.isWorking = true;
+                var isValidAttr = true;
+
+                me.control.filtersElemnets.each(function () {
+                    if ($(this).hasClass('required') && !$(this).val() && $(this).is(':visible')) {
+
+                        $(this).parent().addClass('required-error');
+                        if (isValidAttr) $(this).focus();
+                        isValidAttr = false;
+                    }
+
+                });
+                if (!isValidAttr) {
+                    me.control.isWorking = false;
+                    return;
+                }
+
+                me.invokLoadPageCounter += 1;
+                me.control.contentAreaElement.addClass('loading');
+                me.control.contentAreaElement.removeClass('no-data');
+                me.control.contentAreaElement.removeAttr('aria-label');
+
+                me.control.pager.pageIndex = pageIndex;
+                var p = {
+                    pageIndex: pageIndex,
+                    pageSize: me.control.pager.pageSize,
+                    languageId: me.options.languageId,
+                    languageCode: me.options.languageCode,
+                    isArchived: me.options.isArchived,
+                    imageSize: me.options.imageSize,
+                    thumbnailSize: me.options.thumbnailSize,
+                    excludeItems: me.options.excludeItems
+                };
+
+                if (me.options.isGenericContentMode) {
+                    if (me.options.disableDefaultLanguageFilter) {
+                        p.FilterGroups = [{ "OR_AND_Operator": "AND", "Filters": [{ Key: 'LanguageId', Value: '', Operator: 'Equal', OR_AND_Operator: 'AND' }] }]
+                    } else {
+                        p.FilterGroups = [{ "OR_AND_Operator": "AND", "Filters": [{ Key: 'LanguageId', Value: me.options.languageId, Operator: 'Equal', OR_AND_Operator: 'AND' }] }]
+                    }
+
+                }
+                me.control.filtersElemnets.each(function () {
+
+                    if ($(this).val() && $(this).attr("name")) {
+                        if (me.options.isGenericContentMode) {
+                            p.FilterGroups[0].Filters.push({ Key: $(this).attr("name"), Value: $(this).val(), Operator: $(this).attr('data-icms-search-operator') ? $(this).attr('data-icms-search-operator') : 'Contains', OR_AND_Operator: 'AND' });
+                        } else {
+                            p[$(this).attr("name")] = $(this).val();
+                        }
+                    }
+                });
+                var _ajaxData = typeof (me.options.ajaxData) == "function" ? me.options.ajaxData(me.e, p) : me.options.ajaxData;
+
+                p = $.extend(true, {}, p, _ajaxData);
+
+                if (extraAjaxData) {
+                    me._extraAjaxData = extraAjaxData;
+                }
+                p = $.extend(true, {}, p, me._extraAjaxData);
+
+                if (me.options.postData) {
+                    p = me.options.postData(p);
+                }
+
+                if (me.control.sort.mode) {
+                    if (me.control.sort.mode == "link") {
+                        if (me.control.sort.filterSortBy.attr('data-icms-list-sortby') && me.control.sort.filterSortBy.hasClass('active')) {
+                            var direction = me.control.sort.filterSortDirection.attr('data-icms-list-sortdir') ? me.control.sort.filterSortDirection.attr('data-icms-list-sortdir') : "ASC";
+                            p.sort = [{ "Key": me.control.sort.filterSortBy.attr('data-icms-list-sortby'), "Operator": direction }]
+                        }
+                    }
+                    else if (me.control.sort.mode == "dropdown") {
+                        var key = me.control.sort.filterSortByDropDown.find('option:selected').attr('data-icms-list-sortby');
+                        var direction = me.control.sort.filterSortByDropDown.find('option:selected').attr('data-icms-list-sortdir') ? me.control.sort.filterSortByDropDown.find('option:selected').attr('data-icms-list-sortdir') : "ASC";
+
+                        if (key && direction) {
+                            p.sort = [{ "Key": key, "Operator": direction }]
+                        }
+                    }
+                }
+
+                var token = $('#__RequestVerificationToken').val();
+
+
+
+                if (me.options.monitorHash) {
+                    window.location.hash = "#page=" + pageIndex;
+                }
+                me.e.data('filters', p);
+                $.ajax({
+                    url: me.options.feedUrl,
+                    //headers: {
+                    //    "RequestVerificationToken": token
+                    //},
+                    //xhrFields: {
+                    //    withCredentials: true
+                    //},
+                    data: JSON.stringify(p),
+                    success: function (response) {
+                        var data = response.data;
+
+                        me.control.pager.totalPages = data.totalPages;
+                        me.control.pager.totalRecords = data.records;
+                        me.control.pager.pageIndex = data.page;
+                        if (response.code == 406) {
+                            //request limit excceded 
+                            me.control.contentAreaElement.html(FI.resources.ajaxMessages.requestLimitReached);
+                            me.control.contentAreaElement.removeClass('loading');
+                            me.control.pager.pagerElement.hide();
+                            me.updatePager();
+                            me.control.isWorking = false;
+                        } else {
+                            if (data && data.contents && data.contents.length > 0) {
+
+                                var html = '';
+                                if (p.loadResultAsHTML) {
+                                    html = $(data.contents).find('[data-icms-list-content]').length > 0 ? $(data.contents).find('[data-icms-list-content]').html() : data.contents;
+                                } else {
+                                    if (FI.resources) {
+                                        data.lang = FI.resources;
+                                    }
+                                    // a limited 'each' loop.
+                                    // usage: {{#limit items offset="1" limit="5"}} : items 1 thru 6
+                                    // usage: {{#limit items limit="10"}} : items 0 thru 9
+                                    // usage: {{#limit items offset="3"}} : items 3 thru context.length
+                                    // defaults are offset=0, limit=5
+
+                                    Handlebars.registerHelper('groupby', function (list, options) {
+                                        options = options || {};
+
+                                        var fn = options.fn || noop,
+                                            inverse = options.inverse || noop,
+                                            hash = options.hash,
+                                            prop = hash && hash.by,
+                                            keys = [],
+                                            groups = {};
+
+                                        if (!prop || !list || !list.length) {
+                                            return inverse(this);
+                                        }
+                                        function get(obj, prop) {
+                                            return prop.split('.').reduce((acc, part) => acc && acc[part], obj);
+                                        }
+
+                                        function groupKey(item) {
+                                            var key = get(item, prop);
+
+                                            if (keys.indexOf(key) === -1) {
+                                                keys.push(key);
+                                            }
+
+                                            if (!groups[key]) {
+                                                groups[key] = {
+                                                    value: key,
+                                                    items: []
+                                                };
+                                            }
+
+                                            groups[key].items.push(item);
+                                        }
+
+                                        function renderGroup(buffer, key) {
+                                            return buffer + fn(groups[key]);
+                                        }
+                                        list.forEach(groupKey);
+                                        return keys.reduce(renderGroup, '');
+
+                                    });
+
+
+                                    Handlebars.registerHelper('group', function (source, groupSize, options) {
+                                        var out = "", subcont = [], i;
+                                        if (source && source.length > 0) {
+                                            for (i = 0; i < source.length; i++) {
+                                                if (i > 0 && i % groupSize === 0) {
+                                                    out += options.fn(subcont);
+                                                    subcont = [];
+                                                }
+                                                subcont.push(source[i]);
+                                            }
+                                            out += options.fn(subcont);
+                                        }
+                                        return out;
+                                    });
+
+                                    //Handlebars.registerHelper('limit', function (context, block) {
+                                    //    var ret = "",
+                                    //        offset = parseInt(block.hash.offset) || 0,
+                                    //        limit = parseInt(block.hash.limit) || 5,
+                                    //        i = (offset < context.length) ? offset : 0,
+                                    //        j = ((limit + offset) < context.length) ? (limit + offset) : context.length;
+
+                                    //    for (i, j; i < j; i++) {
+                                    //        ret += block(context[i]);
+                                    //    }
+
+                                    //    return ret;
+                                    //});
+
+                                    Handlebars.registerHelper('limit', function (context, block) {
+                                      
+                                        if (!context || !Array.isArray(context) || !block || typeof block.fn !== 'function') {
+                                            return '';
+                                        }
+
+                                        var ret = "",
+                                            offset = parseInt(block.hash.offset) || 0,
+                                            limit = parseInt(block.hash.limit) || 5,
+                                            i = Math.min(offset, context.length),
+                                            j = Math.min(limit + offset, context.length);
+
+                                        for (i; i < j; i++) {
+                                            ret += block.fn(context[i]);
+                                        }
+
+                                        return ret;
+                                    });
+                                    Handlebars.registerHelper('gt', function (a, b) {
+                                        return a > b;
+                                    });
+
+
+                                    Handlebars.registerHelper('eq', function (arg1, arg2, options) {
+                                        return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+                                    });
+
+                                    Handlebars.registerHelper('sortByKey', function (array, keyPath, direction, options) {
+                                        if (!Array.isArray(array)) {
+                                            return options.inverse(this); // Return else block if not an array
+                                        }
+
+                                        function getValue(obj, path) {
+                                            return path.split('.').reduce((acc, part) => {
+                                                // Handle array indices (e.g., 'items.0.name')
+                                                const arrayIndex = parseInt(part, 10);
+                                                if (!isNaN(arrayIndex) && Array.isArray(acc)) {
+                                                    return acc[arrayIndex];
+                                                }
+                                                return acc && acc[part];
+                                            }, obj);
+                                        }
+
+                                        const dir = (direction || 'asc').toLowerCase() === 'desc' ? -1 : 1;
+
+                                        try {
+                                            const sorted = array.slice().sort((a, b) => {
+                                                const valA = getValue(a, keyPath);
+                                                const valB = getValue(b, keyPath);
+
+                                                // Null handling
+                                                if (valA == null && valB == null) return 0;
+                                                if (valA == null) return -1 * dir;
+                                                if (valB == null) return 1 * dir;
+
+                                                // String comparison
+                                                if (typeof valA === 'string' && typeof valB === 'string') {
+                                                    return valA.localeCompare(valB) * dir;
+                                                }
+
+                                                // Date comparison
+                                                const dateA = new Date(valA);
+                                                const dateB = new Date(valB);
+                                                if (!isNaN(dateA) && !isNaN(dateB)) {
+                                                    return (dateA - dateB) * dir;
+                                                }
+
+                                                // Numeric comparison (with type safety)
+                                                if (typeof valA === 'number' && typeof valB === 'number') {
+                                                    return (valA - valB) * dir;
+                                                }
+
+                                                // Fallback to string comparison
+                                                return String(valA).localeCompare(String(valB)) * dir;
+                                            });
+
+                                            return sorted.map(item => options.fn(item)).join('');
+                                        } catch (error) {
+                                            console.error('Sorting error:', error);
+                                            return options.inverse(this); // Return else block on error
+                                        }
+                                    });
+
+
+
+                                    Handlebars.registerHelper('substr', function (string, limit) {
+                                        var theString = string.substring(0, limit);
+
+                                        // attach dot dot dot if string greater than suggested end point
+                                        if (string.length > limit) {
+                                            theString += '...';
+                                        }
+
+                                        return new Handlebars.SafeString(theString);
+                                    });
+
+                                    Handlebars.registerHelper('cleansubstr', function (string, limit) {
+
+                                        var regex = /(<([^>]+)>)/ig
+                                        var regex2 = /({([^}]+)})/ig
+                                        var result = string.replace(regex, "").replace(regex2, "");
+
+                                        var theString = result.substring(0, limit);
+
+
+                                        // attach dot dot dot if string greater than suggested end point
+                                        if (string.length > limit) {
+                                            theString += '...';
+                                        }
+
+                                        return new Handlebars.SafeString(theString);
+                                    });
+                                    Handlebars.registerHelper('substring', function (string, limit) {
+
+                                        var regex = /(<([^>]+)>)/ig
+                                        var regex2 = /({([^}]+)})/ig
+                                        var result = string.replace(regex, "").replace(regex2, "");
+
+                                        var theString = result.substring(0, limit);
+
+
+                                        // attach dot dot dot if string greater than suggested end point
+
+                                        return new Handlebars.SafeString(theString);
+                                    });
+
+                                    Handlebars.registerHelper('clean', function (param) {
+                                        var regex = /(<([^>]+)>)/ig
+                                        var regex2 = /({([^}]+)})/ig
+                                        var result = param.replace(regex, "").replace(regex2, "");
+                                        return result.replace(/(['"])/g, '$1');
+                                    });
+                                    Handlebars.registerHelper('uppercase', function (string) {
+                                        return string.toUpperCase();
+                                    });
+                                    Handlebars.registerHelper('lowercase', function (string) {
+                                        return string.toLowerCase();
+                                    });
+
+                                    Handlebars.registerHelper('escape', function (variable) {
+                                        return variable.replace(/(['"])/g, '\\$1');
+                                    });
+
+                                    Handlebars.registerHelper("inc", function (inindex, val) {
+                                        return inindex + val
+                                    });
+
+                                    Handlebars.registerHelper('toFixed', function (number, decimals) {
+                                        return number.toFixed(decimals);
+                                    });
+
+                                    me.itemTemplate = me.itemTemplate.replace(/<img [^>]*src=['"]([^'"]+)[^>]*>/gi, function (match, capture) { return match.replace(/ src=/g, ' no_load_src='); });
+                                    var source = $('<div>' + me.itemTemplate + '</div>').find('[data-icms-list-content]').length > 0 ? $('<div>' + me.itemTemplate + '</div>').find('[data-icms-list-content]').html() : me.itemTemplate;
+                                    source = source.replace(/<img [^>]*no_load_src=['"]([^'"]+)[^>]*>/gi, function (match, capture) { return match.replace(/ no_load_src=/g, ' src=');; });
+
+                                    var template = Handlebars.compile(source);
+                                    html = template(data);
+                                }
+                                me.control.contentAreaElement.css('height', me.control.contentAreaElement.outerHeight());
+                                if (!FI.enableTailWind == true) {
+
+                                    var owl = me.control.contentAreaElement.data('owl.carousel');
+                                    var owlSettings = false;
+                                    if (owl) {
+                                        owlSettings = owl.options;
+                                        owl.destroy();
+                                    }
+                                    if (me.options.htmlBindedCallback) {
+                                        if (me.options.appendToCurrentHTML && me.control.pager.pageIndex != 1) {
+                                            me.control.contentAreaElement.append(html);
+                                        }
+                                        else
+                                            me.control.contentAreaElement.html(html);
+                                        me.options.htmlBindedCallback(me.control.contentAreaElement);
+                                    }
+                                    if (owl) {
+                                        if (owlSettings.owl2) {
+                                            me.control.contentAreaElement.owlCarousel2(owlSettings)
+                                        } else {
+                                            me.control.contentAreaElement.owlCarousel(owlSettings)
+                                        }
+                                        me.control.contentAreaElement.removeClass('owl-hidden');
+                                    }
+
+                                    me.control.contentAreaElement.find('[data-aos]').addClass('aos-init aos-animate');
+                                }
+                                else {
+
+                                    if (me.options.htmlBindedCallback) {
+                                        if (me.options.appendToCurrentHTML && me.control.pager.pageIndex != 1) {
+                                            me.control.contentAreaElement.append(html);
+                                        }
+                                        else
+                                            me.control.contentAreaElement.html(html);
+                                        me.options.htmlBindedCallback(me.control.contentAreaElement);
+                                    }
+
+                                    if ($(me.control.contentAreaElement).hasClass('aegovs-slider-style') || $(me.control.contentAreaElement).hasClass('slick-slider')) {
+                                        // Get the slick instance
+                                        let slickInstance = $(me.control.contentAreaElement).slick('getSlick');
+                                        let newContent = $(me.control.contentAreaElement).html();
+                                        if (slickInstance) {
+                                            // Store the current slider options
+                                            let slickOptions = slickInstance.options;
+
+                                            // Remove the existing slider
+                                            $(me.control.contentAreaElement).slick('unslick');
+
+                                            // Clear existing HTML before appending new HTML
+                                            $(me.control.contentAreaElement).empty(); // or use .html('')
+
+                                            // Append new content here
+                                            $(me.control.contentAreaElement).append(newContent);
+
+                                            // Re-initialize slick with the stored options
+                                            $(me.control.contentAreaElement).slick(slickOptions);
+                                        }
+                                    }
+
+                                    // Dropdown
+
+                                    $('.aegov-dropdown').each(function () {
+
+                                        var elementId = $(this).attr('id');
+                                        const $targetEl = document.getElementById(elementId);
+                                        const $triggerEl = document.getElementById($('[data-dropdown-toggle="' + elementId + '"]').attr('id'));
+                                        const options = {
+
+                                        };
+
+                                        // instance options object
+                                        const instanceOptions = {
+                                            id: elementId,
+                                            override: true
+                                        };
+                                        new Dropdown($targetEl, $triggerEl, options, instanceOptions);
+                                    })
+
+                                    //Accordions
+                                    if ($(me.control.contentAreaElement).hasClass('aegov-accordion')) {
+                                        const accordionElement = $(me.control.contentAreaElement);
+                                        const accordionItems = [];
+                                        accordionElement.find('.accordion-item').each(function () {
+
+                                            accordionItems.push({
+                                                id: $(this).find('.accordion-title').attr('id'),
+                                                //triggerEl: document.querySelector('#' + $(this).find('.accordion-title').attr('id') + ''),
+                                                triggerEl: $(this).find('button')[0],
+                                                targetEl: document.querySelector('#' + $(this).find('.accordion-content').attr('id') + ''),
+
+                                                active: false
+                                            })
+                                        })
+
+                                        // instance options object
+                                        const instanceOptions = {
+                                            id: accordionElement.attr('id'),
+                                            override: true
+                                        };
+
+                                        // options with default values
+                                        const options = {
+                                            alwaysOpen: accordionElement.attr('data-accordion') == 'open' ? true : false,
+                                            activeClasses: "accordion-active",
+                                            inactiveClasses: "accordion-inactive"
+                                        };
+
+                                        new Accordion(accordionElement, accordionItems, options, instanceOptions);
+                                    }
+
+
+                                    ///END Accordions
+
+
+                                    //Modals
+                                    $('[data-modal-target]').each(function () {
+                                        var element = $(this);
+                                        var targetId = element.attr('data-modal-target');
+
+                                        // set the modal element by ID
+                                        const $targetEl = $('#' + targetId);
+
+                                        // options with default values
+                                        const options = {
+                                            closable: true,
+                                            onShow: function () {
+                                                console.log("Modal is shown");
+                                            },
+                                            onHide: function () {
+                                                console.log("Modal is hidden");
+                                            }
+                                        };
+
+                                        // initialize the modal
+                                        const modal = new Modal($targetEl[0], options);
+
+                                        // add click event listener to open the modal
+                                        element.on('click', function () {
+                                            modal.show();  // open the modal
+                                        });
+
+                                        // Close the modal when an element with [data-modal-hide] is clicked
+                                        $targetEl.find('[data-modal-hide]').on('click', function () {
+                                            modal.hide();  // close the modal
+                                        });
+                                    });
+
+                                    // End Modal 
+                                    // Content Comment Modal
+                                    //if (('#contentCommentModal') && !window.modalInit) {
+                                    //    const $targetEl = document.getElementById('contentCommentModal');
+                                    //    // instance options object
+                                    //    const instanceOptions = {
+                                    //        id: 'contentCommentModal',
+                                    //        override: true
+                                    //    };
+
+                                    //    new Modal($targetEl, instanceOptions);
+                                    //    window.modalInit = true
+                                    //}
+
+                                    // end Content Comment Modal
+
+
+                                }
+                                //AOS.refresh();
+                                //var aosAnimateItems = me.control.contentAreaElement.find('.aos-animate');
+                                //for (var i = 0; i < aosAnimateItems.length; i++) aosAnimateItems[i].classList.remove('aos-animate');
+                                //window.dispatchEvent(new Event('resize'));
+
+                                me.control.contentAreaElement.css('height', '');
+                                me.control.pager.pagerElement.show();
+                                me.control.contentAreaElement.removeClass('no-data');
+                                me.control.contentAreaElement.removeAttr('aria-label');
+
+
+                            } else {
+                                me.control.contentAreaElement.html('');
+                                me.control.contentAreaElement.addClass('no-data');
+                                me.control.contentAreaElement.attr('aria-label', FI.resources.general.noResults);
+                                me.control.pager.pagerElement.hide();
+                            }
+                            me.updatePager();
+                            me.control.contentAreaElement.removeClass('loading');
+                            me.control.isWorking = false;
+                            if (me.invokLoadPageCounter > 1) {
+                                setTimeout(function () {
+                                    if (me.options.scrollToResult) {
+                                        $('html, body').animate({
+                                            scrollTop: (me.e.offset().top - 200)
+                                        }, 500);
+                                    }
+                                }, 500)
+                            }
+                            if (me.options.loadCompletedCallback) {
+                                me.options.loadCompletedCallback(response, me);
+                            }
+                        }
+                    },
+                    error: function () {
+                        me.control.isWorking = false;
+                        me.control.contentAreaElement.html('');
+                        me.control.contentAreaElement.removeClass('loading');
+                        me.control.contentAreaElement.addClass('no-data');
+                        me.control.contentAreaElement.attr('aria-label', FI.resources.general.noResults);
+                    },
+                    type: "POST",
+                    contentType: 'application/json; charset=utf-8',
+                    dataType: 'json'
+                });
+            };
+            me.control.pager.firstElement.click(function (event) {
+                event.preventDefault();
+                if ($(this).hasClass('disabled')) return;
+                me.loadPage(1);
+            });
+            me.control.pager.lastElement.click(function (event) {
+                event.preventDefault();
+                if ($(this).hasClass('disabled')) return;
+                me.loadPage(me.control.pager.totalPages);
+            });
+
+            me.control.pager.nextElement.click(function (event) {
+                event.preventDefault();
+                if ($(this).hasClass('disabled')) return;
+                me.loadPage(me.control.pager.pageIndex + 1);
+            });
+            me.control.pager.previousElement.click(function (event) {
+                event.preventDefault();
+                if ($(this).hasClass('disabled')) return;
+                me.loadPage(me.control.pager.pageIndex - 1);
+            });
+            me.updatePager();
+            var initLoadingFirstTime = function () {
+                if (me.options.monitorHash) {
+                    $(window).on('hashchange', function () {
+                        if (me.control.isWorking) return;
+                        if (window.location.hash.indexOf('#page=') == 0) {
+                            var v = window.location.hash.replace('#page=', '');
+                            if (!isNaN(v)) {
+                                v = parseInt(v);
+                                me.loadPage(v);
+                            }
+                        }
+                    });
+                    // process hash
+                    if (window.location.hash.indexOf('#page=') == 0) {
+                        var v = window.location.hash.replace('#page=', '');
+                        if (!isNaN(v)) {
+                            v = parseInt(v);
+                            me.loadPage(v);
+                        }
+                    } else {
+                        me.loadPage(1);
+                    }
+                } else {
+                    me.loadPage(1);
+                }
+            }
+
+            me.invokeAction = function (args) {
+                var f = args[0];
+                if (f == 'load') {
+                    me.loadPage(args[1]);
+                }
+            };
+        };
+        $.fn.cotentListing = function (options) {
+            var args = arguments;
+            //if (!options) options = $(this).data('options');
+            if (typeof ('options') == 'object' || typeof ('options') == 'undefined' || options == null || typeof (options.indexOf) == 'undefined') {
+                var opts = $.extend(true, {}, $.fn.cotentListing.defaults, options);
+                return this.each(function () {
+                    var e = $(this);
+                    if (e.data('options')) {
+                        opts = $.extend(true, {}, opts, e.data('options'));
+                    }
+
+                    var obj = new CotentListing(e, opts);
+                    e.data('obj', obj);
+                });
+            } else {
+                var result = [];
+                this.each(function () {
+                    var e = $(this);
+                    var obj = e.data('obj');
+                    if (typeof (obj) != 'undefined') {
+                        result.push(obj.invokeAction(args));
+                    }
+                });
+                return result;
+            }
+        };
+        $.fn.cotentListing.defaults = {
+            isGenericContentMode: false,
+            disableDefaultLanguageFilter: false,
+            pageSize: 10,
+            languageId: 1,
+            languageCode: 'en-GB',
+            thumbnailSizeFactor: '8c1x5c1wffffff',
+            feedUrl: '',
+            excludeItems: [],
+            isArchived: false,
+            pagerFormat: '<span class="pagenum">{0}</span><span class="pagescount">/ {1}</span>',
+            itemTemplateSelector: '',
+            itemTemplate: false,
+            showPagesNums: true,
+            monitorHash: true,
+            pagerGroupSize: 3,
+            initialPage: 1,
+            noResultsFound: "No results found",
+            scrollToResult: true,
+            filtersContainerSelector: '',
+            searchBtnSelector: '',
+            filtersElemnetsSelector: '',
+            filtersElemnetsSelector: '',
+            totalItemsCountSelector: '',
+            firstPageAutoLoading: true,
+            workOnVisibleOnly: true,
+            postData: false,
+            loadCompletedCallback: false,
+            htmlBindedCallback: false,
+            appendToCurrentHTML: false,
+            ajaxData: { loadResultAsHTML: false }
+        };
+
+
+    })(jQuery, FI.resources);
+});

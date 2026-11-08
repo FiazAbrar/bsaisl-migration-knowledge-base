@@ -1,0 +1,226 @@
+### Issuing a visit visa to explore job opportunities
+
+Search in Services
+
+[Start service](https://smart.gdrfad.gov.ae/SmartChannels_Th/Login.aspx?Lang=ar-AE)
+
+A foreigner is provided with a visit visa to explore employment opportunities for one or more visits without requiring a host or guarantor within the country.
+
+Service Details
+
+Requirements
+
+1\. A personal photo.\
+2\. A passport copy, valid for at least 6 months.\
+3\. A university degree.
+
+Service Steps
+
+Digital channels (website/smart application):\
+1\. Log in to the smart services system through (UAE Pass or username).\
+2\. Search for the service to be applied for.\
+3\. Fill in the application data, where applicable.\
+4\. Pay the service fee (if any).\
+Customer Happiness Centre:\
+1\. Visit the nearest Customer Happiness Centre.\
+2\. Get the automated turn ticket and wait.\
+3\. Submitting the application that fulfils all conditions and documents (if any) to the customer service employee.\
+4\. Pay the service fee (if any).\
+\
+Amer Service Centre:\
+1\. Visit the nearest Amer Service Centre.\
+2\. Get the automated turn ticket and wait.\
+3\. Submitting the application that fulfils all conditions and documents (if any) to the customer service employee.\
+4\. Pay the service fee (if any).
+
+Fees
+
+· 60-day visit visa fee: AED200\
+· 90-day visit visa fee: AED300\
+· Fee for a 120-day visit visa: AED400\
+· In addition to the value added tax (5%).\
+\
+· Financial guarantees:\
+· Security amount: AED1000\
+· Warranty service fee: AED20\
+· Fee for collection and return of the guarantee: AED40\
+\
+· Additional fees (if the sponsored person is inside the country):\
+· Knowledge Dirham: AED10\
+· Innovation Dirham: AED10\
+· Fee inside the country: AED500\
+\
+· Note: The total amount of the visa may vary depending on the circumstances surrounding the sponsored person or for any other reasons that may necessitate it.
+
+Terms And Conditions
+
+1\. The applicant must be a skilled worker at the first, second or third professional level of the occupational classification approved by the Ministry of Human Resources and Emiratisation\
+2\. The applicant must have graduated from one of the top 500 universities in the world, according to the Ministry of Education's classification.A bachelor's degree or its equivalent must be the minimum level of education.\
+\
+To adhere to the required guarantee.
+
+Service Availability Channels
+
+Digital channels (website/smart application):\
+The service is available 24/7\
+\
+AMER Centres:\
+The service is available during the official working hours in each service centre
+
+Expected Completion Time
+
+48.0 Hour(s)
+
+Additional Information
+
+Not Applicant
+
+Related Services
+
+Extending a visit visa to explore job opportunities.
+
+Service Centers
+
+[Click here to browse Service Centers List ](#)
+
+Service Centers List
+
+[Close ](#)
+
+Eagle Management Services LLC Dubai Branch
+
+THE CREEK GOVERNMENT TRANSACTIONS
+
+BAB ALFALAH DOCUMENTS CLEARING SERVICES
+
+ONE CLICK GOVERNMENT TRANSACTIONS CENTER
+
+NYPD Typing
+
+.GOOD HAND GOVERNMENT TRANSACTIONS L.L.C
+
+ALTWAR GOVERNMENT SERVICE CENTER
+
+AL NAZIH GOVERNMENT SERVICES
+
+AL HIJRAH BUSINESSMEN SERVICES BR
+
+SMART VISION GOVERNMENT TRANSACTIONS CENTER
+
+DXB BUSINESSMEN SERVICES ( BRANCH )
+
+IDEAL SIGNATURE GOVERNMENT TRANSACTIONS CENTER
+
+A B S GOVERNMENT TRANSACTIONS CENTER
+
+UID SMART SERVICES
+
+GFE DOCUMENTS SERVICES ONE PERSON COMAPNY L.L.C
+
+SMART NT S GOVERNMENT TRANSACTION CENTER
+
+AL TAAMUL AL THAKI GOVERNMENT TANSACTION center
+
+FAST TRACK VISION GOVERNMENT TRANSACTIONS
+
+HI SKY DOCUMENTS CLEARING TYPING FZE
+
+AL MARWA DOCUMNTS CLEARING SERVICES L. L .C
+
+AL QUOZ GOVERNMENT TRANSACTIONS CENTER
+
+EJAD BUSINESSMEN TRANSACTION
+
+DUBAI NATIONAL GOVERNMENT SERVICES
+
+ALYALAYIS GOVERNMENT TANSACTION
+
+ALGARHOUD GOVERNMENT TRANSACTIONS CENTER
+
+ARABIAN BUSINESS CENTRE
+
+ALREAYA GOVERNMENT TRANSACTION CENTER L.L.C( BRANCH)
+
+EPICENTER GOVERNMENT TRANSACTIONS
+
+FIRST TRACK GOVERNMNT TRANSACTIONS
+
+7 MINUTES GOVERNMENT SERVICES
+
+ITQAN SOLUTION GOVERNMENT TRANSACTIONS
+
+FIXIT GOVERNMNT SERVICES
+
+AL TARESH GOVERNMENT SERVICES L.L.C
+
+24 seven government transaction center l l c
+
+HIGH SKY GOVERNMENT SERVICES
+
+ROOH ALETIHAD GOVERNMENT TRANSACTION CENTER L.LC
+
+Express Convey Document Clearing
+
+BAB AL KARAMA GOVERNMENT TRANSACTIONS
+
+TRUE LINK GOVERNMENT TRASACTION CENTER LLC
+
+SMART TRACK GOVERNMENT TRANSACTIONS
+
+GULF VISION GOVERNMENT TRANSACTIONS LLC
+
+QUICK STOP GOVERNMENT TRANSACTIONS CENTER
+
+QUALITY GENERAL SERVICES
+
+ATIS SOLUTION LIMITED - DIFC
+
+ALDEYAFA GOVERNMENT TRANSACTIONS
+
+ALTASAMUH GOVERNMENT TRANSACTION CENTER L.L.C
+
+Ontime Hub Government Services
+
+ALLIED UNIK BUSINESS CENTER
+
+EMIRATES PROFITIONAL BUSINESS CENTRE
+
+TAMAAM GOVERNMENT TRANSACTIONS CLEARING
+
+RELIABLE GOVERNMENT SERVICES LLC
+
+TAREEF SERVICES CENTER L.L.C
+
+M S M E GOVERNMENT TRANSACTIONS
+
+BEST TAWASOL GOVERNMENT SERVICES
+
+TASHEEL GOVERNMENT SERVICES
+
+dawn GOVERNMENT TANSACTION center
+
+KARAMA BUSINESS CENTER
+
+FIRST ONE GOVERNMNT TRANSACTIONS CL
+
+FALCON VISION GOVERNMENT TRANSACTIONS CENTER LLC
+
+AL HIMMA BUSINESSMEN SERVICES
+
+GOLDEN WAY COVERNMAEMT TRANSACTIONS
+
+MAF GOVERNMENT TRANSACTIONS CENTER L.L.C
+
+PRINTS BUSINESS MEN SERVICES L.L.C
+
+AHLAN BUSINESMEN SERVICES
+
+\
+
+Do you find this content helpful?
+
+star rating
+
+Rating 5 Rating 4 Rating 3 Rating 2 Rating 1
+
+[×](#)

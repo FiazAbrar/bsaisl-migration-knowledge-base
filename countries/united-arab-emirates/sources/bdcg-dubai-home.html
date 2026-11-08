@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+html{
+--color-primary-bg:#00A63E;
+--color-primary-light:#2DAB5B;
+--color-primary-dark:#008532;
+--color-primary-text:#ffffff;
+--color-secondary-bg:#DC2626;
+--color-secondary-light:#FEF2F2;
+--color-secondary-dark:#ED3131;
+--color-secondary-text:#ffffff;
+--color-normal-bg:#ffffff;
+--color-normal-light:#f0f0f0;
+--color-normal-dark:#e0e0e0;
+--color-normal-text:#000000;
+--color-dark-bg:#000000;
+--color-dark-light:#202020;
+--color-dark-dark:#404040;
+--color-dark-text:#ffffff;
+--color-success-bg:#28a745;
+--color-success-text:#ffffff;
+--color-danger-bg:#dc3545;
+--color-danger-text:#dc3545;
+--color-warning-bg:#FF6600;
+--color-warning-text:#FF6600;
+--color-info-bg:#17a2b8;
+--color-info-text:#ffffff;
+--color-link-normal:#1568b2;
+--color-link-dark:#1b81dd;
+--color-border-normal:#d0d0d0;
+--color-border-dark:#909090;
+--color-widget-title:#202B5D;
+--color-widget-subtitle:#62718D;
+--color-content-dark:#1E202C;
+--color-content-normal:#313545;
+--background-primary-image:url(/site-assets/images/bg.png);
+--background-primary-repeat:repeat;
+--background-primary-position:center center;
+--background-primary-color:#ffffff;
+--background-secondary-image:url(/site-assets/images/bg.png);
+--background-secondary-repeat:repeat;
+--background-secondary-position:center center;
+--background-secondary-color:#ffffff;
+--container-small:600px;
+--container-medium:900px;
+--container-large:1200px;
+--spacing-small:8px;
+--spacing-medium:16px;
+--spacing-large:24px;
+--radius-small:4px;
+--radius-medium:8px;
+--radius-large:16px;
+--shadow-small:0px 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium:0px 4px 8px rgba(0, 0, 0, 0.1);
+--shadow-large:0px 8px 16px rgba(0, 0, 0, 0.1);
+--text-small:0.75rem;
+--text-medium:0.9rem;
+--text-large:1.25rem;
+--font-heading-en:Roboto-Regular, sans-serif;
+--font-heading-bn:NotoSansBengali-Regular, sans-serif;
+--font-primary-en:Roboto-Regular, sans-serif;
+--font-primary-bn:NotoSansBengali-Regular, sans-serif;
+--font-secondary-en:Roboto-Regular, sans-serif;
+--font-secondary-bn:NotoSansBengali-Regular, sans-serif;
+--typography-h1-font-family:var(--font-heading);
+--typography-h1-font-weight:700;
+--typography-h1-font-size:32px;
+--typography-h1-line-height:1.2;
+--typography-h2-font-family:var(--font-heading);
+--typography-h2-font-weight:700;
+--typography-h2-font-size:28px;
+--typography-h2-line-height:1.2;
+--typography-h3-font-family:var(--font-heading);
+--typography-h3-font-weight:600;
+--typography-h3-font-size:24px;
+--typography-h3-line-height:1.5;
+--typography-h4-font-family:var(--font-heading);
+--typography-h4-font-weight:500;
+--typography-h4-font-size:20px;
+--typography-h4-line-height:1.5;
+--typography-h5-font-family:var(--font-heading);
+--typography-h5-font-weight:500;
+--typography-h5-font-size:18px;
+--typography-h5-line-height:1.5;
+--typography-h6-font-family:var(--font-heading);
+--typography-h6-font-weight:400;
+--typography-h6-font-size:16px;
+--typography-h6-line-height:1.5;
+--typography-body-font-family:var(--font-primary);
+--typography-body-font-weight:400;
+--typography-body-font-size:14px;
+--typography-body-line-height:1.2;
+--typography-p-font-family:var(--font-primary);
+--typography-p-font-weight:400;
+--typography-p-font-size:14px;
+--typography-p-line-height:1.2;
+--typography-a-font-family:var(--font-secondary);
+--typography-a-font-weight:400;
+--typography-a-font-size:14px;
+--typography-a-line-height:1.2;
+}
+html,html[lang="en"]{
+--font-heading:Roboto-Regular, sans-serif;
+--font-primary:Roboto-Regular, sans-serif;
+--font-secondary:Roboto-Regular, sans-serif;
+}
+html[lang="bn"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+
+/* ===== CONTAINER ===== */
+body{overflow-x:hidden;}
+.col{flex:0 0 auto;}
+.container-row,.widget-container-row{
+  --col-gutter-x: var(--spacing-medium);
+  --col-gutter-y:0;
+  /*
+  --col-gutter-y: var(--spacing-medium);
+  */
+  display:flex;
+  flex-wrap:wrap;
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-right:calc(-.5 * var(--col-gutter-x));
+  margin-left:calc(-.5 * var(--col-gutter-x))
+  /*
+  width:calc(100% + var(--col-gutter-x));
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-left:calc(-1 * var(--col-gutter-x));
+  */
+}
+.container-row>*,.widget-container-row>*{
+  box-sizing:border-box;
+  flex-shrink:0;
+  width:100%;
+  max-width:100%;
+  padding-right:calc(var(--col-gutter-x) * .5);
+  padding-left:calc(var(--col-gutter-x) * .5);
+  margin-top:var(--col-gutter-y)
+  /*
+  width:calc(100% - var(--col-gutter-x));
+  max-width:calc(100% - var(--col-gutter-x));
+  margin-top:var(--col-gutter-y);
+  margin-left:var(--col-gutter-x);
+  */
+}
+
+@media (min-width:600px) {
+  .container-col-1{width:8.3333%;}
+  .container-col-2{width:16.666%;}
+  .container-col-3{width:25%;}
+  .container-col-4{width:33.333%;}
+  .container-col-5{width:41.666%;}
+  .container-col-6{width:50%;}
+  .container-col-7{width:58.333%;}
+  .container-col-8{width:66.666%;}
+  .container-col-9{width:75%;}
+  .container-col-10{width:83.333%;}
+  .container-col-11{width:91.666%;}
+  .container-col-12{width:100%;}
+}
+
+  </style>
+  <!-- analytics script -->
+  <!-- Matomo Id n/a -->
+  <script defer data-domain="dubai.mofa.gov.bd" src="https://analytics-plausible.portal.gov.bd/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <link rel="stylesheet" href="/site-assets/css/phosphor.css">
+  <link rel="stylesheet" href="/site-assets/css/phosphor-fill.css">
+  <link rel="stylesheet" href="/site-assets/css/index.css">
+  <link rel="stylesheet" href="/widget-assets/css/SimpleHeaderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/LanguageSwitcherWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusSliderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EmbassyBannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/BannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MofaDynamicServiceBoxWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MofaLatestNewsWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ThumbnailPhotoGalleryVersionTwoWidget">
+  <link rel="stylesheet" href="/widget-assets/css/AccessibilityWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GoToTopWidget">
+  <link rel="stylesheet" href="/widget-assets/css/NewLandingFooterWidget">
+  <style>/* END */</style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+
+  <!-- RENDERING 6922f81a003631e6b5c0eb0b : 1794137752835 -->
+  <title>Home | Consulate General of the People's Republic of Bangladesh, Dubai, UAE</title>
+  <meta name="description" content=""/>
+  <meta name="keywords" content="Home, Consulate General of the People's Republic of Bangladesh, Dubai, UAE, http://dubai.mofa.gov.bd, Bangladesh, Bangladesh National Portal, Government of the People's Republic of Bangladesh, গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <link rel="canonical" href="http://dubai.mofa.gov.bd/"/>
+  <link rel="icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/png" href="/site-assets/images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="http://dubai.mofa.gov.bd/site-assets/images/favicon.png"/>
+  <meta name="author" content="Consulate General of the People's Republic of Bangladesh, Dubai, UAE"/>
+  <meta property="fb:app_id" content="..............."/>
+  <meta property="og:url" content="http://dubai.mofa.gov.bd/"/>
+  <meta property="og:site_name" content="Consulate General of the People's Republic of Bangladesh, Dubai, UAE"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:article:section" content="Home | Consulate General of the People's Republic of Bangladesh, Dubai, UAE"/>
+  <meta property="og:article:author" content="Consulate General of the People's Republic of Bangladesh, Dubai, UAE"/>
+  <meta property="og:article:tag" content="Consulate General of the People's Republic of Bangladesh, Dubai, UAE"/>
+  <meta property="og:article:tag" content="Bangladesh"/>
+  <meta property="og:article:tag" content="Bangladesh National Portal"/>
+  <meta property="og:article:tag" content="Government of the People's Republic of Bangladesh"/>
+  <meta property="og:article:tag" content="গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <meta property="og:title" content="Home | Consulate General of the People's Republic of Bangladesh, Dubai, UAE"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="687"/>
+  <meta property="og:image:height" content="570"/>
+  <meta property="og:image:secure_url" content="http://dubai.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta property="og:image" content="http://dubai.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div class="container">
+  <div class="header"><div data-section_type="header" class="droppable">
+        
+         <div data-widget_type="widget" data-widget_name="SimpleHeaderWidget" class="widget simple-header-widget"> <div class="simple-header-container"> <div class="simple-header-left"> <a href="/" class="logo-link"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-title-wrapper"> <a class="header-title" href="/" title="Consulate General of the People&#39;s Republic of Bangladesh, Dubai, UAE"> <span class="title-text"> Consulate General of the People&#39;s Republic of Bangladesh, Dubai, UAE </span> </a> </div> </div> <div class="simple-header-right"> <div class="date-section"> <i class="ph ph-calendar-dots"></i> <span class="date-text">08 / 11 / 2026, 03:35 pm</span> </div> <div class='widget language-switcher-widget'> <input type="hidden" name="lang" id="8682741077" value="en" /> <button type="button" id="1677314247" data-type="en" class="btn-lang-change" onclick="window.toggleLanguage('1677314247', '8682741077')"> বাংলা </button> </div> </div> </div> </div> 
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="MenusSliderWidget" class="widget menus-slider-widget max-view"> <div class="expand-btn home-btn" style="display: none"> <a href="/" title="Home"><i class="ph ph-house"></i></a> </div> <div class="expand-btn prev-btn" style="display: none"> <span title="Previous"><i class="ph ph-arrow-fat-left"></i></span> </div> <div class="menus-widget-container" style="--home-label:'Home';"> <section class="widget menu-widget"> <span id="menu-toggle" class="hamburger-menu-block"> <icon class="hamburger-menu ph ph-list"></icon> <span>Select Menu</span> </span> <ul class="menu-list menu-parent-unordered-list custom-items-center"> <li class="megamenu-link "> <a class="menu-parent-list-link home-link" href="/"> </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" About us" href="/pages/static-pages/about-the-consulate-h7jbsf-6adef6d75703c40cec82d85c" class="menu-parent-list-link"> About us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" About us" class="menu-child-title"> <a title="About us" href="#"> <div>About us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Consul General" class="menu-sub-child-link" href="/pages/office-heads/welcome-message-yn5ayb-6aa27323e709ce5ea22a3295" > <div>Consul General</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Roll of Honour" class="menu-sub-child-link" href="/pages/static-pages/6952669435ce18e1c05aa2d5" > <div>Roll of Honour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" List of Officers" class="menu-sub-child-link" href="/pages/officers-profile" > <div>List of Officers</div> </a> </li> <li class="menu-sub-child-list"> <a title=" List of Holidays" class="menu-sub-child-link" href="/pages/static-pages/695266b435ce18e1c05aae21" > <div>List of Holidays</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Office Hour" class="menu-sub-child-link" href="/pages/static-pages/6952667935ce18e1c05a9649" > <div>Office Hour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Consular Service Hour" class="menu-sub-child-link" href="/pages/static-pages/not_found" > <div>Consular Service Hour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Embassy Events" class="menu-sub-child-link" href="/pages/news/69526637a31054345f10206e" > <div>Embassy Events</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Consulates Generals" class="menu-sub-child-link" href="" > <div>Consulates Generals</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Consular Jurisdiction" class="menu-sub-child-link" href="/pages/static-pages/6952668135ce18e1c05a9a1a" > <div>Consular Jurisdiction</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" News &amp; Events" href="" class="menu-parent-list-link"> News &amp; Events <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" News &amp; Events" class="menu-child-title"> <a title="News &amp; Events" href="#"> <div>News &amp; Events</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Press Release" class="menu-sub-child-link" href="" > <div>Press Release</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Events" class="menu-sub-child-link" href="/pages/news/69526636a31054345f101f69" > <div>Events</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Photo Gallery" class="menu-sub-child-link" href="/pages/photo-galleries" > <div>Photo Gallery</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Video Gallery" class="menu-sub-child-link" href="" > <div>Video Gallery</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Useful links" class="menu-sub-child-link" href="" > <div>Useful links</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Consular" href="" class="menu-parent-list-link"> Consular <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Consular" class="menu-child-title"> <a title="Consular" href="#"> <div>Consular</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Consular Wing" class="menu-sub-child-link" href="/pages/static-pages/6952668535ce18e1c05a9c14" > <div>Consular Wing</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Commercial Wing" class="menu-sub-child-link" href="/pages/static-pages/6952667935ce18e1c05a965f" > <div>Commercial Wing</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Labour Welfare Wing" class="menu-sub-child-link" href="/pages/static-pages/695266a835ce18e1c05aa9c6" > <div>Labour Welfare Wing</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Press &amp; Information Wing" class="menu-child-title"> <a title="Press &amp; Information Wing" href="#"> <div>Press &amp; Information Wing</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Publications" class="menu-sub-child-link" href="/pages/static-pages/6952668a35ce18e1c05a9e74" > <div>Publications</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Passport and Visa Wing" class="menu-child-title"> <a title="Passport and Visa Wing" href="/pages/static-pages/6952669a35ce18e1c05aa47b"> <div>Passport and Visa Wing</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Form" class="menu-sub-child-link" href="" > <div>Form</div> </a> <ul class="menu-sub-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-sub-child-list"> <a title=" Reissue/Information Alteration/Correction Application Form" class="menu-sub-sub-child-link" href="/pages/static-pages/6952667135ce18e1c05a91f1" > <div>Reissue/Information Alteration/Correction Application Form</div> </a> </li> </ul> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Bilateral Relation" href="" class="menu-parent-list-link"> Bilateral Relation <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Bilateral Relation" class="menu-child-title"> <a title="Bilateral Relation" href="#"> <div>Bilateral Relation</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" History of Bangladesh Relation" class="menu-sub-child-link" href="" > <div>History of Bangladesh Relation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Political Relation" class="menu-sub-child-link" href="/pages/static-pages/not_found" > <div>Political Relation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Trade, Commerce, and Investment" class="menu-sub-child-link" href="" > <div>Trade, Commerce, and Investment</div> </a> </li> <li class="menu-sub-child-list"> <a title=" People to People Contact" class="menu-sub-child-link" href="" > <div>People to People Contact</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Relation with Accredited Countries" class="menu-sub-child-link" href="" > <div>Relation with Accredited Countries</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Contact Us" href="/pages/static-pages/6952669935ce18e1c05aa471" class="menu-parent-list-link"> Contact Us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Contact Us" class="menu-child-title"> <a title="Contact Us" href="#"> <div>Contact Us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Address &amp; Location" class="menu-sub-child-link" href="/pages/static-pages/6952669935ce18e1c05aa471" > <div>Address &amp; Location</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Write to (Consul General)" class="menu-sub-child-link" href="/pages/web-forms/6952650bb71fc04b6148291e" > <div>Write to (Consul General)</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Suggestion/Grievance Redress" class="menu-sub-child-link" href="" > <div>Suggestion/Grievance Redress</div> </a> </li> <li class="menu-sub-child-list"> <a title=" FAQ" class="menu-sub-child-link" href="" > <div>FAQ</div> </a> </li> </ul> </div> </div> </li> </ul> </section> </div> <div class="expand-btn next-btn" style="display: none"> <span title="Next"><i class="ph ph-arrow-fat-right"></i></span> </div> </section> 
+            </div>
+        </div>
+        <div data-widget_type="widget" data-widget_name="EmbassyBannerSliderImageWidget" class="widget embassy-banner-slider-image-widget"> <div class="widget banner-slider-image-widget"> <div class="home-carousel"> <div class="slider-overlay widget-container-row"> <div class="slider-left container-col-4"> <a href="/"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-left-section"> <h1><a style="text-decoration: none" href="/" class="office-title"> Consulate General of the People&#39;s Republic of Bangladesh, Dubai, UAE </a></h1> <!--<p class="office-subtitle">Government of the People's Republic of Bangladesh</p>--> <p class="office-subtitle"></p> </div> </div> <!-- <div class="container-col-4">--> <!-- <p class="office-caption">--> <!-- </p>--> <!-- </div>--> <div class="slider-controls container-col-4"> <button class="nav-btn slider-previous"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.7868L1.79976 6.88151L6.70508 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> <button class="nav-btn slider-play"> <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6445 20.8813C13.2967 20.8813 15.8402 19.8278 17.7156 17.9524C19.591 16.0771 20.6445 13.5335 20.6445 10.8813C20.6445 8.22918 19.591 5.68564 17.7156 3.81028C15.8402 1.93492 13.2967 0.881348 10.6445 0.881348C7.99237 0.881348 5.44883 1.93492 3.57346 3.81028C1.6981 5.68564 0.644531 8.22918 0.644531 10.8813C0.644531 13.5335 1.6981 16.0771 3.57346 17.9524C5.44883 19.8278 7.99237 20.8813 10.6445 20.8813ZM10.0883 7.34135C9.90003 7.21575 9.68121 7.14361 9.45518 7.13263C9.22914 7.12165 9.00436 7.17224 8.80482 7.27901C8.60529 7.38577 8.43848 7.5447 8.32219 7.73884C8.2059 7.93298 8.1445 8.15504 8.14453 8.38135V13.3813C8.1445 13.6077 8.2059 13.8297 8.32219 14.0239C8.43848 14.218 8.60529 14.3769 8.80482 14.4837C9.00436 14.5905 9.22914 14.641 9.45518 14.6301C9.68121 14.6191 9.90003 14.5469 10.0883 14.4213L13.8383 11.9213C14.0095 11.8072 14.1498 11.6525 14.2469 11.4711C14.344 11.2897 14.3948 11.0871 14.3948 10.8813C14.3948 10.6756 14.344 10.473 14.2469 10.2916C14.1498 10.1102 14.0095 9.9555 13.8383 9.84135L10.0883 7.34135Z" fill="currentColor" /> </svg> </button> <button class="nav-btn slider-next"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.58447 11.7868L6.48979 6.88151L1.58447 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> </div> </div> </div> </div> </div>
+        
+    </div></div>
+  <div class="wrapper">
+    <div class="body"><div data-section_type="body" class="droppable">
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                 <section data-widget_type="widget" data-widget_name="MofaDynamicServiceBoxWidget" class="widget mofa-dynamic-service-box-widget"> <div class="mofa-header-container"> <div class="mofa-header-title-container"> <div class="mofa-header-title">Explore Our Services</div> <div class="mofa-header-subtitle">Official embassy services designed to serve the public efficiently</div> </div> <div class="mofa-dynamic-service-box-container"> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/a7f63e856bad4c3fad539e1beb40e909.png" alt="Notice" /> </div> <div class="mofa-card-title">Notice</div> </div> <div class="mofa-card-list"> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526638a31054345f1021dc%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/528154012ec64772bc7b1b0ca2fea6c0.jpg" alt="Consular Service (Passport)" /> </div> <div class="mofa-card-title">Consular Service (Passport)</div> </div> <div class="mofa-card-list"> <a href="/pages/files" class="mofa-card-list-item" title="পাসপোর্ট সংক্রান্ত প্রায়শ জিজ্ঞাস্য প্রশ্নের উত্তর - Answers of Frequently Asked Questions about Pass"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">পাসপোর্ট সংক্রান্ত প্রায়শ জিজ্ঞাস্য প্রশ্নের উত্তর - Answers of Frequently Asked Questions about Pass</div> </a> <a href="/pages/files" class="mofa-card-list-item" title="ই-পাসপোর্টের আবেদনের ব্যাপারে পুলিশি তদন্ত প্রতিবেদনের বিষয়ে আবেদনকারীর বক্তব্য দাখিলের নমুনা"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">ই-পাসপোর্টের আবেদনের ব্যাপারে পুলিশি তদন্ত প্রতিবেদনের বিষয়ে আবেদনকারীর বক্তব্য দাখিলের নমুনা</div> </a> <a href="/pages/files" class="mofa-card-list-item" title="এমআরপি উত্তোলনের জন্য ক্ষমতা অর্পণপত্র"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">এমআরপি উত্তোলনের জন্য ক্ষমতা অর্পণপত্র</div> </a> <a href="/pages/files/6952663ca31054345f1029b1" class="mofa-card-list-item" title="পাসপোর্টের তথ্য সংশোধনের আবেদন দাখিলের নিয়ম"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">পাসপোর্টের তথ্য সংশোধনের আবেদন দাখিলের নিয়ম</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663da31054345f102aca%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/27d1582d790741979e995cb4e8d5a87b.jpg" alt="VISA" /> </div> <div class="mofa-card-title">VISA</div> </div> <div class="mofa-card-list"> <a href="/pages/files" class="mofa-card-list-item" title="Visa Type and Requirement"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Visa Type and Requirement</div> </a> <a href="/pages/files/not_found" class="mofa-card-list-item" title="Visa Application Checklist - Tourism"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Visa Application Checklist - Tourism</div> </a> <a href="/pages/files/69526638a31054345f1022db" class="mofa-card-list-item" title="Application procedure for NVR"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Application procedure for NVR</div> </a> <a href="/pages/files/69526641a31054345f102fdd" class="mofa-card-list-item" title="Visa Application Checklist - Business"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Visa Application Checklist - Business</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526639a31054345f10249c%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/0c6a251a8e9c43e6b40aa95e1d7e42e8.png" alt="Consular Service (Others)" /> </div> <div class="mofa-card-title">Consular Service (Others)</div> </div> <div class="mofa-card-list"> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663ea31054345f102c05%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/e1b69dd0a9bb4b13a99c9dacb30bd831.png" alt="Labour Welfare Wing" /> </div> <div class="mofa-card-title">Labour Welfare Wing</div> </div> <div class="mofa-card-list"> <a href="/pages/files/6952663da31054345f102a42" class="mofa-card-list-item" title="WEWB-Membership-Form"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">WEWB-Membership-Form</div> </a> <a href="/pages/files/69526638a31054345f10229f" class="mofa-card-list-item" title="Benefits of Probashi Card"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Benefits of Probashi Card</div> </a> <a href="/pages/files/69526641a31054345f102f9b" class="mofa-card-list-item" title="Required documents to collect NOC for repatriation of Dead Body to Bangladesh"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Required documents to collect NOC for repatriation of Dead Body to Bangladesh</div> </a> <a href="/pages/files/69526642a31054345f103037" class="mofa-card-list-item" title="Travel Permit Form (Out Pass)"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Travel Permit Form (Out Pass)</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%226952663ea31054345f102cf2%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/0c2ac3db93a34b56a77ec44498d6e8e5.png" alt="Press &amp; Information" /> </div> <div class="mofa-card-title">Press &amp; Information</div> </div> <div class="mofa-card-list"> <a href="/pages/files/6952663fa31054345f102e89" class="mofa-card-list-item" title="‘International Migrants Day’ and ‘National Expatriates’ Day-2024′ observed in Dubai"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">‘International Migrants Day’ and ‘National Expatriates’ Day-2024′ observed in Dubai</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526638a31054345f102203%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> <div class="mofa-dynamic-service-box-card"> <div class="mofa-card-content"> <div class="mofa-card-header"> <div class="mofa-card-icon-container"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/f22454b66cb94cbab8ac1831f60db969.png" alt="Gallery" /> </div> <div class="mofa-card-title">Gallery</div> </div> <div class="mofa-card-list"> <a href="/pages/photo-galleries" class="mofa-card-list-item" title="International Migrants Day"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">International Migrants Day</div> </a> <a href="/pages/photo-galleries" class="mofa-card-list-item" title="International Mother Language Day"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">International Mother Language Day</div> </a> <a href="/pages/photo-galleries" class="mofa-card-list-item" title="Victory Day 2024"> <div class="mofa-card-bullet"></div> <div class="mofa-card-list-text">Victory Day 2024</div> </a> </div> <a href="/pages/service-box-items?filters=%7B%22service_box_category%22%3A%2269526639a31054345f102526%22%7D" class="mofa-card-learn-more"> <div class="mofa-card-learn-more-text">Learn More →</div> </a> </div> </div> </div> </div> </section> 
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                 <div data-widget_type="widget" data-widget_name="MofaLatestNewsWidget" class="container-fluid mofa-latest-news-widget" style="--widget-theme-color: #098a5b; --widget-bg-color: #f6fdf6; --widget-title-color: #202b5d; --widget-subtitle-color: #62718d; --widget-button-bg: #098a5b; --widget-check-color: #098a5b; --widget-arrow-color: #283a8a; --widget-date-color: #919191;"> <div class="mofa-news-header"> <div class="mofa-news-title-section"> <h2 class="mofa-news-title">Latest News</h2> </div> <a href="pages/news" class="mofa-all-news-btn"> All News </a> </div> <div class="mofa-news-separator"></div> <ul class="mofa-news-list"> </ul> </div> 
+            </div>
+        </div>
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <div data-widget_type="widget" data-widget_name="ThumbnailPhotoGalleryVersionTwoWidget" class="widget thumbnail-photo-gallery-v2-widget"> <div class="thumbnail-photo-gallery-v2-header-section"> <h3 class="photo-gallery-title">PHOTO GALLERY</h3> <p class="photo-gallery-subtitle">Highlights of embassy programs, meetings, and ceremonies</p> </div> <div class="gallery-container "> <div class="gallery-column"> <div class="gallery-image-wrapper" style="height: 405px"> <a href="/pages/photo-galleries/international-migrants-day-66ab91-6952663a35ce18e1c05a8a19" title="International Migrants Day"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/63cc3b61135d40159d5745f84aff9f8a.jpg" alt="International Migrants Day" /> </a> </div> </div> <div class="gallery-column"> <div class="gallery-image-wrapper" style="height: 546px"> <a href="/pages/photo-galleries/international-mother-language-day-54f233-6952663d35ce18e1c05a8b9f" title="International Mother Language Day"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/d7fa39b8760640b891836176528443ec.jpg" alt="International Mother Language Day" /> </a> </div> </div> <div class="gallery-column"> <div class="gallery-image-wrapper" style="height: 265px"> <a href="/pages/photo-galleries/victory-day-2024-3a0ea0-6952664135ce18e1c05a8da2" title="Victory Day 2024"> <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bdoot-dubaicg-mofa/2024/12/e0cbb00a15fb4323b79aac732393b54e.jpg" alt="Victory Day 2024" /> </a> </div> </div> </div> <div class="thumbnail-photo-gallery-v2-btn-container"> <a href="pages/photo-galleries" class="thumbnail-photo-gallery-v2-all-btn"> All Photo Gallery </a> </div> </div> 
+            </div>
+        </div>
+        
+    <div data-widget_type="widget" data-widget_name="AccessibilityWidget" class="widget accessibility-widget"> <div class="accessibility-float fab-icon" id="accessibility-btn" title="Accessibility"> <i class="ph ph-wheelchair-motion"></i> </div> <div class="accessibility-card" id="accessibility-card"> <h3 id="accessibility-card-title" tabindex="0">Accessibility</h3> <div id="accessibility-close" tabindex="0" title="Close"> <icon class="ph ph-x-circle"></icon> </div> <div class="item"> <button id="font-increase">Font Increase</button> <button id="font-decrease">Font Decrease</button> </div> <div class="item"> <input type="checkbox" id="monochrome" title="Monochrome" /> <label for="monochrome">Monochrome</label> </div> <div class="item"> <input type="checkbox" id="inverted" title="Invert" /> <label for="inverted">Invert</label> </div> <div class="item"> <input type="checkbox" id="bigCursor" title="Big Cursor" /> <label for="bigCursor">Big Cursor</label> </div> <div class="item"> <input type="checkbox" id="highlightLinks" title="Highlight Links" /> <label for="highlightLinks">Highlight Links</label> </div> <div class="item"> <input type="checkbox" id="highlightHeadings" title="Highlight Headings" /> <label for="highlightHeadings">Highlight Headings</label> </div> <div class="item"> <input type="checkbox" id="readingGuideCheckbox" title="Reading Guide" /> <label for="readingGuideCheckbox">Reading Guide</label> </div> <div class="item"> <button class="accessibility-reset">Reset</button> </div> <a class='screen-reader' target="_blank" rel="noreferrer" href="https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe">Download Screen Reader</a> </div> <!-- TODO: [naeemur] add some more tab navigate options --> <div class="tab-menu"> <a href="#main-content" class="skip-link">Skip to content</a> <a href="#accessibility-card-title" class="skip-link menu-href">Go to accessibility menu</a> </div> </div> 
+<div data-widget_type="widget" data-widget_name="GoToTopWidget" class="widget go-to-top-widget"> <div class="go-to-top-float x-fab-icon" id="go-to-top-btn" title="Go to top"> <i class="ph ph-caret-up"></i> </div> </div> 
+</div></div>
+  </div>
+  <div class="footer"><div data-section_type="footer" class="droppable">
+         <footer data-widget_type="widget" data-widget_name="NewLandingFooterWidget" class="widget new-landing-footer-widget"> <div class="footer-decoration"> <div class="decorative-left"> <img src="/site-assets/images/left-footer.png" alt="Decorative Left"> </div> <div class="decorative-right"> <img src="/site-assets/images/right-footer.png" alt="Decorative Right"> </div> </div> <div class="footer-disclaimer"> All information published on this website is regularly updated by the respective government office. The office makes every effort to ensure that the information is accurate, correct, and reliable. </div> <div class="footer-content container"> <div class="footer-left"> <ul class="footer-links"> </ul> <div class="copyright"> <p> &copy; 2026 All Rights Reserved to bangladesh.gov.bd(National Portal) </p> <p class="last-updated"> Site last updated: Monday, October 26, 2026 at 18:05:15 </p> </div> </div> <div class="footer-right"> <div class="planning-section"> <p class="planning-title">Planning and implementation</p> <div class="planning-logos"> <img src="/site-assets/images/a2iset.png" alt="a2i"> </div> </div> </div> </div> </footer> 
+        
+    </div></div>
+</div>
+<script>const _window=window; const _document=document;</script>
+<script src="/site-assets/js/index.js"></script>
+<script src="/widget-assets/js/SimpleHeaderWidget"></script>
+<script src="/widget-assets/js/LanguageSwitcherWidget"></script>
+<script src="/widget-assets/js/MenusSliderWidget"></script>
+<script src="/widget-assets/js/MenusWidget"></script>
+<script src="/widget-assets/js/EmbassyBannerSliderImageWidget"></script>
+<script src="/widget-assets/js/BannerSliderImageWidget"></script>
+<script src="/widget-assets/js/MofaDynamicServiceBoxWidget"></script>
+<script src="/widget-assets/js/MofaLatestNewsWidget"></script>
+<script src="/widget-assets/js/ThumbnailPhotoGalleryVersionTwoWidget"></script>
+<script src="/widget-assets/js/AccessibilityWidget"></script>
+<script src="/widget-assets/js/GoToTopWidget"></script>
+<script src="/widget-assets/js/NewLandingFooterWidget"></script>
+
+<script src="/assets/js/index.js"></script>
+</body>
+</html>

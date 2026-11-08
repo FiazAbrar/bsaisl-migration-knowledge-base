@@ -1,0 +1,244 @@
+PAGE META: article:published_time: 03/17/2025 15:55:50 | article:modified_time: 12/14/2025 21:34:39
+
+(text rebuilt from the saved .html; fetch.py cleaner had dropped form content)
+
+New classification of private companies comes into force | News...
+Skip to content
+Logo
+Gold star Logo
+-->
+-->
+Home
+-->
+Services
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14198" data-megaMenu="false">
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14207" data-megaMenu="--Select--">
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14460" data-megaMenu="--Select--">
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Awareness Workshops
+Media Center
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14195" data-megaMenu="--Select--">
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14200" data-megaMenu="false">
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14494" data-megaMenu="false">
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby="MoreMenus_14205" data-megaMenu="false">
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Search
+Search
+-->
+-->
+Login
+Login
+Accessibility
+Accessibility
+AR
+Switch language
+Logo
+Gold star Logo
+Menu
+search in site
+Close
+-->
+-->
+Home
+Services
+show submenu for
+"Services"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14198">
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for
+"Laws & Regulations"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14207">
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for
+"Guidance"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14460">
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Awareness Workshops
+Media Center
+show submenu for
+"Media Center"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14195">
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for
+"Digital Participation"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14200">
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for
+"Open Data"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14494">
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for
+"About Us"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby="MobileMoreMenus_14205">
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Accessibility
+AR
+Close
+English
+عربي
+Other languages
+The list of “Other languages” listed above use Google Translate to create an automated
+translation of content for the purpose of display.
+Accuracy of automated content translation is not guaranteed.
+Home
+Media Center
+News
+News Details
+News Details
+New classification of private companies comes into force
+Wednesday, 01 June 2022
+The Ministry of Human Resources and Emiratisation (MOHRE) has announced that the new classification system for private sector establishments has come into force today [June 1, 2022], according to Cabinet Resolution No. 18 of 2022 and its pertinent ministerial resolutions.
+The new system addresses the needs of various business sectors, protects the rights of employees and skilled personnel working within the sector, and enhances opportunities for entrepreneurship, startups and small and medium-sized enterprises (SMEs). It also motivates companies and establishments through a comprehensive framework that empowers workers and rewards companies simultaneously.
+The system classifies companies into three categories: first, second, and third. Companies are classified in line with their adherence to laws and decisions that regulate the business environment, protection of labour rights, commitment to the wage protection system, along with their alignment with UAE’s policy on promoting cultural and demographic diversity.
+The first category will cover companies and establishments that commit to the laws and decisions that regulate the labour market, while fulfilling all required general obligations. They must also meet at least one of the following criteria: raising their Emiratisation rate at least three times above the target, cooperating with the ‘Nafis’ program to train at least 500 citizens annually, being a venture owned by a young citizen according to approved standards, or being one of the training and employment centres that support implementing the Workforce Planning Policy by promoting cultural diversity in the UAE.
+The second category will encompass companies that commit to general standards, laws and regulations, and to the UAE’s policy on promoting cultural and demographic diversity, or operating within the targeted sectors and activities determined by the Council of Ministers based on the Minister of Human Resources and Emiratisation’s proposal. Companies that do not meet any of these criteria, while complying with the laws and the UAE’s policy on promoting cultural and demographic diversity, will be automatically classified in the second category.
+The third category will comprise companies that fail to observe the policies, laws and decisions on regulating the labour market or standards that protect labour rights, or companies that do not commit to the policy on promoting cultural and demographic diversity in the UAE’s labour market.
+Enhancing sustainable growth and the business environment’s attractiveness
+H.E. Khalil Khoury, Undersecretary for Human Resources at MOHRE
+, said: "The new system for classifying private sector establishments and companies will enhance their sustainable growth and protect investors’ and employees’ rights. It also reinforces the leadership of the UAE’s business environment, which has defined many indices related to competitiveness, ease of starting businesses, and the diversified economy’s innovation in terms of infrastructure and organisational structure. The new system sets clear and transparent standards, while motivating companies committed to enriching the UAE’s business environment and enhancing its attractiveness for local and global talents and skills."
+Khoury explained that the new classification system adopts simplified but smart mechanisms that directly monitor companies’ and establishments’ initiatives towards empowering skills and talents. The system automatically raises their classification based on the success of these initiatives in developing and improving the business environment. Raising these companies' classification would, in turn, benefit them in terms of government tenders, or receiving special incentives and exemptions, he clarified.
+Khoury reiterated that the implementation of the new system stems from a strategic and resolute vision adopted by MOHRE. This vision is built on the following key pillars: empowering national skills and talents working in the private sector, bolstering the UAE’s labour market that attracts global talents and skills, guaranteeing and protecting employee and worker rights, unlocking new prospects for sustainable growth, and promoting investments in the UAE’s booming private sector.
+Incentivising discounts for first and second category companies
+The application of the new classification system is accompanied by discounts on service fees related to work permits and transfer fees for the private sector establishments. Fees will not exceed AED 250 for first category companies over two years, while second category companies will be charged AED 1200 over two years. The employment of UAE and GCC nationals will be exempt from these fees.
+Third category
+Third category companies will not benefit from fee discounts, and the fees for issuing or renewing work permits will amount to AED 3450 over two years. According to the new system, companies will be classified in the third category if they violate Federal Law No. 33 of 2021 regarding the organisation of labour relations and its executive regulations, resolutions that regulate the labour market, or standards for protecting labour rights. Failure to commit to the policy on promoting cultural and demographic diversity in the UAE’s labour market, or being involved in other violations specified by Ministerial Resolution No. 209 of 2022 will also lead to that classification.
+These violations include a final verdict that confirms the company committed human trafficking, contracted or recruited a worker without a work permit, or submitted incorrect data, documents or information to MOHRE. It also encompasses employers’ breach of labour rights, such as lack of commitment to workers' wages, housing and safety standards, fake Emiratisation, or other serious violations.
+Comprehensive business environment
+Implementing the new system is aimed at boosting the workers' rights, developing entrepreneurship, attracting investments, and reinforcing transparency. It also advances the legislative structure regulating various business sectors, and boosts the UAE labour market’s competitiveness and attractiveness for global talents and skills.
+The new system raises Emiratisation rates through a wide-ranging incentive package for compliant companies. Incentives include reducing MOHRE fees by up to 80% for private sector companies that attain major achievements in hiring and training citizens, and are thus qualified to classification in the first category.
+The new system fits into the objectives set by the ‘Projects of the 50’ framework launched by the UAE government to trigger a new leap in developing and mapping sustainable economic and social growth over the next fifty years. All this initiatives position the UAE as a global hub for successful talent, companies and investments, and is aimed at building diversified, sustainable, and highly-resilient economy that achieves the goals of the UAE Centennial 2071.
+Recent News
+-->
+12 December 2025
+MoHRE launches ‘Train the Trainer’ programme with Child Safety Department to upskill nannies at Domestic Worker Recruitment Offices
+-->
+-->
+12 December 2025
+Thursday, 1 January 2026 announced as a paid public holiday for the private sector
+-->
+-->
+11 December 2025
+AI redefines the customer experience at MoHRE Call Centre
+-->
+Did you find this content useful?
+You can help us improve by providing your feedback about your experience.
+Thank you for your feedback.
+Yes
+No
+Have you used our services at our service center or digitally recently?
+Give us your feedback
+Close
+Give us your feedback
+Thank you for contacting MOHRE. Reference number : {refCode}
+An error occurred during saving your comment. Please check entered info and submit again.
+Submit
+About this website
+Privacy Policy
+Disclaimer
+Copyright
+Terms & Conditions
+Information and support
+Contact Us
+Sitemap
+Accessibility
+Help
+Quicklinks
+Careers
+Archive
+Procurement
+Definitions
+Cybersecurity
+Job Descriptions
+Economic Activities list
+171
+04-7771777
+Call Center:
+600 590000
+©
+MOHRE. All rights reserved.
+Last updated on
+Follow us on:
+facebook
+instagram
+LinkedIn
+X
+YouTube
+Customer pulse
+Search

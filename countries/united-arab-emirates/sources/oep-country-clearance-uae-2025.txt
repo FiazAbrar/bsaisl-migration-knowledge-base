@@ -1,0 +1,203 @@
+OEP (BMET) Country Clearance report, country_id 188 United Arab Emirates (UAE), approval_date_from 2025-01-01 approval_date_to 2025-12-31, all skills; JSON endpoint https://www.oep.gov.bd/reports/country-clearance (fetched 2026-11-08)
+totalEmployee: 13750
+recordsTotal: 200
+United Arab Emirates (UAE) | Cleaner | total_employee 1691
+United Arab Emirates (UAE) | Driver | total_employee 1252
+United Arab Emirates (UAE) | Accountant | total_employee 1157
+United Arab Emirates (UAE) | Helper | total_employee 1051
+United Arab Emirates (UAE) | Manager | total_employee 986
+United Arab Emirates (UAE) | Marketing Executive | total_employee 831
+United Arab Emirates (UAE) | Sales Manager | total_employee 800
+United Arab Emirates (UAE) | Mason | total_employee 556
+United Arab Emirates (UAE) | Aircraft cleaner | total_employee 432
+United Arab Emirates (UAE) | Steel Fixer | total_employee 383
+United Arab Emirates (UAE) | Shuttering Carpenter | total_employee 370
+United Arab Emirates (UAE) | Marketing Manager | total_employee 277
+United Arab Emirates (UAE) | Electrician | total_employee 270
+United Arab Emirates (UAE) | CleanerFemale | total_employee 228
+United Arab Emirates (UAE) | Labour | total_employee 225
+United Arab Emirates (UAE) | Building / Construction Helper | total_employee 200
+United Arab Emirates (UAE) | Welding | total_employee 180
+United Arab Emirates (UAE) | Technician | total_employee 159
+United Arab Emirates (UAE) | House Keeper | total_employee 156
+United Arab Emirates (UAE) | Plumber | total_employee 156
+United Arab Emirates (UAE) | General Assistant | total_employee 151
+United Arab Emirates (UAE) | Assistant Manager | total_employee 144
+United Arab Emirates (UAE) | Pipe Fitter | total_employee 126
+United Arab Emirates (UAE) | Project Manager | total_employee 108
+United Arab Emirates (UAE) | Account Manager | total_employee 100
+United Arab Emirates (UAE) | Cook | total_employee 69
+United Arab Emirates (UAE) | Security Guard | total_employee 67
+United Arab Emirates (UAE) | Metro Cleaner | total_employee 66
+United Arab Emirates (UAE) | Auditor | total_employee 60
+United Arab Emirates (UAE) | Purchaser | total_employee 60
+United Arab Emirates (UAE) | Agriculture Labour | total_employee 57
+United Arab Emirates (UAE) | Aircraft Loader | total_employee 56
+United Arab Emirates (UAE) | Insulator | total_employee 54
+United Arab Emirates (UAE) | House Worker | total_employee 46
+United Arab Emirates (UAE) | Painter | total_employee 44
+United Arab Emirates (UAE) | Baby Sitter | total_employee 44
+United Arab Emirates (UAE) | Rigger | total_employee 44
+United Arab Emirates (UAE) | Civil Engineer | total_employee 38
+United Arab Emirates (UAE) | Duct Man | total_employee 37
+United Arab Emirates (UAE) | Scaffolder Grade-A | total_employee 37
+United Arab Emirates (UAE) | Asst. Human Resource | total_employee 33
+United Arab Emirates (UAE) | Purchage Assistant | total_employee 32
+United Arab Emirates (UAE) | Assistant Electrician | total_employee 31
+United Arab Emirates (UAE) | Office Boy | total_employee 31
+United Arab Emirates (UAE) | Worker | total_employee 31
+United Arab Emirates (UAE) | Blaster Painter | total_employee 30
+United Arab Emirates (UAE) | Assistant Plumber | total_employee 30
+United Arab Emirates (UAE) | Director | total_employee 29
+United Arab Emirates (UAE) | House Keeper Female | total_employee 28
+United Arab Emirates (UAE) | Fabricator | total_employee 27
+United Arab Emirates (UAE) | Scaffolding Labour | total_employee 27
+United Arab Emirates (UAE) | Engineer | total_employee 27
+United Arab Emirates (UAE) | Loaders | total_employee 26
+United Arab Emirates (UAE) | Warehouse Worker | total_employee 26
+United Arab Emirates (UAE) | Electrical Engineer | total_employee 23
+United Arab Emirates (UAE) | A Casual Worker | total_employee 23
+United Arab Emirates (UAE) | A/C and Refrigerator Electrician | total_employee 22
+United Arab Emirates (UAE) | Deckhand | total_employee 20
+United Arab Emirates (UAE) | Porter | total_employee 19
+United Arab Emirates (UAE) | Salesman | total_employee 18
+United Arab Emirates (UAE) | Financial Analyzer | total_employee 15
+United Arab Emirates (UAE) | Store and yarn manager | total_employee 15
+United Arab Emirates (UAE) | Chef/Cook | total_employee 15
+United Arab Emirates (UAE) | Farmer | total_employee 14
+United Arab Emirates (UAE) | Housekeeping Attendant | total_employee 13
+United Arab Emirates (UAE) | Mechanical Fitter | total_employee 13
+United Arab Emirates (UAE) | Project Engineer | total_employee 13
+United Arab Emirates (UAE) | Messenger | total_employee 12
+United Arab Emirates (UAE) | Carpenter | total_employee 12
+United Arab Emirates (UAE) | Markers | total_employee 11
+United Arab Emirates (UAE) | Financial Controller | total_employee 11
+United Arab Emirates (UAE) | Fitter | total_employee 10
+United Arab Emirates (UAE) | Marketing Specialist | total_employee 10
+United Arab Emirates (UAE) | Loader | total_employee 9
+United Arab Emirates (UAE) | Private Service | total_employee 9
+United Arab Emirates (UAE) | Waiter | total_employee 9
+United Arab Emirates (UAE) | Telecommunication Engineer | total_employee 8
+United Arab Emirates (UAE) | HSE Manager | total_employee 8
+United Arab Emirates (UAE) | Computer Engineer | total_employee 8
+United Arab Emirates (UAE) | Cleaning Labour (Female) | total_employee 8
+United Arab Emirates (UAE) | Compactor/Roller Driver | total_employee 6
+United Arab Emirates (UAE) | Agent | total_employee 6
+United Arab Emirates (UAE) | Shepherd | total_employee 6
+United Arab Emirates (UAE) | ANY JOB | total_employee 6
+United Arab Emirates (UAE) | A Builder | total_employee 6
+United Arab Emirates (UAE) | Constrcution Manager | total_employee 6
+United Arab Emirates (UAE) | Mason (Mixer) | total_employee 5
+United Arab Emirates (UAE) | Chartered Accountant | total_employee 4
+United Arab Emirates (UAE) | Production Manager | total_employee 4
+United Arab Emirates (UAE) | Quality Controller | total_employee 4
+United Arab Emirates (UAE) | Assistant Ductman | total_employee 4
+United Arab Emirates (UAE) | Asst. Auto Electrician | total_employee 4
+United Arab Emirates (UAE) | Administrative Officer | total_employee 4
+United Arab Emirates (UAE) | AC Technicain | total_employee 4
+United Arab Emirates (UAE) | Servant | total_employee 4
+United Arab Emirates (UAE) | Auto Labour | total_employee 4
+United Arab Emirates (UAE) | AC Engineer | total_employee 4
+United Arab Emirates (UAE) | Housemaid | total_employee 4
+United Arab Emirates (UAE) | Supervisor | total_employee 3
+United Arab Emirates (UAE) | Hairdresser | total_employee 3
+United Arab Emirates (UAE) | Consultant | total_employee 3
+United Arab Emirates (UAE) | Market Metal | total_employee 3
+United Arab Emirates (UAE) | Administrator | total_employee 3
+United Arab Emirates (UAE) | Operation Manager | total_employee 3
+United Arab Emirates (UAE) | Arabic Cook | total_employee 3
+United Arab Emirates (UAE) | Sales Representative | total_employee 3
+United Arab Emirates (UAE) | Store Keeper | total_employee 3
+United Arab Emirates (UAE) | Labour Controller | total_employee 3
+United Arab Emirates (UAE) | Partner | total_employee 3
+United Arab Emirates (UAE) | Heavy Vehicle Driver | total_employee 3
+United Arab Emirates (UAE) | Electrical and Electronic Engineer | total_employee 3
+United Arab Emirates (UAE) | Guard | total_employee 2
+United Arab Emirates (UAE) | Foreman | total_employee 2
+United Arab Emirates (UAE) | Commercial and Performance Engineer | total_employee 2
+United Arab Emirates (UAE) | Mechanical Engineer | total_employee 2
+United Arab Emirates (UAE) | Agriculture Engineer | total_employee 2
+United Arab Emirates (UAE) | Business | total_employee 2
+United Arab Emirates (UAE) | 1st Commis(Kitchen) | total_employee 2
+United Arab Emirates (UAE) | Private Driver | total_employee 2
+United Arab Emirates (UAE) | Chartered Accountants | total_employee 2
+United Arab Emirates (UAE) | Mechanics | total_employee 2
+United Arab Emirates (UAE) | Assistant Store Keeper | total_employee 2
+United Arab Emirates (UAE) | Bread Maker | total_employee 2
+United Arab Emirates (UAE) | Garment Production Manager | total_employee 2
+United Arab Emirates (UAE) | Mechanical Technician (Workshop) | total_employee 1
+United Arab Emirates (UAE) | Civil Engineering Technician | total_employee 1
+United Arab Emirates (UAE) | Planning Engineer | total_employee 1
+United Arab Emirates (UAE) | Islamic Preacher | total_employee 1
+United Arab Emirates (UAE) | Artist | total_employee 1
+United Arab Emirates (UAE) | Architect Engineer | total_employee 1
+United Arab Emirates (UAE) | Cleaner High Level | total_employee 1
+United Arab Emirates (UAE) | Vehicle Clearer | total_employee 1
+United Arab Emirates (UAE) | AUTOLUBRICATAR AND OILIER | total_employee 1
+United Arab Emirates (UAE) | Electrical Main. Labor | total_employee 1
+United Arab Emirates (UAE) | Manicurist | total_employee 1
+United Arab Emirates (UAE) | Tank Truck Transport | total_employee 1
+United Arab Emirates (UAE) | Information Technology Engineer | total_employee 1
+United Arab Emirates (UAE) | Electrical Foreman | total_employee 1
+United Arab Emirates (UAE) | House Cook | total_employee 1
+United Arab Emirates (UAE) | Archives Clerk | total_employee 1
+United Arab Emirates (UAE) | CEO | total_employee 1
+United Arab Emirates (UAE) | Workshop Worker | total_employee 1
+United Arab Emirates (UAE) | Project Coordinator | total_employee 1
+United Arab Emirates (UAE) | Building Labour | total_employee 1
+United Arab Emirates (UAE) | Backer | total_employee 1
+United Arab Emirates (UAE) | Computer Technician/Hardware Engineer | total_employee 1
+United Arab Emirates (UAE) | Delivery Bike Ryders | total_employee 1
+United Arab Emirates (UAE) | Flight Attendant | total_employee 1
+United Arab Emirates (UAE) | Car Driver | total_employee 1
+United Arab Emirates (UAE) | Electrical And Electronics Engineer | total_employee 1
+United Arab Emirates (UAE) | Metallurgical Engineering | total_employee 1
+United Arab Emirates (UAE) | Management Information System | total_employee 1
+United Arab Emirates (UAE) | Tourist Guide | total_employee 1
+United Arab Emirates (UAE) | Pharmacist | total_employee 1
+United Arab Emirates (UAE) | Translator | total_employee 1
+United Arab Emirates (UAE) | Air Hostess/Stewards | total_employee 1
+United Arab Emirates (UAE) | Expert | total_employee 1
+United Arab Emirates (UAE) | LD Driver | total_employee 1
+United Arab Emirates (UAE) | Carpet Labour | total_employee 1
+United Arab Emirates (UAE) | Quality Supervisor | total_employee 1
+United Arab Emirates (UAE) | Fuel Attendant | total_employee 1
+United Arab Emirates (UAE) | Clerk | total_employee 1
+United Arab Emirates (UAE) | Wheel Loader Driver | total_employee 1
+United Arab Emirates (UAE) | Gas Pump Attendant | total_employee 1
+United Arab Emirates (UAE) | Designer | total_employee 1
+United Arab Emirates (UAE) | Receptionist | total_employee 1
+United Arab Emirates (UAE) | Cook Helper | total_employee 1
+United Arab Emirates (UAE) | Catering / Supplier | total_employee 1
+United Arab Emirates (UAE) | Computer Programmer/Software Developer | total_employee 1
+United Arab Emirates (UAE) | Products Qualify Control Engineer | total_employee 1
+United Arab Emirates (UAE) | Marable Mason | total_employee 1
+United Arab Emirates (UAE) | Loading Unloading Labour | total_employee 1
+United Arab Emirates (UAE) | Auto Electrician | total_employee 1
+United Arab Emirates (UAE) | Air Conditioning Engineer | total_employee 1
+United Arab Emirates (UAE) | Boiler and elctrician | total_employee 1
+United Arab Emirates (UAE) | Automotive Mechanic | total_employee 1
+United Arab Emirates (UAE) | Mechanical Enginner Water | total_employee 1
+United Arab Emirates (UAE) | Farm Worker | total_employee 1
+United Arab Emirates (UAE) | Dry Cleaner | total_employee 1
+United Arab Emirates (UAE) | Computer Operator | total_employee 1
+United Arab Emirates (UAE) | Cook/Chef | total_employee 1
+United Arab Emirates (UAE) | General Labour | total_employee 1
+United Arab Emirates (UAE) | Estimator | total_employee 1
+United Arab Emirates (UAE) | Restaurant Labour | total_employee 1
+United Arab Emirates (UAE) | Secretary | total_employee 1
+United Arab Emirates (UAE) | Operations executted with simple linear machines | total_employee 1
+United Arab Emirates (UAE) | Machine Labour | total_employee 1
+United Arab Emirates (UAE) | Sandblaster | total_employee 1
+United Arab Emirates (UAE) | Office Assistant | total_employee 1
+United Arab Emirates (UAE) | Office and Platform Cleaner (Female) | total_employee 1
+United Arab Emirates (UAE) | House Manager | total_employee 1
+United Arab Emirates (UAE) | Barbar | total_employee 1
+United Arab Emirates (UAE) | Contract Assistant | total_employee 1
+United Arab Emirates (UAE) | 3G/4G SMAW | total_employee 1
+United Arab Emirates (UAE) | Chemical Engineer | total_employee 1
+United Arab Emirates (UAE) | Electrical Technician | total_employee 1
+United Arab Emirates (UAE) | Maintenance Technician | total_employee 1
+United Arab Emirates (UAE) | Communication Network Technision | total_employee 1
+United Arab Emirates (UAE) | Executive | total_employee 1
+United Arab Emirates (UAE) | Executive Chef | total_employee 1

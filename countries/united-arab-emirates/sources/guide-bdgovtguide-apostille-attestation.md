@@ -1,0 +1,160 @@
+# Apostille Bangladesh: এপোস্টিল ও সার্টিফিকেট সত্যায়ন অনলাইনে (MOFA e-Apostille) – mofa.gov.bd
+
+By [ BDGovtGuide Editorial Team ](https://bdgovtguide.com/author/bdgovtguide-editorial-team/ "View all posts by BDGovtGuide Editorial Team") / আপডেট: November 4, 2026
+
+**Apostille Bangladesh** is now fully online. The **পররাষ্ট্র মন্ত্রণালয়** (Ministry of Foreign Affairs, MOFA) issues an **e-Apostille** for your certificates through the myGov platform: you create a myGov account, pick the right **সার্টিফিকেট সত্যায়ন** service, upload a scan, and download the e-Apostille with a QR code. MOFA’s citizen charter sets the time limit at 5 working days, and most document types are free. মাইগভ পোর্টাল সম্পর্কে বিস্তারিত জানতে দেখুন — [myGov BD Login ও Application Check গাইড](https://bdgovtguide.com/mygov-bd-login-application-check-ekpay/)।
+
+Bangladesh joined the Hague Apostille Convention on 29 July 2024. Since then, the old paper-based **MOFA attestation** (stamp at the consular counter, then embassy legalization) has been replaced by one digital apostille for most documents. Of the 127 countries that have signed the convention, 114 have accepted Bangladesh’s accession. This guide covers the steps, the “chain” of offices that must check your document first, fees, verification, and common reasons for rejection.
+
+**সরাসরি লিংক:** [e-Apostille Bangladesh Directory — mofa-servicedirectory.apostille.mygov.bd](https://mofa-servicedirectory.apostille.mygov.bd/)\
+**আবেদন (myGov):** [পররাষ্ট্র মন্ত্রণালয়ের myGov সেবাসমূহ](https://www.mygov.bd/services?category=sector&data=service-sector-67) \| **স্ট্যাটাস:** [mygov.bd/application-latest-status](https://www.mygov.bd/application-latest-status)\
+**অফিসিয়াল ওয়েবসাইট:** [mofa.gov.bd](https://mofa.gov.bd/) \| **ইমেইল:** [\[email protected\]](/cdn-cgi/l/email-protection)
+
+*সর্বশেষ যাচাই: ২১ অক্টোবর ২০২৬ \| সূত্র: mofa.gov.bd (পররাষ্ট্র মন্ত্রণালয়ের সেবা প্রদান প্রতিশ্রুতি) ও MOFA-র e-Apostille Directory \| এটি একটি তথ্যভিত্তিক গাইড — সরকারি সাইট নয়।*
+
+## এপোস্টিল কী? (What is an Apostille in Bangladesh)
+
+An **এপোস্টিল** or **অ্যাপোস্টিল (Apostille)** is a certificate that confirms a public document from one country is genuine, so another convention country accepts it without a separate embassy legalization. In Bangladesh the competent authority is the Ministry of Foreign Affairs. The e-Apostille is a digital certificate. It carries a unique verification number, a QR code and the issuing officer’s signature, which has its own hash value.
+
+You need it when you send a Bangladeshi document abroad, for example an SSC/HSC or university certificate for admission, a birth or marriage certificate for a visa or immigration case, a police clearance for a job, or a power of attorney for property work.
+
+## অনলাইনে এপোস্টিল আবেদনের নিয়ম (How to Apply for e-Apostille Step by Step)
+
+### ধাপ ১: আগে মূল কর্তৃপক্ষ ও নোটারি থেকে যাচাই করুন
+
+MOFA does not check your document from scratch. Each document must first be verified by its issuing authority and, for most personal or legal papers, notarized. MOFA’s directory calls this the **chain of legalization**. For example, SSC/HSC certificates go Education Board → Ministry of Education → MOFA, and a birth certificate goes Notary → Law Ministry → MOFA. The full table is below.
+
+![e-Apostille Bangladesh directory home page - mofa.gov.bd](https://bdgovtguide.com/wp-content/uploads/2026/10/apostille-bangladesh-1.png)
+
+MOFA-র e-Apostille Directory — এখান থেকে আবেদন, স্ট্যাটাস ও Apostille ID দিয়ে যাচাই করা যায়।
+
+### ধাপ ২: myGov অ্যাকাউন্ট খুলুন
+
+According to the citizen charter, the first step is to register on **mygov.bd** and create an account. The Directory’s “Register Now” button opens the myGov registration page. One myGov account works for every MOFA attestation service.
+
+### ধাপ ৩: সনদের ধরন অনুযায়ী সঠিক সেবা বেছে নিন
+
+Choose the option that matches your document. For example, for an unmarried certificate pick “অবিবাহিত সনদ সত্যায়নের জন্য আবেদন”. MOFA lists separate myGov services for education certificates, family and marriage papers, divorce, birth/death, police clearance, bank statements, power of attorney, translated documents, medical certificates, GD, driving licence, passport copy, Hajj/Umrah papers and more.
+
+### ধাপ ৪: ফরম পূরণ করে স্ক্যান কপি আপলোড করুন
+
+Fill in the form and upload the document in **JPEG, JPG or PNG** format. MOFA asks applicants to upload only the relevant certificate and to avoid unnecessary attachments. If a fee applies (education certificates), pay it online during the application.
+
+### ধাপ ৫: SMS পেলে e-Apostille ডাউনলোড করুন
+
+When MOFA issues the Apostille, you get an SMS on your mobile number. Log in to your myGov account and download the e-Apostille. You can also follow the latest status of the application from the myGov dashboard.
+
+## কোন সনদ কোথা থেকে আগে যাচাই করতে হবে (Chain of Attestation Table)
+
+This table comes from the “Document Certification Authorities” page of MOFA’s e-Apostille Directory. Every document ends with MOFA.
+
+| সনদ / Document | প্রথম যাচাই (Issuing / first verifier) | নিয়ন্ত্রক মন্ত্রণালয় |
+|----|----|----|
+| SSC/HSC/Equivalent | Education Board | Ministry of Education |
+| Honours/Masters/PhD, MBBS/BDS | University | Ministry of Education |
+| Class 1–5 / Class 6–10 | School + Upazila Primary / Secondary Education Officer | Primary & Mass Education / Education |
+| GCE/Edexcel (British Council) | British Council | Ministry of Education |
+| Birth certificate / Passport copy / Marriage certificate (Nikahnama) | Notary | Law Ministry |
+| Death certificate | Civil Surgeon + Notary | Law Ministry |
+| Divorce certificate | Executive/Judicial Magistrate + Notary | Law Ministry |
+| Heirship / Guardianship / Succession | First Class Magistrate + Notary | Law Ministry |
+| Translated documents (Arabic) | Notary + Islamic Foundation | Law Ministry |
+| Business certificates | Notary + Chamber of Commerce | Ministry of Commerce |
+| Bank statements | Notary | Ministry of Finance |
+| Asset / income statements | Notary | NBR |
+| Driving licence | Notary + BRTA | Law Ministry |
+| Medical certificate | Civil Surgeon / Health Ministry + Notary | Law Ministry |
+| General Diary (GD) | Notary | Ministry of Home Affairs |
+
+![Apostille document certification authorities table - mofa.gov.bd](https://bdgovtguide.com/wp-content/uploads/2026/10/apostille-bangladesh-2.png)
+
+Document Certification Authorities — কোন সনদ প্রথমে কোন অফিস যাচাই করবে, তার অফিসিয়াল তালিকা।
+
+For a birth certificate from Cox’s Bazar district, attestation by the Deputy Commissioner of Cox’s Bazar is mandatory. A birth or death certificate issued by a government or private hospital must first be attested by the Civil Surgeon or the Health Ministry. If you still need to verify the birth record itself, see our [জন্ম নিবন্ধন যাচাই গাইড](https://bdgovtguide.com/birth-certificate-check-online/).
+
+## সত্যায়ন ফি ও সময় (MOFA Attestation Fee and Time)
+
+| সেবা | ফি | সময়সীমা |
+|----|----|----|
+| বিদেশগামী শিক্ষার্থীদের বোর্ড/বিশ্ববিদ্যালয়/স্কুল/কলেজ/মাদ্রাসার সনদ | প্রতি পৃষ্ঠা ২০০ টাকা (অনলাইনে পরিশোধ) | ৫ কর্মদিবস |
+| অবিবাহিত, জন্ম, মৃত্যু, বিবাহ, তালাক, পারিবারিক, পাসপোর্ট, NID, চারিত্রিক, মেডিকেল, ব্যাংক, ড্রাইভিং লাইসেন্স ইত্যাদি | বিনামূল্যে | ৫ কর্মদিবস |
+| বিদেশ থেকে পাঠানো আমমোক্তারনামা (কনস্যুলার কাউন্টারে) | বিনামূল্যে | ৩ কর্মদিবস |
+| নোট ভারবাল (Note Verbale) | বিনামূল্যে | ২ কর্মদিবস |
+
+Source: পররাষ্ট্র মন্ত্রণালয়ের সেবা প্রদান প্রতিশ্রুতি (Citizen’s Charter) on mofa.gov.bd. Notary, Education Board or other first-step offices may charge their own fees. Those are not MOFA fees.
+
+## e-Apostille যাচাই করবেন যেভাবে (How to Verify an Apostille)
+
+MOFA’s verification guide gives three ways to check an e-Apostille:
+
+- **QR code:** scan the QR code on the e-Apostille. It shows whether MOFA authenticated it and which documents were covered.
+- **Online check:** enter the Apostille ID or application number in the search box on the Directory home page.
+- **Signature check:** to verify the officer’s calligraphic signature and hash value, email [\[email protected\]](/cdn-cgi/l/email-protection) with a detailed explanation. The “Signatory” page lists the signing officers.
+
+![e-Apostille verification guide QR code online check - mofa.gov.bd](https://bdgovtguide.com/wp-content/uploads/2026/10/apostille-bangladesh-3.png)
+
+e-Apostille Verification Guide — QR কোড, অনলাইন চেক ও স্বাক্ষর যাচাইয়ের তিনটি উপায়।
+
+## কোন দেশে বাংলাদেশের এপোস্টিল চলে (Countries that Accept Bangladesh Apostille)
+
+MOFA lists 114 countries that accept Bangladeshi apostilled documents. Among them are Australia, Canada, China, India, Italy, Japan, Saudi Arabia, Oman, Bahrain, Pakistan, the Republic of Korea, Singapore, Spain, Sweden, Türkiye, the United Kingdom and the United States. Several countries popular with Bangladeshis are **not** on the list, including the UAE, Qatar, Kuwait, Malaysia, France, Germany and the Netherlands. MOFA notes that France, Germany and the Netherlands raised concerns. If your destination is not on the list, ask that country’s embassy which legalization it needs before you apply.
+
+## আবেদন বাতিল বা দেরি হলে করণীয় (Troubleshooting)
+
+- **Wrong service chosen:** each document type has its own myGov service. If you applied under the wrong one, submit a new application in the correct category.
+- **Chain step missing:** MOFA rejects a document if it has not been notarized or verified first by the issuing office, such as the Education Board, Civil Surgeon or BRTA. Check the table above.
+- **Unclear scan:** upload a clear colour scan in JPG/PNG. Don’t add unrelated files.
+- **myGov not loading:** the Directory lists apostille.mofa.gov.bd/a/ as an alternative link, but only for national emergencies. Otherwise, wait and try again.
+- **No response after 5 working days:** contact the officer named in the charter ([\[email protected\]](/cdn-cgi/l/email-protection), 024152830). If that fails, file a complaint on [grs.gov.bd](http://www.grs.gov.bd/). The grievance officer is the Director (Consular & MRP), 029514770, and the time limit is 30 working days.
+
+## ডিগ্রি সার্টিফিকেট ও পুলিশ ক্লিয়ারেন্স অ্যাপোস্টিল (Degree Certificate and PCC Attestation)
+
+**Degree certificate attestation** (Honours, Masters, PhD, MBBS/BDS) follows the chain University → Ministry of Education → MOFA. The document required for MOFA attestation is a scan of the original or provisional certificate issued by the board or university. The fee is 200 taka per page. MOFA’s Directory also has a video on the apostillization of Bachelor and Master degrees.
+
+For a **PCC apostille**, use the separate myGov service “পুলিশ ক্লিয়ারেন্স সত্যায়নের জন্য আবেদন” from MOFA’s list. Get the police clearance certificate first. Our [PCC আবেদন গাইড](https://bdgovtguide.com/pcc-apply-online/) shows how.
+
+## বিদেশ থেকে পাঠানো আমমোক্তারনামা সত্যায়ন (Power of Attorney from Abroad)
+
+A **আমমোক্তারনামা** (power of attorney) signed abroad must first be attested by the Bangladesh mission in that country. It must then reach MOFA’s consular counter within 2 months. Submit two sets (one original, one photocopy) between 9:30 am and 1:00 pm. Bring copies of the giver’s and receiver’s passport, NID, birth certificate or NVR, plus the bearer’s authorization letter and NID. MOFA does not accept papers missing the passport number, current address, witness signatures or photos. The power of attorney is attested after the mission confirms it. The service is free and takes 3 working days.
+
+## নোট ভারবাল ও পরিচিতি পত্র (Note Verbale and LOI)
+
+Government officials who travel abroad on official orders can request a **Note Verbale** or a Letter of Introduction. First register at [nvloi.mofa.gov.bd](https://nvloi.mofa.gov.bd/). Then submit the printout with the attested government order and passport copy to Room M-216, Main Building, between 9:30 am and 12:00 noon. A Note Verbale is usually ready the next working day between 4 and 5 pm.
+
+## সাধারণ জিজ্ঞাসা (FAQ)
+
+### E apostille BD কি?
+
+It is the digital Apostille certificate that Bangladesh’s Ministry of Foreign Affairs issues through myGov. It has a QR code and a verification number, and the 114 countries on MOFA’s list accept it without embassy legalization.
+
+### Apostille কিভাবে করতে হয়?
+
+Get the document verified by its issuing authority and notarized where needed. Then open a myGov account, choose the matching attestation service, upload a JPG/PNG scan, pay any fee and download the e-Apostille after the SMS arrives.
+
+### পররাষ্ট্র মন্ত্রণালয় থেকে সনদপত্র সত্যায়িত করার নিয়ম কী?
+
+MOFA’s citizen charter now handles almost every certificate through the online myGov process instead of the counter. Only a few services, such as a power of attorney sent from abroad, Note Verbale and LOI, still use the consular counter.
+
+### MOFA attestation fee কত?
+
+Educational certificates for students going abroad cost 200 taka per page, paid online. Most other certificates in the citizen charter are free.
+
+### বিবাহ সনদ বা নিকাহনামা সত্যায়নের আবেদন কিভাবে চেক করব?
+
+Log in to your myGov account and open the dashboard, or use mygov.bd/application-latest-status. After issue, you can check the e-Apostille by Apostille ID on the e-Apostille Directory.
+
+### সত্যায়নে কত দিন লাগে?
+
+The charter sets 5 working days for e-Apostille services and 3 working days for a power of attorney sent from abroad.
+
+## উপসংহার
+
+To get an **Apostille in Bangladesh**, finish the chain step at the issuing office first, then apply on myGov under the correct service. Education certificates cost 200 taka per page and most other documents are free. Before you send the file abroad, check the QR code and make sure the destination country is on MOFA’s list of 114.
+
+সম্পর্কিত গাইড: [BTEB সার্টিফিকেট সত্যায়ন (বিদেশগামী)](https://bdgovtguide.com/bteb-certificate-attestation-abroad/), [পুলিশ ক্লিয়ারেন্স অনলাইন আবেদন](https://bdgovtguide.com/pcc-apply-online/) এবং [বিএমইটি রেজিস্ট্রেশন অনলাইন](https://bdgovtguide.com/bmet-registration-online/)।
+
+সর্বশেষ সরকারি সেবার আপডেট মিস করবেন না
+
+নতুন গাইড, ফি পরিবর্তন ও গুরুত্বপূর্ণ বিজ্ঞপ্তি সরাসরি পেতে আমাদের WhatsApp চ্যানেলে জয়েন করুন — সম্পূর্ণ বিনামূল্যে।
+
+[চ্যানেলে জয়েন করুন](https://whatsapp.com/channel/0029VbCvgKa0bIdebMKWzD47)

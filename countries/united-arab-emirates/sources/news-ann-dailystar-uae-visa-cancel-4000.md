@@ -1,0 +1,51 @@
+Over the past 50 years, the UAE country has become one of the major destinations for Bangladeshi expatriates, with more than 1.2 million Bangladeshis now living there. PHOTO: THE DAILY STAR
+
+September 15, 2026
+
+**DHAKA** – The United Arab Emirates has cancelled the visas of over 4,000 Bangladeshis, leaving many stranded at home after returning on leave, with no explanation as to why they can no longer go back to their jobs and businesses.
+
+The government has taken up the matter with the UAE through diplomatic channels and sought a review of the cancellations, while affected Bangladeshis have given the authorities until September 22 to find a solution.
+
+For many returnees, the visa cancellations came without warning.
+
+Abul Kalam Azad, who had been living in the UAE for the last 27 years, returned to Bangladesh on April 7. On July 24, he received an email informing him that his visa had been cancelled.
+
+“No reason was mentioned in the email,” Azad told The Daily Star.
+
+He was among around 350 affected Bangladeshis who attended a programme at the National Press Club on September 7 to press for a solution.
+
+Other affected expatriate Bangladeshis have similar accounts, saying visa cancellation notices began arriving from July through emails or mobile messages, while some sponsors in the UAE also received notifications.
+
+One returnee said he had no criminal case or other legal issue in the UAE and could not understand why his visa had been cancelled.
+
+“I have two businesses there and my wife is there. I was supposed to be in Dubai today, but now we are going from door to door looking for a solution,” he told The Daily Star.
+
+He said being unable to return to Dubai would leave him financially devastated.
+
+Bangladesh began sending workers to the UAE in 1976. Over the past 50 years, the Middle Eastern country has become one of the major destinations for Bangladeshi expatriates, with more than 12 lakh Bangladeshis now living there.
+
+On September 7, State Minister for Expatriates’ Welfare and Overseas Employment Nurul Haque Nur said in a Facebook post that his ministry and the foreign ministry were aware that the visas of 4,000 Bangladeshis had been cancelled.
+
+“Many of them have businesses and shops there. Efforts are underway to resolve the matter diplomatically,” he wrote.
+
+The number of affected Bangladeshis later rose to 4,800, according to ministry sources.
+
+At the September 7 Press Club programme, affected expatriate Bangladeshis also placed a five-point demand, including their rehabilitation and financial assistance until the crisis is resolved.
+
+They demanded Tk 15,000-20,000 in monthly assistance for affected migrants and their families. If returning to the UAE is not possible, they also sought government initiatives to arrange employment in other suitable countries.
+
+They further called for high-level diplomatic engagement with the UAE to allow affected expatriates to return to their previous workplaces.
+
+MS Shekil Chowdhury, chairperson of the Centre for Non Resident Bangladeshi, said the UAE had stepped up scrutiny amid the prevailing conflict situation in the Middle East.
+
+He said procedural lapses, including failure to renew visas on time or problems with documents, were being examined more closely. Social media activities and anything that could be considered a security concern were also drawing greater scrutiny, he told The Daily Star.
+
+Shekil, however, noted that he was not saying these issues were directly responsible for the cancellations.
+
+He said the wider geopolitical situation appeared to be influencing the scrutiny and that the government needed to increase engagement with the UAE.
+
+- [Conflict/War](https://asianews.network/tag/conflict-war/)
+- [Economic Affairs](https://asianews.network/tag/economic-affairs/)
+- [Geopolitics](https://asianews.network/tag/geopolitics/)
+- [Policy Matters](https://asianews.network/tag/policy-matters/)
+- [Region](https://asianews.network/tag/region/)

@@ -1,0 +1,99 @@
+1.  [Bangladesh](/bangladesh)
+
+## Overseas worker departures fall by nearly 33% despite govt initiatives
+
+[Staff Correspondent](/sources/S34Cc9jupKQ8iQ8s)
+
+[](https://facebook.com/sharer/sharer.php?u=http://en.bonikbarta.com/bangladesh/llGjwrMywgTPAiZY/&quote=Overseas%20worker%20departures%20fall%20by%20nearly%2033%25%20despite%20govt%20initiatives)
+
+[](https://x.com/intent/tweet/?text=Overseas%20worker%20departures%20fall%20by%20nearly%2033%25%20despite%20govt%20initiatives&hashtags=&via=&related=&url=http://en.bonikbarta.com/bangladesh/llGjwrMywgTPAiZY/)
+
+[](whatsapp://send?text=Overseas%20worker%20departures%20fall%20by%20nearly%2033%25%20despite%20govt%20initiatives%20http://en.bonikbarta.com/bangladesh/llGjwrMywgTPAiZY/)
+
+[](https://telegram.me/share/url?text=Overseas%20worker%20departures%20fall%20by%20nearly%2033%25%20despite%20govt%20initiatives&url=http://en.bonikbarta.com/bangladesh/llGjwrMywgTPAiZY/)
+
+[](https://www.linkedin.com/sharing/share-offsite/?url=http://en.bonikbarta.com/bangladesh/llGjwrMywgTPAiZY/)
+
+[](/cdn-cgi/l/email-protection#99a6eaecfbf3fcfaeda4d6effcebeafcf8eabcaba9eef6ebf2fcebbcaba9fdfce9f8ebedecebfceabcaba9fff8f5f5bcaba9fbe0bcaba9f7fcf8ebf5e0bcaba9aaaabcabacbcaba9fdfceae9f0edfcbcaba9fef6efedbcaba9f0f7f0edf0f8edf0effceabff8f4e9a2fbf6fde0a4cdf1fcbcaba9f6f7fef6f0f7febcaba9d4f0fdfdf5fcbcaba9dcf8eaedbcaba9eef8ebbcaba9f1f8eabcaba9faebfcf8edfcfdbcaba9ecf7fafcebedf8f0f7ede0bcaba9f0f7bcaba9dbf8f7fef5f8fdfceaf1bcdcabbca1a9bca0a0eabcaba9f5f8ebfefceaedbcaba9f5f8fbf6ecebbcaba9f4f8ebf2fcedeab5bcaba9fdfcfaf5f0f7f0f7febcaba9edf1fcbcaba9f7ecf4fbfcebbcaba9f6ffbcaba9eef6ebf2fcebeabcaba9edebf8effcf5f5f0f7febcaba9edf6bcaba9caf8ecfdf0bcaba9d8ebf8fbf0f8b5bcaba9c8f8edf8ebbcaba9f8f7fdbcaba9d2eceef8f0edb7bcaba9f1edede9a3b6b6fcf7b7fbf6f7f0f2fbf8ebedf8b7faf6f4b6fbf8f7fef5f8fdfceaf1b6f5f5def3eeebd4e0eefecdc9d8f0c3c0b6)
+
+The ongoing Middle East war has created uncertainty in Bangladesh’s largest labour markets, declining the number of workers travelling to Saudi Arabia, Qatar and Kuwait.
+
+The government has taken a series of initiatives to reopen the labour markets of Malaysia and the United Arab Emirates, which have remained closed to Bangladeshi workers for a long time. But no effective progress has been made yet. The ongoing Middle East war has created uncertainty in Bangladesh’s largest labour markets, declining the number of workers travelling to Saudi Arabia, Qatar and Kuwait.
+
+The former interim government had said that hundreds of thousands of workers would go to Japan, but there are no signs that such plans are being realised either. In the first nine months of this year (January 1 to September 29), the number of workers travelling abroad fell by nearly 33 percent compared with the same period last year.
+
+The current government has set a target of sending 10 million workers abroad over the next five years. Data from the Bureau of Manpower Employment and Training (BMET) show that 838,894 workers travelled to various countries for employment in the roughly nine-month period from January 1 to September 29, 2025, but the figure fell to 563,693 during the same period this year, meaning 275,201 fewer workers travelled abroad for employment in the first nine months of this year than in the same period last year.
+
+Between 2013 and 2024, six major labour markets, including Malaysia, the United Arab Emirates, Libya, Bahrain and Oman, closed to Bangladeshi workers. Bangladesh currently ranks first among the source countries for foreign workers in Malaysia, accounting for around 37 percent of the country’s total foreign workforce. But the labour market closed on May 31, 2024. The interim government subsequently failed to reopen it despite its efforts.
+
+After taking office, the current government has taken various initiatives to reopen Malaysia’s labour market. In a press release issued on August 28, the Ministry of Expatriates’ Welfare and Overseas Employment said, “The door to employment for Bangladeshis in Malaysia is set to open soon.” But the ministry has yet to make any official announcement on reopening the Malaysian labour market. There is still no clear roadmap for when the market will effectively reopen.
+
+Earlier this month, Malaysian government spokesperson and Communications Minister Fahmi Fadzil said a report that Malaysia would take 200,000 workers from Bangladesh over the next six months did not represent the official position of the Malaysian government. He made the remarks at a press conference following a cabinet meeting in Putrajaya, Malaysia.
+
+Meanwhile, under the country’s five-year national development plan, the “Thirteenth Malaysia Plan 2026–30”, Malaysia has set a target of reducing the share of foreign workers to 10 percent by 2030 and 5 percent by 2035. Against this backdrop, stakeholders believe there is uncertainty over how many Bangladeshi workers will actually have opportunities to travel to Malaysia even if the country’s labour market reopens.
+
+Former interim government Chief Adviser Muhammad Yunus said during a visit to Japan on May 25 last year that Japanese authorities and businesses would take at least 100,000 workers from Bangladesh over the next five years. But only 1,564 workers travelled to Japan in 2025, while 1,608 did so in the first nine months of this year.
+
+Since conflict broke out in the Middle East in February, demand for workers in Gulf countries such as Saudi Arabia, Kuwait and Qatar has fallen sharply. The demand is reportedly down from 5 percent to almost zero, which has had a major impact on the departure of Bangladeshi workers as well.
+
+The significant decline in the number of workers travelling to Saudi Arabia, Bangladesh’s largest labour market, has negatively affected overall overseas worker departures. In the first nine months of 2025, 568,083 workers travelled to Saudi Arabia, while the figure fell to 307,887 during the same period this year, reflecting a decline of 45.80 percent year on year.
+
+The United Arab Emirates was once Bangladesh’s second-largest labour market. But following protests by Bangladeshi expatriates during the July uprising in 2024, the UAE stopped issuing visit and employment visas to Bangladeshis. Without prior notice, the UAE recently cancelled the visas of several thousand Bangladeshi expatriates who had returned home on leave, amounting to 4,800 Bangladeshis, according to the Ministry of Expatriates’ Welfare and Overseas Employment.
+
+More than 400,000 Bangladeshi workers are currently employed in Qatar. In 2020, Qatar stopped recruiting Bangladeshi workers altogether over allegations that they lacked the necessary skills. The recruitment resumed several months later. In the first nine months of last year, 80,570 workers travelled to the country, while the number fell to 49,779 during the same period this year. At one point, more than 100,000 Bangladeshi workers travelled to Qatar in a single year.
+
+In May this year, Qatar’s Labour Minister Dr Ali bin Saeed bin Samikh Al Marri expressed particular interest in recruiting workers from Bangladesh in several sectors during a meeting with Expatriates’ Welfare and Overseas Employment Minister Ariful Haque Choudhury, but worker departures to Qatar have not changed significantly in the four months since the meeting.
+
+After an initial ban in 2007, Kuwait began recruiting Bangladeshi workers on a limited scale in 2014. But its interior ministry imposed a fresh blanket ban in March 2018 over visa fraud and irregularities, citing allegations of unauthorised “visa trading”, forged documents, and various security-related complications. Kuwait’s labour market was consequently closed to general workers and domestic workers and has not subsequently reopened to general workers except under special administrative permissions and in certain sectors.
+
+Worker departures to Kuwait have also declined this year. While around 34,000 workers travelled to the country in the first nine months of last year, the figure fell to 22,000 this year.
+
+Shakirul Islam, chairperson of the Ovibashi Karmi Unnayan Program (OKUP), believes there is a lack of effective and realistic measures to implement the government’s announcement of increasing overseas employment.
+
+He told *Bonik Barta*, “After various confusing statements from different levels of the government regarding Malaysia’s labour market, the opportunity to reopen the market has suffered another setback following the country’s official rejection. The ongoing geopolitical instability in the Middle East and the lack of effective bilateral negotiations have stalled the recruitment of new workers in major markets, including the United Arab Emirates.”
+
+The OKUP chairperson also said: “Our main weakness is that we’ve yet to develop a strong migration-focused diplomacy. Bangladesh’s recruitment process, which is plagued by irregularities, and the high cost of migration are also pushing workers into ‘debt bondage’, which has had a negative impact internationally.”
+
+The impact of the shrinking labour markets has also begun to become visible in the country’s remittance inflows. For four consecutive months since May this year, monthly remittance inflows have failed to reach the \$3 billion mark. The country, in contrast, received more than \$3 billion in remittances every month for six consecutive months from December 2025. Remittance growth has slowed considerably this month. Remittance growth stood at 15.76 percent this year, according to Bangladesh Bank, while the growth rate fell to just 2.7 percent in September.
+
+Migration experts say the country’s employment situation will face challenges as closed labour markets remain unopened and the number of workers sent abroad fails to grow. Since taking office, the current government has yet to achieve significant success in reopening the labour markets that remain closed.
+
+There are currently 104 technical training centres (TTCs) under the Bureau of Manpower Employment and Training (BMET) across the country to train skilled workers for overseas employment. Work is also underway to establish another 50 centres at the upazila level, but most trainees at these training centres have no plans to go abroad.
+
+Although there is a strategic framework for the labour market, a political or election manifesto alone is not enough, said Asif Munir. He believes annual targets should instead be set after reviewing market realities in consultation with BMET and migration experts.
+
+The migration expert told *Bonik Barta*, “Rather than limiting the process to institutional formalities, the quality of domestic training needs to be improved in line with demand in international markets. Skilled government officials and strong migration diplomacy must be actively utilised to open up labour markets in new countries and sectors.”
+
+The government has set a target of sending 10 million workers abroad over the next five years. But only 55–60 percent of the capacity required to meet the target is currently available in the country, said Md Saiful Haque Chowdhury, additional secretary at the Ministry of Expatriates’ Welfare and Overseas Employment.
+
+Speaking at a national consultation titled “The National Consultation on Skills, Migration and Mobility: The Way Forward for Bangladesh” on Monday, he said, “The government has set a target of sending 10 million workers abroad over the next five years. But if we continue to operate at the current pace, Bangladesh has 55–60 percent of the capacity required to achieve this target. So stronger initiatives are needed to increase the capacity to send workers abroad.”
+
+State Minister Md Nurul Haque said the Ministry of Expatriates’ Welfare and Overseas Employment is working to ensure not only employment opportunities but also appropriate wages, safety and dignity for Bangladeshi workers abroad.
+
+He told *Bonik Barta*, “As part of the government’s five-year special plan, a target has been set to provide overseas employment to 10 million working-age people over the next five years. The current annual number of worker departures, at 800,000 to 1 million, will be gradually increased. Steps have been taken to identify demand in different countries and equip workers with proficiency in the languages and technical skills required in their destination countries.”
+
+The state minister added, “The government has already started working to reopen closed labour markets. Memoranda of understanding (MoUs) have also been proposed to several countries. Despite emerging a crisis around the Middle East at present, we hope the overseas labour market will recover soon.”
+
+Editor and Publisher: Dewan Hanif Mahmud
+
+BDBL Building (Level 17), 12 Kazi Nazrul Islam Avenue, Kawran Bazar, Dhaka-1215
+
+News & Editorial Department: Phone: 55014301-06, E-mail: [\[email protected\]](/cdn-cgi/l/email-protection), [\[email protected\]](/cdn-cgi/l/email-protection) (Online)
+
+Advertising and Circulation Department: Phone: 55014308-14, Fax: 55014315
+
+### আরও
+
+[](/)
+
+Editor & Publisher: Dewan Hanif Mahmud
+
+BDBL Building (Level 17), 12 Kazi Nazrul Islam Avenue, Karwan Bazar, Dhaka-1215
+
+News & Editorial Department: Phone: 55014301-06, E-mail: [\[email protected\]](/cdn-cgi/l/email-protection), [\[email protected\]](/cdn-cgi/l/email-protection) (Online)
+
+Advertising and Circulation Department: Phone: 55014308-14, Fax: 55014315
+
+[![](/icons/facebook.svg)](https://www.facebook.com/dailybonikbarta "Facebook") [![](/icons/youtube.svg)](https://www.youtube.com/@DailyBonikbartanews/ "YouTube") [![](/icons/x.svg)](https://x.com/bonikbartadaily/ "X") [![](/icons/instagram.svg)](https://www.instagram.com/dailybonikbarta/ "Instagram")
+
+Copyright © 2011-2026 Bonik Barta

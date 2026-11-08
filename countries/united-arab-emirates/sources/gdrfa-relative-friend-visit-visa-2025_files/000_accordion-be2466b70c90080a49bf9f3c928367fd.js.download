@@ -1,0 +1,49 @@
+document.addEventListener("DOMContentLoaded", function () {
+  const headers = document.querySelectorAll(".accordion-item .header");
+  const toggleButton = document.querySelector(".accordion-control-button");
+  const toggleButtonText = toggleButton
+    ? toggleButton.querySelector(".gdrfa-button-text") || toggleButton
+    : null;
+  let allExpanded = false;
+
+  headers.forEach((header) => {
+    header.addEventListener("click", () => {
+      const item = header.parentElement;
+      const content = header.nextElementSibling;
+      if (!content) return;
+
+      const isVisible = content.style.display === "block";
+      content.style.display = isVisible ? "none" : "block";
+      item.classList.toggle("expanded", !isVisible);
+    });
+  });
+
+  if (toggleButton) {
+    toggleButton.addEventListener("click", () => {
+      const items = document.querySelectorAll(".accordion-item");
+      const contents = document.querySelectorAll(".accordion-content");
+      allExpanded = !allExpanded;
+
+      contents.forEach((content) => {
+        content.style.display = allExpanded ? "block" : "none";
+      });
+
+      items.forEach((item) => {
+        item.classList.toggle("expanded", allExpanded);
+      });
+
+      toggleButton.setAttribute("aria-expanded", allExpanded ? "true" : "false");
+
+      const html = document.documentElement;
+      const lang = (html.getAttribute('lang') || 'en').toLowerCase();
+      const isAr = lang.startsWith('ar') || html.getAttribute('dir') === 'rtl';
+
+      const T = {
+        expand: () => isAr ? 'فتح الكل' : 'Expand All',
+        collapse: () => isAr ? 'غلق الكل ' : 'Collapse All',
+      };
+
+      toggleButtonText.textContent = allExpanded ? T.collapse() : T.expand();
+    });
+  }
+});

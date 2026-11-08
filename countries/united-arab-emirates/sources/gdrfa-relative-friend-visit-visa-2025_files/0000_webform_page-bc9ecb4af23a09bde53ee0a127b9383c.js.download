@@ -1,0 +1,88 @@
+(function (Drupal, once) {
+  'use strict';
+
+  Drupal.behaviors.gdrfaWebformPage = {
+    attach: function (context) {
+      once('gdrfa-webform-page', '.gdrfa-webform-page__layout', context).forEach(function (layout) {
+        var sidebar = layout.querySelector('.gdrfa-webform-page__sidebar');
+        var closeButton = layout.querySelector('.gdrfa-webform-page__close-info');
+        var showButton = layout.querySelector('.gdrfa-webform-page__show-info');
+        var mobileLayout = window.matchMedia('(max-width:1024px)');
+
+        if (!sidebar || !closeButton || !showButton) {
+          return;
+        }
+
+        closeButton.addEventListener('click', function () {
+          if (!mobileLayout.matches) {
+            return;
+          }
+
+          sidebar.hidden = true;
+          showButton.hidden = false;
+          showButton.focus();
+        });
+
+        showButton.addEventListener('click', function () {
+          sidebar.hidden = false;
+          showButton.hidden = true;
+          closeButton.focus();
+        });
+
+        mobileLayout.addEventListener('change', function (event) {
+          if (!event.matches) {
+            sidebar.hidden = false;
+            showButton.hidden = true;
+          }
+        });
+      });
+    }
+  };
+
+  /**
+   * Collapse a flex column when Webform conditions hide its form element.
+   */
+  Drupal.behaviors.gdrfaWebformFlexStates = {
+    attach: function (context) {
+      once('gdrfa-webform-flex-states', '.webform-flexbox', context).forEach(function (flexbox) {
+        var syncColumns = function () {
+          flexbox.querySelectorAll(':scope > .webform-flex').forEach(function (column) {
+            var container = column.querySelector(':scope > .webform-flex--container');
+
+            if (!container) {
+              return;
+            }
+
+            var elements = Array.prototype.filter.call(container.children, function (element) {
+              return element.matches('.js-form-item, .js-form-wrapper, .js-webform-states-hidden');
+            });
+            var allElementsHidden = elements.length > 0 && elements.every(function (element) {
+              var inlineDisplay = element.style.display;
+
+              // Webform uses jQuery.show(), which writes display: block and
+              // overrides flex-based field layouts. Preserve flex when shown.
+              if (inlineDisplay === 'block') {
+                element.style.display = 'flex';
+                inlineDisplay = 'flex';
+              }
+
+              return element.hidden ||
+                inlineDisplay === 'none' ||
+                (element.classList.contains('js-webform-states-hidden') && !inlineDisplay);
+            });
+
+            column.hidden = allElementsHidden;
+          });
+        };
+
+        syncColumns();
+
+        new MutationObserver(syncColumns).observe(flexbox, {
+          attributes: true,
+          attributeFilter: ['class', 'style'],
+          subtree: true
+        });
+      });
+    }
+  };
+})(Drupal, once);

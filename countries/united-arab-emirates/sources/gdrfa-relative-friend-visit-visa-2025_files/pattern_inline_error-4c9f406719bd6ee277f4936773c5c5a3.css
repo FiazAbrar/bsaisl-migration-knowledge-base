@@ -1,0 +1,5 @@
+.webform-submission-form label[id$="-error"]
+{
+ font-weight: 600 !important;
+ border: none !important;
+}

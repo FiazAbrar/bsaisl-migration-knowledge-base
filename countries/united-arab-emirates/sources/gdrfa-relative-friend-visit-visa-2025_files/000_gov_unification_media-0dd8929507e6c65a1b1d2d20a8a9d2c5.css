@@ -1,0 +1,244 @@
+/* 2XL */
+@media (min-width: 1281px) {
+
+    .hide-xl {
+        display: none !important;
+    }
+
+    .visible-xl {
+        display: block !important;
+    }
+    #divMainMenu {
+        display: block !important;
+    }
+    
+     .gdrfa-container{
+        margin-inline:auto;
+    }
+}
+
+/* XL */
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+
+    .hide-xl {
+        display: none !important;
+    }
+
+    .visible-xl {
+        display: block !important;
+    }
+
+}
+
+@media (max-width: 1280px) {
+
+    #divMainMenu {
+        display: none !important;
+    }
+
+    .dnrd-accessibility-section-wrapper {
+        top: 160px;
+        width: unset;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        position: fixed;
+        overflow: auto;
+        height: auto;
+    }
+}
+
+/* LG */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    .hide-lg {
+        display: none !important;
+    }
+
+    .visible-lg {
+        display: block !important;
+    }
+    
+    .visible-flex-lg {
+        display: flex !important;
+    }
+    .card-container {
+        overflow-x: scroll;
+        white-space: normal;
+        padding-bottom: 10px;
+        justify-content: flex-start;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    #toTopBtn {
+        position: fixed;
+        right: 5px;
+        bottom: 100px;
+        display: none;
+    }
+
+}
+
+@media(min-width:769px) {
+   
+}
+
+/* LG LANDSCAPE*/
+@media (max-width: 1024px) and (orientation: landscape) {
+
+}
+
+/* MD */
+@media (min-width: 641px) and (max-width: 768px) {
+
+  
+    .hide-md {
+        display: none !important;
+    }
+
+    .visible-md {
+        display: block !important;
+    }
+    .visible-flex-md {
+        display: flex !important;
+    }
+
+    .card-container {
+        overflow-x: scroll;
+        white-space: normal;
+        padding-bottom: 10px;
+        justify-content: flex-start;
+    }
+
+    #widgetPos {
+        bottom: 0;
+        top:425px;
+        right:24px;
+    }
+
+
+
+}
+
+@media (max-width: 376px) {
+    [dir="rtl"] #widgetPos {
+        bottom: 0;
+        top: 440px;
+        right: 24px;
+    }
+}
+
+@media (max-width: 768px) {
+  
+}
+
+/* MD Landscape */
+@media (max-width: 768px) and (orientation: landscape) {
+ 
+
+}
+
+/* SM */
+@media (max-width: 640px) {
+	
+	 .gdrfa-container{
+        padding-inline: 16px;
+        margin-inline:unset;
+    }
+    
+    .card-container {
+        overflow-x: scroll;
+        white-space: normal;
+        padding-bottom: 10px;
+        justify-content: flex-start;
+    }
+
+    .card-container::-webkit-scrollbar {
+        display: none;
+        /* Hides scrollbar on WebKit browsers */
+    }
+
+    .hide-sm {
+        display: none !important;
+    }
+
+    .visible-sm {
+        display: block !important;
+    }
+
+    .visible-flex-sm {
+        display: flex !important;
+    }
+
+    #widgetPos {
+        bottom: 0;
+        top:225px;
+        right: 24px;
+    }
+
+    .dnrd-accessibility-section {
+        flex-direction: column;
+        padding: 32px;
+        border-radius: 0;
+        height: 100%;
+    }
+
+    .dnrd-accessibility-section__center-section {
+        margin: 12px 0;
+        padding: 12px 0;
+        border-left: 0;
+        border-right: 0;
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+    }
+
+    .dnrd-accessibility-section-wrapper {
+        width: unset;
+        left: 0;
+        right: 0;
+        top: 80px;
+        bottom: 0;
+        position: fixed;
+        overflow: auto;
+        height: auto;
+    }
+
+    [dir="rtl"] .dnrd-accessibility-section-wrapper {
+        right: 0;
+        left: 0;
+    }
+
+    .dnrd-accessibility-section {
+        flex-direction: column;
+        padding: 32px;
+        border-radius: 0;
+        height: 100%;
+    }
+
+
+}
+
+/* SM Landscape*/
+@media (max-width: 640px) and (orientation: landscape) {
+
+}
+
+
+@media (min-width: 640px) {
+
+
+}
+
+
+/* iPad stikybar */
+@media(max-width:992px){
+    .mobile-sticky-visible{
+        display:flex !important;
+    }
+        .mobile-sticky-hide{
+        display:none !important;
+    }
+}

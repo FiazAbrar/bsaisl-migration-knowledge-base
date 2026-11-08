@@ -1,0 +1,70 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const stars = document.querySelectorAll('.RatingStar');
+    const inputs = document.querySelectorAll('input[name="rating"]');
+    
+    // Remove old star styling
+    stars.forEach((star) => {
+        star.classList.remove('star-color');
+        const path = star.querySelector('path');
+        path.removeAttribute('fill');
+        path.style.setProperty('fill', 'var(--surface-surface-container-high, #EAE0E0)', 'important');
+    });
+    
+    stars.forEach((star, index) => {
+        star.addEventListener('click', function() {
+            const rating = this.getAttribute('for');
+            document.getElementById(rating).checked = true;
+            updateStars(rating);
+        });
+        
+        star.addEventListener('mouseenter', function() {
+            const rating = this.getAttribute('for');
+            highlightStars(rating);
+        });
+    });
+    
+    document.querySelector('.rating').addEventListener('mouseleave', function() {
+        const checkedInput = document.querySelector('input[name="rating"]:checked');
+        if (checkedInput) {
+            updateStars(checkedInput.value);
+        } else {
+            resetStars();
+        }
+    });
+    
+    function highlightStars(rating) {
+        stars.forEach((star) => {
+            const starValue = parseInt(star.getAttribute('for'));
+            const path = star.querySelector('path');
+            if (starValue <= rating) {
+                path.removeAttribute('fill');
+                path.style.setProperty('fill', '#FFD700', 'important');
+            } else {
+                path.removeAttribute('fill');
+                path.style.setProperty('fill', 'var(--surface-surface-container-high, #EAE0E0)', 'important');
+            }
+        });
+    }
+    
+    function updateStars(rating) {
+        stars.forEach((star) => {
+            const starValue = parseInt(star.getAttribute('for'));
+            const path = star.querySelector('path');
+            if (starValue <= rating) {
+                path.removeAttribute('fill');
+                path.style.setProperty('fill', '#FFD700', 'important');
+            } else {
+                path.removeAttribute('fill');
+                path.style.setProperty('fill', 'var(--surface-surface-container-high, #EAE0E0)', 'important');
+            }
+        });
+    }
+    
+    function resetStars() {
+        stars.forEach((star) => {
+            const path = star.querySelector('path');
+            path.removeAttribute('fill');
+            path.style.setProperty('fill', 'var(--surface-surface-container-high, #EAE0E0)', 'important');
+        });
+    }
+});

@@ -1,0 +1,262 @@
+﻿; jQuery.formHelpers || (function ($) {
+    $.formHelpers = {
+        // This helper creates object that could be send to WebServices. Since WebService uses JSON, we can use strongly typed
+        // arguments for the WebMethods. Please note that you have to use objects that are based on IC.Proxy classes. The name of
+        // proxy object property should be same as the name of the form element.
+        objectHelper: {
+            // create object based on controlSelector string and options
+            create: function (controlSelector, options) {
+                var obj = {};
+                var opt = $.extend({}, { namePrefix: '', removePrefix: true }, options);
+                // namePrefix could be used to make objects that contain array/object inside.
+                var elements = $(controlSelector);
+                if (opt.namePrefix.length > 0) elements = elements.filter('[name*=' + opt.namePrefix + ']');
+                elements.each(function () {
+                    var key = $(this).attr('name');
+                    if (typeof (key) == 'undefined' || $.trim(key).length == 0) return;
+
+                    var value,
+                        mul = $(this).attr('multiple'),
+                        dataType = $(this).attr('dataType'),
+                        i;
+                    if (typeof mul !== 'undefined' && mul !== false) {
+                        value = $(this).val();
+                        if (typeof (value) != 'undefined' && value && value.length > 0 && dataType == 'int') {
+                            for (i = 0; i < value.length; i++) {
+                                value[i] = parseInt(value[i], 10)
+                            }
+                        }
+                    } else {
+                        value = $(this).val();
+                        if (typeof (dataType) == 'undefined' || $.trim(dataType).length == 0 || dataType == 'string') {
+                        } else {
+                            if (dataType == 'int') {
+                                if ($.trim(value).length == 0) value = 0;
+                                else {
+                                    value = parseInt(value);
+                                }
+                            } else if (dataType == 'bool') {
+                                value = (value == true);
+                            }
+                        }
+                    }
+
+                    var keys = key.split('.');
+                    for (var i = 0; i < keys.length; i++) {
+                        var currentKey = opt.namePrefix.length > 0 && opt.removePrefix ? keys[i].replace(opt.namePrefix, '') : keys[i];
+                        keys[i] = currentKey;
+
+                        if (i == 0) {
+                            obj[currentKey] = (i == keys.length - 1) ? value : (obj[currentKey] ? obj[currentKey] : {});
+                        }
+                        else if (i == 1) {
+                            obj[keys[0]][currentKey] = (i == keys.length - 1) ? value : (obj[keys[0]][currentKey] ? obj[keys[0]][currentKey] : {});
+                        } else if (i == 2) {
+                            obj[keys[0]][keys[1]][currentKey] = (i == keys.length - 1) ? value : (obj[keys[0]][keys[1]][currentKey] ? obj[keys[0]][keys[1]][currentKey] : {});
+                        } else if (i == 3) {
+                            obj[keys[0]][keys[1]][keys[2]][currentKey] = (i == keys.length - 1) ? value : (obj[keys[0]][keys[1]][keys[2]][currentKey] ? obj[keys[0]][keys[1]][keys[2]][currentKey] : {});
+                        } else if (i == 4) {
+                            obj[keys[0]][keys[1]][keys[2]][keys[3]][currentKey] = (i == keys.length - 1) ? value : (obj[keys[0]][keys[1]][keys[2]][keys[3]][currentKey] ? obj[keys[0]][keys[1]][keys[2]][keys[3]][currentKey] : {});
+                        }
+
+                    }
+                });
+                return obj;
+            },
+            // Loads object and set values to the form elements
+            load: function (obj, controlSelector, options) {
+                var opt = $.extend({}, { callback: false, clearValidation: true, namePrefix: '', removePrefix: true }, options);
+                var elements = $(controlSelector);
+                if (opt.namePrefix.length > 0) elements = elements.filter('[name*=' + opt.namePrefix + ']');
+                elements.each(function () {
+                    if (!$(this).attr('data-excludemapping')) {
+                        var key = $(this).attr('name');
+                        //if (opt.namePrefix.length > 0 && opt.removePrefix) key = key.replace(opt.namePrefix, '');
+                        if (key) {
+                            var mul = $(this).attr('multiple');
+                            var i;
+
+                            var value = '';
+                            var keys = key.split('.');
+                            for (var i = 0; i < keys.length; i++) {
+                                var currentKey = opt.namePrefix.length > 0 && opt.removePrefix ? keys[i].replace(opt.namePrefix, '') : keys[i];
+                                keys[i] = currentKey;
+                            }
+
+                            if (keys.length == 1) {
+                                value = obj[keys[0]];
+                            }
+                            else if (keys.length == 2) {
+                                if (obj[keys[0]])
+                                    value = obj[keys[0]][currentKey];
+                            } else if (keys.length == 3) {
+                                if (obj[keys[0]] && obj[keys[0]][keys[1]])
+                                    value = obj[keys[0]][keys[1]][currentKey];
+                            } else if (keys.length == 4) {
+                                if (obj[keys[0]] && obj[keys[0]][keys[1]] && obj[keys[0]][keys[1]][keys[2]])
+                                    value = obj[keys[0]][keys[1]][keys[2]][currentKey];
+                            } else if (keys.length == 5) {
+                                if (obj[keys[0]] && obj[keys[0]][keys[1]] && obj[keys[0]][keys[1]][keys[2]] && obj[keys[0]][keys[1]][keys[2]][keys[3]])
+                                    value = obj[keys[0]][keys[1]][keys[2]][keys[3]][currentKey];
+                            }
+
+                            if (typeof mul !== 'undefined' && mul !== false) {
+                                if ($.isArray(value)) {
+                                    $(this).attr('initVal', value.join(','));
+                                    $(this).val(value);
+                                    $(this).change();
+                                } else {
+                                    $(this).attr('initVal', value);
+
+                                    $(this).val(value ? value : '');
+                                    $(this).change();
+                                }
+                            } else {
+                                if (typeof (value) != 'undefined') {
+                                    var dataType = $(this).attr('dataType');
+                                    if (dataType == 'bool') {
+                                        value = (value == true || value == "true") ? "1" : "0";
+                                    }
+                                    if (value == null) return;
+                                    $(this).attr('initVal', value);
+                                    $(this).val(value == undefined ? '' : value);
+                                    $(this).change();
+
+                                }
+                            }
+                        }
+                    }
+                });
+
+                if ($.isFunction(opt.callback)) {
+                    opt.callback(obj);
+                }
+
+                if (opt.clearValidation) {
+                    $.fi.form.validationHelper.clear(elements);
+                }
+            }
+        },
+        // Allows you to simply do form validation
+        validationHelper: {
+            // Global messages
+            validationMessage: [
+                { 'en-GB': 'This info is required.' },
+                { 'en-GB': 'Invalid data/format.' },
+                { 'en-GB': 'Invalid email address.' }
+            ],
+            // Error type determines which message should be used. usually the VALUE_NOT_PROVIDED will be ignored and the system
+            // will take the error message from the form element description instead.
+            errorTypes: {
+                VALUE_NOT_PROVIDED: 0,
+                INVALID_FORMAT: 1,
+                INVALID_EMAIL: 2
+            },
+            // Show message
+            showMessage: function (element, errorType) {
+                var div = element.parent();
+                var li = div.parent();
+                var vd = li.find('div.field-validation');
+                div.addClass('error');
+
+                var msg = '';
+                if (errorType == this.errorTypes.VALUE_NOT_PROVIDED) {
+                    msg = li.find('label small:first').text();
+                } else {
+                    msg = this.validationMessage[errorType][$.fi.languageCode];
+                }
+
+                vd.empty().append($('<span/>').html(msg));
+            },
+            // Hide message
+            hideMessage: function (element) {
+                var div = element.parent();
+                var li = div.parent();
+                var vd = li.find('div.field-validation');
+
+                vd.empty();
+                div.removeClass('error');
+            },
+            // Validate element
+            validate: function (element) {
+                var nodeName = element.get(0).nodeName.toLowerCase();
+                //console.log(nodeName);
+                var result = true;
+                if (element.parents('.hide-field').length > 0 || element.hasClass('not-required')) {
+                    result = true;
+                } else {
+                    var errorType = this.errorTypes.VALUE_NOT_PROVIDED,
+                        mul = element.attr('multiple'),
+                        value;
+                    if (typeof mul !== 'undefined' && mul !== false) {
+                        var val = element.val();
+                        result = val ? element.val().length > 0 : false;
+                    } else {
+                        value = element.val();
+                        if (typeof (value) == 'undefined' || $.trim(value).length == 0) {
+                            result = false;
+                        }
+                        if (element.attr('dataType') == 'int' && result) {
+                            try {
+                                var v = parseInt(value);
+                                // check for select
+                                if (element.get(0).tagName.toLowerCase() == 'select') {
+                                    result = v > -1;
+                                } else {
+                                    result = true;
+                                }
+                            } catch (er) {
+                                result = false;
+                                errorType = this.errorTypes.INVALID_FORMAT;
+                            }
+                        }
+                    }
+                }
+
+                if (result) {
+                    this.hideMessage(element);
+                } else {
+                    this.showMessage(element, errorType);
+                }
+
+                element.attr('isValid', result ? 1 : 0);
+            },
+            // Register items to be validated automatically while user filling the form
+            registerValidator: function (elements) {
+                var self = $.fi.form.validationHelper;
+                elements.filter('.required').each(function () {
+                    $(this).blur(function () {
+                        self.validate($(this));
+                    }).change(function () {
+                        self.validate($(this));
+                    }).removeAttr('isValid');
+                });
+            },
+            // Check validation result
+            checkValidationResult: function (elements) {
+                var result = true;
+                var self = this;
+                elements.filter('.required').each(function () {
+                    self.validate($(this));
+                    result = result && ($(this).attr('isValid') == true);
+                });
+                return result;
+            },
+            // Clear the validation result and messages
+            clear: function (elements) {
+                var self = $.fi.form.validationHelper;
+                elements.filter('.required').removeAttr('isValid');
+                elements.filter('.required').each(function () {
+                    self.hideMessage($(this));
+                });
+            },
+            // Remove validation from the elements
+            remove: function (elements) {
+                elements.filter('.required').each(function () {
+                    $(this).off('blur change');
+
+                });
+            }
+        }
+    }
+})(jQuery);

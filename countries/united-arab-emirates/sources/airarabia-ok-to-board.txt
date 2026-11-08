@@ -1,0 +1,159 @@
+PAGE META: VIcurrentDateTime: 639297358160667183
+
+OK to Board
+
+LOGIN
+
+Click here to active Air Rewards
+ and complete your registration
+
+{{ firstName }}
+
+            Activate Air Rewards
+
+{{points | formatPoints}} AirRewards Points
+
+Dashboard
+
+Logout
+
+{{ selectedText || 'Please select' }}
+
+Select a country
+
+                            {{ country.CountryName }}
+
+{{ selectedCurrency.code }}
+
+{{ currency.code }}
+
+ en
+
+English
+
+English
+
+العربية
+
+OK to Board
+Do I need Ok to board message when travelling to UAE?
+
+Passengers traveling from Pakistan or Bangladesh to the UAE holding a copy of UAE visa or e-visa require "Ok to Board" message on their reservation. Passengers carrying original visa document do not require it.
+
+If you are transiting via Sharjah to a destination with visa on arrival, e-visa or paper visa, please make sure to check the requirements from the relevant Ministry of Foreign Affairs prior to your trip.
+
+How to add "Ok To Board" message on the reservation?
+
+The sponsor or the representative of the passenger can visit the 
+nearest Air Arabia office
+ in person holding the original visa document. Our staff will verify the document add the "Ok To Board" message on the reservation.
+
+Is there any charges to update the Ok To Board message?
+
+Yes, there is a fee of AED 15 - 20.
+
+When can I update the Ok To Board message?
+
+Ok To Board message needs to be done minimum 24 hours before the flight departure.
+
+Back to Frequently Asked Questions
+
+Can't find an answer?
+Start Chat
+
+Book your trip
+
+Book flight
+
+Book flight+hotel
+
+Book hotel
+
+Book car
+
+Group booking
+
+Charter booking
+
+Flying with us
+
+Where we fly
+
+Baggage
+
+Cargo service
+
+At the Airport
+
+Flying with families
+
+Onboard
+
+Flights
+
+Flight from Countries
+
+Flights to Countries
+
+Flights from Cities
+
+Flights to Cities
+
+City to City Flights
+
+Travelling from Dubai
+
+Flights to Dubai
+
+Customer service
+
+Contact us
+
+Call centres
+
+Office locations
+
+Customer claim
+
+About Us
+
+Our fleet
+
+Our hubs
+
+Media center
+
+Investor relations
+
+Accessibility Statement
+
+Company Information
+
+Community
+
+Sustainability
+
+Careers
+
+The smallprint
+
+Conditions of carriage
+
+Website terms and conditions
+
+Privacy policy
+
+Cookie policy
+
+Modification and cancellation policy
+
+Log in
+
+Travel agent portal
+
+Manage your booking
+
+Suppliers
+
+Copyright 2026 © Air Arabia. All rights reserved.
+

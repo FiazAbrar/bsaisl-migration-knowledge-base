@@ -1,0 +1,210 @@
+.search-modal-card {
+	display:flex;
+    padding: var(--padding-padding-xl, 24px);
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-gap-xl, 24px);
+
+    border-radius: var(--radius-md, 16px);
+    border: 1px solid var(--surface-outline, #E4E2E6);
+    background: var(--surface-surface, #FFF);
+
+    /* elevation/3 */
+    box-shadow: 0 8px 24px 0 var(--opacity-on-surface-opacity12, rgba(0, 0, 0, 0.12));
+}
+
+.search-modal-card .modal-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    padding:0;
+}
+
+.search-modal-card .btn-close{
+	background: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+
+.search-modal-card .btn-close span {
+	display: flex;
+width: 24px;
+height: 24px;
+justify-content: center;
+align-items: center;
+}
+
+.search-modal-card .btn-close span svg {
+	width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+
+.search-modal-card .modal-title {
+    color: var(--surface-on-surface, #000);
+
+    /* H6/Regular */
+    font-family: var(--font-family, Dubai);
+    font-size: var(--font-size-h6, 20px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--line-height-h6, 28px);
+    /* 140% */
+}
+
+.search-modal-card .modal-body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-gap-xl, 16px);
+    align-self: stretch;
+    padding:0;
+}
+
+.search-modal-card .modal-body form{
+    width: 100%;
+}
+
+
+.search-modal-card .search-section label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 5px;
+}
+
+.search-modal-card .search-box {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 8px;
+    background: #fff;
+}
+
+.search-modal-card .search-box input {
+    border: none;
+    flex: 1;
+    padding: 6px;
+    font-size: 0.9rem;
+    outline: none;
+}
+
+.btn-search {
+    background-color: #a23b3b;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+.btn-search:hover {
+    background-color: #8c3131;
+}
+
+/*search input*/
+
+input[name="search_api_fulltext"]
+{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    flex: 1 0 0;
+    overflow: hidden;
+    color: var(--surface-on-surface, #000);
+    text-overflow: ellipsis;
+    border: unset;
+    margin: 0;
+
+    /* Body/Regular */
+    font-family: var(--font-family, Dubai);
+    font-size: var(--font-size-body, 16px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--line-height-body, 24px);
+    /* 150% */
+}
+
+input[name="search_api_fulltext"]::-webkit-input-placeholder {
+    display: inline-block;
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+    padding-right: .15em;
+    white-space: nowrap;
+    overflow: hidden;
+    color: var(--state-layers-on-disabled, #5E5E62);
+    text-overflow: ellipsis;
+
+    /* Body/Regular */
+    font-family: var(--font-family, Dubai);
+    font-size: var(--font-size-body, 16px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--line-height-body, 24px);
+    /* 150% */
+  }
+  
+
+input[name="search_api_fulltext"]:focus::-webkit-input-placeholder {
+    -webkit-transform: translateY(-125%);
+    opacity: 0.05;
+  }
+  
+
+input[name="search_api_fulltext"].imitatefocus::-webkit-input-placeholder {
+    -webkit-transform: translateY(-125%);
+    opacity: 0.05;
+  }
+
+
+
+.gdrfa-search-website-page-1-form .gdrfa-button-wrapper{
+	width:-webkit-fill-available;
+}
+
+.gdrfa-search-website-page-1-form .gdrfa-button-wrapper .gdrfa-button-Container{
+	width: 100%;
+	justify-content: center;
+}
+
+#modalSearch .gdrfa-search-wrapper {
+  position: relative;
+}
+
+#modalSearch .gdrfa-search-input {
+  padding-inline-end: 48px;
+}
+
+#modalSearch .gdrfa-search-clear-icon {
+  position: absolute;
+  inset-inline-end: 12px;
+  top: 50%;
+  display: inline-flex;
+  width: 32px;
+  height: 32px;
+  padding: 4px;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  transform: translateY(-50%);
+}
+
+#modalSearch .gdrfa-search-clear-icon[hidden] {
+  display: none;
+}
+
+#modalSearch .gdrfa-search-clear-icon:hover,
+#modalSearch .gdrfa-search-clear-icon:focus-visible {
+  background: var(--surface-container, rgba(64, 72, 79, 0.08));
+}

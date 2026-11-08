@@ -1,0 +1,235 @@
+Cancellation of an Absence from Work Complaint (Absconding Report)...
+Skip to content
+Logo
+Gold star Logo
+Services
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14198 data-megaMenu=false>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14207 data-megaMenu=--Select-->
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14460 data-megaMenu=--Select-->
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Previous Awareness Workshops
+Awareness Workshops
+Media Center
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14195 data-megaMenu=--Select-->
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14200 data-megaMenu=false>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14494 data-megaMenu=false>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14205 data-megaMenu=false>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Login
+Accessibility
+Accessibility
+AR
+Switch language
+Logo
+Gold star Logo
+Menu
+search in site
+Close
+Home
+Services
+show submenu for "Services"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14198>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "Laws & Regulations"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14207>
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "Guidance"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14460>
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Previous Awareness Workshops
+Awareness Workshops
+Media Center
+show submenu for "Media Center"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14195>
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "Digital Participation"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14200>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "Open Data"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14494>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "About Us"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14205>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Accessibility
+AR
+Close
+English
+عربي
+Other languages
+The list of “Other languages” listed above use Google Translate to create an automated translation of content for the purpose of display. Accuracy of automated content translation is not guaranteed.
+Home
+Services
+Services Directory
+Service Details
+Cancellation of an Absence from Work Complaint (Absconding Report)
+Share
+Print
+An application for the cancellation of an absconding report submitted by one of the parties to the employment relationship
+Service Process
+1
+Log in with your username and password or use UAE Pass. (for online/ smart channels only)
+2
+Submit a labor complaint by entering the employee's personal information (work permit number or passport number - name, date of birth, nationality), the date of the employee's absence from work, and the establishment's information, using one of the service delivery channels.
+3
+Verify the applicant's capacity after entering all the necessary details in accordance with the applicable rules using the electronic signature card by sending an OTP via SMS or email to the applicant's mobile phone, with the exception of requests submitted via the smart application
+4
+The competent officer will examine the complaint and take appropriate action
+5
+The outcome of the complaint will be communicated to the customer by text message
+Conditions & Requirements
+The employee must be registered in the Ministry's database
+There must be an absconding report filed against the employee (absence from work)
+Service completion duration
+14 working days
+Service Fees
+None
+Service channels
+Website
+Mobile Application
+Target audience
+Employers, employees
+Category
+Employer Service
+Labour Service
+Main Service
+Filing Absconding Reports
+Relation of service with other entities
+Federal Authority for Identity, Residence and Ports Security
+Notes
+The customer will be notified once the request has been completed. Applicants can follow up on their applications by:
+Visiting the Inquiry Service at
+www.mohre.gov.ae
+MOHRE smart app
+Call Center 600590000
+Chatbot service
+Required Documents
+Provide supporting documentation (if any) for the claims in question
+For assistance, get in touch through
+Call:
+600590000
+Available 24/7
+Customer Feedback
+Did you find this content useful?
+You can help us improve by providing your feedback about your experience.
+Thank you for your feedback.
+Yes
+No
+Have you used our services at our service center or digitally recently?
+Give us your feedback
+Close
+Give us your feedback
+Thank you for contacting MOHRE. Reference number : {refCode}
+An error occurred during saving your comment. Please check entered info and submit again.
+Submit
+About this website
+Privacy Policy
+Disclaimer
+Copyright
+Terms & Conditions
+Information and support
+Contact Us
+Sitemap
+Accessibility
+Help
+Quicklinks
+Careers
+Archive
+Procurement
+Definitions
+Cybersecurity
+Job Descriptions
+Economic Activities list
+171
+04-7771777
+Call Center:
+600 590000
+©
+MOHRE. All rights reserved.
+Last updated on
+Follow us on:
+facebook
+instagram
+LinkedIn
+X
+YouTube
+Customer pulse
+Search

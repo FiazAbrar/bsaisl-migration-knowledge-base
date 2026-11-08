@@ -1,0 +1,95 @@
+Would you like to read this page in another language?
+
+[Yes](/)
+
+![](/sites/default/files/styles/16x9_large/public/media_2025/12/202512mena_uae_wr.jpg?h=cf0c8c83&itok=Ftf65mWs)
+
+# United Arab Emirates
+
+Events of 2025
+
+A protester speaks during a rally on November 8, 2025 in London, UK. Demonstrators marched to show solidarity with the people of Sudan and call for an end to UK arms sales to the UAE, which campaigners say enable atrocities by the RSF militia across the country. 
+
+© 2025 Martin Pope/Getty Images
+
+[Share this via Bluesky](https://bsky.app/intent/compose?text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch%0Ahttps://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via Bluesky") [Share this via Facebook](https://www.facebook.com/sharer.php?u=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via Facebook") [Share this via X](https://twitter.com/intent/tweet?text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch&url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via X") [Share this via WhatsApp](whatsapp://send?text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch%20-%20https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via WhatsApp") [Share this via Email](mailto:?subject=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch&body=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via Email") [More sharing options]( "More sharing options") [Share this via LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates&title=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch "Share this via LinkedIn") [Share this via Reddit](http://reddit.com/submit?url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates&title=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch "Share this via Reddit") [Share this via Telegram](https://telegram.me/share/url?url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates&text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch "Share this via Telegram") [Share this via Printer](/node/392798/printable/print "Share this via Printer")
+
+[Share this via Bluesky](https://bsky.app/intent/compose?text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch%0Ahttps://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via Bluesky") [Share this via Facebook](https://www.facebook.com/sharer.php?u=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via Facebook") [Share this via X](https://twitter.com/intent/tweet?text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch&url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via X") [Share this via WhatsApp](whatsapp://send?text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch%20-%20https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via WhatsApp") [Share this via Email](mailto:?subject=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch&body=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates "Share this via Email") [More sharing options]( "More sharing options") [Share this via LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates&title=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch "Share this via LinkedIn") [Share this via Reddit](http://reddit.com/submit?url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates&title=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch "Share this via Reddit") [Share this via Telegram](https://telegram.me/share/url?url=https://www.hrw.org/world-report/2026/country-chapters/united-arab-emirates&text=World%20Report%202026%3A%20United%20Arab%20Emirates%20%7C%20Human%20Rights%20Watch "Share this via Telegram") [Share this via Printer](/node/392798/printable/print "Share this via Printer")
+
+In 2025, a United Arab Emirates (UAE) court [upheld](https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld) the unfair convictions and abusive sentences of 53 human rights defenders and dissidents in the country’s second-largest mass trial. UAE authorities [designated](https://www.hrw.org/news/2025/04/22/uae-dissidents-relatives-designated-terrorists) 19 entities and people as “terrorists” under overbroad counterterrorism laws and without due process.
+
+The UAE is deploying a long-term [strategy](https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/strategies-plans-and-visions-untill-2021/the-uae-soft-power-strategy) to improve its reputation on the international stage, including by [hosting](https://www.hrw.org/news/2024/01/11/uae-hosting-cop28-amid-longstanding-repression) [global](https://www.hrw.org/news/2021/10/01/uae-tolerance-narrative-sham-0) and [popular](https://www.hrw.org/news/2024/10/03/uae-nba-games-risk-sportswashing-abuses) events. These efforts to project a public image of openness are at odds with the government’s efforts to prevent scrutiny of its human rights violations.
+
+## Freedom of Expression, Assembly, and Association
+
+The UAE imposes severe restrictions on free expression, association, and assembly, enforcing a zero-tolerance policy toward government criticism through invasive domestic and international [surveillance](https://www.hrw.org/news/2023/11/30/uae-mass-surveillance-threatens-rights-cop28-outcome). This has led to widespread self-censorship and the dismantling of independent civil society. Many government critics are serving long prison sentences after unfair trials based on vague charges that violate their fundamental rights.
+
+The UAE uses its Federal Penal Code and Cybercrime Law to [silence](https://www.hrw.org/news/2023/11/30/uae-mass-surveillance-threatens-rights-cop28-outcome#:~:text=The%20current%20cybercrimes%20law%20prohibits,sentence%20of%20up%20to%20life) dissent and restrict free speech, both online and offline. These broadly worded laws have been used to criminalize peaceful criticism, leading to the imprisonment of citizens and residents over social media posts and eroding civic space as a result.
+
+## Abusive Counterterrorism Laws
+
+In January 2025, Emirati authorities [designated](https://www.hrw.org/news/2025/04/22/uae-dissidents-relatives-designated-terrorists) in absentia 11 political dissidents and their relatives, along with eight UK-based companies linked to them, as “terrorists” without due process or prior notice. The [designations](https://www.wam.ae/en/article/bhl4p89-uae-places-individuals-entities-its-local), justified by alleged ties to the [Muslim Brotherhood](https://www.reuters.com/article/world/uae-lists-muslim-brotherhood-as-terrorist-group-idUSKCN0IZ0OM/), were made unilaterally under the UAE’s overly broad 2014 [counterterrorism law](https://www.hrw.org/news/2014/12/04/uae-terrorism-law-threatens-lives-liberty), which allows the executive branch to impose terrorism labels without judicial oversight or an objective legal process. None of the individuals or companies appear on internationally recognized sanctions or terrorism lists, and only two of the 11 individuals had ever been convicted or accused of terrorism; in those two cases, the circumstances were questionable.
+
+Terrorist designations carry severe consequences, including asset freezes, property confiscation, and risks of life imprisonment for anyone in the UAE who communicates with the named individuals. Those affected have reported significant personal and financial harm, describing the move as part of a broader campaign of transnational repression targeting dissent.
+
+The UAE’s use of vague terrorism laws has enabled it to silence critics. UN experts have [warned](https://digitallibrary.un.org/record/704287/files/A_HRC_16_51-EN.pdf?ln=en) that such broad laws undermine basic rights and are prone to abuse against political opposition.
+
+## Prosecution of Government Critics
+
+In March 2025, an Emirati court [upheld](https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld) the convictions and abusive sentences of 53 human rights defenders and political dissidents following the UAE’s second-largest unfair mass trial, effectively ending any chance for appeal. The court sentenced 43 people to life in prison and others to terms of 10 to 15 years, with a separate appeal pending regarding 24 dismissed cases. 
+
+The [trial](https://www.hrw.org/news/2023/12/14/uae-prominent-critics-face-new-charges) was riddled with serious due process [violations](https://www.hrw.org/news/2024/04/29/uae-unfair-trial-rights-defenders), including restricted access to legal counsel, lack of transparency, and credible reports of abuse and ill-treatment. The charges stemmed from the defendants’ peaceful activism, particularly their involvement in forming an independent advocacy group in 2010. Most of the accused had already been [convicted](https://en.edacrights.com/post/743) in the 2013 “UAE94” trial on similar or identical grounds and imprisoned since then, violating the principle of double jeopardy.
+
+Among those whose convictions were upheld is prominent human rights defender Ahmed Mansoor. He was [sentenced](https://www.hrw.org/news/2025/03/07/uae-ahmed-mansoors-15-year-sentence-upheld) to 15 years in prison. Mansoor received the prestigious Martin Ennals Award for Human Rights Defenders in 2015 and is a member of Human Rights Watch’s Middle East and North Africa Advisory Committee.
+
+## Arrest and Detention of Perceived Opponents
+
+In January 2025, the Lebanese government [unlawfully deported](https://www.hrw.org/news/2025/01/08/lebanon-serious-risk-abuse-poet-deported-uae) Egyptian-Turkish poet Abdulrahman Youssef al-Qardawi to the United Arab Emirates, where he [faces](https://www.hrw.org/news/2025/02/06/urgent-appeal-end-enforced-disappearance-poet-abdulrahman-yusuf-al-qaradawi-and) a high risk of an unfair trial, torture, and other abuses. Al-Qardawi was arrested at the Lebanon-Syria border based on provisional arrest requests from Egypt and later the UAE, which accused him of “spreading fake news” and “disturbing public order.” Those charges were based on a social media post he made while in Syria, in which he criticized the governments of Egypt, the UAE, and Saudi Arabia.
+
+On January 8, 2025, he was transferred by private jet to the UAE, where he was immediately detained and forcibly disappeared. His location remains undisclosed, and he has been deprived of regular access to his family.
+
+## UAE Support for Sudanese Rapid Support Forces
+
+A growing [body](https://www.france24.com/en/africa/20250417-investigation-european-weapons-sudan-part-1-mortar-shells-bulgaria) of [evidence](https://docs.un.org/en/S/2024/65) also [indicates](https://www.nytimes.com/2024/09/21/world/africa/uae-sudan-civil-war.html) that the UAE has [provided](https://www.hrw.org/news/2024/09/09/fanning-flames) [support](https://www.reuters.com/world/uae-flights-flood-airstrip-un-says-supplies-weapons-sudan-rebels-2024-12-12/) to the Rapid Support Forces (RSF), an armed group that has carried out widespread war crimes and crimes against humanity, including widespread acts of sexual violence, in Sudan’s devastating conflict.
+
+[Human Rights Watch](https://www.hrw.org/news/2024/09/09/fanning-flames#_ftnref26) and [France 24](https://www.france24.com/en/africa/20250417-investigation-european-weapons-sudan-part-1-mortar-shells-bulgaria) [found](https://www.hrw.org/news/2024/09/09/fanning-flames#_ftnref26) that the RSF had used munitions previously acquired by the UAE military. [Reuters](https://www.reuters.com/world/uae-flights-flood-airstrip-un-says-supplies-weapons-sudan-rebels-2024-12-12/) and [The New York Times](https://www.nytimes.com/2024/09/21/world/africa/uae-sudan-civil-war.html) reported on the UAE’s use of an airbase in Amjarass, eastern Chad – ostensibly for humanitarian purposes – to funnel weapons to the RSF.
+
+The UN Security Council [renewed](https://press.un.org/en/2025/sc16165.doc.htm) the Sudan sanctions regime in September. Rights organizations have called to expand and enforce the Sudan sanctions regime, name governments violating the arms embargo, and impose sanctions on responsible individuals or entities, including those in the UAE.
+
+## Migrant Workers’ Rights
+
+Despite [several](https://www.hrw.org/legacy/backgrounder/mena/uae0307/2.htm) [reforms](https://www.hrw.org/news/2022/06/05/uae-sweeping-legal-reforms-deepen-repression) legislation governing migrant rights, employers still hold [disproportionate control](https://www.hrw.org/world-report/2022/country-chapters/united-arab-emirates) over migrant workers under the *kafala* (sponsorship) system. Workers still struggle to change jobs and employers can file false “[absconding](https://www.migrant-rights.org/2020/09/huroob-runaway-absconding-trapping-migrants-in-extreme-abuse/)” charges even when workers leave to escape abuse, causing them to risk detention and deportation. 
+
+Migrant workers continue to face widespread [abuses](https://www.hrw.org/news/2023/11/21/uae-migrant-worker-abuses-linked-broader-climate-harms) like wage theft, illegal recruitment fees, and passport confiscation, which leave workers in situations that may amount to forced labor. The UAE continues to ban trade unions, which prevents workers from demanding stronger labor protections. 
+
+Authorities have failed to protect workers from climate change-related risks. Outdoor migrant workers in the UAE are among the most vulnerable to heat-related [illnesses](https://www.hrw.org/news/2023/11/21/uae-migrant-worker-abuses-linked-broader-climate-harms) and death. The UAE continues to rely solely on a summer midday work ban as the primary heat protection measure, despite evidence of its [ineffectiveness](https://www.hrw.org/news/2023/05/31/gulf-states-migrant-workers-serious-risk-dangerous-heat) in protecting workers.
+
+Beyond [inadequate](https://www.hrw.org/news/2025/06/01/gulf-states-protect-workers-extreme-heat) heat protections, migrant workers are also subject to serious labor [abuses](https://www.hrw.org/news/2023/11/21/uae-migrant-worker-abuses-linked-broader-climate-harms) like wage theft and exorbitant recruitment fees which affect their ability to send home remittances to their families back home in countries like Pakistan, Bangladesh, and Nepal.
+
+The UAE still does not have a non-discriminatory minimum wage that allows workers a decent standard of living for themselves and their families. Authorities in Dubai and Abu Dhabi have recently conducted [raids](https://apnews.com/article/uae-dubai-partitioned-apartments-crackdown-poverty-housing-097f7ce61c851a040e77da3817620473) on partitioned spaces, used as homes, and evicted workers, but this fails to address the high living costs and low wages that compel many workers to live in such cramped conditions even at the risk of safety. 
+
+The UAE’s governmental partners continue to [prioritize](https://www.gov.uk/government/news/uk-ministers-visit-gulf-to-boost-trade-and-investment) trade and other strategic interests with the UAE and other Gulf Cooperation Council (GCC) countries over human rights. The forthcoming Trade Agreement between the United Kingdom (UK) and the GCC excludes explicit human rights protections and commitments, including for migrant workers. A trade agreement with GCC risks contributing to ongoing abuses against migrant workers by further facilitating wage abuse, employer exploitation, and situations that may amount to forced labor.
+
+## Climate Change Policy and Impacts
+
+Fossil fuel use in the UAE significantly [contributes](https://www.hrw.org/report/2023/12/04/you-can-smell-petrol-air/uae-fossil-fuels-feed-toxic-pollution) to toxic air pollution and greenhouse gas emissions, posing serious health risks to its population and fueling the global climate crisis. Research links pollution from fossil fuels to respiratory, cardiovascular, and neurological harm. However, restrictive laws that criminalize peaceful dissent make it nearly impossible to publicly examine or criticize the government's environmental policies, limiting accountability and public awareness.
+
+## Women’s Rights
+
+The UAE passed new statutes on domestic violence and family law that increased rights but fell short of fully addressing gender discrimination. The age of consent for marriage was raised to 18. Only non-citizen Muslim women can marry without a guardian present. Sexual exploitation and economic violence are included in the new domestic violence law, but the law defines violence as acts “exceeding the guardianship authority or responsibility held by the perpetrator” leaving space for men to discipline wives and female relatives within limits accepted by authorities.
+
+## Sexual Orientation and Gender Identity
+
+The UAE’s Federal Penal Code criminalizes vaguely defined acts, allowing the authorities to arrest people for a wide range of behaviors, including public displays of affection, gender nonconforming expressions, and campaigns promoting the rights of lesbian, gay, bisexual, and transgender (LGBT) people. The law also criminalizes “sodomy” with an adult male.
+
+Browse countries
+
+Choose Afghanistan African Union Algeria Angola Argentina Armenia Australia Azerbaijan Bahrain Bangladesh Belarus Bosnia and Herzegovina Brazil Burkina Faso Burundi Cambodia Canada Central African Republic Chad China Colombia Cuba Democratic Republic of Congo Ecuador Egypt El Salvador Eritrea Eswatini Ethiopia European Union France Georgia Germany Greece Guatemala Haiti Honduras Hungary India Indonesia Iran Iraq Israel and Palestine Italy Japan Jordan Kazakhstan Kenya Kyrgyzstan Lebanon Libya Malawi Malaysia Mali Mexico Morocco and Western Sahara Mozambique Myanmar Nepal Nicaragua Niger Nigeria North Korea Pakistan Peru Philippines Poland Qatar Russia Rwanda Saudi Arabia Serbia/Kosovo Singapore Somalia South Africa South Korea South Sudan Spain Sri Lanka Sudan Syria Tajikistan Tanzania Thailand Tunisia Türkiye Turkmenistan Uganda Ukraine United Arab Emirates United Kingdom United States Uzbekistan Venezuela Vietnam Yemen Zambia Zimbabwe
+
+[](https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgfooter&promo_id=1005)
+
+### Protecting Rights, Saving Lives
+
+Human Rights Watch defends the rights of people in close to 100 countries worldwide, spotlighting abuses and bringing perpetrators to justice
+
+Donate Now

@@ -1,0 +1,261 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" dir="rtl" id="Main_Html_Tag">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/slick-carousel/slick.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/cssNew/output.css" />
+    <link rel="stylesheet" href="/litepicker/css/litepicker.min.css" />
+    
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+
+    <link rel="stylesheet" href="/cssNew/style.css" />
+
+    <title id="titleInquiryService">خدمات الإستعلام</title>
+</head>
+<body class="bg-light ltr p-4 md:p-5 lg:p-6 rtl" id="Main_Body_Tag">
+
+    <section class="container mx-auto flex flex-col items-center">
+        <div class="w-full relative mb-6 sm:mb-8 md:mb-10 xxl:mb-12 xxxl:mb-16 text-center">
+            <img alt="Centered Image" class="img-logo mx-auto max-w-full md:max-w-[450px] lg:max-w-[500px] xl:max-w-[600px] 2xl:max-w-[700px]" src="/ImagesNew/logo.png" />
+            <form action="/Home/langchange" method="post">
+                <input type="hidden" name="language" value="ar" />
+                <button type="submit" class="absolute top-1/2 -translate-y-1/2 underline text-sm sm:text-base m-2 lang-switch" id="btnlanguage">English</button>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8LLSf1CXmuJPvsQFGMBsnjNMio5mFmslcU1nv4A4M4y72qt_ZebQeqBsBYGkaXKEtCPexgfZlMjAiUSuEB70xHc8iBnBo5ljHF5-sQIwfkOrM8H4At5nWlOj_uxgJhWJps1CbaX4SFFwHia3_Lyzq1c" /></form>
+        </div>
+        <h1 class="text-h1 leading-tight text-center mb-6 sm:mb-8 md:mb-10 xxl:mb-12 xxxl:mb-16">خدمات الإستعلام</h1>
+    </section>
+
+    <main>
+        <div class="container" id="Main_Service_Div">
+            
+
+<style>
+.bg-aegov-primary {
+    background-color: #0072CE !important;
+}
+
+.text-aegov-primary {
+    color: #0072CE !important;
+}
+
+.hover\:bg-aegov-primary:hover {
+    background-color: #0072CE !important;
+}
+
+.hover\:text-white:hover {
+    color: #ffffff !important;
+}
+
+</style>
+<!-- Category Select Section -->
+<section class="container mx-auto flex flex-col items-center" id="sec_main_ddl_container">
+    <div class="select-holder aegov-form-control mx-auto flex items-center  mb-6 sm:mb-8 md:mb-10  xxl:mb-12 xxxl:mb-16">
+        <div class="relative min-h-[40px] sm:min-h-[50px] min-w-[300px] sm:min-w-[400px] form-control-input h-12">
+
+            <button id="dropdownButton" aria-haspopup="listbox" aria-expanded="false"
+                    class="w-full rounded-lg py-2 px-4 text-left flex justify-between items-center text-aeblack-700 focus:outline-none focus:ring-2 focus:ring-aegov-primary">
+                <span id="selectedValue" class="truncate">الرجاء اختيار الخدمة</span>
+                <svg class="w-4 h-4 text-aeblack-500 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+            </button>
+
+            <div id="dropdownList"
+                 class="absolute z-50 mt-12 w-full bg-white border border-aeblack-300 rounded-lg shadow-lg max-h-60 overflow-auto hidden"
+                 role="listbox" tabindex="-1">
+                <div class="relative border border-aeblack-300 rounded-lg bg-white">
+                    <svg class="absolute rtl-pos right-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-aeblack-400 pointer-events-none"
+                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 1110.5 3a7.5 7.5 0 016.15 13.65z" />
+                    </svg>
+                    <input type="text" id="searchInput" class="w-full bg-transparent px-10 py-2 text-aeblack-700 placeholder-aeblack-400 focus:outline-none"
+                           placeholder="بحث..." autocomplete="off" />
+                </div>
+
+                <ul id="optionsList" class="bg-white">
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="AS">حالة الطلب</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="CI">بيانات المنشأة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="AA">شكوى الانقطاع عن العمل</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="JBOFF">الاستعلام عن عرض العمل</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PM">تعديل بيانات الشخص</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="EQC">حالة الحصه الالكترونيه حسب رقم المنشاة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="EQT">حالة الحصه الالكترونيه حسب رقم المعاملة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PAWPR">طباعة إشعار الموافقة المبدئية لتصريح العمل</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PAWPIS">حالة بيانات إشعار الموافقة المبدئية لتصريح العمل للإدارة العامة للإقامة وشؤون الأجانب</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="EWPI">معلومات تصريح العمل الإلكتروني</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="MP">حالة اشعار الموافقة المبدئية لتصريح العمل</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PP">غير مسددة الرسوم</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PEWP">طباعة تصريح العمل الالكتروني</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PTWPC">طباعة بطاقه العمل لتصريح عمل مدرس خصوصي</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="PTWP">تصريح عمل المدرس الخصوصي</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="WPRICP">حالة المعاملة لدى الهيئة الاتحادية للهوية والجنسية</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="EPAP">الدفع الالكتروني للاشعار</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="VAC">عرض عقد العمل الموثق</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="RACI">الاستعلام عن شكوى على مركز استقدام عمالة مساعدة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="CCAR">إيصال إلغاء المنشأة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="BGR">إيصال استلام استرجاع قيمة الضمان المصرفي</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="AR">إيصال الموافقة على بطاقة المندوب</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="LCPE">طلب ترخيص جديد لوكالة توظيف خاصة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="FC">حساب غرامات البطاقات</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="CTE">استفسار لمعاملة الإلغاء</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="CVS">حالة العامل بخصوص معايير تسوية الاوضاع</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="WINS">تأمين العامل</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="DWE">الاستعلام عن العمالة المساعدة</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="TLI">الاستعلام عن الرخصة التجارية</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="CD">مستند الالغاء الخاص بالغاء شكوى انقطاع عن العمل</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="GDRF">حالة ربط بيانات المنشأة في الإدارة العامة للإقامة وشؤون الأجانب</li>
+                        <li class="cursor-pointer bg-white px-4 py-2 hover:bg-aegov-primary hover:text-white" role="option" value="BD">بيانات الضمان المصرفي</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+<section class="container mx-auto mb-6 sm:mb-8 md:mb-12 lg:mb-16">
+    <div class="initiative-slider z-10 aegovs-slider-style [&_.slick-list :pb-8 [&_.slick-list]:-mx-3 [&_.slick-slide]:mx-3 mb-6 sm:mb-8 md:mb-10 lg:mb-12 xl:mb-12 xxl:mb-16">
+            <div>
+                <div class="aegov-card card-bordered card-glow !shadow-primary-500/30">
+                    <img src="/ImagesNew/ico-inquiry.svg">
+                    <h5 class="text-base sm:text-lg md:text-xl lg:text-2xl 2xl:text-3xl font-semibold leading-snug">&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x639;&#x644;&#x627;&#x645;</h5>
+                    <div class="block">
+                        <a href="#" class="aegov-link" title="&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x639;&#x644;&#x627;&#x645;" id="1">
+                            عرض التفاصيل
+                            <svg class="link-icon rtl:-scale-x-100" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="aegov-card card-bordered card-glow !shadow-primary-500/30">
+                    <img src="/ImagesNew/ico-Equota.svg">
+                    <h5 class="text-base sm:text-lg md:text-xl lg:text-2xl 2xl:text-3xl font-semibold leading-snug">&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x62D;&#x635;&#x629; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;&#x629;</h5>
+                    <div class="block">
+                        <a href="#" class="aegov-link" title="&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x62D;&#x635;&#x629; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;&#x629;" id="2">
+                            عرض التفاصيل
+                            <svg class="link-icon rtl:-scale-x-100" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="aegov-card card-bordered card-glow !shadow-primary-500/30">
+                    <img src="/ImagesNew/ico-workpermit.svg">
+                    <h5 class="text-base sm:text-lg md:text-xl lg:text-2xl 2xl:text-3xl font-semibold leading-snug">&#x62A;&#x635;&#x631;&#x64A;&#x62D; &#x627;&#x644;&#x639;&#x645;&#x644;</h5>
+                    <div class="block">
+                        <a href="#" class="aegov-link" title="&#x62A;&#x635;&#x631;&#x64A;&#x62D; &#x627;&#x644;&#x639;&#x645;&#x644;" id="3">
+                            عرض التفاصيل
+                            <svg class="link-icon rtl:-scale-x-100" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="aegov-card card-bordered card-glow !shadow-primary-500/30">
+                    <img src="/ImagesNew/ico-receipts.svg">
+                    <h5 class="text-base sm:text-lg md:text-xl lg:text-2xl 2xl:text-3xl font-semibold leading-snug">&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x625;&#x64A;&#x635;&#x627;&#x644;&#x627;&#x62A;</h5>
+                    <div class="block">
+                        <a href="#" class="aegov-link" title="&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x625;&#x64A;&#x635;&#x627;&#x644;&#x627;&#x62A;" id="4">
+                            عرض التفاصيل
+                            <svg class="link-icon rtl:-scale-x-100" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="aegov-card card-bordered card-glow !shadow-primary-500/30">
+                    <img src="/ImagesNew/ico-worker.svg">
+                    <h5 class="text-base sm:text-lg md:text-xl lg:text-2xl 2xl:text-3xl font-semibold leading-snug">&#x627;&#x633;&#x62A;&#x639;&#x644;&#x627;&#x645; &#x639;&#x646; &#x627;&#x644;&#x639;&#x645;&#x627;&#x644;</h5>
+                    <div class="block">
+                        <a href="#" class="aegov-link" title="&#x627;&#x633;&#x62A;&#x639;&#x644;&#x627;&#x645; &#x639;&#x646; &#x627;&#x644;&#x639;&#x645;&#x627;&#x644;" id="5">
+                            عرض التفاصيل
+                            <svg class="link-icon rtl:-scale-x-100" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="aegov-card card-bordered card-glow !shadow-primary-500/30">
+                    <img src="/ImagesNew/ico-services.svg">
+                    <h5 class="text-base sm:text-lg md:text-xl lg:text-2xl 2xl:text-3xl font-semibold leading-snug">&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x623;&#x62E;&#x631;&#x649;</h5>
+                    <div class="block">
+                        <a href="#" class="aegov-link" title="&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x623;&#x62E;&#x631;&#x649;" id="6">
+                            عرض التفاصيل
+                            <svg class="link-icon rtl:-scale-x-100" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                                <rect width="256" height="256" fill="none" />
+                                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+    </div>
+</section>
+
+
+
+
+<div id="div_categoryDetailSection">
+</div>
+
+<div class="mx-auto flex flex-col items-center mb-16 hidden" id="divPrintBtn">
+    <button class="aegov-btn btn-soft min-w-[150px]" type="button">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M6.72 13.829c-.24.03-.48.062-.72.096m.72-.096a42.415 42.415 0 0 1 10.56 0m-10.56 0L6.34 18m10.94-4.171c.24.03.48.062.72.096m-.72-.096L17.66 18m0 0 .229 2.523a1.125 1.125 0 0 1-1.12 1.227H7.231c-.662 0-1.18-.568-1.12-1.227L6.34 18m11.318 0h1.091A2.25 2.25 0 0 0 21 15.75V9.456c0-1.081-.768-2.015-1.837-2.175a48.055 48.055 0 0 0-1.913-.247M6.34 18H5.25A2.25 2.25 0 0 1 3 15.75V9.456c0-1.081.768-2.015 1.837-2.175a48.041 48.041 0 0 1 1.913-.247m10.5 0a48.536 48.536 0 0 0-10.5 0m10.5 0V3.375c0-.621-.504-1.125-1.125-1.125h-8.25c-.621 0-1.125.504-1.125 1.125v3.659M18 10.5h.008v.008H18V10.5Zm-3 0h.008v.008H15V10.5Z" />
+        </svg> Print
+    </button>
+</div>
+
+
+<!-- Start:  Main Modal -->
+<div id="captchaContainer">
+
+</div>
+
+
+<!-- End:  Main Modal -->
+
+        </div>
+    </main>
+
+
+    <script src="/js/bundle.min.js"></script>
+
+    
+<script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+</body>
+
+</html>

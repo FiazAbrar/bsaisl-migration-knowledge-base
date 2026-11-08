@@ -1,0 +1,31 @@
+@media (prefers-reduced-motion: reduce) {
+  .dnrd-footer__section-btn,
+  .dnrd-footer__section-btn:hover {
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (prefers-reduced-motion) {
+  .dnrd-footer__section-btn,
+  .dnrd-footer__section-btn:hover,
+  .progress-marker::before {
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dnrd-footer__section-link,
+  .dnrd-footer__section-link:hover {
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion) {
+  .dnrd-footer__section-link,
+  .dnrd-footer__section-link:hover {
+    transform: none;
+    transition: none;
+  }
+}

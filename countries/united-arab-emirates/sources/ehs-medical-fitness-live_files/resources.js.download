@@ -1,0 +1,33 @@
+﻿require(['jquery'], function ($) {
+    'use strict';
+    (function (fi) {
+        try {
+            fi.resources = JSON.parse($.ajax({
+                type: "GET",
+                url: 'app_themes/' + FI.clientId + '/resources/i18n/' + FI.languageCode + '.json?' + FI.cacheVersion.html,
+                dataType: 'json',
+                async: false
+            }).responseText);
+            window.lang = fi.resources;
+        } catch {
+            fi.resources = {
+                "shortLangCode": "en",
+                "general": {},
+                "settings": {},
+                "owl": {
+                    "Next": "Next",
+                    "Prev": "Prev",
+                    "Previous": "Previous"
+                },
+                "pager": {
+                    "next": "Next",
+                    "prev": "Previous",
+                    "of": "of",
+                    "page": "Page",
+                    "items": "items"
+                }
+            };
+        }
+    }
+    )(FI);
+});

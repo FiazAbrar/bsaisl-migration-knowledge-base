@@ -1,0 +1,211 @@
+require(['jquery'], function ($) {
+
+    //#region helpers
+
+    // small HTML-escape helper (use ONLY when inserting into innerHTML)
+    function escapeHTML(str) {
+        if (str == null) return '';
+        return String(str).replace(/[&<>"']/g, s => ({
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#39;'
+        })[s]);
+    }
+
+    // Normalize to two-letter lower-case language
+    function _normLang(x) {
+        return (x == null) ? '' : String(x).slice(0, 2).toLowerCase();
+    }
+
+    /**
+     * Build a URL that contains the requested language as a path segment.
+     * If otherLang is omitted or equals current language, returns the current page URL unchanged.
+     *
+     * Returns an absolute URL (including origin).
+     */
+    window.getCurrentLanguageURL = function (otherLang) {
+        // Defensive: ensure FI.languageCode exists
+        const currentLang = (window.FI && FI.languageCode) ? _normLang(FI.languageCode) : '';
+        const targetLang = otherLang ? _normLang(otherLang) : currentLang;
+        const href = window.location.origin + window.location.pathname;
+        // If nothing to change, return current URL
+        if (!currentLang || targetLang === currentLang) {
+            return new URL(href).toString();
+        }
+
+        const u = new URL(href);
+
+        // Work with pathname segments to avoid accidental replace in query/hash or elsewhere
+        const segs = u.pathname.split('/'); // leading empty string for leading '/'
+        // find index of a segment that equals the current language (case-insensitive)
+        const idx = segs.findIndex(s => s && s.toLowerCase() === currentLang);
+
+        if (idx !== -1) {
+            // Replace the language segment
+            segs[idx] = targetLang;
+        } else {
+            // Insert language segment at the end of the path (preserve trailing slash semantics)
+            if (u.pathname.endsWith('/')) {
+                // insert before final empty segment
+                segs.splice(segs.length - 1, 0, targetLang);
+            } else {
+                segs.push(targetLang);
+            }
+        }
+
+        u.pathname = segs.join('/');
+
+        // Preserve search and hash exactly as they are (do not escape them here)
+        return u.toString();
+    }
+
+    /**
+     * Convenience: get other language URL.
+     * If `lang` provided, switch to that. Otherwise toggle between 'ar' and 'en'.
+     */
+    window.getOtherLanguageURL = function (lang) {
+
+        const currentLang = (window.FI && FI.languageCode) ? _normLang(FI.languageCode) : '';
+        let otherLang;
+        if (lang) {
+            otherLang = _normLang(lang);
+        } else {
+            // toggle fallback
+            otherLang = (currentLang === 'ar') ? 'en' : 'ar';
+        }
+        return getCurrentLanguageURL(otherLang);
+    }
+
+
+
+    //window.getCurrentLanguageURL = function () {
+    //    var currentLang = FI.languageCode.substring(0, 2);
+    //    var otherLang = currentLang;
+
+    //    var url = document.URL.toLowerCase();
+    //    if (url.endsWith('#')) { url = url.substring(0, url.length - 1); }
+    //    if (url.endsWith('/')) { url = url.substring(0, url.length - 1); }
+    //    if (url.indexOf("/" + currentLang + "/") > -1) {
+    //        url = url.replace('/' + currentLang + '/', '/' + otherLang + '/');
+    //    }
+    //    else if (url.endsWith('/' + currentLang)) {
+    //        url = url.substr(0, url.length - 2) + otherLang;
+    //    }
+    //    else {
+    //        var _search = escapeHTML(document.location.search);
+    //        url = url.replace(_search, '');
+    //        if (url.endsWith('/')) { url = url + otherLang + '/' + _search; } else { url = url + "/" + otherLang + _search; }
+    //    }
+    //    return escapeHTML(url);
+    //}
+    //function escapeHTML(str) {
+    //    return str.replace(/[&<>"']/g, s => ({
+    //        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    //    })[s]);
+    //}
+
+
+    //window.getOtherLanguageURL = function (lang) {
+    //    var currentLang = FI.languageCode.substring(0, 2);
+
+    //    var otherLang = currentLang == 'ar' ? 'en' : 'ar';
+    //    if (lang) {
+    //        otherLang = lang;
+    //    }
+
+    //    var url = document.URL.toLowerCase();
+    //    if (url.endsWith('default.aspx')) { url = url.replaceAll('default.aspx', '') }
+    //    if (url.endsWith('#')) { url = url.substring(0, url.length - 1); }
+    //    if (url.endsWith('/')) { url = url.substring(0, url.length - 1); }
+    //    if (url.indexOf("/" + currentLang + "/") > -1) {
+    //        url = url.replace('/' + currentLang + '/', '/' + otherLang + '/');
+    //    }
+    //    else if (url.endsWith('/' + currentLang)) {
+    //        url = url.substr(0, url.length - 2) + otherLang;
+    //    }
+    //    else {
+    //        var _search = escapeHTML(document.location.search);
+    //        url = url.replace(_search, '');
+    //        if (url.endsWith('/')) { url = url + otherLang + '/' + _search; } else { url = url + "/" + otherLang + _search; }
+    //    }
+    //    return escapeHTML(url);
+
+    //}
+
+    // Cookies
+    window.getThemeCookie = function () {
+        var c = getCookie('icms-theme');
+        return c.replace(/[^a-z0-9]/gi, '');
+    }
+    window.getCookie = function (cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i].trim();  // .trim() handles all whitespace, simpler than while loop
+            if (c.indexOf(name) === 0) {  // Use === for strict comparison
+                return c.substring(name.length);
+            }
+        }
+        return "";
+    }
+    window.setCookie = function (cname, cvalue, exdays) {
+        // Validate input
+        if (typeof cvalue !== 'string') {
+            cvalue = String(cvalue);
+        }
+
+        // Use whitelist validation or encoding instead of blacklist
+        // Encode the value properly - this prevents injection
+        var encodedValue = encodeURIComponent(cvalue);
+
+        var d = new Date();
+        var days = exdays || 365;
+        d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toUTCString();
+
+        var path = "/"; // Use root path, or get from configuration safely
+        var cookieString = cname + "=" + encodedValue + ";" + expires + ";path=" + path;
+
+        // Only add secure flag if connection is HTTPS
+        if (location.protocol === 'https:') {
+            cookieString += "; secure";
+        }
+
+        cookieString += "; SameSite=Strict";
+        document.cookie = cookieString;
+    }
+
+    window.deleteCookie = function (cname) {
+        document.cookie = cname + "=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=" + FI.ApplicationPath + ";";
+    }
+    window.getParameterByName = function (name, url = window.location.href) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+
+    //#endregion helpers
+
+
+    //#region Theme
+    var _theme = getThemeCookie();
+    if (!_theme) {
+        if ($('[data-icms-event-click="theme"][data-icms-isdefault]').attr('data-icms-theme')) {
+            setCookie('icms-theme', $('[data-icms-event-click="theme"][data-icms-isdefault]').attr('data-icms-theme'));
+        }
+    }
+    $('[data-icms-event-click][data-icms-theme]').removeClass('checked');
+    $('[data-icms-event-click="theme"][data-icms-theme="' + _theme + '"]').addClass('checked');
+    $('html').addClass(_theme);
+
+    //#endregion
+
+});

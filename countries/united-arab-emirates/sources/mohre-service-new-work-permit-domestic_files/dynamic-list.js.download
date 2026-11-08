@@ -1,0 +1,298 @@
+
+(function ($) {
+
+
+
+    var DynamicList = function (element, options) {
+        var me = this;
+        me.e = $(element);
+        me.options = opts = $.extend(true, {}, options);
+        self.uniqueId = 'DynamicList' + ((new Date().getTime() * 10000) + 621355968000000000);
+        me.options.itemTemplate = me.options.itemTemplate.replace(/{name}/g, me.e.attr('data-dynamiclist'));
+        me.e.list = $(me.options.template);
+        me.e.parent().append(me.e.list);
+        me.e.list.attr('id', self.uniqueId);
+        var subItemHTML = me.options.itemTemplate;
+        var limited_level = me.options.limitedLevel;
+        var dynamic_list = me.e.list;
+        var tempItem = $(subItemHTML);
+        var sub_list_items_selector = '.sub-list-items';
+        var sub_list_items_item_selector = '.sub-list-items-item';
+        var add_new_selector = '.add-new';
+        var remove_selector = '.remove';
+        var openclose_selector = '.openclose';
+        me.inputs_selector = 'input,textarea,select';
+        var add_btns = dynamic_list.find(add_new_selector);
+        me.bindChange = function () {
+            me.e.change(function (ev) {
+                me.bind($(this).val());
+            });
+        }
+        me.bindChange();
+        me.unbindChange = function () {
+            me.e.unbind('change');
+        }
+        me.bindEvents = function () {
+            dynamic_list.find(remove_selector).hover(function () {
+                $(this).parents('.sub-list-items-item').first().css('border', '2px red solid');
+            }, function () {
+                $(this).parents('.sub-list-items-item').first().css('border', '');
+            });
+
+            dynamic_list.find(remove_selector).unbind('click').click(function (evt) {
+                if (confirm('Are you sure you want to remove this (' + $(evt.target).parents('.sub-list-items-item').first().find('.sub-list-items-item-title').first().find(me.inputs_selector).first().val() + ') section and its children?')) {
+                    $(evt.target).parents('.sub-list-items-item').first().remove();
+                    me.setInput();
+                }
+            });
+            dynamic_list.find(openclose_selector).hover(function () {
+                $(this).parents('.sub-list-items-item').first().find('.sub-list-items').first().css('border-left', '3px solid green');
+                $(this).parents('.sub-list-items-item').first().find('.sub-list-items').first().css('border-bottom', '3px solid green');
+
+            }, function () {
+                $(this).parents('.sub-list-items-item').first().find('.sub-list-items').first().css('border-left', '3px solid whitesmoke');
+                $(this).parents('.sub-list-items-item').first().find('.sub-list-items').first().css('border-bottom', '3px solid whitesmoke');
+
+            });
+
+            dynamic_list.find(openclose_selector).unbind('click').click(function (evt) {
+                var targetel = $(evt.target).parents('.sub-list-items-item').first().find('.sub-list-items').first();
+                if ($(this).hasClass('active')) {
+                    targetel.slideUp();
+                    $(this).removeClass('active');
+                    $(this).text('+');
+                }
+                else {
+                    targetel.slideDown();
+                    $(this).addClass('active');
+                    $(this).text('--');
+                }
+            });
+            dynamic_list.find(add_new_selector).hover(function () {
+                $(this).parents('.sub-list-items').first().css('border-left', '3px solid green');
+                $(this).parents('.sub-list-items').first().css('border-bottom', '3px solid green');
+
+            }, function () {
+                $(this).parents('.sub-list-items').first().css('border-left', '3px solid whitesmoke');
+                $(this).parents('.sub-list-items').first().css('border-bottom', '3px solid whitesmoke');
+            });
+
+            dynamic_list.find(add_new_selector).each(function (index, element) {
+                var title = $(this).parents('.sub-list-items-item').first().find('.sub-list-items-item-title').first().find(me.inputs_selector).first().val();
+                title = title ? '(' + title + ')' : '';
+                $(this).attr('title', 'Add New item to ' +
+                    //(title ? title.substring(0, 20) : '') +
+                    ' children');
+                $(this).text($(this).attr('title'));
+            });
+            dynamic_list.find(add_new_selector).unbind('click').click(function (evt) {
+
+                addclick(evt.target);
+            })
+
+            me.e.list.find("[data-dynamiclist-items]").sortable({
+                connectWith: "[data-dynamiclist-items]",
+                update: function (event, ui) {
+                    me.setInput();
+                }
+            }).disableSelection();
+
+
+        }
+
+        var addclick = function (btn) {
+
+            //var parent = $(btn).parents('[data-dynamiclist-items]:first');
+            var tempItem = $(subItemHTML);
+            if ($(btn).parents('[data-dynamiclist-items]').length == limited_level) {
+                tempItem.find('[data-dynamiclist-items]').remove();
+                tempItem.find(openclose_selector).remove();
+            }
+            tempItem.insertBefore($(btn));
+            me.bindEvents();
+            //    if ($('textarea.mini-editor:visible').length > 0)
+            //        $.fi.setupEditor('textarea.mini-editor:visible', null, function () { });
+        }
+
+        add_btns.click(function (evt) {
+            addclick(evt.target);
+        })
+
+        jQuery(document).on('blur', "#" + self.uniqueId + " input,#" + self.uniqueId + " textarea", function () {
+            me.setInput();
+        });
+
+        jQuery(document).on('blur', "#" + self.uniqueId + " select", function () {
+            me.setInput();
+        });
+
+        me.setChildInputs = function (data, list) {
+            data.children = [];
+            for (var i = 0; i < list.length; i++) {
+                var currentItem = $(list[i]);
+                var currentItem_main = $(list[i]).find('>[data-dynamiclist-mainitem]');
+                var currentItem_list = $(list[i]).find('>[data-dynamiclist-items]>[data-dynamiclist-item]');
+
+                var obj = {};
+                if (currentItem_list.length > 0) {
+                    me.setChildInputs(obj, currentItem_list);
+                }
+                $.each(currentItem_main.find(me.inputs_selector), function () {
+                    obj[$(this).attr('data-dynamiclist-name')] = $(this).val();
+                });
+
+                data.children.push(obj)
+            }
+
+        }
+        me.setInput = function () {
+            var itemsElements = dynamic_list.find('.data-set>[data-dynamiclist-items]>[data-dynamiclist-item]');
+            var _list = [];
+            for (var i = 0; i < itemsElements.length; i++) {
+                var currentItem = $(itemsElements[i]);
+                var currentItem_main = $(itemsElements[i]).find('>[data-dynamiclist-mainitem]');
+                var currentItem_list = $(itemsElements[i]).find('>[data-dynamiclist-items]>[data-dynamiclist-item]');
+                var obj = {};
+                if (currentItem_list.length > 0) {
+                    me.setChildInputs(obj, currentItem_list);
+                }
+                $.each(currentItem_main.find(me.inputs_selector), function () {
+                    obj[$(this).attr('data-dynamiclist-name')] = $(this).val();
+                });
+
+                _list.push(obj)
+            }
+
+            me.unbindChange();
+            me.e.val(JSON.stringify(_list));
+            me.bindChange();
+        }
+
+        me.bindsubitems = function (children, parentHtml) {
+            var btn = parentHtml.find('[data-dynamiclist-add=""]')
+
+            for (var i = 0; i < children.length; i++) {
+                var tempItem = $(subItemHTML);
+                if ($(btn).parents('[data-dynamiclist-items]').length == limited_level) {
+                    tempItem.find('[data-dynamiclist-items]').remove();
+                    tempItem.find(openclose_selector).remove();
+                }
+
+                var currentItem = children[i];
+                $.each(currentItem, function (name, val) {
+                    if (name != 'children') {
+                        tempItem.find('>[data-dynamiclist-mainitem] [data-dynamiclist-name="' + name + '"]').val(val);
+                    } else {
+                        if (currentItem.children && currentItem.children.length > 0) {
+                            me.bindsubitems(currentItem.children, tempItem);
+                        }
+                    }
+                });
+                tempItem.insertBefore($(btn));
+            }
+        }
+
+        me.bind = function (data) {
+            me.e.list.find('.data-set>.sub-list-items .sub-list-items-item').remove();
+            var btn = me.e.list.find('.data-set>.sub-list-items [data-dynamiclist-add=""]')
+            if (!data) return;
+            try {
+                data = JSON.parse(data);
+                if (data && data.length > 0) {
+                    for (var i = 0; i < data.length; i++) {
+                        var tempItem = $(subItemHTML);
+                        if ($(btn).parents('[data-dynamiclist-items]').length == limited_level) {
+                            tempItem.find('[data-dynamiclist-items]').remove();
+                            tempItem.find(openclose_selector).remove();
+                        }
+
+                        var currentItem = data[i];
+                        $.each(currentItem, function (name, val) {
+                            if (name != 'children') {
+                                tempItem.find('>[data-dynamiclist-mainitem] [data-dynamiclist-name="' + name + '"]').val(val);
+                            } else {
+                                if (currentItem.children && currentItem.children.length > 0) {
+                                    me.bindsubitems(currentItem.children, tempItem);
+                                }
+                            }
+                        });
+                        tempItem.insertBefore($(btn));
+
+                    }
+                    me.bindEvents();
+
+                }
+
+            } catch (err) { console.log(err); }
+
+        }
+
+
+        me.invokeAction = function (args) {
+            var f = args[0];
+            if (f == 'bind') {
+                me.bind(args[1]);
+            }
+        };
+    };
+    $.fn.dynamicList = function (options) {
+         
+        var args = arguments;
+        
+        //if (!options) options = $(this).data('options');
+        if (typeof ('options') == 'object' || typeof ('options') == 'undefined' || options == null || typeof (options.indexOf) == 'undefined') {
+            var opts = $.extend(true, {}, $.fn.dynamicList.defaults, options);
+            return this.each(function () {
+                var e = $(this);
+                if (e.data('options')) {
+                    opts = $.extend(true, {}, opts, e.data('options'));
+                }
+
+                var obj = new DynamicList(e, opts);
+                e.data('obj', obj);
+            });
+        } else {
+            var result = [];
+            this.each(function () {
+                var e = $(this);
+                var obj = e.data('obj');
+                if (typeof (obj) != 'undefined') {
+                    result.push(obj.invokeAction(args));
+                }
+            });
+            return result;
+        }
+    };
+    $.fn.dynamicList.defaults = {
+
+        dataItemClass: 'data-item',
+        template: '<div class="dynamic-list border">\
+                                    <div class="data-set">\
+                                        <div data-dynamiclist-items="" class="sub-list-items">\
+                                            <a data-dynamiclist-add="" href="javascript:void(0)" path="0" class="add-new">Add New</a>\
+                                        </div>\
+                                    </div>\
+                                </div>',
+        itemTemplate: '<div data-dynamiclist-item="" class="sub-list-items-item">\
+                                        <div data-dynamiclist-mainitem="" class="sub-list-items-item-title">\
+                                            <a href="javascript:void(0)" class="remove" title="Remove"><i class="far fa-trash-alt"></i></a>\
+                                            <a href="javascript:void(0)" class="openclose active" title="Expand / Collapse">--</a>\
+                                            <input data-dynamiclist-name="title" type="text" class="form-control required" placeholder="Node Title"   />\
+                                            <textarea data-dynamiclist-name="text"  class="form-control" placeholder="Node Body"  ></textarea>\
+                                        </div>\
+                                        <div data-dynamiclist-items="" class="sub-list-items">\
+                                            <a data-dynamiclist-add=""  href="javascript:void(0)"  class="add-new">Add New</a>\
+                                        </div>\
+                                    </div>'
+
+
+    };
+
+
+    function dynamicListLoaded(state) {
+        var evt = new CustomEvent('dynamicListLoaded', { detail: state });
+        window.dispatchEvent(evt);
+    };
+    dynamicListLoaded();
+
+})(jQuery);

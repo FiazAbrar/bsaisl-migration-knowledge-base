@@ -1,0 +1,56 @@
+
+const themeMap = {
+		red: "red",
+	gold: "gold",
+  blue: "blue",
+  dark:"dark"
+};
+	
+const theme = localStorage.getItem('theme')
+  || (tmp = Object.keys(themeMap)[0],
+      localStorage.setItem('theme', tmp),
+      tmp);
+const bodyClass = document.body.classList;
+bodyClass.add(theme);
+ 
+function toggleTheme() {
+  const current = localStorage.getItem('theme');
+  const next = themeMap[current];
+
+  bodyClass.replace(current, next);
+  localStorage.setItem('theme', next);
+}
+
+//document.getElementById('themeButton').onclick = toggleTheme;
+
+
+function toggleThemeStyle(themeName) {
+	
+	 document.querySelector("html").style.filter='none'; 
+	 
+	if(themeName=="gold" || themeName=="dark")
+	{
+	 $(".dubai-gov-logo").attr("src", dubaiGovDarkSrc);
+	 $(".dnrd-logo").attr("src", dnrdDarkSrc);
+	}
+else
+{
+	 $(".dubai-gov-logo").attr("src", dubaiGovLightSrc);
+	 $(".dnrd-logo").attr("src", dnrdLightSrc);
+}
+	
+  const current = localStorage.getItem('theme');
+  const next = themeName;
+
+  bodyClass.replace(current, next);
+  localStorage.setItem('theme', next);
+  
+  const currentBtnName = 'btn'+ current.charAt(0).toUpperCase() + current.slice(1);
+  const currentThemeBtn = document.getElementById(currentBtnName);
+  currentThemeBtn.removeAttribute('checked');
+  
+  const nextBtnName = 'btn'+ next.charAt(0).toUpperCase() + next.slice(1);
+  const nextThemeBtn = document.getElementById(nextBtnName);
+  nextThemeBtn.setAttribute('checked', true);
+
+}

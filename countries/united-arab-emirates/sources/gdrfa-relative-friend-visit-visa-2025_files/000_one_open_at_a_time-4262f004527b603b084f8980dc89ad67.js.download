@@ -1,0 +1,9 @@
+document.addEventListener('shown.bs.dropdown', function (e) {
+  const current = e.target;
+  document.querySelectorAll('.gu-menu [data-bs-toggle="dropdown"][aria-expanded="true"]').forEach(btn => {
+    if (btn !== current) {
+      const inst = bootstrap.Dropdown.getOrCreateInstance(btn);
+      inst.hide();
+    }
+  });
+});

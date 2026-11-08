@@ -1,0 +1,224 @@
+### Issuance of the virtual work residence permit
+
+Search in Services
+
+[Start service](https://smart.gdrfad.gov.ae/)
+
+When a foreigner engages in remote work for an organization outside the country, they are given a residence permit for virtual work without a guarantor or host inside the country for a year, subject to renewal.
+
+Service Details
+
+Requirements
+
+1\. A coloured personal photo (compulsory).\
+2\. A copy of the passport of the beneficiary of the service (compulsory).\
+3\. A copy of health insurance (compulsory).\
+4\. The result of the medical fitness test (compulsory).\
+5\. Proof of remote work outside the UAE (compulsory).\
+6\. Salary certificate (\$3,500) or its equivalent in foreign currency (compulsory).\
+7\. ID receipt (compulsory).\
+\
+Please note that the mandatory and optional documents may differ according to the data entered in the application.
+
+Service Steps
+
+Digital channels (website/smart application):\
+1\. Log in to the smart services system through (UAE Pass or username).\
+2\. Search for the service to be applied for.\
+3\. Fill in the application data, where applicable.\
+4\. Pay the service fee (if any).\
+\
+Customer Happiness Centre:\
+1\. Visit the nearest Customer Happiness Centre.\
+2\. Get the automated turn ticket and wait.\
+3\. Submitting the application that fulfils all conditions and documents (if any) to the customer service employee.\
+4\. Pay the service fee (if any).\
+\
+Amer Service Centre:\
+1\. Visit the nearest Amer Service Centre.\
+2\. Get the automated turn ticket and wait.\
+3\. Submitting the application that fulfils all conditions and documents (if any) to the customer service employee.\
+4\. Pay the service fee (if any).
+
+Fees
+
+Residence permit fee: AED200\
+\
+Extra charge :\
+Knowledge Dirham: AED10\
+Innovation Dirham: AED10\
+Fee inside the country: AED500\
+\
+Delivery:\
+AED20\
+\
+Note The issuance fee increases by AED100 for each year whenever the residency is more than two years.
+
+Terms And Conditions
+
+1\. The permit applicant provides proof that the work is being done remotely and with an outside organization.\
+2\. The applicant must provide documentation proving that they make at least \$3,500 (US) per month or the equivalent amount in other currencies.
+
+Service Availability Channels
+
+Digital channels (website/smart application):\
+The service is available 24/7\
+\
+Amer Service Centre:\
+The service is available during the normal operating hours of AMER Centers
+
+Expected Completion Time
+
+48.0 Hour(s)
+
+Additional Information
+
+The grace period to stay inside the country after the expiry of the residence permit or its cancellation is (60) sixty days.
+
+Related Services
+
+Service Centers
+
+[Click here to browse Service Centers List ](#)
+
+Service Centers List
+
+[Close ](#)
+
+Eagle Management Services LLC Dubai Branch
+
+THE CREEK GOVERNMENT TRANSACTIONS
+
+BAB ALFALAH DOCUMENTS CLEARING SERVICES
+
+ONE CLICK GOVERNMENT TRANSACTIONS CENTER
+
+NYPD Typing
+
+.GOOD HAND GOVERNMENT TRANSACTIONS L.L.C
+
+ALTWAR GOVERNMENT SERVICE CENTER
+
+AL NAZIH GOVERNMENT SERVICES
+
+AL HIJRAH BUSINESSMEN SERVICES BR
+
+SMART VISION GOVERNMENT TRANSACTIONS CENTER
+
+DXB BUSINESSMEN SERVICES ( BRANCH )
+
+IDEAL SIGNATURE GOVERNMENT TRANSACTIONS CENTER
+
+A B S GOVERNMENT TRANSACTIONS CENTER
+
+UID SMART SERVICES
+
+GFE DOCUMENTS SERVICES ONE PERSON COMAPNY L.L.C
+
+SMART NT S GOVERNMENT TRANSACTION CENTER
+
+AL TAAMUL AL THAKI GOVERNMENT TANSACTION center
+
+FAST TRACK VISION GOVERNMENT TRANSACTIONS
+
+HI SKY DOCUMENTS CLEARING TYPING FZE
+
+AL MARWA DOCUMNTS CLEARING SERVICES L. L .C
+
+AL QUOZ GOVERNMENT TRANSACTIONS CENTER
+
+EJAD BUSINESSMEN TRANSACTION
+
+DUBAI NATIONAL GOVERNMENT SERVICES
+
+ALYALAYIS GOVERNMENT TANSACTION
+
+ALGARHOUD GOVERNMENT TRANSACTIONS CENTER
+
+ARABIAN BUSINESS CENTRE
+
+ALREAYA GOVERNMENT TRANSACTION CENTER L.L.C( BRANCH)
+
+EPICENTER GOVERNMENT TRANSACTIONS
+
+FIRST TRACK GOVERNMNT TRANSACTIONS
+
+7 MINUTES GOVERNMENT SERVICES
+
+ITQAN SOLUTION GOVERNMENT TRANSACTIONS
+
+FIXIT GOVERNMNT SERVICES
+
+AL TARESH GOVERNMENT SERVICES L.L.C
+
+24 seven government transaction center l l c
+
+HIGH SKY GOVERNMENT SERVICES
+
+ROOH ALETIHAD GOVERNMENT TRANSACTION CENTER L.LC
+
+Express Convey Document Clearing
+
+BAB AL KARAMA GOVERNMENT TRANSACTIONS
+
+TRUE LINK GOVERNMENT TRASACTION CENTER LLC
+
+SMART TRACK GOVERNMENT TRANSACTIONS
+
+GULF VISION GOVERNMENT TRANSACTIONS LLC
+
+QUICK STOP GOVERNMENT TRANSACTIONS CENTER
+
+QUALITY GENERAL SERVICES
+
+ATIS SOLUTION LIMITED - DIFC
+
+ALDEYAFA GOVERNMENT TRANSACTIONS
+
+ALTASAMUH GOVERNMENT TRANSACTION CENTER L.L.C
+
+Ontime Hub Government Services
+
+ALLIED UNIK BUSINESS CENTER
+
+EMIRATES PROFITIONAL BUSINESS CENTRE
+
+TAMAAM GOVERNMENT TRANSACTIONS CLEARING
+
+RELIABLE GOVERNMENT SERVICES LLC
+
+TAREEF SERVICES CENTER L.L.C
+
+M S M E GOVERNMENT TRANSACTIONS
+
+BEST TAWASOL GOVERNMENT SERVICES
+
+TASHEEL GOVERNMENT SERVICES
+
+dawn GOVERNMENT TANSACTION center
+
+KARAMA BUSINESS CENTER
+
+FIRST ONE GOVERNMNT TRANSACTIONS CL
+
+FALCON VISION GOVERNMENT TRANSACTIONS CENTER LLC
+
+AL HIMMA BUSINESSMEN SERVICES
+
+GOLDEN WAY COVERNMAEMT TRANSACTIONS
+
+MAF GOVERNMENT TRANSACTIONS CENTER L.L.C
+
+PRINTS BUSINESS MEN SERVICES L.L.C
+
+AHLAN BUSINESMEN SERVICES
+
+\
+
+Do you find this content helpful?
+
+star rating
+
+Rating 5 Rating 4 Rating 3 Rating 2 Rating 1
+
+[×](#)

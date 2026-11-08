@@ -1,0 +1,159 @@
+$(document).ready(function () {
+  // --- i18n helpers ---
+  const html = document.documentElement;
+  const lang = (html.getAttribute("lang") || "en").toLowerCase();
+  const isAr = lang.startsWith("ar") || html.getAttribute("dir") === "rtl";
+  const nf = new Intl.NumberFormat(isAr ? "ar" : "en");
+
+  const T = {
+    play: () => (isAr ? "تشغيل" : "Play"),
+    pause: () => (isAr ? "إيقاف مؤقت" : "Pause"),
+    next: () => (isAr ? "الشريحة التالية prev" : "Next slide next"),
+    prev: () => (isAr ? "الشريحة السابقة next" : "Previous slide prev"),
+    first: () => (isAr ? "أنت على أول شريحة" : "This is the first slide"),
+    last: () => (isAr ? "أنت على آخر شريحة" : "This is the last slide"),
+  };
+
+  var swiper = new Swiper("#dnrd-home-banner", {
+    a11y: {
+      enabled: true,
+      // Localized messages for SR users
+      nextSlideMessage: T.next(),
+      prevSlideMessage: T.prev(),
+      firstSlideMessage: T.first(),
+      lastSlideMessage: T.last(),
+    },
+
+    autoplay: { delay: 5000, disableOnInteraction: true },
+    effect: "fade",
+
+    pagination: {
+      el: ".h-pagination-banner",
+      clickable: true,
+    },
+
+    navigation: {
+      nextEl: "#dnrd-home-banner .swiper-button-next",
+      prevEl: "#dnrd-home-banner .swiper-button-prev",
+    },
+
+    on: {
+      init: function () {
+        // Ensure nav buttons have proper roles/labels
+        const prevBtn = document.querySelector(
+          "#dnrd-home-banner .swiper-button-prev"
+        );
+        const nextBtn = document.querySelector(
+          "#dnrd-home-banner .swiper-button-next"
+        );
+
+        [prevBtn, nextBtn].forEach((btn) => {
+          if (!btn) return;
+          btn.setAttribute("tabindex", "0");
+          btn.setAttribute(
+            "aria-label",
+            btn.classList.contains("swiper-button-next") ? T.next() : T.prev()
+          );
+        });
+
+        // Initial background
+        const activeSlide = document.querySelector(".swiper-slide-active");
+        const bgSrc = activeSlide?.dataset?.bg;
+        if (bgSrc) {
+          document
+            .querySelector(".gdrfa-banner")
+            ?.style.setProperty(
+              "background",
+              `url('${bgSrc}') center center / cover no-repeat`,
+              "important"
+            );
+        }
+      },
+
+      slideChangeTransitionEnd: function () {
+        const swiperInstance = this;
+
+        // Update background
+        const activeSlide = document.querySelector(".swiper-slide-active");
+        const bgSrc = activeSlide?.dataset?.bg;
+        if (bgSrc) {
+          document
+            .querySelector(".gdrfa-banner")
+            ?.style.setProperty(
+              "background",
+              `url('${bgSrc}') center center / cover no-repeat`,
+              "important"
+            );
+        }
+
+        // Toggle nav disabled state (and expose via ARIA)
+        const prevBtn = document.querySelector(
+          "#dnrd-home-banner .swiper-button-prev"
+        );
+        const nextBtn = document.querySelector(
+          "#dnrd-home-banner .swiper-button-next"
+        );
+
+        if (swiperInstance.isBeginning) {
+          prevBtn?.classList.add("swiper-button-disabled");
+          prevBtn?.removeAttribute("aria-disabled", "true");
+        } else {
+          prevBtn?.classList.remove("swiper-button-disabled");
+          prevBtn?.removeAttribute("aria-disabled");
+        }
+
+        if (swiperInstance.isEnd) {
+          nextBtn?.classList.add("swiper-button-disabled");
+          nextBtn?.removeAttribute("aria-disabled", "true");
+        } else {
+          nextBtn?.classList.remove("swiper-button-disabled");
+          nextBtn?.removeAttribute("aria-disabled");
+        }
+      },
+    },
+  });
+
+  // Localized Play/Pause button
+  $("#swiperPlayButton")
+    .off("click")
+    .on("click", function () {
+      var MySwiper = document.getElementById("dnrd-home-banner").swiper;
+      const $iconPlay = $(".icon-play");
+      const $iconLottie = $(".icon-lottie");
+
+      if ($("i", this).hasClass("icon-play d-none")) {
+        MySwiper.autoplay.stop();
+        $(this).attr({ "aria-label": T.play(), title: T.play() });
+        $iconPlay.removeClass("d-none");
+        $iconLottie.addClass("d-none");
+      } else {
+        MySwiper.autoplay.start();
+        $(this).attr({ "aria-label": T.pause(), title: T.pause() });
+        $iconPlay.addClass("d-none");
+        $iconLottie.removeClass("d-none");
+      }
+    });
+
+  // Your menu/device scripts unchanged…
+  $("#navbarToggler, #navbarToggler2").click(function () {
+    $("body").toggleClass("menu-open");
+  });
+  window.addEventListener("hashchange", function () {
+    $("body").removeClass("menu-open");
+  });
+  (function () {
+    function updateDeviceClass() {
+    	const isMobileUA = /Mobi|Andriod|iPhine/i.test(navigator.userAgent);
+    	const isIpad =
+navigator.platform.includes("iPad") ||
+(navigator.userAgent.includes("Mac") && "ontouchend" in document);
+     document.body.classList.remove("is-mobile", "is-tablet", "is-desktop");
+      if (isMobileUA) document.body.classList.add("is-mobile");
+      else if (isIpad) document.body.classList.add("is-tablet");
+      else document.body.classList.add("is-desktop");
+    }
+    updateDeviceClass();
+    window.addEventListener("resize", updateDeviceClass);
+  })();
+
+});

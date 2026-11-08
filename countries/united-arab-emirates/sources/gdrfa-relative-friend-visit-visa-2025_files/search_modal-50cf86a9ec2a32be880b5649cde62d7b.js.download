@@ -1,0 +1,285 @@
+$(window).on('load', function(){ 
+
+var url1 = document.location.href;
+//search api 
+
+ if (url1.includes("/search-website")) 
+    {        
+    $("#views-exposed-form-search-website-page-1 .form-item-search-api-fulltext").addClass("lbl-cs");  
+		$('#views-exposed-form-search-website-page-1 .form--inline').removeClass('d-flex') 
+		$('#views-exposed-form-search-website-page-1 .form-actions').addClass('btn-flex');
+    $("#views-exposed-form-search-website-page-1 legend").addClass("legend-title"); 
+    $(".lbl-cs").after("<div class='alert-box'><span  id='lblError' class='label label-important alert-msg'> </span></div>");    
+		$('#block-facetsearch h2').hide();
+		$('.facet-item').addClass('card p-3');
+		$('.view-search-website .view-header').addClass('text-end');
+		$(".lbl-cs label").addClass('visually-hidden');
+    
+    /*sort_list_id  = "edit-sort-by";
+    $(".block-search-api-sorts-blockviews-pagesearch-website__page-1 h2").replaceWith(function () {
+        return "<label for="+'"'+sort_list_id+'"'+">"+$(this).html()+" </label>"    
+       });
+       
+    $(".block block-search-api-sorts label").replaceWith(function () {
+        return "<span>" + $(this).html() + "</span>";       
+        //return "<label for="+'"'+sort_list_id+'"'+">"+$(this).html()+" </label>"    
+       });*/
+       
+        if (currentLanguage == "en") 
+          {
+            txtinput = "Enter your keywords : ";
+          } 
+          else 
+          {
+            txtinput = " البحث عن : ";
+          }
+        $(".lbl-cs label").html(txtinput);     
+    }
+    else
+    {        
+        $("#views-exposed-form-search-website-page-1 .form-item-search-api-fulltext").addClass("lbl-cs");  
+				$("#views-exposed-form-search-website-page-1 .fieldgroup ").addClass("gdrfa-option"); 
+        $("#views-exposed-form-search-website-page-1 .fieldgroup ").addClass("option-align"); 
+        $("#views-exposed-form-search-website-page-1 legend").addClass("legend-title"); 
+        $(".lbl-cs").after("<div class='alert-box'><span  id='lblError' class='label label-important alert-msg'> </span></div>");    
+				$('#block-facetsearch h2').hide();
+				$('.facet-item').addClass('card p-3');
+				$('.view-search-website .view-header').addClass('text-end');
+				$('#views-exposed-form-search-website-page-1 .form-actions').addClass('btn-flex');
+
+        if (currentLanguage == "en") 
+          {
+            txtinput = "Enter your keywords : ";
+          } 
+          else 
+          {
+            txtinput = " البحث عن : ";
+          }
+        $(".lbl-cs label").html(txtinput);
+		  	$(".lbl-cs label").addClass('visually-hidden');
+  	  	$(".form-submit").addClass("btn");  
+    }//end search api
+
+});
+
+		$(function () {
+         $("input[name=search_api_fulltext]").keypress(function (e) {
+            var keyCode = e.keyCode || e.which;
+            
+             // Allow Enter key (submit/search)
+    if (keyCode === 13) {
+      return true;
+    }
+
+ 
+            $("#lblError").html("");
+ 
+            //Regex for Valid Characters i.e. Alphabets (English and Arabic).
+            		var regex = /^([\u0600-\u06FF a-zA-Z' ]+)$/;
+            	
+            //Validate TextBox value against the Regex.
+            var isValid = regex.test(String.fromCharCode(keyCode));
+            if (!isValid) {
+            	
+            	var err_msg;
+            	if (currentLanguage == "en") 
+            		{err_msg = 'Enter valid text for Search, Only letters are allowed';}
+            	else
+            		{err_msg = 'أدخل نصا صالحا للبحث ، يسمح فقط بالأحرف'};
+                
+                $("#lblError").html(err_msg);
+            }
+            else
+            {$("#lblError").html("");}
+ 
+            return isValid;
+        });
+    });
+ 
+
+$('*[data-bs-target="#modalSearch"]').on('click', (event) => {
+//	$('#edit-search-api-fulltext').focus();
+	setTimeout(()=> { $('input[name="search_api_fulltext"').focus() }, 100)
+
+}); 
+
+  $(".srch").click(function () {
+    $(".button.js-form-submit.form-submit").eq(0).attr("id", "srchbtn");
+    $("#srchbtn").addClass("btn");
+		$( "input[name*='search_api_fulltext']" ).attr('autocomplete', 'on');	
+		$('#block-facetsearch h2').hide();
+    $(".form-search").eq(0).attr("id", "txtsrch");
+		$('.facet-item').addClass('card p-3');
+		$('.view-search-website .view-header').addClass('text-end');
+  });
+  
+  
+  /*  Search in services script */
+  
+    $("#services-search").attr('action', 'javaScript: preventsubmit()');
+	
+	function preventsubmit(){
+    return false;
+}
+
+  const texts = [];
+
+  
+  if (currentLanguage == "en"){
+	  texts[0] = 'New Entry Permit for Green Residence';
+	  texts[1] ='Entry Permit Services';
+  }
+  else {
+	  texts[0] = 'إصدار إذن دخول للإقامة الخضراء';
+	  texts[1] ='خدمات أذونات الدخول';
+  }
+  
+const input = $('#edit-services');
+
+const animationWorker = function (input, texts) {
+  this.input = input;
+  this.defaultPlaceholder = this.input.attr('placeholder');
+  this.texts = texts;
+  this.curTextNum = 0;
+  this.curPlaceholder = '';
+  this.blinkCounter = 0;
+  this.animationFrameId = 0;
+  this.animationActive = false;
+  this.input.attr('placeholder',this.curPlaceholder);
+
+  this.switch = (timeout) => {
+    this.input.addClass('imitatefocus');
+    setTimeout(
+      () => { 
+        this.input.removeClass('imitatefocus');
+        if (this.curTextNum == 0) 
+          this.input.attr('placeholder',this.defaultPlaceholder);
+        else
+          this.input.attr('placeholder',this.curPlaceholder);
+
+        setTimeout(
+          () => { 
+            this.input.attr('placeholder',this.curPlaceholder);
+            if(this.animationActive) 
+              this.animationFrameId = window.requestAnimationFrame(this.animate)}, 
+          timeout);
+      }, 
+      timeout);
+  }
+
+  this.animate = () => {
+    if(!this.animationActive) return;
+    let curPlaceholderFullText = this.texts[this.curTextNum];
+    let timeout = 300;
+    if (this.curPlaceholder == curPlaceholderFullText+'|' && this.blinkCounter==2) {
+      this.blinkCounter = 0;
+      this.curTextNum = (this.curTextNum >= this.texts.length-1)? 0 : this.curTextNum+1;
+      this.curPlaceholder = '|';
+      this.switch(3000);
+      return;
+    }
+    else if (this.curPlaceholder == curPlaceholderFullText+'|' && this.blinkCounter<3) {
+      this.curPlaceholder = curPlaceholderFullText;
+      this.blinkCounter++;
+    }
+    else if (this.curPlaceholder == curPlaceholderFullText && this.blinkCounter<3) {
+      this.curPlaceholder = this.curPlaceholder+'|';
+    }
+    else {
+      this.curPlaceholder = curPlaceholderFullText
+        .split('')
+        .slice(0,this.curPlaceholder.length+1)
+        .join('') + '|';
+      timeout = 50;
+    }
+    this.input.attr('placeholder',this.curPlaceholder);
+    setTimeout(
+      () => { if(this.animationActive) this.animationFrameId = window.requestAnimationFrame(this.animate)}, 
+      timeout);
+  }
+
+  this.stop = () => {
+    this.animationActive = false;
+    window.cancelAnimationFrame(this.animationFrameId);
+  }
+
+  this.start = () => {
+    this.animationActive = true;
+    this.animationFrameId = window.requestAnimationFrame(this.animate);
+    return this;
+  }
+}
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  let aw = new animationWorker(input, texts).start();
+  input.focus(function() { (e) => aw.stop()});
+    input.blur(function() { (e) => {
+    aw = new animationWorker(input, texts);
+    if(e.target.value == '') setTimeout( aw.start, 2000);
+	}});
+
+});
+
+
+
+window.addEventListener('DOMContentLoaded', function() {
+  $(".srch").click(function(){
+    const textsrch = [];
+
+    const inputsrch = $('input[name=search_api_fulltext]');
+  
+    if (currentLanguage == "en"){
+      textsrch[0] = 'What are you searching for..';	
+    }
+    else {
+      textsrch[0] = 'ما الذي تبحث عنه..';
+    }
+  
+    //if ($('#modalSearch').is(":visible"))
+    //{
+        let awsrch = new animationWorker(inputsrch, textsrch).start();
+        inputsrch.focus(function() { (e) => awsrch.stop()});
+        inputsrch.blur(function() { (e) => {
+            awsrch = new animationWorker(inputsrch, textsrch);
+          if(e.target.value == '') setTimeout( awsrch.start, 2000);
+          
+        }});
+    //}
+    });
+  });
+
+
+  /* Search in services script */
+ 
+  document.addEventListener('DOMContentLoaded', function () {
+  const searchModal = document.getElementById('modalSearch');
+
+  if (!searchModal) {
+    return;
+  }
+
+  const searchInput = searchModal.querySelector('input[name="search_api_fulltext"]');
+  const clearButton = searchModal.querySelector('.gdrfa-search-clear-icon');
+
+  if (!searchInput || !clearButton) {
+    return;
+  }
+
+  const updateClearButton = function () {
+    clearButton.hidden = searchInput.value.length === 0;
+  };
+
+  searchInput.addEventListener('input', updateClearButton);
+  clearButton.addEventListener('click', function () {
+    searchInput.value = '';
+    searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+    searchInput.dispatchEvent(new Event('change', { bubbles: true }));
+    searchInput.focus();
+  });
+
+  updateClearButton();
+});
+
+  

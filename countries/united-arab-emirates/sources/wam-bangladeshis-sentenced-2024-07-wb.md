@@ -1,0 +1,21 @@
+# Three life imprisonment, 54 imprisonment, deportation sentences issued against Bangladeshi nationals for 'unlawful assembly'
+
+Friday, 26 December 2025 \| 2 minutes read
+
+![Three life imprisonment, 54 imprisonment, deportation sentences issued against Bangladeshi nationals for 'unlawful assembly'](https://assets.wam.ae/resource/ohw05oc81k8163lpd.jpeg)
+
+ABU DHABI, 22nd July, 2024 (WAM) -- The Abu Dhabi Federal Court of Appeal on Sunday sentenced 57 Bangladeshi nationals, who gathered and incited riots in several streets across the UAE on Friday.
+
+The court sentenced three of the accused to life imprisonment for calling for demonstrations and inciting riots to pressure their home government. Another 53 defendants received ten-year prison terms, with one, who entered the country illegally and participated in the riot, being sentenced to eleven years.
+
+The court also ordered their deportation at the end of their prison terms and the confiscation of all seized devices.
+
+On Friday, Chancellor Dr. Hamad Saif Al Shamsi, UAE Attorney-General, had ordered an immediate investigation into the arrested Bangladeshi nationals for unlawful assembly and inciting riots in several streets across the UAE.
+
+The defendants were brought to trial after an investigation led by a team of 30 investigators confirmed their involvement in gathering in public, inciting unrest, disrupting public security, and promoting such gatherings and protests, including recording and disseminating audiovisual footage of these actions online. Several of the defendants confessed to the crimes with which they were accused.
+
+During the trial, covered by the media, the Public Prosecution demanded the maximum penalty for the accused.
+
+The court heard a witness who confirmed that the defendants gathered and organised large-scale marches in several streets of the UAE in protest against decisions made by the Bangladeshi government. This led to riots, disruption of public security, obstruction of law enforcement, and endangerment of public and private property. The police had warned the protesters, ordering them to disperse, to which they were unresponsive.
+
+The court-appointed defence lawyer argued that there the gathering had no criminal intent and that the evidence was insufficient, demanding the acquittal of the defendants. However, the court found sufficient evidence of their guilt and convicted them accordingly.

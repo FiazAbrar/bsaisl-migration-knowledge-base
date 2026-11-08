@@ -1,0 +1,110 @@
+.gdrfa-most-visited-Widgets {
+    display: flex;
+    width: -webkit-fill-available;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: var(--gap-gap-xxl, 32px);
+    flex-wrap: wrap;
+}
+
+.gdrfa-most-visited-card-container {
+    display: flex;
+    flex: 1;
+    min-width: 320px;
+   /* min-height: 320px;*/
+    padding: var(--padding-padding-xl, 24px);
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-gap-lg, 16px);
+    flex-shrink: 0;
+    border-radius: var(--radius-md, 16px);
+    border: 1px solid var(--surface-outline, #E4E2E6);
+    background: var(--surface-surface, #FFF);
+
+    /* Shadow/XSM */
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.04);
+}
+
+.gdrfa-Chips {
+    display: flex;
+    height: 24px;
+    max-height: 24px;
+    padding: 0px var(--padding-padding-sm, 8px);
+    align-items: center;
+    gap: var(--gap-gap-xs, 4px);
+    border-radius: var(--radius-pill, 999px);
+    background: var(--primary-primary-variant, #E7F2FE);
+}
+
+.gdrfa-Chips-badge {
+    color: var(--primary-on-primary-variant, #1E4B6A);
+    font-size: var(--font-size-caption, 14px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--line-height-caption, 20px);
+    /* 142.857% */
+    letter-spacing: 0.14px;
+}
+
+.gdrfa-Chips-Text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-gap-sm, 8px);
+    flex: 1 0 0;
+    align-self: stretch;
+    min-height: 56px;
+}
+
+.Chips-Text-heading {
+    color: var(--surface-on-surface, #000);
+
+    /* H6/Medium */
+    font-size: var(--font-size-h6, 20px);
+    font-style: normal;
+    font-weight: 500;
+    line-height: var(--line-height-h6, 28px);
+    /* 140% */
+}
+
+.gdrfa-arrow-button-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    justify-content: flex-end;
+}
+
+.gdrfa-arrow-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--radius-xs, 8px);
+}
+
+.gdrfa-arrow-button-container {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--radius-xs, 8px);
+    border: 1px solid var(--surface-outline, #E4E2E6);
+    background: var(--surface-surface, #FFF);
+}
+
+
+/* MD: 1 Card */
+@media (min-width: 641px) and (max-width: 768px) {
+    .gdrfa-Chips-Text-container {
+        min-height: 24px;
+    }
+}
+
+/* SM: 1 Card */
+@media (max-width: 640px) {
+    .gdrfa-Chips-Text-container {
+        min-height: 24px;
+    }
+
+}

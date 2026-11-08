@@ -1,0 +1,92 @@
+Announcement:
+
+Important Notice: Our phone number +971 4 549 1200 will be unavailable shortly. For any queries or assistance, please contact us at: +971 4 288 0190 or +971 50 729 2294. We apologize for any inconvenience and appreciate your understanding.
+
+**We value your privacy** We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic.\
+By clicking " Accept All " you consent to our use of cookies. [Cookie Policy](cookie_policy.php)
+
+Loading...
+
+No.3, Reem Residency, Plot No. P-592 (318-162) Dubai, UAE
+
+Mon - Fri : 08.00 AM - 05.00 PM
+
++971 4 288 0190
+
+\
+\
+
+![](img/about.jpg)
+
+#### 
+
+Welcome Birth Registration Services for Bangladeshi citizen in Dubai & Northern Emirates!
+
+###### Birth Registration Service(s)
+
+- New Registration
+- Correction
+- Re-issue Birth Certificate
+
+###### Checklist:
+
+- Copy of Passport / Medical Certificate (Newborn Baby)
+- Parent’s Birth Certificate (Must be available online in both Bangla and English)
+- Parent’s Passport copy
+- Emirates ID or Visa copy
+- For Tourist (visa copy or Arrival Stamp)
+- For the correction of BRC, signatures on the commitment letter are required.
+
+\
+
+To ensure accurate and up-to-date records our centre provides comprehensive Bangladeshi citizen Birth Registration Services, includes easy processing of new registrations, corrections and re-issuance of certificates.
+
+[**Click here**](app_process.php) to learn about the application process
+
+\
+
+| **BIRTH REGISTRATION FEES (AED)** |  |  |  |  |
+|----|:---|----|----|----|
+| SL | Description | Fee | VAT | Total |
+| 1 | Government fees (Within 45 days) | Nil | \- | \- |
+| 2 | Government fees (After 45 days) | 10.00 | \- | 10.00 |
+| 3 | Service Charge | 30.00 | 1.50 | 31.50 |
+| 4 | Additional Charges | To see, [**click here**](additional_charges.php) |  |  |
+
+*_(\* Government fees and service charges are changable without notice)*
+
+*_(\*\* Condition apply)*
+
+##### Address
+
+No.3, Reem Residency, Umm Hurair, Al Karama Plot No. P-592 (318-162), Dubai, United Arab Emirates
+
++971 4 288 0190
+
+info@foshwaglobal.ae
+
+##### Quick Links
+
+[Passport Services](passport.php) [Visa Services](visa.php) [Birth Registration](BRS.php) [Attestation Services](attestation.php) [WEWB Membership Card](pkc.php) [Tracking](tracking.php) [Visa Checklist](visa_checklist.php) [Notice](notice.php) [Privacy Policy](privacy-policy.php)
+
+##### Picture Gallery
+
+![](img/gallery-1.jpg)
+
+![](img/gallery-2.jpg)
+
+![](img/gallery-3.jpg)
+
+![](img/gallery-4.jpg)
+
+![](img/gallery-5.jpg)
+
+![](img/gallery-6.jpg)
+
+##### Video Gallery
+
+© [Bangladesh Passport & Consular Service Centre, Dubai, United Arab Emirates](#) All Right Reserved.
+
+Developed By [Foshwa Global](https://www.foshwaglobal.ae)
+
+[](#)

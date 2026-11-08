@@ -1,0 +1,68 @@
+  document.addEventListener('DOMContentLoaded', function () {
+  	
+
+
+  	
+    if (typeof bootstrap === "undefined") {
+      // console.error("Bootstrap JS not loaded!");
+      return;
+    }
+
+    var toggles = document.querySelectorAll('.navbar-nav .nav-item.dropdown > .nav-link.no-caret');
+    toggles.forEach(function (toggle) {
+      var parent = toggle.closest('.dropdown');
+      var menu   = parent ? parent.querySelector('.dropdown-menu') : null;
+      if (!menu) {
+      	 console.log('no menu!');
+      	return;
+}
+      var dd = bootstrap.Dropdown.getOrCreateInstance(toggle, { autoClose: 'outside'});
+
+      toggle.addEventListener('click', function (e) { e.preventDefault(); });
+
+      toggle.addEventListener('keydown', function (e) {
+        var openKeys = ['Enter', ' ', 'Spacebar', 'ArrowDown'];
+        if (openKeys.indexOf(e.key) !== -1) {
+          e.preventDefault();
+          dd.show();
+          toggle.setAttribute('aria-expanded', 'true');
+          var firstItem = menu.querySelector('.dropdown-item:not([disabled])');
+          if (firstItem) firstItem.focus();
+        } else if (e.key === 'Escape' || e.key === 'Esc') {
+          dd.hide();
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.focus();
+        }
+      });
+
+      var closeIfFocusOutside = function () {
+        setTimeout(function () {
+          var active = document.activeElement;
+          if (!parent.contains(active)) {
+            dd.hide();
+            toggle.setAttribute('aria-expanded', 'false');
+                  	      	 console.log('focus should be off 1!');
+
+          }
+        }, 10);
+      };
+
+      toggle.addEventListener('blur', closeIfFocusOutside);
+      menu.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' || e.key === 'Esc') {
+          e.preventDefault();
+          dd.hide();
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.focus();
+                	      	 console.log('focus should be off 2!');
+                	      	 
+           
+
+        }
+      });
+      
+      menu.addEventListener('focusout', closeIfFocusOutside);
+    });
+    
+    
+  });

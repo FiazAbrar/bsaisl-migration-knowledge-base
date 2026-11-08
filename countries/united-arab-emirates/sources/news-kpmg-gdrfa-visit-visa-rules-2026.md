@@ -1,0 +1,132 @@
+------------------------------------------------------------------------
+
+The General Directorate of Identity and Foreigners Affairs – Dubai (GDRFA Dubai) has clarified requirements for UAE visit visas for relatives and friends, including sponsorship salary thresholds, visa duration options, documentation, fees, and application channels. The rules affect UAE residents seeking to sponsor family members, relatives, or friends for short-term visits of up to 120 days per year.¹
+
+------------------------------------------------------------------------
+
+### WHY THIS MATTERS
+
+The clarification is relevant for global mobility, HR, and immigration teams supporting UAE-based employees who may wish to sponsor relatives or friends for short-term visits. The rules may affect eligibility assessments, document-gathering timelines, employee communications, and the overall cost of arranging personal visits connected to assignments or relocations. As the sponsor’s minimum salary requirement varies by relationship category, employees may need to confirm their eligibility and gather supporting evidence before applying.
+
+------------------------------------------------------------------------
+
+## Key Highlights
+
+- **Visa types and duration**: Applicants may choose single-entry or multiple-entry visit visas valid for 30, 60, or 90 days. A single-entry visa permits one visit during the approved period, while a multiple-entry visa allows the visitor to enter and leave the UAE multiple times during the visa validity period.
+- **Permitted stay and extensions**: The scheme allows visits of up to 120 days per year. Visitors may extend their stay from within the UAE, subject to approval and compliance with applicable regulations.
+- **Sponsor salary thresholds**: Residents sponsoring first-degree relatives, including parents, spouses, and children, are expected to earn at least AED 4,000 per month. Sponsoring second- and third-degree relatives, such as siblings, grandparents, grandchildren, uncles, aunts, and cousins, requires a minimum monthly salary of AED 8,000. Residents sponsoring a friend are expected to have a monthly salary of at least AED 15,000.
+- **Sponsor eligibility and income evidence**: Sponsors are required to hold a valid UAE residence visa and Emirates ID. Income may be verified through a salary certificate, an attested labor contract, or partnership documents for business owners.
+- **Required documents**: Applicants are required to submit the sponsor’s Emirates ID and passport copy, the visitor’s passport copy and recent photograph, proof of income, proof of accommodation, and attested marriage, birth, or family relationship certificates, where applicable. The visitor’s passport is expected to be valid for at least six months from the date of application.
+- **Fees and refundable deposits**: Single-entry visit visa fees start at AED 200 for 30 days, AED 300 for 60 days, and AED 400 for 90 days. Multiple-entry visa fees are AED 300 for 30 days, AED 500 for 60 days, and AED 700 for 90 days. These fees exclude value-added tax (VAT), medical insurance, and other applicable service charges. A refundable security deposit of AED 1,000 applies for single-entry visas, while multiple-entry visas require a refundable financial guarantee of AED 2,000.
+- **Application channels and processing**: Dubai residence visa holders may apply through the GDRFA Dubai Smart Services platform, the GDRFA mobile application, Amer centers, or Customer Happiness Centers. Online applications may also be completed using UAE Pass.
+
+------------------------------------------------------------------------
+
+### KPMG INSIGHTS
+
+In light of the change, employers and mobility teams might wish to consider:
+
+- Employers may review UAE mobility or relocation guidance to reflect the clarified salary thresholds, relationship categories, documentation requirements, and refundable deposit amounts.
+- Employers could identify whether employees on assignment in Dubai are likely to need support understanding the distinction between single-entry and multiple-entry visit visa options.
+- HR and mobility teams may remind employees that application costs may include visa fees, VAT, medical insurance, service charges, and refundable deposits.
+- Employees may verify the validity of their UAE residence visa and Emirates ID, the visitor’s passport validity, and the availability of relationship or accommodation documents before applying.
+
+If assignees and/or their programme managers have any questions or concerns about the scope of the directive, its application and potential impacts, and appropriate next steps, they should consult with their qualified immigration professional or a member of the GMS/People Services team with KPMG in the Lower Gulf (see the Contacts section).
+
+------------------------------------------------------------------------
+
+###### ENDNOTE:
+
+1  Gulf News website, “GDRFA clarifies visit visa rules for relatives and friends,” published on 17 July 2026.
+
+### Contacts
+
+![Samar Abdelrahman](https://assets.kpmg.com/is/image/kpmgcloud/samar-abdelrahman:cq5dam-web-320-320?wid=160&hei=160)
+
+[](/xx/en/contacts/a/samar-abdelrahman.html)
+
+###### Samar Abdelrahman
+
+Associate Director
+
+KPMG in the United Arab Emirates
+
+- [mail](#)
+- [call](tel:+971%2044%20030%20301)
+
+![Pranav Shah](https://assets.kpmg.com/is/image/kpmgcloud/pranav-shah:cq5dam-web-320-320?wid=160&hei=160)
+
+###### Pranav Shah
+
+Director
+
+KPMG in the United Arab Emirates
+
+- [mail](#)
+- [call](tel:+97143569866)
+
+### More Information
+
+![pdf](/content/dam/kpmgsites/xx/pdf/2026/08/fa26-210.pdf/_jcr_content/renditions/cq5dam.thumbnail.140.100.png)
+
+### Download PDF
+
+Download and save the PDF version of this *GMS Flash Alert*.
+
+[Download](/content/dam/kpmgsites/xx/pdf/2026/08/fa26-210.pdf.coredownload.pdf)
+
+### [Subscribe to GMS Flash Alert](https://kpmg.com/us/en/tax-news-publications.html#gms)
+
+*GMS Flash Alert* reports on recent global mobility-themed developments from around the world to help you better understand what has changed and what that means for you.
+
+[Subscribe now](https://kpmg.com/us/en/tax-news-publications.html#gms)
+
+###### Explore all GMS Flash Alert Topics
+
+- [Digital Nomads and Remote Work](/xx/en/our-insights/gms-flash-alert/flash-alert-digital-nomad.html)
+
+- [Employment Law](/xx/en/our-insights/gms-flash-alert/flash-alert-employment-law.html)
+
+- [Global Compensation](/xx/en/our-insights/gms-flash-alert/flash-alert-compensation-benefits.html)
+
+- [Immigration](/xx/en/our-insights/gms-flash-alert/flash-alert-immigration.html)
+
+- [Posted Workers](/xx/en/our-insights/gms-flash-alert/flash-alert-posted-worker.html)
+
+- [Social Security](/xx/en/our-insights/gms-flash-alert/flash-alert-social-security.html)
+
+- [Tax](/xx/en/our-insights/gms-flash-alert/flash-alert-tax.html)
+
+- [Treaties](/xx/en/our-insights/gms-flash-alert/flash-alert-treaties.html)
+
+###### Explore GMS Flash Alert Newsletters & Trackers
+
+- [Digital Nomad Remote Work Tracker](/content/dam/kpmgsites/xx/pdf/2022/09/GMS-DigitalNomad-RemoteWork-TrackerMap.pdf.coredownload.inline.pdf)
+
+- [EU Posted Worker Directive Quarterly](https://kpmg.com/xx/en/our-insights/gms-flash-alert/gms-posted-worker-quarterly.html)
+
+- [Immigration News Highlights](https://kpmg.com/xx/en/our-insights/gms-flash-alert/gms-immigration-news-highlights.html)
+
+- [Middle East Immigration Tracker](/content/dam/kpmgsites/xx/pdf/2026/03/middleeast-immigration-tracker.pdf.coredownload.inline.pdf)
+
+- [Ukrainian Immigration News Tracker](/content/dam/kpmgsites/xx/pdf/2022/03/ukraine-immigration-news-updates.pdf.coredownload.inline.pdf.coredownload.inline.pdf)
+
+------------------------------------------------------------------------
+
+#### GMS Flash Alert
+
+Shedding light on evolving policies affecting international assignees and employers, helping make sense of it all.
+
+[Visit GMS Flash Alert home](/xx/en/our-insights/gms-flash-alert.html)
+
+![alt](https://assets.kpmg.com/is/image/kpmgcloud/blue-and-violet-connected-dots-abstract:cq5dam-web-1976-878?wid=360&hei=264)
+
+###### Disclaimer
+
+*\* Please note the KPMG International member firm in the United States does not provide immigration or labour law services. However, KPMG Law LLP in Canada can assist clients with U.S. immigration matters.*
+
+The information contained in this newsletter was submitted by the KPMG International member firm in the United Arab Emirates.
+
+*GMS Flash Alert *is a Global Mobility Services publication of the KPMG LLP Washington National Tax practice. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization. KPMG International Limited is a private English company limited by guarantee and does not provide services to clients. No member firm has any authority to obligate or bind KPMG International or any other member firm vis-à-vis third parties, nor does KPMG International have any such authority to obligate or bind any member firm. The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+
+© 2026 KPMG Lower Gulf Limited, KPMG LLP and KPMG LLC, licensed in the United Arab Emirates and the Sultanate of Oman, and member firms of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.

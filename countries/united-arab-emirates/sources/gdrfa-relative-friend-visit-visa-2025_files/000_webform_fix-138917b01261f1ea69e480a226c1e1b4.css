@@ -1,0 +1,85 @@
+/*Pattern Validation Inline Error*/
+.webform-submission-form label[id$="-error"] {
+  font-weight: 600 !important;
+  border: none !important;
+}
+
+/*progress title color in webform progress sortsite issue */
+.webform-progress-tracker .progress-step .progress-text {
+  color: rgb(33 37 41);
+}
+
+/*webform dark mode fix*/
+.dark .webform-progress-tracker .progress-step.is-active .progress-text,
+.dark .webform-progress-tracker .progress-step.is-complete .progress-text {
+  color: white;
+}
+
+.dark .webform-progress-tracker .progress-step .progress-text {
+  color: #a8a8a8;
+}
+.dark .webform-progress-tracker .progress-title[role="link"] {
+  color: white;
+}
+
+.dark
+  .webform-progress-tracker
+  .progress-step.is-active:hover
+  .progress-marker::before,
+.dark
+  .webform-progress-tracker
+  .progress-step.is-complete:hover
+  .progress-marker[role="link"]:before,
+.dark .progress-step.is-active .progress-marker::before {
+  background-color: white;
+  color: black;
+}
+
+@media screen and (max-width: 700px) {
+  .modal-popup {
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  .option-align {
+    display: inline-grid;
+  }
+}
+
+
+/*webform button location fix*/
+[dir="rtl"] input.webform-button--next,
+[dir="rtl"] input.webform-button--submit {
+  float: left;
+}
+
+input.webform-button--next,
+input.webform-button--submit {
+  float: right;
+}
+
+
+/* webform progress-bar dark mode fix */
+.dark .progress-bar.progress-bar-striped.progress-bar-animated.bg-danger {
+  background-color: black !important;
+}
+/* webform progress-bar dark mode fix */
+
+.webform-options-display-buttons-label {
+  color: var(--text-body) !important;
+  background-color: var(--bg-body) !important;
+}
+
+.webform-options-display-buttons
+  input:checked
+  + label.webform-options-display-buttons-label {
+  border-color: var(--text-body) !important;
+  color: var(--bg-body) !important;
+  background-color: var(--text-body) !important;
+}
+.dark
+  .webform-options-display-buttons
+  input:checked:focus
+  + label.webform-options-display-buttons-label {
+  box-shadow: 0 0 5px #fff !important;
+}

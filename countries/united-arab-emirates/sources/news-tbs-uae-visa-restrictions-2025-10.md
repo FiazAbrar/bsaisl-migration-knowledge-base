@@ -1,0 +1,224 @@
+How UAE's visa 'restrictions' hit Bangladesh labour market
+
+## [Bangladesh](/bangladesh)
+
+**[Kamran Siddiqui](/author/kamran-siddiqui)**
+
+12 October, 2025, 07:10 am
+
+Last modified: 12 October, 2025, 10:29 am
+
+## Related News
+
+- [Foreign adviser flags visa challenges, says Bangladeshis partly responsible](/bangladesh/foreign-adviser-flags-visa-challenges-says-bangladeshis-partly-responsible-1256131)
+- [Body of Abdul Hamid, a July Uprising protester, returns home from UAE prison](/bangladesh/body-abdul-hamid-july-uprising-protester-returns-home-uae-prison-1257336)
+
+# How UAE's visa 'restrictions' hit Bangladesh labour market
+
+## The bottleneck began after 5 August 2024, when political developments in Bangladesh reportedly prompted the UAE to impose unofficial restrictions on visas for Bangladeshi nationals
+
+**[Kamran Siddiqui](/author/kamran-siddiqui)**
+
+12 October, 2025, 07:10 am
+
+Last modified: 12 October, 2025, 10:29 am
+
+Illustration: TBS
+
+***Highlights:***
+
+- *Bangladeshi delegation barely secured UAE visas after weeks of delays*
+- *UAE has quietly slowed Bangladeshi visa issuance since mid-2024*
+- *Labour, tourist, and transit visas have nearly halted for Bangladeshis*
+- *Diplomatic talks continue, but UAE policy decisions remain unchanged*
+- *Over 1.2 million Bangladeshis in UAE affected by visa freeze*
+- *Curbs linked to worker protests, fraud, and visa violations concerns*
+
+------------------------------------------------------------------------
+
+**"Climbing Everest is easier than getting a UAE visa."**
+
+That was how a member of Bangladesh's 27-member delegation described their ordeal after barely managing to get visas to attend the International Union for Conservation of Nature (IUCN) World Conservation Congress in Abu Dhabi, running on 9–15 October.
+
+#### [![The Business Standard Google News](/sites/all/themes/sloth/images/google_news.svg) Keep updated, follow The Business Standard's Google news channel](https://news.google.com/publications/CAAqBwgKMIivlQsw2ZKrAw?ceid=US:en&oc=3)
+
+For nearly two months, the group — which included two government secretaries — scrambled to secure their travel documents. They submitted endless paperwork, called officials repeatedly, and waited anxiously as departure day approached. Despite confirmed flights on 8 October and hotel bookings made weeks earlier, their passports were still blank at 6pm on 7 October — just hours before takeoff.
+
+Only after urgent intervention by the Ministry of Foreign Affairs and appeals at the highest levels did the visas arrive late that night, barely in time for the delegation to board their flight.
+
+Infograph: TBS
+
+### **A wider freeze**
+
+Their struggle is far from unique. Several Bangladeshi participants reportedly missed the Forex Expo Dubai (6–7 October) due to visa delays. Even cricketer Soumya Sarkar had to miss a T20I series earlier this month after his UAE visa failed to arrive in time.
+
+For more than a year, such incidents have become alarmingly common. Once a trusted partner for Bangladeshi workers, traders, and tourists, the UAE has quietly slowed visa issuance to a near standstill since mid-2024.
+
+> Multiple sources indicate that the restrictions followed protests by Bangladeshi migrant workers in July 2024 amid political upheaval at home. Though unofficial, the curbs have since persisted, primarily targeting low-skilled workers
+
+### **A year of restrictions**
+
+The bottleneck began after 5 August 2024, when political developments in Bangladesh reportedly prompted the UAE to impose *unofficial restrictions* on visas for Bangladeshi nationals. Since then, thousands of migrant workers, professionals, and tourists have been caught in bureaucratic limbo.
+
+While a handful of high-skilled professionals continue to get visas, the flow of low- and semi-skilled workers — the backbone of Bangladesh's remittance inflow — has almost completely stopped.
+
+According to data from the Bureau of Manpower, Employment and Training (BMET), Bangladesh sent only 8,000 semi- and skilled workers to the UAE up to September this year — a fraction of the 47,166 dispatched in the first half of 2024, and far below the 97,822 recorded in 2023.
+
+The fallout extends well beyond labour migration. Outbound tour operators report that their business with the UAE has "collapsed" as tourist visa issuance has "completely halted."
+
+"I used to process more than 2,000 UAE tourist visas every year from 2021 to mid-2024," said Taslim Amin Shovon, director (Trade and Fair) of the Tour Operators Association of Bangladesh (TOAB). "In the past year, I haven't managed a single one. It's as if every category is suspended except a few for skilled professionals."
+
+Abdus Salam Aref, immediate past secretary general of the Association of Travel Agents of Bangladesh (ATAB), echoed the concern.\
+"Tourist and transit visas are almost zero now. Labour visas are down to 5% of what they used to be. Even airlines depending on UAE-bound traffic are struggling to meet their passenger targets," he said.
+
+The UAE flag flies over a boat at Dubai Marina, Dubai, United Arab Emirates. File Photo: Ahmed Jadallah/Reuters
+
+### **Diplomatic efforts fall short**
+
+The Foreign Ministry says it has been pressing the issue with UAE authorities but admits progress has been limited.
+
+"Our ministry and mission in the UAE have been engaging deeply and continuously to resolve this," said ministry spokesperson SM Mahbubul Alam. "We raise it in every high-level meeting, and the UAE mission in Dhaka is also pursuing it from their side."
+
+He conceded, however, that "it ultimately remains a policy decision of the UAE government," though Dhaka remains "hopeful of a resolution soon."
+
+Repeated attempts by The Business Standard to obtain official comment from the UAE Embassy in Dhaka — via WhatsApp on 2 October and email on 5 October — remained unanswered as of 11 October.
+
+> despite the absence of a formal ban, ground realities suggest otherwise: visa processing for most categories remains effectively frozen
+
+**Official denials vs. ground reality**
+
+On 22 September, the Bangladesh Embassy in Abu Dhabi issued a statement rejecting reports that the UAE had imposed a visa ban on Bangladeshis starting January 2026.
+
+"The UAE authorities have confirmed that no such official announcement has been made," it said, dismissing the reports as misinformation originating from an unverified visa website.
+
+However, despite the absence of a formal ban, ground realities suggest otherwise: visa processing for most categories remains effectively frozen.
+
+A local agent for Emirates, the UAE's flagship airline, said about 80% of their Bangladeshi passengers use Dubai as a transit point to Europe and elsewhere.
+
+"As Dubai accommodates around five lakh Bangladeshis, a portion of them regularly travel to Bangladesh. That's why the visa restriction did not hit their usual passenger traffic," he said. 
+
+Though the transit visa is currently restricted, he said it may be available soon under certain conditions.
+
+Photo: Collected
+
+**A key labour market under pressure**
+
+Unofficial estimates suggest that more than 1.2 million Bangladeshis currently live in the UAE, forming the third-largest expatriate community after Indians and Pakistanis.
+
+Bangladesh sent just over 1,600 workers to the UAE in September — mostly skilled and semi-skilled professionals — compared to 5,000–6,000 a month before the restrictions began.
+
+Md Rasheduzzaman, consul general of Bangladesh in Dubai and the Northern Emirates, told Khaleej Times that Dhaka is in talks with UAE authorities to ease the curbs.
+
+ 
+
+### **Why the freeze?**
+
+Multiple sources indicate that the restrictions followed protests by Bangladeshi migrant workers in July 2024 amid political upheaval at home. Though unofficial, the curbs have since persisted, primarily targeting low-skilled workers.
+
+The UAE is Bangladesh's second-largest labour migration destination, and the slowdown has hit the country's foreign employment sector hard.
+
+Government insiders, however, say worker protests were only part of the story. Concerns over recruitment fraud, fake documentation, and visa violations have reportedly prompted the UAE to tighten screening for Bangladeshi applicants.
+
+In a social media post on 17 June, Lutfey Siddiqi, special envoy for international affairs to the chief adviser, wrote after meeting UAE immigration officials:\
+"I was told that over 25% of all visa or residency violators in the UAE are Bangladeshis."
+
+"The root causes probably lie at the recruitment stage in the home country," he added, pointing to corruption and informal labour networks that continue to exploit workers and tarnish Bangladesh's reputation abroad.
+
+ 
+
+#### [Top News](/top-news)
+
+[UAE](/tags/uae) / [Visa](/tags/visa) / [UAE Visa Ban](/tags/uae-visa-ban)
+
+### Comments
+
+While most comments will be posted if they are on-topic and not abusive, moderation decisions are subjective. Published comments are readers’ own views and The Business Standard does not endorse any of the readers’ comments.
+
+## [Top Stories](/top-news)
+
+- 
+
+  [Every Bangladeshi carries \$646 in foreign debt: World Bank](/economy/every-bangladeshi-carries-646-foreign-debt-world-bank-1596191)
+
+- 
+
+  [Factories resume production in Gazipur, Savar as RMG wage deal eases labour unrest](/economy/rmg/garment-factories-resume-production-gazipur-savar-wage-deal-eases-labour-unrest-1596146)
+
+- 
+
+  [Is warmonger Netanyahu's era finally ending?](/analysis/warmonger-netanyahus-era-finally-ending-1596186)
+
+## MOST VIEWED
+
+- 
+
+  ['You cannot copy and paste Bangladesh': Shettima rejects Obi's Bangladesh comparison in Nigeria debt debate](/worldbiz/africa/you-cannot-copy-and-paste-bangladesh-shettima-rejects-obis-bangladesh-comparison)
+
+- 
+
+  [BPC launches probe into Tk4,813cr deposits in troubled private banks](/economy/energy/bpc-launches-probe-tk4813cr-deposits-troubled-private-banks-1595626)
+
+- 
+
+  [Airfares may rise further as Caab plans up to 33% hike in airport charges](/bangladesh/aviation/airfares-may-rise-further-caab-plans-33-hike-airport-charges-1595151)
+
+- 
+
+  [Ctg Uni set for first TSC in 60 years with Tk49cr project](/bangladesh/education/ctg-uni-set-first-tsc-60-years-tk49cr-project-1595171)
+
+- 
+
+  [Abdul El-Sayed launches 'Habibi PAC' days after winning Michigan Senate race](/worldbiz/usa/abdul-el-sayed-launches-habibi-pac-days-after-winning-michigan-senate-race-1595661)
+
+- 
+
+  [A trillion dollars, one constraint at a time](/analysis/trillion-dollars-one-constraint-time-1595186)
+
+## Related News
+
+- [Foreign adviser flags visa challenges, says Bangladeshis partly responsible](/bangladesh/foreign-adviser-flags-visa-challenges-says-bangladeshis-partly-responsible-1256131)
+- [Body of Abdul Hamid, a July Uprising protester, returns home from UAE prison](/bangladesh/body-abdul-hamid-july-uprising-protester-returns-home-uae-prison-1257336)
+
+## [Features](/features)
+
+### [Mitsubishi Xpander ECO: Familiar practicality, lower running costs](/features/wheels/mitsubishi-xpander-eco-familiar-practicality-lower-running-costs-1596381)
+
+1h \| [Wheels](/features/wheels)
+
+### [Bashpukur: A ghost town built to be acquired](/features/panorama/bashpukur-ghost-town-built-be-acquired-1595881)
+
+9h \| [Panorama](/features/panorama)
+
+### [India’s fastest fall in poverty: Beyond trends](/features/panorama/indias-fastest-fall-poverty-beyond-trends-1595871)
+
+9h \| [Panorama](/features/panorama)
+
+### [Biodiversity COP17: a global promise, a critical test for bangladesh](/thoughts/biodiversity-cop17-global-promise-critical-test-bangladesh-1595866)
+
+14h \| [Thoughts](/thoughts)
+
+## [More Videos from TBS](/videos)
+
+[](/videos/after-midterm-rout-vance-tries-build-his-own-2028-brand-1596471)
+
+### [After midterm rout, Vance tries to build his own 2028 brand](/videos/after-midterm-rout-vance-tries-build-his-own-2028-brand-1596471)
+
+10m \| [Videos](/videos)
+
+[](/videos/others/trump-major-obstacle-movement-ships-four-countries-strait-hormuz-given-his-support)
+
+### [Is Trump a major obstacle to the movement of ships from four countries in the Strait of Hormuz, given his support for Iran?](/videos/others/trump-major-obstacle-movement-ships-four-countries-strait-hormuz-given-his-support)
+
+15m \| [Others](/videos/others)
+
+[](/videos/others/why-russian-diesel-still-not-reaching-us-despite-trump-putin-deal-1596411)
+
+### [Why is Russian diesel still not reaching the US despite the Trump-Putin deal?](/videos/others/why-russian-diesel-still-not-reaching-us-despite-trump-putin-deal-1596411)
+
+30m \| [Others](/videos/others)
+
+[](/videos/krakow-shooting-6-dead-16-injured-gunman-opens-fire-poland-1596331)
+
+### [Krakow shooting: 6 dead, 16 injured as gunman opens fire in Poland](/videos/krakow-shooting-6-dead-16-injured-gunman-opens-fire-poland-1596331)
+
+1h \| [Videos](/videos)

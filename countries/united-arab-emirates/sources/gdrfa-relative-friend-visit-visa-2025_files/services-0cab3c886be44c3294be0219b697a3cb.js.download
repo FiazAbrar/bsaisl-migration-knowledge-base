@@ -1,0 +1,48 @@
+var url1 = document.location.href;
+//iFrameResizer0
+//popup-iframe
+jQuery("#popup-iframe").on("load", function () {
+      var $head = $("#popup-iframe").contents().find("head"); 
+			
+			$head.append($("<link/>", { media: "all", rel: "stylesheet", href: "/libraries/jquery.rateit/scripts/rateit.css", type: "text/css" } ));
+			$head.append($("<link/>", { media: "all", rel: "stylesheet", href: "/themes/gdrfad/css/bootstrap/bootstrap.min.css", type: "text/css" } ));
+			$head.append($("<link/>", { media: "all", rel: "stylesheet", href: "/themes/gdrfad/css/webform-popup.css", type: "text/css" } ));
+			$head.append($("<link/>", { media: "all", rel: "stylesheet", href: "/themes/gdrfad/css/custom.css", type: "text/css" } ));
+			
+			$head.append($("<script/>", { src: "/libraries/jquery.rateit/scripts/jquery.rateit.min.js", type: "text/javascript" } ));
+			$head.append($("<script/>", { src: "/themes/gdrfad/js/bootstrap/bootstrap.min.js", type: "text/javascript" } ));
+			$head.append($("<script/>", { src: "/themes/gdrfad/js/theme.js", type: "text/javascript" } ));
+});
+
+	
+   const overlay = document.getElementById("popup-overlay");
+   const popup = document.getElementById("popup-main");
+   
+jQuery('input:radio[name=rating]').click(function(){
+		var iframe_url = '';
+			if (url1.includes("/en/") )
+					{
+						iframe_url = '/en/webform/service_feedback_survey/share';
+					}
+					else
+					{
+						iframe_url = '/ar/webform/service_feedback_survey/share';
+					}
+				
+				$('#popup-iframe').attr('src', iframe_url)
+    		overlay.style.display = "block";
+    		popup.style.display = "block";
+    	
+	 });
+jQuery('.overlay').click(function(){
+      overlay.style.display = "none";
+      popup.style.display = "none";
+    
+      });
+      
+jQuery('#btn-close').click(function(){
+      overlay.style.display = "none";
+      popup.style.display = "none";
+    
+      });
+

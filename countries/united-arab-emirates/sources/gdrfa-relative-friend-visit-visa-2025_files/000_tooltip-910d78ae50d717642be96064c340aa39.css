@@ -1,0 +1,133 @@
+:root{
+  /* Theme tokens (pulling from your design system) */
+  --tt-bg: var(--surface-surface, #FFF);
+  --tt-stroke: var(--surface-outline, #E4E2E6);
+  --tt-text: var(--surface-on-surface, #000);
+  --tt-border-w: 1px;
+  --tt-radius: 16px;
+
+  /* Tail sizes */
+  --tt-arrow-w: 14px;   /* outer/border width  */
+  --tt-arrow-h: 10px;   /* outer/border height */
+  --tt-arrow-inset: 2px;/* border thickness for the tail */
+}
+
+/* Make tooltip fully opaque when shown */
+.tooltip.show { opacity: 1 !important; }
+
+/* Bubble box */
+.tooltip .tooltip-inner{
+  position: relative;
+  display: inline-flex;
+  padding: 12px 16px;
+  background: var(--surface-surface, #FFF) !important;
+  color: var(--surface-on-surface, #000) !important;
+  border: var(--tt-border-w) solid var(--surface-outline, #E4E2E6);
+  border-radius: var(--tt-radius);
+  font-family: var(--font-family, Dubai);
+  font-size: var(--font-size-body, 16px);
+  line-height: var(--line-height-body, 24px);
+  filter: drop-shadow(0 1px 2px rgba(16,24,40,.04));
+  overflow: visible; /* allow tails to render */
+}
+
+/* Remove Bootstrap's default arrow */
+.tooltip .tooltip-arrow,
+.tooltip .tooltip-arrow::before { display: none !important; }
+
+/* =========================
+   Shared arrow (SVG mask)
+   ========================= */
+/* The mask is a filled triangle pointing UP. We rotate/position per placement. */
+@supports ((mask: none) or (-webkit-mask: none)) {
+  .tooltip .tooltip-inner::before,
+  .tooltip .tooltip-inner::after{
+    content: "";
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 1;
+  }
+
+  /* OUTER (border) triangle */
+  .tooltip .tooltip-inner::before{
+    width: var(--tt-arrow-w);
+    height: var(--tt-arrow-h);
+    background-color: var(--surface-outline, #E4E2E6); /* border color */
+    -webkit-mask: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 10'>\
+<polygon points='7,1 13,9 1,9' fill='white'/></svg>") no-repeat center/contain;
+            mask: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 10'>\
+<polygon points='7,1 13,9 1,9' fill='white'/></svg>") no-repeat center/contain;
+  }
+
+  /* INNER (fill) triangle, slightly smaller to reveal border */
+  .tooltip .tooltip-inner::after{
+    width: calc(var(--tt-arrow-w) - var(--tt-arrow-inset));
+    height: calc(var(--tt-arrow-h) - var(--tt-arrow-inset));
+    background-color: var(--surface-surface, #FFF); /* fill color */
+    -webkit-mask: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 10'>\
+<polygon points='7,1 13,9 1,9' fill='white'/></svg>") no-repeat center/contain;
+            mask: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 10'>\
+<polygon points='7,1 13,9 1,9' fill='white'/></svg>") no-repeat center/contain;
+    z-index: 2;
+  }
+}
+
+/* =========================
+   Placements (Popper attr)
+   ========================= */
+
+/* BOTTOM (tooltip below trigger) — tail on TOP edge, pointing UP */
+.tooltip[data-popper-placement^="bottom"] .tooltip-inner { margin-bottom: 8px; }
+.tooltip[data-popper-placement^="bottom"] .tooltip-inner::before,
+.tooltip[data-popper-placement^="bottom"] .tooltip-inner::after{
+  left: 50%; transform: translateX(-50%); /* no rotation needed (arrow already up) */
+}
+.tooltip[data-popper-placement^="bottom"] .tooltip-inner::before{ top: calc(-1 * var(--tt-arrow-h) + var(--tt-border-w)); }
+.tooltip[data-popper-placement^="bottom"] .tooltip-inner::after{
+  top: calc(-1 * (var(--tt-arrow-h) - var(--tt-arrow-inset)) + var(--tt-border-w) + 1px);
+}
+
+/* TOP (tooltip above trigger) — tail on BOTTOM edge, pointing DOWN */
+.tooltip[data-popper-placement^="top"] .tooltip-inner { margin-top: 8px; }
+.tooltip[data-popper-placement^="top"] .tooltip-inner::before,
+.tooltip[data-popper-placement^="top"] .tooltip-inner::after{
+  left: 50%; transform: translateX(-50%) rotate(180deg);
+}
+.tooltip[data-popper-placement^="top"] .tooltip-inner::before{ bottom: calc(-1 * var(--tt-arrow-h) + var(--tt-border-w)); }
+.tooltip[data-popper-placement^="top"] .tooltip-inner::after{
+  bottom: calc(-1 * (var(--tt-arrow-h) - var(--tt-arrow-inset)) + var(--tt-border-w) + 1px);
+}
+
+/* START/LEFT — tail on RIGHT edge, pointing RIGHT */
+.tooltip[data-popper-placement^="left"] .tooltip-inner { margin-left: 8px; }
+.tooltip[data-popper-placement^="left"] .tooltip-inner::before,
+.tooltip[data-popper-placement^="left"] .tooltip-inner::after{
+  top: 50%; transform: translateY(-50%) rotate(-90deg);
+}
+.tooltip[data-popper-placement^="left"] .tooltip-inner::before{ left: auto; right: calc(-1 * var(--tt-arrow-h) + var(--tt-border-w)); }
+.tooltip[data-popper-placement^="left"] .tooltip-inner::after{
+  left: auto; right: calc(-1 * (var(--tt-arrow-h) - var(--tt-arrow-inset)) + var(--tt-border-w) + 1px);
+}
+
+/* END/RIGHT — tail on LEFT edge, pointing LEFT */
+.tooltip[data-popper-placement^="right"] .tooltip-inner { margin-right: 8px; }
+.tooltip[data-popper-placement^="right"] .tooltip-inner::before,
+.tooltip[data-popper-placement^="right"] .tooltip-inner::after{
+  top: 50%; transform: translateY(-50%) rotate(90deg);
+}
+.tooltip[data-popper-placement^="right"] .tooltip-inner::before{ right: auto; left: calc(-1 * var(--tt-arrow-h) + var(--tt-border-w)); }
+.tooltip[data-popper-placement^="right"] .tooltip-inner::after{
+  right: auto; left: calc(-1 * (var(--tt-arrow-h) - var(--tt-arrow-inset)) + var(--tt-border-w) + 1px);
+}
+
+.card:focus-within:not(.webform-submission-form.card),
+.gdrfa-banner-card:focus-within{
+  outline: 3px solid var(--outline-focus);
+  outline-offset: 2px;
+}
+

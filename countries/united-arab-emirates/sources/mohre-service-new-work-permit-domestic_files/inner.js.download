@@ -1,0 +1,868 @@
+require(["jquery", "resources", "slick"], function ($) {
+    (function (resources) {
+        var isRTL = FI.languageCode == "en-GB" ? false : true;
+
+        $(".image-slider").slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            dots: $(".image-slider").find('img').length > 1 ? true : false,
+            arrows: false,
+            rtl: isRTL
+
+        });
+
+        $(".logos-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            rtl: isRTL,
+            dots: true,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".most-downloaded-opendata").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            arrows: false,
+            rtl: isRTL,
+            responsive: [
+                {
+                    breakpoint: 1400,
+                    settings: {
+                        slidesToShow: 4,
+                        slidesToScroll: 4,
+                    }
+                },
+                {
+                    breakpoint: 1200,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                    }
+                },
+                {
+                    breakpoint: 992,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+        $(".header-alerts").slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            dots: false,
+            rtl: isRTL,
+            arrows: true,
+            prevArrow: $('.aegov-slider-prev'),
+            nextArrow: $('.aegov-slider-next')
+        });
+        $("#header-alert-close").on("click", function (e) {
+            e.preventDefault();
+            $('#header-alert').remove();
+        });
+        $("#cookie-alert-close").on("click", function (e) {
+            e.preventDefault();
+            $('#cookie-alert').remove();
+        });
+        $('.tab-link').on('click', function () {
+            $('.tab-link').removeClass('tab-active');
+            $(this).addClass('tab-active');
+            //var targetTabId = $(this).data('tabs-target');
+            //$('.tab-content').hide();
+            //$(targetTabId).removeClass('hidden');
+        });
+        $('.accordion-title button').on('click', function () {
+            $(this).find('svg').toggleClass('rotate-180');
+            var isExpanded = $(this).attr('aria-expanded') === 'true';
+            if (isExpanded) {
+                $(this).find('svg').removeClass('rotate-180');
+            }
+        });
+
+
+        $(".publications-slider").slick({
+            slidesToShow: 2,
+            slidesToScroll: 3,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+        $(".imports-link-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 3,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+        $(".imports-contacts").slick({
+            slidesToShow: 5,
+            slidesToScroll: 3,
+            autoplay: false,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".home-meida-slider").slick({
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".core-value-slider ").slick({
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+        $(".related-event-meida-slider").slick({
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            autoplay: true,
+            dots: true,
+            arrows: false,
+            rtl: isRTL,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".video-detail-meida-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: false,
+            dots: true,
+            arrows: false,
+            rtl: isRTL,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+        $(".toast-default").on("click", function (e) {
+            e.preventDefault();
+            $('.toast-default').remove();
+        });
+
+        // photo detail slider start
+        $('.photo-detail-slider-for').slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            fade: true,
+            rtl: isRTL,
+            asNavFor: '.photo-detail-slider-nav',
+        });
+
+        $('.photo-detail-slider-nav').slick({
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            asNavFor: '.photo-detail-slider-for',
+            rtl: isRTL,
+            dots: false,
+            focusOnSelect: true,
+            arrows: true,
+            prevArrow: $('.thumbnail-prev'),
+            nextArrow: $('.thumbnail-next'),
+            // centerMode: true,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+        // photo detail slider end
+
+        // video detail slider start
+        // $('.video-detail-slider-for').slick({
+        //     slidesToShow: 1,
+        //     slidesToScroll: 1,
+        //     arrows: false,
+        //     fade: true,
+        //     rtl: isRTL,
+        //     asNavFor: '.video-detail-slider-nav',
+        //     });
+
+        $('.video-detail-slider-nav').slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            //asNavFor: '.video-detail-slider-for',
+            rtl: isRTL,
+            autoplay: false,
+            focusOnSelect: true,
+            arrows: true,
+            prevArrow: $('.thumbnail-prev'),
+            nextArrow: $('.thumbnail-next'),
+            // centerMode: true,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        // $('.thumbnail-slider').slick({
+        //     slidesToShow: 4,
+        //     slidesToScroll: 1,
+        //     dots: false,
+        //     autoplay: true,
+        //     rtl: isRTL,
+        //     focusOnSelect: true,
+        //     prevArrow: $('.thumbnail-prev'),
+        //     nextArrow: $('.thumbnail-next'),
+        //     responsive: [
+        //         {
+        //             breakpoint: 1024,
+        //             settings: {
+        //                 slidesToShow: 2,
+        //                 slidesToScroll: 1,
+        //             }
+        //         },
+        //         {
+        //             breakpoint: 768,
+        //             settings: {
+        //                 slidesToShow: 2,
+        //                 slidesToScroll: 1,
+        //             }
+        //         },
+        //         {
+        //             breakpoint: 480,
+        //             settings: {
+        //                 slidesToShow: 1,
+        //                 slidesToScroll: 1
+        //             }
+        //         }
+        //     ]
+        // });
+        // video detail slider end
+
+
+        $(".photo-gallery-slider").slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+
+
+
+        if ($('.sticky-when-scroll').length > 0) {
+            const header = $('.sticky-when-scroll');
+            const stickyOffset = header.offset().top;
+            $(window).scroll(() => {
+                if ($(window).scrollTop() > stickyOffset) {
+                    header.addClass('fixed top-0 z-50 mx-auto left-0 right-0 pb-8 shadow-sm');
+                } else {
+                    header.removeClass('fixed top-0 z-50 mx-auto left-0 right-0 pb-8 shadow-sm');
+                }
+            });
+        }
+
+
+
+
+        //if (getCookie("betaMVA_" + FI.pageId) != 'true') {
+        //    $('#new-design-toggle-overlay').addClass('hidden');
+        //    $('#new-design-toggle-overlay').remove();
+        //} else {
+        //    $('#new-design-toggle-overlay').removeClass('hidden');
+        //}
+
+        $('.moreless-button').attr('data-stat', 'more');
+        $('.moreless-button').click(function () {
+            $('.moretext').slideToggle();
+            if ($(this).attr('data-stat') == "more") {
+                $(this).text(FI.resources.general.readLess)
+                $(this).attr('data-stat', 'less')
+            } else {
+                $(this).text(FI.resources.general.readMore)
+                $(this).attr('data-stat', 'more')
+            }
+        });
+
+        $(".video-click").each(function () {
+            $(this).click(function (ev) {
+                ev.preventDefault();
+                $(this).hide();
+                $(this).parent().find('.videoIframe').show();
+            })
+        })
+
+        $(".mediacenter-photo-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".mediacenter-video-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".mediacenter-publications-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".mediacenter-news-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".mediacenter-spokesperson-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        $(".participating-entities-slider").slick({
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplay: true,
+            dots: true,
+            rtl: isRTL,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+
+        //Contact page background image switch
+        const tabs = document.querySelectorAll('.contactUsTabs');
+        const background = document.getElementById('contact-us-tab-container');
+        tabs.forEach((tab) => {
+            tab.addEventListener('click', () => {
+                const bgUrl = tab.getAttribute('data-value');
+                background.style.backgroundImage = `url('${bgUrl}')`;
+            });
+        });
+
+
+
+        const mediaQuery = window.matchMedia("(max-width: 768px)");
+
+        function handleScreenChange(e) {
+
+            if (e.matches) {
+                var $allCategories = $('.m-isic-category');
+
+                // Remove old listeners (avoid duplicates) by cloning
+                $('.category-item, .back-btn').each(function () {
+                    $(this).replaceWith($(this).clone(true));
+                });
+
+                // Category item click (delegated)
+                $(document).on('click', '.category-item', function (e) {
+                    e.preventDefault();
+
+                    var $currentCategory = $(this).closest('.m-isic-category');
+                    var currentTier = parseInt($currentCategory.data('tier'), 10);
+                    var $nextCategory = $('.m-isic-category[data-tier="' + (currentTier + 1) + '"]');
+
+                    if ($nextCategory.length) {
+                        $allCategories.addClass('hidden').removeClass('active');
+                        $nextCategory.removeClass('hidden').addClass('active');
+                    }
+                });
+
+                // Back button click (delegated)
+                $(document).on('click', '.back-btn', function (e) {
+                    e.preventDefault();
+
+                    var $currentCategory = $(this).closest('.m-isic-category');
+                    var currentTier = parseInt($currentCategory.data('tier'), 10);
+                    var $prevCategory = $('.m-isic-category[data-tier="' + (currentTier - 1) + '"]');
+
+                    if ($prevCategory.length) {
+                        $allCategories.addClass('hidden').removeClass('active');
+                        $prevCategory.removeClass('hidden').addClass('active');
+                    }
+                });
+
+            } else {
+                $('.isic-category ul').on('click', 'a', function (e) {
+                    e.preventDefault();
+
+                    var $li = $(this).closest('li');
+                    var $parentCategory = $li.closest('.isic-category');
+                    var currentTier = parseInt($parentCategory.data('tier'), 10);
+                    var nextTier = currentTier + 1;
+
+                    // Remove active from siblings
+                    $parentCategory.find('li').removeClass('active');
+                    $li.addClass('active');
+
+                    // Hide lower tiers
+                    $('.isic-category[data-tier="' + nextTier + '"], \
+          .isic-category[data-tier="' + (nextTier + 1) + '"], \
+          .isic-category[data-tier="' + (nextTier + 2) + '"], \
+          .isic-category[data-tier="' + (nextTier + 3) + '"]')
+                        .addClass('hidden');
+
+                    // Show related category
+                    var relatedId = $li.data('related');
+                    if (relatedId) $('#' + relatedId).removeClass('hidden');
+                });
+            }
+
+
+        }
+
+        // Run on load
+        window.initCategories = () => handleScreenChange(mediaQuery);
+
+        // Listen for changes
+        mediaQuery.addEventListener("change", handleScreenChange);
+
+
+
+
+
+        (function () {
+            var $inner, bottom;
+
+            $inner = $('.side-nav-affix');
+            if ($inner != undefined && $inner.length > 0) {
+                bottom = $inner.offset().top + $inner.outerHeight();
+
+                $(window).on('scroll', function () {
+                    if ($(window).scrollTop() + $(window).height() > $('.content-useful').offset().top) {
+                        $inner.removeClass('affix');
+                        return $inner.addClass('affix-bottom');
+                    } else if ($(window).scrollTop() + $(window).height() > bottom) {
+                        $inner.removeClass('affix-bottom');
+                        return $inner.addClass('affix');
+                    } else {
+                        $inner.removeClass('affix');
+                        return $inner.removeClass('affix-bottom');
+                    }
+                });
+
+            }
+
+        }).call(this);
+
+
+
+
+    })(FI.resources);
+});

@@ -1,0 +1,380 @@
+﻿; jQuery.DS || (function ($) {
+
+    var lc = 'en-GB';
+    var lid = 1;
+    if (typeof (FI) != 'undefined') {
+        lc = FI.languageCode;
+        lid = FI.languageId
+    }
+    $.DS = {
+        languageCode: lc,
+        // Current language ID
+        languageId: lid,
+        // This URL will be used to do general data bindings
+        dataBindingUrl: 'Services/GeneralBindings.asmx',
+
+        // Global Resources
+        resources: {
+            all: { 'en-GB': '- ALL -', 'ar-AE': '' },
+            root: { 'en-GB': '- ROOT -', 'ar-AE': '' },
+            pleaseSelect: { 'en-GB': 'Please select', 'ar-AE': 'الرجاء الاختيار' },
+            Yes: { 'en-GB': 'Yes', 'ar-AE': '' },
+            No: { 'en-GB': 'No', 'ar-AE': '' },
+            PublishScheduled: { 'en-GB': 'Scheduled to be published', 'ar-AE': '' },
+            Published: { 'en-GB': 'Published', 'ar-AE': '' },
+            UnPublished: { 'en-GB': 'Un-published', 'ar-AE': '' },
+            ArchiveScheduled: { 'en-GB': 'Scheduled to be archived', 'ar-AE': '' },
+            Active: { 'en-GB': 'Active', 'ar-AE': '' },
+            Deleted: { 'en-GB': 'Deleted', 'ar-AE': '' },
+            Spam: { 'en-GB': 'Spam' },
+            NotSpam: { 'en-GB': 'Not Spam' },
+            Male: { 'en-GB': 'Male' },
+            Female: { 'en-GB': 'Female' },
+            Any: { 'en-GB': 'Any' },
+            AddNew: { 'en-GB': '-- New job code --' }
+        },
+
+        // Data Binding for Time
+        bindTime: function (targetHourObject, targetMinuteObject) {
+            targetHourObject.empty();
+            targetMinuteObject.empty();
+            for (var i = 0; i < 24; i++) {
+                var hour = i;
+                if (i < 10) hour = '0' + i;
+                targetHourObject.append('<option value=' + i + '>' + hour + '</option>');
+            }
+            for (var i = 0; i < 60; i++) {
+                var min = i;
+                if (i < 10) min = '0' + i;
+                targetMinuteObject.append('<option value=' + i + '>' + min + '</option>');
+            }
+        },
+        getAllRoles: function (targetObject, options) {
+            $.DS.getData('GetAvailableRoles', targetObject, options);
+        },
+        getTranslatedCategory: function (targetObject, options) {
+            $.DS.getData('GetTranslatedCategory', targetObject, options);
+        },
+        bindCategories: function (targetObject) {
+            $.DS.getData('GetAvailableCategories', targetObject, {
+                addPleaseSelectEmpty: true
+            });
+        }, bindStatus: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="">--All--</option>');
+            targetObject.append('<option value="P">Published</option>');
+            targetObject.append('<option value="U">UnPublished</option>');
+            targetObject.append('<option value="A">Active</option>');
+            targetObject.append('<option value="D">Deleted</option>');
+        },
+
+        bindLanguage: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="">--All--</option>');
+            targetObject.append('<option value="1">English</option>');
+            targetObject.append('<option value="2">Arabic</option>');
+        },
+
+        bindAvailableLanguages: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="BL">Both Languages</option>');
+            targetObject.append('<option value="EN">English</option>');
+            targetObject.append('<option value="AR">Arabic</option>');
+        },
+
+        bindNationalities: function (targetObject, options) {
+            $.DS.getData('GetAvailableNationalities', targetObject, options);
+        },
+        bindQualifications: function (targetObject, options) {
+            $.DS.getData('GetAvailableQualifications', targetObject, options);
+        },
+        bindCategoriesByParentId: function (targetObject, options) {
+            $.DS.getData('GetAvailableCategoriesByParentId', targetObject, options);
+        },
+        bindCategoriesAndSubCategoriesByParentId: function (targetObject, options) {
+            $.DS.getData('GetAvailableCategoriesAndSubCategoriesByParentId', targetObject, options);
+        },
+        bindPartnersCategoriesWithLang: function (targetObject, options) {
+            var target = targetObject;
+            options = options ? options : {
+                addPleaseSelectEmpty: true,
+                userData: { languageId: parseInt($('#ddlLanguageId').val() ? $('#ddlLanguageId').val() : 1) }
+            };
+            options.userData = options.userData ? options.userData : { languageId: parseInt($('#ddlLanguageId').val() ? $('#ddlLanguageId').val() : 2) };
+
+            $.DS.getData('GetAvailablePartnersCategoriesWithLang', target, options);
+        },
+        bindEnglishBanners: function (targetObject, options) {
+            $.DS.getData('GetEnglishBanners', targetObject, options);
+        },
+        bindBanners: function (targetObject, options) {
+            $.DS.getData('GetBanners', targetObject, options);
+        },
+        bindArabicBanners: function (targetObject, options) {
+            $.DS.getData('GetArabicBanners', targetObject, options);
+        },
+        bindKhadamatiServices: function (targetObject, options) {
+            $.DS.getData('GetKhadamatiServices', targetObject, options);
+        },
+
+        bindCategoriesByParentIds: function (targetObject, options) {
+            $.DS.getData('GetAvailableCategoriesByParentIds', targetObject, options);
+        },
+        bindCategoriesByParentIds2: function (targetObject, options) {
+            $.DS.getData('GetAvailableCategoriesByParentIds2', targetObject, options);
+        },
+        bindCountries: function (targetObject, options) {
+            $.DS.getData('GetAvailableCountries', targetObject, options);
+        },
+        bindAvailableContentTypes: function (targetObject, options) {
+            $.DS.getData('GetAvailableContentTypes', targetObject, options);
+        },
+        bindAvailableReports: function (targetObject, options) {
+            $.DS.getData('GetAvailableReports', targetObject, options);
+        },
+        bindAvailableIntegration: function (targetObject, options) {
+            $.DS.getData('GetAvailableIntegration', targetObject, options);
+        },
+
+        bindIsSticky: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="0">' + $.DS.resources.No[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1">' + $.DS.resources.Yes[$.DS.languageCode] + '</option>');
+        },
+        bindBool: function (targetObject, selectdValue) {
+            targetObject.empty();
+            targetObject.append('<option value="0"' + (selectdValue == '0' ? 'selected="selected"' : '') + '>' + $.DS.resources.No[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1"' + (selectdValue == '1' ? 'selected="selected"' : '') + '>' + $.DS.resources.Yes[$.DS.languageCode] + '</option>');
+        },
+        bindPagesCache: function (targetObject, selectdValue) {
+            targetObject.empty();
+            targetObject.append('<option value="N"' + (selectdValue == 'N' ? 'selected="selected"' : '') + '>No Cache</option>');
+            targetObject.append('<option value="F"' + (selectdValue == 'F' ? 'selected="selected"' : '') + '>File System Cache</option>');
+            targetObject.append('<option value="H"' + (selectdValue == 'H' ? 'selected="selected"' : '') + '>Http Cache</option>');
+        },
+        bindCustomSession: function (targetObject, selectdValue) {
+            targetObject.empty();
+            targetObject.append('<option value="H"' + (selectdValue == 'H' ? 'selected="selected"' : '') + '>HTTP Cache</option>');
+            targetObject.append('<option value="D"' + (selectdValue == 'D' ? 'selected="selected"' : '') + '>Database</option>');
+        },
+        bindSharedStorageTypes: function (targetObject, selectdValue) {
+            targetObject.empty();
+            targetObject.append('<option value="N"' + (selectdValue == 'N' ? 'selected="selected"' : '') + '>Network Path</option>');
+            targetObject.append('<option value="L"' + (selectdValue == 'L' ? 'selected="selected"' : '') + '>Local Drive Path</option>');
+        },
+        bindIsSpam: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="0" >' + $.DS.resources.NotSpam[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1">' + $.DS.resources.Spam[$.DS.languageCode] + '</option>');
+        },
+        bindPRIsPublished: function (targetObject, selectdValue) {
+            targetObject.empty();
+            targetObject.append('<option value="0" ' + (selectdValue == '0' ? 'selected="selected"' : '') + '>' + $.DS.resources.UnPublished[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1"' + (selectdValue == '1' ? 'selected="selected"' : '') + '>' + $.DS.resources.Published[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="2"' + (selectdValue == '2' ? 'selected="selected"' : '') + '>' + $.DS.resources.PublishScheduled[$.DS.languageCode] + '</option>');
+        },
+
+        bindIsPublished: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="0">' + $.DS.resources.UnPublished[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1">' + $.DS.resources.Published[$.DS.languageCode] + '</option>');
+        },
+        bindGender: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="A">' + $.DS.resources.Any[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="M">' + $.DS.resources.Male[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="F">' + $.DS.resources.Female[$.DS.languageCode] + '</option>');
+        },
+        bindJobCodes: function (targetObject) {
+            var target = targetObject;
+            //targetObject.empty().append('<option>Loading...</option>');
+            $.DS.getData('GetAvailableJobCodes', target, {
+                addPleaseSelectEmpty: true,
+                userData: { languageId: $('#ddlLanguageId').val() }
+            });
+        },
+        bindIsDeleted: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="0">' + $.DS.resources.Active[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1">' + $.DS.resources.Deleted[$.DS.languageCode] + '</option>');
+        },
+        bindPRIsArchived: function (targetObject, selectdValue) {
+            targetObject.empty();
+            targetObject.append('<option value="0"' + (selectdValue == '0' ? 'selected="selected"' : '') + '' + (selectdValue == '0' ? 'selected="selected"' : '') + '>' + $.DS.resources.No[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1"' + (selectdValue == '1' ? 'selected="selected"' : '') + '>' + $.DS.resources.Yes[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="2"' + (selectdValue == '2' ? 'selected="selected"' : '') + '>' + $.DS.resources.ArchiveScheduled[$.DS.languageCode] + '</option>');
+        },
+        bindIsArchived: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="0">' + $.DS.resources.No[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="1">' + $.DS.resources.Yes[$.DS.languageCode] + '</option>');
+        },
+        bindIsArchivedStatus: function (targetObject) {
+            targetObject.empty();
+            targetObject.append('<option value="">' + $.DS.resources.all[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="False">' + $.DS.resources.No[$.DS.languageCode] + '</option>');
+            targetObject.append('<option value="True">' + $.DS.resources.Yes[$.DS.languageCode] + '</option>');
+        },
+
+        bindMenuHierarchyGroupped: function (targetObject, options) {
+            $.DS.getData('GetMenuHierarchyGrouped', targetObject, options);
+        },
+        getAllMenuTypes: function (targetObject, options) {
+            $.DS.getData('GetAvailableMenuTypes', targetObject, options);
+        },
+        // Bind template drop down lists. The userData field in the options contains languageId
+        bindAvailableLayouts: function (targetObject, options) {
+            $.DS.getData('GetAvailableLayouts', targetObject, options);
+        },
+        // Bind template drop down lists.
+        bindAllLayouts: function (targetObject, options) {
+            $.DS.getData('GetAllLayouts', targetObject, options);
+        },
+        GetAvailableCategories: function (targetObject, options) {
+            $.DS.getData('GetAvailableCategories', targetObject, options);
+        },
+        getAllCategories: function (targetObject, options) {
+            $.DS.getData('GetAvailableCategories', targetObject, options);
+        },
+        getConstantsByGroup: function (targetObject, options) {
+            $.DS.getData('GetConstantsByGroup', targetObject, options);
+        },
+        getConstantsGroups: function (targetObject, options) {
+            $.DS.getData('getConstantsGroups', targetObject, options);
+        },
+        bindContentByContentTypeId: function (targetObject, options) {
+            options.addPleaseSelectEmpty = true;
+            $.DS.getData('GetContentByContentTypeId', targetObject, options);
+
+        },
+        getAvailableCategoriesFromNode: function (targetObject, options) {
+            var opt = $.extend(true, {}, { userData: { rootId: 0, languageId: null } }, options);
+            $.DS.getData('GetAvailableCategoriesFromNode', targetObject, opt);
+        },
+        // it will do required ajax call to load data
+        getData: function (methodName, targetObject, options) {
+            var opt = $.extend({},
+                {
+                    addAllOption: false,
+                    addPleaseSelect: false,
+                    addPleaseSelectEmpty: false,
+                    addNewOption: false,
+                    selectDefault: false,
+                    addRootOption: false,
+                    callback: null,
+                    placeholder: null,
+                    userData: null
+                },
+                options);
+            $.ajax({
+                url: $.DS.dataBindingUrl + '/' + methodName,
+                data: opt.userData == null ? {} : JSON.stringify(opt.userData),
+                success: function (data) {
+                    $.DS.doBinding(data, targetObject, opt);
+                },
+                error: function (data) {
+                    if ($.isFunction(opt.callback)) {
+                        opt.callback(false);
+                    }
+                },
+                type: "POST",
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json'
+            });
+        },
+
+        doAjaxPost: function (methodName, userData, callback) {
+            $.ajax({
+                url: $.DS.dataBindingUrl + '/' + methodName,
+                data: userData == null ? {} : JSON.stringify(userData),
+                success: function (data) {
+                    if (callback) { callback(data); }
+                },
+                type: "POST",
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json'
+            });
+        },
+
+        // process the ajax response and add data to dropdown list
+        doBinding: function (data, targetObject, options) {
+            if (typeof (data.d) != 'undefined' && targetObject && targetObject.length > 0) {
+
+                if (targetObject.is("select")) {
+                    targetObject.empty();
+                    if (options.addPleaseSelect) {
+                        targetObject.append($('<option/>').text($.DS.resources['pleaseSelect'][$.DS.languageCode]).attr('value', ''));
+                    }
+                    if (options.addPleaseSelectEmpty) {
+                        targetObject.append($('<option/>').text($.DS.resources['pleaseSelect'][$.DS.languageCode]).attr('value', ''));
+                    }
+
+                    if (options.placeholder) {
+                        targetObject.append($('<option/>').text(options.placeholder).attr('value', ''));
+                    }
+
+                    if (options.addAllOption) {
+                        targetObject.append($('<option/>').text($.DS.resources['all'][$.DS.languageCode]).attr('value', ''));
+                    }
+                    if (options.addRootOption) {
+                        targetObject.append($('<option/>').text($.DS.resources['root'][$.DS.languageCode]).attr('value', '0'));
+                    }
+                    if (targetObject.attr('data-icms-locale-placeholder') && targetObject.attr('data-icms-locale-placeholder') != '') {
+                        var key = targetObject.attr('data-icms-locale-placeholder');
+                        try {
+                            targetObject.append($('<option/>').text(eval(key)).attr('value', ''));
+
+                        } catch (err) {
+                            console.log(key + " - not found");
+                        }
+                    }
+
+
+
+                    $.each(data.d, function (i, n) {
+                        if (typeof (n.groupTitle) != 'undefined') {
+                            // it is groupped
+                            targetObject.append($('<optgroup/>').attr('label', n.groupTitle));
+
+                            $.each(n.items, function (j, m) {
+                                var item = $('<option></option>').text(m.name).attr('value', m.value).attr('selected', options.selectDefault && (m.isDefault || m.isSelected));
+                                targetObject.append(item);
+                            });
+                        } else {
+                            var item = $('<option></option>').text(n.name).attr('value', n.value).attr('selected', options.selectDefault && (n.isDefault || n.isSelected));
+                            targetObject.append(item);
+                        }
+                    });
+                } else {
+                    var itemTemplate = targetObject.find(">:first-child")[0].outerHTML;
+                    targetObject.html('');
+                    $.each(data.d, function (i, n) {
+                        var item = itemTemplate.replace(/{name}/g, n.name).replace(/{value}/g, n.value).replace(/{cssClass}/g, n.cssClass ? n.cssClass : '').replace(/{index}/g, i);
+                        targetObject.append(item);
+                    });
+                }
+
+
+                // it will select the initVal once load finished. This allows you to set the initial value on Edit before the data binding
+                // and once data binding finished, it will automatically set that value
+                var initVal = targetObject.attr('initVal');
+                if (typeof (initVal) != 'undefined') {
+                    var mul = targetObject.attr('multiple'),
+                        i;
+                    if (typeof mul !== 'undefined' && mul !== false) {
+                        initVal = initVal ? initVal.split(',') : [];
+                        for (i = 0; i < initVal.length; i++) {
+                            targetObject.find('option[value="' + initVal[i] + '"]').attr('selected', true);
+                        }
+                    } else {
+                        targetObject.val(initVal);
+                    }
+                }
+            }
+            // you can add a callback function to be called once the loading process finished
+            if ($.isFunction(options.callback)) {
+                options.callback(true);
+            }
+        }
+    }
+})(jQuery);

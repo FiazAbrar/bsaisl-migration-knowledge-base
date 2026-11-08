@@ -1,0 +1,299 @@
+.dark .list-group-item,
+.gold .list-group-item {
+  color: var(--text-body) !important;
+  background-color: var(--bg-body) !important;
+}
+
+.dark .accordion-item,
+.gold .accordion-item {
+  border-color: var(--text-body) !important;
+}
+
+.dark .accordion-button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.gold .accordion-button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffff00'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.dark .accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.gold .accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+
+.dark .carousel-control-next-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+.gold .carousel-control-next-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffff00'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.dark .carousel-control-prev-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+}
+.gold .carousel-control-prev-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffff00'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+}
+
+
+[dir="rtl"] .dark .carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+    }
+    [dir="rtl"] .gold .carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffff00'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+    }
+    
+    [dir="rtl"]  .dark .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+    }
+    [dir="rtl"]  .gold .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffff00'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+    }
+    
+.dark .fieldset-legend,
+.gold .fieldset-legend {
+  color: var(--text-body) !important;
+}
+
+.dark .img-dark-mode,
+.gold .img-dark-mode {
+  filter: invert(1) grayscale(1);
+}
+
+.dark img,
+.dark iframe,
+.dark .card-has-bg,
+.dark #divEventImage,
+.gold img,
+.gold iframe,
+.gold .card-has-bg,
+.gold #divEventImage {
+  filter: grayscale(1);
+}
+
+
+.dark #gdrfad-logo,
+.dark #gdrfad-logo-mobile,
+.dark .invert,
+.gold #gdrfad-logo,
+.gold #gdrfad-logo-mobile,
+.gold .invert,
+.dark #carouselExternalGov .carousel-inner .carousel-item a img,
+.gold #carouselExternalGov .carousel-inner .carousel-item a img,
+.dark #qr-logo,
+.gold #qr-logo {
+  filter: invert(1) grayscale(1);
+}
+
+.dark #logo-minor,
+.gold #logo-minor {
+  filter: invert(0) grayscale(1) !important;
+  background: none;
+}
+
+.dark .btn-outline-dark,
+.gold .btn-outline-dark {
+  border-color: var(--text-body) !important;
+}
+
+.dark .container.card-bk,
+.gold .container.card-bk {
+  color: var(--text-body) !important;
+  background-color: var(--bg-body) !important;
+  background: none;
+}
+
+/* ?? */
+.dark .img-dark-mode,
+.gold .img-dark-mode {
+  background-color: var(--text-body) !important;
+}
+
+.dark thead tr,
+.gold thead tr {
+  color: var(--text-primary);
+}
+
+.dark .table,
+.gold .table {
+  --bs-table-hover-bg: var(--text-primary);
+  border-color: var(--text-primary) !important;
+}
+
+.dark .table-striped > tbody > tr:nth-of-type(odd) > *,
+.gold .table-striped > tbody > tr:nth-of-type(odd) > * {
+  color: var(--text-body);
+}
+
+/* Form Related CSS*/
+
+.dark .form-required:after,
+.dark .form-item--error-message:before,
+.gold .form-required:after,
+.gold .form-item--error-message:before {
+  filter: brightness(0) invert(1);
+}
+
+.dark .messages--error,
+.gold .messages--error {
+  filter: brightness(0) invert(1);
+  background-color: transparent;
+}
+
+.dark .form-item input.error,
+.dark .form-item textarea.error,
+.dark .form-item select.error,
+.gold .form-item input.error,
+.gold .form-item textarea.error,
+.gold .form-item select.error {
+  border: 5px solid var(--field-border) !important;
+}
+
+.dark div.svg div.rateit-hover {
+  background: url(/modules/contrib/webform/images/rating/star-hover.svg);
+  filter: brightness(0) invert(1);
+  background-size: 24px 24px !important;
+}
+
+.dark div.svg.rateit-medium div.rateit-range,
+div.svg.rateit-medium div.rateit-hover,
+div.svg.rateit-medium div.rateit-selected,
+div.svg.rateit-medium div.rateit-preset {
+  background-size: 24px 24px;
+}
+
+.dark div.svg div.rateit-selected {
+  /*background: url(/modules/contrib/webform/images/rating/star-selected.svg);*/
+  filter: brightness(0) invert(1);
+}
+
+.dark .dropdown-menu .dropdown-item:hover,
+.gold .dropdown-menu .dropdown-item:hover {
+  color: var(--bg-body) !important;
+  background-color: var(--text-body);
+}
+
+.dark .dropdown-container .dropdown-item:hover,
+.gold .dropdown-container .dropdown-item:hover {
+  color: var(--text-body) !important;
+}
+
+.dark .dda-sub-header__btn,
+.gold .dda-sub-header__btn,
+.dark .search-button,
+.gold .search-button,
+.dark .acc-button,
+.gold .acc-button,
+.dark .lang-button,
+.gold .lang-button,
+.dark .login-button,
+.gold .login-button,
+.dark #footer,
+.gold #footer,
+.dark header,
+.gold header {
+  background-color: var(--bg-body) !important;
+}
+
+.dark .dda-side-nav,
+.gold .dda-side-nav {
+  background-color: var(--bg-body) !important;
+}
+
+.dark .footer-title,
+.gold .footer-title {
+  color: var(--text-body) !important;
+}
+
+.dark .background-primary,
+.gold .background-primary {
+  background-color: var(--text-primary);
+}
+
+.dark #widgetPos,
+.dark #chat-icon,
+.gold #widgetPos,
+.gold #chat-icon {
+  filter: grayscale(1);
+}
+
+.dark .form-select option:hover,
+.dark .form-select option:checked,
+.gold .form-select option:hover,
+.gold .form-select option:checked {
+  background-color: var(--bg-body) !important;
+  color: var(--text-body) !important;
+  box-shadow: 0 0 10px 100px black inset;
+}
+  
+.gold .border,
+.gold .dda-footer__section--bordered {
+  border-color: var(--text-primary) !important;
+}
+
+.gold .hover-grey:hover a,
+.dark .hover-grey:hover a {
+  color: var(--bg-body) !important;
+}
+
+.gold .ribbon span {
+  background: var(--text-primary) !important;
+}
+
+.gold .counter-box i {
+  color: var(--text-primary) !important;
+}
+
+.gold #dg-logo {
+  fill: yellow;
+}
+.dark #dg-logo {
+  fill: white;
+}
+
+.gold .cls-2,
+.gold .cls-3,
+.gold .cls-4,
+.gold .cls-6,
+.gold .cls-8,
+.gold .cls-9 {
+  fill: yellow;
+}
+.dark .cls-2,
+.dark .cls-3,
+.dark .cls-4,
+.dark .cls-6,
+.dark .cls-8,
+.dark .cls-9 {
+  fill: white;
+}
+
+
+.dark #DubaiAE svg path,
+.gold #DubaiAE svg path,
+.dark #DubaiAi svg path,
+.gold #DubaiAi svg path,
+.dark #widgetPos-web svg path,
+.gold #widgetPos-web svg path {
+  fill: var(--text-body);
+}
+
+
+
+.dark .accessibility-wheel-chair {
+  background-image: url(/themes/gdrfad/assets/phase3/img/icon-wheel-chair-white.svg);
+}
+
+.gold .accessibility-wheel-chair {
+  background-image: url(/themes/gdrfad/assets/phase3/img/icon-wheel-chair-yellow.svg);
+}
+
+
+.dark .gdrfad-app-container,.gold .gdrfad-app-container {
+	background-color:black;
+}

@@ -1,0 +1,56 @@
+
+
+/* Happiness Meter */
+
+.fancybox-overlay
+{
+    width: auto;
+    height: auto;
+    background-image: url("/themes/gdrfad/images/fancybox_overlay_white.png");
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    display: block;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-size: auto;
+    background-color: transparent;
+}
+
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+
+	 #happinessIcon 
+		{
+		    width:50px;
+		    height:50px;
+			position: fixed;
+			bottom: 0px;
+			left: 15px;
+			background-color:transparent;
+			padding:10px;
+		  }
+
+.happiness-meter-link {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAMAAADUivDaAAACqVBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Gkec6AAAA4nRSTlMA/v0D8uIB5wT8EIr3+hjl7Nvu5OMXyRrcxJTViw4C3jYT4fvNWXy/4OkcBTIP9GcWWwYsCsgfOu0VjyA8VJI/5qAnDS+hEupqzrHLttZc3YbSCUtHcW8qG7wiWvNeK0O3rfmwJS6TJJbfnREU1NAhYajG8fU1wdE7Kbs4RmBOa4EHaQtjp56sqZnaLUSHM32bjlF/mI16GWLFg1Y3Iz4076PwXUGrunm5rkkolUDodnVoDGwewutlotPHcrOXr8BKd6TZhfhTV/aQsk+McDClWHh+OUiJJqa0UghMVdeaRXS1B04/3AAABGpJREFUeF6l1fVTW1sXxvEniru7W0uBUmiRtkCLW93d3d3db91drru7u7u+Kt+/5J0hSQMlgST9/Lpm9rPW2nvOkTuBNw4mH3397WVRmRGrp929lnOiTF6JyznWYaaH8PKTEwfJUzvOHseVkLYXR8kT6Xfv4VD0RpjFUlsRjIMl+ab6U73YbI+Mn7f30ccWVcdNnV448c2gp8KwsbyUoj7NSqNLUtVHl63qpnTN4Ldq6bK+Ru5VXjACkLcrTi5su7QKgPDJJrmxLQGA2C8PyI3QSZkAHHZzN8PjASouBaoPQ48FADw1QC7MiQJYn65+XE8DuFqtXrbWAixfoX7NTgB4p1cfQ5YBhvMmeSBjHsD2BwZemQAYPpZnUg4BLO2RZ10K8Jk8FdgOGA6qm5wAoM5fHrucDbwwRfdNjQDKG+WFTQVAqzM0Gbh3Q17ZbwBGyK7wDpAr75g+AFrsrzS1DmgLlJfqK4BidTl1BwI65bWzQGyKJOk74MPR8tooPzB2baPkUzCslQ8SgXWpks4ZISJUPng+GMKqJS0GvpYv9iUAndIr4yDkGfnkPLBcqt8AaaHySU0WtK1QJ7DAJJ/E5EP4rzoJ7JVvrNvB+LIOgWGWfDQSGKk82PiYfPQu8J62QNMQ+WgwkK00iBoqH00AIhQN+aHy0SNApsIgP+ZhjrBoGUS/9jCDxGsVNM2Wj3KA1doMRTXy0WSgXUfBMFg+qgISFQT8om5mLFSf6hucz2guGF/VLuBIqhysp8leJPf8i/14YrxsKsdA5HAVmiG+RHalyYDlJ7mzaQHAWNkMz4LsDKUkwfydshn4HABZZ6bLlSUXw211+/JygQZJ7wPJsjHlBtAlP3dNrxEKg2qxKWq2BW4Grki6DnRUym5XATaZiyeU6L7SKWufjsSu/Ja6bN0IBTclxY0B4ww5bI3Fbv64T37OmbMj/dbu/VXTonAwB8XI5iIwz+T4bmwfL4fGIDNOn5s3bAzAydhaI7vp0WCwZe8wQ8gXchrWasQ1Q94IfzmMBVpW2LayDthcJifT7vav6G3mN986m9WzfsD3jtSZwCR1Z0of2zaT7iLzcn+wyin1RyBpZfefY1O9ekq5Xfxce0t+WFjUmNingzqH7FMPswKAR+WwJhPIG61e/BuHjnp24YBBVj3oRDTwRKnuW2sAEq3yWMZVILJQTql1AE/KUwceB9ij7kJbgJBmeabsDEDDQPVw2w8ImSRPjG4ASKjUAyZGAoaqMvVr6FyAcUvUy7lwgLmz1Y+dSQBbtsmF3/wAoveMVx9Kfg8GWP+HXNq0GoBpz/i73cKVJACOxMiNAX8CMP+vvwW6LDfHAlB0+u9yy7THDwBj7N7hg9RDzD8S4+kyboL6NKUuGFvUlsOTd6cvCW3MiBs17J9PPj4miy4F11aqP3Nag7EzVliOd/wrImoDDk3/XiQPDPzP8mhc6hh7Sp5aWLzOEkwP5lVLR8TIG9apO/974X/ZaQWR4X4R5QtGNg/LkBv/B1kL98iu5TfqAAAAAElFTkSuQmCC");
+    background-size: contain;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.happiness-meter {
+    position: fixed;
+    bottom: 10px;
+    left: 15px;
+    background-color: var(--text-body);
+    z-index: 99999;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.dark .happiness-meter {
+    background-color: var(--bg-body);
+}

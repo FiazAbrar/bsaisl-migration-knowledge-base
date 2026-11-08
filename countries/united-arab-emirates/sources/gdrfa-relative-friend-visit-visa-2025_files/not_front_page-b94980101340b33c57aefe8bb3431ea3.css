@@ -1,0 +1,36 @@
+.dnrd-logo-white, .dubai-logo-white
+{
+	display:none !important;
+}
+
+.dnrd-logo-default, .dubai-logo-red
+{
+	display:inline-block !important;
+}
+/*
+#main-content {
+	margin-top:12rem;
+}
+
+@media screen and (max-width: 576px) {
+#main-content {
+	margin-top:5rem;
+}
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+  #main-content {
+	margin-top:10rem;
+} 
+	
+}
+*/
+
+.dnrd-sub-header
+{
+	position:fixed;
+	z-index:1;
+}
+
+
+#main-content{   padding-top: var(--main-content-padding-top, var(--header-hieght));}

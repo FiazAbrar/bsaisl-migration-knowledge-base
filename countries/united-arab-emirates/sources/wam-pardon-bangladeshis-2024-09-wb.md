@@ -1,0 +1,11 @@
+# UAE President pardons Bangladeshis involved in recent protests
+
+Emirates News Agency 2024-09-03T11:13:17+04:00
+
+![UAE President pardons Bangladeshis involved in recent protests](https://assets.wam.ae/resource/jth06vcf1k80v72pd.jpg)
+
+ABU DHABI, 3rd September, 2024 (WAM) -- President His Highness Sheikh Mohamed bin Zayed Al Nahyan has ordered a pardon for the Bangladeshi nationals involved in last month’s protests and disturbances across several emirates. The decision includes cancelling the sentences of those convicted and arranging for their deportation.
+
+In line with His Highness' directive, Dr. Hamad Al Shamsi, UAE Attorney-General, has issued an order to halt the implementation of the sentences and commence deportation procedures.
+
+The Attorney General also called on all residents of the UAE to respect the country’s laws, stressing that the right to express opinions is protected by the state and its legal framework. He highlighted that the state provides lawful means for expressing views, ensuring this right does not turn into actions that could harm the interests of the nation and its people.

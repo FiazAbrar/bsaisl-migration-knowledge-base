@@ -1,0 +1,159 @@
+The Savings Scheme – a voluntary alternative end-of-service benefits system End-of-service benefits under full time contracts End-of-Service gratuity for part-time and other work models
+
+### The Savings Scheme – a voluntary alternative end-of-service benefits system
+
+Ministry of Human Resources and Emiratisation (MoHRE) has launched the voluntary alternative end-of-service benefits system – the Savings Scheme, through which, the amounts allocated for end-of-service gratuities for private sector employees are invested in reputable investment funds, enabling the employees to grow their savings and benefit from investment returns. This scheme serves as an optional alternative to the traditional end-of-service gratuity system currently applied in the private sector.
+
+Employers choosing to participate in the scheme will need to contribute monthly to an investment fund. These contributions will entitle beneficiaries (employees) to receive the allocated basic subscription amount, along with any investment returns generated, in place of their end of service benefits.
+
+**Objectives of the Savings Scheme**
+
+The Savings Scheme aims to ensure that the employees receive their end-of-service entitlements and protect them from inflation, employer insolvency and bankruptcy. It also aims to provide opportunities for employees to grow their savings and channel funds into investment instruments supporting the UAE’s economy.
+
+**Investment options**
+
+The scheme offers a variety of investment options, which include:
+
+- a capital guarantee portfolio option that offers a risk-free investment and safeguards capital, for unskilled workers
+- risk-based investment options including various investment portfolios that carry varying levels of financial risk based on expected return
+- Sharia-compliant funds.
+
+ 
+
+[Daman Investments End of Service Programme](https://daman.ae/end-of-service/) is approved as one of the investment funds under the Savings scheme.
+
+Learn [how to register in the Savings Scheme](https://u.ae/-/media/Documents-2024/damaninsurancebroucherenaspx.pdf) (PDF, 1.63 MB).
+
+**Scope**
+
+The scheme applies to employers and employees in the private sector and free zones.
+
+ 
+
+**Participation in the scheme**
+
+Employers who wish to participate in the Savings Scheme, must [submit a request to MoHRE](https://www.mohre.gov.ae/en/services/services-directory.aspx) through one if its service channels and select and contract with one of the investment funds approved by [Securities and Commodities Authority](https://www.sca.gov.ae/en/home.aspx) (SCA).
+
+Employers may choose to enrol all employees, specific groups, or selected professional categories. After the employees are enroled in the scheme, the employer must cease to apply the traditional end-of-service gratuity system for those employees, and must calculate and settle any gratuity accrued prior to enrolment, in accordance with the law.
+
+ 
+
+**Basic subscription fee**
+
+Employers’ contribution to the investment fund for full-time employees is as follows:
+
+- 5.83 per cent of their employees’ monthly basic salary, if the employee has not completed 5 years of service
+- 8.33 per cent, if the employee has served more than 5 years.
+
+ 
+
+Subscriptions must be transferred into the investment fund within 15 days of the beginning of each calendar month.
+
+ 
+
+**Additional voluntary subscription**
+
+In addition to the basic subscription made by the employers, subscribed employees may voluntarily contribute a percentage of their salary or an additional amount through:
+
+1.  deduction by the employer from the employee’s wage for monthly contributions or
+2.  direct transfer by the employee to the investment fund account for lumpsum contribution.
+
+Voluntary contributions may not exceed 25 per cent of the employee’s total wage monthly or annually if paid as a lumpsum.
+
+For more information about subscription in the Savings Scheme and fees for other work patterns, refer to [Ministerial Resolution No. 668 of 2023 Regarding Subscription under the Alternative End of Service Benefits System](https://u.ae/-/media/Documents-2nd-half-2023/Ministerial-Resolution-No-668-of-2023-Regarding-Subscription-Under-the-Alternarive-EndofService-Bene.pdf) – (PDF, 140 KB).
+
+ 
+
+**Entitlements of the beneficiary (employee)**
+
+The employee is entitled to all basic subscription amounts paid by the employer and any returns resulting from it during the subscription period, within 14 days after the termination of employment.
+
+Beneficiaries may choose to keep their funds invested in the scheme or withdraw them at any time without restriction.
+
+ 
+
+**Supervision and oversight**
+
+MoHRE and SCA monitor, supervise and inspect the alternative system in accordance with the applicable legislations.
+
+MoHRE is responsible for receiving labour complaints related to this alternative system and investigating complaints and violations discovered during inspections.
+
+SCA addresses complaints regarding the performance of the investment fund providers. 
+
+Financial [free zones authorities](https://www.moec.gov.ae/en/free-zones) are responsible for supervising and resolving complaints regarding the alternative end of service benefits system under their jurisdiction.
+
+For more information about the Savings scheme, refer to:
+
+- [Introductory to the Optional Alternative End-of-Service Benefits Scheme (Savings Scheme)](https://u.ae/-/media/Documents-2nd-half-2023/Introduction-guide-to-saving-scheme.pdf) – (PDF, 8522 KB)
+- [Cabinet Resolution No. 96 of 2023 Regarding an Alternative End of Service Benefits System](https://u.ae/-/media/Documents-2nd-half-2023/Cabinet-Resolution-No-96-of-2023-Regarding-an-Alternative-EndofService-Benefits-System-1.pdf)– (PDF, 283 KB).
+
+### End-of-service benefits under full time contracts
+
+- 1.  **UAE nationals**
+
+  End-of-service benefits for Emiratis working in the private sector will be in accordance with the legislation regulating the [pensions and social securities in the UAE](https://www.gpssa.gov.ae/en/Pages/default.aspx#/#/).
+
+   
+
+  2.  **Expatriate workers**
+
+   
+
+  As per [Article 51 of the UAE Labour Law](https://www.mohre.gov.ae/en/laws-and-regulations/laws.aspx), end-of-service benefits for foreign workers working in the private sector will be as follows:
+
+  - A worker who has completed at least 1 year of continuous service is entitled to gratuity upon termination. Days of unpaid absence are not included in service calculations.
+  - Workers are entitled to gratuity for fractions of a year, proportionate to the time served, provided they have completed one year of continuous service.
+  - The end of service gratuity is calculated on basis of last wage which the worker was entitled to, namely the basic salary. Hence, it will not include allowances such as housing, transportation, utilities, furniture etc.
+  - Employers must pay all outstanding wages, other entitlements and gratuity within 14 days of the termination of the contract.
+  - Employers may deduct any amounts owed by the worker, from the gratuity.
+
+  **Calculations for gratuity pay**
+
+  Full-time workers who have spent one year or more in continuous service shall be entitled to an end-of-service gratuity upon the termination of their service. The days of absence from work without pay shall not be included in the calculation of the period of service, and the gratuity shall be calculated as follows:
+
+  - If a worker has served for less than 1 year, he is not entitled to any gratuity pay.
+  - If a worker has served for more than 1 year but less than 5 years, he is entitled to full gratuity pay based on 21 days' salary for each year of work.
+  - If a worker has served more than 5 years, he is entitled to full gratuity of 30 days' salary for each year of work following the first 5 years.
+
+  In all cases, the total gratuity shall not exceed the wage of 2 years.
+
+### End-of-Service gratuity for part-time and other work models
+
+As per Article 30 of  the[ Cabinet Resolution No. 1 of 2022](https://www.mohre.gov.ae/en/laws-and-regulations/laws.aspx) on the Implementation of the Regulation of Federal Decree Law No. 33 of 2021 Regarding the Regulation of Labour Relations, the end of service benefits for workers in part time contracts or other types of work arrangements are calculated pursuant to the following:
+
+![](https://assets.u.ae/api/public/content/bf0ea915438d4cc889a0fb802989af9c?v=880b4ad4)
+
+##### 
+
+• The number of working hours in the employment contract per year divided by the number of working hours in the full-time contract per year multiplied by 100 equal to the percentage on which the end of service benefit should be calculated. Then this percentage should be multiplied by the value of the end of service benefit due for the full time contract. • End-of-service gratuity does not apply in cases of temporary employment, if the duration is less than one year.
+
+Find more provisions about the entitlements of the workers in Article 51, 52 and 53 of the [Federal Decree Law No. 33 of 2021 on the Regulation of Employment Relationships](https://u.ae/-/media/Documents-2022/Federal-DecreeLaw-No-33-of-2021.pdf) and its amendments, the UAE Labour Law.
+
+Useful links from Ministry of Human Resources and Emiratisation:
+
+- [Resolutions and circulars concerning work in the UAE ](https://www.mohre.gov.ae/en/laws-and-regulations/resolutions-and-circulars.aspx)
+- [International agreements concerning worker rights](https://www.mohre.gov.ae/en/laws-and-regulations/international-agreements.aspx)
+- [Digital services for employees and employers](https://www.mohre.gov.ae/en/services.aspx)
+- [Tasheel services](http://tasheel.ae/).
+
+Updated on:
+
+15 Oct 2026
+
+[![previous](/image/icons/perv-icon.svg)](/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/terminating-employment-contracts)
+
+Prev topic
+
+Terminating employment contracts and arbitrary dismissal
+
+[![all services](/image/icons/all-icon.svg)](/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector)
+
+View all Services
+
+[](/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/banning-the-issuance-of-a-new-work-permit-for-one-year)
+
+Next topic
+
+Banning the issuance of a new work permit for one year
+
+![next](/image/icons/next-icon.svg)

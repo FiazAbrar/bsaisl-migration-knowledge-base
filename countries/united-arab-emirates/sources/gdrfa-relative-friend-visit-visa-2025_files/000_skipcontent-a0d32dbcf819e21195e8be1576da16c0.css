@@ -1,0 +1,9 @@
+.skip-link {
+  transform: translateY(-200%);
+  transition: transform 0.3s ease;
+  z-index: 9999; /* On top of everything */
+}
+
+.skip-link:focus {
+  transform: translateY(0%);
+}

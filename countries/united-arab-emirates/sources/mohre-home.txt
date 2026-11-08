@@ -1,0 +1,398 @@
+PAGE META: article:modified_time: 2021-10-20T13:17:19Z
+
+(text rebuilt from the saved .html; fetch.py cleaner had dropped form content)
+
+Ministry of Human Resources & Emiratisation - MOHRE
+Skip to content
+Logo
+Gold star Logo
+Services
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14198 data-megaMenu=false>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14207 data-megaMenu=--Select-->
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14460 data-megaMenu=--Select-->
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Previous Awareness Workshops
+Awareness Workshops
+Media Center
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14195 data-megaMenu=--Select-->
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14200 data-megaMenu=false>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14494 data-megaMenu=false>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14205 data-megaMenu=false>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Login
+Accessibility
+Accessibility
+AR
+Switch language
+Logo
+Gold star Logo
+Menu
+search in site
+Close
+Home
+Services
+show submenu for "Services"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14198>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "Laws & Regulations"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14207>
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "Guidance"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14460>
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Previous Awareness Workshops
+Awareness Workshops
+Media Center
+show submenu for "Media Center"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14195>
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "Digital Participation"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14200>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "Open Data"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14494>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "About Us"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14205>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Accessibility
+AR
+Close
+English
+عربي
+Other languages
+The list of “Other languages” listed above use Google Translate to create an automated translation of content for the purpose of display. Accuracy of automated content translation is not guaranteed.
+Read the the Safety and Awareness Guide for Workers (Available in 7 languages)
+Click here
+Services
+All Services
+Most Used
+Employer Services
+Services for Employee
+Services for Partner
+Issuance of Establishment Card
+First, the establishment details must be registered with the Ministry, in addition to entr...
+Start Service
+Issuance of a Public Relations Officer Card (PRO)
+The PRO card is a Subsidiary Procedures (optional) related to the service of opening and u...
+Start Service
+Work Permit Quotas For Establishments
+A Subsidiary Procedures associated to the services of opening and updating of the establis...
+Start Service
+Issuance of a New License for Temporary Employment and Mediation Agency
+Temporary employment and outsourcing or mediation, or a combination of temporary employmen...
+Start Service
+Opening a Farm or Ranch File
+A service provided for farms and ranches owners in order to apply for domestic workers und...
+Start Service
+Updating the Establishment File
+The Ministry offers this service to establishments wishing to amend or change their detail...
+Start Service
+Renewal of Recruitment/Temporary Employment and Mediation Agency License
+Renewing Recruitment/Temporary Employment and Mediation Agencies license
+Start Service
+Amendments to a Recruitment/Temporary Employment or Mediation agency's License Details
+The Ministry provides this service to employment agencies that seeking to amend employment...
+Start Service
+Issuance of Establishment Card
+First, the establishment details must be registered with the Ministry, in addition to entr...
+Start Service
+Updating the Establishment File
+The Ministry offers this service to establishments wishing to amend or change their detail...
+Start Service
+Issuance of a New Work Permit - Overseas
+A service provided by the Ministry to establishments wishing to recruit or employ a worker...
+Start Service
+Issuance of a New Work Permit - Domestic Workers
+A service provided by the Ministry to employers wishing to recruit a domestic worker from ...
+Start Service
+Issuance of a New Work Permit - Private Tutor Licensing
+A service provided by the Ministry to those who seek a Private Tutor License
+Start Service
+Issuance/Renewal of Employment Contracts
+The Ministry provides this service to establishments wishing to issue or renew their emplo...
+Start Service
+Issuance of a new Employment contract - Domestic worker
+Employers wishing to apply for a work permit for a domestic worker can take advantage of t...
+Start Service
+Cancellation of Work Permits and Employment Contracts
+This service is provided by the Ministry to employers wishing to cancel work permits of th...
+Start Service
+Search
+Type a keyword to search
+Main Service
+Sector name
+Search
+Issuance of Establishment Card
+First, the establishment details must be registered with the Ministry, in addition to entr...
+Start Service
+Issuance of a Public Relations Officer Card (PRO)
+The PRO card is a Subsidiary Procedures (optional) related to the service of opening and u...
+Start Service
+Work Permit Quotas For Establishments
+A Subsidiary Procedures associated to the services of opening and updating of the establis...
+Start Service
+Opening a Farm or Ranch File
+A service provided for farms and ranches owners in order to apply for domestic workers und...
+Start Service
+Updating the Establishment File
+The Ministry offers this service to establishments wishing to amend or change their detail...
+Start Service
+Issuance of a New Work Permit - Overseas
+A service provided by the Ministry to establishments wishing to recruit or employ a worker...
+Start Service
+Issuance of a New Work Permit - Dependents Sponsored by Family Members
+Permits issued to establishments registered under the Ministry for employing dependents sp...
+Start Service
+Issuance of a New Work Permit - Temporary Work Permits
+Under this permit, an employee is employed to complete a specific task within a specified ...
+Start Service
+Issuance of a New Work Permit - Mission Work Permit
+A permit granted to an establishment for the purpose of recruiting workers for short term ...
+Start Service
+Previous
+Next
+Previous
+Next
+Search
+Type a keyword to search
+Main Service
+Sector name
+Search
+Issuance of a New Work Permit - Transfer Work Permit
+Permit for the transfer of non-national workers to and from establishments registered with...
+Start Service
+Issuance of a New Work Permit - Private Tutor Licensing
+A service provided by the Ministry to those who seek a Private Tutor License
+Start Service
+Cancellation of Work Permit for an Employee With a Labour Court Case
+A service that can be applied for by the employer, or the employee (or both) to resume the...
+Cancellation of an Absence from Work Complaint (Absconding Report)
+An application for the cancellation of an absconding report submitted by one of the partie...
+Absence from Work (Absconding Report) Domestic Workers
+This service is offered by the Ministry to employers to report the absence of a domestic w...
+Start Service
+Withdrawal of Absconding Report - Domestic Workers (The Employer)
+The Ministry provides this service to domestic workers and employers by receiving complain...
+Start Service
+Withdrawal of Absconding Report - Domestic Workers (The Domestic Worker)
+The Ministry provides this service to domestic workers. As part of this service, complaint...
+Start Service
+Submission of Comments, Complaints And Suggestion
+Respond to customer’s complaints, comments, and inquiries regarding Ministry services and ...
+Start Service
+Submission of Suggestion
+Respond to customer’s suggestion regarding Ministry services and initiatives through the a...
+Previous
+Next
+Previous
+Next
+Search
+Type a keyword to search
+Main Service
+Sector name
+Search
+Issuance of a New License for Temporary Employment and Mediation Agency
+Temporary employment and outsourcing or mediation, or a combination of temporary employmen...
+Start Service
+Renewal of Recruitment/Temporary Employment and Mediation Agency License
+Renewing Recruitment/Temporary Employment and Mediation Agencies license
+Start Service
+Amendments to a Recruitment/Temporary Employment or Mediation agency's License Details
+The Ministry provides this service to employment agencies that seeking to amend employment...
+Start Service
+Issuance a branch of the Recruitment Temporary Employment and Mediation Agency
+A service provided by the Ministry in order for existing private recruitment agencies and ...
+Cancellation of the Recruitment/Temporary Employment, and Mediation Agency license
+It is a service provided by the Ministry for owners who wants to cancel the employment age...
+Payment of the Bank Guarantee Amount of Employment Agency
+A procedure provided by the Ministry to agencies adding activities that require a higher b...
+Completing the payment of the bank guarantee in case of a shortage to employment agencies
+Individual institution or legal person submits to the Ministry the value of the bank guara...
+Employment Agency’s Bank Guarantee Refund
+Individual institution or legal person submits to the Ministry a request to retrieve the b...
+Add Complaint
+A channel for the public for reporting violations related to the ministry's specilaitie an...
+Start Service
+Previous
+Next
+Previous
+Next
+View all
+Contact Us
+Call Center 600590000
+Call Us
+Email
+Email Us
+Customer Voice Service
+Read More
+WhatsApp Service
+Message Us
+Labour Claims And Advisory Center - 80084
+Call
+View All Channels
+Topics of Interest
+Riyada Award
+Work Bundles
+Inquiry Service
+Approved Service Centers
+Accommodation System
+Labour Market Magazine
+Awareness Workshops
+Job Contracts Services
+Savings Scheme
+Report Violations
+Nafis
+Customer's Voice Service
+Achieving Emiratisation targets
+Private sector companies, if you have 50 employees or more, we call on you to achieve a 1% growth of semi-annual Emiratisation targets in skilled jobs before the deadline on 30th June 2026.
+Days Left
+Our Updates
+News
+E-Consultations
+View all
+23 March 2026
+General
+The Ministry of Human Resources and Emiratisation calls on private sector companies across all the UAE to be careful and take all the precautions at work due to the expected weather conditions
+View Details
+17 March 2026
+General
+AI-Driven Governance Systems Consolidate UAE’s Position as Global Benchmark for Labour Market Regulation
+View Details
+12 March 2026
+General
+Built for Stability: UAE Labour Market Supports Business Continuity and Investor Confidence
+View Details
+11 March 2026
+General
+Digital governance drives MoHRE’s customer interactions to 60 million in 2025
+View Details
+09 March 2026
+General
+MoHRE successfully settles 98.6% of labour disputes in 2025
+View Details
+27 February 2026
+General
+In the Month of Giving.. MoHRE Embodies the Spirit of Solidarity with Iftar Campaign for Fasting Workers
+View Details
+Closing
+30/04/2026
+Current
+MOHRE Launches new update for the Wage Protection System
+View Details
+Supportive initiatives of the United Arab Emirates
+Sign up for our newsletter
+To stay in touch with the latest information from the ministry
+Download our
+Mobile application
+About this website
+Privacy Policy
+Disclaimer
+Copyright
+Terms & Conditions
+Information and support
+Contact Us
+Sitemap
+Accessibility
+Help
+Quicklinks
+Careers
+Archive
+Procurement
+Definitions
+Cybersecurity
+Job Descriptions
+Economic Activities list
+171
+04-7771777
+Call Center:
+600 590000
+©
+MOHRE. All rights reserved.
+Last updated on
+Follow us on:
+facebook
+instagram
+LinkedIn
+X
+YouTube
+Customer pulse
+Search

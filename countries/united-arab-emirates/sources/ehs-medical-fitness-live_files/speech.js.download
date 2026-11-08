@@ -1,0 +1,143 @@
+﻿define(['jquery', 'resources'], function ($, Mustache) {
+    'use strict';
+
+    (function (resources) {
+        var SpeechRecognition = function (element, options) {
+            if ('webkitSpeechRecognition' in window) {
+                this.options = $.extend(true, {}, this.defaultOptions, options);
+                this.$element = $(element);
+                if (this.$element.parent().parent().find('.btn-close').length > 0) {
+                    this.$handle = $(this.options.template.replace('{{instructions}}', resources.search.searchByVoice)
+                        .replace('{{speakNowLabel}}', resources.search.speakNow)).insertBefore(this.$element.parent().parent().find('.btn-close'));
+                } else if (this.$element.parents('.search-form').length > 0) {
+                    this.$handle = $(this.options.template.replace('{{instructions}}', resources.search.searchByVoice)
+                        .replace('{{speakNowLabel}}', resources.search.speakNow)).insertAfter(this.$element);
+                } else {
+                    this.$handle = $(this.options.template.replace('{{instructions}}', this.options.searchByVoice ? this.options.searchByVoice : resources.search.searchByVoice)
+                        .replace('{{speakNowLabel}}', resources.search.speakNow)).appendTo(this.$element.parent());
+                }
+
+                this.$handle.hover(function () {
+                    $(this).addClass("hovered");
+                }, function () {
+                    $(this).removeClass("hovered");
+                });
+
+                this.$element.parent().addClass('speak-enabled');
+                this.finalTranscript = '';
+                this.$handle.on('click', $.proxy(this.start, this));
+
+                this.recognition = new webkitSpeechRecognition();
+                this.recognition.continuous = false;
+                this.recognition.interimResults = true;
+                this.recognition.onstart = $.proxy(this._recognitionStart, this);
+                this.recognition.onend = $.proxy(this._recognitionEnd, this);
+                this.recognition.onerror = $.proxy(this._recognitionError, this);
+                this.recognition.onresult = $.proxy(this._recognitionResult, this);
+            }
+        };
+        SpeechRecognition.prototype = {
+            start: function (ev) {
+                if (ev) {
+                    ev.preventDefault();
+                }
+                if (this.recognizing) {
+                    this.recognition.stop();
+                    return;
+                }
+                this.finalTranscript = '';
+                this.recognition.lang = FI.languageCode.substring(0, 2);
+                this.recognition.start();
+                this.ignoreOnEnd = false;
+                this.startTimeStamp = event.timeStamp;
+                this.$handle.removeClass('started').addClass('disabled').find('.speak-instructions').text(resources.search.searchVoiceAllow);
+                if (this.$element.is("select")) {
+                    this.$element.focus().click();
+                }
+            },
+            _recognitionStart: function () {
+                this.recognizing = true;
+                this.$handle.removeClass('disabled').addClass('started').find('.speak-instructions').text(resources.search.speakNowInstructions);
+            },
+            _recognitionEnd: function () {
+                this.recognizing = false;
+
+                if (this.ignoreOnEnd) {
+                    return;
+                }
+
+                this.$handle.removeClass('disabled started').find('.speak-instructions').text(resources.search.searchByVoice);
+            },
+            _recognitionError: function (event) {
+                if (event.error == 'no-speech') {
+                    this.$handle.removeClass('disabled started').find('.speak-instructions').text(resources.search.searchVoiceNoSpeech);
+                    this.ignoreOnEnd = true;
+                }
+                if (event.error == 'audio-capture') {
+                    this.$handle.removeClass('disabled started').find('.speak-instructions').text(resources.search.searchVoiceNoMicrophone);
+                    this.ignoreOnEnd = true;
+                }
+                if (event.error == 'not-allowed') {
+                    if (event.timeStamp - this.startTimeStamp < 100) {
+                        this.$handle.removeClass('started').addClass('disabled').find('.speak-instructions').text(resources.search.searchVoiceBlocked);
+                    } else {
+                        this.$handle.removeClass('started').addClass('disabled').find('.speak-instructions').text(resources.search.searchVoiceDenied);
+                    }
+                    this.ignoreOnEnd = true;
+                }
+            },
+            _recognitionResult: function (event) {
+                var interimTranscript = '';
+                for (var i = event.resultIndex; i < event.results.length; ++i) {
+                    if (event.results[i].isFinal) {
+                        this.finalTranscript += event.results[i][0].transcript;
+                    } else {
+                        interimTranscript += event.results[i][0].transcript;
+                    }
+                }
+
+                if (this.finalTranscript.length > 0) {
+                    if (this.options.finalCallback) {
+                        this.options.finalCallback(this.finalTranscript);
+                    }
+
+                    if (this.$element.is('input') || this.$element.is('textarea')) {
+                        this.$element.val(this.finalTranscript);
+                        setTimeout($.proxy(function () {
+                            var e = $.Event('keypress', { keyCode: 13 });
+                            this.$element.trigger(e);
+                        }, this), 1000);
+                    }
+                    if (this.$element.is("select")) {
+ 
+                        let recognizedText = this.finalTranscript.trim().toLowerCase();
+                        let options = this.$element.find("option");
+                        let bestMatch = null;
+
+                        options.each(function () {
+                            let optionText = $(this).text().trim().toLowerCase();
+                            if (optionText === recognizedText) {
+                                bestMatch = $(this).val(); // Get corresponding value of matched option
+                            }
+                        });
+
+                        if (bestMatch) {
+                            this.$element.val(bestMatch).change(); // Selects the matched option and triggers change event
+                        }
+                    }
+
+                 
+                }
+            },
+            defaultOptions: {
+                template: '<a href="javascript:;" class="speak-now"><i class="ficon fi-microphone"></i><span class="speak-instructions">{{instructions}}</span></a>',
+                finalCallback: false
+            }
+        };
+        $.fn.speechRecognition = function (options) {
+            return this.each(function () {
+                new SpeechRecognition(this, options);
+            });
+        };
+    })(FI.resources);
+});

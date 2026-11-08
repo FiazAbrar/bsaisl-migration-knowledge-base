@@ -1,0 +1,345 @@
+// Custom JS goes here
+
+var dnrdLightSrc = "/themes/gdrfad/images/gdifa-logo.svg";
+var dnrdDarkSrc = "/themes/gdrfad/images/gdifa-logo-white.svg";
+
+var dubaiGovLightSrc = "/themes/gdrfad/assets/phase3/img/dubai-gov-logo.svg";
+var dubaiGovDarkSrc = "/themes/gdrfad/assets/phase3/img/dubai-gov-logo-white.svg";
+
+
+var url = document.location.href;
+
+var windowObjectReference = null; // global variable
+var PreviousUrl; /* global variable that will store the
+                    url currently in the secondary window */
+                    
+                    
+function trackFileDownload(fileUrl, $link) {
+  if (!fileUrl) {
+    return;
+  }
+
+  var downloadExtensions = [
+    "pdf", "doc", "docx", "xls", "xlsx", "csv", "ppt", "pptx",
+    "txt", "rtf", "zip", "rar", "7z", "tar", "gz", "xml", "json",
+    "jpg", "jpeg", "png", "gif", "svg", "mp3", "wav", "mp4", "avi", "mov"
+  ];
+
+  try {
+    var parsedUrl = new URL(fileUrl, window.location.href);
+    var fileName = decodeURIComponent(parsedUrl.pathname.split("/").pop() || "");
+    var extension = fileName.indexOf(".") !== -1
+      ? fileName.split(".").pop().toLowerCase()
+      : "";
+
+    if (downloadExtensions.indexOf(extension) === -1) {
+      return;
+    }
+
+    var analyticsData = {
+      file_name: fileName,
+      file_extension: extension,
+      link_url: parsedUrl.href,
+      link_text: $.trim($link.text()) || $link.attr("aria-label") || "",
+      link_id: $link.attr("id") || "",
+      link_classes: $link.attr("class") || "",
+      link_domain: parsedUrl.hostname,
+      page_language: document.documentElement.lang ||
+        (typeof currentLanguage !== "undefined" ? currentLanguage : ""),
+      download_category: $link.attr("data-download-category") || "general",
+      link_location: window.location.href,
+      service_id: $link.attr("data-service-id") || ""
+    };
+
+    if (typeof window.gtag !== "function") {
+      return;
+    }
+
+    window.gtag("event", "file_download", analyticsData);
+  } catch (error) {
+    // Ignore invalid URLs and continue opening the file.
+  }
+}
+
+
+
+function openRequestedSinglePopup(url) {
+  if(windowObjectReference == null || windowObjectReference.closed) {
+    windowObjectReference = window.open(url, "SingleSecondaryWindowName");
+  } else if(PreviousUrl != url) {
+    windowObjectReference = window.open(url, "SingleSecondaryWindowName");
+    /* if the resource to load is different,
+       then we load it in the already opened secondary window and then
+       we bring such window back on top/in front of its parent window. */
+    windowObjectReference.focus();
+  } else {
+    windowObjectReference.focus();
+  };
+  PreviousUrl = url;
+  /* explanation: we store the current url in order to compare url
+     in the event of another call of this function. */
+}
+
+
+
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+}
+
+
+
+$(document).ready(function() {
+	
+if(theme=="gold" || theme=="dark")
+	{
+	 $(".dubai-gov-logo").attr("src", dubaiGovDarkSrc);
+	 $(".dnrd-logo").attr("src", dnrdDarkSrc);
+	}
+else
+{
+	 $(".dubai-gov-logo").attr("src", dubaiGovLightSrc);
+	 $(".dnrd-logo").attr("src", dnrdLightSrc);
+}
+      
+  $(".fancybox").fancybox(); //error line
+
+
+$(document).on('click','.fancybox-content a',function(){
+	$.fancybox.close();
+});
+
+$("#edit-captcha-response").attr("type", "tel");
+
+
+  $('.placeholder').each(function () {
+       $(this).text(numberWithCommas($(this).text()));
+    });
+
+	$('a[href*="alsaada"]').addClass('new-window-link');
+	var alsaadaURL=	$('a[href*="alsaada"]').attr('href');
+	alsaadaURL=alsaadaURL.replace("lang=en","lang=" + currentLanguage );
+		$('a[href*="alsaada"]').attr('href',alsaadaURL);
+
+
+  var popoverTriggerList = [].slice.call(
+    document.querySelectorAll('[data-bs-toggle="popover"]')
+  );
+  var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+    return new bootstrap.Popover(popoverTriggerEl);
+  });
+  
+	const btnName = 'btn'+ theme.charAt(0).toUpperCase() + theme.slice(1);
+  const themeBtn = document.getElementById(btnName);
+  const redBtn = document.getElementById('btnRed');
+  redBtn.removeAttribute('checked');
+  themeBtn.setAttribute('checked', true);
+  
+  $("#btnRed").click(function () {	toggleThemeStyle('red');});
+  $("#btnBlue").click(function () { 	toggleThemeStyle('blue'); });
+  $("#btnDark").click(function () { 	toggleThemeStyle('dark'); });
+  $("#btnGold").click(function () { 	toggleThemeStyle('gold'); });
+
+  $("#btnFontUp").click(function () { fontUp(); });
+  $("#btnFontNormal").click(function () { 	fontNormal(); });
+  $("#btnFontDown").click(function () { fontDown(); });
+
+ $("a.external-link").click(function () {
+	strExternalLink = $(this).attr('data-url');//this.href;
+	$("#btnContinueExternal").click(function () {
+      //window.open(strExternalLink);
+	 		openRequestedSinglePopup(strExternalLink);
+     // $("#modalExternalLink").modal("hide"); //error line
+       bootstrap.Modal.getInstance(document.getElementById('modalExternalLink')).hide();
+
+    });
+    
+    var myModal = new bootstrap.Modal(document.getElementById('modalExternalLink'), {
+  keyboard: false
+});
+   
+    myModal.show();
+   //bootstrap.Modal.getInstance(document.getElementById('modalExternalLink')).show();
+	
+  //  $("#modalExternalLink").modal("show"); //error line
+    return false;
+  });
+  
+    $("a.internal-link").click(function () {
+	var strInternalLink = $(this).attr('data-url');//this.href;
+ document.location.href=strInternalLink;
+});
+
+$("a.external-gov-link").click(function () {
+		strExternalLink = $(this).attr('data-url');//this.href;
+
+  openRequestedSinglePopup(strExternalLink);
+ 
+});
+/*
+ $("a.dubai-ai-link").click(function () {
+   // window.open(this.href, "_blank");
+	openRequestedSinglePopup($(this).attr('data-url'));   
+   return false;
+  });  
+*/
+
+ $("a.new-window-link").click(function () {
+   // window.open(this.href, "_blank");
+	openRequestedSinglePopup(this.href);   
+   return false;
+  });  
+  
+    
+   $("a.pdf-link").click(function () {
+	var $pdfLink = $(this);
+	var fileUrl = $pdfLink.attr('data-url') || $pdfLink.attr('href');
+	trackFileDownload(fileUrl, $pdfLink);
+	openRequestedSinglePopup(fileUrl);   
+   return false;
+  });  
+  
+  
+  
+  /* $("a.pdf-link").click(function () {
+	openRequestedSinglePopup($(this).attr('data-url'));   
+   return false;
+  });  
+  */
+    
+ 
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 20) {
+      $("#toTopBtn").fadeIn();
+    } else {
+      $("#toTopBtn").fadeOut();
+    }
+  });
+
+  $("#toTopBtn").click(function () {
+    $("html, body").animate(
+      {
+        scrollTop: 0,
+      },
+      1000
+    );
+    return false;
+  });
+
+
+
+  var pageURL = $(location).attr("href");
+  
+	  /*Bootstrap Menu*/
+	// Add slideDown animation to Bootstrap dropdown when expanding.
+	$(".dropdown").on("show.bs.dropdown", function () { //error lline
+	  $(this).find(".dropdown-menu").first().stop(true, true).slideDown();
+	});
+	
+	// Add slideUp animation to Bootstrap dropdown when collapsing.
+	$(".dropdown").on("hide.bs.dropdown", function () {
+	  $(this).find(".dropdown-menu").first().stop(true, true).slideUp();
+	});
+	 
+	 
+});
+
+
+function fontUp() {
+  const objects = document.querySelectorAll("a,p,li,div,span");
+  objects.forEach((objects) => {
+    objects.style.fontSize = "20px";
+  });
+}
+function fontDown() {
+  const objects = document.querySelectorAll("a,p,li,div,span");
+  objects.forEach((objects) => {
+    objects.style.fontSize = "12px";
+  });
+}
+function fontNormal() {
+  const objects = document.querySelectorAll("a,p,li,div,span");
+  objects.forEach((objects) => {
+    objects.style.fontSize = "16px";
+  });
+}
+
+function grayScale() {
+  document.querySelector("html").style.filter = "grayscale(1)";
+}
+
+function getParameterByName(name, url = window.location.href) {
+  name = name.replace(/[\[\]]/g, "\\$&");
+  var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+    results = regex.exec(url);
+  if (!results) return null;
+  if (!results[2]) return "";
+  console.log(decodeURIComponent(results[2].replace(/\+/g, " ")));
+  return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+
+/*
+ * Recaptcha bug fix with ajax rendring form.
+
+
+  Drupal.behaviors.recapcha_ajax_behaviour = {
+    attach: function(context, settings) {
+      if (typeof grecaptcha != "undefined") {
+        var captchas = document.getElementsByClassName('g-recaptcha');
+        for (var i = 0; i < captchas.length; i++) {
+          var site_key = captchas[i].getAttribute('data-sitekey');
+          if (!$(captchas[i]).html()) {
+            grecaptcha.render(captchas[i], { 'sitekey' : site_key});
+          }
+        }
+      }
+    }
+  }
+  
+   */
+  
+/* Search Form */
+/*
+$("#searchForm").on("shown.bs.collapse", function () {
+  // focus input on collapse
+  $("#search").focus();
+});
+*/
+
+
+
+
+
+//ReadSpeaker
+	window.rsConf = {
+		general: {enableSkipAlways: true, noCookie: true},
+		settings: { hlicon: 'iconoff'}
+	};
+
+
+
+document.querySelector('.skip-link')?.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    const target = document.querySelector('.gdrfa-banner-card-content');
+
+    if (!target) return;
+
+    target.setAttribute('tabindex', '-1');
+
+    target.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center'
+    });
+
+    target.focus({ preventScroll: true });
+  //  target.classList.add('force-hover');
+
+    // Remove simulated hover when focus is lost
+    /*
+    target.addEventListener('blur', function () {
+        target.classList.remove('force-hover');
+    }, { once: true });
+    */
+    
+});

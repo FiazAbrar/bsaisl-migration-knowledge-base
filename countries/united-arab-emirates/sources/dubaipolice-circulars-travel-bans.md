@@ -1,0 +1,13 @@
+# Dubai Police
+
+## Smart - Your Safety; Powered by Smart Solutions.
+
+### Secure - Protecting every Home, every Family, every Day.
+
+#### Together - Connecting Hearts, Building Trust. Stronger as One.
+
+##### Leading the Way in Smart Policing
+
+###### Shaping the Future, Side by Side
+
+[Sitemap](/app/home/sitemap)

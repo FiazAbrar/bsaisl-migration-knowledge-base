@@ -1,0 +1,251 @@
+
+
+CBUAE | Domestic Market Operations
+
+Search our website
+
+Advanced Search
+
+Search
+
+Notifications
+
+Accessibility settings
+
+Text size
+
+A-
+
+Text size
+
+A+
+
+Theme color
+
+#DAAA00
+
+#00C7B1
+
+#F87C56
+
+Color blind mode
+
+Color blind mode
+
+Night reading mode
+
+Night reading mode
+
+Listen
+
+Rate this page 
+
+Rated by 
+0
+ People
+
+Thanks for rating
+
+Back
+
+                                Domestic Market Operations
+
+Foreign Exchange Operations
+
+To maintain the stability of the UAE Dirham peg against the US dollar, the Central Bank of the UAE intervenes automatically in the foreign exchange market. This includes the purchase of any inflow of funds to the UAE, or by providing foreign currency funds to participants in the foreign exchange market to match any outflow of funds from the UAE.
+
+This prevents the net flow of funds from affecting the exchange rate parity between the UAE dirham and the US dollar. The rates at which we intervene are:
+
+USD/AED rate of 3.672 when buying US dollars.
+
+USD/AED 3.673 when selling US dollars.
+
+Standing Facilities
+
+Overnight Deposit Facility (ODF)
+
+                                    The ODF is the prime facility for managing surplus liquidity in the UAE banking sector. It enables conventional banks and other eligible counterparties to deposit their surplus liquidity at the CBUAE on an overnight basis. The interest rate payable on funds deposited in the ODF (the Base Rate) provides the effective interest rate floor for overnight money market rates. 
+
+Related Notice
+
+Intraday Liquidity Facility (ILF)
+
+                                    The ILF provides eligible counterparties – participants in the UAE Funds Transfer System (UAEFTS) - access to the CBUAE Dirham funding scheme. This collateralised scheme helps eligible counterparties to manage unforeseen intraday payment disruptions or gridlocks, to ensure that payments through the UAEFTS are settled on a real-time basis.
+
+Related Notice
+
+Related Terms and Conditions
+
+Marginal Lending Facility (MLF)
+
+                                    The MLF is a conventional funding facility where eligible counterparties may, at their own discretion, access CBUAE reserves for overnight settlement to deal with temporary idiosyncratic liquidity imbalances. To access the facility, eligible counterparties shall pledge collateral via repurchase agreements, or in the form of foreign exchange swaps. 
+
+Related Notice
+
+Related Terms and Conditions
+
+Collateralized Murabaha Facility (CMF)
+
+                                    The CMF is a funding facility where eligible counterparties may, at their own discretion, access CBUAE reserves, in accordance with Islamic Shari’ah rules, for overnight settlement to deal with temporary idiosyncratic liquidity imbalances. To access the facility, eligible counterparties shall pledge collateral, via a collateral management agreement or in the form of foreign exchange swaps.
+
+Related Notice
+
+Related Terms and Conditions
+
+Overnight Murabaha Facility (OMF)
+
+                                    The OMF is a Shari’ah-compliant liquidity management facility. It enables licensed financial institutions that carry out all or part of their activities and business in accordance with the provisions of Islamic Shari’ah to manage their Liquidity Surplus at CBUAE on an overnight basis. The profit rate applicable to the OMF is the Base Rate of the CBUAE, adjusted for the prevailing cost of associated commodity Murabaha transactions.
+
+Related Notice
+
+Structural Operations
+
+Structural Open Market Operations are executed whenever the CBUAE wishes to adjust the level of structural liquidity within the banking sector. The purpose of the structural operations is to absorb the majority of excess liquidity in the banking system, or reverse operations whenever necessary, to promote domestic market development. Such operations can be executed in the form of the following transactions:
+
+1. Issuance of Monetary Bills (M-Bills):
+
+The issuance of M-Bills consists of regular zero-coupon securities with tenors of up to one year. They are typically issued on a fortnightly basis via competitive tender, though non-regular issuance can also occur. Issuance may also be on a non-competitive basis, should the need arise. Utilising a Primary Dealer system, the issuance of M-Bills also serves to form the short-end of the UAE Dirham denominated yield curve, while also providing the necessary infrastructure for the domestic issuance of securities by government and related entities. For further information, please refer to the M-Bills Tender Process Rules and related Terms & Conditions
+
+Related Notice
+
+M Bills Tender Process Rules
+
+Related Terms And Conditions
+
+M-Bills Indicative Pricing Methodology
+
+2. Reverse M-Bills Transactions where the CBUAE buys back M-Bills:
+
+Reverse M-Bills transactions refer to the process by which the CBUAE purchases M-Bills from eligible counterparties. Such transactions may take place via competitive tender or bilaterally, and may be used to address any structural liquidity imbalances evident in local money markets. The CBUAE may also engage in such transactions for the purpose of supporting market development.
+
+Related Notice
+
+Related Terms and Conditions
+
+3. Regular Issuance of Islamic Certificates of Deposit (ICDs):
+For banks that conduct all or part of their business in compliance with the provisions of Islamic Shari’ah, the CBUAE issues Islamic Certificates of Deposit (ICDs) based on Commodity Murabaha on a regular basis. ICDs, with tenors of 1, 3, 6 and 12 months, are issued fortnightly, with the calendar aligned to the M-Bills issuance schedule.
+
+Related Notice
+
+Islamic CDs Product Description
+
+M-Bills Tender Calendar
+
+Download the M-Bills Tender Calendar
+
+Download the M-Bills Tender Results Summary
+Download the Upcoming M-Bills Tender Announcement
+
+Fine-Tuning Operations
+
+Foreign Exchange Swaps Facility
+
+Foreign exchange swaps consist of simultaneous spot and forward transactions in UAE Dirhams against US Dollars. They are used for fine-tuning operations, primarily with the goals of managing liquidity in the banking system and steering short-term interest rates towards the Base Rate. The CBUAE may utilise foreign exchange swaps to provide UAE Dirham liquidity in the market by selling UAE Dirhams against US Dollars in the spot market, and buying UAE Dirhams against US Dollars in the forward market. Conversely, the CBUAE may also absorb liquidity from the market by buying UAE Dirhams against US Dollars in the spot market, and selling UAE Dirhams against US Dollars in the forward market.
+
+Related Notice
+
+Related Terms & Conditions 
+
+Matched Transactions of Securities (MTS) and Term Lending Facility (TLF)
+
+MTS and TLF refers to fine-tuning operations in which the CBUAE may adjust the liquidity balance in the banking system and/or for the purpose of meeting the reserve requirements averaging target. For operations in which the CBUAE intends to provide liquidity, it shall use repurchase transactions. Conversely, should the CBUAE intend to absorb liquidity, it shall use reverse repurchase transactions for such purposes.
+
+Foreign Exchange Muqayadah Facility
+
+Foreign exchange muqayadah consists of two distinct foreign exchange transactions in UAE Dirhams against US Dollars. The CBUAE uses this facility, at its own discretion, for fine-tuning open market operations, primarily with the goals of managing liquidity in the banking system and steering money market rates towards the Base Rate. The CBUAE may utilize foreign exchange muqayadah to provide UAE Dirham liquidity in the market by selling UAE Dirhams against US Dollars through a spot transaction (the near transaction) and buying UAE Dirhams against US Dollars through a designated future transaction (the far transaction). Conversely, the CBUAE may also absorb liquidity through a spot transaction by buying UAE Dirhams against US Dollars and selling UAE Dirhams against US Dollars through a designated future transaction. With respect to the designated future transaction, the terms and conditions of this facility are drafted based on a structure involving a single unilateral undertaking (Shari’ah-compliant foreign exchange “Wa’ad”).
+Related Notice
+Related Terms & Conditions
+
+Liquidity Insurance
+
+Contingent Liquidity Insurance Facility (CLIF)
+
+The CBUAE may, on a contingent basis and at its own discretion, activate the CLIF in response to actual or prospective stress of an exceptional nature, which could be market-wide or idiosyncratic. The CLIF serves as a backstop liquidity facility, where eligible counterparties can access CBUAE reserves for term settlement by pledging securities as collateral via a repurchase agreement for conventional funding, or via a collateral management agreement for funding in accordance with the Islamic Shari’ah rules.
+
+Related Notice
+
+Related Terms and Conditions
+
+US Dollar Liquidity Facility
+
+The US Dollar Liquidity Facility serves as a backstop liquidity insurance facility.  The CBUAE may, on a contingent basis and at its own discretion, activate this collateralized facility in response to any actual or prospective market-wide stress of an exceptional nature, where Eligible Counterparties can access US Dollar funding from the CBUAE for an extended term – by posting Monetary Bills or Islamic Certificates of Deposit issued by the CBUAE as collateral.
+
+Related Notice
+Related Terms & Conditions
+
+Statutory Reserve Requirements
+
+Statutory reserves are used primarily for liquidity management purposes, such as drawing against reserves, and to provide protection against both liquidity and solvency risks.
+
+Related Notice
+Related Regulations
+
+                    Last updated on: 
+
+Wednesday 04 November 2026                    
+
+Total visitors 
+32699
+
+Reach Out
+
+For general enquiries: 
+
++971 2 691 5555
+
+[email protected]
+
+Publications
+
+Events RSS Feed
+
+News and Insights
+
+Sitemap
+
+Contact Us
+
+Privacy Policy
+
+Careers
+
+The UAE Government Charter
+
+Terms and Conditions
+
+Accessibility policy
+
+Disclaimer
+
+Whistleblowing
+
+Khadamati
+
+FAQ
+
+Fraudulent Reporting
+
+Glossary
+
+Code Of Conduct
+
+Services Directory
+
+                        This site is best viewed with screen resolution 1280x1024 supporting Edge+, Firefox, Opera and Chrome latest versions.
+
+Add-ons and plug-ins
+
+© 2026 Central Bank of the UAE
+
+Login
+
+    var currentContentAlias = Umbraco.AssignedContentItem?.ContentType.Alias;
+    if (!string.Equals(currentContentAlias, "openData", StringComparison.OrdinalIgnoreCase))
+    {
+
+Add a Comment
+
+Thank you for your feedback
+
+    }
+

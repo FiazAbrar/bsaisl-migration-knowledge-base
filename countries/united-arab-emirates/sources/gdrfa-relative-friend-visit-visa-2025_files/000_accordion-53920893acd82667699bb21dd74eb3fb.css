@@ -1,0 +1,221 @@
+.accordion-item {
+  background: var(--surface-surface, #ffffff);
+  border-radius: var(--radius-xs, 8px) !important;
+  border-style: solid !important;
+  border-color: var(--surface-outline, #e4e2e6) !important;
+  border-width: 1px !important;
+  padding: var(--padding-padding-lg, 16px);
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-gap-xl, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  flex-shrink: 0;
+  max-width: var(--device-Breakpoint);
+  position: relative;
+  
+}
+.accordion-item .header {
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: inherit;
+  display: flex;
+  flex-direction: row;
+  gap: var(--8px, 8px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  cursor: pointer;
+}
+.accordion-item .left-icon {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.accordion-item .icon-config {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.accordion-item .home {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.accordion-item .text-container {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.accordion-item .accordion-title {
+  color: var(--surface-on-surface, #000000);
+  /*text-align: left;*/
+  font-family: var(--font-family, "Dubai-Regular", sans-serif);
+  font-size: var(--font-size-h6, 20px);
+  line-height: var(--line-height-h6, 28px);
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.accordion-item .right-icon {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.accordion-item .arrow {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.accordion-item .content-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-gap-lg, 16px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.accordion-item .list-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-gap-xs, 4px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.accordion-item .subtitle {
+  color: var(--surface-on-surface, #000000);
+  /*text-align: left;*/
+  font-family: var(--font-family, "Dubai-Regular", sans-serif);
+  font-size: var(--font-size-body, 16px);
+  line-height: var(--line-height-body, 24px);
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 24px;
+}
+.accordion-item .description {
+  color: var(--surface-on-surface-variant, #40484f);
+  /*text-align: left;*/
+  font-family: var(--font-family, "Dubai-Regular", sans-serif);
+  font-size: var(--font-size-body, 16px);
+  line-height: var(--line-height-body, 24px);
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.accordion-item .button {
+  border-radius: var(--roundness-round-inside, 6px);
+  display: flex;
+  flex-direction: row;
+  gap: var(--6px, 6px);
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.accordion-item .button-container {
+  border-radius: var(--radius-sm, 12px);
+  display: flex;
+  flex-direction: row;
+  gap: var(--gap-gap-xs, 4px);
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.accordion-item .text {
+  color: var(--primary-primary, #2a638b);
+  /*text-align: left;*/
+  font-family: var(--font-family, "Dubai-Regular", sans-serif);
+  font-size: var(--font-size-caption, 14px);
+  line-height: var(--line-height-caption, 20px);
+  letter-spacing: var(--letter-spacing-caption, 0.01em);
+  font-weight: 400;
+  position: relative;
+}
+.accordion-item .trail-icon {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.accordion-item .button-icon-config {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.accordion-item .arrow-forward {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+
+.accordion-content {
+  transition: all 0.3s ease;
+}
+
+.accordion-item .arrow {
+  transition: transform 0.3s ease;
+}
+
+.accordion-item.expanded .arrow {
+  transform: rotate(180deg);
+}
+
+.accordion-item:not(:first-of-type) {
+  border-top: solid;
+}

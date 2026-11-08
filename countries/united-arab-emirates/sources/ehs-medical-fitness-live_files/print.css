@@ -1,0 +1,409 @@
+@media print {
+    [data-icms-form-recaptcha], .backtotop, .footer > div > div.first-sec, .footer > div > div.second-sec, .services-section .searchbox, .services-section .view-all, .services-section .services-tab-wrap .services-slider .slide .service-box .favourite-btn, .initiatives-section .initiatives-wrap .view-all, .media-section .media-wrap .view-all, .ehs-number-section .view-all, .services-section .tabs-wrap .nav.nav-tabs, .services-section .services-tab-wrap .services-slider .slide .service-box .content-wrapper .button-box, .news-content .border-link, .alert-section, header .header-section .logo-menu-wrap .menu-box-wrapper, header .banner-section, .copyright-wrap .social, .services-section .services-tab-wrap .services-slider .slide .service-box .content-wrapper h3 i, .tawk-min-container .tawk-button-circle.tawk-button-large, .media-section .media-wrap .tabs-wrap .nav.nav-tabs, .copyright-wrap .bottom-links, div[data-admin-mode], .sticky-links, .content-helpful-wrapper, .pagenation-wrapper, .uwy.userway_p1 .uai, .sdgs-buzz-goal-frame, .tawk-mobile {
+        display: none !important
+    }
+
+    .about-page .objective-wrap ul li {
+        width: 100%
+    }
+
+    .initiatives-section .initiatives-wrap .initiatives-slider .item .item-wrap .content-wrap::after {
+        content: ""
+    }
+
+    .services-section .services-tab-wrap .services-slider .slide .service-box {
+        height: 58px
+    }
+
+        .services-section .services-tab-wrap .services-slider .slide .service-box .content-wrapper {
+            top: 0 !important;
+            height: auto;
+            padding: 2px 0 0 0
+        }
+
+    .owl-carousel {
+        width: 100% !important
+    }
+
+        .owl-carousel .owl-stage-outer .owl-stage {
+            width: 100% !important;
+            left: 0 !important;
+            right: 0 !important;
+            padding: 0 !important;
+            -webkit-transition: none !important;
+            transition: none !important;
+            -webkit-transform: none !important;
+            transform: none !important
+        }
+
+        .owl-carousel .owl-nav, .owl-carousel .owl-dots {
+            display: none !important
+        }
+
+        .owl-carousel .owl-item {
+            width: 275px !important;
+            margin: 0 5px !important;
+            page-break-inside: avoid
+        }
+
+    .services-section .services-tab-wrap .owl-item {
+        width: 100% !important
+    }
+
+    .initiatives-section .initiatives-wrap .initiatives-slider .item .item-wrap {
+        min-height: 310px !important
+    }
+
+        .initiatives-section .initiatives-wrap .initiatives-slider .item .item-wrap .content-wrap {
+            top: auto !important
+        }
+
+    .initiatives-section .initiatives-wrap .initiatives-slider .item {
+        padding: 5px 0 5px 0
+    }
+
+    .copyright-wrap .hotline {
+        position: relative;
+        top: -28px
+    }
+
+    .copyright-wrap .pd40 {
+        padding: 15px 0 0 0 !important
+    }
+
+    .services-section {
+        padding: 0 !important
+    }
+
+    .initiatives-section, .ehs-number-section {
+        page-break-inside: avoid
+    }
+
+    .inner-banner {
+        padding-bottom: 25px
+    }
+
+    .inner-landing-page .landing-pages-content .data-border-box {
+        height: 100px
+    }
+
+        .inner-landing-page .landing-pages-content .data-border-box div.button-box {
+            display: none
+        }
+
+    .service-list-page .service-search, .service-list-page .top-wrapper {
+        display: none
+    }
+
+    .service-list-page .service-items .service-box .favourite-btn {
+        display: none
+    }
+
+    .service-list-page .service-items .service-box {
+        height: 100px
+    }
+
+        .service-list-page .service-items .service-box .content-wrapper {
+            top: auto;
+            height: 100px
+        }
+
+            .service-list-page .service-items .service-box .content-wrapper .button-box .btn-wrapper, .service-list-page .service-items .service-box .content-wrapper .button-box a.start-services {
+                display: none
+            }
+
+            .service-list-page .service-items .service-box .content-wrapper h3 i {
+                display: none
+            }
+
+    .service-card-page .start-action, .service-card-page .service-card-content .service-highlights .highlights-item .highlights-aside .pre-links ul li .links {
+        display: none
+    }
+
+    .service-card-page .service-card-content .service-card-details {
+        page-break-inside: avoid
+    }
+
+        .service-card-page .service-card-content .service-card-details .aside-box .content img {
+            width: 100px
+        }
+
+        .service-card-page .service-card-content .service-card-details .accordion .accordion-body {
+            margin: 15px 0 0 0;
+            padding: 15px
+        }
+
+            .service-card-page .service-card-content .service-card-details .accordion .accordion-body .process-wrapper {
+                padding: 0 15px;
+                text-align: left
+            }
+
+        .service-card-page .service-card-content .service-card-details .owl-carousel .owl-item {
+            width: 100% !important
+        }
+
+        .service-card-page .service-card-content .service-card-details .collapse:not(.show) {
+            display: block
+        }
+
+    .health-facilities-page .facilities-items {
+        page-break-inside: avoid
+    }
+
+    .health-facilities-page .service-search, .health-facilities-page .filter-wrapper {
+        display: none
+    }
+
+    .inner-landing-page .container-fluid {
+        page-break-inside: avoid
+    }
+
+    .social-meida-channels-page .top-wrapper, .social-meida-channels-page .card-bottom {
+        display: none
+    }
+
+    .social-meida-channels-page .social-meida-channels-content .meida-items .result-item .row > div {
+        width: 290px
+    }
+
+    .e-consultations-page .e-consultations-content .consultations-tabs {
+        display: none
+    }
+
+    .e-consultations-page .e-consultations-content .consultations-item {
+        margin: 20px 0
+    }
+
+        .e-consultations-page .e-consultations-content .consultations-item .consultations-box .button-box {
+            display: none
+        }
+
+    .e-consultations-page .e-consultations-content .consultations-dis {
+        padding-bottom: 20px
+    }
+
+    .poll-page .collapse:not(.show) {
+        display: block
+    }
+
+    .poll-page .results-wrapper .accordion-wrapper .accordion-item {
+        page-break-inside: avoid
+    }
+
+    .open-data-page .filter-wrapper {
+        display: none
+    }
+
+    .open-data-page .open-data-content .top-actions {
+        display: none
+    }
+
+    .open-data-page .open-data-content .open-data-table .table thead tr th:nth-child(4), .open-data-page .open-data-content .open-data-table .table thead tr th:nth-child(5), .open-data-page .open-data-content .open-data-table .table thead tr th:nth-child(6), .open-data-page .open-data-content .open-data-table .table thead tr th:last-child {
+        display: none
+    }
+
+    .open-data-page .open-data-content .open-data-table .table tr.first-level td.col-four, .open-data-page .open-data-content .open-data-table .table tr.first-level td.col-five, .open-data-page .open-data-content .open-data-table .table tr.first-level td.col-six {
+        display: none
+    }
+
+    .static-page .about-page .vm-box {
+        page-break-inside: avoid
+    }
+
+    .static-page .about-page .img-box {
+        margin-bottom: 30px
+    }
+
+        .static-page .about-page .img-box .overlay-box {
+            display: none
+        }
+
+    .about-page.pfac-page .contact-wrapper, .about-page.pfac-page .positive-patient-guidelines-page {
+        page-break-inside: avoid
+    }
+
+    .organization-chart-page .subdirector > li:first-child {
+        border-left: 0
+    }
+
+    .organization-chart-page ul span {
+        font-size: .7em
+    }
+
+    .organization-chart-page .subdg li .supersub li {
+        margin: 0px -40px 0px -35px;
+        width: 30.5%
+    }
+
+    .organization-chart-page .departments > li:first-child {
+        display: none
+    }
+
+    .organization-chart-page .department:before {
+        margin-left: 12px
+    }
+
+    .organization-chart-page .department li span {
+        width: 97%;
+        height: 75px
+    }
+
+    .about-page .about-sub-title {
+        page-break-inside: avoid
+    }
+
+    .health-legistlation-page .health-legistlation-search, .health-legistlation-page .top-wrapper, .health-legistlation-page .health-legistlation-items .health-legistlation-box .content-wrapper .ctn-box .ctn-wrapper .view-info {
+        display: none
+    }
+
+    .dg-page .img-box .overlay-box {
+        display: none
+    }
+
+    .dg-page .img-box .img-wrap {
+        background: none
+    }
+
+    .strategic-partners-page .table .first-level .col-one {
+        width: 60%
+    }
+
+    .strategic-partners-page .accordion-wrapper .accordion-custom .collapse:not(.show) {
+        display: block
+    }
+
+    .initiatives-page .initiatives-page-content .filter-wrapper {
+        display: none
+    }
+
+    .initiatives-page .initiatives-item .col-sm-12 {
+        width: 50%
+    }
+
+    .about-page.pfac-page .core-values-wrap .core-values-item {
+        page-break-inside: avoid
+    }
+
+    .youth-council-page .img-box {
+        margin-bottom: 30px
+    }
+
+        .youth-council-page .img-box .overlay-box {
+            display: none
+        }
+
+    .youth-council-page .consultant-list .col-sm-12 {
+        width: 50%
+    }
+
+    .youth-council-page .consultant-wrapper, .youth-council-page.pfac-page .contact-wrapper {
+        page-break-inside: avoid
+    }
+
+    .nursing-midwifery-page .stay-connected-columns .content .action-wrapper .view-all {
+        display: none
+    }
+
+    .nursing-midwifery-page .applications-wrapper, .nursing-midwifery-page .nursing-clinical-wrap, .nursing-midwifery-page .specialization-wrap, .nursing-midwifery-page .daisy-award-wrapper, .nursing-midwifery-page .stay-connected-columns {
+        page-break-inside: avoid
+    }
+
+        .nursing-midwifery-page .daisy-award-wrapper .daisy-award-box a.border-link {
+            display: none
+        }
+
+    .media-hub-page .media-top-control, .media-hub-page .filter-wrapper, .media-hub-page .form-filter {
+        display: none
+    }
+
+    .media-hub-page .news-wrapper .col-md-6 {
+        width: 50%
+    }
+
+    .media-hub-page .event-wrapper .col-sm-6 {
+        width: 50%
+    }
+
+    .media-hub-page .photos-wrapper .card-bottom a.border-link {
+        display: none
+    }
+
+    .media-hub-page .photos-wrapper .col-sm-6 {
+        width: 50%
+    }
+
+    .media-hub-page .videos-wrapper .card-bottom a.border-link {
+        display: none
+    }
+
+    .media-hub-page .videos-wrapper .col-sm-6 {
+        width: 50%
+    }
+
+    .media-kit-page .service-search, .media-kit-page .media-tab {
+        display: none
+    }
+
+    .awareness-covide-page .awareness-covide-content .action-wrapper {
+        display: none
+    }
+
+    .awareness-covide-page .awareness-covide-content .important-documents .documents-slide .documents-card {
+        height: 120px
+    }
+
+    .awareness-covide-page .awareness-covide-content .owl-carousel .owl-item {
+        padding-bottom: 10px
+    }
+
+    .static-page .accordion.accordion-custom .accordion-item {
+        page-break-inside: avoid
+    }
+
+    .static-page .accordion.accordion-custom .collapse:not(.show) {
+        display: block
+    }
+
+    .positive-patient-guidelines-page {
+        page-break-inside: avoid
+    }
+
+        .positive-patient-guidelines-page .guidelines-items .guidelines-card .card-bottom .border-link {
+            display: none
+        }
+
+    .faq-page .filter-wrapper {
+        display: none
+    }
+
+    .faq-page .accordion .collapse:not(.show) {
+        display: block
+    }
+
+    .contact-us-page .contact-us-content .contact-form .form-wrapper .filed-item.btn-filed {
+        display: none
+    }
+
+    .contact-us-page .contact-us-content .info-wrapper .column .address-wrapper {
+        width: 100%
+    }
+
+    .contact-us-page .contact-us-content .info-wrapper .column .map-wrapper {
+        display: none
+    }
+
+    .contact-us-page .contact-us-content .contact-channels .cu-channels .channels-item li.title-panel .cu-head .details {
+        padding: 0 5px;
+        margin: 0 5px
+    }
+
+    .glossary-page .glossary-bullet-list.fixed {
+        display: none
+    }
+    .right-section {
+        display: none
+    }
+    [data-dynamic-form] {
+        display: none
+    }
+}

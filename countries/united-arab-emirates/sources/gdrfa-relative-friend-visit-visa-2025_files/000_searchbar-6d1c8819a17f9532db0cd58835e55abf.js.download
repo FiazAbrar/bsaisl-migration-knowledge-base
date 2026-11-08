@@ -1,0 +1,73 @@
+(function ($, Drupal, once) {
+  Drupal.behaviors.searchEnhancements = {
+    attach: function (context, settings) {
+      once('searchEnhancements', '.gdrfa-search-input', context).forEach(function (input) {
+        const wrapper = input.closest('.gdrfa-search-wrapper');
+        const clearBtn = wrapper?.querySelector('.gdrfa-search-clear-icon');
+
+        const updateClearButton = () => {
+          const hasValue = input.value.trim() !== '';
+          if (clearBtn) {
+            clearBtn.style.display = hasValue ? 'flex' : 'none';
+          }
+        };
+
+        // Show/hide clear button on input
+        input.addEventListener('input', updateClearButton);
+
+        // Clear button functionality
+        if (clearBtn) {
+          clearBtn.addEventListener('click', () => {
+            input.value = '';
+            updateClearButton();
+            input.focus();
+            input.dispatchEvent(new Event('input'));
+          });
+        }
+
+        // Focus/blur effect on wrapper
+        if (wrapper) {
+          input.addEventListener('focus', () => {
+            wrapper.classList.add('focused');
+          });
+
+          input.addEventListener('blur', () => {
+            wrapper.classList.remove('focused');
+          });
+        }
+
+        // Initial button state
+        updateClearButton();
+      });
+    }
+  };
+
+  // Force jQuery UI autocomplete menu to stay inside wrapper
+  Drupal.behaviors.customAutocompleteAppendTo = {
+    attach: function (context, settings) {
+      once('customAutocompleteFix', 'input.ui-autocomplete-input', context).forEach(function (inputEl) {
+        const $input = $(inputEl);
+        const autocompletePath = $input.attr('data-autocomplete-path');
+
+        if (autocompletePath) {
+          $input.autocomplete({
+            source: function (request, response) {
+              $.getJSON(autocompletePath, { q: request.term }, response);
+            },
+            appendTo: $input.parent(), // Wrap suggestions inside search wrapper
+            minLength: 1,
+            open: function () {
+              const $menu = $(this).autocomplete('widget');
+              $menu.css({
+                width: $input.outerWidth(),
+                maxWidth: '100%',
+                overflowX: 'hidden',
+                boxSizing: 'border-box'
+              });
+            }
+          });
+        }
+      });
+    }
+  };
+})(jQuery, Drupal, once);

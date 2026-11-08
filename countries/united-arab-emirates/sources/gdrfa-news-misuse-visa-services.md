@@ -1,0 +1,25 @@
+### GDRFA Dubai Addresses Violations Involving the Misuse of Visa Procedures Through Social Media Platfo
+
+![GDRFA Dubai Addresses Violations Involving the Misuse of Visa Procedures Through Social Media Platforms](/sites/default/files/styles/max_1300x1300/public/news-images/Protecting-Comm-Post.png?itok=PiQkn5PT)
+
+\
+
+**Dubai, United Arab Emirates – 19 June 2026 **The General Directorate of Identity and Foreigners Affairs – Dubai (GDRFA Dubai), represented by the Investigation and Follow-up Department within the Violators and Foreigners Follow-up Sector, announced that it has addressed a number of violations identified across social media platforms involving the promotion of unauthorized services related to visa and residency procedures. This comes as part of its ongoing efforts to protect community members and raise awareness about the importance of relying on official channels when accessing government services.
+
+H.E. Lieutenant General Mohammed Ahmed Al Marri, Director General of the General Directorate of Identity and Foreigners Affairs in Dubai, affirmed that protecting community members and strengthening confidence in government service systems remain a strategic priority for GDRFA Dubai. He noted that addressing unlawful practices and entities promoting unauthorized services comes as part of the Directorate’s commitment to safeguarding customers’ rights and ensuring that services are obtained through official and approved channels, in line with Dubai’s approach to delivering proactive digital government services that enhance quality of life and foster a secure and trusted service environment.
+
+Major General Dr. Ali bin Ajif Al Zaabi, Assistant Director General of the Violators and Foreigners Follow-up Sector at GDRFA Dubai, affirmed that specialized teams continuously monitor practices that may affect the integrity of procedures or exploit individuals seeking residency services, and deal with them immediately in accordance with approved legal procedures.
+
+Major Al Zaabi explained that the investigation and follow-up teams-initiated monitoring and verification procedures immediately after receiving information regarding these practices. Comprehensive monitoring and verification processes were carried out to confirm the nature of the violations and identify the parties involved before taking the necessary measures. The follow-up operations revealed that some entities were promoting unauthorized services through digital platforms related to visa and residency procedures, which could potentially expose individuals to exploitation or provide them with inaccurate information regarding official processes.
+
+He added that, in coordination with the relevant authorities and in accordance with approved legal procedures, the necessary measures were taken to address these practices, reflecting GDRFA Dubai’s commitment to safeguarding customers’ rights and promoting adherence to official channels and regulations governing entry and residency services.
+
+Major General Dr. Ali bin Ajif Al Zaabi further stressed that GDRFA Dubai continues to enhance its readiness to protect the entry and residency ecosystem and address any unlawful practices in a manner that preserves rights and safeguards community security, noting that public awareness remains the first line of defence against such practices.
+
+GDRFA Dubai called on all members of the community to obtain visa and residency services only through official and approved channels, and to avoid responding to unreliable advertisements or offers promoted through digital platforms. It also emphasized the importance of verifying service sources before sharing personal information or making any payments.
+
+GDRFA Dubai further highlighted the importance of continued cooperation and reporting any illegal practices related to entry and residency services, noting that enhancing community awareness is a key pillar in protecting individuals’ rights and ensuring access to trusted and secure services, in support of Dubai’s efforts to establish an integrated government ecosystem that meets the aspirations of the community.
+
+ 
+
+19/06/2026

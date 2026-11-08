@@ -1,0 +1,791 @@
+PAGE META: article:published_time: 2020-07-04T06:17:08+00:00 \| article:modified_time: 2026-10-08T07:15:52+00:00
+
+[Skip to content](#primary)
+
+[![Federal Authority for Identity, Citizenship, Customs & Port Security Logo](https://icp.gov.ae/wp-content/uploads/2026/08/logo-resized.webp)](https://icp.gov.ae/en) Logo
+
+[![Global Star Rating System for Services](https://icp.gov.ae/wp-content/uploads/2026/05/4-stars-img-resized.webp) Gold star Logo](#)
+
+[![UAE GOV LOGO](https://icp.gov.ae/wp-content/uploads/2024/12/UAE-gov-logo-1-208x300-1.webp)](https://u.ae/)
+
+- Search
+
+  ## Search within the website
+
+- [Login](https://smartservices.icp.gov.ae/echannels/web/client/default.html#/login)
+  Login
+
+- Accessibility
+
+- Switch language
+
+The Federal Authority for Identity, Citizenship, Customs & Port Security was awarded a 5 star rating by the Global Star Rating System for Services on 19/11/2023
+
+[ English ](https://icp.gov.ae/en/faq/ "Language Selection") [ عربي ](https://icp.gov.ae/faq/ "Language Selection")
+
+Other languages
+
+- [Spanish](#)
+- [German](#)
+- [Portuguese](#)
+- [French](#)
+- [Russian](#)
+- [Chinese](#)
+
+Disclaimer: The display of content in other languages relies on the automated translation service provided by Google. Accordingly, the Federal Authority for Identity, Citizenship, Customs and Port Security bears no responsibility for the accuracy of the translated content.
+
+# FAQ
+
+- [](#)
+  Government Initiatives (5)
+- [](#)
+  General Questions (24)
+- [](#)
+  Residence (7)
+- [](#)
+  Passport (12)
+- [](#)
+  Family Data (7)
+- [](#)
+  Visa (10)
+- [](#)
+  ID Cards (9)
+- [](#)
+  Tabby Instalment Payments (11)
+- [](#)
+  Taqdeer Package (3)
+
+## 
+
+Services 2.0 represent the new generation of government services that focus on seamless and direct interaction with the customer, offering a personalized and fast experience that reflects the UAE Government’s digital advancement. This modern model integrates artificial intelligence and data analytics to understand customer needs and deliver services proactively before the customer even requests them while ensuring high quality and smooth performance.\
+Services 2.0 are characterized by simplicity, fewer steps, and a unified experience across various channels, aligning with customer expectations and strengthening their trust in government services.
+
+## 
+
+The Government Services Observatory is an interactive digital platform launched by the UAE government to quickly and effectively measure customer satisfaction. Through this platform, evaluation results are displayed in real time, highlighting customers’ impressions of service quality across various channels—including websites, smart applications, and service centers. The platform also enables concerned entities to analyze instant feedback, identify strengths and weaknesses, and monitor areas for improvement to ensure a more efficient and responsive experience.
+
+## 
+
+The UAE Government launched the Global Star Rating System for Services in 2011 by His Highness Sheikh Mohammed bin Rashid Al Maktoum, with the aim of creating a breakthrough in the efficiency of government services and raising their level to align with global standards. This program aims to classify service channels from 2 to 7 stars based on the results of independent assessment and auditing. The evaluation result is recorded in the audit report, which highlights the strengths and weaknesses of the channel. More than 1,000 service channels had been evaluated by the end of 2023. Service centers, digital channels, and call centers are evaluated once every two years, in addition to customer satisfaction surveys and studies based on the mystery shopper methodology. Based on this evaluation, a rating and classification report for the center is issued. In the event of a noticeable decline in the level of service provided through the channel, the evaluation will be reviewed with the possibility of changing the center’s rating and reissuing the initial audit report.
+
+The standards of the Global Star Rating System for Services reflect the highest levels of service delivery and assessment. The main focus is on excellence in delivering a unique experience and distinguished service to customers. The program enables partners to achieve outstanding results in their annual evaluation according to the star rating and highlights their strengths and areas for improvement, such as the eight main pillars of the evaluation standards. These pillars are supported by 35 sub-pillars and more than 315 criteria assessed according to four levels of maturity (Initial – Developing – Mature – Leading). At the same time, the program combines customer happiness evaluations, mystery shopper reports, and employee happiness results to ensure that the views of all stakeholders are taken into account during the evaluation process.
+
+## 
+
+The Customer Pulse Survey in the Government of the United Arab Emirates is:
+
+A flexible digital survey available on various government service delivery platforms, measuring customer satisfaction and the quality of the customer journey in applying for government services through a short, real-time survey sent to the customer after receiving the service.
+
+Purpose:
+
+Measuring customer satisfaction directly and immediately after receiving the service.\
+Improving service quality based on real feedback and opinions from customers.\
+Supporting the government’s approach in listening to customers and enhancing their experience.
+
+Features:
+
+Real-time: Sent immediately after the service is completed.\
+Short and simple: Easy and quick to fill out.\
+Digital: Available on all smart channels.\
+Contributes to making service development decisions based on the real voice of the customer.
+
+## 
+
+The UAE Government launched its Charter for Future Services in 2020 to set the main principles for designing and providing government services in the UAE.
+
+The below points are the main principles of the UAE Government Charter for Future Services. They represent a framework for designing, developing and providing government services.
+
+Human Centered Services: Providing government services that are tailored to meet human needs, requirements and preferences, and designed with customers’ feedback in mind.
+
+Digital Services by Default: Providing proactive digital government services to suit future lifestyle.
+
+Integrated, Varied and Consistent Service Channels: Providing government services through various, integrated and coordinated channels that cater to customer preferences through a unified government interface.
+
+Seamless and Proactive Experience: Providing bundles of seamless, interconnected and proactive services to the customer on time and before request, based on life events.
+
+One-time Data Provision: Designing interconnected and integrated government services that request customer data only once.
+
+Safe Data and Guaranteed Privacy: Protecting the data shared among government entities to keep it safe and ensure customer privacy.
+
+Listening to Customer’s Voice: Listening to the customer’s voice and ensuring transparency in the evaluation results.
+
+Value Added Services: Adjusting government fees to reduce costs and increase efficiency in government entities.
+
+## 
+
+If your child is under 5 years old and their facial features have changed noticeably, you may apply for the Passport Replacement Service – Change of Personal Photograph and submit a recent passport photograph of the child. The service fee is AED 65 (including issuance and delivery fees). A new passport will be issued with a validity of five years from the date of replacement. This service may be used once only during the child’s first five years of age.
+
+## 
+
+Yes. The Authority plans in future phases to expand the Easy Payment service to include additional banks, including regional and international banks, after assessing the current phase and measuring its impact on customers. This expansion aims to increase payment options and enhance financial flexibility, in line with the Authority’s direction and the UAE’s vision to support digital transformation and make customers’ lives easier.
+
+## 
+
+The list of accredited hospitals across the UAE includes the following hospitals and health centres, classified by emirate:
+
+Abu Dhabi:\
+Genetic Diagnostic Centre and Newborn Screening.
+
+Dubai:\
+Muhaisnah Health Centre.\
+Hor Al Anz Health Centre.\
+Dubai Public Health Cente.\
+Kuwait Hospital Dubai.\
+Al Ittihad Health Centre.\
+Al Aweer Health Centre.
+
+Sharjah:\
+Al Dhaid Health Centre.\
+Al Qassimi Hospital.\
+Kalba Health Centre.\
+Kuwait Hospital, Sharjah.\
+Al Dhaid Hospital.\
+Khorfakkan Hospital.\
+Kalba Hospital.\
+Nazwa Health Center.\
+Al Qassimi Women’s, Maternity and Children’s Hospital.\
+Al Riffa Health Centre.\
+Al Lulu’iya Health Centre.\
+Al Maliha Health Centre.\
+Public Health Centre – Dibba Al Hisn.\
+Public Health Centre – Al Dhaid.\
+Khorfakkan Public Health Centre.\
+Shis Health Centre.\
+Al Khalidiya Health Centre.\
+Al Nahwa Health Centre.\
+Al Bataeh Health Centre.\
+Al Hamriyah Health Centre.\
+Dibba Al Hisn Health Centre.\
+Al Qarayen Health Centre.\
+Wadi Al Helo Health Centre.\
+Al Thameed Health Centre.\
+Al Madam Health Centre.\
+Al Ruqah Health Centre.\
+Sharjah Public Health Centre.\
+Abu Musa Health Centre.\
+Al Zahra Hospital.\
+Burjeel Speciality Hospital.\
+Saudi German Hospital.\
+University Hospital.\
+Zulekha Hospital.\
+Kalba Public Health Centre.\
+Family Health Promotion Centre.\
+Khorfakkan Health Centre.
+
+Ajman:\
+City Health Centre – Ajman.\
+Mazyara Health Centre.\
+Public Health Centre – Ajman.\
+Mushairif Health Centre.\
+Al Hamidiya Health Centre.\
+Al Manama Health Centre.\
+Amina Hospital – Ajman.\
+Saudi German Hospital, Ajman.\
+Sheikh Khalifa Hospital – Masfout.\
+Sheikh Khalifa Medical City – Ajman.
+
+Umm Al Quwain:\
+Al Khazan Health Centre.\
+Al Salamah Health Centre.\
+Falaj Al Mualla Health Centre.\
+Al Raafah Health Centre.\
+Umm Al Quwain Hospital.\
+Public Health Centre – Umm Al Quwain.\
+Sheikh Khalifa General Hospital – Umm Al Quwain.
+
+Ras Al Khaimah:\
+Saqr Hospital.\
+Ibrahim Bin Hamad Obaidullah Hospital.\
+Al Munai Health Centre – Ras Al Khaimah.\
+Al Jazeera Health Centre.\
+Saif Bin Ali Al Khatri Health Centre.\
+Al Hamraniyah Health Centre.\
+Al Jeer Health Centre – Ras Al Khaimah.\
+Al Rams Health Centre.\
+Khatt Health Centre.\
+Al Digdaga Health Centre.\
+Abdullah Bin Ali Al Sharhan Health Centre.\
+Ras Al Khaimah Health Centre.\
+Julphar Health Centre.\
+Al Maareedh Health Centre.\
+Shawka Health Centre.\
+Wadi Isfni Health Center.\
+Public Health Centre – Ras Al Khaimah.\
+Al Nakheel Health Centre.\
+Shaam Hospital.\
+Obaidullah Hospital for Elderly Care and Geriatrics. Ras Al Khaimah Hospital.\
+Sheikh Khalifa Speciality Hospital.\
+Kadra Health Centre.\
+Abdullah Bin Omran Hospital for Women and Childbirth.
+
+Fujairah:\
+City Health Centre – Fujairah.\
+Masafi Hospital.\
+Dibba Hospital.\
+Merbah Health Centre.\
+Fujairah Hospital.\
+Qidfa Health Centre.\
+Al Khulaibiya Health Centre.\
+Dhadna Health Centre.\
+Al Qurayyah Health Centre.\
+Merashid Health Centre.\
+Al Siji Health Centre.\
+Wadi Al Sidir Health Center.\
+Al Towiyain Health Centre.\
+Al Badiyah Health Centre.\
+Al Hala Health Centre.\
+Fujairah Public Health Centre.\
+Al Faseel Family Health Promotion Centre.\
+Al Sharq Hospital.\
+Thumbay Hospital.
+
+## 
+
+1\) Enable notifications from your phone settings (most important)\
+iPhone (iOS)\
+Open Settings\
+Tap Notifications\
+Find and tap UAEICP\
+Turn on Allow Notifications\
+Choose how you want alerts to appear (Lock Screen / Notification Centre / Banners) and enable Sounds if needed.
+
+Android\
+Open Settings\
+Tap Notifications (or Apps \> UAEICP \> Notifications)\
+Turn Notifications ON for UAEICP (and enable the notification categories you want, if shown).
+
+2\) Inside the UAEICP app (if prompted)\
+Open UAEICP and sign in.\
+If a permission pop-up appears, tap Allow to enable notifications.
+
+## 
+
+Yes. The Authority plans in future phases to expand the Easy Payment service to include additional banks, including regional and international banks, after assessing the current phase and measuring its impact on customers. This expansion aims to increase payment options and enhance financial flexibility, in line with the Authority’s direction and the UAE’s vision to support digital transformation and make customers’ lives easier.
+
+## 
+
+Submit an Easy Payment request through the participating bank’s app, call the service centre, or visit the nearest branch.\
+-The request is forwarded to the bank to start evaluation and approval procedures.\
+-The bank reviews the customer’s financial situation and verifies eligibility according to its internal policies.\
+– The customer is notified of approval or rejection via SMS or an official electronic notification.\
+– If approved, the Easy Payment plan is activated automatically and linked to the customer’s account to enable payment according to the specified schedule.
+
+## 
+
+If the customer holds a credit card issued by one of the participating banks, they can pay the full amount through the Authority’s website, then contact the bank to arrange the instalment plan—via the customer service centre, smart services on the bank’s app, or by visiting the nearest branch—according to the approved terms and conditions.
+
+Customers holding Visa credit cards can complete the payment directly through the Authority’s app by selecting the “Visa” option and choosing an instalment period of 3 to 12 months. The process will be carried out in accordance with the initiative’s terms and conditions.
+
+## 
+
+Yes, it requires a credit card issued by one of the participating banks in order to benefit from the initiative.
+
+## 
+
+The first phase was limited to national banks for several key reasons, including:\
+– Strengthening partnerships with the national banking sector and supporting the local economy in line with the country’s directions, with a 0% profit rate for customers.\
+– Ensuring faster technical and security integration with government payment systems, as national banks are aligned with local standards.\
+– Easier oversight and regulation by national supervisory authorities to ensure the highest levels of security and transparency.\
+– Preparing for future expansion to regional and international banks after evaluating the first phase and measuring its impact on customers.
+
+## 
+
+Approved national banks and financial institutions:\
+First Abu Dhabi Bank (FAB)\
+Dubai Commercial Bank\
+Mashreq Bank\
+Abu Dhabi Islamic Bank (ADIB)\
+Sharjah Islamic Bank (SIB)\
+Emirates Islamic\
+Emirates NBD\
+RAKBANK (National Bank of Ras Al Khaimah)\
+Abu Dhabi Commercial Bank (ADCB)\
+Commercial International Bank (CIB)\
+In addition to Visa (a global company)
+
+## 
+
+All services provided by the Authority.
+
+## 
+
+500 AED
+
+## 
+
+The beneficiaries of the Easy Payment initiative are customers with outstanding financial obligations or fines to the Authority. The initiative aims to facilitate their payments by offering flexible, scheduled payment options, ensuring they can continue receiving services without interruption and strengthening their satisfaction and trust in the Authority’s services.
+
+## 
+
+It is an initiative launched by the Authority to enhance the quality of government services and enable customers to pay government fees easily and flexibly. This helps increase customer satisfaction and ensures continuity of services without interruption, reflecting the Authority’s approach of placing the customer at the centre of its focus. The initiative was launched on 14/10/2025.
+
+## 
+
+Wives of UAE citizens and children of female UAE citizens can apply for UAE nationality through the Federal Authority for Identity, Citizenship, Customs and Port Security, in accordance with the conditions and requirements stipulated in the Nationality Law and its executive regulations. The application is subject to review and verification by the competent authorities to ensure compliance with the legal standards and approved procedures before the nationality is granted.
+
+## 
+
+Through the “Basmah 15” initiative, launched by the Federal Authority for Identity, Citizenship, Customs and Port Security, the aim is to facilitate the process of capturing 10 fingerprints for school students aged 15 and above by providing the service directly on school premises, without the need to visit Customer Happiness Centres. This initiative is part of the Authority’s efforts to enhance the efficiency of the identity verification system and provide a seamless, proactive customer experience that saves time and effort and raises customer satisfaction, in line with the UAE’s digital transformation goals.\
+Customers may also visit any Customer Happiness Centre that provides identity services to complete the process easily and conveniently.
+
+## 
+
+After the ID card is issued, the customer can view the electronic version in the “ICP UAE” application. The digital ID can also be used through the “UAE Pass” application issued by the Telecommunications and Digital Government Regulatory Authority.
+
+## 
+
+According to ICAO standards, photos must fully comply with these requirements, which include: the photo must be recent, with a white background and high quality, showing clear facial features and eyes without visual distortions such as shadows or reflections. Wearing hats or sunglasses is not allowed, and only medical glasses are permitted, provided they do not cover the eyes. The face must be straight and the expression neutral. Adherence to these standards is essential for the photo to be accepted.
+
+## 
+
+You can submit a complaint through several approved channels that ensure prompt response and transparent follow-up, including:
+
+Complaints and inquiries platform: cc.icp.gov.ae\
+Call center inside UAE: 600522222\
+Call center outside UAE: 00971600522222
+
+## 
+
+You can find out the required procedures, documents, and fees for each service by visiting the official website of the Federal Authority for Identity, Citizenship, Customs and Port Security icp.gov.ae, and selecting the desired service. Each service page provides detailed information on the steps, required documents, applicable fees, submission channels, and the expected processing time.
+
+## 
+
+Priority services in the UAE Federal Government are those classified as the most important and impactful in the lives of individuals and the community. These services require fast and highly efficient delivery to ensure the timely fulfillment of customers’ essential needs. They are given special attention in terms of simplified procedures, speed of processing, and quality of experience, as they are linked to key milestones in the lives of customers. This classification comes as part of the Federal Government’s efforts to enhance efficiency, raise satisfaction levels, and provide flexible and proactive government services that meet customer expectations and align with the objectives of the Digital Government.
+
+## 
+
+Proactive services in the UAE Federal Government are an innovative approach to service delivery based on anticipating the needs of customers by analyzing their personal data and the records available to government entities, without the need for the customer to submit a request. The service is offered or activated automatically at the appropriate time, with the aim of enhancing the customer experience, saving time and effort, and reducing challenges such as delays in renewals or the imposition of fines. These services are part of the government’s strategic direction towards digital transformation and the development of an advanced model of government services that meets future requirements, in line with the objectives of the UAE Digital Government Strategy.
+
+## 
+
+- The smart application on Android and iOS
+- The official website (Smart Channels)
+- Customer Happiness Centers
+- Authorized typing offices
+
+## 
+
+Customers can apply for the Authority’s services through smart channels such as the website and the smart application UAEICP, as well as through Customer Happiness Centres and accredited typing offices.\
+Excluded from this are the General Directorates of Identity and Foreigners Affairs, as their role is limited to providing inquiry services only.\
+As for Identity Centres, they provide services related to issuing, renewing, and replacing ID cards, provided the service is requested on an urgent basis, with an additional fee of AED 150.
+
+## 
+
+To track the status of your Emirates ID card application, you can use one of these three methods:
+
+Through your personal account\
+If you applied using your own account, go to My Applications / My Requests, locate your request, and you will be able to view the status clearly.
+
+Via the Smart Services website\
+Visit smartservices.icp.gov.ae and select the application tracking option. Enter your application number (starting with 010) and click Search to view the application status.
+
+Contact the Call Centre\
+You may also contact the Call Centre and request an update on your application.
+
+## 
+
+Work Bundle in the United Arab Emirates
+
+This is the second phase of the Work Bundle launched by the UAE Government to simplify and accelerate the procedures for recruiting domestic workers by integrating employment- and residency-related services into a single smart, seamless step. This bundle aims to improve the customer experience by reducing the number of visits and required documents, and by providing a unified journey that starts from outside the country and ends with the customer being able to commence work legally.\
+The Work Bundle includes the following services:
+
+Issuance of work entry permit
+
+Medical fitness test
+
+Biometric data registration (fingerprint and photo)
+
+Issuance of the UAE ID card
+
+Issuance of a residence permit
+
+The application is made entirely online, and the concerned entities are automatically integrated through a unified platform that includes the Ministry of Human Resources and Emiratisation, the Federal Authority for Identity, Citizenship, Customs and Port Security, and health authorities, reducing the need to interact with each entity separately.
+
+The bundle also provides instant notifications to the customer on the status of each step, facilitating request tracking and enhancing transparency. It supports the UAE’s strategic direction toward offering interconnected government services and strengthening the country’s competitiveness as a global work destination.
+
+## 
+
+Residence permits are granted for different periods depending on the type of residence, namely: one year, two years, three years, and may extend to five years or more for some categories (such as investors or residence holders).
+
+## 
+
+Work Bundle in the United Arab Emirates
+
+The Work Bundle is a fully integrated digital system launched by the Government of the United Arab Emirates to simplify and expedite the procedures for individuals coming to work in the country. It combines all work and residency-related services into a single, smart, and seamless process. This bundle aims to enhance the experience of new employees and workers by reducing the number of visits and required documents and providing a unified journey that starts from outside the country and ends with the individual being legally enabled to start work.
+
+The Work Bundle includes the following services:
+
+Issuance of work entry permit
+
+Medical fitness test
+
+Biometric data registration (fingerprint and photo)
+
+Issuance of the UAE ID card
+
+Issuance of residence permit
+
+The application is made entirely online, and the concerned entities are automatically integrated through a unified platform that includes the Ministry of Human Resources and Emiratisation, the Federal Authority for Identity, Citizenship, Customs and Port Security, and health authorities, reducing the need to interact with each entity separately.
+
+The bundle also provides instant notifications to the customer on the status of each step, facilitating request tracking and enhancing transparency. It supports the UAE’s strategic direction toward offering interconnected government services and strengthening the country’s competitiveness as a global work destination.
+
+## 
+
+Blue Residency in the United Arab Emirates
+
+The Blue Residency is a long-term residence visa valid for 10 years, launched by the Government of the United Arab Emirates to honour individuals who have made outstanding contributions to environmental protection and sustainability. This residency targets elite talent, including environmental scientists and researchers, entrepreneurs and investors in green projects, and environmental influencers from both public and private-sector institutions. This initiative is part of the country’s efforts to enhance its position as a global hub for sustainability and the green economy, and to provide a supportive environment for specialised competencies in vital environmental fields.
+
+## 
+
+Green Residency in the United Arab Emirates
+
+The Green Residency is a long-term residence permit launched by the UAE Government to attract skilled professionals, talent, and qualified workers, and to provide greater flexibility and stability for individuals wishing to work and reside in the country without a sponsor. The Green Residency is granted for a period of 5 years, renewable, and includes specific categories such as skilled workers, freelancers, and investors or entrepreneurs, according to clear conditions related to qualifications, income, and experience.
+
+The Green Residency offers extended benefits to its holder, including sponsorship of family members, facilitation of residence procedures for dependents, and a flexible grace period of up to 6 months after the permit expires. This initiative is part of an integrated system to enhance the country’s residency and work environment, boosting its appeal to global talent and supporting social and economic stability.
+
+## 
+
+Golden Visa in the United Arab Emirates
+
+The Golden Visa is a long-term residency visa launched by the United Arab Emirates Government to attract exceptional talent and expertise from around the world, enabling them to live, work, and invest in the country in a stable, supportive environment. The Golden Visa is granted to specific categories, including investors, entrepreneurs, researchers in science and knowledge, specialists, outstanding students, holders of advanced degrees, as well as doctors and creatives in the fields of culture and arts.
+
+The Golden Visa is valid for 10 years and is renewable. It offers multiple benefits, including residency without a sponsor, the ability to sponsor family members, and full ownership in the country in accordance with applicable laws. This initiative is part of the UAE’s strategy to strengthen its position as a global hub for innovation and excellence, and to attract distinguished minds to contribute to the journey of sustainable development.
+
+## 
+
+The new passport is sent to the UAE Embassy in the country selected during the application process, where the applicant can collect it.
+
+## 
+
+A personal photo sized 3.5×4.5 cm with a white background.\
+A letter from the embassy explaining the reasons for the applicant’s presence outside the country.\
+The old passport must be presented when receiving the new one.
+
+## 
+
+This service is intended for UAE citizens who are outside the country and wish to renew their passports that have expired or are about to expire (less than a year remaining).
+
+## 
+
+A valid passport with less than one year remaining before expiry.
+
+The photo must be recent and comply with the specifications of the International Civil Aviation Organization (ICAO), and must not be identical to the current photograph printed on the passport.
+
+The applicant must have a signature and fingerprint registered on the Emirates ID if they are over 15 years old.
+
+The applicant must be over 21 years old to obtain a passport valid for 10 years, and under 21 to obtain a passport valid for 5 years.
+
+## 
+
+The passport is delivered to the address specified by the applicant through the approved delivery company. The previous passport must be presented to the delivery agent upon receipt.
+
+## 
+
+10 years for those aged 21 and above.\
+5 years for those under the age of 21.
+
+## 
+
+Yes, the following categories are exempt from fees:\
+Individuals covered by the Social Security Law.\
+People of determination and individuals with autism.\
+In cases of material errors attributable to the authority.
+
+## 
+
+10 AED application fee.\
+40 AED for a 5-year passport issuance.\
+90 AED for a 10-year passport issuance.\
+15 AED delivery fee.
+
+## 
+
+48 hours after fulfilling all requirements.
+
+## 
+
+A personal photo sized 3.5×4.5 cm with a white background.\
+The photo must be recent and comply with the specifications of the International Civil Aviation Organization (ICAO).
+
+## 
+
+You can access the service through the authority’s smart application or official website.
+
+## 
+
+The head of the family or a legally authorized representative is eligible to apply for the service on behalf of citizen family members, or the applicant themselves if they have reached the legal age.
+
+## 
+
+Through reflecting the data in the smart application or the official website.
+
+## 
+
+You can access the service through the authority’s smart application or official website.
+
+## 
+
+48 hours after completing the requirements.
+
+## 
+
+The applicant must be a UAE citizen.\
+If the family data is being issued based on a marriage contract from outside the country or one that is more than a year old, a certified certificate of continued marriage must be provided.\
+A no-objection letter is required in certain special cases, such as marriage to a non-citizen.\
+A widow without registered children may issue a new family data record in her name.
+
+## 
+
+Issuing family data for the first time\
+Modifying family data (such as: adding a newborn, correcting a name, removing a wife, adding a wife, separating a divorced woman, or separating a widow)
+
+## 
+
+The head of the family (UAE citizen) is eligible to apply for the service.
+
+## 
+
+It is a service that allows Emirati citizens to issue or update the family’s statistical record, including data related to marriage, divorce, death, and children.
+
+## 
+
+To track the status of your Emirates ID card application, you can use one of these three methods:
+
+Through your personal account\
+If you applied using your own account, go to My Applications / My Requests, locate your request, and you will be able to view the status clearly.
+
+Via the Smart Services website\
+Visit smartservices.icp.gov.ae and select the application tracking option. Enter your application number (starting with 010) and click Search to view the application status.
+
+Contact the Call Centre\
+You may also contact the Call Centre and request an update on your application.
+
+## 
+
+The application must be submitted by a licensed tourism establishment\
+A bank balance of \$4,000 is required for the multi-year visa\
+Health insurance and a travel ticket are required\
+Passport must be valid for at least 6 months\
+Permitted duration of stay:\
+30, 60, or 90 days\
+For the 5-year multiple-entry visa: stay must not exceed 90 days per visit, with a maximum of 180 days per year
+
+## 
+
+It is sent via email and can be downloaded electronically immediately after issuance.
+
+## 
+
+48 hours after fulfilling all requirements.
+
+## 
+
+Yes, most visas can be extended once or more based on the authority’s decision, provided that the total duration does not exceed the allowed limit (e.g., 180 days for certain types).
+
+## 
+
+Ranges between :\
+30 to 90 days (most types of visit visas)\
+60 to 120 days (job exploration, business establishment)\
+96 hours (transit visa)\
+5 years multiple entry (for some tourist visas)
+
+## 
+
+A colored personal photo with a white background\
+A copy of the passport (valid for more than 6 months)\
+Return flight ticket (in some cases)\
+Valid health insurance\
+Additional specific documents depending on the type of visa
+
+## 
+
+You can apply through the following channels\
+The smart application\
+The official website of the Authority\
+Authorized typing and tourism offices
+
+## 
+
+The visitor themselves,\
+the sponsor (such as a family head, employer, tourism establishment, educational institution, or medical facility),\
+or government or private entities, depending on the type of visa.
+
+## 
+
+It is a service that allows the issuance of a visa permit to enter the country for various purposes such as tourism, visiting a relative, business assignment, study, medical treatment, exploring job opportunities, establishing a business, and more
+
+## 
+
+The photo must be recent and comply with the specifications of the International Civil Aviation Organization (ICAO), and must not be identical to the current photograph printed on the ID Card.
+
+## 
+
+Yes, an appointment is required in advance for certain cases in which the customer needs to visit the centre (biometric/fingerprint procedures). However, simple inquiries and basic follow-ups do not require a prior appointment.
+
+## 
+
+To track the status of your Emirates ID card application, you can use one of these three methods:
+
+Through your personal account\
+If you applied using your own account, go to My Applications / My Requests, locate your request, and you will be able to view the status clearly.
+
+Via the Smart Services website\
+Visit smartservices.icp.gov.ae and select the application tracking option. Enter your application number (starting with 010) and click Search to view the application status.
+
+Contact the Call Centre\
+You may also contact the Call Centre and request an update on your application.
+
+## 
+
+Please visit the nearest identity service center to have the card examined and the issue identified.\
+If the problem is due to a manufacturing defect, such as a damaged chip, the card will be replaced free of charge.\
+However, if the issue is caused by misuse, the customer will be required to apply for a replacement ID card due to damage.
+
+## 
+
+Yes, it is issued with the same validity period as the lost or damaged card.
+
+## 
+
+You can apply for a replacement ID card (lost/damaged) through:\
+the smart application, the official website, authorized typing centers, or customer happiness centers.
+
+## 
+
+A fine of AED 20 is imposed for each day of delay, up to a maximum of AED 1,000. The fine starts after 30 days from the ID card’s expiration date.
+
+## 
+
+UAE nationals may renew their Emirates ID card upon its expiry or during the final year of its validity, that is, when less than one year remains before its expiration date. GCC nationals and residents may renew their Emirates ID card upon its expiry or during the final six months of its validity.\
+A grace period of 30 days from the card’s expiration date is granted to complete the renewal procedures. Upon the expiry of this grace period, the prescribed late renewal fee shall apply.
+
+## 
+
+Anyone who has not previously registered or been issued an ID number, from the following categories:\
+UAE citizens, GCC nationals, and visitors wishing to obtain a residence permit in the UAE.
+
+## 
+
+Tabby enables customers to pay ICP service fees in convenient instalments, providing greater flexibility in managing their payments.
+
+## 
+
+The Tabby instalment service is available across all ICP digital channels, including the ICP website and the smart application.
+
+## 
+
+Yes. The service is available to all customer categories, subject to Tabby’s eligibility and approval criteria.
+
+## 
+
+Instalment plans range from 3 to 12 months, depending on the customer’s credit profile and Tabby’s eligibility criteria.
+
+## 
+
+Customers can pay service fees in instalments of up to AED 20,000, subject to their credit profile and Tabby’s eligibility criteria.
+
+## 
+
+Approval of instalment requests and the repayment period are determined based on Tabby’s eligibility assessment and credit evaluation criteria.
+
+## 
+
+At the payment stage, select Tabby as your payment method, then complete the approval process through the Tabby application.
+
+## 
+
+No. Using Tabby does not affect ICP’s approved service fee refund policy or procedures.
+
+## 
+
+Refund requests are processed in accordance with ICP’s existing refund procedures. Using Tabby does not change the refund process.
+
+## 
+
+No. Tabby is one of the instalment payments options available to customers, alongside any other instalment services approved by ICP.
+
+## 
+
+You can view your eligibility and credit assessment through the Tabby application, in accordance with Tabby’s policies and procedures.
+
+## 
+
+The process is carried out by employees of the Federal Authority for Identity Citizenship Customs and Port Security, after contacting the applicant, verifying the address, and coordinating a suitable time to deliver the final product.
+
+## 
+
+The beneficiary group includes senior citizens aged 60 years and above, provided that they are either social welfare beneficiaries or holders of a People of Determination card issued by the Ministry of Community Empowerment. Eligibility is verified through institutional system integration, without the need to submit documents. Cases that do not meet these conditions are not considered among the categories covered by the initiative.
+
+## 
+
+The “Taqdeer package” for senior citizens is an initiative dedicated to serving senior citizens. It is linked to the proactive renewal of both the Emirates ID card and passport for categories covered under the category for People of Determination and senior citizens receiving social support. This initiative was implemented in cooperation with the Ministry of Community Empowerment.
+
+Did you find this content useful?
+
+You can help us improve by providing your feedback about your experience.
+
+0
+
+0
+
+### What is the reason for your feedback?
+
+Thank you for your message. It has been sent.
+
+### What is the reason for your feedback?
+
+Thank you for your message. It has been sent.
+
+Have you recently used our services through our digital platforms?
+
+The “Rate Your Experience” form aims to listen to your opinions and feedback about your experience using our services, whether through Customer Happiness Centers or via our digital platforms.
+
+**Note:** all fields are mandatory, except the ones marked as optional
+
+Rate your experience
+
+Last updated on: **October 8, 2026** /
+
+- [](%20https://171.ae/en/?lang=en)
+- [171](tel:171)
+-  Inside UAE: [600522222](tel:600522222)
+-  Outside UAE [+971600522222](tel:+971600522222)
+
+Copyright © 2026 Federal Authority For Identity, Citizenship, Customs & Port Security. All rights reserved. Last updated on 06/11/2026
+
+Follow us on:
+
+- [facebook](https://www.facebook.com/UAEICP/)
+- [instagram](https://instagram.com/uaeicp?igshid=MmVlMjlkMTBhMg==)
+- [LinkedIn](https://www.linkedin.com/company/uae-icp/)
+- [ X Platform](https://x.com/uaeicp?s=11&t=t0-rpqAj6wxXoZ5B4S5u2A)
+- [YouTube](https://www.youtube.com/c/IdentityandCitizenshipUAE_ICAUAE)
+
+[](javascript:; "Customer pulse")
+
+Customer pulse
+
+[ Search ](https://icp.gov.ae/?s= "search")
+
+### Federal Authority For Identity, Citizenship, Customs & Port Security
+
+You are leaving **https://icp.gov.ae** and entering a website that Federal Authority For Identity, Citizenship, Customs & Port Security does not control and may have a different content and privacy policies.
+
+Don’t show me this message again
+
+## Support Agent
+
+Support and live chat with a support staff member.
+
+[Start Chat](https://icp.gov.ae/en/support-agent/)
+
+## Virtual Assistant
+
+The virtual assistant Hamad provides a fast response with no waiting.
+
+## We use cookies to personalise this website
+
+Our site enables script (e.g. cookies) that is able to read, store, and write information on your browser and in your device. By using our website, you're agreeing to the collection of data as described in [our Privacy Policy.](/privacy-policy/)
+
+[Allow Cookies](javascript:;) [Reject](javascript:;)

@@ -1,0 +1,256 @@
+PAGE META: article:published_time: 2025-04-11T18:46:34Z | article:modified_time: 2026-01-17T19:25:47Z
+
+(text rebuilt from the saved .html; fetch.py cleaner had dropped form content)
+
+Issuance of a New Work Permit - Overseas | Services Directory |...
+Skip to content
+Logo
+Gold star Logo
+Services
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14198 data-megaMenu=false>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14207 data-megaMenu=--Select-->
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14460 data-megaMenu=--Select-->
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Awareness Workshops
+Media Center
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14195 data-megaMenu=--Select-->
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14200 data-megaMenu=false>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14494 data-megaMenu=false>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14205 data-megaMenu=false>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Login
+Accessibility
+Accessibility
+AR
+Switch language
+Logo
+Gold star Logo
+Menu
+search in site
+Close
+Home
+Services
+show submenu for "Services"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14198>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "Laws & Regulations"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14207>
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "Guidance"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14460>
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Awareness Workshops
+Media Center
+show submenu for "Media Center"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14195>
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "Digital Participation"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14200>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "Open Data"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14494>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "About Us"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14205>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Accessibility
+AR
+Close
+English
+عربي
+Other languages
+The list of “Other languages” listed above use Google Translate to create an automated translation of content for the purpose of display. Accuracy of automated content translation is not guaranteed.
+Home
+Services
+Services Directory
+Service Details
+Issuance of a New Work Permit - Overseas
+Share
+Print
+Start Service
+Application Status
+A service provided by the Ministry to establishments wishing to recruit or employ a worker from outside the country.
+Conditions & Requirements
+The establishment must have an electronic quota available
+The Employee must be 18 years of age or older
+An employee in a specialized profession or any other profession that requires a license must meet the requirements stipulated in the applicable legislation.
+The establishment must maintain a valid license without any registered violations, resulting in suspension of its operations in accordance with applicable laws.
+The Work Permit application must be submitted by the authorized signatory of the establishment
+Candidate for employment may not possess an active work permit.
+Replacement of the work permit and change of nationality are permissible, while the profession and gender (male or female) remain unchanged within six months of the date of issuance up to two times, under the condition that the Federal Authority for Identity and Citizenship, Customs and Ports Security cancels the entry permit for the replaced worker
+Service completion duration
+2 working days
+Service Fees
+Federal Fees - Work Permit Application - Category (1),(2),(3): 50
+Issuance of work permit for two years - Category (1): 250
+Issuance of work permit for two years - Category (2): 1200
+Issuance of work permit for two years - Category (3): 3450
+The commission for Business Centers is capped at 72 dirhams per service provided as part of the permit package (which includes printing job offer, employment contracts, and permit applications)
+Except for federal fees, the service is free of charge via MOHRE's website and smart app.
+*Please note that the fees shown above do not include tax and collection charges.
+Service channels
+Website
+Service Center
+Mobile Application
+Target audience
+Employers
+Department name
+Labor Offices
+Category
+Employer Service
+Main Service
+Issue new work permit
+Service Type
+Procedural
+Sector Type
+Establishments Workers
+Relation of service with other service
+Federal Authority for Identity and Citizenship, Customs and Ports Security
+User Guides
+Please check the user guide (PDF) for using the system in order to apply for the service.
+Download
+Notes
+The customer will be notified once the request has been completed. Applicants can follow up on their applications by visiting:
+Mohre website
+MOHRE Smart App
+Call center 600590000
+Chabot
+Permit Duration:
+Two Years
+Type of Employment Contracts:
+Full Time / Part Time / Temporary Work / Flexible Work / Remote Work / Job Sharing
+Required Documents
+Clear colored photo with a white background
+Passport copy with a validity period of at least six months.
+The official job offer form issued by the Ministry, signed by both the employer and employee.
+Academic Certificates: A clear certificate bearing the name of the employee, Skill levels (1 & 2) Bachelor Degree or higher is required. Skill Levels (3 & 4) Diploma graduate or higher is required. Skill Level (5) High School Certificate is required. There is no requirement for a certificate for skill levels 6 to 9. Workers who earn less than AED 4000 per month or who do not possess a degree are not considered skilled.
+Professional license issued by the competent authority, example: doctor, nurse, etc. (professional license issued by the Ministry of Health - Department of Health)/ Teacher, teacher assistant (Ministry of Education - Knowledge Authority (Dubai)- Abu Dhabi Education Council- Sharjah Education Council) Fitness Trainer (Youth and Sports Authority)/ Advocate (Ministry of Justice).
+Workers from the following nationalities (Pakistan, Afghanistan, Iraq, and Iran) need to provide a legible and clear copy of both sides of their national ID cards issued by their home countries, and make sure it is valid.
+For assistance, get in touch through
+Call:
+600590000
+Available 24/7
+Customer Feedback
+Did you find this content useful?
+You can help us improve by providing your feedback about your experience.
+Thank you for your feedback.
+Yes
+No
+Have you used our services at our service center or digitally recently?
+Give us your feedback
+Close
+Give us your feedback
+Thank you for contacting MOHRE. Reference number : {refCode}
+An error occurred during saving your comment. Please check entered info and submit again.
+Submit
+About this website
+Privacy Policy
+Disclaimer
+Copyright
+Terms & Conditions
+Information and support
+Contact Us
+Sitemap
+Accessibility
+Help
+Quicklinks
+Careers
+Archive
+Procurement
+Definitions
+Cybersecurity
+Job Descriptions
+Economic Activities list
+171
+04-7771777
+Call Center:
+600 590000
+©
+MOHRE. All rights reserved.
+Last updated on
+Follow us on:
+facebook
+instagram
+LinkedIn
+X
+YouTube
+Customer pulse
+Search

@@ -1,0 +1,22 @@
+﻿function MrStartUI(){MrIcoStore.ModTdra();MrIcoStore.Active="DGA";MrMUISecoundryColor="#9A2F23";MrMUIPrimaryColor="#F5F5F5";MrMUIToolWidth="30vw";MrMUIToolMaxWidth="650px";MrMUIToolMinWidth="400px";MrExcludedCSSElementsSelector=".fa, .fab, .fad, .fal, .far, .fas,i";Mrnoggt=!0;MrCID=447;MrAudCid=196;MrArabicUIisOn=document.getElementsByTagName("html")[0].getAttribute("lang")=="ar"||window.location.href.toString().toLowerCase().indexOf("/ar/".toLowerCase())>-1;MrArabicFlag="uae";MrServiceLink="https://mindrockets.co/AIHN";MrGotoArabicVersion=function(){MrArabicUIisOn||(window.location.href=window.location.href.replace("/en","/ar"),jQuery("a[aria-label='العربية']")[0].click(),MrUPChangeToolLangToAR())};MrGotoEnglishVersion=function(){MrArabicUIisOn&&(window.location.href=window.location.href.replace("/ar","/en"),jQuery("a[aria-label='English']")[0].click(),MrUPChangeToolLAngToEN())};MrModify();typeof MrSP!="undefined"&&(MrSP.V25.ModernUI.Categories.IsEnabled=!0,MrSP.V25.IsEnabled=!0,MrSP.V25.ModernUI.aihl.active="l",MrModernTTS.UseModern=!0);MRUAPPrepareUI(["MrSignLanguage","MrReadSpeakerFeature","MrControl_Page_contrast","MrCursor_Helpers","MrChangefont","MrPage_saturation_control","MrWords_Spacing","MrRealWords_Spacing","MrLine_Spacing","MrEnlarge_Fonts","MrHighlight_Links","MrAnimation","MrText_Alignments","MrPage_Structure","MrHideImgs"],["MrVisuallyImpaired","Mrdyslexia","MrADHD","MrSeizureAndEpilepsy","MrColor_Blind","Mrcognitive_education","MrImpaired_mobility"]);var n=MrArabicUIisOn?"مساعدة في استخدام الموقع":"Assist using site",t='<div id="MrAccessInHand" title="'+n+'"><img src="https://cdn.mindrocketsapis.com/client/imgs/png/accessability.png" width="50" alt="'+n+'"><\/div>';MrUAPAddStyle("#MrMUIFooter { width: 96% !important;}#MrAccessInHand:hover { filter: brightness(1.3);} #MrAccessInHand { display:none !important ;z-index: 99;cursor:pointer; position: fixed; bottom: 65px; left: 5px; background-color: "+MrMUISecoundryColor+"; border-radius: 5px;width:50px;height:50px;text-align:center } #MrAccessInHand img{filter:"+MrUtilHexToFilter(MrMUIWhite)+";margin-top:5px;width:40px}","MrbuttonCSS");document.documentElement.style.setProperty("--mr-aih-btn-img-w","32px");document.documentElement.style.setProperty("--mr-aih-btn-img-h","32px");MrUAPAddStyle(".mr-muiTool:has(#darkmode.mr-set-active) #MrMUIHeader label{color:black ;}","Resolvedmr-muiToolColor");MrUAPAddStyle("label[mrnamear='أدوات التصفح البسيط'] { color: white; }","MrLabelColoring");MrUAPAddStyle("label[mrnamear='Mega Accessibility Pack'] { color: white; }","MrLabelColoring");MrUAPAddStyle(".MrMUI-tab-switcher img{display:inline-block !important;}","ResolveIconsInAIHTitleBar");MrUAPAddStyle(`.mr-activate-highlite * {
+    color: yellow !important;
+}
+a.mr-activate-highlite[aria-label="English"],a.mr-activate-highlite[aria-label="العربية"]{
+    padding:unset !important
+}
+`,"MrHighliteResolveCSS");MrUAPAddStyle(`button.mr-light-contrast,span[role="button"].mr-light-contrast, .mr-light-contrast svg  {filter:invert(1);}
+.scroll-move .accessibility-wheel-chair.mr-light-contrast {
+    filter: revert;
+}
+.accessibility-wheel-chair.mr-light-contrast {
+    filter: invert(1);
+}
+    
+button.mr-dark-contrast:not(button:has(lottie-player)),span[role="button"].mr-dark-contrast {filter:invert(1);}
+.scroll-move .accessibility-wheel-chair.mr-dark-contrast {
+    filter: invert(1);
+}
+.accessibility-wheel-chair.mr-dark-contrast {
+    filter: revert;
+}
+    `,"MrContrastResolvers");jQuery("body").append(t);jQuery("#MrAccessInHand,.accessBtn,button[name='Accessibility']").click(function(){MrToolCheckLicense();MrUAPShowAssistiveTool();MrMUIGetGoogleTranslationValues(2);MrArabicUIisOn?(jQuery("[mrtitleen='Arabic']").addClass("MrMUIActivated"),jQuery("[mrtitleen='Arabic'] label").addClass("MrButtonActive")):(jQuery("[mrtitleen='English']").addClass("MrMUIActivated"),jQuery("[mrtitleen='English'] label").addClass("MrButtonActive"))});MrUAPPrepareMrOrgColor();MrMUIActivateShotcuts();jQuery(".MrBotLogo").attr("src","https://cdn.mindrocketsapis.com/client/imgs/png/bottomlogo-nomr.png")}var MrModify=function(){};jQuery(document).ready(function(){setTimeout(function(){MrStartUI()},1)})

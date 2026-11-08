@@ -1,0 +1,607 @@
+﻿function MrDockElementToCorner(n,t,i){var r;if(i=i||10,r=jQuery(n)[0],r){var h=MrGetViewportSize(),u=r.getBoundingClientRect(),c=u.width||r.offsetWidth||0,l=u.height||r.offsetHeight||0,f=i,e=i;if(t.indexOf("bottom")===0&&(f=h.height-l-i),(t.indexOf("right")>0||t==="right")&&(e=h.width-c-i),r.classList.contains("mr-cont-tooltip-window")){var a=r.currentX||0,v=r.currentY||0,o=a+(e-u.left),s=v+(f-u.top);r.xOffset=o;r.yOffset=s;r.initialX=0;r.initialY=0;r.currentX=o;r.currentY=s;MrSetPosTranslate(o,s,r)}else r.style.top=f+"px",r.style.left=e+"px";r.setAttribute("mr-dock-position",t)}}function MrGetViewportSize(){return{width:window.innerWidth||document.documentElement.clientWidth,height:window.innerHeight||document.documentElement.clientHeight}}function MrGetActiveDockableElement(){var n=document.getElementById("MrSlKeyboard"),t,i;return n&&(t=n.getBoundingClientRect(),i=t.width>0&&t.height>0&&window.getComputedStyle(n).display!=="none",i)?n:document.querySelector(".mr-cont-tooltip-window")}function MrRegisterDockingShortcuts(){function i(){var n=typeof SiteLang!="undefined"&&SiteLang;return{"top-left":n?"أعلى اليسار":"top left","top-right":n?"أعلى اليمين":"top right","bottom-right":n?"أسفل اليمين":"bottom right","bottom-left":n?"أسفل اليسار":"bottom left"}}var n,t;window._mrDockingShortcutsRegistered||(window._mrDockingShortcutsRegistered=!0,n=["top-left","top-right","bottom-right","bottom-left"],t={q:"top-left",Q:"top-left",e:"top-right",E:"top-right",z:"bottom-left",Z:"bottom-left",c:"bottom-right",C:"bottom-right"},document.addEventListener("keydown",function(r){var f,o,s,u;if(r.ctrlKey&&r.shiftKey){if(f=null,t.hasOwnProperty(r.key))f=t[r.key];else if(r.key==="`"||r.key==="~"){if(u=MrGetActiveDockableElement(),!u)return;o=u.getAttribute("mr-dock-position")||"top-left";s=n.indexOf(o);f=n[(s+1)%n.length]}if(f&&(r.preventDefault(),u=MrGetActiveDockableElement(),u)){MrDockElementToCorner(u,f);var c=i(),e=typeof SiteLang!="undefined"&&SiteLang,h=u.id==="MrSlKeyboard"?e?"لوحة المفاتيح":"keyboard":e?"نافذة مترجم الإشارة":"interpreter window";MrAnnounce((e?"تم تثبيت "+h+" على ":"Docked "+h+" to ")+c[f])}}}))}function MrSnapElementToEdge(n,t,i){var e,o;t=t||10;i=i||60;var r=n.getBoundingClientRect(),u=MrGetViewportSize(),v=r.left+r.width/2,y=r.top+r.height/2,p=u.width/2,w=u.height/2,f=null,s=r.top,h=u.height-(r.top+r.height),l=r.left,a=u.width-(r.left+r.width),c=Math.min(s,h,l,a);return c>i?null:(f=c===s||c===h?s<=h?"top":"bottom":l<=a?"left":"right",e=r.top,o=r.left,f==="top"&&(e=t),f==="bottom"&&(e=u.height-r.height-t),f==="left"&&(o=t),f==="right"&&(o=u.width-r.width-t),{edge:f,top:e,left:o})}function MrEnforceModernUIPolicy(){if(!MrModernUIAllowed)return MrModernUIEnabled=!1,SetParam("MindRockets_SignLanguage-UseModernUI","false"),!1;if(!MrShowModernUIToggle)return MrModernUIEnabled=!0,SetParam("MindRockets_SignLanguage-UseModernUI","true"),!0;var n=GetParam("MindRockets_SignLanguage-UseModernUI");return(n===null||n===undefined)&&(SetParam("MindRockets_SignLanguage-UseModernUI","true"),MrModernUIEnabled=!0),MrIsModernUIEnabled()}function MrSetShowModernUIToggle(n,t){arguments.length<2&&(t=n);MrModernUIAllowed=n===!0||n==="true"||n===1;MrShowModernUIToggle=MrModernUIAllowed&&(t===!0||t==="true"||t===1);MrEnforceModernUIPolicy()}function MrIsModernUIEnabled(){var n,t;return MrModernUIEnabled!==undefined?MrModernUIEnabled:(n=GetParam("MindRockets_SignLanguage-UseModernUI"),n===null||n===undefined?MrModernUIEnabled=!1:(t=n.toString().toLowerCase().trim(),MrModernUIEnabled=t==="1"||t==="true"),MrModernUIEnabled)}function MrSetModernUIState(n){var i,r,t;MrIsModernUIEnabled()!==n&&(MrModernUIEnabled=n,SetParam("MindRockets_SignLanguage-UseModernUI",n?"true":"false"),i=jQuery(".mr-cont-tooltip-window"),r=MrIsSetWindowOpen,n?(i.addClass("mr-modern-ui"),MrInjectModernUIStyles(),t=jQuery("#mrModernUIBtn"),t.length&&(t.find("i").removeClass("mricon-sl-toggle-off").addClass("mricon-sl-toggle-on"),t.addClass("active").attr("aria-pressed","true")),MrAnnounce(SiteLang?"التصميم الحديث مفعل":"Modern UI enabled")):(i.removeClass("mr-modern-ui mr-minimized"),jQuery("#MrModernUIStyle").remove(),jQuery("#MrAdvFtHolder").show(),t=jQuery("#mrModernUIBtn"),t.length&&(t.find("i").removeClass("mricon-sl-toggle-on").addClass("mricon-sl-toggle-off"),t.removeClass("active").attr("aria-pressed","false")),jQuery("#mrHelpTool,#mrKeyboardBtn").attr("aria-expanded","false"),MrAnnounce(SiteLang?"التصميم الكلاسيكي مفعل":"Classic UI enabled")),MrUpdateAllA11y(),r&&(MrCloseSettingsWindow(),MrOpenSettingsWindow()))}function MrToggleModernUI(){MrSetModernUIState(!MrIsModernUIEnabled())}function MrShouldUseModernTutorial(){return MrShowModernTutorialWhenAvailable&&MrModernUIAllowed&&MrIsModernUIEnabled()}function MrGetUIText(n){var t=MrUILanguageDictonary[n];return SiteLang?t.ar:t.en}function MrUpdateWindowInfo(){MrMaxAllowedLeft=jQuery(window).width()-MrWidthClone;MrMaxAllowedTop=jQuery(window).height()-MrHeightClone-jQuery("#MrTitleBar").height();MrWidthClone=MrMovableWindow.find("iframe").width();MrHeightClone=MrMovableWindow.find("iframe").height();jQuery("#mr-move-screen").width(MrMovableWindow.find("iframe").width());jQuery("#mr-move-screen").height(MrMovableWindow.find("iframe").height());var n=jQuery(MrMovableWindow).css("transform");jQuery(MrMovableWindow).css("transform","");MrOrignalWindowPos=MrMovableWindow.position();jQuery(MrMovableWindow).css("transform",n)}function MrRemoveSetWindowDiv(){try{document.querySelectorAll("#mr-set-window-cont").length>0&&document.querySelector("#mr-set-window-cont").remove()}catch(n){jQuery("#mr-set-window-cont").remove()}}function MrInitSettingsWindow(){var i,r,n,t;MrRemoveSetWindowDiv();i=".Mr-set-content { background-color: var(--mr-back-color); padding: 1vh 1vw 2vh 1vw; border: 1px var(--mr-fore-color) solid;}";r="  .Mr-Cont-Div .content label,.Mr-Cont-Div .content a,.Mr-Cont-Div .content h1 {color:var(--mr-fore-color);} .mr-men-range-holder { display: flex; flex-flow: row; align-items: center;    padding-top: 2px;padding-bottom: 2px; } .mr-set-label{flex:1;    margin-left: max(5px,3%);} .mr-set-control{flex:14;} .mr-range{width:98%;margin-left:2%}";MrAddCss(i,"MrCssContSetDiv");MrAddCss(r,"MrContDivContCompCss");var u=typeof MrIsModernUIEnabled=="function"&&MrIsModernUIEnabled(),h=u?"dialog":"region",f={role:h,"aria-labelledby":"mrSetBtn"};u&&(f["aria-modal"]="true");jQuery("#mr-setting-holder").attr(f).append('<div class="Mr-set-content" id="mr-set-window-cont"><\/div>');n=MrBackColor;t=MrTextColor;MrAddCss("input[type=range].mr-range { height: 15px; -webkit-appearance: none; margin: 10px 0; } input[type=range].mr-range:focus { outline: 3px solid var(--mr-fore-color, #005fcc); outline-offset: -2px; } input[type=range].mr-range:focus:not(:focus-visible) { outline: none; } input[type=range].mr-range:focus-visible { outline: 3px solid var(--mr-fore-color, #005fcc); outline-offset: -2px; } input[type=range].mr-range::-webkit-slider-runnable-track { height: 5px; cursor: pointer; animate: 0.2s; box-shadow: 0px 0px 0px #000000; background: "+n+"; border-radius: 1px; border: 0px solid #000000; } input[type=range].mr-range::-webkit-slider-thumb { box-shadow: 0px 0px 0px #000000; border: 2px solid "+n+"; height: 18px; width: 18px; border-radius: 25px; background:"+t+"; cursor: pointer; -webkit-appearance: none; margin-top: -7px; } input[type=range].mr-range:hover::-webkit-slider-thumb { background: "+n+"; border: 2px solid "+t+"; } input[type=range].mr-range:focus::-webkit-slider-runnable-track { background: "+n+"; } input[type=range].mr-range::-moz-range-track { height: 5px; cursor: pointer; animate: 0.2s; box-shadow: 0px 0px 0px #000000; background: "+n+"; border-radius: 1px; border: 0px solid #000000; } input[type=range].mr-range::-moz-range-thumb { box-shadow: 0px 0px 0px #000000; border: 2px solid "+n+"; height: 18px; width: 18px; border-radius: 25px; background:"+t+"; cursor: pointer; } input[type=range].mr-range:hover::-moz-range-thumb { background: "+n+"; border: 2px solid "+t+"; } input[type=range].mr-range::-ms-track { height: 5px; cursor: pointer; animate: 0.2s; background: transparent; border-color: transparent; color: transparent; } input[type=range].mr-range::-ms-fill-lower { background: "+n+"; border: 0px solid #000000; border-radius: 2px; box-shadow: 0px 0px 0px #000000; } input[type=range].mr-range::-ms-fill-upper { background: "+n+"; border: 0px solid #000000; border-radius: 2px; box-shadow: 0px 0px 0px #000000; } input[type=range].mr-range::-ms-thumb { margin-top: 1px; box-shadow: 0px 0px 0px #000000; border: 2px solid "+n+"; height: 18px; width: 18px; border-radius: 25px; background:"+t+"; cursor: pointer; } input[type=range].mr-range:hover::-ms-thumb { background: "+n+"; border: 2px solid "+t+"; } input[type=range].mr-range:focus::-ms-fill-lower { background: "+n+"; } input[type=range].mr-range:focus::-ms-fill-upper { background: "+n+"; }","MrRangeCss");MrUILanguageDictonary.Init();var e=SiteLang?"تغيير حجم النافذة":"Scale Avatar",o=SiteLang?"التحكم بسرعة الترجمة":"Control avatar speed",s=SiteLang?"التحكم بزاوية الكاميرا":"Control camera view";MrIsModernUIEnabled()?(MrAddToolStepper(MrGetUIText("Size"),"zoomSl",function(n){MrScaleMovableWindow(n.target.value)},e,MrScaleMin,MrScaleMax,MrScaleStep,1,!0,"#mr-set-window-cont",function(n){return Math.round(n*100)+"%"}),MrAddToolStepper(MrGetUIText("Speed"),"speedSl",function(n){document.getElementById(jQuery("#mr_sign_player999").attr("id")).contentWindow.postMessage("cmd:speed;"+n.target.value,MrCommOrigin)},o,.5,2.5,.5,1,!0,"#mr-set-window-cont",function(n){return(n%1==0?n.toFixed(0):n.toFixed(1))+"×"}),MrAddToolStepper(MrGetUIText("Camera"),"camSL",function(n){document.getElementById(jQuery("#mr_sign_player999").attr("id")).contentWindow.postMessage("cmd:zoom;"+n.target.value,MrCommOrigin)},s,60,80,1,77,!0,"#mr-set-window-cont",function(n){return n.toFixed(0)})):(MrAddToolRange(MrGetUIText("Size"),"zoomSl",function(n){MrScaleMovableWindow(n.target.value)},e,MrScaleMin,MrScaleMax,MrScaleStep,1,!0,"#mr-set-window-cont"),MrAddToolRange(MrGetUIText("Speed"),"speedSl",function(n){document.getElementById(jQuery("#mr_sign_player999").attr("id")).contentWindow.postMessage("cmd:speed;"+n.target.value,MrCommOrigin)},o,.5,2.5,.1,1,!0,"#mr-set-window-cont"),MrAddToolRange(MrGetUIText("Camera"),"camSL",function(n){document.getElementById(jQuery("#mr_sign_player999").attr("id")).contentWindow.postMessage("cmd:zoom;"+n.target.value,MrCommOrigin)},s,60,80,1,77,!0,"#mr-set-window-cont"))}function MrOpenSettingsWindow(){MrIsSetWindowOpen=!0;MrResetAvatarToPosition();MrInitSettingsWindow();jQuery("#mrSetBtn .iconBtn").addClass("active");jQuery("#mrSetBtn").attr("aria-expanded","true");var n=jQuery("#mr-set-window-cont").find('a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])').first();n.length&&n.focus();MrUpdateWindowInfo();MrCreateBGSettingTools();MrCreateLightingSettingTools();MrToggleSettingButtonCallback(!0);MrTrapFocus("#mr-setting-holder")}function MrCloseSettingsWindow(){MrIsSetWindowOpen=!1;jQuery("#mrSetBtn .iconBtn").removeClass("active");jQuery("#mrSetBtn").attr("aria-expanded","false");MrRemoveSetWindowDiv();MrToggleSettingButtonCallback(!1);MrSettingsTriggerElement&&jQuery(MrSettingsTriggerElement).length&&(MrSettingsTriggerElement.focus(),MrSettingsTriggerElement=null)}function MrToggleSettingWindow(){MrIsSetWindowOpen?MrCloseSettingsWindow():(MrSettingsTriggerElement=document.activeElement,MrOpenSettingsWindow());MrUpdateTitleBarA11y();MrAvWindowResizer.adjust()}function MrAddToolRange(n,t,i,r,u,f,e,o,s,h){var p=o,v,c,y,b;if(s)try{p=GetParam("mr-men-"+t)??o}catch(k){}const a=jQuery("<div>",{"class":"mr-men-range-holder",id:"mr-men-"+t+"_holder"});v="";c=jQuery("<div>").text(n).text();const l=n.match(/src="([^"]+)".*title="([^"]+)"/);y="";l&&l[1].startsWith("https://cdn.mindrocketsapis.com/")&&(v=l[1],c=l[2],y=jQuery("<img>",{src:v,title:c,alt:c,"class":"mr-sl-icon"}));a.append(jQuery("<div>",{"class":"mr-set-label"}).append(y));const w=jQuery("<input>",{id:"mr-men-"+t,type:"range","class":"mr-range",tabindex:"0","aria-label":r,title:r,placeholder:c,min:u,max:f,step:e,value:p});a.append(jQuery("<div>",{"class":"mr-set-control"}).append(w));jQuery(h).append(a);MrDelayer===undefined&&(MrDelayer=MrCreateOnceTimeOut());b=MrDelayer.debounce(i,500);w.on("change",function(n){SetParam("mr-men-"+t,n.target.value);b(n)})}function MrAddToolStepper(n,t,i,r,u,f,e,o,s,h,c){function ft(n){var t=parseFloat(n),i,r;return isNaN(t)&&(t=o),i=Math.round((t-u)/e),r=i*e+u,Math.max(u,Math.min(f,r))}function ht(n){st.text(c?c(n):n)}function y(n){n=ft(n);l=n;SetParam("mr-men-"+t,n);ht(n);i({target:{value:n}});MrAnnounce(r+" "+(c?c(n):n))}var l=o,p,b,a,k,d,g;if(s)try{p=GetParam("mr-men-"+t);l=p!==null?parseFloat(p):o}catch(ct){}l=ft(l);const w=jQuery("<div>",{"class":"mr-men-stepper-holder",id:"mr-men-"+t+"_holder"});b="";a=jQuery("<div>").text(n).text();const v=n.match(/src="([^"]+)".*title="([^"]+)"/);k="";v&&v[1].startsWith("https://cdn.mindrocketsapis.com/")&&(b=v[1],a=v[2],k=jQuery("<img>",{src:b,title:a,alt:a,"class":"mr-sl-icon"}));w.append(jQuery("<div>",{"class":"mr-set-label"}).append(k));d=SiteLang?"تقليل "+r:"decrease "+r;g=SiteLang?"زيادة "+r:"increase "+r;const et=jQuery("<div>",{"class":"mr-set-stepper-control"}),nt=typeof MrIsModernUIEnabled=="function"&&MrIsModernUIEnabled(),ot=nt?"button":"a",tt={tabindex:"0",role:"button","class":"mr-stepper-btn mr-stepper-minus","aria-label":d,title:d};nt?tt.type="button":tt.href="javascript:void(0);";const it=jQuery("<"+ot+">",tt).text("−"),st=jQuery("<span>",{"class":"mr-stepper-value",id:"mr-men-"+t+"_value",role:"status","aria-live":"polite","aria-atomic":"true"}),rt={tabindex:"0",role:"button","class":"mr-stepper-btn mr-stepper-plus","aria-label":g,title:g};nt?rt.type="button":rt.href="javascript:void(0);";const ut=jQuery("<"+ot+">",rt).text("+");it.on("click",function(n){n.preventDefault();y(l-e)});it.on("keydown",function(n){(n.key==="Enter"||n.key===" ")&&(n.preventDefault(),y(l-e))});ut.on("click",function(n){n.preventDefault();y(l+e)});ut.on("keydown",function(n){(n.key==="Enter"||n.key===" ")&&(n.preventDefault(),y(l+e))});ht(l);et.append(it,st,ut);w.append(et);jQuery(h).append(w)}function MrUpdateTitleBarA11y(){var u=jQuery("#mrSetBtn"),i=jQuery("#mrMinBtn"),f=jQuery("#mrCloseBtn"),n=SiteLang?{settings:"الإعدادات",minimize:"تصغير النافذة",restore:"استعادة النافذة",close:"إغلاق"}:{settings:"settings",minimize:"minimize",restore:"restore window",close:"close"},o=typeof MrIsModernUIEnabled=="function"&&MrIsModernUIEnabled(),s=u.is("button")?{"aria-label":n.settings}:{tabindex:"0",role:"button","aria-label":n.settings},e;u.attr(Object.assign(s,{"aria-expanded":MrIsSetWindowOpen?"true":"false","aria-haspopup":o?"dialog":"true"}));var r=i.attr("mr-opn")==="1",t=r?n.restore:n.minimize,h=i.is("button")?{"aria-label":t,title:t,"aria-pressed":r?"true":"false"}:{tabindex:"0",role:"button","aria-label":t,title:t,"aria-pressed":r?"true":"false"};i.attr(h);e=f.is("button")?{"aria-label":n.close}:{tabindex:"0",role:"button","aria-label":n.close};f.attr(e)}function MrUpdateAdvFtA11y(){var n=typeof SiteLang!="undefined"&&SiteLang?"أدوات لغة الإشارة المتقدمة":"Advanced sign language tools";jQuery("#MrAdvFtHolder").attr({role:"toolbar","aria-label":n,tabindex:"-1"});jQuery("#MrAdvFtHolder > a").each(function(){var n=jQuery(this),t=n.attr("title");n.attr({tabindex:"0",role:"button","aria-label":t})})}function MrSetPosTranslate(n,t,i){i.style.transform="translate3d("+n+"px, "+t+"px, 0)"}function MrMakeMovable(){var t=null,n=null,s=!1,a=typeof SiteLang!="undefined"&&SiteLang?"اسحب لتغيير الموقع. اختصارات التثبيت: ‎Ctrl+Shift+Q/E/Z/C‎":"Drag to move. Dock shortcuts: Ctrl+Shift+Q/E/Z/C",v=typeof SiteLang!="undefined"&&SiteLang?"شريط أدوات مترجم الإشارة — اسحب للتحريك":"Sign Language interpreter toolbar — drag to move",y='<div id="MrTitleBar" role="toolbar" aria-label="'+v+'" title="'+a+'" style="height: 36px;width:100%; background-color:var(--mr-fore-color);cursor: move;background-position: center;    background-repeat: no-repeat;  background-size: 24px;    background-image: url('+MrSlIcoStore.Get("drag_handle")+');"><\/div>',p="MrTitleBar",i=document.createElement("div"),u=MrMovableWindow.find("iframe"),r;jQuery(i).width(u.width());jQuery(i).height(u.height());jQuery(i).attr("id","mr-move-screen");jQuery(i).html('<div style="border: 1px solid var(--mr-fore-color);     height: 100%;padding:10% "><div style="border: 1px solid var(--mr-fore-color);   height: 100%; "><\/div><\/div>');MrMovableWindow.prepend('<div id="mr-setting-holder"><\/div>');MrMovableWindow.prepend(i);jQuery(i).css("background-color","white");MrMovableWindow.prepend(y);jQuery(i).hide();MrAddCss(".iconBtn { height: 100%; padding-top: 2.1%; padding-bottom: 2%; padding-left: 3%; padding-right: 3%; filter: "+MrTextColorInFilter+" } .iconBtn.active { background-color: rgba(0, 0, 0, 0) !important; }  a#mrSetBtn:has(.iconBtn.active) { background-color: rgba(0, 0, 0, 0.5) !important; outline: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px !important; } .mr-stepper-btn { display: inline-flex; align-items: center; justify-content: center; min-width: 24px; min-height: 24px; border-radius: 4px; text-decoration: none; } .mr-stepper-btn:hover { background-color: rgba(0, 0, 0, 0.45) !important; color: var(--mr-back-color) !important; box-shadow: inset 0 0 0 1px var(--mr-back-color) !important; outline: 2px solid var(--mr-back-color); outline-offset: -2px; } .mr-stepper-btn:active { transform: scale(0.94) !important; } #MrTitleBar { display: block !important; flex-direction: row !important; align-items: center !important; justify-content: flex-start !important; overflow: visible !important; padding: 2px 6px !important; box-sizing: border-box !important; } #MrTitleBar > a, #MrTitleBar > button { background: transparent !important; border: none !important; display: inline !important; align-items: center !important; justify-content: center !important; padding: 0 !important; margin: 2px !important; } #MrTitleBar > a#mrCloseBtn, #MrTitleBar > button#mrCloseBtn { margin-inline-start: auto !important; } #MrTitleBar > a:hover, #MrTitleBar > button:hover { background-color: rgba(0, 0, 0, 0.45) !important; border-radius: 4px !important; outline: 2px solid "+MrTextColor+" !important; outline-offset: -2px !important; } #MrTitleBar > a:active, #MrTitleBar > button:active { background-color: rgba(0, 0, 0, 0.55) !important; transform: scale(0.94) !important; } #MrTitleBar > a:focus-visible, #MrTitleBar > button:focus-visible { outline: 3px solid "+MrTextColor+" !important; outline-offset: -2px !important; } #MrTitleBar > a:focus-visible .iconBtn, #MrTitleBar > button:focus-visible .iconBtn, .mr-close-MrSlKeyboard:focus-visible .iconBtn, #mr-tut-window-background button:focus-visible .iconBtn, #mr-tut-window-background a:focus-visible .iconBtn { outline: none !important; } #mr-tut-window-background > button:first-child:focus-visible, #mr-tut-window-background > a:first-child:focus-visible { outline: 2px solid #ffffff; outline-offset: 2px; } "+`#MrTitleBar #mrCloseBtn img.iconBtn {float: left;}`,"IconBtnClass");MrAddCss(`
+.mr-cont-tooltip-window:not(.mr-modern-ui) .iconBtn { height: 100%; padding-top: 2.1%; padding-bottom: 2%; padding-left: 3%; padding-right: 3%; filter: ${MrTextColorInFilter} }
+.mr-cont-tooltip-window:not(.mr-modern-ui) .iconBtn.active { background-color: rgba(0, 0, 0, 0) !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) .mr-stepper-btn { display: inline-flex; align-items: center; justify-content: center; min-width: 24px; min-height: 24px; border-radius: 4px; text-decoration: none; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) .mr-stepper-btn:hover { background-color: rgba(0, 0, 0, 0.45) !important; color: var(--mr-back-color) !important; box-shadow: inset 0 0 0 1px var(--mr-back-color) !important; outline: 2px solid var(--mr-back-color); outline-offset: -2px; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) .mr-stepper-btn:active { transform: scale(0.94) !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar {direction:rtl; display: block !important; flex-direction: row !important; align-items: center !important; justify-content: flex-start !important; overflow: visible !important; padding: 2px 6px !important; box-sizing: border-box !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > button { background: transparent !important; border: none !important; display: inline !important; align-items: center !important; justify-content: center !important; padding: 0 !important; margin: 2px !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a#mrCloseBtn, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > button#mrCloseBtn { margin-inline-start: auto !important;display: inline-block !important;float: left; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar .iconBtn { display: inline-block; width: 28px !important; height: 28px !important; padding: 3px !important; box-sizing: border-box !important; border-radius: 4px !important; vertical-align: middle !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a:hover .iconBtn, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > button:hover .iconBtn { background-color: rgba(0, 0, 0, 0.45) !important; border-radius: 4px !important; outline: 2px solid ${MrTextColor} !important; outline-offset: -2px !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a:active .iconBtn, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > button:active .iconBtn { background-color: rgba(0, 0, 0, 0.55) !important; transform: scale(0.94) !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a:focus-visible, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > button:focus-visible { outline: none !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a:focus-visible .iconBtn, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > button:focus-visible .iconBtn { outline: 3px solid ${MrTextColor} !important; outline-offset: 2px; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a#mrSetBtn:has(.iconBtn.active) .iconBtn { background-color: rgba(0, 0, 0, 0.4) !important; outline: 1px solid rgba(255, 255, 255, 0.5) !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) .mr-close-MrSlKeyboard:focus-visible .iconBtn, .mr-cont-tooltip-window:not(.mr-modern-ui) #mr-tut-window-background button:focus-visible .iconBtn, .mr-cont-tooltip-window:not(.mr-modern-ui) #mr-tut-window-background a:focus-visible .iconBtn { outline: none !important; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #mr-tut-window-background > button:r-tut-window-background >a:first-child:focus-visible { outline: 2px solid #FFFFFF; outline-offset: 2px; }
+.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar #mrCloseBtn img.iconBtn { float: left; }
+`,"MrIconBtnHover");MrEnaFliponRta==!0&&(SiteLang||MrTKAddStyle(".mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar a:is(#mrMinBtn, #mrSetBtn) { float: right !important; }","MrResolvedRtaTitleBar"));MrDisableHighlightOnTitleBar==!0&&MrTKAddStyle(`.mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a:hover, .mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar > a:focus {outline:0px !important;}`,"MrDisOutLineTitBar");MrEnaFliponDga==!0&&SiteLang&&MrTKAddStyle(".mr-cont-tooltip-window:not(.mr-modern-ui) #MrTitleBar a:is(#mrMinBtn, #mrSetBtn) { float: right !important; }","MrResolvedRtaTitleBarFloating");var h=SiteLang?"إعدادات":"settings",c=SiteLang?"تصغير":"minimize",l=SiteLang?"إغلاق":"close";jQuery("#MrTitleBar").append('<a id="mrSetBtn" href="javascript:void(0);" tabindex="0" role="button" aria-label="'+h+'" title="'+h+'"><img class="iconBtn" src="'+MrSlIcoStore.Get("settings_gear")+'" alt="" aria-hidden="true" /><\/a>');jQuery("#MrTitleBar").append('<a id="mrMinBtn" href="javascript:void(0);" tabindex="0" role="button" aria-label="'+c+'" title="'+c+'"><img id="minImg" class="iconBtn" src="'+MrSlIcoStore.Get("window_minimize")+'" alt="" aria-hidden="true" /><\/a>');jQuery("#MrTitleBar").append('<a id="mrCloseBtn" href="javascript:void(0);" tabindex="0" role="button" aria-label="'+l+'" title="'+l+'"><img class="iconBtn" src="'+MrSlIcoStore.Get("tb_close")+'" alt="" aria-hidden="true" /><\/a>');jQuery("#mrSetBtn").on("click keydown",function(n){(n.type!=="keydown"||n.key==="Enter"||n.key===" ")&&(n.preventDefault(),MrToggleSettingWindow())});jQuery("#mrMinBtn").on("click keydown",function(n){(n.type!=="keydown"||n.key==="Enter"||n.key===" ")&&(n.preventDefault(),MrMinMaxAvatarWindow())});jQuery("#mrCloseBtn").on("click keydown",function(n){(n.type!=="keydown"||n.key==="Enter"||n.key===" ")&&(n.preventDefault(),jQuery("#TranslateStop").trigger("click"))});MrUpdateTitleBarA11y();MrUpdateWindowInfo();r=MrMovableWindow.position();MrUpdateOriginalWindowPoisision=function(){r=MrMovableWindow.position()};t=document.body;var f=function(t){if(t.target!==t.currentTarget&&t.target.getAttribute("id")==p&&jQuery("#minImg").attr("mr-opn")!="1"&&MrAllowDragDrop==!0){t.preventDefault();s=!0;MrShowDraggableWindowOnMove&&(u.hide(),jQuery(i).show());n=t.target.parentNode;var r,f;n!==null&&(n.xOffset||(n.xOffset=0),n.yOffset||(n.yOffset=0),t.type==="touchstart"?(r=t.touches[0].clientX,f=t.touches[0].clientY):(r=t.clientX,f=t.clientY),n.initialX=r-n.xOffset,n.initialY=f-n.yOffset)}},e=function(){n!==null&&(n.initialX=n.currentX,n.initialY=n.currentY,MrShowDraggableWindowOnMove&&(u.show(),jQuery(i).hide()));s=!1;n=null},o=function(t){var f,e,i,u;if(s){if(t.type==="touchmove"){try{t.preventDefault()}catch(o){}f=t.touches[0].clientX;e=t.touches[0].clientY}else f=t.clientX,e=t.clientY;i=f-n.initialX;u=e-n.initialY;r.left+i>MrMaxAllowedLeft&&(i=MrMaxAllowedLeft-r.left);r.top+u>MrMaxAllowedTop&&(u=MrMaxAllowedTop-r.top);r.left+i<0&&(i=r.left*-1);r.top+u<0&&(u=r.top*-1);n.currentX=i;n.currentY=u;n.xOffset=n.currentX;n.yOffset=n.currentY;MrSetPosTranslate(n.currentX,n.currentY,n)}};return MrReturnToDefaultPosistion=function(){},t.addEventListener("touchstart",f,{passive:!1}),t.addEventListener("touchend",e,{passive:!1}),t.addEventListener("touchmove",o,{passive:!1}),t.addEventListener("mousedown",f,{passive:!1}),t.addEventListener("mouseup",e,{passive:!1}),t.addEventListener("mousemove",o,{passive:!1}),MrIsSetWindowOpen?MrOpenSettingsWindow():MrCloseSettingsWindow(),MrResetAvatarToPosition=function(){MrSetPosTranslate(0,-1,MrMovableWindow[0]);n=MrMovableWindow[0];n!=null&&(n.initialX=undefined,n.initialY=undefined,n.currentX=undefined,n.currentY=undefined,n.xOffset=0,n.yOffset=0,n=null)},function(){MrSetPosTranslate(0,0,MrMovableWindow[0]);n=MrMovableWindow[0];n!=null&&(n.initialX=undefined,n.initialY=undefined,n.currentX=undefined,n.currentY=undefined,n.xOffset=0,n.yOffset=0,n=null);try{t.removeEventListener("touchstart",f);!MrUseInlineHandlingTools}catch(r){}t.addEventListener("touchend",e);t.addEventListener("touchmove",o);t.addEventListener("mousedown",f);t.addEventListener("mouseup",e);t.addEventListener("mousemove",o);jQuery("#MrTitleBar").remove();jQuery(i).remove();jQuery("#mr-setting-holder").remove();MrResetAvatarToPosition=function(){}}}function MrMinMaxAvatarWindow(){var t=MrMovableWindow.find("iframe"),n=jQuery("#minImg"),i=n.attr("mr-opn")!="1";i?(n.attr("src",MrSlIcoStore.Get("window_maximize")),n.attr("mr-opn","1"),jQuery("#mrMinBtn").attr({"mr-opn":"1"}),t.hide(),MrCloseSettingsWindow(),jQuery("#mrSetBtn").hide(),MrIsModernUIEnabled()&&jQuery("#MrAdvFtHolder").hide()):(n.attr("src",MrSlIcoStore.Get("window_minimize")),n.attr("mr-opn","0"),jQuery("#mrMinBtn").attr({"mr-opn":"0"}),t.show(),jQuery("#mrSetBtn").show(),MrIsModernUIEnabled()&&jQuery("#MrAdvFtHolder").show());MrUpdateTitleBarA11y()}function MrScaleMovableWindow(n){MrAvWindowResizer.scale(n)}function MrWindowResetPosision(){MrDistoryMovableWindows();MrDistoryMovableWindows=MrMakeMovable()}function MrAddCss(n,t){t!=undefined&&jQuery("#"+t).remove();jQuery("body").append("<style "+(t!=undefined?' id="'+t+'"':"")+" >"+n+"<\/style>")}function MrInjectModernUIStyles(){var n=`
+.mr-cont-tooltip-window.mr-modern-ui {
+  border-radius: 16px !important;
+  overflow: hidden !important;
+  box-shadow: 0 14px 42px rgba(0, 0, 0, 0.28) !important;
+  border: none !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  width: auto !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui.mr-docked {
+  box-shadow: none !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui iframe {
+  display: block;
+  background: transparent !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar {
+  height: 44px !important;
+  padding: 0 10px !important;
+  background-color: var(--mr-fore-color) !important;
+  background-size: 22px !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  cursor: move !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  box-sizing: border-box !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 34px !important;
+  height: 34px !important;
+  margin: 0 2px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  padding: 0 !important;
+  cursor: pointer !important;
+  border: 2px solid transparent !important;
+  background: transparent !important;
+  color: inherit !important;
+  font: inherit !important;
+  transition: background-color 0.18s ease, transform 0.1s ease !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a#mrCloseBtn,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button#mrCloseBtn {
+  margin-inline-start: auto !important;
+  
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a:hover,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button:hover {
+  background-color: rgba(0, 0, 0, 0.45) !important;
+  outline: 2px solid var(--mr-back-color) !important;
+  outline-offset: -2px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a:active,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button:active {
+  transform: scale(0.94) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a:focus-visible,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button:focus-visible {
+  outline: 3px solid var(--mr-back-color) !important;
+  outline-offset: 3px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .iconBtn,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a img,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button img {
+  height: 22px !important;
+  width: 22px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  filter: brightness(0) saturate(100%) invert(100%) !important;
+  opacity: 1 !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .iconBtn.active,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a .iconBtn.active,
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button .iconBtn.active {
+  background-color: rgba(0, 0, 0, 0) !important;
+  border-radius: 8px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui a#mrSetBtn:has(.iconBtn.active) {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  outline: 1px solid rgba(255, 255, 255, 0.5);
+}
+.mr-cont-tooltip-window.mr-modern-ui #mr-setting-holder {
+  position: relative !important;
+  background-color: var(--mr-fore-color) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #mr-set-window-cont {
+  background-color: var(--mr-fore-color) !important;
+  color: var(--mr-back-color) !important;
+  padding: 18px 16px 56px 16px !important;
+  border: none !important;
+  border-radius: 0 0 12px 12px !important;
+  animation: mrModernSlideIn 0.22s ease-out !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .Mr-set-content {
+  background-color: var(--mr-fore-color) !important;
+  color: var(--mr-back-color) !important;
+  border: none !important;
+}
+@keyframes mrModernSlideIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-men-range-holder {
+  align-items: center !important;
+  padding: 6px 0 !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-set-label {
+  flex: 0 0 38px !important;
+  margin-left: 0 !important;
+  margin-inline-end: 12px !important;
+  text-align: center !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-set-label .mr-sl-icon {
+  width: 24px !important;
+  height: 24px !important;
+  float: none !important;
+  margin: 0 !important;
+  filter: brightness(0) saturate(100%) invert(100%) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-men-stepper-holder {
+  display: flex !important;
+  flex-flow: row !important;
+  align-items: center !important;
+  padding: 10px 0 !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-set-stepper-control {
+  flex: 1 1 auto !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 10px !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 10px !important;
+  padding: 4px !important;
+  outline: 1px solid rgba(255, 255, 255, 0.5);
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-stepper-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 30px !important;
+  height: 30px !important;
+  border-radius: 8px !important;
+  background-color: var(--mr-back-color) !important;
+  color: var(--mr-fore-color) !important;
+  font-size: 21px !important;
+  font-weight: 600 !important;
+  line-height: 1 !important;
+  text-decoration: none !important;
+  user-select: none !important;
+  border: 1px solid var(--mr-back-color) !important;
+  transition: background-color 0.15s ease, transform 0.1s ease !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-stepper-btn:hover {
+  background-color: rgba(0, 0, 0, 0.45) !important;
+  color: var(--mr-back-color) !important;
+  box-shadow: inset 0 0 0 1px var(--mr-back-color) !important;
+  outline: 2px solid var(--mr-back-color) !important;
+  outline-offset: -2px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-stepper-btn:active {
+  transform: scale(0.94) !important;
+}
+.mr-stepper-btn:focus-visible {
+  outline: 3px solid var(--mr-fore-color);
+  outline-offset: -2px;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-stepper-btn:focus-visible {
+  outline: 3px solid #ffffff !important;
+  outline-offset: 2px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-stepper-value {
+  flex: 1 1 auto !important;
+  text-align: center !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  color: var(--mr-back-color) !important;
+  min-width: 48px !important;
+  user-select: none !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #mr-set-toolbox {
+  position: absolute !important;
+  top: auto !important;
+  right: 10px !important;
+  bottom: 12px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 8px !important;
+  padding: 2px !important;
+  z-index: 2 !important;
+}
+.mr-cont-tooltip-window[dir="rtl"].mr-modern-ui #mr-set-toolbox,
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #mr-set-toolbox,
+.mr-cont-tooltip-window.mr-modern-ui *[dir="rtl"] #mr-set-toolbox {
+  right: auto !important;
+  left: 10px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-setting-side-element {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 32px !important;
+  height: 32px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  outline: 1px solid rgba(255, 255, 255, 0.5) !important;
+  transition: background-color 0.15s ease, transform 0.1s ease, outline-color 0.15s ease !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-setting-side-element:hover {
+  background-color: rgba(0, 0, 0, 0.65) !important;
+  border-color: var(--mr-back-color) !important;
+  box-shadow: 0 0 0 1px var(--mr-back-color) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-setting-side-element:active {
+  transform: scale(0.94) !important;
+}
+.mr-setting-side-element:focus-visible {
+  outline: 3px solid var(--mr-fore-color);
+  outline-offset: -2px;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-setting-side-element:focus-visible {
+  outline: 3px solid var(--mr-back-color) !important;
+  outline-offset: -2px !important;
+}
+
+.mr-cont-tooltip-window.mr-modern-ui .mr-setting-side-element img {
+  width: 18px !important;
+  height: 18px !important;
+  margin: 0 !important;
+  float: none !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #BtnBgColor[style*="display: none"] {
+  display: none !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrAdvFtHolder {
+  height: auto !important;
+  min-height: 44px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 6px 10px !important;
+  margin: 0 !important;
+  background-color: var(--mr-fore-color) !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 0 0 12px 12px !important;
+  box-sizing: border-box !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn {
+  display: inline-flex;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 34px !important;
+  height: 34px !important;
+  margin: 0 !important;
+  font-size: 22px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  outline: none !important;
+  transition: background-color 0.15s ease, transform 0.1s ease !important;
+}
+.mr-adv-feature-btn:focus-visible {
+  outline: 3px solid var(--mr-fore-color);
+  outline-offset: -2px;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn:focus-visible {
+  outline: 3px solid var(--mr-back-color) !important;
+  outline-offset: -2px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn:hover {
+  background-color: rgba(0, 0, 0, 0.45) !important;
+  outline: 2px solid var(--mr-back-color) !important;
+  outline-offset: -2px !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn:active {
+  transform: scale(0.94) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn.active {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  outline: 1px solid rgba(255, 255, 255, 0.5) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn .mrslbtn-icon {
+  margin: 0 !important;
+  color: var(--mr-back-color) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #mr-move-screen {
+  background-color: transparent !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #mr-move-screen > div {
+  border: none !important;
+  background: transparent !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #mr-move-screen > div > div {
+  border: 2px dashed rgba(255, 255, 255, 0.18) !important;
+  border-radius: 10px !important;
+  background: rgba(255, 255, 255, 0.04) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #mr-set-toolbox,
+.mr-cont-tooltip-window.mr-modern-ui *[dir="rtl"] #mr-set-toolbox {
+  right: auto !important;
+  left: 10px !important;
+}
+.mr-cont-tooltip-window[dir="rtl"] #MrAdvFtHolder .mricon-sl-to-start,
+.mr-cont-tooltip-window[dir="rtl"] #MrAdvFtHolder .mricon-sl-to-end {
+  display: inline-block !important;
+  transform: scaleX(-1) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #MrAdvFtHolder #MrSlPNextButton {
+  order: 1 !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #MrAdvFtHolder #mrSlPausePlayBtn {
+  order: 2 !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #MrAdvFtHolder #MrSlPPrevButton {
+  order: 3 !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #MrAdvFtHolder #MrSlPPrevButton .mrslbtn-icon,
+.mr-cont-tooltip-window.mr-modern-ui[dir="rtl"] #MrAdvFtHolder #MrSlPNextButton .mrslbtn-icon {
+  display: inline-block !important;
+  transform: scaleX(1) !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  .mr-cont-tooltip-window.mr-modern-ui #mr-set-window-cont {
+    animation: none !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .iconBtn,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a img,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button img,
+  .mr-cont-tooltip-window.mr-modern-ui .mr-stepper-btn,
+  .mr-cont-tooltip-window.mr-modern-ui .mr-setting-side-element,
+  .mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn {
+    transition: none !important;
+    transform: none !important;
+  }
+}
+@media (max-width: 480px) {
+  .mr-cont-tooltip-window.mr-modern-ui {
+    border-radius: 12px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar {
+    height: 40px !important;
+    padding: 0 8px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .iconBtn,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > a img,
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar > button img {
+    height: 18px !important;
+    width: 18px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui .mr-set-label {
+    flex: 0 0 32px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui .mr-set-label .mr-sl-icon {
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui .mr-stepper-btn {
+    width: 28px !important;
+    height: 28px !important;
+    font-size: 18px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui .mr-stepper-value {
+    font-size: 14px !important;
+    min-width: 40px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #mr-set-window-cont {
+    padding: 14px 12px 52px 12px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #MrAdvFtHolder {
+    min-height: 40px !important;
+    padding: 4px 8px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui .mr-adv-feature-btn {
+    width: 30px !important;
+    height: 30px !important;
+    font-size: 18px !important;
+    display: inline-flex;
+    margin: 0 !important;
+  }
+}
+/* docking/minimize styles disabled
+.mr-cont-tooltip-window.mr-modern-ui.mr-minimized {
+  height: auto !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui.mr-minimized #mr-setting-holder,
+.mr-cont-tooltip-window.mr-modern-ui.mr-minimized #mr-move-screen {
+  display: none !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-buttons {
+  display: inline-flex !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 4px !important;
+  width: 76px !important;
+  padding: 2px !important;
+  margin: 0 4px !important;
+  border-radius: 10px !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  box-sizing: border-box !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 32px !important;
+  height: 26px !important;
+  border-radius: 6px !important;
+  background-color: rgba(0, 0, 0, 0.35) !important;
+  color: var(--mr-back-color) !important;
+  font-size: 16px !important;
+  text-decoration: none !important;
+  transition: background-color 0.15s ease, transform 0.1s ease !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn:hover {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn:active {
+  transform: scale(0.94) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn.active {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+}
+.mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn:focus-visible {
+  outline: 3px solid var(--mr-back-color) !important;
+  outline-offset: 2px !important;
+}
+@media (max-width: 480px) {
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-buttons {
+    width: 72px !important;
+    padding: 2px !important;
+  }
+  .mr-cont-tooltip-window.mr-modern-ui #MrTitleBar .mr-dock-position-btn {
+    width: 30px !important;
+    height: 24px !important;
+    font-size: 15px !important;
+  }
+*/
+}
+`;MrAddCss(n,"MrModernUIStyle")}function MrFixSetLabelIconVisibility(){jQuery("#MrSetLabelIconStyle").length===0&&jQuery("body").append('<style id="MrSetLabelIconStyle">.mr-cont-tooltip-window.mr-modern-ui .mr-set-label .mr-sl-icon { filter: '+MrTextColorInFilter+" !important; } .mr-cont-tooltip-window.mr-modern-ui #mr-set-toolbox .mr-setting-side-element:not(.bg-light-set):not(.bg-dark-set) img { filter: "+MrTextColorInFilter+" !important; } .mr-cont-tooltip-window.mr-modern-ui #mr-set-toolbox .mr-setting-side-element.bg-light-set img { filter: "+MrTextColorInFilter+" !important; } .mr-cont-tooltip-window.mr-modern-ui #mr-set-toolbox .mr-setting-side-element.bg-dark-set img { filter: "+MrTextColorInFilter+" !important; }<\/style>")}function MrLoadAdvanceAvatarWindow(){MrEnforceModernUIPolicy();MrSLIconFilter!=undefined&&(MrSLIconFilter==""||MrSLIconFilter.trim()=="brightness(0) saturate(100%) invert(30%) sepia(8%) saturate(151%) hue-rotate(181deg) brightness(91%) contrast(89%)".trim())&&(MrSLIconFilter=MrCSSColorsUtil.hexToFilter(MrBackColor,!0));MrAddCss(` :root{ --mr-back-color:`+MrTextColor+`; --mr-fore-color:`+MrBackColor+`; --mr-img-filter: `+MrCSSColorsUtil.hexToFilter(MrBackColor,!0)+`; --mr-circ-size: 24px;}`,"MrDefineColorSchemaStyle");MrMovableWindow=jQuery(".mr-cont-tooltip-window");MrIsModernUIEnabled()?(MrMovableWindow.addClass("mr-modern-ui"),MrInjectModernUIStyles()):(MrMovableWindow.removeClass("mr-modern-ui"),jQuery("#MrModernUIStyle").remove());MrDistoryMovableWindows=MrMakeMovable();MrScaleMovableWindow(MrDefaultWindowScale);jQuery("#mr-icon-css-holder").length==0&&(jQuery("body").append('<style id="mr-icon-css-holder">.mr-sl-icon{filter:'+MrSLIconFilter+" ;width:2.2vw !important;float: left;}<\/style>"),SiteLang||jQuery("body").append("<style>.mr-sl-icon {margin-right: 10px;}<\/style>"));MrFixSetLabelIconVisibility();MrRestoreBGSettingsFromParams();MrRestoreLightingSettingsFromParams();MrLoadAdvanceFeaturesAndTools&&MrPrepareAdvanceFeaturesControls();MrAvWindowResizer.init()}function MrGetStateObjectByState(n,t){for(const i in MrButtonDic[n])if(Object.hasOwnProperty.call(MrButtonDic[n],i)){const r=MrButtonDic[n][i];if(r.state==t)return r}return null}function MrGetActiveState(n){var t=GetParam("MrSt-"+n);if(t!=undefined&&t!=null&&t!="null")for(const i in MrButtonDic[n])if(Object.hasOwnProperty.call(MrButtonDic[n],i)){const r=MrButtonDic[n][i];if(r.state==t){if(r.active==!1)for(const t in MrButtonDic[n])if(Object.hasOwnProperty.call(MrButtonDic[n],t)){const i=MrButtonDic[n][t];if(r.state==i.state)continue;i.active==!0&&(MrButtonDic[n][t].active=!1)}return r}}for(const t in MrButtonDic[n])if(Object.hasOwnProperty.call(MrButtonDic[n],t)){const i=MrButtonDic[n][t];if(i.active==!0)return i}return null}function MrUpdateButtonState(n,t){var i=MrGetStateObjectByState(n,t.next),f=SiteLang?"، اضغط للتبديل إلى ":", press to switch to ",r=t.name+f+i.name,u;jQuery("#"+n).attr("title",r);jQuery("#"+n).attr("aria-label",r);jQuery("#"+n).attr("mr-btn-state",i.state);jQuery("#"+n).attr("mr-btn-next",i.next);jQuery("#"+n).find("img").attr("src",i.icon);jQuery("#"+n).find("img").attr("alt","").attr("aria-hidden","true");n==="BtnBgColor"&&jQuery("#"+n).attr("aria-pressed",i.state==="bg-dark"?"true":"false");n==="BtnLighting"&&(u=MrLightingStateFilters[t.state]||"",jQuery("#"+n).find("img").css("filter",u));SetParam("MrSt-"+n,t.state)}function MrSetAddMultiStateButton(n,t,i,r,u="100px",f="100px"){MrButtonDic[t]=i;var e=MrGetActiveState(t),l=SiteLang?"، اضغط للتبديل إلى ":", press to switch to ",o=e.name+l+MrGetStateObjectByState(t,e.next).name,s="";t==="BtnBgColor"&&(s=' aria-pressed="'+(e.state==="bg-dark"?"true":"false")+'"');var h=typeof MrIsModernUIEnabled=="function"&&MrIsModernUIEnabled(),c=h?"button":"a",a=h?'type="button"':'href="javascript:void(0);"',v=t==="BtnLighting"&&MrLightingStateFilters[e.state]?" filter: "+MrLightingStateFilters[e.state]+";":"";jQuery(n).append("<"+c+' id="'+t+'" '+a+' tabindex="0" role="button" aria-label="'+o+'"'+s+' title="'+o+'" class="mr-setting-side-element'+(t==="BtnLighting"?" mr-lighting-btn":"")+'"  mr-btn-state="'+e.state+'" mr-btn-next="'+e.next+'" ><img src='+e.icon+' alt="" aria-hidden="true" style="width:'+u+";height:"+f+";"+v+'" /><\/'+c+">");jQuery("#"+t).click(function(){var n=MrGetStateObjectByState(jQuery(this).attr("id"),jQuery(this).attr("mr-btn-state"));r(n.state,n.data);MrUpdateButtonState(jQuery(this).attr("id"),n)});jQuery("#"+t).on("keydown",function(n){if(n.key==="Enter"||n.key===" "){n.preventDefault();var t=MrGetStateObjectByState(jQuery(this).attr("id"),jQuery(this).attr("mr-btn-state"));r(t.state,t.data);MrUpdateButtonState(jQuery(this).attr("id"),t)}})}function MrRestoreBGSettingsFromParams(){setTimeout(()=>{var n=GetParam("mr-bg-color"),t=GetParam("mr-bg-opa"),i=GetParam("MrSt-BtnBgColor");i!=null&&n!=null&&t!=null&&document.getElementById(jQuery("#mr_sign_player999").attr("id")).contentWindow.postMessage("cmd:bg;"+n+","+t+"",MrCommOrigin)},2500)}function MrRestoreLightingSettingsFromParams(){MrIsModernUIEnabled()&&setTimeout(()=>{var i=GetParam("MrSt-BtnLighting"),n,t;if(i!=null)for(n in MrLightingPresetsData)if(Object.hasOwnProperty.call(MrLightingPresetsData,n)&&(t=MrLightingPresetsData[n],t.state===i)){MrSetLightingPreset(t.data);break}},2500)}function MrSetBackgroundSettings(n,t,i){MrAvatarBgColor=n;MrAvatarBgOpacity=t;i!=undefined&&(jQuery(".mr-setting-side-element").removeClass("bg-dark-set"),jQuery(".mr-setting-side-element").removeClass("bg-light-set"),MrCachedMrState=i+"-set",jQuery(".mr-setting-side-element").addClass(MrCachedMrState));t==0?(jQuery(".mr-setting-side-element").hasClass("bg-dark-set")&&(MrCachedMrState="bg-dark-set"),jQuery(".mr-setting-side-element").hasClass("bg-light-set")&&(MrCachedMrState="bg-light-set"),jQuery(".mr-setting-side-element").addClass("bg-dark-set"),jQuery(".mr-setting-side-element").removeClass("bg-light-set"),jQuery("#BtnBgColor").hide()):(MrCachedMrState!=undefined&&(jQuery(".mr-setting-side-element").removeClass("bg-dark-set"),jQuery(".mr-setting-side-element").removeClass("bg-light-set"),jQuery(".mr-setting-side-element").addClass(MrCachedMrState)),jQuery("#BtnBgColor").show());SetParam("mr-bg-color",n);SetParam("mr-bg-opa",t);document.getElementById(jQuery("#mr_sign_player999").attr("id")).contentWindow.postMessage("cmd:bg;"+MrAvatarBgColor+","+MrAvatarBgOpacity+"",MrCommOrigin)}function MrSetLightingPreset(n){var t,i;try{t=document.getElementById("mr_sign_player999")||jQuery("#mr_sign_player999")[0];t&&t.contentWindow?(i="cmd:lighting;"+n,t.contentWindow.postMessage(i,MrCommOrigin),typeof MrConsLogger!="undefined"&&MrConsLogger.Log("Sent lighting command: "+i)):typeof MrConsLogger!="undefined"&&MrConsLogger.Error("Cannot send lighting command: avatar iframe not ready.")}catch(r){typeof MrConsLogger!="undefined"&&MrConsLogger.Error("Error sending lighting command: "+r.message)}}function MrOldUIAdjustSetBoxSet(){var n=jQuery("#mr-setting-holder").height()+jQuery("#MrTitleBar").height()+MrHoldSetIconsPadding;jQuery("#mr-set-toolbox").css("top",n);jQuery("#mr-set-toolbox").css("right",0)}function MrCreateBGSettingTools(){MrActiveLabels=SiteLang?MrSetExtraFeatureLabels.ar:MrSetExtraFeatureLabels.en;jQuery("#mr-set-toolbox").length>0&&jQuery("#mr-set-toolbox").remove();jQuery("#mr-set-window-cont").append('<div id="mr-set-toolbox"><\/div>');jQuery("#mr-set-toolbox").css("position","absolute");MrSetAddMultiStateButton("#mr-set-toolbox","BtnBgColor",[{name:MrActiveLabels.bkLight.light,icon:MrSlIcoStore.Get("bg_light"),state:"bg-light",data:MrAvBgColorsData.light,next:"bg-dark",active:!1},{name:MrActiveLabels.bkLight.dark,icon:MrSlIcoStore.Get("bg_dark"),state:"bg-dark",data:MrAvBgColorsData.dark,next:"bg-light",active:!0}],function(n,t){MrAvatarBgColor=t;MrSetBackgroundSettings(MrAvatarBgColor,MrAvatarBgOpacity,n)},MrSetBgHoldingBtnSize,MrSetBgHoldingBtnSize);MrSetAddMultiStateButton("#mr-set-toolbox","BtnBgOpacity",[{name:MrActiveLabels.bkOpa.solid,icon:MrSlIcoStore.Get("bg_solid"),state:"bg-solid",data:"0.5",next:"bg-mid",active:!0},{name:MrActiveLabels.bkOpa.midTrans,icon:MrSlIcoStore.Get("bg_mid"),state:"bg-mid",data:"0",next:"bg-trans",active:!1},{name:MrActiveLabels.bkOpa.fullTrans,icon:MrSlIcoStore.Get("bg_trans"),state:"bg-trans",data:"1",next:"bg-solid",active:!1}],function(n,t){MrAvatarBgOpacity=t;MrSetBackgroundSettings(MrAvatarBgColor,MrAvatarBgOpacity)},MrSetBgHoldingBtnSize,MrSetBgHoldingBtnSize);jQuery("#MrSetHolderStyle").length==0&&jQuery("body").append('<style id="MrSetHolderStyle">.mr-setting-side-element.bg-dark-set img{filter:'+MrSLIconFilter+"} .mr-setting-side-element.bg-light-set img{filter:"+MrTextColorInFilter+"} .mr-setting-side-element { padding: "+MrHoldSetIconsPadding+"px;padding-left: 0px; } .mr-setting-side-element:hover { background-color: rgba(0, 0, 0, 0.45) !important; outline: 2px solid "+MrTextColor+"; outline-offset: 2px; } .mr-setting-side-element:active { transform: scale(0.94) !important; } .mr-setting-side-element:focus-visible { outline: 2px solid "+MrTextColor+"; outline-offset: 2px; }<\/style>");var n=MrGetActiveState("BtnBgColor"),t=MrGetActiveState("BtnBgOpacity");MrAvatarBgColor=GetParam("mr-bg-color");MrAvatarBgOpacity=GetParam("mr-bg-opa");MrAvatarBgColor==null&&(MrAvatarBgColor=n.data);MrAvatarBgOpacity==null&&(MrAvatarBgOpacity=t.data);MrOldUIAdjustSetBoxSet();setTimeout(MrOldUIAdjustSetBoxSet,500);MrSetBackgroundSettings(MrAvatarBgColor,MrAvatarBgOpacity,n.state);MrUpdateButtonState("BtnBgColor",n);MrUpdateButtonState("BtnBgOpacity",t)}function MrCreateLightingSettingTools(){var t,i,n,r;if(MrIsModernUIEnabled()&&(MrActiveLabels=SiteLang?MrSetExtraFeatureLabels.ar:MrSetExtraFeatureLabels.en,jQuery("#mr-set-toolbox").length!==0)){t=[];for(i in MrLightingPresetsData)Object.hasOwnProperty.call(MrLightingPresetsData,i)&&(n=MrLightingPresetsData[i],t.push({name:MrActiveLabels.lighting[n.nameKey],icon:MrSlIcoStore.Get("lighting"),state:n.state,data:n.data,next:n.next,active:n.active}));MrSetAddMultiStateButton("#mr-set-toolbox","BtnLighting",t,function(n,t){MrSetLightingPreset(t)},MrSetBgHoldingBtnSize,MrSetBgHoldingBtnSize);r=MrGetActiveState("BtnLighting");r!=null&&MrUpdateButtonState("BtnLighting",r);MrCreateCameraSwitchTool()}}function MrCreateCameraSwitchTool(){function u(n,t){return SiteLang?n.ar+"، اضغط للتبديل إلى "+t.ar:n.en+", press to switch to "+t.en}function f(){var r=t[n],f=t[n==="virtual"?"cinematic":"virtual"],i=u(r,f);jQuery("#BtnCameraSwitch").attr("aria-label",i).attr("title",i)}function e(){var n=document.getElementById("mr_sign_player999")||jQuery("#mr_sign_player999")[0];n&&n.contentWindow&&n.contentWindow.postMessage("cmd:swcam",MrCommOrigin)}var t,n,r,i;if(MrIsModernUIEnabled()&&jQuery("#mr-set-toolbox").length!==0&&!(jQuery("#BtnCameraSwitch").length>0)){t={virtual:{ar:"الكاميرا الافتراضية",en:"Virtual camera"},cinematic:{ar:"الكاميرا السينمائية",en:"Cinematic camera"}};n="virtual";r=u(t[n],t.cinematic);i=jQuery("<button>",{id:"BtnCameraSwitch",type:"button","class":"mr-setting-side-element","aria-label":r,title:r}).append(jQuery("<img>",{src:MrSlIcoStore.Get("camera_switch"),alt:"","aria-hidden":"true",style:"width:"+MrSetBgHoldingBtnSize+";height:"+MrSetBgHoldingBtnSize+";"}));i.on("click",function(t){t.preventDefault();e();n=n==="virtual"?"cinematic":"virtual";f()});i.on("keydown",function(t){(t.key==="Enter"||t.key===" ")&&(t.preventDefault(),e(),n=n==="virtual"?"cinematic":"virtual",f())});jQuery("#mr-set-toolbox").append(i)}}function MrAddSLFont(){jQuery("#MrSlFHld").length==0&&(MrAddCss(`@font-face {font-family: MrSlArFont ;src: url(${MrFontsURL.slf})}
+.mr-sl-font${MrSlFontIgnoreElements.length>0?":not("+MrSlFontIgnoreElements+")":""},body[mr-sl-font-on="1"] *${MrSlFontIgnoreElements.length>0?":not("+MrSlFontIgnoreElements+")":""} {
+font-family:MrSlArFont !important;}
+`,"MrSlFHld"),MrAddCss(".mr-cont-tooltip-window {    font-family: sans-serif !important;}"))}function MrAppendSlFontSiteLanguageParam(){jQuery("#"+MrSiteSLLanguageFontParamId).length==0&&jQuery("body").append('<input type="hidden" id="'+MrSiteSLLanguageFontParamId+'" value="0"/>')}function MrActivateSLFontOnWebsite(){MrAppendSlFontSiteLanguageParam();jQuery("#"+MrSiteSLLanguageFontParamId).val("1");jQuery("*:not(.mr-material-icons,.mr-skip-sl-font,i)").addClass("mr-sl-font");jQuery("body").attr("mr-sl-font-on","1");SetParam("MrSLFont","1")}function MrDeactivateivateSLFontOnWebsite(){MrAppendSlFontSiteLanguageParam();jQuery("#"+MrSiteSLLanguageFontParamId).val("0");jQuery("*:not(.mr-material-icons,.mr-skip-sl-font,i)").removeClass("mr-sl-font");SetParam("MrSLFont","0");jQuery("body").removeAttr("mr-sl-font-on")}function MrToggleSLFontOnWebsite(){MrAppendSlFontSiteLanguageParam();jQuery("#"+MrSiteSLLanguageFontParamId).val()=="0"?(jQuery("#mrFontSiteBtn").addClass("active").attr("aria-pressed","true"),MrActivateSLFontOnWebsite(),MrAnnounce(SiteLang?"تم تفعيل خط لغة الإشارة":"Sign language font activated")):(MrDeactivateivateSLFontOnWebsite(),jQuery("#mrFontSiteBtn").removeClass("active").attr("aria-pressed","false"),MrAnnounce(SiteLang?"تم إلغاء خط لغة الإشارة":"Sign language font deactivated"));jQuery(".mr-cont-tooltip-window.mr-sl-font,.mr-cont-tooltip-window.mr-sl-font *,#DeafTranslate,#TranslateStop,#DeafServicePlace,#DeafServicePlace *").removeClass("mr-sl-font")}function MrAddKeyboardCSS(){MrAddSLFont();MrDefineResponsiveVars([{gname:"MrSLKeyboardCssConfig",vars:[{key:"mr-key-width",on:{def:"55px",mob:"24px",tablet:"6vw",desktop:"55px"}},{key:"mr-key-font-size",on:{def:"1.2em",mob:"14pt",tablet:"14pt",desktop:"1.2em"}},{key:"mr-key-p-v",on:{def:"10px",mob:"5px",tablet:"5px",desktop:"10px"}},{key:"mr-key-margin",on:{def:"2px",mob:"0px",tablet:"2px",desktop:"2px"}}]}]);var n=window.screen.width<=768,t=`.MrSlKeyboard-cont{min-width: min(320px, 100vw);}
+.mrSlkey{  min-width: 24px;  min-height: 24px;}
+`;MrAddCss(`
+    .MrSlKeyboard-cont { position: fixed;        top: 10px;        left: ${n?"0px":"20px"};        z-index:100000000000;        display: inline-block;        padding: 10px;        background-color: var(--mr-fore-color);        border-radius: 5px;        border: 1px solid var(--mr-back-color);    }
+    .mr-lang-disp{        float: left;        position: absolute;        left: 20px;        top: 10px;        color: var(--mr-back-color);    }
+    .mr-close-MrSlKeyboard{        float: left;        position: absolute;        right: 20px;        top: 10px;        color: var(--mr-back-color);        display:block;        width: 24px;        height: 24px;        background: transparent;        border: none;        padding: 0;        cursor: pointer;    }
+    .mr-close-MrSlKeyboard img { width: 24px !important; height: 24px !important; }
+.mr-close-MrSlKeyboard:focus-visible { outline: 3px solid var(--mr-back-color); outline-offset: -2px; }
+    .MrSlKeyboard-cont #divMover{    background: url('${MrSlIcoStore.Get("drag_handle")}');    background-repeat: no-repeat;    background-size: 30px;    background-position-x: center;
+    }
+    .MrSlKeyboard-cont[lang='Arabic'] .mrSlkey,
+    .MrSlKeyboard-cont[lang='English'] .mrSlkey {
+        width: var(--mr-key-width);
+        margin: var(--mr-key-margin);
+    }
+    .double-mrSlkey {
+           width: calc(var(--mr-key-width)* 2 + 4px) !important;
+    }
+    .fill-mrSlkey{
+        width: calc(100% - (var(--mr-key-width))) !important;
+    }
+    div#mr-commonRow .mrSlkey:not([mr-key-info='Space']) { width: var(--mr-key-width); }
+
+    #MrSlKeyboard {
+        display: inline-block;        padding: 10px;        background-color: var(--mr-fore-color);        border-radius: 5px;        border: 1px solid var(--mr-back-color);    }
+        .mr-shift-active{          background-color: var(--mr-fore-color) !important;        color: var(--mr-back-color)!important;         border: 1px solid var(--mr-back-color)!important;        }
+    .mrSlkey-row {    display: flex;        margin-bottom: 5px;        justify-content: center;    }
+    .mrSlkey {
+        padding-top: 4px; padding-bottom: 4px;
+        padding-right: var(--mr-key-p-v);
+        padding-left: var(--mr-key-p-v);
+        background-color: var(--mr-back-color);
+        color: var(--mr-fore-color);border: 1px solid var(--mr-fore-color);border-radius: 3px;font-size:  var(--mr-key-font-size);font-family: MrSlArFont !important;
+        cursor: pointer;display: inline-block;text-align: center;
+        text-decoration: none;
+        appearance: none; -webkit-appearance: none; -moz-appearance: none;
+    }
+    .mrSlkey:hover {
+            background-color: var(--mr-fore-color)!important;color: var(--mr-back-color)!important;border: 1px solid var(--mr-back-color)!important;
+            box-shadow: inset 0 0 0 1px var(--mr-back-color) !important;
+    }
+.mrSlkey:focus,
+    .mrSlkey:focus-visible {
+            background-color: var(--mr-fore-color)!important;
+            color: var(--mr-back-color)!important;
+            border: 1px solid var(--mr-back-color)!important;
+            outline: 3px solid var(--mr-back-color);
+            outline-offset: 2px;
+            border-radius: 3px;
+    }
+    .MrSlKeyboard-cont:focus,
+    .MrSlKeyboard-cont:focus-visible {
+            outline: none;
+    }
+    .mr-adv-feature-btn:focus-visible .mrslbtn-icon,
+    .mr-close-MrSlKeyboard:focus-visible .iconBtn {
+            outline: none !important;
+    }
+.mr-close-MrSlKeyboard:hover {
+            background-color: rgba(0, 0, 0, 0.45) !important;
+            border-radius: 4px !important;
+            outline: 1px solid rgba(255, 255, 255, 0.5);
+    }
+    .mr-close-MrSlKeyboard:active {
+            transform: scale(0.94);
+    }
+    .language-switch:hover {background-color: #e64a19;}
+    ${n?t:""}
+`,"MrSlKeyboardStyle");n&&(document.documentElement.style.setProperty("--mr-key-margin","0px"),document.documentElement.style.setProperty("--mr-key-p-v","1px"))}function MrCreateKeyboard(n,t=false){return t&&(n.numbers.keys.reverse(),n.english.keys.forEach(n=>n.reverse()),n.arabic.keys.forEach(n=>n.reverse()),n.special.keys.reverse(),n.commons.keys.reverse()),{currentLanguage:SiteLang?"arabic":"english",showNumbers:!0,mainContainer:undefined,ActivateShiftKey:!1,lastFocusedElement:null,close:function(){jQuery("#mrKeyboardBtn").removeClass("active");MrIsModernUIEnabled()&&jQuery("#mrKeyboardBtn").attr("aria-expanded","false");MrKeyboardTriggerElement&&jQuery(MrKeyboardTriggerElement).length&&(MrKeyboardTriggerElement.focus(),MrKeyboardTriggerElement=null);var n=document.getElementById("MrSlKeyboard");n&&this._keyboardEscapeHandler&&(n.removeEventListener("keydown",this._keyboardEscapeHandler),this._keyboardEscapeHandler=null);MrReleaseFocusTrap("#MrSlKeyboard");jQuery("#MrSlKeyboard").remove()},renderAccessories:function(){var n;MRdragElement("#MrSlKeyboard",undefined,!0);jQuery("#MrSlKeyboard #divMover").append('<span class="mr-lang-disp"><\/span>');var t=MrIsModernUIEnabled(),i=t?"button":"a",r=t?'type="button"':'href="javascript:void(0);"';r+=' tabindex="0" role="button" aria-label="'+(SiteLang?"إغلاق لوحة المفاتيح":"close keyboard")+'" title="'+(SiteLang?"إغلاق لوحة المفاتيح":"close keyboard")+'"';jQuery("#MrSlKeyboard").prepend("<"+i+" "+r+' class="mr-close-MrSlKeyboard"><img class="iconBtn" src="'+MrSlIcoStore.Get("tb_close")+'" alt="" aria-hidden="true" style="width: 24px; height: 24px;" /><\/'+i+">");n=document.querySelector("#MrSlKeyboard .mr-close-MrSlKeyboard");n.addEventListener("click",n=>(n.preventDefault(),this.close(),!1));n.addEventListener("keydown",n=>{(n.key==="Enter"||n.key===" ")&&(n.preventDefault(),this.close())});this.createSwitchButtons(document.querySelector("#mr-commonRow"))},create:function(){jQuery("#mrKeyboardBtn").addClass("active");MrIsModernUIEnabled()&&jQuery("#mrKeyboardBtn").attr("aria-expanded","true");const n=document.createElement("div");n.id="MrSlKeyboard";n.classList.add("MrSlKeyboard-cont");n.classList.add("skiptranslate");n.id="MrSlKeyboard";n.classList.add("MrSlKeyboard-cont");n.classList.add("skiptranslate");n.setAttribute("tabindex","-1");n.setAttribute("role","dialog");n.setAttribute("aria-modal","true");n.setAttribute("dir",SiteLang?"rtl":"ltr");n.setAttribute("aria-label",SiteLang?"لوحة مفاتيح بلغة الإشارة":"Sign language keyboard");this.attachFocusListeners();this.renderMrSlKeyboard(n,this.currentLanguage);document.body.appendChild(n);this.mainContainer=n;this.renderAccessories();var t=document.querySelector("#MrSlKeyboard .mr-close-MrSlKeyboard");t&&t.focus();MrTrapFocus("#MrSlKeyboard",MrKeyboardTriggerElement);this._keyboardEscapeHandler=function(n){n.key==="Escape"&&(n.stopPropagation(),this.close())}.bind(this);n.addEventListener("keydown",this._keyboardEscapeHandler)},attachFocusListeners:function(){const n=document.querySelectorAll('input:not([type]),input[type]:not([type="hidden"],[type="submit"],[type="range"]), textarea');n.forEach(n=>{n.addEventListener("focus",n=>{this.lastFocusedElement=n.target})})},renderMrSlKeyboard:function(t,i){t.innerHTML="";t.setAttribute("lang",i);let f=0;this.showNumbers?this.createKeyRow("mr-numRow",n.numbers.keys,t,n.numbers.classes):this.createKeyRow("mr-specialRow",n.special.keys,t,n.special.classes);n[i].keys.forEach(r=>this.createKeyRow(i+"Row-"+f++,r,t,n[i].classes));this.createKeyRow("mr-commonRow",n.commons.keys,t,n.commons.classes);const r=t.querySelector("[mr-key-info='Shift']");r&&r.classList.add("double-mrSlkey");const u=t.querySelector("[mr-key-info='Space']");u&&u.classList.add("fill-mrSlkey")},createSwitchButtons:function(n){var r=MrIsModernUIEnabled(),u=r?"button":"a";const t=document.createElement(u);r&&t.setAttribute("type","button");r||t.setAttribute("href","javascript:void(0);");t.setAttribute("tabindex","0");t.setAttribute("role","button");t.setAttribute("aria-label",SiteLang?"تبديل اللغة":"language switch");t.setAttribute("title",SiteLang?"تبديل اللغة":"language switch");t.setAttribute("aria-pressed",this.currentLanguage==="english"?"true":"false");t.innerHTML=`${'<span aria-hidden="true" class="icon-language">🌐<\/span>'}`;jQuery(".mr-lang-disp").text(this.currentLanguage==="english"?"EN":"ع");r&&jQuery(".mr-lang-disp").attr("aria-label",jQuery(".mr-lang-disp").text());t.classList.add("mrSlkey");t.addEventListener("click",n=>(r||n.preventDefault(),this.currentLanguage=this.currentLanguage==="english"?"arabic":"english",this.renderMrSlKeyboard(this.mainContainer,this.currentLanguage),this.renderAccessories(),!1));t.addEventListener("keydown",n=>{(n.key==="Enter"||n.key===" ")&&(n.preventDefault(),this.currentLanguage=this.currentLanguage==="english"?"arabic":"english",this.renderMrSlKeyboard(this.mainContainer,this.currentLanguage),this.renderAccessories())});n.appendChild(t);const i=document.createElement(u);r&&i.setAttribute("type","button");r||i.setAttribute("href","javascript:void(0);");i.setAttribute("tabindex","0");i.setAttribute("role","button");i.setAttribute("aria-label",SiteLang?"تبديل الأرقام والرموز":"number switch");i.setAttribute("title",SiteLang?"تبديل الأرقام والرموز":"number switch");i.setAttribute("aria-pressed",this.showNumbers?"true":"false");i.textContent=`${this.showNumbers?"?!:":"123"}`;i.classList.add("mrSlkey");i.addEventListener("click",n=>(r||n.preventDefault(),this.showNumbers=!this.showNumbers,this.renderMrSlKeyboard(this.mainContainer,this.currentLanguage),this.renderAccessories(),!1));i.addEventListener("keydown",n=>{(n.key==="Enter"||n.key===" ")&&(n.preventDefault(),this.showNumbers=!this.showNumbers,this.renderMrSlKeyboard(this.mainContainer,this.currentLanguage),this.renderAccessories())});n.appendChild(i)},createKeyRow:function(n,t,i,r){const u=document.createElement("div");u.classList.add("mrSlkey-row");u.id=n;var f=MrIsModernUIEnabled(),o=f?"button":"a",e=SiteLang?"مفتاح ":" key";t.forEach(n=>{const t=document.createElement(o);f&&t.setAttribute("type","button");f||t.setAttribute("href","javascript:void(0);");t.innerHTML=MrKeyHtmlMapper[n]||n;t.setAttribute("mr-key-info",n);t.classList.add("mrSlkey");t.setAttribute("tabindex","0");t.setAttribute("role","button");var i=n;SiteLang?n==="Space"?i="مسافة":n==="Enter"?i="إدخال":n==="Backspace"?i="مسح":n==="Shift"&&(i="تبديل الأحرف الكبيرة"):n==="Space"?i="space":n==="Enter"?i="enter":n==="Backspace"?i="backspace":n==="Shift"&&(i="shift");t.setAttribute("aria-label",SiteLang?e+i:i+e);t.setAttribute("title",i);r&&r.split(" ").forEach(n=>t.classList.add(n));t.addEventListener("mousedown",n=>{n.preventDefault();const i=t.getAttribute("mr-key-info");this.appendToFocusedInput(i)});t.addEventListener("keydown",n=>{if(n.key==="Enter"||n.key===" "){n.preventDefault();const i=t.getAttribute("mr-key-info");this.appendToFocusedInput(i)}});u.appendChild(t)});i.appendChild(u)},appendToFocusedInput:function(n){if(MrSLKeyboardOnKeyPress(n),n==="Shift"){this.ActivateShiftKey=!this.ActivateShiftKey;const n=document.querySelector("[mr-key-info='Shift']");n.setAttribute("IsOn",this.ActivateShiftKey);n.classList.toggle("mr-shift-active",this.ActivateShiftKey)}else this.lastFocusedElement&&(n==="Space"?this.lastFocusedElement.value+=" ":n==="Backspace"?this.lastFocusedElement.value=this.lastFocusedElement.value.slice(0,-1):this.lastFocusedElement.value+=n==="Enter"?"\n":this.ActivateShiftKey?n.toUpperCase():n.toLowerCase())}}}function MrActivateSlKeyboard(){MrAddKeyboardCSS();MrSlKeyboard!=undefined&&MrSlKeyboard.close();MrKeyboardTriggerElement=document.activeElement;MrSlKeyboard=MrCreateKeyboard(mrSlkeys,MrReverseKeysOnUIKeyBoard);MrSlKeyboard.create();MrReverseKeysOnUIKeyBoard=!1}function MrAddAdvanceFeaturesBar(){if(jQuery(".mr-cont-tooltip-window #MrAdvFtHolder").length==0){MrAddCss(`.MrAdvSet{height: 36px; background-color: var(--mr-fore-color); margin-top: -10px;margin-bottom: 10px;}
+     .mr-cont-tooltip-window #MrAdvFtHolder.MrAdvSet .mr-adv-feature-btn:focus-visible { outline: 2px solid var(--mr-back-color) !important; outline-offset: -2px !important; }
+     .mr-cont-tooltip-window #MrAdvFtHolder.MrAdvSet .mr-adv-feature-btn:hover { background-color: rgba(0,0,0,0.45) !important; outline: 2px solid var(--mr-back-color) !important; outline-offset: -2px !important; }
+     .mr-cont-tooltip-window #MrAdvFtHolder.MrAdvSet .mr-adv-feature-btn:active { background-color: rgba(0,0,0,0.55) !important; transform: scale(0.94) !important; }
+    .mr-cont-tooltip-window:has([mr-opn="1"]) #MrAdvFtHolder{width:100%;display:inline-block}
+    .mr-cont-tooltip-window .mr-stepper-btn,
+    .mr-cont-tooltip-window .mr-setting-side-element,
+    .mr-cont-tooltip-window .mr-adv-feature-btn,
+    .mr-cont-tooltip-window .mr-tut-section-circle,
+    .mr-cont-tooltip-window .mr-close-MrSlKeyboard {
+      border: none !important;
+      background: none !important;
+      appearance: none !important;
+      -webkit-appearance: none !important;
+      -moz-appearance: none !important;
+    }`,"MrAdvSetStyle");var n=typeof SiteLang!="undefined"&&SiteLang?"أدوات لغة الإشارة المتقدمة":"Advanced sign language tools";jQuery(".mr-cont-tooltip-window").append('<div id="MrAdvFtHolder" class="MrAdvSet" role="toolbar" aria-label="'+n+'" tabindex="-1"><\/div>')}}function MrAddAdSlIconsFont(){var n=`@font-face {
+  font-family: 'mr-sl-icons';src: url(${MrFontsURL.iconsfnt}); font-weight: normal;  font-style: normal;}
+[class^="mricon-"]:before, [class*=" mricon-"]:before {  font-family: "mr-sl-icons";  font-style: normal;  font-weight: normal;  speak: never;  display: inline-block;  text-decoration: inherit;  width: 1em;  margin-right: .2em;  text-align: center;  font-variant: normal;  text-transform: none;  line-height: 1em;  margin-left: .2em;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}.mrslbtn-icon{color:var(--mr-back-color) !important; margin: 3px;}.mr-sl-icon-left{float:left;}.mr-sl-icon-right{float:right;}.mr-adv-feature-btn{display:inline-flex;align-items:center;justify-content:center;min-width:28px;min-height:28px;font-size:22px;border-radius:4px;text-decoration:none;} .mr-adv-feature-btn:hover{background-color: rgba(0,0,0,0.45) !important;} .mr-adv-feature-btn:active{background-color: rgba(0,0,0,0.55) !important;transform: scale(0.94) !important;} .mr-adv-feature-btn.active{background-color: rgba(0,0,0,0.45) !important;}`;for(const t in MrIconFontDictionary)n+="."+t+":before { content:'"+MrIconFontDictionary[t]+"' }";MrAddCss(n,"MrIconSetCSS")}function MrAddAdvFtButton(n,t,i,r,u="left"){jQuery("#MrAdvFtHolder").append(`<a id="${n}" href="javascript:void(0);" tabindex="0" role="button" aria-label="${t}" class="mr-sl-icon-${u} mr-adv-feature-btn" title="${t}"><i class="mricon-${i} mrslbtn-icon" aria-hidden="true"></i> </a>`);jQuery("#"+n).click(function(n){n.preventDefault();r()});jQuery("#"+n).on("keydown",function(n){(n.key==="Enter"||n.key===" ")&&(n.preventDefault(),r())})}function MrUpdateAllA11y(){MrUpdateTitleBarA11y();MrUpdateAdvFtA11y();jQuery(".mr-setting-side-element").each(function(){var n=jQuery(this),t=n.attr("title");n.attr({tabindex:"0",role:"button","aria-label":t})})}function MrTrapFocus(n,t){var i=jQuery(n)[0];if(i){i._mrFocusTrap&&(i.removeEventListener("keydown",i._mrFocusTrap.keydownHandler),i.removeEventListener("focusout",i._mrFocusTrap.focusoutHandler),i._mrFocusTrap=null);i._mrTriggerEl=t||null;var r=function(){var n=i.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])');return Array.prototype.filter.call(n,function(n){var t=n.getBoundingClientRect(),i=window.getComputedStyle(n);return t.width>0&&t.height>0&&i.display!=="none"&&i.visibility!=="hidden"})},u=function(t){var i,u,f;if((t.key==="Tab"||t.key==="Escape")&&(i=r(),i.length!==0)){if(u=i[0],f=i[i.length-1],t.key==="Escape"){t.preventDefault();MrIsSetWindowOpen&&n==="#mr-setting-holder"?MrCloseSettingsWindow():n==="#mr-tut-window-background"?MrSlTutorial.Close():n==="#MrSlKeyboard"&&MrSlKeyboard&&typeof MrSlKeyboard.close=="function"?MrSlKeyboard.close():n==="#mr-av-change-modal"?jQuery("#mr-av-change-modal-close").trigger("click"):n==="#MrbackShade"&&jQuery("#MenCloseBtn").trigger("click");return}t.shiftKey?document.activeElement===u&&(t.preventDefault(),f.focus()):document.activeElement===f&&(t.preventDefault(),u.focus())}},f=function(n){var u=n.relatedTarget,t;u&&i.contains(u)||(t=r(),t.length>0&&(n.preventDefault(),n.stopImmediatePropagation(),t[0].focus()))};i._mrFocusTrap={keydownHandler:u,focusoutHandler:f};i.addEventListener("keydown",u);i.addEventListener("focusout",f,!0)}}function MrReleaseFocusTrap(n){var t=jQuery(n)[0];t&&t._mrFocusTrap&&(t.removeEventListener("keydown",t._mrFocusTrap.keydownHandler),t.removeEventListener("focusout",t._mrFocusTrap.focusoutHandler,!0),t._mrFocusTrap=null,t._mrTriggerEl=null)}function MrAddAccessibilityHelpers(){if(!jQuery("#mr-skip-to-widget").length){var n=SiteLang?"التخطي إلى أدوات لغة الإشارة":"Skip to sign language tools",t=jQuery("<a>",{id:"mr-skip-to-widget",href:"#",text:n,"class":"mr-skip-link"}).on("click keydown",function(n){var t,i;(n.type!=="keydown"||n.key==="Enter"||n.key===" ")&&(n.preventDefault(),t=jQuery(".mr-cont-tooltip-window"),t.length&&(i=t.find('a[tabindex="0"], button[tabindex="0"], input[tabindex="0"]').first(),i.length?i.focus():t.focus()))});jQuery("body").prepend(t);MrAddCss(".mr-skip-link { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); clip-path: inset(50%); white-space: nowrap; border: 0; z-index: 100000000001; } .mr-skip-link:focus { position: fixed; left: 10px; top: 10px; width: auto; height: auto; padding: 10px 14px; background: var(--mr-fore-color); color: var(--mr-back-color); border: 2px solid var(--mr-back-color); border-radius: 6px; font-weight: bold; text-decoration: none; overflow: visible; clip: auto; clip-path: none; }","MrSkipLinkCSS")}jQuery("#mr-live-region").length||(MrLiveRegion=jQuery("<div>",{id:"mr-live-region","aria-live":"polite","aria-atomic":"true","class":"mr-live-region"}),jQuery("body").append(MrLiveRegion),MrAddCss(".mr-live-region { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); clip-path: inset(50%); white-space: nowrap; border: 0; }","MrLiveRegionCSS"))}function MrAnnounce(n){MrLiveRegion||(MrLiveRegion=jQuery("#mr-live-region"));MrLiveRegion&&MrLiveRegion.length&&(MrLiveRegion.text(""),setTimeout(function(){MrLiveRegion.text(n)},100))}function MrPrepareAdvanceFeaturesControls(){var n,t;MrSlPlayerInit();MrAddAdSlIconsFont();MrAddSLFont();MrAddAccessibilityHelpers();MrAddAdvanceFeaturesBar();n=MrEnforceModernUIPolicy();MrSetModernUIState(n);MrShowModernUIToggle&&(MrAddAdvFtButton("mrModernUIBtn",SiteLang?"التصميم الحديث":"Modern UI",MrIsModernUIEnabled()?"sl-toggle-on":"sl-toggle-off",function(){MrToggleModernUI()},"right"),jQuery("#mrModernUIBtn").attr("aria-pressed",MrIsModernUIEnabled()?"true":"false"));MrAddAdvFtButton("mrHelpTool",SiteLang?"تعلم كيف تستخدم ادوات لغة الاشارة":"Sign Language tool tutoiral","sl-help-circled",function(){typeof MrSlTutorial!="undefined"&&MrSlTutorial&&typeof MrSlTutorial.Show=="function"?MrSlTutorial.Show():MrConsLogger.Error("Sign Language tutorial controller (MrSlTutorial) is not initialized.")},"right");jQuery("#mrHelpTool").attr({"aria-expanded":"false","aria-haspopup":"dialog"});MrAddAdvFtButton("mrKeyboardBtn",SiteLang?"لوحة المفاتيح بلغة الإشارة":"Sign language Keyboard","keyboard",function(){MrActivateSlKeyboard()},"right");jQuery("#mrKeyboardBtn").attr({"aria-expanded":"false","aria-haspopup":"dialog"});MrAddAdvFtButton("mrFontSiteBtn",SiteLang?"تغيير خط الموقع الى حروف لغة الإشارة":"change site font to sign language","font-2",function(){MrToggleSLFontOnWebsite()},"right");MrAddAdvFtButton("MrSlPPrevButton",SiteLang?"الإنتقال الى السابق ‎(Ctrl+Shift+<)‎":"Translate previous (Ctrl+Shift+<)","sl-to-start",function(){MrPlayerPrev()},"left");MrAddAdvFtButton("mrSlPausePlayBtn",SiteLang?"تشغيل وضع ترجمة الموقع ‎(Ctrl+Shift+P)‎":"Play site reading mode (Ctrl+Shift+P)","sl-play",function(){MrSlPlayerToggle()},"left");typeof MrUpdatePausePlayBtnA11y=="function"?MrUpdatePausePlayBtnA11y(MrIsSlReaderPlaying):MrIsSlReaderPlaying?jQuery("#mrSlPausePlayBtn").addClass("active").attr("aria-pressed","true").attr("aria-label",SiteLang?"إيقاف وضع ترجمة الموقع مؤقتاً ‎(Ctrl+Shift+P)‎":"Pause site reading mode (Ctrl+Shift+P)").attr("title",SiteLang?"إيقاف وضع ترجمة الموقع مؤقتاً ‎(Ctrl+Shift+P)‎":"Pause site reading mode (Ctrl+Shift+P)"):jQuery("#mrSlPausePlayBtn").removeClass("active").attr("aria-pressed","false").attr("aria-label",SiteLang?"تشغيل وضع ترجمة الموقع ‎(Ctrl+Shift+P)‎":"Play site reading mode (Ctrl+Shift+P)").attr("title",SiteLang?"تشغيل وضع ترجمة الموقع ‎(Ctrl+Shift+P)‎":"Play site reading mode (Ctrl+Shift+P)");MrAddAdvFtButton("MrSlPNextButton",SiteLang?"الإنتقال الى التالي ‎(Ctrl+Shift+>)‎":"Translate next (Ctrl+Shift+>)","sl-to-end",function(){MrPlayerNext()},"left");MrActivateMultiAvatarMode&&(MrAddCss(`i.mricon-sl-change-avatar {
+    width: 28px;
+    display: inline-block;
+    background-image: url('${MrSlIcoStore.Get("avatar_change")}');
+    background-size: 100% 100%;
+    filter: ${MrCSSColorsUtil.hexToFilter(MrTextColor)};    background-position-y: -3px;    background-repeat: no-repeat;}
+i.mricon-sl-change-avatar::before {
+    content: " ";
+}
+`,"MrCBAVBTNCSS"),MrAddAdvFtButton("mrChangeAvater",SiteLang?"تغيير شخصية المترجم":"Change Interpreter Avatar","sl-change-avatar",function(){MrAvModalLastFocus=document.activeElement;MrCreateAvatarModal()},"right"));GetParam("MrSLFont")=="1"?(jQuery("#mrFontSiteBtn").addClass("active").attr("aria-pressed","true"),MrAppendSlFontSiteLanguageParam(),jQuery("#"+MrSiteSLLanguageFontParamId).val()=="0"&&MrActivateSLFontOnWebsite()):jQuery("#mrFontSiteBtn").attr("aria-pressed","false");jQuery("#MrSlPPrevButton,#MrSlPNextButton").hide();MrRegisterDockingShortcuts();!window._mrDockingHintAnnounced&&MrIsModernUIEnabled()&&(window._mrDockingHintAnnounced=!0,t=typeof SiteLang!="undefined"&&SiteLang,MrAnnounce(t?"يمكنك تثبيت النافذة بأركان الشاشة باستخدام ‎Ctrl+Shift+Q/E/Z/C‎":"Dock the window to screen corners with Ctrl+Shift+Q/E/Z/C"))}var MrEnaFliponRta=!1,MrDisableHighlightOnTitleBar=!1,MrEnaFliponDga=!1,MrSlIcoStore={Active:"I",A:{},stores:{I:{settings_gear:"imgs/gear-solid.svg",window_minimize:"imgs/window-minimize-solid.svg",window_maximize:"imgs/window-maximize-solid.svg",tb_close:"imgs/png/close.png",drag_handle:"imgs/controls/touch.png",settings_size:"imgs/SVG/sl-size.svg",settings_speed:"imgs/SVG/sl-speed.svg",settings_camera:"imgs/SVG/sl-cam-1.svg",camera_switch:"imgs/SVG/sl-cam-rotate.svg",bg_light:"imgs/mr-light-mode.png",bg_dark:"imgs/mr-dark-mode.png",bg_solid:"imgs/bg-solid.png",bg_mid:"imgs/big-50-1.png",bg_trans:"imgs/bg-trans.png",avatar_change:"imgs/cavicon3.svg",lighting:"imgs/phs/lightbulb-bold.svg",lighting_off:"imgs/phs/sun-bold.svg",lighting_cartoon:"imgs/phs/circle-fill.svg",lighting_studio:"imgs/phs/circle-half-duotone.svg",lighting_dramatic:"imgs/phs/moon-fill.svg",lighting_soft:"imgs/phs/circle-half-tilt-bold.svg"},DGA:{settings_gear:"imgs/h1s/settings-02-solid-sharp.svg",window_minimize:"imgs/h1s/minus-sign-solid-sharp.svg",window_maximize:"imgs/h1s/maximize-screen-stroke-sharp.svg",tb_close:"imgs/h1s/cancel-01-solid-sharp.svg",drag_handle:"imgs/h1s/touch-interaction-02-stroke-sharp.svg",settings_size:"imgs/h1s/arrow-expand-01-solid-sharp.svg",settings_speed:"imgs/h1s/dashboard-speed-02-solid-sharp.svg",settings_camera:"imgs/h1s/google-lens-solid-standard.svg",camera_switch:"imgs/h1s/camera-rotate-bold.svg",bg_light:"imgs/h1s/sun-03-stroke-sharp.svg",bg_dark:"imgs/h1s/moon-02-solid-sharp.svg",bg_solid:"imgs/h1s/circle-solid-sharp.svg",bg_mid:"imgs/h1s/layer-mask-01-duotone-standard.svg",bg_trans:"imgs/h1s/layer-mask-01-stroke-sharp.svg",avatar_change:"imgs/cavicon3.svg",lighting:"imgs/phs/lightbulb-bold.svg",lighting_off:"imgs/h1s/sun-03-stroke-sharp.svg",lighting_cartoon:"imgs/h1s/circle-solid-sharp.svg",lighting_studio:"imgs/h1s/layer-mask-01-duotone-standard.svg",lighting_dramatic:"imgs/h1s/moon-02-solid-sharp.svg",lighting_soft:"imgs/h1s/layer-mask-01-stroke-sharp.svg"},TDRA:{settings_gear:"imgs/phs/gear-bold.svg",window_minimize:"imgs/phs/minus-bold.svg",window_maximize:"imgs/phs/arrow-square-out-bold.svg",tb_close:"imgs/phs/x-bold.svg",drag_handle:"imgs/phs/hand-tap-bold.svg",settings_size:"imgs/phs/arrows-out-simple-bold.svg",settings_speed:"imgs/phs/speedometer-bold.svg",settings_camera:"imgs/phs/video-camera-bold.svg",camera_switch:"imgs/phs/camera-rotate-bold.svg",bg_light:"imgs/phs/sun-bold.svg",bg_dark:"imgs/phs/moon-fill.svg",bg_solid:"imgs/phs/circle-fill.svg",bg_mid:"imgs/phs/circle-half-duotone.svg",bg_trans:"imgs/phs/circle-half-tilt-bold.svg",avatar_change:"imgs/cavicon3.svg",lighting:"imgs/phs/lightbulb-bold.svg",lighting_off:"imgs/phs/sun-bold.svg",lighting_cartoon:"imgs/phs/circle-fill.svg",lighting_studio:"imgs/phs/circle-half-duotone.svg",lighting_dramatic:"imgs/phs/moon-fill.svg",lighting_soft:"imgs/phs/circle-half-tilt-bold.svg"}},Activate:function(){MrSlIcoStore.A=MrSlIcoStore.stores[MrSlIcoStore.Active]},mrep:"https://cdn.mindrocketsapis.com/client/",Get:function(n){return MrSlIcoStore.mrep+MrSlIcoStore.A[n]}},MrAvWindowResizer,MrDelayer,MrSiteSLLanguageFontParamId,MrIconFontDictionary,MrSlTutorial;MrSlIcoStore.Activate();var MrOrgTransform=undefined,MrReturnToDefaultPosistion=undefined,MrMovableWindow=undefined,MrMaxAllowedLeft,MrMaxAllowedTop,MrWidthClone=0,MrScaleMax=2.1,MrScaleMin=.8,MrScaleStep=.1,MrHeightClone=0,MrShowDraggableWindowOnMove=!1,MrIsSetWindowOpen=!1,MrDefaultWindowScale=1,MrResetAvatarToPosition=function(){},MrBeforeInitMovableWindow=function(){},MrAfterInitMovableWindow=function(){},MrToggleSettingButtonCallback=function(){},MrDistoryMovableWindows=undefined,MrSettingsTriggerElement=null,MrUseInlineHandlingTools=!0,MrUpdateOriginalWindowPoisision=function(){},MrAllowDragDrop=!0,MrSLIconFilter="",MrSlKeyboard=undefined,MrReverseKeysOnUIKeyBoard=!1,MrLoadAdvanceFeaturesAndTools=!1,MrTutFlip=!1,MrTutFallBackTutData=!1,MrAllowTutImageColoring=!0,MrTutFallBackJson={ar:{},en:{}},MrTutModernFallBackTutData=!1,MrTutModernFallBackJson={ar:{},en:{}},MrShowModernTutorialWhenAvailable=!0,MrActivateMultiAvatarMode=!1,MrModernUIEnabled=undefined,MrShowModernUIToggle=!1,MrModernUIAllowed=!1,MrTutorialTriggerElement=null,MrSLKeyboardOnKeyPress=function(){},MrKeyboardTriggerElement=null,MrSlFontIgnoreElements=".fa,[class*='icon-']",MrLiveRegion=null,MrFontsURL={slf:"https://cdn.mindrocketsapis.com/client/Latest/font/slt12.woff2",iconsfnt:"https://cdn.mindrocketsapis.com/client/Latest/font/mr-sl-icons-3.woff2"},MrAvBgColorsData={light:"#434343",dark:"#dddee0"},MrLightingStateFilters={"lighting-off":"brightness(0) saturate(100%) invert(84%) sepia(31%) saturate(1093%) hue-rotate(338deg) brightness(104%) contrast(101%)","lighting-cartoon":"brightness(0) saturate(100%) invert(65%) sepia(81%) saturate(372%) hue-rotate(130deg) brightness(95%) contrast(101%)","lighting-studio":"brightness(0) saturate(100%) invert(95%) sepia(8%) saturate(171%) hue-rotate(174deg) brightness(101%) contrast(91%)","lighting-dramatic":"brightness(0) saturate(100%) invert(37%) sepia(84%) saturate(1171%) hue-rotate(243deg) brightness(94%) contrast(96%)","lighting-soft":"brightness(0) saturate(100%) invert(80%) sepia(27%) saturate(623%) hue-rotate(295deg) brightness(101%) contrast(101%)"},MrLightingPresetsData={off:{nameKey:"off",state:"lighting-off",data:"Off",next:"lighting-cartoon",active:!0},cartoon:{nameKey:"cartoon",state:"lighting-cartoon",data:"CartoonThreePoint",next:"lighting-studio",active:!1},studio:{nameKey:"studio",state:"lighting-studio",data:"StudioFlat",next:"lighting-dramatic",active:!1},dramatic:{nameKey:"dramatic",state:"lighting-dramatic",data:"DramaticSide",next:"lighting-soft",active:!1},soft:{nameKey:"soft",state:"lighting-soft",data:"SoftFront",next:"lighting-off",active:!1}};const MrKeyHtmlMapper={Shift:'<span class="icon-shift">⇧<\/span>',Space:'<span class="icon-space">␣<\/span>',Enter:'<span class="icon-enter">⏎<\/span>',Backspace:'<span class="icon-backspace">⌫<\/span>'},mrSlkeys={numbers:{keys:["1","2","3","4","5","6","7","8","9","0","-","+"],classes:"key-number"},english:{keys:[["\\","Q","W","E","R","T","Y","U","I","O","P","Backspace"],["A","S","D","F","G","H","J","K","L","?","Shift"],["Z","X","C","V","B","N","M","<",">",".","~","/"]],classes:"mrSlkey-langchar mrSlkey-lang-en"},arabic:{keys:[["ض","ص","ث","ق","ف","غ","ع","ه","خ","ح","ج","Backspace"],["ش","س","ي","ب","ل","ا","ت","ن","م","ك","د","ذ"],["~","ء","ط","ئ","ء","ؤ","ر","ى","ة","و","ز","ظ"]],classes:"mrSlkey-langchar mrSlkey-lang-ar"},special:{keys:["!","@","#","$","%","^","&","*","(",")","_","="],classes:"mrSlkey-special"},commons:{keys:["Space","Enter"],classes:""}};var MrUILanguageDictonary={Init:()=>{MrUILanguageDictonary.Size===undefined&&(MrUILanguageDictonary.Size={ar:`<img src="${MrSlIcoStore.Get("settings_size")}" class="mr-sl-icon" alt="" aria-hidden="true" title="حجم الشاشة" />`,en:`<img src="${MrSlIcoStore.Get("settings_size")}" class="mr-sl-icon" alt="" aria-hidden="true" title="Window size" />`}),MrUILanguageDictonary.Speed===undefined&&(MrUILanguageDictonary.Speed={ar:`<img src="${MrSlIcoStore.Get("settings_speed")}" class="mr-sl-icon" alt="" aria-hidden="true" title="سرعة الترجمة" />`,en:`<img src="${MrSlIcoStore.Get("settings_speed")}" class="mr-sl-icon" alt="" aria-hidden="true" title="Interpretation speed" />`}),MrUILanguageDictonary.Camera===undefined&&(MrUILanguageDictonary.Camera={ar:`<img src="${MrSlIcoStore.Get("settings_camera")}" class="mr-sl-icon" alt="" aria-hidden="true" style="width: 1vw;" title="البعد عن الكاميرا" />`,en:`<img src="${MrSlIcoStore.Get("settings_camera")}" class="mr-sl-icon" alt="" aria-hidden="true" title="Distance to camera" />`})},Size:undefined,Speed:undefined,Camera:undefined},MrTextColorInFilter="brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(236deg) brightness(106%) contrast(101%);",MrAvatarBgColor="#434343",MrAvatarBgOpacity=1,MrHoldSetIconsPadding=7,MrActiveLabels=undefined,MrCachedMrState=undefined,MrSetBgHoldingBtnSize="20px",MrSetExtraFeatureLabels={ar:{bkLight:{dark:"الخلفية غامقة",light:"الخلفية فاتحة"},bkOpa:{solid:"ظهور الخلفية",midTrans:"خلفية شبه شفافة",fullTrans:"خلفية شفافة"},lighting:{off:"إضاءة إفتراضية",cartoon:"إضاءة كرتونية",studio:"إضاءة استوديو",dramatic:"إضاءة درامية",soft:"إضاءة ناعمة"}},en:{bkLight:{dark:"Dark Background",light:"Light background"},bkOpa:{solid:"Solid background",midTrans:"Translucent Background",fullTrans:"Transparent Background"},lighting:{off:"Default lighting",cartoon:"Cartoon lighting",studio:"Studio lighting",dramatic:"Dramatic lighting",soft:"Soft lighting"}}},MrButtonDic=[];MrAvWindowResizer={scale:function(n){SetParam("mr-men-zoomSl",n);var t=MrMovableWindow.find("iframe"),i=jQuery(".mr-cont-tooltip-window"),f=i.width()-t.width(),e=i.height()-t.height(),r=MRTooltipWidth*n,u=MRTooltipWidth*n,o=window.visualViewport?.width||window.innerWidth,s=window.visualViewport?.height||window.innerHeight,h=MrAvWindowResizer.calcBottom(i[0])??0;f+r>o&&(r=o-f);e+u>s-h&&(u=s-e-h);t.width(r);t.height(u);t.width(Math.max(t.width(),i.width()));MrUpdateWindowInfo();MrWindowResetPosision()},calcBottom(n){var i,r,u,t,f;try{return i=getComputedStyle(n),r=n.getBoundingClientRect(),i.position==="fixed"?u=window.innerHeight-r.bottom:(t=n.offsetParent||document.documentElement,f=t.getBoundingClientRect(),u=f.top+t.clientTop+t.clientHeight-r.bottom),u-parseFloat(i.marginBottom)}catch(e){return 0}},adjust:function(){var n=GetParam("mr-men-zoomSl")??1;n!=null&&MrAvWindowResizer.scale(n)},init:function(){window.visualViewport?.removeEventListener("resize",MrAvWindowResizer.adjust);window.visualViewport?.addEventListener("resize",MrAvWindowResizer.adjust)}};MrSiteSLLanguageFontParamId="mrFontParamHF";MrIconFontDictionary={"mricon-sl-pause":"\\e800","mricon-sl-mr-light-mode":"\\e801","mricon-sl-cam-1":"\\e802","mricon-sl-size":"\\e803","mricon-sl-speed":"\\e804","mricon-sl-stopicon":"\\e805","mricon-sl-window-maximize-solid":"\\e806","mricon-sl-window-minimize-solid":"\\e807","mricon-sl-bg-solid":"\\e808","mricon-sl-bg-trans":"\\e809","mricon-sl-big-50-1":"\\e80a","mricon-sl-close":"\\e80b","mricon-sl-deaficon":"\\e80c","mricon-sl-mr-dark-mode":"\\e80d","mricon-sl-play":"\\e80e","mricon-sl-to-end":"\\e80f","mricon-sl-to-start":"\\e810","mricon-sl-cancel":"\\e811","mricon-sl-cancel-circled":"\\e812","mricon-sl-help-circled":"\\e813","mricon-sl-info-circled":"\\e814","mricon-sl-gear-solid":"\\e815","mricon-font":"\\e816","mricon-globe":"\\e817","mricon-myspace":"\\e818","mricon-keyboard":"\\f11c","mricon-sl-help":"\\f128","mricon-font-2":"\\e819","mricon-sl-info":"\\f129","mricon-sl-toggle-off":"\\f204","mricon-sl-toggle-on":"\\f205","mricon-sl-window-maximize":"\\f2d0","mricon-sl-window-minimize":"\\f2d1","mricon-sl-window-restore":"\\f2d2","mricon-sl-window-close":"\\f2d3"};MrSlTutorial={UseFetch:!1,MrTutTemplate:{sectionTemplate:'<div class="mr-tut-section {{activeClass}}" id="mr-tut-section-{{sectionIndex}}" mr-tut-section-index="{{sectionIndex}}" role="tabpanel" aria-labelledby="mr-tut-tab-{{sectionIndex}}"><h2 class="mr-tut-step-title {{mrtooltip}}">{{sectionTitle}}<\/h2>{{stepsContent}}<\/div>',stepTemplate:'<div class="mr-tut-step"><h3 class="mr-tut-step-text {{mrtooltip}}">{{stepText}}<\/h3>{{subStepsContent}}<\/div>',subStepTemplate:'<p class="mr-tut-step-text {{mrtooltip}}">{{subStepText}}<\/p>{{subStepImage}}',subStepImageTemplate:'<figure class="mr-tut-image-container"><img class="mr-tut-image" src="{{imageSrc}}" alt="{{imageAlt}}" /><\/figure>',cdn:"https://cdn.mindrocketsapis.com/client/Latest/tut",modernCdn:"https://cdn.mindrocketsapis.com/client/Latest/tut/modern",modernSectionTemplate:'<div class="mr-tut-section mr-tut-modern-section {{activeClass}}" id="mr-tut-section-{{sectionIndex}}" mr-tut-section-index="{{sectionIndex}}" role="tabpanel" aria-labelledby="mr-tut-tab-{{sectionIndex}}"><h2 class="mr-tut-step-title mr-tut-modern-title {{mrtooltip}}">{{sectionTitle}}<\/h2>{{stepsContent}}<\/div>',modernStepTemplate:'<div class="mr-tut-step mr-tut-modern-step"><h3 class="mr-tut-step-text mr-tut-modern-step-text {{mrtooltip}}">{{stepText}}<\/h3>{{subStepsContent}}<\/div>',modernSubStepTemplate:'<p class="mr-tut-step-text mr-tut-modern-substep-text {{mrtooltip}}">{{subStepText}}<\/p>{{subStepImage}}',modernSubStepImageTemplate:'<figure class="mr-tut-image-container mr-tut-modern-image-container"><img class="mr-tut-image mr-tut-modern-image" src="{{imageSrc}}" alt="{{imageAlt}}" /><\/figure>'},GetActiveTemplateSet:function(n){var t=MrSlTutorial.MrTutTemplate;return n?{cdn:t.modernCdn,sectionTemplate:t.modernSectionTemplate,stepTemplate:t.modernStepTemplate,subStepTemplate:t.modernSubStepTemplate,subStepImageTemplate:t.modernSubStepImageTemplate}:t},RenderView:function(n,t,i){function r(n,t,i){return n.split(t).join(i)}var e,u,o,f;for(i=i||MrSlTutorial.MrTutTemplate,e=document.querySelectorAll("#mr-tut-window-background"),u=0;u<e.length-1;u++)e[u].remove();o=jQuery(n);o.empty();f=-1;jQuery.each(t.sections,function(n,t){f++;var u=r(r(r(r(i.sectionTemplate,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{activeClass}}",t.active?"active":""),"{{sectionTitle}}",t.title),"{{sectionIndex}}",f),e="";jQuery.each(t.steps,function(n,t){var u=r(r(i.stepTemplate,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{stepText}}",t.text),o="";jQuery.each(t.subSteps,function(u,e){var h=f+"-"+n+"-"+u,s=r(r(i.subStepTemplate,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{subStepText}}",e.text);if(e.image){var c=typeof SiteLang!="undefined"&&SiteLang?"توضيح":"Illustration",l=t.text+" - "+c,a=r(r(r(i.subStepImageTemplate,"{{subStepIndex}}",h),"{{imageSrc}}",i.cdn+"/"+e.image),"{{imageAlt}}",l);s=r(r(s,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{subStepImage}}",a)}else s=r(r(s,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{subStepImage}}","");o+=s});u=r(r(u,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{subStepsContent}}",o);e+=u});u=r(r(u,"{{mrtooltip}}",MrTooltipIndicatorClass),"{{stepsContent}}",e);o.append(u)})},Close:function(){MrReleaseFocusTrap("#mr-tut-window-background");MrSPlayerPause();MrSlPlayerInit();MrSPlayerScrollToElement=!0;jQuery("#mr-tut-window-background").remove();jQuery("#mrHelpTool").attr("aria-expanded","false");MrTutorialTriggerElement&&jQuery(MrTutorialTriggerElement).length&&(MrTutorialTriggerElement.focus(),MrTutorialTriggerElement=null)},Show:function(){var n;MrTutorialTriggerElement&&(MrTutorialTriggerElement=document.activeElement);this.Close();MrTutorialTriggerElement||(MrTutorialTriggerElement=document.activeElement);jQuery("#mrHelpTool").attr("aria-expanded","true");n=typeof MrShouldUseModernTutorial=="function"&&MrShouldUseModernTutorial();MrDefineResponsiveVars([{gname:"MrSLTutoiralCssConfig",vars:[{key:"mr-tut-top",on:{def:"50%",mob:"5%",tablet:"5%",desktop:"50%"}},{key:"mr-tut-max-height",on:{def:"83%",mob:"50%",tablet:"46%",desktop:"83%"}},{key:"mr-tut-win-left",on:{def:"20%",mob:"2.5vw !important",tablet:"2.5vw !important",desktop:"20%"}},{key:"mr-tut-win-right",on:{def:"2%",mob:"2.5vw",tablet:"2.5vw",desktop:"2%"}},{key:"mr-tut-win-transform",on:{def:"translateY(-50%)",mob:"unset",tablet:"unset",desktop:"translateY(-50%)"}},{key:"mr-tut-circle-disp",on:{def:"inline-block",mob:"inline-block",tablet:"inline-block",desktop:"inline-block"}},{key:"mr-tut-timeline-bottom",on:{def:"95%",mob:"95%",tablet:"95%",desktop:"95%"}},{key:"mr-tut-timeline-width",on:{def:"100%",mob:"100%",tablet:"100%",desktop:"100%"}},{key:"mr-tut-timeline-mr",on:{def:"0px",mob:"0px",tablet:"0px",desktop:"0px"}},{key:"mr-tut-timeline-height",on:{def:"calc( var(--mr-circ-size) * 1.25 )",mob:"auto",tablet:"auto",desktop:"calc( var(--mr-circ-size) * 1.25 )"}},]}]);MrAddCss(`#mr-tut-window { background-color: var(--mr-back-color); color: var(--mr-fore-color); padding: 20px; overflow: auto; position: fixed; right: var(--mr-tut-win-right); left: var(--mr-tut-win-left); top: var(--mr-tut-top); transform: var(--mr-tut-win-transform); max-height: var(--mr-tut-max-height); scroll-padding-bottom: var(--mr-tut-timeline-height); }
+#mr-tut-window.MrFilp{left: var(--mr-tut-win-right) !important;    right: var(--mr-tut-win-left) !important;}
+#mr-tut-window.mr-tut-rtl *:not(.mr-tut-timeline,.mr-tut-image-container){direction: rtl !important;text-align: right !important;}
+#mr-tut-window:not(.mr-tut-rtl) *:not(.mr-tut-timeline,.mr-tut-image-container){direction: ltr !important;text-align: left !important; }
+#mr-tut-window.mr-tut-rtl .mr-tut-image-container figcaption{text-align: right !important;}
+#mr-tut-window:not(.mr-tut-rtl) .mr-tut-image-container figcaption{text-align: left !important;}
+#mr-tut-window.mr-tut-rtl .mr-tut-timeline{text-align: left;}
+#mr-tut-window *{ color:var(--mr-fore-color) !important; } #mr-tut-window h2{ font-weight: bolder !important; } #mr-tut-window h3{ font-weight: bold !important; }
+.mr-tut-section {display: none;}.mr-tut-section.active{display: block;}
+.mr-tut-step {background: var(--mr-back-color);padding-left: 10px;padding-right: 10px;margin-bottom: 20px;border-radius: 8px;box-shadow: 0 2px 5px var(--mr-back-color);}
+.mr-tut-step .mr-tut-step {border: 1px solid var(--mr-fore-color);}
+.mr-tut-step-title {text-align: center;font-size: 26px; margin-bottom: 16px;}
+.mr-tut-step-text {font-size: 16px;margin-bottom: 15px;text-align: right;color: var(--mr-fore-color);}
+h2.mr-tut-step-text {border-bottom: 1px solid var(--mr-fore-color);} h3.mr-tut-step-text {font-size: 20px;} .mr-tut-step-text strong {color: var(--mr-fore-color);}
+.mr-tut-image-container {text-align: center;margin: 0 0 20px 0;}.mr-tut-image {border: 2px solid var(--mr-fore-color);border-radius: 8px;max-width: 100%;height: auto;}
+.mr-tut-timeline {   position: sticky;bottom: var(--mr-tut-timeline-bottom); width: var(--mr-tut-timeline-width); height: var(--mr-tut-timeline-height);    text-align: right;`+(SiteLang?"margin-right":"margin-left")+`: var(--mr-tut-timeline-mr);    padding:  calc( var(--mr-circ-size) * 0.05 );}
+.mr-tut-section-circle { width: var(--mr-circ-size);height: var(--mr-circ-size); display: var(--mr-tut-circle-disp); margin: 2px;  margin-top: 0px; border-radius: calc( var(--mr-circ-size) * 0.5 ); cursor: pointer; padding: 0; background: transparent; border: none; font-size: 0;}
+.mr-tut-section-circle:focus-visible { outline: 2px solid var(--mr-fore-color); outline-offset: 2px; }
+.mr-tut-section-circle:hover { outline: 2px solid currentColor; outline-offset: 2px; box-shadow: 0 0 0 2px var(--mr-back-color); }
+.mr-tut-section-circle:active { transform: scale(0.94); }
+.mr-tut-section-circle.active {    background-color:var(--mr-fore-color);    border:1px solid var(--mr-back-color);}
+.mr-tut-section-circle:not(.active) {    background-color:var(--mr-back-color);    border:1px solid var(--mr-fore-color);}
+#mr-tut-window-background { outline: none; }
+#mr-tut-close-btn:hover { border: 2px solid #FFFFFF !important; border-radius: 4px !important; }
+#mr-tut-close-btn:focus-visible { outline: 2px solid #FFFFFF !important; outline-offset: 2px !important; }
+#mr-tut-close-btn:active { border: 2px solid #FFFFFF !important; border-radius: 4px !important; }
+`+(n?`
+#mr-tut-window.mr-tut-modern { border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.35); }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-section { padding: 8px; }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-title { font-size: 28px; margin-bottom: 20px; }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-step { background: rgba(128,128,128,0.12); border: 1px solid rgba(128,128,128,0.25); border-radius: 10px; padding: 14px; margin-bottom: 16px; box-shadow: none; }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-step-text { font-size: 20px; border-bottom: none; }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-substep-text { font-size: 16px; line-height: 1.6; }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-image-container { margin: 16px 0; }
+#mr-tut-window.mr-tut-modern .mr-tut-modern-image { border-radius: 10px; border-width: 1px; }
+`:""),"MrTutTempleteCSS");jQuery("#mr-tut-window-background").remove();var r=n?MrSlTutorial.MrTutTemplate.modernCdn:MrSlTutorial.MrTutTemplate.cdn,i=r+"/"+(SiteLang?"ar":"en")+"/tut-data.json",u=MrSlTutorial.GetActiveTemplateSet(n),t=function(t){var f=jQuery("<div ><\/div>").css({position:"fixed",backgroundColor:"rgba(0, 0, 0, 0.8)",display:"block",justifyContent:"center",alignItems:"center",zIndex:jQuery(".mr-cont-tooltip-window").css("z-index")-1,top:"0px",left:"0px",bottom:"0px",right:"0px"}).attr({id:"mr-tut-window-background",role:"dialog","aria-modal":"true",dir:SiteLang?"rtl":"ltr",lang:SiteLang?"ar":"en","aria-labelledby":"mr-tut-heading"}),i=jQuery("<div><\/div>").attr("id","mr-tut-window"),s=n?SiteLang?"دليل استخدام أدوات لغة الإشارة - التصميم الحديث":"Sign Language Tool Guide - Modern":SiteLang?"دليل استخدام أدوات لغة الإشارة":"Sign Language Tool Guide",h=jQuery("<h2><\/h2>",{id:"mr-tut-heading","class":"mr-tut-dialog-title",style:"position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); clip-path:inset(50%); white-space:nowrap; border:0;"}).text(s),e=n||MrIsModernUIEnabled(),o=e?"button":"a",c=e?' tabindex="0" type="button" aria-label="'+(SiteLang?"إغلاق البرنامج التعليمي":"close tutorial")+'" title="'+(SiteLang?"إغلاق البرنامج التعليمي":"close tutorial")+'"':' href="javascript:void(0);" tabindex="0" role="button" aria-label="'+(SiteLang?"إغلاق البرنامج التعليمي":"close tutorial")+'" title="'+(SiteLang?"إغلاق البرنامج التعليمي":"close tutorial")+'"',r=jQuery("<"+o+' id="mr-tut-close-btn" '+c+' style="width:24px;height:24px;padding:0px;background:transparent;border:none;cursor:pointer;"><img class="iconBtn" src="'+MrSlIcoStore.Get("tb_close")+'" alt="" aria-hidden="true" style="width:24px;height:24px;" /><\/'+o+">").css({position:"absolute",top:"10px",right:"5px",color:MrTextColor,fontSize:"18px",zIndex:jQuery(".mr-cont-tooltip-window").css("z-index")-10});f.append(r);f.append(i);jQuery("body").append(f);SiteLang&&jQuery("#mr-tut-window").addClass("mr-tut-rtl");r.on("click",function(n){n.preventDefault();MrSlTutorial.Close()});r.on("keydown",function(n){(n.key===" "||n.key==="Spacebar"||n.key==="Enter")&&(n.preventDefault(),MrSlTutorial.Close())});MrSlTutorial.RenderView(i,t,u);MrSlTutorial.RenderTimelineOnce(i);i.append(h);n&&jQuery("#mr-tut-window").addClass("mr-tut-modern");jQuery(".mr-tut-image").attr("crossOrigin","anonymous");MrAllowTutImageColoring&&MrImageColorsUtil.colorizeImages(".mr-tut-image",MrBackColor);MrSlPlayerInit(".mr-tut-section ."+MrTooltipIndicatorClass);MrSPlayerScrollToElement=!1;MrOnPipingElementToSLPlayerCallback=function(n){var t,o,s,r,u,f,e;try{t=jQuery("#mr-tut-window").find(".mr-tut-section:has(.Highlite)");t.length>0&&(o=t.hasClass("active"),jQuery(".mr-tut-section").removeClass("active"),t.addClass("active"),jQuery(".mr-tut-section-circle").removeClass("active").attr({"aria-selected":"false",tabindex:"-1"}),s=jQuery(".mr-tut-section-circle[mr-target-index='"+jQuery(t).attr("mr-tut-section-index")+"']"),s.addClass("active").attr({"aria-selected":"true",tabindex:"0"}),o||(r=t.find("h2.mr-tut-step-title").text(),r&&MrAnnounce(r)));u=jQuery(n)[0];u&&(f=i[0],e=u.offsetTop-f.offsetTop,f.scrollTo(MrPrefersReducedMotion()?{top:e}:{top:e,behavior:"smooth"}))}catch(h){}};MrSPlayerPlay();r.focus();MrTrapFocus("#mr-tut-window-background");jQuery("#mr-tut-window").on("keydown",".mr-tut-section, .mr-tut-step, .mr-tut-step-text",function(n){if(n.key===" "||n.key==="Spacebar"||n.key==="Enter"){n.preventDefault();var t=jQuery(this).closest(".mr-tut-section, .mr-tut-step, .mr-tut-step-text")[0];t&&t.scrollIntoView(MrPrefersReducedMotion()?{block:"nearest"}:{behavior:"smooth",block:"nearest"})}});MrTutFlip&&jQuery("#mr-tut-window").addClass("MrFilp");MrAvWindowResizer.adjust()},f=n?MrTutModernFallBackTutData:MrTutFallBackTutData,e=n?SiteLang?MrTutModernFallBackJson.ar:MrTutModernFallBackJson.en:SiteLang?MrTutFallBackJson.ar:MrTutFallBackJson.en;f==!1?MrSlTutorial.UseFetch==!1?jQuery.get(i,null,t):fetch(i).then(n=>n.json()).then(n=>t(n)):setTimeout(function(){t(e)},200)},RenderTimelineOnce:function(n){jQuery(n).find(".mr-tut-timeline").length===0&&jQuery(n).append(jQuery("<div>",{"class":"mr-tut-timeline",role:"tablist","aria-orientation":"horizontal"}));var t=jQuery(n).find(".mr-tut-timeline");t.attr({role:"tablist","aria-orientation":"horizontal"});jQuery(".mr-tut-section").each(function(){const n=jQuery(this).attr("mr-tut-section-index"),i=jQuery(this).hasClass("active");var r=SiteLang?"القسم "+(parseInt(n)+1):"tutorial section "+(parseInt(n)+1),u=SiteLang?"استخدم أسهم اليمين واليسار للتنقل":"use left and right arrows to navigate",f={id:"mr-tut-tab-"+n,"class":"mr-tut-section-circle",role:"tab",type:"button","aria-label":r+"، "+u,title:r+"، "+u,"aria-selected":i?"true":"false","aria-controls":"mr-tut-section-"+n,"mr-target-index":n};f.tabindex=i?"0":"-1";const e=jQuery("<button>",f);t.append(e)});jQuery(".mr-tut-section-circle").on("click keydown",function(n){const r=jQuery(this),t=jQuery(".mr-tut-section-circle"),u=t.index(r);var i=u;if(n.type==="keydown")if(n.key==="ArrowRight")i=(u+1)%t.length;else if(n.key==="ArrowLeft")i=(u-1+t.length)%t.length;else if(n.key==="Home")i=0;else if(n.key==="End")i=t.length-1;else if(n.key!=="Enter"&&n.key!==" ")return;if(n.type==="keydown"&&(n.key==="ArrowRight"||n.key==="ArrowLeft"||n.key==="Home"||n.key==="End")){n.preventDefault();t.attr({tabindex:"-1"});t.eq(i).attr({tabindex:"0"}).focus();return}n.preventDefault();jQuery(".mr-tut-section[mr-tut-section-index]").removeClass("active");const f=r.attr("mr-target-index");jQuery(".mr-tut-section[mr-tut-section-index]").filter(function(){return jQuery(this).attr("mr-tut-section-index")===f}).addClass("active");t.removeClass("active").attr({"aria-selected":"false",tabindex:"-1"});r.addClass("active").attr({"aria-selected":"true",tabindex:"0"});MrCurrentReadingIndex=MrSlPalyerAllElementsOnSite.index(jQuery(".mr-tut-section.active ."+MrTooltipIndicatorClass).first())-1;MrPlayerNext()})}}

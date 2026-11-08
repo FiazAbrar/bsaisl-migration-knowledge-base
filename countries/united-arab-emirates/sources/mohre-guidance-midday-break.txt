@@ -1,0 +1,220 @@
+The Midday Break | Guidance | Ministry of Human Resources &...
+Skip to content
+Logo
+Gold star Logo
+Services
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14198 data-megaMenu=false>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14207 data-megaMenu=--Select-->
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14460 data-megaMenu=--Select-->
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Previous Awareness Workshops
+Awareness Workshops
+Media Center
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14195 data-megaMenu=--Select-->
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14200 data-megaMenu=false>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14494 data-megaMenu=false>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "More"
+div]:p-3 [&>div]:w-72 lg:flex lg:flex-wrap" aria-labelledby=MoreMenus_14205 data-megaMenu=false>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Login
+Accessibility
+Accessibility
+AR
+Switch language
+Logo
+Gold star Logo
+Menu
+search in site
+Close
+Home
+Services
+show submenu for "Services"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14198>
+All Services
+Employer Services
+Employee Services
+Partner Services
+Approved Services Centers
+Laws & Regulations
+show submenu for "Laws & Regulations"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14207>
+Laws
+Resolutions & Circulars
+International Agreements
+Guidance
+show submenu for "Guidance"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14460>
+Employer (Companies)
+Employee (Companies)
+Employer (Domestic Workers)
+Domestic Worker
+Previous Awareness Workshops
+Awareness Workshops
+Media Center
+show submenu for "Media Center"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14195>
+News
+Publications & Media kit
+Labour Market Magazine
+Photo Albums
+Videos
+Spokespersons
+Digital Participation
+show submenu for "Digital Participation"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14200>
+eConsultation & Decision
+Blogs
+Sharik.ae
+Suggestion System
+Innovation Portal
+Polls
+Open Data
+show submenu for "Open Data"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14494>
+Labour Market Observatory
+Statistical Report
+Bayanat.ae
+Propose/ Request Data
+Open Data Plan
+About Us
+show submenu for "About Us"
+div]:p-3 [&_ul]:space-y-1.5" aria-labelledby=MobileMoreMenus_14205>
+About MOHRE
+MOHRE Minister
+Ministry Projects and Initiatives
+Policies and Conditions
+Partners
+Login
+Accessibility
+AR
+Close
+English
+عربي
+Other languages
+The list of “Other languages” listed above use Google Translate to create an automated translation of content for the purpose of display. Accuracy of automated content translation is not guaranteed.
+Home
+Guidance
+The Midday Break
+Occupational Heat Stress Prevention Policy
+About the Occupational Heat Stress Prevention
+The Occupational Heat Stress Prevention Policy is considered one of the main pillars of the UAE labour market legislation, which aims to provide a safe work environment in accordance with the best practices in occupational health and safety, and to protect the workforce from the damages and injuries caused by working under the high temperature during Summer time.
+Effective Dates:
+15 June - 15 September of every year
+Timing:
+12:30 PM - 3:00 PM
+Prohibited Activities:
+All types of work that are carried out under the sun and in open places
+Obligations of the Business Owners
+Companies are expected to offer resting means for their employees, and to adhere to the following rules:
+Providing shaded areas for workers during the ban, or while carrying out allowed duties
+Providing adequate cooling devices
+Providing sufficient drinking water to prevent dehydration
+Providing first aid equipment at work sites
+Exempted activities from the Occupational Heat Stress Prevention Policy
+Some jobs are exempted from implementing the midday work ban for technical reasons. These jobs include:
+Laying asphalt or pouring concrete, in the event where is unfeasible to postpone these tasks until after the break
+The work needed to contain hazards or repair damages that affect the community, such as interruptions to water supply, and other major issues.
+Works that require a permit from a relevant government authority to be implemented
+Resting stations for delivery services workers
+In a coordinated initiative with private sector delivery companies, and with the support of relevant government entities, MOHRE announced, in collaboration with these entities, the opening of safe and air-conditioned resting stations for delivery services workers across various parts of the UAE, offering an interactive map of these stations to enable workers to easily locate and access them during the Midday Break, which takes place from 15 June to 15 September of every year
+ReportingOccupational Heat Stress Prevention Policy violations
+The Ministry of Human Resources and Emiratisation receives reports from community members regarding any violations of the Occupational Heat Stress Prevention Policy through the following channels:
+MOHRE Call Center
+600590000
+MOHRE App - Add Complaint Service
+Apple Store
+Google Play Store
+MOHRE Website -
+Add Complaint Service
+Related decrees
+Ministerial Resolution No.(44) of 2022 Regarding Occupational Health and Safety and Labour Accommodation
+Administrative Decision No. (19) of 2023 Relating to Occupational Safety and Health & Labour Accomedations
+Did you find this content useful?
+You can help us improve by providing your feedback about your experience.
+Thank you for your feedback.
+Yes
+No
+Have you used our services at our service center or digitally recently?
+Give us your feedback
+Close
+Give us your feedback
+Thank you for contacting MOHRE. Reference number : {refCode}
+An error occurred during saving your comment. Please check entered info and submit again.
+Submit
+About this website
+Privacy Policy
+Disclaimer
+Copyright
+Terms & Conditions
+Information and support
+Contact Us
+Sitemap
+Accessibility
+Help
+Quicklinks
+Careers
+Archive
+Procurement
+Definitions
+Cybersecurity
+Job Descriptions
+Economic Activities list
+171
+04-7771777
+Call Center:
+600 590000
+©
+MOHRE. All rights reserved.
+Last updated on
+Follow us on:
+facebook
+instagram
+LinkedIn
+X
+YouTube
+Customer pulse
+Search

@@ -1,0 +1,96 @@
+﻿require(["jquery", "handlebars", "resources"], function (e, t) {
+    var n, r;
+    FI.resources, r = function (n, r) {
+        var i = this;
+        i.e = e(n), i.options = r, i.load = function () {
+            if (i.options.workOnVisibleOnly && (clearInterval(i.interval), !i.e.is(":visible"))) {
+                i.interval = setInterval(function () {
+                    i.e.is(":visible") && i.load()
+                }, 300);
+                return
+            }
+     
+
+            i.e.addClass("dynamic-loading"), e.ajax({
+                url: i.options.feedUrl,
+                data: JSON.stringify(i.options.ajaxData()),
+           
+                success: function (e) {
+                    var n = e.data;
+                    n && FI.resources && (n.lang = FI.resources), i.options.preRenderCallback && i.options.preRenderCallback(n), t.registerHelper("group", function (e, t, n) {
+                        var r, i = "",
+                            a = [];
+                        if (e && e.length > 0) {
+                            for (r = 0; r < e.length; r++) r > 0 && r % t == 0 && (i += n.fn(a), a = []), a.push(e[r]);
+                            i += n.fn(a)
+                        }
+                        return i
+                    }), t.registerHelper("limit", function (e, t) {
+                        for (var n = "", r = parseInt(t.hash.offset) || 0, i = parseInt(t.hash.limit) || 5, a = r < e.length ? r : 0, o = i + r < e.length ? i + r : e.length; a < o; a++) n += t(e[a]);
+                        return n
+                    }), t.registerHelper("eq", function (e, t, n) {
+                        return e == t ? n.fn(this) : n.inverse(this)
+                    }), t.registerHelper("substr", function (e, n) {
+                        var r = e.substring(0, n);
+                        return e.length > n && (r += "..."), new t.SafeString(r)
+                    }), t.registerHelper("clean", function (e) {
+                        return e.replace(/(<([^>]+)>)/ig, "").replace(/(['"])/g, "$1")
+                    }), t.registerHelper("escape", function (e) {
+                        return e.replace(/(['"])/g, "\\$1")
+                    }), t.registerHelper("inc", function (e, t) {
+                        return e + t
+                    }), t.registerHelper("toFixed", function (e, t) {
+                        return e.toFixed(t)
+                    });
+                    var r = t.compile(i.options.htmlTemplate)(n);
+                    if (i.options.targetElement) {
+                        var customElemnt = $(i.options.targetElement);
+                        customElemnt.html(r), i.options.loadCompletedCallback && i.options.loadCompletedCallback(customElemnt, e), customElemnt.removeClass("dynamic-loading")
+                    } else {
+                        i.e.html(r), i.options.loadCompletedCallback && i.options.loadCompletedCallback(i.e, e), i.e.removeClass("dynamic-loading")
+                    }
+                    
+                },
+                error: function (e, t, n) {
+                    i.e.removeClass("dynamic-loading")
+                },
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json"
+            })
+        }, i.options.firstTimeAutoLoading && i.load(), i.invokeAction = function (e) {
+            "load" == e[0] && i.load()
+        }
+    }, e.fn.report = function (t) {
+        if (arguments, null == t || void 0 === t.indexOf) {
+            var n = e.extend(!0, {}, e.fn.report.defaults, t);
+            return this.each(function () {
+                var t = e(this);
+                t.data("options") && (n = e.extend(!0, {}, n, t.data("options")));
+                var i = new r(t, n);
+                t.data("obj", i)
+            })
+        }
+        var i = [];
+        return this.each(function () {
+            var t = e(this).data("obj");
+            void 0 !== t && i.push(t.invokeAction())
+        }), i
+    }, e.fn.report.defaults = {
+        feedUrl: "api/PublicApi/GetReportResult",
+        firstTimeAutoLoading: !0,
+        workOnVisibleOnly: !0,
+        htmlTemplate: "",
+        targetElement: "",
+        loadCompletedCallback: !1,
+        preRenderCallback: !1,
+        ajaxData: function () {
+            return {
+                reportId: null,
+                htmlTemplatePath: "",
+                loadResultAsHTML: "",
+                parameters: {}
+            }
+        }
+    }
+});
