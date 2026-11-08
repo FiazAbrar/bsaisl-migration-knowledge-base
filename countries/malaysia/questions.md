@@ -280,7 +280,7 @@ These are the questions the Malaysia migration guide can't yet answer, grouped b
 ### Step 2: Apply for the medical eVISA
 
 - Must Bangladeshis apply for the medical eVISA through MHTC's partners, as the High Commission in Dhaka says, or can they apply themselves?
-- What does MHTC's partner in Bangladesh (Irving Aviation Ltd) charge?
+- Who are MHTC's authorised partners in Bangladesh for visa applications, and what do they charge? (MHTC's Aug 2026 release calls Irving Aviation its local partner in Bangladesh but doesn't say it takes visa applications.)
 
 ### Longer treatment
 

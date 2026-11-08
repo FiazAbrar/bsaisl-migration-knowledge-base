@@ -211,7 +211,18 @@ def main():
 
     def link_refs(seg, sec):
         def step(m):
-            h = next((h for h in by_sec.get(sec, []) if re.match(rf"Step {m.group(1)}\b", h["text"])), None) \
+            # "Tourist visa, Step 6": the step of the named H2, not of the section the reference sits in
+            sec_ = sec
+            pre = re.search(r'("[^"]{4,80}"|[^,;()\[\]"]{3,80}), $', m.string[:m.start()])
+            if pre:
+                g = pre.group(1)
+                for st in ([0] if g.startswith('"') else [k.start() for k in re.finditer(r"\b[A-Z]", g)]):
+                    hid0 = find(g[st:], sec)
+                    h0 = next((g for g in heads if g["id"] == hid0 and g["lvl"] == 2), None) if hid0 else None
+                    if h0:
+                        sec_ = h0["n"]
+                        break
+            h = next((h for h in by_sec.get(sec_, []) if re.match(rf"Step {m.group(1)}\b", h["text"])), None) \
                 or next((h for h in heads if not h["ref"] and re.match(rf"Step {m.group(1)}\b", h["text"])), None)
             if not h:
                 return m.group(0)

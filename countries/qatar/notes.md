@@ -3609,3 +3609,20 @@ Draft: `drafts/relative-scale.md` (for Background part 1 "The channels" and part
 
 ## Still open (outside this draft)
 - The user asked why the Qatar README contents list wasn't updated: README.md is built from doc.md by build.py; it changes only when the drafts are merged into doc.md and the doc is rebuilt.
+
+
+# Known minor issues (independent check, 9 Nov 2026)
+
+Citation-precision or wording points found in the final independent check and not yet fixed. None changes what a worker should do.
+
+- doc.md line 1415: the doc prints both dates from the letter, 17 Bhadra 1431 and 1 September 2025, without saying they disagree. 17 Bhadra 1431 is 1 Sep 2024, the PDF path is /2024/12/, and every page_date in facts.csv uses 2024-09-01. The wording matches the source (ZY0002 quote found), but a reader cannot tell which date is right. CLAUDE.md says to show this kind of conflict as a Need to know line, or to state the date facts.csv uses.
+- facts.csv E0039: the note was changed from 'transcribed from page image, p.2' to 'p.1'. The quoted condition (ঙ, at least one woman staff member) is on [p.2] of the transcription, so the old note was correct and the new one is wrong.
+- facts.csv ZY0003-ZY0023 notes call it 'the 1 Sep 2024 ministry letter', while the E0037 note and the doc call it '01 September 2025'. The rows should use one date consistently.
+- doc.md line 1441: ZY0024 is cited for 'BTS Overseas (RL-2434) ... is not among these 21'. ZY0024 only says the list runs 01 to 21 and ends with Duronto. What shows BTS is absent is the full list (ZZ0001-ZZ0021); the citation is imprecise.
+- doc.md line 1415: the Mujib Travels entry is written RL-0992. The letter prints আরএল-৯৯২ (RL-992) and OEP has RL0992. The ZZ0017 note records this, so it is accurate, but the hyphenated 'RL-0992' appears in neither source.
+- doc.md line 1415: the English names are OEP's, matched by RL number. The letter's Bangla name for RL-2702 reads 'Just Recruiting Ltd', and OEP has 'JUST RECRUIT LTD.' (noted in ZZ0002). This is fine because the match is by licence, but the name differs from the letter.
+- doc.md line 1415: the step's lead-in changed from 'Women: pick from the approved list.' to 'Women: the approved list.' It is now a label, not an action, inside a numbered step under 'Step 3: Choose an approved agency'. This is wording only. The old exclusivity claim ('may go only through the 21') was correctly dropped because the letter does not say it.
+- doc.md line 1443: the 'Expired (validity 22 August 2026)' status for M/S. Raz International is a live-list value fetched 2026-11-07 (ZY0025, OEP row 1700, RL1523, phone 01711188780, verified). The doc gives no as-of date, so the status may go stale.
+- doc.md line 1446: the Need to know about special approval for agencies sending men cites E0037. E0037 now covers only the Tk 15 lakh deposit, so the citation is loose. This line was not changed in this diff.
+- doc.md lines 518 and 571: the rewording ('which appear in print'; 'The reports cited here are from 2019') matches QK0002/QH0027/QK0001 and QH0035/QH0036. All quotes were found and dates are consistent; no problem.
+- All 46 new facts (ZY0001-ZY0025, ZZ0001-ZZ0021) and the edited rows E0037/E0038 were checked against the saved transcription and oep-agencies-list.md with whitespace and Unicode NFC normalised, and every quote was found. The RL-to-name pairs match the OEP rows. ZZ0010 স্বপ্নসিঁড়ি matches SHWAPNO SHIRI by RL2035. The claim that the approval names no destination country is supported: the letter says only বিদেশে, abroad. The .txt copy of the letter is empty, so the quotes are found only in the .transcription.md.

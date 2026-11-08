@@ -1725,7 +1725,7 @@ Researched 7 Nov 2026 for draft chunk drafts/MY5.md (source lines 267-320). New 
 
 ## Medical visit
 
-- MHTC's Aug 2026 press release (carried by Utusan Malaysia) names Irving Aviation Ltd as "MHTC's local partner in Bangladesh", contact Abid Rahman Rafsan +8801762001467 [P0032]. Registered as official (MHTC is under the Ministry of Health and authored the release). The 2022 GD Assist appointment [V0078] and the Dhaka Tribune Sep 2026 report [N0042] are superseded in the doc. MHTC's Sep 2026 Healthcare Week release (Bernama/Macau Business copy) names no partner.
+- MHTC's Aug 2026 press release (carried by Utusan Malaysia) calls Irving Aviation "MHTC's local partner in Bangladesh" (the quote names its representative, HBM Lutfur Rahman); it doesn't say whether Irving Aviation takes visa applications [P0032]. Registered as official (MHTC is under the Ministry of Health and authored the release). The 2022 GD Assist appointment [V0078] and the Dhaka Tribune Sep 2026 report [N0042] are superseded in the doc. MHTC's Sep 2026 Healthcare Week release (Bernama/Macau Business copy) names no partner.
 - Conflict that changes action: HC Dhaka (undated) says Bangladeshi medical visitors apply through MHTC's authorised partners [V0075]; MyVISA (Oct 2026) and MHTC's own steps describe applying online yourself [V0073, V0076]. Kept as one Need to know.
 - MHTC procedure: appointment letter in English [P0034], MHTC support letter [V0076], Find A Hospital directory and WhatsApp concierge +60 18 870 0100 [P0035], print approval [P0036], Special Lane conditions [P0037], what to bring [P0046]. 91 member hospitals [P0033].
 - Long-term medical pass: IMI 2023 checklist (Imm.38, Imm.12, hospital letter, 3 months' bank statements, relationship proof certified by Malaysian mission, MHTC letter, payment proof) [P0013]; LTSVP web page: government or specialist hospitals, one companion [C0018].
@@ -3169,3 +3169,14 @@ Question: how many Bangladeshis get Malaysian jobs through relatives and network
 Not verified: whether the i-Kad and PLKS sticker print the employer's name. Firecrawl credits ran out on 8 Nov 2026 before the search ran; the saved IMI pages say only that i-Kad colour shows the sector (Z0092, Z0093). Left as a Need to know.
 
 Open for Abrar: whether Bangla trade terms (নিজস্ব ভিসা, বই জমা, এটুবি, ফ্রি ভিসা) may stay in the doc as quoted search words; দালাল removed.
+
+
+# Known minor issues (independent check, 9 Nov 2026)
+
+Citation-precision or wording points found in the final independent check and not yet fixed. None changes what a worker should do.
+
+- V0073 quote does not match the saved file after whitespace/NFC normalisation: sources/myvisa-faq.md line 435 has markdown bold ('**You must submit your eVISA for Medical application at least fourteen(14) working days** prior to...'). The wording is the same and supports the doc sentence; only the quote string needs the asterisks handled or removed.
+- P0032: the doc (line 1923) writes 'Irving Aviation Ltd' but the P0032 quote only says 'Irving Aviation'. 'Ltd.' appears elsewhere in the same file (contact block, line 299 of mhtc-pr-leaders-commitment-2026-08.md), so this is citation precision only; facts.csv value field also says 'Irving Aviation Ltd'.
+- notes.md is now partly stale against the doc: line 1793 says 'Irving Aviation line removed ... folded into the MHTC-partner Need to know', but the doc names Irving Aviation again (line 1923). Lines 1572/1574/1620 still say the Irving name is 'unofficial, not verified' / news only, while line 1728 registers P0032 as official and verified. Internal notes only, not reader-facing.
+- doc.md line 708: 'FWCMS lists accredited medical centres in Bangladesh': the FWCMS page covers centres 'in all Malaysian labour Source Countries'. The Bangladesh filter is supported by I0023, which is not cited in this sentence (only W0009). Add I0023 for precision.
+- All other changed sentences check out against their cited quotes in the saved files: W0009 (mandatory before eVDR), Z0160/Z0162 (Ministry list, approved centre), V0073 (14 working days before travel date and hospital appointment date), V0075 and ZX0001 (HC Dhaka, Visa Without Reference via MHTC authorised official partners, appointment letter from an MHTC-registered provider, apart from regular visa documents), P0032 (local partner wording; says nothing about visa applications). Removing the unsourced 'Apply yourself' wording and the Irving contact/help offer was correct.

@@ -705,12 +705,15 @@ These times are the fastest possible, not promises; delays raise the price (see 
 
 **Not yet. As of 4 November 2026 no medical centre was approved for the restart:** the minister said that day that the list of centres was still with Malaysia for vetting, and that centres now testing Malaysia-bound workers are doing so illegally [YI0001, YI0003, YI0002]. Don't do a medical until the Ministry publishes the list [YI0005]. A medical done before 31 October 2026 is not accepted [Z0159].
 
-Every worker must pass a medical check (the "Bio-Medical") at a Bangladesh centre accredited by FWCMS [W0009].
+FWCMS lists accredited medical centres in Bangladesh that do the "Bio-Medical" examination, and says the Bio-Medical is mandatory before an eVDR application can proceed [W0009]. The Ministry's 28 October 2026 instructions speak of a medical test at an approved medical centre on the Ministry's list [Z0160, Z0162].
 
-1. **Choose a centre on both lists.** A valid centre is on the Ministry's approved list and on the FWCMS list:
+> **Need to know**
+> - Is the Ministry's medical test the same as FWCMS's Bio-Medical, done once at one centre, or are they two checks?
+
+1. **Check the centre is approved:**
 
    1. Check the Ministry's list of approved centres on the Ministry's website [Z0160]. It will be published after Malaysia approves it (see "Not yet" above) [YI0003]. A centre that breaks the Ministry's instructions is removed from it [Z0160].
-   2. Check the same centre at [fwcms.com.my/affiliates](https://fwcms.com.my/affiliates/), under Accredited Medical Centres, Bangladesh (name and address of each) [I0023, W0009].
+   2. You can also look the centre up at [fwcms.com.my/affiliates](https://fwcms.com.my/affiliates/), under Accredited Medical Centres, Bangladesh (name and address of each) [I0023, W0009].
    3. You may use any approved centre, not only the one the agency names [Z0165].
 
    The FWCMS list alone is not enough: Human Diagnostic and Medical Centre, Box Culvert Road, Paltan, Dhaka, was still on it in November 2026 after a mobile court sealed it on 1 October for testing Malaysia-bound workers without approval [D0019, D0017, D0015].
@@ -732,7 +735,7 @@ Every worker must pass a medical check (the "Bio-Medical") at a Bangladesh centr
    > - Does the centre ask for your passport?
    > - How do you check a MiGRAMS slip is real?
 
-   **Scams:** brokers and dishonest agencies offer unauthorised medicals to get passports and money, and have charged for medicals for jobs that never came [Z0161, D0022]. Hand over nothing until the centre is confirmed on both lists, and test only after the agency gives you a MiGRAMS slip for a real job [Z0161, Z0160, W0009, Z0166].
+   **Scams:** brokers and dishonest agencies offer unauthorised medicals to get passports and money, and have charged for medicals for jobs that never came [Z0161, D0022]. Hand over nothing until the centre is on the Ministry's approved list, and test only after the agency gives you a MiGRAMS slip for a real job [Z0161, Z0160, W0009, Z0166].
 
    **If a centre overcharges, harasses you or tests without approval, or a broker took your passport or money for a medical:**
 
@@ -1915,12 +1918,13 @@ You'll need [V0076]:
 
 Fees and refusal rules are as in [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa); a decision takes 3 to 5 working days [V0016, V0017, V0019, V0042, V0076].
 
-1. Apply yourself on [malaysiavisa.imi.gov.my](https://malaysiavisa.imi.gov.my/) at least 14 working days before the appointment (see [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa)) [V0073].
+1. Apply at least 14 working days before the travel date and the hospital appointment. The MyVISA FAQ sets this deadline for the medical eVISA on MyVISA, [malaysiavisa.imi.gov.my](https://malaysiavisa.imi.gov.my/) (see [Tourist visa, Step 2: Apply on MyVISA](#step-2-apply-on-myvisa)) [V0073].
 
-   If you want help, MHTC names Irving Aviation Ltd as its local partner in Bangladesh (contact Abid Rahman Rafsan, +8801762001467) [P0032]. An undated High Commission of Malaysia in Dhaka page still says Bangladeshis apply through MHTC's authorised partners [V0075].
+   An undated page of the High Commission of Malaysia in Dhaka, which may be outdated, gives a different route: Bangladeshis going for treatment may apply for a Visa Without Reference (social visit) and submit it to MHTC's authorised official partners, with the appointment letter from an MHTC-registered provider in addition to the regular visa documents [V0075, ZX0001]. MHTC's August 2026 press release calls Irving Aviation Ltd "MHTC's local partner in Bangladesh"; it doesn't say whether Irving Aviation takes visa applications [P0032].
 
    > **Need to know**
-   > - What does MHTC's partner in Bangladesh charge?
+   > - Can Bangladeshis apply themselves for the medical eVISA on MyVISA, or must they still apply for a social-visit visa through MHTC's authorised partners, as the High Commission's undated page says [V0075]?
+   > - Who are MHTC's authorised partners in Bangladesh for visa applications, and what do they charge?
 
 2. The approval comes by email; print it and keep a copy on your phone [P0036].
 

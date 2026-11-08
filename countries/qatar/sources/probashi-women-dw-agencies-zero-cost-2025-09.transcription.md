@@ -1,4 +1,4 @@
-SOURCE: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf | transcription of the page images (image-only PDF, rendered with PyMuPDF), 2026-11-07 | page date: 01 September 2025
+SOURCE: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-probashi/2024/12/8a41985149db47f88907870f3a49f02c.pdf | transcription of the page images (image-only PDF, rendered with PyMuPDF), 2026-11-07 | page date: printed as 17 Bhadra 1431 (Bangla) / 01 September 2025; the Bangla date converts to 1 September 2024
 
 [p.1]
 গণপ্রজাতন্ত্রী বাংলাদেশ সরকার

@@ -396,7 +396,7 @@ A worker living outside a camp needs about SR 1,450-2,650 a month (November 2026
 
 #### 1.4.7 What reaches home, and how long the debt takes
 
-A man on SR 800 (Tk 26,400) who buys his own food and phone, SR 550-900 a month, keeps at most SR 250 (Tk 8,250) <sup>[N37](#n37)</sup>. At that rate a Tk 4.5 lakh debt takes about 55 months, over four years, to repay before interest, against a usual 2-year contract <sup>[26](#o26)</sup>. Many low-skilled Gulf workers struggle to send even Tk 15,000-20,000 a month (2024) <sup>[N47 (2024)](#n47)</sup>; a worker who does manage that still needs 23-30 months for the same debt <sup>[N47 (2024)](#n47)</sup>. In 2020 men took 19 months or more to recover the cost <sup>[N48 (2020)](#n48)</sup>. Sending costs and channels: see [Sending money home](#sending-money-home).
+A man on SR 800 (Tk 26,400) who buys his own food and phone, SR 550-900 a month, keeps at most SR 250 (Tk 8,250) <sup>[N37](#n37)</sup>. At that rate, and assuming free housing, a Tk 4.5 lakh debt takes about 55 months, over four years, to repay before interest, against a usual 2-year contract <sup>[26](#o26)</sup>. Many low-skilled Gulf workers struggle to send even Tk 15,000-20,000 a month (2024) <sup>[N47 (2024)](#n47)</sup>; a worker who does manage that still needs 23-30 months for the same debt <sup>[N47 (2024)](#n47)</sup>. In 2020 men took 19 months or more to recover the cost <sup>[N48 (2020)](#n48)</sup>. Sending costs and channels: see [Sending money home](#sending-money-home).
 
 <a id="what-ties-you-to-the-employer"></a>
 
@@ -501,7 +501,7 @@ This visa is for a job with a Saudi company. The whole process usually takes abo
 
 **The employer pays** the recruitment fees, the iqama (residence card), the work permit and its renewals, exit and re-entry fees and your ticket home when the job ends <sup>[35](#o35)</sup>; when you pay the ticket home yourself: see [If you resign or are dismissed](#if-you-resign-or-are-dismissed).
 
-**The flight out:** on a group visa, the employer pays it; BMET's permission letter (one 2025 letter, RL-1059) puts the airfare, the levy and all other Saudi-side costs on the employer <sup>[4](#o4)</sup>. On a single visa there is no such letter, so nothing official says who pays the flight out <sup>[N73 (2017)](#n73)</sup> (see Need to know below).
+**The flight out:** in two BMET permission letters from September 2025 (for RL-1059 and for Bonanza Overseas, RL-0579), the employer pays the airfare <sup>[4](#o4), [25](#o25)</sup>. Find the letter for your own job on BMET's website and check that it says the same (how: see [Before you pay anyone](#before-you-pay-anyone)). On a single visa there is no such letter, so nothing official says who pays the flight out <sup>[N73 (2017)](#n73)</sup> (see Need to know below).
 
 **You pay** about Tk 19,800 in Bangladesh-side fees, plus the skill test, a passport and any course (list below), and the agency may take only a capped amount (see [The legal maximum and what people really pay](#the-legal-maximum-and-what-people-really-pay)) <sup>[18](#o18), [N38](#n38), [19](#o19), [N39](#n39), [20](#o20), [21](#o21), [1](#o1)</sup>. The list:
 
@@ -528,7 +528,7 @@ This visa is for a job with a Saudi company. The whole process usually takes abo
 #### 2.1.1 The legal maximum and what people really pay
 
 **The rule**
-The expatriates' ministry set a maximum of Tk 1.65 lakh in all in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming <sup>[N3](#n3), [N74](#n74), [N75 (2024)](#n75)</sup>. Only group job orders need the ministry's recruitment permission (2017) <sup>[N73 (2017)](#n73)</sup>. BMET's permission letters for group visas put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 or Tk 58,610 in two 2025 letters, by cheque or pay order <sup>[4](#o4), [25](#o25)</sup>. A worker on a single visa has no such letter, so only the Tk 1.65 lakh cap applies (how many go on single visas: see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go), Channels) <sup>[N73 (2017)](#n73)</sup>. The fees a worker legitimately pays in Bangladesh are listed at the start of this section (see [Who pays what](#who-pays-what)).
+The expatriates' ministry set a maximum of Tk 1.65 lakh in all in 2016-2017 and has not changed it; in October 2026 the state minister said new country-by-country maximums are coming <sup>[N3](#n3), [N74](#n74), [N75 (2024)](#n75)</sup>. Only group job orders need the ministry's recruitment permission (2017) <sup>[N73 (2017)](#n73)</sup>. Two BMET permission letters from September 2025 (RL-1059 and RL-0579) put every Saudi-side cost, levy and airfare included, on the employer, and let the agency take only what the letter allows, Tk 50,000 and Tk 58,610 respectively, by cheque or pay order <sup>[4](#o4), [25](#o25)</sup>. A worker on a single visa has no such letter, so only the Tk 1.65 lakh cap applies (how many go on single visas: see ["Is it open now, and who can go?"](#is-it-open-now-and-who-can-go), Channels) <sup>[N73 (2017)](#n73)</sup>. The fees a worker legitimately pays in Bangladesh are listed at the start of this section (see [Who pays what](#who-pays-what)).
 
 **What people really pay**
 In 2026 agencies put the whole cost at Tk 3.5-5 lakh and a press investigation at about Tk 5 lakh on average, up to Tk 9 lakh <sup>[N4](#n4), [N3](#n3)</sup>.
@@ -1200,8 +1200,11 @@ There is no minimum wage for foreign workers; the contract wage is what you can 
 **What can't be taken from your pay**
 Recruitment, iqama and work permit fees and renewals, job-title changes, exit and re-entry visas, transfer fees and your ticket home at the contract's end are the employer's and can't be taken from your pay <sup>[9](#o9), [35](#o35)</sup>. Some brokers, small kafils (sponsors) and labour-supply companies still cut the iqama and health-insurance cost from wages <sup>[N44](#n44)</sup>. If the health-insurance premium is taken: see Housing, food and health care.
 
+**What can be taken**
+These rules come from the Labour Law (Royal Decree M/51 of 27 September 2005), in the English text on the labour ministry's website <sup>[50 (2023)](#o50)</sup>. Amendments to the law took effect on 19 February 2025 <sup>[N53 (2024)](#n53)</sup>. Without your written consent the employer may deduct only what the law lists, such as repayment of its loan (at most 10% of the wage), fines for your violations and damage you cause <sup>[50 (2023)](#o50)</sup>. A fine for one violation is at most five days' wage, and fines taken in one month are at most five days' wage <sup>[50 (2023)](#o50)</sup>. For loss or damage you cause, by your own fault, to the employer's machinery or products, the employer may take what repair costs but at most five days' wage a month <sup>[50 (2023)](#o50)</sup>. You can dispute the claim or the amount at the labour court within 15 work days of the employer telling you; if the court finds for you, the employer must return what it took wrongly within seven days <sup>[50 (2023)](#o50)</sup>. All deductions together may not exceed half your wage, unless the labour court allows more <sup>[50 (2023)](#o50)</sup>.
+
 > **Need to know**
-> - What may a company employer lawfully deduct from a worker's wage (for example fines, damage to equipment, advances or loans), and what is the most it may deduct in one month?
+> - Did the February 2025 amendments change the deduction and fine limits (Articles 70, 91, 92 and 93)?
 
 **Market pay**
 What a new Bangladeshi recruit is really paid: see [What the job pays](#what-the-job-pays). General market pay in Saudi Arabia <sup>[N130](#n130)</sup>:
@@ -2390,14 +2393,16 @@ People picked up in raids have usually been held one to two weeks in a deportati
 
 **Treatment in Saudi Arabia:** the employer must insure you, but the cover doesn't pay for serious illness (see Housing, food and health care) <sup>[9](#o9), [23](#o23)</sup>. A company worker gets up to 120 days' sick leave a year, 30 at full pay, 60 at three-quarters, 30 unpaid <sup>[9](#o9)</sup>; a domestic worker up to 30 days with a medical report, 15 on full pay, the rest on half <sup>[114](#o114)</sup>.
 
-> **Need to know**
-> - Where does an injured worker go for treatment, and who pays for treatment of a work injury: the employer, the insurer or GOSI?
+**Treatment of a work injury:** the rules in this paragraph come from the Social Insurance Law of 2024 (Royal Decree M/273 of 2 July 2024), in force from the day after it was issued <sup>[151](#o151)</sup>. That law does not apply to a worker who already had GOSI contribution periods from before it came into force and has not been paid compensation for them; the earlier Social Insurance Law (Royal Decree M/33 of 3/9/1421 Hijri, 2000) still applies to such a worker <sup>[151](#o151)</sup>. Under the 2024 law, GOSI covers a work injury only if it happened after your GOSI registration was complete, or within the time the rules give the employer to register you (or you, if the employer refuses or delays) <sup>[151](#o151)</sup>. If covered, GOSI gives medical care for as long as your condition needs it, at the hospitals and clinics it specifies <sup>[151](#o151)</sup>. If the injury was reported in the way and within the time the rules set, then for each day you can't work, holidays included, from the day after the injury, GOSI pays a daily allowance of 100% of your daily registered wage in the month before the month of the injury, 75% while it pays for your treatment in any hospital, medical centre or the like <sup>[151](#o151)</sup>. The allowance stops when you can work again, recover or die, or when permanent disability is established <sup>[151](#o151)</sup>.
 
-**GOSI work-injury compensation:** GOSI insures workers against work injury at the employer's cost; domestic workers only if its board decides so <sup>[89](#o89), [151](#o151)</sup>. If a work injury leaves 50-99% or total permanent disability, GOSI pays a non-Saudi worker a lump sum; claim at a GOSI office (toll-free 199044) <sup>[152](#o152)</sup>. Total permanent disability is valued at 100% of the average monthly wage registered with GOSI <sup>[151](#o151)</sup>.
+> **Need to know**
+> - What are the time limits and method for registering a worker and for reporting a work injury to GOSI?
+> - What medical care, daily allowance and lump sums does the earlier Social Insurance Law (2000) give a worker who was registered with GOSI before July 2024?
+
+**GOSI work-injury compensation:** GOSI insures workers against work injury at the employer's cost; domestic workers only if its board decides so <sup>[89](#o89), [151](#o151)</sup>. If a work injury leaves 50-99% or total permanent disability, GOSI pays a non-Saudi worker a lump sum; claim at a GOSI office (toll-free 199044) <sup>[152](#o152)</sup>. Under the 2024 law (for who it covers, see Treatment of a work injury), the monthly benefit behind the lump sum is 100% of your average registered wage over the three months before the month of the injury for total disability, or that times your disability percentage for 50% or more <sup>[151](#o151)</sup>. The lump sum is 84 times that monthly benefit for total disability and 60 times for partial disability <sup>[151](#o151)</sup>. Below 50% disability you get a lump sum of 60 times the partial-disability monthly benefit if you were 45 or under on the day of the injury <sup>[151](#o151)</sup>. If you were older, take off one month's benefit for each year over 45, counting part of a year of six months or more as a full year <sup>[151](#o151)</sup>. Whatever the age, the under-50% lump sum is at least 36 times the assumed monthly benefit <sup>[151](#o151)</sup>.
 
 > **Need to know**
 > - Are domestic workers now covered by GOSI work-injury insurance?
-> - How much is the lump sum for 50-99% and for total disability?
 > - Which papers does GOSI need, and how long does it take to pay?
 > - Can a worker who has already come home claim from Bangladesh through the embassy?
 

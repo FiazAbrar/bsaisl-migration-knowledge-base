@@ -896,11 +896,11 @@ Housemaids, cooks, nannies, gardeners, home nurses, family drivers and guards wo
 ### Step 1: Check you qualify
 
 1. **Age and passport.** The UAE minimum age is 18 and the maximum 60, and your passport must be valid at least three months [D0005, MB0019, MB0020]. For BMET clearance a woman going as a domestic worker must be 25 to 45 and bring proof of age and a no-objection letter from her legal guardian [D0217].
-2. **Health.** Bangladesh's housekeeping course, which women need before going (Step 2), does not admit a woman who is pregnant, whose youngest child is under 6, or who has a contagious or incurable disease [D0202]. The recruiting office has you medically examined no more than 30 days before you enter the UAE [D0010]. To get residence in the UAE you must be free of communicable diseases such as HIV and TB; residence is refused if HIV or leprosy is positive [W0029, W0023]. The UAE residence medical also includes a pregnancy test for domestic workers (maids, nannies, drivers and similar) [D0190]; what a positive result means for the visa is not confirmed (Need to know below). The full test list and the TB rule are under Work visa: company worker, Step 7, item 2.
+2. **Health.** Bangladesh's housekeeping course, which women need before going (Step 2), does not admit a woman who is pregnant, whose youngest child is under 6, or who has a contagious or incurable disease [D0202]. The recruiting office has you medically examined no more than 30 days before you enter the UAE [D0010]. To get residence in the UAE you must be free of communicable diseases such as HIV and TB; residence is refused if HIV or leprosy is positive [W0029, W0023]. The UAE residence medical also includes a pregnancy test for domestic workers (maids, nannies, drivers and similar) [D0190], and a woman domestic worker must test negative for pregnancy to get residence [ZZ0001]. The full test list and the TB rule are under Work visa: company worker, Step 7, item 2.
 3. **Skill papers.** For jobs where the UAE requires a certificate, such as nursing and driving, the office must check you hold a certificate of experience [D0062]. The office may also need a police certificate of good conduct from Bangladesh [D0064].
 
 > **Need to know**
-> - If a domestic worker's UAE residence medical shows she is pregnant, is the residence visa refused and is she sent home, and who pays the return?
+> - If a domestic worker's UAE residence medical shows she is pregnant, is she sent home, and who pays the return?
 
 ### Step 2: Do the 30-day housekeeping course (women)
 

@@ -452,7 +452,7 @@ There are two ways in: a licensed Bangladeshi agency selects you from BMET's dat
    > **Need to know**
    > - Is there a public list of registered sub-agents a worker can check a broker's name against, given that the law leaves registration to rules [A0026]?
 
-   **Which agencies hold Qatar job orders.** Women domestic workers may go only through the 21 agencies approved for them, and whether the agencies below are among them is not known (Work visa: domestic worker, Step 3, item 1) [E0037].
+   **Which agencies hold Qatar job orders.** The Ministry of Expatriates' Welfare approved 21 agencies to send women domestic workers abroad, and its approval names no destination country; none of the agencies listed below is among the 21 named in that letter (Work visa: domestic worker, Step 3, item 1) [ZY0001, ZY0024].
 
    BMET posted permission letters at bmet.gov.bd/pages/miscellaneous-infos from June 2023 until it stopped on 10 December 2025 [QL0001]. "Posts" means the number of workers a letter lets the agency process, not the number who went [QL0002]. For Qatar there are eight letters from seven agencies, 2,261 posts in all, about 2% of the 107,598 workers BMET cleared for Qatar in 2025 alone, so they show who holds posted Qatar job orders, not who sends the most people; 1,800 of the 2,261 posts are women's housemaid, babysitter and cook jobs [QL0004, QL0005, QL0006, QL0007, QL0008, QL0009, QL0010, W0038, W0001]. Most letters are titled only by memo and RL number, with no country, so searching কাতার on the list finds just one of the eight [QL0003, W0004].
 
@@ -515,7 +515,7 @@ There are two ways in: a licensed Bangladeshi agency selects you from BMET's dat
    - *A family visit or Hayya visa sold as a way into work.* A Hayya visa never allows work [V0024], and a visit visa can't be turned into a work visa inside Qatar: you must leave and re-enter (see Changing visa type) [V0098]. A family visit visa needs a host who is a first-degree relative and has family accommodation in his own name [V0079, V0082].
 
    > **Need to know**
-   > - Which words do Dhaka processors and relatives use for a company visa, a bought visa and a household visa, beyond "company visa", "free visa" and "house-driver visa", which we found in print [QK0002, QH0027, QK0001]?
+   > - Which words do Dhaka processors and relatives use for a company visa, a bought visa and a household visa, beyond "company visa", "free visa" and "house-driver visa", which appear in print [QK0002, QH0027, QK0001]?
    > - Are "azad visa" and "attested / non-attested visa" also used?
 
    **Cost.** Workers who went to five Gulf countries, Qatar among them, on a free visa in 2022 spent an average of Tk 4,99,802 (2025 survey), against a government-set average of Tk 1,16,224 [QF0008]; in May 2026 the reported range was Tk 4 to 7 lakh [QF0014]. What people already in Qatar pay a sponsor for one is in Background (see What ties you to the employer). 21% of free-visa workers paid about Tk 1.5 lakh more after arrival to get their work permit (iqama), and 14% never got one and stayed on illegally [QF0009, QF0010]. Who pays each official fee, and the ticket, is under Who pays what [W0052, D0019, QH0007].
@@ -568,7 +568,7 @@ There are two ways in: a licensed Bangladeshi agency selects you from BMET's dat
    **The trap: paying for what the sponsor must do free.** The sponsor alone must issue and renew your RP [W0037, QH0040]. In 2020 a Bangladeshi labourer was asked for QR 4,000 to issue his RP and threatened with a runaway case if he didn't pay [QH0038]. In 2024 a buyer paid QR 10,000 for a visa with no job, then QR 3,000 to renew his QID, still not renewed 2.5 months later [QE0023]. Some employers still demand fees to "release" workers, though the law no longer needs it [QE0012]. Working for a company other than your sponsor is settled at QR 12,000 or prosecuted, with deportation if unpaid (see What can get you jailed or deported; for an absconding case, see If your employer reports you absent) [L0120, L0118, L0174]. MOI's last grace period for people without valid papers ran from 9 February 2025 for three months (see Going home without valid papers) [L0192, L0193].
 
    > **Need to know**
-   > - Have Qatar's residency raids continued in 2025-26, after the latest report we found, from 2019 [QH0035, QH0036]?
+   > - Have Qatar's residency raids continued in 2025-26? The reports cited here are from 2019 [QH0035, QH0036].
    > - Do the raids still pick up people whose ID expired more than three months earlier and people working for another company, as in 2019 [QH0035, QH0036]?
 
    **What goes wrong most.**
@@ -1412,35 +1412,35 @@ A household recruits through a licensed recruitment office, or directly from abr
 
 ### Step 3: Choose an approved agency
 
-1. **Women: pick from the approved list.** On 1 September 2024 the Ministry of Expatriates' Welfare approved these 21 licensed agencies to send women domestic workers abroad (to all destinations) [E0037]:
-   - Methaq Al Madina Overseas (RL-2480)
-   - Just Recruit Ltd. (RL-2702)
-   - Tehzeeb Overseas Limited (RL-1664)
-   - Raz International (RL-1523)
-   - Nabawi Trading International (RL-2482)
-   - Rubel Enterprise (RL-2159)
-   - Darul Falah Overseas (RL-2047)
-   - Al Iradat Limited (RL-2098)
-   - Z Zahan International (RL-1863)
-   - Shwapno Shiri International (RL-2035)
-   - Al Grand Sultan Overseas (RL-1582)
-   - Safin Overseas Ltd. (RL-2542)
-   - Al-Toyab International Ltd (RL-1603)
-   - BKN Overseas (RL-1980)
-   - Zaara Dynamic Trade Overseas Limited (RL-0497)
-   - MRJ Global Limited (RL-2160)
-   - Mujib Travels and Tourism Ltd (RL-0992)
-   - Nabadwip Overseas Ltd (RL-1546)
-   - Al Hashem Air International (RL-1639)
-   - Green Hope International (RL-1930)
-   - Duronto Air International Limited (RL-1876)
+1. **Women: the approved list.** In a letter dated 17 Bhadra 1431 in the Bangla calendar and 1 September 2025 in the Gregorian calendar, the Ministry of Expatriates' Welfare approved these 21 licensed agencies to send women domestic workers abroad; the approval names no destination country [ZY0001, ZY0002, ZY0024]. The letter names each agency in Bangla with its licence (RL) number [ZZ0001]. The English names below are copied from OEP's agency list at www.oep.gov.bd/agencies for the same RL numbers; search that list by RL number, written there without the hyphen, for example RL2480 [ZY0003]:
+   - METHAQ AL MADINA OVERSEAS (RL-2480) [ZZ0001, ZY0003]
+   - JUST RECRUIT LTD. (RL-2702) [ZZ0002, ZY0004]
+   - TEHZEEB OVERSEAS LIMITED (RL-1664) [ZZ0003, ZY0005]
+   - M/S. Raz International (RL-1523) [ZZ0004, ZY0006]
+   - NABAWI TRADING INTERNATIONAL (RL-2482) [ZZ0005, ZY0007]
+   - M/S RUBEL ENTERPRISE (RL-2159) [ZZ0006, ZY0008]
+   - DARUL FALAH OVERSEAS (RL-2047) [ZZ0007, ZY0009]
+   - AL IRADAT LIMITED (RL-2098) [ZZ0008, ZY0010]
+   - Z ZAHAN INTERNATIONAL (RL-1863) [ZZ0009, ZY0011]
+   - SHWAPNO SHIRI INTERNATIONAL (RL-2035) [ZZ0010, ZY0012]
+   - M/S. Al Grand Sultan Overseas (RL-1582) [ZZ0011, ZY0013]
+   - Safin overseas ltd. (RL-2542) [ZZ0012, ZY0014]
+   - AL-TOYAB INTERNATIONAL LTD (RL-1603) [ZZ0013, ZY0015]
+   - BKN OVERSEAS (RL-1980) [ZZ0014, ZY0016]
+   - ZAARA DYNAMIC TRADE OVERSEAS LIMITED (RL-0497) [ZZ0015, ZY0017]
+   - MRJ GLOBAL LIMITED. (RL-2160) [ZZ0016, ZY0018]
+   - MUJIB TRAVELS AND TOURISM LTD (MTTL) (RL-0992) [ZZ0017, ZY0019]
+   - M/S NABADWIP OVERSEAS LTD (RL-1546) [ZZ0018, ZY0020]
+   - AL HASHEM AIR INTERNATIONAL (RL-1639) [ZZ0019, ZY0021]
+   - GREEN HOPE INTERNATIONAL (RL-1930) [ZZ0020, ZY0022]
+   - Duronto Air International Limited (RL-1876) [ZZ0021, ZY0023]
 
    Each must keep a Tk 15 lakh security deposit with BMET and at least one woman on its office staff [E0037, E0039]. An approved agency may take no migration cost from you, and signs an undertaking that its licence may be cancelled if you are abused at work [E0038, B0030]. If one asks you for money, complain to BMET as in Work visa: company worker, If the agency cheats you, item 2 [B0016].
 
    > **Need to know**
-   > - Is there a full, current list of agencies approved to send women domestic workers? BTS Overseas (RL-2434), which got a Qatar housemaid order in August 2025, is not among these 21 [E0037, W0038].
+   > - Is there a full, current list of agencies approved to send women domestic workers? BTS Overseas (RL-2434), which got a Qatar housemaid order in August 2025, is not among these 21 [ZY0024, W0038].
 
-2. **Everyone, men included: check the agency's licence** on OEP's agency list by its RL number, as in Work visa: company worker, Step 1, item 3. The list shows whether the licence is Active, Expired, Cancelled or Suspended; Raz International (RL-1523), on the approved list for women, shows Expired (validity 22 August 2026) [W0087, E0037].
+2. **Everyone, men included: check the agency's licence** on OEP's agency list by its RL number, as in Work visa: company worker, Step 1, item 3. The list shows whether the licence is Active, Expired, Cancelled or Suspended; M/S. Raz International (RL-1523), on the approved list for women, shows Expired (validity 22 August 2026) [W0087, ZY0025, ZZ0004].
 
    > **Need to know**
    > - Does BMET require any special approval for agencies sending men as house drivers, cooks or gardeners? [E0037]
