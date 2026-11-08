@@ -5,6 +5,7 @@
 It reads doc.md and writes:
   README.md        the doc as GitHub shows it (commit it)
   <Country>.docx   the editable Word file, named from the "# <Country>: ..." title (commit it)
+  <Country>.pdf    a PDF of the Word file, if LibreOffice is installed (commit it)
   pandoc.md        a build file pandoc turns into the .docx (not committed)
 
 In doc.md, cite fact ids from facts.csv, e.g. [W0012] or [W0012, L0003]. Each id maps to its saved source
@@ -221,7 +222,9 @@ def main():
             return "^" + ",\\ ".join(f"[{a.replace(' ', chr(92) + ' ')}]({b})" for a, b in items) + "^"
         return re.sub(r"\x00C(\d+)\x00", c, t)
 
-    open("pandoc.md", "w", encoding="utf-8").write(render(False))
+    # pandoc needs a blank quote line before a list inside a quote block (GitHub doesn't).
+    pdoc = re.sub(r"(?m)^( *> \*\*Need to know\*\*)\n( *)> - ", lambda m: f"{m.group(1)}\n{m.group(2)}>\n{m.group(2)}> - ", render(False))
+    open("pandoc.md", "w", encoding="utf-8").write(pdoc)
     # GitHub doesn't render pandoc's []{#id} anchors, so README.md uses HTML anchors.
     open("README.md", "w", encoding="utf-8").write(re.sub(r"\[\]\{#(\w+)\}", r'<a id="\1"></a>', render(True)))
 
@@ -236,7 +239,13 @@ def main():
                 d = d.replace('w:lvlText w:val="–"'.encode(), 'w:lvlText w:val="•"'.encode())
             zout.writestr(it, d)
     shutil.move(tmp, docx)
-    print(f"README.md and {docx}: {len(om)} official sources, {len(nm)} news or third-party")
+    # PDF from the .docx, if LibreOffice is installed.
+    soffice = shutil.which("soffice") or "/Applications/LibreOffice.app/Contents/MacOS/soffice"
+    made = ""
+    if os.path.exists(soffice):
+        r = subprocess.run([soffice, "--headless", "--convert-to", "pdf", docx], capture_output=True, text=True)
+        made = f", {country}.pdf" if r.returncode == 0 else " (PDF failed: " + r.stderr.strip()[:200] + ")"
+    print(f"README.md, {docx}{made}: {len(om)} official sources, {len(nm)} news or third-party")
 
 
 if __name__ == "__main__":
