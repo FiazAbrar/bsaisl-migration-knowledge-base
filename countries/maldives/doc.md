@@ -109,6 +109,7 @@ Each BMET permission letter sets the most the agency may take: the 2024 Maldives
 - **2023 survey:** an average of Tk 205,997, from Tk 32,000 to Tk 3,75,000 [N0123, N0062].
 - **2024 press:** Tk 3 to 4 lakh, and one Chattogram man's deal was Tk 4.6 lakh (Tk 2.6 lakh paid, Tk 2 lakh more due on the visa) [N0097, N0094].
 - **Maldives-side survey, 2024:** over 94% of 847 Bangladeshi workers had paid recruitment fees of up to USD 2,200 [N0082].
+- **New arrivals, April 2024:** workers flying to Malé told a reporter they had paid Tk 2.5 to 3.5 lakh each, on promises of Tk 40,000 to 60,000 a month with food and housing [R0056, R0057].
 
 > **Need to know**
 > - What is the street price of a Maldives construction or resort work permit in Dhaka in 2026, and what is it called (চুক্তি, কন্ট্রাক্ট)?
@@ -126,6 +127,7 @@ In parts: one 2024 deal took Tk 2.6 lakh first, with Tk 2 lakh more due when the
 
 - **Average pay:** MVR 6,760 (about Tk 54,500) a month, with over 70% working more than 54 hours a week (2024) [N0085]. In 2023 Bangladeshi workers earned an average of Tk 35,147 a month: Tk 37,066 documented, Tk 25,650 undocumented [N0072].
 - **No minimum wage for foreigners:** the Minimum Wage Order excludes expatriate workers (see Your rights at work) [L0068].
+- **Skilled and general workers:** carpenters, electricians and general labourers in hotels, restaurants and companies earned on average USD 400-500 (about Tk 50,000 to 62,000) a month in 2024, and most employers gave food and housing [R0058, G0014].
 - **Undercutting:** a water-sports guide says undocumented workers who work for food and a bed push pay down, so people who "deserve 12,000-14,000 MVR" work for MVR 5,000 (about Tk 40,300) [N0086, N0087].
 - **Housing:** undocumented workers spend about 35% of their earnings on accommodation [N0078].
 
@@ -353,11 +355,11 @@ The employer does the paperwork in this step on Xpat, logged in with a verified 
    > - What deposit does Schedule 5 of Regulation 2025/R-120 set for a Bangladeshi worker in 2026, and is the 2021 table (MVR 8,000) still applied?
    > - Do agents in Dhaka or Malé charge workers for the deposit, and under what name?
 
-4. **Pass the pre-departure medical, if it runs in Bangladesh.** The Maldives Ministry of Health requires everyone seeking a work permit to take a Pre-Departure Health Assessment (PDHA) in their home country, where the PDHA system is running [W0085]. It covers your medical history, a physical examination, a chest X-ray, and tests for HIV, hepatitis B, hepatitis C and syphilis, plus filariasis and malaria tests for people from areas where they are common [W0087]. You also get a measles-rubella (MR) vaccination [W0088]. The clinic must be designated by the Ministry of Health Maldives [W0096]. At registration the clinic checks your face against your passport and takes your photo and fingerprints [W0095, W0092]. You are counselled and sign a consent form in a language you understand [W0094]. Grade A means you are cleared to work in the Maldives; Grade B means a significant abnormal finding and you are not eligible [W0089]. The clinic uploads your fingerprints and result within 2 days, and the result is valid for 3 months from the examination [W0093, W0090].
+4. **Pass the pre-departure medical, if it runs in Bangladesh.** The Maldives Ministry of Health requires everyone seeking a work permit to take a Pre-Departure Health Assessment (PDHA) in their home country, where the PDHA system is running [W0085]. It covers your medical history, a physical examination, a chest X-ray, and tests for HIV, hepatitis B, hepatitis C and syphilis, plus filariasis and malaria tests for people from areas where they are common [W0087]. You also get a measles-rubella (MR) vaccination [W0088]. The clinic must be designated by the Ministry of Health Maldives [W0096]. At registration the clinic checks your face against your passport and takes your photo and fingerprints [W0095, W0092]. You are counselled and sign a consent form in a language you understand [W0094]. Grade A means you are cleared to work in the Maldives; Grade B means a significant abnormal finding and you are not eligible [W0089]. The clinic uploads your fingerprints and result within 2 days, and the result is valid for 3 months from the examination [W0093, W0090]. Pre-departure screening of Bangladeshi workers, at clinics accredited by the Health Protection Agency, began in October 2017 but was later halted; since 4 January 2024 a permit is issued only with the medical done after arrival [R0035, R0036, R0038].
 
    > **Need to know**
    > - Is the PDHA running in Bangladesh in November 2026; if so, which Dhaka clinics are designated and what do they charge?
-   > - If it is not running, what medical (if any) do Maldives employers require before a Bangladeshi worker flies?
+   > - Until a PDHA clinic exists in Bangladesh, is the 15-day medical after arrival (Step 7: After arrival, item 2) the only one a Bangladeshi worker needs?
 
 5. **Fly within 90 days.** You must enter the Maldives within 90 days of the entry pass being issued, and you must hold it on arrival [W0019, W0009]. The flight and BMET clearance are in Step 6: Orientation, BMET clearance and the flight.
 
@@ -477,8 +479,10 @@ The regulation counts these days without government holidays [W0150].
    **If you are already in the Maldives without a smart card,** get a Welfare Board membership card (High Commission services, item 2) [B0080, B0088].
 4. **The flight.** Under the 2024 permission letters the employer paid the airfare (one way or both ways, as the letter says), and an agency representative must fly with each group or meet it at the Maldives airport [B0158, B0160, B0161]. After each group arrives, the agency must report to the Ministry, BMET and the High Commission in Malé [B0162].
 
+   US-Bangla Airlines (flight BS 337, about 4 hours) and Maldivian (Q2 503) fly Dhaka-Malé nonstop [R0046, R0047]. A one-way US-Bangla economy ticket for 10 December 2026 cost Tk 36,699 when checked on 9 November 2026, without a checked bag; via Colombo, FitsAir was Tk 42,351 and SriLankan Tk 54,519 [R0046, R0048].
+
    > **Need to know**
-   > - Which airlines fly Dhaka or Chattogram to Malé in 2026, and what does a one-way ticket cost?
+   > - Is there any flight from Chattogram to Malé in 2026, or do Chattogram workers connect through Dhaka?
    > - Do agencies actually send a representative with Maldives groups, and do they report arrivals to the High Commission?
 
 5. **Before you fly:** keep one set of copies at home and 3 with you, open 2 bank accounts, and never carry a packet you don't know [B0052]. Don't pack idols for worship, pork, alcohol, vapes or e-cigarettes, pornography or anything "contrary to Islam": Maldives Customs bans them [G0040]. Save the Labour Wing hotline, +960 7648006 (WhatsApp) [B0081].
@@ -528,10 +532,10 @@ The regulation counts these days without government holidays [W0150].
    > - Which banks do employers of Bangladeshi construction and resort workers use, and do employers open the accounts themselves?
    > - Does the employer keep the worker's bank card or PIN in practice?
 
-8. **Get a SIM card.** Dhiraagu, a Maldives mobile operator, needs a valid passport or work permit from a foreigner [W0104]. Foreign workers may hold at most three mobile numbers [W0103].
+8. **Get a SIM card.** Dhiraagu, a Maldives mobile operator, needs a valid passport or work permit from a foreigner [W0104]. Its cheapest prepaid SIM, Super Lite, costs MVR 30 (about Tk 240); Ooredoo's prepaid SIM costs MVR 50 plus 8% GST [R0054, R0051]. Foreign workers may hold at most three mobile numbers [W0103].
 
    > **Need to know**
-   > - What does Ooredoo Maldives ask from a work-permit holder, and what does a basic prepaid SIM cost?
+   > - What ID does Ooredoo Maldives ask a work-permit holder for?
 
 9. **Keep your passport.** The employer may not take it; what to do if it does is under Your passport [L0087].
 
@@ -609,6 +613,7 @@ Employers may not take your passport or identity documents [L0087]. Under the An
 
 - The employer must provide housing for the whole of your employment, to the standards set by regulation [W0174, L0075].
 - You must have medical insurance from an approved insurer before your work permit is issued [L0090]. The employer may deduct insurance payments from your wage [L0186].
+- In the worst fire, on 10 November 2022, a blaze in a garage at M. Nirufehi in Malé spread into the workers' quarters above it and killed 10, two of them Bangladeshi; the quarters held at least 38 people, with a gas cylinder beside each bed, and the President ordered inspections of foreign workers' housing [R0025, R0030, R0026, R0029, R0032].
 - The employer must provide safety measures and safety equipment free of charge [L0073]. You may refuse work you reasonably believe is a serious danger to your life or health [L0076].
 - LRA employment officers can inspect workplaces without warning [L0078]. The employer must let you talk to them freely [L0080], and LRA may not tell the employer who complained [L0079].
 
@@ -846,9 +851,9 @@ A professional uses the same route as a company worker: the employer gets a quot
 
    You'll need (the employer submits): the attested copies from Step 1, an English translation of any certificate not in English, your passport bio page, and the employer's company registration [W0106, W0107, W0192, W0193, W0191].
 
-   1. The employer hands in the form at MQA, Velaanaage, 2nd Floor, Malé, between 9am and 12 noon on working days [W0110, W0111].
+   1. The employer hands in the paper form (there is no online route) at MQA, Umar Zahir Office Building, 5th Floor, Orchid Maa Hingun, Hulhumalé, between 9am and 12 noon on working days [R0041, R0044, W0110].
    2. It pays MVR 500 per validation and MVR 250 for each extra copy [W0109].
-   3. MQA's phone is +960 3344077 and email info@mqa.gov.mv [W0111].
+   3. MQA's phones are 3041831 and 3041829 [R0044].
 
    > **Need to know**
    > - Is the MQA foreigner form now submitted online, what does it cost in 2026, and how long does recognition take?
@@ -1056,11 +1061,10 @@ You'll need (to send the company): a clear colour scan of your passport photo pa
 3. **The Ministry approves, then Immigration verifies the application** [V0066].
 4. **The approved eVisa is downloaded from the Business Portal** [V0066].
 
-Do not travel before approval [V0069]. Approval does not guarantee entry [V0070].
+Do not travel before approval [V0069]. Approval does not guarantee entry [V0070]. The Immigration Act sets the business visa fee at MVR 750 (about Tk 6,000) for each three months or part [R0055, G0015, G0014].
 
 > **Need to know**
-> - What is the business visa fee, and who pays it?
-> - How long does approval usually take?
+> - What does the Business Portal actually charge for a business visa in 2026, who pays it, and how many working days does approval take?
 > - Can the visitor check the eVisa's validity himself, on IMUGA or elsewhere?
 
 ### Can you work?
@@ -1258,6 +1262,11 @@ A special visa lets a foreigner stay for humanitarian work, to continue medical 
 
 > **Need to know**
 > - Has Immigration ever allowed a tourist-to-work switch for Bangladeshis, for example during a regularisation drive?
+
+**If a visa is refused or revoked.** Immigration can revoke any visa, with or without notice, for false information or documents, if the reason for the visa no longer exists, or for breaking any Maldivian law [R0001, R0002, R0003]. Revoked without notice, you must leave within one day [R0004]. The Immigration Act gives no right to appeal or to ask for a review [R0006].
+
+> **Need to know**
+> - Does Immigration accept a written request to reconsider a refused or revoked visa in practice, and at which counter or email?
 
 ## Asylum
 
@@ -1567,7 +1576,16 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
 
 4. **Driving licence verification** (for a Maldives licence): apply with your Bangladesh licence, passport and visa copies and USD 11 cash; the letter usually comes within a week [B0115].
 
-5. **Universal pension.** The High Commission asks Bangladeshis abroad to register in the government's universal pension scheme [B0083].
+5. **Join Bangladesh's universal pension (Probash scheme).** The High Commission asks Bangladeshis abroad to register [B0083]. The National Pension Authority's Probash scheme is for Bangladeshis working abroad, paid in foreign currency, with the pension paid in taka from age 60 into the bank account or mobile wallet you give [R0010, R0017]. Monthly contributions are Tk 1,000, 2,000, 5,000, 7,500 or 10,000; people who join between 18 and 50 pay until 60 [R0011, R0022]. The amount depends on investment returns: after 10 years of paying, the projection is Tk 1,530 a month on Tk 1,000 up to Tk 15,302 on Tk 10,000 [R0024, R0012].
+
+   1. Register at [upension.gov.bd](https://www.upension.gov.bd), choose Probash, and keep the pension ID and password it gives you [R0021].
+   2. Pay from abroad in foreign currency by card or another legal banking channel; the government's remittance incentive is added to your account [R0015, R0016].
+   3. Know the limits: you can't take money out before 60, only borrow up to 50% with the Authority's approval; if you die before 60, your nominee gets the whole amount back [R0018, R0019].
+
+   Help: support@upension.gov.bd [R0023].
+
+   > **Need to know**
+   > - Can a worker in Malé register for Probash with a passport only, without an NID, and which Maldivian banks or exchange houses can send the contribution?
 
 ## Contacts
 
@@ -1581,7 +1599,7 @@ The Bangladesh High Commission is at Plot 10982, Street 16, Nirolhu Magu, Hulhum
 - **Labour Relations Authority (wage and rights complaints):** 332 8282; online form at lra.gov.mv/submit-a-complaint-form [W0163, L0125].
 - **Maldives Immigration:** call centre 1434, 8.30 am to 2 pm, Sunday to Thursday; 1st floor, Veelanaage, Ameer Ahmed Magu, Malé [V0021, V0022]. Permits section (special visas, extensions): permits@immigration.gov.mv, 9199157, 3330487 [V0053]. Detainee visits: ecdadmin@immigration.gov.mv [U0105].
 - **Operation Kurangi (fingerprints):** 7690228, operation.kurangi@mohst.gov.mv [U0006].
-- **Maldives Qualifications Authority:** +960 3344077, info@mqa.gov.mv [W0111].
+- **Maldives Qualifications Authority:** Umar Zahir Office Building, 5th Floor, Orchid Maa Hingun, Hulhumalé; 3041831, 3041829 [R0044].
 
 **In Bangladesh.**
 

@@ -173,6 +173,15 @@ Merged from the per-topic research files in `drafts/` (8 November 2026). Fact id
 
 **Housekeeping.** Files that were in `sources/` from the earlier attempt were logged with `fetch.py --log ... manual`. The old `bkash-remittance-mts.md` (UAE row only) was replaced by `bkash-mts-partners-2026-11.md` (Firecrawl, with the Maldives row) and its log row removed. A first fetch of the BB rate page returned a captcha; it was deleted and replaced by the BB rate-sheet PDF.
 
+## Gap research after the audit (flights, pension, fire, appeal, SIM, MQA, costs) (prefix R)
+
+- Fire date: Atoll Times (R0030) misdates it "9 October"; Edition (R0034) says 13 November. Contemporaneous Daily Star and PSM say 12:30 am Thursday 10 November 2022 (R0025, R0033). Daily Star early count was 11 dead; final count 10.
+- Pension tiers: the older English brief (c. Dec 2023) lists Tk 2,000/5,000/7,500/10,000; the Bangla scheme page lists Tk 1,000 too (R0011). Used the scheme page.
+- Business visa fee: the Act's Annex text layer is garbled; the reading follows the label order (tourist 750, student 300, business 750, dependant 750), consistent with V0028 (student MVR 300). Flag for a check against the PDF.
+- R0021's claim covers online registration, pension ID and payment routes, but its quote proves only the Sonali/Agrani bank counters; the online-registration sentence relies on the same page's paragraph (re-log with a second quote if the verifier objects).
+- Unused: R0028 (Atoll Times count, overlaps R0030), R0049 (duplicate of R0048).
+- Fare figures come from Google Flights through Firecrawl's provider (saved as a text record, `googleflights-dac-mle-2026-12-10.md`), not a live page copy.
+
 ## Pages we could not download
 
 Exact URL, suggested file name and what each would prove. Save in a browser and send to the lead; they will be added to `sources/` and logged with `fetch.py --log <url> <name> manual`.
@@ -253,4 +262,11 @@ Exact URL, suggested file name and what each would prove. Save in a browser and 
 - https://www.risingbd.com/abroad/news/619550 (403): Rising BD, July 2026, Maldives migrants.
 - mira.gov.mv remittance-tax legislation pages (e.g. https://mira.gov.mv/Legislations/View/remittance-tax-regulation-consolidated): suggested `mira-remittance-tax-status`. Would settle whether any remittance tax applies in 2026.
 - Facebook post of the Bangladesh High Commission in Malé on remittance (Sept 2026 press release behind the BSS story): not located.
+
+### Gap research after the audit (flights, pension, fire, appeal, SIM, MQA, costs) (R)
+
+- MQA Service Charter 2026v02 (Dhivehi PDF, saved but no text layer): https://mqa.gov.mv/storage/uploads/KyYj6mYP/8ib2pwek.pdf, file `mqa-mv-service-charter-2026v02`. Would give recognition processing times. Needs a Dhivehi reader or OCR.
+- Maldives Business Portal fee page (login-only): business.egov.mv. Would give the business visa fee and processing time.
+- Google Flights Chattogram (CGP) to Malé, 10 Dec 2026: provider error. Suggested file `googleflights-cgp-mle-2026-12-10`. Would show whether any CGP-MLE routing exists.
+- PSM (psmnews.mv) blocks curl; the two articles used were saved through Firecrawl.
 
