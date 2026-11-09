@@ -1,0 +1,1522 @@
+
+
+Central Bank of Kuwait: Foreign Currencies Exchange Rates
+
+Home
+
+Foreign Currencies Exchange Rates
+
+Updated | Mon 09.11.2026
+
+(Rate against KD)
+
+Less
+
+EXCEL
+
+XML
+
+US Dollar
+
+308.250
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+EURO
+
+343.884
+Fils/Unit
+
+0.3699
+Change
+
+0.11
+% change
+
+Pound Sterling
+
+412.207
+Fils/Unit
+
+0.6781
+Change
+
+0.16
+% change
+
+Japanese Yen
+
+1.9471
+Fils/Unit
+
+0.0020
+Change
+
+0.10
+% change
+
+Swiss Franc
+
+375.525
+Fils/Unit
+
+-0.1373
+Change
+
+-0.04
+% change
+
+Saudi Riyal
+
+82.200
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Emirati Dirham
+
+83.923
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Qatari Riyal
+
+84.684
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bahraini Dinar
+
+819.637
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Omani Rial
+
+801.691
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Afghan Afghani
+
+4.734
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Albanian Lek
+
+3.776
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Algerian Dinar
+
+2.260
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Angolan Kwanza
+
+0.335
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Argentine Peso
+
+0.200
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Armenian Dram
+
+0.855
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Australian Dollar
+
+212.45
+Fils/Unit
+
+0.8014
+Change
+
+0.38
+% change
+
+Azerbaijani Manat
+
+181.323
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bahamian Dollar
+
+308.250
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bangladeshi Taka
+
+2.483
+Fils/Unit
+
+0.0080
+Change
+
+0.32
+% change
+
+Barbadian Dollar
+
+153.046
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Belize Dollar
+
+153.267
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bermudian Dollar
+
+308.250
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bhutanese Ngultrum
+
+3.282
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bolivian Boliviano
+
+25.936
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Bosnia & Herzegovina Convertible Mark
+
+175.646
+Fils/Unit
+
+0.1899
+Change
+
+0.11
+% change
+
+Botswana Pula
+
+21.701
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Brazilian Real
+
+55.990
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Brunei Dollar
+
+240.538
+Fils/Unit
+
+0.2625
+Change
+
+0.11
+% change
+
+Bulgarian Lev
+
+183.033
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Burundian Franc
+
+0.103
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Cambodian Riel
+
+0.076
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Canadian Dollar
+
+218.439
+Fils/Unit
+
+0.2783
+Change
+
+0.13
+% change
+
+Cape Verdean Escudo
+
+3.111
+Fils/Unit
+
+0.0037
+Change
+
+0.12
+% change
+
+Chilean Peso
+
+0.316
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Chines Yuan
+
+46.183
+Fils/Unit
+
+0.0135
+Change
+
+0.03
+% change
+
+Colombian Peso
+
+0.095
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Comorian Franc
+
+0.697
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Costa Rican Colon
+
+0.680
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Cuban Peso
+
+12.844
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Czeck Koruna
+
+14.140
+Fils/Unit
+
+0.0265
+Change
+
+0.19
+% change
+
+Congolese Franc
+
+0.133
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Danish Krone
+
+46.003
+Fils/Unit
+
+0.0541
+Change
+
+0.12
+% change
+
+Djiboutian Franc
+
+1.731
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Dominican Peso
+
+5.072
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Ecuador Sucre
+
+0.012
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Egyptian Pound
+
+5.685
+Fils/Unit
+
+-0.0422
+Change
+
+-0.74
+% change
+
+El Salvadoran Colon
+
+35.209
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Eritrean Nakfa
+
+20.448
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Ethiopian Birr
+
+1.909
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Fijian Dollar
+
+136.046
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Gambian Dalasi
+
+4.121
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Georgian Lari
+
+118.878
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Ghanaian Cedi
+
+26.414
+Fils/Unit
+
+-0.0113
+Change
+
+-0.04
+% change
+
+Guatemalan Quetzal
+
+40.339
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Guinean Franc
+
+0.035
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Guyanese Dollar
+
+1.470
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Haitian Gourde
+
+2.352
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Honduran Lempira
+
+11.469
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Hong Kong Dollar
+
+39.314
+Fils/Unit
+
+-0.0050
+Change
+
+-0.01
+% change
+
+Hungarian Forint
+
+0.948
+Fils/Unit
+
+0.0021
+Change
+
+0.22
+% change
+
+Icelandic Krona
+
+2.514
+Fils/Unit
+
+0.0028
+Change
+
+0.11
+% change
+
+Indian Rupee
+
+3.285
+Fils/Unit
+
+0.0023
+Change
+
+0.07
+% change
+
+Indonesian Rupiah
+
+0.017
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Iranian Rial
+
+0.007
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Iraqi Dinar
+
+0.203
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Jamaican Dollar
+
+1.940
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Jordanian Dinar
+
+434.767
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Kazakhstani Tenge
+
+0.687
+Fils/Unit
+
+-0.0011
+Change
+
+-0.16
+% change
+
+Kenyan Shilling
+
+2.373
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+North Korean Won
+
+2.371
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+South Korean Won
+
+0.228
+Fils/Unit
+
+0.0015
+Change
+
+0.66
+% change
+
+Kyrgyzstani Som
+
+3.524
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Lao Kip
+
+0.014
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Lebanese Pound
+
+0.003
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Lesotho Loti
+
+18.690
+Fils/Unit
+
+0.0194
+Change
+
+0.10
+% change
+
+Liberian Dollar
+
+1.813
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Libyan Dinar
+
+48.167
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Macanese Pataca
+
+38.140
+Fils/Unit
+
+-0.0095
+Change
+
+-0.02
+% change
+
+Malagasy Ariary
+
+0.067
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Malawian Kwacha
+
+0.178
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Malaysian Ringgit
+
+75.942
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Maldivian Rifiyaa
+
+19.939
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Mauritanian Ouguiya
+
+7.600
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Mauritian Rupee
+
+6.554
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Mexican Peso
+
+16.591
+Fils/Unit
+
+0.0436
+Change
+
+0.26
+% change
+
+Moldovan Leu
+
+17.317
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Mongolian Tughrik
+
+0.086
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Moroccan Dirham
+
+31.616
+Fils/Unit
+
+0.0238
+Change
+
+0.08
+% change
+
+Mozambican Metical
+
+4.848
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Myanmar Kyat
+
+0.147
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Namibian Dollar
+
+18.690
+Fils/Unit
+
+0.0306
+Change
+
+0.16
+% change
+
+Nepalese Rupee
+
+2.053
+Fils/Unit
+
+0.0015
+Change
+
+0.07
+% change
+
+New Zealand Dollar
+
+172.250
+Fils/Unit
+
+1.2946
+Change
+
+0.76
+% change
+
+Nicaraguan Cordoba
+
+8.376
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Nigerian Naira
+
+0.229
+Fils/Unit
+
+-0.0002
+Change
+
+-0.09
+% change
+
+Norwegian Krone
+
+32.634
+Fils/Unit
+
+0.0342
+Change
+
+0.10
+% change
+
+Pakistani Rupee
+
+1.114
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Panamanian Balboa
+
+308.250
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Papua New Guinean Kina
+
+67.630
+Fils/Unit
+
+-0.0308
+Change
+
+-0.05
+% change
+
+Paraguayan Guarani
+
+0.049
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Peruvian Sol
+
+89.579
+Fils/Unit
+
+0.0390
+Change
+
+0.04
+% change
+
+Philippine Peso
+
+4.871
+Fils/Unit
+
+-0.0166
+Change
+
+-0.34
+% change
+
+Polish Zloty
+
+78.317
+Fils/Unit
+
+0.1727
+Change
+
+0.22
+% change
+
+Romanian Leu
+
+64.405
+Fils/Unit
+
+0.0954
+Change
+
+0.15
+% change
+
+Russian Ruble
+
+3.762
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Rwandan Franc
+
+0.209
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Samoan Tala
+
+111.802
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Serbian Dinar
+
+2.920
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Seychellois Rupee
+
+20.838
+Fils/Unit
+
+0.2338
+Change
+
+1.13
+% change
+
+Sierra Leonean Leone
+
+0.014
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Singapore Dollar
+
+240.538
+Fils/Unit
+
+0.2625
+Change
+
+0.11
+% change
+
+Solomon Islands Dollar
+
+38.069
+Fils/Unit
+
+-0.5549
+Change
+
+-1.44
+% change
+
+South African Rand
+
+18.689
+Fils/Unit
+
+0.0300
+Change
+
+0.16
+% change
+
+Sri Lankan Rupee
+
+0.927
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Sudanese Pound
+
+0.690
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Surinamese Dollar
+
+8.194
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Swazi Lilangeni
+
+18.690
+Fils/Unit
+
+0.0212
+Change
+
+0.11
+% change
+
+Swedish Krona
+
+31.211
+Fils/Unit
+
+0.0549
+Change
+
+0.18
+% change
+
+Syrian Pound
+
+2.527
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Taiwan New Dollar
+
+9.397
+Fils/Unit
+
+-0.0066
+Change
+
+-0.07
+% change
+
+Tanzanian Shilling
+
+0.117
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Thai Baht
+
+9.193
+Fils/Unit
+
+0.0110
+Change
+
+0.12
+% change
+
+Tunisian Dinar
+
+103.648
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Turkish Lira
+
+6.144
+Fils/Unit
+
+-0.0032
+Change
+
+-0.05
+% change
+
+Ugandan Shilling
+
+0.075
+Fils/Unit
+
+-0.0002
+Change
+
+-0.26
+% change
+
+Ukrainian Hryvnia
+
+6.811
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Uruguayan Peso
+
+7.644
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Uzbekistani Som
+
+0.026
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Venezuelan Bolivar
+
+0.001
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Vietnamese Dong
+
+0.012
+Fils/Unit
+
+0.0001
+Change
+
+0.83
+% change
+
+Yemeni Rial
+
+1.306
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Zambian Kwacha
+
+15.172
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+شلن صومالي
+
+0.539
+Fils/Unit
+
+0.0000
+Change
+
+0.00
+% change
+
+Less
+
+EXCEL
+
+XML
+
+Central Bank Of Kuwait
+
+			P. O. Box: 526, 
+			Safat 13006, 
+			State of Kuwait
+
+							Tel: 
+
+(965) 1814444
+
+							SWIFT (BIC): 
+
+CBKUKWKW
+
+Subscribe to CBK News
+
+Contact Us
+
+Sitemap
+
+Disclaimer
+
+Scam & Frauds
+

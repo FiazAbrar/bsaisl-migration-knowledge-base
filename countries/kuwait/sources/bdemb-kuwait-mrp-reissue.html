@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+html{
+--color-primary-bg:#00A63E;
+--color-primary-light:#2DAB5B;
+--color-primary-dark:#008532;
+--color-primary-text:#ffffff;
+--color-secondary-bg:#DC2626;
+--color-secondary-light:#FEF2F2;
+--color-secondary-dark:#ED3131;
+--color-secondary-text:#ffffff;
+--color-normal-bg:#ffffff;
+--color-normal-light:#f0f0f0;
+--color-normal-dark:#e0e0e0;
+--color-normal-text:#000000;
+--color-dark-bg:#000000;
+--color-dark-light:#202020;
+--color-dark-dark:#404040;
+--color-dark-text:#ffffff;
+--color-success-bg:#28a745;
+--color-success-text:#ffffff;
+--color-danger-bg:#dc3545;
+--color-danger-text:#dc3545;
+--color-warning-bg:#FF6600;
+--color-warning-text:#FF6600;
+--color-info-bg:#17a2b8;
+--color-info-text:#ffffff;
+--color-link-normal:#1568b2;
+--color-link-dark:#1b81dd;
+--color-border-normal:#d0d0d0;
+--color-border-dark:#909090;
+--color-widget-title:#202B5D;
+--color-widget-subtitle:#62718D;
+--color-content-dark:#1E202C;
+--color-content-normal:#313545;
+--background-primary-image:url(/site-assets/images/bg.png);
+--background-primary-repeat:repeat;
+--background-primary-position:center center;
+--background-primary-color:#ffffff;
+--background-secondary-image:url(/site-assets/images/bg.png);
+--background-secondary-repeat:repeat;
+--background-secondary-position:center center;
+--background-secondary-color:#ffffff;
+--container-small:600px;
+--container-medium:900px;
+--container-large:1200px;
+--spacing-small:8px;
+--spacing-medium:16px;
+--spacing-large:24px;
+--radius-small:4px;
+--radius-medium:8px;
+--radius-large:16px;
+--shadow-small:0px 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium:0px 4px 8px rgba(0, 0, 0, 0.1);
+--shadow-large:0px 8px 16px rgba(0, 0, 0, 0.1);
+--text-small:0.75rem;
+--text-medium:0.9rem;
+--text-large:1.25rem;
+--font-heading-en:Roboto-Regular, sans-serif;
+--font-heading-bn:NotoSansBengali-Regular, sans-serif;
+--font-primary-en:Roboto-Regular, sans-serif;
+--font-primary-bn:NotoSansBengali-Regular, sans-serif;
+--font-secondary-en:Roboto-Regular, sans-serif;
+--font-secondary-bn:NotoSansBengali-Regular, sans-serif;
+--typography-h1-font-family:var(--font-heading);
+--typography-h1-font-weight:700;
+--typography-h1-font-size:32px;
+--typography-h1-line-height:1.2;
+--typography-h2-font-family:var(--font-heading);
+--typography-h2-font-weight:700;
+--typography-h2-font-size:28px;
+--typography-h2-line-height:1.2;
+--typography-h3-font-family:var(--font-heading);
+--typography-h3-font-weight:600;
+--typography-h3-font-size:24px;
+--typography-h3-line-height:1.5;
+--typography-h4-font-family:var(--font-heading);
+--typography-h4-font-weight:500;
+--typography-h4-font-size:20px;
+--typography-h4-line-height:1.5;
+--typography-h5-font-family:var(--font-heading);
+--typography-h5-font-weight:500;
+--typography-h5-font-size:18px;
+--typography-h5-line-height:1.5;
+--typography-h6-font-family:var(--font-heading);
+--typography-h6-font-weight:400;
+--typography-h6-font-size:16px;
+--typography-h6-line-height:1.5;
+--typography-body-font-family:var(--font-primary);
+--typography-body-font-weight:400;
+--typography-body-font-size:14px;
+--typography-body-line-height:1.2;
+--typography-p-font-family:var(--font-primary);
+--typography-p-font-weight:400;
+--typography-p-font-size:14px;
+--typography-p-line-height:1.2;
+--typography-a-font-family:var(--font-secondary);
+--typography-a-font-weight:400;
+--typography-a-font-size:14px;
+--typography-a-line-height:1.2;
+}
+html,html[lang="en"]{
+--font-heading:Roboto-Regular, sans-serif;
+--font-primary:Roboto-Regular, sans-serif;
+--font-secondary:Roboto-Regular, sans-serif;
+}
+html[lang="bn"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+
+/* ===== CONTAINER ===== */
+body{overflow-x:hidden;}
+.col{flex:0 0 auto;}
+.container-row,.widget-container-row{
+  --col-gutter-x: var(--spacing-medium);
+  --col-gutter-y:0;
+  /*
+  --col-gutter-y: var(--spacing-medium);
+  */
+  display:flex;
+  flex-wrap:wrap;
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-right:calc(-.5 * var(--col-gutter-x));
+  margin-left:calc(-.5 * var(--col-gutter-x))
+  /*
+  width:calc(100% + var(--col-gutter-x));
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-left:calc(-1 * var(--col-gutter-x));
+  */
+}
+.container-row>*,.widget-container-row>*{
+  box-sizing:border-box;
+  flex-shrink:0;
+  width:100%;
+  max-width:100%;
+  padding-right:calc(var(--col-gutter-x) * .5);
+  padding-left:calc(var(--col-gutter-x) * .5);
+  margin-top:var(--col-gutter-y)
+  /*
+  width:calc(100% - var(--col-gutter-x));
+  max-width:calc(100% - var(--col-gutter-x));
+  margin-top:var(--col-gutter-y);
+  margin-left:var(--col-gutter-x);
+  */
+}
+
+@media (min-width:600px) {
+  .container-col-1{width:8.3333%;}
+  .container-col-2{width:16.666%;}
+  .container-col-3{width:25%;}
+  .container-col-4{width:33.333%;}
+  .container-col-5{width:41.666%;}
+  .container-col-6{width:50%;}
+  .container-col-7{width:58.333%;}
+  .container-col-8{width:66.666%;}
+  .container-col-9{width:75%;}
+  .container-col-10{width:83.333%;}
+  .container-col-11{width:91.666%;}
+  .container-col-12{width:100%;}
+}
+
+  </style>
+  <!-- analytics script -->
+  <!-- Matomo Id n/a -->
+  <script defer data-domain="kuwait.mofa.gov.bd" src="https://analytics-plausible.portal.gov.bd/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <link rel="stylesheet" href="/site-assets/css/phosphor.css">
+  <link rel="stylesheet" href="/site-assets/css/phosphor-fill.css">
+  <link rel="stylesheet" href="/site-assets/css/index.css">
+  <link rel="stylesheet" href="/widget-assets/css/TopHeaderBlockWidget">
+  <link rel="stylesheet" href="/widget-assets/css/SimpleHeaderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/LanguageSwitcherWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusSliderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EmbassyBannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/BannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/SocialContentShareWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionPopupWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionFormWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentViewerWidget">
+  <link rel="stylesheet" href="/widget-assets/css/PrintWidget">
+  <link rel="stylesheet" href="/widget-assets/css/AccessibilityWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GoToTopWidget">
+  <link rel="stylesheet" href="/widget-assets/css/TitleWithImageContentWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentDetailsWidget">
+  <link rel="stylesheet" href="/widget-assets/css/NewLandingFooterWidget">
+  <style>/* END */</style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+
+  <!-- RENDERING 6922f81a003631e6b5c0eb04 : 1794210546294 -->
+  <title>Mrp Reissue | Pages | Embassy of the People’s Republic of Bangladesh, Kuwait</title>
+  <meta name="description" content=""/>
+  <meta name="keywords" content="Mrp Reissue, Pages, Embassy of the People’s Republic of Bangladesh, Kuwait, http://kuwait.mofa.gov.bd, Bangladesh, Bangladesh National Portal, Government of the People's Republic of Bangladesh, গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <link rel="canonical" href="http://kuwait.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9dbb"/>
+  <link rel="icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/png" href="/site-assets/images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="http://kuwait.mofa.gov.bd/site-assets/images/favicon.png"/>
+  <meta name="author" content="Embassy of the People’s Republic of Bangladesh, Kuwait"/>
+  <meta property="fb:app_id" content="..............."/>
+  <meta property="og:url" content="http://kuwait.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9dbb"/>
+  <meta property="og:site_name" content="Embassy of the People’s Republic of Bangladesh, Kuwait"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:article:section" content="Mrp Reissue | Pages | Embassy of the People’s Republic of Bangladesh, Kuwait"/>
+  <meta property="og:article:author" content="Embassy of the People’s Republic of Bangladesh, Kuwait"/>
+  <meta property="og:article:tag" content="Embassy of the People’s Republic of Bangladesh, Kuwait"/>
+  <meta property="og:article:tag" content="Bangladesh"/>
+  <meta property="og:article:tag" content="Bangladesh National Portal"/>
+  <meta property="og:article:tag" content="Government of the People's Republic of Bangladesh"/>
+  <meta property="og:article:tag" content="গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <meta property="og:title" content="Mrp Reissue | Pages | Embassy of the People’s Republic of Bangladesh, Kuwait"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="687"/>
+  <meta property="og:image:height" content="570"/>
+  <meta property="og:image:secure_url" content="http://kuwait.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta property="og:image" content="http://kuwait.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div class="container">
+  <div class="header"><div data-section_type="header" class="droppable">
+        <div data-widget_type="widget" data-widget_name="TopHeaderBlockWidget" class="widget top-header-block-widget"> <div class="top-header-block-widget-content"> <rt-renderer><marquee direction="left" scrollamount="7" "this.stop()" "this.start()"><p><strong><span style="color: rgb(26, 188, 156); font-size: 18px;"><strong><span style="font-size: 18px;"><span style="color: rgb(26, 188, 156);">****** </span></span></strong> </span></strong><strong><span style="font-size: 18px;"><span style="color: rgb(26, 188, 156);">Welcome to the Embassy of the People's Republic of Bangladesh, Kuwait ****** </span></span></strong></p></marquee></rt-renderer> </div> </div>
+         <div data-widget_type="widget" data-widget_name="SimpleHeaderWidget" class="widget simple-header-widget"> <div class="simple-header-container"> <div class="simple-header-left"> <a href="/" class="logo-link"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-title-wrapper"> <a class="header-title" href="/" title="Embassy of the People’s Republic of Bangladesh, Kuwait"> <span class="title-text"> Embassy of the People’s Republic of Bangladesh, Kuwait </span> </a> </div> </div> <div class="simple-header-right"> <div class="date-section"> <i class="ph ph-calendar-dots"></i> <span class="date-text">09 / 11 / 2026, 10:49 am</span> </div> <div class='widget language-switcher-widget'> <input type="hidden" name="lang" id="3768216517" value="en" /> <button type="button" id="3881237320" data-type="en" class="btn-lang-change" onclick="window.toggleLanguage('3881237320', '3768216517')"> বাংলা </button> </div> </div> </div> </div> 
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="MenusSliderWidget" class="widget menus-slider-widget max-view"> <div class="expand-btn home-btn" style="display: none"> <a href="/" title="Home"><i class="ph ph-house"></i></a> </div> <div class="expand-btn prev-btn" style="display: none"> <span title="Previous"><i class="ph ph-arrow-fat-left"></i></span> </div> <div class="menus-widget-container" style="--home-label:'Home';"> <section class="widget menu-widget"> <span id="menu-toggle" class="hamburger-menu-block"> <icon class="hamburger-menu ph ph-list"></icon> <span>Select Menu</span> </span> <ul class="menu-list menu-parent-unordered-list custom-items-center"> <li class="megamenu-link "> <a class="menu-parent-list-link home-link" href="/"> </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" About us" href="" class="menu-parent-list-link"> About us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" About us" class="menu-child-title"> <a title="About us" href="#"> <div>About us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" The Ambassador" class="menu-sub-child-link" href="/pages/static-pages/6952668c35ce18e1c05a9f66" > <div>The Ambassador</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Roll of Honour" class="menu-sub-child-link" href="/pages/static-pages/6952667435ce18e1c05a9375" > <div>Roll of Honour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Office Hour" class="menu-sub-child-link" href="/pages/static-pages/6952669135ce18e1c05aa1a2" > <div>Office Hour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" LOCATION" class="menu-sub-child-link" href="/pages/static-pages/695266a435ce18e1c05aa85f" > <div>LOCATION</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" List of Officers and Officials" class="menu-child-title"> <a title="List of Officers and Officials" href="#"> <div>List of Officers and Officials</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Embassy Officers" class="menu-sub-child-link" href="/pages/officers-profile" > <div>Embassy Officers</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Passport &amp; Visa" href="" class="menu-parent-list-link"> Passport &amp; Visa <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Passport Services" class="menu-child-title"> <a title="Passport Services" href="#"> <div>Passport Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" E-Passport Fees" class="menu-sub-child-link" href="/pages/files/6952663ea31054345f102cf3" > <div>E-Passport Fees</div> </a> </li> <li class="menu-sub-child-list"> <a title=" MRP Reissue/Correction" class="menu-sub-child-link" href="/pages/static-pages/6952668835ce18e1c05a9dbb" > <div>MRP Reissue/Correction</div> </a> </li> <li class="menu-sub-child-list"> <a title=" E-Passport Guideline" class="menu-sub-child-link" href="/pages/files/69526647a31054345f1032ad" > <div>E-Passport Guideline</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Lost or Damaged Form" class="menu-sub-child-link" href="/pages/files/69526648a31054345f1032f8" > <div>Lost or Damaged Form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Self Declaration Correction" class="menu-sub-child-link" href="/pages/files/69526640a31054345f102f50" > <div>Self Declaration Correction</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Self Declaration ABIS" class="menu-sub-child-link" href="/pages/files/69526639a31054345f102591" > <div>Self Declaration ABIS</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Visa Services" class="menu-child-title"> <a title="Visa Services" href="#"> <div>Visa Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Tourist Visa" class="menu-sub-child-link" href="/pages/static-pages/6952667d35ce18e1c05a9846" > <div>Tourist Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Diplomatic and Official Visa" class="menu-sub-child-link" href="/pages/static-pages/695266ad35ce18e1c05aab77" > <div>Diplomatic and Official Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Government Delegate Visa" class="menu-sub-child-link" href="/pages/static-pages/695266ad35ce18e1c05aab77" > <div>Government Delegate Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Business Visa" class="menu-sub-child-link" href="/pages/static-pages/6952669d35ce18e1c05aa5fe" > <div>Business Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Work Permint and Employment Visa" class="menu-sub-child-link" href="/pages/static-pages/6952667f35ce18e1c05a995e" > <div>Work Permint and Employment Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Student Visa" class="menu-sub-child-link" href="/pages/static-pages/6952669235ce18e1c05aa1b2" > <div>Student Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Tableague Jamat Visa" class="menu-sub-child-link" href="/pages/static-pages/6952668f35ce18e1c05aa07a" > <div>Tableague Jamat Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" NVR" class="menu-sub-child-link" href="/pages/static-pages/6952667e35ce18e1c05a98aa" > <div>NVR</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Consular Services" href="" class="menu-parent-list-link"> Consular Services <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Consular Services" class="menu-child-title"> <a title="Consular Services" href="#"> <div>Consular Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Fees of Other Consular Services" class="menu-sub-child-link" href="/pages/files/69526643a31054345f103082" > <div>Fees of Other Consular Services</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Services" class="menu-child-title"> <a title="Services" href="#"> <div>Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Relationship Certificate" class="menu-sub-child-link" href="" > <div>Relationship Certificate</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Driving Licence Certificate" class="menu-sub-child-link" href="" > <div>Driving Licence Certificate</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Birth Registration Certificate" class="menu-sub-child-link" href="/pages/static-pages/6952669c35ce18e1c05aa561" > <div>Birth Registration Certificate</div> </a> </li> <li class="menu-sub-child-list"> <a title=" National ID (NID) Services" class="menu-sub-child-link" href="/pages/files/69526642a31054345f102ff3" > <div>National ID (NID) Services</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Endorsement of Power of Attorney" class="menu-sub-child-link" href="/pages/static-pages/6952668435ce18e1c05a9be6" > <div>Endorsement of Power of Attorney</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Attestation of Certificate" class="menu-sub-child-link" href="/pages/static-pages/6952669935ce18e1c05aa442" > <div>Attestation of Certificate</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Consular Services Forms" class="menu-child-title"> <a title="Consular Services Forms" href="#"> <div>Consular Services Forms</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Driving License Application Form" class="menu-sub-child-link" href="/pages/files/69526639a31054345f102408" > <div>Driving License Application Form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Relationship Certificate Form" class="menu-sub-child-link" href="/pages/files/69526637a31054345f10215b" > <div>Relationship Certificate Form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" New Birth Certificate Registration" class="menu-sub-child-link" href="https://bdris.gov.bd/br/application" > <div>New Birth Certificate Registration</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Birth Certificate Correction Application" class="menu-sub-child-link" href="https://bdris.gov.bd/br/correction" > <div>Birth Certificate Correction Application</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Birth Certificate Reprint (Duplicate) Application" class="menu-sub-child-link" href="https://bdris.gov.bd/br/reprint/add" > <div>Birth Certificate Reprint (Duplicate) Application</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Labour &amp; Welfare" href="" class="menu-parent-list-link"> Labour &amp; Welfare <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Labour &amp; Welfare Services" class="menu-child-title"> <a title="Labour &amp; Welfare Services" href="#"> <div>Labour &amp; Welfare Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Demand Letter Attestation" class="menu-sub-child-link" href="/pages/static-pages/6952669b35ce18e1c05aa4e7" > <div>Demand Letter Attestation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Attestation of Kuwait Visa-18 (Company visa), Visa-20 (Domestic Aid visa) and Visa-22 (Family visa)" class="menu-sub-child-link" href="/pages/static-pages/6952669935ce18e1c05aa475" > <div>Attestation of Kuwait Visa-18 (Company visa), Visa-20 (Domestic Aid visa) and Visa-22 (Family visa)</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Wage Earner Welfare Membership Card (Expatriate Welfare Card)" class="menu-sub-child-link" href="/pages/static-pages/6952667335ce18e1c05a932d" > <div>Wage Earner Welfare Membership Card (Expatriate Welfare Card)</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Repatriation of Dead Body" class="menu-sub-child-link" href="/pages/static-pages/6952668a35ce18e1c05a9e65" > <div>Repatriation of Dead Body</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Transfer of Residence" class="menu-sub-child-link" href="/pages/static-pages/6952667d35ce18e1c05a9859" > <div>Transfer of Residence</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Counseling and Dispute Settlement" class="menu-sub-child-link" href="/pages/static-pages/6952667f35ce18e1c05a9946" > <div>Counseling and Dispute Settlement</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Recovery of Death Compensation" class="menu-sub-child-link" href="/pages/static-pages/6952668f35ce18e1c05aa0d0" > <div>Recovery of Death Compensation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Visit of Deportation Centers, Central Jail and Hospitals" class="menu-sub-child-link" href="/pages/static-pages/6952667235ce18e1c05a9271" > <div>Visit of Deportation Centers, Central Jail and Hospitals</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Labour Wing Forms" class="menu-child-title"> <a title="Labour Wing Forms" href="#"> <div>Labour Wing Forms</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Legal Certificate Application Form" class="menu-sub-child-link" href="/pages/files/69526638a31054345f1021e1" > <div>Legal Certificate Application Form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" TR Forms and Rules" class="menu-sub-child-link" href="/pages/files/69526647a31054345f1032b7" > <div>TR Forms and Rules</div> </a> </li> <li class="menu-sub-child-list"> <a title=" TR Certificate Application Form" class="menu-sub-child-link" href="/pages/files/6952663ea31054345f102c51" > <div>TR Certificate Application Form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Visa Attestation Contract form" class="menu-sub-child-link" href="/pages/files/69526645a31054345f1031e8" > <div>Visa Attestation Contract form</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Authorization for Visa Attestation for one Individual" class="menu-sub-child-link" href="/pages/files/69526638a31054345f1022c1" > <div>Authorization for Visa Attestation for one Individual</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Authorization Letter for Visa Attestation for small company" class="menu-sub-child-link" href="/pages/files/69526644a31054345f10310f" > <div>Authorization Letter for Visa Attestation for small company</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Enclosure to Authorization Letter for Visa Attestation Letter for small company" class="menu-sub-child-link" href="/pages/files/69526639a31054345f1023c2" > <div>Enclosure to Authorization Letter for Visa Attestation Letter for small company</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Cover letter for the Attestation of Demand letter" class="menu-sub-child-link" href="/pages/files/69526648a31054345f1032fe" > <div>Cover letter for the Attestation of Demand letter</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Sample of Demand Letter" class="menu-sub-child-link" href="/pages/files/6952663ca31054345f10294f" > <div>Sample of Demand Letter</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Sample of Authorization letter for Demand Letter" class="menu-sub-child-link" href="/pages/files/6952663ca31054345f1028d2" > <div>Sample of Authorization letter for Demand Letter</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Sample Employement Contract" class="menu-sub-child-link" href="/pages/files/6952663ea31054345f102da4" > <div>Sample Employement Contract</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" News &amp; Events" href="" class="menu-parent-list-link"> News &amp; Events <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" News &amp; Events" class="menu-child-title"> <a title="News &amp; Events" href="#"> <div>News &amp; Events</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Press Release" class="menu-sub-child-link" href="/pages/press-releases" > <div>Press Release</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Photo Gallery" class="menu-sub-child-link" href="/pages/photo-galleries" > <div>Photo Gallery</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Video Gallery" class="menu-sub-child-link" href="/pages/video-galleries" > <div>Video Gallery</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Contact Us" href="" class="menu-parent-list-link"> Contact Us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Contact Us" class="menu-child-title"> <a title="Contact Us" href="#"> <div>Contact Us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Address and Phone Number" class="menu-sub-child-link" href="/pages/static-pages/6952667b35ce18e1c05a9765" > <div>Address and Phone Number</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Wing-wise Contact" class="menu-sub-child-link" href="/pages/static-pages/695266a835ce18e1c05aa9c1" > <div>Wing-wise Contact</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Write to (Ambassador/High-Commissioner/Consular General)" class="menu-sub-child-link" href="/pages/web-forms/6952650ab71fc04b614828c8" > <div>Write to (Ambassador/High-Commissioner/Consular General)</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Sonali Bank" href="/pages/static-pages/6952669b35ce18e1c05aa51c" class="menu-parent-list-link"> Sonali Bank </a> </li> </ul> </section> </div> <div class="expand-btn next-btn" style="display: none"> <span title="Next"><i class="ph ph-arrow-fat-right"></i></span> </div> </section> 
+            </div>
+        </div>
+        <div data-widget_type="widget" data-widget_name="EmbassyBannerSliderImageWidget" class="widget embassy-banner-slider-image-widget"> <div class="widget banner-slider-image-widget"> <div class="home-carousel"> <a class="slider images" target="_blank"> <img class="slider-image" src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-central-mofa/2024/12/09fc0d8006f34741810847cca5097d98.jpg " alt="MoFA"> </a> <a class="slider images" target="_blank"> <img class="slider-image" src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2026/1/408538e9-2239-4dcd-8826-063e501e8fa3.jpg " alt="Banner"> </a> <div class="slider-overlay widget-container-row"> <div class="slider-left container-col-4"> <a href="/"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-left-section"> <h1><a style="text-decoration: none" href="/" class="office-title"> Embassy of the People’s Republic of Bangladesh, Kuwait </a></h1> <!--<p class="office-subtitle">Government of the People's Republic of Bangladesh</p>--> <p class="office-subtitle"></p> </div> </div> <!-- <div class="container-col-4">--> <!-- <p class="office-caption">--> <!-- </p>--> <!-- </div>--> <div class="slider-controls container-col-4"> <button class="nav-btn slider-previous"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.7868L1.79976 6.88151L6.70508 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> <button class="nav-btn slider-play"> <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6445 20.8813C13.2967 20.8813 15.8402 19.8278 17.7156 17.9524C19.591 16.0771 20.6445 13.5335 20.6445 10.8813C20.6445 8.22918 19.591 5.68564 17.7156 3.81028C15.8402 1.93492 13.2967 0.881348 10.6445 0.881348C7.99237 0.881348 5.44883 1.93492 3.57346 3.81028C1.6981 5.68564 0.644531 8.22918 0.644531 10.8813C0.644531 13.5335 1.6981 16.0771 3.57346 17.9524C5.44883 19.8278 7.99237 20.8813 10.6445 20.8813ZM10.0883 7.34135C9.90003 7.21575 9.68121 7.14361 9.45518 7.13263C9.22914 7.12165 9.00436 7.17224 8.80482 7.27901C8.60529 7.38577 8.43848 7.5447 8.32219 7.73884C8.2059 7.93298 8.1445 8.15504 8.14453 8.38135V13.3813C8.1445 13.6077 8.2059 13.8297 8.32219 14.0239C8.43848 14.218 8.60529 14.3769 8.80482 14.4837C9.00436 14.5905 9.22914 14.641 9.45518 14.6301C9.68121 14.6191 9.90003 14.5469 10.0883 14.4213L13.8383 11.9213C14.0095 11.8072 14.1498 11.6525 14.2469 11.4711C14.344 11.2897 14.3948 11.0871 14.3948 10.8813C14.3948 10.6756 14.344 10.473 14.2469 10.2916C14.1498 10.1102 14.0095 9.9555 13.8383 9.84135L10.0883 7.34135Z" fill="currentColor" /> </svg> </button> <button class="nav-btn slider-next"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.58447 11.7868L6.48979 6.88151L1.58447 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> </div> </div> </div> </div> </div>
+        
+    </div></div>
+  <div class="wrapper">
+    <div class="body"><div data-section_type="body" class="droppable">
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">Click to share this content</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>Give your opinion</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>Give your opinion</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">Your Name</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="Enter Your Name"
+        />
+        <small class="error-message" hidden>
+          Name is required
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Email</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="Enter Your Email"
+        />
+        <small class="error-message" hidden>
+          Enter a valid email address
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Contact Number</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="Enter Your Contact Number"
+        />
+        <small class="error-message" hidden>
+          Enter a valid phone number (e.g. 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Write your opinion</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          Opinion must be at least 20 characters
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">Submit</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <!--<script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>-->
+  <script src="/site-assets/js/ckeditor5-41.4.2-classic-ckeditor.min.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+                <div data-widget_type="widget" data-widget_name="ContentViewerWidget" class="widget content-viewer-widget" data-sub-widget="TitleWithImageContentWidget"> <div class="content-update-block"> <p> This content was last updated on: Sunday, July 17, 2022 at 01:16 PM </p> </div> <div class="widget print-widget"> <div></div> <div onclick="window._print_content(this);" title="Print" class="print-btn"><i class="ph ph-printer"></i></div> </div> <div class="widget title-with-image-content-widget"> <h2> MRP Reissue </h2> <p class="chips"> <span class="basic-chip">Content: Pages</span> </p> <div class="image-list"> </div> <rt-renderer encoded-content="PGgxPjxpbWcgc3JjPSJodHRwczovL29iamVjdHN0b3JhZ2UuYXAtZGNjLWdhemlwdXItMS5vcmFjbGVjbG91ZDE1LmNvbS9uL2F4dmpibnFwcnlsZy9iL1YyTWluaXN0cnkvby9vZmZpY2Uta3V3YWl0LW1vZmEvMjAyNC8xMi83YzA3MGQzNzQwNmM0NGQwOTNlMWRmOTUzMjA2ZTUyYS5wbmciIHN0eWxlPSJ3aWR0aDogMzAwcHg7IiBjbGFzcz0iZnItZmljIGZyLWRpYiIgZGF0YS1yZXN1bHQ9InN1Y2Nlc3MiPjwvaDE+Cgo8cD4KCTxicj4KPC9wPgoKPHRhYmxlPgoJPHRib2R5PgoJCTx0cj4KCQkJPHRkPjxzdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMzBweDsiPk92ZXJ2aWV3PC9zcGFuPjwvc3Ryb25nPjwvdGQ+CgkJPC90cj4KCTwvdGJvZHk+CjwvdGFibGU+Cgo8dWw+Cgk8bGk+Q3VycmVudGx5LCB0aGUgTVBSIGlzIHZhbGlkIGZvciA1IHllYXJzIGFuZCBpdCBpcyBub3QgcmVuZXdhYmxlIGxpa2UgdGhlIGhhbmQtd3JpdHRlbiBwYXNzcG9ydC4gQXMgc3VjaCxNUlAgc2hvdWxkIGJlIHJlLWlzc3VlZCBvbmNlIHRoZSB2YWxpZGl0eSBpcyBhYm91dCB0byBleHBpcmU8L2xpPgoJPGxpPlBsZWFzZSBub3RlIHRoYXQgYSBuZXcgTVJQIHdpbGwgYmUgaXNzdWVkIGluIGNhc2Ugb2YgTVJQIHJlaXNzdWUuPC9saT4KCTxsaT5QbGVhc2UgPGEgaHJlZj0iL3BhZ2VzL2ZpbGVzLzY5NTI2NjQzYTMxMDU0MzQ1ZjEwMzA5ZSI+Y2xpayBoZXJlPC9hPiBmb3IgUmUtSXNzdWUgYXBwbGljYXRpb24gZm9ybS48L2xpPgoJPGxpPgoJCTxicj4KCTwvbGk+CjwvdWw+Cgo8aDE+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTRwdDsiPj48L3NwYW4+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTRwdDsiPkVsaWdpYmlsaXR5PC9zcGFuPjwvaDE+Cgo8dWw+Cgk8bGk+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPkJhbmdsYWRlc2hpIGNpdGl6ZW48L3NwYW4+PC9saT4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+T25lIHdobyBoYXMgYSBwcmV2aW91cyBNUlAuPC9zcGFuPjwvbGk+Cgk8bGk+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPkEgQmFuZ2xhZGVzaGkgY2l0aXplbiB3aG8gaXMgbm90IGJhcnJlZCB0byBoYXZlIGEgcGFzc3BvcnQgYnkgYW55IENvdXJ0IG9mIEp1c3RpY2Ugb3IgYnkgdGhlIEdvdmVybm1lbnQgb2YgQmFuZ2xhZGVzaC48L3NwYW4+PC9saT4KPC91bD4KCjxwPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij7CoDwvc3Bhbj48L3A+Cgo8aDE+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTRwdDsiPj5SZXF1aXJlbWVudHM8L3NwYW4+PC9oMT4KCjx1bD4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+Q2xlYXIgcGhvdG9jb3B5IG9mIHRoZSBwcmV2aW91cyBNUlAuPC9zcGFuPjwvbGk+Cgk8bGk+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPkZpbGxlZC11cCDigJxSZS1pc3N1ZSBBcHBsaWNhdGlvbiBGb3Jt4oCdLjwvc3Bhbj48L2xpPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5Db3B5IG9mIEt1d2FpdGkgQ2l2aWwgSUQvVmlzYS9FcWFtYS48L3NwYW4+PC9saT4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+QmFuayByZWNlaXB0IG9mIGRlcG9zaXRpb24gb2YgUGFzc3BvcnQgZmVlcy4gWW91IGNhbiBhbHNvIGRlcG9zaXQgZmVlcyB0byB0aGUgcGF5bWVudCBjb3VudGVyIGluIHRoZSBlbWJhc3N5Ljwvc3Bhbj48L2xpPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5Gb3IgY2hpbGRyZW4gKGJlbG93IDE4IHllYXJzKSwgMiBjb3BpZXMgb2YgcmVjZW50IHBob3RvZ3JhcGhzIChwYXNzcG9ydCBzaXplIHdpdGggd2hpdGUgYmFja2dyb3VuZCkgc2hvdWxkIGJlIGF0dGFjaGVkIHdpdGggdGhlIGFwcGxpY2F0aW9uLjwvc3Bhbj48L2xpPgo8L3VsPgoKPHA+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPsKgPC9zcGFuPjwvcD4KCjxoMT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxNHB0OyI+PkZlZXM8L3NwYW4+PC9oMT4KCjx1bD4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+Rm9yIG9yZGluYXJ5IHdvcmtlcnMgYW5kIHN0dWRlbnRzLCBlYWNoIGFwcGxpY2FudCBuZWVkcyB0byBwYXkgS1dEIDkuNTAwIGZvciBSZWd1bGFyIChOb3JtYWwpIGRlbGl2ZXJ5IGFuZCBLV0QgMzAuMjUwIGZvciBFeHByZXNzKFVyZ2VudCkgZGVsaXZlcnkuPC9zcGFuPjwvbGk+Cgk8bGk+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPkZvciBPdGhlciBwcm9mZXNzaW9uYWxzIChNYW5hZ2VyaWFsIHN0YWZmIHN1Y2ggYXMsIHN1cGVydmlzb3JzLCBjb21wYW55IHJlcHJlc2VudGF0aXZlcyBvciBNYW5kdXZzLCBtYW5hZ2VycywgYWNjb3VudHMgc3RhZmYsIGFkdm9jYXRlcywgZG9jdG9ycywgZW5naW5lZXJzLCBkZXBlbmRlbnQgZmFtaWx5IG1lbWJlcnMgZXRjLikgS1dEIDMwLjI1MCBmb3IgUmVndWxhciAoTm9ybWFsKSBkZWxpdmVyeSBhbmQgS1dEIDYwLjUwMCBmb3IgRXhwcmVzcyhVcmdlbnQpIGRlbGl2ZXJ5LsKgPC9zcGFuPjwvbGk+CjwvdWw+Cgo8cD48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+wqA8L3NwYW4+PC9wPgoKPGgxPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDE0cHQ7Ij4+SG93IFRvIFBheTwvc3Bhbj48L2gxPgoKPHA+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPlBheW1lbnQgaXMgdG8gYmUgbWFkZSBieSB0aGUgYXBwbGljYW50IGluIGNhc2ggYXQgdGhlIHBheW1lbnQgY291bnRlciBpbiB0aGUgRW1iYXNzeS4gQmVmb3JlIGdvaW5nIHRvIHBheSwgdGhlIGFwcGxpY2FudCBtdXN0IGZpbGwgdXAgdGhlIOKAnFJlLWlzc3VlIEFwcGxpY2F0aW9uIEZvcm3igJ0gcHJvcGVybHkgYW5kIFNJR04gaXQgb24gdGhlIGxpbmUgbWFya2VkIGZvciB0aGF0LiBUaGlzIGZvcm0gc2hvdWxkIGJlIHByb2R1Y2VkIGJlZm9yZSB0aGUgY291bnRlciBkdXJpbmcgcGF5bWVudC48L3NwYW4+PC9wPgoKPHA+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPsKgPC9zcGFuPjwvcD4KCjxoMT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxNHB0OyI+PkhvdyBUbyBBcHBseTwvc3Bhbj48L2gxPgoKPHA+PHN0cm9uZz48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+U3RlcC0xOiDCoEZpbGxpbmcgdXAgdGhlIGFwcGxpY2F0aW9uIGZvcm08L3NwYW4+PC9zdHJvbmc+PC9wPgoKPHVsPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5Eb3dubG9hZCDigJw8YSBkYXRhLW1jZS1ocmVmPSJwYXNzcG9ydC1yZWlzc3VlLWZvcm0ucGRmIiBocmVmPSIvcGFnZXMvZmlsZXMvNjk1MjY2NDNhMzEwNTQzNDVmMTAzMDllIj5SZS1pc3N1ZSBBcHBsaWNhdGlvbiBGb3JtPC9hPuKAnSBhbmQgZ2V0IGEgcHJpbnQsIHRoZW4gRklMTC1VUCB0aGUgc3VnZ2VzdGVkIHNlY3Rpb25zIGV4Y2VwdCB0aGUgb25lIGZvciBQQVlNRU5ULjwvc3Bhbj48L2xpPgo8L3VsPgoKPHA+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPjxhIGRhdGEtbWNlLWhyZWY9InBhc3Nwb3J0LXJlaXNzdWUtZm9ybS5wZGYiIGhyZWY9Ii9wYWdlcy9maWxlcy82OTUyNjY0M2EzMTA1NDM0NWYxMDMwOWUiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwczovL29iamVjdHN0b3JhZ2UuYXAtZGNjLWdhemlwdXItMS5vcmFjbGVjbG91ZDE1LmNvbS9uL2F4dmpibnFwcnlsZy9iL1YyTWluaXN0cnkvby9vZmZpY2Uta3V3YWl0LW1vZmEvMjAyNC8xMi8xOWE4M2Q5MzgxYjM0YTJlYjM0ZjNmNGYwMGI2MjIyNS5wbmciIGFsdD0iIiBoZWlnaHQ9IjQyIiB3aWR0aD0iMjQyIiBjbGFzcz0iZnItZmljIGZyLWRpaSIgZGF0YS1yZXN1bHQ9InN1Y2Nlc3MiPjwvYT48L3NwYW4+PC9wPgoKPHVsPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5Zb3UgY2FuIGFsc28gRmlsbC11cCB0aGUgZm9ybSBvbmxpbmUgKFBsZWFzZSB2aXNpdCA8YSBkYXRhLW1jZS1ocmVmPSJodHRwOi8vd3d3LnBhc3Nwb3J0Lmdvdi5iZCIgaHJlZj0iaHR0cDovL3d3dy5wYXNzcG9ydC5nb3YuYmQvRGVmYXVsdC5hc3B4IiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5DTElDSyBIRVJFPC9hPikgYW5kIHRoZW4gZ2V0IGEgcHJpbnQuPC9zcGFuPjwvbGk+CjwvdWw+Cgo8cD48c3Ryb25nPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5TdGVwLTI6IFBheW1lbnQ8L3NwYW4+PC9zdHJvbmc+PC9wPgoKPHVsPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5BcHBsaWNhbnQgbmVlZHMgdG8gY29tZSB0byB0aGUgZW1iYXNzeSBpbiBwZXJzb24gdG8gbWFrZSB0aGUgcGF5bWVudC4gRm9yIGNoaWxkcmVuLCBwYXJlbnRzIG9yIGF1dGhvcml6ZWQgcGVyc29uIHNob3VsZCBjb21lIHdpdGggdGhlIGFwcGxpY2FudC48L3NwYW4+PC9saT4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+QXR0YWNoIHBob3RvY29waWVzIG9mIHByZXZpb3VzIE1SUCBhbmQgS3V3YWl0aSBDaXZpbCBJRC9FcWFtYSB3aXRoIHRoZSDigJxSZS1pc3N1ZSBBcHBsaWNhdGlvbiBGb3Jt4oCdLiBGb3IgY2hpbGRyZW4gb3ZlciAyeWVhcnMsIDIgY29waWVzIG9mIHJlY2VudCBwaG90b2dyYXBocyBzaG91bGQgYWxzbyBiZSBhdHRhY2hlZC48L3NwYW4+PC9saT4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+VGFrZSBhIHRva2VuIGFuZCBhcHByb2FjaCB0byB0aGUgcGF5bWVudCBjb3VudGVyIHdpdGggY29tcGxldGVkIGFwcGxpY2F0aW9uIGZvcm0uPC9zcGFuPjwvbGk+CjwvdWw+Cgo8cD48c3Ryb25nPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5TdGVwLTM6IEJpby1tZXRyaWMgRW5yb2xtZW50PC9zcGFuPjwvc3Ryb25nPjwvcD4KCjx1bD4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+RnJvbSB0aGUgcGF5bWVudCBjb3VudGVyLCB5b3Ugd2lsbCBiZSBwdXQgaW4gYSBxdWV1ZSBmb3IgQmlvLWVucm9sbWVudC4gT3VyIG9wZXJhdG9ycyB3aWxsIHRha2UgeW91ciBwaG90b2dyYXBoIGFuZCBmaW5nZXJwcmludCBhbmQgYWxzbyBnaXZlIG90aGVyIG5lY2Vzc2FyeSBlbnRyaWVzLiBBZnRlciBhIGZldyBtb21lbnRzLCB5b3Ugd2lsbCBiZSBnaXZlbiBhIHByaW50IGNvcHkgb2YgYWxsIHJlcXVpcmVkIGluZm9ybWF0aW9uIGJlaW5nIHN1Ym1pdHRlZCB0byB0aGUgcGFzc3BvcnQgc3lzdGVtLiBZb3UgaGF2ZSB0aGUgb3Bwb3J0dW5pdHkgdG8gbWFrZSBjb3JyZWN0aW9ucyBmb3IgYW55IG1pc3Rha2UsIHRoZW4geW91IGNvbmZpcm0gYW5kIHNpZ24gaXQuIFRoZSBvcGVyYXRvciB3aWxsIGZpbmFsaXplIHRoZSBzdWJtaXNzaW9uIGFuZCBnaXZlIHlvdSBhIERFTElWRVJZIFNMSVAgd2l0aCBhIGRhdGUgbWVudGlvbmVkIGZvciBkZWxpdmVyeS4gVGhlIHdob2xlIHByb2Nlc3Mgb2Ygc3RlcC0zIG1heSB1c3VhbGx5IHRha2Ugbm8gbW9yZSB0aGFuIDUgbWludXRlcyBmb3IgZWFjaCBhcHBsaWNhbnQuPC9zcGFuPjwvbGk+CjwvdWw+Cgo8cD48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+wqA8L3NwYW4+PC9wPgoKPHA+PHN0cm9uZz48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+U3RlcC00OiBEb25lISE8L3NwYW4+PC9zdHJvbmc+PC9wPgoKPHVsPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5Zb3UgYXJlIGRvbmUuIFlvdSBjYW4gbm93IG1vdmUgZWxzZXdoZXJlIG9uIHlvdXIgY2hvaWNlLjwvc3Bhbj48L2xpPgo8L3VsPgoKPHA+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPsKgPC9zcGFuPjwvcD4KCjxoMT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxNHB0OyI+PkRlbGl2ZXJ5IG9mIFBhc3Nwb3J0czwvc3Bhbj48L2gxPgoKPHVsPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5Vc3VhbGx5IGl0IHRha2VzIDIwIGRheXMgZm9yIFVSR0VOVChleHByZXNzKSBhbmQgNDAgZGF5cyBmb3IgTk9STUFMKHJlZ3VsYXIpIGRlbGl2ZXJ5IGZyb20gdGhlIGRhdGUgb2Ygc3VibWlzc2lvbi4gSG93ZXZlciwgdW5hdm9pZGFibGUgY2lyY3Vtc3RhbmNlcyBtaWdodCBjYXVzZSBkZWxheS4gQ3VycmVudGx5IGl0IGlzIHRha2luZyBsb25nZXIgdGhhbiB1c3VhbC4gQXBwbGljYW50cyBhcmUgYWR2aXNlZCB0byBmb2xsb3cgdGhlIGRhdGUgbWVudGlvbmVkIGluIHRoZSBTRUFMIGdpdmVuIG9uIHRoZSBkZWxpdmVyeSBzbGlwLjwvc3Bhbj48L2xpPgo8L3VsPgoKPHA+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPsKgPC9zcGFuPjwvcD4KCjx1bD4KCTxsaT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+RGVsaXZlcnkgb2YgUGFzc3BvcnRzIHN0YXJ0cyBhdCAyLjAwIHBtIGV2ZXJ5IGJ1c2luZXNzIGRheSBhbmQgY29udGludWVzIHVudGlsIDQuMDAgcG0uIFRoZSBhcHBsaWNhbnQgb3IgYSBkdWx5IGF1dGhvcml6ZWQgcGVyc29uIG1heSByZWNlaXZlIHRoZSBwYXNzcG9ydC4gSW4gZWFjaCBjYXNlLCB0aGUgcmVjaXBpZW50IHdpbGwgYmUgYXNrZWQgdG8gcHJvZHVjZSB0aGUgb3JpZ2luYWwgb2xkIHBhc3Nwb3J0IGFuZCB0aGUgb3JpZ2luYWwgZGVsaXZlcnkgc2xpcCBhdCB0aGUgZGVsaXZlcnkgY291bnRlci4gU28sIHBsZWFzZSBETyBOT1QgZm9yZ2V0IHRvIGJyaW5nIHRoZSBvcmlnaW5hbCBPTEQgcGFzc3BvcnQgYW5kIHRoZSBPcmlnaW5hbCBkZWxpdmVyeSBzbGlwIHRvIHRha2UgdGhlIGRlbGl2ZXJ5Ljwvc3Bhbj48L2xpPgoJPGxpPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5XaGlsZSB0aGUgbmV3IHBhc3Nwb3J0IGJlaW5nIGRlbGl2ZXJlZCwgdGhlIG9sZCBwYXNzcG9ydCB3aWxsIGFsc28gYmUgZ2l2ZW4gYmFjayB0byB5b3Ugd2l0aCBhbiBvYnNlcnZhdGlvbiBzZWFsLiBQbGVhc2UgY2hlY2sgeW91ciBwYXNzcG9ydCBiZWZvcmUgbGVhdmluZyB0aGUgY291bnRlciB0byBlbnN1cmUgeW91ciBwYXNzcG9ydCBpcyB0aGUgY29ycmVjdCBvbmUgYW5kIGFsc28geW91IGhhdmUgcmVjZWl2ZWQgeW91ciBvbGQgcGFzc3BvcnQgYmFjay48L3NwYW4+PC9saT4KPC91bD4KCjxoMT48c3BhbiBkYXRhLW1jZS1zdHlsZT0iZm9udC1zaXplOiAxNHB0OyI+PlRvIHRyYWNrIHlvdXIgcGFzc3BvcnQgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3c6PC9zcGFuPjwvaDE+Cgo8cCBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPjxzcGFuIGRhdGEtbWNlLXN0eWxlPSJmb250LXNpemU6IDE0cHQ7Ij48YSBjbGFzcz0ib2MtbGluay1ncmVlbiIgaHJlZj0iaHR0cDovL3d3dy5wYXNzcG9ydC5nb3YuYmQvT25saW5lU3RhdHVzLmFzcHgiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPkNMSUNLIEhFUkU8L2E+PC9zcGFuPjwvcD4KCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyI+PHNwYW4gZGF0YS1tY2Utc3R5bGU9ImZvbnQtc2l6ZTogMTRwdDsiPjxhIGhyZWY9Imh0dHA6Ly93d3cucGFzc3BvcnQuZ292LmJkL09ubGluZVN0YXR1cy5hc3B4IiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cHM6Ly9vYmplY3RzdG9yYWdlLmFwLWRjYy1nYXppcHVyLTEub3JhY2xlY2xvdWQxNS5jb20vbi9heHZqYm5xcHJ5bGcvYi9WMk1pbmlzdHJ5L28vb2ZmaWNlLWt1d2FpdC1tb2ZhLzIwMjQvMTIvNjdhM2Q4NzlkYzRhNGY0YWJmMzc3ZDMzMWI1NDc1N2IuanBnIiBzdHlsZT0id2lkdGg6IDk5cHg7IiBjbGFzcz0iZnItZmljIGZyLWRpYiBmci1maWwiIGRhdGEtcmVzdWx0PSJzdWNjZXNzIj48L2E+PC9zcGFuPjwvcD4="><h1><img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/7c070d37406c44d093e1df953206e52a.png" style="width: 300px;" class="fr-fic fr-dib" data-result="success"></h1> <p> <br> </p> <table> <tbody> <tr> <td><strong><span style="font-size: 30px;">Overview</span></strong></td> </tr> </tbody> </table> <ul> <li>Currently, the MPR is valid for 5 years and it is not renewable like the hand-written passport. As such,MRP should be re-issued once the validity is about to expire</li> <li>Please note that a new MRP will be issued in case of MRP reissue.</li> <li>Please <a href="/pages/files/69526643a31054345f10309e">clik here</a> for Re-Issue application form.</li> <li> <br> </li> </ul> <h1><span data-mce-style="font-size: 14pt;">></span><span data-mce-style="font-size: 14pt;">Eligibility</span></h1> <ul> <li><span data-mce-style="font-size: 12pt;">Bangladeshi citizen</span></li> <li><span data-mce-style="font-size: 12pt;">One who has a previous MRP.</span></li> <li><span data-mce-style="font-size: 12pt;">A Bangladeshi citizen who is not barred to have a passport by any Court of Justice or by the Government of Bangladesh.</span></li> </ul> <p><span data-mce-style="font-size: 12pt;"> </span></p> <h1><span data-mce-style="font-size: 14pt;">>Requirements</span></h1> <ul> <li><span data-mce-style="font-size: 12pt;">Clear photocopy of the previous MRP.</span></li> <li><span data-mce-style="font-size: 12pt;">Filled-up “Re-issue Application Form”.</span></li> <li><span data-mce-style="font-size: 12pt;">Copy of Kuwaiti Civil ID/Visa/Eqama.</span></li> <li><span data-mce-style="font-size: 12pt;">Bank receipt of deposition of Passport fees. You can also deposit fees to the payment counter in the embassy.</span></li> <li><span data-mce-style="font-size: 12pt;">For children (below 18 years), 2 copies of recent photographs (passport size with white background) should be attached with the application.</span></li> </ul> <p><span data-mce-style="font-size: 12pt;"> </span></p> <h1><span data-mce-style="font-size: 14pt;">>Fees</span></h1> <ul> <li><span data-mce-style="font-size: 12pt;">For ordinary workers and students, each applicant needs to pay KWD 9.500 for Regular (Normal) delivery and KWD 30.250 for Express(Urgent) delivery.</span></li> <li><span data-mce-style="font-size: 12pt;">For Other professionals (Managerial staff such as, supervisors, company representatives or Manduvs, managers, accounts staff, advocates, doctors, engineers, dependent family members etc.) KWD 30.250 for Regular (Normal) delivery and KWD 60.500 for Express(Urgent) delivery. </span></li> </ul> <p><span data-mce-style="font-size: 12pt;"> </span></p> <h1><span data-mce-style="font-size: 14pt;">>How To Pay</span></h1> <p><span data-mce-style="font-size: 12pt;">Payment is to be made by the applicant in cash at the payment counter in the Embassy. Before going to pay, the applicant must fill up the “Re-issue Application Form” properly and SIGN it on the line marked for that. This form should be produced before the counter during payment.</span></p> <p><span data-mce-style="font-size: 12pt;"> </span></p> <h1><span data-mce-style="font-size: 14pt;">>How To Apply</span></h1> <p><strong><span data-mce-style="font-size: 12pt;">Step-1: Filling up the application form</span></strong></p> <ul> <li><span data-mce-style="font-size: 12pt;">Download “<a data-mce-href="passport-reissue-form.pdf" href="/pages/files/69526643a31054345f10309e">Re-issue Application Form</a>” and get a print, then FILL-UP the suggested sections except the one for PAYMENT.</span></li> </ul> <p><span data-mce-style="font-size: 12pt;"><a data-mce-href="passport-reissue-form.pdf" href="/pages/files/69526643a31054345f10309e" rel="noopener noreferrer" target="_blank"><img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/19a83d9381b34a2eb34f3f4f00b62225.png" alt="" height="42" width="242" class="fr-fic fr-dii" data-result="success"></a></span></p> <ul> <li><span data-mce-style="font-size: 12pt;">You can also Fill-up the form online (Please visit <a data-mce-href="http://www.passport.gov.bd" href="http://www.passport.gov.bd/Default.aspx" rel="noopener noreferrer" target="_blank">CLICK HERE</a>) and then get a print.</span></li> </ul> <p><strong><span data-mce-style="font-size: 12pt;">Step-2: Payment</span></strong></p> <ul> <li><span data-mce-style="font-size: 12pt;">Applicant needs to come to the embassy in person to make the payment. For children, parents or authorized person should come with the applicant.</span></li> <li><span data-mce-style="font-size: 12pt;">Attach photocopies of previous MRP and Kuwaiti Civil ID/Eqama with the “Re-issue Application Form”. For children over 2years, 2 copies of recent photographs should also be attached.</span></li> <li><span data-mce-style="font-size: 12pt;">Take a token and approach to the payment counter with completed application form.</span></li> </ul> <p><strong><span data-mce-style="font-size: 12pt;">Step-3: Bio-metric Enrolment</span></strong></p> <ul> <li><span data-mce-style="font-size: 12pt;">From the payment counter, you will be put in a queue for Bio-enrolment. Our operators will take your photograph and fingerprint and also give other necessary entries. After a few moments, you will be given a print copy of all required information being submitted to the passport system. You have the opportunity to make corrections for any mistake, then you confirm and sign it. The operator will finalize the submission and give you a DELIVERY SLIP with a date mentioned for delivery. The whole process of step-3 may usually take no more than 5 minutes for each applicant.</span></li> </ul> <p><span data-mce-style="font-size: 12pt;"> </span></p> <p><strong><span data-mce-style="font-size: 12pt;">Step-4: Done!!</span></strong></p> <ul> <li><span data-mce-style="font-size: 12pt;">You are done. You can now move elsewhere on your choice.</span></li> </ul> <p><span data-mce-style="font-size: 12pt;"> </span></p> <h1><span data-mce-style="font-size: 14pt;">>Delivery of Passports</span></h1> <ul> <li><span data-mce-style="font-size: 12pt;">Usually it takes 20 days for URGENT(express) and 40 days for NORMAL(regular) delivery from the date of submission. However, unavoidable circumstances might cause delay. Currently it is taking longer than usual. Applicants are advised to follow the date mentioned in the SEAL given on the delivery slip.</span></li> </ul> <p><span data-mce-style="font-size: 12pt;"> </span></p> <ul> <li><span data-mce-style="font-size: 12pt;">Delivery of Passports starts at 2.00 pm every business day and continues until 4.00 pm. The applicant or a duly authorized person may receive the passport. In each case, the recipient will be asked to produce the original old passport and the original delivery slip at the delivery counter. So, please DO NOT forget to bring the original OLD passport and the Original delivery slip to take the delivery.</span></li> <li><span data-mce-style="font-size: 12pt;">While the new passport being delivered, the old passport will also be given back to you with an observation seal. Please check your passport before leaving the counter to ensure your passport is the correct one and also you have received your old passport back.</span></li> </ul> <h1><span data-mce-style="font-size: 14pt;">>To track your passport click on the link below:</span></h1> <p style="text-align: left;"><span data-mce-style="font-size: 14pt;"><a class="oc-link-green" href="http://www.passport.gov.bd/OnlineStatus.aspx" rel="noopener noreferrer" target="_blank">CLICK HERE</a></span></p> <p style="text-align: left;"><span data-mce-style="font-size: 14pt;"><a href="http://www.passport.gov.bd/OnlineStatus.aspx" rel="noopener noreferrer" target="_blank"><img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/67a3d879dc4a4f4abf377d331b54757b.jpg" style="width: 99px;" class="fr-fic fr-dib fr-fil" data-result="success"></a></span></p></rt-renderer> <div class="title-with-image-content-widget-content-files active"> <div class="chip-list"> <div class="chip" data-index="files-0" title='File 1'> File 1 <a title="Click here to download" style="text-decoration: none;color: inherit;background-color: #0002;padding: 8px" href="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/492df9c0e49c4752844f33f47ec13b03.pdf"> <i class="ph ph-download-simple download-icon"></i> </a> </div> </div> <div style="height:700px" class="title-with-image-content-widget-content-pdf"> <object id="pdf-viewer-0" width="100%" height="600" data="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/492df9c0e49c4752844f33f47ec13b03.pdf" type="application/pdf" class="active"> <h3>File preview not supported in web browser</h3> <p>File 1</p> <a title="Click here to download" download="File 1" style="text-decoration: none;color: inherit;background-color: #0002;padding: 8px" href="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kuwait-mofa/2024/12/492df9c0e49c4752844f33f47ec13b03.pdf"> <i class="ph ph-download-simple download-icon"></i> <span>Download</span> </a> </object> </div> </div> </div> </div> 
+                <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">Click to share this content</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>Give your opinion</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>Give your opinion</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">Your Name</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="Enter Your Name"
+        />
+        <small class="error-message" hidden>
+          Name is required
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Email</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="Enter Your Email"
+        />
+        <small class="error-message" hidden>
+          Enter a valid email address
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Contact Number</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="Enter Your Contact Number"
+        />
+        <small class="error-message" hidden>
+          Enter a valid phone number (e.g. 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Write your opinion</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          Opinion must be at least 20 characters
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">Submit</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <!--<script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>-->
+  <script src="/site-assets/js/ckeditor5-41.4.2-classic-ckeditor.min.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+            </div>
+        </div>
+    <div data-widget_type="widget" data-widget_name="AccessibilityWidget" class="widget accessibility-widget"> <div class="accessibility-float fab-icon" id="accessibility-btn" title="Accessibility"> <i class="ph ph-wheelchair-motion"></i> </div> <div class="accessibility-card" id="accessibility-card"> <h3 id="accessibility-card-title" tabindex="0">Accessibility</h3> <div id="accessibility-close" tabindex="0" title="Close"> <icon class="ph ph-x-circle"></icon> </div> <div class="item"> <button id="font-increase">Font Increase</button> <button id="font-decrease">Font Decrease</button> </div> <div class="item"> <input type="checkbox" id="monochrome" title="Monochrome" /> <label for="monochrome">Monochrome</label> </div> <div class="item"> <input type="checkbox" id="inverted" title="Invert" /> <label for="inverted">Invert</label> </div> <div class="item"> <input type="checkbox" id="bigCursor" title="Big Cursor" /> <label for="bigCursor">Big Cursor</label> </div> <div class="item"> <input type="checkbox" id="highlightLinks" title="Highlight Links" /> <label for="highlightLinks">Highlight Links</label> </div> <div class="item"> <input type="checkbox" id="highlightHeadings" title="Highlight Headings" /> <label for="highlightHeadings">Highlight Headings</label> </div> <div class="item"> <input type="checkbox" id="readingGuideCheckbox" title="Reading Guide" /> <label for="readingGuideCheckbox">Reading Guide</label> </div> <div class="item"> <button class="accessibility-reset">Reset</button> </div> <a class='screen-reader' target="_blank" rel="noreferrer" href="https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe">Download Screen Reader</a> </div> <!-- TODO: [naeemur] add some more tab navigate options --> <div class="tab-menu"> <a href="#main-content" class="skip-link">Skip to content</a> <a href="#accessibility-card-title" class="skip-link menu-href">Go to accessibility menu</a> </div> </div> 
+<div data-widget_type="widget" data-widget_name="GoToTopWidget" class="widget go-to-top-widget"> <div class="go-to-top-float x-fab-icon" id="go-to-top-btn" title="Go to top"> <i class="ph ph-caret-up"></i> </div> </div> 
+</div></div>
+  </div>
+  <div class="footer"><div data-section_type="footer" class="droppable">
+         <footer data-widget_type="widget" data-widget_name="NewLandingFooterWidget" class="widget new-landing-footer-widget"> <div class="footer-decoration"> <div class="decorative-left"> <img src="/site-assets/images/left-footer.png" alt="Decorative Left"> </div> <div class="decorative-right"> <img src="/site-assets/images/right-footer.png" alt="Decorative Right"> </div> </div> <div class="footer-disclaimer"> All information published on this website is regularly updated by the respective government office. The office makes every effort to ensure that the information is accurate, correct, and reliable. </div> <div class="footer-content container"> <div class="footer-left"> <ul class="footer-links"> </ul> <div class="copyright"> <p> &copy; 2026 All Rights Reserved to bangladesh.gov.bd(National Portal) </p> <p class="last-updated"> Site last updated: Sunday, November 8, 2026 at 12:27:03 </p> </div> </div> <div class="footer-right"> <div class="planning-section"> <p class="planning-title">Planning and implementation</p> <div class="planning-logos"> <img src="/site-assets/images/a2iset.png" alt="a2i"> </div> </div> </div> </div> </footer> 
+    </div></div>
+</div>
+<script>const _window=window; const _document=document;</script>
+<script src="/site-assets/js/index.js"></script>
+<script src="/widget-assets/js/TopHeaderBlockWidget"></script>
+<script src="/widget-assets/js/SimpleHeaderWidget"></script>
+<script src="/widget-assets/js/LanguageSwitcherWidget"></script>
+<script src="/widget-assets/js/MenusSliderWidget"></script>
+<script src="/widget-assets/js/MenusWidget"></script>
+<script src="/widget-assets/js/EmbassyBannerSliderImageWidget"></script>
+<script src="/widget-assets/js/BannerSliderImageWidget"></script>
+<script src="/widget-assets/js/SocialContentShareWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionPopupWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionFormWidget"></script>
+<script src="/widget-assets/js/ContentViewerWidget"></script>
+<script src="/widget-assets/js/PrintWidget"></script>
+<script src="/widget-assets/js/AccessibilityWidget"></script>
+<script src="/widget-assets/js/GoToTopWidget"></script>
+<script src="/widget-assets/js/TitleWithImageContentWidget"></script>
+<script src="/widget-assets/js/ContentDetailsWidget"></script>
+<script src="/widget-assets/js/NewLandingFooterWidget"></script>
+
+<script src="/assets/js/index.js"></script>
+</body>
+</html>

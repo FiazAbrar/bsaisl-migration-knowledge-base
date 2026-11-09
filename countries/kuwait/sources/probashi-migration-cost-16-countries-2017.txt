@@ -1,0 +1,2514 @@
+               BANGLADESH
+
+           "//6"-.*(3"5*0/
+                                             REPORT 2017
+
+MINISTRY OF EXPATRIATES' WELFARE AND OVERSEAS EMPLOYMENT
+The opinions expressed in the report are those of the authors and do not necessarily reflect the views
+of the International Organization for Migration (IOM). The designations employed and the presentation
+of material throughout the report do not imply expression of any opinion whatsoever on the part of
+IOM concerning legal state of any country, territory, city or area, or of its authorities, or concerning its
+frontiers or boundaries.
+
+IOM is committed to the principle that humane and orderly migration benefits migrants and society. As
+an intergovernmental organization, IOM acts with its partners in the international community to: assist in
+the meeting of operational challenges of migration; advance understanding of migration issues; encourage
+social and economic development through migration; and uphold the human dignity and well-being of
+migrants.
+
+The map on the cover is for illustration purposes only. The boundaries and names shown and the
+designations used on this map do not imply official endorsement or acceptance by the International
+Organization for Migration.
+
+This publication has not been formally edited by IOM.
+
+Publisher:  International Organization for Migration ­ IOM Bangladesh
+            House 13/A, Road 136
+            Gulshan 1, Dhaka 1212
+            Bangladesh
+            Tel.: +88 02 5504 4811 - 13
+            Fax: +88 02 5504 4818 ­ 19
+            Email:
+            Website: www.iom.int
+
+Copyright:
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise
+without the prior written permission of the publisher.
+     BANGLADESH
+ANNUAL MIGRATION
+
+      REPORT 2017
+
+  MINISTRY OF EXPATRIATES' WELFARE AND OVERSEAS EMPLOYMENT
+FOREWORD
+
+The world today is witnessing unprecedented human mobility driven by a number of factors like
+demographic dividend and socioeconomic disparities among others. In today's ever-changing world, the
+factors that affect migration and the range of sectors affected by migration is becoming more diverse and
+complex. Often a times, accurate and factual presentation of data is crucial for programmatic interventions.
+This call is reflected through the need for evidence in major development frameworks like the Global
+Compact for Safe, Orderly and Regular Migration which calls for collection and utilization of accurate and
+disaggregated data as a basis for evidence-based policies. Similarly, at the national level, the subsection on
+Migration and Development in the Seventh Five Year Plan reiterates the importance of evidence base on
+human mobility and its effects.
+
+Although various government agencies and development partners have been producing research
+papers, there is a need to have a single and comprehensive source for migration data. With this view,
+the International Organization for Migration supported the Government of Bangladesh to develop the
+Annual Migration Report (2017). The first report of its kind is a reflection on labour migration trends and
+emerging issues, highlighting some challenges and paving the way for addressing them.
+
+The International Organization for Migration is particularly indebted to the Ministry of Expatriates' Welfare
+and Overseas Employment for the guidance provided during the development of the Annual Migration
+Report 2017. We are grateful to the Advisory Committee comprising officials from the Ministry of
+Expatriates' Welfare and Overseas Employment and the Bureau of Manpower, Employment and Training
+for working in close coordination with the report writing team. We thank the consultancy firm, Quay Asia
+for their efforts and hard work in completing this assignment.
+
+We are thankful to the participants from different government agencies, development partners and
+research institutions who participated in the national consultation forums to finalize the report. Our
+appreciation to the European Union for funding the assignment through the project "Prottasha: Bangladesh
+Sustainable Reintegration and Improved Migration Governance".
+
+We hope this 2017 edition of the Annual Migration Report is a useful reference and will assist you in
+better understanding of labour migration issues and inform subsequent actions and interventions aiming
+to improve the situation of migrants and the societies in Bangladesh.
+
+Giorgi Gigauri
+Chief of Mission
+IOM Bangladesh
+ACKNOWLEDGEMENTS
+
+This is the first Bangladesh Annual Migration Report and I would like to thank all the writers, reviewers,
+and stakeholders that have contributed to the development of the report. I very much appreciate the
+contributions of the officials of the Ministry of Expatriates' Welfare and Overseas Employment including
+the Bureau of Manpower, Employment and Training, the Wage Earners Welfare Board, and Bangladesh
+Overseas Employment and Services Limited. Particular thanks go to Additional Secretary Mr Mohammed
+Azharul Huq, Additional Secretary, Md Aminul Islam, Additional Secretary M Badrul Arefin, Joint Secretary
+Ms Nasrin Jahan, Joint Secretary Md Shujayet Ullah, Deputy Secretary Mr Mukhlesur Rahman Akand,
+Deputy Secretary Mr Mohammad Shaheen, Deputy Chief Mr K M Ali Reza, and Director of Training Dr
+Md Nurul Islam, among others.
+
+I also thank all the officials of the International Organization for Migration for their guidance, contributions,
+reviews and comments. Particular thanks go to, Sharon Dimanche, Shahreen Munir, Jasi Phineas, Ashfaqur
+Rahman Khan, and Nissara Spence among others. The support from Quay Asia's international partner,
+Ecorys UK Ltd through the contributions of Khalid Miah and Charis Reid were also warmly received.
+
+Finally, thanks go to Dr ASM Ali Ashraf and Phillip Choudhury for their hard work in compiling the
+contributions from all stakeholders, drafting the report, and incorporating the invaluable feedback from
+the Ministry of Expatriates' Welfare and Overseas Employment and the International Organization for
+Migration. I also thank the wider Quay Asia team for supporting Ashraf and Philip during the preparatory
+work for the Bangladesh Annual Migration Report.
+
+The Bangladesh Annual Migration Report has been produced with financial assistance of the European
+Union, through a project entitled "Prottasha: Bangladesh Sustainable Reintegration and Improved Migration
+Governance." The content of this publication is the sole responsibility of the authors, Quay Asia, and
+can in no way be taken to reflect the views of the European Union, the International Organization for
+Migration and their Member States.
+
+Shaila Rahman
+Managing Director
+Quay Asia Ltd
+                      Secretary                                       mwPe
+         Ministry of Expatriates' Welfare &        cÖevmx Kj¨vY I ^e`wkK Kg©ms¯'vb gs¿Yvjq
+
+                Overseas Employment                       MYcÖRvZs¿x evsjv`k miKvi
+Government of the People's Republic of Bangladesh
+
+                                 Message
+
+With around 1 million people migrating for employment opportunities and USD 13.5 billion remitted in
+2017, Bangladesh remains as one of the top workforce sending countries in the world (source). Recent
+efforts of the Government of Bangladesh, including improved migration governance initiatives, showcase
+the commitment towards safe, orderly and regular migration.
+
+The Ministry of Expatriates' Welfare & Overseas Employment welcomed the initiative by the International
+Organization for Migration (IOM) to support the production of the Annual Migration Report (2017) as
+part of the project "Prottasha: Bangladesh Sustainable Reintegration and Improved Migration Governance,"
+funded by the European Union. While the report for 2017 focuses primarily on workforce migration,
+the Ministry recognizes the complexity and inter-connectivity of migration and the need for inter-agency
+exchanges for the subsequent reports.
+
+This is the first ever report produced in Bangladesh capturing the emerging issues in the arena of workforce
+migration and the first in a series of planned Annual Migration Reports. The report highlights progress as
+well as challenges which requires the collaborative efforts of various stakeholders to address.
+
+We think the Annual Migration Report will be an instrumental source of information and a useful reference
+in migration discourse at the national, regional and global levels. We hope in its future incarnations, it will
+progress towards becoming the useful source for all migration related information for the country.
+
+                                                                                              Dr. Nomita Halder ndc
+TABLE OF CONTENTS
+
+FOREWORD                                             3
+
+ACKNOWLEDGEMENTS                                     4
+
+ACRONYMS AND ABBREVIATIONS                           7
+
+EXECUTIVE SUMMARY                                    9
+
+INTRODUCTION                                         15
+
+MIGRATION POLICY AND GOVERNANCE                      16
+
+TRENDS IN LABOUR MIGRATION                           25
+
+WOMEN AND LABOUR MIGRATION                           33
+
+RECRUITMENT                                          40
+
+MIGRATION MANAGEMENT ACROSS GOVERNMENT INSTITUTIONS  44
+
+CONCLUSION                                           51
+
+BIBLIOGRAPHY                                         53
+ACRONYMS AND ABBREVIATIONS
+
+ADD     Abu Dhabi Dialogue
+ATAB    Association of Travel Agents of Bangladesh
+AVSEC   Aviation Security
+B2B     Business to business
+BaP     Bali Process
+BAIRA   Bangladesh Association of International Recruiting Agencies
+BCG     Bangladesh Coast Guard
+BDT     Bangladesh Taka
+BGB     Border Guards Bangladesh
+BLA     Bilateral Labour Agreement
+BMET    Bureau of Manpower, Employment and Training
+BOAF    Bangladesh Obhibashi Odhikar Forum
+BOESL   Bangladesh Overseas Employment Services Limited
+BOMSA   Bangladesh Mohila Sramik Association
+BuP     Budapest Process
+CP      Colombo Process
+CSO     Civil society organization
+DEMO    District Employment and Manpower Office
+DWPWP   Domestic Workers Protection and Welfare Policy
+EPS     Employment Permit System
+EU      European Union
+EWOEP   Expatriates' Welfare and Overseas Employment Policy
+FIFA    Fédération Internationale de Football Association
+G2G     Government to government
+GFMD    Global Forum on Migration and Development
+ICRMW   International Convention on the Protection of the Rights of All Migrant Workers and
+        Members of their Families
+ILO     International Labour Organization
+IMT     Institute of Marine Technology
+IOM     International Organization for Migration
+LMIS    Labour Market Information System
+MGI     Migration Governance Index
+MWIMS   Migrant Workers Information and Management System
+MoC     Ministry of Commerce
+MoCAT   Ministry of Civil Aviation and Tourism
+MoE     Ministry of Education
+MoEWOE  Ministry of Expatriates' Welfare and Overseas Employment
+MoF     Ministry of Finance
+MoFA    Ministry of Foreign Affairs
+MoHA    Ministry of Home Affairs
+MoHFW   Ministry of Health and Family Welfare
+MoL     Ministry of Law
+MoLE    Ministry of Labour and Employment
+MoLGRD  Ministry of Local Government and Rural Development
+MoP     Ministry of Planning
+MoSW    Ministry of Social Welfare
+MoU     Memorandum/Memoranda of Understanding
+MoWCA   Ministry of Women and Children Affairs
+NGO     Non-Governmental Organization
+NSDC    National Skills Development Council
+NSDP    National Skills Development Policy
+OCUP    Obhibashi Kormi Unnoyon Programme
+PKB     Probashi Kallyan Bank
+PSHTA   Prevention and Suppression of Human Trafficking Act
+RCP     Regional Consultative Process
+RMMRU   Refugee and Migratory Movements Research Unit
+SDC     Swiss Agency for Development and Cooperation
+SDG     Sustainable development goal
+TITP    Technical Intern Training Program
+USD     United States Dollar
+VTF     Vigilance Task Force
+WARBE   Welfare Association for the Rights of Bangladeshi Emigrants
+WEWB    Wage Earners' Welfare Board
+WEWF    Wage Earners' Welfare Fund
+EXECUTIVE SUMMARY
+
+                      MIGRATION POLICY AND GOVERNANCE
+
+                        Migration in Bangladesh is managed and facilitated through the Government,
+                        private sector and Civil Society Organizations (CSO). Further support is provided
+                        by the labour wings of Bangladeshi diplomatic missions in countries of destination.
+                        Governance is maintained through national legislation and adherence to several
+                        international agreements on migration.
+
+                        Overseas Employment and Migrants Act 2013 (OEMA) is the principal legislation on
+                        labour migration from Bangladesh. The Act emphasizes the rights, safety, and human
+                        dignity of migrant workers, making it an obligation of the Government to ensure
+                        social protection of migrants both at home and in their countries of destination.
+                        It also governs the negotiations of MoU with destination countries. OEMA 2013
+                        is complemented by EWOEP 2016. This offers a more comprehensive framework
+                        for safe labour migration, including the modernization of policies in light of ICRMW
+                        1990, and SDGs. As part of the Government of Bangladesh's implementation of
+                        EWOEP 2016, efforts were taken in 2017 to expand the labour market, to promote
+                        skills development of migrant workers, and to ensure the safe and dignified migration
+                        opportunities for women. The Government of Bangladesh also formed a multi-
+                        agency task force to prevent fraudulence in the recruitment process. The Cabinet
+                        approved the draft the Wage Earners' Welfare Board (WEWB) Act 2017. Once
+                        passed by Parliament, the Act will provide a legal framework for improved welfare
+                        services for migrant women and men workers.
+
+                        As of 2017, Bangladesh has signed two Bilateral Labour Agreements (BLAs)
+                        and 11 MoUs with different Country of Destination to regulate the terms and
+                        conditions under which Bangladeshi workers are employed. Bangladesh is an active
+                        participant in various Regional Consultative Process on Migration (RCP). It chairs
+                        the Thematic Working Group on ethical recruitment in Colombo Process (CP).
+                        In other RCPs, Bangladesh focuses on good practices in migration management,
+                        public-private partnership on combating human trafficking, and facilitating the
+                        return and re-admission of irregular migrants. In 2017, Bangladesh served on the
+                        14-member Committee on the Protection of the Rights of All Migrant Workers and
+                        Members of their Families. The Committee worked with the International Labour
+                        Organization (ILO), International Organization for Migration (IOM), UN-Women,
+                        and several United Nations organizations to promote a human rights focused and
+                        gender-responsive migration regime around the world. At the international level,
+                        Bangladesh is active in Global Forum on Migration and Development (GFMD) and
+                        the Global Compact for Migration. In addition, the Government of Bangladesh has
+                        a demonstrated commitment to develop a gender sensitive migration system in
+                        compliance with global human rights norms.
+
+                                                                                                     Bangladesh Annual Migration Report 2017 9
+                           TRENDS IN LABOUR MIGRATION FROM BANGLADESH
+
+                             In 2017, 1,000,525 Bangladeshi workers migrated through BMET's procedures. This
+                             is an increase of 33 per cent over the previous years' figure of 757,731. Historical
+                             data indicates a consistent growth in international labour migration from Bangladesh
+                             since 1976.
+
+                             Women workers from Bangladesh first entered the international labour market in
+                             1991. From 1991 to 2003, less than 1,500 women, on average, migrated annually.
+                             This figure increased to an annual average of 25,700 between 2004 and 2013,
+                             resulting from a change in Government policy that reduced restrictions on women's
+                             migration. During the past four years (2014­2017), on average 99,500 women
+                             migrated. Saudi Arabia, United Arab Emirates, Jordan, Lebanon, and Oman are the
+                             top five countries of destination for Bangladeshi women where they are mostly
+                             employed as housekeepers. In 2017, 121,925 Bangladeshi women went abroad for
+                             work. Of this total, 68 per cent went to Saudi Arabia, 16 per cent to Jordan, and 8
+                             per cent to Oman.
+
+                             Skill training is a high priority for the Government of Bangladesh. Just 35 per cent of
+                             migrant workers from Bangladesh are classified as skilled workers or professionals
+                             while 48 per cent are low skilled. The Government of Bangladesh established NSDC
+                             for greater uniformity in migrants' skills and qualification. In 2017, the Government
+                             of Bangladesh also signed an agreement with City & Guilds, a leader among global
+                             restaurants and apprenticeship programmes to provide certification of skills training.
+
+                             Countries in the Gulf and South-East Asia have been traditional destinations for
+                             Bangladeshi labour migrants. In the period from 1976 to 2017, 30 per cent of migrants
+                             went to Saudi Arabia and 21 per cent to United Arab Emirates. More than 25 per
+                             cent went to four other Gulf countries combined: Oman, Qatar, Kuwait, and Bahrain.
+                             Malaysia and Singapore have hosted 14 per cent of Bangladeshi migrant workers
+                             since 1976. A review of destination labour markets from 2013 to 2017 confirmed
+                             that Saudi Arabia remains the top destination for migrant workers from Bangladesh.
+
+                             There are broadly two types of destination country labour markets: traditional
+                             labour markets with large or stable numbers of Bangladeshis working predominantly
+                             in the construction sector, and growing labour markets often with more specialized
+                             labour requirements.
+
+                             Saudi Arabia remains the primary destination for Bangladeshi workers. Malaysia and
+                             Singapore remain major destinations in South-East Asia, with Bangladeshi migrants
+                             mostly employed in the construction sector. The Government of Bangladesh has
+                             signed a series of agreements with the Malaysian Government to provide recruitment
+                             services. These include facilitating migration through private business entities.
+
+                             Oman, Qatar, Kuwait and Bahrain are growing markets where the construction
+                             sector drives demand. The 2022 FIFA World Cup in Qatar is likely to drive further
+
+10 Bangladesh Annual Migration Report 2017
+demand in construction, hospitality and tourism sectors. Kuwait, with ambitious
+targets for New Kuwait 2035, may have potential to hire more skilled workers in the
+oil and utility sectors, as well as in education and health-care sectors.
+
+Bahrain has hosted more than 400,000 Bangladeshi migrant workers in the past four
+decades. Jordan has a relatively small market share of Bangladeshi migrant workers,
+but it has a well-regulated migration regime. More than 150,000 Bangladeshis have
+migrated to Jordan in the past decade. Jordan needs trained workers in domestic
+caregiving and in the ready-made garment industry.
+
+Brunei Darussalam, Hong Kong Special Administrative Region, China (China, Hong
+Kong SAR), and the Republic of Korea have smaller market shares in overseas labour
+migration from Bangladesh, but they are models for safe and skilled migration. The
+tourism sector in Brunei Darussalam, domestic caregiving sector in China, Hong
+Kong SAR, and the manufacturing sector in the Republic of Korea have the potential
+to hire more skilled workers from Bangladesh. BOESL is directly involved in managing
+migration to China, Hong Kong SAR and the Republic of Korea.
+
+WOMEN AND LABOUR MIGRATION
+
+Between 1991 and 2000 women migrating from Bangladesh constituted only 1 per
+cent of all labour migration. In 2017, the number of women migrating abroad for
+work was 121,925. This represented 12 per cent of total outmigration in 2017.
+
+The majority of Bangladeshi women labour migrants remain in traditional roles such
+as housekeeping in countries in the Gulf region. A smaller number work in other fields
+such as ready-made garment manufacture in Jordan. The Government of Bangladesh
+wants to explore other occupational opportunities for Bangladeshi women beyond
+housekeeping. In 2017 high level visits were made to Japan to explore employment
+opportunities for women for higher band professions such as nursing, day care, and
+rehabilitation.
+
+Training for outgoing female workers is provided by both government and non-
+governmental agencies. BMET provides a residential 30-day training on housekeeping
+for women, foreign languages and culture, and using household appliances. Women
+can enroll in other technical trainings such as driving, tailoring, plumbing, and welding,
+all offered by BMET. These are six-month long non-residential training and classes
+that are held three days a week. A total of 87,700 female workers were trained
+through the TTCs during the 2016­17 fiscal year.
+
+Women remitted 72 per cent of their income in comparison to male migrant workers,
+who remitted 54 per cent. However, larger scale and more frequent national surveys
+on how women use or intend to use their remittances could inform specific policy
+elements related to women's migration and the design of financial and other services
+that respond to their needs.
+
+                                                                       Bangladesh Annual Migration Report 2017 11
+                             EWOEP 2016 protects women migrant workers by preferring countries where
+                             women's protection is ensured by local laws. The policy includes the provision of
+                             trained women attachés in labour wings of missions in destination countries. The
+                             Government of Bangladesh has also established safe homes in Saudi Arabia, Oman,
+                             the Republic of Korea, and Jordan, as well as call centres to address complaints.
+                             BMET has set up a complaint management cell for expatriate women workers to
+                             address the complaints of women migrants. In addition, the Probash Bondhu call
+                             centre has been set up to provide support to women migrants in Malaysia, Jordan
+                             and Saudi Arabia. NGOs also continue to play an important role in supporting
+                             victimized women migrant workers. They have established mobile phone applications
+                             and grievance receiving centres that allow migrant workers to lodge complaints.
+
+                           RECRUITMENT
+
+                             There are two broad categories for recruitment: private and government-managed.
+                             First, recruitment at the private level is managed by more than 1,000 licensed
+                             recruitment agencies. BAIRA is the main trade association for recruitment agencies.
+                             MoEWOE through BMET regulates Recruitment Agencies by issuing, suspending
+                             and cancelling licenses. Fines for non-compliance are levied and deducted from
+                             Government-held deposits. Second, recruitment by the Government is carried
+                             out by BOESL. The Government of Bangladesh has launched a pilot scheme of
+                             G2G agreements with specific countries to further reduce the cost of migration
+                             and ensure the protection of workers. BOESL operates the EPS with the Republic
+                             of Korea. Migrant workers report low recruitment costs under this system and
+                             higher earnings, as well as higher levels of worker satisfaction. BOESL also manages
+                             recruitment schemes for Jordan and Japan.
+
+                             The Government of Bangladesh has set country specific ceilings for the recruitment
+                             agencies to charge jobseekers and has fixed the maximum migration costs for low-
+                             skilled male and female migrant workers. In 2017, the Government of Bangladesh
+                             announced caps on migration costs for 14 countries. Despite the Government's
+                             numerous efforts to keep migration costs down, migrant workers continue to pay
+                             high costs due mainly to payments to intermediaries. This cost is usually higher for
+                             men than women. This variation in migration costs could be an area for further
+                             research.
+
+                             The collaboration with the Republic of Korea through EPS operated by BOESL is an
+                             example of a model recruitment practice. Within the EPS system workers report
+                             satisfaction with their contract-based salaries, benefits, and low living expenses.
+                             Under this process, migration costs amount to BDT 80,000­85,000, and employees
+                             can earn more than BDT 120,000 including overtime per month. The employers
+                             provide free food and accommodation for migrants. Between 2008 and 2017, BOESL
+                             sent 16,721 migrants to the Republic of Korea.
+
+                             Similarly, since 2010, BOESL has also sent more than 40,000 women migrant workers
+                             to the Jordanian ready-made garment sector. BOESL charges only BDT 12,000 in
+
+12 Bangladesh Annual Migration Report 2017
+fees for each applicant and each worker can earn up to BDT 18,000 per month.
+Potential migrants are selected by representatives of Jordanian ready-made garment
+companies during visits to Dhaka.
+
+Clear and transparent selection procedures and policies, participants of bona fide
+representatives of Country of Destination, clearly defined remuneration and other
+benefits, and reasonable or no costs to the migrant worker are all hallmarks of ideal
+recruitment practices.
+
+MIGRATION ISSUES MANAGED ACROSS GOVERNMENT
+INSTITUTIONS
+
+MoEWOE is the focal ministry for labour migration policies and programme
+implementation but it performs these functions in cooperation with other
+government institutions. Migration is a concept that encompasses a wider range of
+cross-border movement such as forced migration, refugee movements, trafficking,
+reintegration and family reunification. These are all complex issues that require a
+cross-government approach.
+
+The Government of Bangladesh has established a multi-agency AVESEC force to
+enhance security in its international airports (Dhaka, Chittagong, and Sylhet). It has
+also introduced smart border management to strengthen its capacity to deal with
+cross-border smuggling and goods and commodities and human trafficking. As part
+of the initiative of the Government of Bangladesh to develop a coordinated border
+management plan with India, BGB and Indian BSF have agreed on joint patrolling of
+border areas and holding regular meetings of senior and mid-ranking officials.
+
+In 2017, Bangladesh received a large influx of 700,000 Rohingyas from Myanmar.
+In November 2017, the Governments of Bangladesh and Myanmar signed a
+memorandum of understanding for the repatriation of Rohingyas. The Government
+of Bangladesh decided to involve both IOM and UNHCR in the Rohingya repatriation
+process.
+
+The Government of Bangladesh has implemented a number of initiatives to combat
+human trafficking and smuggling of migrants. These include the promulgation of
+PSHTA 2012, and adoption of the National Plan of Action for Combating Human
+Trafficking 2012­2014. Bangladesh has strong cross-departmental collaboration to
+prevent human trafficking and promote safe migration.
+
+In 2015, Bangladesh received USD 15.27 billion in remittances, which decreased to
+USD 13.61 billion in 2016 and USD 13.53 billion in 2017, respectively. In the past
+two fiscal years (2015­2016 and 2016­2017), the top five sources of remittances
+for Bangladesh were Saudi Arabia, the United Arab Emirates, the United States of
+America, Malaysia and Kuwait. Remittance utilization has both micro, and macro level
+impacts. An IOM study showed that remittances are utilized in five major categories:
+food and clothing; home construction and repair; purchase of land; loan repayment;
+
+                                                                       Bangladesh Annual Migration Report 2017 13
+                             and savings. The vast majority of remittances are sent to Bangladesh through formal
+                             channels including banks, Western Union, and Money Gram.
+
+                             IOM is implementing a pilot project under its assisted voluntary return and
+                             reintegration (AVRR) programme to reintegrate irregular migrants from the EU. IOM
+                             is also implementing a project focusing on sustainable reintegration for returnees, in
+                             partnership with BRAC and funded by the EU. IOM is also working closely with the
+                             ILO and the Swiss Agency for Development and Cooperation (SDC) to develop a
+                             framework of services for the returnee migrants' reintegration in Bangladesh.
+
+                           CONCLUSIONS
+
+                             International demand for workers from Bangladesh remained strong in 2017. Existing
+                             markets in the Gulf countries were strong while new markets were explored.
+                             Throughout 2017 progress was made on several challenges, and safe migration and
+                             decent work remained priorities.
+
+                             The Government has shown a strong commitment to develop a migration system
+                             that complies with global human rights norms and that respects gender sensitivity.
+                             Efforts to regulate the formal and informal recruitment agents to reduce the cost
+                             of migration and to promote an ethical recruitment process have also been taken.
+
+                             The current trend in labour migration from Bangladesh is expected to continue, with
+                             an increasing number of men and women joining the international labour market. In
+                             2017, more than 1 million Bangladeshis, with various skills categories, left the country
+                             to accept jobs mostly in the Gulf countries and in South- East Asia. MoEWOE has
+                             prioritized creating a skilled workforce for deployment around the world.
+
+                             Promoting safe and dignified migration opportunities for women is one of the major
+                             commitments of MoEWOE. The provision of zero cost for women migrant workers
+                             serving as domestic caregivers in Saudi Arabia is a major success. The introduction
+                             of a labour market for women migrant workers in China, Hong Kong SAR, even on
+                             a limited scale, is also an important achievement.
+
+                             The state-owned recruitment agency, BOESL, is making good progress in promoting
+                             fair, low-cost, and ethical recruitment process. BOESL's success in establishing model
+                             recruitment practices for countries such as the Republic of Korea, Japan and Jordan
+                             need to be replicated. MoEWOE continues to work with Recruitment Agencies to
+                             reduce the cost of migration.
+
+                             Although MoEWOE is the lead ministry for managing labour migration from
+                             Bangladesh, there are several migration-related issues which require shared
+                             responsibilities and are thus managed across government. These include prevention
+                             of human trafficking, remittance regulation, and reintegration of returning migrant
+                             workers.
+
+14 Bangladesh Annual Migration Report 2017
+INTRODUCTION
+
+                        This the first Bangladesh Annual Migration Report, which reflects on the country's
+                        progress and challenges in 2017 across a range of labour migration issues. Its
+                        development involved a participatory process overseen by MoEWOE, through a
+                        supervisory committee of senior officials, and involving its stakeholder organizations:
+                        BMET, BOESL, PKB, and WEWB. Workshops, interviews, and meetings were held
+                        throughout the year and information from a number of recent reports and studies was
+                        incorporated along with a review of current legislation and international agreements.
+                        A number of supporting exercises were conducted ahead of drafting the Bangladesh
+                        Annual Migration Report. These included an assessment of MoEWOE's capabilities
+                        to formulate migration reports and a process handbook to guide MoEWOE in
+                        formulating a Bangladesh Annual Migration Report focusing on labour migration.
+                        The report content is divided into five chapters. Chapter 1 is entitled migration
+                        policy and governance. It examines the domestic legal framework and international
+                        agreements governing labour migration. Chapter 2, trends in labour migration from
+                        Bangladesh, analyses destination labour markets and chapter 3, women and labour
+                        migration, concentrates on occupations, training and safeguards for women labour
+                        migrants from Bangladesh. Chapter 4, recruitment, compares respective practices by
+                        government and private sector agencies including the costs incurred by Bangladeshi
+                        labour migrants. Finally, chapter 5 notes that while MoEWOE is the focal ministry for
+                        labour migration, other government institutions have important roles.
+
+                                                                                                     Bangladesh Annual Migration Report 2017 15
+  MIGRATION POLICY AND
+  GOVERNANCE
+
+                             There are several public, private, and civil society organizations involved in governing
+                             and facilitating labour migration from Bangladesh. Migration governance is an
+                             evolving process where the Government of Bangladesh continually tackles complex
+                             global challenges. Migration related laws and policies, and regional and international
+                             cooperation for governing outbound migration from Bangladesh are all part of
+                             migration governance.
+
+                           LABOUR MIGRATION MANAGEMENT
+
+                             There are four major types of migration: labour migration, student migration, forced
+                             migration (refugees and asylum seekers), and migration for family reunification. This
+                             Bangladesh Annual Migration Report focuses on international labour migration from
+                             Bangladesh and looks at trends and issues of 2017.
+
+                             Government
+
+                             The lead ministry for overseeing labour migration from Bangladesh is MoEWOE.
+                             Under its authority, there are four major agencies: BMET, BOESL, PKB, and WEWB
+                             (MoEWOE, 2017). Each of these agencies has a clearly defined role in overseeing
+                             labour migration. BMET is the main executive arm of MoEWOE and responsible for
+                             monitoring private Recruitment Agencies, facilitating the process of recruitment and
+                             migration of Bangladeshis for overseas employment including overseeing DEMOs
+                             and TTCs. BOESL is a state-run recruitment agency with a small market share in
+                             China, Hong Kong SAR, Jordan, Japan, and the Republic of Korea. PKB's services
+                             include loans to aspirant migrants and reintegration loans to returnees. WEWB
+                             offers welfare services to migrants and their families in Bangladesh. In Country of
+                             Destination, the labour attachés work closely with WEWB to channel services to
+                             Bangladeshi migrants. Currently, there are 29 labour wings in Bangladeshi diplomatic
+                             missions. The officers of these labour wings monitor the welfare of workers, inspect
+                             workplaces, provide legal aid, and facilitate the return of deceased migrants.
+
+                             DEMOs and TTCs act as district-level decentralized service points for managing
+                             labour migration from Bangladesh (Ashraf and Arafat, 2018). Currently there are
+                             42 DEMOs, 64 TTCs (MoEWOE, 2017), and 6 IMTs in Bangladesh. Both DEMOs
+                             and TTCs operate under the authority of BMET. Currently, aspirant migrants in
+                             Bangladesh are required to complete online registration, record their fingerprint,
+                             and collect a digital smart card from selected DEMOs. In collaboration with WEWB,
+                             DEMOs also provide a range of welfare services for migrants and their families. These
+                             include financial support for the burial service of deceased migrants, stipends for the
+                             children of migrants, and financial support for the health-care needs of migrants.
+                             TTCs offer a wide range of skills training programmes for both men and women
+
+16 Bangladesh Annual Migration Report 2017
+migrants. Currently, women migrant workers pursuing careers as housekeepers
+receive a mandatory housekeeping training at TTCs. The housekeeping training is
+free of cost and the duration is one month for women wanting to work in the Gulf
+states and three months for China, Hong Kong SAR (MoEWOE, 2017: 17).
+
+Migrant workers also receive mandatory pre-departure orientation which prepares
+them for a career in a foreign country and for living and working environments in
+destination countries. The pre-departure orientation programmes cover information
+related to rights and regulations, cultural aspects and language, climate, complaint
+mechanisms and support systems in Country of Destination. BMET provides two
+types of pre-departure orientation in 62 of its training centres: a 3-day mandatory
+pre-departure orientation and a 7-day pre-departure orientation for labour migrants
+to the Republic of Korea.
+
+In 2017, the range of skills training offered by the technical training centre included
+automobile maintenance, electrician and electronics, electrical machine maintenance,
+refrigeration and air conditioning, mason, rod binder and tiles fixer, welding and
+fabrication, mid-level ready-made garments supervisor, merchandizing for ready-made
+garments sector, civil construction, graphics design, machine tools, and plumbing
+and pipe fitting. This skills training is in line with the Government's NSDP, which
+emphasizes technical and vocational education and training.
+
+The labour wings in the embassies of Bangladesh support migrants to adapt to a new
+environment. In 2017, the missions in Country of Destination hosted annual events
+such as international migration day, international mother language day, and posted
+useful information related to occupational safety and hazards on embassy websites.
+
+Private sector
+
+In the context of migration management in Bangladesh, the private sector mainly refers
+to various licensed private Recruitment Agencies and their agents and subagents. The
+Recruitment Agencies and their agents are registered entities, but the subagents are
+not legally registered. subagents include members of the aspirant migrants' social
+networks such as relatives, friends, and neighbours. These informal subagents often
+collaborate with the Recruitment Agencies to facilitate travel arrangements for
+migrant workers. Approximately 35 per cent of labour migration visas are procured
+by Recruitment Agencies, more than 60 per cent are procured through a migrant's
+social networks, and about 2 per cent are procured by BOESL.
+
+There are many privately managed and government accredited private technical
+training facilities in Bangladesh offering a wide range of skills training programmes.
+However, there is no publicly available data on the use of these private training
+facilities by aspirant migrant workers.
+
+                                                                       Bangladesh Annual Migration Report 2017 17
+                             Development partners
+
+                             Several development partners and intergovernmental organizations work with the
+                             Bangladesh government to promote safe and regular migration. Among the bilateral
+                             partners, the Governments of the United Kingdom, the United States of America, and
+                             Switzerland have initiated several projects to strengthen labour migration governance
+                             in Bangladesh. As international organizations, the ILO, IOM and UN-Women have
+                             longstanding partnerships with the Government of Bangladesh to improve its labour
+                             standards and migration management system.
+
+                             Civil society
+
+                             Bangladesh has several CSOs comprising NGOs, community-based organizations,
+                             and think tanks each playing a distinct role in labour migration (Rashid and Ashraf,
+                             2018). In 2017, CSOs continued to provide a range of services in pre-departure,
+                             post-arrival, and return and reintegration stage. In the pre-departure stage, these
+                             organizations disseminated information about safe and regular migration practices
+                             and discussed potential problems that migrants might face in Country of Destination.
+                             In the post-arrival stage, CSOs maintained hotlines where migrants in Country of
+                             Destination ­ particularly women ­ can call numbers answered by CSO personnel
+                             in Bangladesh that are trained to solve, report or refer complaints. In the return and
+                             reintegration stage, CSOs provided some counselling for successful reintegration and
+                             re-migration. These practical activities were complemented by migration focused
+                             think tanks providing research and advisory services to stakeholders.
+
+                           LEGAL FRAMEWORK: EXISTING LAWS AND POLICIES
+
+                             The Government of Bangladesh has adopted a number of laws and policies to
+                             promote the rights of migrant workers. These laws and policies include specific
+                             provisions detailing the role of relevant ministries and agencies in facilitating safe
+                             migration practices at various stages of the migration cycle.
+
+                             Overseas Employment and Migrants Act 2013
+
+                             OEMA 2013 is the principal legislation on labour migration from Bangladesh
+                             (MoEWOE, 2013). It has 9 chapters and 49 articles. Chapter III (articles 9­18)
+                             specifies the roles of labour Recruitment Agencies and their licensing requirements.
+                             Chapter IV (articles 19­21) describes the registration process of migrant workers
+                             and the protection of their rights. Chapter V (article 22) details the responsibility
+                             of Recruitment Agencies for employment contracts. Chapter VI (articles 23­25)
+                             concerns the role of labour wings and agreements on migration governance. It calls
+                             for the labour wings of overseas diplomatic missions of Bangladesh to protect the
+                             rights of migrants and to provide periodic reports on the status of migrant workers.
+                             It also defines the roles of The Government of Bangladesh in signing MoU or bilateral
+                             agreements with Country of Destination to manage migration. The Act emphasizes
+                             the rights, safety, and human dignity of migrant workers, making it an obligation of
+                             the Government to ensure social protection of migrants both at home and in their
+
+18 Bangladesh Annual Migration Report 2017
+countries of destination. Chapter VII (articles 26­30) details the rights of migrant
+workers, such as the right to information, legal aid, right to file civil suit, right to
+return home, as well as financial and welfare programmes. Chapter VIII (articles
+31­41) refers to the Code of Criminal Procedure 1898 and the Mobile Court Act
+2009 to prosecute any offences committed by a person or Recruitment Agency.
+
+Prior to the enactment of OEMA 2013, the Emigration Ordinance 1982 was the
+principal legislation governing labour migration from Bangladesh. The passage of
+OEMA 2013 repealed the 1982 Ordinance and its subsequent amendment of 2002.
+
+In 2017, MoEWOE continued to work on the implementation of the OEMA 2013.
+Accordingly, the Government of Bangladesh resolved 216 out of 588 complaints
+in the 2017 fiscal year. During this period, the Government of Bangladesh issued
+licenses to 15 new Recruitment Agencies, withheld 3 licenses, and suspended the
+license of 4 Recruitment Agencies. Additionally, legal actions were also taken against
+several Recruitment Agencies and visa consultancy firms for fraudulent and unethical
+recruitment practices. In 2017, the Government of Bangladesh negotiated MoU with
+several countries including Cambodia, the Russian Federation, and the United Arab
+Emirates.
+
+Expatriates' Welfare and Overseas Employment Policy 2016
+
+EWOEP 2016 complements OEMA 2013 but offers a more comprehensive policy
+framework for safe labour migration (MoEWOE, 2016). It refers to modernizing the
+Overseas Employment Policy 2006 in light of ICRMW 1990 and SDGs. It emphasizes
+the promotion of safe, orderly, and regular migration, as well as adoption of gender-
+sensitive strategies for labour migration from Bangladesh. EWOEP 2016 identifies
+six priority areas for safe labour migration: protection of the rights of migrants and
+their families; welfare support for migrant workers; gender-specific labour migration;
+integrating labour migration with national development; and migration governance.
+It emphasizes skills promotion, a protection framework, service simplification for
+migrants, strengthening women's participation in the international workforce,
+engaging the diaspora and other stakeholders in national development. It also calls for
+the establishment of an interministerial steering committee and a multi-stakeholder
+national labour migration forum to strengthen and reorganize the labour migration
+governance system.
+
+MoEWOE and its constituent agencies, BMET, BOESL, PKB, and WEWB, are
+primarily responsible for implementing EWOEP 2016. In Annex 2 of the policy, the
+roles of other concerned ministries are also detailed. The relevant ministries include
+MoCAT, MoC, MoE, MoF, MoFA, MoHFP, MoHA, MoLE, MoLGRD, MoP, MoSW,
+and MoWCA.
+
+EWOEP 2016 mandates MoF to allocate an increased budget for the protection
+and development of migrant workers. This includes promoting financial inclusion
+for migrants, particularly returnee migrants, and encouraging diaspora investment
+
+                                                                       Bangladesh Annual Migration Report 2017 19
+                             (Article 2a, Annex 2). In 2017 efforts to promote financial inclusion for migrants
+                             focused on facilitating remittance transfer procedures, and financial literacy for
+                             remittance utilization (Rahman et al, 2016). EWOEP 2016 also authorizes MoFA and
+                             labour wings at diplomatic missions to monitor compliance with MoU or bilateral
+                             agreements with Country of Destination and ensure the welfare of migrant workers
+                             (Article 3, Annex 2). EWOEP 2016 designates MoP responsible for developing a
+                             national database of skilled workers and for including the determinants of migration in
+                             the 7th Five Year Plan (Article 4, Annex 2). MoC, in collaboration with MoEWOE, is
+                             mandated by EWOEP 2016 to monitor the Recruitment Agencies (Article 5, Annex 2).
+
+                             To monitor travel agencies EWOEP 2016 stipulates that MoCAT will take steps to
+                             ensure travel agencies do not operate as Recruitment Agencies (Article 6, Annex 2).
+                             MoCAT is also mandated to support the prevention of irregular migration, human
+                             trafficking. MoWCA is authorized to work with the DEMOs and CSOs to ensure that
+                             aspirant women migrants are informed of the costs and benefits of migration before
+                             they decide to migrate (Article 7, Annex 2). MoSW is mandated to support the
+                             MoEWOE in developing a social protection policy and collaborate with MoEWOE
+                             in making a framework for the welfare of returnee migrants (Article 8, Annex 2).
+
+                             EWOEP 2016 requires MoLGRD to identify various migration issues, address them
+                             through local government development activities, and also encourage business
+                             investment from returnee migrants (Article 9, Annex 2). MoHA is the lead ministry
+                             for preventing irregular migration, human trafficking, and human smuggling (Article
+                             10, Annex 20). MoHA works with MoCAT and other ministries to prevent unsafe
+                             migration and human trafficking. Technical schools, colleges and polytechnic institutes,
+                             which operate under the MoE, provide skills training and promote skills recognition
+                             (Article 11, Annex 2). MoLE is authorized to collaborate with the MoEWOE for
+                             the reintegration of returnee migrants through employment and rehabilitation
+                             programmes (Article 12, Annex 2). MoHFP is mandated to provide low-cost medical
+                             checkups for aspirant migrants, and ensure mandatory check-ups for the returnees,
+                             including women migrant workers (Article 13, Annex 2). The Policy also specifies
+                             the role of MoHFP to provide psychological support to women migrant workers.
+                             As the lead migration management ministry, MoEWOE collaborates with other peer
+                             ministries listed above to implement various aspects of EWOEP 2016.
+
+                             As part of the efforts of the Government of Bangladesh to implement EWOEP
+                             2016, efforts were taken in 2017 to expand the labour market, to promote skills
+                             development of migrant workers, and to ensure the safe and dignified migration
+                             opportunities for women. The Government of Bangladesh also formed a multi-
+                             agency committee known as VTF to prevent fraudulence in the recruitment process
+                             (MoEWOE, 2017).
+
+                             In 2017, the ILO and IOM worked with MoEWOE to implement the provisions of
+                             EWOEP 2016 described above. This included implementing an LMIS, an MWIMS,
+                             and developing a framework of welfare services for returnee migrant workers. These
+                             collaborative projects were supported by SDC (Rashid and Ashraf, 2018).
+
+20 Bangladesh Annual Migration Report 2017
+Other laws and policies
+
+The Cabinet approved the draft WEWB Act 2018. The Act provides a legal framework
+for improved welfare services for migrant women and men workers. The Act is
+the legal basis for WEWB. The governing body of the proposed WEWB includes
+representatives from MoEWOE, BMET, relevant ministries, and two delegates from
+Recruitment Agencies. In addition, two members of the governing body are drawn
+from migrant workers including a women migrant worker.
+
+WEWB evolved from the WEWF, which was originally formed under WEWF Rules
+2002. The Rules still provide for the creation of a fund for welfare services to migrant
+workers and their families. Financing for this comes from a number of sources
+including interest earned on the security deposits of Recruitment Agencies, welfare
+fees and briefing fees deposited by outbound migrants, donations from individuals
+or institutions, welfare fees and document attestation fees charged by Bangladeshi
+missions. The Rules specify that the Government can allocate money for the creation
+of welfare and briefing centres in Dhaka and other districts, and for welfare desks at
+airports. The fund can also be used for the repatriation of the remains of deceased
+workers, financial support for the families of deceased workers, and the medical
+treatment of workers with sickness and disabilities resulting from injury.
+
+In 2015, the Government of Bangladesh adopted DWPWP with advisory provisions
+for the state, private employers, and civil society (MoLE, 2015). The scope of the
+DWPWP 2015 is limited to Bangladeshi domestic workers employed in the country.
+the Government of Bangladesh has also adopted a number of initiatives such as
+skills training, mandatory pre-departure training, and zero-cost migration to facilitate
+labour migration for women. Since 2013, the Government of Bangladesh has sent
+women migrant workers to China, Hong Kong SAR. In 2017, the Government of
+Bangladesh explored the labour markets in Japan and the Russian Federation as
+potential new opportunities for labour migrants from Bangladesh. In March 2017,
+Bangladesh signed an MoU with Japan with further MoU are being considered with
+the Russian Federation and Cambodia.
+
+The position of Bangladesh on major international migration laws
+
+ICRMW 1990 is a global legal framework which promotes inter-governmental
+cooperation on migration. Bangladesh ratified ICRMW in 2011. However, since many
+destination countries are yet to ratify ICRMW 1990, the framework has remained
+largely ineffective. In 2017, Bangladesh served on the 14-member Committee on
+the Protection of the Rights of All Migrant Workers and Members of their Families.
+The committee worked with the ILO, IOM, UN-Women, and several United
+Nations agencies to promote a human rights-based approach and gender-responsive
+migration regime globally.
+
+There are eight ILO fundamental labour conventions including Forced Labour
+Convention 1930 (C29), Freedom of Association and Protection of the Right to
+
+                                                                       Bangladesh Annual Migration Report 2017 21
+                             Organize Convention 1948 (C87), Right to Organize and Collective Bargaining
+                             Convention 1949 (C98), Equal Remuneration Convention 1951 (C100), Abolition
+                             of Forced Labour Convention 1957 (C105), Discrimination (Employment and
+                             Occupation) Convention 1958 (C111), Minimum Age Convention 1973 (C138), and
+                             Worst Forms of Child Labour Convention 1999 (C182).
+
+                             Bangladesh ratified all but the Minimum Age Convention 1973. These conventions
+                             are reflected in national laws and regulations including the Bangladesh Labour Act
+                             (2013), the Bangladesh Labour Act Implementing Rules (issued in 2015) and the
+                             current drafting of the laws on export processing zones.
+
+                           BILATERAL, REGIONAL AND INTERNATIONAL COOPERATION
+                           FOR GOVERNING LABOUR MIGRATION
+
+                             Bilateral cooperation
+
+                             BLAs and MoU are two major instruments for the Government of Bangladesh to
+                             stipulate the terms and conditions under which Bangladeshi migrant workers are
+                             employed in Country of Destination. As of 2017, Bangladesh has signed two BLAs
+                             with Qatar and Kuwait, and several MoU with China, Hong Kong SAR, Iraq, Jordan,
+                             Libya, Maldives, Malaysia, Oman, Saudi Arabia, the Republic of Korea and the United
+                             Arab Emirates. Article 25 of OEMA 2013 provides the legal basis for Bangladesh to
+                             sign BLAs and MoUs. From a gender perspective, the MoU with China, Hong Kong
+                             SAR and Jordan introduced new labour markets for women migrant workers with
+                             opportunities in caregiving and ready-made garments manufacturing respectively (see
+                             Tables 4 and 5). As Bangladesh strives to promote skilled migration, EPS with the
+                             Republic of Korea and TITP with Japan are useful steps in meeting the demand for
+                             skilled labour with trained labour migrants from Bangladesh. Both EPS and TITP are
+                             managed by BOESL.
+
+                             Regional consultative processes on migration
+
+                             Bangladesh is an active participant in various RCPs, namely Colombo Process
+                             (CP), Abu Dhabi Dialogue (ADD), Bali Process (BaP), and Budapest Process (BuP)
+                             (MoEWOE, 2017). These RCPs offer channels for communication between the
+                             migrants' Country of Origin and Country of Destination. However, there are clear
+                             differences between the RCPs. Colombo Process (CP) is primarily a platform of
+                             Country of Origin, whereas Abu Dhabi Dialogue (ADD) is a forum of both Country
+                             of Origin and Country of Destination. Unlike the Colombo Process (CP) and Abu
+                             Dhabi Dialogue (ADD), both of which focus on labour migration, Bali Process (BaP)
+                             and Budapest Process (BuP) focus on irregular migration and human trafficking in
+                             the Asia Pacific region (Ashraf, 2017). Bangladesh is active in each RCP, especially
+                             Colombo Process (CP), it chairs the thematic area working group on fostering ethical
+                             recruitment. In other RCPs, Bangladesh focuses on good practices in migration
+                             management, public-private partnership on combating human trafficking, and
+                             facilitating the return and reintegration of irregular migrants.
+
+22 Bangladesh Annual Migration Report 2017
+                   Colombo Process (CP) has emerged as an important platform on ethical recruitment
+                   issues for Bangladesh. Several on-going efforts under Colombo Process (CP) to
+                   promote ethical recruitment include participation in the regional symposium on
+                   promoting regulatory harmonization of recruitment intermediaries, and collaboration
+                   on a position paper on global definitions for recruitment fees and costs.
+
+                   International cooperation
+
+                   At the international level, Bangladesh has played a proactive role in promoting safe
+                   and regular migration. This is evident in the active presence of Bangladesh in GFMD
+                   and the Global Compact for Migration.
+
+                   GFMD is a government-led voluntary and informal mechanism for cooperation among
+                   states on migration issues.1 Between July 2007 and June 2017, ten GFMD summits
+                   were held. At the ninth GFMD summit in 2016, held in Bangladesh, 130 countries
+                   and hundreds of CSO members focused on the linkages between migration and
+                   SDGs, addressing xenophobia, and effective border management. As the host of the
+                   ninth GFMD Summit, Bangladesh highlighted the need for safe, orderly, regular, and
+                   responsible migration processes (GFMD Bangladesh, 2016). Additionally, Bangladesh
+                   has successfully co-chaired with Benin, Mexico, and Sweden to launch Friends of
+                   Migration as an informal grouping of 35 countries. At the tenth GFMD summit in
+                   2017, held in Berlin, the Bangladesh delegation reiterated the need for international
+                   cooperation under Global Compact for Migration.
+
+                   The idea of Global Compact for Migration was proposed by the Government
+                   of Bangladesh at the United Nations Secretary General's office. The New York
+                   Declaration for Refugees and Migrants, adopted at the United Nations General
+                   Assembly on 19 September 2016 called for the adoption of Global Compact for
+                   Migration. The Global Compact for Migration-related negotiations cover six thematic
+                   issues including human rights of all migrants; drivers of migration; international
+                   cooperation and governance of migration; contributions of migrants and diasporas;
+                   and smuggling of migrants. Global Compact for Migration is an evolving process
+                   with its first phase running from April 2017 to November of 2017; the second from
+                   November 2017 to January 2018; and the third from February 2018 to July 2018. In
+                   2017, various actors in Bangladesh organized three Global Compact for Migration-
+                   related national consultations: a civil society consultation, a parliamentary caucus
+                   consultation, and a joint consultation between the Government of Bangladesh, ILO
+                   and IOM, and Bangladeshi CSOs.
+
+                   The Bangladesh National Multi-Stakeholder Consultation on the Global Compact for
+                   Migration was held in Dhaka on October 26th, 2017 with over 150 attendees (IOM,
+                   2017). The national consultation was led by MoFA and organized in collaboration
+                   with IOM, and the ILO, with financial support from SDC. During the national
+
+1 GFMD originated from the 2006 UN General Assembly High Level Dialogue on Migration and Development, and the 2007
+     GFMD operating modalities accepted in Brussels. It is a platform for states, international organizations, and civil society
+     representatives.
+                                                                                               Bangladesh Annual Migration Report 2017 23
+consultation, participants provided concrete recommendations to develop a national
+position on managing migration. Emerging key points from the consultation with
+government and non-governmental stakeholders were summarized into an outcome
+document entitled, Bangladesh Perspective to the Global Compact for Migration, to
+inform the Asia­Pacific Regional Preparatory Meeting for the Global Compact for
+Migration held in Bangkok in November 2017.
+
+CUSTODIAN OF DATA ON MIGRATION
+
+BMET and WEWB are responsible for data collection, analysis, production, and
+publication of statistics in the area of labour migration. BMET website provides
+current migration statistics on several categories such as yearly migration trends,
+destination countries, major districts of origin, trends in women migration, yearly
+remittance inflow, and migration by skills category. WEWB maintains a separate
+website that provides statistics on welfare programmes and services for migrants
+and their families. These include death compensation for deceased workers, financial
+support for the burial service of deceased migrants, and scholarship for migrants'
+children.
+
+PROGRESS ON MIGRATION GOVERNANCE
+
+According to the most recent report, MGI 2016,2 Bangladesh demonstrated
+strong performance in two indicators: safe and orderly migration, and regional
+and international cooperation. The Government of Bangladesh offers a different
+perspective and suggests that MoEWOE has developed system of governance
+on all of the five indicators: institutional capacity, migrant rights, safe and orderly
+migration, labour migration management, and regional and international cooperation
+(Table 1). In 2017, MoEWOE took a number of initiatives such as digitization and
+decentralization of migration services at the district level, monitoring fraudulence
+within the recruitment agencies and irregularities by an inter-agency VTF, expanding
+welfare support for migrants, and developing an LMIS. With full scale implementation
+of these initiatives, Bangladesh will further improve its standing on MGI.
+
+Table 1: Migration Governance Index for Bangladesh
+
+Components of MGI Framework Status of Bangladesh (Government of
+
+                                        Bangladesh Assessment)
+
+Institutional capacity                  Developed
+
+Migrant rights                          Developed
+
+Safe and orderly migration              Developed
+
+Labour migration management             Developed
+
+Regional and international cooperation  Developed
+
+              2 The MGI rates a country's performance into five categories based on a scale of 0-10, where 0-2.49 indicates nascent; 2.5-4.9
+                    indicates emerging; 5-7.49: developed; 7.5-10: mature. The MGI is produced by IOM in collaboration with the Economist
+                    Intelligence Unit. MGI 2016 made the following assessment for Bangladesh: Institution capacity ­ Emerging; Migrant rights
+                    ­ Emerging; Safe and orderly migration ­ Developed; Labour migration management ­ Emerging; Regional and international
+                    cooperation ­ Developed
+
+24 Bangladesh Annual Migration Report 2017
+TRENDS IN LABOUR MIGRATION                                                                                                                                                                                832,609875,055                                                1,008,525
+
+                        Bangladesh has long prioritized migration as a thrust sector. In recent years, the                                                                                                                                607,798                757,731
+                        Government of Bangladesh has promoted a rights-friendly and gender-sensitive
+                        migration policy. Since its establishment in 1976, BMET has systematically recorded,                                                                                            381,516           475,278390,702         409,253425,684555,881
+                        analysed, and published data on annual outmigration for work from Bangladesh.                                                                                                                              568,062
+                                                                                                           244,508       187,543211,714231,077  267,667268,182222,686       225,256254,190272,958252,702
+                      OVERALL MIGRATION TRENDS                               101,724103,814  147,156188,124       186,326                                            189,060
+                   24,495  55,78762,76259,220  56,71477,69468,65874,01768,121
+                        In 2017, 1,008,525 Bangladeshi workers migrated through BMET's procedures of6,08715,72522,80930,073
+                        which 121,925 were women. This is 33 per cent more than the previous years' figure
+                        of 757,731. Each year, an estimated 2.2 million young people enter the job market in
+                        Bangladesh. However, the domestic labour market can only absorb about 1 million.
+                        Historical data indicates a consistent growth in international labour migration from
+                        Bangladesh. As Figure 1 shows, on average 41,136 Bangladeshis migrated for work
+                        during the first decade (1976­1985). This average annual migration rate increased to
+                        137,000 and 239,550 during the second and third decades (1986­1995 and 1996­
+                        2005, respectively). The number of labour migrants further increased to 552,200 per
+                        year during the fourth decade (2006­2015). Between 2009 and 2013, Bangladesh
+                        experienced a sharp decline and fluctuation in annual outmigration. This was largely
+                        due to the global economic recession and the consequent reduced demand for
+                        labour in the Gulf countries. Countries in the Gulf are major destinations for migrant
+                        workers from Bangladesh. Following the recovery from the global recession, labour
+                        migration from Bangladesh has grown steadily since 2014 reaching a record high in
+                        2017.
+
+                        FIGURE 1: YEARLY TREND IN OUTMIGRATION FROM BANGLADESH
+                        (BMET, 2018)
+
+                              1,200,000
+
+                              1,000,000
+
+                                800,000
+
+                                600,000
+
+                                400,000
+
+                                200,000
+
+                                         -
+
+                                                                                                     Bangladesh Annual Migration Report 2017 25
+1976
+     1978
+          1980
+               1982
+                     1984
+                          1986
+                               1988
+                                    1990
+                                         1992
+                                              1994
+                                                    1996
+                                                         1998
+                                                              2000
+                                                                    2002
+                                                                         2004
+                                                                              2006
+                                                                                   2008
+                                                                                        2010
+                                                                                              2012
+                                                                                                   2014
+                                                                                                        2016
+                           SKILL ANALYSIS
+
+                             Each year an estimated 50,000 Bangladeshis receive skills training at Technical Training
+                             Centres. However, BMET data shows that 48 per cent of migrant workers from
+                             Bangladesh are low-skilled, 15 per cent semi-skilled, 33 per cent skilled, and only
+                             2 per cent are professionals. Therefore, the Government of Bangladesh has made
+                             skills training the main priority as evident in the adoption of the NSDP 2012 and the
+                             creation of NSDC (MoLE, 2014).
+
+                             Currently, Technical Training Centres provide certificates to graduates upon
+                             completion of various skills training programmes such as automobile maintenance,
+                             welding and fabrication, machine tools, and plumbing. However, these courses are
+                             not internationally accredited. In 2017, the Government of Bangladesh signed an
+                             agreement with City & Guilds, United Kingdom a leader among global restaurants
+                             and apprenticeship programmes to provide internationally recognized certification
+                             of skills training. Currently, in addition to the BMET-controlled Technical Training
+                             Centres, 19 ministries and 18 organizations have various skills training, and
+                             technical and vocational education and training programmes providing certificates
+                             of course completion to graduates. In 2017, Technical Training Centres provided
+                             a mandatory 30-day housekeeping training to aspirant women migrant domestic
+                             workers. The Government of Bangladesh established NSDC with representatives
+                             from Government, industry, workers and civil society, to bring uniformity in migrants'
+                             skills and qualification.
+
+                           DESTINATION COUNTRIES
+
+                             Countries in the Gulf and South-East Asia have been the traditional destinations
+                             for Bangladeshi migrant workers (Figure 2). Saudi Arabia accounted for 30 per cent
+                             of Bangladesh labour migrants for the years 1976­2017. More than half, 51 per
+                             cent, of Bangladeshi expatriates are concentrated in Saudi Arabia and the United
+                             Arab Emirates and more than 25 per cent in four other countries, namely Oman,
+                             Qatar, Kuwait, and Bahrain. Malaysia and Singapore have also hosted 14 per cent of
+                             Bangladeshi migrant workers. However, Oman, Qatar, Malaysia, and Singapore have
+                             registered a consistent growth in receiving migrants from Bangladesh over the past
+                             decade. Such growth is driven by increased demand for semi-skilled and low-skilled
+                             workers.
+
+26 Bangladesh Annual Migration Report 2017
+FIGURE 2: CONCENTRATION OF LABOUR MIGRATION FROM BANGLADESH 1976 -2017
+
+Saudi Arabia 30%  United
+                  Arab
+
+                  Emirates 21%
+
+                  Kuwait 5%
+
+  Others 8%       Oman 12%
+
+Singapore 6%      Qatar 6%
+ Malaysia 8%      Bahrain 4%
+
+The Gulf and South-East Asian countries have a large and strong demand for short-
+term, semi-skilled and low-skilled workers particularly in the construction industry.
+Whereas, China, Hong Kong SAR and the Republic of Korea have a small but strong
+demand for skilled workers in housekeeping and manufacturing industry, respectively.
+The Government of Bangladesh is currently conducting labour market surveys of
+more than 50 countries to assess the demand and supply by country and region. The
+Government has yet to publish the findings of these surveys.
+
+Destination countries can be classified as traditional large markets and growing
+or specialized markets. Traditional destinations typically host large numbers of
+Bangladeshi labour migrants. These destinations (Tables 2 and 3) have a stable demand
+for labour migrants (such as Saudi Arabia, Malaysia, and Singapore). Occasionally
+these countries impose temporary restrictions on new Bangladesh workers (such
+as the United Arab Emirates. In contrast, other destination countries typically have
+growing or specialized labour market for Bangladesh (Tables 4 and 5).
+
+A review from 2013 to 2017 of destination labour markets (Figure 3) indicates that
+Saudi Arabia has remained the top destination for Bangladeshi workers; the market
+share of the United Arab Emirates has significantly declined; and recruitment in Oman,
+Qatar, Kuwait, and Bahrain has grown significantly. In South-East Asia, Malaysia and
+Singapore have remained the major destinations for Bangladeshi workers.
+
+                  Bangladesh Annual Migration Report 2017 27
+Saudi Arabia                         FIGURE 3: DESTINATION OF LABOUR MIGRANTS FROM BANGLADESH
+     United Arab Emirates            2013­2017 (BMET, 2018)
+
+          Kuwait                      6,00,000
+               Oman                   5,00,000
+                     Qatar
+                          Bahrain     4,00,000
+                               Lebanon3,00,000
+                                     Jordan2,00,000
+                                         Libya
+                                               Sudan1,00,000
+                                                    Malaysia-
+                                                         Singapore
+                                                               Republic of Korea  2013 2014 2015 2016 2017
+                                                                    United Kingdom
+                           TRADITIONAL LARGE MARKETS
+                                                                         Italy
+                                                                              JapanSaudi Arabia and the United Arab Emirates have traditionally been the largest
+                                                                                    Egyptdestinations for Bangladeshi migrant workers. More than half of the Bangladeshis
+                                                                                         Brunei Darussalampursuing an overseas career went to these two countries and were mostly employed
+                                                                                               Mauritiusin the construction sector (Table 2). Since 2012, the United Arab Emirates has
+                             placed constraints on recruitment from Bangladesh possibly due to concerns
+                                                                                                    Iraqabout recruitment practices and the United Arab Emirates' policy to promote the
+                                                                                                         Othersemployment of United Arab Emirates nationals. The scenario is different in Saudi
+                             Arabia, where outmigration from Bangladesh has grown since 2013, reaching a
+                             record high of 551,308 in 2017. This means in 2017, more than half of Bangladeshi
+                             labour migrants processed through BMET went to Saudi Arabia. More recently, there
+                             is a potential demand for skilled migrant workers such as doctors, engineers, nurses,
+                             and professionals in Saudi Arabia.
+
+                             In South-East Asia, Malaysia and Singapore have been the top two destinations for
+                             Bangladeshi migrant workers. These two countries have hosted nearly 900,000 and
+                             700,000 migrant workers respectively over the past four decades. Malaysia is the
+                             fourth largest destination for Bangladeshi workers, who are mostly employed in the
+                             construction sector (Table 3). Recently, Malaysia has signed G2G, G2G Plus, and
+                             B2B deals with Bangladesh to improve recruitment practices. Under G2G scheme,
+                             BMET works with the Malaysian Government to provide recruitment services.
+                             G2G Plus scheme allows Bangladeshi Recruitment Agencies to participate in the
+                             recruitment process. B2B deals facilitate migration through private business entities.
+                             The plantation sector in Malaysia is a potential growth market as an occupation for
+                             Bangladeshis.
+
+28 Bangladesh Annual Migration Report 2017
+TABLE 2: TRADITIONAL LABOUR MARKET FOR BANGLADESHI MIGRANT WORKERS IN
+
+GULF COUNTRIES
+
+Country of Occupations filled by                   Growth trends Potential opportunities
+Destination labour migrants from
+                                                   and labour       or bottlenecks for
+                Bangladesh
+                                                   market needs migrant workers
+
+Saudi       Labour (unspecified), cleaning Manufacturing,           Demands for skilled
+Arabia                                                              technicians, higher skills
+            labour, domestic worker, trade, and                     for manufacturing and
+                                                                    qualified professionals,
+            general labour, agricultural services; high             demands for trained
+                                                                    women caregiver
+            worker, construction worker, demands for
+
+            window cleaning labour,                skilled workers
+
+            loading and unloading labour,
+
+            carpenter, mason, electrician,
+
+            farmer, plumber, steel fixer,
+
+            driver
+
+The United  Labour (unspecified), private Construction,             Imposed ban in 2012
+Arab
+Emirates    sector worker (unspecified), real estate,
+
+            waiter, mason, carpenter, tourism and
+
+            cook, domestic worker,                 hospitality,
+
+            fitter, cleaning labour, welding manufacturing
+
+            supervisor, farmer, electric and logistics,
+
+            technician, driver, salesman, education and
+
+            tailor, QC engineer,                   health care
+
+            electrician, welder, shepherd
+
+Source: BMET Country Specific Informational Guidelines for KSA and UAE; Asian Development Bank (2016).
+
+Singapore is the fifth largest destination for Bangladeshi migrant workers, who are
+also largely concentrated in the country's construction sector. Its shipping industry
+offers a potential for Bangladeshi skilled workers trained at the marine and maritime
+institutes and academies of Bangladesh. However, the high cost of migration to
+Singapore remains a challenge for migrant workers. The number of Bangladeshi
+migrant workers going to Singapore declined in 2017 compared to the previous four
+years.
+
+TABLE 3: TRADITIONAL LABOUR MARKET FOR BANGLADESHI MIGRANT WORKERS IN
+
+SOUTH-EAST ASIA
+
+Country of Occupations filled by Growth trends Potential opportunities
+
+Destination labour migrants from and labour                         or bottlenecks for
+
+            Bangladesh                     market needs             migrant workers
+
+Malaysia    Labour (unspecified),          Plantation sector,       Requires further research.
+            construction workers,          construction sites,
+            security guards,               service, agriculture
+            shopkeepers, cleaners,         and manufacturing
+            palm oil plantation            sectors
+
+Singapore Labour (unspecified),            Shipping industry High costs
+
+            construction workers,
+
+            shipping industry
+
+Sources: ILO; Immigration Department of Malaysia.
+
+                                                   Bangladesh Annual Migration Report 2017 29
+                           GROWING AND SPECIALIZED MARKETS
+
+                             Oman is the third largest destination for Bangladeshi migrants. In the past five years,
+                             nearly 650,000 Bangladeshi workers migrated to Oman. This accounts for more than
+                             half of all Bangladeshis migrating to the country in the past four decades making
+                             Oman a growing market for labour migration from Bangladesh. Oman has several
+                             ongoing large infrastructure projects where demand for construction workers is
+                             likely to remain high in the coming years (Table 4).
+
+                             Qatar is the sixth largest country of destination for Bangladeshi workers. Between
+                             2013 and 2017, more than 471,000 Bangladeshis migrated to Qatar to pursue
+                             careers as general labourers, construction workers, cooks, drivers, fitters, foremen,
+                             and engineers. With Qatar hosting the 2022 FIFA World Cup, demand will grow in
+                             the construction, hospitality and tourism sectors resulting in opportunities for low
+                             and semi-skilled Bangladeshi labourers.
+
+                             Kuwait is the seventh largest destination with 600,000 Bangladeshi migrant workers.
+                             With its economic transformation and ambitious targets under the New Kuwait
+                             2035 vision, Kuwait has the potential to hire more skilled workers in the oil and utility
+                             sectors as well as in education and health care.
+
+                             Over the past four decades, Bahrain has hosted more than 400,000 Bangladeshi
+                             migrant workers, accounting for 40 per cent of labour migration from Bangladesh
+                             in the past five years. While many Bangladesh migrants have been employed in
+                             construction to date, further study would reveal other occupational opportunities.
+
+                             Among the specialized markets, Jordan has a relatively small market share but a well-
+                             regulated migration regime. It appears to be a growing market for labour migrants
+                             from Bangladesh. For example, more than 150,000 Bangladeshis migrated to Jordan
+                             in the past decade, and more than 70 per cent of these 150,000 migrants arrived
+                             Jordan in the past five years. In 2017, 20,449 Bangladeshis departed for Jordan. Jordan
+                             needs trained workers in domestic care and in the ready-made garment industry.
+
+30 Bangladesh Annual Migration Report 2017
+TABLE 4: GROWING AND SPECIALIZED LABOUR MARKETS FOR BANGLADESHI MIGRANT
+
+WORKERS IN GULF COUNTRIES
+
+Country of Occupations filled by Growth trends and Potential opportunities
+
+Destination labour migrants from labour market needs or bottlenecks for
+
+         Bangladesh                                                  migrant workers
+
+Bahrain  Labour (unspecified),           Requires further            Requires further research
+         construction, day-              research
+         labourer driver
+
+Jordan   Garment worker,                 Construction                Demand for more
+         construction,                   (including skills in civil  garment and construction
+                                         engineering, masonry        workers
+                                         and carpentry),
+                                         domestic and care,
+                                         housekeeping in
+                                         hospitals
+
+Kuwait   Labour (unspecified), Oil capacities,                       Imposed ban in March
+                                                                     2018
+         cook, driver, houseboy, utilities infrastructure
+
+         salesperson, welder, (including residential,
+
+         technician (unspecified), education and health
+
+         cleaner                         care)
+
+Oman     Labour (unspecified),           Construction of mega Requires further research
+         Daily work,                     infrastructure projects
+         construction,
+
+Qatar    Labour (unspecified), Construction, hotel                   Economic embargo on
+         construction workers, and restaurant                        Qatar imposed by GCC
+         cook, driver, fitter,                                       countries
+         foreman, private sector
+         service, engineer
+
+Sources: Asian Development Bank (2016).
+
+Brunei Darussalam, China, Hong Kong SAR, and the Republic of Korea have
+smaller market shares in overseas labour migration from Bangladesh. However,
+labour migrants to these countries, including those from Bangladesh, are offered
+opportunities for skilled work and more likely to be safe and protected in these
+countries of destination. Accordingly, Brunei Darussalam, China, Hong Kong SAR
+and the Republic of Korea are examples of good practice in safe and skilled labour
+migration from Bangladesh's point of view.
+
+The tourism sector in Brunei Darussalam, domestic caregiving sector in China,
+Hong Kong SAR, and the manufacturing sector in the Republic of Korea all have the
+potential to hire skilled workers (Table 5).
+
+                                                Bangladesh Annual Migration Report 2017 31
+TABLE 5: GROWING AND SPECIALIZED LABOUR MARKETS FOR BANGLADESHI
+
+WORKERS IN EAST AND SOUTH-EAST ASIA
+
+Country of Occupations filled                               Growth Trends          Potential Opportunities
+Destination by labour migrants                              and Labour Market      or Bottlenecks for
+                                                            Needs                  Migrant Workers
+                 from Bangladesh
+
+China, Hong Domestic caregiving, Skilled and trained                               Declining Filipino domestic
+Kong SAR salesperson, transport domestic caregiving                                workers provide growing
+                                                                                   market
+
+Republic of Manufacturing                                   Skilled work in        Low cost; facilitation of
+Korea                                                       civil engineering,     return
+                                                            construction, masonry
+                                                            and carpentry,
+                                                            domestic and care
+                                                            work in hospitals,
+                                                            housekeeping
+
+Brunei            Labour (unspecified), Construction, tourism Growing Bangladeshi
+
+Darussalam construction sector                                                     community
+
+Source: BMET; BOESL.
+
+MIGRATION INTENSIVE DISTRICTS
+
+BMET data indicates a variation in the distribution of migrants by district of origin
+(Figure 4). The top five migration-intensive districts are Comilla, Chattogram,
+Brahmanbaria, Tangail and Dhaka. DEMOs and TTCs in these districts see higher
+numbers of migrant workers when delivering basic migration services such as online
+registration and fingerprinting, skills training, and pre-departure orientation to the
+aspirant and outbound migrants.
+
+FIGURE 4: DISTRICT OF ORIGIN FOR MIGRANTS FROM BANGLADESH 2017 (BMET, 2018)
+
+Panchagarh                                  20,000  40,000  60,000  80,000         100,000    120,000
+Lalmonirhat
+Thakurgaon
+
+    Sherpur
+   Dinajpur
+    Rangpur
+
+      Khulna
+  Patuakhali
+
+     Natore
+ Netrakona
+
+     Magura
+   Bagerhat
+  Meherpur
+ Nawabganj
+    Pirojpur
+
+       Bhola
+   Naogaon
+
+     Kushtia
+       Pabna
+      Barisal
+
+  Madaripur
+ Sunamganj
+Cox's Bazar
+
+    Gazipur
+         Feni
+
+       Sylhet
+Lakshmipur
+
+   Narsingdi
+      Tangail
+
+  Chandpur
+ Chittagong
+
+     Comilla
+               0
+
+32 Bangladesh Annual Migration Report 2017
+2,189WOMEN AND LABOUR
+    1,907MIGRATION
+        1,793
+            1,995       Globally there is an increasing share of women among migrant workers. In addition,
+                1,612   the occupations of women migrant workers are changing. In 2007 the United
+                    1,994Nations coined the term, feminization of migration, to recognize this trend. Following
+                        1,762this trend, the number of women labour migrants from Bangladesh has increased in
+                            939the last two decades. Between 1991 and 2000 women migrating from Bangladesh
+                                366constituted only 1 per cent of all labour migration. In 2003 the Government of
+                                    454Bangladesh lifted the ban on migration by low-skilled women migrant workers. As a
+                                        659result, the number of women labour migrants from Bangladesh grew. By 2016, the
+                                             1,216proportion of women among all labour migrants had increased to 18 per cent. In
+                                                 2,3632017, a total of 121,925 women migrated abroad for work (Figure 5).
+
+                                                     11,259FIGURE 5: YEARLY TREND IN WOMEN MIGRATION FROM BANGLADESH
+                                                         13,5701991­2017 (BMET, 2018)
+                                140,000
+                                                             18,045120,000
+                                                                 19,094100,000
+                                                                     20,842
+                                                                         22,22480,000
+                                  60,000
+                                                                             27,70640,000
+                                                                                  30,57920,000
+
+                                                                                     37,304-
+                                                                                          56,400
+                                                                                              76,0071991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+                                                                                                  103,718
+                                                                                                      118,088Historical outmigration data for the years 1991­2017 for women migrants indicate
+                                                                                                          121,925that Saudi Arabia, the United Arab Emirates Jordan, Lebanon, and Oman are the
+                        top five countries of destination for Bangladeshi women migrant workers (Figure 6),
+                        where 99 per cent of women migrants are employed as domestic workers.
+
+                                                                                                     Bangladesh Annual Migration Report 2017 33
+FIGURE 6: DESTINATIONS FOR WOMEN MIGRANTS FROM BANGLADESH
+1991­2017 (BMET 2018)
+
+        Others 1,134
+
+        Pakistan 40
+
+Brunei Darussalam 105
+
+        Cyprus 139
+
+United Kingdom 151
+
+                     Italy 464
+
+                     Libya 531
+
+        Singapore 1,218
+
+China, Hong Kong SAR 1,479
+
+        Bahrain 4,285
+
+        Malaysia 6,590
+
+        Kuwit 8,186
+        Mauritius
+                                                   16,497
+
+        Qatar                                      25,822
+        Oman
+                                                                   64,602
+
+        Lebanon                                                            104,207
+                                                                                      129,820
+        Jordan
+                                                                                     126,001
+United Arab Emirates
+
+Saudi Arabia                                                                                                         204,729
+                                                                                                             200,000
+                     -                                     50,000          100,000   150,000                                            250,000
+
+Historically Saudi Arabia has been the largest market for Bangladeshi women labour
+migrants (Figure 6). In 2017, the highest number of women labour migrants 83,354
+(68.4% of all women migrants) went to Saudi Arabia, followed by 19,872 (16.3%) to
+Jordan and 9,199 (7.54%) to Oman (Figure 7).
+
+FIGURE 7: NUMBER OF WOMEN LABOUR MIGRANTS EMPLOYED OVERSEAS BY
+DESTINATION IN 2017 (BMET, 2018)
+
+83,354
+
+        19,872
+
+                                            9,199
+
+                                                   3,272 3,209 1,642 552 393 172 102 28                                21       76
+
+Saudi Arabia Jordan  OmanUnitedEAmriarabtes Qatar Lebanon Mauritius        Kuwait    KCohnignaS,ARSingapore  Malaysia  Bahrain  Others
+                                                                               Hong
+
+PREFERRED AND AVAILABLE OCCUPATIONS FOR WOMEN
+
+Bangladeshi women labour migrants continue working in traditional roles as
+housekeepers in Gulf countries with a small proportion employed in ready-made
+garments manufacture in Jordan. Although most women migrant workers are
+employed as housekeepers, the Government believes that there is strong demand
+for women workers in professions such as nursing, care giving, cashier operation,
+catering, and electronics manufacturing in the major labour receiving countries in the
+Gulf as well as in Europe and East Asia (Tables 2, 3, 4 and 5).
+
+34 Bangladesh Annual Migration Report 2017
+In order to diversify the occupations beyond housekeeping for Bangladeshi women
+migrant workers, Government representatives explored the labour markets in a
+number of countries in 2017. There were two high level visits to Japan to explore
+employment opportunities for Bangladeshis, and in particular for Bangladeshi women
+in higher-skilled professions such as nursing, day care and rehabilitation. There have
+also been similar efforts to explore further markets in countries including Jordan,
+Singapore, Malaysia and China, Hong Kong SAR (BMET, 2017).
+
+There are indications that demand for skilled domestic caregivers in China, Hong
+Kong SAR is growing. In addition to a diversified labour market, countries such as
+China, Hong Kong SAR have better safeguards for women migrant workers. The
+Government's requirement for mandatory skills training and pre-departure training
+also benefits women migrant workers.
+
+In April 2018, the Government of Bangladesh signed an MoU with the Government
+of the United Arab Emirates to facilitate the recruitment of workers from Bangladesh.
+Under this agreement, United Arab Emirates has agreed to recruit Bangladeshi
+women and men in 19 employment categories. The Secretary of Expatriates Welfare
+and Overseas Employment, Ms Nomita Halder, stated that initial recruitment will be
+undertaken by the private sector, but ultimately followed by the public sector.
+
+ Ms Nomita Halder, Secretary of Expatriates' Welfare and Overseas Employment, left and
+ Saif Ahmed Al Suwaidi, Undersecretary of human resources and Emiratization of the United
+ Aarab Emirates signs the deal in Dubai, United Aarab Emirates (Photo Credit: MoEWOE).
+
+SPECIFIC TRAINING AND RECRUITMENT REQUIREMENTS FOR
+WOMEN
+
+Training for aspirant women migrant workers is provided by both government and
+non-government agencies. BMET provides a residential 30-day residential training
+course on housekeeping, including courses on language and culture and how to use
+
+                                                                       Bangladesh Annual Migration Report 2017 35
+                             household appliances for women migrants seeking work in China, Hong Kong SAR.
+                             This training course is funded by MoEWOE's Migrants Skills Development Fund.
+
+                             There is a similar month-long housekeeping training programme on housekeeping
+                             for women migrants for the Saudi Arabia market. The cost of training is borne by
+                             Recruitment Agencies and provided free of charge for migrant workers. This training
+                             is provided in 36 TTCs, with a housekeeping manual developed to increase the skills
+                             of women migrant workers. Training can also be obtained through a mobile phone
+                             application (MoEWOE, 2017: 33­34).
+
+                             BMET has also introduced e-learning courses on housekeeping for aspirant women
+                             migrant workers. This programme is being implemented through 36 TTCs across the
+                             country with support from the flagship Access to Information Program managed by
+                             the Prime Minister's Office.
+
+                             Women can enroll in other technical skill trainings such as driving, tailoring, plumbing,
+                             and welding. BMET offers these six-month non-residential training programmes
+                             where classes are held three days in a week. With support from the World Bank
+                             these training courses are implemented by the Government of Bangladesh under
+                             the Skills and Training Enhancement Project. The training courses are offered free
+                             of charge, and trainees receive a stipend of BDT 700 per month during the course.
+                             BMET issues certificates to successful graduates. A total of 87,700 women workers
+                             were trained through TTCs during the fiscal year to June 2017 (MoEWOE, 2017: 33).
+
+                             Training for occupations in ready-made garments manufacture has been introduced
+                             in collaboration with Bangladesh Garment Manufacturers and Exporters Association
+                             in response to demand for ready-made garments workers in destination countries
+                             such as Jordan (MoEWOE, 2017: 34).
+
+                           UTILIZATION OF REMITTANCES EARNED BY WOMEN MIGRANT
+                           WORKERS
+
+                             Men remit more than women because they earn more, but women send back a
+                             greater portion of their earnings (Barakat et al. 2014). Women remitted 72 per cent
+                             of their income in comparison to men migrant workers, who remitted 54 per cent
+                             (UN-Women, 2015).
+
+                             Remittances sent by women migrant workers elevate women's position in society.
+                             Women migrant workers also gain recognition in their families as earners and
+                             providers. Testimonies from returnee women and male migrant workers show that
+                             along with financial remittances, migrants also bring home social benefits such as
+                             new skills, attitudes, and knowledge. However, some evidence indicates that the new
+                             capabilities of returnee Bangladeshi women migrants are not always appreciated. For
+
+36 Bangladesh Annual Migration Report 2017
+example, some women reported resistance when they wanted to apply their newly
+learnt social and business skills (Barakat et al. 2014).
+
+There should be larger scale and more frequent national surveys on the impact of
+remittances sent by women migrant workers. The surveys could also explore the
+differences between the intended and actual utilization of their remittances. The
+survey results would form the evidence base for the design of financial and other
+services to support returnee migrant workers and their families.
+
+PROTECTION OF WOMEN MIGRANT WORKERS
+
+Bangladesh was the first country in South Asia to promulgate a law, known as
+the Immigration Ordinance Law 1982, to make the immigration process safer and
+easier for aspirant migrant workers. EWOEP 2016 (Section 2.4) protects women
+migrant workers. It states that women migrants are particularly vulnerable due to
+discrimination, violence and repression at home. Notably women are routinely victims
+of deception, rights violations, trafficking, and physical abuse during the recruitment,
+deployment and employment phases. EWOEP 2016 promotes sending women
+workers to countries where the protection of women is ensured by local laws. To
+address the issue of harassment and sexual exploitation, the Policy encourages the
+increase of women staff in the labour wings of embassies located in countries where
+there are higher numbers of women migrants. At present there are 29 labour wings
+in 27 Bangladesh embassies abroad (Economic Relations Division, MoF, July 2018).
+At present countries where Bangladesh embassies have labour wings are: Bahrain,
+Brunei Darussalam, China, Egypt, Greece, Iraq, Italy, Japan, Jordan, Saudi Arabia,
+Kuwait, Lebanon, Libya, Malaysia, Maldives, Mauritius, Oman, Qatar, the Republic
+of Korea, the Russian Federation, Singapore, Spain, Thailand, United Arab Emirates,
+and the Permanent Mission of Bangladesh to the United Nations and International
+Organizations in Geneva.
+
+The attachés at these labor wings are trained to ensure the welfare of women
+migrants in their work environment, and provide legal, psychological, health and
+financial counselling. In addition, special support programmes are undertaken for
+repatriation of women workers that are victims of abuse.
+
+Safe homes for refuge have been established in four destination countries: Saudi
+Arabia, Oman, the Republic of Korea and Jordan. The respective Bangladesh
+embassies and consulates in these countries oversee these safe homes, which are
+financially supported from WEWF. Women taking refuge in safe homes are provided
+with food and health care. When a women worker asks for support her name is
+registered, a case file is opened at the help desk of the labour wing of the embassy or
+consulate, and a lawyer is assigned to the case. The concerned Recruitment Agency
+is immediately contacted for the details of the employer. In some cases, the woman
+
+                                                                       Bangladesh Annual Migration Report 2017 37
+                             migrant worker is repatriated. Based on discussions with the woman migrant worker,
+                             and if her safety can be ensured, she might return to work with her employer. The
+                             alleged victim undergoes a physical examination and if any abuse is evident, a criminal
+                             case is immediately filed.
+
+                             After repatriation, the women victim is compensated with BDT 100,000 (MoEWOE,
+                             2017: 16­17). Approximately BDT 1.5 million is kept as security from Recruitment
+                             Agencies dealing with women labour migration. Legal steps including cancellation
+                             of license and financial penalties are taken against any agency that is found guilty of
+                             exploiting women migrants (MoEWOE, 2017: 16­17).
+
+                             BMET has also set up a complaint management cell for expatriate women workers
+                             to address the complaints of women migrants. In addition, the Probash Bondhu call
+                             centre has been set up to provide support to women migrants in Malaysia, Jordan
+                             and Saudi Arabia (MoEWOE, 2017: 16­17).
+
+                             In 2017 MoEWOE continued to maintain welfare desks in the offices of Deputy
+                             Commissioners in all 64 districts of Bangladesh. At the same time the welfare desks
+                             at three international airports in Bangladesh continue to support outgoing migrant
+                             workers, particularly women, with on-the-spot and urgent airport services on a 24/7
+                             basis.
+
+                             To improve working conditions and facilities of women migrant workers in Saudi
+                             Arabia, the Joint Technical Committee of the Bangladesh mission in Saudi Arabia and
+                             the labour ministry of Saudi Arabia amended certain clauses in the standard labour
+                             contract in March 2018. The changed clauses now specify that a women migrant
+                             worker can only work in one household; that an Recruitment Agency is allowed
+                             to transfer a women migrant worker from Saudi Arabia to any other country; that
+                             salary payments of women migrant worker must be paid into a bank account; and
+                             that the contract must be written in three languages (Bengali, Arabic and English)
+                             with all three versions being of equal legal standing (BMET, 2018).
+
+                             NGOs played a role in supporting women migrant workers. In 2017 RMMRU
+                             introduced a mobile application known as Obhijog BMET through which anyone can
+                             lodge a complaint. Bangladesh Obhibashi Odhikar Forum of WARBE Development
+                             Foundation supported the parliamentary caucus on migration and development,
+                             and a Grievance Receiving Centre at BMET. Bangladesh Mohila Sramik Association
+                             worked to strengthen monitoring of labour wings, while the Awaj Foundation
+                             collected information of aspirant migrants through 20 women workers' café centres.
+                             The Obhibashi Kormi Unnoyon Programme provided training on health of women
+                             migrants in Lebanon through the formation of groups and information dissemination
+                             (RMMRU, 2017).
+
+38 Bangladesh Annual Migration Report 2017
+SPECIFIC CHALLENGES FOR WOMEN MIGRANTS
+The growth in the number of women migrating from Bangladesh for work in recent
+years is encouraging. The Government of Bangladesh has sought to reduce the cost
+of migration, building on knowledge of migration procedures, safety and security
+abroad, and effective utilization of remittances. With the introduction of e-services
+and decentralized recruitment processes, the Government of Bangladesh has reduced
+the cost and time required by aspirant women migrant workers. In financial terms
+the total savings of all aspirant migrants amounts to over BDT 5 billion per year
+(BMET, 2018).
+Despite significant efforts by the Government of Bangladesh in 2017 and in earlier
+years, women migrant workers continued to face challenges. For example, women
+migrant workers engaged in housekeeping suffered mental and physical harassment
+by employers, lower wages, irregular salary payments, lack of rest and recreation
+facilities, long working hours, being forced to work in multiple households, lack
+of medical treatment facilities, improper implementation of contract terms and
+conditions, and were victims of corruption (BMET, 2018).
+Poor cultural awareness, language barriers, limited or no education, and skills gaps
+continued to be key challenges for women labour migrants in 2017. The mandatory
+pre-departure orientation programmes and, in certain cases, mandatory skills training
+courses during the pre-departure period alleviated these challenges to some extent.
+
+                                                                       Bangladesh Annual Migration Report 2017 39
+  RECRUITMENT
+
+                             There are two broad mechanisms for recruitment: private and government managed.
+                             Recruitment of migrant workers through the public sector is undertaken by the
+                             government recruiting agency BOESL. Private sector recruitment is processed
+                             through private Recruitment Agencies. MoEWOE approves and issues licenses for
+                             these Recruitment Agencies.
+
+                             A third mechanism is used for migration to specific countries. For example, labour
+                             migration to Malaysia is currently managed through a G2G agreement.
+
+                           RECRUITMENT BY BOESL
+
+                             BOESL was established in 1984 as a limited company, and as a stakeholder
+                             organization of MoEWOE. It is the only State-owned overseas employment company
+                             in Bangladesh. It serves as the recruiting agency for overseas employment and focuses
+                             more on the recruitment of skilled and professional migrant workers.
+
+                             BOESL identifies demand for foreign employment and facilitates the recruitment
+                             process for Bangladeshi workers that go abroad directly under bilateral arrangements
+                             with certain Country of Destination. These specific countries are currently Japan,
+                             Jordan and the Republic of Korea. For example, based on a 2006 MoU between
+                             Bangladesh and the Republic of Korea, BOESL has continued to send migrant workers
+                             to the Republic of Korea under EPS through which Bangladeshi migrant workers
+                             receive full protection under the Republic of Korea labour law.
+
+                           GOVERNMENT OVERSIGHT AND MONITORING OF
+                           RECRUITMENT AGENCIES
+
+                             Most labour migrants are recruited by private Recruitment Agencies. Recruitment
+                             Agencies recruit almost all of the lower-skilled outbound migrants to Saudi Arabia,
+                             Qatar and Oman. MoEWOE, through BMET, regulates and issues recruitment
+                             licenses to these Recruitment Agencies while BAIRA is the main trade association
+                             for Recruitment Agencies for overseas employment.
+
+                             BMET lists 1,174 licensed Recruitment Agencies on its website. BMET also lists
+                             110 Recruitment Agencies whose licenses it has suspended and 2 Recruitment
+                             Agencies whose licenses it has cancelled (www.bmet.org.bd, accessed 14 October
+                             2018). BMET issued 152 new licenses in 2017 and renewed 707 (BMET, 2017).
+                             This oversight of licensing indicates the degree to which MoEWOE regulates the
+                             recruitment of labour migrants. BAIRA lists 1,060 member-Recruitment Agencies on
+                             its website along with the recruitment license number of each Recruitment Agency
+                             (www.baira.org.bd, accessed 14 October 2018). The Recruitment Agencies are
+
+40 Bangladesh Annual Migration Report 2017
+centrally located. Nearly all of the Recruitment Agencies have offices listed in Dhaka
+and a few Recruitment Agencies have offices in Chittagong. The two listings suggest
+that there may be approximately 100 licensed Recruitment Agencies that are not
+members of BAIRA.
+
+Association of Travel Agents of Bangladesh which has 300 members is closely
+associated with BAIRA. Typically, large recruiting agencies also own a travel agency
+business and combine the processes of recruitment and subsequent travel bookings.
+
+COST STRUCTURE OF MIGRATION
+
+The real cost of labour migration from Bangladesh is the among the highest in the
+world resulting in loss of income among low-wage workers and possible reductions
+in remittances (Barkat et al. 2014:25). The cost components of labour migration
+includes fees for registration, visas, work permits, medicals, the costs of airfares,
+training and testing, contributions to welfare funds, insurance, recruitment service
+charges, and income taxes (Barkat et al. 2014:26).
+
+The Government has continued to create fair and transparent cost structures for
+labour migrants to different countries. The Government can directly control costs
+imposed by BOESL for the countries and categories of workers that are recruited
+through BOESL as cited above. BOESL does not aim to make a profit nor to subsidize
+the costs of recruitment. BOESL does not impose service charges on labour migrants
+but levies commissions from employers. In this way, costs incurred by labour migrants
+are minimized (Barkat et al. 2014:27).
+
+The Government, however, faces more difficulties in controlling the costs incurred
+by labour migrants recruited through private Recruitment Agencies. This is partly
+because costs are driven by market forces and partly because the process and
+requirements differ by countries of destination. Nevertheless, the Government
+through MoEWOE and BMET has continued intervene in cost structures for private
+sector labour migration. For example, in 2013 BMET announced a cost structure for
+women migrant workers to countries such as China, Hong Kong SAR, Singapore and
+Jordan that includes a cap on costs incurred by the migrant worker of BDT 20,000
+(Barkat et al. 2014:27). In addition, women migrants are entitled to take a loan from
+PKB to cover the costs of necessary air fares and initial living expenses.
+
+Similarly, the Government set out recruitment and migrations costs for the United
+Arab Emirates, Oman and Singapore that ranged from BDT 42,680 for Oman to BDT
+45,480 for Singapore (Barkat et al. 2014:28). In 2017, the Government announced
+
+                                                                       Bangladesh Annual Migration Report 2017 41
+the maximum labour migration costs for 14 countries (Table 6).
+
+TABLE 6: MIGRATION COST CAPS FOR 14 COUNTRIES (MOEWOE, 2017)
+
+Country of destination                      Cost of migration
+
+1  Malaysia                                 BDT160, 000 (construction workers)
+
+                                            BDT 140,000 (agricultural labourers)
+
+2  Libya                                    BDT 145,780
+
+3  Bahrain                                  BDT 97,780
+
+4  United Arab Emirates                     BDT 107,780
+
+5  Kuwait                                   BDT 103,780
+
+6  Oman                                     BDT 100,780
+
+7  Iraq                                     BDT 129,780
+
+8  Qatar                                    BDT 100,780
+
+9  Jordan                                   BDT 102,780
+
+10 Egypt                                    BDT 120,080
+
+11 Russian Federation                       BDT 166,680
+
+12 Maldives                                 BDT 115,780
+
+13 Brunei Darussalam                        BDT 120,780
+
+14 Lebanon                                  BDT 117,780
+
+However, surveys show that migrants recruited through the private sector pay
+substantially more than the guidelines set by the Government. The Bangladesh
+Household Remittance Survey of 2009 (IOM, 2010) showed that 75 per cent of the
+migrants surveyed spent between BDT 100,001 and BDT 300,000. In fact, another
+13 per cent spent even more than BDT 300,000 and the mean cost of migration was
+BDT 220,834.
+
+Most significantly, a breakdown of these costs showed that 60 per cent of the costs
+was paid to intermediaries and 18 per cent to other helpers. Government fees and
+Recruitment Agency fees were just 1 per cent and 10 per cent respectively. The most
+common sources of funds for migration costs were loans, family, selling land and
+other assets, and mortgaging land.
+
+There were variations among destination countries. For example, labour migrants to
+Saudi Arabia, the United Arab Emirates and Bahrain incurred higher costs than those
+going to Kuwait, Oman and Qatar. The average migration cost under Recruitment
+Agencies amounts to BDT 309,259 as reported in a 2014 ILO study. Migration costs
+were found to be higher for men than women with an average cost of BDT 311,301
+­ almost double than that of the women migrant worker at BDT 188,273. However,
+the study did not reveal the reasons for these differences and this should be an area
+for further research or re-analysis of existing data. The study also found that the
+
+42 Bangladesh Annual Migration Report 2017
+average cost of migration for 42 per cent of migrants varied between BDT 281,921
+and BDT 422,880.
+
+IDEAL RECRUITMENT PRACTICES
+
+As described above the most significant problem in recruiting potential labour
+migrants is the high costs imposed on migrants. The Government continues
+to intervene to control costs by providing cost guidelines and invoking caps to
+recruitment costs. However, many of the costs are hidden in the informal economy
+and the interventions to control labour migration costs have not yet succeeded.
+Recruitment in the private sector is far from ideal.
+
+Where the Government has greater control over the recruitment process, there are
+clear examples of best practice in recruitment. The collaboration with the Republic
+of Korea through EPS operated by BOESL is an example of a desirable recruitment
+practice. Within the EPS system workers report satisfaction with their contract-
+based salaries, benefits, and low living expenses. Under this process, migration costs
+amount to BDT 80,000­85,000, and employees can earn more than BDT 120,000
+including overtime per month. The employees are engaged in the manufacturing
+sector primarily in non-professional, lower-skilled roles. The employers provide free
+food and accommodation for migrants. Between 2008 and 2017, BOESL sent 16,721
+migrants to the Republic of Korea (BOESL, 2017).
+
+Similarly, since 2010, BOESL has also sent more than 40,000 women migrant workers
+to the Jordanian ready-made garment sector under a low-cost model. BOESL
+charges only BDT 12,000 in fees for each applicant. Each worker can earn up to
+BDT 18,000 per month and the employer also provides accommodation, food, and
+primary medical care. Potential migrants are selected by representatives of Jordanian
+ready-made garment companies during visits to Dhaka (BOESL, 2017).
+
+The procedure adopted to recruit trainees from Bangladesh for Japan is an example
+of best practices. For example, International Manpower Development Japan recruits
+technical trainees for Japanese companies, providing monthly allowances to the
+trainees for five years, as part of their agreement with BMET (MoEWOE, 2017:34).
+This recruitment process is free of cost to the Bangladeshi trainee.
+
+In the Japan, the Republic of Korea and Jordan examples, ideal recruitment practices
+include clear and transparent selection procedures and policies, participation of
+bona fide representatives of Country of Destination in recruitment, clearly defined
+remuneration and other benefits, and reasonable or no costs to the migrant worker.
+
+                                                                       Bangladesh Annual Migration Report 2017 43
+  MIGRATION MANAGEMENT
+  ACROSS GOVERNMENT
+  INSTITUTIONS
+
+                             MoEWOE is the focal ministry for labour migration policies and programme
+                             implementation around foreign labour market opportunities, skills development
+                             for migrant workers, and the welfare of expatriated workers and returning labour
+                             migrants. It carries out these functions in cooperation with related government
+                             institutions including MoFA, MoHA and MoL among others.
+
+                             There are also some areas of labour migration that are not part of MoEWOE's remit
+                             such as the regulation of remittances, where MoEWOE is not the lead agency such
+                             as combatting trafficking in people, or where few initiatives have been taken to date
+                             such as an integrated approach to managing the reintegration of returnee migrants.
+                             Often the management of the wider set of migration issues requires the joint efforts
+                             of a number of government institutions.
+
+                           REMITTANCE
+
+                             Remittances are one the most important benefits of labour migration to individual
+                             families and to the wider economy of Bangladesh. Data on total annual remittances
+                             since 1976 are given to provide context for the amount for 2017 (Figure 8).
+                             Remittances for 2017 are disaggregated by country of origin (Figure 9) and the
+                             results of a recent study on remittance channels are also shown below (Figure 10).
+
+                             BMET publishes data on remittances on its website but this information is collected
+                             by the Bangladesh Bank (the central bank of Bangladesh). In addition, the regulation
+                             of remittances lies with the Bangladesh Bank and other Government institutions
+                             responsible for fiscal and monetary policy including oversight of financial institutions
+                             such as banks and businesses specializing in foreign exchange.
+
+                             In Bangladesh, MoF and the Bangladesh Bank set fiscal and monetary policies
+                             respectively. These polices affect interest rates for borrowers and savers, foreign
+                             exchange regulations, taxation of overseas wage earners, surveillance of informal
+                             remittance channels, and legal measures against individuals and organizations
+                             conducting illicit money transactions. The details of fiscal and monetary policies
+                             and financial compliance regulations are complex issues beyond the scope of this
+                             Bangladesh Annual Migration Report.
+
+44 Bangladesh Annual Migration Report 2017
+23.71Annual remittance inflow
+   82.79
+      106.90Since 1976, remittance inflows to Bangladesh have grown steadily. In 2015, Bangladesh
+         172.06received USD 15.27 billion in remittances, which decreased to USD 13.61 billion in
+           301.332016 and USD 13.53 billion in 2017. Figure 8 shows yearly remittance inflows to
+               301.33Bangladesh through formal channels. Changes in currency exchange rates are the
+                  490.77primary explanation for this downward trend in remittances through formal channels.
+                     627.51
+FIGURE 8: ANNUAL TREND IN REMITTANCE INFLOW TO
+                        500.00BANGLADESH IN MILLION USD (BMET, 2018)
+                          500.0018,000.00
+                              576.2016,000.00
+                                 747.6014,000.00
+                                   763.9012,000.00
+                                      757.8410,000.00
+                                          781.54
+  8,000.00
+                                             769.306,000.00
+                                                901.974,000.00
+                                                   1,009.092,000.00
+                                                     1,153.54
+                                                        1,201.52-
+                                                           1,355.34
+Disaggregation of remittances by host countries
+                                                              1,525.03The Bangladesh Bank maintains current information on remittance inflows. In fiscal
+                                                                 1,599.24years 2015­2016 and 2016­2017, the top five sources of remittances to Bangladesh
+                                                                    1,806.63were Saudi Arabia, the United Arab Emirates, the United States of America, Malaysia,
+                                                                       1,954.95and Kuwait. Although the United States of America is in the top five sources of
+                                                                          2,071.03remittances and the United Kingdom in the top 10, neither of them are among the
+top destination of labour migrants specifically from Bangladesh. However, the two
+                                                                              2,847.79countries host the largest Bangladeshi diaspora. The same holds for Italy, France,
+                                                                                3,177.63Spain, Germany, and Greece, which are among the top 30 sources of remittances
+                                                                                   3,565.31(Figure 9).
+                                                                                      4,249.87
+                                                                                         5,484.08Bangladesh Annual Migration Report 2017 45
+                                                                                            6,562.71
+                                                                                               8,979.00
+                                                                                                  10,717.73
+                                                                                                     11,004.73
+                                                                                                        12,168.09
+                                                                                                           14,163.99
+                                                                                                              13,832.13
+                                                                                                                 14,942.57
+                                                                                                                    15,270.99
+                                                                                                                       13,609.77
+                                                                                                                          13,526.84
+
+1976
+      1978
+            1980
+                  1982
+                        1984
+                              1986
+                                   1988
+                                          1990
+                                                1992
+                                                     1994
+                                                            1996
+                                                                 1998
+                                                                        2000
+                                                                             2002
+                                                                                   2004
+                                                                                         2006
+                                                                                               2008
+                                                                                                     2010
+                                                                                                           2012
+                                                                                                                 2014
+                                                                                                                       2016
+FIGURE 9: REMITTANCE INFLOW TO BANGLADESH BY ORIGIN 2016­2017,2,267.221,688.86
+MILLION USD (BANGLADESH BANK, 2018)2,093.541,103.62
+                                       1,033.31
+ 2500.00                                                  897.71             576.02
+ 2000.00                                                      808.16                 510.78  437.14
+ 1500.00                                                                                         300.99
+ 1000.00                                                                                             104.80                    South Africa 85.12                                                                                                                                 Cyprus 7.43
+   500.00                                                                                                103.86                                                                                                                                                                      Other Countries 113.88
+
+      0.00
+                                                                                                                 Jordan 91.02                      80.65                         Maldives 40.30    Japan 22.92                 Brunei Darussalam 18.28  China 12.82  Sweden 9.25
+                                                                                                                                                       75.83                        Germany 31.75     Greece 22.53
+                                                                                                                                                           68.90                                          Hong Kong SAR 18.98
+                                                                                                                                                               52.03
+                                                                                                                                                                   49.54
+                                                                                                                                                                      42.21
+
+       Saudi Arabia             United States of America  Oman               Qatar   Italy   Bahrain                                               Republic of Korea
+          United Arab Emirates      Malaysia                 United Kingdom                     Singapore                                             Spain
+                                        Kuwait                                                                                                            Iraq
+                                                                                                    France
+                                                                                                        Lebanon                                               Australia
+                                                                                                                                                                  Canada
+
+                                                                                                                                                                      Mauritius
+
+Figure 10 shows the channels through which Bangladeshi migrants send remittances.
+It indicates that an overwhelming majority of migrants (68%­72%) in Saudi Arabia,
+the United Arab Emirates, Malaysia, Kuwait, and Qatar use formal banking channels.
+This is followed by Western Union (6%­12%), Hundi (6%­11%), friends (4%­8%),
+and known persons (1%­4%).
+
+FIGURE 10: CHANNELS THROUGH WHICH REMITTANCES ARE SENT BY                                    68.49
+PERCENTAGE (BBS DATA CITED IN ILO 2015: 39)                                                    70.62
+ 80.00                                                                                            68.80
+ 70.00
+ 60.00                                                                                              75.83
+ 50.00                                                                                                 72.73
+
+40.00  5.84
+30.00    6.52
+20.00      6.22
+              5.46
+10.00
+                12.38
+                       0.86
+                          2.82
+                            1.52
+                              1.97
+                                 1.44
+                                       0.22
+                                          0.21
+                                            0.29
+                                               0.00
+                                                 0.50
+
+                                                                        8.30
+                                                                          8.68
+                                                                             8.23
+                                                                               8.87
+                                                                                  3.99
+
+                                                                                        11.56
+                                                                                           8.37
+                                                                                             6.25
+                                                                                                7.22
+                                                                                                   7.72
+                                                                                                        3.95
+                                                                                                           2.28
+                                                                                                              4.16
+                                                                                                                2.03
+                                                                                                                   1.16
+                                                                                                                         0.78
+                                                                                                                            0.50
+                                                                                                                              4.51
+                                                                                                                                 0.62
+                                                                                                                                   0.07
+0.00
+       Western Union Money Gram Post O ce                                                                        Bank Friends                       Hundi                                          Known                                                             Other
+                                                                                                                                                   Qatar                                           Persons
+
+       Saudi Arabia The United Arab Emirates Malaysia Kuwait
+
+During the pre-departure orientations and training, the Government of Bangladesh
+encourages outbound migrants to send remittances through formal banking channels.
+
+46 Bangladesh Annual Migration Report 2017
+Anecdotally, migration experts and the Government of Bangladesh officials believe
+that such sensitization has played an important role in increasing remittance inflow
+through banking channels.
+
+Trends in remittance utilization
+
+An IOM study reveals that remittances are utilized in five major categories: food and
+clothing (20%); loan repayment (10%); purchase of land (3%); home construction
+and repair (2%); and savings (3%) (Bruyn and Kuddus, 2005:40). Remittances have
+net positive impacts at both the macro, and micro levels. Remittances boost foreign
+currency and helps debt service payment. At the household and community level,
+remittances provide a supplementary source of income, contribute to improved
+living condition, allow migrants families to invest in education, afford health care,
+and service debt. It also provides social security for the elderly by allowing younger
+migrants to contribute to their parents' and elderly family members' health care
+(Bruyn and Kuddus, 2015:41­45).
+
+A study shows that the major categories of remittances savings are (BBS, 2014):
+saving accounts with banks (66%), savings at home (9%), deposit pension scheme
+(7%), savings bond purchase (6%), and permanent deposit of one year and above
+(5%). Since most migrant workers tend to spend their remittances on household
+consumption and less on savings and long-term investment, the Government of
+Bangladesh supports migrant workers to expand their financial literacy during pre-
+departure orientation so that they can make prudent decisions on how better to
+invest their income and savings.
+
+SAFE AND ORDERLY MIGRATION
+
+In addition to formal labour migration, migration is a concept that encompasses a
+range of problematic issues involving people moving across international borders.
+These issues include forced migration, irregular migration, refugee movements,
+trafficking and smuggling. MoEWOE is involved in many of these issues as part of
+wider government effort to address these significant challenges but it is not the
+single lead ministry on any of these issues. These challenges illustrate the complexity
+of migration issues beyond formal labour migration and the way in which several
+government organizations, including MoEWOE, must coordinate to develop policy
+and practice to combat these challenges. Accordingly, this report, with its focus on
+formal labour migration, only briefly outlines a selection of these issues.
+
+Border management and enforcement policies
+
+The Border Guards Bangladesh (BGB) is primarily responsible for managing the land
+borders with India and Myanmar. The Bangladesh Coast Guards (BCG), a maritime
+law enforcement agency, is responsible for managing the maritime border areas. Both
+BGB and BCG operate under MoHA. The Civil Aviation Authority under MoCAT is
+
+                                                                       Bangladesh Annual Migration Report 2017 47
+                             the lead agency for managing the three international airports in Dhaka, Chittagong,
+                             and Sylhet. Recently the government established a multi-agency AVSEC force to
+                             enhance the security of the airports. The Special Branch of Bangladesh Police is
+                             responsible for immigration control.
+
+                             The Government of Bangladesh has introduced smart border management to
+                             strengthen its capacity to deal with cross-border smuggling of goods and commodities,
+                             and trafficking of people. Smart border initiatives in EU have relied on extensive use
+                             of information communication technology to monitor the entry and exit of travelers,
+                             and to scan cargo at the border crossing points. However, smart border initiatives
+                             in Bangladesh have initially focused on installing floodlights and surveillance cameras
+                             at several border outposts with India. As part of an initiative by the Government of
+                             Bangladesh to develop a coordinated border management plan with India, BGB and
+                             Indian Border Security Force have agreed on joint patrolling of border areas and
+                             holding regular meetings of senior and mid-ranking officials.
+
+                             In 2017, a large influx of 700,000 Rohingyas from Myanmar put BGB on high alert.
+                             In November 2017, the Governments of Bangladesh and Myanmar signed an MoU
+                             for the repatriation of Rohingyas. The Government of Bangladesh decided to involve
+                             both IOM and UNHCR in the Rohingya repatriation process (Government of
+                             Bangladesh and GoM, 2017).
+
+                             In addition, to the newly arriving Rohingyas, Bangladesh has been hosting 300,000­
+                             500,000 Rohingyas for several decades, most of whom are concentrated in the
+                             coastal Cox's Bazar district (Government of Bangladesh, 2014). Even though the
+                             Government of Bangladesh has not signed the United Nations Refugee Convention
+                             1951, it has taken a humanitarian approach to address the basic needs of Rohingyas
+                             residing in Bangladesh since the late 1970s. BGB has also held regular meetings with
+                             the Border Guard Police of Myanmar to address issues of mutual concern.
+
+                             Admission criteria for migrants to Bangladesh
+
+                             From the perspective of a receiving country, Bangladesh has several laws defining
+                             the admission criteria for foreigners. These include the Registration of Foreigners
+                             Act 1939, the Bangladesh Control of Entry Act 1952, the Foreigners Act 1946,
+                             the Registration of Foreigners (Exemption) Act 1966, the Foreigners Order 1951,
+                             the Registration of Foreigners Rules 1966. The Special Branch of Bangladesh Police
+                             under the MoHA, controls the entry and exit of foreign nationals. MoEWOE has no
+                             specific role in the management of foreign nationals arriving through formal means
+
+48 Bangladesh Annual Migration Report 2017
+                  for employment, business, or tourism. Currently, citizens from 23 countries do not
+                  need visas for stays of up to 90 days.3 Citizens with diplomatic passports of 15
+                  countries do not need visas for stays of up to 30 days.4
+
+                  Efforts to address human trafficking
+
+                  MoHA is the lead ministry for combating human trafficking and the Government
+                  of Bangladesh has implemented several initiatives to combat trafficking. These
+                  include the promulgation of PSHTA 2012, and adoption of the National Plan of
+                  Action for Combating Human Trafficking 2012­2014. The Secretary of MoHA
+                  chairs an interministerial task force, and district-level committees have been formed
+                  authorizing Deputy Commissioners to monitor compliance with PSHTA 2012. The
+                  Police Headquarters established a monitoring cell that works closely with Interpol
+                  to address the challenges associated with human trafficking. MoEWOE has formed
+                  a VTF that, in collaboration with the immigration police, rescues potential trafficking
+                  victims from international airports. Various government ministries including MoSW,
+                  MoWCA, MoPME run awareness programmes to prevent human trafficking. The
+                  Government has set up a task force for the rescue, recovery, repatriation, and
+                  reintegration of human trafficking victims.
+
+                  PSHTA 2012 not only offers a legal instrument for combating human trafficking but
+                  also calls for the protection of trafficking victims and for the promotion of safe
+                  migration. The Act also provides legal footing for the creation of special judicial
+                  tribunal for prosecuting trials related to human trafficking offences. Article 33 of
+                  PSHTA 2012 authorizes the diplomatic missions of Bangladesh and MoEWOE to
+                  repatriate Bangladeshi nationals that have been victims of human trafficking. In 2017,
+                  MoEWOE continued to work with MoHA to implement various anti-trafficking
+                  initiatives.
+
+                  PSHTA 2012 represents robust policy and practical measures to address trafficking
+                  in people. In 2011, Bangladesh had also ratified (by accession) the United Nations
+                  Convention against Transnational Organized Crime 2000 (known as the Palermo
+                  convention). However, Bangladesh is not a party to the three concurrent and
+                  supplementary protocols (Palermo protocols) including the United Nations Protocol
+                  to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and
+                  Children. Bangladesh is similarly not a party to the Protocol against the Smuggling of
+                  Migrants by Land, Sea and Air nor the third Palermo protocol relating to the control
+                  of firearms.
+
+3 The list of countries includes Barbados, Bhutan, Botswana, Burkina Faso, Fiji, Gabon, Gambia, Ghana, Grenada, Guinea, Guinea-
+     Bissau, Jamaica, Lesotho, Malawi, Maldives, Papua New Guinea, Samoa, Seychelles, Sierra Leone, St. Kitts and Nevis, United
+     Republic of Tanzania Tonga, and Zambia for a maximum stay of 90 days.
+
+4 The list of countries includes People's Republic of China, Estonia, Eswatini, Indonesia, Democratic People's Republic of Korea,
+     Republic of Korea, Malaysia, Myanmar, Philippines, Russian Federation, Sri Lanka, Turkey, Ukraine, United Arab Emirates and
+     Viet Nam.
+
+                                                                                              Bangladesh Annual Migration Report 2017 49
+                           REINTEGRATION
+                             To date the Government has not adopted any specific measures or a comprehensive
+                             policy to facilitate the return of irregular migrants. Similarly, there are limited
+                             measures in place to support migrants returning from formal employment overseas
+                             either unexpectedly or as planned. A successful reintegration strategy addresses
+                             three key elements: psychosocial counselling, economic integration, and social
+                             integration. Reintegration efforts can be implemented at three levels: individual,
+                             community, and societal. This means an individual migrant returnee should have
+                             opportunities for personal well-being with the support of his or her community. At
+                             the same time, many of the structural factors such as exploitation, discrimination,
+                             and protection under law need to be addressed to ensure returnees can contribute
+                             and successfully reintegrate into their communities. In 2017 IOM in partnership with
+                             MoEWOE began a project called Prottasha: Sustainable Reintegration and improved
+                             Migration Governance covering all 64 districts of Bangladesh. The nationwide project
+                             has provided capacity building to DEMO such as motivational videos and materials
+                             for DEMO staff on the importance of social reintegration of returnees.
+
+50 Bangladesh Annual Migration Report 2017
+CONCLUSION
+
+                        International demand for workers from Bangladesh remained strong in 2017. Existing
+                        markets in the Gulf were strong while new markets were explored. Throughout
+                        2017 progress was made to address several challenges, and safe migration and decent
+                        work remained priorities.
+
+                        First, on migration policy and governance, the Government has shown a strong
+                        commitment to develop a migration system that complies with global human rights
+                        norms and respects gender sensitivity. Efforts have been taken to regulate the formal
+                        and informal Recruitment Agencies to reduce the cost of migration and to promote
+                        ethical recruitment. MoEWOE has partnered with the private sector and civil society
+                        in delivering a wide range of services to men and women migrants. On various
+                        occasions, the MoEWOE engaged the delegates from private Recruitment Agencies
+                        and civil society representatives in multi-stakeholder dialogues on promoting
+                        migration from Bangladesh. In collaboration with MoFA, MoEWOE, continues to
+                        focus on a GCM that protects the rights of migrants at all stages of the migration
+                        process. MoEWOE has maintained its progress against MGI in collaboration with
+                        partners in the regional consultative processes such as Abu Dhabi Dialogue (ADD),
+                        Bali Process (BaP), and Colombo Process (CP).
+
+                        Second, the current trend in labour migration from Bangladesh is expected to
+                        continue, with increasing numbers of men and women joining the international
+                        labour market. In 2017, more than 1 million Bangladeshis, in various skill categories,
+                        left the country to accept jobs mostly in the Gulf countries and in South-East Asia.
+                        MoEWOE has prioritized creating a skilled workforce for deployment around the
+                        world. NSDP has provided an opportunity to promote technical and vocational
+                        education. TTCs introduced market-oriented curricula such as a 30-day mandatory
+                        housekeeping course for women labour migrants. MoEWOE is also developing a
+                        system of recognition of prior learning to benefit the returnee migrants. MoEWOE
+                        has continued to work with governments in the traditional large labour markets such
+                        as Saudi Arabia, the United Arab Emirates, Malaysia and Singapore, while seeking to
+                        expand work opportunities for Bangladeshis in other countries and occupations. Safe
+                        migration and decent work conditions are top policy priorities.
+
+                        Third, promoting safe and dignified migration opportunities for women has been
+                        one of the major commitments of MoEWOE. The provision of zero cost for women
+                        migrant workers serving as domestic caregivers in Saudi Arabia is a major success. The
+                        introduction of a labour market for women migrant workers in China, Hong Kong
+                        SAR, even on a limited scale, was also an important achievement. MoEWOE is aware
+                        of women's risks and vulnerabilities in Country of Destination. Efforts have been
+                        taken to address those risks through pre-departure training, support of labour wings
+                        in Country of Destination, and continuous engagement with the stakeholders in the
+                        Country of Destination. MoEWOE is committed to expanding the opportunities for
+
+                                                                                                     Bangladesh Annual Migration Report 2017 51
+                             women in their preferred job categories such as nursing, front desk receptionists,
+                             cashiers, catering, and electronics manufacturing. As part of the Government's long-
+                             term measures to ensure the protection of women migrants, MoEWOE will increase
+                             the number of safe home in Country of Destination, facilitate the repatriation women
+                             that have been exposed to abuse, exploitation, or are in vulnerable conditions. The
+                             parliamentary caucus on migration and the labour and welfare wings in Bangladeshi
+                             embassies have made positive contributions in that direction.
+
+                             Fourth, on recruitment, BOESL has made progress in promoting a fair, low-cost,
+                             and ethical recruitment process. BOESL's success in establishing good recruitment
+                             practices for countries such as the Republic of Korea, Japan and Jordan need to be
+                             replicated with other Country of Destination. MoEWOE continues to work with
+                             private Recruitment Agencies to reduce the cost of migration and advocates for
+                             ethical recruitment practices with BAIRA.
+
+                             Fifth, although MoEWOE is the lead ministry for managing labour migration
+                             from Bangladesh, there are several migration-related issues that require shared
+                             responsibilities and are thus managed across government institutions. For instance,
+                             BGB, under MoHA, is responsible for managing the land border whereas MoCAT
+                             is responsible for managing the international airports. MoEWOE works under the
+                             leadership of MoHA in preventing human trafficking. Remittances transfer constitutes
+                             an important source of foreign currency for Bangladesh, having positive effects on
+                             both household and national development. The migration laws of Bangladesh refer
+                             to provisions related to rehabilitation and reintegration of returnees. MoEWOE is
+                             collaborating with the ILO, IOM, and SDC to develop a reintegration framework.
+                             Such a reintegration framework would complete the cycle of labour migration
+                             management and governance, build on the successes of labour migration, and address
+                             an outstanding challenge.
+
+52 Bangladesh Annual Migration Report 2017
+BIBLIOGRAPHY
+
+MIGRATION POLICY AND GOVERNANCE
+Akhter, Z.
+2014 Review Report on Existing Pre-Departure Orientation Modules/Handbooks/Guides. Dhaka,
+
+           RMMRU. www.rmmru.org/newsite/wp-content/uploads/2014/04/Review-Report_REV_
+           RMMRU_ILO_PDOS_Project.pdf (accessed 2 January 2018).
+Ashraf, A.A.
+2017 International cooperation and governance of migration in all its dimensions, including at
+           borders, on transit, entry, return, readmission, integration and reintegration: A Bangladesh
+           Perspective. Policy Brief and Background Paper prepared for IOM as Background Paper for
+           the National Consultation on GCM, October 2017.
+Ashraf A.A. and F.M. Arafat
+2018 Dynamics of Decentralisation: Migration Services Under Spotlight. Dhaka: Refugee and
+           Migratory Movements Research Unit.
+Bangladesh Overseas Employment and Services Limited (BOESL).
+2017 Annual Report 2017.
+Colombo Process
+2017 Colombo Process (CP) Engagement in the Global Compact for Safe, Orderly, and Regular
+           Migration (GCM): Towards a Colombo Process (CP) joint contribution to the GCM.
+GFMD Bangladesh
+2016 Report of the Ninth GFMD 2016 Bangladesh Chairmanship. http://gfmd.org/ (accessed 2
+           November 2018)
+International Organization for Migration (IOM
+2017 Highlight of the Month: National Consultation on Global Compact for Migration. Monthly
+           Snapshot, October 2017. Dhaka: IOM Bangladesh. http://reliefweb.int (accessed 3 November
+           2018).
+Ministry of Expatriates' Welfare and Overseas Employment (MoEWOE), Bangladesh
+2013 Overseas Employment and Migrants Act 2013 (Act No. VLVIII of 2013). Available from
+           www.ilo.org (accessed 20 July 2018).
+2015 Skills for the International Labour Market: Bangladesh Country Report. MOEWOE, BMET
+           and ILO, Dhaka.
+2016 Expatriates' Welfare and Overseas Employment Policy 2016. Ministry of Expatriates' Welfare
+           and Overseas Employment, Dhaka.
+2017 Annual Report 2015-2016. Ministry of Expatriates' Welfare and Overseas Employment,
+           Dhaka.
+Ministry of Labour and Employment (MoLE)
+2015 Domestic Workers Protection and Welfare Policy. Dhaka: Government of the People's
+           Republic of Bangladesh.
+
+                                                                                                     Bangladesh Annual Migration Report 2017 53
+      Rashid, S.R. and A.A. Ashraf
+      2018 The Mapping and Scoping of Services for the Migrant Workers of Bangladesh at Various
+
+                Stages of the Labour Migration Cycle. Dhaka: International Organization for Migration,
+                Bangladesh Country Office.
+      E. Bari, M. R. and Ummah Salma
+      2016 Advancing the Interests of Bangladesh's Migrant Workers: Issues of Financial Inclusion and
+                Social Protection. CPD Working Paper 112. Dhaka: Centre for Policy Dialogue.
+      Wage Earners' Welfare Board (WEWD)
+      2017 Annual Report 2016-2017. Ministry of Expatriates' Welfare and Overseas Employment,
+                Dhaka.
+
+     TRENDS IN LABOUR MIGRATION FROM BANGLADESH
+      Asian Development Bank
+      2016 Overseas Employment of Bangladeshi Workers: trends, prospects, and challenges.
+      Bangladesh Overseas Employment and Services Limited (BOESL).
+      2017 Annual Report 2017.
+      Bureau of Manpower, Employment and Training (BMET)
+      2015 Official Notification on Recruitment of Women Migrant Domestic Caregiver. Letter No.
+
+                1055, dated 25 May 2015.
+      2017 Advisory Notice on Free Visa. Issued by the Director General, dated 15 October 2017.
+      2017 Information on Overseas Employment Opportunities, January 2017-June 2017. Letter No.
+
+                2524, dated 26 October 2017.
+      2018 Overseas Employment and Remittances from 1976 to 2018. Available from http://www.old.
+
+                bmet.gov.bd/BMET/viewStatReport.action?reportnumber=34 (accessed 24 July 2018)
+      Islam, M.N.
+      2017 HK: A Promising Labour Market for Bangladeshi Women Workers. Working Paper, BMET.
+      Ministry of Labour and Employment.
+      2012 National Skills Development Policy 2011. Dhaka: Government of the People's Republic
+
+                of Bangladesh. www.nsdc.gov.bd/wp-content/uploads/2017/01/NSDP-11.pdf (accessed 3
+                November 2018).
+      MRashid, S.R. and A.A. Ashraf
+      2015 A Scoping Study for Fairer Labour Migration. Commissioned by PROKAS, the British Council.
+                Unpublished Report.
+      Siddiqui, T. and S. Reza
+      2018 Labour Migration from Bangladesh 2017: Achievements and Challenges. RMMRU, Dhaka.
+
+     WOMEN AND LABOUR MIGRATION
+      Bureau of Manpower, Employment and Training (BMET)
+      2015 Official Notification on Recruitment of Women Migrant Domestic Caregiver. Letter No.
+
+                1055, dated 25 May 2015.
+      2018 Overseas Employment and Remittances from 1976 to 2018. Available from http://www.old.
+
+                bmet.gov.bd/BMET/viewStatReport.action?reportnumber=34 (accessed 24 July 2018).
+      Rashid S.R. and S. Watson
+      2017 Assessment of BOESL Recruitment Practices from Bangladesh to Jordan. Dhaka: ILO.
+
+54 Bangladesh Annual Migration Report 2017
+RECRUITMENT PROCESS
+Barkat, Md. I, Hossain and E. Hoque.
+2014 The cost: causes of an potential redress for high recruitment and migration costs in
+
+          Bangladesh. International Labour Organization, ILO Country Office for Bangladesh, Dhaka.
+Bangladesh Overseas Employment and Services Limited (BOESL).
+2017 Annual Report, 2017.
+Bureau of Manpower, Employment and Training (BMET)
+
+    n.d. List of Valid Recruiting Agents. www.bmet.org.bd/BMET/agentlistpreview.action?type=valid
+          (accessed 18 October 2018).
+
+International Labour Organization (ILO)
+2015 Skills for the international labour market: Bangladesh country report. The Ministry of
+
+          Expatriates' Welfare and Overseas Employment, the Bureau of Manpower Employment and
+          Training, and the International Labour Organization, ILO Country Office for Bangladesh,
+          Dhaka.
+International Organization for Migration (IOM)
+2010 The Bangladesh Household Remittance Survey 2009. International Organization for
+          Migration, Regional Office for South Asia, Dhaka.
+Ministry of Expatriates' Welfare and Overseas Employment (MoEWOE), Bangladesh.
+2017 Annual Report 2015-2016. Ministry of Expatriates' Welfare and Overseas Employment,
+          Dhaka.
+
+MIGRATION MANAGEMENT ACROSS MINISTRIES
+Ashraf, A.A.
+2017 International Cooperation and Governance of Migration in all its Dimensions, including at
+
+          Borders, on Transit, Entry, Return, Readmission, Integration and Reintegration: A Bangladesh
+          Perspective. Policy Brief and Background Paper prepared for IOM as Background Paper for
+          the National Consultation on GCM, October 2017.
+Bangladesh Bank
+2018 Wage Earners Remittance Inflows: Selected Country Wise (Monthly). www.bb.org.bd/
+          econdata/wagermidtl.php (accessed 18 October 2018).
+Bangladesh Bureau of Statistics (BBS)
+2014 Report on survey on the use of remittance (SUR), 2013. Dhaka: Statistics and Information
+          Division, Ministry of Planning. BBS.
+de Bruyn, T. and U. Kuddus
+2005 Dynamics of Remittance Utilization in Bangladesh. Geneva, Switzerland: International
+          Organization for Migration.
+Government of Bangladesh.
+2014 Strategy Paper on Addressing the Issue of Myanmar Refugees and Undocumented Myanmar
+          Nationals in Bangladesh: A Summary Presentation. Dhaka: Ministry of Foreign Affairs.
+Government of Bangladesh (Ministry of Foreign Affairs) and Government of Myanmar (Ministry of the
+Office of State Counsellor).
+2017 Arrangement on Return of Displaced Persons from Rakhine State between The Government
+          of the People's Republic of Bangladesh and The Government of the Republic of the Union of
+          Myanmar. Nay Pyi Taw, 23 November 2017.
+
+                                                                                                    Bangladesh Annual Migration Report 2017 55
+      International Labour Organization
+      2015 Skills for the international labour market: Bangladesh country report. The Ministry of
+
+                Expatriates' Welfare and Overseas Employment, the Bureau of Manpower Employment and
+                Training, and the International Labour Organization, ILO Country Office for Bangladesh,
+                Dhaka.
+      International Organization for Migration (IOM)
+      2017 Summary of Divisional Consultations on Sustainable Reintegration and Welfare of Returnee
+                Migrants in support of Global Compact on Migration. IOM, Dhaka.
+      Ministry of Expatriates' Welfare and Overseas Employment (MoEWOE), Bangladesh.
+      2017 Annual Report 2015-2016. Ministry of Expatriates' Welfare and Overseas Employment,
+                Dhaka.
+      Ministry of Law, Justice, and Parliamentary Affairs.
+      2013 The Prevention and Suppression of Human Trafficking Act, 2012. Dhaka: Government of the
+                People's Republic of Bangladesh.
+      Siddiqui, T., S.R. Rashid and B. Zeitlyn.
+      2008 Information Campaigns on Safe Migration and Pre-Departure Training. DRC Working Paper.
+                Sussex, United Kingdom: Sussex Center on Migration Research.
+
+56 Bangladesh Annual Migration Report 2017
+Syrian
+Arab
+Republic
+
+                                                                                          Islamic
+                                                                                          Republic
+                                                                                          of Iran
+
+                               International Organization for Migration ­ IOM Bangladesh
+                               House 13/A, Road 136, Gulshan 1, Dhaka 1212, Bangladesh
+                               Tel.: +88 02 5504 4811 - 13, Fax: +88 02 5504 4818­ 1 9
+                               Website: www.iom.int
+
+ The map on the cover is for illustration purposes only. The boundaries and names
+  shown and the designations used on this map do not imply official endorsement
+
+               or acceptance by the International Organization for Migration.
+
+'This publication was produced with the financial support of the European Union. Its
+contents are the sole responsibility of International Organization for Migration (IOM)
+
+              and do not necessarily reflect the views of the European Union';
+

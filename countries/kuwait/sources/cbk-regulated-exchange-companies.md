@@ -1,0 +1,224 @@
+- [![loader](/en/system/v3.05/assets/images/cbk-loader.svg)](javascript:;)
+- [](javascript:;)
+- [](javascript:;)
+  [](javascript:Share('facebook',%20520,%20350)) [](javascript:Share('x',%20520,%20350)) [](javascript:Share('linkedin',%20520,%20350)) [](javascript:Share('whatsapp',%20520,%20350)) [](mailto:?subject=I%20would%20like%20to%20share%20this%20link%20with%20you&body=%7BTitle%7D%20%7C%20%7BURL%7D)
+
+# Exchange Companies
+
+#### 1.Zajil Exchange Company
+
+- Address
+
+  Al-Qibla, Block (11), Fahad Al-Salem St., Building (4), Osama Building, Ground Floor, Unit (1)
+
+- Postal Address
+
+  P. O. Box: 850, Souk Al-Dakhly , State of Kuwait
+
+- Tel
+
+  \(965\) 22429328\
+  \(965\) 22430120
+
+- Fax
+
+  \(965\) 22403109
+
+#### 2.Al Nada International Exchange Company
+
+- Address
+
+  Al-Salmiya, Block (9), Salem Al-Mubarak St., Buliding (18801), Al-Thuwainee Trading Co. Building, Unit (18 & 19)
+
+- Postal Address
+
+  P. O. Box: 29760, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 25749492
+
+- Fax
+
+  \(965\) 25749493
+
+#### 3.Kuwait India International Exchange Company
+
+- Address
+
+  Al-Murqab, Block (1), Abdulaziz Hamad Al-Saqer St., Building (3), Sabhan Real Estate Co./Abdullah Hamad Al-Ateeqi Build., Floor (1), Unit (1)
+
+- Tel
+
+  \(965\) 22422733\
+  \(965\) 22422765
+
+- Fax
+
+  \(965\) 22405815
+
+- Website
+
+  [kiecokw.com](https://kiecokw.com/)
+
+#### 4.City International Exchange Company
+
+- Address
+
+  Al-Qibla, Block (10), Abdullah Al-Bubarak St., Building (8), Floor (1), Unit (1)
+
+- Postal Address
+
+  P. O. Box: 21804, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 22448507\
+  \(965\) 22441845
+
+- Fax
+
+  \(965\) 22407371
+
+- Website
+
+  [www.cityinternationalexchange.com](http://www.cityinternationalexchange.com)
+
+#### 5.Almuzaini Exchange Company
+
+- Address
+
+  Al-Qibla, Block (10), Building (3A), Public Authority for Investment Build., Floor (12), Office (122)
+
+- Postal Address
+
+  P. O. Box: 2156, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 22461135
+
+- Fax
+
+  \(965\) 22418517
+
+- Website
+
+  [www.muzaini.com](http://www.muzaini.com)
+
+#### 6.Al-Zamel Exchange Company
+
+- Address
+
+  Al-Qibla, Block (11), Fahad Al-Salem St., Plot (4B), Saadoun Al-Jassem Al-Yaqoub Build., Shop (11 & 12)
+
+- Postal Address
+
+  P. O. Box: 274, , State of Kuwait
+
+- Tel
+
+  \(965\) 22429228\
+  \(965\) 22432911
+
+- Fax
+
+  \(965\) 22439567
+
+#### 7.National Money Exchange Company
+
+- Address
+
+  Al-Qibla, Block (8), Al-Mubarakiya St., Building (55), Saud Commercial Center/ Sheikh Khaled Duaij Al-Sabah Build., Unit (24)
+
+- Postal Address
+
+  P. O. Box: 22424, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 22452732\
+  \(965\) 22439686
+
+- Fax
+
+  \(965\) 22450885
+
+#### 8.United Arab Emirates Exchange Center
+
+- Address
+
+  Al-Qibla, Block (13), Street (23), Building (800545), Souq Al-Muttahida Building, Unit (58 & 65)
+
+- Postal Address
+
+  P. O. Box: 26155, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 1808800
+
+- Fax
+
+  \(965\) 22459419
+
+- Website
+
+  [www.uaeexchange.com.kw](http://www.uaeexchange.com.kw/Branches.aspx)
+
+#### 9.Kuwait Bahrain International Exchange Company
+
+- Address
+
+  Al-Murqab, Block (1), Building (1 & 2A), Kuwait Achievements Trading Build., Floor (1)
+
+- Postal Address
+
+  P. O. Box: 26926, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 22421973\
+  \(965\) 22421971
+
+- Fax
+
+  \(965\) 22421852
+
+#### 10.Bahrain Exchange Co.
+
+- Address
+
+  Al-Murqab, Block (1), Abdulaziz Hamad Al-Saqer St., Building (1/0000), Kuwait Achievements General Trading Co. Build., Floor (1S)
+
+- Postal Address
+
+  P. O. Box: 29149, Safat , State of Kuwait
+
+- Tel
+
+  \(965\) 1824000
+
+- Fax
+
+  \(965\) 22401859
+
+- Website
+
+  [www.bec.com.kw](http://www.bec.com.kw)
+
+### See Also
+
+[![Consumers' Protection (1864444)](/en/images/cpu-x1-1_v00_tcm10-143505.jpg) Consumers' Protection (1864444) ](/en/supervision/customer-protection/cp-introduction)
+
+[![New Kuwait 2035](/en/images/new-kuwait-1x-134146_v10_tcm10-134146.jpg) New Kuwait 2035 ](http://www.newkuwait.gov.kw)
+
+[![E-Payment Services](/en/images/epayment-2023-x1-159276_v30_tcm10-159276.jpg) E-Payment Services ](/en/supervision/e-payment-services)
+
+[![KIBS Edaat Bulletin](/en/images/edaat-x1-152538_v50_tcm10-152538.jpg) KIBS Edaat Bulletin ](https://kibs.edu.kw/edaat/)
+
+[![Banking Hall New Visiting Information](/en/images/banking-hall-x1-149978_v10_tcm10-149978.jpg) Banking Hall New Visiting Information ](https://www.cbk.gov.kw/en/about-cbk/offices-and-locations/banking-hall)
+
+[![Innovation Hub ](/en/images/fintech-new-x1-160302_v20_tcm10-160302.jpg) Innovation Hub "Wolooj" ](/en/legislation-and-regulation/innovation-hub/overview)
+
+[![More About Diraya Campaign](/en/images/diraya-x1-153078_v10_tcm10-153078.jpg) More About Diraya Campaign ](http://www.dirayakw.com/)

@@ -1,0 +1,277 @@
+- [Foreign, Commonwealth\
+  & Development Office](/government/organisations/foreign-commonwealth-development-office)
+
+Guidance
+
+# Kuwait: bereavement information
+
+Updated 21 October 2024
+
+![](/assets/frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png)
+
+© Crown copyright 2024
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit [nationalarchives.gov.uk/doc/open-government-licence/version/3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <psi@nationalarchives.gov.uk>.
+
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+This publication is available at https://www.gov.uk/government/publications/kuwait-bereavement-information/kuwait-bereavement-information
+
+## Disclaimer
+
+This information is not meant to be definitive, nor is it to be taken as a substitute for independent legal advice. Neither His Majesty’s Government nor its staff take any responsibility for the accuracy of the information, nor accept liability for any loss, costs, damage or expense that you might suffer as a result of relying on the information. Some of the information may not be relevant to your circumstances. The language used is intended to be general and factual and is not meant to cause offence.
+
+## Introduction
+
+When a relative or friend dies abroad, the different procedures, laws or language can cause additional distress. You may be uncertain about what to do or who to contact.
+
+This country specific information is designed to help you through some of the practical arrangements you may need to make. It supplements the [general information on death abroad](https://www.gov.uk/government/publications/coping-with-death-abroad) produced by the Foreign, Commonwealth & Development Office, which applies to all countries.
+
+As each country has its own laws and customs when a death occurs, it may not be possible to make the arrangements that you prefer, or at the time you would like.
+
+If the deceased is a national of a country other than the UK, the nearest embassy or consulate of their country must be informed. If repatriation is required to a country other than the UK, arrangements should be made directly with the nearest embassy of that country.
+
+The term legal representatives used in this guidance usually refers to the deceased’s next of kin, sponsor/employer, or a shipping agent.
+
+## How to contact the Foreign, Commonwealth & Development Office
+
+There’s a lot of information on this page, but you may have questions. You can speak to someone by phone 24/7 any day of the year by contacting the Foreign, Commonwealth & Development Office in London on 0207 008 1500.
+
+If you’re not in the UK, you can find the contact details of the nearest [British embassy, high commission or consulate online](https://www.gov.uk/world/embassies).
+
+The British Embassy Kuwait phone number is: 22594320.
+
+The priority of the Foreign, Commonwealth & Development Office is to provide assistance to British nationals overseas who need the most help. The level and type of assistance they can offer is tailored to the individual circumstances of each case.
+
+## Next of kin
+
+The next of kin of the person who died will usually need to make decisions and practical arrangements. The next of kin can sometimes appoint another person to act on their behalf (legal representative).
+
+If you’re not the next of kin, they will need to be informed. If required, the Foreign, Commonwealth & Development Office can help you do this.
+
+There’s no legal definition of next of kin in the UK. If there’s a disagreement over who is the next of kin, or the person who died did not choose a next of kin, this can cause additional complications.
+
+If the next of kin is in the UK or elsewhere other than Kuwait, they will need to fill in [the next of kin authorisation form](https://www.gov.uk/government/publications/kuwait-bereavement-information) (only in case of repatriating a non-COVID deceased to UK).
+
+## Release of information to the next of kin
+
+Foreign, Commonwealth & Development Office will try to obtain as much information as possible after your relative or friend has died abroad. Some of this may be only available to the next of kin. Consular officers may be able to obtain this themselves, or they may put you in touch directly with the authorities overseas. They may be able to provide you with details of others who can advocate on your behalf such as lawyers, charities, or other organisations.
+
+Access to information concerning a death is restricted until a coroner has reviewed the evidence such as post-mortem and police reports.
+
+## Insurance
+
+It’s very important to check if the person who died had insurance. If they had insurance, contact the insurance company as soon as possible. They may have a list of approved shipping agents to help you make repatriation arrangements, or be able to cover some of the costs.
+
+If the person who died did not have insurance and the next of kin has decided to repatriate the remains to UK or elsewhere, this has to be arranged through the deceased’s sponsor/employer and a shipping agent. Local burials should be arranged through the sponsor/employer and other concerned local authorities.
+
+The Foreign, Commonwealth & Development Office cannot help with these costs.
+
+## Overall procedures in Kuwait
+
+All Kuwaiti government offices are closed on Fridays and Saturdays, and on local bank holidays. There is no emergency service.
+
+Once the next of kin has decided how they wish to proceed (repatriation or local burial), there are certain local procedures, which are explained in the following sections. The deceased’s employer/sponsor will usually take the necessary actions to comply with these procedures.
+
+If the deceased was in Kuwait on a temporary basis, it’s usual for their travel insurance company to take the necessary actions. In most cases the employer/travel insurance company will appoint a local agent to act on their behalf.
+
+If the family or next of kin in the UK or elsewhere will be the decision makers, they’ll need to give authority (passed to the embassy through FCDO) to a legal representative in Kuwait. Local shipping agent options are listed in later sections of this guidance.
+
+The embassy issues administrative letters in Arabic – a no objection to local burial or repatriation letter, and a death certificate request letter. We do not charge for these letters. These are explained in the following section. Other costs given are approximate and we cannot accept responsibility for any changes.
+
+With COVID deaths, the Kuwait government will bury the deceased soon after passing away. There’s a cemetery for non-Muslims. The deceased will be buried in the area dedicated to their religion. If the deceased does not have family or next of kin in Kuwait, the embassy can issue a letter giving authority to a staff member from the deceased’s employer/sponsor to obtain a death certificate from the relevant Births and Deaths Registrar office. Sorting out the deceased’s personal belongings, finances and so on is explained in later sections of this guidance.
+
+Make sure you have an Arabic speaker with you when following these procedures.
+
+## Getting a no objection letter for burial or repatriation
+
+To have a burial, or to repatriate the body, you’ll need a get a no objection letter by sending an [online enquiry to the British Embassy Kuwait](https://www.contact.service.csd.fcdo.gov.uk/written-enquiry/kuwait/british-embassy-kuwait-city). You’ll need the following:
+
+- Death notification form. To get this, you’ll need to submit the deceased’s passport and Kuwaiti Civil ID along with photocopies of both to the hospital – make sure the name and Civil ID number of the notification is correctly taken down before leaving the hospital. If the death did not occur in a hospital, you’ll need a release letter from the police station or, if the death was an accident, the local police station handling the case. This letter will enable you to transport the body to the General Department of Criminal Evidence in Farwaniya, where an autopsy report will be drafted and the Death Notification issued.
+
+- If you’re the next of kin: your passport, Kuwaiti Civil ID and the deceased’s passport and Kuwaiti Civil ID (if applicable).
+
+- If you’re the legal representative but not the next of kin: your Kuwaiti Civil ID and the deceased’s passport and Kuwaiti Civil ID (if applicable).
+
+## Burial
+
+The next of kin or legal representative of the deceased will usually need to decide between a burial or bringing the person home (repatriation). The deceased can normally be released for burial or repatriation once the Preventive Medicine Department has concluded its tests and the Prosecutor has given permission. The Preventive Medicine Department has a section to advise the bereaved with funeral planning.
+
+For a local burial (if the deceased is Christian), you can arrange for a funeral with a local church. The non-Muslim cemetery is located in Sulaibikhat. Remains are not permitted to be buried after sunset.
+
+If a local burial takes place, then an inquest in the UK will not be possible. For more information on inquests, see the section on UK coroners and inquests.
+
+## Repatriation
+
+The shipping company agent is fully aware of the procedures and required paperwork for repatriation. The process is explained here for information.
+
+It’s the responsibility of the legal representative to select the appropriate carrier for the repatriation of the remains. To issue an airway bill coordination with the Funeral Home that will receive the body is required. Inform the Airline, Kuwait Airways Cargo, Airport Police and the Health Office of the human remains to be shipped.
+
+The day before the remains are shipped to the respective country, the body must be transferred from the General Department of Criminal Evidence to the Al-Sabah Hospital Mortuary (Tel: 2483-2090), which is the only medical facility in Kuwait where remains are prepared for shipment.
+
+### Preventive Medicine Office – Al Sabah Hospital
+
+The legal representative needs to visit the Preventive Medicine Unit of Al-Sabah Hospital with the:
+
+- original Kuwaiti death certificate
+- copy of a carrier final Airway Bill that indicates the shipment day
+- copy of the repatriation permit issued by the Police Department
+
+The Preventive Medicine Unit will issue:
+
+- a letter (Certificate of Repatriation) clearing body shipment from Kuwait to the destination country (this document is issued in multiple colour copies)
+
+- an authorisation form requesting the General Department of Criminal Evidence to transfer the remains to Al-Sabah Hospital Mortuary
+
+- certificate of repatriation
+
+### Return to the General Department of Criminal Investigation
+
+The legal representative is required to submit:
+
+- a copy of the official Kuwaiti death certificate
+
+- the body transfer authorisation form from the Preventive Medicine Office
+
+Transportation of the remains to the Al Sabah Mortuary will be provided by the General Department of Criminal Evidence or the hospital. During the transfer process it’s the responsibility of the legal representative to positively identify the remains of the deceased. The legal representative must also escort and witness the receipt of the remains by Al-Sabah Hospital Mortuary.
+
+### Coffin/container
+
+Although it looks like a coffin, the body must be shipped in a sealed shipping container. A container can be purchased from a coffin maker (details below). The legal representative needs to advise the coffin maker of the shipment day so he can deliver the coffin to the Mortuary. Coffins may cost up to KD 200. The necessary details of approximate size and weight of the coffin should be passed on to the airline.
+
+### Shipment day
+
+On shipment day, the next of kin should be present at the mortuary to identify the deceased. The shipping agent will also be present to witness the preparation and placing of the remains into the casket. An embassy representative of the repatriation country will also be present to provide the seal that will be used for wax sealing the casket. The airway bill and Preventive Medicine Department’s letter will be attached to the exterior of the shipping container, and the name of the deceased will be written both in Arabic and English.
+
+The legal representative/shipping agent must notify the information desk at Al-Sabah Hospital of the departure time by taking copies of the:
+
+- certificate of repatriation
+- airway bill
+- Kuwaiti death certificate
+
+The shipping company must now clear the remains and paperwork through Kuwaiti customs. Therefore, after sealing the coffin, the legal representative must deliver the following originals to the shipping company:
+
+- no objection letter to repatriate issued by the embassy
+- Kuwaiti death certificate with English translation
+- certificate of repatriation
+- airway bill
+- cancelled original passport (this is done by the embassy)
+
+According to local procedures, an embassy representative is required to sign off the certificate of repatriation.
+
+### Cancelling Kuwaiti visa
+
+During this, Kuwaiti customs clearance the immigration desk at the airport will cancel the valid residency.
+
+Remember to keep copies of every original document.
+
+## Embalming and cremation
+
+It’s against Islamic customs and law to embalm or cremate remains therefore these services are not available in Kuwait. Although measures are taken to preserve the deceased, significant deterioration should be expected, so it’s important to act quickly.
+
+## Getting a local death certificate
+
+Register the death at the nearest Central Registry for Births & Deaths (The Records Office in Maidan Hawally area covers Hawalli Governorate, and the Records Office in Fahaheel area covers Ahmadi Governorate). The following documents are required to be submitted:
+
+- death notification
+- passport copy of the deceased
+- Kuwaiti Civil ID copy
+- release letter issued by the police (if applicable)
+- request letter from the embassy (explained below)
+
+If the death is sudden or suspicious, or evidence exists that indicates that the death was violent or unnatural, the investigator will hold an inquest. Such an inquest may take several weeks or months (however, the Investigation Office will still issue the necessary permit to allow funeral arrangements or body transfer procedures to proceed). In this case, the cause of death on the death certificate will indicate ‘has not been determined/ unknown’.
+
+Some undertakers in other countries do not accept local death certificates with cause of death ‘unknown’. We recommend you consult with the undertaker of the respective country where the body is being repatriated before you move to the next step.
+
+Stillborn babies do not require a death certificate; the death notification stamped by the hospital and the corresponding clinic is sufficient to repatriate the remains.
+
+To get a death certificate request letter, [send an online enquiry to the British Embassy Kuwait](https://www.contact.service.csd.fcdo.gov.uk/written-enquiry/kuwait/british-embassy-kuwait-city). You’ll need:
+
+- death notification form (issued by the hospital)
+- the deceased’s passport and Civil ID (if applicable)
+- the passport or Civil ID of the next of kin or legal representative
+- the Civil ID of the appointed agent or the shipping agent (in case of repatriation)
+
+The local authorities will need to be told if the person suffered from an infectious condition such as hepatitis or HIV so they can take precautions against infection.
+
+## Attesting original/English translation of death certificate
+
+The original death certificate should be attested by the Kuwait Ministry of Foreign Affairs. The official Kuwaiti death certificate must then be translated to English. The British embassy is not permitted to translate documents, certify to the correctness of translations, or authenticate translators’ signatures. Any publicly available translation service may do this. See [list of translators](https://www.gov.uk/government/publications/british-embassy-kuwait-translators-list) available on our website.
+
+There’s no need to authenticate the English translation.
+
+## Post-mortem examinations (autopsies)
+
+A post-mortem, which is also known as an autopsy, is normally performed in all cases and certainly when the death is not by natural causes. Any death outside a hospital will be referred to the police who will arrange for an examination of the deceased to take place. Following the examination, the body of the deceased will be released only with the permission of the prosecutor’s office. Post-mortems are carried out by forensic doctors.
+
+During a post-mortem, small tissue samples and organs may be removed and retained for testing, including toxicological studies. This is done in order to better understand the cause of death and to evaluate any disease or injury that might be present. It can be crucial to establish cause of death in cases where criminal or civil legal procedures may eventuate.
+
+A final report will be available to the family upon completion of both the post-mortem and the investigation into the circumstances of the death which may take about 3 to 4 weeks from the date of the post-mortem. A copy of the report can be obtained from the prosecutor’s office.
+
+Note: A body can be released before the post-mortem reports are completed but without the organs. The remaining parts will usually only be released after report is completed. If within the 3 months from the post-mortem the remaining parts are not claimed, they will be buried in Kuwait. You will have to make arrangements to repatriate the remaining parts after the post-mortem is completed if you have already repatriated the body.
+
+In some cases it may be necessary to have a further autopsy in the UK even though one has been carried out overseas and, when repatriation is to England or Wales, it’s probable that the coroner will wish to hold an inquest.
+
+## Mortuary facilities
+
+The mortuary in Kuwait is located in the facilities of the Preventive Medicine Department in the Al-Sabah Hospital and has storage facilities.
+
+## Return of personal belongings
+
+Personal belongings found on the deceased at the time of death are either handed over to the family, if they’re present, or taken by the police. If the next of kin chooses repatriation, it’s advisable to instruct the shipping agent to collect the belongings from the police and to ship personal belongings. If there’s an investigation into the death, the deceased’s clothing can be retained as evidence and is not returned until the court case is finished.
+
+The British Embassy Kuwait cannot take responsibility for the personal belongings of the person who died.
+
+## Steps to take in the UK
+
+You can find more information on the steps to take in the UK online. This includes information on arranging the funeral, telling the government about the death, UK pensions and benefits, and dealing with the estate of the person who died. There’s a [step-by-step guide on GOV.UK](https://www.gov.uk/when-someone-dies)
+
+You can also apply to register the death with the UK authorities. You do not have to do this, but it means:
+
+- the death will be recorded with the General Register Offices (for England, Wales and Northern Ireland) and the National Records Office of Scotland
+
+- you can order a consular death registration certificate.
+
+Go to <https://www.gov.uk/register-a-death> for more details.
+
+## British passport cancellation
+
+In order to avoid identity fraud, the passport of the person who died should be cancelled with HM Passport Office (HMPO). To do this, you will need to complete a “D1 form”. The [form and instructions on where to send it are available online](https://www.gov.uk/government/publications/what-to-do-with-a-passport-when-the-passport-holder-has-died)
+
+If you plan to repatriate the person who died to the UK or elsewhere, the embassy will cancel the passport.
+
+## Suspicious deaths or road traffic accidents
+
+In the case of a suspicious death or a road accident, the police will lead the investigation under the supervision and instructions of the Prosecutor. Once the investigation is complete, the family can seek the Prosecutor’s permission to take a copy of the medical report, and in the case of a car accident, a copy of the police report.
+
+After the police investigation, the prosecutor will decide whether further enquiries are necessary, or whether to submit the case to the court for a trial to take place. The court will then decide how the case will proceed.
+
+If the local police have confirmed that they’re investigating the death as a murder or manslaughter, a dedicated team within the Foreign, Commonwealth & Development Office will be available to provide support, including by referring you to a specialised organisation. You can [find more about what they can do online](https://www.gov.uk/government/publications/helping-british-people-abroad-murder-and-manslaughter)
+
+## UK coroners and inquests
+
+If you repatriate the person who died to England and Wales there may be an inquest. The decision on when to hold an inquest is made by His Majesty’s Coroner. Please note, an inquest will usually only happen in certain situations, for example, when someone has died in suspicious, unnatural, and violent circumstances or whilst in detention.
+
+If you repatriate the person who died to Scotland, the Procurator Fiscal may decide to call for a Fatal Accidents or Injuries Inquiry.
+
+If you repatriate the person who died to Northern Ireland, there will be no coronial inquest or further inquiry.
+
+Please note, Procurators Fiscal and Coroners do not have jurisdiction in another country, nor do they seek to apportion blame to a named individual.
+
+You can find more information on Coroners and the Procurator Fiscal in the [Foreign, Commonwealth & Development Office guide on Death Abroad](https://www.gov.uk/government/publications/coping-with-death-abroad).
+
+## Support organisations in the UK
+
+In the UK, there are many organisations that can help bereaved families. Some of these are [listed in the guide coping with death abroad](https://www.gov.uk/government/publications/coping-with-death-abroad).
+
+We also have [information for victims of crime abroad](https://www.gov.uk/government/publications/victims-of-crime), which you may find helpful.
+
+You can [find information on UK compensation for victims of terrorism overseas online](https://www.gov.uk/compensation-victim-terrorist-attack).
+
+## Sorting deceased’s estate in Kuwait (eg. closing bank accounts, selling a car, etc)
+
+A Power of Attorney (POA) must be issued by the next of kin in the UK, to officially/legally appoint a person in Kuwait to take responsibility for processing the deceased’s property, bank accounts, belongings, receiving indemnity etc. The POA document must then be [legalised at the FCDO legalisation Office](https://www.gov.uk/get-document-legalised) in London, followed by an attestation by the [Kuwaiti Embassy in London](http://kuwait.embassyhomepage.com/). When the POA document is in Kuwait, it will need a further attestation by the Ministry of Foreign Affairs of Kuwait and then translated to Arabic.
+
+See our [list medical repatriation companies in Kuwait](https://www.gov.uk/government/publications/kuwait-list-of-medical-facilities-and-repatriation-companies/list-of-repatriation-companies).
+
+[Back to top](#contents)

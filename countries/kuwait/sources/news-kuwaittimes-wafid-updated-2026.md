@@ -1,0 +1,31 @@
+## Kuwait - Other News
+
+[By B Izzak](https://kuwaittimes.com/author/36/b-izzak/ "B Izzak")
+
+May 17, 2026 09:47 p.m
+
+# ‘Wafid’ program updated, prices of meds slashed
+
+**KUWAIT:** The health ministry on Sunday published a resolution to apply the updated regulations of the "Wafid” program, which requires mandatory and comprehensive medical checkups for expatriates planning to work or reside in the six-nation Gulf Cooperation Council (GCC). The resolution, including the eighth version of Wafid program, which was approved by the GCC health ministers last October, was published in the official gazette Kuwait Al-Youm, which said the resolution is effective from Sunday.
+
+The updated regulations include tightening the oversight over the medical examination of expat workers in their home countries before coming to the GCC nations. Under the Wafid program, accreditation is provided to medical facilities in about 30 labor-exporting countries, mostly Asian and African, to examine workers bound for GCC nations. The program has grown from a few centers over 30 years ago to as many as 880 centers currently.
+
+Those centers are required to carry out some 50 medical tests on expats, including infectious and non-infectious diseases. When they arrive in GCC nations, the workers are subjected to fresh tests focusing on infectious diseases. The new resolution explains regulations that control all aspects of the Wafid including surprise visits to health facilities, fees to be paid by applicants and the attestation of results by GCC missions abroad, in addition to penalties on medical facilities.
+
+Meanwhile, the health ministry said on Sunday it has reduced the prices of about 268 medicines and food supplements. The decision increased to 1,922 drugs and supplements that saw their prices reduced in the recent past. The new set of drugs include medicines to chronic diseases like hypertension, diabetes and others, in addition to heart diseases, tumors and others. The action makes drug prices in Kuwait among the lowest among GCC nations.
+
+LAST UPDATE: May 17, 2026 09:47 PM
+
+##  More Stories 
+
+[](https://kuwaittimes.com/article/53281/kuwait/today-in-kuwaits-history/ "{Today in Kuwait’s history}")
+
+### Today in Kuwait’s history
+
+[](https://kuwaittimes.com/article/53272/kuwait/15-photos-compete-at-al-baghli-dutiful-son-award-exhibition/ "{15 photos compete at Al-Baghli Dutiful Son Award exhibition}")
+
+### 15 photos compete at Al-Baghli Dutiful Son Award exhibition
+
+[](https://kuwaittimes.com/article/53271/kuwait/capital-crackdown-nets-112-absconders-as-police-bust-gambling-ring-drug-dealers/ "{Capital crackdown nets 112 absconders as police bust gambling ring, drug dealers}")
+
+### Capital crackdown nets 112 absconders as police bust gambling ring, drug dealers

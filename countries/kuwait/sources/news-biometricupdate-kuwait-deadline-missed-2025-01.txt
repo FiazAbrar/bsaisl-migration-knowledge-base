@@ -1,0 +1,242 @@
+PAGE META: msvalidate.01: 37DAF50D768AB3DDD4F101B413D98584 | article:published_time: 2025-01-06T16:56:32+00:00 | article:modified_time: 2025-01-06T16:56:32+00:00
+
+7% of Kuwait residents miss biometric registration deadline, face service freeze | Biometric Update
+
+Share
+
+X/Tweet
+
+Link
+
+Comment
+
+7% of Kuwait residents miss biometric registration deadline, face service freeze
+
+				244K expats, 16K citizens, 90K stateless people yet to register fingerprints			
+
+Jan 6, 2025, 11:56 am EST
+				 	| 
+
+Masha Borak
+
+Categories
+
+Biometrics News
+  |  
+Fingerprint Recognition
+  |  
+Government Services
+
+Around 244,000 Kuwaiti expatriates are facing a block to their government and banking transactions after failing to submit their fingerprint biometrics before the deadline which ended on the last day of December, 2024.
+
+Aside from the expatriates, around 16,000 Kuwaitis and 90,000 Bedoons or stateless people have also missed deadlines for handing over their biometric data as part of the government program to build a national database. This puts the total number of people who failed to perform mandatory fingerprinting near 350,000, as 
+reported
+ by Gulf News.
+
+The unregistered numbers are relatively small considering the speed at which the ministry has completed the fingerprinting, 
+according
+ to the Director of the General Department of Criminal Evidence, Major General Eid Al-Owihan. The agency has so far registered 
+960,000
+ citizens as well as around 76 percent of expatriates.
+
+The Gulf state launched the fingerprint registration exercise in March last year with an aim to enhance security and tackle the large number of people with dual nationalities: Kuwait’s population of 4.9 million has around 3.3 million foreigners, many of whom hold dual citizenship or are residing in the country on temporary work visas. Submitting fingerprints is obligatory for people aged 18 or above.
+
+Despite 
+deadline extensions
+, around 60,000 Kuwaiti nationals missed their deadline to submit their biometrics on September 30th, with the Kuwait Banking Association initiating the process of 
+freezing accounts
+.
+
+A similar fate is now expected for expatriates who have missed the December 31st deadline. Aside from banking transactions, expats may face restrictions when renewing residence permits. Authorities, however, have denied that there would be fines for those who have failed to submit the biometric data.
+
+Related Posts
+
+Kuwait threatens to freeze all services for those with unregistered biometrics
+December 13, 2024
+
+Kuwait fingerprints 2M as biometric data registration deadline nears
+April 15, 2024
+
+Kuwait suspends electronic banking for 60K with biometrics unregistered
+October 1, 2024
+
+Texas DPS solicits contractor to maintain biometric ID services
+October 8, 2024
+
+Kuwait prepares to halt services for unregistered fingerprint biometrics
+September 9, 2024
+
+Kuwait extends deadline for mandatory biometrics registration
+May 15, 2024
+
+Article Topics
+
+biometric enrollment
+  |  
+biometric identification
+  |  
+biometrics
+  |  
+financial services
+  |  
+government services
+  |  
+Kuwait
+  |  
+Middle East
+
+Latest Biometrics News
+
+Deepfake CEOs, stolen lawyer identities fuel alleged $129M fraud
+
+Nov 8, 2026, 6:54 pm EST
+
+A sprawling fraud operation allegedly used AI-generated voices and images to impersonate corporate executives, then stole the identities of lawyers…
+
+Treasury seeks identity security contractor as Login.gov mandate takes hold
+
+Nov 8, 2026, 6:30 pm EST
+
+The U.S. Treasury is seeking contractor support for the security and administration of its shared authentication systems as new federal…
+
+Ukraine’s biometrics market grows unevenly as digital identity adoption expands
+
+Nov 8, 2026, 2:30 pm EST
+
+Ukraine‘s biometrics sector continues to develop despite Russia’s ongoing attacks and economic pressures, although adoption remains uneven across government, financial…
+
+Cloudflare, Tools for Humanity propose identity framework for AI agent access
+
+Nov 8, 2026, 12:30 pm EST
+
+Websites can increasingly identify the AI agents accessing their services, but not necessarily the people behind them, what actions they…
+
+Biometrics take on new roles as trust and security demands grow
+
+Nov 7, 2026, 11:20 am EST
+
+Biometrics are being asked to do more than establish identity. From proving presence in remote transactions to estimating age without…
+
+America is building an online ID system by lawsuit
+
+Nov 6, 2026, 4:44 pm EST
+
+By Raj Ananthanpillai, CEO, Trua Meta has made roughly $5.3 billion of its $18 billion settlement with state and territorial…
+
+Comments
+
+Leave a Reply 
+Cancel reply
+
+This site uses Akismet to reduce spam. 
+Learn how your comment data is processed.
+
+Continue Reading
+
+Market Intelligence
+
+The Deepfake Fraud Detection Market 2026: Securing Identity in the AI Era
+
+2026 Age Assurance & Digital Age Credentials Market Report
+
+2026 Injection Attack Detection Market Report and Buyer’s Guide
+
+Understanding MOSIP: What the Modular Open-Source Identity Platform is and how it is used
+
+2026 Biometric Physical Access Control Market Report and Buyer’s Guide
+
+2025 Digital Identity Verification Market Report and Buyers Guide
+
+2025 Face Liveness Market Report and Buyer’s Guide
+
+More Market Intelligence
+
+Biometric Update Podcast
+Maxine Most puts 25 years of biometrics predictions to the test
+
+Featured Company
+
+Learn More
+
+More Biometrics Companies
+
+Top Stories This Week
+
+ Nigeria seeks digital ID project extension to roll out MOSIP-based infrastructure
+
+European Commission hits pause on national social media age check rules
+
+Papua New Guinea’s voluntary digital ID is becoming harder to avoid
+
+DDoS attack on DigiD exposes fragility of Dutch government login backbone
+
+UNICC reuses biometric identity technology to expand its DPI footprint
+
+UK unveils plan for police facial recognition guardrails and oversight
+
+Kosovo launches national digital ID wallet, e-signatures ahead of EUDI alignment
+
+45 attorneys general back KOSA as age verification question remains open
+
+Somalia puts Hubiye national ID verification platform into operation
+
+NIST sets 10 principles for AI agent identity and authorization
+
+Armenia rolls out identity infrastructure for biometric passports, ID cards
+
+Google proposes using digital credentials for secure account recovery
+
+More Biometrics News
+
+White Papers
+
+A standards-aligned cryptographic human-authorization layer for agentic AI
+
+Biometric Testing in Practice
+
+Synthetic IDs and injection attacks – the weaponisation of identity in fraud and financial crime
+
+Authenticity vs. Deepfake: Who validates what’s real?
+
+Evaluating Deepfake Defense Technologies
+
+More Biometrics White Papers
+
+Latest Webinars
+
+Watch: Deepfakes, Digital Deception, and the Future of Biometric Assurance
+
+Watch: Beyond the Platform: Understanding the Growing MOSIP Ecosystem
+
+Watch: Inside the injection attack detection market
+
+Watch: Friction vs Fraud: How much security is too much?
+
+Watch: From selfie to synthetic: How fraudsters are outsmarting IDV
+
+More Biometrics Webinars
+
+Biometrics Industry Events
+
+Future Identity Festival 
+London, UK: Nov 9 - Nov 10, 2026
+
+5th Digital Transformation Kuwait 
+Kuwait: Nov 9 - Nov 10, 2026
+
+The 26th NextGen Payments and RegTech Forum 
+Austin, TX United States: Nov 10, 2026
+
+digitalCIO Indonesia 2026 
+Jakarta, Indonesia: Nov 11, 2026
+
+World Police Summit 2026 
+Dubai, UAE: Nov 16 - Nov 18, 2026
+
+More Biometrics Events
+
+Copyright © 2026 Biometrics Research Group, Inc. All Rights Reserved.
+
+Web Design by 
+Studio1337
+

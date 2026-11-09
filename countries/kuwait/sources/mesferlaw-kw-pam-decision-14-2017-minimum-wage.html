@@ -1,0 +1,2346 @@
+<!doctype html>
+<html dir="rtl" lang="ar" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	    <style>
+        .pro-wccp:before {
+            content: "\f160";
+            top: 3px;
+        }
+        .pro-wccp:before{
+            color:#02CA03 !important
+        }
+        .pro-wccp {
+            transform: rotate(45deg);
+        }
+    </style>
+    <script id="wccp_pro_disable_selection">
+
+var image_save_msg = 'You are not allowed to save images!';
+
+var no_menu_msg = 'Context menu disabled!';
+
+var smessage = "Alert: Content selection is disabled!!";
+
+
+"use strict";
+/* This because search property "includes" does not supported by IE*/
+if (!String.prototype.includes) {
+String.prototype.includes = function(search, start) {
+  if (typeof start !== 'number') {
+	start = 0;
+  }
+
+  if (start + search.length > this.length) {
+	return false;
+  } else {
+	return this.indexOf(search, start) !== -1;
+  }
+};
+}
+/*////////////////////////////////////*/
+let canCall = true;
+
+function call_disable_copy_WithDelay(e) {
+  if (canCall) {
+    canCall = false;
+    disable_copy(e);
+    setTimeout(() => {
+      canCall = true;
+    }, 1000);
+  }
+}
+
+function disable_copy(e)
+{
+	window.wccp_pro_iscontenteditable_flag = false;
+	
+	wccp_pro_log_to_console_if_allowed("disable_copy");
+	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (apply_class_exclusion(e) == "Yes") return true;
+
+	if(wccp_pro_iscontenteditable(e) == true) {return true;}
+	
+	if(is_content_editable_element(current_clicked_element) == true)
+	{
+		return true;
+	}
+	else
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wccp_pro_message(smessage);
+		
+		if (isSafari)
+		{
+			return true;
+		}
+		else
+		{
+			//wccp_pro_clear_any_selection();
+			
+			return false;
+		}
+	}
+	
+	/*disable context menu when shift + right click is pressed*/
+	var shiftPressed = 0;
+	
+	var evt = e?e:window.event;
+	
+	if (parseInt(navigator.appVersion)>3) {
+		
+		if (document.layers && navigator.appName=="Netscape")
+			
+			shiftPressed = (e.modifiers-0>3);
+			
+		else
+			
+			shiftPressed = e.shiftKey;
+			
+		if (shiftPressed) {
+			
+			if (smessage !== "") show_wccp_pro_message(smessage);
+			
+			var isFirefox = typeof InstallTrigger !== 'undefined';   /* Firefox 1.0+ */
+			
+			if (isFirefox) {
+			evt.cancelBubble = true;
+			if (evt.stopPropagation) evt.stopPropagation();
+			if (evt.preventDefault()) evt.preventDefault();
+			show_wccp_pro_message (smessage);
+			wccp_pro_clear_any_selection();
+			return false;
+			}
+			
+			wccp_pro_clear_any_selection();
+			return false;
+		}
+	}
+	
+	if(e.which === 2 ){
+	var clickedTag_a = (e==null) ? event.srcElement.tagName : e.target.tagName;
+	   show_wccp_pro_message(smessage);
+       wccp_pro_clear_any_selection(); return false;
+    }
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	var checker_IMG = 'checked';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail == 2) {show_wccp_pro_message(alertMsg_IMG);wccp_pro_clear_any_selection();return false;}
+
+    //elemtype must be merged by elemtype checker on function disable_copy & disable_hot_keys
+	if (is_content_editable_element(elemtype) == false)
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wccp_pro_message(smessage);
+		
+		if (isSafari)
+		{
+			return true;
+		}
+		else
+		{
+			wccp_pro_clear_any_selection(); return false;
+		}
+	}
+	else
+	{
+		return true;
+	}
+}
+////////////////////////////
+function disable_copy_ie()
+{
+	wccp_pro_log_to_console_if_allowed("disable_copy_ie_function_started");
+	
+	var e = e || window.event;
+	/*also there is no e.target property in IE.*/
+	/*instead IE uses window.event.srcElement*/
+  	var target = e.target || e.srcElement;
+	
+	var elemtype = window.event.srcElement.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+
+	if(wccp_pro_iscontenteditable(e) == true) return true;
+	
+	if (apply_class_exclusion(e) == "Yes") return true;
+	
+	if (elemtype == "IMG") {show_wccp_pro_message(alertMsg_IMG);return false;}
+	
+	//elemtype must be merged by elemtype checker on function disable_copy & disable_hot_keys
+	if (is_content_editable_element(elemtype) == false)
+	{
+		return false;
+	}
+}
+function disable_drag_text(e)
+{
+	wccp_pro_log_to_console_if_allowed("disable_drag_text");
+	
+	/*var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);*/
+	/*if (isSafari) {show_wccp_pro_message(alertMsg_IMG);return false;}*/
+	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement*/
+  	
+	var target = e.target || e.srcElement;
+	
+	/*For contenteditable tags*/
+	
+	if (apply_class_exclusion(e) == "Yes") return true;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var disable_drag_text_drop = 'checked';
+	
+	if (disable_drag_text_drop != "checked")  return true;
+	
+	if (window.location.href.indexOf("/user/") > -1) {
+      return true; /*To allow users to drag & drop images when editing thier profiles*/
+    }
+	
+	return false;
+}
+
+/*/////////////////special for safari Start////////////////*/
+var onlongtouch;
+
+var timer;
+
+var touchduration = 1000; /*length of time we want the user to touch before we do something*/
+
+var elemtype = "";
+
+function touchstart(e)
+{
+	wccp_pro_log_to_console_if_allowed("touchstart");
+	
+	e = e || window.event;// also there is no e.target property in IE. instead IE uses window.event.srcElement
+	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	//if (elemtype == "A") return;
+
+	if (apply_class_exclusion(elemtype) == 'Yes') return;
+	/*also there is no e.target property in IE.*/
+	/*instead IE uses window.event.srcElement*/
+	
+	if(!wccp_pro_is_passive()) e.preventDefault();
+	if (!timer) {
+		timer = setTimeout(onlongtouch, touchduration);
+	}
+}
+
+function touchend()
+{
+	wccp_pro_log_to_console_if_allowed("touchend");
+	
+    /*stops short touches from firing the event*/
+    if (timer) {
+        clearTimeout(timer);
+        timer = null;
+    }
+	onlongtouch();
+}
+
+onlongtouch = function(e)/*this will clear the current selection if any_not_editable_thing selected*/
+{
+	wccp_pro_log_to_console_if_allowed("onlongtouch");
+	
+	if (is_content_editable_element(elemtype) == false)
+	{
+		if (window.getSelection) {
+			if (window.getSelection().empty) { /*Chrome*/
+			window.getSelection().empty();
+			} else if (window.getSelection().removeAllRanges) {  /*Firefox*/
+			window.getSelection().removeAllRanges();
+			}
+		} else if (document.selection) {  /*IE?*/
+			var textRange = document.body.createTextRange();
+			textRange.moveToElementText(element);
+			textRange.select();
+
+			document.selection.empty();
+		}
+		return false;
+	}
+};
+
+document.addEventListener("DOMContentLoaded", function(event)
+	{ 
+		window.addEventListener("touchstart", touchstart, false);
+		window.addEventListener("touchend", touchend, false);
+	});
+
+
+function wccp_pro_is_passive()
+{
+	wccp_pro_log_to_console_if_allowed("wccp_pro_is_passive");
+	
+	var cold = false,
+	hike = function() {};
+
+	try {
+	var aid = Object.defineProperty({}, 'passive', {
+	get() {cold = true}
+	});
+	window.addEventListener('test', hike, aid);
+	window.removeEventListener('test', hike, aid);
+	} catch (e) {}
+
+	return cold;
+}
+/*/////////////////////////////////////////////////////////////////*/
+function reEnable()
+{
+	return true;
+}
+
+if(navigator.userAgent.indexOf('MSIE')==-1) //If not IE
+{
+	document.ondragstart = disable_drag_text;
+	document.onselectstart = call_disable_copy_WithDelay;
+	document.onselectionchange = call_disable_copy_WithDelay;
+	//document.onmousedown = disable_copy;
+	//document.addEventListener('click', disable_copy, false);
+	//document.addEventListener('click', set_current_clicked_element, false);
+	document.addEventListener('mousedown', set_current_clicked_element, false);
+	//document.onclick = reEnable;
+}else
+{
+	document.onselectstart = disable_copy_ie;
+}
+
+var current_clicked_element = "";
+
+var current_clicked_object = null;
+
+function set_current_clicked_element(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	current_clicked_element = elemtype;
+	
+	wccp_pro_log_to_console_if_allowed("current_clicked_element = " + current_clicked_element, arguments.callee.name);
+}
+</script>
+	<script id="wccp_pro_css_disable_selection">
+	function wccp_pro_msieversion() 
+		{
+			var ua = window.navigator.userAgent;
+			var msie = ua.indexOf("MSIE");
+			var msie2 = ua.indexOf("Edge");
+			var msie3 = ua.indexOf("Trident");
+
+		if (msie > -1 || msie2 > -1 || msie3 > -1) // If Internet Explorer, return version number
+		{
+			return "IE";
+		}
+		else  // If another browser, return 0
+		{
+			return "otherbrowser";
+		}
+	}
+    
+	var e = document.getElementsByTagName('H1')[0];
+	if(e && wccp_pro_msieversion() == "IE")
+	{
+		e.setAttribute('unselectable',"on");
+	}
+	</script>
+<script id="wccp_pro_disable_hot_keys">
+/*****************For contenteditable tags***************/
+var wccp_pro_iscontenteditable_flag = false;
+
+function wccp_pro_iscontenteditable(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+	
+	var iscontenteditable = "false";
+		
+	if(typeof target.getAttribute!="undefined" )
+	{
+		iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string
+		
+		if(typeof target.hasAttribute!="undefined")
+		{
+			if(target.hasAttribute("contenteditable"))
+				iscontenteditable = true;
+		}
+	}
+	
+	wccp_pro_log_to_console_if_allowed("iscontenteditable:" + iscontenteditable);
+	
+	var iscontenteditable2 = false;
+	
+	if(typeof target.isContentEditable!="undefined" ) iscontenteditable2 = target.isContentEditable; // Return true or false as boolean
+
+	if(target.parentElement !=null) iscontenteditable2 = target.parentElement.isContentEditable;
+	
+	if (iscontenteditable == "true" || iscontenteditable == true || iscontenteditable2 == true)
+	{
+		if(typeof target.style!="undefined" ) target.style.cursor = "text";
+		
+		wccp_pro_iscontenteditable_flag = true;
+		
+		wccp_pro_log_to_console_if_allowed("wccp_pro_iscontenteditable: true");
+		
+		return true;
+	}
+	wccp_pro_log_to_console_if_allowed("wccp_pro_iscontenteditable: false");
+}
+/******************************************************/
+function wccp_pro_clear_any_selection()
+{
+	if(window.wccp_pro_iscontenteditable_flag == true) return;
+	
+	wccp_pro_log_to_console_if_allowed("wccp_pro_clear_any_selection");
+	
+	var myName = wccp_pro_clear_any_selection.caller.toString();
+	
+	myName = myName.substr('function '.length);
+	
+	myName = myName.substr(0, myName.indexOf('('));
+
+	wccp_pro_log_to_console_if_allowed("called_by: " + myName);
+	
+	if (window.getSelection)
+	{
+		if (window.getSelection().empty)
+		{  // Chrome
+			window.getSelection().empty();
+		} else if (window.getSelection().removeAllRanges) 
+		{  // Firefox
+			window.getSelection().removeAllRanges();
+		}
+	} else if (document.selection)
+	{  // IE?
+		document.selection.empty();
+	}
+	
+	//show_wccp_pro_message("You are not allowed to make this operation");
+}
+
+
+/*Is content_editable element*/
+function is_content_editable_element(element_name = "")
+{
+	if (element_name == "TEXT" || element_name == "#TEXT" || element_name == "TEXTAREA" || element_name == "INPUT" || element_name == "PASSWORD" || element_name == "SELECT" || element_name == "OPTION" || element_name == "EMBED" || element_name == "CODE" || element_name == "CODEBLOCK_WCCP")
+	{
+		wccp_pro_log_to_console_if_allowed("is_content_editable_element: true >>" + element_name);
+		
+		return true;
+	}
+	wccp_pro_log_to_console_if_allowed("is_content_editable_element: false >>" + element_name);
+	
+	return false;
+}
+/*Is selection enabled element*/
+/*
+function is_selection_enabled_element(element_name = "")
+{
+	if (is_content_editable_element == true)
+	{
+		wccp_pro_log_to_console_if_allowed("is_selection_enabled_element: true >>" + element_name);
+		
+		return true;
+	}
+	wccp_pro_log_to_console_if_allowed("is_selection_enabled_element: false >>" + element_name);
+	
+	return false;
+}
+*/
+/*Hot keys function  */
+function disable_hot_keys(e)
+{
+	wccp_pro_log_to_console_if_allowed("disable_hot_keys");
+	
+	e = e || window.event;
+	
+	//console.log(e);
+	
+	if (!e) return;
+	
+	var key;
+
+		if(window.event)
+			  key = window.event.keyCode;     /*IE*/
+		else if (e.hasOwnProperty("which")) key = e.which;     /*firefox (97)*/
+
+	wccp_pro_log_to_console_if_allowed("Data:", key);
+	
+			
+		if (key == 123 || (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) )//F12 chrome developer key disable
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			
+			return false;
+		}
+		
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var sel = getSelectionTextAndContainerElement();
+	
+	if(elemtype == "BODY" && sel.text != "") elemtype = sel.containerElement.tagName; /* no need for it when tag name is BODY, so we get the selected text tag name */
+
+	/*elemtype must be merged by elemtype checker on function disable_copy & disable_copy_ie*/
+	if (is_content_editable_element(elemtype) == true)
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if(wccp_pro_iscontenteditable(e) == true) elemtype = 'TEXT';
+	
+		if (key == 44)/*For any emement type, text elemtype is not excluded here, (prntscr (44)*/
+		{
+			copyTextToClipboard("");
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}	
+	if (e.ctrlKey || e.metaKey)
+	{
+		if (elemtype!= 'TEXT' && (key == 97 || key == 99 || key == 120 || key == 26 || key == 43))
+		{
+			 show_wccp_pro_message('Alert: You are not allowed to copy content or view source');
+			 return false;
+		}
+		if (elemtype!= 'TEXT')
+		{
+						
+			if (key == 65)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}			
+						
+			if (key == 67)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}			
+						
+			if (key == 88)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}			
+						
+			if (key == 86)
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}		}
+				
+		if (key == 85)
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}		
+				if (key == 80)
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}		
+				if (key == 44)
+		{
+			copyTextToClipboard("no");
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}		
+		
+					if (key == 73)//F12 chrome developer key disable
+			{
+				show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+				return false;
+			}
+				
+				
+		if (key == 83)
+		{
+			show_wccp_pro_message('You are not allowed to do this action on the current page!!');
+			return false;
+		}    }
+return true;
+}
+
+
+window.addEventListener('load', function (){
+	if(window.Zepto || !window.jQuery) jQuery =  $;
+	jQuery(document).ready(function() {
+	  jQuery(document).bind("keyup keydown", disable_hot_keys);
+	});
+});
+
+</script>
+	<script id="wccp_pro_disable_Right_Click">
+
+	function wccp_pro_nocontext(e)
+	{
+		wccp_pro_log_to_console_if_allowed("wccp_pro_nocontext function");
+		
+		const caller = wccp_pro_nocontext.caller;
+		
+		if (caller) wccp_pro_log_to_console_if_allowed("Caller function is: " + caller.name);
+		
+		e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+		
+		if (apply_class_exclusion(e) == 'Yes') return true;
+		
+		var exception_tags = 'NOTAG,';
+		
+		var clickedTag = (e==null) ? event.srcElement.tagName : e.target.tagName;
+		
+		wccp_pro_log_to_console_if_allowed("clickedTag: " + clickedTag);
+		
+		var target = e.target || e.srcElement;
+		
+		var parent_tag = ""; var parent_of_parent_tag = "";
+		
+		if(target.parentElement != null)
+		{
+			parent_tag = target.parentElement.tagName;
+			
+			if(target.parentElement.parentElement != null) parent_of_parent_tag = target.parentElement.parentElement.tagName;
+		}
+		
+		var checker = 'checked';
+		if ((clickedTag == "IMG" || clickedTag == "FIGURE" || clickedTag == "SVG" || clickedTag == "PROTECTEDIMGDIV") && checker == 'checked') {
+			if (alertMsg_IMG != "")show_wccp_pro_message(alertMsg_IMG);
+			return false;
+		}else {exception_tags = exception_tags + 'IMG,';}
+		
+		checker = '';
+		if ((clickedTag == "VIDEO" || clickedTag == "PROTECTEDWCCPVIDEO" || clickedTag == "EMBED") && checker == 'checked') {
+			if (alertMsg_VIDEO != "")show_wccp_pro_message(alertMsg_VIDEO);
+			return false;
+		}else {exception_tags = exception_tags + 'VIDEO,PROTECTEDWCCPVIDEO,EMBED,';}
+		
+		checker = 'checked';
+		if ((clickedTag == "A" || clickedTag == "TIME" || parent_tag == "A" || parent_of_parent_tag == "A") && checker == 'checked') {
+			if (alertMsg_A != "")show_wccp_pro_message(alertMsg_A);
+			return false;
+		}else {exception_tags = exception_tags + 'A,';if(parent_tag == "A" || parent_of_parent_tag == "A") clickedTag = "A";}
+
+		checker = 'checked';
+		if ((clickedTag == "P" || clickedTag == "B" || clickedTag == "FONT" ||  clickedTag == "LI" || clickedTag == "UL" || clickedTag == "STRONG" || clickedTag == "OL" || clickedTag == "BLOCKQUOTE" || clickedTag == "TH" || clickedTag == "TR" || clickedTag == "TD" || clickedTag == "SPAN" || clickedTag == "EM" || clickedTag == "SMALL" || clickedTag == "I" || clickedTag == "BUTTON") && checker == 'checked') {
+			if (alertMsg_PB != "")show_wccp_pro_message(alertMsg_PB);
+			return false;
+		}else {exception_tags = exception_tags + 'P,B,FONT,LI,UL,STRONG,OL,BLOCKQUOTE,TD,SPAN,EM,SMALL,I,BUTTON,';}
+		
+		checker = 'checked';
+		if ((clickedTag == "INPUT" || clickedTag == "PASSWORD") && checker == 'checked') {
+			if (alertMsg_INPUT != "")show_wccp_pro_message(alertMsg_INPUT);
+			return false;
+		}else {exception_tags = exception_tags + 'INPUT,PASSWORD,';}
+		
+		checker = 'checked';
+		if ((clickedTag == "H1" || clickedTag == "H2" || clickedTag == "H3" || clickedTag == "H4" || clickedTag == "H5" || clickedTag == "H6" || clickedTag == "ASIDE" || clickedTag == "NAV") && checker == 'checked') {
+			if (alertMsg_H != "")show_wccp_pro_message(alertMsg_H);
+			return false;
+		}else {exception_tags = exception_tags + 'H1,H2,H3,H4,H5,H6,';}
+		
+		checker = 'checked';
+		if (clickedTag == "TEXTAREA" && checker == 'checked') {
+			if (alertMsg_TEXTAREA != "")show_wccp_pro_message(alertMsg_TEXTAREA);
+			return false;
+		}else {exception_tags = exception_tags + 'TEXTAREA,';}
+		
+		checker = 'checked';
+		if ((clickedTag == "DIV" || clickedTag == "BODY" || clickedTag == "HTML" || clickedTag == "ARTICLE" || clickedTag == "SECTION" || clickedTag == "NAV" || clickedTag == "HEADER" || clickedTag == "FOOTER") && checker == 'checked') {
+			if (alertMsg_EmptySpaces != "")show_wccp_pro_message(alertMsg_EmptySpaces);
+			return false;
+		}
+		else
+		{
+			if (exception_tags.indexOf(clickedTag)!=-1)
+			{
+				return true;
+			}
+			else
+			return false;
+		}
+	}
+	
+	function disable_drag_images(e)
+	{return;
+		wccp_pro_log_to_console_if_allowed("disable_drag_images");
+		
+		var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+		
+		var target = e.target || e.srcElement;
+		
+		//For contenteditable tags
+		if (apply_class_exclusion(e) == "Yes") return true;
+
+		var elemtype = e.target.nodeName;
+		
+		if (elemtype != "IMG") {return;}
+		
+		elemtype = elemtype.toUpperCase();
+		
+		var disable_drag_drop_images = 'checked';
+		
+		if (disable_drag_drop_images != "checked")  return true;
+		
+		if (window.location.href.indexOf("/user/") > -1) {
+		  return true; //To allow users to drag & drop images when editing thier profiles
+		}
+		
+		show_wccp_pro_message(alertMsg_IMG);
+		
+		return false;
+	}
+	
+	var alertMsg_IMG = "Alert: Protected image";
+	var alertMsg_A = "Alert: This link is protected";
+	var alertMsg_PB = "Alert: Right click on text is disabled";
+	var alertMsg_INPUT = "Alert: Right click is disabled";
+	var alertMsg_H = "Alert: Right click on headlines is disabled";
+	var alertMsg_TEXTAREA = "Alert: Right click is disabled";
+	var alertMsg_EmptySpaces = "Alert: Right click on empty spaces is disabled";
+	var alertMsg_VIDEO = "Alert: Right click on videos is disabled";
+	//document.oncontextmenu=null;
+	window.addEventListener('load', function (){
+	if(window.Zepto || !window.jQuery) jQuery =  $;
+	jQuery(document).ready(function(){
+		jQuery(document).on('contextmenu', wccp_pro_nocontext);
+	});
+	});
+	window.addEventListener('load', function (){
+	if (typeof jQuery === 'undefined')
+	{
+		alert("no jquery");
+		document.oncontextmenu = wccp_pro_nocontext;
+		document.addEventListener("contextmenu",wccp_pro_nocontext);
+		window.addEventListener("contextmenu",wccp_pro_nocontext);
+	}
+	});
+</script>
+	
+	<script id="wccp_pro_disable_drag_images">
+	document.ondragstart = disable_drag_images;
+		window.addEventListener('load', function (){
+			if(window.Zepto || !window.jQuery) jQuery =  $;
+			jQuery(document).ready(function(){
+				jQuery('img').each(function() {
+					jQuery(this).attr('draggable', false);
+				});
+			});
+		});
+	</script>
+	<style id="wccp_pro_style1">
+		img{
+			-moz-user-select: none;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			-khtml-user-select: none;
+			user-select: none;
+			-webkit-user-drag: none;
+		}
+	</style>
+<script id="wccp_pro_class_exclusion">
+function copyToClipboard(elem) {
+	  // create hidden text element, if it doesn't already exist
+    var targetId = "_wccp_pro_hiddenCopyText_";
+    {
+        // must use a temporary form element for the selection and copy
+        target = document.getElementById(targetId);
+        if (!target) {
+            var target = document.createElement("textarea");
+            target.style.position = "absolute";
+            target.style.left = "-9999px";
+            target.style.top = "0";
+            target.id = targetId;
+            document.body.appendChild(target);
+        }
+        target.textContent = elem.textContent;
+    }
+    // select the content
+    var currentFocus = document.activeElement;
+    target.focus();
+    target.setSelectionRange(0, target.value.length);
+    
+    // copy the selection
+    var succeed;
+    try {
+    	  succeed = document.execCommand("copy");
+    } catch(e) {
+        succeed = false;
+    }
+
+    // restore original focus
+    if (currentFocus && typeof currentFocus.focus === "function") {
+        currentFocus.focus();
+    }
+    
+    
+	// clear temporary content
+	target.textContent = "";
+	document.getElementsByTagName('span')[0].innerHTML = " ";
+    return succeed;
+}
+/**************************************************/
+function wccp_pro_log_to_console_if_allowed(data = "")
+{//return;
+	var myName = "";
+	
+	if(wccp_pro_log_to_console_if_allowed.caller != null) myName = wccp_pro_log_to_console_if_allowed.caller.toString();
+	
+	myName = myName.substr('function '.length);
+	
+	myName = myName.substr(0, myName.indexOf('('));
+	
+	}
+/**************************************************/
+function fallbackCopyTextToClipboard(text) {
+  var textArea = document.createElement("textarea");
+  textArea.value = text;
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+
+  try {
+    var successful = document.execCommand("copy");
+    var msg = successful ? "successful" : "unsuccessful";
+    wccp_pro_log_to_console_if_allowed("Fallback: Copying text command was " + msg);
+  } catch (err) {
+    console.error("Fallback: Oops, unable to copy", err);
+  }
+
+  document.body.removeChild(textArea);
+}
+/*****************************************/
+function copyTextToClipboard(text) {
+  if (!navigator.clipboard) {
+    fallbackCopyTextToClipboard(text);
+    return;
+  }
+  navigator.clipboard.writeText(text).then(
+    function() {
+      console.log("Async: Copying to clipboard was successful!");
+    },
+    function(err) {
+      console.error("Async: Could not copy text: ", err);
+    }
+  );
+}
+/*****************************************/
+/*getSelectionTextAndContainerElement*/
+function getSelectionTextAndContainerElement()
+{
+    var text = "", containerElement = null;
+    if (typeof window.getSelection != "undefined") {
+        var sel = window.getSelection();
+        if (sel.rangeCount) {
+            var node = sel.getRangeAt(0).commonAncestorContainer;
+            containerElement = node.nodeType == 1 ? node : node.parentNode;
+			if (typeof(containerElement.parentElement) != 'undefined') current_clicked_object = containerElement.parentElement;
+            text = sel.toString();
+        }
+    } else if (typeof document.selection != "undefined" && document.selection.type != "Control")
+	{
+        var textRange = document.selection.createRange();
+        containerElement = textRange.parentElement();
+        text = textRange.text;
+    }
+    
+	return {
+        text: text,
+        containerElement: containerElement
+    };
+}
+
+function getSelectionParentElement() {
+    var parentEl = null, sel;
+	
+    if (window.getSelection) {
+        sel = window.getSelection();
+        if (sel.rangeCount) {
+            parentEl = sel.getRangeAt(0).commonAncestorContainer;
+			//sel.getRangeAt(0).startContainer.parentNode;
+            if (parentEl.nodeType != 1) {
+                parentEl = parentEl.parentNode;
+            }
+        }
+    } else if ( (sel = document.selection) && sel.type != "Control") {
+        parentEl = sel.createRange().parentElement();
+    }
+	
+	let arr = new Array();
+	
+	arr["nodeName"] = "cant_find_parent_element";
+	
+	if(parentEl != null)
+		return parentEl;
+	else
+		return arr;
+}
+/*****************************************/
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+/*****************************************/
+</script>
+
+<script id="apply_class_exclusion">
+function apply_class_exclusion(e)
+{
+	wccp_pro_log_to_console_if_allowed(e);
+	
+	var my_return = 'No';
+	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement || e || 'nothing';
+	
+	var excluded_classes = '' + '';
+	
+	var class_to_exclude = "";
+	
+	if(target.parentElement != null)
+	{
+		class_to_exclude = target.className + ' ' + target.parentElement.className || '';
+	}else{
+		class_to_exclude = target.className;
+	}
+	
+	var class_to_exclude_array = Array();
+	
+	//console.log(class_to_exclude);
+	
+	if (typeof(class_to_exclude) != 'undefined') class_to_exclude_array = class_to_exclude.split(" ");
+	
+	//console.log (class_to_exclude_array);
+	
+	class_to_exclude_array.forEach(function(item)
+	{
+		if(item != '' && excluded_classes.indexOf(item)>=0)
+		{
+			//target.style.cursor = "text";
+			
+			//console.log ('Yes');
+			
+			my_return = 'Yes';
+		}
+	});
+
+	try {
+		class_to_exclude = target.parentElement.getAttribute('class') || target.parentElement.className || '';
+		}
+	catch(err) 
+		{
+		class_to_exclude = '';
+		}
+	
+	if(class_to_exclude != '' && excluded_classes.indexOf(class_to_exclude)>=0)
+	{
+		//target.style.cursor = "text";
+		my_return = 'Yes';
+	}
+
+	return my_return;
+}
+</script>
+<style id="wccp_pro_style2" data-asas-style="">
+
+	
+	*[contenteditable] , [contenteditable] *,*[contenteditable="true"] , [contenteditable="true"] * { /* for contenteditable tags*/ , /* for tags inside contenteditable tags*/
+	  -webkit-user-select: auto !important;
+	  cursor: text !important;
+	  user-select: text !important;
+	  pointer-events: auto !important;
+	}
+	
+	/*
+	*[contenteditable]::selection, [contenteditable] *::selection, [contenteditable="true"]::selection, [contenteditable="true"] *::selection { background: Highlight !important; color: HighlightText !important;}
+	*[contenteditable]::-moz-selection, [contenteditable="true"] *::-moz-selection { background: Highlight !important; color: HighlightText !important;}
+	input::selection,textarea::selection, code::selection, code > *::selection { background: Highlight !important; color: HighlightText !important;}
+	input::-moz-selection,textarea::-moz-selection, code::-moz-selection, code > *::-moz-selection { background: Highlight !important; color: HighlightText !important;}
+	*/
+	a{ cursor: pointer ; pointer-events: auto !important;}
+
+	</style><style>TEXT,TEXTAREA,input[type="text"] {cursor: text !important; user-select: text !important;}</style>	<script id="wccp_pro_alert_message">
+	window.addEventListener('DOMContentLoaded', function() {}); //This line to stop JS deffer function in wp-rockt pluign
+	
+	window.addEventListener('load', function (){
+		// Create the first div element with the "oncontextmenu" attribute
+		const wccp_pro_mask = document.createElement('div');
+		wccp_pro_mask.setAttribute('oncontextmenu', 'return false;');
+		wccp_pro_mask.setAttribute('id', 'wccp_pro_mask');
+
+		// Create the second div element with the "msgmsg-box-wpcp hideme" classes
+		const wpcp_error_message = document.createElement('div');
+		wpcp_error_message.setAttribute('id', 'wpcp-error-message');
+		wpcp_error_message.setAttribute('class', 'msgmsg-box-wpcp hideme');
+
+		// Add a span element with the "error: " text inside the second div
+		const error_span = document.createElement('span');
+		error_span.innerText = 'error: ';
+		wpcp_error_message.appendChild(error_span);
+
+		// Add the error message text inside the second div
+		const error_text = document.createTextNode('Alert: Content selection is disabled!!');
+		wpcp_error_message.appendChild(error_text);
+
+		// Add the div elements to the document body
+		document.body.appendChild(wccp_pro_mask);
+		document.body.appendChild(wpcp_error_message);
+	});
+
+	var timeout_result;
+	function show_wccp_pro_message(smessage="", style="")
+	{
+		wccp_pro_log_to_console_if_allowed(smessage);
+				
+		timeout = 3000;
+		
+		if(style == "") style = "warning-wpcp";
+		
+		if (smessage !== "" && timeout!=0)
+		{
+			var smessage_text = smessage;
+			jquery_fadeTo();
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp showme " + style;
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, timeout);
+		}
+		else
+		{
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, timeout);
+		}
+	}
+	function hide_message()
+	{
+		jquery_fadeOut();
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	function jquery_fadeTo()
+	{
+		try {
+			jQuery("#wccp_pro_mask").fadeTo("slow", 0.3);
+		}
+		catch(err) {
+			//alert(err.message);
+			}
+	}
+	function jquery_fadeOut()
+	{
+		try {
+			jQuery("#wccp_pro_mask").fadeOut( "slow" );
+		}
+		catch(err) {}
+	}
+	</script>
+	<style>
+	#wccp_pro_mask
+	{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		position: fixed;
+		right: 0;
+		top: 0;
+		background-color: #000;
+		pointer-events: none;
+		display: none;
+		z-index: 10000;
+		animation: 0.5s ease 0s normal none 1 running ngdialog-fadein;
+		background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+	}
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+		pointer-events: none;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555555;
+		font-family: Tahoma;
+		font-size: 12px;
+		margin: 10px !important;
+		padding: 10px 36px !important;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+		left: 50%;
+		margin-top: -10px !important;
+		margin-left: -130px !important;
+	}
+	.msgmsg-box-wpcp b {
+		font-weight:bold;
+	}
+		.warning-wpcp {
+		background:#ffecec url('https://mesferlaw.com/wp-content/plugins/wccp-pro/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f2bfbf;
+		-webkit-box-shadow: 0px 0px 34px 2px #f2bfbf;
+		-moz-box-shadow: 0px 0px 34px 2px #f2bfbf;
+		box-shadow: 0px 0px 34px 2px #f2bfbf;
+	}
+	.success-wpcp {
+		background: #fafafa url('https://mesferlaw.com/wp-content/plugins/wccp-pro/images/success.png') no-repeat 10px 50%;
+		border: 1px solid #00b38f;
+		box-shadow: 0px 0px 34px 2px #adc;
+	}
+    </style>
+
+<!-- تحسين مُحركات البحث بواسطة رانك ماث برو (Rank Math PRO)-  https://s.rankmath.com/home -->
+<title>الهيئة العامة للقوى العاملة قرار رقم 14 لسنة 2017 بشان الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي/وزارة الشئون الاجتماعية والعمل قرار رقم 21 لسنة 2017 بشان سريان القرار رقم 14 لسنة 2017 بتطبيق الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي - المحامي مسفر عايض</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/" />
+<meta property="og:locale" content="ar_AR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="الهيئة العامة للقوى العاملة قرار رقم 14 لسنة 2017 بشان الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي/وزارة الشئون الاجتماعية والعمل قرار رقم 21 لسنة 2017 بشان سريان القرار رقم 14 لسنة 2017 بتطبيق الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي - المحامي مسفر عايض" />
+<meta property="og:description" content="&nbsp; وزير الشئون الاجتماعية والعمل: &#8211; بعد الاطلاع على القانون رقم (28) لسنة 1969 في شأن العمل في قطاع الأعمال النفطية. &#8211; وعلى القانون رقم (6) لسنة 2010 في شأن العمل في القطاع الأهلي وتعديلاته. &#8211; وعلى القانون رقم (109) لسنة 2013 في شأن الهيئة العامة للقوى العاملة وتعديلاته. &#8211; وعلى القرار الوزاري رقم (185/ع) [&hellip;]" />
+<meta property="og:url" content="https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/" />
+<meta property="og:site_name" content="المحامي مسفر عايض - أفضل محامي في الكويت" />
+<meta property="article:section" content="2017" />
+<meta property="og:updated_time" content="2026-11-06T15:24:25+03:00" />
+<meta property="og:image" content="https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg" />
+<meta property="og:image:secure_url" content="https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="الهيئة العامة للقوى العاملة قرار رقم 14 لسنة 2017 بشان الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي/وزارة الشئون الاجتماعية والعمل قرار رقم 21 لسنة 2017 بشان سريان القرار رقم 14 لسنة 2017 بتطبيق الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2023-11-03T12:45:22+03:00" />
+<meta property="article:modified_time" content="2026-11-06T15:24:25+03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="الهيئة العامة للقوى العاملة قرار رقم 14 لسنة 2017 بشان الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي/وزارة الشئون الاجتماعية والعمل قرار رقم 21 لسنة 2017 بشان سريان القرار رقم 14 لسنة 2017 بتطبيق الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي - المحامي مسفر عايض" />
+<meta name="twitter:description" content="&nbsp; وزير الشئون الاجتماعية والعمل: &#8211; بعد الاطلاع على القانون رقم (28) لسنة 1969 في شأن العمل في قطاع الأعمال النفطية. &#8211; وعلى القانون رقم (6) لسنة 2010 في شأن العمل في القطاع الأهلي وتعديلاته. &#8211; وعلى القانون رقم (109) لسنة 2013 في شأن الهيئة العامة للقوى العاملة وتعديلاته. &#8211; وعلى القرار الوزاري رقم (185/ع) [&hellip;]" />
+<meta name="twitter:site" content="@mesfer_law" />
+<meta name="twitter:creator" content="@mesfer_law" />
+<meta name="twitter:image" content="https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg" />
+<meta name="twitter:label1" content="كُتب بواسطة" />
+<meta name="twitter:data1" content="ahmad" />
+<meta name="twitter:label2" content="مدة القراءة" />
+<meta name="twitter:data2" content="أقل من دقيقة" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["LegalService","Organization"],"@id":"https://mesferlaw.com/#organization","name":"\u0627\u0644\u0645\u062d\u0627\u0645\u064a \u0645\u0633\u0641\u0631 \u0639\u0627\u064a\u0636","url":"https://mesferlaw.com","sameAs":["https://twitter.com/mesfer_law","https://www.instagram.com/mesfer_law/"],"logo":{"@type":"ImageObject","@id":"https://mesferlaw.com/#logo","url":"https://mesferlaw.com/wp-content/uploads/2023/02/logo.svg","contentUrl":"https://mesferlaw.com/wp-content/uploads/2023/02/logo.svg","caption":"\u0627\u0644\u0645\u062d\u0627\u0645\u064a \u0645\u0633\u0641\u0631 \u0639\u0627\u064a\u0636 - \u0623\u0641\u0636\u0644 \u0645\u062d\u0627\u0645\u064a \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a","inLanguage":"ar","width":"342","height":"80"},"openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"],"image":{"@id":"https://mesferlaw.com/#logo"}},{"@type":"WebSite","@id":"https://mesferlaw.com/#website","url":"https://mesferlaw.com","name":"\u0627\u0644\u0645\u062d\u0627\u0645\u064a \u0645\u0633\u0641\u0631 \u0639\u0627\u064a\u0636 - \u0623\u0641\u0636\u0644 \u0645\u062d\u0627\u0645\u064a \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a","alternateName":"\u0627\u0644\u0645\u062d\u0627\u0645\u064a \u0645\u0633\u0641\u0631 \u0639\u0627\u064a\u0636","publisher":{"@id":"https://mesferlaw.com/#organization"},"inLanguage":"ar"},{"@type":"ImageObject","@id":"https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg","url":"https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg","width":"1200","height":"630","inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://mesferlaw.com","name":"\u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"}},{"@type":"ListItem","position":"2","item":{"@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/","name":"\u0627\u0644\u0647\u064a\u064a\u0654\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a \u0648\u0627\u0644\u0646\u0641\u0637\u064a/\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0634\u064a\u0654\u0648\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0645\u0644 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 21 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0633\u0631\u064a\u0627\u0646 \u0627\u0644\u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a \u0648\u0627\u0644\u0646\u0641\u0637\u064a"}}]},{"@type":"WebPage","@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/#webpage","url":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/","name":"\u0627\u0644\u0647\u064a\u064a\u0654\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a \u0648\u0627\u0644\u0646\u0641\u0637\u064a/\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0634\u064a\u0654\u0648\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0645\u0644 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 21 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0633\u0631\u064a\u0627\u0646 \u0627\u0644\u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a \u0648\u0627\u0644\u0646\u0641\u0637\u064a - \u0627\u0644\u0645\u062d\u0627\u0645\u064a \u0645\u0633\u0641\u0631 \u0639\u0627\u064a\u0636","datePublished":"2023-11-03T12:45:22+03:00","dateModified":"2026-11-06T15:24:25+03:00","isPartOf":{"@id":"https://mesferlaw.com/#website"},"primaryImageOfPage":{"@id":"https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg"},"inLanguage":"ar","breadcrumb":{"@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/#breadcrumb"}},{"@type":"Person","@id":"https://mesferlaw.com/author/ahmad/","name":"ahmad","url":"https://mesferlaw.com/author/ahmad/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/189061f469f5aee43f06ea6b26ecbd27592f99e8df478db9bfb6b61ff06c929f?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/189061f469f5aee43f06ea6b26ecbd27592f99e8df478db9bfb6b61ff06c929f?s=96&amp;d=mm&amp;r=g","caption":"ahmad","inLanguage":"ar"},"sameAs":["http://mesferlaw.com/new"],"worksFor":{"@id":"https://mesferlaw.com/#organization"}},{"@type":"BlogPosting","headline":"\u0627\u0644\u0647\u064a\u064a\u0654\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a","datePublished":"2023-11-03T12:45:22+03:00","dateModified":"2026-11-06T15:24:25+03:00","author":{"@id":"https://mesferlaw.com/author/ahmad/","name":"ahmad"},"publisher":{"@id":"https://mesferlaw.com/#organization"},"description":"\u0648\u0632\u064a\u0631 \u0627\u0644\u0634\u0626\u0648\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0645\u0644:","name":"\u0627\u0644\u0647\u064a\u064a\u0654\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a","@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/#richSnippet","isPartOf":{"@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/#webpage"},"image":{"@id":"https://mesferlaw.com/wp-content/uploads/2024/06/Default-Social-Share.jpg"},"inLanguage":"ar","mainEntityOfPage":{"@id":"https://mesferlaw.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14/#webpage"}}]}</script>
+<!-- /إضافة تحسين محركات البحث لووردبريس Rank Math -->
+
+<link rel='dns-prefetch' href='//hcaptcha.com' />
+<link rel="alternate" type="application/rss+xml" title="المحامي مسفر عايض &laquo; الخلاصة" href="https://mesferlaw.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="المحامي مسفر عايض &laquo; خلاصة التعليقات" href="https://mesferlaw.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://mesferlaw.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmesferlaw.com%2F%25d8%25a7%25d9%2584%25d9%2587%25d9%258a%25d8%25a6%25d8%25a9-%25d8%25a7%25d9%2584%25d8%25b9%25d8%25a7%25d9%2585%25d8%25a9-%25d9%2584%25d9%2584%25d9%2582%25d9%2588%25d9%2589-%25d8%25a7%25d9%2584%25d8%25b9%25d8%25a7%25d9%2585%25d9%2584%25d8%25a9-%25d9%2582%25d8%25b1%25d8%25a7%25d8%25b1-%25d8%25b1%25d9%2582%25d9%2585-14%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://mesferlaw.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmesferlaw.com%2F%25d8%25a7%25d9%2584%25d9%2587%25d9%258a%25d8%25a6%25d8%25a9-%25d8%25a7%25d9%2584%25d8%25b9%25d8%25a7%25d9%2585%25d8%25a9-%25d9%2584%25d9%2584%25d9%2582%25d9%2588%25d9%2589-%25d8%25a7%25d9%2584%25d8%25b9%25d8%25a7%25d9%2585%25d9%2584%25d8%25a9-%25d9%2582%25d8%25b1%25d8%25a7%25d8%25b1-%25d8%25b1%25d9%2582%25d9%2585-14%2F&#038;format=xml" />
+
+
+<!-- Last Modified Schema is inserted by the WP Last Modified Info plugin v1.9.6 - https://wordpress.org/plugins/wp-last-modified-info/ -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"CreativeWork","dateModified":"2026-11-06T15:24:25+03:00","headline":"\u0627\u0644\u0647\u064a\u064a\u0654\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a \u0648\u0627\u0644\u0646\u0641\u0637\u064a\/\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0634\u064a\u0654\u0648\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0645\u0644 \u0642\u0631\u0627\u0631 \u0631\u0642\u0645 21 \u0644\u0633\u0646\u0629 2017 \u0628\u0634\u0627\u0646 \u0633\u0631\u064a\u0627\u0646 \u0627\u0644\u0642\u0631\u0627\u0631 \u0631\u0642\u0645 14 \u0644\u0633\u0646\u0629 2017 \u0628\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u062f\u0646\u0649 \u0644\u0627\u0654\u062c\u0648\u0631 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0627\u0647\u0644\u064a \u0648\u0627\u0644\u0646\u0641\u0637\u064a","description":"&nbsp; \u0648\u0632\u064a\u0631 \u0627\u0644\u0634\u0626\u0648\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0645\u0644: &#8211; \u0628\u0639\u062f \u0627\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0631\u0642\u0645 (28) \u0644\u0633\u0646\u0629 1969 \u0641\u064a \u0634\u0623\u0646 \u0627\u0644\u0639\u0645\u0644 \u0641\u064a \u0642\u0637\u0627\u0639 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0646\u0641\u0637\u064a\u0629. &#8211; \u0648\u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0631\u0642\u0645 (6) \u0644\u0633\u0646\u0629 2010 \u0641\u064a \u0634\u0623\u0646 \u0627\u0644\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0623\u0647\u0644\u064a \u0648\u062a\u0639\u062f\u064a\u0644\u0627\u062a\u0647. &#8211; \u0648\u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0631\u0642\u0645 (109) \u0644\u0633\u0646\u0629 2013 \u0641\u064a \u0634\u0623\u0646 \u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0648\u062a\u0639\u062f\u064a\u0644\u0627\u062a\u0647. &#8211; \u0648\u0639\u0644\u0649 \u0627\u0644\u0642\u0631\u0627\u0631 \u0627\u0644\u0648\u0632\u0627\u0631\u064a \u0631\u0642\u0645 (185\/\u0639) \u0644\u0633\u0646\u0629 2010 \u0628\u0648\u0636\u0639 \u062d\u062f \u0623\u062f\u0646\u0649","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/mesferlaw.com\/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d9%82%d9%85-14\/"},"author":{"@type":"Person","name":"Mrmarwan","url":"https:\/\/mesferlaw.com\/author\/marwan\/","description":""}}</script>
+
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+ 
+<link rel='stylesheet' id='dashicons-css' href='https://mesferlaw.com/wp-includes/css/dashicons.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css' href='https://mesferlaw.com/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.7.12' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://mesferlaw.com/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.4' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='cpp-style-css' href='https://mesferlaw.com/wp-content/plugins/custm-pdf/assets/style.css?ver=1.8.2' media='all' />
+<link rel='stylesheet' id='pdf-search-style-css' href='https://mesferlaw.com/wp-content/plugins/pdf-search-filter/assets/css/search.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='ai-law-bot-widget-css' href='https://mesferlaw.com/wp-content/plugins/ai-law-bot-v4.3.9/assets/css/chat-widget.css?ver=5.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://mesferlaw.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://mesferlaw.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://mesferlaw.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='elementor-post-13251-css' href='https://mesferlaw.com/wp-content/uploads/elementor/css/post-13251.css?ver=1793970608' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://mesferlaw.com/wp-content/plugins/pro-elements/assets/css/widget-nav-menu-rtl.min.css?ver=4.2.3' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='e-animation-float-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='e-animation-grow-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0' media='all' />
+<link rel='stylesheet' id='elementor-post-8603-css' href='https://mesferlaw.com/wp-content/uploads/elementor/css/post-8603.css?ver=1793970608' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='elementor-post-12996-css' href='https://mesferlaw.com/wp-content/uploads/elementor/css/post-12996.css?ver=1793970608' media='all' />
+<link rel='stylesheet' id='elementor-post-13010-css' href='https://mesferlaw.com/wp-content/uploads/elementor/css/post-13010.css?ver=1793970608' media='all' />
+<link rel='stylesheet' id='elementor-post-13797-css' href='https://mesferlaw.com/wp-content/uploads/elementor/css/post-13797.css?ver=1793970651' media='all' />
+<link rel='stylesheet' id='css-protect.css-css' href='https://mesferlaw.com/wp-content/plugins/wccp-pro/css/css-protect.css?ver=1' media='all' />
+<link rel='stylesheet' id='print-protection.css-css' href='https://mesferlaw.com/wp-content/plugins/wccp-pro/css/print-protection.css?css_js_files_version_num=1&#038;ver=7.1.4' media='all' />
+<link rel='stylesheet' id='bdt-uikit-css' href='https://mesferlaw.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.rtl.css?ver=3.21.7' media='all' />
+<link rel='stylesheet' id='ep-helper-css' href='https://mesferlaw.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-helper.css?ver=9.8.1' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-montserrat-css' href='https://mesferlaw.com/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1751967924' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-cairo-css' href='https://mesferlaw.com/wp-content/uploads/elementor/google-fonts/css/cairo.css?ver=1751967917' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-almarai-css' href='https://mesferlaw.com/wp-content/uploads/elementor/google-fonts/css/almarai.css?ver=1751967916' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-droidarabickufi-css' href='https://mesferlaw.com/wp-content/uploads/elementor/google-fonts/css/droidarabickufi.css?ver=1751967918' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<!--n2css--><!--n2js--><script id="post-views-counter-frontend-js-before">
+var pvcArgsFrontend = {"mode":"js","postID":11247,"requestURL":"https:\/\/mesferlaw.com\/wp-admin\/admin-ajax.php","nonce":"f7b693c1ca","dataStorage":"cookies","multisite":false,"path":"\/","domain":""};
+
+//# sourceURL=post-views-counter-frontend-js-before
+</script>
+<script id="post-views-counter-frontend-js" src="https://mesferlaw.com/wp-content/plugins/post-views-counter/js/frontend.js?ver=1.7.12"></script>
+<script id="jquery-core-js" src="https://mesferlaw.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://mesferlaw.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="font-awesome-4-shim-js" src="https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.6"></script>
+<link rel="https://api.w.org/" href="https://mesferlaw.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://mesferlaw.com/wp-json/wp/v2/posts/11247" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mesferlaw.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel='shortlink' href='https://mesferlaw.com/?p=11247' />
+<style>
+        /* Hide empty ACF blocks and other plugin blocks that create empty divs */
+        .acf-block-preview:empty,
+        .acf-block-component:empty,
+        .wp-block-acf:empty,
+        .wp-block:empty,
+        .elementor-widget-wrap:empty,
+        .elementor-element-populated:empty,
+        .block-editor-block-list__block:empty,
+        [class*="acf"]:empty,
+        [class*="block"]:empty,
+        .wp-block-group:empty,
+        .wp-block-columns:empty {
+            display: none !important;
+            visibility: hidden !important;
+            height: 0 !important;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        
+        /* Hide ACF blocks that only contain whitespace or non-breaking spaces */
+        .acf-block-preview:not(:has(*)),
+        .wp-block-acf:not(:has(*)) {
+            display: none !important;
+        }
+        
+        /* Force PDF blocks to appear at the very top with highest priority */
+        .cpp-pdf-wrapper {
+            position: relative !important;
+            z-index: 9999 !important;
+            clear: both !important;
+            width: 95% !important;
+            max-width: 900px !important;
+            margin: 0 auto 25px auto !important;
+            box-sizing: border-box !important;
+            display: block !important;
+            padding: 20px !important;
+            order: -9999 !important;
+            visibility: visible !important;
+            opacity: 1 !important;
+        }
+        
+        /* Force PDF blocks to be the absolute first content */
+        .cpp-priority-first {
+            position: relative !important;
+            z-index: 10000 !important;
+            order: -10000 !important;
+            margin-top: 0 !important;
+        }
+        
+        /* PDF title styling with enhanced Arabic support */
+        .cpp-pdf-title {
+            font-weight: bold !important;
+            font-size: 20px !important;
+            text-align: justify !important;
+            text-align-last: center !important;
+            margin-bottom: 15px !important;
+            word-wrap: break-word !important;
+            overflow-wrap: break-word !important;
+            hyphens: auto !important;
+            line-height: 1.6 !important;
+            max-width: 100% !important;
+            display: block !important;
+            white-space: normal !important;
+            direction: rtl !important;
+            unicode-bidi: embed !important;
+            text-rendering: optimizeLegibility !important;
+            -webkit-font-feature-settings: "liga", "kern" !important;
+            font-feature-settings: "liga", "kern" !important;
+        }
+        
+        .cpp-download-btn {
+            font-weight: bold !important;
+            font-size: 16px !important;
+            padding: 12px 20px !important;
+            display: inline-block !important;
+            text-align: center !important;
+            cursor: pointer !important;
+            direction: ltr !important;
+        }
+        
+        /* Force the ahmad circle text to appear below PDF blocks */
+        .elementor-text-editor p,
+        .entry-content > p,
+        .post-content > p {
+            position: relative !important;
+            z-index: 1000 !important;
+            order: 1000 !important;
+        }
+        
+        /* Hide any empty containers that might interfere */
+        .elementor-container:empty,
+        .elementor-row:empty,
+        .elementor-column:empty,
+        .elementor-widget-container:empty {
+            display: none !important;
+            height: 0 !important;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        
+        /* Ensure proper content flow */
+        .entry-content,
+        .post-content,
+        article {
+            display: flex !important;
+            flex-direction: column !important;
+        }
+        
+        .entry-content .cpp-pdf-wrapper,
+        .post-content .cpp-pdf-wrapper,
+        article .cpp-pdf-wrapper {
+            order: -9999 !important;
+            flex-shrink: 0 !important;
+        }
+        
+        /* Force everything else to appear after PDF blocks */
+        .entry-content > *:not(.cpp-pdf-wrapper),
+        .post-content > *:not(.cpp-pdf-wrapper),
+        article > *:not(.cpp-pdf-wrapper) {
+            order: 1 !important;
+        }
+        
+        /* Specific targeting for ahmad circle text */
+        p:contains("ahmad"),
+        div:contains("ahmad"),
+        span:contains("ahmad") {
+            order: 2000 !important;
+            margin-top: 20px !important;
+        }
+        
+        /* Additional ACF block hiding */
+        [data-type="acf"]:empty,
+        [data-block="acf"]:empty,
+        .wp-block[data-type="acf/custom-block"]:empty {
+            display: none !important;
+            visibility: hidden !important;
+        }
+        
+        /* Hide blocks that only contain invisible content */
+        .wp-block:not(:has(img)):not(:has(video)):not(:has(audio)):not(:has(iframe)):not(:has(canvas)):not(:has(svg)):not(:has(button)):not(:has(input)):not(:has(select)):not(:has(textarea)):not(:has(.cpp-pdf-wrapper)):not(:has(a)):not(:has(span)):not(:has(strong)):not(:has(em)):not(:has(p:not(:empty))) {
+            display: none !important;
+        }
+        
+        /* Force visibility for our PDF blocks */
+        .cpp-pdf-wrapper,
+        .cpp-pdf-wrapper * {
+            visibility: visible !important;
+            display: block !important;
+            opacity: 1 !important;
+        }
+        
+        .cpp-download-btn {
+            display: inline-block !important;
+        }
+        </style><style id="wplmi-inline-css" type="text/css">
+ span.wplmi-user-avatar { width: 16px;display: inline-block !important;flex-shrink: 0; } img.wplmi-elementor-avatar { border-radius: 100%;margin-right: 3px; }
+</style>
+<style>
+.h-captcha{position:relative;display:block;margin-bottom:2rem;padding:0;clear:both}.h-captcha[data-size="normal"]{width:302px;height:76px}.h-captcha[data-size="compact"]{width:158px;height:138px}.h-captcha[data-size="invisible"]{display:none}.h-captcha iframe{z-index:1}.h-captcha::before{content:"";display:block;position:absolute;top:0;left:0;background:url(https://mesferlaw.com/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo.svg) no-repeat;border:1px solid #fff0;border-radius:4px;box-sizing:border-box}.h-captcha::after{content:"The hCaptcha loading is delayed until user interaction.";font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,"Helvetica Neue",Arial,sans-serif;font-size:10px;font-weight:500;position:absolute;top:0;bottom:0;left:0;right:0;box-sizing:border-box;color:#bf1722;opacity:0}.h-captcha:not(:has(iframe))::after{animation:hcap-msg-fade-in .3s ease forwards;animation-delay:2s}.h-captcha:has(iframe)::after{animation:none;opacity:0}@keyframes hcap-msg-fade-in{to{opacity:1}}.h-captcha[data-size="normal"]::before{width:302px;height:76px;background-position:93.8% 28%}.h-captcha[data-size="normal"]::after{width:302px;height:76px;display:flex;flex-wrap:wrap;align-content:center;line-height:normal;padding:0 75px 0 10px}.h-captcha[data-size="compact"]::before{width:158px;height:138px;background-position:49.9% 78.8%}.h-captcha[data-size="compact"]::after{width:158px;height:138px;text-align:center;line-height:normal;padding:24px 10px 10px 10px}.h-captcha[data-theme="light"]::before,body.is-light-theme .h-captcha[data-theme="auto"]::before,.h-captcha[data-theme="auto"]::before{background-color:#fafafa;border:1px solid #e0e0e0}.h-captcha[data-theme="dark"]::before,body.is-dark-theme .h-captcha[data-theme="auto"]::before,html.wp-dark-mode-active .h-captcha[data-theme="auto"]::before,html.drdt-dark-mode .h-captcha[data-theme="auto"]::before{background-image:url(https://mesferlaw.com/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo-white.svg);background-repeat:no-repeat;background-color:#333;border:1px solid #f5f5f5}@media (prefers-color-scheme:dark){.h-captcha[data-theme="auto"]::before{background-image:url(https://mesferlaw.com/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo-white.svg);background-repeat:no-repeat;background-color:#333;border:1px solid #f5f5f5}}.h-captcha[data-theme="custom"]::before{background-color:initial}.h-captcha[data-size="invisible"]::before,.h-captcha[data-size="invisible"]::after{display:none}.h-captcha iframe{position:relative}div[style*="z-index: 2147483647"] div[style*="border-width: 11px"][style*="position: absolute"][style*="pointer-events: none"]{border-style:none}
+</style>
+<!-- Analytics by WP Statistics - https://wp-statistics.com -->
+<meta name="generator" content="Elementor 4.3.6; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://mesferlaw.com/wp-content/uploads/2023/02/favicon.svg" sizes="32x32" />
+<link rel="icon" href="https://mesferlaw.com/wp-content/uploads/2023/02/favicon.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mesferlaw.com/wp-content/uploads/2023/02/favicon.svg" />
+<meta name="msapplication-TileImage" content="https://mesferlaw.com/wp-content/uploads/2023/02/favicon.svg" />
+<style id="wp-custom-css">
+.cpp-pdf-item {
+    margin-bottom: 63px !important;
+
+}
+
+.cpp-download-btn {
+    float: right !important;
+    margin-top: -9px !important;
+}
+
+
+body.page-mob header,
+body.page-mob nav,
+body.page-mob .site-header,
+body.page-mob .elementor-location-header,
+body.page-mob .elementor-nav-menu {
+    display: none !important;
+}
+
+</style>
+</head>
+<body class="rtl wp-singular post-template-default single single-post postid-11247 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-kit-8603 elementor-page-13797">
+
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header data-elementor-type="header" data-elementor-id="12996" class="elementor elementor-12996 elementor-location-header" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fae44c7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="fae44c7" data-element_type="section" data-e-type="section" id="up" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-253ea57" data-id="253ea57" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-e756aa3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e756aa3" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-83aac77" data-id="83aac77" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-228810c elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="228810c" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://mesferlaw.com">
+			<img width="342" height="80" src="https://mesferlaw.com/wp-content/uploads/2023/02/logo.svg" class="attachment-full size-full wp-image-13002" alt="" />				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-35bd099" data-id="35bd099" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-df5db01 elementor-nav-menu--stretch elementor-nav-menu__align-center elementor-hidden-desktop elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="df5db01" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-df5db01" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-13409"><a href="https://mesferlaw.com/" class="elementor-item">الرئيسية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4301"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86/" class="elementor-item">القوانين</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13410"><a href="https://mesferlaw.com/%d8%a3%d8%ad%d9%83%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2/" class="elementor-item">أحكام التمييز<span class="sub-arrow"><i class="fas fa-caret-down" aria-hidden="true"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13429"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a/" class="elementor-sub-item">التمييز المدني</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13412"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d9%8a/" class="elementor-sub-item">التمييز الجزائي</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item">التمييز التجاري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13414"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item">التمييز الإداري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d8%a9/" class="elementor-sub-item">محكمة النقض الاماراتية</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13415"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9/" class="elementor-sub-item">محكمة النقض المصرية</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d8%a9/" class="elementor-item">المحكمة الدستورية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%a3%d8%ad%d9%83%d8%a7%d9%85/" class="elementor-item">الأحكام</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13419"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-item">القرارات</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://mesferlaw.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/" class="elementor-item">إتصل بنا</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-df5db01" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-13409"><a href="https://mesferlaw.com/" class="elementor-item" tabindex="-1">الرئيسية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4301"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86/" class="elementor-item" tabindex="-1">القوانين</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13410"><a href="https://mesferlaw.com/%d8%a3%d8%ad%d9%83%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2/" class="elementor-item" tabindex="-1">أحكام التمييز<span class="sub-arrow"><i class="fas fa-caret-down" aria-hidden="true"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13429"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز المدني</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13412"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز الجزائي</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز التجاري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13414"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز الإداري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d8%a9/" class="elementor-sub-item" tabindex="-1">محكمة النقض الاماراتية</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13415"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9/" class="elementor-sub-item" tabindex="-1">محكمة النقض المصرية</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d8%a9/" class="elementor-item" tabindex="-1">المحكمة الدستورية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%a3%d8%ad%d9%83%d8%a7%d9%85/" class="elementor-item" tabindex="-1">الأحكام</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13419"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-item" tabindex="-1">القرارات</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://mesferlaw.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/" class="elementor-item" tabindex="-1">إتصل بنا</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-84c342c elementor-hidden-mobile" data-id="84c342c" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-33e9cee elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="33e9cee" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">صباحاً في المحاكم<br>
+5:00 مساءً - 9:00 مساءً</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-863fa28 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="863fa28" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="far fa-clock"></i>			</div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-29e39a1 elementor-hidden-mobile" data-id="29e39a1" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6023a01 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="6023a01" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">96525515599+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4521df1 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="4521df1" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-headphones-alt"></i>			</div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-06a0565" data-id="06a0565" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2e06b9c elementor-widget__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="2e06b9c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">العضوية المميزة</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-717ddd2 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="717ddd2" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-snapchat elementor-animation-float elementor-repeater-item-e9399d0" href="https://snapchat.com/t/rNbHaq3s" target="_blank">
+						<span class="elementor-screen-only">Snapchat</span>
+						<i aria-hidden="true" class="fab fa-snapchat"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-de3e9a9 elementor-view-stacked elementor-widget__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-shape-circle elementor-widget elementor-widget-icon" data-id="de3e9a9" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-gem"></i>			</div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9ec5550 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9ec5550" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-619b24b" data-id="619b24b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-5587955 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5587955" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4482e0e" data-id="4482e0e" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-420bad2 elementor-nav-menu--stretch elementor-hidden-tablet elementor-hidden-mobile elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="420bad2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-420bad2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-13409"><a href="https://mesferlaw.com/" class="elementor-item">الرئيسية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4301"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86/" class="elementor-item">القوانين</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13410"><a href="https://mesferlaw.com/%d8%a3%d8%ad%d9%83%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2/" class="elementor-item">أحكام التمييز<span class="sub-arrow"><i class="fas fa-caret-down" aria-hidden="true"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13429"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a/" class="elementor-sub-item">التمييز المدني</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13412"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d9%8a/" class="elementor-sub-item">التمييز الجزائي</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item">التمييز التجاري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13414"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item">التمييز الإداري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d8%a9/" class="elementor-sub-item">محكمة النقض الاماراتية</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13415"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9/" class="elementor-sub-item">محكمة النقض المصرية</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d8%a9/" class="elementor-item">المحكمة الدستورية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%a3%d8%ad%d9%83%d8%a7%d9%85/" class="elementor-item">الأحكام</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13419"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-item">القرارات</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://mesferlaw.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/" class="elementor-item">إتصل بنا</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-420bad2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-13409"><a href="https://mesferlaw.com/" class="elementor-item" tabindex="-1">الرئيسية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4301"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86/" class="elementor-item" tabindex="-1">القوانين</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13410"><a href="https://mesferlaw.com/%d8%a3%d8%ad%d9%83%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2/" class="elementor-item" tabindex="-1">أحكام التمييز<span class="sub-arrow"><i class="fas fa-caret-down" aria-hidden="true"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13429"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز المدني</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13412"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز الجزائي</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز التجاري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13414"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2-%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d9%8a/" class="elementor-sub-item" tabindex="-1">التمييز الإداري</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d8%a9/" class="elementor-sub-item" tabindex="-1">محكمة النقض الاماراتية</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13415"><a href="https://mesferlaw.com/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9/" class="elementor-sub-item" tabindex="-1">محكمة النقض المصرية</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d8%a9/" class="elementor-item" tabindex="-1">المحكمة الدستورية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="https://mesferlaw.com/%d8%a7%d9%84%d8%a3%d8%ad%d9%83%d8%a7%d9%85/" class="elementor-item" tabindex="-1">الأحكام</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13419"><a href="https://mesferlaw.com/%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-item" tabindex="-1">القرارات</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://mesferlaw.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/" class="elementor-item" tabindex="-1">إتصل بنا</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a445052" data-id="a445052" data-element_type="column" data-e-type="column">
+			
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f8db7ec" data-id="f8db7ec" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6f42b84 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="6f42b84" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzMjUxIiwidG9nZ2xlIjpmYWxzZX0%3D">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">استشارة قانونية</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</header>
+				<div data-elementor-type="single-post" data-elementor-id="13797" class="elementor elementor-13797 elementor-location-single post-11247 post type-post status-publish format-standard hentry category-decision-2017 category-377" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-a3c8bbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a3c8bbf" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ca9db24" data-id="ca9db24" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d1237e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d1237e" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c26479" data-id="0c26479" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e3f70ce elementor-widget elementor-widget-theme-post-content" data-id="e3f70ce" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+					<p class="post-modified-info">تم التحديث 3 أيام ago عن طريق <a href="" target="_blank" class="last-modified-author">Mrmarwan</a></p>
+<div class="cpp-pdf-wrapper cpp-priority-first" style="background-color:#e7e4e4; border: 2px solid #282e3f; padding: 20px; border-radius: 10px; margin: 0 auto 25px auto; max-width: 900px; width: 95%; position: relative; z-index: 9999; clear: both; display: block !important; visibility: visible !important;">
+<div class="cpp-pdf-item">
+<div class="cpp-pdf-title" style="font-weight: bold; font-size:20px; font-family:Arial; margin-bottom: 15px; text-align: justify; word-wrap: break-word; hyphens: auto; line-height: 1.6; overflow-wrap: break-word; text-align-last: center; direction: rtl; unicode-bidi: embed;">‏الهيئة العامة للقوى العاملة قرار رقم 14‎ لسنة 2017‎ بشان الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي</div>
+<p><a class="cpp-download-btn cpp-track-download" href="https://mesferlaw.com/wp-content/uploads/mesferlaw-pdf-11247.pdf" target="_blank" download data-post-id="11247" data-pdf-url="https://mesferlaw.com/wp-content/uploads/mesferlaw-pdf-11247.pdf" data-pdf-title="‏الهيئة العامة للقوى العاملة قرار رقم 14‎ لسنة 2017‎ بشان الحد الادنى لأجور العاملين في القطاع الاهلي والنفطي" style="display: inline-block; padding: 12px 20px; background-color:#0073aa; color:#ffffff; text-decoration: none; border-radius: 5px; font-size:16px; font-family:Arial; font-weight: bold; cursor: pointer;">Download PDF</a></div>
+</div>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">وزير الشئون الاجتماعية والعمل:</p>
+<p style="font-weight: 400;">&#8211; بعد الاطلاع على القانون رقم (28) لسنة 1969 في شأن العمل في قطاع الأعمال النفطية.</p>
+<p style="font-weight: 400;">&#8211; وعلى القانون رقم (6) لسنة 2010 في شأن العمل في القطاع الأهلي وتعديلاته.</p>
+<p style="font-weight: 400;">&#8211; وعلى القانون رقم (109) لسنة 2013 في شأن الهيئة العامة للقوى العاملة وتعديلاته.</p>
+<p style="font-weight: 400;">&#8211; وعلى القرار الوزاري رقم (185/ع) لسنة 2010 بوضع حد أدنى لأجور العاملين في القطاع الأهلي.</p>
+<p style="font-weight: 400;">&#8211; وبعد عرض السيد / مدير عام الهيئة العامه للقوى العاملة.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400; text-align: center;"><strong>قــــرر</strong></p>
+<p style="font-weight: 400; text-align: center;"><strong>مادة أولى</strong></p>
+<p style="font-weight: 400;">يحدد الحد الأدنى لأجر العاملين في القطاع الأهلي والنفطي بمبلغ 75 دينارا (فقط خمسة وسبعون ديناراً كويتياً) شهرياً.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400; text-align: center;"><strong>مادة ثانية</strong></p>
+<p style="font-weight: 400;">تسري أحكام هذا القرار على عقود العمل وإذون العمل التي يتم إبرامها أو تجديدها اعتباراً من تاريخ العمل به، كما يسري – كذلك – على العقود والمشاريع الحكومية التي يتم إبرامها بعد العمل بأحكام هذا القرار.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400; text-align: center;"><strong>مادة ثالثة</strong></p>
+<p style="font-weight: 400;">يعمل بأحكام بهذا القرار اعتباراً من تاريخ نشره بالجريدة الرسمية، ويلغى كل حكم أو اتفاق يتعارض أو يخالف أحكامه، وعلى جهات الاختصاص العلم وتنفيذ ما جاء به.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400; text-align: left;"><strong>وزير الشئون الاجتماعية والعمل   </strong></p>
+<p style="font-weight: 400; text-align: left;"><strong>ووزير الدولة للشئون الاقتصادية    </strong></p>
+<p style="font-weight: 400; text-align: left;"><strong> هند صبيح براك الصبيح          </strong></p>
+<p style="font-weight: 400;"><strong>صدر في: 5 رمضان 1438 ه</strong></p>
+<p style="font-weight: 400;"><strong>الموافـــــق: 31 مــــــايو 2017 م</strong></p>
+<p>&nbsp;</p>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<footer data-elementor-type="footer" data-elementor-id="13010" class="elementor elementor-13010 elementor-location-footer" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-421beeb0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="421beeb0" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2b6d2dcf" data-id="2b6d2dcf" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1e92efd1 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="1e92efd1" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#up">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="a2a9b6bb-809f-403b-bb2f-2dff78fd7fe9" data-name="b385ca18-4b85-46d4-bb4b-571c73a19812" width="18.1738" height="30.1341" viewBox="0 0 18.1738 30.1341"><title>arrow-up</title><path d="M8.4829.25.2616,8.4717a.8482.8482,0,0,0-.261.601L0,9.0874a.8526.8526,0,0,0,.2409.5956.8642.8642,0,0,0,1.2221.0106l.0079-.0079L8.232,2.9239V29.2682a.8566.8566,0,1,0,1.7131.0185c0-.0062,0-.0123,0-.0185V2.9239L16.7042,9.683a.8575.8575,0,0,0,1.2113.0214.8462.8462,0,0,0,.2583-.61.8951.8951,0,0,0-.2556-.621L9.6942.25A.8587.8587,0,0,0,8.4829.25Z"></path></svg>			</span>
+								</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-21552de4 elementor-section-height-min-height elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="21552de4" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7202a27a" data-id="7202a27a" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-8788635 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8788635" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-761fccd" data-id="761fccd" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-119f35c elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="119f35c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://snapchat.com/t/rNbHaq3s" target="_blank">
+							<img width="461" height="462" src="https://mesferlaw.com/wp-content/uploads/2024/06/snapchat.png" class="attachment-large size-large wp-image-18004" alt="" srcset="https://mesferlaw.com/wp-content/uploads/2024/06/snapchat.png 461w, https://mesferlaw.com/wp-content/uploads/2024/06/snapchat-300x300.png 300w, https://mesferlaw.com/wp-content/uploads/2024/06/snapchat-150x150.png 150w, https://mesferlaw.com/wp-content/uploads/2024/06/snapchat-100x100.png 100w" sizes="(max-width: 461px) 100vw, 461px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c33406d" data-id="c33406d" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7f98a97 elementor-widget__width-auto elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="7f98a97" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://mesferlaw.com">
+			<img width="342" height="80" src="https://mesferlaw.com/wp-content/uploads/2023/02/logo.svg" class="attachment-full size-full wp-image-13002" alt="" />				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6fa2873" data-id="6fa2873" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-17f6723 elementor-widget elementor-widget-heading" data-id="17f6723" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">© 2024 المحامي مسفر عايض </h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--
+The IP2Location Country Blocker is using IP2Location LITE geolocation database. Please visit https://lite.ip2location.com for more information.
+-->
+<script>
+        jQuery(document).ready(function($) {
+            // Function to check if element is truly empty
+            function isElementEmpty($el) {
+                var content = $el.html().trim();
+                
+                // Check for completely empty
+                if (!content || content === "") return true;
+                
+                // Check for only whitespace and non-breaking spaces
+                if (/^\s*(&nbsp;|\s)*$/.test(content)) return true;
+                
+                // Check for only HTML comments
+                if (/^<!--[\s\S]*-->$/.test(content)) return true;
+                
+                // Check if it only contains empty child elements
+                var hasContent = false;
+                $el.find("*").each(function() {
+                    if ($(this).text().trim() || $(this).find("img, video, audio, iframe, canvas, svg").length > 0) {
+                        hasContent = true;
+                        return false;
+                    }
+                });
+                
+                return !hasContent && !$el.text().trim();
+            }
+            
+            // Aggressive removal of empty elements
+            function removeEmptyElements() {
+                // Remove ACF and other plugin empty blocks
+                $("[class*=acf], [class*=block], [data-type], [data-block]").each(function() {
+                    if (isElementEmpty($(this))) {
+                        $(this).remove();
+                    }
+                });
+                
+                // Remove empty WordPress blocks
+                $(".wp-block, .wp-block-group, .wp-block-columns, .elementor-widget-wrap, .elementor-element").each(function() {
+                    if (isElementEmpty($(this))) {
+                        $(this).remove();
+                    }
+                });
+                
+                // Remove any remaining empty divs, sections, etc.
+                $("div, section, article, aside, header, footer, main").each(function() {
+                    var $this = $(this);
+                    
+                    // Skip if it contains our PDF wrapper
+                    if ($this.find(".cpp-pdf-wrapper").length > 0) return;
+                    
+                    if (isElementEmpty($this) && !$this.hasClass("cpp-pdf-wrapper")) {
+                        $this.remove();
+                    }
+                });
+            }
+            
+            // Run cleanup multiple times to catch nested empty elements
+            removeEmptyElements();
+            setTimeout(removeEmptyElements, 100);
+            setTimeout(removeEmptyElements, 500);
+            
+            // Force PDF blocks to top of content
+            function movePDFsToTop() {
+                $(".cpp-pdf-wrapper").each(function() {
+                    var $pdf = $(this);
+                    var $container = $pdf.closest(".entry-content, .post-content, article, main, .elementor-widget-container, .wp-block-group");
+                    
+                    if ($container.length) {
+                        // Detach and prepend to ensure it goes to the very top
+                        $pdf.detach().prependTo($container);
+                        
+                        // Force styling
+                        $pdf.css({
+                            "position": "relative",
+                            "z-index": "10000",
+                            "margin": "0 auto 25px auto",
+                            "max-width": "900px",
+                            "width": "95%",
+                            "display": "block",
+                            "clear": "both",
+                            "order": "-9999",
+                            "visibility": "visible",
+                            "opacity": "1"
+                        });
+                    }
+                });
+            }
+            
+            movePDFsToTop();
+            
+            // Fix Arabic text with numbers
+            function fixArabicNumbers() {
+                $(".cpp-pdf-title").each(function() {
+                    var $title = $(this);
+                    var text = $title.text();
+                    
+                    if (/[\u0600-\u06FF]/.test(text)) {
+                        // Process text to fix number display
+                        var fixedText = text.replace(/(\d+)/g, function(match) {
+                            return match + "‎"; // Add LRM after numbers
+                        });
+                        
+                        // Add RLM at beginning for Arabic text
+                        fixedText = "‏" + fixedText;
+                        
+                        $title.html(fixedText);
+                        
+                        $title.css({
+                            "direction": "rtl",
+                            "unicode-bidi": "embed",
+                            "text-align": "justify",
+                            "text-align-last": "center",
+                            "word-wrap": "break-word",
+                            "overflow-wrap": "break-word",
+                            "line-height": "1.6",
+                            "white-space": "normal",
+                            "font-variant-numeric": "lining-nums",
+                            "text-rendering": "optimizeLegibility"
+                        });
+                    }
+                });
+            }
+            
+            fixArabicNumbers();
+            
+            // Force container to use flexbox layout for proper ordering
+            $(".entry-content, .post-content, article").each(function() {
+                var $container = $(this);
+                if ($container.find(".cpp-pdf-wrapper").length > 0) {
+                    $container.css({
+                        "display": "flex",
+                        "flex-direction": "column"
+                    });
+                    
+                    // Force PDF wrappers to order -9999
+                    $container.find(".cpp-pdf-wrapper").css("order", "-9999");
+                    
+                    // Force everything else to order 1
+                    $container.children().not(".cpp-pdf-wrapper").css("order", "1");
+                }
+            });
+            
+            // Run cleanup and reordering again after a delay to catch dynamically loaded content
+            setTimeout(function() {
+                removeEmptyElements();
+                movePDFsToTop();
+                fixArabicNumbers();
+            }, 1000);
+        });
+        </script><script>
+        console.log("CPP Debug:", {
+            ajax_url: typeof cpp_ajax !== "undefined" ? cpp_ajax.ajax_url : "undefined",
+            nonce: typeof cpp_ajax !== "undefined" ? cpp_ajax.nonce : "undefined",
+            jquery_loaded: typeof jQuery !== "undefined"
+        });
+        </script>    <div id="mesfer-overlay">
+        <div class="overlay-card">
+
+            <img src="https://mesferlaw.com/wp-content/uploads/2026/04/splash-icon.png" class="overlay-logo" alt="Logo">
+
+            <h2>الموقع متاح حاليا خلال التطبيق فقط</h2>
+            <p>يرجى تحميل التطبيق للوصول إلى جميع الخدمات والمحتوى</p>
+            <p>اذا واجهت مشكلة في التسجيل برقم الهاتف سجل عن طريق الايميل</p>
+
+
+            <div class="store-buttons">
+                <a href="https://play.google.com/store/apps/details?id=com.mesfer.lawapp7" class="android-btn" target="_blank">
+                    📱 تحميل للأندرويد
+                </a>
+
+                <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%A6%D8%A7%D9%85%D9%8A-%D9%85%D8%B3%D9%81%D8%B1%D8%B9%D8%A7%D9%8A%D8%B6/id6759877304?l=ar" class="ios-btn" target="_blank">
+                    🍎 تحميل للآيفون
+                </a>
+
+                <a href="https://www.youtube.com/@Mesferlaw" class="youtube-btn" target="_blank">
+                    📺 تابعنا على اليوتيوب
+                </a>
+            </div>
+
+            <div class="qr-wrapper">
+                <p>📱 افتح الكاميرا وامسح الكود لتحميل التطبيق فورًا</p>
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://mesferlaw.com/smart-download" class="qr-code">
+            </div>
+
+        </div>
+    </div>
+
+    <style>
+        #mesfer-overlay{
+            position:fixed;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            background: rgba(255,255,255,0.75);
+            backdrop-filter: blur(8px);
+            z-index:999999;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            padding:20px;
+        }
+
+        .overlay-card{
+            width:100%;
+            max-width:520px;
+            background:#fff;
+            padding:35px 30px;
+            border-radius:22px;
+            text-align:center;
+            box-shadow:0 20px 60px rgba(0,0,0,0.08);
+            animation:fadeUp .5s ease, scaleIn .4s ease;
+        }
+
+        @keyframes fadeUp{
+            from{opacity:0;transform:translateY(20px)}
+            to{opacity:1;transform:translateY(0)}
+        }
+
+        @keyframes scaleIn{
+            from{transform:scale(.95)}
+            to{transform:scale(1)}
+        }
+
+        .overlay-logo{
+            width:90px;
+            margin-bottom:15px;
+            animation:logoPop .8s ease;
+        }
+
+        @keyframes logoPop{
+            0%{opacity:0;transform:scale(.6)}
+            70%{transform:scale(1.08)}
+            100%{opacity:1;transform:scale(1)}
+        }
+
+        h2{
+            font-size:24px;
+            margin-bottom:10px;
+        }
+
+        p{
+            color:#666;
+            margin-bottom:20px;
+        }
+
+        .store-buttons a{
+            display:block;
+            padding:14px;
+            margin:10px 0;
+            border-radius:12px;
+            text-decoration:none;
+            color:#fff;
+            font-weight:bold;
+            transition: all .2s ease;
+        }
+
+        .store-buttons a:hover{
+            transform:scale(1.03);
+            opacity:0.95;
+        }
+
+        .android-btn{
+            background:#2ecc71;
+        }
+
+        .ios-btn{
+            background:#007aff;
+        }
+
+        /* 🔴 ستايل زر اليوتيوب الجديد */
+        .youtube-btn{
+            background:#ff0000;
+        }
+
+        .qr-wrapper{
+            margin-top:25px;
+        }
+
+        .qr-code{
+            width:220px;
+            margin-top:10px;
+        }
+
+        /* 📱 تحسين للموبايل */
+        @media(max-width:480px){
+            .overlay-card{
+                padding:25px 20px;
+            }
+
+            h2{
+                font-size:20px;
+            }
+
+            .qr-code{
+                width:180px;
+            }
+        }
+    </style>
+
+    <script>
+        document.body.style.overflow = "hidden";
+    </script>
+    		<div data-elementor-type="popup" data-elementor-id="13251" class="elementor elementor-13251 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInDown&quot;,&quot;exit_animation&quot;:&quot;fadeInDown&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-18165bb elementor-section-height-min-height elementor-section-items-stretch elementor-section-full_width elementor-section-height-default" data-id="18165bb" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7437ba86" data-id="7437ba86" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3b110445 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="3b110445" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" id="e2053028-ab44-416d-81a2-eb7e3fc8262c" data-name="Layer 1" width="19.0919" height="19.0919" viewBox="0 0 19.0919 19.0919"><polygon points="19.092 2.121 16.971 0 9.546 7.423 2.121 0 0 2.121 7.425 9.545 0 16.971 2.121 19.092 9.545 11.667 16.971 19.092 19.092 16.971 11.667 9.545 19.092 2.121" style="fill-rule:evenodd"></polygon></svg>			</span>
+								</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-386c587f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="386c587f" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-42ccf1ec" data-id="42ccf1ec" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9e33010 elementor-widget elementor-widget-image" data-id="9e33010" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="342" height="80" src="https://mesferlaw.com/wp-content/uploads/2023/02/logo.svg" class="attachment-full size-full wp-image-13002" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c5b9ede elementor-widget elementor-widget-text-editor" data-id="c5b9ede" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>نحن نقف بكل فخر كأفضل المدافعين القانونيين عن حقوقك ومصالحك. مع فريق من المحامين ذوي المهارات العالية.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3bb71f38 elementor-tablet-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3bb71f38" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/cdn-cgi/l/email-protection#4b22252d240b262e382d2e39272a3c65282426">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="4821262e2708252d3b2e2d3a24293f662b2725">[email&#160;protected]</span></span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-32069caf" data-id="32069caf" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-78e480f0 elementor-widget elementor-widget-heading" data-id="78e480f0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">طلب استشارة قانونية</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3f09c37 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="3f09c37" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;\u0627\u0644\u062a\u0627\u0644\u064a&quot;,&quot;step_previous_label&quot;:&quot;\u0627\u0644\u0633\u0627\u0628\u0642&quot;,&quot;step_type&quot;:&quot;number&quot;,&quot;step_icon_shape&quot;:&quot;square&quot;,&quot;button_width&quot;:&quot;100&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" id="Legal_advice_request" name="Legal Advice Request" aria-label="Legal Advice Request" novalidate="">
+			<input type="hidden" name="post_id" value="13251"/>
+			<input type="hidden" name="form_id" value="3f09c37"/>
+			<input type="hidden" name="referer_title" value="الصفحة غير موجودة - المحامي مسفر عايض" />
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-step elementor-field-group elementor-column elementor-field-group-page1 elementor-col-100">
+							
+
+						</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_11e0dd0 elementor-col-100">
+					بياناتك الشخصية				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-first_name elementor-col-50 elementor-field-required elementor-mark-required">
+												<label for="form-field-first_name" class="elementor-field-label">
+								الإسم الأول							</label>
+														<input size="1" type="text" name="form_fields[first_name]" id="form-field-first_name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="الإسم الأول" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-last_name elementor-col-50 elementor-field-required elementor-mark-required">
+												<label for="form-field-last_name" class="elementor-field-label">
+								اسم العائلة							</label>
+														<input size="1" type="text" name="form_fields[last_name]" id="form-field-last_name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="اسم العائلة" required="required">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required elementor-mark-required">
+												<label for="form-field-email" class="elementor-field-label">
+								البريد الإلكتروني							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="البريد الإلكتروني" required="required">
+											</div>
+								<div class="elementor-field-type-step elementor-field-group elementor-column elementor-field-group-page2 elementor-col-100">
+							
+
+						</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_e03bb4d elementor-col-50">
+					بيانات الإستشارة				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-subject elementor-col-100 elementor-field-required elementor-mark-required">
+												<label for="form-field-subject" class="elementor-field-label">
+								موضوع الإستشارة							</label>
+														<input size="1" type="text" name="form_fields[subject]" id="form-field-subject" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="موضوع الإستشارة" required="required">
+											</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_ccece2b elementor-col-30">
+					مدة الاستشارة				</div>
+								<div class="elementor-field-type-radio elementor-field-group elementor-column elementor-field-group-duration elementor-col-70 elementor-field-required elementor-mark-required">
+					<div class="elementor-field-subgroup  elementor-subgroup-inline"><span class="elementor-field-option"><input type="radio" value="نصف ساعة" id="form-field-duration-0" name="form_fields[duration]" required="required"> <label for="form-field-duration-0">نصف ساعة</label></span><span class="elementor-field-option"><input type="radio" value="ساعة" id="form-field-duration-1" name="form_fields[duration]" required="required"> <label for="form-field-duration-1">ساعة</label></span></div>				</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_339b204 elementor-col-30">
+					طريقة التواصل				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-phone elementor-col-70 elementor-field-required elementor-mark-required">
+							<input size="1" type="tel" name="form_fields[phone]" id="form-field-phone" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="رقم الهاتف" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+
+						</div>
+								<div class="elementor-field-type-step elementor-field-group elementor-column elementor-field-group-page3 elementor-col-100">
+							
+
+						</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_75eeb2c elementor-col-33">
+					صورة البطاقة المدنية				</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-id_file elementor-col-66 elementor-field-required elementor-mark-required">
+												<label for="form-field-id_file" class="elementor-field-label">
+								البطاقة المدنية							</label>
+								<input type="file" name="form_fields[id_file]" id="form-field-id_file" class="elementor-field elementor-size-sm  elementor-upload-field" required="required" data-maxsize="5" data-maxsize-message="This file exceeds the maximum allowed size.">
+
+						</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_5e97141 elementor-col-33">
+					ملفات الاستشارة  1				</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-files_1 elementor-col-66 elementor-field-required elementor-mark-required">
+												<label for="form-field-files_1" class="elementor-field-label">
+								1 ملفات الاستشارة 							</label>
+								<input type="file" name="form_fields[files_1][]" id="form-field-files_1" class="elementor-field elementor-size-sm  elementor-upload-field" required="required" multiple="multiple" data-maxsize="5" data-maxsize-message="This file exceeds the maximum allowed size.">
+
+						</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_4fe2f8c elementor-col-33">
+					ملفات الاستشارة 2				</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-files_2 elementor-col-66">
+												<label for="form-field-files_2" class="elementor-field-label">
+								2 ملفات الاستشارة 							</label>
+								<input type="file" name="form_fields[files_2][]" id="form-field-files_2" class="elementor-field elementor-size-sm  elementor-upload-field" multiple="multiple" data-maxsize="5" data-maxsize-message="This file exceeds the maximum allowed size.">
+
+						</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-notes elementor-col-100">
+												<label for="form-field-notes" class="elementor-field-label">
+								بيانات إضافية (اختياري)							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[notes]" id="form-field-notes" rows="3" placeholder="بيانات إضافية (اختياري)"></textarea>				</div>
+								<div class="elementor-field-type-recaptcha elementor-field-group elementor-column elementor-field-group-captcha elementor-col-100">
+									</div>
+								<div class="elementor-field-type-text">
+					<input size="1" type="text" name="form_fields[honeypot]" id="form-field-honeypot" class="elementor-field elementor-size-sm " style="display:none !important;">				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">تأكيد الطلب</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+					<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			</script>
+			<script>
+var HCaptchaMainObject = {"params":"{\"sitekey\":\"d60c96c8-07ae-4e90-acba-fb04408ed800\",\"theme\":\"light\",\"size\":\"invisible\",\"hl\":\"ar\"}"};
+</script>
+<link rel='stylesheet' id='widget-icon-list-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='widget-form-css' href='https://mesferlaw.com/wp-content/plugins/pro-elements/assets/css/widget-form-rtl.min.css?ver=4.2.3' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInDown-css' href='https://mesferlaw.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='e-popup-css' href='https://mesferlaw.com/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=4.2.3' media='all' />
+<script id="cpp-tracking-js-extra">
+var cpp_ajax = {"ajax_url":"https://mesferlaw.com/wp-admin/admin-ajax.php","nonce":"53c8defc89"};
+//# sourceURL=cpp-tracking-js-extra
+</script>
+<script id="cpp-tracking-js" src="https://mesferlaw.com/wp-content/plugins/custm-pdf/admin/../assets/tracking.js?ver=1.0"></script>
+<script id="pdf-search-script-js-extra">
+var pdfSearch = {"ajax_url":"https://mesferlaw.com/wp-admin/admin-ajax.php","nonce":"73914706ca"};
+//# sourceURL=pdf-search-script-js-extra
+</script>
+<script id="pdf-search-script-js" src="https://mesferlaw.com/wp-content/plugins/pdf-search-filter/assets/js/search.js?ver=1.0.0"></script>
+<script id="ai-law-bot-widget-js-extra">
+var aiLawBotConfig = {"apiUrl":"https://mesferlaw.com/wp-json/ai-law-bot/v1/ask","nonce":"a020be9f61","strings":{"placeholder":"\u0627\u0643\u062a\u0628 \u0633\u0624\u0627\u0644\u0643 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a...","send":"\u0625\u0631\u0633\u0627\u0644","thinking":"\u062c\u0627\u0631\u064d \u0627\u0644\u062a\u062d\u0644\u064a\u0644...","error":"\u062d\u062f\u062b \u062e\u0637\u0623","limitReached":"\u0648\u0635\u0644\u062a \u0644\u0644\u062d\u062f \u0627\u0644\u064a\u0648\u0645\u064a","chatTitle":"\u0645\u0633\u0627\u0639\u062f \u0642\u0627\u0646\u0648\u0646\u064a \u0630\u0643\u064a","minimize":"\u062a\u0635\u063a\u064a\u0631","close":"\u0625\u063a\u0644\u0627\u0642"}};
+//# sourceURL=ai-law-bot-widget-js-extra
+</script>
+<script id="ai-law-bot-widget-js" src="https://mesferlaw.com/wp-content/plugins/ai-law-bot-v4.3.9/assets/js/chat-widget.js?ver=5.0.1"></script>
+<script id="elementor-webpack-runtime-js" src="https://mesferlaw.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.6"></script>
+<script id="elementor-frontend-modules-js" src="https://mesferlaw.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.6"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://mesferlaw.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u0634\u0627\u0631\u0643 \u0639\u0644\u0649 \u0641\u064a\u0633\u0628\u0648\u0643","shareOnX":"Share on X","pinIt":"\u062b\u0628\u062a\u0647\u0627 ","download":"\u062a\u062d\u0645\u064a\u0644","downloadImage":"\u062a\u0646\u0632\u064a\u0644 \u0627\u0644\u0635\u0648\u0631\u0629","fullscreen":"\u0639\u0631\u0636 \u0634\u0627\u0634\u0629 \u0643\u0627\u0645\u0644\u0629","zoom":"\u062a\u0643\u0628\u064a\u0631","share":"\u0645\u0634\u0627\u0631\u0643\u0629","playVideo":"\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0641\u064a\u062f\u064a\u0648","previous":"\u0627\u0644\u0633\u0627\u0628\u0642","next":"\u0627\u0644\u062a\u0627\u0644\u064a","close":"\u0625\u063a\u0644\u0627\u0642","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":true,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u062d\u0627\u0633\u0648\u0628 \u0645\u062d\u0645\u0648\u0644","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0627\u0644\u0634\u0627\u0634\u0629 \u0627\u0644\u0639\u0631\u064a\u0636\u0629","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.3.6","is_static":false,"experimentalFeatures":{"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/mesferlaw.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/mesferlaw.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/mesferlaw.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"86a9778b91","atomicFormsSendForm":"e468e3e091"},"swiperClass":"swiper","settings":{"page":{"element_pack_global_tooltip_width":{"unit":"px","size":"","sizes":[]},"element_pack_global_tooltip_width_tablet":{"unit":"px","size":"","sizes":[]},"element_pack_global_tooltip_width_mobile":{"unit":"px","size":"","sizes":[]},"element_pack_global_tooltip_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_border_radius_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_border_radius_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true}},"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":11247,"title":"%D8%A7%D9%84%D9%87%D9%8A%D9%8A%D9%94%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9%20%D9%84%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9%20%D9%82%D8%B1%D8%A7%D8%B1%20%D8%B1%D9%82%D9%85%2014%20%D9%84%D8%B3%D9%86%D8%A9%202017%20%D8%A8%D8%B4%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D8%AF%20%D8%A7%D9%84%D8%A7%D8%AF%D9%86%D9%89%20%D9%84%D8%A7%D9%94%D8%AC%D9%88%D8%B1%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%20%D9%88%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%2F%D9%88%D8%B2%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%8A%D9%94%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D9%85%D9%84%20%D9%82%D8%B1%D8%A7%D8%B1%20%D8%B1%D9%82%D9%85%2021%20%D9%84%D8%B3%D9%86%D8%A9%202017%20%D8%A8%D8%B4%D8%A7%D9%86%20%D8%B3%D8%B1%D9%8A%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%20%D8%B1%D9%82%D9%85%2014%20%D9%84%D8%B3%D9%86%D8%A9%202017%20%D8%A8%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A7%D9%84%D8%AD%D8%AF%20%D8%A7%D9%84%D8%A7%D8%AF%D9%86%D9%89%20%D9%84%D8%A7%D9%94%D8%AC%D9%88%D8%B1%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%20%D9%88%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%20-%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A%20%D9%85%D8%B3%D9%81%D8%B1%20%D8%B9%D8%A7%D9%8A%D8%B6","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://mesferlaw.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.6"></script>
+<script id="smartmenus-js" src="https://mesferlaw.com/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"></script>
+<script id="wccp_pro_admin_bar_ajax-js-extra">
+var ajax_object = {"ajaxurl":"https://mesferlaw.com/wp-admin/admin-ajax.php","link":"https://mesferlaw.com/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9-%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%82%D9%85-14/"};
+//# sourceURL=wccp_pro_admin_bar_ajax-js-extra
+</script>
+<script id="wccp_pro_admin_bar_ajax-js" src="https://mesferlaw.com/wp-content/plugins/wccp-pro/js/admin_bar_ajax.js?ver=7.1.4"></script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"requestUrl":"https://mesferlaw.com/wp-json/wp-statistics/v2","ajaxUrl":"https://mesferlaw.com/wp-admin/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"post","source_id":11247,"search_query":"","signature":"a17ff619258be8c05a7452507eceb5e6","endpoint":"hit"},"option":{"dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"userOnline":false,"isWpConsentApiActive":false},"isLegacyEventLoaded":"","customEventAjaxUrl":"https://mesferlaw.com/wp-admin/admin-ajax.php?action=wp_statistics_custom_event&nonce=3b8783bc86","onlineParams":{"wp_statistics_hit":1,"source_type":"post","source_id":11247,"search_query":"","signature":"a17ff619258be8c05a7452507eceb5e6","action":"wp_statistics_online_check"},"jsCheckTime":"60000"};
+//# sourceURL=wp-statistics-tracker-js-extra
+</script>
+<script id="wp-statistics-tracker-js" src="https://mesferlaw.com/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.16.8"></script>
+<script id="bdt-uikit-js-extra">
+var element_pack_ajax_login_config = {"ajaxurl":"https://mesferlaw.com/wp-admin/admin-ajax.php","language":"ar","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"};
+var ElementPackConfig = {"ajaxurl":"https://mesferlaw.com/wp-admin/admin-ajax.php","nonce":"43fb4b0dcc","data_table":{"language":{"sLengthMenu":"Show _MENU_ Entries","sInfo":"Showing _START_ to _END_ of _TOTAL_ entries","sSearch":"Search :","sZeroRecords":"No matching records found","oPaginate":{"sPrevious":"Previous","sNext":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"search":{"more_result":"More Results","search_result":"SEARCH RESULT","not_found":"not found"},"words_limit":{"read_more":"[read more]","read_less":"[read less]"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+//# sourceURL=bdt-uikit-js-extra
+</script>
+<script id="bdt-uikit-js" src="https://mesferlaw.com/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.21.7"></script>
+<script id="element-pack-helper-js" src="https://mesferlaw.com/wp-content/plugins/bdthemes-element-pack/assets/js/common/helper.min.js?ver=9.8.1"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://mesferlaw.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.2.3"></script>
+<script id="wp-hooks-js" src="https://mesferlaw.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://mesferlaw.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/mesferlaw.com\/wp-admin\/admin-ajax.php","nonce":"f9baffb820","urls":{"assets":"https:\/\/mesferlaw.com\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/mesferlaw.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"ar","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/mesferlaw.com\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://mesferlaw.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=4.2.3"></script>
+<script id="pro-elements-handlers-js" src="https://mesferlaw.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.2.3"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://mesferlaw.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://mesferlaw.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.9.3 on 2026-11-09 11:00:50 -->

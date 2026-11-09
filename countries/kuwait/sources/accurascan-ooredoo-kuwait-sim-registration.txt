@@ -1,0 +1,194 @@
+PAGE META: article:published_time: 2026-02-26T05:38:51+00:00 | article:modified_time: 2026-02-26T05:42:16+00:00
+
+Ooredoo Kuwait Automates SIM Registration with Accura Scan
+
+START
+ ABIS 
+
+Start ABIS 
+
+Ooredoo Kuwait Automates SIM Registration Process with Accura Scan
+
+Ooredoo Kuwait Automates SIM Registration Process with Accura Scan
+
+February 26, 2026
+
+				Trusted By The World’s Best						
+
+In today’s fast-moving telecom landscape, customer onboarding needs to be instant, secure, and fully compliant. With rising expectations for seamless digital experiences and increasing threats of identity fraud, telecom operators across the GCC are investing wisely in smarter, AI-powered 
+identity verification
+.
+
+Accura Scan is proud to announce its recent partnership with Ooredoo Kuwait, one of the region’s leading telecom providers, to automate and strengthen the user registration process within their DMS application for new mobile SIM purchases.
+
+The Challenge: Fast Onboarding with Strong Fraud Protection
+
+SIM registration is a critical process in Kuwait, governed by strict regulatory requirements. Telecom providers must ensure that every new customer identity is verified accurately, while also preventing fraudulent document submissions, spoofing attempts, or forged IDs.
+
+For Ooredoo Kuwait, the goal was clear:
+
+Deliver a smooth digital onboarding experience
+
+Automate document capture and verification
+
+Ensure high accuracy across multiple ID types
+
+Add strong fraud detection layers before OCR extraction
+
+Accura Scan’s Two-Layer Verification Approach
+
+To meet these requirements, Ooredoo Kuwait deployed Accura Scan’s advanced 
+identity verification solutions
+, employing multiple checks ensuring only genuine documents reach the OCR stage.
+
+Layer 1: ID/Document Validation
+
+Before any data is extracted, the document must first pass through Accura Scan’s template matching check for validation.
+
+This ensures that the uploaded document matches the correct structure, layout, and design of an approved ID type. It prevents errors caused by incorrect document uploads, unsupported formats& manipulated or tampered templates
+
+This step guarantees that only valid Kuwait and GCC issued identity documents proceed further.
+
+Layer 2: Document Liveness & ID Forgery Detection
+
+Once template validation is complete, the document undergoes Accura Scan’s Document Liveness & 
+ID Forgery Detection
+.
+
+This advanced AI check confirms whether the document is physically real and not a spoof attempt using printed copies, screenshots, digital or photo overlays and fake document reproductions.
+
+Beyond simple authenticity checks, this layer strengthens protection against sophisticated ID card tampering attempts, ensuring that digitally manipulated or altered documents are detected before data extraction begins.
+
+This layer significantly reduces fraud risk and strengthens onboarding compliance.
+
+High-Accuracy MRZ OCR for Kuwait & GCC Documents
+
+After clearing both verification layers, Accura Scan’s MRZ OCR engine performs fast and accurate capture of identity data from a wide range of documents, including:
+
+Kuwait Civil ID &Resident ID Cards
+
+Bedouin ID Cards
+
+Passports and Visas
+
+Other GCC National IDs
+
+The system delivers structured, reliable data instantly into Ooredoo’s registration process, reducing manual effort and improving customer experience.
+
+Impact for Ooredoo Kuwait
+
+With Accura Scan integrated into their DMS application, Ooredoo Kuwait has benefitted from
+
+Faster SIM onboarding and reduced registration time
+
+Improved accuracy and automation in ID data capture
+
+Enhanced fraud prevention with multi-layer validation
+
+Regulatory-ready identity verification at scale
+
+Seamless support for Kuwait and GCC document types
+
+Driving the Future of Telecom Onboarding
+
+This partnership marks another milestone in Accura Scan’s mission to enable secure, AI-driven digital onboarding across the Middle East. By combining template matching, 
+document liveness detection
+, and MRZ OCR, Ooredoo Kuwait is now delivering a next-generation SIM registration experience that is both user-friendly and highly secure.
+
+Accura Scan is proud to support telecom leaders like Ooredoo in building smarter, safer digital identity ecosystems.
+
+Products
+KYC Identity Verification
+
+NFC Verification
+
+Doc ID Liveness
+
+Biometric Authentication
+
+PDF Forensic Check
+
+Face Liveness Detection
+
+Voice Liveness
+
+ID Forgery
+
+AML Screening
+
+Voice Verification
+
+Fingerprint Verification
+
+Face Verification
+
+Passport and ID – OCR
+
+Video KYC Verification
+
+Camera Injection Attack
+
+MICR Check / Cheque Scanning
+
+Company
+Our Team
+
+Customers
+
+Partners
+
+Pricing
+
+Blogs
+
+Try Now
+
+Book A Demo
+
+Contact Us
+
+Privacy Policy
+
+Use Cases
+Account Opening
+
+Age Verification
+
+Customer Onboarding
+
+Fraud Prevention
+
+Investor Verification
+
+Resources
+Countries Supported
+
+Documents Supported
+
+Documentation
+
+Sandbox
+
+Locations
+
+INDIA: 1102, Ajmera Sikova, Nityanand Nagar, Ghatkopar West, Mumbai -  400086
+ +91 7977 613 945
+
+UAE: FAMC4564, Compass Building, Al Shohada Road, RAKEZ
+ +971 50 440 8925
+
+SINGAPORE: 10 Anson Road #33 - 10C International Plaza Singapore 079903
+
+USA: 1176 Wetlands Ct, LawrenceVille, GA 30044
+ +1 770 589 5807
+
+EUROPE: Seebi 1-1501, 11316 Tallinn, Estonia
+ +49 1590 469 2512
+
+ sales@accurascan.com
+
+© Copyright 2026. All rights reserved. 
+Accura Scan
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+
