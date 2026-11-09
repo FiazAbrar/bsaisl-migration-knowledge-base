@@ -1,0 +1,36 @@
+(function ($) {
+
+    $.fn.ShareArticleFunctionality = function (options) {
+
+        // defaults values for classes ussed in plugin
+        // Note: we make classes as options to be able from change
+        // them in html files (depend on used case and html structure)
+        let helper = $.extend({
+            onElemHoverMSG: "Click to Copy Post Url",
+            articleUrlCopiedMsg: "Post Url Copied",
+        }, options);
+
+        // Share Article Functionality
+        $(this).mouseenter(function () {
+            $(this).removeAttr("data-original-title");
+            $(this).attr("title", helper.onElemHoverMSG);
+        });
+
+        $(this).on("click", function (e) {
+            e.preventDefault();
+            $("body").append('<textarea id="currentUrlValue"></textarea>');
+
+            let url = window.location.href;
+            let currentUrlInput = $("#currentUrlValue");
+            currentUrlInput.html(url);
+            currentUrlInput.select();
+            document.execCommand("Copy");
+
+            $(this).tooltip('hide');
+            $(this).attr("title", helper.articleUrlCopiedMsg);
+            $(this).attr("data-original-title", helper.articleUrlCopiedMsg);
+            $(this).tooltip('show');
+            currentUrlInput.hide();
+        });
+    };
+}(jQuery));

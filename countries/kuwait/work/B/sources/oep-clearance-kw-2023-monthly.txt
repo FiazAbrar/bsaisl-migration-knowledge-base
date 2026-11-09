@@ -1,0 +1,13 @@
+# OEP country-clearance report, Kuwait (country_id 93), 2023 by month, queried 2026-11-09
+2023-01-01 to 2023-01-31: Kuwait total_employee 2708 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-01-31&country_id%5B%5D=93&gender_id=)
+2023-02-01 to 2023-02-28: Kuwait total_employee 2115 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-02-01&approval_date_to=2023-02-28&country_id%5B%5D=93&gender_id=)
+2023-03-01 to 2023-03-31: Kuwait total_employee 2876 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-03-01&approval_date_to=2023-03-31&country_id%5B%5D=93&gender_id=)
+2023-04-01 to 2023-04-30: Kuwait total_employee 1457 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-04-01&approval_date_to=2023-04-30&country_id%5B%5D=93&gender_id=)
+2023-05-01 to 2023-05-31: Kuwait total_employee 2451 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-05-01&approval_date_to=2023-05-31&country_id%5B%5D=93&gender_id=)
+2023-06-01 to 2023-06-30: Kuwait total_employee 4258 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-06-01&approval_date_to=2023-06-30&country_id%5B%5D=93&gender_id=)
+2023-07-01 to 2023-07-31: Kuwait total_employee 6176 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-07-01&approval_date_to=2023-07-31&country_id%5B%5D=93&gender_id=)
+2023-08-01 to 2023-08-31: Kuwait total_employee 5231 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-08-01&approval_date_to=2023-08-31&country_id%5B%5D=93&gender_id=)
+2023-09-01 to 2023-09-30: Kuwait total_employee 2361 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-09-01&approval_date_to=2023-09-30&country_id%5B%5D=93&gender_id=)
+2023-10-01 to 2023-10-31: Kuwait total_employee 2883 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-10-01&approval_date_to=2023-10-31&country_id%5B%5D=93&gender_id=)
+2023-11-01 to 2023-11-30: Kuwait total_employee 1872 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-11-01&approval_date_to=2023-11-30&country_id%5B%5D=93&gender_id=)
+2023-12-01 to 2023-12-31: Kuwait total_employee 2057 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-12-01&approval_date_to=2023-12-31&country_id%5B%5D=93&gender_id=)

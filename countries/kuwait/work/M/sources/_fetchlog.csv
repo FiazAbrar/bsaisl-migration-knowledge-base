@@ -1,0 +1,9 @@
+name,url,access_date,http_status,content_type,method,files
+govuk-kw-bereavement,https://www.gov.uk/government/publications/kuwait-bereavement-information/kuwait-bereavement-information,2026-11-09,200,text/html; charset=utf-8,curl,govuk-kw-bereavement.html;govuk-kw-bereavement.md;govuk-kw-bereavement.txt
+news-arabtimes-sahel-driver-visa,https://www.arabtimesonline.com/news/kuwait-now-allows-online-issuance-of-domestic-driver-visas-through-sahel-app/,2026-11-09,200,text/html; charset=UTF-8,curl,news-arabtimes-sahel-driver-visa.html;news-arabtimes-sahel-driver-visa.md;news-arabtimes-sahel-driver-visa.txt
+moi-kw-kuwaitvisa-home-2026-11,https://kuwaitvisa.moi.gov.kw/,2026-11-09,200,,manual,moi-kw-kuwaitvisa-home-2026-11.html;moi-kw-kuwaitvisa-home-2026-11.md
+bdemb-kw-fb-minimum-salary-2025-1,https://www.facebook.com/Bangladeshkuwait/posts/733080116251769/,2026-11-09,200,,manual,bdemb-kw-fb-minimum-salary-2025-1.md;bdemb-kw-fb-minimum-salary-2025-1.png
+bdemb-kw-fb-minimum-salary-2025-2,https://www.facebook.com/Bangladeshkuwait/posts/733080116251769/#page2,2026-11-09,200,,manual,bdemb-kw-fb-minimum-salary-2025-2.md;bdemb-kw-fb-minimum-salary-2025-2.png
+moi-kw-kuwaitvisa-bangladesh-tourist,https://kuwaitvisa.moi.gov.kw/#tourist-bangladesh,2026-11-09,200,,manual,moi-kw-kuwaitvisa-bangladesh-tourist.md
+moi-kw-kuwaitvisa-bangladesh-family,https://kuwaitvisa.moi.gov.kw/#family-bangladesh,2026-11-09,200,,manual,moi-kw-kuwaitvisa-bangladesh-family.md;moi-kw-kuwaitvisa-bangladesh-family.png
+moi-kw-news-112152-visit-visas-extended-2026-03,https://www.moi.gov.kw/main/News/Index/112152,2026-11-09,200,,manual,moi-kw-news-112152-visit-visas-extended-2026-03.md
