@@ -2,17 +2,20 @@
 
 How to go to Kyrgyzstan on a Bangladeshi passport, visa by visa, step by step. A raised number such as 3 is an official source; N3 is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh); KGS is the Kyrgyz som, converted throughout at KGS 1 = about Tk 1.42, from the National Bank of the Kyrgyz Republic's rate of USD 1 = KGS 87.45 and Bangladesh Bank's rate of USD 1 = Tk 124.42 on 10 November 2026; US dollars are converted at that Tk 124.42 [G0001, G0002, G0003]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers jobseekers on its OEP (Overseas Employment Platform) website and gives each worker emigration clearance before departure; the Ministry of Expatriates' Welfare and Overseas Employment tells workers never to go without that clearance [B0003, B0011, B0006]. Bangladeshis need a visa to enter Kyrgyzstan [W0028, V0155]. To work there, a foreigner needs the Unified Permit (Единое разрешение, also called the Single Permit), an electronic document with a QR code that combines the work visa, the employer's permit to hire foreign labour and the work permit; it replaced the separate work permit and work visa on 1 January 2025 [W0027, W0052]. The first Unified Permit lasts up to 60 days, and the stay is then extended with a resident card (резидент-карта), a plastic bank debit card with a QR code that lets a foreigner live and work for up to a year [V0048, V0161, W0079]. The employer applies for both online on the e-Visa portal (evisa.e-gov.kg), the same site that issues electronic visas [W0091, V0093]. The MFA (Ministry of Foreign Affairs) issues visas [V0012]. Since presidential decree No. 337 took effect on 29 September 2026, the Unified Permit, the resident card, residence permits and the registration of foreigners belong to the Ministry of Labour, Social Security and Migration (Минсоцтруда), through its new Department for Migration Affairs; before that the MFA issued the Unified Permit and the resident card [K0013, K0014, K0015, K0017, K0019, K0020, K0022, W0135]. The same Ministry decides asylum claims, and its labour inspection service is being given migration control over foreign workers [U0124, K0023].
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh); KGS is the Kyrgyz som, converted throughout at KGS 1 = about Tk 1.42, from the National Bank of the Kyrgyz Republic's rate of USD 1 = KGS 87.45 and Bangladesh Bank's rate of USD 1 = Tk 124.42 on 10 November 2026; US dollars are converted at that Tk 124.42 [G0001, G0002, G0003]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers jobseekers on its OEP (Overseas Employment Platform) website and gives each worker emigration clearance before departure; the Ministry of Expatriates' Welfare and Overseas Employment tells workers never to go without that clearance [B0003, B0011, B0006]. Bangladeshis need a visa to enter Kyrgyzstan [W0028, V0155]. To work there, a foreigner needs the Unified Permit (Единое разрешение, also called the Single Permit), an electronic document with a QR code that combines the work visa, the employer's permit to hire foreign labour and the work permit; it replaced the separate work permit and work visa on 1 January 2025 [W0027, W0052]. The first Unified Permit lasts up to 60 days, and the stay is then extended with a resident card (резидент-карта), a plastic bank debit card with a QR code that lets a foreigner live and work for up to a year [V0048, V0161, W0079]. The employer applies for the Unified Permit online on the e-Visa portal (evisa.e-gov.kg), the same site that issues electronic visas, and the employer or the worker applies for the resident card [W0091, B0151, V0093, V0062]. The MFA (Ministry of Foreign Affairs) issues visas [V0012]. Since presidential decree No. 337 took effect on 29 September 2026, the Unified Permit, the resident card, residence permits and the registration of foreigners belong to the Ministry of Labour, Social Security and Migration (Минсоцтруда), through its new Department for Migration Affairs; before that the MFA issued the Unified Permit and the resident card [K0013, K0014, K0015, K0017, K0019, K0020, K0022, W0135]. The same Ministry decides asylum claims, and its labour inspection service is being given migration control over foreign workers [U0124, K0023].
 
 ## Background
 
 ### In one minute
 
-Kyrgyzstan took Bangladeshi workers in numbers only from 2023 to 2025: BMET cleared 1,713 in 2023, 12,747 in 2024 and 6,652 in 2025, almost all men and mostly for garment workshops, then clearances fell to 57 in August 2025 and to 11 in all of 2026 to 9 November [B0074, B0076, B0078, B0091, B0080, B0103, B0107]. Kyrgyzstan still issued 3,872 work permits to Bangladeshis in 2026 to 1 October, far more than BMET cleared [N0035, B0080]. The job is a named place on a Kyrgyz employer's Unified Permit application inside a yearly quota that rose to 100,000 in 2026; the worker can't apply himself, so the place reaches the village through Bishkek recruiting firms and their partners in Bangladesh, Bangladeshi agencies and compatriots already in Kyrgyzstan [W0049, W0053, N0051, N0069, N0076]. People have paid Tk 3 to 7 lakh, or USD 5,000 (about Tk 6.2 lakh) for a visa alone, while Kyrgyz law caps a recruiting agency's fee at half of one month's wage [N0124, N0118, N0101, N0145, G0002]. Many found no job or no work permit on arrival, pay far below the promise, or their passport taken [N0070, N0071, N0073, U0045]. The permit names one employer, can't be moved to another and lapses when the job ends, leaving 30 days to leave; after that a worker is fined and can be expelled and banned from returning [L0108, L0107, L0109, L0074, L0080, L0094]. Raids by the security services write hundreds of reports against foreigners at a time, and on 10 September 2025 the Kyrgyz government flew 180 stranded Bangladeshis home [U0077, U0081, U0001, U0004]. Brokers also sell Kyrgyzstan as a door to Europe; people who bought that ended in jail in Kyrgyzstan or Kazakhstan, or came home on a ticket their family borrowed for [U0011, U0012, U0057, U0039].
+Kyrgyzstan took Bangladeshi workers in numbers only from 2023 to 2025: BMET cleared 1,713 in 2023, 12,747 in 2024 and 6,652 in 2025, almost all men, with garment work the commonest named job, then clearances fell to 57 in August 2025 and to 11 in all of 2026 to 9 November [B0074, B0076, B0078, B0075, B0077, B0079, B0103, B0104, B0107, B0109, B0111, B0091, B0080]. Kyrgyzstan still issued 3,872 work permits to Bangladeshis in 2026 to 1 October, far more than BMET cleared [N0035, B0080]. The job is a named place on a Kyrgyz employer's Unified Permit application inside a yearly quota that rose to 100,000 in 2026; the employer, not the worker, applies [W0091], so the place reaches the village through Bishkek recruiting firms and their partners in Bangladesh, Bangladeshi agencies and compatriots already in Kyrgyzstan [W0049, W0053, N0051, N0069, N0128, N0076]. People have paid Tk 3 to 7 lakh, or USD 5,000 (about Tk 6.2 lakh) for a visa alone, while Kyrgyz law caps a recruiting agency's fee at half of one month's wage [N0124, N0118, N0101, N0145, G0002]. Many found no job or no work permit on arrival, pay far below the promise, or their passport taken [N0070, N0071, N0073, N0075, U0045]. The permit names one employer, can't be moved to another and lapses when the job ends, leaving 30 days to leave; after that a worker is fined and can be expelled and banned from returning [L0108, L0107, L0109, L0074, L0080, L0094]. Raids by the security services write hundreds of reports against foreigners at a time, and on 10 September 2025 the Kyrgyz government flew 180 stranded Bangladeshis home [U0077, U0081, U0001, U0004]. Brokers also sell Kyrgyzstan as a door to Europe; one man who bought that spent 44 days in a Central Asian prison and another came home on a ticket his family borrowed for, and Bangladeshis who crossed from Kyrgyzstan into Kazakhstan without a visa got six months in prison there [U0011, U0012, N0140, U0039, U0055, U0057].
 
 ### Is it open now, and who can go?
 
 Closed in practice for workers going through BMET, as of 10 November 2026: BMET cleared 11 workers for Kyrgyzstan from 1 January to 9 November 2026, and none in October [B0080, B0100]. Kyrgyzstan still issued Bangladeshis 3,872 work permits in 2026 to 1 October, but its Labour Ministry says their permits fell in 2026 while those of Chinese and Pakistani workers rose [N0035, N0038, N0036, N0037]. Bangladesh and Kyrgyzstan have no labour agreement; their governments only explored one in October 2026 [B0139].
+
+> **Need to know**
+> - Did Pakistan sign a labour-cooperation MoU with Kyrgyzstan in July 2025, as a Pakistani recruiting agency claims, and does it give Pakistani workers a government channel Bangladeshis lack?
 
 #### Status
 
@@ -24,7 +27,7 @@ Closed in practice for workers going through BMET, as of 10 November 2026: BMET 
 - **30 April 2026:** a Cabinet order raised the 2026 quota from 52,000 to 100,000; the countries named as asking most for quotas were China, India, Turkey and Pakistan, not Bangladesh [N0050, W0010, N0052].
 - **29 September 2026:** decree No. 337 moved the Unified Permit and the resident card from the MFA to the Ministry of Labour, Social Security and Migration, which is to outsource the service; the Cabinet had two months to bring its rules into line [K0013, K0014, K0015, K0016, K0021, K0022].
 - **1 October 2026:** Bangladeshis had received 3,872 Kyrgyz work permits in 2026, against 11,677 in 2025, while Chinese citizens had received 37,133 and Pakistanis 11,404 [N0035, N0036, N0037].
-- **14 October 2026:** in Bishkek, Bangladesh's Foreign Secretary, Asad Alam Siam, and Kyrgyzstan's First Deputy Minister of Labour, Social Security and Migration, Arlen Aliyasov, discussed jobs for Bangladeshi workers and explored signing an MoU (memorandum of understanding); none was signed [N0153, B0139]. The Kyrgyz side named construction, textiles, pharmaceuticals, digital services, agriculture and teaching as sectors that want more foreign workers [B0140].
+- **14 October 2026:** in Bishkek, Bangladesh's Foreign Secretary, Asad Alam Siam, and Kyrgyzstan's First Deputy Minister of Labour, Social Security and Migration, Arlen Aliyasov, discussed jobs for Bangladeshi workers and explored signing an MoU (memorandum of understanding); none was signed [N0153, B0139]. The Kyrgyz side named construction, textiles, pharmaceuticals, digital services, agriculture and teaching as sectors that want more foreign workers [B0140]. In late October 2026 Aliyasov said foreign specialists are needed for major infrastructure and investment projects and in industry, mining, metallurgy and garment manufacturing [N0041].
 - **4 November 2026:** Kyrgyzstan was not among the 12 countries for which the Ministry of Expatriates' Welfare told BMET to give no clearance without its approval [B0114, N0157].
 
 > **Need to know**
@@ -33,7 +36,7 @@ Closed in practice for workers going through BMET, as of 10 November 2026: BMET 
 
 #### The channels
 
-- **A Bangladeshi recruiting agency, with BMET clearance:** the route of the 2023-2025 workers, almost all men and mostly for garment jobs; the Kyrgyz employer files the Unified Permit and the worker gets BMET clearance (see Work visa: company worker) [B0075, B0077, B0079, B0103, B0107, W0049, B0011]. Shut in practice since August 2025 (see Status) [B0091, B0080].
+- **A Bangladeshi recruiting agency, with BMET clearance:** the route of the 2023-2025 workers, almost all men, with garment work the commonest named job; the Kyrgyz employer files the Unified Permit and the worker gets BMET clearance (see Work visa: company worker) [B0075, B0077, B0079, B0103, B0107, W0049, B0011]. Shut in practice since August 2025 (see Status) [B0091, B0080].
 - **A Kyrgyz recruiting firm and its partner in Bangladesh:** a Bishkek recruiter, Nurislam Kambarov, said in 2024 that he brings workers mainly from Bangladesh through a partner there who finds them [N0069].
 - **A Bangladeshi already in Kyrgyzstan:** workers there offer to invite friends, and the same recruiter says most deceived Bangladeshis were lured by compatriots (see The middlemen in Bishkek) [N0069, N0076].
 - **Not a work route:**
@@ -45,7 +48,7 @@ Closed in practice for workers going through BMET, as of 10 November 2026: BMET 
 
 #### Who qualifies
 
-Anyone a Kyrgyz employer names in its Unified Permit application; any company or individual in Kyrgyzstan may bring a foreign worker [W0049, W0100]. The workers are men: BMET cleared 55 women in 2023, 39 in 2024, 56 in 2025 and none in 2026 [B0075, B0077, B0079, B0081]. The named jobs are mostly garment work: garments workers, sewing equipment operators and sewing line checkers [B0103, B0104, B0107, B0109, B0111]. A Bishkek sewing-shop owner says the shops keep the workers who can sew and leave the rest without shelter or money [N0078].
+Anyone a Kyrgyz employer names in its Unified Permit application; any company or individual in Kyrgyzstan may bring a foreign worker [W0049, W0100]. Almost all the workers are men: BMET cleared 55 women in 2023, 39 in 2024, 56 in 2025 and none in 2026 [B0075, B0077, B0079, B0081]. The commonest named jobs are garment work: garments workers, sewing equipment operators and sewing line checkers [B0103, B0104, B0107, B0109, B0111]. A Bishkek sewing-shop owner says the shops keep the workers who can sew and leave the rest without shelter or money [N0078]. In April 2024 the GKNB (Kyrgyzstan's security service) said most of the 130-plus Pakistanis and Bangladeshis it found in Bishkek lodgings had come legally for jobs in catering, delivery, construction and sewing, but were not in demand because they lacked skills and the pay was low [U0040, U0041, U0042].
 
 > **Need to know**
 > - Does a Kyrgyz garment employer test a worker's sewing before inviting him (a video test, a trade test at a BMET centre, or a trial on arrival), and is there an age limit?
@@ -54,7 +57,7 @@ Anyone a Kyrgyz employer names in its Unified Permit application; any company or
 
 - **Workers cleared by BMET:** none in 2022, 1,713 in 2023 (17th destination), 12,747 in 2024 (8th), 6,652 in 2025 (10th) and 11 from 1 January to 9 November 2026 [B0073, B0074, N0010, B0076, N0011, B0078, N0012, B0080].
 - **Month by month:** 920 in November 2023; none in February and March 2024, then 5,236 in April (the highest month), 3,358 in May, 1,547 in June, 232 in July and 172 in September; 1,499 in May 2025 and 1,410 in July, then 57 in August and 1 in September; 13 in November 2025, 1 in December, and 5 each in January and February 2026 [B0082, B0083, B0084, B0085, B0086, B0087, N0019, B0088, B0089, B0090, B0091, B0092, B0094, B0095, B0096, B0097].
-- **Job titles on OEP:** in 2024, 9,384 of 12,747 were recorded only as "Worker", with 1,213 garments workers, 892 "Swing Line Checker" (sewing line checker) and 182 construction workers; in 2025, 2,356 "Worker", 874 sewing equipment operators, 649 "A Casual Worker", 646 garments workers, 555 general labour and 522 sewing line checkers; in 2026, 7 general labour, 3 casual workers and 1 worker [B0102, B0103, B0104, B0105, B0106, B0107, B0108, B0109, B0110, B0111, B0112].
+- **Job titles on OEP:** in 2023, 954 of 1,713 were recorded only as "Worker", with 185 garments workers and 122 tailors [B0113]; in 2024, 9,384 of 12,747 were recorded only as "Worker", with 1,213 garments workers, 892 "Swing Line Checker" (sewing line checker) and 182 construction workers; in 2025, 2,356 "Worker", 874 sewing equipment operators, 649 "A Casual Worker", 646 garments workers, 555 general labour and 522 sewing line checkers; in 2026, 7 general labour, 3 casual workers and 1 worker [B0102, B0103, B0104, B0105, B0106, B0107, B0108, B0109, B0110, B0111, B0112].
 - **Kyrgyz work permits for Bangladeshis:** 2,758 in 2024, 11,677 in 2025 and 3,872 in 2026 to 1 October [N0035]. By 30 April 2025 Bangladeshis held 2,573 of 12,232 first (60-day) permits, second only to Chinese citizens (2,844) [W0096, W0097]. In April 2024, 47% of applications for 16,814 quota places came from Bangladesh [N0066].
 - **Against other nationalities:** of 47,686 foreign workers with permits on 18 December 2025, 40% were Chinese, 24% Bangladeshi, 17% Pakistani, 5% Indian and 4% Uzbek [N0043, N0044]. In 2026 to 1 October, Chinese citizens received 37,133 permits and Pakistanis 11,404, up from 2,146 in 2024; Indians held 2,652 and Uzbeks 2,182 [N0036, N0037, N0039]. Kyrgyzstan issued over 60,000 work visas in the first half of 2026, about 60% of them to Chinese citizens [N0161, N0059].
 - **Without papers:** the GKNB (State Committee for National Security, Kyrgyzstan's security service) estimated about 5,000 undocumented migrants in May 2025, and the MFA gave the same figure in September 2026 [U0072, N0063].
@@ -65,7 +68,7 @@ Anyone a Kyrgyz employer names in its Unified Permit application; any company or
 #### What closed it before
 
 - **September 2021:** Kyrgyzstan blocked tourist visas for citizens of Bangladesh, Pakistan, India and Nepal, and the MFA replaced self-application with an invitation from a host organisation, which is made responsible for the visitor; a Bishkek tour operator said such "tourists" were passing through to work visas in the UAE or Saudi Arabia [N0150, N0170, N0152, N0151].
-- **April 2024:** the Ministry of Labour suspended quotas because of the rise in migrants, especially from Bangladesh, Pakistan and India, until everyone illegally present was found, deported or registered [N0064, N0065]. By 1 April 2024, 12,000 quotas had been issued for Bangladeshis but only 3,000 used, and a deputy labour minister said Bangladeshis broke the law most, so quotas for Bangladesh and Pakistan were stopped; about 4,000 issued quotas were cancelled [N0081, N0082, N0067]. The security chief, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported and officers were catching 20 to 50 irregular migrants a day, and mobs attacked South Asian students in Bishkek on 17-18 May 2024 [N0085, N0087, N0086]. BMET clearances fell from 5,236 in April to 232 in July and 172 in September [B0085, N0019, B0088].
+- **April 2024:** the Ministry of Labour suspended quotas because of the rise in migrants, especially from Bangladesh, Pakistan and India, until everyone illegally present was found, deported or registered [N0064, N0065]. In mid-April 2024, Kyrgyzstan's Deputy Foreign Minister, Avazbek Atakhanov, visited Bangladesh seeking skilled workers for its export production [N0079, B0141]. By 1 April 2024, 12,000 quotas had been issued for Bangladeshis but only 3,000 used, and a deputy labour minister said Bangladeshis broke the law most, so quotas for Bangladesh and Pakistan were stopped; about 4,000 issued quotas were cancelled [N0081, N0082, N0067]. The security chief, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported and officers were catching 20 to 50 irregular migrants a day, and mobs attacked South Asian students in Bishkek on 17-18 May 2024 [N0085, N0087, N0086]. BMET clearances fell from 5,236 in April to 232 in July and 172 in September [B0085, N0019, B0088].
 - **December 2024:** the Ministry said it was issuing quotas again little by little, and an MP, Chingiz Aidarbekov, asked the authorities to help garment shops hire Bangladeshis and Pakistanis [N0083, N0084].
 - **August 2025:** BMET clearances stopped (see Status) [B0091, B0080].
 
@@ -93,7 +96,7 @@ Nurislam Kambarov said in 2024 that 70-80% of the intermediaries who bring forei
 - **A visa with no job:** in July 2025 a Bangladeshi bought a Kyrgyz work visa from intermediaries for USD 5,000 (about Tk 6.2 lakh) and found no work [N0101, G0002].
 - **A fake agency:** in 2024 Jannat Trade International, an office in Naya Paltan, Dhaka, with only a tours and travel licence, advertised car-wash jobs at Tk 60,000-65,000 a month on YouTube, filmed people receiving "visas", and took Tk 5 lakh for a visa, papers and a ticket; the CID (Criminal Investigation Department of the Bangladesh police) arrested its owner, Ibrahim Mollik Nahid, and two associates (see Done to workers) [N0112, B0143, N0114, N0113, N0120, N0166].
 - **Social media:** in 2025 Facebook pages, WhatsApp groups and YouTube channels advertised Central Asian jobs using real employers' names without their knowledge, and those who went found no jobs, contracts or sponsors [N0110, N0111].
-- **Licensed agencies:** 2022 documents show that Makkah Madina Trade Int (RL 810) and Al-Jabeen Establishment Ltd (RL 884) sent as garment workers the men who said their agency sold them to a factory owner for USD 8,300 (about Tk 10.3 lakh) [N0128, N0125, G0002]. Al-Jabeen's managing director, Mohammed Hanif, said the returnees could not do the work, and the broker the workers named, Syed Mahamosul Hasan, denied their claims [N0130, N0173].
+- **Licensed agencies:** Documents reported in 2022 show that Makkah Madina Trade Int (RL 810) and Al-Jabeen Establishment Ltd (RL 884) sent as garment workers the men who said their agency sold them to a factory owner for USD 8,300 (about Tk 10.3 lakh) [N0128, N0125, G0002]. Al-Jabeen's managing director, Mohammed Hanif, said the returnees could not do the work, and the broker the workers named, Syed Mahamosul Hasan, denied their claims [N0130, N0173]. All 14 men sent through Al-Jabeen worked for the same Kyrgyz company, LLC AL. 1-AG/AM and Co [N0172].
 - **Visas that are never used:** a Bishkek agency head said in 2024 that he opened visas for about 250 Bangladeshis in four months but brought only 50, because leaving Bangladesh with the required training and papers is hard [N0139].
 
 > **Need to know**
@@ -102,12 +105,12 @@ Nurislam Kambarov said in 2024 that 70-80% of the intermediaries who bring forei
 
 ### What you pay, and what you earn and keep
 
-The legal costs are small for the worker: the employer pays the Unified Permit fees, and the worker pays BMET's fees [W0054, W0018, B0019, B0010, B0153]. People have paid Tk 3 to 7 lakh, or USD 5,000 (about Tk 6.2 lakh) for a visa alone, for jobs advertised at Tk 55,000 to 65,000 a month that often paid far less [N0124, N0118, N0101, G0002, N0122, N0112, N0123].
+The legal costs are small for the worker: the employer pays the Unified Permit fees, and the worker pays BMET's fees [W0091, W0054, W0055, B0019, B0010, B0153]. People have paid Tk 3 to 7 lakh, or USD 5,000 (about Tk 6.2 lakh) for a visa alone, for jobs advertised at Tk 55,000 to 65,000 a month that often paid far less [N0124, N0118, N0101, G0002, N0122, N0112, N0123].
 
 #### The cap
 
 - **Recruiting agency in Kyrgyzstan:** a one-time fee of at most half of the worker's monthly wage [N0145].
-- **Unified Permit:** under the 2025 rules (Resolution No. 367), 30,000 som plus USD 300 per worker (about Tk 80,000), paid by the employer in two stages [W0062, W0063, G0002, G0003]. Garment companies in the Chamber of Commerce and Industry paid the same amounts as a special rate (USD 75 plus 20,000 som and a 5,000 som deposit for the permit, USD 225 plus 5,000 som for the resident card) until that rate lapsed on 1 November 2026; the current general rate is in Work visa: company worker, Step 3 [K0001, K0002, K0003, K0004, K0006, K0007, K0008]. Whoever invites a foreigner must arrange his stay documents [W0018].
+- **Unified Permit:** under the 2025 rules (Resolution No. 367), 30,000 som plus USD 300 per worker (about Tk 80,000), paid by the employer in two stages [W0062, W0063, W0091, W0054, G0002, G0003]. Garment companies in the Chamber of Commerce and Industry paid the same amounts as a special rate (USD 75 plus 20,000 som and a 5,000 som deposit for the permit, USD 225 plus 5,000 som for the resident card) until that rate lapsed on 1 November 2026 (see Work visa: company worker, Step 3) [K0001, K0002, K0003, K0004, K0006, K0007, K0008]. Whoever invites a foreigner must arrange his stay documents [W0018].
 - **BMET's fees:** a Tk 5,500 welfare fee, Tk 1,000 insurance and a Tk 250 clearance fee (Work visa: company worker, Step 6) [B0019, B0010, B0153].
 
 > **Need to know**
@@ -170,7 +173,7 @@ Bangladesh Bank publishes no separate figure for remittances from Kyrgyzstan; it
 
 #### How long the debt takes
 
-A Tk 5 lakh deal equals 10 to 12 months of the Tk 40,000 to 50,000 a month that one worker who stayed reported earning, before food and rent [N0113, N0131].
+A Tk 5 lakh deal equals 10 to 12.5 months of the Tk 40,000 to 50,000 a month that one worker who stayed reported earning [N0113, N0131].
 
 > **Need to know**
 > - How many months does a garment worker in Bishkek who paid Tk 4 to 5 lakh take to clear the debt in 2026, after food and rent?
@@ -180,7 +183,7 @@ A Tk 5 lakh deal equals 10 to 12 months of the Tk 40,000 to 50,000 a month that 
 Fully: the Unified Permit names one employer, position and period, can't be passed to another employer, and lapses when the job ends [W0141, L0108, L0107].
 
 - **To enter:** only the employer can apply, by a statement letter naming you, your passport number, the purpose and the period (Work visa: company worker, Step 3) [W0049, W0091].
-- **To renew:** the employer applies for the resident card before the 60-day permit ends and renews it each year (see Your residence permit) [V0048, W0004, W0079]. If the employer pays no tax for 3 months, the permit is cancelled, and the resident card too if tax and social contributions go unpaid for 3 months [L0120, L0121].
+- **To renew:** the employer or you apply for the resident card before the 60-day permit ends, and the employer that applied renews it; each card lasts up to a year (see Your residence permit) [V0048, W0004, V0062, W0079]. If the employer pays no tax for 3 months, the permit is cancelled, and the resident card too if tax and social contributions go unpaid for 3 months [L0120, L0121].
 - **To quit:** give one month's written notice; leaving a fixed-term contract early without a valid reason can cost up to one month's average pay, and the permit lapses with the job [L0013, L0016, L0107].
 - **To change employer:** a new employer must get you a new work visa and permit (see Changing employer) [L0108, N0148]. If you leave without notice and the employer tells the police, no other employer may hire you, nor may the same one again [L0114, L0115]. Legprom says workers drawn by USD 500-600 job ads leave at night, are reported by their employers and become illegal [N0092].
 - **To leave:** you have 30 days after the job ends; the employer must pay for your departure and see that you leave, or go on the Register of Bad-Faith Employers (see Leaving at the end of the job) [L0109, L0111, W0005, L0113].
@@ -190,7 +193,7 @@ Fully: the Unified Permit names one employer, position and period, can't be pass
 
 ### What goes wrong most, and what people wrongly believe
 
-The commonest outcomes reported are no job or no permit on arrival, pay far below the promise and passports taken, then months without papers ending in jail or deportation [N0070, N0071, N0073, N0075, U0045, N0108]. All 27 male forced-labour victims Kyrgyzstan identified in 2025 were from Pakistan and Bangladesh, and the government did not report referring any victim to protection services [N0143, N0149]. On 10 September 2025, 180 Bangladeshis lured with garment and construction jobs came home on a special flight from Bishkek; BRAC said many had been unpaid, jobless, undocumented or tortured, and some families paid ransom [N0103, N0106, N0104].
+The commonest outcomes reported are no job or no permit on arrival, pay far below the promise and passports taken, then months without papers ending in jail or deportation [N0070, N0071, N0073, N0075, U0045, N0108, N0085]. All 27 male forced-labour victims Kyrgyzstan identified in 2025 were from Pakistan and Bangladesh, and the government did not report referring any victim to protection services [N0143, N0149]. The US State Department's Trafficking in Persons report kept Kyrgyzstan on its Tier 2 Watch List in 2025, for the second year running, and its 2026 report names Pakistanis and Bangladeshis in construction and garment workshops as vulnerable to trafficking [U0119, N0144]. On 10 September 2025, 180 Bangladeshis lured with garment and construction jobs came home on a special flight from Bishkek; BRAC said many had been unpaid, jobless, undocumented or tortured, and some families paid ransom [N0103, N0106, N0104].
 
 #### What people believe, and the facts
 
@@ -204,7 +207,7 @@ The commonest outcomes reported are no job or no permit on arrival, pay far belo
 
 #### Irregular routes, and where an irregular stay ends
 
-- **To Europe via Dubai and Bishkek: it ends in a Kyrgyz cell or a borrowed ticket home.** The CID says the syndicates send people to Dubai on visit visas and then on to Kyrgyzstan [U0035]. The 2023 and 2025 cases above ended in 44 days in prison and in a ticket home on Air Arabia from Manas airport, Bishkek, through Sharjah, which the family borrowed to pay for [U0012, U0038, U0039]. The pitch is old: in 2004, 32 Bangladeshis were arrested in Bishkek waiting for forged papers to travel on through Kazakhstan and Russia to Europe [U0059].
+- **To Europe via Dubai and Bishkek: it ends in a Central Asian prison or a borrowed ticket home.** The CID said a trafficking syndicate it arrested sent people to Dubai on visit visas and then on to Kyrgyzstan [U0035]. A Shariatpur man promised Italy in 2025 spent 44 days in prison, and a Fenchuganj man promised Poland flew home in 2023 from Manas airport, Bishkek, on Air Arabia through Sharjah, on a ticket his family borrowed to pay for [U0011, U0012, N0140, U0038, U0039]. The pitch is old: in 2004, 32 Bangladeshis were arrested in Bishkek and Chui region waiting for forged papers to travel on through Kazakhstan and Russia to Europe [U0059].
 - **Across the border to Kazakhstan: it ends in a Kazakh prison.** Bangladeshis who crossed from Kyrgyzstan away from the checkpoints in June 2024 were caught in Kostanay region, on the Russian border, and each got six months in prison and expulsion with a five-year ban [U0055, U0056, U0057]. Kyrgyz law punishes illegal border crossing with up to 2 years in prison [L0135].
 - **In from Uzbekistan: it ends at the Kyrgyz border.** In June 2024 border guards in Jalal-Abad caught 11 Bangladeshis who had found no work in Uzbekistan and tried to cross away from the checkpoints, with the Kyrgyz citizen who organised it [U0051, U0052].
 - **Staying on after the visa or permit ends: it ends in a raid, a fine and expulsion.** The GKNB and the MVD (Ministry of Internal Affairs) raid building sites and sewing workshops in Operation "Nelegal" ("Illegal"); on 1-10 October 2026 they wrote 1,487 reports and fines of 13,407,000 som [U0069, U0077, U0081, U0082]. Those caught are taken to a filtration centre and handed to the MVD's service against illegal migration, and expulsion goes ahead even if the fine is unpaid (see Irregular routes and undocumented workers) [U0070, L0084]. The Kyrgyz government flew 180 such Bangladeshis home on 10 September 2025 (see Going home without valid papers) [U0001, U0004].
@@ -212,7 +215,7 @@ The commonest outcomes reported are no job or no permit on arrival, pay far belo
 ## Visas not open to Bangladeshis
 
 - **Visa-free entry:** Bangladesh is not on Kyrgyzstan's visa-free list; it is on the list of countries whose citizens get short-term visas in a simplified way [V0155, W0028].
-- **A tourist visa on your own application from Bangladesh:** the simplified tourist visa is only for Bangladeshis holding a valid resident card of the UAE, Saudi Arabia, Kuwait, Qatar, Brunei, Oman or Bahrain, and since 2021 the MFA has required an invitation from a host organisation instead of self-application for others (see Visit visa) [V0002, V0094, V0095].
+- **A tourist visa on your own application from Bangladesh:** the simplified tourist visa is only for Bangladeshis holding a valid resident card of the UAE, Saudi Arabia, Kuwait, Qatar, Brunei, Oman or Bahrain, and in September 2021 the MFA suspended self-applied tourist visas for Bangladeshis and others and required an invitation from a host organisation instead (see Visit visa) [V0002, V0094, V0095].
 - **7-day visa-free stay with a long-term US, UK or Schengen visa:** Chinese and Indian citizens only [V0005].
 - **Investment visa:** needs a contribution of at least 10 million som (about Tk 1.42 crore) to the Kyrgyz economy [V0040, G0003].
 - **Sapar visa (type J):** issued only on a reasoned request from a Kyrgyz state or local government body [V0039].
@@ -225,7 +228,7 @@ The commonest outcomes reported are no job or no permit on arrival, pay far belo
 
 ## Work visa: company worker
 
-A Kyrgyz employer applies online for a Unified Permit (Единое разрешение, Yedinoye razresheniye), one electronic document that combines the work visa, the permit to employ foreign labour and the work permit; you enter on it for up to 60 days, and the employer then turns it into a resident card (резидент-карта), a plastic card that lets you live and work for up to a year [W0027, V0048, W0079]. These rules sit in a Temporary Regulation approved by Cabinet Resolution No. 312 and valid only until 31 December 2026, and presidential decree No. 337 of 28 September 2026 moved the Unified Permit and resident card from the MFA (Ministry of Foreign Affairs) to a new Department for Migration Affairs in the Ministry of Labour, Social Security and Migration, which is to hand the service to an outside contractor [W0001, W0003, L0106, K0013, K0014, K0015, K0020, K0016]. The Cabinet was given two months to bring its rules into line [K0021]. BMET (the Bureau of Manpower, Employment and Training) cleared 11 workers for Kyrgyzstan from 1 January to 9 November 2026 (see Status) [B0080].
+A Kyrgyz employer applies online for a Unified Permit (Единое разрешение, Yedinoye razresheniye), one electronic document that combines the work visa, the permit to employ foreign labour and the work permit; you enter on it for up to 60 days, and the employer then applies for a resident card (резидент-карта), a plastic card that lets you stay for up to a year and carries your work and pay details [W0027, V0048, V0062, W0081, W0079]. These rules sit in a Temporary Regulation approved by Cabinet Resolution No. 312 and valid only until 31 December 2026, and presidential decree No. 337 of 28 September 2026 moved the Unified Permit and resident card from the MFA (Ministry of Foreign Affairs) to a new Department for Migration Affairs in the Ministry of Labour, Social Security and Migration, which is to hand the service to an outside contractor [W0001, W0003, L0106, K0013, K0014, K0015, K0020, K0016]. The Cabinet was given two months to bring its rules into line [K0021]. BMET (the Bureau of Manpower, Employment and Training) cleared 11 workers for Kyrgyzstan from 1 January to 9 November 2026 (see Status) [B0080].
 
 > **Need to know**
 > - Since October 2026, does the employer still apply for a Unified Permit on the e-Visa portal (evisa.e-gov.kg), or through a new Ministry of Labour portal or contractor, and who is the contractor?
@@ -249,7 +252,7 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
 
    **If it fails:** call the Probashi call centre, 16135 (free), or +8809610102030 from abroad [B0023].
 
-2. **Know which jobs exist.** The Kyrgyz Ministry of Labour names construction and light industry as the sectors most in need of foreign workers, and says Bangladeshis usually work in garments [W0013, N0057]. Beyond the plain "Worker" title, the jobs BMET cleared for Kyrgyzstan were mostly garment jobs: garments worker, sewing equipment operator and swing line checker (sewing line checker) [B0102, B0103, B0104, B0107, B0109, B0111]. Garment shops keep the workers who can sew and leave the rest without shelter or money, a Bishkek shop owner said in 2024 [N0078]. Nearly half of all foreign workers (46%) are in Jalal-Abad region in the south, not in Bishkek [W0104]. BMET's TTCs (Technical Training Centres) are listed with contacts on its website [B0005].
+2. **Know which jobs exist.** The Kyrgyz Ministry of Labour names construction and light industry as the sectors most in need of foreign workers, and says Bangladeshis usually work in garments [W0013, N0057]. Beyond the plain "Worker" title, the jobs BMET cleared for Kyrgyzstan were mostly garment jobs: garments worker, sewing equipment operator and swing line checker (sewing line checker) [B0102, B0103, B0104, B0107, B0109, B0111]. Garment shops keep the workers who can sew and leave the rest without shelter or money, a Bishkek shop owner said in 2024 [N0078]. Nearly half of all foreign workers (46%) are in Jalal-Abad region, not in Bishkek [W0104]. BMET's TTCs (Technical Training Centres) are listed on its website [B0005].
 
    > **Need to know**
    > - Do Kyrgyz garment employers test sewing skill before hiring Bangladeshis, and where (in Dhaka, by video, or on arrival)?
@@ -261,7 +264,7 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
    2. Go to the address on that list, not a middleman's office [B0154].
    3. Ask whether the job order has BMET's permission or the Ministry's approval. Industry insiders said in November 2026 that demand letters for up to seven workers had needed no Ministry approval, and that this was used to send workers on fake job offers [B0117].
 
-   A licence and a BMET smart card are no guarantee: in 2022, garment workers sent with valid visas, work permits and BMET smart cards by Makkah Madina Trade International (RL 810) and Al-Jabeen Establishment Ltd (RL 884) said they had been sold to a Bishkek factory owner for USD 8,300 (about Tk 10.3 lakh) [N0126, N0128, N0125, G0002]. Al-Jabeen's managing director said the returnees could not do the work [N0130].
+   A licence and a BMET smart card are no guarantee: in 2022, garment workers sent with valid visas, work permits and BMET smart cards by Makkah Madina Trade International (RL 810) and Al-Jabeen Establishment Ltd (RL 884) said they had been sold to a garment factory owner in Kyrgyzstan for USD 8,300 (about Tk 10.3 lakh) [N0126, N0128, N0125, G0002]. Al-Jabeen's managing director said the returnees could not do the work [N0130].
 
    > **Need to know**
    > - Which licensed agencies sent workers to Kyrgyzstan in 2024-2025, and for which Kyrgyz employers?
@@ -313,7 +316,7 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
    1. BMET's Additional Director General (Employment): 02-48321949, 01720105492, adgemp@bmet.gov.bd [B0014].
    2. The Ministry of Expatriates' Welfare's grievance officer: 02-41030224, 01712992086, adsadmin@probashi.gov.bd (30 working days) [B0055].
    3. The Probashi call centre, 16135 [B0023].
-   4. For an unlicensed office, the police: in the Jannat Trade International case a victim filed a case under the human trafficking law at Paltan police station, and the CID (Criminal Investigation Department) arrested the owner (see Done to workers) [N0119, B0156].
+   4. For an unlicensed office, the police: Jannat Trade International had no legal papers to send workers abroad, a victim filed a case under the human trafficking law at Paltan police station, and the CID (Criminal Investigation Department) arrested the owner (see Done to workers) [N0117, N0119, B0156].
 
 ### Step 2: The job offer and contract
 
@@ -348,7 +351,7 @@ A company worker's Unified Permit is applied for by the employer, for a worker i
 
 ### Step 3: The employer gets your work permit
 
-You do nothing at this step except send documents; the employer files everything on the e-Visa portal, evisa.e-gov.kg, and pays [W0064, W0066, W0054, W0055]. There is no longer a commission that shares out quota places: since 1 January 2025 the employer applies directly for a named worker, and one application gives one Unified Permit [W0052, W0053]. The MFA's Consular Department issued the permit under Resolution No. 312 until decree No. 337 of 28 September 2026 moved this to the Ministry of Labour [W0001, W0135, K0013, K0014].
+You do nothing at this step except send documents; the employer files everything on the e-Visa portal, evisa.e-gov.kg, and pays [W0064, W0066, W0054, W0055]. There is no longer a commission that shares out quota places: since 1 January 2025 the employer applies directly for a named worker [W0052, W0053]. The MFA's Consular Department issued the permit under Resolution No. 312 until decree No. 337 of 28 September 2026 moved this to the Ministry of Labour [W0001, W0135, K0013, K0014].
 
 **The quota.** Each year the Cabinet of Ministers sets the maximum number of foreign workers, and Unified Permits are issued only within it [W0015, W0095]. The 2026 limit was set at 52,000 and raised to 100,000 by an order of 30 April 2026 [W0011, W0010]. Since 2025 the quota no longer lists types of work [W0012]. When Kyrgyzstan stopped quotas for Bangladeshis before is in Background (see What closed it before).
 
@@ -380,7 +383,7 @@ You do nothing at this step except send documents; the employer files everything
 
 3. **The permit is decided.** Under the 2025 rules a decision took 7 to 10 working days, and the 2026 garment rate set up to 7 working days [W0087, K0002]. Since 2026 the permit can be issued urgently for an extra fee [W0007]. If the portal returns the application for corrections, the 5-working-day review starts again once they are made [W0042]. The approved permit, with its QR code, appears in the employer's account [W0067].
 
-   **If it is refused:** the reasons are not explained, and the refusal can be challenged in court [L0122]. A permit is refused or annulled for false information, a crime, a dangerous disease, a security threat or terrorist links [W0093].
+   **If it is refused:** the reasons are not explained, and the refusal can be challenged in court [L0122]. A permit is annulled for false information, a crime, a dangerous disease, a security threat or terrorist links [W0093].
 
 **What you get back:** a copy of the Unified Permit with its QR code, and the 8-character reference number of the application (Step 5) [W0067, W0044].
 
@@ -425,7 +428,7 @@ You do nothing at this step except send documents; the employer files everything
 
 There is no visa sticker to collect: the Unified Permit is itself the electronic work visa [W0027, W0052]. The portal tells applicants not to buy an air ticket before approval [W0039].
 
-1. **Get a copy of the Unified Permit and its reference number from the employer or agency.** The reference number is an 8-character code of letters and digits [W0044]. Print the permit with its QR code and carry it with your passport [W0027].
+1. **Get a copy of the Unified Permit and its reference number from the employer or agency.** The reference number is an 8-character code of letters and digits [W0044]. The permit is an electronic document with a readable QR code [W0027].
 
    > **Need to know**
    > - Do Manas airport (Bishkek) border guards ask Bangladeshis for a printed Unified Permit, or check it online?
@@ -445,11 +448,14 @@ There is no visa sticker to collect: the Unified Permit is itself the electronic
 
 **If any check fails:** don't travel; complain as in Step 1, item 9 [W0039, B0018].
 
-**Scams:** the GKNB (State Committee for National Security, Kyrgyzstan's security service) tells foreigners and employers to apply for permits only through the MFA's portal [N0099]. The old ework.e-gov.kg portal closed for quota and permit applications on 25 December 2024, so a quota letter from it is out of date [W0138]. In 2024 Jannat Trade International handed out e-visa copies of which Dhaka airport immigration found no online record (see Done to workers) [N0116].
+**Scams:** the GKNB (State Committee for National Security, Kyrgyzstan's security service) tells foreigners and employers to apply for permits only through the MFA's portal [N0099]. The old ework.e-gov.kg portal closed for quota and permit applications on 25 December 2024, so a quota letter from it is out of date [W0138]. In 2024 Jannat Trade International handed out visas of which Dhaka airport immigration found no online record (see Done to workers) [N0112, N0114, N0116].
 
 ### Step 6: Orientation, BMET clearance and the flight
 
 1. **Do the compulsory 3-day pre-departure orientation (PDO)** at one of BMET's 70 training institutes; the institute sets the fee, paid against a money receipt, and Feni TTC says its fee is Tk 200 and to pay no more [B0015, B0072]. Download your certificate at [training.oep.gov.bd/pdo-certificate](https://training.oep.gov.bd/pdo-certificate) with your passport or NID number and the captcha [B0020].
+
+> **Need to know**
+> - Do Kyrgyz employers expect Bangladeshi workers to speak some Russian, and does any BMET centre teach it before departure?
 
 2. **Get BMET clearance (the smart card).**
 
@@ -479,9 +485,12 @@ There is no visa sticker to collect: the Unified Permit is itself the electronic
 
 ### Step 7: After arrival
 
-The first Unified Permit lasts up to 60 days; get registered at your address as soon as you arrive, and before the permit ends the employer applies for your resident card [W0004, K0029, V0048].
+The first Unified Permit lasts up to 60 days; get registered at your address as soon as you arrive, and before the permit ends you or the employer that invited you applies for a resident card to extend your stay [W0004, K0029, V0048, V0062].
 
-1. **Get registered at your address at once.** Bangladesh is not on the list of 92 countries whose citizens get a registration-free period, and the e-Visa portal says to register within 5 working days of entry [K0029, W0034]. Whoever invites you must arrange your registration, and an employer that gives you company housing must register you [W0018, K0036]. You need not go to the office yourself unless the system has no record of your border crossing; registration is made on the passport you entered with [K0037, K0032]. The rules are in Cabinet Resolution No. 600 of 4 September 2026, and decree No. 337 moved registration from Kyzmat, the state service agency, to the Ministry of Labour [K0026, K0019].
+> **Need to know**
+> - Is there a Bangladeshi community association in Bishkek that helps new arrivals and stranded workers, and who runs it?
+
+1. **Get registered at your address at once.** Bangladesh is not on the list of 92 countries whose citizens get a registration-free period, and you must register within 5 working days of entry [K0029, W0034]. Whoever invites you must arrange your registration, and an employer that gives you company housing must register you [W0018, K0036]. You need not go to the office yourself unless the system has no record of your border crossing; registration is made on the passport you entered with [K0037, K0032]. The rules are in Cabinet Resolution No. 600 of 4 September 2026, and decree No. 337 moved registration from Kyzmat, the state service agency, to the Ministry of Labour [K0026, K0019].
 
    You'll need [K0038, K0039]:
 
@@ -496,7 +505,7 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
    2. The host pays the state duty and fee within 3 working days of getting the payment code, or the application is deleted; a fee is not refunded if registration is refused [K0035, K0046].
    3. An office registers you in 1 working day; an online application takes 3 working days, or 1 if urgent [K0031, K0049]. You get a registration slip, on paper or electronic, with a QR code that shows the registration [K0050].
 
-   Registration lasts as long as your Unified Permit or resident card [K0041]. At most one foreigner per 12 square metres of living space can be registered at a house or flat, close relatives excepted [K0034]. Workers who move from site to site or work in the mountains can be registered at the company's legal address [K0042]. After a change of address, passport, purpose or term of stay, re-register within 10 working days; if you are out of Kyrgyzstan for 30 days or more, the registration ends and must be done again [K0043, K0044].
+   Registration lasts as long as your Unified Permit or resident card [K0041]. At most one foreigner per 12 square metres of living space can be registered at a house or flat, close relatives excepted [K0034]. Workers who move from site to site or work in the mountains can be registered at the company's legal address [K0042]. After a change of address, passport, purpose or term of stay, re-register within 10 working days; if you are out of Kyrgyzstan for 30 days or more, the registration ends and must be done again [K0043, K0044]. If you register late, the office registers you only once the police have recorded the penalty for it [K0045]. Without a valid visa, or after more than 6 months with neither registration nor visa, you can't be registered at all [K0047, K0048].
 
    > **Need to know**
    > - How many days after entry must a Bangladeshi be registered: the e-Visa portal's 5 working days, or another period under Resolution No. 600?
@@ -508,7 +517,7 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
    > **Need to know**
    > - Where in Bishkek and Jalal-Abad do Bangladeshi workers get the HIV test, form 086/U and the insurance policy, what does each cost, and who pays?
 
-3. **Before the 60 days end, the employer applies for your resident card.** The employer that invited you files the application and pays online, and you need not appear in person [V0062, W0077]. You must give electronic consent to open a special bank account [V0063]. A decision comes within 10 working days of a complete file [V0064]. The QR code on the card shows how long you may stay; check its end date [W0078]. Renewing it, and what happens if it is refused, are in Your residence permit [W0079].
+3. **Before the 60 days end, apply for your resident card.** The employer that invited you, or you yourself, files the application and pays online, and you need not appear in person [V0062, W0077]. You must give electronic consent to open a special bank account [V0063]. A decision comes within 10 working days of a complete file [V0064]. The QR code on the card shows how long you may stay; check its end date [W0078]. Renewing it, and what happens if it is refused, are in Your residence permit [W0079].
 
 4. **Use the resident card as your bank card.** The resident card is a plastic debit card issued by the bank that serves the e-Visa portal, and the employer must pay your wages onto it [V0161, W0075]. Issue and service fees follow that bank's tariffs (sending money home: see Sending money home) [V0162].
 
@@ -519,6 +528,9 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
 
 6. **Buy a SIM card with your passport.** Register the number to your passport in the operator's app, or, if you can't or have a button phone, at the operator's sales office with your passport [W0145, W0147]. Until it is registered the SIM only calls the operator and gives enough internet to download its app [W0146].
 
+> **Need to know**
+> - Which mobile operator do Bangladeshi workers in Kyrgyzstan use, and what do a SIM and a monthly package cost?
+
 7. **Keep your papers valid and on you.** Working without the required permit leads to expulsion (see What can get you jailed or deported) [W0016]. Raids on 1-10 June 2026 at building sites and sewing workshops produced 922 offence reports against foreigners [W0106, W0107].
 
 ### Scams
@@ -528,7 +540,7 @@ The first Unified Permit lasts up to 60 days; get registered at your address as 
 - **The visa with no job.** A Bangladeshi who came in July 2025 on a work visa bought from intermediaries for USD 5,000 (about Tk 6.2 lakh) found no work and had no money for a ticket home [N0101, N0165, G0002]. In 2025, Facebook pages, WhatsApp groups and YouTube channels drew recruits with Central Asian jobs, naming employers who did not know their names were used; arrivals found no jobs, contracts or sponsors [N0110, N0111]. Check the permit yourself (Step 5) [W0043].
 - **The unlicensed office with tourist visas.** In 2024 Jannat Trade International, an office in Naya Paltan, Dhaka, with only a tours and travel licence, advertised car-wash jobs in Kyrgyzstan on YouTube at Tk 60,000-65,000 a month and took Tk 5 lakh for a visa, ticket and BMET card [N0112, B0143, B0152]. It filmed people receiving visas at its office for its YouTube channel [N0114]. At Dhaka airport the papers proved fake, and the six people it did send went on 59-day tourist visas and got no jobs [B0142, B0144, U0033]. The CID's counter-trafficking unit arrested the owner, Ibrahim Mollik Nahid, and two associates [N0120, B0156].
 - **The visa that ends on arrival.** A Lalmonirhat welder who reached Bishkek on 3 June 2024 found his visa expired the next day; he worked seven months unpaid and served three months in jail [U0009, U0010].
-- **Sold to an employer.** In 2022 workers with valid visas, work permits and BMET cards said their agencies sold them to a garment factory owner, who would let them leave only if they paid him back (Step 1, item 3) [N0125, N0127]. One was paid Tk 10,000 in his first month, of which the employer kept Tk 7,000, saying he had paid the broker [N0129].
+- **Sold to an employer.** In 2022 a worker with a valid visa, work permit and BMET card said the recruiting agency had sold his group to a garment factory owner, who would let them leave only if they paid him back (Step 1, item 3) [N0125, N0127]. One was paid Tk 10,000 in his first month, of which the employer kept Tk 7,000, saying he had paid the broker [N0129].
 - **A different job, and the passport taken.** A 2022 group sent to sew was made to work on a building site and tend livestock, and the shop owner took their passports "for registration" and kept them [N0164, N0132]. In June 2024 a sewing-shop owner near Bishkek and a district police officer took workers' passports, withheld wages and threatened them with prison for illegal stay; both were detained [U0049, U0050].
 - **"Legalisation" in Bishkek.** In 2025 the GKNB arrested a Bangladeshi who took USD 66,500 (about Tk 82.7 lakh) from fellow Bangladeshis for papers to stay legally and gave them forged permits; more than 120 passports with expired documents were seized [U0063, U0064, G0002].
 - **"Europe through Kyrgyzstan."** See What people believe, and the facts [N0105, N0140].
@@ -540,14 +552,14 @@ Complain in Bangladesh as in Step 1, item 9 [B0018].
 
 #### Tried by workers
 
-- **Working on a tourist or business visa.** Staying for a purpose other than the one declared on entry is fined 100 RP (10,000 som, about Tk 14,200); in May 2025, 46 foreigners found working on tourist visas on a Bishkek building site were each fined 10,000 som [L0079, U0091, U0061, G0003].
-- **Forged or bought papers.** Using a document you know is forged is punished with a fine of 500 to 1,000 RP or 2 to 5 years in prison (1 RP is 100 som) [L0136, L0073, L0090]. False information in an application gets a visa refused and a Unified Permit annulled [L0098, W0093].
+- **Working on a tourist or business visa.** Staying for a purpose other than the one declared on entry is fined 100 RP (10,000 som, about Tk 14,200); in May 2025, 46 foreigners found working on tourist visas on a Bishkek building site were each fined 10,000 som [L0079, U0091, U0061, G0003, R0001].
+- **Forged or bought papers.** Using a document you know is forged is punished with a fine of 500 to 1,000 RP or 2 to 5 years in prison; RP is the unit fines are set in, and a 100 RP fine is 10,000 som [L0136, L0073, L0079, U0091]. False information in an application gets a visa refused and a Unified Permit annulled [L0098, W0093].
 - **Walking out for taxi or delivery work.** No work visa has been issued for taxi or delivery work, so every foreigner doing it works illegally [N0061, N0163]. Once an employer reports to the police that you left without notice, no other employer may hire you [L0114]. What follows is in What can get you jailed or deported [L0091].
 - **Crossing into Kazakhstan without papers.** Illegal border crossing is punished with 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP or up to 2 years in prison (see Irregular routes and undocumented workers) [L0135].
 
 ### Your rights at work
 
-The Labour Code of the Kyrgyz Republic covers foreigners working for organisations in Kyrgyzstan, unless a law or treaty says otherwise [L0001]. Forced labour, making someone work under threat of violence, is banned [L0002]. For any broken right, use the routes under If you aren't paid [L0062].
+The Labour Code of the Kyrgyz Republic covers foreigners working for organisations in Kyrgyzstan, unless a law or treaty says otherwise [L0001]. Forced labour, making someone work under threat of violence, is banned [L0002]. Whoever invited you, for a worker the employer, must explain your rights and duties to you in good time [L0100, L0111]. For any broken right, use the routes under If you aren't paid [L0062].
 
 #### Contract
 
@@ -609,7 +621,7 @@ Unless you agree otherwise in writing, the side that invites you bears your keep
 
 #### Your passport
 
-Taking someone's passport as security, or otherwise unlawfully, is fined 30 RP (about Tk 4,300) for a person or 130 RP (about Tk 18,500) for a company [L0089, G0003]. RP (расчетный показатель, the calculation unit) is the unit Kyrgyz fines are set in; 1 RP is 100 som, about Tk 142 [L0073, L0090, G0003]. Many South Asians brought on ordinary visas have had their passports taken [U0045, U0046]. In June 2024 a sewing-shop owner near Bishkek and a district police officer who took South Asian workers' passports, held back their wages and threatened them with prison were detained [U0049, U0050]. If yours is taken, use the routes under If you aren't paid [L0062].
+Taking someone's passport as security, or otherwise unlawfully, is fined 30 RP (about Tk 4,300) for a person or 130 RP (about Tk 18,500) for a company [L0089, G0003]. RP (расчетный показатель, the calculation unit) is the unit Kyrgyz fines are set in; a 100 RP fine is 10,000 som, so 1 RP is about Tk 142 [L0073, L0079, U0091, G0003]. Many South Asians brought on ordinary visas have had their passports taken [U0045, U0046]. In June 2024 a sewing-shop owner near Bishkek and a district police officer who took South Asian workers' passports, held back their wages and threatened them with prison were detained [U0049, U0050]. If yours is taken, use the routes under If you aren't paid [L0062, R0001].
 
 > **Need to know**
 > - Does the passport fine (Code of Offences, Article 137) cover a foreigner's passport, or only a Kyrgyz citizen's?
@@ -641,8 +653,8 @@ The law requires labour migrants to keep a permanent home outside Kyrgyzstan [W0
 
 #### Renewing
 
-1. **The employer applies, online, before the current document runs out.** Renewal is filed by the inviting party that applied before, and you need not appear in person [V0062, W0077]. Under the 2025 rules it had to be filed at least 10 working days before expiry [W0086]. The fees are the employer's (Work visa: company worker, Step 3) [W0018].
-2. **Keep your passport valid** at least 6 months beyond the permit, with 2 free pages [W0036, W0037]. For a new passport, the Bangladesh Embassy in Tashkent charges workers USD 33 (about Tk 4,100) for a 48-page, 5-year e-passport and USD 55 (about Tk 6,800) for 10 years, and has taken applications from Bangladeshis living in Kyrgyzstan (see The Bangladesh Embassy in Tashkent) [B0130, B0131, B0127, G0002].
+1. **The employer applies, online, before the current document runs out.** Renewal is filed by the inviting party that applied before, and you need not appear in person [V0062, W0077]. Under the 2025 rules (Resolution No. 367) it had to be filed at least 10 working days before expiry [W0086, W0057]. Arranging your stay documents is the employer's duty (Work visa: company worker, Step 3) [W0018].
+2. **Keep your passport valid:** a Kyrgyz visa needs a passport valid at least 6 months beyond the visa, with 2 free pages [W0036, W0037]. For a new passport, the Bangladesh Embassy in Tashkent charges workers USD 33 (about Tk 4,100) for a 48-page, 5-year e-passport and USD 55 (about Tk 6,800) for 10 years, and has taken applications from Bangladeshis living in Kyrgyzstan (see The Bangladesh Embassy in Tashkent) [B0130, B0131, B0127, G0002].
 3. **Wait up to 10 working days** for the decision [V0064, W0082].
 4. **Check the new card:** scan its QR code and read the end date [W0078].
 
@@ -656,7 +668,7 @@ The law requires labour migrants to keep a permanent home outside Kyrgyzstan [W0
 
 #### If you lose your job
 
-**Your permit ends with the job.** The Unified Permit lapses when the employer closes or the contract ends or is ended early, whatever time is left on it, and the resident card is cancelled when you stop working [L0107, L0119]. The employer must tell the MFA (Ministry of Foreign Affairs) within 3 calendar days so the permit is cancelled; presidential decree No. 337 of 28 September 2026 moves the issuing of permits and resident cards from the MFA to the Ministry of Labour, Social Security and Migration [L0112, K0013, K0014, K0015]. You then have 30 days to leave on your own; after that the permit is cancelled automatically [L0109, L0110]. Staying on makes you an overstayer (What can get you jailed or deported) [L0074].
+**Your permit ends with the job.** The Unified Permit lapses when the employer closes or the contract ends or is ended early, whatever time is left on it, and the permit is cancelled if you stop working [L0107, L0119]. The employer must tell the MFA (Ministry of Foreign Affairs) within 3 calendar days so the permit is cancelled; presidential decree No. 337 of 28 September 2026 moves the issuing of permits and resident cards from the MFA to the Ministry of Labour, Social Security and Migration [L0112, K0013, K0014, K0015]. You then have 30 days to leave on your own; after that the permit is cancelled automatically [L0109, L0110]. Staying on makes you an overstayer (What can get you jailed or deported) [L0074].
 
 **If you are dismissed:**
 
@@ -685,22 +697,22 @@ The law requires labour migrants to keep a permanent home outside Kyrgyzstan [W0
 
 **The fine.** Being in Kyrgyzstan without a valid visa, registration, residence permit or work permit, with expired ones, or staying after your legal stay ends [L0074, L0090, G0003]:
 
-- up to 1 month: 55 RP, 5,500 som (about Tk 7,800) [L0074, L0090];
-- 1 to 3 months: 100 RP, 10,000 som (about Tk 14,200) [L0075, L0090];
-- 3 to 6 months: 150 RP, 15,000 som (about Tk 21,300) [L0076, L0090];
-- 6 months to a year: 175 RP, 17,500 som (about Tk 24,900) [L0077, L0090];
-- over a year: 200 RP, 20,000 som (about Tk 28,500) [L0078, L0090].
+- up to 1 month: 55 RP, 5,500 som (about Tk 7,800) [L0074, L0090, R0001];
+- 1 to 3 months: 100 RP, 10,000 som (about Tk 14,200) [L0075, L0090, R0001];
+- 3 to 6 months: 150 RP, 15,000 som (about Tk 21,300) [L0076, L0090, R0001];
+- 6 months to a year: 175 RP, 17,500 som (about Tk 24,900) [L0077, L0090, R0001];
+- over a year: 200 RP, 20,000 som (about Tk 28,500) [L0078, L0090, R0001].
 
-Staying for a purpose other than the one you declared on entry, such as working on a visit visa, is fined 100 RP (about Tk 14,200) [L0079, G0003]. Working without the required permit makes you liable to expulsion [L0091, W0016].
+Staying for a purpose other than the one you declared on entry, such as working on a tourist visa, is fined 100 RP (10,000 som, about Tk 14,200) [L0079, U0091, U0061, G0003]. Working without the required permit makes you liable to expulsion [L0091, W0016, R0001].
 
 **The 30 days.** With the fine comes a written order to put things right; if you don't within 30 days, a court orders expulsion [L0080, L0092].
 
 **Leaving after an overstay.** You need an exit visa (type L), valid up to 10 days, and your name goes into a database of violators [L0123, L0124]. It costs [L0102, L0103, L0104, L0105, G0003, G0002]:
 
-- overstay up to 3 months: 17,500 som or USD 200 (about Tk 24,900);
-- 3 months to a year: 96,250 som or USD 1,100 (about Tk 1.37 lakh);
-- 1 to 2 years: 192,500 som or USD 2,200 (about Tk 2.74 lakh);
-- each further year: USD 1,100 (about Tk 1.37 lakh) more.
+- overstay up to 3 months: 17,500 som or USD 200 (about Tk 24,900) [L0102, G0003, G0002];
+- 3 months to a year: 96,250 som or USD 1,100 (about Tk 1.37 lakh) [L0103, G0003, G0002];
+- 1 to 2 years: 192,500 som or USD 2,200 (about Tk 2.74 lakh) [L0104, G0003, G0002];
+- each further year: USD 1,100 (about Tk 1.37 lakh) more [L0105, G0002].
 
 It is free when a court has ordered expulsion [L0125]. Someone too ill to leave alone gets a free emergency exit visa (type E); with no passport, see Going home without valid papers [L0126, W0032].
 
@@ -714,7 +726,7 @@ It is free when a court has ordered expulsion [L0125]. Someone too ill to leave 
 
 - A court orders expulsion; you are handed to Bangladesh's authorities or leave on your own under control [L0081, L0083].
 - If you don't leave by the court's deadline, you are held in a special centre for up to 30 days until you are removed [L0082].
-- Unpaid fines don't stop it [L0084]. You pay its cost; if you can't, the employer or host who invited you pays, and only exceptionally the state [L0096]. Employers pay a guarantee fee of 50 RP (about Tk 7,100) per worker that funds this when the worker has no money [L0127, L0128, G0003].
+- Unpaid fines don't stop it [L0084]. You pay its cost; if you can't, the employer or host who invited you pays, and only exceptionally the state [L0096]. Employers pay a guarantee fee of 50 RP (5,000 som, about Tk 7,100) per worker that funds this when the worker has no money [L0127, L0128, L0073, L0090, G0003, R0001].
 - Expulsion for an offence brings a 2-year entry ban; after a prison sentence it is 5 years for less serious crimes, 10 for serious ones and life for especially serious ones [L0093, L0094, L0095]. No visa is issued until the ban ends [L0097].
 
 In detention, the Ombudsman's (Akyikatchy's) free hotline, 115, is meant for people in closed institutions facing torture, violence or cruel treatment [L0184, L0139]. A returnee held over three months said detainees were made to stand for hours in the sun [L0178, L0175].
@@ -724,17 +736,20 @@ In detention, the Ombudsman's (Akyikatchy's) free hotline, 115, is meant for peo
 
 #### False papers
 
-Using a document you know is forged: a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or 2 to 5 years in prison [L0136, G0003]. False information in a visa, registration or work permit application gets the visa refused, and forged documents given at hiring are grounds for dismissal [L0098, L0019].
+Using a document you know is forged: a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or 2 to 5 years in prison [L0136, L0073, L0090, G0003]. False information in a visa, registration or work permit application gets the visa refused, and forged documents given at hiring are grounds for dismissal [L0098, L0019, R0001].
+
+> **Need to know**
+> - Have Bangladeshis who used forged permits bought from "legalisation" agents been prosecuted in Kyrgyzstan, or only fined and expelled?
 
 #### Crossing the border illegally
 
-Crossing the state border illegally, for example into Kazakhstan without papers, is punished by 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or up to 2 years in prison (see Irregular routes and undocumented workers) [L0135, G0003].
+Crossing the state border illegally, for example into Kazakhstan without papers, is punished by 1 to 3 years' corrective labour, a fine of 500 to 1,000 RP (about Tk 71,100 to 1.42 lakh) or up to 2 years in prison (see Irregular routes and undocumented workers) [L0135, U0055, L0073, L0090, G0003, R0001].
 
 #### Drugs
 
 - Making, buying, keeping or carrying drugs to sell, or selling them: 5 to 8 years in prison, with property confiscated [L0132].
 - Especially large amounts, or sale to a child: 12 to 15 years [L0133].
-- Keeping or carrying a large amount without intent to sell: a fine of 1,000 to 2,000 RP (about Tk 1.42 to 2.85 lakh) or up to 5 years [L0134, G0003].
+- Keeping or carrying a large amount without intent to sell: a fine of 1,000 to 2,000 RP (about Tk 1.42 to 2.85 lakh) or up to 5 years [L0134, L0073, L0090, G0003, R0001].
 
 > **Need to know**
 > - What happens to a foreigner caught with a small amount of drugs (below "large"), and is he expelled?
@@ -743,11 +758,11 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 
 **Deadlines:** complain within 3 months of learning of the breach (2 months from a dismissal order); unpaid wages can be claimed for 3 years; the same limits apply to complaints to the prosecutor and the labour inspection [L0066, L0067, L0068].
 
-**Keep evidence, even without a contract:** WhatsApp or Telegram messages, photos of documents, payment records and colleagues' statements [L0169]. Ask the employer in writing for certified copies of your job papers (Contract) [L0012]. An employer that puts people to work without a written contract is fined 75 RP (about Tk 10,700) as a person or 230 RP (about Tk 32,700) as a company [L0088, G0003]. Late pay earns you 0.25% a day (Pay and deductions) [L0048].
+**Keep evidence, even without a contract:** WhatsApp or Telegram messages, photos of documents, payment records and colleagues' statements [L0169]. Ask the employer in writing for certified copies of your job papers (Contract) [L0012]. An employer that puts people to work without a written contract is fined 75 RP (about Tk 10,700) as a person or 230 RP (about Tk 32,700) as a company [L0088, L0073, L0090, G0003]. Late pay earns you 0.25% a day (Pay and deductions) [L0048, R0001].
 
 **Act in this order:**
 
-1. **Complain to the labour inspection,** the Service for Control and Supervision of Labour Legislation (Служба по контролю и надзору трудового законодательства) under the Ministry of Labour, Social Security and Migration [K0023].
+1. **Complain to the labour inspection,** the Service for Control and Supervision of Labour Legislation (Служба по контролю и надзору за соблюдением трудового законодательства) under the Ministry of Labour, Social Security and Migration [K0023].
    1. Write a complaint to its local office where the employer is, or hand it in at a TsON (ЦОН, public service centre) in the regions [L0166, L0167].
    2. State the breach. Sample wording: "Я, [ФИО], паспорт [номер], работаю в [работодатель, адрес] [должность] с [дата]. Не выплачена зарплата за [месяцы]. Прошу провести проверку." ("I, [name], passport [number], have worked at [employer, address] as [job] since [date]. My wages for [months] have not been paid. I ask for an inspection.") [L0170]
    3. You may complain anonymously, but the check may then go less deep [L0168].
@@ -763,13 +778,13 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
    > **Need to know**
    > - How does a worker get a notary's order for unpaid wages, and what does it cost?
 4. **The prosecutor's office,** which supervises the labour laws [L0069, L0068].
-5. **A court,** for disputes the other routes don't settle, after a compulsory mediation step [L0062]. A claim for harm to health from work, or over a refused or disputed accident report, goes straight to court [L0070, L0071]. Money claims found justified are paid in full [L0072].
+5. **A court,** which you may also go to directly, after a compulsory mediation step [L0062]. A claim for harm to health from work, or over a refused or disputed accident report, goes straight to court [L0070, L0071]. Money claims found justified are paid in full [L0072].
 6. **The Ombudsman (Akyikatchy),** free: call 115, WhatsApp (0999) 000-115, write to the office, or use ombudsman.kg [L0184, L0137, L0138].
 7. **From the Bangladesh side:** email the Bangladesh Embassy in Tashkent, mission.tashkent@mofa.gov.bd (The Bangladesh Embassy in Tashkent), and call the Probashi call centre, 16135 (free in Bangladesh) or +8809610102030 from abroad [B0125, B0023]. BRAC says stranded migrants can contact its Migration Welfare Centre (Contacts in Bangladesh) [L0176].
 
 **Employers on the bad list:** the MFA keeps a Register of Bad-Faith Employers for unpaid wages, worse working conditions or not paying a worker's way home; a listed employer stays on it for a year [L0116, L0117, L0113, L0118].
 
-**In practice:** unpaid Bangladeshis in Kyrgyzstan have ended up undocumented and jailed rather than paid [L0174, L0175, L0173]. A welder injured at work, without a contract, went four months unpaid, surrendered to the police and spent over three months in jail [L0177, L0175]. In 2022 a Kyrgyz human rights organisation helped rescue unpaid garment workers, while their rights group, Rights Jessore, said BMET (Bureau of Manpower, Employment and Training) stalled on bringing them home although they had gone with BMET clearance [L0182, L0183]. BRAC said many of the 180 Bangladeshis flown home from Bishkek on 10 September 2025 had no work, no wages and no papers, and some families paid ransom [L0188, L0172, L0173].
+**In practice:** unpaid Bangladeshis in Kyrgyzstan have ended up undocumented and jailed rather than paid [L0174, L0175, L0173]. A welder injured at work, without a contract, went four months unpaid, surrendered to the police and spent over three months in jail [L0177, L0175]. A Kyrgyz human rights organisation helped rescue a group of Bangladeshi workers, while their rights group, Rights Jessore, said BMET (Bureau of Manpower, Employment and Training) stalled on bringing them home although they had gone with BMET clearance [L0182, L0183]. BRAC said many of the 180 Bangladeshis flown home from Bishkek on 10 September 2025 had no work, no wages and no papers, and some families paid ransom [L0188, L0172, L0173].
 
 > **Need to know**
 > - Has any Bangladeshi in Kyrgyzstan recovered unpaid wages through the inspection, a court, a notary or the Embassy in Tashkent?
@@ -784,7 +799,7 @@ Crossing the state border illegally, for example into Kazakhstan without papers,
 
 **Resigning.** Give one month's written notice [L0013]. If you leave a fixed-term contract early without a valid reason, the employer may claim the compensation set in the contract, up to one month's average pay [L0016]. You can also end it by agreement: the other side must answer a written proposal within 3 working days [L0017]. If the employer has broken the law or the contract, and the labour inspection, a trade union or a court confirms it, the employer must release you on the date you ask [L0014, L0015].
 
-**Leaving without notice.** If you walk out and the employer reports you to the police, no other employer may hire you, nor may the same one again [L0114, L0115]. Your permit then ends with the job (If you lose your job) [L0107].
+**Leaving without notice.** If you walk out and the employer reports you to the police, no other employer may hire you, nor may the same one again [L0114, L0115]. An employer that breaks the rules on hiring and using foreign workers is fined 200 RP (20,000 som, about Tk 28,400) as a person or 650 RP (65,000 som, about Tk 92,300) as a company [L0087, L0073, R0001, G0003]. Your permit then ends with the job (If you lose your job) [L0107].
 
 > **Need to know**
 > - Can a worker whose permit lapsed get a new Unified Permit from a new employer without leaving Kyrgyzstan?
@@ -818,7 +833,7 @@ Besides a job with one employer (see Work visa: company worker), the rules open 
 
 ### Working for more than one employer
 
-Under the 2025 rules a foreign worker could work for up to three organisations at once, with one of them as the main employer [W0089]. The permit is tied to the named worker, employer, type of work, position and period (Work visa: company worker, Step 3) [W0141].
+Under the 2025 rules (Resolution No. 367) a foreign worker could work for up to three organisations at once, with one of them as the main employer [W0089, W0057]. The permit is tied to the named worker, employer, type of work, position and period (Work visa: company worker, Step 3) [W0141].
 
 > **Need to know**
 > - Does Resolution No. 312 keep the three-employer rule, and how does a second employer add a worker on the e-Visa portal?
@@ -837,11 +852,11 @@ A Bangladeshi with a valid resident card of Saudi Arabia, the UAE, Qatar, Kuwait
 
 ### The patent: not open to Bangladeshis
 
-The State Tax Service's patent, a fixed monthly tax of 800 som (KGS, the Kyrgyz currency; about Tk 1,100) that serves as a work permit, lets a foreigner work only for private individuals, and only during a visa-free stay [W0134, W0133, G0003]. The Tax Service describes it as for migrant workers from neighbouring countries hired by Kyrgyz citizens for construction, crop farming, livestock or personal services [G0043]. Bangladeshis have no visa-free stay, so they can't use it [W0028, V0155].
+The State Tax Service's patent, a fixed monthly tax of 800 som (KGS, the Kyrgyz currency; about Tk 1,140) that serves as a work permit, lets a foreigner work only for private individuals, and only during a visa-free stay [W0134, W0133, G0003]. The Tax Service describes it as for migrant workers from neighbouring countries hired by Kyrgyz citizens for construction, crop farming, livestock or personal services [G0043]. Bangladeshis have no visa-free stay, so they can't use it [W0028, V0155].
 
 ## Student visa
 
-A foreign student enters on a study visa (type S), valid up to 90 days, and then gets a resident card (резидент-карта, the plastic card that lets a foreigner stay up to a year), renewed through the university [V0049, V0058, V0057, V0062]. Most foreign students in Kyrgyzstan study medicine: in 2022, 28,239 foreigners made up 77% of students at 22 medical universities [V0123]. In May 2024 at least 800 Bangladeshi medical students lived in Bishkek [V0126].
+A foreign student enters on a study visa (type S), valid up to 90 days, and then gets a resident card (резидент-карта, the plastic card that lets a foreigner stay up to a year), renewed through the university [V0049, V0058, V0057, V0050, V0062, V0161]. In 2022, 28,239 foreigners made up 77% of students at Kyrgyzstan's 22 medical universities [V0123]. In May 2024 at least 800 Bangladeshi medical students lived in Bishkek [V0126].
 
 Bangladeshis have had trouble getting this visa. Over 150 Bangladeshi medical students have been stuck in Bangladesh since July 2025, saying the Kyrgyz government stopped issuing them visas without notice; in April 2026 the e-visa portal showed the student category as open, but Bangladeshi applications were not approved, and no reason was given [N0093, N0094, N0168].
 
@@ -883,7 +898,7 @@ Bangladeshis have had trouble getting this visa. Over 150 Bangladeshi medical st
 
 ### Step 2: Plan for BMDC registration before you go
 
-To practise in Bangladesh, a doctor with a foreign degree must pass the Registration Qualifying Examination (RQE) of the BMDC (Bangladesh Medical and Dental Council), open only to graduates whose degree is considered equivalent to a Bangladeshi MBBS or BDS [V0137, V0138]. Passing gives provisional registration for internship, and full registration after it [V0139].
+To practise in Bangladesh, a doctor with a foreign degree must pass the Registration Qualifying Examination (RQE) of the BMDC (Bangladesh Medical and Dental Council), open only to graduates whose degree is considered equivalent to a Bangladeshi MBBS or BDS [V0137, V0138]. The exam follows the Bangladesh MBBS curriculum: true/false questions with 4 stems each, 100 marks in 1 hour 40 minutes, 0.25 marks for each right answer and 0.06 taken off for each wrong or double answer [V0146]. Passing leads, where the case requires it, to provisional registration for internship, and to full registration after the internship [V0139].
 
 What the RQE asks for shapes what you keep during your studies:
 - BMDC's Eligibility Certificate, original and copy [V0140];
@@ -904,16 +919,19 @@ You'll need:
 - a scan of your passport, valid at least 6 months after the visa ends, with 2 free pages [V0050, V0083];
 - the university head's written request, with the university's founding and registration documents [V0050];
 - proof of the university's state and medical accreditation [V0051];
-- your Bangladeshi certificates with an Apostille and a notarised translation into Kyrgyz or Russian [V0029].
+- any Bangladeshi document you submit, apostilled or consular-legalised, with a notarised translation into Kyrgyz or Russian [V0029].
 
 1. **Apostille your certificates online.** Kyrgyzstan accepts Bangladesh's Apostille, and for it the Apostille from mygov.bd is enough, with no visit to the Foreign Ministry counter (see Work visa: company worker, Step 4) [B0150, B0149].
-2. **The university sends its request, and the visa is applied for on the e-visa portal** as in Visit visa, Step 2 [V0050, V0093]. An e-visa takes up to 5 working days [V0019].
+2. **The university sends its request, and the visa is applied for on the e-visa portal** as in Visit visa, Step 2 [V0050, V0093, N0168]. An e-visa takes up to 5 working days [V0019].
+
+> **Need to know**
+> - What does a study visa (type S) cost on the e-Visa portal, and does the student or the university pay it?
 
 **If it fails:** the reasons for a refusal are not explained and the fees are not returned [V0025, V0026]. You may apply again once your documents are in order [V0007].
 
 ### Step 4: Resident card after arrival
 
-Within the study visa's 90 days, the university or you apply for a resident card, which lets you stay up to one year; the university renews it [V0062, V0057, V0059].
+After arrival, the university or you apply for a resident card, which lets you stay up to one year; the university renews it [V0062, V0057, V0059].
 
 You'll need:
 - a certified copy of your study contract stating the study period [V0052];
@@ -921,7 +939,7 @@ You'll need:
 - medical certificate form 086/U and a compulsory medical insurance policy [V0054];
 - electronic consent to open a special bank account [V0063].
 
-The card itself is a plastic bank debit card with a QR code, and its issue and service fees follow the bank's tariffs [V0161, V0162]. A decision takes 10 working days; a refusal can be appealed in court, and reasons are not given [V0064, V0065]. If you move, change the address in your personal account [V0163]. Extending a single-entry study visa costs 352 som or USD 5 (about Tk 500 to 600) per 30 days, and a multiple-entry one 704 som or USD 10 (about Tk 1,000 to 1,200) [V0159, V0160, G0003, G0002].
+The card itself is a plastic bank debit card with a QR code, and its issue and service fees follow the bank's tariffs [V0161, V0162]. A decision takes 10 working days; a refusal can be appealed in court, and reasons are not given [V0064, V0065]. If you move, change the address in your personal account [V0163]. Extending a single-entry study visa costs 352 som or USD 5 (about Tk 500 to 620) per 30 days, and a multiple-entry one 704 som or USD 10 (about Tk 1,000 to 1,240) [V0159, V0160, G0003, G0002].
 
 > **Need to know**
 > - What does a student pay for the resident card in 2026, bank charges included?
@@ -939,21 +957,21 @@ If you finish, stop studying or are expelled, you get an exit visa (type L), val
 
 ### Safety
 
-On the night of 17-18 May 2024 mobs in Bishkek attacked foreign students and migrants, entering medical college hostels and using social media apps to find students; at least 28 people were hurt [V0131, V0128, V0129]. Bangladeshi students at Royal Metropolitan and the International School of Medicine were caught up, and students from Bangladesh, India and Pakistan often share hostels [V0130, V0134, V0136]. Bangladesh's Embassy in Uzbekistan, which covers Kyrgyzstan, gave students a 24-hour emergency number, +998 93 000 9780 (see The Bangladesh Embassy in Tashkent) [V0132, V0133].
+On the night of 17-18 May 2024 mobs in Bishkek attacked foreign students and migrants, entering medical college hostels and using social media apps to find students; at least 28 people were hurt [V0131, V0128, V0129]. Bangladeshi students at Royal Metropolitan and the International School of Medicine were caught up, and students from Bangladesh, India and Pakistan in some cases share hostels [V0130, V0134, V0136]. Bangladesh's Embassy in Uzbekistan, which covers Kyrgyzstan, gave students a 24-hour emergency number, +998 93 000 9780 (see The Bangladesh Embassy in Tashkent) [V0132, V0133].
 
 > **Need to know**
 > - Is the Embassy's 2024 emergency number, +998 93 000 9780, still answered?
 
 ### Scams
 
-- **Agents' mark-up:** in 2022 a foreign medical student's tuition was USD 2,000 to 3,000 a year (about Tk 2.5 to 3.7 lakh), and agents who bring students took the lion's share of the difference between that and what students paid [V0124, V0125, G0002].
+- **Agents' mark-up:** in 2022 a foreign medical student's tuition was USD 2,000 to 3,000 (about Tk 2.5 to 3.7 lakh), schools declared a lower price for tax, and agents who bring students took the lion's share of the difference [V0124, V0125, G0002].
 - **Dead schools:** places sold at universities that failed accreditation can't lead to a diploma (Step 1, item 1) [V0107, V0116].
 - **Senior-year transfers:** offers to move you into a later year run against the draft first-year-only rule (Step 1, item 3) [V0121].
 - **Student visa as a work route:** working on a study visa is working without a permit, and can end in expulsion [W0016, U0073].
 
 ## Visit visa
 
-Kyrgyzstan has two short visit visas: the tourist visa (type TS, up to 30 days) and the business visa (type B, up to 90 days), which also covers medical treatment [V0013, V0015, V0018]. Neither lets you work or earn money, and a tourist visa can't be changed to another visa inside Kyrgyzstan (see Changing visa type) [V0016, V0045]. Every Bangladeshi needs a visa [V0155, W0028]. Visas are issued by the MFA (Ministry of Foreign Affairs) in Bishkek, Kyrgyz embassies and consulates, and online on the e-Visa portal, evisa.e-gov.kg [V0012, V0093]. Bangladesh's Ministry of Expatriates' Welfare warns people not to go to work on a tourist or visit visa on a broker's promise [B0006].
+Kyrgyzstan has two short visit visas: the tourist visa (type TS, up to 30 days) and the business visa (type B, up to 90 days), which also covers medical treatment [V0013, V0015, V0018]. A transit visa (type TR), for passing through Kyrgyzstan to a third country, needs a ticket to your final destination or that country's visa or permit, is valid up to 3 calendar days, and costs 1,783 som or USD 25 (about Tk 2,500 to 3,100) [V0035, V0036, V0076, G0003, G0002]. A business visa gives no right to work or earn money, people on tourist visas have no right to work, and inside Kyrgyzstan you can be issued a visa that matches your purpose, but not a tourist, transit or religious visa (see Changing visa type) [V0016, U0061, V0045]. Every Bangladeshi needs a visa [V0155, W0028]. Visas are issued by the MFA (Ministry of Foreign Affairs), Kyrgyz embassies and consulates, and online on the e-Visa portal, evisa.e-gov.kg [V0012, V0093]. Bangladesh's Ministry of Expatriates' Welfare warns people not to go to work on a tourist or visit visa on a broker's promise [B0006].
 
 ### Step 1: Check which route you are on
 
@@ -968,8 +986,8 @@ Kyrgyzstan has two short visit visas: the tourist visa (type TS, up to 30 days) 
    > - On evisa.e-gov.kg in November 2026, what does "Do I need visa?" show for Bangladesh: is the tourist e-visa open to self-application, or only with a tour company's letter?
    > - What does a Bishkek tour company charge a Bangladeshi for a tourist-visa letter, and must a tour be booked?
 
-3. **For a business or medical visit,** a company registered in Kyrgyzstan (business) or a Kyrgyz medical institution (treatment) sends a written request, with its founding and registration documents or the treatment papers [V0017, V0018]. The MFA's invitation issued on that request (visa support, визовая поддержка) costs 352 som or USD 5 (about Tk 500 to 600) per person, is valid 30 calendar days, can be used once and can't be extended [V0077, V0020, G0003, G0002].
-4. **If you mean to look for work, a visit visa won't do.** Work needs a Unified Permit (Единое разрешение, the electronic permit that combines the work visa and work permit) arranged by the employer before you travel (see Work visa: company worker, Step 3) [V0048, W0027].
+3. **For a business or medical visit,** a company registered in Kyrgyzstan (business) or a Kyrgyz medical institution (treatment) sends a written request, with its founding and registration documents or the treatment papers [V0017, V0018]. The MFA's invitation issued on that request (visa support, визовая поддержка) costs 352 som or USD 5 (about Tk 500 to 620) per person, is valid 30 calendar days, can be used once and can't be extended [V0077, V0020, G0003, G0002].
+4. **If you mean to look for work, a visit visa won't do.** Work needs a Unified Permit (Единое разрешение, the electronic permit that combines the work visa and work permit), which the employer applies for on the e-Visa portal (see Work visa: company worker, Step 3) [V0048, W0027, W0064, W0066].
 
 ### Step 2: Apply on the e-visa portal
 
@@ -979,7 +997,7 @@ You'll need:
 - scans of your documents, in Kyrgyz or Russian or translated into one of them [V0093, V0089];
 - for the simplified route, your Gulf or Brunei resident card [V0002];
 - the inviting company's, clinic's or tour company's letter, if your route needs one [V0014, V0017, V0018];
-- a Visa or MasterCard debit or credit card; it need not be in your name [V0093, V0081].
+- a debit or credit card; it need not be in your name [V0093, V0081].
 
 1. **Check the rule for Bangladesh:** on evisa.e-gov.kg, the "Do I need visa?" tool shows, for your passport country, whether a visa is needed and how to get it [V0090].
 2. **Fill in the form in English** [V0080]. Each traveller, children and infants included, needs a separate e-visa [V0092].
@@ -987,30 +1005,33 @@ You'll need:
 4. **Pay by card** [V0093, V0081]. The fees:
    - single-entry visa of up to 1 month: 3,589 som or USD 50 (about Tk 5,100 to 6,200) [V0156, G0003, G0002];
    - multiple-entry visa of up to 1 month: 4,315 som or USD 60 (about Tk 6,100 to 7,500) [V0157, G0003, G0002];
-   - extending a single-entry visa: 704 som or USD 10 (about Tk 1,000 to 1,200) per 30 days [V0158, G0003, G0002];
+   - extending a single-entry visa: 704 som or USD 10 (about Tk 1,000 to 1,240) per 30 days [V0158, G0003, G0002];
    - an e-visa issued within two working days: 200% more [V0078].
-5. **Wait:** an e-visa takes up to 5 working days, or up to 2 at the urgent rate [V0019]. The application also goes to the national security body for up to 4 working days (1 at the urgent rate) [V0021].
+5. **Wait:** an e-visa takes up to 5 working days, or up to 2 at the urgent rate [V0019]. The application also goes to the national security body for up to 4 working days (1 at the urgent rate) [V0021]. If the documents don't match or look doubtful, it may call the applicant or employer in, or phone to check the details [V0024].
 6. **Print the e-visa** when it arrives by email [V0031]. Don't buy your air ticket before it is approved [V0085].
 
 To apply at a Kyrgyz embassy instead (the ambassador in New Delhi is also accredited to Bangladesh; see Contacts in Bangladesh), bring the visa form, a 35 x 45 mm colour photo, proof of payment and the documents for your visa type; the embassy may also ask for a guarantee letter from your host to pay all costs of your stay and departure [V0034, V0033, B0138].
 
 > **Need to know**
-> - What does the portal actually charge a Bangladeshi for a 30-day single-entry tourist or business e-visa in November 2026?
+> - Does the e-Visa portal or its bank add a card or service charge on top of the 3,589 som consular fee for a 30-day single-entry e-visa?
 
 **Check it is real:** On evisa.e-gov.kg, Services, "Check status", enter your reference number [V0091]. At the border, show the same passport the visa was issued on: another passport does not let you cross [V0030].
 
 **If it fails:** The reasons for a refusal are not explained, and the fee is not refunded [V0025, V0026, V0082]. If the portal returns your application for corrections, open Services, "Check the status", enter the reference number, correct the lines marked in red and submit [V0087]; do it within 30 calendar days or the application is annulled [V0027]. If you chose the wrong visa category, ask for a refund within 15 working days of the last return of the application [V0028]. After a refusal you may apply again once your documents are in order [V0007]. The e-visa helpline is +996 703 428 865 or +996 999 312 002 [V0086].
 
+> **Need to know**
+> - Can a refused tourist, business, study or family visa be challenged in court, as a refused Unified Permit can?
+
 ### Step 3: At the border and after arrival
 
 1. **State your true purpose to the border officer:** it is recorded in the migration database [V0009].
 2. **Carry enough money for the stay and the trip home:** the visa's length can be cut if you lack it [V0032].
-3. **Get registered at your address within 5 working days of arrival** (see Work visa: company worker, Step 7) [V0084].
-4. **Leave before the visa ends,** or extend it (Step 2, item 4) [V0158]. An overstayer leaves only on an exit visa (see What can get you jailed or deported) [V0056].
+3. **Get registered at your address within 5 working days of arrival** (see Work visa: company worker, Step 7) [V0084]. Registration runs for the period your host asks for, or until your visa ends [K0040].
+4. **Leave before the visa ends,** or extend it (Step 2, item 4) [V0158]. An overstayer leaves on an exit visa, valid up to 10 days (see What can get you jailed or deported) [V0056].
 
 ### Can you work?
 
-No. A business visa gives no right to work, run a business or earn income [V0016]. Staying for a purpose other than the one declared on entry, such as working on a visit visa, is fined 100 calculation units (расчетный показатель, RP, the unit Kyrgyz fines are set in), 10,000 som (about Tk 14,200), and working without a permit makes you liable to expulsion [L0079, U0091, G0003, L0091]. In May 2025, 46 foreigners who had come on tourist visas were found working on a Bishkek building site; each was fined 10,000 som, and a criminal case was opened against the organisers [U0061].
+No. A business visa gives no right to work, run a business or earn income [V0016]. Staying for a purpose other than the one declared on entry, such as working on a visit visa, is fined 100 calculation units (расчетный показатель, RP, the unit Kyrgyz fines are set in), 10,000 som (about Tk 14,200), and working without a permit makes you liable to expulsion [L0079, U0091, G0003, L0091]. In May 2025, 46 foreigners who had come on tourist visas were found working on a Bishkek building site; each was fined 10,000 som, and a criminal case was opened against the organisers [U0061, R0001].
 
 ### Scams
 
@@ -1029,6 +1050,9 @@ A worker or student can bring a spouse, children under 18 and dependent parents 
    - proof of the relationship (nikahnama, the marriage contract, and birth certificates), apostilled and translated into Kyrgyz or Russian by a notary (Student visa, Step 3, item 1) [V0069, V0029];
    - proof of your own legal stay [V0069].
 3. **Apply on evisa.e-gov.kg** as in Visit visa, Step 2; each family member, children included, needs a separate visa [V0093, V0092].
+
+> **Need to know**
+> - What does a 90-day family visa (type FF) cost on the e-Visa portal?
 4. **After arrival, apply for each family member's resident card** with an HIV-negative certificate, form 086/U and medical insurance (Student visa, Step 4) [V0060, V0053, V0054].
 
 > **Need to know**
@@ -1039,10 +1063,9 @@ A worker or student can bring a spouse, children under 18 and dependent parents 
 
 ## Changing visa type
 
-- **Tourist visa to anything else:** Not allowed inside Kyrgyzstan; a tourist, transit or religious visa can't be switched [V0045].
-- **Other visa, or a visa-free stay, to a visa matching your real purpose:** Allowed inside Kyrgyzstan [V0045, V0006]. The inviting party that got your current visa files the request at least 5 working days before it ends [V0046, V0047].
+- **Any visa, or a visa-free stay, to a visa matching your real purpose:** Allowed inside Kyrgyzstan, but a tourist, transit or religious visa can't be issued this way [V0045, V0006]. For a long-term visa, the inviting party that got your current visa files the request at least 5 working days before it ends [V0046, V0047].
 - **Any visa to work:** Only through an employer: it gets a Unified Permit for up to 60 days, then a resident card (see Work visa: company worker, Step 3) [V0048]. A valid visa or registration alone does not let anyone hire you [W0142].
-- **Unified Permit to resident card:** The employer applies before the permit's 60 days end (see Your residence permit) [W0004, W0074].
+- **Unified Permit to resident card:** After the permit's first 60 days, a resident card is issued if you stay on (see Your residence permit) [W0004, W0074].
 - **Resident card to temporary residence permit (вид на жительство):** Possible after more than six months with a legal income, including work under a contract with a work permit (see Your residence permit) [W0020].
 - **Study visa to resident card:** The usual path for students (Student visa, Step 4) [V0058, V0059].
 - **Family visa to work:** The family visa gives no right to work [V0068].
@@ -1093,7 +1116,7 @@ A refugee may work without a permit, must re-register with the Ministry every ye
 
 ## Irregular routes and undocumented workers
 
-Most Bangladeshis without papers in Kyrgyzstan came in legally on a visa and lost their status there: the visa ran out, no work permit came, or the job did not exist [U0040, U0041, U0045, U0009]. In May 2025 the GKNB (State Committee for National Security, Kyrgyzstan's security service, which leads the raids) estimated about 5,000 undocumented migrants in the country [U0072]. A foreigner without valid papers is fined and can be expelled, and expulsion goes ahead even if the fine is unpaid (see What can get you jailed or deported) [L0074, L0091, L0084].
+Many Bangladeshis without papers in Kyrgyzstan came in legally on a visa and lost their status there: the visa ran out, the promised work visa never came, or there was no job [U0040, U0041, U0045, U0009, U0006]. In May 2025 the GKNB (State Committee for National Security, Kyrgyzstan's security service, which runs the raids with the police) estimated about 5,000 undocumented migrants in the country [U0072, U0081]. A foreigner without valid papers is fined and can be expelled, and expulsion goes ahead even if the fine is unpaid (see What can get you jailed or deported) [L0074, L0092, L0091, L0084].
 
 ### How people lose their papers
 
@@ -1124,7 +1147,7 @@ Most Bangladeshis without papers in Kyrgyzstan came in legally on a visa and los
 Raids under Operation Nelegal ("Illegal") are run by the GKNB with the MVD (Ministry of Internal Affairs, the police) several times a year, on building sites and sewing workshops [U0069, U0077, U0080, U0081].
 
 - **2024:** in April the GKNB found over 130 Pakistanis and Bangladeshis in Bishkek lodgings, 64 with expired visas and no registration [U0040]. In May 46 Bangladeshis were detained for illegal work in Bazar-Korgon, Jalal-Abad region, and in August 28 were detained and fined in Bishkek [U0053, U0048]. The GKNB chairman, Kamchybek Tashiev, said 1,000 Bangladeshis and 1,500 Pakistanis had been deported, with officers catching 20 to 50 irregular migrants a day [U0044, N0087].
-- **2025:** Decree No. 164 of 22 May 2025 gave foreigners until 10 June 2025 to legalise their stay or leave without fines; in that campaign about 9,600 foreigners legalised their stay without leaving and over 1,700 left [U0152, U0068, N0046]. Operation Nelegal-2025 began on 11 June [U0069].
+- **2025:** Decree No. 164 of 22 May 2025 gave foreigners until 10 June 2025 to legalise their stay or leave without fines; in that campaign about 9,600 foreigners legalised their stay without leaving and over 1,700 left [U0152, U0068, N0046]. Operation Nelegal-2025 began on 11 June [U0069]. In May 2025 Bishkek police found about 800 breaches of the rules on hiring foreigners, and detected cases of illegal hiring rose from 59 in 2023 to 265 in 2025 [N0100, W0109].
 - **2026:** raids on 1-10 June produced 922 reports against foreigners, and 4 Bangladeshis and 16 Pakistanis were expelled after June raids in Issyk-Kul region [U0078, U0076]. On 1-10 October the GKNB and MVD wrote 1,487 reports with fines totalling 13,407,000 som [U0081, U0082].
 
 #### What happens when you are caught
@@ -1168,11 +1191,11 @@ What has worked, in reported cases:
 - **Medical certificates without a medical.** In March 2026 the GKNB broke up a Bishkek scheme selling form 086 medical certificates without any examination, used to extend the stay of mainly Pakistanis and Bangladeshis [U0066, U0067].
 - **"Europe after some work."** See Onward routes: Uzbekistan, Kazakhstan, Russia [U0011, U0037].
 
-The GKNB tells foreigners to apply for permits only through the MFA's official e-Visa portal (evisa.e-gov.kg, the website for Kyrgyz visas and permits) [U0065].
+The GKNB tells foreigners to apply for permits only through the MFA's official e-Visa portal (evisa.e-gov.kg, the website for Kyrgyz visas and permits) [U0065, B0151].
 
 ## Going home without valid papers
 
-On 10 November 2026 no fine-free exit window is open; the last were Decree No. 164 (to 10 June 2025) and Decree No. 233 (1 to 31 July 2026) [U0152, U0068, U0093, U0092]. Outside a window, an overstayer leaves on an exit visa (выездная виза, type L) applied for on the e-Visa portal, and pays the overstay fine as well [W0030, U0107, U0103]. The alternative is arrest and expulsion (see What happens when you are caught) [L0091, U0090].
+Fine-free exit windows were opened by Decree No. 164 (to 10 June 2025) and Decree No. 233 (1 to 31 July 2026) [U0152, U0068, U0093, U0092]. Outside a window, an overstayer leaves on an exit visa (выездная виза, type L) applied for on the e-Visa portal, and pays the overstay fine as well [W0030, U0107, U0103]. The alternative is detention and expulsion (see What happens when you are caught) [U0070, L0092, U0090].
 
 ### Help from Bangladesh
 
@@ -1187,11 +1210,10 @@ On 10 November 2026 no fine-free exit window is open; the last were Decree No. 1
 
 ### Step 1: Get a valid passport
 
-With a valid passport in your hands, go to Step 2 [U0107]. If it has expired or been lost, the Bangladesh Embassy in Tashkent has issued e-passports to Bangladeshis living in Kyrgyzstan since its Ambassador's visit to Bishkek on 13-14 December 2025 [B0127, B0128]. A 48-page, 5-year e-passport costs workers USD 33 (about Tk 4,100) [B0130, G0002].
+The exit visa is applied for on the e-Visa portal, which needs scanned copies of your documents, so with a valid passport in your hands, go to Step 2 [U0107, V0093]. If it has expired or been lost, the Bangladesh Embassy in Tashkent has offered e-passport services to Bangladeshis living in Kyrgyzstan since its Ambassador's visit to Bishkek on 13-14 December 2025 [B0127, B0128]. A 48-page, 5-year e-passport costs workers USD 33 (about Tk 4,100) [B0130, G0002].
 
 > **Need to know**
 > - Does the Embassy in Tashkent issue Travel Permits (one-way travel documents home) to Bangladeshis in Kyrgyzstan without a trip to Tashkent, at what fee, and how fast?
-> - Does a worker need an Uzbek visa to reach the Embassy in Tashkent, or does it hold regular camps in Bishkek?
 > - When an employer holds the passport, will the MVD or the Embassy get it back?
 
 ### Step 2: Get a certificate of no criminal record
@@ -1218,9 +1240,9 @@ The exit visa (type L) is valid up to 10 days [L0123]. Its fee rises with the ov
 - 1 to 2 years: 192,500 som or USD 2,200 (about Tk 2.74 lakh) [L0104, G0003];
 - each further year: USD 1,100 (about Tk 1.37 lakh) more [L0105, G0002].
 
-The MFA's consular director put the usual total, exit visa plus fine, at about 120,000 to 130,000 som (about Tk 1.7 to 1.85 lakh) [U0103, G0003]. It is free when a court has ordered your expulsion, and a free emergency exit visa (type E) is given to someone too ill to leave alone [L0125, L0126].
+In July 2026 the MFA's consular director said an exit visa costs almost 100,000 som and, with the MVD's violation report, the total comes to about 120,000 to 130,000 som (about Tk 1.7 to 1.85 lakh) [U0103, G0003]. It is free when a court has ordered your expulsion, and a free emergency exit visa (type E) is given to someone too ill to leave alone [L0125, L0126].
 
-1. **Apply yourself** on evisa.e-gov.kg; the MFA says to apply without third parties or intermediaries [U0107, U0097].
+1. **Apply yourself** on evisa.e-gov.kg; the MFA says to apply without third parties or intermediaries [U0107, U0097, B0151].
 2. **Apply before you go to the airport.** Getting the exit visa at Manas airport (Bishkek) before the flight is only for citizens of 67 listed states, not Bangladesh, and costs three times the fee [U0108, U0109].
 3. **If stuck,** message the MFA Consular Department on WhatsApp, +996 999 312 002, or call the MVD on 0312 266170 or 0312 266165 [U0099, U0100].
 
@@ -1242,7 +1264,7 @@ What happens from arrest to expulsion is under What happens when you are caught 
 ### Bans after you leave
 
 - **After expulsion for an offence:** a 2-year entry ban; after a prison sentence, 5 years for less serious crimes, 10 for serious ones and life for especially serious ones [L0094, L0095]. No visa is issued until the ban ends [L0097].
-- **After leaving on an exit visa:** you are entered in a database of violators [L0124]. From September 2026 the automated system EISUM counts each foreigner's days of stay [U0110].
+- **After leaving on an exit visa:** you are entered in a database of violators [L0124]. Under Cabinet resolution No. 602 of 7 September 2026, the automated system EISUM counts each foreigner's days of stay [U0110].
 
 > **Need to know**
 > - Does leaving on a paid exit visa bring an entry ban, and for how long?
@@ -1250,11 +1272,11 @@ What happens from arrest to expulsion is under What happens when you are caught 
 
 ## Sending money home
 
-**Send through a bank or a money-transfer company on the register of the NBKR (National Bank of the Kyrgyz Republic, the central bank), never hundi** [G0004]. Hundi (sending money through unlicensed private agents outside the banking system) is illegal in Bangladesh, and hundi brokers settle their deals through bKash and Nagad, Bangladesh's mobile-money wallets [G0022, G0023]. By June 2026 Bangladesh's Financial Intelligence Unit (BFIU) had frozen or suspended about 55,000 mobile-money accounts linked to digital hundi and online gambling, and in August 2026 it decided to freeze about 14,000 more [G0024]. Kyrgyzstan prosecutes informal channels too: in May 2025 the GKNB (State Committee for National Security, Kyrgyzstan's security service) detained two men who had moved more than USD 20 million (about Tk 249 crore) through Bishkek exchange points outside official records and kept some clients' money, including USD 2 million (about Tk 24.9 crore) handed over by one man [G0025, G0002]. Money sent legally earns the family Bangladesh's 2.5% cash incentive, kept in the FY2026-27 budget, and in some cases a further 2.5% from the bank [G0021, G0017]. Bangladesh Bank publishes no separate figure for money sent from Kyrgyzstan; it counts it under "Others" [G0020].
+**Send through a bank or a money-transfer company on the register of the NBKR (National Bank of the Kyrgyz Republic, the central bank), never hundi** [G0004, G0022]. Hundi (sending money through unlicensed private agents outside the banking system) is illegal in Bangladesh, and hundi brokers settle their deals through bKash and Nagad, Bangladesh's mobile-money wallets [G0022, G0023]. By June 2026 Bangladesh's Financial Intelligence Unit (BFIU) had frozen or suspended about 55,000 mobile-money accounts linked to digital hundi and online gambling, and in August 2026 it decided to freeze about 14,000 more [G0024]. Kyrgyzstan prosecutes informal channels too: in May 2025 the GKNB (State Committee for National Security, Kyrgyzstan's security service) detained two men who had moved more than USD 20 million (about Tk 249 crore) through Bishkek exchange points outside official records and kept some clients' money, including USD 2 million (about Tk 24.9 crore) handed over by one man [G0025, G0002]. Money sent legally earns the family Bangladesh's 2.5% cash incentive, kept in the FY2026-27 budget, and in some cases a further 2.5% from the bank [G0021, G0017]. Bangladesh Bank publishes no separate figure for money sent from Kyrgyzstan; it counts it under "Others" [G0020].
 
 ### Your salary and a bank account
 
-Companies, and since 1 January 2026 individual entrepreneurs, must pay a foreign worker's wages by bank transfer to a card, not in cash [L0185, W0105, L0129]. The resident card (the plastic permit that follows the first Unified Permit) works as a bank card, a special bank account is opened for it, and your wages are paid onto it (Work visa: company worker, Step 7: After arrival) [W0075, W0083]. A bank can also open a current account of your own for a foreigner who doesn't live permanently in Kyrgyzstan (a "non-resident"); Bakai Bank, for example, does [G0045].
+Companies, and since 1 January 2026 individual entrepreneurs, must pay a foreign worker's wages by bank transfer to a card; cash is allowed only in exceptional cases [L0185, W0105, L0129]. The resident card (the plastic permit that follows the first Unified Permit) works as a bank card, a special bank account is opened for it, and your wages are paid onto it (Work visa: company worker, Step 7: After arrival) [W0081, V0048, W0075, W0083]. A bank can also open a current account of your own for a foreigner who doesn't live permanently in Kyrgyzstan (a "non-resident"); Bakai Bank, for example, does [G0045].
 
 You'll need [G0045]:
 - your passport and a copy;
@@ -1308,7 +1330,7 @@ Complain in this order:
 ### Saving at home
 
 - **Wage Earner Development Bond.** A 5-year Bangladesh government bond for workers abroad, sold at authorised-dealer bank branches in Bangladesh and at Bangladeshi banks' branches and exchange houses abroad, from Tk 25,000 to Tk 50 lakh, with no limit on how much you buy [G0027]. It pays 12% simple profit on holdings up to Tk 15 lakh (11% for Tk 15-30 lakh, 10% for Tk 30-50 lakh, 9% above), every six months; the profit is income-tax free and the principal can be taken in US dollars [G0028].
-- **Probash pension.** Bangladesh's pension scheme for migrants takes monthly payments from abroad and pays a monthly pension from age 60 (see Your rights at work, Probash pension (Bangladesh)) [L0153, L0157].
+- **Probash pension.** Bangladesh's pension scheme for migrants takes monthly payments from abroad and pays a monthly pension from age 60 (see Your rights at work, Probash pension (Bangladesh)) [L0154, L0156, L0160, L0157].
 
 > **Need to know**
 > - Can a worker in Kyrgyzstan, where no Bangladeshi bank has a branch or exchange house, buy the Wage Earner Development Bond through his family in Bangladesh?
@@ -1344,7 +1366,7 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 
 ### If a worker dies
 
-These steps are for a relative or friend in Kyrgyzstan and the family in Bangladesh.
+
 
 1. **Ask the Welfare Board to bring the body home.** The family applies to the Welfare Board, which takes the family's wishes and sends them to the Bangladesh mission; call 16135 (free in Bangladesh) or +880 9610102030 from abroad [L0147, L0148]. The Embassy in Tashkent's website lists "Repatriation of Dead Body" as a service, but the page is empty [B0133].
 
@@ -1372,8 +1394,8 @@ These steps are for a relative or friend in Kyrgyzstan and the family in Banglad
 1. **Your permit ends with the job.** The Unified Permit (Единое разрешение, the combined work visa and work permit) lapses when the job ends, early or on time, or the employer closes, and can't be moved to another employer; you have 30 days to leave on it, then it is cancelled automatically (see Your residence permit, If you lose your job) [L0107, L0108, L0109, L0110].
 2. **Get everything owed by the last working day:** all wages and pay for unused leave, and, if the employer closes or cuts staff, severance of at least 2 months' average pay (see Changing employer or leaving) [L0047, L0039, L0023].
 3. **The employer pays your ticket home;** one that doesn't goes on the Register of Bad-Faith Employers, where it stays for a year (see Changing employer or leaving, Leaving at the end of the job) [L0111, L0113, L0118].
-4. **If you were dismissed unfairly or not paid,** bring the dispute within 2 months of the dismissal order (see If you aren't paid) [L0066].
-5. **Staying on without a permit** brings a fine and expulsion (see What can get you jailed or deported) [L0074, L0091].
+4. **If you were dismissed unfairly or not paid,** bring a dismissal dispute within 2 months of the dismissal order, and any other claim, such as unpaid pay, within 3 months of learning of it (see If you aren't paid) [L0066].
+5. **Staying on without a permit** brings a fine and can lead to expulsion (see What can get you jailed or deported) [L0074, L0091, U0079].
 
 > **Need to know**
 > - Does Kyrgyzstan pay any unemployment benefit to a foreign worker who loses his job?
@@ -1394,7 +1416,7 @@ These steps are for a relative or friend in Kyrgyzstan and the family in Banglad
 
 ### What you can carry home
 
-- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash foreign currency out of Kyrgyzstan, under a Cabinet decree of 13 January 2023 that stays in force until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it [G0029, G0031, G0002]. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) [G0032, G0002]. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case [G0033, G0002]. Banks send larger sums by SWIFT bank transfer (see How to send) [G0009].
+- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash foreign currency out of Kyrgyzstan, under a Cabinet decree of 13 January 2023 that stays in force until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it [G0029, G0031, G0002]. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) [G0032, G0002]. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case [G0033, G0002]. Banks also send money abroad by SWIFT bank transfer (see How to send) [G0009].
 - **Arriving in Bangladesh:**
   - **Cash:** any amount of foreign currency, but more than USD 10,000 (about Tk 12.4 lakh) must be declared on the FMJ form (the customs currency declaration) [G0034, G0002].
   - **Phones:** 2 used phones, plus 1 new phone once a year, without duty or tax [G0035].
@@ -1410,7 +1432,7 @@ These steps are for a relative or friend in Kyrgyzstan and the family in Banglad
 
 ### The Bangladesh Embassy in Tashkent
 
-Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, covers Kyrgyzstan, and Ambassador Mohammad Monirul Islam is accredited to the Kyrgyz Republic from there [B0120, B0122]. In May 2024, after mob attacks on foreigners in Bishkek, the Ambassador was sent to Bishkek to look after Bangladeshis, and the Embassy gave a 24-hour emergency number [B0121, V0132]. When Kyrgyzstan flew home 180 Bangladeshis who had become irregular, in September 2025, the Embassy handled the return flight [U0001, U0002].
+Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, covers Kyrgyzstan, and Ambassador Mohammad Monirul Islam is accredited to the Kyrgyz Republic from there [B0120, B0122]. In May 2024, after mob attacks on foreigners in Bishkek, the Ambassador was sent to Bishkek to look after Bangladeshis, and the Embassy gave a 24-hour emergency number [B0121, V0132]. When Kyrgyzstan flew home 180 Bangladeshis who had become irregular, in September 2025, the Embassy reported the return flight's schedule [U0001, U0002].
 
 - **Address:** Hamid Sulaymanov 56-58, Yakkasaray district, Tashkent 100070, Uzbekistan [B0124].
 - **Phone:** +99871 2556520, +99871 2551971, +99878 1209101 [B0124].
@@ -1433,7 +1455,6 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 > - Is Temirbek Erkinov still Bangladesh's Honorary Consul in Bishkek, and what are his office address and phone?
 > - Is +998 93 000 9780 still the Embassy's 24-hour emergency number, and does it answer on WhatsApp?
 > - How does a worker in Kyrgyzstan apply for an e-passport: does the Embassy hold regular camps in Bishkek, or must he travel to Tashkent (and does he need an Uzbek visa)?
-> - Does the Embassy issue Travel Permits to Bangladeshis in Kyrgyzstan without a trip to Tashkent, at what fee, and how long does it take?
 > - Does the Embassy attest powers of attorney and register births for Bangladeshis in Kyrgyzstan, and at what fee?
 > - Does the Embassy have a labour wing or welfare officer for Kyrgyzstan, and does it take unpaid-wage complaints against Kyrgyz employers?
 
@@ -1449,7 +1470,6 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 
 > **Need to know**
 > - What are Kyrgyzstan's emergency numbers for police and ambulance, and do operators speak English?
-> - What are the address and phone of the labour inspection in Bishkek, and does it take complaints in English?
 > - Which Bishkek NGO or hotline takes trafficking and unpaid-wage cases from foreign men, and what is Legal Clinic Adilet's phone number?
 
 ### Contacts in Bangladesh

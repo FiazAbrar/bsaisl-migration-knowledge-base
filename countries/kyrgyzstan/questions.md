@@ -6,6 +6,8 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Is it open now, and who can go?
 
+- Did Pakistan sign a labour-cooperation MoU with Kyrgyzstan in July 2025, as a Pakistani recruiting agency claims, and does it give Pakistani workers a government channel Bangladeshis lack?
+
 - Why did BMET clearances for Kyrgyzstan stop in August 2025: a BMET or Ministry instruction, a Kyrgyz halt on permits or visas for Bangladeshis, or agencies stopping, and is there a written order?
 - Who received the 3,872 Kyrgyz work permits issued to Bangladeshis in 2026 when BMET cleared 11: renewals for workers already there, people who regularised in 2025, or new arrivals who left Bangladesh without BMET clearance?
 
@@ -42,6 +44,16 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 - What does a genuine Unified Permit's QR code open (which website, which details)?
 - Does the MFA hotline answer workers' questions in English?
+
+### Step 6: Orientation, BMET clearance and the flight
+
+- Do Kyrgyz employers expect Bangladeshi workers to speak some Russian, and does any BMET centre teach it before departure?
+
+### Step 7: After arrival
+
+- Is there a Bangladeshi community association in Bishkek that helps new arrivals and stranded workers, and who runs it?
+
+- Which mobile operator do Bangladeshi workers in Kyrgyzstan use, and what do a SIM and a monthly package cost?
 
 ### Scams
 
@@ -84,6 +96,8 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 - Where are the special centres for people awaiting expulsion, and does the Bangladesh Embassy in Tashkent visit them?
 
+- Have Bangladeshis who used forged permits bought from "legalisation" agents been prosecuted in Kyrgyzstan, or only fined and expelled?
+
 - What happens to a foreigner caught with a small amount of drugs (below "large"), and is he expelled?
 
 ### If you aren't paid
@@ -120,6 +134,10 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 - How do you apply for BMDC's Eligibility Certificate (form, fee, office), and must it be obtained before leaving for a 2026-27 admission?
 - Does BMDC accept a Kyrgyz Apostille on the degree instead of attestation by a Kyrgyz embassy?
 
+### Step 3: The study visa
+
+- What does a study visa (type S) cost on the e-Visa portal, and does the student or the university pay it?
+
 ### Step 4: Resident card after arrival
 
 - What does a student pay for the resident card in 2026, bank charges included?
@@ -136,9 +154,13 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Step 2: Apply on the e-visa portal
 
-- What does the portal actually charge a Bangladeshi for a 30-day single-entry tourist or business e-visa in November 2026?
+- Does the e-Visa portal or its bank add a card or service charge on top of the 3,589 som consular fee for a 30-day single-entry e-visa?
+
+- Can a refused tourist, business, study or family visa be challenged in court, as a refused Unified Permit can?
 
 ## Family
+
+- What does a 90-day family visa (type FF) cost on the e-Visa portal?
 
 - Is there a minimum salary or housing requirement for a worker sponsoring family, and what does a family resident card cost?
 - Have any Bangladeshi workers in Kyrgyzstan brought family on an FF visa?
@@ -197,7 +219,6 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### Step 1: Get a valid passport
 
 - Does the Embassy in Tashkent issue Travel Permits (one-way travel documents home) to Bangladeshis in Kyrgyzstan without a trip to Tashkent, at what fee, and how fast?
-- Does a worker need an Uzbek visa to reach the Embassy in Tashkent, or does it hold regular camps in Bishkek?
 - When an employer holds the passport, will the MVD or the Embassy get it back?
 
 ### Step 2: Get a certificate of no criminal record
@@ -282,14 +303,12 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 - Is Temirbek Erkinov still Bangladesh's Honorary Consul in Bishkek, and what are his office address and phone?
 - Is +998 93 000 9780 still the Embassy's 24-hour emergency number, and does it answer on WhatsApp?
 - How does a worker in Kyrgyzstan apply for an e-passport: does the Embassy hold regular camps in Bishkek, or must he travel to Tashkent (and does he need an Uzbek visa)?
-- Does the Embassy issue Travel Permits to Bangladeshis in Kyrgyzstan without a trip to Tashkent, at what fee, and how long does it take?
 - Does the Embassy attest powers of attorney and register births for Bangladeshis in Kyrgyzstan, and at what fee?
 - Does the Embassy have a labour wing or welfare officer for Kyrgyzstan, and does it take unpaid-wage complaints against Kyrgyz employers?
 
 ### Contacts in Kyrgyzstan
 
 - What are Kyrgyzstan's emergency numbers for police and ambulance, and do operators speak English?
-- What are the address and phone of the labour inspection in Bishkek, and does it take complaints in English?
 - Which Bishkek NGO or hotline takes trafficking and unpaid-wage cases from foreign men, and what is Legal Clinic Adilet's phone number?
 
 ### Contacts in Bangladesh

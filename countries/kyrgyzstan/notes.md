@@ -164,6 +164,14 @@ Research on 10 November 2026 by seven topic agents (prefixes below), merged with
 **What happens in practice (leads only)**
 - No source found on the channel Bangladeshis actually use. Pakistani government job postings for Bishkek garment work (35,000-37,000 som with free housing and food) surfaced in searches but belong to agent N's wage topic.
 
+## Writing and independent check (10-11 November 2026)
+
+- Gap agent K saved official texts from cbd.minjust.gov.kg with Firecrawl (Resolutions 312, 506, 600; Decrees 337 and 362; the 2026 budget law's minimum wage). Still not found: the general Unified Permit and resident card fees (Annex 5 of the Temporary Regulation), the quota orders for 2026 and 2027, the Law "On refugees".
+- doc.md was assembled from six parts written in parallel (Malaysia and Italy as the standard), then checked by independent verifiers: round 1 (7 verifiers, whole doc) 79 failures; round 2 6; coverage audit added 22 points and 9 Need to know questions; round 3 11; round 4 1; round 5 1 (two words), round 6 0.
+- Lead's fixes: R0001 logged (1 RP = 100 som, Kaktus) so every RP conversion has a source; a coverage edit that put a Need to know mid-paragraph was repaired; the "tourist visa can't be changed" misreading of V0045 (para 24 of the Temporary Regulation) corrected in Visit visa and Changing visa type; three duplicate Need to know questions removed.
+- Known weak points: why BMET clearances stopped in August 2025 (no notice found); the standard permit fee; real prices and pay in 2026 (news only); the Embassy in Tashkent's Travel Permit and death-repatriation procedures (its sites are broken).
+- The visa and permit rules come from a Temporary Regulation valid to 31 December 2026: recheck in January 2027.
+
 ## Pages we could not download
 
 Save every file into `countries/kyrgyzstan/manual/` (NOT `sources/`). Keep the real extension: PDF, "Save page as" HTML, or a dated screenshot (PNG). Skip anything you can't get and tell me which. Kyrgyz laws on cbd.minjust.gov.kg are being fetched by an agent, so they are not on this list.
