@@ -1,0 +1,104 @@
+/**
+ * @file
+ * Menu utilities.
+ *
+ */
+(function ($, Drupal) {
+
+    'use strict';
+
+    Drupal.behaviors.interno_theme_mainmenu = {
+        attach: function (context, settings) {
+
+
+            if ($('.navbar .modal .dropdown-item').length) {
+                //Apertura automatica voce pagina corrente
+                if ($('.navbar .modal .dropdown-item').hasClass('active')) {
+                    $('.navbar .modal .dropdown-item.active').closest('.dropdown-menu').addClass('show');
+                    $('.navbar .modal .dropdown-item.active').closest('.menu-item--expanded').addClass('show');
+                }
+
+                //Evita la chiusura del dropdown al click
+                $('.navbar .modal .dropdown-item').click(function (event) {
+                    $(this).closest('.dropdown-menu').addClass('d-block');
+                    $(this).closest('.menu-item--expanded').addClass('d-block');
+
+                });
+            }
+
+            if ($('.sidebar .nav-link').length) {
+                $('.sidebar .nav-link').each(function (index) {
+                    $(this).removeAttr('data-toggle');
+                    $(this).removeAttr('aria-expanded');
+                    $(this).removeAttr('aria-haspopup');
+                });
+            }
+
+            if ($('footer .nav-link').length) {
+                $('footer .nav-link').each(function (index) {
+                    $(this).removeAttr('data-toggle');
+                    $(this).removeAttr('aria-expanded');
+                    $(this).removeAttr('aria-haspopup');
+                });
+            }
+        }
+
+    };
+
+    // Drupal.behaviors.interno_theme_toolbar = {
+    //     attach: function (context, settings) {
+    //         //Set header height
+    //         interno_theme_fix_height_toolbar($);
+    //     },
+    // };
+
+})(jQuery, Drupal);
+
+jQuery(document).scroll(function () {
+  $ = jQuery;
+  var y = $(this).scrollTop();
+  if ($('.toolbar-horizontal').length || $('.toolbar-vertical').length) {
+  } else {
+    if (y > 200) {
+      $('body').addClass('reduced');
+      $('.header-top-fixed').addClass('reduced');
+    } else {
+      $('body').removeClass('reduced');
+      $('.header-top-fixed').removeClass('reduced');
+    }
+  }
+
+
+});
+
+// jQuery(window).resize(function () {
+//     //Toolbar
+//     $ = jQuery;
+//     if ($('#toolbar-administration .toolbar-item.is-active').length) {
+//         var active_element_toolbar = $('#toolbar-administration .toolbar-item.is-active');
+//         active_element_toolbar.click();
+//         setTimeout(function () {
+//             active_element_toolbar.click();
+//         }, 10);
+//     }
+//
+// });
+
+
+/**
+ * //Set height of header bar dynamically
+ *
+ * @param $
+ */
+// function interno_theme_fix_height_toolbar($) {
+//     if ($('.user-logged-in .header-top-second-1').length) {
+//         $('.user-logged-in .header-top-second-1').css('top', $('body').css('padding-top'));
+//
+//         $('.toolbar-item.trigger').click(function () {
+//             setTimeout(function () {
+//                 $('.user-logged-in .header-top-second-1').css('top', $('body').css('padding-top'));
+//             }, 10);
+//
+//         });
+//     }
+// }

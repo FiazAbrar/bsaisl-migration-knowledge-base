@@ -1,0 +1,105 @@
+/* styles.css */
+body {
+    background-color: #f8f9fa; /* Bootstrap default background color */
+}
+
+/*.container {
+    padding-top: 50px;  Adjust as needed
+}*/
+
+.text-center {
+    color: #333; /* Custom text color */
+}
+
+/*.img-fluid {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;  Center image horizontally
+}*/
+
+.btn {
+    margin-top: 10px; /* Spacing between buttons */
+}
+
+
+
+.bar {
+    fill: steelblue;
+    stroke: #2d67b1;
+    stroke-width: 1;
+}
+.bar.grey {
+    fill: grey;
+}
+.bar:hover {
+    fill: orange;
+}
+.axis-line {
+    stroke: #2863af;
+    stroke-width: 2;
+}
+.circle {
+    fill: steelblue;
+    stroke: #2b7cd3;
+    stroke-width: 5;
+    cursor: pointer;
+
+
+    
+}
+.circle-text {
+    font-family: sans-serif;
+  
+}
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 40px;
+    height: 25px;
+    padding: 5px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+
+
+ .bar {
+            fill: steelblue;
+            stroke: #2d67b1;
+            stroke-width: 1;
+        }
+        .bar.grey {
+            fill: grey;
+        }
+        .bar:hover {
+            fill: orange;
+        }
+        .axis-line {
+            stroke: #2863af;
+            stroke-width: 2;
+        }
+        .circle {
+            fill: steelblue;
+            stroke: #2b7cd3;
+            stroke-width: 5;
+            cursor: pointer;
+        }
+        .circle-text {
+            font-size: 12px;
+            font-family: sans-serif;
+        }
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: 40px;
+            height: 25px;
+            padding: 5px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 3px;
+            pointer-events: none;
+        }

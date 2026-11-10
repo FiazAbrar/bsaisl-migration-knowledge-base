@@ -1,0 +1,74 @@
+=== SHEET front
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+46304 |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+Le rimesse dei lavoratori verso l'estero |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+=== SHEET note
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+46304 |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+NOTA SULLA SEGNALAZIONE STATISTICA DELLE RIMESSE DEI LAVORATORI |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+I dati sulle "rimesse dei lavoratori" verso l'estero comprendono esclusivamente i trasferimenti internazionali di denaro tra due persone fisiche, effettuati tramite un istituto di pagamento o altro intermediario autorizzato, senza transitare su conti di pagamento intestati all’ordinante o al beneficiario (regolamento in denaro contante o strumenti ad esso assimilati).
+L'aggregato qui pubblicato corrisponde alla serie mensile BOP_BP6.M.N.IT.W1.S1W.S1.T.D.D752W._Z._Z._Z.EUR._T._X.N pubblicata in BDS (tavola TBP 60080).
+In conformità con la vigente regolamentazione, la Banca d'Italia rileva tramite la matrice dei conti le informazioni da banche residenti e istituti di pagamento italiani che prestano il servizio di rimessa di denaro. |  |  |  |  |  |  |  |  | 
+Da gennaio 2005 a dicembre 2015 la periodicità della rilevazione è stata mensile e la frequenza della pubblicazione trimestrale. Dal 2016 sia la rilevazione sia la pubblicazione hanno frequenza trimestrale.
+L’informazione segnalata riguarda gli importi delle rimesse e il numero di operazioni, disaggregate per provincia italiana di residenza del mittente e per stato estero di residenza del beneficiario.
+Il sistema di raccolta dati è operativo dal 2006 (dal 2010 per i regolamenti in contante tramite il canale bancario). Il primo anno di riferimento dei dati pubblicati è il 2005. I dati sul 2005 sono stati raccolti nella fase preparatoria del sistema di rilevazione; il dettaglio per provincia del 2005 è stato stimato in base alle informazioni raccolte nel 2006. Dal 2006 tutti i valori pubblicati corrispondono a quanto segnalato dagli operatori, senza soglia di rilevazione. A partire dal secondo trimestre del 2018, l’obbligo di segnalazione è stato esteso a nuove categorie di intermediari specializzati, che solo in parte aderivano alla segnalazione dei flussi su base volontaria. Ciò ha determinato un salto di serie, in particolare nei flussi bilaterali relativi ad alcuni paesi asiatici.
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+=== SHEET trimestrali_paese
+anno | trimestre | codice_paese | descrizione_paese | importo (milioni di euro)
+year | quarter | country_code | country_name | value (EUR millions)
+2016 | 1 | AD | ANDORRA | 0
+2016 | 1 | AE | EMIRATI ARABI UNITI | 1.0884509999999998
+2016 | 1 | AF | AFGHANISTAN | 0.828349
+2016 | 1 | AG | ANTIGUA E BARBUDA | 1.1669000000000001E-2
+2016 | 1 | AI | ANGUILLA | 1.4499999999999999E-3
+2016 | 1 | AL | ALBANIA | 27.907416000000001
+2016 | 1 | AM | ARMENIA | 0.21390400000000001
+2016 | 1 | AO | ANGOLA | 3.6072E-2
+2016 | 1 | AR | ARGENTINA | 2.4940419999999999
+2016 | 1 | AS | AMERICAN SAMOA | 2.2820000000000002E-3
+2025 | 1 | BD | BANGLADESH | 396.536
+2025 | 2 | BD | BANGLADESH | 438.411
+2025 | 3 | BD | BANGLADESH | 435.96899999999999
+2025 | 4 | BD | BANGLADESH | 414.65199999999999
+=== SHEET annnuali_paese_provincia
+descrizione_regione | codice_provincia | descrizione_provincia | codice_paese | descrizione_paese | anno_2005 | anno_2006 | anno_2007 | anno_2008 | anno_2009 | anno_2010 | anno_2011 | anno_2012 | anno_2013 | anno_2014 | anno_2015 | anno_2016 | anno_2017 | anno_2018 | anno_2019 | anno_2020 | anno_2021 | anno_2022 | anno_2023 | anno_2024 | anno_2025
+region_name | province_code | province_name | country_code | country_name | year_2005 | year_2006 | year_2007 | year_2008 | year_2009 | year_2010 | year_2011 | year_2012 | year_2013 | year_2014 | year_2015 | year_2016 | year_2017 | year_2018 | year_2019 | year_2020 | year_2021 | year_2022 | year_2023 | year_2024 | year_2025
+ABRUZZO | 155 | CHIETI | AF | AFGHANISTAN | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2.3E-2 | 1.0999999999999999E-2 | 1.0999999999999999E-2 | 2.3E-2 | 2.8000000000000001E-2 | 3.5999999999999997E-2 | 2.9000000000000001E-2
+ABRUZZO | 155 | CHIETI | AL | ALBANIA | 0.59 | 0.80200000000000005 | 0.81599999999999995 | 0.71599999999999997 | 0.65700000000000003 | 0.747 | 0.69499999999999995 | 0.66800000000000004 | 0.70599999999999996 | 0.77600000000000002 | 0.78900000000000003 | 0.73255211114883423 | 0.73299998044967651 | 0.82099997997283936 | 0.873 | 1.099 | 1.1160000000000001 | 0.995 | 0.94899999999999995 | 1.1000000000000001 | 1.075
+ABRUZZO | 155 | CHIETI | DZ | ALGERIA | 0 | 1E-3 | 1E-3 | 0 | 8.9999999999999993E-3 | 8.0000000000000002E-3 | 1.2E-2 | 8.9999999999999993E-3 | 7.0000000000000001E-3 | 3.0000000000000001E-3 | 3.0000000000000001E-3 | 2.9981669504195001E-3 | 1.0000000474975001E-3 | 2.0000000949949E-3 | 0 | 1E-3 | 1E-3 | 1E-3 | 1E-3 | 1E-3 | 0
+ABRUZZO | 155 | CHIETI | AD | ANDORRA | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1E-3 | 1E-3
+ABRUZZO | 155 | CHIETI | AG | ANTIGUA E BARBUDA | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4.9999998882412997E-3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ABRUZZO | 155 | CHIETI | SA | ARABIA SAUDITA | 0 | 1E-3 | 1E-3 | 2E-3 | 0 | 1E-3 | 3.0000000000000001E-3 | 0 | 1E-3 | 2E-3 | 3.0000000000000001E-3 | 1.9987779669463999E-3 | 1.0000000474975001E-3 | 1.0000000474975001E-3 | 0 | 2E-3 | 0 | 2E-3 | 2E-3 | 0 | 1E-3
+ABRUZZO | 155 | CHIETI | AR | ARGENTINA | 0.311 | 0.41499999999999998 | 0.41799999999999998 | 0.46600000000000003 | 0.439 | 0.35899999999999999 | 0.317 | 0.19900000000000001 | 0.124 | 0.124 | 8.7999999999999995E-2 | 0.11792790144681931 | 0.12600000202655789 | 0.12800000607967379 | 0.127 | 9.8000000000000004E-2 | 0.111 | 0.10199999999999999 | 0.105 | 0.13 | 0.13
+ABRUZZO | 155 | CHIETI | AM | ARMENIA | 3.0000000000000001E-3 | 4.0000000000000001E-3 | 0 | 0 | 0 | 0 | 6.0000000000000001E-3 | 3.0000000000000001E-3 | 1E-3 | 0 | 7.0000000000000001E-3 | 1.9987779669463999E-3 | 3.000000026077E-3 | 1.0000000474975001E-3 | 1E-3 | 6.0000000000000001E-3 | 1E-3 | 1E-3 | 1E-3 | 0 | 2E-3
+ABRUZZO | 155 | CHIETI | AW | ARUBA | 0 | 0 | 1.7000000000000001E-2 | 4.0000000000000001E-3 | 1E-3 | 0 | 8.0000000000000002E-3 | 1E-3 | 0 | 0 | 0 | 1.9987779669463999E-3 | 1.0000000474975001E-3 | 1.0000000474975001E-3 | 1E-3 | 2E-3 | 1E-3 | 0 | 0 | 0 | 0
+ABRUZZO | 155 | CHIETI | AU | AUSTRALIA | 2.5999999999999999E-2 | 3.2000000000000001E-2 | 3.1E-2 | 5.0999999999999997E-2 | 4.5999999999999999E-2 | 6.2E-2 | 5.6000000000000001E-2 | 3.4000000000000002E-2 | 3.4000000000000002E-2 | 3.4000000000000002E-2 | 2.5000000000000001E-2 | 2.19865571707487E-2 | 1.2000000104308101E-2 | 2.60000005364418E-2 | 1.2E-2 | 1.4999999999999999E-2 | 1.2E-2 | 1.9E-2 | 0.01 | 7.0000000000000001E-3 | 1.0999999999999999E-2
+=== SHEET mensili_2005_2015
+data | codice_paese | descrizione_paese | importo (milioni di euro) | 
+20050131 | AD | ANDORRA | 0 | 
+20050131 | AE | EMIRATI ARABI UNITI | 0.25 | 
+20050131 | AF | AFGHANISTAN | 0 | 
+20050131 | AG | ANTIGUA E BARBUDA | 0.01 | 
+20050131 | AL | ALBANIA | 8.1300000000000008 | 
+20050131 | AM | ARMENIA | 0.02 | 
+20050131 | AO | ANGOLA | 0.03 | 
+20050131 | AR | ARGENTINA | 1.68 | 
+20050131 | AT | AUSTRIA | 0.27 | 
+20050131 | AU | AUSTRALIA | 0.27 | 
+20050131 | AW | ARUBA | 0.01 | 

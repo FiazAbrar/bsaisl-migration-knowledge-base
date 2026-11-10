@@ -1,0 +1,113 @@
+$(document).ready(function(e) {
+	
+
+	$('.autocomplete').typeahead({
+		autoSelect:false,
+        minLength: 3,
+        maxLength:false,
+        source: function (query, result) {
+        	
+        	if (query.length > 15) {
+        			return "[]";
+        		} else {
+        			   $.ajax({
+        	                url: contextRoot + "suggester/" + query.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g,' '),
+        					//data: 'query=' + query,            
+        	                dataType: "json",
+        	                type: "GET",
+        	                success: function (data) {
+        						result($.map(data, function (item) {
+        							return item;
+        	                    }));
+        	                }
+        	            });
+        		}
+        	
+        }
+    });
+
+
+	$('.it-date-datepicker').datepicker({
+	      inputFormat: ["dd/MM/yyyy"],
+	      outputFormat: 'dd/MM/yyyy',
+	    });
+
+
+	//modale per visualizzare testo cercato su albero articoli
+	$('#modalSearchedWords').on('shown.bs.modal', function () {
+		  $('#myInput').trigger('focus')
+		}) 
+	
+	//Modali collegate ad un controller
+	$('body').on('click', '[data-toggle="modal"]', function(){
+        $($(this).data("target")+' .modal-body').load($(this).data("href"));
+    });  
+	
+	
+//	"use strict";
+//
+//	//Gestione Device e Debug
+//	//checkDevice.browser(); //NON FUNZIONA
+//
+//	//Gestione virtualhost e ambienti
+//	//widget.virtualhost('2', ['16', '5'], ['', '']);
+//	
+//	//suggester
+//	widget.autocomplete('.autocomplete');
+//	
+//	//Gestione Calendario Picker
+//	widget.calendario('.datepicker');
+//	
+//	//Gestione data di oggi
+//	widget.data_oggi('#data_oggi', '<i class="fa fa-clock-o" aria-hidden="true"></i>');
+//	
+//	//Gestione icone menu
+//	widget.icon_menu('header nav ul.nav', '' + '/static/images/icone/', "icon_", "svg", '768');
+//	
+//	//Gestione tooltip
+//	widget.tooltip('.tooltip_widget');
+//	
+//	// Gestione Scrolling Header
+//	widget.header_scroll('500','header', '110px', '.date', '.logo', '30%', '1em', 'nav', '70%', '#0066cc');
+//	
+//	//Gestione stampa delle pagine
+//	widget.print('container', 'print_page');
+//	
+//	//Gestione multi emettitore
+//	widget.multi_emettitore('.titolo_emettitore')
+//	
+//	//Gestione link atto
+//	//widget.link_atto('.singolo_risultato')
+//	
+//	//Gestione sidebar tools del dettaglio atto 
+//	widget.sidebar_tools(["guida_linea", "collegamento_permanente", "rubriche"], '#button_sidebar_tools_funzioni', 'sidebar_tools_funzioni', 'cbp-spmenu-open', 'overlay_sidebar_tools_funzioni', ".modal-body", ".modal-header", ".torna_su");
+//	widget.sidebar_tools(["lavori_preparatori", "aggiornamenti_atto", "atti_aggiornati", "circolari", "note_atto", "relazioni", "aggiornamenti_titolo", "aggiornamenti_struttura"], '#button_sidebar_tools_approfondimento', 'sidebar_tools_approfondimento', 'cbp-spmenu-open', 'overlay_sidebar_tools_approfondimento', ".modal-body", ".modal-header", ".torna_su");
+//	widget.sidebar_tools(["", ""], '#button_sidebar_tools_risultato', 'sidebar_tools_risultato', 'cbp-spmenu-open', 'overlay_sidebar_tools_risultato', ".modal-body", ".modal-header", ".torna_su");
+//	
+//	widget.iframe_modale(["aggiornamenti_articolo"], ".modal-body", ".modal-header", ".torna_su");
+//	
+//	//Gestione compressione export atto
+//	widget.compressione_stampa('#anteprima', '#anteprima_textarea');
+//	
+//	//Gestione voce menu selezionata
+//	widget.voce_menu_selezionata('nav.navbar');
+//	
+//	//Gestione scrolling all'header
+//	widget.scrollUp();
+//	
+//	//Gestione offset link con le ancore (per la parte statica)
+//	widget.link_ancora_offset('a', 'data-delay-anchor', '130');
+//	
+//	//Gestione integrazione mappa con regioni italiane (include)
+//	widget.include_html('#container_load_html', 'regione')
+//		
+	//Gestione mappa
+	widget.mappa_regioni_italia('mappa', 'regione');
+//	
+	//Gestione selezione regioni MFR
+	widget.selezione_regioni('#seleziona_tutti', '#deseleziona_tutti');
+//	
+//	//Gestione errore in versione DEMO
+//	demo.errore_sessione('#errore_sessione', 'data-args');
+	
+});

@@ -1,0 +1,48 @@
+/**
+ * @file
+ * Global utilities.
+ *
+ */
+(function ($, Drupal) {
+
+    'use strict';
+
+    Drupal.behaviors.interno_theme_twitter_global = {
+        attach: function (context, settings) {
+            if ($('.node--type-tweet .header-tweet .timestamp').length) {
+                $('.node--type-tweet .header-tweet .timestamp', context).once('interno_theme_twitter').each(function (index, value) {
+                    var created = $(value).data('created');
+                    $(this).html(internoTimeAgo(created))
+                });
+            }
+        }
+    };
+
+    //Get time ago
+    function internoTimeAgo(created) {
+        var time_ago;
+        var HOUR_TIME = 3600 * 1000;
+        var DAY_TIME = 86400 * 1000;
+
+        var lang = document.documentElement.lang;
+
+        var current_time = new Date();
+        var created_date = new Date(created * 1000);
+
+        var diff_time = current_time - created_date;
+
+        if (diff_time < HOUR_TIME) {
+            time_ago = Drupal.t('%time minutes ago', {'%time': new Date(diff_time).getMinutes()});
+        } else if ((diff_time > HOUR_TIME) && diff_time < (HOUR_TIME * 2)) {
+            time_ago = Drupal.t('%time hour ago', {'%time': new Date((diff_time - HOUR_TIME)).getHours()});
+        } else if (diff_time < DAY_TIME) {
+            time_ago = Drupal.t('%time hours ago', {'%time': new Date((diff_time - HOUR_TIME)).getHours()});
+        } else {
+            time_ago = created_date.getDate() + ' ' + created_date.toLocaleString(lang, {month: "short"});
+        }
+
+        return time_ago;
+    }
+
+
+})(jQuery, Drupal);

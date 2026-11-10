@@ -1,0 +1,241 @@
+function onloadComponent(rootSite, dato, lastlevel) {
+  graficoBilancio(rootSite, dato, lastlevel);
+}
+
+function graficoBilancio(rootSite, dato, lastlevel) {
+  var ctx = jQuery("#myChart, #myCharttime").get(0).getContext("2d");
+  var originalData = dato;
+
+  const tooltipFunction = function (tooltipModel) {
+    // Tooltip element
+    const tooltipEl = document.getElementById("chartjs-tooltip");
+
+    // Nascondi il tooltip se non è visibile
+    const tooltip = tooltipModel;
+    if (tooltip.opacity === 0) {
+      tooltipEl.style.opacity = 0;
+      return;
+    }
+
+    // Imposta il contenuto del tooltip
+    // Imposta il contenuto del tooltip
+    if (tooltip.body) {
+      const titleLines = tooltip.title || [];
+      const bodyLines = tooltip.body.map((b) => b.lines);
+
+      // Aggiungi dati personalizzati
+      const dataIndex = tooltip.dataPoints[0].index;
+      const datasetIndex = tooltip.dataPoints[0].datasetIndex;
+
+      const additionalData =
+        this._chart.config.data.datasets[datasetIndex].numericLabel[dataIndex];
+      const title =
+        this._chart.config.data.datasets[datasetIndex].label[dataIndex];
+      let innerHtml = "<thead>";
+
+      innerHtml += `<tr><th>${title}</th></tr>`;
+
+      innerHtml += "</thead><tbody>";
+      bodyLines.forEach((body, i) => {
+        const colors = tooltip.labelColors[i];
+        const style = `background:${colors.backgroundColor}; border-color:${colors.borderColor}`;
+        const span = `<span style="${style}"></span>`;
+        innerHtml += `<tr><td>${span}  ${additionalData}</td></tr>`;
+      });
+      innerHtml += "</tbody>";
+
+      tooltipEl.innerHTML = `<table>${innerHtml}</table>`;
+    }
+
+    // Calcola la dimensione del tooltip
+    const tooltipRect = tooltipEl.getBoundingClientRect();
+
+    const position = this._chart.canvas.getBoundingClientRect();
+
+    let left = tooltip.caretX + tooltipRect.width + window.scrollX;
+    let top = tooltip.caretY + tooltipRect.height + window.scrollY;
+
+    // Adegua la posizione per evitare che il tooltip vada fuori dal canvas
+    if (left + tooltipRect.width > position.right) {
+      left = tooltip.left;
+    }
+    if (top + tooltipRect.height > position.bottom) {
+      top = tooltip.top;
+    }
+
+    // Applica la posizione calcolata
+    tooltipEl.style.opacity = 1;
+    tooltipEl.style.left = `${left}px`;
+    tooltipEl.style.top = `${top}px`;
+    tooltipEl.style.padding = tooltip.padding + "px " + tooltip.padding + "px";
+    tooltipEl.style.pointerEvents = "none";
+  };
+
+  // Trasforma originalData in array se è un oggetto
+  let dataArray = Array.isArray(originalData)
+    ? originalData
+    : Object.values(originalData);
+
+  const chartData = {
+    labels: dataArray.map((item) => item.label),
+    datasets: [
+      {
+        data: dataArray.map((item) => parseFloat(item.value)),
+        backgroundColor: dataArray.map((item) => item.color),
+        hoverBackgroundColor: dataArray.map((item) => item.highlight),
+
+        // Aggiungi qui i dati aggiuntivi
+        azione: dataArray.map((item) => item.azione || 0),
+        sezione: dataArray.map((item) => item.sezione || 0),
+        id: dataArray.map((item) => item.id || 0),
+        nv: dataArray.map((item) => item.nv || 0),
+        fv: dataArray.map((item) => item.fv || 0),
+        group: dataArray.map((item) => item.group || 0),
+        anno: dataArray.map((item) => item.anno || 0),
+        haslink: dataArray.map((item) => item.haslink || 0),
+        numericLabel: dataArray.map((item) => item.numericLabel || 0),
+        label: dataArray.map((item) => item.label || ""),
+      },
+    ],
+  };
+
+  const options = {
+    legend: false,
+    responsive: false,
+    animation: {
+      animateRotate: true,
+      animateScale: true,
+      easing: "easeInOutExpo",
+
+      onProgress: function (animation) {
+        jQuery(".preloader").toggleClass();
+      },
+      onComplete: function (animation) {
+        jQuery(".titolosezionebilancio").css("opacity", "1");
+      },
+    },
+
+    tooltips: {
+      enabled: false,
+      //  position: "nearest",
+      custom: tooltipFunction,
+    },
+
+    cutout: "60%",
+  };
+
+  grafico = new Chart(ctx, {
+    type: "doughnut",
+    data: chartData,
+    options: options,
+  });
+
+  jQuery("#myChart").click(function (evt) {
+    var activeElement = grafico.getElementAtEvent(evt);
+    if (activeElement.length > 0) {
+      var firstElement = activeElement[0];
+      var datasetIndex = firstElement._datasetIndex;
+      var elementIndex = firstElement._index;
+      var dataset = grafico.data.datasets[datasetIndex];
+
+      // Assumi che ogni attributo (azione, sezione, ecc.) sia un array nel dataset
+      var azione = dataset.azione[elementIndex] || 0;
+      var sezione = dataset.sezione[elementIndex] || 0;
+      var id = dataset.id[elementIndex] || 0;
+      var nv = dataset.nv[elementIndex] || 0;
+      var fv = dataset.fv[elementIndex] || 0;
+      var group = dataset.group[elementIndex] || 0;
+      var anno = dataset.anno[elementIndex] || 0;
+      var haslink = dataset.haslink[elementIndex] || 0;
+
+      if (haslink === 1) {
+        lastlevel = 0;
+      }
+      if (lastlevel !== 1 && group === 0) {
+        window.location.href =
+          "?anno=" +
+          anno +
+          "&sr=" +
+          sezione +
+          "&cap=" +
+          id +
+          "&az=" +
+          azione +
+          "&nv=" +
+          nv +
+          "&fv=" +
+          fv;
+      }
+      // ajaxBilancio(rootSite, id, grafico); // Se necessario
+    }
+  });
+
+  jQuery("#myCharttime").click(function (evt) {
+    var activeElement = grafico.getElementAtEvent(evt);
+    if (activeElement.length > 0) {
+      var firstElement = activeElement[0];
+      var datasetIndex = firstElement._datasetIndex;
+      var elementIndex = firstElement._index;
+      var dataset = grafico.data.datasets[datasetIndex];
+
+      // Assumi che ogni attributo (azione, sezione, ecc.) sia un array nel dataset
+      var azione = dataset.azione[elementIndex] || 0;
+      var sezione = dataset.sezione[elementIndex] || 0;
+      var id = dataset.id[elementIndex] || 0;
+      var nv = dataset.nv[elementIndex] || 0;
+      var fv = dataset.fv[elementIndex] || 0;
+      var group = dataset.group[elementIndex] || 0;
+      var anno = dataset.anno[elementIndex] || 0;
+      var haslink = dataset.haslink[elementIndex] || 0;
+
+      if (haslink === 1) {
+        lastlevel = 0;
+      }
+      if (lastlevel !== 1 && group === 0) {
+        window.location.href =
+          "?anno=" +
+          anno +
+          "&sr=" +
+          sezione +
+          "&cap=" +
+          id +
+          "&az=" +
+          azione +
+          "&nv=" +
+          nv;
+      }
+      // ajaxBilancio(rootSite, id, grafico); // Se necessario
+    }
+    //ajaxBilancio(rootSite, activePoints[0].id, grafico);
+  });
+}
+
+function alertX(data) {
+  alert(data);
+}
+function _resetChartData(chart, new_segments) {
+  // remove all the segments
+  while (chart.segments.length) {
+    chart.removeData();
+  }
+  // add the new data fresh
+  jQuery.each(JSON.parse(new_segments), function (segment, index) {
+    chart.addData(index, segment);
+  });
+}
+
+function ajaxBilancio(rootSite, id, grafico) {
+  var page = rootSite + "modules/mod_bilancio/helper.php";
+
+  jQuery.get(
+    page,
+    {
+      cap: id,
+    },
+    function (data) {
+      _resetChartData(grafico, data);
+
+      grafico.update();
+    }
+  );
+}

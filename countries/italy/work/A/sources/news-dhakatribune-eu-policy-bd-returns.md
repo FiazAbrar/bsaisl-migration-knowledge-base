@@ -1,0 +1,131 @@
+Reliable Brokers
+
+Online Investing
+
+Alerts & Analysis
+
+Easy Trading
+
+# Strict EU migration policy: More Bangladeshi asylum seekers likely to be sent back from Europe
+
+According to the European Commission, Bangladesh now ranks third in terms of political asylum applications 
+
+Bangladeshi migrants deported from Greece, Italy, and Cyprus arrive in Dhaka on an EU-chartered flight, with 29 individuals returned under the bloc’s tougher migration policy on Thursday, September 25, 2025. Photo: Bangla Tribune
+
+[![Saddif Ovee](https://www.dhakatribune.com/profile/19694/picture/)](https://www.dhakatribune.com/author/saddif-ovee)[Saddif Ovee](https://www.dhakatribune.com/author/saddif-ovee)
+
+Publish : 27 Sep 2025, 10:05 PMUpdate : 10 Nov 2025, 06:00 PM
+
+The European Union’s (EU) tougher migration policy is leading to the swift disposal of political asylum applications. According to the European Commission, Bangladesh now ranks third in terms of political asylum applications. Under the new migration policy, rejected applicants will be sent back to their home countries. With a 96% rejection rate for Bangladeshi asylum seekers, officials anticipate that deportations from Europe will rise.
+
+## **First return flight in March**
+
+This year, the European Border and Coast Guard Agency (Frontex) carried out its first chartered deportation flight to Dhaka in March, sending back more than 60 Bangladeshis.
+
+The Bangladesh Embassy in Greece reported that deportees on that flight came from several EU countries--two from Italy, nine from Romania, two from the Czech Republic, three from France, two from Malta, four from Spain, two from Sweden, and 20 from Cyprus. 
+
+All of them had their asylum claims rejected. This marked the first forced return flight of the year for Bangladeshi nationals.
+
+One returnee from Greece said he had been detained in a camp in Athens for seven to eight months, where thousands of Bangladeshis remain in custody.
+
+## **Another flight brings back 29 Bangladeshis**
+
+According to sources at the Ministry of Foreign Affairs in Dhaka, on Thursday, a further 29 Bangladeshis were returned from Greece, Italy, and Cyprus to Bangladesh on an EU-chartered flight. 
+
+The flight, which transited through Islamabad, arrived in Dhaka at 8am on Thursday. Among the returnees, 16 were from Italy, nine from Greece, and four from Cyprus. While these 29 have arrived in Dhaka, it is not yet known when the remaining individuals will return.
+
+The Bangladesh Embassy in Italy reported that of the 16 deportees from Italy, 13 had been involved in various crimes, including robbery, pickpocketing, theft, and drug-related offences.
+
+Bangladeshis are also being deported from the United Kingdom. On August 29, under the supervision of the UK Home Office, nine Bangladeshis were returned on a chartered flight. 
+
+However, detailed information about them has not been released by immigration authorities. This was the first deportation flight from the UK involving Bangladeshi nationals.
+
+## **What the EU’s tougher migration policy entails**
+
+After months of discussion, the European Union (EU) unveiled a new plan last March to expedite the return of irregular migrants to their home countries. In recent years, the EU has been under pressure to tighten its migration policies. 
+
+The European Commission has proposed the creation of “return centres” or “return hubs.” While some member states support the initiative, human rights organizations have strongly criticized it.
+
+At present, fewer than 20% of irregular migrants in EU member states are deported. To increase this rate, Brussels is urging member states to take swift action.
+
+Under the EU’s plan, member states will be allowed to establish migrant centres outside the EU. Individuals whose asylum applications have been rejected, and who are under a legal obligation to leave, will be sent to these new return hubs. The EU itself will not operate the centres, leaving the responsibility to member states. 
+
+The legal framework of the centres will comply with international law. Those who refuse to leave Europe may face measures such as sanctions, confiscation of identity documents and detention. Decisions made in one member-state will also be enforceable in others. For example, a ruling in Austria will apply in Spain.
+
+Regarding the EU’s new plan, an official at the Bangladesh Embassy in Greece, speaking on condition of anonymity, said that many asylum seekers currently move to another country after their applications are rejected. “Under the new rules, that option will no longer be available,” the official added.
+
+## **Why the EU is tightening migration rules**
+
+Sources at the Ministry of Foreign Affairs say that European countries began reforming their asylum policies following the large influx of migrants. After several years of effort, the European Parliament approved the policy reforms last year. 
+
+Under this framework, political asylum applications will be processed more quickly, enabling the rapid return of rejected applicants to their home countries.
+
+Migration expert Dr Mohammad Jalal Uddin Sikder, a lecturer at North South University, told Bangla Tribune: “Post-Covid, countries facing economic downturns had to cut their budgets. Those residing as refugees or applying for political asylum require additional social services and budget allocations, which the EU cannot fully provide.”
+
+He added: “As a result, the processing for legally admitted migrants is slow, while asylum seekers are deprived of social services.”
+
+He noted that the Russia–Ukraine war has increased military budgets in the EU, as countries must fund both Nato obligations and the ongoing conflict in Ukraine, placing additional pressure on member states.
+
+European Commission President Ursula von der Leyen on September 10 said the process of sending back rejected asylum seekers to their home countries needs to be expedited.
+
+She said: “We must be more responsible in returning rejected asylum seekers to their home countries. It should not be the case that only 20% of those who have no legal right to remain in Europe are being returned.”
+
+## **96% of Bangladeshi political asylum applications rejected**
+
+According to EU data, 96% of political asylum applications by Bangladeshis are rejected. Between January 1, 2024 and June 2025, a total of 57,550 Bangladeshi citizens applied for asylum for the first time. The success rate for Bangladeshi applicants in 2024 was only 4%. As of May 2025, 45,129 Bangladeshi applications were still pending.
+
+The data further reveal that in June this year, France, Italy, and Greece increased the rate of processing asylum claims. Officials believe that the faster the decisions are made, the higher the number of Bangladeshis who will eventually be repatriated.
+
+On September 10, Home Affairs Adviser Lt Gen (retd) Md Jahangir Alam Chowdhury met with European Commission Director for Migration and Asylum Michael Shotter. The director made it known that anti-immigration political pressures inside EU member states are steadily rising.
+
+He expressed concern over the significant number of Bangladeshi citizens attempting to enter EU countries illegally and urged Bangladesh to work with the EU to address the issue.
+
+Michael Shotter also held a meeting at the Ministry of Foreign Affairs on migration issues, where he again discussed the matter of returning illegal migrants. However, the ministry did not make any formal statement regarding the discussion.
+
+A responsible official at the ministry said Bangladesh has always discouraged illegal migration.
+
+Regarding the meeting, on September 11, the European Union mission in Bangladesh stated that migration management is a top priority for the EU. It said the union supports safe and dignified regular migration for Bangladeshis and is intensifying efforts to prevent illegal entry into Europe.
+
+The mission added that this week, a high-level EU delegation, including representatives from the European Commission, the EU border control agency, and member states, is visiting Dhaka. Discussions are focusing on repatriation and reintegration, legal processes, border control, visa issuance, and measures against human trafficking and smuggling.
+
+From 2023 up to last August, more than 3,500 Bangladeshis have been returned from Europe, with around 1,500 of them repatriated over the past year from various European countries. The highest numbers have come from Italy, Cyprus, Romania, Germany, Greece, and Malta.
+
+The non-governmental organization Brac has been working with Frontex on cases involving Bangladeshis returning from Europe. Asked about the returnees, Shariful Hasan, associate director of Brac’s Migration and Youth Platform, declined to provide specific figures.
+
+However, he said: “Bangladesh does not encourage irregular migration. That is why in 2017, the Bangladesh government signed a Standard Operating Procedure (SOP) with the European Union. Under this framework, Brac works jointly with the EU and Frontex to provide counselling and economic support for the welfare and sustainable reintegration of Bangladeshis who return.”
+
+He added: “In this way, over the past few years, about 3,500 Bangladeshis returning from Europe have received financial support. Anyone newly returning will also receive this assistance. However, everyone should refrain from irregular migration or attempting to go abroad by sea. Bangladesh ranks first in the world for people trying to reach Europe irregularly across the Mediterranean, which is a matter of national shame.”
+
+#### Topics:
+
+[**Immigration**](https://www.dhakatribune.com/topic/immigration)[**foreign affairs**](https://www.dhakatribune.com/topic/foreign-affairs)
+
+[Read More](//www.dhakatribune.com/bangladesh)
+
+## [E-immigration launched at Shahjalal airport arrival counters, easing passenger hassle](//www.dhakatribune.com/bangladesh/423544/e-immigration-launched-at-shahjalal-airport "E-immigration launched at Shahjalal airport arrival counters, easing passenger hassle")
+
+## [Govt appoints Khondker Talha as Bangladesh Ambassador to France](//www.dhakatribune.com/bangladesh/foreign-affairs/419890/govt-appoints-khondker-talha-as-bangladesh "Govt appoints Khondker Talha as Bangladesh Ambassador to France")
+
+## [Cooke: Bangladesh, UK to deepen partnership on trade, migration, Rohingya response](//www.dhakatribune.com/bangladesh/foreign-affairs/418658/sarah-cooke-bangladesh-uk-to-deepen-partnership "Cooke: Bangladesh, UK to deepen partnership on trade, migration, Rohingya response")
+
+## [India president congratulates President Mirza Fakhrul](//www.dhakatribune.com/bangladesh/foreign-affairs/418026/india-president-congratulates-president-mirza "India president congratulates President Mirza Fakhrul")
+
+## [Bangladesh, Canada seek to strengthen defense ties](//www.dhakatribune.com/bangladesh/foreign-affairs/417781/bangladesh-canada-seek-to-strengthen-defense-ties "Bangladesh, Canada seek to strengthen defense ties")
+
+## [Foreign minister: Govt yet to decide on PMs’ BRICS Summit attendance](//www.dhakatribune.com/bangladesh/foreign-affairs/417155/foreign-minister-govt-yet-to-decide-on-pms%E2%80%99-brics "Foreign minister: Govt yet to decide on PMs’ BRICS Summit attendance")
+
+[Latest News](javascript:)
+
+## [Haor Express coach set on fire in Netrokona](//www.dhakatribune.com/bangladesh/crime/424202/haor-express-coach-set-on-fire-in-netrokona "Haor Express coach set on fire in Netrokona")
+
+## ['Chander Gari' set ablaze in Khagrachhari, panic grips town](//www.dhakatribune.com/bangladesh/nation/424201/chander-gari-set-ablaze-in-khagrachhari-panic "'Chander Gari' set ablaze in Khagrachhari, panic grips town")
+
+## [Adviser: Hasina must return through prisoner exchange deal](//www.dhakatribune.com/bangladesh/424200/adviser-hasina-must-return-through-prisoner "Adviser: Hasina must return through prisoner exchange deal")
+
+## [17-year-old boy injured in crude bomb blast in Malibagh](//www.dhakatribune.com/bangladesh/dhaka/424199/17-year-old-boy-injured-in-crude-bomb-blast-in "17-year-old boy injured in crude bomb blast  in Malibagh")
+
+## [Can Bangladesh fulfil its pledge to deploy 25,000 midwives by 2030?](//www.dhakatribune.com/bangladesh/424198/can-bangladesh-fulfil-its-pledge-to-deploy-25-000 "Can Bangladesh fulfil its pledge to deploy 25,000 midwives by 2030?")
+
+Top Brokers
+
+![Dhaka Tribune Bangla](https://ecdn.dhakatribune.net/contents/themes/public/style/images/logo.png)[বাংলা হোমপেজ](javascript:)

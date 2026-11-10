@@ -1,0 +1,8851 @@
+
+
+Mediterranean | Missing Migrants Project
+
+      Skip to main content
+
+Title
+
+Migration Route
+
+Coordinates
+
+Location of Death
+
+Region of incident
+
+Website Date
+
+2025.MMP0002          
+
+Central Mediterranean          
+
+34.72457936
+, 
+11.1402137
+
+Unspecified location off Kerkennah, Tunisia          
+
+Mediterranean          
+
+2025-01-02
+
+2025.MMP0002          
+
+Central Mediterranean          
+
+34.732678
+, 
+11.460496
+
+3 nautical miles from the coast of Al-Ataya on the island of Kerkennah, Tunisia          
+
+Mediterranean          
+
+2025-01-01
+
+2025.MMP0003          
+
+Western Mediterranean          
+
+35.10232464
+, 
+-1.870627037
+
+Unspecifed location in Tlemcen, Algeria          
+
+Mediterranean          
+
+2025-01-01
+
+2025.MMP0003          
+
+Western Mediterranean          
+
+35.10232464
+, 
+-1.870627037
+
+Unspecifed location off Tlemcen, Algeria          
+
+Mediterranean          
+
+2025-01-01
+
+2025.MMP0004          
+
+Western Mediterranean          
+
+35.905348
+, 
+-5.286363
+
+Near Santa Catalina cemetery, Ceuta, Spain          
+
+Mediterranean          
+
+2025-01-04
+
+2025.MMP0005          
+
+Western Mediterranean          
+
+37.4548949
+, 
+2.085744377
+
+Unspecified location in the Mediterranean - departure from Tipaza, Algeria on 29 or 31 dec          
+
+Mediterranean          
+
+2025-01-04
+
+2025.MMP0006          
+
+Western Mediterranean          
+
+35.888957
+, 
+-5.293273
+
+Off the coast of Sarchal Beach, near Ceuta, Spain          
+
+Mediterranean          
+
+2025-01-08
+
+2025.MMP0007          
+
+Western Mediterranean          
+
+38.740007
+, 
+1.42941
+
+Remains found near the beach of Es Cavall d'en Borràs, Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-01-07
+
+2025.MMP0015          
+
+Central Mediterranean          
+
+31.21220785
+, 
+16.53750655
+
+Remains found at Sirte, Libya          
+
+Mediterranean          
+
+2025-01-08
+
+2025.MMP0016          
+
+Eastern Mediterranean          
+
+32.09560468
+, 
+23.99641558
+
+Remains found at Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-01-09
+
+2025.MMP0017          
+
+Central Mediterranean          
+
+32.7966551
+, 
+12.57415548
+
+Remains found at Surman, Libya          
+
+Mediterranean          
+
+2025-01-11
+
+2025.MMP0018          
+
+Western Mediterranean          
+
+38.7931795
+, 
+1.419326217
+
+Remains found on the beach of Sa Torreta, S'Espalmador, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-01-15
+
+2025.MMP0020          
+
+Eastern Mediterranean          
+
+37.88203003
+, 
+27.16350985
+
+Off the coast of Kuşadası, Aydın, Türkiye          
+
+Mediterranean          
+
+2025-01-16
+
+2025.MMP0021          
+
+Western Mediterranean          
+
+39.502728
+, 
+2.743222
+
+200 meters off the coast of s'Arenal de Llucmajor - Cava Baixa, renal, Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-01-10
+
+2025.MMP0022          
+
+Central Mediterranean          
+
+32.8699661
+, 
+13.10089389
+
+Remains found in Qerqarish, Libya          
+
+Mediterranean          
+
+2025-01-15
+
+2025.MMP0032          
+
+Eastern Mediterranean          
+
+36.44740167
+, 
+28.26937906
+
+East of Rhodes, Greece          
+
+Mediterranean          
+
+2025-01-07
+
+2025.MMP0034          
+
+Western Mediterranean          
+
+35.90677175
+, 
+-5.288160401
+
+Bodies recovered near Santa Catalina, Ceuta, Spain          
+
+Mediterranean          
+
+2025-01-23
+
+2025.MMP0035          
+
+Central Mediterranean          
+
+34.346
+, 
+12.483
+
+Approximately 53 nautical miles south of Lampedusa, in Maltese SAR zone (see coordinates for exact location of rescue). Departed from Sabratha, Libya on 23 Jan 2025          
+
+Mediterranean          
+
+2025-01-26
+
+2025.MMP0036          
+
+Central Mediterranean          
+
+34.362
+, 
+12.534
+
+Died after medical evacuation after rescue  in Maltese SAR zone          
+
+Mediterranean          
+
+2025-01-27
+
+2025.MMP0041          
+
+Central Mediterranean          
+
+32.81264896
+, 
+12.45600611
+
+Unspecified location near Sabratah, Zawiya, Libya          
+
+Mediterranean          
+
+2025-01-21
+
+2025.MMP0042          
+
+Central Mediterranean          
+
+33.59262794
+, 
+12.22533737
+
+Unspecifed location near Marsa Della, Libya          
+
+Mediterranean          
+
+2025-01-25
+
+2025.MMP0048          
+
+Central Mediterranean          
+
+32.86596878
+, 
+12.73434705
+
+Off Marsa Della, Libya - embarkation from Zawiyah on 25 Jan 03:00          
+
+Mediterranean          
+
+2025-01-26
+
+2025.MMP0049          
+
+Central Mediterranean          
+
+30.26697777
+, 
+19.18855849
+
+Remains recovered at Al Uqaylah west of Brega, Libya          
+
+Mediterranean          
+
+2025-01-27
+
+2025.MMP0049          
+
+Central Mediterranean          
+
+30.26697777
+, 
+19.18855849
+
+Remains recovered at Al Uqaylah west of Brega, Libya          
+
+Mediterranean          
+
+2025-01-28
+
+2025.MMP0049          
+
+Central Mediterranean          
+
+30.26697777
+, 
+19.18855849
+
+Remains recovered at Al Uqaylah west of Brega, Libya          
+
+Mediterranean          
+
+2025-01-29
+
+2025.MMP0049          
+
+Central Mediterranean          
+
+30.26697777
+, 
+19.18855849
+
+Remains recovered at Al Uqaylah west of Brega, Libya          
+
+Mediterranean          
+
+2025-01-30
+
+2025.MMP0050          
+
+Central Mediterranean          
+
+32.81576897
+, 
+12.74463245
+
+Unspecified location off Marsa Della, Libya          
+
+Mediterranean          
+
+2025-01-28
+
+2025.MMP0054          
+
+Western Mediterranean          
+
+38.78080691
+, 
+1.428814395
+
+Remains recovered at Playa S'Alga, S'Espalmador, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-02-02
+
+2025.MMP0057          
+
+Western Mediterranean          
+
+35.87985707
+, 
+-5.334299876
+
+Remains washed ashore at Playa de la Elmadraba, Ceuta, Spain          
+
+Mediterranean          
+
+2025-02-04
+
+2025.MMP0058          
+
+Central Mediterranean          
+
+35.51035997
+, 
+12.55818823
+
+At the beach of Isola dei Conigli/Lampedusa, Italy - departure from  Zawiya on 5 Feb          
+
+Mediterranean          
+
+2025-02-06
+
+2025.MMP0067          
+
+Western Mediterranean          
+
+35.901273
+, 
+-5.279748
+
+Near Laja de la Sirena, Monte Hacho, Ceuta, Spain          
+
+Mediterranean          
+
+2025-02-07
+
+2025.MMP0068          
+
+Western Mediterranean          
+
+38.780684
+, 
+1.428699
+
+Platja de S'Alga, Formentera, Isla de Espalmador, Islas Baleares, Spain          
+
+Mediterranean          
+
+2025-02-03
+
+2025.MMP0071          
+
+Western Mediterranean          
+
+39.914519
+, 
+4.038914
+
+On the beach of Santo Tomás, Es Migjorn, Menorca, Spain          
+
+Mediterranean          
+
+2025-02-17
+
+2025.MMP0074          
+
+Central Mediterranean          
+
+32.81046466
+, 
+12.459951
+
+Unspecifed location in Sabratha, in the Zawiya District, Libya          
+
+Mediterranean          
+
+2025-02-05
+
+2025.MMP0075          
+
+Central Mediterranean          
+
+33.59262794
+, 
+12.225337
+
+Unspecifed location near Marsa Della, Libya          
+
+Mediterranean          
+
+2025-02-06
+
+2025.MMP0082          
+
+Western Mediterranean          
+
+37.45288
+, 
+-1.481456
+
+Playa del Rafal, in the Cabo Cope and Puntas de Calnegre regional park, Aguilas, Murcia, Spain          
+
+Mediterranean          
+
+2025-02-17
+
+2025.MMP0083          
+
+Central Mediterranean          
+
+33.15512329
+, 
+12.471888
+
+Unspecifed location near Marsa Della, Libya          
+
+Mediterranean          
+
+2025-02-10
+
+2025.MMP0088          
+
+Eastern Mediterranean          
+
+37.93866062
+, 
+27.17802337
+
+Off the coast of Selçuk, İzmir, Türkiye          
+
+Mediterranean          
+
+2025-02-19
+
+2025.MMP0089          
+
+Central Mediterranean          
+
+35.49182937
+, 
+12.61177228
+
+Remains recovered off the coast of Lampedusa, Italy          
+
+Mediterranean          
+
+2025-02-22
+
+2025.MMP0090          
+
+Eastern Mediterranean          
+
+39.0080827
+, 
+26.17013186
+
+Agios Fokas, Lesvos, Greece          
+
+Mediterranean          
+
+2025-02-23
+
+2025.MMP0091          
+
+Western Mediterranean          
+
+38.86333061
+, 
+1.389772176
+
+Remains found at Parc Natural de ses Salines, Llevant beach, Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-03-06
+
+2025.MMP0091          
+
+Western Mediterranean          
+
+38.84160346
+, 
+1.907360009
+
+37 KM West Ibiza/Balearic Islands, Spain - departure from Aïn Taya, Algeria on 17 Feb          
+
+Mediterranean          
+
+2025-02-23
+
+2025.MMP0093          
+
+Western Mediterranean          
+
+37.18261996
+, 
+-0.785772594
+
+50 KM off Cartagena, Spain - departure from Mostaganem, Algeria          
+
+Mediterranean          
+
+2025-02-15
+
+2025.MMP0100          
+
+Western Mediterranean          
+
+35.87080992
+, 
+-5.333348689
+
+1 KM off Southern Ceuta, Spain          
+
+Mediterranean          
+
+2025-03-01
+
+2025.MMP0100          
+
+Western Mediterranean          
+
+35.87080992
+, 
+-5.333348689
+
+Undetermined location at the Tarajal border off Ceuta, Spain          
+
+Mediterranean          
+
+2025-03-01
+
+2025.MMP0100          
+
+Western Mediterranean          
+
+35.85877964
+, 
+-5.342966249
+
+Unspecified location on the sea crossing between Ceuta and Morocco          
+
+Mediterranean          
+
+2025-03-05
+
+2025.MMP0100          
+
+Western Mediterranean          
+
+35.85511009
+, 
+-5.347870457
+
+Remains washed at Fnideq, Morocco          
+
+Mediterranean          
+
+2025-03-03
+
+2025.MMP0101          
+
+Central Mediterranean          
+
+35.07084032
+, 
+13.02955244
+
+43 miles off Lampedusa, Italy          
+
+Mediterranean          
+
+2025-02-28
+
+2025.MMP0105          
+
+Western Mediterranean          
+
+35.93609234
+, 
+0.069114087
+
+Off the coast of Tennes, Mostaganem, Algeria          
+
+Mediterranean          
+
+2025-01-29
+
+2025.MMP0106          
+
+Western Mediterranean          
+
+36.82685051
+, 
+5.735223597
+
+Unspecifed location near Jijel, Algeria          
+
+Mediterranean          
+
+2025-02-04
+
+2025.MMP0109          
+
+Central Mediterranean          
+
+34.38798763
+, 
+11.6357993
+
+At Miskar Oil Platform, Gulf of Gabes, Tunisia          
+
+Mediterranean          
+
+2025-03-01
+
+2025.MMP0130          
+
+Eastern Mediterranean          
+
+34.529582
+, 
+34.26135
+
+25 nautical miles off the coast of Cape Cavo Greco, Ayia Napa, Cyprus          
+
+Mediterranean          
+
+2025-03-17
+
+2025.MMP0132          
+
+Western Mediterranean          
+
+35.91703
+, 
+-5.37476
+
+Off the coast of Benzu, Ceuta, Spain          
+
+Mediterranean          
+
+2025-03-13
+
+2025.MMP0133          
+
+Central Mediterranean          
+
+35.54876
+, 
+12.319675
+
+Near the islet of Lampione, approximately 18 nautical miles from Lampedusa, Italy          
+
+Mediterranean          
+
+2025-03-18
+
+2025.MMP0134          
+
+Central Mediterranean          
+
+32.79292116
+, 
+12.7266292
+
+Remain washed ashore near Espan Sea Port, Al-Zawiya, Libya          
+
+Mediterranean          
+
+2025-03-08
+
+2025.MMP0135          
+
+Central Mediterranean          
+
+32.79279859
+, 
+12.72669665
+
+Remains washed ashore near Espan Sea Port, Al-Zawiya, Libya          
+
+Mediterranean          
+
+2025-03-15
+
+2025.MMP0136          
+
+Central Mediterranean          
+
+32.65300343
+, 
+18.133206
+
+Unspecified location off the coast of Libya with disembarkation Al-Shaab Port, Libya          
+
+Mediterranean          
+
+2025-03-11
+
+2025.MMP0138          
+
+Central Mediterranean          
+
+35.09288
+, 
+11.913457
+
+Multiple unspecified locations in the Mediterranean east of Sfax, Tunisia          
+
+Mediterranean          
+
+2025-03-16
+
+2025.MMP0142          
+
+Western Mediterranean          
+
+36.200478
+, 
+-0.551291
+
+Unknown location after departure from Boumerdés, Algeria towards Balearic Islands          
+
+Mediterranean          
+
+2025-02-21
+
+2025.MMP0142          
+
+Western Mediterranean          
+
+39.76038204
+, 
+2.641003861
+
+Remains found washed up to Cala Deià, la Serra de Tramuntana, Mallorca, Spain          
+
+Mediterranean          
+
+2025-03-08
+
+2025.MMP0142          
+
+Western Mediterranean          
+
+39.512551
+, 
+2.689546
+
+One nautical mile from the Port of Can Pastilla, Palma, Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-03-14
+
+2025.MMP0142          
+
+Western Mediterranean          
+
+39.530039
+, 
+2.728202
+
+Remains washed ashore near Balneario 14, Playa s'Arenal, Palma, Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-03-17
+
+2025.MMP0142          
+
+Western Mediterranean          
+
+39.744782
+, 
+3.432715
+
+Remains washed ashore near Cala Mesquida, Capdepera, Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-03-17
+
+2025.MMP0142          
+
+Western Mediterranean          
+
+39.70573678
+, 
+3.45624056
+
+Remains washed at Son Moll beach, Cala Ratjada, Capdepera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-03-04
+
+2025.MMP0143          
+
+Western Mediterranean          
+
+35.895825
+, 
+-5.334495
+
+Remains recovered near Playa Juan XXIII, Ceuta, Spain          
+
+Mediterranean          
+
+2025-03-19
+
+2025.MMP0144          
+
+Western Mediterranean          
+
+36.536659
+, 
+-4.621558
+
+Remains recovered near La Caracola, Fuengirola, Málaga, Spain          
+
+Mediterranean          
+
+2025-03-05
+
+2025.MMP0149          
+
+Western Mediterranean          
+
+36.1084093
+, 
+-5.404323017
+
+Remains recovered off Bahía Sur in the Strait of Gibralter, 19.3 kilometers off the coast of Ceuta, Spain          
+
+Mediterranean          
+
+2025-03-23
+
+2025.MMP0150          
+
+Eastern Mediterranean          
+
+37.269575
+, 
+27.11354
+
+Off the southeastern coast of Farmakonisi, Leros, Greece          
+
+Mediterranean          
+
+2025-03-22
+
+2025.MMP0153          
+
+Central Mediterranean          
+
+32.79283918
+, 
+12.72663227
+
+Remain washed ashore near Espan Sea Port, Al-Zawiya, Libya          
+
+Mediterranean          
+
+2025-03-16
+
+2025.MMP0154          
+
+Central Mediterranean          
+
+32.79262939
+, 
+12.7268978
+
+Remain washed ashore near Espan area, Al-Zawiya, Libya          
+
+Mediterranean          
+
+2025-03-21
+
+2025.MMP0155          
+
+Central Mediterranean          
+
+33.50213511
+, 
+11.12120993
+
+Unspecified location off the coasts of Zarsis, South of Tunisia - boat embarked from Libya          
+
+Mediterranean          
+
+2025-03-20
+
+2025.MMP0156          
+
+Western Mediterranean          
+
+36.74171219
+, 
+-2.121299896
+
+Near Playa Cala de Enmedio near Cabo de Gata-Níjar, Alermia, Spain          
+
+Mediterranean          
+
+2025-03-26
+
+2025.MMP0161          
+
+Western Mediterranean          
+
+37.301593
+, 
+-1.711950186
+
+Died in hospital after arrival at Cala Mochuela, Almeria, Spain          
+
+Mediterranean          
+
+2025-03-30
+
+2025.MMP0162          
+
+Western Mediterranean          
+
+36.95318545
+, 
+-1.898219848
+
+Fell into sea as boat approached Los Muertos beach, Carboneras, Almeria, Spain          
+
+Mediterranean          
+
+2025-03-24
+
+2025.MMP0164          
+
+Eastern Mediterranean          
+
+39.3888503
+, 
+26.30285572
+
+Unspecified location off the coast of Skala Sikamineas, Lesvos, Greece          
+
+Mediterranean          
+
+2025-04-03
+
+2025.MMP0165          
+
+Eastern Mediterranean          
+
+39.45656027
+, 
+26.44934081
+
+Off Ayvacık, Çanakkale, Türkiye          
+
+Mediterranean          
+
+2025-04-03
+
+2025.MMP0167          
+
+Eastern Mediterranean          
+
+36.18176657
+, 
+29.21368033
+
+Off Kaş, Antalya, Türkiye          
+
+Mediterranean          
+
+2025-04-05
+
+2025.MMP0168          
+
+Central Mediterranean          
+
+32.95697594
+, 
+12.06632757
+
+Unspecified location near Zuwara, Libya          
+
+Mediterranean          
+
+2025-04-05
+
+2025.MMP0170          
+
+Central Mediterranean          
+
+32.91002772
+, 
+13.17546016
+
+Unspecified location near Qaraboli, Tripoli, Libya - embarkation on 1 Apr          
+
+Mediterranean          
+
+2025-04-05
+
+2025.MMP0212          
+
+Central Mediterranean          
+
+31.76081811
+, 
+17.4336466
+
+Off Harawah near Sirte, Libya          
+
+Mediterranean          
+
+2025-04-16
+
+2025.MMP0216          
+
+Eastern Mediterranean          
+
+37.27833941
+, 
+27.10138751
+
+Found on southeastern coast of Farmakonisi, Greece after shipwreck          
+
+Mediterranean          
+
+2025-04-14
+
+2025.MMP0227          
+
+Central Mediterranean          
+
+34.62842335
+, 
+10.82986039
+
+Off the coasts of El Awabed, Sfax, Tunisia          
+
+Mediterranean          
+
+2025-04-27
+
+2025.MMP0228          
+
+Central Mediterranean          
+
+38.19249779
+, 
+12.93920542
+
+Remains found in the rocks of the coast of Capo San Marco, Agrigento, Italy          
+
+Mediterranean          
+
+2025-04-29
+
+2025.MMP0236          
+
+Central Mediterranean          
+
+34.71001747
+, 
+10.77497949
+
+Unspecifed location off the coasts of Sfax, Tunisia          
+
+Mediterranean          
+
+2025-04-26
+
+2025.MMP0236          
+
+Central Mediterranean          
+
+37.2143208
+, 
+9.776175719
+
+Remains washed ashore in the coasts of Louata Beach, Sfax, Tunisia          
+
+Mediterranean          
+
+2025-05-03
+
+2025.MMP0236          
+
+Central Mediterranean          
+
+37.2143208
+, 
+9.776175719
+
+Remains washed ashore in the coasts of Louata Beach, Sfax, Tunisia          
+
+Mediterranean          
+
+2025-05-04
+
+2025.MMP0236          
+
+Central Mediterranean          
+
+37.2143208
+, 
+9.776175719
+
+Remains washed ashore in the coasts of Louata Beach, Sfax, Tunisia          
+
+Mediterranean          
+
+2025-05-05
+
+2025.MMP0236          
+
+Central Mediterranean          
+
+37.2143208
+, 
+9.776175719
+
+Remains washed ashore in the coasts of Louata Beach, Sfax, Tunisia          
+
+Mediterranean          
+
+2025-05-06
+
+2025.MMP0238          
+
+Western Mediterranean          
+
+35.83880639
+, 
+-5.352506489
+
+Remains washed ashore at Fnideq, Morocco - Ceuta crossing          
+
+Mediterranean          
+
+2025-04-30
+
+2025.MMP0239          
+
+Western Mediterranean          
+
+35.55247716
+, 
+-5.242124589
+
+Remains washed ashore at Azla beach, Tetouan, Morocco - presumably Ceuta crossing          
+
+Mediterranean          
+
+2025-04-30
+
+2025.MMP0240          
+
+Central Mediterranean          
+
+32.85724176
+, 
+13.44222392
+
+Remains washed ashore at Tajoura, Libya          
+
+Mediterranean          
+
+2025-05-01
+
+2025.MMP0241          
+
+Central Mediterranean          
+
+32.80817644
+, 
+12.49600325
+
+Remains washed ashore at Sabratha, Libya          
+
+Mediterranean          
+
+2025-05-02
+
+2025.MMP0250          
+
+Eastern Mediterranean          
+
+32.07525908
+, 
+23.96594561
+
+Remains washed ashore at the Gulf of Ras Monqar, Ain Ghazala, West of Tobruk, Libya. Likely Libya-Crete crossing          
+
+Mediterranean          
+
+2025-04-17
+
+2025.MMP0252          
+
+Western Mediterranean          
+
+39.98870042
+, 
+4.255131467
+
+Remains washed ashore at Cala Tortuga, Menora, Spain          
+
+Mediterranean          
+
+2025-04-30
+
+2025.MMP0253          
+
+Western Mediterranean          
+
+38.6909345
+, 
+0.927204475
+
+42 miles off Xàbia, Alicante, Spain - departure from Algeria          
+
+Mediterranean          
+
+2025-05-08
+
+2025.MMP0253          
+
+Western Mediterranean          
+
+38.831925
+, 
+1.301199
+
+In the Balearic Sea, two miles off the coast from Cala Jondal, Sany Josep, Ibiza, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-06-04
+
+2025.MMP0253          
+
+Western Mediterranean          
+
+38.82145155
+, 
+1.442350524
+
+Remains found in an unspecified location in the waters of the Pitiusas Islands near Formentera, Spain          
+
+Mediterranean          
+
+2025-05-18
+
+2025.MMP0253          
+
+Western Mediterranean          
+
+39.65016769
+, 
+2.067626563
+
+Remains found about 14 miles northwest of Sa Dragonera, Spain          
+
+Mediterranean          
+
+2025-06-11
+
+2025.MMP0255          
+
+Central Mediterranean          
+
+34.50253555
+, 
+12.23224608
+
+Rescued at N  34°30.163, E  012°13.934 after departure from Zawiya, Libya on 7 May          
+
+Mediterranean          
+
+2025-05-10
+
+2025.MMP0257          
+
+Western Mediterranean          
+
+38.69945772
+, 
+1.969762185
+
+Unspecified location off Ibiza, Spain          
+
+Mediterranean          
+
+2025-05-04
+
+2025.MMP0258          
+
+Central Mediterranean          
+
+32.64764829
+, 
+20.816002
+
+Body washed ashore off the coasts of Al-Bahr Beach, Bo Traba, Libya          
+
+Mediterranean          
+
+2025-04-10
+
+2025.MMP0259          
+
+Central Mediterranean          
+
+33.86450901
+, 
+10.97218216
+
+Bodies washed off the coasts of Djerba, Tunisia          
+
+Mediterranean          
+
+2025-04-22
+
+2025.MMP0260          
+
+Central Mediterranean          
+
+32.50329215
+, 
+14.60744043
+
+Body washed ashore at Zliten (50km west of Misrata), Libya          
+
+Mediterranean          
+
+2025-05-12
+
+2025.MMP0260          
+
+Central Mediterranean          
+
+32.43847812
+, 
+14.83372457
+
+Bodies washed ashore at Dafniyah, Libya          
+
+Mediterranean          
+
+2025-05-09
+
+2025.MMP0260          
+
+Central Mediterranean          
+
+32.39057761
+, 
+15.17411791
+
+Bodies washed ashore on various locations around Misrata, Libya          
+
+Mediterranean          
+
+2025-05-03
+
+2025.MMP0260          
+
+Central Mediterranean          
+
+32.39057761
+, 
+15.17411791
+
+Bodies washed ashore on various locations around Misrata, Libya          
+
+Mediterranean          
+
+2025-05-13
+
+2025.MMP0260          
+
+Central Mediterranean          
+
+32.39057761
+, 
+15.17411791
+
+Unspecified location off Misrata, Libya - departure on 26 April          
+
+Mediterranean          
+
+2025-05-02
+
+2025.MMP0261          
+
+Central Mediterranean          
+
+32.43220608
+, 
+14.93339804
+
+Bodies washed ashore around Al-Buwairat, Libya          
+
+Mediterranean          
+
+2025-04-25
+
+2025.MMP0593          
+
+Central Mediterranean          
+
+32.7978105
+, 
+12.57155579
+
+Body washed ashore at Surman, Libya          
+
+Mediterranean          
+
+2025-05-04
+
+2025.MMP0594          
+
+Central Mediterranean          
+
+30.59829842
+, 
+18.43011436
+
+Body washed ashore at Ras Lanuf, Libya          
+
+Mediterranean          
+
+2025-05-09
+
+2025.MMP0600          
+
+Central Mediterranean          
+
+34.71758631
+, 
+10.77676102
+
+Unspecified location off Sfax, Tunisia          
+
+Mediterranean          
+
+2025-01-22
+
+2025.MMP0610          
+
+Central Mediterranean          
+
+33.4312
+, 
+12.2918
+
+Fell into water during rescue Libyan SAR zone and presumed drowned - see coordinates for location the merchant vessel was in when they reported losing sight of the boat in distress          
+
+Mediterranean          
+
+2025-05-24
+
+2025.MMP0619          
+
+Central Mediterranean          
+
+35.30824629
+, 
+11.09878208
+
+Unspecified location near “KM110” between Mahdia and Chebba, Tunisia          
+
+Mediterranean          
+
+2025-05-05
+
+2025.MMP0620          
+
+Central Mediterranean          
+
+34.96657594
+, 
+10.93084362
+
+Bodies washed ashore off the coasts of Al-Amra, Tunisia          
+
+Mediterranean          
+
+2025-05-16
+
+2025.MMP0672          
+
+Western Mediterranean          
+
+35.85553105
+, 
+-5.346525324
+
+Unspecified location off the coasts of Findeq, Morocco en route to Ceuta          
+
+Mediterranean          
+
+2025-03-23
+
+2025.MMP0674          
+
+Central Mediterranean          
+
+32.8794601
+, 
+21.56756131
+
+Remains washed ashore at Shaq Abdul Razak area,  between Al Haniyah and Al Hamama near Al Bayda, Libya          
+
+Mediterranean          
+
+2025-04-14
+
+2025.MMP0677          
+
+Western Mediterranean          
+
+38.75101771
+, 
+1.438237114
+
+Remains washed ashore at Llevant beach, Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-06-03
+
+2025.MMP0677          
+
+Western Mediterranean          
+
+38.68398485
+, 
+1.462189277
+
+Remains washed ashore at Migjorn beach, Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-05-30
+
+2025.MMP0678          
+
+Western Mediterranean          
+
+36.82525526
+, 
+-2.03516596
+
+Off Cabo de Gata-Nijar nature preserve, Almeria, Spain - departure from Oran, Algeria          
+
+Mediterranean          
+
+2025-05-31
+
+2025.MMP0679          
+
+Central Mediterranean          
+
+32.78201443
+, 
+12.45473737
+
+Remains washed ashore at Sabratha, Libya          
+
+Mediterranean          
+
+2025-05-25
+
+2025.MMP0680          
+
+Central Mediterranean          
+
+33.0011131
+, 
+12.73763531
+
+Unspecified location - disembarkation at Marsa Dela, Libya          
+
+Mediterranean          
+
+2025-05-25
+
+2025.MMP0682          
+
+Central Mediterranean          
+
+32.816845
+, 
+12.388946
+
+Unspecified location on the beach in Sabratha, Libya          
+
+Mediterranean          
+
+2025-06-01
+
+2025.MMP0683          
+
+Central Mediterranean          
+
+32.908627
+, 
+13.265141
+
+Unspecified location in the Souq al-Jumaa/Maitika area, Libya          
+
+Mediterranean          
+
+2025-05-31
+
+2025.MMP0693          
+
+Western Mediterranean          
+
+36.936627
+, 
+3.455343
+
+Unspecified location off the coast of Bourmerdes, Algeria          
+
+Mediterranean          
+
+2025-05-30
+
+2025.MMP0694          
+
+Central Mediterranean          
+
+32.958939
+, 
+12.486332
+
+Unspecified location off the coast of Sabratha, Libya          
+
+Mediterranean          
+
+2025-06-01
+
+2025.MMP0695          
+
+Central Mediterranean          
+
+32.956751
+, 
+13.161104
+
+Unspecified location off the coast of Tripoli, Libya          
+
+Mediterranean          
+
+2025-06-01
+
+2025.MMP0696          
+
+Eastern Mediterranean          
+
+32.203272
+, 
+24.057723
+
+Unspecified location off the coast of Tobruk, Libya. Likely Libya-Crete crossing          
+
+Mediterranean          
+
+2025-06-05
+
+2025.MMP0698          
+
+Eastern Mediterranean          
+
+31.567388
+, 
+25.671492
+
+Washed ashore on Marsa Matrouh beach, Aziziya area, west of Barani, Egypt. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-09
+
+2025.MMP0705          
+
+Western Mediterranean          
+
+38.794833
+, 
+1.483117
+
+Unspecified location, near Espardell Island, Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-06-01
+
+2025.MMP0706          
+
+Western Mediterranean          
+
+38.685056
+, 
+1.451552
+
+Unspecified location, Sant Francesc Beach, Formetera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-06-01
+
+2025.MMP0708          
+
+Western Mediterranean          
+
+38.980434
+, 
+1.542479
+
+Balearic Sea, off the coast of Santa Eulària, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-06-03
+
+2025.MMP0709          
+
+Western Mediterranean          
+
+38.834086
+, 
+1.42594
+
+In the Balearic Sea, the canal between Ibiza and Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-04-15
+
+2025.MMP0710          
+
+Western Mediterranean          
+
+38.36361
+, 
+1.330503
+
+In the Mediterranean, 16 miles southwest of Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-05-09
+
+2025.MMP0711          
+
+Western Mediterranean          
+
+38.68695
+, 
+1.185306
+
+In the Mediterranean, 6 miles west of Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-05-09
+
+2025.MMP0712          
+
+Western Mediterranean          
+
+38.985498
+, 
+1.208599
+
+Unspecified location on the island of Conejera, Ibiza, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-05-13
+
+2025.MMP0713          
+
+Western Mediterranean          
+
+38.528784
+, 
+1.429981
+
+Unspecified location off the coast of Formentera, Baleric Islands, Spain          
+
+Mediterranean          
+
+2025-05-31
+
+2025.MMP0714          
+
+Western Mediterranean          
+
+38.721559
+, 
+1.472286
+
+Pituisan Sea, near Punta Prima, Formentera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-06-05
+
+2025.MMP0715          
+
+Western Mediterranean          
+
+35.907748
+, 
+-5.28862
+
+Off the coast of the Santa Catalina area, Ceuta, Spain          
+
+Mediterranean          
+
+2025-06-07
+
+2025.MMP0716          
+
+Central Mediterranean          
+
+32.88678952
+, 
+13.39658788
+
+Remains washed up to unspecified location near Tajura, Libya          
+
+Mediterranean          
+
+2025-06-08
+
+2025.MMP0717          
+
+Central Mediterranean          
+
+32.89553183
+, 
+13.38862639
+
+Remains washed up to unspecified location near Tajura, Libya          
+
+Mediterranean          
+
+2025-06-10
+
+2025.MMP0718          
+
+Central Mediterranean          
+
+32.79532638
+, 
+13.72492788
+
+Remains washed up to unspecified location near Garabulli, Libya          
+
+Mediterranean          
+
+2025-06-11
+
+2025.MMP0719          
+
+Central Mediterranean          
+
+32.98140913
+, 
+13.17416739
+
+Unspecified location off the coast of Alshab port, Libya          
+
+Mediterranean          
+
+2025-06-12
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.20969084
+, 
+23.32705947
+
+Remains recovered on Elramla beach, downtown Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-15
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.23838202
+, 
+23.58566159
+
+Approximately 35km west of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-13
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.17548534
+, 
+23.59630458
+
+Remains recovered on Umm Aqiqih beach, 35 km west of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-14
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.17548534
+, 
+23.59630458
+
+Remains recovered on Umm Aqiqih beach, 35 km west of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-18
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.17548534
+, 
+23.59630458
+
+Remains recovered on Umm Aqiqih beach, 35 km west of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-22
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.14843525
+, 
+23.80249524
+
+Remains recovered at Wadi Bu Kashta, west of Tobruk, Libya . Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-22
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.12539635
+, 
+23.85983049
+
+Remains recovered on Umm Al-Maqarin beach, 7 KM west of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-19
+
+2025.MMP0720          
+
+Eastern Mediterranean          
+
+32.00498537
+, 
+24.25372839
+
+Remains recovered on Uqaylah beach near Al Qa'arah, 25 km east of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-06-19
+
+2025.MMP0727          
+
+Western Mediterranean          
+
+39.8783515
+, 
+2.795611736
+
+Remains found in the waters of Escorca, Spain          
+
+Mediterranean          
+
+2025-04-13
+
+2025.MMP0728          
+
+Western Mediterranean          
+
+39.82909635
+, 
+2.733072827
+
+Remains found in the Serra de Tramuntana, 3.5 miles from the port of Sóller, Spain          
+
+Mediterranean          
+
+2025-05-07
+
+2025.MMP0729          
+
+Western Mediterranean          
+
+39.54338314
+, 
+2.262287884
+
+Remains found in 3 miles from the island of Dragonera, Spain          
+
+Mediterranean          
+
+2025-05-12
+
+2025.MMP0730          
+
+Western Mediterranean          
+
+39.97185127
+, 
+3.242167975
+
+Remains found 1.5 miles from the Formentor lighthouse, Spain          
+
+Mediterranean          
+
+2025-05-16
+
+2025.MMP0731          
+
+Western Mediterranean          
+
+39.56601971
+, 
+2.296620171
+
+Remains found at unspecified location near the island of Dragonera, Spain          
+
+Mediterranean          
+
+2025-05-28
+
+2025.MMP0732          
+
+Western Mediterranean          
+
+38.18112543
+, 
+-0.046808418
+
+Boat rescued 60 KM off the coast of Alicante, Spain. Departed from Algeria and went aadrift for at least 2 weeks          
+
+Mediterranean          
+
+2025-06-18
+
+2025.MMP0737          
+
+Central Mediterranean          
+
+32.81525168
+, 
+12.41511468
+
+Remains recovered at Talil Aljarf, Sabratha, Libya          
+
+Mediterranean          
+
+2025-06-14
+
+2025.MMP0738          
+
+Central Mediterranean          
+
+31.21257281
+, 
+16.55373494
+
+Remains recovered at unspecified location in Sirte, Libya          
+
+Mediterranean          
+
+2025-06-19
+
+2025.MMP0739          
+
+Central Mediterranean          
+
+32.8155942
+, 
+12.41882695
+
+Remains recovered at Sabratha beach, Sabratha, Libya          
+
+Mediterranean          
+
+2025-06-21
+
+2025.MMP0747          
+
+Eastern Mediterranean          
+
+37.2618347
+, 
+27.13315561
+
+Unspecified location off Farmakonisi island, Leros, Greece - presumed departure from Yalıkavak, Türkiye          
+
+Mediterranean          
+
+2025-06-22
+
+2025.MMP0747          
+
+Eastern Mediterranean          
+
+37.1352497
+, 
+27.27216454
+
+Remains recovered in the coast of Bodrum, Türkiye          
+
+Mediterranean          
+
+2025-06-24
+
+2025.MMP0748          
+
+Central Mediterranean          
+
+35.43786611
+, 
+12.60361519
+
+Unspecified location off the coast of Lampedusa, Italy - departure from Libya on 27 June          
+
+Mediterranean          
+
+2025-06-30
+
+2025.MMP0750          
+
+Central Mediterranean          
+
+33.6262
+, 
+12.6803
+
+Body spotted by Seabird 1 in international waters off the Libyan coast in position 33d37,57mN 012d40,82mE at 1500 UTC          
+
+Mediterranean          
+
+2025-06-25
+
+2025.MMP0750          
+
+Central Mediterranean          
+
+33.6115
+, 
+12.7622
+
+Body spotted by Seabird 1 in international waters off the Libyan coast in position 33d36,69mN 012d45,73mE at 0936 UTC          
+
+Mediterranean          
+
+2025-06-25
+
+2025.MMP0750          
+
+Central Mediterranean          
+
+33.6045
+, 
+12.7833
+
+Body spotted by Seabird 1 in international waters off the Libyan coast in position 33d36,27mN 012d47,00mE at 1100 UTC          
+
+Mediterranean          
+
+2025-06-25
+
+2025.MMP0750          
+
+Central Mediterranean          
+
+33.5805
+, 
+12.812
+
+Body spotted by Seabird 1 in international waters off the Libyan coast 33d34,83mN 012d48,72mE at 1719 UTC          
+
+Mediterranean          
+
+2025-06-25
+
+2025.MMP0750          
+
+Central Mediterranean          
+
+33.6087
+, 
+12.8213
+
+Body spotted by Seabird 1 in international waters off the Libyan coast in position 33d36,52mN 012d49,28mE at 1753 UTC          
+
+Mediterranean          
+
+2025-06-26
+
+2025.MMP0750          
+
+Central Mediterranean          
+
+33.49
+, 
+12.8333
+
+Body spotted by Seabird 1 in international waters off the Libyan coast in position 33d29,40mN 012d50,00mE at 0910 UTC          
+
+Mediterranean          
+
+2025-06-25
+
+2025.MMP0822          
+
+Central Mediterranean          
+
+32.4356833
+, 
+15.0309017
+
+Bodies washed ashore off the coasts of Misrata, Libya          
+
+Mediterranean          
+
+2025-07-06
+
+2025.MMP0823          
+
+Eastern Mediterranean          
+
+32.07803455
+, 
+23.94077817
+
+Body found near Al-Zaqm neighborhood, Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-07-08
+
+2025.MMP0824          
+
+Eastern Mediterranean          
+
+32.10207985
+, 
+23.96427726
+
+Near Al-thanawya Al-bahrya, Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-07-08
+
+2025.MMP0825          
+
+Eastern Mediterranean          
+
+32.10651813
+, 
+23.96556303
+
+Off the coasts of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-07-09
+
+2025.MMP0826          
+
+Eastern Mediterranean          
+
+32.00383495
+, 
+24.87447126
+
+Off the coasts of Sharq Al-Jady area, 110 KM North Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-07-09
+
+2025.MMP0827          
+
+Central Mediterranean          
+
+35.02763512
+, 
+11.01301992
+
+Bodies washed ashore off the coasts of Hzag and Louza, Sfax, Tunisia          
+
+Mediterranean          
+
+2025-06-07
+
+2025.MMP0828          
+
+Central Mediterranean          
+
+34.71396855
+, 
+10.77223291
+
+Bodies washed ashore off the coasts of Sfax, Tunisia          
+
+Mediterranean          
+
+2025-06-09
+
+2025.MMP0829          
+
+Central Mediterranean          
+
+35.51422733
+, 
+11.0769468
+
+Bodies washed ashore off the coasts of Mahdia, Tunisia          
+
+Mediterranean          
+
+2025-06-09
+
+2025.MMP0830          
+
+Central Mediterranean          
+
+34.70832409
+, 
+10.75815667
+
+Bodies washed ashore off the coasts of Sfax, Tunisia          
+
+Mediterranean          
+
+2025-06-10
+
+2025.MMP0831          
+
+Central Mediterranean          
+
+34.70183249
+, 
+10.75918664
+
+Unspcified location off the coasts of Sfax, Tunisia          
+
+Mediterranean          
+
+2025-07-06
+
+2025.MMP0834          
+
+Central Mediterranean          
+
+38.02842187
+, 
+11.08237194
+
+Unspecified location between Sfax, Tunisia and Italy          
+
+Mediterranean          
+
+2025-07-11
+
+2025.MMP0835          
+
+Central Mediterranean          
+
+35.04116877
+, 
+11.012674
+
+Remains washed ashore to Mahdia, Chebba, and Sfax, Tunisia between 9-11 June          
+
+Mediterranean          
+
+2025-07-11
+
+2025.MMP0836          
+
+Eastern Mediterranean          
+
+33.56125568
+, 
+24.81161633
+
+In Egyptian SAR zone (see coordinates for exact location). Departure from Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-07-10
+
+2025.MMP0842          
+
+Western Mediterranean          
+
+35.88905328
+, 
+-5.293306816
+
+Remains washed ashore 50 meters off Sarchal, Ceuta, Spain          
+
+Mediterranean          
+
+2025-07-17
+
+2025.MMP0843          
+
+Central Mediterranean          
+
+32.82428335
+, 
+12.44749456
+
+Remains washed ashore off Sabratha, Libya          
+
+Mediterranean          
+
+2025-07-19
+
+2025.MMP0844          
+
+Eastern Mediterranean          
+
+37.45808716
+, 
+26.96630249
+
+Off the coast of Agathonisi, Samos, Greece          
+
+Mediterranean          
+
+2025-07-19
+
+2025.MMP0847          
+
+Eastern Mediterranean          
+
+31.51026523
+, 
+25.5451967
+
+Bodies washed ashore off the coasts of Buqbuq Village, Sallum, Marsa Matrouh, Egypt. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-07-13
+
+2025.MMP0848          
+
+Central Mediterranean          
+
+32.8335089
+, 
+13.56923717
+
+Unspecifed location off the coasts of Tajoura, Libya          
+
+Mediterranean          
+
+2025-07-09
+
+2025.MMP0859          
+
+Eastern Mediterranean          
+
+30.26828759
+, 
+19.18717622
+
+Remains washed ashore off the coasts of Al Uqaylah Beach, 25 km east of Tobruk, Libya  - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-07-25
+
+2025.MMP0859          
+
+Eastern Mediterranean          
+
+30.267206
+, 
+19.192755
+
+Remains washed ashore at Al Uqaylah Beach, 25 km east of Tobruk, Libya - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-07-28
+
+2025.MMP0859          
+
+Eastern Mediterranean          
+
+30.267206
+, 
+19.192755
+
+Remains washed ashore at Al Uqaylah Beach, 25 km east of Tobruk, Libya - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-08-03
+
+2025.MMP0859          
+
+Eastern Mediterranean          
+
+32.11494626
+, 
+23.95072229
+
+Unspecified location off the coasts of Tobruk, Libya  - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-07-24
+
+2025.MMP0859          
+
+Eastern Mediterranean          
+
+32.11494626
+, 
+23.96170862
+
+Remains washed ashore at an unspecified location near Tobruk, Libya  - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-07-25
+
+2025.MMP0859          
+
+Eastern Mediterranean          
+
+32.10767626
+, 
+23.97063501
+
+Remains washed ahore at an unspecified location off the coasts of Tobruk, Libya  - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-07-25
+
+2025.MMP0861          
+
+Western Mediterranean          
+
+35.87930923
+, 
+-5.327348187
+
+Remains washed ashore at Barriada Juan XXIII, Ceuta, Spain          
+
+Mediterranean          
+
+2025-07-29
+
+2025.MMP0862          
+
+Central Mediterranean          
+
+34.2667
+, 
+11.6167
+
+Rescued at 34.266700, 11.616700, departure from Tunisia 4 days before - disembarkation in Italy          
+
+Mediterranean          
+
+2025-07-29
+
+2025.MMP0864          
+
+Western Mediterranean          
+
+35.178877
+, 
+-2.18801
+
+Unspecified location in Algerian waters after departing from Saidia, Morocco          
+
+Mediterranean          
+
+2025-07-30
+
+2025.MMP0865          
+
+Central Mediterranean          
+
+32.87358892
+, 
+12.54033597
+
+Unspecified location off the coasts of Mara Della, Al-Zawiyah, Libya          
+
+Mediterranean          
+
+2025-08-01
+
+2025.MMP0874          
+
+Central Mediterranean          
+
+33.988292
+, 
+13.331305
+
+Unspecified location in the Libyan SAR zone north of Sabratha, disembakation in Lampedusa, Italy          
+
+Mediterranean          
+
+2025-07-31
+
+2025.MMP0914          
+
+Central Mediterranean          
+
+35.43839435
+, 
+12.25107194
+
+Unspecified location in the Strait of Sicily, near Lampedusa, Italy - embarkation from El Amra, Tunisia          
+
+Mediterranean          
+
+2025-08-07
+
+2025.MMP0914          
+
+Central Mediterranean          
+
+35.43839435
+, 
+12.25107194
+
+Unspecified location in the Strait of Sicily, near Lampedusa, Italy - embarkation from El Amra, Tunisia          
+
+Mediterranean          
+
+2025-08-08
+
+2025.MMP0915          
+
+Eastern Mediterranean          
+
+31.9937106
+, 
+24.24796977
+
+Remains retreived at Marami Al-Kharouba beach, Al Qa'arah area, 25 KM east of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-08-09
+
+2025.MMP0916          
+
+Eastern Mediterranean          
+
+32.17651492
+, 
+23.48237274
+
+Remains washed ashore the beach of Al Qardabah area, 45 KM west of Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-08-11
+
+2025.MMP0918          
+
+Central Mediterranean          
+
+38.81468744
+, 
+8.391296217
+
+Around 10 miles off Capo Sperone,Sant'Antioco, Sardinia, Italy - departure from Algeria          
+
+Mediterranean          
+
+2025-08-08
+
+2025.MMP0918          
+
+Central Mediterranean          
+
+38.77053613
+, 
+8.400579496
+
+Remains recovered approx. 13 miles off Capo Sperone,Sant'Antioco, Sardinia, Italy          
+
+Mediterranean          
+
+2025-08-09
+
+2025.MMP0920          
+
+Central Mediterranean          
+
+35.31382774
+, 
+12.43569439
+
+About 14 nautical miles Southwest Lampedusa, Italy - departure from Zawiya, Libya          
+
+Mediterranean          
+
+2025-08-13
+
+2025.MMP0932          
+
+Western Mediterranean          
+
+35.71847613
+, 
+-5.280742161
+
+Remains found in a fishing net off the coast of Mdiq, Morocco - Ceuta crossing          
+
+Mediterranean          
+
+2025-08-10
+
+2025.MMP0933          
+
+Western Mediterranean          
+
+35.88309233
+, 
+-5.312298303
+
+Remains recovered in the coasts of Fuente Caballo, Ceuta, Spain          
+
+Mediterranean          
+
+2025-08-14
+
+2025.MMP0934          
+
+Eastern Mediterranean          
+
+38.85203308
+, 
+26.52422251
+
+Off Karaburun, İzmir, Türkiye          
+
+Mediterranean          
+
+2025-08-18
+
+2025.MMP0936          
+
+Western Mediterranean          
+
+39.21943502
+, 
+3.059560565
+
+3 miles south of Mallorca, Spain - 6 days after departure          
+
+Mediterranean          
+
+2025-08-20
+
+2025.MMP0938          
+
+Western Mediterranean          
+
+35.89441175
+, 
+-5.281761684
+
+Found off Desnarigado beach, near Mount Hacho, Ceuta, Spain          
+
+Mediterranean          
+
+2025-08-20
+
+2025.MMP0939          
+
+Central Mediterranean          
+
+38.10946226
+, 
+13.35611021
+
+Died in hospital in Palermo, Italy, where she was evacuated immediately upon arrival in Sicily          
+
+Mediterranean          
+
+2025-08-19
+
+2025.MMP0945          
+
+Central Mediterranean          
+
+33.7
+, 
+11.85
+
+Rescued at 33.700000, 11.850000, approximately 90km off Zuwara, Libya          
+
+Mediterranean          
+
+2025-08-24
+
+2025.MMP0954          
+
+Western Mediterranean          
+
+35.88583716
+, 
+-5.321261105
+
+Remains washed ashore at Chorrillo beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-08-25
+
+2025.MMP0955          
+
+Western Mediterranean          
+
+38.70894569
+, 
+3.291015685
+
+Unspecified location around 58km southeast of Cabrera, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-08-22
+
+2025.MMP0957          
+
+Western Mediterranean          
+
+35.87942209
+, 
+-5.334148639
+
+Unspecified location off the coast of Ceuta, Spain          
+
+Mediterranean          
+
+2025-08-27
+
+2025.MMP0959          
+
+Central Mediterranean          
+
+33.10342294
+, 
+12.45328536
+
+Around 20 miles off the coast of Sabratha, Libya - departure from Ras Yousef on 18 August          
+
+Mediterranean          
+
+2025-08-20
+
+2025.MMP0985          
+
+Eastern Mediterranean          
+
+36.06709271
+, 
+28.05406628
+
+Remains found at Mavros Kavos beach, Rhodes, Greece          
+
+Mediterranean          
+
+2025-08-30
+
+2025.MMP0986          
+
+Eastern Mediterranean          
+
+37.45620991
+, 
+27.00326749
+
+Remains found at a rocky shore Southeast Agathonisi, Greece          
+
+Mediterranean          
+
+2025-08-31
+
+2025.MMP0987          
+
+Central Mediterranean          
+
+32.85630112
+, 
+12.24934798
+
+Remains recovered  on a beach in Mellitah oil and gas complex, Sabratha, Libya          
+
+Mediterranean          
+
+2025-08-25
+
+2025.MMP0988          
+
+Eastern Mediterranean          
+
+32.02895229
+, 
+24.04836183
+
+Remains recovered on a beach in Bab el Zaytoon area, Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-08-28
+
+2025.MMP0989          
+
+Central Mediterranean          
+
+34.88742444
+, 
+12.45569031
+
+Unspecified location in international waters (Maltese SAR zone) following departure from Zuwara, Libya on 28 Aug          
+
+Mediterranean          
+
+2025-08-29
+
+2025.MMP0989          
+
+Central Mediterranean          
+
+34.88742444
+, 
+12.45569031
+
+Unspecified location in international waters (Maltese SAR zone) following departure from Zuwara, Libya on 28 Aug          
+
+Mediterranean          
+
+2025-08-30
+
+2025.MMP0990          
+
+Western Mediterranean          
+
+35.89822263
+, 
+-5.278497248
+
+Remains recovered near Faro Punta Almina (lighthouse), Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-03
+
+2025.MMP0991          
+
+Western Mediterranean          
+
+36.95292824
+, 
+-1.898670455
+
+Remains recovered at the beaches of Las Marinicas, El Corral and Playa de Los Muertos, Carboneras, Almería, Spain          
+
+Mediterranean          
+
+2025-09-03
+
+2025.MMP0992          
+
+Western Mediterranean          
+
+36.73752932
+, 
+-2.207310441
+
+Remains recovered at Playa de la Fabriquilla/Las Salinas de Cabo de Gata, Níjar, Almería, Spain          
+
+Mediterranean          
+
+2025-09-03
+
+2025.MMP0992          
+
+Western Mediterranean          
+
+36.74604063
+, 
+-2.214674712
+
+Remains recovered at La Almadraba de Monteleva, Almería, Spain          
+
+Mediterranean          
+
+2025-09-04
+
+2025.MMP0992          
+
+Western Mediterranean          
+
+36.77716631
+, 
+-2.241705514
+
+Remains washed ashore at Torreón area of Cabo de Gata, Almería, Spain          
+
+Mediterranean          
+
+2025-09-08
+
+2025.MMP0999          
+
+Western Mediterranean          
+
+35.88685553
+, 
+-5.300507728
+
+Remains recovered at the beaches of Sarchal and Los Mil Escalones, Recinto, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-05
+
+2025.MMP1000          
+
+Eastern Mediterranean          
+
+39.26328059
+, 
+26.62304184
+
+Off the coast of Badavut, Ayvalık/Balıkesir, Türkiye          
+
+Mediterranean          
+
+2025-09-07
+
+2025.MMP1002          
+
+Central Mediterranean          
+
+34.94595079
+, 
+11.0774335
+
+Boat departed from the coast of Al-Amra, about 30 km from Sfax, Tunisia          
+
+Mediterranean          
+
+2025-08-22
+
+2025.MMP1006          
+
+Central Mediterranean          
+
+35.49385979
+, 
+12.60536023
+
+At a pier in Lampedusa, Italy - departure from Zuwara, Libya          
+
+Mediterranean          
+
+2025-09-08
+
+2025.MMP1010          
+
+Western Mediterranean          
+
+35.88975234
+, 
+-5.29042303
+
+Remains recovered near the marabout in Sarchal, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-10
+
+2025.MMP1010          
+
+Western Mediterranean          
+
+35.88945555
+, 
+-5.296735562
+
+Remains recovered near the former women's prison in Sarchal, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-10
+
+2025.MMP1010          
+
+Western Mediterranean          
+
+35.89800702
+, 
+-5.299729443
+
+Remains recovered in the coast of San Amaro park, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-10
+
+2025.MMP1017          
+
+Western Mediterranean          
+
+35.87830287
+, 
+-5.33403528
+
+Off the coast of Almadraba beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-13
+
+2025.MMP1018          
+
+Central Mediterranean          
+
+32.79400569
+, 
+12.61348189
+
+Unspecified location off the coasts of Al Mutrad, Al-Zuwara, Libya          
+
+Mediterranean          
+
+2025-09-09
+
+2025.MMP1019          
+
+Central Mediterranean          
+
+32.80817684
+, 
+12.73131879
+
+Unspecified location in Bir Al Ratm area, south of Al Harsha, Al-Zawya, Libya          
+
+Mediterranean          
+
+2025-09-07
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+32.07497354
+, 
+23.9304714
+
+Survivor passed in Tobruk medical Center, Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-13
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.99631335
+, 
+24.34878077
+
+Remains washed ashore at Wadi Bodu', Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-20
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.99320412
+, 
+24.36687456
+
+Remains washed ashore at the beach of Wadi Bou Khashiba, Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-16
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98787624
+, 
+24.3907628
+
+Remains washed ashore at the beach of Wadi Duma, Kambut area, 60 KM East Tobruk, Libya  | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-17
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98787624
+, 
+24.3907628
+
+Remains washed ashore at the beach of Wadi Duma, Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-16
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98787624
+, 
+24.3907628
+
+Remains washed ashore at the beach of Wadi Duma, Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-18
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.99072538
+, 
+24.41740824
+
+Remains washed ashore at the beach of Wadi Ahlneh, Kambut area, 60 KM East Tobruk, Libya  | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-18
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.99016257
+, 
+24.48552458
+
+Remains recovered at a beach in Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-15
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98631598
+, 
+24.52033423
+
+Remains washed ashore at the beach in Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-16
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98078276
+, 
+24.53593428
+
+Remains washed ashore at Wadi Alousheh, Kambut area, 60 KM East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-19
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98798719
+, 
+24.56417228
+
+Remains recovered at a beach in Qabes area, 90 km East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-15
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98798719
+, 
+24.56417228
+
+Remains washed ashore at a beach in Qabes area, 90 km East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-16
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98798719
+, 
+24.56417228
+
+Remains washed ashore at a beach in Qabes area, 90 km East Tobruk, Libya | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-17
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+31.98798719
+, 
+24.56417228
+
+Remains washed ashore at a beach in Qabes area, 90 km East Tobruk, Libya| Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-18
+
+2025.MMP1035          
+
+Eastern Mediterranean          
+
+33.11379342
+, 
+24.64257698
+
+Off Kambut, 60 KM East Tobruk, Libya - departure on 9 Sep | Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-13
+
+2025.MMP1038          
+
+Eastern Mediterranean          
+
+32.39499795
+, 
+23.99452781
+
+Unspecified location off Tobruk, Libya. Likely Libya-Crete crossing.          
+
+Mediterranean          
+
+2025-09-22
+
+2025.MMP1039          
+
+Central Mediterranean          
+
+33.14224339
+, 
+13.46264275
+
+Unspecified location off Tajoura, Libya          
+
+Mediterranean          
+
+2025-09-24
+
+2025.MMP1055          
+
+Central Mediterranean          
+
+35.08469749
+, 
+11.83620241
+
+83 KM off Lampedusa, Italy          
+
+Mediterranean          
+
+2025-09-16
+
+2025.MMP1057          
+
+Eastern Mediterranean          
+
+37.38893506
+, 
+27.17188901
+
+Off the coast of Nazilli Umut Sitesi, Hisar, Didim, Aydın,Türkiye          
+
+Mediterranean          
+
+2025-09-25
+
+2025.MMP1062          
+
+Western Mediterranean          
+
+35.88441333
+, 
+-5.31876295
+
+Remains recovered near near Chorrillo Beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-29
+
+2025.MMP1063          
+
+Western Mediterranean          
+
+35.88945555
+, 
+-5.296735562
+
+Remains recovered near the former women's prison in Sarchal, Ceuta, Spain          
+
+Mediterranean          
+
+2025-09-30
+
+2025.MMP1065          
+
+Western Mediterranean          
+
+36.72988808
+, 
+-2.156839883
+
+On the coast of Cala Carbón, Nijar, Almeria, Spain - boat departed from Ain Temouchent the night before          
+
+Mediterranean          
+
+2025-08-11
+
+2025.MMP1066          
+
+Western Mediterranean          
+
+36.9387404
+, 
+-1.934529215
+
+Off the coast of Agua Amarga, Almeria, Spain          
+
+Mediterranean          
+
+2025-03-22
+
+2025.MMP1067          
+
+Western Mediterranean          
+
+36.9387404
+, 
+-1.934529215
+
+Off the coast of Agua Amarga, Almeria, Spain          
+
+Mediterranean          
+
+2025-03-22
+
+2025.MMP1074          
+
+Eastern Mediterranean          
+
+38.92916898
+, 
+26.50241482
+
+Unspecified location near the south of Lesvos, Greece          
+
+Mediterranean          
+
+2025-10-07
+
+2025.MMP1079          
+
+Central Mediterranean          
+
+34.403
+, 
+13.013
+
+See coordinates for exact location in the Central Mediterranean. Boat departed from Zuwara, Libya 3-4 days before the rescue.          
+
+Mediterranean          
+
+2025-10-05
+
+2025.MMP1080          
+
+Eastern Mediterranean          
+
+36.48750922
+, 
+28.07255429
+
+Unspecified location near Rhodes, Greece          
+
+Mediterranean          
+
+2025-10-14
+
+2025.MMP1081          
+
+Eastern Mediterranean          
+
+38.58334722
+, 
+25.86446262
+
+After hitting rocks on coast of northwestern Chios, Greece          
+
+Mediterranean          
+
+2025-10-16
+
+2025.MMP1082          
+
+Central Mediterranean          
+
+38.96124134
+, 
+8.595668353
+
+Remains found after arrival in Porto Pino, Sardinia, Italy. Injury reportedly occurred in rough seas after departure from Annaba, Algeria.          
+
+Mediterranean          
+
+2025-10-14
+
+2025.MMP1085          
+
+Western Mediterranean          
+
+35.88650249
+, 
+-5.316493911
+
+Body washed 200 meters of the coasts of Playa de la Ribera, Ceuta, Spain          
+
+Mediterranean          
+
+2025-10-10
+
+2025.MMP1086          
+
+Western Mediterranean          
+
+35.61580399
+, 
+-5.260970879
+
+Body washed off the coasts Martil Beach, Tanger-Tetouan-Al Hoceima, Morocco          
+
+Mediterranean          
+
+2025-10-13
+
+2025.MMP1088          
+
+Western Mediterranean          
+
+35.84108169
+, 
+-5.34744836
+
+Body washed ashore off the coasts of Findeq, Morocco          
+
+Mediterranean          
+
+2025-09-30
+
+2025.MMP1089          
+
+Central Mediterranean          
+
+34.7667
+, 
+13.3667
+
+Within Maltese SAR Zone - Departure from Garabulli, Libya a few days before          
+
+Mediterranean          
+
+2025-10-21
+
+2025.MMP1089          
+
+Central Mediterranean          
+
+34.7667
+, 
+13.3667
+
+Within Maltese SAR Zone, approximate coordinates 34.46, 13.3667 - Departure from Garabulli, Libya 2 days before          
+
+Mediterranean          
+
+2025-10-17
+
+2025.MMP1090          
+
+Central Mediterranean          
+
+35.22313341
+, 
+12.61121263
+
+Around 30km from Lampedusa, Italy          
+
+Mediterranean          
+
+2025-10-19
+
+2025.MMP1090          
+
+Central Mediterranean          
+
+35.22313341
+, 
+12.61121263
+
+Died in hospital in Lampedusa, after being rescued around 30km from Lampedusa, Italy          
+
+Mediterranean          
+
+2025-10-20
+
+2025.MMP1091          
+
+Western Mediterranean          
+
+39.19405909
+, 
+-0.225299599
+
+Remains washed ashore at Playa del Dosel de Cullera, Valencia, Spain          
+
+Mediterranean          
+
+2025-10-12
+
+2025.MMP1093          
+
+Central Mediterranean          
+
+35.51646293
+, 
+11.07677513
+
+Off the coast of Mahdia, Tunisia - departure from Slakta, Tunisia 2 hours before capsizing          
+
+Mediterranean          
+
+2025-10-22
+
+2025.MMP1094          
+
+Western Mediterranean          
+
+35.87939725
+, 
+-5.334128056
+
+Remains washed ashore at Almadraba beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-10-14
+
+2025.MMP1095          
+
+Western Mediterranean          
+
+35.8956652
+, 
+-5.309203848
+
+Remains recovered from the Bay of Ceuta, Spain          
+
+Mediterranean          
+
+2025-10-14
+
+2025.MMP1096          
+
+Western Mediterranean          
+
+35.87415129
+, 
+-5.32748803
+
+Remains recovered half a mile off the coast of Juan XXIII, Ceuta, Spain          
+
+Mediterranean          
+
+2025-10-15
+
+2025.MMP1108          
+
+Central Mediterranean          
+
+33.07957591
+, 
+11.73883491
+
+Bodies washed off the coasts of Abu Kammash, Libya          
+
+Mediterranean          
+
+2025-10-11
+
+2025.MMP1108          
+
+Central Mediterranean          
+
+33.33832501
+, 
+11.91601832
+
+Bodies washed off the coasts of Melita, Libya          
+
+Mediterranean          
+
+2025-10-11
+
+2025.MMP1108          
+
+Central Mediterranean          
+
+32.93632211
+, 
+12.09759813
+
+Bodies washed off the coasts of Zuwara, Libya          
+
+Mediterranean          
+
+2025-10-11
+
+2025.MMP1145          
+
+Central Mediterranean          
+
+32.80563116
+, 
+12.49977948
+
+Remains recovered in the coasts of Sabratha, Libya          
+
+Mediterranean          
+
+2025-11-02
+
+2025.MMP1145          
+
+Central Mediterranean          
+
+32.79797706
+, 
+12.55274686
+
+Remains recovered in the coasts of Surman, Libya          
+
+Mediterranean          
+
+2025-10-30
+
+2025.MMP1145          
+
+Central Mediterranean          
+
+32.79797706
+, 
+12.55274686
+
+Remains recovered in the coasts of Surman, Libya          
+
+Mediterranean          
+
+2025-11-01
+
+2025.MMP1145          
+
+Central Mediterranean          
+
+32.79797706
+, 
+12.55274686
+
+Remains recovered in the coasts of Surman, Libya          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP1145          
+
+Central Mediterranean          
+
+32.97792585
+, 
+12.62580037
+
+Unspecified location off the coast of Surman, Libya. Boat departed form Al Zawiya 3 hours earlier          
+
+Mediterranean          
+
+2025-10-28
+
+2025.MMP1146          
+
+Eastern Mediterranean          
+
+38.99209345
+, 
+26.5546444
+
+Unspecified location off the coast of Katsinia Bay, Lesvos, Greece          
+
+Mediterranean          
+
+2025-10-27
+
+2025.MMP1147          
+
+Eastern Mediterranean          
+
+36.9808673
+, 
+27.36025808
+
+Unspecified location near rocky coastal area at Ada Burnu, Ortakent neighborhood, Bodrum district, Muğla province, Türkiye          
+
+Mediterranean          
+
+2025-10-24
+
+2025.MMP1577          
+
+Central Mediterranean          
+
+35.50159861
+, 
+12.60358212
+
+Remains found upon disembarkation in Lampedusa, Italy. Boat had departed 4 days prior from Zuwara, Libya          
+
+Mediterranean          
+
+2025-10-29
+
+2025.MMP1578          
+
+Eastern Mediterranean          
+
+37.78118849
+, 
+26.99088736
+
+Remains found on rocky coastal area in the Agia Paraskevi area northeast of Samos, Greece          
+
+Mediterranean          
+
+2025-10-20
+
+2025.MMP1582          
+
+Western Mediterranean          
+
+38.35821512
+, 
+-0.443900964
+
+Remains recovered half a mile from Almadraba beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP1583          
+
+Central Mediterranean          
+
+43.55043336
+, 
+10.29359555
+
+Off the port of Livorno, Livorno, Tuscany, Italy - stowed away on a cargo ship from Tunisia          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP1583          
+
+Central Mediterranean          
+
+43.55043336
+, 
+10.29359555
+
+Remains recovered in the port of Livorno, Livorno, Tuscany, Italy          
+
+Mediterranean          
+
+2025-11-04
+
+2025.MMP1605          
+
+Western Mediterranean          
+
+35.85397381
+, 
+-5.346941793
+
+Remains washed ashore at Tarajal beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-11-09
+
+2025.MMP1607          
+
+Central Mediterranean          
+
+33.89
+, 
+12.61
+
+Near the Al Bouri Oil Field - departure from Zuwara, Libya on 3 November          
+
+Mediterranean          
+
+2025-11-08
+
+2025.MMP1608          
+
+Eastern Mediterranean          
+
+35.23824227
+, 
+23.69436871
+
+Remains recovered at Keratidis beach, Paleochora, Chania, Crete, Greece (Libya-Crete crossing)          
+
+Mediterranean          
+
+2025-11-20
+
+2025.MMP1608          
+
+Eastern Mediterranean          
+
+34.57345508
+, 
+24.07432258
+
+15 nautical miles douth of Gavdos, - departure from Tobruk, Libya (Libya-Crete crossing)          
+
+Mediterranean          
+
+2025-11-11
+
+2025.MMP1608          
+
+Eastern Mediterranean          
+
+34.86746331
+, 
+24.10255447
+
+Remains recovered at sea North Gavdos, Greece (Libya-Crete crossing)          
+
+Mediterranean          
+
+2025-11-16
+
+2025.MMP1608          
+
+Eastern Mediterranean          
+
+34.77293962
+, 
+24.12133803
+
+Remains recovered at sea South Gavdos, Greece (Libya-Crete crossing)          
+
+Mediterranean          
+
+2025-11-15
+
+2025.MMP1608          
+
+Eastern Mediterranean          
+
+23.64695986
+, 
+35.23675807
+
+Remains recovered at Plakaki beach, Paleochora, Chania, Crete, Greece (Libya-Crete crossing)          
+
+Mediterranean          
+
+2025-11-21
+
+2025.MMP1612          
+
+Central Mediterranean          
+
+36.9637533
+, 
+7.027216347
+
+Boat capsized off the coasts of Caf Fatema, Skikida, Algeria          
+
+Mediterranean          
+
+2025-11-02
+
+2025.MMP1613          
+
+Western Mediterranean          
+
+35.66107591
+, 
+-5.161607286
+
+Remains washed ashore at Al-Madraba, Terkhal, Tetouan, Morocco - en route to Ceuta, Spain          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP1614          
+
+Central Mediterranean          
+
+32.55187769
+, 
+14.85533084
+
+Unspecified location near Zilten, Libya          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP1615          
+
+Central Mediterranean          
+
+32.66783336
+, 
+14.2800276
+
+Unspecified location near Al-Khoms, Libya          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP1619          
+
+Central Mediterranean          
+
+33.33941558
+, 
+14.71654065
+
+Unspecified location off the coast of Al Khums, Libya. Disembarkation at Marsa Della          
+
+Mediterranean          
+
+2025-11-15
+
+2025.MMP1620          
+
+Central Mediterranean          
+
+33.47393845
+, 
+13.85751763
+
+Unspecified location off the coast of Al Khums, Libya. Disembarkation at Tajoura          
+
+Mediterranean          
+
+2025-11-13
+
+2025.MMP1621          
+
+Western Mediterranean          
+
+37.03244741
+, 
+-0.277962158
+
+55 miles southeast of the coast Cartagena, Spain          
+
+Mediterranean          
+
+2025-11-04
+
+2025.MMP1622          
+
+Western Mediterranean          
+
+36.16440975
+, 
+-1.601156512
+
+About 20 km off the coast of Cheraga beach near Algiers, Algeria          
+
+Mediterranean          
+
+2025-10-30
+
+2025.MMP1623          
+
+Central Mediterranean          
+
+33.02692745
+, 
+12.76613115
+
+Unspecified location off the coas tof Al Zawiya, Libya. Disembarkation at Marsa Della          
+
+Mediterranean          
+
+2025-11-15
+
+2025.MMP1630          
+
+Western Mediterranean          
+
+38.32612766
+, 
+2.95899469
+
+40 miles south of Cabrera, Balearic Islands, Spain. Departed from Cap Djinet, Algeria          
+
+Mediterranean          
+
+2025-11-05
+
+2025.MMP1645          
+
+Eastern Mediterranean          
+
+38.67698428
+, 
+26.53844611
+
+Off Karaburun, İzmir, Türkiye          
+
+Mediterranean          
+
+2025-11-25
+
+2025.MMP1659          
+
+Central Mediterranean          
+
+35.20820848
+, 
+11.80853104
+
+Unspecified location between Sfax, Tunisia and Lampedusa, Italy          
+
+Mediterranean          
+
+2025-12-04
+
+2025.MMP1663          
+
+Western Mediterranean          
+
+35.91679714
+, 
+-5.37800823
+
+Off the coast of Benzu, Ceuta, Spain          
+
+Mediterranean          
+
+2025-11-27
+
+2025.MMP1664          
+
+Western Mediterranean          
+
+35.91679714
+, 
+-5.37800823
+
+Off the coast of Benzu, Ceuta, Spain          
+
+Mediterranean          
+
+2025-12-03
+
+2025.MMP1679          
+
+Central Mediterranean          
+
+32.90082746
+, 
+13.31263515
+
+Remains recovered from Souq Al Jum'a Mitiga beach, Tripoli, Libya          
+
+Mediterranean          
+
+2025-12-02
+
+2025.MMP1680          
+
+Eastern Mediterranean          
+
+34.61788381
+, 
+26.29068527
+
+36 nautical miles southwest of Lerapetra, Crete, Greece - embarkation from Tobruk, Libya on 1 Dec (Libya-Crete Crossing)          
+
+Mediterranean          
+
+2025-12-06
+
+2025.MMP1681          
+
+Eastern Mediterranean          
+
+37.80552048
+, 
+26.84704628
+
+Remains found at Svala beach, Samos, Greece          
+
+Mediterranean          
+
+2025-12-07
+
+2025.MMP1695          
+
+Western Mediterranean          
+
+35.28829468
+, 
+-2.937161458
+
+Remains washed up at San Lorenzo beach, Melilla, Spain          
+
+Mediterranean          
+
+2025-12-14
+
+2025.MMP1697          
+
+Central Mediterranean          
+
+32.97522255
+, 
+12.69518796
+
+Unspecified location off the coasts of Marsa Della/Al Zawiyah, Libya - departure from Zuwara 16 Nov 03:00          
+
+Mediterranean          
+
+2025-12-16
+
+2025.MMP1698          
+
+Eastern Mediterranean          
+
+37.749213
+, 
+27.05906073
+
+Remains recovered off the coast of Samos, Greece          
+
+Mediterranean          
+
+2025-12-29
+
+2025.MMP1699          
+
+Eastern Mediterranean          
+
+37.29182128
+, 
+27.10436832
+
+Off the coast of Farmakonisi, Leros, Greece          
+
+Mediterranean          
+
+2025-12-25
+
+2025.MMP1701          
+
+Western Mediterranean          
+
+39.57737743
+, 
+3.413430648
+
+Remains washed ashore at Mallorca, between Cala Millor and Sa Coma, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-12-29
+
+2025.MMP1702          
+
+Western Mediterranean          
+
+35.91251006
+, 
+-5.356539101
+
+Remains washed ashore at Calamocarro Beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-12-29
+
+2025.MMP1703          
+
+Western Mediterranean          
+
+35.88869498
+, 
+-5.293206376
+
+Remains washed ashore at Sarchal Beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-12-30
+
+2025.MMP1705          
+
+Western Mediterranean          
+
+35.88584275
+, 
+-5.311353964
+
+Remains found on Fuente Caballos beach, Ceuta, Spain          
+
+Mediterranean          
+
+2025-11-18
+
+2025.MMP1712          
+
+Central Mediterranean          
+
+35.949129
+, 
+14.41104821
+
+Declared dead in hospital in Buġibba, Malta following rescue off Sicily outside Maltese territorial waters - departure from Libya          
+
+Mediterranean          
+
+2025-12-12
+
+2025.MMP1713          
+
+Central Mediterranean          
+
+34.39
+, 
+11.8749
+
+On board the merchant vessel MARIDIVE 703, in the overlapping Maltese-Tunisian SRR, around 34.390000, 11.874900 - after being at sea since 26 Dec          
+
+Mediterranean          
+
+2025-12-30
+
+2025.MMP1714          
+
+Western Mediterranean          
+
+35.26144969
+, 
+-2.938908213
+
+On the road between Nador and Beni Ansar, Morocco on the crossing to Melilla          
+
+Mediterranean          
+
+2025-06-29
+
+2025.MMP1715          
+
+Western Mediterranean          
+
+35.17615007
+, 
+-2.935091393
+
+Died in Hospital Hassani in Nador, Morocco after a truck accident on the road between Beni Ansar and Melilla port          
+
+Mediterranean          
+
+2025-12-19
+
+2025.MMP1719          
+
+Central Mediterranean          
+
+33.61821368
+, 
+11.82446356
+
+Unspecified location in Tunisian waters - departure from Zuwarah, Libya on 18 Dec 20:30          
+
+Mediterranean          
+
+2025-12-19
+
+2025.MMP2298          
+
+Central Mediterranean          
+
+32.92480628
+, 
+21.62735935
+
+Remains recovered at Al Hamamah, Libya          
+
+Mediterranean          
+
+2025-12-20
+
+2025.MMP2304          
+
+Central Mediterranean          
+
+35.49424679
+, 
+12.60062149
+
+Unspecified location off Lampedusa, Italy          
+
+Mediterranean          
+
+2025-09-01
+
+2025.MMP2322          
+
+Eastern Mediterranean          
+
+35.0414535
+, 
+33.446216
+
+An unspecified location near the buffer zone in Potamia, Cyprus          
+
+Mediterranean          
+
+2025-01-06
+
+2025.MMP2323          
+
+Western Mediterranean          
+
+35.18268633
+, 
+-1.651475335
+
+Remains recovered at Henin beach, Tlemcen west of Oran, Algeria          
+
+Mediterranean          
+
+2025-01-04
+
+2025.MMP2323          
+
+Western Mediterranean          
+
+36.09163742
+, 
+-1.75166826
+
+Unspecified location off Oran, Algeria - departure from Tlemcen on 1 Jan          
+
+Mediterranean          
+
+2025-01-03
+
+2025.MMP2324          
+
+Western Mediterranean          
+
+37.31669945
+, 
+1.094796454
+
+Unspecified location off Ténès, Algeria - departure from Mostaganem on 24 Jan          
+
+Mediterranean          
+
+2025-01-29
+
+2025.MMP2324          
+
+Western Mediterranean          
+
+36.65063624
+, 
+2.368884927
+
+Remains recovered in an unspecified location in the coast of Tipaza, Algeria          
+
+Mediterranean          
+
+2025-02-08
+
+2025.MMP2327          
+
+Western Mediterranean          
+
+37.3041611
+, 
+-1.711980167
+
+At the beach of Cala Mochuela, Cuevas del Almanzora, Almería, Spain          
+
+Mediterranean          
+
+2025-03-30
+
+2025.MMP2328          
+
+Western Mediterranean          
+
+38.61851619
+, 
+2.002681378
+
+Unspecified location in the Balearic Sea, South of Ibiza, Spain - departure from Tipaza, Algeria 5-7 days earlier          
+
+Mediterranean          
+
+2025-05-25
+
+2025.MMP2329          
+
+Western Mediterranean          
+
+37.54100512
+, 
+-1.162063793
+
+Unspecified location in the coast of Murcia, Spain - departure from Oran, Algeria          
+
+Mediterranean          
+
+2025-07-19
+
+2025.MMP2330          
+
+Western Mediterranean          
+
+36.86254122
+, 
+-2.441093502
+
+Died in Hospital Torrecárdenas shortly after arrival in Almería, Spain - departure from Oran, Algeria          
+
+Mediterranean          
+
+2025-07-27
+
+2025.MMP2331          
+
+Western Mediterranean          
+
+37.22070961
+, 
+-1.802407757
+
+Unspecified location off Vera, Almería, Spain - possible departure from Ain Temouchent, Algeria          
+
+Mediterranean          
+
+2025-08-11
+
+2025.MMP2331          
+
+Western Mediterranean          
+
+37.40170724
+, 
+-1.941667448
+
+Died in Hospital Público Comarcal la Inmaculada after arrival in Vera, Almería, Spain - possible departure from Ain Temouchent, Algeria          
+
+Mediterranean          
+
+2025-08-11
+
+2025.MMP2332          
+
+Western Mediterranean          
+
+36.7303406
+, 
+-2.156878344
+
+Found on the beach of Cala Carbón, Parque Natural Cabo de Gata-Nijar, Almería, Spain - possible departure from Ain Temouchent, Algeria          
+
+Mediterranean          
+
+2025-08-11
+
+2025.MMP2333          
+
+Western Mediterranean          
+
+39.48109572
+, 
+4.148813794
+
+35 miles off Menorca, Balearic Islands, Spain - departure from Boumerdes, Algeria on 10 Aug          
+
+Mediterranean          
+
+2025-08-29
+
+2025.MMP2334          
+
+Western Mediterranean          
+
+37.83632112
+, 
+-0.271826464
+
+31 miles southeast of Alicante, Spain - departure from Ain Benian, Algeria 2 weeks earlier          
+
+Mediterranean          
+
+2025-09-03
+
+2025.MMP2335          
+
+Western Mediterranean          
+
+38.58427936
+, 
+1.25514269
+
+Unspecified location off the coast of Ibiza, Balearic Islands, Spain - departure from Cherchell, Algeria on 31 Aug          
+
+Mediterranean          
+
+2025-09-05
+
+2025.MMP2336          
+
+Western Mediterranean          
+
+37.10126871
+, 
+3.409288396
+
+Unspecified location in the Algerian waters en route to Balearic Islands - departure from Boumerdes, Algeria on 9 Sep          
+
+Mediterranean          
+
+2025-09-13
+
+2025.MMP2337          
+
+Western Mediterranean          
+
+37.53224801
+, 
+3.280997755
+
+Unspecified location in the Mediterranean - departure from Ain Taya, Algeria          
+
+Mediterranean          
+
+2025-09-14
+
+2025.MMP2338          
+
+Central Mediterranean          
+
+37.66994007
+, 
+6.297160297
+
+Unspecified location in the Mediterraneanen route to Sardegna - departure from Jijel, Algeria          
+
+Mediterranean          
+
+2025-09-18
+
+2025.MMP2339          
+
+Western Mediterranean          
+
+37.15560783
+, 
+2.918722024
+
+Unspecified location in the Balearic Sea en route to Mallorca - departure from Benyam, Algeria          
+
+Mediterranean          
+
+2025-09-21
+
+2025.MMP2341          
+
+Western Mediterranean          
+
+37.05875846
+, 
+3.317277289
+
+Unspecified location in the Balearic Sea en route to Mallorca - departure from Réghaïa, Algiers, Algeria          
+
+Mediterranean          
+
+2025-09-28
+
+2025.MMP2342          
+
+Western Mediterranean          
+
+38.04492079
+, 
+3.35984992
+
+Unspecified location in the Mediterranean - departure from Boumerdes, Algeria          
+
+Mediterranean          
+
+2025-10-18
+
+2025.MMP2343          
+
+Western Mediterranean          
+
+37.68347008
+, 
+3.228812696
+
+Unspecified location in the Balearic Sea en route to Mallorca - departure from Aïn Taya, Algiers, Algeria          
+
+Mediterranean          
+
+2025-10-19
+
+2025.MMP2344          
+
+Western Mediterranean          
+
+36.86596358
+, 
+3.453233708
+
+Unspecified location in Algerian waters - departure from Boumerdes, Algeria on 24 Oct          
+
+Mediterranean          
+
+2025-10-29
+
+2025.MMP2345          
+
+Western Mediterranean          
+
+38.63868762
+, 
+1.456279493
+
+Remains recovered several miles off Formentera, Ballearic Islands, Spain          
+
+Mediterranean          
+
+2025-10-03
+
+2025.MMP2346          
+
+Eastern Mediterranean          
+
+38.92677579
+, 
+26.37044546
+
+3.3 miles east of Plomari, Southern Lesbos, Greece - departure from Türkiye          
+
+Mediterranean          
+
+2025-10-05
+
+2025.MMP2347          
+
+Western Mediterranean          
+
+38.89365511
+, 
+1.470125147
+
+Remains recovered 2 miles off Bahia de Talamanca, Ibiza, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-10-08
+
+2025.MMP2348          
+
+Western Mediterranean          
+
+39.45178042
+, 
+3.276846815
+
+Remains recovered off Cala Murada beach, Manacor, Palma de Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-10-13
+
+2025.MMP2349          
+
+Western Mediterranean          
+
+39.92900176
+, 
+3.902723385
+
+Remains recovered at  Cala des Talaier beach, Ciutadella, Menorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-10-13
+
+2025.MMP2350          
+
+Western Mediterranean          
+
+38.86255065
+, 
+0.048538911
+
+Remains recovered at Els Molins beach, 7 kilometers northwest of Denia, Alicante, Spain          
+
+Mediterranean          
+
+2025-10-15
+
+2025.MMP2351          
+
+Western Mediterranean          
+
+36.71737072
+, 
+-3.756660816
+
+Remains recovered approx. 500 meters off the coast between Almuñécar and Nerjar, 50 KM East of Malaga, Spain          
+
+Mediterranean          
+
+2025-10-20
+
+2025.MMP2352          
+
+Western Mediterranean          
+
+39.19460818
+, 
+2.680659078
+
+Remains recovered 25 miles off Palma de Mallorca, Ballearic Islands, Spain          
+
+Mediterranean          
+
+2025-10-29
+
+2025.MMP2353          
+
+Central Mediterranean          
+
+34.758
+, 
+10.901
+
+N 34.758° , E 010.901° off Sfax, Tunisia          
+
+Mediterranean          
+
+2025-11-07
+
+2025.MMP2354          
+
+Western Mediterranean          
+
+39.22019069
+, 
+2.531889675
+
+Remains recovered at unspecified location in the coast of Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-11-02
+
+2025.MMP2355          
+
+Western Mediterranean          
+
+38.72882684
+, 
+0.1957042
+
+Cala Granatilla, approx. 80 kilometers east of Almeria, Spain - departure from Algeria          
+
+Mediterranean          
+
+2025-11-02
+
+2025.MMP2356          
+
+Western Mediterranean          
+
+36.99299856
+, 
+-1.897838424
+
+Remains recovered from the cliffs of the port of Carboneras, East of Almeria, Spain          
+
+Mediterranean          
+
+2025-11-03
+
+2025.MMP2357          
+
+Western Mediterranean          
+
+37.29516895
+, 
+2.298829537
+
+Unspecified location following departure from Tipaza, Algeria en route to the Balearic Islands          
+
+Mediterranean          
+
+2025-11-12
+
+2025.MMP2358          
+
+Western Mediterranean          
+
+39.54066912
+, 
+2.705636112
+
+Remains washed ashore on the Carnatge coast, approx. 8 kilometers southeast of Palma de Mallorca, Balearic Islands, Spain          
+
+Mediterranean          
+
+2025-11-16
+
+2025.MMP2359          
+
+Western Mediterranean          
+
+37.67101439
+, 
+3.779843137
+
+Unspecified location between Algeria and the Balearic Islands - Departure from Dellys, Algeria          
+
+Mediterranean          
+
+2025-11-12
+
+2025.MMP2360          
+
+Western Mediterranean          
+
+37.34148592
+, 
+2.960311314
+
+Unspecified location between Algeria and the Balearic Islands - Departure from Algiers, Algeria          
+
+Mediterranean          
+
+2025-12-28
+
+2025.MMP2361          
+
+Western Mediterranean          
+
+38.02140208
+, 
+2.254884226
+
+100 miles North Algeria en route to the Balearic islands - departure from Tipaza, Algeria on 9 Dec          
+
+Mediterranean          
+
+2025-12-11
+
+2025.MMP2362          
+
+Western Mediterranean          
+
+37.22493606
+, 
+3.436754216
+
+32 miles off the Algerian coast en route to Balearic Islands - Departure from Boumerdes, Algeria          
+
+Mediterranean          
+
+2025-12-08
+
+2025.MMP2379          
+
+Western Mediterranean          
+
+37.78605503
+, 
+3.0424875
+
+Unspecified location en route to the Balearic Islands - departure from Algiers, Algeria          
+
+Mediterranean          
+
+2025-12-29
+
+2025.MMP2381          
+
+Western Mediterranean          
+
+35.19413195
+, 
+-2.875682031
+
+Unspecified location at sea between Melilla and Nador, Morocco          
+
+Mediterranean          
+
+2025-12-20
+
+2025.MMP2382          
+
+Western Mediterranean          
+
+35.19413195
+, 
+-2.875682031
+
+Unspecified location at sea between Melilla and Nador, Morocco          
+
+Mediterranean          
+
+2025-12-24
+
+2025.MMP2383          
+
+Eastern Mediterranean          
+
+37.76161103
+, 
+26.96964117
+
+Found bleeing upon reaching Agathonisi shores. Transferred to Samos Hospital where he passed away.          
+
+Mediterranean          
+
+2025-01-08
+
+2025.MMP2384          
+
+Central Mediterranean          
+
+32.79288992
+, 
+12.72337166
+
+Remains recovered at unspecified location near the shore of Az-Zawiya, Libya          
+
+Mediterranean          
+
+2025-02-12
+
+2025.MMP2385          
+
+Eastern Mediterranean          
+
+37.27132058
+, 
+27.08753954
+
+Off the coast of southern Farmakonisi, Greece          
+
+Mediterranean          
+
+2025-03-14
+
+2025.MMP2386          
+
+Central Mediterranean          
+
+35.11330273
+, 
+12.37779959
+
+Unspecified location off the coast of Lampedusa, Italy. Missing people fell into water during rescue by the Nadir          
+
+Mediterranean          
+
+2025-03-16
+
+2025.MMP2387          
+
+Central Mediterranean          
+
+32.81769838
+, 
+12.42081554
+
+Remains recovered in Sabratha city, Libya          
+
+Mediterranean          
+
+2025-04-05
+
+2025.MMP2388          
+
+Central Mediterranean          
+
+34.1271444
+, 
+14.55517115
+
+Unspecified location between Libya and Augusta, Italy. 4 people fell into the sea during high waves and were not recovered by Libyan Coast Guard or Life Support NGO.          
+
+Mediterranean          
+
+2025-04-05
+
+2025.MMP2389          
+
+Central Mediterranean          
+
+32.80612195
+, 
+12.49566487
+
+Remains recovered at the Roman theater in Sabratha, Libya          
+
+Mediterranean          
+
+2025-04-08
+
+2025.MMP2390          
+
+Eastern Mediterranean          
+
+37.65543105
+, 
+26.25083658
+
+Reported missing off of Ikaria, Greece. Boat crashed near Avlakas beach.          
+
+Mediterranean          
+
+2025-04-13
+
+2025.MMP2391          
+
+Central Mediterranean          
+
+33.32567628
+, 
+12.26204982
+
+Unspecified location off the coast of Zuwara, Libya          
+
+Mediterranean          
+
+2025-04-22
+
+2025.MMP2392          
+
+Eastern Mediterranean          
+
+37.09763214
+, 
+26.90754874
+
+1 nautical mile south of Piganousa, Leros, Greece          
+
+Mediterranean          
+
+2025-05-06
+
+2025.MMP2393          
+
+Central Mediterranean          
+
+34.94632558
+, 
+11.56805479
+
+Unspecified location off the coast of Sfax, Tunisia. Survivors arrived in Libya and reported the death and disposal of decomposing remains at sea          
+
+Mediterranean          
+
+2025-05-16
+
+2025.MMP2394          
+
+Central Mediterranean          
+
+35.09173085
+, 
+13.54654324
+
+Remains washed ashore at Sabratha, Libya          
+
+Mediterranean          
+
+2025-05-26
+
+2025.MMP2395          
+
+Eastern Mediterranean          
+
+38.57816276
+, 
+26.07300202
+
+Ambelos beach, Chios, Greece          
+
+Mediterranean          
+
+2025-06-05
+
+2025.MMP2396          
+
+Central Mediterranean          
+
+32.79532638
+, 
+13.72492788
+
+Remains recovered in Garabulli, Libya          
+
+Mediterranean          
+
+2025-06-14
+
+2025.MMP2397          
+
+Eastern Mediterranean          
+
+39.68620716
+, 
+25.88257381
+
+In Turkish territorial waters after departure from Canakkale, Türkiye. Survivors rescued at sea northwest of Lesvos, Greece          
+
+Mediterranean          
+
+2025-07-14
+
+2025.MMP2398          
+
+Central Mediterranean          
+
+33.4621508
+, 
+13.70854555
+
+25 nautical miles north of Qarabolli, Libya          
+
+Mediterranean          
+
+2025-07-23
+
+2025.MMP2399          
+
+Eastern Mediterranean          
+
+38.60186415
+, 
+26.04356936
+
+Off the coast of Amades, Chios, Greece          
+
+Mediterranean          
+
+2025-07-25
+
+2025.MMP2400          
+
+Central Mediterranean          
+
+32.87687773
+, 
+13.42368903
+
+Remains washed ashore in Tajoura, Libya          
+
+Mediterranean          
+
+2025-07-29
+
+2025.MMP2401          
+
+Central Mediterranean          
+
+32.39532297
+, 
+15.16177653
+
+Remains washed ashore at Azriq area, Misrata, Libya          
+
+Mediterranean          
+
+2025-07-29
+
+2025.MMP2402          
+
+Central Mediterranean          
+
+32.38488626
+, 
+15.19404887
+
+Remains washed ashore at Ras al-Rutbah area, Misrata, Libya          
+
+Mediterranean          
+
+2025-07-29
+
+2025.MMP2403          
+
+Central Mediterranean          
+
+32.39532297
+, 
+15.16177653
+
+Remains washed ashore at Azriq area, Misrata, Libya          
+
+Mediterranean          
+
+2025-07-30
+
+2025.MMP2404          
+
+Central Mediterranean          
+
+34.46108153
+, 
+35.82948813
+
+Remains washed ashore in Abu Nawas beach, Tripoli, Libya          
+
+Mediterranean          
+
+2025-07-31
+
+2025.MMP2405          
+
+Central Mediterranean          
+
+32.42025205
+, 
+14.96178456
+
+Remains washed ashore in Al-Arar area, Misrata, Libya          
+
+Mediterranean          
+
+2025-08-01
+
+2025.MMP2406          
+
+Central Mediterranean          
+
+32.05737195
+, 
+24.00136641
+
+Remains washed ashore on Bab al-Zeitoun beach, Tobruk, Libya          
+
+Mediterranean          
+
+2025-08-30
+
+2025.MMP2407          
+
+Eastern Mediterranean          
+
+34.09597069
+, 
+24.01074122
+
+44 nautical miles south of Gavdos, Greece - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-09-01
+
+2025.MMP2408          
+
+Central Mediterranean          
+
+33.74467891
+, 
+12.75580925
+
+Unspecified location off the coast of Az Zawiya, Libya          
+
+Mediterranean          
+
+2025-09-16
+
+2025.MMP2409          
+
+Central Mediterranean          
+
+32.81652025
+, 
+12.39191289
+
+Body found on Talil beach, near Sabratha, Libya          
+
+Mediterranean          
+
+2025-10-06
+
+2025.MMP2410          
+
+Eastern Mediterranean          
+
+37.78389415
+, 
+27.00172614
+
+Fell overboard off the coast of Galazio, Samos, Greece          
+
+Mediterranean          
+
+2025-10-12
+
+2025.MMP2411          
+
+Central Mediterranean          
+
+33.66345623
+, 
+12.35543481
+
+Unspecified location 1 hour after departure from Zuwara, Libya. Survivors disembarked in Lampedusa, Italy          
+
+Mediterranean          
+
+2025-10-14
+
+2025.MMP2412          
+
+Eastern Mediterranean          
+
+37.28984173
+, 
+27.08933399
+
+Boat crashed onto rocky shore near Farmakonisi pier, Greece          
+
+Mediterranean          
+
+2025-10-18
+
+2025.MMP2413          
+
+Central Mediterranean          
+
+43.56890992
+, 
+10.30725946
+
+After jumping overboard upon escaping apprehension in a canal in Livorno, Italy          
+
+Mediterranean          
+
+2025-10-30
+
+2025.MMP2414          
+
+Eastern Mediterranean          
+
+34.79633799
+, 
+24.12460929
+
+Remains found at sea near Lagadi, near Tripiti, Gavdos, Greece - presumed Libya-Crete crossing          
+
+Mediterranean          
+
+2025-11-06
+
+2025.MMP2415          
+
+Central Mediterranean          
+
+32.70701701
+, 
+14.18234405
+
+Remains found at Celine area, near Al-Khums, Libya          
+
+Mediterranean          
+
+2025-12-09
+
+2025.MMP2416          
+
+Central Mediterranean          
+
+32.43611982
+, 
+14.9134322
+
+Remains found in Zurayq, Misrata, Libya          
+
+Mediterranean          
+
+2025-12-10
+
+2025.MMP2417          
+
+Eastern Mediterranean          
+
+37.83900204
+, 
+26.78324761
+
+Reported missing by survivors found at Petalides area north of Samos, Greece          
+
+Mediterranean          
+
+2025-12-16
+
+2025.MMP2417          
+
+Eastern Mediterranean          
+
+37.83900204
+, 
+26.78324761
+
+Reported missing by survivors found at Petalides area north of Samos, Greece          
+
+Mediterranean          
+
+2025-12-17
+
+2025.MMP2418          
+
+Central Mediterranean          
+
+33.65894093
+, 
+12.21327224
+
+Unspecified location off the coast of Zuwarah, Libya          
+
+Mediterranean          
+
+2025-11-11
+
+2025.MMP2419          
+
+Central Mediterranean          
+
+34.12290017
+, 
+12.95290352
+
+Unspecified location after departure from Az-Zawiya, Libya. Survivors disembarked in Lampedusa, Italy.          
+
+Mediterranean          
+
+2025-10-15
+
+2025.MMP2420          
+
+Eastern Mediterranean          
+
+37.09763214
+, 
+26.90754874
+
+Unspecified location, presumably near Piganousa, Leros, Greece          
+
+Mediterranean          
+
+2025-09-05
+
+Title
+
+Total Number of Dead and Missing
+
+2025.MMP0002          
+
+28          
+
+2025.MMP0003          
+
+4          
+
+2025.MMP0004          
+
+1          
+
+2025.MMP0005          
+
+18          
+
+2025.MMP0006          
+
+1          
+
+2025.MMP0007          
+
+2          
+
+2025.MMP0015          
+
+1          
+
+2025.MMP0016          
+
+1          
+
+2025.MMP0017          
+
+1          
+
+2025.MMP0018          
+
+1          
+
+2025.MMP0020          
+
+7          
+
+2025.MMP0021          
+
+1          
+
+2025.MMP0022          
+
+1          
+
+2025.MMP0032          
+
+2          
+
+2025.MMP0034          
+
+2          
+
+2025.MMP0035          
+
+4          
+
+2025.MMP0036          
+
+1          
+
+2025.MMP0041          
+
+1          
+
+2025.MMP0042          
+
+1          
+
+2025.MMP0048          
+
+8          
+
+2025.MMP0049          
+
+56          
+
+2025.MMP0050          
+
+2          
+
+2025.MMP0054          
+
+1          
+
+2025.MMP0057          
+
+1          
+
+2025.MMP0058          
+
+2          
+
+2025.MMP0067          
+
+1          
+
+2025.MMP0068          
+
+1          
+
+2025.MMP0071          
+
+1          
+
+2025.MMP0074          
+
+1          
+
+2025.MMP0075          
+
+26          
+
+2025.MMP0082          
+
+1          
+
+2025.MMP0083          
+
+2          
+
+2025.MMP0088          
+
+6          
+
+2025.MMP0089          
+
+1          
+
+2025.MMP0090          
+
+1          
+
+2025.MMP0091          
+
+5          
+
+2025.MMP0093          
+
+3          
+
+2025.MMP0100          
+
+4          
+
+2025.MMP0101          
+
+2          
+
+2025.MMP0105          
+
+19          
+
+2025.MMP0106          
+
+20          
+
+2025.MMP0109          
+
+1          
+
+2025.MMP0130          
+
+21          
+
+2025.MMP0132          
+
+1          
+
+2025.MMP0133          
+
+46          
+
+2025.MMP0134          
+
+1          
+
+2025.MMP0135          
+
+3          
+
+2025.MMP0136          
+
+1          
+
+2025.MMP0138          
+
+18          
+
+2025.MMP0142          
+
+22          
+
+2025.MMP0143          
+
+1          
+
+2025.MMP0144          
+
+1          
+
+2025.MMP0149          
+
+1          
+
+2025.MMP0150          
+
+1          
+
+2025.MMP0153          
+
+1          
+
+2025.MMP0154          
+
+1          
+
+2025.MMP0155          
+
+14          
+
+2025.MMP0156          
+
+1          
+
+2025.MMP0161          
+
+1          
+
+2025.MMP0162          
+
+1          
+
+2025.MMP0164          
+
+8          
+
+2025.MMP0165          
+
+10          
+
+2025.MMP0167          
+
+1          
+
+2025.MMP0168          
+
+21          
+
+2025.MMP0170          
+
+48          
+
+2025.MMP0212          
+
+11          
+
+2025.MMP0216          
+
+2          
+
+2025.MMP0227          
+
+8          
+
+2025.MMP0228          
+
+1          
+
+2025.MMP0236          
+
+53          
+
+2025.MMP0238          
+
+1          
+
+2025.MMP0239          
+
+1          
+
+2025.MMP0240          
+
+1          
+
+2025.MMP0241          
+
+1          
+
+2025.MMP0250          
+
+1          
+
+2025.MMP0252          
+
+1          
+
+2025.MMP0253          
+
+4          
+
+2025.MMP0255          
+
+4          
+
+2025.MMP0257          
+
+2          
+
+2025.MMP0258          
+
+1          
+
+2025.MMP0259          
+
+4          
+
+2025.MMP0260          
+
+46          
+
+2025.MMP0261          
+
+4          
+
+2025.MMP0593          
+
+1          
+
+2025.MMP0594          
+
+1          
+
+2025.MMP0600          
+
+1          
+
+2025.MMP0610          
+
+3          
+
+2025.MMP0619          
+
+14          
+
+2025.MMP0620          
+
+8          
+
+2025.MMP0672          
+
+2          
+
+2025.MMP0674          
+
+1          
+
+2025.MMP0677          
+
+2          
+
+2025.MMP0678          
+
+1          
+
+2025.MMP0679          
+
+1          
+
+2025.MMP0680          
+
+1          
+
+2025.MMP0682          
+
+1          
+
+2025.MMP0683          
+
+1          
+
+2025.MMP0693          
+
+1          
+
+2025.MMP0694          
+
+1          
+
+2025.MMP0695          
+
+1          
+
+2025.MMP0696          
+
+1          
+
+2025.MMP0698          
+
+10          
+
+2025.MMP0705          
+
+1          
+
+2025.MMP0706          
+
+1          
+
+2025.MMP0708          
+
+1          
+
+2025.MMP0709          
+
+1          
+
+2025.MMP0710          
+
+1          
+
+2025.MMP0711          
+
+1          
+
+2025.MMP0712          
+
+1          
+
+2025.MMP0713          
+
+2          
+
+2025.MMP0714          
+
+1          
+
+2025.MMP0715          
+
+1          
+
+2025.MMP0716          
+
+1          
+
+2025.MMP0717          
+
+1          
+
+2025.MMP0718          
+
+1          
+
+2025.MMP0719          
+
+21          
+
+2025.MMP0720          
+
+40          
+
+2025.MMP0727          
+
+1          
+
+2025.MMP0728          
+
+1          
+
+2025.MMP0729          
+
+1          
+
+2025.MMP0730          
+
+1          
+
+2025.MMP0731          
+
+1          
+
+2025.MMP0732          
+
+5          
+
+2025.MMP0737          
+
+1          
+
+2025.MMP0738          
+
+1          
+
+2025.MMP0739          
+
+1          
+
+2025.MMP0747          
+
+1          
+
+2025.MMP0748          
+
+2          
+
+2025.MMP0750          
+
+6          
+
+2025.MMP0822          
+
+5          
+
+2025.MMP0823          
+
+1          
+
+2025.MMP0824          
+
+1          
+
+2025.MMP0825          
+
+1          
+
+2025.MMP0826          
+
+1          
+
+2025.MMP0827          
+
+21          
+
+2025.MMP0828          
+
+7          
+
+2025.MMP0829          
+
+2          
+
+2025.MMP0830          
+
+8          
+
+2025.MMP0831          
+
+8          
+
+2025.MMP0834          
+
+4          
+
+2025.MMP0835          
+
+44          
+
+2025.MMP0836          
+
+1          
+
+2025.MMP0842          
+
+1          
+
+2025.MMP0843          
+
+1          
+
+2025.MMP0844          
+
+1          
+
+2025.MMP0847          
+
+3          
+
+2025.MMP0848          
+
+1          
+
+2025.MMP0859          
+
+71          
+
+2025.MMP0861          
+
+1          
+
+2025.MMP0862          
+
+3          
+
+2025.MMP0864          
+
+1          
+
+2025.MMP0865          
+
+4          
+
+2025.MMP0874          
+
+4          
+
+2025.MMP0914          
+
+3          
+
+2025.MMP0915          
+
+1          
+
+2025.MMP0916          
+
+1          
+
+2025.MMP0918          
+
+8          
+
+2025.MMP0920          
+
+58          
+
+2025.MMP0932          
+
+1          
+
+2025.MMP0933          
+
+1          
+
+2025.MMP0934          
+
+4          
+
+2025.MMP0936          
+
+4          
+
+2025.MMP0938          
+
+1          
+
+2025.MMP0939          
+
+1          
+
+2025.MMP0945          
+
+4          
+
+2025.MMP0954          
+
+1          
+
+2025.MMP0955          
+
+12          
+
+2025.MMP0957          
+
+1          
+
+2025.MMP0959          
+
+68          
+
+2025.MMP0985          
+
+2          
+
+2025.MMP0986          
+
+1          
+
+2025.MMP0987          
+
+1          
+
+2025.MMP0988          
+
+1          
+
+2025.MMP0989          
+
+7          
+
+2025.MMP0990          
+
+1          
+
+2025.MMP0991          
+
+6          
+
+2025.MMP0992          
+
+3          
+
+2025.MMP0999          
+
+2          
+
+2025.MMP1000          
+
+6          
+
+2025.MMP1002          
+
+51          
+
+2025.MMP1006          
+
+2          
+
+2025.MMP1010          
+
+3          
+
+2025.MMP1017          
+
+1          
+
+2025.MMP1018          
+
+1          
+
+2025.MMP1019          
+
+1          
+
+2025.MMP1035          
+
+60          
+
+2025.MMP1038          
+
+1          
+
+2025.MMP1039          
+
+4          
+
+2025.MMP1055          
+
+2          
+
+2025.MMP1057          
+
+2          
+
+2025.MMP1062          
+
+1          
+
+2025.MMP1063          
+
+1          
+
+2025.MMP1065          
+
+1          
+
+2025.MMP1066          
+
+1          
+
+2025.MMP1067          
+
+1          
+
+2025.MMP1074          
+
+4          
+
+2025.MMP1079          
+
+9          
+
+2025.MMP1080          
+
+2          
+
+2025.MMP1081          
+
+2          
+
+2025.MMP1082          
+
+1          
+
+2025.MMP1085          
+
+1          
+
+2025.MMP1086          
+
+1          
+
+2025.MMP1088          
+
+1          
+
+2025.MMP1089          
+
+23          
+
+2025.MMP1090          
+
+3          
+
+2025.MMP1091          
+
+1          
+
+2025.MMP1093          
+
+40          
+
+2025.MMP1094          
+
+1          
+
+2025.MMP1095          
+
+1          
+
+2025.MMP1096          
+
+1          
+
+2025.MMP1108          
+
+49          
+
+2025.MMP1145          
+
+30          
+
+2025.MMP1146          
+
+4          
+
+2025.MMP1147          
+
+16          
+
+2025.MMP1577          
+
+4          
+
+2025.MMP1578          
+
+1          
+
+2025.MMP1582          
+
+1          
+
+2025.MMP1583          
+
+2          
+
+2025.MMP1605          
+
+1          
+
+2025.MMP1607          
+
+42          
+
+2025.MMP1608          
+
+12          
+
+2025.MMP1612          
+
+25          
+
+2025.MMP1613          
+
+1          
+
+2025.MMP1614          
+
+1          
+
+2025.MMP1615          
+
+1          
+
+2025.MMP1619          
+
+15          
+
+2025.MMP1620          
+
+44          
+
+2025.MMP1621          
+
+1          
+
+2025.MMP1622          
+
+5          
+
+2025.MMP1623          
+
+35          
+
+2025.MMP1630          
+
+18          
+
+2025.MMP1645          
+
+2          
+
+2025.MMP1659          
+
+5          
+
+2025.MMP1663          
+
+1          
+
+2025.MMP1664          
+
+1          
+
+2025.MMP1679          
+
+1          
+
+2025.MMP1680          
+
+32          
+
+2025.MMP1681          
+
+1          
+
+2025.MMP1695          
+
+1          
+
+2025.MMP1697          
+
+5          
+
+2025.MMP1698          
+
+1          
+
+2025.MMP1699          
+
+1          
+
+2025.MMP1701          
+
+1          
+
+2025.MMP1702          
+
+1          
+
+2025.MMP1703          
+
+1          
+
+2025.MMP1705          
+
+1          
+
+2025.MMP1712          
+
+1          
+
+2025.MMP1713          
+
+2          
+
+2025.MMP1714          
+
+1          
+
+2025.MMP1715          
+
+1          
+
+2025.MMP1719          
+
+116          
+
+2025.MMP2298          
+
+1          
+
+2025.MMP2304          
+
+2          
+
+2025.MMP2322          
+
+1          
+
+2025.MMP2323          
+
+4          
+
+2025.MMP2324          
+
+18          
+
+2025.MMP2327          
+
+1          
+
+2025.MMP2328          
+
+1          
+
+2025.MMP2329          
+
+1          
+
+2025.MMP2330          
+
+1          
+
+2025.MMP2331          
+
+4          
+
+2025.MMP2332          
+
+1          
+
+2025.MMP2333          
+
+4          
+
+2025.MMP2334          
+
+5          
+
+2025.MMP2335          
+
+2          
+
+2025.MMP2336          
+
+12          
+
+2025.MMP2337          
+
+24          
+
+2025.MMP2338          
+
+11          
+
+2025.MMP2339          
+
+13          
+
+2025.MMP2341          
+
+27          
+
+2025.MMP2342          
+
+22          
+
+2025.MMP2343          
+
+6          
+
+2025.MMP2344          
+
+2          
+
+2025.MMP2345          
+
+1          
+
+2025.MMP2346          
+
+1          
+
+2025.MMP2347          
+
+1          
+
+2025.MMP2348          
+
+1          
+
+2025.MMP2349          
+
+1          
+
+2025.MMP2350          
+
+1          
+
+2025.MMP2351          
+
+1          
+
+2025.MMP2352          
+
+1          
+
+2025.MMP2353          
+
+3          
+
+2025.MMP2354          
+
+1          
+
+2025.MMP2355          
+
+1          
+
+2025.MMP2356          
+
+1          
+
+2025.MMP2357          
+
+1          
+
+2025.MMP2358          
+
+1          
+
+2025.MMP2359          
+
+14          
+
+2025.MMP2360          
+
+19          
+
+2025.MMP2361          
+
+10          
+
+2025.MMP2362          
+
+20          
+
+2025.MMP2379          
+
+18          
+
+2025.MMP2381          
+
+1          
+
+2025.MMP2382          
+
+1          
+
+2025.MMP2383          
+
+1          
+
+2025.MMP2384          
+
+2          
+
+2025.MMP2385          
+
+2          
+
+2025.MMP2386          
+
+2          
+
+2025.MMP2387          
+
+1          
+
+2025.MMP2388          
+
+4          
+
+2025.MMP2389          
+
+2          
+
+2025.MMP2390          
+
+1          
+
+2025.MMP2391          
+
+1          
+
+2025.MMP2392          
+
+1          
+
+2025.MMP2393          
+
+1          
+
+2025.MMP2394          
+
+3          
+
+2025.MMP2395          
+
+1          
+
+2025.MMP2396          
+
+1          
+
+2025.MMP2397          
+
+4          
+
+2025.MMP2398          
+
+1          
+
+2025.MMP2399          
+
+1          
+
+2025.MMP2400          
+
+1          
+
+2025.MMP2401          
+
+1          
+
+2025.MMP2402          
+
+1          
+
+2025.MMP2403          
+
+1          
+
+2025.MMP2404          
+
+1          
+
+2025.MMP2405          
+
+1          
+
+2025.MMP2406          
+
+1          
+
+2025.MMP2407          
+
+1          
+
+2025.MMP2408          
+
+1          
+
+2025.MMP2409          
+
+1          
+
+2025.MMP2410          
+
+1          
+
+2025.MMP2411          
+
+2          
+
+2025.MMP2412          
+
+1          
+
+2025.MMP2413          
+
+2          
+
+2025.MMP2414          
+
+1          
+
+2025.MMP2415          
+
+1          
+
+2025.MMP2416          
+
+1          
+
+2025.MMP2417          
+
+3          
+
+2025.MMP2418          
+
+3          
+
+2025.MMP2419          
+
+3          
+
+2025.MMP2420          
+
+1          
+
+Title
+
+Website Date
+
+2025.MMP0002          
+
+01 Jan 2025
+
+2025.MMP0003          
+
+01 Jan 2025
+
+2025.MMP2323          
+
+03 Jan 2025
+
+2025.MMP0004          
+
+04 Jan 2025
+
+2025.MMP0005          
+
+04 Jan 2025
+
+2025.MMP2322          
+
+06 Jan 2025
+
+2025.MMP0032          
+
+07 Jan 2025
+
+2025.MMP0007          
+
+07 Jan 2025
+
+2025.MMP0015          
+
+08 Jan 2025
+
+2025.MMP2383          
+
+08 Jan 2025
+
+2025.MMP0006          
+
+08 Jan 2025
+
+2025.MMP0016          
+
+09 Jan 2025
+
+2025.MMP0021          
+
+10 Jan 2025
+
+2025.MMP0017          
+
+11 Jan 2025
+
+2025.MMP0018          
+
+15 Jan 2025
+
+2025.MMP0022          
+
+15 Jan 2025
+
+2025.MMP0020          
+
+16 Jan 2025
+
+2025.MMP0041          
+
+21 Jan 2025
+
+2025.MMP0600          
+
+22 Jan 2025
+
+2025.MMP0034          
+
+23 Jan 2025
+
+2025.MMP0042          
+
+25 Jan 2025
+
+2025.MMP0048          
+
+26 Jan 2025
+
+2025.MMP0035          
+
+26 Jan 2025
+
+2025.MMP0049          
+
+27 Jan 2025
+
+2025.MMP0036          
+
+27 Jan 2025
+
+2025.MMP0050          
+
+28 Jan 2025
+
+2025.MMP0105          
+
+29 Jan 2025
+
+2025.MMP2324          
+
+29 Jan 2025
+
+2025.MMP0054          
+
+02 Feb 2025
+
+2025.MMP0068          
+
+03 Feb 2025
+
+2025.MMP0106          
+
+04 Feb 2025
+
+2025.MMP0057          
+
+04 Feb 2025
+
+2025.MMP0074          
+
+05 Feb 2025
+
+2025.MMP0075          
+
+06 Feb 2025
+
+2025.MMP0058          
+
+06 Feb 2025
+
+2025.MMP0067          
+
+07 Feb 2025
+
+2025.MMP0083          
+
+10 Feb 2025
+
+2025.MMP2384          
+
+12 Feb 2025
+
+2025.MMP0093          
+
+15 Feb 2025
+
+2025.MMP0082          
+
+17 Feb 2025
+
+2025.MMP0071          
+
+17 Feb 2025
+
+2025.MMP0088          
+
+19 Feb 2025
+
+2025.MMP0142          
+
+21 Feb 2025
+
+2025.MMP0089          
+
+22 Feb 2025
+
+2025.MMP0090          
+
+23 Feb 2025
+
+2025.MMP0091          
+
+23 Feb 2025
+
+2025.MMP0101          
+
+28 Feb 2025
+
+2025.MMP0109          
+
+01 Mar 2025
+
+2025.MMP0100          
+
+01 Mar 2025
+
+2025.MMP0100          
+
+03 Mar 2025
+
+2025.MMP0144          
+
+05 Mar 2025
+
+2025.MMP0100          
+
+05 Mar 2025
+
+2025.MMP0134          
+
+08 Mar 2025
+
+2025.MMP0136          
+
+11 Mar 2025
+
+2025.MMP0132          
+
+13 Mar 2025
+
+2025.MMP2385          
+
+14 Mar 2025
+
+2025.MMP0135          
+
+15 Mar 2025
+
+2025.MMP0153          
+
+16 Mar 2025
+
+2025.MMP2386          
+
+16 Mar 2025
+
+2025.MMP0138          
+
+16 Mar 2025
+
+2025.MMP0130          
+
+17 Mar 2025
+
+2025.MMP0133          
+
+18 Mar 2025
+
+2025.MMP0143          
+
+19 Mar 2025
+
+2025.MMP0155          
+
+20 Mar 2025
+
+2025.MMP0154          
+
+21 Mar 2025
+
+2025.MMP0150          
+
+22 Mar 2025
+
+2025.MMP1067          
+
+22 Mar 2025
+
+2025.MMP1066          
+
+22 Mar 2025
+
+2025.MMP0149          
+
+23 Mar 2025
+
+2025.MMP0672          
+
+23 Mar 2025
+
+2025.MMP0162          
+
+24 Mar 2025
+
+2025.MMP0156          
+
+26 Mar 2025
+
+2025.MMP2327          
+
+30 Mar 2025
+
+2025.MMP0161          
+
+30 Mar 2025
+
+2025.MMP0164          
+
+03 Apr 2025
+
+2025.MMP0165          
+
+03 Apr 2025
+
+2025.MMP0167          
+
+05 Apr 2025
+
+2025.MMP2388          
+
+05 Apr 2025
+
+2025.MMP0170          
+
+05 Apr 2025
+
+2025.MMP2387          
+
+05 Apr 2025
+
+2025.MMP0168          
+
+05 Apr 2025
+
+2025.MMP2389          
+
+08 Apr 2025
+
+2025.MMP0258          
+
+10 Apr 2025
+
+2025.MMP2390          
+
+13 Apr 2025
+
+2025.MMP0727          
+
+13 Apr 2025
+
+2025.MMP0674          
+
+14 Apr 2025
+
+2025.MMP0216          
+
+14 Apr 2025
+
+2025.MMP0709          
+
+15 Apr 2025
+
+2025.MMP0212          
+
+16 Apr 2025
+
+2025.MMP0250          
+
+17 Apr 2025
+
+2025.MMP0259          
+
+22 Apr 2025
+
+2025.MMP2391          
+
+22 Apr 2025
+
+2025.MMP0261          
+
+25 Apr 2025
+
+2025.MMP0236          
+
+26 Apr 2025
+
+2025.MMP0227          
+
+27 Apr 2025
+
+2025.MMP0228          
+
+29 Apr 2025
+
+2025.MMP0252          
+
+30 Apr 2025
+
+2025.MMP0238          
+
+30 Apr 2025
+
+2025.MMP0239          
+
+30 Apr 2025
+
+2025.MMP0240          
+
+01 May 2025
+
+2025.MMP0260          
+
+02 May 2025
+
+2025.MMP0241          
+
+02 May 2025
+
+2025.MMP0593          
+
+04 May 2025
+
+2025.MMP0257          
+
+04 May 2025
+
+2025.MMP0619          
+
+05 May 2025
+
+2025.MMP2392          
+
+06 May 2025
+
+2025.MMP0728          
+
+07 May 2025
+
+2025.MMP0253          
+
+08 May 2025
+
+2025.MMP0710          
+
+09 May 2025
+
+2025.MMP0711          
+
+09 May 2025
+
+2025.MMP0594          
+
+09 May 2025
+
+2025.MMP0255          
+
+10 May 2025
+
+2025.MMP0729          
+
+12 May 2025
+
+2025.MMP0712          
+
+13 May 2025
+
+2025.MMP0620          
+
+16 May 2025
+
+2025.MMP2393          
+
+16 May 2025
+
+2025.MMP0730          
+
+16 May 2025
+
+2025.MMP0610          
+
+24 May 2025
+
+2025.MMP0680          
+
+25 May 2025
+
+2025.MMP2328          
+
+25 May 2025
+
+2025.MMP0679          
+
+25 May 2025
+
+2025.MMP2394          
+
+26 May 2025
+
+2025.MMP0731          
+
+28 May 2025
+
+2025.MMP0677          
+
+30 May 2025
+
+2025.MMP0693          
+
+30 May 2025
+
+2025.MMP0683          
+
+31 May 2025
+
+2025.MMP0678          
+
+31 May 2025
+
+2025.MMP0713          
+
+31 May 2025
+
+2025.MMP0705          
+
+01 Jun 2025
+
+2025.MMP0695          
+
+01 Jun 2025
+
+2025.MMP0682          
+
+01 Jun 2025
+
+2025.MMP0706          
+
+01 Jun 2025
+
+2025.MMP0694          
+
+01 Jun 2025
+
+2025.MMP0708          
+
+03 Jun 2025
+
+2025.MMP0677          
+
+03 Jun 2025
+
+2025.MMP0696          
+
+05 Jun 2025
+
+2025.MMP0714          
+
+05 Jun 2025
+
+2025.MMP2395          
+
+05 Jun 2025
+
+2025.MMP0827          
+
+07 Jun 2025
+
+2025.MMP0715          
+
+07 Jun 2025
+
+2025.MMP0716          
+
+08 Jun 2025
+
+2025.MMP0698          
+
+09 Jun 2025
+
+2025.MMP0828          
+
+09 Jun 2025
+
+2025.MMP0829          
+
+09 Jun 2025
+
+2025.MMP0717          
+
+10 Jun 2025
+
+2025.MMP0830          
+
+10 Jun 2025
+
+2025.MMP0718          
+
+11 Jun 2025
+
+2025.MMP0719          
+
+12 Jun 2025
+
+2025.MMP0720          
+
+13 Jun 2025
+
+2025.MMP0737          
+
+14 Jun 2025
+
+2025.MMP2396          
+
+14 Jun 2025
+
+2025.MMP0732          
+
+18 Jun 2025
+
+2025.MMP0738          
+
+19 Jun 2025
+
+2025.MMP0739          
+
+21 Jun 2025
+
+2025.MMP0747          
+
+22 Jun 2025
+
+2025.MMP0750          
+
+25 Jun 2025
+
+2025.MMP0750          
+
+26 Jun 2025
+
+2025.MMP1714          
+
+29 Jun 2025
+
+2025.MMP0748          
+
+30 Jun 2025
+
+2025.MMP0831          
+
+06 Jul 2025
+
+2025.MMP0822          
+
+06 Jul 2025
+
+2025.MMP0823          
+
+08 Jul 2025
+
+2025.MMP0824          
+
+08 Jul 2025
+
+2025.MMP0825          
+
+09 Jul 2025
+
+2025.MMP0826          
+
+09 Jul 2025
+
+2025.MMP0848          
+
+09 Jul 2025
+
+2025.MMP0836          
+
+10 Jul 2025
+
+2025.MMP0834          
+
+11 Jul 2025
+
+2025.MMP0835          
+
+11 Jul 2025
+
+2025.MMP0847          
+
+13 Jul 2025
+
+2025.MMP2397          
+
+14 Jul 2025
+
+2025.MMP0842          
+
+17 Jul 2025
+
+2025.MMP0843          
+
+19 Jul 2025
+
+2025.MMP2329          
+
+19 Jul 2025
+
+2025.MMP0844          
+
+19 Jul 2025
+
+2025.MMP2398          
+
+23 Jul 2025
+
+2025.MMP0859          
+
+24 Jul 2025
+
+2025.MMP2399          
+
+25 Jul 2025
+
+2025.MMP2330          
+
+27 Jul 2025
+
+2025.MMP2400          
+
+29 Jul 2025
+
+2025.MMP0861          
+
+29 Jul 2025
+
+2025.MMP0862          
+
+29 Jul 2025
+
+2025.MMP2402          
+
+29 Jul 2025
+
+2025.MMP2401          
+
+29 Jul 2025
+
+2025.MMP0864          
+
+30 Jul 2025
+
+2025.MMP2403          
+
+30 Jul 2025
+
+2025.MMP0874          
+
+31 Jul 2025
+
+2025.MMP2404          
+
+31 Jul 2025
+
+2025.MMP0865          
+
+01 Aug 2025
+
+2025.MMP2405          
+
+01 Aug 2025
+
+2025.MMP0914          
+
+07 Aug 2025
+
+2025.MMP0914          
+
+08 Aug 2025
+
+2025.MMP0918          
+
+08 Aug 2025
+
+2025.MMP0915          
+
+09 Aug 2025
+
+2025.MMP0932          
+
+10 Aug 2025
+
+2025.MMP2331          
+
+11 Aug 2025
+
+2025.MMP2332          
+
+11 Aug 2025
+
+2025.MMP0916          
+
+11 Aug 2025
+
+2025.MMP1065          
+
+11 Aug 2025
+
+2025.MMP0920          
+
+13 Aug 2025
+
+2025.MMP0933          
+
+14 Aug 2025
+
+2025.MMP0934          
+
+18 Aug 2025
+
+2025.MMP0939          
+
+19 Aug 2025
+
+2025.MMP0936          
+
+20 Aug 2025
+
+2025.MMP0959          
+
+20 Aug 2025
+
+2025.MMP0938          
+
+20 Aug 2025
+
+2025.MMP1002          
+
+22 Aug 2025
+
+2025.MMP0955          
+
+22 Aug 2025
+
+2025.MMP0945          
+
+24 Aug 2025
+
+2025.MMP0987          
+
+25 Aug 2025
+
+2025.MMP0954          
+
+25 Aug 2025
+
+2025.MMP0957          
+
+27 Aug 2025
+
+2025.MMP0988          
+
+28 Aug 2025
+
+2025.MMP2333          
+
+29 Aug 2025
+
+2025.MMP0989          
+
+29 Aug 2025
+
+2025.MMP0985          
+
+30 Aug 2025
+
+2025.MMP0989          
+
+30 Aug 2025
+
+2025.MMP2406          
+
+30 Aug 2025
+
+2025.MMP0986          
+
+31 Aug 2025
+
+2025.MMP2407          
+
+01 Sep 2025
+
+2025.MMP2304          
+
+01 Sep 2025
+
+2025.MMP0990          
+
+03 Sep 2025
+
+2025.MMP0991          
+
+03 Sep 2025
+
+2025.MMP2334          
+
+03 Sep 2025
+
+2025.MMP0992          
+
+03 Sep 2025
+
+2025.MMP0992          
+
+04 Sep 2025
+
+2025.MMP2335          
+
+05 Sep 2025
+
+2025.MMP2420          
+
+05 Sep 2025
+
+2025.MMP0999          
+
+05 Sep 2025
+
+2025.MMP1019          
+
+07 Sep 2025
+
+2025.MMP1000          
+
+07 Sep 2025
+
+2025.MMP1006          
+
+08 Sep 2025
+
+2025.MMP0992          
+
+08 Sep 2025
+
+2025.MMP1018          
+
+09 Sep 2025
+
+2025.MMP1010          
+
+10 Sep 2025
+
+2025.MMP2336          
+
+13 Sep 2025
+
+2025.MMP1017          
+
+13 Sep 2025
+
+2025.MMP1035          
+
+13 Sep 2025
+
+2025.MMP2337          
+
+14 Sep 2025
+
+2025.MMP1055          
+
+16 Sep 2025
+
+2025.MMP2408          
+
+16 Sep 2025
+
+2025.MMP2338          
+
+18 Sep 2025
+
+2025.MMP2339          
+
+21 Sep 2025
+
+2025.MMP1038          
+
+22 Sep 2025
+
+2025.MMP1039          
+
+24 Sep 2025
+
+2025.MMP1057          
+
+25 Sep 2025
+
+2025.MMP2341          
+
+28 Sep 2025
+
+2025.MMP1062          
+
+29 Sep 2025
+
+2025.MMP1063          
+
+30 Sep 2025
+
+2025.MMP1088          
+
+30 Sep 2025
+
+2025.MMP2345          
+
+03 Oct 2025
+
+2025.MMP2346          
+
+05 Oct 2025
+
+2025.MMP1079          
+
+05 Oct 2025
+
+2025.MMP2409          
+
+06 Oct 2025
+
+2025.MMP1074          
+
+07 Oct 2025
+
+2025.MMP2347          
+
+08 Oct 2025
+
+2025.MMP1085          
+
+10 Oct 2025
+
+2025.MMP1108          
+
+11 Oct 2025
+
+2025.MMP2410          
+
+12 Oct 2025
+
+2025.MMP1091          
+
+12 Oct 2025
+
+2025.MMP2349          
+
+13 Oct 2025
+
+2025.MMP1086          
+
+13 Oct 2025
+
+2025.MMP2348          
+
+13 Oct 2025
+
+2025.MMP1095          
+
+14 Oct 2025
+
+2025.MMP1082          
+
+14 Oct 2025
+
+2025.MMP1094          
+
+14 Oct 2025
+
+2025.MMP1080          
+
+14 Oct 2025
+
+2025.MMP2411          
+
+14 Oct 2025
+
+2025.MMP1096          
+
+15 Oct 2025
+
+2025.MMP2419          
+
+15 Oct 2025
+
+2025.MMP2350          
+
+15 Oct 2025
+
+2025.MMP1081          
+
+16 Oct 2025
+
+2025.MMP1089          
+
+17 Oct 2025
+
+2025.MMP2412          
+
+18 Oct 2025
+
+2025.MMP2342          
+
+18 Oct 2025
+
+2025.MMP1090          
+
+19 Oct 2025
+
+2025.MMP2343          
+
+19 Oct 2025
+
+2025.MMP2351          
+
+20 Oct 2025
+
+2025.MMP1090          
+
+20 Oct 2025
+
+2025.MMP1578          
+
+20 Oct 2025
+
+2025.MMP1093          
+
+22 Oct 2025
+
+2025.MMP1147          
+
+24 Oct 2025
+
+2025.MMP1146          
+
+27 Oct 2025
+
+2025.MMP1145          
+
+28 Oct 2025
+
+2025.MMP2352          
+
+29 Oct 2025
+
+2025.MMP2344          
+
+29 Oct 2025
+
+2025.MMP1577          
+
+29 Oct 2025
+
+2025.MMP2413          
+
+30 Oct 2025
+
+2025.MMP1622          
+
+30 Oct 2025
+
+2025.MMP1612          
+
+02 Nov 2025
+
+2025.MMP2355          
+
+02 Nov 2025
+
+2025.MMP2354          
+
+02 Nov 2025
+
+2025.MMP2356          
+
+03 Nov 2025
+
+2025.MMP1582          
+
+03 Nov 2025
+
+2025.MMP1583          
+
+03 Nov 2025
+
+2025.MMP1614          
+
+03 Nov 2025
+
+2025.MMP1615          
+
+03 Nov 2025
+
+2025.MMP1613          
+
+03 Nov 2025
+
+2025.MMP1621          
+
+04 Nov 2025
+
+2025.MMP1630          
+
+05 Nov 2025
+
+2025.MMP2414          
+
+06 Nov 2025
+
+2025.MMP2353          
+
+07 Nov 2025
+
+2025.MMP1607          
+
+08 Nov 2025
+
+2025.MMP1605          
+
+09 Nov 2025
+
+2025.MMP1608          
+
+11 Nov 2025
+
+2025.MMP2418          
+
+11 Nov 2025
+
+2025.MMP2357          
+
+12 Nov 2025
+
+2025.MMP2359          
+
+12 Nov 2025
+
+2025.MMP1620          
+
+13 Nov 2025
+
+2025.MMP1623          
+
+15 Nov 2025
+
+2025.MMP1619          
+
+15 Nov 2025
+
+2025.MMP2358          
+
+16 Nov 2025
+
+2025.MMP1705          
+
+18 Nov 2025
+
+2025.MMP1645          
+
+25 Nov 2025
+
+2025.MMP1663          
+
+27 Nov 2025
+
+2025.MMP1679          
+
+02 Dec 2025
+
+2025.MMP1664          
+
+03 Dec 2025
+
+2025.MMP1659          
+
+04 Dec 2025
+
+2025.MMP1680          
+
+06 Dec 2025
+
+2025.MMP1681          
+
+07 Dec 2025
+
+2025.MMP2362          
+
+08 Dec 2025
+
+2025.MMP2415          
+
+09 Dec 2025
+
+2025.MMP2416          
+
+10 Dec 2025
+
+2025.MMP2361          
+
+11 Dec 2025
+
+2025.MMP1712          
+
+12 Dec 2025
+
+2025.MMP1695          
+
+14 Dec 2025
+
+2025.MMP2417          
+
+16 Dec 2025
+
+2025.MMP1697          
+
+16 Dec 2025
+
+2025.MMP1715          
+
+19 Dec 2025
+
+2025.MMP1719          
+
+19 Dec 2025
+
+2025.MMP2381          
+
+20 Dec 2025
+
+2025.MMP2298          
+
+20 Dec 2025
+
+2025.MMP2382          
+
+24 Dec 2025
+
+2025.MMP1699          
+
+25 Dec 2025
+
+2025.MMP2360          
+
+28 Dec 2025
+
+2025.MMP2379          
+
+29 Dec 2025
+
+2025.MMP1701          
+
+29 Dec 2025
+
+2025.MMP1698          
+
+29 Dec 2025
+
+2025.MMP1702          
+
+29 Dec 2025
+
+2025.MMP1703          
+
+30 Dec 2025
+
+2025.MMP1713          
+
+30 Dec 2025
+
+Disclaimer:
+ The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the International Organization for Migration.
+
+Data represent minimum estimates and locations are approximate. The latest incident recorded occurred on 20 October 2026.
+
+35696
+
+Missing Migrants
+
+Recorded in 
+
+Mediterranean
+
+(since 2014)
+
+Migration within the Mediterranean
+
+There is a long history of migration via the Mediterranean. Human mobility in all directions across the Mediterranean has occurred for thousands of years. Since at least the mid-1990s, thousands of people each year have crossed the Mediterranean by boat from the northern coasts of Africa and Turkey to seek asylum or to migrate to Europe if they do not have the documentation required by the countries of destination. The Mediterranean Sea is where irregular migration to Europe is most visible.
+
+Migration across the Mediterranean: context in brief
+
+There is a long history of migration via the Mediterranean. Human mobility in all directions across the Mediterranean has occurred for thousands of years. More recently, since at least the mid-1990s, thousands of people each year have crossed the Mediterranean by boat from the northern coasts of Africa and Turkey to seek asylum or to migrate to Europe if they do not have the documentation required by the countries of destination. It should be noted that the Mediterranean Sea is where irregular migration to Europe is most visible. However, people also use other irregular migration routes to reach Europe, including the sea crossings from Africa to the Spanish Canary Islands, from Comoros to French Mayotte, and the land route across the Turkey-Greece border and to/through the Balkans. The information here focuses on mixed migration dynamics of the three main routes to Europe across the Mediterranean Sea. However, it should be noted that these routes are not always used as defined and can overlap. Journalists and civil society organizations have documented the risks associated with these migration routes since the early 1990s.
+[1]
+ Since 2014, Missing Migrants Project has recorded the deaths of tens of thousands of people in the Mediterranean Sea.
+
+[1] For example, 
+UNITED for Intercultural Action
+ and the 
+Deaths at the Border Database
+
+Central Mediterranean
+
+The Central Mediterranean route is the overseas crossing from North Africa to Italy and, to a lesser degree, Malta. Those migrating on this route generally aim to reach Italian shores but leave from a variety of North African countries bordering the Mediterranean. Though in past years most migrants have departed from Libya, which is a destination for migrants as well as a transit country, there is also a proportionally small but growing number of departures from Tunisia, Egypt, and Algeria. Tunisia in particular has seen an increase in departures, with Tunisian nationals comprising more than 60 percent of Central Mediterranean crossings in 2020 according to IOM’s Displacement Tracking Matrix. 
+
+Between 1997 and 2010, an average of about 23,000 migrants arrived in Italy each year across the Mediterranean, though the number of arrivals recorded dropped to less than 10,000 between 2009 and 2010. In 2011, the number of migrants arriving in Europe via the Central Mediterranean route rose dramatically: 62,692 sea arrivals were recorded in Italy, a 13-fold increase over the 4,406 recorded in 2010. Migrant arrivals in Italy remained high in the years following 2011 but dropped in mid-2017. However, it is unclear if this is a true reduction in people arriving or due to an increased number of interceptions of migrants at sea by North African authorities and/or more deaths at sea. The former is particularly the case, as the number of people being returned to North African shores has increased in recent years. Interceptions by the Tunisian and Libyan coast guards accounted for 8 percent of all search and rescue operations in the Central Mediterranean in 2016, but by 2018, 49 percent of the total number people recorded attempting to cross were brought back to Tunisia or Libya. This shift can be attributed to several factors, including the decreased maritime patrol area of Italian authorities and the shift of EU/Frontex assets from maritime vessels to drones incapable of conducting rescue at sea. 
+
+Western Mediterranean
+
+The Western Mediterranean has been a crossing point between North Africa and Spain for thousands of years. It encompasses several sub-routes, including the maritime journeys from Morocco and the western coast of Algeria across the Strait of Gibraltar and the Alborán Sea as well as the land route into Ceuta and Melilla, two autonomous Spanish cities located in North Africa. Irregular migration to Spain has been a common occurrence since Spain introduced visa requirements for many North African countries in 1991 as part of the Schengen process. Migrants travelling on this route mostly depart from Morocco – the distance between Spain and Morocco is just 14.4 km at its closest point – though since the mid-2010s there is also a small but growing number of boat departures to mainland Spain from the western coast of Algeria. Moroccans have also been the most common nationality to reach Spain via the Western Mediterranean, most of whom are young men. 
+
+Eastern Mediterranean
+
+The Eastern Mediterranean route involves maritime migration from Turkey to Greece and, to a lesser degree, Cyprus and Bulgaria. It was the main maritime route used for irregular entry to Europe in 2015, when nearly one million migrants attempted to cross the Mediterranean into Europe through this route (IOM, 2021a; 2021b). The number of people using this maritime route dropped sharply after the implementation of the European Union–Turkey agreement in late March 2016 and since then have remained far fewer than seen in 2015. The route is largely used by people from the Middle East and South Asia fleeing conflict and instability, notably Syrians, Iraqis and Afghans.
+
+Overview of migrant deaths in the Mediterranean
+
+Since at least 2014, when the Missing Migrants Project began, the Mediterranean Sea has become a site of escalating numbers of migrant fatalities. The migratory journeys prior to these Mediterranean crossings are also highly risky, as they often involve crossing remote terrains such as the Sahara Desert and residing, at least temporarily, in countries such as Libya where conditions for migrants are often dangerous.
+
+Central Mediterranean
+
+The Central Mediterranean is the deadliest known migration route in the world, with tens of thousands of deaths and disappearances recorded by MMP since 2014. This is due both to the length of the overseas journey, which can take days, as well as increasingly dangerous smuggling patterns, gaps in search-and-rescue capacity and restrictions on the life-saving work of NGOs. Migrants often cross the Central Mediterranean in unseaworthy, overloaded inflatable boats. Multiple boats may also be launched at the same time, which complicates search and rescue efforts significantly.
+
+The Central Mediterranean is also the route where the most disappearances have occurred, though it is likely that many more deaths remain unrecorded. The hundreds of remains that wash up to North African shores each year indicate that countless remains have been lost at sea on this route. There is also strong evidence that many shipwrecks are “invisible” – boats in distress disappear with no survivors – that therefore go unrecorded. For example, MMP has recorded hundreds of human remains found on Libyan shores that are not linked to any known shipwreck.
+
+Western Mediterranean
+
+The vast majority of deaths on this route involve shipwrecks on the overseas route to the Spanish mainland. However, the land crossings to the Spanish enclaves of Melilla and Ceuta are also hazardous, with several dozen deaths recorded by MMP attributable to violence, sickness and lack of access to health care.  In several cases, accidental and violent deaths have occurred at the border fences of these Spanish enclaves linked to attempted crossings. 
+
+Eastern Mediterranean
+
+Compared to the other Mediterranean routes, a higher proportion of people’s remains are recovered and brought ashore in the Eastern Mediterranean. This means that the identities and profiles of those who die are better known: the deaths of several hundred children have been recorded on the Eastern Mediterranean route, many of whom were under age 5. The many of those whose deaths are documented on this route were from Syria, Iraq, and Afghanistan.
+
+Data collection and challenges  
+
+In addition to the challenges 
+inherent to collecting data on missing migrants
+, ensuring full coverage and completeness of migrant deaths in the Mediterranean faces unique obstacles. The nature of any overseas crossing means that it is highly likely that migrants may disappear without a trace, especially in cases where people are lost at sea or shipwrecks occur with no survivors. This is exemplified by the hundreds of remains recovered on the shores of Libya which are not linked to any known shipwreck, as well as the many reports of shipwrecks with no survivors that are challenging to verify. This means that not only is the documented number of deaths and disappearances on these migration routes likely an undercount, but also that for the vast majority of recorded cases little to no information on the individuals who die is available. 
+
+Resources
+
+Data on attempted crossings of the Mediterranean Sea 2016-2024
+ can be downloaded 
+here
+, including data on arrivals in Europe, interceptions by North African and Turkish Coast Guards, and migrant deaths and disappearances.  
+
+Migrant deaths and disappearances in the Mediterranean 
+
+Black, J. and I. Urquijo Sanchez (2017) “Europe and the Mediterranean” in 
+Fatal Journeys 3 part 2: Improving Data on Missing Migrants
+. IOM, Geneva.  
+
+Dearden, K., M. Sánchez Dionis, J. Black and F. Laczko (2020) 
+Calculating “Death Rates” in the Context of Migration Journeys: Focus on the Central Mediterranean
+. IOM, Geneva.  
+
+Robins, S. (2019) 
+Analysis of Best Practices in the Identification of Missing Migrants: Implications for the Central Mediterranean
+. IOM, Geneva.  
+
+Data on migration in the Mediterranean more broadly 
+
+Migration Data Portal: Europe
+
+Flow Monitoring Europe
+
+Total Dead and Missing
+
+35696
+
+Missing Migrants 
+
+Recorded in 
+
+    Mediterranean
+
+(since 2014)
+
+Dead and Missing by year
+
+Migration Route
+
+Fatalities by Month
+
+Cause of Death
+
+1,605
+
+Mixed or unknown
+
+388
+
+Vehicle accident / death linked to hazardous transport
+
+555
+
+Harsh environmental conditions / lack of adequate shelter, food, water
+
+84
+
+Accidental death
+
+39
+
+Sickness / lack of access to adequate healthcare
+
+32,879
+
+Drowning
+
+146
+
+Violence
+
+By Gender
+
+Number of children
+
+ View in PDF
+
+Latest Incidents
+
+Incident ID
+
+    Sort ascending
+
+Date
+
+Migration route
+
+Cause of Death
+
+Dead & Missing
+
+Women & Children
+
+View
+
+2026.MMP1459          
+
+20/10/2026
+
+Western Mediterranean          
+
+1          
+
+0 
+
+2026.MMP1458          
+
+18/10/2026
+
+Western Mediterranean          
+
+1          
+
+0 
+
+2026.MMP1453          
+
+19/10/2026
+
+Eastern Mediterranean          
+
+1          
+
+0 
+
+2026.MMP1443          
+
+19/10/2026
+
+Eastern Mediterranean          
+
+9          
+
+1 
+
+2026.MMP1442          
+
+19/10/2026
+
+Eastern Mediterranean          
+
+6          
+
+2 
+
+2026.MMP1398          
+
+09/10/2026
+
+Central Mediterranean          
+
+30          
+
+1 
+
+2026.MMP1392          
+
+08/09/2026
+
+Eastern Mediterranean          
+
+1          
+
+0 
+
+2026.MMP1389          
+
+26/09/2026
+
+Western Mediterranean          
+
+1          
+
+0 
+
+2026.MMP1388          
+
+29/09/2026
+
+Western Mediterranean          
+
+1          
+
+0 
+
+2026.MMP1380          
+
+29/09/2026
+
+Central Mediterranean          
+
+8          
+
+4 
+
+Download
+
+Regions in Focus
+
+Africa
+
+Americas
+
+Asia
+
+Europe
+
+Spotlight on the Mediterranean
+
+Western Asia
+
+https://missingmigrants.iom.int/region/mediterranean
+
+missingmigrants@iom.int
+
+Official IOM Notice:
+
+IOM services are always free of charge. If anyone requests payment or if you have doubts about someone claiming to be from IOM, contact your local IOM office. Official emails always end in @iom.int.
+
+CONTACT US
+
+MissingMigrants@iom.int
+
+INTERNATIONAL ORGANIZATION FOR MIGRATION (IOM)
+
+Visiting Address
+ (Temporary Premises):
+ 20 Avenue Appia
+ 1211 Geneva, Switzerland
+
+Mailing and Postal Address:
+ 17 route des Morillons
+ CH-1218 Grand-Saconnex
+ Geneva, Switzerland
+
++41 22 717 9111
+
+IOM GLOBAL MIGRATION DATA ANALYSIS CENTRE
+
++49 30278 77 827
+
+MissingMigrants@iom.int
+
+IOM MEDIA AND COMMUNICATIONS DIVISION
+
++41 79 285 57 123
+
+MCD@iom.int
+
+Missing Migrants Project by International Organization for Migration (IOM) is licensed under a 
+Creative Commons Attribution 4.0 International License
+. This means that Missing Migrants Project data and website content is free to share and adapt, as long as the appropriate attribution is given.
+
+This website was created and maintained with the financial support of the governments of Switzerland, the EU, Germany, and the United Kingdom. Its contents are the sole responsibility of the IOM and do not necessarily reflect the views of the Switzerland, the EU, Germany, and the United Kingdom.
+
+Copyright © 2026 International Organization for Migration
+
+Data
+
+The Missing Migrants Project dataset represents incidents in which a person lost their life during migration to an international destination. The figures shown throughout are best understood as a minimum estimate of the true number of people’s lives lost during migration worldwide.
+
+Families of Missing Migrants
+
+For every person included in the Missing Migrants Project data, there is a family awaiting news of their loved one and affected by their loss in a multitude of ways. The impacts of migrant deaths and disappearances on their families left behind are profound and complex, and solutions are urgently needed to address families’ many unmet needs.
+

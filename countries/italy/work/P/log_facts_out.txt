@@ -1,0 +1,130 @@
+P0001	interno-circolare-7185-2026-flussi-2027	For 2027 Italy admits 165,850 non-EU citizens in total for employed (including seasonal) and self-employed work
+P0002	interno-circolare-7185-2026-flussi-2027	The 2027 non-seasonal quota is 76,200 entries, of which 14,000 are for domestic and family care work
+P0003	interno-circolare-7185-2026-flussi-2027	The 2027 seasonal quota (agriculture and tourism) is 89,000 entries
+P0004	interno-circolare-7185-2026-flussi-2027	The 2027 self-employment quota is 650 entries
+P0005	interno-circolare-7185-2026-flussi-2027	From 2027 Kenya is added to the countries of origin, after a migration and mobility memorandum signed with Italy on 2 July 2026
+P0006	interno-circolare-7185-2026-flussi-2027	The other quota breakdowns and reserved quotas of the DPCM of 2 October 2025 stay unchanged for 2027
+P0007	interno-circolare-7185-2026-flussi-2027	Pre-filling of 2027 nulla osta applications is open from 9:00 on 23 October 2026 to 20:00 on 7 December 2026
+P0008	interno-circolare-7185-2026-flussi-2027	Pre-filling is done on the Portale Servizi ALI at portaleservizi.dlci.interno.it, including holidays and at any hour
+P0009	interno-circolare-7185-2026-flussi-2027	The ALI portal address for pre-filling is https://portaleservizi.dlci.interno.it/AliSportello/ali/home.htm
+P0010	interno-circolare-7185-2026-flussi-2027	The Ispettorato Nazionale del Lavoro (labour inspectorate) may check pre-filled applications in advance, under TUI art. 22(2-bis.1)
+P0011	interno-circolare-7185-2026-flussi-2027	Forms for 2027: C-Stag agricolo (seasonal agriculture), C-Stag turistico (seasonal tourism), B2020 (non-seasonal), A-bis in quota (domestic and family care)
+P0012	interno-circolare-7185-2026-flussi-2027	Form B2020 is the nulla osta request for non-seasonal employed work in the sectors set by the DPCM
+P0013	interno-circolare-7185-2026-flussi-2027	After pre-filling closes, the ALI section reopens from 9:00 on 9 December to 20:00 on 13 December 2026 only to complete and save applications already pre-filled
+P0014	interno-circolare-7185-2026-flussi-2027	No new applications can be entered during the 9-13 December 2026 reopening
+P0015	interno-circolare-7185-2026-flussi-2027	The application must be saved so it moves from 'da completare' (to complete) to 'da inviare' (to send), ready for click day
+P0016	interno-circolare-7185-2026-flussi-2027	2027 click day for seasonal agriculture (C-Stag agricolo): 12 January 2027 from 9:00
+P0017	interno-circolare-7185-2026-flussi-2027	2027 click day for seasonal tourism (C-Stag turistico): 9 February 2027
+P0018	interno-circolare-7185-2026-flussi-2027	2027 click day for non-seasonal work (B2020): 16 February 2027
+P0019	interno-circolare-7185-2026-flussi-2027	2027 click day for domestic and family care work (A-bis): 18 February 2027
+P0020	interno-circolare-7185-2026-flussi-2027	Click-day applications are accepted from 9:00 on those days
+P0021	interno-circolare-7185-2026-flussi-2027	All 2027 applications can be sent until 31 December 2027 while quota remains
+P0022	interno-circolare-7185-2026-flussi-2027	Earlier operating rules of joint circular 8047 of 16 October 2025 and circular 8524 of 30 October 2025 still apply where compatible
+P0023	interno-circolare-7185-2026-flussi-2027	The immigration law (D.Lgs. 286/1998) was amended by Decree-Law 146/2025, converted by Law 179 of 1 December 2025, and by Legislative Decree 83 of 16 April 2026
+P0024	interno-circolare-7185-2026-flussi-2027	Under new TUI art. 22(5-quinquies) the employer must confirm the nulla osta request to the SUI within 15 days of being told the visa checks are complete
+P0025	interno-circolare-7185-2026-flussi-2027	If the employer does not confirm in time, the request counts as refused and any nulla osta already issued is revoked
+P0026	interno-circolare-7185-2026-flussi-2027	The employer must promptly inform the foreign worker of every communication it receives about the nulla osta procedure
+P0027	interno-circolare-7185-2026-flussi-2027	The contratto di soggiorno (contract of stay) must now be signed by employer and worker within 15 days of the worker's entry into Italy, up from 8 days
+P0028	interno-circolare-7185-2026-flussi-2027	Within the same 15 days the employer sends the contract online to the SUI for the permesso di soggiorno request
+P0029	interno-circolare-7185-2026-flussi-2027	The confirmation and the contract upload can be done by the employer directly or through labour consultants (Law 12/1979) or the main employer organisations it mandates
+P0030	interno-circolare-7185-2026-flussi-2027	For housing proof, circular 9859 of 15 December 2025 applies, following art. 4 of Law 182 of 2 December 2025 on workers housed in hotels or accommodation facilities and in stable construction-site dormitories
+P0031	interno-circolare-7185-2026-flussi-2027	There are no changes in the list of ATECO (sector) codes for 2027
+P0032	gu-dl-146-2025	Decree-Law 146 of 3 October 2025 on regular entry of foreign workers was published in Gazzetta Ufficiale n. 230 of 3 October 2025 and in force from 4 October 2025
+P0033	gu-dl-146-2025	The decree's stated aims include fighting caporalato (illegal gangmastering) and labour exploitation in agriculture and the illegal recruitment of foreign workers
+P0034	gu-dl-146-2025	The time limit for issuing a work nulla osta now runs from the date the request is assigned to the quota, not from its submission
+P0035	gu-dl-146-2025	For out-of-quota (Article 27) work authorisations, the authorities check the truthfulness of the employer's declarations under DPR 445/2000 art. 71
+P0036	gu-dl-146-2025	Employers (or employer organisations) who want to apply on click day must first pre-fill the forms on the Interior Ministry portal
+P0037	gu-dl-146-2025	The authorities check the truthfulness of users' declarations at the moment they access pre-filling
+P0038	gu-dl-146-2025	A private employer may file at most three nulla osta requests for employed work per year
+P0039	gu-dl-146-2025	The three-request limit does not apply to requests filed through employer organisations or labour consultants, who must keep the number proportional to the firm's turnover, staff and sector
+P0040	gu-dl-146-2025	While waiting for the issue, renewal or conversion of a permesso di soggiorno, a foreigner may stay legally and work, even after the 60-day limit, until police notify reasons to refuse
+P0041	gu-dl-146-2025	Working while the permit is pending requires the receipt showing the permit request was filed
+quote too short; copy a full phrase or sentence	gu-dl-146-2025	The special permit for victims of violence or serious exploitation (TUI art. 18(4)) now lasts one year instead of six months
+P0042	gu-dl-146-2025	Holders of art. 18 and art. 18-bis permits may receive the assegno di inclusione (inclusion benefit)
+P0043	gu-dl-146-2025	The out-of-quota entry of domestic workers to care for the very elderly and people with disabilities (DL 145/2024 art. 2) is extended to each year 2026-2028
+P0044	gu-dl-146-2025	The SUI's time limit for family reunification nulla osta (TUI art. 29(8)) rises from 90 to 150 days
+P0045	gu-dl-146-2025	Special measures for the Lampedusa hotspot are extended to 31 December 2027
+P0046	interno-cruscotto-2024-12-31	In 2024, 66,617 refugees and migrants arrived in Italy by sea, 58% fewer than the 157,651 of 2023
+P0047	interno-cruscotto-2024-12-31	Bangladesh was the top country of origin of sea arrivals in 2024, with 21%, ahead of Syria (19%) and Tunisia (12%)
+P0048	interno-cruscotto-2024-12-31	Over 14,200 Bangladeshis reached Italy by sea in 2024, 12% more than in 2023
+P0049	interno-cruscotto-2024-12-31	UNHCR links the rise in Bangladeshi arrivals to smuggling businesses using flight routes to Benina (Benghazi) airport
+P0050	interno-cruscotto-2024-12-31	Asian nationals reportedly flew to Benghazi before moving to Tripolitania to embark
+P0051	interno-cruscotto-2024-12-31	On the Libya route in 2024 the top countries of origin were Bangladesh, Syria, Egypt, Pakistan and Eritrea
+P0052	interno-cruscotto-2024-12-31	In December 2024 Bangladeshis were 40% of all sea arrivals and 50% of departures from Libya
+P0053	interno-cruscotto-2024-12-31	In December 2024, 50% of people departing Libya were Bangladeshi
+P0054	interno-cruscotto-2024-12-31	In 2024, 1,718 people died or went missing crossing the central Mediterranean towards Italy, one for every 39 arrivals (IOM Missing Migrants data)
+P0055	interno-cruscotto-2024-12-31	Lampedusa received over 45,500 sea arrivals in 2024, 68% of the total
+P0056	interno-cruscotto-2024-12-31	In 2024, 63% of sea arrivals departed from Libya (42,279 people)
+P0057	interno-cruscotto-2024-12-31	Bangladeshis were the largest group of unaccompanied children arriving in December 2024 (55 of 272)
+P0058	interno-cruscotto-2025-12-31	In 2025, 66,316 refugees and migrants arrived in Italy by sea, against 66,617 in 2024
+P0059	interno-cruscotto-2025-12-31	Bangladeshis were the largest nationality arriving by sea in Italy in 2025, at 20,259
+P0060	interno-cruscotto-2025-12-31	In December 2025 Bangladeshis were 31% of all sea arrivals (30% in November)
+P0061	interno-cruscotto-2025-12-31	In December 2025 Bangladeshis were 39% of people departing from Libya
+P0062	interno-cruscotto-2025-12-31	In 2025, 88% of sea arrivals left from Libya: 58,408 people in 1,103 landings
+P0063	interno-cruscotto-2025-12-31	In 2025, 18% of sea arrivals were unaccompanied children and 74% adult men
+P0064	interno-cruscotto-2025-12-31	Bangladeshis were the second-largest group of unaccompanied children arriving in December 2025 (99 of 506)
+P0065	unhcr-sea-arrivals-dashboard-2025-08	From January to August 2025, 42,693 people arrived in Italy by sea, 2% more than the 42,006 of the same period of 2024
+P0066	unhcr-sea-arrivals-dashboard-2025-08	Bangladeshis were the largest nationality arriving January-August 2025, with 13,148
+P0067	unhcr-sea-arrivals-dashboard-2025-08	In August 2025 Bangladeshis were 21% of sea arrivals, down from 33% in July
+P0068	unhcr-sea-arrivals-dashboard-2025-08	In August 2025 Bangladeshis were 26% of departures from Libya, down from 37% in July
+P0069	unhcr-sea-arrivals-dashboard-2025-08	In the first eight months of 2025, 88% of arrivals departed from Libya (37,582 people in 705 landings)
+P0070	unhcr-sea-arrivals-dashboard-2025-08	In August 2025, 122 Bangladeshi unaccompanied children arrived, third after Egyptians and Eritreans
+P0071	unhcr-sea-arrivals-dashboard-2025-08	The dashboard's data are official Ministry of the Interior figures shared with UNHCR, provisional and subject to change
+P0072	interno-avr-2026	Italy's national assisted voluntary return and reintegration (RVA&R) system action, funded by FAMI 2021-2027 (the EU Asylum, Migration and Integration Fund), funded a single project
+P0073	interno-avr-2026	The project's total funding is EUR 14,999,999.99
+give all of --visa --field --value, or none	interno-avr-2026	The project is run by IOM (Organizzazione Internazionale per le Migrazioni), for 36 months from 2 January 2024
+P0074	interno-avr-2026	The project activities were planned to last 36 months starting 2 January 2024
+P0075	interno-avr-2026	The Ministry found limited progress of the activities at 30 June 2025
+give all of --visa --field --value, or none	interno-avr-2026	Counselling, pre-departure and return assistance under the IOM project run until 2 February 2027
+P0076	interno-avr-2026	Reintegration and monitoring activities under the IOM project run until 2 August 2027
+P0077	interno-avr-2026	Under the original call, reintegration grants are paid in specific goods and services
+P0078	interno-avr-2026	From the May 2026 decree, the reintegration grant may also be paid by money transfer or in cash, with monitoring and financial traceability
+P0079	interno-avr-2026	Decree-Law 55 of 24 April 2026 pays a mandated representative who helps a migrant apply for assisted voluntary return, at the end of the procedure
+P0080	interno-avr-2026	The FAMI project PROG-1174 F.A.S.T.E.R. provides local counselling to prepare departure and reintegration in countries of origin under RVA&R
+P0081	interno-avr-2026	The Ministry treats more voluntary-return departures as essential to free reception places for the accelerated border procedures required by EU Regulation 2024/1348 from 12 June 2026
+P0082	interno-avr-2026	The project's maximum duration is extended at no extra cost to 43 months from the start
+P0083	interno-avr-2026	The decree was signed on 28 May 2026 by Gennaro Capo, head of the intervention
+P0084	interno-it-decreto-flussi	To enter Italy legally a foreigner needs a passport or travel document and an entry visa from the Italian embassy or consulate in the country of origin or residence
+P0085	interno-it-decreto-flussi	Short-stay visas are valid up to three months; long-stay visas require a residence permit for the same purpose
+P0086	interno-it-decreto-flussi	Staying longer than three months or the period on the visa makes a foreigner irregular and leads to expulsion
+P0087	interno-it-decreto-flussi	Expulsion orders are issued by the Prefettura and carried out by the Questura (police headquarters)
+P0088	interno-it-decreto-flussi	An expelled foreigner may not re-enter Italy without special authorisation or until the entry ban expires
+P0089	interno-it-decreto-flussi	Entry for employed, seasonal and self-employed work must fall within the quotas of the periodic flow decrees issued by the Prime Minister
+P0090	interno-it-decreto-flussi	The flow decrees usually reserve quotas for citizens of countries that have agreements with Italy on entry flows and readmission
+P0091	vfs-italy-bd-family-reunion-checklist	VFS family reunion checklist (update 2 December 2024): Schengen D-type visa form, original, filled in English or Italian and signed (both parents for a minor)
+P0092	vfs-italy-bd-family-reunion-checklist	Two recent identical ICAO photos, 4.0 x 3.5 cm, colour, white background, taken within 6 months
+P0093	vfs-italy-bd-family-reunion-checklist	Passport valid at least three months beyond the visa's expiry, with two blank visa pages, plus a copy of the bio page
+P0094	vfs-italy-bd-family-reunion-checklist	A copy of the SUI's notice that the nulla osta was issued; check that name, surname, gender and date of birth on it are correct to avoid long delays
+P0095	vfs-italy-bd-family-reunion-checklist	A one-way flight booking with PNR or reservation number and itinerary
+P0096	vfs-italy-bd-family-reunion-checklist	Spouse, Muslim applicants: marriage certificate and nikahnama in Bengali and English, original, legalised by MOFA and the Italian Embassy
+P0097	vfs-italy-bd-family-reunion-checklist	The marriage certificate must show the solemnisation date (nikahnama column 12), registration date (column 24), volume, page and serial number
+P0098	vfs-italy-bd-family-reunion-checklist	In a second marriage, documents proving the first marriage was legally dissolved (talaknama) are required
+P0099	vfs-italy-bd-family-reunion-checklist	All applicants: a family certificate from the local chairman or commissioner, legalised by MOFA and the Embassy
+P0100	vfs-italy-bd-family-reunion-checklist	Minors joining parents: consent of both parents or custodian, parents' passport copies, original birth certificate, and Bangladeshi court papers for a legal guardian
+P0101	vfs-italy-bd-family-reunion-checklist	Optional for a spouse: certified copies of all pages of the Italy-resident spouse's passports since the marriage, and IDs of all wedding witnesses
+P0102	vfs-italy-bd-family-reunion-checklist	For telephone or video marriages, IDs and residence permits of the witnesses in Italy are recommended
+P0103	vfs-italy-bd-family-reunion-checklist	Only spouses, children under 18, parents under 65 with no other children in Bangladesh and dependent parents over 65 are eligible for the family reunion visa
+P0104	vfs-italy-bd-family-reunion-checklist	Applicants with MOFA-legalised documents could have the Embassy legalise them together with the visa application, paying the visa fee plus legalisation fees
+P0105	vfs-italy-bd-family-reunion-checklist	The Embassy may ask for documents not on the checklist
+P0106	vfs-italy-bd-family-sui-bn	Updated VFS family reunion checklist: nikahnama and marriage certificate for Muslim applicants in Bengali and English, original and apostilled
+P0107	vfs-italy-bd-family-sui-bn	Hindu and other-faith applicants: marriage certificate or true copy of the register book, translated into English, original and apostilled
+P0108	vfs-italy-bd-family-sui-bn	All applicants: family certificate from the local chairman or commissioner, original and apostilled
+P0109	vfs-italy-bd-family-sui-bn	Child in Italy: original birth certificate naming the parents, apostilled
+P0110	vfs-italy-bd-family-sui-bn	Only one apostille per document is accepted
+P0111	vfs-italy-bd-family-sui-bn	Applicants are personally responsible for the authenticity and truth of every document, per the Embassy's communique of 19 May 2025
+P0112	vfs-italy-bd-family-sui-bn	The Embassy's communique on document authenticity is dated 19 May 2025
+P0113	vfs-italy-bd-family-sui-bn	The same applicant cannot submit more than one visa application at the same time, even with two different passports
+P0114	vfs-italy-bd-family-sui-bn	The updated checklist is published in English, Italian and Bangla
+P0115	vfs-italy-bd-selfemployment	Self-employment visa for consultants or officers of existing companies: national D-type visa form, original, filled in English or Italian
+P0116	vfs-italy-bd-selfemployment	Passport valid at least 3 months after the planned departure from Schengen, two blank pages, and a copy of all pages
+P0117	vfs-italy-bd-selfemployment	A nulla osta from the competent Questura issued within the 120 days before the visa application
+P0118	vfs-italy-bd-selfemployment	A certification from the Direzione Provinciale del Lavoro that the contract is not subordinate employment
+P0119	vfs-italy-bd-selfemployment	A Chamber of Commerce certificate that the company has been active at least three years in the Registro delle imprese
+P0120	vfs-italy-bd-selfemployment	The Italian company's visura camerale (business registration extract) from the Chamber of Commerce
+P0121	vfs-italy-bd-selfemployment	A statement from the company's legal representative guaranteeing pay of at least EUR 8,400, the health-charge exemption threshold
+P0122	vfs-italy-bd-selfemployment	The company's last filed balance sheet or last tax return proving it can pay the applicant
+P0123	vfs-italy-bd-selfemployment	Personal bank statement from a bank in Bangladesh for the last 6 months, plus any other proof of solvency
+P0124	vfs-italy-bd-selfemployment	Proof of housing: purchase or rental contract, or a housing declaration under Law 15/1968 signed by an Italian or a legally resident foreigner with a copy of their ID
+P0125	vfs-italy-bd-selfemployment	Travel insurance valid in the whole Schengen area covering medical, hospital and repatriation costs up to EUR 30,000 for the first 3 months
+P0126	vfs-italy-bd-selfemployment	Civil status papers: nikahnama or marriage act translated into English; talaknama for divorced applicants; spouse's death certificate for widows and widowers
+P0127	vfs-italy-bd-selfemployment	A flight booking with PNR or reservation number and itinerary

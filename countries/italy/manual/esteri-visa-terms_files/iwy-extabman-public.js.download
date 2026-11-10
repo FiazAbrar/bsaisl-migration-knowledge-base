@@ -1,0 +1,128 @@
+(function( $ ) {
+	'use strict';
+
+	/**
+	 * All of the code for your public-facing JavaScript source
+	 * should reside in this file.
+	 *
+	 * Note: It has been assumed you will write jQuery code here, so the
+	 * $ function reference has been prepared for usage within the scope
+	 * of this function.
+	 *
+	 * This enables you to define handlers, for when the DOM is ready:
+	 *
+	 * $(function() {
+	 *
+	 * });
+	 *
+	 * When the window is loaded:
+	 *
+	 * $( window ).load(function() {
+	 *
+	 * });
+	 *
+	 * ...and/or other possibilities.
+	 *
+	 * Ideally, it is not considered best practise to attach more than a
+	 * single DOM-ready or window-load handler for a particular page.
+	 * Although scripts in the WordPress core, Plugins and Themes may be
+	 * practising this, we should strive to set a better example in our own work.
+	 */
+	// jQuery(document).ready(function() {
+	// 	var popOver = jQuery('[data-toggle="popover"]');
+	// 	if(popOver.length)
+    //     	jQuery('[data-toggle="popover"]').popover();
+	// }); 
+
+	// $(function () {
+	// 	$('[data-toggle="popover"]').popover()
+	//   })
+
+	document.addEventListener('DOMContentLoaded', function () {
+	const gradimentoUrpForm = document.getElementById('form-urp');
+	if( gradimentoUrpForm ){
+		//Validazione questionario gradimento URP
+		const validate = new bootstrap.FormValidate('#form-urp', {
+		errorFieldCssClass: 'is-invalid',
+		errorLabelCssClass: 'form-feedback',
+		errorLabelStyle: '',
+		focusInvalidField: true,
+		});
+		//Leggo il valore language dell'HTML
+		const lang = document.documentElement.lang;
+		
+		//Imposto la stringa della label di errore di default
+		let requireLabel = 'Campo richiesto';
+		//Faccio il check della lingua
+		if( lang === 'en-GB'){
+			requireLabel = 'The field is required';
+		}
+		//Imposto la label di errore del form in base alla lingua
+		validate.dictLocale[0].dict.en = requireLabel;
+		
+		validate
+		.addField('#nazionalita', [
+			{
+			rule: 'required',
+			//errorMessage: 'Campo richiesto',
+			}
+		])
+		.addField('#motivo', [
+			{
+			rule: 'required',
+			//errorMessage: 'Campo richiesto',
+			}
+		])
+		.addField('#modalita', [
+			{
+			rule: 'required',
+			//errorMessage: 'Campo richiesto',
+			}
+		])
+		.addField('#materia', [
+			{
+			rule: 'required',
+			//errorMessage: 'Campo richiesto',
+			}
+		])
+		.onSuccess(() => {
+			document.forms['form-urp'].submit()
+		})
+		
+		const selectMateria = document.getElementById('materia');
+		const altroWrapper = document.getElementById('div-altro');
+		const altroTxt = document.getElementById('altrotxt');
+
+		if (!selectMateria || !altroWrapper) {
+			return;
+		}
+
+		function toggleAltroField() {
+
+			if (selectMateria.value === 'altro') {
+				altroWrapper.classList.remove('d-none');
+				altroTxt.required = true;
+				validate.addField( '#altrotxt',[
+					{
+					rule: 'required',
+					//errorMessage: 'Campo richiesto',
+					}
+				]);
+			} else {
+				altroWrapper.classList.add('d-none');
+				altroTxt.required = false;
+				validate.removeField('#altrotxt');
+			}
+
+		}
+
+		// Controllo al cambio select
+		selectMateria.addEventListener('change', toggleAltroField);
+
+		// Controllo iniziale (utile se il form viene precaricato)
+		toggleAltroField();
+	}
+	
+});//End document load
+	 
+})( jQuery );

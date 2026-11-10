@@ -1,0 +1,75 @@
+                                             Bangladesh Bank                                    Printed on :
+
+                                                          Head Office                           Mon Nov 09 10:30:20 BDT 2026
+                                                              Dhaka                             Printed by :
+                                                                                                Shihab Shahriar
+                                              FOREIGN EXCHANGE RATE
+
+As on date:                      09/11/2026
+
+WEIGHTED AVERAGE EXCHANGE RATE               Quoted Currency           Weighted Average Exchange Rate
+               Base Currency                                                                124.3500
+
+             USD                             BDT                                         506203.9800
+                                                                                            168.3575
+             XAU                             BDT
+
+                          SDR                           BDT   BID RATE                          ASK RATE
+EXCHANGE RATE AGAINST BDT - CROSS RATE       Quoted Currency
+
+               Base Currency
+
+             AUD                             BDT                         85.3414                                               85.4160
+                                                                         87.9980                                               88.0167
+             CAD                             BDT                         18.6323                                               18.6331
+                                                                        138.5632                                              138.5881
+             CNH                             BDT                        165.9948                                              166.0321
+
+             EUR                             BDT                           1.3240                                                1.3243
+                                                                           0.7845                                                0.7848
+             GBP                             BDT                         12.5654                                               12.5718
+                                                                         96.8986                                               96.9591
+             INR                             BDT                           2.6739                                                2.6747
+
+             JPY                             BDT
+
+             SEK                             BDT
+
+             SGD                             BDT
+
+                           BDT                          LKR   BID RATE                          ASK RATE
+NEW YORK CLOSING & LONDON RATES              Quoted Currency                         124.3500                          124.3500
+                                                                                        1.1143                             1.1145
+               Base Currency                                                            1.3349                             1.3352
+                                                                                        1.4128                             1.4131
+             USD                             BDT                                     158.4500                          158.5000
+                                                                                      93.9000                            93.9200
+             EUR                             USD                                        9.8912                             9.8962
+                                                                                        1.2825                             1.2833
+             GBP                             USD                                        0.6863                             0.6869
+                                                                                        6.6736                             6.6739
+             USD                             CAD                                     332.5000                          332.6000
+                                                                                   4070.8000                          4070.8000
+             USD                             JPY                                        1.3539                             1.3539
+
+             USD                             INR
+
+             USD                             SEK
+
+             USD                             SGD
+
+             AUD                             USD
+
+             USD                             CNH
+
+             USD                             LKR
+
+             XAU                             USD
+
+             SDR                             USD
+
+                                 Prepared By                                                    Checked By
+                                 Md. Rafath Ahmed Chowdhury                                     Shihab Shahriar
+
+Generated By: Reserve Management & Investment Section, FRTMD
+

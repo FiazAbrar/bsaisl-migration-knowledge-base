@@ -1,0 +1,3 @@
+window.__PUBLIC_PATH__ = '/fonts'
+
+	var contextRoot = '/';

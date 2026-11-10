@@ -1,0 +1,275 @@
+
+var textSize = 7;
+
+function openNavLeft() {
+	textSize = textSize-3;
+  document.getElementById("mySidebarLeft").style.display = "initial";
+//  document.getElementById("testo").style.marginLeft = "initial";
+  document.getElementById("testo").className = "col-12 col-sm-12 col-md-"+(textSize)+" col-lg-"+(textSize)+" col-xl-"+(textSize)+" box iframe_dx";
+  document.getElementById("openBtnLeft").style.display = "none";
+}
+
+function closeNavLeft() {
+	textSize = textSize+3;
+  document.getElementById("mySidebarLeft").style.display = "none";
+//  document.getElementById("testo").style.marginLeft= "0";
+  document.getElementById("testo").className = "col-12 col-sm-12 col-md-"+textSize+" col-lg-"+textSize+" col-xl-"+textSize+" box iframe_dx";
+  document.getElementById("openBtnLeft").style.display = "initial";
+}
+function openNavRight() {
+	textSize = textSize-2;
+  document.getElementById("mySidebarRight").style.display = "initial";
+//  document.getElementById("testo").style.marginRight = "initial";
+  document.getElementById("testo").className = "col-12 col-sm-12 col-md-"+textSize+" col-lg-"+textSize+" col-xl-"+textSize+" box iframe_dx";
+  document.getElementById("openBtnRight").style.display = "none";
+}
+
+function closeNavRight() {
+	textSize = textSize+2;
+  document.getElementById("mySidebarRight").style.display = "none";
+//  document.getElementById("testo").style.marginRight= "0";
+  document.getElementById("testo").className = "col-12 col-sm-12 col-md-"+textSize+" col-lg-"+textSize+" col-xl-"+textSize+" box iframe_dx";
+  document.getElementById("openBtnRight").style.display = "initial";
+}
+
+
+function printPage() {
+	window.print();
+}
+
+/*Stampa l'elemento della pagina*/
+function printContent(el) {
+	var restorepage = $('body').html();
+
+	var printcontent = $('#' + el).clone();
+	$(printcontent).find('.solrHL').remove();
+	$(printcontent).find('button').remove();
+
+//	var mywindow = window.open('', '', '');
+//    mywindow.document.write('<html><title>Print</title><body>');
+//    mywindow.document.write(printcontent.html());
+//    mywindow.document.write('</body></html>');
+//    mywindow.document.close();
+//    mywindow.print();
+//    return true;
+
+
+	$('body').empty().html(printcontent);
+	window.print();
+	$('body').html(restorepage);
+}
+
+
+function showArticle(urlArticolo, reflink) {
+	
+	$(reflink).addClass('attoVisitato');
+	
+	$("#rubriche").modal("hide");
+
+    $.ajax({
+			url: urlArticolo,
+        type : "GET",
+        success : function(response) {
+        	$('#containerTesto').html(response);
+        	$([document.documentElement, document.body]).animate({
+                scrollTop: $("#containerTesto").offset().top
+            }, 1000);
+     	},
+     	error: function(response) {
+         	//Provvedimento non trovato
+     		$('#testo').html("<div class='container BackW p-3 my-4'>"
+	     				+"<div class='alert alert-danger' role='alert'>"
+		     				+"<span class='sr-only'>Errore: articolo non trovato</span>"
+		     				+"<strong>Errore nel caricamento delle informazioni</strong>"
+		     			+"</div>"
+	     				+"<div class='row'>"
+	     					+"<button class='btn btn-outline-primary mr-2' onClick='window.location.reload();'>Ricarica atto</button>"
+	     				+"</div>"
+     				+ "</div>");
+     	}
+		});
+    
+    return false;
+    
+}
+
+function showArticleCC(urlArticolo, reflink) {
+		
+	$(reflink).addClass('attoVisitato');
+	
+	
+	$("#rubriche").modal("hide");
+
+
+    $.ajax({
+			url: urlArticolo,
+        type : "GET",
+        success : function(response) {
+        	$('#containerTesto').html(response);
+     	},
+     	error: function(response) {
+         	alert("Provvedimento non trovato");
+     	}
+		});
+    
+    return false;
+    
+}
+
+
+
+function printModal(modalDivId) {
+	
+	var titoloAtto = $('#titoloAtto').text();
+	
+	$("#" + modalDivId).printThis({ 
+	    debug: false,
+	    importCSS: false,             
+	    importStyle: false,         
+	    printContainer: true,       
+	    loadCSS: "/css/bootstrap-italia-old.min.css",
+	    pageTitle: titoloAtto,             
+	    removeInline: false,        
+	    printDelay: 333,            
+	    header:"<img class=\"figure-img img-fluid rounded LogoImg mb-0\" alt=\"Logo Normattiva\" src=\"" +contextRoot+ "svg/LogoNormattivaL.svg\">",             
+	    formValues: true  ,        
+	}); 
+	
+	
+	console.log('contextRoot: '+contextRoot)
+}
+
+
+
+
+
+
+//function showArticle(urlArticolo) {
+//
+//
+//	$("#rubriche").modal("hide");
+//
+//
+//    $.ajax({
+//			url: urlArticolo,
+//        type : "GET",
+//        success : function(response) {
+//        	$('#testo').html(response);
+//     	},
+//     	error: function(response) {
+//         	alert("Provvedimento non trovato");
+//     	}
+//		});
+//}
+
+function showUpdatesArticle(id){
+    $(".agg-"+id).toggleClass("d-none");
+}
+
+//own dot per accessibilità
+let owl = $('.owl-carousel').owlCarousel({
+  loop: true,
+  margin: 10,
+  nav: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 2
+    },
+    1000: {
+      items: 3
+    }
+  },
+  onInitialized: addDotButtonText,
+  onResized: addDotButtonText
+});
+
+function addDotButtonText() {
+
+  // loop through each dot element
+  $('.owl-dot').each(function() {
+    // remove old text nodes
+    $(this).find('.offscreen').remove();
+
+    // grab its (zero-based) order in the series
+    let idx = $(this).index() + 1;
+
+    // append a span to the button containing descriptive text
+    $(this).append('<span class="offscreen">Go to slide ' + idx + '</span>');
+  });
+}
+//own dot per accessibilità
+
+
+/* chiamato al click sul  radio button 'Vigente Al' per selezionarlo e deselezionare il radio attivo su Originario o Multivigenza */
+function clickedVigenteAl(){
+
+	// Seleziona elementi
+	const originarioBtn = document.querySelector(".originario");
+	const multivigenteBtn = document.querySelector(".multivigente");
+	
+	const vigenteAlBtn = document.querySelector(".vigenteAl");
+
+
+	// Rimuovi la classe "check-ico-attivo" che attiva il pallino e metti quella che lo rende disattivato
+	originarioBtn.className = originarioBtn.className.replace("check-ico-attivo", "check-ico");
+	multivigenteBtn.className = multivigenteBtn.className.replace("check-ico-attivo", "check-ico");
+	
+	//rendi attivo il bottone 'Vigente al'
+	vigenteAlBtn.className = vigenteAlBtn.className.replace("check-ico", "check-ico-attivo");
+}
+
+function showAttiCorrelati(anno, dataPubblicazioneGazzetta, codiceRedazionale, currentSearch, urlGetAttiAggiornati)
+{
+	console.log("showAttiCorrelati params:"+anno+" "+dataPubblicazioneGazzetta+" "+codiceRedazionale+" "+currentSearch);
+	
+	console.log('sto per chiamare la url:'+ urlGetAttiAggiornati);
+	 $.ajax({
+			url: urlGetAttiAggiornati+'/'+anno,
+			data: {
+      		anno: anno,
+        	dataPubblicazioneGazzetta: dataPubblicazioneGazzetta,
+        	codiceRedazionale: codiceRedazionale,
+        	currentSearch: currentSearch
+    },
+        type : "GET",
+        success : function(response) {
+			console.log('successo. response: '+ response);
+			
+			//make the table visible and empty
+			$('#attiAggiornantiAjax').css("visibility", "visible");
+			//$('#attiAggiornantiAjax').fadeIn("2000").show();
+			$('#attiAggiornantiAjax tbody').empty();
+			
+			//add a row to the table with id=?  for every element in response
+			//$("#attiAggiornantiAjax tbody").append('<tr><td>Record1</td><td>Record2</td><td>Record2</td></tr>'); 
+        	// Iterate over the response object
+			$.each(response, function(index, item) {
+				// Format the date in the gg/mm/aaaa format
+  				dataFormattata = `${new Date(item.modDataPubblicazioneGazzetta).getDate()}/${new Date(item.modDataPubblicazioneGazzetta).getMonth() + 1}/${new Date(item.modDataPubblicazioneGazzetta).getFullYear()}`;
+
+			    // Create a new row element
+			    const newRow = $('<tr>').html(`<td>${index+1}</td><td>${dataFormattata}</td><td>${item.descrCompleta}</td>`);
+
+			    // Append the new row element to the table
+			    $('#attiAggiornantiAjax tbody').append(newRow);
+			    
+			});
+     	},
+     	error: function(response) {
+			 console.log('errore '+ response);
+         	//Provvedimento non trovato
+     		$('#testo').html("<div class='container BackW p-3 my-4'>"
+	     				+"<div class='alert alert-danger' role='alert'>"
+		     				+"<span class='sr-only'>Errore: articolo non trovato</span>"
+		     				+"<strong>Errore nel caricamento delle informazioni</strong>"
+		     			+"</div>"
+	     				+"<div class='row'>"
+	     					+"<button class='btn btn-outline-primary mr-2' onClick='window.location.reload();'>Ricarica atto</button>"
+	     				+"</div>"
+     				+ "</div>");
+     	}
+		});
+}

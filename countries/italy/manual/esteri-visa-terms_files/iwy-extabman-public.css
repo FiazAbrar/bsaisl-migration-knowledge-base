@@ -1,0 +1,105 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.incarichi-head{
+    font-size: 15px;
+}
+.atti-concessione.table-primary{
+    font-size: 15px;
+}
+.tooltip-table{
+    border: none;
+    background: #fff;
+    color: #000;
+    font-style: italic;
+    margin-left: 5px;
+    border-radius: 50%;
+    padding: 0 10px;
+    font-weight: 700;
+    font-family: auto;
+}
+
+/* RATING FACES */
+#form-urp label.h6, #form-urp .question-6{
+    font-size: 1rem;
+}
+/* .rating-faces .form-check {
+	margin-bottom: 14px;
+} */
+
+/* .rating-faces input[type="radio"] {
+	display: none;
+} */
+
+/* .rating-faces label {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+	padding: 12px 16px;
+	border: 2px solid #e5e7eb;
+	border-radius: 14px;
+	cursor: pointer;
+	transition: all 0.25s ease;
+	background: #fff;
+	font-weight: 500;
+} */
+
+/* .rating-faces label:hover {
+	border-color: #cbd5e1;
+	transform: translateY(-1px);
+	box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+} */
+.rating-faces .face {
+	width: 32px;
+	height: 32px;
+	stroke-width: 3;
+	fill: none;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	transition: transform 0.2s ease;
+}
+
+/* .rating-faces label:hover .face {
+	transform: scale(1.08);
+} */
+
+/* COLORI FACE */
+
+.face.angry {
+	stroke: #fee2e2;
+	fill: #dc2626;
+	border-radius: 50%;
+    stroke-width: 3;
+}
+
+.face.sad {
+	stroke: #f59e0b;
+	background: #fef3c7;
+	border-radius: 50%;
+}
+
+.face.happy {
+    stroke: #2563eb;
+	background: #dbeafe;
+	border-radius: 50%;
+}
+
+.face.excited {
+	stroke: #10b981;
+    background: #d1fae5;
+	border-radius: 50%;
+}
+
+/* RADIO CHECKED */
+
+.rating-faces input[type="radio"]:checked + label {
+	border-color: #2563eb;
+	background: #eff6ff;
+	box-shadow: 0 0 0 4px rgba(37,99,235,0.12);
+}
+/* POSITION DELLE CHECK SU VALIDATION FORM SELECT*/
+select.just-validate-success-field{
+	background-position: 98% !important;
+}

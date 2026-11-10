@@ -1,0 +1,50 @@
+/**
+ * @file
+ * eu_cookie_compliance_matomo.js
+ *
+ * Track the first accept action.
+ */
+
+(function ($, Drupal, drupalSettings) {
+  'use strict';
+
+  var matomo_tracking_script = drupalSettings.eu_cookie_compliance_matomo.matomo_tracking_script;
+  var popup_delay = drupalSettings.eu_cookie_compliance.popup_delay;
+  var categories_defined = drupalSettings.eu_cookie_compliance_matomo.categories;
+
+  Drupal.behaviors.euCookieComplianceMatomo = {
+    attach: function (context, settings) {
+
+      /**
+       * Set consent given.
+       */
+      function setConsentGiven() {
+        if (typeof _paq != 'undefined') {
+          _paq.push(['setConsentGiven']);
+        }
+      }
+
+      if (matomo_tracking_script) {
+        setTimeout(() => {
+          // Accept all.
+          $('.agree-button').click(function (event) {
+            setConsentGiven();
+          });
+          // Save preferences.
+          $('.eu-cookie-compliance-save-preferences-button').click(function (event) {
+            var categories = $('#eu-cookie-compliance-categories input:checkbox:checked').map(function () {
+              return $(this).val();
+            }).get();
+
+            $.each(categories_defined, function (index, category) {
+              if (categories.includes(category)) {
+                setConsentGiven();
+              }
+            });
+          });
+        }, (popup_delay + 100));
+      }
+    }
+  };
+
+})(jQuery, Drupal, drupalSettings);

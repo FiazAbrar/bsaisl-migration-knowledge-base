@@ -1,0 +1,56 @@
+# OEP country-clearance report, Italy (country_id 85), by job category, 2023-01-01 to 2023-12-31, queried 2026-11-10
+Sum of categories: 16846; categories listed: 52; recordsTotal 52
+Italy | Worker | 12404
+Italy | Labour | 1945
+Italy | Factory Worker | 1395
+Italy | Agriculture Labour | 503
+Italy | Waiter | 160
+Italy | Cook | 66
+Italy | Gas Worker | 52
+Italy | Private Service | 43
+Italy | Carpenter | 42
+Italy | Skilled Worker | 39
+Italy | Welder/Fabricator | 29
+Italy | Construction Worker | 25
+Italy | General Labour | 25
+Italy | Cleaner | 14
+Italy | Chef/Cook | 14
+Italy | Hotel boy | 8
+Italy | Carpet Labour | 7
+Italy | Architectural Labour | 6
+Italy | Nurse | 6
+Italy | Mason | 5
+Italy | Workshop Worker | 4
+Italy | Labour (Junior) | 4
+Italy | Salesman | 4
+Italy | Farmer | 3
+Italy | Generator Labour | 3
+Italy | Car Painter | 3
+Italy | Wood Worker | 3
+Italy | Work Team Leader | 3
+Italy | Care Taker | 2
+Italy | Fixer | 2
+Italy | Workshop Labour | 2
+Italy | Steel Fixer | 2
+Italy | Supervisor | 2
+Italy | Manager | 2
+Italy | Lab. Technician | 2
+Italy | Supervisor(Operation) | 1
+Italy | Supervisor(Store) | 1
+Italy | Black Smith | 1
+Italy | House Keeper | 1
+Italy | Kitchen Steward | 1
+Italy | House Worker | 1
+Italy | Laboratory Assistant | 1
+Italy | Hotel Boy | 1
+Italy | NEO Specialist | 1
+Italy | Plumber | 1
+Italy | Purchaser | 1
+Italy | Restaurant Labour | 1
+Italy | Sales Manager | 1
+Italy | Asst. Auto Electrician | 1
+Italy | Servant | 1
+Italy | Ship Breaker | 1
+Italy | Driver | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=85&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":85,"country_name":"Italy","total_employee":12404,"category_name":"Worker"},{"country_id":85,"country_name":"Italy","total_employee":1945,"category_name":"Labour"},{"country_id":85,"country_name":"Italy","total_employee":1395,"category_name":"Factory Worker"},{"country_id":85,"country_name":"Italy","total_employee":503,"category_name":"Agriculture Labour"},{"country_id":85,"country_name":"Italy","total_employee":160,"category_name":"Waiter"},{"country_id":85,"country_name":"Italy","total_employee":66,"category_name":"Cook"},{"country_id":85,"country_name":"Italy","total_employee":52,"category_name":"Gas Worker"},{"country_id":85,"country_name":"Italy","total_employee":43,"category_name":"Private Service"},{"country_id":85,"country_name":"Italy","total_employee":42,"category_name":"Carpenter"},{"country_id":85,"country_name":"Italy","total_employee":39,"category_name":"Skilled Worker"},{"country_id":85,"country_name":"Italy","total_employee":29,"category_name":"Welder\/Fabricator"},{"country_id":85,"country_name":"Italy","total_employee":25,"category_name":"Construction Worker"},{"country_id":85,"country_name":"Italy","total_employee":25,"category_name":"General Labour"},{"country_id":85,"country_name":"Italy","total_employee":14,"category_name":"Cleaner"},{"country_id":85,"country_name":"Italy","total_employee":14,"category_name":"Chef\/Cook"},{"country_id":85,"country_name":"Italy","total_employee":8,"category_name":"Hotel boy"},{"country_id":85,"country_name":"Italy","total_employee":7,"category_name":"Carpet Labour"},{"country_id":85,"country_name":"Italy","total_employee":6,"category_name":"Architectural Labour"},{"country_id":85,"country_name":"Italy","total_employee":6,"category_name":"Nurse"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Mason"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Workshop Worker"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Labour (Junior)"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Salesman"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Farmer"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Generator Labour"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Car Painter"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Wood Worker"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Work Team Leader"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Care Taker"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Fixer"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Workshop Labour"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Steel Fixer"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Supervisor"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Manager"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Lab. Technician"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Supervisor(Operation)"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Supervisor(Store)"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Black Smith"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"House Keeper"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Kitchen Steward"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"House Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Laboratory Assistant"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Hotel Boy"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"NEO Specialist"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Plumber"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Purchaser"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Restaurant Labour"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Sales Manager"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Asst. Auto Electrician"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Servant"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Ship Breaker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Driver"}],"recordsTotal":52,"recordsFiltered":52,"totalEmployee":16846},"type":"success","fade":false}

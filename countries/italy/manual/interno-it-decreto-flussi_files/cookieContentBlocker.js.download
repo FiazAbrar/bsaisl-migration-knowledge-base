@@ -1,0 +1,326 @@
+(function ($, Drupal, window, document, cookies, once) {
+  'use strict';
+
+  var $window = $(window);
+  var $document = $(document);
+  var consentGivenEventName = 'cookieContentBlockerConsentGiven';
+  var consentChangedEventName = 'cookieContentBlockerChangeConsent';
+  var cookieContentBlockerSettings = null;
+  var specialEventSelectors = {
+    window: $window,
+    document: $document
+  };
+
+  /**
+   * Handles events which trigger a consent change.
+   *
+   * @param {jQuery.Event} event
+   *   The jQuery fired event.
+   */
+  var consentChangeCallback = function (event) {
+    event.preventDefault();
+    $window.trigger(consentChangedEventName);
+
+    var triggerEvent = function (event) {
+      var $specialTarget = specialEventSelectors[event.selector];
+
+      if ($specialTarget === void (0)) {
+        $(event.selector).trigger(event.name);
+        return;
+      }
+
+      $specialTarget.trigger(event.name);
+    };
+
+    $.each(cookieContentBlockerSettings.categories, function (id, category) {
+      triggerEvent(category.consentAwareness.change.event);
+    });
+
+    triggerEvent(cookieContentBlockerSettings.consentAwareness.change.event);
+  };
+
+  /**
+   * Check if a given cookie matches the given value based on the operator.
+   *
+   * @param {object} cookieMatch
+   *   Object to use for the match containing:
+   *   - name
+   *   - value
+   *   - operator
+   *
+   * @return {boolean}
+   *   Whether or not we have a cookie value match.
+   */
+  var matchCookieValue = function (cookieMatch) {
+    if (typeof cookieMatch.name !== 'string' || typeof cookieMatch.value !== 'string') {
+      return false;
+    }
+
+    var currentValue = cookies.get(cookieMatch.name);
+
+    // Handle special case when the cookie is not set.
+    if (currentValue === null || currentValue === void (0)) {
+      return cookieMatch.operator === '!e';
+    }
+
+    var matchMap = {
+      'e': function () {
+        return true;
+      },
+      '===': function (v) {
+        return currentValue === v;
+      },
+      '>': function (v) {
+        return currentValue > v;
+      },
+      '<': function (v) {
+        return currentValue < v;
+      },
+      'c': function (v) {
+        return currentValue.indexOf(v) >= 0;
+      },
+      '!c': function (v) {
+        return currentValue.indexOf(v) === -1;
+      }
+    };
+
+    return (matchMap[cookieMatch.operator] !== void (0) && matchMap[cookieMatch.operator](cookieMatch.value) || false);
+  };
+
+  /**
+   * Cookie content blocker behavior for loading blocked content and scripts.
+   */
+  Drupal.behaviors.cookieContentBlocker = {
+    initialized: false,
+
+    /**
+     * Get cookie consent status.
+     *
+     * @return {object}
+     *   Consent values.
+     */
+    getConsent: function () {
+      var consent = {
+        categories: {},
+        general: false,
+      };
+
+      const queryString = window.location.search;
+      const params = new URLSearchParams(queryString);
+
+      $.each(cookieContentBlockerSettings.categories, function (id, category) {
+        consent.categories[id] = params.has("CookieContentBlockerCookieAccepted") || params.has("CookieContentBlockerCookieAccepted" + id.charAt(0).toUpperCase() + id.slice(1)) || matchCookieValue(category.consentAwareness.accepted.cookie);
+      });
+
+      if (params.has("CookieContentBlockerCookieAccepted") || matchCookieValue(cookieContentBlockerSettings.consentAwareness.accepted.cookie)) {
+        consent.general = true;
+        return consent;
+      }
+
+      if (matchCookieValue(cookieContentBlockerSettings.consentAwareness.declined.cookie)) {
+        consent.general = false;
+      }
+
+      return consent;
+    },
+
+    /**
+     * Attach event listeners for consent status changes.
+     *
+     * We listen to our own event on window named:
+     * 'cookieContentBlockerChangeConsent'. But also events defined by the user
+     * via our admin interface to allow easy integration with other modules.
+     *
+     * @param {HTMLElement} context
+     *   The attached context.
+     */
+    attachConsentEventListeners: function (context) {
+      $.each(cookieContentBlockerSettings.categories, function (id, category) {
+        Drupal.behaviors.cookieContentBlocker.attachConsentEventListener(context, category.consentAwareness.accepted.event);
+      });
+
+      Drupal.behaviors.cookieContentBlocker.attachConsentEventListener(context, cookieContentBlockerSettings.consentAwareness.accepted.event);
+
+      if (Drupal.behaviors.cookieContentBlocker.initialized) {
+        return;
+      }
+
+      $window.on(consentGivenEventName, function () {
+        Drupal.behaviors.cookieContentBlocker.handleConsent();
+      });
+    },
+
+    /**
+     * Attach single event.
+     *
+     * @param {HTMLElement} context
+     *   The attached context.
+     * @param {object} event
+     *   The consent event data.
+     */
+    attachConsentEventListener: function (context, event) {
+      var $specialTarget = specialEventSelectors[event.selector];
+      var isSpecialTarget = $specialTarget !== void (0);
+
+      if (!isSpecialTarget) {
+        $(event.selector).on(event.name, function () {
+          Drupal.behaviors.cookieContentBlocker.handleConsent(context);
+        });
+      }
+
+      // Only attach events to document and window once.
+      if (Drupal.behaviors.cookieContentBlocker.initialized || !isSpecialTarget) {
+        return;
+      }
+
+      $specialTarget.on(event.name, function () {
+        Drupal.behaviors.cookieContentBlocker.handleConsent();
+      });
+    },
+
+    /**
+     * Attach event triggers for consent status changes.
+     *
+     * We trigger our own event on window named:
+     * 'cookieContentBlockerChangeConsent' when the change is requested via this
+     * module's placeholders. But also events defined by the user
+     * via our admin interface to allow easy integration with other modules.
+     *
+     * Note: we currently don't do anything when declining cookie consent.
+     *
+     * @param {HTMLElement} context
+     *   The attached context.
+     */
+    attachConsentEventTriggers: function (context) {
+      once('cookie-content-blocker', '.js-cookie-content-blocker-consent-change-button, .js-cookie-content-blocker-click-consent-change', context).forEach(function (button) {
+        $(button).on('click', consentChangeCallback);
+      });
+    },
+
+    /**
+     * Initialize after the page is loaded and update after AJAX requests.
+     *
+     * @param {HTMLElement} context
+     *   The attached context.
+     * @param {object} settings
+     *   The Drupal JS settings.
+     */
+    attach: function (context, settings) {
+      if (cookieContentBlockerSettings === null) {
+        cookieContentBlockerSettings = settings.cookieContentBlocker;
+      }
+
+      Drupal.behaviors.cookieContentBlocker.handleConsent(context);
+      Drupal.behaviors.cookieContentBlocker.attachConsentEventListeners(context);
+      Drupal.behaviors.cookieContentBlocker.attachConsentEventTriggers(context);
+      Drupal.behaviors.cookieContentBlocker.initialized = true;
+    },
+
+    /**
+     * Handles consent and executes unblock handlers if consent given.
+     *
+     * @param {HTMLElement} context
+     *   Optionally the attached context, defaults to 'document'.
+     */
+    handleConsent: function (context) {
+      if (context === void (0)) {
+        context = document;
+      }
+
+      var consent = Drupal.behaviors.cookieContentBlocker.getConsent();
+      if (consent.general === true) {
+        Drupal.behaviors.cookieContentBlocker.loadBlockedContent(context);
+        Drupal.behaviors.cookieContentBlocker.loadBlockedAssets();
+      }
+
+      for (var category in consent.categories) {
+        if (!consent.categories.hasOwnProperty(category) || consent.categories[category] !== true) {
+          continue;
+        }
+
+        Drupal.behaviors.cookieContentBlocker.loadBlockedContent(context, category);
+        Drupal.behaviors.cookieContentBlocker.loadBlockedAssets(category);
+      }
+    },
+
+    /**
+     * Handle the fact that cookies are accepted by the user.
+     *
+     * @deprecated Replaced with handleConsent().
+     *
+     * @param {HTMLElement} context
+     *   Optionally the attached context, defaults to 'document'.
+     */
+    handleCookieAccepted: function (context) {
+      Drupal.behaviors.cookieContentBlocker.handleConsent(context);
+    },
+
+    /**
+     * Loads the blocked content in place.
+     *
+     * @param {HTMLElement} context
+     *   The attached context.
+     * @param category
+     */
+    loadBlockedContent: function (context, category) {
+      var selector = category ?
+        ".js-cookie-content-blocker-content[data-category='" + category + "']" :
+        '.js-cookie-content-blocker-content:not([data-category])';
+
+      $(selector, context).each(function () {
+        var $originalContentWrapperScript = $(this);
+        var $blocker = $originalContentWrapperScript.closest('.js-cookie-content-blocker');
+        var originalContent = $originalContentWrapperScript.text();
+        // Replace the <scriptfake> placeholder tags with real script tags.
+        // See: _cookie_content_blocker_replace_scripts_with_fake() and
+        // cookie-content-blocker-wrapper.html.twig.
+        originalContent = originalContent.replace(/(<[/]?script)fake/g, '$1');
+        originalContent = originalContent.replace('//<![CDATA[', '').replace('//]]>', '');
+
+        var replaceContent = function ($wrapper) {
+          var parent = $wrapper.parent().get(0);
+          $wrapper.replaceWith(originalContent);
+          Drupal.attachBehaviors(parent);
+        };
+
+        replaceContent($blocker.length ? $blocker : $originalContentWrapperScript);
+      });
+    },
+
+    /**
+     * Loads the blocked assets.
+     */
+    loadBlockedAssets: function (category) {
+      if (cookieContentBlockerSettings.blockedAssets === void (0)) {
+        return;
+      }
+
+      var originalBehaviors = $.extend(true, {}, Drupal.behaviors);
+      var selector = category ?
+        "[data-cookie-content-blocker-asset-id][data-categories]" :
+        '[data-cookie-content-blocker-asset-id]:not([data-categories])';
+
+      $(selector).each(function () {
+        var $blockedAsset = $(this);
+        var id = $blockedAsset.data('cookie-content-blocker-asset-id');
+
+        if (!(id in cookieContentBlockerSettings.blockedAssets)) {
+          return;
+        }
+
+        if (category && !$blockedAsset.data('categories').includes(category)) {
+          return;
+        }
+
+        $blockedAsset.replaceWith(cookieContentBlockerSettings.blockedAssets[id]);
+      });
+
+      $.each(Drupal.behaviors, function (name, behavior) {
+        if (!originalBehaviors[name] && $.isFunction(behavior.attach)) {
+          behavior.attach(document, window.drupalSettings);
+        }
+      });
+    }
+  };
+
+})(jQuery, Drupal, window, document, window.Cookies, once);

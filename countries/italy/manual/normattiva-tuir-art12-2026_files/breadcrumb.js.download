@@ -1,0 +1,89 @@
+var primaryTabID = ''
+	if (primaryTabID == '') {
+		tabID = 2;
+	} else {
+		tabID=primaryTabID;
+		if (sessionStorage) {
+			sessionStorage.tabID=primaryTabID;
+		}
+	}
+	if (sessionStorage) {
+		tabID = sessionStorage.tabID ? sessionStorage.tabID : sessionStorage.tabID = Math.random();
+	}
+	var el=document.getElementsByName("tabID");
+	for (i=0; i<el.length; i++) {
+		el[i].value=tabID;
+	}
+	function evaluateHref(el, titolo) {
+		evaluateHrefCore(el, titolo, false, false);
+	}
+	function evaluateHrefNewPage(el, titolo) {
+		evaluateHrefCore(el, titolo, true, false);
+	}
+	function evaluateHrefBlock(el, titolo) {
+		evaluateHrefCore(el, titolo, false, true);
+	}
+	function evaluateHrefNewPageBlock(el, titolo) {
+		evaluateHrefCore(el, titolo, true, true);
+	}
+	function evaluateHrefCore(el, titolo, newTab, block) {
+		var tabID=document.getElementById('tabID').value;
+		var ref=el.href;
+		if (ref.includes("tabID=")) {
+			ref=ref.substring(0, el.href.indexOf("tabID=")-1);
+			el.href=ref;
+		}
+		if (el.href.includes("?")) {
+			el.href+="&";
+		} else {
+			el.href+="?";
+		}
+		el.href+="tabID="+tabID+"&title="+titolo;
+		if (newTab || event.which==2 ||event.which==3) {
+			el.href+="&generaTabId=true";
+		}
+		if (block) {
+			el.href+="&bloccoAggiornamentoBreadCrumb=true";
+		}
+	}
+	
+	
+	
+	function isValidUrl4GA(url) {
+		if(url.includes("/gotoBreadCrumb") 
+				|| url.includes("/filter/add") 
+				|| url.includes("/filter/remove") 
+		){
+			return false
+		}else{
+			return true
+		}	
+	}
+	
+	
+	function removeURLParameter(url, parameter) {
+	    //prefer to use l.search if you have a location/link object
+	    var urlparts = url.split('?');   
+	    if (urlparts.length >= 2) {
+
+	        var prefix = encodeURIComponent(parameter) + '=';
+	        var pars = urlparts[1].split(/[&;]/g);
+
+	        //reverse iteration as may be destructive
+	        for (var i = pars.length; i-- > 0;) {    
+	            //idiom for string.startsWith
+	            if (pars[i].lastIndexOf(prefix, 0) !== -1) {  
+	                pars.splice(i, 1);
+	            }
+	        }
+
+	        return urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : '');
+	    }
+	    return url;
+	}		  
+	
+	
+	function closeToast(idToast){
+		toastDiv = document.getElementById(idToast); 
+		toastDiv.classList.add("d-none"); 
+	}

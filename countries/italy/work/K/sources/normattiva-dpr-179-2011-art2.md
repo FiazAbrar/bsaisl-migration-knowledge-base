@@ -1,0 +1,255 @@
+PAGE META: eli:date_document: 2011-09-14
+
+[![Logo Governo](/svg/logo-gov.svg) **Presidenza del Consiglio dei Ministri**](https://www.governo.it)
+
+[ITA](#)
+
+- [ITA](/?language=it)
+- [ENG](/?language=en)
+
+[](/)
+
+![Logo Normattiva](/svg/Normattiva.svg)
+
+# Normattiva - Il portale della legge vigente
+
+In caso di problemi di visualizzazione dell’atto clicca [qui](/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2011-11-11&atto.codiceRedazionale=011G0221&tipoDettaglio=singolavigenza&qId=&classica=true&dataVigenza=10/11/2026&generaTabId=true&bloccoAggiornamentoBreadCrumb=true&title=lbl.dettaglioAtto&tabID=)
+
+[Ricerca avanzata](%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/ricerca/avanzata%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+
+Date label
+
+## DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 2011, n. 179
+
+### Regolamento concernente la disciplina dell'accordo di integrazione tra lo straniero e lo Stato, a norma dell'articolo 4-bis, comma 2, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286. (11G0221)
+
+note: Entrata in vigore del provvedimento: 10/03/2012
+
+[(GU n.263 del 11-11-2011)](https://www.gazzettaufficiale.it/eli/gu/2011/11/11/263/sg/pdf) [visualizza atto intero](/esporta/attoCompleto?atto.dataPubblicazioneGazzetta=2011-11-11&atto.codiceRedazionale=011G0221)
+
+[nascondi](javascript:void(0))
+
+vigente al 10/11/2026
+
+- Articoli
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[1]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[2]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[3]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[4]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[5]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[6]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[7]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[8]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[9]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[10]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[11]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[12]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[13]()
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[14]()
+- ![](/images/albero_atto/chiusura.jpg "Elemento grafico")
+
+- Allegati
+
+&nbsp;
+
+- Allegato A
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[Allegato A]()
+- ![](/images/albero_atto/chiusura.jpg "Elemento grafico")
+- Allegato B
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[Allegato B]()
+- ![](/images/albero_atto/chiusura.jpg "Elemento grafico")
+- Allegato C
+- ![](/images/albero_atto/link_v2.png "elemento grafico")[Allegato C]()
+- ![](/images/albero_atto/chiusura.jpg "Elemento grafico")
+
+## Parole cercate:
+
+Presente nei seguenti articoli
+
+Presente nei seguenti allegati
+
+Articoli Approfondimenti e Funzioni
+
+[*articolo precedente*](javascript:) [*articolo successivo*](javascript:)
+
+Testo in vigore dal:  10-3-2012
+
+## 
+
+## 
+
+## Art. 2
+
+Sottoscrizione, contenuto e durata dell'accordo\
+di integrazione
+
+1. Lo straniero di cui all'articolo 1, comma 2, che presenta istanza di permesso di soggiorno allo sportello unico per l'immigrazione presso la prefettura-ufficio territoriale del Governo, di seguito denominato: «sportello unico», o alla questura competente, contestualmente alla presentazione della medesima istanza, stipula con lo Stato un accordo di integrazione, di seguito denominato «accordo», articolato per crediti. L'accordo è redatto, secondo il modello di cui all'allegato A, che costituisce parte integrante del presente regolamento, in duplice originale, di cui uno è consegnato allo straniero, tradotto nella lingua da lui indicata o se ciò non è possibile, inglese, francese, spagnola, araba, o cinese, albanese, russa o filippina, secondo la preferenza indicata dall'interessato.\
+Per lo Stato, l'accordo è stipulato dal prefetto o da un suo delegato.\
+
+2. L'accordo, qualora abbia come parte un minore di età compresa tra i sedici e i diciotto anni, è sottoscritto anche dai genitori o dai soggetti esercenti la potestà genitoriale regolarmente soggiornanti nel territorio nazionale.\
+
+3. All'atto della sottoscrizione dell'accordo, sono assegnati allo straniero sedici crediti corrispondenti al livello A1 di conoscenza della lingua italiana parlata ed al livello sufficiente di conoscenza della cultura civica e della vita civile in Italia, secondo quanto previsto ai punti 1 e 2 dell'allegato B.\
+
+4. Con l'accordo, lo straniero si impegna a:\
+
+a\) acquisire un livello adeguato di conoscenza della lingua italiana parlata equivalente almeno al livello A2 di cui al quadro comune europeo di riferimento per le lingue emanato dal Consiglio d'Europa;\
+
+b\) acquisire una sufficiente conoscenza dei principi fondamentali della Costituzione della Repubblica e dell'organizzazione e funzionamento delle istituzioni pubbliche in Italia;\
+
+c\) acquisire una sufficiente conoscenza della vita civile in Italia, con particolare riferimento ai settori della sanità, della scuola, dei servizi sociali, del lavoro e agli obblighi fiscali;\
+
+d\) garantire l'adempimento dell'obbligo di istruzione da parte dei figli minori.\
+
+5. Lo straniero dichiara, altresì, di aderire alla Carta dei valori della cittadinanza e dell'integrazione di cui al [decreto del Ministro dell'interno in data 23 aprile 2007, pubblicato nella Gazzetta Ufficiale n. 137 del 15 giugno 2007](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2007-06-15&numeroGazzetta=137), e si impegna a rispettarne i principi.\
+
+6. Con l'accordo, lo Stato si impegna a sostenere il processo di integrazione dello straniero attraverso l'assunzione di ogni idonea iniziativa in raccordo con le regioni e gli enti locali, che anche in collaborazione con i centri per l'istruzione degli adulti, di cui all'[articolo 1, comma 632, della legge 27 dicembre 2006, n. 296](/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com632), possono avvalersi delle organizzazioni del terzo settore di cui al [decreto del Presidente del Consiglio dei Ministri in data 30 marzo 2001, pubblicato nella Gazzetta Ufficiale n. 188 del 14 agosto 2001](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2001-08-14&numeroGazzetta=188), e delle organizzazioni dei datori di lavoro e dei lavoratori, nell'ambito delle rispettive competenze e nei limiti delle risorse finanziarie disponibili a legislazione vigente. Nell'immediato, lo Stato assicura allo straniero la partecipazione ad una sessione di formazione civica e di informazione sulla vita in Italia secondo le modalità di cui all'articolo 3.\
+
+7. L'accordo ha la durata di due anni prorogabile di un altro anno.\
+
+8. Non si fa luogo alla stipula dell'accordo ai fini del rilascio del permesso di soggiorno e, se stipulato, questo si intende adempiuto, qualora lo straniero sia affetto da patologie o da disabilità tali da limitare gravemente l'autosufficienza o da determinare gravi difficoltà di apprendimento linguistico e culturale, attestati mediante una certificazione rilasciata da una struttura sanitaria pubblica o da un medico convenzionato con il Servizio sanitario nazionale.\
+
+9. Non si procede alla sottoscrizione dell'accordo per:\
+
+a\) i minori non accompagnati affidati ai sensi dell'[articolo 2 della legge 4 maggio 1983, n. 184](/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184~art2), e successive modificazioni, ovvero sottoposti a tutela, per i quali l'accordo è sostituito dal completamento del progetto di integrazione sociale e civile di cui all'articolo 32, comma 1-bis, del testo unico;\
+
+b\) le vittime della tratta di persone, di violenza o di grave sfruttamento, per le quali l'accordo è sostituito dal completamento del programma di assistenza ed integrazione sociale di cui all'articolo 18 del testo unico.\
+
+10. L'accordo decade di diritto qualora il questore disponga il rifiuto del rilascio, la revoca o il diniego di rinnovo del permesso di soggiorno, per carenza originaria o sopravvenuta dei requisiti di legge. Gli estremi del provvedimento di reiezione o revoca sono inseriti, a cura della questura, nell'anagrafe nazionale di cui all'articolo 9.\
+
+11. Fatti salvi i poteri del prefetto e del questore al verificarsi di vicende estintive dell'accordo, la gestione di quest'ultimo nelle fasi successive alla stipula è affidata allo sportello unico. A tale fine, gli accordi stipulati presso la questura sono trasmessi con modalità informatiche allo sportello medesimo.\
+
+Note all'art. 2:\
+\- Il decreto ministeriale 23 aprile 2007 (Carta dei valori della cittadinanza e dell'integrazione), è pubblicato nella Gazzetta Ufficiale 15 giugno 2007, n. 137.\
+\- Si riporta il testo dell'[art. 1, comma 632, della legge 27 dicembre 2006, n. 296](/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com632) Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2007), pubblicata nella Gazzetta Ufficiale 27 dicembre 2006, n. 299:\
+«632. Ferme restando le competenze delle regioni e degli enti locali in materia, in relazione agli obiettivi fissati dall'Unione europea, allo scopo di far conseguire più elevati livelli di istruzione alla popolazione adulta, anche immigrata con particolare riferimento alla conoscenza della lingua italiana, i centri territoriali permanenti per l'educazione degli adulti e i corsi serali, funzionanti presso le istituzioni scolastiche di ogni ordine e grado, sono riorganizzati su base provinciale e articolati in reti territoriali e ridenominati "Centri provinciali per l'istruzione degli adultì'. Ad essi è attribuita autonomia amministrativa, organizzativa e didattica, con il riconoscimento di un proprio organico distinto da quello degli ordinari percorsi scolastici, da determinare in sede di contrattazione collettiva nazionale, nei limiti del numero delle autonomie scolastiche istituite in ciascuna regione e delle attuali disponibilità complessive di organico. Alla riorganizzazione di cui al presente comma, si provvede con decreto del Ministro della pubblica istruzione, sentita la Conferenza unificata di cui all'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), ai sensi del medesimo decreto legislativo».\
+\- Il decreto del Presidente del Consiglio dei Ministri 30 marzo 2001 (Atto di indirizzo e coordinamento sui sistemi di affidamento dei servizi alla persona ai sensi dell'[art. 5 della legge 8 novembre 2000, n. 328](/uri-res/N2Ls?urn:nir:stato:legge:2000-11-08;328~art5)), è pubblicato nella Gazzetta Ufficiale 14 agosto 2001, n. 188.\
+\- Si riporta il testo dell'[art. 2 della legge 4 maggio 1983, n. 184](/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184~art2) (Diritto del minore ad una famiglia), pubblicata nella Gazzetta Ufficiale 17 maggio 1983, n. 133:\
+«Titolo I-bis - (Dell'affidamento del minore) - Art. 2.\
+\- 1. Il minore temporaneamente privo di un ambiente familiare idoneo, nonostante gli interventi di sostegno e aiuto disposti ai sensi dell'art. 1, è affidato ad una famiglia, preferibilmente con figli minori, o ad una persona singola, in grado di assicurargli il mantenimento, l'educazione, l'istruzione e le relazioni affettive di cui egli ha-bisogno.\
+2\. Ove non sia possibile l'affidamento nei termini di cui al comma 1, è consentito l'inserimento del minore in una comunità di tipo familiare o, in mancanza, in un istituto di assistenza pubblico o privato, che abbia sede preferibilmente nel luogo più vicino a quello in cui stabilmente risiede il nucleo familiare di provenienza. Per i minori di età inferiore a sei anni l'inserimento può avvenire solo presso una comunità di tipo familiare.\
+3\. In caso di necessità e urgenza l'affidamento può essere disposto anche senza porre in essere gli interventi di cui all'art. 1, commi 2 e 3.\
+4\. Il ricovero in istituto deve essere superato entro il 31 dicembre 2006 mediante affidamento ad una famiglia e, ove ciò non sia possibile, mediante inserimento in comunità di tipo familiare caratterizzate da organizzazione e da rapporti interpersonali analoghi a quelli di una famiglia.\
+5\. Le regioni, nell'ambito delle proprie competenze e sulla base di criteri stabiliti dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, definiscono gli standard minimi dei servizi e dell'assistenza che devono essere forniti dalle comunità di tipo familiare e dagli istituti e verificano periodicamente il rispetto dei medesimi».\
+\- Si riporta il testo degli articoli 18 e 32 del decreto citato legislativo n. 286 del 1998:\
+«Art. 18. (Soggiorno per motivi di protezione sociale).\
+\- 1. Quando, nel corso di operazioni di polizia, di indagini o di un procedimento per taluno dei delitti di cui all'[art. 3 della legge 20 febbraio 1958, n. 75](/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75~art3), o di quelli previsti dall'[art. 380 del codice di procedura penale](/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art380), ovvero nel corso di interventi assistenziali dei servizi sociali degli enti locali, siano accertate situazioni di violenza o di grave sfruttamento nei confronti di uno straniero, ed emergano concreti pericoli per la sua incolumità, per effetto dei tentativi di sottrarsi ai condizionamenti di un'associazione dedita ad uno dei predetti delitti o delle dichiarazioni rese nel corso delle indagini preliminari o del giudizio, il questore, anche su proposta del Procuratore della Repubblica, o con il parere favorevole della stessa autorità, rilascia uno speciale permesso di soggiorno per consentire allo straniero di sottrarsi alla violenza ed ai condizionamenti dell'organizzazione criminale e di partecipare ad un programma di assistenza ed integrazione sociale.\
+2\. Con la proposta o il parere di cui al comma 1, sono comunicati al questore gli elementi da cui risulti la sussistenza delle condizioni ivi indicate, con particolare riferimento alla gravità ed attualità del pericolo ed alla rilevanza del contributo offerto dallo straniero per l'efficace contrasto dell'organizzazione criminale ovvero per la individuazione o cattura dei responsabili dei delitti indicati nello stesso comma. Le modalità di partecipazione al programma di assistenza ed integrazione sociale sono comunicate al Sindaco.\
+3\. Con il regolamento di attuazione sono stabilite le disposizioni occorrenti per l'affidamento della realizzazione del programma a soggetti diversi da quelli istituzionalmente preposti ai servizi sociali dell'ente locale, e per l'espletamento dei relativi controlli. Con lo stesso regolamento sono individuati i requisiti idonei a garantire la competenza e la capacità di favorire l'assistenza e l'integrazione sociale, nonché la disponibilità di adeguate strutture organizzative dei soggetti predetti.\
+4\. Il permesso di soggiorno rilasciato a norma del presente articolo ha la durata di sei mesi e può essere rinnovato per un anno, o per il maggior periodo occorrente per motivi di giustizia. Esso è revocato in caso di interruzione del programma o di condotta incompatibile con le finalità dello stesso, segnalate dal procuratore della Repubblica o, per quanto di competenza, dal servizio sociale dell'ente locale, o comunque accertate dal questore, ovvero quando vengono meno le altre condizioni che ne hanno giustificato il rilascio.\
+5\. Il permesso di soggiorno previsto dal presente articolo consente l'accesso ai servizi assistenziali e allo studio, nonché l'iscrizione nelle liste di collocamento e lo svolgimento di lavoro subordinato, fatti salvi i requisiti minimi di età. Qualora, alla scadenza del permesso di soggiorno, l'interessato risulti avere in corso un rapporto di lavoro, il permesso può essere ulteriormente prorogato o rinnovato per la durata del rapporto medesimo o, se questo è a tempo indeterminato, con le modalità stabilite per tale motivo di soggiorno. Il permesso di soggiorno previsto dal presente articolo può essere altresì convertito in permesso di soggiorno per motivi di studio qualora il titolare sia iscritto ad un corso regolare di studi.\
+6\. Il permesso di soggiorno previsto dal presente articolo può essere altresì rilasciato, all'atto delle dimissioni dall'istituto di pena, anche su proposta del procuratore della Repubblica o del giudice di sorveglianza presso il tribunale per i minorenni, allo straniero che ha terminato l'espiazione di una pena detentiva, inflitta per reati commessi durante la minore età, e già dato prova concreta di partecipazione a un programma di assistenza e integrazione sociale.\
+6-bis. Le disposizioni del presente articolo si applicano, in quanto compatibili, anche ai cittadini di Stati membri dell'Unione europea che si trovano in una situazione di gravità ed attualità di pericolo.\
+7\. L'onere derivante dal presente articolo è valutato in lire 5 miliardi per l'anno 1997 e in lire 10 miliardi annui a decorrere dall'anno 1998».\
+«Art. 32. (Disposizioni concernenti minori affidati al compimento della maggiore età). - 1. Al compimento della maggiore età, allo straniero nei cui confronti sono state applicate le disposizioni di cui all'art. 31, commi 1 e 2, e fermo restando quanto previsto dal comma 1-bis, ai minori che sono stati affidati ai sensi dell'[art. 2 della legge 4 maggio 1983, n. 184](/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184~art2), può essere rilasciato un permesso di soggiorno per motivi di studio di accesso al lavoro, di lavoro subordinato o autonomo, per esigenze sanitarie o di cura. Il permesso di soggiorno per accesso al lavoro prescinde dal possesso dei requisiti di cui all'art. 23.\
+1-bis. Il permesso di soggiorno di cui al comma 1 può essere rilasciato per motivi di studio, di accesso al lavoro ovvero di lavoro subordinato o autonomo, al compimento della maggiore età, ai minori stranieri non accompagnati, affidati ai sensi dell'[art. 2 della legge 4 maggio 1983, n. 184](/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184~art2), ovvero sottoposti a tutela, previo parere positivo del Comitato per i minori stranieri di cui all'art. 33 del presente testo unico, ovvero ai minori stranieri non accompagnati che siano stati ammessi per un periodo non inferiore a due anni in un progetto di integrazione sociale e civile gestito da un ente pubblico o privato che abbia rappresentanza nazionale e che comunque sia iscritto nel registro istituito presso la Presidenza del Consiglio dei Ministri ai sensi dell'[art. 52 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-31;394~art52).\
+1-ter. L'ente gestore dei progetti deve garantire e provare con idonea documentazione, al momento del compimento della maggiore età del minore straniero di cui al comma 1-bis, che l'interessato si trova sul territorio nazionale da non meno di tre anni, che ha seguito il progetto per non meno di due anni, ha la disponibilità di un alloggio e frequenta corsi di studio ovvero svolge attività lavorativa retribuita nelle forme e con le modalità previste dalla legge italiana, ovvero è in possesso di contratto di lavoro anche se non ancora iniziato.\
+1-quater. Il numero dei permessi di soggiorno rilasciati ai sensi del presente articolo è portato in detrazione dalle quote di ingresso definite annualmente nei decreti di cui all'art. 3, comma 4».\
+
+[*articolo precedente*](javascript:) [*articolo successivo*](javascript:)
+
+[nascondi](javascript:void(0))
+
+- ### Approfondimenti
+
+- aggiornamenti all'atto
+
+- atti aggiornati
+
+- atti correlati
+
+- note atto
+
+- lavori preparatori
+
+- relazioni
+
+- aggiornamenti al titolo
+
+- aggiornamenti alla struttura
+
+- atti parlamentari
+
+- atti attuativi
+
+- ### Funzioni
+
+- [esporta](/atto/vediMenuExport?atto.dataPubblicazioneGazzetta=2011-11-11&atto.codiceRedazionale=011G0221&currentSearch=)
+
+- [esporta in Akoma ntoso](/do/atto/caricaAKN?dataGU=20111111&codiceRedaz=011G0221&dataVigenza=20261110)
+
+- collegamento permanente
+
+- indice dell'atto
+
+Realizzazione e gestione [ **Istituto Poligrafico e Zecca dello Stato** ](https://www.ipzs.it "vai al link ISTITUTO POLIGRAFICO E ZECCA DELLO STATO")
+
+[](/staticPage/contatti "Vai alla pagina: Contatti")
+
+**Contattaci**
+
+###### Normattiva
+
+- [Archivio news](/showArchivioNews)
+- [Il progetto](/staticPage/progetto)
+- [Guida all'uso](/staticPage/guidaAllUso)
+- [Collegamenti veloci](/staticPage/ricercaNeiDocumenti)
+- [Ricerca avanzata](/ricerca/avanzata)
+
+###### Collegamenti veloci
+
+- [Costituzione e Codici](/staticPage/codici)
+- [Elenco atti per data di emanazione](/ricerca/elencoPerData)
+- [Gazzetta Ufficiale](/staticPage/gazzetta)
+- [Motore federato regionale](/legislazioneRegionale)
+- [Leggi approvate in attesa di pubblicazione](/staticPage/leggi_approvate)
+- [Utilità](/staticPage/utilita)
+
+###### Con il contributo di
+
+- [Presidenza del Consiglio dei Ministri](https://www.governo.it/)
+- [Camera dei Deputati](https://www.camera.it/)
+- [Senato della Repubblica](https://www.senato.it/home)
+
+###### In collaborazione con
+
+- [Corte Suprema di Cassazione](https://www.cortedicassazione.it)
+- [Agenzia per l’Italia digitale e Presidenza del Consiglio dei Ministri](https://www.agid.gov.it/)
+
+- [Privacy e Cookie policy](/staticPage/privacy_policy)
+- [Note legali](/staticPage/legal)
+- [Mappa del sito](/mappa)
+- [FAQ](/staticPage/faq)
+- [Dichiarazione di accessibilità](https://form.agid.gov.it/view/a2fb2081-2963-4daf-8044-03950a7e2fd0/)
+- [dati.normattiva.it](https://dati.normattiva.it/)
+
+Portale Normattiva, Versione 2.4.5
+
+[torna su](#)
+
+#### lavori preparatori
+
+#### aggiornamenti all'atto
+
+#### atti aggiornati
+
+#### atti correlati
+
+#### indice dell'atto
+
+#### aggiornamenti alla struttura
+
+#### aggiornamenti al titolo
+
+#### relazioni
+
+#### note atto
+
+#### collegamento permanente
+
+## guida in linea
+
+#### Aggiornamenti all'articolo
+
+#### atti parlamentari
+
+#### atti attuativi

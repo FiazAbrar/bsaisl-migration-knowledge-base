@@ -1,0 +1,26 @@
+/**
+ * @file cookies.js
+ *
+ * Trigger cookies.
+ */
+
+(function (Drupal, $, once) {
+  'use strict';
+
+  /**
+   * Trigger cookies.
+   */
+  Drupal.behaviors.internoTriggerCookies = {
+    attach: function (context, settings) {
+      once('internoAcceptCookiesOne', 'html', context).forEach(function (element) {
+        $('.trigger-cookie-consent').click(function () {
+          if (Drupal.eu_cookie_compliance) {
+            Drupal.eu_cookie_compliance.toggleWithdrawBanner();
+          }
+          return false;
+        });
+      });
+    }
+  };
+
+})(Drupal, jQuery, once);

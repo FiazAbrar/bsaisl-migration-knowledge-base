@@ -1,0 +1,2072 @@
+Istituto Superiore di Sanità  Ministero della Salute
+
+L'accesso alle cure
+        della persona
+               straniera:
+
+                 indicazioni operative
+
+                                   a cura di
+             Anna Maria Luzi, Gaetano Mario Pasqualino,
+          Lucia Pugliese, Matteo Schwarz, Barbara Suligoi
+Istituto Superiore di Sanità                       Ministero della Salute
+
+                              In ricordo della dott.ssa Marcela Bulcu
+                                      Mediatore linguistico-culturale
+
+L'accesso alle cure
+della persona straniera:
+indicazioni operative
+
+a cura di (in ordine alfabetico)
+Anna Maria Luzi1, Gaetano Mario Pasqualino2,
+Lucia Pugliese1, Matteo Schwarz1, Barbara Suligoi1
+1Dipartimento di Malattie Infettive, Parassitarie ed Immunomediate, ISS
+2Avvocato del Foro di Palermo, esperto in Diritto dell'Immigrazione, Palermo
+
+Roma 2013
+Istituto Superiore di Sanità, Ministero della Salute
+L'accesso alle cure della persona straniera: indicazioni operative.
+A cura di A.M. Luzi, G.M. Pasqualino, L. Pugliese, M. Schwarz, B. Suligoi. 2013, viii, 58 p.
+In uno scenario dominato da crescenti flussi migratori è quanto mai necessario
+fornire agli operatori socio-sanitari e ai mediatori linguistico-culturali, strumenti
+di intervento volti ad assicurare una risposta efficace al bisogno di tutela della
+salute della persona straniera. Tale considerazione ha spinto un gruppo di ricerca-
+tori dell'Istituto Superiore di Sanità (ISS) e di esperti legali, in collaborazione con il
+Ministero della Salute e con gli specialisti in editoria scientifica e grafica del Settore
+Attività Editoriali dell'ISS, a stilare una guida operativa sull'accesso alle cure dei
+migranti. L'impulso alla realizzazione del lavoro è stato fornito dalla conclusione
+dell'Accordo Stato-Regioni (anno 2013), con cui si è voluto assicurare, sull'intero
+territorio nazionale, la parità di trattamento della persona straniera sotto il duplice
+profilo dell'assistenza sanitaria e dell'accesso alle cure per i soggetti più vulnerabili.
+Parole chiave: diritto, salute, migranti
+
+Istituto Superiore di Sanità, Ministero della Salute
+Access to treatment for immigrant: practical indications.
+Edited by A.M. Luzi, G.M. Pasqualino, L. Pugliese, M. Schwarz, B. Suligoi. 2013, viii, 58 p.
+In a scenario dominated by a constant movement of individuals, it is more necessary
+than ever to provide social workers and cultural linguistic mediators with interven-
+tion tools, in order to ensure an effective response to the health needs of immigrants.
+This consideration has prompted a group of researchers from the Italian National In-
+stitute of Health (ISS), and legal experts, in collaboration with the Ministry of Health
+and with experts in scientific publishing and graphics of the ISS Publishing Unit, to
+draw up the guide: "Access to treatment for immigrant: practical indications". The
+initiative for the drawing up of this work was provided by the conclusion of the State-
+Regions Agreement (year 2013), which was intended to ensure, for the first time in
+the context of an agreement between the State and the local institutions, equal
+treatment across the whole national territory for all citizens and foreign people, from
+both viewpoints of healthcare and access to care for the most vulnerable subjects.
+Key words: rights, health, migrants
+
+Si ringraziano i mediatori linguistico-culturali, gli operatori socio-sanitari e i rappresen-
+tanti della società civile che ogni giorno, nel nostro Paese, si impegnano per il rispetto
+del diritto alla salute della persona straniera.
+
+Citare questo documento come segue:
+Luzi AM, Pasqualino GM, Pugliese L, et al. L'accesso alle cure della persona
+straniera: indicazioni operative. Not Ist Super Sanità 2013;26(3, Suppl. 1):3-58.
+
+Supplemento al Notiziario dell'Istituto Superiore di Sanità
+a cura del Settore Attività Editoriali
+Redattore capo: Paola De Castro
+Redazione: Anna Maria Rossi, Giovanna Morini
+Progetto grafico: Cosimo Marino Curianò
+Impaginazione grafica: Giovanna Morini
+
+© 2013 Istituto Superiore di Sanità (Viale Regina Elena, 299 - 00161 Roma)
+                           INDICE
+
+Abbreviazioni .................................................................................... ii
+Premessa ............................................................................................ iii
+Introduzione ...................................................................................... vii
+
+ I. Accesso ai servizi socio-sanitari e di assistenza
+    della persona straniera regolarmente soggiornante .... 1
+
+II. Accesso ai servizi socio-sanitari
+    e di assistenza della persona straniera
+    non regolarmente soggiornante ...................................... 11
+
+III. Accesso della persona straniera alle cure,
+    in base agli Accordi internazionali bilaterali
+    tra l'Italia e i singoli Stati ...................................................... 21
+
+IV. Accesso ai servizi socio-sanitari e di assistenza
+    del cittadino dell'Unione Europea ................................... 29
+
+V. Divieti di espulsione e protezione internazionale .... 35
+VI. Facsimile di documenti/certificati ................................... 47
+
+Il Telefono Verde AIDS
+e Infezioni Sessualmente Trasmesse ........................................ 58
+
+                                                          i
+                  ABBREVIAZIONI
+
+AIDS    Acquired Immuno Deficiency Syndrome
+
+Art.    Articolo
+
+ASL     Azienda Sanitaria Locale
+
+CARA    Centri di Accoglienza Richiedenti Asilo
+
+c.c.    Codice Civile
+
+CDA     Centri di Accoglienza
+
+CE      Comunità Europea
+
+CIE     Centro di Identificazione ed Espulsione
+
+Circ.   Circolare
+
+COA     Centro Operativo AIDS
+
+Cost.   Costituzione
+
+CPP     Codice di Procedura Penale
+
+DLvo    Decreto Legislativo
+
+DL      Decreto Legge
+
+DM      Decreto Ministeriale
+
+DPCM    Decreto del Presidente del Consiglio dei Ministri
+
+DPR     Decreto del Presidente della Repubblica
+
+ENI     Europeo Non Iscritto
+
+FAQ     Frequently Asked Questions
+
+HIV     Human Immunodeficiency Virus
+
+ISS     Istituto Superiore di Sanità
+
+Lett.   Lettera
+
+MSNA    Minori Stranieri Non Accompagnati
+
+OM      Ordinanza Ministeriale
+
+ONU     Organizzazioni Nazioni Unite
+
+Prot.   Protocollo
+
+PSN     Piano Sanitario Nazionale
+
+SEE     Spazio Economico Europeo
+
+Ser.T   Servizio per le Tossicodipendenze
+
+SSN     Servizio Sanitario Nazionale
+
+STP     Straniero Temporaneamente Presente
+
+TAR     Tribunale Amministrativo Regionale
+
+TU      Testo Unico
+
+TEAM    Tessera Europea di Assicurazione Malattia
+
+TS      Tessera sanitaria
+
+TVAIDS e IST Telefono Verde AIDS e Infezioni Sessualmente Trasmesse
+
+UE      Unione Europea
+
+UO RCF  Unità Operativa
+
+        Ricerca psico-socio-comportamentale,
+
+        Comunicazione, Formazione
+
+UTG     Uffici Territoriali del Governo
+
+ii
+                           PREMESSA
+
+Ho l'audacia di credere
+che i popoli di tutta la terra
+possano ottenere tre pasti al giorno per il loro corpo,
+istruzione e cultura per la loro mente,
+dignità, uguaglianza e libertà per il loro spirito.
+Rimarremo insoddisfatti finché l'integrazione
+non apparirà più come un problema,
+ma come un'opportunità per partecipare
+alla bellezza della diversità.
+
+                                      Martin Luther King
+
+ L'immigrazione è un fenomeno che interessa in mi-
+sura significativa l'Italia dai primi anni '70 del XX se-
+colo, ma è solo più tardi, nel 1986, che il legislatore
+attribuisce all'immigrato, regolarmente soggiornante,
+lo status di soggetto di diritto, al quale deve essere
+assicurato, tra gli altri diritti, anche quello alla tutela
+della salute.
+
+ Con la Legge 6 marzo 1998, n. 40, il legislatore am-
+plia il concetto di accesso alle cure e di tutela della
+salute, estendendo allo straniero presente sul terri-
+torio nazionale, anche non in regola, i programmi di
+medicina preventiva e, dunque, non più le sole cure
+essenziali.
+
+  Lo spartiacque nella politica dello Stato sull'immigra-
+zione si ha, alla fine degli anni '90, con il Piano Sanitario
+Nazionale (PSN) 1998-2000 nel quale, tra gli obiettivi di
+salute che lo Stato si prefigge di raggiungere nel trien-
+nio, vi è quello di rafforzare la tutela dei soggetti deboli
+e, nello specifico, degli stranieri immigrati.
+
+ La novità di questo orientamento è considerare il tema
+della salute come una questione complessa, che richie-
+de un approccio di tipo "olistico", in cui gli aspetti me-
+dico-sanitari si integrino efficacemente con quelli etici,
+psicologici e culturali.
+
+                                                        iii
+  Oltre alle condizioni che minacciano la salute di tutti
+  i soggetti deboli e che colpiscono in modo partico-
+  lare questa fascia di popolazione (alimentazione,
+  abitazione, lavoro e socialità inadeguati e insicuri),
+  si devono tener presenti fattori peculiari che svolgono
+  un ruolo particolare nei confronti della salute degli
+  immigrati legati al quadro epidemiologico del Paese
+  di origine e ad aspetti culturali (difficoltà di comuni-
+  cazione e di inserimento sociale), psicologici (lonta-
+  nanza dagli affetti, mancanza di supporto psico-fa-
+  miliare, rischio di fallimento del progetto migratorio)
+  e di discriminazione nell'accesso ai servizi.
+
+             Tratto da: Piano Sanitario Nazionale 1998-2000
+
+  Con la Legge 40/98 cambia il modo di guardare la per-
+sona immigrata, non più vista solo come soggetto da
+tutelare, ma anche come portatore di interessi.
+
+  Viene, pertanto, pensata e approvata una legge conte-
+nente norme che regolano in modo sia teorico che pratico
+il fenomeno dell'immigrazione, nell'ottica di raggiungere
+il più ampio livello di integrazione della persona straniera.
+
+  L'integrazione, in tal senso, va vista come interazio-
+ne, come percorso effettuato da più soggetti che pur
+provenendo da diversi contesti geografici e culturali, si
+trovano a convivere e a interagire. Essa diviene così un
+processo socio-culturale in cui lo straniero, pur conser-
+vando la propria individualità, aderisce al sistema che lo
+ospita, lo condivide, partecipa ad esso.
+
+  Affinché questo processo si realizzi pienamente è ne-
+cessaria una reale sinergia tra l'operato dello Stato ospi-
+tante e la condotta della persona straniera.
+
+  Sarebbe auspicabile, quindi, avere da un lato istituzioni
+accoglienti, garanti dei diritti fondamentali della perso-
+na umana e, dall'altro, un soggetto immigrato attivo, con
+l'obiettivo della piena realizzazione del proprio progetto
+migratorio.
+
+iv
+ Il presente lavoro si struttura come una guida com-
+prendente i riferimenti alle principali disposizioni nor-
+mative di livello nazionale, necessarie a chiunque si trovi
+a interagire con la persona straniera sul fronte della tute-
+la della salute e dell'accesso ai servizi socio-sanitari, ma
+anche alla stessa persona immigrata in possesso delle
+conoscenze linguistiche per consultarla.
+
+ Inoltre, le indicazioni contenute nella guida possono
+risultare utili a chiunque desideri approfondire la cono-
+scenza della normativa sanitaria relativa all'assistenza
+delle persone straniere. Si intende qui precisare che le
+disposizioni normative richiamate possono essere su-
+scettibili di modifiche nel tempo e i riferimenti riportati
+dovranno essere necessariamente integrati dalla legi-
+slazione regionale e dagli atti a contenuto normativo
+che le Autorità Sanitarie Locali possono/devono adot-
+tare in attuazione/integrazione delle disposizioni nazio-
+nali. Tutto questo dovrà avvenire nel pieno rispetto dei
+principi che sovrintendono alla ripartizione dei poteri e
+delle competenze tra le Amministrazioni centrali dello
+Stato e gli Enti locali.
+
+ Riteniamo che, solo attraverso una corretta e uniforme
+applicazione della normativa, si potrà giungere a una
+piena attuazione di quel diritto alla salute inteso come
+fondamentale diritto dell'individuo e interesse della col-
+lettività sancito nell'art. 32 della nostra Carta Costituzio-
+nale. Tale norma - occorre osservare - si rivolge agli indi-
+vidui e non solo ai cittadini, volendo con ciò affermare
+come il diritto alla salute si configuri come diritto della
+persona, collocandosi nel novero dei cosiddetti diritti
+umani, intesi come diritti inalienabili dell'individuo.
+
+ Fondamentale, in tale prospettiva, è l'Accordo Stato-
+Regioni del 2013 (Gazzetta Ufficiale n. 32, 7 febbraio
+2013 - Suppl. Ordinario n. 9), con cui si è inteso assi-
+curare, per la prima volta nel contesto di un'intesa tra
+Stato e autonomie locali (originata anche dall'ammo-
+nimento del Capo dello Stato nel suo discorso di fine
+
+                                                         v
+anno 2012), la parità di trattamento, a livello nazio-
+nale, tra cittadino italiano e persona straniera sotto il
+profilo dell'assistenza sanitaria e dell'accesso alle cure
+per i soggetti più vulnerabili.
+
+  Anche per le persone straniere prive del permesso di
+soggiorno e per i cittadini comunitari privi dell'iscrizione
+anagrafica si è voluta così ribadire l'esistenza, su tutto il
+territorio italiano, di un diritto di accesso alle cure essen-
+ziali e urgenti con l'utilizzo, rispettivamente, del codice
+STP (Straniero Temporaneamente Presente) e del codice
+ENI (Europeo Non Iscritto).
+
+  In armonia con fonti di rango internazionale quali la
+Convenzione sui diritti del fanciullo e la Risoluzione
+A7-0032/2011 (punti 5 e 22) del Parlamento Europeo (8
+febbraio 2011), si è inteso, inoltre, garantire l'iscrizione
+obbligatoria al Servizio Sanitario Nazionale (SSN) di tutti
+i minori stranieri (pur in assenza del permesso di sog-
+giorno), in ragione del superiore interesse a tutelare il
+minore.
+
+  Il citato Accordo Stato-Regioni deve ora trovare coe-
+rente applicazione nelle singole realtà regionali e tradur-
+si in atti concreti (leggi regionali, delibere, circolari inter-
+ne alle strutture sanitarie, ecc.) con il molteplice obiet-
+tivo di rispettare l'interesse superindividuale del diritto
+alla salute, ridurre la possibile diffusione delle malattie e
+razionalizzare la spesa pubblica attraverso un'adeguata
+opera di informazione e prevenzione.
+
+                                             Maria Grazia Pompa
+                       Direzione Generale della Prevenzione
+
+                                           Ministero della Salute
+
+vi
+                        INTRODUZIONE
+
+ La presente guida nasce dall'esigenza di dare una ri-
+sposta alle numerose richieste di informazioni relative a
+tematiche inerenti la materia legale, pervenute al Servi-
+zio di counselling del Telefono Verde AIDS e IST (Infezioni
+Sessualmente Trasmesse) dell'Istituto Superiore di Sani-
+tà (ISS), da parte di operatori socio-sanitari, di mediatori
+linguistico-culturali, di volontari impegnati nella tutela
+dei diritti delle persone migranti, nonché, di molte per-
+sone straniere che si sono trovate in difficoltà nell'acce-
+dere ai servizi socio-sanitari del nostro Paese.
+
+ La finalità prioritaria è quella di fornire un utile stru-
+mento operativo soprattutto ai soggetti che, in ragione
+della propria attività, si trovano a dover rispondere alle
+numerose richieste di assistenza e di informazione che
+provengono dalle persone immigrate.
+
+ Il vademecum che segue è il risultato della collabora-
+zione tra:
+· l'Unità Operativa di Ricerca psico-socio-comportamenta-
+
+ le, Comunicazione, Formazione (UO RCF) e il Centro Ope-
+ rativo AIDS (COA), due strutture del Dipartimento di Ma-
+ lattie Infettive, Parassitarie ed Immunomediate dell'ISS;
+· il Ministero della Salute;
+· un esperto legale in diritto dell'immigrazione del Foro
+ di Palermo;
+· gli specialisti in editoria scientifica e grafica del Settore
+ Attività Editoriali dell'ISS.
+
+ Nello specifico, l'esperienza e il know-how dell'UO RCF,
+acquisiti a partire dal lontano 1997 attraverso la plurien-
+nale attività di coordinamento dell'Italian National Focal
+Point - Infectious Diseases and Migrant, un Network di
+esperti della salute del migrante, ha indotto la necessità
+di un'attenta riflessione sui nodi cruciali in materia legale
+per quanto riguarda l'accesso ai servizi socio-sanitari e di
+assistenza da parte della popolazione migrante presente
+in Italia.
+
+                                                       vii
+  Tale riflessione è stata ampiamente condivisa dal COA,
+che da molti anni studia le problematiche relative all'infe-
+zione da HIV e alle altre IST nelle persone straniere presen-
+ti nel nostro Paese, nonché da esperti in materia del diritto
+alla salute del migrante che operano sul territorio e dal Mi-
+nistero della Salute. Gli esperti hanno voluto occuparsi di
+un tema complesso, articolato, in continuo divenire, ben
+consapevoli dell'opportunità di un costante e periodico
+aggiornamento del lavoro in relazione a nuove norme e
+disposizioni nel momento stesso in cui viene terminato.
+
+  Il lavoro è suddiviso in 6 sezioni, ognuna delle quali
+tratta un aspetto della tematica. All'interno di alcune
+sezioni sono stati inseriti dei box che contengono ed
+evidenziano aspetti rilevanti della materia.
+
+  Ciascuna sezione si conclude con delle FAQ (Frequen-
+tly Asked Questions), allo scopo di rendere la consulta-
+zione più fruibile.
+
+  La sesta sezione è dedicata al facsimile di documen-
+ti/certificati standard quali: richieste di prestazione
+sanitaria, tessera sanitaria, permesso di soggiorno,
+ricevuta attestante la presentazione dell'istanza di
+emersione dal lavoro irregolare, modello di dichiara-
+zione indigenza. La sezione termina con una scheda
+di annotazioni da compilare a cura del lettore.
+
+  Sono certo che tale progetto, dovuto soprattutto
+all'impegno e all'esperienza della UO RCF, servirà non
+solo a mettere a punto una materia in divenire e ancora
+in parte inesplorata, ma anche a fornire degli elementi
+operativi concreti a chi lavora nel settore, con una possi-
+bile ricaduta sulla qualità della vita di chi vive situazioni
+di quotidiana marginalità.
+
+                                                   Giovanni Rezza
+           Direttore del Dipartimento di Malattie Infettive,
+
+                              Parassitarie ed Immunomediate
+                                    Istituto Superiore di Sanità
+
+viii
+                I.
+
+    Accesso ai servizi socio-sanitari
+e di assistenza della persona straniera
+
+      regolarmente soggiornante
+ Il diritto degli individui (non solo dei cittadini) di acce-
+dere alle cure sanitarie sul territorio nazionale è un prin-
+cipio che trova il proprio fondamento in diverse fonti
+normative, in primo luogo nella Costituzione (art. 32) e
+nella Carta dei diritti fondamentali dell'Unione Europea
+(art. 35), oltre che in disposizioni di legge ordinaria (DLvo
+25 luglio 1998, n. 286, art. 35, comma 3).
+
+ La materia è poi stata oggetto di alcune importanti
+pronunce da parte della Corte di Cassazione, sicché
+può affermarsi che l'accesso alle cure è oggi, nel siste-
+ma europeo, un vero e proprio diritto fondamentale
+dell'individuo, che prescinde dalle sue condizioni per-
+sonali.
+
+ Tuttavia, è opportuno specificare che le summenzio-
+nate condizioni personali rivestono una certa rilevanza
+nel determinare l'ampiezza e i termini di esercizio del
+diritto e, in relazione a ciò, una prima fondamentale di-
+stinzione che occorre operare è quella tra stranieri re-
+golarmente soggiornanti e stranieri non regolarmente
+soggiornanti.
+
+ A prescindere dalla condizione di regolarità o meno
+del soggiorno, è opportuno rilevare che, qualora il mi-
+grante richiedente assistenza sanitaria non parli la lin-
+gua italiana, è necessario l'intervento di un interprete
+e/o mediatore linguistico-culturale al fine di eseguire
+una corretta anamnesi personale e familiare, adempien-
+do in tal modo agli obblighi prescritti dalla legge.
+
+ Il rapporto medico-assistito è considerato come un ve-
+ro e proprio contratto, fonte di risarcimento del danno
+nell'ipotesi di inadempimento. Tale contratto è deno-
+minato contratto di spedalità o di assistenza sanitaria,
+prestazione articolata e complessa che comprende, oltre
+alla prestazione principale medica, una serie di obblighi
+accessori e organizzativi (alberghiero, messa a disposi-
+zione di personale ausiliario, interpreti e/o mediatori/
+counsellor, fornitura di medicinali, vigilanza e custodia
+dei pazienti).
+
+                                                         3
+  La responsabilità della struttura presso la quale si
+ritenga sussistere un contratto di spedalità con il pa-
+ziente, può anche prescindere da quella del medico,
+ove vengano individuati profili di responsabilità con-
+trattuale riconducibili anche al solo ente (difetto di or-
+ganizzazione).
+
+  Per le medesime ragioni è necessario tradurre la do-
+cumentazione relativa alla gestione (autorizzazioni,
+consensi, dichiarazioni, ecc..) dell'assistito in una lingua
+da lui conosciuta o, qualora ciò non sia possibile, in una
+delle lingue veicolari (inglese, francese, spagnolo).
+
+L'accesso ai servizi socio-sanitari
+e di assistenza degli stranieri
+regolarmente soggiornanti
+
+  Per gli stranieri regolarmente soggiornanti vige l'ob-
+bligo di iscrizione al Servizio Sanitario Nazionale (SSN)
+(DLvo 25 luglio 1998, n. 286, art. 34).
+
+  Esso riguarda tutti i soggetti regolarmente soggior-
+nanti o che abbiano chiesto il rinnovo del titolo di sog-
+giorno per i seguenti motivi o trovandosi in una delle
+seguenti condizioni:
+· lavoro subordinato;
+· lavoro autonomo;
+· motivi familiari;
+· asilo politico (compresi i rifugiati);
+· asilo umanitario - protezione temporanea;
+· protezione sociale;
+· minori stranieri;
+· donne in stato di gravidanza e di puerperio fino a un
+
+    massimo di sei mesi dalla nascita del figlio.
+
+  Per i casi di permesso che consentano lo svolgimento
+di attività lavorative, sussiste la facoltà di autocertificare
+la propria condizione di disoccupato iscritto nelle liste
+dei centri per l'impiego.
+
+4
+ L'obbligo di iscrizione all'SSN è esteso anche a coloro
+che si trovino in una delle seguenti condizioni:
+· ospitalità in centri di accoglienza - minori in attesa di
+
+   adozione;
+· affidamento (compresi i minori non accompagnati);
+· richiesta della cittadinanza (riguarda tutti coloro che
+
+   abbiano presentato domanda di cittadinanza italia-
+   na, avendone maturato i presupposti e i requisiti e
+   che siano in attesa della definizione del procedimen-
+   to di riconoscimento);
+· detenuti e internati, soggetti in semilibertà o sotto-
+   posti a misure alternative alla pena (DLvo 230/99, art.
+   1, comma 5);
+· rinnovo per motivi di studio per chi sia già in posses-
+   so di un permesso per i sopraelencati motivi;
+· pendenza del ricorso contro il provvedimento di
+   espulsione o contro il provvedimento di mancato
+   rinnovo, revoca o annullamento del permesso di sog-
+   giorno (in tal caso, il soggetto dovrà esibire idonea
+   documentazione attestante la pendenza del ricorso).
+
+ In tutti i casi sopra indicati, l'iscrizione è estesa anche ai
+familiari a carico regolarmente soggiornanti. Se il familiare
+è un minore studente, al compimento del diciottesimo an-
+no di età, potrà ottenere il rilascio di un permesso di sog-
+giorno per motivi di studio e non dovrà pagare il contribu-
+to di iscrizione all'SSN previsto per l'iscrizione volontaria.
+
+Iscrizione volontaria all'SSN
+
+ Lo straniero regolarmente soggiornante, non rientran-
+te tra le categorie indicate, è tenuto ad assicurarsi con-
+tro il rischio di malattie, infortunio e maternità mediante
+stipula di apposita polizza assicurativa con un istituto
+assicurativo italiano o straniero, valida sul territorio na-
+zionale, ovvero mediante iscrizione volontaria all'SSN
+valida anche per i familiari a carico (Testo Unico sull'im-
+migrazione - TU, art. 34, comma 3 e 4).
+
+                                                         5
+  L'iscrizione volontaria all'SSN può essere, altresì, richiesta:
+· dagli stranieri soggiornanti in Italia titolari di permes-
+
+    so di soggiorno per motivi di studio;
+· dagli stranieri regolarmente soggiornanti colloca-
+
+    ti alla pari, ai sensi dell'Accordo europeo adottato a
+    Strasburgo il 24 novembre 1969, ratificato e reso ese-
+    cutivo ai sensi della Legge 18 maggio 1973, n. 304.
+
+                    ASPETTI RILEVANTI
+
+                    Collocamento alla pari
+  Il collocamento alla pari consiste nell'accoglimento
+  temporaneo in seno a famiglie, come contropartita
+  di alcune prestazioni, di giovani stranieri (17-30 anni)
+  venuti allo scopo di perfezionare le loro conoscenze
+  linguistiche ed eventualmente professionali e di arric-
+  chire la loro cultura generale con una migliore cono-
+  scenza del Paese di soggiorno (Legge 18 maggio 1973,
+  n. 304).
+
+I costi dell'iscrizione all'SSN per i non indigenti
+
+  Per l'iscrizione all'SSN è previsto il pagamento di un
+ contributo pari a  388,00 (anno 2013).
+
+  Tutti coloro che pagano le imposte attraverso la Di-
+ chiarazione dei redditi non sono tenuti a versare il
+ contributo dovuto per l'iscrizione poiché il pagamento
+ delle imposte comprende anche quello per l'iscrizione
+ all'SSN. In tal caso, sarà sufficiente presentare all'Azienda
+ Sanitaria Locale (ASL) di pertinenza, oltre ai documenti
+ richiesti, una copia del quadro RV del modello della Di-
+ chiarazione dei redditi.
+
+  Il cittadino straniero soggiornante per motivi di stu-
+ dio deve versare, invece, un contributo minore, pari a
+  149,77 (anno 2013) e deve effettuare un pagamen-
+ to su apposito bollettino postale (da ritirare presso la
+
+6
+propria ASL di pertinenza) intestato alla Regione di
+residenza o dimora e consegnare la ricevuta del paga-
+mento al momento dell'iscrizione.
+
+                   ASPETTI RILEVANTI
+
+                Domicilio, residenza, dimora
+  Il domicilio, nel diritto privato italiano, corrisponde al
+  luogo in cui una persona "ha stabilito la sede princi-
+  pale dei suoi affari e interessi" (art. 43, comma 1 c.c.).
+  Gli interessi non sono evidentemente solo di natura
+  economica, ma anche personale, sociale e politica.
+  La residenza è il luogo in cui la persona ha la dimora
+  abituale (art. 43, comma 2 c.c.).
+  Non essendo specificato che cosa sia la dimora, il signi-
+  ficato del termine è quello comune: il luogo in cui una
+  persona si trova ad abitare. È possibile avere più di una
+  residenza di fatto, anche se per qualificare un'abitazio-
+  ne come dimora è necessario un minimo di stabilità.
+
+ L'iscrizione all'SSN è gratuita se la persona straniera:
+· è disoccupata con permesso di soggiorno e iscritta
+
+   alle liste di collocamento o munita di permesso per
+   attesa occupazione;
+· è rifugiata con regolare certificato attestante lo status
+   di rifugiata e/o richiedente asilo;
+· è coniugata con un cittadino italiano e a carico dello
+   stesso;
+· è minore con genitore residente in Italia e apparte-
+   nente a una delle categorie sopraelencate.
+
+Accordo di integrazione
+
+ È in vigore dal 10 marzo 2012 un nuovo strumento di
+integrazione offerto alle persone straniere che scelgo-
+no di vivere nel nostro Paese (DLvo 286/98, art. 4 bis). Si
+tratta di un vero e proprio accordo fra lo Stato italiano
+e la persona straniera, che prevede un percorso di inte-
+
+                                                         7
+grazione basato sul principio dei crediti. In esso è stabi-
+lito che entro due anni dalla conclusione dell'accordo,
+il cittadino straniero dovrebbe raggiungere la quota di
+almeno 30 crediti per poter rimanere sul territorio italia-
+no (tali crediti sono attribuiti dallo Sportello Unico per
+l'Immigrazione istituito presso ogni Prefettura).
+
+  All'atto della sottoscrizione dell'accordo sono assegna-
+ti 16 crediti, che potranno essere incrementati mediante
+l'acquisizione o il perfezionamento di determinate co-
+noscenze (lingua italiana, cultura civica e vita civile in
+Italia) e lo svolgimento di determinate attività (percorsi
+di istruzione e formazione professionale, titoli di studio,
+iscrizione all'SSN, stipula di un contratto di locazione
+o di acquisto di un'abitazione, ecc.). L'iscrizione all'SSN
+consente la scelta del medico di base iscritto nei registri
+delle ASL con conseguente attribuzione di 4 crediti rico-
+noscibili ai fini dell'accordo di integrazione.
+
+Tessera sanitaria (TS)/Tessera Europea
+di Assicurazione Malattia (TEAM)
+
+  Con l'iscrizione all'SSN si ha diritto al rilascio della Tessera
+sanitaria (TS) , che viene data allo straniero previa esibizio-
+ne del permesso di soggiorno (vedi Tessera Sanitaria - TS,
+p. 52). La TS è altresì consegnata alla persona straniera che
+presenti il cedolino rilasciato dalla Questura o la ricevuta
+postale attestante l'avvenuta presentazione della richiesta
+di permesso di soggiorno. In tal caso è anche necessario
+esibire il passaporto e il visto (sullo stesso passaporto) da
+cui si evidenzia il motivo di ingresso in Italia. L'iscrizione
+avverrà per un periodo massimo di 3 mesi, prorogabili.
+
+  Se il permesso è in fase di rinnovo occorre esibire il ce-
+dolino rilasciato dalla Questura o la ricevuta dell'istanza
+di rinnovo rilasciata dalle Poste Italiane, unitamente alla
+copia del precedente permesso di soggiorno scaduto
+o in scadenza. Anche in questo caso l'iscrizione avverrà
+per un periodo massimo di 3 mesi, prorogabili.
+
+8
+  Ai fini del rilascio della TS è necessario che il richiedente
+dimori abitualmente in un Comune compreso nell'am-
+bito territoriale dell'ASL a cui è inoltrata la domanda di
+rilascio. A tale scopo, è considerata dimora abituale:
+· la residenza anagrafica e, in mancanza di essa, il do-
+
+    micilio che figura sul permesso di soggiorno;
+· l'ospitalità da più di tre mesi, debitamente documen-
+
+    tata, in un centro di accoglienza.
+   In mancanza della residenza anagrafica, la persona
+straniera dovrà rilasciare apposita autocertificazione
+(dichiarazione sostitutiva dell'atto di notorietà) per at-
+testare la propria domiciliazione effettiva. Tale indirizzo
+dovrà risultare dall'esibizione della documentazione in
+possesso del soggetto (permesso di soggiorno o docu-
+mento rilasciato dal centro di accoglienza).
+
+Il permesso di sAoSgPgEioTrTnI oRILEVANTI
+  Tessera Europea di Assicurazione Malattia (TEAM)
+  È il retro della TS e consente ai cittadini degli Stati
+  dell'UE e di Islanda, Liechtenstein, Norvegia e Svizze-
+  ra di accedere alle cure mediche necessarie durante
+  i soggiorni negli altri Stati europei che utilizzano la
+  tessera. In Italia ha una validità di 5 anni (vedi Tessera
+  Europea di Assicurazione Malattia - TEAM, p. 52).
+
+DLvo 286/98, art. 4 (TU sull'immigrazione):
+l'ingresso nel territorio dello Stato è consentito allo stra-
+niero in possesso di passaporto valido o di documento
+equipollente e del visto d'ingresso.
+
+                   ASPETTI RILEVANTI
+
+                  Il permesso di soggiorno
+  Il permesso di soggiorno è un'autorizzazione ammi-
+  nistrativa a permanere sul territorio nazionale (vedi
+  Permesso di soggiorno, p. 53).
+
+                                                         9
+Il permesso di soggiorno può avere una durata variabile:
+a) superiore a tre mesi, per visite, affari e turismo (art. 5,
+
+    comma 3, lett. a);
+b) superiore a sei mesi, per lavoro stagionale, o nove
+
+    mesi, per lavoro stagionale nei settori che richiedano
+    tale estensione (art. 5, comma 3, lett. b);
+c) superiore a un anno, in relazione alla frequenza di
+    un corso per studio o per formazione debitamente
+    certificata; il permesso è tuttavia rinnovabile annual-
+    mente nel caso di corsi pluriennali (art. 5, comma 3,
+    lett. c);
+d) superiore a due anni, per lavoro autonomo, per lavo-
+    ro subordinato a tempo indeterminato e per ricon-
+    giungimenti familiari (art. 5, comma 3, lett. d);
+e) superiore alle necessità specificamente documenta-
+    te, negli altri casi consentiti dal TU o dal regolamento
+    di attuazione (art. 5, comma 3, lett. e);
+f ) permesso di soggiorno per cure mediche (art. 35).
+
+             DOMANDE FREQUENTI (FAQ)
+
+    1. Quando è dovuto il pagamento del contributo per
+    l'iscrizione all'SSN?
+    Il contributo per l'iscrizione all'SSN è dovuto quando
+    non sia stata presentata alcuna Dichiarazione dei red-
+    diti e non siano state versate le relative imposte in Italia.
+    Viceversa, il cittadino straniero che abbia presentato
+    regolare Dichiarazione dei redditi e pagato le relative
+    imposte non dovrà pagare alcun contributo.
+
+    2. A quali condizioni è rilasciata la Tessera sanitaria?
+    La Tessera sanitaria è rilasciata allo straniero che esibisca
+    il permesso di soggiorno o la ricevuta di avvenuta pre-
+    sentazione della domanda di rilascio o di rinnovo dello
+    stesso e che dimori abitualmente in un Comune com-
+    preso nell'ambito territoriale della ASL a cui è inoltrata
+    la domanda di rilascio.
+
+10
+                II.
+
+    Accesso ai servizi socio-sanitari
+e di assistenza della persona straniera
+
+   non regolarmente soggiornante
+Costituzione Italiana
+
+Art. 32
+La Repubblica tutela la salute come fondamentale dirit-
+to dell'individuo e interesse della collettività...
+
+DLvo 286/98, art. 35, comma 3
+Ai cittadini stranieri presenti sul territorio nazionale,
+non in regola con le norme relative all'ingresso e al
+soggiorno, sono assicurate, nei presidi pubblici e ac-
+creditati, le cure ambulatoriali e ospedaliere urgenti o
+comunque essenziali, ancorché continuative, con par-
+ticolare riguardo alla profilassi, alla diagnosi e alla cura
+delle malattie infettive.
+
+Corte di Cassazione, Sez. I Civile, Sent. n. 20561/2006
+Cassazione civile, sez. I, 24 gennaio 2008, n. 1531 Cons.
+di Stato, Sent. n. 5286/2011 Cons. di Stato, Sentenza n.
+4863/2010
+La Giurisprudenza ha ripetutamente affermato che
+devono ritenersi garantite tutte le prestazioni es-
+senziali per la vita della persona straniera, ritenendo
+prevalente il valore universale e costituzionale della
+salute rispetto all'interesse dello Stato a espellere dal
+territorio nazionale il migrante privo del permesso di
+soggiorno.
+
+Il permesso di soggiorno
+
+ L'assenza del permesso di soggiorno limita i diritti
+della persona straniera, considerato che la mancata
+osservanza della normativa che regola l'ingresso e la
+permanenza in Italia esclude, di per sé, la facoltà di
+svolgere ulteriori attività. Risultano precluse, in par-
+ticolare, la possibilità di sottoscrivere un contratto di
+lavoro, di sottoscrivere un contratto di locazione, di
+svolgere attività di lavoro autonomo, di iscriversi a un
+corso di studi, ecc. (vedi p. 9).
+
+                                                       13
+  L'assenza del permesso di soggiorno, invece, non pre-
+clude alle persone straniere di ricevere, nei presidi pub-
+blici e accreditati di ogni ASL, le seguenti prestazioni:
+· cure ospedaliere urgenti ed essenziali, ancorché con-
+
+    tinuative, comprese quelle erogate in regime di day
+    hospital e pronto soccorso;
+· cure ambulatoriali urgenti ed essenziali, ancorché
+    continuative per malattia e infortunio, compresi i
+    programmi di medicina preventiva e di riabilitazio-
+    ne post-infortunistica, gli interventi di riduzione e
+    prevenzione del danno rispetto ai comportamenti
+    a rischio, nonché i programmi di tutela della salute
+    mentale.
+  Per cure urgenti si intendono le cure che non possono
+essere differite senza pericolo per la vita o danno per la
+salute della persona.
+  Per cure essenziali si intendono le prestazioni sanita-
+rie, diagnostiche e terapeutiche, relative a patologie non
+pericolose nell'immediato e nel breve termine, ma che
+nel tempo potrebbero determinare maggiore danno alla
+salute o rischi per la vita (complicanze, cronicizzazioni o
+aggravamenti).
+
+                    ASPETTI RILEVANTI
+
+  Il requisito dell'urgenza o dell'essenzialità deve esse-
+  re attestato sulla documentazione clinica e su tutte
+  le eventuali richieste di prestazioni.
+
+  In forza del principio di continuità delle cure urgenti
+ed essenziali devono, inoltre, ritenersi assicurati il ciclo
+terapeutico e riabilitativo completo riguardo alla pos-
+sibile risoluzione dell'evento morboso (Circ. Ministero
+della Sanità n. 5, 24 marzo 2000);
+· prestazioni minime essenziali, quali i programmi di
+
+    medicina preventiva a salvaguardia della salute indi-
+    viduale e collettiva.
+
+14
+   In particolare, sono garantiti:
+   a) tutela sociale della gravidanza e maternità com-
+
+        preso l'accesso ai consultori familiari, a parità
+        di condizioni con le cittadine italiane (Legge
+        405/1975, Legge 194/1978, DM Ministero della
+        Sanità, 6 marzo 1995 e successive modificazioni e
+        integrazioni - Decreto sostituito dal DM Ministero
+        della Sanità, 10 settembre 1998);
+   b) tutela della salute del minore (Convenzione ONU,
+        20 novembre 1989 sui diritti del fanciullo, ratifica-
+        ta con Legge 176/1991);
+   c) vaccinazioni previste dai piani sanitari;
+   d) profilassi, diagnosi e cura delle malattie infettive
+        ed eventuale bonifica dei relativi focolai.
+ Sono considerate a carattere preventivo anche le pre-
+stazioni erogate dai Servizi per le Tossicodipendenze
+(Ser.T) (Circ. Ministero della Sanità, 24 marzo 2000, Tito-
+lo VIII, Capo II, Titolo X e Titolo XI del DPR 309/1990) e le
+prestazioni nei confronti di soggetti con HIV.
+
+Codice STP
+(Straniero Temporaneamente Presente)
+
+ Agli stranieri irregolarmente presenti, in sede di pri-
+ma erogazione dell'assistenza, deve essere attribuito
+un codice regionale individuale di accesso a sigla STP
+(Straniero Temporaneamente Presente), riconosciuto
+su tutto il territorio nazionale. Detto codice identifica la
+persona migrante anche per il rimborso delle prestazio-
+ni effettuate da parte delle strutture pubbliche e private
+accreditate. La struttura sanitaria deve procedere, in as-
+senza di documenti di identità, alla registrazione delle
+generalità fornite dall'assistito (Circ. Ministero della Sa-
+nità n. 5, 24 marzo 2000).
+
+ Il rilascio del codice STP ha validità semestrale ed è
+rinnovabile in caso di permanenza dello straniero sul
+territorio nazionale.
+
+                                                       15
+  Al momento dell'assegnazione del codice STP, se il
+destinatario della prestazione è indigente bisogna far
+sottoscrivere "l'autocertificazione di indigenza" (vedi
+Modello di dichiarazione indigenza, p. 55).
+
+  L'esonero dalla partecipazione alla spesa va applica-
+to in tutti i casi (elenco completo in Allegato 12 al DM
+Ministero dell'Economia, 17 marzo 2008), così come si
+applica per i cittadini italiani.
+
+  Anche la dichiarazione di indigenza, come il codice
+STP, ha validità semestrale, ma non è rinnovabile. Per-
+tanto, allo scadere del semestre, lo straniero, qualora
+intenda permanere sul territorio italiano, dovrà sotto-
+scrivere un'ulteriore dichiarazione.
+
+  In analogia a quanto previsto per i cittadini italiani, gli
+STP sono completamente esenti dalla partecipazione
+alla spesa sanitaria per quanto riguarda:
+· ricoveri ospedalieri urgenti;
+· prestazioni ambulatoriali urgenti ad accesso diretto
+
+    (pronto soccorso, guardia medica, ecc.);
+· visite medico-generiche in strutture pubbliche;
+· interventi di prevenzione delle malattie e profilassi
+
+    finalizzati alla tutela della salute pubblica;
+· vaccinazioni obbligatorie;
+· prestazioni previste nei protocolli della maternità;
+· prestazioni a tutela dell'infanzia;
+· soggetti con malattie croniche e invalidanti, nonché
+
+    con malattie rare; in questo caso il codice di esen-
+    zione sarà indicato, a cura del medico prescrivente,
+    nell'apposita casella dedicata alle esenzioni (vedi Ri-
+    chieste di prestazione sanitaria, p. 49).
+
+                    ASPETTI RILEVANTI
+
+  Il codice STP deve essere rilasciato anche in assenza
+  di passaporto o di altri documenti.
+
+16
+                   ASPETTI RILEVANTI
+
+ Le persone straniere per le quali sia stata presentata
+ dichiarazione di emersione (regolarizzazione ai fini
+ dell'ottenimento del permesso di soggiorno - DLvo
+ n. 109/2012) possono essere iscritte all'SSN. In caso
+ di assenza del codice fiscale sarà attribuito un codice
+ STP, ma senza le limitazioni degli irregolari. In tal ca-
+ so, l'unico documento che il migrante può esibire è
+ una ricevuta attestante la presentazione dell'istanza
+ di emersione (vedi Ricevuta attestante la presentazio-
+ ne dell'istanza di emersione dal lavoro irregolare, p. 54)
+ unitamente a un valido documento di riconoscimen-
+ to (passaporto). Circ. Ministero dell'Interno, prot. n.
+ 56675, 26 ottobre 2012.
+
+Autocertificazione stato di indigenza
+
+ È previsto l'esonero dalla partecipazione alla spesa sa-
+nitaria per tutte le prestazioni ambulatoriali urgenti o
+comunque essenziali ai cittadini extracomunitari non in
+regola con le norme relative all'ingresso e al soggiorno,
+privi di risorse economiche sufficienti.
+
+ Il codice di esenzione (X01) vale esclusivamente per la
+specifica prestazione effettuata (vedi Richieste di presta-
+zione sanitaria, p. 49).
+
+ Lo straniero irregolarmente soggiornante può auto-
+certificare la propria indigenza e dichiarare il luogo in
+cui dimora (vedi Modello di dichiarazione indigenza, p.
+55).
+
+Divieto di segnalazione
+
+ L'accesso alle strutture sanitarie da parte dello stranie-
+ro non in regola con le norme sul soggiorno non deve
+comportare alcun tipo di segnalazione all'autorità (DLvo
+286/98, art. 5, comma 5). Il divieto di segnalazione deve
+
+                                                       17
+ritenersi prevalente, inoltre, al reato di soggiorno illegale
+e al conseguente obbligo di denuncia (DLvo 286/98, art.
+10 bis).
+
+  La struttura sanitaria deve procedere, anche in assenza
+di documenti di identità, alla registrazione delle gene-
+ralità fornite dall'assistito (Circ. Ministero della Sanità n.
+5, 24 marzo 2000; Circ. Ministero dell'Interno n. 12, 27
+novembre 2009).
+
+  L'accesso alle strutture sanitarie dello straniero non
+in regola con le norme sul soggiorno non può com-
+portare segnalazione all'autorità, salvo i casi in cui sia
+obbligatorio il referto, a parità di condizioni con il cit-
+tadino italiano (DLvo 286/98, art. 35, comma 5).
+
+             DOMANDE FREQUENTI (FAQ)
+
+   1. Una persona extracomunitaria HIV-positiva, priva
+   del permesso di soggiorno, può accedere alle cure e al-
+   lo stesso tempo richiedere un permesso di soggiorno?
+   Sì. Il trattamento farmacologico necessario per contra-
+   stare la sieropositività al virus dell'HIV è assicurato a tutti,
+   in quanto prestazione minima ed essenziale, nell'ambito
+   dei programmi di medicina preventiva a salvaguardia
+   della salute individuale e collettiva. Sono considerate
+   a carattere preventivo, infatti, anche le prestazioni ero-
+   gate dai Ser.T e le prestazioni nei confronti di soggetti
+   HIV positivi. In ordine al permesso di soggiorno sareb-
+   be opportuno richiedere alla Questura territorialmente
+   competente (dove si ha la residenza, il domicilio o la di-
+   mora) il rilascio del permesso di soggiorno per motivi
+   umanitari o per cure mediche, allegando idonea certi-
+   ficazione medica comprovante la terapia farmacologica
+   intrapresa.
+
+18
+2. Il lavoratore extracomunitario in attesa di regolariz-
+zazione, ai sensi del DLvo n. 109/2012, ha diritto all'as-
+sistenza sanitaria?
+Sì. I cittadini stranieri in attesa dell'esito della procedura di
+emersione (regolarizzazione - DLvo n. 109/2012) possono
+essere iscritti all'SSN. In caso di assenza del codice fiscale
+sarà attribuito un codice STP (Straniero Temporaneamen-
+te Presente), ma senza le limitazioni degli irregolari. In tal
+caso, l'unico documento che il migrante può esibire è una
+ricevuta attestante la presentazione dell'istanza di emer-
+sione (vedi p. 54) unitamente a un valido documento di
+riconoscimento (passaporto) - Ministero dell'Interno, Circ.
+prot. n. 56675, 26 ottobre 2012.
+
+3. Si presenta in ambulatorio una persona extracomu-
+nitaria priva del permesso di soggiorno, che necessita
+di cure urgenti e indifferibili. Si possono somministrare
+le necessarie cure mediche e farmacologiche in assenza
+del codice fiscale?
+Sì. Agli stranieri presenti sul territorio nazionale, non in
+regola con le norme relative all'ingresso e al soggiorno,
+sono assicurate, nei presidi pubblici e accreditati di ogni
+ASL, le cure ospedaliere e ambulatoriali urgenti ed essen-
+ziali ancorché continuative.
+La mancanza del codice fiscale, inoltre, è da ritenersi supe-
+rabile con l'attribuzione di un codice regionale individua-
+le di accesso a sigla STP riconosciuto su tutto il territorio
+nazionale e che identifica l'assistito anche per il rimborso
+delle prestazioni effettuate da parte delle strutture pub-
+bliche e private accreditate.
+
+                                                     19
+               III.
+
+  Accesso della persona straniera
+           alle cure, in base
+
+agli Accordi internazionali bilaterali
+      tra l'Italia e i singoli Stati
+Costituzione Italiana
+
+DLvo 286/98, art. 35, comma 2
+Restano salve le norme che disciplinano l'assistenza
+sanitaria ai cittadini stranieri in Italia in base a trattati e
+accordi internazionali bilaterali o multilaterali di recipro-
+cità sottoscritti dall'Italia.
+
+ Le persone straniere appartenenti a Stati con i quali
+l'Italia ha stipulato accordi internazionali, se in possesso
+di specifici moduli rilasciati dal Paese di appartenenza,
+possono usufruire dell'assistenza sanitaria nell'ambito
+del Servizio Sanitario Nazionale (SSN) e, comunque, pre-
+vio pagamento delle quote di partecipazione alla spesa,
+a parità di condizioni con i cittadini italiani.
+
+ Detti moduli danno diritto alle cure urgenti in forma
+gratuita, in assenza i cittadini stranieri si faranno carico
+delle spese conseguenti alle prestazioni sanitarie che
+sono state loro erogate.
+
+ Tali soggetti hanno diritto all'esenzione per invalidità
+e/o reddito e diversamente contribuiscono alla spesa
+sanitaria nazionale così come i cittadini italiani iscritti
+all'SSN.
+
+ Se l'esenzione è relativa a una patologia o allo stato
+di gravidanza si deve presentare al medico prescri-
+vente tutta la documentazione rilasciata dallo Stato
+estero di appartenenza o da un medico delle struttu-
+re sanitarie italiane abilitate, sempre che la patologia
+che dà luogo all'inabilità (ad esempio, cecità), rientri
+in una di quelle esentate dalla normativa italiana vi-
+gente in materia.
+
+ Se l'esenzione è richiesta per motivi legati al reddito è
+necessario, per poterne usufruire, che si produca idonea
+autocertificazione da apporre a tergo della ricetta.
+
+ Se la persona straniera non è in possesso della docu-
+mentazione rilasciata dal suo Paese di origine, è tenuta
+a pagare le prestazioni per intero secondo quanto stabi-
+lito dalla normativa regionale italiana.
+
+                                                       23
+  Per tutte le richieste di prestazioni farmaceutiche, ospe-
+daliere o ambulatoriali, deve essere utilizzato il ricettario
+dell'SSN contrassegnando la tipologia della ricetta con
+il codice EE (vedi Richieste di prestazione sanitaria, p. 50).
+
+Elenco degli Stati con i quali l'Italia ha stipulato
+e ratificato Accordi bilaterali internazionali
+
+  Lo Stato italiano ha stipulato Accordi bilaterali in ma-
+teria di assistenza sanitaria con i seguenti Stati: Argen-
+tina, Australia, Brasile, Capo Verde, Città del Vaticano e
+Santa Sede, Croazia, Ex Jugoslavia (Macedonia, Serbia
+Montenegro, Bosnia-Erzegovina), Principato di Monaco,
+Repubblica di San Marino, Tunisia.
+
+  Le prestazioni assicurate da queste convenzioni hanno
+portate differenti a seconda del contenuto dell'Accordo,
+così pure le categorie di persone che possono benefi-
+ciarne sono diverse, rendendosi, dunque, necessaria una
+valutazione caso per caso.
+
+  Occorre, pertanto, prima di intraprendere un viaggio in
+uno Stato estero, assumere informazioni presso l'organo
+preposto a tale funzione, al fine di conoscere se, tra il
+proprio Stato di provenienza e quello di destinazione
+esista un Accordo bilaterale. Accertato ciò, è inoltre fon-
+damentale conoscerne il contenuto.
+
+  Qualora la persona straniera appartenga a uno Stato
+non rientrante fra quelli con i quali lo Stato italiano ha re-
+datto un Accordo bilaterale, è utile stipulare una polizza
+assicurativa privata contro eventi sanitari imprevisti poi-
+ché potrebbe non essere garantita l'assistenza sanitaria
+nazionale (DLvo 286/98, art. 34, comma 3).
+
+Riferimenti normativi/Accordi bilaterali
+
+Argentina
+
+  Convenzione sulla sicurezza sociale tra il Governo del-
+la Repubblica italiana e il Governo della Repubblica ar-
+gentina. Buenos Aires, 3 novembre 1981. Ratificata con
+Legge 18 gennaio 1983, n. 32.
+
+24
+Australia
+ Accordo di reciprocità tra l'Italia e l'Australia in materia
+
+di assistenza sanitaria. Roma, 9 gennaio 1986. Ratificato
+con Legge 7 giugno 1988, n. 226.
+
+Brasile
+ Accordo di emigrazione tra l'Italia e il Brasile. Roma, 9 di-
+
+cembre 1960. Ratificato con Legge 2 marzo 1963, n. 509.
+ Protocollo aggiuntivo all'Accordo di emigrazione. Bra-
+
+silia, 30 gennaio 1974. Ratificato con Legge 6 aprile 1977,
+n. 236.
+
+Capo Verde
+ Convenzione tra il Governo Italiano e la Repubblica di
+
+Capo Verde in materia di sicurezza sociale. Praja, 18 di-
+cembre 1980. Ratificata con Legge 25 gennaio 1983, n. 34.
+
+Città del Vaticano e Santa Sede
+ Convenzione di sicurezza sociale tra la Santa Sede e
+
+la Repubblica italiana. Roma, 16 giugno 2000. Ratificata
+con Legge 19 agosto 2003, n. 244.
+
+Croazia
+ Convenzione tra la Repubblica italiana e la Repubblica
+
+di Croazia in materia di sicurezza sociale. Roma, 27 giu-
+gno 1997. Ratificata con Legge 27 maggio 1999, n. 167.
+
+Ex Jugoslavia (Macedonia, Serbia Montenegro,
+Bosnia-Erzegovina)
+
+ Convenzione tra la Repubblica italiana e la Repubblica
+Popolare Federale di Jugoslavia in materia di assicura-
+zioni sociali e protocollo generale. Roma, 14 novembre
+1957. Ratificata con Legge 11 giugno 1960, n. 885.
+
+Principato di Monaco
+ Convenzione generale di sicurezza sociale tra la Re-
+
+pubblica italiana e il Principato di Monaco. Monaco, 12
+febbraio 1982. Ratificata con Legge 5 marzo 1985, n. 130.
+
+                                                       25
+Repubblica di San Marino
+  Convenzione fra la Repubblica italiana e la Repubbli-
+
+ca di San Marino in materia di sicurezza sociale. Roma,
+10 luglio 1974. Ratificata con Legge 26 luglio 1975, n.
+432.
+
+  Accordo tra la Repubblica italiana e la Repubblica
+di San Marino per la modifica della convenzione in
+materia di sicurezza sociale del 10 luglio 1974. Roma,
+21 dicembre 1991. Ratificato con Legge 31 gennaio
+1996, n. 48.
+
+Tunisia
+  Convenzione tra la Repubblica italiana e la Repub-
+
+blica tunisina in materia di sicurezza sociale. Tunisi, 7
+dicembre 1984. Ratificata con Legge 7 ottobre 1986,
+n. 735.
+
+Principali riferimenti normativi
+
+  Legge n. 40 del 6 marzo 1998, Titolo V Capo I, art. 32,
+art. 33, art. 34 , art 35; DPR 31 agosto 1999, n. 394, art. 43;
+Circ. Ministero della Sanità 24 marzo 2000, n. 5.
+
+              DOMANDE FREQUENTI (FAQ)
+
+   1. La persona straniera appartenente a uno Stato con il
+   quale l'Italia ha stipulato un Accordo bilaterale, una volta
+   giunta sul territorio italiano, se non è a conoscenza dell'e-
+   sistenza del contenuto dell'Accordo bilaterale, dove può
+   consultarlo?
+   L'elenco degli Accordi bilaterali è presente nel si-
+   to del Ministero della Salute all'indirizzo: www.salu
+   te.gov.it/assistenzaSanitaria/paginaInternaMenuAssi
+   stenzaSanitaria.jsp?id=594&menu=strumentieservizi
+
+26
+2. Tutte le persone appartenenti agli Stati con i quali
+l'Italia ha stipulato Accordi bilaterali possono ricevere
+prestazioni sanitarie?
+No. Non tutte le persone appartenenti agli Stati con i quali
+l'Italia ha stipulato Accordi bilaterali possono ricevere pre-
+stazioni sanitarie. L'accesso alle cure, a seconda dei casi,
+può essere consentito solo ad alcune categorie sociali (ad
+esempio, lavoratori) o ad alcune categorie di persone, (ad
+esempio, familiari degli stessi). Per questo motivo è utile
+conoscere il contenuto dell'Accordo prima di fare ingresso
+nel territorio italiano.
+
+3. Se la persona appartenente a uno Stato con il qua-
+le l'Italia ha stipulato un Accordo bilaterale non è in
+possesso dell'apposito modulo di autorizzazione, ri-
+lasciato dal proprio Paese di origine, può ricevere una
+prestazione sanitaria?
+Sì. È possibile ricevere le cure urgenti ed essenziali an-
+corché continuative, nei presidi ospedalieri pubblici e
+accreditati delle ASL. In tal caso l'Azienda chiede il rim-
+borso degli oneri per le prestazioni erogate secondo le
+direttive emanate dal Ministero della Salute in attua-
+zione dei predetti Accordi (DPR 31 agosto 1999, n. 34,
+art. 43 n. 7, Circ. Ministero della Sanità, 24 marzo 2000
+n. 5, Parte II).
+
+4. Se la persona appartenente a uno Stato con il quale
+l'Italia ha stipulato un Accordo bilaterale è in stato di
+gravidanza ed è priva degli appositi modelli di auto-
+rizzazione rilasciati dal suo Paese, può avere accesso
+alle cure?
+Sì. La legge italiana garantisce le prestazioni minime es-
+senziali e la tutela sociale della gravidanza e della mater-
+nità, incluso l'accesso ai consultori familiari, a parità di
+condizioni con le cittadine italiane, nonché la tutela della
+salute del minore.
+
+                                                     27
+            IV.
+
+Accesso ai servizi socio-sanitari
+  e di assistenza del cittadino
+      dell'Unione Europea
+ Ai fini sanitari per cittadini comunitari si intendono,
+oltre a tutti i cittadini dei Paesi che fanno parte dell'U-
+nione Europea (UE), anche i cittadini dei Paesi dello Spa-
+zio Economico Europeo - SEE (Norvegia, Liechtenstein,
+Islanda), della Svizzera e della Repubblica di San Marino.
+
+ Per soggiorni inferiori ai tre mesi l'iscrizione al Servizio
+Sanitario Nazionale (SSN) non viene effettuata, tranne
+che per i lavoratori stagionali. Chi invece soggiorna per
+più di tre mesi può iscriversi all'SSN se:
+· è un lavoratore subordinato o autonomo dello Stato;
+· è familiare, anche non cittadino dell'UE, di un lavora-
+
+   tore subordinato o autonomo dello Stato;
+· è familiare di un cittadino italiano;
+· è in possesso di un'attestazione di soggiorno perma-
+
+   nente maturata dopo almeno 5 anni di residenza in
+   Italia;
+· è un disoccupato iscritto nelle liste di collocamento
+   o iscritto a un corso di formazione professionale;
+· è titolare di uno dei seguenti formulari comunitari
+   (certificazione del Paese di provenienza attestante il
+   diritto alle prestazioni sanitarie): modelli E106, E109
+   (o E37), E120, E121 (o E33).
+
+Modello E106
+
+ Attestato riguardante il diritto alle prestazioni per ma-
+lattia e maternità dei residenti in Paese diverso da quello
+competente. L'iscrizione avviene con scelta del medico
+di medicina generale, ma senza rilascio della Tessera sa-
+nitaria (TS).
+
+Modello E109 (o E37)
+
+ Attestato per l'iscrizione dei familiari (dei lavoratori su-
+bordinati o autonomi) residenti in uno Stato diverso da
+quello competente. L'iscrizione avviene con scelta del
+medico di medicina generale e con rilascio della TS a
+parità di condizioni con i cittadini italiani residenti.
+
+                                                       31
+Modello E120
+
+  Attestato riguardante il diritto alle prestazioni sanitarie
+per i richiedenti pensione o rendita, nonché per i loro
+familiari residenti durante la fase istruttoria in uno Stato
+membro diverso da quello competente.
+
+Modello E121 (o E33)
+
+  Attestato per l'iscrizione dei titolari di pensione o ren-
+dita, nonché dei loro familiari residenti in uno Stato di-
+verso da quello competente. L'iscrizione avviene con
+scelta del medico di medicina generale, ma senza rila-
+scio della TS.
+
+  La TS è rilasciata al cittadino comunitario che:
+· esibisca ricevuta della richiesta di iscrizione anagrafi-
+
+    ca oppure idonea documentazione comprovante la
+    permanenza in Italia per motivi di lavoro;
+· dichiari di non avere l'iscrizione sanitaria a carico di
+    altra istituzione estera;
+· sia in possesso del codice fiscale.
+
+  Le richieste di prestazioni specialistiche ambulatoriali,
+ospedaliere e farmaceutiche sono redatte sul ricettario
+dell'SSN, contrassegnando la ricetta con la sigla UE (vedi
+Assistito in possesso della Tessera Europea di Assicurazione
+e Malattia - TEAM, p. 9).
+
+  Per i casi non coperti dalla TEAM e in assenza dei for-
+mulari sopraelencati, i cittadini dell'UE, qualora non in-
+digenti, sono tenuti a stipulare una polizza assicurativa
+privata.
+
+  I cittadini comunitari privi di copertura sanitaria nel
+loro Stato di origine e presenti sul territorio naziona-
+le, ma senza diritto di iscrizione anagrafica, qualora
+indigenti, hanno diritto a ricevere cure urgenti ed
+essenziali (compresa la protezione della maternità,
+l'interruzione di gravidanza, la tutela dei minori, le
+vaccinazioni) da parte dell'SSN con l'attribuzione del
+codice ENI (Europeo Non Iscritto).
+
+32
+                   ASPETTI RILEVANTI
+             Codice ENI (Europeo Non Iscritto)
+  È rilasciato ai cittadini dell'Unione Europea, privi di
+  TEAM e di residenza, non iscrivibili all'SSN.
+  L'accesso consente:
+  · le cure ambulatoriali e ospedaliere, urgenti o co-
+     munque essenziali, ancorché continuative, per ma-
+     lattia e infortunio;
+  · gli interventi di medicina preventiva e prestazioni di
+     cura a esse correlate.
+
+ Le richieste di prestazioni specialistiche ambulato-
+riali, ospedaliere e farmaceutiche sono redatte su ri-
+cettario dell'SSN, riportando al posto del codice fisca-
+le il codice ENI e contrassegnando la tipologia della
+ricetta con UE.
+
+ Se la persona risulta indigente va apposto il codice
+di esenzione X01, che vale esclusivamente per la pre-
+stazione trattata (vedi Richieste di prestazione sanitaria,
+p. 51).
+
+             DOMANDE FREQUENTI (FAQ)
+
+   1. Le persone straniere presenti sul territorio italiano,
+   ma prive di permesso di soggiorno e/o indigenti, pos-
+   sono ricevere cure?
+   Sì. Tali soggetti possono accedere alle cure urgenti ed
+   essenziali con l'attribuzione del codice ENI (se cittadini
+   comunitari) o del codice STP (se extracomunitari).
+
+                                                       33
+           V.
+
+    Divieti di espulsione
+e protezione internazionale
+ La legge italiana tutela espressamente determinate ca-
+tegorie di soggetti che, per le loro particolari condizioni
+personali, sociali o di appartenenza, vengono ritenute
+meritevoli di speciale protezione al punto da riconosce-
+re loro il diritto al rilascio di un permesso di soggiorno,
+anche se l'ingresso nel territorio nazionale è avvenuto in
+violazione della normativa di riferimento.
+
+ Trattasi di circostanze considerate espressamente dalla
+legge e alla cui ricorrenza si configurano veri e propri
+divieti di espulsione o di respingimento.
+
+ Una di tali condizioni è lo stato di gravidanza.
+
+Stato di gravidanza
+
+ Lo stato di gravidanza è espressamente previsto dalla
+legge come motivo di inespellibilità della migrante ge-
+stante, con conseguente diritto al rilascio del permesso
+di soggiorno "per cure mediche" sino a sei mesi dopo
+la nascita del bambino (DLvo 286/98, art. 19, comma 2,
+lett. d e DPR 394/99, art. 28, comma 1, lett. c).
+
+ La richiesta del permesso di soggiorno deve essere
+presentata esclusivamente presso l'Ufficio Immigra-
+zione della Questura della provincia in cui si dimora,
+unitamente a un certificato attestante lo stato di gra-
+vidanza.
+
+                    ASPETTI RILEVANTI
+
+   Alla richiesta di permesso di soggiorno si devono
+ allegare:
+
+    · una marca da bollo da  14,62 (anno 2013);
+    · la fotocopia di ogni pagina del passaporto;
+    · 4 fototessera recenti;
+    · certificati medici attestanti lo stato di gravidanza
+
+      e la data presunta del parto (sono validi solo i cer-
+      tificati medici rilasciati dalle ASL e dalle Aziende
+      ospedaliere).
+
+                                                       37
+ Il permesso per cure mediche non consente di lavorare
+e non può essere convertito in altro tipo di permesso
+di soggiorno, salvo che in casi particolari (ad esempio,
+coesione familiare con cittadino extracomunitario tito-
+lare di permesso di soggiorno e in possesso dei requisiti
+previsti per il ricongiungimento familiare) (vedi p. 9).
+
+                    ASPETTI RILEVANTI
+  Il diritto a ottenere il permesso di soggiorno spetta an-
+  che al marito irregolarmente presente e convivente in
+  Italia con la cittadina extracomunitaria in stato di gra-
+  vidanza (Corte Cost., Sentenza n. 376, 27 luglio 2000).
+
+Tutela del minore (DLvo 286/98, art. 31, comma 3)
+
+Ricorso al Tribunale per i minorenni
+ Il Tribunale per i minorenni, a causa di gravi motivi con-
+
+nessi con lo sviluppo psico-fisico e tenuto conto dell'età e
+delle condizioni di salute del minore che si trova nel terri-
+torio italiano, può autorizzare l'ingresso o la permanenza
+del familiare, per un periodo di tempo determinato, an-
+che in deroga alle altre disposizioni del Testo Unico (TU)
+sull'immigrazione. A questo proposito, si veda la Senten-
+za della Cassazione civile sezione VI ordinanza 7 settem-
+bre 2012, n. 15025: "...potendo comprendere qualsiasi dan-
+no effettivo, concreto, percepibile ed obiettivamente grave
+che in considerazione dell'età o delle condizioni di salute
+ricollegabili al complessivo equilibrio psico-fisico, deriva
+o deriverà certamente al minore dall'allontanamento del
+familiare o dal suo definitivo sradicamento dall'ambiente
+in cui è cresciuto".
+
+Minori Stranieri Non Accompagnati (MSNA)
+
+ I Minori Stranieri Non Accompagnati (MSNA), ov-
+vero i minori che giungono in Italia privi della figura
+genitoriale o di altro soggetto affidatario, vanno con-
+
+38
+siderati come grands enfants che hanno ricevuto un'e-
+levata autonomia, riconosciuta dalla stessa famiglia e
+che, per le esperienze vissute, hanno generalmente
+un livello di maturità superiore a quello dei loro coe-
+tanei italiani.
+
+ È doveroso, dunque, prendere coscienza della condi-
+zione degli MSNA, al fine di assicurare un intervento oli-
+stico (legale, medico, psicologico) adeguato ed efficace.
+Nella condizione degli MSNA i concetti di protezione,
+di superiore interesse del minore e di accoglienza sono
+correlati tra loro e spesso difficili da scindere.
+
+ Bisogna tenere conto, insomma, dell'identità multipla
+di cui l'MSNA è detentore: minore, solo e straniero.
+
+ Ai sensi dell'art. 19, comma 2 lett. a del DLvo 286/98,
+gli MSNA non possono essere espulsi, con conseguente
+diritto al rilascio del permesso di soggiorno per mino-
+re età. Prima del compimento della maggiore età e in
+prossimità, con il consenso del minore, si può richie-
+dere alla Procura dei Minori di disporre la prosecuzio-
+ne del collocamento in comunità sino al ventunesimo
+anno di età.
+
+ Può anche richiedersi la conversione del permesso di
+soggiorno da minore età a motivi di lavoro.
+
+                    ASPETTI RILEVANTI
+
+ In ambito sanitario, il nostro ordinamento dispone
+ che tutti i minori, compresi quelli "non accompagna-
+ ti" anche se privi del permesso di soggiorno, devono
+ essere iscritti al Servizio Sanitario Nazionale (SSN), a
+ parità di condizioni con i cittadini italiani (cfr. Accordo
+ Stato-Regioni del 2013, che espressamente richiama
+ in tal senso la Convenzione sui diritti del fanciullo,
+ nonché la Risoluzione A7-0032/2011, punti 5 e 22,
+ del Parlamento Europeo dell'8 febbraio 2011).
+
+                                                       39
+Protezione internazionale
+prevista per i rifugiati e per i richiedenti asilo
+(DLvo 286/98, art. 19, comma 1)
+
+  In nessun caso può disporsi l'espulsione o il respingi-
+mento verso uno Stato in cui lo straniero possa essere
+oggetto di persecuzione per motivi di razza, di sesso, di
+lingua, di cittadinanza, di religione, di opinioni politiche,
+di condizioni personali o sociali, ovvero possa rischiare
+di essere rinviato verso un altro Stato nel quale non sia
+protetto dalla persecuzione.
+
+Procedura per la richiesta di protezione
+internazionale (DLvo 251/2007)
+
+  Attuazione della Direttiva 2004/83/CE recante nor-
+me minime sull'attribuzione, a cittadini di Paesi terzi
+o apolidi, della qualifica di rifugiato o di persona altri-
+menti bisognosa di protezione internazionale, non-
+ché norme minime sul contenuto della protezione
+riconosciuta.
+
+Procedura conseguente alla richiesta
+di protezione internazionale
+
+  Il richiedente asilo politico presenta l'istanza di pro-
+tezione internazionale alla Questura territorialmente
+competente (della Provincia dove dimora). A segui-
+to dell'istanza, il richiedente viene convocato dalla
+Commissione Territoriale per il riconoscimento della
+protezione internazionale, che procede alla sua au-
+dizione.
+
+  L'esito dell'istanza può dar luogo a una:
+· decisione positiva con riconoscimento dello status di
+
+    rifugiato, o della protezione sussidiaria o dei motivi
+    umanitari e il conseguente rilascio del permesso di
+    soggiorno;
+
+40
+· decisione negativa con la possibilità di ricorso al Tri-
+   bunale ordinario (il termine per proporre il ricorso è
+   di 30 giorni dalla notifica della Decisione e di 15 se lo
+   straniero è trattenuto presso un Centro di Identifica-
+   zione ed Espulsione - CIE).
+
+                    ASPETTI RILEVANTI
+
+                      Gratuito patrocinio
+ Il patrocinio a spese dello Stato, detto anche gra-
+ tuito patrocinio, è un istituto previsto nel nostro
+ ordinamento (art. 24 della Costituzione e DPR
+ 115/2002), nato al fine di garantire il diritto di di-
+ fesa (in materia civile, amministrativa e penale) in
+ favore di persone non abbienti, ovvero di coloro
+ che si trovano nell'impossibilità di provvedere al
+ pagamento delle spese giudiziali. Possono accede-
+ re al beneficio del patrocinio a spese dello Stato, i
+ soggetti che abbiano un reddito annuo inferiore a
+  10.766,33 (anno 2013).
+ Nel computo del reddito si tengono in considerazio-
+ ne anche i redditi dei familiari conviventi con colui
+ che intenda essere ammesso al patrocinio a spese
+ dello Stato salvo che non si tratti di vertenza nei con-
+ fronti di uno di essi.
+ Per la sola materia penale è prevista l'elevazione del
+ suddetto limite reddituale di  1.032,91 per ogni fa-
+ miliare a carico (anno 2013).
+
+ L'istanza di ammissione al gratuito patrocinio deve
+ essere presentata:
+ · in materia civile, al Consiglio dell'Ordine degli Av-
+
+    vocati territorialmente competente;
+ · in materia penale, al Giudice designato;
+ · in materia amministrativa, all'apposita Commissio-
+
+    ne che ha sede presso il Tribunale Amministrativo
+    Regionale (TAR) territorialmente competente.
+
+                                                       41
+Cure mediche urgenti ed essenziali
+
+ Viene concesso uno speciale permesso di soggiorno
+atipico temporaneo per cure mediche a favore dello
+straniero bisognoso di cure mediche, ma entrato irre-
+golarmente nel territorio nazionale (Consiglio di Stato,
+Sentenza n. 5286/2011).
+
+CDA, CARA E CIE
+
+ Le strutture che accolgono e assistono gli immigrati
+irregolari sono distinguibili in tre tipologie:
+
+ · Centri di Accoglienza (CDA);
+ · Centri di Accoglienza Richiedenti Asilo (CARA);
+ · Centri di Identificazione ed Espulsione (CIE).
+
+Centri di Accoglienza (CDA) (Legge 563/95)
+
+ Sono strutture destinate a garantire un primo soccorso
+allo straniero irregolare rintracciato sul territorio nazionale.
+L'accoglienza nel Centro è limitata al tempo strettamente
+necessario per stabilire l'identità e la legittimità della sua
+permanenza sul territorio o per disporne l'allontanamento.
+
+Centri di Accoglienza Richiedenti Asilo (CARA)
+(DPR 303/2004 - DLvo 28 gennaio 2008, n. 25)
+
+ Sono strutture nelle quali viene inviato e ospitato per
+un periodo variabile (quello strettamente necessario), lo
+straniero richiedente asilo privo di documenti di ricono-
+scimento o che si è sottratto al controllo di frontiera per
+consentire l'identificazione o la definizione della proce-
+dura di riconoscimento dello status di rifugiato.
+
+Centri di Identificazione ed Espulsione (CIE)
+(DL 23 maggio 2008, n. 92)
+
+ Denominati con DL 23 maggio 2008, n. 92, sono gli ex
+Centri di permanenza temporanea e assistenza destinati al
+trattenimento, convalidato dal Giudice di pace, degli stra-
+
+42
+nieri extracomunitari irregolari e destinati all'espulsione.
+Previsti dall'art. 14 del TU sull'immigrazione (DLvo 286/98),
+come modificato dall'art. 12 della Legge n. 189/2002, tali
+Centri si propongono di evitare la dispersione degli im-
+migrati irregolari sul territorio e di consentire la materiale
+esecuzione, da parte delle Forze dell'ordine, dei provvedi-
+menti di espulsione emessi nei confronti degli irregolari.
+
+ Il DL n. 89 del 23 giugno 2011, convertito in Legge n.
+129/2011, proroga il termine massimo di permanenza
+degli stranieri in tali Centri dai 180 giorni (previsti dalla
+Legge n. 94/2009) a 18 mesi complessivi.
+
+ I Centri sono pianificati dalla Direzione centrale dei ser-
+vizi civili per l'immigrazione e l'asilo del Ministero dell'In-
+terno. Sono gestiti a cura delle Prefetture-Uffici Territoria-
+li del Governo tramite convenzioni con enti, associazioni
+o cooperative aggiudicatarie di appalti del servizio.
+
+ Le prestazioni e i servizi assicurati dalle convenzioni sono:
+· assistenza alle persone (vitto, alloggio, fornitura effet-
+
+   ti personali, ecc.);
+· assistenza socio-sanitaria;
+· assistenza psico-sociale;
+· mediazione linguistico-culturale;
+· ristorazione;
+· servizio di pulizia e igiene ambientale;
+· manutenzione della struttura e degli impianti.
+
+ Il comma 5, art. 1 del DLvo 230/99, stabilisce che, a pre-
+scindere dal regolare titolo di permesso di soggiorno in Ita-
+lia, gli stranieri detenuti o internati, ivi compresi i detenuti
+in semilibertà o con forme alternative di pena, sono iscritti
+al Servizio Sanitario Nazionale limitatamente al periodo
+in cui sono detenuti o internati negli istituti penitenziari.
+
+ II personale sanitario delle ASL, tuttavia, non ha
+accesso ai CIE. I medici che vi operano sono privati,
+chiamati dall'ente gestore del Centro per conto dello
+Stato e non sempre vi sono competenze specialistiche
+in ambito ginecologico e psichiatrico.
+
+                                                       43
+             DOMANDE FREQUENTI (FAQ)
+
+  1. Si presenta al consultorio una donna migrante in sta-
+  to di gravidanza, ma priva del permesso di soggiorno,
+  può ricevere assistenza socio-sanitaria?
+  Sì. La legge garantisce le prestazioni minime essenziali
+  tra le quali viene espressamente citata la tutela sociale
+  della gravidanza e della maternità compreso l'accesso
+  ai consultori familiari, a parità di condizioni con le cit-
+  tadine italiane, nonché la tutela della salute del minore.
+
+  La donna straniera in stato di gravidanza ha diritto al
+  rilascio del permesso di soggiorno per cure mediche
+  (con durata sino al sesto mese di vita del bambino). È
+  raccomandabile richiederlo immediatamente, in quan-
+  to il titolo di soggiorno garantisce l'iscrizione al Servi-
+  zio Sanitario Nazionale (SSN) con conseguente diritto
+  all'assegnazione del pediatra. Potrebbero esserci dei
+  problemi per tale assegnazione in assenza del permes-
+  so di soggiorno. Fanno eccezione, al momento della
+  redazione della presente pubblicazione, le Regioni To-
+  scana, Umbria, Emilia-Romagna, Friuli-Venezia Giulia,
+  Molise, Lazio, Puglia, Campania, Calabria, Liguria, Pro-
+  vincia Autonoma di Trento e Bolzano. Per le restanti,
+  tuttavia, deve considerarsi operativo il nuovo Accordo
+  Stato-Regioni del 2013 che richiede di garantire, in ma-
+  niera uniforme su tutto il territorio nazionale, l'iscrizione
+  sanitaria di tutti i minori extracomunitari anche se privi
+  del permesso di soggiorno.
+
+  2. Il minore extracomunitario ospitato presso una co-
+  munità alloggio e privo dei genitori, può ottenere un
+  permesso di soggiorno?
+  Sì. Ai sensi dell'art. 19, comma 2 lett. a del DLvo 286/98,
+  il minore straniero non può essere espulso, ma ha dirit-
+  to, qualora privo dei genitori (c.d. Minore Straniero Non
+  Accompagnato, MSNA) a un permesso di soggiorno per
+  minore età.
+
+44
+È doveroso, in presenza degli MSNA, avanzare imme-
+diatamente richiesta al Giudice Tutelare di nominare un
+tutore del minore, nonché comunicare la presenza del
+minore alla Procura dei Minori per i provvedimenti di
+competenza.
+
+3. La persona migrante irregolarmente presente in Ita-
+lia, ma coniuge di persona straniera titolare di permesso
+di soggiorno e padre di minore residente in Italia, può
+richiedere qualche forma di tutela?
+Sì. È possibile avanzare al Tribunale per i Minorenni una
+richiesta di autorizzazione straordinaria a permanere sul
+territorio nazionale nell'interesse dei figli minori, qualora
+si accerti che l'improvviso allontanamento del padre pos-
+sa pregiudicare la stabilità psichica ed emotiva dei figli
+minori, tenuto conto della tenera età e di ogni altro ele-
+mento specifico.
+
+4. La persona richiedente asilo in attesa di convocazio-
+ne da parte della competente Commissione Territoriale
+può iscriversi all'SSN?
+Sì. La presentazione dell'istanza di protezione internazio-
+nale comporta il diritto al rilascio del permesso di soggior-
+no per "richiesta asilo" sino alla definizione della procedu-
+ra. Nelle more il migrante ha diritto all'iscrizione all'SSN.
+
+5. Lo straniero destinatario di un diniego della protezio-
+ne internazionale e che abbia tempestivamente propo-
+sto ricorso può ottenere un permesso di soggiorno e
+mantenere l'iscrizione all'SSN?
+Sì. La proposizione del ricorso, nei termini di legge, com-
+porta l'automatica sospensione degli effetti della deci-
+sione di diniego della Commissione, con conseguente
+diritto al rilascio del permesso di soggiorno per "asilo
+politico" della durata di tre mesi rinnovabili per ulteriori
+tre mesi e sino alla definizione del procedimento civile.
+A tale regola generale fanno eccezione le ipotesi previste
+dal DLvo 150/2011, art. 19, comma 4.
+
+                                                     45
+  6. Se una persona straniera è senza fissa dimora e non
+  riesce a rinnovare la residenza, come può fare?
+  È possibile richiedere l'iscrizione nel registro della "resi-
+  denza virtuale". Nei comuni più virtuosi, infatti, è stato pre-
+  disposto questo specifico elenco di persone senza fissa
+  dimora che, tuttavia, risiedono regolarmente nel territorio
+  comunale.
+  7. Le persone straniere minori di 18 anni godono di uno
+  speciale regime ai fini dell'accesso alle prestazioni sani-
+  tarie in Italia?
+  Sì. I minori, anche se non accompagnati e privi del per-
+  messo di soggiorno, sono iscritti all'SSN a condizioni di
+  parità con i cittadini italiani.
+  8. La persona straniera può essere ammessa al Gratuito
+  Patrocinio (Patrocinio a spese dello Stato) nei proce-
+  dimenti giudiziali, così come previsto per il cittadino
+  italiano?
+  Sì. Può essere ammessa qualora si tratti di persona non
+  abbiente, ovvero con un reddito annuo imponibile di
+   10.766,33 (anno 2013) e le ragioni per le quali si pro-
+  cede non risultino palesemente infondate.
+
+46
+         VI.
+
+        Facsimile
+di documenti/certificati
+Richieste di prestazione sanitaria
+
+Norme per gli stranieri temporaneamente
+presenti (STP)
+
+ Le richieste di prestazioni sanitarie sono redatte sul ri-
+cettario del Servizio Sanitario Nazionale (SSN) riportan-
+do, in luogo del codice fiscale, il codice STP e in luogo
+del codice di esenzione, il codice X01, contrassegnando
+la tipologia della ricetta con ST (straniero STP).
+
+ Le prestazioni sono assoggettate alle regole di com-
+partecipazione alla spesa sanitaria tranne i casi previsti
+per l'esenzione.
+
+         STP
+
+X01
+
+     ST
+
+Norme per gli stranieri richiedenti asilo
+ Per gli stranieri richiedenti asilo, l'iscrizione obbligato-
+
+ria copre anche il periodo dell'eventuale ricorso contro
+il diniego del rilascio del permesso di soggiorno, do-
+cumentato mediante l'esibizione della ricevuta di pre-
+sentazione dell'istanza all'autorità di polizia. In tal caso,
+l'iscrizione è rinnovata di volta in volta per un periodo
+massimo di 30 giorni.
+
+                                                       49
+ I cittadini degli Stati, con i quali l'Italia ha stipulato Ac-
+cordi internazionali, hanno diritto all'assistenza sanitaria
+nell'ambito dell'SSN qualora in possesso dei moduli di
+autorizzazione rilasciati dal Paese di origine.
+
+ Le richieste di prestazioni ambulatoriali, ospedaliere
+e farmaceutiche sono redatte sul ricettario dell'SSN. È
+necessario indicare il codice di esenzione E02 e contras-
+segnare la tipologia della ricetta con EE.
+
+ Tali cittadini partecipano alla spesa sanitaria e han-
+no diritto alle stesse forme di esenzione, per invali-
+dità, patologia e reddito dei cittadini italiani iscritti
+all'SSN.
+
+          STP
+
+E 02
+
+      EE
+
+ Norme per i cittadini comunitari
+  Per i cittadini comunitari, le richieste di prestazioni
+
+ specialistiche ambulatoriali, ospedaliere e farmaceu-
+ tiche sono redatte sul ricettario dell'SSN, contrasse-
+ gnando la tipologia della ricetta con UE (assistito in
+ possesso della Tessera Europea di Assicurazione e Ma-
+ lattia, TEAM).
+
+50
+ Nell'ipotesi di cittadino europeo non in regola, le ri-
+chieste di prestazioni specialistiche ambulatoriali, ospe-
+daliere e farmaceutiche sono redatte sul ricettario del-
+l'SSN, riportando al posto del codice fiscale il codice ENI
+(Europeo Non Iscritto) e contrassegnando la tipologia
+della ricetta con UE.
+
+ Se la persona risulta indigente va apposto il codice di
+esenzione X01, che vale esclusivamente per la presta-
+zione trattata.
+
+          EN I
+
+X 01
+
+      UE
+
+                51
+Tessera sanitaria (TS)
+e Tessera Europea di Assicurazione Malattia (TEAM)
+
+ È un tesserino plastificato la cui validità è fissata in 5
+anni, contenente oltre ai dati anagrafici anche quelli riser-
+vati alle strutture sanitarie di appartenenza.
+
+ La parte anteriore (TS) è utilizzabile sul territorio na-
+zionale.
+
+ La parte posteriore (TEAM) è utilizzabile nei Paesi
+dell'UE, nella Svizzera, in forza di un apposito accordo con
+l'UE, e negli altri Paesi appartenenti allo Spazio Economi-
+co Europeo (SEE) quali Islanda, Norvegia e Liechtenstein.
+La TEAM contiene una banda magnetica con le informa-
+zioni anagrafiche dell'assistito (1). È presente, altresì, un
+codice a barre dal quale si ricava il codice fiscale (2). A
+destra del codice fiscale si trova la sigla di identificazione
+dello Stato che rilascia la Tessera (3); per il nostro Paese
+tale sigla è IT secondo il codice ISO 3166-1.
+
+    TESSERA EUROPEA DI ASSICURAZIONE MALATTIA
+
+                                         1
+
+    2  3
+
+52
+Permesso di soggiorno
+ Il permesso di soggiorno è un tesserino simile alla Tes-
+
+sera sanitaria, con un microchip e una banda a memoria
+ottica che contengono i dati anagrafici, la fotografia e le
+impronte del titolare in formato digitale.
+
+ Costituisce un'autorizzazione amministrativa a perma-
+nere sul territorio nazionale.
+
+             Foto
+
+                                                       53
+Ricevuta attestante la presentazione
+dell'istanza di emersione dal lavoro irregolare
+
+La ricevuta dell'istanza di emersione viene rilasciata al
+migrante e al datore di lavoro dai patronati o dai sog-
+getti qualificati o convenzionati per l'assistenza e l'inoltro
+dell'istanza di emersione. Dalla presentazione dell'istanza
+di emersione e sino alla definizione della procedura resta-
+no sospese le sanzioni penali e amministrative relative al
+rapporto di lavoro irregolare denunciato dalle parti, con
+divieto di espulsione dal territorio nazionale del migrante
+sino alla chiusura della procedura. Dopo la presentazione
+dell'istanza, il lavoratore migrante viene convocato dalla
+Questura territorialmente competente per l'identificazio-
+ne e successivamente dalla Prefettura insieme al dato-
+re di lavoro per la firma del contratto di lavoro. All'esito
+della sottoscrizione del contratto di lavoro al lavoratore
+migrante verrà rilasciata una ricevuta che potrà allegare
+alla richiesta di rilascio del permesso di soggiorno.
+
+  Gentile
+  La informiamo che il modulo informatico è stato ricevuto correttamente.
+  Per le attività inerenti la pratica potrà utilizzare i seguenti dati:
+  Identificativo domanda:
+  Codice verifica:
+  I dati inerenti la domanda da Lei inoltrata sono i seguenti:
+  DATI
+  Cognome e Nome del richiedente:
+  Cognome e Nome lavoratore:
+  Data e ora di ricezione domanda:
+  Tipo domanda presentata:
+  Dichiarazione di emersione dal lavoro irregolare domestico
+  o di assistenza alle persone ai sensi dell'art. 5 del decreto legislativo
+  n. 109 del 16 luglio 2012 - Modello EM-DOM
+
+  Copia della presente ricevuta deve essere consegnata al lavoratore ai fini
+  dell'attestazione dell'avvenuta domanda di emersione
+
+54
+Modello di dichiarazione indigenza
+
+È una dichiarazione resa e sottoscritta dal migrante, in pre-
+senza dell'operatore sanitario incaricato, con cui dichiara
+di essere indigente e, pertanto, di non poter pagare le pre-
+stazioni sanitarie ricevute. La dichiarazione di indigenza,
+ha validità semestrale e non è rinnovabile.
+
+Il/La  sottoscritt
+
+nat a                              il
+
+consapevole che le false dichiarazioni sono punite dallo Stato italia-
+no in sede penale, e sotto la proprio responsabilità
+
+                                   DICHIARA
+
+Di essere privo di risorse economiche sufficienti e di avere a carico i
+seguenti familiari:
+
+         cognome    nome               grado di parentela
+1
+
+2
+
+3
+
+4
+
+5
+
+Data,
+
+                                       Firma del dichiarante
+
+RISERVATO ALLA STRUTTURA SANITARIA CHE ASSEGNA IL CODICE STP
+
+AZIENDA PER I SERVIZI SANITARI N.
+CODICE ASSEGNATO ALLO STRANIERO
+STP
+
+DATA ASSEGNAZIONE                  DATA SCADENZA
+
+Timbro dell'ufficio Qualifica e nome di chi riceve la dichiarazione
+
+                                                  55
+  Si invita il lettore a segnalare eventuali considerazioni
+  agli autori del presente lavoro.
+
+                                                 anna.luzi@iss.it
+Annotazioni
+
+56
+57
+L'intervento di consulenza in          Telefono Verde
+     materia legale sul diritto alla
+salute delle persone italiane e stra-
+
+niere si colloca nell'ambito dell'at-
+
+tività di HIV/AIDS/IST Counselling
+
+telefonico svolta dal Telefono Verde   Unità Operativa R.C.F.
+AIDS e IST (Unità Operativa Ricerca    Istituto Superiore di Sanità
+psico-socio-comportamentale, Co-
+
+municazione, Formazione - UO RCF, Istituto Superiore
+
+di Sanità), Servizio nazionale, anonimo e gratuito, co-
+
+finanziato dal Ministero della Salute e dall'Istituto Su-
+
+periore di Sanità.
+
+Un esperto legale risponde al Telefono Verde AIDS e IST
+(800 861 061) in merito a qualsiasi quesito relativo ai
+temi trattati in questa guida, in italiano e in inglese, il
+lunedì e il giovedì, dalle ore 14.00 alle ore18.00.
+
+58
+                         Stampato da Tipografia Facciotti srl
+                        Vicolo Pian Due Torri 74, 00146 Roma
+
+                                       marzo 2013
+
+                         Supplemento 1, al n. 3 vol. 26 (2013)
+                   del Notiziario dell'Istituto Superiore di Sanità
+
+                                     ISSN 0394-9303
+
+    Presidente dell'Istituto Superiore di Sanità e Direttore responsabile:
+                                      Enrico Garaci
+
+Registro della Stampa - Tribunale di Roma n. 475/88 del 16 settembre 1988
+          Istituto Superiore di Sanità
+
+Viale Regina Elena, 299 - 00161 Roma
+                        Tel. + 39-0649901
+
+                    Fax +39-0649387118
+

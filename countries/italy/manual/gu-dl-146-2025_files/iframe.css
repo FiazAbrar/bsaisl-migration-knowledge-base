@@ -1,0 +1,333 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+body{
+	text-align:center;
+	color:#444;
+	background-color:transparent !important;
+	font-size:14px;
+}
+
+
+
+#sx_dettaglio {
+    float: left;
+    width: 95%;
+}
+.rosso {
+    color: #990000;
+}
+#vigenti, #albero {
+    padding: 0.5em;
+    position: relative;
+    text-align: left;
+}
+#albero {
+    float: left;
+    font-size: 1.1em;
+	width:90%;
+}
+
+#albero li input { margin-right:1em;
+}
+
+#albero ul {
+    float: left;
+    width: 90%;
+}
+#albero ul li {
+    background: url("../img/link.gif") no-repeat scroll left center transparent;
+    display: block;
+    float: left;
+    font-family: times;
+    font-size: 90%;
+    height: 22px;
+    line-height: normal;
+    margin: 0;
+    padding: 0 0 0 35px;
+    width: 100%;
+}
+
+#albero ul li.evid{
+	background: url("../img/link_evid.gif") no-repeat scroll left center transparent;
+}
+
+#albero ul li span.evidParti{
+	position:relative;
+	left:-36px;
+}
+
+
+#albero ul li.apertura{
+	background:none;
+	height:10px;
+	padding: 0 0 0 0.8em;
+}
+
+#albero ul li.condiv {
+	background-image: none;
+    border: 1px solid #1091CA;
+    font-size: 95%;
+    height: auto;
+    padding: 0.4em;
+    text-align: center;
+    width: 93%;
+}
+
+#albero p.allegati {
+    float: left;
+    height: 1em;
+    line-height: 0.3em;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+#albero .box_allegati_small {
+    background: url("../img/curvetta.gif") no-repeat scroll left top transparent;
+    height: 40px;
+    padding: 0 0 0 0.8em;
+	width:100%;
+}
+#albero .box_allegati_small span {
+  /*   background-color: #ADBBD2;
+    border: 1px solid #444444;
+    color: #536074;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: auto;
+    padding: 0.2em 0.3em;
+    vertical-align: middle;
+    width: 85%; */
+	
+	background-color: #E1EFF4;
+    border: 1px solid #1091CA;
+    color: #536074;
+    float: left;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 0.2em;
+    padding: 0.4em 0.65em;
+    width: 84%;
+}
+
+#albero .box_allegati {
+    background: url("../img/curvetta.gif") no-repeat scroll left top transparent;
+    height: 86px;
+    padding: 0 0 0 0.8em;
+	width:100%;
+}
+
+#albero .box_allegati span {
+   /*   background-color: #ADBBD2;
+    border: 1px solid #444444;
+    color: #536074;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: auto;
+    padding: 0.2em 0.3em;
+    vertical-align: middle;
+    width: 85%;  */
+	
+	background-color: #E1EFF4;
+    border: 1px solid #1091CA;
+    color: #536074;
+    float: left;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 0.2em;
+    padding: 0.4em 0.65em;
+    width: 84%;
+	
+	
+	
+}
+
+#albero ul li.chiusura {
+    height: 1em;
+    line-height: 0.1em;
+    margin: 0 0 1em 0;
+    padding: 0;
+    vertical-align: top;
+	background: transparent url("../img/chiusura.gif") top left no-repeat;
+}
+
+#albero .box_articoli {
+    background: url("../img/curvetta.gif") no-repeat scroll left top transparent;
+    padding: 0 0 0 0.8em;
+	height:40px;
+	width:100%;
+}
+
+#albero .box_articoli span {
+     background-color: #E1EFF4;
+    border: 1px solid #1091CA;
+    color: #536074;
+    float: left;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 0.2em;
+    padding: 0.4em 0.65em;
+    width: 84%;
+}
+
+#albero ul li * {
+    border: medium none;
+    vertical-align: middle;
+}
+#albero ul li.chiusura * {
+    vertical-align: top;
+}
+
+#albero ul li a {
+    color: #1091ca;
+    text-decoration: none;
+	padding:0.3em 0;
+	display:inline-block;
+	font-size:115%;
+}
+
+#albero ul li a:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
+#albero ul li a:visited {
+    color: #AA0E0E;
+}
+
+.bottone_aggiornamenti_sommari {
+    cursor: pointer;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.bottone_aggiornamenti_sommari img {
+    border: 1px solid #CCCCCC;
+}
+
+p.interrogazione {
+    float: left;
+    height: 25px;
+    line-height: 0.3em;
+    margin: 0;
+}
+
+.tit_allegato {
+    font-size: 200%;
+}
+
+.spacer_allegati {
+    margin: 1em 0;
+}
+
+.allegati_lista {
+    background-color: #f4f4f4;
+    float: left;
+    margin: 1em 0 0;
+    padding: 0;
+    width: 100%;
+}
+
+.allegati_lista h2 {
+  background-color: #536074;
+    color: #FFFFFF;
+    float: left;
+    font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 0.6em;
+     padding: 0.4em 0.7em;
+    width: 91%;
+}
+
+
+.dettaglio_atto_testo{
+	margin:0 auto;
+	font-size:115%;
+	padding:2em 0 0 0;
+	line-height:1.6;
+	text-align:center;
+	display: block;
+}
+
+
+
+.dettaglio_atto_testo pre{
+	margin:0;
+	float:left;
+	text-align:left;
+	font-size: 100%;
+	padding: 1em 2em;
+
+}
+
+.prima_atto {
+	float:left;	
+}
+
+.aggiornamenti {
+	font-size: 120%;
+    padding: 2.5em;
+}

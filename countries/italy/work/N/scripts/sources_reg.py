@@ -1,0 +1,36 @@
+import subprocess, sys
+S = [
+("esteri-ambdhaka-work-visa-news-2024-10","Embassy of Italy in Dhaka","Important news for work visa applicant","yes","2024-10-17"),
+("esteri-ambdhaka-ambassador-interview-kalerkantho-2026-09","Embassy of Italy in Dhaka","Interview with the Italian Ambassador to Bangladesh, Antonio Alessandro, with Kaler Kantho","yes","2026-09-16"),
+("esteri-ambdhaka-bilateral-consultations-2026-08","Embassy of Italy in Dhaka","Third round of bilateral political consultations between Italy and Bangladesh. Focus on migration cooperation.","yes","2026-08-05"),
+("esteri-ambdhaka-italian-language-week-2026-11","Embassy of Italy in Dhaka","The Embassy of Italy in Dhaka celebrates the Week of the Italian Language in the World 2026","yes","2026-11-04"),
+("giustizia-dl-145-2024-testo-coordinato","Gazzetta Ufficiale (copy hosted by Procura Generale di Perugia)","Decreto-legge 11 ottobre 2024, n. 145, testo coordinato con la legge di conversione 9 dicembre 2024, n. 187","yes","2024-12-17"),
+("ero-straniero-monitoraggio-flussi-2025","Ero Straniero (ActionAid, ASGI, A Buon Diritto, FCEI, Oxfam)","Monitoraggio decreti flussi 2023-2024: Lunghe attese e irregolarita","no","2025-02-10"),
+("lavoro-bangladeshi-community-italy-2025-page","Ministry of Labour and Social Policies (Italy)","The Bangladeshi Community in Italy: Annual Report 2025","yes","2025-12-01"),
+("news-dhakatribune-italy-legal-migration-outside-quota","Dhaka Tribune","Italy offers Bangladeshis legal migration outside quota system","no","2026-11-03"),
+("news-tbs-italy-seasonal-visa-resumes-backlog","The Business Standard","Italy's seasonal work visa processing resumes for Bangladeshis amid backlogs","no","2025-08-11"),
+("news-fe-italian-embassy-staff-bribes-visas","The Financial Express","Italian Embassy staff in Dhaka, AL leader arrested in bribes-for-visas scandal","no","2025-02-21"),
+("news-hyphen-italy-visa-fraud-stranded-2026-06","Hyphen","Hundreds of Bangladeshis left stranded by Italy visa fraud scheme","no","2026-06-01"),
+("news-bdnews24bn-italy-2026-10-10","bdnews24.com (Bangla)","Fake Schengen visas: Biman officer arrested over three sent to Italy","no","2026-06-16"),
+("news-bdnews24bn-italy-2026-07-21","bdnews24.com (Bangla)","Seven of ring sending people to Italy on others' passports arrested","no","2026-07-21"),
+("news-prothomalo-italy-visa-passport-swap","Prothom Alo","Woman learns at airport another woman went to Italy on her visa","no","2026-07-21"),
+("news-ansa-meloni-antimafia-complaint-2024-06","ANSA","Meloni says filed anti-mafia complaint on migrant flows","no","2024-06-04"),
+("news-agi-meloni-flussi-dati-2024-06","AGI","Migranti, Meloni: dati su flussi regolari inquietanti","no","2024-06-04"),
+("news-lapresse-meloni-esposto-flussi-2024-06","LaPresse","Migranti, Meloni: ipotesi infiltrazioni criminali in flussi regolari, esposto a Direzione Antimafia","no","2024-06-04"),
+("news-open-click-day-campania-salerno-2025-02","Open","L'alert di Meloni, i 2 mila stranieri con falsi permessi: l'indagine sul click day in Campania","no","2025-02-04"),
+("news-domani-farnesina-domiciliari-visti-dacca","Domani","Dipendenti Farnesina ai domiciliari per corruzione: soldi in cambio di agevolazioni sui visti","no","2025-02-19"),
+("news-domani-dacca-roma-solo-andata","Domani","Dacca-Roma solo andata: la vita sospesa dei migranti","no","2025-11-17"),
+("news-espresso-flussi-truffe-taranto-2026-08","L'Espresso","Migranti, decreto flussi e truffe a Taranto","no","2026-08-06"),
+("news-geopop-ero-straniero-2026","Geopop","Decreto flussi 2026: rapporto Ero Straniero, perche solo 8 su 100 ottengono il visto","no","2026-03-08"),
+("news-prothomalo-en-fewer-workers-italy","Prothom Alo English","Why fewer workers going to Italy despite potential job scope","no","2025-05-10"),
+("news-dailystar-italy-expedite-pending-visas","The Daily Star","Bangladesh, Italy working to expedite process of pending work visa applications","no","undated"),
+("news-bdmonitor-bn-embassy-message-work-visa","Bangladesh Monitor (Bangla)","Italian Embassy's message for work visa applicants","no","2025-12-08"),
+("news-bdmonitor-113-million-abroad-2025","Bangladesh Monitor","Around 1.13 million Bangladeshis fly abroad for jobs in 2025","no","2026-01-01"),
+("news-tbs-record-bangladeshis-italy-2023","The Business Standard","Record Bangladeshis hired in Italy this year, $800m sent home","no","2023-09-25"),
+("news-dailystarbn-italy-click-day-cost","The Daily Star Bangla","Italy click day on 2 December: what qualifications, what it costs","no","undated"),
+("news-bdnews24bn-probash-italy-2026-09","bdnews24.com (Bangla)","Bangladeshi workers face delays and complications in getting Italian visas","no","2024-05-29"),
+("news-bdnews24-italy-flussi-eligible","bdnews24.com","Bangladesh likely to remain on Italy's Decreto Flussi list","no","2025-07-02"),
+]
+for n,p,t,o,d in S:
+    r = subprocess.run([sys.executable,"../../../../tools/facts.py","source","--name",n,"--publisher",p,"--title",t,"--official",o,"--page-date",d],capture_output=True,text=True)
+    print(n, r.stdout.strip(), r.stderr.strip()[-200:])

@@ -1,0 +1,5 @@
+"use strict";
+
+/* Variabili Globali */
+var soglia_export_stampa = '1500';
+var messaggio_console = true;

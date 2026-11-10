@@ -1,0 +1,226 @@
+**Office Hours: Monday to Friday : 9:00 AM – 5:00 PM (excluding government holidays); Consular Service Schedule - Application Submission : 9:30 AM – 12:50 PM; Document Delivery : 2:30 PM – 04:50 PM ;** [ ** ](https://drive.google.com/file/d/1f4YjuwX3zOtB-_Xce89Tw5rkcVd17e57/view)[**\******Details*** **** ***Schedule*** **\***](https://drive.google.com/file/d/13SaR-jPUOIqU993xWsm3BIBBeLS6RHmM/view?usp=sharing) **Help Desk Hours: Monday to Friday Morning: 11:30 AM – 12:30 PM; Afternoon: 4:00 PM – 5:00 PM****.**
+
+**VIDEO:** [**General Assembly: 30th plenary meeting, 81st session**](https://webtv.un.org/en/asset/k14/k14qd4qot4)
+
+[![Office Logo](/site-assets/images/logo.png)](/)
+
+[ Consulate General of the People’s Republic of Bangladesh, Milan ](/ "Consulate General of the People’s Republic of Bangladesh, Milan")
+
+10 / 11 / 2026, 08:51 am
+
+[](/ "Home")
+
+Select Menu
+
+- [](/)
+- [About us]( " About us")
+  ###### [](# "About us")
+
+  About us
+
+  - [](/pages/static-pages/6952667335ce18e1c05a9312 " Consul General")
+    Consul General
+  - [](/pages/static-pages/6952667b35ce18e1c05a977b " Roll of Honour")
+    Roll of Honour
+  - [](/pages/officers-profile " List of Officers")
+    List of Officers
+  - [](/pages/office-contents " Consular Service Hours")
+    Consular Service Hours
+- [Bilateral Relation]( " Bilateral Relation")
+  ###### [](# "Bilateral Relation")
+
+  Bilateral Relation
+
+  - []( " History of Bangladesh Relation")
+    History of Bangladesh Relation
+  - [](/pages/static-pages/not_found " Political Relation")
+    Political Relation
+  - []( " Trade, Commerce, and Investment")
+    Trade, Commerce, and Investment
+  - []( " People to People Contact")
+    People to People Contact
+  - []( " Relation with Accredited Countries")
+    Relation with Accredited Countries
+- [Consular]( " Consular")
+  ###### [](# "Consular")
+
+  Consular
+
+  - [](/pages/static-pages/time-scheduling-for-consular-services-n0tz2e-6aeb7c9dbeb49f0d2b3ba6ad " Time Schedule for Consular service")
+    Time Schedule for Consular service
+  - [](# " Consular fee payment system")
+    Consular fee payment system
+
+  ###### [](# "Welfare Services")
+
+  Welfare Services
+
+  - [](/pages/static-pages/wage-earners-welfare-board-membership-registration-ea69d1-6952668735ce18e1c05a9d12 " Wage earners' welfare card")
+    Wage earners' welfare card
+  - [](# " Repatriation of Dead Body")
+    Repatriation of Dead Body
+- [News & Events]( " News & Events")
+  ###### [](# "News & Events")
+
+  News & Events
+
+  - [](https://www.allbanglanewspaper.xyz " Bangladeshi Newspaper")
+    Bangladeshi Newspaper
+  - [](/pages/news " News Link")
+    News Link
+  - [](/pages/press-releases " Press Release")
+    Press Release
+  - [](/pages/photo-galleries " Photo Gallery")
+    Photo Gallery
+  - [](/pages/static-pages/6952667935ce18e1c05a95f4 " Video Gallery")
+    Video Gallery
+- [Contact Us]( " Contact Us")
+  ###### [](# "Contact Us")
+
+  Contact Us
+
+  - [](https://drive.google.com/file/d/1Z2T1oP8Kc0YSnMrhp99O_evhNd4pm-UG/view?usp=sharing " FAQ")
+    FAQ
+  - [](https://www.google.com/maps/place/Consulate+General+of+Bangladesh/@45.451735,9.1525411,15z/data=!4m5!3m4!1s0x0:0xe14ef34dabc0a4ef!8m2!3d45.451735!4d9.1525411 " Location of Consulate General")
+    Location of Consulate General
+  - [](/pages/static-pages/695266b235ce18e1c05aad4f " Address")
+    Address
+  - [](/pages/web-forms/not_found " Write to Consular General")
+    Write to Consular General
+  - []( " Suggestion/Grievance Redress")
+    Suggestion/Grievance Redress
+
+[![Office Logo](/site-assets/images/logo.png)](/)
+
+# [Consulate General of the People’s Republic of Bangladesh, Milan](/)
+
+Click to share this content
+
+ 
+
+### Give your opinion
+
+This content was last updated on: Sunday, January 16, 2022 at 01:49 AM
+
+## Hospital visit and repatriation of poor & sick expatriates
+
+Content: Pages
+
+**প্রবাসী বাংলাদেশির মৃতদেহ বাংলাদেশে প্রেরণঃ**
+
+ইতালিতে বসবাসরত কোন বাংলাদেশি ইতালিতে মৃত্যুবরণ করলে তাঁর মৃতদেহ বাংলাদেশে প্রত্যাবসনের জন্য দূতাবাস হতে বিনা ফি-তে অনাপত্তি পত্র (Nulla Osta) ইস্যু করা হয়। মৃত ব্যক্তি ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্য হয়ে থাকলে তার মৃতদেহ পরিবহনের বিমান ভাড়া দূতাবাস বহন করে থাকে। এছাড়া মৃত ব্যক্তির পরিবার আর্থিকভাবে অস্বচ্ছল হলে মৃত ব্যক্তি ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্য না হলেও আবেদনের প্রেক্ষিতে মৃতদেহ পরিবহনের বিমান ভাড়া প্রদান করা হয়ে থাকে।
+
+অনাপত্তি পত্র (Nulla Osta) ইস্যু করার জন্য প্রয়োজনীয় কাগজপত্রসমূহঃ
+
+১. ‍মৃত্যুসনদ
+
+২. মৃত ব্যক্তির পাসপোর্টের কপি
+
+৩. মৃতদেহ পরিবহনের বিষয়ে যোগাযোগ করার জন্য ইতালিতে বসবাসরত একজন বাংলাদেশির নাম, ফোন
+
+নম্বর এবং ডকুমেন্ট
+
+৪. বাংলাদেশে মৃতদেহ গ্রহণকারী ব্যক্তির নাম, ফোন নম্বর এবং ডকুমেন্ট
+
+৫. মৃত ব্যক্তি ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্য হয়ে থাকলে সদস্যপদ নিবন্ধনের কপি।
+
+অনাপত্তি পত্র (Nulla Osta) পেতে হলে উপরে বর্ণিত ডকুমেন্ট এবং তথ্যসহ দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<welfare.milan@gmail.com>) প্রেরণ করতে হবে।
+
+**হাসপাতাল পরিদর্শন:**
+
+অসুস্থ অথবা দুর্ঘটনায় আহত হয়ে হাসপাতালে ভর্তি প্রবাসী বাংলাদেশিদের খোঁজ-খবর নেয়া, মানসিক শক্তি জোগানো ও ক্ষেত্র বিশেষে আর্থিক সহায়তা প্রদান করা দূতাবাসের একটি নিয়মিত কার্যক্রম। এ বিষয়ে বিস্তারিত তথ্যের জন্য দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<welfare.milan@gmail.com>) যোগাযোগ করা যেতে পারে।
+
+\
+
+**জেলখানা পরিদর্শন:**
+
+ইতালির বিভিন্ন জেলখানায় বিচারাধীন এবং সাজাপ্রাপ্ত আসামী হিসেবে আটককৃত বাংলাদেশি নাগরিকদের সনাক্তকরন, তাদের বর্তমান অবস্থা জানা, পরিবারের সাথে তাদের যোগাযোগ স্থাপন করে দেয়া এবং ক্ষেত্র বিশেষে আইনী সহায়তা গ্রহণের বিষয়ে পরামর্শ প্রদানের জন্য ইতালির বিভিন্ন জেলখানা পরিদর্শন করা হয়। এতদসংক্রান্ত যে কোন ধরণের যোগাযোগ দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<welfare.milan@gmail.com>) করা যেতে পারে।
+
+**আইনগত সহায়তা প্রদান:**
+
+অপ্রচলিত পন্থায় ইতালিতে আগমন, ভাষা জ্ঞানের অভাব, পারস্পরিক বোঝাপড়ার অভাবসহ বিভিন্ন কারণে প্রবাসীগণ মামলা মোকাদ্দমায় জড়িয়ে পড়েন। ইতালিতে আইনজীবিদের পারিশ্রমিক অনেক বেশী হওয়ায় প্রায়শঃই প্রবাসীগণ আইনের আশ্রয় নিতে সমস্যায় পড়েন। এরুপ প্রবাসীদের ইতালি সরকার কর্তৃক প্রদত্ত বিনামূল্যে আইনজীবি নিয়োগের সুবিধা গ্রহণের জন্য দূতাবাস হতে প্রযোজ্য ক্ষেত্রে আর্থিক অস্বচ্ছলতার সনদ দেয়া হয়ে থাকে। দূতাবাস হতে ইস্যুকৃত এই সার্টিফিকেটের মাধ্যমে তারা বিনা ফি-তে আইনজীবি নিয়োগের সহায়তা পেয়ে থাকেন। অস্বচ্ছলতা সনদের জন্য দূতাবাসের সার্টিফিকেট প্রদানের নিয়মাবলী অনুসরণ করতে হবে।
+
+\
+
+**বিপদগ্রস্ত/অসহায়/অস্বচ্ছল প্রবাসীদের আর্থিক সহায়তা প্রদান:**
+
+বিপদগ্রস্ত/অসহায়/অস্বচ্ছল প্রবাসীদের আর্থিক সহায়তা প্রদান করা হয়ে থাকে। নিজের অবস্থা বর্ণণা করে, প্রয়োজনীয় প্রমাণকসহ মান্যবর রাষ্ট্রদূত বরাবর এ ধরণের সহায়তা পাবার যোগ্য প্রবাসীরা আবেদন করতে পারেন। আবেদন নিম্নের দুটি ইমেইলে প্রেরণ করা যেতে পারেঃ
+
+<welfare.milan@gmail.com>
+
+<mission.milan@mofa.gov.bd>
+
+**বই বিতরণঃ**
+
+ইতালিতে বেড়ে উঠা প্রবাসীদের ছেলে-মেয়েদের বাংলা ভাষা চর্চা/শিক্ষার জন্য প্রবাসীদের দ্বারা পরিচালিত বিভিন্ন বাংলা শিক্ষা স্কুলে বাংলাদেশ সরকারের “শিক্ষা সহায়তা কার্যক্রম” এর আওতায় বিনামূল্যে পাঠ্যবই বিতরণ করা হয়। বই বিতরণের জন্য সাধারণতঃ প্রতিষ্ঠানকে প্রাধান্য দেয়া হয়ে থাকে। বই পেতে আগ্রহী যে কোন প্রতিষ্ঠান তাদের প্রতিষ্ঠানের প্যাডে মান্যবর রাষ্ট্রদূত বরাবর আবেদন করতে পারেন। আবেদন নিম্নের দুটি ইমেইলে প্রেরণ করা যেতে পারেঃ
+
+<welfare.milan@gmail.com>
+
+<mission.milan@mofa.gov.bd>
+
+\
+
+\
+
+**প্রবাসীদের কর্মস্থল পরিদর্শন:**
+
+নিয়মিত কাজের অংশ হিসেবে প্রবাসীদের কর্মস্থল পরিদর্শন করা হয়। কর্মস্থলে কাজের পরিবেশ, সময়মত পারিশ্রমিক পরিশোধ এবং অন্যান্য বিষয়ে খোঁজখবর নেয়া হয়। এছাড়া দূতাবাসের অন্যান্য কাজে ইতালির বিভিন্ন এলাকা পরিভ্রমণকালে প্রবাসীদের কর্মস্থলের খোঁজখবর নেয়া হয়। এতদসংক্রান্ত যে কোন ধরণের যোগাযোগ দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<welfare.milan@gmail.com>) করা যেতে পারে।
+
+**ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্যপদ নিবন্ধন:**
+
+স্ব-উদ্যোগে বিদেশে আগমনকারী প্রবাসীদেরকে বাংলাদেশ সরকারের ডাটাবেজের আওতায় আনয়ন এবং প্রবাসীদের কল্যাণমূলক কার্যক্রমকে আরো সুষ্ঠুভাবে সম্পাদনের নিমিত্ত বিদেশে বাংলাদেশ মিশনসমূহে ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্যপদ নিবন্ধন কার্যক্রম শুরু হয়েছে। রোম দূতাবাসে এ কার্যক্রম শুরু হয়েছে গত ১৯ জুন ২০১৭ তারিখে। ১৮বছরের কম এবং ৬৫ বছরের বেশী বাংলাদেশি প্রবাসীরা এই সদস্যপদ নিবন্ধনেরর জন্য আওতাভুক্ত হবেন না।
+
+- সদস্যপদ নিবন্ধনের মাধ্যমে প্রাপ্ত সুবিধাসমূহঃ
+- ---------------------লিফলেট--------------------
+- আবেদন ফরমের জন্য নিম্নের লিংক ক্লিক করুনঃ
+- -----------------------------------------
+
+\
+
+**কর্মী চাহিদাপত্র সত্যায়ন**
+
+বাংলাদেশ হতে কর্মী নিতে আগ্রহী কোন প্রতিষ্ঠান দূতাবাসে প্রস্তাব প্রেরণ করলে তা যথাযথ প্রক্রিয়া অনুসরণপূর্বক যাচাই বাছাই করে চাহিদাপত্র সত্যায়ন করা হয়ে থাকে। ইতালিতে এ ধরণের কোন কার্যক্রম না থাকলেও ইতালি দূতাবাসের অধিক্ষেত্রাধীন সার্বিয়ায় এ কাযক্রম চলমান আছে। এ বিষয়ে যে কোন ধরণের যোগাযোগের জন্য দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<welfare.milan@gmail.com>) ইমেইল করা যেতে পারে।
+
+\
+
+**রেমিট্যান্স পুরস্কার প্রদান**
+
+বাংলাদেশের জাতীয় অর্থনীতিতে বৈদেশিক মুদ্রা রিজার্ভের একটি উল্লেখযোগ্য অংশ প্রবাসী বাংলাদেশিদের প্রেরিত অর্থ হতে অর্জিত হয়। দেশের আর্থ-সামাজিক উন্নয়নে প্রবাসী বাংলাদেশীদের প্রেরিত রেমিট্যান্সের গুরুত্ব দিন দিন বৃদ্ধি পাচ্ছে এবং আরো অধিক হারে তাদের কষ্টার্জিত বৈদেশিক মুদ্রা বৈধ চ্যানেলে প্রেরণের জন্য তাদেরকে স্বীকৃতি প্রদান ও উৎসাহিত করার উদ্দেশ্যে বাংলাদেশ দূতাবাস, মিলান কর্তৃক ইতালিতে বসবাসরত প্রবাসী বাংলাদেশীদের রেমিট্যান্স পুরস্কার প্রদান করা হয়ে থাকে। প্রতি বছর অক্টোবর মাসে আবেদন আহবান করে এতদসংক্রান্ত বিজ্ঞপ্তি প্রকাশ করা হয়। ১৮ ডিসেম্বর আন্তর্জাতিক অভিবাসী দিবসে এ পুরস্কার প্রদান করা হয়। এ বিষয়ে যে কোন ধরণের যোগাযোগের জন্য দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<welfare.milan@gmail.com>) ইমেইল করা যেতে পারে।
+
+Click to share this content
+
+ 
+
+### Give your opinion
+
+### Accessibility
+
+Monochrome
+
+Invert
+
+Big Cursor
+
+Highlight Links
+
+Highlight Headings
+
+Reading Guide
+
+[Download Screen Reader](https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe)
+
+[Skip to content](#main-content) [Go to accessibility menu](#accessibility-card-title)
+
+![Decorative Left](/site-assets/images/left-footer.png)
+
+![Decorative Right](/site-assets/images/right-footer.png)
+
+All information published on this website is regularly updated by the respective government office. The office makes every effort to ensure that the information is accurate, correct, and reliable.
+
+© 2026 All Rights Reserved to bangladesh.gov.bd(National Portal)
+
+Site last updated: Thursday, November 5, 2026 at 19:15:24
+
+Planning and implementation
+
+![a2i](/site-assets/images/a2iset.png)

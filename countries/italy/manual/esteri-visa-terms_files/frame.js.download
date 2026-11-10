@@ -1,0 +1,114 @@
+(function () {
+  // Ottieni il parametro dallo script corrente
+  var currentScript = document.currentScript.src;
+  var queryParams = new URLSearchParams(
+    currentScript.substring(currentScript.indexOf("?"))
+  );
+  var botParam = queryParams.get("bot");
+
+  // URL base per l'iframe, da personalizzare
+  var baseUrl = "https://chatbot.esteri.it/chat-botv3/";
+  var iconUrl = "https://chatbot.esteri.it/assets/chats.svg";
+
+  // Creazione della bubble chat
+  var bubble = document.createElement("div");
+  bubble.id = "chat-bubble";
+  bubble.style.cssText = `
+    position: fixed;
+    bottom: 32px;
+    right: 96px;
+    width: 56px;
+    height: 56px;
+    background-color: #0066cc;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999999;
+  `;
+
+  bubble.innerHTML =
+    '<span style="color: white; font-size: 30px;"><img width="40" src="' +
+    iconUrl +
+    '" /></span>';
+
+  var iframe = document.createElement("iframe");
+  iframe.id = "chat-iframe";
+  iframe.style.cssText = `
+    position: fixed;
+    bottom: 60px; 
+    right: 20px;
+    width: 380px; 
+    height: 600px; 
+    border: none;
+    z-index: 999999;
+    overflow: hidden;
+    display: none; // Inizialmente non mostrato
+  `;
+
+  var styleSheet = document.createElement("style");
+
+  styleSheet.innerText = `
+    @media (min-width: 767px) and (max-width: 1200px) {
+        #chat-bubble {
+            bottom: 17px !important;
+        }
+    }
+
+    @media (max-width: 767px) {
+        #chat-bubble {
+            transform: scale(0.75);
+            bottom: 60px !important;
+            right: 9px !important;
+        }
+
+        #chat-iframe {
+            right: 0 !important;
+        }
+    }
+`;
+  document.head.appendChild(styleSheet);
+
+  var iframeCreated = false;
+  var isIframeOpen = false;
+
+  // Funzione per aggiornare l'icona della bubble
+  function updateBubbleIcon() {
+    if (isIframeOpen) {
+      // Icona per lo stato "aperto"
+      bubble.innerHTML =
+        '<span style="color: white; font-size: 30px; font-weight: 100; margin-bottom: 4px;">&times;</span>';
+    } else {
+      // Icona per lo stato "chiuso"
+      bubble.innerHTML =
+        '<span style="color: white; font-size: 30px;"><img width="40" src="' +
+        iconUrl +
+        '" /></span>';
+    }
+  }
+
+  // Gestione dell'apertura e chiusura dell'iframe al clic sulla bubble
+  bubble.onclick = function () {
+    if (!iframeCreated) {
+      // Imposta l'URL dell'iframe solo la prima volta
+      iframe.src = baseUrl + "?bot=" + botParam;
+      iframeCreated = true;
+    }
+
+    // Mostra o nasconde l'iframe
+    iframe.style.display = iframe.style.display === "none" ? "block" : "none";
+
+    // Aggiorna lo stato della bubble e l'icona
+    isIframeOpen = !isIframeOpen;
+    updateBubbleIcon();
+  };
+
+  // Aggiunta della bubble e dell'iframe al body
+  document.body.appendChild(bubble);
+  document.body.appendChild(iframe);
+
+  // Aggiorna l'icona iniziale
+  updateBubbleIcon();
+})();

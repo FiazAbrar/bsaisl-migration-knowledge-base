@@ -1,0 +1,266 @@
+.bodyTesto {
+	/* font-family:'Titillium Web',Courier,monospace; */
+	margin-left:5px;
+	margin-right:5px;
+	/* max-width: 560px; */
+	text-align:left;
+	white-space:inherit;
+	font-size: 1em !important;
+}
+
+.bodyTesto h1, .bodyTesto h2, .bodyTesto h3 {
+	font-size: 1em !important;
+}
+
+.table-akn {
+}
+
+span.table-akn {
+/*     font-family: 'Roboto Mono'; */
+    font-size: 87.5%;
+/*     white-space: pre; */
+}
+
+th, td.table-formatted-akn {
+	border: groove;
+}
+
+.ins-akn {
+/*     border: 1px solid; */
+    background-color: revert;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline;
+/*     display: inline-block; */
+/*     padding: 0 5px 0 5px; */
+/*     text-indent: 0; */
+}
+
+.titolo-atto-akn {
+}
+
+.tipo-numero-data-akn {
+}
+
+.preamble-title-akn {
+    text-align: center;
+    padding: 20px;
+}
+
+.preamble-end-akn {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.preamble-citations-akn {
+	padding:5px;
+}
+
+.preamble-citation-akn {
+	padding:5px;
+}
+
+.preamble-recitals-akn {
+}
+
+.preamble-recital-akn {
+	padding:5px;
+}
+
+.preamble-text-akn {
+	padding:5px;
+/* 	font-style:italic; */
+}
+
+
+.article-num-akn {
+    text-align: center;
+}
+
+.article-heading-akn {
+    text-align: center;
+    padding-bottom:10px;
+}
+
+.article-pre-text-akn {
+}
+
+.article-pre-comma-text-akn {
+}
+
+.art-commi-div-akn {
+}
+
+.art-comma-div-akn {
+    padding: 5px;
+    background: inherit;
+}
+
+.comma-num-akn {
+	font-weight: bold;
+}
+
+.art_text_in_comma {
+}
+
+.art_aggiornamento-akn {
+}
+
+.art_aggiornamento_separator-akn {
+}
+
+.art_aggiornamento_title-akn {
+}
+
+.art_aggiornamento_testo-akn {
+}
+
+.novella_mod {
+}
+
+.novella_rmod {
+}
+
+.novella_mod_new {
+}
+
+.novella_mod_old {
+}
+
+.art_abrogato-akn {
+    text-align: center;
+}
+
+
+.conclusion-formula-akn {
+    text-align: center;
+}
+
+.conclusion-text-akn {
+    text-align: center;
+}
+
+.conclusion-text-location-akn {
+    text-align: center;
+}
+
+.conclusion-text-date-akn {
+    text-align: center;
+}
+
+
+
+.signature-first-akn {
+    text-align:right;
+}
+
+.signature-center-akn {
+    text-align:right;
+}
+
+.signature-last-akn {
+    text-align:left;
+}
+
+.pointedList-first-akn {
+}
+.pointedList-rest-akn {
+	text-indent:10px;
+	background: inherit;
+}
+
+.note-akn {
+    color: #990000;
+    padding-top: 15px;
+}
+
+.signature-first-akn {
+    text-align:right;
+}
+
+.signature-center-akn {
+    text-align:right;
+}
+
+.signature-last-akn {
+    text-align:left;
+}
+
+
+
+
+h2.conclusion-formula-akn {
+    text-align: left;
+    font-weight: lighter;
+    line-height: normal;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h3.conclusion-text-akn {
+    text-align: left;
+    font-weight: lighter;
+    line-height: normal;
+    padding-bottom: 15px;
+}
+
+a.attachment-url-link {
+	display: block;
+	padding: 5% 0%;
+}
+.attachment-just-text {
+}
+
+.attachment-pre-comma {
+}
+
+/* .attachment-just-text { */
+/* 	white-space:pre-wrap; */
+/* } */
+
+.keep80 {
+	font-family: 'Roboto Mono', monospace;
+    font-size: 87.5%;
+    white-space: pre-wrap;
+}
+
+.formula-introduttiva {
+	text-align: center;
+}
+
+ .icon-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10px;
+    }
+    .icon-container svg {
+        width: 30px;
+        height: 30px;
+    }
+    .btn-content {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+    .btn-custom {
+        background-color: #F5F5F5;
+        color: black;
+        border: none;
+        padding: 20px 20px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-size: 18px;
+        text-align: left;
+        position: relative;
+    }
+    .btn-custom:hover {
+        background-color: #e0e0e0;
+    }
+    .arrow-right {
+        position: absolute;
+        right: 20px;
+        font-size: 18px;
+    }
+

@@ -1,0 +1,73 @@
+/**
+ * @file
+ * Global utilities.
+ *
+ */
+(function ($, Drupal) {
+
+  'use strict';
+
+  Drupal.behaviors.interno_theme_global = {
+    attach: function (context, settings) {
+
+      //Hide sidebar region if sidebar is empty. Works only without Big Pipe
+      if ($('#sidebar_first span').length && $('#sidebar_first span').attr('data-big-pipe-placeholder-id')) {
+        $('#sidebar_first').show();
+      } else {
+        if ($('#sidebar_first .block').length == 0) {
+          $('#sidebar_first').hide();
+        } else {
+          $('#sidebar_first').show();
+        }
+      }
+
+      //Hide system messages div if are empty
+      if ($('.alert div').length == 0) {
+        $('.alert').hide();
+      }
+
+      //Show Flexlider thumbnails
+      setInterval(function () {
+        $('.flexslider').each(function (index) {
+          $(this).data('flexslider').setup();
+        });
+      }, 10);
+
+      //Mappa contatto. Nasconde il campo address se le coordinate sono nulle
+      if ($('.node--type-contatto').length) {
+        if ($('.geolocation-map-container').length == 0 && $('.field--type-file').length == 0 &&
+          (($('.field--name-field-address-street').length == 0) || ($('.field--name-field-address-cap').length == 0) ||
+            ($('.field--name-field-address-province').length == 0))) {
+          if ($('.group-right').length) {
+            $('.group-right').hide();
+          }
+          if ($('.group-left').length) {
+            $('.group-left').css('width', '100%');
+          }
+        }
+        if ($('.geolocation-map-container').length == 0 && $('.field--type-file').length) {
+          if ($('.group-right .field--name-field-address-name').length) {
+            $('.group-right .field--name-field-address-name').hide();
+          }
+        }
+      }
+
+      //Disabilita download video
+      if ($('video').length) {
+        $('video').each(function () {
+          $(this).attr('controlsList', 'nodownload');
+        });
+      }
+    }
+  };
+
+  Drupal.behaviors.interno_theme_slider = {
+    attach: function (context, settings) {
+      //Owlcarousel
+      if ($('.owl-carousel .owl-nav button').length) {
+        $('.owl-carousel .owl-nav button').removeAttr('role');
+      }
+    }
+  };
+
+})(jQuery, Drupal);

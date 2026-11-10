@@ -1,0 +1,16 @@
+  (function ($, Drupal) {
+
+    'use strict';
+
+    Drupal.behaviors.interno_banner_piacere_conoscerti = {
+      attach: function (context, settings) {
+        if ($('#block-questionariohome').length && $('.block-views-blockblocchi-tassonomia-emblemi-pnrr').length) {
+          $('#block-questionariohome').hide();
+        }
+        if ($('#block-questionariohome').length && $('.view-display-id-emblemi').length) {
+          $('#block-questionariohome').hide();
+        }
+      }
+    };
+  
+  })(jQuery, Drupal);

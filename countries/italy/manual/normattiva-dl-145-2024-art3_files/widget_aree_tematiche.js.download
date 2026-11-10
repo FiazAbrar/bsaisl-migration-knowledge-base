@@ -1,0 +1,282 @@
+
+svg = undefined //deve essere globale
+
+//posizione orizzontale dei pallini
+leftCircleX = undefined;
+rightCircleX = undefined;
+
+// Linee della linea orizzontale
+let leftLine, middleLine, rightLine;
+
+//richiamato ad ogni resize
+function updateGraph(anni, numero_atti, annoSx, annoDx) {
+    //rimuove il vecchio widget
+    if (svg) {
+        svg.remove();
+    }
+    // Ricrea il widget con le nuove dimensioni
+    createGraph(anni, numero_atti,annoSx, annoDx);
+
+}
+
+function createGraph(anni, numero_atti, annoSx, annoDx) {
+
+	//disabilita i bottoni per rieffettuare la ricerca e resettarla. Saranno abilitati solo quando
+	//lo slider solleverà l' evento che informa che lo slider ha cambiato range
+    $('#button-rifai-ricerca').attr('disabled','disabled');
+    
+    years = anni;
+    data = numero_atti;
+
+    const height = window.screen.height / 4;  //l'altezza del widget è in base allo schermo
+    const margin = { top: 20, right: 20, bottom: 70, left: 50 };
+    const distance_line_from_bins = 30;
+    const raggio_pallino = 12;
+
+	//la larghezza del widget la prendiamo dalla lunghezza del div che lo contiene
+	const widgetGraphDiv = document.getElementById('widget_graph');
+    const { width } = widgetGraphDiv.getBoundingClientRect();
+    
+    //utile quando il widget non è visibile per non dare errore nella console
+    if (width <= 0) return;
+	
+    svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("width", width - 10);
+    svg.setAttribute("height", height);
+
+    widgetGraphDiv.appendChild(svg);
+
+    const xScale = d3.scaleBand()
+        .domain(years)
+        .range([margin.left, width - margin.right])
+        .padding(0.1);
+
+    const yScale = d3.scaleLinear()
+        .domain([0, d3.max(data)])
+        .nice()
+        .range([height - margin.bottom, margin.top]);
+
+	const leftLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+	leftLine.setAttribute("class", "left-line");
+	leftLine.setAttribute("x1", margin.left + xScale.bandwidth());
+	leftLine.setAttribute("y1", height - margin.bottom + distance_line_from_bins);
+	leftLine.setAttribute("x2", leftCircleX || margin.left);  // Usa leftCircleX per impostare la larghezza
+	leftLine.setAttribute("y2", height - margin.bottom + distance_line_from_bins);
+	leftLine.setAttribute("style", "stroke-width: 10; stroke: grey;");
+	svg.appendChild(leftLine);
+
+	const middleLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+	middleLine.setAttribute("class", "middle-line");
+	middleLine.setAttribute("x1", leftCircleX || margin.left);  // Usa leftCircleX per impostare l'inizio
+	middleLine.setAttribute("y1", height - margin.bottom + distance_line_from_bins);
+	middleLine.setAttribute("x2", rightCircleX || (width - margin.right));  // Usa rightCircleX per impostare la fine
+	middleLine.setAttribute("y2", height - margin.bottom + distance_line_from_bins);
+	middleLine.setAttribute("style", "stroke-width: 10; stroke: blue;");
+	svg.appendChild(middleLine);
+
+	const rightLine = document.createElementNS("http://www.w3.org/2000/svg", "line");
+	rightLine.setAttribute("class", "right-line");
+	rightLine.setAttribute("x1", rightCircleX || (width - margin.right));  // Usa rightCircleX per impostare l'inizio
+	rightLine.setAttribute("y1", height - margin.bottom + distance_line_from_bins);
+	rightLine.setAttribute("x2", width - xScale.bandwidth());
+	rightLine.setAttribute("y2", height - margin.bottom + distance_line_from_bins);
+	rightLine.setAttribute("style", "stroke-width: 10; stroke: grey;");
+	svg.appendChild(rightLine);
+
+    const tooltip = d3.select("#tooltip");
+
+	data.forEach((d, i) => {
+	    const bar = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+	    bar.setAttribute("class", "bar");
+	    bar.setAttribute("x", xScale(years[i]));
+	    bar.setAttribute("y", yScale(d));
+	    bar.setAttribute("width", xScale.bandwidth());
+	    bar.setAttribute("height", height - margin.bottom - yScale(d));
+	    bar.setAttribute("data-year", years[i]);
+		
+	
+	    // Colora la barra di grigio se è fuori dall'intervallo annoSx - annoDx
+	    if (years[i] < annoSx || years[i] > annoDx) {
+	        bar.classList.add("grey");
+	    }
+	
+	    bar.addEventListener("mouseover", function (event) {
+	        tooltip.style("opacity", 1)
+	            .html(years[i] + ':' + d)
+	            .style("left", 0 + "px")
+	            .style("top", 0 + "px")
+	            .style("width", "auto")
+				.style("font-size", "32px");
+	    });
+	
+	    bar.addEventListener("mouseout", function () {
+	        tooltip.style("opacity", 0);
+	    });
+	
+	    svg.appendChild(bar);
+	
+	    // Visualizza l'anno sopra ogni barra
+	    const yearLabel = document.createElementNS("http://www.w3.org/2000/svg", "text");
+	    yearLabel.setAttribute("x", xScale(years[i]) + xScale.bandwidth() / 2);
+	    yearLabel.setAttribute("y", yScale(d) - 5);  // Posizione verticale sopra la barra
+	    yearLabel.setAttribute("text-anchor", "middle");
+	    yearLabel.setAttribute("style", "font-size: 12px; fill: black; user-select: none;");
+	    yearLabel.textContent = years[i];
+	    //svg.appendChild(yearLabel);
+	});
+
+    const startYearText = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    startYearText.setAttribute("x", margin.left);
+    startYearText.setAttribute("y", height - margin.bottom + distance_line_from_bins - 18);
+    startYearText.setAttribute("style", "font-size: 16px; font-weight: bold;user-select: none;");
+    startYearText.setAttribute("text-anchor", "start");
+    startYearText.textContent = years[0];
+    svg.appendChild(startYearText);
+
+    const endYearText = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    endYearText.setAttribute("x", width - margin.right);
+    endYearText.setAttribute("y", height - margin.bottom + distance_line_from_bins - 18);
+    endYearText.setAttribute("text-anchor", "end");
+    endYearText.setAttribute("style", "font-size: 16px; font-weight: bold; user-select: none;");
+    endYearText.textContent = years[years.length - 1];
+    svg.appendChild(endYearText);
+
+    let leftCircleYear = annoSx;
+    let rightCircleYear = annoDx;
+
+    function updateBarColors() {
+        const bars = svg.querySelectorAll(".bar");
+        bars.forEach(bar => {
+            const year = parseInt(bar.getAttribute("data-year"));
+            if (year < leftCircleYear || year > rightCircleYear) {
+                bar.classList.add("grey");
+            } else {
+                bar.classList.remove("grey");
+            }
+        });
+    }
+
+    function createDraggableCircle(initialYearIndex, isLeft) {
+        const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        circle.setAttribute("class", "circle");
+        const initialX = xScale(years[initialYearIndex]) + xScale.bandwidth() / 2;
+        circle.setAttribute("cx", initialX);
+        circle.setAttribute("cy", height - margin.bottom + distance_line_from_bins);
+        circle.setAttribute("r", raggio_pallino);
+
+		if (isLeft) {
+			leftCircleX = initialX;
+			leftLine.setAttribute("x2", leftCircleX);
+			middleLine.setAttribute("x1", leftCircleX);
+		} else {
+			rightCircleX = initialX;
+			middleLine.setAttribute("x2", rightCircleX);
+			rightLine.setAttribute("x1", rightCircleX);
+		}
+
+        const text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        text.setAttribute("class", "circle-text");
+        text.setAttribute("x", initialX);
+        text.setAttribute("y", height - margin.bottom + distance_line_from_bins + 30);
+        text.setAttribute("text-anchor", "middle");
+        text.setAttribute("style", "font-size: 14px; font-weight: bold;user-select: none;fill: blue");
+        text.textContent = years[initialYearIndex];
+
+        let isDragging = false;
+
+        circle.addEventListener("mousedown", startDrag);
+        circle.addEventListener("touchstart", startDrag);
+
+        function startDrag(event) {
+            event.preventDefault();
+            isDragging = true;
+            document.addEventListener("mousemove", drag);
+            document.addEventListener("touchmove", drag);
+            document.addEventListener("mouseup", endDrag);
+            document.addEventListener("touchend", endDrag);
+        }
+
+        function drag(event) {
+            if (!isDragging) return;
+
+            let x = event.type === 'touchmove' ? event.touches[0].clientX : event.clientX;
+
+            const newX = Math.max(margin.left, Math.min(width - margin.right, x - svg.getBoundingClientRect().left));
+            const index = Math.round((newX - margin.left) / xScale.step());
+            const snappedX = xScale(years[index]) + xScale.bandwidth() / 2;
+
+//controlliamo che il pallino a sx non vada troppo a ridosso del dx (1 anno almeno di distanza)
+            if (isLeft && years[index] > rightCircleYear - 1) return;
+			
+ //controlliamo che il pallino a destra non vada troppo a ridosso del sinistro		 
+			if (!isLeft && years[index] < leftCircleYear + 1) return;
+
+			//controlla che il pallino destra non vada troppo a dx
+			if (!isLeft && index >=years.length) return;  
+
+            circle.setAttribute("cx", snappedX);
+            text.setAttribute("x", snappedX);
+            text.textContent = years[index];
+
+			if (isLeft) {
+				leftCircleYear = years[index];
+				leftCircleX = snappedX;  // Aggiorna leftCircleX
+			} else {
+				rightCircleYear = years[index];
+				rightCircleX = snappedX;  // Aggiorna rightCircleX
+			}
+			
+			// Aggiorna le posizioni delle linee
+			leftLine.setAttribute("x2", leftCircleX);
+			middleLine.setAttribute("x1", leftCircleX);
+			middleLine.setAttribute("x2", rightCircleX);
+			rightLine.setAttribute("x1", rightCircleX);
+
+            updateBarColors();
+        }
+
+        function endDrag(event) {
+            if (!isDragging) return;
+
+            isDragging = false;
+            document.removeEventListener("mousemove", drag);
+            document.removeEventListener("touchmove", drag);
+            document.removeEventListener("mouseup", endDrag);
+            document.removeEventListener("touchend", endDrag);
+
+            const moveEndEvent = new CustomEvent("circleMoveEnd", { detail: { initialYear: leftCircleYear, endYear: rightCircleYear, isLeft: isLeft } });
+            document.dispatchEvent(moveEndEvent);
+        }
+
+        svg.appendChild(circle);
+        svg.appendChild(text);
+    }
+
+    // Creazione pallini sui valori annoSx e annoDx
+    const sxIndex = years.indexOf(annoSx);
+    const dxIndex = years.indexOf(annoDx);
+
+    createDraggableCircle(sxIndex, true);  // Pallino sinistro
+    createDraggableCircle(dxIndex, false); // Pallino destro
+
+    document.addEventListener("circleMoveEnd", function (event) {
+		//aggiorna i campi nascosti del Form così quando l'utente rieffettua la ricerca verranno spediti al server 
+        var form = document.getElementById('formWidget');
+        if (form) {
+            var annoFromField = form.querySelector('[name="annoFrom"]');
+            if (annoFromField) {
+                annoFromField.value = event.detail.initialYear;
+            }
+            var annoToField = form.querySelector('[name="annoTo"]');
+            if (annoToField) {
+                annoToField.value = event.detail.endYear;
+            }
+            $('#button-rifai-ricerca').removeAttr('disabled');
+        } else {
+            console.warn('Form with id "formWidget" not found.');
+        }
+    });
+}
+
+
+

@@ -1,0 +1,77 @@
+(function ($, Drupal) {
+
+  'use strict';
+
+  /**
+   * Corregge l'url del menu per i temi. La correzione riguarda gli errori generati in particolari condizioni dovuti all'utilizzo dei token negli url
+   *
+   */
+  Drupal.behaviors.interno_taxonomy_alias_url = {
+    attach: function (context, settings) {
+      function getCurrentRelativePath() {
+        var base_url = window.location.origin;
+        var current_url = $(location).attr('href');
+        var current_relative_url = current_url.replace(base_url, '');
+        var langcode = $('html').attr('lang');
+        if (!current_relative_url.startsWith('/' + langcode + '/')) {
+          current_relative_url = '/' + langcode + current_relative_url;
+        }
+        return current_relative_url;
+      }
+
+      function getCurrentPathArray() {
+        var current_relative_url = getCurrentRelativePath();
+        var current_path_array = current_relative_url.split('/');
+        return current_path_array;
+      }
+
+      function getLastPathItem(item) {
+        var last_path_item = '';
+        var url_link = item.href;
+        var url_link_array = url_link.split('/');
+        if (url_link_array.length > 6) {
+          last_path_item = '/' + url_link_array[url_link_array.length - 1];
+        }
+        return last_path_item;
+      }
+
+      if ($('.view-temi.view-display-id-menu').length) {
+        setTimeout(function () {
+          var current_path_array = getCurrentPathArray();
+          $('.view-temi.view-display-id-menu .views-field').each(function (index) {
+            //Set url
+            console.log($(this).find('a'));
+            var contextual_path_item = getLastPathItem($(this).find('a')[0]);
+            var item_url = current_path_array[0] + '/' + current_path_array[1] + '/' + current_path_array[2] + '/' + current_path_array[3] + contextual_path_item;
+            $(this).find('a')[0].href = item_url;
+
+            //Set current item
+            if (getCurrentRelativePath() == item_url) {
+              $(this).find('a').addClass('is-active');
+            }
+
+          });
+        }, 500);
+      }
+    }
+  };
+
+  // GDPR: disabilitazione Matomo con EU Cookie Compilance.
+  // document.addEventListener('DOMContentLoaded', function () {
+  //
+  //   if (typeof _paq != 'undefined') {
+  //     if (!Drupal.eu_cookie_compliance.hasAgreed('statistics')) {
+  //       _paq.push(['requireConsent']);
+  //       _paq.push(['disableCookies']);
+  //     }
+  //
+  //     if (Drupal.eu_cookie_compliance.hasAgreed('statistics')) {
+  //       _paq.push(['setConsentGiven']);
+  //     }
+  //   }
+  //
+  // }, false);
+
+})(jQuery, Drupal);
+
+
