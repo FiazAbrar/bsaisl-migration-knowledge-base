@@ -1,0 +1,4 @@
+# OEP country-clearance report, Italy (country_id 85), all workers, 2023-01-01 to 2023-12-31, queried 2026-11-10
+Italy all workers 2023: total_employee 16846
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=85&gender_id=
+{"success":true,"code":null,"payload":{"data":[{"country_id":85,"country_name":"Italy","total_employee":16846}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":16846},"type":"success","fade":false}

@@ -1,0 +1,57 @@
+Direzione Centrale Bilanci, Contabilita' e Servizi Fiscali
+
+Direzione Centrale Tecnologia, Informatica e Innovazione
+
+
+ Roma, 26-02-2025
+
+Messaggio n. 698
+
+OGGETTO:  Applicazione delle novità fiscali introdotte dall'articolo 1, comma 11,
+          della legge 30 dicembre 2024, n. 207, in materia di detrazioni per
+          carichi di famiglia di cui all'articolo 12 del decreto del Presidente
+          della Repubblica 22 dicembre 1986, n. 917
+
+ L'articolo 1, comma 11, della legge 30 dicembre 2024, n. 207 (di seguito, legge di Bilancio
+2025), ha introdotto le seguenti novità in materia di detrazioni per carichi di famiglia,
+modificando l'articolo 12 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
+(TUIR):
+
+        al comma 1, lettera c) del citato articolo 12, con riferimento ai figli a carico, la detrazione
+        per carichi di famiglia spettante è riconosciuta, nella misura e nei limiti reddituali ivi
+        previsti, nell'importo massimo di 950 euro per ciascun figlio, compresi i figli nati fuori del
+        matrimonio riconosciuti, i figli adottivi, affiliati o affidati, nonché i figli del coniuge
+        deceduto conviventi del coniuge superstite, di età pari o superiore a 21 anni, ma inferiore
+        a 30 anni, nonché per ciascun figlio di età pari o superiore a 30 anni con disabilità
+        accertata ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104;
+        al comma 1, lettera d), del medesimo articolo, la detrazione fiscale è riconosciuta, nella
+        misura e nei limiti reddituali ivi previsti, nell'importo massimo di 750 euro, da ripartire pro
+        quota tra coloro che vi hanno diritto, per ciascun ascendente che conviva con il
+        contribuente;
+        è aggiunto all'articolo 12, il comma 2-bis, il quale prevede che: "Le detrazioni di cui al
+        comma 1 non spettano ai contribuenti che non sono cittadini italiani o di uno Stato
+        membro dell'Unione europea o di uno Stato aderente all'accordo sullo Spazio economico
+        europeo in relazione ai familiari residenti all'estero".
+Al riguardo, l'Istituto, in qualità di sostituto di imposta, con effetto dal corrente anno, ha
+proceduto ad adeguare il sistema informativo delle "Detrazioni Unificate" come di seguito
+rappresentato:
+
+        azzerando, in quanto non spettanti, le detrazioni per figli a carico che hanno compiuto 30
+        anni e non sono disabili;
+        revocando, in quanto non spettanti, le detrazioni per gli altri familiari a carico e inserita la
+        possibilità di dichiarare che si tratta di soggetto ascendente convivente con il
+        contribuente.
+
+In merito al comma 2-bis dell'articolo 12, inserito dall'articolo 1, comma 11, lettera b), della
+legge di Bilancio 2025, si fa riserva di fornire, con successivo messaggio, ulteriori indicazioni
+operative. Si ritiene, tuttavia, utile precisare che è rimasta invariata la disciplina dei non
+residenti c.d. Schumacker prevista dall'articolo 24, comma 3-bis, del TUIR.
+
+Si rappresenta, infine, che è onere del contribuente, come previsto dall'articolo 23 del decreto
+del Presidente della Repubblica 29 settembre 1973, n. 600, dichiarare di avere diritto alle
+detrazioni previste dall'articolo 12 del TUIR e comunicare tempestivamente eventuali variazioni
+al sostituto di imposta.
+
+                                                         Il Direttore Generale
+                                                          Valeria Vittimberga
+

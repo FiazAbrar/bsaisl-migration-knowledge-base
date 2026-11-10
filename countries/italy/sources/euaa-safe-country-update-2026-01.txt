@@ -1,0 +1,570 @@
+                                                            Situational Update
+
+                                                                                    Issue No 24, 23 January 2026
+
+          Overview of the Implementation
+          of Safe Country Concepts
+
+This biannual overview is published in January and July. This edition covers the period July-
+December 2025.
+
+In the context of asylum, the term 'safe country' refers to countries which generally do not
+generate protection needs for their people. European Union (EU) law provides four safe
+country concepts which can be applied in the asylum procedure: safe country of origin, safe
+third country, first country of asylum and European safe third country. These concepts are
+regulated in the recast Asylum Procedures Directive (APD).
+
+Currently, the implementation of the safe country concepts in EU+ countries is highly
+divergent. However, greater convergence is expected as the transposition of the safe country
+of origin concept will become mandatory for all Member States under the EU Pact on
+Migration and Asylum, which will enter into application in June 2026. In particular, provisions
+regulating the safe country concepts are found in Section 5 of the Asylum Procedures
+Regulation (APR). The APR aims to establish common criteria for designating third countries
+as safe countries of origin, a common EU list of safe countries, as well as a common
+procedure for processing such applications. An overview of changes introduced by the APR
+are available in the following briefings by the European Parliamentary Research Service: Safe
+country of origin concept in EU asylum law (May 2025) and Safe third country concept in the
+EU Pact on Migration and Asylum (December 2024).
+
+This overview highlights developments between July and December 2025 concerning the
+implementation of the safe country of origin and safe third country concepts at the EU level
+and in EU+ countries. It also presents the state of play on the implementation of national lists
+of safe countries as of 31 December 2025, based on data available in the Who is Who in
+International Protection in the EU+ platform.
+SITUATIONAL UPDATE NO 24
+
+ Current state of play
+
+ Safe country of origin (see Table 1)
+
+    23 EU+ countries have adopted a national list of safe countries of origin.
+
+             The Netherlands has temporarily suspended the application of its national list
+             pending the introduction of an EU list under the Pact.
+
+    Finland and Portugal implement the safe country of origin concept on a case-by-
+
+             case basis.
+
+    Lithuania and Romania do not implement the concept as a national list has not
+
+             been adopted.
+
+    Latvia and Spain do not implement the concept as relevant legal provisions on the
+
+             designation of a list do not exist.
+
+    Poland does not define the safe country of origin concept in law.
+    Only 8 countries are recognised as safe by more than 14 EU+ countries which
+
+             implement a national list. These include Albania (by 21 countries), Bosnia and
+             Herzegovina, Montenegro, North Macedonia and Serbia (20 countries each),
+             Kosovo (19 countries), Georgia (17 countries) and Ghana (14 countries).
+
+    A majority of countries of origin (35 countries) are listed as safe by 3 or less
+
+             EU+ countries which implement a national list.
+
+    7 EU+ countries which implement a national list (Denmark, Estonia, Hungary,
+
+             Luxembourg, Netherlands, Norway and Switzerland) also apply exceptions for
+             specific geographical areas or profiles of asylum seekers within a country of origin
+             (see Table 2).
+
+ Safe third country (see Table 3)
+
+    The safe third country concept is not applied uniformly in all EU+ countries.
+    The safe third country concept is included in national legislation in all
+
+             EU+ countries, except France, Iceland, Italy and Poland.
+
+    Only six EU+ countries have adopted a national list of safe third countries
+
+             (Bulgaria, Estonia, Germany, Greece, Hungary and Switzerland).
+
+    When the national legal framework refers to the safe third country concept but a
+
+             national list has not been adopted, the concept is applied on a case-by-case
+             basis in 14 EU+ countries (Austria, Belgium, Croatia, Cyprus, Denmark, Finland,
+             Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway and Sweden).
+
+                                                                   2
+                                                      OVERVIEW OF THE IMPLEMENTATION OF SAFE COUNTRY CONCEPTS
+
+    Czechia, Portugal, Romania, Slovakia, Slovenia and Spain refer to the concept in
+
+             national law but do not apply it in practice.
+
+    Estonia and Hungary are the only countries which apply exceptions to the
+
+             application of the safe third country concept based on geographical location and
+             certain profiles of applicants (see Table 2). The exceptions applied by both
+             countries are identical to those applied to the application of the safe country of
+             origin concept.
+Figure 1. Countries implementing safe country concepts in processing asylum applications
+
+                                                                   3
+SITUATIONAL UPDATE NO 23
+
+1. Recent developments
+
+ Provisional political agreement reached between the European Parliament and the
+ Council of the EU on the application of the safe third country concept and an EU wide
+ list of safe countries of origin
+
+On 18 December 2025, the European Parliament and the Council reached provisional political
+agreement1 on the following new rules aimed at facilitating the application of the safe third
+country concept and allowing Member States greater flexibility:
+
+    · The mandatory obligation to establish a connection between the applicant and the
+         safe third country was removed.
+
+    · Two additional criteria may be sufficient to apply the concept: cases when the
+         applicant transited through a safe third country before reaching the EU, or in the
+         absence of transit or a connection to a safe third country, on the basis of an
+         agreement or arrangement with a safe third country that includes safeguards ensuring
+         that the applicant's asylum application will be examined there. The latter option does
+         not apply to unaccompanied minors.
+
+    · Appeals against an inadmissibility decision based on the safe third country concept
+         will no longer carry an automatic right to remain in the EU pending a decision on the
+         appeal. However, applicants retain the right to request a suspensive effect (right to
+         remain on the territory) from the body that is competent to adjudicate such a request.
+
+Additionally, the following was agreed on the application of the safe country of origin concept:
+
+    · Inclusion of the following countries on an EU list: Bangladesh, Colombia, Egypt, India,
+         Kosovo,*2 Morocco, and Tunisia.
+
+    · The inclusion of EU accession candidate countries in the EU list, provided that the
+         following three criteria are satisfied: there is no situation of international or internal
+         armed conflict, no restrictive measures affecting fundamental rights and freedom, and
+         the recognition rate for asylum claims by nationals of these countries is not higher
+         than 20% across the EU.
+
+    · The European Commission is responsible for monitoring whether the above
+         exceptions for EU candidate countries apply or cease to apply and must inform
+         Member States accordingly.
+
+    · An entire country, or part of its territory or population, may be suspended by the
+         European Commission from being designated as safe at the EU level, following a
+         substantiated assessment.
+
+    · Member States may complement the EU list with their own national list, including
+         additional non-EU countries.
+
+1 Negotiations were based on the Council's position which was agreed on 8 December 2025, available here.
+2 *According to the Council and the European Parliament, this designation is without prejudice to positions on
+status and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+                                                                   4
+                                                      OVERVIEW OF THE IMPLEMENTATION OF SAFE COUNTRY CONCEPTS
+
+    · The EU list will begin to apply once the Pact enters into application on 12 June 2026,
+         while it was agreed that certain provisions, such as the application of exceptions of
+         the safe country concepts based on territorial areas and categories of persons, may
+         be fast-tracked upon the entry into force of this agreement.
+
+This provisional agreement must now be formally confirmed by both institutions prior to its
+official adoption.
+
+ CJEU delivers ruling on the application of exceptions based on categories of persons
+
+On 1 August 2025, in LC [Alace] and CP [Canpelli] v Territorial Commission of Rome (joined
+cases C-758/24 and C-759/24), the CJEU ruled that:
+
+    · Exceptions based on categories of persons are not permitted under the recast Asylum
+         Procedures Directive (APD). It is up to the EU legislator to amend the concept or bring
+         forward the application date for the new Pact provisions which allow for such
+         exceptions.
+
+    · Member States may designate by legislative act a third country as a safe country of
+         origin, provided that that designation can be subject to an effective judicial review
+         related to compliance with the material conditions in Annex 1 of the recast APD.
+
+    · In order for judicial protection to be effective, both the applicant and the court or
+         tribunal must be able to have sufficient and adequate access to the sources of
+         information on the basis of which the third country in question was designated as a
+         safe country of origin.
+
+    · The national court or tribunal may take into account information which it collected
+         itself, provided that the information is reliable and the adversarial principle is
+         observed.
+
+2. National lists
+
+In response to the CJEU ruling forbidding exceptions based on categories of persons, the
+Dutch asylum authority stopped applying the safe countries of origin concept on 5 August
+2025 to Armenia, Brazil, Ghana, Jamaica, Morocco, Senegal, Serbia and Tunisia. However, on
+23 September 2025, the Minister for Asylum and Migration communicated its decision in a
+letter to the House of Representative to suspend temporarily the application of the entire
+national list of safe countries of origin until an EU-wide list of safe countries of origin comes
+into effect with the entry into application of the Pact. This means that the accelerated
+procedure is no longer applied to applicants from previously designated safe countries of
+origin, although the Minister highlighted that the determining authority may still prioritise the
+processing of such applications.
+
+On 3 December 2025, Belgium updated its list of safe countries of origin by Royal Decree. It
+added Morocco to the list and removed Moldova and India.
+
+No other revisions to national lists of safe countries of origin and safe third countries have
+been observed in the reference period.
+
+                                                                   5
+SITUATIONAL UPDATE NO 23
+
+Tables 1, 2 and 3 present information that is available on countries applying safe country
+concepts.
+Table 1 presents countries implementing a list of safe countries of origin, and Table 3 presents
+countries applying the safe third country concept. The information is presented alphabetically
+by country of origin/third country (rows) and by reporting EU+ country (columns). The blue
+squares indicate the designation of the country of origin/third country as safe.
+Information in the tables also indicates the total number of EU+ countries which apply the
+concepts and presents the number of countries which are considered safe countries by
+EU+ country. EU Member States designated as safe are not taken into account in the count.
+For countries not bound by the recast APD ­ namely Denmark, Iceland, Ireland, Norway and
+Switzerland ­ a similar national legal framework applies. References to these countries should
+be read in relation to the applicable national legal framework.
+Table 2 provides an overview of EU+ countries that implement exceptions to the safe country
+of origin concept based on geographical areas or specific applicant profiles from a given
+country of origin. The overview reflects the information found in the laws and regulations of
+the countries. However, EU Member States which include exceptions in their legislation may
+not apply them in practice following CJEU jurisprudence3 which declared the practice to be
+unlawful under the recast Asylum Procedures Directive. This has been the case in the
+Netherlands, where the government temporarily suspended the application of the entire
+concept pending the introduction of the Pact. This does not apply to EU+ countries applying
+exceptions, including Denmark, Norway and Switzerland, as they do not fall under the
+jurisdiction of the CJEU.
+
+3 European Union, Court of Justice of the European Union [CJEU], CV v Ministerstvo vnitra Ceské republiky, Odbor
+azylové a migracní politiky, C-406/22, ECLI:EU:C:2024:841, 04 October 2024 and LC [Alace] and CP
+[Canpelli] v Territorial Commission of Rome, Joined cases C-758/24 and C-759/24, ECLI:EU:C:2025:260, 1 August
+2025. Links redirect to the English summary in the EUAA Case Law Database.
+
+                                                                   6
+        SITUATIONAL UPDATE NO 24
+
+        Table 1. National lists of safe countries of origin                                         Country included in national list
+                                                                                                    Country included in national list with exceptions
+
+                          Total number of  AT  BE BG CH CY  CZ DE  DK  EE     EL  FR HR HU  IS  IE  IT LU MT NL4 NO5 SE                                         SI SK
+Country of origin EU+ countries
+
+                                           27 7 22 14 27 25 10 19 8 16 13 10 15 18 15 19 11 25 18 33 7 17 15
+
+Albania      21
+
+Algeria      10
+
+Angola       1
+
+Argentina    1
+
+Armenia      9
+
+Australia    8
+
+Azerbaijan   1
+
+Bangladesh   6
+
+Barbados     1
+
+Benin        5
+
+Bosnia and   20
+Herzegovina
+
+Botswana     3
+
+Brazil       3
+
+Canada       8
+
+Cabo Verde   4
+
+Chile        3
+
+Costa Rica   2
+
+Cuba         1
+
+Egypt        6
+
+EU Member
+                                    8
+
+States
+
+        4 The application of the Dutch list has been temporarily suspended as of September 2025, pending the entry into application of the Pact.
+        5 Norway does not have a formal list of safe countries of origin but applies an accelerated 48-hour procedure to the countries included in this table.
+
+                                                                           7
+        SITUATIONAL UPDATE NO 23
+
+                          Total number of  AT  BE BG CH CY  CZ DE  DK  EE     EL  FR HR HU  IS  IE  IT LU MT NL4 NO5 SE  SI SK
+Country of origin EU+ countries
+
+Faroe Islands    1
+
+Gabon            1
+
+Gambia           4
+
+Georgia          17
+
+Ghana            14
+
+Iceland          7
+
+India            10
+
+Israel           1
+
+Côte d'Ivoire    1
+
+Jamaica          2
+
+Japan            5
+
+Jordan           1
+
+Kazakhstan       1
+
+Kenya            2
+
+Kosovo           19
+
+Liechtenstein    9
+
+Malawi           1
+
+Mauritius        2
+
+Moldova          9
+
+Monaco           2
+
+Mongolia         9
+
+Montenegro       20
+
+Morocco          12
+
+Namibia          2
+
+Nepal            3
+
+New Zealand      8
+
+Nigeria          1
+
+North Macedonia  20
+
+                                                                           8
+                                                                                  OVERVIEW OF THE IMPLEMENTATION OF SAFE COUNTRY CONCEPTS
+
+                          Total number of  AT  BE BG CH CY  CZ DE  DK  EE     EL  FR HR HU  IS  IE  IT LU MT NL4 NO5 SE  SI SK
+Country of origin EU+ countries
+
+Norway          7
+
+Pakistan        3
+
+Peru            1
+
+Philippines     1
+
+Senegal         12
+
+Serbia          20
+
+Seychelles      1
+
+South Africa    3
+
+South Korea     1
+
+Sri Lanka       2
+
+Switzerland     7
+
+Tanzania        2
+
+Togo            2
+
+Tunisia         10
+
+Türkiye         4
+
+United Kingdom
+
+and Northern    7
+
+Ireland
+
+Uruguay         2
+
+USA             8
+
+Vatican City    1
+
+Vietnam         1
+
+                                                                           9
+SITUATIONAL UPDATE NO 24
+
+Table 2. Exceptions to the application of the safe country of origin
+concept
+
+  Country of origin                                            Profiles exempted
+Armenia
+                        · LGBTIQ applicants (NL)
+Benin                   · People who are likely to be placed in criminal detention (NL)
+Bosnia and Herzegovina  · Territorial exception: Nagorno-Karabakh (EE ­ applied also to safe third country
+Botswana
+Brazil                      concept)
+
+Georgia                 · Women (LU)
+Ghana
+                        · Territorial exception: Republika Srpska (EE ­ applied also to safe third country concept)
+India
+                        · LGBTIQ applicants (NO)
+Jamaica
+Kosovo                  · Journalists who report on corruption, crime or are critical of the government (NL)
+Moldova                 · Environmental activists who actively oppose (illegal) mining and land development in
+Morocco
+                            areas where they occur (NL)
+Namibia                 · LGBTIQ applicants (NL)
+Senegal
+Serbia                  · LGBTIQ applicants (NL, DK)
+Tanzania                · Territorial exception: Abkhazia and South Ossetia ((EE ­ applied also to safe third
+
+                            country concept, NL)
+
+                        · LGBTIQ applicants (NL, NO)
+                        · Journalists (NL)
+                        · Women (LU)
+                        · Girls under 18 years old (NO)
+                        · Applicants who faced forced marriage (NO)
+
+                        · Religious minorities who have experienced persecution as a result (NL)
+                        · Dalit women (including girls) (NL)
+                        · Journalists and individuals who have been critical of the government and government
+
+                            policy and have experienced persecution as a result, including (human rights) activists,
+                            academics and demonstrators (NL)
+                        · Single women (NO)
+                        · Territorial exception: Jammu and Kashmir (NL)
+
+                        · LGBTIQ applicants (NL)
+
+                        · Minorities (NO)
+
+                        · Territorial exception: Transnitria (CH)
+
+                        · LGBTIQ applicants (NL)
+                        · (Online) journalists and (human rights) activists who criticise Islam, the royal family or
+
+                            the Moroccan government, including the government's official position on Western
+                            Sahara (NL)
+                        · The Hirak Rif activists and journalists who reported on the situation in the Rif Mountains
+                            and the demonstrations there (NL)
+                        · People who are facing criminal prosecution with legal safeguards not guaranteed in
+                            their individual case (NL)
+
+                        · LGBTIQ applicants (NO)
+
+                        · LGBTIQ applicants (NL)
+                        · People who are facing criminal prosecution with legal safeguards not guaranteed in
+
+                            their individual case (NL)
+
+                        · LGBTIQ applicants (NL)
+                        · Journalists (NL)
+                        · People who are likely to be placed in criminal detention (NL)
+
+                        · Girls under 18 years old (NO)
+                        · LGBTIQ applicants (NO)
+
+                          10
+Tunisia                      OVERVIEW OF THE IMPLEMENTATION OF SAFE COUNTRY CONCEPTS
+USA
+         · Applicants who faced forced marriage (NO)
+         · Applicants with albinism (NO)
+         · LGBTIQ applicants (NL)
+         · People who can plausibly demonstrate that they have received a `S17 measure' in their
+
+             name (NL)
+         · Journalists, activists and political opponents who criticised the president or
+
+             government (NL)
+         · People who are facing criminal prosecution without guaranteed legal safeguards in
+
+             their individual case (NL)
+         · Territorial exception: States which do not apply the death penalty (HU ­ applied also to
+
+             safe third country concept)
+
+         11
+     SITUATIONAL UPDATE NO 23
+
+     Table 3. National lists of safe third countries
+
+                        Total number of EU+
+
+Country of origin       countries            CH  DE   EE  EL  HU                                     IE
+
+                                             3   2    8   3   15                                     1
+
+Albania                 3
+
+Armenia                 1
+
+Australia               1
+
+Bosnia and Herzegovina  2
+
+Canada                  1
+
+EU Member States        3
+
+Georgia                 1
+
+Iceland                 2
+
+Kosovo                  2
+
+Liechtenstein           2
+
+Montenegro              2
+
+New Zealand             1
+
+North Macedonia         3
+
+Norway                  3
+
+Serbia                  2
+
+Switzerland             2
+
+Türkiye                 2
+
+United Kingdom and
+
+Northern Ireland        1
+
+USA                     1
+
+         For more information, consult the Who is Who in International Protection in the EU+
+         platform. The platform is updated on a regular basis and includes information on
+         national lists (including designated exceptions), the relevant authorities responsible for
+         the implementation of the safe country concepts, and links to the relevant national
+         legislative acts, where applicable, for each EU+ country.
+         Additionally, relevant case law on safe country concepts is available on the EUAA Case
+         Law Database, using the relevant search tags: safe country concept, safe country of
+         origin, safe third country and first country of asylum.
+
+                                                                       12
+

@@ -1,0 +1,13 @@
+# OEP country-clearance report, Italy (country_id 85), 2023 by month, queried 2026-11-10
+2023-01-01 to 2023-01-31: Italy total_employee 548 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-01-31&country_id%5B%5D=85&gender_id=)
+2023-02-01 to 2023-02-28: Italy total_employee 724 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-02-01&approval_date_to=2023-02-28&country_id%5B%5D=85&gender_id=)
+2023-03-01 to 2023-03-31: Italy total_employee 833 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-03-01&approval_date_to=2023-03-31&country_id%5B%5D=85&gender_id=)
+2023-04-01 to 2023-04-30: Italy total_employee 312 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-04-01&approval_date_to=2023-04-30&country_id%5B%5D=85&gender_id=)
+2023-05-01 to 2023-05-31: Italy total_employee 530 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-05-01&approval_date_to=2023-05-31&country_id%5B%5D=85&gender_id=)
+2023-06-01 to 2023-06-30: Italy total_employee 2670 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-06-01&approval_date_to=2023-06-30&country_id%5B%5D=85&gender_id=)
+2023-07-01 to 2023-07-31: Italy total_employee 4043 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-07-01&approval_date_to=2023-07-31&country_id%5B%5D=85&gender_id=)
+2023-08-01 to 2023-08-31: Italy total_employee 3666 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-08-01&approval_date_to=2023-08-31&country_id%5B%5D=85&gender_id=)
+2023-09-01 to 2023-09-30: Italy total_employee 1884 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-09-01&approval_date_to=2023-09-30&country_id%5B%5D=85&gender_id=)
+2023-10-01 to 2023-10-31: Italy total_employee 1371 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-10-01&approval_date_to=2023-10-31&country_id%5B%5D=85&gender_id=)
+2023-11-01 to 2023-11-30: Italy total_employee 206 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-11-01&approval_date_to=2023-11-30&country_id%5B%5D=85&gender_id=)
+2023-12-01 to 2023-12-31: Italy total_employee 59 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-12-01&approval_date_to=2023-12-31&country_id%5B%5D=85&gender_id=)

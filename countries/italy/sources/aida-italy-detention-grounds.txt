@@ -1,0 +1,446 @@
+PAGE META: article:modified_time: 2026-08-03T12:09:12+00:00
+
+Grounds for detention - Asylum Information Database | European Council on Refugees and Exiles
+
+Skip to content
+
+Asylum Information Database | European Council on Refugees and Exiles
+
+Grounds for detention
+
+Italy
+
+Country Report: 
+Grounds for detention
+
+Last updated: 14/09/26
+
+Author
+
+                        ASGI                                                    
+Visit Website
+
+According to article 14 TUI, amended by Decree Law 130/2020, the Questore asks the Department of Public Security of the Ministry of the Interior to which facility a third country national should be assigned. Furthermore, Decree Law 130/2020 has established a priority to be given to the detention of foreigners who are dangerous to public order and security or who have been convicted even with a non-definitive sentence for an offence impeding entry,
+[1]
+ and that a priority has to be given in any case to citizens of countries with which repatriation agreements exist.
+[2]
+
+In its report to Parliament of June 2023, the Guarantor for the rights of detained persons expressed concern on the fact that many people had been detained without legal basis, and in fact a significant number had been released based on court decisions.
+[3]
+
+As of 31 December 2024, out of 6,164 people who passed through the CPRs, 1,746 (28%) were released because the detention was not considered legitimate by the Judge. 2,987 (44%) people were repatriated.
+[4]
+
+Asylum detention
+
+Asylum applicants shall not be detained for the sole reason of the examination of their application.
+[5]
+ An asylum applicant shall be detained in CPR, on the basis of a case by case evaluation. As a result of the amendments made by the Decree Law 130/2020 converted into Law 173/2020 and by DL 20/2023 converted into L. 50/2023 these cases arise when:
+[6]
+
+(a)
+
+They fall under the exclusion clauses laid down in Article 1F of the 1951 Convention, following a decision of the CNDA; or under Article 12 (1, b, c) and under Article 16 of the Qualification Decree.
+[7]
+
+(a bis)
+
+They submit a subsequent application during the execution of a removal order, according to Article 29 bis Procedure Decree.
+[8]
+
+(b)
+
+They are issued an expulsion order on the basis that they constitutes danger to public order or state security,
+[9]
+ or are suspected of being affiliated to a mafia-related organisation, have conducted or financed terrorist activities, have cooperated in selling or smuggling weapons or habitually conducts any form of criminal activity,
+[10]
+ including with the intention of committing acts of terrorism;
+[11]
+
+(c)
+
+May represent a danger for public order and security or in case of crimes mentioned by Article 12 (1, c) and 16 (1, d bis) Qualification Decree and regarding some exclusion clauses.
+[12]
+ According to the law, to assess such a danger, previous convictions, final or non-final, may be taken into account, including the conviction adopted following the enforcement of the penalty at the request of the party pursuant to Article 444 of the Italian Criminal Procedure Code, in relation to certain serious crimes, to drug crimes, sexual crimes, facilitation of illegal immigration, recruiting of persons for prostitution, exploitation of prostitution and of children to be used in illegal activities.
+
+(d)
+
+It is necessary to determine the elements on which the application for international protection is based which could not be acquired without detention and there is a risk of absconding.
+[13]
+
+The assessment of such risk is made on a case by case basis, when the applicant has previously and systematically provided false declarations or documents on their personal data in order to avoid the adoption or the enforcement of an expulsion order, or when the applicant has not complied with alternatives to detention such as, stay in an assigned place of residence determined by the competent authority or reporting at given times to the competent authority.
+[14]
+
+Following Decree Law 13/2017, implemented by L 46/2017, and the subsequent Decree Law 130/2020, converted into L 173/2020, repeated refusal to undergo fingerprinting at hotspots or on the national territory also constitutes a criterion indicating a risk of absconding.
+[15]
+
+The elements to take into account to evaluate the existence of the risk of absconding are equivalent to those provided by article 13, par. 4-bis, Legislative Decree 286/1998 for cases of administrative expulsion. In particular:
+
+❖         the absence of a passport or other equivalent document;
+
+❖         having previously declared or falsely attested one’s personal details;
+
+❖         failure to comply with a previous detention order;
+
+❖         violation of the measures ordered in the event of the granting of a time limit for voluntary departure.
+
+Dublin detention
+
+Law 50/2023, which came into force on 5 May 2023 converting with amendments DL 20/2023, introduced the possibility to detain asylum applicants during the Dublin procedure.
+
+The new Article 6-ter of the Reception Decree foresees the possibility to detain asylum applicants awaiting the Dublin transfer when there is a significant risk of absconding and unless alternative measures to detention can apply.
+[16]
+ The risk is assessed on a case-by-case basis case and can be considered to exist when the applicant has escaped a first transfer attempt or when one of the following conditions occurs:
+
+Lack of a travel document;
+
+Lack of a reliable address;
+
+Failure to present oneself to the authorities;
+
+Lack of financial resources;
+
+Systematic false declarations about personal data.
+
+Detention cannot last beyond the time strictly necessary for the execution of the transfer. The detention validation decision allows the stay in the centre for a total period of six weeks. In the event of serious difficulties in carrying out the transfer, the judge, at the request of the police commissioner, may extend the detention for an additional thirty days, up to a maximum of six additional weeks. Before the expiry of this term, the Questore can carry out the transfer by notifying the judge without delay.
+[17]
+
+In a case decided on 19 August 2023 by the Civil Court of Trieste, the detention was validated considering that the asylum applicant was ‘homeless, moving along the national territory without financial resources, and was the recipient of multiple criminal complaints.
+[18]
+
+Pre-removal detention
+
+The Reception Decree also provides that:
+
+(e)
+
+Third-country nationals who apply for asylum when they are already held in CPR and are waiting for the enforcement of a return order pursuant to Article 10 TUI or an expulsion order pursuant to Articles 13 and 14 TUI shall remain in detention when, in addition to the above-mentioned reasons, there are reasonable grounds to consider that the application has been submitted with the sole reason of delaying or obstructing the enforcement of the expulsion order.
+[19]
+
+Detention for identification purposes
+
+Furthermore, a 2018 amendment to the Reception Decree has added that:
+
+(f)
+
+Asylum applicants may be detained in hotspots or first reception centres for the purpose of establishing their identity or nationality, including through the use of photo fingerprinting operations and the verification of databases.
+[20]
+ If the determination or verification of identity or nationality is not possible in those premises, they can be transferred to a CPR.
+[21]
+
+Although the new Article 6(3-bis) of the Reception Decree foresees the possibility of detention for identification purposes in specific places, such places are not identified by law. In a Circular issued on 27 December 2018, the Ministry of Interior specified that it will be the responsibility of the Prefectures in whose territories such structures are found to identify special facilities where this form of detention could be performed. At the time of writing, there is no information on the identification of these premises.
+
+As those dedicated premises have never been identified, detention for identification purposes occurs de facto in hotspots.
+[22]
+ In 
+Lampedusa
+, ASGI and other civil society organisations have reported that the centre gate is constantly closed and migrants are able to leave the centre only through openings in the fence, regularly adjusted by the administration and then reopened by migrants. More broadly, people taken to Lampedusa are 
+de facto
+ detained on the island, considering that they cannot purchase a title of travel and leave without an identity document.
+[23]
+
+While the law does not clarify the procedure relating to the validation of this form of detention, the Ministry of Interior Circular of 27 December 2018 generically refers to validation by the judicial authority. According to ASGI, the same procedure envisaged for other grounds for detention of asylum applicants should apply to these cases.
+
+In addition, the law does not specify in which cases the need for identification arises, thus linking detention not to the conduct of the applicant but to an objective circumstance such as the lack of identity documents.
+
+According to ASGI, the new detention ground represents a violation of the prohibition on detention of asylum applicants for the sole purpose of examining their application under see Article 8(1) of the recast Reception Conditions Directive. People fleeing their countries often do not have identification documents and cannot contact the authorities of the countries of origin as this could be interpreted as re-availing themselves of the protection of that country.
+
+The number of persons entering the hotspots in 2025 was not available at the time of writing. As of 31 December 2024, 77,267 people entered the hotspots, of whom 11,785 were minors.
+[24]
+ In 2024, out of 6,164 persons detained in CPRs, 84 (1%) were released given that they were not identified in the timeframe foreseen by the law.
+[25]
+
+[1]
+          According to Article 4 (3) and 5 (5) TUI.
+
+[2]
+          Article 14 (1.1) TUI.
+
+[3]
+
+Report to Parliament Annexes to the yearly report of the National Guarantor for the rights of detained persons
+, June 2022, available at: 
+https://rb.gy/alzvet
+.
+
+[4]
+          See the Action Aid project Trattenuti. Una radiografia del sistema detentivo per stranieri, available in Italian 
+here
+.
+
+[5]
+          Article 6(1) Reception Decree.
+
+[6]
+          Article 6(2) Reception Decree.
+
+[7]
+          Decree Law 130/2020 converted by L. 173/2020 has amended Article 6 (2(a)) Reception Decree, enlarging the exclusion clauses to be referred to detain asylum seekers.
+
+[8]
+          Introduced by Decree Law 130/2020 converted by L 173/2020.
+
+[9]
+          Article 13(1) TUI.
+
+[10]
+         Article 13(2)(c) TUI.
+
+[11]
+         Article 3(1) Decree Law 144/2005, implemented by L 155/2005.
+
+[12]
+         Article amended by Decree Law 130/2020 converted by L 173/2020
+
+[13]
+         Article 6(2) lett. d), amended by Decree Law 20/2023 converted by L. 50/2023.
+
+[14]
+         Article 13 (4bis)(a, c, d, e), 13(5.2) and 14 to which Article 6 Reception Decree refers.
+
+[15]
+         Article 10-ter(3) TUI, inserted by Decree Law 13/2017 and L 46/2017.
+
+[16]
+         Article 6 ter (1) of the Reception Decree introduced by L. 50/2023 converting into law with amendments the DL 20/2023.
+
+[17]
+         Article 6 ter (2 and 3) of the Reception Decree introduced by L. 50/2023 converting into law with amendments the DL 20/2023.
+
+[18]
+         Civil Court of Trieste, decision of 19 August 2023, procedure no.3333/2023
+
+[19]
+         Article 6(3) Reception Decree.
+
+[20]
+         Provision of Decree Law 20/23, converted in L. 50/23.
+
+[21]
+         Article 6(3-bis) Reception Decree, inserted by Article 3 Decree Law 113/2018 and L 132/2018 amended by DL 130/2020 and L. 173/2020 and DL 20/23 and L 50/23.
+
+[22]
+         Guarantor for the rights of detained persons, 
+Relazione al Parlamento
+, 15 June 2018, available in Italian at: 
+http://bit.ly/2TZy9ol
+, 233.
+
+[23]
+         ASGI et al., 
+Hotspot di Lampedusa: sempre più un luogo di confinamento
+, August 2021, available in Italian at: 
+https://bit.ly/3Js3OVu
+.
+
+[24]
+
+Report to Parliament National Guarantor for the rights of detained persons
+, June 2026relating to 2024 and supplemented by data from 2025, available in Italian 
+here
+.
+
+[25]
+         See the Action Aid project Trattenuti. Una radiografia del sistema detentivo per stranieri, available in Italian 
+here
+.
+
+Italy
+
+Table of contents
+
+Statistics
+
+Overview of the legal framework
+
+Overview of the main changes since the previous report update
+
+Asylum Procedure
+
+General
+
+Flow chart
+
+Types of procedures
+
+List of authorities intervening in each stage of the procedure
+
+Number of staff and nature of the first instance authority
+
+Short overview of the asylum procedure
+
+Access to the procedure and registration
+
+Access to the territory and push backs
+
+Preliminary checks of third country nationals upon arrival
+
+Hotspots
+
+Registration of the asylum application
+
+Procedures
+
+Regular procedure
+
+Dublin
+
+Admissibility procedure
+
+Border procedure (border and transit zones)
+
+Accelerated procedure
+
+National protection statuses and return procedure
+
+Immediate procedure
+
+Guarantees for vulnerable groups
+
+Identification
+
+Special procedural guarantees
+
+Use of medical reports
+
+Legal representation of unaccompanied children
+
+Subsequent applications
+
+The safe country concepts
+
+Safe country of origin
+
+Safe third country
+
+First country of asylum
+
+Information for asylum seekers and access to NGOs and UNHCR
+
+Provision of information on the procedure
+
+Access to NGOs and UNHCR
+
+Differential treatment of specific nationalities in the procedure
+
+Reception Conditions
+
+Short overview of the reception system
+
+Access and forms of reception conditions
+
+Criteria and restrictions to access reception conditions
+
+Forms and levels of material reception conditions
+
+Reduction or withdrawal of reception conditions
+
+Freedom of movement
+
+Housing
+
+Types of accommodation
+
+Conditions in reception facilities
+
+Employment and education
+
+Access to the labour market
+
+Access to education
+
+Health care
+
+Special reception needs of vulnerable groups
+
+Information for asylum seekers and access to reception centres
+
+Provision of information on reception
+
+Access to reception centres by third parties
+
+Differential treatment of specific nationalities in reception
+
+Detention of Asylum Seekers
+
+General
+
+Legal framework of detention
+
+Grounds for detention
+
+Alternatives to detention
+
+Detention of vulnerable applicants
+
+Duration of detention
+
+Detention conditions
+
+Place of detention
+
+Conditions in detention facilities
+
+Access to detention facilities
+
+Procedural safeguards
+
+Judicial review of the detention order
+
+Legal assistance for review of detention
+
+Differential treatment of specific nationalities in detention
+
+Content of International Protection
+
+Status and residence
+
+Residence permit
+
+Civil registration
+
+Long-term residence
+
+Naturalisation
+
+Cessation and review of protection status
+
+Withdrawal of protection status
+
+Family reunification
+
+Criteria and conditions
+
+Status and rights of family members
+
+Movement and mobility
+
+Freedom of movement
+
+Travel documents
+
+Housing
+
+Employment and education
+
+Access to the labour market
+
+Access to education
+
+Social welfare
+
+Health care
+
+ANNEX I – Transposition of the CEAS in national legislation
+
+Annex II – EU Pact on Migration and Asylum
+
+Map data © 2013 Basarsoft, Google, INEGI, MapLink, ORION-ME – 
+Terms of Use
+
+Twitter
+
+Facebook
+
+                Copyright © 2026, all rights reserved.
+

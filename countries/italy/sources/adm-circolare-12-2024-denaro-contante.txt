@@ -1,0 +1,362 @@
+DIREZIONE DOGANE           Roma, 07/05/20242
+UFFICIO CONTROLLI DOGANE
+
+Prot.: 259343/RU185979/RU
+
+                                         CIRCOLARE N. 12/2024
+
+     INDICAZIONI IN MATERIA DI CONTROLLI SUL DENARO CONTANTE IN
+      ENTRATA O IN USCITA DAL TERRITORIO NAZIONALE A NORMA DEL
+
+                REGOLAMENTO (UE) 2018/1672 E DEL D.LGS. N. 195/2008.
+
+PREMESSA
+
+Nell'ottica di prevenire il riciclaggio e il finanziamento del terrorismo, le disposizioni unionali e
+nazionali relative alle movimentazioni transfrontaliere di "denaro contante" hanno istituito un
+solido sistema di controlli nei confronti delle persone fisiche, in entrata o in uscita
+dall'Unione/territorio nazionale, che recano con sé denaro contante di importo pari o superiore
+ai 10 000 euro1.
+
+In particolare, sia per le movimentazioni in entrata o in uscita dall'Unione europea (art. 3 Reg.
+(UE) 2018/1672) sia per le movimentazioni in entrata o in uscita dal territorio nazionale (art. 3
+del D.lgs. n. 195 del 2008) è prevista la presentazione di apposita dichiarazione al primo
+ufficio doganale di confine.
+
+La previsione dell'obbligo di presentazione della dichiarazione nasce dall'esigenza di effettuare
+una rilevazione globale delle movimentazioni di capitali; l'infrazione amministrativa conseguente
+alla mera omissione della presentazione della dichiarazione2 si perfeziona a prescindere da
+eventuali ulteriori profili di illiceità di rilievo amministrativo e/o penale correlati al trasferimento
+del contante.
+
+Illiceità che, nei casi in cui vi siano indizi di una possibile correlazione tra il denaro e le attività
+criminose contemplate dalla normativa di settore3, possono riguardare anche casistiche relative a
+trasferimenti di somme inferiori alla soglia sopra indicata per i quali non è richiesta la citata
+dichiarazione.
+
+1 ovvero il controvalore in altre valute.
+2 ovvero l'errata indicazione degli elementi della dichiarazione/informativa.
+3 Cfr. art. 1 del Reg. (UE) 2018/1672: "Il presente regolamento prevede un sistema di controlli sul denaro contante in entrata
+nell'Unione o in uscita dall'Unione, al fine di completare il quadro giuridico per la prevenzione del riciclaggio e del
+finanziamento del terrorismo di cui alla direttiva (UE) 2015/849".
+
+                                                       00143 ­ Roma, Via Carucci 71
+                                                              +39 06 50246423
+
+                           dir.dogane.controlli@pec.adm.gov.it / dir.dogane.controlli.dogane@adm.gov.it
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+
+In considerazione, quindi, dell'importanza di tali ultime informazioni per l'analisi dei rischi e per
+la valutazione dei controlli da attivare, sia l'art. 6 del citato Regolamento unionale 1672/20184 sia
+l'art. 4, comma 7 del D.lgs. 195/2008 prevedono la conservazione delle informazioni acquisite
+da parte dell'Agenzia.
+
+Ai fini della presentazione della dichiarazione valutaria (per importi uguali o superiori a
+euro 10.000), nonostante la non coincidenza tra la normativa unionale e quella nazionale,
+al fine di semplificare l'attività dei dichiaranti, è stato predisposto un unico modello di
+dichiarazione da compilare in maniera differenziata5, come di seguito evidenziato, per le
+dichiarazioni in entrata o in uscita dal territorio nazionale verso i paesi dell'Unione
+Europea o verso quelli non unionali. In relazione, proprio, all'attuale disallineamento
+normativo tra la disciplina unionale e quella nazionale, alcune strutture territoriali hanno
+rappresentato dubbi interpretativi relativi a taluni profili applicativi delle disposizioni vigenti,
+aventi ad oggetto, in particolare, le seguenti tematiche:
+
+1) definizione di denaro contante;
+2) oro da investimento;
+3) frazionamento elusivo;
+4) trasferimento per sé stessi e per conto di accompagnatori;
+5) soggetti minorenni;
+6) termini per la contestazione negli accertamenti ex post;
+7) gestione delle somme sequestrate.
+
+Al fine di uniformare l'azione amministrativa e assicurare parità di trattamento su tutto il territorio
+nazionale nei confronti dei soggetti interessati dalle attività di controllo, anche all'esito di un
+attento confronto con gli organi di livello sovranazionale a tale scopo preposti, si forniscono i
+seguenti chiarimenti.
+
+    1) DEFINIZIONE DI DENARO CONTANTE
+
+Normativa unionale - operazioni di trasferimento in entrata/uscita dall'UE
+In base alla definizione recata dall'art. 2, par. 1, del Regolamento (UE) 2018/1672, direttamente
+applicabile nell'ordinamento nazionale, rientrano nel concetto di "denaro contante":
+
+i) la valuta, ossia: "banconote e monete che sono in circolazione come mezzo di scambio, o che lo sono state e
+    possono ancora essere scambiate, tramite istituti finanziari o banche centrali, con banconote e monete che sono
+    in circolazione come mezzo di scambio";
+
+ii) gli strumenti negoziabili al portatore, ossia: "strumenti diversi dalla valuta che autorizzano i loro
+    portatori a esigere il pagamento di una somma di denaro dietro presentazione dello stesso, senza dover provare
+
+4 Art. 6, par. 1, Reg. (UE) 2018/1672 "Qualora rilevino un portatore con denaro contante di importo inferiore alla soglia di
+cui all'articolo 3 e indizi che denotano che tale denaro è correlato ad attività criminose, le autorità competenti registrano tale
+informazione, unitamente alle informazioni elencate all'articolo 3, paragrafo 2".
+5 in considerazione delle differenze dettate da un lato dal D.lgs. n. 195 del 2008 e dall'altro dal Reg. (UE) 2018/1672.
+
+                                                                        2
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+
+    la propria identità o diritto di disporne. Tali strumenti sono: assegni turistici (o «traveller's cheque») e assegni,
+    vaglia cambiari o ordini di pagamento emessi al portatore, firmati ma privi del nome del beneficiario, girati
+    senza restrizioni, a favore di un beneficiario fittizio, ovvero emessi altrimenti in forma tale che il relativo titolo
+    passi all'atto della consegna";
+iii) i beni utilizzati come riserve altamente liquide di valore, ossia: "beni, elencati al punto 1
+    dell'allegato I, che presentano un rapporto elevato tra il loro valore e il loro volume e che possono essere
+    facilmente convertiti in valuta nei mercati accessibili, con costi di transazione assolutamente modesti" (ovvero
+    le monete con un tenore in oro di almeno il 90 % e i lingotti sotto forma di barre, pepite o
+    aggregati con un tenore in oro di almeno il 99,5 %.);
+iv) le carte prepagate, ossia: "carta non nominativa, elencata al punto 2 dell'allegato I, che contiene valore
+    in moneta o liquidità, o che vi dà accesso, che può essere usata per operazioni di pagamento, per l'acquisto di
+    beni o servizi o per la restituzione di valuta, qualora non collegata a un conto corrente".
+    In relazione alle carte prepagate si osserva che il punto 2 dell'allegato I al Regolamento non
+    fornisce alcuna specificazione delle carte prepagate che possono essere ricondotte alla
+    nozione di denaro contante. Per poter essere incluse in tale definizione occorre l'adozione di
+    un atto delegato che disponga in tal senso6, finora non emanato.
+    Pertanto, ad oggi, sebbene le carte prepagate siano incluse nella definizione di denaro
+    contante non vi è obbligo di dichiararle.
+
+Normativa nazionale - trasferimento tra lo Stato italiano e gli altri Stati Membri dell'UE
+Sulla scorta della norma definitoria di cui all'art. 1, comma 1, lett. c) del D.lgs. n. 195/20087,
+rientrano nel concetto di "denaro contante" esclusivamente:
+
+ i) "le banconote e le monete metalliche aventi corso legale";
+ ii) "gli strumenti negoziabili al portatore, compresi gli strumenti monetari emessi al
+
+    portatore quali traveller's cheque; gli strumenti negoziabili, compresi assegni, effetti all'ordine
+    e mandati di pagamento, emessi al portatore, girati senza restrizioni, a favore di un
+    beneficiario fittizio o emessi altrimenti in forma tale che il relativo titolo passi alla consegna;
+    gli strumenti incompleti, compresi assegni, effetti all'ordine e mandati di pagamento, firmati
+    ma privi del nome del beneficiario".
+
+Il c.d. oro da investimento e le monete non aventi corso legale (che possono ancora essere
+scambiate con banconote e monete in circolazione) non sono pertanto, ad oggi, soggetti agli
+obblighi dichiarativi valutari di cui all'art. 3 del D.lgs. n. 195/2008.
+
+Ciò posto, nell'ambito dei controlli sui viaggiatori intra unionali, in caso di rinvenimento di beni
+non dichiarati, non rientranti nella definizione di "denaro contante", pur non realizzandosi una
+violazione del D.lgs. n. 195/2008, come sopra precisato, possono rilevare altre eventuali condotte
+illecite in violazione di specifiche norme doganali o di settore.
+
+6 Il Regolamento (UE) 2018/1672 prevede all'articolo 2, paragrafo 2, il potere della Commissione di adottare atti delegati al
+fine di modificare l'allegato I per tener conto delle nuove tendenze in materia di riciclaggio di denaro o finanziamento del
+terrorismo, o per tener conto delle migliori pratiche di prevenzione del riciclaggio o del finanziamento del terrorismo oppure
+per impedire l'uso da parte di criminali di merci utilizzate come riserve di valore altamente liquide e di carte prepagate.
+7 Ovvero nelle more dell'allineamento della disciplina nazionale a quella unionale.
+
+                                                                        3
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+
+2) ORO DA INVESTIMENTO
+In relazione alle movimentazioni unionali o extra-unionali di oro, deve farsi riferimento alle
+disposizioni recate dalla L. n. 7/2000 e dal Provvedimento del 14 luglio 2000 dell'UIC (ora UIF)
+che prevedono l'obbligo di dichiarare tutte le operazioni in oro nonché i trasferimenti al seguito
+da e verso l'estero di oro di valore pari o superiore a euro 12.500. In particolare:
+
+    · i trasferimenti, al seguito, dall'estero, relativi a un dato mese di riferimento, devono essere
+        segnalati alla UIF entro la fine del mese successivo a quello nel quale l'operazione è stata
+        compiuta;
+
+    · le operazioni di trasferimento, al seguito, verso l'estero, devono essere comunicate alla
+        UIF prima dell'attraversamento della frontiera (dichiarazioni preventive)8. In tali
+        casistiche, copia della dichiarazione e del documento che ne attesta l'avvenuta trasmissione
+        devono accompagnare l'oro al momento dell'attraversamento della frontiera.
+
+Ai fini dell'accertamento delle violazioni degli obblighi dichiarativi previsti in materia di oro,
+l'art.4, comma 2 della L. n. 7/2000 rimanda al D.P.R. 1988, n. 1489 nonché alle disposizioni della
+L. n. 689/1981, in quanto compatibili. Le violazioni concernenti le movimentazioni di oro
+devono essere comunicate dagli Uffici delle dogane alla UIF e per conoscenza all'Ufficio controlli
+dogane della scrivente Direzione.
+
+3) FRAZIONAMENTO ELUSIVO
+Con riferimento alla tematica del frazionamento (smurfing), si evidenziano due distinte fattispecie
+elusive degli obblighi dichiarativi valutari.
+
+La prima consiste nel frazionamento della somma complessiva oggetto del trasferimento, di
+importo pari o superiore a 10.000 euro, in due o più operazioni, ciascuna di importo inferiore alla
+suddetta soglia, che si verificano in un arco temporale ravvicinato, in modo sistematico o ripetuto
+nel tempo (ad esempio, due o più operazioni nell'arco della stessa giornata/settimana/mese).
+
+La seconda consiste, invece, nel frazionamento della somma complessiva trasportata, di importo
+pari o superiore a 10.000 euro, tra due o più componenti dello stesso gruppo (ad esempio
+familiari).
+
+In relazione ad entrambe le condotte deve osservarsi, in linea generale, che la giurisprudenza di
+merito ha in più occasioni ritenuto che, ai fini dell'applicazione della sanzione, l'unicità
+dell'operazione è riscontrabile laddove il frazionamento del passaggio alla frontiera è effettuato
+ad evidente scopo elusivo della norma. In particolare, è stato sottolineato, che "l'unicità della
+
+8 Cfr. Comunicazione UIF per l'invio delle dichiarazioni oro del 1° agosto 2014 (https://uif.bancaditalia.it/dotAsset/94bc2716-
+2d5d-4677-9e10-abbd8f55fa9c.pdf)
+9 In particolare, art. 28 "Obbligo di esibizione e sequestro amministrativo".
+
+                                                                        4
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+
+movimentazione della somma non viene meno per tale suo artificioso frazionamento, tenuto conto della finalità
+della normativa in esame di sorvegliare la movimentazione di contanti tramite l'apposita dichiarazione". 10
+
+Considerato, infatti, che la finalità della norma è quella di contrastare l'introduzione dei proventi
+di attività illecite nel sistema economico e finanziario attraverso il monitoraggio e la sorveglianza
+dei movimenti transfrontalieri di denaro contante, appare coerente avere riguardo all'operazione
+di movimentazione di contanti in sé e per sé senza che, ad esempio, il momentaneo affidamento11 di
+parte del denaro ad accompagnatori possa eludere l'applicazione della stessa.
+
+Ai fini della verifica dell'unicità dell'operazione, il personale preposto potrà avvalersi delle
+dichiarazioni rilasciate dai soggetti controllati12 nonché di ogni altro elemento informativo
+acquisito direttamente13 o indirettamente per mezzo di altre Autorità.14
+
+In assenza di elementi idonei a dimostrare l'unicità dell'operazione, non dovrà procedersi alla
+contestazione della violazione dell'obbligo di cui all' art. 3 del D.lgs. 195/2008.15
+
+4) TRASFERIMENTO PER SÉ STESSI E PER CONTO DI ACCOMPAGNATORI
+Ipotesi opposta rispetto a quella del frazionamento tra soggetti dello stesso gruppo, è quella
+relativa al trasporto da parte di un individuo di denaro contante di un importo uguale o superiore
+alla somma di 10.000 euro, oltre che per sé stessi, anche per conto di altri soggetti
+accompagnatori.
+
+Al riguardo, appare opportuno richiamare la definizione di "portatore" recata dall'art. 2, par. 2,
+lett. h) del Reg. (UE) 2018/1672 inteso come "qualunque persona fisica che, in entrata nell'Unione o in
+uscita dall'Unione, porti denaro contante con sé, nel bagaglio o nel mezzo di trasporto" e dall'art. 3 del D.lgs.
+195/2008 come "chiunque".
+
+Sulla scorta della richiamata definizione deve pertanto ritenersi che in caso di rinvenimento sul
+passeggero, nel suo bagaglio e/o mezzo di trasporto di denaro contante di importo uguale o
+superiore alla somma di 10.000 euro, il funzionario procede all'accertamento della violazione, a
+prescindere dalla titolarità/riferibilità di una parte delle somme ad altri soggetti accompagnatori.16
+
+10 Tribunale di Como, 2577/2018, Trib. Velletri 2951/2015; Trib. Salerno 3020/15, Trib. Ravenna 669/15; Trib. Novara
+321/15; Trib. Treviso 163/2016.
+11 L'affidamento (del denaro contante) può considerarsi momentaneo se effettuato in occasione del passaggio alla frontiera.
+12 Ad esempio, il soggetto sottoposto a controllo dichiara che lo scopo delle diverse operazioni attuate in tempi ravvicinati o
+contestualmente da diversi soggetti, è quello, di trasportare somme complessive di importo pari o superiore a 10.000 euro.
+13 Mediante utilizzo di banche dati o altri elementi riscontrati direttamente dai funzionari doganali.
+14 Ad esempio, Agenzia delle Entrate, Guardia di Finanza, etc...
+15Ad esempio, nel caso in cui ciascun passeggero, appartenente allo stesso gruppo, trasporti con sé, nel proprio bagaglio e/o
+mezzo di trasporto, un importo inferiore a 10.000 euro non è ravvisabile, al momento del passaggio alla frontiera, una
+violazione dell'obbligo dichiarativo. Tuttavia, laddove successivamente emerga che trattasi di movimentazioni frazionate al
+solo scopo elusivo della norma, ben potrà procedersi alla contestazione ex post.
+16 Soggetto all'obbligo dichiarativo, infatti, è sempre il "portatore".
+
+                                                                        5
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+
+5) SOGGETTI MINORENNI
+Come sopra precisato, gli obblighi dichiarativi derivanti dal Reg. (UE) 2018/1672 e dal
+D.lgs.195/2008 si applicano a "qualunque persona fisica" che entra o esce dall'Unione/territorio
+nazionale, che trasporta denaro contante di valore pari o superiore a 10.000 euro con sé, nel
+proprio bagaglio o mezzo di trasporto.
+
+A tal proposito, le Istruzioni per la compilazione del modulo di dichiarazione, Sez. 2, "Dettagli
+relativi al portatore del denaro contante", al par. 2, chiaramente dispongono che "se il portatore del
+denaro contante non è giuridicamente capace di firmare la dichiarazione, questa è presentata dal suo rappresentante
+legale".17
+
+Di conseguenza, l'obbligo del portatore di dichiarare il denaro contante all'atto
+dell'ingresso o dell'uscita dal territorio nazionale o dall'UE si applica anche al soggetto
+minorenne, per il tramite del suo rappresentante legale al quale, ove possibile, devono
+essere consegnati immediatamente eventuali atti di contestazione delle violazioni di
+norme valutarie ovvero successivamente notificati secondo quanto previsto dall'art. 14
+della L. n. 689/1981.
+
+Nel caso in cui, invece, il portatore maggiorenne reca con sé un importo maggiore o uguale a
+10.000 euro, affermando che una parte è riferibile ad un soggetto minore da egli accompagnato,
+lo stesso deve compilare la dichiarazione valutaria indicando sé stesso come portatore e
+riportando, nelle caselle relative, il minore proprietario della somma secondo le rispettive
+appartenenze.
+
+Tanto premesso, nei casi in cui un soggetto maggiorenne portatore di un somma maggiore o
+uguale a 10.000 euro non abbia prodotto la dichiarazione valutaria, adducendo che parte del
+denaro è di proprietà di un minore da lui stesso accompagnato, il funzionario, all'atto del
+rinvenimento del denaro contante (sul passeggero, ovvero nel suo bagaglio e/o mezzo di
+trasporto), procederà all'accertamento della violazione a prescindere dalla titolarità/riferibilità di
+una parte delle somme al soggetto minorenne in questione.
+
+6) TERMINI PER LA CONTESTAZIONE NEGLI ACCERTAMENTI EX POST
+
+Come è noto, in virtù del richiamo operato dall'art. 4, comma 4 del D.lgs. n. 195/2008 all'art. 29
+del D.P.R. 31 marzo 1988, n. 148, l'atto di contestazione delle violazioni di norme valutarie
+punibili con sanzioni amministrative deve essere consegnato immediatamente all'interessato;
+quando la consegna immediata non è possibile, l'atto di contestazione deve essere notificato
+secondo quanto previsto dall'art. 14 della L. n. 689/1981.
+
+17 Regolamento di esecuzione (UE) 2021/776 della Commissione che stabilisce modelli per determinati moduli e norme
+tecniche per l'effettivo scambio di informazioni a norma del regolamento (UE) 2018/1672.
+
+                                                                        6
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+
+Tale ultimo articolo prevede che "gli estremi della violazione sono notificati agli interessati residenti nel
+territorio della Repubblica entro il termine di novanta giorni e a quelli residenti all'estero entro il termine di
+trecentosessanta giorni dall'accertamento".
+
+Si osserva che, nel caso di accertamento delle infrazioni valutarie effettuato ex post18, il termine di
+90 giorni (ovvero 360 giorni) per l'accertamento della violazione deve farsi decorrere dal
+momento in cui l'autorità competente per l'accertamento della violazione valutaria (ossia ADM)
+ha materialmente appreso la notizia del fatto da cui si è potuta dedurre la violazione della norma.
+Solo da tale momento, infatti, il soggetto competente per l'accertamento della violazione può
+compiere la sua attività di verifica e valutare e ponderare adeguatamente gli elementi acquisiti.19
+
+7) GESTIONE DELLE SOMME SEQUESTRATE
+
+L'art. 6 del D.lgs. 195/2008 stabilisce che il denaro contante sequestrato garantisce, con
+preferenza rispetto ad ogni altro credito, il pagamento delle sanzioni amministrative pecuniarie
+ed affluisce, ai sensi del comma 7 del citato articolo, al Fondo unico di giustizia.20
+
+Il comma 8 prevede, inoltre, che a conclusione del procedimento sanzionatorio, il denaro
+contante sequestrato è restituito all'avente diritto che ne faccia richiesta entro cinque anni dalla
+data del sequestro, nella misura in cui lo stesso non sia stato utilizzato per il pagamento delle
+sanzioni irrogate.
+
+Appare opportuno precisare che con l'adozione del provvedimento di sequestro il denaro
+contante deve ritenersi da subito vincolato per il successivo versamento al Fondo unico di
+giustizia e dunque non nella disponibilità dell'Ufficio delle dogane che lo ha disposto (in tal senso,
+vedasi Protocollo di intesa MEF ­ Equitalia Giustizia Spa21).
+
+Si evidenzia, inoltre, che in caso di sequestro di "valuta" diversa dall'euro, come stabilito al punto
+3.2 del citato Protocollo di intesa, l'Ufficio deve provvedere alla negoziazione della stessa e al
+versamento del controvalore con le modalità previste per il denaro contante costituito da euro.
+
+Si coglie, infine, l'occasione per osservare che ogni successivo atto inerente alla gestione delle
+somme vantate dal trasgressore non rientra nella competenza dell'Agenzia ma dell'Autorità
+competente per l'irrogazione della sanzione, dalla quale, tra l'altro, come disposto dal comma 6
+dell'articolo in questione, l'interessato può ottenere la restituzione del denaro sequestrato anche
+nelle more della definizione del procedimento sanzionatorio, previo deposito presso la Tesoreria
+provinciale dello Stato di apposita cauzione o fideiussione.
+
+18 Ad esempio, su segnalazione dell'Agenzia delle Entrate nelle ipotesi di compravendita di autoveicoli e motoveicoli all'estero
+laddove, a fronte di una richiesta di immatricolazione di un bene mobile, sia stata resa una dichiarazione di acquisto con denaro
+contante di importo maggiore o uguale a 10.000 euro, pur in assenza della dichiarazione valutaria ai sensi del d.lgs. 195/2008.
+19 Cass. 7681/2014; Cass. 8456/2006.
+20 di cui all'articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto
+2008, n. 133.
+21 Protocollo d'intesa MEF ­ Equitalia Giustizia Spa
+
+                                                                        7
+DIREZIONE DOGANE
+UFFICIO CONTROLLI DOGANE
+Qualora l'Ufficio delle dogane sia a conoscenza di ulteriori debiti, ancorché non definitivi22, che
+il medesimo soggetto ha anche nei confronti di altra Amministrazione Finanziaria dello Stato,
+deve avere cura di trasmettere la documentazione relativa a tali ulteriori debiti al Ministero
+dell'Economia e delle Finanze23 per l'eventuale adozione dei provvedimenti di competenza in
+ordine alla restituzione del denaro.
+
+                                           *****************
+Le Direzioni territoriali vigileranno sull'esatto adempimento, da parte degli Uffici dipendenti,
+delle indicazioni recate dalla presente circolare, non mancando di fornire ogni istruzione
+integrativa necessaria al corretto espletamento dei controlli di specie e segnaleranno
+tempestivamente ogni eventuale difficoltà di carattere operativo.
+
+                                                                  IL DIRETTORE CENTRALE
+                                                                         Claudio Oliviero
+                                                                         firmato digitalmente
+
+22Ad esempio, atti di contestazione o di irrogazione di sanzioni o provvedimenti con i quali vengono accertati maggiori tributi.
+23 Competente per l'irrogazione della sanzione ai sensi dell'art. 8 del d.lgs. 195/2008.
+
+                                                                        8
+

@@ -1,0 +1,9 @@
+Regulation (EU) 2024/1348 of the European Parliament and of the Council of 14 May 2024 establishing a common procedure for international protection in the Union (Asylum Procedure Regulation), OJ L, 2024/1348, 22.5.2024. EUR-Lex HTML text.
+
+Excerpts quoted verbatim from https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401348 (Firecrawl scrape, directQuote mode, 10 November 2026). Only these passages were saved.
+
+Time limits for the accelerated examination procedure (Article 35): The determining authority shall conclude the accelerated examination procedure as soon as possible and no later than three months from the date on which the application is lodged.
+
+Article 42(1), point (j): the applicant is of a nationality or, in the case of stateless persons, a former habitual resident of a third country for which the proportion of decisions by the determining authority granting international protection is, according to the latest available yearly Union-wide average Eurostat data, 20 % or lower, unless the determining authority assesses that a significant change has occurred in the third country concerned since the publication of the relevant Eurostat data or that the applicant belongs to a category of persons for whom the proportion of 20 % or lower cannot be considered to be representative for their protection needs, taking into account, inter alia, the significant differences between first instance and final decisions.
+
+Border procedure provision: By way of derogation from Article 28 of this Regulation, applications subject to a border procedure shall be lodged no later than five days from registration for the first time or, following a transfer pursuant to Article 67(11) of Regulation (EU) 2024/1351, five days from when the applicant arrives in the Member State of relocation following such a transfer provided that the applicant is given an effective opportunity to do so.

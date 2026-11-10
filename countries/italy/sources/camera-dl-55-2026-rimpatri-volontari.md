@@ -1,0 +1,5 @@
+# Checking your browser before accessing temi.camera.it
+
+This process is automatic. Your browser will redirect to requested content shortly. Please allow upto 1 seconds.
+
+# 

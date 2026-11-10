@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+html{
+--color-primary-bg:#00A63E;
+--color-primary-light:#2DAB5B;
+--color-primary-dark:#008532;
+--color-primary-text:#ffffff;
+--color-secondary-bg:#DC2626;
+--color-secondary-light:#FEF2F2;
+--color-secondary-dark:#ED3131;
+--color-secondary-text:#ffffff;
+--color-normal-bg:#ffffff;
+--color-normal-light:#f0f0f0;
+--color-normal-dark:#e0e0e0;
+--color-normal-text:#000000;
+--color-dark-bg:#000000;
+--color-dark-light:#202020;
+--color-dark-dark:#404040;
+--color-dark-text:#ffffff;
+--color-success-bg:#28a745;
+--color-success-text:#ffffff;
+--color-danger-bg:#dc3545;
+--color-danger-text:#dc3545;
+--color-warning-bg:#FF6600;
+--color-warning-text:#FF6600;
+--color-info-bg:#17a2b8;
+--color-info-text:#ffffff;
+--color-link-normal:#1568b2;
+--color-link-dark:#1b81dd;
+--color-border-normal:#d0d0d0;
+--color-border-dark:#909090;
+--color-widget-title:#202B5D;
+--color-widget-subtitle:#62718D;
+--color-content-dark:#1E202C;
+--color-content-normal:#313545;
+--background-primary-image:url(/site-assets/images/bg.png);
+--background-primary-repeat:repeat;
+--background-primary-position:center center;
+--background-primary-color:#ffffff;
+--background-secondary-image:url(/site-assets/images/bg.png);
+--background-secondary-repeat:repeat;
+--background-secondary-position:center center;
+--background-secondary-color:#ffffff;
+--container-small:600px;
+--container-medium:900px;
+--container-large:1200px;
+--spacing-small:8px;
+--spacing-medium:16px;
+--spacing-large:24px;
+--radius-small:4px;
+--radius-medium:8px;
+--radius-large:16px;
+--shadow-small:0px 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium:0px 4px 8px rgba(0, 0, 0, 0.1);
+--shadow-large:0px 8px 16px rgba(0, 0, 0, 0.1);
+--text-small:0.75rem;
+--text-medium:0.9rem;
+--text-large:1.25rem;
+--font-heading-en:Roboto-Regular, sans-serif;
+--font-heading-bn:NotoSansBengali-Regular, sans-serif;
+--font-primary-en:Roboto-Regular, sans-serif;
+--font-primary-bn:NotoSansBengali-Regular, sans-serif;
+--font-secondary-en:Roboto-Regular, sans-serif;
+--font-secondary-bn:NotoSansBengali-Regular, sans-serif;
+--typography-h1-font-family:var(--font-heading);
+--typography-h1-font-weight:700;
+--typography-h1-font-size:32px;
+--typography-h1-line-height:1.2;
+--typography-h2-font-family:var(--font-heading);
+--typography-h2-font-weight:700;
+--typography-h2-font-size:28px;
+--typography-h2-line-height:1.2;
+--typography-h3-font-family:var(--font-heading);
+--typography-h3-font-weight:600;
+--typography-h3-font-size:24px;
+--typography-h3-line-height:1.5;
+--typography-h4-font-family:var(--font-heading);
+--typography-h4-font-weight:500;
+--typography-h4-font-size:20px;
+--typography-h4-line-height:1.5;
+--typography-h5-font-family:var(--font-heading);
+--typography-h5-font-weight:500;
+--typography-h5-font-size:18px;
+--typography-h5-line-height:1.5;
+--typography-h6-font-family:var(--font-heading);
+--typography-h6-font-weight:400;
+--typography-h6-font-size:16px;
+--typography-h6-line-height:1.5;
+--typography-body-font-family:var(--font-primary);
+--typography-body-font-weight:400;
+--typography-body-font-size:14px;
+--typography-body-line-height:1.2;
+--typography-p-font-family:var(--font-primary);
+--typography-p-font-weight:400;
+--typography-p-font-size:14px;
+--typography-p-line-height:1.2;
+--typography-a-font-family:var(--font-secondary);
+--typography-a-font-weight:400;
+--typography-a-font-size:14px;
+--typography-a-line-height:1.2;
+}
+html,html[lang="en"]{
+--font-heading:Roboto-Regular, sans-serif;
+--font-primary:Roboto-Regular, sans-serif;
+--font-secondary:Roboto-Regular, sans-serif;
+}
+html[lang="bn"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+
+/* ===== CONTAINER ===== */
+body{overflow-x:hidden;}
+.col{flex:0 0 auto;}
+.container-row,.widget-container-row{
+  --col-gutter-x: var(--spacing-medium);
+  --col-gutter-y:0;
+  /*
+  --col-gutter-y: var(--spacing-medium);
+  */
+  display:flex;
+  flex-wrap:wrap;
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-right:calc(-.5 * var(--col-gutter-x));
+  margin-left:calc(-.5 * var(--col-gutter-x))
+  /*
+  width:calc(100% + var(--col-gutter-x));
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-left:calc(-1 * var(--col-gutter-x));
+  */
+}
+.container-row>*,.widget-container-row>*{
+  box-sizing:border-box;
+  flex-shrink:0;
+  width:100%;
+  max-width:100%;
+  padding-right:calc(var(--col-gutter-x) * .5);
+  padding-left:calc(var(--col-gutter-x) * .5);
+  margin-top:var(--col-gutter-y)
+  /*
+  width:calc(100% - var(--col-gutter-x));
+  max-width:calc(100% - var(--col-gutter-x));
+  margin-top:var(--col-gutter-y);
+  margin-left:var(--col-gutter-x);
+  */
+}
+
+@media (min-width:600px) {
+  .container-col-1{width:8.3333%;}
+  .container-col-2{width:16.666%;}
+  .container-col-3{width:25%;}
+  .container-col-4{width:33.333%;}
+  .container-col-5{width:41.666%;}
+  .container-col-6{width:50%;}
+  .container-col-7{width:58.333%;}
+  .container-col-8{width:66.666%;}
+  .container-col-9{width:75%;}
+  .container-col-10{width:83.333%;}
+  .container-col-11{width:91.666%;}
+  .container-col-12{width:100%;}
+}
+
+  </style>
+  <!-- analytics script -->
+  <!-- Matomo Id n/a -->
+  <script defer data-domain="milan.mofa.gov.bd" src="https://analytics-plausible.portal.gov.bd/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <link rel="stylesheet" href="/site-assets/css/phosphor.css">
+  <link rel="stylesheet" href="/site-assets/css/phosphor-fill.css">
+  <link rel="stylesheet" href="/site-assets/css/index.css">
+  <link rel="stylesheet" href="/widget-assets/css/TopHeaderBlockWidget">
+  <link rel="stylesheet" href="/widget-assets/css/SimpleHeaderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/LanguageSwitcherWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusSliderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EmbassyBannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/BannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/SocialContentShareWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionPopupWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionFormWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentViewerWidget">
+  <link rel="stylesheet" href="/widget-assets/css/PrintWidget">
+  <link rel="stylesheet" href="/widget-assets/css/AccessibilityWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GoToTopWidget">
+  <link rel="stylesheet" href="/widget-assets/css/TitleWithImageContentWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentDetailsWidget">
+  <link rel="stylesheet" href="/widget-assets/css/NewLandingFooterWidget">
+  <style>/* END */</style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+
+  <!-- RENDERING 6922f81a003631e6b5c0eb12 : 1794297116910 -->
+  <title>Hospital Visit And Repatriation Of Poor & Sick Expatriates | Pages | Consulate General of the People’s Republic of Bangladesh, Milan</title>
+  <meta name="description" content=""/>
+  <meta name="keywords" content="Hospital Visit And Repatriation Of Poor & Sick Expatriates, Pages, Consulate General of the People’s Republic of Bangladesh, Milan, http://milan.mofa.gov.bd, Bangladesh, Bangladesh National Portal, Government of the People's Republic of Bangladesh, গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <link rel="canonical" href="http://milan.mofa.gov.bd/pages/static-pages/6952668d35ce18e1c05a9fca"/>
+  <link rel="icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/png" href="/site-assets/images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="http://milan.mofa.gov.bd/site-assets/images/favicon.png"/>
+  <meta name="author" content="Consulate General of the People’s Republic of Bangladesh, Milan"/>
+  <meta property="fb:app_id" content="..............."/>
+  <meta property="og:url" content="http://milan.mofa.gov.bd/pages/static-pages/6952668d35ce18e1c05a9fca"/>
+  <meta property="og:site_name" content="Consulate General of the People’s Republic of Bangladesh, Milan"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:article:section" content="Hospital Visit And Repatriation Of Poor & Sick Expatriates | Pages | Consulate General of the People’s Republic of Bangladesh, Milan"/>
+  <meta property="og:article:author" content="Consulate General of the People’s Republic of Bangladesh, Milan"/>
+  <meta property="og:article:tag" content="Consulate General of the People’s Republic of Bangladesh, Milan"/>
+  <meta property="og:article:tag" content="Bangladesh"/>
+  <meta property="og:article:tag" content="Bangladesh National Portal"/>
+  <meta property="og:article:tag" content="Government of the People's Republic of Bangladesh"/>
+  <meta property="og:article:tag" content="গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <meta property="og:title" content="Hospital Visit And Repatriation Of Poor & Sick Expatriates | Pages | Consulate General of the People’s Republic of Bangladesh, Milan"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="687"/>
+  <meta property="og:image:height" content="570"/>
+  <meta property="og:image:secure_url" content="http://milan.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta property="og:image" content="http://milan.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div class="container">
+  <div class="header"><div data-section_type="header" class="droppable">
+        <div data-widget_type="widget" data-widget_name="TopHeaderBlockWidget" class="widget top-header-block-widget"> <div class="top-header-block-widget-content"> <rt-renderer><marquee class="custom-marquee" direction="left" scrollamount="7" xonmouseover="this.stop()" xonmouseout="this.start()"><p> </p><p> </p><p><span style="color:#c62828;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-size:20px"><strong>Office Hours: Monday to Friday : 9:00 AM – 5:00 PM (excluding government holidays); Consular Service Schedule - Application Submission : 9:30 AM – 12:50 PM; Document Delivery : 2:30 PM – 04:50 PM ; </strong></span><a href="https://drive.google.com/file/d/1f4YjuwX3zOtB-_Xce89Tw5rkcVd17e57/view"><span style="color:#c62828;font-family:Nikosh;font-size:20px"><i><strong> </strong></i></span></a><a href="https://drive.google.com/file/d/13SaR-jPUOIqU993xWsm3BIBBeLS6RHmM/view?usp=sharing"><span style="color:#d32f2f;font-family:Nikosh;font-size:20px"><strong>*</strong></span><span style="color:#c62828;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-size:20px"><strong><u>Details</u></strong></span><span style="color:#c62828;font-family:Nikosh;font-size:20px"><strong><u> </u></strong></span><span style="color:#c62828;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-size:20px"><strong><u>Schedule</u></strong></span><span style="font-family:Nikosh;font-size:13.0pt"><span style="line-height:115%"> </span></span><span style="color:#d32f2f;font-family:Nikosh;font-size:20px"><strong>*</strong></span></a><span style="font-family:Nikosh;font-size:13.0pt"><span style="line-height:115%"> </span></span><span style="color:#c62828;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-size:20px"><strong>Help Desk Hours: Monday to Friday Morning: 11:30 AM – 12:30 PM; Afternoon: 4:00 PM – 5:00 PM</strong></span><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>.</strong></span></p><p> </p><p><span style="background-color:#bbdefb;font-size:22px"><strong>VIDEO: </strong></span><a href="https://webtv.un.org/en/asset/k14/k14qd4qot4"><span style="background-color:#bbdefb;font-size:22px"><strong>General Assembly: 30th plenary meeting, 81st session</strong></span></a></p></marquee><marquee class="custom-marquee" direction="left" scrollamount="7" xonmouseover="this.stop()" xonmouseout="this.start()"> </marquee><marquee class="custom-marquee" direction="left" scrollamount="7" xonmouseover="this.stop()" xonmouseout="this.start()"> </marquee><marquee class="custom-marquee" direction="left" scrollamount="7" xonmouseover="this.stop()" xonmouseout="this.start()"> </marquee><marquee class="custom-marquee" direction="left" scrollamount="7" xonmouseover="this.stop()" xonmouseout="this.start()"> </marquee><marquee class="custom-marquee" direction="left" scrollamount="7" xonmouseover="this.stop()" xonmouseout="this.start()"> </marquee></rt-renderer> </div> </div>
+         <div data-widget_type="widget" data-widget_name="SimpleHeaderWidget" class="widget simple-header-widget"> <div class="simple-header-container"> <div class="simple-header-left"> <a href="/" class="logo-link"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-title-wrapper"> <a class="header-title" href="/" title="Consulate General of the People’s Republic of Bangladesh, Milan"> <span class="title-text"> Consulate General of the People’s Republic of Bangladesh, Milan </span> </a> </div> </div> <div class="simple-header-right"> <div class="date-section"> <i class="ph ph-calendar-dots"></i> <span class="date-text">10 / 11 / 2026, 08:51 am</span> </div> <div class='widget language-switcher-widget'> <input type="hidden" name="lang" id="6729216839" value="en" /> <button type="button" id="1526476668" data-type="en" class="btn-lang-change" onclick="window.toggleLanguage('1526476668', '6729216839')"> বাংলা </button> </div> </div> </div> </div> 
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="MenusSliderWidget" class="widget menus-slider-widget max-view"> <div class="expand-btn home-btn" style="display: none"> <a href="/" title="Home"><i class="ph ph-house"></i></a> </div> <div class="expand-btn prev-btn" style="display: none"> <span title="Previous"><i class="ph ph-arrow-fat-left"></i></span> </div> <div class="menus-widget-container" style="--home-label:'Home';"> <section class="widget menu-widget"> <span id="menu-toggle" class="hamburger-menu-block"> <icon class="hamburger-menu ph ph-list"></icon> <span>Select Menu</span> </span> <ul class="menu-list menu-parent-unordered-list custom-items-center"> <li class="megamenu-link "> <a class="menu-parent-list-link home-link" href="/"> </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" About us" href="" class="menu-parent-list-link"> About us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" About us" class="menu-child-title"> <a title="About us" href="#"> <div>About us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Consul General" class="menu-sub-child-link" href="/pages/static-pages/6952667335ce18e1c05a9312" > <div>Consul General</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Roll of Honour" class="menu-sub-child-link" href="/pages/static-pages/6952667b35ce18e1c05a977b" > <div>Roll of Honour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" List of Officers" class="menu-sub-child-link" href="/pages/officers-profile" > <div>List of Officers</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Consular Service Hours" class="menu-sub-child-link" href="/pages/office-contents" > <div>Consular Service Hours</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Bilateral Relation" href="" class="menu-parent-list-link"> Bilateral Relation <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Bilateral Relation" class="menu-child-title"> <a title="Bilateral Relation" href="#"> <div>Bilateral Relation</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" History of Bangladesh Relation" class="menu-sub-child-link" href="" > <div>History of Bangladesh Relation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Political Relation" class="menu-sub-child-link" href="/pages/static-pages/not_found" > <div>Political Relation</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Trade, Commerce, and Investment" class="menu-sub-child-link" href="" > <div>Trade, Commerce, and Investment</div> </a> </li> <li class="menu-sub-child-list"> <a title=" People to People Contact" class="menu-sub-child-link" href="" > <div>People to People Contact</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Relation with Accredited Countries" class="menu-sub-child-link" href="" > <div>Relation with Accredited Countries</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Consular" href="" class="menu-parent-list-link"> Consular <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Consular" class="menu-child-title"> <a title="Consular" href="#"> <div>Consular</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Time Schedule for Consular service" class="menu-sub-child-link" href="/pages/static-pages/time-scheduling-for-consular-services-n0tz2e-6aeb7c9dbeb49f0d2b3ba6ad" > <div>Time Schedule for Consular service</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Consular fee payment system" class="menu-sub-child-link" href="#" > <div>Consular fee payment system</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Welfare Services" class="menu-child-title"> <a title="Welfare Services" href="#"> <div>Welfare Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Wage earners&#39; welfare card" class="menu-sub-child-link" href="/pages/static-pages/wage-earners-welfare-board-membership-registration-ea69d1-6952668735ce18e1c05a9d12" > <div>Wage earners&#39; welfare card</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Repatriation of Dead Body" class="menu-sub-child-link" href="#" > <div>Repatriation of Dead Body</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" News &amp; Events" href="" class="menu-parent-list-link"> News &amp; Events <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" News &amp; Events" class="menu-child-title"> <a title="News &amp; Events" href="#"> <div>News &amp; Events</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Bangladeshi Newspaper" class="menu-sub-child-link" href="https://www.allbanglanewspaper.xyz" > <div>Bangladeshi Newspaper</div> </a> </li> <li class="menu-sub-child-list"> <a title=" News Link" class="menu-sub-child-link" href="/pages/news" > <div>News Link</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Press Release" class="menu-sub-child-link" href="/pages/press-releases" > <div>Press Release</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Photo Gallery" class="menu-sub-child-link" href="/pages/photo-galleries" > <div>Photo Gallery</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Video Gallery" class="menu-sub-child-link" href="/pages/static-pages/6952667935ce18e1c05a95f4" > <div>Video Gallery</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Contact Us" href="" class="menu-parent-list-link"> Contact Us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Contact Us" class="menu-child-title"> <a title="Contact Us" href="#"> <div>Contact Us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" FAQ" class="menu-sub-child-link" href="https://drive.google.com/file/d/1Z2T1oP8Kc0YSnMrhp99O_evhNd4pm-UG/view?usp=sharing" > <div>FAQ</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Location of Consulate General" class="menu-sub-child-link" href="https://www.google.com/maps/place/Consulate+General+of+Bangladesh/@45.451735,9.1525411,15z/data=!4m5!3m4!1s0x0:0xe14ef34dabc0a4ef!8m2!3d45.451735!4d9.1525411" > <div>Location of Consulate General</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Address" class="menu-sub-child-link" href="/pages/static-pages/695266b235ce18e1c05aad4f" > <div>Address</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Write to Consular General" class="menu-sub-child-link" href="/pages/web-forms/not_found" > <div>Write to Consular General</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Suggestion/Grievance Redress" class="menu-sub-child-link" href="" > <div>Suggestion/Grievance Redress</div> </a> </li> </ul> </div> </div> </li> </ul> </section> </div> <div class="expand-btn next-btn" style="display: none"> <span title="Next"><i class="ph ph-arrow-fat-right"></i></span> </div> </section> 
+            </div>
+        </div>
+        <div data-widget_type="widget" data-widget_name="EmbassyBannerSliderImageWidget" class="widget embassy-banner-slider-image-widget"> <div class="widget banner-slider-image-widget"> <div class="home-carousel"> <div class="slider-overlay widget-container-row"> <div class="slider-left container-col-4"> <a href="/"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-left-section"> <h1><a style="text-decoration: none" href="/" class="office-title"> Consulate General of the People’s Republic of Bangladesh, Milan </a></h1> <!--<p class="office-subtitle">Government of the People's Republic of Bangladesh</p>--> <p class="office-subtitle"></p> </div> </div> <!-- <div class="container-col-4">--> <!-- <p class="office-caption">--> <!-- </p>--> <!-- </div>--> <div class="slider-controls container-col-4"> <button class="nav-btn slider-previous"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.7868L1.79976 6.88151L6.70508 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> <button class="nav-btn slider-play"> <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6445 20.8813C13.2967 20.8813 15.8402 19.8278 17.7156 17.9524C19.591 16.0771 20.6445 13.5335 20.6445 10.8813C20.6445 8.22918 19.591 5.68564 17.7156 3.81028C15.8402 1.93492 13.2967 0.881348 10.6445 0.881348C7.99237 0.881348 5.44883 1.93492 3.57346 3.81028C1.6981 5.68564 0.644531 8.22918 0.644531 10.8813C0.644531 13.5335 1.6981 16.0771 3.57346 17.9524C5.44883 19.8278 7.99237 20.8813 10.6445 20.8813ZM10.0883 7.34135C9.90003 7.21575 9.68121 7.14361 9.45518 7.13263C9.22914 7.12165 9.00436 7.17224 8.80482 7.27901C8.60529 7.38577 8.43848 7.5447 8.32219 7.73884C8.2059 7.93298 8.1445 8.15504 8.14453 8.38135V13.3813C8.1445 13.6077 8.2059 13.8297 8.32219 14.0239C8.43848 14.218 8.60529 14.3769 8.80482 14.4837C9.00436 14.5905 9.22914 14.641 9.45518 14.6301C9.68121 14.6191 9.90003 14.5469 10.0883 14.4213L13.8383 11.9213C14.0095 11.8072 14.1498 11.6525 14.2469 11.4711C14.344 11.2897 14.3948 11.0871 14.3948 10.8813C14.3948 10.6756 14.344 10.473 14.2469 10.2916C14.1498 10.1102 14.0095 9.9555 13.8383 9.84135L10.0883 7.34135Z" fill="currentColor" /> </svg> </button> <button class="nav-btn slider-next"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.58447 11.7868L6.48979 6.88151L1.58447 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> </div> </div> </div> </div> </div>
+        
+    </div></div>
+  <div class="wrapper">
+    <div class="body"><div data-section_type="body" class="droppable">
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">Click to share this content</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>Give your opinion</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>Give your opinion</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">Your Name</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="Enter Your Name"
+        />
+        <small class="error-message" hidden>
+          Name is required
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Email</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="Enter Your Email"
+        />
+        <small class="error-message" hidden>
+          Enter a valid email address
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Contact Number</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="Enter Your Contact Number"
+        />
+        <small class="error-message" hidden>
+          Enter a valid phone number (e.g. 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Write your opinion</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          Opinion must be at least 20 characters
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">Submit</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <!--<script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>-->
+  <script src="/site-assets/js/ckeditor5-41.4.2-classic-ckeditor.min.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+                <div data-widget_type="widget" data-widget_name="ContentViewerWidget" class="widget content-viewer-widget" data-sub-widget="TitleWithImageContentWidget"> <div class="content-update-block"> <p> This content was last updated on: Sunday, January 16, 2022 at 01:49 AM </p> </div> <div class="widget print-widget"> <div></div> <div onclick="window._print_content(this);" title="Print" class="print-btn"><i class="ph ph-printer"></i></div> </div> <div class="widget title-with-image-content-widget"> <h2> Hospital visit and repatriation of poor &amp; sick expatriates </h2> <p class="chips"> <span class="basic-chip">Content: Pages</span> </p> <div class="image-list"> </div> <rt-renderer encoded-content="PHA+PHN0cm9uZz7gpqrgp43gprDgpqzgpr7gprjgp4Ag4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka24Ka/4KawIOCmruCng+CmpOCmpuCnh+CmuSDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgp4cg4Kaq4KeN4Kaw4KeH4Kaw4Kaj4KaDPC9zdHJvbmc+PC9wPgoKPHA+PHN0cm9uZz7CoDwvc3Ryb25nPjwvcD4KCjxwPuCmh+CmpOCmvuCmsuCmv+CmpOCnhyDgpqzgprjgpqzgpr7gprjgprDgpqQg4KaV4KeL4KaoIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtuCmvyDgpofgpqTgpr7gprLgpr/gpqTgp4cg4Kau4KeD4Kak4KeN4Kav4KeB4Kas4Kaw4KajIOCmleCmsOCmsuCnhyDgpqTgpr7gpoHgprAg4Kau4KeD4Kak4Kam4KeH4Ka5IOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtuCnhyDgpqrgp43gprDgpqTgp43gpq/gpr7gpqzgprjgpqjgp4fgprAg4Kac4Kao4KeN4KavIOCmpuCnguCmpOCmvuCmrOCmvuCmuCDgprngpqTgp4cg4Kas4Ka/4Kao4Ka+IOCmq+Cmvy3gpqTgp4cg4KaF4Kao4Ka+4Kaq4Kak4KeN4Kak4Ka/IOCmquCmpOCnjeCmsCAoTnVsbGEgT3N0YSkg4KaH4Ka44KeN4Kav4KeBIOCmleCmsOCmviDgprngp5/gpaQg4Kau4KeD4KakIOCmrOCnjeCmr+CmleCnjeCmpOCmvyDgppPgp5/gp4fgppwg4KaG4Kaw4KeN4Kao4Ka+4Kaw4KeN4Ka4IOCmleCmsuCnjeCmr+CmvuCmoyDgpqzgp4vgprDgp43gpqHgp4fgprAg4Ka44Kam4Ka44KeN4KavIOCmueCnn+CnhyDgpqXgpr7gppXgprLgp4cg4Kak4Ka+4KawIOCmruCng+CmpOCmpuCnh+CmuSDgpqrgprDgpr/gpqzgprngpqjgp4fgprAg4Kas4Ka/4Kau4Ka+4KaoIOCmreCmvuCnnOCmviDgpqbgp4LgpqTgpr7gpqzgpr7gprgg4Kas4Ka54KaoIOCmleCmsOCnhyDgpqXgpr7gppXgp4fgpaQg4KaP4Kab4Ka+4Kec4Ka+IOCmruCng+CmpCDgpqzgp43gpq/gppXgp43gpqTgpr/gprAg4Kaq4Kaw4Ka/4Kas4Ka+4KawIOCmhuCmsOCnjeCmpeCmv+CmleCmreCmvuCmrOCnhyDgpoXgprjgp43gpqzgpprgp43gppvgprIg4Ka54Kay4KeHIOCmruCng+CmpCDgpqzgp43gpq/gppXgp43gpqTgpr8g4KaT4Kef4KeH4KacIOCmhuCmsOCnjeCmqOCmvuCmsOCnjeCmuCDgppXgprLgp43gpq/gpr7gpqMg4Kas4KeL4Kaw4KeN4Kah4KeH4KawIOCmuOCmpuCmuOCnjeCmryDgpqjgpr4g4Ka54Kay4KeH4KaTIOCmhuCmrOCnh+CmpuCmqOCnh+CmsCDgpqrgp43gprDgp4fgppXgp43gprfgpr/gpqTgp4cg4Kau4KeD4Kak4Kam4KeH4Ka5IOCmquCmsOCmv+CmrOCmueCmqOCnh+CmsCDgpqzgpr/gpq7gpr7gpqgg4Kat4Ka+4Kec4Ka+IOCmquCnjeCmsOCmpuCmvuCmqCDgppXgprDgpr4g4Ka54Kef4KeHIOCmpeCmvuCmleCnh+ClpDwvcD4KCjxwPsKgIOCmheCmqOCmvuCmquCmpOCnjeCmpOCmvyDgpqrgpqTgp43gprAgKE51bGxhIE9zdGEpIOCmh+CmuOCnjeCmr+CngSDgppXgprDgpr7gprAg4Kac4Kao4KeN4KavIOCmquCnjeCmsOCnn+Cni+CmnOCmqOCngOCnnyDgppXgpr7gppfgppzgpqrgpqTgp43gprDgprjgpq7gp4LgprngpoM8L3A+Cgo8cD7gp6cuIOKAjeCmruCng+CmpOCnjeCmr+CngeCmuOCmqOCmpjwvcD4KCjxwPuCnqC4g4Kau4KeD4KakIOCmrOCnjeCmr+CmleCnjeCmpOCmv+CmsCDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/gp4fgprAg4KaV4Kaq4Ka/PC9wPgoKPHA+4KepLiDgpq7gp4PgpqTgpqbgp4fgprkg4Kaq4Kaw4Ka/4Kas4Ka54Kao4KeH4KawIOCmrOCmv+Cmt+Cnn+CnhyDgpq/gp4vgppfgpr7gpq/gp4vgppcg4KaV4Kaw4Ka+4KawIOCmnOCmqOCnjeCmryDgpofgpqTgpr7gprLgpr/gpqTgp4cg4Kas4Ka44Kas4Ka+4Ka44Kaw4KakIOCmj+CmleCmnOCmqCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgpr/gprAg4Kao4Ka+4KauLCDgpqvgp4vgpqggwqAgwqAgwqAgwqA8L3A+Cgo8cD7CoCDCoCDCoOCmqOCmruCnjeCmrOCmsCDgpo/gpqzgpoIg4Kah4KaV4KeB4Kau4KeH4Kao4KeN4KafPC9wPgoKPHA+4KeqLiDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgp4cg4Kau4KeD4Kak4Kam4KeH4Ka5IOCml+CnjeCmsOCmueCmo+CmleCmvuCmsOCngCDgpqzgp43gpq/gppXgp43gpqTgpr/gprAg4Kao4Ka+4KauLCDgpqvgp4vgpqgg4Kao4Kau4KeN4Kas4KawIOCmj+CmrOCmgiDgpqHgppXgp4Hgpq7gp4fgpqjgp43gpp88L3A+Cgo8cD7gp6suIOCmruCng+CmpCDgpqzgp43gpq/gppXgp43gpqTgpr8g4KaT4Kef4KeH4KacIOCmhuCmsOCnjeCmqOCmvuCmsOCnjeCmuCDgppXgprLgp43gpq/gpr7gpqMg4Kas4KeL4Kaw4KeN4Kah4KeH4KawIOCmuOCmpuCmuOCnjeCmryDgprngp5/gp4cg4Kal4Ka+4KaV4Kay4KeHIOCmuOCmpuCmuOCnjeCmr+CmquCmpiDgpqjgpr/gpqzgpqjgp43gpqfgpqjgp4fgprAg4KaV4Kaq4Ka/4KWkPC9wPgoKPHA+4KaF4Kao4Ka+4Kaq4Kak4KeN4Kak4Ka/IOCmquCmpOCnjeCmsCAoTnVsbGEgT3N0YSkg4Kaq4KeH4Kak4KeHIOCmueCmsuCnhyDgpongpqrgprDgp4cg4Kas4Kaw4KeN4Kaj4Ka/4KakIOCmoeCmleCngeCmruCnh+CmqOCnjeCmnyDgpo/gpqzgpoIg4Kak4Kal4KeN4Kav4Ka44Ka5IOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgprbgp43gprDgpq4g4KaV4Kay4KeN4Kav4Ka+4KajIOCmieCmh+CmguCnn+Cnh+CmsCDgpofgpq7gp4fgpofgprLgp4cgKDxhIGhyZWY9Im1haWx0bzp3ZWxmYXJlLm1pbGFuQGdtYWlsLmNvbSI+d2VsZmFyZS5taWxhbkBnbWFpbC5jb208L2E+KSDgpqrgp43gprDgp4fgprDgpqMg4KaV4Kaw4Kak4KeHIOCmueCmrOCnh+ClpDwvcD4KCjxwPjxzdHJvbmc+wqA8L3N0cm9uZz48L3A+Cgo8cD48c3Ryb25nPuCmueCmvuCmuOCmquCmvuCmpOCmvuCmsiDgpqrgprDgpr/gpqbgprDgp43gprbgpqg6PC9zdHJvbmc+PC9wPgoKPHA+4KaF4Ka44KeB4Ka44KeN4KalIOCmheCmpeCmrOCmviDgpqbgp4HgprDgp43gppjgpp/gpqjgpr7gp58g4KaG4Ka54KakIOCmueCnn+CnhyDgprngpr7gprjgpqrgpr7gpqTgpr7gprLgp4cg4Kat4Kaw4KeN4Kak4Ka/IOCmquCnjeCmsOCmrOCmvuCmuOCngCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgpr/gpqbgp4fgprAg4KaW4KeL4KaB4KacLeCmluCmrOCmsCDgpqjgp4fgp5/gpr4sIOCmruCmvuCmqOCmuOCmv+CmlSDgprbgppXgp43gpqTgpr8g4Kac4KeL4KaX4Ka+4Kao4KeLIOCmkyDgppXgp43gprfgp4fgpqTgp43gprAg4Kas4Ka/4Ka24KeH4Ka34KeHIOCmhuCmsOCnjeCmpeCmv+CmlSDgprjgprngpr7gp5/gpqTgpr4g4Kaq4KeN4Kaw4Kam4Ka+4KaoIOCmleCmsOCmviDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fgprAg4KaP4KaV4Kaf4Ka/IOCmqOCmv+Cnn+CmruCmv+CmpCDgppXgpr7gprDgp43gpq/gppXgp43gprDgpq7gpaQg4KaPIOCmrOCmv+Cmt+Cnn+CnhyDgpqzgpr/gprjgp43gpqTgpr7gprDgpr/gpqQg4Kak4Kal4KeN4Kav4KeH4KawIOCmnOCmqOCnjeCmryDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fgprAg4Ka24KeN4Kaw4KauIOCmleCmsuCnjeCmr+CmvuCmoyDgpongpofgpoLgp5/gp4fgprAg4KaH4Kau4KeH4KaH4Kay4KeHICg8YSBocmVmPSJtYWlsdG86d2VsZmFyZS5taWxhbkBnbWFpbC5jb20iPndlbGZhcmUubWlsYW5AZ21haWwuY29tPC9hPikg4Kav4KeL4KaX4Ka+4Kav4KeL4KaXIOCmleCmsOCmviDgpq/gp4fgpqTgp4cg4Kaq4Ka+4Kaw4KeH4KWkPC9wPgoKPHA+Cgk8YnI+CjwvcD4KCjxwPjxzdHJvbmc+4Kac4KeH4Kay4KaW4Ka+4Kao4Ka+IOCmquCmsOCmv+CmpuCmsOCnjeCmtuCmqDo8L3N0cm9uZz48L3A+Cgo8cD7gpofgpqTgpr7gprLgpr/gprAg4Kas4Ka/4Kat4Ka/4Kao4KeN4KaoIOCmnOCnh+CmsuCmluCmvuCmqOCmvuCnnyDgpqzgpr/gpprgpr7gprDgpr7gpqfgp4Dgpqgg4KaP4Kas4KaCIOCmuOCmvuCmnOCmvuCmquCnjeCmsOCmvuCmquCnjeCmpCDgpobgprjgpr7gpq7gp4Ag4Ka54Ka/4Ka44KeH4Kas4KeHIOCmhuCmn+CmleCmleCng+CmpCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgpr8g4Kao4Ka+4KaX4Kaw4Ka/4KaV4Kam4KeH4KawIOCmuOCmqOCmvuCmleCnjeCmpOCmleCmsOCmqCwg4Kak4Ka+4Kam4KeH4KawIOCmrOCmsOCnjeCmpOCmruCmvuCmqCDgpoXgpqzgprjgp43gpqXgpr4g4Kac4Ka+4Kao4Ka+LCDgpqrgprDgpr/gpqzgpr7gprDgp4fgprAg4Ka44Ka+4Kal4KeHIOCmpOCmvuCmpuCnh+CmsCDgpq/gp4vgppfgpr7gpq/gp4vgppcg4Ka44KeN4Kal4Ka+4Kaq4KaoIOCmleCmsOCnhyDgpqbgp4fgp5/gpr4g4KaP4Kas4KaCIOCmleCnjeCmt+Cnh+CmpOCnjeCmsCDgpqzgpr/gprbgp4fgprfgp4cg4KaG4KaH4Kao4KeAIOCmuOCmueCmvuCnn+CmpOCmviDgppfgp43gprDgprngpqPgp4fgprAg4Kas4Ka/4Ka34Kef4KeHIOCmquCmsOCmvuCmruCmsOCnjeCmtiDgpqrgp43gprDgpqbgpr7gpqjgp4fgprAg4Kac4Kao4KeN4KavIOCmh+CmpOCmvuCmsuCmv+CmsCDgpqzgpr/gpq3gpr/gpqjgp43gpqgg4Kac4KeH4Kay4KaW4Ka+4Kao4Ka+IOCmquCmsOCmv+CmpuCmsOCnjeCmtuCmqCDgppXgprDgpr4g4Ka54Kef4KWkIOCmj+CmpOCmpuCmuOCmguCmleCnjeCmsOCmvuCmqOCnjeCmpCDgpq/gp4cg4KaV4KeL4KaoIOCmp+CmsOCmo+Cnh+CmsCDgpq/gp4vgppfgpr7gpq/gp4vgppcg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeH4KawIOCmtuCnjeCmsOCmriDgppXgprLgp43gpq/gpr7gpqMg4KaJ4KaH4KaC4Kef4KeH4KawIOCmh+CmruCnh+Cmh+CmsuCnhyAoPGEgaHJlZj0ibWFpbHRvOndlbGZhcmUubWlsYW5AZ21haWwuY29tIj53ZWxmYXJlLm1pbGFuQGdtYWlsLmNvbTwvYT4pIOCmleCmsOCmviDgpq/gp4fgpqTgp4cg4Kaq4Ka+4Kaw4KeH4KWkPC9wPgoKPHA+PHN0cm9uZz7CoDwvc3Ryb25nPjwvcD4KCjxwPjxzdHJvbmc+4KaG4KaH4Kao4KaX4KakIMKg4Ka44Ka54Ka+4Kef4Kak4Ka+IOCmquCnjeCmsOCmpuCmvuCmqDo8L3N0cm9uZz48L3A+Cgo8cD7gpoXgpqrgp43gprDgpprgprLgpr/gpqQg4Kaq4Kao4KeN4Kal4Ka+4KefIOCmh+CmpOCmvuCmsuCmv+CmpOCnhyDgpobgppfgpq7gpqgsIOCmreCmvuCmt+CmviDgppzgp43gpp7gpr7gpqjgp4fgprAg4KaF4Kat4Ka+4KasLCDgpqrgpr7gprDgprjgp43gpqrgprDgpr/gppUg4Kas4KeL4Kad4Ka+4Kaq4Kec4Ka+4KawIOCmheCmreCmvuCmrOCmuOCmuSDgpqzgpr/gpq3gpr/gpqjgp43gpqgg4KaV4Ka+4Kaw4Kaj4KeHIOCmquCnjeCmsOCmrOCmvuCmuOCngOCml+CmoyDgpq7gpr7gpq7gprLgpr4g4Kau4KeL4KaV4Ka+4Kam4KeN4Kam4Kau4Ka+4KefIOCmnOCnnOCmv+Cnn+CnhyDgpqrgp5zgp4fgpqjgpaQg4KaH4Kak4Ka+4Kay4Ka/4Kak4KeHIOCmhuCmh+CmqOCmnOCngOCmrOCmv+CmpuCnh+CmsCDgpqrgpr7gprDgpr/gprbgp43gprDgpq7gpr/gppUg4KaF4Kao4KeH4KaVIOCmrOCnh+CmtuCngCDgprngppPgp5/gpr7gp58g4Kaq4KeN4Kaw4Ka+4Kef4Ka24KaD4KaHIOCmquCnjeCmsOCmrOCmvuCmuOCngOCml+CmoyDgpobgpofgpqjgp4fgprAg4KaG4Ka24KeN4Kaw4KefIOCmqOCmv+CmpOCnhyDgprjgpq7gprjgp43gpq/gpr7gp58g4Kaq4Kec4KeH4Kao4KWkIOCmj+CmsOCngeCmqiDgpqrgp43gprDgpqzgpr7gprjgp4Dgpqbgp4fgprAg4KaH4Kak4Ka+4Kay4Ka/IOCmuOCmsOCmleCmvuCmsCDgppXgprDgp43gpqTgp4PgppUg4Kaq4KeN4Kaw4Kam4Kak4KeN4KakIOCmrOCmv+CmqOCmvuCmruCnguCmsuCnjeCmr+CnhyDgpobgpofgpqjgppzgp4Dgpqzgpr8g4Kao4Ka/4Kef4KeL4KaX4KeH4KawIOCmuOCngeCmrOCmv+Cmp+CmviDgppfgp43gprDgprngpqPgp4fgprAg4Kac4Kao4KeN4KavIOCmpuCnguCmpOCmvuCmrOCmvuCmuCDgprngpqTgp4cg4Kaq4KeN4Kaw4Kav4KeL4Kac4KeN4KavIOCmleCnjeCmt+Cnh+CmpOCnjeCmsOCnhyDgpobgprDgp43gpqXgpr/gppUg4KaF4Ka44KeN4Kas4Kaa4KeN4Kab4Kay4Kak4Ka+4KawIOCmuOCmqOCmpiDgpqbgp4fgp5/gpr4g4Ka54Kef4KeHIOCmpeCmvuCmleCnh+ClpCDgpqbgp4LgpqTgpr7gpqzgpr7gprgg4Ka54Kak4KeHIOCmh+CmuOCnjeCmr+CngeCmleCng+CmpCDgpo/gpocg4Ka44Ka+4Kaw4KeN4Kaf4Ka/4Kar4Ka/4KaV4KeH4Kaf4KeH4KawIOCmruCmvuCmp+CnjeCmr+CmruCnhyDgpqTgpr7gprDgpr4g4Kas4Ka/4Kao4Ka+IOCmq+Cmvy3gpqTgp4cg4KaG4KaH4Kao4Kac4KeA4Kas4Ka/IOCmqOCmv+Cnn+Cni+Cml+Cnh+CmsCDgprjgprngpr7gp5/gpqTgpr4g4Kaq4KeH4Kef4KeHIOCmpeCmvuCmleCnh+CmqOClpCDgpoXgprjgp43gpqzgpprgp43gppvgprLgpqTgpr4g4Ka44Kao4Kam4KeH4KawIOCmnOCmqOCnjeCmryDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fgprAg4Ka44Ka+4Kaw4KeN4Kaf4Ka/4Kar4Ka/4KaV4KeH4KafIOCmquCnjeCmsOCmpuCmvuCmqOCnh+CmsCDgpqjgpr/gp5/gpq7gpr7gpqzgprLgp4Ag4KaF4Kao4KeB4Ka44Kaw4KajIOCmleCmsOCmpOCnhyDgprngpqzgp4fgpaQ8L3A+Cgo8cD4KCTxicj4KPC9wPgoKPHA+PHN0cm9uZz7gpqzgpr/gpqrgpqbgppfgp43gprDgprjgp43gpqQv4KaF4Ka44Ka54Ka+4KefL+CmheCmuOCnjeCmrOCmmuCnjeCmm+CmsiDgpqrgp43gprDgpqzgpr7gprjgp4Dgpqbgp4fgprAg4KaG4Kaw4KeN4Kal4Ka/4KaVIOCmuOCmueCmvuCnn+CmpOCmviDgpqrgp43gprDgpqbgpr7gpqg6PC9zdHJvbmc+PC9wPgoKPHA+4Kas4Ka/4Kaq4Kam4KaX4KeN4Kaw4Ka44KeN4KakL+CmheCmuOCmueCmvuCnny/gpoXgprjgp43gpqzgpprgp43gppvgprIg4Kaq4KeN4Kaw4Kas4Ka+4Ka44KeA4Kam4KeH4KawIOCmhuCmsOCnjeCmpeCmv+CmlSDgprjgprngpr7gp5/gpqTgpr4g4Kaq4KeN4Kaw4Kam4Ka+4KaoIOCmleCmsOCmviDgprngp5/gp4cg4Kal4Ka+4KaV4KeH4KWkIOCmqOCmv+CmnOCnh+CmsCDgpoXgpqzgprjgp43gpqXgpr4g4Kas4Kaw4KeN4Kaj4Kaj4Ka+IOCmleCmsOCnhywg4Kaq4KeN4Kaw4Kef4KeL4Kac4Kao4KeA4KefIOCmquCnjeCmsOCmruCmvuCmo+CmleCmuOCmuSDgpq7gpr7gpqjgp43gpq/gpqzgprAg4Kaw4Ka+4Ka34KeN4Kaf4KeN4Kaw4Kam4KeC4KakIOCmrOCmsOCmvuCmrOCmsCDgpo8g4Kan4Kaw4Kaj4KeH4KawIOCmuOCmueCmvuCnn+CmpOCmviDgpqrgpr7gpqzgpr7gprAg4Kav4KeL4KaX4KeN4KavIOCmquCnjeCmsOCmrOCmvuCmuOCngOCmsOCmviDgpobgpqzgp4fgpqbgpqgg4KaV4Kaw4Kak4KeHIOCmquCmvuCmsOCnh+CmqOClpCDgpobgpqzgp4fgpqbgpqgg4Kao4Ka/4Kau4KeN4Kao4KeH4KawIOCmpuCngeCmn+CmvyDgpofgpq7gp4fgpofgprLgp4cg4Kaq4KeN4Kaw4KeH4Kaw4KajIOCmleCmsOCmviDgpq/gp4fgpqTgp4cg4Kaq4Ka+4Kaw4KeH4KaDPC9wPgoKPHA+wqAgwqAgwqAgwqAgwqAgwqDCoDxhIGhyZWY9Im1haWx0bzp3ZWxmYXJlLm1pbGFuQGdtYWlsLmNvbSI+d2VsZmFyZS5taWxhbkBnbWFpbC5jb208L2E+PC9wPgoKPHA+wqAgwqAgwqAgwqAgwqDCoDxhIGhyZWY9Im1haWx0bzptaXNzaW9uLm1pbGFuQG1vZmEuZ292LmJkIj5taXNzaW9uLm1pbGFuQG1vZmEuZ292LmJkPC9hPjwvcD4KCjxwPjxzdHJvbmc+4Kas4KaHIOCmrOCmv+CmpOCmsOCmo+Cmgzwvc3Ryb25nPjwvcD4KCjxwPuCmh+CmpOCmvuCmsuCmv+CmpOCnhyDgpqzgp4fgp5zgp4cg4KaJ4Kag4Ka+IOCmquCnjeCmsOCmrOCmvuCmuOCngOCmpuCnh+CmsCDgppvgp4fgprLgp4ct4Kau4KeH4Kef4KeH4Kam4KeH4KawIOCmrOCmvuCmguCmsuCmviDgpq3gpr7gprfgpr4g4Kaa4Kaw4KeN4Kaa4Ka+L+CmtuCmv+CmleCnjeCmt+CmvuCmsCDgppzgpqjgp43gpq8g4Kaq4KeN4Kaw4Kas4Ka+4Ka44KeA4Kam4KeH4KawIOCmpuCnjeCmrOCmvuCmsOCmviDgpqrgprDgpr/gpprgpr7gprLgpr/gpqQg4Kas4Ka/4Kat4Ka/4Kao4KeN4KaoIOCmrOCmvuCmguCmsuCmviDgprbgpr/gppXgp43gprfgpr4g4Ka44KeN4KaV4KeB4Kay4KeHIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgprjgprDgppXgpr7gprDgp4fgprAg4oCc4Ka24Ka/4KaV4KeN4Ka34Ka+IOCmuOCmueCmvuCnn+CmpOCmviDgppXgpr7gprDgp43gpq/gppXgp43gprDgpq7igJ0g4KaP4KawIOCmhuCmk+CmpOCmvuCnnyDgpqzgpr/gpqjgpr7gpq7gp4LgprLgp43gpq/gp4cg4Kaq4Ka+4Kag4KeN4Kav4Kas4KaHIOCmrOCmv+CmpOCmsOCmoyDgppXgprDgpr4g4Ka54Kef4KWkIMKg4Kas4KaHIOCmrOCmv+CmpOCmsOCmo+Cnh+CmsCDgppzgpqjgp43gpq8g4Ka44Ka+4Kan4Ka+4Kaw4Kaj4Kak4KaDIOCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqOCmleCnhyDgpqrgp43gprDgpr7gpqfgpr7gpqjgp43gpq8g4Kam4KeH4Kef4Ka+IOCmueCnn+CnhyDgpqXgpr7gppXgp4fgpaQg4Kas4KaHIOCmquCnh+CmpOCnhyDgpobgppfgp43gprDgprngp4Ag4Kav4KeHIOCmleCni+CmqCDgpqrgp43gprDgpqTgpr/gprfgp43gpqDgpr7gpqgg4Kak4Ka+4Kam4KeH4KawIOCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqOCnh+CmsCDgpqrgp43gpq/gpr7gpqHgp4cg4Kau4Ka+4Kao4KeN4Kav4Kas4KawIOCmsOCmvuCmt+CnjeCmn+CnjeCmsOCmpuCnguCmpCDgpqzgprDgpr7gpqzgprAg4KaG4Kas4KeH4Kam4KaoIOCmleCmsOCmpOCnhyDgpqrgpr7gprDgp4fgpqjgpaQg4KaG4Kas4KeH4Kam4KaoIOCmqOCmv+CmruCnjeCmqOCnh+CmsCDgpqbgp4Hgpp/gpr8g4KaH4Kau4KeH4KaH4Kay4KeHIOCmquCnjeCmsOCnh+CmsOCmoyDgppXgprDgpr4g4Kav4KeH4Kak4KeHIOCmquCmvuCmsOCnh+CmgzwvcD4KCjxwPsKgIMKgIMKgIMKgIMKgIMKgwqA8YSBocmVmPSJtYWlsdG86d2VsZmFyZS5taWxhbkBnbWFpbC5jb20iPndlbGZhcmUubWlsYW5AZ21haWwuY29tPC9hPjwvcD4KCjxwPsKgIMKgIMKgIMKgIMKgwqA8YSBocmVmPSJtYWlsdG86bWlzc2lvbi5taWxhbkBtb2ZhLmdvdi5iZCI+bWlzc2lvbi5taWxhbkBtb2ZhLmdvdi5iZDwvYT48L3A+Cgo8cD4KCTxicj4KPC9wPgoKPHA+Cgk8YnI+CjwvcD4KCjxwPjxzdHJvbmc+4Kaq4KeN4Kaw4Kas4Ka+4Ka44KeA4Kam4KeH4KawIOCmleCmsOCnjeCmruCmuOCnjeCmpeCmsiDgpqrgprDgpr/gpqbgprDgp43gprbgpqg6wqA8L3N0cm9uZz48L3A+Cgo8cD7gpqjgpr/gp5/gpq7gpr/gpqQg4KaV4Ka+4Kac4KeH4KawIOCmheCmguCmtiDgprngpr/gprjgp4fgpqzgp4cg4Kaq4KeN4Kaw4Kas4Ka+4Ka44KeA4Kam4KeH4KawIOCmleCmsOCnjeCmruCmuOCnjeCmpeCmsiDgpqrgprDgpr/gpqbgprDgp43gprbgpqgg4KaV4Kaw4Ka+IOCmueCnn+ClpCDgppXgprDgp43gpq7gprjgp43gpqXgprLgp4cg4KaV4Ka+4Kac4KeH4KawIOCmquCmsOCmv+CmrOCnh+Cmtiwg4Ka44Kau4Kef4Kau4KakIOCmquCmvuCmsOCmv+CmtuCnjeCmsOCmruCmv+CmlSDgpqrgprDgpr/gprbgp4vgpqcg4KaP4Kas4KaCIOCmheCmqOCnjeCmr+CmvuCmqOCnjeCmryDgpqzgpr/gprfgp5/gp4cg4KaW4KeL4KaB4Kac4KaW4Kas4KawIOCmqOCnh+Cnn+CmviDgprngp5/gpaQg4KaP4Kab4Ka+4Kec4Ka+IOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgpoXgpqjgp43gpq/gpr7gpqjgp43gpq8g4KaV4Ka+4Kac4KeHIOCmh+CmpOCmvuCmsuCmv+CmsCDgpqzgpr/gpq3gpr/gpqjgp43gpqgg4KaP4Kay4Ka+4KaV4Ka+IOCmquCmsOCmv+CmreCnjeCmsOCmruCmo+CmleCmvuCmsuCnhyDgpqrgp43gprDgpqzgpr7gprjgp4Dgpqbgp4fgprAg4KaV4Kaw4KeN4Kau4Ka44KeN4Kal4Kay4KeH4KawIOCmluCni+CmgeCmnOCmluCmrOCmsCDgpqjgp4fgp5/gpr4g4Ka54Kef4KWkIOCmj+CmpOCmpuCmuOCmguCmleCnjeCmsOCmvuCmqOCnjeCmpCDgpq/gp4cg4KaV4KeL4KaoIOCmp+CmsOCmo+Cnh+CmsCDgpq/gp4vgppfgpr7gpq/gp4vgppcg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeH4KawIOCmtuCnjeCmsOCmriDgppXgprLgp43gpq/gpr7gpqMg4KaJ4KaH4KaC4Kef4KeH4KawIOCmh+CmruCnh+Cmh+CmsuCnhyAoPGEgaHJlZj0ibWFpbHRvOndlbGZhcmUubWlsYW5AZ21haWwuY29tIj53ZWxmYXJlLm1pbGFuQGdtYWlsLmNvbTwvYT4pIOCmleCmsOCmviDgpq/gp4fgpqTgp4cg4Kaq4Ka+4Kaw4KeH4KWkPC9wPgoKPHA+PHN0cm9uZz7CoDwvc3Ryb25nPjwvcD4KCjxwPjxzdHJvbmc+4KaT4Kef4KeH4KacIOCmhuCmsOCnjeCmqOCmvuCmsOCnjeCmuCDgppXgprLgp43gpq/gpr7gpqMg4Kas4KeL4Kaw4KeN4Kah4KeH4KawIOCmuOCmpuCmuOCnjeCmr+CmquCmpiDgpqjgpr/gpqzgpqjgp43gpqfgpqg6PC9zdHJvbmc+PC9wPgoKPHA+4Ka44KeN4KasLeCmieCmpuCnjeCmr+Cni+Cml+CnhyDgpqzgpr/gpqbgp4fgprbgp4cg4KaG4KaX4Kau4Kao4KaV4Ka+4Kaw4KeAIOCmquCnjeCmsOCmrOCmvuCmuOCngOCmpuCnh+CmsOCmleCnhyDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprYg4Ka44Kaw4KaV4Ka+4Kaw4KeH4KawIOCmoeCmvuCmn+CmvuCmrOCnh+CmnOCnh+CmsCDgpobgppPgpqTgpr7gp58g4KaG4Kao4Kef4KaoIOCmj+CmrOCmgiDgpqrgp43gprDgpqzgpr7gprjgp4Dgpqbgp4fgprAg4KaV4Kay4KeN4Kav4Ka+4Kaj4Kau4KeC4Kay4KaVIOCmleCmvuCmsOCnjeCmr+CmleCnjeCmsOCmruCmleCnhyDgpobgprDgp4sg4Ka44KeB4Ka34KeN4Kag4KeB4Kat4Ka+4Kas4KeHIOCmuOCmruCnjeCmquCmvuCmpuCmqOCnh+CmsCDgpqjgpr/gpq7gpr/gpqTgp43gpqQg4Kas4Ka/4Kam4KeH4Ka24KeHIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgpq7gpr/gprbgpqjgprjgpq7gp4Lgprngp4cg4KaT4Kef4KeH4KacIOCmhuCmsOCnjeCmqOCmvuCmsOCnjeCmuCDgppXgprLgp43gpq/gpr7gpqMg4Kas4KeL4Kaw4KeN4Kah4KeH4KawIOCmuOCmpuCmuOCnjeCmr+CmquCmpiDgpqjgpr/gpqzgpqjgp43gpqfgpqgg4KaV4Ka+4Kaw4KeN4Kav4KaV4KeN4Kaw4KauIOCmtuCngeCmsOCngSDgprngp5/gp4fgppvgp4fgpaQg4Kaw4KeL4KauIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgpo8g4KaV4Ka+4Kaw4KeN4Kav4KaV4KeN4Kaw4KauIOCmtuCngeCmsOCngSDgprngp5/gp4fgppvgp4cg4KaX4KakIOCnp+CnryDgppzgp4Hgpqgg4Keo4Kem4Ken4KetIOCmpOCmvuCmsOCmv+CmluCnh+ClpCDgp6fgp67gpqzgppvgprDgp4fgprAg4KaV4KauIOCmj+CmrOCmgiDgp6zgp6sg4Kas4Kab4Kaw4KeH4KawIOCmrOCnh+CmtuCngCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgpr8g4Kaq4KeN4Kaw4Kas4Ka+4Ka44KeA4Kaw4Ka+IOCmj+CmhyDgprjgpqbgprjgp43gpq/gpqrgpqYg4Kao4Ka/4Kas4Kao4KeN4Kan4Kao4KeH4Kaw4KawIOCmnOCmqOCnjeCmryDgpobgppPgpqTgpr7gpq3gp4HgppXgp43gpqQg4Ka54Kas4KeH4KaoIOCmqOCmvuClpDwvcD4KCjx1bD4KCTxsaT7gprjgpqbgprjgp43gpq/gpqrgpqYg4Kao4Ka/4Kas4Kao4KeN4Kan4Kao4KeH4KawIOCmruCmvuCmp+CnjeCmr+CmruCnhyDgpqrgp43gprDgpr7gpqrgp43gpqQg4Ka44KeB4Kas4Ka/4Kan4Ka+4Ka44Kau4KeC4Ka54KaDPC9saT4KCTxsaT4tLS0tLS0tLS0tLS0tLS0tLS0tLS3gprLgpr/gpqvgprLgp4fgpp8tLS0tLS0tLS0tLS0tLS0tLS0tLTwvbGk+Cgk8bGk+4KaG4Kas4KeH4Kam4KaoIOCmq+CmsOCmruCnh+CmsCDgppzgpqjgp43gpq8g4Kao4Ka/4Kau4KeN4Kao4KeH4KawIOCmsuCmv+CmguCmlSDgppXgp43gprLgpr/gppUg4KaV4Kaw4KeB4Kao4KaDPC9saT4KCTxsaT4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTwvbGk+CjwvdWw+Cgo8cD4KCTxicj4KPC9wPgoKPHA+PHN0cm9uZz7gppXgprDgp43gpq7gp4Ag4Kaa4Ka+4Ka54Ka/4Kam4Ka+4Kaq4Kak4KeN4KawIOCmuOCmpOCnjeCmr+CmvuCnn+CmqDwvc3Ryb25nPjwvcD4KCjxwPuCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgprngpqTgp4cg4KaV4Kaw4KeN4Kau4KeAIOCmqOCmv+CmpOCnhyDgpobgppfgp43gprDgprngp4Ag4KaV4KeL4KaoIOCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqCDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4cg4Kaq4KeN4Kaw4Ka44KeN4Kak4Ka+4KasIOCmquCnjeCmsOCnh+CmsOCmoyDgppXgprDgprLgp4cg4Kak4Ka+IOCmr+CmpeCmvuCmr+CmpSDgpqrgp43gprDgppXgp43gprDgpr/gp5/gpr4g4KaF4Kao4KeB4Ka44Kaw4Kaj4Kaq4KeC4Kaw4KeN4Kas4KaVIOCmr+CmvuCmmuCmvuCmhyDgpqzgpr7gppvgpr7gpocg4KaV4Kaw4KeHIOCmmuCmvuCmueCmv+CmpuCmvuCmquCmpOCnjeCmsCDgprjgpqTgp43gpq/gpr7gp5/gpqgg4KaV4Kaw4Ka+IOCmueCnn+CnhyDgpqXgpr7gppXgp4fgpaQg4KaH4Kak4Ka+4Kay4Ka/4Kak4KeHIOCmjyDgpqfgprDgpqPgp4fgprAg4KaV4KeL4KaoIOCmleCmvuCmsOCnjeCmr+CmleCnjeCmsOCmriDgpqjgpr4g4Kal4Ka+4KaV4Kay4KeH4KaTIOCmh+CmpOCmvuCmsuCmvyDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fgprAg4KaF4Kan4Ka/4KaV4KeN4Ka34KeH4Kak4KeN4Kaw4Ka+4Kan4KeA4KaoIOCmuOCmvuCmsOCnjeCmrOCmv+Cnn+CmvuCnnyDgpo8g4KaV4Ka+4Kav4KaV4KeN4Kaw4KauIOCmmuCmsuCmruCmvuCmqCDgpobgppvgp4fgpaQg4KaPIOCmrOCmv+Cmt+Cnn+CnhyDgpq/gp4cg4KaV4KeL4KaoIOCmp+CmsOCmo+Cnh+CmsCDgpq/gp4vgppfgpr7gpq/gp4vgppfgp4fgprAg4Kac4Kao4KeN4KavIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgprbgp43gprDgpq4g4KaV4Kay4KeN4Kav4Ka+4KajIOCmieCmh+CmguCnn+Cnh+CmsCDgpofgpq7gp4fgpofgprLgp4cgKDxhIGhyZWY9Im1haWx0bzp3ZWxmYXJlLm1pbGFuQGdtYWlsLmNvbSI+d2VsZmFyZS5taWxhbkBnbWFpbC5jb208L2E+KSDgpofgpq7gp4fgpofgprIg4KaV4Kaw4Ka+IOCmr+Cnh+CmpOCnhyDgpqrgpr7gprDgp4fgpaQ8L3A+Cgo8cD4KCTxicj4KPC9wPgoKPHA+PHN0cm9uZz7gprDgp4fgpq7gpr/gpp/gp43gpq/gpr7gpqjgp43gprgg4Kaq4KeB4Kaw4Ka44KeN4KaV4Ka+4KawIOCmquCnjeCmsOCmpuCmvuCmqDwvc3Ryb25nPjwvcD4KCjxwPuCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtuCnh+CmsCDgppzgpr7gpqTgp4Dgp58g4KaF4Kaw4KeN4Kal4Kao4KeA4Kak4Ka/4Kak4KeHIOCmrOCniOCmpuCnh+CmtuCmv+CmlSDgpq7gp4Hgpqbgp43gprDgpr4g4Kaw4Ka/4Kac4Ka+4Kaw4KeN4Kat4KeH4KawIOCmj+CmleCmn+CmvyDgpongprLgp43gprLgp4fgppbgpq/gp4vgppfgp43gpq8g4KaF4KaC4Ka2IOCmquCnjeCmsOCmrOCmvuCmuOCngCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgpr/gpqbgp4fgprAg4Kaq4KeN4Kaw4KeH4Kaw4Ka/4KakIOCmheCmsOCnjeCmpSDgprngpqTgp4cg4KaF4Kaw4KeN4Kac4Ka/4KakIOCmueCnn+ClpCDgpqbgp4fgprbgp4fgprAg4KaG4Kaw4KeN4KalLeCmuOCmvuCmruCmvuCmnOCmv+CmlSDgpongpqjgp43gpqjgp5/gpqjgp4cg4Kaq4KeN4Kaw4Kas4Ka+4Ka44KeAIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtuCngOCmpuCnh+CmsCDgpqrgp43gprDgp4fgprDgpr/gpqQg4Kaw4KeH4Kau4Ka/4Kaf4KeN4Kav4Ka+4Kao4KeN4Ka44KeH4KawIOCml+CngeCmsOCngeCmpOCnjeCmrCDgpqbgpr/gpqgg4Kam4Ka/4KaoIOCmrOCng+CmpuCnjeCmp+CmvyDgpqrgpr7gpprgp43gppvgp4cg4KaP4Kas4KaCIOCmhuCmsOCniyDgpoXgpqfgpr/gppUg4Ka54Ka+4Kaw4KeHIOCmpOCmvuCmpuCnh+CmsCDgppXgprfgp43gpp/gpr7gprDgp43gppzgpr/gpqQg4Kas4KeI4Kam4KeH4Ka24Ka/4KaVIOCmruCngeCmpuCnjeCmsOCmviDgpqzgp4jgpqcg4Kaa4KeN4Kav4Ka+4Kao4KeH4Kay4KeHIOCmquCnjeCmsOCnh+CmsOCmo+Cnh+CmsCDgppzgpqjgp43gpq8g4Kak4Ka+4Kam4KeH4Kaw4KaV4KeHIOCmuOCnjeCmrOCngOCmleCng+CmpOCmvyDgpqrgp43gprDgpqbgpr7gpqgg4KaTIOCmieCnjuCmuOCmvuCmueCmv+CmpCDgppXgprDgpr7gprAg4KaJ4Kam4KeN4Kam4KeH4Ka24KeN4Kav4KeHIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgpqbgp4LgpqTgpr7gpqzgpr7gprgsIOCmruCmv+CmsuCmvuCmqMKgIOCmleCmsOCnjeCmpOCng+CmlSDgpofgpqTgpr7gprLgpr/gpqTgp4cg4Kas4Ka44Kas4Ka+4Ka44Kaw4KakIOCmquCnjeCmsOCmrOCmvuCmuOCngCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgp4Dgpqbgp4fgprAg4Kaw4KeH4Kau4Ka/4Kaf4KeN4Kav4Ka+4Kao4KeN4Ka4IOCmquCngeCmsOCmuOCnjeCmleCmvuCmsCDgpqrgp43gprDgpqbgpr7gpqgg4KaV4Kaw4Ka+IOCmueCnn+CnhyDgpqXgpr7gppXgp4fgpaQg4Kaq4KeN4Kaw4Kak4Ka/IOCmrOCmm+CmsCDgpoXgppXgp43gpp/gp4vgpqzgprAg4Kau4Ka+4Ka44KeHIOCmhuCmrOCnh+CmpuCmqCDgpobgprngpqzgpr7gpqgg4KaV4Kaw4KeHIOCmj+CmpOCmpuCmuOCmguCmleCnjeCmsOCmvuCmqOCnjeCmpCDgpqzgpr/gppzgp43gpp7gpqrgp43gpqTgpr8g4Kaq4KeN4Kaw4KaV4Ka+4Ka2IOCmleCmsOCmviDgprngp5/gpaQg4Ken4KeuIOCmoeCmv+CmuOCnh+CmruCnjeCmrOCmsCDgpobgpqjgp43gpqTgprDgp43gppzgpr7gpqTgpr/gppUg4KaF4Kat4Ka/4Kas4Ka+4Ka44KeAIOCmpuCmv+CmrOCmuOCnhyDgpo8g4Kaq4KeB4Kaw4Ka44KeN4KaV4Ka+4KawIOCmquCnjeCmsOCmpuCmvuCmqCDgppXgprDgpr4g4Ka54Kef4KWkIOCmjyDgpqzgpr/gprfgp5/gp4cg4Kav4KeHIOCmleCni+CmqCDgpqfgprDgpqPgp4fgprAg4Kav4KeL4KaX4Ka+4Kav4KeL4KaX4KeH4KawIOCmnOCmqOCnjeCmryDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fgprAg4Ka24KeN4Kaw4KauIOCmleCmsuCnjeCmr+CmvuCmoyDgpongpofgpoLgp5/gp4fgprAg4KaH4Kau4KeH4KaH4Kay4KeHICg8YSBocmVmPSJtYWlsdG86d2VsZmFyZS5taWxhbkBnbWFpbC5jb20iPndlbGZhcmUubWlsYW5AZ21haWwuY29tPC9hPikg4KaH4Kau4KeH4KaH4KayIOCmleCmsOCmviDgpq/gp4fgpqTgp4cg4Kaq4Ka+4Kaw4KeH4KWkPC9wPg=="><p><strong>প্রবাসী বাংলাদেশির মৃতদেহ বাংলাদেশে প্রেরণঃ</strong></p> <p><strong> </strong></p> <p>ইতালিতে বসবাসরত কোন বাংলাদেশি ইতালিতে মৃত্যুবরণ করলে তাঁর মৃতদেহ বাংলাদেশে প্রত্যাবসনের জন্য দূতাবাস হতে বিনা ফি-তে অনাপত্তি পত্র (Nulla Osta) ইস্যু করা হয়। মৃত ব্যক্তি ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্য হয়ে থাকলে তার মৃতদেহ পরিবহনের বিমান ভাড়া দূতাবাস বহন করে থাকে। এছাড়া মৃত ব্যক্তির পরিবার আর্থিকভাবে অস্বচ্ছল হলে মৃত ব্যক্তি ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্য না হলেও আবেদনের প্রেক্ষিতে মৃতদেহ পরিবহনের বিমান ভাড়া প্রদান করা হয়ে থাকে।</p> <p> অনাপত্তি পত্র (Nulla Osta) ইস্যু করার জন্য প্রয়োজনীয় কাগজপত্রসমূহঃ</p> <p>১. ‍মৃত্যুসনদ</p> <p>২. মৃত ব্যক্তির পাসপোর্টের কপি</p> <p>৩. মৃতদেহ পরিবহনের বিষয়ে যোগাযোগ করার জন্য ইতালিতে বসবাসরত একজন বাংলাদেশির নাম, ফোন </p> <p> নম্বর এবং ডকুমেন্ট</p> <p>৪. বাংলাদেশে মৃতদেহ গ্রহণকারী ব্যক্তির নাম, ফোন নম্বর এবং ডকুমেন্ট</p> <p>৫. মৃত ব্যক্তি ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্য হয়ে থাকলে সদস্যপদ নিবন্ধনের কপি।</p> <p>অনাপত্তি পত্র (Nulla Osta) পেতে হলে উপরে বর্ণিত ডকুমেন্ট এবং তথ্যসহ দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a>) প্রেরণ করতে হবে।</p> <p><strong> </strong></p> <p><strong>হাসপাতাল পরিদর্শন:</strong></p> <p>অসুস্থ অথবা দুর্ঘটনায় আহত হয়ে হাসপাতালে ভর্তি প্রবাসী বাংলাদেশিদের খোঁজ-খবর নেয়া, মানসিক শক্তি জোগানো ও ক্ষেত্র বিশেষে আর্থিক সহায়তা প্রদান করা দূতাবাসের একটি নিয়মিত কার্যক্রম। এ বিষয়ে বিস্তারিত তথ্যের জন্য দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a>) যোগাযোগ করা যেতে পারে।</p> <p> <br> </p> <p><strong>জেলখানা পরিদর্শন:</strong></p> <p>ইতালির বিভিন্ন জেলখানায় বিচারাধীন এবং সাজাপ্রাপ্ত আসামী হিসেবে আটককৃত বাংলাদেশি নাগরিকদের সনাক্তকরন, তাদের বর্তমান অবস্থা জানা, পরিবারের সাথে তাদের যোগাযোগ স্থাপন করে দেয়া এবং ক্ষেত্র বিশেষে আইনী সহায়তা গ্রহণের বিষয়ে পরামর্শ প্রদানের জন্য ইতালির বিভিন্ন জেলখানা পরিদর্শন করা হয়। এতদসংক্রান্ত যে কোন ধরণের যোগাযোগ দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a>) করা যেতে পারে।</p> <p><strong> </strong></p> <p><strong>আইনগত সহায়তা প্রদান:</strong></p> <p>অপ্রচলিত পন্থায় ইতালিতে আগমন, ভাষা জ্ঞানের অভাব, পারস্পরিক বোঝাপড়ার অভাবসহ বিভিন্ন কারণে প্রবাসীগণ মামলা মোকাদ্দমায় জড়িয়ে পড়েন। ইতালিতে আইনজীবিদের পারিশ্রমিক অনেক বেশী হওয়ায় প্রায়শঃই প্রবাসীগণ আইনের আশ্রয় নিতে সমস্যায় পড়েন। এরুপ প্রবাসীদের ইতালি সরকার কর্তৃক প্রদত্ত বিনামূল্যে আইনজীবি নিয়োগের সুবিধা গ্রহণের জন্য দূতাবাস হতে প্রযোজ্য ক্ষেত্রে আর্থিক অস্বচ্ছলতার সনদ দেয়া হয়ে থাকে। দূতাবাস হতে ইস্যুকৃত এই সার্টিফিকেটের মাধ্যমে তারা বিনা ফি-তে আইনজীবি নিয়োগের সহায়তা পেয়ে থাকেন। অস্বচ্ছলতা সনদের জন্য দূতাবাসের সার্টিফিকেট প্রদানের নিয়মাবলী অনুসরণ করতে হবে।</p> <p> <br> </p> <p><strong>বিপদগ্রস্ত/অসহায়/অস্বচ্ছল প্রবাসীদের আর্থিক সহায়তা প্রদান:</strong></p> <p>বিপদগ্রস্ত/অসহায়/অস্বচ্ছল প্রবাসীদের আর্থিক সহায়তা প্রদান করা হয়ে থাকে। নিজের অবস্থা বর্ণণা করে, প্রয়োজনীয় প্রমাণকসহ মান্যবর রাষ্ট্রদূত বরাবর এ ধরণের সহায়তা পাবার যোগ্য প্রবাসীরা আবেদন করতে পারেন। আবেদন নিম্নের দুটি ইমেইলে প্রেরণ করা যেতে পারেঃ</p> <p> <a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a></p> <p> <a href="mailto:mission.milan@mofa.gov.bd">mission.milan@mofa.gov.bd</a></p> <p><strong>বই বিতরণঃ</strong></p> <p>ইতালিতে বেড়ে উঠা প্রবাসীদের ছেলে-মেয়েদের বাংলা ভাষা চর্চা/শিক্ষার জন্য প্রবাসীদের দ্বারা পরিচালিত বিভিন্ন বাংলা শিক্ষা স্কুলে বাংলাদেশ সরকারের “শিক্ষা সহায়তা কার্যক্রম” এর আওতায় বিনামূল্যে পাঠ্যবই বিতরণ করা হয়। বই বিতরণের জন্য সাধারণতঃ প্রতিষ্ঠানকে প্রাধান্য দেয়া হয়ে থাকে। বই পেতে আগ্রহী যে কোন প্রতিষ্ঠান তাদের প্রতিষ্ঠানের প্যাডে মান্যবর রাষ্ট্রদূত বরাবর আবেদন করতে পারেন। আবেদন নিম্নের দুটি ইমেইলে প্রেরণ করা যেতে পারেঃ</p> <p> <a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a></p> <p> <a href="mailto:mission.milan@mofa.gov.bd">mission.milan@mofa.gov.bd</a></p> <p> <br> </p> <p> <br> </p> <p><strong>প্রবাসীদের কর্মস্থল পরিদর্শন: </strong></p> <p>নিয়মিত কাজের অংশ হিসেবে প্রবাসীদের কর্মস্থল পরিদর্শন করা হয়। কর্মস্থলে কাজের পরিবেশ, সময়মত পারিশ্রমিক পরিশোধ এবং অন্যান্য বিষয়ে খোঁজখবর নেয়া হয়। এছাড়া দূতাবাসের অন্যান্য কাজে ইতালির বিভিন্ন এলাকা পরিভ্রমণকালে প্রবাসীদের কর্মস্থলের খোঁজখবর নেয়া হয়। এতদসংক্রান্ত যে কোন ধরণের যোগাযোগ দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a>) করা যেতে পারে।</p> <p><strong> </strong></p> <p><strong>ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্যপদ নিবন্ধন:</strong></p> <p>স্ব-উদ্যোগে বিদেশে আগমনকারী প্রবাসীদেরকে বাংলাদেশ সরকারের ডাটাবেজের আওতায় আনয়ন এবং প্রবাসীদের কল্যাণমূলক কার্যক্রমকে আরো সুষ্ঠুভাবে সম্পাদনের নিমিত্ত বিদেশে বাংলাদেশ মিশনসমূহে ওয়েজ আর্নার্স কল্যাণ বোর্ডের সদস্যপদ নিবন্ধন কার্যক্রম শুরু হয়েছে। রোম দূতাবাসে এ কার্যক্রম শুরু হয়েছে গত ১৯ জুন ২০১৭ তারিখে। ১৮বছরের কম এবং ৬৫ বছরের বেশী বাংলাদেশি প্রবাসীরা এই সদস্যপদ নিবন্ধনেরর জন্য আওতাভুক্ত হবেন না।</p> <ul> <li>সদস্যপদ নিবন্ধনের মাধ্যমে প্রাপ্ত সুবিধাসমূহঃ</li> <li>---------------------লিফলেট--------------------</li> <li>আবেদন ফরমের জন্য নিম্নের লিংক ক্লিক করুনঃ</li> <li>-----------------------------------------</li> </ul> <p> <br> </p> <p><strong>কর্মী চাহিদাপত্র সত্যায়ন</strong></p> <p>বাংলাদেশ হতে কর্মী নিতে আগ্রহী কোন প্রতিষ্ঠান দূতাবাসে প্রস্তাব প্রেরণ করলে তা যথাযথ প্রক্রিয়া অনুসরণপূর্বক যাচাই বাছাই করে চাহিদাপত্র সত্যায়ন করা হয়ে থাকে। ইতালিতে এ ধরণের কোন কার্যক্রম না থাকলেও ইতালি দূতাবাসের অধিক্ষেত্রাধীন সার্বিয়ায় এ কাযক্রম চলমান আছে। এ বিষয়ে যে কোন ধরণের যোগাযোগের জন্য দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a>) ইমেইল করা যেতে পারে।</p> <p> <br> </p> <p><strong>রেমিট্যান্স পুরস্কার প্রদান</strong></p> <p>বাংলাদেশের জাতীয় অর্থনীতিতে বৈদেশিক মুদ্রা রিজার্ভের একটি উল্লেখযোগ্য অংশ প্রবাসী বাংলাদেশিদের প্রেরিত অর্থ হতে অর্জিত হয়। দেশের আর্থ-সামাজিক উন্নয়নে প্রবাসী বাংলাদেশীদের প্রেরিত রেমিট্যান্সের গুরুত্ব দিন দিন বৃদ্ধি পাচ্ছে এবং আরো অধিক হারে তাদের কষ্টার্জিত বৈদেশিক মুদ্রা বৈধ চ্যানেলে প্রেরণের জন্য তাদেরকে স্বীকৃতি প্রদান ও উৎসাহিত করার উদ্দেশ্যে বাংলাদেশ দূতাবাস, মিলান কর্তৃক ইতালিতে বসবাসরত প্রবাসী বাংলাদেশীদের রেমিট্যান্স পুরস্কার প্রদান করা হয়ে থাকে। প্রতি বছর অক্টোবর মাসে আবেদন আহবান করে এতদসংক্রান্ত বিজ্ঞপ্তি প্রকাশ করা হয়। ১৮ ডিসেম্বর আন্তর্জাতিক অভিবাসী দিবসে এ পুরস্কার প্রদান করা হয়। এ বিষয়ে যে কোন ধরণের যোগাযোগের জন্য দূতাবাসের শ্রম কল্যাণ উইংয়ের ইমেইলে (<a href="mailto:welfare.milan@gmail.com">welfare.milan@gmail.com</a>) ইমেইল করা যেতে পারে।</p></rt-renderer> </div> </div> 
+                <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">Click to share this content</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>Give your opinion</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>Give your opinion</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">Your Name</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="Enter Your Name"
+        />
+        <small class="error-message" hidden>
+          Name is required
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Email</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="Enter Your Email"
+        />
+        <small class="error-message" hidden>
+          Enter a valid email address
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Contact Number</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="Enter Your Contact Number"
+        />
+        <small class="error-message" hidden>
+          Enter a valid phone number (e.g. 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Write your opinion</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          Opinion must be at least 20 characters
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">Submit</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <!--<script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>-->
+  <script src="/site-assets/js/ckeditor5-41.4.2-classic-ckeditor.min.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+            </div>
+        </div>
+    <div data-widget_type="widget" data-widget_name="AccessibilityWidget" class="widget accessibility-widget"> <div class="accessibility-float fab-icon" id="accessibility-btn" title="Accessibility"> <i class="ph ph-wheelchair-motion"></i> </div> <div class="accessibility-card" id="accessibility-card"> <h3 id="accessibility-card-title" tabindex="0">Accessibility</h3> <div id="accessibility-close" tabindex="0" title="Close"> <icon class="ph ph-x-circle"></icon> </div> <div class="item"> <button id="font-increase">Font Increase</button> <button id="font-decrease">Font Decrease</button> </div> <div class="item"> <input type="checkbox" id="monochrome" title="Monochrome" /> <label for="monochrome">Monochrome</label> </div> <div class="item"> <input type="checkbox" id="inverted" title="Invert" /> <label for="inverted">Invert</label> </div> <div class="item"> <input type="checkbox" id="bigCursor" title="Big Cursor" /> <label for="bigCursor">Big Cursor</label> </div> <div class="item"> <input type="checkbox" id="highlightLinks" title="Highlight Links" /> <label for="highlightLinks">Highlight Links</label> </div> <div class="item"> <input type="checkbox" id="highlightHeadings" title="Highlight Headings" /> <label for="highlightHeadings">Highlight Headings</label> </div> <div class="item"> <input type="checkbox" id="readingGuideCheckbox" title="Reading Guide" /> <label for="readingGuideCheckbox">Reading Guide</label> </div> <div class="item"> <button class="accessibility-reset">Reset</button> </div> <a class='screen-reader' target="_blank" rel="noreferrer" href="https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe">Download Screen Reader</a> </div> <!-- TODO: [naeemur] add some more tab navigate options --> <div class="tab-menu"> <a href="#main-content" class="skip-link">Skip to content</a> <a href="#accessibility-card-title" class="skip-link menu-href">Go to accessibility menu</a> </div> </div> 
+<div data-widget_type="widget" data-widget_name="GoToTopWidget" class="widget go-to-top-widget"> <div class="go-to-top-float x-fab-icon" id="go-to-top-btn" title="Go to top"> <i class="ph ph-caret-up"></i> </div> </div> 
+</div></div>
+  </div>
+  <div class="footer"><div data-section_type="footer" class="droppable">
+         <footer data-widget_type="widget" data-widget_name="NewLandingFooterWidget" class="widget new-landing-footer-widget"> <div class="footer-decoration"> <div class="decorative-left"> <img src="/site-assets/images/left-footer.png" alt="Decorative Left"> </div> <div class="decorative-right"> <img src="/site-assets/images/right-footer.png" alt="Decorative Right"> </div> </div> <div class="footer-disclaimer"> All information published on this website is regularly updated by the respective government office. The office makes every effort to ensure that the information is accurate, correct, and reliable. </div> <div class="footer-content container"> <div class="footer-left"> <ul class="footer-links"> </ul> <div class="copyright"> <p> &copy; 2026 All Rights Reserved to bangladesh.gov.bd(National Portal) </p> <p class="last-updated"> Site last updated: Thursday, November 5, 2026 at 19:15:24 </p> </div> </div> <div class="footer-right"> <div class="planning-section"> <p class="planning-title">Planning and implementation</p> <div class="planning-logos"> <img src="/site-assets/images/a2iset.png" alt="a2i"> </div> </div> </div> </div> </footer> 
+    </div></div>
+</div>
+<script>const _window=window; const _document=document;</script>
+<script src="/site-assets/js/index.js"></script>
+<script src="/widget-assets/js/TopHeaderBlockWidget"></script>
+<script src="/widget-assets/js/SimpleHeaderWidget"></script>
+<script src="/widget-assets/js/LanguageSwitcherWidget"></script>
+<script src="/widget-assets/js/MenusSliderWidget"></script>
+<script src="/widget-assets/js/MenusWidget"></script>
+<script src="/widget-assets/js/EmbassyBannerSliderImageWidget"></script>
+<script src="/widget-assets/js/BannerSliderImageWidget"></script>
+<script src="/widget-assets/js/SocialContentShareWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionPopupWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionFormWidget"></script>
+<script src="/widget-assets/js/ContentViewerWidget"></script>
+<script src="/widget-assets/js/PrintWidget"></script>
+<script src="/widget-assets/js/AccessibilityWidget"></script>
+<script src="/widget-assets/js/GoToTopWidget"></script>
+<script src="/widget-assets/js/TitleWithImageContentWidget"></script>
+<script src="/widget-assets/js/ContentDetailsWidget"></script>
+<script src="/widget-assets/js/NewLandingFooterWidget"></script>
+
+<script src="/assets/js/index.js"></script>
+</body>
+</html>

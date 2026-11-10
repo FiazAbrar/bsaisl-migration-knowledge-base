@@ -1,0 +1,1886 @@
+Monthly Report on Workers' Remittance Inflows in
+                          Bangladesh
+                         August, 2026
+
+                Statistics Department
+                  Bangladesh Bank
+EDITORIAL COMMITTEE
+         Chief Advisor
+
+    Md. Anis Ur Rahman
+       Deputy Governor
+
+             Advisor
+
+        Shabnam Shirin
+Executive Director (Statistics)
+
+          Chief Editor
+
+Md. Habibour Rahman
+  Director (Statistics)
+
+          Editor
+
+     Dewan Sonia Sultana
+Additional Director (Statistics)
+
+          Contributors
+
+Taslima Islam                         Md. Azizul Kahar
+Joint Director (Statistics)       Assistant Director (Statistics)
+
+Any suggestions/comments for improvement in the contents of this booklet would be highly appreciated.
+Users may kindly contact with the following mailing address for their suggestions/comments and queries
+(if any):
+
+E-mail: habibour.rahman@bb.org.bd
+Director (Statistics)
+Balance of Payments Division, Statistics Department, Bangladesh Bank, Head Office, Dhaka.
+
+E-mail: dewan.sultana@bb.org.bd
+Additional Director (Statistics)
+Balance of Payments Division, Statistics Department, Bangladesh Bank, Head Office, Dhaka.
+Content                                                                   Page
+                                                                           No.
+Chapter 1: Introduction
+                                                                          01-03
+1.1              Introduction
+                                                                           01
+1.2              Structure of the Publication                              02
+                                                                           02
+1.3              Data Source                                               03
+                                                                           03
+1.4              Implications for Policy Analysts and Stakeholders         03
+
+1.5              Authority                                                04-11
+
+1.6              Dissemination of Workers' Remittance Inflows Statistics   04
+                                                                           05
+Chapter 2: Review on Workers' Remittance Inflows in Bangladesh             06
+                                                                           07
+2.1              Key Highlights                                            10
+
+2.2              Monthly Workers' Remittance Inflows                      12-22
+
+2.3              Country wise Workers' Remittance Inflows                  04
+                                                                           04
+2.4              Division and District wise Workers' Remittance Inflows    05
+                                                                           06
+2.5              Scheduled Bank wise Workers Remittance Inflows            08
+                                                                           10
+Chapter 3: Annexure
+                                                                           05
+List of Tables                                                             07
+
+Table-1          Monthly Comparison of Workers' Remittance Inflows
+Table-2          Yearly Comparison of Workers' Remittance Inflows
+Table-3          Month-over-Month Workers' Remittance Growth
+Table-4          Workers' Remittance Inflows from Top 30 Countries
+Table-5          Division and District wise Workers' Remittance Inflows
+
+Table-6          Bank-wise Monthly Workers' Remittance Inflows
+
+List of Figures
+
+Figure-1         Monthly Trend line of Workers' Remittance Inflows
+Figure-2         Division wise Workers' Remittance Inflows
+Annexure: Statistical Tables                                                      Page No.
+                                                                                      13
+Annexure -I Workers' Remittance Inflows from FY 1975-76 to FY 2026-27
+Annexure -II Month wise Workers' Remittance Inflows FY 2014-15 to FY 2026-27        14-15
+Annexure -III Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27     16-19
+Annexure-IV Division and District wise Workers' Remittance Inflows FY 2017-18 to
+                                                                                      20
+                   FY 2026-27
+Annexure-V Bank wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27           21-22
+Chapter 1: Introduction
+
+1.1 Introduction
+
+Remittances are among the most important sources of a country's foreign exchange reserves
+and play a vital role in its economic growth and development. Remittances represent
+household income from foreign economies arising mainly from the temporary or permanent
+movement of people to those economies. Remittances include cash and non-cash items that
+flow through formal channels, such as electronic wire transfers, or through informal channels,
+such as cash or goods carried across borders. When migrants send part of their earnings to
+their home in the form of either cash or goods to support their families, these transfers are
+known as workers' or migrant remittances. It has grown rapidly over the past few years and
+now accounts for the largest share of foreign income for many developing economies.
+
+Remittances play an increasingly vital role in the economies of small and developing
+countries, including for disaster relief, often exceeding official development assistance
+(ODA). They help raise the standard of living for people in low-income nations and help
+combat global poverty. In fact, since the late 1990s, remittances have exceeded development
+aid and, in some cases, accounted for a significant share of a country's gross domestic product
+(GDP).
+
+Workers' remittances play a pivotal role in Bangladesh's economy, serving as one of the
+largest sources of foreign exchange. The Bureau of Manpower, Employment, and Training
+(BMET) has reported that from 1976 to August, 2026, 18.57 million people obtained BMET
+licenses for overseas work. Inward remittances from Bangladesh expatriates are very
+significant for the nation and the Bank. Expatriate remittances are one of the largest sources
+of foreign currency. Manpower export plays an important role in poverty alleviation and
+helps reduce unemployment, the core problem of a densely populated country like
+Bangladesh.
+
+In recent years, Workers' remittance inflows have been crucial for maintaining economic
+stability, particularly amid global economic uncertainties and domestic challenges. In the
+current political and economic landscape, marked by inflationary pressures, exchange rate
+fluctuations, and rising import costs, remittances have provided much-needed relief by
+bolstering foreign currency reserves and supporting millions of households across the
+country. As a stabilizing factor, the steady flow of remittances has contributed to poverty
+reduction, improved living standards, and regional development. In the context of the
+ongoing post-pandemic economic recovery and political transitions, remittances are even
+more crucial for sustaining economic growth, ensuring liquidity in the banking sector, and
+reducing reliance on external borrowing.
+
+According to World Bank estimates, global workers' remittance flows reached US $905
+billion in 2024. Of this total, approximately US $685 billion was directed to low- and middle-
+income countries (LMICs), underscoring the crucial role of remittances in supporting
+household consumption, investment, and external balances in developing economies. With an
+
+1|Page
+estimated inflow of US $129 billion in 2024, India remained the world's largest recipient of
+remittances, followed by countries such as Mexico, China, the Philippines, and Egypt
+(Source: World Bank, 2024). In this global context, Bangladesh recorded an impressive US
+$35.6 billion in inward remittances during FY 2025-26.
+
+1.2 Structure of the Publication
+
+This publication presents an in-depth analysis of workers' remittance inflows to Bangladesh,
+focusing on several key dimensions. The Monthly Trend of Workers' Remittance Inflows
+section examines short-term fluctuations in remittance receipts over recent months, while the
+Yearly Trend Analysis provides a broader perspective on long-term growth patterns.
+
+A detailed country-wise breakdown of remittances from the top 30 source countries offers
+valuable insight into the major corridors contributing to Bangladesh's remittance inflows.
+Furthermore, the region-wise, division-wise, and district-wise analyses illustrate the
+geographic distribution of remittance earnings across the country, highlighting areas where
+these funds exert the most significant socioeconomic impact.
+
+In addition, scheduled bank-wise, district-wise and country-wise time series data have been
+incorporated as annexure to enhance the analytical depth of this publication. Together, these
+components provide a comprehensive overview of remittance trends, facilitating informed
+policy analysis and decision-making.
+
+1.3 Data Source
+
+Considering the significance of remittances to the economy, the Statistics Department of
+Bangladesh Bank has collected daily remittance data from Non-Resident Bangladeshis
+working abroad (remitters) since June 2016. Prior to this, the Foreign Exchange Policy
+Department was responsible for collecting wage remittance data. The remittance figures
+presented in this publication are compiled daily from all scheduled banks operating in
+Bangladesh. These banks aggregate data through multiple channels to ensure comprehensive
+coverage of workers' remittance inflows. The head offices of ADs must upload daily workers'
+remittance transactions, based on disbursements to beneficiary accounts, in a consolidated
+format. This report should include data from all AD branches and departments, organized by
+currency and district, using the RIT template T_ME_D_REMITTANCE maintained by the
+Statistics Department, Bangladesh Bank, Head Office, Dhaka. ADs must ensure that all NRB
+(Wage earners) remittance data are fully covered in this template and in the summary
+statement FCS-7, along with schedules FCR-1, 2, 3, and 4.
+
+The primary sources of data collection are as follows:
+· Inward remittance deposits through banking channels into Foreign Currency (FC) accounts,
+as well as FDD/TTs purchased from Bangladeshi nationals abroad for family support are
+reported in FCR-1.
+
+2|Page
+· Inward remittances received through Taka accounts of non-resident bank branches,
+correspondents, exchange houses, and subsidiaries abroad are reported in FCR-2, based on
+disbursement to beneficiaries' accounts.
+· Local deposits into foreign currency accounts such as drafts, traveler's cheques and cash, as
+well as purchases from Bangladeshi nationals abroad, are reported in FCR-3.
+This multi-channel approach enables real-time tracking of remittances and provides a robust
+dataset for analysis. The timely and detailed collection of remittance inflows enables the
+presentation of accurate, up-to-date trends, offering critical insights into the flow of foreign
+exchange into Bangladesh.
+1.4 Implications for Policy Analysts and Stakeholders
+
+This publication provides essential data for policymakers, government ministries, and
+research organizations to inform decisions that support the migrant workforce and maximize
+the economic benefits of remittances. The Ministry of Finance, Ministry of Expatriates'
+Welfare and Overseas Employment, and Planning Commission can use these data to design
+targeted policies that facilitate remittance flows, enhance financial inclusion for recipients,
+and address the needs of migrant workers abroad. Furthermore, these data serve as a
+foundation for research institutions and policymakers to conduct further analysis on
+leveraging remittances to promote sustainable development, reduce inequality, and strengthen
+long-term economic resilience.
+
+1.5 Authority
+
+Article 69 of the Bangladesh Bank Order, 1972 (President's Order No. 127 of 1972)
+authorizes Bangladesh Bank to request from Natural or Juridical persons including the
+government, such data or information as required for proper execution of its responsibilities.
+
+1.6 Dissemination of Workers' Remittance Inflows Statistics
+
+The Statistics Department of Bangladesh Bank publishes daily workers' remittance data on
+the Bangladesh Bank website (www.bb.org.bd) on a weekly basis. Additionally, the
+department provides country-wise, district-wise and bank-wise remittance data on a monthly
+basis at the following link: www.bb.org.bd/en/index.php/econdata/wageremitance
+
+Statistics Department also disseminates these data to various ministries, government and non-
+government organizations, international agencies, consulates and embassies as required.
+
+Workers' remittance data is also published on a monthly basis in the National Summary Data
+Page (NSDP) portal of the Bangladesh Bank website.
+
+3|Page
+Chapter 2: Review on Workers' Remittance Inflows in Bangladesh
+
+2.1 Key Highlights
+
+The significant points relating to Monthly Workers' Remittance Inflows in Bangladesh for
+the month of August, 2026 are presented below:
+
+During the month of August, 2026 the workers' remittance inflows stood at USD 2,967.53
+million compared to USD 2,858.76 million in July, 2026. This indicates an increase of USD
+108.78 million or 3.80% over the previous month and an increase of USD 545.64 million or
+22.53% over the same month of previous year (Table-1).
+
+During the Fiscal year 2026-27 (July-Aug) the workers' remittance inflows stood at USD
+5,826.29 million against an increase of USD 926.53 million or 18.91% over the same period
+of previous fiscal year (Table-2).
+
+        Table 1: Comparison of Monthly Workers' Remittance Inflows
+
+                                                                        In million USD
+
+                                                                  Growth (% )
+
+Period August, 2025 July, 2026 August, 2026                 August, 2026 August, 2026
+
+                                                            over               over
+
+                                                            July, 2026  August, 2025
+
+Remittance 2,421.89  2,858.76                   2,967.53    3.80%       22.53%
+
+Source: Statistics Department, Bangladesh Bank
+
+        Table 2: Comparison of Yearly Workers' Remittance Inflows
+
+        Period       FY 2025-26                 FY 2026-27                      In million USD
+                     (July-Aug)                 (July-Aug)          Growth (% )
+
+Remittance           4,899.76                    5,826.29   FY 2026-27 over FY 2025-26
+
+                                                                        18.91%
+
+Source: Statistics Department, Bangladesh Bank
+
+4|Page
+2.2 Monthly Workers' Remittance Inflows
+
+The following table shows the amount of month-wise workers' remittance inflows. By
+analyzing the figures, we see that the trend line of remittance inflows increases day by day.
+Every year, during the month of religious festivals and other occasions, remittance inflows
+increase. At the end of the fiscal year (June) or the calendar year (December), remittance
+inflows also increase. The monthly position is shown in Figure 1 and the monthly growth of
+remittance inflows is shown in Table-3.
+
+               Figure 1: Monthly Trendline on Workers' Remittance Inflows
+
+4000.00
+3500.00
+3000.00
+2500.00
+2000.00
+1500.00
+1000.00
+
+ 500.00
+    0.00
+
+          Jul Aug Sept Oct Nov Dec Jan Feb Mar Apr May Jun
+
+                   2026-27  2025-26              2024-25         2023-24           2022-23
+
+Table 3: Month-over-Month Workers' Remittance Growth
+
+Fiscal    Jul      Aug      Sept    Oct            Nov     Dec   Jan      Feb      Mar        Apr      May     Jun
+Year
+                                                 12.77%  11.56%                              -16.76  10.22%  -18.11%
+2026-27 1.41%      0.04%                         -8.15%  19.95%                             -16.49%   7.89%  -4.95%
+                                                 -2.10%  3.18%                               2.36%   10.31%  12.58%
+2025-26   -12.21%  -2.26%   10.89%  -4.58%       4.57%   6.55%   -1.61%   -4.80%   24.27%   -16.69%   0.40%  29.99%
+2024-25   -24.61%  16.22%   8.09%   -0.38%                       -17.19%  15.67%   30.38%
+                                                                  6.12%    2.43%   -7.74%
+ 2023-24 -10.27% -18.94% -16.57% 47.74%                          15.25%   -20.34%  29.61%
+ 2022-23 14.10% -2.83% -24.41% -0.92%
+Source: Statistics Department, Bangladesh Bank.
+
+5|Page
+2.3 Country wise Workers' Remittance Inflows
+
+Workers' remittance inflows from the top 30 countries in August, 2026 are listed in Table 4 below.
+
+Table 4: Workers' Remittance Inflows from Top 30 Countries
+
+                                                                      In million USD
+
+Sl. No.                Country                    July      2026-27   Jul-Aug
+
+1        SAUDI ARABIA                            587.29     August     1145.90
+                                                 396.74                 854.87
+2        UNITED KINGDOM (UK)                     273.18       558.61    540.20
+                                                 255.56       458.12    505.10
+3        UNITED STATES OF AMERICA (USA)          201.33       267.02    430.04
+                                                 203.11       249.54    415.64
+4        UNITED ARAB EMIRATES (UAE)              136.98       228.71    287.18
+                                                 148.74       212.53    292.45
+5        MALAYSIA                                141.96       150.20    275.92
+                                                 121.59       143.70    234.68
+6        ITALY                                    43.86       133.96    108.29
+                                                  36.54       113.09     83.56
+7        SINGAPORE                                40.60        64.44     85.02
+                                                  27.18        47.02     67.46
+8        KUWAIT                                   35.34        44.41     65.13
+                                                  21.30        40.28     43.44
+9        OMAN                                     18.10        29.79     37.55
+                                                  17.49        22.14     35.85
+10       QATAR                                    17.08        19.45     34.76
+                                                  12.26        18.35     26.97
+11       BAHRAIN                                  11.80        17.68     24.81
+                                                               14.71     19.74
+12       SOUTH AFRICA                              7.10        13.01     18.51
+                                                   9.27        12.64     17.52
+13       FRANCE                                    9.92                  13.40
+                                                   6.29         9.24     11.26
+14       KOREA, REPUBLIC OF                        4.87         7.60     11.28
+                                                   5.17         7.11     11.82
+15       JORDAN                                    6.06         6.40     10.45
+                                                   5.58         6.11
+16       AUSTRALIA                                 5.13         5.76      9.96
+                                                  51.34         4.87    107.56
+17       PORTUGAL                               2858.76         4.83  5826.29
+                                                               56.22
+18       GREECE                                              2967.53
+
+19       CANADA
+
+20       SPAIN
+
+21       GERMANY
+
+22       JAPAN
+
+23       POLAND
+
+24       MALDIVES
+
+25       SCOTLAND
+
+26       CYPRUS
+
+27       MAURITIUS
+
+28       MALTA
+
+29       SWEDEN
+
+30       BRUNEI DARUSSALAM
+
+31       Other Countries
+
+                  Total
+
+Source: Statistics Department, Bangladesh Bank
+
+6|Page
+2.4 Division and District wise Workers' Remittance
+
+During the month of August 2026, the highest remittance receiving division is Dhaka, which
+amounted to USD 1,558.52 million, which is 52.52% of total remittance inflows. The second highest
+position is Chattogram division, which amounted to USD 774.20 million, which is 26.09%, and the
+third position is Sylhet division, which amounted to USD 268.01 million, which is 9.03% of total
+remittance inflows (Table-5).
+
+In district-wise analysis, the top-most remittance-earning district is Dhaka (USD 1,086.64 million).
+The other districts with higher amounts of remittance inflows are Chattogram (USD 199.90 million),
+Cumilla (USD 181.76 million) and Sylhet (USD 148.35 million), respectively (Table 5).
+
+        Figure 2: Division Wise Workers' Remittance Inflows for
+
+                   Rangpur        August, 2026
+
+                              1%
+        Rajshahi
+
+               3%  Sylhet Barishal                               Barishal
+Mymensingh          9% 2%                                        Chattogram
+                                                                 Dhaka
+2%                                              Chattogram       Khulna
+
+Khulna                                          26%
+
+4%
+
+                                                                 Mymensingh
+
+                                                                 Rajshahi
+
+                                                                 Rangpur
+
+                                                                 Sylhet
+
+        Dhaka
+         53%
+
+7|Page
+Table 5: Division and District wise Workers' Remittance Inflows
+
+                                                                 In million USD
+                                                FY 2026-27
+
+Division    District            July            August    July-Aug
+
+  Barishal  Barguna             5.15                5.33     10.48
+Chattogram
+            Barishal           19.75               20.81     40.55
+   Dhaka
+  Khulna    Bhola              11.13               11.13     22.26
+
+            Jhalokathi          4.21                4.25      8.45
+
+            Patuakhali          5.36                5.79     11.15
+            Pirojpur            8.92                8.60     17.52
+            Barisal Total      54.51               55.91   110.42
+            Bandarban           3.99               11.28     15.27
+            Brahmanbaria       79.83               80.58   160.41
+            Chandpur           65.63               65.10   130.73
+            Chattogram        201.82             199.90    401.72
+            Cox's Bazar        16.84               19.43     36.27
+            Cumilla           185.40             181.76    367.16
+            Feni               68.54               75.12   143.66
+            Khagrachari         2.76                3.00
+            Lakshmipur         44.17               44.60      5.76
+            Noakhali           88.26               91.68     88.77
+            Rangamati           1.62                1.76   179.94
+            Chattogram Total  758.85             774.20
+            Dhaka             1059.81           1086.64       3.38
+            Faridpur           31.13               31.46  1533.06
+            Gazipur            42.40               46.10  2146.45
+            Gopalganj          12.18               13.76
+            Kishoreganj        41.20               41.73     62.59
+            Madaripur          54.86               57.32     88.50
+            Manikganj          20.88               23.40     25.93
+            Munshiganj         50.31               59.20     82.93
+            Narayanganj        51.07               55.15   112.18
+            Narshingdi         38.38               42.41     44.29
+            Rajbari            10.89               11.53   109.52
+            Shariatpur         30.17               32.53   106.22
+            Tangail            54.78               57.28     80.80
+            Dhaka Total       1498.07           1558.52      22.42
+            Bagerhat            8.92                9.06     62.70
+            Chuadanga           9.36                9.77   112.06
+            Jashore            24.06               24.54  3056.59
+            Jhenaidah          12.27               12.17     17.98
+            Khulna             15.06               16.33     19.13
+            Kushtia            16.50               17.38     48.61
+            Magura              6.13                6.46     24.43
+            Meherpur            9.00                8.78     31.40
+            Narail              6.92                7.02     33.88
+            Satkhira           10.49               11.83     12.59
+            Khulna Total      118.72             123.34      17.78
+                                                             13.94
+                                                             22.32
+                                                           242.06
+
+Source: Statistics Department, Bangladesh Bank
+
+8|Page
+                                                                                            In million USD
+Source: Statistics Department, Bangladesh Bank
+
+9|Page
+2.5 Bank wise Workers Remittance Inflows
+
+In August 2026, the top 3 banks with the highest workers' remittances were Islami Bank Bangladesh
+PLC, Bangladesh Krishi Bank and Brac Bank PLC. Bank wise workers' remittances are shown in
+Table 6.
+
+Table 6: Bank wise Workers Remittance Inflows
+
+FI Cluster          FI ID                   FI Name                    2026-27  In million USD
+                                                                    July
+                    11     Agrani Bank PLC                        245.76                 August
+                                                                   36.40                 162.08
+                    12     Janata Bank PLC                         31.67                   79.31
+                                                                  124.04                   52.09
+   State-owned      14     Rupali Bank PLC                          0.09                 139.96
+Commercial Banks
+                    15     Sonali Bank PLC                             ---                  0.08
+                                                                  437.97                       ---
+                    35     Basic Bank PLC                         325.51
+                                                                                         433.51
+                    135 Bangladesh Development Bank PLC                ---               291.91
+                                                                  325.51
+State-owned Commercial Bank Total                                                              ---
+                                                                    7.35                 291.91
+Specialized         31     Bangladesh Krishi Bank                 452.77
+Banks/Development                                                  23.30                    2.37
+Banks               33     Rajshahi Krishi Unnayan Bank           120.56                 550.89
+                                                                                           17.13
+Specialized Banks/Development Bank Total                            2.49                 135.29
+                                                                   94.48
+                    41 AB Bank PLC                                 33.18                    6.81
+                                                                    1.17                   74.33
+                    42     Islami Bank Bangladesh PLC               0.26                   94.93
+                                                                  109.32                    7.13
+                    43     National Bank PLC                       62.45                    0.11
+                                                                   95.18                   90.13
+                    44     City Bank PLC                           64.37                   40.53
+                                                                  101.84                   49.72
+                    45     IFIC Bank PLC                           28.67                   66.00
+                                                                    0.48                 148.43
+                    46     United Commercial Bank PLC             100.32                   39.71
+                                                                   25.83                    1.02
+                    47     Pubali Bank PLC                         31.79                 156.75
+                                                                    0.30                   22.17
+                    48     Uttara Bank PLC                          0.89                   13.98
+                                                                    0.10                    0.74
+                    50     Shimanto Bank PLC                       89.72                    1.07
+                                                                                            0.09
+                    52     Eastern Bank PLC                                                71.93
+
+                    53     National Credit and Commerce Bank PLC
+
+Private Commercial  54     Prime Bank PLC
+Banks
+
+                    55     Southeast Bank PLC
+
+                    56     Dhaka Bank PLC
+
+                    57     Al-Arafah Islami Bank PLC
+
+                    58     Social Islami Bank PLC
+
+                    59     Dutch Bangla Bank PLC
+
+                    60     Mercantile Bank PLC
+
+                    61     Standard Bank PLC
+
+                    62 One Bank PLC
+
+                    63     Exim Bank PLC
+
+                    64     Bangladesh Commerce Bank PLC
+
+                    65     Mutual Trust Bank PLC
+
+10 | P a g e
+FI Cluster          FI ID FI Name                                                    2026-27  In million USD
+                                                                                July
+                    66                      Premier Bank PLC                   26.03                   August
+                                                                                0.15                     22.96
+                    67                      First Security Islami Bank PLC     46.35                       0.18
+                                                                             215.00                      37.26
+                    68                      Bank Asia PLC                      23.01                    211.49
+                                                                               38.49                     18.01
+                    69                      Trust Bank PLC                   270.34                      57.28
+                                                                                3.42                    252.81
+                    70                      Shahjalal Islami Bank PLC           3.18                       4.07
+                                                                                0.60                       7.35
+                    71                      Jamuna Bank PLC                     3.34                       2.99
+                                                                                                         13.24
+                    72                      Brac Bank PLC                         ---                        ---
+                                                                                0.03                       0.04
+                    76                      NRB Commercial Bank PLC             2.91                       6.01
+                                                                                0.16                       0.24
+                    77                      SBAC Bank PLC                       7.28                       5.84
+                                                                                                             ---
+Private Commercial  78                      Meghna Bank PLC                       ---                      1.51
+Banks                                                                           0.01                       2.77
+                    79                      Midland Bank PLC                    1.80                       0.04
+                                                                                1.03
+                    80                      Padma Bank PLC                  2089.96                   2235.38
+                                                                                4.89                       6.16
+                    82                      Union Bank Ltd                                                   ---
+                                                                                  ---                        ---
+                    83 NRB Bank Ltd                                               ---                      0.19
+                                                                                0.08                       0.29
+                    84                      Global Islami Bank PLC              0.28
+                                                                                                             ---
+                    85                      Modhumoti Bank PLC                    ---                      0.08
+                                                                                0.07                       0.01
+                    107 ICB Islami Bank Ltd                                     0.01
+                                                                                                             ---
+                    139 Community Bank Bangladesh PLC                             ---                      6.74
+                                                                                5.32                  2967.53
+                    140 Bengal Commercial Bank PLC                          2858.76
+
+                    141 Citizen bank PLC
+
+Private Commercial Bank Total               Standard Chartered Bank Ltd
+                                            State Bank of India
+                                       4.0  Habib Bank Ltd
+                                         0
+
+                                       0.0
+                                         0
+
+                                    25
+
+                    26                      Citi Bank NA Ltd
+
+Foreign Commercial  27                      Commercial Bank of Ceylon
+Banks
+
+                    28                      National Bank of Pakistan
+
+                    73 Woori Bank
+
+                    74                      Hongkong and Shanghai Banking
+                                            Corporation
+
+                    75                      Bank Alfalah
+
+Foreign Commercial Bank Total
+
+Grand Total
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+
+11 | P a g e
+                                   Annexure: Statistical Tables
+
+12 | P a g e
+Workers' Remittance Inflows from FY 1975-76 to FY 2026-27             Annexure-I
+                                                                    In million USD
+
+                      Fiscal Year               Remittance Inflows
+                            1975-76                       16.35
+                            1976-77                       47.25
+                            1977-78                      101.98
+                            1978-79                      124.05
+                            1979-80                      248.87
+                            1980-81                      381.12
+                            1981-82                      418.39
+                            1982-83                      621.93
+                            1983-84                      597.83
+                            1984-85                      441.64
+                            1985-86                      555.74
+                            1986-87                      697.45
+                            1987-88                      737.48
+                            1988-89                      770.82
+                            1989-90                      758.23
+                            1990-91                      763.90
+                            1991-92                      849.67
+                            1992-93                      944.53
+                            1993-94                      1088.72
+                            1994-95                      1197.63
+                            1995-96                      1217.06
+                            1996-97                      1475.42
+                            1997-98                      1525.43
+                            1998-99                      1705.74
+                            1999-00                     1949.32
+                            2000-01
+                            2001-02                     1882.10
+                            2002-03                     2501.13
+                            2003-04                     3061.97
+                            2004-05                     3371.97
+                            2005-06                     3848.29
+                            2006-07                     4802.41
+                            2007-08                     5978.47
+                            2008-09                     7914.78
+                            2009-10                     9689.26
+                            2010-11                     10987.40
+                            2011-12                     11650.32
+                            2012-13                     12843.43
+                            2013-14                     14461.15
+                            2014-15                     14228.30
+                            2015-16                     15316.91
+                            2016-17                     14931.18
+                            2017-18                     12769.45
+                            2018-19                     14981.69
+                            2019-20                     16419.63
+                            2020-21                     18205.02
+                            2021-22                     24777.71
+                            2022-23                     21031.73
+                            2023-24                     21610.72
+                            2024-25                     23912.22
+                            2025-26                     30328.81
+                                                        35589.39
+                        2026-27(Aug)                    5826.29
+Source: Statistics Department, Bangladesh Bank
+
+13I Page
+Month wise Workers' Remittance Inflows FY 2014-15 to FY 2026-27                               Annexure-II
+
+Fiscal Year  July     August                     September  October             November  In million USD
+                                                                                 1932.50  December
+2014-2015    1139.24  1228.59                    1438.31    1048.31              1172.09
+                                                                                  951.37   1047.75
+2015-2016    1296.23  1149.59                    1284.70    1139.54              1214.74   1313.13
+                                                                                 1180.44    958.73
+2016-2017    1005.51  1183.61                    1056.64    1010.99              1555.23   1163.82
+                                                                                 2078.74   1206.91
+2017-2018    1115.57  1418.58                    856.87     1162.77              1553.73   1691.68
+                                                                                 1595.17   2050.65
+2018-2019    1318.18  1411.05                    1139.66    1239.11              1930.04   1630.66
+                                                                                 2199.99   1699.70
+2019-2020    1597.69  1444.75                    1476.91    1641.67              2889.73   1991.26
+                                                                                           2638.78
+2020-2021    2598.21  1963.94                    2151.05    2102.16                        3223.67
+
+2021-2022    1871.49  1810.10                    1726.71    1646.87
+
+2022-2023    2096.32  2036.93                    1539.60    1525.54
+
+2023-2024    1973.15  1599.45                    1334.35    1971.43
+
+2024-2025    1913.77  2224.15                    2404.11    2395.08
+
+2025-2026    2477.87  2421.89                    2685.56    2562.44
+
+2026-2027    2858.76  2967.53
+
+Source : Statistics Department, Bangladesh Bank
+
+           Upto June, 2016 Foreign Exchange Policy Department, Bangladesh Bank
+
+14I Page
+                                                                  Annexure-II
+
+January   February  March      April    May      June     Total    In million USD
+1188.54   1245.53   1385.41  1251.49  1305.91  1341.58  15553.16  Fiscal Year
+1167.59   1137.39   1288.15  1191.51  1201.32  1465.59  14806.81  2014-2015
+1009.47    940.75   1077.52  1092.64  1267.61  1214.61  12769.46  2015-2016
+1379.79   1149.08   1299.77  1331.33  1504.98  1384.37  14981.69  2016-2017
+1597.21   1317.73   1458.68  1434.30  1748.16  1368.20  16419.63  2017-2018
+1638.43   1452.20   1276.29  1092.96  1504.60  1832.63  18205.02  2018-2019
+1961.91   1780.59   1910.98  2067.64  2171.03  1940.81  24777.71  2019-2020
+1704.53   1494.47   1859.73  2010.81  1885.34  1837.27  21031.73  2020-2021
+1958.87   1560.48   2022.47  1684.91  1691.66  2199.08  21610.72  2021-2022
+2113.15   2164.56   1997.07  2044.23  2254.93  2538.60  23912.22  2022-2023
+2185.23   2527.65   3295.63  2752.33  2969.56  2822.53  30328.81  2023-2024
+3171.63   3019.45   3752.21  3123.32  3442.58  2819.03  35589.39  2024-2025
+                                                        5826.29   2025-2026
+                                                                  2026-2027
+
+15I Page
+                            Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27                                       Annex-III
+                                                                                                                          In million USD
+             Fiscal Month
+Fiscal Year                UNITED ARAB
+                              EMIRATES
+                                  (UAE)
+                                                     UNITED
+                                                         STATES OF
+
+                                                            AMERICA (USA)
+                                                                                UNITED
+
+                                                                                    KINGDOM (UK)
+                                                                                                            SAUDI ARABIA
+
+                                                                                                                                      MALAYSIA
+                                                                                                                                                                 KUWAIT
+                                                                                                                                                                                           ITALY
+                                                                                                                                                                                                                       QATAR
+                                                                                                                                                                                                                                                    OMAN
+
+2016-17                                         2093.5  1688.8   808.2  2267.2  1103.6         1033.3    510.8    576.0                                                                                                                                    897.7
+                                                        1998.0  1106.0  2591.6  1107.2         1199.7    662.2    844.1                                                                                                                                    958.2
+2017-18                                         2430.0  1842.9  1175.6  3110.4  1197.6         1463.4    757.9   1023.9                                                                                                                                   1066.1
+                                                        2403.4  1364.9  4015.2  1231.3         1372.2    699.1   1019.6                                                                                                                                   1240.5
+2018-19                                         2540.4  3461.7  2023.6  5721.4  2002.4         1886.5    810.9   1450.2                                                                                                                                   1535.6
+                                                         343.5   184.0   632.6   235.6          173.1             127.7                                                                                                                                    198.2
+2019-20                                         2472.6   219.7   147.1   450.6   196.3          136.7      67.1   102.0                                                                                                                                    134.6
+                                                         251.9   185.1   530.9   175.4          156.5      80.9   116.8                                                                                                                                    153.3
+2020-21                                         2440.0   275.4   171.9   499.7   187.3          155.2      78.8   102.8                                                                                                                                    155.9
+                                                         273.5   178.8   471.0   188.5          154.5      63.9   112.5                                                                                                                                    128.1
+             July                               284.3    282.3   153.1   482.4   163.6          163.3      60.3   112.4
+                                                         284.9   153.7   464.1   139.3          164.2      79.6   113.2                                                                                                                                      99.5
+             August                             235.6    259.2   161.2   399.8   143.7          148.2      61.9   110.7                                                                                                                                    106.5
+                                                         298.6   181.3   426.2   131.3          159.4      52.5   118.4
+             September                          231.5    344.2   183.6   438.0   162.8          162.3      56.5   139.0                                                                                                                                      88.6
+                                                         334.5   179.8   476.1   173.1          158.7      61.4   145.0                                                                                                                                    106.3
+             October                            215.4    293.8   144.1   450.0   105.4          154.3      71.3   149.7                                                                                                                                    112.0
+                                                        3438.4  2039.2  4542.0  1021.9         1689.6      76.7  1346.5                                                                                                                                    134.2
+             November                           211.2    282.4   159.4   462.4   110.8          148.8   1054.2    120.5                                                                                                                                    118.5
+                                                         277.5   145.8   432.3                  152.6      77.2   126.1                                                                                                                                    897.4
+2020-21      December                           195.1    298.2   146.8   409.5     96.2         140.6      90.9   109.8                                                                                                                                    110.0
+             January                            183.6    293.9   143.3   395.7     83.8         131.2      90.0   106.9
+                                                         271.7   138.6   365.2     82.0         126.9      84.0   105.7                                                                                                                                      99.8
+             February                           152.3    268.4   146.4   370.0     72.1         140.0      73.7   115.9                                                                                                                                      81.7
+                                                         279.5   193.7   358.2     76.5         131.3      90.6   111.8                                                                                                                                      65.0
+             March                              170.1    235.8   165.1   315.5     79.3         120.6      90.1     97.9                                                                                                                                     62.5
+                                                         308.3   214.3   377.5     75.1         144.5      67.4   119.6                                                                                                                                      61.5
+             April                              182.0    355.2   239.0   376.1     81.4         148.3      85.9   113.0                                                                                                                                      69.1
+                                                         273.2   166.5   330.0     92.6         147.0      98.4   105.1                                                                                                                                      58.0
+             May                                198.8    294.3   180.3   349.6     91.4         157.8    101.1    114.3                                                                                                                                      74.3
+                                                        3522.0  2080.4  3765.3     80.6        1555.3    105.0   1452.7                                                                                                                                      74.4
+             June                               180.0    363.3   197.8   349.6  1125.9          141.9   1185.9    106.9                                                                                                                                      84.7
+                                                         358.7   182.0   341.7   139.3          143.5    129.7    131.4                                                                                                                                      56.4
+2021-22                                         2071.8   277.7   128.8   307.7   107.1          117.9    126.9    113.8                                                                                                                                    790.6
+                                                         233.7   110.5   308.5     78.4         132.4      86.6   141.9                                                                                                                                      78.2
+             July                               159.2    304.9   141.2   295.2     70.6         126.3      87.2   121.2                                                                                                                                      51.2
+                                                         428.3   150.9   306.4     69.4         100.8      85.5     84.1                                                                                                                                     40.6
+             August                             155.4    298.7   199.4   308.7     78.7         143.1      95.1   120.9                                                                                                                                      49.7
+                                                         231.9   137.7   261.7     97.4         113.4      95.1   128.5                                                                                                                                      49.8
+             September                          131.8    304.0   216.8   283.4     91.5         167.8      84.4   148.7                                                                                                                                      43.5
+                                                         246.2   175.3   276.3     98.8         135.1    103.7    117.7                                                                                                                                      64.4
+             October                            122.5    225.2   165.7   320.1     92.6         118.5      98.7   116.1                                                                                                                                      61.1
+                                                         249.4   274.4   406.0     85.9         114.5      95.9   121.5                                                                                                                                    106.5
+             November                           125.9   2961.6  2793.2  2741.5   116.3         1496.7      97.3  1150.0                                                                                                                                      83.7
+                                                         200.0   221.3   307.5  1744.4          114.8   1461.6    113.6                                                                                                                                      72.2
+2021-22      December                           120.5    170.3   219.6   291.4   116.7          116.2    113.6      68.3                                                                                                                                     89.7
+             January                            138.9    141.2   147.9   216.1     83.4                  111.3      72.6                                                                                                                                  1123.5
+                                                         184.0   234.6   250.7     66.6           93.2     93.0   101.1                                                                                                                                    120.8
+             February                           128.2    219.4   266.1   194.4   149.0          152.0    178.3      87.7                                                                                                                                     64.8
+                                                         210.1   280.4   165.5   175.5          116.5    148.6      83.9                                                                                                                                     42.4
+             March                              184.1    209.2   242.4   179.1   177.3          122.4    117.9    111.4                                                                                                                                      74.3
+                                                         340.9   268.6   182.6   184.5          135.1    137.7    112.1                                                                                                                                      66.4
+             April                              236.2    268.3   263.2   179.8   142.1          125.2    100.0      87.7                                                                                                                                     77.7
+                                                         331.9   201.1   195.8   133.1          126.3    108.5    104.3                                                                                                                                      89.0
+             May                                338.6    320.1   243.5   258.2   132.9          141.1    104.9    102.1                                                                                                                                      67.7
+                                                         366.3   204.6   320.3   167.9          120.6    108.9    105.4                                                                                                                                      94.9
+             June                               230.5   4732.9  3168.5  4264.3   215.5          133.2    138.9   1205.3                                                                                                                                    139.9
+                                                         239.0   187.1   244.7  2804.7         1623.6   1652.5      89.1                                                                                                                                   136.3
+2022-23                                         3037.7   293.5   172.8   268.7   130.6          116.4    128.3      87.4                                                                                                                                   149.3
+                                                         387.9   205.6   345.4   251.9          129.6    151.6      88.6                                                                                                                                  1634.7
+             July                               304.9    498.0   197.9   317.3   237.1          113.1    145.7      87.9                                                                                                                                   108.2
+                                                         512.0   187.4   257.0   195.6          127.9    136.4      79.5                                                                                                                                   107.1
+             August                             305.2    565.0   248.5   290.0   192.0          121.3    106.8    101.8                                                                                                                                    112.1
+                                                        407.52  273.40  270.16   258.0          131.6    111.1    96.44                                                                                                                                    122.7
+             September                          178.4    491.3   305.5   328.8  154.55         135.93   131.00    100.0                                                                                                                                      94.8
+                                                         546.1   387.2   448.4   183.9          141.1    111.1    117.2                                                                                                                                    150.6
+             October                            170.7    330.9   294.1   491.4   290.9          184.7    156.2    104.3                                                                                                                                   126.92
+                                                         223.7   346.9   533.3   210.9          162.7    150.6    136.5                                                                                                                                    123.7
+             November                           184.9    238.1   362.1   469.1   340.4          140.2    158.9    116.6                                                                                                                                    186.5
+                                                        3013.2  5072.0  5848.9   358.8          119.1    164.7   1558.5                                                                                                                                    148.3
+2022-23      December                           193.6    222.2   282.6   426.4  3403.7         1763.7   2051.5    105.6                                                                                                                                    181.4
+             January                            350.1    231.6   279.5   397.6   266.9          132.1    169.0      92.0                                                                                                                                   172.2
+                                                         172.7   366.5   409.9   276.4          108.4    166.9    124.6                                                                                                                                   2048.2
+             February                           212.2    192.3   362.7   385.8   273.9          126.8    177.4    126.8                                                                                                                                    139.8
+                                                         207.5   378.4   430.8   280.0          125.9    161.7    146.3                                                                                                                                    146.5
+             March                              308.2    258.6   404.2   489.4   331.2          149.2    156.8    145.0                                                                                                                                    148.4
+                                                         275.0   469.3   474.6   322.8          164.3    194.7    138.0                                                                                                                                    162.0
+             April                              204.1    276.4   443.4   490.3   280.3          168.8    188.4    125.8                                                                                                                                    172.7
+                                                         365.5   526.7   704.7   317.6          148.1    160.3    151.6                                                                                                                                    180.0
+             May                                235.7    319.9   521.6   523.7   353.4          178.7    157.7    136.1                                                                                                                                    182.1
+                                                         268.0   651.0   546.6   217.5          139.3    175.9    127.1                                                                                                                                    178.0
+             June                               389.6    223.6   386.2   569.2   300.2          167.4    167.2    139.7                                                                                                                                    221.9
+                                                         267.0   458.1   558.6   183.6          154.7    175.6    113.1                                                                                                                                    157.5
+2023-24                                         4635.3   273.2   396.7   587.3   228.7          143.7    212.5    121.6                                                                                                                                    210.7
+                                                         267.0   458.1   558.6   201.3          148.7    203.1    113.1                                                                                                                                    148.5
+             July                               330.0                            228.7          143.7    212.5                                                                                                                                             134.0
+                                                                                                                                                                                                                                                           142.0
+             August                             239.5                                                                                                                                                                                                      134.0
+
+             September                          258.7
+
+             October                            337.8
+
+             November                           383.7
+
+2023-24      December                           450.8
+             January                            451.1
+
+             February                           482.8
+
+             March                              370.3
+
+             April                              384.6
+
+             May                                414.3
+
+             June                               531.6
+
+2024-25                                         4167.9
+
+             July                               332.7
+
+             August                             337.8
+
+             September                          361.7
+
+             October                            333.7
+
+             November                           290.5
+
+2024-25      December                            370.9
+             January                            249.56
+
+             February                           334.9
+
+             March                              508.4
+
+             April                              372.2
+
+             May                                351.1
+
+             June                               324.6
+
+2025-26                                         4583.9
+
+             July                               283.8
+
+             August                             266.0
+
+             September                          334.6
+
+             October                            297.3
+
+             November                           401.3
+
+2025-26      December                           476.0
+             January                            388.0
+
+             February                           374.5
+
+             March                              586.4
+
+             April                              402.2
+
+             May                                468.2
+
+             June                               305.7
+
+2026-27                                         249.5
+
+2026-27 July                                    255.6
+
+             August                             249.5
+
+Source: Statistics Department, Bangladesh Bank
+
+Note: --- = Not available
+
+16I Page
+                                                       Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27                                    Annex-III
+                                                                                                                                                  In million USD
+
+Fiscal Year  Fiscal Month  BAHRAIN
+                                                   SINGAPORE
+
+                                                                           FRANCE
+                                                                                                  SOUTH AFRICA
+
+                                                                                                                        MAURITIUS
+                                                                                                                                               GREECE
+                                                                                                                                                                       CANADA
+                                                                                                                                                                                               JORDAN
+
+                                                                                                                                                                                                                      GERMANY
+                                                                                                                                                                                                                                               SPAIN
+
+2016-17                                         437.1   301.0   104.8   85.1    42.2    22.5                               49.5    91.0    31.7                                                                                                        75.8
+                                                        330.1   134.4  153.2    46.7    39.4                               57.6   111.2    40.2                                                                                                        39.9
+2017-18                                         541.6   368.3   159.4  168.1    54.4    42.9                               62.9   126.8    60.6                                                                                                        49.2
+                                                        457.4   160.5  168.1    50.1    52.3                               77.2   126.8    52.7                                                                                                        44.3
+2018-19                                         470.1   624.8   201.1  420.4    88.1    89.9                              133.5   170.9    66.9                                                                                                        53.5
+                                                          82.8          34.6              7.2                              13.1    17.2      5.7
+2019-20                                         437.2     60.2   20.5   20.5      7.9     5.7                                9.0   13.4      4.6                                                                                                         4.9
+                                                          46.1   16.8   30.3      6.9     5.6                              10.8    13.2      4.9                                                                                                         4.8
+2020-21                                         577.7     46.7   16.2   36.0      6.8     6.7                              11.7    11.7      4.7                                                                                                         3.6
+                                                          57.6   16.9   35.0      6.1     7.8                              11.3    12.5      5.7                                                                                                         3.8
+             July                               60.7      51.2   16.7   40.6      7.4   10.1                               11.4    14.1      6.5                                                                                                         4.9
+                                                          50.7   19.2   39.0      9.1     8.4                              10.2    14.0      6.2                                                                                                         4.8
+             August                             46.2      43.5   15.5   37.9      9.8     6.5                              10.6    13.2      5.6                                                                                                         3.4
+                                                          42.7   15.1   33.0      7.1     7.3                              10.2    14.9      5.3                                                                                                         3.5
+             September                          53.0      46.4   15.7   39.2      5.5     6.9                              11.5    13.6      5.9                                                                                                         4.2
+                                                          53.5   17.1   40.1      4.5     9.4                              12.8    16.2      6.1                                                                                                         4.8
+             October                            45.0      43.6   15.7   34.1      8.9     8.4                              11.0    16.9      5.7                                                                                                         5.3
+                                                        385.2    15.7  314.7      8.2   95.6                              127.3   143.2    83.5                                                                                                          5.5
+             November                           47.9      37.9  256.0   30.3    90.8      6.9                                9.8   13.3      5.4                                                                                                       64.7
+                                                          37.7   17.7   20.5      7.4     8.0                                9.3   12.4      6.9                                                                                                         5.0
+2020-21      December                           50.7      36.1   18.4   25.7      7.9     7.5                                9.2   13.0      6.7                                                                                                         5.3
+                                                          32.1   19.1   23.6      7.1     7.0                                9.5   11.5      5.3                                                                                                         5.3
+             January                            47.1      26.6   18.2   22.3      7.9     7.5                                9.3   11.4      5.3                                                                                                         4.6
+                                                          30.5   17.5   21.4      6.0     8.3                              10.4    11.1      6.3                                                                                                         4.6
+             February                           40.5      33.0   21.4   30.5    10.4      8.6                                9.4   11.0      7.4                                                                                                         5.6
+                                                          28.7   23.2   28.9    10.1      7.3                                9.4   11.0      6.5                                                                                                         5.9
+             March                              44.7      29.8   19.6   34.9      7.0     6.9                              11.9    11.5      8.1                                                                                                         4.8
+                                                          34.6   23.7   29.7      6.7     8.9                              15.0    14.2      8.8                                                                                                         5.3
+             April                              45.3      29.4   23.4   17.3      7.5     8.5                                9.8   11.0      7.3                                                                                                         5.6
+                                                          28.9   24.3   29.5      5.4   10.0                               14.3    11.9      9.5                                                                                                         5.5
+             May                                50.0    423.3    29.5  235.3      7.5  130.5                              138.5   127.9   112.3                                                                                                          7.1
+                                                          31.9  291.9   22.8   109.6    10.9                               12.3    13.0      9.3                                                                                                       84.9
+             June                               46.6      33.3   29.9   29.1      6.0   11.7                               12.6    12.7      8.1                                                                                                         7.6
+                                                          24.9   26.9   21.0    13.5      8.2                                8.6   10.9      6.2                                                                                                         7.6
+2021-22                                         566.6     26.2   19.0   19.1    10.4      9.8                                9.2   12.6      6.4                                                                                                         5.8
+                                                          29.8   19.2   21.9      5.0   11.8                                 7.7             7.0                                                                                                         5.2
+             July                               46.3      29.8   20.5   27.2      5.5   12.1                                 8.9     9.4     8.7                                                                                                         5.5
+                                                          39.2   18.8   25.4    10.3    13.9                               13.7      7.9   11.2                                                                                                          5.5
+             August                             45.7      37.0   27.2   10.7      6.8     9.0                              10.3      9.4     8.6                                                                                                         8.0
+                                                          41.0   20.6   20.2      5.9   12.1                               10.8    10.9    11.7                                                                                                          5.2
+             September                          43.5      38.8   29.0   16.4      7.4     9.7                              12.9      8.9     8.6                                                                                                         7.9
+                                                          36.6   26.2             5.4   10.6                               10.8    10.4      8.2                                                                                                         8.6
+             October                            40.6      54.8   23.2     8.5   10.1    10.8                               20.8    10.0    18.5                                                                                                          7.2
+                                                        632.3    31.4   12.8    23.2   145.1                              142.4    11.7   124.8                                                                                                        10.6
+             November                           44.0      42.7  358.5  308.2   164.3    10.2                               12.2   133.3      9.6                                                                                                      116.9
+                                                          26.9   34.1   36.7    39.6    12.5                                 6.9   10.8      4.9                                                                                                         9.7
+2021-22      December                           46.7      24.6   24.8   11.2    44.7      9.2                                6.8   10.4      7.4                                                                                                         7.4
+                                                          42.1   20.7   19.3      7.4   14.6                               10.7    10.0    16.5                                                                                                          4.9
+             January                            47.4      44.7   34.5   22.8      7.0   10.7                                 9.4   11.8      8.5                                                                                                       10.3
+                                                          60.4   20.6   22.3      7.0   13.0                                 9.8     9.7     6.7                                                                                                       10.2
+             February                           48.9      71.6   29.2   31.8      9.3   17.2                                 9.9     8.6   11.9                                                                                                          7.4
+                                                          73.0   32.8   39.9      9.2   11.2                               14.3    13.5    12.9                                                                                                        12.6
+             March                              57.5      47.4   37.0   16.9      6.9   11.8                               16.3    11.4    13.6                                                                                                        14.9
+                                                          50.9   35.0   19.4    11.0      9.6                              14.0      9.9   10.1                                                                                                        10.6
+             April                              49.3      72.8   31.0   19.0      6.7   13.8                               13.7    11.0    10.4                                                                                                          7.9
+                                                          75.0   30.0   36.9      6.5   11.2                               18.3    11.3    12.2                                                                                                        11.2
+             May                                52.0    980.3    28.9   31.9      9.0  185.2                              224.0    15.1   180.6                                                                                                          9.8
+                                                          52.0  335.6  402.9   143.7    13.5                               14.7   168.2    12.0                                                                                                       144.0
+             June                               44.9      66.7   29.8   18.5      6.9   15.8                               25.1    11.5    14.9                                                                                                          9.8
+                                                          83.6   35.5   25.7    21.9    15.5                               20.6      8.7   11.0                                                                                                        11.2
+2022-23                                         528.3     63.4   21.2   22.5    10.1    18.9                               15.9    17.2    13.4                                                                                                        12.5
+                                                          70.7   21.8   25.9    10.4    17.0                               14.9    14.2    13.8                                                                                                        12.8
+             July                               44.5      81.4   20.2   21.7      9.8   19.5                               18.0    13.9    17.0                                                                                                        11.6
+                                                        64.85    23.9   33.2    15.0   11.98                              13.21    13.4   15.07                                                                                                        14.6
+             August                             41.5      78.6  26.11  27.62   10.34    12.1                               18.9   11.06    22.3                                                                                                        8.86
+                                                          95.2   24.4   30.5    11.6    14.6                               24.7    14.2    19.2                                                                                                        10.6
+             September                          33.7    118.6    37.3   33.8      9.2   14.7                               23.7    14.0    16.9                                                                                                        14.1
+                                                        109.2    31.8   28.9    11.4    14.7                               20.2    14.7    14.0                                                                                                        12.5
+             October                            50.5      95.9   31.4   75.8    14.2    16.8                               14.1    18.6    11.0                                                                                                        13.3
+                                                       1493.9    32.2   58.8    12.8   203.8                              213.5    16.8   152.3                                                                                                        12.2
+             November                           31.8      88.1  471.7  628.7    82.4    16.6                               16.0   246.4    12.0                                                                                                       155.0
+                                                        110.6    32.9   42.6      9.4   16.7                               15.1    16.1    11.0                                                                                                        14.5
+2022-23      December                           18.3    129.2    31.6   48.3      9.0   24.4                               11.3    16.4    11.8                                                                                                        13.0
+                                                        104.6    40.0   63.5      6.7   17.8                               13.2    18.7    12.6                                                                                                        13.2
+             January                            40.1    117.2    32.3   43.2      6.4   21.2                               15.7    19.4    13.8                                                                                                        11.7
+                                                        115.0    35.9   46.1      5.9   19.3                               20.4    18.3    15.5                                                                                                        13.1
+             February                           58.6    141.6    46.6   75.4      7.2   17.1                               17.5    16.4    14.0                                                                                                        13.5
+                                                        145.8    50.4   76.4      8.4   11.0                               18.2    17.5    10.3                                                                                                        14.3
+             March                              57.1    130.8    41.9   46.1      6.2   11.5                               25.5    16.0    12.0                                                                                                        13.1
+                                                        143.8    39.4   43.7      7.7   17.0                               19.7    22.9    14.5                                                                                                        11.5
+             April                              48.8    141.8    41.1   42.9      5.4   15.8                               22.2    25.9    13.1                                                                                                        12.0
+                                                        125.4    40.8   42.5      4.5   15.5                               18.5    20.6    11.7                                                                                                        13.3
+             May                                51.6    150.2    39.0   58.2      5.7   18.4                               17.7    38.3    13.0                                                                                                        11.8
+                                                        137.0    44.4   47.0      6.1   17.5                               17.1    29.8    11.8                                                                                                        14.7
+             June                               51.7    150.2    40.6   36.5      5.2   18.4                               17.7    35.3    13.0                                                                                                        12.3
+                                                                 44.4   47.0      6.1                                              29.8                                                                                                                14.7
+2023-24                                         639.2
+
+             July                               48.6
+
+             August                             23.1
+
+             September                          25.8
+
+             October                            51.7
+
+             November                           47.6
+
+2023-24      December                           50.9
+
+             January                            65.0
+
+             February                           51.8
+
+             March                              78.3
+
+             April                              55.4
+
+             May                                75.2
+
+             June                               66.0
+
+2024-25                                         761.1
+
+             July                               71.0
+
+             August                             66.3
+
+             September                          60.2
+
+             October                            72.3
+
+             November                           51.9
+
+2024-25      December                            57.6
+             January                            43.78
+
+             February                           56.2
+
+             March                              53.3
+
+             April                              64.5
+
+             May                                85.1
+
+             June                               78.8
+
+2025-26                                         773.6
+
+             July                               63.0
+
+             August                             55.1
+
+             September                          83.2
+
+             October                            64.4
+
+             November                           84.3
+
+2025-26      December                           80.0
+
+             January                            69.8
+
+             February                           50.2
+
+             March                              50.9
+
+             April                              55.1
+
+             May                                61.3
+
+             June                               56.2
+
+2026-27                                         64.4
+
+2026-27 July                                    43.9
+
+             August                             64.4
+
+Source: Statistics Department, Bangladesh Bank
+
+Note: --- = Not available
+
+17I Page
+                                                       Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27                                    Annex-III
+                                                                                                                                                  In million USD
+
+Fiscal Year  Fiscal Month  AUSTRALIA
+                                               KOREA,
+
+                                                   REPUBLIC OF
+                                                                        JAPAN
+                                                                                            BRUNEI
+
+                                                                                               DARUSSALAM
+                                                                                                                   PORTUGAL
+                                                                                                                                          MALDIVES
+                                                                                                                                                                 SWEDEN
+                                                                                                                                                                                       IRAQ
+                                                                                                                                                                                                             CYPRUS
+                                                                                                                                                                                                                                   BULGARIA
+                                                                                                                                                                                                                                                         IRELAND
+
+2016-17                                         52.0   80.7   22.9   18.3  2.8     40.3                                   9.3   68.9  7.4   0.2                                                                                                                   2.5
+                                                                                   25.5
+2017-18                                         56.5   96.3   31.4   22.5  6.9     22.0                                   11.9  52.2  10.4  0.2                                                                                                                   7.6
+                                                                                   44.7
+2018-19                                         57.1   112.5  49.5   30.9  11.5    46.0                                   19.7  38.6  12.7  0.2                                                                                                                   9.3
+                                                                                     6.8
+2019-20                                         61.3   177.8  49.3   38.8  16.1      3.5                                  21.3  33.3  13.8  0.3                                                                                                                   11.8
+                                                                                     3.1
+2020-21                                         141.7  209.2  79.5   48.2  15.5      4.6                                  32.1  37.3  22.7  0.2                                                                                                                   15.5
+                                                                                     3.8
+             July                               12.3   21.2   8.8    5.1   1.6       2.6                                  3.0   4.5   2.0   0.0                                                                                                                   1.6
+                                                                                     2.9
+             August                             10.1   14.8   5.9    3.9   1.1       4.4                                  2.4   4.0   1.6   0.0                                                                                                                   1.0
+                                                                                     4.3
+             September                          12.0   19.7   6.7    3.7   1.3       5.1                                  1.8   2.9   2.0   0.0                                                                                                                   1.2
+                                                                                     3.3
+             October                            9.7    26.3   6.7    3.7   1.1       1.8                                  2.3   3.0   1.9   0.0                                                                                                                   1.0
+                                                                                   21.6
+             November                           11.8   25.8   7.3    4.2   1.2       1.5                                  2.4   3.3   2.0   0.0                                                                                                                   1.3
+                                                                                     2.5
+2020-21      December                           13.3   22.4   8.6    4.3   1.7       1.5                                  3.1   3.4   2.2   0.0                                                                                                                   1.5
+             January                                                                 1.1
+                                                12.6   13.5   7.2    3.9   1.4       1.3                                  2.9   2.6   1.7   0.0                                                                                                                   1.4
+                                                                                     1.6
+             February                           11.2   13.6   5.2    3.6   1.1       1.3                                  2.6   2.3   1.7   0.0                                                                                                                   1.2
+                                                                                     1.9
+             March                              11.9   13.1   5.5    4.0   1.0       1.4                                  2.6   2.8   1.8   0.0                                                                                                                   1.3
+                                                                                     1.9
+             April                              13.7   15.3   6.1    3.7   1.3       3.4                                  3.4   3.3   1.7   0.0                                                                                                                   1.4
+                                                                                     2.3
+             May                                12.7   11.6   6.0    4.3   1.3     29.0                                   2.9   3.1   2.1   0.0                                                                                                                   1.5
+                                                                                     3.1
+             June                               10.6   11.9   5.5    3.7   1.4       1.5                                  2.8   2.2   2.0   0.0                                                                                                                   1.1
+                                                                                     2.0
+2021-22                                         128.6  135.5  69.3   45.5  17.2      1.1                                  26.2  21.9  23.5  0.3                                                                                                                   14.8
+                                                                                     1.3
+             July                               9.9    7.2    6.0    3.3   1.2       1.0                                  1.9   2.4   2.1   0.0                                                                                                                   0.9
+                                                                                     1.0
+             August                             7.8    9.3    6.2    3.7   1.2       1.5                                  2.3   2.2   2.1   0.0                                                                                                                   1.0
+                                                                                     1.1
+             September                          10.0   9.0    5.9    3.5   1.5       1.0                                  2.2   2.2   2.0   0.0                                                                                                                   1.0
+                                                                                     7.6
+             October                            11.3   9.4    5.1    3.9   1.5       6.8                                  2.3   1.7   1.7   0.0                                                                                                                   1.0
+                                                                                   56.9
+             November                           9.0    9.0    4.8    2.9   1.1       4.6                                  2.1   1.7   2.0   0.0                                                                                                                   0.9
+                                                                                     2.9
+2021-22      December                           10.0   12.0   6.4    3.9   1.8       2.6                                  2.0   1.6   1.9   0.0                                                                                                                   1.2
+             January                                                                 2.1
+                                                10.9   11.8   5.8    3.9   1.6       2.4                                  1.4   1.7   1.7   0.0                                                                                                                   1.5
+                                                                                     1.2
+             February                           9.0    11.5   5.2    3.5   1.2       1.4                                  1.2   1.5   1.7   0.0                                                                                                                   1.3
+                                                                                     2.5
+             March                              13.6   13.0   6.0    4.1   1.1       5.1                                  1.9   1.8   1.8   0.1                                                                                                                   1.4
+                                                                                     6.9
+             April                              16.7   12.2   4.9    4.7   1.2     12.0                                   3.2   1.9   2.2   0.0                                                                                                                   1.6
+                                                                                   13.3
+             May                                9.2    19.4   7.4    4.2   1.3    141.1                                   2.0   1.7   2.1   0.0                                                                                                                   1.2
+                                                                                   10.7
+             June                               11.1   11.8   5.7    4.0   2.6     10.2                                   3.7   1.5   2.2   0.0                                                                                                                   1.9
+                                                                                   15.6
+2022-23                                         130.4  118.7  113.0  49.2  38.1    10.2                                   30.2  36.7  27.3  0.3                                                                                                                   23.7
+                                                                                     8.9
+             July                               13.1   21.0   12.3   3.9   2.9     12.6                                   3.9   2.0   2.3   0.0                                                                                                                   1.8
+                                                                                   8.83
+             August                             14.7   15.0   13.2   4.7   4.3     12.1                                   2.7   1.5   2.3   0.0                                                                                                                   1.8
+                                                                                   13.3
+             September                          9.7    8.0    5.5    3.7   2.5     12.5                                   1.9   1.4   2.0   0.0                                                                                                                   1.3
+                                                                                   12.6
+             October                            8.1    8.8    4.7    3.4   1.7     13.3                                   1.9   1.2   1.8   0.0                                                                                                                   1.2
+                                                                                  117.9
+             November                           9.4    10.7   7.8    3.7   2.0       7.8                                  2.1   1.3   2.0   0.0                                                                                                                   1.4
+                                                                                     3.8
+2022-23      December                           9.2    13.3   10.4   3.3   2.0       5.2                                  1.9   1.3   2.1   0.0                                                                                                                   1.5
+             January                                                                 8.7
+                                                12.2   14.4   16.8   4.6   2.7       9.4                                  2.2   1.7   2.2   0.1                                                                                                                   1.7
+                                                                                     9.8
+             February                           11.8   6.2    5.9    4.2   2.5     13.7                                   1.5   2.4   2.3   0.0                                                                                                                   1.3
+                                                                                   12.1
+             March                              13.2   4.0    7.1    5.1   3.5     12.3                                   3.0   4.7   2.7   0.0                                                                                                                   1.8
+                                                                                     8.4
+             April                              10.9   5.8    8.7    4.0   4.1     11.7                                   1.9   4.5   2.7   0.0                                                                                                                   2.1
+                                                                                   15.1
+             May                                7.5    5.1    12.3   3.7   3.5       7.6                                  2.6   7.6   2.6   0.0                                                                                                                   1.8
+                                                                                     9.9
+             June                               10.7   6.4    8.4    4.8   6.4       7.6                                  4.6   7.1   2.3   0.0                                                                                                                   6.1
+
+2023-24                                         116.4  116.3  76.6   74.2  72.1                                           54.4  33.5  28.4  26.6                                                                                                                  25.1
+
+             July                               8.2    7.3    5.1    4.4   8.3                                            2.7   4.4   2.4   0.0                                                                                                                   2.0
+
+             August                             6.0    4.4    3.8    3.8   4.6                                            1.6   2.7   2.6   0.6                                                                                                                   1.2
+
+             September                          5.8    7.7    5.9    3.2   3.7                                            2.2   2.7   2.6   0.0                                                                                                                   3.5
+
+             October                            10.9   7.7    8.6    5.1   6.2                                            4.1   3.3   3.0   0.0                                                                                                                   3.0
+
+             November                           8.4    8.1    4.7    4.1   6.1                                            2.5   3.2   1.5   0.0                                                                                                                   2.7
+
+2023-24      December                           10.0   6.5    12.6   5.9   6.4                                            1.9   2.3   1.8   0.0                                                                                                                   1.4
+             January
+                                                10.4   11.6   6.7    7.9   5.7                                            5.6   2.1   2.5   0.0                                                                                                                   2.0
+
+             February                           10.8   13.4   7.8    9.2   6.0                                            7.0   2.6   2.1   0.1                                                                                                                   1.6
+
+             March                              11.0   13.7   6.2    7.9   6.0                                            9.1   1.8   2.6   16.5                                                                                                                  1.7
+
+             April                              10.5   14.7   3.6    7.6   6.1                                            4.6   1.5   2.2   9.1                                                                                                                   1.9
+
+             May                                13.0   14.8   4.9    7.1   6.2                                            5.2   2.5   2.6   0.1                                                                                                                   2.2
+
+             June                               11.3   6.4    6.7    7.9   6.8                                            8.0   4.4   2.4   0.1                                                                                                                   1.8
+
+2024-25                                         177.1  227.0  105.9  87.4  101.4                                          55.2  62.9  31.1  1.2                                                                                                                   25.6
+
+             July                               11.7   16.2   7.1    6.4   7.9                                            3.1   2.3   2.5   0.1                                                                                                                   2.5
+
+             August                             15.1   13.2   19.5   9.0   6.6                                            8.3   2.5   2.5   0.1                                                                                                                   2.6
+
+             September                          17.8   11.7   12.1   10.0  8.5                                            4.7   5.1   3.3   0.1                                                                                                                   1.7
+
+             October                            12.4   9.7    7.9    5.7   6.4                                            4.2   5.4   2.2   0.1                                                                                                                   1.5
+
+             November                           12.2   16.2   8.1    5.5   6.1                                            3.8   5.4   1.9   0.1                                                                                                                   1.5
+
+2024-25      December                            11.8   17.7  7.5    6.9   6.6                                            2.8   6.0   2.8   0.1                                                                                                                   2.0
+             January                            12.72  15.64
+                                                              5.77   5.71  9.48                                           3.79  3.93  2.22  0.08                                                                                                                  2.24
+
+             February                           11.9   22.2   8.1    6.7   13.7                                           3.3   6.0   1.7   0.1                                                                                                                   1.6
+
+             March                              20.2   19.7   7.4    7.9   12.1                                           6.8   6.6   2.5   0.1                                                                                                                   2.5
+
+             April                              16.3   24.4   8.5    8.6   7.4                                            5.5   7.3   2.7   0.1                                                                                                                   2.7
+
+             May                                18.7   33.2   7.0    8.2   8.5                                            5.2   6.6   3.0   0.1                                                                                                                   2.6
+
+             June                               16.1   27.1   7.0    7.0   8.2                                            3.8   5.8   3.7   0.1                                                                                                                   2.3
+
+2025-26                                         258.2  272.7  94.7   77.4  146.2                                          51.1  58.4  46.7  1.4                                                                                                                   39.1
+
+             July                               15.6   21.1   7.3    7.0   9.3                                            5.3   5.3   3.5   0.1                                                                                                                   2.3
+
+             August                             13.2   22.4   9.9    6.8   9.2                                            4.4   4.1   3.4   0.1                                                                                                                   2.1
+
+             September                          18.1   25.3   8.7    6.0   12.0                                           5.2   5.5   4.3   0.1                                                                                                                   2.8
+
+             October                            14.4   23.9   7.2    6.7   8.4                                            3.9   6.4   4.5   0.1                                                                                                                   2.1
+
+             November                           16.7   23.0   7.4    7.6   9.8                                            4.2   5.8   3.9   0.1                                                                                                                   2.6
+
+2025-26      December                           27.5   28.4   9.6    7.0   14.1                                           6.6   4.0   4.3   0.2                                                                                                                   3.4
+             January
+                                                26.7   25.6   9.8    6.3   14.7                                           5.0   4.4   3.6   0.2                                                                                                                   5.0
+
+             February                           25.4   25.2   7.7    5.9   11.2                                           3.0   3.7   2.9   0.1                                                                                                                   3.5
+
+             March                              25.8   19.7   7.6    6.4   12.6                                           3.1   5.1   3.5   0.1                                                                                                                   3.5
+
+             April                              22.3   21.5   6.4    5.8   13.7                                           3.7   5.5   3.7   0.2                                                                                                                   3.8
+
+             May                                29.5   21.0   7.4    5.7   16.2                                           3.3   3.9   4.2   0.1                                                                                                                   4.3
+
+             June                               23.0   15.5   6.0    6.1   15.0                                           3.2   4.7   4.8   0.2                                                                                                                   3.7
+
+2026-27                                         22.1   40.3   12.6   4.8   19.4                                           4.9   3.8   6.4   0.2                                                                                                                   4.2
+
+2026-27 July                                    21.3   27.2   7.1    5.1   18.1                                           5.6   4.5   4.9   0.2                                                                                                                   3.6
+
+             August                             22.1   40.3   12.6   4.8   19.4                                           4.9   3.8   6.4   0.2                                                                                                                   4.2
+
+Source: Statistics Department, Bangladesh Bank
+
+Note: --- = Not available
+
+18I Page
+                                                Country wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27                                Annex-III
+                                                                                                                                            In million USD
+
+Fiscal Year  Fiscal Month  SWITZERLAND
+                                               DENMARK
+                                                                   LEBANON
+                                                                                       BELGIUM
+                                                                                                           INDIA
+                                                                                                                               AUSTRIA
+
+                                                                                                                                                   NETHERLANDS
+                                                                                                                                                                      FINLAND
+
+                                                                                                                                                                                          NEW ZEALAND
+                                                                                                                                                                                                          HONG KONG:
+                                                                                                                                                                                                              SAR OF CHINA
+                                                                                                                                                                                                                               Other Countries
+
+                                                                                                                                                                                                                                                     Total
+
+2016-17                    6.9                  5.0   103.9  4.8   3.8   1.9   4.7                                 1.6   4.5   19.0  88.1                                                                                                                   12769.5
+                                                                                                                                                                                                                                                            14981.7
+2017-18                    7.1                  8.2   115.7  6.3   5.0   2.8   5.5                                 3.0   4.1   21.2  90.0                                                                                                                   16419.6
+                                                                                                                                                                                                                                                            18205.0
+2018-19                    8.8                  11.4  126.3  17.5  5.9   4.3   6.2                                 5.3   5.2   20.1  103.6                                                                                                                  24777.7
+                                                                                                                                                                                                                                                             2598.2
+2019-20                    11.9                 12.1  87.0   17.8  8.0   4.6   6.0                                 6.0   6.0   17.3  114.3                                                                                                                   1963.9
+                                                                                                                                                                                                                                                             2151.1
+2020-21                    14.5                 21.1  66.8   21.9  8.1   14.3  16.5                                7.6   8.5   21.4  169.8                                                                                                                   2102.2
+                                                                                                                                                                                                                                                             2078.7
+             July          1.7                  1.6   7.6    1.5   0.5   0.9   0.8                                 0.9   0.7   1.8   12.7                                                                                                                    2050.7
+                                                                                                                                                                                                                                                             1961.9
+             August        1.0                  1.1   6.3    1.1   0.5   0.9   0.5                                 0.5   0.5   1.5   10.0                                                                                                                    1780.6
+                                                                                                                                                                                                                                                             1911.0
+             September     1.0                  1.2   5.3    1.3   0.4   0.7   0.6                                 0.5   0.6   1.6   12.6                                                                                                                    2067.6
+                                                                                                                                                                                                                                                             2171.0
+             October       1.2                  1.4   5.2    1.1   0.4   0.6   0.8                                 0.5   0.6   1.2   12.2                                                                                                                    1940.8
+                                                                                                                                                                                                                                                            21031.7
+             November      1.3                  1.5   6.0    1.1   0.9   0.8   0.8                                 0.7   0.7   1.5   15.3                                                                                                                    1871.5
+                                                                                                                                                                                                                                                             1810.1
+2020-21      December      1.7                  2.3   6.3    1.9   0.8   1.2   1.3                                 0.7   0.9   2.0   19.5                                                                                                                    1726.7
+                                                                                                                                                                                                                                                             1646.9
+             January       1.1                  2.1   5.0    2.2   0.7   1.5   1.7                                 0.6   0.8   1.5   18.8                                                                                                                    1553.7
+                                                                                                                                                                                                                                                             1630.7
+             February      1.0                  1.9   4.4    2.2   1.0   1.5   2.0                                 0.6   0.7   1.6   16.9                                                                                                                    1704.5
+                                                                                                                                                                                                                                                             1494.5
+             March         1.2                  2.1   5.0    2.2   0.7   1.4   2.7                                 0.5   0.7   1.8   13.0                                                                                                                    1859.7
+                                                                                                                                                                                                                                                             2010.8
+             April         1.0                  2.0   5.3    2.5   0.5   2.0   3.0                                 0.7   0.7   2.2   12.1                                                                                                                    1885.3
+                                                                                                                                                                                                                                                             1837.3
+             May           1.1                  2.0   6.0    2.6   0.7   1.5   1.5                                 0.7   0.7   2.7   13.4                                                                                                                   21610.7
+                                                                                                                                                                                                                                                             2096.3
+             June          1.0                  1.9   4.3    2.1   0.9   1.5   0.8                                 0.6   0.7   2.0   13.4                                                                                                                    2036.9
+                                                                                                                                                                                                                                                             1539.6
+2021-22                    13.1                 19.0  49.7   17.3  11.2  13.6  13.1                                9.8   8.2   20.6  123.4                                                                                                                   1525.5
+                                                                                                                                                                                                                                                             1595.2
+             July          0.9                  1.6   4.5    1.9   0.6   1.1   0.6                                 0.4   0.6   1.8   10.4                                                                                                                    1699.7
+                                                                                                                                                                                                                                                             1958.9
+             August        0.9                  1.6   4.5    1.6   0.7   1.0   0.6                                 0.5   0.6   1.8   9.3                                                                                                                     1560.5
+                                                                                                                                                                                                                                                             2022.5
+             September     1.0                  1.6   4.5    1.4   0.7   1.2   0.8                                 0.6   0.6   1.5   8.6                                                                                                                     1684.9
+                                                                                                                                                                                                                                                             1691.7
+             October       1.1                  1.4   3.7    1.2   0.7   0.9   0.8                                 0.5   0.7   1.7   10.4                                                                                                                    2199.1
+                                                                                                                                                                                                                                                            23912.2
+             November      1.0                  1.6   3.8    1.3   0.6   1.1   0.6                                 0.8   0.6   1.3   9.3                                                                                                                     1973.1
+                                                                                                                                                                                                                                                             1599.4
+2021-22      December      1.3                  1.5   3.8    1.5   1.5   1.0   0.7                                 1.0   0.6   1.7   11.9                                                                                                                    1334.4
+                                                                                                                                                                                                                                                             1971.4
+             January       1.0                  1.3   3.7    1.3   1.0   1.0   1.4                                 0.8   0.5   1.8   11.0                                                                                                                    1930.0
+                                                                                                                                                                                                                                                             1991.3
+             February      0.8                  1.2   3.9    1.2   1.2   0.9   1.3                                 0.7   0.5   1.2   8.3                                                                                                                     2113.1
+                                                                                                                                                                                                                                                             2164.6
+             March         1.4                  1.7   4.3    1.6   1.2   1.2   1.6                                 1.0   0.8   1.7   10.7                                                                                                                    1997.1
+                                                                                                                                                                                                                                                             2044.2
+             April         1.4                  2.4   4.7    1.8   1.2   1.7   1.6                                 1.2   0.9   1.8   11.4                                                                                                                    2254.9
+                                                                                                                                                                                                                                                             2538.6
+             May           0.9                  1.6   4.0    1.2   0.8   1.1   1.0                                 0.9   0.7   2.6   10.4                                                                                                                   30328.8
+                                                                                                                                                                                                                                                             1913.8
+             June          1.4                  1.6   4.3    1.2   1.0   1.3   2.1                                 1.2   1.1   1.8   11.6                                                                                                                    2224.2
+                                                                                                                                                                                                                                                             2404.1
+2022-23                    19.2                 16.8  46.0   16.9  11.8  15.9  15.3                                11.1  11.8  18.9  132.2                                                                                                                   2395.1
+                                                                                                                                                                                                                                                             2200.0
+             July          1.4                  2.0   5.0    1.4   1.1   1.9   1.8                                 1.4   1.5   1.7   11.0                                                                                                                    2638.8
+                                                                                                                                                                                                                                                             2185.2
+             August        1.6                  1.5   4.7    1.3   1.0   1.5   1.3                                 1.4   1.4   1.5   13.3                                                                                                                    2527.6
+                                                                                                                                                                                                                                                             3295.6
+             September     1.2                  1.1   4.1    1.0   0.7   1.1   0.9                                 0.9   0.8   1.2   10.1                                                                                                                    2752.3
+                                                                                                                                                                                                                                                             2969.6
+             October       1.1                  1.4   3.6    1.0   0.9   1.1   1.7                                 1.0   0.7   1.4   9.7                                                                                                                     2822.5
+                                                                                                                                                                                                                                                            35589.4
+             November      1.3                  1.2   3.5    1.0   0.9   0.8   1.5                                 1.1   0.8   1.7   10.4                                                                                                                    2477.9
+                                                                                                                                                                                                                                                             2421.9
+2022-23      December      2.2                  1.2   3.4    1.1   0.9   1.0   1.0                                 0.8   0.9   1.5   10.7                                                                                                                    2685.6
+                                                                                                                                                                                                                                                             2562.4
+             January       1.7                  1.1   4.0    1.4   1.0   1.6   1.1                                 0.7   1.0   1.9   10.9                                                                                                                    2889.7
+                                                                                                                                                                                                                                                             3223.7
+             February      1.7                  0.7   4.2    1.0   1.1   0.6   0.7                                 0.5   0.7   1.5   9.3                                                                                                                     3171.6
+                                                                                                                                                                                                                                                             3019.4
+             March         2.1                  2.3   3.0    1.9   1.4   2.3   0.9                                 1.4   1.0   2.2   13.9                                                                                                                    3752.2
+                                                                                                                                                                                                                                                             3123.3
+             April         1.5                  0.9   3.2    1.4   0.9   1.5   0.9                                 0.6   1.1   1.5   10.4                                                                                                                    3442.6
+                                                                                                                                                                                                                                                             2819.0
+             May           1.6                  1.5   3.5    1.8   0.9   0.8   1.1                                 0.5   0.9   1.6   11.1                                                                                                                    2967.5
+                                                                                                                                                                                                                                                             2858.8
+             June          1.9                  1.7   4.0    2.7   1.1   1.8   2.6                                 0.9   1.1   1.2   11.4                                                                                                                    2967.5
+
+2023-24                    25.0                 24.7  23.4   20.9  19.2  18.8  18.3                                15.3  14.3  14.1  165.2
+
+             July          2.2                  1.9   3.3    2.3   0.9   1.4   1.8                                 1.0   1.1   1.5   13.7
+
+             August        1.6                  1.5   2.0    2.0   0.6   1.1   0.6                                 0.5   0.8   1.2   16.1
+
+             September     1.5                  1.7   1.5    0.9   1.2   1.8   0.7                                 0.9   1.4   0.9   13.8
+
+             October       3.0                  3.0   1.7    1.8   1.6   2.2   2.0                                 1.3   1.0   1.0   14.6
+
+             November      2.7                  2.6   1.7    2.1   1.3   2.9   1.0                                 2.4   0.9   1.5   18.4
+
+2023-24      December      2.6                  2.1   1.7    1.9   1.2   2.0   1.0                                 1.8   0.8   1.2   11.7
+
+             January       1.9                  3.1   1.4    2.0   1.3   2.5   2.7                                 2.2   1.0   1.1   15.1
+
+             February      2.0                  1.9   2.3    1.5   2.1   0.8   2.2                                 0.6   1.7   1.0   13.1
+
+             March         1.8                  1.9   1.1    1.6   4.0   1.2   1.9                                 1.1   1.3   0.9   13.2
+
+             April         1.7                  1.2   1.0    1.5   1.8   0.7   1.5                                 0.6   1.1   0.8   11.4
+
+             May           1.7                  2.4   1.4    1.6   2.1   1.4   1.4                                 2.0   1.4   1.3   13.9
+
+             June          2.2                  1.5   4.2    1.6   1.1   0.7   1.4                                 0.8   1.7   1.5   10.3
+
+2024-25                    18.2                 30.8  62.8   22.1  13.1  29.6  19.8                                39.0  16.9  19.1  261.4
+
+             July          1.6                  1.5   1.3    1.5   2.1   0.8   1.2                                 1.9   1.5   1.0   13.0
+
+             August        1.4                  3.1   2.4    1.5   1.3   1.4   2.3                                 4.3   1.1   1.2   22.1
+
+             September     1.7                  2.1   6.8    2.1   0.6   4.4   1.3                                 2.7   2.1   1.7   16.2
+
+             October       1.3                  2.7   6.1    1.9   0.9   2.6   1.7                                 3.7   1.2   2.1   18.9
+
+             November      1.2                  1.9   5.7    1.4   2.2   1.8   1.4                                 2.5   1.4   1.8   22.1
+
+2024-25      December      1.6                  2.2   5.4    1.6   1.2   2.4   1.8                                 2.7   1.2   1.3   19.4
+
+             January       1.13                 2.62  3.22   1.68  0.74  2.14  2.00                                3.02  1.06  0.89  17.97
+
+             February      0.8                  2.7   5.5    1.8   0.7   2.9   1.3                                 3.5   0.8   1.2   19.1
+
+             March         1.7                  4.0   3.7    2.5   0.6   4.1   2.0                                 5.1   1.3   2.2   28.7
+
+             April         1.9                  2.8   6.8    2.3   0.7   2.9   2.0                                 3.8   1.5   2.1   26.5
+
+             May           1.8                  3.0   8.3    2.0   1.1   2.7   1.5                                 3.3   1.9   2.4   26.9
+
+             June          2.1                  2.2   7.5    1.7   0.7   1.6   1.4                                 2.5   1.9   1.4   30.5
+
+2025-26                    25.8                 34.0  43.2   20.4  10.1  18.5  25.1                                34.3  25.4  25.2  398.5
+
+             July          1.7                  2.2   7.0    1.6   0.8   1.8   1.6                                 3.2   1.5   2.3   30.2
+
+             August        1.8                  2.3   5.2    1.5   0.7   1.4   1.5                                 2.1   1.8   1.6   31.1
+
+             September     2.6                  2.3   4.6    1.5   1.0   1.0   1.6                                 3.3   2.9   1.6   33.3
+
+             October       1.9                  2.2   8.6    1.4   0.7   1.2   1.8                                 2.0   2.2   1.8   32.5
+
+             November      1.9                  2.4   6.8    1.4   0.7   1.1   1.6                                 2.4   1.8   1.7   31.7
+
+2025-26      December      3.5                  2.8   4.6    2.2   0.9   1.4   2.4                                 3.5   2.5   1.9   38.8
+
+             January       2.7                  2.9   1.5    1.8   0.7   1.6   2.9                                 2.5   3.2   5.6   39.6
+
+             February      2.2                  2.7   1.2    1.7   0.8   1.8   1.8                                 3.0   1.9   1.1   27.3
+
+             March         2.0                  3.1   1.1    1.8   1.7   1.8   2.2                                 2.9   1.9   1.8   29.6
+
+             April         1.9                  4.4   0.9    2.1   1.0   3.0   2.4                                 4.0   1.8   2.0   33.7
+
+             May           2.0                  3.5   0.9    1.8   0.5   1.5   2.8                                 2.7   2.0   1.2   34.3
+
+             June          1.7                  3.1   0.7    1.7   0.6   1.0   2.5                                 2.6   2.0   2.6   36.5
+
+2026-27                    1.8                  4.0   0.8    2.4   0.6   1.4   2.9                                 3.3   2.6   1.6   48.8
+
+2026-27 July               2.0                  3.1   0.7    1.4   0.5   1.2   2.7                                 2.6   2.5   1.3   46.6
+
+             August        1.8                  4.0   0.8    2.4   0.6   1.4   2.9                                 3.3   2.6   1.6   48.8
+
+Source: Statistics Department, Bangladesh Bank
+
+Note: --- = Not available
+
+19I Page
+                                                                                                                                Annex-IV
+
+Division and District wise Workers' Remittance Inflows FY 2017-18 to FY 2026-27
+
+       Division  District                       FY 2017-18 FY 2018-19 FY 2019-20 FY 2020-21 FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25 FY 2025-26      FY 2026-27
+                                                                                                                                                    July
+BARISHAL         BARGUNA                            46.4      47.6      50.3      64.5      52.6      57.9      62.5      83.8      88.6
+                 BARISHAL                          174.8     188.8     220.5    255.5     222.1     185.3     202.4      337.0     277.2                    5.2
+                 BHOLA                                                          106.2                                    136.9     143.5                  19.7
+                 JHALOKATHI                         87.3      81.6      80.8                87.9      87.6      99.5                                      11.1
+                 PATUAKHALI                         37.3      44.2      39.7      52.7      40.4      43.9      55.5      77.5      58.4
+                 PIROJPUR                           52.8      56.7      52.7      77.6      63.2      59.5      63.0      91.2      78.3                    4.2
+                                                    70.0      79.7      80.7    104.3       84.7      89.2      77.5     115.1     106.9                    5.4
+                 BARISAL Total                     468.6     498.6     524.7     660.8     550.8     523.4     560.3     841.6     752.9                    8.9
+                                                    14.6      15.7      16.6      25.7      16.2      19.9      26.8      26.7      22.8                  54.5
+                 BANDARBAN                         644.1     704.9     701.3    787.3     688.9     645.2     615.5      832.4     915.6                    4.0
+                                                   479.6     494.8     506.9    618.6     516.5     558.7     571.4      795.7     790.6                  79.8
+                 BRAHMANBARIA                    1156.9    1222.8    1277.7    1392.8    1218.9    1611.8    2367.4    2442.5    3274.4                   65.6
+                                                   130.9     143.1     161.4    198.1     170.8     147.9     168.7      190.8     218.0                 201.8
+                 CHANDPUR                        1122.3    1195.9    1215.9    1394.8    1195.6    1285.6    1269.8    1567.2    2082.7                   16.8
+                                                   394.6     448.3     493.9    576.6     513.8     555.1     607.4      873.5     995.5                 185.4
+                 CHATTOGRAM                         21.9      26.0      25.7      29.4      25.0      24.6      30.2      44.2      32.7                  68.5
+                                                   310.9     337.4     372.1    445.9     403.5     382.1     357.2      480.0     533.8                    2.8
+                 COX'S BAZAR                       495.5     546.4     596.6    723.1     643.2     702.2     746.8      904.3   1075.7                   44.2
+                                                    17.0      22.4      22.3      29.6      20.8      28.4      19.6      27.8      21.1                  88.3
+                         CUMILLA                                                                                                                            1.6
+CHATTOGRAM FENI                                  4788.3    5157.7    5390.4    6221.9    5413.2    5961.5    6780.9    8185.0    9962.9
+                                                                                                                                                         758.9
+                 KHAGRACHARI                     3238.5    3598.7    4607.6    8021.6    6367.0    6967.3    8287.4   10569.1   13470.4
+                                                   195.2     238.5     256.6    317.3     307.0     227.4     233.9      325.7     345.8               1059.8
+                 LAKSHMIPUR                        272.8     320.5     341.3    445.1     408.0     317.1     318.0      438.5     479.5                  31.1
+                                                    62.3      76.1      77.1    115.6       93.2      86.3    105.3      181.4     154.2                  42.4
+                 NOAKHALI                          230.7     263.4     267.9    342.6     289.6     288.4     276.9      440.3     464.6                  12.2
+                                                   189.8     208.2     204.1    254.2     260.8     275.3     337.7      453.4     536.7                  41.2
+                 RANGAMATI                         202.8     225.6     266.6    307.4     265.9     209.2     188.6      291.8     265.0                  54.9
+                                                   289.3     323.7     343.1    454.6     396.1     381.4     391.9      514.9     606.8                  20.9
+                 CHATTOGRAM                        317.3     357.2     391.8    497.6     421.0     356.1     369.6      469.3     551.3                  50.3
+                 Total                             276.7     315.6     346.2    409.5     345.3     377.4     377.8      495.0     480.3                  51.1
+                                                    70.6      80.7      79.9      95.7      79.4      86.6      93.8     128.3     125.6                  38.4
+                 DHAKA                             172.7     184.6     175.2    222.0     213.2     257.9     287.3      326.9     359.3                  10.9
+                                                   348.0     391.1     429.8    534.1     452.6     413.1     391.7      609.0     641.8                  30.2
+                 FARIDPUR                                                                9899.2                                                           54.8
+                                                 5866.7    6583.9    7787.2   12017.3       60.1  10243.5   11659.8   15243.6   18481.2
+                 GAZIPUR                            50.6      47.6      53.5      65.6      65.9      77.5    102.1       92.5      98.2               1498.1
+                                                    57.0      61.8      66.8      97.8    199.8       64.4      71.9                                        8.9
+                 GOPALGANJ                                                                  76.0              163.9      138.5     119.9                    9.4
+                                                   143.6     165.0     166.8    235.7     171.8     212.0       86.4     233.5     278.7
+                 KISHOREGANJ                        75.3      90.9      90.8    110.4     147.1       67.1    118.2      129.6     144.0                  24.1
+                                                                                174.6       44.8              130.9      174.6     171.8                  12.3
+                 MADARIPUR                         108.8     118.2     158.9    182.4       77.1    114.7       57.8     206.0     202.5                  15.1
+                                                   107.1     126.7     138.6                43.8    123.0       70.8                                      16.5
+       DHAKA     MANIKGANJ                                                        53.5    105.2                 48.0      78.2      73.6
+                 MUNSHIGANJ                         44.1      47.0      45.5      86.5     991.5      60.8      76.9     107.9     102.1                    6.1
+                                                    60.5      65.5      72.4      57.8    151.7       78.8     926.9                                        9.0
+                 NARAYANGANJ                        39.7      43.8      43.6    119.7     263.2       47.2    115.3       60.8      68.8                    6.9
+                                                    78.8      79.2      87.3   1184.0       47.6      78.7    209.3      107.7     129.3                  10.5
+                 NARSHINGDI                        765.5     845.7     924.2    167.8       29.2     924.2      51.7   1329.4    1388.9                  118.7
+                                                    98.2     115.9     125.3    303.1               103.9       31.7     170.1     170.0                  14.2
+                 RAJBARI                           180.3     210.7     228.0      66.3     491.6    210.0                317.1     297.2                  26.5
+                                                    40.2      48.2      46.6      36.8                52.4     408.0                                        5.9
+                 SHARIATPUR                         24.3      29.1      29.7              186.4       35.8                73.2      68.7                    3.3
+                                                                                 574.0      91.4              144.3       47.9      40.0
+                 TANGAIL                           343.0     403.9     429.6                47.5     402.1    113.5                                       49.8
+                                                                                218.2                                    608.2     576.0
+                 DHAKA Total                       142.7     158.8     160.3      93.6    110.6     150.7       36.6                                      19.1
+                                                    83.9      76.1      81.7      41.5      53.4    102.0       75.1     209.3     229.8                  14.3
+                 BAGERHAT                           61.2      34.0      31.5                                    62.0     140.4     157.1
+                                                    78.9      87.5      94.0    125.3     160.4       46.4    128.8                                         3.8
+                 CHUADANGA                          50.7      55.3      52.8      66.7    126.9       81.3      85.3      42.6      45.8                  10.7
+                                                                                          116.6       53.8      86.1     113.1     117.2
+                 JASHORE                           128.3     140.3     138.2    187.9      893.2    128.0      731.7                                        6.0
+                                                    73.2      81.6      97.4    123.9     297.7       85.9      49.7      82.0      74.9                  16.7
+                 JHENAIDAH                          79.4      86.5      92.9    134.5                 90.1      51.3     178.1     201.2                  10.8
+                                                                                 991.6      90.3     738.2      34.9     127.1     139.4                  12.4
+KHULNA           KHULNA                            698.3     720.1     748.8    312.2       31.1      74.4      18.6     123.7     155.1                  93.8
+                 KUSHTIA                           136.2     172.1     229.9                17.3      60.1      37.1   1016.3    1120.5
+                                                                                  97.7      80.4      35.7      24.3                                        5.0
+                 MAGURA                             57.7      68.3      70.0      37.1      17.4      20.4      59.4      77.2      63.8                    5.3
+                                                    28.7      32.1      32.1      16.9      86.2      51.7      26.1      80.1      71.2                    3.8
+                 MEHERPUR                           16.9      19.0      16.6      78.4      22.5      21.1     301.3      53.4      49.0                    1.7
+                                                    36.7      47.7      51.1      21.8     642.8      55.6    312.6       25.3      18.4                    4.2
+                 NARAIL                             15.2      17.3      12.9      91.0    283.0       27.4    568.4       46.8      50.0                    1.4
+                                                    56.6      60.0      69.1      28.5    498.9      346.4    322.9       32.6      20.1                    5.9
+                 SATKHIRA                           20.9      22.3      19.3     683.6    282.6     324.2    1339.3      112.2      77.2                    2.6
+                 KHULNA Total                      368.9     438.8     501.0    309.1    1085.0     579.2    2543.2       38.2      33.0                  30.0
+                 JAMALPUR                          227.1     252.9     263.5    469.8    2149.5     323.9   23912.2      465.9     382.7                  35.8
+                                                   359.7     361.7     379.4    292.9   21031.7    1244.1                365.8     401.1                  44.9
+                 MYMENSINGH                        190.2     214.1     223.4   1372.7              2471.4                549.7     564.7                  30.8
+                                                   905.6     942.3   1032.9    2444.5             21610.7                360.9     377.7                 143.5
+MYMENSINGH NETROKONA                             1682.6    1771.0    1899.2   24777.7                                  1362.4    1580.9                  255.0
+                        SHERPUR                 14981.9   16419.7   18205.1                                            2638.8    2924.5                2858.8
+                                                                                                                      30328.8   35589.4
+                 MYMENSINGH
+                 Total
+
+                 BOGURA
+
+                 CHAPAI NAWABGANJ
+
+                 JAYPURHAT
+
+                 NAOGAON
+
+RAJSHAHI NATORE
+
+                 PABNA
+
+                 RAJSHAHI
+
+                 SIRAJGANJ
+
+RANGPUR          RAJSHAHI Total
+ SYLHET          DINAJPUR
+                 GAIBANDHA
+                 KURIGRAM
+                 LALMONIRHAT
+                 NILPHAMARI
+                 PANCHAGARH
+                 RANGPUR
+                 THAKURGAON
+                 RANGPUR Total
+                 HABIGANJ
+                 MOULVI BAZAR
+                 SUNAMGANJ
+                 SYLHET
+
+                 SYLHET Total
+
+Total
+
+Source: Statistics Department, Bangladesh Bank
+
+20I Page
+Bank wise Workers' Remittance Inflows FY 2016-17 to FY 2026-27                                                                   Annex-V
+
+          FI Cluster  FI ID                             FI Name                  FY 2016-17  FY 2017-18  FY 2018-19  FY 2019-20  In million USD
+                                                                                                                                 FY 2020-21
+STATE-OWNED           11 AGRANI BANK LIMITED                                       1369.59     1429.25     1588.26     1762.71
+COMMERCIAL BANK       12 JANATA BANK LIMITED                                        967.74      917.92      873.97      873.26     2823.25
+                                                                                    186.18      225.14      223.37      427.27      947.91
+                      14 RUPALI BANK LIMITED                                       1104.13     1120.03     1146.29     1290.42      803.27
+                                                                                                                                   1529.46
+                      15 SONALI BANK LIMITED                                         1.39        1.87        1.46        0.91
+                                                                                     0.01        0.01        0.10        0.01        2.20
+                      35 BASIC BANK LTD.                                           3629.05     3694.23     3833.45     4354.56       0.01
+                                                                                    126.72      131.03      191.36      361.02     6106.10
+                      135 BANGLADESH DEVELOPMENT BANK LTD.                             ---         ---        ---         ---       412.95
+                                                                                                                                      ---
+STATE-OWNED COMMERCIAL BANK Total                                                   126.72      131.03      191.36      361.02
+                                                                                    235.33      238.71      203.02      144.87      412.95
+SPECIALIZED           31 BANGLADESH KRISHI BANK                                    2729.29     2956.32     3034.00     4149.86      200.57
+BANKS/DEVELOPMENT     33 RAJSHAHI KRISHI UNNAYAN BANK                               502.55      484.19      458.13      390.36     7457.57
+BANKS                                                                               243.37      438.68      378.60      423.84      445.60
+                                                                                     41.10       36.49       38.58       30.87      460.68
+SPECIALIZED BANKS/DEVELOPMENT BANKS Total                                            71.02       69.77      212.55      370.15       47.15
+                                                                                    429.66      503.24      555.15      548.80      168.52
+PRIVATE COMMERCIAL    41 AB BANK LTD.                                               463.13      486.87      368.71      362.51      750.65
+BANK                  42 ISLAMI BANK BANGLADESH LTD.                                                                                302.66
+                                                                                       ---         ---       0.51        0.49
+                      43 NATIONAL BANK LTD.                                          86.43      202.33      224.61      114.78       0.58
+                                                                                    248.10      370.45      465.27      474.40       72.38
+                      44 THE CITY BANK LTD.                                         251.59      331.12      336.70      305.51      576.40
+                                                                                    355.76      567.38      607.34      529.63      343.88
+                      45 INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD      44.94       44.11       43.75       31.76      494.08
+                                                                                    193.06      357.68      382.54      412.79       52.17
+                      46 UNITED COMMERCIAL BANK LTD.                                232.46      276.85      144.76      146.33      624.96
+                                                                                    642.48      797.94     1302.24     2027.66      175.78
+                      47 PUBALI BANK LTD                                            278.46      337.57      421.20      238.57     2491.35
+                                                                                     78.75      101.95      131.36       90.00      395.18
+                      48 UTTARA BANK LTD.                                            8.40        40.32       67.75       73.68      142.05
+                                                                                     40.56       43.64       43.17       46.54       48.68
+                      50 SHIMANTO BANK LIMITED                                       11.71       11.64       13.26       11.39       48.49
+                                                                                    209.63      483.50      615.02      463.77       14.08
+                      52 EASTERN BANK LTD.                                           75.72       69.59      120.09       77.24      440.97
+                                                                                    106.18      125.63      151.44      150.80      188.21
+                      53 NATIONAL CREDIT AND COMMERCE BANK LTD.                     404.01      425.61      558.83      707.04      163.99
+                                                                                    314.16      390.94      618.67      265.67      972.50
+                      54 PRIME BANK LTD.                                             34.17       59.47       61.65       50.24      106.60
+                                                                                    180.62      207.77      173.79      212.16       54.91
+                      55 SOUTHEAST BANK LTD.                                        265.72      438.36      376.54      378.91      241.42
+                                                                                     2.74                                           464.55
+                      56 DHAKA BANK LTD.                                             19.85       5.95        6.20        7.80        14.89
+                                                                                     10.10       28.86       58.36       32.99       48.89
+                      57 AL-ARAFAH ISLAMI BANK LTD.                                  2.84        23.16       19.36       12.43       34.56
+                                                                                     2.26        2.13        8.27        9.02        8.05
+                      58 SOCIAL ISLAMI BANK LTD.                                     33.87       1.56        1.08        11.52       1.91
+                                                                                     5.52        19.87       20.84       22.94       41.47
+                      59 DUTCH-BANGLA BANK LTD.                                      28.98       12.41       12.35       4.81        4.62
+                                                                                     1.44        9.54        16.30       18.01       36.50
+                      60 MERCANTILE BANK LTD.                                        0.14        3.79        13.94       5.89        10.11
+                                                                                                 0.22        0.15        0.51        0.88
+                      61 STANDARD BANK LTD.                                            ---
+                                                                                       ---         ---        ---         ---         ---
+                      62 ONE BANK LTD.                                                 ---         ---        ---         ---         ---
+                                                                                   8871.59         ---        ---         ---         ---
+                      63 EXIM BANK LTD.                                              55.68    11000.82    12257.93    13347.54    18143.97
+                                                                                     0.32        62.03       55.19       56.72       62.66
+                      64 BANGLADESH COMMERCE BANK LTD.                               0.10        0.19        0.10        0.21        0.14
+                                                                                     0.11        0.02        0.06        0.00        0.00
+                      65 MUTUAL TRUST BANK LTD.                                      10.41       1.15        0.84        0.48        1.00
+                                                                                     0.03        15.07       4.53        3.24        9.54
+                      66 PREMIER BANK LTD.                                           39.44       0.00        0.01         ---         ---
+                                                                                     35.59       49.73       70.56       76.14       34.72
+                      67 FIRST SECURITY ISLAMI BANK LTD.                             0.41        27.13       5.40        4.96        6.60
+                                                                                    142.10       0.29        0.22        0.17        0.06
+                      68 BANK ASIA LTD.                                           12769.46      155.61      136.90      141.91      114.70
+                                                                                              14981.69    16419.63    18205.02    24777.71
+                      69 TRUST BANK LTD.
+
+                      70 SHAHJALAL ISLAMI BANK LTD.
+
+                      71 JAMUNA BANK LTD.
+
+                      72 BRAC BANK LTD.
+
+                      76 NRB COMMERCIAL BANK LTD.
+
+                      77 SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LTD.
+
+                      78 MEGHNA BANK LTD.
+
+                      79 MIDLAND BANK LTD.
+
+                      80 PADMA BANK LTD.
+
+                      82 UNION BANK LTD.
+
+                      83 NRB BANK LTD.
+
+                      84 GLOBAL ISLAMI BANK LTD.
+
+                      85 MODHUMOTI BANK LTD.
+
+                      107 ICB ISLAMIC BANK
+
+                      139 COMMUNITY BANK BANGLADESH LTD.
+
+                      140 BENGAL COMMERCIAL BANK LIMITED
+
+                      141 CITIZENS BANK PLC.
+
+PRIVATE COMMERCIAL BANK Total
+
+FOREIGN COMMERCIAL    23 STANDARD CHARTERED BANK
+BANKS                 24 STATE BANK OF INDIA
+
+                      25 HABIB BANK LTD.
+
+                      26 CITI BANK NA
+
+                      27 COMMERCIAL BANK OF CEYLON LTD
+
+                      28 NATIONAL BANK OF PAKISTAN
+
+                      73 WOORI BANK
+
+                      74 HONGKONG AND SHANGHAI BANKING CORPORATION
+
+                      75 BANK AL-FALAH LTD.
+
+FOREIGN COMMERCIAL BANKS Total
+
+Grand Total
+
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+
+21I Page
+                                                                                                                                                 Annex-V
+
+In million USD  FY 2022-23  FY 2023-24          FY 2024-25  FY 2025-26 FY 2026-27 (Aug)  FI Name
+   FY 2021-22
+                                                  2853.57
+1623.92         1370.49     928.85                2154.38   2488.13   407.84             AGRANI BANK LIMITED
+680.91          685.88      1076.51               1456.87   2085.62   115.71             JANATA BANK LIMITED
+499.92          483.19      261.24                1707.71    771.11    83.76             RUPALI BANK LIMITED
+1220.70         856.04      416.58                           969.86   264.00             SONALI BANK LIMITED
+                                                    1.01                                 BASIC BANK LTD.
+  2.31            3.55        0.93                  0.04       1.66     0.16             BANGLADESH DEVELOPMENT BANK LTD.
+   ---            0.03        0.02                8173.59      0.08     0.00             STATE-OWNED COMMERCIAL BANK Total
+4027.76         3399.17     2684.13               2111.18   6316.46   871.47             BANGLADESH KRISHI BANK
+371.83          522.24      718.50                   ---    4100.73   617.43             RAJSHAHI KRISHI UNNAYAN BANK
+   ---             ---         ---                              ---     0.00
+                                                  2111.18                                SPECIALIZED BANKS/DEVELOPMENT BANKS Total
+ 371.83          522.24      718.50                320.82   4100.73   617.43             AB BANK LTD.
+ 146.03           97.29      163.30               4966.44    103.06     9.72             ISLAMI BANK BANGLADESH LTD.
+4920.47         4710.02     6128.11                543.66   6885.83                      NATIONAL BANK LTD.
+ 326.79          449.47      902.70                802.51    322.08   1003.66            THE CITY BANK LTD.
+ 605.70          939.66      572.06                 36.05   1128.36    40.44             INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD
+  58.81           77.17       55.01                423.62     93.81   255.85             UNITED COMMERCIAL BANK LTD.
+ 351.74          524.16      414.44                521.65    804.63     9.30             PUBALI BANK LTD
+ 723.45          977.41      653.36                 56.60   1043.88   168.82             UTTARA BANK LTD.
+ 295.14           91.33       50.23                          204.10   128.12             SHIMANTO BANK LIMITED
+                   0.46                             0.24                8.30             EASTERN BANK LTD.
+   0.50           52.99        0.24                365.63      1.46     0.37             NATIONAL CREDIT AND COMMERCE BANK LTD.
+  78.81          534.19      539.63                636.37   1070.36   199.45             PRIME BANK LTD.
+ 580.12          125.98      719.37                162.85    490.43   102.98             SOUTHEAST BANK LTD.
+ 193.28          464.42      100.89                505.21    401.63   144.90             DHAKA BANK LTD.
+ 800.01          418.52      541.19                771.46    579.36   130.37             AL-ARAFAH ISLAMI BANK LTD.
+  32.45         1036.61      372.54                771.15    922.24   250.27             SOCIAL ISLAMI BANK LTD.
+ 601.04          668.21      844.23                312.69    607.61    68.38             DUTCH-BANGLA BANK LTD.
+ 209.19          983.58     1668.08                401.60               1.50             MERCANTILE BANK LTD.
+2489.50          558.22      433.84                349.07     31.45   257.07             STANDARD BANK LTD.
+ 481.65          215.27      295.88                501.39   1090.26    48.00             ONE BANK LTD.
+ 142.98           39.86      451.66                          472.13    45.77             EXIM BANK LTD.
+  42.02           35.35       33.15                 5.05     282.98     1.04             BANGLADESH COMMERCE BANK LTD.
+  47.28            9.68       43.34                 19.85               1.97             MUTUAL TRUST BANK LTD.
+  12.59          839.80                             1.99      11.98     0.19             PREMIER BANK LTD.
+ 699.74          473.67        9.74                768.06     15.65   161.65             FIRST SECURITY ISLAMI BANK LTD.
+ 280.87          147.79      715.72                675.18      1.51    49.00             BANK ASIA LTD.
+ 142.33          614.66      378.92                 33.15    939.85     0.32             TRUST BANK LTD.
+ 951.63          784.95      229.89                768.31    131.60    83.61             SHAHJALAL ISLAMI BANK LTD.
+ 290.97          278.06      443.97               1826.71      1.91   426.49             JAMUNA BANK LTD.
+  53.93          458.35      890.74                270.38    747.14    41.02             BRAC BANK LTD.
+ 401.41          535.15      434.71                422.51   2503.54    95.77             NRB COMMERCIAL BANK LTD.
+ 372.67           20.09      566.73               2045.67    211.63   523.15             SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LTD.
+  26.36          135.14     1037.91                 87.78    596.94     7.49             MEGHNA BANK LTD.
+  49.03           32.80       24.08                 62.43   2971.92    10.54             MIDLAND BANK LTD.
+  26.57           11.79      161.55                131.40     51.45     3.59             PADMA BANK LTD.
+   7.36            0.92      102.13                 26.89     51.29    16.58             UNION BANK LTD.
+   4.70           31.37       19.52                 0.02      25.35     0.00             NRB BANK LTD.
+  34.22           95.49                             2.73      64.43     0.07             GLOBAL ISLAMI BANK LTD.
+   8.51           17.75        1.46                188.53      0.00     8.92             MODHUMOTI BANK LTD.
+  29.67          123.59       17.87                 26.54      0.71     0.41             ICB ISLAMIC BANK
+  17.59            0.79      216.46                111.64     66.63    13.12             COMMUNITY BANK BANGLADESH LTD.
+   0.79            0.00       39.98                 0.00       6.17     0.00             BENGAL COMMERCIAL BANK LIMITED
+   0.01            0.07      125.33                 0.02      74.96     1.52             CITIZENS BANK PLC.
+                   0.00        0.11                 45.86      0.00     4.57             PRIVATE COMMERCIAL BANK Total
+    ---         17612.06                            0.09      16.40     1.06             STANDARD CHARTERED BANK
+    ---           56.29         ---              19969.80     41.04                      STATE BANK OF INDIA
+16537.92           0.01       33.24                 56.42      8.91   4325.33            HABIB BANK LTD.
+  61.15                        0.02                 0.01    25076.68   11.05             CITI BANK NA
+   0.10             ---     20433.32                0.02      64.56     0.00             COMMERCIAL BANK OF CEYLON LTD
+   0.00            0.71       52.74                 0.74       0.02     0.00             NATIONAL BANK OF PAKISTAN
+   1.03            3.94        0.01                 3.69                0.27             WOORI BANK
+   6.31            0.00                                         ---     0.57             HONGKONG AND SHANGHAI BANKING CORPORATION
+    ---            6.88         ---                  ---       1.21     0.00             BANK AL-FALAH LTD.
+  17.19            7.61        0.52                 1.81      25.55     0.15             FOREIGN COMMERCIAL BANKS Total
+   8.38            1.82        5.15                 9.89        ---     0.02             Grand Total
+   0.06           77.25         ---                 1.67       1.34     0.00
+  94.21         21610.72       1.81                 74.24      2.61    12.06
+21031.73                       8.19              30328.81      0.23
+                               7.87                           95.51   5826.29
+                              76.28                         35589.38
+                            23912.22
+
+Source: Statistics Department, Bangladesh Bank
+Note: --- = Not available
+
+22I Page
+

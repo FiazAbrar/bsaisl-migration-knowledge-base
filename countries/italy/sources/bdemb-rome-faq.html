@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+html{
+--color-primary-bg:#00A63E;
+--color-primary-light:#2DAB5B;
+--color-primary-dark:#008532;
+--color-primary-text:#ffffff;
+--color-secondary-bg:#DC2626;
+--color-secondary-light:#FEF2F2;
+--color-secondary-dark:#ED3131;
+--color-secondary-text:#ffffff;
+--color-normal-bg:#ffffff;
+--color-normal-light:#f0f0f0;
+--color-normal-dark:#e0e0e0;
+--color-normal-text:#000000;
+--color-dark-bg:#000000;
+--color-dark-light:#202020;
+--color-dark-dark:#404040;
+--color-dark-text:#ffffff;
+--color-success-bg:#28a745;
+--color-success-text:#ffffff;
+--color-danger-bg:#dc3545;
+--color-danger-text:#dc3545;
+--color-warning-bg:#FF6600;
+--color-warning-text:#FF6600;
+--color-info-bg:#17a2b8;
+--color-info-text:#ffffff;
+--color-link-normal:#1568b2;
+--color-link-dark:#1b81dd;
+--color-border-normal:#d0d0d0;
+--color-border-dark:#909090;
+--color-widget-title:#202B5D;
+--color-widget-subtitle:#62718D;
+--color-content-dark:#1E202C;
+--color-content-normal:#313545;
+--background-primary-image:url(/site-assets/images/bg.png);
+--background-primary-repeat:repeat;
+--background-primary-position:center center;
+--background-primary-color:#ffffff;
+--background-secondary-image:url(/site-assets/images/bg.png);
+--background-secondary-repeat:repeat;
+--background-secondary-position:center center;
+--background-secondary-color:#ffffff;
+--container-small:600px;
+--container-medium:900px;
+--container-large:1200px;
+--spacing-small:8px;
+--spacing-medium:16px;
+--spacing-large:24px;
+--radius-small:4px;
+--radius-medium:8px;
+--radius-large:16px;
+--shadow-small:0px 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium:0px 4px 8px rgba(0, 0, 0, 0.1);
+--shadow-large:0px 8px 16px rgba(0, 0, 0, 0.1);
+--text-small:0.75rem;
+--text-medium:0.9rem;
+--text-large:1.25rem;
+--font-heading-en:Roboto-Regular, sans-serif;
+--font-heading-bn:NotoSansBengali-Regular, sans-serif;
+--font-primary-en:Roboto-Regular, sans-serif;
+--font-primary-bn:NotoSansBengali-Regular, sans-serif;
+--font-secondary-en:Roboto-Regular, sans-serif;
+--font-secondary-bn:NotoSansBengali-Regular, sans-serif;
+--typography-h1-font-family:var(--font-heading);
+--typography-h1-font-weight:700;
+--typography-h1-font-size:32px;
+--typography-h1-line-height:1.2;
+--typography-h2-font-family:var(--font-heading);
+--typography-h2-font-weight:700;
+--typography-h2-font-size:28px;
+--typography-h2-line-height:1.2;
+--typography-h3-font-family:var(--font-heading);
+--typography-h3-font-weight:600;
+--typography-h3-font-size:24px;
+--typography-h3-line-height:1.5;
+--typography-h4-font-family:var(--font-heading);
+--typography-h4-font-weight:500;
+--typography-h4-font-size:20px;
+--typography-h4-line-height:1.5;
+--typography-h5-font-family:var(--font-heading);
+--typography-h5-font-weight:500;
+--typography-h5-font-size:18px;
+--typography-h5-line-height:1.5;
+--typography-h6-font-family:var(--font-heading);
+--typography-h6-font-weight:400;
+--typography-h6-font-size:16px;
+--typography-h6-line-height:1.5;
+--typography-body-font-family:var(--font-primary);
+--typography-body-font-weight:400;
+--typography-body-font-size:14px;
+--typography-body-line-height:1.2;
+--typography-p-font-family:var(--font-primary);
+--typography-p-font-weight:400;
+--typography-p-font-size:14px;
+--typography-p-line-height:1.2;
+--typography-a-font-family:var(--font-secondary);
+--typography-a-font-weight:400;
+--typography-a-font-size:14px;
+--typography-a-line-height:1.2;
+}
+html,html[lang="en"]{
+--font-heading:Roboto-Regular, sans-serif;
+--font-primary:Roboto-Regular, sans-serif;
+--font-secondary:Roboto-Regular, sans-serif;
+}
+html[lang="bn"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+
+/* ===== CONTAINER ===== */
+body{overflow-x:hidden;}
+.col{flex:0 0 auto;}
+.container-row,.widget-container-row{
+  --col-gutter-x: var(--spacing-medium);
+  --col-gutter-y:0;
+  /*
+  --col-gutter-y: var(--spacing-medium);
+  */
+  display:flex;
+  flex-wrap:wrap;
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-right:calc(-.5 * var(--col-gutter-x));
+  margin-left:calc(-.5 * var(--col-gutter-x))
+  /*
+  width:calc(100% + var(--col-gutter-x));
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-left:calc(-1 * var(--col-gutter-x));
+  */
+}
+.container-row>*,.widget-container-row>*{
+  box-sizing:border-box;
+  flex-shrink:0;
+  width:100%;
+  max-width:100%;
+  padding-right:calc(var(--col-gutter-x) * .5);
+  padding-left:calc(var(--col-gutter-x) * .5);
+  margin-top:var(--col-gutter-y)
+  /*
+  width:calc(100% - var(--col-gutter-x));
+  max-width:calc(100% - var(--col-gutter-x));
+  margin-top:var(--col-gutter-y);
+  margin-left:var(--col-gutter-x);
+  */
+}
+
+@media (min-width:600px) {
+  .container-col-1{width:8.3333%;}
+  .container-col-2{width:16.666%;}
+  .container-col-3{width:25%;}
+  .container-col-4{width:33.333%;}
+  .container-col-5{width:41.666%;}
+  .container-col-6{width:50%;}
+  .container-col-7{width:58.333%;}
+  .container-col-8{width:66.666%;}
+  .container-col-9{width:75%;}
+  .container-col-10{width:83.333%;}
+  .container-col-11{width:91.666%;}
+  .container-col-12{width:100%;}
+}
+
+  </style>
+  <!-- analytics script -->
+  <!-- Matomo Id n/a -->
+  <script defer data-domain="rome.mofa.gov.bd" src="https://analytics-plausible.portal.gov.bd/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <link rel="stylesheet" href="/site-assets/css/phosphor.css">
+  <link rel="stylesheet" href="/site-assets/css/phosphor-fill.css">
+  <link rel="stylesheet" href="/site-assets/css/index.css">
+  <link rel="stylesheet" href="/widget-assets/css/SimpleHeaderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/LanguageSwitcherWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusSliderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EmbassyBannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/BannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/SocialContentShareWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionPopupWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionFormWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentViewerWidget">
+  <link rel="stylesheet" href="/widget-assets/css/PrintWidget">
+  <link rel="stylesheet" href="/widget-assets/css/AccessibilityWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GoToTopWidget">
+  <link rel="stylesheet" href="/widget-assets/css/TitleWithImageContentWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentDetailsWidget">
+  <link rel="stylesheet" href="/widget-assets/css/NewLandingFooterWidget">
+  <style>/* END */</style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+
+  <!-- RENDERING 6922f81a003631e6b5c0eb13 : 1794297097276 -->
+  <title>Faq | Pages | Embassy of the People’s Republic of Bangladesh, Rome</title>
+  <meta name="description" content=""/>
+  <meta name="keywords" content="Faq, Pages, Embassy of the People’s Republic of Bangladesh, Rome, http://rome.mofa.gov.bd, Bangladesh, Bangladesh National Portal, Government of the People's Republic of Bangladesh, গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <link rel="canonical" href="http://rome.mofa.gov.bd/pages/static-pages/6952667235ce18e1c05a92b7"/>
+  <link rel="icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/png" href="/site-assets/images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="http://rome.mofa.gov.bd/site-assets/images/favicon.png"/>
+  <meta name="author" content="Embassy of the People’s Republic of Bangladesh, Rome"/>
+  <meta property="fb:app_id" content="..............."/>
+  <meta property="og:url" content="http://rome.mofa.gov.bd/pages/static-pages/6952667235ce18e1c05a92b7"/>
+  <meta property="og:site_name" content="Embassy of the People’s Republic of Bangladesh, Rome"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:article:section" content="Faq | Pages | Embassy of the People’s Republic of Bangladesh, Rome"/>
+  <meta property="og:article:author" content="Embassy of the People’s Republic of Bangladesh, Rome"/>
+  <meta property="og:article:tag" content="Embassy of the People’s Republic of Bangladesh, Rome"/>
+  <meta property="og:article:tag" content="Bangladesh"/>
+  <meta property="og:article:tag" content="Bangladesh National Portal"/>
+  <meta property="og:article:tag" content="Government of the People's Republic of Bangladesh"/>
+  <meta property="og:article:tag" content="গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <meta property="og:title" content="Faq | Pages | Embassy of the People’s Republic of Bangladesh, Rome"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="687"/>
+  <meta property="og:image:height" content="570"/>
+  <meta property="og:image:secure_url" content="http://rome.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta property="og:image" content="http://rome.mofa.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div class="container">
+  <div class="header"><div data-section_type="header" class="droppable">
+        
+         <div data-widget_type="widget" data-widget_name="SimpleHeaderWidget" class="widget simple-header-widget"> <div class="simple-header-container"> <div class="simple-header-left"> <a href="/" class="logo-link"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-title-wrapper"> <a class="header-title" href="/" title="Embassy of the People’s Republic of Bangladesh, Rome"> <span class="title-text"> Embassy of the People’s Republic of Bangladesh, Rome </span> </a> </div> </div> <div class="simple-header-right"> <div class="date-section"> <i class="ph ph-calendar-dots"></i> <span class="date-text">10 / 11 / 2026, 08:51 am</span> </div> <div class='widget language-switcher-widget'> <input type="hidden" name="lang" id="7879937858" value="en" /> <button type="button" id="7154055912" data-type="en" class="btn-lang-change" onclick="window.toggleLanguage('7154055912', '7879937858')"> বাংলা </button> </div> </div> </div> </div> 
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="MenusSliderWidget" class="widget menus-slider-widget max-view"> <div class="expand-btn home-btn" style="display: none"> <a href="/" title="Home"><i class="ph ph-house"></i></a> </div> <div class="expand-btn prev-btn" style="display: none"> <span title="Previous"><i class="ph ph-arrow-fat-left"></i></span> </div> <div class="menus-widget-container" style="--home-label:'Home';"> <section class="widget menu-widget"> <span id="menu-toggle" class="hamburger-menu-block"> <icon class="hamburger-menu ph ph-list"></icon> <span>Select Menu</span> </span> <ul class="menu-list menu-parent-unordered-list custom-items-center"> <li class="megamenu-link "> <a class="menu-parent-list-link home-link" href="/"> </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" About The Mission" href="" class="menu-parent-list-link"> About The Mission <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" About The Mission" class="menu-child-title"> <a title="About The Mission" href="#"> <div>About The Mission</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" CV of Ambassador" class="menu-sub-child-link" href="/pages/static-pages/profile-of-he-ambassador-fee855-6952667d35ce18e1c05a9819" > <div>CV of Ambassador</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Roll of Honour" class="menu-sub-child-link" href="/pages/static-pages/695266a035ce18e1c05aa71b" > <div>Roll of Honour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" List of Officers" class="menu-sub-child-link" href="/pages/officers-profile" > <div>List of Officers</div> </a> </li> <li class="menu-sub-child-list"> <a title=" List of Holidays" class="menu-sub-child-link" href="/pages/files/6952663aa31054345f10274c" > <div>List of Holidays</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Office Hour" class="menu-sub-child-link" href="/pages/static-pages/6952667b35ce18e1c05a9768" > <div>Office Hour</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Embassy Events" class="menu-sub-child-link" href="" > <div>Embassy Events</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Honorary Consul" class="menu-sub-child-link" href="/pages/static-pages/6952669335ce18e1c05aa254" > <div>Honorary Consul</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Location" class="menu-sub-child-link" href="/pages/static-pages/695266a235ce18e1c05aa7e0" > <div>Location</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Consular" href="" class="menu-parent-list-link"> Consular <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Consular" class="menu-child-title"> <a title="Consular" href="#"> <div>Consular</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Consular Fees" class="menu-sub-child-link" href="/pages/static-pages/695266b535ce18e1c05aae37" > <div>Consular Fees</div> </a> </li> <li class="menu-sub-child-list"> <a title=" FAQ" class="menu-sub-child-link" href="/pages/static-pages/6952667235ce18e1c05a92b7" > <div>FAQ</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Passport" class="menu-child-title"> <a title="Passport" href="#"> <div>Passport</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Appointment for E-Paasport" class="menu-sub-child-link" href="https://www.bdembassyrome.com" > <div>Appointment for E-Paasport</div> </a> </li> <li class="menu-sub-child-list"> <a title=" MRP to E-Passport conversion" class="menu-sub-child-link" href="/pages/static-pages/6952668f35ce18e1c05aa0dc" > <div>MRP to E-Passport conversion</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Visa" class="menu-child-title"> <a title="Visa" href="/pages/static-pages/6952667135ce18e1c05a9243"> <div>Visa</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" NVR" class="menu-sub-child-link" href="/pages/static-pages/6952667e35ce18e1c05a98ad" > <div>NVR</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Tourist Visa" class="menu-sub-child-link" href="/pages/static-pages/695266a335ce18e1c05aa818" > <div>Tourist Visa</div> </a> </li> <li class="menu-sub-child-list"> <a title=" BUSINESS VISA (B) OR E1 VISA" class="menu-sub-child-link" href="/pages/static-pages/695266b635ce18e1c05aae9e" > <div>BUSINESS VISA (B) OR E1 VISA</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ‘PI’ or ‘E’ (Employment) VISA" class="menu-sub-child-link" href="/pages/static-pages/6952668e35ce18e1c05aa017" > <div>‘PI’ or ‘E’ (Employment) VISA</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Attestation / Certificates" class="menu-child-title"> <a title="Attestation / Certificates" href="https://appointment.bdembassyrome.it/"> <div>Attestation / Certificates</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" New Birth Certificate" class="menu-sub-child-link" href="/pages/static-pages/new-birth-certificate-atn8x7-69e603dedb601f2f93b5a976" > <div>New Birth Certificate</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Birth Certificate Correction" class="menu-sub-child-link" href="/pages/static-pages/birth-certificate-correction-fv3vrw-69e60418db601f2f93b5a98f" > <div>Birth Certificate Correction</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" Wage Earners&#39; Membership Services" class="menu-child-title"> <a title="Wage Earners&#39; Membership Services" href="#"> <div>Wage Earners&#39; Membership Services</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Wage Earners&#39; Membership Card" class="menu-sub-child-link" href="/pages/static-pages/6952668435ce18e1c05a9baa" > <div>Wage Earners&#39; Membership Card</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Repatriation of Dead Body" class="menu-sub-child-link" href="/pages/static-pages/6952669e35ce18e1c05aa658" > <div>Repatriation of Dead Body</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Labour &amp; Welfare" href="" class="menu-parent-list-link"> Labour &amp; Welfare <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Labour &amp; Welfare" class="menu-child-title"> <a title="Labour &amp; Welfare" href="#"> <div>Labour &amp; Welfare</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Probashi Pension Scheme" class="menu-sub-child-link" href="/pages/static-pages/695266b335ce18e1c05aadb5" > <div>Probashi Pension Scheme</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Probash Bondhu Call Center" class="menu-sub-child-link" href="/pages/static-pages/695266b035ce18e1c05aac89" > <div>Probash Bondhu Call Center</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Insurance for Expatriate" class="menu-sub-child-link" href="/pages/static-pages/6952669f35ce18e1c05aa69b" > <div>Insurance for Expatriate</div> </a> </li> <li class="menu-sub-child-list"> <a title=" বৈদেশিক কর্মসংস্থান ও অভিবাসী ব্যবস্থাপনা বিধিমালা ২০১৭" class="menu-sub-child-link" href="/pages/static-pages/695266af35ce18e1c05aac39" > <div>বৈদেশিক কর্মসংস্থান ও অভিবাসী ব্যবস্থাপনা বিধিমালা ২০১৭</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Recruiting Agent License Rules 2019" class="menu-sub-child-link" href="/pages/static-pages/695266b335ce18e1c05aad8b" > <div>Recruiting Agent License Rules 2019</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" Contact Us" href="" class="menu-parent-list-link"> Contact Us <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" Contact Us" class="menu-child-title"> <a title="Contact Us" href="#"> <div>Contact Us</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Address and Phone Number" class="menu-sub-child-link" href="/pages/static-pages/695266a235ce18e1c05aa7e0" > <div>Address and Phone Number</div> </a> </li> <li class="menu-sub-child-list"> <a title=" Write to Ambassador" class="menu-sub-child-link" href="/pages/web-forms/6952650cb71fc04b61482938" > <div>Write to Ambassador</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" July Uprising" href="/pages/static-pages/6952669235ce18e1c05aa1fd" class="menu-parent-list-link"> July Uprising <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" July Uprising" class="menu-child-title"> <a title="July Uprising" href="#"> <div>July Uprising</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" Documentary" class="menu-sub-child-link" href="/pages/static-pages/6952667535ce18e1c05a943e" > <div>Documentary</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" New Birth Certificate" href="/pages/static-pages/new-birth-certificate-atn8x7-69e603dedb601f2f93b5a976" class="menu-parent-list-link"> New Birth Certificate </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" Birth Certificate Correction" href="/pages/static-pages/birth-certificate-correction-fv3vrw-69e60418db601f2f93b5a98f" class="menu-parent-list-link"> Birth Certificate Correction </a> </li> </ul> </section> </div> <div class="expand-btn next-btn" style="display: none"> <span title="Next"><i class="ph ph-arrow-fat-right"></i></span> </div> </section> 
+            </div>
+        </div>
+        <div data-widget_type="widget" data-widget_name="EmbassyBannerSliderImageWidget" class="widget embassy-banner-slider-image-widget"> <div class="widget banner-slider-image-widget"> <div class="home-carousel"> <a class="slider images" target="_blank"> <img class="slider-image" src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-central-mofa/2024/12/09fc0d8006f34741810847cca5097d98.jpg " alt="MoFA"> </a> <a class="slider images" target="_blank"> <img class="slider-image" src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-rome-mofa/2026/2/e977802c-09c7-42b0-bafa-75dee6447413.jpeg " alt="profile"> </a> <div class="slider-overlay widget-container-row"> <div class="slider-left container-col-4"> <a href="/"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-left-section"> <h1><a style="text-decoration: none" href="/" class="office-title"> Embassy of the People’s Republic of Bangladesh, Rome </a></h1> <!--<p class="office-subtitle">Government of the People's Republic of Bangladesh</p>--> <p class="office-subtitle"></p> </div> </div> <!-- <div class="container-col-4">--> <!-- <p class="office-caption">--> <!-- </p>--> <!-- </div>--> <div class="slider-controls container-col-4"> <button class="nav-btn slider-previous"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.7868L1.79976 6.88151L6.70508 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> <button class="nav-btn slider-play"> <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6445 20.8813C13.2967 20.8813 15.8402 19.8278 17.7156 17.9524C19.591 16.0771 20.6445 13.5335 20.6445 10.8813C20.6445 8.22918 19.591 5.68564 17.7156 3.81028C15.8402 1.93492 13.2967 0.881348 10.6445 0.881348C7.99237 0.881348 5.44883 1.93492 3.57346 3.81028C1.6981 5.68564 0.644531 8.22918 0.644531 10.8813C0.644531 13.5335 1.6981 16.0771 3.57346 17.9524C5.44883 19.8278 7.99237 20.8813 10.6445 20.8813ZM10.0883 7.34135C9.90003 7.21575 9.68121 7.14361 9.45518 7.13263C9.22914 7.12165 9.00436 7.17224 8.80482 7.27901C8.60529 7.38577 8.43848 7.5447 8.32219 7.73884C8.2059 7.93298 8.1445 8.15504 8.14453 8.38135V13.3813C8.1445 13.6077 8.2059 13.8297 8.32219 14.0239C8.43848 14.218 8.60529 14.3769 8.80482 14.4837C9.00436 14.5905 9.22914 14.641 9.45518 14.6301C9.68121 14.6191 9.90003 14.5469 10.0883 14.4213L13.8383 11.9213C14.0095 11.8072 14.1498 11.6525 14.2469 11.4711C14.344 11.2897 14.3948 11.0871 14.3948 10.8813C14.3948 10.6756 14.344 10.473 14.2469 10.2916C14.1498 10.1102 14.0095 9.9555 13.8383 9.84135L10.0883 7.34135Z" fill="currentColor" /> </svg> </button> <button class="nav-btn slider-next"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.58447 11.7868L6.48979 6.88151L1.58447 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> </div> </div> </div> </div> </div>
+        
+    </div></div>
+  <div class="wrapper">
+    <div class="body"><div data-section_type="body" class="droppable">
+        <div class="container-row">
+            <div class="container-col container-col-12" data-widget_type="layout">
+                <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">Click to share this content</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>Give your opinion</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>Give your opinion</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">Your Name</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="Enter Your Name"
+        />
+        <small class="error-message" hidden>
+          Name is required
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Email</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="Enter Your Email"
+        />
+        <small class="error-message" hidden>
+          Enter a valid email address
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Contact Number</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="Enter Your Contact Number"
+        />
+        <small class="error-message" hidden>
+          Enter a valid phone number (e.g. 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Write your opinion</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          Opinion must be at least 20 characters
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">Submit</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <!--<script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>-->
+  <script src="/site-assets/js/ckeditor5-41.4.2-classic-ckeditor.min.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+                <div data-widget_type="widget" data-widget_name="ContentViewerWidget" class="widget content-viewer-widget" data-sub-widget="TitleWithImageContentWidget"> <div class="content-update-block"> <p> This content was last updated on: Thursday, October 1, 2026 at 08:52 PM </p> </div> <div class="widget print-widget"> <div></div> <div onclick="window._print_content(this);" title="Print" class="print-btn"><i class="ph ph-printer"></i></div> </div> <div class="widget title-with-image-content-widget"> <h2> FAQ </h2> <p class="chips"> <span class="basic-chip">Content: Pages</span> </p> <div class="image-list"> </div> <rt-renderer encoded-content="PHAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjI0cHgiPjxzdHJvbmc+4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka2wqDgpqbgp4LgpqTgpr7gpqzgpr7gprgswqDgprDgp4vgpq48L3N0cm9uZz48L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPsKgPHN0cm9uZz7gpqrgpr7gprjgpqrgp4vgprDgp43gpp8swqDgppzgpqjgp43gpq4v4Kau4KeD4Kak4KeN4Kav4KeBwqDgprjgpqjgpqYswqDgprjgpqTgp43gpq/gpr7gp5/gpqjCoOCmuOCmguCmleCnjeCmsOCmvuCmqOCnjeCmpMKg4Kao4Kau4KeB4Kao4Ka+wqDgpqrgp43gprDgprbgp43gpqjgp4vgpqTgp43gpqTgprA8L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6fgpaTCoOCmhuCmruCmvuCmsMKg4Ka44Kao4KeN4Kak4Ka+4KaowqDgpofgpqTgpr7gprLgpr/gpqTgp4fCoOCmnOCmqOCnjeCmruCml+CnjeCmsOCmueCmo8Kg4KaV4Kaw4KeH4Kab4KeH4KWkwqDgpobgpq7gpr/CoOCmleCni+CmpeCmvuCnnyzCoOCmleCmv+CmreCmvuCmrOCnh8Kg4Kak4Ka+4KaB4KawwqDgppzgpqjgp43gpq7gprjgpqjgpqbCoOCmpOCniOCmsOCmv8Kg4KaV4Kaw4Kak4KeHwqDgpqrgpr7gprDgpqzgp4s/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmsOCni+CmruCmuOCnjeCmpSDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprYg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmleCmv+CmguCmrOCmviDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgp4cg4KaG4Kaq4Kao4Ka+4KawIOCmuOCnjeCmpeCmvuCnn+CngCDgpqDgpr/gppXgpr7gpqjgpr4g4Ka54Kak4KeHIOCmtuCmv+CmtuCngeCmsCDgppzgpqjgp43gpq4g4Kao4Ka/4Kas4Kao4KeN4Kan4KaoIOCmuOCmqOCmpiDgprjgpoLgppfgp43gprDgprkg4KaV4Kaw4Kak4KeHIOCmquCmvuCmsOCnh+CmqOClpCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprYg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmueCmpOCnhyDgppzgpqjgp43gpq4g4Kao4Ka/4Kas4Kao4KeN4Kan4KaoIOCmuOCmqOCmpiDgprjgpoLgppfgp43gprDgprkg4KaV4Kaw4Kak4KeHIOCmmuCmvuCmh+CmsuCnhyBiZHJpcy5nb3YuYmQg4KaT4Kef4KeH4Kas4Ka44Ka+4KaH4Kaf4KeHIOCmquCnjeCmsOCmrOCnh+CmtiDgppXgprDgp4cg4KaF4Kao4Kay4Ka+4KaH4Kao4KeHIOCmhuCmrOCnh+CmpuCmqCDgppXgprDgp4HgpqjgpaQg4KaF4Kao4Kay4Ka+4KaH4Kao4KeHIOCmhuCmrOCnh+CmpuCmqOCnh+CmsCDgpqrgp43gprDgppXgp43gprDgpr/gp5/gpr4g4Ka44Ka54Kac4KeHIOCmrOCni+CmneCmvuCmsCDgppzgpqjgp43gpq8gPGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaUJPWVNyYVgzczFPUDNycy1jOWpzcjIySGhPV2pNUDIvdmlldyI+Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaUJPWVNyYVgzczFPUDNycy1jOWpzcjIySGhPV2pNUDIvdmlldzwvYT4g4Kay4Ka/4KaZ4KeN4KaV4KeHIOCmpuCnh+Cnn+CmviDgpq3gpr/gpqHgpr/gppPgpp/gpr8g4Kam4KeH4KaW4Kak4KeHIOCmquCmvuCmsOCnh+CmqOClpCDgpoXgpqjgprLgpr7gpofgpqjgp4cg4Kac4Kao4KeN4Kau4Kao4Ka/4Kas4Kao4KeN4Kan4Kao4KeH4KawIOCmhuCmrOCnh+CmpuCmqOCnh+CmsCDgpqvgpp/gp4vgppXgpqrgpr/gprAg4Ka44Ka+4Kal4KeHIOCmr+CnhyDgprjgppXgprIg4KaV4Ka+4KaX4Kac4Kaq4Kak4KeN4KawIOCmnOCmruCmviDgpqbgpr/gpqTgp4cg4Ka54Kas4KeHIOCmpOCmviDgprngprLgp4vgpoMg4KaH4Kak4Ka+4Kay4Ka/4KawIOCmr+CmpeCmvuCmr+CmpSDgppXgprDgp43gpqTgp4PgpqrgppXgp43gprcg4Kal4KeH4KaV4KeHIOCmquCnjeCmsOCmpuCmpOCnjeCmpCDgppzgpqjgp43gpq4g4Ka44Kao4KamICjgpq/gp4fgppbgpr7gpqjgp4cg4Ka44Kao4KeN4Kak4Ka+4KaoIOCmj+CmrOCmgiDgpqzgpr7gpqzgpr4t4Kau4Ka+IOCmpOCmv+CmqOCmnOCmqOCnh+CmsCDgpqjgpr7gpq4g4KaJ4Kay4KeN4Kay4KeH4KaWIOCmhuCmm+CnhyksIOCmrOCmvuCmrOCmviDgppMg4Kau4Ka+4Kef4KeH4KawIOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsCDgpqvgpp/gp4vgppXgpqrgpr/gpaQg4KaJ4Kay4KeN4Kay4KeH4KaW4KeN4KavLCDgpoXgpqjgprLgpr7gpofgpqjgp4cg4KaG4Kas4KeH4Kam4KaoIOCmnOCmruCmviDgpqbgp4fgp5/gpr7gprAg4Kaq4Kaw4KeHIOCmpOCmviDgp6fgp6sg4Kam4Ka/4KaoIOCmr+CmvuCmrOCmpCDgprjgpr/gprjgp43gpp/gp4fgpq4gKOCmuOCmq+Cmn+Cmk+Cnn+CnjeCmr+CmvuCmsCkt4KaPIOCmuOCmguCmsOCmleCnjeCmt+Cmv+CmpCDgpqXgpr7gppXgp4csIOCmj+CmsOCmquCmsCDgpqTgpr4g4Ka44KeN4Kas4Kef4KaC4KaV4KeN4Kaw4Ka/4KefIOCmreCmvuCmrOCnhyDgpq7gp4Hgppvgp4cg4Kav4Ka+4Kef4KWkIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4cg4Kac4Kao4KeN4KauIOCmqOCmv+CmrOCmqOCnjeCmp+CmqCDgprjgpr7gprDgp43gpp/gpr/gpqvgpr/gppXgp4fgpp8g4Kaq4KeN4Kaw4Ka44KeN4Kak4KeB4KakIOCmleCmsOCmpOCnhyDgprjgpr7gpqfgpr7gprDgpqPgpqQg4KerIOCmleCmsOCnjeCmruCmpuCmv+CmrOCmuCDgprjgpq7gpq/gprwg4Kaq4KeN4Kaw4Kef4KeL4Kac4Kao4KWkIOCmheCmpOCmj+CmrCwg4KaF4Kao4Kay4Ka+4KaH4Kao4KeHIOCmhuCmrOCnh+CmpuCmqOCnh+CmsCDgprjgpq7gp58g4KaP4Kaq4Kef4KeH4Kao4KeN4Kaf4Kau4KeH4Kao4KeN4Kaf4KeH4KawIOCmpOCmvuCmsOCmv+CmliDgppbgp4fgp5/gpr7gprIg4Kaw4KeH4KaW4KeHIOCmquCnjeCmsOCnn+Cni+CmnOCmqOCngOCnnyDgprjgpq7gp58g4Ka54Ka+4Kak4KeHIOCmsOCnh+CmluCnhyDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4cg4KaG4Kas4KeH4Kam4Kao4Kaq4Kak4KeN4KawIOCmnOCmruCmviDgpqbgpr/gpqjgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6jgpaTCoOCmj+CmleCmh8Kg4Kas4KeN4Kav4KaV4KeN4Kak4Ka/wqDgpo/gppXgpr7gpqfgpr/gppXgpqzgpr7gprDCoOCmnOCmqOCnjeCmrsKg4Kao4Ka/4Kas4Kao4KeN4Kan4KaowqDgppXgprDgpqTgp4fCoOCmquCmvuCmsOCmrOCnh8Kg4KaV4Ka/Pzwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gpo/gppXgpocg4Kas4KeN4Kav4KaV4KeN4Kak4Ka/4KawIOCmheCmqOCngeCmleCnguCmsuCnhyDgpo/gppXgpr7gpqfgpr/gppXgpqzgpr7gprAg4Kac4Kao4KeN4KauIOCmqOCmv+CmrOCmqOCnjeCmp+CmqCDgppXgprDgpr4g4Kav4Ka+4Kas4KeHIOCmqOCmvuClpCDgpo/gpp/gpr8g4Kac4Kao4KeN4KauIOCmkyDgpq7gp4PgpqTgp43gpq/gp4Eg4Kao4Ka/4Kas4Kao4KeN4Kan4KaoIOCmhuCmh+CmqCwg4Keo4Kem4Kem4KeqIOCmj+CmsCDgp6jgp6cg4Kan4Ka+4Kaw4Ka+IOCmheCmqOCngeCmr+CmvuCmr+CmvOCngCDgpqbgpqjgp43gpqHgpqjgp4Dgpq/gprwg4KaF4Kaq4Kaw4Ka+4Kan4KWkPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxiciAvPsKgPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxzdHJvbmc+4Kep4KWkwqDgppzgpqjgp43gpq7CoOCmqOCmv+CmrOCmqOCnjeCmp+CmqMKg4Ka44Kao4Kam4KeH4KawwqDgpqTgpqXgp43gpq/CoOCmuOCmguCmtuCni+Cmp+CmqMKg4KaV4Kaw4Ka+wqDgpq/gpr7gpqzgp4fCoOCmleCmv+CmqOCmvj/CoOCmuOCmruCnjeCmreCmrMKg4Ka54Kay4KeHwqDgpqTgpr7CoOCmleCmv+CmreCmvuCmrOCnhz88L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4Kac4Kao4KeN4KauIOCmqOCmv+CmrOCmqOCnjeCmp+CmqCDgprjgpqjgpqbgp4fgprAg4Kak4Kal4KeN4KavIOCmuOCmguCmtuCni+Cmp+CmqCDgppXgprDgpqTgp4cg4Ka54Kay4KeHIDxhIGhyZWY9Imh0dHBzOi8vYmRyaXMuZ292LmJkLyI+YmRyaXMuZ292LmJkPC9hPiDgppPgp5/gp4fgpqzgprjgpr7gpofgpp/gp4cg4Kaq4KeN4Kaw4Kas4KeH4Ka2IOCmleCmsOCnhyDgpq/gp4cg4KaF4Kar4Ka/4Ka4IOCmpeCnh+CmleCnhyDgprjgpqjgpqYg4Ka44KaC4KaX4KeN4Kaw4Ka5IOCmleCmsOCnh+Cmm+Cnh+CmqCDgprjgp4fgpocg4KaF4Kar4Ka/4Ka44KeH4KaHIOCmheCmqOCmsuCmvuCmh+CmqOCnhyDgpobgpqzgp4fgpqbgpqgg4KaV4Kaw4Kak4KeHIOCmueCmrOCnh+ClpCDgprjgpqvgpp/gppPgp5/gp43gpq/gpr7gprDgp4cg4Kaq4KeN4Kaw4Kas4KeH4Ka2IOCmleCmsOCnhyDgpqzgpr7gpq4g4Kam4Ka/4KaV4KeHIOCmnOCmqOCnjeCmriDgpqjgpr/gpqzgpqjgp43gpqfgpqgg4Ka44Kao4KamIOCmuOCmguCmtuCni+Cmp+CmqCDgprLgp4fgppbgpr4g4KaF4KaC4Ka24KeHIOCmleCnjeCmsuCmv+CmlSDgppXgprDgp4cg4Kaq4KeN4Kaw4Kef4KeL4Kac4Kao4KeA4KefIOCmqOCmv+CmsOCnjeCmpuCnh+CmtuCmqOCmviDgpoXgpqjgp4HgprjgprDgpqMg4KaV4Kaw4KeB4Kao4KWkIOCmjyDgprjgpoLgppXgp43gprDgpr7gpqjgp43gpqQg4Ka44Ka54Kav4KeL4KaX4Ka/4Kak4Ka+4KawIOCmnOCmqOCnjeCmryA8YSBocmVmPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFlV09ialZvVkxJY0hmbDZibzBUN1djWHpMVmVrTThLdC92aWV3Ij5kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZVdPYmpWb1ZMSWNIZmw2Ym8wVDdXY1h6TFZla004S3QvdmlldzwvYT4g4Kay4Ka/4KaC4KaV4KeHIOCml+Cmv+Cnn+CnhyDgpq3gpr/gpqHgpr/gppPgpp/gpr8g4Kam4KeH4KaW4Kak4KeHIOCmquCmvuCmsOCnh+CmqOClpDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48YnIgLz7CoDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48c3Ryb25nPuCnquClpMKg4Kac4Kao4KeN4KauwqDgpqjgpr/gpqzgpqjgp43gpqfgpqjCoOCmuOCmqOCmpsKg4Kak4KeI4Kaw4Ka/wqDgppXgprDgpqTgp4fCoOCmtuCmv+CmtuCngeCmleCnh8Kg4KaG4Kao4Kak4KeHwqDgprngpqzgp4fCoOCmleCmv+CmqOCmvj88L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4Kac4Kao4KeN4KauIOCmqOCmv+CmrOCmqOCnjeCmp+CmqCDgprjgpqjgpqYg4Kak4KeI4Kaw4Ka/IOCmleCmsOCmpOCnhyDgprbgpr/gprbgp4Eg4Ka44Kao4KeN4Kak4Ka+4Kao4KaV4KeHIOCmhuCmqOCmpOCnhyDgprngpqzgp4cg4Kao4Ka+4KWkIOCmpOCmrOCnhyDgpqzgp5/gprjgp43gppUg4Kas4KeN4Kav4KaV4KeN4Kak4Ka/4Kam4KeH4KawIOCmleCnjeCmt+Cnh+CmpOCnjeCmsOCnhyDgpoXgpqzgprbgp43gpq/gpocg4KaG4Kas4KeH4Kam4Kao4KaV4Ka+4Kaw4KeA4KaV4KeHIOCmuOCmtuCmsOCngOCmsOCnhyDgprngpr7gppzgpr/gprAg4Ka54Kak4KeHIOCmueCmrOCnh+ClpDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48YnIgLz7CoDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48c3Ryb25nPuCnq+ClpDwvc3Ryb25nPsKgPHN0cm9uZz7gpobgpq7gpr/CoOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsMKg4Kac4Kao4KeN4KavwqDgppXgpr/gpq3gpr7gpqzgp4fCoOCmj+CmquCnn+Cnh+CmqOCnjeCmn+CmruCnh+CmqOCnjeCmn8Kg4Kao4Ka/4Kak4KeHwqDgpqrgpr7gprDgpqzgp4s/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgpo/gpqrgp5/gp4fgpqjgp43gpp/gpq7gp4fgpqjgp43gpp8g4KaF4Kao4Kay4Ka+4KaH4Kao4Kat4Ka/4Kak4KeN4Kak4Ka/4KaV4KWkIOCmj+CmquCnn+Cnh+CmqOCnjeCmn+CmruCnh+CmqOCnjeCmnyDgppfgp43gprDgprngpqPgp4fgprAg4Kac4Kao4KeN4KavIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgpqbgp4LgpqTgpr7gpqzgpr7gprgg4Kaw4KeL4Kau4KeH4KawIOCmk+Cnn+Cnh+CmrOCmuOCmvuCmh+Cmn+CnhzxzdHJvbmc+wqA8L3N0cm9uZz7gppfgpr/gp5/gp4cgPGEgaHJlZj0iaHR0cHM6Ly93d3cuYmRlbWJhc3N5cm9tZS5jb20iPmh0dHBzOi8vd3d3LmJkZW1iYXNzeXJvbWUuY29tPC9hPiDCoCDgpqrgp43gprDgp5/gp4vgppzgpqjgp4Dgp58g4Kak4Kal4KeN4KavIOCmpuCmv+Cnn+CnhyDgpo/gpqrgp5/gp4fgpqjgp43gpp/gpq7gp4fgpqjgp43gpp8g4KaX4KeN4Kaw4Ka54KajIOCmleCmsOCngeCmqOClpDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48YnIgLz7CoDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48c3Ryb25nPuCnrOClpMKg4KaH4Kak4Ka+4Kay4Ka/4Kak4KeHwqDgppzgpqjgp43gpq7gppfgp43gprDgprngpqPgppXgpr7gprDgp4DCoOCmtuCmv+CmtuCngeCmsMKg4Kao4Kak4KeB4KaowqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/CoOCmleCmsOCmvuCmpOCnh8Kg4KaV4Ka/wqDgppXgpr/CoOCmleCmsOCmpOCnh8Kg4Ka54Kas4KeHP8KgPC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmtuCmv+CmtuCngeCmsCDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Kak4KeI4Kaw4KeAIOCmleCmsOCmpOCnhyDgpqrgp43gprDgpqXgpq7gp4fgpocg4Ka24Ka/4Ka24KeB4KawIOCmnOCmqOCnjeCmriDgpqjgpr/gpqzgpqjgp43gpqfgpqgg4Ka44Kao4KamIOCmpOCniOCmsOCmvyDgppXgprDgpqTgp4cg4Ka54Kas4KeH4KWk4Kaw4KeL4Kau4Ka44KeN4KalIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgpqbgp4LgpqTgpr7gpqzgpr7gprgg4KaV4Ka/4KaC4Kas4Ka+IOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtuCnhyDgpobgpqrgpqjgpr7gprAg4Ka44KeN4Kal4Ka+4Kef4KeAIOCmoOCmv+CmleCmvuCmqOCmviDgprngpqTgp4cg4Ka24Ka/4Ka24KeB4KawIOCmnOCmqOCnjeCmriDgpqjgpr/gpqzgpqjgp43gpqfgpqgg4Ka44Kao4KamIOCmuOCmguCml+CnjeCmsOCmuSDgppXgprDgpqTgp4cg4Kaq4Ka+4Kaw4KeH4Kao4KWkIOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtiDgpqbgp4LgpqTgpr7gpqzgpr7gprgg4Ka54Kak4KeHIOCmnOCmqOCnjeCmriDgpqjgpr/gpqzgpqjgp43gpqfgpqgg4Ka44Kao4KamIOCmuOCmguCml+CnjeCmsOCmuSDgppXgprDgpqTgp4cg4Kaa4Ka+4KaH4Kay4KeHIGJkcmlzLmdvdi5iZCDgppPgp5/gp4fgpqzgprjgpr7gpofgpp/gp4cg4Kaq4KeN4Kaw4Kas4KeH4Ka2IOCmleCmsOCnhyDgpoXgpqjgprLgpr7gpofgpqjgp4cg4KaG4Kas4KeH4Kam4KaoIOCmleCmsOCngeCmqOClpCDgpoXgpqjgprLgpr7gpofgpqjgp4cg4KaG4Kas4KeH4Kam4Kao4KeH4KawIOCmquCnjeCmsOCmleCnjeCmsOCmv+Cnn+CmviDgprjgprngppzgp4cg4Kas4KeL4Kad4Ka+4KawIOCmnOCmqOCnjeCmryA8YSBocmVmPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFpQk9ZU3JhWDNzMU9QM3JzLWM5anNyMjJIaE9Xak1QMi92aWV3Ij4vL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFpQk9ZU3JhWDNzMU9QM3JzLWM5anNyMjJIaE9Xak1QMi92aWV3PC9hPiDgprLgpr/gppngp43gppXgp4cg4Kam4KeH4Kef4Ka+IOCmreCmv+CmoeCmv+Cmk+Cmn+CmvyDgpqbgp4fgppbgpqTgp4cg4Kaq4Ka+4Kaw4KeH4Kao4KWkIOCmheCmqOCmsuCmvuCmh+CmqOCnhyDgppzgpqjgp43gpq7gpqjgpr/gpqzgpqjgp43gpqfgpqjgp4fgprAg4KaG4Kas4KeH4Kam4Kao4KeH4KawIOCmq+Cmn+Cni+CmleCmquCmv+CmsCDgprjgpr7gpqXgp4cg4Kav4KeHIOCmuOCmleCmsiDgppXgpr7gppfgppzgpqrgpqTgp43gprAg4Kac4Kau4Ka+IOCmpuCmv+CmpOCnhyDgprngpqzgp4cg4Kak4Ka+IOCmueCmsuCni+CmgyDgpofgpqTgpr7gprLgpr/gprAg4Kav4Kal4Ka+4Kav4KalIOCmleCmsOCnjeCmpOCng+CmquCmleCnjeCmtyDgpqXgp4fgppXgp4cg4Kaq4KeN4Kaw4Kam4Kak4KeN4KakIOCmnOCmqOCnjeCmriDgprjgpqjgpqYgKOCmr+Cnh+CmluCmvuCmqOCnhyDgprjgpqjgp43gpqTgpr7gpqgg4KaP4Kas4KaCIOCmrOCmvuCmrOCmvi3gpq7gpr4g4Kak4Ka/4Kao4Kac4Kao4KeH4KawIOCmqOCmvuCmriDgpongprLgp43gprLgp4fgppYg4KaG4Kab4KeHKSwg4Kas4Ka+4Kas4Ka+IOCmkyDgpq7gpr7gp5/gp4fgprAg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4Kaf4KeH4KawIOCmq+Cmn+Cni+CmleCmquCmv+ClpCDgpongprLgp43gprLgp4fgppbgp43gpq8sIOCmheCmqOCmsuCmvuCmh+CmqOCnhyDgpobgpqzgp4fgpqbgpqgg4Kac4Kau4Ka+IOCmpuCnh+Cnn+CmvuCmsCDgpqrgprDgp4cg4Kak4Ka+IOCnp+CnqyDgpqbgpr/gpqgg4Kav4Ka+4Kas4KakIOCmuOCmv+CmuOCnjeCmn+Cnh+CmriAo4Ka44Kar4Kaf4KaT4Kef4KeN4Kav4Ka+4KawKS3gpo8g4Ka44KaC4Kaw4KaV4KeN4Ka34Ka/4KakIOCmpeCmvuCmleCnhywg4KaP4Kaw4Kaq4KawIOCmpOCmviDgprjgp43gpqzgp5/gpoLgppXgp43gprDgpr/gp58g4Kat4Ka+4Kas4KeHIOCmruCngeCmm+CnhyDgpq/gpr7gp5/gpaQg4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka2IOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgppzgpqjgp43gpq4g4Kao4Ka/4Kas4Kao4KeN4Kan4KaoIOCmuOCmvuCmsOCnjeCmn+Cmv+Cmq+Cmv+CmleCnh+CmnyDgpqrgp43gprDgprjgp43gpqTgp4HgpqQg4KaV4Kaw4Kak4KeHIOCmuOCmvuCmp+CmvuCmsOCmo+CmpCDgp6sg4KaV4Kaw4KeN4Kau4Kam4Ka/4Kas4Ka4IOCmuOCmruCmr+CmvCDgpqrgp43gprDgp5/gp4vgppzgpqjgpaQg4KaF4Kak4KaP4KasLCDgpoXgpqjgprLgpr7gpofgpqjgp4cg4KaG4Kas4KeH4Kam4Kao4KeH4KawIOCmuOCmruCnnyDgpo/gpqrgp5/gp4fgpqjgp43gpp/gpq7gp4fgpqjgp43gpp/gp4fgprAg4Kak4Ka+4Kaw4Ka/4KaWIOCmluCnh+Cnn+CmvuCmsiDgprDgp4fgppbgp4cg4Kaq4KeN4Kaw4Kef4KeL4Kac4Kao4KeA4KefIOCmuOCmruCnnyDgprngpr7gpqTgp4cg4Kaw4KeH4KaW4KeHIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgpobgpqzgp4fgpqbgpqjgpqrgpqTgp43gprAg4Kac4Kau4Ka+IOCmpuCmv+CmqOClpDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gprbgpr/gprbgp4HgprAg4Kao4Kak4KeB4KaoIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqTgp4jgprDgpr/gprAg4Kac4Kao4KeN4KavIOCmhuCmrOCnh+CmpuCmqCDgppXgprDgpqTgp4cg4KaG4Kaq4Kao4Ka/IDxhIGhyZWY9Imh0dHBzOi8vd3d3LnBhc3Nwb3J0Lmdvdi5iZC8iPi8vd3d3LnBhc3Nwb3J0Lmdvdi5iZC88L2E+IOCmsuCmv+CmguCmleCnhyDgppXgp43gprLgpr/gppUg4KaV4Kaw4KeHIOCmheCmqOCmsuCmvuCmh+CmqOCnhyDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Kar4Kaw4KauIOCmquCnguCmsOCmoyDgppXgprDgp4HgpqjgpaQg4KaF4Kao4Kay4Ka+4KaH4Kao4KeHIOCmqOCmpOCngeCmqCDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/gp4fgprAg4KaG4Kas4KeH4Kam4KaoIOCmq+CmsOCmriDgprjgprngppzgpq3gpr7gpqzgp4cg4Kaq4KeC4Kaw4KajIOCmleCmsOCmvuCmsCDgppzgpqjgp43gpq8g4Kak4Ka+4KawIOCmheCmuOCmguCmluCnjeCmryDgpq3gpr/gpqHgpr/gppMg4KaH4KaJ4Kaf4Ka/4KaJ4Kas4KeHIOCmpuCnh+Cmr+CmvOCmviDgpobgppvgp4fgpaQg4Kak4Ka+4KawIOCmruCmp+CnjeCmryDgpqXgp4fgppXgp4cg4KaG4Kaq4Kao4Ka+4Kam4KeH4KawIOCmuOCmueCmr+Cni+Cml+Cmv+CmpOCmvuCmsCDgppzgpqjgp43gpq8g4KaP4KaV4Kaf4Ka/IOCmreCmv+CmoeCmv+CmkyA8YSBocmVmPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWFUU3kxb0pQaHpzIj4vL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWFUU3kxb0pQaHpzPC9hPiDgprbgp4fgpq/gprzgpr7gprAg4KaV4Kaw4Ka+IOCmueCmmuCnjeCmm+Cnh+ClpCDgpoXgpqjgprLgpr7gpofgpqjgp4cg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmq+CmsOCmriDgpqrgp4LgprDgpqMg4KaV4Kaw4Ka+4KawIOCmleCnjeCmt+Cnh+CmpOCnjeCmsOCnhyDgpq/gppbgpqgg4Kaq4KeH4Kau4KeH4Kao4KeN4KafIOCmuOCmguCmleCnjeCmsOCmvuCmqOCnjeCmpCDgpqTgpqXgp43gpq8g4Kaa4Ka+4KaT4Kav4Ka84Ka+IOCmueCmrOCnhywg4Kak4KaW4KaoIOCmuOCnjeCmleCmv+CmqiDgpqrgp4fgpq7gp4fgpqjgp43gpp8gKFNraXAgUGF5bWVudCkg4Kas4KaV4KeN4Ka44Kaf4Ka/IOCmleCnjeCmsuCmv+CmlSDgppXgprDgp4cg4Kaq4Kaw4Kas4Kaw4KeN4Kak4KeAIOCmp+CmvuCmquCnhyDgpq/gpr7gpqg7IOCmquCnh+CmruCnh+CmqOCnjeCmnyDgprjgpoLgppXgp43gprDgpr7gpqjgp43gpqQg4Kak4Kal4KeN4KavIOCmj+CmluCmvuCmqOCnhyDgpqbgp4fgpq/gprzgpr7gprAg4Kaq4KeN4Kaw4Kav4Ka84KeL4Kac4KaoIOCmqOCnh+Cmh+ClpCDgpqbgp4LgpqTgpr7gpqzgpr7gprgg4KaG4Kay4Ka+4Kam4Ka+IOCmreCmvuCmrOCnhyDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Kak4KeI4Kaw4Ka/4KawIOCmq+Cmv+CmuCDgppzgpq7gpr7gprAg4Kaw4Ka24Ka/4KamIOCmuOCmv+CmuOCnjeCmn+Cnh+CmruCnhyDgprjgprDgpr7gprjgprDgpr8g4Kac4Kau4Ka+IOCmpuCmv+Cnn+CnhyDgpqbgp4fgpqzgp4fgpaQg4Kar4Kaw4KauIOCmquCnguCmsOCmoyDgprbgp4fgprfgp4cg4Kar4Kaw4Kau4KeH4KawICjgpqzgpr7gprDgppXgp4vgpqEg4Ka44Ka5IOCnqiDgpqrgpr7gpqTgpr7gprAg4KaG4Kas4KeH4Kam4KaoKS3gpo/gprAg4KaP4KaVIOCmleCmquCmvyDgpqrgp43gprDgpr/gpqjgp43gpp/gp4fgprAg4Ka44Ka+4Kal4KeHIOCmqOCmv+CmruCnjeCmqOCmrOCmsOCnjeCmo+Cmv+CmpCDgppXgpr7gppfgppzgpqrgpqTgp43gprAg4Ka44KaC4Kav4KeB4KaV4KeN4KakIOCmleCmsOCmpOCnhyDgprngpqzgp4fgpoM8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4KaVKSDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprYg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmleCmv+CmguCmrOCmviDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprYg4Ka54Kak4KeHIOCmuOCmguCml+Cng+CmueCngOCmpCDgppzgpqjgp43gpq4g4Kao4Ka/4Kas4Kao4KeN4Kan4KaoIOCmuOCmqOCmpjs8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4KaWKSDgpofgpqTgpr7gprLgpr/gp5/gpr7gpqgg4Kac4Kao4KeN4KauIOCmuOCmqOCmpuCnh+CmsCDgpqvgpp/gp4vgppXgpqrgpr87PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmlykg4Ka24Ka/4Ka24KeB4KawIOCmrOCmvuCmrOCmviDgpo/gpqzgpoIg4Kau4Ka+4Kav4Ka84KeH4KawIOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsCDgpqvgpp/gp4vgppXgpqrgpr87PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmmCkg4KaG4Kas4KeH4Kam4Kao4Kaq4Kak4KeN4Kaw4KeH4KawIOCmtuCmv+CmtuCngeCmsCDgp6gg4KaV4Kaq4Ka/IOCmj+CmrOCmgiDgpqzgpr7gpqzgpr4t4Kau4Ka+4Kef4KeH4KawIOCmquCnjeCmsOCmpOCnjeCmr+Cnh+CmleCnh+CmsCDgp6cg4KaV4Kaq4Ka/IOCmleCmsOCnhyDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Ka44Ka+4KaH4Kac4KeH4KawIOCmm+CmrOCmvyA8aT4o4Kab4Kas4Ka/wqDgpqTgp4vgprLgpr7gprDCoOCmuOCmruCmr+CmvMKg4Kaa4Ka24Kau4Ka+LMKg4Ka44Ka+4Kam4Ka+wqDgprbgpr7gprDgp43gpp8swqDgpqvgp4fgpqjgp43gprjgpr88L2k+wqA8aT7gpp/gp4Hgpqrgpr8swqDgppXgpqrgpr7gprLgp4fCoOCmqOCmnOCmsMKg4Kaf4Ka/4KaqLMKg4Kas4Ka+wqDgpoXgpqjgp43gpq/gpr7gpqjgp43gpq/CoOCmheCmquCnjeCmsOCmr+CmvOCni+CmnOCmqOCngOCmr+CmvMKg4Kac4Ka/4Kao4Ka/4Ka4wqDgpqrgprDgpr/gprngpr7gprDCoOCmleCmsOCngeCmqOClpMKg4Ka24Ka/4Ka24KeB4KawwqDgppvgpqzgpr/gpp/gpr/CoOCmquCni+CmsOCnjeCmn+CnjeCmsOCnh+Cmn8KgKHBvcnRyYWl0KcKg4Kan4Kaw4Kao4KeH4KawwqDgprngpqzgp4cswqDgpprgp4vgppbCoOCmluCni+CmsuCmvsKg4Kal4Ka+4KaV4Kas4KeHLMKg4Kam4KeB4Kaf4KeLwqDgppXgpr7gpqjCoOCmr+CmpeCmvuCmuOCmruCnjeCmreCmrMKg4Kam4KeD4Ka24KeN4Kav4Kau4Ka+4KaowqDgprngpqTgp4fCoOCmueCmrOCnhyzCoOCmruCmvuCmpeCmvuCmsMKg4KaJ4Kaq4Kaw4KeHwqDgpo/gpqzgpoLCoOCmruCngeCmluCmruCmqOCnjeCmoeCmsuCnh+CmsMKg4KaJ4Kat4Kav4Ka8wqDgpqrgpr7gprbgp4fCoOCmluCmvuCmsuCmv8Kg4Kac4Ka+4Kav4Ka84KaX4Ka+wqDgpqXgpr7gppXgpqzgp4cswqDgppvgpqzgpr/gprDCoOCmrOCnjeCmr+CmvuCmleCml+CnjeCmsOCmvuCmieCmqOCnjeCmocKg4KaF4Kas4Ka24KeN4Kav4KaHwqDgprjgpr7gpqbgpr7CoOCmueCmpOCnh8Kg4Ka54Kas4KeH4KWkwqDgpo/gpofCoOCmquCmvuCmuOCmquCni+CmsOCnjeCmn8Kg4Kar4Kaw4KeN4Kau4KeH4KawwqDgppXgp4vgpqXgpr7gppPCoOCmleCni+CmqMKg4Ka44Kak4KeN4Kav4Ka+4Kav4Ka84Kao4KeH4KawwqDgpqrgp43gprDgpq/gprzgp4vgppzgpqjCoOCmueCmrOCnh8Kg4Kao4Ka+KTwvaT48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp63gpaTCoOCmhuCmruCmvuCmsMKg4Kaq4Kaw4Ka/4Kas4Ka+4Kaw4KeH4KawwqDgprjgppXgprLCoOCmuOCmpuCmuOCnjeCmr+CmpuCnh+CmsMKg4Kac4Kao4KeN4KavwqDgpobgprLgpr7gpqbgpr7CoOCmj+CmquCnn+Cnh+CmqOCnjeCmn+CmruCnh+CmqOCnjeCmn8Kg4Kay4Ka+4KaX4Kas4KeHwqDgppXgpr8/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmquCmsOCmv+CmrOCmvuCmsOCnh+CmsCDgprjgppXgprIg4Ka44Kam4Ka44KeN4Kav4Kam4KeH4KawIOCmnOCmqOCnjeCmryDgpo/gppXgpp/gpr8g4KaP4Kaq4Kef4KeH4Kao4KeN4Kaf4Kau4KeH4Kao4KeN4KafIOCmr+CmpeCnh+Cmt+CnjeCmn+ClpCDgpqrgprDgpr/gpqzgpr7gprAg4Kas4Kay4Kak4KeHIOCmqOCmv+CmnCwg4Ka44KeN4Kak4KeN4Kaw4KeALCDgprjgpqjgp43gpqTgpr7gpqgsIOCmrOCmvuCmrOCmviDgpo/gpqzgpoIg4Kau4Ka+IOCmrOCni+CmneCmvuCmrOCnh+ClpCDgpo/gprAg4Kas4Ka+4KaH4Kaw4KeHIOCmleCmvuCmieCmleCnhyDgpqrgprDgpr/gpqzgpr7gprDgp4fgprAg4Ka44Kam4Ka44KeN4KavIOCmueCmv+CmuOCnh+CmrOCnhyDgppfgpqPgp43gpq8g4KaV4Kaw4Ka+4KawIOCmuOCngeCmr+Cni+CmlyDgpqjgp4fgpofgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp67gpaTCoOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsMKg4KaG4Kas4KeH4Kam4Kao4KeH4KawwqDgppzgpqjgp43gpq/CoOCmleCmpMKg4KaH4KaJ4Kaw4KeLPC9zdHJvbmc+wqA8c3Ryb25nPuCmq+Cmv+CmuMKg4Kaq4KeN4Kaw4Kam4Ka+4KaowqDgppXgprDgpqTgp4fCoOCmueCmrOCnhz/CoOCmtuCmv+CmtuCngeCmpuCnh+CmsMKg4KaP4Kas4KaCwqDgpqrgp43gprDgpr7gpqrgp43gpqTgpqzgp5/gprjgp43gppXgpqbgp4fgprDCoOCmq+Cmv+CmuMKg4KaV4Ka/wqDgpo/gppXgpoc/wqA8L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4Kao4Kak4KeB4KaoIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqTgp4jgprDgp4Ag4KaP4Kas4KaCIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqjgpqzgpr7gp5/gpqggKOCmtuCmv+CmtuCngSDgpqzgpr4g4Kaq4KeN4Kaw4Ka+4Kaq4KeN4Kak4Kas4Kef4Ka44KeN4KaVKSDgpongpq3gp58g4KaV4KeN4Ka34KeH4Kak4KeN4Kaw4KeH4KaHIOCmq+CmvyDgp6fgp6bgp6Yg4KaH4KaJ4Kaw4KeL4KWkPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxiciAvPsKgPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxzdHJvbmc+4Kev4KWkwqDgprbgpr/gppXgp43gprfgpr7gprDgp43gpqXgp4Dgpqbgp4fgprDCoOCmquCmvuCmuOCmquCni+CmsOCnjeCmn8Kg4Kao4Kas4Ka+4Kef4KaowqDgppXgprDgpqTgp4fCoOCmleCmpMKg4Kar4Ka/4Ka4wqDgprLgpr7gppfgpqzgp4c/wqDgpo/gprDCoOCmnOCmqOCnjeCmr8Kg4KaG4Kay4Ka+4Kam4Ka+wqDgppXgpr/CoOCmoeCmleCngeCmruCnh+CmqOCnjeCmn8Kg4Kay4Ka+4KaX4Kas4KeHPzwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gprbgpr/gppXgp43gprfgpr7gprDgp43gpqXgp4Dgpqbgp4fgprAg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmqOCmrOCmvuCnn+CmqCDgppXgprDgpr7gprAg4Kar4Ka/IOCnqeCnpiDgpofgpongprDgp4vgpaQg4KaP4Kac4Kao4KeN4KavIOCmtuCmv+CmleCnjeCmt+CmvuCmsOCnjeCmpeCngOCmsCDgpqzgp5/gprgg4Kao4KeN4Kav4KeC4Kao4Kak4KauIOCnpuCnrCAo4Kab4KefKSDgpqzgppvgprAg4Ka54Kak4KeHIOCmueCmrOCnhyDgpo/gpqzgpoIg4Kak4Ka+4KaV4KeHIOCmleCni+CmqCDgprbgp43gprDgp4fgpqPgpr/gpqTgp4cg4Kaq4Kec4Kak4KeHIOCmueCmrOCnhzsg4Ka44KeN4KaV4KeB4Kay4KeH4KawIOCmtuCmv+CmleCnjeCmt+CmvuCmsOCnjeCmpeCngOCmpuCnh+CmsCDgppXgp43gprfgp4fgpqTgp43gprDgp4cg4KaH4Kak4Ka+4Kay4Ka/4KawIOCmr+CmpeCmvuCmr+CmpSDgppXgprDgp43gpqTgp4PgpqrgppXgp43gprcg4Kaq4KeN4Kaw4Kam4Kak4KeN4KakIOCmmuCmsuCmruCmvuCmqCDgprbgpr/gppXgp43gprfgpr7gpqzgprDgp43gprfgp4fgprAg4Ka44Ka/4Kay4Kau4KeL4Ka54KawIOCmkyDgprjgp43gpqzgpr7gppXgp43gprfgprDgpr/gpqQg4Ka44Kao4KamIOCmieCmquCmuOCnjeCmpeCmvuCmquCmqCDgppXgprDgpqTgp4cg4Ka54Kas4KeHOyDgpqzgpr/gprbgp43gpqzgpqzgpr/gpqbgp43gpq/gpr7gprLgp5/gp4fgprAg4Ka24Ka/4KaV4KeN4Ka34Ka+4Kaw4KeN4Kal4KeA4Kam4KeH4KawIOCmleCnjeCmt+Cnh+CmpOCnjeCmsOCnhyDgprjgpoLgprbgp43gprLgpr/gprfgp43gpp8g4KaV4Kaw4KeN4Kak4KeD4Kaq4KaV4KeN4Ka3IOCmquCnjeCmsOCmpuCmpOCnjeCmpCDgpprgprLgpq7gpr7gpqgg4Ka44KeH4Ka24KaoLCDgpoXgpqfgp43gpq/gpr7gp5/gpqjgprDgpqQg4Kas4Ka/4Ka34Kef4Ka44Ka5IOCmrOCmv+CmuOCnjeCmpOCmvuCmsOCmv+CmpCDgpongprLgp43gprLgp43gpq/gp4fgppYg4KaV4Kaw4KeHIOCmuOCmv+CmsuCmruCni+CmueCmsCDgppMg4Ka44KeN4Kas4Ka+4KaV4KeN4Ka34KawIOCmuOCmruCnjeCmrOCmsuCmv+CmpCDgprjgpqjgpqYg4KaJ4Kaq4Ka44KeN4Kal4Ka+4Kaq4KaoIOCmleCmsOCmpOCnhyDgprngpqzgp4fgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6fgp6bgpaTCoOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsMKg4Kau4KeH4Kef4Ka+4KamwqDgprjgprDgpqzgp4vgpprgp43gpprCoOCmleCmpOCmpuCmv+CmqMKg4Kal4Ka+4KaV4Kay4KeHwqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/CoOCmqOCmrOCmvuCnn+CmqMKg4KaV4Kaw4Ka+wqDgpq/gpr7gpqzgp4c/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsCDgpq7gp4fgp5/gpr7gpqYg4Ka44Kaw4KeN4Kas4KeL4Kaa4KeN4KaaIOCnpuCnrCDgpq7gpr7gprgg4Kal4Ka+4KaV4Kay4KeHIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqjgpqzgpr7gp5/gpqgg4KaV4Kaw4Ka+IOCmr+CmvuCmrOCnh+ClpDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48YnIgLz7CoDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48c3Ryb25nPuCnp+Cnp+ClpMKg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4Kaf4KeH4KawwqDgpqvgpr/gprjCoOCmleCmv+CmreCmvuCmrOCnh8Kg4Kaq4KeN4Kaw4Kam4Ka+4KaowqDgppXgprDgpqTgp4fCoOCmueCmrOCnhz88L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4Kas4Kaw4KeN4Kak4Kau4Ka+4Kao4KeHIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/gp4fgprAg4KaP4Kas4KaCIOCmheCmqOCnjeCmr+CmvuCmqOCnjeCmryDgprjgp4fgpqzgpr7gprAg4Kac4Kao4KeN4KavIOCmqOCml+CmpiDgpoXgprDgp43gpqXgp4cgKOCmh+CmieCmsOCniykg4Kar4Ka/IOCml+CnjeCmsOCmueCmqCDgppXgprDgpr4g4Ka54KefIOCmqOCmvuClpCDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4cg4Kas4KeN4Kav4Ka+4KaC4KaVLeCmleCmvuCmsOCnjeCmoeCnh+CmsCDgpq7gpr7gpqfgp43gpq/gpq7gp4cg4Kar4Ka/IOCmquCnjeCmsOCmpuCmvuCmqCDgppXgprDgpr7gprAg4Kac4Kao4KeN4KavIOCmuOCmleCmsuCmleCnhyDgpoXgpqjgp4HgprDgpqcg4KaV4Kaw4Ka+IOCmr+CmvuCmmuCnjeCmm+Cnh+ClpDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48YnIgLz7CoDwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij48c3Ryb25nPuCnp+CnqOClpMKg4Kah4Ka+4KaV4Kav4KeL4KaX4KeHwqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/gp4fgprDCoOCmhuCmrOCnh+CmpuCmqMKg4Kaq4Ka+4Kag4Ka+4Kak4KeHwqDgpqzgpr7CoOCmq+Cnh+CmsOCmpMKg4Kaq4KeH4Kak4KeHwqDgpqrgpr7gprDgpqzgp4vCoOCmleCmv+CmqOCmvj/CoOCmoeCmvuCmleCmr+Cni+Cml+Cnh8Kg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafwqDgpqrgp43gprDgpr7gpqrgp43gpqTgpr/gprDCoOCmieCmquCmvuCnn8Kg4KaV4Ka/Pzwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gpqHgpr7gppXgpq/gp4vgppfgp4cg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmquCnjeCmsOCmvuCmquCnjeCmpOCmv+CmsCDgppzgpqjgp43gpq8g4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeHIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpo/gpqjgprDgp4vgprLgpq7gp4fgpqjgp43gpp8g4KaV4Kaw4Ka+4KawIOCmquCmsOCnhyDgpqjgpr/gprDgp43gpqfgpr7gprDgpr/gpqQg4Kar4Ka/ICjgprjgpr7gpqfgpr7gprDgpqPgpqQg4Ken4KemLeCnqOCnpiDgpofgpongprDgp4spIOCmquCnjeCmsOCmpuCmvuCmqCDgppXgprDgp4cg4Kah4Ka/4KaP4KaH4Kaa4KaP4KayIChESEwpIOCmj+CmsCDgpo/gppXgpp/gpr8g4Kar4Kaw4KeN4KauIOCmquCnguCmsOCmoyDgppXgprDgpqTgp4cg4Ka54Kef4KWkIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4cg4KaP4Ka44KeHIOCmquCnjOCmgeCmm+CmvuCmsuCnhyDgpqjgpr/gprDgp43gpqfgpr7gprDgpr/gpqQg4Kao4Ka/4Kef4KauIOCmheCmqOCngeCmuOCmsOCmoyDgppXgprDgp4cg4Kah4Ka/4KaP4KaH4Kaa4KaP4KayIChESEwpIOCmj+CmsCDgpqrgp43gprDgpqTgpr/gpqjgpr/gpqfgpr/gpqbgp4fgprAg4KaV4Ka+4Kab4KeHIOCmueCmuOCnjeCmpOCmvuCmqOCnjeCmpOCmsCDgppXgprDgpr4g4Ka54Kef4KWkIOCmieCmsuCnjeCmsuCnh+CmluCnjeCmrywg4KaP4KaHIOCmquCnjeCmsOCmleCnjeCmsOCmv+Cnn+CmvuCmn+CmvyDgpqjgpr/gprDgp43gpq3gprAg4KaV4Kaw4KeHIOCmoeCmv+Cmj+Cmh+CmmuCmj+CmsiAoREhMKSDgpo/gprAg4Kao4Ka/4Kac4Ka44KeN4KasIOCmleCmsOCnjeCmruCmquCmsOCmv+CmleCmsuCnjeCmquCmqOCmvuCmsCDgpongpqrgprDgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6fgp6ngpaTCoOCmruCnguCmssKg4Kaw4Ka24Ka/4KamwqDgprngpr7gprDgpr/gp5/gp4fCoOCml+Cnh+CmsuCnh8Kg4KaV4Ka/wqDgppXgprDgpqPgp4Dgp58/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmruCnguCmsiDgprDgprbgpr/gpqYg4Ka54Ka+4Kaw4Ka/4Kef4KeHIOCml+Cnh+CmsuCnhyDgprjgprbgprDgp4DgprDgp4cg4KaJ4Kaq4Ka44KeN4Kal4Ka/4KakIOCmueCnn+CnhyDgpq/gpqXgpr7gpq/gpqUg4Kaq4KeN4Kaw4Kau4Ka+4Kaj4Ka+4Kam4Ka/ICjgpqrgp4LgprDgp43gpqzgpqzgprDgp43gpqTgp4Ag4Kau4KeC4KayIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnykg4KaJ4Kaq4Ka44KeN4Kal4Ka+4Kaq4KaoIOCmleCmsOCnhyDgpobgpqzgp4fgpqbgpqjgppXgpr7gprDgp4Ag4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmuOCmguCml+CnjeCmsOCmuSDgppXgprDgpqTgp4cg4Kaq4Ka+4Kaw4Kas4KeH4Kao4KWkIOCmquCnguCmsOCnjeCmrOCmrOCmsOCnjeCmpOCngCDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Kao4Ka+IOCmpeCmvuCmleCmsuCnhyDgpobgpqzgp4fgpqbgpqjgppXgp4PgpqQg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmuOCmruCnjeCmquCmsOCnjeCmleCnhyDgprjgpqDgpr/gppUg4Kak4Kal4KeN4KavIOCmpuCmv+Cnn+CnhyDgpqrgprDgp4DgppXgp43gprfgpqMg4Ka44Ka+4Kaq4KeH4KaV4KeN4Ka34KeHIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqbgp4fgp5/gpr4g4Kav4Ka+4Kas4KeH4KWkPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxiciAvPsKgPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxzdHJvbmc+4Ken4Keq4KWkwqDgpobgpq7gpr/CoOCmj+CmruCnjeCmrOCmvuCmuOCmv+CmsMKg4Kag4Ka/4KaV4Ka+4Kao4Ka+wqDgppzgpr7gpqjgpqTgp4fCoOCmmuCmvuCmhz/CoOCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtsKg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeHwqDgpqrgp4zgpoHgppvgpr7gpqTgp4fCoOCmueCmsuCnh8Kg4KaG4Kau4Ka/wqDgppXgp4vgpqjCoOCmuOCnjeCmn+Cnh+CmtuCmqMKg4KaPwqDgpobgprjgpqzgp4vCoOCmrOCmvsKg4Ka44KeN4Kaf4KeH4Ka24Kao4KeH4KawwqDgppXgp4vgpqjCoOCml+Cnh+Cmn8Kg4Kam4Ka/4Kav4Ka84KeHwqDgpqzgp4fgprDCoOCmueCmrD/CoDwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gprDgp4vgpq7gprjgp43gpqUg4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka2IOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgpqDgpr/gppXgpr7gpqjgpr4g4Ka54Kay4KeL4KaDIDxzdHJvbmc+4Kat4Ka/4Kef4Ka+wqDgpqbgp4fgprLCoOCmj+CmqOCnjeCmpOCmvuCmsOCmpOCmv+CmpuCnh8Kg4KerLeCnrSzCoOCmj+Cnn+CmsCwg4Kem4Kem4Ken4Keq4KeqLMKg4Kaw4KeL4KauPC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmruCnh+Cmn+CnjeCmsOCni+CmpOCnhyDgprDgp4vgpq7gp4fgprAg4Kav4KeHIOCmleCni+CmqCDgprjgp43gpp/gp4fgprbgpqgg4Kal4KeH4KaV4KeHIOCmj+Cnn+CmsCDgpqrgpr7gprLgpr7gprjgpqrgp4vgprDgpp8gKEVVUiBQYWxsYXNwb3J0KSDgprjgp43gpp/gp4fgprbgpqjgp4cg4Kao4KeH4Kau4KeHIOCmsuCnh+CmleCnh+CmsCDgpongpqrgprAg4Ka44KeH4Kak4KeBIOCmquCmvuCmsCDgprngp5/gp4cg4Ken4Kem4KemIOCmruCmv+Cmn+CmvuCmsCDgpo/gppfgpr/gp5/gp4cg4Ka54Ka+4Kak4KeH4KawIOCmoeCmvuCmqCDgpqrgpr7gprbgp4cg4KaP4KaX4KeL4Kay4KeH4KaHIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgpqrgp4zgpoHgppvgp4cg4Kav4Ka+4Kas4KeH4Kao4KWkIOCmrOCmvuCmuOCnhyDgprDgp4vgpq7gp4fgprAg4Kav4KeHIOCmleCni+CmqCDgppzgpr7gp5/gppfgpr4g4Kal4KeH4KaV4KeHIOCmquCmvuCmsuCmvuCmnOCnjeCmnOCniyDgprjgp43gpqrgp4vgprDgp43gpp8g4Ka44KeN4Kaf4KeH4Ka24Kao4KeHIOCmj+CmuOCnhyDgpqjgpr7gpq7gprLgp4cg4Kaq4KeC4Kaw4KeN4KasIOCmpuCmv+CmleCnhyDgpo/gppXgpp/gpr8g4KaJ4Kaa4KeBIOCmn+CmvuCmk+Cnn+CmvuCmsCDgpqbgp4fgppbgpr4g4Kav4Ka+4Kas4KeH4KWkIOCmj+CmsCDgpqrgpr7gprbgp4fgpocg4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka2IOCmpuCnguCmpOCmvuCmrOCmvuCmuCDgpoXgpqzgprjgp43gpqXgpr/gpqTgpaQg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeH4KawIOCmqOCmv+CmleCmn+CmpOCmriDgpqzgpr7gprgg4Ka34KeN4Kaf4KeH4Ka24KaoIOCmueCmsuCniyDgpqrgpr7gprLgpr7gppzgp43gppzgp4sg4Ka44KeN4Kaq4KeL4Kaw4KeN4KafLeCmqOCnh+CmsOCmreCmvyAoUGFsYXp6byBTcG9ydC9OZXJ2aSkg4Kav4KeH4KaW4Ka+4KaoIOCmpeCnh+CmleCnhyDgpqjgpr/gp5/gpq7gpr/gpqTgpq3gpr7gpqzgp4cg4Ket4Keu4KemLCDgp6zgp63gp6csIOCnreCnr+Cnpywg4Ket4Ken4KeqLCBMLTIwIOCmj+CmuOCmrCDgpqjgpq7gp43gpqzgprDgp4fgprAg4Kas4Ka+4Ka4IOCmr+CmvuCmk+Cnn+CmviDgpobgprjgpr4g4KaV4Kaw4KeH4KWkPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxiciAvPsKgPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxzdHJvbmc+4Ken4Ker4KWkwqDgpobgpq7gpr/CoOCmmuCmvuCmleCmsOCmv8Kg4Kac4Kao4Ka/4KakwqDgppXgpr7gprDgpqPgp4fCoOCmleCmvuCmnOCnh+CmsMKg4Kam4Ka/4KaowqDgppfgp4HgprLgp4vgpqTgp4fCoOCmm+CngeCmn+Cmv8Kg4Kaq4Ka+4KaHwqDgpqjgpr7gpaTCoOCmhuCmruCmv8Kg4KaV4Ka/wqDgppXgp4vgpqjCoOCmrOCmqOCnjeCmp+Cnh+CmsMKg4Kam4Ka/4Kao4KeHwqDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fCoOCmhuCmruCmvuCmsMKg4Kac4Kao4KeN4KauwqDgpqjgpr/gpqzgpqjgp43gpqfgpqjCoOCmuOCmqOCmpuCnh+CmsMKg4KaV4Ka+4Kac4KeHwqDgpobgprjgpqTgp4fCoOCmquCmvuCmsOCmvz/CoOCmm+CngeCmn+Cmv+CmsMKg4Kam4Ka/4Kao4KeHwqDgpqbgp4LgpqTgpr7gpqzgpr7gprjCoOCmleCmv8Kg4KaW4KeL4Kay4Ka+wqDgpqXgpr7gppXgpqzgp4c/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmuOCmvuCmp+CmvuCmsOCmo+CmpCDgppXgp4vgpqjgprDgp4Lgpqog4Kaq4KeC4Kaw4KeN4Kas4KaY4KeL4Ka34Kaj4Ka+IOCmqOCmviDgpqXgpr7gppXgprLgp4cg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmuOCmquCnjeCmpOCmvuCmueCnh+CmsCDgpqrgpr7gpoHgppog4Kam4Ka/4KaoIOCmuOCni+CmruCmrOCmvuCmsC3gprbgp4HgppXgp43gprDgpqzgpr7gprAg4Kaq4Kaw4KeN4Kav4Kao4KeN4KakIOCmquCnjeCmsOCmpOCmv+CmpuCmv+CmqCDgp68t4KerIOCmn+CmviDgpqrgprDgp43gpq/gpqjgp43gpqQg4KaW4KeL4Kay4Ka+IOCmpeCmvuCmleCnhyDgpo/gpqzgpoIg4KevLuCnqeCnpi3gp6vgpp/gpr4g4Kaq4Kaw4KeN4Kav4Kao4KeN4KakIOCmuOCnh+CmrOCmviDgpqbgp4fgp5/gpr4g4Ka54Kef4KWkIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgppPgp5/gp4fgpqzgprjgpr7gpofgpp/gp4cg4Kaq4KeN4Kaw4KaV4Ka+4Ka24Ka/4KakIOCmm+CngeCmn+Cmv+CmsCDgpqjgp4vgpp/gpr/gprYg4Kam4KeH4KaW4KeHIOCmhuCmquCmqOCmvuCmsOCmviDgppXgprDgp43gpq7gpqrgpqjgp43gpqXgpr4g4Kao4Ka/4Kaw4KeN4Kan4Ka+4Kaw4KajIOCmleCmsOCmpOCnhyDgpqrgpr7gprDgp4fgpqjgpaQgKOCnqOCnpuCnqOCnpyDgprjgpr7gprLgp4fgprAg4Kab4KeB4Kaf4Ka/4KawIOCmpOCmvuCmsuCmv+CmleCmvingpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+;PHN0cm9uZz7gp6fgp6zgpaTCoOCmhuCmruCmvuCmsC/gpobgpq7gpr7gprDCoOCmrOCmvuCmmuCnjeCmmuCmvuCmsMKg4Kac4Kao4KeN4KauwqDgpqjgpr/gpqzgpqjgp43gpqfgpqjCoOCmuOCmqOCmpsKg4KaH4Kak4KeL4Kaq4KeC4Kaw4KeN4Kas4KeHwqDgpqbgp4LgpqTgpr7gpqzgpr7gprjCoOCmpeCnh+CmleCnh8Kg4Kao4Ka/4Kav4Ka84KeH4Kab4Ka/4Kay4Ka+4Kau4KWkwqDgppXgpr/gpqjgp43gpqTgp4HCoOCmpOCmvsKg4KaG4Kau4Ka/wqDgprngpr7gprDgpr/gpq/gprzgp4fCoOCmq+Cnh+CmsuCnh+Cmm+Cmv+ClpMKg4KaP4KaW4KaowqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/CoOCmj+CmsMKg4KaG4Kas4KeH4Kam4Kao4KeH4KawwqDgprjgpq7gpq/gprzCoOCmuOCnh+Cmn+CmvuCmsMKg4KaV4Kaq4Ka/wqDgpobgpq7gpr7gprDCoOCmquCngeCmqOCmsOCmvuCmr+CmvMKg4Kaq4KeN4Kaw4Kav4Ka84KeL4Kac4Kao4KWkwqDgpobgpq7gpr7gppXgp4fCoOCmleCmv8Kg4KaV4Kaw4Kak4KeHwqDgprngpqzgp4c/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmhuCmquCmqOCmvuCmsCDgpqzgpr7gpprgp43gpprgpr7gprAg4Kao4Ka+4KauLCDgppzgpqjgp43gpq7gpqTgpr7gprDgpr/gppYsIOCmnOCmqOCnjeCmruCmuOCnjeCmpeCmvuCmqCDgpqzgp43gpq/gpqzgprngpr7gprAg4KaV4Kaw4KeHIOCmhuCmquCmqOCmvyDgppzgpqjgp43gpq4g4Kao4Ka/4Kas4Kao4KeN4Kan4KaoIOCmuOCmqOCmpuCnh+CmsCDgpoXgpqjgp4HgprLgpr/gpqrgpr8g4Ka44KaC4KaX4KeN4Kaw4Ka5IOCmleCmsOCmpOCnhyDgpqrgpr7gprDgp4fgpqjgpaQg4KaP4Kac4Kao4KeN4KavIOCmhuCmquCmqOCmvuCmleCnhyBiZHJpcy5nb3YuYmQg4KaT4Kef4KeH4Kas4Ka44Ka+4KaH4Kaf4KeHIOCml+Cmv+Cnn+CnhyDgpoXgpqjgprLgpr7gpofgpqjgp4cg4KaG4Kas4KeH4Kam4KaoIOCmleCmsOCnhyDgpqjgpr/gprDgp43gpqbgp4fgprbgpr/gpqQg4Kak4Kal4KeN4KavIOCmuOCmsOCmrOCmsOCmvuCmuSDgppXgprDgp4cg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmpeCnh+CmleCnhyAo4KaV4Ka/4KaC4Kas4Ka+IOCmr+Cnh+CmluCmvuCmqCDgpqXgp4fgppXgp4cg4Kac4Kao4KeN4KauIOCmqOCmv+CmrOCmqOCnjeCmp+CmqCDgprjgpqjgpqYg4Ka44KaC4KaX4KeN4Kaw4Ka5IOCmleCmsOCnh+Cmm+Cnh+CmqCDgprjgp4fgppbgpr7gpqgg4Kal4KeH4KaV4KeHKSDgpoXgpqjgp4HgprLgpr/gpqrgpr8g4Ka44KaC4KaX4KeN4Kaw4Ka5IOCmleCmsOCmpOCnhyDgpqrgpr7gprDgp4fgpqjgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6fgp63gpaTCoOCmheCmqOCmsuCmvuCmh+CmqOCnh8Kg4KaG4Kas4KeH4Kam4KaowqDgppXgprDgpqTgp4fCoOCmqOCmvsKg4Kaq4Ka+4Kaw4Kay4KeHwqDgppXgpr/CoOCmleCmsOCmqOCngOCnnz/CoDwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gpoXgpqjgprLgpr7gpofgpqjgp4cg4Kao4Ka+IOCmquCmvuCmsOCmsuCnhyDgprngpr7gprDgp43gpqEg4KaV4Kaq4Ka/4KawIOCmieCmquCmsCDgprngpr7gpqTgp4cg4Kay4Ka/4KaW4KeH4KaTIOCmq+CmsOCnjeCmriDgpqrgp4LgprDgpqMg4KaV4Kaw4Ka+IOCmr+CmvuCmr+CmvDsg4Kak4Kas4KeHIOCmuOCnh+CmleCnjeCmt+Cnh+CmpOCnjeCmsOCnhyDgpoXgpqjgp4fgppUg4Kat4KeB4KayLeCmpOCnjeCmsOCngeCmn+Cmv+CmsCDgprjgpq7gp43gpq3gpr7gpqzgpqjgpr4g4Kal4Ka+4KaV4KeHIOCmj+CmrOCmgiDgpqTgpr4g4Ka44Kau4Kav4Ka8IOCmuOCmvuCmquCnh+CmleCnjeCmtyDgpqzgpr/gprfgpq/gprwg4KaV4KeH4Kao4Kao4Ka+IOCmhuCmquCmqOCmvuCmsCDgpqTgpqXgp43gpq8g4Ka44Kau4KeC4Ka54KaV4KeHIOCmhuCmruCmvuCmpuCnh+CmsCDgpq7gp43gpq/gpr7gpqjgp4Hgpq/gprzgpr7gprLgpr8g4Kaf4Ka+4KaH4KaqIOCmleCmsOCnhyDgpqbgpr/gpqTgp4cg4Ka54Kav4Ka84KWkIOCmruCmqOCnhyDgprDgpr7gppbgpqzgp4fgpqgg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmr+Cnh+CmueCnh+CmpOCngSDgpo/gppXgpp/gpr8g4KaF4Kak4KeN4Kav4Kao4KeN4KakIOCml+CngeCmsOCngeCmpOCnjeCmrOCmquCnguCmsOCnjeCmoyDgpqHgppXgp4Hgpq7gp4fgpqjgp43gpp8g4KaP4Kas4KaCIOCmj+CmsCDgpqTgpqXgp43gpq8g4Ka44Kau4KeC4Ka5IOCmqOCmv+CmsOCnjeCmreCnguCmsiDgprngppPgpq/gprzgpr4g4KaW4KeB4Kas4KaHIOCmnOCmsOCngeCmsOCngCDgpqTgpr7gpocg4KaG4Kaq4Kao4Ka/IOCmqOCmv+CmnOCnhyDgprjgpq7gpq/gprwg4Kao4Ka/4Kav4Ka84KeHIOCmheCmqOCmsuCmvuCmh+CmqOCnhyDgpqjgpr/gppzgp4fgprAg4Kak4Kal4KeN4KavIOCmqOCmv+CmnOCnhyDgpqrgp4LgprDgpqMg4KaV4Kaw4KeB4KaoIOCmhuCmsCDgpobgpqrgpqjgpr7gprAg4Kaq4KaV4KeN4Ka34KeHIOCmheCmqOCmsuCmvuCmh+CmqOCnhyDgpqvgprDgpq4g4Kaq4KeC4Kaw4KajIOCmleCmsOCmviDgprjgpq7gp43gpq3gpqwg4Kao4Ka+IOCmueCmsuCnhyDgprjgp4fgppXgp43gprfgp4fgpqTgp43gprDgp4cg4KaG4Kaq4Kao4Ka+4KawIOCmqOCmv+CmleCmn+CmuOCnjeCmpSDgppXgp4vgpqgg4Kas4Kao4KeN4Kan4KeBIOCmrOCmviDgpobgpqTgp43gpq7gp4Dgpq/gprzgp4fgprAg4Ka44Ka54Kav4KeL4KaX4Ka/4Kak4Ka+IOCmqOCmv+CmqOClpCDgpo/gppXgpqzgpr7gprAg4Kav4Kam4Ka/IOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpo/gprAg4Kak4Kal4KeN4KavIOCmreCngeCmsiDgprngpq/gprzgp4cg4Kav4Ka+4Kav4Ka8IOCmuOCnh+Cmn+CmvyDgpqrgprDgpqzgprDgp43gpqTgp4DgpqTgp4cg4Kaq4Kaw4Ka/4Kas4Kaw4KeN4Kak4KaoIOCmrOCmviDgprjgpoLgprbgp4vgpqfgpqgg4KaV4Kaw4Kak4KeHIOCmhuCmquCmqOCmvuCmleCnhyDgpoXgpqjgp4fgppUg4Kas4Ka/4Kah4Ka84Kau4KeN4Kas4Kao4Ka+4Kav4Ka8IOCmquCmoeCmvOCmpOCnhyDgprngpqzgp4fgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6fgp67gpaTCoOCmrOCmvuCmmuCnjeCmmuCmvuCmpuCnh+CmsMKg4KaV4KeN4Ka34KeH4Kak4KeN4Kaw4KeHwqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/CoOCmsOCmvy3gpofgprjgp43gpq/gp4HCoOCmleCmsOCmvuCmsMKg4Kac4Kao4KeN4KavwqDgpqzgpr7gpprgp43gpprgpr7gppXgp4fCoOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh8Kg4KaJ4Kaq4Ka44KeN4Kal4Ka/4KakwqDgpqXgpr7gppXgpqTgp4fCoOCmueCmrOCnh8Kg4KaV4Ka/4Kao4Ka+wqDgppzgpr7gpqjgpqTgp4fCoOCmmuCmvuCmhz/CoDwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gpqzgpr7gpprgp43gpprgpr7gprAg4Kav4Kam4Ka/IOCmquCnjeCmsOCmpeCmriDgpo/gpq7gpobgprDgpqrgpr8g4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmleCmsOCmpOCnhyDgprngpq/gprwg4KaP4Kas4KaCIOCmrOCmvuCmmuCnjeCmmuCmvuCmsCDgpqzgpq/gprzgprgg4Kav4Kam4Ka/IOCmpuCngeCmhyAo4KeoKSDgpqzgppvgprDgp4fgprAg4KaV4KauIOCmueCmr+CmvCDgprjgp4cg4KaV4KeN4Ka34KeH4Kak4KeN4Kaw4KeHIOCmrOCmvuCmmuCnjeCmmuCmvuCmleCnhyDgprjgpr7gpqXgp4cg4KaG4Kao4Ka+4KawIOCmquCnjeCmsOCmr+CmvOCni+CmnOCmqCDgpqjgp4fgpofgpaQg4KaG4KawIOCmrOCmvuCmmuCnjeCmmuCmvuCmsCDgpqzgpq/gprzgprgg4Kav4Kam4Ka/IOCnqCDgpqzgppvgprDgp4fgprAg4KaF4Kan4Ka/4KaVIOCmueCmr+CmvCDgprjgp4cg4KaV4KeN4Ka34KeH4Kak4KeN4Kaw4KeHIOCmpOCmvuCmleCnhyDgpoXgpqzgprbgp43gpq/gpocg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeHIOCmhuCmuOCmpOCnhyDgprngpqzgp4fgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6fgp6/gpaTCoOCmquCnjeCmsOCmpeCmruCmrOCmvuCmsMKg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafwqDgppXgprDgpr7gprDCoOCmuOCmruCmr+CmvMKg4Kak4KeLwqDgpqzgpr7gpprgp43gpprgpr7gppXgp4fCoOCmqOCmv+Cmr+CmvOCnh8Kg4KaG4Ka44Ka/4Kao4Ka/4KWkwqDgpqTgpr7gprngprLgp4fCoOCmj+CmluCmqMKg4KaV4KeH4KaowqDgpobgpqjgpqTgp4fCoOCmueCmrOCnhz88L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4Kaq4KeN4Kaw4Kal4Kau4Kas4Ka+4KawIOCmrOCmvuCmmuCnjeCmmuCmvuCmsCDgpqzgpq/gprzgprgg4Kaq4Ka+4KaB4KaaIOCmrOCmm+CmsOCnh+CmsCDgppXgpq4g4Kab4Ka/4KayLCDgpqTgpr7gpocg4Kar4Ka/4KaZ4KeN4KaX4Ka+4Kaw4Kaq4KeN4Kaw4Ka/4Kao4KeN4KafIOCmrOCmvuCmp+CnjeCmr+CmpOCmvuCmruCnguCmsuCmlSDgppvgpr/gprIg4Kao4Ka+4KWkIOCmj+CmluCmqCDgpqrgpr7gpoHgppog4Kas4Kab4Kaw4KeH4KawIOCmrOCnh+CmtuCmvyDgprngppPgpq/gprzgpr7gpqTgp4cg4Kar4Ka/4KaZ4KeN4KaX4Ka+4Kaw4Kaq4KeN4Kaw4Ka/4Kao4KeN4KafIOCmqOCnh+Cmr+CmvOCmvuCmsCDgpqrgp43gprDgpq/gprzgp4vgppzgpqgg4Kas4Ka/4Kan4Ka+4KefIOCmrOCmvuCmmuCnjeCmmuCmvuCmsCDgpongpqrgprjgp43gpqXgpr/gpqTgpr8g4KaG4Kas4Ka24KeN4Kav4KaV4KWkPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxiciAvPsKgPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxzdHJvbmc+4Keo4Kem4KWkwqDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbCoOCmpuCnguCmpOCmvuCmrOCmvuCmuMKg4Kaw4KeL4Kau4KeHwqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/CoOCmleCmsOCmpOCnh8Kg4Kam4Ka/4Kay4KeHwqDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/CoOCmueCmvuCmpOCnh8Kg4Kaq4KeH4Kak4KeHwqDgppXgpqTgpqbgpr/gpqjCoOCmuOCmruCmr+CmvMKg4Kay4Ka+4KaX4KeHP8Kg4KaG4KawwqDgppzgprDgp4HgprDgp4DCoOCmquCmvuCmuOCmquCni+CmsOCnjeCmn8Kg4KaV4Kaw4Ka+4KawwqDgppXgp4vgpqjCoOCmuOCngeCmr+Cni+Cml8Kg4KaG4Kab4KeHwqDgppXgpr/gpqjgpr4/wqA8L3N0cm9uZz48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmpeCnh+CmleCnhyDgppzgprDgp4HgprDgp4Ag4Kat4Ka/4Kak4KeN4Kak4Ka/4Kak4KeHIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgppXgprDgpr7gprAg4Ka44KeB4Kav4KeL4KaXIOCmqOCnh+Cmh+ClpCDgprjgpr7gpqfgpr7gprDgpqPgpqQg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4Kaf4KeH4KawIOCmj+CmqOCmsOCni+CmsuCmruCnh+CmqOCnjeCmnyDgppXgprDgpr7gprAg4Kaq4Kaw4KeHIOCnqCDgpq7gpr7gprjgp4fgprAg4Kau4Kan4KeN4Kav4KeHIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqrgp43gprDgpr/gpqjgp43gpp8g4Ka54Kef4KeHIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgpprgprLgp4cg4KaG4Ka44KeH4KWkIOCmpOCmrOCnhyDgppXgp43gprfgp4fgpqTgp43gprAg4Kas4Ka/4Ka24KeH4Ka34KeHIOCmr+Cnh+CmruCmqCDgpqTgpqXgp43gpq8g4Kaq4Kaw4Ka/4Kas4Kaw4KeN4Kak4KaoLCDgpobgpqjgp4Hgprjgpr7gpoLgppfgpr/gppUg4KaV4Ka+4KaX4Kac4Kaq4Kak4KeN4KawIOCmreCnh+CmsOCmv+Cmq+Cmv+CmleCnh+CmtuCmqCDgpqzgpr4g4Kar4Ka/4KaZ4KeN4KaX4Ka+4Kaw4Kaq4KeN4Kaw4Ka/4Kao4KeN4Kaf4KeH4KawIOCmheCmuOCnjeCmquCmt+CnjeCmn+CmpOCmvuCmsCDgppXgpr7gprDgpqjgp4fgppMg4Kas4Ka/4Kay4Kau4KeN4KasIOCmueCmpOCnhyDgpqrgpr7gprDgp4fgpaQg4KaV4KaW4Kao4KeLIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpo/gpocg4Ka44Kau4Kef4KeH4KawIOCmhuCml+Cnh+CmkyDgpprgprLgp4cg4KaG4Ka44KeH4KWkIOCmj+CmluCmvuCmqOCnhyDgpongprLgp43gprLgp4fgppbgp43gpq8sIOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnhyDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Kaq4KeN4Kaw4Ka/4Kao4KeN4KafIOCmueCnnyDgpqjgpr4sIOCmouCmvuCmleCmvuCmuOCnjeCmpSDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4KaF4Kan4Ka/4Kam4Kaq4KeN4Kak4Kaw4KeHIOCmpeCmvuCmleCmviDgpqzgpr/gprbgp4fgprcg4Kav4Kao4KeN4Kak4KeN4Kaw4KeH4KawIOCmruCmvuCmp+CnjeCmr+CmruCnhyDgpqTgpr4g4Kaq4KeN4Kaw4Ka/4Kao4KeN4KafIOCmleCmsOCmviDgprngp5/gpaQg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka4IOCmqOCmv+CmsOCnjeCmpuCmv+Cmt+CnjeCmnyDgprjgpr7gprDgp43gpq3gpr7gprDgp4fgprAg4Kau4Ka+4Kan4KeN4Kav4Kau4KeHIOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsCDgpqTgpqXgp43gpq8g4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmheCmp+Cmv+CmpuCmquCnjeCmpOCmsOCnhyDgpqrgpr7gpqDgpr7gp58g4KaP4Kas4KaCIOCmuOCnh+CmluCmvuCmqCDgpqXgp4fgppXgp4cg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmquCnjeCmsOCmv+CmqOCnjeCmnyDgppXgprDgp4cg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeHIOCmquCnjeCmsOCnh+CmsOCmoyDgppXgprDgpr4g4Ka54Kef4KWkIOCmuOCmruCnjeCmquCnguCmsOCnjeCmoyDgpqrgp43gprDgppXgp43gprDgpr/gp5/gpr7gp58g4Ken4KemLeCnp+CnqCDgpp/gpr8g4Kan4Ka+4KaqIOCmsOCnn+Cnh+Cmm+CnhyDgpq/gpr4g4KaF4Kak4KeN4Kav4Kao4KeN4KakIOCmuOCmvuCmrOCmp+CmvuCmqOCmpOCmvuCmsCDgprjgpr7gpqXgp4cg4Kaq4KeN4Kaw4Kak4Ka/4Kaq4Ka+4Kay4KaoIOCmleCmsOCmpOCnhyDgprngp5/gpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6jgp6fgpaTCoOCmhuCmruCmvuCmsMKg4KaP4Kao4Kaw4KeL4Kay4Kau4KeH4Kao4KeN4KafwqDgpqzgpr7CoOCmoeCnh+CmsuCmv+CmreCmvuCmsOCmv8Kg4Ka44KeN4Kay4Ka/4Kaq4KeHwqDgpq/gp4fCoOCmoeCnh+CmsuCmv+CmreCmvuCmsOCmv+CmsMKg4Kak4Ka+4Kaw4Ka/4KaWwqDgpongprLgp43gprLgp4fgppbCoOCmhuCmm+CnhyzCoOCmhuCmruCmv8Kg4KaV4Ka/wqDgprjgp4fgpofCoOCmpuCmv+CmqMKg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafwqDgpqrgpr7gpqzgp4s/PC9zdHJvbmc+PC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmuOCnh+Cmn+CmviDgpqjgpr/gprDgp43gpq3gprAg4KaV4Kaw4KeHIOCmouCmvuCmleCmvuCmuOCnjeCmpSDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4KaF4Kan4Ka/4Kam4Kaq4KeN4Kak4KawIOCmpeCnh+CmleCnhyDgprDgp4vgpq7gp4cg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafIOCmj+CmuOCnh+Cmm+CnhyDgppXgpr/gpqjgpr4g4Kak4Ka+4KawIOCmieCmquCmsOClpCDgpq/gp4cg4Ka44KaV4KayIOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpqzgpr/gpqTgprDgpqPgp4fgprAg4Kac4Kao4KeN4KavIOCmquCnjeCmsOCmuOCnjeCmpOCngeCmpCDgprngp58g4Ka44KeH4KaX4KeB4Kay4KeL4KawIOCmpOCmvuCmsuCmv+CmleCmviDgpqbgp4LgpqTgpr7gpqzgpr7gprjgp4fgprAg4KaT4Kef4KeH4Kas4Ka44Ka+4KaH4Kaf4KeHIOCmqOCmv+Cnn+CmruCmv+CmpCDgpobgpqrgprLgp4vgpqEg4KaV4Kaw4Ka+IOCmueCnn+ClpCDgprjgp4fgppbgpr7gpqjgp4cg4KaG4Kaq4Kao4Ka+4KawIElUQTEwMDAwMFhYWFhYWCDgpqjgpq7gp43gpqzgprAg4Kam4KeH4KaW4KeHIOCmqOCmv+CmtuCnjeCmmuCmv+CmpCDgprngp5/gp4cg4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeHIOCmj+CmuOCnhyDgpqrgpr7gprjgpqrgp4vgprDgp43gpp8g4Ka44KaC4KaX4KeN4Kaw4Ka5IOCmleCmsOCmpOCnhyDgpqrgpr7gprDgp4fgpqjgpaQ8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PGJyIC8+wqA8L3A+PHAgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHN0cm9uZz7gp6jgp6jgpaTCoOCmhuCmruCmv8Kg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4Kaf4KeH4KawwqDgppzgpqjgp43gpq/CoOCml+CmpMKgeHjCoOCmpOCmvuCmsOCmv+CmluCnh8Kg4Kac4Kau4Ka+wqDgpqbgpr/gpq/gprzgp4fgppvgpr/gpaTCoOCmhuCmruCmvuCmsMKg4Kaq4Ka+4Ka44Kaq4KeL4Kaw4KeN4KafwqDgpp/gpr7CoOCmleCmv8Kg4KaP4Ka44KeH4Kab4KeHPzwvc3Ryb25nPjwvcD48cCBzdHlsZT0idGV4dC1hbGlnbjpqdXN0aWZ5Ij7gpobgpqrgpqjgpr8g4Kam4KeC4Kak4Ka+4Kas4Ka+4Ka44KeH4KawIOCmk+Cnn+Cnh+CmrOCmuOCmvuCmh+Cmn+Cnhy/gpqvgp4fgprjgpqzgp4HgppUg4Kaq4KeH4KaH4Kac4KeHIOCmhuCmquCmsuCni+CmoSDgppXgprDgpr4g4Kaq4KeN4Kaw4Ka44KeN4Kak4KeB4Kak4KaV4KeD4KakIOCmquCmvuCmuOCmquCni+CmsOCnjeCmn+Cnh+CmsCDgpqTgpr7gprLgpr/gppXgpr4g4Kal4KeH4KaV4KeHIOCmhuCmquCmqOCmvuCmsCDgpqrgpr7gprjgpqrgp4vgprDgp43gpp/gp4fgprAg4Ka44Kau4KeN4Kaq4Kaw4KeN4KaV4KeHIOCmnOCmvuCmqOCmpOCnhyDgpqrgpr7gprDgp4fgpqjgpaQg4KaP4Kab4Ka+4Kec4Ka+IOCmpuCnguCmpOCmvuCmrOCmvuCmuOCnh+CmsCDgppPgp5/gp4fgpqzgprjgpr7gpofgpp8g4KaF4Kal4Kas4Ka+IOCmquCmvuCmuOCmquCni+CmsOCnjeCmnyDgpoXgpqfgpr/gpqbgpqrgp43gpqTgprDgp4fgprAg4KaT4Kef4KeH4Kas4Ka44Ka+4KaH4Kaf4KeHIOCml+Cmv+Cnn+CnhyBJVEExMDAwMDBYWFhYWFgg4Kao4Kau4KeN4Kas4KawICjgpq/gpr4g4KaG4Kaq4Kao4Ka+4KawIOCmj+CmqOCmsOCni+CmsuCmruCnh+CmqOCnjeCmnyDgprjgp43gprLgpr/gpqrgp4fgprAg4KaJ4Kaq4Kaw4KeHIOCmoeCmvuCmqOCmquCmvuCmtuCnhyDgpongprLgp43gprLgp4fgppYg4KaV4Kaw4Ka+IOCmhuCmm+Cnhykg4Kay4Ka/4KaW4KeHIOCmhuCmquCmoeCnh+CmnyDgppzgpr7gpqjgpqTgp4cg4Kaq4Ka+4Kaw4KeH4Kao4KWkPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPjxiciAvPsKgPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPuCmleCmqOCmn+Cnh+CmqOCnjeCmn+Cmn+CmvyDgprbgp4fgp5/gpr7gprAg4KaV4Kaw4Kak4KeHIOCmleCnjeCmsuCmv+CmlSDgppXgprDgp4Hgpqg8L3A+"><p style="text-align:center"><span style="font-size:24px"><strong>বাংলাদেশ দূতাবাস, রোম</strong></span></p><p style="text-align:justify"> <strong>পাসপোর্ট, জন্ম/মৃত্যু সনদ, সত্যায়ন সংক্রান্ত নমুনা প্রশ্নোত্তর</strong></p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১। আমার সন্তান ইতালিতে জন্মগ্রহণ করেছে। আমি কোথায়, কিভাবে তাঁর জন্মসনদ তৈরি করতে পারবো?</strong></p><p style="text-align:justify">রোমস্থ বাংলাদেশ দূতাবাস কিংবা বাংলাদেশে আপনার স্থায়ী ঠিকানা হতে শিশুর জন্ম নিবন্ধন সনদ সংগ্রহ করতে পারেন। বাংলাদেশ দূতাবাস হতে জন্ম নিবন্ধন সনদ সংগ্রহ করতে চাইলে bdris.gov.bd ওয়েবসাইটে প্রবেশ করে অনলাইনে আবেদন করুন। অনলাইনে আবেদনের প্রক্রিয়া সহজে বোঝার জন্য <a href="https://drive.google.com/file/d/1iBOYSraX3s1OP3rs-c9jsr22HhOWjMP2/view">//drive.google.com/file/d/1iBOYSraX3s1OP3rs-c9jsr22HhOWjMP2/view</a> লিঙ্কে দেয়া ভিডিওটি দেখতে পারেন। অনলাইনে জন্মনিবন্ধনের আবেদনের ফটোকপির সাথে যে সকল কাগজপত্র জমা দিতে হবে তা হলোঃ ইতালির যথাযথ কর্তৃপক্ষ থেকে প্রদত্ত জন্ম সনদ (যেখানে সন্তান এবং বাবা-মা তিনজনের নাম উল্লেখ আছে), বাবা ও মায়ের পাসপোর্টের ফটোকপি। উল্লেখ্য, অনলাইনে আবেদন জমা দেয়ার পরে তা ১৫ দিন যাবত সিস্টেম (সফটওয়্যার)-এ সংরক্ষিত থাকে, এরপর তা স্বয়ংক্রিয় ভাবে মুছে যায়। বাংলাদেশ দূতাবাসে জন্ম নিবন্ধন সার্টিফিকেট প্রস্তুত করতে সাধারণত ৫ কর্মদিবস সময় প্রয়োজন। অতএব, অনলাইনে আবেদনের সময় এপয়েন্টমেন্টের তারিখ খেয়াল রেখে প্রয়োজনীয় সময় হাতে রেখে দূতাবাসে আবেদনপত্র জমা দিন।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>২। একই ব্যক্তি একাধিকবার জন্ম নিবন্ধন করতে পারবে কি?</strong></p><p style="text-align:justify">একই ব্যক্তির অনুকূলে একাধিকবার জন্ম নিবন্ধন করা যাবে না। এটি জন্ম ও মৃত্যু নিবন্ধন আইন, ২০০৪ এর ২১ ধারা অনুযায়ী দন্ডনীয় অপরাধ।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৩। জন্ম নিবন্ধন সনদের তথ্য সংশোধন করা যাবে কিনা? সম্ভব হলে তা কিভাবে?</strong></p><p style="text-align:justify">জন্ম নিবন্ধন সনদের তথ্য সংশোধন করতে হলে <a href="https://bdris.gov.bd/">bdris.gov.bd</a> ওয়েবসাইটে প্রবেশ করে যে অফিস থেকে সনদ সংগ্রহ করেছেন সেই অফিসেই অনলাইনে আবেদন করতে হবে। সফটওয়্যারে প্রবেশ করে বাম দিকে জন্ম নিবন্ধন সনদ সংশোধন লেখা অংশে ক্লিক করে প্রয়োজনীয় নির্দেশনা অনুসরণ করুন। এ সংক্রান্ত সহযোগিতার জন্য <a href="https://drive.google.com/file/d/1eWObjVoVLIcHfl6bo0T7WcXzLVekM8Kt/view">drive.google.com/file/d/1eWObjVoVLIcHfl6bo0T7WcXzLVekM8Kt/view</a> লিংকে গিয়ে ভিডিওটি দেখতে পারেন।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৪। জন্ম নিবন্ধন সনদ তৈরি করতে শিশুকে আনতে হবে কিনা?</strong></p><p style="text-align:justify">জন্ম নিবন্ধন সনদ তৈরি করতে শিশু সন্তানকে আনতে হবে না। তবে বয়স্ক ব্যক্তিদের ক্ষেত্রে অবশ্যই আবেদনকারীকে সশরীরে হাজির হতে হবে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৫।</strong> <strong>আমি পাসপোর্টের জন্য কিভাবে এপয়েন্টমেন্ট নিতে পারবো?</strong></p><p style="text-align:justify">দূতাবাসের এপয়েন্টমেন্ট অনলাইনভিত্তিক। এপয়েন্টমেন্ট গ্রহণের জন্য বাংলাদেশ দূতাবাস রোমের ওয়েবসাইটে<strong> </strong>গিয়ে <a href="https://www.bdembassyrome.com">https://www.bdembassyrome.com</a> প্রয়োজনীয় তথ্য দিয়ে এপয়েন্টমেন্ট গ্রহণ করুন।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৬। ইতালিতে জন্মগ্রহণকারী শিশুর নতুন পাসপোর্ট করাতে কি কি করতে হবে? </strong></p><p style="text-align:justify">শিশুর পাসপোর্ট তৈরী করতে প্রথমেই শিশুর জন্ম নিবন্ধন সনদ তৈরি করতে হবে।রোমস্থ বাংলাদেশ দূতাবাস কিংবা বাংলাদেশে আপনার স্থায়ী ঠিকানা হতে শিশুর জন্ম নিবন্ধন সনদ সংগ্রহ করতে পারেন। বাংলাদেশ দূতাবাস হতে জন্ম নিবন্ধন সনদ সংগ্রহ করতে চাইলে bdris.gov.bd ওয়েবসাইটে প্রবেশ করে অনলাইনে আবেদন করুন। অনলাইনে আবেদনের প্রক্রিয়া সহজে বোঝার জন্য <a href="https://drive.google.com/file/d/1iBOYSraX3s1OP3rs-c9jsr22HhOWjMP2/view">//drive.google.com/file/d/1iBOYSraX3s1OP3rs-c9jsr22HhOWjMP2/view</a> লিঙ্কে দেয়া ভিডিওটি দেখতে পারেন। অনলাইনে জন্মনিবন্ধনের আবেদনের ফটোকপির সাথে যে সকল কাগজপত্র জমা দিতে হবে তা হলোঃ ইতালির যথাযথ কর্তৃপক্ষ থেকে প্রদত্ত জন্ম সনদ (যেখানে সন্তান এবং বাবা-মা তিনজনের নাম উল্লেখ আছে), বাবা ও মায়ের পাসপোর্টের ফটোকপি। উল্লেখ্য, অনলাইনে আবেদন জমা দেয়ার পরে তা ১৫ দিন যাবত সিস্টেম (সফটওয়্যার)-এ সংরক্ষিত থাকে, এরপর তা স্বয়ংক্রিয় ভাবে মুছে যায়। বাংলাদেশ দূতাবাসে জন্ম নিবন্ধন সার্টিফিকেট প্রস্তুত করতে সাধারণত ৫ কর্মদিবস সময় প্রয়োজন। অতএব, অনলাইনে আবেদনের সময় এপয়েন্টমেন্টের তারিখ খেয়াল রেখে প্রয়োজনীয় সময় হাতে রেখে দূতাবাসে আবেদনপত্র জমা দিন।</p><p style="text-align:justify">শিশুর নতুন পাসপোর্ট তৈরির জন্য আবেদন করতে আপনি <a href="https://www.passport.gov.bd/">//www.passport.gov.bd/</a> লিংকে ক্লিক করে অনলাইনে পাসপোর্ট ফরম পূরণ করুন। অনলাইনে নতুন পাসপোর্টের আবেদন ফরম সহজভাবে পূরণ করার জন্য তার অসংখ্য ভিডিও ইউটিউবে দেয়া আছে। তার মধ্য থেকে আপনাদের সহযোগিতার জন্য একটি ভিডিও <a href="https://www.youtube.com/watch?v=aTSy1oJPhzs">//www.youtube.com/watch?v=aTSy1oJPhzs</a> শেয়ার করা হচ্ছে। অনলাইনে পাসপোর্ট ফরম পূরণ করার ক্ষেত্রে যখন পেমেন্ট সংক্রান্ত তথ্য চাওয়া হবে, তখন স্কিপ পেমেন্ট (Skip Payment) বক্সটি ক্লিক করে পরবর্তী ধাপে যান; পেমেন্ট সংক্রান্ত তথ্য এখানে দেয়ার প্রয়োজন নেই। দূতাবাস আলাদা ভাবে পাসপোর্ট তৈরির ফিস জমার রশিদ সিস্টেমে সরাসরি জমা দিয়ে দেবে। ফরম পূরণ শেষে ফরমের (বারকোড সহ ৪ পাতার আবেদন)-এর এক কপি প্রিন্টের সাথে নিম্নবর্ণিত কাগজপত্র সংযুক্ত করতে হবেঃ</p><p style="text-align:justify">ক) বাংলাদেশ দূতাবাস কিংবা বাংলাদেশ হতে সংগৃহীত জন্ম নিবন্ধন সনদ;</p><p style="text-align:justify">খ) ইতালিয়ান জন্ম সনদের ফটোকপি;</p><p style="text-align:justify">গ) শিশুর বাবা এবং মায়ের পাসপোর্টের ফটোকপি;</p><p style="text-align:justify">ঘ) আবেদনপত্রের শিশুর ২ কপি এবং বাবা-মায়ের প্রত্যেকের ১ কপি করে পাসপোর্ট সাইজের ছবি <i>(ছবি তোলার সময় চশমা, সাদা শার্ট, ফেন্সি</i> <i>টুপি, কপালে নজর টিপ, বা অন্যান্য অপ্রয়োজনীয় জিনিস পরিহার করুন। শিশুর ছবিটি পোর্ট্রেট (portrait) ধরনের হবে, চোখ খোলা থাকবে, দুটো কান যথাসম্ভব দৃশ্যমান হতে হবে, মাথার উপরে এবং মুখমন্ডলের উভয় পাশে খালি জায়গা থাকবে, ছবির ব্যাকগ্রাউন্ড অবশ্যই সাদা হতে হবে। এই পাসপোর্ট ফর্মের কোথাও কোন সত্যায়নের প্রয়োজন হবে না)</i></p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৭। আমার পরিবারের সকল সদস্যদের জন্য আলাদা এপয়েন্টমেন্ট লাগবে কি?</strong></p><p style="text-align:justify">পরিবারের সকল সদস্যদের জন্য একটি এপয়েন্টমেন্ট যথেষ্ট। পরিবার বলতে নিজ, স্ত্রী, সন্তান, বাবা এবং মা বোঝাবে। এর বাইরে কাউকে পরিবারের সদস্য হিসেবে গণ্য করার সুযোগ নেই।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৮। পাসপোর্টের আবেদনের জন্য কত ইউরো</strong> <strong>ফিস প্রদান করতে হবে? শিশুদের এবং প্রাপ্তবয়স্কদের ফিস কি একই? </strong></p><p style="text-align:justify">নতুন পাসপোর্ট তৈরী এবং পাসপোর্ট নবায়ন (শিশু বা প্রাপ্তবয়স্ক) উভয় ক্ষেত্রেই ফি ১০০ ইউরো।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>৯। শিক্ষার্থীদের পাসপোর্ট নবায়ন করতে কত ফিস লাগবে? এর জন্য আলাদা কি ডকুমেন্ট লাগবে?</strong></p><p style="text-align:justify">শিক্ষার্থীদের পাসপোর্ট নবায়ন করার ফি ৩০ ইউরো। এজন্য শিক্ষার্থীর বয়স ন্যূনতম ০৬ (ছয়) বছর হতে হবে এবং তাকে কোন শ্রেণিতে পড়তে হবে; স্কুলের শিক্ষার্থীদের ক্ষেত্রে ইতালির যথাযথ কর্তৃপক্ষ প্রদত্ত চলমান শিক্ষাবর্ষের সিলমোহর ও স্বাক্ষরিত সনদ উপস্থাপন করতে হবে; বিশ্ববিদ্যালয়ের শিক্ষার্থীদের ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষ প্রদত্ত চলমান সেশন, অধ্যায়নরত বিষয়সহ বিস্তারিত উল্ল্যেখ করে সিলমোহর ও স্বাক্ষর সম্বলিত সনদ উপস্থাপন করতে হবে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১০। পাসপোর্টের মেয়াদ সরবোচ্চ কতদিন থাকলে পাসপোর্ট নবায়ন করা যাবে?</strong></p><p style="text-align:justify">পাসপোর্টের মেয়াদ সর্বোচ্চ ০৬ মাস থাকলে পাসপোর্ট নবায়ন করা যাবে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১১। পাসপোর্টের ফিস কিভাবে প্রদান করতে হবে?</strong></p><p style="text-align:justify">বর্তমানে দূতাবাসে পাসপোর্টের এবং অন্যান্য সেবার জন্য নগদ অর্থে (ইউরো) ফি গ্রহন করা হয় না। দূতাবাসে ব্যাংক-কার্ডের মাধ্যমে ফি প্রদান করার জন্য সকলকে অনুরধ করা যাচ্ছে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১২। ডাকযোগে পাসপোর্টের আবেদন পাঠাতে বা ফেরত পেতে পারবো কিনা? ডাকযোগে পাসপোর্ট প্রাপ্তির উপায় কি?</strong></p><p style="text-align:justify">ডাকযোগে পাসপোর্ট প্রাপ্তির জন্য দূতাবাসে পাসপোর্ট এনরোলমেন্ট করার পরে নির্ধারিত ফি (সাধারণত ১০-২০ ইউরো) প্রদান করে ডিএইচএল (DHL) এর একটি ফর্ম পূরণ করতে হয়। পাসপোর্ট দূতাবাসে এসে পৌঁছালে নির্ধারিত নিয়ম অনুসরণ করে ডিএইচএল (DHL) এর প্রতিনিধিদের কাছে হস্তান্তর করা হয়। উল্লেখ্য, এই প্রক্রিয়াটি নির্ভর করে ডিএইচএল (DHL) এর নিজস্ব কর্মপরিকল্পনার উপর।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৩। মূল রশিদ হারিয়ে গেলে কি করণীয়?</strong></p><p style="text-align:justify">মূল রশিদ হারিয়ে গেলে সশরীরে উপস্থিত হয়ে যথাযথ প্রমাণাদি (পূর্ববর্তী মূল পাসপোর্ট) উপস্থাপন করে আবেদনকারী পাসপোর্ট সংগ্রহ করতে পারবেন। পূর্ববর্তী পাসপোর্ট না থাকলে আবেদনকৃত পাসপোর্ট সম্পর্কে সঠিক তথ্য দিয়ে পরীক্ষণ সাপেক্ষে পাসপোর্ট দেয়া যাবে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৪। আমি এম্বাসির ঠিকানা জানতে চাই? বাংলাদেশ দূতাবাসে পৌঁছাতে হলে আমি কোন স্টেশন এ আসবো বা স্টেশনের কোন গেট দিয়ে বের হব? </strong></p><p style="text-align:justify">রোমস্থ বাংলাদেশ দূতাবাসের ঠিকানা হলোঃ <strong>ভিয়া দেল এন্তারতিদে ৫-৭, এয়র, ০০১৪৪, রোম</strong></p><p style="text-align:justify">মেট্রোতে রোমের যে কোন স্টেশন থেকে এয়র পালাসপোরট (EUR Pallasport) স্টেশনে নেমে লেকের উপর সেতু পার হয়ে ১০০ মিটার এগিয়ে হাতের ডান পাশে এগোলেই দূতাবাসে পৌঁছে যাবেন। বাসে রোমের যে কোন জায়গা থেকে পালাজ্জো স্পোর্ট স্টেশনে এসে নামলে পূর্ব দিকে একটি উচু টাওয়ার দেখা যাবে। এর পাশেই বাংলাদেশ দূতাবাস অবস্থিত। দূতাবাসের নিকটতম বাস ষ্টেশন হলো পালাজ্জো স্পোর্ট-নেরভি (Palazzo Sport/Nervi) যেখান থেকে নিয়মিতভাবে ৭৮০, ৬৭১, ৭৯১, ৭১৪, L-20 এসব নম্বরের বাস যাওয়া আসা করে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৫। আমি চাকরি জনিত কারণে কাজের দিন গুলোতে ছুটি পাই না। আমি কি কোন বন্ধের দিনে দূতাবাসে আমার জন্ম নিবন্ধন সনদের কাজে আসতে পারি? ছুটির দিনে দূতাবাস কি খোলা থাকবে?</strong></p><p style="text-align:justify">সাধারণত কোনরূপ পূর্বঘোষণা না থাকলে দূতাবাস সপ্তাহের পাঁচ দিন সোমবার-শুক্রবার পর্যন্ত প্রতিদিন ৯-৫ টা পর্যন্ত খোলা থাকে এবং ৯.৩০-৫টা পর্যন্ত সেবা দেয়া হয়। দূতাবাসের ওয়েবসাইটে প্রকাশিত ছুটির নোটিশ দেখে আপনারা কর্মপন্থা নির্ধারণ করতে পারেন। (২০২১ সালের ছুটির তালিকা)।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৬। আমার/আমার বাচ্চার জন্ম নিবন্ধন সনদ ইতোপূর্বে দূতাবাস থেকে নিয়েছিলাম। কিন্তু তা আমি হারিয়ে ফেলেছি। এখন পাসপোর্ট এর আবেদনের সময় সেটার কপি আমার পুনরায় প্রয়োজন। আমাকে কি করতে হবে?</strong></p><p style="text-align:justify">আপনার বাচ্চার নাম, জন্মতারিখ, জন্মস্থান ব্যবহার করে আপনি জন্ম নিবন্ধন সনদের অনুলিপি সংগ্রহ করতে পারেন। এজন্য আপনাকে bdris.gov.bd ওয়েবসাইটে গিয়ে অনলাইনে আবেদন করে নির্দেশিত তথ্য সরবরাহ করে দূতাবাস থেকে (কিংবা যেখান থেকে জন্ম নিবন্ধন সনদ সংগ্রহ করেছেন সেখান থেকে) অনুলিপি সংগ্রহ করতে পারেন।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৭। অনলাইনে আবেদন করতে না পারলে কি করনীয়? </strong></p><p style="text-align:justify">অনলাইনে না পারলে হার্ড কপির উপর হাতে লিখেও ফর্ম পূরণ করা যায়; তবে সেক্ষেত্রে অনেক ভুল-ত্রুটির সম্ভাবনা থাকে এবং তা সময় সাপেক্ষ বিষয় কেননা আপনার তথ্য সমূহকে আমাদের ম্যানুয়ালি টাইপ করে দিতে হয়। মনে রাখবেন পাসপোর্ট যেহেতু একটি অত্যন্ত গুরুত্বপূর্ণ ডকুমেন্ট এবং এর তথ্য সমূহ নির্ভূল হওয়া খুবই জরুরী তাই আপনি নিজে সময় নিয়ে অনলাইনে নিজের তথ্য নিজে পূরণ করুন আর আপনার পক্ষে অনলাইনে ফরম পূরণ করা সম্ভব না হলে সেক্ষেত্রে আপনার নিকটস্থ কোন বন্ধু বা আত্মীয়ের সহযোগিতা নিন। একবার যদি পাসপোর্ট এর তথ্য ভুল হয়ে যায় সেটি পরবর্তীতে পরিবর্তন বা সংশোধন করতে আপনাকে অনেক বিড়ম্বনায় পড়তে হবে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৮। বাচ্চাদের ক্ষেত্রে পাসপোর্ট রি-ইস্যু করার জন্য বাচ্চাকে দূতাবাসে উপস্থিত থাকতে হবে কিনা জানতে চাই? </strong></p><p style="text-align:justify">বাচ্চার যদি প্রথম এমআরপি পাসপোর্ট করতে হয় এবং বাচ্চার বয়স যদি দুই (২) বছরের কম হয় সে ক্ষেত্রে বাচ্চাকে সাথে আনার প্রয়োজন নেই। আর বাচ্চার বয়স যদি ২ বছরের অধিক হয় সে ক্ষেত্রে তাকে অবশ্যই দূতাবাসে আসতে হবে।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>১৯। প্রথমবার পাসপোর্ট করার সময় তো বাচ্চাকে নিয়ে আসিনি। তাহলে এখন কেন আনতে হবে?</strong></p><p style="text-align:justify">প্রথমবার বাচ্চার বয়স পাঁচ বছরের কম ছিল, তাই ফিঙ্গারপ্রিন্ট বাধ্যতামূলক ছিল না। এখন পাঁচ বছরের বেশি হওয়াতে ফিঙ্গারপ্রিন্ট নেয়ার প্রয়োজন বিধায় বাচ্চার উপস্থিতি আবশ্যক।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>২০। বাংলাদেশ দূতাবাস রোমে পাসপোর্ট করতে দিলে পাসপোর্ট হাতে পেতে কতদিন সময় লাগে? আর জরুরী পাসপোর্ট করার কোন সুযোগ আছে কিনা? </strong></p><p style="text-align:justify">দূতাবাস থেকে জরুরী ভিত্তিতে পাসপোর্ট করার সুযোগ নেই। সাধারণত পাসপোর্টের এনরোলমেন্ট করার পরে ২ মাসের মধ্যে পাসপোর্ট প্রিন্ট হয়ে দূতাবাসে চলে আসে। তবে ক্ষেত্র বিশেষে যেমন তথ্য পরিবর্তন, আনুসাংগিক কাগজপত্র ভেরিফিকেশন বা ফিঙ্গারপ্রিন্টের অস্পষ্টতার কারনেও বিলম্ব হতে পারে। কখনো পাসপোর্ট এই সময়ের আগেও চলে আসে। এখানে উল্লেখ্য, দূতাবাসে পাসপোর্ট প্রিন্ট হয় না, ঢাকাস্থ পাসপোর্ট অধিদপ্তরে থাকা বিশেষ যন্ত্রের মাধ্যমে তা প্রিন্ট করা হয়। দূতাবাস নির্দিষ্ট সার্ভারের মাধ্যমে পাসপোর্টের তথ্য পাসপোর্ট অধিদপ্তরে পাঠায় এবং সেখান থেকে পাসপোর্ট প্রিন্ট করে দূতাবাসে প্রেরণ করা হয়। সম্পূর্ণ প্রক্রিয়ায় ১০-১২ টি ধাপ রয়েছে যা অত্যন্ত সাবধানতার সাথে প্রতিপালন করতে হয়।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>২১। আমার এনরোলমেন্ট বা ডেলিভারি স্লিপে যে ডেলিভারির তারিখ উল্লেখ আছে, আমি কি সেই দিন পাসপোর্ট পাবো?</strong></p><p style="text-align:justify">সেটা নির্ভর করে ঢাকাস্থ পাসপোর্ট অধিদপ্তর থেকে রোমে পাসপোর্ট এসেছে কিনা তার উপর। যে সকল পাসপোর্ট বিতরণের জন্য প্রস্তুত হয় সেগুলোর তালিকা দূতাবাসের ওয়েবসাইটে নিয়মিত আপলোড করা হয়। সেখানে আপনার ITA100000XXXXXX নম্বর দেখে নিশ্চিত হয়ে দূতাবাসে এসে পাসপোর্ট সংগ্রহ করতে পারেন।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify"><strong>২২। আমি পাসপোর্টের জন্য গত xx তারিখে জমা দিয়েছি। আমার পাসপোর্ট টা কি এসেছে?</strong></p><p style="text-align:justify">আপনি দূতাবাসের ওয়েবসাইটে/ফেসবুক পেইজে আপলোড করা প্রস্তুতকৃত পাসপোর্টের তালিকা থেকে আপনার পাসপোর্টের সম্পর্কে জানতে পারেন। এছাড়া দূতাবাসের ওয়েবসাইট অথবা পাসপোর্ট অধিদপ্তরের ওয়েবসাইটে গিয়ে ITA100000XXXXXX নম্বর (যা আপনার এনরোলমেন্ট স্লিপের উপরে ডানপাশে উল্লেখ করা আছে) লিখে আপডেট জানতে পারেন।</p><p style="text-align:justify"><br /> </p><p style="text-align:justify">কনটেন্টটি শেয়ার করতে ক্লিক করুন</p></rt-renderer> </div> </div> 
+                <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">Click to share this content</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>Give your opinion</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>Give your opinion</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">Your Name</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="Enter Your Name"
+        />
+        <small class="error-message" hidden>
+          Name is required
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Email</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="Enter Your Email"
+        />
+        <small class="error-message" hidden>
+          Enter a valid email address
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Your Contact Number</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="Enter Your Contact Number"
+        />
+        <small class="error-message" hidden>
+          Enter a valid phone number (e.g. 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">Write your opinion</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          Opinion must be at least 20 characters
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">Submit</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <!--<script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>-->
+  <script src="/site-assets/js/ckeditor5-41.4.2-classic-ckeditor.min.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+            </div>
+        </div>
+    <div data-widget_type="widget" data-widget_name="AccessibilityWidget" class="widget accessibility-widget"> <div class="accessibility-float fab-icon" id="accessibility-btn" title="Accessibility"> <i class="ph ph-wheelchair-motion"></i> </div> <div class="accessibility-card" id="accessibility-card"> <h3 id="accessibility-card-title" tabindex="0">Accessibility</h3> <div id="accessibility-close" tabindex="0" title="Close"> <icon class="ph ph-x-circle"></icon> </div> <div class="item"> <button id="font-increase">Font Increase</button> <button id="font-decrease">Font Decrease</button> </div> <div class="item"> <input type="checkbox" id="monochrome" title="Monochrome" /> <label for="monochrome">Monochrome</label> </div> <div class="item"> <input type="checkbox" id="inverted" title="Invert" /> <label for="inverted">Invert</label> </div> <div class="item"> <input type="checkbox" id="bigCursor" title="Big Cursor" /> <label for="bigCursor">Big Cursor</label> </div> <div class="item"> <input type="checkbox" id="highlightLinks" title="Highlight Links" /> <label for="highlightLinks">Highlight Links</label> </div> <div class="item"> <input type="checkbox" id="highlightHeadings" title="Highlight Headings" /> <label for="highlightHeadings">Highlight Headings</label> </div> <div class="item"> <input type="checkbox" id="readingGuideCheckbox" title="Reading Guide" /> <label for="readingGuideCheckbox">Reading Guide</label> </div> <div class="item"> <button class="accessibility-reset">Reset</button> </div> <a class='screen-reader' target="_blank" rel="noreferrer" href="https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe">Download Screen Reader</a> </div> <!-- TODO: [naeemur] add some more tab navigate options --> <div class="tab-menu"> <a href="#main-content" class="skip-link">Skip to content</a> <a href="#accessibility-card-title" class="skip-link menu-href">Go to accessibility menu</a> </div> </div> 
+<div data-widget_type="widget" data-widget_name="GoToTopWidget" class="widget go-to-top-widget"> <div class="go-to-top-float x-fab-icon" id="go-to-top-btn" title="Go to top"> <i class="ph ph-caret-up"></i> </div> </div> 
+</div></div>
+  </div>
+  <div class="footer"><div data-section_type="footer" class="droppable">
+         <footer data-widget_type="widget" data-widget_name="NewLandingFooterWidget" class="widget new-landing-footer-widget"> <div class="footer-decoration"> <div class="decorative-left"> <img src="/site-assets/images/left-footer.png" alt="Decorative Left"> </div> <div class="decorative-right"> <img src="/site-assets/images/right-footer.png" alt="Decorative Right"> </div> </div> <div class="footer-disclaimer"> All information published on this website is regularly updated by the respective government office. The office makes every effort to ensure that the information is accurate, correct, and reliable. </div> <div class="footer-content container"> <div class="footer-left"> <ul class="footer-links"> </ul> <div class="copyright"> <p> &copy; 2026 All Rights Reserved to bangladesh.gov.bd(National Portal) </p> <p class="last-updated"> Site last updated: Thursday, October 1, 2026 at 21:06:45 </p> </div> </div> <div class="footer-right"> <div class="planning-section"> <p class="planning-title">Planning and implementation</p> <div class="planning-logos"> <img src="/site-assets/images/a2iset.png" alt="a2i"> </div> </div> </div> </div> </footer> 
+    </div></div>
+</div>
+<script>const _window=window; const _document=document;</script>
+<script src="/site-assets/js/index.js"></script>
+<script src="/widget-assets/js/SimpleHeaderWidget"></script>
+<script src="/widget-assets/js/LanguageSwitcherWidget"></script>
+<script src="/widget-assets/js/MenusSliderWidget"></script>
+<script src="/widget-assets/js/MenusWidget"></script>
+<script src="/widget-assets/js/EmbassyBannerSliderImageWidget"></script>
+<script src="/widget-assets/js/BannerSliderImageWidget"></script>
+<script src="/widget-assets/js/SocialContentShareWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionPopupWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionFormWidget"></script>
+<script src="/widget-assets/js/ContentViewerWidget"></script>
+<script src="/widget-assets/js/PrintWidget"></script>
+<script src="/widget-assets/js/AccessibilityWidget"></script>
+<script src="/widget-assets/js/GoToTopWidget"></script>
+<script src="/widget-assets/js/TitleWithImageContentWidget"></script>
+<script src="/widget-assets/js/ContentDetailsWidget"></script>
+<script src="/widget-assets/js/NewLandingFooterWidget"></script>
+
+<script src="/assets/js/index.js"></script>
+</body>
+</html>

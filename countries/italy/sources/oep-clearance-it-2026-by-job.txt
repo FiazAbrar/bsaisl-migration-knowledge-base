@@ -1,0 +1,115 @@
+# OEP country-clearance report, Italy (country_id 85), by job category, 2026-01-01 to 2026-11-09, queried 2026-11-10
+Sum of categories: 8614; categories listed: 111; recordsTotal 111
+Italy | A Casual Worker | 2842
+Italy | General Labour | 2427
+Italy | Worker | 1535
+Italy | Worker | 574
+Italy | Agriculture Labour | 305
+Italy | GENERAL WORKER | 214
+Italy | Labour | 119
+Italy | Agent | 105
+Italy | Restaurant Labour | 70
+Italy | House Worker | 30
+Italy | Farm Worker | 29
+Italy | Waiter | 27
+Italy | A Builder | 27
+Italy | Linking Operator (Male) | 21
+Italy | Core Worker | 18
+Italy | Garments Worker | 17
+Italy | General Labour (Junior) | 15
+Italy | Skilled Welder | 14
+Italy | Welding | 10
+Italy | Concrete Worker | 9
+Italy | Common Labour | 8
+Italy | Pipe Welder | 7
+Italy | Hotel Boy | 7
+Italy | Salesman | 6
+Italy | Private Service | 6
+Italy | Drilling Worker | 6
+Italy | Barista | 6
+Italy | Loader Unloader | 5
+Italy | General/Unskilled Workers | 5
+Italy | Glass Labour | 5
+Italy | Sponsor | 5
+Italy | Caregiver | 5
+Italy | Concrete Labour | 5
+Italy | Factory Worker | 5
+Italy | Loader | 5
+Italy | Dish Cleaner | 4
+Italy | Labour | 4
+Italy | Clerk | 4
+Italy | Architect | 4
+Italy | Frameworker | 4
+Italy | Labour (Junior) | 3
+Italy | Skilled Labour | 3
+Italy | Construction Labour | 3
+Italy | Cleaner | 3
+Italy | Carpet Labour | 3
+Italy | Workshop Worker | 3
+Italy | Generator Labour | 3
+Italy | Archives Clerk | 2
+Italy | AC Engineer | 2
+Italy | Agriculture Engineer | 2
+Italy | Architectural Labour | 2
+Italy | Assistant Mason | 2
+Italy | Auto Labour | 2
+Italy | Car Decoration Labor | 2
+Italy | Commis Waiter/Waitress | 2
+Italy | Farmer | 2
+Italy | Female Labour | 2
+Italy | Gas Worker | 2
+Italy | General Attendant | 2
+Italy | House Boy | 2
+Italy | Kitchen Worker | 2
+Italy | Shopkeeper | 2
+Italy | Helper | 1
+Italy | Administrator | 1
+Italy | Head Waiter | 1
+Italy | General/SemiSkill | 1
+Italy | Linking Operator (Female) | 1
+Italy | General Builder | 1
+Italy | Finisher | 1
+Italy | Loaders | 1
+Italy | Lunch Delivery Staff | 1
+Italy | M E Worker (Unskilled) | 1
+Italy | Machine Labour | 1
+Italy | Manager | 1
+Italy | Engineer | 1
+Italy | Decoration Labour | 1
+Italy | Project Manager | 1
+Italy | Construction Worker | 1
+Italy | Resturant Crew | 1
+Italy | Sales Manager | 1
+Italy | Computer Programmer/Software Developer | 1
+Italy | Cleaning Labour (Female) | 1
+Italy | Teacher | 1
+Italy | Tourist Guide | 1
+Italy | Cleaner High Level | 1
+Italy | Ward Boy | 1
+Italy | Warehouse Worker | 1
+Italy | Welder Grade-A | 1
+Italy | Chemist | 1
+Italy | Chartered Accountant | 1
+Italy | Car Cleaner | 1
+Italy | Brick Worker | 1
+Italy | Duct Worker | 1
+Italy | Spa Employee | 1
+Italy | Baker | 1
+Italy | Auto Greasing Lubricator | 1
+Italy | Asst. Auto Labour | 1
+Italy | Garden Clean Worker | 1
+Italy | Graves Worker | 1
+Italy | Architect Labour | 1
+Italy | Port Worker | 1
+Italy | All Round Foreman | 1
+Italy | Air Hostess/Stewards | 1
+Italy | Construction Worker | 1
+Italy | Domestic Worker | 1
+Italy | Shop Assistant | 1
+Italy | SEASONAL WORKER FOR PICKING AND PACKING FRUIT | 1
+Italy | Air Host | 1
+Italy | Hotel boy | 1
+Italy | Seasonal Land Worker | 1
+Italy | House Keeper Female | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2026-01-01&approval_date_to=2026-11-09&country_id%5B%5D=85&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":85,"country_name":"Italy","total_employee":2842,"category_name":"A Casual Worker"},{"country_id":85,"country_name":"Italy","total_employee":2427,"category_name":"General Labour"},{"country_id":85,"country_name":"Italy","total_employee":1535,"category_name":"Worker"},{"country_id":85,"country_name":"Italy","total_employee":574,"category_name":"Worker"},{"country_id":85,"country_name":"Italy","total_employee":305,"category_name":"Agriculture Labour"},{"country_id":85,"country_name":"Italy","total_employee":214,"category_name":"GENERAL WORKER"},{"country_id":85,"country_name":"Italy","total_employee":119,"category_name":"Labour"},{"country_id":85,"country_name":"Italy","total_employee":105,"category_name":"Agent"},{"country_id":85,"country_name":"Italy","total_employee":70,"category_name":"Restaurant Labour"},{"country_id":85,"country_name":"Italy","total_employee":30,"category_name":"House Worker"},{"country_id":85,"country_name":"Italy","total_employee":29,"category_name":"Farm Worker"},{"country_id":85,"country_name":"Italy","total_employee":27,"category_name":"Waiter"},{"country_id":85,"country_name":"Italy","total_employee":27,"category_name":"A Builder"},{"country_id":85,"country_name":"Italy","total_employee":21,"category_name":"Linking Operator (Male)"},{"country_id":85,"country_name":"Italy","total_employee":18,"category_name":"Core Worker"},{"country_id":85,"country_name":"Italy","total_employee":17,"category_name":"Garments Worker"},{"country_id":85,"country_name":"Italy","total_employee":15,"category_name":"General Labour (Junior)"},{"country_id":85,"country_name":"Italy","total_employee":14,"category_name":"Skilled Welder"},{"country_id":85,"country_name":"Italy","total_employee":10,"category_name":"Welding"},{"country_id":85,"country_name":"Italy","total_employee":9,"category_name":"Concrete Worker"},{"country_id":85,"country_name":"Italy","total_employee":8,"category_name":"Common Labour"},{"country_id":85,"country_name":"Italy","total_employee":7,"category_name":"Pipe Welder"},{"country_id":85,"country_name":"Italy","total_employee":7,"category_name":"Hotel Boy"},{"country_id":85,"country_name":"Italy","total_employee":6,"category_name":"Salesman"},{"country_id":85,"country_name":"Italy","total_employee":6,"category_name":"Private Service"},{"country_id":85,"country_name":"Italy","total_employee":6,"category_name":"Drilling Worker"},{"country_id":85,"country_name":"Italy","total_employee":6,"category_name":"Barista"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Loader Unloader"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"General\/Unskilled Workers"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Glass Labour"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Sponsor"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Caregiver"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Concrete Labour"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Factory Worker"},{"country_id":85,"country_name":"Italy","total_employee":5,"category_name":"Loader"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Dish Cleaner"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Labour"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Clerk"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Architect"},{"country_id":85,"country_name":"Italy","total_employee":4,"category_name":"Frameworker"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Labour (Junior)"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Skilled Labour"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Construction Labour"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Cleaner"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Carpet Labour"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Workshop Worker"},{"country_id":85,"country_name":"Italy","total_employee":3,"category_name":"Generator Labour"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Archives Clerk"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"AC Engineer"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Agriculture Engineer"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Architectural Labour"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Assistant Mason"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Auto Labour"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Car Decoration Labor"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Commis Waiter\/Waitress"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Farmer"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Female Labour"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Gas Worker"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"General Attendant"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"House Boy"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Kitchen Worker"},{"country_id":85,"country_name":"Italy","total_employee":2,"category_name":"Shopkeeper"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Helper"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Administrator"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Head Waiter"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"General\/SemiSkill"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Linking Operator (Female)"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"General Builder"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Finisher"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Loaders"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Lunch Delivery Staff"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"M E Worker (Unskilled)"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Machine Labour"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Manager"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Engineer"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Decoration Labour"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Project Manager"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Construction Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Resturant Crew"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Sales Manager"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Computer Programmer\/Software Developer"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Cleaning Labour (Female)"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Teacher"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Tourist Guide"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Cleaner High Level"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Ward Boy"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Warehouse Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Welder Grade-A"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Chemist"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Chartered Accountant"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Car Cleaner"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Brick Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Duct Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Spa Employee"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Baker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Auto Greasing Lubricator"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Asst. Auto Labour"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Garden Clean Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Graves Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Architect Labour"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Port Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"All Round Foreman"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Air Hostess\/Stewards"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Construction Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Domestic Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Shop Assistant"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"SEASONAL WORKER FOR PICKING AND PACKING FRUIT"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Air Host"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Hotel boy"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"Seasonal Land Worker"},{"country_id":85,"country_name":"Italy","total_employee":1,"category_name":"House Keeper Female"}],"recordsTotal":111,"recordsFiltered":111,"totalEmployee":8614},"type":"success","fade":false}

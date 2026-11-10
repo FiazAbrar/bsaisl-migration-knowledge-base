@@ -1,0 +1,335 @@
+1
+
+   ABF IN PAROLE SEMPLICI
+
+ABF IN PAROLE SEMPLICI
+2
+
+ABF IN PAROLE SEMPLICI
+    INDICE
+
+4 Qualche informazione sull'Arbitro Bancario Finanziario
+         La struttura dell'ABF
+
+6 Qualche domanda per conoscere meglio l'ABF
+
+    Cosa può fare l'ABF?
+
+    Quando puoi ricorrere all'ABF?
+
+    Quando non puoi ricorrere all'ABF?
+
+7   Nei confronti di chi puoi presentare un ricorso?
+
+    Cosa devi fare prima di proporre il ricorso?
+
+8   Quanto costa un ricorso all'ABF e come si paga?
+
+    Quanto tempo devo aspettare per avere una risposta dall'ABF?
+
+9   Che cosa è la rete Fin-Net?
+
+10 La procedura ABF passo dopo passo
+
+11  La fase iniziale
+
+    La decisione
+
+    In caso di inadempimento dell'intermediario
+
+12  Altri esiti della procedura
+
+    L'istanza di correzione
+
+14 Contatti
+4
+
+     QUALCHE INFORMAZIONE
+     SULL'ARBITRO BANCARIO FINANZIARIO
+
+            Hai un problema con una banca o un intermediario finanziario? C'è l `ABF!
+            L'ABF è un sistema di risoluzione alternativa delle controversie che possono nascere tra i clienti, da
+            una parte, e le banche e gli altri intermediari finanziari, dall'altra. Decide in tempi rapidi ed è alla
+            portata di tutti.
+            · L'ABF è autonomo e imparziale ed è sostenuto nel suo funzionamento dalla Banca d'Italia.
+            · L'ABF è un'alternativa al giudice, più semplice, rapida ed economica.
+            · Puoi fare ricorso da solo e online. Devi crederci: è semplice!
+            · Per ricorrere all'ABF non ti serve l'assistenza legale o l'aiuto di un professionista.
+            Questa guida ti fornisce indicazioni utili per presentare un ricorso all'ABF.
+            Se vuoi avere maggiori informazioni sull'ABF (per esempio, sulle decisioni dei Collegi) puoi
+            consultare il sito www.arbitrobancariofinanziario.it.
+
+LA STRUTTURA DELL'ABF
+
+l'ABF è articolato in sette Collegi operanti su base territoriale (Milano, Torino, Bologna, Roma,
+Napoli, Bari e Palermo) che decidono i ricorsi in base al domicilio dei clienti (cioè l'indirizzo
+dichiarato nel ricorso).
+Per esigenze legate alla funzionalità del sistema è possibile che la decisione del tuo ricorso sia
+assunta da un Collegio diverso. Sarai in ogni caso informato tramite un avviso sul sito internet.
+
+COLLEGIO                 REGIONI
+
+Milano                   Trentino-Alto Adige, Veneto
+
+                Bologna  Emilia-Romagna, Toscana
+                Roma     Stato estero
+                Napoli
+                Bari                  Molise
+                Palermo  Basilicata, Calabria, Puglia
+                         Sardegna, Sicilia
+ABF IN PAROLE SEMPLICI
+                                                                                                                                                           5
+
+Ogni Collegio è composto da cinque membri:
+· il Presidente e due membri sono designati dalla Banca d'Italia;
+· un membro è designato dalle associazioni degli intermediari;
+· un membro è designato dalle associazioni che rappresentano i clienti (consumatori e imprese).
+
+                                      Presidente
+                                     designato dalla
+                                     Banca d'Italia
+
+Componenti         Componente                         Componente           Componente
+designati dalla  designato dal CNCU                   designato dalle  designato dal Conciliatore
+Banca d'Italia                                         associazioni
+                                                                        Bancario Finanziario
+                                                       di categoria
+
+                 Ricorsi Clienti                      Ricorsi Clienti
+                  consumatori                         non consumatori
+
+Ogni Collegio è assistito da una Segreteria tecnica istituita presso le relative Sedi della Banca d'Italia.
+Ciascuna Segreteria tecnica ha il compito, tra l'altro, di:
+· ricevere il ricorso, verificando in primo luogo che sia completo, regolare e presentato nei termini;
+· ricevere la documentazione presentata dall'intermediario;
+· curare le comunicazioni relative alla procedura di ricorso alle parti.
+
+                                                                                                                                                                       ABF IN PAROLE SEMPLICI
+6
+
+     QUALCHE DOMANDA
+     PER CONOSCERE MEGLIO L'ABF
+
+                      COSA PUÒ FARE L'ABF?
+
+                             l'ABF decide chi ha ragione e chi ha torto: le sue decisioni, sebbene non vincolanti per
+                             le parti, presentano un tasso elevato di adesione da parte degli intermediari.
+                             Se ritieni la decisione dell'ABF insoddisfacente, puoi in ogni caso rivolgerti al giudice,
+                             come può a sua volta fare l'intermediario.
+
+                      QUANDO PUOI RICORRERE ALL'ABF?
+
+                             puoi ricorrere all'ABF se hai o hai avuto rapporti contrattuali o anche solo se sei
+                             entrato in relazione con un intermediario per servizi bancari e finanziari, compresi i
+                             servizi di pagamento.
+                             Se, ad esempio, la tua controversia riguarda conti correnti, mutui, prestiti personali,
+                             puoi ricorrere all'ABF se chiedi:
+                             · una somma di denaro per un importo non superiore a 200.000 euro;
+                             · l'accertamento di diritti, obblighi e facoltà (ad esempio, per la mancata consegna
+
+                                  della documentazione di trasparenza o la mancata cancellazione di un'ipoteca
+                                  dopo l'estinzione di un mutuo), in questo caso senza limiti di importo.
+
+                      QUANDO NON PUOI RICORRERE ALL'ABF?
+
+                             se la tua controversia:
+                             · riguarda servizi o attività con finalità di investimento (ad es. negoziazione
+
+                                  o collocamento di titoli, consulenza in materia di investimenti, gestione di
+                                  patrimoni): per questo, c'è l'Arbitro per le Controversie Finanziarie ­ ACF
+                                  (https://www.acf.consob.it/);
+                             · riguarda beni o servizi diversi da quelli bancari e finanziari;
+                             · riguarda operazioni o comportamenti anteriori al sesto anno precedente alla
+                                  data di proposizione del ricorso;
+                             · è già sottoposta all'autorità giudiziaria o è già all'esame di arbitri o conciliatori.
+                             Il ricorso all'ABF è tuttavia possibile se una procedura di conciliazione o mediazione
+                             non va a buon fine o se è stata avviata dall'intermediario e il cliente non vi ha
+                             aderito.
+
+ABF IN PAROLE SEMPLICI
+                                                                                                                         7
+
+NEI CONFRONTI DI CHI PUOI PRESENTARE UN
+RICORSO?
+
+puoi presentare un ricorso nei confronti di:
+· banche;
+· intermediari finanziari iscritti nell'albo di cui all'art. 106 del Testo Unico
+
+    Bancario (TUB);
+· confidi iscritti nell'elenco di cui all'art. 112 TUB (fino alla istituzione
+
+    dell'elenco di cui all'articolo 112 del TUB, per i confidi diversi da quelli
+    tenuti ad iscriversi all'albo previsto dall'articolo 106 del TUB., si fa
+    riferimento all'elenco generale dedicato ai confidi minori ai sensi
+    dell'art. 155, comma 4, del TUB);
+· istituti di pagamento (IP);
+· istituti di moneta elettronica (IMEL).
+Per verificare se il soggetto nei cui confronti vuoi proporre ricorso è
+sottoposto all'ABF, puoi consultare gli Albi ed Elenchi tenuti dalla Banca
+d'Italia (http://www.bancaditalia.it/compiti/vigilanza/albi-elenchi/).
+Puoi presentare ricorso anche nei confronti di banche e intermediari esteri
+che operano in Italia e non sono sottoposti a un sistema stragiudiziale che
+fa parte della rete europea Fin-Net (cfr. "Che cosa è la rete Fin-Net").
+
+COSA DEVI FARE PRIMA DI PROPORRE IL RICORSO?
+
+devi inviare un reclamo scritto all'intermediario, che ha di norma 60
+giorni per risponderti (salvo casi particolari, ad es. in materia di servizi
+di pagamento dove il termine è di 15 giorni lavorativi). Ricordati che
+nel ricorso puoi proporre soltanto questioni già espresse nel preventivo
+reclamo.
+Se l'intermediario non ti ha risposto o non sei soddisfatto della risposta che
+hai ricevuto, potrai rivolgerti all'ABF.
+Puoi ricorrere all'ABF al massimo entro 12 mesi dalla presentazione del
+reclamo all'intermediario. Se sono trascorsi 12 mesi devi presentare un
+nuovo reclamo.
+
+                                                                                                                             ABF IN PAROLE SEMPLICI
+8
+
+                      QUANTO COSTA UN RICORSO ALL'ABF E COME SI PAGA?
+
+                             dovrai pagare soltanto 20 euro di contributo spese per la procedura.
+                             Se il tuo ricorso è accolto, anche solo in parte, l'intermediario è tenuto a rimborsarti
+                             i 20 euro, salvo i casi espressamente disciplinati dalle Disposizioni ABF in cui non è
+                             previsto il rimborso del contributo.
+                             Il pagamento può essere fatto:
+                             · con bonifico bancario sul conto corrente intestato a "Banca
+
+                                  d'Italia Segreteria tecnica dell'Arbitro Bancario Finanziario", IBAN
+                                  IT71M0100003205000000000904;
+                             · con versamento sul conto corrente postale n. 98025661 intestato a "Banca
+                                  d'Italia ­ Segreteria tecnica dell'Arbitro Bancario Finanziario";
+                             · in contanti presso tutte le Filiali della Banca d'Italia aperte al pubblico, tranne le
+                                  unità specializzate nella vigilanza.
+                             Nella causale del versamento dovrai indicare "Ricorso ABF" e il tuo codice fiscale
+                             o la Partita IVA.
+
+                      QUANTO TEMPO DEVO ASPETTARE PER AVERE UNA RISPOSTA
+                      DALL'ABF?
+
+                             l'intermediario ha 45 giorni dalla ricezione del ricorso per presentare le proprie
+                             controdeduzioni, poi:
+                             · puoi replicare alla documentazione presentata dall'intermediario entro i 25 giorni
+
+                                  successivi;
+                             · l'intermediario può trasmettere le controrepliche nei 20 giorni successivi.
+                             Entro 90 giorni dalla data di completamento del fascicolo, riceverai la comunicazione
+                             dell'esito del tuo ricorso. La comunicazione dell'esito può avvenire anche tramite
+                             l'invio del solo dispositivo (dove è indicato se il ricorso è stato accolto o respinto);
+                             in questo caso altri 30 giorni sono previsti per comunicare alle parti la decisione
+                             completa di motivazione.
+                             Il termine di 90 giorni può essere prorogato per un periodo complessivamente
+                             non superiore a 90 giorni se il tuo ricorso è di particolare complessità (es. per la
+                             specificità della materia trattata; in caso di rimessione del ricorso, o di altro ricorso
+                             pendente sulla stessa questione, al Collegio di coordinamento). Sarai in ogni caso
+                             informato di tale proroga e del nuovo termine previsto per la conclusione della
+                             procedura.
+
+ABF IN PAROLE SEMPLICI
+                                                                                                                         9
+
+CHE COSA È LA RETE FIN-NET?
+
+è la Rete europea di cooperazione tra gli organismi nazionali di risoluzione
+stragiudiziale delle controversie in materia di servizi bancari, assicurativi
+e finanziari.
+Se l'intermediario estero nei cui confronti vuoi proporre ricorso aderisce
+a un sistema che fa parte di Fin-Net, la Segreteria tecnica ti può aiutare
+a presentare il ricorso all'organismo competente.
+
+CONTATTALA!
+
+Maggiori informazioni su Fin-net sono disponibili sul relativo sito internet:
+(https://finance.ec.europa.eu/consumer-finance-and-payments/retail-
+financial-services/financial-dispute-resolution-network-fin-net/fin-net-
+network_it) e su quello dell'ABF.
+
+      FIN-NET
+
+                                                                                                                             ABF IN PAROLE SEMPLICI
+LA PROCEDURA ABF
+ PASSO DOPO PASSO
+                                                                                                                                                   11
+
+LA FASE INIZIALE
+ABF").
+e tempestività della documentazione che hai presentato. Ti potrà essere richiesto di
+rivolta anche all'intermediario).
+
+LA DECISIONE
+il ricorso è deciso dal Collegio esclusivamente sulla base della documentazione presentata.
+La decisione è presa a maggioranza ed è motivata. Nei casi in cui sulla questione oggetto
+grazie all'intervento del Presidente e senza attendere la decisione del Collegio.
+giorni e a rimborsare il contributo alle spese della procedura di 20 euro, salvo i casi previsti
+dalle Disposizioni ABF.
+
+    solo in parte, fatta salva l'eccezione di cui al precedente punto 2;
+    non versa alla Banca d'Italia il contributo spese dovuto.
+Se l'intermediario non rispetta la decisione o non collabora allo svolgimento della
+procedura, l'inadempimento è pubblicato per 5 anni sul sito internet (https://www.
+arbitrobancariofinanziario.it/intermediari-inadempienti/index.html) dell'ABF, dove
+trovi l'elenco degli intermediari inadempienti. La notizia dell'inadempimento o della
+mancata cooperazione è inoltre pubblicata in evidenza sulla pagina iniziale del sito internet
+dell'intermediario per la durata di 6 mesi.
+
+                                                                                                                                                               ABF IN PAROLE SEMPLICI
+12
+
+               giudiziaria ovvero a giudizio arbitrale, il Collegio dichiarerà il ricorso inammissibile.
+               In entrambi i casi, la Segreteria tecnica ti chiederà se hai comunque interesse a proseguire
+               il procedimento davanti all'ABF.
+               la correzione entro il termine perentorio di 30 giorni dalla sua trasmissione.
+
+ABF IN PAROLE SEMPLICI
+CONTATTI
+                                                                                               15
+
+NUMERO VERDE
+Oltre alla richiesta di supporto che puoi inoltrare attraverso il Portale, per informazioni
+generali sull'ABF (ad esempio chi può ricorrere e come presentare ricorso)
+puoi telefonare al numero verde 800 196969.
+
+Riferimenti delle Segreterie tecniche dell'ABF
+Per i soli quesiti riguardanti ricorsi già presentati puoi rivolgerti alla Segreteria tecnica
+competente per territorio, alla quale potrai lasciare un messaggio vocale sulla segreteria
+telefonica oppure inviare una email per descrivere il tuo problema. In entrambi i casi verrai
+ricontattato quanto prima.
+
+Collegio di Milano
+Via Cordusio, 5 - 20123 Milano
+Tel.: 02.724.242.46 - Email: milano.abf.segreteriatecnica@bancaditalia.it
+Collegio di Torino
+Via Arsenale, 8 - 10121 Torino
+Tel.: 011.551.85.90 - Email: torino.abf.segreteriatecnica@bancaditalia.it
+
+Collegio di Bologna
+Piazza Cavour, 6 - 40124 Bologna
+Tel.: 051.643.01.20 - Email: bologna.abf.segreteriatecnica@bancaditalia.it
+
+Collegio di Roma
+Via Venti Settembre, 97/e - 00187 Roma
+Tel.: 06.4792.92.35 - Email: roma.abf.segreteriatecnica@bancaditalia.it
+
+Collegio di Napoli
+Via Miguel Cervantes, 71 - 80133 Napoli
+Tel.: 081.797.53.50 - Email: napoli.abf.segreteriatecnica@bancaditalia.it
+
+Collegio di Bari
+Corso Cavour, 4 - 70121 Bari
+Tel.: 080.573.15.10 - Email: bari.abf.segreteriatecnica@bancaditalia.it
+
+Collegio di Palermo
+Via Cavour, 131/A - 90133 Palermo
+Tel.: 091.607.43.10 - Email: palermo.abf.segreteriatecnica@bancaditalia.it
+
+Filiali della Banca d'Italia
+Filiali aperte al pubblico, per la presentazione del ricorso a mani. Tutte le
+Filiali per l'invio del ricorso per posta ordinaria o posta elettronica
+certificata (pec).
+
+                                                                                             ABF IN PAROLE SEMPLICI
+                       Stampa a cura
+della Divisione Editoria e stampa della Banca d'Italia
+

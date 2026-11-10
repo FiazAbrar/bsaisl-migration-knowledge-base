@@ -1,0 +1,47 @@
+# Concessione della cittadinanza italiana per residenza sul territorio italiano ai sensi dell’art. 9 della legge n. 91 del 5/02/1992
+
+Pubblicato in data: 11/11/2024
+
+> Concessione della cittadinanza italiana per residenza sul territorio italiano ai sensi dell’art. 9 della legge 5 febbraio 1992 n.91.
+
+1\. La cittadinanza italiana può essere concessa con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno:
+
+a\) allo straniero del quale il padre o la madre o uno degli ascendenti in linea retta di secondo grado sono o sono stati cittadini per nascita e che risiede legalmente da almeno due anni, comunque fatto salvo quanto previsto dall'articolo 4, comma 1, lettera c);
+
+a-bis) allo straniero che è nato nel territorio della Repubblica che vi risiede legalmente da almeno tre anni;
+
+b\) allo straniero maggiorenne adottato da cittadino italiano che risiede legalmente nel territorio della Repubblica da almeno cinque anni successivamente alla adozione;
+
+c\) allo straniero che ha prestato servizio, anche all'estero, per almeno cinque anni alle dipendenze dello Stato;
+
+d\) al cittadino di uno Stato membro delle Comunità europee se risiede legalmente da almeno quattro anni nel territorio della Repubblica;
+
+e\) all'apolide che risiede legalmente da almeno cinque anni nel territorio della Repubblica;
+
+f\) allo straniero che risiede legalmente da almeno dieci anni nel territorio della Repubblica.
+
+ 
+
+La legge di conversione 1° dicembre 2018 n. 132 del D.L. 4 ottobre 2018, n. 113, prevede il requisito della conoscenza della lingua italiana per i richiedenti la cittadinanza italiana per residenza.
+
+ 
+
+Per le domande presentate a partire dal 20 dicembre 2020 il termine massimo di conclusione dei procedimenti di concessione della cittadinanza italiana è di ventiquattro mesi prorogabili fino a un massimo di trentasei mesi, ai sensi dell’art. 4, comma 5 del D.L. 21 ottobre 2020, convertito con modificazioni dalla legge 18 dicembre 2020, n. 173.
+
+ 
+
+Per le istanze presentate prima della suddetta data il termine di definizione è di quarantotto mesi.
+
+ 
+
+La legge 15 aprile 2025, n. 63 ha introdotto una nuova fattispecie di acquisto della cittadinanza italiana per “naturalizzazione”, ai sensi dell’art. 9, comma 1, della legge n. 91/1992, in favore dei familiari delle vittime di eventi dannosi derivanti da cedimenti totali o parziali di infrastrutture stradali o autostradali di rilievo nazionale. In particolare, ai sensi dell’art. 7, “*allo straniero coniuge o all'altra parte dell'unione civile ovvero alla persona stabilmente convivente secondo i criteri di cui all'articolo 1, comma 36, della legge 20 maggio 2016, n. 76, nonché ai figli, ai genitori, ai fratelli e alle sorelle di vittime degli eventi dannosi di cui all'articolo 4 della presente legge, di cittadinanza diversa da quella italiana e regolarmente residenti in Italia al momento del decesso, può essere concessa la cittadinanza italiana ai sensi dell'articolo 9, comma 1, della legge 5 febbraio 1992, n. 91, se residenti legalmente nel territorio della Repubblica da almeno cinque anni al momento della concessione della cittadinanza*”.
+
+ 
+
+[\<-- Torna indietro alla pagina Cittadinanza](/temi/temi/cittadinanza)
+
+## Link Esterni:
+
+[Cittadinanza: consulta la pratica](https://portaleserviziapp.dlci.interno.it/AliCittadinanza/ali/home.htm)
+
+[Cittadinanza: invia la tua domanda](https://portaleserviziapp.dlci.interno.it/AliCittadinanza/ali/home.htm)
