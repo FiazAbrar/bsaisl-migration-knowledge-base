@@ -1,0 +1,51 @@
+- [Home Page](https://www.rop.gov.om/english/index.aspx)
+- Online Visa Application Service
+
+## Online Visa Application Service
+
+This is yet another initiative from Royal Oman Police in enhancing its services to minimize the time and efforts of people. It enables people to fill Visa Application form online through the ROP website, thus reducing the time taken for purchasing the application form and getting it typed. It also removes the time taken by the visa officer to re-type the information at the time of submission.
+
+Currently the service allows submission of applications for **  NEW VISA**  &  **RENEWAL OF RESIDENCE VISA**
+
+The online application process requires the user to:
+
+**Step 1**: Fill up and submit the Online Visa Application Form\
+**Step 2:** Complete online payment process (**RENEWAL ONLY**)\
+**Step 3:** Print the completed form\
+**Step 4**: Take the printed form enclosed with the required documents to the nearest ROP Visa office\
+\
+
+**\
+SECURITY**
+
+This service uses secure certificate, pre-installed in almost all the common browsers, provided by a Trusted Root Certification Authority. It provides secure connection with the ROP server and information transferred over it is digitally encrypted and secure.  **PRINTING**
+
+The Visa Application print page is now available in **PDF format**. You are required to have a PDF Reader software installed on your machine. If you don't have one currently installed, ***[click here](http://www.adobe.com/products/acrobat/readstep2.html?promoid=BUIGO)*** to download/install the Adobe Acrobat Reader software. Alternately, you can install any other PDF reader software of your choice.
+
+### VISA APPLICATION FORM
+
+**Please read the following instructions carefully before filling in the visa application form**
+
+Important note:
+
+1.  Enclose copy of the applicant’s passport and other documents.
+2.  Applicants should comply with laws applicable in the Sultanate of Oman, otherwise they will be subject to legal enquiry.
+3.  Under no circumstance the employee shall be allowed to work for any one other than his/her sponsor.
+4.  In all cases the Directorate Gen. of Passports & Residence have the right to reject the application without declaring any reason.
+5.  Applicants should be in the Sultanate to renew their residence permits.
+6.  Passport validity extensions not acceptable for visa application.
+7.  Family joining visa applications accepted only for children below 21 years old.
+8.  For more information [*click here*](../../english/dg_passport_visas.asp) or refer to the Directorate General of the Passports & Residence guide book.
+9.  According to Article (16) of the Implementing Regulation of the Foreigners’ Residence Law,\
+    obtaining a valid entry visa, does not necessarily mean that you will be allowed to enter the Sultanate. Passport & Residence officer has the right to refuse your entry, on grounds of Public Interest.\
+10. **Online Payment is NON-REFUNDABLE for visa renewal applications**
+
+### COMPLETE PAYMENT AND/OR RE-PRINT YOUR APPLICATION
+
+You can complete the online payment (fee, penalty and extra penalty) and/or re-print your visa application details if you have already filled the visa application form online. You need to login using your ***application number*** and the ***reference key*** that was provided at the time of submission.
+
+Web Application Number: \*
+
+Reference Key: \*
+
+### 2023 © Royal Oman Police

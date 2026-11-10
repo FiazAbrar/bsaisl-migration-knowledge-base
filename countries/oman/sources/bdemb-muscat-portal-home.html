@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embassy of Bangladesh, Muscat</title>
+
+    <meta name="description" content="To easily schedule or make an appointment for embassy services:">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://amardutabashmuscat.org/?lang=en">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:site_name" content="Embassy of Bangladesh, Muscat">
+    <meta property="og:title" content="Embassy of Bangladesh, Muscat | Embassy of Bangladesh, Muscat">
+    <meta property="og:description" content="To easily schedule or make an appointment for embassy services:">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amardutabashmuscat.org/?lang=en">
+    <meta property="og:image" content="https://cdn.amardutabashmuscat.org/assets/images/android-chrome-512x512.png">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Embassy of Bangladesh, Muscat | Embassy of Bangladesh, Muscat">
+    <meta name="twitter:description" content="To easily schedule or make an appointment for embassy services:">
+    <meta name="twitter:image" content="https://cdn.amardutabashmuscat.org/assets/images/android-chrome-512x512.png">
+
+        <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/vendor/bootstrap/bootstrap.min.css">
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+    <meta name="theme-color" content="#006a4e">
+
+    <!-- Bengali font (local) -->
+    <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/vendor/fonts/noto-sans-bengali/noto-sans-bengali.css">
+
+    <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/vendor/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/css/style.css">
+        <style>
+        :root {
+            /* One green across the whole product: the official flag green. */
+            --brand-deep: #04301f;
+            --brand-main: #006a4e;
+            --brand-accent: #f7b500;
+            --text-on-dark: #e9f5ef;
+            --nav-surface: #eef5f2;
+            --nav-border: rgba(0, 106, 78, 0.18);
+            --nav-hover: rgba(0, 106, 78, 0.10);
+            --nav-active: #006a4e;
+            --nav-text: #17493a;
+        }
+        .lang-only-bar {
+            position: fixed;
+            top: 8px;
+            left: 0;
+            right: 0;
+            background: transparent;
+            border: none;
+            box-shadow: none;
+            z-index: 1040;
+            pointer-events: none;
+        }
+        .lang-only-bar .lang-toggle {
+            pointer-events: auto;
+        }
+        /* Navbar Tweaks - bold top bar with soft glass effect */
+        .navbar.navbar-theme {
+            background: linear-gradient(135deg, #f9fbfa 0%, var(--nav-surface) 100%) !important;
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--nav-border);
+            box-shadow: none !important;
+        }
+        .navbar-brand img { transition: transform 0.3s ease; }
+        .navbar-brand:hover img { transform: rotate(-6deg) scale(1.05); }
+        .navbar-brand .brand-text {
+            color: var(--brand-deep);
+            font-weight: 700;
+            letter-spacing: 0.4px;
+        }
+        /* Keep navbar brand from pushing toggler on mobile */
+        .navbar .navbar-brand {
+            min-width: 0;
+            flex: 1 1 auto;
+        }
+        .navbar .navbar-brand .brand-title {
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        @media (max-width: 576px) {
+            .navbar .navbar-brand .brand-title {
+                max-width: 62vw;
+            }
+        }
+        .nav-link {
+            position: relative;
+            font-weight: 600;
+            color: var(--nav-text) !important;
+            border-radius: 12px;
+            padding: 0.55rem 0.9rem;
+            transition: all 0.25s ease;
+        }
+        .nav-link:hover,
+        .nav-link:focus {
+            color: var(--brand-deep) !important;
+            background: var(--nav-hover) !important;
+            text-decoration: none !important;
+        }
+        .nav-link.active {
+            color: #ffffff !important;
+            background: var(--nav-active) !important;
+        }
+        /* Divider before the sign-out control. Tinted to the nav, not white. */
+        .nav-divider-start { border-inline-start: 1px solid var(--nav-border); }
+        @media (max-width: 991.98px) {
+            .nav-divider-start { border-inline-start: 0; }
+        }
+        .dropdown-menu { border-radius: 12px; }
+        .dropdown-menu .dropdown-item.active,
+        .dropdown-menu .dropdown-item:active {
+            background: var(--brand-main);
+            color: #fff;
+            text-decoration: none !important;
+        }
+        .navbar-theme .navbar-toggler {
+            border-color: var(--nav-border);
+        }
+        .navbar-theme .navbar-toggler-icon {
+            filter: brightness(0.35);
+        }
+        /* Preloader */
+        #preloader {
+            position: fixed;
+            inset: 0;
+            background: rgba(255, 255, 255, 0.9);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1050;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
+        #preloader.hide { opacity: 0; visibility: hidden; }
+        .preloader-spinner {
+            width: 72px;
+            height: 72px;
+            border: 6px solid #e9ecef;
+            border-top-color: var(--brand-main);
+            border-radius: 50%;
+            animation: spin 0.9s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        /* Language toggle contrast on dark nav */
+        .lang-toggle .btn {
+            color: var(--nav-text);
+            border-color: rgba(0,106,78,0.22);
+            background: rgba(0,106,78,0.08);
+            font-weight: 600;
+        }
+        .lang-toggle .btn:hover,
+        .lang-toggle .btn:focus {
+            color: var(--brand-deep);
+            background: rgba(0,106,78,0.14);
+            border-color: rgba(0,106,78,0.40);
+        }
+        .lang-toggle .btn.active {
+            color: #ffffff;
+            background: var(--nav-active);
+            border-color: var(--nav-active);
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100 bg-light">
+
+<!-- Preloader -->
+<div id="preloader">
+    <div class="preloader-spinner" aria-label="Loading"></div>
+</div>
+
+    <div class="lang-only-bar">
+        <div class="container d-flex justify-content-end py-2">
+            <div class="btn-group btn-group-sm lang-toggle" role="group" aria-label="Language selector">
+                <a class="btn active" href="?lang=en">English</a>
+                <a class="btn " href="?lang=ar">Arabic</a>
+                <a class="btn " href="?lang=bn">Bangla</a>
+            </div>
+        </div>
+    </div>
+
+<script>
+    window.addEventListener('load', function () {
+        var loader = document.getElementById('preloader');
+        if (loader) loader.classList.add('hide');
+    });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NBF1NCEVNB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NBF1NCEVNB');
+</script>
+
+<style>
+    :root {
+        --hero-bg: linear-gradient(135deg, #006a4e 0%, #0a3d2e 48%, #0c5240 100%);
+        --hero-card: rgba(255,255,255,0.12);
+        --hero-blur: blur(14px);
+    }
+    .landing-hero {
+        position: relative;
+        overflow: hidden;
+        background: #f5f7f6;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .landing-hero::before,
+    .landing-hero::after {
+        content: '';
+        position: absolute;
+        border-radius: 40%;
+        filter: blur(60px);
+        opacity: 0.25;
+        pointer-events: none;
+    }
+    .landing-hero::before {
+        width: 420px; height: 420px;
+        background: #006a4e;
+        top: -120px; left: -80px;
+    }
+    .landing-hero::after {
+        width: 500px; height: 500px;
+        background: #f7b500;
+        bottom: -180px; right: -140px;
+    }
+    .hero-inner {
+        position: relative;
+        z-index: 1;
+        padding: 2.5rem 0;
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+    .hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 14px;
+        border-radius: 999px;
+        background: rgba(15,122,90,0.12);
+        color: #0a3d2e;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .hero-title {
+        font-size: 2.6rem;
+        line-height: 1.2;
+        color: #0a3d2e;
+    }
+    .hero-subtitle {
+        font-size: 1.1rem;
+        color: #2f3a38;
+    }
+    .cta-primary {
+        background: #006a4e;
+        border: none;
+        box-shadow: 0 10px 30px rgba(15,122,90,0.35);
+    }
+    .cta-primary:hover { background: #0c6248; }
+    .cta-ghost {
+        border: 2px solid #006a4e;
+        color: #006a4e;
+        font-weight: 700;
+    }
+    .cta-ghost:hover {
+        background: #006a4e;
+        color: #fff;
+    }
+    .hero-card {
+        background: var(--hero-card);
+        backdrop-filter: var(--hero-blur);
+        border: 1px solid rgba(255,255,255,0.2);
+        border-radius: 18px;
+        box-shadow: 0 12px 40px rgba(0,0,0,0.12);
+        color: #0a3d2e;
+    }
+    .hero-card .stat {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 8px 12px;
+        align-items: center;
+    }
+    .hero-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 12px;
+        border-radius: 12px;
+        background: rgba(255,255,255,0.85);
+        color: #0a3d2e;
+        font-weight: 700;
+    }
+    .hero-logo img {
+        height: 100px;
+        width: auto;
+        object-fit: contain;
+        filter: drop-shadow(0 6px 14px rgba(0,0,0,0.08));
+    }
+    .footer-widgets {
+        background: linear-gradient(180deg, #f7faf8 0%, #f1f7f4 100%);
+        border-top: 1px solid rgba(15,122,90,0.08);
+    }
+    .footer-card {
+        background: #ffffff;
+        border: 1px solid rgba(12,163,127,0.12);
+        border-radius: 16px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+    }
+    .footer-card .footer-title {
+        color: #0a3d2e;
+    }
+    .footer-link-item {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        border-radius: 12px;
+        transition: background 0.2s ease, transform 0.2s ease;
+    }
+    .footer-link-item:hover {
+        background: rgba(12,163,127,0.08);
+        transform: translateY(-1px);
+        text-decoration: none;
+    }
+    .footer-link-button {
+        width: 100%;
+        border: 0;
+        background: transparent;
+        color: inherit;
+        text-align: start;
+        font: inherit;
+        cursor: pointer;
+    }
+    .footer-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 10px;
+        background: rgba(12,163,127,0.08);
+        color: #006a4e;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer-meta-icon {
+        width: 40px;
+        height: 40px;
+        border-radius: 12px;
+        background: rgba(15,122,90,0.1);
+        color: #0a3d2e;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    @media (max-width: 768px) {
+        .hero-inner { padding: 2.5rem 0; }
+        .hero-title { font-size: 2rem; }
+        .hero-subtitle { font-size: 1rem; }
+    }
+</style>
+
+<section class="landing-hero">
+    <div class="container hero-inner">
+        <div class="hero-logo text-left mb-4">
+            <img src="https://cdn.amardutabashmuscat.org/assets/images/bd_logo.png" alt="Embassy of Bangladesh, Muscat logo">
+        </div>
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-7">
+                <div class="hero-badge mb-3">
+                    <i class="bi bi-building-lock"></i>
+                    Consular Service Portal                </div>
+                <h1 class="hero-title fw-bold mb-3">Embassy of Bangladesh, Muscat</h1>
+                <p class="hero-subtitle mb-4">
+                    To easily schedule or make an appointment for embassy services:                </p>
+                <div class="d-flex flex-wrap gap-3 mb-4">
+                    <a href="express-application" class="btn btn-lg text-white cta-primary px-4">
+                        <i class="bi bi-lightning-charge me-2"></i>Apply here                    </a>
+                </div>
+                <div class="d-flex flex-wrap gap-3">
+                    <span class="hero-pill"><i class="bi bi-clock-history text-success"></i>24-hour service</span>
+                    <span class="hero-pill"><i class="bi bi-shield-check text-success"></i>Secure processing</span>
+                    <span class="hero-pill"><i class="bi bi-phone text-success"></i>Mobile support</span>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="hero-card p-4 bg-white bg-opacity-80">
+                    <h5 class="fw-bold mb-3 text-uppercase text-secondary">What you can do:</h5>
+                    <div class="d-grid gap-3 mb-4">
+                        <div class="stat">
+                            <div class="text-success"><i class="bi bi-check2-circle fs-5"></i></div>
+                            <div>Select consular service</div>
+                        </div>
+                        <div class="stat">
+                            <div class="text-success"><i class="bi bi-check2-circle fs-5"></i></div>
+                            <div>Set the date and time for consular service</div>
+                        </div>
+                        <div class="stat">
+                            <div class="text-success"><i class="bi bi-check2-circle fs-5"></i></div>
+                            <div>Receive the application schedule and serial number</div>
+                        </div>
+                        <div class="stat">
+                            <div class="text-success"><i class="bi bi-check2-circle fs-5"></i></div>
+                            <div>Updates and information related to consular services</div>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center justify-content-between flex-wrap gap-3">
+                        <div class="d-flex align-items-center text-secondary small">
+                            <i class="bi bi-info-circle text-success me-2"></i>
+                            For any assistance related to consular services, contact our 'Service Cell'.                        </div>
+                        <a href="https://api.whatsapp.com/send?phone=96891980621" target="_blank" class="btn btn-success rounded-pill px-4 fw-bold shadow-sm d-flex align-items-center">
+                            <i class="bi bi-whatsapp me-2 fs-5"></i>
+                            <span>Expatriate Service Cell and Information Center</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="footer-widgets mt-5">
+    <div class="container py-5">
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+                <div class="footer-card p-4 h-100">
+                    <h5 class="footer-title fw-bold mb-3">Useful websites</h5>
+                    <div class="d-grid gap-2">
+                        <a class="footer-link-item text-decoration-none text-dark" href="https://epassport.gov.bd" target="_blank" rel="noopener">
+                            <span class="footer-icon"><i class="bi bi-link-45deg"></i></span>
+                            <span class="fw-semibold">E-Passport</span>
+                        </a>
+                        <a class="footer-link-item text-decoration-none text-dark" href="https://bdris.gov.bd/" target="_blank" rel="noopener">
+                            <span class="footer-icon"><i class="bi bi-link-45deg"></i></span>
+                            <span class="fw-semibold">Birth Registration</span>
+                        </a>
+                        <a class="footer-link-item text-decoration-none text-dark" href="https://services.nidw.gov.bd/nid-pub/" target="_blank" rel="noopener">
+                            <span class="footer-icon"><i class="bi bi-link-45deg"></i></span>
+                            <span class="fw-semibold">National Identity Card</span>
+                        </a>
+                        <a class="footer-link-item text-decoration-none text-dark" href="https://visa.gov.bd/" target="_blank" rel="noopener">
+                            <span class="footer-icon"><i class="bi bi-link-45deg"></i></span>
+                            <span class="fw-semibold">Visa application (foreign passport holders)</span>
+                        </a>
+                        <a class="footer-link-item text-decoration-none text-dark" href="https://muscat.mofa.gov.bd" target="_blank" rel="noopener">
+                            <span class="footer-icon"><i class="bi bi-link-45deg"></i></span>
+                            <span class="fw-semibold">Main embassy website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="footer-card p-4 h-100">
+                    <p class="text-secondary small mb-3">Booked a schedule? Or lost your appointment slip?</p>
+                    <a href="slip-lookup" class="btn btn-lg cta-ghost px-4 w-100 mb-3">
+                        <i class="bi bi-printer me-2"></i>Download slip                    </a>
+                    <div class="border-top pt-3 mt-2">
+                        <div class="d-flex justify-content-between align-items-center gap-2 mb-2">
+                            <div class="fw-bold text-dark mb-0">Important notices</div>
+                            <a href="/notices" class="btn btn-sm btn-outline-success rounded-pill px-3">
+                                View all                            </a>
+                        </div>
+                        <ul class="list-unstyled d-grid gap-2 mb-0 text-muted small">
+                                                                                                                        <li>
+                                                                            <a
+                                            class="footer-link-item text-decoration-none text-dark"
+                                            href="https://drive.google.com/file/d/1FGnNx_G9rcQjfCZjPl6n0fYKl89elLhs/view"
+                                            target="_blank"                                            rel="noopener"                                        >
+                                            <span class="footer-icon flex-shrink-0"><i class="bi bi-link-45deg"></i></span>
+                                            <span class="fw-semibold">List of all consular fees</span>
+                                        </a>
+                                                                    </li>
+                                                                                            <li>
+                                                                            <a
+                                            class="footer-link-item text-decoration-none text-dark"
+                                            href="https://drive.google.com/file/d/1ODjJj8Gnd_Ygz8hoXfijBKsx6OWDq80p/view"
+                                            target="_blank"                                            rel="noopener"                                        >
+                                            <span class="footer-icon flex-shrink-0"><i class="bi bi-link-45deg"></i></span>
+                                            <span class="fw-semibold">Circular of consular fees scheduling</span>
+                                        </a>
+                                                                    </li>
+                                                                                            <li>
+                                                                            <a
+                                            class="footer-link-item text-decoration-none text-dark"
+                                            href="https://drive.google.com/file/d/10usVSWtNfKkJoj-udGlRTgjiqcC9Qe19/view"
+                                            target="_blank"                                            rel="noopener"                                        >
+                                            <span class="footer-icon flex-shrink-0"><i class="bi bi-link-45deg"></i></span>
+                                            <span class="fw-semibold">Circular of consular fees payment via bank transfer</span>
+                                        </a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-4">
+                <div class="footer-card p-4 h-100">
+                    <h5 class="footer-title fw-bold mb-3">Contact</h5>
+                    <div class="d-flex align-items-start gap-3 mb-3">
+                        <span class="footer-meta-icon"><i class="bi bi-geo-alt"></i></span>
+                        <div>
+                            <div class="fw-semibold text-dark">Embassy of Bangladesh, Muscat</div>
+                            <div class="text-muted small">Villa 3126 A-B, Way 3040, Shati Al Qurum</div>
+                            <div class="text-muted small">Muscat, Sultanate of Oman</div>
+                            <a class="fw-semibold link-success small" target="_blank" rel="noopener" href="https://maps.google.com/?q=Embassy+of+Bangladesh+Muscat">
+                                View on map <i class="bi bi-arrow-up-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start gap-3 mb-3">
+                        <span class="footer-meta-icon"><i class="bi bi-clock-history"></i></span>
+                        <div class="small text-muted">
+                            <div class="fw-semibold text-dark mb-1">Embassy working hours</div>
+                            <div>Sunday – Thursday (8:00 AM – 4:00 PM)</div>
+                            <div>Friday: Closed</div>
+                            <div>Saturday: Closed (passport delivery only)</div>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start gap-3">
+                        <span class="footer-meta-icon"><i class="bi bi-telephone-outbound"></i></span>
+                        <div class="small text-muted">
+                            <a class="btn btn-outline-success btn-md d-inline-flex align-items-center gap-2"
+                               href="https://drive.google.com/file/d/1gzKHAL0oppQ34yZHRsu8dmapAY2VmEHo/view" target="_blank" rel="noopener">
+                                <i class="bi bi-link-45deg"></i>
+                                Expatriate Service Cell and Information Center                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="modal fade" id="noticePreviewModal" tabindex="-1" aria-labelledby="noticePreviewLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+            <div class="modal-header">
+                <h5 class="modal-title fw-bold" id="noticePreviewLabel">Important notices</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img src="" alt="" id="noticePreviewImage" class="img-fluid rounded border" style="max-height: 75vh; object-fit: contain;">
+            </div>
+            <div class="modal-footer">
+                <a href="#" id="noticePreviewDownload" class="btn btn-success" target="_blank" rel="noopener">
+                    <i class="bi bi-download me-1"></i>Download notice                </a>
+                <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const modalEl = document.getElementById('noticePreviewModal');
+    const previewImage = document.getElementById('noticePreviewImage');
+    const previewTitle = document.getElementById('noticePreviewLabel');
+    const previewDownload = document.getElementById('noticePreviewDownload');
+
+    document.querySelectorAll('[data-notice-preview]').forEach(function (trigger) {
+        trigger.addEventListener('click', function () {
+            if (!modalEl || !window.bootstrap) {
+                return;
+            }
+
+            const title = trigger.getAttribute('data-notice-title') || '';
+            previewTitle.textContent = title;
+            previewImage.src = trigger.getAttribute('data-notice-preview') || '';
+            previewImage.alt = title;
+            previewDownload.href = trigger.getAttribute('data-notice-download') || '#';
+
+            bootstrap.Modal.getOrCreateInstance(modalEl).show();
+        });
+    });
+
+    if (modalEl) {
+        modalEl.addEventListener('hidden.bs.modal', function () {
+            previewImage.src = '';
+            previewImage.alt = '';
+            previewDownload.href = '#';
+        });
+    }
+});
+</script>
+
+<style>
+    .site-footer {
+        background: linear-gradient(180deg, #f7faf8 0%, #f1f7f4 100%);
+    }
+</style>
+
+<footer class="site-footer text-center py-4 text-muted border-top">
+    <div class="d-flex flex-column flex-md-row justify-content-center align-items-center gap-2">
+        <small class="text-muted"> &copy; 2025-2026 &middot; Embassy of Bangladesh, Muscat</small>
+    </div>
+</footer>
+
+<script src="https://cdn.amardutabashmuscat.org/assets/vendor/bootstrap/bootstrap.bundle.min.js"></script>
+</body>
+</html>

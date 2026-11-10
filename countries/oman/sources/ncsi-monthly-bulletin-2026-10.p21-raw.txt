@@ -1,0 +1,51 @@
+21 2026
+ 
+Changes %
+2026 2026
+( -
+)
+(Sep - Sep)
+(26/25) Sep Aug
+1- by Sector No.  1
+-
+ 
+Government -4.6 39,891 39,626 42,849 
+Private 0.9 1,421,478 1,408,882 1,411,467 
+Family 7.6 382,938 381,638 355,148 
+Communal 29.5 9,195 8,659 5,801 
+Other -0.5 939 908 920 
+Total Workers 2.2 1,854,441 1,839,713 1,816,185  
+2- by Nationality 2
+-
+ 
+Bangladeshis -3.4 599,070 597,221 612,208 
+Indians 2.3 529,810 533,085 520,447 
+Pakistanis -7.1 282,986 281,551 296,459 
+Egyptians 16.8 58,282 55,829 52,411 
+Philipinos -3.4 43,275 43,647 44,604 
+Myanmar 3.0 38,518 38,079 37,871  
+Sri Lankans -5.8 20,782 20,785 21,392 
+Sudanese -12.2 17,872 17,208 19,819 
+Tanzanian 9.7 29,362 30,081 27,800 
+Other Nationalities 36.8 234,484 222,227 183,174  
+Total Workers 2.2 1,854,441 1,839,713 1,816,185  
+3- by Governorates 3
+-
+ 
+Muscat 2.6 694,434 689,744 681,272 
+Dhofar 1.0 219,795 216,324 216,155 
+Musandam -0.6 14,567 14,571 14,739 
+Al-Buraymi -0.1 43,047 42,657 42,289 
+Ad-Dakhliyah 6.8 141,640 139,156 134,480 
+Al - Batinah North 2.3 281,250 279,178 273,770  
+Al - Batinah South 2.0 166,630 165,714 165,864  
+Ash-Sharqiyah South 1.1 108,166 107,797 105,282  
+Ash-Sharqiyah North -2.3 92,299 92,454 92,390  
+Adh - Dhahirah 0.7 57,930 57,977 57,133 
+Al - Wusta 6.4 34,683 34,141 32,811 
+Total Workers 2.2 1,854,441 1,839,713 1,816,185  
+18
+18 - Expatriates Workers
+Item 2025 
+ 
+

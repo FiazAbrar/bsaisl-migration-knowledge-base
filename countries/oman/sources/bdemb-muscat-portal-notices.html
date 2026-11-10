@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="bn" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embassy of Bangladesh, Muscat</title>
+
+    <meta name="description" content="Embassy of Bangladesh, Muscat — Embassy services portal.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://amardutabashmuscat.org/notices">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:site_name" content="Embassy of Bangladesh, Muscat">
+    <meta property="og:title" content="Embassy of Bangladesh, Muscat">
+    <meta property="og:description" content="Embassy of Bangladesh, Muscat — Embassy services portal.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amardutabashmuscat.org/notices">
+    <meta property="og:image" content="https://cdn.amardutabashmuscat.org/assets/images/android-chrome-512x512.png">
+    <meta property="og:locale" content="bn_BD">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Embassy of Bangladesh, Muscat">
+    <meta name="twitter:description" content="Embassy of Bangladesh, Muscat — Embassy services portal.">
+    <meta name="twitter:image" content="https://cdn.amardutabashmuscat.org/assets/images/android-chrome-512x512.png">
+
+        <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/vendor/bootstrap/bootstrap.min.css">
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.amardutabashmuscat.org/assets/images/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+    <meta name="theme-color" content="#006a4e">
+
+    <!-- Bengali font (local) -->
+    <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/vendor/fonts/noto-sans-bengali/noto-sans-bengali.css">
+
+    <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/vendor/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.amardutabashmuscat.org/assets/css/style.css">
+        <style>
+        :root {
+            /* One green across the whole product: the official flag green. */
+            --brand-deep: #04301f;
+            --brand-main: #006a4e;
+            --brand-accent: #f7b500;
+            --text-on-dark: #e9f5ef;
+            --nav-surface: #eef5f2;
+            --nav-border: rgba(0, 106, 78, 0.18);
+            --nav-hover: rgba(0, 106, 78, 0.10);
+            --nav-active: #006a4e;
+            --nav-text: #17493a;
+        }
+        .lang-only-bar {
+            position: fixed;
+            top: 8px;
+            left: 0;
+            right: 0;
+            background: transparent;
+            border: none;
+            box-shadow: none;
+            z-index: 1040;
+            pointer-events: none;
+        }
+        .lang-only-bar .lang-toggle {
+            pointer-events: auto;
+        }
+        /* Navbar Tweaks - bold top bar with soft glass effect */
+        .navbar.navbar-theme {
+            background: linear-gradient(135deg, #f9fbfa 0%, var(--nav-surface) 100%) !important;
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--nav-border);
+            box-shadow: none !important;
+        }
+        .navbar-brand img { transition: transform 0.3s ease; }
+        .navbar-brand:hover img { transform: rotate(-6deg) scale(1.05); }
+        .navbar-brand .brand-text {
+            color: var(--brand-deep);
+            font-weight: 700;
+            letter-spacing: 0.4px;
+        }
+        /* Keep navbar brand from pushing toggler on mobile */
+        .navbar .navbar-brand {
+            min-width: 0;
+            flex: 1 1 auto;
+        }
+        .navbar .navbar-brand .brand-title {
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        @media (max-width: 576px) {
+            .navbar .navbar-brand .brand-title {
+                max-width: 62vw;
+            }
+        }
+        .nav-link {
+            position: relative;
+            font-weight: 600;
+            color: var(--nav-text) !important;
+            border-radius: 12px;
+            padding: 0.55rem 0.9rem;
+            transition: all 0.25s ease;
+        }
+        .nav-link:hover,
+        .nav-link:focus {
+            color: var(--brand-deep) !important;
+            background: var(--nav-hover) !important;
+            text-decoration: none !important;
+        }
+        .nav-link.active {
+            color: #ffffff !important;
+            background: var(--nav-active) !important;
+        }
+        /* Divider before the sign-out control. Tinted to the nav, not white. */
+        .nav-divider-start { border-inline-start: 1px solid var(--nav-border); }
+        @media (max-width: 991.98px) {
+            .nav-divider-start { border-inline-start: 0; }
+        }
+        .dropdown-menu { border-radius: 12px; }
+        .dropdown-menu .dropdown-item.active,
+        .dropdown-menu .dropdown-item:active {
+            background: var(--brand-main);
+            color: #fff;
+            text-decoration: none !important;
+        }
+        .navbar-theme .navbar-toggler {
+            border-color: var(--nav-border);
+        }
+        .navbar-theme .navbar-toggler-icon {
+            filter: brightness(0.35);
+        }
+        /* Preloader */
+        #preloader {
+            position: fixed;
+            inset: 0;
+            background: rgba(255, 255, 255, 0.9);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1050;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
+        #preloader.hide { opacity: 0; visibility: hidden; }
+        .preloader-spinner {
+            width: 72px;
+            height: 72px;
+            border: 6px solid #e9ecef;
+            border-top-color: var(--brand-main);
+            border-radius: 50%;
+            animation: spin 0.9s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        /* Language toggle contrast on dark nav */
+        .lang-toggle .btn {
+            color: var(--nav-text);
+            border-color: rgba(0,106,78,0.22);
+            background: rgba(0,106,78,0.08);
+            font-weight: 600;
+        }
+        .lang-toggle .btn:hover,
+        .lang-toggle .btn:focus {
+            color: var(--brand-deep);
+            background: rgba(0,106,78,0.14);
+            border-color: rgba(0,106,78,0.40);
+        }
+        .lang-toggle .btn.active {
+            color: #ffffff;
+            background: var(--nav-active);
+            border-color: var(--nav-active);
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100 bg-light">
+
+<!-- Preloader -->
+<div id="preloader">
+    <div class="preloader-spinner" aria-label="Loading"></div>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-light navbar-theme shadow-sm sticky-top">
+  <div class="container">
+    
+    <a class="navbar-brand d-flex align-items-center gap-2" href="index">
+        <img src="https://cdn.amardutabashmuscat.org/assets/images/bd_logo.png" alt="Logo" class="rounded" style="width: 32px; height: 32px; object-fit: contain;">
+        <span class="brand-title fw-bold d-none d-md-block" style="color: var(--brand-main); font-size: 1.1rem;">Embassy of Bangladesh, Muscat</span>
+        <span class="brand-title fw-bold d-block d-md-none" style="color: var(--brand-main);">Embassy of Bangladesh, Muscat</span>
+    </a>
+
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto align-items-center">
+
+        
+        <!-- Language toggles (show in admin only if explicitly changed) -->
+                
+        <!-- Language toggles (always visible in frontend) -->
+                <li class="nav-item ms-lg-3">
+            <div class="btn-group btn-group-sm lang-toggle" role="group" aria-label="Language selector">
+                <a class="btn " href="?lang=en">English</a>
+                <a class="btn " href="?lang=ar">Arabic</a>
+                <a class="btn active" href="?lang=bn">Bangla</a>
+            </div>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<script>
+    window.addEventListener('load', function () {
+        var loader = document.getElementById('preloader');
+        if (loader) loader.classList.add('hide');
+    });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NBF1NCEVNB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NBF1NCEVNB');
+</script>
+
+<style>
+    .notices-page {
+        background: linear-gradient(180deg, #f7faf8 0%, #eef6f2 100%);
+    }
+    .notices-hero {
+        background: #ffffff;
+        border: 1px solid rgba(12, 163, 127, 0.12);
+        border-radius: 20px;
+        box-shadow: 0 18px 40px rgba(0, 0, 0, 0.06);
+    }
+    .notice-item-card {
+        background: #ffffff;
+        border: 1px solid rgba(12, 163, 127, 0.12);
+        border-radius: 18px;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.04);
+    }
+    .notice-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 0.35rem 0.75rem;
+        border-radius: 999px;
+        font-size: 0.82rem;
+        font-weight: 700;
+    }
+    .notice-badge.featured {
+        background: rgba(247, 181, 0, 0.18);
+        color: #8a6400;
+    }
+    .notice-badge.source {
+        background: rgba(12, 163, 127, 0.12);
+        color: #006a4e;
+    }
+    .notice-action-btn {
+        min-width: 140px;
+    }
+</style>
+
+<section class="notices-page py-5">
+    <div class="container">
+        <div class="notices-hero p-4 p-lg-5 mb-4">
+            <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-center gap-3">
+                <div>
+                    <h1 class="fw-bold text-primary mb-2">গুরুত্বপূর্ণ নোটিশসমূহ</h1>
+                    <p class="text-muted mb-0">দূতাবাসের অফিসিয়াল বিজ্ঞপ্তি, ফি সংক্রান্ত নির্দেশনা এবং আপলোড করা নোটিশসমূহ।</p>
+                </div>
+                <a href="/index" class="btn btn-outline-success rounded-pill px-4">
+                    <i class="bi bi-arrow-left me-1"></i>হোমে ফিরুন                </a>
+            </div>
+        </div>
+
+        
+        <div class="d-grid gap-3">
+                                            <div class="notice-item-card p-4">
+                    <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-start gap-3">
+                        <div class="flex-grow-1">
+                            <div class="d-flex flex-wrap align-items-center gap-2 mb-3">
+                                                                    <span class="notice-badge featured"><i class="bi bi-star-fill"></i>বিশেষ</span>
+                                                                <span class="notice-badge source">বহিরাগত লিংক</span>
+                            </div>
+                            <h2 class="h5 fw-bold text-dark mb-2">দূতাবাস সংশ্লিষ্ট সকল প্রকার সেবার ফি এর তালিকা</h2>
+                            <div class="small text-muted">2026-03-10 00:36:29</div>
+                        </div>
+
+                        <div class="d-flex flex-wrap gap-2">
+                                                            <a
+                                    class="btn btn-success notice-action-btn"
+                                    href="https://drive.google.com/file/d/1FGnNx_G9rcQjfCZjPl6n0fYKl89elLhs/view"
+                                    target="_blank"                                    rel="noopener"                                >
+                                    <i class="bi bi-box-arrow-up-right me-1"></i>নোটিশ খুলুন                                </a>
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                            <div class="notice-item-card p-4">
+                    <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-start gap-3">
+                        <div class="flex-grow-1">
+                            <div class="d-flex flex-wrap align-items-center gap-2 mb-3">
+                                                                    <span class="notice-badge featured"><i class="bi bi-star-fill"></i>বিশেষ</span>
+                                                                <span class="notice-badge source">বহিরাগত লিংক</span>
+                            </div>
+                            <h2 class="h5 fw-bold text-dark mb-2">দূতাবাস সংশ্লিষ্ট সকল কনস্যুলার সেবার জন্য সিডিউল গ্রহণ বিষয়ক বিজ্ঞপ্তি</h2>
+                            <div class="small text-muted">2026-03-10 00:36:29</div>
+                        </div>
+
+                        <div class="d-flex flex-wrap gap-2">
+                                                            <a
+                                    class="btn btn-success notice-action-btn"
+                                    href="https://drive.google.com/file/d/1ODjJj8Gnd_Ygz8hoXfijBKsx6OWDq80p/view"
+                                    target="_blank"                                    rel="noopener"                                >
+                                    <i class="bi bi-box-arrow-up-right me-1"></i>নোটিশ খুলুন                                </a>
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                            <div class="notice-item-card p-4">
+                    <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-start gap-3">
+                        <div class="flex-grow-1">
+                            <div class="d-flex flex-wrap align-items-center gap-2 mb-3">
+                                                                    <span class="notice-badge featured"><i class="bi bi-star-fill"></i>বিশেষ</span>
+                                                                <span class="notice-badge source">বহিরাগত লিংক</span>
+                            </div>
+                            <h2 class="h5 fw-bold text-dark mb-2">দূতাবাস সংশ্লিষ্ট সকল প্রকার সেবার ফি সমূহ ব্যাংকের মাধ্যমে প্রদান বিষয়ক বিজ্ঞপ্তি</h2>
+                            <div class="small text-muted">2026-03-10 00:36:29</div>
+                        </div>
+
+                        <div class="d-flex flex-wrap gap-2">
+                                                            <a
+                                    class="btn btn-success notice-action-btn"
+                                    href="https://drive.google.com/file/d/10usVSWtNfKkJoj-udGlRTgjiqcC9Qe19/view"
+                                    target="_blank"                                    rel="noopener"                                >
+                                    <i class="bi bi-box-arrow-up-right me-1"></i>নোটিশ খুলুন                                </a>
+                            
+                                                    </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</section>
+
+<div class="modal fade" id="noticePreviewModal" tabindex="-1" aria-labelledby="noticePreviewLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+            <div class="modal-header">
+                <h5 class="modal-title fw-bold" id="noticePreviewLabel">গুরুত্বপূর্ণ নোটিশসমূহ</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="বন্ধ"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img src="" alt="" id="noticePreviewImage" class="img-fluid rounded border" style="max-height: 75vh; object-fit: contain;">
+            </div>
+            <div class="modal-footer">
+                <a href="#" id="noticePreviewDownload" class="btn btn-success" target="_blank" rel="noopener">
+                    <i class="bi bi-download me-1"></i>নোটিশ ডাউনলোড                </a>
+                <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">বন্ধ</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const modalEl = document.getElementById('noticePreviewModal');
+    const previewImage = document.getElementById('noticePreviewImage');
+    const previewTitle = document.getElementById('noticePreviewLabel');
+    const previewDownload = document.getElementById('noticePreviewDownload');
+
+    document.querySelectorAll('[data-notice-preview]').forEach(function (trigger) {
+        trigger.addEventListener('click', function () {
+            if (!modalEl || !window.bootstrap) {
+                return;
+            }
+
+            const title = trigger.getAttribute('data-notice-title') || '';
+            previewTitle.textContent = title;
+            previewImage.src = trigger.getAttribute('data-notice-preview') || '';
+            previewImage.alt = title;
+            previewDownload.href = trigger.getAttribute('data-notice-download') || '#';
+
+            bootstrap.Modal.getOrCreateInstance(modalEl).show();
+        });
+    });
+
+    if (modalEl) {
+        modalEl.addEventListener('hidden.bs.modal', function () {
+            previewImage.src = '';
+            previewImage.alt = '';
+            previewDownload.href = '#';
+        });
+    }
+});
+</script>
+
+<style>
+    .site-footer {
+        background: linear-gradient(180deg, #f7faf8 0%, #f1f7f4 100%);
+    }
+</style>
+
+<footer class="site-footer text-center py-4 text-muted border-top">
+    <div class="d-flex flex-column flex-md-row justify-content-center align-items-center gap-2">
+        <small class="text-muted"> &copy; 2025-2026 &middot; Embassy of Bangladesh, Muscat</small>
+    </div>
+</footer>
+
+<script src="https://cdn.amardutabashmuscat.org/assets/vendor/bootstrap/bootstrap.bundle.min.js"></script>
+</body>
+</html>
