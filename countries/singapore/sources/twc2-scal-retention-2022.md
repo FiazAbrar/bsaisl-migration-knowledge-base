@@ -1,0 +1,696 @@
+# Difficulties getting aboard the SCAL retention scheme
+
+[webmaster](https://twc2.org.sg/author/webmaster/ "Posts by webmaster")2022-02-14T20:57:00+08:00February 14th, 2022\|[Articles](https://twc2.org.sg/category/articles/), [Facts, research, analysis](https://twc2.org.sg/category/articles/research/), [Our Stand](https://twc2.org.sg/category/news/our-stand/), [Stories](https://twc2.org.sg/category/articles/stories/)\|
+
+![](https://twc2.sg/wp-content/uploads/2022/02/boarding_ss_scalscmx.gif "boarding_ss_scalscmx")
+
+In a just-completed review of 30 cases of construction workers trying to get into the SCAL retention scheme, we identified the major difficulties that workers faced when trying to move on to a new job after losing the previous one. Chiefly we found employers doing their utmost to scupper workers’ hopes of joining the scheme, exacerbated by confusion and bad advice by both SCAL and the Ministry of Manpower’s frontline officers. This messiness then produced a tremendous workload for more senior officers at MOM as they had to rectify the problems.
+
+In turn, the strain on capacity throughout the system allowed several cases to go unattended, further compounding the inefficiency of the retention scheme. We came across several workers who, in the absence of help, gave up and went home instead of staying on in Singapore — which would have been the best outcome for Singapore and the men themselves.
+
+SCAL stands for “Singapore Contractors Association Limited”. Strictly speaking, the scheme is called Singapore Construction Manpower Exchange (SCMX), but because it is run by SCAL, we more often hear of it referred to as the “SCAL retention scheme”. This is the term we will use in this article.
+
+### Background
+
+This retention scheme was [announced by the Ministry of Manpower (MOM) on 13 August 2021](https://www.mom.gov.sg/newsroom/press-releases/2021/0813-new-measures-to-facilitate-retention-and-hiring-of-wph-in-the-cmp-sectors) as a **temporary measure until 28 February 2022** to alleviate a manpower shortage in the construction industry. The shortage was due to the closure of borders during the Covid-19 pandemic. Throughout the pandemic, men were continually being sent home by employers, but other employers who needed extra hands could not get workers from abroad. [TWC2’s letter published in the Straits Times in May 2021](https://twc2.sg/2021/05/24/letter-in-straits-times-allow-foreign-workers-whose-work-permits-have-been-cancelled-to-stay-and-look-for-new-job/) pointed to the absurdity of MOM sticking to its policy of giving employers complete power to repatriate workers when the national interest was crying out for retention. Before that, there were several commentaries at this site urging a reversal of the repatriation policy. See this article [Short of foreign labour, Singapore sending workers home even when they want to stay and work](https://twc2.sg/2021/05/23/short-of-foreign-labour-singapore-sending-workers-home-even-when-they-want-to-stay-and-work/), this article [Nearly 8,000 foreign construction workers had permits cancelled close to expiry date](https://twc2.sg/2021/04/06/nearly-8000-foreign-construction-workers-had-permits-cancelled-close-to-expiry-date/) and [Manpower shortage and our kafala system](https://twc2.sg/2021/05/16/manpower-shortage-and-our-kafala-system/).
+
+In the last of the referenced articles, we wrote:
+
+> It should be as obvious as day that employers should not be permitted to repatriate workers at will. Not only is spite a common motivator for cancelling work permits (spite should never be legitimised by State policy), to then let their actions flow over to hurt Singapore’s interest — exacerbating a shortage of foreign manpower — is mind-blowingly self-defeating.
+>
+> Every migrant worker should get a reasonable chance at landing a new job without first having to go home.
+
+Earlier, in December 2020, we also wrote about the absurdity of spending taxpayers’ money vaccinating foreign workers and then letting employers repatriate them. See: [Policy incoherence: vaccination and repatriation](https://twc2.sg/2020/12/26/policy-incoherence-vaccination-and-repatriation/).
+
+MOM’s 13 August press release had only one paragraph about the proposed SCAL retention scheme. That paragraph said,
+
+> The Government will partner the Singapore Contractors Association Ltd (SCAL) to introduce a six-month retention scheme (1 September 2021 till 28 February 2022) for experienced construction WPHs whose previous employment has been terminated.
+
+WPH stands for work permit holder. Channel NewsAsia had a few more details in its [story (13 August 2021)](https://www.channelnewsasia.com/singapore/covid-19-mom-introduces-measures-retain-workers-construction-shipyard-2110276) which said,
+
+> The Government will also partner the Singapore Contractors Association Ltd (SCAL) to introduce a six-month retention scheme from Sep 1, 2021 to Feb 28, 2022 for experienced construction work permit holders whose previous employment has been terminated.
+>
+> Migrant workers whose work permits are cancelled or have expired, and wish to continue to work in Singapore, are eligible for the scheme.
+>
+> Workers who wish to continue working in Singapore will be granted a 30-day stay during which SCAL will provide housing, food and other necessities while they search for employment.
+>
+> The worker will start work if a job match is found, failing which, he will return to his home country. SCAL will arrange for the migrant worker’s return to his home country and will bear the cost of repatriation, it said.
+
+### Extended to Marine shipyard and Process sectors
+
+A further [press release from MOM on 30 October 2021](https://www.mom.gov.sg/newsroom/press-releases/2021/1029-new-measures-to-support-retention-of-wphs-in-cmp-sectors) announced a scheme analogous to SCAL’s for work permit holders in the marine shipyard and process industries. Instead of being run by SCAL, these other retention schemes would be run by the Association of Singapore Marine Industries (ASMI) and the Association of Process Industry (ASPRI).
+
+#### With 14 days left, complete silence about policies for March 2022 and beyond
+
+The SCAL retention scheme was announced as a temporary measure to 28 February 2022. This article is dated 14 February, only fourteen days away from its end. Yet, as of this afternoon, there has been no announcement from the Ministry of Manpower what policies will apply from 1 March 2022. This delay only sets the stage for more confusion and anxiety.
+
+### Publicity
+
+MOM and SCAL publicised the scheme through a poster on social media, and many workers quickly came to know about it.
+
+![](https://twc2.sg/wp-content/uploads/2022/02/scal_thirty_men_as85.png "scal_thirty_men_as85")
+
+*A digital poster circulated by MOM and SCAL publicising the retention scheme.*
+
+Our helplines lit up with messages (and questions) from workers about the scheme. Before long, we were hearing of problems. But first, we wanted to know if the scheme was even operating to some degree of success, and to do that we followed six workers who enrolled quite early into the scheme. Our conclusions from the experiences of these six workers can be seen in the article [At last, a (temporary) scheme to retain construction workers — more dirigiste allocation than real choice (3 Nov 2021)](https://twc2.sg/2021/11/03/at-last-a-temporary-scheme-to-retain-construction-workers-more-dirigiste-allocation-than-real-choice/).
+
+These six workers are not included in this article’s review of 30 cases.
+
+Over the following months, TWC2 was in touch with several more workers and we learned that the programme had several distressing features, for example,
+
+- The worker is strictly confined to SCAL’s accommodation and not allowed to leave the dorm for the duration of his job-matching. This is a severe violation of human rights for which Singapore should be gaslighted.
+
+&nbsp;
+
+- The worker is not allowed to seek another job on his own while on SCAL’s scheme. This limits his opportunities, reduces the efficacy of job switching, and adds to labour market inflexibility.
+
+&nbsp;
+
+- The worker is not allowed to choose his employer or negotiate the salary – see the WhatsApp exchange below between a certain “Jen” from SCAL and a worker wanting to join the retention scheme.
+
+![](https://twc2.sg/wp-content/uploads/2022/02/scal_thirtymen_terms_n_condtions.jpg "scal_thirtymen_terms_n_condtions")
+
+*A WhatsApp conversation between a worker (name redacted) and a certain ‘Jen’ from SCAL that took place in early December 2021.*
+
+Appalling though these conditions may be – not a lot different from treating workers as livestock in a cattle auction — these aspects are however outside the scope of this article. **Here we just wish to document the difficulties of workers trying to get into the retention scheme at all.**
+
+### The thirty men
+
+The summary table below lists the 30 cases on which this review is based. TWC2 saw more than just these 30 in relation to the SCAL retention scheme, but these are the 30 for which we have sufficient detail from start to finish of their journey.
+
+We have grouped the 30 men into seven categories, based on the nature of the difficulties they encountered.
+
+![](https://twc2.sg/wp-content/uploads/2022/02/scal_thirtymen_summarytable.gif "scal_thirtymen_summarytable")
+
+In the appendix below are the brief details of each of these men’s cases, illustrating the particular obstacles they faced. It’s not really necessary to read the appendix, for we will broadly discuss the seven different categories next.
+
+### Group B: On the eve of the scheme
+
+The first two workers in the summary table above (Hasan and Polash are their pseudonyms) were unfortunate in that their work permits were cancelled just before the scheme started up. They noticed that their work permits had been cancelled in mid August 2021, a few days after MOM’s announcement of the retention scheme on 13 August.
+
+The employer might have wanted to ensure that they would not benefit from the scheme which would only begin on 1 September 2021.
+
+TWC2 tried to help them by asking MOM to be sympathetic and put them into the scheme anyway, but we did not get any reply at all. Both men were sent home.
+
+### Group C: Denied admission into the scheme
+
+Three men were denied admission into the scheme. As can be seen from the details in the appendix, there is no commonality among the three cases except for the fact that MOM was quite non-transparent about how they arrived at their decisions.
+
+In one of the three cases, Masud’s, we were left with the feeling that he was a victim of a false police report made against him by the employer. This is not uncommon. The case of the domestic worker Parti Liyani immediately comes to mind. See this [Straits Times story, 4 Nov 2020: Timeline of events: How the Parti Liyani case unfolded](https://www.straitstimes.com/singapore/timeline-of-events-how-the-parti-liyani-case-unfolded).
+
+In the other two cases, without being provided more details why MOM denied them admission into the retention scheme, it is not possible to say where the truth may lie.
+
+### Group D: Employer tried to frustrate retention and TWC2 had to get MOM higher-ups to intervene
+
+There were six cases where we could see an attempt by the employer to frustrate the worker’s chance to join the retention scheme. It mostly takes the form of buying a flight ticket immediately to get him out of the country before he had much of a chance to approach the authorities.
+
+This is actually against the rules. Below is a screenshot from an FAQ on MOM’s website:
+
+![](https://twc2.sg/wp-content/uploads/2022/02/scal_thirtymen_flight.gif "scal_thirtymen_flight")
+
+The above image is from [https://www.mom.gov.sg/covid-19/frequently-asked-questions/temporary-scheme-to-help-businesses](https://www.mom.gov.sg/covid-19/frequently-asked-questions/temporary-scheme-to-help-businesses), accessed 13 Feb 2022.
+
+In a different part of the same FAQ, it is also stated that there will be no reimbursement of the unused flight ticket if it is purchased without first getting clearance from MOM and SCAL.
+
+In all these six cases of Group D, however, TWC2’s intervention made a difference. We overcame the employers’ attempts to repatriate the workers by alerting MOM. Nonetheless, the question that the six cases brings to the fore is this: Were the employers penalised for flouting the rule and buying flight tickets prematurely?
+
+It should also be noted that MOM designed a system that makes it easy for employers to be dishonest and try to get away with it. It’s like this: When an employer goes online to cancel a work permit, the employer is asked to choose between two reasons: “Employer no longer needs worker” or “Worker wants to go home”. An honourable employer would ask the worker whether he wanted to stay on in Singapore to get another job and select a reason accordingly, but nothing is really stopping an employer from choosing “Worker wants to go home” even if untrue.
+
+MOM’s FAQ adds that upon the cancellation of the Work Permit, the worker will receive an SMS from MOM to inform him of the cancellation and confirm his intention to return home. A worker would thus have a chance to challenge his employer’s stated reason for cancellation. However, there is bureaucratic lag time – e.g. MOM is closed over the weekends – and if the flight date is soon enough, the worker will be left with no assurance that he could ignore the ticket before he was due to fly out.
+
+Moreover, it appears that SMSes are only sent to workers whose work permits were cancelled. What about those whose work permits were not renewed (i.e. expired)? What system is there for MOM to check that he is not being repatriated even when he’d rather stay and find a new job?
+
+In one of thirty short-listed cases (F8 Thidur) the employer bought the ticket with a deparure date five days later, but blatantly told the worker that he would not give the worker the ticket till the day before departure, nor would he cancel the work permit till hours before departure. Why would an employer plan this course of action? We reckon that the employer expected the worker to complain to MOM about premature termination and forced repatriation, but should he do so, the MOM officer checking their computer system would find that the work permit had not been cancelled and no ticket had yet been bought. The MOM officer would likely dismiss the worker’s complaint as untrue and not provide any assistance.
+
+These cases show that even though a retention scheme is operating, there are employers doing all they can to scupper their workers’ right to a transfer. Given this degree of resistance, it becomes all the more important that processes be designed to minimise uncertainty and the exercise of discretion. Making the process as automatic as possible, making rights clear, and making sure all frontline officers at MOM and SCAL are on the same page become crucially important to the success of the scheme. It also avoids a situation where senior officers at MOM have to intervene repeatedly to clear obstacles created by others.
+
+### Group E: SCAL/MOM officers gave bad advice and TWC2 had to get MOM higher-ups to intervene
+
+Another six cases point to poor customer service at SCAL and MOM. In these cases, SCAL and MOM officers at first told the workers that they were not eligible for the retention scheme for one of these three reasons:
+
+1\. Worker not eligible because employer had not consented that he could join the retention scheme.
+
+**Rubbish! No consent from the employer is needed.**
+
+2\. Work permit had expired naturally. It was not prematurely cancelled. Only workers whose permits were cancelled were eligible.
+
+**Rubbish! From the very outset it was clear that non-renewal (i.e. expiry) and cancellation both made the worker eligible.**
+
+3\. Worker could not join the retention scheme because the employer had already bought a flight ticket.
+
+**Rubbish! As detailed above, employers were not supposed to buy tickets without first getting clearance from SCAL and MOM.** To use this reason to deny a worker admission into the retention scheme would only serve to endorse the tricks that employers use to frustrate retention.
+
+In each case, TWC2 had to write to MOM to raise the issue with a senior manager in order to get the bad advice and decisions of SCAL’s and MOM’s frontliners reversed.
+
+This only shows the weaknesses at SCAL and the ministry when it comes to implementing their own schemes. Frontliners are confused and misinterpret the rules and senior officers have to fight fires to rectify problems — not a sterling example of efficiency and top-class management.
+
+In some of these cases, the workers knew better than SCAL and MOM frontline officers. They could read MOM’s publicity poster (imaged above) for themselves and they knew they were eligible even though officials said they were not. Confiding in TWC2, these guys expressed amazement at how shoddy the service was at MOM.
+
+It gets shoddier.
+
+### Group F: Workers left unsure of their positions and felt helpless
+
+In categories D and E, we were able to help the worker overcome the initial obstacle by getting a higher level at MOM to respond. For the eight workers in Category F, things didn’t turn out as well.
+
+The common thread among these eight cases was that we either got no response from MOM or the response was so tentative, it was not meaningful. Mostly it was because the cases were urgent – and this relates to our earlier discussion (Group D) about how employers liked to buy flight tickets with departure dates only a couple of days away.
+
+In January 2022, we decided to get a clearer statement from MOM about their policy in this regard. We asked them whether a worker who is forcefully repatriated can refuse to board the flight. The reply (10 January 2022) from the Partnership Manager at MOM was that
+
+> Workers who are being repatriated by their employer against their will can approach MOM. If they are forcefully sent to the airport, they can approach the ICA officers who will issue a Special Pass for them to report their issue to MOM.
+
+TWC2 has been sharing this advice with workers who were being sent back even though they should be eligible for the retention scheme. However, as they would be hearing this information from us second-hand, it is understandably hard for them to be confident taking this course of action (approaching an Immigration officer and refusing to board a flight). At the back of their minds, they’d be wondering, *What if, after being turned around by Immigration and going to MOM the next day, MOM still says I am not eligible? Will I be considered an overstayer and face criminal penalties?*
+
+Thus, five of the eight men in Category F boarded their flights anyway, even though they felt they had been wronged.
+
+It would be better if MOM had a system of sending WhatsApp and SMS messages to any worker that we’ve alerted them to, to say:
+
+*“Dear Mr \[name\], If your work permit expired or was cancelled, and your employer is sending you home even though you want to look for a transfer job, do not board the flight. If you are sent to the airport, speak to an Immigration officer and show them this message. Go to MOM the next working day.”*
+
+Hearing this directly from MOM would be more reassuring. Of course, the system for sending such WhatsApp and SMS messages must be very prompt – within, say, one hour of TWC2 alerting MOM to a case, day, night or weekend.
+
+### Group G: Worker ultimately chose to go home.
+
+There is only one worker in Category G. We helped get confirmation from MOM that he was eligible for the retention scheme, but for undisclosed personal reasons he ultimately preferred to go home.
+
+### Group H: Experienced smooth process
+
+There are four workers in his category. They managed to enrol in the retention scheme by themselves and did not need any trouble-shooting by us. However, we came to know of them through some other side issues that they had, and they are included in our list simply for completeness’ sake.
+
+They serve to demonstrate that there are workers, perhaps quite numerous, who did not face difficulty getting into the retention scheme.
+
+As for any statistical breakdown of how many workers faced obstruction and how many experienced a smooth process, this is not possible for an NGO like TWC2 to say. The government might have a better overall picture, but considering the possibly many cases like Category F (Workers left unsure of their positions due to lack of response from the authorities) even the government may not know what the true picture is. We would treat any statistic from the government as overly rosy.
+
+![](https://twc2.sg/wp-content/uploads/2022/02/appendix_label.png "appendix_label")
+
+Here are the key details of each of the thirty men’s cases. All names are pseudonyms.
+
+**B1. Hasan**
+
+**B2. Polash**
+
+Case began in August 2021.
+
+Both men were from the same company with work permits expiring on 30 Sep 2021. Their employer asked them to agree to renewal, but wanting better jobs, they did not give immediate replies, hoping to use the no-consent period to find new jobs. Finally, the HR madam said she would take it that they did not want to renew and she would proceed to buy flight tickets to send them home.
+
+She sent them a WhatsApp message in mid August which said “you have your right not to renew. I also have my right to blacklist you or send you home if you don’t want to renew.”
+
+Employers do not have any “right” to blacklist workers, though MOM has created avenues for employers to put up adverse comments on them. See our January 2022 article [Blacklisted: Imagined fears or unspoken reality?](https://twc2.sg/2022/01/14/blacklisted-imagined-fears-or-unspoken-reality/)
+
+TWC2 then emailed MOM asking, should their permits get cancelled before the retention scheme started, what the men should do.
+
+No reply from MOM. The men reported to TWC2 that they were not contacted by MOM either. They were repatriated.
+
+—
+
+**C1. Masud**
+
+Case began in December 2021.
+
+Unable to agree on terms of renewal, this worker’s work permit was cancelled.
+
+Soon after, SCAL contacted him only to tell him he was not eligible for the SCAL scheme because he had a police case. He was shocked as he knew of no police matter. He asked SCAL for clarification but SCAL told him to go to MOM. He went to MOM but MOM told him to ask SCAL,
+
+Masud asked his employer but got no explanation. He was repatriated.
+
+—
+
+**C2. Sumon**
+
+Case began in January 2022.
+
+Sumon had earlier been given a transfer consent letter by his employer. Twice, he found a new employer, but each time, the work permit application by the new employer was rejected.
+
+Sumon came to TWC2 when his existing work permit was cancelled and replaced by a Special Pass “for the purpose of finding another employment.”
+
+TWC2 wrote to MOM asking that Sumon be admitted into the SCAL retention scheme and five days later, MOM replied to say they were looking into the matter.
+
+Another two days later, MOM replied again to say that Sumon was not eligible for the SCAL retention scheme “as MOM has assessed him to be unsuitable for employment in Singapore.”
+
+TWC2 conveyed the news to Sumon. We lost contact with him and assume that he has been repatriated.
+
+—
+
+**C3. Amin**
+
+Case began in January 2022.
+
+Amin had met with his boss to ask for more overtime work but the conversation did not go well and the boss was displeased. The boss said he would terminate Amin, who then pleaded with the boss not to do that. That somehow further enraged the boss .
+
+The boss and office staff then started yelling at Amin. When Amin took out his phone to record the incident, the phone was snatched away.
+
+According to Amin, the office staff then restrained and “strangled” him. He suffered a minor cut and went to Khoo Teck Puat Hospital for treatment. He also made a police report.
+
+His work permit was cancelled the day after and subsequently, he received a notification from MOM (before he even came to TWC2) to contact SCAL if he wanted to continue working in Singapore.
+
+Amin contacted SCAL but they said they could not take him as yet because he had not gotten his salary for 5 days of work in January and his passport was still with the employer. Amin had asked his employer to resolve the salary issue and hand over the passport but the employer had refused, saying they were making repatriation arrangements “according to instructions given by MOM”.
+
+TWC2 then wrote to MOM to alert officials to the matter.
+
+Amin mentioned to TWC2 that the employer had said he was going to report Amin to MOM for working illegally outside on one occasion. Amin denied this ever happened.
+
+He believed that this might be related to an incident when (he claimed) he had gone to see a friend at another construction site to borrow money. However, MOM officers were there and he was found with \$100 in hand. Amin said he was stopped just as he was leaving to go shopping. He said he was willing to submit his TraceTogether app as evidence that he was mostly shopping that day.
+
+MOM replied to TWC2 saying that Amin’s employer would be returning his passport, but Amin was not eligible for the SCAL scheme, and that he should go home. No reason was given as to why he was ineligible.
+
+Amin told TWC2 he had received no contact from MOM. No one called him to get his side of the story. He was upset that MOM seemed only to take the employer’s word.
+
+He was repatriated.
+
+—
+
+**D1. Juwel**
+
+Case began in September 2021.
+
+When Juwel, who had four years’ experience in Singapore, first contacted TWC2, the expiry date of his work permit was still two months away in November. However, his employer had been pressuring him to agree to renewal when Juwel wanted to utilise the no-consent period to look for a new job.
+
+Finally, the employer told Juwel that if he did not agree to renewal, he would be repatriated; the company would not let him enjoy a no-consent period.
+
+At the same time, the manager stopped him from going to work and told him the flight ticket would be issued to him soon. Afraid that he’d be forcefully repatriated, Juwel approached TWC2 and we brought the matter to MOM. We asked that Juwel be admitted into the SCAL retention scheme. When we got no reply, we wrote again, adding that he had been left idling in the dorm for ten days.
+
+We did not get any reply from MOM to our second email either.
+
+Some time later, we learned from Juwel that SCAL contacted him and he was admitted into the retention scheme. Eventually, he found a new job with the same salary as before.
+
+—
+
+**D2. Thala**
+
+Case began in October 2021.
+
+Thala was an unusually experienced worker, having worked in Singapore for 14 years, the last 12 of which was with the same employer. He was by now a supervisor.
+
+One day in early October, because of “personal problems in India”, he skipped work (for just one day) and rested in his dorm instead. The boss told him that he would be repatriated even though his work permit had another 12 more months to run.
+
+TWC2 raised the matter with MOM, saying Thala felt very unfairly treated. We asked that he be admitted into the retention scheme. To date we have not received any reply from MOM.
+
+After waiting a few days, we checked with Thala again and he said that so far, he had not received any call from MOM either.
+
+However, he was subsequently admitted into the scheme and has since found a new job with a \$200 salary increase.
+
+—
+
+**D3. Akash**
+
+Case began in December 2021.
+
+Although his work permit was only expiring in January 2022 — it had not been renewed – the employer had already bought a flight ticket for him to fly out on the same day as the expiry date.
+
+Akash told TWC2 that he did not want to go home and wanted to get a new job. Since he had communicated this to his employer, the employer should not have bought a ticket. MOM’s guidance on repatriation was for employer’s to first get clearance from the ministry.
+
+TWC2 raised this matter to MOM and six days later, MOM replied to say that they had spoken with the employer and that the employer would cancel the work permit, allowing Akash to join the retention scheme.
+
+A month on, as at the time of writing, Akash is still on the scheme, waiting for his first job interview.
+
+—
+
+**D4. Param**
+
+Case began in October 2021
+
+Param contacted TWC2 saying his work permit had two more months to run, but the manager  in the company was pressuring him to agree to renewal. The manager also said that the company would not allow him to enjoy the no-consent period or retention scheme to find a new job. The threat was that if Param did not agree to renewal, the employer would cancel the work permit before the no-consent period began.
+
+#### Other avenues to changing employers
+
+The SCAL retention scheme is not the only way a construction worker can stay on and switch to another employer. Two other routes remain in operation, though each has its difficulties and inherent absurdities.
+
+**With current employer’s consent**
+
+A worker may seek a new job without having to first go home if his current employer gives him a letter of consent for transfer. Very few workers enjoy this, because many employers do not want to give any indication that they are prepared to to let their workers quit.  Even when business is bad and the company has no further need for workers, employers typically still refuse to provide their employees with letters of consent. Pride is perhaps the chief motivation here.
+
+**No-consent period (1)**
+
+Even prior to the pandemic, there has been a provision whereby a worker enjoys what is loosely called a ‘no-consent period’ as the expiry date of the work permit approached. The precise rules, however, make this ‘transfer window’ less easy than it seems. The last sixty days of the work permit period are divided into three periods. From the 60th to 41st day before expiry, the employer and employer are expected to negotiate the terms of renewal of the work permit. If agreement is reached, the employer goes online and renews the work permit.
+
+If no agreement can be reached regarding renewal, the worker is then free to look for a new a job without needing to get consent from his current employer from the 40th to 21st day before the permit’s expiry date.
+
+Unfortunately, MOM leaves open the cancellation option. Employers can cancel work permits at any time, and once cancelled, the worker no longer enjoys a no-consent period.
+
+The SCAL retention scheme — it’s a temporary scheme, we stress — was designed to buffer against employers’ trigger-happy tendency to cancel work permits when they did not like the idea of their workers looking for new jobs. That’s why the SCAL retention scheme says any worker whose permit has been cancelled is eligible to join the scheme.
+
+The no-consent window closes on the 20th day before expiry. The employer can still go online to renew the permit or cancel it but the worker no longer has the freedom to look for a new job. If the employer does nothing in the last twenty days, the permit expires.
+
+The SCAL retention scheme is also eligible for workers whose permits were allowed by their employers to lapse (expire).
+
+**No-consent period (2)**
+
+MOM’s press release of 30 October announced that “the COE \[Change of Employer\] without consent period for WPH \[work permit holders\] in the CMP \[Construction, Marine and Process\] sectors will be shifted to the end of contract. Currently, prospective employers can hire the WPH without the original employer’s consent in the 21 to 40 days period before expiry of the work permit. Going forward, WPHs will remain in employment of the original employer until the expiry of the work permit. Thereafter, the work permit may be extended for a 30-day period, subject to mutual agreement between the WPH and his employer. The WPH may use this 30-day period to look for another employer without the need for consent from the original employer. ”
+
+The trouble with the above is that for a worker to enjoy a 30-day no-consent period, he must first have an employer that consents to keeping him for an extra 30 days. It is hardly a surprise that in TWC2’s casework, we rarely have workers telling us they’re in a no-consent period. The typical employer would consider it an affront to his power to keep him for an extra 30 days just so he can look for another job.
+
+Despite this threat, Param still refused to sign the renewal form. Then the manager demanded that he sign a resignation letter. Param refused to do so too. Resigning from a job would render him ineligible for the SCAL retention scheme.
+
+Param told TWC2 that the company then bought a flight ticket to repatriate him with departure date six weeks before the permit’s expiry date.
+
+TWC2 wrote to MOM saying that Param did not want to go home, and that the ticket had been bought against his will. TWC2 conveyed Param’s fear that the work permit would only be cancelled a day before his flight date leaving him little time to raise the issue with MOM and get into the retention scheme.
+
+Two and a half months later, MOM replied to update us that Param had been successfully enrolled in SCAL’s retention scheme. TWC2 confirmed the same with Param. The worker said he had been on the scheme for over a month and had been asking for a forklift job, but no interviews had yet been arranged. In the meantime, through his own contacts, he had found an interested employer but when he told SCAL about it, SCAL had said he was not allowed to find his own job from outside the SCAL scheme.
+
+—
+
+**D5. Johirul**
+
+Case began in September 2021.
+
+After Johirul had a disagreement with his employer over being made to work without proper safety equipment, the boss angrily bought a flight ticket to repatriate him.
+
+Johirul’s work permit had 11 more months to run, and he had accumulated more than ten years’ work experience in Singapore.
+
+TWC2 alerted MOM to the matter and five days later, MOM confirmed that Johirul was now enrolled in the SCAL retention scheme. He was eventually placed into a new job, but he was unhappy that the salary was more than \$100 lower than his previous salary.
+
+—
+
+**D6. Rony**
+
+Case began in September 2021.
+
+About three weeks before his work permit was due to expire, the boss told Rony to stop work. He also told the worker that he would be repatriated soon. Apparently, Rony tried to find a new job during the 40 – 21 day no-consent period, but the one interested employer he found had its application for an In-principle Approval rejected. Somehow, the current boss found out about it and was not pleased.
+
+Rony approached TWC2 for help – he did not want to go home – and we wrote to MOM asking that he be enrolled in the retention scheme. Rony had nine years’ experience working in Singapore.
+
+MOM replied that he would be eligible once his work permit was cancelled or reached expiry. Rony would then receive a call from SCAL. If a flight ticket was purchased before that, MOM said he could contact MOM or visit MOM’s service centre.
+
+Things went smoothly after that. Rony was admitted into the SCAL scheme and eventually got a new job.
+
+—
+
+**E1. Mohsin**
+
+Case began in December 2021
+
+After his work permit was cancelled prematurely, SCAL called Mohsin and told him that they would talk to old employer about reinstatement.
+
+Mohsin also spoke to his boss but the boss said that (a) he would not allow him to join the SCAL retention scheme and (b) he would ensure that Mohsin was repatriated. Mohsin then tried to call SCAL but no answer.
+
+Very soon after, the employer gave a flight ticket to Mohsin for departure the very next day.
+
+TWC2 wrote to MOM to raise this matter of forced repatriation. Because time was short, TWC2 told Mohsin to go to MOM as well and to show the officer there a copy of TWC2’s email which summarised the issue.
+
+Reaching MOM around 2pm, Mohsin was told by the MOM officer he met that he had to board the flight since the employer had not consented to his joining the SCAL scheme.
+
+This advice is contrary to the rules of the scheme. No consent by employers is needed.
+
+The same afternoon, TWC2 wrote again to MOM to contest the advice given to Mohsin. At 6:25pm, a senior officer from MOM replied to say that SCAL would enrol Mohsin into the retention scheme.
+
+Subsequently, Mohsin joined the scheme and eventually landed a new job.
+
+**When TWC2 asked him to show us the In-principle Approval from MOM for the new job, he said he had only received the cover page, and not the full set of papers, which will detail the salary terms, etc.** Two months on, we asked him again, and he still had not been given the full set of papers.
+
+—
+
+**E2. Robiul**
+
+Case began in December 2021.
+
+Robiul’s work permit expired in the third week of December. By scanning the QR code on his work permit, he learned that he was permitted to stay in Singapore only until the last day of permit validity, yet he had been issued neither a flight ticket nor a pass to continue staying on. He was concerned about overstaying.
+
+He did not want to go home but wanted to get a new job. He went to MOM directly but the officer there told him that he could only join the SCAL retention scheme if the work permit had been cancelled. In his case, it had expired.
+
+This is incorrect advice. The retention scheme eligibility includes any worker whose permit had been cancelled or not renewed – the latter is just another way of saying ‘expired’.
+
+Robiul approached TWC2 for help. We wrote to MOM to highlight his case.
+
+Six days later, MOM replied to say that Robiul was being referred to SCAL for enrolment into the retention scheme.
+
+Subsequently, Robiul told TWC2 that he had been placed into a new job. When we asked to see his In-principle Approval, he replied, **“Full IPA don’t have.”**
+
+—
+
+**E3. Wasim**
+
+Case began in January 2022.
+
+When his work permit expired without renewal, and yet he was given neither flight ticket nor a Special Pass, Wasim got worried about his immigration status and approached TWC2 for help. He wished to remain in Singapore and transfer to a new job, he said.
+
+TWC2 emailed MOM to raise his concerns. MOM replied that their records showed that there was a pending work permit application for him from a new employer and that they would update us further.
+
+Three weeks later, Wasim told TWC2 that the new employer’s application had been rejected and that he had since been given a Form 18 Special Pass. The details on Form 18 appeared to indicate that repatriation had been arranged for three days later, but no ticket had been given to him, In any case he wanted to be in the retention scheme. Wasim had been in touch with SCAL about that but he was told by SCAL that they were unwilling to take him in because his work permit had expired; it was not prematurely cancelled.
+
+This was inconsistent with the rules of the retention scheme. Workers with expired work permits, but wanting to stay on in Singapore, were eligible for the scheme and TWC2 wrote back to MOM to point this out.
+
+Two days after that, Wasim called TWC2 to tell us that SCAL had reversed its position and would be taking him into the scheme.
+
+—
+
+**E4. Ferdus**
+
+Case began in January 2022.
+
+Ferdus’ work permit was cancelled one day prior to the expiry date, with a flight ticket three days later. Apparently, Ferdus had let it be known that he was hoping to find a transfer job.
+
+SCAL called him very soon after to tell him that he would be admitted into the retention scheme, but that SCAL needed about five days to “make arrangements”. TWC2’s educated guess is that by this point in time, SCAL was having trouble finding beds for the growing numbers of workers they were onboarding.
+
+However, later the same day, SCAL called again, this time saying that say they could not take him in because the employer had bought him a ticket.
+
+Ferdus also mentioned to TWC2 that there was a small amount (under \$100) of unpaid salary.
+
+TWC2 wrote to MOM pointing out that the employer should not have bought the ticket. Doing so without first getting clearance from MOM was against the rules.
+
+Later the same day, at 4:30pm, MOM called Ferdous and asked him to come to MOM immediately. When he went down, they told him he had to board flight because the ticket had been bought. Ferdus then raised the matter of the short-payment of salary but this did not change MOM’s response.
+
+Since time was running out, TWC2 advised Ferdus that if he was sent to the airport against his will, he should speak with an Immigration officer and ask to be turned around.
+
+Ferdus did exactly that and did not board the flight. He came to TWC2’s emergency shelter where he stayed a night.
+
+The next day, after protestations had been made to MOM for their bad advice, MOM phoned him, telling him that arrangements had been made for him to go back to his company dorm. Subsequently, he was moved to the retention scheme and is waiting for job interviews.
+
+Ferdus has also received what he was owed as unpaid salary.
+
+—
+
+**E5. Bhuiyan**
+
+Case began in January 2022.
+
+Three days after his work permit expired, Bhuiyan contacted TWC2 because he felt he was getting nowhere with SCAL. SCAL had told him he was not eligible for the retention scheme since his permit had expired and had not been cancelled.
+
+This is incorrect advice. The retention scheme eligibility includes any worker whose permit had been cancelled or not renewed – the latter is just another way of saying ‘expired’.
+
+SCAL suggested to Bhuiyan that he ask the employer to cancel the permit. Bhuiyan thought this suggestion was absurd: “Permit expire already, how to cancel?” Nonetheless, he did as suggested and asked his employer to cancel the already-expired permit. The boss took no action.
+
+Bhuiyan then approached TWC2 for help and we wrote to MOM.
+
+MOM replied to say that SCAL had contacted Bhuiyan again and he had agreed to join the retention scheme, and that SCAL had also contacted the employer “with regard to onboarding him into the scheme.”
+
+—
+
+**E6. Tofazel**
+
+Case began in January 2022.
+
+Tofazel’s work permit expired in January 2022. He had earlier told his boss that his current salary (\$20/day) was too low and wanted more. The boss did not agree and they decided to part ways amicably. On the date of expiry, the supervisor told Tofazel that he was free to look for a new employer and even informed him of the SCAL retention scheme.
+
+On approaching SCAL to join the retention scheme, Tofazel was told that he was not eligible because his work permit had not been cancelled, but had expired.
+
+This is incorrect advice. The retention scheme eligibility includes any worker whose permit had been cancelled or not renewed – the latter is just another way of saying ‘expired’.
+
+TWC2 wrote to MOM asking that he be put on the SCAL retention scheme.
+
+MOM replied to say they had engaged both employer and employee and that Tofazel had agreed to rejoin the employer.
+
+At TWC2 we were relieved at this outcome. It seemed the best. We had been concerned that even if Tofazel had been on the SCAL retention scheme, there might be difficulty for him to find a new job because he was already in his late forties and yet had only four years’ experience as a general labourer in Singapore. His English was also poor.
+
+—
+
+**F1. Awlak**
+
+Case began in October 2021.
+
+Awlak was suddenly given a flight ticket (departing the next day) when a dispute arose between him and the boss over what he, an airconditioning technician, should be paid for one of the client jobs he did. He told TWC2 that his work permit was, at the time of the conversation with us, still live.
+
+What was he supposed to do? He did not want to go home but wanted a chance to get a transfer job.
+
+TWC2 immediately wrote to MOM, but since time was short, we advised Awlak that he could approach an Immigration officer at the airport and ask to be turned around. Uncertain whether he could be accused of overstaying, and with no reply from MOM for guidance, Awlak decided against doing so. He went home.
+
+To date, TWC2 has not received a reply from MOM.
+
+—
+
+**F2. Rahim**
+
+Case began in January 2022.
+
+Rahim’s work permit expired in the third week of January. He was contacted by SCAL assuring him that he would be taken into their retention scheme.
+
+Fifteen minutes later, SCAL called again and said that they could not take him in after all because the employer had bought a ticket for him, departing in just a couple of days’ time. SCAL said it was too last minute to stop him from boarding the flight and advised him to return home.
+
+Rahim felt very unfairly treated. He had clearly told his boss that he wanted to seek a transfer job and not to buy an air ticket. At the time, the boss did not object to the request. Now he was shocked and frustrated that not only had a ticket been bought, but SCAL was saying that he could not join the retention scheme because of the boss’ action.
+
+TWC2 wrote to MOM to raise this matter.
+
+Between that email and the flight date, we got no reply. Rahim said he had no one from MOM calling him either. In the absence of any direction by MOM, we advised him to speak to an Immigration officer at the airport to ask to be turned around so that he could visit MOM himself the next day.
+
+Unsure of where he stood and the risk of being accused of overstaying, Rahim chose to board the flight instead.
+
+A week later, MOM replied to TWC2 saying their officers had engaged Rahim and his employer to assist with the SCAL case. The reply said that the employer was supportive of Rahim joining the SCAL scheme, but Rahim himself had told MOM officers that he had decided to return home.
+
+When we spoke with Rahim more recently, he was adamant that no one from MOM had spoken to him.
+
+—
+
+**F3. Ahmed**
+
+Case began in February 2022.
+
+Three days before his work permit was due to expire, Ahmed found that his boss had cancelled it. The employer told him point-blank that they cancelled the permit because Ahmed had said he did not want a renewal but wanted a transfer. The employer then bought a ticket for repatriation departing the very next day.
+
+Ahmed then made his way to MOM to inform them that repatriation would be against his will. MOM gave him SCAL’s contact number. When he called SCAL, they said they had not received any notification from MOM regarding his permit cancellation. In the conversation with SCAL, Ahmed was assured that there should not be any eligibility issue but must wait for MOM to update them.
+
+The same day, Ahmed came to TWC2 for help. We wrote to MOM requesting that they ask the employer to cancel the flight ticket and put Ahmed into the retention scheme.
+
+The next day (also the departure date), MOM replied saying that SCAL was not able to take him into scheme as flight date was today. However, if Ahmed had any unresolved issues, he could bring it up to an Immigration officer at airport and he would be issued with a Special Pass to report to MOM.
+
+This reply seemed to suggest that Ahmed should only approach the Immigration officer if he had other unresolved issues such as salary non-payment, but that if he approached Immigration because he was wronged by SCAL failing to honour the eligibility rules, it would not be considered a valid reason for staying in Singapore.
+
+Feeling prejudiced by MOM’s and SCAL’s position, which did not even align with their own rules, Ahmed boarded the flight.
+
+—
+
+**F4. Sohag**
+
+Case began in October 2021.
+
+Unlike many other cases documented here, this one shows an employer that was reasonable and accommodating.
+
+At first Sohag could not come to an agreement with his employer over renewal and his work permit then expired in early October 2021. Sohag had found two willing new employers during his no-consent period but both their work permit applications were rejected. After the no-consent period, Sohag looked forward to joining the retention scheme, and so asked his employer not to purchase a flight ticket. The employer agreed.
+
+Sohag then went to MOM to ask to join the retention scheme and was given SCAL’s email address.
+
+Sohag wrote twice to SCAL but got no reply.
+
+TWC2 wrote to MOM to draw their attention to this but till now, we have not had a reply either.
+
+More recently, we spoke with Sohag again and learned that after waiting some time and nervous about the total silence from SCAL and MOM, he asked his employer for his old job back. The employer agreed and Sohag is now back in the same company.
+
+—
+
+**F5. Mosharraf**
+
+Case began in October 2021.
+
+About five weeks prior to the expiry date of his work permit, Mosharraf was asked by his employer to agree to renewal. Mosharraf asked for a slightly higher salary. Not only did the employer refuse that request, they promptly cancelled his work permit.
+
+Mosharraf came to TWC2 for help saying he did not want to return home. We wrote to MOM asking that he be put on the SCAL retention scheme, but until now, have had no reply.
+
+More recently, Mosharraf explained that in the absence of any response from MOM, and fearful of things spinning out of control, he felt he had no choice but agree to a renewal. The boss took him back and even acceded to his request for a higher salary too.
+
+Mosharraf confirmed to us that he did not get any call from MOM. He did not know if MOM contacted the boss.
+
+—
+
+**F6. Rana**
+
+Case began in January 2022.
+
+When Rana expressed his wish to seek a transfer job, his employer at first gave him a transfer consent letter. But when Rana succeeded in finding a new employer, the current employer was offended, changed his mind and told Rana he would be repatriated. A ticket was bought for departure the very next day, even though the work permit had nine more months to go.
+
+By the time Rana came to TWC2, a pre-departure PCR test for Covid-19 had already been arranged. TWC2 wrote to MOM asking that he be put into the retention scheme but since time was short, we told Rana to go to MOM straight away, taking a copy of our email with him.
+
+The following day (departure date), we learned from Rana that when he went to MOM, he was told that since the employer had not yet cancelled the work permit, he could not join the SCAL scheme.
+
+This was an unsatisfactorily bureaucratic response, but since he had to go to the airport, we advised him that he could approach an Immigration officer and ask to stay on Singapore to further pursue the matter.
+
+We didn’t hear from Rana for a while; when he next contacted us, we learned that he was back in Bangladesh.
+
+—
+
+**F7. Hafizur**
+
+Case began in November 2021.
+
+As his work permit expiry approached, the employer asked Hafizur to agree to renewal. Hafizur asked for a salary increase. This matter dragged on a bit with neither side giving a clear answer to the other.
+
+Then things snapped and his work permit was cancelled. A flight ticket was also bought for him, departing a week later.
+
+Hafizur was aware of the SCAL retention scheme and contacted them. He waited three days for a reply, as per SCALs’ protocol, but still there was no reply.
+
+He then reached out to TWC2 for assistance. We wrote to MOM asking that he be put on the retention scheme.
+
+The next day, MOM replied saying that “He was not referred to SCAL as an employer had submitted an application for him.” It turned out that this was his same employer that had cancelled his work permit. Hafizur then explained that given the uncertainty of SCAL’s response, he had agreed to be reinstated. A higher salary had been promised too, as he had initially requested.
+
+—
+
+**F8. Thidur**
+
+Case began in September 2021.
+
+Seven weeks before his work permit was due to expire, the subject or renewal came up between Thidur and his employer. Thidur told his employer he would prefer a transfer.
+
+The employer immediately purchased a flight ticket for departure five days later, and even told Thidur in no uncertain terms that the ticket would only be given to him just one day before the flight, and that his permit would only be cancelled hours before the flight.
+
+We reckon that this was so that Thidur could not complain to MOM. If he did, MOM would see that the permit had not been cancelled, no ticket had been entered in the system, and therefore would not entertain any request from Thidur to join the retention scheme.
+
+The same day on which the boss told him that, Thidur came to TWC2 for help. We wrote to MOM asking for their intervention. Three days later we wrote again. In neither case did we get a reply.
+
+We had also suggested to Thidur that he make his way down to MOM to press his case, **but Thidur told us that the security guards at his dorm would not let him out.**
+
+Thidur was repatriated.
+
+—
+
+**G1. Shadik**
+
+Case began in January 2022.
+
+In early January, Shadik contacted TWC2 for help in joining the retention scheme. His work permit was only due to expire later in the month, but he found that it had been cancelled and the company office had given him a Form 18 Special Pass which said it was “for the purpose of waiting for flight”. The flight date indicated was before the original expiry date of the work permit, so in effect, this was premature termination and repatriation.
+
+TWC2 wrote to MOM to raise his concerns.
+
+MOM replied to say that his name had been sent to SCAL. They had also contacted the worker and given him SCAL’s number.
+
+We then heard nothing from Shadik for a few weeks. When we finally managed to reach him, we learned that he had decided to go home and not take up the SCAL offer because of a “personal issue”.
+
+—
+
+**H1. Nizam**
+
+Case began in October 2021
+
+Nizam and his employer had originally agreed on renewal. However, during the medical check-up, Nizam was found to have an infectious disease and the employer then changed his mind and decided not to go through with the renewal.
+
+Nizam’s work permit would be expiring a few days later and he sought TWC2’s help to get a new transfer. His medical condition was easily treatable.
+
+TWC2 advised Nizam to get a “fit to work” memo from the doctor, which he did. The doctor also said that with medication, he would not be contagious.
+
+TWC2 then wrote to MOM asking that Nizam be admitted into the retention scheme. MOM replied saying they had submitted the doctor’s memo to Work Pass Division and SCAL for their consideration.
+
+Subsequently, Nizam was enrolled in the scheme and eventually placed into a new job. His new salary was the same as in the last job.
+
+—
+
+**H2. Venu**
+
+**H3. Sochat**
+
+**H4. Rajendran**
+
+All three cases were from January 2022.
+
+These three men contacted TWC2 for accommodation issues related to the SCAL retention scheme. We housed Venu and Sochat in our emergency shelter for a brief period while SCAL was arranging space for them in their lodgings.
+
+We ultimately didn’t even need to house Rajendran. SCAL had given him our number to call “just in case” his employer threw him out of his dorm, and Rajendran called just to say “hi” to put himself onto our radar.
+
+These three workers were onboarded to the SCAL retention scheme smoothly without need for TWC2 intervention.
+
+—
+
+#### Share This Post With Others!
+
+[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftwc2.org.sg%2F2022%2F02%2F14%2Fdifficulties-getting-aboard-the-scal-retention-scheme%2F&t=Difficulties%20getting%20aboard%20the%20SCAL%20retention%20scheme "Facebook")[X](https://twitter.com/share?url=https%3A%2F%2Ftwc2.org.sg%2F2022%2F02%2F14%2Fdifficulties-getting-aboard-the-scal-retention-scheme%2F&text=Difficulties%20getting%20aboard%20the%20SCAL%20retention%20scheme "X")[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftwc2.org.sg%2F2022%2F02%2F14%2Fdifficulties-getting-aboard-the-scal-retention-scheme%2F&title=Difficulties%20getting%20aboard%20the%20SCAL%20retention%20scheme&summary=In%20a%20just-completed%20review%20of%2030%20cases%20of%20construction%20workers%20trying%20to%20get%20into%20the%20SCAL%20retention%20scheme%2C%20we%20identified%20the%20major%20difficulties%20that%20workers%20faced%20when%20trying%20to%20move%20on%20to%20a%20new%20job%20after%20losing%20the%20previous%20one.%20Chiefly%20we%20found%20employe "LinkedIn")[WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Ftwc2.org.sg%2F2022%2F02%2F14%2Fdifficulties-getting-aboard-the-scal-retention-scheme%2F "WhatsApp")[Pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftwc2.org.sg%2F2022%2F02%2F14%2Fdifficulties-getting-aboard-the-scal-retention-scheme%2F&description=In%20a%20just-completed%20review%20of%2030%20cases%20of%20construction%20workers%20trying%20to%20get%20into%20the%20SCAL%20retention%20scheme%2C%20we%20identified%20the%20major%20difficulties%20that%20workers%20faced%20when%20trying%20to%20move%20on%20to%20a%20new%20job%20after%20losing%20the%20previous%20one.%20Chiefly%20we%20found%20employers%20doing%20their%20utmost%20to%20scupper%20workers%26%2339%3B%20hopes%20of%20joining%20the&media=https%3A%2F%2Ftwc2.org.sg%2Fwp-content%2Fuploads%2F2022%2F02%2Fboarding_ss_scalscmx_ficon.gif "Pinterest")[Email](/cdn-cgi/l/email-protection#ecd38e838895d18498989c9fd6c3c3989b8fdec2839e8bc29f8bc3dedcdedec3dcdec3ddd8c388858a8a858f99809885899fc18b89989885828bc18d8e838d9e88c1988489c19f8f8d80c19e8998898298858382c19f8f84898189c3ca8d819cd79f998e86898f98d1a8858a8a858f99809885899fc9dedc8b89989885828bc9dedc8d8e838d9e88c9dedc988489c9dedcbfafada0c9dedc9e8998898298858382c9dedc9f8f84898189 "Email")
+
+#### Recent Posts
+
+- [Forced labour in Singapore – a scorecard](https://twc2.org.sg/2026/11/04/forced-labour-in-singapore-a-scorecard/) 4 November 2026
+- [Changi airport hit by Ministry of Manpower probe](https://twc2.org.sg/2026/11/03/changi-airport-hit-by-ministry-of-manpower-probe/) 3 November 2026
+- [Poor implementation of injury law leaves worker penniless](https://twc2.org.sg/2026/10/20/poor-implementation-of-injury-law-leaves-worker-penniless/) 20 October 2026
+- [Fantastic salary, easy job. What can go wrong?](https://twc2.org.sg/2026/10/15/fantastic-salary-easy-job-what-can-go-wrong/) 15 October 2026
+- [Shockingly low salaries in shipyards revealed by survey and casework data](https://twc2.org.sg/2026/10/12/shockingly-low-salaries-in-shipyards-revealed-by-survey-and-casework-data/) 12 October 2026
+- [Employer compels worker to sacrifice all his weekly rest days, pays him less than half his proper salary](https://twc2.org.sg/2026/10/09/employer-compels-worker-to-sacrifice-all-his-weekly-rest-days-pays-him-less-than-half-his-proper-salary/) 9 October 2026
+- [Very much needed: a centralised payslips portal](https://twc2.org.sg/2026/10/03/very-much-needed-a-centralised-payslips-portal/) 3 October 2026
+- [One month after starting work, employer reduces workers’ salaries by 26%](https://twc2.org.sg/2026/09/29/one-month-after-starting-work-employer-reduces-workers-salaries-by-26/) 29 September 2026
+- [Agent channelled recruitment fees through suspicious channels](https://twc2.org.sg/2026/09/23/agent-channelled-recruitment-fees-through-suspicious-channels/) 23 September 2026
+- [Government can require foreigners to remain in Singapore with no right to work, no income](https://twc2.org.sg/2026/09/15/government-can-require-foreigners-to-remain-in-singapore-with-no-right-to-work-no-income/) 15 September 2026
+
+#### Tags
+
+[Abuse & bullying](https://twc2.org.sg/tag/abuse-bullying/) [Accident reporting](https://twc2.org.sg/tag/accident-cover-up/) [Advocacy](https://twc2.org.sg/tag/advocacy/) [Criminal charges](https://twc2.org.sg/tag/criminal-charges/) [Domestic work](https://twc2.org.sg/tag/domestic/) [Donations](https://twc2.org.sg/tag/donations/) [Economics of migration](https://twc2.org.sg/tag/economics-of-migration/) [ECT](https://twc2.org.sg/tag/ect/) [Family](https://twc2.org.sg/tag/family/) [featured](https://twc2.org.sg/tag/featured/) [Food](https://twc2.org.sg/tag/food/) [Forced repatriation](https://twc2.org.sg/tag/forced-repatriation/) [Housing](https://twc2.org.sg/tag/housing/) [Illness](https://twc2.org.sg/tag/illness/) [International](https://twc2.org.sg/tag/international/) [Job mobility](https://twc2.org.sg/tag/job-mobility/) [Kickback](https://twc2.org.sg/tag/kickback/) [Labour court](https://twc2.org.sg/tag/labour-court/) [Labour relations](https://twc2.org.sg/tag/labour-relations/) [Laws & regulations](https://twc2.org.sg/tag/laws-regulations/) [Lawyers](https://twc2.org.sg/tag/lawyers/) [MC & light duty](https://twc2.org.sg/tag/mc-light-duty/) [MC wages](https://twc2.org.sg/tag/mc-wages/) [Media interest](https://twc2.org.sg/tag/media-interest/) [Medical costs](https://twc2.org.sg/tag/medical-costs/) [Medical interaction](https://twc2.org.sg/tag/medical-interaction/) [Medical treatment](https://twc2.org.sg/tag/medical-treatment/) [MOM processes](https://twc2.org.sg/tag/mom-processes/) [Placement agents & fees](https://twc2.org.sg/tag/placement-agents-fees/) [Police processes](https://twc2.org.sg/tag/police-processes/) [Politics and policies](https://twc2.org.sg/tag/politics-and-policies/) [Recruitment](https://twc2.org.sg/tag/recruitment/) [Rest day](https://twc2.org.sg/tag/rest-day/) [S-Pass](https://twc2.org.sg/tag/s-pass/) [Salary & deduction](https://twc2.org.sg/tag/salary-deduction/) [Society & socialisation](https://twc2.org.sg/tag/society-socialisation/) [Survey & statistics](https://twc2.org.sg/tag/survey-statistics/) [TADM](https://twc2.org.sg/tag/tadm/) [Trafficking](https://twc2.org.sg/tag/trafficking/) [Training](https://twc2.org.sg/tag/training/) [Transfer](https://twc2.org.sg/tag/transfer/) [Volunteers](https://twc2.org.sg/tag/volunteers/) [WICA & medical insurance](https://twc2.org.sg/tag/wica-medical-insurance/) [WICA validity](https://twc2.org.sg/tag/wica-validity/) [Work safety](https://twc2.org.sg/tag/work-safety/)

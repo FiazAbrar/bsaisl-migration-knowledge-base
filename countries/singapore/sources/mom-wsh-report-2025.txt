@@ -1,0 +1,2907 @@
+rm
+
+      Workplace Safety
+     and Health Report
+
+                       2025
+
+                          National Statistics
+          WORKPLACE SAFETY AND HEALTH REPORT, 2025____
+
+CONTENTS
+
+Notations, List of Charts and Statistical Tables  Page 1
+Key Facts                                         Page 5
+Overview of Trends                                Page 15
+Work Injury Compensation                          Page 36
+Business Under Surveillance                       Page 38
+Medical and Hygiene Surveillance                  Page 39
+
+Annexes                                           Page 43
+Annex A1 & A2 ­ Industry Profile                  Page 52
+Annex B ­ Statistical Tables                      Page 79
+Annex C1 ­ Business Under Surveillance            Page 80
+Annex C2 ­ Medical and Hygiene Surveillance       Page 81
+Annex C3 ­ Sources of Data & Data Coverage        Page 82
+Annex C4 ­ Concepts and Definitions               Page 83
+Annex C5 ­ Glossary
+                                     WORKPLACE SAFETY & HEALTH REPORT, 2025 1
+
+   NOTATIONS
+
+-  : Nil or negligible
+
+n.a. : Not applicable/Not available
+
+[N] : See (II) below, applicable to workplace major and minor injury figures from 2021.
+
+Note:
+
+     (I) Data presented in this report reflect revised methodology and improved classification of entities by
+          industries, including the revision due to Singapore Standard Industrial Classification 2020.
+
+     (II) Prior to January 2021, workplace major and minor injury numbers pertain to injuries sustained by
+          employees that resulted in four or more days of medical leave, or at least 24 hours of hospitalisation.
+          Following the amendments to the Work Injury Compensation Act (WICA) which took effect from
+          September 2020, employers need to report all work injuries with any instance of medical leave or light
+          duties. From January 2021, major and minor injury numbers shared in this report include injuries with
+          any instance of light duty or medical leave issued. Numbers presented under this new series are marked
+          with [N].
+
+     (III) Since 2022, sub-classification for the Incident Type (Cause) of workplace injuries have been introduced
+          to reprioritise the key areas of concern for better interventions. Incident Type (Cause) of workplace
+          injuries are further classified based on their fatality risk. Details of this classification can be found in
+          Annex C4.
+
+     (IV) Following the enactment of the Platform Workers Act, 2024, platform operators (POs) have been
+          required from 1 January 2025 to report work-related injuries and occupational diseases of their
+          platform workers (PWs). Such data was unavailable prior to 1 January 2025.
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 2
+
+ LIST OF CHARTS
+
+Figure (i): International comparison of workplace fatal injury rate (3-year average)
+Figure (ii): Number and rate of workplace fatal injuries, 2016-2025
+Figure (ii): Number and rate of workplace major injuries, 2016-2025
+
+Figure 1: Number and rate of total workplace injuries, 2018-2025
+Figure 2a: Number and rate of workplace fatal injuries, 2018-2025
+Figure 2b: Number and rate of workplace fatal injuries by fatality risk, 2018-2025
+Figure 2c: Number of workplace fatal injuries by cause of injury, 2018-2025
+Figure 2d: Number of workplace fatal injuries by industry, 2018-2025
+Figure 3a: Number and rate of workplace fatal injuries for Construction sector, 2018-2025
+Figure 3b: Number and rate of workplace fatal injuries for Construction sector by fatality risk, 2018-2025
+Figure 3c: Number and rate of workplace fatal injuries for Manufacturing sector, 2018-2025
+Figure 3d: Number and rate of workplace fatal injuries for Manufacturing sector by fatality risk, 2018-2025
+Figure 3e: Number and rate of workplace fatal injuries for Transportation & Storage industry, 2018-2025
+Figure 3f: Number and rate of workplace fatal injuries for Transportation & Storage industry by fatality risk,
+
+                2018-2025
+Figure 3g: Number and rate of workplace fatal injuries for Marine industry, 2018-2025
+Figure 3h: Number and rate of workplace fatal injuries for Marine industry by fatality risk, 2018-2025
+Figure 4a: Number and rate of workplace major injuries, 2018-2025
+Figure 4b: Number and rate of workplace major injuries by fatality risk, 2018-2025
+Figure 4c: Number of workplace major injuries by cause of injury, 2018-2025
+Figure 4d: Number of workplace major injuries by industry, 2018-2025
+Figure 5a: Number and rate of workplace major injuries for Construction sector, 2018-2025
+Figure 5b: Number and rate of workplace major injuries for Construction sector by fatality risk, 2018-2025
+Figure 5c: Number and rate of workplace major injuries for Manufacturing sector, 2018-2025
+Figure 5d: Number and rate of workplace major injuries for Manufacturing sector by fatality risk, 2018-2025
+Figure 5e: Number and rate of workplace major injuries for Transportation & Storage industry, 2018-2025
+Figure 5f: Number and rate of workplace major injuries for Transportation & Storage industry by fatality
+
+                risk, 2018-2025
+Figure 5g: Number and rate of workplace major injuries for Marine industry, 2018-2025
+Figure 5h: Number and rate of workplace major injuries for Marine industry by fatality risk, 2018-2025
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 3
+
+Figure 6a: Number and rate of workplace minor injuries, 2018-2025
+Figure 6b: Number and rate of workplace minor injuries for the new series by fatality risk, 2021-2025
+Figure 6c: Number and rate of workplace minor injuries for the former series by fatality risk, 2018-2025
+Figure 6d: Number of workplace minor injuries by cause of injury, 2018-2025
+Figure 6e: Number of workplace minor injuries by industry, 2018-2025
+Figure 7a: Number of dangerous occurrences, 2018-2025
+Figure 7b: Number of dangerous occurrences by industry, 2018-2025
+Figure 8a: Number and rate of occupational diseases, 2018-2025
+Figure 8b: Number of occupational diseases by industry, 2018-2025
+Figure 8c: Number of occupational diseases by type, 2018-2025
+Figure 8d: Number and rate of noise-induced hearing loss, 2018-2025
+Figure 8e: Number and rate of work-related musculoskeletal disorders, 2018-2025
+Figure 9: Number of companies entering and exiting surveillance, 2018-2025
+Figure 10a: Number of workers under medical surveillance, 2018-2025
+Figure 10b: Number of workplaces under medical surveillance, 2018-2025
+Figure 10c: Medical monitoring for noise exposure by Top five industries, 2025
+Figure 10d: Medical monitoring for chemical exposure by Top five industries, 2025
+Figure 11a: Static noise monitoring results by industry, 2023-2025
+Figure 11b: Personal noise exposure results by industry, 2023-2025
+Figure 11c: Chemical exposure results by industry, 2025
+
+ LIST OF TABLES
+
+Table (i): Number of fatal and major injuries by incident risk type (Type A/B), 2024-2025
+Table (ii): Number and rate of fatal and major injuries (excluding PWs) in key sectors, 2024-2025
+Table (iii): Number of fatal and major injuries (excluding PWs) in key sectors by industry/ activity, 2024-2025
+Table (iv): Number of fatal and major injuries (excluding PWs) in key sectors by incident risk type (Type
+
+              A/B), 2024-2025
+Table (v): Number of workplace injuries, dangerous occurrences and occupational diseases, 2024-2025
+Table (vi): Key safety and health indicators, 2024-2025
+Table (vii): Fatal and major injury rates by firm size and proportion of injured by working experience for
+
+              selected industry, 2025
+Table (viii): Number and proportion of workplace fatal and major injuries for selected industry, 2025
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 4
+
+Table 1a: Number and rate of workplace injuries and occupational diseases from platform workers, 2025
+Table 1b: Number of platform worker injuries by cause of injury and work activity, 2025
+Table 1c: Number of TI and PI work injury compensation claims and amount awarded, 2023-2025
+Table 1d: Number of fatal and total work injury compensation claims and amount awarded, 2023-2025
+Table 1e: Number of fatal and major injuries among workers who were involved in traffic accidents during
+
+              work and were not vocational drivers, based on work injury claims reported, 2023-2025
+Table 2: Rate of total workplace injuries by industry, 2024-2025
+Table 3a: Number of workplace fatal injuries by industry/ work activity, 2024-2025
+Table 3b: Rate of workplace fatal injuries by industry/ work activity, 2024-2025
+Table 3c: Number of workplace fatal injuries by incident risk type (Type A/B), 2024-2025
+Table 3d: Number of workplace fatal injuries by incident type (cause) and incident agent, 2024-2025
+Table 3e: Number of workplace fatal injuries by industry and incident type (cause), 2025
+Table 4a: Number of workplace major injuries by selected industry/ work activity, 2024-2025
+Table 4b: Rate of workplace major injuries by selected industry/ work activity, 2024-2025
+Table 4c: Types of workplace major injuries, 2024-2025
+Table 4d: Number of workplace major injuries by incident risk type (Type A/B), 2024-2025
+Table 4e: Number of workplace major injuries by key incident type (cause) and incident agent, 2024-2025
+Table 4f: Top three incident types for workplace major injuries by industry, 2025
+Table 5a: Number of workplace minor injuries by selected industry, 2024-2025
+Table 5b: Rate of workplace minor injuries by selected industry, 2024-2025
+Table 5c: Types of workplace minor injuries, 2024-2025
+Table 5d: Number of workplace minor injuries by incident risk type (Type A/B), 2024-2025
+Table 5e: Number of workplace minor injuries by key incident type (cause) and incident agent, 2024-2025
+Table 5f: Top three incident types for workplace minor injuries by industry, 2025
+Table 5g: Top three incident types for workplace minor injuries by industry, 2025[N]
+Table 6a: Number of dangerous occurrences by industry, 2024-2025
+Table 6b: Types of dangerous occurrences, 2024-2025
+Table 7a: Number of occupational disease cases by selected industry, 2024-2025
+Table 7b: Rate of occupational disease incidence by selected industry, 2024-2025
+Table 7c: Number of occupational disease cases by type, 2024-2025
+Table 7d: Number of noise-induced hearing loss cases by selected industry, 2024-2025
+Table 7e: Number of work-related musculoskeletal disorder cases by selected industry, 2024-2025
+Table 7f: Number of occupational skin disease cases by selected industry, 2024-2025
+Table 7g: Top causative agents of occupational skin diseases, 2025
+Table 8: Number of man-days lost to workplace incidents by industry, 2024-2025
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 5
+
+ KEY FACTS
+
+SINGAPORE'S WORKPLACE SAFETY AND HEALTH PERFORMANCE IN 2025 SAW RECORD LOW
+WORKPLACE FATALITY AND MAJOR INJURY RATES, PLACING SINGAPORE'S WORKPLACES AMONG
+THE SAFEST GLOBALLY
+
+Singapore's Workplace Safety and Health (WSH) performance improved in 2025, with the workplace fatal injury
+rate falling to a record low of 0.96 per 100,000 workers. The workplace major injury rate excluding platform
+workers (PWs) also declined to an all-time low of 15.7 per 100,000 workers. With the inclusion of PWs, the rate
+was 17.7 per 100,000 workers. This is the first year where non-fatal injury data on PWs is available and included
+in this report. Data on PWs was made available after the Platform Workers Act (PW Act) came into effect on 1
+January 2025.
+
+These achievements place Singapore's workplaces among the safest globally, alongside leading countries such
+as the Netherlands, the United Kingdom, Germany and Sweden, which have consistently achieved fatality rates
+below 1.0 per 100,000 workers. This progress was made possible through the sustained collective efforts of
+unions, employers, and industry partners in building a strong culture of WSH excellence. (Figure (i))
+
+Highlights from Key Statistics
+
+In 2025, workplace fatal injury rate achieved an all-time low of 0.96 fatal injuries per 100,000 workers. There
+were 36 fatalities in 2025, including six from work-related traffic accidents, two of which involved PWs.
+Excluding injuries from PWs, there were 34 fatalities at a rate of 0.91 per 100,000 workers in 2025. (Figure (ii))
+
+Workplace major injury rate was also at its lowest at 15.7 major injuries per 100,000 workers (586 major injuries)
+in 2025. This was an improvement from 15.9 per 100,000 workers in 2024 (587 major injuries), continuing the
+trend of sustained improvement since 2021. With the availability of PW injury data from 1 January 2025,
+including injuries from PWs, there were 660 major injuries with a rate of 17.7 injuries per 100,000 workers.
+(Figure (iii))
+
+In terms of sectoral performance, Construction and Manufacturing continued to be the top contributors to
+workplace fatal and major injuries, with 148 (24%) and 124 (20%) fatal and major injuries respectively. (Table
+(ii))
+
+For Construction, its fatal and major injury rate per 100,000 workers fell from 31.0 in 2024 to 26.3 in 2025. By
+industry activity, while smaller scale works such as Addition & Alteration works and Renovation contributed to
+the majority of fatal and major injuries for the sector (64% in 2025), there were fewer injuries from these works
+in 2025 (95 injuries), compared to 2024 (103 injuries). In contrast, larger scale (regular) construction worksites
+saw more significant improvements over the same period with number of injuries reducing from 60 to 45.
+(Table (ii) & (iii))
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 6
+
+For Manufacturing, its fatal and major injury rate per 100,000 workers recorded slight improvements from 29.3
+in 2024 to 28.8 in 2025. In terms of industry activity, Metalworking and Manufacturing of Food & Beverages
+remained as the top two leading industries with most injuries. The overall improvement was driven mainly by
+the reduction in major injuries from the Metalworking industry, where the fatal and major injury numbers fell
+from 48 in 2024 to 37 in 2025. (Tables (ii) & (iii))
+For Transportation & Storage, its fatal and major injury rate per 100,000 workers rose from 18.4 in 2024 to 23.8
+in 2025. The higher numbers were driven by the increase in incidents with lower fatality risk (Type B incidents)
+such as Slips, Trips and Falls. (Tables (ii) & (iv))
+In 2025, there were two fatalities and 74 major injuries involving PWs, translating into a fatal and major injury
+rate of 84.6 per 100,000 PWs. Most injuries involved PWs performing delivery services. The majority of injuries
+were caused by vehicular incidents sustained while PWs were operating vehicles or active mobility devices on
+public roads and paths, with PWs on two-wheeled vehicles such as motorcycles and bicycles being more prone
+to injuries. (Table 1a & 1b, Pg. 16)
+For the overall number of reported workplace injuries, there were 22,710 injuries in 2025, 2.5% higher compared
+to 22,157 in 2024. The overall injury rate consequently increased by 1.2% from 601 injuries per 100,000 workers
+in 2024 to 608 in 2025. Including injuries from PWs, the overall number of reported workplace injuries in 2025
+was 24,063 at a rate of 645 injuries per 100,000 workers. (Tables (v) and (vi))
+There were 1,028 Occupational Diseases (ODs) in 2025, higher than 899 ODs in 2024. The number of ODs
+remained higher compared to the years prior to 2021 due to ongoing Enhanced Workplace Health Surveillance
+(WHS+) efforts since 2021, which led to increased awareness in reporting amongst doctors and employers.
+(Figure 8a, Pg. 33)
+In 2025, there were 23 Dangerous Occurrences1 (DOs), higher than 19 DOs in 2024. The leading industries for
+DOs were Manufacturing and Transportation & Storage.
+
+    1 Refer to the prescribed incidents with potential to cause serious damage, injury or death, such as crane collapse and explosion.
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 7
+Figure (i): International comparison of workplace fatal injury rate* (3-year average)
+
+* Fatal injury rate per 100,000 workers.
+
+Source: [1] International Labour Organisation for data on the Netherlands and Germany, 2021 ­ 2023; and Sweden, 2022 ­ 2024; [2] Japan
+Industrial Safety & Health Association for data on Japan, 2022 ­ 2024; [3] UK Health and Safety Executive for data on the United Kingdom,
+2022 - 2024; [4] Safe Work Australia for data on Australia, 2022 ­ 2024; [5] Stats NZ Tatauranga Aotearoa for data on New Zealand, 2022
+­ 2024; [6] U.S. Bureau of Labor Statistics for data on the United States of America, 2021 ­ 2023.
+                                                                        WORKPLACE SAFETY & HEALTH REPORT, 2025 8
+Figure (ii): Number and rate of workplace fatal injuries, 2016-2025
+
+Figure (iii): Number and rate of workplace major injuries, 2016-2025
+                                                  WORKPLACE SAFETY & HEALTH REPORT, 2025 9
+
+Table (i): Number of fatal and major injuries by incident risk type (Type A/B), 2024-2025
+
+       Incident Risk Type (i)                  2024             2025               2025
+                                       Excluding PWs(ii)  Excluding PWs    Including(iii) PWs
+
+Overall                                      630                620        696
+
+Type A ­ Higher fatality risk                249                244        307
+
+Type B ­ Lower fatality risk                 381                376        389
+
+Note:
+
+(i) Details on Type A & Type B incident types are in Annex C4.
+
+(ii) PWs - Platform Workers
+
+(iii) From 1 January 2025, platform operators (POs) are required to report work-related injuries of their
+
+       platform workers (PWs) to MOM.
+
+Table (ii): Number and rate of fatal and major injuries (excluding PWs) in key sectors, 2024-
+2025
+
+                               Number of Fatal & Major          Fatal & Major Injury Rates
+                                 Injuries (% of Total(iv))
+         Sector                                                      (Per 100,000 workers)
+
+                                       2024               2025       2024  2025
+
+Overall                        630 (100%)         620 (100%)         17.1  16.6
+
+Construction                   166 (26%)          148 (24%)          31.0  26.3
+
+Manufacturing                  125 (20%)          124 (20%)          29.3  28.8
+
+Transportation & Storage       49 (7.8%)          64 (10%)           18.4  23.8
+
+Marine                         22 (3.5%)          13 (2.1%)          35.8  20.4
+
+Note:
+
+(iv) Percentages do not sum up to 100% as only selected sectors and industries are shown in table
+     above.
+                               WORKPLACE SAFETY & HEALTH REPORT, 2025 10
+
+Table (iii): Number of fatal and major injuries (excluding PWs) in key sectors by industry/
+activity, 2024-2025
+
+Sector         Industry/Activity                                2024 2025
+
+                               Overall                          166  148
+
+Construction   Smaller Scale Works (e.g. Addition &             103  95
+               Alteration works and Renovation)
+               Regular Construction                             60   45
+
+               Work-related Traffic Accidents (WRTA)            3    8
+                                     Overall(v)
+                                                                125  124
+
+               Metalworking                                     48   37
+
+Manufacturing  Manufacturing Food & Beverages                   33   40
+               Furniture Making
+                                                                6    12
+
+               Petroleum Products & Chemical Products           6    7
+
+               Paper/ Rubber/ Plastic Products & Printing       4    7
+
+                               Overall                          49   64
+
+Transportation & Storage Work-related Traffic Accidents (WRTA)  3    9
+
+               Excluding WRTA                                   46   55
+
+Note:
+     (v) Data do not sum up to sectoral overall as not all Manufacturing industries are featured in the table.
+                          WORKPLACE SAFETY & HEALTH REPORT, 2025 11
+
+Table (iv): Number of fatal and major injuries (excluding PWs) in key sectors by incident risk
+type (Type A/B), 2024-2025
+
+        Sector            Incident Risk Type        2024  2025
+
+                          Overall                   166   148
+
+                          Type A                    106   97
+                          Type B
+Construction                                        60    51
+
+                          Leading Incident: Type A  44    43
+                              Falls from Height
+
+                          Overall                   125   124
+
+                          Type A                    34    36
+                          Type B
+Manufacturing                                       91    88
+
+                          Leading Incident: Type B  42    37
+                            Machinery Incidents
+
+                          Overall                   49    64
+
+                          Type A                    28    30
+                          Type B
+Transportation & Storage                            21    34
+
+                          Leading Incident: Type B  12    21
+
+                          Slips, Trips & Falls
+
+                          Overall                   22    13
+
+Marine                    Type A                    16    6
+                          Type B
+                                                    6     7
+
+                          Leading Incident: Type B  5     6
+                              Slips, Trips & Falls
+                                    WORKPLACE SAFETY & HEALTH REPORT, 2025 12
+
+Table (v): Number of workplace injuries, dangerous occurrences and occupational diseases,
+2024-2025
+
+                                 2024                   2025
+
+                          Type A Type B Overall Type A Type B Overall
+
+Total Workplace Injuries   n.a.    n.a.    n.a.  7,144  16,919  24,063
+[N2]                      6,389  15,768  22,157  6,048  16,662  22,710
+
+- Including PWs
+
+- Excluding PWs
+
+Fatal Injuries
+
+-Including PWs            38     5       43      34     2       36
+
+-Excluding PWs            38     5       43      32     2       34
+
+(from WRTA)               (4)    (n.a.)  (4)     (6)    (n.a.)  (6)
+
+Major Injuries [N]
+
+-Including PWs            n.a.   n.a.    n.a.    273    387     660
+
+-Excluding PWs            211    376     587     212    374     586
+
+Minor Injuries [N]
+
+-Including PWs            n.a.   n.a.    n.a.    6,837 16,530 23,367
+
+-Excluding PWs            6,140  15,387 21,527 5,804 16,286     22,090
+
+Dangerous Occurrences                    19                     23
+
+Occupational Diseases
+
+-Including PWs                           n.a.                   1,028
+
+-Excluding PWs                           899                    1,027
+
+2 Following the amendments to the Work Injury Compensation Act (WICA) which took effect from September 2020, employers need to report all work
+injuries with any instance of medical leave or light duties. From January 2021, major and minor injury numbers include injuries with any instance of
+medical leave or light duties. Numbers presented under this new series are marked with [N].
+                                WORKPLACE SAFETY & HEALTH REPORT, 2025 13
+
+Table (vi): Key safety and health indicators, 2024-2025
+
+                        Type A   2024   Overall Type A           2025  Overall
+                                Type B                         Type B
+
+Total Workplace Injury  n.a.    n.a.    n.a.             191   453     645
+[N] Rate
+- Including PWs         173     428     601              162   446     608
+
+- Excluding PWs
+
+Fatal Injury Rate
+
+-Including PWs          1.03    0.14    1.2              0.91  0.05    0.96
+
+-Excluding PWs          1.03    0.14    1.2              0.86  0.05    0.91
+
+Major Injury [N] Rate
+
+-Including PWs          n.a.    n.a.    n.a.             7.3   10.4    17.7
+
+-Excluding PWs          5.7     10.2    15.9             5.7   10.0    15.7
+
+Minor Injury [N] Rate
+
+-Including PWs          n.a.    n.a.    n.a.             183   443     626
+
+-Excluding PWs          167     418     584              155   436     592
+
+Occupational Diseases
+Incidence Rate
+
+-Including PWs                          n.a.                           27.5
+
+-Excluding PWs                          24.4                           27.5
+
+Man-days Loss [N]
+
+-Including PWs          n.a.    n.a.    n.a. 295,392 198,191 493,583
+
+-Excluding PWs          315,925 205,983 521,908 271,784 194,983 466,767
+
+Note:
+
+     (vi) All rates are per 100,000 workers. Rates for Type A and Type B are rounded figures and may not add up to
+          figures in overall rates.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 14
+
+The summary of Singapore's workplace safety and health performance for 2025 was:
+WORKPLACE INJURIES
+
+     · 36 workers were fatally injured, which translated to 0.96 fatalities per 100,000 workers. Excluding PWs,
+          there were 34 fatalities with a rate of 0.91 fatalities per 100,000 workers.
+
+     · 586 workers sustained workplace major injuries, which translated to 15.7 injuries per 100,000 workers.
+          Including PWs, there were 660 major injuries with a rate of 17.7 injuries per 100,000 workers.
+
+     · [New Series] 22,090 workers sustained workplace minor injuries with any instance of medical leave or
+          light duty, which was 592 injuries per 100,000 workers. Including PWs, there were 23,367 minor injuries
+          with a rate of 626 injuries per 100,000 workers.
+
+     · 11,361 workers sustained workplace minor injuries with at least four days of medical leave or 24 hours
+          of hospitalisation, which was 304 injuries per 100,000 workers. Including PWs, there were 12,178 minor
+          injuries with a rate of 326 injuries per 100,000 workers.
+
+DANGEROUS OCCURRENCES (DO)
+
+     · 23 DOs were reported to MOM in 2025.
+
+OCCUPATIONAL DISEASES (OD)
+
+     · There were 1,028 OD cases in 2025, with an incidence rate of 27.5 per 100,000 workers.
+
+     · The leading OD was Noise-induced Hearing Loss (NIHL) with 550 cases, followed by Work-related
+          Musculoskeletal Disorders (WRMSD) with 317 cases (including back injury cases due to ergonomic
+          risks).
+
+BUSINESS UNDER SURVEILLANCE (BUS)
+
+     · 13 companies entered the BUS programme in 2025.
+
+MEDICAL AND HYGIENE SURVEILLANCE
+
+     · 117,218 workers from 2,841 workplaces were monitored under the Medical Surveillance Programme.
+
+     · Under the Hygiene Surveillance Programme, 76% of the workplaces had static noise levels greater than
+          85dBA.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 15
+
+ OVERVIEW OF TRENDS
+
+TOTAL WORKPLACE INJURIES3
+The overall number of reported4 workplace injuries in 2025 was 22,710, 2.5% higher compared to 22,157 in
+2024. The workplace injury rate consequently increased by 1.2% from 601 injuries per 100,000 workers in 2024
+to 608 in 2025. In contrast, the overall number of reported workplace injuries with at least four days of medical
+leave or 24 hours of hospitalisation, was 11,974 in 2025, 0.68% lower compared to 12,056 in 2024.
+From 1 January 2025, POs have been required to report workplace injuries and occupational diseases of PWs
+to MOM. Including injuries from PWs, the overall number of reported workplace injuries in 2025 was 24,063 at
+a rate of 645 injuries per 100,000 workers. For the overall number of reported workplace injuries with at least
+four days of medical leave or 24 hours of hospitalisation, it was 12,866 in 2025, at a rate of 345 injuries per
+100,000 workers.
+Figure 1: Number and rate of total workplace injuries, 2018-2025
+
+   3 Refer to Notes (I) to (IV) on page 1 for changes to coverage for workplace injuries from 2020.
+   4 Employer, Occupier or Platform Operator has to report work incidents to the Ministry of Manpower under the WSH (Incident Reporting) Regulations.
+                                         WORKPLACE SAFETY & HEALTH REPORT, 2025 16
+
+WORKPLACE INJURIES AND OCCUPATIONAL DISEASES FROM PLATFORM WORKERS
+
+Following the enactment of the Platform Workers Act, 2024, POs have been required from 1 January 2025 to
+report work-related injuries and occupational diseases of their PWs. Such data was unavailable prior to 1
+January 2025.
+
+There were 76 PW fatal and major injuries in 2025 (inclusive of two fatalities), with a rate of 84.6 injuries per
+100,000 workers. 84% (64/76) of injuries occurred while the PWs were involved in delivery service. In terms of
+leading cause of injuries, 82% (62/76) of injuries sustained by PWs were vehicular incidents.
+
+The one OD sustained by PW in 2025 was Work-related musculoskeletal disorder.
+
+Table 1a: Number and rate of workplace injuries and occupational diseases from platform
+workers, 2025
+
+                                                                                             2025
+
+Number of Workplace Injury [N]           Fatal  Major                              Minor [N]  Fatal &
+                                           2      74                                  1,277   Major
+
+                                                                                                 76
+
+Injury Rate [N] (Per 100,000 workers)    2.2    82.4                                  1,422   84.6
+
+Number of Occupational Diseases (OD)                                            1
+
+OD Incidence Rate (Per 100,000 workers)                                         1.1
+
+Table 1b: Number of platform worker injuries by cause of injury and work activity, 2025
+
+                                                                                2025
+
+                                         Fatal  Major                              Minor [N] Fatal &
+                                                                                                       Major
+
+Leading causes
+
+Vehicular Incidents                      2      60                                    1,020   62
+
+Slips, Trips & Falls                     0      12                                    167     12
+
+Over-exertion /Strenuous Movements       0      0                                     34      0
+
+Others*                                  0      2                                     56      2
+
+Work activity at the point of accident
+
+Delivery Service                         2      62                                    763     64
+
+Ride-hail of passenger(s)                0      12                                    514     12
+
+* Others include causes such as Physical Assault and Striking Against Objects.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 17
+WORKPLACE FATAL INJURIES
+There were 36 workplace fatal injuries in 2025, seven fatal injuries fewer compared to 43 in 2024. The workplace
+fatal injury rate in 2025 declined to 0.96 fatal injuries per 100,000 workers from 1.2 in 2024. Excluding injuries
+from PWs, there were 34 fatal injuries in 2025 with a rate of 0.91 per 100,000 workers.
+Figure 2a: Number and rate of workplace fatal injuries, 2018-2025
+
+CAUSES OF WORKPLACE FATAL INJURIES
+Almost all (94%) fatalities in 2025 were caused by Type A incidents, which have higher risk of fatality.
+Figure 2b: Number and rate of workplace fatal injuries by fatality risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 18
+The top three causes of workplace fatalities in 2025 were Vehicular Incidents, Falls from Height, and
+Collapse/Failure of Structures & Equipment. These collectively accounted for 78% (28 fatal injuries) of the 36
+workplace fatal injuries in 2025.
+Figure 2c: Number of workplace fatal injuries by cause of injury, 2018-2025
+
+INDUSTRIES CONTRIBUTING TO WORKPLACE FATAL INJURIES
+The Construction sector remained the top contributor in 2025 with 13 fatal injuries. This was followed by
+Transportation & Storage (seven fatal injuries) and Manufacturing (four fatal injuries). These top three higher
+risk industries accounted for 67% of the 36 fatal injuries in 2025.
+Figure 2d: Number of workplace fatal injuries by industry, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 19
+WORKPLACE FATAL INJURIES BY INDUSTRY
+CONSTRUCTION
+There were 13 workplace fatal injuries in the Construction sector in 2025, seven fatalities fewer than 2024. The
+workplace fatal injury rate decreased from 3.7 fatal injuries per 100,000 workers in 2024 to 2.3 in 2025. More
+than 90% of fatal injuries in 2025 were from Type A incidents which have higher risk of fatality.
+Figure 3a: Number and rate of workplace fatal injuries for Construction sector, 2018-2025
+
+Figure 3b: Number and rate of workplace fatal injuries for Construction sector by fatality risk,
+2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 20
+MANUFACTURING
+There were four workplace fatal injuries in the Manufacturing sector in 2025, two fatal injuries more than 2024.
+The workplace fatal injury rate increased from 0.47 fatal injuries per 100,000 workers in 2024 to 0.93 in 2025.
+All four fatal injuries in 2025 were caused by Type A incidents.
+Figure 3c: Number and rate of workplace fatal injuries for Manufacturing sector, 2018-2025
+
+Figure 3d: Number and rate of workplace fatal injuries for Manufacturing sector by fatality
+risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 21
+TRANSPORTATION & STORAGE
+There were seven workplace fatal injuries in the Transportation & Storage industry in 2025, two fatal injuries
+fewer than 2024. The workplace fatal injury rate decreased from 3.4 fatal injuries per 100,000 workers in 2024
+to 2.6 in 2025. All seven fatal injuries in 2025 were from Type A incidents.
+Figure 3e: Number and rate of workplace fatal injuries for Transportation & Storage industry,
+2018-2025
+
+Figure 3f: Number and rate of workplace fatal injuries for Transportation & Storage industry
+by fatality risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 22
+MARINE
+There was one workplace fatal injury in the Marine industry5 in 2025, four fatal injuries fewer than 2024. The
+workplace fatal injury rate decreased from 8.1 fatal injuries per 100,000 workers in 2024 to 1.6 in 2025. The one
+fatal injury in 2025 was a Type A incident.
+Figure 3g: Number and rate of workplace fatal injuries for Marine industry, 2018-2025
+
+Figure 3h: Number and rate of workplace fatal injuries for Marine industry by fatality risk,
+2018-2025
+
+   5 The marine industry includes the following activities:
+                · Shipbuilding and Ship Repair
+                · Marine Surveying Services (other than classification societies)
+                · Salvaging of distressed vessels and cargo
+
+       Works carried out in the anchorage are also included.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 23
+WORKPLACE MAJOR INJURIES
+There were 586 workplace major injuries in 2025, comparable to 587 injuries in 2024. The major injury rate
+decreased from 15.9 major injuries per 100,000 workers in 2024 to 15.7 in 2025. Including injuries from PWs,
+there were 660 major injuries in 2025 with a rate of 17.7 per 100,000 workers.
+Figure 4a: Number and rate of workplace major injuries, 2018-2025
+
+CAUSES OF WORKPLACE MAJOR INJURIES
+Incidents with lower fatality risk (Type B) formed 64% of the 586 major injuries in 2025. Type B major injury rate
+fell from 10.2 major injuries per 100,000 workers in 2024 to 10.0 in 2025. Type A major injury rate remained at
+5.7 per 100,000 workers over the same period. In 2025, including injuries from PWs, Type A major injury rate
+was 7.3 injuries per 100,000 workers while the rate of major injuries for Type B incidents was at 10.4 per 100,000
+workers.
+Figure 4b: Number and rate of workplace major injuries by fatality risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 24
+The top three causes of workplace major injuries were (i) Slips, Trips & Falls; (ii) Falls from Height; and (iii)
+Machinery Incidents. These collectively accounted for 61% (360 injuries) of the 586 major injuries in 2025.
+Including injuries from PWs in 2025, the top cause remained as Slips, Trips & Falls with 228 major injuries,
+followed by Vehicular Incidents at 103 major injuries.
+Figure 4c: Number of workplace major injuries by cause of injury, 2018-2025
+
+INDUSTRIES CONTRIBUTING TO WORKPLACE MAJOR INJURIES
+In 2025, the top contributing sector for major injuries was the Construction sector with 135 major injuries,
+followed by the Manufacturing sector with 120 major injuries. These top two contributing sectors collectively
+accounted for 44% (255 injuries) of the 586 major injuries in 2025.
+Figure 4d: Number of workplace major injuries by industry, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 25
+WORKPLACE MAJOR INJURIES BY INDUSTRY
+CONSTRUCTION
+There were 135 workplace major injuries in the Construction sector in 2025, 11 major injuries fewer compared
+to 2024. The workplace major injury rate for the sector decreased from 27.3 major injuries per 100,000 workers
+in 2024 to 24.0 in 2025. Being a high-risk sector, major injuries were dominated by Type A incidents.
+Figure 5a: Number and rate of workplace major injuries for Construction sector, 2018-2025
+
+Figure 5b: Number and rate of workplace major injuries for Construction sector by fatality
+risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 26
+MANUFACTURING
+There were 120 workplace major injuries in the Manufacturing sector in 2025, three major injuries fewer than
+2024. The workplace major injury rate decreased from 28.9 major injuries per 100,000 workers in 2024 to 27.9
+in 2025. Majority of the major injuries from the sector were contributed by Type B incidents with lower fatality
+risk.
+Figure 5c: Number and rate of workplace major injuries for Manufacturing sector, 2018-2025
+
+Figure 5d: Number and rate of workplace major injuries for Manufacturing sector by fatality
+risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 27
+TRANSPORTATION & STORAGE
+There were 57 workplace major injuries in the Transportation & Storage industry in 2025, 17 major injuries
+more than 2024. The workplace major injury rate increased from 15.1 major injuries per 100,000 workers in
+2024 to 21.2 in 2025. 60% of major injuries in the industry came from Type B incidents with lower fatality risk,
+in 2025.
+Figure 5e: Number and rate of workplace major injuries for Transportation & Storage industry,
+2018-2025
+
+Figure 5f: Number and rate of workplace major injuries for Transportation & Storage
+industry by fatality risk, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 28
+MARINE
+There were 12 workplace major injuries in the Marine industry in 2025, five injuries fewer compared to 2024.
+The workplace major injury rate decreased from 27.7 major injuries per 100,000 workers in 2024 to 18.8 in 2025.
+42% of the major injuries were contributed by Type A incidents with higher fatality risk in 2025.
+Figure 5g: Number and rate of workplace major injuries for Marine industry, 2018-2025
+
+Figure 5h: Number and rate of workplace major injuries for Marine industry by fatality risk,
+2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 29
+
+WORKPLACE MINOR INJURIES
+Under the new series [N] (any instance of medical leave or light duties), the overall number of reported minor
+injuries in 2025 was 22,090, 2.6% higher compared to 21,527 in 2024. The corresponding minor injury rate for
+2025 was at 592 injuries per 100,000 workers, 1.4% higher than 584 in 2024.
+Based on the former series (four or more days of medical leave, or at least 24 hours of hospitalisation only),
+there were 11,361 minor injuries in 2025, 0.60% lower compared to 11,430 in 2024. The corresponding minor
+injury rate in the former series was similarly lower in 2025 compared to 2024.
+From 1 January 2025, POs have been required to report workplace injuries and occupational diseases of PWs
+to MOM. Including injuries from PWs, the overall number of reported minor injuries under the [N] series in
+2025 was 23,367 at a rate of 626 injuries per 100,000 workers. For overall number of reported workplace injuries
+with at least four days of medical leave or 24 hours of hospitalisation, it was 12,178 in 2025, at a rate of 326
+injuries per 100,000 workers.
+
+Figure 6a: Number and rate of workplace minor injuries, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 30
+CAUSES OF WORKPLACE MINOR INJURIES
+Minor injury numbers and rates of the new series [N] from Type B incidents have increased in 2025 compared
+to 2024, while the number and rate for Type A incidents have fallen over the same period. Type B incidents
+formed about 74% of all minor injuries in 2025. With the inclusion of PW injuries, in its first year, the minor
+injury rates for Type A and B were 183 and 443 injuries per 100,000 workers respectively.
+Figure 6b: Number and rate of workplace minor injuries for the new series by fatality risk,
+2021-2025
+
+Figure 6c: Number and rate of workplace minor injuries for the former series by fatality risk,
+2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 31
+Slips, Trips & Falls, Machinery Incidents, and Over-exertion/ Strenuous Movements were the top three leading
+causes of minor injuries [N], accounting for 50% (11,109 injuries) of the 22,090 minor injuries in 2025.
+Figure 6d: Number of workplace minor injuries by cause of injury, 2018-2025
+
+INDUSTRIES CONTRIBUTING TO WORKPLACE MINOR INJURIES
+With the new series [N], the top four leading industries were Health & Social Services (4,186), Manufacturing
+(3,524), Accommodation & Food Services (2,892) and Construction (2,415). These industries accounted for 59%
+(13,017 injuries) of the 22,090 minor injuries in 2025.
+Figure 6e: Number of workplace minor injuries by industry, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 32
+DANGEROUS OCCURRENCES (DOs)
+There were 23 cases of DO reported to MOM in 2025, four cases more than 2024. Amongst the DO cases, 10
+cases involved Collapse/Failure of Structures & Equipment, and 13 cases involved Fires & Explosion. In 2025,
+Manufacturing was the top contributor accounting for 43% (10 cases) of the total number of DO cases. The
+second top contributing industry was Transportation & Storage at 22% (five cases).
+Figure 7a: Number of dangerous occurrences, 2018-2025
+
+Figure 7b: Number of dangerous occurrences by industry, 2018-2025
+
+*Others refer to the summation of various industries with lower incidence of DOs in recent years. For more information, please refer to
+the statistical tables in Annex B.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 33
+OCCUPATIONAL DISEASES (ODs)
+There were 1,028 cases of OD in 2025, 14% more cases compared to the 899 cases in 2024. This was inclusive
+of one OD in 2025 involving a PW. The OD incidence rate consequently increased from 24.4 cases per 100,000
+workers in 2024 to 27.5 in 2025. The higher OD numbers and rates since 2021 was driven by the rise in Noise-
+induced Hearing Loss (NIHL6) cases due to ongoing Enhanced Workplace Health Surveillance (WHS+) efforts
+and increased awareness in reporting amongst doctors and employers.
+Figure 8a: Number and rate of occupational diseases, 2018-2025
+
+  6 Noise-induced Deafness was renamed to Noise-induced Hearing Loss from 1 December 2025.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 34
+Manufacturing remained the top contributor in 2025 with 396 OD cases, followed by Health & Social Services
+and Construction with 190 and 90 cases, respectively. These industries collectively accounted for 66% (676
+cases) of the 1,028 OD cases in 2025.
+Figure 8b: Number of occupational diseases by industry, 2018-2025
+
+TYPES OF OCCUPATIONAL DISEASES
+The top two types of OD cases were Noise-induced Hearing Loss (NIHL) and Work-related Musculoskeletal
+Disorders7, collectively accounting for 84% (867 cases) of the 1,028 OD cases in 2025.
+Figure 8c: Number of occupational diseases by type, 2018-2025
+
+*Others refer to the summation of various OD types with lower incidence in recent years. For more information, please refer to the
+statistical tables in Annex B.
+
+  7 Back injuries due to ergonomic risks were considered as Work-related Musculoskeletal Disorders and included as an occupational
+  disease since 2013.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 35
+NOISE-INDUCED HEARING LOSS (NIHL)
+There were 550 NIHL cases in 2025. The higher numbers since 2021 were due to ongoing Enhanced Workplace
+Health Surveillance (WHS+) efforts and increased awareness in reporting amongst doctors and employers.
+Manufacturing continued to be the top contributor to NIHL cases, accounting for 62% (339 cases) of the 550
+NIHL cases. This was followed by Marine with 11% (59 cases).
+Figure 8d: Number and rate of noise-induced hearing loss, 2018-2025
+
+WORK-RELATED MUSCULOSKELETAL DISORDERS (WRMSD)
+WRMSD cases increased by 27% from 249 cases in 2024 to 317 in 2025. The top contributing industry was
+Health & Social Services, accounting for 32% (100 cases) of the 317 WRMSD cases, followed by Manufacturing
+(14%, 43 cases) and Transportation & Storage (9.2%, 29 cases).
+Figure 8e: Number and rate of work-related musculoskeletal disorders, 2018-2025
+                                   WORKPLACE SAFETY & HEALTH REPORT, 2025 36
+
+WORK INJURY COMPENSATION
+
+The Work Injury Compensation Act 2019 (WICA 2019) enables employees to make claims for work-related
+injuries or diseases without having to file a civil suit under common law. It is a low-cost and faster alternative
+to common law for settling compensation claims.
+
+NUMBER OF WORK INJURY CLAIMS AND PAYOUT AMOUNT AWARDED
+
+The total number of work injury claims8 awarded rose by 7.6% from 26,843 cases in 2024 to 28,895 cases in
+2025. The increase was mainly from the rise in number of Temporary Incapacity claims in 2025. However, the
+total compensation payout9 awarded decreased by 2.0% from $138.20 million in 2024 to $135.50 million in
+2025.
+
+Table 1c: Number of TI and PI work injury compensation claims and amount awarded, 2023-
+             2025
+
+      Temporary Incapacity (TI)10    Permanent Incapacity (PI)11
+
+Year  No. of cases   MC Wages      No. of cases  MC Wages    PI Compensation
+                     ($million)                  ($million)       ($million)
+2023      21,743                       5,173                        $84.81
+2024      21,542        $19.67         5,204        $27.62          $87.01
+2025      24,356        $18.54         4,407        $19.24          $81.70
+                        $20.01                      $15.21
+
+Table 1d: Number of fatal and total work injury compensation claims and amount awarded,
+             2023-2025
+
+              Fatal                              Total9
+
+Year  No. of       Death     No. of  MC Wages       PI/Death         Total
+      cases   Compensation   cases   ($million)  Compensation      Payout
+2023                                                              ($million)
+2024    82       ($million)  26,998     $47.29      ($million)     $143.75
+2025    97         $11.65    26,843     $37.78        $96.46       $138.20
+        132        $13.41    28,895     $35.22        $100.42      $135.50
+                   $18.58                             $100.28
+
+8 Work injury compensation data excludes cases that were withdrawn, cases with No-Further-Action required and cases that were not
+admitted under WICA. MC wages indicated in the table above were computed based on the number of days of medical/hospitalisation
+leave & light duty captured by MOM.
+
+9 Total compensation payout is the sum of Total MC Wages and Total PI/Death Compensation.
+
+10 Temporary incapacity claims arise from non-permanent work injuries where an injured employee is temporarily unable to perform
+work and earn his usual wages after being placed on medical leave.
+
+11 Permanent incapacity claims arise from injuries which cause permanent injuries or loss of bodily functions to an injured employee.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 37
+
+NUMBER OF WORK INJURY CLAIMS FROM WORKERS WHO WERE INVOLVED IN TRAFFIC ACCIDENTS
+DURING WORK AND WERE NOT VOCATIONAL DRIVERS
+Of the 28,895 work injury claims in 2025, there were a total of 72 fatal and major injuries among workers who
+were involved in traffic accidents during work and were not vocational drivers (Table 1e).
+
+Table 1e: Number of fatal and major injuries among workers who were involved in traffic
+             accidents during work and were not vocational drivers, based on work injury
+             claims reported, 2023-2025
+
+                                                 2023            2024          2025
+
+Claims from workers who were involved in        Fatal  Major  Fatal  Major  Fatal  Major
+traffic accidents while driving for work and      1      17     0      15     4      22
+were not vocational drivers. (e.g. inspectors
+driving from office to worksite, salesmen)
+
+Claims from workers who were involved in
+
+traffic accidents while they were passengers
+
+being transported for work. (e.g. employees
+
+taking a taxi to an external meeting, workers 1        6      3        9    0        46
+
+being transported from worksite to worksite in
+
+a lorry)
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 38
+
+ BUSINESS UNDER SURVEILLANCE
+
+Proactive surveillance of high-risk workplaces enables preventive measures to be taken early. The Business
+Under Surveillance (BUS) programme focuses on improving companies' WSH management systems.
+BUSINESS UNDER SURVEILLANCE
+
+More than 300 companies have been placed under the programme since its inception in 2007. Companies with
+poor WSH performance which includes having (i) fatalities, (ii) multiple workplace injuries or Dangerous
+Occurrences, (iii) issued with Stop Work Orders (SWO), (iv) accumulated a substantial number of demerit points,
+or (v) poor enforcement records, will be assessed on their risk management and WSH management system. If
+the company demonstrates inability to manage WSH properly or shows signs of systemic lapses, it will formally
+enter the BUS programme. Companies will exit the programme only when they have shown significant
+improvement in its WSH performance. In 2025, 13 companies entered the BUS programme. They were from
+the Construction, Manufacturing and Transportations & Storage industries. 11 companies exited the
+programme in 2025.
+
+Figure 9: Number of companies entering and exiting surveillance, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 39
+
+  MEDICAL AND HYGIENE SURVEILLANCE
+
+Medical and Hygiene surveillance programmes monitor workers' exposure and health effects from exposure
+to the list of hazards under the Workplace Safety and Health (General Provisions) Regulations, Workplace Safety
+and Health (Noise) Regulations and the Workplace Safety and Health (Medical Examinations) Regulations.
+MEDICAL SURVEILLANCE
+Workplaces with hazards listed in the Schedule of the WSH (Medical Examinations) Regulations are required
+to send their exposed workers for pre-placement and periodic medical examinations. The number of workers
+under surveillance decreased from 119,397 in 2024 to 117,218 in 2025, while the number of workplaces under
+medical surveillance increased from 2,588 in 2024 to 2,841 in 2025.
+Figure 10a: Number of workers under medical surveillance, 2018-2025
+
+Figure 10b: Number of workplaces under medical surveillance, 2018-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 40
+Figure 10c: Medical monitoring for noise exposure by Top five industries, 2025
+
+Figure 10d: Medical monitoring for chemical exposure by Top five industries, 2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 41
+HYGIENE SURVEILLANCE
+Workplaces where persons are likely to be exposed to excessive noise or toxic substances are required to
+conduct regular hygiene monitoring to measure their workers' exposure to noise and chemicals under the WSH
+(Noise) Regulations and the WSH (General Provisions) Regulations respectively.
+NOISE EXPOSURE LEVELS
+Based on the noise monitoring results submitted over the past three years, 76% of the workplaces had noisy
+processes exceeding 85dBA. 67% of the workplaces that conducted personal exposure monitoring had workers
+who were exposed to excessive noise (above an equivalent sound pressure level of 85dBA over an eight-hour
+workday). These workplaces would need to implement additional control measures to reduce or control the
+noise generated from machinery or equipment in order to reduce workers' exposure to below the permissible
+limits as stipulated in the Schedule of the WSH (Noise) Regulations.
+Figure 11a: Static noise monitoring results by industry, 2023-2025
+
+Figure 11b: Personal noise exposure results by industry, 2023-2025
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 42
+CHEMICAL EXPOSURE LEVELS
+A total of 6,823 chemical monitoring results were received in 2025, of which 53% of the results were from the
+Manufacture of Petroleum Products & Chemical Products industry (25%), Manufacture of Computer, Electronic
+& Optical Products (18%) and Metalworking (10%). Workplaces with chemical exposure levels higher than
+permissible exposure level (PEL12) will require implementation of additional engineering control measures to
+eliminate or reduce workers' exposure to below the PEL.
+Figure 11c: Chemical exposure results by industry, 2025
+
+  12 Permissible Exposure Level (PEL) refers to the maximum time weighted average concentration of a toxic substance to which any
+  person may be exposed.
+                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 43
+
+ANNEX A1
+
+STATISTICAL TABLES ON INDUSTRY PROFILE
+
+Table (vii): Fatal and major injury rates by firm size and proportion of injured by working
+experience for selected industry, 2025
+
+              Industry                       Injury Rate     Proportion* of injured
+                                      by occupier firm size  by working experience
+                                      (per 100,000 workers)
+                                                                  in the company
+
+                                      SME^ Larger Firms  3 years > 3 years
+
+Construction                          20        42           64%        34%
+
+Manufacturing                         39        17           67%        33%
+
+Transportation & Storage              35        15           47%        52%
+
+Accommodation & Food Services         16        33           60%        38%
+
+Administrative & Support Services     15        18           62%        33%
+
+Wholesale & Retail Trade              8.7       6.9          61%        39%
+
+Marine                                14        32           46%        54%
+
+^ Small and Medium Enterprises (SME) are defined as enterprises with employment not more than 200
+workers.
+* Does not sum to 100% for all industries as some injured did not have records on working experiences.
+
+Table (viii): Number and proportion of workplace fatal and major injuries by selected
+industry, 2025
+
+               Industry               Number of Fatal and Major Percentage of Total
+                                               Injuries, 2025
+
+Overall (Excluding platform workers)       620                    100%
+
+Construction                               148                    24%
+
+Manufacturing                              124                    20%
+
+Transportation & Storage                   64                     10%
+
+Accommodation & Food Services              58                     9.4%
+
+Administrative & Support Services          42                     6.8%
+
+Wholesale & Retail Trade                   36                     5.8%
+Marine
+                                           13                     2.1%
+
+Sum of selected industries                 485                    78%
+                                          WORKPLACE SAFETY & HEALTH REPORT, 2025 44
+
+ANNEX A2
+
+INDUSTRY PROFILE OF FATAL AND MAJOR INJURIES BY INCIDENT TYPE (CAUSE) AND ROOT
+CAUSES, 2025
+
+CONSTRUCTION
+
+Common incident type (cause) for fatal and major injuries in 2025
+
+Construction
+
+Type A                                    Type B
+
+Incident Type (Cause)                 2025 Incident Type (Cause)                      2025
+                                                                                       32
+Falls from Height                     43 Slips, Trips & Falls                           9
+Vehicular Incidents                   20 Machinery Incidents
+
+Caught in/Between Objects             12
+
+Struck by Falling Objects             9
+
+Struck by Moving Objects              6
+
+Common root causes
+
+Accident    Root causes               Common occurrence                               Common
+types                                                                                 incident agent
+
+Falls From  Inadequate WSH            Failed to establish Risk Assessment (RA)/ Safe  Ladders,
+Height      Management System         Work Procedures (SWP)/ Method of                Scaffolds,
+            (WSHMS), i.e - not        Statement (MOS) for specific work carried out   Roof works,
+            specific to work          by workers; Inadequate RA/ SWP/MOS for          formwork
+            activities                specific work carried out by workers            structure/
+                                      Unsafe work method/control measures             Structures, Mobile
+                Unsafe behaviours by  Inadequare RA/SWP                               Elevated Work
+                workers               Lack of competency/training                     Platform /
+                                                                                      unprotected
+Vehicular Negligence by               Victims failed to anchor harnesses, or          edges
+Incidents driver/operator/ worker     adopted unsafe behaviours
+
+                                      Driver/Operator/worker did not keep a
+                                      proper lookout, or did not adhere to control Motor vehicles
+                                      measures or did not check blind spot
+                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 45
+
+Common root causes (Continued)
+
+Accident        Root causes           Common occurrence                                Common
+types                                                                                  incident
+                                                                                       agent
+
+                Inadequate WSHMS      Inadequate and generic RA, SWP,
+                                      no/inadequate work procedure, overloading,
+                                      unsafe work method /sequencing
+
+Struck by       Isolated non-         Complacency of workers (lack of hazard           Metal Items,
+Falling         compliance to         awareness), failure to adhere to procedures;     Industrial
+Objects         WSHMS (by victim or   Miscommunication or lack of clear                Hand Tools
+                co-worker/s)          communication regarding tasks, procedures, or    and Structures
+                                      safety measures
+                Equipment Failure or
+                Malfunction           Tools, machinery, or equipment that are
+                                      defective, not properly maintained, or used
+                                      incorrectly
+
+                Inadequate risk       Lack of/ Inadequate RA, Inadequate work
+                control measures;     instructions to workers involved; Negligence of
+                Unsafe behaviours by  individual/ other workers, etc.
+                workers
+
+                Poor housekeeping     Improper storage or placement of materials or
+                                      tools
+Slips, Trips &  Lack of safety                                                         Floor/Level
+Falls           provision             No designated walkways, poor lighting in         Surfaces, Stairs
+                                      walkways and staircases                          or steps
+                Poor housekeeping
+                                      Cluttered walkways, debris not cleaned up
+                Lack of awareness or  promptly
+                attention
+                                      Not using handrails, distracted walking
+                                 WORKPLACE SAFETY & HEALTH REPORT, 2025 46
+
+MANUFACTURING
+
+Common incident type (cause) for fatal and major injuries in 2025
+
+Manufacturing                          Type B
+Type A
+
+Incident Type (Cause)            2025  Incident Type (Cause)                                    2025
+Struck by Falling Objects          8   Machinery Incidents                                       37
+Falls from Height                  8   Slips, Trips & Falls                                      33
+                                       Exposure to/Contact with Extreme
+Caught in/Between Objects          5   Temperature                                                7
+
+Vehicular Incidents                4
+Struck by Moving Objects           4
+Collapse/Failure of Structure &
+Equipment                          4
+
+Common root causes
+
+Accident      Root causes        Common occurrence                                Common incident
+types                                                                             agent
+
+              No or inadequate No machine guarding; No Lock out, Tag out
+              control measures or (LOTO) procedures for cleaning or
+              safety procedures maintenance of machines
+
+Machinery     Non-compliance to  Not following LOTO procedures; Bypass of         Industrial machines
+Incidents     safety measures    safety interlocks; Lack of in-house proper       (Saws, Transmission
+                                 procedures on safe machinery use; Machine        machines e.g. Belts
+                                 guarding not adjusted properly or removed        gear chain pulley,
+                                 without reinstating                              meat grinders)
+
+              Unsafe behaviours  Taking shortcuts to meet production targets;
+              by workers         Inadequate training on safe operation of
+                                 machines; Lack of supervision
+
+              Lack of safety     Failure to install non-slip flooring/ anti-slip
+              measures           mats on wet areas
+
+Slips, Trips  Non-compliance to  Failure to provide or enforce wearing of         Floor/ Level
+& Falls       safety measures    suitable footwear (e.g. slip-resistant safety    surfaces
+                                 shoes or boots); Lack of situational awareness
+              Poor housekeeping
+                                 Failure to clear material debris, resulting in
+                                 obstructions along passageway, disorganised
+                                 workplace posing tripping hazards (e.g.
+                                 electrical cables, compressed air hoses running
+                                 across workplaces); Exposed floor openings
+                                   WORKPLACE SAFETY & HEALTH REPORT, 2025 47
+
+Common root causes (Continued)
+
+             No or lack of safety  Failure to implement measures (e.g. installation
+             measures              of barricades) to safeguard workers exposed to
+                                   risk of falling from open sides of platforms or
+Falls from                         through fragile surfaces; Use of incorrect        Ladders,
+Height                             ladder type (e.g. using A-frame ladders instead   Structures
+                                   of platform ladders for work that requires both
+                                   hands, thus posing risk of fall or toppling)
+
+             Unsafe behaviours     Workers devised their own improper and
+             by workers            unsafe ways to access height; Personal
+                                   Protective Equipment (PPE) (e.g. body harness
+                                   with lanyard, lifeline) provided by employer
+                                   but workers failed to install or use it
+
+             No or lack of safety Unsecured items placed at height.                  Cranes, Structures
+
+             measures              Poor/ unsafe lifting or rigging techniques
+
+Struck by    Materials stored on   Materials may fall off from the metal storage     Storage racks,
+Falling      metal storage racks   racks during loading/ unloading operations        Mezzanine
+Objects      without being                                                           platforms
+             shrink wrapped or
+             secured
+
+             Improper storage      Loose articles stacked or stored without any      Floor, Mezzanine
+             of materials          means of securing, thus posing the risk of        platforms
+                                   toppling onto persons
+
+Collapse/    Inadequate            Inadequate RA/SWP/MOS for specific work           Structures,
+Failure of   WSHMS, i.e ­ did      carried out by workers                            industrial
+Structure &  not address specific                                                    equipment
+Equipment    hazards               Supervisor/worker did not adhere to control
+                                   measures                                          Scissor lift
+             Unsafe behaviours
+             by workers
+                                   WORKPLACE SAFETY & HEALTH REPORT, 2025 48
+
+TRANSPORTATION & STORAGE
+
+Common incident type (cause) for fatal and major injuries in 2025
+
+Transportation & Storage
+
+Type A                                             Type B
+
+Incident Type (Cause)           2025 Incident Type (Cause)                                2025
+                                                                                           21
+Vehicular Incidents             13 Slips, Trips & Falls                                     5
+Struck by Falling Objects
+                                6 Machinery Incidents                                       3
+Caught in/Between Objects
+                                4                  Exposure to/ Contact with Electric
+Falls from Height                                  Current
+
+                                4
+
+Common root causes
+
+Accident      Root causes       Common occurrence                                         Common
+types                                                                                     incident
+                                                                                          agent
+
+Vehicular     Inadequate        Inadequate RA/SWP for unloading operations                Motor vehicles
+(including    WSHMS, specific
+forklifts)    hazards not       Operators/worker failed to adhere to control measures,
+              addressed         or negligence by third party drivers in work-related
+                                traffic accidents
+              Unsafe acts by
+              operators/
+              workers / others
+
+Slips, Trips  Lack of safety    Failure to install non-slip flooring / anti-slip mats on  Floor/ Level
+& Falls       measures          wet areas; Lack of communication on safe means of         Surfaces, Stairs
+                                access to vehicles; Poor housekeeping (e.g. electrical    or steps
+              Non-compliance    cables, materials haphazardly placed on passageway
+              to safety         and failure to keep floor dry)
+              measures
+                                Failure to check effectiveness of footwear regularly and
+                                enforce wearing of suitable footwear (e.g. non-slip
+                                shoes); Lack of handhold for access steps or stairs
+
+              No or             Loose materials placed on pallet, stored/stacked at       Material
+              inadequate        heights and not effectively secured (strapping,           storage and
+              control           wrapping or other securing means) on pallet to            handling
+              measures or       prevent toppling of materials handled by MHE.
+Struck by     safety            Stacking of loose materials must ensure stability, load
+Falling       procedures        evenly distributed with good base foundation
+Objects
+
+                                Inadequate support or maintenance provided for the        Equipment/
+                                equipment/ device i.e. gates and cabinet to ensure safe   device support
+                                for use                                                   and
+                                                                                          maintenance
+                                       WORKPLACE SAFETY & HEALTH REPORT, 2025 49
+
+MARINE
+
+Common incident type (cause) for fatal and major injuries in 2025
+
+Marine                                 Type B
+Type A
+
+Incident Type (Cause)               2025 Incident Type (Cause)                          2025
+                                                                                          6
+Struck by Moving Objects            4 Slips, Trips & Falls
+Suffocation/Drowning                1
+
+Struck by Falling Objects           1
+
+Common root causes
+
+Accident      Root causes           Common occurrence                                   Common
+types                                                                                   incident agent
+
+              Poor housekeeping     Failure to clear materials or debris, resulting in
+                                    obstructions along passageways; Disorganised
+Slips, Trips                        workplace posing slipping or tripping hazards       Floor/Level
+& Falls                             (e.g. electrical/ welding cables, compressed        Surfaces, Stairs or
+                                    air/gas hoses running across workplaces); Wet or    steps
+                                    oily surfaces
+
+              Unsafe behaviours Negligence or carelessness of individuals,
+
+              by workers            Physical Assault / Workplace Violence
+
+Suffocation/  Inadequate            Inadequate control measures for                     Physical
+Drowning      WSHMS, i.e ­ did      embarking/disembarking between vessels,             workplaces
+              not address specific  especially during adverse sea conditions
+              hazards                                                                   Forklift, Winch,
+                                                                                        Metal pipes
+Struck by     No or inadequate      Inadequate Risk Assessment (RA)/ Safe Work
+Moving        control measures      Procedures (SWP)/ Method of Statement (MOS)         Forklift, Wooden
+Objects       or safety             for specific work carried out by workers            materials, Sparks
+              procedures.                                                               from hot-work
+
+              Unsafe behaviours     Negligence or carelessness of individuals,
+              by workers            Physical Assault / Workplace Violence
+                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 50
+
+SERVICES
+
+Common incident type (cause) for fatal and major injuries in 2025
+
+Type A                                Type B
+
+Incident Type (Cause)              2025 Incident Type (Cause)                             2025
+
+Accommodation & Food Services      2 Slips, Trips & Falls                                  25
+Vehicular Incidents                                                                        11
+                                   2  Exposure to/ Contact with Extreme
+Falls from Height                                                                           5
+                                      Temperature                                           5
+
+                                      Exposure to/ Contact with Electric                   23
+                                                                                            3
+                                      Current                                               3
+
+                                      Machinery Incidents                                  13
+                                                                                            3
+Administrative & Support Services  4 Slips, Trips & Falls
+Falls from Height                  3 Striking Against Objects
+Vehicular Incidents
+                                            Over-exertion/ Strenuous
+                                            Movements
+
+Wholesale & Retail Trade           6 Slips, Trips & Falls
+Falls from Height
+
+Vehicular Incidents                5 Machinery Incidents
+
+Common root causes               Common occurrence                                        Common
+ Accident types Root causes                                                               incident
+                                                                                          agent
+                                Accommodation & Food Services
+                                                                                          Hot scalding
+Exposure to/    Inadequate risk  Inadequate safe work procedure on handling hot           liquid/ Steam
+Contact with    assessment and   liquid or steam; Inadequate heat protection
+Extreme         hazard control   equipment                                                Floor/ Level
+Temperature                                                                               Surfaces
+                Negligence by    Complacency/ lack of situational awareness during
+Slips, Trips &  workers          food preparation (transferring hot liquids)
+Falls
+                Lack of safety   Failure to install non-slip flooring/ anti-slip mats on
+                measures         wet areas; Failure to keep floor dry and free of
+                                 grease; Lack of non-slip surface measures in slip-
+                                 prone area
+
+                Non-compliance   Failure to enforce wearing suitable footwear (e.g.
+                to safety        non-slip shoes); Failure to follow proper work
+                measures         practices
+
+                Negligence by    lack of situational awareness while working around
+                workers          customers
+                                   WORKPLACE SAFETY & HEALTH REPORT, 2025 51
+
+Common root causes (Continued)
+
+Accidents       Root Causes        Common Occurrence                               Common incident
+Type                                                                               agent
+
+                                Administrative & Support Services
+
+Slips, Trips &  Lack of safety     Failure to provide non-slip footwear; Lack of   Floor/Level
+Falls           measures           communication on Safe Work (cleaning)           Surfaces,
+                                   methods; Lack of suitable tools provided (e.g.  Stairs or Steps
+                                   cleaning / drying equipment); Lack of non-slip
+                                   surface measures in slip-prone area
+
+                Non-compliance Use of improper tools (for cleaning/ drying);
+                to safety measures Not wearing suitable footwear
+
+Vehicular       Unsafe acts by     Actions by injured or negligence by third party
+Incidents       injured/others                                                                       Motor vehicles
+
+                                   drivers in work-related traffic accidents
+
+Falls from      Lack of/           No RA/SWP for landscaping works carried out,    Ladder, rope access
+Height          inadequate         Inadequate maintenance of rope access           equipment
+                WSHMS              equipment
+
+                                   Inadequate fall protection plan and proper      Other Physical
+                                   anchorage for WAH                               Workplace -
+                                                                                   Structures
+
+                                   Wholesale & Retail Trade
+
+Slips, Trips &  Inadequate safety  Lack of systems of managing flow of goods;      Floor/Level
+Falls           measures and       Lack of non-slip surface measures in slip-      Surfaces;
+                safety procedures  prone area; Negligence of individuals or other  Motor vehicles;
+                                   workers                                         Furniture/ Fittings;
+                Negligence by                                                      Stairs/ Steps;
+                workers            lack of situational awareness while working     Goods & Cargo
+                                   around customers
+
+Vehicular       Unsafe acts by     Actions by injured or negligence by third party
+Incidents       injured/others                                                                      Motor vehicles
+
+                                   drivers in work-related traffic accidents
+
+Exposure to/    No or inadequate   Inadequate Lock Out Tag Out procedure; No       Electrical
+Contact with    control measures   provision or wearing of suitable electrically   Appliances
+Electric        or safety          insulated gloves
+Current         procedures.
+                                   Failure to maintain equipment to protect any
+                Inadequate         person against the risks of electric shock
+                maintenance of
+                equipment
+
+Falls from      Inadequate safety  Inadequate safe work procedure for use of       Ladders
+Height          measures and       ladders; Lack of maintenance of ladders
+                safety procedures
+                                                 WORKPLACE SAFETY & HEALTH REPORT, 2025 52
+
+ ANNEX B
+
+STATISTICAL TABLES
+
+Table 2: Rate of total workplace injuries by industry, 2024 - 2025
+
+                                                 Total Workplace Injury Rate (Excluding PWs)
+
+                       Industry                        (per 100,000 workers)
+
+All Industries                                   2024  2025         2024 [N] 2025 [N]
+Construction
+Manufacturing                                    327   321          601       608
+Marine
+Transportation & Storage                         389   345          523       456
+Accommodation & Food Services
+Administrative & Support Services                542   521          857       847
+Health & Social Services
+Professional, Scientific & Technical Activities  423   320          650       556
+Real Estate Services
+Wholesale & Retail Trade                         341   358          594       643
+Others
+                                                 530   525          1,130     1,092
+
+                                                 347   336          603       610
+
+                                                 560   610          1,678     1,896
+
+                                                 136   155          277       305
+
+                                                 310   315          515       582
+
+                                                 166   166          299       308
+
+                                                 191   185          359       353
+WORKPLACE SAFETY & HEALTH REPORT, 2025 53
+
+Table 3a: Number of workplace fatal injuries by industry/ work activity, 2024 - 2025
+
+                                  Industry/ Work Activity                  2024       2025
+
+All Industries (Including PWs)                                              43         36
+Construction                                                                20         13
+                                                                            13          7
+    Regular Construction                                                     7          5
+    Smaller Scale Works (e.g. Addition & Alteration works and Renovation)    0          1
+    Work-related Traffic Accidents                                           9          7
+Transportation & Storage                                                     4          4
+    Logistics & Transport                                                    2          4
+Manufacturing                                                                1          2
+    Metalworking                                                             1          1
+    Manufacture of Food, Beverages and Tobacco                               0          1
+    Manufacture of Other Non-Metallic Mineral Products                       5          1
+Marine                                                                       1          0
+Real Estate Activities                                                       1          1
+Accommodation & Food Service Activities                                      1          1
+    Food & Beverage Service Activities                                       0          3
+Administrative & Support Service Activities                                  0          2
+    Cleaning & Landscape Maintenance Activities                              3          1
+Water Supply; Sewerage, Waste Management & Remediation Activities            1          2
+Wholesale & Retail Trade                                                     1          1
+    Wholesale Trade                                                          0          1
+    Retail Trade                                                             0          2
+Professional, Scientific & Technical Activities                              1          0
+Community, Social & Personal Services                                        1          0
+    Public Administration & Defence                                          0          2
+Platform Workers
+WORKPLACE SAFETY & HEALTH REPORT, 2025 54
+
+Table 3b: Rate of workplace fatal injuries by industry/ work activity, 2024 ­ 2025
+
+                                                                           Per 100,000 workers
+
+                                  Industry/ Work Activity                  2024     2025
+
+All Industries (Including PWs)                                              1.2     0.96
+Construction                                                                3.7      2.3
+                                                                            n.a.     n.a.
+    Regular Construction                                                    n.a.     n.a.
+    Smaller Scale Works (e.g. Addition & Alteration works and Renovation)   n.a.     n.a.
+    Work-related Traffic Accidents                                          3.4      2.6
+Transportation & Storage                                                    3.4      3.5
+    Logistics & Transport                                                   0.5      0.9
+Manufacturing                                                               1.0      1.9
+    Metalworking                                                            1.6      1.5
+    Manufacture of Food, Beverages and Tobacco                              n.a.     n.a.
+    Manufacture of Other Non-Metallic Mineral Products                      8.1      1.6
+Marine                                                                      1.2      0.0
+Real Estate Activities                                                      0.4      0.4
+Accommodation & Food Service Activities                                     0.4      0.4
+    Food & Beverage Service Activities                                      0.0      1.2
+Administrative & Support Service Activities                                 0.0      2.3
+    Cleaning & Landscape Maintenance Activities                             n.a.     n.a.
+Water Supply; Sewerage, Waste Management & Remediation Activities           0.2      0.4
+Wholesale & Retail Trade                                                    0.3      0.3
+    Wholesale Trade                                                         0.0      0.6
+    Retail Trade                                                            0.0      0.7
+Professional, Scientific & Technical Activities                             0.2      0.0
+Community, Social & Personal Services                                       n.a.     n.a.
+    Public Administration & Defence                                          0       2.2
+Platform Workers
+                                             WORKPLACE SAFETY & HEALTH REPORT, 2025 55
+
+Table 3c: Number of workplace fatal injuries by incident risk type (Type A/B), 2024 ­ 2025
+
+                                    Incident Type (Cause)                2024  2025
+
+Total Workplace Fatal Injuries (Including PWs)                            43    36
+         Type A (higher fatality risk)                                    38    34
+         Type B (Lower fatality risk)                                      5     2
+
+Table 3d: Number of workplace fatal injuries by incident type (cause) and incident agent,
+2024 ­ 2025
+
+Incident Type (Cause)                      Incident Agent                2024  2025
+                                                                          38    34
+Total Workplace Fatal Injuries for Type A                                 11    15
+                                                                           4     6
+Vehicular Incidents    Total                                               4     6
+                                                                           7     9
+- Work-related Traffic Subtotal                                            4     7
+                                                                           1     1
+Accidents              Vehicles - Transport Equipment                      0     1
+                                                                           2     0
+- In Workplaces        Subtotal                                            4     7
+                       Vehicles - Transport Equipment                      0     2
+                                                                           1     1
+                       Vehicles - Industrial Trucks                        1     1
+                                                                           0     1
+                       Vehicles - Excavators                               1     1
+                                                                           1     0
+                       Vehicles - Forklifts                                0     1
+                                                                           6     6
+                       Total                                               5     2
+                                                                           0     1
+                       Means of Access - Ladders                           0     1
+                                                                           0     1
+                       Physical Workplace - Structures                     0     1
+                                                                           1     0
+Falls From Height      Physical Workplace - Roofs                          5     2
+                       Physical Workplace - Formwork                       2     2
+                                                                           1     0
+                       Physical Workplace - Floors/Level Surfaces          1     0
+                                                                           1     0
+                       Means of Access - Others
+
+                       Other Incident Agents
+
+                       Total
+
+                       Physical Workplace - Structures
+
+Collapse/Failure of    Vehicles - Industrial Trucks
+Structure & Equipment  Vehicles ­ Forklifts
+                       Material & Substances - Metal Items
+
+                       Lifting Equipment - Mobile Work Platform
+
+                       Physical Workplace - Formwork
+
+                       Total
+
+                                    Material & Substances - Metal Items
+Struck By Falling Objects Vehicles - Excavators
+
+                       Physical Workplace - Formwork
+
+                       Lifting Equipment - Others
+                                              WORKPLACE SAFETY & HEALTH REPORT, 2025 56
+
+(Continued) Table 3d: Number of workplace fatal injuries by incident type (cause) and
+incident agent, 2024 ­ 2025
+
+Incident Type (Cause)                      Incident Agent                     2024     2025
+
+Struck By Moving         Total                                                  1        2
+Objects                  Pressurised Equipment                                  0        2
+                         Other Incident Agents                                  1        0
+                                                                                7        1
+                         Total                                                  0        1
+                                                                                2        0
+Suffocation /Drowning    Means of Access - Others                               5        0
+                         Physical Workplace - Confined Space                    2        1
+                                                                                2        1
+                         Other Incident Agents                                  5        2
+                                                                                1        1
+Crane-related Incidents  Total                                                  1        1
+                         Lifting Equipment - Cranes                             0        1
+                                                                                0        1
+Total Workplace Fatal Injuries for Type B                                       2        0
+
+Machinery Incidents      Total                                                  2        0
+                         Industrial Machines
+                                                                                1        0
+                                    Total                                       1        0
+Striking Against Objects                                                        1        0
+                                                                                1        0
+                                    Lifting Equipment - Mobile Work Platform
+
+Exposure to/ Contact     Total
+with Hazardous           Physical Workplace - Confined Space
+Substances
+
+Exposure to/ Contact     Total
+with Electric Current    Electrical Equipment
+
+Others                   Total
+                         Other Incident Agents
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 57
+Table 3e: Number of workplace fatal injuries by industry and incident type (cause), 2025
+
+Industry
+                      Al l
+
+                              Construction
+                                     Transportation & Storage
+
+                                             Manufacturing
+                                                     Administrative & Support
+
+                                                         Services
+                                                               Wholesale & Retail Trade
+                                                                      Professional, Scientific &
+
+                                                                          Technical Activities
+                                                                                Water Supply; Sewerage, Waste
+
+                                                                                    Management & Remediation
+                                                                                        AcMtiavriitniees
+
+                                                                                                 Accommodation & Food
+                                                                                                     Services
+
+                                                                                                            Platform Workers (PWs)
+
+Total                  36 13 7 4 3 2 2   1112
+                                         1112
+Type A                 34 12 7 4 2 2 2   0012
+                                         0000
+Vehicular Incidents    15 4 5 1 0 2 0    0000
+
+Falls From Height      7401 2 0 0        1000
+                                         0000
+Collapse/Failure of    6212 0 0 1        0100
+                                         0000
+Structure & Equipment                    0000
+                                         0000
+Struck By Moving       2100 0 0 0
+Objects                                  0000
+
+Struck By Falling Objects 2 0 1 0 0 0 1
+
+Suffocation /Drowning  1000 0 0 0
+
+Crane-related Incidents 1 1 0 0 0 0 0
+
+Type B                 2100 1 0 0
+
+Machinery Incidents    1000 1 0 0
+
+Striking Against Objects 1 1 0 0 0 0 0
+WORKPLACE SAFETY & HEALTH REPORT, 2025 58
+
+Table 4a: Number of workplace major injuries by selected industry/ work activity, 2024 -
+2025
+
+                                Industry/ Work Activity                    2024  2025
+
+All Industries (Excluding PWs)                                             587   586
+Construction                                                               146   135
+                                                                            96    90
+    Smaller Scale Works (e.g. Addition & Alteration works and Renovation)   47    38
+    Regular Construction
+    Work-related Traffic Accidents                                           3     7
+Manufacturing                                                              123   120
+    Metalworking                                                            47    35
+    Manufacture of Food, Beverages & Tobacco                                32    39
+    Manufacture of Furniture                                                      12
+    Manufacture of Petroleum Products & Chemical Products                    6
+    Manufacture of Paper / Rubber / Plastic Products & Printing              6     7
+Transportation & Storage                                                     4     7
+    Logistics & Transport                                                   40    57
+Accommodation & Food Service Activities                                     35    47
+    Food & Beverage Service Activities                                      50    57
+    Accommodation                                                           35    44
+Administrative & Support Service Activities                                 15    13
+    Cleaning & Landscape Maintenance Activities                             43    39
+    Security & Investigation Activities                                     25    23
+Wholesale & Retail Trade                                                    11     8
+    Wholesale Trade                                                         45    34
+    Retail Trade                                                            27    19
+Marine                                                                      18    15
+Real Estate Activities                                                      17    12
+Professional, Scientific & Technical Activities                             12    12
+Community, Social & Personal Services                                       10    17
+    Health & Social Services                                                85    80
+    Education                                                               34    25
+    Other Services Activities                                               26    18
+                                                                            12    23
+WORKPLACE SAFETY & HEALTH REPORT, 2025 59
+
+Table 4b: Rate of workplace major injuries by selected industry/ work activity, 2024 ­ 2025
+
+                                                                           Per 100,000 workers
+
+                                Industry/ Work Activity                    2024   2025
+
+All Industries (Excluding PWs)                                             15.9   15.7
+Construction                                                               27.3   24.0
+                                                                            n.a.   n.a.
+    Smaller Scale Works (e.g. Addition & Alteration works and Renovation)   n.a.   n.a.
+    Regular Construction                                                    n.a.   n.a.
+    Work-related Traffic Accidents                                         28.9   27.9
+Manufacturing                                                              45.4   34.1
+    Metalworking                                                           50.3   58.3
+    Manufacture of Food, Beverages & Tobacco                                n.a.   n.a.
+    Manufacture of Furniture                                                n.a.   n.a.
+    Manufacture of Petroleum Products & Chemical Products                  16.1   28.8
+    Manufacture of Paper / Rubber / Plastic Products & Printing            15.1   21.2
+Transportation & Storage                                                   29.9   40.6
+    Logistics & Transport                                                  18.5   21.1
+Accommodation & Food Service Activities                                    14.7   18.7
+    Food & Beverage Service Activities                                     44.6   37.6
+    Accommodation                                                          17.3   15.4
+Administrative & Support Service Activities                                29.8   26.5
+    Cleaning & Landscape Maintenance Activities                            22.1   16.1
+    Security & Investigation Activities                                     9.9    7.6
+Wholesale & Retail Trade                                                    9.0    6.5
+    Wholesale Trade                                                        11.5    9.7
+    Retail Trade                                                           27.7   18.8
+Marine                                                                     14.7   15.4
+Real Estate Activities                                                      3.5    6.0
+Professional, Scientific & Technical Activities                            13.4   12.3
+Community, Social & Personal Services                                      16.0   11.3
+    Health & Social Services                                                n.a.   n.a.
+    Education                                                               n.a.   n.a.
+    Other Services Activities
+WORKPLACE SAFETY & HEALTH REPORT, 2025 60
+
+Table 4c: Types of workplace major injuries, 2024 - 2025      2024  2025
+
+                          Workplace Major Injury Types        587   586
+
+ Total (Excluding PWs)                                        354   368
+ Crushing, Fractures and Dislocations: Head, Back, Chest and
+ Abdomen, Neck, Hip and Pelvis                                105    94
+ Amputations                                                   51    51
+ Multiple Injuries                                             45    45
+ Burns, With More Than 20 MC Days                              20    12
+ Exposure to/ Contact with Electric Current                     9    12
+ Concussion, With More Than 20 MC Days                          1     0
+ Blindness                                                      1     1
+ Deafness                                                       1     0
+ Sprains and Strains                                            0     2
+ Others
+                                           WORKPLACE SAFETY & HEALTH REPORT, 2025 61
+
+Table 4d: Number of workplace major injuries by incident risk type (Type A/B), 2024 ­ 2025
+
+                                  Incident Type (Cause)                        2024  2025
+Total Workplace Major Injuries (Excluding PWs)                                 587   586
+                                                                                211   212
+         Type A (higher fatality risk)                                          376   374
+         Type B (Lower fatality risk)
+
+Table 4e: Number of workplace major injuries by key incident type (cause) and incident
+agent, 2024 ­ 2025
+
+Incident Type (Cause)                  Incident Agent                          2024  2025
+
+Total Workplace Major Injuries for Type A                                      211   212
+                                                                                74    78
+                       Total                                                    46    37
+                                                                                 9    17
+Falls From Height      Means of Access - Ladders                                 8    11
+                       Physical Workplace - Structure                           37    43
+                                                                                20    25
+                       Means of Access - Scaffold                               20    25
+                                                                                17    18
+Vehicular Incidents    Total                                                    10    11
+                                                                                 6     4
+- Work-related Traffic Subtotal                                                 36    28
+                                                                                 9     9
+Accidents              Motor Vehicles                                            8     5
+                                                                                27    26
+                       Subtotal                                                 14     9
+                                                                                 3     7
+- In Workplaces        Motor Vehicles                                           24    22
+                                                                                 8     6
+                       Vehicles ­ Excavators/ Forklifts/ Reach truck/ Stacker    2     3
+                                                                                 3     3
+Struck by Falling      Total
+Objects                Metal Items (excluding knives/needles)
+                       Furniture & Fittings
+
+Caught In/             Total
+Between Objects        Metal Items (excluding knives/needles)
+                       Other Incident Agents
+
+                       Total
+
+Struck by Moving       Metal Items (excluding knives/needles)
+
+Objects                Human Factors
+
+                       Other Incident Agents
+                                             WORKPLACE SAFETY & HEALTH REPORT, 2025 62
+
+Table 4e: Number of workplace major injuries by key incident type (cause) and incident
+agent, 2024 ­ 2025 (Continued)
+
+Incident Type (Cause)                      Incident Agent          2024  2025
+
+Total Workplace Major Injuries for Type B                          376   374
+                                                                   207   216
+                       Total                                        71    97
+                                                                    39    28
+Slips, Trips & Falls   Physical Workplace - Floors/Level Surfaces   25    26
+                       Means of Access - Stairs or Steps            76    66
+                                                                    65    52
+                       Furniture & Fittings
+                                                                     9     9
+                       Total                                        27    24
+                                                                    18    17
+Machinery Incidents    Industrial Machines                           3     1
+                                                                    24    23
+                       Industrial Hand Tools                        12    11
+                                                                     6     7
+Exposure to/ Contact   Total                                        17    17
+                                                                     6     5
+with Extreme           Hot scalding liquid/Steam                     2     5
+
+Temperatures           Metal Items (excluding knives/needles)
+
+Exposure to/ Contact   Total
+with Electric Current  Electrical Installation
+                       Industrial Machines
+
+Over-exertion/         Total
+Strenuous Movements    Human Factors
+                       Other Incident Agents
+                                                       WORKPLACE SAFETY & HEALTH REPORT, 2025 63
+
+Table 4f: Top three incident types for workplace major injuries by industry, 2025
+
+                          Industry                          Top Three Incident Types (Causes)
+
+All Industries (Excluding PWs)                         1st                     2nd                     3rd
+Construction
+Marine                                                 STF                     FFH                     MAC
+Manufacturing
+                                                       FFH                     STF                     VEH
+    Metalworking
+    Manufacture of Food, Beverages & Tobacco           STF                     SBMO                    SBFO, PA
+    Manufacture of Furniture
+    Manufacture of Petroleum Products &                MAC                     STF                     SBFO
+    Chemical Products
+Transportation & Storage                               MAC                     FFH                     SBFO, STF
+    Logistics & Transport
+Accommodation & Food Service Activities                STF                     MAC                     ETET
+    Food & Beverage Service Activities
+    Accommodation                                      MAC                     SBFO                    FFH, OESM, STF
+Administrative & Support Service Activities
+    Cleaning & Landscape Maintenance Activities        CIBO, STF               FFH, ETEC, FE           -
+    Security & Investigation Activities
+Wholesale & Retail Trade                                  STF                          VEH                MAC, SBFO
+    Wholesale Trade                                       STF                         SBFO             CIBO, FFH, MAC
+    Retail Trade                                          STF                          ETET
+Real Estate Activities                                    STF                          ETET                FFH, MAC
+Professional, Scientific & Technical Activities           STF                         ETEC                    MAC
+Community, Social & Personal Services                     STF                  VEH, SAO, OESM
+    Health & Social Services                              STF                     SAO, OESM            Multiple Causes
+    Education                                             STF                          VEH                      -
+    Other Services Activities                             STF                          FFH                      -
+                                                          STF                      VEH, MAC
+                                                          FFH                          STF                   OESM
+                                                          STF                    SBFO, OESM               VEH, MAC
+                                                       STF, FFH                        ETET            Multiple Causes
+                                                          STF                          FFH
+                                                          STF                         ETEC                    ETET
+                                                          STF                         SBMO                      -
+                                                          STF                          FFH
+                                                                                                       Multiple Causes
+                                                                                                              VEH
+
+                                                                                                       Multiple Causes
+                                                                                                       Multiple Causes
+
+                                                                                                             SBMO
+
+Legend:
+
+                    Type A Incidents                                           Type B Incidents
+         Caught In/Between Objects
+CIBO                                             CSBO  Cut/Stabbed by Objects                    OESM  Over-exertion/ Strenuous
+                                                 DODS                                                  Movements
+CFSE Collapse/Failure of Structures & Equipment  ETBM  Discharge of Dangerous Substances         OTH   Other Incident Types
+Crane Crane-related Incidents                    ETEC                                            PA    Physical Assault
+                                                 ETET  Exposure to/ Contact with Biological      SAO
+FFH Falls from Height                            ETHS  Materials                                 SOO   Striking Against Objects
+                                                 MAC                                             STF
+FE       Fires & Explosion                             Exposure to/ Contact with Electric              Stepping on Objects
+                                                       Current
+SOD Suffocation/Drowning                                                                               Slips, Trips & Falls
+                                                       Exposure to/ Contact with Extreme
+SBFO     Struck by Falling Objects                     Temperature
+SBMO     Struck by Moving Objects
+VEH      Vehicular Incidents                           Exposure to/ Contact with Hazardous
+                                                       Substances
+
+                                                       Machinery Incidents
+                                                 WORKPLACE SAFETY & HEALTH REPORT, 2025 64
+
+Table 5a: Number of workplace minor injuries by selected industry, 2024 - 2025
+
+                        Industry                  2024 2025 2024[N] 2025[N]
+
+All Industries (Excluding PWs)                    11,430 11,361 21,527                   22,090
+                                                                                          3,524
+Manufacturing                                     2,185 2,119 3,526                       1,234
+                                                                                           824
+Metalworking                                      833  829  1,267
+                                                                                           332
+Manufacture of Food, Beverages & Tobacco          495  473  845
+                                                                                           171
+Manufacture of Computer, Electronic & Optical     144  140  268
+Products                                                                                  2,415
+                                                                                          2,892
+Manufacture of Paper / Rubber / Plastic Products  127  107  189                           1,730
+                                                                                          1,162
+& Printing                                                                                1,663
+                                                                                          1,319
+Construction                                      1,917 1,791 2,634                       1,507
+                                                                                           702
+Accommodation & Food Service Activities           1,386 1,361 3,009                        475
+                                                                                          1,348
+Food & Beverage Service Activities                873  901  1,736                          582
+                                                                                           766
+Accommodation                                     513  460  1,273                          849
+                                                                                           342
+Transportation & Storage                          859  898  1,530                          441
+                                                                                           220
+Logistics & Transport                             665  703  1,204
+                                                                                           372
+Administrative & Support Service Activities       822  812  1,459
+                                                                                          6,165
+Cleaning & Landscape Maintenance Activities       411  424  655                           4,186
+                                                                                           841
+Security & Investigation Activities               216  218  454                            544
+                                                                                           368
+Wholesale & Retail Trade                          708  708  1,315
+
+Wholesale Trade                                   337  376  543
+
+Retail Trade                                      371  332  772
+
+Professional, Scientific & Technical Activities   381  422  785
+
+Marine                                            238  192  377
+
+Real Estate Activities                            240  233  407
+
+Financial & Insurance Services                    132  128  336
+
+Water Supply; Sewerage, Waste Management &        184  192  353
+Remediation Activities
+
+Community, Social & Personal Services             2,200 2,343 5,382
+
+Health & Social Services                          1,158 1,331 3,540
+
+Education                                         421  445  728
+
+Other Services Activities                         310  280  559
+
+Arts, Entertainment & Recreation                  209  177  375
+
+[N] ­ New Series. All work injuries with any instance of medical leave or light duties.
+                                                 WORKPLACE SAFETY & HEALTH REPORT, 2025 65
+
+Table 5b: Rate of workplace minor injuries by selected industry, 2024 ­ 2025
+                                                                                                       Per 100,000 workers
+
+                        Industry                  2024 2025 2024 [N] 2025 [N]
+
+All Industries (Excluding PWs)                    310   304                              584    592
+                                                                                          828    818
+Manufacturing                                     513   492                              1,224  1,202
+                                                                                         1,329  1,232
+Metalworking                                      805   807
+                                                                                          345    421
+Manufacture of Food, Beverages & Tobacco          778   707
+                                                                                          762    704
+Manufacture of Computer, Electronic & Optical     186   178
+Products                                                                                  492    430
+                                                                                         1,111  1,070
+Manufacture of Paper / Rubber / Plastic Products  512   440                               732    734
+& Printing                                                                               3,789  3,358
+                                                                                          576    620
+Construction                                      358   319                              1,027  1,139
+                                                                                          586    594
+Accommodation & Food Service Activities           512   504                               782    808
+                                                                                          912    954
+Food & Beverage Service Activities                368   382                               289    300
+                                                                                          182    198
+Accommodation                                     1,527 1,329                             494    494
+                                                                                          274    298
+Transportation & Storage                          323   335                               614    536
+                                                                                          499    566
+Logistics & Transport                             567   607                               143
+                                                                                                 91
+Administrative & Support Service Activities       330   320                               n.a.
+                                                                                                 n.a.
+Cleaning & Landscape Maintenance Activities       490   488                               849
+                                                                                         1,662   947
+Security & Investigation Activities               434   438                               n.a.  1,885
+                                                                                          n.a.   n.a.
+Wholesale & Retail Trade                          156   158                               673    n.a.
+                                                                                                 631
+Wholesale Trade                                   113   128
+
+Retail Trade                                      237   214
+
+Professional, Scientific & Technical Activities   133   148
+
+Marine                                            388   301
+
+Real Estate Activities                            294   299
+
+Financial & Insurance Services                    56    53
+
+Water Supply; Sewerage, Waste Management &        n.a.  n.a.
+Remediation Activities
+
+Community, Social & Personal Services             347   360
+
+Health & Social Services                          544   599
+
+Education                                         n.a.  n.a.
+
+Other Services Activities                         n.a.  n.a.
+
+Arts, Entertainment & Recreation                  375   304
+
+[N] ­ New Series. All work injuries with any instance of medical leave or light duties.
+                                            WORKPLACE SAFETY & HEALTH REPORT, 2025 66
+
+Table 5c: Types of workplace minor injury, 2024 - 2025
+
+        Workplace Minor Injury Types        2024        2025 2024 [N] 2025 [N]
+
+Total (Excluding PWs)                       11,430 11,361 21,527                         22,090
+                                                                                          7,825
+Cuts and Bruises                            3,950       3,600  8,108                      3,555
+                                                                                          3,029
+Sprains & Strains                           1,668       1,677  3,454                       830
+                                                                                           406
+Crushing, Fractures and Dislocations        2,798       2,749  3,090                       361
+                                                                                           270
+Burns                                       363         348    868                         101
+
+Bites and Stings                            79          115    276                          15
+                                                                                            4
+Multiple Injuries                           250         235    352                        5,694
+
+Puncture Wounds                             152         166    254
+
+Concussions                                 53          58     94
+
+Exposure to/ Contact with Electric Current  0           1      18
+
+Mosquito Borne                              8           4      9
+
+Others                                      2,109       2,408  5,004
+
+[N] ­ New Series. All work injuries with any instance of medical leave or light duties.
+                                             WORKPLACE SAFETY & HEALTH REPORT, 2025 67
+
+Table 5d: Number of workplace minor injuries by incident risk type (Type A/B), 2024 ­ 2025
+
+Incident Type (Cause)                        2024          2025 2024 [N]                         2025 [N]
+
+Total Workplace Minor Injuries               11,430 11,361 21,527                                 22,090
+(Excluding PWs)                                                                                    5,804
+                                                                                                  16,286
+Type A (higher fatality risk)                3,534         3,239                         6,140
+
+Type B (Lower fatality risk)                 7,896         8,122                         15,387
+
+[N] ­ New Series. All work injuries with any instance of medical leave or light duties.
+
+Table 5e: Number of workplace minor injuries by key incident type (cause) and incident
+agent, 2024 ­ 2025
+
+Incident Type                Incident Agent                2024   2025                   2024    2025
+    (Cause)                                                                               [N]     [N]
+                                                           3,534  3,239                  6,140   5,804
+Total Workplace Minor Injuries for Type A                  1,077   997                   2,173   2,075
+                                                                   180                    539     457
+Struck by Moving   Total                                    225    275                    517     432
+Objects            Furniture & Fittings                     317    802                   1,619   1,502
+                   Metal Items (excluding knives/needles)   946    243                    452     393
+                                                            289     96                    312     238
+Struck by Falling  Total                                    160    509                    848     863
+Objects            Metal Items (excluding knives/needles)   495    133                    269     281
+                   Furniture & Fittings                     128    162                    283     239
+                                                            189    493                    839     794
+Caught In/         Total                                    524    155                    322     271
+Between Objects    Furniture & Fittings                     186    155                    322     271
+                   Metal Items (excluding knives/needles)   186    338                    517     523
+                                                            338    149                    272     265
+Vehicular Incidents Total                                   171     86                    102     113
+                                                             79    369                    532     467
+- Work-related      Subtotal                                405    279                    402     352
+Traffic Accidents  Motor Vehicles                           300     30                     40      41
+                                                             31
+                   Subtotal
+
+- In Workplaces Motor Vehicles
+
+                   Vehicle - Forklifts
+
+                   Total
+
+Falls from Height Means of Access - Ladders
+
+                   Physical Workplace - Structures
+                                             WORKPLACE SAFETY & HEALTH REPORT, 2025 68
+
+Table 5e: Number of workplace minor injuries by key incident type (cause) and incident
+agent, 2024 ­ 2025 (Continued)
+
+Incident Type                  Incident Agent             2024   2025    2024    2025
+    (Cause)                                                               [N]     [N]
+                                                          7,896  8,122  15,387  16,286
+Total Workplace Minor Injuries for Type B                 3,447  3,649  5,946   6,482
+
+                  Total                                   1,639
+
+                  Physical Workplace - Floors/Level        584   1,606 2,837 2,928
+                                                           229
+Slips, Trips & Falls Surfaces                             1,709
+                                                           616
+                  Means of Access - Stairs or Steps        570    614    950    1,026
+                                                           868    237    457     465
+                  Furniture & Fittings                     490   1,575  2,697   2,527
+                                                           146    552    816     758
+Machinery         Total                                    552    496    839     711
+Incidents         Industrial Machines                      177   1,019  1,760   2,100
+                  Industrial Hand Tools                    115    679   1,011   1,453
+                                                           151    152    307     302
+Over-exertion/    Total                                    151    544   1,330   1,349
+Strenuous         Human Factors                            393    163    497     484
+                                                           135    113    261     249
+Movements         Goods/Cargo                              126    163    952    1,128
+                                                           292    163    952    1,128
+Striking Against  Total                                    251    397    702     777
+Objects           Furniture & Fittings                      12    120    247     240
+                  Metal Items (excluding knives/needles)          123    200     215
+                                                                  319    761     772
+Physical Assault  Total
+                  Human Factors                                   275    624     657
+
+Cut/Stabbed by    Total                                            13     47      32
+Objects           Glass Items
+                  Metal Items (excluding knives/needles)
+
+Exposure to/      Total
+
+Contact with      Hot scalding liquid/Steam
+Extreme           Industrial Machines
+Temperatures
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 69
+Table 5f: Top three incident types for workplace minor injuries by industry, 2025
+
+                                  Industry                                     Top Three Incident Types
+
+ All Industries (Excluding PWs)                               1st                            2nd         3rd
+ Manufacturing
+                                                              STF                            MAC       OESM
+      Metalworking
+      Manufacture of Food, Beverages & Tobacco                MAC                            STF       SBMO
+      Manufacture of Computer, Electronic & Optical Products
+ Construction                                                 MAC                            STF       SBMO
+ Accommodation & Food Service Activities
+      Food & Beverage Service Activities                      STF                            MAC       OESM
+      Accommodation
+ Transportation & Storage                                     STF                            MAC       CIBO, SAO
+      Logistics & Transport
+ Administrative & Support Service Activities                  STF                            MAC       SBFO
+      Cleaning & Landscape Maintenance Activities
+      Security & Investigation Activities                     STF                            MAC       ETET
+ Wholesale & Retail Trade
+      Wholesale Trade                                         STF                            MAC       ETET
+      Retail Trade
+ Professional, Scientific & Technical Activities              STF                            MAC       SBMO
+ Marine
+ Real Estate Activities                                       STF                            VEH       OESM
+ Financial & Insurance Services
+ Water Supply; Sewerage, Waste Management &                   STF                            VEH       OESM
+ Remediation Activities
+ Community, Social & Personal Services                        STF                            VEH       MAC
+      Health & Social Services
+      Education                                               STF                            SBFO      SBMO
+      Other Services Activities
+      Arts, Entertainment & Recreation                        STF                            VEH       OESM
+
+Legend:                                                       STF                            MAC       OESM
+
+                                                              STF                            MAC       OESM
+
+                                                              STF                            MAC       OESM
+
+                                                              STF                            MAC       SBMO, OESM
+
+                                                              STF                            MAC       SBMO
+
+                                                              STF              MAC, OESM                 -
+
+                                                              STF                            OESM      SAO
+
+                                                              STF                            MAC       OESM
+
+                                                              STF                            OESM      SBMO
+
+                                                              STF                            OESM      SBMO
+
+                                                              STF                            OESM      SBMO
+
+                                                              STF                            MAC       OESM
+
+                                                              STF                            OESM      SAO, ETBM
+
+                 Type A Incidents                                              Type B Incidents
+      Caught In/Between Objects
+CIBO                                             CSBO  Cut/Stabbed by Objects                    OESM  Over-exertion/ Strenuous
+                                                 DODS                                                  Movements
+CFSE Collapse/Failure of Structures & Equipment  ETBM  Discharge of Dangerous Substances         OTH   Other Incident Types
+Crane Crane-related Incidents                    ETEC                                            PA    Physical Assault
+                                                 ETET  Exposure to/ Contact with Biological      SAO
+FFH Falls from Height                            ETHS  Materials                                 SOO   Striking Against Objects
+                                                 MAC                                             STF
+FE    Fires & Explosion                                Exposure to/ Contact with Electric              Stepping on Objects
+                                                       Current
+SOD Suffocation/Drowning                                                                               Slips, Trips & Falls
+                                                       Exposure to/ Contact with Extreme
+SBFO  Struck by Falling Objects                        Temperature
+SBMO  Struck by Moving Objects
+VEH   Vehicular Incidents                              Exposure to/ Contact with Hazardous
+                                                       Substances
+
+                                                       Machinery Incidents
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 70
+Table 5g: Top three incident types for workplace minor injuries by industry, 2025[N]
+
+                                      Industry                                      Top Three Incident Types
+
+                                                                               1st               2nd          3rd
+
+All Industries (Excluding PWs)                                                 STF               MAC     OESM
+
+Manufacturing                                                                  MAC               STF     SBMO
+
+      Metalworking                                                             MAC               STF     SBMO
+
+      Manufacture of Food, Beverages & Tobacco                                 STF               MAC     SBFO
+
+      Manufacture of Computer, Electronic & Optical Products                   STF               MAC     SBMO, SAO
+
+Construction                                                                   STF               MAC     SBFO
+
+Accommodation & Food Service Activities                                        STF               MAC     ETET
+
+      Food & Beverage Service Activities                                       STF               MAC     ETET
+
+      Accommodation                                                            STF               SBMO    MAC
+
+Transportation & Storage                                                       STF               VEH     OESM
+
+      Logistics & Transport                                                    STF               VEH     OESM
+
+Administrative & Support Service Activities                                    STF               VEH     SBMO
+
+      Cleaning & Landscape Maintenance Activities                              STF           SBMO, SBFO       -
+
+      Security & Investigation Activities                                      STF               VEH     OESM
+
+Wholesale & Retail Trade                                                       STF               MAC     SBFO
+
+      Wholesale Trade                                                          STF               MAC     OESM
+
+      Retail Trade                                                             STF               MAC     SBMO
+
+Professional, Scientific & Technical Activities                                STF               OESM    MAC
+
+Marine                                                                         STF               MAC     CIBO
+
+Real Estate Activities                                                         STF               OESM    CSBO, MAC
+
+Financial & Insurance Services                                                 STF           SAO, OESM        -
+
+Water Supply; Sewerage, Waste Management & Remediation                         STF               OESM    MAC
+Activities
+
+Community, Social & Personal Services                                          STF               PA      OESM
+
+      Health & Social Services                                                 STF               PA      OESM
+
+      Education                                                                STF               SBMO    OESM
+
+      Other Services Activities                                                STF               MAC     OESM
+
+      Arts, Entertainment & Recreation                                         STF               ETBM    OESM, SAO
+
+[N] ­ New Series. All work injuries with any instance of medical leave or light duties.
+
+Legend:
+
+                    Type A Incidents                                           Type B Incidents
+         Caught In/Between Objects
+CIBO                                             CSBO  Cut/Stabbed by Objects                    OESM  Over-exertion/ Strenuous
+                                                 DODS                                                  Movements
+CFSE Collapse/Failure of Structures & Equipment  ETBM  Discharge of Dangerous Substances         OTH   Other Incident Types
+Crane Crane-related Incidents                    ETEC                                            PA    Physical Assault
+                                                 ETET  Exposure to/ Contact with Biological      SAO
+FFH Falls from Height                            ETHS  Materials                                 SOO   Striking Against Objects
+                                                 MAC                                             STF
+FE       Fires & Explosion                             Exposure to/ Contact with Electric              Stepping on Objects
+                                                       Current
+SOD Suffocation/Drowning                                                                               Slips, Trips & Falls
+                                                       Exposure to/ Contact with Extreme
+SBFO     Struck by Falling Objects                     Temperature
+SBMO     Struck by Moving Objects
+VEH      Vehicular Incidents                           Exposure to/ Contact with Hazardous
+                                                       Substances
+
+                                                       Machinery Incidents
+                                           WORKPLACE SAFETY & HEALTH REPORT, 2025 71
+
+Table 6a: Number of dangerous occurrences by industry, 2024 - 2025  2024  2025
+
+                                             Industry                19    23
+                                                                      5     4
+ All Industries                                                       8    10
+ Construction                                                         4     3
+ Manufacturing                                                        1     3
+                                                                      2     2
+     Manufacture of Petroleum Products & Chemical Products            0     1
+     Manufacture of Food, Beverages & Tobacco                         0     1
+     Metalworking                                                     1     0
+     Manufacture of Computer, Electronic & Optical Products           3     5
+     Manufacture of Other Non-Metallic Mineral Products               3     5
+     Manufacture of Paper / Rubber / Plastic Products & Printing      0     1
+ Transportation & Storage                                             1     0
+     Logistics & Transport                                            1     0
+ Electricity, Gas & Air-Conditioning Supply                           1     0
+ Wholesale & Retail Trade                                             1     1
+     Wholesale Trade                                                  1     0
+ Real Estate Services
+ Community, Social & Personal Services
+     Arts, Entertainment & Recreation
+
+Table 6b: Types of dangerous occurrences, 2024 - 2025
+
+Incident Type                Incident Agent                         2024  2025
+
+Total Dangerous Occurrences                                          19    23
+                                                                     14    10
+Collapse/Failure  Total                                              11     9
+of Structure &    Lifting Equipment - Cranes                          2     0
+Equipment         Lifting Equipment - Other Lifting Equipment         1     1
+                  Lifting Equipment - Lifts and Hoists                5    13
+                                                                      1     4
+                  Total                                               1     2
+                                                                      1     2
+                  Dust, Gas, Liquid & Chemicals                       2     1
+                                                                      0     1
+                  Pressurised Equipment                               0     3
+
+Fires & Explosion Industrial Machines
+
+                  Explosives/ Flammable Substances
+
+                  Electrical Installation
+
+                  Others
+WORKPLACE SAFETY & HEALTH REPORT, 2025 72
+
+Table 7a: Number of occupational disease cases by selected industry, 2024 - 2025
+
+                                           Industry                   2024        2025
+
+All Industries                                                        899         1,028
+Manufacturing                                                         357          396
+                                                                      205          202
+    Metalworking                                                       67           36
+    Manufacture of Transport Equipment                                 23           35
+    Manufacture of Petroleum Products & Chemical Products              10           27
+    Manufacture of Food, Beverages & Tobacco                           12           24
+    Manufacture of Computer, Electronic & Optical Products             95           90
+Construction                                                           44           73
+Transportation & Storage                                               25           52
+    Logistics & Transport                                              49           66
+Marine                                                                 39           29
+Accommodation & Food Service Activities                                22           16
+    Food & Beverage Service Activities                                 17           13
+    Accommodation                                                      45           41
+Wholesale & Retail Trade                                               33           17
+    Wholesale Trade                                                    12           24
+    Retail Trade                                                       45           48
+Professional, Scientific & Technical Activities                        19           24
+Administrative & Support Service Activities
+    Office Administrative, Office Support and Other Business Support    9            6
+    Activities
+    Cleaning & Landscape Maintenance Activities                         4            7
+    Security & Investigation Activities                                 1            9
+Financial & Insurance Services                                          6           11
+Electricity, Gas & Air-Conditioning Supply                              1            6
+Water Supply; Sewerage, Waste Management & Remediation Activities       4            7
+Real Estate Activities                                                 11           11
+Information & Communications                                            1            5
+Community, Social & Personal Services                                 180          221
+    Health & Social Services                                          158          190
+    Other Services Activities                                           8           15
+    Education                                                          10            9
+    Arts, Entertainment & Recreation                                    3            6
+             WORKPLACE SAFETY & HEALTH REPORT, 2025 73
+
+Table 7b: Rate of occupational disease incidence by selected industry,
+
+2024 ­ 2025                                                             Per 100,000 workers
+
+                                           Industry                     2024   2025
+
+All Industries                                                          24.4   27.5
+Manufacturing                                                           83.8   92.0
+                                                                        198    197
+    Metalworking                                                        236    120
+    Manufacture of Transport Equipment                                   n.a.   n.a.
+    Manufacture of Petroleum Products & Chemical Products               15.7   40.4
+    Manufacture of Food, Beverages & Tobacco                            15.5   30.5
+    Manufacture of Computer, Electronic & Optical Products              17.7   16.0
+Construction                                                            16.6   27.2
+Transportation & Storage                                                21.3   44.9
+    Logistics & Transport                                               79.8   103
+Marine                                                                  14.4   10.7
+Accommodation & Food Service Activities                                  9.3    6.8
+    Food & Beverage Service Activities                                  50.6   37.6
+    Accommodation                                                        9.9    9.1
+Wholesale & Retail Trade                                                11.1    5.8
+    Wholesale Trade                                                      7.7   15.5
+    Retail Trade                                                        15.7   16.9
+Professional, Scientific & Technical Activities                          7.6    9.5
+Administrative & Support Service Activities
+    Office Administrative, Office Support and Other Business Support     n.a.   n.a.
+    Activities
+    Cleaning & Landscape Maintenance Activities                          4.8    8.1
+    Security & Investigation Activities                                  2.0   18.1
+Financial & Insurance Services                                           2.5    4.6
+Electricity, Gas & Air-Conditioning Supply                               n.a.   n.a.
+Water Supply; Sewerage, Waste Management & Remediation Activities        n.a.   n.a.
+Real Estate Activities                                                  13.5   14.1
+Information & Communications                                             0.5    2.8
+Community, Social & Personal Services                                   28.4   33.9
+    Health & Social Services                                            74.2   85.5
+    Other Services Activities                                            n.a.   n.a.
+    Education                                                            n.a.   n.a.
+    Arts, Entertainment & Recreation                                     5.4   10.3
+WORKPLACE SAFETY & HEALTH REPORT, 2025 74
+
+Table 7c: Number of occupational disease cases by type, 2024 - 2025
+
+                        Occupational Diseases by Types               2024  2025
+
+Total                                                                899   1,028
+Noise-induced Hearing Loss                                           519    550
+                                                                      445   446
+    NIHL (E) - Early
+    NIHL (A) - Advanced                                                7      2
+Work-related Musculoskeletal Disorders                               249    317
+    Back injuries due to ergonomic risks                              229   268
+    Tendinitis                                                               11
+    Trigger Finger/Thumb                                               4
+    Nerve Disorder such as Carpal Tunnel Syndrome, Cubital Tunnel      1      1
+    Syndrome
+    Lateral Epicondylitis (Tennis elbow)                               0      1
+    Tenosynovitis
+    Others                                                             1      3
+Occupational Skin Disease                                              1      2
+    Eczema                                                            13     31
+    Others                                                            94    117
+Compressed Air Illness                                                80     91
+    CAI Type 1                                                        14     26
+    CAI Type 2                                                         3      1
+Cancers                                                                1      1
+    Mesothelioma                                                       2      0
+Occupational Lung Disease                                              2      2
+    Occupational Asthma                                                2      2
+    Silicosis                                                          3      4
+    Asbestosis                                                         1      1
+Infectious Disease                                                     1      2
+Heat Disorder & Diseases caused by excessive heat                      1      1
+Barotrauma                                                             0      0
+    Aural                                                              1     13
+    Sinus                                                              3     10
+Others                                                                 2      8
+                                                                       1      1
+                                                                      25     14
+WORKPLACE SAFETY & HEALTH REPORT, 2025 75
+
+Table 7d: Number of noise-induced hearing loss cases by selected industry, 2024 - 2025
+
+                                           Industry                2024  2025
+
+All Industries                                                     519   550
+Manufacturing                                                      318   339
+                                                                   194   189
+    Metalworking                                                    63    31
+    Manufacture of Transport Equipment
+                                                                    20    33
+    Manufacture of Petroleum Products & Chemical Products
+                                                                    44    59
+Marine                                                              60    53
+Construction                                                        28    36
+Transportation & Storage                                            10    19
+                                                                    39    17
+    Logistics & Transport                                           19    17
+Professional, Scientific & Technical Activities                     19    12
+Wholesale & Retail Trade                                             0     5
+                                                                     6     7
+    Wholesale Trade                                                  0     6
+    Retail Trade                                                     0     6
+Administrative & Support Service Activities                          2     3
+    Security & Investigation Activities                              0     3
+Financial & Insurance Services                                       3     8
+Water Supply; Sewerage, Waste Management & Remediation Activities    3     6
+Electricity, Gas & Air-Conditioning Supply                           0     2
+Community, Social & Personal Services
+    Other Services Activities
+    Health & Social Services
+WORKPLACE SAFETY & HEALTH REPORT, 2025 76
+
+Table 7e: Number of work-related musculoskeletal disorder cases by selected industry, 2024
+- 2025
+
+                                           Industry                   2024  2025
+
+All Industries                                                        249   317
+Manufacturing                                                          32    43
+                                                                        8    13
+    Metalworking                                                        7    11
+    Manufacture of Food, Beverages & Tobacco                            4     5
+    Manufacture of Transport Equipment                                 14    29
+Transportation & Storage                                               13    25
+    Logistics & Transport                                              36    25
+Accommodation & Food Service Activities                                17    12
+    Accommodation                                                      19    13
+    Food & Beverage Service Activities                                 24    21
+Wholesale & Retail Trade                                               13     5
+    Wholesale Trade                                                    11    16
+    Retail Trade                                                       28    18
+Construction                                                            3    17
+Professional, Scientific & Technical Activities                        11    15
+Administrative & Support Service Activities                             3     7
+    Cleaning & Landscape Maintenance Activities
+    Office Administrative, Office Support and Other Business Support    5     5
+    Activities
+    Security & Investigation Activities                                 1     2
+Real Estate Activities                                                 11    10
+Marine                                                                  2     5
+Water Supply; Sewerage, Waste Management & Remediation Activities       1     4
+Electricity, Gas & Air-Conditioning Supply                              0     3
+Financial & Insurance Services                                          3     1
+Community, Social & Personal Services                                  81   122
+    Health & Social Services                                           64   100
+    Other Services Activities                                           5     8
+    Education                                                           8     8
+    Arts, Entertainment & Recreation                                    3     5
+WORKPLACE SAFETY & HEALTH REPORT, 2025 77
+
+Table 7f: Number of occupational skin disease cases by selected industry, 2024 - 2025
+
+                                           Industry                 2024  2025
+
+All Industries                                                       94   117
+Professional, Scientific & Technical Activities                       1    11
+Manufacturing                                                         3     9
+                                                                      1     3
+    Manufacture of Food, Beverages & Tobacco                          1     1
+    Manufacture of Petroleum Products & Chemical Products             0     1
+    Manufacture of Paper / Rubber / Plastic Products & Printing       1     0
+    Metalworking                                                      1     2
+Accommodation & Food Service Activities                               1     2
+    Food & Beverage Service Activities                                5     2
+Construction                                                          2     2
+Financial & Insurance Services                                        1     2
+Administrative & Support Service Activities                           1     0
+    Cleaning & Landscape Maintenance Activities                       0     1
+    Security & Investigation Activities                               0     1
+Transportation & Storage                                              0     1
+    Logistics & Transport                                             1     0
+Water Supply; Sewerage, Waste Management & Remediation Activities    80    88
+Community, Social & Personal Services                                79    86
+    Health & Social Services                                          0     1
+    Other Services Activities                                         1     0
+    Education                                                         0     1
+    Arts, Entertainment & Recreation
+
+Table 7g: Top causative agents of occupational skin diseases, 2025  No. of Cases
+
+                                       Causative Agents                   117
+ All Occupational Skin Diseases                                            81
+ Alcohol                                                                   2
+ Occlusion                                                                 2
+ Cement
+                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 78
+
+Table 8: Number of man-days lost to workplace incidents by selected industry, 2024 ­ 2025
+
+               Industry               2024    2025     2024 [N]                          2025 [N]
+                                                                                         466,767
+All Industries (Excluding PWs)        501,202 443,554 521,908                            129,605
+                                                                                          10,763
+Construction                          178,526 128,238  180,016                            75,203
+                                                                                          32,270
+Marine                                35,921 10,480    36,172
+                                                                                          17,256
+Manufacturing                         59,985 71,715    62,804
+                                                                                           1,633
+Metalworking                          25,868 30,813    26,797
+                                                                                           9,694
+Manufacture of Food, Beverages &      16,629 16,479    17,399
+Tobacco                                                                                   27,589
+                                                                                          15,330
+Manufacture of Petroleum Products &   1,971   1,490    2,099                              12,259
+Chemical Products                                                                         64,465
+                                                                                          41,187
+Water Supply; Sewerage, Waste         21,571  9,324    21,895
+Management & Remediation Activities                                                       30,620
+
+Wholesale & Retail Trade              22,141 26,254    23,440                              9,642
+                                                                                          20,978
+Wholesale Trade                       15,654 14,903    16,083                              1,161
+                                                                                           2,890
+Retail Trade                          6,487   11,351   7,357                               5,178
+
+Transportation & Storage              73,033 62,231    74,432                             21,445
+
+Logistics & Transport                 39,323 39,277    40,426                             34,108
+
+Accommodation & Food Service          26,446 27,312    29,958                             21,054
+Activities
+                                                                                           3,691
+Accommodation                         8,090   8,189    9,650                              51,495
+                                                                                          29,501
+Food & Beverage Service Activities    18,356 19,123    20,308                              9,799
+                                                                                           5,937
+Information & Communications          1,850   995      2,136                               3,849
+
+Financial & Insurance Services        2,861   2,692    3,262
+
+Real Estate Activities                10,354  4,752    10,718
+
+Professional, Scientific & Technical  6,451   20,586   7,237
+Activities
+
+Administrative & Support Service      13,644 32,576    15,052
+Activities
+
+Cleaning & Landscape Maintenance      7,224   20,399   7,780
+Activities
+
+Security & Investigation Activities   3,241   3,166    3,762
+
+Community, Social & Personal Services 46,825 44,043    53,052
+
+Health & Social Services              20,228 24,021    24,816
+
+Education                             9,448   8,990    10,051
+
+Other Services Activities             5,597   5,397    6,123
+
+Arts, Entertainment & Recreation      3,330   3,464    3,677
+
+[N] ­ New Series. All work injuries with any instance of medical leave or light duties.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 79
+
+ ANNEX C1
+
+BUSINESS UNDER SURVEILLANCE
+
+The Business under Surveillance (BUS) programme consists of two phases ­ Assessment and Surveillance.
+The Assessment phase involves rigorous and methodical review on companies that are of concern to ascertain
+the effectiveness of their Risk Management programme as well as the strength of their WSH Management
+Systems.
+Companies that fail the Assessment phase would be placed under the Surveillance phase. During the
+Surveillance phase, the Occupational Safety and Health Division (OSHD) of Ministry of Manpower (MOM) works
+closely with the senior management and WSH personnel of these BUS companies to carry out a gap analysis
+and to develop outcome-based action plans.
+OSHD then conducts frequent inspections to verify the progress of the companies' implementation of their
+action plans and closely monitors the companies' WSH performance. BUS companies can only exit from the
+programme upon successful implementation of their Action Plan, achieved satisfactory audit outcomes, and
+have plans to build a strong WSH culture within the company.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 80
+
+ ANNEX C2
+
+HYGIENE AND MEDICAL SURVEILLANCE
+
+HYGIENE SURVEILLANCE
+
+Measuring the exposure levels of specific workplace chemical hazards provide a good indication on whether
+the conditions in the work environment are within the Permissible Exposure Levels (PEL), as stipulated under
+the WSH (General Provisions) Regulations. Companies with chemical exposures exceeding 10% PEL are
+required to monitor the exposure levels at least annually, conducted by a competent person.
+
+Under the WSH (Noise) Regulations, workplaces with 10 or more workers who are exposed to excessive noise
+are required to monitor their workers' noise exposure at least once every three years, or earlier when there are
+changes to the processes. The monitoring must be conducted by a competent person using calibrated
+equipment to ensure accuracy of results.
+
+Industrial hygiene data from assessments conducted by MOM and results submitted by companies with in-
+plant monitoring are maintained within a National Database for Noise and Chemical Exposure. This enables
+MOM to proactively identify high-risk workplaces, evaluate trends in exposure levels and advise employers on
+control measures and appropriate monitoring programmes.
+
+MEDICAL SURVEILLANCE
+
+The Medical Surveillance Programme serves to monitor workers' exposure to specific hazards and to identify
+early and possibly reversible changes in health effects. The programme aims to prevent overt occupational
+diseases through early detection of cases with excessive occupational exposure to specific health hazards. It
+involves monitoring of workers' health and implementation of measures to minimise the risks. High-risk
+workplaces would be monitored more rigorously to ensure control measures are put in place.
+
+This monitoring assesses the "internal dose" of the worker and the effects from exposure by determining:
+     a) The concentrations of the chemicals or their metabolites in biological samples (measuring the
+          absorption or body burden) indirectly via blood, urine, and/or end-exhaled air.
+     b) The indicators of health effect related to the internal dose so as to identify early and reversible changes,
+          such as degree of hearing loss, and effects on liver and kidney.
+
+Central to the Medical Surveillance Programme is the WSH (Medical Examinations) Regulations which prescribe
+a list of 19 hazards requiring medical examinations which can only be conducted by Designated Workplace
+Doctors (DWDs) registered with MOM. In addition, Occupational Safety and Health Division (OSHD) of the
+MOM may also recommend the implementation of medical surveillance programmes for non-prescribed
+hazards if the health risk is significant and where biological indicators are available. Some of these hazards
+include toluene, trinitrotoluene, xylene, fluoride and hexane.
+
+Based on the findings of the medical examinations, workers who are medically unfit or who are over-exposed
+to chemicals are suspended, either on a temporary or permanent basis. The objective is to ensure that all
+exposed workers remain healthy and fit for work while exposed to the hazards. Medical monitoring is
+conducted once every six months for lead and organophosphate, and annually for all other hazards.
+                                                                      WORKPLACE SAFETY & HEALTH REPORT, 2025 81
+
+  ANNEX C3
+
+SOURCE OF DATA
+Data on workplace and work-related traffic injuries, dangerous occurrences and occupational diseases were
+collated from incident reports made by employers, occupiers, platform operators, medical practitioners and
+private insurers in fulfilment of their obligations under the Workplace Safety and Health Act and Workplace
+Safety and Health (Incident Reporting) Regulations.
+
+Medical and Hygiene Surveillance data were collated from reports submitted to OSHD, MOM as well as
+industrial hygiene data from assessments conducted by OSHD, MOM. Business Under Surveillance information
+was obtained from OSHD, MOM.
+
+Employment data used in the computation of workplace fatal, injury and occupational disease incidence rates
+and data on the average weekly hours worked used in the estimation of man-hours worked were extracted
+from records within the Ministry of Manpower.
+
+DATA COVERAGE
+
+The types of workplace and work-related traffic injuries and occupational diseases covered in the reported
+statistics include the following:
+
+          · Workplace and work-related traffic injuries sustained by employees and resulting in any instance
+                of medical leave or light duties;
+
+          · Workplace and work-related traffic injuries sustained by employees and resulting in at least 24
+                hours of hospitalisation;
+
+          · Workplace and work-related traffic incidents resulting in the death of employees and self-
+                employed persons;
+
+          · Workplace and work-related traffic incidents resulting in the injury of self-employed persons who
+                have to be taken to the hospital for treatment; and
+
+          · Occupational diseases listed in the Second Schedule of the Workplace Safety and Health Act and
+                Work Injury Compensation Act.
+                                     WORKPLACE SAFETY & HEALTH REPORT, 2025 82
+
+ANNEX C4
+
+CONCEPTS AND DEFINITIONS
+
+Incident Agent refers to the object or physical environment, which due to its hazardous nature/condition,
+
+leads to the occurrence of a particular type of incident. It is related to the incident, not injury.
+
+Incident Type (Cause) refers to the type of event which resulted in the injury of a victim. Where the event
+
+involves a chain of incidents, the incident type should be the one that triggered the chain of other incidents.
+From 2022, a new sub-classification for Incident Type (Cause) have been introduced based on their fatality risk
+profile as shown below.
+
+Higher fatality risk ­ Type A        Lower fatality risk ­ Type B
+· Caught in/between Objects           · Cut/Stabbed by Objects
+· Failure of Structures & Equipment   · Discharge of Dangerous Substances
+· Crane-related Incidents             · Exposure to/Contact with Biological Materials
+· Falls from Height                   · Exposure to/Contact with Electric current
+· Fires & Explosion                   · Exposure to/Contact with Extreme Temperatures
+· Suffocation/Drowning                · Exposure to/Contact with Hazardous Substances
+· Struck by Falling Objects           · Machinery Incidents
+· Struck by Moving Objects            · Physical Assault
+· Vehicular Incidents                 · Over-exertion/Strenuous Movements
+                                      · Slips, Trips & Falls
+                                      · Stepping on Objects
+                                      · Striking against Objects
+                                      · Others
+
+Major Injuries refer to non-fatal injuries which are more severe in nature. Major injuries are defined using a
+
+combination of factors, including the nature of injury, part of the body injured, incident type and duration of
+medical leave. These include:
+
+     · amputation
+     · blindness
+     · deafness
+     · paralysis
+     · crushing, fractures and dislocations: head, back, chest and abdomen, neck, hip and pelvis
+     · exposure to electric current
+     · asphyxia/drowning
+     · burns with more than 20 days of medical leave
+     · concussion with more than 20 days of medical leave
+     · mosquito borne diseases with more than 20 days of medical leave
+    · virus outbreak with more than 20 days of medical leave
+                                 WORKPLACE SAFETY & HEALTH REPORT, 2025 83
+
+ ANNEX C5
+
+GLOSSARY OF COMMONLY USED TERMS
+
+Term            Description
+
+Business Under  Refer to Annex C1 and website below for information on Business Under Surveillance
+Surveillance    (BUS) programme.
+                https://www.mom.gov.sg/workplace-safety-and-health/monitoring-and-
+                surveillance/business-under-surveillance-programme
+
+Dangerous       Dangerous Occurrences refer to the prescribed incidents with potential to cause serious
+Occurrences     damage, injury or death, such as crane collapse and explosion.
+
+Machinery       Machinery Incidents include Struck by Moving Objects, Caught In/Between Objects and
+Incidents       Cut/Stabbed by Objects where the agent(s) is an industrial machine, industrial hand
+                tool or other machines and tools.
+
+Man-days Loss   For the purpose of this publication, MOM considers man-days loss computations
+                similar to the U.S. National Institute of Occupational Safety and Health (NIOSH)'s table
+                of scheduled charges. For instance, a fatal injury and permanent total incapacity will be
+                equivalent to the loss of 6,000 man-days, while other injuries will be based on factors
+                including - body parts injured, degree of incapacity and number days of medical leave.
+
+Occupational
+Disease
+Incidence Rate
+
+Total
+Workplace
+Injury Rate
+
+Vehicular       Vehicular Incidents include Struck by Moving Objects and Caught In/Between Objects
+Incidents       where the agent(s) is a vehicle.
+              WORKPLACE SAFETY & HEALTH REPORT, 2025 84
+
+GLOSSARY OF COMMONLY USED TERMS (CONTINUED)
+
+Term          Description
+Workplace
+Health        Workplace Health Surveillance (WHS) is the monitoring of workplace environments to
+Surveillance  assess exposure levels of workers to workplace health hazards such as chemical or noise
+              hazard, as well as the monitoring of workers' health through medical screening to
+Workplace     detect over exposure and early signs of occupational diseases. In 2021, the programme
+Hygiene       was enhanced (WHS+) to (i) proactively identify at-risk companies and subject them to
+surveillance  surveillance; (ii) focus on upstream control measures; and (iii) increase compliance
+Workplace     through stronger enforcement levers.
+Injury
+              Hygiene surveillance determines the levels of persons' exposure to noise and airborne
+Workplace     toxic substances in the workplace. Refer to Annex C2 for more information.
+Medical
+Surveillance  A workplace injury is any personal injury or death resulting from a workplace accident,
+              including work-related traffic injuries. Refer to Annexes C3 & C4 for the types of
+Work-related  workplace injuries covered.
+Traffic
+Accident      Medical surveillance monitors the results of the medical examinations of workers who
+              are exposed to specific hazards for early detection and prevention of potential ill health.
+              Examinations are conducted by Designated Workplace Doctors (DWDs). Refer to
+              Annex C2 for more information.
+
+              A work-related traffic accident (WRTA) is any unintended event that causes bodily injury
+              to a vocational driver or rider while he or she is driving any vehicle in the course of
+              work.
+ISSN 2424 - 7774 Print / ISSN 2424 - 7782 Online
+Published in March 2026 by the
+Ministry of Manpower
+1500 Bendemeer Road #04-01
+Ministry of Manpower Services Centre
+Singapore 339946
+website: www.mom.gov.sg
+
+All rights reserved. This publication may not be
+reproduced or transmitted in any form or by any means,
+in whole or in part, without prior written permission.
+

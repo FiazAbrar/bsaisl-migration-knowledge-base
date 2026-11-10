@@ -1,0 +1,898 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <script type="914afb5ef8056fe46c82c3fd-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.searchMaidPushDataLayerEvent = function(eventName, parameters, options) {
+        if (!eventName) {
+            return;
+        }
+
+        const payload = Object.assign({}, parameters || {}, { event: eventName });
+        const callback = options && typeof options.callback === 'function'
+            ? options.callback
+            : null;
+
+        if (callback) {
+            const timeout = Number(options.timeout) > 0 ? Number(options.timeout) : 1200;
+            let completed = false;
+            let fallbackTimer;
+            const completeOnce = function() {
+                if (completed) {
+                    return;
+                }
+
+                completed = true;
+                window.clearTimeout(fallbackTimer);
+                callback();
+            };
+
+            payload.eventCallback = completeOnce;
+            payload.eventTimeout = timeout;
+            fallbackTimer = window.setTimeout(completeOnce, timeout + 100);
+        }
+
+        window.dataLayer.push(payload);
+    };
+
+    window.searchMaidTrackGeneratedLead = function(parameters, options) {
+        const source = parameters || {};
+        const leadParameters = Object.assign({}, source, {
+            form_id: source.form_id || '',
+            attr_source: source.attr_source || source.traffic_source || '',
+            attr_medium: source.attr_medium || source.traffic_medium || '',
+            attr_campaign: source.attr_campaign || source.traffic_campaign || ''
+        });
+
+        delete leadParameters.traffic_source;
+        delete leadParameters.traffic_medium;
+        delete leadParameters.traffic_campaign;
+
+        window.searchMaidPushDataLayerEvent('generate_lead', leadParameters, options || {});
+    };
+
+    
+    document.addEventListener('click', function(event) {
+        const trackedElement = event.target.closest('[data-track-event]');
+
+        if (!trackedElement) {
+            return;
+        }
+
+        window.searchMaidPushDataLayerEvent(trackedElement.dataset.trackEvent);
+    });
+</script>
+
+    <script type="914afb5ef8056fe46c82c3fd-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        'page_group' : 'article_indiv'
+    });
+</script>
+
+            <!-- Google Tag Manager -->
+<script type="914afb5ef8056fe46c82c3fd-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KZ62W6NT');</script>
+<!-- End Google Tag Manager -->
+
+        
+        <meta name="google-adsense-account" content="ca-pub-4424511898406499">
+        
+        <meta name="facebook-domain-verification" content="4sufh8j74pur7dmki44y2mot0xcinh" />
+    
+    <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta name="csrf-token" content="imZrbFcvFFW5AdylsE8MSsVZH9ulsKbQv1Z17C7u">
+
+    <title> Which Country Should I Choose A Maid From?</title>
+    
+        <link rel="canonical" href="https://searchmaid.com.sg/article/which-country-should-i-choose-a-maid-from" />
+        <meta property="og:title" content="Which Country Should I Choose A Maid From? | SearchMaid" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://searchmaid.com.sg/storage/posts_banner/which-country-should-i-choose-a-maid-from_AlAUmBAUbvAxjG2EuOpdIAAusG14gMy55kEjGKEx.jpg" />
+<meta property="og:url" content="https://searchmaid.com.sg/article/which-country-should-i-choose-a-maid-from" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="SearchMaid" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Which Country Should I Choose A Maid From? | SearchMaid" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="https://searchmaid.com.sg/storage/posts_banner/which-country-should-i-choose-a-maid-from_AlAUmBAUbvAxjG2EuOpdIAAusG14gMy55kEjGKEx.jpg" />
+
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://searchmaid.com.sg/#organization",
+      "name": "Searchmaid",
+      "legalName": "SEARCHMAID ASIA PTE. LTD.",
+      "url": "https://searchmaid.com.sg/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://searchmaid.com.sg/img/sm-logo-web.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "Singapore's maid search platform connecting employers with trusted maid agencies.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "913 Lorong 1 Toa Payoh",
+        "addressLocality": "Singapore",
+        "postalCode": "319772",
+        "addressCountry": "SG"
+      },
+      "sameAs": [
+        "https://www.facebook.com/SearchMaid",
+        "https://www.youtube.com/@searchmaid"
+      ],
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+65-8785-8995",
+        "email": "info@searchmaid.com.sg",
+        "contactType": "customer service",
+        "areaServed": "SG",
+        "availableLanguage": ["English", "Chinese", "Malay"]
+      }],
+      "identifier": "202344630D"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://searchmaid.com.sg/#website",
+      "url": "https://searchmaid.com.sg/",
+      "name": "Searchmaid",
+      "publisher": { "@id": "https://searchmaid.com.sg/#organization" },
+      "inLanguage": "en-SG"
+    }
+  ]
+}
+</script>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="76x76" href="https://searchmaid.com.sg/img/apple-icon.png ">
+    <link rel="icon" type="image/png" href="https://searchmaid.com.sg/img/favicon.png ">
+
+    <!-- Fonts -->
+    
+    
+    <style type="text/css">@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:100 900;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}</style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- CSS Files -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://searchmaid.com.sg/frontend/sweetalert2/css/sweetalert2.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://searchmaid.com.sg/css/style.css?v=1793852445">
+
+                <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Which Country Should I Choose A Maid From?",
+    "datePublished": "2021-05-08",
+    "dateModified": "2026-11-09",
+    "author": {
+        "@type": "Person",
+        "name": "Ray Tay"
+    },
+    "publisher": {
+        "@id": "https://searchmaid.com.sg/#organization"
+    },
+    "image": "https://searchmaid.com.sg/storage/posts_banner/which-country-should-i-choose-a-maid-from_AlAUmBAUbvAxjG2EuOpdIAAusG14gMy55kEjGKEx.jpg",
+    "mainEntityOfPage": "https://searchmaid.com.sg/article/which-country-should-i-choose-a-maid-from"
+}
+</script>
+    
+    </head>
+<body class="sm-home-page">
+            <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZ62W6NT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
+    <header class="sm-header">
+    <nav class="navbar sm-navbar navbar-expand-xl bg-white fixed-top">
+        <div class="container-fluid d-flex align-items-center justify-content-between">
+            <a href="https://searchmaid.com.sg" class="navbar-brand"><img src="https://searchmaid.com.sg/img/sm-logo-web.png" alt="logo"></a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas" aria-controls="navbarOffcanvas" aria-label="Open navigation menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="offcanvas offcanvas-end navbar-offcanvas" tabindex="-1" id="navbarOffcanvas" aria-labelledby="navbarOffcanvasLabel">
+                <div class="offcanvas-header">
+                    <span class="offcanvas-title" id="navbarOffcanvasLabel">Menu</span>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close navigation menu"></button>
+                </div>
+                <div class="offcanvas-body">
+                                        <a class="d-block cta-wrap mb-3 mb-xl-0" href="https://searchmaid.com.sg/request-maid">
+                        <span class="cta-btn" role="button" aria-label="Submit your requirements to agencies">
+                            <span class="cta-text">Submit Request</span>
+                            <span class="cta-icon" aria-hidden="true">
+                                <i class="fa-regular fa-envelope"></i>
+                            </span>
+                        </span>
+                    </a>
+                    
+                    <ul class="navbar-nav me-auto mb-0 mb-md-2 mb-lg-0">
+                    <li class="nav-item dropdown me-2">
+                        <a class="nav-link btn btn-bordered btn-rounded btn-sm dropdown-toggle mx-0" href="#" id="combinedDropdownDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Nationalities
+                        </a>
+
+                        <ul class="dropdown-menu" aria-labelledby="combinedDropdownDropdown" id="combinedDropdown">
+                                                            
+                                                                    <li><a href="https://searchmaid.com.sg/filipino-maids" class="dropdown-item">Filipino</a></li>
+                                                                                            
+                                                                    <li><a href="https://searchmaid.com.sg/indonesian-maids" class="dropdown-item">Indonesian</a></li>
+                                                                                            
+                                                                    <li><a href="https://searchmaid.com.sg/myanmar-maids" class="dropdown-item">Myanmar</a></li>
+                                                                                            
+                                                                    <li class="dropdown-submenu">
+                                        <a class="dropdown-item dropdown-toggle" href="javascript:void(0);">Indian</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="https://searchmaid.com.sg/indian-maids" class="dropdown-item">Indian</a></li>
+                                                                                            <li><a href="https://searchmaid.com.sg/manipur-maids" class="dropdown-item">Manipur</a></li>
+                                                                                            <li><a href="https://searchmaid.com.sg/mizoram-maids" class="dropdown-item">Mizoram</a></li>
+                                                                                    </ul>
+                                    </li>
+                                                                                            
+                                                                    <li><a href="https://searchmaid.com.sg/sri-lankan-maids" class="dropdown-item">Sri Lankan</a></li>
+                                                                                            
+                                                                    <li><a href="https://searchmaid.com.sg/bangladeshi-maids" class="dropdown-item">Bangladeshi</a></li>
+                                                                                            
+                                                                    <li><a href="https://searchmaid.com.sg/cambodian-maids" class="dropdown-item">Cambodian</a></li>
+                                                            
+                                                                                        <li><a href="https://searchmaid.com.sg/new-maid" style="background-color: #D4EDDA" class="dropdown-item">New Maid</a></li>
+                                                                                        <li><a href="https://searchmaid.com.sg/transfer-maid" style="background-color: #FFE4C4" class="dropdown-item">Transfer Maid</a></li>
+                                                                                        <li><a href="https://searchmaid.com.sg/ex-sg-maid" style="background-color: #CCE5FF" class="dropdown-item">Ex-SG Maid</a></li>
+                                                    </ul>
+                    </li>
+
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="maidsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Maids</a>
+                        <ul class="dropdown-menu" aria-labelledby="maidsDropdown">
+                            <li><a href="https://searchmaid.com.sg/search/maid" class="dropdown-item">All Maids</a></li>
+                            <li><a href="https://searchmaid.com.sg/maid-introduction-videos" class="dropdown-item">🎬 Maid Intro Video</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="agenciesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Agencies</a>
+                        <ul class="dropdown-menu" aria-labelledby="agenciesDropdown">
+                            <li><a href="https://searchmaid.com.sg/maid-agencies" class="dropdown-item">All Agencies</a></li>
+                            
+                            <li><a href="https://searchmaid.com.sg/area" class="dropdown-item">By Area</a></li>
+                            
+
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item dropdown-toggle" href="javascript:void(0);">By Nationalities</a>
+                                <ul class="dropdown-menu">
+                                                                            
+                                                                                    <li><a href="https://searchmaid.com.sg/filipino-maid-agency" class="dropdown-item">Filipino</a></li>
+                                                                                                                    
+                                                                                    <li><a href="https://searchmaid.com.sg/indonesian-maid-agency" class="dropdown-item">Indonesian</a></li>
+                                                                                                                    
+                                                                                    <li><a href="https://searchmaid.com.sg/myanmar-maid-agency" class="dropdown-item">Myanmar</a></li>
+                                                                                                                    
+                                                                                    <li class="dropdown-submenu">
+                                                <a class="dropdown-item dropdown-toggle" href="javascript:void(0);">Indian</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="https://searchmaid.com.sg/indian-maid-agency" class="dropdown-item">Indian</a></li>
+                                                                                                            <li><a href="https://searchmaid.com.sg/manipur-maid-agency" class="dropdown-item">Manipur</a></li>
+                                                                                                            <li><a href="https://searchmaid.com.sg/mizoram-maid-agency" class="dropdown-item">Mizoram</a></li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                    
+                                                                                    <li><a href="https://searchmaid.com.sg/sri-lankan-maid-agency" class="dropdown-item">Sri Lankan</a></li>
+                                                                                                                    
+                                                                                    <li><a href="https://searchmaid.com.sg/bangladeshi-maid-agency" class="dropdown-item">Bangladeshi</a></li>
+                                                                                                                    
+                                                                                    <li><a href="https://searchmaid.com.sg/cambodian-maid-agency" class="dropdown-item">Cambodian</a></li>
+                                                                                                            </ul>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item dropdown-toggle" href="javascript:void(0);">For Employers</a>
+                                <ul class="dropdown-menu">
+                                                                        <li><a class="dropdown-item" href="https://searchmaid.com.sg/request-maid">Request for Maid</a></li>
+                                                                        <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/online-training-for-your-maid-fdw">Online Maid Training</a></li>
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/maid-agency-to-help-with-direct-hire-paperwork">Direct Hire Paperwork</a></li>
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/maid-insurance-singapore ">Maid Insurance</a></li>
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/send-your-maid-home">Send Your Maid Home</a></li>
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/visa-application">Visa Application</a></li>
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/part-time-maid">Part-Time Cleaner</a></li>
+                                </ul>
+                            </li>
+                                                        <li class="dropdown-submenu">
+                                <a class="dropdown-item dropdown-toggle" href="javascript:void(0);">For Agencies</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/agency-registration">Signup Free Account</a></li>
+                                </ul>
+                            </li>
+                                                        <li class="dropdown-submenu">
+                                <a class="dropdown-item dropdown-toggle" href="javascript:void(0);">For Maids</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://searchmaid.com.sg/page/maids-in-singapore-looking-for-transfer">Looking to Transfer</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="https://searchmaid.com.sg/articles" class="nav-link">Articles</a>
+                    </li>
+                </ul>
+
+                <div class="nav-item dropdown mb-2 mb-md-0 me-2 sm-language-selector">
+                    <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="siteLanguageDropdown" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Language: English">
+                        <i class="fa-solid fa-globe" aria-hidden="true"></i>
+                        <span class="sm-language-label">English</span>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="siteLanguageDropdown">
+                                                    <li>
+                                                                <form action="https://searchmaid.com.sg/language" method="POST">
+                                    <input type="hidden" name="_token" value="imZrbFcvFFW5AdylsE8MSsVZH9ulsKbQv1Z17C7u">                                    <input type="hidden" name="locale" value="en">
+                                    <button class="dropdown-item d-flex justify-content-between align-items-center active" type="submit">
+                                        <span>English</span>
+                                        <i class="fa-solid fa-check" aria-hidden="true"></i>                                    </button>
+                                </form>
+                                                            </li>
+                                                    <li>
+                                                                <form action="https://searchmaid.com.sg/language" method="POST">
+                                    <input type="hidden" name="_token" value="imZrbFcvFFW5AdylsE8MSsVZH9ulsKbQv1Z17C7u">                                    <input type="hidden" name="locale" value="zh">
+                                    <button class="dropdown-item d-flex justify-content-between align-items-center " type="submit">
+                                        <span>中文</span>
+                                                                            </button>
+                                </form>
+                                                            </li>
+                                                    <li>
+                                                                <form action="https://searchmaid.com.sg/language" method="POST">
+                                    <input type="hidden" name="_token" value="imZrbFcvFFW5AdylsE8MSsVZH9ulsKbQv1Z17C7u">                                    <input type="hidden" name="locale" value="ms">
+                                    <button class="dropdown-item d-flex justify-content-between align-items-center " type="submit">
+                                        <span>Bahasa Melayu</span>
+                                                                            </button>
+                                </form>
+                                                            </li>
+                                            </ul>
+                </div>
+
+                <div class="nav-item dropdown mb-2 mb-md-0 me-3">
+                                        <a class="nav-link dropdown-toggle sm-nav-link-signin" href="#" id="authDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fa-solid fa-circle-user text-primary"></i> Account
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="authDropdown">
+                        <li><a href="https://searchmaid.com.sg/login" class="dropdown-item"><i class="fa-solid fa-right-to-bracket text-primary"></i> Log In</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a href="https://searchmaid.com.sg/register" class="dropdown-item"><i class="fa-solid fa-user-plus text-primary"></i> Register</a></li>
+                    </ul>
+                                    </div>
+
+                
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <section class="bg-primary-50">
+    <div class="container py-3 py-md-4">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 text-center">
+                <h1 class="fs-40 fw-500 lh-2 mb-2 mb-md-4">Which Country Should I Choose A Maid From?</h1>
+                <ul class="sm-article-meta">
+                    <li>
+                        
+                                                    <i class="fa-solid fa-calendar-days fa-lg text-primary"></i>
+                            <span class="fs-18 fw-500 ms-2">
+                                May 08, 2021
+                            </span>
+                                            </li>
+                    <li>
+                        <i class="fa-regular fa-circle-user fa-lg text-primary"></i>
+                        <a href="https://searchmaid.com.sg/author/ray" target="_blank"><span class="fs-18 fw-500 ms-2">Ray Tay</span></a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-4 py-md-5">
+    <div class="container py-3 py-md-4">
+        <div class="row">
+            <div class="col-12 col-md-9 mb-5 mb-md-0">
+                <div class="sm-article-featured-img mb-4 pb-2">
+                    <img src="https://searchmaid.com.sg/storage/posts_banner/which-country-should-i-choose-a-maid-from_AlAUmBAUbvAxjG2EuOpdIAAusG14gMy55kEjGKEx.jpg" alt="which-country-should-i-choose-a-maid-from" class="w-100">
+                </div>
+
+                <div class="sm-article-content sm-rich-text mb-5">
+                    <div style="font-family: 'Roboto',Arial,sans-serif; font-size: 17px; color: #1a1a1a; line-height: 1.7; max-width: 820px; margin: 0 auto;">
+<div style="background: #FFF5F8; border: 1px solid #FADADF; border-left: 5px solid #E91E8C; border-radius: 14px; padding: 22px 24px; margin: 0 0 30px;">
+<div style="font-weight: bold; font-size: 19px; color: #b5006e; margin-bottom: 10px;">At a Glance</div>
+<ul style="margin: 0; padding-left: 20px; font-size: 16px; line-height: 1.7;">
+<li>MOM approves 13 source countries or regions for helpers: Bangladesh, Cambodia, Hong Kong, India, Indonesia, Macau, Malaysia, Myanmar, Philippines, South Korea, Sri Lanka, Taiwan and Thailand. Pakistan is not on the list.</li>
+<li>Most Singapore families hire from the Philippines, Indonesia, Myanmar or India.</li>
+<li>Pick on factors that matter to your home: language, experience, diet and religion, cost and paperwork.</li>
+<li>Some embassies set their own minimum salary. The Philippines has the highest floor in 2026.</li>
+<li>Every helper must be female, aged 23 to below 50 at application, with at least 8 years of formal education.</li>
+</ul>
+</div>
+<p style="margin: 0 0 16px; font-size: 19px; line-height: 1.6;">Choosing a helper's country is really choosing a set of practical trade-offs. Nationality tells you about language, paperwork and typical salary. It tells you nothing about one person's character. Interview the person, then use this guide for the rest.</p>
+<h2 style="font-size: 27px; color: #b5006e; margin: 0 0 14px; line-height: 1.3;">Which countries can I hire a maid from in Singapore?</h2>
+<p style="margin: 0 0 16px;">MOM sets the rules. A helper needs to meet all of these to get a Work Permit:</p>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 0 8px;">
+<table style="width: 100%; min-width: 520px; border-collapse: collapse; font-size: 15px;">
+<tbody>
+<tr style="background: #B5006E;">
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Requirement</th>
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">MOM rule</th>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Sex</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Female</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Age</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">23 to below 50 at application. Helpers aged 50 and above can only renew until 60.</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Source country or region</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Bangladesh, Cambodia, Hong Kong, India, Indonesia, Macau, Malaysia, Myanmar, Philippines, South Korea, Sri Lanka, Taiwan, Thailand</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Education</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Minimum 8 years of formal education with a recognised certificate</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="margin: 0 0 30px; font-size: 13px; color: #777;">Swipe to see more. Source: Ministry of Manpower, MDW eligibility page (checked Oct 2026).</p>
+<h2 style="font-size: 27px; color: #b5006e; margin: 0 0 14px; line-height: 1.3;">What should I compare when choosing a helper's country?</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 14px; margin: 0 0 30px;">
+<div style="flex: 1 1 220px; background: #FFF5F8; border: 1px solid #FADADF; border-radius: 14px; padding: 22px;">
+<div style="font-weight: bold; font-size: 17px; margin-bottom: 6px;">Language</div>
+<div style="font-size: 16px; color: #555; line-height: 1.6;">Who will she talk to most? Kids doing homework, a grandparent who speaks Malay, or you?</div>
+</div>
+<div style="flex: 1 1 220px; background: #FFF5F8; border: 1px solid #FADADF; border-radius: 14px; padding: 22px;">
+<div style="font-weight: bold; font-size: 17px; margin-bottom: 6px;">Experience</div>
+<div style="font-size: 16px; color: #555; line-height: 1.6;">Ex-Singapore and transfer helpers know local homes already. First-timers cost less but need more training.</div>
+</div>
+<div style="flex: 1 1 220px; background: #FFF5F8; border: 1px solid #FADADF; border-radius: 14px; padding: 22px;">
+<div style="font-weight: bold; font-size: 17px; margin-bottom: 6px;">Religion and diet</div>
+<div style="font-size: 16px; color: #555; line-height: 1.6;">Ask directly about handling pork, fasting months and rest-day worship. Fit matters both ways.</div>
+</div>
+<div style="flex: 1 1 220px; background: #FFF5F8; border: 1px solid #FADADF; border-radius: 14px; padding: 22px;">
+<div style="font-weight: bold; font-size: 17px; margin-bottom: 6px;">Cost and paperwork</div>
+<div style="font-size: 16px; color: #555; line-height: 1.6;">Embassy salary floors and extra steps (like Philippine embassy verification) change your budget and timeline.</div>
+</div>
+</div>
+<h2 style="font-size: 27px; color: #b5006e; margin: 0 0 14px; line-height: 1.3;">How do Filipino, Indonesian, Myanmar and Indian helpers compare?</h2>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 0 8px;">
+<table style="width: 100%; min-width: 680px; border-collapse: collapse; font-size: 15px;">
+<tbody>
+<tr style="background: #B5006E;">
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Country</th>
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Language</th>
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Indicative salary (2026)</th>
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Things to check</th>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Philippines</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">English is widely used in schooling</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">From S$650 (Philippine minimum)</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Embassy contract verification and Philippine-side clearance add time</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Indonesia</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Bahasa Indonesia, close to Malay. English varies</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">About S$600 to S$650 expected minimum</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Ask your agency for the current embassy rules before you commit</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Myanmar</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Burmese. English varies, often basic for first-timers</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">About S$550 to S$750</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Departure paperwork in Myanmar can shift. Ask the agency about current timelines</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">India</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Varies by state. Many speak some English or Hindi</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Agency quotes vary. Confirm with your agency</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Smaller pool, so fewer candidates to choose from</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="margin: 0 0 30px; font-size: 13px; color: #777;">Swipe to see more. Salary ranges are indicative only, gathered Oct 2026 from filipinos.sg (Philippine S$650 minimum), HelperChoice (Indonesia) and Upwill (Myanmar). Experience and duties push pay up. Always confirm with your agency.</p>
+<h2 style="font-size: 27px; color: #b5006e; margin: 0 0 14px; line-height: 1.3;">Do embassies set a minimum salary for maids in Singapore?</h2>
+<ul style="margin: 0 0 30px; padding-left: 20px;">
+<li><strong>Singapore:</strong> no legal minimum wage for helpers. You agree salary in the contract.</li>
+<li><strong>Philippines:</strong> the DMW set the minimum for Filipino household workers in Singapore at S$650 a month.</li>
+<li><strong>Indonesia:</strong> expected minimum is reported at about S$600 to S$650 in 2026.</li>
+<li><strong>Myanmar:</strong> we could not confirm a current published embassy minimum. Ask your agency.</li>
+</ul>
+<h2 style="font-size: 27px; color: #b5006e; margin: 0 0 14px; line-height: 1.3;">What else will I pay on top of salary?</h2>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 0 8px;">
+<table style="width: 100%; min-width: 480px; border-collapse: collapse; font-size: 15px;">
+<tbody>
+<tr style="background: #B5006E;">
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Item</th>
+<th style="background: #B5006E; color: #ffffff; padding: 12px; text-align: left;">Monthly cost</th>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">MOM levy, first helper</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">S$300</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">MOM levy, second helper</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">S$450</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Concessionary levy (if eligible)</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">S$60</td>
+</tr>
+<tr style="background: #FFF5F8;">
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF; font-weight: bold; position: sticky; left: 0;">Food, toiletries, phone</td>
+<td style="background: #FFF5F8; padding: 12px; border-bottom: 1px solid #FADADF;">Varies by household</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="margin: 0 0 30px; font-size: 13px; color: #777;">Source: MOM levy rates. Concession applies for households with young children, elderly or persons with disabilities.</p>
+<h2 style="font-size: 27px; color: #b5006e; margin: 0 0 14px; line-height: 1.3;">Where can I read more about each nationality?</h2>
+<ul style="margin: 0 0 30px; padding-left: 20px;">
+<li><a style="color: #e91e8c;" href="../../../article/why-are-filipino-maids-so-popular-in-singapore">Why are Filipino maids so popular in Singapore?</a></li>
+<li><a style="color: #e91e8c;" href="../../../article/should-i-hire-an-indian-maid-domestic-helper">Should I hire an Indian maid?</a></li>
+<li><a style="color: #e91e8c;" href="../../../article/should-i-hire-a-myanmar-maid-domestic-helper">Should I hire a Myanmar maid?</a></li>
+</ul>
+<div style="background: #FFF5F8; border: 1px solid #FADADF; border-radius: 16px; padding: 28px; text-align: center; margin: 0 0 26px;">
+<div style="font-size: 20px; font-weight: bold; color: #b5006e; margin-bottom: 10px;">Compare real helper profiles side by side</div>
+<p style="margin: 0 0 18px; font-size: 16px; color: #555;">Filter by country, language and experience, then shortlist the ones who fit your home.</p>
+<a style="display: inline-block; background: #E91E8C; color: #ffffff; font-weight: bold; font-size: 17px; padding: 15px 36px; border-radius: 50px; text-decoration: none;" href="../../../">Browse Searchmaid</a></div>
+<p style="margin: 0 0 16px; font-style: italic; color: #555;">P.S. Shortlist two or three countries, not one. You'll get more good candidates to interview.</p>
+</div>
+                </div>
+
+                
+                
+
+                <div class="navigation mt-4">
+                    <div class="row">
+                                                <div class="col-6 text-start">
+                            <a href="https://searchmaid.com.sg/article/where-can-i-leave-feedback-on-my-helper-to-mom" class="btn btn-primary">
+                                &laquo; Previous Post
+                            </a>
+                        </div>
+                        
+                                                <div class="col-6 text-end">
+                            <a href="https://searchmaid.com.sg/article/how-to-turn-a-hdb-storeroom-into-my-maids-room" class="btn btn-primary">
+                                Next Post &raquo;
+                            </a>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-3">
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4424511898406499" crossorigin="anonymous" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4424511898406499"
+     data-ad-slot="8881882164"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script type="914afb5ef8056fe46c82c3fd-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4424511898406499" crossorigin="anonymous" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4424511898406499"
+     data-ad-slot="8881882164"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script type="914afb5ef8056fe46c82c3fd-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+                <div class="card sm-card-latest-articles bg-primary-25 overflow-hidden border-0 search-sidebar mt-3">
+                    <div class="card-body px-4 py-3">
+                        <p class="fs-5 fw-semibold text-primary mb-3">Latest Articles</p>
+
+                        <div id="latest-article-list">
+                            <!-- Latest article cards will be appended here -->
+                        </div>
+
+                        <div id="loading2" class="text-center my-3">
+                            <img src="https://searchmaid.com.sg/img/loader.svg" alt="Loading...">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="my-3">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4424511898406499" crossorigin="anonymous" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="auto"
+     data-ad-client="ca-pub-4424511898406499"
+     data-ad-slot="8881882164"></ins>
+<script type="914afb5ef8056fe46c82c3fd-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    </div>
+</section>
+
+    <button onclick="if (!window.__cfRLUnblockHandlers) return false; topFunction()" id="back-to-top-btn" class="bg-dark" title="Back to top" data-cf-modified-914afb5ef8056fe46c82c3fd-=""><i class="fa-solid fa-angles-up"></i></button>
+
+    <div class="floating-buttons">
+        <a href="https://wa.me/6587858995?text=Hi%2C%20I%E2%80%99m%20looking%20for%20a%20helper%2C%20via%20agency%20%E2%80%94" class="floating-button bg-success" target="_blank" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Need Help?" aria-label="Contact us on WhatsApp" data-track-event="whatsapp_click">
+            <span class="floating-button-label">Contact Us</span>
+            <i class="fa-brands fa-xl fa-whatsapp"></i>
+        </a>
+    </div>
+
+    <div class="modal fade" id="shareModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p class="modal-title" id="shareModalLabel">Share This Profile</p>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>Share this profile via:</p>
+                <div class="col col-md-8 mx-auto">
+                    <div class="d-flex justify-content-around">
+                        <a href="#" id="facebookShare" class="btn btn-icon btn-facebook" target="_blank">
+                            <i class="fa-brands fa-facebook fa-lg"></i>
+                        </a>
+                        <a href="#" id="twitterShare" class="btn btn-icon btn-twitter" target="_blank">
+                            <i class="fa-brands fa-x-twitter fa-lg"></i>
+                        </a>
+                        <a href="#" id="whatsappShare" class="btn btn-icon btn-whatsapp" target="_blank">
+                            <i class="fa-brands fa-whatsapp fa-lg"></i>
+                        </a>
+                        <a href="#" id="telegramShare" class="btn btn-icon btn-telegram" target="_blank">
+                            <i class="fa-brands fa-telegram fa-lg"></i>
+                        </a>
+                        <a href="#" id="linkedinShare" class="btn btn-icon btn-linkedin" target="_blank">
+                            <i class="fa-brands fa-linkedin fa-lg"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <hr>
+
+                <p>Or copy this link:</p>
+                <div class="input-group">
+                    <input type="text" class="form-control" id="shareLink" readonly>
+                    <button class="btn btn-outline-secondary" onclick="if (!window.__cfRLUnblockHandlers) return false; copyLink()" data-cf-modified-914afb5ef8056fe46c82c3fd-="">Copy</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <footer class="site-footer">
+    <div class="container py-5">
+        <div class="row g-4 g-lg-5 align-items-start">
+            <div class="col-12 col-lg-4">
+                <div class="d-flex gap-3 align-items-start">
+                    <img src="https://searchmaid.com.sg/img/sm-logo-web-white.png" alt="logo" class="site-footer-logo">
+                </div>
+
+                <p class="footer-desc mt-3 mb-0">
+                    SEARCHMAID ASIA PTE. LTD. (UEN No. 202344630D) is Singapore&#039;s leading maid search platform connecting employers with trusted maid agencies. Employers can browse and shortlist maids, or send enquiries to multiple agencies in one go — making hiring simpler and faster for everyone.
+                </p>
+            </div>
+
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="footer-kicker mb-3">Services</div>
+                <nav class="footer-list d-grid fs-default" aria-label="Services">
+                    <a href="https://searchmaid.com.sg/indonesian-maids" target="_blank">Indonesian Maid</a>
+                    <a href="https://searchmaid.com.sg/myanmar-maids" target="_blank">Myanmar Maid</a>
+                    <a href="https://searchmaid.com.sg/filipino-maids" target="_blank">Filipino Maid</a>
+                    <a href="https://searchmaid.com.sg/indian-maids" target="_blank">Indian Maid</a>
+                    <a href="https://searchmaid.com.sg/transfer-maid" target="_blank">Transfer Maid</a>
+                    <a href="https://searchmaid.com.sg/page/maid-agency-to-help-with-direct-hire-paperwork" target="_blank">Direct Hire Maid</a>
+                    <a href="https://searchmaid.com.sg/page/maid-insurance-singapore" target="_blank">Maid Insurance at 25% discount</a>
+                </nav>
+            </div>
+
+            <div class="col-12 col-md-4 col-lg-2">
+                <div class="footer-kicker mb-3">Other Links</div>
+                <nav class="footer-list d-grid" aria-label="Other Links">
+                    <a href="https://searchmaid.com.sg/page/faq" class="fs-default text-light">FAQ</a>
+    <a href="https://searchmaid.com.sg/page/privacy-policy" class="fs-default text-light">Privacy Policy</a>
+    <a href="https://searchmaid.com.sg/page/maid-insurance-singapore" class="fs-default text-light">Maid Insurance, with Discount + $80 NTUC voucher</a>
+    <a href="https://searchmaid.com.sg/page/about-searchmaid" class="fs-default text-light">About SearchMaid</a>
+    <a href="https://searchmaid.com.sg/page/terms-of-usage" class="fs-default text-light">Terms of Usage</a>
+    <a href="https://searchmaid.com.sg/page/how-it-works" class="fs-default text-light">How SearchMaid Works</a>
+    <a href="https://searchmaid.com.sg/page/our-story" class="fs-default text-light">Our Story</a>
+    <a href="https://searchmaid.com.sg/page/our-mission" class="fs-default text-light">Our Mission</a>
+    <a href="https://searchmaid.com.sg/page/part-time-maid" class="fs-default text-light">Recommended Part-Time Cleaners for SG Homes</a>
+                </nav>
+            </div>
+
+            <div class="col-12 col-md-12 col-lg-4">
+                <div class="footer-kicker mb-3">Recent Articles</div>
+                <div class="d-grid gap-3 pb-2">
+    <a class="footer-article" href="https://searchmaid.com.sg/article/training-period-do-employers-pay-for-maids-salary-when-housed-with-agency">
+        <img src="https://searchmaid.com.sg/storage/posts_banner/training-period-do-employers-pay-for-maids-salary-when-housed-with-agency_vVzJIHeuwvKMl4aSL7Jnv3wTHLvhOO1DWyEbq4pp.jpg" alt="training-period-do-employers-pay-for-maids-salary-when-housed-with-agency" class="img-fluid">
+
+        <div>
+            <p class="title">Training Period: Do Employers Pay for Maid&#039;s Salary When Housed with Agency</p>
+            <p class="date">Oct 15, 2026</p>
+        </div>
+    </a>
+</div>
+<div class="d-grid gap-3 py-2">
+    <a class="footer-article" href="https://searchmaid.com.sg/article/can-maids-have-boyfriends-in-singapore">
+        <img src="https://searchmaid.com.sg/storage/posts_banner/can-maids-have-boyfriends-in-singapore_Yml7TzkUubMt4VnHIV9GTvX37A8o5LoKznUCMqUf.jpg" alt="can-maids-have-boyfriends-in-singapore" class="img-fluid">
+
+        <div>
+            <p class="title">Can maids have boyfriends in Singapore?</p>
+            <p class="date">Oct 15, 2026</p>
+        </div>
+    </a>
+</div>
+<div class="d-grid gap-3 py-2">
+    <a class="footer-article" href="https://searchmaid.com.sg/article/the-evolution-of-domestic-helpers-in-singapore-from-amahs-traditional-caregivers-to-modern-maids">
+        <img src="https://searchmaid.com.sg/storage/posts_banner/the-evolution-of-domestic-helpers-in-singapore-from-amahs-traditional-caregivers-to-modern-maids_YKcN1VpJnAQnKq89Dshovh95bwYkBUdYSaQocCYq.jpg" alt="the-evolution-of-domestic-helpers-in-singapore-from-amahs-traditional-caregivers-to-modern-maids" class="img-fluid">
+
+        <div>
+            <p class="title">The Evolution of Domestic Helpers in Singapore: From Amahs (traditional caregivers) to Modern Maids</p>
+            <p class="date">Oct 15, 2026</p>
+        </div>
+    </a>
+</div>
+            </div>
+        </div>
+
+        <hr class="footer-divider my-4" />
+
+        <div class="row gy-3 align-items-center">
+            <div class="col-12 col-lg-4">
+                <div class="d-flex align-items-center gap-3">
+                    <div class="footer-kicker mb-0">Follow Us:</div>
+                    <div class="d-flex gap-2">
+                        <a class="social-btn" href="https://www.facebook.com/SearchMaid" aria-label="Facebook" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                        <a class="social-btn" href="https://www.youtube.com/@searchmaid" aria-label="YouTube" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        <a class="social-btn" href="https://www.instagram.com/searchmaid.asia" aria-label="Instagram" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-lg-8">
+                <div class="d-flex flex-column flex-lg-row justify-content-lg-end gap-3 gap-lg-4 fs-18">
+                    <div class="contact-pill">
+                        <i class="fa-solid fa-envelope text-primary" aria-hidden="true" target="_blank"></i>
+                        <a href="mailto:info@searchmaid.com.sg">info@searchmaid.com.sg</a>
+                    </div>
+                    <div class="contact-pill">
+                        <i class="fa-solid fa-phone text-primary" aria-hidden="true" target="_blank"></i>
+                        <a href="https://wa.me/6587858995">+65 8785 8995</a>
+                    </div>
+                    <div class="contact-pill">
+                        <i class="fa-solid fa-location-dot text-primary" aria-hidden="true"></i>
+                        <span>913 Lorong 1 Toa Payoh, Singapore 319772</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="site-footer-copyright">Copyright &copy; 2026 SEARCHMAID ASIA PTE. LTD. (UEN No. 202344630D). All rights reserved.</div>
+</footer>
+
+    <!-- JavaScript Files -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+    <script src="https://searchmaid.com.sg/frontend/sweetalert2/js/sweetalert2.all.min.js" type="914afb5ef8056fe46c82c3fd-text/javascript"></script>
+
+    <script type="914afb5ef8056fe46c82c3fd-text/javascript">
+    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+    var popoverList = popoverTriggerList.map(function(popoverTriggerEl) {
+        return new bootstrap.Popover(popoverTriggerEl)
+    })
+</script>
+    <script type="914afb5ef8056fe46c82c3fd-text/javascript">
+    function copyLink() {
+        var copyText = document.getElementById("shareLink");
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); /* For mobile devices */
+        document.execCommand("copy");
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        var shareModal = document.getElementById('shareModal');
+
+        shareModal.addEventListener('show.bs.modal', function (event) {
+            var button = event.relatedTarget;
+            var shareUrl = button.getAttribute('data-share-url');
+            var facebookShare = document.getElementById('facebookShare');
+            var twitterShare = document.getElementById('twitterShare');
+            var whatsappShare = document.getElementById('whatsappShare');
+            var telegramShare = document.getElementById('telegramShare');
+            var linkedinShare = document.getElementById('linkedinShare');
+            var shareLink = document.getElementById('shareLink');
+
+            facebookShare.href = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(shareUrl);
+            twitterShare.href = "https://twitter.com/intent/tweet?url=" + encodeURIComponent(shareUrl);
+            whatsappShare.href = "https://wa.me/?text="+ encodeURIComponent(shareUrl) + "&url=" + encodeURIComponent(shareUrl);
+            telegramShare.href = "https://telegram.me/share/url?url=" + encodeURIComponent(shareUrl);
+            linkedinShare.href = "https://www.linkedin.com/shareArticle?mini=true&url=" + encodeURIComponent(shareUrl);
+            shareLink.value = shareUrl;
+        });
+    });
+</script>
+
+        <script type="914afb5ef8056fe46c82c3fd-text/javascript">
+    document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+    });
+
+    const images = document.querySelectorAll('.blur-effect');
+
+    images.forEach(img => {
+        // Disable dragging
+        img.ondragstart = function() {
+            return false;
+        };
+
+        // Disable right-click/context menu
+        img.oncontextmenu = function() {
+            return false;
+        };
+
+        // Disable selection
+        img.style.userSelect = 'none';
+        img.style.webkitUserSelect = 'none'; /* Safari */
+        img.style.msUserSelect = 'none';     /* IE10+ */
+    });
+</script>
+    
+        <script type="914afb5ef8056fe46c82c3fd-text/javascript">
+    const containerLatestArticle = document.getElementById('latest-article-list');
+
+    function loadLatestArticles() {
+        $('#loading2').show();
+
+        fetch(`https://searchmaid.com.sg/articles/fetch/latest`, {
+            headers: {
+                'X-Requested-With': 'XMLHttpRequest'
+            }
+        })
+        .then(response => response.text())
+        .then(html => {
+            containerLatestArticle.innerHTML = html;
+            $('#latest-article-list').trigger('contentAppended');
+            $('#loading2').hide();
+        })
+        .catch(error => {
+            console.error('Error loading articles:', error);
+            $('#loading2').hide();
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', loadLatestArticles);
+</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="914afb5ef8056fe46c82c3fd-|49" defer></script></body>
+</html>

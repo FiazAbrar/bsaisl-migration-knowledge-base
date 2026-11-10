@@ -1,0 +1,945 @@
+The price of working
+
+Salary and recruitment fee survey 2026
+
+August 2026
+0. Contents
+
+I     Introduction                                                      3
+
+II    Key definitions                                                   4
+
+III   Key findings: Salary                                              4
+
+IV    Key findings: Recruitment cost                                    5
+
+V     Survey method and data validation process                         6
+
+VI    Profiles: Nationality and industry sectors                        9
+
+VII   Detailed findings: Salary landscape                               10
+
+VIII  Detailed findings: Seniority and earnings progression             15
+
+IX    Detailed findings: Recruitment fees and debt ratios               23
+
+X     Detailed findings: Lack of salary awareness                       26
+
+XI    Conclusion                                                        27
+
+      Annex: Questions and answers                                      29
+
+Cover picture: Construction workers leaving a worksite at the end of
+their shift (8:30 pm)
+
+Transient Workers Count Too                        www.twc2.org.sg
+                                                   info@twc2.org.sg
+Singapore
+                                                   August 2026
+© Transient Workers Count Too
+
+The price of working ­ Salary and recruitment fee survey, August 2026.      Page 2 of 30
+I. Introduction                                                                            · concentration of certain nationalities in certain
+                                                                                                industry sectors, often driven by government regulation;
+This report examines the current salary landscape and recruitment cost burdens
+faced by Singapore's Work Permit holders, the lowest-paid migrant workers. An online       · the length of time a worker has spent in Singapore impacts his experience of
+survey was conducted by Transient Workers Count Too (TWC2) between March and                    work, salary, and recruitment fees.
+April 2026 which collected 1,428 responses for recruitment cost analysis and a
+subset of 499 responses for detailed salary analysis.                                 In the main, this study's findings are consistent with results from our previous studies
+                                                                                      as well as the daily observations, albeit anecdotal, we accumulate from casework.
+Low salaries and high recruitment cost have been longstanding issues with             Work Permit holders experience low salaries that, in certain industry sectors, do not
+Singapore's migrant labour model. Over the years, TWC2 has conducted various          progress very much with experience or the number of years on the job.
+studies and published reports on these issues, such as Struggles and sacrifices as
+cost of living rises1 (2023).                                                         Recruitment cost remains a problem, particularly for newer workers.
+
+However, getting a clear understanding of the details is extremely difficult, for a   Nonetheless, a few somewhat unexpected insights came out of this study: Firstly, a
+variety of reasons:                                                                   large proportion of respondents (roughly two in three) were unable to provide a
+                                                                                      coherent breakdown of their salary entitlements, which suggests that their awareness
+     · the situation on the ground is constantly changing;                            of this key facet of employment is low ­ putting them at a disadvantage vis-à-vis any
+     · reaching a large enough sample across the migrant worker population is         employer with a mind to take liberties with their payroll obligations.
+
+          challenging;                                                                Secondly, the industry sectors with the lowest average salaries are also the sectors
+     · language barriers add to the difficulty of getting information from            where workers appear to be paying the highest recruitment fees. This leaves many
+                                                                                      workers trapped in severe debt.
+          respondents.
+                                                                                      Overall, this study confirms that there are several acute issues with our migrant
+Moreover, there are many factors at work and teasing them apart can prove difficult:  labour model in Singapore. Whilst more research may be helpful, the issues are clear
+                                                                                      enough already and serious consideration should be given to solutions without
+     · different nationalities with their differing unemployment situations at home   waiting for more detail.
+          and their need to find work in Singapore;
+                                                                                                                                                                                                Page 3 of 30
+     · different industry sectors have varying employment practices;
+
+1 TWC2, 1 August 2023, Struggles and sacrifices as cost of living rises.
+https://twc2.org.sg/2023/08/01/struggles-and-sacrifices-as-cost-of-living-rises/
+
+The price of working ­ Salary and recruitment fee survey, August 2026.
+II. Key definitions                                                                    III. Key findings: Salary
+
+Four key terms we use in this report are derived from the In-principle Approval (IPA)  Below is an overview of the survey's key findings with respect to the salary landscape,
+issued by the Ministry of Manpower. Naturally, we apply the same meaning as used in    summarising the detailed data analysis presented in the sections that follow.
+the IPA, and they are explained below.
+                                                                                       3.1 Widespread lack of salary awareness
+The IPA is issued pursuant to an employer (or its authorised Singapore-licensed
+employment agency) making an application to the ministry for a work pass for a         Roughly 65% of all responses regarding salary had to be discarded because
+foreigner.                                                                             respondents could not accurately report their own IPA salary components. This stark
+                                                                                       data point indicates that a vast majority of Work Permit holders may not fully grasp
+Basic Monthly Salary (sometimes referred to as Basic Salary) represents the fixed      the salary breakdowns listed in their IPA. Ultimately, this widespread lack of
+pay a Work Permit holder is contractually entitled to before any fixed allowances or   awareness is highly problematic and strongly warrants further investigation.
+deductions, whether or not the employer assigns any work to the employee.
+Importantly, the Basic Monthly Salary serves as the baseline rate for calculating      3.2 Construction and service sectors offer the best value for
+additional earnings, such as overtime or rest-day pay.                                 recruitment costs
+
+Monthly Salary (sometimes referred to as Fixed Monthly Salary) is the fixed take-      The construction sector forms the study's backbone (representing 79% of valid salary
+home salary that Work Permit holder is guaranteed each month. It represents the        data), maintaining a narrow salary range and a steady, linear salary increment tied to
+combined sum of the Basic Salary and fixed monthly allowances, minus any monthly       seniority ($690 monthly salary for newcomers to $1,075 monthly salary for 10+ year
+deductions. Importantly, Monthly Salary does not include any variable wages, such as   veterans). While construction and service sector Work Permit holders share the
+overtime, rest-day pay, or bonuses.                                                    lowest relative recruitment fees -- requiring roughly 2.9 months of salary to recover
+                                                                                       agent fees -- they arrive at this level in different ways. Service sector workers
+Fixed Allowance is the fixed amount paid on top of the Basic Monthly Salary for        command the highest take-home salary ($1,633 average monthly salary) but face high
+expenses such as housing, amenities, services, transport, and others.                  agent fees ($4,672).
+
+Deductions are the amounts an employer may deduct from Monthly Salary for              3.3 New workers appear to earn more, but sector mix explains
+housing, amenities, services, or other benefits extended to the employee.              the gap
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                 On paper, overall data show an unconventional U-shaped salary curve, with recent
+                                                                                       arrivals (<2 years) out-earning mid-career workers ($1,101 monthly salary vs $790
+                                                                                       monthly salary at 4­6 years). However, the report identifies this as a distortion caused
+
+                                                                                                                                                                                                 Page 4 of 30
+by a shift in worker demographics, rather than an actual drop in salaries. The           3.6 Higher salary for specialist roles
+newcomer cohort is heavily populated by Myanmar nationals in the service and
+manufacturing sectors, where monthly salaries are vastly inflated by fixed allowances    Work Permit holders in specialised positions, such as supervisory roles and drivers,
+(averaging an extra $323 to $636 over basic monthly salary). Conversely, mid-career      receive a substantially higher salary, earning roughly 37% more in monthly salary than
+brackets are dominated by Bangladeshis and Indians in the Construction sector, who       general workers ($1,193 and $1,188 respectively, vs $866). However, their underlying
+receive lower allowances but benefit from long-term, linear basic monthly salary         contract structures differ sharply. Drivers rely heavily on fixed allowances, showing a
+increments over a decade of service.                                                     13.1% gap ($138) between their basic monthly salary and monthly salary -- indicating
+                                                                                         that their specialised status is frequently compensated via fixed allowances rather
+3.4 No evidence of nationality discrimination over salary within                         than a higher basic monthly salary. Conversely, supervisors see a negligible 3.1%
+the construction sector                                                                  variance ($36), which translates to higher monthly salary and, in turn, higher overtime
+                                                                                         and rest-day rates.
+When looking strictly at the construction sector, basic monthly salaries are
+remarkably similar across nationalities: Bangladeshis average $820, Indians $911,        IV. Key findings: Recruitment costs
+and Myanmar nationals $829. This confirms that broader salary gaps between
+nationalities are driven by the industries in which workers are placed, rather than by   Below is an overview of the survey's key findings on the recruitment costs,
+direct ethnic or nationality discrimination.                                             summarising the detailed data analysis presented in the sections that follow.
+
+3.5 Experience pays off in construction, but not in marine                               4.1 Recruitment fees
+shipyard sector
+                                                                                         A clear majority of respondents (61%) paid upfront agent fees to secure their current
+Long-term salary growth varies significantly by industry, with certain sectors offering  employment in Singapore, resulting in an average recruitment cost of $3,338.
+virtually no financial return on seniority. The construction sector provides the only    Myanmar nationals experienced both the highest proportion of workers who paid fees
+reliable, linear career ladder, where a decade of experience translates into a steady    (73.45%) and the highest average agent fee per worker ($4,023).
+55% monthly salary increase -- climbing from a $690 monthly salary to $1,075 for
+industry veterans. Conversely, the marine shipyard sector reveals severe wage            4.2 High fees and low pay trap workers in process and marine
+stagnation. Despite spending over 10 years in the industry, marine shipyard veterans     shipyard sectors
+earn an average monthly salary of only $705 monthly salary. This stalled progression
+leaves a decade-long shipyard veteran out-earned by a mid-career construction            The study reveals that higher recruitment costs do not correlate linearly with higher
+worker, proving that accumulated experience yields minimal earnings growth in this       wages. Instead, Work Permit holders in the process sector pay the highest agent fee
+field.
+                                                                                                                                                                                                   Page 5 of 30
+The price of working ­ Salary and recruitment fee survey, August 2026.
+ratio, facing an average recruitment cost of $6,665 against a low average monthly         5.2 Limitations
+salary of $771, requiring 8.6 months of monthly salary to just recover their
+recruitment fees. The marine shipyard sector closely follows, requiring 7.2 months of     Limitations due to Recruitment Channels
+wages to offset a $4,096 average fee due to possibly the lowest average monthly           The survey was conducted digitally across TWC2's three Facebook communities,
+salary ($567) in the entire workforce.                                                    leveraging a collective digital reach of approximately 85,000 followers. To ensure
+                                                                                          accessibility, separate identical forms were distributed in corresponding languages,
+V. Survey method and data validation                                                      with parallel English translations provided across all three communities during the
+process                                                                                   following periods:
+
+5.1 Target demographics & eligibility criteria                                             TWC2 Bangla (https://www.facebook.com/twc2bangla);
+                                                                                               15 March to 22 April 2026
+To be eligible for the survey, respondents were required to: (1) be currently working in
+Singapore, (2) not be a foreign domestic worker, (3) hold a Work Permit, and (4) have a    TWC2 Tamil (https://www.facebook.com/twc2tamil);
+copy of their IPA letter for the current employment on hand. These criteria were               15 March to 23 April 2026
+designed to isolate a specific and consistent respondent group. Criterion 1 excluded
+former Work Permit holders, ensuring the sample reflected only current Work Permit         TWC2 Burmese (https://www.facebook.com/twc2burmese);
+holders. Criterion 2 excluded migrant domestic workers, who were outside the scope             17 March to 30 April 2026
+of this survey. Criterion 3 excluded holders of other work passes -- such as the S Pass
+or Employment Pass -- who are subject to regulatory minimum salary thresholds             As an incentive for complete and honest submissions, participants who finished the
+($3,150 and $5,600, respectively) and therefore not directly comparable. Criterion 4      survey were entered into a randomised lucky draw for one of six $200 cash prizes.
+excluded respondents without immediate access to their IPA, ensuring that all salary-     Phone number verifications were collected at the last stage of the survey to validate
+related answers could be verified against the official document rather than recalled      unique identities and prevent multiple responses from the same individual.
+from memory.
+                                                                                          The survey's distribution channels meant that responses were concentrated among
+The price of working ­ Salary and recruitment fee survey, August 2026.                    Bengali, Tamil, and Burmese speakers, corresponding broadly to Bangladeshi, Indian,
+                                                                                          and Myanmar nationals. As a result, the survey has limited ability to collect salary or
+                                                                                          recruitment fee data of Work Permit holders from other language groups or
+                                                                                          nationalities, such as Hindi-speaking Work Permit holders from India or Work Permit
+                                                                                          holders from China or Thailand.
+
+                                                                                          5.3 Limitations of using IPA for salary verification
+
+                                                                                          The IPA letter served as the primary benchmark for capturing contractual salary data
+                                                                                          for Work Permit holders in this survey. Alternative documentation, such as formal
+
+                                                                                                                                                                                                    Page 6 of 30
+employment contracts or Key Employment Terms (KETs), was not used for four critical     flagged with light grey text, and the findings focus primarily on
+operational reasons:                                                                    the robust baselines provided by the construction, service, marine shipyard, process,
+                                                                                        and manufacturing cohorts.
+ Universality: An IPA is generated by the Ministry of Manpower for every successful
+     Work Permit application, which means the vast majority of Work Permit holders      5.5 The Mathematical cleansing funnel
+     retain access to an IPA copy.
+                                                                                        The data processing pipeline was executed in three distinct phases:
+ Absence of written contract: A significant portion of the Work Permit holder
+     population is never provided with a written employment contract by their           Pre-processing (elimination of duplicates): A total of 2,039 raw survey submissions
+     employers.                                                                         were logged. Prior to analysing any survey responses, an immediate database clean-
+                                                                                        up was performed to eliminate 316 duplicate entries (resulting from repeated phone
+ Regulatory non-compliance: Despite statutory mandates requiring employers to           numbers indicating identical user submissions). This left a baseline pool of 1,723
+     issue detailed KETs to workers, compliance remains low.                            unique individual submissions.
+
+ Standardisation: The IPA uses a highly standardised, uniform template across all       Demographic filtering (Stage 1): The form uses four strict gateway constraints to
+     sectors, enabling consistent tracking of salary data.                              filter out ineligible respondents among the 1,723 unique users. Respondents were
+                                                                                        automatically eliminated if they were not currently employed in Singapore, worked as
+Despite these advantages, relying solely on the IPA introduces an analytical            foreign domestic workers, held a work pass other than a Work Permit, or lacked
+limitation. The document serves as a static snapshot taken prior to the official        access to their IPA letter. This phase disqualified 295 individuals, leaving a core
+commencement of employment. Consequently, it fails to dynamically capture               sample of 1,428 eligible respondents.
+subsequent contractual salary adjustments. This limitation is particularly
+pronounced during Work Permit renewals: if an employer renews a Work Permit with a      Mathematical validation (Stage 2): For the salary-specific analysis, the core sample
+salary increment, a new IPA is often not generated to reflect it, which may cause this  of 1,428 eligible respondents underwent an internal consistency check, described
+methodology to underreport the current salaries of long-serving employees.              below, to ensure reliable, legally verifiable data, resulting in the exclusion of 929, or
+                                                                                        65%, of the Stage 1 cohort.
+5.4 Statistical thresholds and low sample sizes
+                                                                                        (a)  Self-reported salary data was deemed valid only if its individual components
+To preserve the statistical integrity and reliability of the sector-based analyses, a
+minimum threshold of ten (n10) valid responses was established. For instance,                perfectly satisfied the formula stated in the IPA:
+while data collected from micro-sectors--Landscaping (n=0) and Agritechnology
+(n=2)--are retained for completeness, they are excluded from industry-specific               Monthly Salary = Basic monthly salary + Fixed allowances - All monthly
+comparative analysis and data-correlation models. Because micro-samples are                  deductions
+highly susceptible to individual variance and statistical distortion, they cannot be
+considered representative of broader industrial trends. Throughout this report, any                                                                          Page 7 of 30
+data point or sub-category that falls below this analytical threshold is explicitly
+
+The price of working ­ Salary and recruitment fee survey, August 2026.
+(b)  To salvage incomplete or non-standard responses without compromising
+
+     data integrity, the following manual standardisations were applied:              Table 5.3 Data cleansing
+
+     (b.1) Many respondents answered free-text salary questions in words              Stage               Process / Filter Applied           Count   Sample
+               rather than digits (e.g., writing "zero" or the Burmese "" for "No").                                                         2,039      Yield
+                                                                                      Total submissions Total raw survey engagements          -316
+               These entries were manually audited and converted into standard                                  logged                       1,723   100.0%
+               numerical values as far as reasonably possible.                                                                                        84.5%
+                                                                                      Pre-processing      Immediate removal of duplicate        -11
+                                                                                                          records/phone numbers               -198    70.0%
+                                                                                                                                                      24.5%
+     (b.2) Several respondents provided their basic monthly salary as a daily         Unique baseline Unique individual submissions             -33
+               rate while reporting their monthly rate as an monthly salary. Where                                                              -53
+               these entries were mathematically consistent, the daily rate was                           Disqualified: Not currently        1,428
+               converted to its monthly equivalent using the Employment Act                               working in Singapore                -929
+               formula [(12 x gross rate of pay) ÷ (52 x number of days the employee                                                           499
+               is required to work in a week)]. For example, a $21 daily rate was                         Disqualified: Employed as foreign
+               adjusted to a $546 basic monthly salary to align with a reported $546                      domestic worker
+               monthly salary (with zero fixed allowances or deductions).
+                                                                                                          Disqualified: Non-Work Permit
+The results from our data cleansing can be seen in the adjacent table.                                    holder status
+
+                                                                                      Stage 1 cohort      Disqualified: Lacks physical or
+                                                                                      Stage 2 validation  digital copy of IPA
+                                                                                      Final core cohort
+                                                                                                          Total dataset for sector & agent
+                                                                                                          fee analysis
+
+                                                                                                          Disqualified: Failed mathematical
+                                                                                                          IPA verification formula
+
+                                                                                                          Verified dataset for detailed
+                                                                                                          salary analysis
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                               Page 8 of 30
+VI. Profiles: Nationality and industry                                                                    ALL
+sectors                                                                                                   NATIONALITIES
+                                                                                       Table 6.2a
+                                                                                                          Count Percent
+                                                                                       Construction
+                                                                                       Service                 1008   71%
+                                                                                       Marine Shipyard
+                                                                                       Process                 120       8%
+                                                                                       Manufacturing
+6.1 Nationalities and sampling effects                                                 Landscaping             126       9%
+                                                                                       Agritechnology
+Questions 5 and 6 captured data on the respondents' nationalities and their            None of the above       83        6%
+respective employment sectors (see Annex A). The sample showed the respondents         TOTAL
+were from three primary nationalities: Bangladesh (928), India (209), and Myanmar                              68        5%
+(290). One respondent identified as "None of the Above" (neither of the three primary
+countries nor China).                                                                                          6         0%
+
+                                                                                                               2         0%
+
+                                                                                                               15        1%
+
+                                                                                                               1428   100%
+
+Table 6.1          Count    Percent                                                    Table 6.2b         BANGLADESH
+                      928       65%
+Bangladesh            209       15%                                                    Construction       Count Percent
+India                 290       20%                                                    Service
+Myanmar                  1       0%                                                    Marine Shipyard         751    81%
+None of the above                                                                      Process
+TOTAL               1428      100%                                                     Manufacturing           12        1%
+                                                                                       Landscaping
+                                                                                       Agritechnology          96     10%
+                                                                                       None of the above
+                                                                                       TOTAL                   56        6%
+
+6.2 Industry sectors                                                                                           7         1%
+
+Out of the 1,428 total respondents, their industry sectors can be seen in the four                             5         1%
+following tables, where the first tables has all nationalities together.
+                                                                                                               1         0%
+
+                                                                                                               0         0%
+
+                                                                                                               928    100%
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                       Page 9 of 30
+Table 6.2c         INDIA         Percent                                6.3 Observations re sectors
+                                     73%
+Construction            Count         2%                                The top three sectors among Bangladeshi and Indian Work Permit holders were
+Service                    152       11%                                construction (81%, 73%), marine shipyard (10%, 11%) and process (6%, 10%), while
+Marine Shipyard               4      10%                                the top three sectors among Myanmar Work Permit holders were construction (36%),
+Process                     23        3%                                services (36%), and manufacturing (19%). This difference in types of jobs by
+Manufacturing               21        0%                                nationality will have to be taken into account when interpreting our detailed findings.
+Landscaping                   6       0%
+Agritechnology                1       1%                                VII. Detailed findings: Salary landscape
+None of the above             0
+TOTAL                         2    100%
+                           209
+
+Table 6.2d         MYANMAR                                              Questions 11 to 15 asked respondents to provide free-text entries specifying the exact
+                                                                        amounts of their monthly salary, basic monthly salary, fixed monthly allowance,
+Construction            Count                                           deductions for monthly housing, and other, as per their current IPA (see Annex A).
+Service                    104
+Marine Shipyard            104   Percent                                7.1 Baseline earnings and concentration ranges
+Process                       7      36%
+Manufacturing                 6      36%                                Of 499 valid responses, the average monthly salary, basic monthly salary, and the
+Landscaping                 55        2%                                lowest and highest amounts for each category were as follows:
+Agritechnology                0       2%
+None of the above             1      19%                                Table 7.1a      Average  Lowest  Highest
+TOTAL                       13        0%                                                   $967    $390   $3,850
+                           290        0%                                Monthly salary
+                                      4%                                Basic monthly      $880    $300   $3,000
+                                                                        salary
+                                   100%
+
+                                                                        The data show an overall upward shift from basic monthly salary to monthly salary.
+                                                                        On average, actual monthly salaries are $87 (roughly 10%) higher than basic monthly
+                                                                        salaries, indicating that fixed allowances offset any salary deductions. This trend
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                            Page 10 of 30
+holds true at the lowest tier, where the lowest monthly salary ($390) is $90 above the  The data show a concentration of respondents in the lower-
+lowest basic monthly salary ($300).                                                     income brackets. The largest single cohort (32%) earns between $301 and $600, while
+                                                                                        nearly two-thirds (62%) earn a monthly salary (monthly salary) between $301 and
+Of 499 valid responses, the range of monthly salary was as follows:                     $900. When extended to $1,200, this cumulative group accounts for three-quarters
+                                                                                        (75%) of the entire sample, confirming that sub-$1,200 monthly earnings are the
+Table 7.1b      Count    Percent                                                        baseline norm for most respondents. Beyond the $900 mark, participation drops off
+Monthly salary        0       0%                                                        steeply, leaving higher brackets sparsely populated. Only 4% of respondents earn
+$0 to $300                                                                              more than $2,100 per month, with a single respondent in the $3,601­$3,800 range
+$301 to $600       162       32%                                                        acting as a statistical outlier.
+
+$601 to $900       151       30%                                                        7.2 The effect of allowances and disparities by sector and
+                                                                                        nationality
+$901 to $1200       65       13%
+$1201 to $1500      38        8%                                                        Of 499 valid responses, the average salaries by nationality were as follows:
+$1501 to $1800      28        6%
+$1801 to $2100      37        7%                                                        Table 7.2a         Count    Average   Average
+$2101 to $2400      10        2%                                                                              339   monthly      basic
+$2401 to $2700                1%                                                        By nationality         67               salary
+$2701 to $3000        4       1%                                                        Bangladesh             92     salary     $804
+$3001 to $3300        3       0%                                                        India                    1      $837     $918
+$3301 to $3600        0       0%                                                        Myanmar               499       $953
+$3601 to $3800        0       0%                                                        None of the above            $1,455    $1,132
+TOTAL                 1                                                                 TOTAL
+                   499     100%
+
+                 The mean lies in this band;                                            The data reveal a stark disparity in earnings when broken down by nationality.
+                 it is estimated to be                                                  Myanmar respondents earn significantly more than their peers, with an average
+                $750.                                                                   monthly salary ($1,455) that outpaces Indian workers by 53% and Bangladeshi
+                                                                                        workers by 74%.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                  Page 11 of 30
+Furthermore, the composition of these salaries varies widely. While Indian and         Table 7.3b         Count    Average   Average
+Bangladeshi workers experience minimal upward shifts between their basic monthly                             395   monthly      basic
+salary and monthly salary--just $35 (3.8%) and $33 (4.1%), respectively--Myanmar       By sector              42               salary
+Work Permit holders experience a substantial $323 (28.5%) surge in monthly salary.     Construction           16     salary     $835
+                                                                                       Service                19       $868
+TWC2's interactions with Myanmar Work Permit holders provide a strong hypothesis       Marine Shipyard        22    $1,633    $1,304
+for this anomaly. Unlike Bangladeshi and Indian Work Permit holders, who are heavily   Process                  0      $567     $577
+concentrated in the construction and marine sectors, where employers typically         Manufacturing            2      $771     $745
+provide direct housing, a significant portion of Myanmar Work Permit holders work in   Landscaping              3   $1,283
+the services or manufacturing sectors. In these sectors, it is common practice for     Agritechnology        499              $1,283
+employers to provide a substantial fixed allowance for room rentals -- ranging from    None of the above               $710
+$400 to $500 per month. Because monthly salary calculations include these              TOTAL                        $1,383      $660
+allowances, this housing arrangement heavily inflates Myanmar Work Permit holders'                                              $617
+monthly salary data, masking the fact that a large portion of their monthly salary is
+immediately consumed by rent rather than available as disposable income.               Analysing the financial data strictly by industrial sector highlights severe salary
+                                                                                       disparities across industries for Work Permit holders, while also revealing distinct
+7.3 Average salary by sector                                                           structural salary models.
+
+Of the 499 valid responses, the breakdown of average monthly salary and basic           The baseline benchmark: construction sector
+monthly salary by sectors is shown in the next column:                                      The construction sector forms the absolute backbone of this study, accounting
+                                                                                            for an overwhelming 79% of the total valid responses (395 out of 499). Because of
+                                                                                            this massive representation, its average monthly salary ($868) and basic monthly
+                                                                                            salary ($835) effectively set the baseline for the entire survey pool. The narrow
+                                                                                            $33 variance between basic monthly salary and monthly salary indicates a
+                                                                                            widespread industry practice of paying flat basic rates with very few fixed monthly
+                                                                                            allowances.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                 Page 12 of 30
+ The high-yield sectors: services and manufacturing                                         Here are the data for workers with supervisor and/or driver occupations, though a
+     The Services and Manufacturing sectors emerge as the highest-paying fields,            large majority (343 respondents) were in neither of these occupations or they were
+     though they achieve these numbers through completely different payroll                 unsure:
+     structures:
+                                                                                            Table 7.4c
+          o Services (42 respondents): Commands the highest overall take-home
+                pay ($1,633 monthly salary). It features a prominent $329 gap over basic    By occupation          Count   Average            Average
+                monthly salary ($1,304), further cementing our earlier hypothesis noted                                    monthly               basic
+                earlier that Myanmar Work Permit holders' higher monthly salary reflects    Supervisory position       96                       salary
+                housing allowances.                                                                                          salary
+                                                                                            Driver                     60                      $1,157
+          o Manufacturing (22 respondents): Respondents' average monthly salary             Both driver and            11   $1,193
+                and basic monthly salary are completely identical ($1,283). This reveals a  Supervisor                                         $1,050
+                strict flat-rate salary model in which workers receive no allowances and                                    $1,188             $1,172
+                incur no deductions.                                                                                        $1,217
+
+ The lower tier and the deduction anomaly: marine and process sectors                       None of the above / I  343                  $866  $777
+     The Process ($771 monthly salary) and Marine Shipyard ($567 monthly salary)            am not sure
+     sectors lag significantly behind the rest of the workforce. Most notably, Marine
+     Shipyard workers (16 respondents) present a striking structural anomaly: their         TOTAL                  499
+     average monthly salary is $10 lower than their average basic monthly salary
+     ($577). This confirms that for this lowest-earning segment of the surveyed             11 respondents reported being both supervisors and drivers,
+     population, monthly deductions diminished their basic monthly salary.                  overlapping with the 96 supervisors and 60
+                                                                                            drivers.
+7.4 Skill-based premiums: supervisors, drivers and food
+processing workers                                                                          The data clearly show that specialised roles command a significant salary premium
+                                                                                            among Work Permit holders. On average, respondents working in supervisory
+Two subgroups of respondents showed higher earning power. The first consisted of            positions ($1,193) or as drivers ($1,188) earn roughly 37% more in monthly salary than
+supervisors and drivers. The other subgroup were food processing workers, discussed         other workers who hold neither position ($866). This premium peaks for the small
+on the next page.                                                                           minority (11 individuals) who manage dual responsibilities as both drivers and
+                                                                                            supervisors, netting the highest average monthly salary of $1,217.
+The price of working ­ Salary and recruitment fee survey, August 2026.
+                                                                                            However, a closer look at the salary composition reveals a distinct difference in salary
+                                                                                            structure between these roles. Drivers see a substantial $138 (13.1%) increase from
+                                                                                            their basic to their monthly salary, highlighting a heavy reliance on fixed allowance.
+
+                                                                                                                                                         Page 13 of 30
+Conversely, supervisors see a negligible $36 (3.1%) increase, indicating that           A deeper analysis reveals that this premium is heavily
+supervisory roles are typically paid at higher basic monthly salary with fewer          dependent on the variable gap between basic monthly salary and monthly salary.
+allowances.                                                                             Food processing workers experience a substantial $519 (41.2%) surge from their
+                                                                                        basic monthly salary ($1,261) to their monthly salary. This massive difference is highly
+Of the 499 valid responses, 96 individuals worked in a supervisory position, 60 worked  likely driven by fixed monthly allowances for room rental and others, which are
+as drivers, and 11 worked as both. The remaining 343 respondents worked in neither,     common structural benefits provided in this sector. It significantly inflates their take-
+nor were they unsure.                                                                   home pay on paper, contrasting sharply with non-food processing workers who
+                                                                                        experience a negligible $52 (6.1%) increase over their basic monthly salary though, as
+The second subset that showed higher salaries were food processing workers. Of 499      mentioned before, their disposable income (once rent has been paid) is not that
+valid responses, 33 individuals worked as such, an occupation available only in the     much improved.
+services and manufacturing sectors. Their average salaries were as follows:
+
+Table 7.4d           Count    Average                                   Average
+                         33   monthly                                      basic
+Whether food                                                              salary
+processing worker       463     salary
+Food processing                $1,780                                    $1,261
+worker                     3
+Not food processing     499       $905                                     $853
+worker
+I am not sure
+TOTAL
+
+The data show significantly higher salaries for food processing workers than the
+overall average. Representing a small subset of the sample (33 respondents), these
+workers command an average monthly salary of $1,780, which is nearly double
+(+97%) the $905 average earned by the rest of the surveyed workforce.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                  Page 14 of 30
+VIII. Detailed findings: Seniority and
+earnings progression
+
+In this section, we discuss the observations we made when we looked at salaries of
+respondents plotted against how long they have worked.
+
+8.1 Salaries by number of years worked
+
+Table 8.1                          ALL NATIONALITIES
+
+Years worked                       Count      Average                   Average
+Less than 2 years                      82     monthly                      basic
+More than 2 years, up to 4 years      139                                 salary
+More than 4 years, up to 6 years       46       salary                     $815
+More than 6 years, up to 8 years       46      $1,101                      $778
+More than 8 years, up to 10 years      36                                  $783
+More than 10 years                    150         $840                     $806
+TOTAL                                 499         $790                     $951
+                                                  $894
+                                                  $987                   $1,046
+                                               $1,083
+
+The adjacent line graph represents the data.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.              The data reveal a highly unconventional, U-shaped relationship between years
+                                                                                    worked in Singapore and average salary, defying the standard expectation that wages
+                                                                                    steadily increase with seniority.
+
+                                                                                    Newcomers with less than 2 years of experience earn a remarkably high average
+                                                                                    monthly salary of $1,101. They also show the largest variance between basic monthly
+
+                                                                                                                                                                                              Page 15 of 30
+salary and monthly salary ($286 or 35%), indicating heavy supplementation from fixed     8.2 Number of years worked, by nationality
+allowances. Following this initial peak, wages experience a noticeable mid-career
+decline, dropping 24% to an average of $840 for the 2­4 year cohort, and bottoming       Table 8.2                           Total   Count:   Count:      Count:
+out at $790 for those with 4­6 years of experience. Salary progression only resumes                                          count   Bangla     India  Myanmar
+after the 6-year mark, culminating in veterans with over 10 years of experience          Years worked                                               5
+commanding the highest basic wage ($1,046) and a stable monthly salary of $1,083.        Less than 2 years                       82    desh        16          41
+                                                                                         More than 2 years, up to 4 years      139        36        5          37
+This unusual wage distribution is highly likely a reflection of changes in demographic   More than 4 years, up to 6 years                 86       11
+cohorts and sector composition within the sample, rather than a lack of career           More than 6 years, up to 8 years        46       34                     7
+progression. The high average salary of the newest cohort (<2 years) aligns closely      More than 8 years, up to 10 years       46       34        5            1
+with our earlier findings on Myanmar and food processing Work Permit holders, who        More than 10 years
+receive substantial fixed allowances that inflate their monthly salary. Conversely, the  TOTAL                                   36       28       25            2
+mid-career cohorts (2 to 6 years) are likely dominated by Bangladeshi and Indian                                                                   67
+workers in the construction and marine sectors, who face lower baseline basic                                                  150      121                      4
+monthly salary and fewer cash allowances, thereby driving down the average for those                                           499      339                    92
+intermediate brackets.
+                                                                                                Includes one respondent who
+We see more clearly the effect of demographic mix when we look at the same data by       chose "none of the above" as their
+nationality. The "newcomer premium" turns out to be a mirage, as explained in            nationality
+section 8.3.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                                 Page 16 of 30
+8.3 Salaries by number of years worked, by nationality                            Where the sample size is less than ten, the data are shown in
+                                                                                  lighter grey text.
+
+Table 8.3a                         BANGLADESH                                     Table 8.3c                         MYANMAR
+
+Years worked                       Count     Average                    Average   Years worked                       Count    Average            Average
+Less than 2 years                      36    monthly                       basic  Less than 2 years                      41   monthly               basic
+More than 2 years, up to 4 years       86                                 salary  More than 2 years, up to 4 years       37                        salary
+More than 4 years, up to 6 years       34      salary                      $522   More than 4 years, up to 6 years         7    salary
+More than 6 years, up to 8 years       34        $526                      $620   More than 6 years, up to 8 years         1   $1,662             $1,097
+More than 8 years, up to 10 years      28        $644                      $762   More than 8 years, up to 10 years        2   $1,255             $1,123
+More than 10 years                    121        $772                      $838   More than 10 years                       4
+TOTAL                                 339        $901                      $904   TOTAL                                  92       $863              $863
+                                                 $935                      $997                                                $2,000             $1,200
+                                              $1,044                                                                           $1,875             $1,625
+                                                                                                                               $1,836             $1,786
+
+Table 8.3b                         INDIA     Average                    Average   This demographic breakdown provides empirical validation of our earlier hypothesis:
+                                             monthly                       basic  Myanmar Work Permit holders' higher monthly salaries reflect housing allowances.
+Years worked                        Count                                 salary  Regarding the U-shaped salary curve, this confirms that wage fluctuations result from
+Less than 2 years                         5    salary                      $610   changes in nationality cohorts over time rather than from a lack of individual career
+More than 2 years, up to 4 years                 $610                      $828   progression.
+More than 4 years, up to 6 years        16       $930                      $814
+More than 6 years, up to 8 years          5      $814                      $682   The exceptionally high average salary among recent arrivals (less than 2 years) is
+More than 8 years, up to 10 years                $773                      $918   directly attributable to the heavy concentration of Myanmar respondents, who
+More than 10 years                      11       $918                             comprise a staggering 50% of this newcomer cohort (41 out of 82). As previously
+TOTAL                                     5   $1,150                     $1,162   observed, these workers are predominantly employed in the services and
+                                                                                  manufacturing sectors, where high cash allowances for housing and food heavily
+                                        25                                        inflate monthly salary.
+                                        67
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                           Page 17 of 30
+Conversely, the sharp salary dip observed between 2 and 6 years of experience       Finally, the wage recovery seen at the senior end of the spectrum is driven by a
+coincides precisely with a dramatic demographic shift. In these intermediate        distinct veteran workforce. The "More than 10 years" bracket is overwhelmingly
+brackets, Myanmar representation drops, while Bangladeshi and Indian                composed of Bangladeshi (81% of respondents in this cohort) and Indian (17%)
+respondents--who are traditionally funnelled into the lower-allowance construction  workers, while Myanmar representation vanishes (3%). This shows that the higher
+and marine sectors--come to dominate 73% and 85% of their respective cohorts.       basic monthly salary at the 10+ year mark reflects long-term retention increments
+                                                                                    earned by Bangladeshi and Indian workers who have worked in Singapore for a
+The dots and lines are fainter if the sample size is less than ten.                 decade.
+The price of working ­ Salary and recruitment fee survey, August 2026.
+                                                                                    8.4 Average salaries by sector, by nationality
+
+                                                                                    Table 8.4a         BANGLADESH
+
+                                                                                    Sector             Count    Average   Average
+                                                                                    Construction          299   monthly      basic
+                                                                                    Service                  7              salary
+                                                                                    Marine Shipyard        15     salary     $820
+                                                                                    Process                14       $853     $760
+                                                                                    Manufacturing            3      $760     $585
+                                                                                    Landscaping              0      $574     $661
+                                                                                    Agritechnology           1      $696
+                                                                                    None of the above        0   $1,517    $1,200
+                                                                                    TOTAL                 339
+                                                                                                                    $520     $520
+
+                                                                                    Because Bangladeshi Work Permit holders are concentrated in the construction,
+                                                                                    marine and process sectors, which the Ministry of Manpower refers to collectively as
+                                                                                    "CMP", the sample sizes for the other sectors are small.
+
+                                                                                                                                                                                              Page 18 of 30
+Table 8.4b         INDIA     Average                                    Average   Breaking down the salary data by nationality, years of experience, and industrial
+                             monthly                                       basic  sector simultaneously reveals the precise economic forces driving the overall
+Sector              Count                                                 salary  averages and highlights vastly different career trajectories across groups.
+Construction             59    salary                                      $911
+Service                   1      $934                                              Bangladeshis: Steady, linear progression
+Marine Shipyard           1   $1,500                                     $1,500        For Bangladeshi respondents, salary progression operates exactly as traditionally
+Process                   4      $450                                      $450        expected: wages scale upward linearly with experience. Newcomers (<2 years)
+Manufacturing             1   $1,050                                                   command the lowest salaries ($526 monthly salary / $522 basic monthly salary),
+Landscaping               0   $2,050                                     $1,050        while long-term veterans (>10 years) achieve the highest averages ($1,044
+Agritechnology            0                                              $1,050        monthly salary / $997 basic monthly salary). This predictable trajectory is a direct
+None of the above         1      $550                                                  reflection of the cohort's heavy concentration in the Construction sector, which
+TOTAL                    67                                                $550        accounts for 88% (299 out of 339) of all Bangladeshi respondents. In this sector,
+                                                                                       career longevity is steadily rewarded with minor retention increments, and
+Table 8.4c         MYANMAR                                                             variable allowance gaps remain consistently narrow (typically between $30 to
+                                                                                       $60) regardless of seniority.
+Sector             Count     Average                                    Average
+Construction           36    monthly                                       basic   Indians: Minor fluctuations and small-sample outliers
+Service                34                                                 salary       Indian respondents display a highly irregular wage path, experiencing a temporary
+Marine Shipyard          0     salary                                      $829        dip between 4 and 8 years of experience before rebounding to a peak average
+Process                  1       $885                                                  monthly salary of $1,150 at the 10+ year mark. With a much smaller overall
+Manufacturing          18     $1,817                                     $1,410        sample pool (N=67), these averages are highly volatile and easily skewed by
+Landscaping              0                                                             individual outliers.
+Agritechnology           1       $700                                      $700
+None of the above        2    $1,946                                     $1,310    Myanmar: Sector-driven effects and small-sample fragility
+TOTAL                  92                                                              The Myanmar cohort shows a completely inverted wage pattern, starting at an
+                                 $900                                      $800        exceptional premium. Newcomer Myanmar workers (<2 years) average a
+                              $1,800                                       $650        staggering $1,662 monthly salary, which drops to $1,255 for the 2­4-year cohort,
+                                                                                       and then sharply to $863 for the 4­6-year cohort.
+The price of working ­ Salary and recruitment fee survey, August 2026.
+                                                                                                                                                                                            Page 19 of 30
+The secondary breakdown by sector unravels this phenomenon but also flags data          8.5 Average salaries by sector, by number of
+limitations. Unlike Bangladeshi and Indian Work Permit holders, Myanmar Work            years worked
+Permit holders are highly concentrated in the Services (34 workers) and
+Manufacturing (18 workers) sectors. These two sectors yield the highest monthly         Table 8.5a                         CONSTRUCTION
+salary ($1,817 and $1,946, respectively) and feature wide gaps between basic
+monthly salary and monthly salary, amounting to an extra $407 in services and $636      Years worked                       Count   Percent  Average   Average
+in manufacturing. This confirms our hypothesis, as noted earlier, Myanmar workers'      Less than 2 years                      38      10%  monthly      basic
+higher monthly salary reflects housing allowances.                                      More than 2 to 4 years                108      27%              salary
+                                                                                        More than 4 years, up to 6 years       36       9%    salary     $644
+However, caution must be exercised when analysing their experience brackets past        More than 6 years, up to 8 years       43      11%      $690     $660
+the 4-year mark. The data shows sudden salary spikes for Myanmar workers with 6­8       More than 8 years, up to 10 years      35       9%      $681     $775
+years ($2,000 monthly salary) and 8­10 years ($1,875 monthly salary) of experience. A   More than 10 years                    135      34%      $784     $795
+glance at the sample sizes reveals these brackets represent only 1 and 2 respondents,   TOTAL                                 395               $868     $906
+respectively. These numbers are far too low to indicate a genuine macro-trend and                                                    100%       $929
+should be treated as individual anomalies rather than representative data for                                                                $1,075    $1,038
+Myanmar veterans.
+                                                                                        The data for the construction sector demonstrate linear progression over time. This
+Overall, to find valid ground for comparison across all three nationalities, one must   sector represents the only statistically robust, large-scale sample in the dataset
+look strictly at the construction sector, where sample sizes are mutually viable (299   (N=395). It behaves traditionally, showing a steady, linear wage increase tied to
+Bangladeshis, 59 Indians, 36 Myanmar). See table 8.5a.                                  seniority -- climbing from $690 monthly salary for newcomers to $1,075 monthly
+                                                                                        salary for veterans (>10 years). This sector is dominated by Bangladeshi and Indian
+When isolating this single sector, basic monthly salaries align remarkably closely      workers, featuring highly standardised contracts and minimal fluctuation due to
+across the board: Bangladeshi Work Permit holders earn $820, Myanmar Work Permit        salary allowances.
+holders earn $829, and Indian Work Permit holders earn $911. This proves that the
+apparent macro-level nationality wage gap is fundamentally a sector-allocation gap,     The graph on the next page represents the above data.
+rather than an underlying disparity in how different nationalities are compensated for
+identical labour.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                                Page 20 of 30
+                                                                                        Table 8.5b                         SERVICES
+
+                                                                                        Years worked                       Count    Percent  Average   Average
+                                                                                        Less than 2 years                      17       40%  monthly      basic
+                                                                                        More than 2 years, up to 4 years       11       26%              salary
+                                                                                        More than 4 years, up to 6 years         5      12%    salary
+                                                                                        More than 6 years, up to 8 years         2       5%   $1,648    $1,023
+                                                                                        More than 8 years, up to 10 years        1       2%   $1,930    $1,775
+                                                                                        More than 10 years                       6      14%
+                                                                                        TOTAL                                  42                $850     $850
+                                                                                                                                      100%    $1,500    $1,100
+                                                                                                                                              $3,000    $2,500
+                                                                                                                                              $1,515    $1,482
+
+                                                                                        All the other sectors had relatively small sample sizes. The marine shipyard sector
+                                                                                        had only 16 respondents.
+
+The anomaly in which newer workers (<2 years) initially appear to out-earn mid-career   Table 8.5c                         MARINE SHIPYARD
+workers is entirely driven by the relatively recent influx of Myanmar respondents into
+the services and manufacturing sectors. Their high monthly salary ($1,648 and           Years worked                       Count    Percent  Average   Average
+$1,957) show a large gap of approximately $625 over their basic monthly salary,         Less than 2 years                        3      19%  monthly      basic
+supporting the hypothesis, as noted earlier, that Myanmar workers' higher monthly       More than 2 years, up to 4 years         8      50%              salary
+salary reflects housing allowances.                                                     More than 4 years, up to 6 years         0             salary     $446
+                                                                                        More than 6 years, up to 8 years         0      31%      $421     $535
+Their datapoints skewed the overall picture for the newer cohorts in terms of salary.   More than 8 years, up to 10 years        0    100%       $535
+                                                                                        More than 10 years                       5                        $723
+                                                                                        TOTAL                                                    $705
+                                                                                                                               16
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                                 Page 21 of 30
+With the caveat of small sample, we nonetheless can glimpse that salaries in the            Table 8.5e                         MANUFACTURING
+marine shipyard sector are generally lower than for construction workers, for each
+corresponding level of seniority. There also appears to be a degree of stagnation.          Years worked                       Count    Percent  Average   Average
+Unlike construction, where a decade of experience grants a 55% monthly wage                 Less than 2 years                      14       64%  monthly      basic
+increase, Marine veterans after 10+ years only average $705 monthly salary -- barely        More than 2 years, up to 4 years         7      32%              salary
+higher than the baseline starting salary of a general construction worker. Seniority        More than 4 years, up to 6 years         1       5%    salary
+contributes very little to actual earnings growth in this industry.                         More than 6 years, up to 8 years         0            $1,957    $1,329
+                                                                                            More than 8 years, up to 10 years        0    100%    $1,926    $1,269
+                                                                                            More than 10 years                       0
+                                                                                            TOTAL                                  22                $750     $750
+
+Table 8.5d                         PROCESS
+
+Years worked                       Count    Percent                     Average   Average   To conclude this section, we stress once more that the apparent fall in salaries for
+Less than 2 years                        7      37%                     monthly      basic  workers between 2 and 6 years of experience, as can be seen in table 8.1 and its
+More than 2 years, up to 4 years         4      21%                                 salary  accompanying graph, is a statistical mirage. It results from a changing sectorial mix as
+More than 4 years, up to 6 years         3      16%                       salary     $458   we go up the number of years worked. The services and manufacturing sectors, which
+More than 6 years, up to 8 years         1       5%                         $464     $832   have more new workers, coupled with their higher monthly salaries raised the
+More than 8 years, up to 10 years        0                                  $832     $856   apparent salaries of all new workers. On the other hand, Bangladeshi and Indian
+More than 10 years                       4      21%                         $856     $800   construction workers dominate the mid-career brackets, driving the averages down
+TOTAL                                         100%                          $800            (because the construction sector does not have fat allowances added to their salary
+                                       19                                          $1,063   structures).
+                                                                         $1,175
+                                                                                            A more detailed analysis of the single sector where we have robust data
+Likewise, the data for Work Permit holders in the process sector should be treated          (construction) indicates that within this industry at least, there is a steady linear
+with care due to small sample sizes, but here too, the data suggest a steady and            progression of earnings over time.
+substantial progression in earning power by number of years worked.
+                                                                                            Whilst we do not have equally good data for the other sectors, there is reason to
+                                                                                            believe that salaries also increase over time in them, even if the gradient may be
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                                     Page 22 of 30
+different. For example, we have reason to believe that the gradient in the marine            Table 9.1a   Bangladesh            Myanmar     None of the
+shipyard sector is much lower than in the construction or process sectors.                                            India                 above
+                                                                                             Paid
+IX. Detailed findings: Recruitment fees                                                      Did not pay  Count  %    Count  %  Count    %  Count  %
+and debt ratios                                                                              Not sure
+                                                                                             TOTAL        542 58%     120 57%   213 73%     0
+Question 16 asked respondents whether they paid an agent to obtain the current job.
+This included fees paid to the agent in their home country and in Singapore. As                           376 41%     87 42%    76 26%      1 100%
+migrant workers are often unable to distinguish licensed agents from unlicensed
+(illegal) agents or Singapore agents from overseas agents, the question focused on                        10 1%       2 1%      1 0%        0
+the total amount paid, rather than to whom it was paid, as long as the payment
+pertained to the purpose of obtaining employment in Singapore.                                            928 100%    209 100%  290 100%    1 100%
+Out of 1428 respondents, 875 reported paying an agent fee, 540 reported not paying
+one, and 13 were unsure (see Annex A). The tables below provide breakdowns by                The data should be interpreted carefully. Although about 57% and 58% respectively of
+nationality and industry sector.                                                             Indian and Bangladeshi workers said they had to pay for their current jobs ­ a much
+                                                                                             lower percentage than for Myanmar workers, this is likely the effect of the fact that our
+2 TWC2, 5 Feb 2017, Average recruitment cost hit $15,000 in 2015 for first-time Bangladeshi  sample had far more Indian and Bangladeshi workers many more years into their
+construction workers. https://twc2.org.sg/2017/02/05/average-recruitment-cost-hit-15000-in-  careers. Myanmar Work Permit holders were concentrated in the newer cohorts.
+2015-for-first-time-bangladeshi-construction-workers/
+The price of working ­ Salary and recruitment fee survey, August 2026.                       Other research by TWC2 has found that new Bangladeshi and Indian construction,
+                                                                                             marine shipyard and process (CMP) workers ­ and they are mostly in CMP jobs ­ all
+                                                                                             have to pay for their jobs. They pay less for their subsequent jobs, and with experience
+                                                                                             under their belt, they eventually may get to the point where they do not have to pay at
+                                                                                             all. This pattern of needing to pay less for subsequent jobs has been revealed in
+                                                                                             previous TWC2 reports, such as Average recruitment cost hit $15,000 in 2015 for
+                                                                                             first-time Bangladeshi construction workers2 and Let this end with me3
+
+                                                                                             Our sample contains a mix of newer and older workers; thus lowering the percentage
+                                                                                             of Indian and Bangladeshi workers who report having to pay.
+
+                                                                                             3 TWC2, 29 May 2024, Let this end with me. https://twc2.org.sg/2024/05/29/let-this-end-with-
+                                                                                             me/
+
+                                                                                                                                            Page 23 of 30
+By contrast, the Myanmar sample has far more new workers, and this likely accounts      9.2 How much was paid
+for the finding that a higher percentage of them paid for their current jobs.
+                                                                                        Question 17 asked those who paid the agent fee how much they paid (see Annex A).
+The next two tables relate to industry sectors:                                         Of the 875 respondents who stated they paid the agent fee, 28 provided invalid
+                                                                                        responses for the purposes of the survey; these included amounts in foreign currency
+Table 9.1b   Construction  Service      Marine S'yard                      Process      (e.g., "9 lakh") or such high amounts, e.g. "1,500,000", that we couldn't confidently
+                                                                                        interpret. For amounts provided in foreign languages, they were manually converted
+Paid         Count  %      Count    %   Count                           %  Count    %   to English numerals and deemed valid responses. This resulted in 847 valid
+Did not pay                                                                             responses. Of the 847 answers, the average agent fee paid was $3,338. The averages
+Not sure                                                                                by nationality and by sector are as follows:
+TOTAL
+             571 57%       102 85%      75 60%                             56 67%
+
+             428 42%       18 15%       49 39%                             27 33%       Table 9.2a
+
+             9 1%          0            2 2%                               0            Nationality                Average
+                                                                                        Bangladesh                 fee paid
+             1008 100%     120 100%     126 100%                           83 100%      India              Count    $3,259
+                                                                                        Myanmar              523    $2,470
+Table 9.1c                                                                              None of the above    116    $4,023
+                                                                                        TOTAL                208
+Paid                       Landscaping                                     None of the                          0
+Did not pay  Manufact'g                 Agritech                           above                             847
+Not sure
+TOTAL        Count  %      Count    %   Count                           %  Count    %
+
+             50 74%        6 86%        2 100%                             14 93%       Once again, care must be taken over the above data. Bangladeshi and Indian
+                                                                                        respondents included many mid-career and long-career Work Permit holders. Their
+             16 24%        1 14%        0                                  1 7%         lower recruitment fees likely reduced the average for their nationalities.
+
+             2 3%          0            0                                  0            Myanmar respondents being generally newer workers thus gave an average that better
+                                                                                        reflected the amounts newer workers had to pay.
+             68 100%       7 100%       2 100%                             15 100%
+
+By the same token, the percentage who had to pay appears higher in the service and
+manufacturing sectors. These are the sectors where Myanmar workers are more
+strongly represented, and they have worked fewer years.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                       Page 24 of 30
+Table 9.2b         Count   Average                                                     Table 9.3        Average   Average   Cost-to-
+                     555   fee paid                                                                     fee paid  monthly   income
+Sector               101    $2,499                                                     Sector            $2,499
+Construction           67   $4,672                                                     Construction      $4,672     salary      ratio
+Service                53   $4,096                                                     Service           $4,096      $868       2.88
+Marine Shipyard        50   $6,665                                                     Marine Shipyard   $6,665    $1,633       2.86
+Process                 5   $5,015                                                     Process           $5,015      $567       7.22
+Manufacturing           2   $5,400                                                     Manufacturing                 $771       8.64
+Landscaping            14   $7,550                                                                                 $1,283       3.91
+Agritechnology       847    $3,468
+None of the above
+TOTAL                                                                                  The data show that there is no correlation among sectors between higher salaries and
+                                                                                       higher agent fees. Instead, the financial burden is heavily influenced by the specific
+Here again the larger numbers of mid-career and long- career construction workers in   industry.
+our sample likely reduced the average amounts paid for jobs in this sector.
+                                                                                       Among all primary industries, Work Permit holders in the process sector pay the
+The process sector, with 53 respondents, reported the highest recruitment fee paid.    highest agent fee ratio. A worker in this sector faces an average agent fee of $6,665
+Our smallish sample (only 19 respondents in table 8.5d) indicates a skewing towards    against an average monthly salary of $771, meaning it takes approximately 8.6
+newer workers in this sector, which may account for this finding.                      months of monthly salary (or 8.9 months of basic monthly salary) just to recover the
+                                                                                       upfront recruitment cost.
+9.3 Cost-to-income ratio
+                                                                                       This is followed closely by the marine shipyard sector, where Work Permit holders
+To analyse the relationship between recruitment costs and salaries, the data from      must dedicate 7.2 months of monthly salary to clear their agent fees due to a
+both survey sections have been combined. The "Cost-to-income ratio" represents the     combination of high fees ($4,096) and the lowest average monthly salary ($567)
+number of months of salary a Work Permit holder must work to recover their             across all surveyed sectors.
+recruitment cost, calculated by dividing the average agent fee by the average monthly
+salary. Sectors with small sample sizes (Landscaping, Agritechnology, and "None of     Conversely, the construction and service sectors show the lowest relative financial
+the above") are excluded from the primary analysis to ensure data reliability.         strain in terms of monthly salary recovery. Although the service sector commands a
+                                                                                       much higher absolute agent fee than Construction ($4,672 vs. $2,499), its
+                                                                                       significantly higher average monthly salary ($1,633 vs. $868) balances out the ratio.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                 Page 25 of 30
+As a result, Work Permit holders in these two sectors face a similar relative burden,     The ratio of valid to invalid responses was consistent across all three nationalities,
+requiring roughly 2.9 months of monthly salary to offset their agent fees.                indicating that approximately 2 in 3 respondents in each nationality group were
+                                                                                          unable to provide accurate answers on their salaries based on their IPAs.
+The Manufacturing sector sits in the middle, with a balanced salary-to-fee profile
+requiring just under 4 months of wages to cover recruitment costs.                        The breakdown by sector is shown in the next two tables.
+
+X. Detailed findings: Lack of salary                                                      Table 10.1b  Construction  Service   Marine S'yard  Process
+
+awareness                                                                                 Valid        Count  % Count         % Count   %     Count    %
+                                                                                          responses
+Although we had 1,428 valid responses for recruitment fee analysis, we only had 499       Invalid      395 39% 42 35% 16 13%                  19 23%
+valid responses for salary analysis. The high drop-out rate (65%) resulted from the fact  responses
+that many responses failed a mathematical verification of their replies, indicating       TOTAL         613 61%       78 65%   110 87%        64 77%
+internal inconsistency among the numbers they provided.                                                1008 100%     120 100%  126 100%       83 100%
+
+Table 10.1a  Bangladesh            Myanmar                              None of the       Table 10.1c                                         None of the
+                         India                                          above
+Valid                                                                                     Valid        Manufact'g Landscaping Agritech        above
+responses    Count  %    Count  % Count                                 % Count  %        responses
+Invalid                                                                                   Invalid      Count  % Count         % Count   % Count        %
+responses    339 37%     67 32% 92 32%                                  1 100%            responses
+TOTAL                                                                                     TOTAL        22 32%        0         2 100%         3 20%
+
+             589 63%     142 68%   198 68%                              0                              46 68%        6 100%    0              12 80%
+             928 100%    209 100%  290 100%                             1 100%                         68 100%       6 100%    2 100%         15 100%
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                                                                        Page 26 of 30
+When analysed by employment sector (disregarding industries with a sample size                 challenges. A clear majority of its workers (59.5%) paid
+under 10), the construction and service sectors demonstrated the highest rates of              high upfront agent fees, yet the industry simultaneously registered the survey's
+valid responses, at 39% and 35%, respectively. In contrast, other sectors suffered             highest data dropout rate (87%) due to a profound lack of salary awareness.
+from severe response failure. The invalid rate spiked to 68% in manufacturing, 77% in          Furthermore, the sector commanded the lowest average monthly salary at just
+the process sector, and reached a critical high of 87% within the marine shipyard              $567, paired with a stagnant long-term career trajectory where a decade of
+sector, where only 16 out of 126 total responses could be verified.                            experience translates to an average monthly salary of only $705. Consequently,
+                                                                                               marine shipyard workers emerge as one of the most vulnerable migrant cohorts in
+This localised failure rate strongly indicates that industry-specific salary factors --        Singapore -- highly susceptible to debt bondage and wage theft. While this
+complex fixed allowances and deductions in the IPA document -- disproportionately              severe financial strain raises critical questions about industry retention rates and
+impair a Work Permit holder's ability to decipher and accurately report their IPA salary       why workers choose to enter or remain in this sector, a full exploration of these
+components. Specifically, it is theorised that the critical dropout rate within the            underlying motivations is beyond the immediate scope of this report.
+marine shipyard sector is driven by the prevalence of complex deductions, which
+introduces an intricate mathematical formula that workers in deduction-free sectors        Myanmar workers:
+do not have to face. To address this, future research should qualitatively evaluate and        While shipyard workers face stagnation, a contrasting yet equally fragile reality is
+compare the physical layout and itemisation of IPAs to identify ways to improve clarity        observed among Myanmar nationals concentrated in the service and
+and comprehension.                                                                             manufacturing sectors. Although this group commands a higher monthly salary,
+                                                                                               driving an apparent macro-level "newcomer premium," their economic insulation
+XI. Conclusion                                                                                 is a mirage. They are burdened with the study's steepest upfront recruitment
+                                                                                               costs (averaging $4,023), and their higher take-home pay depends on fixed rent
+The findings of this report challenge the assumption that higher upfront migration             allowances rather than a robust basic monthly salary. This precarious financial
+costs serve as an investment toward proportionally higher wages. On a macro level,             structure leaves them disproportionately vulnerable to workplace exploitation
+the data reveal a rigid, low-wage market in which a monthly salary of under $900               and sudden job loss -- a catastrophic event for migrant workers, as finding a new
+represents the structural norm for Work Permit holders in Singapore.                           employer typically requires paying exorbitant agent fees all over again. However,
+                                                                                               unpacking the specific socioeconomic driving this trend requires a deeper,
+Two subgroups cry out for mention:                                                             dedicated sociological inquiry.
+
+ Marine shipyard sector:                                                                  Beyond these sectoral disparities, the study uncovers a broader, systemic issue
+     Nowhere is this structural vulnerability more acute than in the marine shipyard      regarding transparency. The widespread mathematical inconsistencies that led to the
+     sector, which represents the most troubling intersection of these market             discarding of 65% of all salary responses reveal a profound disconnect between
+                                                                                          workers' official documentation and their actual grasp of its meaning. This alarming
+The price of working ­ Salary and recruitment fee survey, August 2026.                    data dropout rate raises critical questions about why this confusion occurs and
+                                                                                          whether systemic improvement is viable.
+
+                                                                                                                                                                                                    Page 27 of 30
+Ultimately, these multiple gaps -- from industry retention anomalies and high debt-
+to-income strategies to widespread documentation illiteracy -- signal a clear and
+urgent need for an expansive, follow-up study specifically targeted at the structural
+barriers surrounding worker literacy and recruitment transparency.
+
+The price of working ­ Salary and recruitment fee survey, August 2026.                 Page 28 of 30
+ANNEX: Questions and answers                                                        Stage 2: Background Information
+
+Stage 1: Eligibility Check                                                          Question 5: What is your nationality?
+
+Question 1: Are you currently working in Singapore?                                 Bangladesh              928
+                                                                                    India                   209
+          Yes 1712 (allowed to proceed to the next question)
+          No 9 (eliminated)                                                         Myanmar                 290
+          I am not sure 2 (eliminated)
+          Total 1723                                                                Chinese                 0
+
+Question 2: Are you a foreign domestic worker?                                      None of the above       1
+
+          Yes 193 (eliminated)                                                      Question 6: Which sector do you work in?
+          No 1514 (allowed to proceed to the next question)
+          I am not sure 5 (eliminated)                                              Construction            1008
+          Total 1712                                                                Service                 120
+                                                                                    Marine Shipyard         126
+Question 3: Do you have a work permit?                                              Process                 83
+                                                                                    Manufacturing           68
+          Yes 1481 (allowed to proceed to the next question)                        Landscaping             6
+          No, I have other pass 31 (eliminated)                                     Agritechnology          2
+          None of the above 2 (eliminated)                                          None of the above       15
+          I am not sure 0 (eliminated)
+          Total 1514                                                                Question 7: How many years have you worked in Singapore?
+
+Question 4: Do you have a copy of your current In-Principle-Approval letter (IPA)?  Less than 2 years                         256
+                                                                                    More than 2 to 4 years                    363
+          Yes 1428 (allowed to proceed to the next question)
+          No 45 (eliminated)                                                        More than 4 years, up to 6 years 136
+          I don't know what IPA is 0 (eliminated)
+          I am not sure 8 (eliminated)                                              More than 6 years, up to 8 years 139
+          Total 1481                                                                More than 8 years, up to 10 years 118
+
+The price of working ­ Salary and recruitment fee survey, August 2026.              More than 10 years                        415
+
+                                                                                    I am not sure                             1
+
+                                                                                    Question 8: Are you a "food processing worker"?
+
+                                                                                    Yes            106
+                                                                                    No             1317
+                                                                                    I am not sure  5
+
+                                                                                                                                              Page 29 of 30
+Question 9: Are you in a supervisory position? (Example: Manager, Supervisor, Safety  Question 15: How much is your "Monthly deduction for others" according to the IPA?
+Coordinator)?                                                                         (Indicate the amount)
+
+Yes            286                                                                              Free answer
+No             1137
+I am not sure  5
+
+Question 10: Are you a driver or "driver-cum-general worker"?                         Stage 4: Agent Fee questions
+
+Yes            168                                                                    Question 16: Did you pay any agent fees to obtain your current employment?
+No             1241
+I am not sure  1                                                                      Paid fee     875
+
+                                                                                      Did not pay fee 540
+
+                                                                                      I am not sure 13
+
+Stage 3: Salary Questions                                                             Question 17: How much agent fee did you pay in total in Singapore dollars? (Including
+                                                                                      fees paid to your agents in your home country and in Singapore)
+Question 11: How much is your "Monthly salary" according to the IPA? (Indicate the
+amount: e.g., 550)                                                                    Free answer
+
+          Free answer                                                                 Stage 5: Ending Questions
+Question 12: How much is your "Basic monthly salary" according to the
+IPA? (Indicate the amount)                                                            Question 18: To receive a chance for a $200 cash prize, please share your Singapore
+                                                                                      phone number. (Optional)
+          Free answer
+Question 13: How much is your "Fixed monthly allowance" according to the IPA?                   Free answer - To protect the respondent's privacy, this information will be
+(Indicate the amount)                                                                           kept confidential.
+
+          Free answer                                                                 Question 19: To receive a chance for a $200 cash prize, please share your SIM Card
+Question 14: How much is your "Monthly housing, amenities and services                provider. (Optional)
+deductions" according to the IPA? (Indicate the amount)
+                                                                                                The breakdown is omitted as it has no analytical value.
+          Free answer
+                                                                                                                    Page 30 of 30
+The price of working ­ Salary and recruitment fee survey, August 2026.
+

@@ -1,0 +1,346 @@
+PAGE META: published_date: 2026-09-16 | og:published_date: 2026-09-16
+
+	Services sector: Work Permit requirements
+
+You are using a version of browser which will not be supported after 27 May 2018. To continue to transact with MOM securely, please follow 
+these steps
+ to enable the Transport Layer Security (TLS) of your web browser, or upgrade to the latest version of your browser.
+
+Skip to main content 
+
+About us
+
+Work passes
+
+Employment practices
+
+Workplace safety and health
+
+                        More
+
+Statistics and publications
+
+eServices
+
+Calculators and self-assessment tools
+
+Forms
+
+Newsroom
+
+Sector-specific rules
+
+    PH pay, COMPASS, Primary Care Plan, myMOM Portal, paying salary, annual leave
+
+Jump To
+
+Select
+
+Types of business activities
+
+Migrant worker eligibility
+
+Quota and levy
+
+Qualifying for higher-skilled worker levy
+
+Job Flexibility Scheme
+
+Related questions
+
+        Services sector: Work Permit requirements
+
+To employ migrant workers for the services sector, you have to meet specific requirements for business activity, worker’s source country or region, quota and levy. Find out how you can meet these criteria.
+
+These requirements are additional and specific to the 
+services sector
+. You should also refer to the 
+general Work Permit conditions and requirements
+.
+Types of business activities
+Your company can be considered to be under the services sector if it has registered any of the following as its principal business activity:
+
+Financial, insurance, real estate, infocomm and business services.
+
+Transport, storage and communications services.
+
+Commerce (retail and wholesale trade).
+
+Community, social and personal services (excluding domestic workers).
+
+Hotels.
+
+Restaurants, coffee shops, food courts and other approved food establishments (excluding food stalls or hawker stalls).
+
+Licences for food establishments are issued by Singapore Food Agency (SFA). Only operators with foodshop licences issued by SFA are allowed to employ migrant workers. The SFA licence must bear the name of the company, sole proprietor or partner.
+
+For private limited and limited liability partnership (LLP) companies, we do not accept licences bearing the name of an individual.
+
+Migrant worker eligibility
+You can only hire migrant workers who meet the conditions for source countries or regions and age requirements when applying.
+
+Source countries or regions
+
+You can employ migrant workers from these countries or regions:
+
+Malaysia
+
+People’s Republic of China (PRC)
+
+North Asian sources (NAS):
+
+Hong Kong (HKSAR passport)
+
+Macau
+
+South Korea
+
+Taiwan
+
+You can employ migrant workers from Non-Traditional Sources (NTS) for a restricted set of occupations in the 
+NTS Occupation List.
+
+Age requirements
+
+When applying for a Work Permit, the minimum and maximum age of the worker (regardless of nationality/citizenship) are as follows: 
+
+Minimum: 18 years old
+
+Maximum: 62 years old
+
+Work Permit holders can work until they reach the maximum age of 64 years old (pegged to the 
+retirement age
+ in Singapore).
+Quota and levy
+The number of Work Permit holders that you can hire is limited by a quota (or dependency ratio ceiling, DRC) and subject to a levy.
+
+The DRC for the services sector is 
+35%
+. The levy rates are tiered so that those who hire close to the maximum quota will pay a higher levy.
+
+The levy rate and tiers for the services sector are as follows:
+
+            Quota
+
+            Basic-skilled – monthly
+
+            Basic-skilled – daily
+
+            Higher-skilled – monthly
+
+            Higher-skilled – daily
+
+            Basic Tier / Tier 1:
+
+            Up to 10% of the total workforce
+
+            $450
+
+            $14.80
+
+            $300
+
+            $9.87
+
+            Tier 2:
+
+            Above 10% to 25% of the total workforce
+
+            $600
+
+            $19.73
+
+            $400
+
+            $13.16
+
+            Tier 3:
+
+            Above 25% to 35% of the total workforce
+
+            $800
+
+            $26.31
+
+            $600
+
+            $19.73
+
+From 2028, the current Tier 1 and Tier 2 will be merged. For the merged tier, the monthly levy rate will be set at $400 for Higher-skilled WPHs and $600 for Basic-skilled WPHs. MOM will release more details on the implementation timeline in due course. 
+
+Calculate your quota
+
+Note:
+ The daily levy rate only applies to Work Permit holders who did not work for a full calendar month. The daily levy rate is calculated as follows: (Monthly levy rate x 12) / 365 = rounding up to the nearest cent.
+
+For companies that exceed the new DRCs, they will:
+
+Be allowed to keep their excess workers until the Work Permits expire.
+
+Not be able to apply for new or renew Work Permits in excess of the DRC.
+
+You can:
+
+Refer to the 
+Local Qualifying Salary (LQS)
+ to determine the 
+number of local employees
+ who can be counted towards your Work Permit and S Pass quota entitlement.
+
+Refer to the 
+guidelines on how to calculate your quota and levy bill
+.
+
+Learn about 
+S Pass quota and levy rates
+.
+
+Qualifying for higher-skilled worker levy
+You pay less levy for higher-skilled migrant workers. You can 
+apply for the higher-skilled worker levy rate
+ for workers who meet the following requirements:
+
+            Requirements
+
+            What is needed
+
+            Academic qualifications
+
+Malaysia
+ – Sijil Pelajaran Malaysia (SPM). If you wish to use a diploma or higher qualification, you need to produce a copy of the transcript or a letter from the institution stating the course duration.
+
+North Asian sources (NAS)
+ – High school certificates
+
+People’s Republic of China (PRC)
+ – Diploma
+
+            Skills Evaluation Test (SET) conducted by ITE
+
+            SET Level 1 or National ITE Certificate (Nitec)
+
+Workforce Skills Qualification (WSQ)
+
+One of the following:
+
+For Growing Nursery Products industry (SSIC 01141, 01142, 01149)
+
+Higher Certificate in Landscape (Nursery)
+
+Certificate in Landscape Operations (This programme is no longer available and valid only for certification obtained before 10 Feb 2022.)
+
+For Landscape industry (SSIC 81300)
+
+Higher Certificate in Landscape (Arboriculture)
+
+Higher Certificate in Landscape (Horticulture and Turf Maintenance)
+
+Higher Certificate in Landscape (Nursery)
+
+Certificate in Landscape Operations (This programme is no longer available and valid only for certification obtained before 10 Feb 2022.)
+
+From 1 December 2026
+, these certificates will be included for the Community Care industry (SSIC 86101, 86102, 86904, 86905, 86909, 87010, 87021, 87029, 88101):
+
+Higher Certificate in Healthcare (Community Care)
+
+Advanced Certificate in Healthcare (Community Care)
+
+Market-Based Skills Recognition Framework (MBF)
+
+Earn a 
+fixed monthly salary
+ of at least $1,600. You can update your worker’s salary using 
+WP Online
+.
+
+Worked in Singapore as a Work Permit holder for at least 4 years. 
+
+Additional requirement for hotel, retail and F&B industries
+
+To qualify as higher-skilled workers, non-Malaysian Work Permit holders working in the 
+hotel, retail and F&B industries
+ must also obtain level 4 of the 
+Workplace Literacy and Numeracy (WPLN)
+ listening and speaking assessments.
+
+Register for WPLN assessments at the 
+British Council’s website
+.
+
+For more information, refer to the 
+FAQs on WPLN assessments
+.
+
+The British Council will inform MOM automatically. You don’t need to apply to MOM for conversion to higher-skilled worker levy.
+
+Those who qualify under MBF are not required to go through additional WPLN assessments.
+
+Job Flexibility Scheme
+The Job Flexibility Scheme allows Work Permit holders in the services sector to multi-task across occupations. Refer to the 
+Tripartite Guidelines on the Job Flexibility Scheme
+ for implementation practices.
+
+This does not apply to Work Permit holders who are employed:
+
+As performing artistes 
+
+Under the 
+Household Services Scheme (HSS)
+.
+
+Under the 
+NTS Occupations List
+
+What's next
+Security bond
+
+Share this page
+
+Share this page on facebook
+Tweet this page
+Email this page
+Print this page
+
+    Last Updated:
+    16 September 2026
+
+Related questions
+
+How should I count my local employees to calculate my Work Permit and S Pass quota?
+
+            More on
+            Sector-specific rules for Work Permit
+
+Work Permit conditions
+Non-Traditional Sources Occupation List
+Construction sector requirements
+Manufacturing sector requirements
+Marine shipyard sector requirements
+Process sector requirements
+Settling-in Programme for Work Permit holders
+Prior approval for marine shipyard sector
+Basic-skilled workers for construction sector
+Higher-Skilled workers for construction sector
+Higher-skilled workers for process sector
+Security bond
+
+Medical insurance
+Medical examination
+In-principle approval (IPA) for migrant worker
+Paying the salary
+Six-monthly medical examination for female migrant workers
+Hiring existing worker for construction sector
+Hiring existing worker in marine shipyard sector
+Hiring existing worker in process sector
+Hiring an existing manufacturing or services worker
+Cross-deploy a worker
+Driving occupations in the construction, marine shipyard and process sectors
+Onboard centre
+
+Information and Services
+
+Ministry of Manpower
+
+Social media
+

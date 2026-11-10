@@ -89,8 +89,11 @@ def fetch(url, name):
             from bs4 import BeautifulSoup
             with open(html, "rb") as f:
                 soup = BeautifulSoup(f.read(), "html.parser")
-            for t in soup(["script", "style", "noscript", "svg", "iframe", "nav", "form", "button"]):
+            for t in soup(["script", "style", "noscript", "svg", "iframe", "nav", "button"]):
                 t.decompose()
+            # Some sites (e.g. mom.gov.sg) wrap the whole page body in one <form>: keep its contents.
+            for t in soup.find_all("form"):
+                t.unwrap()
             for img in soup.find_all("img"):
                 if (img.get("src") or "").startswith("data:"):
                     img.decompose()

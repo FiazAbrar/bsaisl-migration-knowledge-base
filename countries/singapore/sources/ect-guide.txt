@@ -1,0 +1,600 @@
+A GUIDE TO
+EMPLOYMENT
+CLAIMS
+
+The Employment Claims Tribunals (ECT) provide employees
+and employers with a speedy, low-cost forum to resolve
+their salary-related and wrongful dismissal disputes.
+CONTENTS
+
+CHAPTER 1 Overview                                   3
+
+CHAPTER 2 Eligibility                                5
+
+CHAPTER 3 Community Justice and Tribunals System (CJTS) 7
+
+CHAPTER 4 Filing a claim on the CJTS                 9
+
+CHAPTER 5 After a claim is filed                     11
+
+CHAPTER 6 Registering a settlement agreement         15
+
+CHAPTER 7 How do I register a settlement agreement?  17
+
+CHAPTER 8 Language                                   19
+  CHAPTER 1
+
+  OVERVIEW
+
+Before you file a claim at the ECT, you must first submit a mediation request at the
+Tripartite Alliance for Dispute Management (TADM). See www.tadm.sg
+
+  Submit a mediation request at TADM
+
+                                        If mediation is successful
+                                        Settlement agreement is signed.
+
+                                        WITHIN 4 WEEKS
+                                        Register the settlement agreement online on the
+                                        Community Justice and Tribunals System (CJTS) at
+                                        https://cjts.judiciary.gov.sg/home/
+
+CJTS    If mediation is unsuccessful
+        A claim referral certificate (CRC) is issued.
+Notice
+        WITHIN 4 WEEKS
+
+        File a claim online at the ECT
+        File claims, make applications, pay fees and monitor the
+        case online at https://cjts.judiciary.gov.sg/home/
+
+        Claimant serves the claim and Notice of Case
+        Management Conference on Respondent.
+
+        On filing a claim, a Notice of Case Management Conference
+        is issued within 7 working days.
+
+                                                                                          3
+   A GUIDE TO EMPLOYMENT CLAIMS
+
+   Claim  Respondent can file a response or file a counterclaim.*
+
+          *A response must be filed and served within 7 working days after the
+           claim is served on the respondent. A counterclaim can only be filed if it
+           is supported by a CRC issued by TADM in respect of the counterclaim.
+
+          Respondent serves the response and/or counterclaim
+          on Claimant.
+
+          e-Negotiation & e-Mediation**
+          Parties have a chance to settle their dispute online on the
+          CJTS without coming to Court.
+
+          **Upon request
+
+   Case Management Conference (CMC)
+   Parties must appear before the Registrar for a CMC. If they are unable to resolve their
+   dispute at the CMC, the Registrar will fix the case for a Hearing.
+
+   Case Resolved                              Hearing
+   If parties settle their dispute amicably,  Parties must appear before the
+   the case concludes with a Consent          Tribunal Magistrate and present
+   Order being issued.                        their case. At the end of the
+                                              Hearing, an Order will be made.
+
+   The ECT is constituted as part of the State Courts. ECT Orders are enforceable in the same manner as orders
+   of a District Court. Lawyers are not allowed to represent any of the parties in proceedings before the ECT.
+
+4
+ CHAPTER 2
+
+ELIGIBILITY
+
+Can I file a claim at the ECT?
+
+You can file a claim if you are an employee or an employer with a dispute relating to
+salary or if you are an employee who has been wrongfully dismissed. The types of
+claims that can be filed at the ECT are:
+> Statutory salary-related claims by employees covered under the Employment Act,
+
+  Retirement & Re-employment Act and Child Development & Co-Savings Act
+> Contractual salary-related claims by all employees, except:
+
+  - domestic workers
+  - public servants and seafarers
+> Claims for salary in lieu of notice of termination by employers
+> Wrongful dismissal claims by:
+  - Employees not employed in a managerial or executive position regardless of
+
+    whether they have been dismissed with or without notice or payment of salary in
+    lieu of notice;
+  - Employees employed in a managerial or executive position who have been
+    dismissed without notice or payment of salary in lieu of notice;
+  - E mployees employed in a managerial or executive position who have been
+    dismissed with notice or payment of salary in lieu of notice provided that they
+    have served the employer for at least 6 months in any position (whether or not in
+    a managerial or executive position); and
+  - Female employees who are given a notice of dismissal at any time during her
+    pregnancy (as certified by a medical practitioner before the notice of dismissal
+    is given), where the female employee has served the employer for a period of 3
+    months or more immediately preceding the day the notice is given.*
+
+*Refer to section 84(1) of the Employment Act
+
+                                                                                                                       5
+A GUIDE TO EMPLOYMENT CLAIMS
+
+For example
+
+THE ECT HEARS                              THE ECT DOES NOT HEAR CLAIMS FOR
+                                           > Workmen's compensation
+> Salary-related claims, such as:          > Transfer of employment
+  - Salary
+  - Overtime pay
+  - Public holiday pay
+  - Bonus, commissions
+  - Retrenchment benefits
+  - Annual wage supplement
+
+> Wrongful dismissal claims
+
+Please refer to the Employment Claims Act 2016 for the full list of claims which
+the ECT can hear.
+
+How much can I claim for?
+
+$20,000 OR $30,000*
+
+A claimant whose claim exceeds the applicable claim limit may abandon the excess
+amount for the claim to be heard in the ECT.
+
+*For claimants who have gone through the Tripartite Mediation Framework or mediations assisted by unions
+ recognised under the Industrial Relations Act.
+
+Note:
+You may claim up to the above amount for each of the following types of claims:
+1) Salary-related claims; and 2) Wrongful dismissal claims
+
+      When do I file an                    What are the filing fees?
+      ECT claim?
+                                           Claim Amount (S$)  Fees (S$)
+       You must file a claim with the ECT  10,000 and below       30
+       within 4 weeks after the date of    More than 10,000       60
+       issue of the CRC from TADM.
+                                           Payable for claims and responses separately.
+6
+CHAPTER 3
+
+COMMUNITY JUSTICE AND
+TRIBUNALS SYSTEM (CJTS)
+
+The CJTS is a 24/7 online filing and case management system for ECT cases.
+
+  Key Features
+
+       @  Convenience
+          Parties can access their ECT cases online with their
+SMS       desktops, laptops or mobile devices from anywhere with
+          an internet connection. A party will be able to submit
+          documents, view documents submitted by the other
+          party, pay filing fees, select a preferred court date within a
+          given period, and monitor case developments online.
+
+          e-Notifications
+          Parties will be notified of their case developments
+          and hearing dates via SMS and email notifications
+          where available.
+
+          e-Negotiation
+          After a claim is filed and e-negotiation is initiated by
+          the respondent, the parties can actively engage and
+          negotiate an amicable settlement with each other
+          online without going to Court. On the e-negotiation
+          platform on the CJTS, each party has 5 rounds of offers
+          to make in the negotiation. If a settlement is reached,
+          the parties may apply online for a Consent Order
+          without having to go to Court.
+
+                                                                            7
+   A GUIDE TO EMPLOYMENT CLAIMS
+
+   Example of e-Negotiation
+
+   My former staff has filed a salary claim of $2,000 against my company. Let me try and
+   e-negotiate with her before the CMC date. I have 5 rounds to do this. Let's see how it goes...
+
+                                                   Hi, I read your claim. I can offer
+                                                 you 1 month of salary at $1,000.
+
+   Claimant  I worked for 2 months, the                       Respondent
+             lowest I can go is $1,800.
+
+                        How about the 3 weeks' no-pay
+                        leave you took in February? And
+
+                          you have our company phone!
+
+             How about I return the phone
+             and you pay me $1,500?
+
+                                  Could you consider $1,300,
+                                    and you keep the phone?
+
+             Ok, we have a deal.
+
+                        e-Mediation
+                        With e-mediation, the parties may resolve their dispute
+                        online with the help of a court mediator without having to
+                        go to Court. If both parties agree to e-mediate, the ECT will
+                        schedule an e-mediation session with the parties and a court
+                        mediator. If a settlement is reached, the parties may apply
+                        online for a Consent Order without needing to go to Court.
+
+   Online Applications  Online Applications
+                        All applications relating to ECT proceedings must be
+                        made on the CJTS. Access a variety of applications by
+                        clicking on "Online Applications".
+
+8
+ CHAPTER 4
+
+ FILING A CLAIM ON THE CJTS
+
+1 Go to https://cjts.judiciary.gov.sg/home/
+
+2 Login using your Singpass (for individuals or business entities). If you are not eligible
+
+     for Singpass, you may apply for a CJTS Pass by clicking "Register for CJTS Pass".
+
+3 Update "My Profile" with your personal particulars.
+
+4 Click "Online Applications" then "ECT", then choose the e-service Claim Form.
+
+5 Key in your pre-filing ID or proceed to do your pre-filing assessment to obtain
+
+     the pre-filing ID.
+
+6 Complete the questions in the pre-filing assessment, and click "Submit".
+
+7 Fill in your claim.
+
+     > Enter your details under "Claimant" and the details of the party you are claiming against
+        under "Respondent". The respondent is the party that you are filing a claim against.
+
+     > Upload your CRC and other supporting documents in PDF.
+     Click "Submit", then "Confirm to Proceed".
+
+8 Pay the filing fees. Applications will be processed only after the filing fees are made.
+
+     Payment may be made:
+     > Online: Credit Card/eNETS
+     > Offline: Click "Pay Later" and then "Generate Payment Advice". Bring the
+
+        payment advice to the State Courts and pay by cash, NETS, NETS FlashPay or
+        credit cards at the payment kiosks located on Level 2, 4 and 7; or via PayNow by
+        scanning the QR code printed on the payment advice.
+
+                                                                                                                       9
+    A GUIDE TO EMPLOYMENT CLAIMS
+
+     9 Choose a CMC date and time.
+
+    10 Click "Save Respondent Copy". Print the respondent's copy of the Notice of CMC
+
+           to serve on the respondent within 7 working days after the date of filing the claim.
+    A claim must not be served on any person or entity outside Singapore.
+
+      What documents should I prepare?
+
+      You should prepare the following documents to be uploaded into the CJTS:
+      > Identification documents
+
+         For company representatives: Latest ACRA business profile, and letter of
+         authorisation.
+      > CRC from TADM.
+      > All supporting evidence. All evidence submitted must be in the English language,
+         otherwise, a certified translation into English must be provided.
+
+    Scan the QR code       CJTS
+    or click the link to
+    access CJTS directly.
+
+    go.gov.sg/cjts
+
+10
+CHAPTER 5
+
+AFTER A CLAIM IS FILED
+
+Service of documents in the ECT
+
+A claim, response, counterclaim or other document must be served on the other
+party. Service is done by any of the following modes:
+
+Personal Delivery                   Others
+
+Delivering the                   @  By any means (including by
+documents personally
+to the other party.                 facsimile transmission or email)
+
+                                    as directed by the ECT.
+
+Registered Post                             Submitting through the CJTS
+                                 CJTS Submitting the documents
+Sending the documents
+by registered post to the                   through the CJTS, if the other
+party's last known residential              party is a party to proceedings,
+address, registered address                 and has been notified by
+or address of that person's                 the Registrar of the right to
+principal place of business                 access the CJTS to view the
+as notified to ACRA, in an                  documents served.
+envelope addressed to
+the person.
+
+After service of the document, parties must file a declaration of service (DOS) with
+proof of such service (e.g. Singpost registered post slip). A DOS must be filed before
+the first CMC. File the DOS in the CJTS by clicking on "Online Applications", then
+"ECT", and choosing the e-service Declaration of Service.
+
+The DOS must include the:
+
+> Date and time when the notice was served on the respondent.
+
+> N ame of the person who served the notice. If the notice is served by a courier
+  company, the particulars of the courier company are to be stated.
+
+> M ode in which the notice is served (for example, Personal Delivery or Registered Post).
+
+> Detailed outcome of serving the notice.
+
+If you are unable to serve the notice by one of the above ways, proceed to attend the
+CMC. At the CMC, the Registrar may direct you to serve the notice by other means (for
+example, by facsimile transmission or email).
+
+                                                                                                                     11
+    A GUIDE TO EMPLOYMENT CLAIMS
+
+      I am a respondent. What do I do?
+
+     1 Login to the CJTS
+
+            If a claim has been filed against you, you may login to the CJTS (see Steps 1 to 3 of
+            Filing a Claim on the CJTS) and key in your one-time reference number as found
+            in the Notice of Case Management Conference served on you. You will be able
+            to see the case details online, view the submitted documents, file applications and
+            monitor the case developments.
+
+     2 e-Negotiation & e-Mediation
+
+            On the CJTS, you may initiate e-negotiation or e-mediation with a view to
+            resolving the dispute with the claimant without going to Court.
+
+     3 File a Response
+
+            If you are disputing the claim, you must file and serve a response within 7 days
+            after being served with the claim. A response sets out your defence to the claim
+            and may be filed online on the CJTS. Simply click "Online Applications", "ECT"
+            and choose the e-service Response. Make sure you upload all the supporting
+            documents for the response. A fee of $30 to $60, depending on the value of the
+            claim, is payable upon filing of the response. After filing the response, serve a copy
+            of the response (together with all the supporting documents) on the claimant and
+            file a DOS online before the 1st CMC (See: Service section).
+
+     4 File a Counterclaim
+
+            If you have a counterclaim against the claimant that is supported by a CRC issued
+            by TADM, you may file a counterclaim against the claimant. Login to the CJTS, and
+            click "Online Applications", "ECT" and choose the e-service Counterclaim and
+            follow the instructions.
+
+12
+                                                             A GUIDE TO EMPLOYMENT CLAIMS
+
+Case Management Conferences (CMC)
+
+A CMC is a meeting between all the parties involved in the case and the Registrar. The
+Registrar will manage the case and give the parties an opportunity to resolve their
+dispute amicably. If the parties reach a settlement during the CMC, the Registrar will
+make a Consent Order to reflect the terms agreed upon by the parties. If the parties
+are not able to resolve their claim at the CMC(s), the case will be fixed for a Hearing.
+If either party is absent at the CMC without a reasonable excuse, the Registrar may
+continue with the CMC and issue an order against the absent party.
+
+The Hearing
+
+An ECT Hearing takes place in private before a Tribunal Magistrate. The Tribunal
+Magistrate will direct the flow and manner of the proceedings as he/she sees fit.
+During the Hearing, each party will have a chance to present his/her case. At the end
+of the Hearing, the Tribunal Magistrate may make one or more of the following orders:
+> An order to pay money
+> An order dismissing the whole/part of a claim
+> An order to pay costs
+> An order to reinstate the employee to his/her former employment and to pay loss
+
+  of wages
+> An order to award compensation for wrongful dismissal to the employee
+The Tribunal Magistrate can make an order even if a party is absent from the hearing.
+In making an order, the Tribunal Magistrate will take into account all the facts of the
+case, including whether:
+> Any party failed without reasonable excuse to attend any mediation
+> A ny party failed without reasonable excuse to attend any proceeding before the
+
+  Tribunal Magistrate
+A copy of the order of the Tribunal Magistrate will be available in the CJTS.
+
+                                                                                                                     13
+    A GUIDE TO EMPLOYMENT CLAIMS
+
+      Other processes
+
+       Applications
+       A party may make certain applications at the CMC and/or hearing stage, for the
+       decision of the Registrar or Tribunal. For example, he/she may apply to:
+       > Extend time
+       > Amend a claim, response or counterclaim
+       > Withdraw a claim, response or counterclaim
+       > Request a representative
+       > Set aside an order of the Tribunal or the Registrar which was made in
+
+          his/her absence.
+       All applications may be made via the CJTS.
+       Appeals
+       A party may file an appeal against the decision made at the CMC by the Registrar, to
+       a Tribunal. A party may also appeal against the decision of a Tribunal to the General
+       Division of the High Court. To do so, the party must first apply to the District Court
+       for leave¹ to appeal on any ground involving a question of law or that the claim was
+       outside the jurisdiction of the Tribunal.
+       Enforcement
+       A party may enforce the ECT order as an order of the District Court, if the other party
+       does not comply with the ECT order. Enforcement proceedings are part of the civil
+       justice process.
+
+      ¹ "Leave" will be known as "Permission" for claims filed on or after 1 April 2022.
+
+14
+ CHAPTER 6
+
+REGISTERING A
+SETTLEMENT AGREEMENT
+
+This part applies to matters that have been settled before you go to the ECT
+
+What is a settlement agreement?
+
+Before you file a claim at the ECT, you must first submit a mediation request at TADM.
+See www.tadm.sg
+After you have submitted a mediation request at TADM, you and the other party
+will undergo mediation at TADM. If mediation is successful, both of you will sign a
+settlement agreement in the presence of an approved mediator.
+The settlement agreement is a legally binding contract between you and the other
+party. It is an agreement to amicably resolve existing or potential disputes between
+the both of you, and contains terms which the both of you must comply with.
+
+Why register a settlement agreement?
+
+Either party may register a settlement agreement recorded at TADM with the District
+Court. Registering the settlement agreement will make it enforceable as an order of
+the District Court. This means that if one party does not fulfil his/her obligations under
+the registered settlement agreement, the other party is entitled to take enforcement
+action against the defaulting party.
+A settlement agreement that is not registered with the District Court is still a legally
+binding contract. However, if either party breaches the terms of the settlement
+agreement, the other party must first sue the defaulting party on the settlement
+agreement and obtain a court order in his/her favour before taking enforcement action.
+
+                                                                                                                     15
+    A GUIDE TO EMPLOYMENT CLAIMS
+
+    You and John sign a settlement agreement at TADM
+
+                          YOU CAN
+
+    Register the                      NOT register the
+    settlement agreement              settlement agreement
+
+    BUT JOHN DOES NOT MAKE PAYMENT TO YOU
+
+    You can enforce the registered    You have to first sue on the
+    settlement agreement immediately  settlement agreement
+
+                                      You then have to get a
+                                      court order in your favour
+
+                                      You can now enforce
+                                      the court order
+
+16
+  CHAPTER 7
+
+  HOW DO I REGISTER A
+  SETTLEMENT AGREEMENT?
+
+Any party to a settlement agreement may apply to register it. The application must be
+made online within 4 weeks after the parties sign the settlement agreement.
+
+ 1 Go to https://cjts.judiciary.gov.sg/home/
+
+ 2 Login using your Singpass (for individuals or business entities). If you are not
+
+       eligible for Singpass, you may apply for a CJTS Pass by clicking "Register for
+       CJTS Pass".
+
+ 3 Update "My Profile" with your personal particulars.
+
+ 4 Click "Online Applications" then "ECT", then choose the e-service Registration
+
+       of Settlement Agreement.
+
+ 5 Fill in the details required by the e-service and upload a copy of the
+
+       settlement agreement.
+
+ 6 Pay the filing fees. Applications will be processed only after the filing fees are
+
+       made. Payment may be made:
+       > Online: Credit Card/eNETS
+       > Offline: Click "Pay Later" and then "Generate Payment Advice". Bring the
+
+          payment advice to the State Courts and pay by cash, NETS, NETS FlashPay or
+          credit cards at the payment kiosks located on Level 2, 4 and 7; or via PayNow by
+          scanning the QR code printed on the payment advice.
+
+ 7 The ECT will notify you to check on the outcome of the registration on the
+
+       CJTS. Access your case folder on the CJTS to check for the outcome.
+
+ 8 If the registration is rejected, a notice will be available on your CJTS case folder.
+
+       If the registration is successful, a Notice of Registration will be available in your
+       CJTS case folder. Print a hardcopy of (1) the Notice of Registration, and (2) a
+       copy of the settlement agreement, and serve on the other party immediately (See:
+       Service section).
+
+                                                                                                                        17
+    A GUIDE TO EMPLOYMENT CLAIMS
+
+      What happens after registration?
+
+                         Renewal of the registered settlement agreement
+                         The registration of the settlement agreement is valid for 3 years
+                         from the date of its registration. Any party may apply to extend
+                         the registration for another 3 years on the CJTS via the e-service
+                         Renewal of Registration of Settlement Agreement.
+
+                         Enforcement of the registered settlement agreement
+                         A registered settlement agreement has the same force and effect as an
+                         order given by the District Court, and may be enforced in the same way.
+
+    Scan the QR code       CJTS
+    or click the link to
+    access CJTS directly.
+
+    go.gov.sg/cjts
+
+18
+   CHAPTER 8
+
+  LANGUAGE
+
+ECT proceedings are conducted in English. If you require interpretation services,
+you should inform the ECT at the earliest opportunity. The State Courts provide free
+interpretation services for the following languages:
+> Mandarin, Hokkien and other local Chinese dialects
+> Tamil
+> Malay
+The State Courts also has a working arrangement with TADM to provide free
+interpretation services for the Bengali Language*. For any other language(s) or special
+needs requiring interpretation services, please make your own arrangements, at your
+own cost.
+
+*This does not apply to proceedings for applications for leave to appeal heard by the District Court.
+
+Disclaimer: This publication is produced for general information only and is not intended as substitution for legal
+advice. A lawyer should be consulted should you require legal advice on your case. The State Courts disclaim any
+and all liabilities arising from and in connection with the contents of this publication.
+All information is correct as of 1 March 2023.
+1 Havelock Square
+Singapore 059724
+Tel: 6 JUSTICE (65878423)
+www.judiciary.gov.sg
+

@@ -1,0 +1,440 @@
+Nov 2026 enhancements to
+Work Permit eService on
+myMOM Portal and changes to
+Temporary Permit application
+process
+
+Briefing for Employers and Employment Agencies
+
+by MOM Work Pass Division (WPD)
+           Outline  1. Enhancements to Work Permit eService
+                          on myMOM Portal (2026 ­ 2027)
+2
+                    2. 29 November Launch of
+                          · Apply for Temporary Permit function
+                          · Foreigner Profile enquiry and Update
+                                pass holder employment details
+                                function
+                          · Extend IPA validity function
+
+                    3. Preview of enhanced Work
+                         Permit eService interface from 29 Nov
+1. Enhancements     a) About Work Permit
+    to Work Permit      eService
+    eService on
+    myMOM Portal    b) Launch milestones
+                        (2026 ­ 2027)
+
+3
+We are enhancing Work Permit eService on myMOM
+Portal in 2026 and 2027 to enable simpler and more
+seamless Work Permit transactions for businesses
+
+            May 2026                   Jul 2026                     From Nov 2026                      From 1H 2027
+
+             +                          +                                +                                  +
+
+          Issue function            Cancel function           NEW Enhanced Temporary                NEW Renew function
+                                                                Permit application process
+   Released on myMOM Portal,  Released on myMOM Portal,            and enquiry functions         Like the Issue function, you will no
+   you can update workers'    cancelling your workers' Work                                      longer need to upload medical
+   addresses and mobile       Permits is simpler, with fewer    We are enhancing the             reports or chest x-ray. Your medical
+   numbers in Issue function  documents required.               Temporary Permit (TP)            service provider will submit the
+   instead of separately in                                     application process to give you  medical results directly to MOM,
+   Online Foreign Worker                                        greater control over when your   saving you time and effort.
+   Address Service (OFWAS).                                     workers start work.
+                                                                                                 You will be able to perform all
+   Scan here                  Scan here                         We will also make it easier for  major Work Permit transactions on
+                              for details                       you to find and update your      one platform by mid 2027.
+   for details                of Cancel                         worker's information.
+                              function
+   of Issue
+
+4  function
+2. New              a) Apply for Temporary Permit
+    Work Permit           function and process changes
+    functions from
+    29 Nov 2026     b) Foreigner Profile enquiry and
+                          Update pass holder employment
+                          details function
+
+                    c) Extend IPA validity function
+
+5
+        Enhancement 1: Apply for Temporary Permit (TP)
+
+    With progressive enhancements to the Work Permit application process, the time taken to get the
+    Work Permit issued has reduced.
+    Today, for non-Malaysians, the in-principle approval (IPA) letters allow workers to start work from their
+    second day of arrival in Singapore. For new Work Permit applications from 29 Nov 2026, workers can
+    only start work after their Work Permit is issued, or if they have a Temporary Permit (TP).
+    You should get the Work Permit issued as soon as possible. If you are unable to complete issuance
+    steps and need your worker to start work urgently, you may use the new Apply for TP function on
+    myMOM Portal to request for a TP.
+
+                             Workers are not allowed to start work without an issued Work Permit or TP.
+
+6
+   Enhancement 1: Apply for Temporary Permit (TP)
+
+   TODAY (CURRENT PROCESS)                                                                 FROM 29 NOV (NEW PROCESS)
+
+    MALAYSIAN WORKERS           NON-MALAYSIAN WORKERS                   Apply via the new "Apply TP" module on myMOM Portal, only if required
+   Apply for TP if required                                  One consistent process for all workers, Malaysian and non-Malaysian. No documents required.
+                                    Worker arrives in SG
+       together with WP                  (holding IPA)                        For all workers                              For non-Malaysians
+   application or after IPA is
+                                 IPA allows worker to start  Apply for the TP after your worker arrives in  Apply in advance, before your worker arrives
+             received                         work             Singapore, on the day they need to start                        in Singapore.
+                                                                                    work.
+            TP starts                 1 day after arrival
+
+     Levy starts                 Levy starts immediately     TP issued instantly                            TP issued 1 day after worker arrives in
+   when TP starts               Even if you don't need the                                                                   Singapore
+                                 worker to start work yet
+
+                                                             Worker can begin work. Levy starts when the TP starts
+
+7
+   Enhancement 1: Apply for Temporary Permit (TP)
+
+   The new process will only apply for applications submitted on or after 29 Nov 2026.
+
+   Nationality of                      Date of Work Permit application
+   worker
+   Non-Malaysian   Before 29 Nov 2026                                    On or after 29 Nov 2026
+
+   Malaysian       The IPA letter allows the worker to start work when
+                   they arrive in Singapore.
+
+                   You may apply for a TP via WP Online if you need      Get your worker's Work Permits issued or apply for a TP if
+                   the worker to start work before their Work Permit is  you need your worker to start work urgently.
+                   issued.
+
+   Please note that:
+   · Approval for TP is instant for eligible workers. Employers should download and share a copy of the TP letter with their worker.
+   · Employers should still complete pre-issuance steps and get the Work Permit issued as soon as possible.
+
+   Malaysian workers with a Change of Employer (COE), Overstayers,       If you are unsure of the date of
+    Dependant's Pass holders, LTVP holders, or current Work Permit         application, refer to the IPA
+                                                                                        letter.
+                    holders are not eligible to apply for TP.
+
+8
+           Enhancement 2: Foreigner Profile enquiry and Update
+           Employment Details function
+
+           You can view your worker's personal details, employment history and security bond status in a
+           consolidated page on myMOM Portal.
+
+   TODAY
+
+                              Worker's information is spread across multiple modules
+
+                              · Log in to WP Online and access Foreign Worker Employment History, Foreign Worker Particulars, Security Bond
+                                  Status modules to view worker information
+
+                              · Access Update Pass Holder Employment Details (salary) to update worker information
+
+   FROM    View and update worker information on the Foreigner Profile function
+   29 Nov
+
+                              · Go to the Foreigner Profile page to view           Foreign Worker Employment History        Foreigner
+                                  your worker's information in a single             Foreign Worker Particulars               Profile
+                                  place and update key employment                  Security Bond Status
+                                  details more conveniently                        Update Employment Details (e.g. salary)
+
+                              · You will be directed to WP Online to update
+                                   other information such as Personal Particulars
+                                   and Occupation changes
+
+9  Legend
+
+   Completed on myMOM Portal  Completed on WP Online
+Enhancement 2: Foreigner Profile enquiry and Update
+Employment Details function
+
+Updating your worker's salary is easier, with existing information pre-filled for you. Change only what you need.
+
+                                                     Pre-populated       "Before update"
+                                                     values              Shows what has
+                                                                         changed, to make it
+                                                        Auto-calculated  easier for you to check
+                                                        values
+
+10
+            Enhancement 3: Extend Work Permit in-principle-
+            approval (IPA) validity
+
+            Submit IPA extension requests through a refreshed interface on myMOM Portal.
+
+    TODAY
+
+                    Step 1 | Apply for IPA extension                    Step 2 | Pass updated IPA letter to worker
+
+                    · Log in to WP Online to apply for extension of     · Wait for the IPA letter to be ready for download
+                        IPA validity if you are unable to bring the         (~15 minutes)
+                        worker into Singapore before their IPA expires
+                                                                        · Print and pass the IPA letter to worker
+
+    FROM            Step 1 | Apply for IPA extension                    Step 2 | Pass updated IPA letter to worker
+    29 Nov
+                    · Log in to the Work Permit eService on             · Receive immediate confirmation and updated IPA letter
+                        myMOM Portal to apply for extension of IPA           A copy of the IPA letter will be emailed to you
+                        validity if you are unable to bring the worker
+                        into Singapore before their IPA expires         · Print and pass the IPA letter to worker
+
+    Note: If your worker is already in Singapore and requires more time before their Work Permit can be issued, you should request for a Special Pass
+    instead. The validity of the IPA will be extended automatically when the Special Pass is issued.
+
+11          Legend
+
+            Completed on myMOM Portal  Completed on WP Online
+3. Preview of new  a) Apply for Temporary
+    eService            Permit function
+    interface
+                   b) Foreigner Profile enquiry
+                        and Update pass holder
+                        employment details
+                        function
+
+                   c) Extend IPA validity
+                        function
+
+12
+    A. Using Work Permit eService on myMOM Portal
+    to apply for a Temporary Permit
+
+FROM    Step 1 | Apply for TP                           Step 2 | Pass TP letter to worker
+29 Nov
+        · Log in to myMOM Portal to apply for your      · TP is issued instantly for eligible workers. Download
+            worker's TP after arrival in Singapore. No      and pass the TP letter to worker.
+            documents are required.
+
+        For non-Malaysian workers, you can also apply before the worker arrives, if you are sure the worker will need to
+        start work the day after arrival. In this case, the TP will be issued one day after arrival in Singapore.
+
+13
+Apply for TP
+
+    1. After logging in using Corppass, access the Apply for Temporary
+    Permit (TP) function via Quick menu
+
+                14
+Apply for TP
+
+    2. Select the sector that pass holder is employed under to start the
+    application process
+
+                15
+Apply for TP
+
+    3. Workers eligible for TP can be selected to proceed with the
+    application process
+
+                                                                                                                Enter FIN or WP Number to search for a specific
+                                                                                                                worker
+
+                                                                                                                   Advisory provided to reduce ambiguity on
+                                                                                                                   ineligibility reasons
+
+                16
+Apply for TP
+
+  4. Confirm the selections made and acknowledge the relevant clauses
+  on the summary page
+
+                                                                                         Review your workers' information and ensure it is
+                                                                                         correct
+
+                                                                                                                                                           Update your
+                                                                                                                                                           contact details so
+                                                                                                                                                           we can reach you
+                                                                                                                                                           if clarifications are
+                                                                                                                                                           needed
+
+                                                                                                                                                           Review the
+                                                                                                                                                           relevant
+                                                                                                                                                           declarations and
+                                                                                                                                                           acknowledge it
+                                                                                                                                                           before
+                                                                                                                                                           proceeding
+
+                17
+Apply for TP
+
+    5. Retrieve a copy of the acknowledgement and TP approval letter
+    upon completion of the process
+
+                                                                                                                                                Download the
+                                                                                                                                                acknowledgement,
+                                                                                                                                                summary and TP
+                                                                                                                                                approval letters
+
+                                                                                                                                                An email
+                                                                                                                                                acknowledgement with
+                                                                                                                                                relevant documents will
+                                                                                                                                               be sent to the email
+                                                                                                                                                address indicated in the
+                                                                                                                                                application
+
+                                             The TP letter is available only when the worker is physically in Singapore
+
+                18
+Apply for TP
+
+    6. In the email acknowledgement, use the following password format
+    to access the documents attached in the email
+
+                19
+    B. Using Work Permit eService on myMOM Portal
+    to view and update worker information
+
+    FROM    View and update worker information on the Foreigner Profile function
+    29 Nov
+
+            · Go to the Foreigner Profile page to view           Foreign Worker Employment History        Foreigner
+                your worker's information in a single             Foreign Worker Particulars               Profile
+                place and update key employment                  Security Bond Status
+                details more conveniently                        Update Employment Details (e.g. salary)
+
+            · You will be directed to WP Online to update
+                 other information such as Personal Particulars
+                 and Occupation changes
+
+20
+View Foreigner profile
+
+    1. After logging in using Corppass, access the Foreigner Profile via
+    myMOM Portal or Quick menu
+
+                                                                                                                                                        G123456/ 0 12334566
+                21
+View Foreigner profile
+
+1. After accessing through myMOM Portal/Quick menu
+
+Step 1                  Besides viewing your own workers' information, you can also view the employment history of a
+                        prospective candidate. You will need to declare during the transaction that you have obtained
+                        consent from the worker as they are not currently employed by you.
+
+HR declaration if
+the worker is not
+currently
+employed by the
+organisation
+
+                      EA declaration if
+                      enquiring on behalf
+                      of their client
+
+22
+View Foreigner profile
+
+    2. After accessing through myMOM Portal/Quick menu
+
+       Step 2 1
+                                                              1
+
+                   2
+
+                   3
+
+    4  2
+
+    5
+
+23
+View Foreigner profile
+
+2. After accessing through myMOM Portal/Quick menu
+
+Step 2 1                   3
+
+                        2
+
+                        3
+
+           4
+                                                    4
+
+           5
+
+24
+View Foreigner profile
+
+    2. After accessing through myMOM Portal/Quick menu
+
+       Step 2 1
+                                                          5
+
+                   2
+                   3
+
+                   4
+
+                   5
+
+                25
+Update pass holder employment details
+
+1. After landing on myMOM Portal, access the Update pass holder
+employment details function via Foreigner Profile
+
+Step 1                                 Step 2
+
+26
+Update pass holder employment details
+
+2. After landing on myMOM Portal, access the Update pass holder
+employment details function via Foreigner Profile
+
+Step 3                                 Step 4
+
+27
+Update pass holder employment details
+
+    3. After landing on myMOM Portal, access the Update pass holder
+    employment details function via Foreigner Profile
+
+                      Step 5
+
+                28
+    C. Using Work Permit eService on myMOM Portal
+    to extend IPA validity
+
+    FROM    Step 1 | Apply for IPA extension                    Step 2 | Pass updated IPA letter to worker
+    29 Nov
+            · Log in to myMOM Portal to apply for               · Receive immediate confirmation and updated IPA letter
+                extension of IPA validity if you are unable to       A copy of the IPA letter will be emailed to you
+                bring the worker into Singapore before their
+                IPA expires                                     · Print and pass the IPA letter to worker
+
+29
+Extend IPA validity
+
+    1. After logging in using Corppass, access the Extend IPA validity
+    function via View details or Quick Menu
+
+   Step 1
+
+                30
+   30
+Extend IPA validity
+
+    2. After landing on myMOM Portal, access the Extend IPA validity
+    function via View details or Quick Menu
+
+              Step 2
+
+                31
+Extend IPA validity
+
+3. User will land on the summary page and after clicking on proceed
+to extend, see the worker's IPA validity being extended successfully
+
+Step 3               Step 4
+
+32
+Thank you
+

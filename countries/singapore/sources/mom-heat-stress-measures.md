@@ -1,0 +1,178 @@
+# Heat stress measures for outdoor work
+
+Occupiers and employers must implement the required measures to reduce heat stress risk for outdoor workers. 
+
+Under the Workplace Safety and Health (WSH) Act, employers and occupiers have duties to ensure that workplaces are safe and without risks to the health of every person within the premises and to protect the safety and health of every employee.
+
+A warmer climate puts workers, particularly those performing manual work outdoors, at an increased risk of heat stress. Outdoor work refers to work done primarily in the open without permanent shade.
+
+All workplaces are to assess if the work can be carried out safely, including implementing an effective heat stress management programme. Employers must implement the required heat stress measures at varying Wet Bulb Globe Temperature (WBGT) bands to reduce heat stress risks for outdoor workers. There are also recommended practices that employers are strongly encouraged to implement.
+
+From 1 December 2026, four existing recommended practices will become mandatory requirements:
+
+- Establish heat stress training programme for workers exposed to heat
+- Provide cool drinking water supply near work areas
+- Ensure cold water, ice packs or water spray on standby for emergency response
+- Provide suitable clothing that can mitigate or protect workers from excessive heat stress
+
+A new recommended practice on providing shaded rest areas that are well ventilated and well insulated or cooled will also be introduced. Refer to the [press release](/newsroom/press-releases/2026/0828-enhancements-to-heat-stress-framework) and [FAQs](/heat-stress-measures-for-outdoor-work/faqs-on-heat-stress-measures-for-outdoor-work#requirements-and-recommendation-from-1-december-2026) for more information.
+
+Measures for WBGT (°C) below 31
+
+### Acclimatise
+
+- **Requirement:** Acclimatise workers new to Singapore or returning from prolonged leave of more than a week and gradually increase workers’ daily heat exposure over at least 7 days.
+
+### Monitor WBGT
+
+- **Requirement:** Monitor WBGT every hour during work hours, especially during the hotter periods of the day. On-site WBGT meters are required for:
+  - Construction sites with a contract sum of \$5 million or more
+  - Shipyards
+  - Process industry
+
+For other workplaces, refer to the National Environment Agency’s myENV app.
+
+### Drink
+
+- **Requirement:** Ensure workers rehydrate regularly.
+- Provide cool or cold drinking water supply near work areas.
+
+### Rest & Shade
+
+- **Requirement:** Ensure workers get adequate rest under shade for recovery from heat.
+- Provide rest areas near work areas, where feasible.
+
+### Emergency Response
+
+- **Requirement:** Establish emergency response plan and implement reporting procedures.
+
+### Monitor Worker
+
+- Identify [workers vulnerable to heat stress](#vulnerable-workers) and make re-deployment arrangements where required.
+
+Measures for WBGT (°C) from 31 to less than 33
+
+### Acclimatise
+
+- **Requirement:** Acclimatise workers new to Singapore or returning from prolonged leave of more than a week and gradually increase workers’ daily heat exposure over at least 7 days.
+
+### Monitor WBGT
+
+- **Requirement:** Monitor WBGT every hour during work hours, especially during the hotter periods of the day. On-site WBGT meters are required for:
+  - Construction sites with a contract sum of \$5 million or more
+  - Shipyards
+  - Process industry
+
+For other workplaces, refer to the National Environment Agency’s myENV app.
+
+### Drink
+
+- **Requirement:** Ensure workers rehydrate at least hourly with a recommended intake of 300ml per hour or more depending on work intensity.
+- Provide cool or cold drinking water supply near work areas.
+
+### Reschedule
+
+- Reschedule outdoor physical work to cooler parts of the day where feasible.
+
+### Rest & Shade
+
+- Rest areas to be provided near work areas, where feasible.
+
+**For WBGT (°C) 31 to less than 32**
+
+- **Requirement:** Ensure workers get adequate rest under shade for recovery from heat.
+
+**For WBGT (°C) 32 and above**
+
+- **Requirement:** Provide hourly rest breaks of a minimum of 10 minutes for heavy physical work activity when WBGT reaches 32°C and above.
+
+### Emergency response
+
+- **Requirement:** Establish emergency response plan and implement reporting procedures.
+
+### Monitor worker
+
+- Identify [workers vulnerable to heat stress](#vulnerable-workers) and make re-deployment arrangements where required.
+- Close monitoring of worker’s health condition, particularly for vulnerable workers.
+- Implement a buddy system. Workers should look out for each other for signs of heat-related illnesses.
+
+### Ventilation
+
+- Provide workers with cool rest and work areas with fans, air coolers, etc.
+- Provide workers with loose-fitting and light-coloured clothing.
+
+Measures for WBGT (°C) 33 and above
+
+### Acclimatise
+
+- **Requirement:** Acclimatise workers new to Singapore or returning from prolonged leave of more than a week and gradually increase workers’ daily heat exposure over at least 7 days.
+
+### Monitor WBGT
+
+- **Requirement:** Monitor WBGT every hour during work hours, especially during the hotter periods of the day. On-site WBGT meters are required for:
+  - Construction sites with a contract sum of \$5 million or more
+  - Shipyards
+  - Process industry
+
+For other workplaces, refer to the National Environment Agency’s myENV app.
+
+### Drink
+
+- **Requirement:** Ensure workers rehydrate at least hourly, with a recommended intake of 300ml per hour or more depending on work intensity.
+- Provide cool or cold drinking water supply near work areas.
+
+### Reschedule
+
+- Reschedule outdoor physical work to cooler parts of the day, where feasible.
+
+### Rest & Shade
+
+- Provide hourly rest breaks of a minimum of 15 minutes for heavy physical work activity, with longer rest periods as WBGT increases.
+- Rest areas to be provided near work areas, where feasible.
+
+### Emergency Response
+
+- **Requirement:** Establish emergency response plan and implement reporting procedures.
+- Standby cold water, ice packs, water spray and cooler boxes for emergencies in the workplace.
+
+### Monitor Worker
+
+- Close monitoring of worker’s health condition, particularly for [vulnerable workers](#vulnerable-workers).
+- Implement a buddy system. Workers to look out for each other for signs of heat-related illnesses.
+- Redeploy vulnerable workers to non-outdoor work.
+
+### Ventilation
+
+- Provide workers with cool rest and work areas with fans, air coolers, etc.
+- Provide workers with loose-fitting and light-coloured clothing.
+
+### Workers vulnerable to heat stress
+
+The group of workers who are vulnerable to heat stress include:
+
+- Older workers above 65 years old
+- Pregnant workers
+- Overweight or obese workers
+- Newly assigned to outdoor work
+- Unacclimatised to working in hot environments, such as new or returning workers from countries with cold climate
+- Returning from long leave of more than 1 week
+- Currently unwell or recovering from illness
+- With personal risk factors such as chronic diseases, medication use, or history of heat illness.
+
+This list is not exhaustive and does not cover all individual variabilities and conditions.
+
+Workers should consult a medical doctor if they have any of the above health- related conditions and wish to be certified fit to work outdoors.
+
+Workers with other medical conditions or who are uncertain should consult a medical doctor.
+
+Employers who wish to deploy vulnerable workers have a duty to ensure they are fit for outdoor work. They should seek the worker’s consent and make provisions for the worker to consult a medical doctor.
+
+## For more info
+
+- Refer to the [infographic on Heat Stress Measures for Outdoor Work](/-/media/mom/documents/heat-stress-measures/heat-stress-framework-outdoor-workers.pdf).
+- Read our [FAQs](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work/faqs-on-heat-stress-measures-for-outdoor-work).
+- To learn more about the general heat stress management programme, refer to the [WSH Guidelines on Managing Heat Stress in the Workplace](https://www.tal.sg/wshc/resources/publications/wsh-guidelines/wsh-guidelines-on-managing-heat-stress-at-the-workplace) published by the WSH Council.
+
+Share this page [Share this page on facebook](https://www.facebook.com/sharer/sharer.php?u=http://www.mom.gov.sg/heat-stress-measures-for-outdoor-work)[Tweet this page](https://x.com/intent/tweet?text=Heat%20stress%20measures%20for%20outdoor%20work&url=http://www.mom.gov.sg/heat-stress-measures-for-outdoor-work&via=MOM_sg)[Email this page](mailto:?subject=Heat%20stress%20measures%20for%20outdoor%20work&body=http://www.mom.gov.sg/heat-stress-measures-for-outdoor-work)[Print this page](#)
+
+Last Updated: 28 August 2026

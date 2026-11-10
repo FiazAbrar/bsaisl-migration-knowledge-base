@@ -1,0 +1,250 @@
+Details Page Banner
+
+#### 
+
+# Birth Registration and Digital Birth Certificate Download
+
+ Check the steps to register your child's birth and download the digital birth certificate.
+
+Last updated 30 Oct 2026
+
+[](/redirect-links/lifesg--birth-registration)
+
+Register Online
+
+(opens in a new tab) [](/redirect-links/singpass-login-page)
+
+Check Status
+
+(opens in a new tab)
+
+ Processing Time
+
+Within 3 working days
+
+ Fees
+
+S\$18 
+
+On this page Overview Eligibility Information Required Procedure Fees Processing Time Application Status Digital Birth Certificate Download Important Information on Registration Enquiry on Birth Matters FAQs Related Links
+
+- Overview
+- Eligibility
+- Information Required
+- Procedure
+- Fees
+- Processing Time
+- Application Status
+- Digital Birth Certificate Download
+- Important Information on Registration
+- Enquiry on Birth Matters
+- FAQs
+- Related Links
+
+[](/redirect-links/lifesg--birth-registration)
+
+Register Online
+
+(opens in a new tab) [](/redirect-links/singpass-login-page)
+
+Check Status
+
+(opens in a new tab)
+
+
+
+## Overview
+
+In Singapore, parents must register your child’s birth via [LifeSG](/redirect-links/lifesg-website) within 42 days of their birth. Once registered, a digital birth certificate will be available for download within 90 days.
+
+If you do not register the birth within 42 days, you may face a fine, imprisonment, or both under the Registration of Births and Deaths Act.
+
+
+
+Note
+
+- Singapore does not register births that occurred overseas. If a child is born overseas, the parents should register the child’s birth and obtain the birth certificate from the authorities in the country/place where the child is born.
+- Since 29 May 2022, ICA no longer issues physical birth certificates.\
+
+## Application Process
+
+1.   [Check eligibility ](#eligibility)
+2.   [Prepare required information ](#information-required)
+3.   [Register online ](#procedure)
+4.   [Make payment ](#fees)
+5.   [Check processing time ](#processing-time)
+6.   [Check application status ](#application-status)
+7.   [Download digital birth certificate ](#digital-birth-certificate-download)
+
+
+
+## Eligibility
+
+All parents of newborns in Singapore must register their child’s birth, regardless of their immigration or marital status.
+
+
+
+## Information Required
+
+You will need to provide the following particulars for birth registration: 
+
+**Particulars of child:**
+
+- Name
+- Sex\*
+- Date of birth\*
+- Time of birth\*
+- Place of birth\*
+
+\*You do not need to enter these details if your newborn was delivered at a hospital, as they will be automatically provided.\
+
+**Particulars of parent(s):**
+
+- Name
+- Identity document number
+- Date of birth
+- Country/Place of birth
+- Nationality/Citizenship
+- Race
+- Dialect group\
+
+You may also be prompted to provide the following documents for the online birth registration:
+
+- Local or overseas marriage certificate of parents (if the marriage information is not available in your Singpass/MyInfo profile)
+- Passport biodata page (only applicable if you are an immigration/work pass holder without a Singpass account)
+
+
+
+Note
+
+You will need to provide original documents and official translations (for documents in languages other than English).\
+
+ICA accepts:
+
+- Translations provided by the embassy of the country/place that issued the document
+- Translations produced by a notary public in Singapore or the country/place that issued the document
+- Privately created translations attested by the embassy of the country/place that issued the document or notarised by a notary public in Singapore or the country/ place that issued the document
+
+ICA does not endorse any private translation companies or entities. Insufficient documentation may result in non-acceptance of your application. You may be required to provide additional documents to support your application.
+
+
+
+## Procedure
+
+Parents who are Singapore Citizens, Permanent Residents or Long-Term Pass (FIN) holders must log in using Singpass to submit your birth registration online via the LifeSG app or [LifeSG](/redirect-links/lifesg-website). If you do not have a Singpass account, you can [register for one at the Singpass website](/redirect-links/singpass-register-account).
+
+At the end of your submission, you will be prompted to make a payment of S\$18. Upon successful payment, you will receive a digital notification confirming your registration.
+
+You can download the LifeSG app for free from the [iOS App Store](/redirect-links/app-links/lifesg-app-store) or [Android Google Play Store](/redirect-links/app-links/lifesg-google-play). Watch [this video](https://youtu.be/9cUX-XfvrT4) to find out more about the app.
+
+
+
+## Fees
+
+You must pay a non-refundable S\$18 fee for birth registration and the issuance of a digital birth certificate.
+
+You can pay online using any of the following:
+
+- Visa or MasterCard credit/debit card
+- American Express (AMEX) credit card
+- Internet Direct Debit (DBS/POSB, OCBC, UOB and Standard Chartered Bank Internet Banking accounts in Singapore)
+- PayNow\
+
+
+
+## Processing Time
+
+ICA generally processes your registration immediately. For cases that require further verification, we may take up to 3 working days.
+
+
+
+## Application Status
+
+- **If you registered using an email address:** You will receive an email from ICA once your application is received.\
+- **If you registered using Singpass:** You can check your status in the LifeSG app Inbox. If you provided a local mobile number, you will also receive an SMS once the birth is successfully registered.
+
+[](/redirect-links/singpass-login-page)
+
+Check Status
+
+(opens in a new tab)
+
+
+
+## Digital Birth Certificate Download
+
+Once you receive notification of successful registration, you must download the digital birth certificate of your child at ICA's [e-Service](/redirect-links/e-services/e-services--birth-certificate-download)** within 90 days**. You must save the certificate to your personal device for future reference.\
+
+[](/redirect-links/e-services/e-services--birth-certificate-download)
+
+Download Online
+
+(opens in a new tab)
+
+
+
+## Important Information on Registration
+
+**Ethnic name for child**
+
+The inclusion of ethnic name is optional. You can choose to include an ethnic name in Chinese (中文名), Jawi (ﻨﺎﻢ ﺠﺎﻮﻱ) or Tamil (தமிழ் பெயர்) in your child’s birth certificate. The ethnic characters provided must be found in a recognised dictionary, and you must ensure they are accurate.
+
+**Hanyu Pinyin name**
+
+The inclusion of hanyu pinyin name is optional. If you choose to include a hanyu pinyin name in your child’s birth certificate, it must be accompanied by a corresponding Chinese ethnic character name. 
+
+If included, the hanyu pinyin name will be in brackets. Appended is an example of how the child’s name, with Chinese character and hanyu pinyin name, will be displayed in the child’s digital birth certificate:
+
+[TABLE]
+
+If the hanyu pinyin name is included in the child’s birth certificate, it will also be reflected in the child’s passport.
+
+**Race of the child**
+
+The child’s race can follow either parent’s race, or an acceptable mixed race if the parents are of different races. A child who is an SC is also eligible to have a double-barrelled race comprising both parents’ races. All siblings of the child who are below 21 years old from the same set of parents should have the same race.
+
+**Alteration of child’s name**
+
+Should parents wish to [alter their child’s name](/information-and-e-services/birth-and-death/birth/birth-certificate/change-of-child-s-name-on-birth-certificate) after the birth has been registered, they may apply online before the child turns 1 year old. A prescribed fee applies.\
+
+**Regularisation of stay for a child who is not an SC**
+
+If your child is not an SC at the time of birth, he/she will be issued a Special Pass valid for 42 days from their date of birth. You can check the expiry date of the Special Pass on the Advisory Note issued with the digital birth certificate.\
+
+If your child is not an SC, you must ensure that he/she has a valid immigration pass for them to remain in Singapore beyond the 42nd day from the child’s birth:
+
+You can submit the [extension of stay form](/redirect-links/formsg/formsg--extension-of-stay-(local-born-child) to renew the child's special pass or apply for a visit pass.
+
+For work pass holders with dependant privileges, visit [MOM website](/redirect-links/mom-website-newborn) for more details.
+
+
+
+## Enquiry on Birth Matters
+
+If you have any queries relating to birth registration process and digital birth certificate, you may [contact us via the enquiry form](/redirect-links/feedback/formsg--births---deaths).
+
+
+
+## FAQs
+
+Please drop an email to [\[email protected\]](/cdn-cgi/l/email-protection#ef868c8eb08d869d9b87b09d8d8baf868c8ec1888099c19c88) and we will follow up with you accordingly. 
+
+Please refresh the page and try again. If you are still unable to make payment despite multiple attempts, please email [\[email protected\]](/cdn-cgi/l/email-protection#80e8e5ecf0e4e5f3ebc0ece9e6e5aee7eff6aef3e7) for assistance.
+
+Please email [](/cdn-cgi/l/email-protection#511812100e13382325390e031315113832307f363e277f2236)[\[email protected\]](/cdn-cgi/l/email-protection#ce878d8f918ca7bcbaa6919c8c8a8ea7adafe0a9a1b8e0bda9) for assistance if it has been more than 3 working days since your registration. 
+
+![ask-gov-logo](/images/ica/ica-icon-library/ask-gov-logo.tmb-thumbnail.png?Culture=en&sfvrsn=e214e593_1)
+
+### Browse All Related FAQs
+
+Browse topics, questions and answers in AskGov portal for ICA
+
+
+
+## Related Links
+
+[Digital Birth Certificate Verification](/redirect-links/e-services/e-services--verify-birth)
+
+[Digital Birth Extract Verification](/information-and-e-services/birth-and-death/birth/birth-certificate/extract-(birth)
+
+[Digital Birth Extract Application ](/information-and-e-services/birth-and-death/birth/birth-certificate/digital-birth-extract-application)
