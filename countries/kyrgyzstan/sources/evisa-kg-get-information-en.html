@@ -1,0 +1,410 @@
+<!DOCTYPE>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>e-VISA</title>
+	<script src="scripts/js/jquery-1.10.2.js" type="text/javascript" ></script>
+    <script src="scripts/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript" ></script>
+    <script src="scripts/js/general.js?v=52" type="text/javascript" ></script>
+    <script src="scripts/js/menu.js" type="text/javascript" ></script>
+    <link href="scripts/css/general.css?v=52" rel="stylesheet" type="text/css" />
+    <link href="scripts/css/menu.css?v=52" rel="stylesheet" type="text/css" />
+    <link href="scripts/css/flick/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+    <link href="scripts/css/tooltip.css" rel="stylesheet" type="text/css" />
+    <!--For Google Search  -->
+	<meta name="description" content="Welcome to the Kyrgyzstan Official Electronic Visa Portal! Visa to Kyrgyzstan for Tourist or Business. Apply now online. Easy, safe and fast application process." />
+    <meta name="Kyrgyz Republic evisa, Kyrgyz Republic electronic visa, Kyrgyz Republic visa, Kyrgyzstan visa, Kyrgyzstan electronic visa, Kyrgyzstan evisa, Kyrgyz online visa, Kyrgyzstan online visa, Kyrgyz Republic online visa" />
+	<!--For Google Search  -->
+</head>
+<body>
+
+
+<!-- modal-dialog Dialog -->
+<div class="modal-dialog">
+      <div class="modal-dialog-content">
+            <div class="modal-dialog-header">
+              <span class="modal-dialog-close" onClick="$('.modal-dialog').hide();">×</span>
+              <span class="modal-dialog-title">Notification</span>
+            </div>
+            <div class="modal-dialog-body">
+              <p>Text in the modal-dialog Body</p>
+            </div>
+            <div class="modal-dialog-footer">
+              <div class="modal-dialog-ok" onClick="$('.modal-dialog').hide();">Ok</div>
+            </div>
+      </div>
+</div>
+<!-- modal-dialog Dialog -->
+
+<!-- Loading -->
+<div class="spinner">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+<!-- Loading -->
+
+	
+<center>
+    <!-- mainContent Start -->
+    <div class="mainContent">
+        <div class="topBar_1975">
+            <table cellpadding="0" cellspacing="0" width="1100">
+            	<tr>
+                	<td align="left"><a href="index.php"><img src="images/img/logo.png" class="logo_6999" /></a></td>
+                    <td align="right">
+                        <nav role="navigation" class="nav">
+                            <ul class="nav-items">
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link"><span>SERVICES</span></a>
+                                    <nav class="submenu">
+                                        <ul class="submenu-items">
+                                            <li class="submenu-item" onClick="window.location.href='step_1.php?lng=en';"><a class="submenu-link">Apply for a visa</a></li>
+                                            <li class="submenu-item" onClick="window.location.href='check_status.php?lng=en';"><a class="submenu-link">Continue your application</a></li>
+                                            <li class="submenu-item" onClick="window.location.href='check_status.php?lng=en';"><a class="submenu-link">Check status</a></li>
+                                            <!--<li class="submenu-item"><a href="" class="submenu-link"></a></li>-->
+                                            <li class="submenu-item" onClick="window.location.href='transfer_visa.php?lng=en';"><a class="submenu-link">Visa transfer to new passport</a></li>
+                                            <li class="submenu-item" onClick="window.location.href='check_status.php?lng=en';"><a class="submenu-link">Speed up e-Visa application review</a></li>
+                                        </ul>
+                                    </nav>
+                                </li>
+                                <li class="nav-item"><a href="about_kyrgyzstan.php?lng=en" class="nav-link"><span>ABOUT KYRGYZSTAN</span></a></li>
+                                <li class="nav-item"><a href="get_information.php?lng=en" class="nav-link"><span>INFORMATION</span></a></li> 
+                                <li class="nav-item"><a href="contact_us.php?lng=en" class="nav-link"><span>CONTACT US</span></a></li>
+                                                                <li class="nav-item" style="margin-left:25px;margin-right:7px;"><a href="get_information.php?lng=ky" class="nav-link"><span alt="ky" class="">KG</span></a></li>
+                                <li class="nav-item" style="margin-right:7px;"><a href="get_information.php?lng=ru" class="nav-link"><span alt="ru" class="">RU</span></a></li> 
+                                <li class="nav-item" style="margin-right:7px;"><a href="get_information.php?lng=en" class="nav-link"><span alt="en" class="actLang">EN</span></a></li>
+                            </ul>
+                        </nav>
+                    </td>
+                    <td align="right" valign="top">
+                                            	   <a href="login.php?lng=en" class="ssil_1177" style="line-height:30px;">Log in to personal account </a>
+                                            </td>
+                </tr>
+            </table>
+        </div>
+
+
+  
+
+
+<script language="javascript">
+	$(document).ready(function(e) {
+        $(".infBtn_6633").click(function(e) {
+            $(".infBtn_6633").removeClass("infBtn_6633_active");
+			$(this).addClass("infBtn_6633_active");
+			$(".mainInformBox_2288").hide();
+			$("#"+this.id+"_block").show();
+        });
+    });
+</script>
+
+<style>
+	.labServ_6411{ text-align: left !important; width: 900px !important; }
+	#faqs_block{ text-align:left; color:white; font-size:15px; }
+</style>
+
+<br><br><br><div class="labServ_6411">GET INFORMATION</div><br><br>
+
+
+<div class="informParent_4522">
+	<div class="infBtn_6633 infBtn_6633_active" id="do_I_need_visa">DO I NEED VISA?</div>
+    <div class="infBtn_6633" id="important_information">IMPORTANT INFORMATION</div>
+    <div class="infBtn_6633" id="faqs">FAQS</div>
+    <div class="infBtn_6633" id="about_visa">ABOUT VISA TYPES AND CATEGORIES</div>
+    <div class="infBtn_6633" id="application_form">APPLICATION FORMS</div>
+</div>
+
+
+<div class="mainInformBox_2288" id="do_I_need_visa_block" style="display:block;">
+	<p class="lab_2278"> This tool provides general information about visa eligibility for holders of passports and documents of different countries. To check visa eligibility, please choose country of your passport below. You will be provided with is information about<br>
+				- exemption or requirement of obtain entry visa to enter the Kyrgyz Republic,<br>
+				- available mechanism of obtaining visa.<br><br>
+</p>
+    <p class="lab_2278"> Permanent residents of Special Administrative Regions of China, the Hong Kong and Macao,  (Hong Kong SAR, Macau SAR) have a 30-day visa-free regime for all types of travel documents (dip., service, ordinary). <br>
+Citizens of the Maldives have a 30-day visa-free regime for all types of travel documents.<br>
+</p>
+    <br>
+    <select id="doc_issued_by" class="sel_6966" onChange="callVisaTypeInfo();">
+        <option value="">select country</option>
+        <option value="1">Afghanistan</option><option value="3">Albania</option><option value="4">Algeria</option><option value="6">Andorra</option><option value="7">Angola</option><option value="10">Antigua and Barbuda</option><option value="11">Argentina</option><option value="12">Armenia</option><option value="14">Australia</option><option value="15">Austria</option><option value="16">Azerbaijan</option><option value="17">Bahamas</option><option value="18">Bahrain</option><option value="19">Bangladesh</option><option value="20">Barbados</option><option value="21">Belarus</option><option value="22">Belgium</option><option value="23">Belize</option><option value="24">Benin</option><option value="26">Bhutan</option><option value="27">Bolivia</option><option value="28">Bosnia and Herzegovina</option><option value="29">Botswana</option><option value="31">Brazil</option><option value="34">Brunei Darussalam</option><option value="35">Bulgaria</option><option value="36">Burkina Faso</option><option value="37">Burundi</option><option value="38">Cambodia</option><option value="39">Cameroon</option><option value="40">Canada</option><option value="41">Cape Verde</option><option value="43">Central African Republic</option><option value="44">Chad</option><option value="45">Chile</option><option value="46">China</option><option value="48">Macao</option><option value="51">Colombia</option><option value="52">Comoros</option><option value="53">Congo</option><option value="54">Democratic Republic of the Congo</option><option value="56">Costa Rica</option><option value="57">Cote dIvoire</option><option value="58">Croatia</option><option value="59">Cuba</option><option value="60">Cyprus</option><option value="61">Czech Republic</option><option value="62">Denmark</option><option value="63">Djibouti</option><option value="64">Dominica</option><option value="65">Dominican Republic</option><option value="66">Ecuador</option><option value="67">Egypt</option><option value="68">El Salvador</option><option value="69">Equatorial Guinea</option><option value="70">Eritrea</option><option value="71">Estonia</option><option value="72">Ethiopia</option><option value="75">Fiji</option><option value="76">Finland</option><option value="77">France</option><option value="81">Gabon</option><option value="82">Gambia</option><option value="83">Georgia</option><option value="84">Germany</option><option value="85">Ghana</option><option value="87">Greece</option><option value="89">Grenada</option><option value="92">Guatemala</option><option value="94">Guinea</option><option value="95">Guinea-Bissau</option><option value="96">Guyana</option><option value="97">Haiti</option><option value="99">Holy See</option><option value="100">Honduras</option><option value="101">Hungary</option><option value="102">Iceland</option><option value="103">India</option><option value="104">Indonesia</option><option value="105">Iran</option><option value="106">Iraq</option><option value="107">Ireland</option><option value="109">Israel</option><option value="110">Italy</option><option value="111">Jamaica</option><option value="112">Japan</option><option value="114">Jordan</option><option value="115">Kazakhstan</option><option value="116">Kenya</option><option value="117">Kiribati</option><option value="118">Democratic Peoples Republic of Korea</option><option value="119">Korea</option><option value="120">Kuwait</option><option value="122">Lao PDR</option><option value="123">Latvia</option><option value="124">Lebanon</option><option value="125">Lesotho</option><option value="126">Liberia</option><option value="127">Libya</option><option value="128">Liechtenstein</option><option value="129">Lithuania</option><option value="130">Luxembourg</option><option value="131">Macedonia</option><option value="132">Madagascar</option><option value="133">Malawi</option><option value="134">Malaysia</option><option value="135">Maldives</option><option value="136">Mali</option><option value="137">Malta</option><option value="138">Marshall Islands</option><option value="140">Mauritania</option><option value="141">Mauritius</option><option value="143">Mexico</option><option value="144">Micronesia</option><option value="145">Moldova</option><option value="146">Monaco</option><option value="147">Mongolia</option><option value="148">Montenegro</option><option value="150">Morocco</option><option value="151">Mozambique</option><option value="152">Myanmar</option><option value="153">Namibia</option><option value="154">Nauru</option><option value="155">Nepal</option><option value="156">Netherlands</option><option value="159">New Zealand</option><option value="160">Nicaragua</option><option value="161">Niger</option><option value="162">Nigeria</option><option value="166">Norway</option><option value="167">Oman</option><option value="168">Pakistan</option><option value="169">Palau</option><option value="170">Palestinian Territory</option><option value="171">Panama</option><option value="172">Papua New Guinea</option><option value="173">Paraguay</option><option value="174">Peru</option><option value="175">Philippines</option><option value="177">Poland</option><option value="178">Portugal</option><option value="180">Qatar</option><option value="182">Romania</option><option value="183">Russian Federation</option><option value="184">Rwanda</option><option value="187">Saint Kitts and Nevis</option><option value="188">Saint Lucia</option><option value="191">Saint Vincent and Grenadines</option><option value="192">Samoa</option><option value="193">San Marino</option><option value="194">Sao Tome and Principe</option><option value="195">Saudi Arabia</option><option value="196">Senegal</option><option value="197">Serbia</option><option value="198">Seychelles</option><option value="199">Sierra Leone</option><option value="200">Singapore</option><option value="201">Slovakia</option><option value="202">Slovenia</option><option value="203">Solomon Islands</option><option value="204">Somalia</option><option value="205">South Africa</option><option value="207">South Sudan</option><option value="208">Spain</option><option value="209">Sri Lanka</option><option value="210">Sudan</option><option value="211">Suriname</option><option value="213">Swaziland</option><option value="214">Sweden</option><option value="215">Switzerland</option><option value="216">Syrian Arab Republic</option><option value="218">Tajikistan</option><option value="219">Tanzania</option><option value="220">Thailand</option><option value="221">Timor-Leste</option><option value="222">Togo</option><option value="224">Tonga</option><option value="225">Trinidad and Tobago</option><option value="226">Tunisia</option><option value="227">Turkey</option><option value="228">Turkmenistan</option><option value="230">Tuvalu</option><option value="231">Uganda</option><option value="232">Ukraine</option><option value="233">United Arab Emirates</option><option value="234">United Kingdom</option><option value="235">United States of America</option><option value="237">Uruguay</option><option value="238">Uzbekistan</option><option value="239">Vanuatu</option><option value="240">Venezuela</option><option value="241">Viet Nam</option><option value="245">Yemen</option><option value="246">Zambia</option><option value="247">Zimbabwe</option><option value="255">UN Employee</option>   </select>
+   <table cellpadding="0" cellspacing="0" class="eligibility_table">
+        <thead>
+            <tr>
+                <th>Regime</th>
+                <th>Ordinary Passport</th>
+                <th>Service Passport</th>
+                <th>Diplomatic passport</th>
+                <th>Ordinary Passport*</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <div id="resident_card_txt" style="display:none;color:white;margin-top:33px;">Resident card (temporary residence permit) is a document confirming the right for a long-term residence in the territory of a state of a person who is not a citizen of this state.</div>
+</div>
+
+<div class="mainInformBox_2288" id="important_information_block">
+    
+    <div class="importInfBox_1_2278">You can check if you are eligible to get Kyrgyz Republic visa and other information about entry and stay regime of foreign citizens in Kyrgyz Republic in “do i need visa?” sector.
+</div><div class="importInfBox_2_2278">
+After arriving in Kyrgyz Republic, foreign country citizens, except counties, included in a list (the list of foreign countries with the indication of the terms for the release of foreign citizens and stateless persons arriving in the Kyrgyz Republic from registration at the place of their stay in authorized state bodies, as well as in hotels) are obliged to register according to the place of stay in 5 work days after the moment of entry.
+</div><div class="importInfBox_1_2278">
+You can make your online payment by credit/debit card. The card is not required to be under your name. Make sure that Your card is open to international transactions.
+</div><div class="importInfBox_2_2278">
+Please, make sure the filled information is correct. In case of any mistakes, your e-visa application will be rejected.
+</div><div class="importInfBox_1_2278">
+There is no refund in case of rejection of e-visa.
+</div><div class="importInfBox_2_2278">
+Please,avoid buying the air ticket before getting the notice of approval to you the electronic visa.
+</div><div class="importInfBox_1_2278">
+If you have any questions, please contact us by the following numbers:
+<br>
++996703428865
+<br>
++996999312002
+</div><div class="importInfBox_2_2278">
+Dear applicant, please read the step-by-step instructions in case the System returns Your application. <br>
+If you Your application was returned by the System, you will receive a message to your email address specified in the application about the need to make corrections, download the necessary package of documents or make a payment .<br>
+After receiving еру message, you will need to return to our official website evisa.e-gov.kg, select the Services section-Check the status, enter the reference number and You will be redirected to the page of correction of Your application.<br>
+Lines that require corrections will be marked in red. You will need to click on the "tick" icon, make changes and click on the same icon again. <br>
+After making changes and checking the correctness of all data, you need to click the "Submit" button.<br>
+<br>
+Attention! The application review period 5 working days starts from the moment of correcting all the necessary information or adding the necessary package of documents.
+</div>    
+    <!--
+    <div class="importInfBox_1_2278"></div>
+    <div class="importInfBox_2_2278"></div>
+    <div class="importInfBox_1_2278"></div>
+    <div class="importInfBox_2_2278"></div>
+    <div class="importInfBox_1_2278"></div>
+    <div class="importInfBox_1_2278"></div>
+    <div class="importInfBox_2_2278"></div>
+    <div class="importInfBox_1_2278"></div>
+    <div class="importInfBox_2_2278"></div>
+    <div class="importInfBox_1_2278"></div>-->
+    
+    
+    
+</div>
+
+<div class="mainInformBox_2288" id="faqs_block">
+    <br>
+                 <blue><b>e-Visa</b></blue>
+                 <hr>
+                 <b>What is an e-Visa?</b><br>
+		<p>An e-Visa is an easiest way to get permit of entry into the Kyrgyz Republic. All you need to do is to complete the online application form and pay with your credit/debit card instead of applying through the Kyrgyz mission. After receiving your e-Visa confirmation through this portal, you can enter the Kyrgyz Republic during e-Visa validity period. </p><br>
+                 <b>Who is eligible for e-Visa?</b><br>
+                 <p>Citizens of certain countries are eligible for the e-Visa provided that they meet required criteria. To find out these criteria, go to <b>Main Page</b>, click on <b>Apply for a visa</b> button and select your Country, Type of Travel Document and Visa Type.</p><br>
+                 <b>Do I have to obtain a visa if I do not leave the international transit area?</b><br>
+                 <p>No. You do not have to obtain a visa if you are not going to leave the international transit area.</p><br>
+				 
+                 <br>
+                 <blue><b>APPLICATION PROCESS</b></blue>
+                 <hr>
+                 <b>Can I choose the language I complete the application form in?</b><br>
+                 <p>No, you must fill in the application form in English.</p><br>
+                 <b>After submission I have realized that some of the information that I provided in the e-Visa application requires correction. What should I do?</b><br>
+                 <p>The process of application consists of certain steps. In the step <b>Preview & Confirmation</b> you have possibility to check once again, correct and confirm your data. After making payment You cannot change your data and must create a new e-Visa application.</p><br>
+                 <b>I have submitted first step of application and received verification email. Is there any time limit for making verification?</b><br>
+                 <p>Yes. For security reasons verification email is valid only for 72 hour. You should make verification within 72 hours after receiving email otherwise, your application will be canceled and you will have to start a visa application once again.</p><br>
+                 <b>Can I continue my e-Visa application if I am forced to leave it unfinished?</b><br>
+                 <p>Yes. Just enter into the section <b>Continue application</b> and enter your reference number. You will proceed to the steps which you have not completed yet. </p><br>
+                 <b>How will I know the status of my e-Visa application?</b><br>
+                 <p>You can know the status of your e-Visa application via this portal. Just enter the section <b>Check status </b> and enter your reference number. You will proceed to <b>Application Status</b> page where you can get information about status of your e-Visa application.</p><br>
+				 
+				 
+				 <br>
+                 <blue><b>ERRORS</b></blue>
+                 <hr>
+                 <b>I completed my application but haven't received any confirmation from you. Did you get my application?</b><br>
+                 <p>Please, check 'spam' and 'junk' folders as well. If this does not help, you should submit a new application and indicate different email address.</p><br>
+				 
+				 <br>
+                 <blue><b>PAYMENTS/REFUNDS</b></blue>
+                 <hr>
+                 <b>What does the CVV/CVC/CVC2 number mean?</b><br>
+                 <p>CCVV/CVC/CVC2 for Visa and MasterCard is the final three digits of the number printed on the signature strip on the back of your card.</p><br>
+                 <b>How much is a visa fee?</b><br>
+                 <p>Visa fee depends on visa category, type and period. 
+				 </p><br>
+                 <b>How do I pay for my application?</b><br>
+                 <p>After final checking and confirmation of your application you will proceed to payment step and make payment via standard electronic payment system. </p><br>
+                 <b>Should the card be under my name?</b><br>
+                 <p>No. The card does not have to be under your name.</p><br>
+                 <b>Can I get an invoice?</b><br>
+                 <p>We cannot provide an invoice for your payment. Once a successful payment has been made you will receive a payment confirmation email to the email address used for your application. The payment confirmation email will state the amount paid and application details.</p><br>
+                 <b>If my e-Visa application is denied, will my payment be refunded?</b><br>
+                 <p>No. e-Visa fee is not refundable.</p><br>
+                 <b>I have realized that some information on my e-Visa does not match the information on my travel document/passport. I know that my e-Visa is invalid. Can I get a refund?</b><br>
+                 <p>No. The applicant is responsible for any mistakes made in his/her application.</p><br>
+                 <b>Can I get a refund if I do not use my e-Visa?</b><br>
+                 <p>No. Visa fee is not refundable.</p><br>
+				 <br>
+                 <blue><b>DOCUMENT REQUIREMENTS</b></blue>
+                 <hr>
+                 <b>What kind of Documentation I need to apply for e-Visa?</b><br>
+                 <p>You will need valid travel Document/Passport, Photo and Credit/debit card. You need to have scanned images of your Document/Passport and digital photo to attach them to your electronic application according to the visa type.</p><br>
+                 <b>On which language should I present documentation?</b><br>
+                 <p>All documentation should be presented in Kyrgyz or Russian languages or translated to these languages.</p><br>
+                 <b>What are the requirements to my travel document/passport?</b><br>
+                 <p>Your travel document must meet the following criteria:<br>
+                    -Its validity shall extend at least for 6 months after the validity period of requested Kyrgyz visa<br>
+                    -Document should include not less then 2 free pages.<br>
+                    -Should not be damaged and should not include unofficial remarks.<br>
+                 
+				 <br>
+                 <blue><b>DURATION OF STAY/VALIDITY PERIOD</b></blue>
+                 <hr>
+                 <b>What is the difference between validity period and Duration of stay?</b><br>
+                 <p>Understanding the difference between the visa validity period and duration of stay is important. Validity period of a visa is generally longer than its duration. The validity establishes the first and last dates during which the visa can be used. The visa expires on the last day of its validity. Duration of stay indicates the length of time you have permission to remain in Kyrgyzstan within the validity period of the visa.</p><br>
+                 
+                 <blue><b>SUPPORT DESK/TECHNICAL HELP</b></blue>
+                 <hr>
+                 <b>I have accidentally deleted the mail with reference number of my e-Visa application. What should I do?</b><br>
+                 <p>Please, contact the support desk for this matter: </p><br></div>
+
+<div class="mainInformBox_2288" id="about_visa_block" style="text-align:left;color:white;">
+    <table style="background-color: rgba(211, 211, 211, 0.8); height: 73px; width: 100%; max-width: 100%; table-layout: auto;">
+<tbody>
+<tr>
+<td style="background: rgba(211, 211, 211, 0.8); padding: 15px;">
+<h2>Visa Information</h2>
+
+<p><strong>Diplomatic Visa (type "D")</strong> is issued to a foreign national holding a diplomatic passport who enters the Kyrgyz Republic on official business.<br />
+The Diplomatic Visa is issued to:<br />
+- heads of foreign states and governments, members of their families travelling with them, as well as members of foreign official delegations — with a validity of up to 90 days, unless otherwise provided for by an international treaty of the Kyrgyz Republic, or on the basis of the principle of reciprocity;<br />
+- persons holding diplomatic or consular positions in diplomatic missions and consular offices of foreign states, as well as officials of representative offices of international organizations in the Kyrgyz Republic enjoying diplomatic privileges and immunities, and members of their families (spouse, children and dependent parents) — for a period of up to 1 year, unless otherwise provided for by an international treaty of the Kyrgyz Republic or on the basis of the principle of reciprocity;<br />
+- foreign diplomatic couriers — with a validity of up to 90 calendar days, unless otherwise provided for by an international treaty of the Kyrgyz Republic, or on the basis of the principle of reciprocity.</p>
+
+<p><strong>Official Visa (type "O")</strong> is issued to a foreign national holding a service (official) passport who enters the Kyrgyz Republic on official business.<br />
+The Service Visa is issued to:<br />
+- foreign nationals invited by state authorities of the Kyrgyz Republic — with a validity of up to 90 calendar days;<br />
+- members of the administrative-technical and service personnel of diplomatic missions and consular offices of foreign states in the Kyrgyz Republic, as well as employees of representative offices of international organizations in the Kyrgyz Republic, and members of their families (spouse, children and dependent parents) — for a period of up to 1 year, unless otherwise provided for by an international treaty of the Kyrgyz Republic or on the basis of the principle of reciprocity;<br />
+- foreign couriers transporting diplomatic mail who do not hold a diplomatic passport — with a validity of up to 90 calendar days, unless otherwise provided for by an international treaty of the Kyrgyz Republic, or on the basis of the principle of reciprocity;<br />
+- dependent children over 18 years of age and parents (close relatives of the spouse) of staff of diplomatic missions or consular offices of foreign states accredited with the Ministry of Foreign Affairs — for a period of up to 1 year, on a parity basis subject to payment of the visa fee, upon request of the diplomatic mission or consular office of the foreign state.</p>
+
+<p><strong>Investment Visa (type "I")</strong> is issued to investors or heads of foreign investment companies carrying out investment activities in the Kyrgyz Republic and providing the necessary supporting documents certifying their contribution to the economy of the Kyrgyz Republic in the form of monetary and material assets intended for industrial, manufacturing, agricultural, banking, energy, educational, medical and engineering-construction purposes, as well as information and communication technologies:<br />
+- with a validity of up to 5 years, where the applicant has contributed to the country's economy monetary and material assets equivalent to at least 10,000,000 (ten million) soms;<br />
+- with a validity of up to 10 years, where the applicant has contributed to the country's economy monetary and material assets equivalent to at least 20,000,000 (twenty million) soms.</p>
+
+<p><strong>Special Work Visa (types "SW1" and "SW2")</strong> is issued to an applicant in respect of whom, in accordance with the legislation on external labour migration, a different procedure for carrying out labour activity is established.<br />
+- Type "SW1" — for seconded employees sent by foreign legal entities within the framework of agreements (contracts) being implemented on the territory of the Kyrgyz Republic for the installation (supervised installation) and repair of technological equipment supplied by them — with a validity of up to 60 calendar days, with the possibility of extension up to 1 year. The visa fee is determined in accordance with Annex 5 to this Interim Regulation, unless otherwise provided for by international treaties to which the Kyrgyz Republic is a party and which have entered into force in accordance with the established procedure.<br />
+- Type "SW2" — for journalists, correspondents and employees of charitable foundations, subject to the petition of the relevant state authority — with a validity of up to 60 calendar days, with the possibility of extension up to 1 year.</p>
+
+<p><strong>Student Visa (type "S")</strong> is issued for the purpose of undertaking studies — with a validity of up to 90 calendar days.</p>
+
+<p><strong>Driver Visa (type "T")</strong> is issued to foreign nationals entering the Kyrgyz Republic by freight motor transport for the purpose of carrying out international freight transportation. The Driver Visa is issued for a period of up to 6 months, on condition that the applicant's stay on the territory of the Kyrgyz Republic does not exceed 30 days per single trip, unless otherwise established by an international treaty of the Kyrgyz Republic or on the basis of the principle of reciprocity.</p>
+
+<p><strong>Relatives visa (type "RL")</strong> is issued for the purpose of visiting close relatives or family reunification — with a validity of up to 90 calendar days.<br />
+- Where necessary, a person recognized as a refugee may, subject to supporting documents and in coordination with the national security authorities, be issued a single-entry exit/re-entry "Tuugandar" visa with a validity of up to 60 calendar days.</p>
+
+<p><strong>Visa to ethnic kyrgyz "Meken" (type "M")</strong> is issued to ethnic Kyrgyz, with the possibility of subsequently obtaining "kayrylman" status, as well as to persons born on the territory of the Kyrgyz Republic or the Kirghiz SSR, for visiting or returning to the Kyrgyz Republic — with a validity of up to 1 year.<br />
+- Where necessary, a person holding "kayrylman" status may, in coordination with the authorized state body in the field of national security, be issued an exit/re-entry "Meken" visa — with a validity of up to 1 year.</p>
+
+<p><strong>Religion Visa (type "R")</strong> is issued to a missionary intending to visit the Kyrgyz Republic for the purpose of cooperation with religious organizations, subject to a permit issued by the authorized state body for religious affairs — with a validity of up to 60 calendar days.</p>
+
+<p><strong>Foreigner's family visa (type "FF")</strong> is issued to family members (spouse, children under 18 years of age, parents of underage children, as well as children with disabilities and dependent parents) of an applicant residing on the territory of the Kyrgyz Republic on the basis of visas of the categories Service ("O"), Investment ("I"), Special Work ("SW1", "SW2"), Family Visit "Tuugandar" ("RL"), Student ("S"), Digital Nomad ("DN"), as well as on the basis of a Unified Permit, a resident card, a residence permit or registration at the place of stay (with respect to citizens of states covered by the visa-free regime for stay on the territory of the Kyrgyz Republic), or "kayrylman" status — with a validity of up to 90 calendar days, without the right to engage in employment or individual entrepreneurial activity, or any other activities associated with the generation of profit on the territory of the Kyrgyz Republic.<br />
+- A family member of an applicant residing on the basis of an Investment Visa (type "I") shall be issued a Visa for Family Members of a Foreigner (type "FF") for the validity period of the Investment Visa (type "I"), free of consular service charges.</p>
+
+<p><strong>Transit Visa (type "TR")</strong> is issued for transit through the territory of the Kyrgyz Republic to third countries — with a validity of up to 3 calendar days.</p>
+
+<p><strong>Leave Visa (type "L")</strong> is issued to an applicant for the purpose of departing from the Kyrgyz Republic, taking into account the regularization of the overstayed period of stay — with a validity of up to 10 days, in the following cases:<br />
+- violation of the period and rules of stay defined by the visa or visa-free regime, in accordance with the legislation of the Kyrgyz Republic;<br />
+- refusal to issue, or annulment of, visas, the Unified Permit, or a resident card;<br />
+- refusal to issue or extend, or annulment of, a temporary or permanent residence permit;<br />
+- termination of studies or expulsion from an educational institution registered on the territory of the Kyrgyz Republic, or completion of studies;<br />
+- termination of investment activity confirmed by the authorized body in the field of investment policy implementation;<br />
+- a request from an asylum seeker, a person holding "kayrylman" status, or a person recognized as a refugee, where they voluntarily wish to leave the territory of the Kyrgyz Republic, following coordination with the authorized body in the field of national security.</p>
+
+<p><strong>Emergency Leave Visa (type "E")</strong> is issued free of charge in cases of severe illness or critical health condition preventing the applicant from leaving (relocating) independently, subject to a medical opinion and a petition from the head of the authorized state body in the field of healthcare — with a validity of up to 10 days.</p>
+
+<p><strong>Digital Nomad Visa (type "DN")</strong> is issued to foreign nationals or stateless persons upon the petition of the authorized state body in the field of digitalization and electronic governance, or to holders of "Digital Nomad" status engaged in information and communication technologies and the development of software products — with a validity of up to 1 year.</p>
+
+<p><strong>Business Visa (type "B")</strong> is issued for short-term stays of up to 90 calendar days for purposes not associated with the generation of profit, including participation in business events such as negotiations, conferences and meetings, sports events, and the receipt of medical services upon invitation from legal entities, irrespective of their form of ownership, or from international organizations. The Business Visa does not grant the right to engage in employment or individual entrepreneurial activity, or any other activities associated with the generation of profit on the territory of the Kyrgyz Republic.</p>
+
+<p><strong>Tourist Visa (type "TS")</strong> is issued for short-term stays for the purpose of tourism — with a validity of up to 30 calendar days.</p>
+
+<p><strong>Sapar Visa (type "J")</strong> is issued to an applicant intending to visit the Kyrgyz Republic upon a substantiated petition of state authorities and local self-government bodies of the Kyrgyz Republic — with a validity of up to 1 year, with the possibility of extension, for the purpose of participating in business events such as negotiations, conferences and meetings, and in sports events organized by state authorities and local self-government bodies. The "Sapar" visa does not grant the right to engage in employment or individual entrepreneurial activity, or any other activities associated with the generation of profit on the territory of the Kyrgyz Republic.</p>
+
+<br /><br />
+
+<p><strong>Unified Permit</strong> — a document containing information on the work visa, the permit to attract foreign labour, and the work permit, issued in electronic form by the authorized state body in the field of foreign affairs to a foreign worker, and bearing a special readable QR code.</p>
+</td>
+</tr>
+</tbody>
+</table></div>
+
+<div class="mainInformBox_2288" id="application_form_block" style="text-align:left;color:white;">
+    <table style="background-color: rgba(211, 211, 211, 0.8); height: 73px; width: 100%; max-width: 100%; table-layout: auto;">
+        <tr>
+            <td style="background: rgba(211, 211, 211, 0.8);padding: 15px;">
+                <a href="images/grajdanin.pdf?n=1" target="_blank" class="ssilInfo">Application from citizens</a><br><br>
+                <a href="images/yur_lico.pdf?n=1" target="_blank" class="ssilInfo">Application from legal entities</a><br><br>
+                <!-- <a href="images/sapar_turism.pdf?n=1" target="_blank" class="ssilInfo">Sample of written statement  for Sapar visa (type “J”) in case of visiting the Kyrgyz Republic for tourist purposes - (personal application, application from a tourist organization, as well as an application from a citizen of the Kyrgyz Republic)</a><br><br> 
+                <a href="images/sapar_business.pdf?n=1" target="_blank" class="ssilInfo">Sample application for a Sapar visa (type “J”) of a legal entity registered in the Kyrgyz Republic in case of a visit to the Kyrgyz Republic for business purposes</a><br><br>
+                <a href="images/sapar_medical.pdf?n=1" target="_blank" class="ssilInfo">Sample of written application of a medical institution registered in the Kyrgyz Republic for Sapar visa (type - J) in case of a visit to the Kyrgyz Republic for medical purposes</a><br><br> -->
+                <a href="images/med_institution.pdf?n=1" target="_blank" class="ssilInfo">Sample of written application of a medical institution registered</a><br><br> 
+                <a href="images/turism_ts.pdf?n=1" target="_blank" class="ssilInfo">Sample of written statement for Tourist visa (type - TS)</a><br><br> 
+                <a href="images/business_b.pdf?n=1" target="_blank" class="ssilInfo">Sample of written statement for Business visa (type - B)</a><br><br> 
+                <a href="images/up_yur_lico.pdf?n=1" target="_blank" class="ssilInfo">Application for uniform permit from LLC</a><br><br>
+                <a href="images/up_iip.pdf?n=1" target="_blank" class="ssilInfo">Application for uniform permit from individual entrepreneur
+</a><br><br>
+                <br><br><br><br>
+                <a href="images/grajdanin_rus.pdf?n=1" target="_blank" class="ssilInfo">Application from citizens in Russian</a><br><br>
+                <a href="images/yur_lico_rus.pdf?n=1" target="_blank" class="ssilInfo">Application from legal entities in Russian</a><br><br>
+                <!-- <a href="images/sapar_turism_rus.pdf?n=1" target="_blank" class="ssilInfo">Sample of written statement  for Sapar visa (type “J”) in case of visiting the Kyrgyz Republic for tourist purposes - (personal application, application from a tourist organization, as well as an application from a citizen of the Kyrgyz Republic) in Russian</a><br><br>
+                <a href="images/sapar_business_rus.pdf?n=1" target="_blank" class="ssilInfo">Sample application for a Sapar visa (type “J”) of a legal entity registered in the Kyrgyz Republic in case of a visit to the Kyrgyz Republic for business purposes in Russian</a><br><br>
+                <a href="images/sapar_medical_rus.pdf?n=1" target="_blank" class="ssilInfo">Sample of written application of a medical institution registered in the Kyrgyz Republic for Sapar visa (type - J) in case of a visit to the Kyrgyz Republic for medical purposes in Russian</a><br><br> -->
+                <a href="images/med_institution_rus.pdf?n=1" target="_blank" class="ssilInfo">Sample of written application of a medical institution registered in Russian</a><br><br>
+                <a href="images/turism_ts_rus.pdf?n=1" target="_blank" class="ssilInfo">Sample of written statement for Tourist visa (type - TS) in Russian</a><br><br>
+                <a href="images/business_b_rus.pdf?n=1" target="_blank" class="ssilInfo">Sample of written statement for Business visa (type - B) in Russian</a><br><br>
+                <a href="images/up_yur_lico_rus.pdf?n=1" target="_blank" class="ssilInfo">Application for uniform permit from LLC in Russian</a><br><br>
+                <a href="images/up_iip_rus.pdf?n=1" target="_blank" class="ssilInfo">Application for uniform permit from individual entrepreneur in Russian</a><br><br><br><br>
+                <b style="font-size: 16px;margin-left: 20px;">Резидент Карта:</b><br><br>
+                <a href="images/raspiska.docx" target="_blank" class="ssilInfo">Расписка физического лица о получении Платежной Карты</a><br><br>
+                <a href="images/vipusk_application_form.docx" target="_blank" class="ssilInfo">Заявление: Анкета на выпуск карты физическим лицам</a><br><br>
+
+            </td>
+        </tr>
+    </table>    
+</div>
+
+<style type="text/css">
+    .ssilInfo{
+        font-size: 16px;
+        color: black;
+        margin-left: 20px;
+    }
+    .ssilInfo:hover{
+        text-decoration: none;
+    }
+</style>
+
+       
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	
+        <br><br><br><br>
+        <table class="wdt_900" cellpadding="0" cellspacing="0">
+            <tr>
+                <td align="left">
+                    <a href="#" target="_blank"><img src="images/img/icon_tviter.png" /></a>
+                    <a href="#" target="_blank"><img src="images/img/icon_instagram.png" /></a>
+                    <a href="#" target="_blank"><img src="images/img/icon_facebook.png" /></a>
+                    <a href="#" target="_blank"><img src="images/img/icon_vkontakte.png" /></a>
+                </td>
+                <td align="right">
+                    <a href="http://www.mfa.gov.kg/" target="_blank"><img src="images/img/mid.png" /></a>
+                </td>
+            </tr>
+        </table>
+        <br>
+    
+    
+    </div>
+    <!-- mainContent End -->
+</center>	
+
+</body>
+</html>

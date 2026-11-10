@@ -1,0 +1,31 @@
+# OEP country-clearance report, Kyrgyzstan (country_id 94), yearly totals, all workers and women, queried 2026-11-10
+Kyrgyzstan all workers 2022-01-01 to 2022-12-31: total_employee 0 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2022-01-01&approval_date_to=2022-12-31&country_id%5B%5D=94&gender_id=)
+Kyrgyzstan men 2022-01-01 to 2022-12-31: total_employee 0 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2022-01-01&approval_date_to=2022-12-31&country_id%5B%5D=94&gender_id=1)
+Kyrgyzstan women 2022-01-01 to 2022-12-31: total_employee 0 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2022-01-01&approval_date_to=2022-12-31&country_id%5B%5D=94&gender_id=2)
+Kyrgyzstan all workers 2023-01-01 to 2023-12-31: total_employee 1713 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=94&gender_id=)
+Kyrgyzstan men 2023-01-01 to 2023-12-31: total_employee 1658 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=94&gender_id=1)
+Kyrgyzstan women 2023-01-01 to 2023-12-31: total_employee 55 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2023-01-01&approval_date_to=2023-12-31&country_id%5B%5D=94&gender_id=2)
+Kyrgyzstan all workers 2024-01-01 to 2024-12-31: total_employee 12747 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=94&gender_id=)
+Kyrgyzstan men 2024-01-01 to 2024-12-31: total_employee 12708 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=94&gender_id=1)
+Kyrgyzstan women 2024-01-01 to 2024-12-31: total_employee 39 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2024-01-01&approval_date_to=2024-12-31&country_id%5B%5D=94&gender_id=2)
+Kyrgyzstan all workers 2025-01-01 to 2025-12-31: total_employee 6652 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=94&gender_id=)
+Kyrgyzstan men 2025-01-01 to 2025-12-31: total_employee 6596 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=94&gender_id=1)
+Kyrgyzstan women 2025-01-01 to 2025-12-31: total_employee 56 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2025-01-01&approval_date_to=2025-12-31&country_id%5B%5D=94&gender_id=2)
+Kyrgyzstan all workers 2026-01-01 to 2026-11-09: total_employee 11 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-09&country_id%5B%5D=94&gender_id=)
+Kyrgyzstan men 2026-01-01 to 2026-11-09: total_employee 11 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-09&country_id%5B%5D=94&gender_id=1)
+Kyrgyzstan women 2026-01-01 to 2026-11-09: total_employee 0 (https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-09&country_id%5B%5D=94&gender_id=2)
+{"success":true,"code":null,"payload":{"data":[],"recordsTotal":0,"recordsFiltered":0,"totalEmployee":0},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[],"recordsTotal":0,"recordsFiltered":0,"totalEmployee":0},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[],"recordsTotal":0,"recordsFiltered":0,"totalEmployee":0},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1713}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":1713},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1658}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":1658},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":55}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":55},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":12747}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":12747},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":12708}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":12708},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":39}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":39},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":6652}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":6652},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":6596}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":6596},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":56}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":56},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":11}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":11},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":11}],"recordsTotal":1,"recordsFiltered":1,"totalEmployee":11},"type":"success","fade":false}
+{"success":true,"code":null,"payload":{"data":[],"recordsTotal":0,"recordsFiltered":0,"totalEmployee":0},"type":"success","fade":false}

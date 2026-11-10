@@ -9,6 +9,7 @@ Countries:
 - [Maldives](countries/maldives/) (draft, under review)
 - [Kuwait](countries/kuwait/) (draft, under review)
 - [Italy](countries/italy/) (draft, under review)
+- [Kyrgyzstan](countries/kyrgyzstan/) (draft, under review)
 
 For all countries:
 

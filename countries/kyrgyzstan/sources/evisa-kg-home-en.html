@@ -1,0 +1,224 @@
+<!DOCTYPE>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>e-VISA</title>
+	<script src="scripts/js/jquery-1.10.2.js" type="text/javascript" ></script>
+    <script src="scripts/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript" ></script>
+    <script src="scripts/js/general.js?v=52" type="text/javascript" ></script>
+    <script src="scripts/js/menu.js" type="text/javascript" ></script>
+    <link href="scripts/css/general.css?v=52" rel="stylesheet" type="text/css" />
+    <link href="scripts/css/menu.css?v=52" rel="stylesheet" type="text/css" />
+    <link href="scripts/css/flick/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+    <link href="scripts/css/tooltip.css" rel="stylesheet" type="text/css" />
+    <!--For Google Search  -->
+	<meta name="description" content="Welcome to the Kyrgyzstan Official Electronic Visa Portal! Visa to Kyrgyzstan for Tourist or Business. Apply now online. Easy, safe and fast application process." />
+    <meta name="Kyrgyz Republic evisa, Kyrgyz Republic electronic visa, Kyrgyz Republic visa, Kyrgyzstan visa, Kyrgyzstan electronic visa, Kyrgyzstan evisa, Kyrgyz online visa, Kyrgyzstan online visa, Kyrgyz Republic online visa" />
+	<!--For Google Search  -->
+</head>
+<body>
+
+
+<!-- modal-dialog Dialog -->
+<div class="modal-dialog">
+      <div class="modal-dialog-content">
+            <div class="modal-dialog-header">
+              <span class="modal-dialog-close" onClick="$('.modal-dialog').hide();">×</span>
+              <span class="modal-dialog-title">Notification</span>
+            </div>
+            <div class="modal-dialog-body">
+              <p>Text in the modal-dialog Body</p>
+            </div>
+            <div class="modal-dialog-footer">
+              <div class="modal-dialog-ok" onClick="$('.modal-dialog').hide();">Ok</div>
+            </div>
+      </div>
+</div>
+<!-- modal-dialog Dialog -->
+
+<!-- Loading -->
+<div class="spinner">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+<!-- Loading -->
+
+	
+<center>
+    <!-- mainContent Start -->
+    <div class="mainContent">
+        <div class="topBar_1975">
+            <table cellpadding="0" cellspacing="0" width="1100">
+            	<tr>
+                	<td align="left"><a href="index.php"><img src="images/img/logo.png" class="logo_6999" /></a></td>
+                    <td align="right">
+                        <nav role="navigation" class="nav">
+                            <ul class="nav-items">
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link"><span>SERVICES</span></a>
+                                    <nav class="submenu">
+                                        <ul class="submenu-items">
+                                            <li class="submenu-item" onClick="window.location.href='step_1.php?lng=en';"><a class="submenu-link">Apply for a visa</a></li>
+                                            <li class="submenu-item" onClick="window.location.href='check_status.php?lng=en';"><a class="submenu-link">Continue your application</a></li>
+                                            <li class="submenu-item" onClick="window.location.href='check_status.php?lng=en';"><a class="submenu-link">Check status</a></li>
+                                            <!--<li class="submenu-item"><a href="" class="submenu-link"></a></li>-->
+                                            <li class="submenu-item" onClick="window.location.href='transfer_visa.php?lng=en';"><a class="submenu-link">Visa transfer to new passport</a></li>
+                                            <li class="submenu-item" onClick="window.location.href='check_status.php?lng=en';"><a class="submenu-link">Speed up e-Visa application review</a></li>
+                                        </ul>
+                                    </nav>
+                                </li>
+                                <li class="nav-item"><a href="about_kyrgyzstan.php?lng=en" class="nav-link"><span>ABOUT KYRGYZSTAN</span></a></li>
+                                <li class="nav-item"><a href="get_information.php?lng=en" class="nav-link"><span>INFORMATION</span></a></li> 
+                                <li class="nav-item"><a href="contact_us.php?lng=en" class="nav-link"><span>CONTACT US</span></a></li>
+                                                                <li class="nav-item" style="margin-left:25px;margin-right:7px;"><a href="index.php?lng=ky" class="nav-link"><span alt="ky" class="">KG</span></a></li>
+                                <li class="nav-item" style="margin-right:7px;"><a href="index.php?lng=ru" class="nav-link"><span alt="ru" class="">RU</span></a></li> 
+                                <li class="nav-item" style="margin-right:7px;"><a href="index.php?lng=en" class="nav-link"><span alt="en" class="actLang">EN</span></a></li>
+                            </ul>
+                        </nav>
+                    </td>
+                    <td align="right" valign="top">
+                                            	   <a href="login.php?lng=en" class="ssil_1177" style="line-height:30px;">Log in to personal account </a>
+                                            </td>
+                </tr>
+            </table>
+        </div>
+
+
+  
+
+
+<!-- Fashion Slider Start -->
+<link href="scripts/css/slider.css" rel="stylesheet" type="text/css" />
+<script src="scripts/js/slider.js" type="text/javascript" ></script>
+<script type="text/javascript" charset="utf-8">
+    var $ = jQuery.noConflict();
+	$(window).load(function() {
+		$('.flexslider').flexslider({
+			  animation: "fade",
+			  slideshowSpeed: 10000,
+			  animationSpeed: 800
+		});
+		var t = $('.flexslider').position().top+$('.flexslider').height();
+		$('.slideButtons').css('top',t-700+'px');
+		$('.box_4577').css('top',t-245+'px');
+	});
+  	$(window).on('resize', function(){
+		var t = $('.flexslider').position().top+$('.flexslider').height();
+		$('.slideButtons').css('top',t-700+'px');
+		$('.box_4577').css('top',t-245+'px');
+	});
+	$(document).ready(function () {
+		var t = $('.flexslider').position().top+$('.flexslider').height();
+		$('.slideButtons').css('top',t-700+'px');
+		$('.box_4577').css('top',t-245+'px');
+	});
+</script>
+
+<div class="slider_container">
+    <div class="flexslider">
+	<ul class="slides">
+            <!--<li><img src="images/fashion_slider/slider/slide15.jpg" alt="" title="" style="width:100%;height:600px;" /></li>-->
+            <li><img src="images/fashion_slider/slider/slide2.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide4.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide1.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide6.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide7.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide10.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide11.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide12.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+            <li><img src="images/fashion_slider/slider/slide14.jpg" alt="" title="" style="width:100%;height:600px;" /></li>
+        </ul>
+  	</div>
+</div>
+<!-- Fashion Slider End -->
+
+<br><br><br>
+<table class="wdt_900" cellpadding="0" cellspacing="0">
+	<tr><td align="center" colspan="4" style="padding-bottom:35px;"><span class="labServ_6411">Services</span></td></tr>
+    <tr>
+        <td align="center" class="td_2772"><img src="images/img/login.png" width="87" /><br><br><br><a href="login.php?lng=en" class="ssil_2287">Uniform permit</a></td>
+        <td align="center" class="td_2772"><img src="images/img/apply.png" /><br><br><br><a href="step_1.php?lng=en" class="ssil_2287">Apply for a visa</a></td>
+        <td align="center" class="td_2772"><img src="images/img/continue.png" /><br><br><br><a href="check_status.php?lng=en" class="ssil_2287">Continue your application</a></td>
+        <td align="center" class="td_2772" style="border-right:1px solid #444549;"><img src="images/img/check.png" /><br><br><br><a href="check_status.php" class="ssil_2287">Check status</a></td>
+    </tr>
+    <tr>
+        <td align="center" class="td_2772" colspan="2"><br><br><img src="images/img/file-transfer-line.png" /><br><br><br><a href="transfer_visa.php?lng=en" class="ssil_2287">Visa transfer to new passport</a></td>
+        <td align="center" class="td_2772" colspan="2" style="border-right:1px solid #444549;"><br><br><img src="images/img/speed-up-line.png" /><br><br><br><a href="check_status.php?lng=en" class="ssil_2287">Speed up e-Visa application review</a></td>
+    </tr>
+
+    <tr><td align="center" colspan="4" style="padding-top:60px;padding-bottom:35px;">
+        <video controls autoplay style="width:600px;">
+          <source src="videos/0001-0502.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+    </td></tr>
+
+    <tr><td align="center" colspan="4" style="padding-top:60px;padding-bottom:35px;"><span class="labServ_6411">ABOUT E-VISA</span></td></tr>
+    <tr><td align="left" colspan="4">
+    	<p class="text_5698">Ministry of Foreign Affairs of Kyrgyzstan has launched e-Visa portal to facilitate visa issuance process for genuine travellers.
+            	<br><br>                
+               	Electronic visa application does not require more information than traditional paper application and it grants the same right to enter Kyrgyzstan territory as ordinary sticker-visa in the passport.
+            	<br><br>
+                Applying for a visa through this portal has lots of advantages. No need to make an appointment or present original documents to the Embassy or Consular Office. 
+            	<br><br>
+                All you need is internet connection, credit or debit card for making payment and scanned copies of your documents. 
+            	<br><br><br>
+                You can check if you are eligible for e-Visa by going Home Page >>> Get information >>> Do I need visa?  and selecting your country/region of travel document. Each traveler must obtain a separate e-Visa, including infants and children (even if children/infants are included in their parents’ passports).
+                <br><br>
+		</p>
+    </td></tr>
+    <tr><td align="center" colspan="4" style="padding-top:60px;"><a href="step_1.php" class="ssil_2234">APPLY FOR A VISA</a></td></tr>
+</table>
+<br><br><br>
+
+
+<div class="contactUsBlock_4777">
+	<form id="contact_us_form">
+        <table class="wdt_900" cellpadding="0" cellspacing="0">
+            <tr><td colspan="2" align="center"><span class="labServ_6411" style="color:#747474;">CONTACT US</span></td></tr>
+            <tr>
+                <td align="center">
+                    <input type="text" class="inp_3474" value="" placeholder="NAME" name="firstname" id="firstname" required />
+                </td>
+                <td align="center">
+                    <input type="text" class="inp_3474" value="" placeholder="E-MAIL" name="email" id="email" required />
+                </td>
+            </tr>
+            <tr><td colspan="2" align="center">
+                <textarea class="area_3474" placeholder="MESSAGE" name="message" id="message" required></textarea>
+            </td></tr>
+            <tr><td colspan="2" align="center">
+                <input type="button" style="width:150px;" class="btn_3256" value="SEND" onClick="contact_us_next_2();" />
+                <div class="messSucc_7733"> &nbsp;&nbsp;&nbsp; Message successfully sent</div>
+            </td></tr>
+        </table>
+    </form>
+</div>
+
+
+	
+        <br><br><br><br>
+        <table class="wdt_900" cellpadding="0" cellspacing="0">
+            <tr>
+                <td align="left">
+                    <a href="#" target="_blank"><img src="images/img/icon_tviter.png" /></a>
+                    <a href="#" target="_blank"><img src="images/img/icon_instagram.png" /></a>
+                    <a href="#" target="_blank"><img src="images/img/icon_facebook.png" /></a>
+                    <a href="#" target="_blank"><img src="images/img/icon_vkontakte.png" /></a>
+                </td>
+                <td align="right">
+                    <a href="http://www.mfa.gov.kg/" target="_blank"><img src="images/img/mid.png" /></a>
+                </td>
+            </tr>
+        </table>
+        <br>
+    
+    
+    </div>
+    <!-- mainContent End -->
+</center>	
+
+</body>
+</html>

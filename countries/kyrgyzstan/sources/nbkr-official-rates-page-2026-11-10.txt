@@ -1,0 +1,638 @@
+
+
+            National Bank of the Kyrgyz Republic
+
+NATIONAL BANK OF
+THE KYRGYZ REPUBLIC
+
+КЫР
+
+РУС
+
+ENG
+
+About the Bank  
+
+About bank
+
+Aims, objectives and functions of the National Bank of the Kyrgyz  Republic 
+
+Legal status
+
+Board of the National Bank of the Kyrgyz Republic 
+
+Organizational structure
+
+Regional departments
+
+Main Committees
+
+Strategic directions for activities of the National Bank
+
+Combating money laundering and terrorist financing 
+
+Banking legislation
+
+Normative legal acts of the National Bank
+
+Procurements and sales
+
+The policy "On procurement of goods, works and services by the  National Bank of the Kyrgyz Republic"
+
+The base of unreliable and unfair counterparties (suppliers /  contractors) of the National Bank
+
+Procurements
+
+List of required documents for participation in the tender
+
+List of necessary documents for participation in the request for  quotations
+
+-
+
+-
+
+Employment
+
+-
+
+-
+
+International cooperation
+
+Integration cooperation
+
+Cooperation with international organizations
+
+Bilateral cooperation
+
+International seminars and conferences
+
+Remarkable Dates of the National Bank
+
+Core functions  
+
+Monetary policy
+
+Statement of the National Bank of the Kyrgyz Republic on the  monetary policy
+
+Joint Statement of the Kyrgyz Republic Government and the   National Bank of the Kyrgyz Republic
+
+Main monetary policy guidelines
+
+Monetary policy report
+
+Monetary policy instruments  
+
+Schedule of the Board meetings on policy rate
+
+Reserve requirement calendar
+
+Press releases of the Board's meetings on policy rate
+
+Banking system
+
+Non-bank financial organizations
+
+Payment system
+
+Special regulatory regimes
+
+Islamic financing principles
+
+National currency
+
+Banknotes
+
+Circulation coins 
+
+Collection Coins
+
+Stages of the national currency development 
+
+International Awards
+
+Сriminal sanction for counterfeiting  
+
+General information about the reproduction of banknotes
+
+How to exchange old and defective banknotes
+
+How to buy uncut sheets with national currency banknotes 
+
+Markets and liquidity  
+
+BIR rate
+
+Policy rate of the National Bank of the Kyrgyz Republic
+
+National Bank' Notes
+
+Auction of Notes
+
+Secondary market of notes 
+
+Volume of notes in circulation
+
+Treasury Bills of the Ministry of Finance of the Kyrgyz Republic
+
+Auctions of State Treasury Bills 
+
+Secondary market of State Treasury Bills 
+
+Volume of State Treasury Bills in circulation 
+
+Treasury Bonds of the Ministry of Finance of the Kyrgyz Republic
+
+Auction of  State Treasury Bonds 
+
+Secondary markets of State Treasury Bonds 
+
+Volume of State Treasury Bonds in circulation
+
+National Bank' operations with GS on secondary market
+
+REPO operations
+
+Purchase/sale of government securities on outright terms
+
+Deposit operations of the National Bank
+
+Deposit operations in the national currency
+
+Deposit operations in foreign currency
+
+National Bank' credit operations
+
+Refinancing transactions
+
+7 days credit auctions
+
+Credit auctions
+
+Yield Curve of GS and National Bank Notes
+
+National Bank' currency operations
+
+Operations in the foreign currency market
+
+Official exchange rates 
+
+SWAP operations
+
+Interbank market
+
+Interbank market of credit resources 
+
+Interbank foreign currency trading
+
+Interbank swap operations
+
+Historical data
+
+History of the National Bank operations in the foreign currency market from 1996 to 2009
+
+History of the interbank foreign currency trading 1996 to 2009
+
+Publications  
+
+Annual report
+
+Publications
+
+Financial Sector Stability Report of the Kyrgyz Republic
+
+Bulletin of the National Bank of the Kyrgyz Republic
+
+Balance of payments
+
+Monetary policy report
+
+Banking system development trends
+
+Press release
+
+Working and analytical papers
+
+Digital Financial Technologies (FinTech)
+
+Statistics  
+
+Monetary statistics
+
+Monetary review
+
+Review of other deposit corporations 
+
+Survey of the National Bank of the Kyrgyz Republic
+
+Balance sheet of the National Bank of the Kyrgyz Republic
+
+Visual representation of data
+
+Banking statistics
+
+Review of the banking system of the Kyrgyz Republic 
+
+Reserves of commercial banks
+
+Deposits in commercial banks by the end of the period 
+
+Newly accepted deposits by commercial banks within the period
+
+Deposits in commercial banks by regions of the Kyrgyz Republic, at  the end of period
+
+Credits of commercial banks by the end of the period
+
+Newly issued credits by commercial banks within the period
+
+Credits of commercial banks by regions of the Kyrgyz Republic, at  the end of period
+
+External sector of the economy
+
+External-economic indicators
+
+Balance of payments of the Kyrgyz Republic  
+
+Gross international reserves
+
+International investment position
+
+International reserves and liquidity in foreign currency
+
+Remittance
+
+Real and Nominal Effective Exchange Rate Indices
+
+International Trade
+
+NFCO statistics
+
+The calendar of information update
+
+Services for the Public  
+
+Money museum
+
+Money museum
+
+Exhibition of the numismatic museum
+
+Historical figures on banknotes
+
+Bars
+
+Gold bars
+
+1 gram
+
+2 gram
+
+5 gram
+
+10 gram
+
+31,1035 gram
+
+100 gram
+
+How to buy and sell gold bars
+
+Refined gold bars
+
+Information for customers of financial services
+
+-
+
+Types of state securities
+
+> Menu Item
+
+< Hide menu section
+
+Operations in the foreign currency market
+
+Official exchange rates 
+
+SWAP operations
+
+ National Bank' currency operations  
+
+ Official exchange rates  
+
+                            Creation date: 2009-08-10
+
+List of quoted currencies
+
+Official exchange rates (data from 1993 to 2009)
+
+Official exchange rate of USD (data from 2010), official exchange rates of EUR, RUB, KZT (data from 2012), CNY (data from 2024)
+
+Official exchange rates of foreign currencies determined on weekly basis (data from 2010)
+
+   XML files for auto load:
+
+Currencies reference list in XML
+:
+  https://www.nbkr.kg/XML/CurrenciesReferenceList.xml
+
+Official exchange rates of USD, EUR, RUB, KZT, CNY determined on daily basis (last data)
+:
+  https://www.nbkr.kg/XML/daily.xml
+
+Official exchange rates of foreign currencies determined on weekly basis (last data)
+:
+  https://www.nbkr.kg/XML/weekly.xml
+
+Description of XML
+
+Official exchange rates
+
+  Search the currency and the period (maximal period – 1 year):
+
+from 07.11.2026
+
+ISO code
+4217
+Name of the currency
+Rate
+(to Kyrgyzstan som)
+Change of rate (%)
+AUD
+      1 Australian Dollar
+60,1247 
+
+-2,23%  
+AZN
+      1 Azerbaijan manat
+51,4399 
+
+0,00%  
+GBP
+      1 British pound sterling
+117,0882 
+
+-0,19%  
+AMD
+      10 Armenian dram
+2,4264 
+
+-0,03%  
+AFN
+      1 Afghanistan Afghani
+1,3429 
+
+-0,13%  
+BRL
+      1 Brazilian Real
+15,8880 
+
+-2,22%  
+HUF
+      10 Hungarian forint
+2,6839 
+
++0,28%  
+KRW
+      1 South Korean Won
+0,0645 
+
+-1,53%  
+GEL
+      1 Georgian Lari
+33,6921 
+
++0,01%  
+DKK
+      1 Danish krone
+13,0769 
+
+-0,16%  
+AED
+      1 UAE Dirham
+23,8080 
+
++0,00%  
+INR
+      1 Indian rupee
+0,9304 
+
++1,13%  
+CAD
+      1 Canadian Dollar
+62,1343 
+
+-0,78%  
+KWD
+      1 Kuwaiti dinar
+284,0598 
+
++0,13%  
+MYR
+      1 Malaysian Ringgit
+21,5442 
+
+-0,06%  
+MDL
+      1 Moldovan leu
+4,8799 
+
++0,65%  
+MNT
+      1 Mongolian tugrik
+0,0243 
+
++0,00%  
+TRY
+      1 New Turkish Lira
+1,7435 
+
+-0,66%  
+NZD
+      1 New Zealand dollar
+48,4854 
+
+-1,79%  
+TWD
+      1 New Taiwan Dollar
+2,6679 
+
+-0,57%  
+TMT
+      1 New Turkmenistan Manat
+24,9851 
+
+0,00%  
+NOK
+      1 Norwegian krone
+9,3142 
+
+-1,95%  
+PKR
+      1 Pakistan Rupee
+0,3162 
+
++0,03%  
+PLN
+      1 Polish zloty
+22,2437 
+
+-0,21%  
+XDR
+      1 SDR
+118,6103 
+
++0,28%  
+SGD
+      1 Singapore Dollar
+68,2679 
+
+-0,27%  
+TJS
+      1 Tajikistan somoni
+9,4962 
+
++0,08%  
+UAH
+      1 Ukrainian hryvnia
+1,9243 
+
++0,19%  
+CZK
+      1 Czech koruna
+4,0186 
+
+-0,09%  
+SEK
+      1 Swedish krona
+8,8543 
+
+-0,60%  
+CHF
+      1 Swiss franc (rappe)
+106,8652 
+
++0,42%  
+JPY
+      10 Japanese yen
+5,5291 
+
+-0,52%  
+SAR
+      1 Saudi Arabian Riyal
+23,2977 
+
+-0,02%  
+BYN
+      1 Belarussian ruble
+29,2321 
+
+-1,52%  
+OMR
+      1 Omani rial
+227,1253 
+
+0,00%  
+HKD
+      1 Hong Kong dollar
+11,1533 
+
++0,07%  
+IDR
+      10 Indonesian rupiah
+0,0484 
+
++0,41%  
+IRR
+      100 Iranian Rial
+0,0046 
+
+-2,13%  
+UZS
+      10 Uzbekistan sum
+0,0730 
+
++0,69%  
+BHD
+      1 Bahraini Dinar
+231,7726 
+
++0,08%  
+VND
+      10 Vietnamese dong
+0,0342 
+
++0,88%  
+THB
+      1 Thai baht
+2,6065 
+
++0,43%  
+
+*
+   Since January 1, 2010 the official exchange rate of USD since January 1, 2012 the official exchange rates of EUR, RUB, KZT and since September 1, 2024 the official exchange rate of CNY are determined on a daily basis, the official exchange rates of other currencies are determined on a weekly basis.
+
+**
+   The National Bank determines and announces the official rates of foreign currencies against the som for the purposes of its use in accounting and calculations, without the obligation of the National Bank to buy or sell foreign currencies at the established rates (according to the Rules).
+
+Contacts
+
+                    Public Information Service
+
++996 (312) 61-04-86
++996 (312) 66-90-15 +1257, +1256
+
+                    Consumer protection department
+
++996 (312) 66-90-15 +1671, +1666
+
+                    Inform about corruption
+
++996 (312) 66-90-15 +2120
++996 (312) 61-04-00
+
+                    Autoinformer official exchange rates
+
++996 (312) 61-07-11
+
+                    Numismatic museum
+
++996 (312) 66-90-15 +1232 
+ +996 (312) 61-24-14
+
+E-mail
+
+mail@nbkr.kg
+
+                    Working with the media
+
+press@nbkr.kg
+
+                    189 Kyiv St, Bishkek, 720010, Kyrgyz Republic
+
+        Quick links
+
+                        President
+
+                    Jogorku Kenesh
+
+                        Cabinet of Ministers
+
+                        Closed Joint Stock Company 
+ «Interbank processing center»
+
+                        Open Joint-stock Company 
+ «Guarantee fund»
+
+                        Closed Joint Stock Company 
+ «Kyrgyz collection»
+
+State bodies
+
+                    Financial education
+
+                    Numismatic coins  sales  web site
+
+            State portal of electronic services
+
+                    Permitting documents of the Kyrgyz Republic
+

@@ -1,0 +1,531 @@
+
+
+e-VISA
+
+×
+
+Notification
+
+Text in the modal-dialog Body
+
+Ok
+
+Log in to personal account 
+
+GET INFORMATION
+
+DO I NEED VISA?
+
+IMPORTANT INFORMATION
+
+FAQS
+
+ABOUT VISA TYPES AND CATEGORIES
+
+APPLICATION FORMS
+
+ This tool provides general information about visa eligibility for holders of passports and documents of different countries. To check visa eligibility, please choose country of your passport below. You will be provided with is information about
+
+				- exemption or requirement of obtain entry visa to enter the Kyrgyz Republic,
+
+				- available mechanism of obtaining visa.
+
+ Permanent residents of Special Administrative Regions of China, the Hong Kong and Macao,  (Hong Kong SAR, Macau SAR) have a 30-day visa-free regime for all types of travel documents (dip., service, ordinary). 
+
+Citizens of the Maldives have a 30-day visa-free regime for all types of travel documents.
+
+select country
+
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Macao
+Colombia
+Comoros
+Congo
+Democratic Republic of the Congo
+Costa Rica
+Cote dIvoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Democratic Peoples Republic of Korea
+Korea
+Kuwait
+Lao PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+UN Employee
+
+Regime
+
+Ordinary Passport
+
+Service Passport
+
+Diplomatic passport
+
+Ordinary Passport*
+
+Resident card (temporary residence permit) is a document confirming the right for a long-term residence in the territory of a state of a person who is not a citizen of this state.
+
+You can check if you are eligible to get Kyrgyz Republic visa and other information about entry and stay regime of foreign citizens in Kyrgyz Republic in “do i need visa?” sector.
+
+After arriving in Kyrgyz Republic, foreign country citizens, except counties, included in a list (the list of foreign countries with the indication of the terms for the release of foreign citizens and stateless persons arriving in the Kyrgyz Republic from registration at the place of their stay in authorized state bodies, as well as in hotels) are obliged to register according to the place of stay in 5 work days after the moment of entry.
+
+You can make your online payment by credit/debit card. The card is not required to be under your name. Make sure that Your card is open to international transactions.
+
+Please, make sure the filled information is correct. In case of any mistakes, your e-visa application will be rejected.
+
+There is no refund in case of rejection of e-visa.
+
+Please,avoid buying the air ticket before getting the notice of approval to you the electronic visa.
+
+If you have any questions, please contact us by the following numbers:
+
++996703428865
+
++996999312002
+
+Dear applicant, please read the step-by-step instructions in case the System returns Your application. 
+
+If you Your application was returned by the System, you will receive a message to your email address specified in the application about the need to make corrections, download the necessary package of documents or make a payment .
+
+After receiving еру message, you will need to return to our official website evisa.e-gov.kg, select the Services section-Check the status, enter the reference number and You will be redirected to the page of correction of Your application.
+
+Lines that require corrections will be marked in red. You will need to click on the "tick" icon, make changes and click on the same icon again. 
+
+After making changes and checking the correctness of all data, you need to click the "Submit" button.
+
+Attention! The application review period 5 working days starts from the moment of correcting all the necessary information or adding the necessary package of documents.
+
+e-Visa
+
+What is an e-Visa?
+
+An e-Visa is an easiest way to get permit of entry into the Kyrgyz Republic. All you need to do is to complete the online application form and pay with your credit/debit card instead of applying through the Kyrgyz mission. After receiving your e-Visa confirmation through this portal, you can enter the Kyrgyz Republic during e-Visa validity period. 
+
+Who is eligible for e-Visa?
+
+Citizens of certain countries are eligible for the e-Visa provided that they meet required criteria. To find out these criteria, go to 
+Main Page
+, click on 
+Apply for a visa
+ button and select your Country, Type of Travel Document and Visa Type.
+
+Do I have to obtain a visa if I do not leave the international transit area?
+
+No. You do not have to obtain a visa if you are not going to leave the international transit area.
+
+APPLICATION PROCESS
+
+Can I choose the language I complete the application form in?
+
+No, you must fill in the application form in English.
+
+After submission I have realized that some of the information that I provided in the e-Visa application requires correction. What should I do?
+
+The process of application consists of certain steps. In the step 
+Preview & Confirmation
+ you have possibility to check once again, correct and confirm your data. After making payment You cannot change your data and must create a new e-Visa application.
+
+I have submitted first step of application and received verification email. Is there any time limit for making verification?
+
+Yes. For security reasons verification email is valid only for 72 hour. You should make verification within 72 hours after receiving email otherwise, your application will be canceled and you will have to start a visa application once again.
+
+Can I continue my e-Visa application if I am forced to leave it unfinished?
+
+Yes. Just enter into the section 
+Continue application
+ and enter your reference number. You will proceed to the steps which you have not completed yet. 
+
+How will I know the status of my e-Visa application?
+
+You can know the status of your e-Visa application via this portal. Just enter the section 
+Check status 
+ and enter your reference number. You will proceed to 
+Application Status
+ page where you can get information about status of your e-Visa application.
+
+ERRORS
+
+I completed my application but haven't received any confirmation from you. Did you get my application?
+
+Please, check 'spam' and 'junk' folders as well. If this does not help, you should submit a new application and indicate different email address.
+
+PAYMENTS/REFUNDS
+
+What does the CVV/CVC/CVC2 number mean?
+
+CCVV/CVC/CVC2 for Visa and MasterCard is the final three digits of the number printed on the signature strip on the back of your card.
+
+How much is a visa fee?
+
+Visa fee depends on visa category, type and period. 
+
+How do I pay for my application?
+
+After final checking and confirmation of your application you will proceed to payment step and make payment via standard electronic payment system. 
+
+Should the card be under my name?
+
+No. The card does not have to be under your name.
+
+Can I get an invoice?
+
+We cannot provide an invoice for your payment. Once a successful payment has been made you will receive a payment confirmation email to the email address used for your application. The payment confirmation email will state the amount paid and application details.
+
+If my e-Visa application is denied, will my payment be refunded?
+
+No. e-Visa fee is not refundable.
+
+I have realized that some information on my e-Visa does not match the information on my travel document/passport. I know that my e-Visa is invalid. Can I get a refund?
+
+No. The applicant is responsible for any mistakes made in his/her application.
+
+Can I get a refund if I do not use my e-Visa?
+
+No. Visa fee is not refundable.
+
+DOCUMENT REQUIREMENTS
+
+What kind of Documentation I need to apply for e-Visa?
+
+You will need valid travel Document/Passport, Photo and Credit/debit card. You need to have scanned images of your Document/Passport and digital photo to attach them to your electronic application according to the visa type.
+
+On which language should I present documentation?
+
+All documentation should be presented in Kyrgyz or Russian languages or translated to these languages.
+
+What are the requirements to my travel document/passport?
+
+Your travel document must meet the following criteria:
+
+                    -Its validity shall extend at least for 6 months after the validity period of requested Kyrgyz visa
+
+                    -Document should include not less then 2 free pages.
+
+                    -Should not be damaged and should not include unofficial remarks.
+
+DURATION OF STAY/VALIDITY PERIOD
+
+What is the difference between validity period and Duration of stay?
+
+Understanding the difference between the visa validity period and duration of stay is important. Validity period of a visa is generally longer than its duration. The validity establishes the first and last dates during which the visa can be used. The visa expires on the last day of its validity. Duration of stay indicates the length of time you have permission to remain in Kyrgyzstan within the validity period of the visa.
+
+SUPPORT DESK/TECHNICAL HELP
+
+I have accidentally deleted the mail with reference number of my e-Visa application. What should I do?
+
+Please, contact the support desk for this matter: 
+
+Visa Information
+
+Diplomatic Visa (type "D")
+ is issued to a foreign national holding a diplomatic passport who enters the Kyrgyz Republic on official business.
+
+The Diplomatic Visa is issued to:
+
+- heads of foreign states and governments, members of their families travelling with them, as well as members of foreign official delegations — with a validity of up to 90 days, unless otherwise provided for by an international treaty of the Kyrgyz Republic, or on the basis of the principle of reciprocity;
+
+- persons holding diplomatic or consular positions in diplomatic missions and consular offices of foreign states, as well as officials of representative offices of international organizations in the Kyrgyz Republic enjoying diplomatic privileges and immunities, and members of their families (spouse, children and dependent parents) — for a period of up to 1 year, unless otherwise provided for by an international treaty of the Kyrgyz Republic or on the basis of the principle of reciprocity;
+
+- foreign diplomatic couriers — with a validity of up to 90 calendar days, unless otherwise provided for by an international treaty of the Kyrgyz Republic, or on the basis of the principle of reciprocity.
+
+Official Visa (type "O")
+ is issued to a foreign national holding a service (official) passport who enters the Kyrgyz Republic on official business.
+
+The Service Visa is issued to:
+
+- foreign nationals invited by state authorities of the Kyrgyz Republic — with a validity of up to 90 calendar days;
+
+- members of the administrative-technical and service personnel of diplomatic missions and consular offices of foreign states in the Kyrgyz Republic, as well as employees of representative offices of international organizations in the Kyrgyz Republic, and members of their families (spouse, children and dependent parents) — for a period of up to 1 year, unless otherwise provided for by an international treaty of the Kyrgyz Republic or on the basis of the principle of reciprocity;
+
+- foreign couriers transporting diplomatic mail who do not hold a diplomatic passport — with a validity of up to 90 calendar days, unless otherwise provided for by an international treaty of the Kyrgyz Republic, or on the basis of the principle of reciprocity;
+
+- dependent children over 18 years of age and parents (close relatives of the spouse) of staff of diplomatic missions or consular offices of foreign states accredited with the Ministry of Foreign Affairs — for a period of up to 1 year, on a parity basis subject to payment of the visa fee, upon request of the diplomatic mission or consular office of the foreign state.
+
+Investment Visa (type "I")
+ is issued to investors or heads of foreign investment companies carrying out investment activities in the Kyrgyz Republic and providing the necessary supporting documents certifying their contribution to the economy of the Kyrgyz Republic in the form of monetary and material assets intended for industrial, manufacturing, agricultural, banking, energy, educational, medical and engineering-construction purposes, as well as information and communication technologies:
+
+- with a validity of up to 5 years, where the applicant has contributed to the country's economy monetary and material assets equivalent to at least 10,000,000 (ten million) soms;
+
+- with a validity of up to 10 years, where the applicant has contributed to the country's economy monetary and material assets equivalent to at least 20,000,000 (twenty million) soms.
+
+Special Work Visa (types "SW1" and "SW2")
+ is issued to an applicant in respect of whom, in accordance with the legislation on external labour migration, a different procedure for carrying out labour activity is established.
+
+- Type "SW1" — for seconded employees sent by foreign legal entities within the framework of agreements (contracts) being implemented on the territory of the Kyrgyz Republic for the installation (supervised installation) and repair of technological equipment supplied by them — with a validity of up to 60 calendar days, with the possibility of extension up to 1 year. The visa fee is determined in accordance with Annex 5 to this Interim Regulation, unless otherwise provided for by international treaties to which the Kyrgyz Republic is a party and which have entered into force in accordance with the established procedure.
+
+- Type "SW2" — for journalists, correspondents and employees of charitable foundations, subject to the petition of the relevant state authority — with a validity of up to 60 calendar days, with the possibility of extension up to 1 year.
+
+Student Visa (type "S")
+ is issued for the purpose of undertaking studies — with a validity of up to 90 calendar days.
+
+Driver Visa (type "T")
+ is issued to foreign nationals entering the Kyrgyz Republic by freight motor transport for the purpose of carrying out international freight transportation. The Driver Visa is issued for a period of up to 6 months, on condition that the applicant's stay on the territory of the Kyrgyz Republic does not exceed 30 days per single trip, unless otherwise established by an international treaty of the Kyrgyz Republic or on the basis of the principle of reciprocity.
+
+Relatives visa (type "RL")
+ is issued for the purpose of visiting close relatives or family reunification — with a validity of up to 90 calendar days.
+
+- Where necessary, a person recognized as a refugee may, subject to supporting documents and in coordination with the national security authorities, be issued a single-entry exit/re-entry "Tuugandar" visa with a validity of up to 60 calendar days.
+
+Visa to ethnic kyrgyz "Meken" (type "M")
+ is issued to ethnic Kyrgyz, with the possibility of subsequently obtaining "kayrylman" status, as well as to persons born on the territory of the Kyrgyz Republic or the Kirghiz SSR, for visiting or returning to the Kyrgyz Republic — with a validity of up to 1 year.
+
+- Where necessary, a person holding "kayrylman" status may, in coordination with the authorized state body in the field of national security, be issued an exit/re-entry "Meken" visa — with a validity of up to 1 year.
+
+Religion Visa (type "R")
+ is issued to a missionary intending to visit the Kyrgyz Republic for the purpose of cooperation with religious organizations, subject to a permit issued by the authorized state body for religious affairs — with a validity of up to 60 calendar days.
+
+Foreigner's family visa (type "FF")
+ is issued to family members (spouse, children under 18 years of age, parents of underage children, as well as children with disabilities and dependent parents) of an applicant residing on the territory of the Kyrgyz Republic on the basis of visas of the categories Service ("O"), Investment ("I"), Special Work ("SW1", "SW2"), Family Visit "Tuugandar" ("RL"), Student ("S"), Digital Nomad ("DN"), as well as on the basis of a Unified Permit, a resident card, a residence permit or registration at the place of stay (with respect to citizens of states covered by the visa-free regime for stay on the territory of the Kyrgyz Republic), or "kayrylman" status — with a validity of up to 90 calendar days, without the right to engage in employment or individual entrepreneurial activity, or any other activities associated with the generation of profit on the territory of the Kyrgyz Republic.
+
+- A family member of an applicant residing on the basis of an Investment Visa (type "I") shall be issued a Visa for Family Members of a Foreigner (type "FF") for the validity period of the Investment Visa (type "I"), free of consular service charges.
+
+Transit Visa (type "TR")
+ is issued for transit through the territory of the Kyrgyz Republic to third countries — with a validity of up to 3 calendar days.
+
+Leave Visa (type "L")
+ is issued to an applicant for the purpose of departing from the Kyrgyz Republic, taking into account the regularization of the overstayed period of stay — with a validity of up to 10 days, in the following cases:
+
+- violation of the period and rules of stay defined by the visa or visa-free regime, in accordance with the legislation of the Kyrgyz Republic;
+
+- refusal to issue, or annulment of, visas, the Unified Permit, or a resident card;
+
+- refusal to issue or extend, or annulment of, a temporary or permanent residence permit;
+
+- termination of studies or expulsion from an educational institution registered on the territory of the Kyrgyz Republic, or completion of studies;
+
+- termination of investment activity confirmed by the authorized body in the field of investment policy implementation;
+
+- a request from an asylum seeker, a person holding "kayrylman" status, or a person recognized as a refugee, where they voluntarily wish to leave the territory of the Kyrgyz Republic, following coordination with the authorized body in the field of national security.
+
+Emergency Leave Visa (type "E")
+ is issued free of charge in cases of severe illness or critical health condition preventing the applicant from leaving (relocating) independently, subject to a medical opinion and a petition from the head of the authorized state body in the field of healthcare — with a validity of up to 10 days.
+
+Digital Nomad Visa (type "DN")
+ is issued to foreign nationals or stateless persons upon the petition of the authorized state body in the field of digitalization and electronic governance, or to holders of "Digital Nomad" status engaged in information and communication technologies and the development of software products — with a validity of up to 1 year.
+
+Business Visa (type "B")
+ is issued for short-term stays of up to 90 calendar days for purposes not associated with the generation of profit, including participation in business events such as negotiations, conferences and meetings, sports events, and the receipt of medical services upon invitation from legal entities, irrespective of their form of ownership, or from international organizations. The Business Visa does not grant the right to engage in employment or individual entrepreneurial activity, or any other activities associated with the generation of profit on the territory of the Kyrgyz Republic.
+
+Tourist Visa (type "TS")
+ is issued for short-term stays for the purpose of tourism — with a validity of up to 30 calendar days.
+
+Sapar Visa (type "J")
+ is issued to an applicant intending to visit the Kyrgyz Republic upon a substantiated petition of state authorities and local self-government bodies of the Kyrgyz Republic — with a validity of up to 1 year, with the possibility of extension, for the purpose of participating in business events such as negotiations, conferences and meetings, and in sports events organized by state authorities and local self-government bodies. The "Sapar" visa does not grant the right to engage in employment or individual entrepreneurial activity, or any other activities associated with the generation of profit on the territory of the Kyrgyz Republic.
+
+Unified Permit
+ — a document containing information on the work visa, the permit to attract foreign labour, and the work permit, issued in electronic form by the authorized state body in the field of foreign affairs to a foreign worker, and bearing a special readable QR code.
+
+Application from citizens
+
+Application from legal entities
+
+Sample of written application of a medical institution registered
+
+Sample of written statement for Tourist visa (type - TS)
+
+Sample of written statement for Business visa (type - B)
+
+Application for uniform permit from LLC
+
+Application for uniform permit from individual entrepreneur
+
+Application from citizens in Russian
+
+Application from legal entities in Russian
+
+Sample of written application of a medical institution registered in Russian
+
+Sample of written statement for Tourist visa (type - TS) in Russian
+
+Sample of written statement for Business visa (type - B) in Russian
+
+Application for uniform permit from LLC in Russian
+
+Application for uniform permit from individual entrepreneur in Russian
+
+Резидент Карта:
+
+Расписка физического лица о получении Платежной Карты
+
+Заявление: Анкета на выпуск карты физическим лицам
+

@@ -1,0 +1,4 @@
+# OEP country-clearance report, Kyrgyzstan (country_id 94), women, 2026-01-01 to 2026-11-09, queried 2026-11-10
+Kyrgyzstan women 2026: total_employee 0
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=10&approval_date_from=2026-01-01&approval_date_to=2026-11-09&country_id%5B%5D=94&gender_id=2
+{"success":true,"code":null,"payload":{"data":[],"recordsTotal":0,"recordsFiltered":0,"totalEmployee":0},"type":"success","fade":false}

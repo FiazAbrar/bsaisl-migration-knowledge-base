@@ -1,0 +1,7 @@
+# OEP country-clearance report, Kyrgyzstan (country_id 94), by job category, 2026-01-01 to 2026-11-09, queried 2026-11-10
+Sum of categories: 11; categories listed: 3
+Kyrgyzstan | General Labour | 7
+Kyrgyzstan | A Casual Worker | 3
+Kyrgyzstan | Worker | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=300&approval_date_from=2026-01-01&approval_date_to=2026-11-09&country_id%5B%5D=94&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":94,"country_name":"Kyrgyzstan","total_employee":7,"category_name":"General Labour"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":3,"category_name":"A Casual Worker"},{"country_id":94,"country_name":"Kyrgyzstan","total_employee":1,"category_name":"Worker"}],"recordsTotal":3,"recordsFiltered":3,"totalEmployee":11},"type":"success","fade":false}
