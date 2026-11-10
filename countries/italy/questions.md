@@ -6,7 +6,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Is it open now, and who can go?
 
-- Do the Questura approval and the INL check still apply to Bangladeshi nulla osta in the 2027 round (the joint circular of 1 October 2026 does not mention them), and has the Foreign Ministry named Bangladesh a high-risk country under Decree-Law 145/2024?
+- Do the Questura approval and the INL check still apply to Bangladeshi nulla osta in the 2027 round (the joint circular of 1 October 2026 does not mention them, and Decree-Law 145/2024's Bangladesh rule was not extended past 2025), and has the Foreign Ministry issued its decree naming high-risk countries?
 - How many of the 38,039 applications suspended in Dhaka in October 2024 ended in a visa?
 
 - How many of the 25,000 reserved non-seasonal places go to Bangladeshis in 2026 and 2027?
@@ -38,7 +38,6 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### What ties you to the employer
 
-- When the Decreto Flussi employer never signs the contratto di soggiorno, does the Questura now give the worker a job-seeking permit or accept another employer?
 - Does the Questura accept a different employer at the first renewal?
 
 ## Visas not open to Bangladeshis
@@ -49,13 +48,12 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Step 5: The visa at the Italian Embassy in Dhaka, and checking it is real
 
-- Is there a public online check of a nulla osta number (by the Interior Ministry or the Embassy) that a worker can use without the employer?
 - Can a worker check an Italian visa sticker's number online, or only by writing to visti.dhaka@esteri.it?
 - What does a forged nulla osta sold in Dhaka typically get wrong (protocol number, SUI name, QR code)?
 
 ### Your rights at work
 
-- Which CCNL do most Bangladeshi Decreto Flussi workers find written on their contratto di soggiorno (contract of stay), and is it often a "pirate" contract signed by minor unions with lower minimums?
+- Which CCNL code do most Bangladeshi Decreto Flussi workers find on their contratto di soggiorno (contract of stay), and how often is it a "pirate" contract signed by minor unions with lower minimums instead of the CGIL-CISL-UIL contract for the sector?
 
 - What are the 2026 FIPE minimums for a kitchen helper (aiuto cuoco) and a dishwasher (lavapiatti)?
 - What is the 2026 minimum for a warehouse or delivery worker under the logistics CCNL (Logistica, trasporto merci e spedizione)?
@@ -90,7 +88,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Changing employer or leaving
 
-- When the Decreto Flussi employer never signs the contratto di soggiorno at the SUI (Sportello Unico per l'Immigrazione, the immigration desk at each Prefettura), can the worker get a job-seeking permit or be taken on by another employer, as some regional administrative courts (TAR Veneto, TAR Campania) allowed in 2024-2025?
+- How does a worker ask the head of the SUI for a job-seeking permit when the Decreto Flussi employer never signs, how long does it take, and have TAR rulings (TAR Veneto, TAR Campania, 2024-2025) let another employer take the worker on?
 - What does a new employer have to file, and where, to take on a worker whose permit names another employer, and does the Questura accept the new employer at the first renewal?
 
 - Is the 2007-2008 Polizia di Stato guidance on travelling with the receipt still applied in 2026, and do Rome Fiumicino and Milan Malpensa let workers fly via the Gulf or Istanbul (Emirates, Qatar, Turkish) with only the receipt?
@@ -197,7 +195,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### Step 2: Book and apply at VFS
 
 - What is VFS's service charge in Taka for an Italian Schengen visa in 2026, and how long is the wait for an appointment?
-- How many working days does the Dhaka Embassy take to decide a tourist visa in 2026?
+- How many working days does the Dhaka Embassy actually take to decide a tourist visa in 2026, against the 15-day legal limit?
 - Is there an official way to check an Italian Schengen visa sticker's number from Bangladesh, beyond showing it at VFS or the Embassy?
 
 ## Family reunification
@@ -222,7 +220,6 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### Step 2: Apply for the nulla osta on the ALI portal
 
 - How long do the SUIs in Rome, Milan and Venice actually take to issue a family nulla osta in 2026?
-- Are the nulla osta's 6 months counted from the application date or from the date of issue?
 
 ### Step 3: Prepare and apostille the papers in Bangladesh
 
@@ -236,7 +233,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### If the nulla osta or visa is refused
 
-- What is the deadline to appeal a refused family nulla osta or visa, and which lawyers or patronati in Rome and Milan take these cases?
+- What is the deadline to appeal a refused family nulla osta, and which lawyers or patronati (free welfare advice offices, most run by trade unions) in Rome and Milan take these cases?
 
 ### Scams
 
@@ -259,7 +256,9 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Step 4: Get the child a Bangladeshi passport
 
-- Does the Rome Embassy charge EUR 100 for a child's first passport, as its FAQ says, or EUR 105 or 130 as on its 2026 fee list?
+- For a child's first e-passport, must a child under 2 come to the Embassy or Consulate, now that under-6s give no fingerprints and their photo is uploaded?
+
+- Does the Rome Embassy charge EUR 100 for a child's first passport, as its FAQ says, or EUR 105 or 130 as on its 2026 fee list, and is it still paid at the counter (the old form's "Skip Payment") with the e-passport form?
 
 ### If a parent has no permit
 
@@ -393,7 +392,11 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Help from the Bangladesh Embassy in Rome and Consulate in Milan
 
-- The Rome Embassy's FAQ gives EUR 100 for any passport [B0083]; which fee does it charge at the counter in November 2026?
+- The Rome Embassy's FAQ gives EUR 100 for any passport [B0083]; which fee does it charge at the counter in November 2026, and what do the Milan Consulate's passport fee and student discount come to?
+
+- After 30 June 2026, can a Bangladeshi in Italy without an NID still correct a passport in Rome or Milan with a birth registration and a permesso di soggiorno?
+
+- What does the Milan Consulate charge for each certificate and for a power of attorney, and how many working days does each take?
 
 - Does the Rome Embassy's labour welfare wing take unpaid-wage complaints against Italian employers, and what does it do with them?
 

@@ -12,7 +12,7 @@ Italy takes Bangladeshi workers only through an employer in Italy who names them
 
 ### Is it open now, and who can go?
 
-Open as of 10 November 2026, through an employer's nulla osta under the Decreto Flussi [W0091, P0089]. For the 2027 round, employers pre-fill applications until 7 December 2026 (and may finish saved forms until 13 December), and the click day for non-seasonal work is 16 February 2027 (Work visa: Decreto Flussi worker (non-seasonal), Step 3) [P0007, W0007, W0011]. New nulla osta are processed in a relatively short time with very few refusals; many of the old ones frozen in October 2024 were rejected [W0092, W0093, W0094]. A Bangladeshi worker's nulla osta is never issued by silence: the Questura must approve it, and the INL (Ispettorato Nazionale del Lavoro, the National Labour Inspectorate) first checks the employer [D0024, D0025, D0026].
+Open as of 10 November 2026, through an employer's nulla osta under the Decreto Flussi [W0091, P0089]. For the 2027 round, employers pre-fill applications until 7 December 2026 (and may finish saved forms until 13 December), and the click day for non-seasonal work is 16 February 2027 ("Work visa: Decreto Flussi worker (non-seasonal)", Step 3) [P0007, W0007, W0011]. New nulla osta are processed in a relatively short time with very few refusals; many of the old ones frozen in October 2024 were rejected [W0092, W0093, W0094]. A Bangladeshi worker's nulla osta is never issued by silence: the Questura must approve it, and the INL (Ispettorato Nazionale del Lavoro, the National Labour Inspectorate) first checks the employer [D0024, D0025, D0026].
 
 #### Status
 
@@ -21,10 +21,10 @@ Open as of 10 November 2026, through an employer's nulla osta under the Decreto 
 - **27 May 2025:** over 7,000 suspended cases had ended in a visa or a rejection, and over 70% of entries on the Embassy's work-visa webform carried fake or invalid nulla osta [M0004, M0005].
 - **August 2025:** about 8,000 of nearly 40,000 pending cases had been resolved; nulla osta issued after 22 October 2024 were not suspended [N0039, N0040]. In July 2025 nearly 60,000 work visa applications were reported stuck at the Embassy; Italy's Ambassador later said 2025 applications were cleared quickly with no backlog, while those of 2023 and 2024 went back to the Questure for review with no time limit [N0154, N0118, N0119].
 - **September 2025:** the SUIs had confirmed 944 nulla osta for Bangladeshis who had not yet applied for a visa, and the Embassy called them to walk-in days at the VFS centres in Dhaka, Chattogram and Sylhet [M0011, M0010].
-- **8 December 2025:** holders of a nulla osta issued or reconfirmed in 2025 register on VFS's portal and get an appointment within a few days; holders of a 2023-24 nulla osta who have already applied for a visa wait until the immigration office in Italy finishes its review (Work visa: Decreto Flussi worker (non-seasonal), Step 5) [M0029, M0031, M0032].
+- **8 December 2025:** holders of a nulla osta issued or reconfirmed in 2025 register on VFS's portal and get an appointment within a few days; holders of a 2023-24 nulla osta who have already applied for a visa wait until the immigration office in Italy finishes its review ("Work visa: Decreto Flussi worker (non-seasonal)", Step 5) [M0029, M0031, M0032]. By 10 December 2025, 62,965 of the 329,001 applications filed for Bangladeshis in the 2024 round had ended negatively (about 20,000 archived and 22,000 withdrawn), about half of all negative outcomes that year, and 23,141 applications of that round for Bangladesh, Pakistan, Sri Lanka and Morocco were still suspended, 16,272 of them at the consulates [QA0007, QA0008, QA0013].
 
 > **Need to know**
-> - Do the Questura approval and the INL check still apply to Bangladeshi nulla osta in the 2027 round (the joint circular of 1 October 2026 does not mention them), and has the Foreign Ministry named Bangladesh a high-risk country under Decree-Law 145/2024?
+> - Do the Questura approval and the INL check still apply to Bangladeshi nulla osta in the 2027 round (the joint circular of 1 October 2026 does not mention them, and Decree-Law 145/2024's Bangladesh rule was not extended past 2025), and has the Foreign Ministry issued its decree naming high-risk countries?
 > - How many of the 38,039 applications suspended in Dhaka in October 2024 ended in a visa?
 
 #### The channels
@@ -32,7 +32,7 @@ Open as of 10 November 2026, through an employer's nulla osta under the Decreto 
 - **Decreto Flussi, non-seasonal work (form B2020):** the employer files for a named worker on click day, the SUI issues the nulla osta, and the worker applies at VFS (see Work visa: Decreto Flussi worker (non-seasonal)) [W0015, W0030, W0099]. Italy admits 76,200 non-seasonal workers in 2027, 14,000 of them domestic and care workers [P0002]. Over 2026-2028 Italy plans 497,550 entries in all (164,850, 165,850 and 166,850 a year), and from 2027 Kenya joins the countries of origin after signing a migration and mobility memorandum with Italy on 2 July 2026 [N0026, P0005]. Bangladesh shares a reserved quota of 25,000 non-seasonal places a year in 2026-2028 with the other countries that have cooperation agreements with Italy, and such reserved quotas go to countries that cooperate on readmitting their returned nationals [W0023, W0024, P0006, P0090]. The quota usually fills in the first ten minutes of click day [N0150].
 - **Seasonal farm and tourism work:** 89,000 places in 2027, for at most nine months in twelve; many in Bangladesh call it the কৃষি ভিসা (krishi visa, agriculture visa) (see Work visa: seasonal worker) [P0003, D0035, N0149].
 - **Domestic and care work:** the 14,000 places for jobs with a household, plus up to 10,000 out-of-quota carers a year (see Work visa: domestic and care worker) [P0002, D0012, D0058].
-- **Article 23 of the immigration law: training first, outside the quota:** a worker who completes a pre-departure course certified by Italy's Ministry of Labour (basic Italian, civic education, job skills) enters outside the quota; applications run all year with no click day, and the course can be done in Bangladesh [N0029, N0030, N0031]. The first projects in Bangladesh were set up by Italian private firms: Frontiere Skills, whose TASTE project trains restaurant and hotel workers at Hotel Regency in Dhaka, and Format, which trains textile workers; about 300 students were enrolled in November 2026 [N0024, N0025, N0036]. Format says its training is free [N0032]. Several hundred Bangladeshis a year now go through such training [W0096]. Separately, the EU-funded Talent Partnership, run by BMET with the ILO (International Labour Organization), had certified 698 trainees by July 2026, mainly for Italy, and many were waiting for employer interviews [B0040, B0041, B0042].
+- **Article 23 of the immigration law: training first, outside the quota:** a worker who completes a pre-departure course certified by Italy's Ministry of Labour (basic Italian, civic education, job skills) enters outside the quota; applications run all year with no click day, and the course can be done in Bangladesh [N0029, N0030, N0031]. The first projects in Bangladesh were set up by Italian private firms: Frontiere Skills, whose TASTE project trains restaurant and hotel workers at Hotel Regency in Dhaka, and Format, which trains textile workers; about 300 students were enrolled in November 2026 [N0024, N0025, N0036]. Format says its training is free [N0032]. Several hundred Bangladeshis a year now go through such training [W0096]. Across all countries, 401 people trained abroad entered Italy this way in 2025, up from 133 in 2024 [QA0030]. Separately, the EU-funded Talent Partnership, run by BMET with the ILO (International Labour Organization), had certified 698 trainees by July 2026, mainly for Italy, and many were waiting for employer interviews [B0040, B0041, B0042].
 - **Highly skilled (EU Blue Card, Article 27, nulla osta code "L/N"):** outside the quota and only for highly qualified jobs; very few Bangladeshi applicants have succeeded (see Work visa: highly skilled and out-of-quota (EU Blue Card, Article 27)) [M0013, M0014].
 - **Self-employment:** 650 places a year for all countries together (see Self-employment visa) [P0004].
 - **Family reunification:** about 12,000 to 13,000 family visas a year, and family members may work once they arrive (see Family reunification) [F0086, F0087].
@@ -55,7 +55,7 @@ Anyone an employer in Italy names: the employer picks the worker at his discreti
 - **Month by month:** 4,043 in July 2023, 59 in December 2023, 11 in September 2024, 1,644 in August 2025 and 690 in October 2026 [B0010, B0011, B0013, B0014, B0016].
 - **Job titles on OEP:** the largest 2026 titles are the vague "A Casual Worker" (2,842) and "General Labour" (2,427) [B0022, B0023].
 - **Work visas:** about 10,000 in 2025, and about as many expected in 2026 [W0091].
-- **Applications against visas:** Bangladeshis filed almost 58% of all Decreto Flussi applications in 2023 (352,562) and 45.8% in 2024 (328,877), far ahead of Morocco (15.8%) and India (14.2%) [N0046, N0044]. In 2024 Sri Lanka filed 6.6% of applications, Pakistan 4.8% and Egypt 4.1%, and Bangladeshis also had the most negative outcomes: 39,397, or 52.4% of the total [N0045, N0047]. By 12 December 2024, of 24,151 visas issued for the 2024 quota, 35 had gone to Bangladeshis and 1,866 to Sri Lankans; for the 2023 quota, Bangladeshis got 3,409 [N0049, N0048].
+- **Applications against visas:** Bangladeshis filed almost 58% of all Decreto Flussi applications in 2023 (352,562) and 45.8% in 2024 (328,877), far ahead of Morocco (15.8%) and India (14.2%) [N0046, N0044]. In 2024 Sri Lanka filed 6.6% of applications, Pakistan 4.8% and Egypt 4.1%, and Bangladeshis also had the most negative outcomes: 39,397, or 52.4% of the total [N0045, N0047]. By 12 December 2024, of 24,151 visas issued for the 2024 quota, 35 had gone to Bangladeshis and 1,866 to Sri Lankans; for the 2023 quota, Bangladeshis got 3,409 [N0049, N0048]. By December 2025 the 2024 round had given Bangladeshis 19,503 nulla osta, 2,313 visas and 1,262 permit requests, with 1,058 still waiting to travel; in the 2025 round applications for Bangladeshis fell to 35,932, with 2,407 nulla osta, 1,874 visas and 1,038 permit requests [QA0009, QA0010, QA0011]. By permits requested in the 2025 round, Bangladesh came sixth, after India, Egypt, Tunisia, Morocco and Albania [QA0032].
 - **Living in Italy:** 195,523 Bangladeshis held permits at the end of 2024, the fifth-largest non-EU community; Rome has 37,905 of them (19.4%), followed by Lombardy, Veneto, Campania and Sicily [N0155, N0156, N0065]. The community grew 16.9% in 2024, and after the United Kingdom Italy is the main European destination for Bangladeshi migrants [N0062, N0071]. Of the 28,045 new permits Bangladeshis got in 2024, two-thirds came from asylum and protection claims and only just over one in ten from work [N0063, N0157, N0064].
 - **By boat:** 20,164 Bangladeshis landed by sea in 2025 and 6,160 from 1 January to 6 November 2026, more than any other nationality [U0005, U0001].
 
@@ -67,7 +67,7 @@ Anyone an employer in Italy names: the employer picks the worker at his discreti
 - **2012-13:** Italy took away Bangladesh's quota after Bangladeshi seasonal farm workers did not go home after the season, and formal labour migration stopped in 2013 [N0140, B0032].
 - **2020-21:** Italy put Bangladesh back on the Decreto Flussi list on 12 October 2020, and workers began going again in 2021, 653 that year [N0141, B0033, N0125].
 - **4 June 2024:** Prime Minister Giorgia Meloni took a complaint to the national anti-mafia prosecutor, Giovanni Melillo, saying most Decreto Flussi entrants came from Bangladesh, where diplomats spoke of jobs being bought and sold, and that in Campania, with 157,000 applications, under 3% of those given a seasonal visa signed a contract [N0100, N0099, N0098].
-- **October 2024:** the freeze (see Status) suspended 34,959 of 38,039 applications in Dhaka (92%), and BMET cleared only 1,162 workers for Italy that year [N0050, B0003]. Applicants had formed a human chain at the Embassy in April 2024, demanding visas or their passports back; visa processing has sometimes taken over a year, and in 2025 affected applicants protested in Dhaka's Kakrail area [N0152, B0034, N0130].
+- **October 2024:** the freeze (see Status) suspended 34,959 of 38,039 applications in Dhaka (92%), and BMET cleared only 1,162 workers for Italy that year [N0050, B0003]. Applicants had formed human chains at the Embassy on 27 March and 22 April 2024, demanding visas or their passports back, when the Embassy and VFS were holding at least 100,000 applicants' passports [N0152, QA0037, QA0036]. Visa processing has sometimes taken over a year, and in 2025 affected applicants protested in Dhaka's Kakrail area [B0034, N0130].
 - **6 May 2025:** Bangladesh and Italy signed a Memorandum of Understanding (MoU) on Migration and Mobility in Dhaka, covering legal migration and the return of people with no right to stay [B0027, B0030].
 
 ### How a job reaches you, and who takes a cut
@@ -76,7 +76,7 @@ A legal job reaches a Bangladeshi worker through a person, not a list: an employ
 
 #### The quota and the click day
 
-The government sets the quota; employers pre-fill their applications online, then race to send them on click day, which are handled mostly in order of arrival [P0036, W0142]. Applications ran at about five times the places: 609,000 for 132,000 in 2023 and 718,000 for 147,000 in 2024 [N0160]. Few end in a job: of 127,707 places given out for 2023, only 16,188 (about 13%) led to a signed contract and a permit request, and for 2024 only 7.8% [N0052, N0053]. Since October 2025 a private employer may file at most three requests a year; more must go through an employer organisation or labour consultant, who must keep the number in line with the firm's turnover and staff (Work visa: Decreto Flussi worker (non-seasonal), Step 2) [P0038, P0039, W0034].
+The government sets the quota; employers pre-fill their applications online, then race to send them on click day, which are handled mostly in order of arrival [P0036, W0142]. Applications ran at about five times the places: 609,000 for 132,000 in 2023 and 718,000 for 147,000 in 2024 [N0160]. Few end in a job: of 127,707 places given out for 2023, only 16,188 (about 13%) led to a signed contract and a permit request [N0052]. By December 2025 the 2024 round had produced 24,858 permit requests for 146,850 places (16.9%), and the 2025 round 14,349 for 181,450 (7.9%) [QA0005, QA0004]. Since October 2025 a private employer may file at most three requests a year; more must go through an employer organisation or labour consultant, who must keep the number in line with the firm's turnover and staff ("Work visa: Decreto Flussi worker (non-seasonal)", Step 2) [P0038, P0039, W0034].
 
 #### Who sells the nulla osta
 
@@ -91,7 +91,7 @@ The government sets the quota; employers pre-fill their applications online, the
 
 #### The embassy queue
 
-Visas at the Italian Embassy in Dhaka were themselves sold [N0076, N0078]. On 19 February 2025 two Italian Foreign Ministry employees, Nicola Muscatello and Roberto Albergo, were put under house arrest for corruption, and two Bangladeshis, Nazrul Islam, who lives in Rome, and Hossain Md Baleyet Patwari, were jailed, in an investigation by the Guardia di Finanza (Italy's financial police) [N0072, N0073, N0080]. Prosecutors say the two Bangladeshis charged compatriots a fixed sum plus a share of their future earnings in Italy, and that the officials took hotel stays, phones, watches and flights [N0074, N0076]. The ring allegedly charged EUR 15,000 (about Tk 20.9 lakh) for a work visa and EUR 7,000 for a tourist visa, and Nazrul Islam, linked to the Awami League's Italian branch, had brought nearly 1,500 Bangladeshis the year before [N0078, N0079, N0080, G0001]. Investigators also say embassy staff paid real Italian firms to join the scheme [N0084].
+Visas at the Italian Embassy in Dhaka were themselves sold [N0076, N0078]. On 19 February 2025 two Italian Foreign Ministry employees, Nicola Muscatello and Roberto Albergo, were put under house arrest for corruption, and two Bangladeshis, Nazrul Islam, who lives in Rome, and Hossain Md Baleyet Patwari, were jailed, in an investigation by the Guardia di Finanza (Italy's financial police) [N0072, N0073, N0080]. Italy's Foreign Ministry confirmed that the Rome prosecutor's custody order covered five people in all, and said criminal networks in Italy profit from Decreto Flussi visas and fake tourist visas [QA0003, QA0002]. Prosecutors say the two Bangladeshis charged compatriots a fixed sum plus a share of their future earnings in Italy, and that the officials took hotel stays, phones, watches and flights [N0074, N0076]. The ring allegedly charged EUR 15,000 (about Tk 20.9 lakh) for a work visa and EUR 7,000 for a tourist visa, and Nazrul Islam, linked to the Awami League's Italian branch, had brought nearly 1,500 Bangladeshis the year before [N0078, N0079, N0080, G0001]. Investigators also say embassy staff paid real Italian firms to join the scheme [N0084].
 
 > **Need to know**
 > - Has the Rome court ruled on the Muscatello, Albergo and Nazrul Islam case, and were visas issued through the ring revoked?
@@ -116,7 +116,7 @@ Bangladesh sets no legal maximum for Italy: the Ministry's 2017 migration-cost c
 - bank draft charge: Tk 270 [M0020];
 - revenue stamp: EUR 16 (about Tk 2,200) [N0138, G0001];
 - the flight to Italy, paid by the worker [N0138];
-- BMET's fees: a Tk 5,500 welfare fee, Tk 1,000 insurance and a Tk 250 clearance fee (Work visa: Decreto Flussi worker (non-seasonal), Step 6) [B0140, B0131, B0133].
+- BMET's fees: a Tk 5,500 welfare fee, Tk 1,000 insurance and a Tk 250 clearance fee ("Work visa: Decreto Flussi worker (non-seasonal)", Step 6) [B0140, B0131, B0133].
 
 The contract of stay commits the employer to pay your journey home [W0067]. Workers have complained that the whole cost should be no more than Tk 2 to 2.5 lakh [N0137].
 
@@ -127,7 +127,7 @@ The contract of stay commits the employer to pay your journey home [W0067]. Work
 - **EUR 7,000 up front and as much again on the visa (about Tk 19.5 lakh in all):** a Gazipur man in 2025 [N0115, D0090, G0001].
 - **EUR 16,000 (about Tk 22.3 lakh):** two men from Madaripur and Narsingdi [N0082, N0086, G0001].
 - **EUR 18,000 and EUR 20,000 (about Tk 25.1 and 27.9 lakh):** two workers who spoke to Ero Straniero, a campaign of Italian NGOs [N0057, N0054, G0001].
-- **Tk 6 to 10 lakh:** the middleman's take, with workers reporting up to Tk 15 lakh in all [N0144, N0137].
+- **Tk 6 to 10 lakh:** the middleman's take, with workers reporting up to Tk 15 lakh in all; a Naogaon man paid Tk 13.5 lakh for his work permit (nulla osta) in May 2023 and was still waiting for his visa a year later [N0144, N0137, QA0034].
 
 #### How it is paid
 
@@ -138,7 +138,7 @@ In instalments: a first payment starts the paperwork and the rest is due before 
 
 #### How they borrow
 
-Families sell land, pool savings and take bank loans: the Madaripur man took loans from two banks, the Narsingdi man raised EUR 16,000 from relatives, loans and the sale of family land, and in the Grosseto case some families mortgaged land [N0083, N0086, D0128]. Loans are easier to get when the money is said to be for Italy [U0088]. One worker said his bank debt grew daily with interest [N0061]. The PKB (Probashi Kallyan Bank, the government bank for migrants) lends at most Tk 3 lakh (Work visa: Decreto Flussi worker (non-seasonal), Step 1) [B0160].
+Families sell land, pool savings and take bank loans: the Madaripur man took loans from two banks, the Narsingdi man raised EUR 16,000 from relatives, loans and the sale of family land, and in the Grosseto case some families mortgaged land [N0083, N0086, D0128]. Loans are easier to get when the money is said to be for Italy [U0088]. One worker said his bank debt grew daily with interest [N0061]. The PKB (Probashi Kallyan Bank, the government bank for migrants) lends at most Tk 3 lakh ("Work visa: Decreto Flussi worker (non-seasonal)", Step 1) [B0160].
 
 > **Need to know**
 > - What monthly rate does a village moneylender charge on an Italy loan in 2026?
@@ -149,7 +149,7 @@ Families sell land, pool savings and take bank loans: the Madaripur man took loa
 32% of employed Bangladeshis in Italy work in hotels and restaurants and 25.3% in industry [N0158]. Minimum pay is set by the CCNL (contratto collettivo nazionale di lavoro, the national collective contract) for each sector and is quoted gross, before tax and contributions [L0030, L0035, L0040]. The 2026 minimums include:
 
 - **Farm work:** EUR 1,042.43 a month (about Tk 1.46 lakh), the national floor for a common worker [L0032, G0001].
-- **Construction:** EUR 9.48 an hour (about Tk 1,320) for a common labourer, plus provincial extras [L0035, G0001].
+- **Construction:** EUR 9.48 an hour (about Tk 1,320) for a common labourer, plus provincial extras [L0035, QB0034, QB0036, G0001].
 - **Hotels:** EUR 1,412.60 a month (about Tk 1.97 lakh) at the lowest level, paid 14 times a year [L0040, L0042, G0001].
 - **Cleaning:** EUR 1,413.50 a month (about Tk 1.97 lakh) full-time [L0046, G0001].
 
@@ -181,8 +181,8 @@ A seasonal worker who paid Tk 6 lakh can't save it back in one nine-month season
 
 The nulla osta ties you to one employer until you arrive and sign your contract; after that the permit for work is looser: losing or leaving the job does not cancel it, and it lets you do other legal work [W0031, W0041, L0013, L0114].
 
-- **To enter:** only the employer, or its employer organisation or labour consultant, can file the nulla osta naming you, and after the Embassy's checks it must confirm within 15 days or the nulla osta is revoked (Work visa: Decreto Flussi worker (non-seasonal), Step 3; Work visa: Decreto Flussi worker (non-seasonal), Step 5) [N0113, W0034, P0024, P0025].
-- **To get the first permit:** the employer must sign the contratto di soggiorno (contract of stay) with you and send it online to the SUI within 15 days of your entry, or the nulla osta is revoked unless the delay was not your fault; until then you work only on the nulla osta (Work visa: Decreto Flussi worker (non-seasonal), Step 7) [P0027, P0028, W0038, W0043]. In practice workers have waited up to a year for a Prefettura appointment while employers disappeared, and one worker could work only for the employer that had filed for him, with no permit or health care, because it was behind on its social security payments [D0095, N0055, N0056]. In August 2026 Bangladesh told Italy that several hundred workers who entered in 2022-23 could not change employer or extend their permits because their sponsors could not be reached [B0038].
+- **To enter:** only the employer, or its employer organisation or labour consultant, can file the nulla osta naming you, and after the Embassy's checks it must confirm within 15 days or the nulla osta is revoked ("Work visa: Decreto Flussi worker (non-seasonal)", Step 3; "Work visa: Decreto Flussi worker (non-seasonal)", Step 5) [N0113, W0034, P0024, P0025].
+- **To get the first permit:** the employer must sign the contratto di soggiorno (contract of stay) with you and send it online to the SUI within 15 days of your entry, or the nulla osta is revoked unless the delay was not your fault; until then you work only on the nulla osta ("Work visa: Decreto Flussi worker (non-seasonal)", Step 7) [P0027, P0028, W0038, W0043]. In practice workers have waited up to a year for a Prefettura appointment while employers disappeared, and one worker could work only for the employer that had filed for him, with no permit or health care, because it was behind on its social security payments [D0095, N0055, N0056]. In August 2026 Bangladesh told Italy that several hundred workers who entered in 2022-23 could not change employer or extend their permits because their sponsors could not be reached [B0038]. If the employer never signs, a job-seeking permit needs the written authorisation of the head of the SUI, and Questure issued only 666 job-seeking permits in all in 2025 (see Changing employer) [QA0023, QA0025].
 - **To renew:** the permit lasts as long as the contract, up to 1 year for a fixed-term contract and 2 years for a permanent one, and each renewal up to 3 years; you ask the Questura of the province where you live at least 90 days before it expires (see Your residence permit) [W0057, L0109]. Workers have accepted under EUR 7 an hour because they needed the job to renew [L0051].
 - **To quit:** resign only online on the Ministry of Labour form, since a paper letter has no effect; resigning does not cancel the permit, but it loses NASpI (unemployment pay) unless you resign for just cause (see Changing employer or leaving) [L0095, L0015, L0070, L0071].
 - **To change employer:** a permit for employment can be used for other legal work [L0114]. Blue Card holders and out-of-quota carers need the labour office's approval to change employer in their first 12 months, and seasonal workers change through SIISL, the government job-matching platform (see Changing employer) [W0083, D0064, D0037].
@@ -192,7 +192,6 @@ The nulla osta ties you to one employer until you arrive and sign your contract;
 - **If the permit expires:** while a renewal is pending you may stay and work with the post-office receipt, but if it expired over 60 days ago with no renewal requested, the Prefect (the government's representative in the province) orders expulsion, and staying without a permit is fined EUR 5,000 to 10,000 (about Tk 7 to 14 lakh) [P0040, P0041, L0099, L0098, G0001]. People who lost a regular job, and with it their permit, have been detained and sent to Italy's detention centre in Albania (see What can get you jailed or deported) [U0110].
 
 > **Need to know**
-> - When the Decreto Flussi employer never signs the contratto di soggiorno, does the Questura now give the worker a job-seeking permit or accept another employer?
 > - Does the Questura accept a different employer at the first renewal?
 
 ### What goes wrong most, and what people wrongly believe
@@ -202,7 +201,7 @@ A common failure is paying for a nulla osta and arriving to no job, no contract 
 #### What people believe, and the facts
 
 - **"A nulla osta means I can go."** It only authorises the employer to hire you: the Embassy decides the visa, and only after the employer confirms [N0028, W0040, P0025]. Many 2023-24 nulla osta were frozen and then rejected (see Status) [W0094].
-- **"With the visa, a job is waiting."** Many found no employer: one man fell into irregular status because the company that was to hire him did not exist [N0124]. Only about 13% of the 2023 quota and 7.8% of the 2024 quota ended in a contract and a permit request [N0052, N0053].
+- **"With the visa, a job is waiting."** Many found no employer: one man fell into irregular status because the company that was to hire him did not exist [N0124]. Only about 13% of the 2023 quota, 16.9% of the 2024 quota and 7.9% of the 2025 quota had ended in a contract and a permit request at the last count (see The quota and the click day) [N0052, QA0005, QA0004].
 - **"I came legally, so Italy will treat me as a victim."** A Naples social worker says the state treats such workers as fraudsters, and many try special protection instead, a two-year permit that can no longer be turned into a work permit (see Asylum) [N0087, N0088, A0085].
 - **"Someone at the Embassy can speed it up."** Officials and middlemen were arrested over exactly this offer in 2025 (see The embassy queue), and the Embassy says paying intermediaries risks cancellation of the visa and legal action [N0072, N0073, K0012].
 - **"An L/N 'carta blu' nulla osta is a sure visa."** Brokers sell it, but it is only for highly qualified jobs, holding one does not guarantee a visa, and very few Bangladeshi applicants have got one [M0015, M0013, M0014].
@@ -361,7 +360,7 @@ The employer, or its labour consultant or employer organisation, files the appli
 
 4. **The quota is shared out, then the SUI decides.** The Ministry of Labour splits the quota by province within 10 days of click day [W0028, W0140]. From that allocation the SUI has at most 60 days to issue the nulla osta [W0036, W0140]. Applications that have not entered the quota six months after 31 December of the year lapse and are archived [W0027]. A nulla osta is valid for up to six months from issue [W0037].
 
-5. **Know the extra checks on Bangladeshis.** For the 2026-2028 rounds, a nulla osta for a worker from Bangladesh, Pakistan, Sri Lanka or Morocco is never issued automatically when the time runs out: it always needs a favourable opinion from the Questura (the provincial police immigration office), and the INL first checks the employer [D0024, D0025, D0026]. The earlier rule that singled out Bangladesh, Pakistan and Sri Lanka ran until 31 December 2025, pending a Foreign Ministry decree naming high-risk countries [W0054, W0056]. Why, and what happened to the nulla osta frozen in October 2024, is in Background (see Status) [M0001].
+5. **Know the extra checks on Bangladeshis.** For the 2026-2028 rounds, a nulla osta for a worker from Bangladesh, Pakistan, Sri Lanka or Morocco is never issued automatically when the time runs out: it always needs a favourable opinion from the Questura (the provincial police immigration office), and the INL first checks the employer [D0024, D0025, D0026]. The earlier rule in Decree-Law 145/2024 that singled out Bangladesh, Pakistan and Sri Lanka ran until 31 December 2025, pending a Foreign Ministry decree naming high-risk countries, and the law's text as updated to February 2026 does not extend it [W0054, W0056, Q0001, Q0002]. Why, and what happened to the nulla osta frozen in October 2024, is in Background (see Status) [M0001].
 
    > **Need to know**
    > - Has the Foreign Ministry named high-risk countries, and is Bangladesh on the list in 2026?
@@ -450,11 +449,11 @@ All Italian visa applications in Bangladesh go through VFS Global, never to the 
    3. Registering stops the nulla osta from expiring while you wait for an appointment [W0127].
    4. The Embassy checks the nulla osta and then gives you an appointment, within a few days for a 2025 nulla osta [M0031]. Holders of a 2023 or 2024 nulla osta who already applied wait until the immigration office in Italy finishes its review, after which VFS contacts them [M0032].
 
-   Give your own phone and email, so VFS reaches you directly and not through an intermediary [M0009]. An L/N nulla osta (Article 27, outside the quota) follows a walk-in route instead (see Work visa: highly skilled and out-of-quota (EU Blue Card, Article 27)) [W0130, M0013].
+   Give your own phone and email, so VFS reaches you directly and not through an intermediary [M0009]. Before the webform, in 2024, workers waited six to seven months after the nulla osta for an appointment, and local brokers took money promising to guarantee one [QA0033, QA0035]. An L/N nulla osta (Article 27, outside the quota) follows a walk-in route instead (see Work visa: highly skilled and out-of-quota (EU Blue Card, Article 27)) [W0130, M0013].
 
    > **Need to know**
    > - In 2026, how many days pass between registering a nulla osta on the webform and getting the appointment email?
-   > - Do brokers resell VFS appointment slots for Italian work visas in Dhaka, and for how much?
+   > - Do brokers still sell "guaranteed" VFS work-visa appointments in Dhaka in 2026, now that the Embassy gives them from the webform, and for how much?
 
 2. **Submit the application at VFS.** You'll need [W0110, W0111, W0112, W0113, W0114, W0117]:
 
@@ -479,22 +478,21 @@ All Italian visa applications in Bangladesh go through VFS Global, never to the 
 
 3. **The employer must confirm within 15 days.** When the Embassy finishes its checks, the SUI emails the employer by PEC (posta elettronica certificata, certified email) asking it to confirm it still wants to hire you; if it does not confirm within 15 days the request counts as refused and the nulla osta is revoked [W0039, W0115, W0139, W0017]. Only after this confirmation does the Embassy issue the visa [W0040]. Tell the employer to watch its PEC inbox once you have applied [W0018].
 
-4. **Follow the application and collect the passport.** If the Embassy wants more documents, VFS's passport tracker shows it with a deadline, and a wrong phone number or email is your loss [F0083]. Collect the passport within 90 days, or it goes back to the Embassy and on to Bangladesh's Ministry of Home Affairs [F0084, F0085]. To take your passport back before a decision, ask VFS in person with the signed withdrawal form, a copy of a valid ID and the VFS receipt [B0068].
+4. **Follow the application and collect the passport.** If the Embassy wants more documents, VFS's passport tracker shows it with a deadline, and a wrong phone number or email is your loss [F0083]. Collect the passport within 90 days, or it goes back to the Embassy and on to Bangladesh's Ministry of Home Affairs [F0084, F0085]. To take your passport back before a decision, ask VFS in person with the signed withdrawal form, a copy of a valid ID and the VFS receipt [B0068]. By law the Embassy issues a Decreto Flussi work visa within 30 days of the application, but the deadline does not hold when checks with foreign authorities are needed [QA0049, QA0051]. Consulates also run their own checks and may ask for more documents or an interview [QA0017]. Across all consulates the wait for issue averaged 18 days in the 2025 round, but Dhaka took 290 days on average for the files suspended in 2024, and applicants from Bangladesh and the other countries under extra checks have waited up to almost ten months [QA0014, QA0016, QA0018]. A refusal comes without advance warning, so you cannot add missing papers first; it must give reasons, in a language you understand or else in English, French, Spanish or Arabic [QA0020, QA0021, V0049, QA0046]. You can appeal to the TAR (Tribunale Amministrativo Regionale, the regional administrative court) of Lazio within 60 days of notification, serving the appeal also on the Avvocatura dello Stato (the State Legal Service) [V0050, QA0048]. TAR appeals against a revoked nulla osta or visa can cost thousands of euros [QA0022]. A visa already issued is revoked if facts come to light that would have barred it [QA0056].
 
    > **Need to know**
-   > - How many working days from VFS submission to visa in 2026 for a Decreto Flussi visa?
-   > - How does a worker appeal a refused Italian work visa, by what deadline, and at which court?
+   > - How many working days from VFS submission to visa does the Dhaka Embassy take in 2026 for a new (2025 or later) Decreto Flussi nulla osta?
+
 
 **Check it is real:**
 
 1. **Your details.** The nulla osta, issued by the SUI, must carry your exact name, surname, sex and date of birth [W0113, W0036].
 2. **The Embassy's check.** The Embassy verifies every nulla osta registered on the webform before it gives an appointment; in May 2025 it said over 70% of webform entries carried fake or invalid nulla osta [M0031, M0005].
-3. **Ask the employer for the SUI's emails.** Verification of a nulla osta is done in Italy, and the Embassy tells holders to ask their employer for updates [W0090, W0018].
+3. **Ask the employer for the SUI's emails.** Verification of a nulla osta is done in Italy, and the Embassy tells holders to ask their employer for updates [W0090, W0018]. Official messages about the file usually go only to the employer, and there is no public portal to check a nulla osta by its number [QA0028, QA0027].
 4. **Ask the Embassy in writing** at visti.dhaka@esteri.it, attaching the nulla osta [W0106].
 5. **The webform status** on vfseu.mioot.com shows your application's progress, and VFS notices come by SMS and email [W0129, M0023].
 
 > **Need to know**
-> - Is there a public online check of a nulla osta number (by the Interior Ministry or the Embassy) that a worker can use without the employer?
 > - Can a worker check an Italian visa sticker's number online, or only by writing to visti.dhaka@esteri.it?
 > - What does a forged nulla osta sold in Dhaka typically get wrong (protocol number, SUI name, QR code)?
 
@@ -604,13 +602,13 @@ You have 8 working days from entry to apply for the permesso di soggiorno (resid
    - **How it works:** you start with 16 credits and must reach 30 credits within two years, including spoken Italian at level A2 and basic knowledge of the Constitution and civil life (health, school, work, tax) [K0095, K0099, K0105, K0096, K0097]. If you have children, you commit to send them to school [K0098].
    - **The civic course:** a free session of 5 to 10 hours, within three months of signing; missing it costs 15 of your 16 credits [K0100, K0101, K0102].
    - **Earning credits:** without certificates, the SUI can test you, also at a CPIA (public adult-education centre) [K0103]. Enrolling with the health service and choosing a doctor gives 4 credits (Step 7, item 6) [K0082].
-   - **The check:** one month before the two years end, the SUI asks you to send documents within 15 days and offers a free test [K0104]. 30 credits or more closes the agreement; 1 to 29 extends it one year; zero or less means the permit is revoked or not renewed and you are expelled [K0105, K0106, K0107, K0091].
+   - **The check:** one month before the two years end, the SUI asks you to send documents within 15 days and offers a free test [K0104]. 30 credits or more closes the agreement; 1 to 29 extends it one year; zero or less means the permit is revoked or not renewed and you are expelled [K0105, K0106, K0107, K0091]. Credits are also taken away for crimes or serious breaches of the law [QB0022].
 
    > **Need to know**
    > - Do Prefetture in 2026 actually call Bangladeshi workers to the civic session, and is it in person or online?
    > - Has any Bangladeshi worker had a permit refused for failing the integration agreement check?
 
-5. **Register your residence at the comune (iscrizione anagrafica).** A non-EU citizen with a regular permit registers in the anagrafe (population register) of the comune where they live, on the same terms as Italians; in Rome it is compulsory [K0073, K0059]. You can register before the permit card arrives [K0062, K0071].
+5. **Register your residence at the comune (iscrizione anagrafica).** A non-EU citizen with a regular permit registers in the anagrafe (population register) of the comune where they live, on the same terms as Italians; in Rome it is compulsory [K0073, K0059]. The law requires you to ask for registration within 20 days of posting your permit application [QB0016]. You can register before the permit card arrives [K0062, K0071].
 
    You'll need (Rome and Milan lists for a worker awaiting the first work permit) [K0061, K0062, K0112, K0113, K0070, K0114, K0115, K0116]:
 
@@ -657,8 +655,8 @@ You have 8 working days from entry to apply for the permesso di soggiorno (resid
 The main scams, each covered where it happens:
 
 - **The fake or empty nulla osta.** Firms in Italy have filed hiring requests only to sell the nulla osta, with no job behind it, and networks have used employers' names without their knowledge (Step 1, item 4) [N0109, N0103, D0100]. In May 2025 the Embassy found fake or invalid nulla osta in over 70% of webform entries; check yours as in Step 5, "Check it is real" [M0005, M0031].
-- **"I know someone at the Embassy."** Italian Foreign Ministry staff and two Bangladeshi middlemen were arrested in 2025 over exactly this offer (see How a job reaches you, and who takes a cut) [N0072, N0073]. The Embassy and VFS take only the published fees, and paying an intermediary risks cancellation of the visa and legal action [M0007, N0043].
-- **Paid appointments.** Embassy appointments are free, including through VFS [B0053].
+- **"I know someone at the Embassy."** Italian Foreign Ministry staff and two Bangladeshi middlemen were arrested in 2025 over exactly this offer (see How a job reaches you, and who takes a cut) [N0072, N0073, QA0003]. The Embassy and VFS take only the published fees, and paying an intermediary risks cancellation of the visa and legal action [M0007, N0043].
+- **Paid appointments.** Embassy appointments are free, including through VFS; brokers have taken money promising to guarantee one (Step 5, item 1) [B0053, QA0035].
 - **The "L/N carta blu" nulla osta,** sold as a sure route; it is only for highly qualified workers (Step 5, "Scams") [M0015, M0013].
 - **The passport held as security.** One broker kept a worker's passport until the last instalment; a ring working from a Gulshan-1 travel agency in Dhaka took a woman's passport and returned it only after she paid Tk 4.4 lakh into their bank accounts [N0059, N0162, N0095]. Neither the Embassy nor VFS holds a passport against your will [M0007].
 - **Someone else flies on your visa.** In July 2026 the CID (Criminal Investigation Department) arrested seven members of the same ring, who had sent another woman to Italy on a woman's family visa; she learned at Dhaka airport that the other woman had flown on 24 April [N0093, N0096]. The broker approached her as she collected her passport from the Embassy [N0094]. Its alleged leader, Belayet Hossain, had sent about 30 people this way since 2016 [N0097].
@@ -669,21 +667,21 @@ Complain as in Step 1, item 7 [B0139].
 
 - **Fake Schengen visas.** In May 2026 three men flew to Rome on fake Schengen visas with a Biman ground officer's help; two were caught at Rome airport and sent back, after agreeing Tk 30 lakh each and paying Tk 20 lakh up front, and the CID arrested the officer [N0090, N0091, N0092]. The Embassy warns that entering with a fraudulent visa leads to immediate repatriation [M0035].
 - **Two applications with two passports.** Only one visa application per person is allowed at a time [W0116, P0113].
-- **Forged papers.** A nulla osta obtained with forged or fraudulent documents is refused or revoked, and forging or using a forged visa, permit or contratto di soggiorno carries 1 to 6 years' prison in Italy (see What can get you jailed or deported) [W0038, W0065].
+- **Forged papers.** A nulla osta obtained with forged or fraudulent documents is refused or revoked, and forging or using a forged visa, permit or contratto di soggiorno carries 1 to 6 years' prison in Italy (see What can get you jailed or deported) [W0038, W0065]. Italian embassies report every forged document behind a visa application to the Italian judicial authorities [QA0055].
 
 ### Your rights at work
 
-With a valid permit you have, by law, the same treatment and rights at work as an Italian worker [L0019]. Minimum pay and overtime premiums are set by the CCNL (contratto collettivo nazionale di lavoro, the national collective contract) for your sector; before your nulla osta (work authorisation) was issued, a labour consultant or employer organisation had to certify that your employer follows it (Work visa: Decreto Flussi worker (non-seasonal), Step 2) [L0023, L0034, L0035, W0051]. For unpaid or underpaid wages, overtime, 13th month or TFR, use the steps under If you aren't paid [L0077, L0079, L0080].
+With a valid permit you have, by law, the same treatment and rights at work as an Italian worker [L0019]. Minimum pay and overtime premiums are set by the CCNL (contratto collettivo nazionale di lavoro, the national collective contract) for your sector; if you came on a Decreto Flussi (Italy's yearly work-quota decree) nulla osta (work authorisation), a labour consultant or employer organisation had to certify that your employer follows it, as part of the employer's hiring request, unless you work as a domestic worker for an employer who is not self-sufficient ("Work visa: Decreto Flussi worker (non-seasonal)", Step 2) [L0023, L0034, L0035, W0051, W0031, D0019]. Each CCNL has a code in the register of CNEL (Consiglio Nazionale dell'Economia e del Lavoro, the national council that keeps the archive of national collective contracts deposited with it); the main sector contracts, each signed by member federations of the trade union confederations CGIL, CISL and UIL, are A011 for farm workers, F012 for construction, H052 for hotels and tourism, H05Y for bars, restaurants and catering (the contract signed by the employers' federation FIPE), K511 for cleaning and multiservices, I100 for logistics and H501 for domestic work [QB0037, QB0038, QB0039, QB0040, QB0041, QB0042, QB0043, QB0044, QB0045]. For unpaid or underpaid wages, overtime, 13th month or TFR (trattamento di fine rapporto, end-of-service pay), use the steps under If you aren't paid [L0077, L0079, L0080].
 
 > **Need to know**
-> - Which CCNL do most Bangladeshi Decreto Flussi workers find written on their contratto di soggiorno (contract of stay), and is it often a "pirate" contract signed by minor unions with lower minimums?
+> - Which CCNL code do most Bangladeshi Decreto Flussi workers find on their contratto di soggiorno (contract of stay), and how often is it a "pirate" contract signed by minor unions with lower minimums instead of the CGIL-CISL-UIL contract for the sector?
 
 #### Pay: the minimum in your sector
 
 Monthly or hourly minimums, gross (before tax and contributions), in the sectors where most Bangladeshis are hired, at EUR 1 = about Tk 139.6 [G0001]:
 
 - **Farm work (operai agricoli):** the national floor for Area 3 (common workers) from 1 June 2026 is EUR 1,042.43 a month (about Tk 1,45,500), and for nursery and flower workers EUR 7.99 an hour (about Tk 1,115) [L0032, L0033, G0001]. Real farm pay is set in each province's contract, which may not go below these floors; provincial wages rose 3.4% on 1 June 2026 and rise another 1.7% on 1 January 2027 [L0034, L0030, L0031].
-- **Construction (Edilizia Industria):** a common labourer (operaio comune) earns at least EUR 9.48 an hour (about Tk 1,323) nationally from 1 March 2026, plus provincial extras; in Ragusa, for example, EUR 10.45 an hour or EUR 1,807.23 a month (about Tk 2,52,300) for 40 hours a week over 5 days [L0035, L0039, L0038, G0001]. Holiday pay and the Christmas bonus are set aside at 18.5% of gross pay and paid to you by the Cassa Edile (the construction industry's fund), not by the employer [L0036, L0037].
+- **Construction (Edilizia Industria):** a common labourer (operaio comune) earns at least EUR 9.48 an hour (about Tk 1,323) nationally from 1 March 2026, the level I rate, or EUR 1,640.56 a month (about Tk 2,29,000), rising to EUR 9.77 an hour (about Tk 1,364) or EUR 1,690.56 a month (about Tk 2,36,000) on 1 March 2027 [L0035, QB0034, QB0035, G0001]. On top comes the indennità territoriale di settore (area allowance), which differs by province or region; in Ragusa, for example, a common labourer gets EUR 10.45 an hour or EUR 1,807.23 a month (about Tk 2,52,300) for 40 hours a week over 5 days [QB0036, L0039, L0038, G0001]. Holiday pay and the Christmas bonus are set aside at 18.5% of gross pay and paid to you by the Cassa Edile (the construction industry's fund), not by the employer [L0036, L0037].
 - **Hotels (CCNL Turismo):** from May 2026 at least EUR 1,412.60 a month at level 7 (about Tk 1,97,200) and EUR 1,507.45 at level 6 (EUR 8.76 an hour, about Tk 1,223), paid 14 times a year, with the 13th month in December and the 14th in July [L0040, L0041, L0042, G0001]. Seasonal hotel workers get the same minimums, and their 13th, 14th and unused leave are paid at the end of the job with the TFR (trattamento di fine rapporto, end-of-service pay; see End-of-service pay (TFR)) [L0044, L0045].
 - **Bars, restaurants, pizzerias, canteens and catering:** a separate contract, the FIPE CCNL, not the hotel one [L0043].
 - **Cleaning (pulizie e multiservizi):** a level-2 cleaner earns at least EUR 1,413.50 a month full-time from 1 October 2026 (about Tk 1,97,300), or EUR 8.17 an hour (about Tk 1,141); much cleaning work is part-time, and pay is cut in proportion to the hours [L0046, L0047, L0048, G0001].
@@ -711,7 +709,7 @@ Normal hours are 40 a week [L0020]. With overtime, the average may not exceed 48
 
 #### Sick pay
 
-1. **Go to your medico di base (family doctor),** chosen when you enrol with the health service (Work visa: Decreto Flussi worker (non-seasonal), Step 7); the doctor sends the sickness certificate online to INPS (Istituto Nazionale della Previdenza Sociale, the national social security institute), so you don't send it yourself [K0082, L0054].
+1. **Go to your medico di base (family doctor),** chosen when you enrol with the health service ("Work visa: Decreto Flussi worker (non-seasonal)", Step 7); the doctor sends the sickness certificate online to INPS (Istituto Nazionale della Previdenza Sociale, the national social security institute), so you don't send it yourself [K0082, L0054].
 2. **Stay at home during check hours,** 10:00 to 12:00 and 17:00 to 19:00, every day on the certificate, weekends and holidays included [L0058].
 
 What you get: INPS pays from day 4, at 50% of average daily pay up to day 20 and 66.66% from day 21 to day 180; the first three days are paid by the employer only if your CCNL says so [L0055, L0056, L0057].
@@ -762,7 +760,7 @@ You'll need [K0017, K0019, K0020, W0138]:
 4. **Go to the Questura on the date** to be fingerprinted again [W0062, L0111]. Then check when the card is ready on poliziadistato.it [K0029].
 5. **Renew your residence registration at the comune within 60 days of every renewal,** or you are struck off the register one year after the permit expires [K0066, K0067].
 
-What you get back: a permit, issued or renewed by law within 90 days [W0063, L0110]. A permit is also revoked or not renewed if your integration agreement (accordo di integrazione, signed on arrival) ends with zero credits (Work visa: Decreto Flussi worker (non-seasonal), Step 7) [K0107].
+What you get back: a permit, issued or renewed by law within 90 days [W0063, L0110]. A permit is also revoked or not renewed if your integration agreement (accordo di integrazione, signed on arrival) ends with zero credits ("Work visa: Decreto Flussi worker (non-seasonal)", Step 7) [K0107].
 
 > **Need to know**
 > - What contribution goes on the bollettino for a 3-year renewal (the 2017 decree lists EUR 40 and EUR 50 only for permits up to 2 years)?
@@ -873,10 +871,10 @@ If the pay is far below the CCNL and comes with degrading work or housing, it ma
 
 #### Changing employer
 
-A permit for employment can be used for other legal work, and losing or leaving a job does not cancel it (If you lose your job) [L0114, L0014]. The exceptions are EU Blue Card holders (the permit for highly qualified workers) and out-of-quota care workers, who need the labour office's prior approval to change employer in their first 12 months [W0083, D0064]. In August 2026 Bangladesh raised with Italy the case of several hundred workers who entered regularly in 2022-23 but cannot change employer or extend their permits because their sponsors can't be reached [B0038].
+A permit for employment can be used for other legal work, and losing or leaving a job does not cancel it (If you lose your job) [L0114, L0014, L0015]. The exceptions are EU Blue Card holders (the permit for highly qualified workers) and out-of-quota care workers, who need the labour office's prior approval to change employer in their first 12 months [W0083, D0064]. In August 2026 Bangladesh raised with Italy the case of several hundred workers who entered regularly in 2022-23 but cannot change employer or extend their permits because their sponsors can't be reached [B0038]. If the Decreto Flussi employer loses interest after you arrive and never signs the contratto di soggiorno, a 2007 circular allows a permesso per attesa occupazione (job-seeking permit), but only with the written authorisation of the head of the SUI (Sportello Unico per l'Immigrazione, the immigration desk at the Prefettura); Questure issued 886 job-seeking permits in all in 2023, 835 in 2024 and 666 in 2025 [QA0024, QA0023, QA0025]. In one case caseworkers followed, no other employer could sign the contract, because only the employer who had called the worker could hire her for the permit [QA0026].
 
 > **Need to know**
-> - When the Decreto Flussi employer never signs the contratto di soggiorno at the SUI (Sportello Unico per l'Immigrazione, the immigration desk at each Prefettura), can the worker get a job-seeking permit or be taken on by another employer, as some regional administrative courts (TAR Veneto, TAR Campania) allowed in 2024-2025?
+> - How does a worker ask the head of the SUI for a job-seeking permit when the Decreto Flussi employer never signs, how long does it take, and have TAR rulings (TAR Veneto, TAR Campania, 2024-2025) let another employer take the worker on?
 > - What does a new employer have to file, and where, to take on a worker whose permit names another employer, and does the Questura accept the new employer at the first renewal?
 
 **If you resign:** resign only online, on the Ministry of Labour form at lavoro.gov.it; a paper letter has no effect [L0095]. A patronato, union or the ITL can send it for you, and you can withdraw it within seven days [L0097, L0096]. Resigning loses NASpI unemployment pay, unless you resign for just cause, forced by the employer's conduct so the job cannot go on [L0070, L0071].
@@ -941,7 +939,7 @@ A private employer filing alone may send at most three nulla osta requests a yea
 
 ### Step 1: Find a real seasonal employer
 
-1. **Know who can hire you.** Only an employer in Italy, or its trade association on its behalf, can ask for you by name [D0124]. The nulla osta is refused or revoked if the employer has been sanctioned for undeclared work or has no real business [D0046]. An employer that did not sign the contratto di soggiorno (the contract of stay signed after you arrive) for workers it asked for in the last three years cannot apply, nor can one sent to trial for slavery, trafficking or caporalato (illegal gangmaster labour) [D0029, D0030]. How to check an employer: see Work visa: Decreto Flussi worker (non-seasonal), Step 1.
+1. **Know who can hire you.** Only an employer in Italy, or its trade association on its behalf, can ask for you by name [D0124]. The nulla osta is refused or revoked if the employer has been sanctioned for undeclared work or has no real business [D0046]. An employer that did not sign the contratto di soggiorno (the contract of stay signed after you arrive) for workers it asked for in the last three years cannot apply, nor can one sent to trial for slavery, trafficking or caporalato (illegal gangmaster labour) [D0029, D0030]. How to check an employer: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 1.
 
    **Scams:** in Bangladesh, one man paid an agency over EUR 7,000 (about Tk 9.8 lakh) for an employer contact and expected to pay as much again when the visa came [D0090, G0001]. Networks have filed applications in the names of employers who did not know their names were used [D0098, D0100]. One, broken up in Grosseto in September 2025, brought in nearly 200 Bangladeshis with fake employers, charging EUR 2,000-4,000 (about Tk 2.8-5.6 lakh) per application, collected in Bangladesh and Italy; some families mortgaged land to pay [D0098, D0099, D0128, G0001]. In a network broken up around Latina in 2014, about 40 farm employers had filed false hiring requests for money, and migrants paid the network EUR 6,000-8,000 (about Tk 8.4-11.2 lakh) each [D0103, D0104, D0105, G0001]. One worker who arrived for a company that did not exist fell into irregular status [D0091]. More: Work visa: Decreto Flussi worker (non-seasonal), Scams.
 
@@ -956,21 +954,21 @@ A private employer filing alone may send at most three nulla osta requests a yea
 
 The employer, or its trade association, does this step; you can only check it was done [D0124].
 
-1. **The employer pre-fills and sends form C-Stag on the ALI portal,** C-Stag agricolo for farm jobs and C-Stag turistico for tourism, from 9:00 on click day, after pre-filling it [P0011, P0016, P0017, P0020, P0036]. Seasonal jobs skip the check at the Centro per l'Impiego (public job centre) that non-seasonal and domestic jobs need [D0017]. The portal and the employer's documents: see Work visa: Decreto Flussi worker (non-seasonal), Step 3.
+1. **The employer pre-fills and sends form C-Stag on the ALI portal,** C-Stag agricolo for farm jobs and C-Stag turistico for tourism, from 9:00 on click day, after pre-filling it [P0011, P0016, P0017, P0020, P0036]. Seasonal jobs skip the check at the Centro per l'Impiego (public job centre) that non-seasonal and domestic jobs need [D0017]. The portal and the employer's documents: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 3.
 2. **The SUI issues the nulla osta** within 20 days of the application winning a quota place [D0027]. For a Bangladeshi it first waits for the Questura's approval and the INL's check of the employer [D0024, D0025, D0026].
 
-**Check it is real:** as for any nulla osta (see Work visa: Decreto Flussi worker (non-seasonal), Step 5).
+**Check it is real:** as for any nulla osta (see "Work visa: Decreto Flussi worker (non-seasonal)", Step 5).
 
 > **Need to know**
 > - How long do Questura and INL checks on seasonal nulla osta for Bangladeshis actually take in 2026?
 
 ### Step 3: Visa, documents and the flight
 
-You apply at VFS Global, the company that takes all Italian visa applications in Bangladesh, and give fingerprints, as every work visa applicant must [W0099, M0021]. The fees, documents and Bangladesh-side steps are the same as for the non-seasonal worker (see Work visa: Decreto Flussi worker (non-seasonal), Step 4; Step 5; Step 6).
+You apply at VFS Global, the company that takes all Italian visa applications in Bangladesh, and give fingerprints, as every work visa applicant must [W0099, M0021]. Seasonal visas for workers from Bangladesh and the other countries Italy treats as "at risk" (Pakistan, Sri Lanka and Morocco) have been issued about ten months late [QA0019, QA0013]. The fees, documents and Bangladesh-side steps are the same as for the non-seasonal worker (see "Work visa: Decreto Flussi worker (non-seasonal)", Step 4; Step 5; Step 6).
 
 ### Step 4: After arrival
 
-1. **Start work, and sign the contratto di soggiorno.** You can start work as soon as you arrive with the nulla osta and visa, before the contract is signed [D0032]. Signing, the permesso di soggiorno (residence permit) and the codice fiscale (tax code): see Work visa: Decreto Flussi worker (non-seasonal), Step 7. In practice, workers have waited up to a year for a Prefettura appointment to sign, and employers often disappear [D0095]. One Bangladeshi farm worker who arrived in October 2022 was paid and housed, never got the appointment, and three years later had his nulla osta revoked [D0096]. Another, who entered legally in 2023, was refused a permit by the Latina Questura, ordered expelled and held at Ponte Galeria in Rome, a CPR (Centro di permanenza per il rimpatrio, a detention centre for people being deported) [D0097]. Bangladeshis who entered on the Decreto Flussi and found no job, because the employer could not be found or was a scam, have formed a committee in Rome, Tikase [D0094].
+1. **Start work, and sign the contratto di soggiorno.** You can start work as soon as you arrive with the nulla osta and visa, before the contract is signed [D0032]. Signing, the permesso di soggiorno (residence permit) and the codice fiscale (tax code): see "Work visa: Decreto Flussi worker (non-seasonal)", Step 7. In practice, workers have waited up to a year for a Prefettura appointment to sign, and employers often disappear [D0095]. One Bangladeshi farm worker who arrived in October 2022 was paid and housed, never got the appointment, and three years later had his nulla osta revoked [D0096]. Another, who entered legally in 2023, was refused a permit by the Latina Questura, ordered expelled and held at Ponte Galeria in Rome, a CPR (Centro di permanenza per il rimpatrio, a detention centre for people being deported) [D0097]. Bangladeshis who entered on the Decreto Flussi and found no job, because the employer could not be found or was a scam, have formed a committee in Rome, Tikase [D0094].
 
    > **Need to know**
    > - Now that the contract is uploaded online within 15 days of entry, do seasonal workers still wait for a Prefettura appointment, and in which provinces (Rome, Latina, Naples, Caserta)?
@@ -994,7 +992,7 @@ Farm and hotel pay follow their own national collective contracts (CCNL, contrat
 
 1. **Take a second seasonal job.** Within the nine months, your permit can be extended for a new seasonal job with the same or another employer, if it starts within 60 days of the end of the last contract [D0036, D0035].
 2. **Come back on a multi-year nulla osta.** With a three-year seasonal nulla osta, the Embassy issues the visa for the second and third years when you show the employer's contract proposal [D0041]. In those later years a different employer can make the request [D0042].
-3. **Convert to a non-seasonal permit.** After at least three months of regular work, if an employer offers you a fixed-term or permanent contract, you can ask the SUI to convert your seasonal permit into a work permit [D0040, W0073] (see Changing visa type).
+3. **Convert to a non-seasonal permit.** After at least three months of regular work, if an employer offers you a fixed-term or permanent contract, you can ask the SUI to convert your seasonal permit into a work permit [D0040, W0073] (see Changing visa type). By December 2025, 16,360 nulla osta had been issued on 32,016 such requests made in 2025 [QA0029].
 4. **Otherwise, go home** at the end of the nine months, unless you hold a permit for another reason [D0039]. Going home on time keeps your priority for the next season [D0031]. Italy closed seasonal work to Bangladeshis in 2012 after Bangladeshi farm workers did not go home after each season [N0140] (see What closed it before). A seasonal permit lasts at most nine months in twelve, and only a permit of at least one year lets you bring your family, so a seasonal worker cannot sponsor a wife or children [D0035, F0007].
 
 > **Need to know**
@@ -1053,19 +1051,19 @@ The family does this step; you can only check it was done [D0019, P0011].
 
 1. **The family asks the job centre first.** It must ask the Centro per l'Impiego whether a worker already in Italy can fill the job; if the centre offers no one within 8 days, it can go ahead [D0019, D0018].
 2. **The family gets the job certified.** It needs an asseverazione (a labour consultant's or employers' organisation's certificate that the job meets the rules), unless the employer is not self-sufficient [D0019].
-3. **The family files form A-bis on the ALI portal** on click day: 18 February 2027 from 9:00 for the 2027 round [P0011, P0019, P0020]. The pay stated must follow the domestic-work CCNL and be no less than the assegno sociale (the state's minimum social allowance: EUR 7,002.97, about Tk 9.8 lakh, a year in 2025) [D0020, G0001]. Pre-filling and the rest of the procedure: see Work visa: Decreto Flussi worker (non-seasonal), Step 3.
+3. **The family files form A-bis on the ALI portal** on click day: 18 February 2027 from 9:00 for the 2027 round [P0011, P0019, P0020]. The pay stated must follow the domestic-work CCNL and be no less than the assegno sociale (the state's minimum social allowance: EUR 7,002.97, about Tk 9.8 lakh, a year in 2025) [D0020, G0001]. Pre-filling and the rest of the procedure: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 3.
 
 > **Need to know**
 > - Do families' A-bis applications for Bangladeshi workers get through the Questura's checks in 2026, and how long do they take?
 
 ### Step 3: Visa, documents and arrival
 
-1. **Get the visa and fly** as in Work visa: Decreto Flussi worker (non-seasonal), Step 4 to Step 6.
-2. **Check the family registers you with INPS.** If you start work before the contratto di soggiorno is signed, the family must file the hiring notice with INPS itself [D0032, D0033]. Contract, permit and codice fiscale: see Work visa: Decreto Flussi worker (non-seasonal), Step 7.
+1. **Get the visa and fly** as in "Work visa: Decreto Flussi worker (non-seasonal)", Step 4 to Step 6.
+2. **Check the family registers you with INPS.** If you start work before the contratto di soggiorno is signed, the family must file the hiring notice with INPS itself [D0032, D0033]. Contract, permit and codice fiscale: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 7.
 
 ### Your rights as a domestic worker
 
-The domestic-work CCNL (CCNL lavoro domestico) was renewed on 28 October 2025 [D0074].
+The domestic-work CCNL (CCNL lavoro domestico, code H501 in the register of CNEL, the national council that files collective contracts) was renewed on 28 October 2025 and runs to 31 October 2028; it is signed by the families' associations FIDALDO (Nuova Collaborazione, Assindatcolf, ADLD and ADLC) and DOMINA, and by the unions FILCAMS CGIL, FISASCAT CISL, UILTUCS UIL and Federcolf [D0074, QB0045].
 
 #### Pay
 
@@ -1097,7 +1095,7 @@ For unpaid wages see If you aren't paid.
 
 ### The out-of-quota care route
 
-Each year from 2025 to 2028, up to 10,000 workers can enter outside the quota to care for people with disabilities, very old people or children up to six [D0058, D0059, D0060, P0043]. The family can't apply on its own: it applies through a registered employment agency (APL, agenzia per il lavoro) or an employers' association that signed the domestic-work CCNL [D0061]. It can't hire its own spouse or relatives up to the third degree this way [D0062]. For the first 12 months you may only do that care work, and changing employer needs the local labour inspectorate's prior approval [D0063, D0064].
+Each year from 2025 to 2028, up to 10,000 workers can enter outside the quota to care for people with disabilities, very old people or children up to six [D0058, D0059, D0060, P0043]. The family can't apply on its own: it applies through a registered employment agency (APL, agenzia per il lavoro) or an employers' association that signed the domestic-work CCNL, that is FIDALDO (Nuova Collaborazione, Assindatcolf, ADLD, ADLC) or DOMINA [D0061, QB0045]. It can't hire its own spouse or relatives up to the third degree this way [D0062]. For the first 12 months you may only do that care work, and changing employer needs the local labour inspectorate's prior approval [D0063, D0064]. In 2025, 238 carers entered this way, from 599 applications [QA0031].
 
 > **Need to know**
 > - Has any Bangladeshi entered on the out-of-quota care route, and which agencies (APL) filed for them?
@@ -1120,7 +1118,7 @@ The employer needs a contract or binding offer of at least six months, at pay no
 ### Step 1: The employer gets your L/N nulla osta
 
 1. **The employer applies to the SUI,** which issues or refuses the nulla osta within 30 days [W0082]. The employer's declarations are checked for truthfulness [P0035].
-2. **Take the L/N nulla osta to a VFS centre, walk-in.** No webform booking is needed: bring a printed copy of the nulla osta and a copy of your passport data page; the Embassy checks the nulla osta and emails you a date to submit the application [W0130, W0131]. VFS addresses and hours: see Work visa: Decreto Flussi worker (non-seasonal), Step 5.
+2. **Take the L/N nulla osta to a VFS centre, walk-in.** No webform booking is needed: bring a printed copy of the nulla osta and a copy of your passport data page; the Embassy checks the nulla osta and emails you a date to submit the application [W0130, W0131]. VFS addresses and hours: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 5.
 
 **Scams:** the Embassy has warned against brokers selling a "Nulla Osta L/N code - carta blu" [M0015]. Very few Bangladeshi L/N applicants have succeeded, most because they were not highly qualified, and a valid L/N nulla osta does not guarantee a visa [M0014, M0013].
 
@@ -1133,8 +1131,8 @@ The employer needs a contract or binding offer of at least six months, at pay no
    - a copy of the nulla osta, with your name, surname, sex and date of birth checked to avoid long delays [R0009];
    - your degree with a dichiarazione di valore (the Italian Embassy's statement of the degree's value) or a CIMEA certificate (from Italy's centre for recognising foreign qualifications), or contracts or payslips proving five years in the sector, translated and apostilled [W0118].
 
-   Fees, photos and fingerprints are as in Work visa: Decreto Flussi worker (non-seasonal), Step 5.
-2. **Follow the after-arrival steps** in Work visa: Decreto Flussi worker (non-seasonal), Step 7. A permit for managers and specialised workers under Article 27 carries a EUR 100 (about Tk 14,000) contribution [K0049, G0001]. For the first 12 months, changing employer needs the labour office's prior approval [W0083]. You may bring your family whatever the length of your permit (see Family reunification) [W0084].
+   Fees, photos and fingerprints are as in "Work visa: Decreto Flussi worker (non-seasonal)", Step 5.
+2. **Follow the after-arrival steps** in "Work visa: Decreto Flussi worker (non-seasonal)", Step 7. A permit for managers and specialised workers under Article 27 carries a EUR 100 (about Tk 14,000) contribution [K0049, G0001]. For the first 12 months, changing employer needs the labour office's prior approval [W0083]. You may bring your family whatever the length of your permit (see Family reunification) [W0084].
 
 > **Need to know**
 > - How many Blue Card visas did the Embassy issue to Bangladeshis in 2025 and 2026, and in which jobs?
@@ -1183,7 +1181,7 @@ The Embassy's checklist covers consultants and officers of an existing Italian c
    - civil-status papers: if married, the nikahnama translated into English and apostilled (one apostille per document); a talaknama if divorced; the spouse's death certificate if widowed [W0125, P0126];
    - a flight booking with a PNR (booking reference) [P0127].
 
-2. **Submit at VFS and pay** in cash the EUR 116 visa fee (Tk 16,240) and the EUR 38 VFS charge (Tk 5,320), at the Embassy's rate of EUR 1 = Tk 140, plus a Tk 270 bank draft charge [M0028, M0022, M0020]. VFS addresses, hours and booking: see Work visa: Decreto Flussi worker (non-seasonal), Step 5.
+2. **Submit at VFS and pay** in cash the EUR 116 visa fee (Tk 16,240) and the EUR 38 VFS charge (Tk 5,320), at the Embassy's rate of EUR 1 = Tk 140, plus a Tk 270 bank draft charge [M0028, M0022, M0020]. VFS addresses, hours and booking: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 5. By law the Embassy has 120 days to issue a self-employment visa [QA0049].
 
 ## Student visa
 
@@ -1205,7 +1203,7 @@ For courses starting in 2026/27, visa applications must reach the Embassy by 30 
 
 The visa needs your HSC (or bachelor's) certificate backed either by statements from CIMEA (Italy's official centre for comparing foreign qualifications) or by a Declaration of Value (Dichiarazione di Valore, DoV: the Italian Embassy's statement of what your certificate is worth in Italy) [V0090, V0070]. Whichever the university uses, the Embassy needs a DoV or a CIMEA statement that also confirms the certificate is genuine [V0103]. From 2026/27 a university can no longer accept you "with reservation" while these papers are missing [V0102].
 
-1. **Apostille your certificates first,** following Work visa: Decreto Flussi worker (non-seasonal), Step 4. The Italian Embassy no longer legalises Bangladeshi documents; they need an apostille (the international stamp of authenticity) from Bangladesh's Ministry of Foreign Affairs (MoFA) through the MyGov portal, at Tk 200 a page, in 5 working days, after your Education Board and the Ministry of Education verify the SSC (Secondary School Certificate) and HSC [V0010, B0156, B0158].
+1. **Apostille your certificates first,** following "Work visa: Decreto Flussi worker (non-seasonal)", Step 4. The Italian Embassy no longer legalises Bangladeshi documents; they need an apostille (the international stamp of authenticity) from Bangladesh's Ministry of Foreign Affairs (MoFA) through the MyGov portal, at Tk 200 a page, in 5 working days, after your Education Board and the Ministry of Education verify the SSC (Secondary School Certificate) and HSC [V0010, B0156, B0158].
 2. **Either: apply to CIMEA yourself** on [cimea-diplome.it](https://cimea-diplome.it/), its only official channel [V0118]. Use the Comparability & Verification service, meant for qualifications from countries outside the Lisbon Recognition Convention (the European treaty on recognising qualifications) [V0114]:
    - **Cost:** EUR 300 (about Tk 41,900) per qualification, which is EUR 245.90 plus VAT [V0113, G0001].
    - **Time:** 60 working days; the comparability part can be done in 30 working days for EUR 100 (about Tk 14,000) more, but the verification part always takes the ordinary time [V0115, V0116, G0001].
@@ -1261,7 +1259,7 @@ The visa needs your HSC (or bachelor's) certificate backed either by statements 
 
 1. **Apply for the study permit within 8 working days,** at the Questura (the provincial police headquarters that issues residence permits) of the city where you will live, with the kit from a post office or a desk at the university [V0093]. The post office receipt proves you are in Italy legally until the permit is ready [V0094]. Patronati (free advice offices run by trade unions) and some municipalities help fill in the kit free [V0095]. Information: poliziadistato.it, portaleimmigrazione.it, toll-free 803160 [V0096].
 2. **Enrol at the university by 31 January.** From 31 January of the academic year the visas of students not yet enrolled are revoked and the Questura is told [V0092].
-3. **For the codice fiscale (tax code), the health service and a bank account,** follow Work visa: Decreto Flussi worker (non-seasonal), Step 7.
+3. **For the codice fiscale (tax code), the health service and a bank account,** follow "Work visa: Decreto Flussi worker (non-seasonal)", Step 7.
 
 ### How long you can stay
 
@@ -1341,7 +1339,7 @@ The Embassy may ask for more [V0028]. The money you must show for a visit is set
 
 ### Step 2: Book and apply at VFS
 
-1. **Apply only through VFS Global,** the Embassy's only visa service provider in Bangladesh [V0001]. Book at [visa.vfsglobal.com/bgd/en/ita](https://visa.vfsglobal.com/bgd/en/ita/), call +880 9606777666 or +880 966611384 (from mobiles only), or email info.itbd@vfshelpline.com [V0001]. The appointment is free [V0009].
+1. **Apply only through VFS Global,** the Embassy's only visa service provider in Bangladesh [V0001]. Apply no more than six months and, as a rule, at least 15 calendar days before the trip; the decision is due within 15 days, extendable to 45 in specific cases [QA0052, QA0053, QA0054]. Book at [visa.vfsglobal.com/bgd/en/ita](https://visa.vfsglobal.com/bgd/en/ita/), call +880 9606777666 or +880 966611384 (from mobiles only), or email info.itbd@vfshelpline.com [V0001]. The appointment is free [V0009].
 2. **Go to a VFS centre,** Sunday to Thursday, 9 am to 12 noon [V0005]:
    - **Dhaka:** Nafi Tower (4th and 5th floor), 53 South Gulshan Avenue, Gulshan 1, Dhaka 1212 [V0002];
    - **Chattogram:** World Trade Center, 102/103 Agrabad C/A, Commerce College Road, Chattogram 4100 [V0003];
@@ -1358,7 +1356,7 @@ The Embassy may ask for more [V0028]. The money you must show for a visit is set
 
 > **Need to know**
 > - What is VFS's service charge in Taka for an Italian Schengen visa in 2026, and how long is the wait for an appointment?
-> - How many working days does the Dhaka Embassy take to decide a tourist visa in 2026?
+> - How many working days does the Dhaka Embassy actually take to decide a tourist visa in 2026, against the 15-day legal limit?
 > - Is there an official way to check an Italian Schengen visa sticker's number from Bangladesh, beyond showing it at VFS or the Embassy?
 
 ### Step 3: At the border
@@ -1375,13 +1373,13 @@ No: a visit visa does not allow work, study or applying to stay in Italy [V0044]
 
 ### If the visa is refused
 
-The refusal letter must give reasons; you can appeal to the TAR (Regional Administrative Court) of Lazio within 60 days [V0049, V0050].
+The refusal letter must give reasons, in a language you understand or else in English, French, Spanish or Arabic; you can appeal to the TAR (Regional Administrative Court) of Lazio within 60 days of notification, and the appeal must also be served on the Avvocatura dello Stato (the State Legal Service) [V0049, QA0046, V0050, QA0048].
 
 ### Scams
 
 #### Done to travellers
 
-Rome police arrested three Italian Embassy officials in Dhaka and two Bangladeshis in February 2025; their syndicate allegedly sold tourist visas for EUR 7,000 (about Tk 9.8 lakh) and work visas for EUR 15,000 [V0136, G0001]. Anyone who charges you for a VFS appointment is cheating you: appointments are free [V0009].
+In February 2025 Rome prosecutors obtained a custody order against five people, among them two Italian Foreign Ministry employees who had served at the Embassy in Dhaka and two Bangladeshis; their syndicate allegedly sold tourist visas for EUR 7,000 (about Tk 9.8 lakh) and work visas for EUR 15,000 [QA0003, N0072, N0073, V0136, G0001]. Foreign Ministry inspections since 2023 have uncovered criminal networks in Italy that profit from fraudulent tourist visas [QA0002]. Anyone who charges you for a VFS appointment is cheating you: appointments are free [V0009].
 
 #### Tried by travellers
 
@@ -1395,16 +1393,16 @@ Ricongiungimento familiare (family reunification) is how a foreigner living lega
 
 - **Your wife or husband,** aged 18 or over and not legally separated [F0001]. If you already live in Italy with one wife, a second wife cannot come [F0006].
 - **Children under 18** on the day you apply, unmarried, including your wife's children and children born outside marriage; the other parent, if alive, must consent [F0002, F0005].
-- **Adult children** only if they depend on you because of a health condition amounting to total disability [F0003].
+- **Adult children** only if they depend on you because of a health condition amounting to total disability [F0003]. A doctor appointed by the Italian Embassy certifies the condition, at your cost; the same applies to the illness of the other children when a parent over 65 comes for that reason [QB0003].
 - **Parents** who depend on you and have no other children in Bangladesh, or parents over 65 whose other children cannot support them for documented serious health reasons [F0004, F0079].
 
-No other relatives, such as brothers, sisters or in-laws, can come on a family visa [F0079].
+The other parent of your child under 18 living legally in Italy can also come, to join the child, if the income and housing rules are met; your income and housing count for this [QB0002]. No other relatives, such as brothers, sisters or in-laws, can come on a family visa [F0079].
 
 ### Who can sponsor, and the income line
 
 1. **Your permit:** an EU long-term permit, or a permit of at least one year for work, self-employment, international protection, study, religious or family reasons [F0007]. An EU Blue Card holder can bring family whatever the length of the permit [W0084]. An asylum seeker still waiting for a final decision cannot apply [F0025].
 2. **Two years in Italy:** to bring a wife or husband, a disabled adult child or a parent, you must have lived legally in Italy without a break for at least two years when you apply [F0008]. This does not apply to children under 18, or to people with international protection [F0008].
-3. **Income:** a lawful yearly income of at least the assegno sociale (Italy's state minimum pension, EUR 7,101.12 a year in 2026) plus half of it for each person you bring [F0012, F0017]. Count it from last year's tax return or CUD (Certificazione Unica, the employer's yearly income statement), or from all your payslips if you started work less than a year ago [F0046]. The income of relatives living with you also counts [F0014]. The 2026 lines are [F0017, F0018, G0001]:
+3. **Income:** a lawful yearly income of at least the assegno sociale (Italy's state minimum pension, EUR 7,101.12 a year in 2026) plus half of it for each person you bring [F0012, F0017]. Count it from last year's tax return or CUD (Certificazione Unica, the employer's yearly income statement), or from all your payslips if you started work less than a year ago [F0046]. The income of relatives living with you also counts [F0014]. Refugees and people with subsidiary protection (the second form of international protection) don't have to meet the income line [QB0001]. The 2026 lines are [F0017, F0018, G0001]:
    - 1 person: EUR 10,651.68 a year (about Tk 14.9 lakh) [F0017, G0001];
    - 2 people: EUR 14,202.24 (about Tk 19.8 lakh) [F0017, G0001];
    - 3 people: EUR 17,752.80 (about Tk 24.8 lakh) [F0017, G0001];
@@ -1435,11 +1433,11 @@ VFS takes cash only, at the Embassy's rate of EUR 1 = Tk 140 [M0022].
 
 ### Step 1: Get the housing suitability certificate
 
-The certificato di idoneità alloggiativa (housing suitability certificate) is issued by the comune where you live [F0044, F0010].
+The certificato di idoneità alloggiativa (housing suitability certificate) is issued by the comune where you live [F0044, F0010]. It is valid for at most 6 months from issue [QB0007].
 
 You'll need:
 
-- a rental contract, registered and running at least six months from the date you will apply [F0043], or, if you own the home, the purchase deed (contratto di compravendita) [R0004];
+- a rental contract, registered and running at least six months from the date you will apply [F0043], or, if you own the home, the purchase deed (contratto di compravendita) [R0004], or a registered comodato d'uso (free-loan contract) running at least six months, with form S2 signed by the owner [QB0008]; if you or your family will live as guests in someone else's home, the host's rental contract, deed or loan contract, the host's family status certificate, a declaration of who else lives there, and form S2 signed by the owner and by the tenant if different [QB0009, QB0010];
 - if you are not the only holder of the home, form S2 signed by the holder(s), consenting to host your family, with a signed copy of their ID [F0045].
 
 **In Rome:**
@@ -1454,7 +1452,7 @@ You'll need:
 
 ### Step 2: Apply for the nulla osta on the ALI portal
 
-You apply online, on the Interior Ministry's immigration portal (ALI); the law gives the SUI 150 days to decide [F0027, F0020, P0044].
+You apply online, on the Interior Ministry's immigration portal (ALI); the law gives the SUI 150 days to decide [F0027, F0031, F0020, P0044]. Employers' associations, trade unions and authorised associations can file the application for you [QB0011].
 
 You'll need:
 
@@ -1462,11 +1460,11 @@ You'll need:
 - a EUR 16 revenue stamp [F0039];
 - scans of your passport and your family's passports (the pages with number and personal details), your valid permit (or the expired one with the renewal receipt), your codice fiscale and your family status certificate from the comune [F0042];
 - the housing certificate (Family reunification, Step 1), or the receipt of its request [F0044];
-- income papers: last tax return or CUD (all payslips if employed under a year), your contract or Unilav (the employer's hiring notice), the last three payslips, and form S3 signed by your employer within the last month showing the job continues and your monthly pay, with the employer's ID [F0046, F0047];
+- income papers: last tax return or CUD (all payslips if employed under a year), your contract or Unilav (the employer's hiring notice), the last three payslips, and form S3 signed by your employer within the last month showing the job continues and your monthly pay [F0046, F0047]; a domestic worker gives instead the last tax return (730 or Unico) with its e-filing receipt, the hiring notice filed with INPS (Istituto Nazionale della Previdenza Sociale, Italy's social security agency), the last three INPS contribution slips with proof of payment, and form S3 [QB0004]; a self-employed worker gives a visura camerale (chamber of commerce extract) no more than a month old, any licence or professional registration the work needs, and an accountant's statement (bilancino) of this year's income, plus last year's Modello Unico tax return if the business is over a year old [QB0005, QB0006];
 - for a parent over 65, your signed undertaking to take out health insurance [F0048].
 
 1. **Log in with SPID** at nullaostalavoro.dlci.interno.it, fill in the family reunification form, and enter the revenue stamp's number [F0027, F0039].
-2. **Attach the documents as PDFs,** with forms S1 (one child under 14), S2 and S3 or S3 bis as needed [F0028].
+2. **Attach the documents as PDF, JPEG or TIFF files of at most 3MB each,** with forms S1 (one child under 14), S2 and S3 or S3 bis as needed [F0028, QB0012].
 3. **Watch the "communications" section** of the ALI portal and your email: the SUI first asks the Questura (provincial police headquarters) to check for criminal records, then handles files in order of arrival [F0029, F0031].
 4. **If you get a notice that papers are missing,** go to the SUI on the date it gives with the missing papers and the originals; if they are still incomplete that day, the application is rejected [F0030].
 5. **Go to the SUI when called** with the original revenue stamp, a second EUR 16 stamp, your permit and a copy [F0040].
@@ -1474,15 +1472,15 @@ You'll need:
 
 **Check it is real:** a genuine nulla osta appears in your own ALI portal account, under communications [F0032]. Check that your family's names, sex and dates of birth on it match their passports exactly, or the visa will be badly delayed [F0155, P0094].
 
-**Time limit:** the nulla osta is valid 6 months and cannot be extended; your family must apply for the visa within that time [F0033, F0034].
+**Time limit:** the nulla osta is valid 6 months from the date it is issued and cannot be extended; your family must apply for the visa within that time [F0033, F0034, QB0013].
 
 > **Need to know**
 > - How long do the SUIs in Rome, Milan and Venice actually take to issue a family nulla osta in 2026?
-> - Are the nulla osta's 6 months counted from the application date or from the date of issue?
+
 
 ### Step 3: Prepare and apostille the papers in Bangladesh
 
-Bangladesh joined the Apostille Convention on 30 March 2025, and the Embassy now wants the marriage, family and child documents in original with an apostille from MoFA (Bangladesh's Ministry of Foreign Affairs), one apostille per document [F0151, B0051, F0068, F0069, F0076, F0070]. How to get an apostille: see Work visa: Decreto Flussi worker (non-seasonal), Step 4 [B0157].
+Bangladesh joined the Apostille Convention on 30 March 2025, and the Embassy now wants the marriage, family and child documents in original with an apostille from MoFA (Bangladesh's Ministry of Foreign Affairs), one apostille per document [F0151, B0051, F0068, F0069, F0076, F0070]. How to get an apostille: see "Work visa: Decreto Flussi worker (non-seasonal)", Step 4 [B0157].
 
 You'll need:
 
@@ -1522,7 +1520,7 @@ You'll need:
 5. **Track the application on VFS's passport tracker** and keep the phone number and email you gave working: if the Embassy wants more documents, the tracker shows it with a deadline, and missed messages are your own responsibility [F0083].
 6. **Collect the passport within 90 days,** or it goes back to the Embassy and on to Bangladesh's Ministry of Home Affairs [F0084, F0085].
 
-VFS states a minimum of 21 calendar days [F0056].
+A family reunion visa needs a minimum of 21 calendar days at VFS [F0056]; by law the Embassy issues it within 30 days of the application, unless checks with foreign authorities are needed [QA0049, QA0051].
 
 > **Need to know**
 > - How long did a family visa take at VFS Dhaka in 2026, from submission to passport return?
@@ -1532,28 +1530,28 @@ VFS states a minimum of 21 calendar days [F0056].
 ### Step 5: After arrival
 
 1. **Within 48 hours,** you or the host give a written declaration of hospitality to the police or the comune [F0035].
-2. **Within 8 days,** book an SUI appointment on the ALI portal ("book an appointment"), with the SPID used for the application; the passport entry stamp proves the date [F0036].
-3. **At the SUI,** the entry is registered, the residence permit papers are completed and the family member gets a codice fiscale; the permit is the permesso di soggiorno per motivi familiari (family residence permit) [F0037, K0051, F0092].
-4. **For health service enrolment, residence registration and fingerprints,** follow Work visa: Decreto Flussi worker (non-seasonal), Step 7; health cover extends to dependent family members staying legally in Italy [K0079].
+2. **Within 8 working days,** book an SUI appointment on the ALI portal ("book an appointment") and go to it, with the SPID used for the application; the passport entry stamp proves the date [F0036, QB0014]. For a parent over 65, take out the health insurance in this time, before going to the SUI [QB0021].
+3. **At the SUI,** the entry is registered, the residence permit papers are completed and the family member gets a codice fiscale; the permit is the permesso di soggiorno per motivi familiari (family residence permit) [F0037, K0051, F0092]. Each family member over 16 also signs the integration agreement and is called to a civic session (see "Work visa: Decreto Flussi worker (non-seasonal)", Step 7, item 4) [QB0015, K0092].
+4. **Register the family's residence at the comune within 20 days of posting the permit application,** with copies of the nulla osta, the permit application form (Mod. 209) and the post-office receipt [QB0016, QB0017]. For health service enrolment and fingerprints, follow "Work visa: Decreto Flussi worker (non-seasonal)", Step 7; health cover extends to dependent family members staying legally in Italy [K0079].
 
 ### Keeping the family permit
 
 - It lasts as long as the sponsor's permit and is renewed with it [F0093].
 - It allows work as an employee or self-employed, study, and registering at job centres [F0092].
 - A child under 18 living with you gets a family permit valid until 18, or the EU long-term permit if you hold one [F0109].
-- If the sponsor dies, or the couple legally separate or divorce, the family permit can be converted into a work or study permit [F0094].
+- If the sponsor dies, or the couple legally separate or divorce, the family permit can be converted into a work or study permit [F0094]. It can also be converted into a work permit on request whenever you meet the conditions for one [QB0018].
 - A permit given on marriage is revoked at once if the couple do not actually live together, unless they have a child [F0097]. A marriage made only to get a permit gets the application refused [F0024].
 
 ### If the nulla osta or visa is refused
 
-You can challenge a refused nulla osta or family permit in the ordinary court (tribunale) [F0095].
+You can challenge a refused nulla osta or family permit in the ordinary court (tribunale ordinario) of the place where you live [F0095, QB0020]. A refused family visa can also be appealed to the ordinary court, with no time limit, and the appeal is served on the Avvocatura dello Stato (the State Legal Service) [QA0047, QA0048].
 
 > **Need to know**
-> - What is the deadline to appeal a refused family nulla osta or visa, and which lawyers or patronati in Rome and Milan take these cases?
+> - What is the deadline to appeal a refused family nulla osta, and which lawyers or patronati (free welfare advice offices, most run by trade unions) in Rome and Milan take these cases?
 
 ### Scams
 
-- **Fake civil status papers:** in May 2025 the Embassy said it was finding more and more fake Bangladeshi and Italian civil status documents in family applications [F0152]. A forged paper means refusal and a flag in the Schengen system that permanently affects future travel to the EU [F0153]. Each applicant is personally responsible for every document filed in their name [P0111].
+- **Fake civil status papers:** in May 2025 the Embassy said it was finding more and more fake Bangladeshi and Italian civil status documents in family applications [F0152]. A forged paper means refusal and a flag in the Schengen system that permanently affects future travel to the EU [F0153]. Each applicant is personally responsible for every document filed in their name [P0111]. A sponsor who makes false statements or files forged papers is reported to the courts in Italy and in his home country [QB0019].
 - **Duplicate applications:** a second application in another passport is not allowed [F0080, P0113].
 
 > **Need to know**
@@ -1608,19 +1606,22 @@ A child under 18 living with a legally resident parent gets a family permit vali
 2. **Submit the printed application at the Embassy** with the Italian birth record naming the child and both parents and copies of both parents' passports; the baby does not need to come [F0115, F0118]. The fee is EUR 1 (about Tk 140) [B0082, G0001].
 3. **Collect the certificate:** it usually takes 5 working days [F0117].
 
-Register a birth only once: registering the same person twice is an offence [F0119].
+Register a birth only once: registering the same person twice is an offence [F0119]. The Consulate in Milan also registers births, with the online bdris form, both parents' passport copies, the comune or hospital birth certificate naming the child and both parents, and one colour photo; a parent must come in person [QC0013, QC0014]. To correct a registration later, fill in the form at [bdris.gov.bd/br/correction](https://bdris.gov.bd/br/correction) and attach the proof online, such as the atto di nascita for a wrong name or age [QC0015].
 
 ### Step 4: Get the child a Bangladeshi passport
 
-1. **Fill in the passport form on passport.gov.bd;** at the payment page click "Skip Payment", because the Embassy enters the fee [F0121].
-2. **Book one appointment for the whole family** on the Embassy's website [F0126].
-3. **Bring** the Bangladeshi birth registration certificate, a copy of the Italian birth record, copies of both parents' passports, and photos (2 of the child, 1 of each parent) [F0120].
-4. **Pay by bank card,** not cash: a child's passport costs EUR 100 (about Tk 14,000) [F0122, F0123, G0001].
-
-A child under 2 getting a first passport does not need to come; an older child must [F0124]. The passport is printed in Dhaka and usually reaches the Embassy within 2 months; there is no urgent service [F0125].
+1. **Fill in the e-passport form at [epassport.gov.bd/onboarding](https://www.epassport.gov.bd/onboarding)** and print it with its barcode (see Help from the Bangladesh Embassy in Rome and Consulate in Milan, item 1); machine-readable passports stopped on 31 December 2025 [QC0031, QC0038, QC0043].
+2. **Book one appointment for the whole family** online at [bdembassyrome.com](https://www.bdembassyrome.com) [F0126, B0085]. In Milan a newborn's first passport needs no appointment [QC0030].
+3. **Bring** the printed form, the Bangladeshi birth registration certificate, a copy of the Italian birth record, copies of both parents' passports, and a 4R-size photo of the child [F0120, QC0038]. For a child under 6 the photo must be clear, on a white background, face straight, both ears showing, with no cap or band, or the application is refused; from age 6 the photo is taken by camera at enrolment [QC0039, QC0040]. Under the old machine-readable passport rules a child under 2 did not need to come; an older child had to [F0124].
 
 > **Need to know**
-> - Does the Rome Embassy charge EUR 100 for a child's first passport, as its FAQ says, or EUR 105 or 130 as on its 2026 fee list?
+> - For a child's first e-passport, must a child under 2 come to the Embassy or Consulate, now that under-6s give no fingerprints and their photo is uploaded?
+4. **Pay by bank card,** not cash: a child's passport costs EUR 100 (about Tk 14,000) [F0122, F0123, G0001].
+
+The passport is printed in Dhaka and usually reaches the Embassy within 2 months; there is no urgent service [F0125].
+
+> **Need to know**
+> - Does the Rome Embassy charge EUR 100 for a child's first passport, as its FAQ says, or EUR 105 or 130 as on its 2026 fee list, and is it still paid at the counter (the old form's "Skip Payment") with the e-passport form?
 
 ### Can the child become Italian?
 
@@ -1635,7 +1636,7 @@ For the parents' own citizenship, see Becoming an Italian citizen.
 2. Email it with the passports to bdvisa.rome@gmail.com and wait for approval [F0128].
 3. Book an appointment and pay EUR 50 (about Tk 7,000) per passport; the seal takes 5 working days [F0130, F0131, G0001].
 
-A child without a Bangladeshi passport also needs the Bangladeshi birth certificate and the parents' Bangladeshi passports for the seal [F0129].
+A child without a Bangladeshi passport also needs the Bangladeshi birth certificate and the parents' Bangladeshi passports for the seal [F0129]. In Milan, hand in the online visa form with the photo uploaded, one passport-size colour photo, and copies of the Bangladeshi passport, the parents' passports and the birth registration or NID; from outside Milan add a DHL or TNT return envelope [QC0025, QC0026].
 
 ### If a parent has no permit
 
@@ -1655,12 +1656,12 @@ Bangladeshis were still the largest group of applicants in Italy in 2025: 28,365
 
 ### Bangladesh is a "safe country"
 
-Bangladesh has been on Italy's list of safe countries of origin since a Ministerial Decree of 7 May 2024 [A0002]. In October 2024 the government wrote the list into Article 2-bis of Legislative Decree 25/2008 (the Procedure Decree, Italy's main asylum procedure law), and Bangladesh is still on it [A0003, A0001]. On 23 February 2026 the EU adopted its first common list: Bangladesh, Colombia, Egypt, India, Kosovo, Morocco and Tunisia [A0006, A0007]. It applies from 12 June 2026 with the rest of the EU Pact on Migration and Asylum (the EU's common asylum and return rules), and Italy keeps its own list alongside it [A0008, A0009]. The European Commission can suspend a country from the EU list after an assessment [A0010].
+Bangladesh has been on Italy's list of safe countries of origin since a Ministerial Decree of 7 May 2024 [A0002]. In October 2024 the government wrote the list into Article 2-bis of Legislative Decree 25/2008 (the Procedure Decree, Italy's main asylum procedure law), and Bangladesh is still on it [A0003, A0001]. On 23 February 2026 the EU adopted its first common list, Regulation (EU) 2026/464: Bangladesh, Colombia, Egypt, India, Kosovo, Morocco and Tunisia [A0006, A0007, QA0038]. In listing Bangladesh, the EU noted that six member states already treated it as safe and found, in general, no persecution there [QA0039, QA0040]. It is part of the EU Asylum Procedure Regulation and applies from 12 June 2026 with the rest of the EU Pact on Migration and Asylum (the EU's common asylum and return rules), and Italy keeps its own list alongside it [QA0045, QA0044, A0008, A0009]. The European Commission can suspend a country from the EU list after an assessment [A0010].
 
 What it means for an applicant:
 
-- **You must prove Bangladesh is unsafe for you personally.** A claim can be rejected as "manifestly unfounded" (obviously without basis) if you have not shown serious reasons why Bangladesh is not safe for you in particular [A0004]. The Questura (the provincial police headquarters, which registers asylum claims) must warn you of this when the claim is lodged [A0005].
-- **Fast track.** A nationality with an EU-wide recognition rate of 20% or lower goes into the accelerated procedure, which must end within three months [A0011, A0012]. Across the EU, 4% of Bangladeshi applicants succeeded in 2024 [A0104].
+- **You must prove Bangladesh is unsafe for you personally.** A claim can be rejected as "manifestly unfounded" (obviously without basis) if you have not shown serious reasons why Bangladesh is not safe for you in particular [A0004]. Each claim is still assessed individually, and the EU rules name LGBTIQ people, victims of gender-based violence, human rights defenders, religious minorities and journalists as needing special attention [QA0041, QA0042]. The Questura (the provincial police headquarters, which registers asylum claims) must warn you of this when the claim is lodged [A0005].
+- **Fast track.** A nationality with an EU-wide recognition rate of 20% or lower goes into the accelerated procedure, which must end within three months [A0011, A0012]. Across the EU, 4% of Bangladeshi applicants succeeded in 2024 [QA0039].
 - **Border procedure.** Italy's law implementing the Pact makes the border procedure compulsory for people from countries with an acceptance rate below 20% [A0013]. Italy must examine up to 16,032 claims a year this way between 12 June 2026 and 12 June 2027 [A0014]. During it you must stay at or near the border or in a designated place, which does not count as entering Italy [A0015]; in practice this has amounted to detention [A0082]. The Territorial Commission (the local panel that decides asylum claims) must decide within four weeks, and the whole border procedure must end within twelve weeks [A0072, A0018, A0017].
 
 **The August 2025 court ruling:** on 1 August 2025 the EU Court of Justice ruled, in the case of two Bangladeshis taken from the sea to Italy's detention centre in Albania, that a country designated safe by law must be open to review by a court, on sources the applicant can see [A0032, A0033]. It also ruled that a country that does not protect its whole population cannot be listed, but only until the new EU Regulation took effect on 12 June 2026, which allows exceptions for groups of people [A0035, A0034]. The ruling affected transfers to Albania but did not take Bangladesh off either list [A0036, A0001, A0007].
@@ -1926,7 +1927,7 @@ A detainee admitted to AVR stays in the CPR until the flight, within the maximum
 
 Since 1 July 2018 every employer in Italy must pay wages, and any advance, through a bank or post office by a traceable method, never in cash; an employer who pays cash is fined EUR 1,000 to 5,000 (about Tk 1.4 lakh to Tk 7 lakh) [G0057, G0058, G0001]. Payment onto a prepaid card in your name counts, even a card without an IBAN (international bank account number) [G0060]. Your signature on the payslip (busta paga) does not prove you were paid, so keep your bank statements as proof (see If you aren't paid) [G0059].
 
-1. **Open a conto di base (basic bank account).** Banks and Poste Italiane must offer it to everyone staying legally in the EU, including asylum seekers and refugees [G0050]. It gives transfers, salary credit, a bank card, cash withdrawals and deposits, and automatic bill payment [G0048]. It is free if your ISEE (indicatore della situazione economica equivalente, the official family means figure) is below EUR 11,600 (about Tk 16.2 lakh) a year; above that it still costs much less than an ordinary account [G0047, G0049, G0001]. You can't open one if you already have another current account in Italy, unless you close it, or use it for a business [G0049].
+1. **Open a conto di base (basic bank account).** Banks, Poste Italiane and other payment providers must offer it to everyone staying legally in the EU, not only in Italy, including people with no fixed address, refugees and asylum seekers; you need not be resident in Italy [QB0046, QB0047, QB0048, QB0050]. It gives transfers, salary credit, a bank card, cash withdrawals and deposits, and automatic bill payment [G0048]. It is free if your ISEE (indicatore della situazione economica equivalente, the official family means figure) is below EUR 11,600 (about Tk 16.2 lakh) a year; above that it still costs much less than an ordinary account [G0047, QB0049, G0049, G0001]. You can't open one if you already have another current account in Italy, unless you close it, or use it for a business [G0049].
 
    You'll need:
    - your codice fiscale (Italian tax code), even a numeric provisional one [G0053];
@@ -1935,7 +1936,7 @@ Since 1 July 2018 every employer in Italy must pay wages, and any advance, throu
    1. Go to a bank branch or post office and say: "Vorrei aprire un conto di base. Il mio ISEE è sotto 11.600 euro, quindi deve essere gratuito." ("I want to open a basic account. My ISEE is below EUR 11,600, so it must be free.") [G0047]
    2. Show the codice fiscale and the permit or receipt [G0053, G0054].
 
-   **If it fails:** in 2026 Banca d'Italia (Italy's central bank) found that banks failed to offer or hid basic accounts, and that their computer systems shut out migrants with numeric provisional tax codes or permit receipts; only 180,000 basic accounts existed at the end of 2025 against 7 million people eligible [G0051, G0052]. If a bank refuses your numeric codice fiscale, permit or receipt, go to a patronato (a free welfare advice office, most run by trade unions), a trade union or a migrants' association such as ASGI (Associazione per gli Studi Giuridici sull'Immigrazione, a migration lawyers' association) [G0056]. Then complain in writing (see If the money doesn't arrive, which gives the same complaint route for banks) [G0061].
+   **If it fails:** in 2026 Banca d'Italia (Italy's central bank) found that banks resisted opening basic accounts for people legally in the EU but not resident, people seen as a money-laundering risk and people with little money, and had computer systems that shut out numeric provisional tax codes and permit receipts, while customers reported being offered dearer accounts instead [QB0050, QB0051, QB0057]; only 180,000 basic accounts existed at the end of 2025 against 7 million people eligible [G0052]. It told banks that your personal or money situation is no reason to refuse, that nobody may be refused just for belonging to a group seen as risky, that the basic account must always be offered next to any other account, that their systems must accept those documents, and that their compliance and internal audit staff must check by 30 November 2026 that every obstacle is gone [QB0053, QB0054, QB0055, QB0052, QB0058]. A bank that refuses should tell you promptly why, unless the reason is public order, security or money laundering, and that you can turn to Banca d'Italia or the ABF (Arbitro Bancario Finanziario, the banking ombudsman) [QB0056]. If a bank refuses your numeric codice fiscale, permit or receipt, go to a patronato (a free welfare advice office, most run by trade unions), a trade union or a migrants' association such as ASGI (Associazione per gli Studi Giuridici sull'Immigrazione, a migration lawyers' association) [G0056]. Then complain in writing (see If the money doesn't arrive, which gives the same complaint route for banks) [G0061].
 
 > **Need to know**
 > - Which banks and Poste Italiane branches in Rome and Milan open a conto di base for a Decreto Flussi (quota work visa) worker holding only his first permit receipt, and how many days does it take?
@@ -1977,7 +1978,7 @@ Complain in this order:
 
 ### Tax on your pay
 
-IRPEF (imposta sul reddito delle persone fisiche, Italy's income tax) is 23% on income up to EUR 28,000 a year (about Tk 39 lakh) and 33% from EUR 28,000 to 50,000 (about Tk 70 lakh), after the 2026 Budget Law cut the middle rate from 35% [G0066, G0067, G0065, G0001]. Since 2025 a worker who is not an Italian, EU or EEA (European Economic Area) citizen gets no tax deduction for family members living abroad, such as a wife, children or parents in Bangladesh [G0068]. The deduction for parents applies only to parents living with you, up to EUR 750 (about Tk 1 lakh) [G0069, G0001]. The article of the income tax code that sets these family deductions (TUIR article 12) is repealed from 1 January 2027 [M0016].
+IRPEF (imposta sul reddito delle persone fisiche, Italy's income tax) is 23% on income up to EUR 28,000 a year (about Tk 39 lakh) and 33% from EUR 28,000 to 50,000 (about Tk 70 lakh), after the 2026 Budget Law cut the middle rate from 35% [G0066, G0067, G0065, G0001]. Since 2025 a worker who is not an Italian, EU or EEA (European Economic Area) citizen gets no tax deduction for family members living abroad, such as a wife, children or parents in Bangladesh [G0068, QB0025]. For family living in Italy, the yearly deduction until 31 December 2026 is up to EUR 800 (about Tk 1.1 lakh) for a wife or husband, EUR 950 (about Tk 1.3 lakh) for each child aged 21 to 29, and EUR 750 (about Tk 1 lakh) for each parent living with you, each shrinking as your income rises [QB0024, QB0026, QB0027, QB0028, G0069, G0001]. A family member counts only if their own income is no more than EUR 2,840.51 a year (about Tk 4 lakh), or EUR 4,000 (about Tk 5.6 lakh) for a child up to 24 [QB0029, G0001]. The article of the income tax code that sets these family deductions (TUIR article 12) is repealed from 1 January 2027 [M0016].
 
 > **Need to know**
 > - What replaces the TUIR article 12 family deductions from 1 January 2027 under Legislative Decree 117/2026, and does any of it cover family in Bangladesh?
@@ -2006,7 +2007,7 @@ In Italy, INAIL (Istituto nazionale per l'assicurazione contro gli infortuni sul
 
 These steps are for a relative or friend in Italy and the family in Bangladesh.
 
-1. **Get the death certificate** from the Italian hospital or the comune (town hall) [B0111].
+1. **Get the death certificate** from the Italian hospital or the comune (town hall) [B0111]. To also register the death in Bangladesh, one relative fills in the form at [bdris.gov.bd/dr/application](https://bdris.gov.bd/dr/application) and brings the Italian death certificate to the Consulate in Milan [QC0017, QC0018].
 2. **Ask the Embassy or Consulate for the nulla osta (no-objection letter) to send the body home.** It is free; the mission pays the air freight if the worker was a Welfare Board member, or on application if the family is poor [B0091, B0092, B0110]. Email Rome's labour welfare wing, welfare.rome@gmail.com, or in Milan fslbcgmilan@gmail.com and mission.milan@mofa.gov.bd [B0093, B0112].
 
    You'll need [B0093, B0111]:
@@ -2026,7 +2027,7 @@ These steps are for a relative or friend in Italy and the family in Bangladesh.
 
 3. **At Dhaka airport,** the Welfare Board's desk gives a Tk 35,000 cheque for transport and burial, and its ambulance carries the body free from Dhaka or Chattogram airport [B0108, B0137, B0169].
 4. **The Tk 3 lakh grant.** The Welfare Board pays the family of a member who dies abroad a Tk 3 lakh grant [B0107]. Bangladeshis in Italy aged 18 to 65 can become members at the Embassy or Consulate (see Help from the Bangladesh Embassy in Rome and Consulate in Milan) [B0122, B0105, B0082].
-5. **The insurance.** Workers who left with BMET (Bureau of Manpower, Employment and Training) clearance since 12 March 2023 are insured for Tk 10 lakh for 5 years, bought with a one-time Tk 1,000 premium paid at clearance (Work visa: Decreto Flussi worker (non-seasonal), Step 6) [B0131, B0132]. Call 16135 (+8809610102030 from abroad) to start a claim [B0144].
+5. **The insurance.** Workers who left with BMET (Bureau of Manpower, Employment and Training) clearance since 12 March 2023 are insured for Tk 10 lakh for 5 years, bought with a one-time Tk 1,000 premium paid at clearance ("Work visa: Decreto Flussi worker (non-seasonal)", Step 6) [B0131, B0132]. Call 16135 (+8809610102030 from abroad) to start a claim [B0144].
 6. **Italian pension.** If the worker died after pensionable age, the family can get a survivors' pension under the general rules [L0010].
 
 > **Need to know**
@@ -2100,25 +2101,42 @@ Bangladesh has an Embassy in Rome, a Consulate General in Milan, and honorary co
 
 **Passport.**
 
-1. **Apply online** at [epassport.gov.bd/onboarding](https://www.epassport.gov.bd/onboarding), choosing country Italy and your mission; choosing a Bangladesh district sends the file to that district's passport office instead [B0117].
-2. **Book an appointment:** Rome at [bdembassyrome.com](https://www.bdembassyrome.com); Milan at [passport.bcgmilan.it](https://passport.bcgmilan.it/), which opens every Thursday, asks for the OID number from the online form and confirms by email within 72 hours [B0085, B0115, B0116].
-3. **Pay by bank card;** the Rome Embassy takes no cash [B0084]. Rome charges EUR 130 (about Tk 18,100) for 10 years and EUR 105 (about Tk 14,700) for 5 years [B0078, G0001].
-4. **Wait and collect.** Passports are printed in Dhaka; at the Rome Embassy they usually arrive within 2 months of enrolment, and there is no emergency passport service [B0086]. Check progress with the ITA100000... number on your enrolment slip; return by DHL usually costs EUR 10 to 20 (about Tk 1,400 to Tk 2,800) [B0088, B0089, G0001].
+1. **Apply online** at [epassport.gov.bd/onboarding](https://www.epassport.gov.bd/onboarding), choosing country Italy and your mission; choosing a Bangladesh district sends the file to that district's passport office instead [B0117]. Machine-readable passports (MRP) stopped on 31 December 2025, so every application is for an e-passport [QC0031]. Living abroad, you can apply with an English birth registration that is online instead of an NID (national ID card), unless your earlier MRP was made with an NID [QC0032]. Fill in the form in Acrobat Reader, save it and reopen it offline to print, so the full small barcode shows: Milan cannot enrol a form with an incomplete, large barcode [QC0043].
+2. **Book an appointment:** Rome at [bdembassyrome.com](https://www.bdembassyrome.com); Milan at [passport.bcgmilan.it](https://passport.bcgmilan.it/), which opens every Thursday, asks for the OID number from the online form and confirms by email within 72 hours [B0085, B0115, B0116]. Milan also gives dates for urgent cases through a [Google form](https://docs.google.com/forms/d/1QZ_aqFhPqt6wrLZXHddZrQerC25w_AA1VdCaY0aIZfo/viewform), and a newborn's first passport needs no appointment there [QC0029, QC0030]. At enrolment, everyone aged 12 or over gives fingerprints and an iris scan, children aged 6 to 11 fingerprints only, and children under 6 neither [QC0041, QC0042].
+3. **Pay by bank card;** the Rome Embassy takes no cash [B0084]. Rome charges EUR 130 (about Tk 18,100) for 10 years and EUR 105 (about Tk 14,700) for 5 years [B0078, G0001]. In Milan, students get a discount with a student certificate (ছাত্রত্ব সনদ) from their school, university or comune (municipality) [QC0037].
+4. **Wait and collect.** Passports are printed in Dhaka; at the Rome Embassy they usually arrive within 2 months of enrolment, and there is no emergency passport service [B0086]. Check progress with the ITA100000... number on your enrolment slip; return by DHL usually costs EUR 10 to 20 (about Tk 1,400 to Tk 2,800) [B0088, B0089, G0001]. To collect in Milan, bring the customer copy of the receipt, the enrolment slip or a copy of the old passport, the previous original passport, and the police report if it was lost; a parent comes for a minor [QC0027, QC0028].
 
-You can renew when 6 months or less are left [B0087]. If your passport is lost in Italy, file a denuncia (police report) at the Questura (provincial police headquarters) or the Carabinieri (the military police force), and bring the original report with a copy of the old passport and your NID (national ID card) or English birth certificate [B0118, B0120]. Without an NID, a birth certificate and a valid permesso di soggiorno let you correct your name, parents' names or age (by up to 8 years) [B0121]. For a Travel Permit to go home without a valid passport, see Going home without valid papers, Step 1 [B0080].
+You can renew when 6 months or less are left [B0087]. If your passport is lost in Italy, file a denuncia (police report) at the Questura (provincial police headquarters) or the Carabinieri (the military police force), and bring the original report with a copy of the old passport and your NID or English birth certificate [B0118, B0120]. Without an NID, a birth certificate and a valid permesso di soggiorno (residence permit) let you correct your name, parents' names or age (by up to 8 years), but Milan took these applications only until 30 June 2026 [B0121, QC0035, QC0034]. For a Travel Permit to go home without a valid passport, see Going home without valid papers, Step 1 [B0080].
 
 > **Need to know**
-> - The Rome Embassy's FAQ gives EUR 100 for any passport [B0083]; which fee does it charge at the counter in November 2026?
+> - The Rome Embassy's FAQ gives EUR 100 for any passport [B0083]; which fee does it charge at the counter in November 2026, and what do the Milan Consulate's passport fee and student discount come to?
 
-**NID.** Apply at the Rome Embassy with the online form, your English birth registration and its online-verified copy, your valid passport and a copy, and one photo [B0095].
+**NID.** Apply at the Rome Embassy with the online form, your English birth registration and its online-verified copy, your valid passport and a copy, and one photo [B0095]. To correct details in a passport, an adult needs the NID and an undertaking (অঙ্গীকারনামা, a signed declaration), and a minor under 18 the birth registration and an undertaking [QC0033, QC0036].
+
+> **Need to know**
+> - After 30 June 2026, can a Bangladeshi in Italy without an NID still correct a passport in Rome or Milan with a birth registration and a permesso di soggiorno?
 
 **Power of attorney** (to let someone in Bangladesh act for you, for example on land or a court case). Bring a written power of attorney with the full names, dates of birth and document numbers of everyone giving and receiving it, 2 passport photos of each, copies of the givers' valid passports and the receivers' passports or NIDs; everyone giving it must come in person [B0113, B0114]. Rome charges EUR 50 (about Tk 7,000) for the first 5 pages, then EUR 5 (about Tk 700) a page [B0081, G0001].
+
+**Certificates.** The Milan Consulate issues family, dependent, unmarried, marriage, divorce, nationality, education, income and other certificates against your valid passport and a copy, and you come in person [QC0001, QC0003, QC0006, QC0009, QC0012, QC0021, QC0022, QC0024, QC0044]. The Bangladeshi marriage and divorce deeds, family details certificate, parent's affidavit and unmarried certificate must first be attested by the Law Ministry and MoFA (Bangladesh's Ministry of Foreign Affairs) in Dhaka and apostilled, and school certificates by the Education Ministry and MoFA (see "Work visa: Decreto Flussi worker (non-seasonal)", Step 4) [QC0001, QC0003, QC0004, QC0006, QC0012, QC0022, B0157]. Also bring:
+- **Family certificate (paribarik sanad):** the nikahnama (marriage deed) and every family member's birth registration or passport copy [QC0001, QC0002].
+- **Dependent certificate:** the family details certificate from the Pourashava (municipality) or City Corporation, or every member's birth registration, passport or NID; for a student, a parent's affidavit on non-judicial stamp paper giving the family's yearly income, or the same family documents [QC0003, QC0004].
+- **Unmarried certificate:** one from your home district's Deputy Commissioner (the district administrator), less than 6 months old, handed in 7 working days early, because MoFA in Dhaka verifies it [QC0006, QC0007, QC0008].
+- **Marriage or divorce certificate:** your spouse's passport or NID copy and the nikahnama or talaknama (divorce deed); for a marriage by phone the nikahnama must say so, and you add copies of both sides' witnesses' passport, carta d'identità (Italian ID card) and permesso di soggiorno, and the Italian address and phone number used [QC0009, QC0012, QC0010, QC0011].
+- **Nationality certificate:** a recent passport-size colour photo [QC0021].
+- **Birth certificate in Italian:** a copy of your birth registration [QC0016].
+- **Same person certificate** (for an Italian document with your name or place wrong): a copy of that document [QC0019].
+- **Income certificate:** your original Italian income statement (CUD, Redditi, Unico or Telematico) [QC0024].
+- **Lost passport certificate:** every previous passport and the original denuncia [QC0020].
+
+> **Need to know**
+> - What does the Milan Consulate charge for each certificate and for a power of attorney, and how many working days does each take?
 
 **Welfare Board membership.** Workers aged 18 to 65 who came to Italy on their own can join at the mission [B0122]. Fill in the form at [portal.wewb.gov.bd/register](https://portal.wewb.gov.bd/register), then hand in the printout with copies of your passport and permesso di soggiorno, a colour photo, a return envelope (DHL or TNT) and EUR 32 (about Tk 4,500); Milan needs no appointment and takes applications every day until 1 pm [B0104, B0105, B0106, B0082, G0001]. What membership pays is under If a worker dies, is injured or loses the job and Coming home [B0107].
 
 **If a Bangladeshi dies in Italy,** the mission issues the nulla osta to send the body home (see If a worker dies) [B0091, B0110].
 
-**Legal help.** If you face a court case and can't pay a lawyer, the Milan Consulate issues a certificate of financial hardship so you can get a free lawyer from the Italian state [B0101]. Bring your original passport and a copy and the case papers from the police, Carabinieri or Guardia di Finanza, and come for an interview in person [B0102]. The Consulate also visits Bangladeshis in Italian jails and contacts their families (welfare.milan@gmail.com) [B0103]. The Rome Embassy's labour welfare wing visits workplaces to check conditions and timely pay (welfare.rome@gmail.com) [B0094].
+**Legal help.** If you face a court case and can't pay a lawyer, the Milan Consulate issues a no-income certificate (a certificate of financial hardship) so you can get gratuito patrocinio, a free lawyer paid by the Italian state [B0101, QC0005]. Bring your original passport and a copy, the case papers from the police, Carabinieri or Guardia di Finanza (Italy's financial police), and a parent's affidavit on non-judicial stamp paper giving the family's yearly income, attested by the Law Ministry and MoFA and apostilled, or every family member's birth registration, passport or NID copy, and come for an interview in person [B0102, QC0004]. The Consulate also visits Bangladeshis in Italian jails and contacts their families (welfare.milan@gmail.com) [B0103]. The Rome Embassy's labour welfare wing visits workplaces to check conditions and timely pay (welfare.rome@gmail.com) [B0094].
 
 > **Need to know**
 > - Does the Rome Embassy's labour welfare wing take unpaid-wage complaints against Italian employers, and what does it do with them?

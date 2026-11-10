@@ -271,37 +271,42 @@ Merged from the per-topic research files (10 November 2026). Fact ids like [W001
 - Benghazi flight route: **confirmed** by UNHCR [P0049, P0050].
 - Deaths: 1,718 in 2024, all nationalities [P0054]. Still missing: Bangladeshi deaths and 2025-2026 figures.
 
+## Second batch of team-saved files (prefixes Q, QA, QB, QC; 10 November 2026, evening)
+
+- **Q (lead): DL 145/2024 art. 3, current text** (Normattiva, English machine translation of the page, updated to acts published by 28 Feb 2026): the Bangladesh, Pakistan and Sri Lanka rule still ends on 31 Dec 2025 and was not extended; the Foreign Minister's decree naming high-risk countries is still the open point. The 2026-2028 Questura opinion and INL check for Bangladesh, Pakistan, Sri Lanka and Morocco come from DPCM 2 Oct 2025 as applied in the Cosenza Prefettura circular (D0024-D0026), not from art. 3.
+- **QA**: Foreign Ministry press release of Feb 2025 on the visa-bribe arrests (page date set to 19 Feb 2025 from the arrest date; the URL shows only February 2025); Ero Straniero IV monitoring report (Feb 2026; its 2024 and 2025 visa totals differ between a table and the text, so neither was logged); EU Regulation 2026/464 (Bangladesh in Annex II, in force 27 Feb 2026, applies from 12 June 2026); esteri.it visa refusal (largely duplicates esteri-visa-refusal-en, V0049-V0051) and processing-time pages; AsiaNews May 2024.
+- **QB**: Prefettura family-reunification guide (Ascoli Piceno, Jan 2024; its 90-day processing time not used because the doc's 150 days is newer) and integration-agreement form (Udine; its 5-7 hour civic session not used, the law says 5-10); TUIR art. 12 text in force 12 Aug to 31 Dec 2026; CNEL domestic wage table of 1 Jan 2025 (superseded by the 2026 table, kept for back-pay claims); construction wage tables (the PDF carries the FILLEA CGIL logo, registered as unofficial; the .txt misaligns hourly rates, a corrected .md transcription was logged); CNEL list of contracts in force (31 Oct 2026); Banca d'Italia basic-account guidance (4 Aug 2026).
+- **QC**: Milan Consulate consular services PDF (30 image pages, transcribed; printed from a browser on 22 Sep 2025, so logged undated / possibly-outdated, while sibling Milan Drive files carry 2 Jul 2026 from the linking page). No fees or processing times are printed apart from the EUR 32 Welfare Board fee. Without an NID, Milan accepted birth-certificate passport corrections only until 30 June 2026.
+
 ## Pages we could not download
 
-Received from you (10 Nov): all Priority 1 items (circular 7185, DL 146/2025, VFS fees for work, family, study and self-employment, three VFS checklists, the Interior Ministry flussi page, the 2024 and 2025 sea-arrival dashboards, the AVR 2026 page, two Italian Embassy Facebook posts). Recovered by me (direct fetch, Wayback or your Chrome): the Embassy communique of 16 Oct 2024, the Embassy's three image notices of May, August and September 2025, circular 8047 (official copy), the asylum practical guide (Wayback), the TUIR art. 12 page, IOM Missing Migrants, Arab News, Bangladesh Monitor.
+Received from you (10 Nov, first batch): all Priority 1 items (circular 7185, DL 146/2025, VFS fees for work, family, study and self-employment, three VFS checklists, the Interior Ministry flussi page, the 2024 and 2025 sea-arrival dashboards, the AVR 2026 page, two Italian Embassy Facebook posts).
+
+Received from you (10 Nov, second batch): Normattiva DL 145/2024 art. 3 current text (it confirms the Bangladesh rule was not extended past 31 Dec 2025), esteri.it visa processing times and visa refusal pages, the esteri.it press release of February 2025 on the visa-bribe arrests (pasted text), Ero Straniero 2026 report, Normattiva TUIR art. 12 current text, Banca d'Italia basic-account guidance, EUR-Lex Regulation 2026/464, both Prefettura documents, CNEL domestic-work wage table, ANCE construction wage tables 2025-2027 (instead of the CNEL copy), the CNEL list of collective agreements in force, the Milan Consulate's consular services PDF, the AsiaNews article.
+
+Recovered by me (direct fetch, Wayback or your Chrome): the Embassy communique of 16 Oct 2024, the Embassy's three image notices of May, August and September 2025, circular 8047 (official copy), the asylum practical guide (Wayback), the TUIR art. 12 page, IOM Missing Migrants, Arab News, Bangladesh Monitor.
 
 Still blocked: interno.gov.it ("Access Denied" even in your Chrome), VFS ("403201" in your Chrome), esteri.it (CAPTCHA, which I won't solve).
 
 **Save every file into `countries/italy/manual/`** (NOT `sources/`: the merge rebuilds that folder). Use the file name given and keep the real extension: PDF, "Save page as" HTML, or a dated screenshot. Skip anything you can't get and tell me which.
 
-### Priority 1: turn news citations into official ones
+### Still wanted (all optional; the doc is complete without them)
 
-0. **Whether the extra checks on Bangladeshi nulla osta continue after 31 Dec 2025**: Normattiva, Decree-Law 145/2024 art. 3 in the version in force today (https://www.normattiva.it, search "decreto-legge 11 ottobre 2024 n. 145", open art. 3, save) and the conversion law of DL 146/2025 (Law 179 of 1 Dec 2025, Gazzetta Ufficiale) → `normattiva-dl-145-2024-art3.html`, `gu-legge-179-2025.pdf`. The DL 146/2025 you saved is the original 3 Oct 2025 text, which doesn't mention Bangladesh.
-
-7. **esteri.it** (CAPTCHA): visa processing times https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/termini_rilascio_visti/ → `esteri-visa-terms.pdf`; visa refusal and appeal https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/diniego_visto/ → `esteri-visa-refusal.pdf`; https://vistoperitalia.esteri.it/home/en with nationality Bangladesh → `esteri-vistoperitalia-bangladesh.png`
-8. **Guardia di Finanza press release of 19 Feb 2025** on the Dhaka visa-bribe case (gdf.gov.it) → `gdf-dhaka-visa-case-2025-02-19.pdf`
-9. **Ero Straniero 2026 report** (erostraniero.it, data to Dec 2025) → `erostraniero-report-2026.pdf`
-10. **Normattiva TUIR art. 12**, the version in force now: on the same page, switch "vigente al" to 10/11/2026 and save the text with para. 2-bis. Also the replacement article in D.Lgs. 117/2026 → `normattiva-tuir-art12-2026.html`
-11. **Banca d'Italia**: its 2026 letter to banks on basic accounts → `bancaditalia-conti-di-base-2026.pdf`
-12. **EUR-Lex Regulation (EU) 2026/464** (EU safe-country list) https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600464 → `eurlex-reg-2026-464.pdf`
-13. **Prefettura documents**:
-    - https://prefettura.interno.gov.it/sites/default/files/31/2024-01/vademecum_ricongiungimenti_familiari.docx → `prefettura-vademecum-ricongiungimenti-2024.docx`
-    - https://prefettura.interno.gov.it/sites/default/files/13/2024-04/accordo_di_integrazione.docx → `prefettura-accordo-integrazione-modulo.docx`
-14. **CCNL wage tables from the official CNEL archive**: domestic work (28 Oct 2025) and construction (2026 minimums) → `cnel-ccnl-lavoro-domestico-2025.pdf`, `ccnl-edilizia-minimi-2026.pdf`
-
-### Priority 2: Bangladesh side and news
-
-15. **Bangladesh Consulate General Milan** Google Drive image PDFs: https://drive.google.com/file/d/1Z2T1oP8Kc0YSnMrhp99O_evhNd4pm-UG/view (consular services list) and the "02. বিভিন্ন সার্টিফিকেট" file → download as PDF → `bdcg-milan-consular-services.pdf`, `bdcg-milan-certificates.pdf`
-16. **Bangladesh Embassy Rome**: its Welfare Board membership page has been removed. A screenshot of the current Labour & Welfare menu page → `bdemb-rome-labour-welfare.png`
-17. **AsiaNews, May 2024**, brokers selling VFS appointments: https://www.asianews.it/en/south-asia/bangladesh/dhaka-thousands-of-migrants-swindled-while-waiting-in-vain-for-visas-to-italy → `news-asianews-dhaka-swindled-2024-05.html`
+1. **Law 179 of 1 December 2025** (conversion law of DL 146/2025, Gazzetta Ufficiale, gazzettaufficiale.it): shows whether the conversion added any Bangladesh-specific checks for 2026-2028 → `gu-legge-179-2025.pdf`
+2. **Foreign Ministry decree naming "high-risk" countries** under DL 145/2024 art. 3, if one exists (search gazzettaufficiale.it or normattiva.it for "decreto Ministro degli affari esteri" + "particolare rischio") → `maeci-decreto-paesi-rischio.pdf`, or tell me none was found.
+3. **vistoperitalia.esteri.it** with nationality Bangladesh and purpose "work" selected, results page → `esteri-vistoperitalia-bangladesh.png`
+4. **Guardia di Finanza press release of 19 Feb 2025** on the Dhaka visa-bribe case (gdf.gov.it; names the visa amounts paid) → `gdf-dhaka-visa-case-2025-02-19.pdf`. The esteri.it press release you pasted covers the arrests, so this is low priority.
+5. **Bangladesh Consulate General Milan**, the "02. বিভিন্ন সার্টিফিকেট" (certificates) Google Drive file → `bdcg-milan-certificates.pdf`
+6. **Bangladesh Embassy Rome**: screenshot of the current Labour & Welfare menu page (rome.mofa.gov.bd) → `bdemb-rome-labour-welfare.png`
 
 ## Writing and independent check (10 November 2026)
 
 - doc.md was assembled from seven parts written in parallel from the research drafts (Malaysia as the standard), then checked by seven independent verifiers (round 1, each about 310 lines: 80 failures; 79 fixed, one overruled because it would have deleted a ready-to-use sample letter). A restore agent logged 14 facts (R) for details that were true in saved sources but unlogged, and put them back; a coverage auditor added 10 points from existing facts. Round 2 checked every changed line (24 failures, fixed), round 3 the lines round 2 changed (4, fixed), round 4 those 4 lines: no failures.
 - Lead's own fixes: the pension procedure kept once (Coming home), with a pointer from Your rights at work; passport timing narrowed to the Rome Embassy; "home town" → "final destination" for voluntary return; "often after ransom" → "sometimes".
 - Known weak points: whether the extra checks on Bangladeshi nulla osta (DL 145/2024 art. 3) continue after 31 Dec 2025 is unconfirmed; sector wage minimums (CCNL) rest on employers' associations and news, not the CNEL archive; Questura waiting times rest on NGO and news reports; the VFS charge for a Schengen visit visa is not known.
+
+## Second-batch update and check (10 November 2026, evening)
+
+- 162 facts logged from the team's second batch (Q 4, QA 56, QB 58, QC 44); 85 edits applied to doc.md; the Milan Consulate certificates were made a list.
+- Independent check of the changed lines: round 1 (4 verifiers, 91 lines) 20 failures, round 2 7, round 3 2, round 4 2, round 5 0.
+- 29 cross-references to "Work visa: Decreto Flussi worker (non-seasonal)", Step N are written with the section name in quotes: build.py's prefix regex rejects a name ending in ")", so unquoted ones linked to the citing section's own Step N (6 were wrong). A fix in tools/build.py would help every country.

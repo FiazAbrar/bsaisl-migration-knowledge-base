@@ -1,0 +1,156 @@
+              Conto di pagamento con caratteristiche di base.
+   Orientamenti di Vigilanza sul comportamento degli intermediari.
+
+1. Principali riferimenti normativi
+
+Con il recepimento della direttiva 2014/92 in materia di conti di pagamento (PAD), è stata introdotta
+nel Testo Unico Bancario la disciplina del “conto di base”, un conto di pagamento che consente
+l’esecuzione di un determinato numero di operazioni senza addebito di spese, a fronte del pagamento
+di un canone annuale onnicomprensivo. Il canone deve essere coerente con le finalità di inclusione
+finanziaria dello strumento; in particolare, il conto deve essere gratuito per le fasce di clientela con
+ISEE o redditi da pensione inferiori a soglie definite con decreto ministeriale1.
+
+La disciplina riconosce un diritto individuale dei consumatori legalmente soggiornanti nell’Unione
+europea a ottenere l’apertura del conto di base. A tale diritto corrisponde l’obbligo di mettere a
+disposizione questa tipologia di conto da parte di banche, Poste Italiane e altri prestatori di servizi di
+pagamento abilitati a offrire servizi collegati a un conto di pagamento2.
+
+L’obbligo di offerta trova un limite nella disciplina di contrasto al riciclaggio e al finanziamento del
+terrorismo.
+
+2. Principali problematiche riscontrate nell’azione di Vigilanza di tutela
+
+In Italia la diffusione del conto di base tra i consumatori è ancora limitata, anche in confronto con
+altri paesi dell’Unione europea. Le analisi svolte dalla Banca d’Italia hanno evidenziato numerosi
+casi in cui l’accesso al prodotto è ostacolato o scoraggiato in modo ingiustificato.
+
+Le principali problematiche emerse nell’attività di Vigilanza di tutela sono:
+
+-  mancato inserimento del conto di base nel catalogo dei prodotti offerti o incompletezza
+
+   dei servizi essenziali ad esso collegati;
+
+-  carenze nella normativa interna (ad esempio, sulle caratteristiche del prodotto e sulla
+
+   clientela destinataria), nella documentazione di trasparenza e nell’assistenza al
+
+   consumatore;
+
+-  scarsa conoscenza del prodotto da parte del personale della rete e mancata prospettazione
+
+   del conto ai clienti vulnerabili;
+
+-  resistenze ingiustificate nell’apertura del conto di base a richiedenti che ne hanno
+
+   potenzialmente diritto (ad esempio, soggetti non residenti ma legalmente soggiornanti
+
+   nell’Unione europea, soggetti riconducibili genericamente a categorie considerate ad alto
+
+   rischio di riciclaggio, soggetti con condizioni patrimoniali e finanziarie precarie);
+
+-  limiti delle procedure informatiche che non consentono l’apertura del conto a clienti in
+
+   possesso di documenti legittimi, ancorché diversi da quelli ordinariamente gestiti (ad
+
+   esempio, codice fiscale provvisorio non alfanumerico o ricevuta della domanda di
+
+   permesso di soggiorno).
+
+1 Cfr. artt. 126-noviesdecies e seguenti del TUB.
+2 L’obbligo si considera assolto laddove sia già a catalogo un conto di pagamento che non prevede costi a carico del
+consumatore per le operazioni incluse nel conto di base. In questo caso, il foglio informativo specifica che tale prodotto
+sostituisce il conto di base ed è soggetto alla relativa disciplina.
+
+                                                                 1
+Anche le segnalazioni di consumatori e di associazioni di categoria evidenziano difficoltà
+nell’ottenere l’apertura del conto di base, mancanza di trasparenza nelle motivazioni del rifiuto e
+offerta di prodotti alternativi più costosi per il cliente.
+
+3. Aspettative della Vigilanza di tutela
+
+Al fine di assicurare il pieno diritto dei consumatori al conto di base previsto dalla normativa vigente,
+si invitano i prestatori di servizi di pagamento ad adeguare la normativa interna, le procedure, le
+modalità di offerta e i controlli in modo da superare ogni ostacolo che possa limitare l’accesso a
+questa tipologia di conto. In linea con alcune buone prassi osservate sul mercato, la Banca d’Italia si
+attende che:
+
+Normativa interna
+
+    − sia chiarito che l’obbligo di offrire il conto di base si estende ai consumatori legalmente
+         soggiornanti non solo in Italia, ma anche in tutto il territorio dell’Unione europea, compresi
+         quelli senza fissa dimora, i rifugiati e i richiedenti asilo;
+
+    − sia precisato che valutazioni generiche legate a situazioni personali ed economico-
+         patrimoniali del richiedente non possono giustificare il rifiuto dell’apertura del conto di base,
+         mentre debbono essere considerate per verificare il diritto a ottenere le agevolazioni previste
+         per il conto stesso;
+
+    − sia indicato che, come previsto dalla normativa per il contrasto al riciclaggio e al
+         finanziamento del terrorismo, le valutazioni dei profili rilevanti in tale ambito vanno effettuate
+         caso per caso, in modo proporzionato e tenendo conto delle caratteristiche del singolo
+         consumatore e dell’operatività concretamente attesa. Tali valutazioni non devono basarsi su
+         automatismi né comportare rifiuti fondati esclusivamente sull’appartenenza del cliente a
+         categorie generalmente considerate più rischiose;
+
+    − sia prevista l’offerta del conto di base in tutti i casi in cui lo stesso sia pienamente coerente
+         con le esigenze finanziarie del consumatore oppure quando emergano profili di particolare
+         vulnerabilità economica; il conto di base andrà sempre prospettato alla clientela, anche in caso
+         di offerte di conti di pagamento alternativi pure destinati a soddisfare esigenze di base,
+         evidenziando le differenti condizioni;
+
+Processi e procedure
+
+    − siano adattati gli applicativi e i sistemi informatici per gestire anche informazioni e documenti
+         non ordinari (ad esempio, codice fiscale provvisorio non alfanumerico o ricevuta della
+         domanda di permesso di soggiorno) a supporto delle richieste di apertura del conto di base;
+
+    − siano realizzate procedure che assicurino la tempestiva comunicazione al consumatore della
+         mancata apertura del conto, indicando le motivazioni del rifiuto (salvo eccezioni legate a
+         ragioni di ordine pubblico, pubblica sicurezza e antiriciclaggio) e la possibilità di rivolgersi
+         alla Banca d’Italia o all’Arbitro Bancario Finanziario per la tutela dei propri diritti;
+
+    − sia assicurato un processo strutturato di rilevamento, classificazione e gestione delle doglianze
+         e degli altri segnali di difficoltà nell’accesso al conto di base, inclusi i casi di mancata apertura
+         o di rinuncia del cliente nel corso dell’istruttoria, per individuare eventuali criticità ricorrenti
+         di natura procedurale, informatica, documentale o applicativa e attivare tempestivamente le
+         necessarie misure correttive;
+
+                                                                 2
+    − siano previsti flussi informativi periodici agli organi aziendali sul collocamento del conto di
+         base, comprensivi di evidenze su eventuali lamentele dei clienti, problematiche riscontrate e
+         connesse azioni rimediali;
+
+Modalità di offerta
+    − sia data specifica e adeguata pubblicità al prodotto, evidenziandone la gratuità per i clienti
+         vulnerabili, nei siti web degli operatori, nei canali digitali utilizzati (ad esempio, le app) e nei
+         locali destinati al pubblico (ad esempio, mediante affissione di avvisi);
+    − siano realizzati programmi formativi a favore degli addetti alla rete di vendita sulle
+         caratteristiche del conto di base e sulle modalità di offerta previste dalla normativa interna
+         nonché sugli standard minimi di servizio da garantire alla clientela vulnerabile;
+    − sia valutata l’opportunità, in una logica di tutela sostanziale della clientela vulnerabile, di
+         proporre ai correntisti aventi diritto al conto di base gratuito il passaggio, senza oneri
+         aggiuntivi, a tale prodotto. Tali consumatori andranno adeguatamente informati circa le
+         caratteristiche del conto di base e gli effetti del passaggio sul rapporto in essere e sui servizi
+         originariamente fruiti (ad esempio, esigenza di chiudere il precedente conto per aprirne uno
+         nuovo, con diverso contratto e IBAN e con possibili differenti funzionalità);
+
+Controlli
+    − le funzioni di controllo programmino verifiche periodiche per accertare la correttezza
+         sostanziale dei comportamenti del personale addetto alla vendita, l’adeguatezza delle
+         procedure e degli applicativi informatici in uso nonché il pieno rispetto della normativa e delle
+         disposizioni interne.
+
+4. Azioni correttive e tempistiche
+Entro il 30 novembre 2026, la funzione di Compliance e l’Internal Audit, nell’ambito delle rispettive
+competenze, dovranno verificare la piena coerenza degli assetti, delle procedure e delle prassi con le
+previsioni normative e le aspettative di questo Istituto, in modo da assicurare il definitivo superamento
+di ogni ostacolo all’accesso al conto di base.
+Una relazione interna sugli esiti degli accertamenti, in cui si evidenzino eventuali carenze e
+conseguenti azioni rimediali, dovrà essere approvata dal Consiglio di Amministrazione3.
+Quest’ultimo informerà questo Istituto, all’indirizzo vic@pec.bancaditalia.it, di eventuali carenze
+residue al 30 novembre e allegherà il piano di rimedio approvato.
+
+3 Ove non presente, dal corrispondente Organo di governo.
+
+                                                                 3
+
