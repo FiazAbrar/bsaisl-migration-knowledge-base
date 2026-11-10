@@ -174,6 +174,8 @@ Research on 10 November 2026 by seven topic agents (prefixes below), merged with
 
 ## Pages we could not download
 
+Received from you (11 Nov): the Kyrgyz Customs cash rules (logged as M0001-M0006: the USD 5,000 export limit for foreigners is confirmed on the official site) and an Embassy in Tashkent Facebook post of 15 Dec 2025 (a meeting with Uzbekistan's Foreign Ministry; nothing on Kyrgyzstan, so not used). Still most wanted: the Embassy's consular pages and its Facebook posts that mention Kyrgyzstan (Bishkek e-passport camp, the Sept 2025 return flight).
+
 Save every file into `countries/kyrgyzstan/manual/` (NOT `sources/`). Keep the real extension: PDF, "Save page as" HTML, or a dated screenshot (PNG). Skip anything you can't get and tell me which. Kyrgyz laws on cbd.minjust.gov.kg are being fetched by an agent, so they are not on this list.
 
 ### Priority 1: Bangladesh Embassy in Tashkent (covers Kyrgyzstan)
@@ -185,7 +187,6 @@ Save every file into `countries/kyrgyzstan/manual/` (NOT `sources/`). Keep the r
 
 ### Priority 2: Kyrgyz official pages
 
-5. **Kyrgyz Customs, cash rules for travellers**: https://www.customs.gov.kg/site/ru/master/customskg/jeke-adamdar-ucun, open the section "Информация относительно перемещения наличных денежных средств" → `customs-kg-cash-movement-info.html` (is the USD 5,000 cash-export limit for foreigners still in force?)
 6. **Ministry of Labour (mlsp.gov.kg)**: the labour inspection's contacts page (address, phone) → `mlsp-kg-labour-inspection-contacts.html`
 7. **e-Visa portal, employer account** (only if someone has one): screenshots of the Unified Permit application form and its fee screen at https://www.evisa.e-gov.kg/login.php?lng=en → `evisa-kg-unified-permit-form-<n>.png`
 

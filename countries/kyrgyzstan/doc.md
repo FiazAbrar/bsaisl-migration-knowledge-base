@@ -1416,7 +1416,7 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 
 ### What you can carry home
 
-- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash foreign currency out of Kyrgyzstan, under a Cabinet decree of 13 January 2023 that stays in force until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it [G0029, G0031, G0002]. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) [G0032, G0002]. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case [G0033, G0002]. Banks also send money abroad by SWIFT bank transfer (see How to send) [G0009].
+- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash US dollars out of Kyrgyzstan, under a temporary restriction in force since 13 January 2023 that stays until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it [M0002, M0003, G0029, G0031, G0002]. Cash of more than USD 10,000 (about Tk 12.4 lakh) in total, counting foreign currency and som together at the day's rate, must be declared on the passenger customs declaration (ПТД); below that, declaring is voluntary [M0001, M0004, M0005, G0002]. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) [G0032, G0002]. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case [G0033, G0002]. Banks such as Optima Bank also send money abroad by SWIFT bank transfer (see How to send) [G0009].
 - **Arriving in Bangladesh:**
   - **Cash:** any amount of foreign currency, but more than USD 10,000 (about Tk 12.4 lakh) must be declared on the FMJ form (the customs currency declaration) [G0034, G0002].
   - **Phones:** 2 used phones, plus 1 new phone once a year, without duty or tax [G0035].
@@ -1425,7 +1425,6 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
   - **Alcohol:** none for Bangladeshi passport holders [G0039].
 
 > **Need to know**
-> - Is the USD 5,000 cash limit for foreigners still enforced at Manas airport in 2026, and does it also cover som and roubles?
 > - Can a foreign worker take a gold bar bought from the NBKR in Bishkek out of Kyrgyzstan, and with what papers?
 
 ## Contacts

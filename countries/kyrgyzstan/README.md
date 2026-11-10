@@ -2,7 +2,7 @@
 
 # Kyrgyzstan: migration guide
 
-Sources checked up to 10 Nov 2026.
+Sources checked up to 11 Nov 2026.
 
 How to go to Kyrgyzstan on a Bangladeshi passport, visa by visa, step by step. A raised number such as 3 is an official source; N3 is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
@@ -1784,16 +1784,15 @@ In Kyrgyzstan the employer is liable for work injuries, and a claim for them goe
 
 ### 15.1 What you can carry home
 
-- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash foreign currency out of Kyrgyzstan, under a Cabinet decree of 13 January 2023 that stays in force until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it <sup>[85 (2024)](#o85), [2](#o2)</sup>. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) <sup>[N138 (2024)](#n138), [2](#o2)</sup>. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case <sup>[N139](#n139), [2](#o2)</sup>. Banks also send money abroad by SWIFT bank transfer (see [How to send](#how-to-send)) <sup>[N132](#n132)</sup>.
+- **Leaving Kyrgyzstan with cash.** A foreigner may not take more than USD 5,000 (about Tk 6.2 lakh) in cash US dollars out of Kyrgyzstan, under a temporary restriction in force since 13 January 2023 that stays until the Cabinet decides otherwise; the GKNB's Border Service and the State Customs Service enforce it <sup>[107](#o107), [85 (2024)](#o85), [2](#o2)</sup>. Cash of more than USD 10,000 (about Tk 12.4 lakh) in total, counting foreign currency and som together at the day's rate, must be declared on the passenger customs declaration (ПТД); below that, declaring is voluntary <sup>[107](#o107), [2](#o2)</sup>. The Border Service reminded travellers of the ban in September 2024, after stopping an Uzbek citizen with USD 30,000 (about Tk 37.3 lakh) <sup>[N138 (2024)](#n138), [2](#o2)</sup>. In July 2026 customs at Manas airport (Bishkek) stopped an Uzbek citizen taking out USD 28,100 (about Tk 35 lakh) undeclared, and opened a criminal case <sup>[N139](#n139), [2](#o2)</sup>. Banks such as Optima Bank also send money abroad by SWIFT bank transfer (see [How to send](#how-to-send)) <sup>[N132](#n132)</sup>.
 - **Arriving in Bangladesh:**
-  - **Cash:** any amount of foreign currency, but more than USD 10,000 (about Tk 12.4 lakh) must be declared on the FMJ form (the customs currency declaration) <sup>[107](#o107), [2](#o2)</sup>.
-  - **Phones:** 2 used phones, plus 1 new phone once a year, without duty or tax <sup>[107](#o107)</sup>.
-  - **Duty-free:** one item from the duty-free list, such as a laptop, a television up to 29 inches, a microwave, a sewing machine, or 100 g of gold and 200 g of silver jewellery (no more than 12 pieces of one type) <sup>[107](#o107)</sup>.
-  - **Gold bar:** once a year, one declared bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g; undeclared gold means arrest and a criminal case <sup>[107](#o107)</sup>.
-  - **Alcohol:** none for Bangladeshi passport holders <sup>[107](#o107)</sup>.
+  - **Cash:** any amount of foreign currency, but more than USD 10,000 (about Tk 12.4 lakh) must be declared on the FMJ form (the customs currency declaration) <sup>[108](#o108), [2](#o2)</sup>.
+  - **Phones:** 2 used phones, plus 1 new phone once a year, without duty or tax <sup>[108](#o108)</sup>.
+  - **Duty-free:** one item from the duty-free list, such as a laptop, a television up to 29 inches, a microwave, a sewing machine, or 100 g of gold and 200 g of silver jewellery (no more than 12 pieces of one type) <sup>[108](#o108)</sup>.
+  - **Gold bar:** once a year, one declared bar of up to 117 g (10 tola), at Tk 5,000 duty per 11.664 g; undeclared gold means arrest and a criminal case <sup>[108](#o108)</sup>.
+  - **Alcohol:** none for Bangladeshi passport holders <sup>[108](#o108)</sup>.
 
 > **Need to know**
-> - Is the USD 5,000 cash limit for foreigners still enforced at Manas airport in 2026, and does it also cover som and roubles?
 > - Can a foreign worker take a gold bar bought from the NBKR in Bishkek out of Kyrgyzstan, and with what papers?
 
 <a id="contacts"></a>
@@ -1810,9 +1809,9 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 - **Phone:** +99871 2556520, +99871 2551971, +99878 1209101 <sup>[76](#o76)</sup>.
 - **24-hour emergency number (given in May 2024):** +998 93 000 9780 <sup>[N106 (2024)](#n106)</sup>.
 - **Email:** mission.tashkent@mofa.gov.bd <sup>[76](#o76)</sup>.
-- **Consular hours:** Monday to Friday, 11:00 to 16:00 Tashkent time (lunch 13:00 to 14:00); closed Saturday and Sunday <sup>[108](#o108)</sup>.
+- **Consular hours:** Monday to Friday, 11:00 to 16:00 Tashkent time (lunch 13:00 to 14:00); closed Saturday and Sunday <sup>[109](#o109)</sup>.
 
-**E-passport.** The Embassy has issued e-passports since 30 September 2025, and extended the service to Bangladeshis living in Kyrgyzstan during the Ambassador's visit to Bishkek on 13-14 December 2025 <sup>[109](#o109), [68](#o68)</sup>. Fees since 14 October 2025, at USD 1 = about Tk 124.42 <sup>[82](#o82), [2](#o2)</sup>:
+**E-passport.** The Embassy has issued e-passports since 30 September 2025, and extended the service to Bangladeshis living in Kyrgyzstan during the Ambassador's visit to Bishkek on 13-14 December 2025 <sup>[110](#o110), [68](#o68)</sup>. Fees since 14 October 2025, at USD 1 = about Tk 124.42 <sup>[82](#o82), [2](#o2)</sup>:
 - 48 pages, 5 years: USD 33 (about Tk 4,100) for workers and students, USD 110 (about Tk 13,700) for others;
 - 48 pages, 10 years: USD 55 (about Tk 6,800) for workers and students, USD 138 (about Tk 17,200) for others;
 - 64 pages, 5 years: USD 165 (about Tk 20,500) for everyone.
@@ -1852,8 +1851,8 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 
 - **Probashi call centre (Welfare Board), toll free:** 16135, or +8809610102030 from abroad <sup>[53](#o53)</sup>.
 - **BMET:** 89/2 Kakrail, Dhaka-1000; complaints against a recruiting agency in writing, with evidence, to the Director General, free, 30 working days <sup>[56 (2021)](#o56), [4](#o4)</sup>. Director (Emigration): +8802222222415, 01711-135901, diremi@bmet.gov.bd; Additional Director General (Employment): 02-48321949, 01720105492, adgemp@bmet.gov.bd <sup>[4](#o4)</sup>.
-- **Ministry of Expatriates' Welfare and Overseas Employment:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Dhaka-1000; grievance officer 02-41030224, 01712992086, adsadmin@probashi.gov.bd, 30 working days <sup>[110](#o110), [63](#o63)</sup>.
-- **Wage Earners' Welfare Board:** Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka <sup>[111](#o111)</sup>.
+- **Ministry of Expatriates' Welfare and Overseas Employment:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Dhaka-1000; grievance officer 02-41030224, 01712992086, adsadmin@probashi.gov.bd, 30 working days <sup>[111](#o111), [63](#o63)</sup>.
+- **Wage Earners' Welfare Board:** Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka <sup>[112](#o112)</sup>.
 - **Welfare Board airport desks:** Dhaka +8802 8901040, 01404 413388; Chattogram 01913631797, pkdctg@gmail.com; Sylhet 01558277904, pkdsylhet@gmail.com <sup>[98](#o98), [4](#o4)</sup>.
 - **PKB:** 16238, or +880 9677-787878 from abroad <sup>[42](#o42)</sup>.
 - **Passport helpline, 24 hours:** 16445, or 09666716445 from abroad <sup>[67 (2023)](#o67)</sup>.
@@ -1979,11 +1978,12 @@ Bangladesh has no embassy in Kyrgyzstan; its Embassy in Tashkent, Uzbekistan, co
 104. <a id="o104"></a>Wage Earners' Welfare Board, 9 Jun 2026. [Probashi Lounge service (Bangla)](https://wewb.gov.bd/pages/static-pages/6922e01b933eb65569e2581d). Accessed 10 Nov 2026.
 105. <a id="o105"></a>Wage Earners' Welfare Board, 7 Oct 2026. [Legal help through local administration (Bangla)](https://wewb.gov.bd/pages/static-pages/6922dfee933eb65569e24b4d). Accessed 10 Nov 2026.
 106. <a id="o106"></a>Probashi Kallyan Bank, 23 Sep 2026. [Rehabilitation loan](https://pkb.gov.bd/pages/static-pages/6922dc54933eb65569e0fc0d). Accessed 10 Nov 2026.
-107. <a id="o107"></a>Hazrat Shahjalal International Airport (Customs House, Dhaka). [Customs, HSIA (baggage rules for passengers)](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 10 Nov 2026. Undated: possibly outdated.
-108. <a id="o108"></a>Embassy of Bangladesh, Tashkent, 9 Jul 2025. [Office Hours](https://tashkent.mofa.gov.bd/pages/static-pages/6952668935ce18e1c05a9e26). Accessed 10 Nov 2026. Possibly outdated.
-109. <a id="o109"></a>Embassy of Bangladesh, Tashkent, 30 Sep 2025. [Press release: launch of e-passport services at the Embassy (30 September 2025)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tashkent-mofa/2024/12/0b5aae7e7aea4486a757f4462f01d083.pdf). Accessed 10 Nov 2026. Possibly outdated.
-110. <a id="o110"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 May 2025. [Office address](https://probashi.gov.bd/pages/static-pages/694032ef35ce18e1c05646cf). Accessed 10 Nov 2026. Possibly outdated.
-111. <a id="o111"></a>Wage Earners' Welfare Board, 16 Sep 2026. [Citizen's Charter (Bangla)](https://wewb.gov.bd/pages/office-citizen-charters). Accessed 10 Nov 2026.
+107. <a id="o107"></a>State Customs Service under the Ministry of Finance of the Kyrgyz Republic. [Information on moving cash across the border (saved by a team member on 11 November 2026)](https://www.customs.gov.kg/site/ru/master/customskg/jeke-adamdar-ucun (section: Информация относительно перемещения наличных денежных средств)). Accessed 11 Nov 2026. Undated: possibly outdated.
+108. <a id="o108"></a>Hazrat Shahjalal International Airport (Customs House, Dhaka). [Customs, HSIA (baggage rules for passengers)](https://www.hsia.gov.bd/content-details/10/Customs). Accessed 10 Nov 2026. Undated: possibly outdated.
+109. <a id="o109"></a>Embassy of Bangladesh, Tashkent, 9 Jul 2025. [Office Hours](https://tashkent.mofa.gov.bd/pages/static-pages/6952668935ce18e1c05a9e26). Accessed 10 Nov 2026. Possibly outdated.
+110. <a id="o110"></a>Embassy of Bangladesh, Tashkent, 30 Sep 2025. [Press release: launch of e-passport services at the Embassy (30 September 2025)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tashkent-mofa/2024/12/0b5aae7e7aea4486a757f4462f01d083.pdf). Accessed 10 Nov 2026. Possibly outdated.
+111. <a id="o111"></a>Ministry of Expatriates' Welfare and Overseas Employment, 1 May 2025. [Office address](https://probashi.gov.bd/pages/static-pages/694032ef35ce18e1c05646cf). Accessed 10 Nov 2026. Possibly outdated.
+112. <a id="o112"></a>Wage Earners' Welfare Board, 16 Sep 2026. [Citizen's Charter (Bangla)](https://wewb.gov.bd/pages/office-citizen-charters). Accessed 10 Nov 2026.
 
 <a id="needs-an-official-source"></a>
 
