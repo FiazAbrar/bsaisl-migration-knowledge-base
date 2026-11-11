@@ -13,7 +13,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 - Does BMET ask for a construction skill certificate from a TTC (Technical Training Centre, BMET's training institute) before clearing a worker for Cambodia, and does any Cambodian employer test workers before hiring?
 
-- How many of the 12,263 workers cleared for Cambodia in 2025 received an MLVT work permit, and how many Bangladeshis hold one in 2026?
+- How many of the 12,263 workers cleared for Cambodia in 2025 received an MLVT work permit, and how many Bangladeshis hold one in 2026, and in which jobs? Is any Cambodian employer outside construction (garment factories, hotels, banks) asking for Bangladeshi workers through BMET in 2026?
 
 ### How a job reaches you, and who takes a cut
 
@@ -22,7 +22,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 - Which of these employers really took the workers named in the permission letters, and are any still hiring Bangladeshis?
 
 - Has BMET issued any permission letter for Cambodia since September 2025, and are any of the 2025 letters still open for recruitment?
-- Why are Sams Company, Fahim Recruiting Agency and Mongol Global Services suspended on OEP, and was it over Cambodia?
+- Why are Sams Company, Fahim Recruiting Agency and Mongol Global Services suspended on OEP, and was it over Cambodia? Is the Mashallah Overseas in these cases the licensed RL-1039 (Dilkusha), and is the Alif International Agency the RL-0049 whose licence BMET lists as cancelled?
 
 ### What you pay, and what you earn and keep
 
@@ -44,6 +44,14 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 - Can a worker check that a work permit number is genuine (an FWCMS lookup, a QR code on the card, or an MLVT phone line that answers in English)?
 
+- If MLVT refuses a work permit, are the worker and the agency told why, and can the employer appeal or reapply?
+
+### Step 5: The visa, and checking it is real
+
+- If the E-class e-visa is refused, does the E-Visa Office give a reason, and can the applicant appeal or apply again at once?
+
+- What happens to a Bangladeshi worker refused entry at Techo airport: is he held at the airport, and does the agency actually pay his flight back, as BMET's permission conditions require (If you lose the job, item 4)?
+
 ### Scams
 
 - What does a broker in Dhaka charge for a "Cambodia construction visa" in November 2026, after the Ministry's approval rule?
@@ -57,7 +65,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 - Do employers of Bangladeshi workers apply the resident rate (0% under about USD 367) from the first month, or the 20% non-resident rate until 182 days have passed?
 - How much do employers take back each month for the work permit and visa fees, and for how many months?
-- Do employers deduct food or housing from Bangladeshi workers' pay, and how much?
+- Do employers in practice give Bangladeshi workers the free food and housing the permission letters promise, or deduct them from pay, and how much?
 
 - Are Bangladeshi construction and factory workers in Cambodia actually registered with NSSF in 2026?
 
@@ -102,7 +110,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Changing employer or leaving
 
-- Does a Bangladeshi worker need the first employer's release letter to get a new work permit, and do employers charge for it?
+- Besides the first employer's entry in the employment card, does a Bangladeshi worker need a release letter to get a new work permit, and do employers charge for it?
 
 - Must a worker returning to Cambodia from leave get a new BMET clearance or re-entry card in Dhaka?
 
@@ -120,6 +128,8 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 - In which towns or compounds are Bangladeshis held in November 2026, according to the Bangkok embassy or BRAC caseworkers?
 
 ### If you or a relative is trapped
+
+- What phone number or Facebook page does Anirban Survivor Voice Foundation give families of Bangladeshis held in Cambodia?
 
 - Is 1288 still the anti-trafficking hotline, what is the Central Security Department's scam-victim number, and does either answer in English?
 - Does the embassy's +66-818-70-84-43 hotline take WhatsApp messages, and in which hours is it staffed?

@@ -2,13 +2,13 @@
 
 How to go to Cambodia on a Bangladeshi passport, visa by visa, step by step. A raised number such as 3 is an official source; N3 is a news, NGO, research or guide source, listed under "Needs an official source"; a year, like N3 (2022), marks a source older than 2025. "Need to know" marks a point no source has yet confirmed. "You'll need:" lists what to have before starting a procedure.
 
-Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). Wages and prices in Cambodia are given in US dollars (USD), as the sources give them, converted at Bangladesh Bank's rate of USD 1 = about Tk 124.65 on 11 November 2026 [B0141, G0084, G0002]. The riel is Cambodia's own currency; 1,000 riel = about Tk 30.5, from the National Bank of Cambodia's rate of USD 1 = 4,084 riel on the same day [G0001, G0003]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers jobseekers on its OEP (Overseas Employment Platform) website and gives each worker emigration clearance, a smart card, before departure; the Ministry of Expatriates' Welfare tells workers never to go without that clearance [B0002, B0059, B0005]. In Cambodia no foreigner may work without two papers from MLVT (the Ministry of Labour and Vocational Training): a work permit and an employment card, applied for together by the employer and valid for one year [L0038, W0066, W0077, W0032]. The employer applies on FWCMS (Foreign Workers Centralized Management System), MLVT's online system where companies register, ask for a quota of foreign workers and get permits [W0017, W0026]. A worker enters on the E-class visa (the ordinary or "business" visa, for people with a job offer from a registered Cambodian company), which costs USD 35 (about Tk 4,360) online and gives a 30-day stay [V0012, W0001, W0064, G0002]. Inside Cambodia the E-class visa is extended as an EB extension (for work, alongside a work permit) or an EG extension (for job-seekers), among others; an EB extension alone gives no right to work [W0078, V0030, V0032, V0033]. Extensions are granted by the GDI (General Department of Immigration) of the Ministry of Interior, which also runs FPCS, the register of where foreigners live [W0064, U0041, W0085]. Bangladesh has no embassy in Cambodia: the Bangladesh Embassy in Bangkok, Thailand, covers it, and Cambodia's embassy for Bangladesh is in New Delhi [B0197, V0043]. Every land crossing between Cambodia and Thailand is closed, so a worker in Cambodia can reach the Embassy in Bangkok only by air [V0042].
+Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). Wages and prices in Cambodia are given in US dollars (USD), as the sources give them, converted at Bangladesh Bank's rate of USD 1 = about Tk 124.65 on 11 November 2026 [B0141, G0084, G0002]. The riel is Cambodia's own currency; 1,000 riel = about Tk 30.5, from the National Bank of Cambodia's rate of USD 1 = 4,084 riel on the same day [G0001, G0003]. BMET (Bureau of Manpower, Employment and Training) is the Bangladesh government agency that registers jobseekers on its OEP (Overseas Employment Platform) website and gives each worker emigration clearance, a smart card, before departure; the Ministry of Expatriates' Welfare tells workers never to go without that clearance [B0002, B0059, B0005]. In Cambodia no foreigner may work without two papers from MLVT (the Ministry of Labour and Vocational Training): a work permit and an employment card, applied for together by the employer; the work permit is valid for one year [L0038, W0066, W0077, W0032]. The employer applies on FWCMS (Foreign Workers Centralized Management System), MLVT's online system where companies register, ask for a quota of foreign workers and get permits [W0017, W0026]. A worker enters on the E-class visa (the ordinary or "business" visa, for people with a job offer from a registered Cambodian company), which costs USD 35 (about Tk 4,360) online and gives a 30-day stay [V0012, W0078, W0001, W0064, G0002]. Inside Cambodia the E-class visa is extended as an EB extension (for work, alongside a work permit) or an EG extension (for job-seekers), among others; an EB extension alone gives no right to work [W0078, V0030, V0032, V0033]. Extensions are granted by the GDI (General Department of Immigration) of the Ministry of Interior, which also runs FPCS (Foreigners Presence in Cambodia System), the online register of where foreigners live [W0064, U0041, W0081, W0085]. Bangladesh has no embassy in Cambodia: the Bangladesh Embassy in Bangkok, Thailand, covers it, and Cambodia's embassy for Bangladesh is in New Delhi [B0197, V0043]. Every land crossing between Cambodia and Thailand is closed until further notice [V0042].
 
 ## Background
 
 ### In one minute
 
-Cambodia was a small destination until 2025, when BMET cleared 12,263 workers for it, almost all men and mostly recorded as construction workers for Phnom Penh building firms at USD 420 (about Tk 52,400) a month [B0079, B0084, B0115, B0116, B0141, G0002]. Most went in small batches of up to five workers whose job papers needed no check by the Bangladesh embassy; BMET's permission letters capped what an agency could take at Tk 80,520 to Tk 1,55,450, but people paid Tk 2 to 7 lakh, often to a village broker who promised a computer, data-entry or customer-service job [B0214, N0081, B0157, N0151, N0150]. On arrival many were met by Bangladeshi brokers, kept in a hotel and sold for USD 1,500 to 5,000 (about Tk 1.9 to 6.2 lakh) to Chinese-run scam compounds, guarded sites where they were forced to cheat people online and beaten or given electric shocks if they refused [S0039, S0043, S0110, S0089, S0022, S0026, G0002]. BRAC counted more than 1,000 BMET-cleared Bangladeshis still trapped in compounds in July 2026, and a BRAC study found 98% of returnees from Cambodia had not got the promised job [B0209, N0196]. Even a real job ties a worker to one employer's work permit, renewed every year, and an expired visa costs USD 10 (about Tk 1,250) a day and can end in detention and deportation: Cambodia deported more than 3,000 Bangladeshis in January to September 2026 [W0066, L0040, W0032, U0044, B0225, G0002]. Bangladesh has no embassy in Cambodia, and the land border with Thailand, where its embassy is, is closed [B0197, V0042]. BMET clearances fell from 3,235 in October 2025 to none in October 2026, and on 4 November 2026 the Ministry of Expatriates' Welfare told BMET to clear no one for a list of 12 countries, Cambodia among them, without its approval [B0095, B0107, N0097, B0069].
+Cambodia took few Bangladeshi workers until 2025 (929 in 2024, its 23rd destination); in 2025 BMET cleared 12,263 for it, almost all men and mostly recorded as construction workers, on permission letters for Phnom Penh building firms at USD 420 (about Tk 52,400) a month [B0078, N0013, B0079, B0084, B0115, B0116, B0151, B0141, G0002]. Most went in small batches of up to five workers whose job papers needed no check by the Bangladesh embassy; BMET's permission letters capped what an agency could take at Tk 80,520 to Tk 1,55,450, but people paid Tk 2 to 7 lakh, often through a middleman who promised a computer, data-entry or customer-service job [B0214, N0081, B0157, N0151, N0103, N0150]. On arrival many were met by Bangladeshi brokers, kept in a hotel and sold for USD 1,500 to 5,000 (about Tk 1.9 to 6.2 lakh) to Chinese-run scam compounds, guarded sites where they were forced to cheat people online and beaten or given electric shocks if they refused [S0039, S0043, S0110, S0089, S0022, S0026, G0002]. BRAC counted more than 1,000 BMET-cleared Bangladeshis still trapped in compounds in July 2026, and a BRAC study found 98% of returnees from Cambodia had not got the promised job [B0209, N0196]. Even a real job ties a worker to one employer's work permit, renewed every year, and an expired visa costs USD 10 (about Tk 1,250) a day and can end in detention and deportation: Cambodia deported more than 3,000 Bangladeshis in January to September 2026 [W0066, L0040, W0032, U0044, U0040, B0225, G0002]. Bangladesh has no embassy in Cambodia, and the land border with Thailand, where its embassy is, is closed [B0197, V0042]. BMET clearances fell from 3,235 in October 2025 to none in October 2026, and on 4 November 2026 the Ministry of Expatriates' Welfare told BMET to clear no one for a list of 12 countries, Cambodia among them, without its approval [B0095, B0107, N0097, B0069].
 
 ### Is it open now, and who can go?
 
@@ -30,17 +30,17 @@ Closed in practice for workers going through BMET, as of 10 November 2026: BMET 
 
 #### The channels
 
-- **A licensed Bangladeshi agency with a BMET permission letter:** the official route. BMET's permission letter names the agency, the Cambodian employer, the job, the number of workers, the pay and the most the agency may take, and the agency must choose the workers from BMET's database of registered jobseekers (see Work visa: company worker) [B0140, B0143, B0144].
+- **A licensed Bangladeshi agency with a BMET permission letter:** the official route. BMET's permission letter names the agency, the Cambodian employer, the job, the number of workers, the pay and the most the agency may take, and the agency must choose the workers from BMET's database of registered jobseekers (see Work visa: company worker) [B0140, B0141, B0143, B0144].
 - **A small batch without embassy attestation:** a demand letter for up to five workers could go to BMET without the embassy's check; syndicates split large orders to use it, and 70-75% of workers were going this way when it was ended in July 2026 [B0214, B0215].
 - **A tourist or visit visa on a broker's job promise:** the Ministry warns that brokers send people to Cambodia on tourist and visit visas and tells people never to go for work this way [N0092, B0005]. Working on a tourist visa is prohibited (see Visas not open to Bangladeshis) [V0009].
-- **No government channel:** Bangladesh and Cambodia signed a memorandum of understanding (MoU) on labour and vocational training on 4 December 2017 for five years, and renewed it in May 2022 [N0183, B0194, B0195].
+- **Government to government:** Bangladesh and Cambodia signed a memorandum of understanding (MoU) on labour and vocational training on 4 December 2017 for five years, and renewed it in May 2022 [N0183, B0194, B0195].
 
 > **Need to know**
 > - Has BOESL (Bangladesh Overseas Employment and Services Limited, the government's own recruiting company) ever sent workers to Cambodia, and is any recruitment planned under the renewed MoU?
 
 #### Who qualifies
 
-Men aged 20 to 45, on 2-year contracts, in BMET's permission letters for Cambodia [B0142, B0152, N0064, N0075]. BMET cleared no women for Cambodia in 2022, one each in 2023, 2024 and 2025, and two in 2026 to 10 November [B0081, B0082, B0083, B0084, B0085]. The letters are for construction workers [B0140, B0151, B0155, B0157, B0161, B0167].
+Men aged 20 to 45, on 2-year contracts, in BMET's permission letters for Cambodia [B0140, B0151, B0142, B0152, N0064, N0075, K0047, K0054]. BMET cleared no women for Cambodia in 2022, one each in 2023, 2024 and 2025, and two in 2026 to 10 November [B0081, B0082, B0083, B0084, B0085]. Other women have gone too: one went in August 2025 through a travel agency for computer work and was held in a scam centre, and a woman returnee says many Bangladeshi women who went for jobs are stuck in Cambodia [S0195, S0050]. The letters are for construction workers [B0140, B0151, B0155, B0157, B0161, B0167, K0046, K0050, K0053].
 
 > **Need to know**
 > - Does BMET ask for a construction skill certificate from a TTC (Technical Training Centre, BMET's training institute) before clearing a worker for Cambodia, and does any Cambodian employer test workers before hiring?
@@ -49,18 +49,18 @@ Men aged 20 to 45, on 2-year contracts, in BMET's permission letters for Cambodi
 
 - **Workers cleared by BMET:** 368 in 2022, 1,378 in 2023 (18th destination), 929 in 2024 (23rd), 12,263 in 2025 (8th) and 3,700 from 1 January to 10 November 2026 [B0076, B0077, N0012, B0078, N0013, B0079, B0226, B0080].
 - **Job titles on the clearances:** in 2025, out of 35 titles, the largest were Construction Worker (3,428), Construction Labour (2,849), A Builder (1,456), Building / Construction Helper (1,081), Cleaner (678), A Casual Worker (429), Production Manager (388) and Quality Controller (300) [B0139, B0115, B0116, B0117, B0118, B0119, B0120, B0121, B0122]. In 2026 to 10 November the largest were A Casual Worker (736), Farm Worker (580), A Builder (390), Building / Construction Helper (349) and Pipe Fitting Labour (335), and 25 were recorded as "Agent" [B0128, B0129, B0130, B0131, B0132, N0061].
-- **Against other high-risk countries:** from January 2025 to September 2026, 15,963 Bangladeshi workers went to Cambodia, more than to any other country on the US State Department's Tier 3 list (its worst rating for fighting human trafficking), against 7,752 to Russia and 7,532 to Laos [B0258, B0259]. The US kept Cambodia on Tier 3 in its 2026 report [N0094].
-- **Where they are now:** BRAC says there is no way to know where the 16,000 who went with BMET clearance are or what they are doing [N0148]. Cambodia's labour minister said about 400 Bangladeshis held Cambodian work permits in 2022 [B0196]. The Bangladesh embassy estimated 4,000-4,500 Bangladeshis were overstaying their visas in Cambodia in July 2026 [N0137].
+- **Against other high-risk countries:** from January 2025 to September 2026, 15,963 Bangladeshi workers went to Cambodia, more than to any other country on the US State Department's Tier 3 list (its worst rating for fighting human trafficking), against 7,752 to Russia and 7,532 to Laos [B0258, B0259, N0094]. The US kept Cambodia on Tier 3 in its 2026 report [N0094]. Cambodia, Russia, Laos and Belarus, all on Tier 3, took 27,647 of the 44,122 workers BMET cleared from January 2025 to 30 October 2026 for the 12 countries on the Ministry's 4 November list [N0209, N0100, N0097]. Laos suspended recruitment, work permits and entry visas for Bangladeshi workers from 1 September to 31 December 2026 [B0230].
+- **Where they are now:** BRAC says there is no way to know where the roughly 16,000 who went with BMET clearance are or what they are doing [N0148]. Cambodia's labour minister said about 400 Bangladeshis held Cambodian work permits in 2022 [B0196, N0179]. That year the Bangladeshi ambassador met Bangladeshis working in Cambodia in service, construction, hospitality and banking [N0182]. The Bangladesh embassy estimated 4,000-4,500 Bangladeshis were overstaying their visas in Cambodia in July 2026 [N0137].
 - **Deported, against other nationalities:** of 52,039 foreigners from 87 countries Cambodia deported in January to September 2026, about 23,000 were Chinese, over 8,000 Indonesian, over 4,000 Vietnamese, over 3,000 Bangladeshi and over 2,500 Pakistani [N0191, N0192, N0193].
 
 > **Need to know**
-> - How many of the 12,263 workers cleared for Cambodia in 2025 received an MLVT work permit, and how many Bangladeshis hold one in 2026?
+> - How many of the 12,263 workers cleared for Cambodia in 2025 received an MLVT work permit, and how many Bangladeshis hold one in 2026, and in which jobs? Is any Cambodian employer outside construction (garment factories, hotels, banks) asking for Bangladeshi workers through BMET in 2026?
 
 #### What closed it before
 
 - **2022-2023:** in 2022 the embassy attested requisitions for 210 workers for Cambodia while BMET registered 3,127; BMET's then Director General said stopping registration for lack of checks would hurt remittances [N0163, N0164]. In September 2022 RAB (the Rapid Action Battalion, a Bangladesh police unit) arrested a Cambodia-based ring leader, Nazmul Islam, whose gang it said had trafficked more than 500 Bangladeshis into Cambodian cybercrime [S0209, S0213].
-- **July and December 2025:** fighting on the Thai-Cambodian border displaced Bangladeshi workers; in July the Embassy's labour counsellor went to Phnom Penh to arrange food, shelter, transport and medical care, and in December over 150 construction workers who fled a site near the border after bombing were detained by immigration police and asked for USD 800 (about Tk 1 lakh) each to be sent home [B0192, B0193, N0184, N0185, N0186, N0187, G0002]. All land crossings to Thailand were still closed in October 2026 [V0042].
-- **2026:** clearances fell from January and stopped in October, and the small-batch exemption and the Ministry approval order followed (see Status) [B0098, B0107, B0215, N0097].
+- **July and December 2025:** fighting on the Thai-Cambodian border displaced Bangladeshi workers; in July the Embassy's labour counsellor went to Phnom Penh to arrange food, shelter, transport and medical care, and in December over 150 construction workers who fled a site near the border after bombing were detained by immigration police and asked for USD 800 (about Tk 1 lakh) each to be sent home [B0192, B0193, N0184, N0185, N0186, N0187, G0002]. The GDI closed the Doung international checkpoint from 13 June 2025, by 17 September 2025 none of the checkpoints on the Thai border had reopened, and on 12 December 2025 it asked foreign embassies to tell their citizens not to travel to the border conflict areas [K0025, K0026, K0029]. All land crossings to Thailand were still closed in October 2026 [V0042].
+- **2026:** clearances fell from 2,223 in January to 674 in February and 2 in June, the small-batch exemption was ended in July, clearances stopped in October, and the Ministry approval order came on 4 November (see Status) [B0098, B0099, B0103, B0215, B0107, N0097].
 
 ### How a job reaches you, and who takes a cut
 
@@ -68,35 +68,35 @@ A legal job starts as a Cambodian employer's demand letter, which the Bangladesh
 
 #### The demand letter and the small-batch route
 
-The Bangladesh Embassy in Bangkok is meant to verify and attest the employer's appointment or demand letter before workers go to Cambodia [N0162, B0213]. Until July 2026 a demand letter for up to five workers could go to BMET without that attestation, and syndicates split large orders into small ones to avoid the embassy's scrutiny [B0214, N0113]. Separately, until 4 November 2026 demand letters for up to seven workers needed no approval from the Ministry, and industry insiders say this was misused to send workers on fake job offers [B0072, W0098]. In a 2022 case, an agent told a worker that work visas were not available, so he would go on a business visa [N0165].
+The Bangladesh Embassy in Bangkok is meant to verify and attest the employer's appointment or demand letter before workers go to Cambodia [N0162, B0213, B0197]. Until July 2026 a demand letter for up to five workers could go to BMET without that attestation, and syndicates split large orders into small ones to avoid the embassy's scrutiny [B0214, B0215, N0113]. Separately, until 4 November 2026 demand letters for up to seven workers needed no approval from the Ministry, and this was allegedly misused to send workers on fake job offers [B0072, W0098, B0069]. In a 2022 case, an agent told a worker that work visas were not available, so he would go on a business visa [N0165].
 
 > **Need to know**
 > - Since July 2026, does the Embassy's labour wing in Bangkok visit a Cambodian employer in Phnom Penh before attesting its demand letter, or check the papers only?
 
 #### The employers
 
-The permission letters name construction firms in Phnom Penh: North Asian Construction Co. Ltd.; Rafa Construction Co. Ltd.; Chip Hong Insee Ltd., Sim Sia Cambodia, Sok Hang Group, Vain SR Construction and Phanimex Group; China State Construction (Cambodia) Co. Ltd. and Asbic Construction Company Ltd.; Xin Caifu (Cambodia) Co., Ltd., Maliha Jamman M.S Co., Ltd. and Golden Cresent Development Co., Ltd.; and Royal Bengol Engineering and Constructors Co. Ltd., Abrar Pvt (Cambodia) Co. Ltd. and Yong Sheng Global Trading Co. Ltd. [B0140, B0167, B0151, B0155, B0160, N0071, N0074]. A Bangladesh government delegation went to Cambodia in October 2019 to seek jobs for construction workers with Chinese-financed construction firms [N0204].
+The permission letters name these construction firms in Cambodia: North Asian Construction Co. Ltd.; Rafa Construction Co. Ltd.; Chip Hong Insee Ltd., Sim Sia Cambodia, Sok Hang Group, Vain SR Construction and Phanimex Group; China State Construction (Cambodia) Co. Ltd. and Asbic Construction Company Ltd.; Xin Caifu (Cambodia) Co., Ltd., Maliha Jamman M.S Co., Ltd. and Golden Cresent Development Co., Ltd.; Royal Bengol Engineering and Constructors Co. Ltd., Abrar Pvt (Cambodia) Co. Ltd. and Yong Sheng Global Trading Co. Ltd.; Yukon Builders (Cambodia) Co. Ltd.; L.Y.P. Group, Soma Group and Sinohydro (Cambodia) United; and Koh Kong Construction Co. Ltd. [B0140, B0167, B0151, B0155, B0160, N0071, N0074, K0050, K0046, K0053]. A Bangladesh government delegation went to Cambodia in October 2019 to seek jobs for construction workers with Chinese-financed construction firms [N0204]. BMET's letters give employers' addresses, for example Chip Hong Insee Ltd. at 137 Mao Tse Toung Blvd, Royal Bengol Engineering and Constructors Co. Ltd. in Trapeang Krasang, Posen Chey, and Xin Caifu (Cambodia) Co., Ltd. in Sangkat Chom Chao II, Khan Por Sen Chey [B0154, B0162, B0160].
 
 > **Need to know**
 > - Which of these employers really took the workers named in the permission letters, and are any still hiring Bangladeshis?
 
 #### The Bangladeshi agencies
 
-BMET's permission letters for Cambodia are all for construction workers, and those that state the pay set USD 420 a month [B0168, B0141, B0151, B0155, B0157, B0161]. The letters (agency, date, workers, employer, cap on what the agency may take), with the licence status on OEP's agency list where it is recorded:
+BMET's permission letters for Cambodia are all for construction workers, and those that state the pay set USD 420 a month, except one at USD 450 [B0168, B0141, B0151, B0155, B0157, B0161, K0047, K0051, K0054]. The letters (agency, date, workers, employer, cap on what the agency may take), with the licence status on OEP's agency list where it is recorded:
 
 - **T.K. Enterprise (RL-1527):** 20 November 2023, 33 workers for Rafa Construction Co. Ltd. [B0167, B0168].
-- **Sams Company (RL-0696):** January 2025, 18 workers for North Asian Construction Co. Ltd.; cap Tk 80,770; Suspended [B0140, B0141, B0143, N0090].
-- **Puspita Overseas (RL-2648), Fakirapool, Dhaka:** 24 March 2025, 144 workers for employers including Chip Hong Insee, Sim Sia Cambodia, Sok Hang Group, Vain SR Construction and Phanimex Group; cap Tk 80,770; Active [B0151, B0153, N0076, N0086]. A Sirajganj man told the Daily Star (July 2026) that a broker asked him Tk 7 lakh for a computer-operator job paying Tk 80,000 a month, and that he paid Tk 1 lakh to the broker and the rest to "Pushpita Overseas in Fakirapool"; his visa named him a construction worker with North Asian Construction Company, and in Cambodia he was told he had been bought for USD 2,000 (about Tk 2.5 lakh) [N0124, N0126, N0127, N0128, S0023, G0002].
+- **Sams Company (RL-0696):** January 2025, 18 workers for North Asian Construction Co. Ltd.; cap Tk 80,770; Suspended [B0140, B0141, B0143, N0090]. A second Sams letter, 6 February 2025, is for 24 workers for Koh Kong Construction Co. Ltd.; cap Tk 80,770 [K0053, K0055]. Mondol Trade International (RL-2626) got a letter on 26 January 2025 for 27 workers for Royal Bengol Engineering and Constructors Co. Ltd. (9) and Yukon Builders (Cambodia) Co. Ltd. (18); cap Tk 80,770 [K0049, K0050, K0052].
+- **Puspita Overseas (RL-2648), Fakirapool, Dhaka:** 24 March 2025, 144 workers for employers including Chip Hong Insee, Sim Sia Cambodia, Sok Hang Group, Vain SR Construction and Phanimex Group; cap Tk 80,770; Active [B0151, B0153, N0076, N0086]. An earlier Puspita letter, 13 March 2025, is for 68 workers for L.Y.P. Group, Soma Group and Sinohydro (Cambodia) United; cap Tk 80,770 [K0045, K0046, K0048]. A Sirajganj man told the Daily Star (July 2026) that a broker asked him Tk 7 lakh for a computer-operator job paying Tk 80,000 a month, and that he paid Tk 1 lakh to the broker and the rest to "Pushpita Overseas in Fakirapool"; his visa named him a construction worker with North Asian Construction Company, and in Cambodia he was told he had been bought for USD 2,000 (about Tk 2.5 lakh) [N0124, N0126, N0127, N0128, S0023, G0002].
 - **Al-Grand Sultan Overseas (RL-1582), Savar:** 20 April 2025, 96 workers for Vain SR, Sok Hang, Sim Sia and Phanimex; cap Tk 80,520; Active [N0081, N0091].
 - **Fahim Recruiting Agency (RL-2594), Naya Paltan:** 25 June 2025, 96 workers for China State Construction (Cambodia) and Asbic Construction; cap Tk 1,05,000; Suspended [B0155, N0083, N0087]. Its letter says the other terms of employment follow Malaysia's labour law [N0085]. A Chapainawabganj worker told TBS (July 2026) that he paid Tk 4.8 lakh through a local middleman, went through Fahim with a BMET clearance card and a valid work visa, and endured 10 months of hardship in Cambodia; the agency's owner said only three workers had complained against it at BMET [B0212, B0216].
 - **Mongol Global Services (RL-2527):** 31 August 2025, 144 workers for three firms including Xin Caifu (Cambodia); cap Tk 1,55,450; Suspended [B0157, B0160, N0088].
 - **SAM International (RL-1203):** 10 September 2025, 100 workers, 25 each for Royal Bengol Engineering and Constructors, Xin Cai Fu (Cambodia), Abrar Pvt (Cambodia) and Yong Sheng Global Trading; cap Tk 80,770 [B0161, N0074].
 
-How to find and check these letters: Work visa: company worker, Step 1 [B0234]. Other licensed agencies have been named: in June 2022 M/S Right Job, a licensed agency in Dhanmondi, advertised a Cambodia tiles-installer job on Facebook at USD 600 (about Tk 74,800) a month and agreed a Tk 3.5 lakh deal, Daily Star Bangla reported in January 2023 [N0175, G0002]. In 2023 the police counter-terrorism unit said it had found criminal rings linked to about six recruiting agencies trafficking Bangladeshis to Cambodia [N0177].
+How to find and check these letters: Work visa: company worker, Step 1 [B0234]. Other licensed agencies have been named: in June 2022 M/S Right Job, a licensed agency in Dhanmondi, advertised a Cambodia tiles-installer job on Facebook at USD 600 (about Tk 74,800) a month and agreed a Tk 3.5 lakh deal, Daily Star Bangla reported in January 2023 [N0175, G0002]. In 2023 the police counter-terrorism unit said it had found criminal rings linked to about six recruiting agencies trafficking Bangladeshis to Cambodia [N0177]. Returnees have named two more agencies: two cousins who paid a relative more than Tk 10 lakh went through Mashallah Overseas in the Dainik Bangla area (TBS, 2022), and a Narsingdi man promised computer-operator work went on 30 October 2025 through Alif International Agency and found a scam centre (bdnews24, 2026) [N0169, N0197, S0104].
 
 > **Need to know**
 > - Has BMET issued any permission letter for Cambodia since September 2025, and are any of the 2025 letters still open for recruitment?
-> - Why are Sams Company, Fahim Recruiting Agency and Mongol Global Services suspended on OEP, and was it over Cambodia?
+> - Why are Sams Company, Fahim Recruiting Agency and Mongol Global Services suspended on OEP, and was it over Cambodia? Is the Mashallah Overseas in these cases the licensed RL-1039 (Dilkusha), and is the Alif International Agency the RL-0049 whose licence BMET lists as cancelled?
 
 #### The middlemen
 
@@ -104,15 +104,15 @@ A BRAC study found 66% of cyber-scam victims were recruited through middlemen, a
 
 #### The BMET card as a trust signal
 
-BRAC says BMET clearance is used as a trust signal, and people who go with BMET clearance and a smart card believe they are following government rules [N0123, S0051]. In 2022 all five scam victims a newspaper asked had BMET smart cards [N0170]. Victims flew with clearance on visas naming construction work while they had been promised office jobs, and one broker told the worker the construction title was "temporary" [N0128, N0129, N0153]. One Lakshmipur returnee with BMET clearance found he had only a one-month visit visa [N0136]. One victim's fingerprint did not match at the airport Probashi desk, and an official called his agency and let him board [N0178]. When checks tightened, the CID (Criminal Investigation Department of the Bangladesh police) says, recruiters used fake BMET cards or sent workers to Thailand as tourists before moving them to Cambodia [N0138].
+BRAC says BMET clearance is used as a trust signal, and people who go with BMET clearance and a smart card believe they are following government rules [N0123, S0051]. In 2022 all five scam victims a newspaper asked had BMET smart cards [N0170]. Victims flew with clearance on visas naming construction work while they had been promised office jobs, and one broker told the worker the construction title was "temporary" [N0128, N0129, N0153]. One Lakshmipur returnee with BMET clearance found he had only a one-month visit visa [N0136]. One victim's fingerprint did not match at the airport Probashi desk, and an official called his agency and let him board [N0178]. When checks tightened, the CID (Criminal Investigation Department of the Bangladesh police) says, recruiters used fake BMET cards or sent workers to Thailand as tourists before moving them to Cambodia [N0138]. Rights groups say the pattern has grown since 2021, driven by online tourist visas that are easy to get and that traffickers use alongside BMET clearance to make a fake job look legitimate [N0122].
 
 #### The scam-compound chain
 
-On arrival a Bangladeshi receiver meets the worker, keeps him in a hotel for a few days, then drives him to a compound "for an interview" and sells him [S0039, S0020]. The prices reported are USD 1,500 to 5,000 (about Tk 1.9 to 6.2 lakh), and Bangladeshi officials report brokers collect USD 2,000 to 5,000 per person [S0043, S0110, S0131, G0002]. The compound then treats the price as a debt the worker must work off, or that the family must pay to free him (see Scam compounds and trafficking) [S0152, S0111].
+On arrival a Bangladeshi receiver meets the worker, keeps him in a hotel for a few days, then drives him to a compound "for an interview" and sells him [S0039, S0020]. The prices reported are USD 1,500 to 5,000 (about Tk 1.9 to 6.2 lakh), and Bangladeshi officials report brokers collect USD 2,000 to 5,000 per person [S0043, S0110, S0131, G0002]. The compound then tells the worker he owes it a debt to work off, or demands a ransom from the family to free him (see Scam compounds and trafficking) [S0152, S0111].
 
 ### What you pay, and what you earn and keep
 
-On paper the employer pays the costs of getting to Cambodia and the agency may take Tk 80,520 to Tk 1,55,450 [B0143, N0081, B0157]. In practice people paid Tk 2 to 7 lakh and more for office jobs that did not exist, while the jobs in the permission letters pay USD 420 (about Tk 52,400) a month [N0151, N0118, B0141, G0002].
+On paper the employer pays the costs of getting to Cambodia and the agency may take Tk 80,520 to Tk 1,55,450 [B0143, N0081, B0157]. In practice people paid Tk 2 to 7 lakh and more for office jobs that did not exist, while the jobs in the permission letters pay USD 420 (about Tk 52,400) a month [N0151, N0118, N0150, N0196, B0141, G0002].
 
 #### The cap
 
@@ -126,11 +126,11 @@ On paper the employer pays the costs of getting to Cambodia and the agency may t
 
 #### What people really pay
 
-- **Tk 2 to 7 lakh:** what many scam-compound victims paid (October 2026) [N0151].
+- **Tk 2 to 7 lakh:** what many scam-compound victims paid (October 2026); a Narsingdi man paid a broker Tk 2.47 lakh for a receptionist job promised at about Tk 80,000 a month (2023) [N0151, N0174].
 - **Tk 4.8 lakh:** through a local middleman and Fahim Recruiting Agency, with a BMET card and a valid work visa (TBS, July 2026) [B0212].
 - **Tk 5 lakh:** a construction worker displaced by the border fighting in December 2025 [N0188].
 - **Tk 5.3 lakh:** the most recruiters charged for promised IT and computer-operator jobs (2026) [B0210].
-- **Tk 5.5 lakh:** paid to brokers by a man who flew with BMET clearance and was let in on a visit visa (2026) [B0219].
+- **Tk 5.5 lakh and Tk 5.6 lakh:** paid to brokers by a man who flew with BMET clearance and was let in on a visit visa, and spent by a man who was then sold for USD 2,000 (about Tk 2.5 lakh) and asked for another USD 2,000 to arrange his visa home (2026) [B0219, S0057, G0002].
 - **Tk 7 lakh and Tk 7.7 lakh:** for a computer-operator job promised at Tk 80,000 a month, and for a data-entry job (2026) [N0126, N0152].
 - **Tk 10 lakh:** a Rajbari man promised a work visa and sent on a tourist visa (2026) [N0118, N0119].
 
@@ -138,7 +138,7 @@ A Bangla visa-guide site (January 2025) quotes Tk 4 to 6 lakh through an agency,
 
 #### How it is paid
 
-In parts, and in cash to more than one person: one man paid Tk 1 lakh to the broker and the rest to the agency [N0127]. At Dhaka airport the broker had him stand by a pillar and send a WhatsApp photo, a man got his boarding pass issued, and a broker's contact handed him USD 2,000 (about Tk 2.5 lakh) in cash before boarding, which was taken from him when he entered the compound [N0130, N0131, S0021, G0002].
+In parts, to more than one person: one man paid Tk 1 lakh to the broker and the rest to the agency [N0127]. At Dhaka airport the broker had him stand by a pillar and send a WhatsApp photo, a man got his boarding pass issued, and a broker's contact handed him USD 2,000 (about Tk 2.5 lakh) in cash before boarding, which was taken from him when he entered the compound [N0130, N0131, S0021, G0002].
 
 > **Need to know**
 > - What is the USD 2,000 handed to workers at Dhaka airport for: cash to show Cambodian immigration, or money for the receiver in Phnom Penh?
@@ -152,7 +152,7 @@ Families borrow: one family borrowed much of Tk 6 lakh for a computer job promis
 
 #### What the job pays
 
-- **Construction, on the permission letters:** USD 420 (about Tk 52,400) a month for 8 hours a day, 6 days a week, with food, housing, transport and medical care free [B0141, B0142, G0002].
+- **Construction, on the permission letters:** USD 420 (about Tk 52,400) a month, or USD 450 (about Tk 56,100) in Mondol Trade International's January 2025 letter, for 8 hours a day, 6 days a week, with food, housing, transport and medical care free [B0141, B0142, K0051, G0002].
 - **Garment, textile, footwear, travel-goods and bag factories:** the only jobs with a legal minimum wage, USD 210 (about Tk 26,200) a month in 2026 and USD 212 (about Tk 26,400) from 1 January 2027; construction and other work has none [L0050, L0046, L0052, G0002].
 - **Construction and farm work, according to a Bangla guide site (June 2026):** USD 300 to 400 (about Tk 37,400 to 49,900) a month [N0203, G0002].
 - **The office jobs promised in Bangladesh:** Tk 50,000 to over Tk 1 lakh, up to about Tk 1.5 lakh, a month [N0150, N0145]. Every BMET permission letter for Cambodia is for construction workers (see The Bangladeshi agencies) [B0140, B0151, B0155, B0157, B0161, B0167].
@@ -171,7 +171,7 @@ A worker who pays for his own food and housing in Phnom Penh faces these costs (
 
 #### What goes unpaid
 
-- **Almost nothing for 1.5 years:** a Pirojpur man sent as a construction worker worked almost unpaid while brokers held the workers' passports and gave them USD 50 (about Tk 6,200) a month for upkeep (2023) [N0172, N0173, G0002].
+- **Almost nothing for 1.5 years:** a Pirojpur man sent as a construction worker worked almost unpaid while brokers held the workers' passports and gave them USD 50 (about Tk 6,200) a month for upkeep (2023) [N0171, N0172, N0173, G0002].
 - **Five months unpaid:** six Bangladeshis who flew to Sihanoukville in January 2026 worked about five months as labourers without pay, then crawled under the border fence into Thailand [U0086, U0087, U0088].
 - **One month's pay, then nothing:** a man in a scam compound was paid USD 476 (about Tk 59,300) for the first month and nothing after [S0027, G0002].
 - **Fees deducted from pay:** the visa and work-permit fees (see The cap) [B0158]. Deducting a recruitment or placement fee from wages is banned [L0026].
@@ -187,20 +187,20 @@ Bangladesh Bank counts remittances from Cambodia under "Others", so there is no 
 
 #### How long the debt takes
 
-A Tk 4.8 lakh deal equals about 9 months of the full USD 420 (about Tk 52,400) the permission letters set, before any deduction [B0212, B0141, G0002]. One returnee who applied for a casino job spent USD 4,047 (about Tk 5 lakh) and earned USD 972 (about Tk 1.2 lakh) [N0160, G0002]. A Bangladesh government official warned in 2019 that a worker who pays extra to go to Cambodia is unlikely to earn it back, because higher pay is not available there [N0207].
+A Tk 4.8 lakh deal equals about 9 months of the full USD 420 (about Tk 52,400) the permission letters set, before any deduction [B0212, B0141, G0002]. One returnee who applied for a casino job spent USD 4,047 (about Tk 5 lakh) and earned USD 972 (about Tk 1.2 lakh) [N0160, G0002]. A Bangladesh government official warned in 2019 that a worker who pays extra to go to Cambodia is unlikely to earn it back, because higher pay is not available there [N0207]. The same official put the government costs of sending one worker, the visa fee included, at about USD 1,200 (about Tk 1.5 lakh), and said a worker must pay USD 287 (about Tk 35,800) a year to renew the visa and USD 160 (about Tk 19,900) for the work permit, and spend about USD 100 (about Tk 12,500) a month on food, against pay of USD 400 to 450 (about Tk 49,900 to 56,100) a month [N0205, N0206, G0002].
 
 > **Need to know**
 > - How many months does a construction worker on USD 420 who paid Tk 4.8 lakh take to clear the debt in 2026, after deductions, food and rent?
 
 ### What ties you to the employer
 
-Fully: the employer gets the work permit and employment card, and MLVT can cancel the permit if the worker is hired by another employer or out of work for more than a month [W0066, L0040].
+Fully: the employer gets the work permit and employment card, and MLVT can cancel the permit if the worker is hired by another employer or out of work for more than a month [K0006, L0040, K0015].
 
 - **To enter:** the employer must hold an approved quota of foreign workers before any permit, and invites you on the E-class visa (Work visa: company worker, Step 3) [W0028, V0012, V0013].
 - **To renew:** the work permit lasts one year and is renewed each year between 1 January and 31 March; from the second long-term EB extension, your stay depends on a valid work permit (see Your residence permit) [W0032, W0071].
 - **To quit:** a fixed-term contract can be ended early only by written agreement in front of a labour inspector, or for serious misconduct or force majeure, and a worker who walks out without good reason can be made to pay the employer damages [L0005, L0007].
-- **To change employer:** a new employer must get you a new permit (see Changing employer) [L0040, W0066]. The owner of Fahim Recruiting Agency says workers who leave for better-paid jobs are not taken back by their first employers [N0117].
-- **To go home on leave:** the permission letters make the employer pay the return airfare (see Changing employer or leaving) [B0142].
+- **To change employer:** a new employer must get you a new permit (see Changing employer) [L0040, W0066]. The owner of Fahim Recruiting Agency says workers who leave for better-paid jobs are often not taken back by their first employers [N0117].
+- **To go home on leave:** BMET's January 2025 permission letter makes the employer pay the airfare both ways (see Going home on leave) [B0142].
 - **Which law covers you:** Cambodia's Labour Law (1997) covers every job done in Cambodia, whatever the worker's nationality (see Your rights at work), and the Law on Immigration (1994) covers entry, stay and expulsion [L0174, U0094, U0099].
 - **Your passport:** brokers have held workers' passports on construction sites, and compounds take them on entry [N0173, S0021].
 - **If the visa expires:** an overstay costs USD 10 (about Tk 1,250) a day; people deported for illegal entry or work are barred from Cambodia for at least three to five years, and those who refused a voluntary-departure window and were then detained are barred for life (see What can get you jailed or deported) [U0044, U0043, U0040, G0002].
@@ -211,7 +211,7 @@ The danger that defines this corridor is the BMET-cleared route itself: people p
 
 - **No job:** a BRAC study found 98% of returnees from Cambodia had not got the promised job, 90% were forced into online scams and 86% had their papers confiscated [N0196].
 - **Trapped in a compound:** more than 1,000 BMET-cleared Bangladeshis were still in scam compounds in July 2026, by BRAC's count [B0209].
-- **The wrong visa:** visas that named construction work or were one-month visit or tourist visas, and a work permit that never came [N0153, N0136, N0154].
+- **The wrong papers:** an invitation letter that named construction work instead of the promised data-entry job, a visit or tourist visa of one or two months instead of a work visa, and a promised work permit that never came [N0153, N0136, S0074, N0154].
 - **Stranded:** the Embassy in Bangkok received requests for help from 1,796 Bangladeshis stranded in Cambodia by October 2026 [N0142].
 - **Deported:** 3,364 Bangladeshis between 1 September 2023 and 13 September 2026, 852 of them linked to online scams, according to Cambodia's Ministry of Interior [N0149].
 - **Dead:** the bodies of three Bangladeshis came home from Cambodia on 8 October 2026, among them Sohag Ahmed, 23, who went in April 2025 with BMET clearance [N0102].
@@ -222,7 +222,7 @@ The danger that defines this corridor is the BMET-cleared route itself: people p
 - **"The visa says construction, but that is only temporary."** A broker told a man promised a computer job exactly that; his visa named a construction company, and he ended up in a compound [N0128, N0129, S0023].
 - **"It is a two-year work visa."** Many victims travelled on one- or two-month tourist visas while brokers told them they had two-year work visas [S0074].
 - **"Go on a tourist visa; the work visa will be fixed in Cambodia."** Working on a tourist visa is prohibited, turning it into an E-class visa after arrival is not an official route, and the Ministry tells people never to go for work this way [V0009, W0079, B0005].
-- **"Cambodia is a step to a job in Thailand, Canada, Australia or the UAE."** Some victims were told they were going to those countries and were taken to Cambodia instead, or told to "gain experience" in the compound first [S0124, S0024]. Those who try to go on overland are arrested in Thailand (see Irregular routes, and where an irregular stay ends) [U0080, U0089].
+- **"Cambodia is a step to a job in Thailand, Canada, Australia or the UAE."** Some victims were told they were going to those countries and were taken to Cambodia instead, or told to "gain experience" in the compound first [S0124, S0024]. Bangladeshis who crossed on foot from Cambodia into Thailand in 2026 were arrested and charged there (see Irregular routes, and where an irregular stay ends) [U0079, U0080, U0086, U0089].
 - **"The compounds are gone now."** On 28 August 2026 the CCOS (Commission for Combating Online Scams, the Cambodian government body leading the crackdown) said Cambodia no longer hosts any scam compounds; an independent anti-trafficking consultant says scam operations and recruitment into them continue, and Amnesty International identified 86 compounds by April 2026 [S0227, S0228, S0233].
 - **"Foreigners now get 2 years' jail and a USD 8,000 fine."** That notice, for 1 June 2026, was a forgery, rejected by Cambodia's Ministry of Interior on 29 May 2026; the overstay fine is USD 10 (about Tk 1,250) a day [L0113, U0044, G0002].
 
@@ -230,7 +230,7 @@ The danger that defines this corridor is the BMET-cleared route itself: people p
 
 - **A tourist or visit visa with a job promise: it ends in a compound or an overstay.** One man paid Tk 5.5 lakh, flew with BMET clearance on a visit visa that was never renewed, found no company and was sold to a scam compound; RAB said in 2022 that a gang sent Bangladeshis on Cambodian tourist e-visas arranged with Bangladeshis living there [B0219, U0068].
 - **Through Thailand as a tourist: it ends in the same place.** Recruiters sent workers to Thailand as tourists and moved them into Cambodia [N0138]. Some traffickers work from Dubai, recruiting Bangladeshi migrant workers there and taking them across the Thai border into Cambodia, Laos or Myanmar [S0132, S0133].
-- **On overland to Thailand and Malaysia: it ends in a Thai jail.** Since early 2023 Thai police have caught Bangladeshis smuggled from Cambodia towards Malaysia [U0069]. In April 2026, 21 who had paid brokers Tk 7 lakh each for passage to Malaysia crossed on foot from Cambodia and were charged with illegal entry and stay in Thailand; in July 2026 seven more, with no passports, paid a smuggling network 8,000 baht each to be walked across by Cambodian guides and were caught [U0078, U0079, U0080, U0082, U0084]. Every land checkpoint into Thailand's Sa Kaeo province stayed closed in June 2026 [U0136].
+- **On overland to Thailand and Malaysia: it ends in a Thai jail.** Since early 2023 Bangladeshis have been smuggled from Cambodia into Thailand, some on their way to Malaysia [U0069, U0072]. In April 2026, 21 who had paid brokers Tk 7 lakh each for passage to Malaysia crossed on foot from Cambodia and were charged with illegal entry and stay in Thailand; in July 2026 seven more, with no passports, paid a smuggling network 8,000 baht each to be walked across by Cambodian guides and were caught [U0078, U0079, U0080, U0082, U0084]. Every land checkpoint into Thailand's Sa Kaeo province stayed closed in June 2026 [U0136].
 - **Staying after the visa or permit ends: it ends in detention and deportation.** Cambodia deported more than 3,000 Bangladeshis in January to September 2026 [B0225]. On 3 September 2026, 32 Bangladeshis trying to fly home under the fine waiver were detained at Phnom Penh airport, and 30 were held for more than six weeks before reaching Dhaka (see Going home without valid papers) [B0200, U0020, U0031]. A survivors' group warns that deported Bangladeshis may be lured back into Cambodia illegally through another country [S0219].
 
 ## Visas not open to Bangladeshis
@@ -245,11 +245,11 @@ The danger that defines this corridor is the BMET-cleared route itself: people p
 
 ## Work visa: company worker
 
-A Cambodian employer with an approved foreign-worker quota hires you; you enter on an E-class (ordinary or "business") visa, the employer gets your work permit and employment card from MLVT (the Ministry of Labour and Vocational Training) through FWCMS (the Foreign Workers Centralized Management System, MLVT's online system), and you stay on by extending the visa as an EB (work or business) extension from the GDI (General Department of Immigration) [W0028, W0069, W0066, W0017, W0064, W0085]. On the Bangladesh side the job must come through a licensed recruiting agency holding a BMET (Bureau of Manpower, Employment and Training) permission for a named Cambodian employer, and you need BMET clearance to leave [B0059, B0144, B0005]. BMET cleared no workers for Cambodia in October 2026 or from 1 to 10 November 2026 (see Status) [B0107, B0108].
+A Cambodian employer with an approved foreign-worker quota hires you; you enter on an E-class (ordinary or "business") visa, the employer gets your work permit and employment card from MLVT (the Ministry of Labour and Vocational Training) through FWCMS (the Foreign Workers Centralized Management System, MLVT's online system), and you stay on by extending the visa as an EB (work or business) extension from the GDI (General Department of Immigration) [W0028, W0069, W0001, W0066, W0017, W0064, W0078, W0085, V0060]. On the Bangladesh side the job must come through a licensed recruiting agency holding a BMET (Bureau of Manpower, Employment and Training) permission for a named Cambodian employer, and you need BMET clearance to leave [B0059, B0140, B0144, B0005]. BMET cleared no workers for Cambodia in October 2026 or from 1 to 10 November 2026 (see Status) [B0107, B0108].
 
 ### Step 1: Find a real job
 
-The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 45, as construction workers for firms in Phnom Penh, at USD 420 a month (about Tk 52,400) on 2-year contracts [B0141, B0142, B0151, B0157, B0161, G0002]. How a job order reaches a village, and who sells it, is in Background (see How a job reaches you, and who takes a cut).
+The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 45, as construction workers for firms in Phnom Penh, at USD 420 a month (about Tk 52,400), or USD 450 (about Tk 56,100) in one letter, on 2-year contracts [B0141, B0142, B0151, B0157, B0161, K0051, G0002]. How a job order reaches a village, and who sells it, is in Background (see How a job reaches you, and who takes a cut).
 
 1. **Register on the OEP (Overseas Employment Platform),** BMET's website for job-seekers [B0002]. Agencies must pick workers for Cambodia from this database [B0144].
 
@@ -264,7 +264,7 @@ The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 
 
    **If it fails:** call the Probashi call centre, 16135 (free), or +8809610102030 from abroad [B0021].
 
-2. **Know what the legal job looks like, and what it doesn't.** BMET's permission letters for Cambodia are for construction workers in Phnom Penh at USD 420 a month [B0140, B0141, B0151, B0155, B0157, B0161, B0168]. The letters promise free food, housing, transport and medical care, an 8-hour day, 6 days a week, and return airfare for leave paid by the employer [B0142, B0152]. Foreigners may not work in Cambodia as drivers, street vendors, masseurs, hairdressers or beauticians, shoe shiners, tailors, mechanics or tyre repairers, or makers of Khmer souvenirs, musical instruments or Buddhist statues [W0038]. Offers of computer-operator, data-entry or customer-service jobs at Tk 50,000 to over Tk 1 lakh a month are the offers behind the scam-compound cases (see Scam compounds and trafficking) [N0150, B0210, S0008].
+2. **Know what the legal job looks like, and what it doesn't.** BMET's permission letters for Cambodia are for construction workers in Phnom Penh at USD 420 a month, or USD 450 in one [B0140, B0141, B0151, B0155, B0157, B0161, B0168, K0051]. The letters promise free food, housing, transport and medical care, an 8-hour day, 6 days a week, and return airfare for leave paid by the employer [B0142, B0152]. Foreigners may not work in Cambodia as drivers, street vendors, masseurs, hairdressers or beauticians, shoe shiners, tailors, mechanics or tyre repairers, or makers of Khmer souvenirs, musical instruments or Buddhist statues [W0038]. Offers of computer-operator, data-entry or customer-service jobs at Tk 50,000 to over Tk 1 lakh a month are the offers behind the scam-compound cases (see Scam compounds and trafficking) [N0150, B0210, S0008].
 
    > **Need to know**
    > - Does BMET ask for a TTC (Technical Training Centre) construction skill certificate for Cambodia clearances, and do Cambodian employers test workers before hiring?
@@ -272,8 +272,8 @@ The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 
 3. **Find the agency's BMET permission letter.** BMET posts every permission for a Cambodia job order on [bmet.gov.bd/pages/miscellaneous-infos](https://bmet.gov.bd/pages/miscellaneous-infos); search the page for "কম্বোডিয়া" (Cambodia) [B0234]. Each letter names the agency and its RL number (the recruiting licence number every licensed agency has), the Cambodian employer, the job, the number of workers, the salary and the most the agency may take from you [B0140, B0143]. The letters, all for construction workers:
 
    - **T.K. Enterprise (RL-1527),** 20 November 2023: 33 workers for Rafa Construction Co. Ltd., Phnom Penh [B0167, B0168].
-   - **Sams Company (RL-0696),** January 2025: 18 workers for North Asian Construction Co. Ltd.; cap Tk 80,770; OEP licence status Suspended [B0140, B0143, N0090].
-   - **Puspita Overseas (RL-2648),** Fakirapool, Dhaka, 24 March 2025: 144 workers for Chip Hong Insee Ltd., Sim Sia Cambodia, Sok Hang Group, Vain SR Construction and Phanimex Group; cap Tk 80,770 [B0151, B0153, N0076].
+   - **Sams Company (RL-0696),** January 2025: 18 workers for North Asian Construction Co. Ltd.; cap Tk 80,770; OEP licence status Suspended [B0140, B0143, N0090]. A second Sams letter, 6 February 2025: 24 workers for Koh Kong Construction Co. Ltd., Phnom Penh, at USD 420 on a renewable 2-year contract; cap Tk 80,770 [K0053, K0054, K0055]. Mondol Trade International (RL-2626), 26 January 2025: 27 workers for Royal Bengol Engineering and Constructors Co. Ltd. (9) and Yukon Builders (Cambodia) Co. Ltd. (18), at USD 450 for 48 hours a week; cap Tk 80,770 [K0049, K0050, K0051, K0052].
+   - **Puspita Overseas (RL-2648),** Fakirapool, Dhaka, 24 March 2025: 144 workers for Chip Hong Insee Ltd., Sim Sia Cambodia, Sok Hang Group, Vain SR Construction and Phanimex Group; cap Tk 80,770 [B0151, B0153, N0076]. An earlier Puspita letter, 13 March 2025: 68 workers for L.Y.P. Group, Soma Group and Sinohydro (Cambodia) United, at USD 420; cap Tk 80,770 [K0045, K0046, K0047, K0048].
    - **Al-Grand Sultan Overseas (RL-1582),** Savar, 20 April 2025: 96 workers for Vain SR, Sok Hang, Sim Sia and Phanimex; cap Tk 80,520 [N0081].
    - **Fahim Recruiting Agency (RL-2594),** Naya Paltan, 25 June 2025: 96 workers for China State Construction (Cambodia) Co. Ltd. and Asbic Construction Company Ltd.; cap Tk 1,05,000; OEP licence status Suspended [B0155, N0083, N0087].
    - **Mongol Global Services (RL-2527),** 31 August 2025: 144 workers for Xin Caifu (Cambodia) Co., Ltd., Maliha Jamman M.S Co., Ltd. and Golden Cresent Development Co., Ltd.; cap Tk 1,55,450; OEP licence status Suspended [B0157, B0160, N0071, N0088].
@@ -283,7 +283,7 @@ The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 
 
    1. On [oep.gov.bd/agencies](https://www.oep.gov.bd/agencies), find the RL number and check that the status says Active, not Expired or Cancelled, and that the validity date has not passed [B0074, B0075].
    2. Check that the employer and job in your offer are on the agency's permission letter [B0234, B0140].
-   3. Ask the agency for the Ministry of Expatriates' Welfare's approval of the demand letter (the employer's written job order): under the Ministry's directive of 4 November 2026, BMET may not clear workers for Cambodia without it (see Status) [W0096, W0097, N0106].
+   3. Ask the agency for the Ministry of Expatriates' Welfare's approval of the demand letter (the employer's written job order): under the Ministry's directive of 4 November 2026, BMET may not clear workers for Cambodia without it (see Status) [W0096, W0097, N0106, N0097].
 
    A permission letter is not proof the job is safe: a Chapainawabganj worker told TBS (July 2026) that he paid Tk 4.8 lakh through a local middleman and Fahim Recruiting Agency, left with a BMET clearance card and a valid work visa, and endured 10 months of hardship in Cambodia [B0212, N0110]. Fahim's proprietor told TBS that some workers leave their assigned employers for better pay or become unreachable, and that only three workers had complained against the agency at BMET [B0216].
 
@@ -298,7 +298,7 @@ The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 
 
 5. **Never go on a tourist or visit visa on a broker's promise of a job, and never without BMET clearance** [B0005, N0093]. Turning a tourist visa into an E-class visa after arrival is not an official route [W0079]. What happened to people who went this way is in Scams (see Done to workers) [B0219, N0119].
 
-6. **Know what you should pay.** The employer bears all costs until you arrive in Cambodia, including levy and airfare [B0143, N0068]. Once your visa and flight are confirmed, the agency may take no more than the cap in its permission letter, only by cheque, bank draft or pay order, and must send BMET's Director General proof of the payment [B0143, B0166]. Pay only into the agency's bank account and keep every receipt [B0006]. Two 2025 letters let the employer pay your visa and work-permit fees and then deduct them from your salary [B0156, B0158]. The official costs on your side, each in the step that owns it:
+6. **Know what you should pay.** The employer bears all costs until you arrive in Cambodia, including levy and airfare [B0143, N0068]. Once your visa and flight are confirmed, the agency may take no more than the cap in its permission letter, only by cheque, bank draft or pay order, and must send BMET's Director General proof of the payment [B0143, B0166]. Pay only into the agency's bank account and keep every receipt [B0006]. Two 2025 letters let the employer pay your visa fee (June) or your visa and work-permit fees (August) and then deduct them from your salary [B0156, B0158]. The official costs on your side, each in the step that owns it:
 
    - OEP registration: Tk 200 (Step 1, item 1) [B0002];
    - passport: Tk 4,025 to Tk 10,350 (Step 4, item 1) [B0022];
@@ -330,15 +330,15 @@ The legal jobs on BMET's permission letters for Cambodia are for men aged 20 to 
 
 ### Step 2: The job offer and contract
 
-A legal job in Cambodia rests on an employment contract certified by MLVT; the work permit cannot be applied for without it [W0033, W0053].
+A legal job in Cambodia rests on a written employment contract certified by MLVT; the work permit cannot be applied for without it [K0004, W0033, W0053].
 
 1. **Get the contract before you pay, and read it.** Under BMET's permission conditions the contract is signed with you before clearance, and you get an attested Bangla translation [B0146]. Get it from the agency at least 2 days before you go and check the job, employer, workplace, length, pay, leave and airfare [B0058]. A fixed-duration contract must be in writing, give exact start and end dates and last at most 2 years, and renewals cannot take it past 4 years in total [W0044, W0045]. It should state the salary, working hours, duties and other conditions [W0047]. Many employers add a probation period, typically 3 months [W0048]. Check in particular:
 
    - **The job title:** the same job you were promised, and the same one that will appear on your visa; a worker promised a computer-operator job told the Daily Star (July 2026) that his visa named him a construction worker with North Asian Construction Company, and the broker said the title was temporary [W0090, W0091].
    - **The pay and conditions:** USD 420 a month with free food, housing, transport and medical care, as in the permission letters (Step 1, item 3) [B0141, B0142].
-   - **Deductions:** an employer may not deduct a placement fee or the cost of your compulsory medical check from your wages [W0042, W0043]; deductions for the visa and work permit are allowed under two 2025 letters (Step 1, item 6) [B0158].
+   - **Deductions:** an employer may not deduct a placement fee or the cost of your compulsory medical check from your wages [W0042, W0043]; deductions for the visa fee are allowed under two 2025 letters, and for the work-permit fee under one of them (Step 1, item 6) [B0156, B0158].
 
-2. **Make sure the employer registers the contract with MLVT.** The employer must register a foreign worker's contract with MLVT; the contract has to be in Khmer and certified by MLVT, which takes about 15 working days [W0046, W0053]. To ask about it, call the MLVT employment-contract officers listed on FWCMS, 8:00 to 12:00 and 13:00 to 17:00: Mr Chuon Ansangwar 085 778 888 or Mr Neth Sophorn 012 282 250 [W0020, W0023].
+2. **Make sure the employer registers the contract with MLVT.** The employer must register a foreign worker's contract with MLVT; the contract has to be in Khmer and certified by MLVT, which takes about 15 working days [K0005, W0053]. To ask about it, call the MLVT employment-contract officers listed on FWCMS, 8:00 to 12:00 and 13:00 to 17:00: Mr Chuon Ansangwar 085 778 888 or Mr Neth Sophorn 012 282 250 [W0020, W0023].
 
    > **Need to know**
    > - Does BMET or the Embassy in Bangkok ask to see the MLVT-certified Khmer contract before clearance, or only the demand letter and an English contract?
@@ -346,9 +346,9 @@ A legal job in Cambodia rests on an employment contract certified by MLVT; the w
 
 ### Step 3: The employer gets your work permit
 
-No foreigner may work in Cambodia without both a work permit and an employment card from the labour ministry (Labour Law 1997, Article 261) [W0076, L0038]. Getting them is the employer's job: they are two documents applied for together, in one application on FWCMS [W0066, W0077, W0017].
+No foreigner may work in Cambodia without both a work permit and an employment card from the labour ministry (Labour Law 1997, Article 261) [W0076, L0038]. Getting them is the employer's job: they are two documents applied for together, in one application on FWCMS [K0006, W0077, W0017]. Prakas 367/23, MLVT's 2023 order on the duties of employers and foreign workers, makes the employer hold MLVT's yearly permission to use foreign workers, sign a written contract with you and register it with MLVT, and makes you responsible for having legal permission to stay and work [K0001, K0002, K0004, K0005, K0010].
 
-1. **The employer must have a foreign-worker quota.** An approved quota is the first condition for any work permit; the employer registers on FWCMS (fwcms.mlvt.gov.kh) and requests it there [W0028, W0017]. Foreigners may be at most 10% of a company's Cambodian workforce: 3% office staff, 6% skilled and 1% unskilled workers [W0030]. A company that cannot find enough qualified Cambodians can ask MLVT to go above 10% under Prakas 277/20 (a ministerial order) [W0031]. Quotas for 2027 are requested from 1 September to 30 November 2026 [W0025].
+1. **The employer must have a foreign-worker quota.** An approved quota, MLVT's yearly permission to use foreign workers, is the first condition for any work permit; the employer registers on FWCMS (fwcms.mlvt.gov.kh) and requests it there [W0028, W0017, K0002]. Under an MLVT order (prakas) on the use of foreign workers, foreigners may be at most 10% of a company's Cambodian workforce: 3% office staff, 6% specialised or skilled workers and only 1% non-specialised workers [K0056, K0057, W0030]. The same order lets an employer hire foreigners only as specialists, technicians or skilled workers for posts Cambodians cannot fill, with MLVT's written permission in advance [K0059]. A company that cannot find enough qualified Cambodians can ask MLVT to go above 10% under Prakas 277/20 (a ministerial order) [W0031]. Quotas for 2027 are requested from 1 September to 30 November 2026 [W0025, K0058]. MLVT's quota officers listed on FWCMS are Ms Chea Chandalin, 092 273 217, and Mr Doung Darith, 016 716 668 [W0021].
 
    > **Need to know**
    > - Do the Phnom Penh construction firms hiring Bangladeshis hold enough unskilled-worker quota (1%), or do they apply under Prakas 277/20?
@@ -363,15 +363,14 @@ No foreigner may work in Cambodia without both a work permit and an employment c
 
    The employer adds its incorporation certificate, registered address, tax patent, quota approval, Ministry of Commerce approval and articles of incorporation [W0067].
 
-3. **The permit is filed and paid for.** MLVT's 2026 notice says a foreigner must get the work permit through FWCMS within 90 calendar days of first entering Cambodia [W0026]. Processing takes about 15 to 20 working days once all documents are in and paid for [W0073]. The fees are set in MLVT Guideline 003-15, in force since 26 January 2015 [W0110]. The permit cost about USD 200 (about Tk 24,900) in 2021, and the FWCMS operator, E-Solution (Cambodia) Co., Ltd., adds USD 30 (about Tk 3,700) per new or renewed permit, paid through a bank [W0074, W0105, W0107, G0002]. Under two 2025 permission letters the employer pays the visa and work-permit fees and deducts them from your wage [B0156, B0158, N0066].
+3. **The permit is filed and paid for.** Under MLVT's 2026 notice, a foreigner must get the work permit through FWCMS within 90 calendar days of first entering Cambodia [W0025, W0026]. Processing takes about 15 to 20 working days once all documents are in and paid for [W0073]. The fees are set by Joint Prakas 335 of 27 March 2020, MLVT and the Ministry of Economy and Finance's order on MLVT's public services [K0017, K0060]; Guideline 003-15, in force since 26 January 2015, also covers them [W0110]. The permit cost about USD 200 (about Tk 24,900) in 2021, and the FWCMS operator, E-Solution (Cambodia) Co., Ltd., adds USD 30 (about Tk 3,700) per new or renewed permit, paid through a bank [W0074, W0105, W0107, G0002]. Under a June 2025 permission letter the employer pays the visa fee, and under an August 2025 letter the visa and work-permit fees, and deducts them from your wage [B0156, B0158, N0066].
 
    > **Need to know**
-   > - What do the work permit and employment card cost under Guideline 003-15 in 2026?
-   > - Must the first permit be in hand before the first 30-day E-class visa runs out, as MLVT required in early 2025, or within 90 days of entry?
+   > - What do the work permit and employment card cost under Joint Prakas 335/20 in 2026, and does it replace Guideline 003-15?
 
 4. **The agency must report it.** Within 3 months of your departure the agency must submit your Cambodian work permit to BMET [B0159]. The permit lasts one year and is renewed each year between 1 January and 31 March (see Renewing) [W0032].
 
-**What you get back:** a work permit and an employment card; carry a copy of them at all times [W0075].
+**What you get back:** a work permit and an employment card (the foreign worker's "employment book"), which the employer must hand to you personally with your MLVT-registered contract; carry a copy of them at all times [K0007, K0009, W0075]. The employer must also show you legal proof of its business licence [K0003].
 
 **Check it is real:**
 
@@ -381,7 +380,10 @@ No foreigner may work in Cambodia without both a work permit and an employment c
 > **Need to know**
 > - Can a worker check that a work permit number is genuine (an FWCMS lookup, a QR code on the card, or an MLVT phone line that answers in English)?
 
-**If it fails:** without a permit the employer can be fined up to KHR 12.6 million (riel, Cambodia's currency; about Tk 3.8 lakh) per worker, and you face up to 3 months in prison and/or deportation (see What can get you jailed or deported) [W0057, W0059, G0003]. A Lakshmipur worker who paid Tk 5.3 lakh and got BMET clearance received no work permit and was sold to a scam compound (TBS, July 2026) [B0211].
+**If it fails:** an employer using a foreign worker without MLVT's permission or without an employment card can be fined KHR 12.6 million (riel, Cambodia's currency; about Tk 3.8 lakh) per worker, and you face up to 3 months in prison and/or deportation (see What can get you jailed or deported) [K0019, K0020, W0057, W0059, G0003]. A Lakshmipur worker who paid Tk 5.3 lakh and got BMET clearance received no work permit and was sold to a scam compound (TBS, July 2026) [B0211].
+
+> **Need to know**
+> - If MLVT refuses a work permit, are the worker and the agency told why, and can the employer appeal or reapply?
 
 ### Step 4: Passport, police clearance and certificates
 
@@ -393,7 +395,7 @@ No foreigner may work in Cambodia without both a work permit and an employment c
 
    The e-visa needs a passport valid for more than 6 months on the day you enter Cambodia (Step 5, item 1) [W0002].
 
-   **If it is lost or stolen:** in Bangladesh, file a GD (general diary, a police report) at the nearest police station quickly, then re-apply with a copy of the old passport and the GD [B0026]. Passport helpline: 16445 (09666716445 from abroad), 24 hours [B0028]. In Cambodia, passports are issued by the Embassy in Bangkok (see The Bangladesh Embassy in Bangkok); the land border between Cambodia and Thailand is closed, so a worker in Cambodia cannot reach Bangkok overland [B0183, V0042].
+   **If it is lost or stolen:** in Bangladesh, file a GD (general diary, a police report) at the nearest police station quickly, then re-apply with a copy of the old passport and the GD [B0026]. Passport helpline: 16445 (09666716445 from abroad), 24 hours [B0028]. In Cambodia, passports are issued by the Embassy in Bangkok (see The Bangladesh Embassy in Bangkok); all land border crossings between Cambodia and Thailand are closed until further notice [B0183, V0042].
 
 2. **Get a police clearance if the employer or agency asks for one.**
 
@@ -447,11 +449,17 @@ To work you enter on the E-class visa, which is for people who have accepted a j
 
    **If any check fails:** don't travel; complain as in Step 1, item 8 [B0016].
 
+> **Need to know**
+> - If the E-class e-visa is refused, does the E-Visa Office give a reason, and can the applicant appeal or apply again at once?
+
 3. **Enter at a port that takes e-visas.** As of 3 October 2026 e-visas were accepted at Techo International Airport (KTI, Phnom Penh), Siem Reap Angkor and Sihanoukville airports, and at the Bavet (Vietnam border) and Tropaeng Kreal (Laos border) land crossings [V0040, V0116, V0117, V0041, V0118]. Cham Yeam (Koh Kong) and Poipet (Banteay Meanchey) are closed to e-visa entry [W0005].
 
-4. **Fill in the e-Arrival form.** Every traveller, even with a visa, fills it in, free, at [arrival.gov.kh](https://arrival.gov.kh), the only official site, within 7 days before arrival; keep a screenshot or download of its QR code [V0045, V0046, V0049, V0047, V0048]. The GDI has disowned look-alike sites such as "Cambodia-e-arrival.online" [V0050].
+4. **Fill in the e-Arrival form.** Every traveller, even with a visa, fills it in, free, at [arrival.gov.kh](https://arrival.gov.kh), the only official site, or in the Cambodia e-Arrival app, within 7 days before arrival; keep a screenshot or download of its QR code [V0045, V0046, V0049, V0047, V0048, K0031]. The GDI has disowned look-alike sites such as "Cambodia-e-arrival.online" and the fake visa site cambodiaivisa.com [V0050, K0030]. At the three international airports and the international ports, the GDI is replacing passport entry and exit stamps in 2026 with the Cambodia v-Pass (Visitor Pass), which you get by email, at arrival.gov.kh or in the e-Arrival app [K0033]. Before leaving the arrival hall, every passenger also hands customs a Passenger's Declaration Form; personal belongings and devices needed for the trip, up to 2 litres of alcohol, 200 cigarettes and 350 ml of perfume come in free, and other goods worth USD 100 (about Tk 12,500) or more pay duty [G0064, G0065, G0002].
 
-   Immigration officers may refuse entry to anyone without a clear travel history and purpose, the means to support themselves and a guarantor, the GDI said in July 2025 [V0061].
+   Immigration officers may refuse entry to anyone without a clear travel history and purpose, the means to support themselves and a guarantor, the GDI said in July 2025 [V0060, V0061].
+
+> **Need to know**
+> - What happens to a Bangladeshi worker refused entry at Techo airport: is he held at the airport, and does the agency actually pay his flight back, as BMET's permission conditions require (If you lose the job, item 4)?
 
 **Scams:** workers promised work visas have arrived with one-month visit visas or tourist visas, some after getting BMET clearance (see Done to workers) [W0092, W0093].
 
@@ -475,7 +483,7 @@ To work you enter on the E-class visa, which is for people who have accepted a j
 
    **If it fails:** BMET's Director (Emigration), +8802222222415, 01711-135901, diremi@bmet.gov.bd; next, the Additional Director General (Employment), 02-48321949, 01720105492, adgemp@bmet.gov.bd [B0012].
 
-3. **The flight.** Once flights are confirmed, the agency must send the flight schedule and worker list to the Bangladesh Embassy in Bangkok and to BMET, and an agency representative must fly with you or meet every flight at the Cambodian airport [B0149, B0148, B0165]. In the scam-compound cases reported in 2026, brokers routed people through Thailand, or via China when there was no direct flight [S0063, S0030, N0132].
+3. **The flight.** Once flights are confirmed, the agency must send the flight schedule and worker list to the Bangladesh Embassy in Bangkok and to BMET, and an agency representative must fly with you or meet every flight at the Cambodian airport [B0149, B0148, B0165]. In scam-compound cases reported in 2026, a broker routed one man to Cambodia through Thailand, and another flew via China because there was no direct flight [S0063, S0030, N0132].
 
    > **Need to know**
    > - Which airlines and transit points do Cambodia-bound workers use in 2026, does any transit airport need a visa or extra papers, and what does a one-way Dhaka-Phnom Penh ticket cost?
@@ -503,16 +511,16 @@ Your first stay on the E-class visa is 30 days [W0064].
 
 5. **Collect your work permit and employment card,** and keep a copy with you at all times (Step 3) [W0075].
 
-6. **Check you are registered with the NSSF** (National Social Security Fund, Cambodia's social insurance) [L0071]. Every employer must register its workers, Cambodian and foreign, within 3 days of hiring, using a foreign worker's passport [L0071, L0090]. The membership card is free, and you can check on the NSSF smartphone app that your employer pays contributions every month [L0166, L0171]. What it covers is in Your rights at work [L0072].
+6. **Check you are registered with the NSSF** (National Social Security Fund, Cambodia's social insurance) [L0071]. Every employer must register its workers, Cambodian and foreign, within 3 days of hiring, using a foreign worker's passport [L0071, K0034]. The membership card is free, and you can check on the NSSF smartphone app that your employer pays contributions every month [K0035, L0171]. What it covers is in Your rights at work [L0072].
 
-7. **Get a SIM card.** At a shop of Smart, a Cambodian mobile operator, or in the Smart app, register the SIM with a scan of your passport and a face scan; approval is usually instant [W0099, W0100, W0101]. Smart's help line: (+855) 10 200 888 or 1204 [W0102].
+7. **Get a SIM card.** Register the SIM of Smart, a Cambodian mobile operator, online or at a Smart Shop, with a scan of your passport and a face scan; approval is usually instant [W0099, W0100, W0101]. Smart's help line: (+855) 10 200 888 or 1204 [W0102].
 
    > **Need to know**
    > - Which mobile operator do Bangladeshi workers in Cambodia use, and what do a SIM and a monthly package cost?
 
-8. **Open a bank account.** It lets you be paid without cash and send money home from your phone (see Sending money home) [G0035, G0043, G0077].
+8. **Open a bank account.** It lets you send money home from your phone (see Sending money home) [G0035, G0043, G0077].
 
-   - **ACLEDA Bank:** the widest network, 263 branches in all provinces and towns [G0034]. You'll need a passport valid at least 3 more months and a phone, and to be 15 or over [G0032].
+   - **ACLEDA Bank:** 263 branches in all provinces and towns [G0034]. To register for the ACLEDA mobile app, you'll need a passport valid at least 3 more months and a phone, and to be 15 or over [G0032].
 
      1. Go to any branch, or register in the ACLEDA mobile app [G0032].
      2. Ask for a savings account: no opening deposit, no minimum balance and no fee to open or close (closing within 3 months may be charged), in riel, US dollars, baht or euro [G0033].
@@ -531,7 +539,7 @@ Your first stay on the E-class visa is 30 days [W0064].
 
 #### Done to workers
 
-- **The office job on a construction visa.** A Sirajganj man told the Daily Star (July 2026) that a broker asked Tk 7 lakh for a computer-operator job paying Tk 80,000 a month; he paid Tk 1 lakh to the broker and the rest to an agency he named as Pushpita Overseas in Fakirapool [N0126, N0127]. His visa named him a construction worker with North Asian Construction Company, and the broker said the title was temporary [N0128, N0129]. Another man told the Daily Star (October 2026) that he paid Tk 7.70 lakh for a data-entry job and that his invitation letter named construction work [N0152, N0153].
+- **The office job on a construction visa.** A Sirajganj man told the Daily Star (July 2026) that a broker asked Tk 7 lakh for a computer-operator job paying Tk 80,000 a month; he paid Tk 1 lakh to the broker and the rest to an agency he named as Pushpita Overseas in Fakirapool [N0124, N0126, N0127]. His visa named him a construction worker with North Asian Construction Company, and the broker said the title was temporary [N0128, N0129]. In all he paid recruiters Tk 7.70 lakh (Daily Star, October 2026) [N0152].
 - **A visit or tourist visa instead of a work visa.** A Lakshmipur man paid Tk 5.3 lakh for a computer-operator job, got BMET clearance and found on arrival he had a one-month visit visa (Daily Star, July 2026) [N0136, W0092]. A Rajbari man told TBS (May 2026) that he paid Tk 10 lakh, was promised a work visa and was sent on a tourist visa [N0118, N0119]. In 2022 an agent told a man work visas were not available and sent him on a business visa for Tk 4 lakh (TBS, 2022) [N0165, N0166].
 - **The visa and work permit that never come.** Recruiters promised a one-year visa and work permit that never came, leaving the worker without legal status (Daily Star, October 2026) [N0154, S0007].
 - **The licensed agency's Facebook ad.** In June 2022 M/S Right Job, a licensed agency in Dhanmondi, advertised a Cambodia tiles-installer job on Facebook at USD 600 a month (about Tk 74,800) and agreed a Tk 3.5 lakh deal (Daily Star Bangla, January 2023) [N0175, G0002]. In January 2023 the Daily Star counted 30 Facebook groups and pages offering Cambodia jobs [N0176].
@@ -546,9 +554,9 @@ Complain in Bangladesh as in Step 1, item 8 [B0016].
 
 #### Tried by workers
 
-- **Working on a tourist visa, or "converting" it.** Turning a tourist visa into an E-class visa after arrival is not an official route [W0079]. A foreigner working without a work permit can be fined KHR 50.4 million (about Tk 15.4 lakh) under Joint Prakas 498 of 31 July 2023, and faces up to 3 months in prison and/or deportation [W0058, W0059, G0003].
+- **Working on a tourist visa, or "converting" it.** Turning a tourist visa into an E-class visa after arrival is not an official route [W0079]. A foreigner who does business in Cambodia, including self-employed, without a work permit can be fined KHR 50.4 million (about Tk 15.4 lakh) under Joint Prakas 498 of 31 July 2023 (MLVT and the Ministry of Economy and Finance's joint order on fines for breaking the Labour Law), and a foreign employee working without one faces up to 3 months in prison and/or deportation [W0058, K0018, W0059, G0003].
 - **False information or forged documents** in a visa application get the visa refused, cancelled or revoked [W0010].
-- **Leaving the assigned employer for better pay.** Fahim Recruiting Agency's proprietor told TBS (July 2026) that some workers leave their employers for better-paid jobs and the employers will not take them back [N0117]. MLVT can revoke a work permit when the holder is hired by another employer (see Changing employer) [L0040].
+- **Leaving the assigned employer for better pay.** Fahim Recruiting Agency's proprietor told TBS (July 2026) that some workers leave their employers for better-paid jobs and the employers will not take them back [N0117]. MLVT can revoke a work permit when the holder is hired by another employer (see Changing employer) [L0040, K0015].
 - **Moving on to Thailand or Malaysia without papers.** In July 2026 seven of 11 people caught crossing from Cambodia into Thailand were Bangladeshis carrying no passport or ID, and in 2024 Bangladeshis in Cambodia had fake Thai entry stamps put in 19 men's passports for the trip to Malaysia (see Irregular routes and undocumented workers) [U0082, U0072, U0074].
 
 ### Your rights at work
@@ -557,7 +565,7 @@ Cambodia's Labour Law (1997) covers every job done in Cambodia, whatever the nat
 
 #### Your contract
 
-- **Written or spoken.** A contract can be either; registering it costs nothing [L0001]. A foreign worker's contract must be registered with MLVT, in Khmer, and certified by it (Work visa: company worker, Step 2) [W0046, W0053].
+- **In writing.** The Labour Law lets a contract be written or spoken, and registering one costs nothing, but your employer must have a written contract with you [L0001, K0004]. It must be registered with MLVT, in Khmer, and certified by it (Work visa: company worker, Step 2) [K0005, W0053].
 - **Fixed-term.** A contract for a set period must be in writing with exact start and end dates, or it counts as permanent ("unlimited-duration"); one contract runs at most 2 years [L0003, W0044, L0002]. BMET's (the Bureau of Manpower, Employment and Training's) permission letters for Cambodian jobs set 2-year contracts [B0152, N0064].
 - **Your Bangla copy.** Under BMET's permission conditions the contract is signed with each worker before clearance, and each worker gets an attested Bangla translation [B0146].
 - **Probation.** At most 3 months for regular staff, 2 for specialised workers and 1 for unskilled workers; it doesn't count toward seniority pay [L0004, L0058].
@@ -573,8 +581,8 @@ Cambodia's Labour Law (1997) covers every job done in Cambodia, whatever the nat
 - **Minimum wage.** There is a legal minimum only in garment, textile, footwear, travel-goods and bag factories; construction and every other job have none [L0052].
   - In 2026: USD 210 a month (about Tk 26,200) for regular workers and USD 208 (about Tk 25,900) on probation (Prakas 214/25; a prakas is a ministerial order) [L0050, G0002].
   - From 1 January 2027: USD 212 (about Tk 26,400) for regular workers and USD 210 on probation (Prakas 226/26) [L0046, L0047, G0002].
-  - On top, garment workers get USD 7 (about Tk 870) a month for transport or housing, a USD 10 (about Tk 1,250) attendance bonus, USD 0.50 (about Tk 60) a day for meals on overtime or a free meal, and a seniority bonus of USD 2 to 11 (about Tk 250 to 1,370) [L0051, G0002]. Piece-rate workers who fall short are topped up to the minimum [L0048].
-- **Your contract wage.** BMET's permission letters for Cambodian construction jobs set USD 420 a month (about Tk 52,400) (see What the job pays) [B0141, N0062, G0002].
+  - On top, garment workers get USD 7 (about Tk 870) a month for transport or housing, a USD 10 (about Tk 1,250) attendance bonus, USD 0.50 (about Tk 62) a day for meals on overtime or a free meal, and a seniority bonus of USD 2 to 11 (about Tk 250 to 1,370) [L0051, G0002]. Piece-rate workers who fall short are topped up to the minimum [L0048].
+- **Your contract wage.** BMET's permission letters for Cambodian construction jobs set USD 420 a month (about Tk 52,400), or USD 450 (about Tk 56,100) in one (see What the job pays) [B0141, N0062, K0051, K0050, G0002].
 - **Payday.** Twice a month: about half in the second week, the rest with benefits in the fourth (Prakas 442, 2018) [L0055].
 - **How.** Directly to you, in legal currency, and the employer may not tell you how to spend it [L0020, L0021].
 - **Proof.** In a dispute the employer must prove each payment with your signature in its payroll book, or two witnesses' if you can't write [L0023]. Signing "all wages paid", or taking your pay without protest, doesn't cancel your claim to wages still owed [L0024].
@@ -588,14 +596,14 @@ Cambodia's Labour Law (1997) covers every job done in Cambodia, whatever the nat
 
 - **Residents (since 1 January 2023):** 0% on monthly salary up to KHR 1,500,000 (riel, Cambodia's currency; about USD 367 or Tk 45,800); 5% up to KHR 2,000,000 (about Tk 61,000); 10% up to KHR 8,500,000 (about Tk 2.59 lakh); 15% up to KHR 12,500,000 (about Tk 3.81 lakh); 20% above [G0052, G0083, G0001, G0003]. Each dependent child or spouse cuts taxable salary by KHR 150,000 (about Tk 4,600) a month [G0057, G0003].
 - **Non-residents:** a flat 20% on all salary, as a final tax [G0053].
-- **Benefits in kind** (such as housing the employer provides): 20% of their value [G0054].
+- **Fringe benefits** (benefits from your employer on top of wages): 20% of the amount paid [G0054].
 
-**What may be deducted.** No one may take a recruitment or placement fee out of your wages, for the employer, its agent or a labour recruiter, nor the cost of your medical check [L0026, W0042, W0043]. Other deductions are limited to unreturned tools, advances and company-shop debts, and may never leave you without enough to live on [L0027]. BMET's permission letters for Cambodia let the employer pay your work permit and visa fees up front and take them back from your wages [B0158, N0066, B0156]. Your pension contribution to NSSF (the National Social Security Fund), 2% of your contributory wage, also comes out of your pay (Pension) [L0162].
+**What may be deducted.** No one may take a recruitment or placement fee out of your wages, for the employer, its agent or a labour recruiter, nor the cost of your medical check [L0026, W0042, W0043]. Other deductions are limited to unreturned tools, advances and company-shop debts, and may never leave you without enough to live on [L0027]. BMET's permission letters for Cambodia let the employer pay your work permit and visa fees up front and take them back from your wages [B0158, N0066, B0156]. Your pension contribution to NSSF (the National Social Security Fund), 2% of your contributory wage, also comes out of your pay (Pension) [K0037].
 
 > **Need to know**
 > - Do employers of Bangladeshi workers apply the resident rate (0% under about USD 367) from the first month, or the 20% non-resident rate until 182 days have passed?
 > - How much do employers take back each month for the work permit and visa fees, and for how many months?
-> - Do employers deduct food or housing from Bangladeshi workers' pay, and how much?
+> - Do employers in practice give Bangladeshi workers the free food and housing the permission letters promise, or deduct them from pay, and how much?
 
 #### Hours, overtime and rest
 
@@ -612,7 +620,7 @@ Cambodia's Labour Law (1997) covers every job done in Cambodia, whatever the nat
 
 #### Sick leave and maternity
 
-- **Sickness.** A doctor-certified illness suspends your contract, so you can't be dismissed for it, for up to six months [L0037]. The Labour Law gives no sick pay; MLVT policy is full pay in the first month, 60% in the second and third, then unpaid to the sixth [L0068].
+- **Sickness.** A doctor-certified illness suspends your contract for up to six months [L0037]. The Labour Law gives no sick pay; MLVT policy is full pay in the first month, 60% in the second and third, then unpaid to the sixth [L0068].
 - **NSSF sickness pay.** If a doctor signs you off for more than 7 days in a row, NSSF pays 70% of your contributory wage for up to 180 days in 12 months, once you have 2 months of health contributions in a row or 6 in the last 12 [L0073, L0074].
 - **Maternity.** 90 days' leave, with no dismissal during it [L0034]. With a year's service the employer pays half wages, in full before the leave starts; NSSF pays 70% for the 90 days if you have 9 months' contributions in the last 12 [L0035, L0069, L0070].
 
@@ -623,9 +631,9 @@ Cambodia's Labour Law (1997) covers every job done in Cambodia, whatever the nat
 
 #### Social security (NSSF)
 
-NSSF covers every paid worker, Cambodian or foreign, of any employer with one or more workers [L0071]. In 2022 about 400 Bangladeshis held Cambodian work permits with NSSF health and work-injury cover [B0196].
+NSSF covers every paid worker, Cambodian or foreign, of any employer with one or more workers [L0071]. Besides the pension (see Pension), the work-injury contribution is 0.8% of your wage as NSSF assesses it, and the health-care contribution 2.6% [K0041, K0042]. In 2022 about 400 Bangladeshis held Cambodian work permits with NSSF health and work-injury cover [B0196].
 
-1. **Make sure the employer registers you** within 3 days of hiring, with your passport number [L0090]. The NSSF card is free [L0166].
+1. **Make sure the employer registers you** within 3 days of your starting work, using your passport details [K0034]. The NSSF card is free [K0035].
    **Check it is real:** download the NSSF app and check each month that your employer is paying your contributions [L0171].
 2. **Use the card for treatment.** Care is free at health facilities with an NSSF agreement, marked with the NSSF logo [L0072]. If a facility asks you to pay, show the card and call 1286, which is also the number for an ambulance [L0085]. Injured at work: see If a worker dies, is injured or loses the job [L0075].
 3. **Re-register a new passport.** Go to an NSSF office and register the new number with your fingerprints [L0170].
@@ -638,7 +646,7 @@ NSSF covers every paid worker, Cambodian or foreign, of any employer with one or
 
 #### Pension
 
-- **Cambodia's NSSF pension.** Started on 1 October 2022, and covers foreign workers the same as Cambodians [L0167, L0168]. You and the employer each pay 2% of your contributory wage for the first five years, rising to 8% in all later [L0162, L0163]. It pays from age 60 after at least 12 months of contributions, to people living in Cambodia; a member who doesn't qualify gets an old-age allowance based on what was paid, claimed within a month of turning 60 [L0164, L0167, L0165]. In 2022 there was no confirmed way for a foreign worker to take the money as a lump sum on leaving [L0169].
+- **Cambodia's NSSF pension.** Started on 1 October 2022, and covers foreign workers the same as Cambodians [L0167, L0168]. You and the employer each pay 2% of your contributory wage for the first five years; in the next five years the total rises to 8% [K0036, K0037, K0038]. It pays from age 60 after at least 12 months of contributions, to people living in Cambodia; a member who doesn't qualify gets an old-age allowance, a lump sum of the contributions paid adjusted for consumer prices, claimed within a month of turning 60 [K0039, L0167, K0040, L0165]. In 2022 there was no confirmed way for a foreign worker to take the money as a lump sum on leaving [L0169].
 - **Bangladesh's Probash pension,** part of the Universal Pension, for Bangladeshis aged 18 to 50 working abroad [L0156, L0154]:
   1. **Register online in your own name** at upension.gov.bd; no third person is involved [L0159].
   2. **Pay Tk 1,000, 2,000, 5,000, 7,500 or 10,000 a month** by debit or credit card into the scheme's Sonali Bank account, 3, 9 or 12 months at a time; 2.5% is added when you pay from abroad in foreign currency [L0154, L0161, L0157].
@@ -651,7 +659,7 @@ NSSF covers every paid worker, Cambodian or foreign, of any employer with one or
 
 #### Your passport
 
-Brokers have taken Bangladeshi construction workers' passports in Cambodia [S0174]. In one 2023 case brokers held the passports and paid the workers USD 50 (about Tk 6,200) a month for upkeep [N0173, G0002]. You need your original passport with a valid visa to open a bank account (Work visa: company worker, Step 7) [G0087]. Passports taken in scam compounds: see Scam compounds and trafficking [S0009].
+Brokers have taken Bangladeshi construction workers' passports in Cambodia [S0174, N0173]. In one case reported in 2023, brokers held the passports and paid the workers USD 50 (about Tk 6,200) a month for upkeep [N0173, G0002]. ABA Bank asks for your original passport with a valid visa to open an account (Work visa: company worker, Step 7) [G0087]. Passports taken in scam compounds: see Scam compounds and trafficking [S0009].
 
 > **Need to know**
 > - Is it an offence in Cambodia for an employer or broker to keep a worker's passport, and where does a worker complain?
@@ -665,7 +673,7 @@ Workers have the right, without distinction and without prior permission, to for
 
 ### Your residence permit
 
-Your right to stay is the EB (work or business) extension of your E-class (ordinary, or "business") visa, given by the GDI (General Department of Immigration, part of the Ministry of Interior); your right to work is the work permit and employment card from MLVT [W0064, W0078, V0032, W0077]. An EB extension alone doesn't let you work [V0032]. Your address must also be on FPCS (the Foreigners Presence in Cambodia System, the GDI's register of where foreigners live) (Work visa: company worker, Step 7) [W0081, W0085].
+Your right to stay is the EB (work or business) extension of your E-class (ordinary, or "business") visa, given by the GDI (General Department of Immigration, part of the Ministry of Interior); your right to work is the work permit and employment card from MLVT [W0064, W0078, B0163, W0085, V0032, W0077, W0026]. An EB extension alone doesn't let you work [V0032]. Your address must also be on FPCS (the Foreigners Presence in Cambodia System, the GDI's register of where foreigners live) (Work visa: company worker, Step 7) [W0081, W0085].
 
 #### How long you can stay
 
@@ -696,7 +704,7 @@ Your right to stay is the EB (work or business) extension of your E-class (ordin
 
 #### If you lose your job
 
-**Your permit can go with the job.** MLVT can cancel your work permit once you have been out of work for more than a month, or are hired by another employer [L0040]. Without a valid permit you can't get a second long EB extension (Renewing) [W0071].
+**Your permit can go with the job.** MLVT can cancel your work permit once you have been out of work for more than a month, or are hired by another employer [L0040, K0015]. The other grounds on which a labour inspector can withdraw it are under Working without a permit [K0011, K0016]. Without a valid permit you can't get a second long EB extension (Renewing) [W0071].
 
 **If you are dismissed:**
 
@@ -711,7 +719,7 @@ Your right to stay is the EB (work or business) extension of your E-class (ordin
 
 #### Permanent residence and citizenship
 
-- **Naturalisation:** needs seven years' continuous residence after receiving a residence card, and may be refused at will [V0085, V0086]. An amended Nationality Law in force from 1 December 2025 tightens the residence needed, and offers citizenship to investors of at least USD 1 million (about Tk 12.5 crore) or donors of USD 3 million (about Tk 37.4 crore) to the national budget [W0089, W0087, W0088, G0002].
+- **Naturalisation:** the 1996 Nationality Law required seven years' continuous residence after receiving a residence card, and naturalisation is a favour, not a right, so it can be refused [V0085, V0086]. An amended Nationality Law in force from 1 December 2025 tightens the residence needed, and offers citizenship to investors of at least USD 1 million (about Tk 12.5 crore) or donors of USD 3 million (about Tk 37.4 crore) to the national budget [W0089, W0087, W0088, G0002].
 - **Marriage to a Cambodian:** gives no automatic nationality (Family) [V0039].
 
 > **Need to know**
@@ -722,8 +730,8 @@ Your right to stay is the EB (work or business) extension of your E-class (ordin
 
 #### Working without a permit
 
-- **You:** up to 3 months' prison and/or deportation under the Law on Immigration; the Minister of Interior may expel any foreigner working without a work card [L0100, W0059, L0093].
-- **The employer:** a labour inspector can fine it KHR 12.6 million (about Tk 3.84 lakh) per foreign worker without a permit, up to KHR 63 million (about Tk 19.2 lakh) where five or more are involved (MLVT Guideline 517, 2023) [L0098, L0099, G0003].
+- **You:** up to 3 months' prison and/or deportation under the Law on Immigration; the Minister of Interior may expel any foreigner working without a work card [L0100, W0059, L0093]. Under Prakas 367/23 a labour inspector can withdraw your work permit if you entered Cambodia illegally, use an improper passport, have no proper residence visa, are physically unfit for the job or have a contagious disease, have had no work for more than a month or have gone to work for another employer, or gave false information about your background, job, workplace, home or documents [K0001, K0011, K0012, K0013, K0014, K0015, K0016].
+- **The employer:** using foreign workers without MLVT's permission, the self-employed included, or without employment cards is fined KHR 12.6 million (about Tk 3.84 lakh) per worker, up to KHR 63 million (about Tk 19.2 lakh) where five or more lack permits (Joint Prakas 498) [K0018, K0019, K0020, L0098, L0099, G0003]. A Joint Foreign Workforce Inspection Team (JFWIT) inspects companies' work permits and employment cards [K0061].
 
 #### Overstaying your visa
 
@@ -782,11 +790,11 @@ Cambodian officers interview Bangladeshis applying to go home to screen for traf
 
 **Deadlines:** a wage claim lapses three years after the wage was due; once conciliation fails you have two months to go to court [L0025, L0043].
 
-**Your position:** refusing to pay all or part of your wages, or paying late again and again, is a serious offence by the employer; you can then leave without notice and still claim notice pay, indemnity and damages [L0014, L0015, L0017]. The employer must prove every payment with your signature in its payroll book, so don't sign a paper saying you have been paid in full [L0023, L0024].
+**Your position:** refusing to pay all or part of your wages, or paying late again and again, is a serious offence by the employer; you can then leave without notice and still claim indemnity and damages [L0014, L0015, L0017]. The employer must prove every payment with your signature in its payroll book, and signing that all wages are paid, or taking pay without protest, does not give up your right to unpaid wages [L0023, L0024].
 
 **Act in this order:**
 
-1. **Keep proof:** your contract and its attested Bangla copy, your work permit, payslips and messages about pay [L0023, B0146].
+1. **Keep proof:** your contract and the attested Bangla translation of it that every worker must be given [B0146].
 2. **Complain to MLVT.** File at MLVT's Labour Dispute Department in Phnom Penh or at the Department of Labour of your province, under Prakas 073/25 [L0130, L0129]. MLVT's compound is on Russian Federation Boulevard, Toul Kork, Phnom Penh, where the NSSF office also is [L0088]. Call MLVT first on 1297 or 023 884 375; its website, mlvt.gov.kh, also has an anonymous complaint box [L0127, L0128].
    - The labour inspector must call you and the employer to a joint conciliation meeting within three weeks [L0131].
    - An agreement signed before the inspector is legally binding, and you may bring someone to help or represent you [L0042]. Conciliation and arbitration under the Labour Law are free [L0179].
@@ -799,7 +807,7 @@ Cambodian officers interview Bangladeshis applying to go home to screen for traf
    3. The Probashi call centre: 16135 (free in Bangladesh) or +8809610102030 from abroad [B0021].
    4. Your family can ask WEWB for legal aid abroad (Detention and deportation) [B0249].
 
-If an agent or boss says there is no salary until you meet a target or find customers, you are in a scam operation (see Scam compounds and trafficking) [L0172].
+In one 2022 case, a Bangladeshi sent on a business visa for a USD 1,000 (about Tk 1.25 lakh) data-entry job was told he would get no salary unless he found customers for the scam (see Scam compounds and trafficking) [L0172, G0002].
 
 **In practice:** six Bangladeshis who said they had worked about five months as labourers without pay crawled under the Thai border fence from Poipet in May 2026, trying to reach the Embassy in Bangkok, and were handed to Thai police for prosecution [U0087, U0088, U0089].
 
@@ -813,7 +821,7 @@ If an agent or boss says there is no salary until you meet a target or find cust
 
 #### Changing employer
 
-**The permit doesn't move with you.** MLVT can cancel your work permit when another employer hires you, and a new employer needs an approved foreign-worker quota and a new permit for you (Work visa: company worker, Step 3) [L0040, W0028]. A recruiting agency owner said in July 2026 that some workers leave for better-paid jobs and their first employers then refuse to take them back [U0067].
+**The permit doesn't move with you.** MLVT can cancel your work permit when another employer hires you, and a new employer needs an approved foreign-worker quota and a new permit for you (Work visa: company worker, Step 3) [L0040, K0015, W0028]. A recruiting agency owner said in July 2026 that some workers leave for better-paid jobs and their first employers then refuse to take them back [U0067]. Each employer must write your start or departure, with the job, wage and dates, in your employment card within 15 working days [K0008].
 
 **Leaving a permanent contract:** give notice of 7 days with under 6 months' service, 15 days for 6 months to 2 years, 1 month for 2 to 5 years, 2 months for 5 to 10 years, 3 months above 10 [L0010]. Resigning before the end of June or December loses that half-year's seniority payment [L0056].
 
@@ -824,7 +832,7 @@ If an agent or boss says there is no salary until you meet a target or find cust
 **Social security:** you stay covered for work injury only if the new employer registers you with NSSF [L0089].
 
 > **Need to know**
-> - Does a Bangladeshi worker need the first employer's release letter to get a new work permit, and do employers charge for it?
+> - Besides the first employer's entry in the employment card, does a Bangladeshi worker need a release letter to get a new work permit, and do employers charge for it?
 
 #### Going home on leave
 
@@ -851,7 +859,7 @@ You earn 18 days' paid leave a year and can take it after one year [L0067, L0032
 
 ### Bringing your family
 
-Cambodia has no family visa: your husband, wife or child enters on the E-class visa and gets an EB dependant extension, with proof of the relationship and a letter from you [V0030, V0031]. They can't work without their own work permit [V0032]. They apply for the extension inside Cambodia, at the immigration office or through a visa agent; the papers and steps are in Family [V0038].
+Your husband, wife or child enters on the E-class visa, since only it can be extended as EB, and then gets an EB dependant extension with proof of the relationship and a letter from you [W0069, W0078, V0030, V0031]. They can't work without their own work permit [V0032]. They apply for the extension inside Cambodia, at the immigration office or through a visa agent; the papers and steps are in Family [V0038].
 
 ## Scam compounds and trafficking
 
@@ -859,14 +867,14 @@ A scam compound is a guarded building or estate, mostly run by Chinese gangs, wh
 
 ### How people are recruited
 
-The same chain recurs in the cases reported: an office job, a payment of several lakh, papers that don't match the job, a Bangladeshi receiver in Phnom Penh, and a sale [S0041, S0039, S0038, S0089, S0009].
+The same chain recurs in the cases reported: a promised computer, data-entry, factory or customer-service job [S0037], a payment of several lakh, papers that don't match the job, a Bangladeshi receiver on arrival, and a sale [S0041, S0039, S0038, S0089, S0009].
 
 1. **The offer.** The job is computer operator, data entry, typist, call-centre or customer-service work, sometimes factory, restaurant or casino work, at Tk 50,000 to over Tk 1 lakh a month; one man was promised USD 800 (about Tk 1 lakh) [S0008, S0037, S0090, S0192, B0204, S0061, G0002]. A Sirajganj man was told by a friend it could be arranged faster than a job in Saudi Arabia [N0124]. The ads run on fake websites, email, Facebook, Instagram, WhatsApp and Telegram, and some Telegram groups hold fake "successful migrants" who belong to the ring [S0090, S0157, S0189].
 2. **The person you know.** The UN Human Rights Office found nearly three in four victims were recruited by relatives, friends, neighbours or community members [S0070]. A BRAC study found 66% of cyber-scam victims were recruited through middlemen [N0103]. Compounds make people inside recruit others, often people they know, to win their own release, and one Bangladeshi was made to film a recruitment video later used to lure other Bangladeshis [S0172, S0134, S0135].
-3. **The test.** Some rings first give a computer literacy or typing and spoken-English test, which makes the job look real [S0210, S0033]. UNODC (the UN Office on Drugs and Crime) says the networks pick people with computer, digital or language skills, and most people found at scam sites are men aged 18 to 40 [S0223, S0226].
+3. **The test.** Some rings first give a computer literacy test, then arrange a Cambodian tourist e-visa [S0210]; one man had his typing and spoken English tested at the compound itself [S0033]. UNODC (the UN Office on Drugs and Crime) says the networks pick people with computer, digital or language skills, and most people found at scam sites are men aged 18 to 40 [S0223, S0226].
 4. **The payment.** Families paid Tk 2 lakh to Tk 7.7 lakh; in 2026 cases reported, victims paid Tk 4.5 lakh, Tk 5.3 lakh, Tk 5.5 lakh and Tk 6 lakh [S0009, S0003, S0188, S0086, S0078, S0109]. A Sirajganj man told The Daily Star (July 2026) that a broker asked Tk 7 lakh for a computer-operator job at Tk 80,000 a month, and that he paid Tk 1 lakh to the broker and the rest to an agency he named as Pushpita Overseas in Fakirapool [N0126, N0127]. A Chapainawabganj returnee told TBS (The Business Standard, a Dhaka newspaper; July 2026) he paid Tk 4.8 lakh through a local middleman and went through Fahim Recruiting Agency [N0110]. BMET gave Puspita Overseas (RL-2648) of Fakirapool and Fahim Recruiting Agency (RL-2594) permission letters in 2025 to send construction workers to Cambodia (see How a job reaches you, and who takes a cut) [N0076, N0083].
 5. **The papers.** The visa and papers don't match the promised job: invitation letters named a construction company, the broker called the construction title "temporary", or the worker found on arrival he held a tourist visa or a one-month visit visa [S0038, S0017, N0129, S0042, S0087]. The State Minister for Expatriates' Welfare says many victims travel on one- or two-month tourist visas while brokers tell them they hold two-year work visas [S0074]. In two cases reported, the promised visa and work permit never came [S0007, S0121]. Since checks tightened, some traffickers use fake BMET cards, or send people to Thailand as tourists first and on to Cambodia from there [S0055].
-6. **The trip.** Brokers routed people through Thailand or, when there was no direct flight, through China [S0063, S0030]. At Dhaka airport one man, told at check-in he needed a Thai transit visa, was told by the broker to stand by a pillar and send a WhatsApp photo; a man came and got him a boarding pass within 10 minutes, and another of the broker's men handed him USD 2,000 (about Tk 2.5 lakh) before boarding [S0018, S0019, G0002]. In a 2023 case a victim's fingerprint didn't match at the airport Probashi Kallyan desk (the Wage Earners' Welfare Board's help desk for migrant workers), and an official called his agency and let him board [N0178, B0014].
+6. **The trip.** Brokers routed people through Thailand or, when there was no direct flight, through China [S0063, S0030]. At Dhaka airport one man, told at check-in he needed a Thai transit visa, was told by the broker to stand by a pillar and send a WhatsApp photo; a man came and got him a boarding pass within 10 minutes, and another of the broker's men handed him USD 2,000 (about Tk 2.5 lakh) before boarding [S0018, S0019, G0002]. In a 2023 case a victim's fingerprint didn't match at the airport Probashi Kallyan desk (the airport desk that checks departing workers' BMET smart cards), and an official called his agency and let him board [N0178, B0014].
 7. **The handover.** A Bangladeshi receiver meets the worker at the airport, keeps him in a hotel for two or three days, then takes him "for an interview" to a compound, three and a half hours' drive away in one case and 120 km away near the border in another [S0039, S0087, S0049, S0020, S0031]. There he is told he has been bought, for USD 1,500 to 5,000 (about Tk 1.9 lakh to Tk 6.2 lakh) [S0023, S0032, S0043, S0110, G0002]. Bangladeshi officials say brokers collect USD 2,000 to 5,000 a person [S0131].
 
 Other ways in:
@@ -881,7 +889,7 @@ Other ways in:
 
 ### Where the compounds are
 
-Amnesty International counted at least 53 compounds in 16 towns and cities in June 2025, and 86 by April 2026 [S0148, S0233]. They cluster in Sihanoukville, along the Thai and Lao borders (notably at Bavet) and, more and more, in rural areas [S0170, S0147]. One Bangladeshi was taken from Phnom Penh to the Long Bay compound in Dara Sakor, a special economic zone 350 km away [S0128]. After the 2025-2026 raids, Cambodia's Commission for Combating Online Scams (CCOS, the government body leading the crackdown) says scam groups hide in smaller groups in gated housing estates (called borey in Khmer), apartments, condominiums and hotels [S0177, S0237]. Managers sometimes knew of raids in advance and moved workers, in one case by vehicle into the mountains [S0142, S0234].
+Amnesty International counted at least 53 compounds in 16 towns and cities in June 2025, and 86 by April 2026 [S0148, S0233]. They cluster in Sihanoukville, along the Thai and Lao borders, in border towns such as Bavet and, more and more, in rural areas [S0170, S0147]. One Bangladeshi was taken from Phnom Penh to the Long Bay compound in Dara Sakor, a special economic zone 350 km away [S0128]. After more than 250 raids from July 2025 to March 2026, Cambodia's Commission for Combating Online Scams (CCOS, the government body leading the crackdown) says scam groups hide in smaller groups in gated housing estates (called borey in Khmer), apartments and condominiums, and that many suspected sites are mixed-use buildings with condominiums, hotels and legitimate businesses [S0175, S0227, S0177, S0237]. Managers sometimes knew of raids in advance and moved workers, in one case by vehicle into the mountains [S0142, S0234]. The US State Department reported in 2025 that NGOs estimate about 150,000 people are held in forced labour in about 350 compounds in Cambodia [S0169].
 
 > **Need to know**
 > - In which towns or compounds are Bangladeshis held in November 2026, according to the Bangkok embassy or BRAC caseworkers?
@@ -889,7 +897,7 @@ Amnesty International counted at least 53 compounds in 16 towns and cities in Ju
 ### What happens inside
 
 - **Passport, phone and cash taken** on entry; one man was allowed his phone for 10 minutes [S0009, S0021, S0035, S0049]. One compound had a spa and a supermarket inside, so there was no chance to go outside [S0025].
-- **Hours:** the promised eight-hour day becomes 12 to 16 hours, often at night (one man worked 10 pm to 10 am) [S0046, S0127, S0005].
+- **Hours:** the promised eight-hour day becomes 12 to 16 hours, sometimes at night (one man worked 10 pm to 10 am) [S0046, S0127, S0005].
 - **The work:** posing online as a young woman or a romantic partner, building trust, then getting the target to "invest"; teams split the stages, one collecting phone numbers, another building the relationship [S0022, S0058, S0045].
 - **Pay:** one man got USD 476 (about Tk 59,300) for the first month and nothing after; another was fed only dry noodles, sometimes once a day [S0027, S0036, G0002]. In a 2022 case, a man sent for a USD 1,000 data-entry job was told he would get no salary unless he found scam customers [L0172].
 - **Punishment:** people who miss targets, refuse or try to contact the police are taken to "dark rooms", given electric shocks, beaten with hockey sticks and denied food; one man was locked up for 17 days [S0026, S0153, S0062, S0155].
@@ -901,23 +909,26 @@ Amnesty International counted at least 53 compounds in 16 towns and cities in Ju
 
 Bangladesh has no embassy in Cambodia; the Bangladesh Embassy in Bangkok covers it [S0193, U0017]. All land crossings between Cambodia and Thailand are closed, so a worker in Cambodia can't reach the embassy overland [V0042]. Rescue was more likely when a foreign embassy was involved than through the Cambodian hotline alone [S0165].
 
-You'll need: the person's full name and passport number, the date he left and the broker or agency who sent him, the compound's name or live location and town, his Cambodian phone number, and a recent photo of him; the police hotline asks for the exact location and a photo before it acts [S0166, S0196].
+You'll need the compound's exact location and a photo of him; the police hotline asks for both before it acts [S0166].
 
 Ask for help in this order:
 
 1. **Get the location out.** One victim shared his live location with his wife before he was locked up, and his brother then reached Bangladeshis in Cambodia who traced him [S0065, S0066]. Several survivors were beaten after bosses found they had secretly contacted the police [S0155].
 2. **Contact the embassy's labour and welfare wing.**
    - **Welfare hotline** for Bangladeshis in Thailand and Cambodia: +66-818-70-84-43 [S0198].
-   - **Labour and welfare email:** fsbangkok@probashi.gov.bd; the First Secretary (Labour) in 2026 is Zahir Imam [S0199, S0100].
+   - **Labour and welfare email:** fsbangkok@probashi.gov.bd; the First Secretary (Labour) in 2026 is Jahir Emam [S0199, B0176].
    - **Main line:** +66 2 390 5107 to 8; mission.bangkok@mofa.gov.bd and consular.bangkok@mofa.gov.bd [S0201, S0202].
    Ready wording: "My [son/husband] [name], passport [number], went to Cambodia on [date] through [broker or agency]. He is held at [compound name / live-location link] in [town]. His phone: [number]. Photo attached. Please help him." [S0166, S0198]
-   **What it has done:** embassy officials confirmed one escaped woman's location by video call and, with Bangladeshis living in Phnom Penh, brought her out, then sent her home on a travel pass with the Cambodian government's help [S0196, S0197]. In July 2025, during the Thailand-Cambodia fighting, its Counsellor (Labour) was in Phnom Penh arranging food, shelter, transport and medical care for Bangladeshis who had left the border areas [B0192, B0193].
-3. **From Bangladesh, apply to the Welfare Board.** The family applies to the Wage Earners' Welfare Board (WEWB, the government board for migrant workers' welfare), directly, through the expatriate welfare branch of the district DC (Deputy Commissioner's) office or through the DEMO (District Employment and Manpower Office); the Board writes to the embassy and tells the family [B0249, B0003]. The Board's services include getting a worker jailed abroad brought home, and legal aid abroad [L0144]. Probashi call centre: 16135 (toll-free in Bangladesh), +8809610102030 from abroad [B0021]. In October 2026 the Board wrote to the embassy's labour wing to free 30 Bangladeshis held in Cambodian detention, after a survivors' group, the Anirban Survivor Voice Foundation, applied [B0199, B0205].
-4. **Contact BRAC's Migration Programme in Dhaka.** In October 2026 two young men held in a scam centre contacted BRAC's Migration Centre online, and it helped arrange their return [S0108, S0113].
+   **What it has done:** embassy officials confirmed one escaped woman's location by video call and, with help from Bangladeshis living in Cambodia, rescued her from Phnom Penh, then began arranging her return on a travel pass with the Cambodian government's help [S0196, S0197]. In July 2025, during the Thailand-Cambodia fighting, its Counsellor (Labour) was in Phnom Penh arranging food, shelter, transport and medical care for Bangladeshis who had left the border areas [B0192, B0193].
+3. **From Bangladesh, apply to the Welfare Board.** The family applies to the Wage Earners' Welfare Board (WEWB, the government board for migrant workers' welfare), directly, through the expatriate welfare branch of the district DC (Deputy Commissioner's) office or through the DEMO (District Employment and Manpower Office); the Board writes to the embassy and tells the family [B0249, B0003]. The Board's services include getting a worker jailed abroad brought home, and legal aid abroad [L0144]. Probashi call centre: 16135 (toll-free in Bangladesh), +8809610102030 from abroad [B0021]. After a survivors' group, the Anirban Survivor Voice Foundation, applied, the Board wrote to the embassy's labour wing to free 30 Bangladeshis held in Cambodian detention, and they were brought home in October 2026 [B0199, B0205, L0124]. The foundation's president is Al Amin Nayan [U0023].
+
+> **Need to know**
+> - What phone number or Facebook page does Anirban Survivor Voice Foundation give families of Bangladeshis held in Cambodia?
+4. **Contact BRAC's Migration Programme in Dhaka.** Two young men trafficked to a Cambodian scam centre contacted BRAC's Migration Centre online, and it helped arrange their return [S0108, S0113].
 5. **Call the Cambodian police.** The police's Anti-Human Trafficking and Juvenile Protection Office hotline is 1288; the anti-trafficking hotline takes Chinese, English, Khmer and Vietnamese [S0238, S0167]. Since August 2024 the police pass scam-related cases to a separate hotline run by the Central Security Department [S0168]. The National Police also run a 24-hour online scam-reporting site, hotline.police.gov.kh, with a complaint form (ដាក់ពាក្យបណ្ដឹង, "file a complaint") [S0205]. In many police rescues officers met a manager at the gate and were handed only the person who had called [S0154].
 6. **Ask about IOM.** IOM (the International Organization for Migration, the UN migration agency) helped more than 3,500 victims of forced criminality in Southeast Asia from 2022 to 2025, Bangladeshis among the largest groups, but only people given victim status can get its help, including the ticket home [S0206, S0207].
 
-**If someone demands money for release:** families have paid USD 1,500 to 5,000 (about Tk 1.9 lakh to Tk 6.2 lakh); one family paid about USD 2,900 (about Tk 3.6 lakh) and spent nearly Tk 9 lakh in all [S0048, S0111, S0067, S0068, G0002]. After those two young men were released, the traffickers took control of them again and took more money from their families for return tickets [S0112]. Bangladeshis involved in the trafficking intimidate victims trying to go home, and one returnee said brokers' interference delayed his return by two months [S0095, U0004, U0014].
+**If someone demands money for release:** compounds have demanded USD 1,500 to 5,000 (about Tk 1.9 lakh to Tk 6.2 lakh); one family paid about USD 2,900 (about Tk 3.6 lakh) and spent nearly Tk 9 lakh in all [S0048, S0111, S0067, S0068, G0002]. After those two young men were released, the traffickers took control of them again and took more money from their families for return tickets [S0112]. Bangladeshis involved in the trafficking intimidate victims trying to go home, and one returnee said brokers' interference delayed his return by two months [S0095, U0004, U0014].
 
 > **Need to know**
 > - Is 1288 still the anti-trafficking hotline, what is the Central Security Department's scam-victim number, and does either answer in English?
@@ -938,7 +949,7 @@ Ask for help in this order:
 2. **Keep the evidence.** Most victims who seek legal help can't produce documents, payment records or receipts to file a case, while one survivor kept the bank transaction records linked to his broker [S0191, S0071].
 3. **File a criminal case** at a police station against the broker and agency; several returnees from Cambodia have [S0083]. Bangladesh's Prevention and Suppression of Trafficking in Persons and Smuggling of Migrants Act, 2026 was adopted on 9 April 2026 [S0136]. On 26 October 2026 a case filed at Paltan Police Station, Dhaka, under sections 6, 7, 8, 9 and 22 of the Act led the CID to arrest two men accused of trafficking two young men to Cambodian scam centres [S0114, S0108]. Under section 54 of the Act, a trafficking victim is not criminally liable for illegal entry or stay, or a false travel or identity document, where it resulted directly from the trafficking [S0137].
 4. **Complain against the agency at BMET.** Send a written application with your evidence to BMET's Director General; it is free and is to be settled in 30 working days [B0016]. BMET's complaint form lists "job not provided", "non-payment of salary", "stranded at airport" and "non-existence of company", and BMET gives an acknowledgement receipt with a complaint ID [B0255, B0256]. BMET's permission letters for Cambodia require the agency to pay the worker's food and lodging, return airfare and compensation if anything goes wrong, under a Tk 300 non-judicial stamp undertaking [B0147].
-5. **Get legal advice.** Returnees have got help, including legal advice, at BRAC's Migration Service Centres [S0073].
+5. **Get legal advice.** Returnees have asked BRAC's Migration Service Centres for help, including legal support [S0073].
 
 In practice, the CID's trafficking unit says cases are few compared with the number of returnees, and many returnees settle with the broker to get money back instead [S0052, S0054]. Two survivors who didn't file cases said they couldn't afford to [S0072]. A survivors' group warns that deported Bangladeshis may be lured back into Cambodia illegally through another country [S0219].
 
@@ -948,7 +959,7 @@ In practice, the CID's trafficking unit says cases are few compared with the num
 ### The crackdown
 
 - **Cambodia's numbers:** CCOS says Cambodia raided 972 scam operations and repatriated 23,760 foreigners between July 2025 and October 2026 [U0056]. From January to September 2026 Cambodia's General Department of Immigration (GDI) deported 52,039 foreigners, including more than 3,000 Bangladeshis, and identified more than 18,000 of the deportees as directly involved in online fraud; no figure shows how many of the Bangladeshis were trafficking victims [S0182, S0217, S0218].
-- **"No compounds left":** on 28 August 2026 CCOS said Cambodia no longer hosts any scam compounds [S0227]. An anti-trafficking consultant says scam operations and recruitment of foreign workers into them continue, and the anti-trafficking group Blue Dragon says calls from trafficked people have dropped sharply but not stopped [S0228, S0229]. Amnesty found evidence of state intervention at only 24 of the 86 compounds it identified [S0138].
+- **"No compounds left":** Prime Minister Hun Manet vowed to clear Cambodia of scam operations by April 2026 [S0179]. On 28 August 2026 CCOS said Cambodia no longer hosts any scam compounds [S0227]. An anti-trafficking consultant says scam operations and recruitment of foreign workers into them continue, and the anti-trafficking group Blue Dragon says calls from trafficked people have dropped sharply but not stopped [S0228, S0229]. Amnesty found evidence of state intervention at only 24 of the 86 compounds it identified [S0138].
 - **The law:** Cambodia's Law on Combating Online Scams came into force on 7 April 2026; scammers face 2 to 5 years in prison and a fine of up to 500 million riel (Cambodia's currency; about Tk 1.5 crore), and bosses 15 years to life if their operations cause death (see What can get you jailed or deported) [S0183, S0184, S0185, L0109, G0003]. Recruiting or training people for scam work carries 2 to 5 years [L0107].
 - **The bosses:** two alleged kingpins, Chen Zhi and Li Xiong, Chinese-born businessmen with Cambodian citizenship, were arrested and extradited in 2026 [S0232]. The US State Department's 2026 Trafficking in Persons report kept Cambodia in Tier 3, its lowest ranking, and says some senior officials and police profited from and protected trafficking in scam centres [N0094, N0095].
 - **In Bangladesh:** in September 2022 RAB (the Rapid Action Battalion, an elite police unit) arrested a ring leader living in Cambodia, Nazmul Islam, and two others in Paltan, and said the gang had trafficked more than 500 Bangladeshis to Cambodia [S0209, S0213]. In July 2026 the State Minister for Expatriates' Welfare said visa checks for Cambodia had been tightened and that workers to Cambodia would no longer go under the attestation exemption, which let batches of up to five workers go without the embassy attesting the job papers (see "Is it open now, and who can go?") [S0056, S0120, S0118].
@@ -965,7 +976,7 @@ A self-employed foreigner needs his own work permit and employment card from MLV
 2. **Stay on the EB extension.** The EB (business) extension of the E-class (ordinary) visa covers employees and freelancers, for 1, 3, 6 or 12 months; it does not by itself give the right to work [V0030, V0032]. How to get it is in Work visa: company worker, Step 7 [W0064].
 3. **Keep out of the closed trades.** Foreigners may not work as drivers, street vendors, masseurs, hairdressers or beauticians, shoe shiners or tailors, mechanics or tyre repairers, or makers of Khmer souvenirs, musical instruments or Buddhist statues [W0038].
 
-**If it fails:** A foreigner working or doing business without a work permit, the self-employed included, can be fined KHR 50.4 million (riel, Cambodia's currency; about Tk 15.4 lakh) under Joint Prakas 498 of 31 July 2023 (a joint ministerial order) [W0058, G0003].
+**If it fails:** A foreigner doing business in Cambodia without a work permit, the self-employed included, can be fined KHR 50.4 million (riel, Cambodia's currency; about Tk 15.4 lakh) under Joint Prakas 498 of 31 July 2023 (a joint ministerial order) [W0058, K0018, G0003].
 
 > **Need to know**
 > - Do Bangladeshis in Phnom Penh run registered shops or restaurants, and how does a Bangladeshi owner get a quota and work permit for himself?
@@ -1002,7 +1013,7 @@ The tourist visa (T-class) is for holidays, and working on it is prohibited [V00
 
 ### Step 1: Choose how to apply
 
-1. **Online:** www.evisa.gov.kh is run only by the E-Visa Office of Cambodia's MFAIC (Ministry of Foreign Affairs and International Cooperation); embassies don't run it [V0027]. Step 2 gives the steps.
+1. **Online:** www.evisa.gov.kh is run only by the E-Visa Office of Cambodia's MFAIC (Ministry of Foreign Affairs and International Cooperation); embassies don't run it [V0027]. The steps are in Step 2: Apply for the e-visa.
 2. **Through an embassy, by email:** Cambodia's embassy for Bangladesh is the Royal Embassy of Cambodia in New Delhi (A-1/309, Safdarjung Enclave, New Delhi 110029; +91 11 41717136 or 41717143; camemb.ind@mfaic.gov.kh) [V0021, V0052]. Tourist and business visas can typically be requested from any Cambodian embassy, wherever the applicant lives [V0044].
 3. **On arrival:** a visa on arrival is offered at international airports and border checkpoints, but not every nationality is eligible [V0024, V0028]. It is now processed electronically, with a digital visitor pass sent by email, and since 1 September 2026 its fee can be paid online in advance [V0056, V0066].
 
@@ -1036,12 +1047,12 @@ You'll need:
 
 ### Step 3: Fill in the e-Arrival before you fly
 
-1. **Within 7 days before you arrive,** fill in the e-Arrival (Cambodia's online immigration, health and customs form) at https://arrival.gov.kh, the only official site [V0047, V0049, W0006]. Every traveller must submit it, even with a visa; it is free, and it is not a visa [V0045, V0046, V0029].
+1. **Within 7 days before you arrive,** fill in the e-Arrival (Cambodia's online immigration, health and customs form) at https://arrival.gov.kh, the only official site, or in the Cambodia e-Arrival app [V0047, V0049, W0006, K0031]. Every traveller must submit it, even with a visa; it is free, and it is not a visa [V0045, V0046, V0029].
 2. **Screenshot or download the QR code** before you close the page [V0048].
 
 ### Step 4: At the border
 
-1. **Enter at a port that accepts e-visas:** Techo International Airport (Phnom Penh), Siem Reap Angkor or Sihanoukville airport, Bavet on the Vietnam border or Tropaeng Kreal on the Laos border [V0040, V0116, V0117, V0041, V0118]. All land crossings from Thailand, Poipet, Cham Yeam and O Smach included, are closed until further notice [V0042].
+1. **Enter at a port that accepts e-visas:** Techo International Airport (Phnom Penh), Siem Reap Angkor or Sihanoukville airport, Bavet on the Vietnam border or Tropaeng Kreal on the Laos border [V0040, V0116, V0117, V0041, V0118]. All land crossings from Thailand, Poipet, Cham Yeam and O Smach included, are closed until further notice [V0042]. At airports and international ports your entry and exit go on a Cambodia v-Pass instead of a passport stamp (Work visa: company worker, Step 5, item 4) [K0033].
 2. **Be ready to show why you came.** Officers may refuse entry to anyone without a clear travel history and purpose, money to support themselves and a guarantor in Cambodia [V0061]. The GDI said in July 2025 that it has no policy of refusing any nationality, but applies stricter checks [V0060].
 
 > **Need to know**
@@ -1049,7 +1060,7 @@ You'll need:
 
 ### Step 5: Extend once, or leave
 
-1. **Register your address.** FPCS (Foreigners Presence in Cambodia System) is the GDI's online record of where foreigners stay; hotels usually register guests, and someone not registered may be unable to extend a visa [V0058, V0059]. Report a change of address to the local police within 24 hours [V0068].
+1. **Register your address.** FPCS (Foreigners Presence in Cambodia System) is the system the authorities use to record where foreigners stay; hotels usually register guests, and someone not registered may be unable to extend a visa [V0058, V0059]. Report a change of address to the local police within 24 hours [V0068].
 2. **To extend,** go to the immigration office in Phnom Penh or use a licensed visa agent; it can't be done online [V0064]. A tourist visa can be extended once, for one month, for about USD 45 (about Tk 5,600) [V0077, V0010, G0002].
 3. **Leave after about 60 days in all** (30 on entry and one 30-day extension) [V0063]. Overstaying costs USD 10 (about Tk 1,250) a day (see What can get you jailed or deported) [V0078, G0002].
 
@@ -1064,7 +1075,7 @@ No: employment on a tourist visa is prohibited [V0009]. Turning a tourist visa i
 
 - **Tourist visa sold as a work visa:** in July 2026 the State Minister said many victims travel on one- or two-month tourist visas while brokers tell them they have two-year work visas [S0074]. A returnee promised a computer-operator job for Tk 5.3 lakh got BMET (Bureau of Manpower, Employment and Training) clearance, then found on arrival he had only a one-month visit visa [W0092]. Many trafficked Bangladeshis travelled on visas that did not match the job promised (see Scam compounds and trafficking) [W0094].
 - **The Thailand detour:** after Bangladesh tightened checks on Cambodia, some recruiters allegedly sent workers to Thailand as tourists before moving them to Cambodia [V0115].
-- **Look-alike websites:** the GDI has disowned sites such as "Cambodia-e-arrival.online"; the only official sites are www.evisa.gov.kh and arrival.gov.kh [V0050, V0027, V0049]. Guides and agents still quote the old USD 36 tourist e-visa fee, now USD 30 [V0054].
+- **Look-alike websites:** the GDI has disowned sites such as "Cambodia-e-arrival.online" and cambodiaivisa.com; the only official sites are www.evisa.gov.kh and arrival.gov.kh [V0050, K0030, V0027, V0049]. The tourist e-visa fee was cut from USD 36 to USD 30 [V0054, V0001].
 
 ## Family
 
@@ -1128,7 +1139,7 @@ A child born in Cambodia to two Bangladeshi parents is not Cambodian: a child bo
 
 ## Asylum
 
-Asylum in Cambodia is only for someone with a well-founded fear of persecution because of race, religion, nationality, membership of a particular social group or political opinion [U0103]. A claim based purely on economic need or the wish for a better life can be rejected at once, with no appeal or review [U0114, U0127]. The rules are set by a 2009 sub-decree (a government regulation), and the Ministry of Interior decides claims through the Immigration Department of the National Police [U0103, U0104]. UNHCR (the UN refugee agency) says Cambodia's General Department of Immigration (GDI, the Ministry of Interior's immigration department) oversees 26 refugees and 11 asylum seekers of all nationalities, that problems remain with access to asylum and case processing, and that UNHCR itself has no programmes or staff in Cambodia [U0121, U0122, U0123, W0064]. Permission to stay lasts only as long as the procedure [U0107]. People forced into scam work are screened as possible trafficking victims when they apply to go home (see Going home without valid papers, Step 2) [U0024, U0025].
+Cambodia has ratified the 1951 Refugee Convention and its 1967 Protocol, but asylum is only for someone with a well-founded fear of persecution because of race, religion, nationality, membership of a particular social group or political opinion [V0089, U0103]. A claim based purely on economic need or the wish for a better life can be rejected at once, in what appears to be a fast track with no appeal or review [U0114, U0127]. The rules are set by a sub-decree (a government regulation), and the Ministry of Interior decides claims through the Immigration Department of the National Police [U0103, U0104]. UNHCR (the UN refugee agency) says Cambodia's General Department of Immigration (GDI, the Ministry of Interior's immigration department) oversees 26 refugees and 11 asylum seekers of all nationalities, that problems remain with access to asylum and case processing, and that UNHCR itself has no programmes or staff in Cambodia [U0121, U0122, U0123, W0064]. Permission to stay lasts only as long as the procedure [U0107]. Cambodian officers interview Bangladeshis applying to go home to check whether they are trafficking victims or linked to scam centres, and those found to be victims have been allowed home (see Going home without valid papers, Step 2) [U0024, U0025].
 
 > **Need to know**
 > - Has any Bangladeshi applied for refugee status in Cambodia since the 2009 sub-decree, and with what result?
@@ -1164,7 +1175,7 @@ Many Bangladeshis went to Cambodia with valid passports, visas and government cl
 - **A job that doesn't match the papers:** the same returnee was promised data entry, but his invitation letter named construction work [U0038].
 - **A visa left to expire:** one victim said his middlemen refused to extend his expired visa [U0066].
 - **Tourist e-visas by design:** in 2022 RAB (the Rapid Action Battalion, Bangladesh's elite police unit) said a trafficking gang sent Bangladeshis on Cambodian tourist e-visas arranged with Bangladeshis living in Cambodia [U0068].
-- **Routes round the checks:** after Bangladesh tightened checks on travel to Cambodia, some recruiters allegedly used fake BMET cards or flew workers to Thailand as tourists before moving them into Cambodia [U0062].
+- **Routes round the checks:** after Bangladesh tightened checks on travel to Cambodia, some recruiters allegedly used fake BMET cards or sent workers to Thailand as tourists before moving them into Cambodia [U0062].
 - **Leaving the employer:** the owner of Fahim Recruiting Agency said in July 2026 that some workers leave for better-paid jobs and their original employers then refuse to take them back [U0067].
 - **Coming back after deportation:** Anirban Survivor Voice Foundation, a Bangladeshi survivors' group, warned in October 2026 that deported Bangladeshis may be lured back into Cambodia illegally through another country [S0219].
 
@@ -1179,7 +1190,7 @@ To check a visa and work permit before and after you fly, see Work visa: company
 
 Thai police said in 2024 that since early 2023 Bangladeshis have been smuggled into Thailand via Cambodia, moved in stages from the Cambodian border to Bangkok and then to southern Thailand, heading for Malaysia [U0069, U0070]. Cases on record:
 
-- **December 2023, Sa Kaeo:** 11 Bangladeshis bound for Malaysia, who had flown to Cambodia and crossed into Thailand illegally, were caught when their pickup truck overturned in Sa Kaeo province [U0075, U0076].
+- **December 2023, Sa Kaeo:** 11 Bangladeshis bound for Malaysia, who had travelled from Bangladesh to Cambodia and crossed into Thailand illegally, were caught when their pickup truck overturned in Sa Kaeo province [U0075, U0076].
 - **January 2024, Narathiwat:** Thai immigration police arrested 19 Bangladeshis at Taba Market, Tak Bai district [U0071]. Bangladeshis in Cambodia had taken their passports to get them fake Thai entry stamps; each paid Tk 4 to 5 lakh for the stamps and the agents, and all 19 passports carried irregular visa stickers [U0072, U0073, U0074].
 - **April 2026, southern Thailand:** 21 Bangladeshis who paid brokers Tk 7 lakh each for passage to Malaysia flew to Cambodia, crossed into Thailand on foot on 4 April, were hidden in a seaside resort in Chana whose owner took their phones, and were charged with illegal entry and stay [U0078, U0079, U0077, U0081, U0080].
 - **May 2026, Sa Kaeo:** six Bangladeshis who had flown to Sihanoukville in January and worked about five months as labourers without pay crawled under the barbed-wire border fence from the Poipet side, meaning to reach the Bangladesh embassy in Bangkok for help going home; they were handed to Khlong Luek police for prosecution [U0086, U0087, U0088, U0089].
@@ -1213,7 +1224,7 @@ The expulsion order and how to challenge it are under What can get you jailed or
 
 ## Going home without valid papers
 
-This is for anyone whose visa has expired, whose passport is held by a broker or employer, or who has been released from a compound or detention [U0036, U0061, U0055]. In 2026 people went home this way: they waited for a window when Cambodia waived overstay fines, registered with the Bangladesh Embassy in Bangkok, got a Travel Permit if they had no passport, and flew out [U0005, U0010, U0061, U0036]. Outside a waiver, overstaying costs USD 10 (about Tk 1,250) a day, which can add up to thousands of dollars [U0044, G0002].
+This is for anyone whose visa has expired, whose passport is held by a broker or employer, or who has been released from a compound or detention [U0036, U0061, S0048, L0173, U0055]. In 2026 people went home this way: they waited for a window when Cambodia waived overstay fines, registered with the Bangladesh Embassy in Bangkok, got a Travel Permit if they had no passport, and flew out [U0005, U0010, U0061, U0036]. Outside a waiver, overstaying costs USD 10 (about Tk 1,250) a day, which can add up to thousands of dollars [U0044, G0002].
 
 ### Help from Bangladesh
 
@@ -1229,7 +1240,7 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
 
 ### Step 1: Check whether a fine waiver is open
 
-1. **Find out whether Cambodia is waiving overstay fines.** In June 2026 Cambodia let overstayers leave without paying fines; at the Bangladesh Embassy in Bangkok's request it extended the window to 1 September, and from 1 September it again let overstayers leave voluntarily without fines [U0005, U0006, U0001]. That waiver was due to end on 31 October 2026 [L0123, U0021]. Embassies negotiate waivers country by country, and the process is slow [U0045]. One returnee learned of the waiver on Facebook, applied, bought a ticket and flew home on 14 June 2026; another's fine was waived 24 days after he applied [U0036, S0029].
+1. **Find out whether Cambodia is waiving overstay fines.** In June 2026 Cambodia let overstayers leave without paying fines; at the Bangladesh Embassy in Bangkok's request it extended the window to 1 September, and from 1 September it again let overstayers leave voluntarily without fines [U0005, U0006, U0001]. That waiver was due to end on 31 October 2026 [L0123, U0021]. Embassies negotiate waivers country by country, and the process is slow [U0045]. One returnee learned of the waiver on Facebook, applied, bought a ticket and flew home on 14 June 2026; another's fine was waived 24 days after he applied [U0036, S0029]. To ask the GDI directly, call its hotline for foreigners (see Contacts in Cambodia) [K0027].
 2. **Leave inside the window.** Waivers are time-limited and can require departure within days [S0208]. Someone who refused to leave in a window and was then detained is barred from Cambodia for life once deported (see Bans after you leave) [U0040].
 
 > **Need to know**
@@ -1251,7 +1262,7 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
 
 ### Step 3: Get a Travel Permit if you have no passport
 
-1. **Apply for a Travel Permit,** a one-way document the Embassy issues to a Bangladeshi without a passport who wants to go home [B0179]. In 2026 many Bangladeshis overstaying in Cambodia received travel passes to return, and the Embassy arranged one woman's return on a travel pass with the Cambodian government's cooperation [U0061, S0197].
+1. **Apply for a Travel Permit,** a one-way document the Embassy issues to a Bangladeshi without a passport who wants to go home [B0179]. In 2026 many Bangladeshis overstaying in Cambodia received travel passes to return, and the Embassy was working to send one woman home on a travel pass with the Cambodian government's cooperation [U0061, S0197].
    You'll need [B0180]:
    - copies of your old passport and its visa page;
    - your air ticket;
@@ -1261,7 +1272,7 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
    - an interview in person at the Embassy.
 2. **Pay the fee:** 550 baht (ordinary) or 1,100 baht (urgent) [B0181, B0182]. The consular section takes applications 9:30 am to 12:00 noon and delivers 3:30 to 4:30 pm, Monday to Friday [B0178].
 
-All land border crossings between Cambodia and Thailand are closed, so a worker in Cambodia cannot reach the Embassy in Bangkok overland [V0042]. For people held at the Bati centre, release waits on their embassy issuing travel documents (see "Raids, detention and deportation") [U0055].
+All land border crossings between Cambodia and Thailand are closed, so a worker in Cambodia cannot reach the Embassy in Bangkok overland [V0042]. For people held at the Bati centre, release waits on their embassy issuing travel documents (see "Raids, detention and deportation") [U0055]. When Cambodia waived 602 Nepalis' overstay fines in May 2026, Nepal's embassy in Bangkok, which also covers Cambodia, prepared one-way travel documents and sent them to Cambodia for those whose passports were lost or expired [U0131, U0132].
 
 > **Need to know**
 > - With the land border closed, how does someone in Cambodia without a passport do the Travel Permit interview: does the labour wing take applications in Phnom Penh, by video, or through a representative?
@@ -1269,7 +1280,7 @@ All land border crossings between Cambodia and Thailand are closed, so a worker 
 
 ### Step 4: Buy the ticket and leave
 
-1. **Buy a refundable ticket.** On the Embassy's instructions, many stranded Bangladeshis bought refundable tickets while they waited [U0011]. Returnees pay their own fares: the 30 released from detention in October 2026 bought their own tickets, one stranded man said he bought tickets two or three times and only lost money, and one returnee spent USD 2,266 (about Tk 2.8 lakh), including overstay penalties, to get home [U0030, U0029, U0065, G0002]. High airfares and paperwork kept many from leaving even when fines were waived [U0022].
+1. **Buy a refundable ticket.** On the Embassy's instructions, many stranded Bangladeshis bought refundable tickets while they waited [U0011]. Returnees in 2026 paid their own fares: the 30 released from detention in October 2026 bought their own tickets, one stranded man said he bought tickets two or three times and only lost money, and one returnee spent USD 2,266 (about Tk 2.8 lakh), including overstay penalties, to get home [U0030, U0029, U0065, G0002]. High airfares and paperwork kept many from leaving even when fines were waived [U0022]. Under the May 2026 waiver for Nepalis, people had to send their travel details to Cambodia's immigration department as soon as they had tickets [S0187, U0134].
 2. **Wait for immigration clearance before going to the airport.** On 3 September 2026, 32 Bangladeshis with tickets were turned back at Phnom Penh airport while waiting for clearance and taken to an immigration detention centre (see If you are detained) [S0098, U0007].
 3. **If a broker stops you leaving,** tell the Embassy's welfare hotline at once (see Step 2: Register with the Bangladesh Embassy in Bangkok) [B0175]. Returnees told BRAC that Bangladeshis involved in trafficking in Cambodia intimidate victims trying to go home; one said brokers delayed his return by two months, and a stranded man's wife said his broker was stopping him from leaving [U0004, U0014, U0013].
 
@@ -1366,7 +1377,7 @@ Hundi brokers bring cash to the family's door, and in 2022-2024 paid more taka p
 
 ## If a worker dies, is injured or loses the job
 
-In Cambodia, NSSF (the National Social Security Fund) covers work injuries for all paid workers, Cambodian and foreign, and the employer must register you within 3 days of hiring, using your passport number [L0071, L0090]. In Bangladesh the WEWB (Wage Earners' Welfare Board, the government board for migrants' welfare) pays grants to dead workers' families, and its Probashi call centre is 16135 (free), or +8809610102030 from abroad [B0235, B0021]. Its Tk 3 lakh death grant goes only to workers who left with BMET (Bureau of Manpower, Employment and Training) clearance or are Board members [B0235]. Bangladesh has no embassy in Cambodia; the Embassy in Bangkok handles it (see The Bangladesh Embassy in Bangkok) [B0169, B0197].
+In Cambodia, NSSF (the National Social Security Fund) covers work injuries for all paid workers, Cambodian and foreign, and the employer must register you within 3 days of hiring, using your passport number [L0071, K0034]. In Bangladesh the WEWB (Wage Earners' Welfare Board, the government board for migrants' welfare) pays grants to dead workers' families, and its Probashi call centre is 16135 (free), or +8809610102030 from abroad [B0235, B0021]. Its Tk 3 lakh death grant goes only to workers who left with BMET (Bureau of Manpower, Employment and Training) clearance or are Board members [B0235]. Bangladesh has no embassy in Cambodia; the Embassy in Bangkok handles it (see The Bangladesh Embassy in Bangkok) [B0169, B0197].
 
 ### If you are injured or fall ill
 
@@ -1384,7 +1395,7 @@ In Cambodia, NSSF (the National Social Security Fund) covers work injuries for a
 
 ### If a worker dies
 
-1. **Ask the WEWB to bring the body home.** The family applies to the WEWB, which records the family's wishes, sends them to the embassy and follows up until the body arrives; call 16135 (free) or +8809610102030 from abroad [B0247, B0021]. For Cambodia, the Embassy in Bangkok handles it, and the next of kin (spouse or children) applies on the Embassy's form [B0189].
+1. **Ask the WEWB to bring the body home.** The family applies to the WEWB, which records the family's wishes, sends them to the embassy and follows up until the body arrives; call 16135 (free) or +8809610102030 from abroad [B0247, B0021]. For Cambodia, the Embassy in Bangkok handles it, and the next of kin (spouse or children) applies on the Embassy's form [B0197, B0189]. In Cambodia a death must be registered at the commune or sangkat office within 15 days, and for a foreigner the civil registrar issues the death certificate as soon as possible so the body can be taken across the border, cremated or buried [V0093, V0120].
 
    You'll need [B0188]:
    - the deceased's passport and visa copy;
@@ -1396,7 +1407,7 @@ In Cambodia, NSSF (the National Social Security Fund) covers work injuries for a
 
    > **Need to know**
    > - Who pays to fly a body from Phnom Penh to Dhaka when the employer won't, what does it cost, and how many days does it take through the Embassy in Bangkok?
-   > - Which Cambodian office issues the death certificate for a foreigner, and how does a family arrange burial in Cambodia instead?
+   > - Who registers a Bangladeshi worker's death at the commune office when the employer or broker won't, and how does a family arrange burial in Cambodia instead?
 
 2. **Claim in Cambodia.** If a work injury kills the worker, NSSF pays to transport the body and pays 4 million riel (about Tk 1.2 lakh) to whoever holds the funeral [L0078, L0079, G0003]. Survivors claiming NSSF benefits need a family record book, residence certificate or marriage certificate [L0080]. When the Embassy reports that compensation may be due, the WEWB asks the family for a power of attorney so the case can be run in Cambodia, and its legal cell helps prepare it [L0151, L0152]. Compensation, unpaid wages and insurance the Embassy recovers go to the WEWB, which pays the heirs [B0248].
 3. **At Dhaka airport,** the WEWB's desk gives the family a Tk 35,000 cheque for transport and burial on the spot when the body is handed over, against an heirship certificate from the Union Parishad chairman, mayor or councillor, plus a photo and NID or passport copy of the nominated person [B0014, B0245, L0148]. The cheque is lost if not collected within 3 months [B0244]. A free ambulance carries the body from Dhaka or Chattogram airport [B0043]. Dhaka desk officer in charge: +8801971 430203 [B0246].
@@ -1463,7 +1474,7 @@ In Cambodia, NSSF (the National Social Security Fund) covers work injuries for a
 
 ### The Bangladesh Embassy in Bangkok
 
-Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers Cambodia [B0169, B0197]. In May 2026 Thailand's Prime Minister said the Thai-Cambodian border checkpoints would stay closed until Cambodia accepted Thailand's conditions, so a worker in Cambodia can't reach the Embassy overland for services that need him in person, such as a Travel Permit interview or a power of attorney [U0135, B0180, B0254].
+Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers Cambodia [B0169, B0197]. In May 2026 Thailand's Prime Minister said the Thai-Cambodian border checkpoints would stay closed until Cambodia accepted Thailand's conditions [U0135]. All land border crossings between Cambodia and Thailand are closed until further notice, so a worker in Cambodia can't reach the Embassy overland for services that need him in person, such as a Travel Permit interview or a power of attorney [V0042, B0180, B0254].
 
 - **Address:** 47/8 Ekamai Soi 30, Sukhumvit 63, Bangkok 10110, Thailand; 9 am to 5 pm, closed weekends and public holidays [B0171, B0174].
 - **Phone:** +66 (0)2 390 5107 to 8 [B0172].
@@ -1474,13 +1485,13 @@ Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers 
 
 **Services:**
 - **Passport:** MRP (machine-readable passport) 3,960 Baht regular (40-45 days) or 7,920 Baht express (21-28 days) [B0183].
-- **Travel Permit,** a one-way document to go home without a passport (see Going home without valid papers) [B0179].
+- **Travel Permit,** issued to a Bangladeshi without a passport who wants to go home (see Going home without valid papers) [B0179].
 - **Birth registration** of a child born in Cambodia to Bangladeshi parents: free within 45 days, 36 Baht after (see Having a child in Cambodia) [B0250, B0185].
 - **Death registration and bringing a body home** (see If a worker dies) [B0251, B0188].
 - **Power of attorney:** 510 Baht a page for pages 1-5, 170 Baht for each page after; the giver must come in person, and a Bangladeshi living in Cambodia must show a work permit and a valid visa (Business, Non-O or Resident) [B0186, B0254, B0253].
 - **Police clearance attestation:** 140 Baht [B0187].
 
-**What it does in practice.** During the Thailand-Cambodia fighting in July 2025, the Embassy's Counsellor (Labour) went to Phnom Penh and arranged temporary food, shelter, transport and medical care for displaced Bangladeshis, with help from the Bangladeshi community [B0193]. Every BMET permission for Cambodia is copied to the Embassy's labour counsellor [B0150]. Its "Labour Welfare Relations" web page is under construction [B0190].
+**What it does in practice.** During the Thailand-Cambodia fighting in July 2025, the Embassy's Counsellor (Labour) went to Phnom Penh and arranged temporary food, shelter, transport and medical care for displaced Bangladeshis, with help from the Bangladeshi community [B0192, B0193]. BMET's permission letters for Cambodia are copied to the Embassy's labour counsellor [B0150]. Its "Labour Welfare Relations" web page is under construction [B0190].
 
 > **Need to know**
 > - Are the Thai-Cambodian border checkpoints still closed in November 2026, and does the Embassy send a team or accept papers by post from Bangladeshis in Cambodia instead?
@@ -1494,7 +1505,7 @@ Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers 
 - **NSSF:** Building 3, Russian Federation Boulevard, Tuek Laak I, Toul Kork, Phnom Penh (inside the MLVT compound); hotline and ambulance 1286; info@nssf.gov.kh [L0088, L0085].
 - **CENTRAL** (Center for Alliance of Labor and Human Rights), legal aid on labour rights: #487 St. 53BT, Sangkat Boeng Tumpun, Khan Meanchey, Phnom Penh; +855 93 556 603 [L0135, L0136].
 - **Police anti-trafficking hotline:** 1288, in Chinese, English, Khmer and Vietnamese (see Scam compounds and trafficking) [S0238, S0167].
-- **Police online scam reporting, 24 hours:** hotline.police.gov.kh, with a complaint form [S0205].
+- **Police online scam reporting, 24 hours:** hotline.police.gov.kh, with a complaint form [S0205]. The GDI (General Department of Immigration) hotline for foreigners is 068 38 66 99, 078 38 66 99 or 087 38 66 99, email hotline@immigration.gov.kh; its office is on National Road No. 21, Boeung Chhouk village, Sangkat Nirouth, Khan Chbar Ampov, Phnom Penh [K0027, K0028, K0032].
 - **NBC, complaints about banks and transfers:** 085 600 002, 098 220 002; Phnom Penh branch 016 568 433; Preah Sihanouk branch 016 687 194 [G0049, G0050].
 - **Banks:** ACLEDA +855 23 994 444 (24 hours); ABA 098 203 203 (24 hours) or 1 800 203 203; Wing (+855) 23 999 989 [G0023, G0040, G0091, G0045].
 
@@ -1506,7 +1517,7 @@ Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers 
 
 - **Probashi call centre (WEWB), toll free:** 16135, or +8809610102030 from abroad [B0021].
 - **BMET:** 89/2 Kakrail, Dhaka-1000; complaints against an agency in writing, with evidence, to the Director General, free, 30 working days [B0048, B0016]. Director (Emigration): +8802222222415, 01711-135901, diremi@bmet.gov.bd; Additional Director General (Employment): 02-48321949, 01720105492, adgemp@bmet.gov.bd [B0012].
-- **Ministry of Expatriates' Welfare and Overseas Employment:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Dhaka-1000; grievance officer 02-41030224, 01712992086, adsadmin@probashi.gov.bd, 30 working days [B0049, B0051].
+- **Ministry of Expatriates' Welfare and Overseas Employment:** Probashi Kallyan Bhaban, 71-72 Old Elephant Road, Dhaka-1000; grievance officer 02-41030224, 01712992086, adsadmin@probashi.gov.bd, 30 working days [B0049, B0051]. Its complaint cell takes complaints from migrants abroad at minister.expat@gmail.com and puts them to the Minister and the Secretary daily and weekly [K0021, K0022].
 - **WEWB:** Probashi Kallyan Bhaban, 71-72 Eskaton Garden, Ramna, Dhaka [B0050].
 - **WEWB airport desks:** Dhaka +8802 8901040, 01404 413388, officer in charge +8801971 430203; Chattogram 01913631797, pkdctg@gmail.com; Sylhet 01558277904, pkdsylhet@gmail.com [B0044, B0246, B0015].
 - **PKB:** 16238, or +880 9677-787878 from abroad [B0038].

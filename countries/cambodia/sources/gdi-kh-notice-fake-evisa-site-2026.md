@@ -1,0 +1,10 @@
+Transcription (by agent K, 11 Nov 2026) of the notice image gdi-kh-notice-fake-evisa-site-2026.jpg, listed on https://www.immigration.gov.kh/official-doc (item dated 29/09/2026, "សេចក្តីបំភ្លឺព័ត៌មាន"; image https://firebasestorage.googleapis.com/v0/b/egdi-ecosystem.appspot.com/o/image-thumnail%2Fhxs9z_17907360196061.jpg). English by K in [ ].
+
+ក្រសួងមហាផ្ទៃ អគ្គនាយកដ្ឋានអន្តោប្រវេសន៍ — សេចក្តីបំភ្លឺព័ត៌មាន [Ministry of Interior, General Department of Immigration — Clarification]
+អគ្គនាយកដ្ឋានអន្តោប្រវេសន៍ ក្រសួងមហាផ្ទៃ នៃព្រះរាជាណាចក្រកម្ពុជា សូមធ្វើការបដិសេធទៅគេហទំព័រ https://www.cambodiaivisa.com/ គឺមិនមែនជាគេហទំព័រស្របច្បាប់ដែលទទួលស្គាល់ដោយរាជរដ្ឋាភិបាល ឬបង្កើតឡើងដោយអគ្គនាយកដ្ឋានអន្តោប្រវេសន៍ សម្រាប់ការប្រឹក្សាយោបល់លើការងារទិដ្ឋាការអេឡិចត្រូនិកចូលមកព្រះរាជាណាចក្រកម្ពុជានោះឡើយ។
+[The GDI rejects the website https://www.cambodiaivisa.com/: it is not a legal website recognised by the Royal Government or created by the GDI for advice on electronic visas to enter Cambodia.]
+ជាថ្មីម្តងទៀត អគ្គនាយកដ្ឋានអន្តោប្រវេសន៍ ... សូមបញ្ជាក់ថា សម្រាប់ការបំពេញក្នុងប្រព័ន្ធអេឡិចត្រូនិកសលបត្រចូលព្រះរាជាណាចក្រកម្ពុជា តាមរយៈគេហទំព័រ "www.arrival.gov.kh ឬកម្មវិធី Cambodia e-Arrival"។ ដើម្បីទទួលបានព័ត៌មានផ្លូវការ សូមសាធារណជនជាតិ និងអន្តរជាតិ ចូលមើលព័ត៌មាននៅក្នុងគេហទំព័រផ្លូវការរបស់អគ្គនាយកដ្ឋានអន្តោប្រវេសន៍ដែលមានអាសយដ្ឋាន៖ www.immigration.gov.kh ឬសាកសួរព័ត៌មានដោយផ្ទាល់តាមរយៈលេខទូរស័ព្ទ Hot-line: (+855) 78 38 66 99។
+[The GDI confirms again that the electronic arrival card is filled in through www.arrival.gov.kh or the Cambodia e-Arrival app. For official information, see www.immigration.gov.kh or ask directly on the Hot-line (+855) 78 38 66 99.]
+Date line: ថ្ងៃពុធ ១០រោច ខែជេស្ឋ ឆ្នាំមមី អដ្ឋស័ក ព.ស.២៥៧០ រាជធានីភ្នំពេញ ថ្ងៃទី[hw]១០ ខែ[hw]មិថុនា ឆ្នាំ២០២៦ [Phnom Penh, (handwritten, read by K as) 10 June 2026; lunar: Wednesday 10th waning day of Jyestha, Year of the Horse, BE 2570] [GDI seal]
+Footer: ផ្លូវជាតិលេខ២១ ភូមិបឹងឈូក សង្កាត់និរោធ ខណ្ឌច្បារអំពៅ រាជធានីភ្នំពេញ ទូរស័ព្ទលេខ: ០៦៨ ៣៨៦ ៦៩៩/០៧៨ ៣៨៦ ៦៩៩/០៨៧ ៣៨៦ ៦៩៩
+[National Road No. 21, Boeung Chhouk village, Sangkat Nirouth, Khan Chbar Ampov, Phnom Penh; phone 068 386 699 / 078 386 699 / 087 386 699]
