@@ -4,6 +4,38 @@ How to go to Oman from Bangladesh, visa by visa, step by step, for Bangladesh pa
 
 RO is the Omani rial (1 rial is 1,000 baisa) [KA0003]; Tk is the Bangladeshi taka (1 lakh is Tk 100,000). The rial is pegged at RO 0.3845 to the US dollar, and Bangladesh Bank's rate on 19 October 2026 was Tk 123.65 to the dollar, so RO 1 is about Tk 322 [KA0002, KA0001]. Since 31 October 2023 Oman has issued no new visas to Bangladesh passport holders except in the exempt categories set out under Is it open now [R0024, R0021].
 
+## Start here
+
+If you have never been abroad, read this first. Every point is set out in full further down.
+
+### Can you go now?
+
+For most people, no. Since 31 October 2023 Oman has issued no new ordinary work visas to Bangladeshis [C0030]. Only family, professional (doctors, engineers, nurses, teachers, accountants), investor, official and some visitor visas are open, and in 2026 a quota of 5,000 farm workers was approved for Omani farmers to hire [C0032, C0045]. In August 2026 the Bangladesh Embassy in Muscat said Oman had made no announcement on recruiting Bangladeshi workers and that "free visa" claims were rumours [C0069]. Don't pay anyone who says Oman is open.
+
+### If your category is open: first steps
+
+1. Check that your category is really open (Work visa: company worker, Step 1) [C0032].
+2. Register on OEP, BMET's online system, at employee.oep.gov.bd (Step 2) [KB0001].
+3. Get an e-passport: Tk 4,025 for 5 years, regular delivery (Step 2) [KB0011].
+4. Book the Wafid medical, the Gulf states' health check, on wafid.com; the whole medical should cost no more than Tk 8,500 to 9,000 (Step 5) [R0092, R0086].
+5. Do the 3-day pre-departure orientation and get BMET clearance, the smart card, before you fly (Step 7) [KB0024, R0126].
+
+### What it costs
+
+The government's maximum for a man going to Oman is Tk 1,00,780; workers have paid Tk 1.8 to 3.5 lakh [C0105, C0092, C0050]. Pay only into the agency's own bank account and keep every receipt [R0139].
+
+### Three scams to watch for
+
+- *"Oman is open again" or a "free visa" for sale:* the Embassy calls these rumours [C0069].
+- *A visit visa you can "change to a work visa there":* Oman has banned this for everyone since 31 October 2023 [C0030, C0031].
+- *A medical centre that declares you unfit until you pay:* centres are reported to demand a bribe for a "fit" report [R0083].
+
+### Who to call
+
+- In Bangladesh: Probash-Bondhu, 16135, toll-free [R0127].
+- The Bangladesh Embassy in Muscat: Expatriate Service Cell on WhatsApp +968 91980621; for emergencies only, +968 91997852 [B0165, B0144].
+- In Oman: the Ministry of Labour, 80077000; police and ambulance, 9999 [R0153, B0257].
+
 ## Background
 
 ### In one minute
