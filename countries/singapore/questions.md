@@ -4,6 +4,7 @@ These are the questions the Singapore migration guide can't yet answer, grouped 
 
 ## Background
 
+- Which figure is right for remittance from Singapore: about US$1.5 billion a year, as the minister said, or under US$100 million a quarter, as Bangladesh Bank's July-September 2026 figures show?
 - Who is the man arrested in July 2026, and were the two companies that went bankrupt that month among his firms?
 - Which agencies are Singapore sending organisations in November 2026, and with which test centre and Singapore receiving agent?
 - The 2018 rules also let "other Recruitment Licence holders" put workers forward for Singapore: may any licensed agency send shipyard, process or services workers, who take no BCA test?

@@ -622,3 +622,4 @@ mom-mdw-appeal,https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign
 mom-dp-appeal-FAILED,https://www.mom.gov.sg/passes-and-permits/dependants-pass/appeal-against-a-rejected-application,2026-11-10,404,text/html; charset=utf-8,curl,
 mom-dp-appeal,https://www.mom.gov.sg/passes-and-permits/dependants-pass/appeal-a-rejected-application,2026-11-10,200,text/html; charset=utf-8,curl,mom-dp-appeal.html;mom-dp-appeal.md;mom-dp-appeal.txt
 cna-2022-prepaid-sim-registration,https://www.channelnewsasia.com/singapore/sim-card-prepaid-fraud-registration-imda-2494656,2026-11-10,200,text/html; charset=UTF-8,curl,cna-2022-prepaid-sim-registration.html;cna-2022-prepaid-sim-registration.md;cna-2022-prepaid-sim-registration.txt
+brac-bpl-investment,https://www.brac.net/solutions/investments/brac-probashbandhu-limited/,2026-11-08,200,text/html; charset=utf-8,curl,brac-bpl-investment.html;brac-bpl-investment.md
