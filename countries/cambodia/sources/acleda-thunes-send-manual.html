@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ACLEDA Bank Plc.</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="theme-color" content="#1B3351" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="google" content="notranslate" />
+
+<link rel="icon" type="image/png" sizes="180x180" href="../logo1.png" />
+<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="../logo1.png" />
+<link rel="shortcut icon" type="image/png" href="../logo1.png" />
+
+<script type="text/javascript" src="../jquery.js"></script>
+<script type="text/javascript" src="../jquery-ui.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="../material-icon.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../layout.css" />
+
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="1646745755426428" />
+<meta property="og:image" content="https://www.acledabank.com.kh/qr/img-acledatoanchet.jpg" />
+<meta property="og:url" content="https://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng" />
+<meta property="og:description" content="អេស៊ីលីដាម៉ូបាល - ធនាគារពិតស្ថិតនៅក្នុងដៃលោកអ្នក!" />
+
+<style>
+table{padding:0 20px; border-collapse:separate; border-spacing:0 10px;}
+table td{padding:20px; background-color:#e9ecef;}
+table tr.old td{background-color:#f8f8f8;}
+
+table tr td:first-child{border-radius:10px 0 0 10px;}
+table tr td:last-child{border-radius:0 10px 10px 0;}
+
+table td img{width:calc(100% - 4px); border-radius:18px; border:1px solid #3cf; padding:1px;}
+table td ol{margin:0; padding:0; list-style:none;}
+table td ol li{padding:7px 0;}
+.manual{width:100%; border:none; margin-top:10px;}
+.box{background-color:white; padding:12px; margin:10px 0; border-radius:10px;}
+.container{
+    position:relative;
+    height:0; margin:0 20px;
+    padding-bottom:53.3%;
+}
+.container iframe{
+    position:absolute;
+    top:0; border-radius:10px;
+    left:0;
+    width:100%;
+    height:100%;
+}
+.mask{background:url(../mask.png) repeat; width:100%; height:100%; position:fixed; top:0; left:0; display:none; z-index:101;}
+
+.share-content{display:none; z-index:500; position:fixed; bottom:0; left:0; width:100%;}
+.share-content div{max-width:500px; background-color:#fff; margin:0 10px 10px; padding:20px 10px 25px; text-align:center; border-radius:5px;}
+.share-content div a{display:inline-block; padding:0 8px; font-size:80%;}
+.share-content div a img{width:40px; vertical-align:middle; border:1px solid #fff; border-radius:40px; padding:2px;}
+.share-content div a:hover img{border:1px solid #1B3351;}
+
+.link{margin:0 0 30px; padding:0; text-align:center;}
+.link a{padding:9px 20px 9px 10px; background-color:green; color:#fff; border-radius:100px; text-transform:uppercase;}
+.link a:hover{background-color:#1b3351;}
+.link .material-icons{vertical-align:middle; padding-bottom:3px; font-size:20px; padding-right:15px;}
+
+.icon-sc{position:fixed; top:15px; z-index:100; font-family:FiraSans; background-color:#000; border-radius:100px; opacity:0.7; transition:0.3s linear;}
+.icon-sc a{-webkit-tap-highlight-color:transparent; color:#bbb;}
+.icon-sc a .material-icons{font-size:18px; padding:7px;}
+.icon-sc a:hover{color:#fff;}
+
+.photo{overflow-x:auto; padding:0 15px; margin:0 0 20px; white-space:nowrap; scrollbar-color:#888 transparance;}
+.photo img{height:400px; padding:1px; margin:0 5px; border:1px solid #e9ecef; display:inline-block; border-radius:10px;}
+.image{border-radius:10px; width:calc(100% - 40px); margin:0 20px;}
+
+@media (prefers-color-scheme: dark){
+table td{background-color:#1b2232; border-bottom:10px solid #091521;}
+table tr.old td{background-color:#122133;}
+.box{background-color:#091521;}
+
+.share-content div{background-color:#1b2232;}
+.share-content div a img{border:1px solid #999;}
+.share-content div a:hover img{border:1px solid #fff;}
+}
+</style>
+
+<style type="text/css" media="screen and (max-width:500px) and (min-width:1px)">
+table td img{border-radius:18px;}
+</style>
+
+<script>
+$(document).on("scroll", function(){
+	if($(document).scrollTop() > 90){
+		$(".top").addClass("sticky");
+		$(".icon-sc").addClass("sticky2");
+	}else{
+		$(".top").removeClass("sticky");
+		$(".icon-sc").removeClass("sticky2");
+	}
+});
+$(document).ready(function(){
+	$(".icon-share").click(function(event){
+		if(navigator.share){ //for mobile that support navigator.share
+			navigator.share({url:window.location.href});
+		}else{ //for computer and mobile that not support navigator.share
+			$(".share-content").fadeIn(300);
+			$(".mask").fadeIn(500);
+			event.stopPropagation();
+		}
+	});
+	
+	$("body").click(function(){
+		$(".mask").fadeOut(500);
+		$(".share-content").fadeOut(300);
+	});
+});
+</script><!-- Facebook meta -->
+<meta property="og:title" content="How to send money abroad via Thunes" />
+<!-- end Facebook meta -->
+</head>
+
+<body class="body-eng">
+<div class="mask"></div>
+
+<style>
+	.icon-sc{top:30px; opacity:1;}
+	.right1{right:55px;}
+	.right2{right:95px;}
+	
+	.sticky2{top:15px;}
+</style>
+<div class="top" style="text-align:left;">
+    <a href="../../kh/eng/ps_ebacledamobile"><img src="../logo2.png" class="logo" /></a>
+    <div class="shadow"></div>
+    
+    <a href="?l=khm&h=" class="language" style="left:auto; right:12px;"><img src="../flag-cambodia-square.jpg" style="width:24px; padding:2px; border-radius:100px;" /></a></div>
+<div class="content" style="max-width:700px; font-size:90%;">
+
+<div class="icon-sc right2"><a href="javascript:void(0);" title="Share" class="icon-share"><i class="material-icons">share</i></a></div><div class="icon-sc right1"><a href="../toanchet?l=eng&h=&bg=&anchor=transfer-int#transfer-int" title="Close"><i class="material-icons">close</i></a></div>
+<div class="share-content">
+<center>
+	<div>
+    	<i class="material-icons" style="float:right; cursor:pointer; margin-top:-8px;">close</i>
+    	<p style="margin:0; text-align:center; padding:0 0 15px;">Share this page on:</p>    	<a href="https://www.facebook.com/dialog/feed?app_id=354096142099591&display=page&link=http://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng&redirect_uri=http://www.facebook.com" target="_blank" title="Share on Facebook"><img src="https://www.acledabank.com.kh/kh/assets/layout/icon_facebook.png" /><br />Facebook</a> <!-- Share on Facebook -->
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng" target="_blank" title="Share on LinkedIn"><img src="https://www.acledabank.com.kh/kh/assets/layout/icon_linkedin.png" /><br />LinkedIn</a> <!-- Share on LinkedIn -->
+        <a href="http://twitter.com/intent/tweet?text=&url=http://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng" target="_blank" title="Share on Twitter"><img src="https://www.acledabank.com.kh/kh/assets/layout/icon_twitter.png" /><br />Twitter</a> <!-- Share on Twitter -->
+        <a href="https://t.me/share/url?url=http://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng" target="_blank" title="Share on Telegram"><img src="https://www.acledabank.com.kh/kh/assets/layout/icon_telegram.png" /><br />Telegram</a> <!-- Share on Telegram -->
+        <a href="https://social-plugins.line.me/lineit/share?url=http://www.acledabank.com.kh/qr/toanchet-manual/thunes-send?l=eng" target="_blank" title="Share on Line"><img src="https://www.acledabank.com.kh/kh/assets/layout/icon_line.png" /><br />Line</a> <!-- Share on Line -->
+    </div>
+</center>
+</div>
+<h1 style="text-align:center;"><img src="../../kh/assets/image/logo-thunes.jpg" style="width:140px; margin-bottom:30px;" /><br />How to send money abroad via Thunes</h1>
+<div class="container"><iframe src="https://www.youtube.com/embed/i938UyfNIG4?&autoplay=0&rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+<table cellpadding="0" cellspacing="0">
+	<tr>
+    	<td width="55%">
+        	<ol>
+            	<li>1. Open "<strong>ACLEDA mobile</strong>" app</li>
+                <li>2. Select "<strong>TRANSFERS</strong>" menu</li>
+            </ol>
+        </td>
+        <td style="padding-left:0;"><img src="acledamobile-home-eng.jpg" /></td>
+    </tr>
+    <tr class="old">
+    	<td>3. Use Touch ID, Facial, or enter PIN to login</td>
+        <td style="padding-left:0;"><img src="acledamobile-login-eng.jpg" /></td>
+    </tr>
+    <tr>
+    	<td>4. Select "<strong>INTERNATIONAL TRANSFER</strong>"</td>
+        <td style="padding-left:0;"><img src="acledamobile-transfer-eng.jpg" /></td>
+    </tr>
+    <tr class="old">
+    	<td>5. Choose "<strong>Thunes</strong>"</td>
+        <td style="padding-left:0;"><img src="acledamobile-transfer-int-eng.jpg" /></td>
+    </tr>
+    <tr>
+    	<td>
+        	<ol>
+            	<li>6. Fill in your transfer information correctly</li>
+                <li>7. Choose "<strong>NEXT</strong>" button</li>
+        	</ol>
+        </td>
+        <td style="padding-left:0;"><img src="thunes-send-1-eng.jpg" /></td>
+    </tr>
+    <tr class="old">
+    	<td>
+        	<ol>
+            	<li>8. Fill in the information of overseas recipient correctly</li>
+                <li>9. Choose "I have read and agree to the Terms and Conditions"</li>
+            </ol>
+        </td>
+        <td style="padding-left:0;"><img src="thunes-send-2-eng.jpg" /></td>
+    </tr>
+    <tr>
+    	<td>10. Select "<strong>OK</strong>" button</td>
+        <td style="padding-left:0;"><img src="thunes-send-3-eng.jpg" /></td>
+    </tr>
+    <tr class="old">
+    	<td>
+        	<ol>
+            	<li>11. Verify your transfer information</li>
+                <li>12. Choose "<strong>CONFIRM</strong>" button</li>
+        	</ol>
+        </td>
+        <td style="padding-left:0;"><img src="thunes-send-4-eng.jpg" /></td>
+    </tr>
+    <tr>
+    	<td>
+        	<ol>
+            	<li>13. Overseas money transfer was completed</li>
+                <li class="box">Please provide this transfer information to the recipient including withdrawal code if you send in cash</li>
+            </ol>
+        </td>
+        <td style="padding-left:0;"><img src="thunes-send-5-eng.jpg" /></td>
+    </tr>
+</table>
+
+</div><!-- end content -->
+
+<script>
+$(document).on("scroll", function(){
+	$("#showBotBtn .text").delay(5000).slideUp(700);
+});
+
+$(document).ready(function(){		   
+	//Chat Bot
+	$("#showBotBtn .robot").delay(100).fadeIn(700);
+	$("#showBotBtn .text").delay(500).slideDown(700);
+	
+	$('.close_chat').click(function(){
+		$(".chatbot").hide('slide',{direction:'right'},300);
+		$("#showBotBtn").css("display","block");
+	});
+	
+	$('#showBotBtn').click(function(event){
+		$(".chatbot").show('slide',{direction:'right'},300);
+		$("#showBotBtn").css("display","none");
+	});
+	//End Chat Bot
+});
+</script>
+
+<style>
+/* Chatbot */
+#showBotBtn{position:fixed; right:11px; bottom:8px; text-align:right; cursor:pointer; z-index:100; width:160px;}
+#showBotBtn .robot{cursor:pointer; width:55px; z-index:1; position:absolute; bottom:0; right:0; display:none;}
+#showBotBtn .text{color:#fff; position:absolute; bottom:9px; padding:5px 8px; border-radius:3px; right:60px; background-color:#1b3351; z-index:0; display:none; line-height:140%; font:70% FiraSans;}
+
+.chatbot{height:100vh; width:100%; max-width:400px; z-index:200; display:none; position:fixed; right:0; bottom:0;}
+.chatbot iframe{width:100%; height:100%; border:none; background:#081424 url(../../kh/assets/layout/loading.svg) no-repeat center center; background-size:40px;}
+.chatbot .close_chat{position:fixed; top:14px; padding:5px; right:10px; z-index:201; color:#fff; cursor:pointer;}
+.chatbot .close_chat:hover{color:#c29a39;}
+/* End Chatbot */
+</style>
+
+<!-- Start of  Engage Bot code -->
+<div class="chatbot">
+	<iframe src="https://dgdiot.acledabank.com.kh/web-chat" frameborder="0" allowfullscreen></iframe> 
+	<i class="material-icons close_chat" title="Close">close</i>
+</div>
+<div id="showBotBtn">
+	<img src="../../kh/assets/layout/robot_new.gif" class="robot" />
+    <div class="text">Chat with<br />AC Bot</div>
+</div>
+<!-- End of Engage Bot code -->
+
+        <div style="background-color:#1B3351;">
+        <div class="contact" style="max-width:660px;">
+            <div>Call Center (24/7):</div>
+            <i class="material-icons" style="vertical-align:middle; padding:0 5px 3px 0; font-size:20px;">phone_in_talk</i><a href="tel:+85523994444">023 994 444</a>, <a href="tel:+85515999233">015 999 233</a>
+            <br /><i class="material-icons" style="vertical-align:middle; padding:0 5px 3px 0; font-size:20px;">email</i><a href="mailto:inquiry@acledabank.com.kh">inquiry@acledabank.com.kh</a>
+            <br /><i class="material-icons" style="vertical-align:middle; padding:0 5px 3px 0; font-size:20px;">web</i><a href="http://www.acledabank.com.kh" target="_blank">www.acledabank.com.kh</a>
+        </div><!-- end contact -->
+        </div>
+</body><script type="text/javascript">var _0xcaad=["indexOf","; path=/","cookie","=","x-bni-ja","stack","phantomjs","plugins","length","onmousemove"];var err;function indexOfString(_0x1ce0x3,_0x1ce0x4){return _0x1ce0x3[_0xcaad[0]](_0x1ce0x4)}try{null[0]()}catch(e){err=e};function setCookie(_0x1ce0x6){var _0x1ce0x7=232749415;var _0x1ce0x8=1393540948;var _0x1ce0x9=_0x1ce0x7+_0x1ce0x8+_0xcaad[1];document[_0xcaad[2]]=_0x1ce0x6+_0xcaad[3]+_0x1ce0x9}function set_answer_cookie(){setCookie(_0xcaad[4])}function set_answer_cookie_1(){set_answer_cookie()}if((indexOfString(err[_0xcaad[5]],_0xcaad[6])> -1)||(!(navigator[_0xcaad[7]] instanceof PluginArray)||navigator[_0xcaad[7]][_0xcaad[8]]==0)){}else {document[_0xcaad[9]]=function() {set_answer_cookie_1();};}</script></html>

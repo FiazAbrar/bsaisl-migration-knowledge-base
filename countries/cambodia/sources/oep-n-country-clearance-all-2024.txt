@@ -1,0 +1,129 @@
+# OEP country-clearance report, all countries, 2024-01-01 to 2024-12-31 (no country filter, length 300), queried 2026-11-10
+totalEmployee (all countries): 1010908
+rank 1 | Saudi Arabia | total 627811
+rank 2 | Malaysia | total 93562
+rank 3 | Qatar | total 74465
+rank 4 | Singapore | total 56847
+rank 5 | United Arab Emirates (UAE) | total 47158
+rank 6 | Kuwait | total 33015
+rank 7 | Jordan | total 15410
+rank 8 | Kyrgyzstan | total 12747
+rank 9 | Maldives | total 7020
+rank 10 | Lebanon | total 4230
+rank 11 | Croatia | total 3937
+rank 12 | United Kingdom (UK) | total 3547
+rank 13 | Romania | total 3546
+rank 14 | Brunei | total 3058
+rank 15 | South Korea | total 3022
+rank 16 | Fiji | total 1879
+rank 17 | Portugal | total 1517
+rank 18 | Russian Federation | total 1395
+rank 19 | Serbia | total 1284
+rank 20 | Italy | total 1162
+rank 21 | Japan | total 1088
+rank 22 | Cyprus | total 1073
+rank 23 | Cambodia | total 929
+rank 24 | Seychelles | total 871
+rank 25 | Libya | total 782
+rank 26 | Brazil | total 709
+rank 27 | Kosovo | total 549
+rank 28 | Canada | total 534
+rank 29 | North Macedonia (formerly Macedonia) | total 530
+rank 30 | Bulgaria | total 463
+rank 31 | Laos | total 423
+rank 32 | Malta | total 421
+rank 33 | Greece | total 408
+rank 34 | Papua New Guinea | total 366
+rank 35 | Oman | total 357
+rank 36 | Azerbaijan | total 347
+rank 37 | Hungary | total 320
+rank 38 | Lithuania | total 299
+rank 39 | Slovenia | total 288
+rank 40 | Palau | total 266
+rank 41 | Hong Kong | total 242
+rank 42 | Bosnia and Herzegovina | total 239
+rank 43 | Uzbekistan | total 234
+rank 44 | Albania | total 231
+rank 45 | Vietnam | total 221
+rank 46 | Mozambique | total 218
+rank 47 | Poland | total 203
+rank 48 | Somalia | total 169
+rank 49 | New Zealand | total 159
+rank 50 | China | total 101
+rank 51 | Algeria | total 75
+rank 52 | Belarus | total 74
+rank 53 | Iraq | total 68
+rank 54 | Belize | total 65
+rank 55 | Nigeria | total 60
+rank 56 | Sri Lanka | total 58
+rank 57 | South Sudan | total 55
+rank 58 | Ireland | total 52
+rank 59 | Congo | total 48
+rank 60 | Yemen | total 40
+rank 61 | Ethiopia | total 38
+rank 62 | Djibouti | total 37
+rank 63 | Czechia | total 37
+rank 64 | Finland | total 35
+rank 65 | Angola | total 32
+rank 66 | Latvia | total 32
+rank 67 | Iran | total 29
+rank 68 | Solomon Islands | total 27
+rank 69 | Germany | total 24
+rank 70 | Georgia | total 23
+rank 71 | Australia | total 22
+rank 72 | Equatorial Guinea | total 22
+rank 73 | Denmark | total 21
+rank 74 | Cote d'Ivoire | total 21
+rank 75 | Guyana | total 19
+rank 76 | Moldova | total 16
+rank 77 | Madagascar | total 16
+rank 78 | Togo | total 16
+rank 79 | Netherlands | total 15
+rank 80 | Indonesia | total 13
+rank 81 | Macau | total 12
+rank 82 | Eswatini (formerly Swaziland) | total 9
+rank 83 | Botswana | total 8
+rank 84 | Sweden | total 7
+rank 85 | Mauritius | total 7
+rank 86 | Belgium | total 7
+rank 87 | Bhutan | total 7
+rank 88 | Austria | total 7
+rank 89 | Montenegro | total 7
+rank 90 | Cameroon | total 7
+rank 91 | Turkey | total 6
+rank 92 | Pakistan | total 6
+rank 93 | Gabon | total 5
+rank 94 | United States of America (USA) | total 5
+rank 95 | Vanuatu | total 5
+rank 96 | Kenya | total 4
+rank 97 | Cook Islands | total 4
+rank 98 | Samoa | total 4
+rank 99 | Iceland | total 4
+rank 100 | Tonga | total 3
+rank 101 | Micronesia | total 3
+rank 102 | Mexico | total 2
+rank 103 | Senegal | total 2
+rank 104 | India | total 2
+rank 105 | Sierra Leone | total 2
+rank 106 | Guinea | total 2
+rank 107 | France | total 2
+rank 108 | Chad | total 2
+rank 109 | Bolivia | total 2
+rank 110 | Nauru | total 2
+rank 111 | Bermuda | total 2
+rank 112 | Zambia | total 2
+rank 113 | Norway | total 2
+rank 114 | Kazakhstan | total 2
+rank 115 | Afghanistan | total 1
+rank 116 | Armenia | total 1
+rank 117 | Turks & Caicos Islands | total 1
+rank 118 | Chile | total 1
+rank 119 | Estonia | total 1
+rank 120 | Panama | total 1
+rank 121 | Bahrain | total 1
+rank 122 | Taiwan | total 1
+rank 123 | Thailand | total 1
+rank 124 | Syria | total 1
+rank 125 | Spain | total 1
+rank 126 | Tunisia | total 1
+rank 127 | Morocco | total 1

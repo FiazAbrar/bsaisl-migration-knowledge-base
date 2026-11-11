@@ -1,0 +1,145 @@
+PAGE META: og:updated_time: 2024-02-14T05:29:50+00:00
+
+![](%20)
+
+- [Home](https://seap.nationalityforall.org)
+- [Statelessness Overview](#)
+- [Southeast Asia](https://seap.nationalityforall.org/region/regional-overview/southeast-asia/)
+- Cambodia
+
+![ flag](%20https://flagcdn.com/kh.svg)
+
+# Cambodia
+
+Last updated : February 14, 2024
+
+[Compare with other countries](https://seap.nationalityforall.org/compare-countries/?theme=laws&country_1=cambodia)
+
+# Overview
+
+#  Law   
+
+![law_background_image](https://seap.nationalityforall.org/wp-content/themes/seap/assets/images/theme-law.png)
+
+## 1. Citizenship Law
+
+### a. *Jus Sanguinis and Jus Soli* Provisions
+
+Cambodia’s citizenship legislation contains both *jus sanguinis* and *jus soli* citizenship provisions for individuals to gain “Khmer nationality”. Regardless of the place of birth, a child born to a citizen parent automatically obtains Khmer citizenship. Children born in Cambodia to parents who are both foreigners and were both born and living legally in Cambodia gain Khmer nationality/citizenship through jus soli provisions. Cambodia’s citizenship legislation does not include a definition of a stateless person nor does it specifically mention statelessness.
+
+*Cambodia’s citizenship legislation contains both jus sanguinis and jus soli citizenship provisions for individuals to gain “Khmer nationality”.*
+
+### b. Naturalized Citizenship
+
+Foreigners may apply for Khmer citizenship if they have been continuously residing in Cambodia with a residence card for at least seven years, have never been convicted of a felony or misdemeanor and can speak Khmer, among other requirements. There is an expedited process available to foreigners who were born in Cambodia as well as foreigners investing in or donating to Cambodia. There is no simplified or expedited procedure available to stateless persons or refugees.
+
+*There is an expedited process available to foreigners who were born in Cambodia as well as foreigners investing in or donating to Cambodia.*
+
+### c. Dual Citizenship
+
+While dual citizenship is recognized in Cambodia, recent constitutional amendments have made dual citizens ineligible for top posts in the country, including prime minister.
+
+## 2. Treaty Ratification Status
+
+Cambodia has comparably high rates of treaty accession compared to other states in Southeast Asia. Cambodia has ratified the 1951 Refugee Convention and its 1967 Protocol, the ICCPR, ICESCR, ICERD, CRC, and CEDAW with no relevant reservations. It has not ratified the two Statelessness Conventions, despite accepting to do so in 2019 during its third UPR cycle.
+
+In its 2020 concluding observations, the CERD Committee expressed concerns regarding the lack of legal safeguards for children in Cambodia who would otherwise be stateless. Article 5 of ICERD, which Cambodia is obligated to, protects the right to nationality. The Committee also raised concerns over the lack of identity documents for Khmer Krom, who are often denied identity documents or forced to record a name and place of birth other than their true name and place of birth on identity documents. This has led to the community facing discrimination and an inability to access land, employment, education, health care and basic services. The Committee recommended that Cambodia ensure that the National Strategic Plan of Identification (2017-2026) amends the lack of access to identity documents and registration for the Khmer Krom in particular. Concerns over barriers to accessing identity documents by Khmer Krom and ethnic Vietnamese women as well as birth certificates for their children were also included in recent concluding observations by the CEDAW Committee. Concluding observations by the CRC Committee in 2022 recommended that Cambodia expand its electronic registration system, “prohibit the practice of informal fees for the issuance of birth certificates”, and “ensure that all children, including Khmer Krom, ethnic Vietnamese and migrant children, have access to birth registration and identity documents”. As a party to the CRC and CERD, Cambodia is obligated to ensure that every birth is registered immediately, without discrimination, and that no child is left stateless.
+
+Status of Accession of International Human Rights Treaties in Southeast Asia Country Stateless 1 Stateless 2 Refugee ICCPR ICESCR ICERD
+
+| Country      | Stateless 1 | Stateless 2 | Refugee | ICCPR | ICESCR | ICERD | CRC | CEDAW |
+|--------------|-------------|-------------|---------|-------|--------|-------|-----|-------|
+|  Cambodia    |             |             |         |       |        |       |     |       |
+
+![icon](https://seap.nationalityforall.org/wp-content/themes/seap/assets/icons/allow.svg)
+
+Signifies that the country is a party to the convention
+
+Stateless 1 – 1954 Convention relating to the Status of Stateless Persons
+
+![icon](https://seap.nationalityforall.org/wp-content/themes/seap/assets/icons/block.svg)
+
+Signifies that the country is not a party to the convention
+
+Stateless 2 – 1961 Convention on the Reduction of Statelessness
+
+#  Population   
+
+![population_background_image](%20https://seap.nationalityforall.org/wp-content/themes/seap/assets/images/theme-population.png)
+
+## 1. Reported Stateless Persons
+
+In recent UNHCR Global Trends reports, Cambodia reported 75,000 stateless persons in both 2021 and 2022. This is a 17,000 person increase from the 57,444 reported stateless persons in both 2019 and 2020. The majority of this population are ethnic Vietnamese long- term residents. With a wide range of differing estimates for the stateless population in Cambodia, data in the country is unreliable.
+
+While the Cambodian government has since 2019 reported stateless persons to UNHCR (with the reported population increasing from 57,444 in 2019 to 75,000 in 2021 and 2022), the true size of the population of ethnic Vietnamese in Cambodia without citizenship has been estimated by CSOs to be as high as between 400,000- 700,000 persons. The complex history of colonization, war and tensions between Vietnam and Cambodia has led to ethnic Vietnamese residents in Cambodia facing discrimination, social exclusion and denial of citizenship, despite many being entitled to nationality under the letter of the law. Largely due to the French colonial period which influenced Cambodia’s early formation of the concept of nationality based on “cultural identity, historical heritage and religion”, ethnic Vietnamese communities in Cambodia were left with neither Cambodian nor Vietnamese nationality. Today, much of the population is either stateless (especially for long- term residents who have resided in Cambodia since before 1975 when the Khmer Rouge regime took over and mass deportations and migrations occurred) or at risk of statelessness. Ethnic Vietnamese constitute the largest ethnic minority in Cambodia and experience a severe lack of access to birth registration. The ethnic Vietnamese population in Cambodia constitutes a variety of groups, including ethnic Vietnamese married to Cambodians, Cambodians of Vietnamese origin, recent immigrants from Vietnam to Cambodia and descendants of ethnic Vietnamese with intergenerational links to Cambodia. Ethnic Vietnamese with intergenerational links to Cambodia are particularly at risk of denial of identity documentation and Khmer citizenship. While some of this population has gained identity documentation and been ‘integrated’ into society, a large number of ethnic Vietnamese living in Cambodia remain unregistered and reside within floating villages on the Tonle Sap Lake. A study in 2016 found that of 414 Vietnamese surveyed in three provinces, only 5% had a birth certificate. Other studies have estimated that 90% of the ethnic Vietnamese population in Kampong- Chhnang province do not have a birth certificate and/or identity card.
+
+Reported stateless persons to the UNHCR
+
+| Country | 2019 (year start) | 2020 (year end) | 2021 (year end) | 2022 (year end) |
+|----|----|----|----|----|
+|    Cambodia |    57,444 |    57,444 |    75,000 |    75,000 |
+
+**Source:** UNHCR, Global Trends: Forced Displacement from 2019-2022.
+
+## 2. Persons at Risk of Statelessness
+
+Members of the Khmer Krom ethnic group – ethnic Khmer originating from Southern Vietnam – in particular also face barriers to obtaining birth registration for children and identity documents for adults, with both the CRC and CEDAW calling on the government of Cambodia to address the barriers that they face. There have been reports of authorities delaying the processing of applications for citizenship coming from members of this community as well as “incidents of restrictions by local authorities on the rights of freedom of expression and association”.
+
+#  Causes of Statelessness   
+
+![statelessness_background_image](https://seap.nationalityforall.org/wp-content/themes/seap/assets/images/theme-statelessness.png)
+
+## 1. Lack of Legal Safeguards Against Childhood Statelessness
+
+A newborn child found in Cambodia with unknown parents will be considered to have been born in Cambodia, and therefore, automatically acquires Khmer citizenship by birth. It is important to note that the conception of ‘Khmer citizenship’ in Cambodia is based on a historical and continual connection between ethnicity and citizenship. The jus soli provisions of Cambodian citizenship law may provide protection to children born to stateless parents in limited circumstances where those parents were born and resided legally in Cambodia and were considered ‘foreigners’. While this provision may provide some protection from inter-generational statelessness in Cambodia, its scope is limited and implementation tends to be absent in practice. While many Vietnamese long-term residents should technically be able to resolve their status under this provision, the inability to provide documentary proof barres them from attaining Cambodian citizenship. Children born to parents who themselves were born outside of the country or who were born within the country but are considered to be illegally residing in the country will not be able to gain citizenship.
+
+## 2. Citizenship Stripping
+
+The lack of a birth certificate bars members of the ethnic Vietnamese community with intergenerational ties to Cambodia from accessing a wide range of basic services and rights, including access to citizenship. In 2014, the government implemented a ‘foreigner census’ which was intended to identify and deport people illegally residing in the country, which resulted in over 10,000 ethnic Vietnamese being deported to Vietnam. Another national registration campaign was implemented after this, intended to issue permanent residence cards, but targeted Vietnamese communities. This campaign issued new residence cards which are only valid for two years for a fee equating to \$60 USD, which identified the cardholders as ‘immigrant aliens’ with ‘Vietnamese nationality’. This alludes to the fact that the government of Cambodia does not view these ethnic Vietnamese residents as Khmer nationals, but rather ‘immigrants’ of Vietnamese nationality. However, much of this community has never lived or even been to Vietnam. Despite this, the marginalization that members of the community have experienced in Cambodia have forced some to immigrate to Vietnam in hopes of a better life.
+
+Later on, documentation that this community did hold was “systematically confiscated” by the government, stating that the documents were ‘irregular’, which the government identified were held by around 70,000 Vietnamese ‘foreigners’. An official of the Ministry of Interior stated in relation to this that the government was simply taking away Cambodian documents from Vietnamese citizens. The inability to provide documentary proof of their eligibility for Cambodian citizenship remains the primary reason this population continues to be subjected to statelessness and systematically denied basic rights and services. Further, widespread evictions of floating houses over rivers and lakes have disproportionately affected Vietnamese residents in Cambodia, with many being forcibly relocated to housing sites with grave sanitation issues.
+
+## 3. Administrative Barriers
+
+Birth registration rates within Cambodia are reported at 92% in 2022. While long- term Vietnamese residents who have resided in Cambodia prior to 1975 may be entitled to nationality under the letter of the law, discriminatory administrative processes have led to the denial of identity documents, birth registration and any recognition of their status as citizens, leading to an inability to provide required proof of identity and other documentation. Additionally, although the citizenship law of Cambodia — in providing children born to foreign parents who themselves were born in Cambodia access to citizenship — may on paper provide an avenue for children born to ethnic Vietnamese who have been denied citizenship, in practice citizenship continues to be denied. Children born to ethnic Vietnamese communities face frequent barriers to birth registration, disproportionately unlikely to have birth registration and, in turn, access to citizenship. Finally, long-term ethnic Vietnamese residents who may seek citizenship through naturalization also face barriers in meeting residency requirements due to their frequent lack of identity documents to prove their status, language requirements and governmental discretion.
+
+In June 2023, Cambodia adopted a new law on Civil Registration, Vital Statistics, and Identity, planned to enter into force in 2024, which is intended to ensure universal birth registration. The new law is also intended to remove previous barriers to registration as well as establish a universal right to an identity card. The success of this law will depend largely on implementation, for which there is actively monitoring and advocacy being undertaken by stakeholders and experts. This contributes to the National Strategic Plan of Identification (2017-2026) which Cambodia implemented to increase the birth registration rate and achieve its long-term goal of ensuring that everyone in the country has a legal identity.
+
+- [ Overview](#region-single)
+- [ Law](#law)
+- [ Population](#population)
+- [ Cause](#causes-of-statelessness) [ Causes of Statelessness](#causes-of-statelessness)
+
+![Footer design](https://seap.nationalityforall.org/wp-content/themes/seap/assets/images/bg-img.png)
+
+![Footer Background Image](https://seap.nationalityforall.org/wp-content/themes/seap/assets/images/footer-background.png)
+
+Comprehensive Mapping of Statelessness in the Asia Pacific
+
+[](/introduction-to-digital-id/)
+
+Explore SEAP III Edition
+
+[Download SEAP II Edition ](https://nationalityforall.org/wp-content/uploads/2024/03/SEAP-Report-2024Detailed-Version.pdf) [Download SEAP I Edition ](https://nationalityforall.org/wp-content/uploads/2024/03/SEAP-2023-First-Edition-1.pdf)
+
+Quick Links
+
+[Glossary](/glossary)
+
+[Stakeholders](/stakeholder)
+
+[UN Body Submissions](/report)
+
+[News](/news)
+
+[Acknowledgments](/acknowledgments)
+
+Contact Us:
+
+Email: [\[email protected\]](/cdn-cgi/l/email-protection#10797e767f507e7164797f7e717c796469767f62717c7c3e7f6277)
+
+© 2026 Nationality For All. All rights reserved.
+
+[Terms & Conditions](/terms-conditions)
+
+[Privacy Policy](/privacy-policy)

@@ -1,0 +1,964 @@
+<style>
+    select,
+    select option {
+        text-transform: uppercase;
+        -webkit-appearance: none;
+    }
+</style>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="csrf-token" content="UL9J2VK1V9vU97pfwvshEgB0NMaKHuQuat6VPurf" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0, user-scalable=no">
+    <meta name="feature-policy" content="geolocation 'self'; microphone 'self'; camera 'self'; vibrate 'none';">
+    <title>
+                        Hotline Scam Reporting 24/7            </title>
+        <meta property="og:title" content="ដាក់ពាក្យបណ្ដឹង" />
+    <meta property="og:url" content="https://hotline.police.gov.kh">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://hotline.police.gov.kh/images/logo/meta.png" />
+    <meta property="og:image:alt" content="Hotline Scam Reporting 24/7">
+    <meta property="og:image:width" content="640" />
+    <meta property="og:image:height" content="640" />
+    <meta property="og:site_name" content="Hotline Scam Reporting 24/7">
+    <meta name="keywords"
+        content="Hotline Scam Reporting 24/7,
+            ">
+    <meta property="og:description" content="General Commissariat Of National Police is where people can submit form for reporting all type of complaints to any case happened.">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="Hotline Scam Reporting 24/7">
+    <meta property="twitter:creator" content="Hotline Scam Reporting 24/7">
+    <meta property="twitter:title" content="ដាក់ពាក្យបណ្ដឹង">
+    <meta property="twitter:description" content="General Commissariat Of National Police is where people can submit form for reporting all type of complaints to any case happened.">
+    <meta property="twitter:image" content="https://hotline.police.gov.kh/images/logo/meta.png">
+    <meta property="twitter:image:alt" content="Hotline Scam Reporting 24/7">
+    <meta property="twitter:image:width" content="640">
+    <meta property="twitter:image:height" content="640">
+    <meta property="twitter:domain" content="https://hotline.police.gov.kh">
+
+    <meta name="description" content="General Commissariat Of National Police is where people can submit form for reporting all type of complaints to any case happened.">
+    <meta name="keywords"
+        content="Hotline Scam Reporting 24/7, ">
+    <meta name="author" content="Hotline Scam Reporting 24/7">
+    <link rel="shortcut icon" href="https://hotline.police.gov.kh/images/logo/navigator.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+    <link rel="preload" as="style" href="https://hotline.police.gov.kh/build/assets/app.ffb59aa8.css" /><link rel="preload" as="style" href="https://hotline.police.gov.kh/build/assets/anime.e6eeffea.css" /><link rel="preload" as="style" href="https://hotline.police.gov.kh/build/assets/app.7717e049.css" /><link rel="modulepreload" href="https://hotline.police.gov.kh/build/assets/app.faf7447f.js" /><link rel="modulepreload" href="https://hotline.police.gov.kh/build/assets/anime.es.822f1feb.js" /><link rel="modulepreload" href="https://hotline.police.gov.kh/build/assets/header.4dd9c866.js" /><link rel="modulepreload" href="https://hotline.police.gov.kh/build/assets/jquery.nice-select.min.af2d21a7.js" /><link rel="stylesheet" href="https://hotline.police.gov.kh/build/assets/app.ffb59aa8.css" /><link rel="stylesheet" href="https://hotline.police.gov.kh/build/assets/anime.e6eeffea.css" /><link rel="stylesheet" href="https://hotline.police.gov.kh/build/assets/app.7717e049.css" /><script type="module" src="https://hotline.police.gov.kh/build/assets/app.faf7447f.js"></script><script type="module" src="https://hotline.police.gov.kh/build/assets/header.4dd9c866.js"></script><script type="module" src="https://hotline.police.gov.kh/build/assets/jquery.nice-select.min.af2d21a7.js"></script>    <script src="https://www.google.com/recaptcha/api.js?render=6LdrnXorAAAAAOKO0bvuE6SJ50EAky335g76QV0b"></script>
+</head>
+
+<body>
+
+    
+    <!-- navbar -->
+    
+
+    <!-- content -->
+    <section>
+        
+    <!-- Landing page -->
+    <div class="w-full bg-[#0e2c92] z-[99999]">
+        <div class="container mx-auto">
+            <div class="grid place-content-center place-items-center">
+                <img src="https://hotline.police.gov.kh/images/logo/logo.png" class="lg:h-32 h-20" alt="logo">
+                <h1 class="text-white text-xl m-0 my-2 lg:text-2xl font-normal" style="font-family: 'Poppins', sans-serif, 'Moul', serif;">
+                    ដាក់ពាក្យបណ្ដឹង                </h1>
+            </div>
+        </div>
+    </div>
+
+    <section x-data="form">
+        <!-- alert message -->
+        <div class="w-full text-white sticky top-0 z-[99999] showAlert" x-cloak x-show="showAlert"
+            :class="{
+                'bg-red-500': showAlertStatus == 'error',
+                'bg-green-500': showAlertStatus ==
+                    'success',
+                '!block': showAlert
+            }">
+            <div class="flex items-center justify-between px-6 py-4 mx-auto">
+                <div class="flex items-center">
+                    <svg viewBox="0 0 40 40" class="w-6 h-6 fill-current">
+                        <path
+                            d="M20 3.36667C10.8167 3.36667 3.3667 10.8167 3.3667 20C3.3667 29.1833 10.8167 36.6333 20 36.6333C29.1834 36.6333 36.6334 29.1833 36.6334 20C36.6334 10.8167 29.1834 3.36667 20 3.36667ZM19.1334 33.3333V22.9H13.3334L21.6667 6.66667V17.1H27.25L19.1334 33.3333Z">
+                        </path>
+                    </svg>
+
+                    <p class="mx-3" x-text="showAlertMessage"></p>
+                </div>
+
+                <button x-on:click="showAlert = false"
+                    class="p-1 transition-colors duration-300 border-none transform rounded-md hover:bg-opacity-25 hover:bg-gray-600 focus:outline-none">
+                    <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 18L18 6M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="bg-white mx-auto max-w-screen-xl">
+
+            <div class="flex justify-center mt-6 gap-2">
+                <a href="https://hotline.police.gov.kh"
+                    class="block text-center w-[230px] border-2 border-solid border-[#2260ff] text-white bg-[#0e2c92]
+                        rounded-[0.5rem] px-3 py-2 no-underline transition whitespace-normal break-words">
+                    <span class="leading-normal">ដាក់ពាក្យបណ្ដឹង</span>
+                </a>
+
+               
+                <a href="https://hotline.police.gov.kh?type=spam" 
+                    class="block text-center w-[230px] border-2 border-solid border-[#2260ff] text-[#2260ff] hover:text-[#0e2c92] 
+                        rounded-[0.5rem] px-3 py-2 no-underline transition whitespace-normal break-words"> 
+                    <span class="leading-normal">សេចក្ដីរាយការណ៍</span> 
+                </a>
+            </div>
+
+            <!-- switch lang -->
+            <div class="switch-lang-content pt-10">
+    <div class="switch-lang shadow-custom !bg-[#0e2c92] z-[99999]">
+                    <a class="switch-lang-item active" href="https://hotline.police.gov.kh/switch-lang/km">
+                <img src="https://hotline.police.gov.kh/images/flag-khmer.png" alt="">
+                <i data-feather="check"></i>
+            </a>
+                <a class="switch-lang-item" href="https://hotline.police.gov.kh/switch-lang/en">
+            <img src="https://hotline.police.gov.kh/images/flag-english.png" alt="">
+            <i data-feather="check"></i>
+        </a>
+                    <a class="switch-lang-item" href="https://hotline.police.gov.kh/switch-lang/zh">
+                <img src="https://hotline.police.gov.kh/images/flag-china.png" alt="">
+                <i data-feather="check"></i>
+            </a>
+            <a class="switch-lang-item" href="https://hotline.police.gov.kh/switch-lang/vi">
+                <img src="https://hotline.police.gov.kh/images/flag-vi.jpeg" alt="">
+                <i data-feather="check"></i>
+            </a>
+            </div>
+</div>
+
+            <!-- start download form -->
+            <div class="mx-auto py-10 max-sl:px-2">
+                <div class="text-center">
+                    <span
+                        class="inline-block bg-red-500 px-3 py-px text-xs tracking-wider text-white uppercase rounded-full">
+                        ទាញយក                    </span>
+                    
+                    <h2 class="m-0 pt-1 lg:text-xl text-[17px] font-bold tracking-tight text-gray-900 leading-9">
+                        ទាញយកឯកសារសម្រាប់បំពេញពាក្យបណ្ដឹង                    </h2>
+                    
+                    <p class="text-base text-gray-700 m-0 leading-9 py-1">
+                        លោកអ្នកអាចទាញយកឯកសារសម្រាប់បំពេញពាក្យបណ្ដឹង ដោយចុចលើប៊ូតុងខាងក្រោមនេះ                    </p>
+                    <a href="https://hotline.police.gov.kh/files/complaint-form-khmer.pdf" target="_blank"
+                        class="inline-flex items-center justify-center px-6 py-3 font-medium tracking-wide bg-white text-[16px] text-[#0e2c92] transition duration-200 rounded-full shadow-custom no-underline focus:shadow-outline focus:outline-none">
+                        <i data-feather="download" class="h-5 w-5 mr-2"></i>
+                        ទាញយកឥឡូវនេះ                    </a>
+                </div>
+            </div>
+
+            <!-- end download form -->
+
+            <!-- big font "OR" -->
+            <div class="max-w-xs m-auto flex items-center justify-center pb-10 pt-5">
+                <div class="w-full h-px bg-gray-300"></div>
+                <div class="relative px-6 text-sm text-gray-500 uppercase font-semibold tracking-wider">
+                    <span class="absolute inset-0 flex items-center justify-center">
+                        ឬ                    </span>
+                </div>
+                <div class="w-full h-px bg-gray-300"></div>
+            </div>
+
+
+            <div class="px-4 text-center">
+                <h1 class="lg:text-xl text-[17px] mb-2 leading-9">
+                    សូមបញ្ចូលព័ត៌មានខាងក្រោមសម្រាប់បំពេញពាក្យបណ្ដឹង                </h1>
+                
+            </div>
+            <form action="https://hotline.police.gov.kh/submit" method="POST" x-form="submit" enctype="multipart/form-data">
+                <input type="hidden" name="_token" value="UL9J2VK1V9vU97pfwvshEgB0NMaKHuQuat6VPurf">                <div class="grid grid-cols-1 max-w-screen-sm m-auto">
+                    <div class="rounded-lg p-4 lg:col-span-6 lg:py-4 lg:px-12">
+                        <input type="hidden" name="type" value="default">
+                        <div class="space-y-3">
+                            <div>
+                                <label for="name" class="text-gray-800 font-semibold text-[16px]">
+                                    ករណី                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="relative w-full">
+                                    <select name="case_type_id" class="select-option capitalize"
+                                        :class="{ '!border-red-500 mb-1': validate?.case_type_id }" :disabled="loading">
+                                        <option value="" class="capitalize">ជ្រើសរើសករណី</option>
+                                                                                    <option value="6">
+                                                ឆបោកបោកតាមរយៈការវិនិយោគ - Pig Butchering
+                                            </option>
+                                                                                    <option value="5">
+                                                ឆបោកតាមសារអេឡិចត្រូនិច - Business Email Compromise
+                                            </option>
+                                                                                    <option value="4">
+                                                ឆបោកតាមរយៈប្រាក់កម្ចីខុសច្បាប់ - Illegal Loan Scam
+                                            </option>
+                                                                                    <option value="3">
+                                                ឆបោកតាមបណ្តាញទំនាក់ទំនងសង្គម - Social Media Fraud
+                                            </option>
+                                                                                    <option value="2">
+                                                ឆបោកតាមប្រព័ន្ធទូរគមនាគមន៍ - Spoofing
+                                            </option>
+                                                                                    <option value="1">
+                                                ឆបោកតាមប្រព័ន្ធធនាគារ -Banking Scam
+                                            </option>
+                                                                            </select>
+                                    <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2">
+                                        <i data-feather="chevron-down" class="h-5 w-5 text-gray-400"></i>
+                                    </div>
+                                </div>
+                                <span class="text-xs text-red-500 " x-show="validate?.case_type_id"
+                                    x-text="validate?.case_type_id">
+                            </div>
+                            <div>
+                                <label for="name" class="text-gray-800 font-semibold text-[16px]">
+                                    អង្គហេតុ ឬដំណើររឿង                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <textarea name="reason_complaint" class="input-normal mt-2"
+                                    :class="{ '!border-red-500 mb-1': validate?.reason_complaint }" :disabled="loading"
+                                    placeholder="សូមបញ្ចូលអង្គហេតុ ឬដំណើររឿង" rows="8" id="message"></textarea>
+                                <span class="text-xs text-red-500" x-show="validate?.reason_complaint"
+                                    x-text="validate?.reason_complaint">
+                            </div>
+
+                            <!-- multiple file select -->
+                            <div>
+                                <label for="name" class="text-gray-800 font-semibold text-[16px]">
+                                    ឯកសារយោង ឬភស្ដុតាងពាក់ព័ន្ធ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+
+                                <div class="bg-white">
+                                    <div x-data="dataFileDnD()" class="relative flex flex-col text-gray-400 rounded">
+                                        <div x-ref="dnd"
+                                            class="relative flex flex-col text-gray-400 border-2 border-gray-300 border-dashed rounded cursor-pointer"
+                                            :class="{
+                                                '!border-red-500': validate?.files,
+                                            }">
+                                            <input type="file" id="files" multiple name="files[]"
+                                                class="absolute inset-0 z-50 w-full h-full p-0 m-0 outline-none opacity-0 cursor-pointer"
+                                                @change="addFiles($event)"
+                                                @dragover="$refs.dnd.classList.add('border-blue-400'); $refs.dnd.classList.add('ring-4'); $refs.dnd.classList.add('ring-inset');"
+                                                @dragleave="$refs.dnd.classList.remove('border-blue-400'); $refs.dnd.classList.remove('ring-4'); $refs.dnd.classList.remove('ring-inset');"
+                                                @drop="$refs.dnd.classList.remove('border-blue-400'); $refs.dnd.classList.remove('ring-4'); $refs.dnd.classList.remove('ring-inset');"
+                                                title="" />
+
+                                            <div class="flex flex-col items-center justify-center py-10 text-center">
+                                                <i data-feather="upload" class="mx-auto h-12 w-12 text-gray-400"></i>
+                                                <p class="text-gray-400 space-y-1 max-w-lg">
+                                                    <span class="text-orange-500">
+                                                        សូមបញ្ចូលឯកសារយោង (អាចបញ្ចូលលើសពីមួយ)                                                        
+                                                    </span>
+                                                    <span class="block text-xs text-gray-400">PDF, DOCS, PNG, JPG or
+                                                        JPEG...</span>
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <template x-if="files.length > 0">
+                                            <div class="grid grid-cols-2 p-2 gap-4 mt-4 md:grid-cols-3"
+                                                @drop.prevent="drop($event)"
+                                                @dragover.prevent="$event.dataTransfer.dropEffect = 'move'"
+                                                style="border: 1px solid #ccc !important;
+                                            border-style: dotted !important; border-radius: 4px !important;">
+                                                <template x-for="(_, index) in Array.from({ length: files.length })">
+                                                    <div class="relative flex flex-col items-center overflow-hidden text-center bg-gray-100 border rounded cursor-move select-none"
+                                                        style="padding-top: 100%;" @dragstart="dragstart($event)"
+                                                        @dragend="fileDragging = null"
+                                                        :class="{ 'border-blue-600': fileDragging == index }"
+                                                        draggable="true" :data-index="index">
+
+                                                        <!-- eye button -->
+                                                        <template x-if="files[index].type.includes('image/')">
+                                                            <button data-fancybox x-bind:data-src="loadFile(files[index])"
+                                                                class="border-none absolute top-0 left-0 z-50 p-1 bg-white rounded-br-lg border border-gray-300  focus:outline-none focus:border-gray-300 cursor-pointer"
+                                                                type="button">
+                                                                <i data-feather="eye" class="h-4 w-4 text-gray-500"></i>
+                                                            </button>
+                                                        </template>
+
+                                                        <template x-if="!files[index].type.includes('image/')">
+                                                            <button @click="window.open(loadFile(files[index]))"
+                                                                class="border-none absolute top-0 left-0 z-50 p-1 bg-white rounded-br-lg border border-gray-300  focus:outline-none focus:border-gray-300 cursor-pointer"
+                                                                type="button">
+                                                                <i data-feather="eye" class="h-4 w-4 text-gray-500"></i>
+                                                            </button>
+                                                        </template>
+
+                                                        <!-- remove button -->
+                                                        <button
+                                                            class="border-none absolute top-0 right-0 z-50 p-1 bg-white rounded-bl-lg border border-gray-300  focus:outline-none focus:border-gray-300 cursor-pointer"
+                                                            type="button" @click="remove(index)">
+                                                            <svg class="w-4 h-4 text-red-500"
+                                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                                viewBox="0 0 24 24" stroke="currentColor">
+                                                                <path stroke-linecap="round" stroke-linejoin="round"
+                                                                    stroke-width="2"
+                                                                    d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                                                            </svg>
+                                                        </button>
+                                                        <template x-if="files[index].type.includes('image/')">
+                                                            <img class="absolute inset-0 z-0 object-cover w-full h-full border-4 border-white preview"
+                                                                x-bind:src="loadFile(files[index])" />
+                                                        </template>
+                                                        <template x-if="!files[index].type.includes('image/')">
+                                                            <img class="absolute inset-0 z-0 object-cover w-full h-full border-4 border-white preview"
+                                                                x-bind:src="`https://ui-avatars.com/api/?name=${files[index].name}&color=7F9CF5&background=EBF4FF`" />
+
+                                                            <!-- group hover show button preview -->
+                                                            <div class="absolute z-40 transition-colors duration-300"
+                                                                @click="window.open(loadFile(files[index]))">
+                                                                Preview File
+                                                            </div>
+                                                        </template>
+                                                        <div class="absolute inset-0 z-40 transition-colors duration-300"
+                                                            @dragenter="dragenter($event)"
+                                                            @dragleave="fileDropping = null"
+                                                            :class="{
+                                                                'bg-blue-200 bg-opacity-80': fileDropping == index &&
+                                                                    fileDragging != index
+                                                            }">
+                                                        </div>
+                                                    </div>
+                                                </template>
+                                            </div>
+                                        </template>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rounded-lg p-4 lg:col-span-6 lg:py-4 lg:px-12">
+                        <div class="space-y-4">
+                            <div class="flex flex-col">
+                                <input type="hidden" name="status">
+                                <label for="name" class="text-gray-800 font-semibold text-[16px]">
+                                    ឈ្មោះដើមបណ្ដឹង                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <textarea name="full_name" rows="1" cols="1" class="input-normal mt-2"
+                                    :class="{ '!border-red-500 mb-1': validate?.full_name }" :disabled="loading" placeholder="សូមបញ្ចូលឈ្មោះដើមបណ្ដឹង"
+                                    autocomplete="off" style="resize: none !important;"></textarea>
+                                <span class="text-xs text-red-500 " x-show="validate?.full_name"
+                                    x-text="validate?.full_name">
+                            </div>
+                            <div class="flex flex-col">
+                                <label for="age" class="text-gray-800 font-semibold text-[16px]">
+                                    អាយុ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <textarea name="age" id="numeric" rows="1" cols="1" class="input-normal mt-2"
+                                    :class="{ '!border-red-500 mb-1': validate?.age }" :disabled="loading" placeholder="សូមបញ្ចូលអាយុ"
+                                    autocomplete="off" maxlength="3" style="resize: none !important;"></textarea>
+
+                                <span class="text-xs text-red-500 " x-show="validate?.age" x-text="validate?.age">
+                            </div>
+                            <div class="flex flex-col">
+                                <label for="gender" class="text-gray-800 font-semibold text-[16px]">
+                                    ភេទ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="radio-inputs">
+                                    <label>
+                                        <input class="radio-input" type="radio" name="gender"
+                                            value="1" checked />
+                                        <span class="radio-tile">
+                                            <span class="radio-icon">
+                                                <img src="https://hotline.police.gov.kh/images/icon/man.png" alt="">
+                                            </span>
+                                            <span class="radio-label">ប្រុស</span>
+                                        </span>
+                                    </label>
+
+                                    <label>
+                                        <input class="radio-input" type="radio" name="gender"
+                                            value="2" />
+                                        <span class="radio-tile">
+                                            <span class="radio-icon">
+                                                <img src="https://hotline.police.gov.kh/images/icon/woman.png" alt="">
+                                            </span>
+                                            <span class="radio-label">ស្រី</span>
+                                        </span>
+                                    </label>
+                                </div>
+
+                                <span class="text-xs text-red-500 " x-show="validate?.gender" x-text="validate?.gender">
+                            </div>
+                            <div class="flex flex-col">
+                                <label for="nationality" class="text-gray-800 font-semibold text-[16px]">
+                                    សញ្ជាតិ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <textarea name="nationality" rows="1" cols="1" class="input-normal mt-2"
+                                    :class="{ '!border-red-500 mb-1': validate?.nationality }" :disabled="loading"
+                                    placeholder="សូមបញ្ចូលសញ្ជាតិ" autocomplete="off" style="resize: none !important;"></textarea>
+                                <span class="text-xs text-red-500 " x-show="validate?.nationality"
+                                    x-text="validate?.nationality">
+                            </div>
+
+                            <!-- geo data -->
+                            <div class="flex flex-col">
+                                <label class="text-gray-800 font-semibold mb-2 text-[16px]">
+                                    អាសយដ្ឋានបច្ចុប្បន្ន                                    
+                                </label>
+                                <label class="text-gray-800 font-semibold text-sm">
+                                    ខេត្ត/ក្រុង                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="relative w-full">
+                                    <select x-model="form.province_id" name="province_id"
+                                        class="select-option !capitalize"
+                                        :class="{ '!border-red-500 mb-1': validate?.province_id }" :disabled="loading">
+                                        <option value="" class="capitalize">ជ្រើសរើសខេត្ត/ក្រុង</option>
+                                        <template x-for="province in provinces">
+                                            <option :value="province.id" x-text="province.name"></option>
+                                        </template>
+                                    </select>
+                                    <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2">
+                                        <i data-feather="chevron-down" class="h-5 w-5 text-gray-400"></i>
+                                    </div>
+                                </div>
+                                <span class="text-xs text-red-500 " x-show="validate?.province_id"
+                                    x-text="validate?.province_id">
+                            </div>
+                            <div class="flex flex-col">
+                                <label class="text-gray-800 font-semibold text-sm">
+                                    ស្រុក/ខណ្ឌ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="relative w-full">
+                                    <select x-model="form.district_id" name="district_id"
+                                        class="select-option !capitalize"
+                                        :class="{ '!border-red-500 mb-1': validate?.district_id }" :disabled="loading">
+                                        <option value="" class="capitalize">ជ្រើសរើសស្រុក/ខណ្ឌ</option>
+                                        <template x-for="district in districts">
+                                            <option :value="district.id" x-text="district.name"></option>
+                                        </template>
+                                    </select>
+                                    <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2">
+                                        <i data-feather="chevron-down" class="h-5 w-5 text-gray-400"></i>
+                                    </div>
+                                </div>
+                                <span class="text-xs text-red-500 " x-show="validate?.district_id"
+                                    x-text="validate?.district_id">
+                            </div>
+                            <div class="flex flex-col">
+                                <label class="text-gray-800 font-semibold text-sm">
+                                    ឃុំ/សង្កាត់                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="relative w-full">
+                                    <select x-model="form.commune_id" name="commune_id" class="select-option !capitalize"
+                                        :class="{ '!border-red-500 mb-1': validate?.commune_id }" :disabled="loading">
+                                        <option value="" class="capitalize">ជ្រើសរើសឃុំ/សង្កាត់</option>
+                                        <template x-for="commune in communes">
+                                            <option :value="commune.id" x-text="commune.name"></option>
+                                        </template>
+                                    </select>
+                                    <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2">
+                                        <i data-feather="chevron-down" class="h-5 w-5 text-gray-400"></i>
+                                    </div>
+                                </div>
+                                <span class="text-xs text-red-500 " x-show="validate?.commune_id"
+                                    x-text="validate?.commune_id">
+                            </div>
+                            <div class="flex flex-col">
+                                <label class="text-gray-800 font-semibold text-sm">
+                                    ភូមិ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="relative w-full">
+                                    <select x-model="form.village_id" name="village_id" class="select-option !capitalize"
+                                        :class="{ '!border-red-500 mb-1': validate?.village_id }" :disabled="loading">
+                                        <option value="" class="capitalize">ជ្រើសរើសភូមិ</option>
+                                        <template x-for="village in villages">
+                                            <option :value="village.id" x-text="village.name"></option>
+                                        </template>
+                                    </select>
+                                    <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2">
+                                        <i data-feather="chevron-down" class="h-5 w-5 text-gray-400"></i>
+                                    </div>
+                                </div>
+                                <span class="text-xs text-red-500 " x-show="validate?.village_id"
+                                    x-text="validate?.village_id">
+                            </div>
+
+                            <div class="flex flex-col">
+                                <label class="text-gray-800 font-semibold text-[16px]">
+                                    លេខទូរស័ព្ទ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <textarea name="phone" id="phone" rows="1" cols="1" class="input-normal mt-2"
+                                    :class="{ '!border-red-500 mb-1': validate?.phone }" :disabled="loading" placeholder="សូមបញ្ចូលលេខទូរស័ព្ទ"
+                                    autocomplete="off" style="resize: none !important;"></textarea>
+
+                                <span class="text-xs text-red-500 " x-show="validate?.phone" x-text="validate?.phone">
+                            </div>
+
+                            <div class="flex flex-col">
+                                <label class="text-gray-800 font-semibold text-[16px]">
+                                    លេខទូរស័ព្ទ ចុងចោទ                                    
+
+                                </label>
+                                <textarea name="defendant" id="defendant" rows="1" cols="1" class="input-normal mt-2"
+                                    :class="{ '!border-red-500 mb-1': validate?.defendant }" :disabled="loading" placeholder="សូមបញ្ចូលលេខទូរស័ព្ទ ចុងចោទ"
+                                    autocomplete="off" style="resize: none !important;"></textarea>
+
+                                <span class="text-xs text-red-500 " x-show="validate?.defendant"
+                                    x-text="validate?.defendant">
+                            </div>
+
+                            <div>
+                                <label class="text-gray-800 font-semibold text-[16px]">
+                                    ថតរូប Selfie ដើមបណ្ដឹងភ្ជាប់ជាមួយអត្តសញ្ញាណប័ណ្ណ                                    
+                                    <span class="text-red-500">*</span>
+                                </label>
+                                <div class="relative border-2 border-gray-300 dark:border-dark-line border-dashed rounded-md
+                                 h-96
+                                 overflow-y-hidden"
+                                    :class="{
+                                        '!border-red-500': validate?.identification_card,
+                                        'border-gray-400': form.identification_card
+                                    }"
+                                    :disabled="loading">
+                                    <template x-if="!form.identification_card">
+                                        <div class="space-y-1 text-center w-full h-full grid place-content-center">
+                                            <svg aria-hidden="true" class="mx-auto h-12 w-12 text-gray-400"
+                                                fill="none" stroke="currentColor" viewBox="0 0 48 48">
+                                                <path
+                                                    d="M28 8H12a4 4 0 00-4 4v20m32-12v8m0 0v8a4 4 0 01-4 4H12a4 4 0 01-4-4v-4m32-4l-3.172-3.172a4 4 0 00-5.656 0L28 28M8 32l9.172-9.172a4 4 0 015.656 0L28 28m0 0l4 4m4-24h8m-4-4v8m-12 4h.02"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+                                            </svg>
+                                            <div class="text-sm text-gray-600 dark:text-gray-400 px-2">
+                                                <label
+                                                    class="relative cursor-pointer bg-transparent rounded-md font-medium text-orange-500"
+                                                    for="identification_card">
+                                                    <p class="text-gray-400 space-y-1 max-w-lg">
+                                                        <span class="text-orange-500 text-[16px]">
+                                                            រូបថតពាក់កណ្តាលខ្លួន <br>
+                                                            
+                                                        </span>
+                                                        <span class="block text-xs text-gray-500">PNG, JPG, JPEG...</span>
+                                                    </p>
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </template>
+
+                                    <div class="object-contain group relative">
+                                        <button type="button"
+                                            class="absolute top-1 left-1 z-50 cursor-pointer rounded-md bg-red-500 border-none text-white px-4 py-2
+                                            flex items-center"
+                                            x-on:click="remove()">
+                                            <i data-feather="trash-2" class="h-5 w-5 mr-1"></i>
+                                            លុប                                        </button>
+                                        <img :src="form.identification_card" alt=""
+                                            class="w-full h-full object-contain"
+                                            x-bind:class="{ 'hidden': !form.identification_card }">
+                                    </div>
+
+                                    <!-- on mobile -->
+                                                                            <button type="button"
+                                            class="opacity-0 absolute left-0 top-0 cursor-pointer z-10 w-full h-full"
+                                            @click="onStartCamera()" x-on:keyUp.enter="onTakePhoto()"></button>
+
+                                        <video class="absolute top-0 right-0" id="webcam" autoplay></video>
+
+                                        <!-- save the capture -->
+                                        <button type="button" id="capture" @click="onTakePhoto()"
+                                            class=" opacity-0
+                                        absolute top-1 right-1 z-50 cursor-pointer rounded-md bg-white border-none text-gray-800 px-4 py-2
+                                        flex items-center">
+                                            <i data-feather="camera" class="h-5 w-5 mr-1"></i>
+                                            ថតរូប <span class="text-xs pl-1">(ចុច)</span>
+                                        </button>
+
+                                        <input type="hidden" name="identification_card" accept="image/*">
+                                                                    </div>
+                            </div>
+
+                            <div class="flex underline cursor-pointer" data-ripple-light="true"
+                                data-dialog-target="dialog">
+                                <input id="agree_with" name="information_confirm" type="checkbox"
+                                    class="h-5 w-5 bg-[#0e2c92] focus:ring-blue-700 border-gray-300 rounded">
+                                <label
+                                    class="ml-2 block lg:text-base text-gray-800 font-semibold text-[16px] cursor-pointer">
+                                    ខ្ញុំសូមបញ្ជាក់ថាសេចក្ដីរាយការណ៍ជាព័ត៌មានពិតប្រាកដ <br>
+                                    
+                                </label>
+                            </div>
+
+                            <div class="!my-5">
+                                <span class="text-xs text-red-500 " x-show="validate?.information_confirm"
+                                    x-text="validate?.information_confirm">
+                            </div>
+
+                            <div data-dialog-backdrop="dialog" data-dialog-backdrop-close="true"
+                                class="pointer-events-none fixed inset-0 z-[999] !m-0 grid h-screen w-screen place-items-center bg-black bg-opacity-60 opacity-0 backdrop-blur-sm transition-opacity duration-300">
+                                <div data-dialog="dialog"
+                                    class="relative min-w-[40%] max-w-screen-sm rounded-lg bg-white text-base text-blue-gray-500 antialiased shadow-2xl">
+                                    <div
+                                        class="flex shrink-0 items-center p-4 text-2xl max-sl:text-lg font-semibold leading-snug text-blue-gray-900 antialiased">
+                                        លក្ខខណ្ឌ                                    </div>
+                                    <div
+                                        class="relative border-t border-b border-t-blue-gray-100 border-b-blue-gray-100 p-4 !pt-0 text-base text-blue-gray-500 antialiased
+                                        overflow-y-auto max-h-[65vh]">
+                                        <div>
+                                            <p>១- ការដាក់ពាក្យបណ្តឹងតាមប្រព័ន្ធអនឡាញ គឺជាការកាត់បន្ថយពេលវេលារបស់ដើមបណ្តឹងក្នុងការអញ្ជើញមកផ្ទាល់ ប៉ុន្តែដើមបណ្តឹងត្រូវតែអញ្ជើញមកផ្ទាល់ ប្រសិនបើករណីចាំបាច់។&nbsp;</p>
+<p>1- This system provides an online complaint submission, which shortens the time travelling to the police station. The complainants may be required to present in person if requested.</p>
+<p>២- រាល់ព័ត៌មានឬភស្តុតាងក្នុងពាក្យបណ្តឹងដែលបានផ្តល់គឺពិតប្រាកដ និងត្រឹមត្រូវតាមច្បាប់។ ការផ្តល់ព័ត៌មានឬភស្តុតាងមិនពិតនឹងត្រូវប្រឈមមុខការផាកពិន័យជាសាច់ប្រាក់ ឬ/និងជាប់ពន្ធនាគារ។</p>
+<p>2- The information or evidence provided shall be accurate and legitimate. Providing false information or evidence shall be subject to a monetary fine and/or imprisonment.</p>
+<p>៣- បន្ទាប់ពីការដាក់ពាក្យបណ្តឹង សមត្ថកិច្ចនឹងធ្វើការទំនាក់ទំនងទៅកាន់ដើមបណ្តឹងឲ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន។</p>
+<p>3- Upon receipt of the complaint, the competent authority will contact the complainant as soon as possible.</p>
+<p>៤- គេហទំព័រនេះសម្រាប់តែការដាក់ពាក្យបណ្តឹងឆបោក រាល់ពាក្យបណ្តឹងដែលផ្ទុយពីនេះនឹងត្រូវបានទុកជាមោឃៈ។</p>
+<p>4- This website is for scam reporting purposes only. Other complaints will not be considered.</p>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="flex shrink-0 flex-wrap items-center justify-end p-4 text-blue-gray-500 space-x-2">
+                                        <button @click="termConfirm(true)" type="button" data-ripple-light="true"
+                                            data-dialog-close="true"
+                                            class="middle none center rounded-lg bg-[#0e2c92] py-2 px-4 cursor-pointer font-bold uppercase border-none text-white text-[16px] shadow-md active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none">
+                                            យល់ព្រម                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div
+                            class="flex lg:flex-row md:flex-row sm:flex-row flex-col items-center justify-end sm:space-x-4 space-x-0 sm:space-y-0 space-y-3">
+                            <a href="https://www.facebook.com/cambodiapolice" target="_blank" :disabled="loading"
+                                class="inline-block rounded-lg border lg:w-auto md:w-auto sm:w-auto w-[93%] no-underline bg-red-500 px-6 max-sl:px-3 text-center py-3 max-sl:py-2 text-lg max-sl:text-lg max-xs:text-sm font-medium text-white cursor-pointer">
+                                បោះបង់                            </a>
+                            <button :type="loading ? 'button' : 'submit'" :disabled="loading"
+                                class="inline-block rounded-lg border-none lg:w-auto md:w-auto sm:w-auto w-full outline-none no-underline bg-[#0e2c92] px-6 max-sl:px-3 text-center  justify-center py-3 max-sl:py-2 text-lg max-sl:text-lg max-xs:text-sm font-medium text-white cursor-pointer">
+                                <div class="flex items-center" x-show="!loading" x-cloak>
+                                    ដាក់សេចក្ដីរាយការណ៍                                </div>
+
+                                <div class="flex items-center justify-center" x-show="loading" x-cloak>
+                                    <svg aria-hidden="true" role="status"
+                                        class="inline w-4 h-4 mr-1 text-gray-200 animate-spin dark:text-gray-600"
+                                        viewBox="0 0 100 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M100 50.5908C100 78.2051 77.6142 100.591 50 100.591C22.3858 100.591 0 78.2051 0 50.5908C0 22.9766 22.3858 0.59082 50 0.59082C77.6142 0.59082 100 22.9766 100 50.5908ZM9.08144 50.5908C9.08144 73.1895 27.4013 91.5094 50 91.5094C72.5987 91.5094 90.9186 73.1895 90.9186 50.5908C90.9186 27.9921 72.5987 9.67226 50 9.67226C27.4013 9.67226 9.08144 27.9921 9.08144 50.5908Z"
+                                            fill="currentColor" />
+                                        <path
+                                            d="M93.9676 39.0409C96.393 38.4038 97.8624 35.9116 97.0079 33.5539C95.2932 28.8227 92.871 24.3692 89.8167 20.348C85.8452 15.1192 80.8826 10.7238 75.2124 7.41289C69.5422 4.10194 63.2754 1.94025 56.7698 1.05124C51.7666 0.367541 46.6976 0.446843 41.7345 1.27873C39.2613 1.69328 37.813 4.19778 38.4501 6.62326C39.0873 9.04874 41.5694 10.4717 44.0505 10.1071C47.8511 9.54855 51.7191 9.52689 55.5402 10.0491C60.8642 10.7766 65.9928 12.5457 70.6331 15.2552C75.2735 17.9648 79.3347 21.5619 82.5849 25.841C84.9175 28.9121 86.7997 32.2913 88.1811 35.8758C89.083 38.2158 91.5421 39.6781 93.9676 39.0409Z"
+                                            fill="#1C64F2" />
+                                    </svg>
+                                    Loading...
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+    </section>
+
+    <!-- button scroll top -->
+    
+
+    <!-- Footer -->
+    
+        <script src="https://unpkg.com/create-file-list"></script>
+    <script src="https://unpkg.com/@material-tailwind/html@latest/scripts/dialog.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            let inputAgree = document.getElementById('agree_with');
+            // inputAgree.addEventListener('click', function(event) {
+            //     event.preventDefault();
+            // });
+
+
+            $('#numeric').keyup(function() {
+                // allow numbers only
+                this.value = this.value.replace(/[^0-9]/g, '');
+
+                // max length 3
+                if (this.value.length > 3) {
+                    this.value = this.value.slice(0, 3);
+                }
+            });
+        });
+
+
+        function dataFileDnD() {
+            return {
+                files: [],
+                fileDragging: null,
+                fileDropping: null,
+
+                remove(index) {
+                    let files = [...this.files];
+                    files.splice(index, 1);
+
+                    this.files = createFileList(files);
+
+                    let input = document.getElementById('files');
+                    input.files = this.files;
+
+                    // if files empty, reset the input
+                    if (files?.length == 0) {
+                        input.value = '';
+                    }
+                },
+                drop(e) {
+                    let removed, add;
+                    let files = [...this.files];
+
+                    removed = files.splice(this.fileDragging, 1);
+                    files.splice(this.fileDropping, 0, ...removed);
+
+                    this.files = createFileList(files);
+
+                    this.fileDropping = null;
+                    this.fileDragging = null;
+                },
+                dragenter(e) {
+                    let targetElem = e.target.closest("[draggable]");
+
+                    this.fileDropping = targetElem.getAttribute("data-index");
+                },
+                dragstart(e) {
+                    this.fileDragging = e.target
+                        .closest("[draggable]")
+                        .getAttribute("data-index");
+                    e.dataTransfer.effectAllowed = "move";
+                },
+                loadFile(file) {
+                    feather.replace();
+                    const preview = document.querySelectorAll(".preview");
+                    const blobUrl = URL.createObjectURL(file);
+
+                    preview.forEach(elem => {
+                        elem.onload = () => {
+                            URL.revokeObjectURL(elem.src); // free memory
+                        };
+                    });
+
+                    return blobUrl;
+                },
+
+                addFiles(e) {
+                    feather.replace();
+                    const files = createFileList([...this.files], [...e.target.files]);
+                    this.files = files;
+                    let input = document.getElementById('files');
+                    input.files = this.files;
+                },
+            };
+        }
+    </script>
+
+    <script type="module">
+        Alpine.data('form', () => ({
+            form: {
+                identification_card: null,
+                province_id: null,
+                district_id: null,
+                commune_id: null,
+                village_id: null,
+            },
+
+            provinces: [],
+            districts: [],
+            communes: [],
+            villages: [],
+            loading: false,
+            validate: null,
+            showAlert: false,
+            showAlertStatus: 'error',
+            showAlertMessage: '',
+
+            init() {
+                this.selectProvince();
+
+                this.$watch('form.province_id', () => {
+                    this.selectDistrict();
+                });
+
+                this.$watch('form.district_id', () => {
+                    this.selectCommune();
+                });
+
+                this.$watch('form.commune_id', () => {
+                    this.selectVillage();
+                });
+            },
+
+            onStartCamera() {
+                let video = document.getElementById('webcam');
+                let capture = document.getElementById('capture');
+
+                if (navigator.mediaDevices.getUserMedia) {
+                    navigator.mediaDevices.getUserMedia({
+                            video: true
+                        })
+                        .then(function(stream) {
+                            video.srcObject = stream;
+                            capture.classList.remove('opacity-0');
+                        })
+                        .catch((error) => {
+                            if (error.name === 'NotAllowedError') {
+                                this.showAlert = true;
+                                this.showAlertStatus = 'error';
+                                this.showAlertMessage = `សូមអនុញ្ញាតឲ្យប្រើប្រាស់កាម៉ារ៉ា`;
+                                this.autoCloseAlert();
+                            }
+                        });
+                }
+            },
+
+            onTakePhoto() {
+                let video = document.getElementById('webcam');
+                let canvas = document.createElement('canvas');
+                let context = canvas.getContext('2d');
+
+                canvas.width = video.videoWidth;
+                canvas.height = video.videoHeight;
+
+                context.drawImage(video, 0, 0, video.videoWidth, video.videoHeight);
+
+                let data = canvas.toDataURL('image/png');
+
+                let input = document.querySelector('input[name="identification_card"]');
+                this.form.identification_card = data;
+                input.value = data;
+
+                video.pause();
+                video.src = "";
+                video.srcObject.getTracks()[0].stop();
+
+                let capture = document.getElementById('capture');
+                capture.classList.add('opacity-0');
+            },
+
+            selectProvince() {
+                Axios({
+                    url: `https://hotline.police.gov.kh/province`,
+                    method: 'GET',
+                }).then((res) => {
+                    this.provinces = res.data;
+                });
+            },
+
+            selectDistrict() {
+                this.form.district_id = null;
+
+                Axios({
+                    url: `https://hotline.police.gov.kh/district`,
+                    method: 'GET',
+                    params: {
+                        province_id: this.form.province_id,
+                    }
+                }).then((res) => {
+                    this.districts = res.data;
+                });
+            },
+
+            selectCommune() {
+                this.form.commune_id = null;
+
+                Axios({
+                    url: `https://hotline.police.gov.kh/commune`,
+                    method: 'GET',
+                    params: {
+                        district_id: this.form.district_id,
+                    }
+                }).then((res) => {
+                    this.communes = res.data;
+                });
+            },
+
+            selectVillage() {
+                this.form.village_id = null;
+
+                Axios({
+                    url: `https://hotline.police.gov.kh/village`,
+                    method: 'GET',
+                    params: {
+                        commune_id: this.form.commune_id,
+                    }
+                }).then((res) => {
+                    this.villages = res.data;
+                });
+            },
+
+            selectFile(event) {
+                // if file is not image will return
+                if (!event.target.files[0].type.includes('image/')) {
+                    let input = document.getElementById('identification_card');
+                    this.form.identification_card = null;
+                    input.value = '';
+                    return;
+                }
+
+                const blobUrl = URL.createObjectURL(event.target.files[0]);
+                this.form.identification_card = blobUrl;
+            },
+
+            remove() {
+                this.form.identification_card = null;
+                let input = document.querySelector('input[name="identification_card"]')
+                input.value = '';
+            },
+
+            termConfirm(status) {
+                let input = document.getElementById('agree_with');
+                input.checked = status;
+            },
+
+            submit(response) {
+                this.loading = response.loading;
+                this.validate = response?.data?.errors;
+                var data = response?.data;
+
+                if (data.status == true && response.completed == true) {
+                    this.showAlert = true;
+                    this.showAlertStatus = 'success';
+                    this.showAlertMessage = `ដំណើរការបានជោគជ័យ`;
+
+                    setTimeout(() => {
+                        window.location.href = "https://hotline.police.gov.kh/home?type=default";
+                    }, 1000);
+                }
+
+                // showAlert true if validate is not null
+                if (this.validate != null) {
+                    this.showAlert = true;
+                    this.showAlertStatus = 'error';
+                    this.showAlertMessage = `សូមបំពេញព័ត៌មានដែលចាំបាច់ជាមុនសិន`;
+                }
+
+                if (data.status == false) {
+                    this.showAlert = true;
+                    this.showAlertStatus = 'error';
+                    this.showAlertMessage = `ដំណើរការមិនបានជោគជ័យ`;
+                }
+
+                this.autoCloseAlert();
+            },
+
+            autoCloseAlert() {
+                setTimeout(() => {
+                    this.showAlert = false;
+                }, 3000);
+            }
+        }));
+    </script>
+
+    <link rel="modulepreload" href="https://hotline.police.gov.kh/build/assets/body.58cc9027.js" /><script type="module" src="https://hotline.police.gov.kh/build/assets/body.58cc9027.js"></script></body>
+
+</html>

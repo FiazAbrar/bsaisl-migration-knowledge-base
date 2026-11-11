@@ -1,0 +1,96 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/crime-and-law/mnmdghnbtk)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/crime-and-law/mnmdghnbtk)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Crime](https://en.prothomalo.com/bangladesh/crime-and-law)
+
+# Fraud in the guise of overseas jobs
+
+Mohiuddin
+
+Dhaka
+
+Published: 30 Jul 2026, 08: 42
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fcrime-and-law%2Fmnmdghnbtk)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fcrime-and-law%2Fmnmdghnbtk&text=Fraud%20in%20the%20guise%20of%20overseas%20jobs&hashtags=)
+
+Illustration: Prothom Alo
+
+As the labour markets continue to shrink, people are taking greater risks in search of work abroad. Trafficking networks are exploiting this desperation and using social media to lure job seekers with false promises, creating a trap.
+
+They collect huge amounts of money in recruitment fees before sending the persons overseas, yet no jobs are found when they actually arrive at the destinations. Instead, many migrants face abuse, exploitation and detention, driving a rise in human trafficking in the guise of labour migration.
+
+According to the UN Refugee Agency (UNHCR), Bangladeshis remain the largest group of migrants attempting to reach Italy by crossing the Mediterranean Sea, as in previous years. This year, they have also emerged as the largest group arriving in Greece via irregular sea crossings.
+
+Migration experts say workers bound for Italy or Greece are typically taken first to Libya, where many are held in camps and subjected to torture and extortion. Traffickers often demand between Tk2.5 million and Tk3 million from their families to secure their release. In March this year, at least 18 Bangladeshis died while attempting to cross from Libya to Greece, including 12 from Sunamganj. Yet the pursuit of a better life in Europe continues.
+
+Citing data from the European Border and Coast Guard Agency (Frontex), the NGO BRAC stated that 20,259 Bangladeshis entered Europe by crossing the Mediterranean in 2025. In the first six months of 2026 alone, another 4,249 Bangladeshis reached Italy through the same route, while 3,608 others crossed by sea from Libya to Greece.
+
+According to the Ministry of Home Affairs' report on human trafficking, 1,126 new cases were filed under the Human Trafficking Prevention and Suppression Act in 2025. Including older cases, a total of 5,284 cases remained pending as of May 2026. Of these, 3,306 are under trial, while investigations into 1,978 cases have yet to be completed.
+
+The Bangladesh Police and the Criminal Investigation Department (CID) are investigating the cases. This year, 71 new cases were filed in January, 66 in February, 110 in March, 130 in April and 123 in May. During this period, only 17 cases were settled.
+
+Against this backdrop, today, on 30 July marks the World Day Against Trafficking in Persons. This year's theme is "Trapped Behind the Scam."
+
+Expatriates' Welfare and Overseas Employment Minister Ariful Haque Chowdhury told Prothom Alo that the government has taken a strict stance to stop human trafficking. Licenses of 49 recruiting agencies involved in irregularities in sending workers to Malaysia have been revoked. Licenses of three agencies sending workers to Russia have been canceled.
+
+He added that the Bureau of Manpower, Employment and Training (BMET) has been instructed to be more cautious before granting clearance for Cambodia and stressed that preventing irregular migration to Europe requires vigilance from both Bangladesh and the destination countries.
+
+## Fraud in the name of new labour markets
+
+For the past several years, overseas employment opportunities have expanded only in Saudi Arabia. As the country prepares to host the 2034 FIFA World Cup, there is currently a demand for low-skilled workers due to large-scale football infrastructure projects. Meanwhile, the labour market in Oman and Malaysia have remained closed for the past two years, while the United Arab Emirates is effectively no longer recruiting workers from Bangladesh.
+
+The Refugee and Migratory Movements Research Unit (RMMRU) states that Russia is currently a significant new labour market for Bangladesh. Last year, 4,727 individuals went to the country, compared to 993 the previous year.
+
+> The government has taken a strict stance to stop human trafficking. Licences of 49 recruiting agencies involved in irregularities in sending workers to Malaysia have been revoked. Licences of three agencies sending workers to Russia have been canceled.
+
+Ariful Haque Chowdhury, Labour and Employment and Expatriates' Welfare and Overseas Employment Minister
+
+However, trafficking networks have been sending Bangladeshi workers to Russia under false pretexts, only for many to end up in the Russia-Ukraine war. In the first six months of this year alone, 2,125 workers received official clearance to travel to Russia. While some have managed to flee the battlefield and return home, others have been killed and many continue to send desperate appeals seeking help to return.
+
+Jahangir Alam from Lakshmipur was among those deceived. Last year, he was sent to Russia under the pretext of a job as a cook in an army camp but was instead deployed directly to the frontline. After seven months, he managed to flee and returned home with the assistance from the Bangladeshi embassy.
+
+He told Prothom Alo that he was handed a weapon without training. Later, he was taught to operate weapons for one day. Sixteen people were in the war camp together. After four people died, he spent his days in terror.
+
+Cambodia is another destination for trafficking under the guise of good jobs. People are taken there for jobs in call centers, only to be forced into online fraud. Due to international pressure, the country's law enforcement recently shut down these scam centers. Following this, 583 Bangladeshi workers returned in June. Despite this, BMET has issued clearances for over 15,000 workers to go to Cambodia in the last one and a half years.
+
+## Traffickers rarely face punishment
+
+BRAC states that 98 per cent of those who returned from Cambodia did not find any jobs there. 90 per cent said they were forced into online fraud or scam operations. 88 per cent reported that they lacked freedom of movement and 86 per cent had their passports and documents confiscated. Additionally, 27 per cent suffered severe physical abuse and 38 per cent experienced psychological torture.
+
+Regular instances of fraud are also occurring under the guise of job promises in several European countries. Deceived workers returning from various countries are filing human trafficking cases. In some instances, families of expatriates who died abroad are also filing lawsuits.
+
+According to data from the Ministry of Home Affairs, within five years (2020-24), 94-95 per cent of the accused in 4,427 cases under the Human Trafficking Prevention and Suppression Act were acquitted. Experts believe that the failure to prosecute and punish traffickers effectively has allowed human trafficking to persist.
+
+Shariful Hasan, Associate Director of BRAC, said that previously trafficking was done by force, but now it primarily happens under the name of migration. People are lured by job advertisements. The tendency to leave the country at any cost makes them victims of trafficking. Meanwhile, these traffickers rarely receive any exemplary punishment.
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Crime](https://en.prothomalo.com/bangladesh/crime-and-law)
+
+- [Expatriate](/topic/expatriate)
+- [Expatriates' Welfare Ministry](/topic/expatriates-welfare-ministry)
+- [Job](/topic/Job)
+- [Foreign Ministry](/topic/foreign-ministry)
+- [Overseas job](/topic/Overseas-job)
+- [Foreign Employment](/topic/foreign-employment)

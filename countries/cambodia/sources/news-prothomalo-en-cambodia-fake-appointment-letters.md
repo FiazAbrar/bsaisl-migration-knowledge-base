@@ -1,0 +1,85 @@
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[](/search)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/ya4xfctnf7)
+
+[](/search)
+
+Search
+
+[](https://epaper.prothomalo.com)
+
+#### ই-পেপার
+
+[বাংলা](https://www.prothomalo.com)
+
+[](/api/auth/v1/oauth/authorize?client_id=811&response_type=code&redirect_uri=/api/auth/v1/oauth/token&callback_uri=/bangladesh/ya4xfctnf7)
+
+[](/)
+
+## ![en.prothomalo.com logo](https://media.prothomalo.com/prothomalo-bangla/2025-11-17/r8eiboew/palo-english.svg)
+
+[Bangladesh](https://en.prothomalo.com/bangladesh)
+
+# Migrant workers suffer due to fake appointment letters
+
+Mohiuddin
+
+Dhaka
+
+Published: 27 Mar 2023, 13: 40
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fya4xfctnf7)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fen.prothomalo.com%2Fbangladesh%2Fya4xfctnf7&text=Migrant%20workers%20suffer%20due%20to%20fake%20appointment%20letters&hashtags=)
+
+Md Swapan, 37, went to Saudi Arabia with a work visa in Ramadan last year. He paid Tk 380,000 to the local recruiting agents for this. He was promised that he would get work in a chocolate factory. His dreams shattered as he ended up working as a mason instead.
+
+Swapan was supposed to get a one-year Iqama (residence permit), but he only got three-month permit. He became an irregular worker in the country after the Iqama expired. He is now hopping from one place to another, staying with friends and acquaintance. Swapan told Prothom Alo over phone that 10 more Bangladeshis who work with him as masons have been cheated similarly.
+
+Migrant workers require to get registration (smart card) from Bangladesh Bureau of Manpower, Employment and Training (BMET) to work abroad. Before this, several documents of the employee including his appointment letter, contract with the recruiting agency, and in some cases a copy of the attestation of the Bangladesh Embassy in the respective country are verified. However, registration card in many cases is being issued without verification. There are also allegations against some officials of BMET for issuing registration without proper verification.
+
+Officials related to this sector said that if more than 25 appointment letters are received for the Middle Eastern countries at a time, the Ministry of Expatriate Welfare and Overseas Employment verifies the letters. If the number is less than 25, the approval of the ministry is not required. The BMET conduct the process instead.
+
+Director General of BMET, Shahidul Alam, told Prothom Alo that more than half of the visas from Saudi Arabia come at the individual level. In that case only the authenticity of the visa is verified.
+
+He claimed, it was almost impossible to verify so many appointment letters with such a small workforce. Initiative has been taken to verify documents online, he added.
+
+**Active visa trading gang**
+
+According to BMET data, Saudi Arabia is the largest labour market. A total of 612,418 workers went to the country last year. Among them, many could not find any job.
+
+Md Nazmul from Jashore went to Saudi Arabia spending about Tk 350,000. He told Prothom Alo over phone that he did not get a job. His work permit expired in three months. Since then, he has been on the run for one and a half years as an illegal migrant. Many other workers are living such miserable life in the country like Nazmul.
+
+The Bangladesh Embassy in Saudi Arabia has alerted the government through several letters informing them of the situation. Two embassy officials, who do not want to be named, told Prothom Alo that Saudi citizens can apply for a visa to hire a worker by depositing 2,000 riyals (Tk 45,000). The citizen may not have the capacity to hire workers, but such appointment letters are not verified by the Saudi authorities.
+
+The officials said that the Saudi citizens have got involved in visa-trading. Later they sold that visa to the Bangladeshi recruiting agents. The embassy officials said they receive data of about 10 per cent of the workers who came to work in Saudi Arabia being cheated.
+
+There have been allegations of illegal visa trading against some officials of the Saudi Embassy in Dhaka. Saudi Arabia's anti-corruption authority, Nazaha, arrested two former embassy officials on 5 March for allegedly issuing work visas to Bangladeshi workers illegally in exchange of money.
+
+Meanwhile, there are allegations of sending Bangladeshis to Cambodia and turning them into 'cyber slaves'. RAB revealed to have arrested one of the leaders of this gang on 25 October. As Cambodia does not have an embassy, the Bangladesh embassy in neighboring Thailand takes care of the matter. Before sending the worker to Cambodia, the embassy verifies and attests the appointment letter. Beside verification, BMET is issuing registration to send workers to the country. However, the agency is not entitled to do it as per the provisions.
+
+In a letter sent to the ministry of expatriate welfare on 25 January, the Bangladesh embassy in Thailand said that they had attested the requisition to send 210 workers in 2022. Following this, the ministry found that 3,127 workers were registered by BMET that year. The ministry is investigating the matter.
+
+However, BMET director general Shahidul Alam claims that if the registration is stopped due to lack of verification, remittance flow will be hindered. He claimed that no complaint has come to BMET about Cambodia.
+
+**Those involved should be tried**
+
+In the past 10 years, the highest number of manpower in 2022 was sent to the United Arab Emirates (UAE). Nearly 101,775 Bangladeshis went to the country at the time.
+
+The ministry of expatriate welfare carried out an investigation last year into the allegations of false registration to send workers to the UAE. Only eight agencies were investigated. It was found that 6,938 workers have been registered against the appointment letters of 2,960 workers. Incidents of financial transactions came to the fore. The investigation committee found evidence of fraud against nine officers and employees of BMET. But they were not brought to book. Ahmed Munirus Saleheen, secretary of the ministry of expatriate welfare, said further investigation is underway.
+
+Asked about the issue, Tasneem Siddiqui, the founding chair of Refugee and Migratory Movement Research Unit (RMMRU), told Prothom Alo that sending a large number of workers abroad is considered a success. That is why proper verification is not conducted. Workers are being harassed because of fake appointment papers. The appointment letters coming at the individual level should also be verified. Not taking any action against those involved is unacceptable. The government should be stern in this regard.
+
+***\*This report, originally published in Prothom Alo print edition, has been rewritten in English by Farjana Liakat***
+
+[Follow the Google news channel to get Prothom Alo's latest news](https://news.google.com/publications/CAAqBwgKMOC2lwsw09-uAw?hl=en-US&gl=US&ceid=US%3Aen)
+
+Read more from [Bangladesh](https://en.prothomalo.com/bangladesh)
+
+- [visa](/topic/visa)
+- [Remittance](/topic/Remittance)
+- [Saudi Arabia](/topic/Saudi-Arabia)
+- [Migrants](/topic/Migrants)
+- [Expatriate Workers](/topic/expatriate-workers)

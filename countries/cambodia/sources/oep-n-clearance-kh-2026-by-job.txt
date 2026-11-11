@@ -1,0 +1,21 @@
+# OEP country-clearance report, Cambodia (country_id 30), by job category, 2026-01-01 to 2026-11-10, queried 2026-11-11
+Sum of categories: 3700; categories listed: 17
+Cambodia | A Casual Worker | 736
+Cambodia | Farm Worker | 580
+Cambodia | A Builder | 390
+Cambodia | Building / Construction Helper | 349
+Cambodia | Pipe Fitting Labour | 335
+Cambodia | Construction Labour | 283
+Cambodia | Cleaner | 269
+Cambodia | Agriculture Labour | 250
+Cambodia | Production Manager | 145
+Cambodia | Drawing machine operator | 100
+Cambodia | Assistant Mason | 97
+Cambodia | Worker | 74
+Cambodia | Quality Controller | 50
+Cambodia | Agent | 25
+Cambodia | Construction Worker | 11
+Cambodia | General Labour | 5
+Cambodia | Manager | 1
+https://www.oep.gov.bd/reports/country-clearance?draw=1&start=0&length=200&approval_date_from=2026-01-01&approval_date_to=2026-11-10&country_id%5B%5D=30&gender_id=&all_skills=1
+{"success":true,"code":null,"payload":{"data":[{"country_id":30,"country_name":"Cambodia","total_employee":736,"category_name":"A Casual Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":580,"category_name":"Farm Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":390,"category_name":"A Builder"},{"country_id":30,"country_name":"Cambodia","total_employee":349,"category_name":"Building \/ Construction Helper"},{"country_id":30,"country_name":"Cambodia","total_employee":335,"category_name":"Pipe Fitting Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":283,"category_name":"Construction Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":269,"category_name":"Cleaner"},{"country_id":30,"country_name":"Cambodia","total_employee":250,"category_name":"Agriculture Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":145,"category_name":"Production Manager"},{"country_id":30,"country_name":"Cambodia","total_employee":100,"category_name":"Drawing machine operator"},{"country_id":30,"country_name":"Cambodia","total_employee":97,"category_name":"Assistant Mason"},{"country_id":30,"country_name":"Cambodia","total_employee":74,"category_name":"Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":50,"category_name":"Quality Controller"},{"country_id":30,"country_name":"Cambodia","total_employee":25,"category_name":"Agent"},{"country_id":30,"country_name":"Cambodia","total_employee":11,"category_name":"Construction Worker"},{"country_id":30,"country_name":"Cambodia","total_employee":5,"category_name":"General Labour"},{"country_id":30,"country_name":"Cambodia","total_employee":1,"category_name":"Manager"}],"recordsTotal":17,"recordsFiltered":17,"totalEmployee":3700},"type":"success","fade":false}
