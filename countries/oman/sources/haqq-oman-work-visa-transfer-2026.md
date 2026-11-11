@@ -1,0 +1,197 @@
+MENA & Jurisdictions
+
+# Work Visa, Residency & Employer Transfer in Oman (2026)
+
+Changing employer in Oman without an NOC since 2021: when a contract counts as ended, the transfer steps, 2026 licence fees under Decision 602/2025, and passport rules.
+
+[![Victor Rizkallah](/_next/static/media/victor-rizkallah.2u7s-fx2ahjvi.webp)Victor Rizkallah](/blog/author/victor-rizkallah)\|
+
+June 22, 2026
+
+7 min read
+
+[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.haqq.ai%2Fblog%2Ftasheera-iqama-amal-oman "Share on LinkedIn")[](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.haqq.ai%2Fblog%2Ftasheera-iqama-amal-oman&text=Work%20Visa%2C%20Residency%20%26%20Employer%20Transfer%20in%20Oman%20(2026) "Share on X")[](https://wa.me/?text=Work%20Visa%2C%20Residency%20%26%20Employer%20Transfer%20in%20Oman%20(2026)%20https%3A%2F%2Fwww.haqq.ai%2Fblog%2Ftasheera-iqama-amal-oman "Share on WhatsApp")
+
+![Work Visa, Residency & Employer Transfer in Oman (2026)](/images/blog-covers/tasheera-iqama-amal-oman.webp)
+
+In short: since 1 January 2021 an expatriate in Oman can move to a new employer without a no-objection certificate once the current contract has ended or been terminated, under Royal Oman Police Decision No. 157/2020. The Labour Law issued by Royal Decree No. 53/2023 governs the work licences, and the Ministry of Labour charges OMR 5 to transfer a worker's services.
+
+General legal information, not legal advice; confirm your own case with the Ministry of Labour, the Royal Oman Police or an Omani lawyer before you resign or sign a new contract.
+
+## Key facts
+
+- Labour Law: issued by Royal Decree No. 53/2023 of 25 July 2023, published in Official Gazette No. 1504 on 30 July 2023 and in force from the next day; it repealed the 2003 Labour Law (Royal Decree No. 35/2003) (Qanoon.om text, read 20 Oct 2026).
+- No NOC: ROP Decision No. 157/2020 (31 May 2020, Gazette No. 1344) replaced Article 24 of the Foreigners' Residence Regulation so residence can move to a new licensed employer on proof that the contract ended, was rescinded or was terminated, plus the competent authority's approval of the new contract; in force from 1 January 2021 (Qanoon.om, read 20 Oct 2026).
+- Family follows: the same rule moves the residence of the worker's dependants to the new employer, and the first employer stays responsible until the transfer is complete (ROP Decision 157/2020) (Qanoon.om).
+- Licences: a work licence (the employer's permission to recruit) lasts 24 months and is not renewable; a work practice licence (the worker's permit) lasts up to 24 months and is renewable (Ministerial Decision No. 602/2025, Art. 2, in force 15 Feb 2026 under Decision No. 44/2026) (Qanoon.om, read 20 Oct 2026).
+- Fees for a company employer: OMR 301 per worker in category 1 occupations, OMR 251 in category 2, OMR 201 in category 3; cut by 30% if the employer meets its Omanisation quota and doubled if it does not; OMR 5 to transfer a worker's services (Decision 602/2025, Annexes 1 and 3, Art. 8) (Qanoon.om, read 20 Oct 2026).
+- Passports: the employer may not keep a worker's passport or personal documents without the worker's written consent (Labour Law, Art. 6), on pain of a fine of OMR 500 to 1,000 (Art. 147) (Qanoon.om, read 20 Oct 2026).
+- Working for someone else without the Ministry's licence is an offence for the employer and the worker (Arts. 29 and 143); the Ministry's site lists e-services for labour complaints, objections to absconding reports and departure during a grace period (mol.gov.om, read 20 Oct 2026).
+
+## Can I change employer in Oman without an NOC?
+
+Yes, once your contract is over. ROP Decision No. 157/2020 rewrote Article 24 of the Foreigners' Residence Regulation, the provision that governs moving a foreign worker's residence from one employer to another. The new test has two parts: proof that your employment contract ended, was rescinded or was terminated, and the competent authority's approval of your contract with the second employer, who must hold a licence to recruit foreign workers. There is no consent requirement from the first employer in the text.
+
+What the rule does not give you is a right to walk out mid-contract. If you resign from a fixed-term contract early without a legal ground, the contract has not ended in the sense the rule requires, and you may owe the employer compensation under the contract. The Labour Law does let you leave early and keep all your rights, including end-of-service gratuity, in five cases listed in Article 41: fraud by the employer when you were hired, wages unpaid for more than two consecutive months or another serious breach, an act against public morals toward you, an assault at work, or a serious danger to your safety the employer knew about and ignored.
+
+Article 29 of the Labour Law says the Minister sets the rules for moving foreign workers between jobs by decision. We did not find a current decision dedicated to transfer conditions; the Ministry's licensing regulation (Decision No. 602/2025) prices the transfer but does not list conditions. In practice the Ministry's e-services handle the steps below.
+
+## How does the transfer work, step by step?
+
+- Close the old contract on paper: a non-renewal notice, a termination letter, or a court judgment. Under Article 36(5) the employer's notice of non-renewal must be at least one month; for an open-ended contract either side gives 30 days' written notice for monthly-paid staff (Art. 38).
+- Ask for your end-of-service certificate (Art. 62) and a clearance (براءة ذمة) of obligations, which the employer must give on request when the contract ends (Art. 14).
+- The new employer registers your contract with the Ministry of Labour through its online services (the "accept employment contract" service), or through a Sanad service centre, and obtains the licence for your occupation.
+- The new employer pays the OMR 5 service-transfer fee and, where a new work practice licence is issued, the licence fee for your occupation category (Decision 602/2025, Annexes 1 and 3).
+- The Royal Oman Police moves your residence, and your family's, to the new employer (ROP Decision 157/2020). Until then the first employer remains responsible for your residence.
+- If you are leaving Oman instead, the employer must repatriate you within 60 days of the contract ending; you may stay longer while a claim for your dues is pending in court (Art. 14).
+
+## How much does a work permit cost in Oman?
+
+| Item (Decision 602/2025) | Fee per worker | Notes |
+|----|----|----|
+| Category 1 occupations, company employer | OMR 301 | Issue or renewal; 30% off if Omanisation is met, doubled if not (Art. 8) |
+| Category 2 occupations, company employer | OMR 251 | Same adjustment |
+| Category 3 occupations, company employer | OMR 201 | Same adjustment |
+| Investor category | OMR 301 | No Omanisation discount (Art. 8) |
+| Domestic worker, driver, nanny (1 to 3 workers) | OMR 101 | Individual employer (Annex 2) |
+| Transfer of a worker's services to another employer | OMR 5 | Annex 3 |
+| Change of occupation in the work practice licence | OMR 5 | Annex 3 |
+| Late renewal or registration | OMR 10 a month, capped at OMR 500 | Paid by the employer (Art. 10) |
+
+All of these fall on the employer. The Labour Law forbids taking money from a recruited worker in return for employing him (Art. 31), so a fee demanded from you for a transfer or a visa is a matter to raise with the Ministry.
+
+## What if my employer files an absconding report?
+
+An absconding report (بلاغ ترك العمل) tells the Ministry that a worker left work. It matters because working for anyone other than the licensed employer is an offence that can lead to a fine and deportation (Art. 143). If a report was filed against you unfairly, for example after you stopped work because wages went unpaid, use the Ministry's "objection to an absconding report" e-service, and file a labour complaint for any money owed. A complaint goes first to the Ministry, which tries to settle it within 30 days; a settlement signed there is enforceable, and if it fails the Ministry refers the case to court within 7 days (Art. 9). A worker who was dismissed has 30 days from notice of the decision to complain (Art. 10).
+
+If a court finds the dismissal arbitrary, it orders reinstatement or compensation of 3 to 12 months' last total wage, plus gratuity, pay for the notice period and social insurance contributions up to the final judgment (Art. 11).
+
+[](https://chat.haqq.ai/?utm_source=haqq_ai&utm_medium=blog_inline&utm_campaign=website&action=start&slug=tasheera-iqama-amal-oman)
+
+Try HAQQ AI Free
+
+Experience AI-powered legal drafting and research
+
+## Worked example: moving at the end of a two-year contract
+
+Ravi is a site engineer in a category 2 occupation, on a two-year fixed-term contract with a Muscat contractor that ends on 31 March 2026, earning OMR 600 a month. His employer tells him on 20 February that it will not renew. A Sohar company offers him a job from 1 April.
+
+| Question | Answer |
+|----|----|
+| Is the notice valid? | Yes: more than the one-month minimum before the end of the term (Art. 36(5)) |
+| Does Ravi need his employer's consent to move? | No: the contract has ended, which is what ROP Decision 157/2020 requires |
+| What does the new employer file? | Ravi's contract with the Ministry, then the residence transfer with ROP |
+| Fees the new employer pays | OMR 5 transfer fee, plus OMR 251 for a category 2 licence where one is issued (about OMR 176 if it meets Omanisation) |
+| What about his wife's residence? | It moves with his to the new employer (ROP Decision 157/2020) |
+| Can the old employer keep his passport? | Only with his written consent (Art. 6) |
+| What if he resigned in January instead? | No contract end yet: no transfer right, unless an Art. 41 ground applies |
+
+The date that decides Ravi's case is the end of the contract term. Had the contractor stopped paying him for more than two months, Article 41 would have let him leave early with his gratuity, and the termination letter would have served as the proof of contract end.
+
+## Where HAQQ fits
+
+Disclosure: we build HAQQ. Paste your contract and any notice into [HAQQ Legal AI Chat](/legal-ai-chat) and ask it whether your contract has ended for transfer purposes, whether an Article 41 ground applies, and to draft a complaint to the Ministry of Labour in Arabic. Check the result with an Omani lawyer or the Ministry before you act.
+
+Keep copies of four documents through any move: the signed contract, the notice or termination letter, your last three payslips or bank statements, and your passport and resident card. Those are what the Ministry, ROP and a court will ask for first.
+
+## Sources
+
+- [Royal Decree No. 53/2023 issuing the Labour Law (Arabic text, Qanoon.om)](https://qanoon.om/p/2023/rd2023053/)
+- [ROP Decision No. 157/2020 amending the Foreigners' Residence Regulation (Qanoon.om)](https://qanoon.om/p/2020/rop20200157/)
+- [Ministerial Decision No. 602/2025 issuing the Regulation on Work Licences and Work Practice Licences (Qanoon.om)](https://qanoon.om/p/2025/mol20250602/)
+- [Ministerial Decision No. 44/2026 amending Decision 602/2025 (Qanoon.om)](https://qanoon.om/p/2026/mol20260044/)
+- [Ministry of Labour: e-services and ministerial decisions](https://www.mol.gov.om/MinisterialDecision)
+- [Ministry of Labour: submit a labour complaint (individuals)](https://www.mol.gov.om/manpoweralleservices/details/submit-labor-complaints-individuals-213)
+- [End-of-service and arbitrary dismissal in Oman](/blog/nihayat-khidma-fasl-taasufi-oman)
+
+Written by
+
+[![Victor Rizkallah](/_next/static/media/victor-rizkallah.2u7s-fx2ahjvi.webp)](/blog/author/victor-rizkallah)
+
+[Victor Rizkallah](/blog/author/victor-rizkallah)
+
+MENA & Jurisdictions
+
+Victor covers MENA and jurisdiction-specific legal topics on the HAQQ blog, from country-by-country guides to how legal AI handles Arabic and local law.
+
+[All articles by this author](/blog/author/victor-rizkallah)
+
+### Related Resources
+
+[End-of-Service & Arbitrary Dismissal in Oman: Your Rights](/blog/nihayat-khidma-fasl-taasufi-oman)[Work Visa, Iqama & Sponsor Transfer in Saudi Arabia](/blog/tasheera-iqama-amal-saudi)[Article 18 Work Visa & Residency in Kuwait](/blog/tasheera-iqama-amal-kuwait)[Legal AI Chat](/legal-ai-chat)
+
+### Related Posts
+
+[](/blog/tasheera-iqama-amal-saudi)
+
+![Work Visa, Iqama & Sponsor Transfer in Saudi Arabia (2026)](/images/blog-covers/tasheera-iqama-amal-saudi.webp)
+
+Saudi Arabia
+
+Work Visa, Iqama & Sponsor Transfer in Saudi Arabia
+
+Work Visa, Iqama & Sponsor Transfer in Saudi Arabia (2026)
+
+[](/blog/ilgha-tasheera-amal-istiqala-uae)
+
+![Visa Cancellation After Resignation in the UAE: What Happens to Your Status](/images/blog-covers/ilgha-tasheera-amal-istiqala-uae.webp)
+
+UAE
+
+Visa Cancellation After Resignation in the UAE
+
+Visa Cancellation After Resignation in the UAE: What Happens to Your Status
+
+[](/blog/tasheera-iqama-amal-kuwait)
+
+![Article 18 Work Visa & Residency in Kuwait (2026)](/images/blog-covers/tasheera-iqama-amal-kuwait.webp)
+
+Kuwait
+
+Article 18 Work Visa & Residency in Kuwait
+
+Article 18 Work Visa & Residency in Kuwait (2026)
+
+## Frequently asked questions
+
+Do I need an NOC to change employer in Oman?
+
+No, once your contract has ended, been rescinded or been terminated. ROP Decision No. 157/2020, in force from 1 January 2021, lets your residence move to a new licensed employer on proof that the contract ended and with the competent authority's approval of the new contract. Your current employer's consent is not a condition in the text.
+
+Can I leave my job in Oman before my contract ends?
+
+Only on a legal ground, or you risk owing compensation and having no transfer right. Article 41 of the Labour Law (Royal Decree No. 53/2023) lets you leave early with all your rights, including gratuity, for fraud at hiring, wages unpaid for more than two consecutive months, an act against morals, an assault, or a known serious danger to your safety.
+
+How much does it cost to transfer a worker in Oman?
+
+Under Ministerial Decision No. 602/2025, in force since 15 February 2026, the service-transfer fee is OMR 5. Where a new work practice licence is issued, a company employer also pays OMR 301, 251 or 201 depending on the occupation category, 30% less if it meets its Omanisation quota. These fees fall on the employer.
+
+Can my employer keep my passport in Oman?
+
+Not without your written consent. Article 6 of the Labour Law bars the employer from keeping a worker's passport or personal documents, and Article 147 punishes a breach with a fine of OMR 500 to 1,000. You can raise it with the Ministry of Labour through its complaint service.
+
+What can I do about an absconding report in Oman?
+
+File an objection through the Ministry of Labour's absconding-report grievance e-service, and a labour complaint for any wages owed. The Ministry tries to settle complaints within 30 days and refers failed cases to court within 7 days (Art. 9). A dismissed worker must complain within 30 days of notice of the decision (Art. 10).
+
+### What's Next?
+
+[](https://chat.haqq.ai/?utm_source=haqq_ai&utm_medium=blog&utm_campaign=website&action=start&slug=tasheera-iqama-amal-oman)
+
+#### Try HAQQ AI Free
+
+Experience AI-powered legal drafting and research
+
+[](/help-me-choose)
+
+#### Calculate Your ROI
+
+See how much time and money HAQQ saves your firm
+
+[](/prompt-library)
+
+#### Browse 600+ Legal Prompts
+
+Ready-to-use prompts for every legal task
+
+[Back to Blog](/blog)

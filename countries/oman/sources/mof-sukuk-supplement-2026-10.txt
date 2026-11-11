@@ -1,0 +1,2337 @@
+                                                Official Use
+
+ Supplemental Prospectus number 9 dated 19 October 2026 to the Base Prospectus dated 9
+     December 2019 (as updated and amended by supplemental prospectus no. 1 dated 21
+    September 2020, supplemental prospectus no. 2 dated 3 November 2020, supplemental
+
+prospectus no. 3 dated 16 June 2022, supplemental prospectus no. 4 dated 3 December 2023,
+ supplemental prospectus no. 5 dated 19 December 2024 and supplemental prospectus no. 6
+ dated 26 May 2025, supplemental prospectus no. 7 dated 16 December 2025, supplemental
+prospectus no. 8 dated 4 June 2026) relating to the Omani Rial Sukuk Issuance Programme of
+
+                                  Oman Sovereign Sukuk Company S.A.O.C.
+
+                             OMAN SOVEREIGN SUKUK COMPANY S.A.O.C.
+(a closed joint stock company registered in the Sultanate of Oman with commercial registration
+
+                                                  number: 1225873)
+
+                                  Omani Rial Sukuk Issuance Programme
+
+Issuance of Series 12 OMR 100,000,000 (subject to the exercise of a green shoe option to
+increase the issuance size up to OMR 150,000,000) Trust Certificates due 2033 at a profit
+
+                          rate of 4.85% for 7 years period from the Issue Date
+                           under the Omani Rial Sukuk Issuance Programme
+
+                                        Opening Date: 19 October 2026
+
+                                         Closing Date: 25 October 2026
+
+                                                 ISSUER & TRUSTEE
+
+                                 Oman Sovereign Sukuk Company S.A.O.C.
+                        P.O. Box 506, Postal Code 100, Muscat Sultanate of Oman
+
+                                                  THE GOVERNMENT
+
+            The Government of the Sultanate of Oman represented by The Ministry of
+                                                          Finance
+
+                         P.O. Box 506, Postal Code 100, Muscat Sultanate of Oman
+
+PAYING AGENT AND REGISTRAR      CERTIFICATEHOLDERS' AGENT
+
+Muscat Clearing and Depository  Muscat Clearing and Depository S.A.O.C.
+                S.A.O.C.                           P.O. Box: 952
+
+             P.O. Box: 952                   Postal Code: 112 Ruwi
+       Postal Code: 112 Ruwi                    Sultanate of Oman
+
+          Sultanate of Oman
+
+This Document is classified as Official Use
+                      Official Use
+
+                      ISSUE MANAGERS
+
+        Bank Muscat S.A.O.G.        Meethaq Islamic Banking
+Sohar International Bank S.A.O.G.           Sohar Islamic
+
+         Bank Nizwa S.A.O.G.
+
+COLLECTING BANKS
+
+Bank Muscat S.A.O.G.                Meethaq Islamic Banking
+
+Sohar International Bank S.A.O.G.     Sohar Islamic
+
+Bank Nizwa S.A.O.G.
+
+Ahli Bank S.A.O.G.                    Ahli Islamic
+
+Bank Dhofar S.A.O.G.                  Dhofar Islamic
+
+National Bank of Oman S.A.O.G.       Muzn Islamic Banking
+
+Oman Arab Bank S.A.O.G.
+
+Alizz Islamic Bank S.A.O.C.
+
+                      LEGAL ADVISOR
+
+Al Maamary, Al Abri & Co. Advocates and Legal Consultants
+       Suite no. 321/ 322, Aqar Square, Office 1991 Building
+
+ P.O. Box 1963, PC 130, Bousher, Muscat, Sultanate of Oman
+                         Email: info@maqlegal.com
+                        Telephone: +968 2411 2474
+
+This Document is classified as Official Use
+
+                             2
+                                          Official Use
+
+Pursuant to the Public Debt Law promulgated by Royal Decree No. 68/2023 (Public
+Debt Law) with an effective date of 30 October 2023, the Minister of Finance of the
+Sultanate of Oman shall, amongst others, have exclusive discretion to issue any public
+debt instruments for and on behalf of the Government without complying with the
+provisions of the Securities Law.
+
+                               This Document is classified as Official Use
+                                                           3
+                                                    Official Use
+
+      SUPPLEMENTAL PROSPECTUS IN RELATION TO SERIES 12 DATED 19 October 2026
+
+This Supplemental Prospectus for Series 12 (the Prospectus) is supplemental to, forms part of and
+must be read and construed in conjunction with, the base prospectus dated 9 December 2019 (as
+updated and amended by supplemental prospectus no. 1 dated 21 September 2020, supplemental
+prospectus no. 2 dated 3 November 2020, supplemental prospectus no. 3 dated 16 June 2022 and
+supplemental prospectus no. 4 dated 3 December 2023, supplemental prospectus no. 5 dated 19
+December 2024, supplemental prospectus no. 6 dated 26 May 2025, supplemental prospectus no. 7
+dated 16 December 2025 and supplemental prospectus no. 8 dated 4 June 2026) (all of which shall be
+referred to hereinafter as the Base Prospectus) prepared by Oman Sovereign Sukuk Company
+S.A.O.C. (the Issuer or the Trustee) and the Government of the Sultanate of Oman represented by
+the Ministry of Finance (the Obligor or the Government) in connection with the Trustee's Omani Rial
+Sukuk Issuance Programme (the Programme) for the issuance of trust certificates thereunder.
+
+Pursuant to the Public Debt Law, the Minister of Finance of the Sultanate of Oman shall, amongst
+others, have exclusive discretion to issue any public debt instruments for and on behalf of the
+Government without complying with the provisions of the Securities Law promulgated by Royal Decree
+No. 46/2022 (Securities Law). As such, approval from the FSA is not required for any issuances under
+the Programme and the Company is not obliged to prepare documents in Arabic.
+
+The purpose of this Prospectus is to update and, where required, amend the disclosure in the Base
+Prospectus to disclose certain material developments in respect of the Sultanate of Oman and the
+Government since the date of issuance of the Base Prospectus, including the current issuance as set
+out in this Prospectus.
+
+Terms defined in the Base Prospectus shall, unless the context otherwise requires, have the same
+meaning when used in this Prospectus.
+
+The issue of Series 12 OMR 100,000,000 trust certificates (subject to the exercise of a green shoe
+option to increase the issuance size up to OMR 150,000,000) due 2033 (the Trust Certificates), will
+be constituted by:
+
+(i) a master declaration of trust (the Master Declaration of Trust) dated 9 December 2019
+           entered into between the Trustee, the Obligor and Muscat Clearing and Depository S.A.O.C.
+           (MCD) as agent for and on behalf of the holders of the Trust Certificates (the
+           Certificateholders) (in such capacity, the Certificateholders' Agent); and
+
+(ii) a supplemental declaration of trust dated on or around 25 October 2026 (the Supplemental
+           Declaration of Trust and, together with the Master Declaration of Trust, the Declaration of
+           Trust) in relation to the Trust Certificates.
+
+Pursuant to the Declaration of Trust, and subject to the conditions governing the Trust Certificates set
+out in the Base Prospectus (the Conditions) and the Final Terms which, for the avoidance of doubt,
+complete the Conditions, the Trustee in its capacity as the Trustee for and on behalf of the
+Certificateholders will hold the Trust Assets and all rights, benefits and interests relating thereto, on
+trust for the benefit of the Certificateholders.
+
+Periodic Distributions
+
+Periodic Distribution Amounts shall be payable subject to, and in accordance with, the Conditions on
+the outstanding face amount of the Trust Certificates from (and including) the Issue Date to (but
+
+                                          This Document is classified as Official Use
+
+                                                                      4
+                                                    Official Use
+
+excluding) 29 October 2033 (the Scheduled Dissolution Date) at a profit rate of 4.85% per cent. per
+annum, on an Actual / 365 basis.
+
+Taxation
+
+Pursuant to Condition 12 of the Base Prospectus, all payments in respect of the Trust Certificates shall
+be made without set-off or counterclaim of any kind and free and clear of, and without withholding or
+deduction for, any Taxes of whatever nature imposed, levied, collected, withheld or assessed by or
+within the Relevant Jurisdiction or any authority therein or thereof having power to tax, unless the
+withholding or deduction is required by law. In that event, the Trustee shall pay such additional
+amounts as will result in receipt by the Certificateholders of such amounts as would have been received
+by them had no such withholding or deduction been required, except that no such additional amount
+shall be payable in respect of any Trust Certificate held by or on behalf of a holder who is liable for
+such Taxes in respect of such Trust Certificate by reason of having some connection with the Relevant
+Jurisdiction other than the mere holding of the Trust Certificates.
+
+Redemption of Trust Certificates
+
+The Trust Certificates will be redeemed on the Scheduled Dissolution Date but may also be
+redeemed before the Scheduled Dissolution Date in accordance with Condition 10 of the Base
+Prospectus.
+
+The Trust Certificates are Limited Recourse Obligations of the Trustee
+
+The Trust Certificates are not debt obligations of the Trustee. Recourse to the Trustee in respect of the
+Trust Certificates is limited to the Trust Assets and the proceeds of such Trust Assets are the sole
+source of payments on the Trust Certificates. Upon the occurrence of a Dissolution Event or early
+dissolution pursuant to Condition 10 of the Base Prospectus, the sole rights of each of the Trustee, the
+Certificateholders' Agent and, in certain limited circumstances, the Certificateholders will be against
+the Trustee and the Government, as applicable, to perform their respective obligations under the
+Transaction Documents.
+
+In accordance with Condition 4.3 of the Base Prospectus, the Trustee and the Certificateholders' Agent
+(as well as the Certificateholders in the circumstances described in Condition 15.3) will have direct
+recourse against the Government to recover payments due to the Trustee or the Certificateholders'
+Agent from the Government pursuant to such Transaction Documents (such payments forming part of
+the Trust Assets, in a manner that does not contradict with Article 156 of the Commercial Companies
+Law promulgated by Royal Decree No. 18/2019 (the Commercial Companies Law), as amended,
+notwithstanding any other provisions of the Conditions.
+
+Furthermore, under no circumstances shall the Trustee, the Certificateholders' Agent or any
+Certificateholder have any right to cause the sale or other disposition of any of the Trust Assets except
+as otherwise expressly provided in the Transaction Documents and the Conditions.
+
+Listing
+
+Application will be made to the Muscat Stock Exchange (MSX) for listing and trading of the Trust
+Certificates on the Bond and Sukuk Market of the MSX.
+
+Risk Factors
+
+                                          This Document is classified as Official Use
+
+                                                                      5
+                                                    Official Use
+
+An investment in the Trust Certificates involves certain risks. For a discussion of the principal risk
+factors that may affect the ability of the Trustee to fulfil its obligations under the Trust Certificates and
+the relevant mitigating measures, see "Risk Factors" in the Base Prospectus and in this Prospectus.
+
+                            IMPORTANT NOTICES
+
+The Trustee and the Government accept responsibility for the accuracy of the information contained in
+this Prospectus.
+
+To the best of the knowledge of each of the Trustee and the Government (each having taken all
+reasonable care to ensure that such is the case) the information contained in this Prospectus is true
+and is in accordance with the facts and does not omit anything likely to affect the import of such
+information.
+
+To the extent that there is any inconsistency between:
+
+(a) any statement in this Prospectus or any statement incorporated by reference into the Base
+Prospectus by this Prospectus; and
+
+(b) any other statement in, or incorporated by reference into, the Base Prospectus,
+
+the statements in (a) above will prevail.
+
+In the event of any inconsistency between the terms set out in
+
+(a) the Base Prospectus and this Prospectus; and
+
+(b) the applicable Final Terms,
+
+the applicable Final Terms shall prevail.
+
+Save as disclosed in this Prospectus, there has been no other significant new fact, material mistake or
+inaccuracy relating to information included in the Base Prospectus which is capable of affecting the
+assessment of the Trust Certificates that has arisen or been noted, as the case may be, since the
+publication of the Base Prospectus (as supplemented at the date hereof).
+
+The hyperlinks included in this Prospectus are included for information purposes only and the websites
+and their content are not incorporated into, but do not form part of, this Prospectus or the Base
+Prospectus.
+
+Copies of this Prospectus and the Base Prospectus can be obtained on written request from the
+specified office of the Paying Agent.
+
+This Prospectus and the Base Prospectus do not constitute an offer to sell or the solicitation of an offer
+to buy any Trust Certificates by or on behalf of the Trustee, the Obligor or the Issue Managers in any
+jurisdiction to any person to whom it is unlawful to make the offer or solicitation in such jurisdiction.
+Persons into whose possession this Prospectus and the Base Prospectus come are required by the
+Trustee, the Issue Managers and the Collecting Banks to inform themselves about and to observe any
+such restriction.
+
+The Trust Certificates have not been and will not be registered in the United States under the United
+States Securities Act of 1933 or with any securities regulatory authority of any state or other jurisdiction
+
+                                          This Document is classified as Official Use
+
+                                                                      6
+                                                    Official Use
+
+of the United States. Subject to certain exceptions, the Trust Certificates may not be offered or sold
+within the United States or to, or for the account or benefit of, U.S. persons (as defined in Regulation
+S of the United States Securities Act). Each purchaser of the Trust Certificates in making its purchase
+will be deemed to have made certain acknowledgements, representations and agreements.
+Prospective purchasers are hereby notified that the offer, sale or delivery of Trust Certificates to it will
+be made in reliance on the exemption from the registration requirements of the Securities Act provided
+by Regulation S of the United States Securities Act. For a more complete description of certain
+restrictions on offers and sales of Trust Certificates and on distribution of this Prospectus and the Base
+Prospectus, see "Subscription and Sale " of the Base Prospectus and the Prospectus.
+
+EACH PROSPECTIVE INVESTOR IS ADVISED TO CONSULT ITS OWN TAX ADVISER, SHARIA
+ADVISOR, LEGAL ADVISER AND BUSINESS ADVISER AS TO TAX, SHARIA-COMPLIANCE,
+LEGAL, BUSINESS AND RELATED MATTERS CONCERNING THE PURCHASE OF THE TRUST
+CERTIFICATES.
+
+The Trust Certificates are complex financial instruments and such instruments may be purchased as
+a way to reduce risk or enhance yield with an understood, measured, appropriate addition of risk to
+their overall portfolios. A potential investor should not invest in the Trust Certificates unless it has the
+expertise (either alone or with the help of a financial adviser) to evaluate how the Trust Certificates will
+perform under changing conditions, the resulting effects on the value of such Trust Certificates and the
+impact this investment will have on the potential investor's overall investment portfolio.
+
+Notice to residents of the Sultanate of Oman
+The Trust Certificates will be governed by the applicable Laws in the Sultanate of Oman. The
+information contained in this Prospectus does not constitute a public offer of securities in the Sultanate
+of Oman as contemplated by the Commercial Companies Law or the Securities Law. This Prospectus
+is not intended to lead to the conclusion of any contract of whatsoever nature within the territory of the
+Sultanate of Oman.
+
+Notice to residents of the State of Qatar
+The Trust Certificates will not be offered, sold or delivered, at any time, directly or indirectly, in the State
+of Qatar (including the Qatar Financial Centre) in a manner that would constitute a public offering. This
+Prospectus has not been and will not be reviewed or approved by or registered with the Qatar Central
+Bank, the Qatar Stock Exchange, the Qatar Financial Centre Regulatory Authority or the Qatar
+Financial Markets Authority in accordance with their regulations or any other regulations in the State
+of Qatar (including the Qatar Financial Centre). The Trust Certificates are not and will not be traded on
+the Qatar Stock Exchange. The Trust Certificates and interest therein will not be offered to investors
+domiciled or resident in the State of Qatar (including the Qatar Financial Centre) and do not constitute
+debt financing in the State of Qatar (including the Qatar Financial Centre) under the laws of the State
+of Qatar (including the Qatar Financial Centre).
+
+Notice to residents of the Kingdom of Bahrain
+In relation to investors in the Kingdom of Bahrain, the Trust Certificates issued in connection with this
+Prospectus and related offering documents may only be offered in registered form to existing
+accountholders and accredited investors as defined by the Central Bank of Bahrain (the CBB) in the
+Kingdom of Bahrain where such investors make a minimum investment of at least U.S.$ 100,000 or
+any equivalent amount in other currency or such other amount as the CBB may determine.
+
+                                          This Document is classified as Official Use
+
+                                                                      7
+                                                    Official Use
+
+This Prospectus does not constitute an offer of securities in the Kingdom of Bahrain in terms of Article
+(81) of the Central Bank and Financial Institutions Law 2006 (Decree No. 64 of 2006). This Prospectus
+and related offering documents have not been and will not be registered as a prospectus with the CBB.
+Accordingly, no Trust Certificates may be offered, sold or made the subject of an invitation for
+subscription or purchase nor will this Prospectus or any other related document or material be used in
+connection with any offer, sale or invitation to subscribe or purchase the Trust Certificates, whether
+directly or indirectly, to persons in the Kingdom of Bahrain, other than to accredited investors for an
+offer outside the Kingdom of Bahrain.
+
+The CBB has not reviewed, approved or registered this Prospectus or related offering documents and
+it has not in any way considered the merits of the Trust Certificates to be offered for investment, whether
+in or outside the Kingdom of Bahrain. Therefore, the CBB assumes no responsibility for the accuracy
+and completeness of the statements and information contained in this Prospectus and expressly
+disclaims any liability whatsoever for any loss howsoever arising from reliance upon the whole or any
+part of the content of this Prospectus. No offer of the Trust Certificates will be made to the public in the
+Kingdom of Bahrain and this Prospectus must be read by the addressee only and must not be issued,
+passed to, or made available to the public generally.
+
+Notice to residents of the United Arab Emirates
+The Trust Certificates have not been, and are not being, publicly offered, sold, promoted or advertised
+in the United Arab Emirates (the UAE) (excluding the Dubai International Financial Centre and Abu
+Dhabi Global Market) other than in compliance with the laws of the UAE (excluding the Dubai
+International Financial Centre and Abu Dhabi Global Market) governing the issue, offering and sale of
+securities. Further, this Prospectus does not constitute a public offer of securities in the UAE (excluding
+the Dubai International Financial Centre and Abu Dhabi Global Market) and are not intended to be a
+public offer. This Prospectus has not been approved by or filed with the Central Bank of the UAE, the
+Securities and Commodities Authority or the Dubai Financial Services Authority or the Abu Dhabi
+Global Market.
+
+Notice to residents in the Abu Dhabi Global Market
+The Trust Certificates have not been, and are not being offered to any person in the Abu Dhabi Global
+Market unless such conditions are applied to the offer:
+
+          (a) An "Exempt Offer" in accordance with Rule 4.3 of the Markets Rules of the Financial
+                    Services Regulatory Authority (the FSRA Rulebook); and
+
+          (b) Made only to persons who meet the Professional Client criteria set out in the Conduct
+                    of Business Module of the FSRA Handbook.
+
+Notice to residents in the Dubai International Financial Centre
+The Trust Certificates have not been, and are not being offered to any person in the Dubai International
+Financial Centre unless such offer is:
+
+          (a) an "Exempt Offer" in accordance with the Markets Rules (MKT) Module of the Dubai
+                    Financial Services Authority (the DFSA) Rulebook; and
+
+          (b) made only to persons who meet the Professional Client criteria set out in Rule 2.3.3 of
+                    the Conduct of Business Module of the DFSA Rulebook.
+                                          This Document is classified as Official Use
+
+                                                                      8
+                                                    Official Use
+
+Notice to the residents of the State of Kuwait
+Unless all necessary approvals from the State of Kuwait Capital Markets Authority (the KCMA)
+pursuant to Law No. 7 of 2010, and its executive bylaws (each as amended) together with the various
+resolutions, regulations, guidance principles and instructions issued pursuant thereto, or in connection
+therewith (regardless of nomenclature) or any other applicable law or regulation in the State of Kuwait,
+have been given in respect of the offering, marketing and sale of the Trust Certificates, the Trust
+Certificates may not be offered for sale, nor sold, in the State of Kuwait. This Prospectus is not for
+general circulation to the public in the State of Kuwait nor will the Trust Certificates be sold by way of
+a public offering in the State of Kuwait. For the avoidance of doubt, no Trust Certificates shall be
+offered, marketed and/or sold in the State of Kuwait except on a private placement basis to Professional
+Clients (as defined in Module 1 of the executive bylaws of Law No. 7 of 2010 (each as amended)).
+Where the Trust Certificates are intended to be purchased onshore in the State of Kuwait, the same
+may only be so purchased through a KCMA Licensed Person duly authorised to undertake such activity
+pursuant to Law No. 7 of 2010 of Kuwait, and its executive bylaws (each as amended)).
+
+Investors from the State of Kuwait acknowledge that the KCMA and all other regulatory bodies in the
+State of Kuwait assume no responsibility whatsoever for the contents of this Prospectus and do not
+approve the contents thereof or verify the validity and accuracy of its contents. The KCMA, and all
+other regulatory bodies in the State of Kuwait, assume no responsibility whatsoever for any damages
+that may result from relying (in whole or in part) on the contents of this Prospectus. Prior to purchasing
+any Trust Certificates, it is recommended that a prospective holder of any Trust Certificates seeks
+professional advice from its advisors in respect of the contents of this Prospectus so as to determine
+the suitability of purchasing the Trust Certificates.
+
+Notice to residents in other Jurisdictions
+Should the Prospectus be received by any person in any jurisdiction not mentioned in the foregoing,
+the receiving party should disregard the Prospectus in cases where the receipt of the Prospectus or its
+distribution is, or may be, unlawful. The Issue Managers require persons into whose possession the
+Prospectus comes, to inform themselves of and observe, all relevant investing restrictions in their
+jurisdiction. The Issue Managers do not accept any legal responsibility for any violation of any such
+restrictions on the sale, offer to sell or solicitation to subscribe for the Trust Certificates by any person,
+whether or not a prospective investor, in any jurisdiction outside Oman where such sale, offer to sell
+or solicitation to purchase would be unlawful.
+
+                                          This Document is classified as Official Use
+                                                                      9
+                                    Official Use
+
+                              TABLE OF CONTENTS
+
+SECTION                              PARTICULARS                    PAGES
+
+I        UPDATES TO THE BASE PROSPECTUS                                11
+                                                                       11
+         Exchange Rates                                                12
+                                                                       16
+         Overview of the Programme                                     17
+                                                                       18
+         Risk Factors                                                  21
+
+         Description of the Trustee
+
+         The Economy of the Sultanate of Oman
+
+         Pronouncement
+
+         General Information
+
+II       APPLICABLE FINAL TERMS FOR SERIES 12 TRUST CERTIFICATES
+
+         Part A ­ Contractual Terms                                 27
+
+         Part B ­ Other Information                                 28
+
+         Annex ­ Subscription and Sale                              29
+
+III      UNDERTAKINGS                                               41
+
+                       This Document is classified as Official Use
+                                                 10
+                UPDATES TO THE BASE PROSPECTUS
+
+With effect from the date of issuance of this Prospectus, the information appearing in, or incorporated
+by reference into, the Base Prospectus shall be amended and/or supplemented (as the case may be)
+in the manner described below.
+
+1.  EXCHANGE RATES
+
+    The table of exchange rates in the base prospectus shall be replaced with the following:
+
+    "The following table presents the average annual exchange rate of the Omani Rial against U.S.
+    dollars in each of the years indicated. The exchange rate has remained unchanged in the years
+    indicated since the Omani Rial has remained pegged to the U.S. dollar.
+
+              Average Annual Exchange Rates
+
+    2022 2023 2024 2025 2026
+
+    (OMR per unit of currency unless otherwise indicated)
+
+    U.S.$ 0.3845 0.3845 0.3845 0.3845 0.3845
+
+    In October 2026, the closing U.S. Dollar/Omani Rial rate of exchange as reported by the Central
+    Bank of Oman (the "Bank") was OMR 0.3845 = U.S.$1.00."1
+
+2.  OVERVIEW OF THE PROGRAMME
+
+    a) The Definition of "Issue Managers and Collecting Banks" in the "Overview of the
+         Programme" section of the Base Prospectus shall be replaced with the following:
+
+    "The Issue Managers shall mean, Bank Muscat S.A.O.G., Meethaq Islamic Banking, Bank
+    Nizwa S.A.O.G., Sohar International Bank S.A.O.G., Sohar Islamic and any other Issue
+    Managers appointed in accordance with the Programme Agreement.
+
+    The Collecting Banks shall mean Bank Muscat S.A.O.G., Meethaq Islamic Banking, Sohar
+    International Bank S.A.O.G., Sohar Islamic, Bank Nizwa S.A.O.G., Ahli Bank S.A.O.G., Ahli
+    Islamic, Bank Dhofar S.A.O.G., Dhofar Islamic, National Bank of Oman S.A.O.G., Muzn
+    Islamic Banking, Oman Arab Bank S.A.O.G., Alizz Islamic Bank S.A.O.C. and any other
+    Collecting Banks appointed in accordance with the Programme Agreement. For the
+    avoidance of doubt, the term "Collecting Banks" shall include the Collecting Agents, except
+    where the context does not permit the same."2
+
+    b) The Definition of "Collecting Agents" in the "Overview of the Programme" section of the
+         Base Prospectus shall be replaced with the following:
+
+    "shall mean Bank Muscat S.A.O.G., Meethaq Islamic Banking, Sohar International Bank
+    S.A.O.G., Sohar Islamic, Bank Nizwa S.A.O.G., Ahli Bank S.A.O.G., Ahli Islamic, Bank
+    Dhofar S.A.O.G., Dhofar Islamic, National Bank of Oman S.A.O.G., Muzn Islamic Banking,
+
+1 Issue Managers to confirm.
+2 MoF/ Banks to confirm.
+
+                              This Document is classified as Official Use
+                                                        11
+    Oman Arab Bank S.A.O.G., Alizz Islamic Bank S.A.O.C. and any other Collecting Agents
+    appointed from time to time on the same terms and conditions specified for appointment of
+    Collecting Banks."3
+
+    c) The definition of "Ratings" in the "Overview of the Programme" section of the Base
+         Prospectus shall be replaced with the following:
+
+    "Oman has a credit rating of BBB- with a Stable outlook by Standard & Poor's as on September
+    2026, Baa3 with a Stable outlook by Moody's Investors Service as on July 2025 and BBB- with
+    a Stable outlook by Fitch as on December 2025.
+
+    Trust Certificates issued under the Programme may be unrated or rated by any one or more of
+    the rating agencies referred to above or any other credit rating agencies as determined by the
+    FSA.
+
+    Any ratings assigned to each Series of Trust Certificates to be issued under the Programme
+    will be specified in the applicable Final Terms. A rating is not a recommendation to buy, sell or
+    hold the Trust Certificates (or beneficial interests therein) and may be subject to revision,
+    suspension or withdrawal at any time by the assigning rating organisation."
+
+3.  RISK FACTORS
+
+    (a) Risks relating to Oman's economy being significantly affected by volatility in
+         international oil prices
+
+    The risk factor titled "Oman's economy is significantly affected by volatility in
+    international oil prices" under the "Risk Factors" section of the Base Prospectus shall be
+    replaced with the following:
+
+    "Although the Government has sought to promote the growth of the non-oil sector,
+    Government revenues remain significantly dependent on oil revenues. The oil sector
+    accounted for 27.9% of the Sultanate of Oman's nominal GDP in 2018, 26.3% in 2019,
+    21.4% in 2020, 27.1% in 2021, 34.8% in 2022, 31.3% in 2023, 29.2% in 2024, 25.4% in
+    2025 and 28.7% in the six months ended 30 June 2026, with the variations principally
+    reflecting changes in oil prices. The Sultanate of Oman's economy has in the past been
+    adversely affected by periods of low international oil prices, including the period from
+    mid-2014 to early 2016 and for most of 2020. Future periods of prolonged low oil prices
+    may lead to a widening in the fiscal deficit and adversely impact Oman's sovereign credit
+    rating, as well as its borrowing costs. In addition, any deterioration in the health of
+    Oman's banking sector could also lead to a weakening in the sovereign credit profile
+    and the Government's deposits in the banking sector may be difficult to realise at times
+    of prolonged low oil prices without causing disruption in domestic banks' funding
+    requirements.
+
+    While the Sultanate of Oman has in the past increased oil exports in periods of
+    prolonged down-turns in the oil price, and retains some capacity to do so in the short
+    and medium term, as the Sultanate of Oman's fields are generally considered to be fairly
+    mature, such a solution may not prove viable if oil prices were to continue to be
+    depressed for a prolonged period. Furthermore, as a member of the OPEC+ alliance,
+
+3 MoF/ Banks to confirm.
+
+                          This Document is classified as Official Use
+                                                    12
+     Oman's ability to increase oil production is subject to its OPEC commitments. In addition,
+     future growth in reserves is generally expected to be limited to successful
+     implementation of enhanced oil recovery techniques. As a result, if there is any failure
+     to make use of such techniques, or if such techniques prove excessively costly
+     (particularly in the context of low oil prices) or fail to help grow oil and gas reserves, a
+     long-term slowdown in oil production may become more likely.
+
+     Additional factors, such as the price and availability of new technologies, including
+     renewable energy and unconventional oil and gas extraction methods, global economic
+     and political conditions, the impact of pandemic diseases, and other relevant conditions,
+     have an indirect impact on oil demand and oil prices in the Sultanate of Oman and
+     globally."
+
+(b) Risks relating to the effect of the volatility in international oil prices on the Funds
+     of the Trustee/Public Funds of the Government
+
+     The risk factor titled "Volatility in international oil prices may materially adversely affect
+     the Funds of the Trustee/Public Funds of the Government" under the "Risk Factors"
+     section of the Base Prospectus shall be replaced with the following:
+
+     "While the Government has actively aimed to stimulate the expansion of the non-oil
+     sector, its revenues still display a notable reliance on oil-generated income. This
+     dependency is particularly evident in the contribution of petroleum industrial activities,
+     with petroleum industrial activities (i.e., crude petroleum and natural gas industrial
+     activities) accounting for 68.2%, 73.6%, 77.2%, 71.9%, 72.6% and 70.0% of total
+     revenues for 2020, 2021, 2022, 2023, 2024 and 2025, respectively. The eleventh five-
+     year plan for the period 2026 to 2030 constitutes the second executive phase of Vision
+     2040. The objectives included in the eleventh five-year plan are to: (i) build a diversified
+     and sustainable economy; (ii) gradually transition to a low-carbon economy and promote
+     environmental sustainability; (iii) promote economic decentralisation across
+     governorates; (iv) enhance labour market efficiency and effectiveness; (v) advance
+     socially sustainable development; and (vi) strengthen institutional governance and
+     operational efficiency.
+
+     The strategic objectives of the plan were formulated within a comprehensive framework
+     aligned with the pillars of Oman Vision 2040, with the aim of accelerating economic
+     growth and strengthening sustainability across priority sectors (manufacturing, tourism,
+     and digital economy) with high growth potential, job creation capacity and significant
+     contributions to GDP. The plan builds on previous development achievements while
+     adopting a forward-looking approach grounded in an analysis of local, regional, and
+     global trends, aimed at enhancing resilience to emerging challenges and maximising
+     the effective utilisation of available opportunities. However, Oman's other economic
+     sectors remain, in part, dependent on the oil and gas sector. Whilst this dependence is
+     being addressed as part of the Government's Medium Term Fiscal Plan (MTFP), the
+     implementation of changes to diversify Oman's economy will take time. Government
+     expenditures for the time being remain affected by fluctuations in the oil prices.
+     Budgetary pressures caused by lower oil price environments may continue, resulting in
+     larger deficit financing needs. This, in turn, impacts many sectors of the economy,
+     including, in particular, the construction sector, to the extent that large building projects
+     must be delayed or cancelled. In addition, ancillary industrial activities related to oil and
+     gas exploration and production are also negatively affected by low oil prices.
+
+                               This Document is classified as Official Use
+
+                                                          13
+     Furthermore, sectors that are dependent on household consumption, including
+     education, transport and housing, may be adversely affected by lower levels of
+     economic activity that may result from lower Government revenue from oil and gas
+     production. If Oman does not decrease public expenditure (or increase non-oil
+     revenues), an environment of prolonged low oil prices may lead to a further widening in
+     the fiscal deficit and adversely impact Oman's sovereign credit rating, as well as its
+     borrowing costs."
+
+(c) Risks relating to Oman's sovereign credit ratings being subject to revision and
+     downgrade
+
+     The risk factor titled "Oman's sovereign credit ratings are subject to revision and
+     downgrade" under the "Risk Factors" section of the Base Prospectus shall be replaced
+     with the following:
+
+     "The Sultanate of Oman's rating was upgraded by Fitch Ratings on 8 December 2025
+     from `BB+' to 'BBB-', with the outlook set to Stable. The upgrade reflects the material
+     strengthening of Oman's fiscal and economic indicators over recent years, including
+     improved budgetary performance, reduced external financing pressures, and the
+     Government's ongoing implementation of fiscal consolidation measures supported by
+     favourable oil price dynamics. On 11 July 2025, Moody's Investors Service upgraded
+     the Sultanate of Oman's long-term issuer rating from `Ba1' to `Baa3' and assigned a
+     Stable outlook. Moody's stated that the upgrade reflects the sustained improvement in
+     Oman's fiscal position, driven primarily by a material reduction in the Government's debt
+     burden, which declined to around 35.5 per cent. of GDP by the end of 2024, and by
+     continued fiscal consolidation efforts that have enhanced resilience to oil-price
+     fluctuations. S&P Global Ratings affirmed the Sultanate of Oman's long-term sovereign
+     credit rating at `BBB-' with a Stable outlook on 25 September 2026.
+
+     Any future negative ratings action, including downgrades, negative changes in outlook
+     or any withdrawal at any time of a credit rating assigned to the Sultanate of Oman by
+     any rating agency, could have a material adverse effect on its cost of borrowing and
+     could limit its access to debt capital markets. Negative ratings actions may also
+     adversely affect the market price of the Trust Certificates and cause trading in the Trust
+     Certificates to be volatile. Furthermore, negative ratings actions may also have an effect
+     on the Sultanate of Oman's ability to raise financing at attractive levels or at all, which
+     in turn may put greater pressure on the Government to obtain alternative sources of
+     funding. Whilst the Government is continuing to monitor and manage the risk of further
+     credit ratings downgrades or negative changes in outlook, there can be no assurance
+     that its efforts in this respect will be sufficient or successful.
+
+     The Sultanate of Oman cannot be certain that a credit rating will remain for any given
+     period of time or that a credit rating will not be affirmed or withdrawn entirely by the
+     relevant rating agency if, in its judgement, circumstances in the future so warrant. The
+     Sultanate of Oman has no obligation to inform Certificateholders of any such revision,
+     downgrade or withdrawal."
+
+(d) Risks relating to Oman's large deficit and increasing indebtedness
+
+     The risk factor titled "Oman has historically had a large deficit and increasing
+     indebtedness" under the "Risk Factors" section of the Base Prospectus shall be replaced
+     with the following:
+
+                               This Document is classified as Official Use
+
+                                                          14
+                "The Sultanate of Oman has experienced a period of significant fiscal deficits and
+                increasing indebtedness.
+
+                While Oman's Government revenue, and particularly its oil revenue, has declined in the
+                past during periods of lower oil prices, Government spending has generally been stable,
+                historically resulting in large fiscal deficits. Oman's budget deficits were OMR 4.4 billion
+                in 2020 and OMR 0.7 billion in 2021. Oman recorded a budget surplus of OMR 2.9 billion
+                in 2022 and OMR 2.4 billion in 2023 and OMR 1.0 billion in 2024. In 2025, Oman
+                recorded a budget deficit of OMR 0.3 billion, primarily reflecting an increase in capital
+                expenditure. Oman's budget deficit represented 15.4% of nominal GDP in 2020 and
+                2.0% of nominal GDP in 2021 and its surplus represented 6.8% of nominal GDP in 2022,
+                5.8% of nominal GDP in 2023, 2.2% of nominal GDP in 2024 and 0.6% of nominal GDP
+                in 2025. The increase in the deficit in 2020 in both absolute terms and as a percentage
+                of GDP principally reflected lower oil prices during the COVID-19 pandemic. The
+                reduction of the deficit in 2021 principally reflected improved oil prices and, to a lesser
+                extent, lower expenditure compared to 2020. In 2022 and 2023, significantly higher oil
+                prices, offset to a limited extent by higher expenditure, resulted in budget surpluses.
+                While a surplus was recorded in 2024, it decreased as compared to 2023 reflecting the
+                decline in oil production and oil prices during 2024. Oman continues to build on its record
+                of fiscal prudence. Oman reduced its government debt to around 35% of GDP in 2025
+                from 68% in 2020.The total outstanding Government debt was OMR 19.8 billion as at
+                31 December 2020 and OMR 20.8 billion as at 31 December 2021. Oman's total
+                outstanding Government debt decreased in 2022, 2023 and 2024, to OMR 17.6 billion,
+                OMR 15.3 billion and OMR 14.6 billion, respectively. As at 31 December 2025, Oman's
+                total outstanding Government debt was OMR 14.6 billion. Oman's total Government
+                debt-to-nominal GDP ratio was 67.9% as at 31 December 2020, 61.9% as at 31
+                December 2021, 41.7% as at 31 December 2022, 37.4% as at 31 December 2023,
+                35.5% as at 31 December 2024 and 34.6% as at 31 December 2025. Any high deficits
+                in the future will expose Oman to high debt service costs and may have an adverse
+                effect on its ratings. See the risk factor titled "Oman's sovereign credit ratings are subject
+                to revision and downgrade."
+
+          (e) Risks relating to refinancing risks4
+
+                The risk factor titled "Oman faces certain refinancing risks" under the "Risk Factors"
+                section of the Base Prospectus shall be replaced with the following:
+
+                "Oman's domestic debt fell by OMR 0.9 billion in 2022 and external debt by OMR 2.3
+                billion on strong hydrocarbon revenue. The government repaid a maturing USD 1.25
+                billion Eurobond in January 2023, prepaid USD 1.5 billion of a USD 4.0 billion facility in
+                March 2023, USD 1.5 billion Sukuk in October 2025 and USD 2.1 billion Eurobond in
+                June 2026 . Oman has significantly reduced its debt since the COVID-19 pandemic.
+                Oman's total public debt increased from OMR 19,818 million as at 31 December 2020
+                to OMR 20,774 million as at 31 December 2021 before reducing to OMR 14,588 million
+                as at 31 December 2025 and 14,159 million as at 30 June 2026, with its external debt
+                increasing from OMR 14,710 million as at 31 December 2020 to OMR 15,592 million as
+                at 31 December 2021 before reducing to OMR 9,550 million as at 31 December 2025,
+                and 9.166 million as at 30 June 2026, and its domestic debt increasing from OMR 5,109
+                million as at 31 December 2020 to OMR 5,182 million as at 31 December 2021 before
+
+4 MoF/ Banks to confirm if any update is needed to numbers. Otherwise this risk factor will be removed.
+
+                                          This Document is classified as Official Use
+
+                                                                     15
+    reducing to OMR 5,038 million as at 31 December 2025 and 4,993 million as at 30 June
+    2026. Oman's debt servicing costs have increased materially since 2018, but began to
+    decrease in 2023.
+
+    Oman faces significant debt maturities in the coming years, with OMR 856 million, OMR
+    1,206 million and OMR 980 million in external debt due in 2026, 2027 and 2028,
+    respectively, and OMR 786 million, OMR 612 million and OMR 603 million in domestic
+    debt due in 2026, 2027 and 2028, respectively, in each case based on outstanding debt
+    as at 31 December 2025.
+
+    Lower external debt has eased external liquidity risk, although debt repayments
+    prevented accumulation of foreign assets. Oman's cover ratio in terms of current
+    account payments decreased to 3.2 months in 2024, from 3.3 months in 2023.
+
+    Due to liquidity constraints in the Omani banking system, domestic funding may become
+    less accessible to the government and therefore Oman may require additional recourse
+    to external funding. The Government is seeking to grow the domestic capital market in
+    Oman, but it is currently underdeveloped, which increases the Sultanate's reliance on
+    external funding. The Government's ability to finance or refinance the public debt
+    depends, in part, on the ability and willingness of Omani banks to purchase securities
+    and other credit instruments issued by the Government.
+
+    Any significant future borrowings, including the further issuance of domestic debt or the
+    issuance of external debt on the international capital markets, or pressure on Oman to
+    support state owned enterprise borrowings, could increase the risk of default on Oman's
+    external debt, and a failure to carefully manage its debt strategy could result in
+    unsustainable debt levels which could materially adversely affect Oman's ability to
+    perform its obligations under the Trust Certificates."
+
+4.  DESCRIPTION OF THE TRUSTEE
+
+    The table under the sub-heading "Business and Operating History of the Trustee" of the
+    "Description of the Trustee" section of the Base Prospectus shall be replaced with the following:
+
+    Issue Date       Details
+
+    3 November 2015 OMR 250,000,000 3.50 per cent. certificates due 2020
+
+    14 July 2016     U.S.$500,000,000 3.50 per cent. certificates due 2022
+
+    1 June 2017      U.S.$2,000,000,000 4.397 per cent. trust certificates due 2024 under the
+                     Trustee's international trust certificate issuance programme
+
+    31 October 2018  Issuance of U.S.$1,500,000,000 5.932 per cent. trust certificates due
+                     2025 under the Trustee's international trust certificate issuance
+                     programme
+
+    10 December 2019 Issuance of OMR 100,000,000 5.50 per cent. trust certificates due 2024
+                                and OMR 200,000,000 trust certificates due 2026 under the Trustee's
+                                domestic trust certificate issuance programme
+
+                     This Document is classified as Official Use
+                                               16
+    21 September 2020 Issuance of OMR 200,000,000 5.25 per cent. trust certificates due 2026
+                                under the Trustee's domestic trust certificate issuance programme
+
+    11 November 2020 Issuance of OMR 208,138,900 5.75 per cent. trust certificates due 2025
+                                under the Trustee's domestic trust certificate issuance programme
+
+    24 November 2020 Issuance of OMR 25,000,000 4.75 per cent. trust certificates due 2022
+                                under the Trustee's domestic trust certificate issuance programme
+
+    08 June 2021     Issuance of U.S.$1,750,000,000 4.875 per cent. trust certificates due
+                     2030
+
+    16 June 2022     Issuance of OMR 150,000,000 4.85 per cent. trust certificates due 2029
+
+    3 December 2023 Issuance of OMR 76,300,000 5.40 per cent. trust certificates due 2030
+
+    30 December 2024 Issuance of OMR 282,000,000 4.80 per cent. trust certificates due 2031
+
+    4 June 2025      Issuance of OMR 100,000,000 4.65 per cent. trust certificates due 2032
+
+    17 October 2025  Issuance of U.S.$ 1,000,000,000 4.525 per cent. trust certificates due
+                     2033 under the Trustee's international trust certificate issuance
+                     programme
+
+    25 December 2025 Issuance of OMR 200,000,000 4.15 per cent. trust certificates due 2032
+
+    15 June 2026     Issuance of OMR 120,000,000 4.2 per cent. trust certificates due 2031
+
+5.  THE ECONOMY OF THE SULTANATE OF OMAN
+
+    The sub-section section titled "Credit Rating" under the section titled "The Economy of Oman"
+    of the Base Prospectus shall be replaced with the following:
+
+    "Credit Rating
+
+(a) S&P Global Ratings affirmed the Sultanate of Oman's long-term sovereign credit rating at `BBB-
+          ' with a Stable outlook on 25 September 2026. S&P noted that the Stable outlook reflects its
+          assessment that Oman's fiscal and external buffers--which include liquid government assets
+          in excess of 40% of GDP and gross foreign currency reserves of close to 20% of GDP--will
+          support the sovereign against adverse geopolitical developments, except under a scenario of
+          a prolonged escalation of attacks by Iran on Oman's energy and civilian infrastructure.
+          According to S&P's projections, Oman is expected to record fiscal surpluses of approximately
+          4.8 per cent of GDP in 2026 and 2.2 per cent in 2027, followed by a broadly balanced fiscal
+          position in 2028­2029.
+
+    Moody's Investors Service upgraded the Sultanate of Oman's long-term issuer rating to Baa3
+    with a Stable outlook on 11 July 2025. This upgrade followed a prior upgrade from Ba2 to Ba1
+    in December 2023 and an outlook change to Positive in August 2024. Moody's stated that the
+    July 2025 upgrade reflects the sustained strengthening of Oman's fiscal position, underpinned
+    by a material reduction in the Government's debt burden and ongoing fiscal consolidation
+    efforts that have increased resilience to oil-price volatility. According to Moody's, Oman's public
+    debt declined to around 35.5 per cent. of GDP by end-2024, supported by successive fiscal
+    surpluses and disciplined expenditure management. The agency noted that continued efforts
+
+                     This Document is classified as Official Use
+                                               17
+    to contain spending, improve non-oil revenues and manage exposure to hydrocarbon market
+    fluctuations have enhanced the Government's balance-sheet flexibility and reduced refinancing
+    risks.
+
+    Fitch Ratings upgraded the Sultanate of Oman's long-term issuer rating to `BBB-' with a Stable
+    outlook on 8 December 2025. Fitch stated that the upgrade reflects the sustained strengthening
+    of Oman's fiscal and economic indicators, including a significant reduction in public debt--to
+    around 36 per cent. of GDP in 2025--and continued fiscal consolidation efforts that have
+    lowered external financing pressures. Fitch also noted that Oman is expected to maintain
+    moderate fiscal deficits over the medium term, supported by improved non-oil economic
+    activity, while remaining structurally exposed to fluctuations in hydrocarbon markets."
+
+6.  PRONOUNCEMENT5
+
+    The section titled "Pronouncement" in the Base Prospectus shall be replaced with the following:
+
+    "The Sharia Supervisory Board of Bank Nizwa S.A.O.G and the Sharia Supervisory Board of
+    Meethaq Islamic Banking have confirmed that the transaction structure relating to the Trust
+    Certificates (as described in this Base Prospectus) is, in their view, Sharia-compliant. Their
+    respective pronouncements are set out below.
+
+    However, there can be no assurance that the Transaction Documents or any issue and
+    trading of any Trust Certificates will be deemed to be Sharia-compliant by any other
+    Sharia board or Sharia scholars. None of the Trustee, the Government, the
+    Certificateholders' Agent, the Issue Managers, the Collecting Banks or the Agents
+    makes any representation as to the Sharia-compliance of any Series and potential
+    investors are reminded that, as with any Sharia views, differences in opinion are
+    possible. Potential investors should obtain their own independent Sharia advice as to
+    the compliance of the Transaction Documents and the issue and trading of any Series
+    with their individual standards of compliance with Sharia principles.
+
+    Description of the members of the Sharia Supervisory Board of Bank Nizwa S.A.O.G.
+    and the Sharia Supervisory Board of Meethaq Islamic Banking
+
+    The Sharia Supervisory Board of Bank Nizwa S.A.O.G.
+
+    Sheikh Dr. Majid bin Mohamed bin Salim Al-Kindi (Chairman)
+
+    Sheikh Dr. Majid Al-Kindi joined the Sharia Supervisory Board of Bank Nizwa in March 2022.
+    He is the current Chairman of Bank's Sharia Supervisory Board. Dr. Majid Al-Kindi is one of
+    the pioneers of Islamic banking and finance among local Sharia scholars in the Sultanate of
+    Oman. He is an expert in Islamic Banking previously a founding Sharia Board member at
+    Meethaq Islamic window of Bank Muscat. Dr. Majid works as the Secretary-General of the
+    Fatwa Body of Oman and an Assistant Professor at Sultan Qaboos University. He has been
+    an Assistant Judge at the Ministry of Justice, and a researcher at the Fatwa Body of Oman. He
+    received a PhD in Islamic Jurisprudence from the International Islamic University ­Malaysia
+    (2012) and a second PhD in Economics and Islamic Banking from Yarmouk University ­ Jordan
+    (2014). He is the first Omani author on Islamic finance and is frequently seen on Islamic forums.
+
+5 Issue Managers to update.
+
+                             This Document is classified as Official Use
+                                                       18
+He has delivered several papers and studies on Shariah supervision in Islamic finance
+institutions.
+
+Sheikh Dr Aznan bin Hasan (Deputy Chairman)
+
+Sheikh Dr. Aznan has joined the Sharia Supervisory Board of Bank Nizwa in December 2020
+and currently the Deputy Chairman of Bank Nizwa's SSB. He is a Professor at Institute of
+Islamic Banking and Finance (IIiBF), IIUM Malaysia. He is also the Deputy Chairman, Sharia
+Advisory Committee, Employee Provident Fund (EPF). He is a member, Sharia Advisory
+Council, AAOIFI, Bahrain and Higher Sharia Authority, Central Bank of UAE. He also serves
+as a member of Board of Directors, Maybank Islamic Berhad. Dr Aznan Hasan received his
+first Degree in Sharia from University of al-Azhar (1994). He then successfully completed his
+master's degree in Sharia from Cairo University with distinction (1998) and his thesis was
+recommended for publication. He then obtained his Ph.D from University of Wales, Lampeter,
+United Kingdom (2003). Dr Aznan has conducted and published more than 50 research
+projects and presented more than 100 presentations.
+
+Sheikh Dr. Ali bin Suliman Aljahdami (Member)
+
+Sheikh Dr. Ali has obtained a Bachelor's in Fiqh and Da'wah from the College of Sharia
+Sciences of Oman, then a master's degree in economics and Islamic Banking from Yarmouk
+University in Jordan. He is a PhD holder from the International Islamic University in Malaysia.
+He obtained some courses and experiences in the field of Islamic banking, such as a certificate
+of Islamic banking accredited by the Arab Academy for Banking and Financial Sciences in
+Jordan and a certificate of professional Sharia audit in Islamic banks and financial institutions.
+He has worked as a fatwa researcher in the Fatwa Department of the Office of the General
+Mufti of the Sultanate since 2007, and a visiting lecturer at the College of Sharia Sciences in
+the diploma, bachelor's and master's stages. His subjects included Jurisprudence of Financial
+Transactions, Jurisprudence of Enjoining Good and Forbidding Evil, Introduction to Islamic
+Economics, Hadiths of Rulings, and Family Fiqh compared to the Personal Status Law. Sheikh
+Ali participated as a member of the Drafting and Description Committee in a seminar on the
+development of jurisprudence organized by the Ministry of Endowments and Religious Affairs
+for a number of its sessions. He is also a member of the Committee for Reviewing and Approval
+of Books and Publications of the Research and Studies Department of the Ministry of
+Endowments and Religious Affairs.
+
+The Sharia Supervisory Board of Meethaq Islamic Banking
+
+Dr. Abdullah bin Mubarak Al-Abri (Chairman)
+
+Dr. Abdullah Al-Abri is a prominent consultant in the Sultanate in Islamic law generally, and
+Islamic banking in particular. He has a strong presence and has made significant contributions
+locally in the legal arena. His Eminence has served as the Vice Chairman of the Sharia
+Supervisory Board of Maisarah Islamic Banking (Bank Dhofar) since establishment in 2013.
+He has also been a Professor at the Faculty of Law at SQU, where he taught Macroeconomics
+and Microeconomics. Additionally, he has been a visiting Professor at the Faculty of Sharia
+Studies ­Muscat, a legal and investment programs consultant to Jibreen ­ Oman, a certified
+lawyer at the Supreme Court in the Sultanate, and a member of the Board of Directors of the
+Omani Lawyers Association, among others. He holds a PhD in economics & Islamic banking,
+from Yarmouk University ­Jordan (2009), an M.A in jurisprudence and its principles, from
+AlBayt University ­Jordan (2002), and a B.A in Sharia from the Institute of Sharia Sciences,
+Sultanate of Oman (1996). Currently, Dr. Al-Abri is the Vice Chairman of the Board of Trustees
+
+                               This Document is classified as Official Use
+
+                                                          19
+­Al-Buraimi University College ­Oman, and frequently appears on legal and Sharia scholarly
+platforms locally and internationally.
+
+Datuk Professor Dr. Mohamad Akram Laldin (Deputy Chairman)
+
+Datuk Professor Dr. Mohamad Akram Laldin is a leading Shari'a advisor and distinguished
+professor in Islamic banking, Islamic finance and Islamic capital market worldwide. He has
+served on the Shari'a advisory boards of the Accounting & Auditing Organization for Islamic
+Financial Institutions (AAOIFI) ­ Bahrain, HSBC Insurance ­ Singapore, and Energy Bank
+Bahrain, among others. In academics, Dr. Laldin was the Executive Director of the International
+Shari'a Research Academy for Islamic Finance (ISRA) and Professor at the International
+Center for Education in Islamic Finance (INCEIF). He was also an Assistant Professor at IIUM
+­ Malaysia, a Visiting Assistant Professor at the University of Sharjah ­ UAE, and Head of
+Department of Fiqh and Usul at the Kulliyyah of Islamic Revealed Knowledge and Human
+Sciences ­ IIUM. Professor Dr. Laldin received several awards, including the Malaysian Islamic
+Personality Award (2017), The Most Outstanding Individual Contribution to Islamic Finance
+during KLIFF (2016), and The Zaki Badawi Award for Excellence in Shariah Advisory &
+Research (2010). He has authored & published extensively in Islamic finance and the capital
+market, and frequently appears at global Islamic finance events. Currently, he serves as a
+member of the Shari'a Advisory Council of Bank Negara Malaysia, the International Islamic
+Financial Market (IIFM) ­Bahrain, the Shari'a Supervisory Board of Dubai Islamic Bank ­ UAE,
+and the Financial Regulation Advisory Council of Experts at the Central Bank of Nigeria. Dr.
+Laldin hold a PhD in Islamic Law from the University of Edinburgh, UK (1995), and a B.A Hons
+in Islamic Jurisprudence and Legislation from the University of Jordan (1989).
+
+Professor Dr. AbdulAziz Khalifa AlQassar (member)
+
+Professor Dr. AbdulAziz AlQassar is a leading Shari'a advisor in Islamic banking and finance,
+actively engaged in both advisory roles and teaching. He serves as a member of the Shari'a
+Supervisory Board of Boubyan Bank -Kuwait, Kuwait International Bank ­ Kuwait, Bank of
+London and the Middle East (BLME) ­ London, UK, Al Hilal (Islamic window of Ahli United
+Bank) ­ Bahrain, and Gulf Finance House (GFH) ­Bahrain, among others. His eminence has
+a strong academic presence and is a Professor at the Faculty of Shari'a ­ Department of
+Comparative Jurisprudence & Shari'a Politics ­ Kuwait University. He previously served as an
+Assistant Dean at the Faculty of Shari'a ­ Kuwait University. Professor Dr. Al-Qassar received
+his PhD in Comparative Fiqh from the Faculty of Shari'a and Law of Al-Azhar University in1997.
+He has contributed numerous valuable research work in the fields of Shari'a & Islamic finance,
+including papers such as: "Options in Stock Markets ­ A Shari'a Perspective" "Family
+Companies ­ A Shari'a View of Rooting" & Extension" "Prizes & Gambling Under the Shari'a
+Bank Deposit Prizes" "Endowment of Money & Securities and their Contemporary Applications"
+"Reinsurance: Obstacles and Solutions" "Shari'a Rules on Provisions and the Impact on Profit
+Distribution" "Zakat on Tier 1 Sukuk". His books include: "Explanation of Musnad Imam
+AlShafi'", & "Money & Banks" (a university book), among others.
+
+Dr. Ahmed Rufai Mohammed (Member)
+
+Dr. Rufai is a renowned scholar in the field of Islamic jurisprudence, with a strong presence in
+the standardization of the Islamic finance sector. He currently serves as the Head of Shari'a
+Compliance at the International Islamic Financial Market (IIFM) ­ Bahrain, a position he has
+held for nearly 14 years. Previously, Dr. Rufai was member of the Shari'a Supervisory Board
+of First Abu Dhabi Bank (FAB) ­ UAE, Shari'a advisor to Crescent Financing Company in
+
+                               This Document is classified as Official Use
+
+                                                          20
+    Hamilton ­ New Zealand. He also served as a Special Shari'a Advisor to the Waikato Muslim
+    Association and the Hamilton community in New Zealand. In academia, he has worked as a
+    lecturer and Head of Public Relations at the Saudi International School ­Kuala Lumpur,
+    Malaysia, among other roles. He often appears on Islamic finance events. Among his published
+    works are: "The Sources of Islamic Legislation and the Complete Recognition of the
+    Independence of Thought in Islam" "Islamic Economic System: Basic Principles and
+    Fundamentals" "Shari'a Rulings and Regulations for the Issuance and Trading of Sukuk
+    AlIjarah" Dr. Rufai received his PhD in Islamic Law on the Transactions and Islamic Insurance
+    from the University of Malaya ­ Malaysia (2006), and a B.A in Shari'a from the Islamic
+    University of Madinah ­ KSA.
+
+    Jurist/ Mohammed Khatim Al-Dhuhli
+
+    Jurist/ Mohammed Khatim Al-Dhuhli is one of the prominent Shari'a scholars in Oman. He
+    currently serves with the Ministry of Endowment and Religious Affairs as a Fatwa Secretary in
+    the Fatwa Office. He has previously worked as a lecturer, presenter of religious programs for
+    Ministry staff, and as Head of the Awqaf Directorate in South Batinah Governorate. Mr. AlDhuhli
+    holds a master's in jurisprudence and its Principles from Sultan Qaboos University in (2016),
+    and a bachelor's degree in Shari'a from the College of Shari'a Sciences, Sultanate of Oman
+    (2004). He has extensive experience in Shari'a and Islamic law, as well in the field of fatwas,
+    and has produced several research papers and studies. He has participated in many training
+    programs and workshops in Islamic finance and banking, and has attended prominent Islamic
+    conferences, including those held by AAOIFI.
+
+7.  GENERAL INFORMATION
+
+    a) The sub-section titled "Authorisations" under the section titled "General Information" of the
+         Base Prospectus shall be replaced with the following:
+
+    "The update of the Programme and the entry of the Trustee into the transaction
+    contemplated by the Transaction Documents and the execution thereof has been duly
+    authorised by a resolution of the Board of Directors of the Trustee dated 18 December
+    2025 and a resolution passed at the extraordinary general meeting of the shareholders of
+    the Trustee dated 11 November 2019.
+
+    The Trustee and the Government have each obtained all necessary consents, approvals
+    and authorisations in connection with the establishment and update of the Programme and
+    will obtain all necessary consents, approvals and authorisations in connection with the
+    issue of any Trust Certificates thereunder and the execution and performance of the
+    Transaction Documents to which they are a party. The establishment and update of the
+    Programme and the issue of any Trust Certificates thereunder have been or will be,
+    respectively, duly authorised in accordance with the provisions of Royal Decree 59/2024.
+
+    The issuance of the Trust Certificates has been duly authorised by a resolution of the Board
+    of Directors of the Trustee dated 18 December 2025."
+
+    This Document is classified as Official Use
+                              21
+         APPLICABLE FINAL TERMS FOR
+        SERIES 12 TRUST CERTIFICATES
+
+                                Oman Sovereign Sukuk Company S.A.O.C.
+
+ Issuance of Series 12 OMR 100,000,000 Trust Certificates (subject to the exercise of a
+greenshoe option to increase the issue size up to OMR 150,000,000) due 2033 for 7 years
+
+                                                          period
+                           under the Omani Rial Sukuk Issuance Programme
+
+PART A ­ CONTRACTUAL TERMS
+
+Terms used herein shall be deemed to be defined as such for the purposes of the Terms and Conditions
+of the Trust Certificates set forth in Base Prospectus. This document constitutes the Final Terms of the
+Trust Certificates described herein and must be read in conjunction with the Base Prospectus.
+
+Full information on the Trustee, the Government and the offer of the Trust Certificates is only available
+on the basis of the combination of these Final Terms and the Base Prospectus. Copies of the Base
+Prospectus and these Final Terms may be obtained from the registered office of the Paying Agent and
+Registrar at P.O. Box: 952, Ruwi, P.C.112, Muscat, Sultanate of Oman. Copies of the Base Prospectus
+and these Final Terms will also be available at all branches of the Collecting Banks during the Offering
+Period (as specified below).
+
+1 (a) Trustee, Seller and Oman Sovereign Sukuk Company S.A.O.C.
+
+Lessor:              (registered in the Sultanate of Oman with commercial
+
+                     registration number 1225873)
+
+(b) Purchaser,       Obligor, The Government of the Sultanate of Oman
+
+Lessee and Servicing represented by The Ministry of Finance
+
+Agent:
+
+2 Issue Manager(s):  Bank Muscat S.A.O.G. and its Islamic banking
+                     window, Meethaq Islamic Banking
+
+                     Sohar International Bank S.A.O.G and its Islamic
+                     banking window, Sohar Islamic
+
+                     Bank Nizwa S.A.O.G.
+
+3 Certificateholders' Agent and Muscat Clearing and Depository S.A.O.C.
+       Delegate of the Trustee:
+
+                     This Document is classified as Official Use
+                                               22
+4 Registrar:                    Muscat Clearing and Depository S.A.O.C.
+
+5 Paying Agent:                 Muscat Clearing and Depository S.A.O.C.
+
+6 Collecting Banks:             Bank Muscat S.A.O.G. and its Islamic banking
+                                window, Meethaq Islamic Banking
+
+                                Bank Nizwa S.A.O.G.
+
+                                Sohar International Bank S.A.O.G and its Islamic
+                                banking window, Sohar Islamic
+
+                                Oman Arab Bank S.A.O.G.
+
+                                National Bank of Oman S.A.O.G. and its Islamic
+                                banking window, Muzn Islamic Banking
+
+                                Ahli Bank S.A.O.G. and its Islamic banking window,
+                                Ahli Islamic
+
+                                Bank Dhofar S.A.O.G. and its Islamic banking
+                                window, Dhofar Islamic
+
+                                Alizz Islamic Bank S.A.O.C.
+
+7 Series Number:                12
+
+8 Specified Currency:           OMR
+
+9 Aggregate Face Amount of Series OMR 100,000,000 (subject to the exercise of a green
+
+12 Trust Certificates:          shoe option to increase the aggregate face amount up
+
+                                to OMR 150,000,000)
+
+10 Issue Price:                 For Category I, as determined by reference to the
+                                yield specified in the successful bid and the applicable
+                                yield reference table. For Category II, OMR 1 per
+                                Trust Certificate, being the face value of each Trust
+                                Certificate.
+
+11 Fixed Denomination:          OMR 1
+
+12 Issue Date:                  29 October 2026
+
+13 Return              Accumulation Issue Date
+
+Commencement Date:
+
+14 Scheduled Dissolution Date:  29 October 2033
+
+15 Dissolution Basis:           The Trust Certificates will be redeemed at 100 per
+                                cent. of the Aggregate Face Amount.
+
+                        This Document is classified as Official Use
+                                                  23
+16 Put/Call Options:                  Not Applicable
+17 Status of the Trust Certificates:  Unsubordinated and unsecured
+
+18 Date of Trustee's approval and (a) Resolution of the board of directors of the Trustee
+
+date of Government's approval for     dated 7 November 2019;
+
+the issuance of the Trust (b) Resolution passed at the extraordinary general
+
+Certificates:                         meeting of the shareholders of the Trustee dated
+
+                                      11 November 2019;
+
+                                      (c) Royal Decree No. 59/2024 Issuing the System of
+
+                                      the Signing Contracts and Financial
+
+                                      Commitments of the State; and
+
+                                      (d) Resolution of the board of directors of the Trustee
+
+                                      dated 18 December 2025.
+
+19 Jurisdictions for distribution of The Sultanate of Oman, United Arab Emirates
+
+this Prospectus and the offering or (excluding the Dubai International Financial Centre
+
+sale of the Trust Certificates:       and Abu Dhabi Global Market), Dubai International
+
+                                      Financial Centre, Abu Dhabi Global Market, State of
+
+                                      Kuwait, the Kingdom of Bahrain and the State of
+
+                                      Qatar.
+
+20 Further Issue                      The Trustee may from time to time, subject to further
+                                      amendments to be made to the relevant Transaction
+                                      Documents, issue additional securities which may
+                                      form a single series with the outstanding Trust
+                                      Certificates.
+
+                                      On the relevant Issue Date of any additional tranche
+                                      of Trust Certificates issued in accordance with the
+                                      provisions described above, the Government (in its
+                                      capacity as Seller) and the Trustee (in its capacity as
+                                      Purchaser) will, amongst others, enter into a
+                                      Supplemental Purchase Agreement for the sale,
+                                      transfer and conveyance of the relevant assets
+                                      described in the schedule thereto.
+
+PROVISIONS RELATING TO PERIODIC DISTRIBUTION PROVISIONS
+
+21 Periodic Distribution Provisions:
+
+(a) Profit Rate:                      4.85%
+
+(a) Return        Accumulation means the period from (and including) a Periodic
+          Period                         Distribution Date to (but excluding) the next (or first)
+                                         Periodic Distribution Date
+
+                  This Document is classified as Official Use
+                                            24
+(b) Periodic            Distribution 29 January, 29 April, 29 July and 29 October in each
+          Date(s):                         year up to (but excluding) the Scheduled Dissolution
+                                           Date
+
+(c) Day Count Fraction:          Actual / 365
+
+(d) Determination Date(s)        Not applicable
+
+PROVISIONS RELATING TO DISSOLUTION
+
+22 Optional Dissolution (Call) Right: Not Applicable
+
+23 Certificateholder Put Right:  Not Applicable
+
+24 Clean Up Call Right           Not Applicable
+
+25 Dissolution Event Amount:     As per Condition 1 of the Base Prospectus
+
+26 Final Dissolution Amount:     As per Condition 1 of the Base Prospectus
+
+27 Other Dissolution Amount      As per Condition 1 of the Base Prospectus
+
+GENERAL PROVISIONS APPLICABLE TO THE TRUST CERTIFICATES
+
+28 Form of Trust Certificates:   Registered book-entry form (electronic)
+
+PROVISIONS IN RESPECT OF THE TRUST ASSETS
+
+29 Lease Assets as at the Issue Date: A 46.14% (forty-six point one four per cent.) (subject
+                                                            to the exercise of the greenshoe option, in which case
+                                                            a 69.21% (sixty-nine point two one per cent.))
+                                                            undivided ownership interest in the Government's
+                                                            23.53% (twenty-three point five three per cent.)
+                                                            undivided ownership interest in the plot of logistics
+                                                            land located in Duqm with Commercial Plot Number
+                                                            4-70-038-01-003, as provided by the Government
+                                                            Asset Management Department and more particularly
+                                                            described in Schedule 1 to the supplemental
+                                                            purchase agreement dated on or around 25 October
+                                                            2026.
+
+30 Trust Assets:                 Condition 5.1 applies
+
+OTHER INFORMATION
+
+31 Transaction Account           Account name: Oman Sovereign Sukuk Company
+                                 S.A.O.C. with Bank Muscat S.A.O.G. and its Islamic
+
+                        This Document is classified as Official Use
+                                                  25
+                                    banking window, Meethaq Islamic Banking bearing
+                                    account no. 0623500026560001
+
+                                    Account name: Oman Sovereign Sukuk Company
+                                    S.A.O.C. with Sohar International Bank S.A.O.G. and
+                                    its Islamic banking window, Sohar Islamic bearing
+                                    account no. 00010032007017
+
+                                    Account Name: Oman Sovereign Sukuk Company
+                                    S.A.O.C. with Bank Nizwa S.A.O.G. bearing account
+                                    no. 512-204903-017
+
+32 Supplemental    Declaration      of Supplemental Declaration of Trust between the
+       Trust:                            Trustee, the Government and the Certificateholders'
+                                         Agent
+
+33 Supplemental    Purchase Supplemental Purchase Agreement between the
+       Agreement:                  Trustee and the Government
+
+34 Supplemental Lease Agreement     Supplemental Lease Agreement between the
+                                    Trustee, the Lessor, the Lessee and the
+                                    Certificateholders' Agent
+
+Signed on behalf of OMAN SOVEREIGN  Signed on behalf of THE GOVERNMENT OF THE
+SUKUK COMPANY S.A.O.C.              SULTANATE OF OMAN REPRESENTED BY
+                                    THE MINISTRY OF FINANCE
+
+By: ..................................................................... By: ......................................................................
+
+Duly authorised                     Duly authorised
+
+                   This Document is classified as Official Use
+                                             26
+PART B ­ OTHER INFORMATION
+
+1 Listing
+
+(a) Listing:               Application will be made by the Trustee (or on its behalf) to the MSX
+                           for the Trust Certificates to be listed on the Bond and Sukuk Market
+                           of the MSX
+
+(b) Estimate of
+
+           total expenses         Fees                             Amount (OMR)
+
+           related   to                                    0.01% of final issue size to
+                                                               each Issue Manager
+           listing:        Issue Managers' fees
+
+                           Legal Advisor fees              6,000
+
+                           Printing expenses               Nil
+
+                           Miscellaneous expenses               Transfer agent and
+                                                            Certificateholder's Agent
+                           (Registrar and Transfer         fees: OMR 31,500 annually
+
+                           Agent                    fees,
+
+                           Certificateholders' Agent
+
+                           fees, Collecting Banks fees,
+
+                           translation fees, etc.)
+
+                           Total                           Approximately 82,500
+
+                           *Please note that fees set out above are exclusive of VAT
+                           (levied at 5%).
+
+2 Ratings                  The Trust Certificates to be issued will not be rated.
+
+3 Interests of Natural Save for any fees payable to the Issue Managers and Agents, so
+        and Legal Persons far as each of the Trustee and the Government is aware, no person
+        involved in the Issue involved in the issue of the Trust Certificates has an interest
+                                          material to the offer. The Issue Managers and Collecting Banks and
+                                          their affiliates have engaged, and may in the future engage, in
+                                          investment banking and/or commercial banking transactions with,
+                                          and may perform services for, the Government and/or the Trustee
+                                          (and each of their affiliates) in the ordinary course of business for
+                                          which they may receive fees.
+
+4 Operational Information
+
+        (a) Any clearing Not applicable
+                  system(s) other
+                  than MCD
+
+                                  27
+(b) Delivery                  Delivery against payment
+
+5 Distribution
+
+(a) Additional                Not applicable
+          Selling
+          Restrictions:
+
+(b) Offering Period: 19 October 2026 to 25 October 2026
+
+(c) Financial                 All Collecting Banks/Agents
+
+intermediaries
+
+(each                    an
+
+Authorised
+
+Offeror) granted
+
+specific consent
+
+to use the Base
+
+Prospectus in
+
+accordance
+
+with                     the
+
+Conditions in it:
+
+(d) Other                     Not applicable
+
+Authorised
+
+Offeror Terms:
+
+                                              28
+                                                   Official Use
+
+ANNEX
+SUBSCRIPTION AND SALE
+
+Summary
+
+No. of Trust Certificates in the 100,000,000 Trust Certificates with an aggregate face amount of
+
+Offer    OMR 100,000,000 (subject to the exercise of a green shoe option
+
+         to increase the number of Trust Certificates to 150,000,000)
+
+Minimum number of Trust 100
+Certificates that may be
+subscribed for
+
+Minimum  Subscription OMR 100
+Amount
+
+Maximum  Subscription Category I: No individual limit, subject to the aggregate issue
+Amount                        size.
+
+         Category II: OMR 10,000 per Applicant.
+
+Subscription Conditions and Procedures
+
+Investors will be invited to participate in the offering of the Trust Certificates through (i) a competitive
+bidding process (Category I) and (ii) a non-competitive subscription process (Category II), with
+Category I and Category II together constituting the Offering.
+
+Category I will be available to institutional investors, individuals and other eligible investors subscribing
+on a competitive basis (Category I Applicants). Category II will be available to eligible individual
+investors subscribing on a non-competitive basis (Category II Applicants).
+
+Individual investors may elect to participate through either Category I on a competitive basis or
+Category II on a non-competitive basis. Category I Applicants and Category II Applicants are together
+referred to as the Applicants and each as an Applicant.
+
+Subscription Price
+
+The subscription price for Category II Applicants will be OMR 1 per Trust Certificate, being the face
+value of each Trust Certificate. The subscription price payable by Category I Applicants will be
+determined by reference to the yield specified in the successful bid and the applicable yield reference
+table provided along with the Application Form.
+
+Profit Rate / Yield
+
+The profit rate applicable to the Trust Certificates will be 4.85% per annum. Category II Applicants will
+subscribe to the Trust Certificates at such profit rate.
+
+                                 This Document is classified as Official Use
+
+                                                                 29
+                                          Official Use
+
+Category I Applicants will specify the yield at which they are willing to subscribe, and successful bids
+will be determined in accordance with the applicable competitive bidding process, with the final
+accepted yield determined by the Obligor.
+
+Allocation of Trust Certificates
+
+No fixed percentage allocation will apply between Category I and Category II. Trust Certificates will
+first be allocated to eligible Category II Applicants. If the aggregate amount of eligible Category II
+subscriptions is equal to or less than the final issue size, such subscriptions will be allocated in full. If
+the aggregate amount of eligible Category II subscriptions exceeds the final issue size, the Trust
+Certificates available for allocation to Category II Applicants will be allocated among them on a pro rata
+basis.
+
+The balance of the Trust Certificates remaining following the allocation to Category II Applicants will
+be allocated to successful Category I Applicants in accordance with the applicable competitive bidding
+process and at the final accepted yield determined by the Obligor.
+
+Eligibility for the subscription of Trust Certificates
+
+The minimum subscription for the Offering is OMR 100. Category I of the Offering will be open to Omani
+and non-Omani individuals and juristic persons (non-individuals). Category II of the Offering will be
+open to Omani and non-Omani individuals only.
+
+Prohibitions with regard to applications for the Offering
+
+The following persons shall not be permitted to participate in the Offering:
+
+1.  Sole proprietorship establishments: the owners of sole proprietorship establishments may
+
+    only submit Application Forms (as defined below) in their personal names.
+
+1.  Multiple applications: an Applicant may not submit more than one Application Form.
+
+2.  Joint applications: Applicants may not submit Application Forms in the name of more than one
+
+    individual (including on behalf of legal heirs).
+
+3.  Trust accounts: customers registered under trust accounts may only submit Application Forms
+
+    in their personal names (for the avoidance of doubt this restriction does not apply to investment
+
+    funds and Waqfs) (Trust Accounts).
+
+Any Application Forms not complying with the above criteria may be rejected without contacting the
+investor, although Application Forms by Trust Accounts may be accepted in the Offering, at the
+discretion of the Issue Managers or the Collecting Banks, if they are satisfied that none of the underlying
+subscribers applying through such Trust Accounts have also applied through their names or their
+personal establishments. The Issue Managers or the Collecting Banks (as applicable) may reject such
+Application Form if they become aware that there are multiple applications from such investors applying
+through Trust Accounts.
+
+Subscription on behalf of minor children
+
+For the purpose of the Offering, any person under 18 years of age as on the Closing Date (as defined
+below) of the subscription process will be defined as a minor.
+
+    This Document is classified as Official Use
+
+                                30
+           Official Use
+
+Only a father may subscribe on behalf of his minor children.
+
+If an Application Form is submitted on behalf of a minor by any person other than the minor's father,
+the person submitting the Application Form (which may include foster parents or guardians) will be
+required to attach a valid Sharia (legal) power of attorney issued by the competent authorities
+authorising him or her to deal in the funds of the minor through sale, purchase and investment.
+
+Applicant's account and Investor Number with MCD
+
+Each Applicant who applies for the Trust Certificates must have an account and an investor number
+(an Investor Number) with MCD. Any Applicant may apply for an Investor Number and open an
+account by completing the relevant MCD application form or via MCD mobile application `Oman Stock'
+available in Google Play and Apple Store platform. The MCD application form may be obtained from
+MCD's head office or its branch office in Dhofar at the address below or its website at www.mcd.om or
+from brokerage companies licensed by the Financial Servies Authority of the Sultanate of Oman (FSA).
+The completed form may be submitted by an Applicant through any of the following channels:
+
+1.  At the head office of MCD, situated in the Muttrah Business District (South), Muscat; or its
+
+    branch office in Dhofar, the Sultanate of Oman, or by sending a facsimile to MCD at +968 2481
+
+    7491.
+
+2.  At the office of any brokerage company in the Sultanate of Oman which is licensed by the FSA.
+
+3.  Through the MCD official email: mail@mcd.om.
+
+In order to open an account with MCD and receive an Investor Number, a juristic person will be
+required to provide a copy of its constitutional documents in the form prescribed by MCD, along with
+a completed MCD application form.
+
+Applicants who already hold accounts with MCD are advised, before submitting their Application
+Form, to confirm their details as noted in the Application Form. If required, Applicants should update
+their particulars with MCD through any of the channels mentioned above.
+
+All correspondence, including delivery of the Confirmation Message (as defined below), will
+be sent to the Applicant at the address recorded at MCD or via electronics means as per their
+contact details with MCD or as stated in the Application Form.
+
+Applicants should ensure that their address specified in their Application Form is the same as the
+address registered with MCD and that such address registered with MCD is correct and is kept up to
+date at all times.
+
+Each Applicant should obtain its Investor Number from MCD. The Investor Number will be required in
+order to complete the Application Form. Each Applicant is responsible for ensuring that the Investor
+Number set out in its Application Form is correct. Application Forms not bearing the correct Investor
+Number may be rejected without contacting the Applicant.
+
+For more information on these procedures, Applicants should contact:
+
+Muscat Clearing and Depository S.A.O.C.
+PO Box 952, Ruwi, PC 112, Oman
+Tel: +968 2482 2222 and +968 2482 2260;
+
+                                 This Document is classified as Official Use
+
+                                                                 31
+                                         Official Use
+
+Fax: +968 2481 7491
+https://mcd.om
+
+Offering Period
+
+The offering period for both Category I and Category II will commence on 19 October 2026 (the
+Opening Date) and close at 2 p.m. (Muscat time) on 25 October 2026 (the Closing Date) (Offering
+Period).
+
+Application Forms must be submitted in accordance with the manner set out herein on or before the
+Closing Date. Application Forms which are submitted after the Closing Date will not be accepted.
+
+Subscription Process
+
+1.  Applicants shall be required to complete the Application Form and furnish all required
+
+    particulars including the investor number registered with MCD, Civil Number/Passport
+
+    Number/Commercial Registration Number or similar details.
+
+2.  Category I Applicants shall submit their Application Forms physically to any of the Collecting
+
+    Banks. Category II Applicants shall submit their Application Forms online through the eIPO
+
+    platform of MCD.
+
+3.  Each Applicant shall be responsible for furnishing all required particulars and ensuring the
+
+    correctness and validity of the information provided for in the Application Form. Category I
+
+    Applicants shall ensure that their Application Forms comply with all the requirements set out in
+
+    the Application Form and this Prospectus. The Collecting Banks have been instructed to accept
+
+    only Application Forms that comply with these requirements.
+
+4.  Before completing the Application Form, each Applicant should peruse the Prospectus and
+
+    read the conditions and procedures governing the subscription with total care and importance.
+
+5.  Category I Applicants shall make payment of the Full Application Amount to the relevant
+
+    Collecting Bank in accordance with the section entitled "Terms and mode of payment".
+
+    Category II Applicants shall make payment of the Full Application Amount through the MCD
+
+    eIPO platform in accordance with the procedures applicable to that platform.
+
+6.  Applicants shall ensure that all supporting documents required in respect of the information
+
+    provided in their Application Forms are submitted with the Application Form or through the
+
+    MCD eIPO platform, as applicable.
+
+7.  See section entitled `Terms and mode of payment' for the details of the payment process.
+
+Undersubscription of Trust Certificates
+
+In case the total subscription amount of all Applicants is less than the Offering Size, the Obligor shall
+make an election to either cancel the Offer or to reduce the Offering up to the subscribed amount within
+(ten) 10 Business Days of the Closing Date.
+
+                      This Document is classified as Official Use
+
+                                                  32
+                                        Official Use
+
+Oversubscription of Trust Certificates
+
+Category II Applicants will be given priority in the allocation of the Trust Certificates. If the aggregate
+amount of eligible Category II subscriptions exceeds the final issue size, the Trust Certificates will be
+allocated among Category II Applicants on a pro rata basis.
+
+Following the allocation of Trust Certificates to Category II Applicants, any remaining Trust Certificates
+will be allocated to successful Category I Applicants in ascending order of the yields specified in their
+bids, with the lowest yield considered first. Where the aggregate amount of successful bids at the cut-
+off yield exceeds the number of Trust Certificates available for allocation at that yield, the available
+Trust Certificates will be allocated among the relevant Category I Applicants on a pro rata basis.
+
+Minimum Subscription Amount
+
+The minimum subscription amount for both Category I Applicants and Category II Applicants shall be
+OMR 100.
+
+Maximum Subscription Amount
+
+There is no maximum subscription amount for Category I Applicants, provided that the aggregate
+subscription amount of each Category I Applicant does not exceed the issue size. The maximum
+subscription amount for Category II Applicants is OMR 10,000 per Category II Applicant, with the MCD
+eIPO platform enforcing this limit.
+
+None of the Trustee, the Obligor, the Collecting Banks or the Issue Managers will be liable for rejecting
+any Application Form in accordance with the procedures and conditions set out in this Annex, the
+Application Form, or for any change in the applicable laws or regulations that occur after the date of
+this Prospectus. Applicants are advised to make their own independent investigations to ensure that
+their Application Forms comply with prevailing laws and regulations.
+
+Terms and mode of payment
+
+In relation to Category I subscriptions, the Trustee will open an escrow account titled the "Oman
+Sovereign Sukuk Company S.A.O.C. Series 12 Escrow Account" (if not already opened) with such
+details as set out in the applicable Final Terms (the Escrow Account) with the Collecting Banks for
+the collection of the subscription proceeds.
+
+Category I Applicants can use any of the following modes of payment:
+
+1.  Direct debit of its bank account(s) mentioned in the Application Form if such bank account(s)
+
+    is/are maintained with the Collecting Banks; or
+
+2.  Transfer into the Escrow by way of bank transfer or through the Oman Switch platform; or
+
+3.  Cheque or demand draft drawn on a commercial bank in the Sultanate of Oman for payment
+
+    into the Escrow Account. All cheques or demand drafts should be drawn in the name of "Oman
+
+    Sovereign Sukuk Company S.A.O.C. Series 12 Issuance".
+
+Each Applicant shall pay the full amount in respect of the aggregate number of Trust Certificates
+applied for by it (the Full Application Amount) at the time of submission of its Application Form to
+the respective Collecting Bank or through the MCD's eIPO platform, as applicable. The Confirmation
+
+    This Document is classified as Official Use
+
+                                33
+                                         Official Use
+
+Message will be sent by any of the Issue Managers to the Applicants who have been allotted Trust
+Certificates (the Allocation) through electronic means.
+
+Category I Applicants are responsible for ensuring that the Full Application Amount is received by the
+relevant Collecting Bank within the Offering Period. In the case of payment by bank transfer, Category
+I Applicants must attach a copy of the transfer acknowledgement to the Application Form. Where
+payment is made by cheque or demand draft, Category I Applicants must provide the original cheque
+or demand draft. In the case of payment by cheque, Category I Applicants are responsible for ensuring
+that the cheque is successfully processed and cleared before the close of the Offering Period for the
+Application to be accepted.
+
+Category II Applicants shall make payment of the Full Application Amount through the MCD eIPO
+platform in accordance with the payment procedures applicable to that platform.
+
+Particulars of the bank account of the Applicant
+
+The details of the bank account that is registered in the records of MCD under the Applicant's Investor
+Number database shall be used for transferring any refund as well as for crediting any payment in
+connection with the stock or securities listed on the MSX. The said bank account details registered
+with MCD can be within the Collecting Banks or other than the Collecting Banks for any particular stock
+or securities that are listed on the MSX. MCD shall only refund and/or credit any payment in connection
+with the stock or securities listed on the MSX into the bank account that is registered under the
+Applicant's Investor Number database.
+
+Documentation required
+
+A copy of a valid power of attorney duly endorsed by the competent legal authorities must be included
+in the event the Application Form is signed on behalf of another person.
+
+In case of juristic persons (non-individuals), each Application Form must be submitted together with
+adequate and valid evidence, in form and substance satisfactory to the Collecting Banks, that the
+person signing the Application Form is duly authorised on behalf of that juristic person.
+
+Acceptance of Category I Application Forms by the Collecting Banks
+
+Application Forms for Category I subscriptions will be accepted by the Collecting Banks if received
+on or before the Closing Date. The Collecting Banks shall refuse to accept any Application Forms
+received after 2 p.m. (Muscat time) on the Closing Date.
+
+Refusal of Category I Application Forms
+
+The relevant Collecting Bank may, in its sole and absolute discretion, refuse to accept an Application
+Form, including (but not limited to), in the following circumstances:
+
+1.  If the Application Form does not bear the signature of the Applicant.
+
+2.  If the Application Form does not include the Applicant's Investor Number registered with MCD.
+
+3.  If the Application Form is submitted in joint names.
+
+4.  If the Applicant is a sole proprietorship.
+
+                        This Document is classified as Official Use
+
+                                                    34
+                                            Official Use
+
+5.    If the Applicant is a trust account (for the avoidance of doubt this restriction does not apply to
+
+      investment funds and Waqfs).
+
+6.    If the Investor Number mentioned in the Application Form is incorrect.
+
+7.    If the Applicant submits more than one Application Form in the same name, all of them will be
+
+      rejected.
+
+8.    If the required supporting documents are not enclosed with the Application Form.
+
+9.    If the power of attorney is not attached to the Application Form in respect of an Applicant who
+
+      applies on behalf of another person.
+
+10. If the Application Form does not comply with the legal or eligibility requirements as provided
+          for in the Base Prospectus (as supplemented by this Prospectus), the Application Form and this
+          Annex.
+
+If the Collecting Banks receive an Application Form that does not comply with the procedures set out
+in the Base Prospectus (as supplemented by this Prospectus), the Collecting Banks shall make all
+possible efforts to notify the Applicant of this non-compliance but the Collecting Banks or the Issue
+Managers shall in no event bear any liability whatsoever for doing or not doing so. If the Applicant
+does not rectify the Application Form and submit it before 2 p.m. (Muscat time) on the Closing Date,
+the Application Form shall be rejected.
+
+The Issue Managers may reject any Application Form in the above-mentioned circumstances or if it
+considers the Application Form to be incomplete or insufficient or for any other reason.
+
+Category II Application Forms
+
+Category II Applicants shall refer to the instructions provided on the MCD eIPO platform for guidance
+on submitting their Application Forms and paying the Full Application Amount.
+
+Enquiry and complaints
+
+Any Applicant who wishes to seek clarification or file a complaint with regard to issues related to the
+Allocation or rejected Application Forms or refunds may contact the Collecting Banks. For this
+purpose, the following representatives of each Collecting Banks be contacted on the contact details
+set out below:
+
+Bank             Contact Name Postal Address Contact Details
+
+Bank Muscat      Ms. Yasmeen        PO Box 134,           Tel: +968 2476 7130
+S.A.O.G.         Mohammed           Postal Code 112,      Email:
+                 Abdul Khaliq       Sultanate of          bdbackoffice@bankmuscat.com
+                                    Oman
+
+Meethaq          Mr. Bulund         PO Box 134,           Tel: +968 2480 1084
+Islamic          Akhter Noman       Postal Code 112,      Email: bulund@bankmuscat.com
+Banking]                            Sultanate of
+                                    Oman
+
+                        This Document is classified as Official Use
+
+                                                    35
+                                  Official Use
+
+Bank            Contact Name Postal Address Contact Details
+
+Sohar           Mr. Ahmed Said    PO Box 44, Postal   Tel: +968 2476 1838
+International   Khamis Al- Alawi  Code 114,           Tel: +968 2476 2584
+Bank S.A.O.G    Ms. Reem Al Abri  Sultanate of        Email: Ahmed.Alalawi@sib.om
+                                  Oman                Email: reem.alabri@sib.om
+Sohar Islamic   Mr. Ahmed Said                        Email: InvestmentSettlement@sib.om
+                Khamis Al- Alawi  PO Box 44, Postal   Tel: +968 2476 1838
+Bank Nizwa      Ms. Reem Al Abri  Code 114,           Tel: +968 2476 2584
+S.A.O.G.                          Sultanate of        Email: Ahmed.Alalawi@sib.om
+                Mr. Ishaq Zayed   Oman                Email: reem.alabri@sib.om
+                Al Maawali                            Email: InvestmentSettlement@sib.om
+                                  PO Box 1423,        Tel: +968 24655050
+                                  Postal Code 133,    Email: Ishaq@banknizwa.om
+                                  Shatti Al Qurum,
+                                  Al Khuwair,
+                                  Sultanate of
+                                  Oman
+
+Ahli Bank       Mr. Amin Al       PO Box 545,         Tel: +968 2457 7830
+S.A.O.G.        Balushi           Postal Code 116,    Email: Amin.AlBalushi@ahlibank.om
+                                  Mina Al Fahal,
+                                  Sultanate of
+                                  Oman
+
+Ahli Islamic    Mr. Saud Al       PO Box 545,         Tel: +968 2465 3756
+                Nabhani           Postal Code 116,    Email: Saud.AlNabhani@ahlibank.om
+                                  Mina Al Fahal,
+                                  Sultanate of
+                                  Oman
+
+Bank Dhofar     Mr. Ahmed         PO Box 1507,        Tel: +968 97985621
+S.A.O.G.        Hamed Said Al     Postal Code 112,    Email:
+                Wahaibi           Sultanate of        investmentbackoffice@bankdhofar.com
+                                  Oman
+
+Dhofar Islamic  Mr. Ahmed         PO Box 1507,        Tel: +968 97985621
+                Hamed Said Al     Postal Code 112,    Email:
+                Wahaibi           Sultanate of        investmentbackoffice@bankdhofar.com
+                                  Oman
+
+National Bank   Mr. Assad         PO Box 751,         Tel: +968 2477 8126, 2477 8754
+of Oman         Hamed Said Al     Postal Code 112,    Email: nbobackoffice@nbo.om
+S.A.O.G.        Siyabi            Ruwi, Sultanate of
+                                  Oman
+
+Muzn Islamic    Mr. Assad         PO Box 751,         Tel: +968 2477 8126, 2477 8754
+Banking         Hamed Said Al
+                Siyabi            Postal Code 112, Email: nbobackoffice@nbo.om
+
+                This Document is classified as Official Use
+
+                                            36
+                                        Official Use
+
+Bank       Contact Name                 Postal Address Contact Details
+
+                                        Ruwi, Sultanate of
+                                        Oman
+
+Oman Arab  Ms. Sara Al                  PO Box 2010,        Tel: +968 2475 4000
+                                        Postal Code 112,    Email: treasury@oab.om
+Bank S.A.O.G. Balushi                   Sultanate of
+                                        Oman
+
+Alizz Islamic Mr. Wail Al               PO Box 753,         Tel: +968 2477 5560
+Bank S.A.O.C. Shaibani                  Postal Code 112,    Email:
+                                        Sultanate of        wail.alshaibani@alizzislamic.com
+                                        Oman
+
+Confirmation Message and refunds
+
+The Issue Managers will endeavour to deliver the confirmation and details of successful subscription
+(the Confirmation Message) to the successful Applicants within fifteen (15) Business Days (indicative)
+from the Closing Date. The Issue Managers will send the Confirmation Message to the Applicants who
+have been allotted Trust Certificates through electronic means.
+
+Where an Applicant's Allocation is less than the Trust Certificates that it applied for in its Application
+Form and has paid the Full Application Amount to the Collecting Banks, the excess amount so paid by
+such Applicant will be refunded to the Applicant by the Collecting Bank to which the Full Application
+Amount was paid within fifteen (15) Business Days (indicative) following the Closing Date.
+
+Proposed Offering timetable
+
+The following table shows an indicative time schedule for completion of the Offer:
+
+Process                                                                             Date
+
+Commencement of the Offering (Opening Date)                                         19 October 2026
+
+Closing of the Offering (Closing Date)                                              25 October 2026
+
+Due date for the Obligor and the Issue Managers to receive the subscription 26 October 2026
+data and final registers for the Offering from the Collecting Banks
+
+Announcement of Allocation                                                          27 October 2026
+
+Delivery of Confirmation Message through electronic means                           27 October 2026
+
+Transfer of funds from Collecting Banks to Issue Managers                           28 October 2026
+
+Settlement and commencement of refund                                               29 October 2026
+
+Listing of the Trust Certificates with MSX (within 15 days of the Closing Date) 9 November 2026
+
+                       This Document is classified as Official Use
+
+                                                   37
+                                                   Official Use
+
+Listing and Trading of the Trust Certificates
+
+An application will be made to the MSX for listing and trading of the Trust Certificates on the Bond and
+Sukuk Market of the MSX.
+
+SELLING RESTRICTIONS
+
+Sultanate of Oman
+
+The Trust Certificates will be governed by the applicable laws in the Sultanate of Oman. The
+information contained in this Prospectus does not constitute a public offer of securities in the Sultanate
+of Oman as contemplated by the Commercial Companies Law or the Securities Law. This Prospectus
+is not intended to lead to the conclusion of any contract of whatsoever nature within the territory of the
+Sultanate of Oman.
+
+State of Qatar
+
+The Trust Certificates will not be offered, sold or delivered, at any time, directly or indirectly, in the
+State of Qatar (including the Qatar Financial Centre) in a manner that would constitute a public offering.
+This Prospectus has not been and will not be reviewed or approved by or registered with the Qatar
+Central Bank, the Qatar Stock Exchange, the Qatar Financial Centre Regulatory Authority or the Qatar
+Financial Markets Authority in accordance with their regulations or any other regulations in the State
+of Qatar (including the Qatar Financial Centre). The Trust Certificates are not and will not be traded on
+the Qatar Stock Exchange. The Trust Certificates and interest therein will not be offered to investors
+domiciled or resident in the State of Qatar (including the Qatar Financial Centre) and do not constitute
+debt financing in the State of Qatar (including the Qatar Financial Centre) under the laws of the State
+of Qatar (including the Qatar Financial Centre).
+
+Kingdom of Bahrain
+
+In relation to investors in the Kingdom of Bahrain, the Trust Certificates issued in connection with this
+Prospectus and related offering documents may only be offered in registered form to existing
+accountholders and accredited investors as defined by the Central Bank of Bahrain (the CBB) in the
+Kingdom of Bahrain where such investors make a minimum investment of at least U.S.$ 100,000 or
+any equivalent amount in other currency or such other amount as the CBB may determine.
+
+This Prospectus does not constitute an offer of securities in the Kingdom of Bahrain in terms of Article
+(81) of the Central Bank and Financial Institutions Law 2006 (Decree No. 64 of 2006). This Prospectus
+and related offering documents have not been and will not be registered as a prospectus with the CBB.
+Accordingly, no Trust Certificates may be offered, sold or made the subject of an invitation for
+subscription or purchase nor will this Prospectus or any other related document or material be used in
+connection with any offer, sale or invitation to subscribe or purchase the Trust Certificates, whether
+directly or indirectly, to persons in the Kingdom of Bahrain, other than to accredited investors for an
+offer outside the Kingdom of Bahrain.
+
+The CBB has not reviewed, approved or registered this Prospectus or related offering documents and
+it has not in any way considered the merits of the Trust Certificates to be offered for investment,
+whether in or outside the Kingdom of Bahrain. Therefore, the CBB assumes no responsibility for the
+accuracy and completeness of the statements and information contained in this Prospectus and
+expressly disclaims any liability whatsoever for any loss howsoever arising from reliance upon the
+whole or any part of the content of this Prospectus. No offer of the Trust Certificates will be made to
+
+                                 This Document is classified as Official Use
+
+                                                                 38
+                                                    Official Use
+
+the public in the Kingdom of Bahrain and this Prospectus must be read by the addressee only and
+must not be issued, passed to, or made available to the public generally.
+
+United Arab Emirates (excluding the Dubai International Financial Centre and Abu Dhabi Global
+Market)
+
+The Trust Certificates have not been, and are not being, publicly offered, sold, promoted or advertised
+in the United Arab Emirates (the UAE) (excluding the Dubai International Financial Centre and Abu
+Dhabi Global Market) other than in compliance with the laws of the UAE (excluding the Dubai
+International Financial Centre and Abu Dhabi Global Market) governing the issue, offering and sale of
+securities. Further, this Prospectus does not constitute a public offer of securities in the UAE (excluding
+the Dubai International Financial Centre and Abu Dhabi Global Market) and are not intended to be a
+public offer. This Prospectus has not been approved by or filed with the Central Bank of the UAE, the
+Securities and Commodities Authority or the Dubai Financial Services Authority or the Abu Dhabi
+Global Market.
+
+Abu Dhabi Global Market
+
+The Trust Certificates have not been, and are not being offered to any person in the Abu Dhabi Global
+Market unless such offer is:
+
+(a) An "Exempt Offer" in accordance with Rule 4.3 of the Markets Rules of the Financial Services
+          Regulatory Authority (the FSRA Rulebook); and
+
+(b) Made only to persons who meet the Professional Client criteria set out in the Conduct of
+          Business Module of the FSRA Handbook.
+
+Dubai International Financial Centre
+
+The Trust Certificates have not been, and are not being offered to any person in the Dubai International
+Financial Centre unless such offer is:
+
+(a) an "Exempt Offer" in accordance with the Markets Rules (MKT) Module of the Dubai Financial
+          Services Authority (the DFSA) Rulebook; and
+
+(b) made only to persons who meet the Professional Client criteria set out in Rule 2.3.3 of the
+          Conduct of Business Module of the DFSA Rulebook.
+
+State of Kuwait
+
+Unless all necessary approvals from the Kuwait Capital Markets Authority (the KCMA) pursuant to Law
+No. 7 of 2010, and its executive bylaws (each as amended) together with the various resolutions,
+regulations, guidance principles and instructions issued pursuant thereto, or in connection therewith
+(regardless of nomenclature) or any other applicable law or regulation in the State of Kuwait, have
+been given in respect of the offering, marketing and sale of the Trust Certificates, the Trust Certificates
+may not be offered for sale, nor sold, in the State of Kuwait. This Prospectus is not for general
+circulation to the public in the State of Kuwait nor will the Trust Certificates be sold by way of a public
+offering in the State of Kuwait. For the avoidance of doubt, no Trust Certificates shall be offered,
+marketed and/or sold in the State of Kuwait except on a private placement basis to Professional Clients
+(as defined in Module 1 of the executive bylaws of Law No. 7 of 2010 (each as amended)). Where the
+Trust Certificates are intended to be purchased onshore in the State of Kuwait, the same may only be
+
+                                 This Document is classified as Official Use
+
+                                                                  39
+                                                   Official Use
+
+so purchased through a KCMA Licensed Person duly authorised to undertake such activity pursuant
+to Law No. 7 of 2010 of Kuwait, and its executive bylaws (each as amended)).
+Investors from the State of Kuwait acknowledge that the KCMA and all other regulatory bodies in the
+State of Kuwait assume no responsibility whatsoever for the contents of this Prospectus and do not
+approve the contents thereof or verify the validity and accuracy of its contents. The KCMA, and all
+other regulatory bodies in the State of Kuwait, assume no responsibility whatsoever for any damages
+that may result from relying (in whole or in part) on the contents of this Prospectus. Prior to purchasing
+any Trust Certificates, it is recommended that a prospective holder of any Trust Certificates seeks
+professional advice from its advisors in respect of the contents of this Prospectus so as to determine
+the suitability of purchasing the Trust Certificates.
+Other Jurisdictions
+Should the Prospectus be received by any person in any jurisdiction not mentioned in the foregoing,
+the receiving party should disregard the Prospectus in cases where the receipt of the Prospectus or its
+distribution is, or may be, unlawful. The Issue Managers require persons into whose possession the
+Prospectus comes, to inform themselves of and observe, all relevant investing restrictions in their
+jurisdiction. The Issue Managers do not accept any legal responsibility for any violation of any such
+restrictions on the sale, offer to sell or solicitation to subscribe for the Trust Certificates by any person,
+whether or not a prospective investor, in any jurisdiction outside the Sultanate of Oman where such
+sale, offer to sell or solicitation to purchase would be unlawful.
+
+                                 This Document is classified as Official Use
+
+                                                                 40
+                                       Official Use
+
+UNDERTAKINGS
+
+Oman Sovereign Sukuk Company S.A.O.C. (as Issuer)
+
+Oman Sovereign Sukuk Company S.A.O.C. undertakes the following:
+
+1.  the information provided in this Prospectus is true and correct;
+
+2.  due diligence has been conducted to ensure that no material information has been omitted
+
+    which would render this Prospectus misleading; and
+
+3.  to comply with all provisions of the Commercial Companies Law and all regulations and
+
+    directives issued pursuant to it.
+
+For and on behalf of Oman Sovereign Sukuk Company S.A.O.C.
+
+No. Name                               Designation                    Signature
+
+1.  Mr. Zahir Marhoun Mohammed Al Abri Chairman
+
+2. 2Mr. Younis Salim Said Al Maawali   Board Member
+          .
+
+3.  Ms. Aseel Mohamed Redha Hassan Board Member
+
+              This Document is classified as Official Use
+
+                                          41
+                                         Official Use
+
+The Government of the Sultanate of Oman (represented by the Ministry of Finance)
+
+The Government of the Sultanate of Oman (represented by the Ministry of Finance) undertakes
+the following:
+
+1.    the information provided in this Prospectus is true and correct;
+
+2.    due diligence has been conducted to ensure that no material information has been omitted
+
+      which would render this Prospectus misleading; and
+
+3.    to comply with all provisions of the Commercial Companies Law and all regulations and
+
+      directives issued pursuant to it.
+
+For and on behalf of the Government of the Sultanate of Oman (represented by the Ministry of
+Finance)
+
+Name                                     Designation          Signature
+
+H.E. Sultan Salim Said Al Habsi          Minister of Finance
+
+      This Document is classified as Official Use
+
+                                  42
+                         Official Use
+
+Bank Muscat S.A.O.G. including its Islamic banking window, Meethaq Islamic Banking (as Issue
+Manager)
+
+Bank Muscat S.A.O.G. including its Islamic banking window, Meethaq Islamic Banking undertakes the
+following:
+
+1.  We have reviewed all the relevant documents and other material required for the preparation
+
+    of this Prospectus.
+
+2.  Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+    (represented by the Ministry of Finance) shall, jointly and severally, bear the responsibility with
+
+    regard to the validity of the information provided in this Prospectus and they have confirmed
+
+    that they have not omitted any material information which would render this Prospectus
+
+    misleading.
+
+3.  We have conducted the due diligence required by our profession with regards to this
+
+    Prospectus, which was prepared under our supervision. Based on the reviews and discussion
+
+    with Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+    (represented by the Ministry of Finance) and in case of the Government of the Sultanate of
+
+    Oman (represented by the Ministry of Finance), represented by, as applicable, its officers,
+
+    officials and other related parties, we confirm the following:
+
+    3.1 we have conducted reasonable due diligence to ensure that the information given to us by
+         Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+         (represented by the Ministry of Finance) included in this Prospectus is consistent with the
+         facts in the documents and other material of the offering;
+
+    3.2 to the best of our knowledge and from the information provided by Oman Sovereign Sukuk
+         Company S.A.O.C. and the Government of the Sultanate of Oman (represented by the
+         Ministry of Finance), have not omitted any material information which would render this
+         Prospectus misleading;
+
+    3.3 to the best of our knowledge this Prospectus and the offering to which it relates conforms
+         to all the rules and terms of disclosure stipulated in the Commercial Companies Law and
+         the directives and decisions issued in this regard; and
+
+    3.4 the information contained in this Prospectus is true, sound and adequate to assist
+         prospective Certificateholders to take the decision as to whether or not to invest in the Trust
+         Certificates offered.
+
+For and on behalf of Bank Muscat S.A.O.G. including its Islamic banking window, Meethaq
+Islamic Banking
+
+No. Name                 Designation                                  Signature
+
+1.
+
+2.
+
+                         This Document is classified as Official Use
+
+                                                     43
+                         Official Use
+
+Sohar International Bank S.A.O.G. including its Islamic banking window, Sohar Islamic (as
+Issue Manager)
+
+Sohar International Bank S.A.O.G. including its Islamic banking window, Sohar Islamic undertakes the
+following:
+
+1.  We have reviewed all the relevant documents and other material required for the preparation
+
+    of this Prospectus.
+
+2.  Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+    (represented by the Ministry of Finance) shall, jointly and severally, bear the responsibility with
+
+    regard to the validity of the information provided in this Prospectus and they have confirmed
+
+    that they have not omitted any material information which would render this Prospectus
+
+    misleading.
+
+3.  We have conducted the due diligence required by our profession with regards to this
+
+    Prospectus, which was prepared under our supervision. Based on the reviews and discussion
+
+    with Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+    (represented by the Ministry of Finance) and in case of the Government of the Sultanate of
+
+    Oman (represented by the Ministry of Finance), represented by, as applicable, its officers,
+
+    officials and other related parties, we confirm the following:
+
+    3.1 we have conducted reasonable due diligence to ensure that the information given to us by
+         Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+         (represented by the Ministry of Finance) included in this Prospectus is consistent with the
+         facts in the documents and other material of the offering;
+
+    3.2 to the best of our knowledge and from the information provided by Oman Sovereign Sukuk
+         Company S.A.O.C. and the Government of the Sultanate of Oman (represented by the
+         Ministry of Finance), have not omitted any material information which would render this
+         Prospectus misleading;
+
+    3.3 to the best of our knowledge this Prospectus and the offering to which it relates conforms
+         to all the rules and terms of disclosure stipulated in the Commercial Companies Law and
+         the directives and decisions issued in this regard; and
+
+    3.4 the information contained in this Prospectus is true, sound and adequate to assist
+         prospective Certificateholders to take the decision as to whether or not to invest in the Trust
+         Certificates offered.
+
+For and on behalf of Sohar International Bank S.A.O.G. including its Islamic banking window,
+Sohar Islamic
+
+No. Name                 Designation                                  Signature
+
+1.
+
+2.
+
+                         This Document is classified as Official Use
+
+                                                     44
+                                          Official Use
+
+Bank Nizwa S.A.O.G. (as Issue Manager)
+
+Bank Nizwa S.A.O.G. undertakes the following:
+
+1.  We have reviewed all the relevant documents and other material required for the preparation
+
+    of this Prospectus.
+
+2.  Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+    (represented by the Ministry of Finance) shall, jointly and severally, bear the responsibility with
+
+    regard to the validity of the information provided in this Prospectus and they have confirmed
+
+    that they have not omitted any material information which would render this Prospectus
+
+    misleading.
+
+3.  We have conducted the due diligence required by our profession with regards to this
+
+    Prospectus, which was prepared under our supervision. Based on the reviews and discussion
+
+    with Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+    (represented by the Ministry of Finance) and in case of the Government of the Sultanate of
+
+    Oman (represented by the Ministry of Finance), represented by, as applicable, its officers,
+
+    officials and other related parties, we confirm the following:
+
+    3.1 we have conducted reasonable due diligence to ensure that the information given to us by
+         Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+         (represented by the Ministry of Finance) included in this Prospectus is consistent with the
+         facts in the documents and other material of the offering;
+
+    3.2 to the best of our knowledge and from the information provided by Oman Sovereign Sukuk
+         Company S.A.O.C. and the Government of the Sultanate of Oman (represented by the
+         Ministry of Finance), have not omitted any material information which would render this
+         Prospectus misleading;
+
+    3.3 to the best of our knowledge this Prospectus and the offering to which it relates conforms
+         to all the rules and terms of disclosure stipulated in the Commercial Companies Law and
+         the directives and decisions issued in this regard; and
+
+    3.4 the information contained in this Prospectus is true, sound and adequate to assist
+         prospective Certificateholders to take the decision as to whether or not to invest in the Trust
+         Certificates offered.
+
+For and on behalf of Bank Nizwa S.A.O.G.
+
+No. Name                                       Designation            Signature
+
+1.
+
+2.
+
+                         This Document is classified as Official Use
+
+                                                     45
+                                           Official Use
+
+Al Maamary, Al Abri & Co. (as Legal Advisor):
+
+The legal advisor hereby undertakes that:
+
+1.    all the procedures taken in connection with the issue and offering of the Certificates are in line
+
+      with:
+
+      1.1 the laws and regulations applicable to Oman Sovereign Sukuk Company S.A.O.C. and the
+           Government of the Sultanate of Oman (represented by the Ministry of Finance);
+
+      1.2 the Commercial Companies Law and the regulations and directives issued pursuant to
+           them; and
+
+      1.3 the constitutive documents of Oman Sovereign Sukuk Company S.A.O.C.
+
+2.    Oman Sovereign Sukuk Company S.A.O.C. and the Government of the Sultanate of Oman
+
+      (represented by the Ministry of Finance) have obtained all applicable approvals in Oman
+
+      required for the issuance of the Trust Certificates as described in this Prospectus.
+
+For and on behalf of Al Maamary, Al Abri & Co.
+
+Name                                       Designation   Signature
+
+             This Document is classified as Official Use
+
+                                         46
+
