@@ -8,14 +8,14 @@ Tk is the Bangladeshi taka (1 lakh is Tk 100,000; 1 crore is 100 lakh). Wages an
 
 ### In one minute
 
-Cambodia took few Bangladeshi workers until 2025 (929 in 2024, its 23rd destination); in 2025 BMET cleared 12,263 for it, almost all men and mostly recorded as construction workers, on permission letters for Phnom Penh building firms at USD 420 (about Tk 52,400) a month [B0078, N0013, B0079, B0084, B0115, B0116, B0151, B0141, G0002]. Most went in small batches of up to five workers whose job papers needed no check by the Bangladesh embassy; BMET's permission letters capped what an agency could take at Tk 80,520 to Tk 1,55,450, but people paid Tk 2 to 7 lakh, often through a middleman who promised a computer, data-entry or customer-service job [B0214, N0081, B0157, N0151, N0103, N0150]. On arrival many were met by Bangladeshi brokers, kept in a hotel and sold for USD 1,500 to 5,000 (about Tk 1.9 to 6.2 lakh) to Chinese-run scam compounds, guarded sites where they were forced to cheat people online and beaten or given electric shocks if they refused [S0039, S0043, S0110, S0089, S0022, S0026, G0002]. BRAC counted more than 1,000 BMET-cleared Bangladeshis still trapped in compounds in July 2026, and a BRAC study found 98% of returnees from Cambodia had not got the promised job [B0209, N0196]. Even a real job ties a worker to one employer's work permit, renewed every year, and an expired visa costs USD 10 (about Tk 1,250) a day and can end in detention and deportation: Cambodia deported more than 3,000 Bangladeshis in January to September 2026 [W0066, L0040, W0032, U0044, U0040, B0225, G0002]. Bangladesh has no embassy in Cambodia, and the land border with Thailand, where its embassy is, is closed [B0197, V0042]. BMET clearances fell from 3,235 in October 2025 to none in October 2026, and on 4 November 2026 the Ministry of Expatriates' Welfare told BMET to clear no one for a list of 12 countries, Cambodia among them, without its approval [B0095, B0107, N0097, B0069].
+Cambodia took few Bangladeshi workers until 2025 (929 in 2024, its 23rd destination); in 2025 BMET cleared 12,263 for it, almost all men and mostly recorded as construction workers, on permission letters for Phnom Penh building firms at USD 420 (about Tk 52,400) a month [B0078, N0013, B0079, B0084, B0115, B0116, B0151, B0141, G0002]. Most went in small batches of up to five workers whose job papers needed no check by the Bangladesh embassy; BMET's permission letters capped what an agency could take at Tk 80,520 to Tk 1,55,450, but people paid Tk 2 to 7 lakh, often through a middleman who promised a computer, data-entry or customer-service job [B0214, N0081, B0157, N0151, N0103, N0150]. On arrival many were met by Bangladeshi brokers, kept in a hotel and sold for USD 1,500 to 5,000 (about Tk 1.9 to 6.2 lakh) to Chinese-run scam compounds, guarded sites where they were forced to cheat people online and beaten or given electric shocks if they refused [S0039, S0043, S0110, S0089, S0022, S0026, G0002]. BRAC counted more than 1,000 BMET-cleared Bangladeshis still trapped in compounds in July 2026, and a BRAC study found 98% of returnees from Cambodia had not got the promised job [B0209, N0196]. Even a real job ties a worker to one employer's work permit, renewed every year, and an expired visa costs USD 10 (about Tk 1,250) a day and can end in detention and deportation: Cambodia deported more than 3,000 Bangladeshis in January to September 2026 [W0066, L0040, W0032, U0044, U0040, B0225, G0002]. Bangladesh has no embassy in Cambodia, only an Honorary Consulate in Phnom Penh, and the land border with Thailand, where its embassy is, is closed, though the Embassy held a consular camp in Phnom Penh in April 2026 [B0197, M0007, V0042, M0002]. BMET clearances fell from 3,235 in October 2025 to none in October 2026, and on 4 November 2026 the Ministry of Expatriates' Welfare told BMET to clear no one for a list of 12 countries, Cambodia among them, without its approval [B0095, B0107, N0097, B0069].
 
 ### Is it open now, and who can go?
 
-Closed in practice for workers going through BMET, as of 10 November 2026: BMET cleared 7 workers for Cambodia in September 2026 and none in October or from 1 to 10 November [B0106, B0107, B0108]. On 4 November 2026 the Ministry of Expatriates' Welfare told BMET not to clear workers for 12 countries, Cambodia among them, without the Ministry's own recruitment permission or approval, giving suspected trafficking, deception and workers ending up in detention as its reasons [N0097, B0069, B0229, N0101]. Every demand letter (the employer's written request for workers) for these countries must now be approved by the Ministry first, and BAIRA (the Bangladesh Association of International Recruiting Agencies) has passed the order to its member agencies by circular [N0106, W0097, N0098]. In July 2026 the State Minister for Expatriates' Welfare, Nurul Hoque, said there would be no blanket ban on Cambodia, but that workers for Cambodia would need proper work visas and full checks before clearance [B0215].
+Closed in practice for workers going through BMET, as of 10 November 2026: BMET cleared 7 workers for Cambodia in September 2026 and none in October or from 1 to 10 November [B0106, B0107, B0108]. On 4 November 2026 the Ministry of Expatriates' Welfare told BMET not to clear workers for 12 countries, Cambodia among them, without the Ministry's own recruitment permission or approval [N0097, B0069, B0229, M0019]. The letter gives no reason, but a Ministry deputy secretary cited suspected trafficking, deception and workers ending up in detention [M0020, N0101]. Every demand letter (the employer's written request for workers) for these countries must now be approved by the Ministry first, and BAIRA (the Bangladesh Association of International Recruiting Agencies) has passed the order to its member agencies by circular [N0106, W0097, N0098]. In July 2026 the State Minister for Expatriates' Welfare, Nurul Hoque, said there would be no blanket ban on Cambodia, but that workers for Cambodia would need proper work visas and full checks before clearance [B0215].
 
 > **Need to know**
-> - Is Cambodia on the Ministry's 4 November 2026 list of 12 countries (one Bangla daily lists Croatia in its place), and what does an agency now submit to the Ministry to get a Cambodia demand letter approved?
+> - What does an agency now submit to the Ministry to get a Cambodia demand letter approved?
 > - Has the Ministry approved any Cambodia demand letter since 4 November 2026?
 
 #### Status
@@ -235,7 +235,7 @@ The danger that defines this corridor is the BMET-cleared route itself: people p
 
 ## Visas not open to Bangladeshis
 
-- **Visa-free entry:** only for ordinary passports of the other ASEAN countries, the Maldives and Seychelles; Bangladeshis always need a visa [V0004, V0065].
+- **Visa-free entry:** only for ordinary passports of the other ASEAN countries, the Maldives and Seychelles; Cambodia exempts Bangladeshi diplomatic and official passports for 30 days, but ordinary Bangladeshi passports always need a visa [V0004, V0065, M0014].
 - **Official visa (B):** only for official or service passports on government missions [V0015].
 - **Courtesy visa (C):** only for members of registered international NGOs [V0016].
 - **Khmer visa (K):** only for people of Khmer origin or Cambodian ancestry, including children of Cambodians; marrying a Cambodian does not qualify you [V0017, V0018].
@@ -395,7 +395,7 @@ No foreigner may work in Cambodia without both a work permit and an employment c
 
    The e-visa needs a passport valid for more than 6 months on the day you enter Cambodia (Step 5, item 1) [W0002].
 
-   **If it is lost or stolen:** in Bangladesh, file a GD (general diary, a police report) at the nearest police station quickly, then re-apply with a copy of the old passport and the GD [B0026]. Passport helpline: 16445 (09666716445 from abroad), 24 hours [B0028]. In Cambodia, passports are issued by the Embassy in Bangkok (see The Bangladesh Embassy in Bangkok); all land border crossings between Cambodia and Thailand are closed until further notice [B0183, V0042].
+   **If it is lost or stolen:** in Bangladesh, file a GD (general diary, a police report) at the nearest police station quickly, then re-apply with a copy of the old passport and the GD [B0026]. Passport helpline: 16445 (09666716445 from abroad), 24 hours [B0028]. In Cambodia, passports are issued by the Embassy in Bangkok (see The Bangladesh Embassy in Bangkok); all land border crossings between Cambodia and Thailand are closed until further notice, though the Embassy has held a consular camp in Phnom Penh (see Step 3: Get a Travel Permit if you have no passport) [B0183, V0042, M0002].
 
 2. **Get a police clearance if the employer or agency asks for one.**
 
@@ -420,7 +420,7 @@ No foreigner may work in Cambodia without both a work permit and an employment c
 
 ### Step 5: The visa, and checking it is real
 
-To work you enter on the E-class visa, which is for people who have accepted a job offer from a registered Cambodian company, not the T-class tourist visa: only the E-class visa can be extended inside Cambodia as an EB extension [V0012, W0069, W0078]. Since April 2025 the E-class e-visa is open to applicants from all countries [V0005]. (Tourist visas: see Visit visa.)
+To work you enter on the E-class visa, which is for people who have accepted a job offer from a registered Cambodian company, not the T-class tourist visa: only the E-class visa can be extended inside Cambodia as an EB extension [V0012, W0069, W0078]. Since April 2025 the E-class e-visa is open to applicants from all countries [V0005]. At a Cambodian embassy (for Bangladesh, the one in New Delhi: see Step 1: Choose how to apply) the single-entry E-class visa costs USD 35 (about Tk 4,400), is issued in 3 days and is valid for 3 months, and multiple-entry business visas cost USD 50 for 1 year (about Tk 6,200), USD 75 for 2 years (about Tk 9,300) or USD 100 for 3 years (about Tk 12,500) [M0016, M0018, G0002]. (Tourist visas: see Visit visa.)
 
 1. **Apply for the E-class e-visa online.** The e-visa is run only by the E-Visa Office of the Ministry of Foreign Affairs and International Cooperation, at [evisa.gov.kh](https://www.evisa.gov.kh) [V0027, W0001]. It costs USD 35 (about Tk 4,400), is single entry, is valid for 3 months from issue and lets you stay 1 month [W0001, G0002].
 
@@ -690,7 +690,7 @@ Your right to stay is the EB (work or business) extension of your E-class (ordin
 
 1. **Extend the EB before it runs out.** It is done inside Cambodia at the immigration office or through a visa agent (prices: Work visa: company worker, Step 7) [V0038, W0070]. The second and every later 6- or 12-month EB needs proof of a valid work permit [W0071]. In 2026 extensions increasingly depend on supporting documents and accommodation records, and a worker missing from FPCS may be refused [W0080, W0083, V0059].
 2. **Renew the work permit every year, between 1 January and 31 March** [W0032]. The employer files it on FWCMS (the Foreign Workers Centralized Management System, MLVT's online system) (Work visa: company worker, Step 3) [W0066, W0105]. To renew you need an EB extension with at least 6 months left [W0055].
-3. **Keep your passport valid.** Without a valid passport you may not work [L0176]. The Bangladesh Embassy in Bangkok, which covers Cambodia, issues a regular passport for 3,960 baht (Thai currency) in 40 to 45 days, or express for 7,920 baht in 21 to 28 days [L0117, B0183]. The Thai land border is closed, so a worker in Cambodia can't reach the Embassy overland (see The Bangladesh Embassy in Bangkok) [V0042, U0136]. After a new passport, re-register it with NSSF (Social security (NSSF)) [L0170].
+3. **Keep your passport valid.** Without a valid passport you may not work [L0176]. The Bangladesh Embassy in Bangkok, which covers Cambodia, issues a regular passport for 3,960 baht (Thai currency) in 40 to 45 days, or express for 7,920 baht in 21 to 28 days [L0117, B0183]. The Thai land border is closed, so a worker in Cambodia can't reach the Embassy overland, though the Embassy has held a consular camp in Phnom Penh (see Step 3: Get a Travel Permit if you have no passport) [V0042, U0136, M0002]. After a new passport, re-register it with NSSF (Social security (NSSF)) [L0170].
 
 **Check it is real:** under BMET's permission conditions the agency must send your work permit to BMET within 3 months of departure, and report your EB extension and regular salary to BMET and the Embassy's labour wing in Bangkok [B0159, B0163]. The labour wing's email is fsbangkok@probashi.gov.bd [B0173].
 
@@ -779,7 +779,7 @@ Cambodian officers interview Bangladeshis applying to go home to screen for traf
 2. **Appeal** to a court within two months of the order [L0094].
 3. **Detention.** Cambodia runs immigration detention centres in Phnom Penh and Sihanoukville, and in 2026 moved foreigners suspected of scam work, Bangladeshis among them, to the Bati Pre-Deportation Centre in Takeo province [U0049, U0052, U0053, U0054]. How long you stay there depends on your embassy issuing travel papers if you have no passport [U0055]. Detainees have reported officers demanding bribes for phones, beds, food deliveries and release (2023) [U0050].
 4. **The ban.** Deportees for illegal entry and work are blacklisted for at least three to five years, and those who refused the 2026 voluntary-departure window and were detained are barred for life once deported [U0043, U0040].
-5. **Who helps.** Bangladesh has no embassy in Cambodia; the Bangladesh Embassy in Bangkok handles it (The Bangladesh Embassy in Bangkok) [L0117]. In Bangladesh the family can apply to the Wage Earners' Welfare Board (WEWB) to bring home a worker jailed abroad, and for legal aid abroad, through the DC office's expatriate welfare branch, the DEMO (District Employment and Manpower Office) or the Board directly [L0144, B0249].
+5. **Who helps.** Bangladesh has no embassy in Cambodia; the Bangladesh Embassy in Bangkok handles it, and Bangladesh's Honorary Consulate in Phnom Penh takes urgent requests for help (The Bangladesh Embassy in Bangkok) [L0117, M0009]. In Bangladesh the family can apply to the Wage Earners' Welfare Board (WEWB) to bring home a worker jailed abroad, and for legal aid abroad, through the DC office's expatriate welfare branch, the DEMO (District Employment and Manpower Office) or the Board directly [L0144, B0249].
 
 **In practice:** on 3 September 2026 immigration police detained 32 Bangladeshis at Phnom Penh airport as they tried to fly home under the fine waiver; held without phones, 30 reached Dhaka on 20 October 2026 after more than six weeks, on tickets they paid for themselves [L0118, U0020, U0008, L0124, L0120]. In December 2025 Bangladeshi construction workers fleeing the Thai border fighting were detained though most said they had valid visas and work permits, and were asked for USD 800 (about Tk 1 lakh) each to be sent home [N0185, N0186, N0187, G0002].
 
@@ -907,14 +907,14 @@ Amnesty International counted at least 53 compounds in 16 towns and cities in Ju
 
 ### If you or a relative is trapped
 
-Bangladesh has no embassy in Cambodia; the Bangladesh Embassy in Bangkok covers it [S0193, U0017]. All land crossings between Cambodia and Thailand are closed, so a worker in Cambodia can't reach the embassy overland [V0042]. Rescue was more likely when a foreign embassy was involved than through the Cambodian hotline alone [S0165].
+Bangladesh has no embassy in Cambodia; the Bangladesh Embassy in Bangkok covers it, and Bangladesh has an Honorary Consulate in Phnom Penh (see The Bangladesh Embassy in Bangkok) [S0193, U0017, M0007]. All land crossings between Cambodia and Thailand are closed, so a worker in Cambodia can't reach the embassy overland, though the Embassy has held a consular camp in Phnom Penh (see Step 3: Get a Travel Permit if you have no passport) [V0042, M0002]. Rescue was more likely when a foreign embassy was involved than through the Cambodian hotline alone [S0165].
 
 You'll need the compound's exact location and a photo of him; the police hotline asks for both before it acts [S0166].
 
 Ask for help in this order:
 
 1. **Get the location out.** One victim shared his live location with his wife before he was locked up, and his brother then reached Bangladeshis in Cambodia who traced him [S0065, S0066]. Several survivors were beaten after bosses found they had secretly contacted the police [S0155].
-2. **Contact the embassy's labour and welfare wing.**
+2. **Contact the embassy's labour and welfare wing, or the Honorary Consulate in Phnom Penh** (liaison officer Md Zahid Hasan (Rafique), mobile and WhatsApp +855 96 245 30 84; see The Bangladesh Embassy in Bangkok) [M0009, M0010].
    - **Welfare hotline** for Bangladeshis in Thailand and Cambodia: +66-818-70-84-43 [S0198].
    - **Labour and welfare email:** fsbangkok@probashi.gov.bd; the First Secretary (Labour) in 2026 is Jahir Emam [S0199, B0176].
    - **Main line:** +66 2 390 5107 to 8; mission.bangkok@mofa.gov.bd and consular.bangkok@mofa.gov.bd [S0201, S0202].
@@ -1014,11 +1014,11 @@ The tourist visa (T-class) is for holidays, and working on it is prohibited [V00
 ### Step 1: Choose how to apply
 
 1. **Online:** www.evisa.gov.kh is run only by the E-Visa Office of Cambodia's MFAIC (Ministry of Foreign Affairs and International Cooperation); embassies don't run it [V0027]. The steps are in Step 2: Apply for the e-visa.
-2. **Through an embassy, by email:** Cambodia's embassy for Bangladesh is the Royal Embassy of Cambodia in New Delhi (A-1/309, Safdarjung Enclave, New Delhi 110029; +91 11 41717136 or 41717143; camemb.ind@mfaic.gov.kh) [V0021, V0052]. Tourist and business visas can typically be requested from any Cambodian embassy, wherever the applicant lives [V0044].
+2. **Through an embassy, by email:** Cambodia's embassy for Bangladesh is the Royal Embassy of Cambodia in New Delhi (A-1/309, Safdarjung Enclave, New Delhi 110029; +91 11 41717136 or 41717143; camemb.ind@mfaic.gov.kh) [V0021, V0052]. Tourist and business visas can typically be requested from any Cambodian embassy, wherever the applicant lives [V0044]. At an embassy the tourist (T) visa costs USD 30 (about Tk 3,700), is issued in 3 days and is valid for 3 months [M0017, G0002].
 3. **On arrival:** a visa on arrival is offered at international airports and border checkpoints, but not every nationality is eligible [V0024, V0028]. It is now processed electronically, with a digital visitor pass sent by email, and since 1 September 2026 its fee can be paid online in advance [V0056, V0066].
 
 > **Need to know**
-> - Does the New Delhi embassy accept visa applications by email from people living in Bangladesh, and what does it charge?
+> - Does the New Delhi embassy accept visa applications by email from people living in Bangladesh, and does it charge more than the standard USD 30 tourist or USD 35 business visa fee?
 
 ### Step 2: Apply for the e-visa
 
@@ -1081,7 +1081,7 @@ No: employment on a tourist visa is prohibited [V0009]. Turning a tourist visa i
 
 A worker's husband, wife or child stays on an EB dependant extension: EB extensions cover dependants of EB holders, for 1, 3, 6 or 12 months [V0030]. Only the E-class visa can be extended as EB, so the family member enters on it [W0069, W0078].
 
-1. **Get your marriage and relationship papers certified** at the Embassy of Bangladesh in Bangkok, which covers Cambodia: it attests a marriage certificate for 275 baht and issues a relationship certificate for 205 baht [V0110, V0109, V0106]. The Thai land border is closed, so a worker in Cambodia can't reach Bangkok overland [V0042].
+1. **Get your marriage and relationship papers certified** at the Embassy of Bangladesh in Bangkok, which covers Cambodia: it attests a marriage certificate for 275 baht and issues a relationship certificate for 205 baht [V0110, V0109, V0106]. The Thai land border is closed, so a worker in Cambodia can't reach Bangkok overland, though the Embassy has held a consular camp in Phnom Penh (see Step 3: Get a Travel Permit if you have no passport) [V0042, M0002].
 2. **The family member gets the E-class e-visa** on www.evisa.gov.kh, as in Work visa: company worker, Step 5 [W0001, W0069].
 3. **After arrival, apply for the dependant EB extension** at the immigration office or through a visa agent, with proof of the relationship and a letter from you, the EB holder [V0038, V0031]. Agents' EB prices are in Work visa: company worker, Step 7 [W0070].
 4. **Register the family's address on FPCS** (Work visa: company worker, Step 7) [W0081].
@@ -1130,7 +1130,7 @@ A child born in Cambodia to two Bangladeshi parents is not Cambodian: a child bo
    - the parents' work permit and visa copies [V0101].
 
    It is free within 45 days of the birth and 36 baht after [V0103]. If a parent is Bangladeshi by descent only (born abroad), the child is a citizen only if the birth is registered at a Bangladesh mission [V0112].
-4. **Get the child a passport** at the Bangkok embassy: 3,960 baht regular (40 to 45 days) or 7,920 baht express (21 to 28 days) [V0104]. The Thai land border is closed, so a parent in Cambodia can't reach Bangkok overland [V0042].
+4. **Get the child a passport** at the Bangkok embassy: 3,960 baht regular (40 to 45 days) or 7,920 baht express (21 to 28 days) [V0104]. The Thai land border is closed, so a parent in Cambodia can't reach Bangkok overland, though the Embassy has held a consular camp in Phnom Penh (see Step 3: Get a Travel Permit if you have no passport) [V0042, M0002].
 
 > **Need to know**
 > - Can parents in Cambodia send the birth-registration and passport papers to the Bangkok embassy by post or courier, or must a parent travel to Bangkok?
@@ -1228,7 +1228,7 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
 
 ### Help from Bangladesh
 
-- **The Bangladesh Embassy in Bangkok** handles Bangladeshis in Cambodia, because Bangladesh has no embassy there (see Step 2: Register with the Bangladesh Embassy in Bangkok) [B0197].
+- **The Bangladesh Embassy in Bangkok** handles Bangladeshis in Cambodia, because Bangladesh has no embassy there (see Step 2: Register with the Bangladesh Embassy in Bangkok) [B0197]. Bangladesh's Honorary Consulate in Phnom Penh worked with the Embassy on overstay-fine waivers and takes urgent requests for help (see The Bangladesh Embassy in Bangkok) [M0007, M0008, M0009, M0011].
 - **Probashi call centre** of the Wage Earners' Welfare Board (WEWB, the government fund for migrant workers): 16135, free in Bangladesh, or +8809610102030 from abroad [B0021].
 - **WEWB by application:** a family can apply for a worker jailed abroad to be brought home, and for legal help abroad, through the expatriate welfare branch of the DC (Deputy Commissioner's) office, the DEMO (District Employment and Manpower Office) or directly to the Welfare Board, which writes to the embassy and tells the family the result [L0144, B0249, B0003].
 - **Ministry of Expatriates' Welfare and Overseas Employment:** a family can write to its grievance officer, the Joint Secretary (Admin and Finance), 02-41030224, 01712992086, adsadmin@probashi.gov.bd, who has 30 working days to reply [B0051].
@@ -1240,12 +1240,12 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
 
 ### Step 1: Check whether a fine waiver is open
 
-1. **Find out whether Cambodia is waiving overstay fines.** In June 2026 Cambodia let overstayers leave without paying fines; at the Bangladesh Embassy in Bangkok's request it extended the window to 1 September, and from 1 September it again let overstayers leave voluntarily without fines [U0005, U0006, U0001]. That waiver was due to end on 31 October 2026 [L0123, U0021]. Embassies negotiate waivers country by country, and the process is slow [U0045]. One returnee learned of the waiver on Facebook, applied, bought a ticket and flew home on 14 June 2026; another's fine was waived 24 days after he applied [U0036, S0029]. To ask the GDI directly, call its hotline for foreigners (see Contacts in Cambodia) [K0027].
+1. **Find out whether Cambodia is waiving overstay fines.** On 17 April 2026 the Embassy announced that Cambodia would show leniency until 30 April 2026 to foreigners staying irregularly, especially those working in online scam centres, and would take legal action after that date [M0001]. To apply for a waiver, email copies of your passport and visa to the Embassy (mission.bangkok@mofa.gov.bd or fsbangkok@probashi.gov.bd) or to the Honorary Consul (sophear@sophiyacorp.com), or send a hard copy to the Embassy in Bangkok [M0004, M0006, M0013]. The names go on lists sent to Cambodia's Ministry of Foreign Affairs and International Cooperation (MFAIC); once a list is approved, the people on it go to the Phnom Penh immigration office with their documents within 2-3 weeks [M0012]. By 5 May 2026 about 1,500-1,600 stranded Bangladeshis had completed waiver applications, and new applications were partly closed, with urgent cases still taken by the Honorary Consulate or the Embassy [M0008, M0009]. In June 2026 Cambodia let overstayers leave without paying fines; at the Bangladesh Embassy in Bangkok's request it extended the window to 1 September, and from 1 September it again let overstayers leave voluntarily without fines [U0005, U0006, U0001]. That waiver was due to end on 31 October 2026 [L0123, U0021]. Embassies negotiate waivers country by country, and the process is slow [U0045]. One returnee learned of the waiver on Facebook, applied, bought a ticket and flew home on 14 June 2026; another's fine was waived 24 days after he applied [U0036, S0029]. To ask the GDI directly, call its hotline for foreigners (see Contacts in Cambodia) [K0027].
 2. **Leave inside the window.** Waivers are time-limited and can require departure within days [S0208]. Someone who refused to leave in a window and was then detained is barred from Cambodia for life once deported (see Bans after you leave) [U0040].
 
 > **Need to know**
 > - Was the waiver extended past 31 October 2026, and is one open now? If not, what does a Bangladeshi overstayer pay to leave?
-> - Where does the Bangladesh Embassy in Bangkok announce waiver windows (Facebook page or website)?
+> - Which documents does the Phnom Penh immigration office ask for once a waiver is approved, and does it charge anything?
 > - Must a Bangladeshi granted a waiver send his ticket details to the GDI before flying, and how?
 
 ### Step 2: Register with the Bangladesh Embassy in Bangkok
@@ -1262,8 +1262,8 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
 
 ### Step 3: Get a Travel Permit if you have no passport
 
-1. **Apply for a Travel Permit,** a one-way document the Embassy issues to a Bangladeshi without a passport who wants to go home [B0179]. In 2026 many Bangladeshis overstaying in Cambodia received travel passes to return, and the Embassy was working to send one woman home on a travel pass with the Cambodian government's cooperation [U0061, S0197].
-   You'll need [B0180]:
+1. **Apply for a Travel Permit,** a one-way document the Embassy issues to a Bangladeshi without a passport who wants to go home [B0179]. In 2026 many Bangladeshis overstaying in Cambodia received travel passes to return, and the Embassy was working to send one woman home on a travel pass with the Cambodian government's cooperation [U0061, S0197]. From Cambodia, email the application to mission.bangkok@mofa.gov.bd or fsbangkok@probashi.gov.bd, or send a hard copy to the Embassy in Bangkok, with a copy of your passport, your NID (national identity card), a police clearance, a photo and details of where you are now [M0004, M0005].
+   At the Embassy itself you'll need [B0180]:
    - copies of your old passport and its visa page;
    - your air ticket;
    - your birth certificate or NID (national identity card);
@@ -1272,10 +1272,10 @@ This is for anyone whose visa has expired, whose passport is held by a broker or
    - an interview in person at the Embassy.
 2. **Pay the fee:** 550 baht (ordinary) or 1,100 baht (urgent) [B0181, B0182]. The consular section takes applications 9:30 am to 12:00 noon and delivers 3:30 to 4:30 pm, Monday to Friday [B0178].
 
-All land border crossings between Cambodia and Thailand are closed, so a worker in Cambodia cannot reach the Embassy in Bangkok overland [V0042]. For people held at the Bati centre, release waits on their embassy issuing travel documents (see "Raids, detention and deportation") [U0055]. When Cambodia waived 602 Nepalis' overstay fines in May 2026, Nepal's embassy in Bangkok, which also covers Cambodia, prepared one-way travel documents and sent them to Cambodia for those whose passports were lost or expired [U0131, U0132].
+All land border crossings between Cambodia and Thailand are closed, so a worker in Cambodia cannot cross overland into Thailand to reach the Embassy in Bangkok [V0042]. On 4-5 April 2026 the Embassy held a consular camp in Phnom Penh and issued more than a hundred Travel Permits there [M0002]. Some people stayed on after their Travel Permit expired, or tried to cross into neighbouring countries on others' advice, and raised their risk of jail and fines [M0003]. For people held at the Bati centre without passports, release waits on their embassy issuing travel documents (see "Raids, detention and deportation") [U0055]. When Cambodia waived 602 Nepalis' overstay fines in May 2026, Nepal's embassy in Bangkok, which also covers Cambodia, prepared one-way travel documents and sent them to Cambodia for those whose passports were lost or expired [U0131, U0132].
 
 > **Need to know**
-> - With the land border closed, how does someone in Cambodia without a passport do the Travel Permit interview: does the labour wing take applications in Phnom Penh, by video, or through a representative?
+> - Outside a consular camp, does a Travel Permit applicant in Cambodia still need an interview, and how does he get a Bangladesh police clearance from Cambodia?
 > - Is the 550-baht Travel Permit ready the same day or in two working days? (The Embassy's two pages differ.)
 
 ### Step 4: Buy the ticket and leave
@@ -1377,7 +1377,7 @@ Hundi brokers bring cash to the family's door, and in 2022-2024 paid more taka p
 
 ## If a worker dies, is injured or loses the job
 
-In Cambodia, NSSF (the National Social Security Fund) covers work injuries for all paid workers, Cambodian and foreign, and the employer must register you within 3 days of hiring, using your passport number [L0071, K0034]. In Bangladesh the WEWB (Wage Earners' Welfare Board, the government board for migrants' welfare) pays grants to dead workers' families, and its Probashi call centre is 16135 (free), or +8809610102030 from abroad [B0235, B0021]. Its Tk 3 lakh death grant goes only to workers who left with BMET (Bureau of Manpower, Employment and Training) clearance or are Board members [B0235]. Bangladesh has no embassy in Cambodia; the Embassy in Bangkok handles it (see The Bangladesh Embassy in Bangkok) [B0169, B0197].
+In Cambodia, NSSF (the National Social Security Fund) covers work injuries for all paid workers, Cambodian and foreign, and the employer must register you within 3 days of your first day of work, using the details in your passport [L0071, K0034, L0075, L0089]. In Bangladesh the WEWB (Wage Earners' Welfare Board, the government board for migrants' welfare) pays grants to dead workers' families, and its Probashi call centre is 16135 (free), or +8809610102030 from abroad [B0235, B0021]. Its Tk 3 lakh death grant goes only to the families of workers who left with BMET (Bureau of Manpower, Employment and Training) clearance or are Board members [B0235]. Bangladesh has no embassy in Cambodia; the Embassy in Bangkok handles it, and Bangladesh has an Honorary Consulate in Phnom Penh (see The Bangladesh Embassy in Bangkok) [B0169, B0197, M0007, M0011].
 
 ### If you are injured or fall ill
 
@@ -1474,7 +1474,7 @@ In Cambodia, NSSF (the National Social Security Fund) covers work injuries for a
 
 ### The Bangladesh Embassy in Bangkok
 
-Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers Cambodia [B0169, B0197]. In May 2026 Thailand's Prime Minister said the Thai-Cambodian border checkpoints would stay closed until Cambodia accepted Thailand's conditions [U0135]. All land border crossings between Cambodia and Thailand are closed until further notice, so a worker in Cambodia can't reach the Embassy overland for services that need him in person, such as a Travel Permit interview or a power of attorney [V0042, B0180, B0254].
+Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers Cambodia [B0169, B0197]. Bangladesh does have an Honorary Consul in Cambodia, Oknha Sreat Mom Sophear, a person appointed to represent Bangladesh there; the Honorary Consulate worked with the Embassy on overstay-fine waivers and takes urgent requests for help [M0007, M0008, M0009]. Its liaison office is at No. 216B, Street 63 (Trasak Pa-em), Sangkat Boeung Keng Kang 1, Phnom Penh; the liaison officer, Md Zahid Hasan (Rafique), is on mobile and WhatsApp at +855 96 245 30 84 and rafique@bangladeshhc-cambodia.com, and the Honorary Consul's email is sophear@sophiyacorp.com [M0011, M0010, M0013]. In May 2026 Thailand's Prime Minister said the Thai-Cambodian border checkpoints would stay closed until Cambodia accepted Thailand's conditions [U0135]. All land border crossings between Cambodia and Thailand are closed until further notice, so a worker in Cambodia can't reach the Embassy overland for services that need him in person, such as a Travel Permit interview or a power of attorney [V0042, B0180, B0254]. The Embassy has instead held a consular camp in Phnom Penh (see Step 3: Get a Travel Permit if you have no passport) [M0002].
 
 - **Address:** 47/8 Ekamai Soi 30, Sukhumvit 63, Bangkok 10110, Thailand; 9 am to 5 pm, closed weekends and public holidays [B0171, B0174].
 - **Phone:** +66 (0)2 390 5107 to 8 [B0172].
@@ -1494,9 +1494,9 @@ Bangladesh has no embassy in Cambodia; its Embassy in Bangkok, Thailand, covers 
 **What it does in practice.** During the Thailand-Cambodia fighting in July 2025, the Embassy's Counsellor (Labour) went to Phnom Penh and arranged temporary food, shelter, transport and medical care for displaced Bangladeshis, with help from the Bangladeshi community [B0192, B0193]. BMET's permission letters for Cambodia are copied to the Embassy's labour counsellor [B0150]. Its "Labour Welfare Relations" web page is under construction [B0190].
 
 > **Need to know**
-> - Are the Thai-Cambodian border checkpoints still closed in November 2026, and does the Embassy send a team or accept papers by post from Bangladeshis in Cambodia instead?
+> - Are the Thai-Cambodian border checkpoints still closed in November 2026, and has the Embassy held a consular camp in Phnom Penh since April 2026?
 > - Does the +66-818-70-84-43 hotline take WhatsApp messages, and in which hours?
-> - Is there a Bangladeshi community contact or association in Phnom Penh that the Embassy works through, with a phone number workers can call?
+
 
 ### Contacts in Cambodia
 

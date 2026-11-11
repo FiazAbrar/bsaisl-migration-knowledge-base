@@ -6,7 +6,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Is it open now, and who can go?
 
-- Is Cambodia on the Ministry's 4 November 2026 list of 12 countries (one Bangla daily lists Croatia in its place), and what does an agency now submit to the Ministry to get a Cambodia demand letter approved?
+- What does an agency now submit to the Ministry to get a Cambodia demand letter approved?
 - Has the Ministry approved any Cambodia demand letter since 4 November 2026?
 
 - Has BOESL (Bangladesh Overseas Employment and Services Limited, the government's own recruiting company) ever sent workers to Cambodia, and is any recruitment planned under the renewed MoU?
@@ -163,7 +163,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Step 1: Choose how to apply
 
-- Does the New Delhi embassy accept visa applications by email from people living in Bangladesh, and what does it charge?
+- Does the New Delhi embassy accept visa applications by email from people living in Bangladesh, and does it charge more than the standard USD 30 tourist or USD 35 business visa fee?
 
 ### Step 2: Apply for the e-visa
 
@@ -232,7 +232,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 ### Step 1: Check whether a fine waiver is open
 
 - Was the waiver extended past 31 October 2026, and is one open now? If not, what does a Bangladeshi overstayer pay to leave?
-- Where does the Bangladesh Embassy in Bangkok announce waiver windows (Facebook page or website)?
+- Which documents does the Phnom Penh immigration office ask for once a waiver is approved, and does it charge anything?
 - Must a Bangladeshi granted a waiver send his ticket details to the GDI before flying, and how?
 
 ### Step 2: Register with the Bangladesh Embassy in Bangkok
@@ -242,7 +242,7 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### Step 3: Get a Travel Permit if you have no passport
 
-- With the land border closed, how does someone in Cambodia without a passport do the Travel Permit interview: does the labour wing take applications in Phnom Penh, by video, or through a representative?
+- Outside a consular camp, does a Travel Permit applicant in Cambodia still need an interview, and how does he get a Bangladesh police clearance from Cambodia?
 - Is the 550-baht Travel Permit ready the same day or in two working days? (The Embassy's two pages differ.)
 
 ### Step 4: Buy the ticket and leave
@@ -309,9 +309,8 @@ These are the questions the Italy migration guide can't yet answer, grouped by t
 
 ### The Bangladesh Embassy in Bangkok
 
-- Are the Thai-Cambodian border checkpoints still closed in November 2026, and does the Embassy send a team or accept papers by post from Bangladeshis in Cambodia instead?
+- Are the Thai-Cambodian border checkpoints still closed in November 2026, and has the Embassy held a consular camp in Phnom Penh since April 2026?
 - Does the +66-818-70-84-43 hotline take WhatsApp messages, and in which hours?
-- Is there a Bangladeshi community contact or association in Phnom Penh that the Embassy works through, with a phone number workers can call?
 
 ### Contacts in Cambodia
 
