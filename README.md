@@ -13,6 +13,7 @@ Countries:
 - [Cambodia](countries/cambodia/) (draft, under review)
 - [Singapore](countries/singapore/) (draft, under review)
 - [Oman](countries/oman/) (draft, under review)
+- [Jordan](countries/jordan/) (draft, under review)
 
 For all countries:
 

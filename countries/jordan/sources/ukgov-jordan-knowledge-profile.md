@@ -1,0 +1,186 @@
+- [HM Passport\
+  Office](/government/organisations/hm-passport-office)
+
+Guidance
+
+# Jordan: Knowledge Base profile
+
+Updated 22 September 2026
+
+![](/assets/frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png)
+
+© Crown copyright 2026
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit [nationalarchives.gov.uk/doc/open-government-licence/version/3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <psi@nationalarchives.gov.uk>.
+
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+This publication is available at https://www.gov.uk/government/publications/jordan-knowledge-base-profile/jordan-knowledge-base-profile
+
+## About: Jordan
+
+This document contains useful information about Jordan which will assist HM Passport Office staff process passport applications.
+
+### Contacts
+
+If you have any questions about the document and your line manager or senior caseworker cannot help you or you think that the document has factual errors then email the Guidance team.
+
+If you notice any formatting errors in this document (broken links, spelling mistakes and so on) or have any comments about the layout or navigability of the document then you can email the Guidance team.
+
+### Publication
+
+Below is information on when this version of the document was published:
+
+- version 4.0
+- published for Home Office staff on 2 July 2026
+
+### Changes from last version of this document
+
+This Knowledge base profile has been updated in the [Names section](#Jordan:-names) to show when HM Passport Office will add an observation to the British passport referencing the name shown in the customer’s foreign passport.
+
+## Jordan: names
+
+This section gives HM Passport Office operational staff information about names in Jordan.
+
+There is a naming convention in Jordan. Names in Jordan consist of:
+
+- forename
+- father’s forename
+- grandfather’s forename
+- surname
+
+There are male and female versions of names in Jordan. A name with letter ‘a’ at the end of a forename will be the female version of a name, for example, Jamil/Jamila, Karim/Karima.
+
+The Jordan passport:
+
+- may show a family or tribal name in brackets:
+  - a name in brackets indicates it does not make up the individuals official name and does not form part of their identity
+- includes the mother’s name, this does not form part of the holder’s name
+
+The Jordan passport has a character limit. Where the person’s full name exceeds the limit, the Jordan passport will show the full first name, the initials of any middle names and the full surname.
+
+### Change of name
+
+Name changes are not allowed in Jordan apart from when an error was made by the issuing Department and the person affected applies for a family name correction.
+
+A woman’s name does not change when she gets married.
+
+### Name alignment
+
+HM Passport Office will not ask a customer to align their Jordan passport if the passport shows middle names as initials due to the character limit on a Jordan passport and the customer is applying for their British passport to include middle names.
+
+HM Passport Office will add an observation to the British passport referencing the name shown in the foreign passport if:
+
+- the customer is unable to align their Jordan passport, and can provide evidence to support this; or,
+- admin fairness has been applied and we do not ask for alignment; and
+- no exceptions apply as shown in the guidance, Names: aligning names on foreign documents
+
+## Jordan: nationality
+
+This section gives HM Passport Office operational staff information about nationality in Jordan.
+
+Dual nationality is recognised in Jordan.
+
+## Jordan: legitimacy
+
+This section gives HM Passport Office operational staff information about legitimacy in Jordan.
+
+### Legitimacy
+
+Jordan recognises a difference between legitimate and illegitimate births.
+
+A child will be considered:
+
+- legitimate if born to:
+  - married parents
+  - unmarried parents who later marry after the birth. A court confirms paternity and legitimacy of the marriage before the birth can be legitimised
+- illegitimate if born to parents who never marry
+
+## Jordan: adoption
+
+This section gives HM Passport Office operational staff information about adoption in Jordan.
+
+Adoption is not allowed in Jordan.
+
+## Jordan: surrogacy
+
+This section gives HM Passport Office operational staff information about surrogacy in Jordan.
+
+Surrogacy is illegal in Jordan.
+
+## Jordan: gender recognition
+
+This section gives HM Passport Office operational staff information about gender recognition in Jordan.
+
+Transgender citizens are not recognised in Jordan.
+
+## Jordan: civil partnerships and marriage
+
+This section gives HM Passport Office operational staff information about civil partnerships and marriage in Jordan.
+
+Civil partnerships and same sex marriages are not recognised in Jordan.
+
+All marriages in Jordan are religious marriages.
+
+Polygamy is legal in Jordan.
+
+## Jordan: documents
+
+This section gives HM Passport Office operational staff information about documents in Jordan.
+
+The Department of Civil Status and Passport (CSP) (under the Ministry of Interior) is responsible for all civil registration for people resident in Jordan and Jordan citizens overseas. The department registers and issues documents for all birth, marriage and deaths and identity documents.
+
+### Birth certificates
+
+Birth certificates are issued following all births in Jordan. Births:
+
+- must be registered within 30 days if the birth took place in Jordan to married parents
+- must be registered within 90 days at an embassy or consulate if the birth took place outside Jordan
+- to unmarried mothers are not subject to registration time frames
+- registered:
+  - late will incur a fine
+  - over a year after the event can only be registered by court order
+
+Certificates are issued in either Arabic or English and may be laminated. Hospital records exist.
+
+If an error is found on a birth certificate, corrections to a certificate can be obtained through the CSP.
+
+### Marriage certificates
+
+When a couple sign a marriage contract (Katib Al Kitab) they are legally married in Jordan. Marriages should be registered within 90 days. Late registrations are allowed. Certificates are issued in Arabic or English.
+
+### Death certificates
+
+Jordan issues:
+
+- burial certificates; or,
+- death certificates
+
+A death:
+
+- in Jordan must be registered within 7 days
+- of a Jordan national outside of Jordan must be registered with an embassy or consulate within 90 days
+- registered over 1 year after the event can only be registered using a court order
+
+### Identity documents
+
+It is mandatory for a Jordan citizen to have an identity card. An identity card is valid for:
+
+- 10 years for a citizen aged 18 and over
+- 5 years for a citizen under 18
+
+Jordan issues:
+
+- passports to citizens that are valid for 5 years
+- temporary passports to people who are not citizens
+- travel documents to allow Jordan citizens without a passport, to enter and exit the Hashemite Kingdom of Jordan
+
+The Jordan passport:
+
+- may show a family or tribal name in brackets:
+  - a name in brackets indicates it does not make up the individuals official name and does not form part of their identity
+- includes the mother’s name, this does not form part of the holder’s name
+
+Where a person’s full name has too many characters the Jordan passport will show the full first name, the initials of any middle names and the full surname.
+
+[Back to top](#contents)

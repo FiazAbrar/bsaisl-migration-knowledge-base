@@ -1,0 +1,2179 @@
+USINESS SERIE  REPORT
+
+               Promoting Decent Work
+               by Digitizing Wages
+               Responsibly in Jordan
+
+               OCTOBER 2021
+
+                                                                                                                                                                                                                                                         A
+        Authors
+        Tareq ABU QAOUD, Better Work Jordan
+        Kawther ALZOBI, Deutsche Gesellschaft für Internationale Zusammenarbeit
+        GmbH (GIZ)
+        Marjolaine CHAINTREAU & Jean Pascal MVONDO, Better Than Cash Alliance
+        Diana CAZACU, Avrio Impact
+        Cover photo: © Better Work Jordan
+
+1
+FOREWORD
+
+The world has witnessed the devastating impact of COVID-19 on the apparel supply chain and
+its workers. Compared to other garment industries, which saw major contractions of between
+30 and 50 percent in 2020, Jordan's garment sector has shown resilience, with only a 15­20
+percent reduction in exports, proving its ability to adapt to the new economic context.
+
+However, several challenges surfaced during the pandemic, including the impact of
+government restrictions and regulations implemented under defence laws. Jordan
+experienced the closure of a few factories due to unbearable losses, the downsizing of
+production lines and a decrease in the number of orders from US buyers. As a consequence,
+there has been a rise in the number of violations of decent work, including reports of forced
+labour due to a lack of workers, and inaccurate and late payment of wages.
+
+These exceptional circumstances provided an opportunity to advance the rapid adoption of
+digital financial tools as a means to enhance workers' protection. Digital payments can help to
+protect and empower financially excluded people, especially women and migrants who make
+up the majority of the workforce, to start experiencing broader and longer-term benefits from
+formal financial services. In addition, digital payment of wages has proven to be beneficial
+for companies by increasing productivity and reducing operating costs associated with cash
+management without sacrificing decent work.
+
+Jordan's leadership in this area is enabling a digital wage transition, as more workers begin
+using digital payment tools. The insights shared in this report, in support of a national agenda
+in Jordan, provide a nearly `real-time' look at the policies, digital infrastructure, tools and
+criteria to support responsible digital wages at scale. It also transparently identifies and
+addresses barriers to delivering benefits for both workers and employers.
+
+By partnering with other organizations, including the International Labour Organization
+(ILO), the United Nations-based Better Than Cash Alliance and the Deutsche Gesellschaft
+für Internationale Zusammenarbeit (GIZ) GmbH, Better Work has reinforced its commitment
+to promote a global agenda on wage digitization to advance decent work and a responsible
+economic recovery. This collaboration in Jordan is the first of its kind for Better Work.
+
+The ILO has now established the Global Centre on Digital Wages for Decent Work to stimulate
+decent work via a transition to digital wage payments through peer sharing and evidence-
+based advocacy. We are happy to say the Jordan experience is contributing directly to that
+global agenda.
+
+We invite all relevant stakeholders from government, workers' associations, the private
+sector and financial service providers to use the example of Jordan and join us in addressing
+the challenges identified in this report, to build a more sustainable and responsible
+economic recovery where workers, particularly women and migrants, are well protected
+and financially empowered.
+
+DINA KHAYYAT                           DAN REES
+
+Vice-chairman of the Jordan Garments,  Director of the ILO/IFC
+Accessories & Textiles Exporters'      Better Work programme
+Association (JGATE)
+
+                                                                                                  1
+        TABLE OF
+      CONTENTS
+
+       E XECUTIVE SUMMARY
+       /4
+
+    1. J OURNEY TO INCLUSIVE
+       WAGE DIGITIZATION
+       /14
+
+    2. LEADING THE CHANGE
+        TO OVERCOME
+        EXISTING BARRIERS
+        /30
+
+      ANNEXES
+
+                                    UNDERSTANDING THE DIGITAL PAYMENTS JOURNEY FOR
+                                    JORDANIAN AND MIGRANT WORKERS IN THE GARMENT
+                                    SECTOR, TO DESIGN RESPONSIBLE SOLUTIONS /46
+                                    FRAMEWORK OF COMMON DIRECT AND INDIRECT COSTS
+                                    FOR PAYING WAGES /52
+                                    PARTNERS & METHODOLOGY /53
+                                    BIBLIOGRAPHY /55
+
+2
+© Better Work Jordan
+
+3
+© Better Work Jordan
+
+                                     Executive Summary
+
+                                                                       The Jordanian garment industry is a very important economic sector
+                                                                       that employs over 76,000 people or 9 percent of the total adult private
+                                                                       sector workforce in Jordan. 73 percent of Jordan's garment workers are
+                                                                       women, who typically have less access to financial services. The industry
+                                                                       accounts for approximately 23 percent of total domestic exports for a
+                                                                       total value of US$ 1.9 billion in 2019. Today, an estimated two-thirds
+                                                                       of garment workers in Jordan still receive their wages in cash
+                                                                       every month.
+
+                                                                       However, digital transactions could offer garment companies significant
+                                                                       benefits. Data shows that disbursing wages in cash can cost factories
+                                                                       up to US$ 1,000 per month, equivalent to the monthly wages of
+                                                                       4.4 workers. When three Jordanian garment companies (employing
+                                                                       12 percent of garment workers in Jordan) paid wages digitally, the
+                                                                       administrative time to disburse wages dropped by 66 percent for
+                                                                       deposits made directly to bank accounts, and by 70 percent for
+                                                                       payments made directly to e-wallets.
+
+                      4
+                      Direct payments to bank accounts and e-wallets also benefit
+                      workers. Digital transactions are typically more secure and transparent
+                      than cash. They are also an important step toward increasing financial
+                      account use and greater financial capability.1 This is particularly true
+                      for women, who are less likely to have bank accounts or e-wallets.
+                      88 percent of male respondents we surveyed held one of these two
+                      methods for participating in digital finance, compared with only 53
+                      percent of women.
+
+                      During the COVID-19 crisis, the Jordanian government's commitment
+                      to a strong, inclusive digital payment system proved to be a critical
+                      asset in making a quick transition to digital service. At the onset of the
+                      pandemic, the government and financial sector worked together to
+                      make it possible to safely onboard consumers to digital banking,
+                      by opening e-wallets and accomplishing E-KYC remotely. As a
+                      result, the number of e-wallets more than doubled between March
+                      and December 2020, breaking 1 million in June and reaching 1,255,546
+                      e-wallets, with 1.3 million transactions, by year end. More than 260,000
+                      families who previously depended on cash also accessed governmental
+                      aid through mobile money during the pandemic.2
+
+                      This report outlines how the Jordanian garment industry can build on
+                      this upward trend in digital infrastructure and digital transactions, to
+                      benefit from a responsible and sustainable transition to digital wages.
+
+73% of Jordan's garment workers are women,
+
+who typically have less access to financial services
+
+                                                                                                                                                                                                                                             5
+   EXECUTIVE SUMMARY
+
+   Four important building blocks
+
+   DRIVE THE TRANSITION TO SCALABLE AND RESPONSIBLE
+
+   WAGE DIGITIZATION IN THE JORDANIAN MARKET:               2 $
+
+   1                     Jordan already has effective      Jordan's garment companies
+                         INFRASTRUCTURE and a          are setting an example for other
+                         regulatory framework for
+                         digital payments.
+
+                                                       industries by PAYING WAGES
+
+   Jordan currently employs internationally-           digitally, and responsibly.
+
+   recognized good practices in regulations
+
+   and infrastructure, including The Jordan            Garment factory management gives
+   Mobile Payments Switch (JoMoPay), which             digital payments broad-based support
+   allows interoperability between all e-wallets;      because digital payments make
+   an electronic billing and payment system            strategic sense for them. Jordanian
+   (eFAWATEERcom); and a strong public-private         garment companies already use
+   company to develop payment systems in               digital tools to record worker hours.
+   Jordan (JOPACC).                                    Payroll management is also digitized,
+
+                                                       which is critical to drive digital
+
+                                                       payments of wages. 34 percent of
+
+      3                  The banking system            workers surveyed were paid via
+                         in Jordan is both             bank accounts, and an additional
+       COMPETITION       competitive and               7 percent received wages via e-wallets.
+            in Jordan's  customer-focused,             Significantly, all respondents receiving
+                         with 24 commercial            digital wages were either satisfied or
+   financial systems     banks and 7 licensed           very satisfied with that method
+      is stimulating a   mobile payment service
+       shift to a more   providers. Two more                of payment.
+       worker centric    mobile payment service
+             approach.   providers will join the            The garment sector trade union
+                         market in 2021.                 recognizes the benefits of digital
+
+                                                       payments and is committed to
+
+           4                                           ensuring that the worker perspective
+                                                       is taken into consideration when
+             Active workers' associations              companies transition from cash to
+         and international organizations               digital. More than 20 international
+   ENGAGE all stakeholders to support                  organizations, in partnership with
+                                                       trade unions and/or government, are
+           a responsible and sustainable               actively rolling out financial literacy
+                                                       programs across the country.
+
+   transition to digital wages in Jordan.
+
+6
+                                         With these basic building blocks in place, Jordan is on the right path
+                                         to achieve a fully digitized payments ecosystem, Digital 2.0, in the
+                                         next few years (Figure 1). Success requires effort from all members of
+                                         the system, including regulators, service providers, brands, garment
+                                         companies, policymakers, industry associations and workers.
+
+FIGURE 1:
+
+THE VISION OF MATURE DIGITAL ECOSYSTEM IN JORDAN - DIGITAL 2.0.
+
+FINANCIAL SERVICES PROVIDERS (FSPs)                                         FACTORY
+& ECOSYSTEM
+                                                        · Digitize clocking in
+    · Provide easy to use and multi-lingual service       of workers and pay
+    · Expand agent network, ATM locations &               calculation as well
+                                                          as payroll
+      ecosystem partnerships
+    · Scale business models and develop more            · No need for
+                                                          factories to manage
+      affordable offerings                                cash-out process
+    · Improve value proposition ­ highly efficient and
+                                                        · Manage the change
+      cost effective basic offer + attractive add-ons     process intelligently
+      and customizations
+                                                        · Negotiate better
+WORKER                                                    partnerships and deals
+                                                           with Financial services
+    · Increase digital and financial literacy                  providers (FSPs)
+    · Better understanding of the true costs and
+                                                                                                                                               7
+      benefits of digital payments
+    · Openness to change
+    · Early adopters as peer "champions"
+   EXECUTIVE SUMMARY
+
+                       Some key recommendations to
+                       address early stage constraints
+                       and achieve the vision of Digital
+                       2.0 include:
+
+                       1 Design worker-centric and value-added payment
+                              solutions3 for all workers, Jordanian and
+                              migrants. To trigger adoption, the different user journeys of
+                                Jordanian and migrant workers must be taken into account, as
+                                well as the different financial habits of female and male workers.
+                                Developing an international digital remittances product could
+                                drive adoption of digital payments among migrant workers.
+                                All migrants surveyed remit part of their wages home, with
+                                62 percent indicating that they remit at least two-thirds
+                                of their wages every month. Our survey also highlighted
+                                that these remittances are organized after individuals cash-
+                                out their wages. The Deutsche Gesellschaft für Internationale
+                                Zusammenarbeit (GIZ) GmbH and the Central Bank of Jordan
+                                (CBJ) are currently working to support the development and
+                                launch of a digital international remittances product to reduce
+                                the pressure and cost of cash-out for digital wages in Jordan.
+
+                       2  Create conditions for merchants and others to
+                          accept digital payments. If workers are certain that they
+   Expanding
+   acceptance             can use their e-wallets widely, at no additional cost, some would
+   of digital             consider them "better than cash," and make more use of them
+   payments is an         for day-to-day purchases. This would reduce costs and pressure
+   important way          on cash-out. Expanding acceptance of digital payments is an
+   to support digital     important way to support digital transactions for Jordanian
+   transactions           workers in particular.
+   for Jordanian
+   workers in          3  Build a sustainable business model that appeals
+   particular.            to employers and workers. Many companies like the idea
+
+                          of wage digitization, but do not understand the medium- and
+                          long-term business case. To gain long-term benefits, companies
+                          must factor in upfront investment and recurrent costs. In the
+                          short term, the overall cost to the factory may increase, as it may
+                          be necessary to hire mobile ATMs or install one in the factory,
+                          for example. Trade organisations, like the Jordan Garments,
+                          Accessories & Textiles Exporter's Association (JGATE), are
+                          important players to gather experience and good practices
+                          supporting digital wages for all garment companies at scale.
+
+8
+4 Drive change management through collaboration
+       between garment companies, financial service
+       providers, workers and the trade union. If workers
+         witness a small group in the factory successfully using digital
+         financial services, they will be more likely to adopt them personally,
+         workers told us in surveys. When companies implement appropriate
+         financial and digital capability campaigns for workers, in
+         partnership with other providers, workers will develop better skills
+         to make effective use of digital payments.
+
+5  Create conditions for a more robust e-wallet
+   market. Despite important advancements in digital finance,
+
+   adoption may be limited because interoperability at the agent level
+   is still not available in Jordan. Government could play an important
+   part in encouraging companies to adopt digital wage solutions
+   that will enable a sector-wide shift in the garment industry. Timed
+   appropriately, along with an increase in cash-out points, better
+   liquidity and more widespread acceptance of digital payments by
+   merchants, a shift to digital wages can lead to stronger uptake of
+   digital payment services among garment workers, offering them
+   more secure and responsible wages and greater financial inclusion.
+
+6 Build workers' trust and adoption of digital
+       solutions by improving liquidity at cash-out points
+       and increase network density. 90 percent of workers we
+         surveyed who received digital wages were very satisfied with the
+         method. However, 100 percent of the workers surveyed who receive
+         digital wages cashed-out their wages. The majority cashed-out
+         immediately, in response to anticipated difficulty accessing their
+         cash. Ensuring that digital financial service providers have enough
+         cash points (ATM, bank branches and mobile money agents) and
+         sufficient liquidity will help to build workers' trust and adoption of
+         digital solutions.
+
+Together, our partner organizations will continue to collaborate with
+Jordan's key stakeholders to support responsible scaling and use of
+digital wage payments to advance a national agenda on promoting
+digital wages for decent work.
+
+                                                                                                                                                                                                   9
+    Vision
+
+    Reimagining the worker experience
+
+    With digital wages, garment workers can access value-added financial
+    services, to pay bills, make purchases, send money abroad, start to build
+    their credit history, and save, conveniently and within seconds.
+
+    1  Digital 2.0: A vision for garment companies and workers
+
+       With further commitment to and investments in the emerging
+       inclusive digital payment system garment companies will reap the
+       benefits of digital payments; more efficiency, higher productivity,
+       increased revenue, lower costs, and greater transparency and
+       security. Costs to process monthly salaries will fall by 80 percent.
+       Wages will be transferred to individual bank accounts or e-wallets,
+       followed instantly by notifications to workers' mobile phones, with
+       confirmation of hours worked and digital payslips which may reduce
+       wage related disputes. Factory productivity losses, due to distribution
+       of cash wages will be eliminated. Stronger business relationships will
+       be built through digital transactions. For example, when Gap Inc. in
+       India began to pay 95 percent of factory workers digitally, factories
+       experienced a 15­20 percent general reduction in worker attrition and
+       turnover, on average.
+
+       Workers will gain digital and financial literacy and access to value-
+       added financial services. As workers become increasingly familiar with
+       digital payment technology, they will gain autonomy and control over
+       their finances. Workers will build a financial footprint, making it easier to
+       access other formal financial services, such as savings and loans, when
+       they need them. Digital transactions will be simple to launch and take
+       mere seconds to execute when paying bills, making purchases, sending
+       money abroad or saving. The cost of these transactions will be minimal
+       and very attractive to workers. Rather than spending hours travelling
+       and queuing to convert their wages into cash every month, workers will
+       have more time for things they want to do. The risk of theft or loss of
+       wages will be eliminated.
+
+       Women will be just as likely as men to have an e-wallet or bank account
+       in their own name. Women will be empowered as they gain financial and
+       digital literacy, giving them more access and choice in financial services,
+       so they can make their own decisions about their money.
+
+10
+The Jordan payments ecosystem in the
+Digital 2.0 era
+
+A competitive, user-centered ecosystem will provide a range of well-
+segmented, value-added services to garment sector workers, enabling them
+to conduct all financial transactions digitally, effortlessly and inexpensively.
+
+2  Digital 2.0: A vision for financial service providers
+   and ecosystem
+
+   Agents. In the initial stages of digitization, it will be easy for workers
+   to access their cash wherever and whenever they need it, due to
+   high liquidity levels and a ubiquitous network of agents and ATMs.
+   A sufficiently dense network of agents at agent outlets, in factories or
+   at workers' dormitories, will ensure that workers do not have to travel
+   to access points.
+
+   Digital financial service providers. Digital payment application
+   providers will improve user interfaces to meet the needs of both
+   Jordanian and migrant workers.4 With more providers on the scene,
+   costs for digital services will fall sharply. Service providers will create a
+   range of attractive add-ons and services for different market segments,
+   with high levels of customization for individual users. Banks will offer
+   effective hybrid solutions that allow the user to transition seamlessly
+   from paying a bus fare with a mobile phone to using mobile or Internet
+   Banking for remittances.
+
+   Merchants. Digital payment will be accepted almost everywhere,
+   from retail stores to transportation, at physical, digital or multi-
+   channel establishments. Digital financial service providers will support
+   merchants with real-time authentication and anti-fraud services,
+   and provide a seamless customer experience for workers. Fees for
+   customers will drop. Merchants will be able to access high-quality
+   customer data, to improve their own offerings to customers.
+
+Can this vision be achieved in Jordan? The prognosis is good.
+
+The ecosystem in the Jordanian garment sector is now in a position
+to kick-start the transition towards the vision of Digital 2.0. The next
+section looks at each of the four building blocks already in place to
+support this transition.
+
+                                                                                                                                                                                                                                11
+VISION
+
+FIGURE 2:
+
+AN INTEGRATED, ITERATIVE CHANGE PROCESS
+
+                             Digital 1.0                           Transition period
+
+                             · Digitize calculation and            Improving the lives of workers
+                               disbursement of wages               through DFS
+
+                             · Make initial savings but initially
+                               digital costs relatively high
+
+                             · Need workaround to enable
+                               workers to cash out
+
+Change processes             Evolution of digital FSP offer
+
+                             · Scale business model
+                             · More competitive fee structure
+                             · Partnerships with ecosystem members
+                             · More market coverage (cash out and purchases)
+
+                                                                   Workers and
+                                                                   factories adopt
+
+                                                                   · Easy to use, multi-
+                                                                     lingual applications
+
+                                                                   · Reasonable cost,
+                                                                     convenient
+
+        Jordan is currently                Jordan's progress
+        observing the
+        beginning of                     2020
+        Ecosystem
+        Integration
+
+12
+                                                               Digital 2.0
+
+                                                                                 · Digital becomes mainstream
+                                                                                    among workers
+
+                                                                                 · Easy to remit internationally
+                                                                                    and make purchases
+
+                                                                                 · Added value services available
+
+· Early adopters provide use cases
+· Improved efficiencies lead to additional savings
+· Seek additional value from FSP
+· Negotiate better deals and service levels
+
+                 Ecosystem integration
+
+                     · Understand factory and worker needs better
+                     · Seamless end-to-end interoperable service
+                     · Provide value added service and differentiate
+                     · Supply side matures and basic services become cheaper
+                     · Deepen partnerships
+
+                                               2023
+
+                                                                                                                                                                                                                                                                    13
+© Better Work Jordan
+
+               SECTION 1
+
+     Journey to inclusive
+     wage digitization
+
+                 To build an inclusive wage digitization journey, Jordanian
+                 stakeholders have already started to leverage four
+                 building blocks:
+                 (1) Regulations and infrastructure that enable
+
+                      digital payments
+                 (2) The leadership of garment companies' in driving
+
+                      digital wages which leads to satisfaction for workers
+                 (3) A maturing financial services sector
+                 (4) Committed workers' associations and
+
+                      international organizations.
+
+14
+1 BUILDING  Regulatory framework and
+            technology infrastructure
+BLOCK       are already in place
+
+            The Central Bank of Jordan (CBJ), which provides regulation and
+            oversight of payment service providers (PSPs) and banks, has been
+            instrumental in facilitating rapid digital onboarding and more convenient
+            digital payments transactions. At the onset of the COVID-19 pandemic in 2020,
+            the Jordanian government made remote E-KYC and opening of e-wallets possible,
+            so that consumers could be onboarded safely. The CBJ also increased transaction
+            limits, reduced bank fees and eliminated minimum balances. The garment sector
+            was identified as one of the sectors most negatively affected by the COVID-19
+            pandemic. In response, in early 2021, the Social Security Corporation (SSC)
+            committed to paying 75 percent of the wages of Jordanian workers in the sector.
+            This required workers to have active bank accounts or e-wallets to receive wages
+            directly. For migrant workers, the CBJ authorized digital international remittances
+            in the final quarter of 2020, clearing the way for the development of new digital
+            initiatives. At the time of this report, eFAWATEERcom, an electronic billing and
+            payment system under the supervision of the CBJ has integrated with Western
+            Union, enabling migrants to open an account with Western Union. They may then
+            forward money to their account, and send remittances from it. Recently, some
+            PSPs have started to integrate their apps with the Exchange House for smoother
+            transactions. To increase accessibility to cash and e-money the CBJ also issued
+            guidelines about continuity procedures for ATMs and point of sale operations.
+
+            The Ministry of Digital Economy and Entrepreneurship (MODEE) has
+            demonstrated a strong commitment to digital transformation of the
+            economy by developing appropriate policies and supporting the enabling pillars.
+            In collaboration with the CBJ and the Ministry of Finance, the MODEE encouraged
+            merchants to accept e-wallets and facilitated the onboarding process between
+            merchants or vendors and individuals. The MODEE also encouraged gas stations
+            and other entities in the energy sector to accept payments via e-wallets. In
+            addition, the government is actively promoting e-payments from citizens, with a
+            growing number of government organizations no longer accepting cash.
+
+            The number of e-wallets more than doubled and the total
+            number of digital transactions has quadrupled in only
+            9 months in 2020.
+
+                                                       MOBILE WALLET PAYMENTS MADE IN JORDAN,
+                                JOMOPAY, MONTHLY EDITIONS, JANUARY TO DECEMBER 2020
+
+                                                                                                                                                                                                   15
+               JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+                                                 In 2020, the Jordan Payments and Clearing Corporation (JoPACC)
+                                                 launched a number of initiatives to promote the use of DFS (digital
+                                                 financial services) in Jordan, including an online gateway for people to open
+                                                 e-wallets online; an interoperable, instant payments system called CliQ; and a
+                                                 partnership with GIZ to promote merchants' acceptance of digital payments. Finally,
+                                                 in parallel with the efforts of JoPACC, the CBJ continues to promote the use of DFS,
+                                                 including it as a central pillar in its 2018 National Financial Inclusion Strategy.
+
+                                                 E-wallets and associated transactions show strong growth. These measures
+                                                 resulted in a marked increase in the use of e-wallets in 2020 (Figure 3). In January
+                                                 2020, JoMoPay reported 374,400 e-wallet transactions for the month. Between
+                                                 March and December 2020, the number of e-wallets in Jordan more than doubled,
+                                                 breaking the 1 million barrier in June and reaching 1.3 million transactions in
+                                                 January 2021.5 eFAWATEERcom payments from e-wallets also jumped, from about
+                                                 1.9 million JD in January 20206 to 7.6 million JD in January 2021, although these
+                                                 payments are dwarfed by the flow of digital payments from bank accounts into the
+                                                 eFAWATEERcom system.
+
+                                                 Interoperability is in the early stages of development in Jordan.
+                                                 Interoperability which facilitates more convenient, affordable, fast, seamless and
+                                                 secure transactions between e-wallets and bank accounts, which is crucial for
+                                                 reaching users who are new to digital finance, as positive experiences with new
+                                                 services will ensure uptake and ongoing usage. Interoperability is complex and
+                                                 selecting the appropriate approach and type of interoperability such as platform-
+                                                 level, agent-level and/or customer level interoperability will depend on local
+                                                 conditions and context. Either way, it is essential that policymakers and service
+                                                 providers support collaboration on the infrastructure whilst allowing the market to
+                                                 compete on products and services.
+
+                                                 In Jordan, JoPACC played a critical role in encouraging interoperability between
+                                                 e-wallets, and is working towards interoperability between e-wallets and bank
+                                                 accounts. Seven licensed PSPs, are players in this market, each with different
+                                                 business models, fee structures and agent networks. As a result, even though
+                                                 JoMoPay and CliQ technically enable cross-PSP and bank-PSP interoperability,
+                                                 PSPs have not agreed on the commercial terms that would govern such a system.
+                                                 Most importantly, the PSPs have not reached an agreement on fee-sharing and
+                                                 agent-management structures. Unless a cooperation agreement is reached
+                                                 interoperability will not be fully operational and workers will continue to convert
+                                                 money transfers into cash given the limitations to transact with customers of
+                                                 different PSPs. In order to encourage further interoperability options such as agent-
+                                                 interoperability and interconnection with platforms outside of Jordan (to facilitate
+                                                 remittances), the regulator may be a need to play a more active role working
+                                                 with the private sector to develop a centralised mechanism as has been done in
+                                                 places like Peru and Mexico. Additional technical assistance could also support the
+                                                 private sector to identify business cases that maintain financial viability. Financial
+                                                 assistance may also be an option to support key moments of transition.
+
+16
+© Better Work Jordan
+
+17
+               JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+         FIGURE 3:
+
+       Growth of e-wallets and transations since the onset of covid-19
+
+         MONTHLY TRANSACTION VALUE (JD) IN 2020 (MILLIONS)
+         200
+         180
+         160
+         140
+         120
+         100
+         80
+         60
+         40
+         20
+
+                                                                JAN FEB MAR APR MAY JUN JUL AUG SEP
+          Source: Mobile Wallet Payments made in Jordan, JoMoPay, Monthly editions, January to September 2020 inclusive
+          http://www.jopacc.com/En/List/Payment_Systems_Reports
+
+18
+© Better Work Jordan
+            © Better Work Jordan
+
+EVOLUTION OF NUMBER OF E-WALLETS IN 2020 (MILLIONS)
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+
+                                                      JAN FEB MAR APR MAY JUN JUL AUG SEP
+
+EVOLUTION OF TOTAL MONTHLY NUMBER OF TRANSACTIONS VIA E-WALLETS IN 2020 (MILLIONS)
+2
+1.5
+1
+0.5
+
+                                                      JAN FEB MAR APR MAY JUN JUL AUG SEP
+
+                                                                                                                                                                                                                                                                             19
+    JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+    2 BUILDING                Garment companies are driving
+                              the transformation to digital
+    BLOCK                     wages, which give workers
+
+      $                       high satisfaction
+
+                              The transition to digital makes sound financial sense. Companies incur a
+                              series of costs by paying cash, including:
+
+                              · Direct costs. The wages of administrative staff to prepare and disburse
+                                 wages; the cost of consumables such as pay-slips and envelopes; and the cost
+                                 of securely transporting cash from bank to factory or the amortization of the
+                                 installation of cash machines.
+
+                              · Opportunity cost. The time workers spend collecting and signing for their
+                                 wages, although the time lost depends on company procedure.
+
+                              This cost structure is illustrated in Figure 4. Figure 5 demonstrates the costs
+                              associated with disbursing wages in cash.
+
+    FIGURE 4:
+
+    Illustration of the cost structure of wage payments for companies
+
+    COMPANY                                 COMPANY                     DIGITAL
+    DIRECT COST                             OPPORTUNITY COST            PAYMENT COST
+
+    Includes:                               Includes:                   Includes for companies:
+
+    · A dministrative staff                 · W orkers' time spent      · B ank fees
+     time (hourly wage)                      collecting wages
+     spent on preparing                                                 · ATM related fees
+     and disbursing wages                   · F or cash payments: time
+                                             spent queuing and / or     · P ayment service
+    · Consumables (payslips                  signing for wages           providers fees
+     and envelopes)
+                                            · F or digital payments:    Only fees paid by
+    · W hen paying in cash:                  time spent queuing         companies are included
+     amortization of cash                    to cash out during         in the calculation.
+     machines, cost of cash                  working hours
+     transport and insurance                                            In some cases, there
+                                            Time lost varies depending  can be cash out fees for
+                                            on company procedure        workers too.
+
+20
+FIGURE 5:
+
+Illustration of the costs in disbursing wages in cash
+
+COST OF ADMINISTRATIVE EMPLOYEES
+
+Per factory the administrative staff time dedicated
+to payroll counting and disbursement
+
+95               309 OR                  JD
+
+HOURS PER MONTH  ($436) PER MONTH
+
+COST OF CASH TRANSPORT                                 2,508
+Cost of withdrawing and safely transporting
+cash from bank to factory for disbursement             LONG SLEEVED SHIRTS*
+
+308JD                                                        Indicative only: the precise
+                                                       number varies with level of Factory
+($434) PER MONTH                                       automation, productivity, garment
+
+                                                           complexity and other factors
+
+OPPORTUNITY COST FOR COMPANIES
+
+Average time lost on production line to
+pay wages in cash
+
+391 OR 445JD
+                 ($627) PER MONTH
+HOURS PER MONTH
+
+*Equivalent to: 1,062JD ($1,497) total monthly cost or 4.4 worker salaries per month
+Source: interviews with 3 companies, averaging 3,000 workers and representing 12 percent garment workers in Jordan
+reporting on cost of paying workers in cash
+
+                                                                                                                                                                                                                                                                             21
+    JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+                                             Clear savings can be achieved by switching to digital. Three companies
+                                             in Jordan, that represent 12 percent of the garment industry, switched to paying
+                                             wages digitally. Time spent by administrative staff in these companies dropped
+                                             by 66 percent for payments made to bank accounts and 70 percent for payments
+                                             made to e-wallets. Figure 6 provides an overview of these calculations.
+
+    FIGURE 6:
+
+    Immediate savings & benefits from switching to digital
+
+    IMMEDIATE BENEFIT 1:                 IMMEDIATE BENEFIT 2:    IMMEDIATE BENEFIT 3:
+
+    Time savings for                     Factory no longer       Intangible benefits
+    administrative staff                 bears the risk of
+    disbursing wages                     cash transportation     · Greater transparency,
+                                                                  governance, as well as
+    · Companies · C ompanies             · A verage cost saving   more security and less
+                                          for transport,          risk of loss or theft.
+    using bank using                      security & insurance
+
+    accounts  e-wallets
+
+    66% 70%                              FROM      TO
+
+    TIME SAVING TIME SAVING              308JD 0
+
+                                         (US$434)
+
+              Certain costs shift                  Longer term
+              from internal                        benefits
+              to external
+                                                   · M edium Term: Bank
+              · I nternal costs drop as             Transfers + carefully
+               external costs increase.             orchestrated cash out
+                                                    options offer a potential
+              · Overall cost to the factory         initial compromise.
+               may increase in the
+               short term                          · As the ecosystem
+                                                    develops, workers will
+              HIRE                       INSTALL    be able to use bank
+                                                    transfers and e-wallet to
+              MOBILE OR ATM IN                      remit money and pay for
+                                                    their daily needs.
+              ATM                        FACTORY
+
+22  Figures are based on interviews with 3 companies (12 percent garment workers in Jordan) reporting on cost of paying
+
+    workers in bank account or e-wallet
+                        Garment factory management gives the shift to digital payments broad-
+                        based support, because the transition makes strategic sense for them.
+                        International buyers, including H&M8 and Gap,9 are driving the change as a
+                        result of their commitment to introducing digital wages for all factory workers
+                        in their supply chains across the globe. Jordanian garment companies already
+                        have experience using digital tools to record worker hours and to digitize payroll
+                        management, which is critical to digital payment of wages.
+
+                        Senior management teams from the factories of the five large companies
+                        interviewed clearly recognize that digital payments are the future for the
+                        garment industry. Bank accounts and e-wallets are safer, more secure and
+                        more transparent than cash, and research found evidence that companies have
+                        managed the transition successfully in Jordan, providing local examples of good
+                        practice to inspire others. One of the companies interviewed was drawing on the
+                        successful experiences of its sister companies in other countries, in the region
+                        and elsewhere. Table 1 provides an overview of some of drivers of change cited by
+                        management during the interviews.
+
+TABLE 1:
+
+What drives management decisions for digital payment options?
+
+MANAGEMENT DRIVERS                           DIGITAL PAYMENT OPTIONS
+
+Technology &            BANK ACCOUNT                             E-WALLET
+infrastructure drivers
+Strategy                Bank infrastructure is better than       Positive changes to regulatory
+                        e-wallets in Jordan; banks have better   environment made it easier to use
+Financial               liquidity and are considered to be more  Infrastructure is evolving rapidly
+                        customer responsive
+Human Resources                                                  Safer, more secure and transparent
+                        Safer, more secure and transparent       than cash
+                        than cash                                Represents the future of payments but
+                                                                 need to evolve in sync with ecosystem
+                        Prior experience, more familiar than
+                        e-wallets. Change process easier         Savings in HR & Accounts department
+                        than e-wallet                            time, more efficient
+                                                                 Less production disruption
+                        Savings in HR & Accounts department      (if system in place)
+                        time, more efficient                     May negotiate lower fees with time
+
+                        No need to ensure that migrants have     Well designed awareness and
+                        smartphones, local SIM                   capacity building program will
+                                                                 motivate workers
+                        Transaction charges may be cheaper       Effective change management will help
+                        than e-wallets                           workers become more comfortable
+
+                        Easier to educate employees about
+                        ATMs and cards than e-wallets, only
+                        need 1 Pin Code
+
+                        Some workers are more familiar
+                        and more satisfied with this method
+                        than e-wallets
+
+Source: interviews with factory management.                                                                 23
+               JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+                                                 Rapid evolution in technology and infrastructure is paving the way for
+                                                 garment companies' transition to digital payments. Positive changes to
+                                                 the regulatory environment in response to the global pandemic during 2020
+                                                 have enabled more for garment companies to transition to digital wages.
+                                                 Banking infrastructure was already strong and diversified with good liquidity.
+                                                 The infrastructure for e-wallets and the offerings of financial service providers
+                                                 are also evolving rapidly. Jordanian garment companies have already been active
+                                                 in digitization, adopting digital solutions for clock-in systems to track working
+                                                 hours, and putting payroll management software in place. The transition to digital
+                                                 payments will complement this process and lead to even greater efficiencies.
+
+                MARKET INSIGHTS:
+
+               A foreign-owned garment factory in Jordan has successfully transitioned to paying wages
+               through digital bank accounts. They have applied two decades of experience of paying
+               wages digitally in other countries in the region, to ensure a successful transition in Jordan.
+               The company currently pays its workers via bank accounts. To overcome the race to cash
+               out every month, leadership elected to install ATMs at the dormitories of migrant workers.
+               This permits workers to withdraw cash at their convenience, without having to travel, and
+               avoids long queues on the factory premises. Furthermore, a representative of the Exchange
+               House is present in the dormitories, so workers are also able to manage remittances
+               without travelling into town. The solution is not fully digitized, but bringing ATMs and
+               representatives to the workers is a well-thought compromise that addresses both worker
+               and company concerns.
+
+                Source: Management interviews carried out as part of the Better Work Better Than Cash Alliance and
+                GIZ research study, summer 2020.
+
+                                                 Management understands the importance of ensuring worker buy-in.
+                                                 In the initial stages of wage digitization, wage payment via bank transfer seems
+                                                 easier, because workers do not need smartphones or local SIM cards. However,
+                                                 garment companies understand that well-designed awareness and capacity-
+                                                 building programmes, along with early adopters who serve as role models, will
+                                                 motivate a more workers to accept e-wallets as a more convenient way to receive
+                                                 their wages.
+
+                                                  Management from all the factories interviewed were very
+                                                  positive about digitizing worker wages. Those that were
+                                                  still using cash were highly motivated to introduce digital
+                                                  payment methods.
+
+24
+All migrants    Workers showed a high level of satisfaction with digital payments
+surveyed        according to the survey.10 34 percent of the workers surveyed, were paid
+indicated that  via bank accounts, with another 7 percent receiving wages via their e-wallet.
+they send       Importantly, all of these respondents indicated that they were either
+money home,     satisfied or very satisfied with the method of payment. Well over 80 percent
+                of respondents were very satisfied. This finding provides evidence that digitization
+with 62%        is sustainable and workers can be satisfied with the transition when the process is
+                carried out responsibly.
+remitting at
+least two-      The digitization of remittances is seen as an important step in the digitization
+thirds of       journey for migrants. All migrants surveyed indicated that they send money
+their wages.    home, with 62 percent remitting at least two-thirds of their wages.
+                Although two-thirds of respondents used bank transfer and the remaining third
+                used Exchange Houses for international transfers, all transactions involved the
+                migrants handing over cash to initiate the payment.
+
+                The GIZ- implemented Project Digi#ances aims to increase financial inclusion by
+                facilitating the development of digital financial services, particularly cross-border
+                remittances, for unbanked individuals, on three different levels. On the supply
+                side, the project partners with PSPs to develop digital financial services, including
+                cross-border remittances. The project promotes the regulatory framework to
+                meet international standards, notably in the areas of consumer protection, anti-
+                money laundering (AML) and combating of financing of terrorism (CFT). On the
+                demand side, the project instituted a number of measures to increase awareness
+                and financial literacy.
+
+                Digi#ances also collaborates with the Swiss Agency for Development and
+                Cooperation (SDC) in a co-financing project aimed at improving access to
+                remittances and other financial services through digital solutions for migrant
+                workers in Jordan's garment sector. Under this collaboration, Digi#ances initiated
+                a pilot with a mobile PSP to develop, design and implement a fully digital, user-
+                friendly and needs-based solution for outbound cross-border remittances
+                between Jordan and south Asia. In addition, Digi#ances plans to design and adopt
+                specialized digital financial literacy training and offer targeted tools for workers
+                that raise awareness of how to make use of digital financial services.
+
+                                                                                                       25
+JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+3 BUILDING  The growing financial services
+            sector provides opportunities
+BLOCK       to deepen financial inclusion
+
+            of workers in Jordan, including
+
+            migrants and women
+
+                                                 The banking system in Jordan is both mature and customer-focused.
+                                                 Jordan is home to 24 commercial banks, a number of which have also become
+                                                 involved in the provision of e-wallets.
+
+                                                 An emerging mobile PSP sector is developing in Jordan. The provenance of
+                                                 the PSPs in Jordan varies significantly, from multinational giants such as Orange to
+                                                 Zain Cash, launched by the mobile network operator Zain in Jordan; to Gate2Pay, a
+                                                 financial service provider specializing in B2B, which recently acquired a PSP licence;
+                                                 to Dinarak, an independent Jordanian start-up specializing in e-wallets. This
+                                                 constitutes a sound basis for competition as the sector begins to mature.
+
+                                                 PSPs are enthusiastic about digital wages and claim to be technically
+                                                 ready with solutions to equip garment companies to transition to digital payments,
+                                                 covering all phases, from onboarding to disbursements and reporting. Remote
+                                                 onboarding is being implemented and many PSPs offer a payment card attached to
+                                                 the e-wallet to permit users to cash out using ATMs. Encouraged by JoPACC, PSPs
+                                                 are also involved in a common initiative to increase uptake of merchant payments
+                                                 via e-wallets in Jordan. To be effective, the issue of cooperative agreements to
+                                                 support interoperability will need to be addressed in parallel.
+
+                                                 Figure 7 provides an overview of the key players in the ecosystem as of mid-2020,
+                                                 who form some of the building blocks already in place to achieve the vision of
+                                                 Digital 2.0.
+
+                                                 Well-targeted initiatives by PSPs, is making the transition easier, as is
+                                                 greater digital financial awareness and literacy among workers. A wide
+                                                 range of organizations from the ecosystem already contribute to improving
+                                                 digital financial literacy, including PSPs and banks, FinTech companies, and
+                                                 governmental, local and international organizations. This provides an excellent
+                                                 starting point to build the financial capacity of the workforce. Segments such as
+                                                 women (who make up 73 percent of the garment sector workforce) or migrants
+                                                 (who represent 75 percent) have specific preferences and need tailored services.
+                                                 Semi-structured interviews and focus groups can highlight the current practices
+                                                 of specific segments, map their user journeys and co-design potential solutions.
+                                                 For example, supporting international remittances for migrant workers can
+                                                 be a low-cost intervention to drive digitization among this segment. Careful
+                                                 segmentation also enables a PSP to create more appropriately focused services
+                                                 and communication materials, ranging from user guides, information leaflets and
+                                                 marketing brochures to audio-visual training materials and in-person training
+                                                 sessions. Recommendation 1 builds on this point further.
+
+26
+FIGURE 7:
+
+Overview - Central Bank of Jordan (CBJ) regulation & supervision
+
+WALLETS                       Banks                         BANK             DIST.
+7 mobile payment                                            ACCOUNTS         NETWORKS
+service providers (PSPS)      Housing Bank
+                              Jordan                        24                130
+Wallet, digital remittances,  Commercial Bank
+bill payment card             Jordan Bank                   COMMERCIAL       EXCHANGE HOUSES
+                              Kuwait Bank                   BANKS            Over The Counter
+                              Etihad Bank                                    (OTC) Remittance
+                              Cairo Amman Bank              ATM, Basic
+                              Arab Bank                     bank account,    1,400
+                                                            remittances via
+                              Wallet, digital remittances,  bank account     OTC AGENTS
+                              card, ATM                                      OTC agent
+                                                                             & merchant
+JoMoPay                                                                      transactions
+
+                                                                              25,000
+
+                                                                             POS
+
+                                                                             Card acceptance
+
+NATIONAL SWITCH BILL PAYMENT
+Bill payment, digital remittances
+
+The promotion of the use of DFS, and digital payments in particular, has been a focus of the Central Bank of Jordan
+(CBJ) since at least 2014, when it launched the Jordan Mobile Payment (JoMoPay) electronic payment system and
+started to develop the eFAWATEERcom bill payment system. In 2017, the CBJ, in partnership with 25 banks, created
+Jordan Payments and Clearing Corporation (JoPACC). JoPACC now manages JoMoPay, promotes innovation in DFS,
+and owns the eFAWATEERcom systems (although they are still administered and operated by Madfooatcom).
+
+                                                                                                                     27
+    JOURNEY TO INCLUSIVE WAGE DIGITIZATION
+
+    4 BUILDING  Committed worker associations and
+                international organizations ensure
+    BLOCK       a responsible digitization process
+
+                A responsible and sustainable transition to digital wages means ensuring that
+                workers are treated fairly and feel protected from risks such as unauthorized fees,
+                loss of privacy and exposure to fraud which could occur as a result of workers
+                sharing their details with others when seeking help during the adjustment period.
+                The Better than Cash Alliance has developed eight principles to support financial
+                services providers as they design and deliver payments services that protect
+                their clients. Companies also play their part in selecting payment providers that
+                meet the needs of their workers and in supporting the digital and financial literacy
+                of workers. Regulators also have a vital role in ensuring a sound consumer
+                protection framework that supports innovation and enhances inclusion.11
+
+                The trade union for workers in the garment sector recognizes the benefits
+                of digital payments and is committed to ensuring workers' perspectives
+                are taken into consideration when companies transition to digital payments.
+                Each member factory in the garment sector has its own worker committee, which
+                includes representatives of all nationalities in direct proportion to the number of
+                workers from a given nationality working in that factory. A workers' committee,
+                formed to discuss worker concerns, meets monthly in most of the factories. In
+                a number of factories, worker representatives have played an important role in
+                supporting workers through the transition to digital.
+
+                Better Work Jordan is focused on supporting national stakeholders in
+                Jordan's garment sector and ensuring that working conditions are adequate
+                and workers' interests are protected. Although digital wages are a positive step,
+                it is important that worker needs and interests are taken into account, ensuring
+                privacy, transparency, protection and sustainability.
+
+                The UN-based Better than Cash Alliance and GIZ have consistently
+                promoted and supported the digitization of transactions, implementing a
+                range of technical assistance programs that benefit both factories and workers
+                directly, and support them indirectly through studies, initiatives and capacity-
+                building of other ecosystem members. Working with its members, including the
+                ILO, IFC, Better Work and international brands, The Better Than Cash Alliance
+                encourages a responsible transition to digital payments,12 based on eight good
+                practices for engaging with clients who are sending or receiving digital payments
+                and who have previously been financially excluded or underserved. For clients,
+                especially women, to adopt and use digital payments, they need to feel protected
+                from risk.
+
+28
+© Better Work Jordan
+
+29
+© Better Work Jordan
+
+                                     SECTION 2
+
+                           Leading the
+                           change to overcome
+                           existing barriers
+
+                      30
+                                  Companies in Jordan have begun the move toward digital payments. Some are
+                                  already benefitting from efficiency gains and savings. In the short term, some
+                                  costs have risen, but companies have also seen important financial savings as
+                                  well as other intangible benefits. However, workers currently convert any wages
+                                  paid digitally into cash as quickly as possible. This does not give workers additional
+                                  benefits which could empower them economically.
+
+                                  Government and regulators responded to COVID-19 by unleashing far-reaching
+                                  changes to create an environment in which digital wages, as well as digital
+                                  payments and other operations, were much easier to set up and implement.
+
+                                  The Jordanian ecosystem is committed to digitization, but, to effectively respond
+                                  to the needs of both garment companies and workers, it must continue to evolve.
+                                  The basic building blocks are already in place, and there is a clear road map for
+                                  Jordan to follow. Success will require effort from all members of the ecosystem,
+                                  including regulators, service providers, brands, garment companies, industry
+                                  associations and workers.
+
+MARKET INSIGHTS:
+
+COVID's immediate impact has created a more conducive environment
+for digital payments in Jordan.
+
+· The COVID-19 crisis highlighted the need for digital payments and accelerated adoption by
+   encouraging the development of the surrounding ecosystem. Digital payments benefitted
+   from a strong push from the Government of Jordan.
+
+· CBJ, working with other members of the ecosystem, made onboarding easier, reduced
+   barriers to transacting, and enabled the introduction of e-wallets for making social
+   payments to Jordanians and refugees.
+
+· 12 percent of the workers surveyed experienced a change in the method of their wage
+   payments, from cash to digital. Most workers who experienced this change were
+   concentrated in a single factory.
+
+· 57 percent of survey respondents who experienced this change converted from cash to
+   e-wallet, while the remaining 43 percent converted from cash to bank transfer.
+
+The rapid reaction of government and regulators created a legal and regulatory
+environment that made adoption of digital payments easier for both factories and
+workers. This encouraged other companies to consider making the transition to digital
+wage payments themselves.
+
+                                  The remainder of this section provides a series of recommendations for all
+                                  Jordanian stakeholders as they work toward the vision of Digital 2.0. Specific
+                                  recommendations for each of the key actors are highlighted. A summary of the
+                                  challenges outstanding and recommendations for stakeholders are presented
+                                  in Table 2.
+
+                                                                                                                                                                                                                                                                 31
+LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+TABLE 2:
+
+Summary of recommendations by stakeholder
+
+RECOMMENDATIONS  1                                                          2                     3
+
+                 Design worker-                                             Create conditions     Build a
+                 centric and                                                for merchants and     sustainable
+                 value-added                                                others within the     business
+                 solutions                                                  ecosystem to adopt    model that
+                                                                            digital payments      appeals to
+                                                                                                  workers
+
+CHALLENGES       The use cases                                              Workers have very     Companies
+                 for Jordanian and                                          few opportunities     have difficulty
+                 migrant workers                                            to use their digital  understanding the
+                 are different.                                             money to pay for      medium- and long-
+                                                                            goods and services    term business case
+                                                                            in Jordan.            for the transition.
+
+STAKEHOLDERS
+
+                 Financial service                                          Financial service     Financial service
+                      providers                                                  providers             providers
+
+                                                                                                     (secondary)
+
+                 Companies                                                                        Companies
+                                                                                                   (primary)
+
+                                                                            Government            Government
+                                                                                bodies                bodies
+
+                                                                                                  (secondary)
+
+                                                                Workers'
+                                                            representative
+
+32
+4                               5                         6
+
+Manage the change               Create conditions         Build workers' trust
+process responsibly             for a more robust         and adoption of digital
+by working with                 market for                solutions by improving
+garment companies,              e-wallets                 liquidity at cash-out
+in collaboration with                                     points and increasing
+selected FSPs, workers                                    network density
+and the trade union
+
+Capacity-building and           Interoperability at the   Workers experience
+awareness-raising among         agent level is still not  long queues at ATMs and
+workers is needed to ensure     available in Jordan and   with agents on payday.
+that any transition to digital  individuals are limited   Sometimes they have to
+runs smoothly.                  to two e-wallets.         return on a second or third
+                                                          day to cash out.
+
+Financial service               Government bodies         Financial service
+     providers                     and regulators              providers
+                                    (Central Bank
+    Companies                         of Jordan)                                                                               33
+
+     Workers'
+ representative
+    LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+    RECOMMENDATION  Design worker-centric and
+                    value-added solutions
+    1
+
+    MARKET INSIGHTS:
+
+    Target remittance payments to increase adoption by migrant workers
+
+    · Smartphone ownership might improve the experience and entice workers experience
+       with digital wages and entice them to use digital payments for purchases or remittances.
+       58 percent of migrant workers own a smartphone as do 54 percent of Jordanian workers.
+       But only 31 percent of migrant workers were paid through digital means compared to
+       69 percent of Jordanian workers. Among migrant workers, ownership of a bank account is
+       also more likely (87 percent) than an e-wallet (13 percent).
+
+    · Workers interviewed had limited understanding of digital payment apps. Migrant workers
+       in particular were worried about having to rely on others to make effective use of them, as
+       sharing their information with others could expose them to fraud. They also worried that if
+       they were not able to immediately locate someone who could help them, their transactions
+       could be delayed.
+
+    · The majority of migrant workers are from South Asia. Only 9 percent of migrant workers
+       surveyed speak Arabic, and 4 percent speak English. Just 3 percent read and write in one of
+       the two languages. These workers need instructions, SMS, apps, agent services and customer
+       care in their native languages (Hindi, Bangla, Sinhala, etc.).
+
+    · Sending remittances is an important issue for migrants. All migrants surveyed remit part
+       of their wages back home, and 62 percent of migrants indicated that they remit at least
+       two-thirds. The survey highlighted that workers organize these remittances after they cash-
+       out their wages. Of the migrants surveyed, 83 percent also indicated that they pool their
+       remittances with other migrants at least some of the time.
+
+    It is important to build user-centric solutions that take into consideration the user's
+    capability, characteristics and functional needs
+
+34
+FIGURE 8:                                                                                                                 = Pay in cash
+
+Migrant worker spending patterns                                                                                          = Pay in bank
+                                                                                                                            account
+SPENDING SUMMARY - MIGRANTS (n=127)
+
+                                                                                                              74%
+
+0% 0%       0% 0%        14%          10%                     0%                                                   1% 0%  0% 0%
+  RENT*  UTILITY BILLS*           0%           0%
+                                                      MOBILE &
+                         FOOD &       TRANSPORTATION  INTERNET                                                     REPAY LOANS HEALTH RELATED
+                                                                                                                                                 EXPENSES*
+                         DAILY NEEDS
+
+*Employers provide support for these services for the workers surveyed
+
+ENGAGEMENT               User journeys for Jordanian and migrant workers are different. Migrant workers
+NEEDED FROM:             predominantly spend wages on mobile and Internet services and send remittances
+                         home (Figure 8). Differences in the digital or financial experience of men and
+Financial service        women may also impact the extent to which they would be comfortable with
+      providers          digital wages. Some women surveyed lacked access to any kind of mobile phone
+                         and some had neither a bank account nor an e-wallet.
+     Companies
+                         » FSPs would benefit from careful segmentation of the market. Research
+                             has provided insights into the behaviours of migrant garment sector workers,
+                             which can support the design of more appropriate and adapted service
+                             offerings. One significant opportunity in this market is facilitating digital
+                             international remittances to migrant origin countries at low cost to workers.
+                             A number of stakeholders would need to work together to make this happen.
+
+                         » FSPs would benefit from collaborating with companies in the garment sector
+                             and the sector's workers union to ensure that the concerns and desires of
+                             workers inform the design process. Whatever their experience level,
+                             workers want attractive, easy-to-use solutions that will provide them with
+                             tangible benefits.
+
+                         » Working with all other actors in the ecosystem, PSPs could develop the
+                             necessary rules, process protocols and pricing structures to build on
+                             existing technical interoperability and create functional interoperability
+                             across e-wallets, agent and merchant networks.
+
+    Workers'
+representative
+
+                                                                                                                                                                                                                                                                     35
+    LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+    RECOMMENDATION    Create conditions for merchants
+                      and others within the ecosystem
+    2                 to adopt digital payments
+
+    MARKET INSIGHTS:
+
+    Keep funds digital by targeting merchant payments to increase adoption by
+    Jordanian workers.
+
+    · All workers surveyed indicated that they pay their expenses in cash rather than using a digital
+       payment method.
+
+    · Workers interviewed in factories that were making the transition to digital payments raised
+       doubts that they would be able to use their e-wallets to make purchases in the industrial zone.
+
+    · Of the 94 respondents who provided information about their saving habits, 79 percent
+       indicated that they keep their savings in cash, `in a safe place'. A minority of migrants send
+       their savings home, while a minority of Jordanian workers take savings to the bank or store
+       them in an e-wallet.
+
+    · Of the respondents who have needed loans, 61 percent have received them from family and
+       friends. The remaining 39 percent received loans from the factory. Family loans are generally
+       cash transactions. Factory loans are cashed out if they are not initially paid in cash.
+
+    If workers were certain that they could use their e-wallets widely at no additional cost, some
+    would make more use of them for day-to-day purchases.
+
+    FIGURE 9:                                                                            = Pay in cash
+
+    Jordanian worker spending patterns                                                   = Pay in bank
+                                                                                           account
+    SPENDING SUMMARY - JORDANIANS (n=48)
+
+                 65%            60%                            54%
+
+                                                      42%
+
+    27%                     0%       0%                    0%           0%  13%          8% 0%
+             0%  UTILITY BILLS                                                       2%
+                                                               MOBILE &
+       RENT                     FOOD & DAILY TRANSPORTATION    INTERNET     REPAY LOANS HEALTH RELATED
+                                     NEEDS                                                               EXPENSES
+
+36
+ENGAGEMENT         One of the key weaknesses in the current ecosystem is that workers have
+NEEDED FROM:       very few opportunities to use their e-wallets to pay for goods and services in
+                   Jordan. Jordanians are most likely to use wages to pay for rent and utilities,
+Financial service  food and transport (Figure 9). Without a critical mass of merchants, who accept
+      providers    digital payments, e-wallets are of limited utility to workers. This only reinforces
+                   the current tendency to cash out. To overcome this challenge, FSPs can work
+    Government     in collaboration with government to overcome foundational barriers (such as
+        bodies     paperwork and licences) to accepting cash payments. They can also develop
+                   the right conditions and initiatives to encourage the widest range of providers
+                   to accept all forms of digital payments, including providers of food, small
+                   consumer goods, transport, and mobile and internet connectivity. Specific
+                   recommendations include:
+
+                   » Provide help to overcome negative perceptions among merchants about
+                       accepting digital payments, including worries about data protection
+                       vulnerabilities and tax implications. The government will have a critical role
+                       to play in this.
+
+                   » Work with PSPs to come to an agreement on commercial terms that will
+                       allow interoperable transactions. The CBJ will have a critical role here.
+
+                   » Create awareness campaigns directed at merchants and providers of goods
+                       and services about the benefits of accepting digital payments. This will help
+                       increase the use of e-wallets, particularly in the case of Jordanian workers.
+
+                   » Support merchants and others as they set up necessary systems to accept
+                       digital payments and help them invest early. One example: support merchants
+                       in rural areas working to get their papers submitted to the Ministry of
+                       Information and Communications Technology (MoICT).
+
+                   » Provide capacity-building to merchants and others to help them effectively
+                       manage digital payments and make the most out of these innovations for
+                       their businesses.
+
+                   As the market becomes more sophisticated, service providers will increasingly
+                   offer more differentiated solutions based on the needs of merchants, to address
+                   key pain points based on an understanding of the whole customer journey.
+                   With time, data collected from digital payments will become the most valuable
+                   commodity, which will allow the reduction or elimination of fees charged to
+                   merchants and end users.
+
+                                                                                                        37
+    LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+    RECOMMENDATION  Build a sustainable business
+                    model that appeals to workers
+    3
+
+    MARKET INSIGHTS:
+
+    Disbursing wages in cash incurs a number of costs.
+
+    · The main costs of cash are the administrative price of disbursing cash wages, the cost of
+       transporting cash and corresponding insurance, and opportunity costs as a result of workers
+       leaving the production line to collect their wages.
+
+    · Across the three companies interviewed, which represent 12 percent of the garment industry
+       in Jordan, the average monthly cost of disbursing wages in cash was 1.062 JD (US$1,427) per
+       factory. This is equivalent to the wages of 4.4 workers per month or, the value of 2,508 long
+       sleeved shirts.
+
+    · Among the three companies studied that pay wages digitally, administrative staff saved
+       66 percent of the time spent disbursing cash wages to bank accounts and saved 70 percent
+       when disbursed to e-wallets.
+
+    · All three companies also saved approximately 308 JD per month by reducing costs for cash for
+       transport, security and insurance of cash.
+
+    · Companies interviewed identified other intangible benefits of digital wages, including greater
+       transparency and better governance, as well as more security and less risk of loss or theft.
+
+    The increased functionality of a mature Digital 2.0 financial services market will be more cost-
+    effective for companies and more attractive for workers.
+
+38
+ENGAGEMENT         Many companies have positive attitudes about wage digitization, but often have
+NEEDED FROM:       difficulty understanding the medium- and long-term business case for the
+                   transition. To gain the long-term benefits of digital wages, companies must factor
+     Companies     in upfront investment and recurrent costs. In the short term, the overall cost to the
+      (primary)    factory may increase, to hire mobile ATMs or install an ATM in the factory. Longer-
+                   term benefits begin to accrue as the ecosystem develops, transaction fees fall,
+Financial service  and workers use bank transfers and e-wallets rather than relying on cash for
+      providers    all transactions.
+
+    (secondary)    » To find internal resources to allocate for the transition to digital
+                       solutions, companies can look carefully at all hidden direct and indirect costs
+    Government         that accrue when workers are paid in cash.
+        bodies
+                   » It is important for management to articulate and measure the benefits
+    (secondary)        of digital payments, both tangible and intangible, immediate and
+                       longer-term.
+
+                   » Selecting the most suitable financial service provider will be a critical
+                       driver of success for garment companies. This means having a clear
+                       idea of what is needed and being able to articulate these needs as part of a
+                       request for proposals (RFP). A proper RFP process allows the company to
+                       gather information, define requirements and receive competitive offers from
+                       bidding FSPs. The RFP process allows the company to negotiate a good deal
+                       from the selected FSP, ensuring that the FSP will support the factory during
+                       the transition process. Companies can then build a business model that allows
+                       for the optimum pricing mechanism, minimizing the potential cost of the
+                       transition to the worker. (The average cost per transaction for workers is still
+                       relatively high, with workers surveyed citing average figures of 2­3 JD per
+                       e-wallet transaction).
+
+                   » When exploring options for a digital payment solution, companies should
+                       avoid passing on banking costs to workers. Hidden costs, for balance
+                       enquiries in particular, should be avoided. Research has shown that waiving
+                       the fee on balance enquiries builds user confidence in their account and
+                       makes users more likely to use accounts to store money and save. Workers
+                       should also be granted a number of free withdrawals per month.
+
+                   » Building the right business model will require collaboration across companies,
+                       FSPs and government. JGATE could support this process, working with
+                       companies to explore the best business model and in negotiating terms
+                       with FSPs.
+
+                                                                                                          39
+LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+RECOMMENDATION  Manage the change
+                process responsibly
+4
+
+         MARKET INSIGHTS:
+
+      To drive change, factory management needs to be supported by
+      garment companies, in collaboration with selected FSPs, workers
+      and the trade union.
+
+        · Jordanian factory managers interviewed acknowledged the importance of securing worker
+           buy-in prior to introducing changes, and supporting workers throughout the transition process.
+
+        · Many workers interviewed are not familiar with digital money, making them hesitant to change
+           from cash which feels more secure. However, those that have tried digital payments are
+           extremely satisfied. Creating familiarity is an essential part of the transition process.
+
+        · Some workers share their bank or card details with others to receive help managing their
+           transactions. This leaves them vulnerable to potential fraud.
+
+        · Workers interviewed indicated that if they witness a small group in the factory successfully
+           using DFS, they will be more likely to adopt digital services themselves.
+
+        Sustained, appropriate capacity-building and awareness-raising among workers is necessary
+        for a smooth transition to digital.
+
+                                                 Although garment companies are the clear leaders of the transition to digital wages,
+                                                 they will be most successful when they work in collaboration with key actors in
+                                                 the ecosystem.
+
+                                                 » Companies can prepare for change by raising worker awareness of the benefits
+                                                      of wage digitization and the advantages of digital payments, while engaging in
+                                                      a dialogue with Jordanian and migrant workers to understand how best to get
+                                                      their buy-in. It is important for companies to be transparent about their intentions,
+                                                      time the transition well and consider the transition's impact on workers. It is
+                                                      also crucial to address misconceptions or fears about who has access to bank
+                                                      accounts opened by management on behalf of workers, which can greatly
+                                                      affect trust. FSPs can provide technical support, while trade unions can help
+                                                      allay potential hesitation and fear. Better Work Jordan can play a key role in
+                                                      this process, given their strong understanding of worker needs and their role in
+                                                      working with factories on positive practices for efficiency and impact.
+
+40
+ENGAGEMENT         » The most effective way for companies to build enthusiasm for a transition to
+NEEDED FROM:           digital among workers is to present realistic role models, both Jordanian and
+                       migrant workers. The successful adoption of digital wages by their peers can
+     Companies         be a significant encouragement for other workers to follow suit. Training during
+                       the transition period will help workers have a positive experience. Negative
+Financial service      experiences of transition can have a long-lasting negative impact on worker
+      providers        perception, leaving workers with the idea that e-wallets, apps and ATMs are
+                       complex and not user-friendly. These experiences not only influence the opinion
+      Workers'         of those directly affected, but also colleagues they may tell. Therefore, it is critical
+ representative        to address negative stories and myths that may circulate among workers.
+                       Better Work Jordan, along with national partners such as the trade union and
+                       HR staff in the factories, can support companies by providing effective support in
+                       capacity-building among the workforce.
+
+                   » To maximize the chances of success, companies should ensure that they have
+                       the necessary skills to manage this transition before starting on the journey.
+                       The transition will impact not only garment workers, but also the processes of
+                       administration. Management can identify potential pitfalls in advance through
+                       training all staff involved, and budgeting enough time for testing before large-
+                       scale deployment. Identifying champions among workers can also provide
+                       powerful advocates for the rest of the workforce to follow.
+
+                   » Finally, implementing a financial and digital literacy campaign for
+                       workers, in partnership with other providers, can help workers develop
+                       the skills needed to make effective use of the digital channel for wages and
+                       payments. This training can include formal workshop sessions, or one-to-one
+                       assistance and coaching around pay-day. Better Work Jordan could also play a
+                       supporting role.
+
+Experience in Bangladesh confirms the importance of awareness-
+raising and capacity-building.
+
+In Bangladesh, awareness-raising prior to the transition to digital took the form of a
+detailed poster and training. This helped reduce anxiety, prepared workers, and helped them
+deal with digital payments better and more securely. Feedback from workers highlighted
+that the impact of the training could be improved by delivering it in smaller groups, using
+video and practical demonstrations and having multiple sessions rather than just one.
+Workers also indicated that was important for training to tackle any prevailing rumors
+and myths head-on. Some evidence showed that women exhibited greater preference for
+multiple sessions and were less likely to be able to use the e-wallet without assistance
+after limited training. Given the large number of women working in the garment industry in
+Jordan, this is a significant factor.
+
+                                                                                                                 41
+    LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+    RECOMMENDATION  Create conditions for a more
+                    robust market for e-wallets
+    5
+
+    MARKET INSIGHTS:
+
+    · Currently, person-to-person transactions between e-wallets from different providers is
+       possible, using Jordan Mobile Payment (JoMoPay), operated by the Jordan Payments and
+       Clearing Corporation (JoPACC) and overseen by the Central Bank of Jordan (CBJ).
+
+    · Interoperability at the agent level is still not available in Jordan. Although technically the
+       system is ready to accommodate payments involving the agent networks of different PSPs,
+       there is no clear agreement between ecosystem actors on the commercial elements (e.g.
+       establishing the processes involved, fixing pricing, etc.)
+
+    · Current legislation allows each individual only two e-wallets. But seven PSPs currently serve
+       the Jordan market, with two more PSPs set to join in 2021, and banks are increasingly being
+       encouraged to connect to JoMoPay and issue e-wallets linked to bank accounts. Limiting
+       the number of e-wallets per person may impede free market dynamics that would allow an
+       individual to choose to sign up for multiple e-wallet offers.
+
+      ENGAGEMENT       » Current regulation limiting individuals to two e-wallets could be reviewed.
+     NEEDED FROM:          Individuals would then be free to open any wallets they find interesting, and
+                           close those that no longer serve them, as is currently the case with bank
+    Government bodies      accounts, cards, etc.
+       and regulators
+        (Central Bank  » Government could also play an important part in stimulating the use of
+          of Jordan)       e-wallets for wage payments. Encouraging companies to adopt digital wage
+                           solutions will enable a sector-wide shift in the garment industry. Timed
+                           appropriately, with an increase in cash-out points, better liquidity and more
+                           widespread acceptance of digital payments by merchants, government
+                           encouragement can lead to stronger uptake of digital payment services
+                           among garment workers, contributing to more secure and responsible digital
+                           wages and greater financial inclusion for Jordan's workers.
+
+42
+43
+
+© Better Work Jordan
+LEADING THE CHANGE TO OVERCOME EXISTING BARRIERS
+
+RECOMMENDATION  Build workers' trust and adoption
+                of digital solutions by improving
+6               liquidity at cash-out points and
+                increasing network density
+
+MARKET INSIGHTS:
+
+Garment workers' habit of managing their finances in cash leads to liquidity
+crunches at ATMs or cash-out points, and long queues at peak times.
+
+· 90 percent of workers surveyed who receive digital wages were very satisfied with the method.
+   Not a single respondent registered dissatisfaction. However, 100 percent of workers receiving
+   digital wages cashed out their wages. The majority cashed out immediately, in response to
+   anticipated difficulties with accessing their cash.13
+
+· When transitioning to digital wages, the main difficulties companies encountered occurred on
+   pay day when workers attempted to convert their wages into cash, resulting in long queues at
+   ATMs and agents' offices. Other difficulties arose from workers' initial unfamiliarity with both
+   the technology and the cashing-out process.14
+
+· Some workers interviewed indicated that they were unable to withdraw all of their wages. This
+   occurred, because ATM machines did not contain denominations small enough to cash them out.
+   These sums of money were significant to workers, and they wanted immediate access to the
+   entire balance in their accounts.
+
+Building workers confidence in their ability to access their funds digitally or in cash where and
+when they want is a combination of: (1) improved liquidity to deal with peak demand (2) denser
+and more easily accessible network of agents and ATMs and (3) increased merchant acceptance.
+
+         ENGAGEMENT          Because workers experience long queues on payday they sometimes have to return
+        NEEDED FROM:         on a second or third day to cash out. This fuels the rush to be first to cash out as soon
+                             as wages are credited to workers' accounts and e-wallets. If workers could be sure
+          Financial service  that they could access their funds quickly, at any time, this rush would abate.
+               providers
+                             » Ensuring that cash points have sufficient liquidity and can dispense small
+44                               denominations will build workers' trust and adoption of digital solutions.
+
+                             » If financial service providers develop a network of cash points that is dense
+                                 enough to serve the needs of workers, workers will also have more opportunity
+                                 to make transactions digitally from the account or e-wallet while the
+                                 market matures.
+
+                             » Workers may need financial advice from agents on payday, which could
+                                 encourage workers to store money in accounts, and create confidence for
+                                 using other services, benefitting FSPs in the long term.
+© Better Work Jordan
+
+                                                           ANNEXES
+
+45
+    ANNEX 1
+
+    Understanding the Digital Payments Journey for
+    Jordanian and migrant workers in the garment sector,
+    to design responsible solutions
+
+                                             From our survey, two user groups with distinct preferences and needs were
+                                             identified: Jordanian workers and migrant workers, primarily from Bangladesh,
+                                             India, Nepal and Sri Lanka.
+
+    FIGURE 10:                    17%
+                             9%
+    Breakdown of workers
+    surveyed by nationality
+
+                                           27%  = Bangladeshi
+                                                = Jordanian
+                             7%                 = Sri Lankan
+                                       40%      = Nepali
+                                                = Indian
+
+                             In this brief we document the user journey of each user group to identify specific
+                             considerations for the design of appropriate digital services in order to enhance
+                             uptake and sustained usage.
+
+                             The user journey for all workers begins when they obtain their wages. Although
+                             the majority of the workers surveyed were paid in cash, over 40 percent are being
+                             paid through digital means, including bank transfers and e-wallets. The trend
+                             toward digital payments is likely to grow in factories because of the efficiencies
+                             and transparency of digital wages and in response to COVID.
+
+    FIGURE 11:
+
+    How workers are paid
+
+                                      59%       = Cash
+                                                = Bank Account
+                             7%                 = E-wallet
+                                      34%
+
+46
+                                         Migrant workers surveyed were twice as likely to be paid in cash than by a
+                                         digital method. This appears to correlate with a higher proportion of Jordanians
+                                         in the sample having a Jordanian bank account that enabled digital payments.
+                                         In addition, male migrants may be more likely to have a Jordanian bank account
+                                         than women. Ensuring migrant women have access to a Jordanian bank
+                                         account or other financial services is a critical step for digital financial inclusion
+                                         and participation.
+
+                                         For migrants workers choosing financial products, interoperability with payment
+                                         service providers in their home countries, where they send remittances, was a
+                                         significant concern.
+
+                                         Language could also present a barrier to usage, with fewer than one in ten
+                                         migrant workers speaking Arabic and only 6 percent speaking English. Less than
+                                         0.5 percent of migrants surveyed could read or write in one of these languages.
+                                         It would be helpful to have options in their own languages for e-wallet and bank
+                                         applications, ATM instructions, and mobile/bank agents.
+
+FIGURE 12:
+
+Breakdown of wage payment method by nationality
+
+ALL WORKERS  Cash                     Bank Account       E-wallet
+
+             103                      59                 13
+
+MIGRANTS     Cash                          Bank Account       E-wallet
+
+             88                            34                 5
+
+JORDANIANS   Cash       Bank Account                E-wallet
+
+             15         25                          8
+
+                   20%  40%           60%  80%                100%
+
+                   Once they have cashed their wages, the user journeys of migrant and Jordanian
+                   workers begin to diverge.
+
+                                                                                                                                                                                                                     47
+THE MIGRANT WORKER JOURNEY                                                                                   CASH REMITTANCES
+
+Figure 13 provides an overview of the behavior of migrant workers surveyed:                                 Exchange House
+127 workers, representing 73 percent of the total sample.                                                        (migrant)
+                                                                                                                     34%
+FIGURE 13:
+                                                                                                            Exchange House
+Migrant worker journey in Jordan                                                                              (via bank rep)
+                                                                                                                      6%
+    CASH WAGES   Cash out  Keep until
+                  wages       ready                                                                           Bank Transfer
+      Wages         ALL      to use                                                                              (migrant)
+     received                  ALL                                                                                   35%
+
+      (cash)                                                                                                  Bank Transfer
+                                                                                                              (via bank rep)
+  DIGITAL WAGES
+                                                                                                                     32%
+      Wages
+     received                                                                                                CASH EXPENDITURE
+(bank transfer)
+                                                                                                              Pay internet &
+      Wages                                                                                                    mobile - 74%
+     received
+    (e-wallet)                                                                                                   (ALL cash)
+
+                                                                                                            Pay food & daily
+                                                                                                                needs - 14%
+                                                                                                                 (ALL cash)
+
+                                                                                                          Pay transport - 10%
+                                                                                                                 (ALL cash)
+
+          For expenditures, the percentage indicates the proportion of the sample that has this expense.
+
+48
+                                  All migrant workers that were paid their wages digitally, cashed them out as soon
+                                  as practicable.
+
+                                  Migrant workers surveyed had minimal expenses locally. They did not pay rent
+                                  or utility bills and their expenses for food and transportation were very low,
+                                  since their employer provides them with accommodation, as well as meals and
+                                  transport to and from the factory. They did not have expenditures related to health,
+                                  because they are insured through their employer. Any purchases they did make,
+                                  such as internet, mobile, food and transport, were paid for in cash.
+
+                                  Those who reported saving tend to save informally (79 percent), keeping the cash
+                                  in a safe place. Only a minority (14 percent) sent their savings home.
+
+                                  A critical part of the worker journey for migrants is the ability to send their wages
+                                  back home. The majority remit over two thirds of what they receive. Bank transfer,
+                                  used by two thirds of respondents, was the most popular method for sending
+                                  money abroad. The remaining third transferred money via Exchange Houses. More
+                                  than half of migrant workers did not send money every month but tended to wait
+                                  for two to three months. 80 percent of those surveyed said that they pool their
+                                  money in order to send bulk remittances home at least some of the time.
+
+                                  Box 1 supplements these insights with the experience of one migrant worker
+                                  from Nepal.15
+
+BOX 1:
+
+Worker experience: Ghita Bardewa
+
+Ghita Bardewa is a young woman from Nepal, educated to primary level. She is currently
+working in a garment factory in Jordan. She owns a smartphone.
+Ghita's wages are paid into her Ghada e-wallet. She was originally given a choice between
+a bank account and an e-wallet and chose the latter, largely because her family back home
+does not have a bank account. Despite her limited experience with this payment method,
+she has found it easy to use and is satisfied, although she converts her wages into cash
+because she prefers to keep the money on her.
+Ghita pays for any small purchases she makes in cash, and is content to continue doing
+so, because she does not have experience in using her e-wallet card. She is also aware
+that most local markets around the factory are not currently prepared to accept payment
+through e-wallets, so for the time being she is not interested in changing her habits, even if
+she were offered special deals and discounts.
+To send remittances home, she takes cash she has previously withdrawn to an agent. She
+keeps her savings in cash, because it is important to her to have immediate access to cash
+whenever she needs it.
+Ghita is a relatively new user with only three months experience of receiving digital wages
+through her e-wallet. With additional training, she would be interested in using the e-wallet
+to save money and to send remittances home.
+
+                                                                                                                                                                                                                                                                49
+THE JORDANIAN WORKER JOURNEY
+
+Figure 14 provides an overview of the behavior of the Jordanian workers surveyed:
+48 workers, representing 27 percent of the total sample.
+
+FIGURE 14:
+
+The Jordanian worker journey
+
+CASH WAGES                                                                                                   CASH EXPENDITURE
+
+  Wages                                                                                                       Pay Rent - 27%
+ received                                                                                                        (ALL cash)
+
+   (cash)                                                                                                 Pay utility bills - 65%
+                                                                                                                 (ALL cash)
+                 Cash out     Keep until
+                  wages          ready                                                                        Pay internet &
+                    ALL         to use                                                                          mobile - 54%
+                                  ALL
+                                                                                                                 (ALL cash)
+  DIGITAL WAGES
+                                                                                                             Pay food & daily
+      Wages                                                                                                     needs - 60%
+     received                                                                                                    (ALL cash)
+(bank transfer)
+                                                                                                          Pay transport - 42%
+      Wages                                                                                                      (ALL cash)
+     received
+    (e-wallet)                                                                                             Pay health related
+                                                                                                                 costs - 8%
+                                                                                                                 (ALL cash)
+
+                                                                                                             Repay loan - 15%
+                                                                                                                 (86% cash)
+
+                                                                                                          (14% bank account)
+
+          For expenditures, the percentage indicates the proportion of the sample that has this expense.
+          With the exception of loan repayments, ALL expenses are paid in cash.
+
+50
+                                  More than twice as many Jordanian workers surveyed were paid digitally,
+                                  compared to those paid in cash. But all workers paid digitally cashed out quickly.
+
+                                  Jordanian workers tended to have a much wider range of expenditures than
+                                  migrant workers, although there was significant variation among the sample
+                                  depending on personal circumstances. Just over a quarter of Jordanian workers
+                                  were responsible for paying rent and two thirds paid utility bills. Other main
+                                  areas of expenditure were food and daily needs, mobile and internet connection
+                                  and transportation. A small minority paid health-related expenses. Despite the
+                                  differences in spending patterns from migrant workers, all Jordanian workers also
+                                  indicated that they use cash exclusively for payments.
+
+                                  15 percent of Jordanian workers surveyed indicated that they were repaying loans,
+                                  principally obtained from friends and family or from the factory. With the exception
+                                  of one respondent who was repaying a loan via bank transfer, the respondents
+                                  made their loan repayments in cash.
+
+                                  Only 7 Jordanian workers disclosed their savings habits. They save using both
+                                  cash and digital methods.
+
+                                  Box 2 supplements these insights with the experience of one female Jordanian
+                                  garment worker.
+
+BOX 2:
+
+Worker experience: Batoul Hussain
+
+Batoul Hussain is a young Jordanian woman with a college education, currently working in a
+garment factory in Jordan. She owns a smartphone.
+Batoul receives her wages via bank transfer. She has been paid through the Jordanian
+Kuwaiti Bank for over two years. She finds this method of payment both much more
+convenient and safter than cash. There have been no problems receiving her wages during
+the pandemic as they continue to be paid into her bank account and she then withdraws her
+money from the ATM without the need for any human contact.
+Batoul has recently started to use "eFAWATEER.com" on her bank's mobile application to
+pay her bills. This has been a positive experience for Batoul, who finds that paying bills this
+way is much easier than in person. She now plans to start paying her mobile and internet
+bills via the bank´s application.
+Batoul does not use her Visa card to pay for any purchases, mainly because the shops near
+her don't accept card payments. She would definitely be interested in using her card more
+often, especially if she could take advantage of special deals or discounts in this way.
+At the moment, Batoul does not save any of her income, but she would keep her savings in
+the bank if she were to start.
+Source: Worker Interviews 2020
+
+                                                                                                                                                                                                                                                                51
+    ANNEX 2
+
+    Framework of common direct and indirect costs
+    for paying wages
+
+    COMMON DIRECT & INDIRECT COSTS FOR PAYING WAGES
+
+    COST ASPECTS                                    COST CARRIED BY (as a result of each method of wages payment)
+
+                                                    CASH     BANK ACCOUNT                                      E-WALLET
+
+    Dedicated HR to accomplish payroll every month Factory   Factory                                           Factory
+
+    Productivity loss during payroll days affecting Factory  -                                                 -
+
+    management staff and workers
+
+    Cash withdrawal fee from bank branch            Factory  -                                                 -
+
+    (bank notes + coins)
+
+    Bank transfer fee if any (from factory bank     -        Factory                                           Factory
+
+    account to supplier bank account)
+
+    Cash transport & security (to different units)  Factory  -                                                 -
+
+    Cash counting machines used in factory to       Factory  -                                                 -
+
+    prepare envelopes
+
+    Service fee charged by the bank to factory      -        Factory                                           -
+
+    for wages service
+
+    Service fee charged to factory by the PSP for -          -                                                 Factory
+
+    wages service
+
+    Secured space allocation/construction for ATM -          Depends on supplier                               Depends on supplier
+    if any brought to factory                                negotiation & chosen                              negotiation & chosen
+                                                             business model by factory                         business model by factory
+
+    Welfare team to help in digital financial       -        Factory                                           Factory
+
+    services usage
+
+    Monthly maintenance fee on individual bank      -        Worker                                            -
+
+    account (if any) or e-wallet
+
+    Minimum balance on individual bank              -        Worker                                            -
+
+    (if any) account or e-wallet
+
+    Cash out* fee from ATM                          -        Depends on supplier                               Depends on supplier
+                                                             negotiation & chosen                              negotiation & chosen
+                                                             business model by factory                         business model by factory
+
+    Cash out* fee from bank branch                  -        Depends on supplier                               -
+
+                                                             negotiation & chosen
+
+                                                             business model by factory
+
+    Cash out* fee from agent                        -        -                                                 Depends on supplier
+
+                                                                                                               negotiation & chosen
+
+                                                                                                               business model by factory
+
+    Card issuance fee                               -        Depends on supplier                               Depends on supplier
+
+                                                             negotiation & chosen                              negotiation & chosen
+
+                                                             business model by factory business model by factory
+
+    Smartphones purchase                            -        -                                                 Depends on supplier
+
+                                                                                                               negotiation & chosen
+
+                                                                                                               business model by factory
+
+    SIM cards purchase                              -        -                                                 Depends on supplier
+
+                                                                                                               negotiation & chosen
+
+                                                                                                               business model by factory
+
+    International remittances cost for cash or      Worker   Worker                                            Worker
+    digital based (Migrant workers usually remit
+    75 to 90% of their salary)
+
+    Transportation to/from Exchange House for cash Worker    Worker                                            Worker
+    based international remittances
+
+    * Usually 1 cash out is negotiable. Additional cash outs fall under regular service fee
+
+52  Source: Interviews with garment factory management, garment factory workers and payment service providers
+ANNEX 3
+
+Partners and methodology
+
+                                         This research is the result of a collaboration between the International Labour
+                                         Organization (ILO), Better Work (BW), the United Nations-based Better Than Cash
+                                         Alliance and GiZ to document the acceleration of wage digitization in Jordan, while
+                                         assisting two factories in their transition to digital wages for decent work during
+                                         the COVID crisis.
+                                         To study the costs, benefits and factors that influence the adoption of wage
+                                         digitization in the Jordanian garment industry, we began our research with:
+                                         · a review of the digital payment regulatory environment and infrastructure
+
+                                            in Jordan;
+                                         · a stakeholder mapping exercise;
+                                         · interviews with representatives from more than 10 key stakeholder
+
+                                            organisations in the ecosystem including the financial and garment sectors
+                                            (these conversations included semi-structured interviews with senior
+                                            management of 5 large garment companies, representing 25 percent of the
+                                            total workers in the sector);
+                                         · interviews and focus group discussions with workers in the 2 factories that
+                                            received technical assistance during the transition process; and
+                                         · a survey of 175 garment workers (73 percent female), 35 from each of the
+                                            5 factories that participated in the research.
+                                         In addition, we conducted an analysis of the cost of paying workers digitally for
+                                         each factory, segmented by the mode of payment. We also engaged and consulted
+                                         government stakeholders to ensure integration of feedback and perspective.
+
+                                                                                                                                                                                                                                                                             53
+    FIGURE 15:
+
+    Methodology: Driving Digital Wage Payments in the Garment Sector in Jordan
+
+    1 Understand         2 Understand            3 Understand           4 Understand
+          context of             how company             what                   how all
+          transition             management              influences             players in the
+          to digital in          can assist the          adoption by            ecosystem
+          the garment            transition              workers (cost          can come
+          sector in              process                 + benefits +           together to
+          Jordan                                         mind set)              enable scale
+
+                                  5 companies representing
+                                    25% of garment workers
+
+    Semi-structured interviews (5 companies)     Survey of workers paid in  Preliminary
+                                                 cash, via bank transfer    worker
+    Cost analysis per payment modality           and through e-wallet       findings
+    (5 companies)                                                           based on
+                                                 Feedback from              pilot survey
+    Technical assistance for digitization        technical assistance       with 2
+    (2 companies)                                                           companies
+
+    Cash           In transition  Digital        35 workers per         Insights from workers
+    payments       (1 company)    payments       company surveyed       participating in
+    (2 companies)                 (2 companies)                         technical assistance
+
+                                  Lessons learned and the way forward
+
+54
+Bibliography
+
+Better Than Cash Alliance (2017) Responsible Digital Payments Guidelines
+Better Than Cash Alliance (2018) The Future of Supply Chains: Why Companies Are Digitizing Payments
+Better Than Cash Alliance (2018) Increasing factory worker well-being through digital payroll
+Better Than Cash Alliance (2020) Igniting SDG Progress Through Digital Financial Inclusion, UNSGSA, World Bank, Better Than Cash Alliance
+Better Work Jordan (2020) Better Work Jordan Newsletter September 2020
+Better Work Jordan (2020) Annual Report
+Better Work Jordan (2019) Annual Report: An Industry and Compliance Review
+Breza, Emily, Kanz, Martin, Klapper, Leora (2020) Learning to Navigate a New Financial Technology: Evidence from Payroll Accounts (English).
+Policy Research working paper; no. WPS 9495 Washington, D.C.: World Bank Group
+Business & Human Rights Resource Centre, 21.11.2019; Bangladesh: H&M commits to operating digital wage payment system in all garment
+factories by 2020, accessed at https://www.business-humanrights.org/de/neuste-meldungen/bangladesh-hm-commits-to-operating-digital-
+wage-payment-system-in-all-garment-factories-by-2020/.
+Business Wire (2018) Gap Inc. Sets New Goal for Apparel Suppliers to Pay Garment Workers Digitally by 2020. Accessed at
+https://www.business-humanrights.org/en/latest-news/bangladesh-hm-commits-to-operating-digital-wage-payment-system-in-all-
+garment-factories-by-2020/; https://hmgroup.com/news/hm-group-supports-digital-wage-payments/.
+Central Bank of Jordan (2018) National Financial Inclusion Strategy 2018-2020. https://www.cbj.gov.jo/EchoBusv3.0/SystemAssets/
+PDFs/2018/The%20National%20Financial%20Inclusion%20Strategy%20A9.pdf (accessed on 11 March 2021)
+DMA Global (2019) Digital Payments for Migrants in Jordan, preliminary results
+Global Findex Database 2017. Measuring Financial Inclusion and the Fintech Revolution, World Bank Group
+Interviews with garment factory management, garment factory workers and payment service providers (2020)
+JoMoPay (2020) Mobile Wallet Payments made in Jordan, Monthly editions, January to December 2020 inclusive, accessed at
+https://www.jopacc.com/En/List/Payment_Systems_Reports.
+JoPACC (2020) Lockdown But Not Shutdown. The Impact Of The Covid-19 Pandemic On Financial Services In Jordan.
+JoPACC (2020) JoPACC launches a Gateway for Mobile Wallet Services, accessed at: https://www.jopacc.com/En/NewsDetails/JoPACC_
+launches_a_Gateway_for_Mobile_Wallet_Services (accessed 8 March 2021)
+JoPACC (2020) JoPACC launches a new system for instant payments, accessed at: "CliQ"https://www.jopacc.com/En/NewsDetails/JoPACC_
+launches_a_new_system_for_instant_payments_%E2%80%9CCliQ%E2%80%9D (accessed 8 March 2021)
+JoPACC (2021) JoPACC and GIZ launch the MEDAL Facility to expand the network of merchants accepting digital payments and to increase
+digital liquidity, accessed at: https://www.jopacc.com/En/NewsDetails/JoPACC_launches_the_MEDAL_Facility_with_GIZ (accessed
+8 March 2021).
+JoPACC (2020) Mobile Wallet Payments Made In Jordan, accessed at: https://www.jopacc.com/ebv4.0/root_storage/en/eb_list_page/
+jomopay_report_jan._2020.pdf. (accessed 8 March 2021)
+JoPACC (2021). JoMoPay Report - January 2021. https://www.jopacc.com/ebv4.0/root_storage/en/eb_list_page/jomopay_monthly_report_
+(january_2021)-0.pdf (accessed 8 March 2021)
+
+                                                                                                                                                                                                                                                                             55
+    Acknowledgements                                             International Labour Organization (ILO)
+                                                                 The International Labour Organization is the United
+    Among many others, the authors would also like               Nations agency for the world of work. We bring together
+    to thank:                                                    governments, employers and workers to drive a
+                                                                 human-centred approach to the future of work through
+    The project team: Katherine RICKARD (Better Than             employment creation, rights at work, social protection and
+    Cash Alliance), Ivo SPAUWEN (Better Work Jordan), Muna       social dialogue. www.ilo.org
+    ABDO (Better Work Jordan), Kathrin DAMIAN (Deutsche
+    Gesellschaft für Internationale Zusammenarbeit GmbH (GIZ)),  Better Work
+    Kawther ALZOBI (GIZ), Bilal YAN HAGEN (GIZ). The research    As a partnership between the UN's International Labour
+    team: Sahana Arun KUMAR (Avrio Impact), Yolanda GIBB         Organization and the International Finance Corporation, a
+    (Avrio Impact), Mohammed Al KHATIB (Avrio Impact), Emma      member of the World Bank Group, Better Work brings diverse
+    Lala BOUALI (Avrio Impact), Batoul ELKHATIB (Avrio Impact),  groups together ­ governments, global brands, factory
+    Samer BAKEER (Avrio Impact), Muhab AL-RAWWAS                 owners, and unions and workers ­ to improve working
+    (Beyond Consulting).                                         conditions in the garment industry and make the sector more
+                                                                 competitive. Better Work Jordan was created in 2009 and
+    The representatives of the Government of Jordan:             currently supports over 74,000 workers across 97 factories,
+    Eyad MUSHARBASH (Ministry of Digital Economy and             working with 26 brands and retailers www.betterwork.org
+    Entrepreneurship), Amr AHMED (Central Bank of Jordan),
+    Enas HALAIQAH (JOPACC), Maha BAHOU (JOPACC).                 The Deutsche Gesellschaft für Internationale
+                                                                 Zusammenarbeit (GIZ) GmbH (GIZ)
+    The representatives of the garment companies:                The German development agency that provides services in
+    Farhan IFRAM (MAS Kreeda Factory), Venu MENON (Classic       the field of international development cooperation. GIZ mainly
+    Factory), Imran KHAN (Needle Craft Factory), Muhammad        implements technical cooperation projects of the Federal
+    AFZAL (Needle Craft Factory), J. AMITH (Tusker Apparel       Ministry for Economic Cooperation and Development (BMZ),
+    Factory), Aadil SYED (Maliban Factory), Sourav CHOWDHURY     on a public benefit basis. www.giz.de
+    (Sidney Apparels).
+                                                                 Better Than Cash Alliance
+    The representatives of other consulted organisations:        United Nations-based partnership of governments,
+    Farhan IFRAM (Jordan Garments, Accessories & Textiles        companies and international organizations that accelerates
+    Exporters' Association, JGATE), Batoul AL KHATIB and         the transition from cash to digital payments to help achieve
+    Fathallah AL-OMRANI (General Union of Workers in Textile,    the Sustainable Development Goals. Our case study series
+    Garments & Clothing Industries, JTGCU), Reem ASLAN (ILO      seeks to highlight specific examples of shifts from cash to
+    Jordan), Safa SALEH (Zain Cash), Ahmad SAIFAN (Zain Cash),   digital payments by government agencies, companies and
+    Imad ALOYOUN (Dinarak), Maha ALSAID (Gate 2 Pay), Yusra      development partners. We hope that readers will be able to
+    EL ESIR (PVH), Smita NIMILITA (BSR), Ella MOFFAT (BSR).      adapt the lessons from these cases to their own contexts and
+                                                                 local conditions. www.betterthancash.org
+    The authors also acknowledge the valuable
+    contribution of:
+
+    The technical reviewers: Valerie BREDA (ILO), Leora
+    KLAPPER (World Bank), Guy STUART (Microfinance
+    Opportunities), Sasha RADOVICH (BTCA) and the Alliance
+    Editorial and Publication Committee : Harish NATARAJAN
+    (World Bank), Paul NELSON (USAID), Maria MAY (Gates
+    Foundation), Bjorn SKELBRED (Vipps), Stella KLEMPERER
+    (Flourish), Daniel SCHWARTZ (MasterCard), Amina TIRANA
+    (VISA), Loretta MICHAELS (CGAP), Jerry GROSSMAN (Gates
+    Foundation), Daniel MUNA (E-currency), Camilo TELLEZ
+    (BTCA), Tidhar WALD (BTCA), Ruth GOODWIN-GROEN (BTCA).
+
+    Without forgetting all the technical support of:
+    Angela CORBALAN (BTCA), Fareeza IBRAHIM (BTCA),
+    Oliver HYPPOLITE (BTCA).
+
+56
+Endnotes
+
+1. The World Bank, 2020, `Learning to Navigate a New Financial Technology: Evidence from Payroll
+     Accounts (English)', https://documents.worldbank.org/en/publication/documents-reports/
+     documentdetail/273651607459575325/learning-to-navigate-a-new-financial-technology-evidence-from-
+     payroll-accounts.
+
+2. J ordan Payments and Clearing Company (JoPACC), 2020, `Lockdown but not shutdown: the impact of the
+     COVID-19 pandemic on financial services in Jordan,' https://www.jopacc.com/ebv4.0/root_storage/en/
+     eb_list_page/covid-19_report_english.pdf.
+
+3. T hese include financial and non-financial solutions
+
+4. See: Better Than Cash Alliance `Responsible Digital Payments Guidelines,'
+     https://www.betterthancash.org/explore-resources/responsible-digital-payments-guidelines.
+
+5. S ource: Mobile Wallet Payments made in Jordan, JoMoPay, Monthly editions, January to December 2020
+     inclusive, http://www.jopacc.com/En/List/Payment_Systems_Reports.
+
+6. J oPACC (2020) Mobile Wallet Payments Made In Jordan,
+     https://www.jopacc.com/ebv4.0/root_storage/en/eb_list_page/jomopay_report_jan._2020.pdf.
+
+7. J oPACC (2021). JoMoPay Report - January 2021. https://www.jopacc.com/ebv4.0/root_storage/en/eb_list_
+     page/jomopay_monthly_report_(january_2021)-0.pdf.
+
+8. Business & Human Rights Resource Centre, (2019); Bangladesh: H&M commits to operating digital wage
+     payment system in all garment factories by 2020, https://www.business-humanrights.org/en/latest-news/
+     bangladesh-hm-commits-to-operating-digital-wage-payment-system-in-all-garment-factories-by-2020/;
+     https://hmgroup.com/news/hm-group-supports-digital-wage-payments/
+
+9. Business Wire (2018) Gap Inc. Sets New Goal for Apparel Suppliers to Pay Garment Workers Digitally by 2020
+     https://www.businesswire.com/news/home/20180314005329/en/Gap-Inc.-Sets-New-Goal-for-Apparel-
+     Suppliers-to-Pay-Garment-Workers-Digitally-by-2020
+
+10. D ata are based on a survey of 175 Jordanian and migrant workers in the garment sector, carried out in 2020.
+
+11. B etter than Cash Alliance (2017); Responsible Digital Payments Guidelines,
+     https://www.betterthancash.org/explore-resources/responsible-digital-payments-guidelines.
+
+12. Ibid
+
+13. S ource: Worker Survey.
+
+14. Source: Management interviews and Worker Survey.
+
+15. For reasons of confidentiality, the names of the respondents in this box and the following one featuring a
+     Jordanian worker have been changed.
+    W
+      W
+        W.BETTERTHANCASH.ORG
+
+    About The Better Than Cash Alliance                                           ISBN 978-1-7350409-6-7
+
+    The Better Than Cash Alliance is a partnership of governments,                                           90000>
+    companies, and international organizations that accelerates
+    the transition from cash to digital payments in order to reduce poverty  9 781735 040967
+    and drive inclusive growth. Based at the United Nations,
+    the Alliance has over 75 members, works closely with other global
+    organizations, and is an implementing partner for the G20 Global
+    Partnership for Financial Inclusion.
+
+58
+

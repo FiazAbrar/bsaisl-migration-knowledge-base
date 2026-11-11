@@ -1,0 +1,139 @@
+[![Logo Image](/ebv4.0/root_storage/en/eb_homepage/cspdlogo.png)](/Default/En)
+
+[عربي](javascript:__doPostBack('ctl00$ctl00$LinkButton1',''))
+
+[Search](javascript:WebForm_DoPostBackWithOptions(new%20WebForm_PostBackOptions(%22ctl00$ctl00$LinkButton2%22,%20%22%22,%20true,%20%22SearchGroup%22,%20%22%22,%20false,%20true)))
+
+- 
+
+- 
+
+- 
+
+- 
+
+- [عربي](javascript:__doPostBack('ctl00$ctl00$lnkBtnChangeLang',''))
+
+\
+\
+\
+\
+
+![](/App_Themes/ThemeEn/Images/title-bullet.png)
+
+## Services Guide
+
+|  |  |
+|:--:|:--:|
+| Event Registration / Death Register  |  |
+| Target Group   | Jordanian citizens and residents whose events took place inside the Kingdom.   |
+| Service Locations   | Offices of Civil Status and Passports Department.  |
+|  | Jordanian embassies and consulates outside the Kingdom.  |
+| Terms of Service   | 1.     The application should be submitted by a legally authorized family member.  |
+|  | 2.     The (death notification/certificate) should be attested according to the procedure, from the Jordanian embassy and Ministry of Foreign Affairs of the country where the event took place, or from the Jordanian Ministry of Foreign Affairs and the other country’s embassy in Jordan.   |
+|  | 3.     A final ruling decision from the specialized court (the Magistrate Court), of the death event.  |
+|  | 4.     If one of the parents is a foreigner, he/she should have a personal number issued from the Borders and Residence Directorate, for foreigners who don’t have temporary Jordanian documents (West Bankers and Gaza Strip people) or present proof of non-residence from the Public Security Directorate.  |
+| Required Documents to Obtain the Service   | 1.     Death notification from the authority where it occurred.  |
+|  | 2.     Official foreign death certificate from the country where the death occurred.  |
+|  | 3.     A translated copy of the certificate in Arabic from a certified center.  |
+|  | 4.     A final ruling decision from the specialized court.  |
+|  | 5.     Family Book for Jordanians.  |
+|  | 6.     ID card of the deceased Jordanian to be canceled.  |
+|  | 7.     The ID card for the Jordanian whose death was notified; should be legally appointed.  |
+|  | 8.     Passport for non-Jordanians who notify the event.  |
+|  | 9.     Passport for the non-Jordanian deceased.   |
+|   Service Procedures   |  |
+| 1.     Present, audit and approve the required documents and take a number by the Public Service Office.  |  |
+| 2.     Match the information with the application and accept them according to the system by the Application Acceptance Officer.  |  |
+| 3.     Approve the application by the Office Secretary or his assistance.   |  |
+| 4.     Pay legal fees to the Treasurer  |  |
+| 5.     Refer the application to the Data Entry Section.  |  |
+| 6.     Refer the application to the Archiving Section.  |  |
+| 7.     Refer the application to the Audit and Printing Sections.  |  |
+| 8.     Stamp the document.  |  |
+| 9. Hand over the certificate to the service recipient after handing the financial receipt to the Delivery Officer.  |  |
+| Time Needed for the Service  | 45 minutes  |
+| Service Partners  | Medical Services  |
+|  | Jordanian embassies/ consulates outside the Kingdom  |
+|  | Magistrate Courts  |
+|  | The First Instance Court   |
+|  | General Intelligence Department  |
+| Notes   | 1.     If the death notification occurred after the legal period; one year after the date of the event inside the Kingdom and two years outside it, the notified person should obtain a final court ruling from the specialized court to register the event; a foreign death certificate will be replaced regardless of the date of its issuance.  |
+|  | 2.     Death notifications can only be accepted from mayors if the event took place in an area that doesn’t have offices of the Department for 15 days from the date of the notification and should be signed and sealed since he is the authority that supervised the event.   |
+|  | 3.     If the death occurs within a housing complex that doesn’t have a medical authority, the notified person should bring a certificate that is signed by the head of the tribe or the authority where the deceased lives, and from the elective committee. The certificate should be endorsed by the administrative governor and attached with the death notification.   |
+|  | 4.     Legally appointed people to announce death are:   |
+|  | (Ascendants or descendants or spouse of the deceased, adult relatives who attended the event, the doctor assigned to prove death, owner or manager of the place, where death occurred, hospital, nursing home, shelter, hotel, school, prison, or any other place, the mayor).  |
+|  | 5.     If the deceased is of unknown identity, the notification will be done through an official report from the police station; the report should include an estimation of the age of the deceased and cause of death. The event is recorded in a special register at the Office Secretary  |
+|  | 6.     If an infant died before submitting his/her birth notification, the notified person should submit a birth notification before his/her death notification. If the infant was stillborn after the sixth week of pregnancy, the notification will be limited to death.   |
+| Fees  | -         JD1 for issuing the certificate  |
+|  | -         JD10 if 7 days or more passed on the event + JD1 certificate fees.    |
+
+- Services
+- [Services Guide](/EN/List/Services__Guide)
+- [Forms Guide](/En/List/Forms_Guide)
+
+How do you rate the content of the page?
+
+\
+\
+\
+\
+
+- [Useful Links](/En/Modules/UsefulLinks)
+- [FAQs](/EN/Modules/FAQ)
+- [Poll Results](/En/Modules/Poll)
+
+- Social Media
+     
+- [![Facebook](/ebv4.0/root_storage/en/eb_homepage/facebook(1).png)](https://www.facebook.com/CSPD.JO)
+- [![Twitter](/ebv4.0/root_storage/en/eb_homepage/twitter(1).png)](https://twitter.com/Cspdgov_jordan)
+
+[Contact Information](/En/Pages/Contact_Us)
+
+##### Contact Information
+
+- Phone:  [+96265636666](tel:+96265636666)
+- Fax:  [+96225636657](tel:+96225636657)
+- Address: Civil Status and Passports Department - Amman - Tabarbour - next to the public security concerns.
+- Working hours: From Sunday to Thursday, from 8:30 am to 3:30 pm / Friday and Saturday, from 10:00 am to 2:00 pm
+
+[Read More ![](/App_Themes/ThemeEn/Images/read-more.png)](/En/Pages/Contact_Us)
+
+##### This site can be viewed through a 768 x 1366 screen
+
+##### Supports Microsoft Internet Explorer + 10, Google Chrome, Firebox, Safari
+
+##### Programs required for browsing: Adobe Reader
+
+##### Site visits number: 6332489
+
+##### Last update: 19/01/2025
+
+##### To report any technical problems, please call the National Call Center, phone number 06 5008080 or email ncc@nitc.gov.jo
+
+[![حكومتي بخدمتي ](/ebv4.0/root_storage/en/eb_homepage/footerbanner2-0.jpg)](https://portal.jordan.gov.jo/wps/portal?lang=en&isFromLangChange=yes#/)
+
+[![بخدمتcom ](/ebv4.0/root_storage/en/eb_homepage/footerbanner1-0.jpg)](https://portal.jordan.gov.jo/wps/portal/Home/CMU/CMU?lang=en&isFromLangChange=yes#/complaintVerification?type=Complaints)
+
+[![The Right to Obtain Information](/ebv4.0/root_storage/en/eb_homepage/m3lomeh.jpg)](/en/CustomForms/ObtainInformationForm)
+
+[![Code of Ethics](/ebv4.0/root_storage/en/eb_homepage/ethics.jpg)](/EBV4.0/Root_Storage/EN/Code_of_Ethics_and_Public_Service_Ethics.pdf)
+
+[![THE AMMAN MESSAGE](/ebv4.0/root_storage/en/eb_homepage/amman.jpg)](http://ammanmessage.com/)
+
+[![National Plan for human rights](/ebv4.0/root_storage/en/eb_homepage/human.jpg)](/EBV4.0/Root_Storage/EN/Comprehensive-National-Plan-for-Human-Rights_(1)_EN.pdf)
+
+[Privacy Policy](/EN/Pages/Privacy_Policy) [Terms of Use](/EN/Pages/Terms_of_Use) [Disclaimer](/EN/Pages/Disclaimer) [Copyrights](/EN/Pages/Copyrights)\
+All Rights Reserved © 2025 Civil Status And passport Department
+
+Powered By [Echo Technology](http://echo.jo/)
+
+\
+![Logo Image](/ebv4.0/root_storage/en/eb_homepage/cspdlogo.png)\
+
+##### المحتوى غير متوفر باللغة الانجليزية
+
+\
+[Cancel](javascript:__doPostBack('ctl00$ctl00$btnCancel',''))
+
+![](/App_Themes/ThemeAr/Images/scroll-top.png)
